@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2024-12-03"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -2339,41 +2339,67 @@ La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para 
 
 El Ministerio Público se organizará en una Fiscalía General del Estado como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar con título profesional de licenciado en derecho con antigüedad mínima de diez años; gozar de buena reputación y no haber sido condenado por delito doloso.
+Para ser titular de la Fiscalía General del Estado se requiere: tener ciudadanía mexicana en pleno ejercicio de sus derechos civiles y políticos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar con título profesional de licenciatura en derecho con antigüedad mínima de diez años; gozar de buena reputación y no tener o haber tenido condena por delito doloso.
 
-El Fiscal General del Estado durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-I. A partir de la ausencia definitiva del Fiscal General del Estado, el Congreso del Estado contará con veinte días para integrar una lista de al menos cinco candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Gobernador del Estado; en tanto, éste designará un Fiscal General del Estado en forma provisional, quien ejercerá sus funciones hasta que se realice la designación definitiva conforme a lo establecido en este artículo.
+La persona titular de la Fiscalía General del Estado durará en su encargo siete años, y será designada, removida o destituida conforme a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+I. A partir de la ausencia definitiva de la persona titular de la Fiscalía General del Estado, el Congreso del Estado contará con veinte días para integrar una lista de al menos cinco personas candidatas al cargo, aprobada por las dos terceras partes de quienes se encuentren presentes, la cual enviará al Gobernador del Estado; en tanto, éste designará a la persona titular de la Fiscalía General del Estado en forma provisional, quien ejercerá sus funciones hasta que se realice la designación definitiva conforme a lo establecido en este artículo.
 
 Si el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente al Congreso del Estado una terna.
 
-El Fiscal General del Estado designado provisionalmente podrá formar parte de la terna.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+La persona titular de la Fiscalía General del Estado designada provisionalmente podrá formar parte de la terna.
 
 II. Recibida oportunamente la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso del Estado.
 
-III. El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-En caso de que el Gobernador no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
+III. El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará a la persona titular de la Fiscalía General del Estado con el voto de las dos terceras partes de quienes se encuentren presentes dentro del plazo de diez días.
 
-Si el Congreso no formula la lista o no hace la designación en los plazos que establece este artículo, el Gobernador designará al Fiscal General del Estado libremente en el primer supuesto y en el segundo de entre los candidatos que integren la terna.
+En caso de que el Gobernador del Estado no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar a la persona titular de la Fiscalía General de entre las personas candidatas de la lista que señala la fracción I.
 
-IV. El Fiscal General del Estado podrá ser removido por el Gobernador del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+Si el Congreso no hace la designación en los plazos que establece este artículo, el Gobernador del Estado designará a la persona titular de la Fiscalía General del Estado entre las personas candidatas que integren la terna.
 
-V. En los recesos, la Diputación Permanente convocará de inmediato a periodo extraordinario para realizar el trámite de la designación o formulación de objeción a la remoción del Fiscal General del Estado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-VI. Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la ley.
+IV. La persona titular de la Fiscalía General del Estado podrá ser removida libremente por el Gobernador del Estado.
+
+La remoción podrá ser objetada por el voto de la mayoría de las personas presentes del Congreso del Estado, dentro de un plazo de diez días hábiles, en cuyo caso la persona titular de la Fiscalía General del Estado será restituida en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+V. En los recesos, la Diputación Permanente convocará de inmediato a periodo extraordinario para realizar el trámite de la designación o formulación de objeción a la remoción de la persona titular de la Fiscalía General del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+VI. Las ausencias de la persona titular de la Fiscalía General del Estado serán suplidas en los términos que determine la ley.
 
 Corresponde al Ministerio Público la investigación, persecución, ante los tribunales, de todos los delitos de su competencia; y, por lo mismo, solicitará las medidas cautelares contra los inculpados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
-La Fiscalía General del Estado contará, al menos, con la fiscalía especializada en materia de combate a la corrupción, dicha fiscalía especializada será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considere como delitos en materia de corrupción; cuyo titular será nombrado y removido por el Fiscal General del Estado; el nombramiento y remoción del fiscal especializado podrá ser objetado por el Congreso del Estado por el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+La Fiscalía General del Estado contará, al menos, con la fiscalía especializada en materia de combate a la corrupción, dicha fiscalía especializada será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la ley considere como delitos en materia de corrupción; cuya persona titular será nombrada y removida por la persona titular de la Fiscalía General del Estado; el nombramiento y remoción de la persona titular de la fiscalía especializada podrá ser objetado por el Congreso del Estado por el voto de las dos terceras partes de quienes se encuentren presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
 La ley establecerá las bases para la estructura y funcionamiento de la fiscalía, la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de respeto a los derechos humanos, objetividad, honradez, certeza, buena fe, unidad, indivisibilidad, irrevocabilidad, imparcialidad, irrecusabilidad, independencia, legalidad, probidad, profesionalismo, celeridad, eficiencia y eficacia, cuya finalidad será proporcionar una pronta, plena y adecuada procuración de justicia.
 
-El Fiscal General del Estado presentará anualmente a los Poderes del Estado un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-El Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+La persona titular de la Fiscalía General del Estado presentará anualmente a los Poderes del Estado un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+La persona titular de la Fiscalía General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+El Gobernador del Estado podrá destituir a la persona titular de la Fiscalía por las causas graves que establezca la ley.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -4362,3 +4388,9 @@ P.O. 3 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 1 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 95 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 57, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
