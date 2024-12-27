@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2023-12-28"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -2077,15 +2077,15 @@ Cuando además de adquirir un bien o contratar un servicio, se pague una cantida
 
 Se considerará también como base del Impuesto el total de las cantidades efectivamente percibidas por los administradores, organizadores, anfitriones de los establecimientos, de los participantes en dichas actividades, por concepto de acceso y utilización de máquinas o instalaciones relacionadas con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
 
-> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 212
 
 M BIS 2.- Sobre la base gravable se aplicará la tasa del 12%.
 
-La mitad de los recursos que se obtengan por parte del Estado serán destinados a instituciones de asistencia privada y asociaciones civiles autorizadas por los Servicios de Salud de Sonora, CONADIC y que cuenten con CLUNI, mismos que deberán operar programas de prevención y rehabilitación de adicciones.
+El 25% de los recursos que se obtengan por parte del Estado, serán destinados a la Secretaría de Salud Pública, así como a instituciones de asistencia privada y asociaciones civiles autorizadas por los Servicios de Salud de Sonora, CONADIC y que cuenten con CLUNI, mismos que deberán operar programas de prevención y rehabilitación de adicciones.
 
-Los recursos serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
+Los recursos a que se refiere el párrafo anterior, serán otorgados por la Secretaría de Salud Pública a las instituciones de asistencia privada y asociaciones civiles, de conformidad con los lineamientos que al efecto expida la Secretaría de Salud Pública del Estado.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2329,13 +2329,17 @@ Están obligados a recaudar el impuesto los sujetos que perciban los pagos grava
 
 No causan este impuesto los pagos que se realicen por concepto de:
 
-I.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Tratándose de organismos descentralizados del Estado de Sonora y de los municipios del Estado, sólo estarán exentos cuando realicen actividades con fines no lucrativos;
+I.- Viáticos y gastos de representación erogados por cuenta del patrón, comprobados en los mismos términos que para su deducción exijan la Ley del Impuesto Sobre la Renta.
 
-II.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-III.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
+II.- Las herramientas y uniformes proporcionados de manera general a todos los trabajadores que utilicen para desempeñar con seguridad e higiene sus labores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+III.- Prestaciones en especie por concepto de servicios de comida y/o comedor, así como los servicios de transporte y habitación proporcionados de manera gratuita y general a todos los trabajadores, siempre y cuando sea el patrón quien proporcione o contrate directamente a los prestadores de dichos servicios.
 
 > <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -2361,9 +2365,9 @@ IX.- Gastos funerarios;
 
 X.- Becas educacionales a favor de trabajadores y sus hijos, siempre y cuando sean en Instituciones con reconocimiento de validez oficial;
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-XI.- Primas de seguro de gastos médicos y de vida;
+XI.- Primas de seguro de gastos médicos y de vida, proporcionados de manera general a todos los trabajadores.
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -2533,11 +2537,11 @@ La Secretaría de Hacienda podrá aumentar hasta 20 por ciento el monto del est�
 
 La Secretaría de Hacienda en conjunto con la Comisión del Deporte del Estado de Sonora, emitirá las reglas de operación para la aplicación del estímulo fiscal a que se refiere el presente artículo.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 219.
 
-Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
+Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de sus sucursales, bodegas, agencias, unidades económicas, y cualquier ente o figura que permita tener personal dentro o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -2629,9 +2633,9 @@ Son responsables solidarios en el pago de este impuesto:
 
 I.- Los sujetos que perciban los pagos gravados con este impuesto, cuando quien los realiza resida fuera del Estado.
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-II.- Las personas físicas o morales que contraten la prestación de servicios especializados, en los términos del artículo 13 de la Ley Federal del Trabajo, para que éstas les proporcionen algún servicio especializado.
+II.- Las personas físicas o morales que contraten la prestación de servicios especializados, en los términos del artículo 13 de la Ley Federal del Trabajo, para que éstas les proporcionen algún servicio especializado, siempre y cuando este último no cuente con domicilio fiscal dentro del Estado, en el entendido de que la persona física o moral contratante, deberá solicitarle el aviso de inscripción expedido por la Secretaría de Hacienda Estatal.
 
 ###### Artículo 221.
 
@@ -2645,19 +2649,7 @@ II.- Retener el impuesto que se cause conforme a las disposiciones contenidas en
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 221 Bis.
-
-Las personas físicas o morales que contraten la prestación de servicios especializados, en los términos del artículo 13 de la Ley Federal del Trabajo, deberán presentar dentro de los diez días siguientes ante la oficina recaudadora que corresponda a su domicilio fiscal, aviso de inscripción al registro estatal de contribuyentes debiendo acompañar copia del contrato de prestación de servicios, e informar sobre el número de trabajadores que presten el trabajo subordinado y nombre, registro estatal de contribuyentes y domicilio de la prestadora de servicios de que se trate.
-
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
-
-Las autoridades fiscales podrán requerir a las personas físicas o morales la presentación de la información a que se refiere el párrafo anterior, a fin de que en un plazo máximo de diez días cumplan con lo solicitado.
-
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
-
-Por el personal directivo o de base, no incluidos en dicho contrato de prestación de servicios especializados, deberá de pagarse el Impuesto de acuerdo a lo especificado en este Capítulo.
+Artículo 221 BIS.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -3359,25 +3351,21 @@ II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones
 
 III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 292.
 
-Toda la recaudación que por concepto de esta contribución se obtenga en cada municipio, será para beneficio único del Consejo Estatal de Concertación para la Obra Pública.
-
-Sin perjuicio de lo anterior, la recaudación efectiva de esta contribución que exceda a aquélla efectivamente pagada en el ejercicio fiscal de que se trate, con respecto al registro mensual ingresado de dicho ejercicio debidamente actualizado para fines comparativos por la inflación conforme a las proyecciones de la Secretaría de Hacienda y Crédito Público previstas en los Criterios Generales de Política Económica para el ejercicio fiscal de que se trate, será destinada a la modernización y rehabilitación de carreteras y caminos en el Estado de Sonora. Lo anterior conforme a los programas y proyectos de inversión que establezca la Secretaría de Infraestructura y Desarrollo Urbano.
+La recaudación que por concepto de esta contribución se obtenga en cada municipio, será principalmente para beneficio del Consejo Estatal de Concertación para la Obra Pública.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ### Capítulo III Bis. Contribuciones para el Fortalecimiento de la Infraestructura Educativa
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 292 Bis.
 
-Se causará una cuota adicional sobre los impuestos y derechos del Estado, equivalente a un 15% de su importe, con la finalidad de conservar, crear, mantener y fortalecer infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar.
-
-Sin perjuicio de lo anterior, parte de la contribución a la que se refiere el presente artículo, también se podrá causar en beneficio del Instituto Sonorense de Infraestructura Educativa, con la finalidad de cumplir con su objeto, respecto a la programación, presupuestación, construcción, mantenimiento, rehabilitación y equipamiento de los espacios educativos y culturales del Estado.
+Se causará una cuota adicional sobre los impuestos y derechos del Estado, equivalente a un 15% de su importe, con la finalidad de conservar, crear, mantener y fortalecer infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar y cualquier otro rubro del sector educativo.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3393,7 +3381,7 @@ II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones
 
 III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ### Capítulo III Bis 1. CONTRIBUCION PARA EL FORTALECIMIENTO Y SOSTENIMIENTO DE LA CRUZ ROJA
 
@@ -3415,7 +3403,7 @@ c) Por expedición de licencias de conducir.
 
 ###### Artículo 292 Bis
 
-2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para conservar, crear, mantener y fortalecer la infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, el financiamiento del programa de apoyo escolar. Además, podrá contribuir a los gastos operativos, recursos personales y demás requerimientos del Instituto Sonorense de Infraestructura Educativa, con el propósito de coadyuvar en el ejercicio de sus funciones.
+2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para conservar, crear, mantener y fortalecer la infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, el financiamiento del programa de apoyo escolar y cualquier otro rubro del sector educativo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -3475,37 +3463,57 @@ Por la expedición, canje o revalidación de placas de transporte privado, por e
 
 > <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
+### Capítulo III Bis 3
+
+Contribución para el Fortalecimiento de las Instituciones de Seguridad Pública, Procuración e Impartición de Justicia y para Promover la Competitividad del Estado
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 292 Bis
+
+8.- Toda la recaudación que por concepto cuota adicional se obtenga, será exclusivamente para el fortalecimiento y sostenimiento de los cuerpos de bomberos que se encuentren reconocidos por los ayuntamientos de los municipios del estado.
+
+La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de los cuerpos de Bomberos correspondiente al ejercicio inmediato anterior.
+
+De los recursos que se recauden por la presente contribución, el 100% se entregará a patronatos de los cuerpos de bomberos de los ayuntamientos del Estado, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
+
+En caso de que un ayuntamiento cuente con más de un cuerpo de bomberos reconocido, se procederá a la repartición del recurso económico de manera proporcional al número de elementos que integre cada cuerpo de bomberos.
+
+En caso de que un ayuntamiento no cuente con un cuerpo de bomberos reconocido, se procederá a entregar los recursos recaudados al cuerpo o cuerpos de bomberos del municipio más cercano que brinde los servicios, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
+
+El ayuntamiento, organismo, patronato o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciba los recursos a que se refiere este capítulo, deberá rendir un informe pormenorizado del destino de dichos recursos al Congreso del Estado de Sonora, dentro de los 30 días siguientes de haberlos recibido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 292 Bis
+
+9.- Se causará una cuota adicional al Impuesto Sobre Remuneraciones al Trabajo Personal, equivalente al 1% calculada sobre la base establecida en el artículo 214 de esta ley, con la finalidad de fortalecer a las instituciones de seguridad pública, procuración e impartición de justicia, evaluación de la acción gubernamental en la materia, la corresponsabilidad ciudadana frente al delito y para promover la competitividad del Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 292 Bis
+
+10.- No causarán la contribución a que se refiere este Capítulo, los contribuyentes sujetos al Impuesto Sobre Remuneraciones al Trabajo Personal, que tengan menos de 100 trabajadores registrados en el Estado de Sonora, entendiéndose para estos efectos, a los trabajadores registrados ante el Instituto Mexicano del Seguro Social.
+
+Tampoco causarán esta contribución, la Federación, así como los Estados y los Municipios.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 292 Bis
+
+11.- La recaudación que por concepto de esta contribución se obtenga deberá destinarse a un fondo estatal para fortalecer las instituciones de seguridad pública, procuración e impartición de justicia, evaluación de la acción gubernamental en la materia, la corresponsabilidad ciudadana frente al delito y para promover la competitividad del estado, el cual será administrado mediante un Fideicomiso Público que se denominará FICOSEG.
+
+El Ejecutivo del Estado, constituirá este Fideicomiso con la institución fiduciaria que ofrezca las mejores condiciones operativas existentes en el mercado, al cual se aportarán los ingresos provenientes de los recursos establecidos en este capítulo.
+
+Para tales efectos, se creará un Comité Técnico, el cual autorizará sus acciones y proyectos, mismos que serán exclusivamente concernientes a fortalecimiento de las instituciones de seguridad pública, procuración e impartición de justicia, evaluación de la acción gubernamental en la materia, la corresponsabilidad ciudadana frente al delito y para promover la competitividad del estado.
+
+La creación, organización y funcionamiento del Comité Técnico, se establecerán en el Decreto que expida el Gobernador del Estado, de acuerdo a la normatividad aplicable.
+
+La Secretaría de Hacienda descontará de los recursos que se vayan a aportar al Fideicomiso a que hace referencia el presente artículo, aquellas cantidades provenientes de la recaudación de la contribución para el fortalecimiento de las instituciones de seguridad pública, procuración e impartición de justicia, evaluación de la acción gubernamental en la materia, la corresponsabilidad ciudadana frente al delito y para promover la competitividad del estado, que por cualquier motivo, el Estado haya devuelto a los contribuyentes causantes de dicha contribución. Tal descuento se efectuará a partir del mes siguiente en que se efectúe la devolución al contribuyente.
+
+El Fiduciario presentará al Instituto Superior de Auditoría y Fiscalización y a la Secretaría de Hacienda del Estado de Sonora, a más tardar el tercer lunes del mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos aportados por el Gobierno del Estado durante el año inmediato anterior.
+
 ### Capítulo Cuarto. Otras Contribuciones
-
-###### Artículo 292 Bis
-
-8.- Toda la recaudación que por concepto cuota adicional se obtenga, será exclusivamente para el fortalecimiento y sostenimiento de los cuerpos de bomberos que se encuentren reconocidos por los ayuntamientos de los municipios del estado.
-
-La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de los cuerpos de Bomberos correspondiente al ejercicio inmediato anterior.
-
-De los recursos que se recauden por la presente contribución, el 100% se entregará a patronatos de los cuerpos de bomberos de los ayuntamientos del Estado, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
-
-En caso de que un ayuntamiento cuente con más de un cuerpo de bomberos reconocido, se procederá a la repartición del recurso económico de manera proporcional al número de elementos que integre cada cuerpo de bomberos.
-
-En caso de que un ayuntamiento no cuente con un cuerpo de bomberos reconocido, se procederá a entregar los recursos recaudados al cuerpo o cuerpos de bomberos del municipio más cercano que brinde los servicios, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
-
-El ayuntamiento, organismo, patronato o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciba los recursos a que se refiere este capítulo, deberá rendir un informe pormenorizado del destino de dichos recursos al Congreso del Estado de Sonora, dentro de los 30 días siguientes de haberlos recibido.
-
-###### Artículo 292 Bis
-
-8.- Toda la recaudación que por concepto cuota adicional se obtenga, será exclusivamente para el fortalecimiento y sostenimiento de los cuerpos de bomberos que se encuentren reconocidos por los ayuntamientos de los municipios del estado.
-
-La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de los cuerpos de Bomberos correspondiente al ejercicio inmediato anterior.
-
-De los recursos que se recauden por la presente contribución, el 100% se entregará a patronatos de los cuerpos de bomberos de los ayuntamientos del Estado, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
-
-En caso de que un ayuntamiento cuente con más de un cuerpo de bomberos reconocido, se procederá a la repartición del recurso económico de manera proporcional al número de elementos que integre cada cuerpo de bomberos.
-
-En caso de que un ayuntamiento no cuente con un cuerpo de bomberos reconocido, se procederá a entregar los recursos recaudados al cuerpo o cuerpos de bomberos del municipio más cercano que brinde los servicios, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
-
-El ayuntamiento, organismo, patronato o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciba los recursos a que se refiere este capítulo, deberá rendir un informe pormenorizado del destino de dichos recursos al Congreso del Estado de Sonora, dentro de los 30 días siguientes de haberlos recibido.
-
-### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 293.
 
@@ -3623,7 +3631,7 @@ Estas contribuciones se recaudarán en la misma forma y simultáneamente con los
 
 ## TITULO CUARTO. De los Derechos
 
-### Capítulo Segundo. Servicios de Empadronamiento
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 297.
 
@@ -3735,9 +3743,7 @@ Cuando no se compruebe que el pago de derechos se ha efectuado previamente a la 
 
 Cuando el pago de derechos deba efectuarse con posterioridad a la prestación del servicio por tratarse de servicios continuos o por que así se establezca, éste dejará de prestarse si no se efectúa dicho pago.
 
-### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
-
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
+### Capítulo Segundo. Servicios de Empadronamiento
 
 ###### Artículo 301.
 
@@ -3745,7 +3751,7 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
-### Capítulo Cuarto. Servicios de Ganadería
+### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
@@ -3919,145 +3925,145 @@ hh) Sala de degustación para la venta exclusiva de vino regional hecho en Sonor
 
 II.- Por la revalidación:
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-a).- Fábrica $85,661.00
+a).- Fábrica $102,793.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-b).- Fabrica y comercialización de producto regional típico. $5,714.00
+b).- Fábrica y comercialización de producto regional típico $6,857.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-c).- Agencia distribuidora. $85,661.00
+c).- Agencia distribuidora $102,793.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-d).- Expendio. $74,160.00
+d).- Expendio $88,992.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-e).- Cantina. $37,082.00
+e).- Cantina $44,498.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-f).- Restaurante con bar anexo o Cine VIP $15,230.00
+f).- Restaurante con bar anexo o Cine VIP $18,276.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-f bis).- Restaurante $9,133.00
+f bis).- Restaurante $10,960.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-g).- Tienda de autoservicio $46,815.00
+g).- Tienda de autoservicio $56,178.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-h).- Tienda departamental $86,705.00
+h).- Tienda departamental $104,046.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-i).- Tienda de abarrotes $9,133.00
+i).- Tienda de abarrotes $10,960.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-j).- Centro nocturno $95,350.00
+j).- Centro nocturno $114,420.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-k).- Porteadora $6,847.00
+k).- Porteadora $8,216.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-l).- Centro de eventos o salón de baile. $33,313.00
+l).- Centro de eventos o salón de baile $39,976.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-m).- Centro deportivo o recreativo. $19,037.00
+m).- Centro deportivo o recreativo $22,844.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-n).- Hotel o motel. $19,037.00
+n).- Hotel o motel $22,844.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-ñ).- Billar o boliche $27,414.00
+ñ).- Billar o boliche $32,897.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-o).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad. $111,242.00
+o).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad $ 133,490.00
 
 p).- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. CON SU TABLA], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 q).- Fábrica de Cerveza Artesanal que se elabore por fabricantes sonorenses que tengan su principal establecimiento en el territorio del Estado de Sonora, de acuerdo a la siguiente tabla:
 
 Volumen Anual en Hectolitros Revalidación
 
-Hasta 2,000 $15,681.00
+Hasta 2,000 18,817.00
 
-2,001 - 4,000 $23,522.00
+2,001 - 4,000 $28,226.00
 
-4001 - 6,000 $31,362.00
+4,001 - 6,000 $37,634.00
 
-6001 - 10,000 $39,203.00
+6,001 - 10,000 $47,044.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-r).- Restaurante Rural $1,569.00
+r).- Restaurante Rural $1,883.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-s).- Hoteles o Moteles Rurales $3,136.00
+s).- Hoteles o Moteles Rurales $3,763.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-t).- Auto Servicio de Productos Típicos Regionales $4,179.00
+t).- Auto Servicio de Productos Típicos Regionales $5,015.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-u) Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $4,179.00
+u).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $5,015.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-v) Fábricas de producto vitivinícolas y sus derivados $13,299.00
+v).- Fábricas de producto vitivinícolas y sus derivados $15,959.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-w).- Porteadora por aplicación $1,500.00
+w).- Porteadora por aplicación $1,800.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-x).- Centros de consumo $5,625.00
+x).- Centros de consumo $6,750.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-y).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado. $9,399.00
+y).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-aa).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado. $9,399.00
+aa).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-cc).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $9,399.00
+cc).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 dd).- Boutique de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-ee).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $9,399.00
+ee).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,279.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
@@ -4131,21 +4137,11 @@ c).- Por cambio de nombre del establecimiento
 
 sin que implique cambio de propietario. $ 2,408.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
-
-d).- Por cambio de razón o denominación social sin
-
-que implique cambio de propietario, cambio de domicilio,
-
-cambio de giro o cambio de nombre comercial. $5, 000.00
+d).- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-e).- Por la autorización y registro de la documentación que se exhiba
-
-para acreditar el legal uso o aprovechamiento de un tercero de una
-
-licencia de alcoholes distinta al propietario. $1,000.00
+e).- Por la autorización y registro de la documentación que se exhiba para acreditar el legal uso o aprovechamiento de un tercero de una licencia de alcoholes distinta al propietario. $1,000.00
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -4165,145 +4161,145 @@ Después de cumplido el plazo de 1 año sin haber regularizado el trámite de la
 
 VIII.- Por él canje de licencias, en el año fiscal que corresponda:
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-a).- Fábrica. $83,085.00
+a).- Fábrica $99,702.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-b).- Agencia distribuidora. $83,085.00
+b).- Agencia distribuidora $99,702.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-c).- Expendio. $75,006.00
+c).- Expendio $90,007.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-d).- Cantina. $37,927.00
+d).- Cantina $45,512.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-e).- Restaurante. $9,987.00
+e).- Restaurante $11,984.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-f).- Restaurante con bar anexo o Cine VIP $15,469.00
+f).- Restaurante con bar anexo o Cine VIP $18,563.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-g).- Tienda de autoservicio. $47,678.00
+g).- Tienda de autoservicio $57,214.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-h).-Tienda departamental. $84,100.00
+h).-Tienda departamental $100,920.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-i).- Tienda de abarrotes. $9,987.00
+i).- Tienda de abarrotes $11,984.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-j).- Centro nocturno. $96,196.00
+j).- Centro nocturno $115,435.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-k).- Centro de evento o salón de baile. $32,830.00
+k).- Centro de evento o salón de baile $39,396.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-l).- Centro deportivo o recreativo. $19,124.00
+l).- Centro deportivo o recreativo $22,949.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-m).- Hotel o motel. $19,124.00
+m).- Hotel o motel $22,949.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-n).- Porteadora. $7,703.00
+n).- Porteadora $9,244.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-ñ).- Fabrica y comercialización de producto regional típico. $6,332.00
+ñ).- Fabrica y comercialización de producto Regional típico $7,598.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-o).- Billar o boliche. $28,261.00
+o).- Billar o boliche $33,913.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-p).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad. $112,089.00
+p).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad. $134,507.00
 
 q).- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. CON SU TABLA], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 r).- Fábrica de Cerveza Artesanal que se elabore por fabricantes sonorenses que tengan su principal establecimiento en el territorio del Estado de Sonora, de acuerdo a la siguiente tabla:
 
 Volumen Anual en Hectolitros Canje
 
-Hasta 2,000 $15,983.00
+Hasta 2,000 $19,180.00
 
-2,001 - 4,000 $23,972.00
+2,001 - 4,000 $28,766.00
 
-4001 - 6,000 $31,964.00
+4,001 - 6,000 $38,357.00
 
-6001 - 10,000 $39,954.00
+6,001 - 10,000 $47,945.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-s).- Restaurante Rural $1,599.00
+s).- Restaurante Rural $1,919.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-t).- Hoteles o Moteles Rurales $3,197.00
+t).- Hoteles o Moteles Rurales $3,836.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-u).- Fábricas de producto vitivinícolas y sus derivados $13,299.00
+u).- Fábricas de producto (sic) vitivinícolas y sus derivados $15,959.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-v).- Auto Servicio de Productos Típicos Regionales $3,990.00
+v).- Auto Servicio de Productos Típicos Regionales $4,788.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-w).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $3,990.00
+w).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $4,788.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-x).- Porteadora por aplicación $1,500.00
+x).- Porteadora por aplicación $1,800.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-y).- Centros de consumo $5,625.00
+y).- Centros de consumo $6,750.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado. $9,871.00
+z).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
 aa).- Boutique de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $9,981.00
+bb).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 cc).- Sala de Degustación para la venta exclusiva de cerveza artesanal de productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora Exento.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-dd).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $9,981.00
+dd).- Boutique de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
 ee).- Boutique de vino regional hecho en Sonora por productores que tengan su principal establecimiento dentro del territorio del Estado de Sonora. Exento.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-ff).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado. $9,981.00
+ff).- Sala de degustación para la venta exclusiva de vino de productores que tengan su principal establecimiento fuera del territorio del Estado $11,977.00
 
 (REPUBLICADO, B.O. 28 DE DICIEMBRE DE 2023)
 
@@ -4353,11 +4349,9 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
+### Capítulo Cuarto. Servicios de Ganadería
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 307.
 
@@ -4429,7 +4423,7 @@ h) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
+### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
@@ -4457,11 +4451,11 @@ del punto anterior, por cada prórroga. N$ 50.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
+### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 309.
 
@@ -4481,19 +4475,29 @@ c) Por reposición $ 500.00
 
 d) Por revalidación anual $ 200.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-2.- Por los servicios relativos a la reproducción de documentos de conformidad con la Ley de Acceso a la Información Pública del Estado de Sonora.
+2.- Por los servicios relativos a la reproducción de documentos de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 a).- Expedición de copias certificadas de documentos por cada hoja. $15.00
 
-b).- Por cada disco flexible de 3.5 pulgadas. $20.00
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+b).- Dispositivo magnético $100.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 c) Por cada disco compacto. $25.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-d).- Por cada copia simple. $1.00
+d).- Copia simple De la primera a la vigésima hoja, gratuito.
+
+A partir de la vigésima primera hoja,
+
+$1.00 por cada hoja.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -4621,11 +4625,11 @@ servidor público. $176.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
+### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 310.
 
@@ -4715,19 +4719,19 @@ Se considerarán servicios urgentes cuando se proporcione dentro de las veinticu
 
 17.- Por cada uno de los instrumentos por revisar durante la visita especial a notarías públicas $200.00
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-18.- Por expedición de testimonios, copias certificadas y copias simples, que se encuentren depositadas en los archivos de la Dirección General de Notarías, en las cuales haya intervenido como parte de la escritura dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, los derechos por los servicios se reducirán en un 50%
+18.- Por expedición de testimonios de escrituras públicas incluida su certificación, expedición de documentos integrantes del apéndice, expedición de copias de escrituras públicas simples y certificadas, que se encuentren depositadas en los archivos de la Dirección General de Notarías, en las cuales hayan intervenido como parte de la escritura dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, los derechos por los servicios se reducirán en un 50%.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-19.- Asimismo, las que derivan con motivo de programas oficiales para satisfacer la demanda de dar seguridad jurídica de patrimonio seguro, se reducirá en un 33% el pago de estos derechos a los particulares beneficiados y a las personas morales tales como asociaciones de asistencia privada y asociaciones que cuenten con la CLUNI (Clave Única de Inscripción al Registro Federal de las Organizaciones de la Sociedad Civil), en tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por el responsable del programa.
+19.- Asimismo, las que derivan con motivo de programas oficiales para satisfacer la demanda de dar seguridad jurídica de patrimonio seguro, se reducirá en un 33% el pago de derechos por expedición de testimonios de escrituras públicas incluida su certificación, expedición de documentos integrantes del apéndice, expedición de copias de escrituras públicas simples y certificadas, a los particulares beneficiados y a las personas morales tales como asociaciones de asistencia privada y asociaciones que cuenten con la Clave Única de Inscripción al Registro Federal de las Organizaciones de la Sociedad Civil (CLUNI) en tales programas, debiendo presentarse por parte del interesado la acreditación correspondiente.
 
-> <small>[N. DE E. SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO, B.O. 30 DE DICIEMBRE DE 2022]</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO [N. DE E. ANTES PÁRRAFO SEGUNDO DEL NUMERAL 19], B.O. 30 DE DICIEMBRE DE 2022)</small>
+20.- En cuanto a las personas que acrediten tener 60 años o más, se les otorgará un 30% de descuento en los servicios de expedición de testimonios de escrituras públicas, incluida su certificación, expedición de documentos integrantes del apéndice, expedición de copias de escrituras públicas simples y certificadas, siempre y cuando sea el interviniente en el documento solicitado.
 
-20.- En cuanto a las personas de la tercera edad que presenten su credencial vigente del INAPAM se les otorgará un 30% de descuento en los servicios de expedición de testimonios de escrituras públicas incluida su certificación, por expedición de documentos integrantes del apéndice (planos, colindancias, etc.) por cada hoja, incluida su certificación, expedición de copia simple y copia certificada, siempre y cuando sea el interviniente en el documento solicitado.
+Para los efectos anteriores, se acreditará la calidad de persona adulta de 60 años o más, mediante la documentación oficial correspondiente, conforme a lo establecido en la fracción II del artículo 298 de este ordenamiento.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -4759,11 +4763,11 @@ Tarifa con adicionales $465.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
+### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 311.
 
@@ -4795,9 +4799,11 @@ b).- Por certificación del Boletín Oficial. N$ 10.00
 
 VII.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-VIII.- Por Boletín Oficial que se adquiera en fecha Posterior a su publicación hasta una antigüedad de 30 años. $37.00
+VIII.- Por Boletín Oficial que se adquiera en fecha posterior a su publicación hasta una antigüedad de 25 años. $94.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 Tratándose de publicaciones de convenios autorización de fraccionamientos
 
@@ -4851,11 +4857,11 @@ XIII.- Por la certificación de constancias y copias de expedientes y documentos
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
-### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
+### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 312.
 
@@ -4887,9 +4893,9 @@ Por la revalidación extemporánea se pagará un adicional sobre el gravamen anu
 
 c).- Por baja. $171.00
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Por los servicios a que se refieren los incisos a), b) y c) anteriores, tratándose de los vehículos de la Federación, del Estado y de los municipios que sean utilizando para la presentación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos, se aplicarán las cuotas correspondientes reducidas en un 50%; para tales efectos deberá presentarse, al momento de la prestación del servicio, constancia del organismo o institución indicados, que compruebe que el vehículo se encuentra comprendido en dichos supuestos.
+Por los servicios a que se refieren los incisos a), b) y c) anteriores, tratándose de los vehículos de la federación, del estado y de los municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos, se aplicarán las cuotas correspondientes reducidas en un 50%; para tales efectos deberá presentarse al momento de la prestación del servicio, constancia del organismo o institución indicados, que compruebe que el vehículo se encuentra comprendido en dichos supuestos.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4941,9 +4947,9 @@ b).- Por la verificación y validación del Número de Identificación Vehicular
 
 c).- Por la verificación y validación de factura, se cobrará $266.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-d).- Por la verificación del pedimento de importación del vehículo, se cobrará $878.00
+d).- Por validar la documentación aduanera que acredite la legal importación, estancia o tenencia, transporte o manejo en el país de los vehículos importados en definitiva. $920.00
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -5030,6 +5036,16 @@ d).- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 Las placas de demostración causarán derechos conforme a la tarifa de transporte privado y sólo se autorizarán a las personas físicas o morales que se encuentren inscritas en el registro estatal de contribuyentes como comerciantes en el ramo automotriz y cuenten con local de exhibición.
 
 En el caso a que se refiere el párrafo anterior, se expedirá un juego de placas en el año, por cada 5 vehículos que se tengan en venta, al momento de la solicitud del servicio.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 314 Bis.
+
+Las placas de auto antiguo causarán los siguientes derechos:
+
+1.- Por la expedición $2,984.00
+
+En el caso de revalidación y baja de placas de circulación de auto antiguo, se causarán los derechos conforme a la tarifa señalada para transporte privado.
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
@@ -5147,9 +5163,17 @@ Por 1 año $1,000.00
 
 Por dos años $1,500.00
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-A las reposiciones o reexpediciones de licencias se les aplicara el 50% del importe de los derechos que cause la expedición de la licencia de que se trate, por un año, cuando por causas imputables al usuario se deba de reponer la licencia ya impresa, siempre y cuando el servicio se solicite dentro de la vigencia de la misma.
+A las reposiciones de licencias por robo o extravío se les aplicará el 50% del importe de los derechos que cause la expedición de la licencia de que se trate, por un año, cuando por causas imputables al solicitante se deba de reponer la licencia ya impresa, siempre y cuando el servicio se solicite dentro de la vigencia de la misma, y solo podrá realizarse en una ocasión por folio y/o número de licencia.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+A las reexpediciones de licencias, cuando por causas imputables al solicitante se requiera o solicite la reexpedición por corrección de datos de licencia de conducir, se les aplicará el 50% del importe de los derechos que cause la expedición de la licencia de que se trate, por un año, previa presentación de los documentos que acrediten el cambio solicitado, siempre y cuando el servicio se solicite dentro de la vigencia de la misma.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+La licencia que se reponga o se reexpida, contará con el mismo plazo de vigencia, de la licencia que se pretende sustituir.
 
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -5259,13 +5283,11 @@ antigüedad a y más
 
 $400.00 $200.00 $100.00
 
-### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
-> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 320.
 
@@ -5341,11 +5363,33 @@ Los derechos a que se refiere el párrafo anterior deberán cubrirse por los int
 
 I.- Eventuales:
 
-a).- Pasaje $1,376.00
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-b).- Carga $795.00
+a).- Pasaje:
 
-II.- Temporales o emergentes:
+1).- Hasta por tres meses $717.00
+
+2).- Hasta por seis meses $1,190.00
+
+3).- Hasta por nueve meses $1,613.00
+
+4).- Hasta por doce meses $2,036.00
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+b).- Carga:
+
+1).- Hasta por tres meses $617.00
+
+2).- Hasta por seis meses $1,090.00
+
+3).- Hasta por nueve meses $1,513.00
+
+4).- Hasta por doce meses $1,936.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+II.- Temporales
 
 a).- Pasaje $510.00
 
@@ -5359,9 +5403,7 @@ b).- Hasta por seis meses $1,190.00
 
 c).- Hasta por un año $1,613.00
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
-
-4.- Autorización de vehículos de servicio privado (seguridad, protección civil, emergencia, servicios fúnebres), por unidad.
+4.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 a).- Hasta por seis meses $527.00
 
@@ -5393,21 +5435,41 @@ b).- Carga $ 100.00
 
 6 BIS 2.- Por el otorgamiento de autorización para la prestación de servicio privado de transporte mediante aplicaciones móviles, anualmente por unidad, indistintamente del número de empresas de redes de transporte en las que esté registrado. $2,200.00.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-7.- Por el análisis jurídico, técnico y administrativo que sirve como base a la autoridad para la emisión del Certificado del Registro para las empresas que brindan la prestación del servicio de transporte especializado y del servicio de grúas. $50,000.00.
+7.- Por el análisis jurídico, técnico y administrativo que sirve como base a la autoridad para la emisión del Certificado del Registro para las empresas que brindan la prestación del servicio de transporte especial.
 
-> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+Para empresas que brindan el servicio especial de transporte que cuentan:
 
-7 BIS.- Por el análisis anual, tendiente a verificar que no han variado las condiciones en que se expidió el registro a la empresa que brinda la prestación del servicio de transporte especializado y del servicio de grúas a fin de obtener constancia de revalidación anual. $10,000.00.
+a).- Con más de 20 unidades $50,000.00
 
-> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+b).- Hasta con 20 unidades $40,000.00
 
-7 BIS 1.- Por el análisis tendiente a verificar que no han variado las condiciones en que se expidió el registro a la empresa que brinda la prestación del servicio de transporte especializado y del servicio de grúas a fin de obtener renovación al término de su vigencia. $40,000.
+c).- Hasta con 15 unidades $30,000.00
 
-> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2023)</small>
+d).- Hasta con 10 unidades $20,000.00
 
-7 BIS 2.- Por la autorización de las unidades que operan en el servicio de transporte especializado y del servicio de grúas, anualmente por unidad. $3,000.00.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+7 BIS.- Por el análisis anual, tendiente a verificar que no han variado las condiciones en que se expidió el registro a la empresa que brinda la prestación del servicio de transporte especial a fin de obtener constancia de revalidación anual. $10,476.00
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+7 BIS 1.- Por el análisis tendiente a verificar que no han variado las condiciones en que se expidió el registro a la empresa que brinda la prestación del servicio de transporte especial a fin de obtener renovación al término de su vigencia.
+
+Para empresas que brindan el servicio especial de transporte que cuentan:
+
+a).- Con más de 20 unidades $40,000.00
+
+b).- Hasta con 20 unidades $30,000.00
+
+c).- Hasta con 15 unidades $20,000.00
+
+d).- Hasta con 10 unidades $10,000.00
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+7 BIS 2.- Por la autorización de las unidades que operan en el servicio de transporte especial anualmente por unidad. $3,143.00
 
 8.- (DEROGADO, B.O. 28 DE DICIEMBRE DE 2023)
 
@@ -5549,13 +5611,29 @@ a) Pasaje $180.00
 
 b) Carga $180.00
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-23.- Por autorización para fijar y/o permitir publicidad y/o propaganda en el vehículo autorizado para la explotación del servicio público de transporte a razón de $75.00 por metro cuadrado.
+23.- Por autorización para permitir publicidad en el vehículo autorizado para la explotación del servicio público de transporte:
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+I.- Publicidad instalada físicamente:
 
-24.- Capacitación para licencia de operador $137.00
+a).- Hasta por tres meses $500.00
+
+b).- Hasta por seis meses $1,000.00
+
+c).- Hasta por doce meses $1,500.00
+
+II.- Publicidad digital:
+
+a).- Hasta por tres meses $1,000.00
+
+b).- Hasta por seis meses $1,500.00
+
+c).- Hasta por doce meses $2,000.00
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+24.- Constancia para licencia de operador. $161.00
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5565,7 +5643,13 @@ Las personas físicas o morales titulares de concesiones o permisos para operar 
 
 Los recursos que se obtengan por parte del Estado, por el pago de derechos de los conceptos señalados en el presente artículo serán destinados a éste Organismo Público Descentralizado para la operación del mismo.
 
-### Capítulo Décimo Segundo. Inspección Sanitaria
+### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
+
+> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 321.
 
@@ -5779,13 +5863,13 @@ Para el caso del servicio previamente solicitado de Escritorio Notarial, por cad
 
 Para hacer uso del escritorio notarial se establece una fianza por la cantidad de $90,000.00 y esta se contará, aplicará y ejecutará en los términos que para tal efecto tenga a bien emitir mediante lineamiento el Instituto Catastral y Registral para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud, derechos éstos que se destinarán el 30% como estímulo a todo el personal adscrito a la Dirección General de Servicios Registrales, así como a las áreas del Instituto Catastral y Registral del Estado de Sonora que colaboren directa e indirectamente en el proceso registral. Lo anterior será distribuido de acuerdo a los Lineamientos establecidos por ese Instituto, 60% se destinará como apoyo a la modernización de los servicios registrales y el 10% resultante se destinará en la implementación de programas de digitalización de documentos del Gobierno del Estado de Sonora.
+9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-10.- Se causará un derecho adicional equivalente al 150% a petición del usuario, sobre la cantidad fijada para el servicio que se solicita, siempre y cuando la operatividad y naturaleza del acto lo permita, este mismo trámite deberá de ser entregado antes del término del horario laboral establecido. Los derechos causados se destinarán exclusivamente al fondo de modernización para ser distribuido en cada Oficina Jurisdiccional que haya prestado el citado servicio.
+10.- Se causará un derecho adicional equivalente al 150% a petición del usuario, sobre la cantidad fijada para el servicio que se solicita, siempre y cuando la operatividad y naturaleza del acto lo permita, este mismo trámite deberá de ser entregado antes del término del horario laboral establecido.
 
 > <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -5853,21 +5937,17 @@ Asimismo, se exceptúan de los derechos por registro de documentos públicos o p
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-### Capítulo Décimo Tercero. Servicios del Registro Civil
-
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+### Capítulo Décimo Segundo. Inspección Sanitaria
 
 ###### Artículo 324.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-### Capitulo Décimo Cuarto. Otros Servicios
+### Capítulo Décimo Tercero. Servicios del Registro Civil
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 325.
 
@@ -6061,7 +6141,11 @@ Artículo 325 Bis B.- La expedición de documentos que realice la Institución d
 
 Artículo 325 Bis C.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
-### Capítulo Unico
+### Capitulo Décimo Cuarto. Otros Servicios
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 326.
 
@@ -6225,11 +6309,19 @@ El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre
 
 II.- Servicios en materia de desarrollo urbano y ecología.
 
-1.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-2.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
+1.- Evaluación y Posible Autorización para el ingreso de residuos sólidos urbanos y/o de manejo especial al territorio estatal, respecto a esta autorización, se deberá informar en su caso de la salida de la entidad de tales residuos o de su lugar de confinamiento.
 
-3.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
+Costo: por ingreso al estado $20,000.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+2.- Copia certificada de documentos que obran en los expedientes de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora por hoja $145.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+3.- Copia simple de documentos que obran en los expedientes de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora por hoja $59.00
 
 4.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
@@ -6385,29 +6477,39 @@ d).- 4 años: $7,964.00
 
 e).- 5 años: $9,955.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-27.- Bis. Por vehículo que se registre para prestar el servicio de manejo de residuos de manejo especial. $200.00.
+27 Bis.- Por vehículo que se registre para prestar el servicio de manejo de residuos de manejo especial, así como los vehículos utilizados para el transporte de residuos de manejo especial, obtenidos a través de la Licencia Ambiental Integral. $219.00
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 28.- Ingreso, Evaluación y Posible Resolución de autorización para el co-procesamiento y tratamiento de residuos de manejo especial. $3,635.00
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+29.- Ingreso, Evaluación y Resolución de la cesión de derechos y obligaciones de las autorizaciones expedidas por la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora; siendo el 25% del pago total de las autorizaciones que se pretendan transferir.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+30.- Evaluación, Inscripción y Posible Emisión de Registro como Empresa Generadora de Residuos de Manejo Especial, conforme a las siguientes cuotas:
+
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
-
-29.- Ingreso, Evaluación y Posible Resolución de autorización para la transferencia de autorizaciones expedidas por la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, de manejo y disposición final de residuos y su manejo integral. 25% del pago de derechos de la autorización que se pretenda transferir + costo de ingreso y evaluación.
-
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 30 DE DICIEMBRE DE 2022)</small>
-
-30.- Inscripción y emisión de registro como Empresa Generadora de Residuos de Manejo Especial, conforme a las siguientes cuotas:
 
 a).- 1 año: $1,626.00
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
 b).- 2 años: $3,252.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 c).- 3 años: $4,878.00
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
 d).- 4 años: $6,504.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 e).- 5 años: $8,130.00
 
@@ -6433,17 +6535,15 @@ e).- 5 años: $8,195.00
 
 33.- Expedición de modificación o actualización de los Registros como Prestador de Servicios de Transporte de Residuos de Manejo Especial. $1,000.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-34.- En el caso de prestador de Servicios para el Transporte de Residuos de Manejo Especial, se generará una cuota de $200.00 por vehículo a adicionar.
+34.- Con el permiso vigente de Prestador de Servicios para el Transporte de Residuos de Manejo Especial, o para el transporte de residuos de manejo especial se deberá hacer un pago de $219.00 pesos por vehículo adicional.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 35.- Expedición de modificación o actualización de los Registros de Generador de Residuos de Manejo Especial. $1,000.00.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
-
-Los servicios a que se refieren los puntos 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 y 35 de esta fracción, se prestarán por conducto de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -6769,13 +6869,11 @@ Grado Académico y Diploma de Especialidad $800.00
 
 33.- Expedición de duplicado de Equivalencia o Revalidación de estudios del tipo medio superior o superior $35.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-34.- Cambio de domicilio, modalidad o denominación por cada plan de estudios con Reconocimiento de Validez Oficial de Estudios del tipo medio superior, capacitación para el trabajo o tipo superior $4,200.00
+34.- Cambio de domicilio por cada plan de estudios con Reconocimiento de Validez Oficial de Estudios del tipo medio superior, capacitación para el trabajo o tipo superior, en caso de desastres naturales, casos fortuitos o de fuerza mayor $4,936.00
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-35.- Cambio de titular de cada plan de estudios con Reconocimiento de Validez Oficial de Estudios, del tipo medio superior, capacitación para el trabajo y tipo superior $4,500.00
+35.- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -6854,6 +6952,30 @@ $5,700.00
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 54.- Validación de Registro Profesional Estatal y cédula para ejercer en el extranjero. $125.00
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+55.- Generación de certificado electrónico de estudios de educación básica emitido por primera vez $100.00
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+56.- Constancia de inexistencia de estudios de educación básica $100.00
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+57.- Constancia de estudios de educación básica $100.00
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+58.- Certificación del registro para el ejercicio profesional $120.00
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+59.- Certificación del expediente profesional para el intercambio de servicios profesionales en el extranjero $120.00
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+60.- Modificación de la denominación de la nomenclatura de las instituciones educativas $465.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -6971,49 +7093,111 @@ b)-3.- De 30 a 49 personas. $2,200.00 por persona.
 
 b)-4.- De 50 personas en adelante. $2,000.00 por persona.
 
-5.- Por la dictaminación de diagnóstico de riesgo en materia de protección civil que deberán presentar las personas que pretendan construir inmuebles que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-a).- Por la dictaminación de diagnóstico de riesgo simplificado en materia de protección civil. $2,330.00
+5.- Por la dictaminación de diagnóstico de riesgo en materia de protección civil, como sigue:
 
-b).- Por la dictaminación de diagnóstico de riesgo integral, nivel de riesgo bajo en materia de protección civil. $3,884.00
+5.1.- Tratándose de la dictaminación de diagnóstico de riesgo en materia de protección civil, de acuerdo a los Términos de Referencia TRES-004-UEPC-2016 para la Elaboración de Diagnósticos de Riesgos conforme a lo establecido en el artículo 71 de la Ley de Protección Civil para el Estado de Sonora, que deberán presentar las personas que pretendan construir, reconstruir, modificar o remodelar inmuebles referidos en el artículo 65 y 65 Bis de la Ley de Protección Civil para el Estado de Sonora, que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población.
 
-c).- Por la dictaminación de diagnóstico de riesgo integral, nivel de riesgo medio en materia de protección civil. $6,472.00
+a).- Por la dictaminación de diagnóstico de riesgo simplificado en materia de protección civil $3,135.00
 
-d).- Por la dictaminación de diagnóstico de riesgo integral, nivel de riesgo alto en materia de protección civil. $9,060.00
+b).- Por la dictaminación de diagnóstico de riesgo integral, nivel de riesgo bajo en materia de protección civil $5,229.00
+
+c).- Por la dictaminación de diagnóstico de riesgo integral, nivel de riesgo medio en materia de protección civil $8,711.00
+
+d).- Por la dictaminación de diagnóstico de riesgo integral, nivel de riesgo alto en materia de protección civil $12,193.00
+
+5.2.- Tratándose de dictaminación de diagnóstico de riesgo en materia de protección civil, de acuerdo a los Términos de Referencia TRES-001-CEPC-2019 Distribución de Petrolíferos, Gas Natural y Gas Licuado de Petróleo por medio de Ductos, que deberán presentar las personas que pretendan llevar a cabo obras para construir, ampliar, modificar o reconstruir sistemas de transporte por ductos para conducir hidrocarburos, petrolíferos, petroquímicos, gas natural y líquido de gas natural.
+
+a).- Por la dictaminación de diagnóstico de riesgo con una trayectoria de 0 km a 50 km. $11,639.00
+
+b).- Por la dictaminación de diagnóstico de riesgo con una trayectoria de 51 km a 100 km. $23,278.00
+
+c).- Por la dictaminación de diagnóstico de riesgo con una trayectoria de 101 kilómetros en adelante $34,914.00
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 6.- Dictamen para la emisión favorable por parte del Gobernador del Estado, para el uso de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
 
-a).- Campos de tiro y club de caza, hasta 50kg. mas $2.00 adicionales por cada kilo extra solicitado. $6,473.00
+a).- Campos de tiro y club de caza, uso y compra-venta de municiones $2,000.00
 
-b).- Instalaciones en que se realiza compra-venta de sustancias químicas. $8,273.00
+Adicionalmente, se aplicarán las siguientes cuotas por municiones adicionales:
 
-c).- Explotación minera o de bancos de cantera.
+a)-1.- De 01 a 50 municiones $100.00
 
-c)-1.- $6,473.00 hasta 100 kg.
+a)-2.- De 51 a 100 municiones $200.00
 
-c)-2.- A partir de 100 kg. hasta 1 (una) tonelada $6,473.00 más $2.00 por kilo extra solicitado.
+a)-3.- De 101 a 200 municiones $300.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+a)-4.- De 201 a 500 municiones $500.00
 
-c)-3.- A partir de 1,000 kg en adelante se cobrará $10,227.00. Adicionalmente se sumarán $13.00 por cada tonelada extra solicitada.
+a)-5.- De 501 a 1000 municiones $800.00
 
-d).- Industrias químicas. $8,273.00
+b).- Campos de tiro y club de caza, almacenamiento de municiones $1,500.00.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+Adicionalmente, se aplicarán las siguientes cuotas por municiones adicionales:
 
-e).- Fábrica de elementos pirotécnicos, de 0.1 a 50 kg. Se cobrará $8,001.00. Adicionalmente se sumarán $2.00 por cada kilo extra.
+b)-1.- De 01 a 50 municiones $100.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+b)-2.- De 51 a 100 municiones $200.00
 
-f).- Talleres de artificios pirotécnicos de 0.1 a 50 kg se cobrarán $8,001.00. Adicionalmente se sumarán $2.00 por cada kilo extra solicitado.
+b)-3.- De 101 a 200 municiones $300.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+b)-4.- De 201 a 500 municiones $500.00
 
-g).- Bodega y/o polvorines para artificios pirotécnicos de 0.1 a 50 kg se cobrarán $8,001.00. Adicionalmente se sumarán $2.00 por cada kilo extra solicitado.
+b)-5.- De 501 a 1000 municiones $800.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+c).- Uso y compra-venta de pólvoras y/o explosivos:
 
-h).- Bodega y/o polvorines para sustancias químicas de 0.1 a 100 kg de cobrarán $10,227.00. Adicionalmente se cobrarán $2.00 por cada kilo extra solicitado.
+c)-1.- $7,971.00 de 0.001 g. hasta 100 kg.
+
+c)-2.- $7,971.00, adicionalmente a partir de 101 kg. hasta 999 kg. se cobrará $5.00 por cada kilo extra solicitado.
+
+c)-3.- $10,227.00 por 1000 kg.
+
+c)-4.- $10,227.00, adicionalmente a partir de 1001 kg en adelante se cobrará $ 17.00 por tonelada extra solicitada.
+
+d).- Almacenamiento de pólvoras y/o explosivos:
+
+d)-1.- $7,971.00 de 0.001 g hasta 100 kg.
+
+d)-2.- $7,971.00, adicionalmente a partir de 101 kg. hasta 999kg se cobrará $5.00 por cada kilo extra solicitado.
+
+d)-3.- $10,227.00 por 1000kg
+
+d)-4.- $10,227.00, adicionalmente a partir de 1001 kg en adelante se cobrará $ 17.00 por tonelada extra solicitada.
+
+e).- Uso y compra-venta de artificios, se cobrara por pieza o metro $1,000.00
+
+Adicionalmente, se aplicarán las siguientes cuotas por piezas o metros adicionales:
+
+e)-1.- De 01 a 50 piezas o metros $100.00
+
+e)-2.- De 51 a 100 piezas o metros $200.00
+
+e)-3.- De 101 a 200 piezas o metros $300.00
+
+e)-4.- De 201 a 500 piezas o metros $500.00
+
+e)-5.- De 501 a 1000 piezas o metros $800.00
+
+f).- Almacenamiento de artificios, se cobrara por pieza o metro $500.00
+
+Adicionalmente, se aplicarán las siguientes cuotas por piezas o metros adicionales:
+
+f)-1.- De 01 a 50 piezas o metros $100.00
+
+f)-2.- De 51 a 100 piezas o metros $200.00
+
+f)-3.- De 101 a 200 piezas o metros $300.00
+
+f)-4.- De 201 a 500 piezas o metros $500.00
+
+f)-5.- De 501 a 1000 piezas o metros $800.00
+
+g).- Uso y compra-venta de substancias químicas relacionadas con explosivos, se cobrará $5.00 por litro o kilogramo.
+
+h).- Almacenamiento de substancias químicas relacionadas con explosivos, se cobrará $3.00 por litro o kilogramo.
 
 7.- Para la elaboración de peritajes, a solicitud del interesado, de la evaluación inicial de la contingencia que se presente en la Entidad, por metro cuadrado de construcción, como sigue:
 
@@ -7109,7 +7293,9 @@ A partir de $13,000.00 dependiendo de las características propias de cada inmue
 
 20.- Registro de empresas especializadas para proporcionar los siguientes servicios en materia de protección civil:
 
-a).- Para la elaboración de Programas Internos de Protección Civil, procedimientos para la colocación de señales de protección civil, planes de contingencia, sistemas de alerta y establecimiento de unidades internas de protección civil. $15,008.00
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+a).- Para la elaboración de programas internos $20,198.00
 
 b).- Para la elaboración de diagnósticos de riesgo. $14,330.00
 
@@ -7125,9 +7311,13 @@ g).- En realizar estudios para la continuidad de operaciones. $5,000.00
 
 h).- En realizar estudios de vulnerabilidad y análisis de riesgos. $8,110.00
 
-21.- Revalidación del registro de empresas especializadas en los siguientes servicios en materia de protección civil:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-a).- En la elaboración de Programas Internos de Protección Civil, procedimientos para la colocación de señales de protección civil, planes de contingencia, sistemas de alerta y establecimiento de unidades internas de protección civil. $15,008.00
+21.- Renovación del registro de empresas especializadas en los siguientes servicios en materia de protección civil:
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+a).- Para la elaboración de programas internos de protección civil $20,198.00
 
 b).- Para la elaboración de diagnósticos de riesgo. $14,330.00
 
@@ -7142,6 +7332,22 @@ f).- En revisión de proyectos de factibilidad. $5,793.00
 g).- En realizar estudios para la continuidad de operaciones. $3,000.00
 
 h).- En realizar estudios de vulnerabilidad y análisis de riesgos. $5,793.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+22.- Por la dictaminación y autorización del programa especial de protección civil que deberán elaborar los organizadores de espectáculos públicos de concentración masiva de personas en lugares abiertos y de duración temporal dependiendo del aforo estimado para el evento, según el siguiente desglose:
+
+a).- Aforo de 500 a 1000 personas $5,000.00
+
+b).- Aforo de 1001 a 2000 personas $8,000.00
+
+c).- Aforo de 2001 a 5000 personas $11,000.00
+
+d).- Aforo de 5001 a 10,000 personas $15,000.00
+
+e).- Aforo de 10,001 a 20,000 personas $19,000.00
+
+f).- Aforo de 20,001 en adelante de personas $30,000.00
 
 > <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -7471,65 +7677,7 @@ Los recursos que se obtengan por parte del Estado por los servicios señalados e
 
 XIII.- (DEROGADA, B.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-XIV.- Instituto Superior de Seguridad Pública del Estado (ISSPE).
-
-a).- Solicitud de evaluación del personal operativo y programa de capacitación permanente de empresas prestadoras de servicios de seguridad privada.
-
-1.- Por elemento evaluado en el ISSPE. $300.00
-
-2.- Por elemento evaluado foráneo. $350.00
-
-3.- Por evaluación a elementos de Seguridad Privada Armada. $500.00
-
-b).- Solicitud de inscripción para curso de actualización para agentes de policía preventivo. Gratuito.
-
-c).- Curso para instructores para empresas de seguridad privada.
-
-1.- Por persona. $5,500.00
-
-2.- Para instructores de empresa de seguridad privada armada. $7,600.00
-
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-d).- Por evaluación y capacitación a elementos de empresas de seguridad privada.
-
-1.- Evaluación:
-
-1.1.- Evaluaciones locales ................................ $300.00
-
-1.2.- Evaluaciones foráneas ............................... $350.00
-
-2.- Capacitación:
-
-2.1.- Curso de alarmas y monitoreo electrónico ........... $1,000.00
-
-2.2.- Curso de seguridad privada en los bienes ............ $5,500.00
-
-2.3.- Curso de seguridad privada armada en el transporte de bienes o valores .............................................. $7,600.00
-
-2.4.- Servicio de investigación privada .................. $1,000.00
-
-2.5.- Servicio de seguridad privada armada a personas ..... $7,600.00
-
-e).- Por capacitación y evaluación a elementos de seguridad pública municipal.
-
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El costo estará sujeto al recurso que la Federación les asigne para la profesionalización de sus cuerpos policiales.
-
-f).- Por capacitación y evaluación a elementos de seguridad pública estatal.
-
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El costo estará sujeto al recurso que la Federación les asigne para la profesionalización de sus cuerpos policiales.
-
-Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
-
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
-Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
+XIV.- (DEROGADA, B.O. 27 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -7577,7 +7725,39 @@ Los pagos por los servicios señalados en la presente fracción no causarán el 
 
 Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
 
-XVI.- (DEROGADA, B.O. 28 DE DICIEMBRE DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS NUMERALES], B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XVI.- Otros servicios en materia de Desarrollo Urbano y Ecología, derivados del Delfinario Sonora:
+
+1.- Servicio de encuentro con delfines en las instalaciones del Delfinario Sonora $1,000.00
+
+2.- Servicio de nado con delfines en las instalaciones del Delfinario Sonora $1,500.00
+
+3.- Servicio de terapias asistidas con delfines en las instalaciones del Delfinario Sonora, para residentes del Estado de Sonora $14,000.00
+
+4.- Servicio de terapias asistidas con delfines en las instalaciones del Delfinario Sonora, para personas que residan fuera del Estado de Sonora $16,000.00
+
+5.- Servicio de campamento de verano en las instalaciones del Delfinario Sonora $1,500.00
+
+6.- Servicio de fotografía digital en las instalaciones del Delfinario Sonora:
+
+a) 1 pieza fotográfica con lobos marinos $250.00
+
+b) 1 pieza fotográfica con delfín $250.00
+
+c) 4 piezas fotográficas con lobo marino y/o delfín $600.00
+
+d) 6 piezas fotográficas con lobo marino y/o delfín $800.00
+
+e) 20 piezas fotográficas con lobo marino y/o delfín $1,500.00
+
+f) paquete ilimitado de piezas fotográficas con lobo marino y/o delfín $2,500.00
+
+7.- Derecho para el uso y disfrute de las instalaciones del delfinario Sonora de menores de edad $100.00
+
+8.- Derecho para el uso y disfrute de las instalaciones del delfinario Sonora de mayores de edad $200.00
+
+Los pagos por los servicios señalados en los numerales 1, 2, 3, 4, 5, 6, 7 y 8 de esta fracción, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la Contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
 > <small>(ADICIONADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -7639,9 +7819,9 @@ c) Grande (21 o más jaulas, peceras y/o contenedores) ...... $20,000.00
 
 16.- Por la Certificación en materia ambiental $7,500.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-17.- Por la Recertificación en materia ambiental $5,000.00
+17.- Por la revalidación de certificado en materia ambiental $5,890.00
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -7680,6 +7860,8 @@ c).- $108.00 por copia simple de hasta 20 fojas útiles.
 Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción, serán destinados a este órgano público autónomo, para la operación del mismo.
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
+
+### Capítulo Unico
 
 ###### Artículo 327.
 
@@ -8634,3 +8816,15 @@ B.O. 28 DE DICIEMBRE DE 2023.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1 de enero de 2024, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 10, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2025, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
