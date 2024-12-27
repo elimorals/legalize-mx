@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2024-11-25"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -651,11 +651,13 @@ Los pagos con cheque se recibirán salvo buen cobro. Se aceptarán también cheq
 
 La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Finanzas para exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20% o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la Institución de Crédito. Transcurrido el plazo citado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal, requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin prejuicio de la responsabilidad que en su caso procediere.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 44.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, así como de las multas impuestas por infracciones a las disposiciones fiscales, sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 I.- Presenten solicitud por escrito ante la autoridad fiscal.
 
@@ -665,9 +667,15 @@ La modalidad del pago a plazos elegida por el contribuyente en el formato de la 
 
 II.- Paguen el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos, salvo que la autoridad fiscal apruebe un porcentaje menor como pago inicial. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que solicite la autorización.
 
@@ -687,9 +695,15 @@ Cuando no se paguen oportunamente los montos de los pagos en parcialidades autor
 
 Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago inicial a que hace referencia el primer párrafo de la fracción II de este artículo, del monto total del adeudo a que hace referencia dicha fracción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga, que incluye actualización, que corresponda al periodo mencionado, conforme a lo previsto en la Ley de Ingresos del Estado de Aguascalientes, vigente en la fecha de la solicitud de autorización de pago a plazos de forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la solicitud de pago a plazos de forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la Fracción II de este Artículo, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado.
 
@@ -1885,6 +1899,18 @@ IV.- Se hubiere cometido la conducta que causa el daño o perjuicio a la Haciend
 
 V.- Se presentó el dictamen de cumplimiento de obligaciones fiscales emitido por un Contador Público registrado, siempre que éste no dé origen a la presentación de declaraciones complementarias por dictamen.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+El plazo a que se refiere este artículo será de diez años cuando el contribuyente no haya presentado su solicitud de inscripción en el Padrón Estatal de Contribuyentes, no lleve contabilidad estando obligado a hacerlo, o no la conserve durante el plazo que establece este Código, así como por los periodos en los que no se presente alguna declaración de impuestos, estando obligado a hacerlo de conformidad con la Ley de Hacienda del Estado de Aguascalientes, en estos casos, el plazo de diez años se computará a partir del día siguiente a aquel en que debió haberse presentado la declaración correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+En los casos en que el contribuyente, de forma espontánea, presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años a partir de la presentación de dicha declaración. Sin embargo, en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, excederá de diez años.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+En los casos de responsabilidad solidaria a que se refiere el artículo 23, fracciones III, VIII, XII y XIII de este Código, el plazo será de cinco años cuando la garantía del interés fiscal resulte insuficiente.
+
 El plazo señalado en este artículo no estará sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales o cuando se inicien procedimientos de responsabilidad resarcitoria; se interponga algún recurso administrativo o juicio; cuando las autoridades no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o hubiere señalado de manera incorrecta su domicilio fiscal. En los dos últimos casos se reiniciará el cómputo del plazo de caducidad a partir de la fecha en que se localice al contribuyente.
 
 El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación y la instauración de procedimientos resarcitorios, inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. Para el caso del ejercicio de las facultades de comprobación, la suspensión a que se refiere este párrafo estará condicionada a que dentro de los doce meses siguientes al inicio de las facultades de comprobación, se levante acta final, se emita oficio de observaciones o se dicte la resolución definitiva a efecto de que opere la suspensión.
@@ -2389,7 +2415,9 @@ Las autoridades fiscales, durante el mismo ejercicio fiscal en que ejerzan sus f
 
 Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones y periodos, sólo se podrá efectuar la nueva revisión cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante la autoridad fiscal durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales.
 
-XII.- Las autoridades fiscales deberán concluir la visita domiciliaria o la revisión de la documentación que se realice en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que se notifique la orden de visita o el requerimiento respectivo. Cuando las autoridades no cierren el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión, en el plazo mencionado, se entenderá concluida en esa fecha, y quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XII.- Las autoridades fiscales deberán concluir la visita domiciliaria dentro de un plazo máximo de doce meses contados a partir de que se notifique la orden de visita. Cuando las autoridades no cierren el acta final de visita, o en su caso, el de conclusión de la revisión, en el plazo mencionado, se entenderá concluida en esa fecha, y quedará sin efectos la orden y las actuaciones que se derivaron durante la visita.
 
 No se computarán dentro del plazo de doce meses previsto en el párrafo anterior, los plazos con los que cuentan los contribuyentes para efectos de desvirtuar los hechos y omisiones detectadas en la auditoría, así como para exhibir documentación, de conformidad con la fracción VIII del presente artículo.
 
@@ -2397,7 +2425,9 @@ XIII.- Las visitas domiciliarias ordenadas por las autoridades fiscales, deberá
 
 En estos casos se deberá levantar acta en la que se señale esta situación.
 
-XIV.- Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete, así como la reposición del procedimiento que establece la fracción XI del presente artículo, se suspenderán en los casos de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Los plazos para concluir las visitas domiciliarias, así como la reposición del procedimiento que establece la fracción XI del presente artículo, se suspenderán en los casos de:
 
 a) Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la misma.
 
@@ -2444,6 +2474,26 @@ Se tendrán por consentidos los hechos u omisiones consignados en el oficio de o
 > <small>(ADICIONADA [N. DE E. REUBICADO], P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 VII.- La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Las autoridades fiscales deberán concluir la revisión de la documentación que se realice en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que se notifique el requerimiento respectivo. Cuando las autoridades no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión, en el plazo mencionado, se entenderá concluida en esa fecha, y quedará sin efectos el requerimiento y las actuaciones que se derivaron durante la revisión de que se trate.
+
+No se computarán dentro del plazo de doce meses previsto en el párrafo anterior, los plazos con los que cuentan los contribuyentes para efectos de desvirtuar los hechos y omisiones detectadas en la auditoría, así como para exhibir documentación, de conformidad con la fracción VI del presente artículo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+IX.- Los plazos para concluir las revisiones de gabinete, se suspenderán en los casos de:
+
+a) Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la misma.
+
+b) Fallecimiento del contribuyente, hasta en un plazo que no exceda de un año, si antes no se hubiere aceptado el cargo de representante legal de la sucesión.
+
+c) Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice, y
+
+d) Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+
+e) Cuando los contribuyentes interpongan algún medio de defensa contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2885,13 +2935,13 @@ II.- Por el aseguramiento en cualquiera de los casos que previene el Artículo 1
 
 III.- Por la de remate, enajenación fuera del remate o adjudicación.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-Cuando en los casos de las fracciones anteriores el 2% del crédito fiscal sea inferior a 2.5 veces el valor diario de la unidad de medida y actualización que disponga la Ley de Ingresos del Estado vigente, se cobrará esa cantidad en lugar del 2% establecido.
+Cuando en los casos de las fracciones anteriores el 2% del crédito fiscal sea inferior a 2.5 veces el valor diario de la unidad de medida y actualización vigente, se cobrará esa cantidad en lugar del 2% establecido.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 715 veces el valor diario de la unidad de medida y actualización que disponga la Ley de Ingresos del Estado vigente.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 715 veces el valor diario de la unidad de medida y actualización vigente.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público de la Propiedad y del Comercio del Estado que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios, de los peritos, de los interventores, así como los honorarios de las personas que se contraten para tal efecto, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen, bienes que sean objeto de remate.
 
@@ -4183,8 +4233,24 @@ Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en
 
 P.O. 25 DE NOVIEMBRE DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 16.- SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 16.- SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día iniciará su vigencia (sic) al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 98.- SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los trámites iniciados con anterioridad a la entrada en vigor del presente decreto, se deben llevar a cabo de conformidad con la normatividad vigente al momento de su inicio hasta su conclusión.
