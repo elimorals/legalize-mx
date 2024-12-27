@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-de-la-fiscalia-general-del-estado-de-guanajuato-13
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-15"
-last_updated: "2023-11-15"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Tercera Parte al Número 34 del Periódico Oficial del Estado de Guanajuato, el viernes 15 de febrero de 2019.
 
@@ -389,17 +389,19 @@ V. Las demás acciones relacionadas con las atribuciones de la Fiscalía General
 
 El informe una vez que se haya entregado será público, y será difundido para conocimiento de la sociedad, conforme a las disposiciones constitucionales y legales aplicables. La difusión estará a cargo de la propia Fiscalía General.
 
-Causas graves de remoción del Fiscal General
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Causas graves de destitución de la persona titular de la Fiscalía General
 
 ###### Artículo 18.
 
-El Fiscal General sólo podrá ser removido por el Gobernador del Estado por incurrir en alguna de las siguientes causas graves:
+La persona titular de la Fiscalía General podrá ser destituida por el Gobernador del Estado por incurrir en alguna de las siguientes causas graves:
 
-I. Cuando incumpla de manera reiterada con los fines institucionales previstos en esta Ley; y
+I. Incumplir de manera reiterada con los fines institucionales previstos en esta Ley: y
 
 II. Participar, tolerar, consentir o apoyar violaciones graves a los derechos humanos, o cometer violaciones graves a la Constitución General, a la Constitución Local y a las leyes.
 
-El Gobernador deberá acreditar la causa grave que motivó la remoción del Fiscal General e informar al Congreso del Estado, quien decidirá si objeta o no la remoción, en términos del artículo 95 de la Constitución Local.
+El Gobernador del Estado deberá acreditar la causa grave que motivó la destitución de la persona titular de la Fiscalía General e informar al Congreso del Estado.
 
 Protección y seguridad del Fiscal General
 
@@ -1996,3 +1998,9 @@ Artículo Segundo. La Fiscalía General del Estado, dentro de los treinta días 
 Previsiones presupuestales
 
 Artículo Tercero. A partir del ejercicio fiscal 2024, la Ley del Presupuesto General de Egresos del Estado de Guanajuato deberá incluir los recursos necesarios destinados al cumplimiento de las disposiciones del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 57, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
