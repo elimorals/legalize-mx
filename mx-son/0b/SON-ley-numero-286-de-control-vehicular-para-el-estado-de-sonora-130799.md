@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-286-de-control-vehicular-para-el-estado-de-sonora-13
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2023-12-28"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 27 de septiembre de 2018.
 
@@ -142,6 +142,10 @@ XXXVIII.- Auto Antiguo: Vehículos que tienen un mínimo de treinta años contad
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 XXXIX.- Comprobante Fiscal de origen: es el comprobante fiscal emitido por primera vez donde se consigna la venta del vehículo.
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+XL.- Datos biométricos: Propiedades físicas, fisiológicas, de comportamiento o rasgos de la personalidad, atribuibles a una sola persona y que son medibles, tal como, las huellas digitales, el rostro, la retina, el iris, la firma autógrafa, entre otros.
 
 ###### ARTÍCULO 4.
 
@@ -451,7 +455,9 @@ A) Tratándose de vehículos nuevos:
 
 2. Original del documento con el que acredite la propiedad del vehículo en los términos de la presente Ley;
 
-3. Pedimento de importación, tratándose de vehículos importados; y
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+3. Tratándose de vehículos importados, presentar pedimento de importación o acreditar la existencia del mismo en la factura correspondiente. Este último supuesto, en el caso de facturas expedidas por agencias comercializadoras de autos nuevos en territorio nacional; y
 
 4. Licencia de conducir del Estado, vigente.
 
@@ -472,6 +478,10 @@ B) Tratándose de vehículos usados:
 6. Comprobación del pago de contribuciones vehiculares por los últimos 5 años, cuando la unidad provenga de otra entidad diferente al Estado.
 
 El trámite de referencia deberá realizarse dentro los quince días hábiles siguientes al de la fecha de adquisición, pedimento de importación al interior del país o zona fronteriza, o de la baja de placas.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de la expedición de placas de circulación de auto antiguo, además de los requisitos señalados en esta fracción, se deberá presentar certificado de autenticación de auto antiguo, expedido por el Instituto Tecnológico de Hermosillo, el cual contará con una vigencia máxima de seis meses, así como la validación otorgada por el comité a que hace referencia el artículo 30 Bis del presente ordenamiento.
 
 II.- Modificación o actualización de datos:
 
@@ -641,6 +651,18 @@ En el supuesto de robo de un vehículo, el Ministerio Público deberá dar el av
 
 Los vehículos destinados exclusivamente a su venta al público y en tanto son vendidos, para poder circular en la vía pública, deberán portar placas de demostración, que para ese efecto proporcionará la Secretaría. Para obtener las placas de demostración se estará a lo dispuesto en el Artículo 314 de la Ley de Hacienda del Estado.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 30 BIS.- Tratándose de la expedición de placas de auto antiguo, se estará a lo siguiente:
+
+La Secretaría de Hacienda contará con un comité, que estará integrado por 5 miembros, el cual se constituirá mediante decreto que para tal efecto expida dicha Secretaría.
+
+El comité será el encargado de analizar que el expediente integrado con motivo de la solicitud de placas de circulación de auto antiguo cumpla con los requisitos señalados para tal efecto, en el artículo 19 y demás disposiciones aplicables de esta Ley.
+
+Si a criterio de por lo menos la mayoría calificada de los integrantes del comité, se cumple con dichos requisitos, previo al pago del derecho correspondiente, se otorgarán al solicitante las placas de circulación de auto antiguo.
+
+En caso de que, por mayoría calificada de los integrantes del comité, se considere que la solicitud no cumple con los requisitos establecidos para tal efecto en el artículo 19 y demás disposiciones aplicables de este ordenamiento, la Secretaría negará la emisión de las placas de circulación de auto antiguo.
+
 ###### ARTÍCULO 31.
 
 Todo vehículo que transite por la vía pública deberá encontrarse en condiciones satisfactorias de funcionamiento y provisto de los dispositivos que exige la Ley de tránsito del Estado.
@@ -659,9 +681,11 @@ Cuando la Secretaría pretenda cancelar la vigencia de un modelo determinado de 
 
 ### CAPITULO I. DEL PADRÓN DE LICENCIAS DE CONDUCIR ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 34.
 
-La Secretaría integrará, operará y actualizará el Padrón de Licencias de Conducir Estatal, a partir de la información presentada por los particulares y por las autoridades competentes, mismo que formará parte del Registro Estatal Vehicular.
+La Secretaría integrará, operará y actualizará el Padrón de Licencias de Conducir Estatal, a partir de la información y datos biométricos, presentados por los particulares y por las autoridades competentes, mismos que formarán parte del Registro Estatal Vehicular.
 
 La información contenida en el Registro Vehicular Estatal tendrá el carácter de reservada en términos del artículo 80 del Código Fiscal del Estado de Sonora, por lo que los funcionarios y servidores públicos que intervengan en los diversos trámites y procedimientos relativos a la aplicación de la presente Ley, estarán obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los particulares o terceros con ellos relacionados. No obstante, la información contenida en el Registro Vehicular Estatal podrá ser proporcionada a las agencias y organismos encargados de la seguridad pública, así como a las autoridades a que se refiere la disposición legal antes citada, en los términos que establezca el Reglamento de la presente Ley y demás disposiciones aplicables.
 
@@ -745,9 +769,13 @@ A) Expedición;
 
 B) Renovación;
 
-C) Reposición; y
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
-D) Reexpedición.
+C) Reposición por robo o extravío, y
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+D) Reexpedición por corrección de datos.
 
 ### CAPITULO III. DE LOS REQUISITOS
 
@@ -785,9 +813,21 @@ I.- Reunir los requisitos que se establecen en el inciso anterior.
 
 C) Operador del servicio público de transporte:
 
-I.- Además de reunir los requisitos que se establecen en el inciso A) del presente Artículo, el solicitante deberá acreditar la aprobación del examen sobre conducción de vehículos de servicio público y el examen escrito de conocimiento de la Ley de Tránsito del Estado ante la autoridad de tránsito; y
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+I.- Además de reunir los requisitos que se establecen en el inciso A) del presente Artículo, el solicitante deberá acreditar la aprobación del examen sobre conducción de vehículos de servicio público y el examen escrito de conocimiento de la Ley de Tránsito del Estado ante la autoridad de tránsito.
 
 II.- Carta de no antecedentes penales con una antigüedad no mayor a seis meses a la fecha de realización del trámite.
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+III.- Oficio del Instituto de Movilidad y Transporte para el Estado de Sonora dirigido a Agencia y/o Subagencia fiscal que acredita la documentación de emisión de licencia al contribuyente, el tipo de licencias de servicio público, la vigencia del documento (30 días) y la vigencia autorizada para esa licencia a emitir (2 años), acompañado de la siguiente documentación:
+
+a).- Antidoping.
+
+b).- Examen psicométrico.
+
+c).- Constancia que acredita su capacitación como operador de transporte publico emitida por el Instituto de Movilidad citado.
 
 D) Motociclista:
 
@@ -799,7 +839,9 @@ I.- Reunir los requisitos que se establecen en el inciso A) del presente Artícu
 
 F) Permisos para menores de edad:
 
-Las personas con 16 o 17 años cumplidos a la fecha de la solicitud, podrán solicitar a la Secretaría, permisos para manejar automóviles o permiso de motociclista de servicio particular, el cual tendrá vigencia hasta que el interesado cumpla su mayoría de edad, momento a partir del cual podrá tramitar la licencia de manejo respectiva.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+Las personas con 16 o 17 años cumplidos a la fecha de la solicitud, podrán solicitar a la Secretaría, permisos para manejar automóviles de servicio particular, los cuales podrán tener una vigencia de 1 o 2 años. Cuando el interesado cumpla su mayoría de edad podrá tramitar la licencia de manejo respectiva.
 
 El uso de dichos permisos estará limitado en el horario de uso de las 5:00 horas a las 00:00 horas, a menos que:
 
@@ -827,13 +869,19 @@ En los trámites de renovación, reposición y reexpedición, se requiere que el
 
 Las autoridades encargadas de expedir las licencias que se mencionan en este artículo, podrán solicitar nuevamente, cualquiera de los requisitos anteriores para el trámite de renovación, según las características del solicitante.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
+En los trámites de renovaciones y/o reposiciones por robo o extravío, las personas de 70 años o más y/o las personas con discapacidad, deberán presentar un certificado médico de su aptitud física y mental para conducir, expedido por algún médico con cédula profesional, con una antigüedad no mayor a tres meses.
+
 ###### ARTÍCULO 40.
 
 Toda persona que haya obtenido licencia o permiso de manejo podrá hacer uso de él durante su vigencia, siempre que conserve las cualidades físicas y mentales necesarias para conducir vehículos de motor.
 
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 41.
 
-A toda persona que padezca una incapacidad física para la conducción normal de vehículos de motor, se le podrá expedir licencia, cuando cuente con anteojos, prótesis u otros aparatos y el vehículo que pretende conducir esté provisto de mecanismos y otros medios auxiliares que previa demostración, le capaciten para conducir y satisfaga además los requisitos señalados en el artículo 39 de esta Ley.
+A toda persona que padezca una incapacidad física para la conducción normal de vehículos de motor, se le podrá expedir o renovar la licencia, cuando cuente con anteojos, prótesis u otros aparatos y el vehículo que pretende conducir esté provisto de mecanismos y otros medios auxiliares que previa demostración, le capaciten para conducir y satisfaga además los requisitos señalados en el artículo 39 de esta Ley.
 
 ###### ARTÍCULO 42.
 
@@ -1296,3 +1344,15 @@ B.O. 28 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1 de enero de 2024, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 10, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO, DE LA LEY DE CONTROL VEHICULAR DEL ESTADO DE SONORA Y DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 01 de enero de 2025, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
