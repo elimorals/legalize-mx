@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2024-04-15"
+last_updated: "2024-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -821,6 +821,10 @@ Se entiende por seguridad escolar al conjunto de condiciones, medidas y acciones
 
 XXVII. Realizar en conjunto con las autoridades facultadas para ello, el seguimiento y evaluación constante de acciones, proyectos y programas en materia de seguridad escolar a efecto de mitigar la comisión de delitos y riesgos en las instituciones públicas y privadas.
 
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+XXVIII. Realizar acciones, programas, cursos, talleres, platicas, conferencias y campañas de prevención, atención e información para concientizar y sensibilizar a niñas, niños, adolescentes y a la comunidad educativa de las escuelas de educación básica y media superior del Estado de México, sobre el uso inadecuado de las tecnologías y plataformas de comunicación e información y los riesgos que implica para la vida, salud e integridad física y psicológica la realización de retos virales surgidos en redes sociales, así como dar a conocer las instancias de atención y, en su caso, los medios de denuncia por la realización de conductas que inciten, promuevan o propicien conductas sancionables conforme las leyes de la materia.
+
 ###### Artículo 42.
 
 La educación, además de lo dispuesto en las disposiciones jurídicas aplicables, tendrá los siguientes fines:
@@ -852,6 +856,10 @@ XI. Fortalecer la educación especial e inicial.
 XII. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante esta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos.
 
 XIII. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+XIV. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales.
 
 ###### Artículo 43.
 
@@ -1217,9 +1225,11 @@ La Procuraduría de Protección en colaboración con las Procuradurías de Prote
 
 ### Capítulo Vigésimo. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones
 
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 67.
 
-Niñas, Niños y Adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet. Para ello, las autoridades del Estado de México darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+Niñas, Niños y Adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet. Para ello, las autoridades del Estado de México darán todas las facilidades a efecto de coordinarse con la Secretaría de Infraestructura, Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 ### Capítulo Vigésimo Primero. De las Niñas, Niños y Adolescentes en Situaciones Especiales
 
@@ -1903,7 +1913,9 @@ II. La persona titular de la Secretaría General de Gobierno.
 
 II Bis. La persona titular de la Secretaría de las Mujeres;
 
-III. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+III. La persona titular de la Secretaría de Seguridad;
 
 > <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -1951,7 +1963,9 @@ I. La Secretaría de Relaciones Exteriores.
 
 II. El Instituto Nacional de Migración.
 
-III. La Secretaría de Comunicaciones y Transportes.
+> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2024)</small>
+
+III. La Secretaría de Infraestructura, Comunicaciones y Transportes.
 
 E. Presidentes municipales representantes de las regiones del Estado de México.
 
@@ -2540,3 +2554,13 @@ G.G. 15 DE ABRIL DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 27 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 56.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
