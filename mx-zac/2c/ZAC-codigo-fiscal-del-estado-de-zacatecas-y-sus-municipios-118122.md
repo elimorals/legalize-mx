@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-y-sus-municipios-118122"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-31"
-last_updated: "2023-12-30"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
 
 Código publicado en el Suplemento 16 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -259,7 +259,9 @@ La prescripción, se podrá declarar de oficio por la autoridad, por acción o e
 
 Las Autoridades Fiscales podrán ordenar la cancelación administrativa de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro, o por insolvencia del deudor y los responsables solidarios.
 
-Las Autoridades Fiscales, a través de Reglas, darán a conocer los criterios mediante los cuales se considerará la incosteabilidad en el cobro de un crédito fiscal.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Las Autoridades Fiscales, a través de Reglas establecerán el procedimiento para la cancelación administrativa de créditos fiscales.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables suficientes para cubrir el crédito.
 
@@ -359,13 +361,19 @@ Cuando en las disposiciones fiscales se haga referencia expresa a domicilio fisc
 
 Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que le corresponda de acuerdo con lo dispuesto en este mismo precepto, o cuando hayan manifestado un domicilio ficticio o no se localicen en el domicilio fiscal registrado ante el Registro Estatal de Contribuyentes, las autoridades fiscales podrán practicar diligencias en cualquier lugar dentro del territorio del Estado, en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio indistintamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-En los plazos establecidos en este Código en días, sólo se computarán los días hábiles.
+En los plazos establecidos en este Código y las demás disposiciones fiscales en días, sólo se computarán los días hábiles.
 
-Se consideran días inhábiles, y no se computarán en los plazos fijados en días, los sábados y los domingos, el 1 de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1 y 5 de mayo; el 8 y 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1°. de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre. Asimismo, se consideran días inhábiles todos aquéllos en que las oficinas de las autoridades fiscales ante las que deban realizarse los trámites correspondientes, permanezcan cerradas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Para efectos del cómputo de plazos en días, se considerarán días inhábiles aquéllos que en términos de las disposiciones aplicables las autoridades fiscales tengan vacaciones generales. La existencia de guardias de la autoridad en sus oficinas fiscales, no habilita los días que en términos de las disposiciones aplicables se consideren vacaciones generales. No son vacaciones generales las que se otorguen en forma escalonada.
+Se consideran días inhábiles, y no se computarán en los plazos fijados en días, los sábados y los domingos, el 1 de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1 y 5 de mayo; el 8 y 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1°. de octubre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre. Asimismo, se consideran días inhábiles todos aquéllos en que las oficinas de las autoridades fiscales ante las que deban realizarse los trámites correspondientes, permanezcan cerradas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Para efectos del cómputo de plazos en días, se considerarán días inhábiles aquellos que, en términos de las disposiciones aplicables, las autoridades fiscales tengan vacaciones generales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. La existencia de guardias de la autoridad en sus oficinas fiscales, no habilita los días que, en términos de las disposiciones aplicables, se consideren vacaciones generales. No son vacaciones generales las que se otorguen en forma escalonada.
 
 En los plazos establecidos en mes o meses, año o años, o por períodos indeterminados, y aquéllos en que se señale una fecha determinada para su extinción se computarán todos los días.
 
@@ -663,15 +671,27 @@ En los documentos digitales, una firma electrónica avanzada amparada por un cer
 
 Se entiende por documento digital todo mensaje de datos que contiene información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
 
-Los datos de creación de firmas electrónicas avanzadas podrán ser tramitados por los contribuyentes ante la Secretaría de Finanzas o cualquier prestador de servicios de certificación autorizado por la Secretaría de la Función Pública en los términos establecidos en la Ley de Firma Electrónica del Estado de Zacatecas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Los datos de creación de firmas electrónicas avanzadas deberán ser tramitados por los contribuyentes o los particulares que soliciten el uso de la firma electrónica avanzada, ante la Secretaría de Finanzas en los términos establecidos en la Ley de Firma Electrónica del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Para tales efectos, la Secretaría de Finanzas requerirá a los contribuyentes o los particulares que soliciten el uso de la firma electrónica avanzada, información relacionada, al menos, con su identidad, domicilio y sobre su situación fiscal; y en caso de que ésta no sea proporcionada, tal Secretaría podrá negar el otorgamiento de la firma electrónica avanzada.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría de Finanzas, mediante Reglas de Carácter General, establecerá los requisitos y procedimientos para la emisión y cancelación de la firma electrónica avanzada.
 
 ###### ARTÍCULO 46.
 
 Cuando los contribuyentes remitan un documento digital a la Secretaría de Finanzas, recibirán el acuse de recibo que contenga el sello digital. El sello digital es el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el sello digital identificará a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado. La Secretaría de Finanzas establecerá los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo con sello digital.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 47.
 
-La Secretaría de Finanzas, previo acuerdo firmado con la Secretaría de la Función Pública, podrá proporcionar los siguientes servicios de certificación de firmas electrónicas avanzadas:
+La Secretaría de Finanzas, podrá proporcionar los siguientes servicios de certificación de firmas electrónicas avanzadas:
 
 I. Verificar la identidad de los usuarios y su vinculación con los medios de identificación electrónica;
 
@@ -723,7 +743,7 @@ VI. La mención de la tecnología empleada en la creación de la firma electrón
 
 VII. La clave pública del titular del certificado.
 
-Cuando se trate de certificados emitidos por prestadores de servicios de certificación autorizados por la Secretaría de la Función Pública, que amparen datos de creación de firmas electrónicas que se utilicen para los efectos fiscales, dichos certificados deberán reunir los requisitos a que se refieren las fracciones anteriores, con excepción del señalado en la fracción III de este artículo. En sustitución del requisito contenido en dicha fracción, el certificado deberá contener la identificación del prestador de servicios de certificación y su dirección electrónica, así como los requisitos que para su control establezca la Secretaría de Finanzas, mediante reglas de carácter general.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2043,11 +2063,37 @@ VI. Establecer la causa legal de responsabilidad, cuando ésta derive de una res
 
 VII. Ostentar la firma de la autoridad fiscal competente para emitirlo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-En el caso de actos administrativos que consten en documentos escritos, impresos o digitales, deberán contener la firma del funcionario competente, la cual podrá ser autógrafa o electrónica avanzada.
+En el caso de actos administrativos que consten en documentos escritos, impresos o digitales, deberán contener la firma del funcionario competente, la cual podrá ser autógrafa o electrónica avanzada, las que tendrán el mismo valor probatorio.
 
-Cuando se ignore el nombre de la persona a quién deba ser dirigido, deberán señalarse datos suficientes que permitan su identificación.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Cuando se ignore el nombre de la persona a quien deba ser dirigido, deberán señalarse datos suficientes que permitan su identificación.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria a que se refiere el presente Código, se señalará, además, la causa legal de la responsabilidad.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Para la emisión y regulación de la firma electrónica avanzada de los servidores públicos adscritos a la Secretaría de Finanzas, serán aplicables las disposiciones previstas en el Capítulo Tercero, denominado "De los Medios Electrónicos", del Título Primero de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+En caso de resoluciones administrativas que consten en documentos impresos, el servidor público competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello digital, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, la integridad y autoría del documento que contenga el sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, podrá ser comprobada a través de los medios que la Secretaría de Finanzas establezca.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Adicionalmente, los servidores públicos de la Secretaría de Finanzas podrán utilizar su firma electrónica avanzada en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que se deban notificar, siendo aplicable para tal efecto lo dispuesto en los párrafos del cuarto al octavo del presente artículo.
 
 ###### ARTÍCULO 115.
 
@@ -2663,9 +2709,7 @@ Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 146 Quáter.
-
-Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación a que se refiere la fracción XI del artículo 120 de este Código, revisen el dictamen y demás información a que se refiere este artículo y las reglas de carácter general emitidas por la Secretaría de Finanzas, estarán a lo que enseguida se dispone:
+ARTÍCULO 146 QUÁTER. Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación a que se refiere la fracción XI del artículo 120 de este Código, revisen el dictamen y demás información a que se refiere este artículo y las reglas de carácter general emitidas por la Secretaría de Finanzas, estarán a lo que enseguida se dispone:
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -2725,7 +2769,9 @@ Para el ejercicio de las facultades de comprobación de las autoridades fiscales
 
 a) En el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales;
 
-b) En el caso de que se determinen diferencias de impuestos a pagar y estos no se enteren de conformidad con lo dispuesto en esta sección;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) En el caso de que se determinen diferencias de impuestos a pagar y estos no se enteren de conformidad con lo dispuesto en este Código o en las Reglas de Carácter General que emita la autoridad fiscal;
 
 c) El dictamen no surta efectos fiscales, en términos de lo establecido en el artículo 101 Septies de este Código;
 
@@ -2877,9 +2923,13 @@ III. Cuando se adviertan o detecten irregularidades en sus registros que imposib
 
 Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta:
 
-a) Las erogaciones realizadas, declaradas en los últimos doce meses;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-b) Las manifestaciones presentadas por concepto de Impuesto Sobre la Renta, en los últimos doce meses;
+a) Las erogaciones realizadas, declaradas en los últimos cuatro años;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Las manifestaciones presentadas por concepto de Impuesto Sobre la Renta, en los últimos cuatro años;
 
 c) La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales federales;
 
@@ -3979,9 +4029,9 @@ Salvo disposición expresa en contrario, los actos administrativos distintos a l
 
 En el caso de notificaciones electrónicas por documento digital, podrán realizarse en el portal electrónico de la Secretaría de Finanzas o mediante correo electrónico institucional, o en el portal electrónico de la autoridad municipal, en caso de que cuenten con él.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir la notificación electrónica que le hubiera sido enviada.
+El acuse de recibo consistirá en el documento digital con firma electrónica avanzada que transmita el destinatario al abrir la notificación electrónica que le hubiera sido enviada.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -3999,11 +4049,15 @@ Los contribuyentes contarán con tres días para abrir los documentos digitales 
 
 En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
 
-La clave de seguridad que hubiere sido asignada en términos del párrafo anterior será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
 
 El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario del documento, al autenticarse en el medio por el cual le haya sido enviado el citado documento.
 
-Las notificaciones electrónicas estarán disponibles en el portal de electrónico establecido para tal efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un Sello digital que lo autentifique.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Las notificaciones electrónicas estarán disponibles en el portal electrónico establecido para tal efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un Sello digital que lo autentifique.
 
 Las notificaciones electrónicas serán emitidas anexando el sello digital correspondiente.
 
@@ -4229,6 +4283,10 @@ Los honorarios de los peritos se regularán de conformidad con los aranceles res
 
 La Secretaría de Finanzas constituirá un fondo, reserva o pasivo destinado a mejorar, modernizar y fortalecer la administración hacendaria, el cual se conformará con el cien por ciento de lo recaudado por concepto de multas, gastos extraordinarios, honorarios y gastos de ejecución, establecidos en el presente Código; así como el veinticinco por ciento por los citados conceptos e incentivos derivados de la aplicación del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus respectivos anexos, los cuales se destinarán a equipamiento, sistemas informáticos de desarrollo, incentivos y capacitación al personal y difusión, cuyo ejercicio de los recursos será de manera autónoma y con independencia del presupuesto que para los fines correspondientes tenga asignado la Secretaría de Finanzas.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+La información derivada de lo establecido en el párrafo anterior se considerará como información confidencial.
+
 Los municipios a través de las tesorerías o su equivalente, podrán crear el fondo en los términos establecidos en el párrafo anterior, pudiendo incluir los derivados de Convenios de Colaboración que lleven a cabo con la Secretaría de Finanzas.
 
 ###### ARTÍCULO 256.
@@ -4451,7 +4509,9 @@ I. Se realizarán cumpliendo las formalidades que se establecen para las notific
 
 II. El ejecutor designado por el jefe de la oficina ejecutora deberá constituirse en el domicilio del deudor o en el lugar donde se encuentren los bienes propiedad del deudor, deberá identificarse con la persona con quien se entienda la diligencia de requerimiento de pago, de embargo de bienes o negociación, requiriéndola para que designe dos testigos instrumentales de asistencia, si no lo hiciere los designará el propio ejecutor. Si al concluir la diligencia los testigos designados se negaren a firmar, así lo hará constar en el acta, sin que tales circunstancias afecten la legalidad de las diligencias; y
 
-III. De las diligencias se levantará acta circunstanciada misma que deberá reunir los requisitos que se establecen en el artículo 114 de este Código, dejando al finalizar la diligencia, un tanto de la misma con firma autógrafa a la persona con quien se entiende ésta.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+II (SIC). De las diligencias se levantará acta circunstanciada, dejando al finalizar la diligencia, un tanto de la misma con firma autógrafa a la persona con quien se entiende ésta.
 
 ###### ARTÍCULO 273.
 
@@ -5252,5 +5312,21 @@ P.O. 30 DE DICIEMBRE DE 2023.
 El presente Decreto entrará en vigor el primero de enero del año dos mil veinticuatro, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 22.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE FIRMA ELECTRÓNICA DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinticinco, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan las “REGLAS.- Para la cancelación y depuración de Créditos Fiscales a favor del Estado de Zacatecas” publicadas en el Suplemento 6 al No. 48 del Periódico Oficial Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, de fecha 17 de junio de 2023, del Tomo CXXXIII No. 48.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía y contractuales del marco jurídico estatal, en lo que se opongan al presente Decreto.
