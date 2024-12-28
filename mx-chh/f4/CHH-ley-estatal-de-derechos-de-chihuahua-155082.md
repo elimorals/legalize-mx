@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-derechos-de-chihuahua-155082"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-29"
-last_updated: "2024-02-03"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE DERECHOS DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE FEBRERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2021.
 
@@ -224,6 +222,18 @@ XXXII. UTM: Universe Transverse Mercator / Sistema de Coordenadas Universal Tran
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 XXXIII. UTV: Utility Task Vehicle / Vehículo Utilitario para Tareas.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. INVENTOR: Herramienta de ingeniería que diseña, modela, ensambla y crea prototipos digitales.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXXV. MINDFULNESS: Técnica de meditación que busca entrenar la mente para centrar la atención y redireccionar los pensamientos.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXXVI. STEAM: Science, Technology, Engineering, Arts & Mathematics; Ciencia, Tecnología, Ingeniería, Artes y Matemáticas.
 
 ###### Artículo 5o.
 
@@ -465,25 +475,29 @@ III. Por la modificación de datos de las licencias de los establecimientos en l
 
 a) Cambio de domicilio. 319.5177 UMAs
 
-b) Cambio de denominación. 109.1749 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Cambio o Asignación de denominación. 109.1749 UMAs
 
 c) Cambio de titular. 601.3976 UMAs
 
 d) Disminución de giro. 117.9643 UMAs
 
-e) Asignación de denominación. 93.4945 UMAs
+e) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 f) Por la rectificación y/o corrección y/o aclaración de datos de licencias de bebidas alcohólicas 10.3998 UMAs
 
-IV. Por la integración documental para el otorgamiento de una licencia para la operación de establecimientos en los que venden, suministran o consumen bebidas alcohólicas en envase cerrado, abierto o al copeo. 77.4588 UMAs
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IV. Por la integración documental para la expedición o modificación de una licencia para la operación de establecimientos en los que venden, suministran o consumen bebidas alcohólicas en envase cerrado, abierto o al copeo. 77.4588 UMAs
 
 V. Por la autorización para el funcionamiento de pista de baile, como actividad complementaria al giro de la licencia otorgada, para aquellos establecimientos en los que se venden, suministran o consumen bebidas alcohólicas en envase abierto o al copeo. 817.4880 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Cuando se trate de cambio de giro o añadir, uno o varios giros a la licencia respectiva, se causará el 80% (ochenta por ciento) de los derechos por expedición de la licencia a que se refiere la fracción I del presente artículo que corresponda al giro solicitado. Cuando se cuente con una licencia y se modifique el giro al de centro recreativo, se causará el 50% (cincuenta por ciento) de los derechos de expedición a que se refiere la fracción I, Apartado B, numeral 13) de este artículo, procediéndose a la cancelación de la licencia previamente otorgada. Por el incremento de las bebidas autorizadas en la licencia respectiva, se causarán el 80% (ochenta por ciento) de los derechos que correspondan por expedición de la licencia de que se trate.
+Cuando se cuente con una licencia y se modifique el giro al de centro recreativo, se causará el 50% (cincuenta por ciento) de los derechos de expedición a que se refiere la fracción 1, Apartado B, numeral 13) de este artículo. Por el incremento de las bebidas autorizadas en la licencia respectiva, se causarán el 80% ( ochenta por ciento) de los derechos que correspondan por expedición de la licencia de que se trate.
 
 En el caso de que una licencia incluya varios giros, se pagarán los derechos que se causen tanto por su otorgamiento como por la revalidación de cada uno de los giros autorizados, excepto tratándose de establecimientos de hotel, por los que solo se pagará el derecho por el giro que cause mayor importe.
 
@@ -557,9 +571,11 @@ III. De 301 a 450 personas. 293.7175 UMAs
 
 IV. De 451 personas en adelante. 377.6368 UMAs
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-Por la expedición del permiso para la extensión de horario, se pagarán derechos conforme a las siguientes cuotas:
+Por la expedición del permiso para la extensión de horario, se pagará por cada hora extra, los derechos conforme a las siguientes cuotas:
 
 I. Para evento privado. 100.4119 UMAs
 
@@ -581,9 +597,11 @@ II. Personas morales. 182.8643 UMAs
 
 Por la expedición del permiso para el porteo de bebidas alcohólicas, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Permiso para el porteo de bebidas alcohólicas
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-mediante engomado vehicular. 56.3014 UMAs
+I. Permiso anual para el porteo de bebidas
+
+alcohólicas mediante engomado vehicular. 56.3014 UMAs
 
 II. Permiso para el porteo de bebidas
 
@@ -595,19 +613,27 @@ con vigencia de tres días hábiles. 9.7978 UMAs
 
 Por el otorgamiento de permiso provisional para la operación de un establecimiento en el que se vendan o suministren bebidas alcohólicas, se pagarán derechos conforme a las siguientes cuotas:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 I. Por giros contemplados en el artículo 8,
 
-fracción I, Apartado A de esta Ley. 83.5094 UMAs
+fracción I, Apartado A, incisos del 1) al 9)
+
+de esta Ley. 83.5094 UMAs
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
 II. Por giros contemplados en el artículo 8,
 
-fracción I Apartado B de esta Ley. 141.2926 UMAs
+fracción I Apartado B, incisos del 1) al 5),
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+11) y 13) de esta Ley. 141.2926 UMAs
 
-III. Por los giros contemplados en el artículo 8, fracción I,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Apartado A, incisos 10) y 11) de esta Ley 66.8075 UMAs
+III. Por el giro contemplado en el artículo 8,
+
+fracción I, Apartado A, inciso 10) de esta Ley. 66.8075 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -620,6 +646,12 @@ Apartado B, incisos 6) y 7) de esta Ley. 113.0341 UMAs
 V. Por los giros contemplados en el artículo 8, fracción I,
 
 apartado B, incisos 9) y 10) de esta Ley. 37.6780 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VI. Por el giro contemplado en el artículo 8,
+
+fracción I, Apartado A, inciso 11) de esta Ley. 37.6780 UMAs
 
 ###### Artículo 18.
 
@@ -648,6 +680,20 @@ Por la expedición de la patente de notario, se pagará el derecho conforme a la
 ###### Artículo 23.
 
 Por la autorización de cada volumen de protocolo o de libro de registro de actas, se pagará el derecho conforme a la cuota de 5.4108 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 23
+
+1. Por el depósito de libros notariales, que hubieren o no cumplido el plazo máximo de custodia conforme a la Ley del Notariado, se cobrará el derecho conforme a las siguientes cuotas:
+
+I. Por aquellos libros de protocolo, de registro de actos fuera de protocolo o de registro de actas que ya hubieren cumplido el plazo de custodia, sin tomar en cuenta el o los apéndices. 1.3800 UMAs
+
+II. Por cada tomo de apéndice de los libros referidos en la fracción anterior, siempre que su grosor no exceda de 6 centímetros, con una tolerancia de +/- 1 centímetro. 1.3800 UMAs
+
+III. Por aquellos libros de protocolo, de registro de actos fuera de protocolo o de registro de actas que no hubieren cumplido el plazo de custodia, sin tomar en cuenta el o los apéndices, por cada seis meses de anticipación. 10.0000 UMAs
+
+IV. Por cada tomo de apéndice de los libros referidos en la fracción anterior, siempre que su grosor no exceda de 6 centímetros, con una tolerancia de +/- 1 centímetro. 10.0000 UMAs
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -685,25 +731,29 @@ II. Por el asiento y firma de la autorización definitiva, así como la integrac
 
 Por búsquedas en el archivo notarial de la Dirección del Registro Público de la Propiedad y del Notariado, se pagará el derecho conforme a la cuota de. 4.5469 UMAs
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 27
 
-1. Por el informe respecto al registro o depósito de testamentos que se rindan a solicitud de notarios o particulares acreditando interés, se pagará el derecho conforme a la cuota de. 2.1657 UMAs
+1. Por el informe respecto al registro o depósito de testamentos que se rindan por el Departamento del Notariado, se pagará el derecho conforme a la cuota de. 2.1657 UMAs
 
 ###### Artículo 28.
 
 Por la constitución o modificación del patrimonio familiar, incluidas las notas marginales al calce y la ratificación de documentos y reconocimiento de firmas, se pagará el derecho conforme a la cuota de. 13.9255 UMAs
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 29.
 
-Por cada inscripción, anotación o cancelación de asiento que realice la Dirección del Registro Público de la Propiedad y del Notariado, entendiéndose que la inscripción incluye la permanente publicidad de los actos y hechos jurídicos inscritos para surtir sus efectos frente a terceros, garantizando su conservación, preservación y organización, conforme a las disposiciones correspondientes, permitiendo su reproducción y consulta de manera indefinida e inmediata, proporcionando seguridad jurídica, así como la eventual responsabilidad subsidiaria del Estado, se pagará el derecho conforme a la cuota de 21.9902 UMAs, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de este Capítulo:
+Los servicios que se presten por el Registro Público de la Propiedad y del Notariado, causarán derecho conforme el valor de la UMA diaria o fracción de la misma, de acuerdo a los siguientes:
 
-I. Las inscripciones traslativas de dominio de propiedad inmuebles o garantías constituidas sobre estos, se pagará el derecho conforme a la cuota de. 167.3734 UMAs
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-II. Por la inscripción de convenios modificatorios, así como los contratos que contengan disposiciones de efectivo de créditos otorgados con anterioridad, inscripción de las garantías adicionales y/o cesiones de crédito, cesión de derechos litigiosos o convenios de subrogación o reconocimiento de adeudos, cuya garantía ya estuviese previamente inscrita en el Registro Público de la Propiedad, se pagará el derecho conforme a la cuota de. 167.3734 UMAs
+I. La inscripción o registro de títulos, ya sea de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra naturaleza por virtud de los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión de bienes inmuebles, se pagará el derecho conforme a la cuota de. 167.3734 UMAs
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+II. Por cada inscripción de garantías constituidas sobre inmuebles o créditos, se pagará el derecho conforme a la cuota de. 167.3734 UMAs
 
 III. En el caso de reversión de fideicomiso, se pagará el derecho conforme a las siguientes cuotas:
 
@@ -711,7 +761,7 @@ a) Cuando la reversión implique la generación de una nueva inscripción. 167.3
 
 b) Cuando la reversión implique que las cosas vuelvan al estado que guardaban antes de la constitución, se asentarán notas marginales, por cada una de ellas se aplicará la siguiente cuota. 0.8554 UMAs
 
-IV. Por cada asiento registral que se haga en las secciones no mencionadas específicamente del Registro de la Propiedad o en cualquiera de los folios mercantiles del Registro Público de Comercio, incluidos los embargos, arrendamientos, demandas hipotecarias o cédulas hipotecarias y operaciones similares que no aparezcan mencionadas en otras disposiciones de esta Ley. 167.3734 UMAs
+IV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 V. En los casos de inscripción de condominio, se pagará el derecho conforme a las siguientes cuotas:
 
@@ -733,9 +783,9 @@ IX. Por cada cancelación en el Registro Público de la Propiedad y del Comercio
 
 X. Por cada cancelación de créditos otorgados por Instituciones de Crédito u organismos de vivienda del Sector Público y por cada nota marginal en los libros o al calce del registro de documentos derivada de dicha cancelación o que se asiente por cualquier otro concepto. 0.8554 UMAs
 
-Este concepto se cobrará siempre que se asienten las notas respectivas, aun cuando se señalen máximos para el cobro de los derechos en que se dé la figura de la confusión de derechos. Cuando cualquier operación haya de inscribirse en varios Distritos, la Recaudación de Rentas que primeramente tenga conocimiento del acto cobrará el total de los derechos correspondientes por el acto que pretende inscribir, más los que se causen por las notas que se generen en cada Distrito, agregando al certificado de pago las copias que sean necesarias para que el interesado pueda entregar un tanto a cada uno de los Registradores que intervengan y estos, cerciorándose de que se ha hecho el pago, procederán al registro. Para el caso de la inscripción de garantías, cuya inscripción se encuentre en el supuesto que antecede, los registradores procederán al registro sin exigir más pago que los que se causen por las notas que se generen en cada Distrito, aplicando para ello la tarifa señalada en esta fracción. Cuando el documento se haya presentado en una oficina para registrarse en otra, la oficina receptora deberá exigir la exhibición del certificado que acredite el pago del concepto a que se hace referencia en la siguiente fracción de este artículo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XI. Por cada trámite de inscripción que se solicite de manera presencial, en una oficina para ser registrado en otra, incluyendo los avisos preventivos. Así como, por cada trámite que se ingrese vía remota, en el que el acto a inscribir no contenga folio real. 7.4916 UMAs
+XI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 XII. Por cada certificado de existencia de inscripción, existencia o inexistencia de gravamen, de sección séptima o cláusula agraria, así como certificaciones relativas a la sección cuarta del Registro Público de la Propiedad y del Registro Público de Comercio, no contempladas en otros artículos de esta Ley, solicitado en las oficinas o por medios electrónicos, independientemente de la oficina en donde se solicite. 2.4176 UMAs
 
@@ -786,6 +836,10 @@ XXVI. En el caso del usufructo, la nuda propiedad o revocación de donación, se
 a) En la constitución o consolidación de usufructo, o bien, en la revocación de donación que implique la generación de una nueva inscripción. 167.3734 UMAs
 
 b) Cuando su consolidación o revocación de donación solo implique asentar anotación marginal, por cada una de ellas, se aplicará la cuota establecida en la fracción X del presente artículo.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXVII. Por la suscripción al servicio de alertas registrales respecto de cada folio real, por trimestre. 1.3800 UMAs
 
 #### SECCIÓN CUARTA. DIRECCIÓN DEL REGISTRO CIVIL
 
@@ -1103,9 +1157,11 @@ I. Otorgamiento o revalidación hasta por un año de vigencia
 
 por cada unidad registrada 12.7763 UMAs
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 II. Por cada año adicional al primero de vigencia por cada
 
-unidad registrada 2.7763 UMAs
+unidad registrada. 12.7763 UMAs
 
 III. Por diez años de vigencia por unidad registrada nueva 111.5823 UMAs
 
@@ -1777,9 +1833,11 @@ Por la validación de acta de examen o titulación profesional, se pagará el de
 
 Por la gestión ante otras Dependencias estatales o federales para la obtención de documentos educativos, se pagará el derecho conforme a la siguiente cuota. 3.0024 UMAs
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 111.
 
-Por la actualización de datos de plantilla del personal de planteles particulares, se pagará el derecho conforme a la siguiente cuota. 10.0412 UMAs
+Por la actualización de datos de la plantilla del personal de planteles particulares, se pagará un derecho obligatorio por ciclo escolar de. 10.0412 UMAs
 
 ###### Artículo 112.
 
@@ -1801,67 +1859,45 @@ Por el permiso temporal para extranjeros, se pagará el derecho conforme a la si
 
 ### CAPÍTULO IV (SIC). DE LA SECRETARÍA DE EDUCACIÓN Y DEPORTE
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+###### Artículo 115
+
+1. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-1. Acreditación de estándares de competencia 20.7857 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+2. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-2. Renovación de estándares de competencia 15.5892 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+3. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-3. Certificado de competencia 8.8339 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+4. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-4. Acreditación de centro de evaluación
-
-(por primera vez) 109.9165 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+5. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-5. Renovación anual de acreditación de centro de evaluación 32.3235 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 115
-
-6. Acreditación y reacreditación de evaluadores independientes 12.0678 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+6. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Articulo 115
 
-7. Reposición de certificados 5.1046 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+7. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-8. Capacitación 37.4264 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+8. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-9. Evaluación 19.1350 UMAs
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+9. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 115
 
-10. Proceso de evaluación cruzada 48.6697 UMAs
+10. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ### CAPÍTULO V. DE LA SECRETARÍA DE SALUD DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
@@ -1929,15 +1965,7 @@ V. Establecimientos de hotel, por habitación. 1.1105 UMAs
 
 ###### Artículo 119.
 
-Por la solicitud de verificación sanitaria, visita y/o muestreo de los giros establecidos en el acuerdo en el que se dan a conocer los trámites y servicios, así como los formatos que aplica la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, inscritos en el Registro Federal de Trámites y Servicios de la Comisión Federal de Mejora Regulatoria, publicado en el Diario Oficial de la Federación el 28 de enero de 2011 y sus modificaciones, de acuerdo con el número de empleados que en ella laboran, se pagarán los derechos conforme a las siguientes cuotas:
-
-I. De 1 a 2 empleados. 10.2670 UMAs
-
-II. De 3 a 15 empleados. 31.7276 UMAs
-
-III. De 16 a 50 empleados. 72.9734 UMAs
-
-IV. De 51 empleados en adelante. 140.3336 UMAs
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 120.
 
@@ -1957,11 +1985,11 @@ II. De 16 empleados en adelante. 77.7326 UMAs
 
 ###### Artículo 122.
 
-Por la autorización de libros para el control de medicamentos, estupefacientes y/o psicotrópicos para uso de farmacias, boticas y droguerías, por libro, se pagará el derecho conforme a la siguiente cuota. 4.7591 UMAs
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 123.
 
-Por la autorización de libros de bancos de sangre y servicios de transfusión sanguínea, por libro, se pagará el derecho conforme a la siguiente cuota. 3.9660 UMAs
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 ###### Artículo 124.
 
@@ -2097,9 +2125,11 @@ Por el registro estatal de prestadores de servicio en materia de impacto ambient
 
 Por el refrendo anual de registro estatal de prestadores de servicio en materia de impacto ambiental por cada campo de especialidad, se pagará el derecho conforme a la siguiente cuota. 36.2875 UMAs
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 136.
 
-Cambio de razón social, se pagará el derecho conforme a la siguiente cuota. 5.8139 UMAs
+Cambio de titularidad o de razón social de la autorización de impacto ambiental, se pagará el derecho conforme a la siguiente cuota. 5.8139 UMAs
 
 ###### Artículo 137.
 
@@ -2147,9 +2177,13 @@ e) Reciclaje. 13.9255 UMAs
 
 f) Sitio de disposición final. 58.0228 UMAs
 
-II. Actualización de la autorización para el manejo
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-de residuos de manejo especial. 36.3107 UMAs
+II. Actualización de la autorización para el
+
+manejo de residuos de manejo especial,
+
+sin cambio de vigencia. 36.3107 UMAs
 
 III. Recepción, evaluación y otorgamiento de la
 
@@ -2162,6 +2196,12 @@ IV. Actualización de registro como generador de
 residuos de manejo especial. 3.9224 UMAs
 
 V. Cambio de razón social. 5.8139 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VI. Prórroga anual de la autorización de
+
+manejo de residuos de manejo especial. 47.0000 UMAs
 
 ###### Artículo 140.
 
@@ -2189,17 +2229,17 @@ Verificación, dictamen y entrega de reconocimiento del Programa de Cumplimiento
 
 Por el uso y servicio del Auditorio del Centro de Educación y Capacitación Ambiental Ávalos, se cobrará según el número de horas de uso:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-I. Por 12 horas. 100.5300 UMAs
+I. Por 12 horas. 72.5300 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-II. Por 5 horas. 50.2700 UMAs
+II. Por 5 horas. 38.2700 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-III. Por 2 horas. 24.1700 UMAs
+III. Por 2 horas. 10.0000 UMAs
 
 ###### Artículo 143.
 
@@ -3589,9 +3629,9 @@ j) Trámite de Titulación interno. 17.3511 UMAs
 
 k) Reexpedición de credencial. 1.1567 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-l) Examen CENEVAL. 3.3738 UMAs
+l) Examen de admisión. 3.3738 UMAs
 
 II. Técnico Superior Universitario:
 
@@ -3648,6 +3688,10 @@ h) Servicio al exterior. 28.9184 UMAs
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 i) Costo de participación licitación. 14.4592 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+j) Evento académico. 2.8918 UMAs
 
 ### CAPÍTULO XIV. DE LA UNIVERSIDAD TECNOLÓGICA DE CAMARGO
 
@@ -3729,6 +3773,10 @@ XVIII. Asesorías al exterior. 31.8103 UMAs
 
 XIX. Cursos al exterior. 24.0987 UMAs
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XX. Inscripción T.S.U. nuevo modelo educativo. 22.9345 UMAs
+
 ### CAPÍTULO XV. DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA
 
 ###### Artículo 230.
@@ -3779,9 +3827,9 @@ XI. Trámite de Titulación Ingeniería. 35.3346 UMAs
 
 XII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XIII. Examen de colocación de inglés. 2.3868 UMAs
+XIII. Examen de colocación de inglés. 2.9447 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -3791,9 +3839,7 @@ XIV. Reposición de boleta. 0.4131 UMAs
 
 XV. Constancia de trámite de titulación. 0.4131 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
-
-XVI. Examen especial. 1.2393 UMAs
+XVI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -3815,49 +3861,77 @@ XX. Revalidación externa. 3.1213 UMAs
 
 XXI. Certificación de título. 5.1960 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+XXII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
-XXII. Curso preparación examen de admisión. 9.8687 UMAs
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
-
-XXIII. Curso nivelación para nuevo ingreso. 7.2707 UMAs
+XXIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 XXIV. Diplomados de inglés:
 
-a) Básico 1, por alumno. 13.0359 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-b) Básico 1, por persona externa. 14.8719 UMAs
+a) Básico 1, por alumno. 13.0791 UMAs
 
-c) Básico 2, por alumno. 13.0359 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-d) Básico 2, por persona externa. 14.8719 UMAs
+b) Básico 1, por persona externa. 14.9212 UMAs
 
-e) Principiante 1, por alumno. 13.0359 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-f) Principiante 1, por persona externa. 14.8719 UMAs
+c) Básico 2, por alumno. 13. 0791 UMAs
 
-g) Principiante 2, por alumno. 13.0359 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-h) Principiante 2, por persona externa. 14.8719 UMAs
+d) Básico 2, por persona externa. 14. 9212 UMAs
 
-i) Intermedio 1, por alumno. 13.9539 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-j) Intermedio 1, por persona externa. 15.7900 UMAs
+e) Principiante 1, por alumno. 13. 0791 UMAs
 
-k) Intermedio 2, por alumno. 13.9539 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-l) Intermedio 2, por persona externa. 15.7900 UMAs
+f) Principiante 1, por persona externa. 14. 9212 UMAs
 
-m) Avanzado 1, por alumno. 16.0837 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-n) Avanzado 1, por persona externa. 18.0633 UMAs
+g) Principiante 2, por alumno. 13. 0791 UMAs
 
-o) Avanzado 2, por alumno. 24.2493 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-p) Avanzado 2, por persona externa. 26.2289 UMAs
+h) Principiante 2, por persona externa. 14. 9212 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+i) Intermedio 1, por alumno. 14.0001 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+j) Intermedio 1, por persona externa. 15.8423 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+k) Intermedio 2, por alumno. 14.0001 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+l) Intermedio 2, por persona externa. 15.8423 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+m) Avanzado 1, por alumno. 16.7633 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+n) Avanzado 1, por persona externa. 18.6055 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+o) Avanzado 2, por alumno. 24.4082 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+p) Avanzado 2, por persona externa. 26.2503 UMAs
 
 XXV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
@@ -3959,7 +4033,7 @@ l) DALF nivel C2, Externos. 30.3681 UMAs
 
 LIV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
-LV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)s
+LV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
 LVI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
@@ -3973,31 +4047,31 @@ LX. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
 LXI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
-LXII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)s
+LXII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
 LXIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
 LXIV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-LXV. Base de Licitación. 19.7374 UMAs
+LXV. Base de Licitación. 20.0000 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 LXVI. Contenido temático. 3.1213 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-LXVII. Examen TOEFL Alumnos. 10.0982 UMAs
+LXVII. Examen TOEFL Alumnos. 10.8686 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-LXVIII. Examen TOEFL Externos. 11.0182 UMAs
+LXVIII. Examen TOEFL Externos. 11.8817 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-LXIX. Examen perito traductor en inglés. 17.4424 UMAs
+LXIX. Examen perito traductor en inglés. 19.3424 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -4007,9 +4081,9 @@ LXX. Ficha de ingreso unidad académica Ojinaga. 3.1213 UMAs
 
 LXXI. Ficha de ingreso unidad académica Cuauhtémoc. 3.1213 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-LXXII. Examen perito traductor en Francés, 17.4424 UMAs
+LXXII. Examen perito traductor en francés. 19.3424 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -4029,43 +4103,91 @@ LXXVI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
 LXXVII. Cursos:
 
-a) Abiertos a externos en refrigeración. 21.1145 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-b) Abiertos a internos en refrigeración. 15.6064 UMAs
+a) Abiertos a externos en refrigeración. 22.1055 UMAs
 
-c) Abiertos a externos en soldadura. 24.7866 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Abiertos a internos en refrigeración. 16.5791 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Abiertos a externos en soldadura. 25.7898 UMAs
 
 d) Abiertos a internos en soldadura. 17.4424
 
-e) Otros, abiertos a externos. 20.2424 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-f) Otros, abiertos a internos. 15.4227 UMAs
+e) Otros, abiertos a externos. 21.1844 UMAs
 
-g) Inglés comunidad UTCH. 14.6883 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-h) Inglés público en general. 16.5244 UMAs
+f) Otros, abiertos a internos. 15.8423 UMAs
 
-i) Francés comunidad UTCH. 18.3604 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-j) Francés público en general. 20.5637 UMAs
+g) Inglés comunidad UTCH. 14.7370 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+h) Inglés público en general. 16.5792 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+i) Francés comunidad UTCH. 18.4213 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+j) Francés público en general. 20.6319 UMAs
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 LXXVIII. Curso específico a empresas, costo por hora:
 
-a) Nivel complejidad 1. 6.2609 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-b) Nivel complejidad 2. 7.3258 UMAs
+a) Nivel complejidad 1. 7.9211 UMAs
 
-c) Nivel complejidad 3. 8.2897 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-d) Nivel complejidad 4. 8.8681 UMAs
+b) Nivel complejidad 2. 8.4737 UMAs
 
-e) Nivel complejidad 5. 9.2536 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-f) Nivel complejidad 6. 10.6031 UMAs
+c) Nivel complejidad 3. 8.8422 UMAs
 
-g) Nivel complejidad 7. 12.5310 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+d) Nivel complejidad 4. 10.1317 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+e) Nivel complejidad 5. 11.9738 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+f) Nivel complejidad 6. 13.8159 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+g) Nivel complejidad 7. 15.6581 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+LXXIX. Diplomado de inglés repetición de módulo externo. 11.5133 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+LXXX. Diplomado de inglés repetición de módulo interno. 9.2106 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+LXXXI. Asignatura pendiente de acreditar. 4.6053 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+LXXXII. Evaluación extraordinaria especial. 2.7632 UMAs
 
 ### CAPÍTULO XVI. DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA SUR
 
@@ -4173,13 +4295,13 @@ b) Inscripción. 13.3899 UMAs
 
 c) Colegiatura 71.4126 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-d) Curso propedéutico. 22.3165 UMAs
+d) Curso propedéutico. 16.3486 UMAs
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-e) Trámite de titulación. 22.3165 UMAs
+e) Trámite de titulación. 28.0607 UMAs
 
 IV. Servicios:
 
@@ -4219,9 +4341,11 @@ V. Centro de idiomas:
 
 a) Inscripción a curso de inglés anual. 6.6950 UMAs
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 b) Colegiatura de curso de inglés
 
-(alumnos y egresados). 10.0425 UMAs
+(personal, alumnos y egresados) 10.0425 UMAs
 
 c) Colegiatura de cursos de inglés (público
 
@@ -4345,49 +4469,49 @@ XIX. Examen especial. 5.7836 UMAs
 
 Por los servicios prestados por la Universidad Tecnológica de Parral, se pagarán los derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-I. Inscripción T.S.U. e Ingeniería. 17.3511 UMAs
+I. Inscripción T.S.U. e Ingeniería. 16.5792 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-II. Inscripción despresurizado T.S.U. e Ingeniería. 27.9545 UMAs
+II. Inscripción despresurizado T.S.U. e Ingeniería. 26.7109 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-III. Inscripción T.S.U. e Ingeniería en Balleza. 0.9639 UMAs
+III. Inscripción T.S.U. e Ingeniería Balleza. 9.2106 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-IV. Expedición de credencial reposición. 0.8676 UMAs
+IV. Expedición de credencial reposición. 0.8290 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-V. Expedición de constancias. 0.6748 UMAs
+V. Expedición de constancias. 0.6447 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-VI. Expedición de kardex/certificado. 0.8676 UMAs
+VI. Expedición de kardex / certificado. 0.8290 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-VII. Aplicación de recurso de acreditación, 1.1567 UMAs
+VII. Aplicación de recurso de acreditación. 1.1053 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-VIII. Certificado parcial de estudios 0.9639 UMAs
+VIII. Certificado parcial de estudios. 0.9211 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-IX. Examen de admisión. 4.3378 UMAs
+IX. Examen de admisión. 4.1448 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-X. Trámite de titulación T.S.U. 12.0494 UMAs
+X. Trámite de titulación T.S.U. 11.5133 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XI. Trámite de titulación Ingeniería. 14.4592 UMAs
+XI. Trámite de titulación Ingeniería. 13.8160 UMAs
 
 ### CAPÍTULO XX. DE LA UNIVERSIDAD TECNOLÓGICA PASO DEL NORTE
 
@@ -4457,43 +4581,43 @@ XV. Servicios tecnológicos. 24.0987 UMAs
 
 Por los servicios prestados por la Universidad Tecnológica de la Tarahumara, se pagarán los derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-I. Fichas de preinscripción. 3.6630 UMAs
+I. Fichas de preinscripción. 3.5000 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-II. Inscripciones. 13.4953 UMAs
+II. Inscripciones. 13.8160 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-III Reposición de credencial. 0.9639 UMAs
+III. Reposición de credencial. 0.9211 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-IV. Constancia. 0.4820 UMAs
+IV. Constancia. 0.4605 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-V. Kardex. 0.6939 UMAs
+V. Kardex. 0.9211 UMAs
 
 VI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-VII. Examen Remedial 2.4099 UMAs
+VII. Examen remedial. 2.3027 UMAs
 
 VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
 IX. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-X. Reposición de certificados. 2.4099 UMAs
+X. Reposición de certificados. 2.3027 UMAs
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XI. Trámite de reposición de título. 4.8197 UMAs
+XI. Trámite de reposición de título. 4.6053 UMAs
 
 ### CAPÍTULO XXII. DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA
 
@@ -4519,17 +4643,17 @@ VII. Credencial Escolar S.E.A. (renovación). 1.1159 UMAs
 
 VIII. Cuota de inscripción:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-1) Zona A. 22.7629 UMAs
+1) Zona A. 12.2741 UMAs
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 2) Zona B. 16.6259 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-3) Zona C. 12.2741 UMAs
+3) Zona C. 22.7629 UMAs
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -4589,15 +4713,29 @@ VIII. Cuota de inscripción:
 
 La clasificación de las zonas corresponde a:
 
-Zona A- Plantel del 1 al 11 y 19.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Zona B- Plantel del 12 al 15 y 21.
+Zona A- Plantel 17, 18, 20 y 28.
 
-Zona C- Plantel del 16 al 20 y 28.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Zona B- Plantel del 12 al 16 y 21.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Zona C- Plantel del 1 al 11 y 19.
 
 Zona D- Plantel del 22 al 27 y Extensión Valle de Zaragoza.
 
 IX. Cursos de regularización. 8.0340 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Para los planteles del 1 al 11, 16,19 y 21. 8.0340 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Para los planteles del 12 al 15, 17, 18, 20, 22 al 28 y extensión Valle de Zaragoza. 4.6053 UMAs
 
 X. Cursos Propedéuticos (incluye folleto). 1.3391 UMAs
 
@@ -4615,21 +4753,27 @@ de estudios. 0.9485 UMAs
 
 XV. Examen de admisión
 
-a) Para los Municipios de Chihuahua, Juárez,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Hidalgo del Parral y Delicias (Ceneval). 2.9012 UMAs
+a) Para los Municipios de Chihuahua, Juárez
 
-b) Para los Municipios de Cuauhtémoc, Camargo
+y Nuevo Casas Grandes. 2.9012 UMAs
 
-y Nuevo Casas Grandes. 2.3433 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Para los Municipios de Cuauhtémoc, Camargo,
+
+Hidalgo del Parral y Delicias. 2.3433 UMAs
 
 c) Para los Municipios de Ahumada y Jiménez. 1.6180 UMAs
 
-d) Para los Municipios de Valle de Zaragoza, Ojinaga,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Saucillo, Balleza, Meoqui y la localidad de
+d) Para los Municipios de Guadalupe Distrito Bravos,
 
-Lázaro Cárdenas. 0.7812 UMAs
+Valle de Zaragoza, Ojinaga, Saucillo, Balleza, Meoqui,
+
+la localidad de Lázaro Cárdenas y Casas Grandes. 0.7812 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -4662,6 +4806,14 @@ XXVI. Curso de nivelación aspirantes de nuevo ingreso. 10.6034 UMAs
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 XXVII. Base de licitación. 19.2789 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXVIII. Legalización certificado digital. 0.4464 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Reexpedición certificado digital. 2.0000 UMAs
 
 ### CAPÍTULO XXIII. DEL INSTITUTO TECNOLÓGICO SUPERIOR DE NUEVO CASAS GRANDES
 
@@ -4697,17 +4849,11 @@ VI. Inscripción extemporánea. 25.7374 UMAs
 
 VII. Ficha examen de admisión incluye curso inducción. 5.2053 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+VIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
-VIII. Examen global. 4.2414 UMAs
+IX. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
-
-IX. Examen especial. 4.2414 UMAs
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
-
-X. Examen extraordinario. 1.7351 UMAs
+X. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -4777,9 +4923,9 @@ XVIII. Curso especial o de verano:
 
 XIX. Inglés:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-1) Módulo de egresados (con menos de 1 año). 9.5431 UMAs
+1) Módulo de egresados. 9.5431 UMAs
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -4789,37 +4935,31 @@ XIX. Inglés:
 
 3) Módulo para comunidad en general. 14.0736 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-4) Examen de ubicación. . 2.2171 UMAs
+4) Examen de ubicación. 2.6509 UMAs
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 5) Examen suficiencia. 4.1450 UMAs
 
-XX. Traducciones:
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+6) Examen Oxford Placement Test. 2.6509 UMAs
 
-1) 1-2 hojas. 1.5423 UMAs
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+7) Examen de valoración del nivel de inglés. 11.4710 UMAs
 
-2) 3 hojas en adelante. 1.3013 UMAs
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XXI. Examen teórico práctico de comprensión de una lengua extranjera:
+XX. Traducción de documento, por cada página. 1.5423 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+1) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-1) Examen egresados en las generaciones 1994 a 1998 16.0979 UMAs
+2) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
-
-2) Examen egresados en las generaciones 1999 a 2003 12.8687 UMAs
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
-
-3) Examen egresados en generaciones de 2004 en adelante 11.4710 UMAs
+XXI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -4848,6 +4988,10 @@ XXVII. Expedición de horario. 0.0964 UMAs
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 XXVIII. Curso de titulación. 43,8596 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Aplicación extemporánea EGEL. 16.5317 UMAs
 
 ### CAPÍTULO XXIV. DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
 
@@ -5119,17 +5263,17 @@ La información deberá ser entregada sin costo cuando el particular proporcione
 
 La unidad de transparencia podrá exceptuar del pago de derechos, cuando se atiendan a las circunstancias socioeconómicas del solicitante, de conformidad con lo dispuesto en el último párrafo del artículo 64 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 245.
 
-Por los servicios prestados por el Instituto de Justicia Alternativa, se pagarán los derechos conforme a las siguientes cuotas:
+Por los servicios prestados por el Instituto de Atención Temprana y Justicia Alternativa, se pagarán los derechos conforme a las siguientes cuotas:
 
 I. Autorización de instituciones académicas. 278.9556 UMAs
 
 II. Certificación de facilitador privado. 66.9494 UMAs
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
-
-III. Curso de alineación para certificación y/o registro 31.1785 UMAs
+III. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
@@ -5143,21 +5287,41 @@ V. Validación y registro por convenio facilitadores externos 10.3928 UMAs
 
 VI. Segunda revisión de convenio facilitadores externos 5.1964 UMAs
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VII. Curso, taller, seminario de 20 a 30 horas, por persona. 46.0500 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VIII. Curso, taller, seminario de 31 a 50 horas, por persona. 64.4700 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IX. Curso, taller, seminario de 51 a 80 horas, por persona. 82.9000 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+X. Diplomado, 120 horas, por persona. 110.5300 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XI. Diplomado 180 horas, por persona. 165.7900 UMAs
+
 ###### Artículo 246.
 
 Por los servicios prestados en la Dirección de Recursos Materiales y Servicios Generales, se pagarán los derechos conforme a las siguientes cuotas:
 
-I. Venta de bases de licitaciones. 11.1583 UMAs
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+I. Costo de participación para las licitaciones públicas. 15.0000 UMAs
 
-II. Expedición de documento de manera digital en disco compacto o grabable (CD-R), disco DVD grabable (DVD+R) o en cualquier otro medio magnético, electrónico para almacenar información, se cobrará por concepto de derecho, el valor de mercado que el mismo tenga en el lugar en que se emita la información.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+II. Expedición de documento de manera digital en disco compacto o grabable (CD-R), disco DVD grabable (DVD+R) o en cualquier otro medio magnético, electrónico para almacenar información 0.1842 UMAs
 
-III. Copias simples e impresiones en blanco y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-negro (oficio o carta). 0.0041 UMAs
+III. Copias simples e impresiones en blanco y negro (carta u oficio), por cada lado. 0.0041 UMAs
 
 IV. Copia de identificación. 0.0335 UMAs
 
@@ -5167,7 +5331,9 @@ V. Hoja de blanco tamaño carta u oficio. 0.0056 UMAs
 
 Por los servicios prestados por el Instituto de Formación y Actualización Judicial, se pagarán los derechos conforme a las siguientes cuotas:
 
-I. Impresión de kardex. 0.4241 UMAs
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+I. Impresión de kardex. 0.4200 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -5429,9 +5595,9 @@ XVIII. Ficha de admisión doctorado. 8.1936 UMAs
 
 XIX. Ficha de admisión licenciatura virtual. 2.8918 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XX. Ficha licenciatura en educación y desarrollo. 2.4099 UMAs
+XX. Ficha licenciatura en educación y desarrollo comunitario 2.4099 UMAs
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -5469,17 +5635,15 @@ XXVIII. Servicios educativos licenciatura cuatrimestre. 22.1708 UMAs
 
 XXIX. Inscripción especialidades. 28.9184 UMAs
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2024)</small>
-
-XXX. Servicios educativos doctorado en desarrollo 86.7553 UMAs
+XXX. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 XXXI. Servicios educativos licenciatura virtual. 31.8103 UMAs
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XXXII. Proceso de titulación de posgrado. 14.4592 UMAs
+XXXII. Proceso de titulación de maestría y especialidades. 14.4592 UMAs
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -5489,21 +5653,17 @@ XXXIII. Proceso de titulación doctorado. 28.9184 UMAs
 
 XXXIV. Proceso de titulación licenciatura. 11.5674 UMAs
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XXXV. Taller de 60 a 80 horas con producto continuo. 17.3511 UMAs
+XXXV. Talleres. 17.3511 UMAs
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XXXVI. Diplomado de 80 a 150 horas formación continua. 34.7021 UMAs
+XXXVI. Diplomados. 34.7021 UMAs
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+XXXVII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
-XXXVII. Renovación de certificado. 9.6395 UMAs
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
-
-XXXVIII. Reimpresión de certificado. 4.8197 UMAs
+XXXVIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -5529,17 +5689,73 @@ a) Acreditación centro evaluador. 192.7897 UMAs
 
 b) Acreditación evaluador independiente. 57.8369 UMAs
 
-c) Evaluación y certificación individual. 24.0987 UMAs
+c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-d) Evaluación y certificación por convenio. 19.2790 UMAs
+d) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-e) Renovación de certificado. 9.6395 UMAs
+e) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-f) Diploma CONOCER. 3.5666 UMAs
+f) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-g) Certificado individual. 7.7116 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-h) Certificado grupal. 5.7837 UMAs
+g) Emisión de certificados, cualquier nivel. 7.7116 UMAs
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+h) Proceso de certificación grupal centro evaluador. 5.7837 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+i) Reposición certificado. 6.2632 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+j) Proceso de capacitación nivel 1 y 2. 32.2373 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+k) Proceso de capacitación nivel 3 y 4. 46.0532 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+l) Acreditación de nuevos estándares. 18.4213 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+m) Proceso de evaluación nivel 1 y 2. 18.4213 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+n) Proceso de evaluación nivel 3 y 4. 23.0266 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+o) Renovación de certificado nivel 1 y 2. 13.8160 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+p) Renovación de certificado nivel 3 y 4. 17.5002 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+q) Renovación de estándares de competencia nivel 1 y 2. 13.8160 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+r) Renovación de estándares de competencia nivel 3 y 4. 16.5792 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+s) Renovación anual centro evaluador 1. 92.1065 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+t) Renovación anual centro evaluador 2. 46.0532 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+u) Renovación anual como evaluador independiente. 27.6319 UMAs
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
@@ -5851,61 +6067,61 @@ Por los servicios prestados por el Colegio de Educación Profesional Técnica de
 
 I. Planteles:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-a) Inscripción Chihuahua I. 13.0430 UMAs
+a) Inscripción Chihuahua I. 14.1291 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-b) Inscripción Chihuahua II. 13.0430 UMAs
+b) Inscripción Chihuahua II. 14.1291 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-c) Inscripción Cuauhtémoc. 13.0430 UMAs
+c) Inscripción Cuauhtémoc. 14.1291 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-d) Inscripción Delicias 13.0430 UMAs
+d) Inscripción Delicias. 14.1291 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-e) Inscripción Parral. 13.0430 UMAs
+e) Inscripción Parral. 14.1291 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-f) Inscripción Juárez I. 13.7705 UMAs
+f) Inscripción Juárez I. 14.4239 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-g) Inscripción Juárez II. 13.7705 UMAs
+g) Inscripción Juárez II. 14.4239 UMAs
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-h) Inscripción Juárez III. 13.7705 UMAs
+h) Inscripción Juárez III. 14.4239 UMAs
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-II. Constancia 0.5716 UMAs
+II. Constancia. 0.6447 UMAs
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-III. Duplicado de certificado 1.5589 UMAs
+III. Duplicado de certificado. 1.6948 UMAs
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-IV. Reposición de credencial 0.9353 UMAs
+IV. Reposición de credencial. 0.9947 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-V. Asesoría complementaria intersemestral, semestre en curso 1.3510 UMAs
+V. Asesoría complementaria intersemestral, semestre en curso. 1.4921 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-VI. Asesoría complementaria intersemestral, semestre atrasado 3.9492 UMAs
+VI. Asesoría complementaria intersemestral, semestre atrasado. 4.2737 UMAs
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-VII. Titulación, acto protocolario. 1.7876 UMAs
+VII. Titulación, acto protocolario. 1.9434 UMAs
 
 VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
@@ -5913,9 +6129,9 @@ VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2023)
 
 IX. Capacitación y/o asistencia técnica. 66.9944 UMAs
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-X. Examen de admisión. 2.2942 UMAs
+X. Examen de admisión. 2.4869 UMAs
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
@@ -6425,9 +6641,15 @@ Por los servicios prestados por el Desarrollo Integral de la Familia del Estado 
 
 I. Por el acceso a las instalaciones del Parque Familiar Colibrí se pagarán las siguientes cuotas:
 
-a) Entrada general por persona 0.2078 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Entrada general por persona. 0.1842 UMAs
 
 b) Entrada pista de patinaje 0.1039 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Curso de verano parque Colibrí. 14.9673 UMAs
 
 II. Por otorgar el uso temporal de las instalaciones en el Parque Familiar Colibrí se pagarán las siguientes cuotas:
 
@@ -6517,29 +6739,19 @@ IV. Por el acceso a las instalaciones del Semilla Museo Interactivo se pagarán 
 
 a) General
 
-1. Entrada adultos 0.4157 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-2. Entrada niñas, niños y adolescentes 0.3637 UMAs
+1. Entrada adultos. 0.3684 UMAs
 
-3. Entrada adultos mayores 0.3117 UMAs
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-4. Sala temporal 0.1558 UMAs
+2. Entrada niñas, niños y adolescentes. 0.3223 UMAs
 
-V. Por acceso a las instalaciones del Semilla Museo Interactivo durante la visita pedagógica se pagarán las siguientes cuotas:
+3. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-a) Evento científico- Barco de Vapor (1 hora con 50 minutos de duración) 0.1766 UMAs
+4. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
-b) Evento científico- Cadena de ADN (1 hora de duración) 0.1143 UMAs
-
-c) Evento científico- Papalote (Benjamín Franklin) (1 hora de duración) 0.1143 UMAs
-
-d) Evento Científico- Telescopios (1 hora de duración) 0.1143 UMAs
-
-e) Evento de la Ciencia- Gel de Gorila (30 minutos de duración) 0.1039 UMAs
-
-f) Evento de la Ciencia- Masa tipo plastilina (30 minutos de duración) 0.1039 UMAs
-
-g) Evento de la Ciencia- Pelota de Bórax (30 minutos de duración) 0.1039 UMAs
+V. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2024)
 
 VI. Por otorgar el uso temporal de inmuebles propiedad del Semilla Museo Interactivo se pagarán las siguientes cuotas:
 
@@ -6647,17 +6859,317 @@ w) Terapia cardiaca y respiratoria 2.2864 UMAs
 
 x) Reposición de carnet 0.4157 UMAs
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+y) Consulta médica especializada autismo. 4.7619 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+z) Consulta médica especializada neurología–externo. 7.3685 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+aa) Electroencefalograma. 9.2107 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+bb) Pruebas de diagnóstico de trastorno del espectro autista. 55.2639 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VIII. Por los servicios otorgados por la Alberca del Desarrollo Integral de la Familia del Estado de Chihuahua:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Tanda libre público en general. 0.3684 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Mensualidad natación individual, una hora diaria. 5.0659 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Mensualidad natación familia, por persona, una hora diaria. 4.0527 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+d) Mensualidad natación hermanos, por persona, una hora diaria. 4.3290 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+e) Curso de verano individual, cuatro semanas. 15.1976 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+f) Curso de verano hermanos, por persona, cuatro semanas. 13.6778 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IX. Por la inscripción individual en los siguientes cursos y/o talleres impartidos dentro de las instalaciones de Semilla Museo Interactivo se pagarán las siguientes cuotas:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Multidisciplinarios para niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción curso de ajedrez, 20 horas. 5.9869 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción curso de astronomía en pintura, 20 horas. 2.9935 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción curso de dibujo a lápiz, 20 horas. 4.4672 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+4. Inscripción curso de comics, 20 horas. 5.9869 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+5. Inscripción curso de figuras personalizadas, 20 horas. 4.4211 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+6. Inscripción curso de arte en marte, 12 horas. 4.9737 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+7. Inscripción curso de arte y diversión, 16 horas. 4.9737 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+8. Inscripción curso de fotografía, 12 horas. 4.4211 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+9. Inscripción curso de cine, 12 horas. 4.4211 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+10. Inscripción curso de música, 12 horas. 4.4211 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+11. Inscripción curso de 3D, 18 horas. 6.4935 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+12. Inscripción curso de química, 12 horas. 5.9869 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+13. Inscripción curso de SnapCAD, 10 horas. 4.9737 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+14. Inscripción curso de Scratch, 10 horas 4.9737 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Idiomas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción curso de inglés para niños, 20 horas. 6.4475 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción curso de inglés papá más hijo, 20 horas. 10.9607 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción curso de chino, 10 horas. 5.9869 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Pedagógicos y enfoque en Ciencia, Tecnología, Ingeniería, Arte y Matemáticas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción curso capacitación maestros, 20 horas. 25.0069 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción curso Mindfulness, 20 horas. 14.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción curso STEAM básico, 24 horas. 14.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+4. Inscripción curso STEAM intermedio, 24 horas. 16.9936 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+5. Inscripción curso STEAM avanzado, 24 horas. 18.9739 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+6. Inscripción curso sábado STEAM, 4 horas. 1.9803 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+7. Inscripción curso verano STEAM, 105 horas. 14.9212 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+d) De Software de diseño y edición de imágenes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción curso AutoCAD básico, 20 horas. 7.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción curso AutoCAD intermedio, 20 horas. 11.9738 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción curso Photoshop básico, 20 horas. 7.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+4. Inscripción curso Photoshop intermedio, 20 horas. 9.9475 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+5. Inscripción curso Flash, 20 horas. 7.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+6. Inscripción curso Ilustrador, 20 horas. 7.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+7. Inscripción curso Inventor, 18 horas. 6.4935 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+8. Inscripción curso Fusión 360, 18 horas. 6.4935 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+9. Inscripción curso Corel Draw, 20 horas. 6.4935 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+10. Inscripción curso fotografía, 20 horas. 11.9738 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+e) Programación de software y aplicaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción curso JAVA básico, 20 horas. 11.9738 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción curso JAVA avanzado, 20 horas. 14.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción curso programación de videojuegos, 8 horas. 2.9935 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+4. Inscripción curso Visual Basic, 20 horas. 7.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+5. Inscripción curso Macros con Visual Basic.NET, 20 horas. 17.5923 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+6. Inscripción curso robótica, 20 horas. 6.4475 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+f) Herramientas Microsoft.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción curso de Windows, Word e Internet, 20 horas. 7.3685 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción curso de Publisher, 20 horas. 4.9737 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción curso de Excel básico, 20 horas. 11.9738 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+4. Inscripción curso de Excel intermedio, 20 horas. 11.9738 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+5. Inscripción curso de Excel avanzado, 20 horas. 11.9738 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+6. Inscripción curso de computación básico, 20 horas. 6.4935 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+g) Especializados para contadores y no contadores.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción curso sueldos y salarios, 15 horas. 8.4738 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción curso de contabilidad para no contadores, 15 horas. 9.9475 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción curso de reformas fiscales, 15 horas. 7.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+4. Inscripción curso de Contpaq I, 20 horas. 14.9212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+5. Inscripción taller para auxiliar contable, 20 horas. 16.4871 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+h) Otros.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Inscripción taller de expresión corporal, 20 horas. 4.4672 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Inscripción taller de trabajo en equipo, 15 horas. 6.4475 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+3. Inscripción taller de elaboración de presentaciones, 20 horas. 4.9737 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+4. Inscripción taller de fortalezas, 5 horas. 0.9947 UMAs
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO XLII. DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 262.
 
-Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Función Pública, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al dos al millar sobre el importe de cada una de las estimaciones de trabajo.
+Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Función Pública, los contratistas con quienes se celebren contratos con recurso estatal de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al dos al millar sobre el importe de cada una de las estimaciones de trabajo.
 
-Las áreas administrativas de las dependencias de la administración pública centralizada y paraestatal, que les corresponda hacer el pago de las estimaciones de obra, deberán retener a los contratistas el importe del derecho a que se refiere el párrafo anterior.
+Las áreas administrativas de las dependencias de la administración pública centralizada y paraestatal, que les corresponda hacer el pago de las estimaciones de obra, deberán retener a los contratistas el importe del derecho a que se refiere el párrafo anterior, conforme a los lineamientos específicos que emita para tal efecto la Secretaría de la Función Pública.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2023)</small>
 
@@ -6714,6 +7226,192 @@ XVII. Por la venta de bases de licitación. 19.2790 UMAs
 ###### Artículo 264.
 
 Por los servicios prestados por el Instituto de Capacitación para el Trabajo del Estado de Chihuahua, se pagarán los derechos conforme a las cuotas establecidas mediante Acuerdo, publicado en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XLV. PARQUE CENTRAL DE CIUDAD JUÁREZ
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 265.
+
+Por los servicios prestados por el Parque Central de Ciudad Juárez, se pagarán derechos conforme a las siguientes cuotas:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+I. Acceso individual para visita guiada y taller a partir de 15 personas o más:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Tipo 1, plática y taller 30 minutos. 0.2302 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Tipo 2, recorrido 1 hora, taller 30 minutos. 0.3223 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Tipo 3, recorrido 1 hora, plática 30 minutos y taller 30 minutos 0.7368 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+II. Acceso individual a espectáculos y eventos 4.6053 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+III. Por el uso del centro cultural y deportivo dentro de las instalaciones del Parque Central:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Inscripción semestral individual deportiva. 4.6053 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Inscripción semestral individual música y arte. 4.6053 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Inscripción semestral individual baile. 4.6053 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+d) Inscripción semestral individual bienestar integral. 7.3685 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+e) Membresía mensual individual deportiva. 7.3685 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+f) Membresía mensual individual música y arte. 9.2106 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+g) Membresía mensual individual baile. 7.3685 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+h) Membresía mensual individual bienestar integral. 9.2106 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+i) Tanda libre público general una hora alberca Modesto Parque Central. 1.1057 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IV. Por el uso del campo sintético de futbol de las instalaciones del Parque Central:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Hora de entrenamiento deportivo. 4.6053 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Partido de futbol. 4.6053 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Partido de final. 4.6053 UMAs
+
+V. Por el uso del complejo deportivo de béisbol de las instalaciones del Parque Central:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Entrenamiento o partido en cancha Teodoro Higuera Valenzuela, 90 minutos 4.6053 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Entrenamiento o partido en cancha Arturo Cruz Rojano, 90 minutos. 4.6053 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Entrenamiento o partido en cancha Chacho Venegas, 90 minutos. 4.6053 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VI. Por realización de evento deportivo, 3 a 5 horas. 46.0532 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VII. Inscripción a torneos deportivos, por equipo. 9.2106 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VIII. Por uso temporal de las instalaciones recreativas del Parque Central:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Paquete 1, evento infantil, incluye 5 horas, anfitrión. 36.8425 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Paquete 2, evento infantil, incluye 5 horas, anfitrión, 30 sillas y mesa 64.4745 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Paquete 3, evento infantil, incluye 5 horas, plática contacto cercano, 1 brinca brinca, 20 algodones, anfitrión, 30 sillas y 3 mesas. 92.1064 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+d) Paquete 4, evento empresarial, incluye 5 horas, hasta 200 personas 230.2661 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IX. Por uso temporal de las instalaciones culturales del Parque Central:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Auditorio acústico al aire libre, de 3 a 5 horas. 46.0532 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Sala de usos múltiples con terraza y espejos de 3 a 5 horas. 18.4212 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Auditorio al aire libre de 3 a 5 horas. 46.0532 UMAs
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 266.
+
+Por los servicios prestados por el Centro de Conciliación Laboral, se pagarán derechos conforme a las siguientes cuotas:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+I. Cursos por tipo de empresa:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) Micro y Pequeña. 14.7370 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) Mediana. 29.4741 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) Grande. 73.6852 UMAs
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+II. Cursos para empresas:
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+a) De 1 a 10 empresas. 81.0537 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+b) De 11 a 20 empresas. 103.1593 UMAs
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+c) De 21 empresas en delante. 147.3704 UMAs
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+III. Certificado del curso. 4.0000 UMAs
 
 T R A N S I T O R I O S
 
@@ -6788,3 +7486,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La derogación del Impuesto sobre Actos Jurídicos entrará en vigor a partir del 01 de enero de 2024, sin perjuicio de que todos los actos realizados o celebrados hasta el 31 de diciembre de 2023, que impliquen el pago de este impuesto, deban enterarse con posterioridad a la derogación del mismo.
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLYC/0170/2024 I P.O."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticinco, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
