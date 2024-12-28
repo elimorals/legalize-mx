@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2023-06-10"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -411,15 +411,19 @@ IV. Realizada la elección de la Mesa Directiva Provisional o conformada en los 
 
 V. Acto continuo, el Presidente de la Mesa Directiva Provisional nombrará dos comisiones de cortesía, integradas por tres Diputados cada una, para recibir e introducir al Recinto Legislativo, al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia, en la sesión solemne de instalación de la nueva Legislatura; y
 
-VI. El Presidente de la Mesa Directiva Provisional citará a sesión solemne de instalación de la nueva Legislatura conforme lo previsto por el artículo 34 de esta Ley y dará por concluida la Junta Previa.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VI. La o el Presidente de la Mesa Directiva Provisional citará a sesión solemne de instalación de la nueva Legislatura a celebrarse el 01 de octubre del año de la elección, debiendo señalar la hora para su realización, conforme lo previsto por el artículo 34 de esta Ley, y posteriormente dará por concluida la Junta Previa.
 
 ###### Artículo 33.
 
 Una vez instalada la legislatura, se podrán integrar nuevos Grupos Parlamentarios, bajo el procedimiento previsto por el artículo 48 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 34.
 
-Los Diputados electos se reunirán en el Recinto Legislativo del Congreso del Estado a las 11:00 horas del día 1° de octubre del año de la elección, con el objeto de celebrar la sesión solemne de instalación de la nueva Legislatura. Este acto será conducido por la Mesa Directiva Provisional.
+Las y los Diputados electos se reunirán en el Recinto Legislativo del Congreso del Estado el día 1º de octubre del año de la elección a la hora que haya sido convocada por la o el Presidente de la Mesa Directiva Provisional durante la Junta Previa, con el objeto de celebrar la sesión solemne de instalación de la nueva Legislatura. Este acto será conducido por la Mesa Directiva Provisional.
 
 Presentes los Diputados electos en el Recinto Legislativo del Congreso del Estado para la celebración de la sesión solemne de instalación de la nueva Legislatura, los integrantes de la Mesa Directiva Provisional ocuparán su lugar en el presídium y por conducto de su Presidente solicitará al resto de los Diputados electos ocupen el lugar que les corresponda en el Recinto Legislativo.
 
@@ -443,7 +447,9 @@ A continuación, el Presidente tomará protesta a los demás Diputados integrant
 
 III. El Presidente puesto de pie, al igual que los demás Diputados y el público asistente, pronunciará las siguientes palabras: “SE DECLARA LEGÍTIMA Y SOLEMNEMENTE INSTALADA LA (su número) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA”; y
 
-IV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IV. Una vez declarada la instalación formal de la Legislatura, la o el Presidente procederá a citar a la próxima sesión del Congreso del Estado.
 
 ###### Artículo 35.
 
@@ -843,13 +849,17 @@ IV. Presupuesto y Disciplina Financiera;
 
 V. Responsabilidades;
 
-VI. Educación, Cultura, Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VI. Educación, Cultura y Ciencia;
 
 VII. Salud y Deporte;
 
 VIII. Seguridad Pública y Protección Civil;
 
-IX. Desarrollo Económico;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IX. Desarrollo Económico, Innovación, Tecnología e Inteligencia Artificial;
 
 X. Desarrollo Rural Sustentable;
 
@@ -867,6 +877,10 @@ XVI. Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental
 
 XVII. Anticorrupción y Transparencia Gubernamental.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Turismo
+
 ###### Artículo 72.
 
 La integración de las Comisiones permanentes será realizada por la Junta de Gobierno, a través de su Presidente, y será puesta a consideración del Pleno del Congreso para su aprobación por mayoría simple. En caso de no lograrse la mayoría en el Pleno, las comisiones serán asignadas entre los Grupos Parlamentarios en proporción al número de Diputados que los integran, los Diputados únicos, los Diputados sin partido y los Diputados independientes.
@@ -877,9 +891,9 @@ Para la integración de las Comisiones permanentes, el Grupo Parlamentario que t
 
 Las Comisiones permanentes estarán integradas por tres Diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios. El encargo de sus integrantes será por el término de la Legislatura.
 
-> <small>(F. DE E. [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Las Comisiones de Responsabilidades; de Desarrollo Económico; de Educación, Cultura, Ciencia y Tecnología; de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; y de Peticiones y Participación Ciudadana, se integrarán por cinco Diputados de conformidad con los términos que señalen esta Ley y el Reglamento.
+Las Comisiones de Responsabilidades; de Desarrollo Económico, Innovación Tecnología e Inteligencia Artificial; de Educación, Cultura y Ciencia: de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; y de Peticiones y Participación Ciudadana, se integrarán por cinco Diputados de conformidad con los términos que señalen esta Ley y el Reglamento.
 
 Las Comisiones de Hacienda, Fiscalización y Cuenta Pública; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y de Anticorrupción y Transparencia Gubernamental, serán presididas por Diputados pertenecientes a Grupos Parlamentarios de partidos políticos distintos al de la persona titular del Poder Ejecutivo. Un Grupo Parlamentario no podrá ostentar al mismo tiempo la Presidencia de más de una de las comisiones señaladas; en caso de que no fuera posible cumplir con esta condición, la Presidencia de las comisiones citadas podrá recaer en un Diputado único, sin partido o independiente, siempre que sea de un partido político distinto al que pertenezca la persona titular del Poder Ejecutivo.
 
@@ -1586,3 +1600,15 @@ P.O. 10 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Honorable Congreso del Estado y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 27.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación por el Congreso del Estado de Colima, debiéndose publicar en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 62.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación y deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
