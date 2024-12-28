@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2023-12-30"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -136,6 +136,10 @@ El orden de gobierno que transfiera las facultades conservará la de fijar los c
 ###### ARTÍCULO 8.
 
 Sin perjuicio de los Convenios de Coordinación y Colaboración Administrativa a que se refieren los artículos anteriores, el Estado y los Municipios podrán convenir, destinar recursos para la instrumentación, desarrollo y operación de un programa de apoyo y fortalecimiento institucional para los Municipios.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Los Municipios podrán adquirir compromisos con el Estado por conducto de la Secretaría, con el fin de que los mismos, tengan posibilidades de cubrir necesidades, entendiendo dichas necesidades, como insuficiencias de liquidez de carácter temporal. Dichos compromisos, se realizarán a través de mecanismos de afectación y compensación de las participaciones de cada Municipio y condicionado a que exista disponibilidad financiera por parte del Estado.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA HACENDARIO ESTATAL Y SUS ORGANISMOS
 
@@ -453,9 +457,9 @@ La distribución entre los municipios de los recursos del Fondo para el Desarrol
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL ANEXO DEL P.O. DE 24 DE NOVIEMBRE DE 2018, PÁGINAS DE LA 25 A LA 26]</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Los recursos del Fondo para el Desarrollo Socioeconómico Municipal que se distribuyan entre los municipios, tendrán como destino específico, programas y proyectos municipales que generen beneficios socioeconómicos netos para el desarrollo municipal, incluido el gasto corriente que resulte indispensable para la ejecución de dichos programas y proyectos, y su destino y aplicación será revisado y evaluado por la Auditoría Superior del Estado de Chihuahua.
+Los recursos del Fondo para el Desarrollo Socioeconómico Municipal que se distribuyan entre los municipios, tendrán como destino específico, programas y proyectos municipales que generen beneficios socioeconómicos netos para el desarrollo municipal, incluido el gasto corriente que comprende de igual manera erogaciones por servicios personales que resulten indispensables para la ejecución de dichos programas y proyectos, y su destino y aplicación será revisado y evaluado por la Auditoría Superior del Estado de Chihuahua.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
@@ -532,6 +536,20 @@ Este Fondo se enterará por la Secretaría de Hacienda a los Municipios, de mane
 7. Los Municipios que incumplan con las obligaciones que derivan de lo establecido en el artículo que antecede, no podrán acceder a los recursos del Fondo Estatal de Seguridad Pública Municipal, sino hasta el ejercicio fiscal posterior, y siempre y cuando exista dispensa previa del Consejo Estatal de Seguridad Pública.
 
 Los Municipios que resulten beneficiarios e incumplan con lo establecido en el artículo anterior y/o el acuerdo celebrado para el ejercicio del fondo, perderán el recurso asignado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 38
+
+8. Se crea el Fondo de Fortalecimiento Financiero y Contingencias Económicas de los Municipios del Estado de Chihuahua, con cargo a recursos estatales.
+
+La Secretaría suministrará los recursos estatales que integren este Fondo, entre los Municipios que le comprueben contingencias económicas mediante solicitud ante la Secretaría.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 38
+
+9. El Fondo se integrará de los remanentes de los recursos no ejercidos por los Municipios conforme lo previsto en la Ley del Ingresos del Estado correspondiente a cada ejercicio fiscal, así como de las aportaciones que la Secretaría de Hacienda determine, siempre y cuando estas no afecten el balance presupuestario del Estado.
 
 ## TÍTULO QUINTO. DE LA COORDINACIÓN Y COLABORACIÓN ADMINISTRATIVA EN INGRESOS
 
@@ -864,3 +882,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La derogación del Impuesto sobre Actos Jurídicos entrará en vigor a partir del 01 de enero de 2024, sin perjuicio de que todos los actos realizados o celebrados hasta el 31 de diciembre de 2023, que impliquen el pago de este impuesto, deban enterarse con posterioridad a la derogación del mismo.
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVIII/RFLYC/0170/2024 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticinco, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
