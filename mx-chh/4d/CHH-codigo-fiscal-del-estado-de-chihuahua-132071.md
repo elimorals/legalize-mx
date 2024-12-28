@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-132071"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-31"
-last_updated: "2023-12-30"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
 
 Código publicado en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -1583,7 +1583,9 @@ La Secretaría establecerá los medios a través de los cuales se podrá comprob
 
 En los plazos establecidos en este Código en días, solo se computarán los días hábiles.
 
-Se consideran días inhábiles y no se computarán en los plazos fijados en días, los sábados y los domingos, el 1°. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1°. y 5 de mayo; el 16 de septiembre; el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1°. de diciembre de cada 6 años, cuando corresponda a la Transmisión del Poder Ejecutivo Federal y el 25 de diciembre. Asimismo, se consideran días inhábiles todos aquellos en que las oficinas de las autoridades fiscales ante las que deban realizarse los trámites correspondientes, permanezcan cerradas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Se consideran días inhábiles y no se computarán en los plazos fijados en días, los sábados y los domingos, el 1° de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1° y 5 de mayo; el 16 de septiembre; el 1° de octubre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre y el 25 de diciembre. Asimismo, se consideran días inhábiles todos aquellos en que las oficinas de las autoridades fiscales ante las que deban realizarse los trámites correspondientes, permanezcan cerradas.
 
 Para efectos del cómputo de plazos en días, también se considerarán días inhábiles aquellos que en términos de las disposiciones aplicables las autoridades fiscales tengan vacaciones generales. La existencia de guardias de la autoridad en sus oficinas fiscales, no habilita los días que en términos de las disposiciones aplicables se consideren vacaciones generales. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -1711,7 +1713,9 @@ I. Por estrados, cuando la persona a quien deba notificarse no sea localizable e
 
 II. Por edictos, en el caso que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, y en los demás casos que se señalen en este Código o en las leyes fiscales.
 
-III. Por instructivo, solamente en los términos a que refiere el artículo el 133 de este Código.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+III. Por instructivo, que se fijará en lugar visible del domicilio del contribuyente, debiendo el notificador asentar razón de tal circunstancia.
 
 #### Sección Segunda. Del Procedimiento de Notificación
 
@@ -1747,7 +1751,9 @@ III. Cuando en el buzón fiscal del contribuyente existan documentos digitales a
 
 El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario del documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
 
-IV. Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó al abrir el documento a notificar, o bien, al transcurrir el plazo de 3 días hábiles siguientes a aquel en que se le hubiera enviado al contribuyente el aviso a que se refiere la fracción III de este artículo, caso en el cual, de igual manera, se generara un acuse electrónico de notificación.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IV. Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó al abrir el documento a notificar, o bien al cuarto día hábil siguiente a aquel en que se le hubiera enviado al contribuyente el aviso a que se refiere la fracción II de este artículo, caso en el cual, de igual manera, se generará un acuse electrónico de notificación.
 
 V. Las autoridades fiscales podrán depositar en el buzón fiscal de los contribuyentes los documentos digitales a notificar, en días y horas inhábiles.
 
@@ -2833,9 +2839,11 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 Cuando la naturaleza de los bienes embargados así lo permita, la autoridad podrá ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 206.
 
-La base para la enajenación de los bienes inmuebles y negociaciones embargados, será la de avalúo pericial, en los demás casos, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente o por buzón fiscal el avalúo practicado.
+La base para la enajenación de los bienes embargados, será la de avalúo pericial, conforme a las reglas que establezca el reglamento de este Código. En todos los casos, la autoridad notificará personalmente o por buzón fiscal el avalúo practicado.
 
 El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso b) del artículo 231, en relación con el 238 de este Código, debiendo designar en el mismo como perito de su parte a perito valuador autorizado o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
@@ -2851,9 +2859,11 @@ El remate deberá ser convocado dentro de los cinco días siguientes a aquel en 
 
 La convocatoria se publicará en la página electrónica de la autoridad fiscal correspondiente. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 208.
 
-La autoridad ejecutora, cuando ello sea aplicable, deberá obtener un certificado de gravámenes de los últimos diez años. Los acreedores que aparezcan del certificado de gravámenes correspondiente a los últimos diez años, serán notificados personalmente o por buzón fiscal cuando no fuere posible la notificación personal, del periodo de remate señalado en la convocatoria, a efecto que en términos de este Código concurran a hacer valer la preferencia que les corresponda. En caso de no ser factible la notificación en los términos anteriores por alguna de las causas a que se refiere la fracción I del artículo 126 de este Código, se tendrán como notificados del periodo en que se efectuará el remate, en aquella en que la convocatoria se haya fijado en sitio visible de la oficina ejecutora, siempre que en dicha convocatoria se exprese el nombre de los acreedores.
+La autoridad ejecutora, cuando ello sea aplicable, deberá obtener un certificado de gravámenes de los últimos diez años. Los acreedores que aparezcan del certificado de gravámenes correspondiente a los últimos diez años, serán notificados personalmente o por buzón fiscal cuando no fuere posible la notificación personal, del periodo de remate señalado en la convocatoria, a efecto que en términos de este Código concurran a hacer valer la preferencia que les corresponda. En caso de no ser factible la notificación en los términos anteriores por alguna de las causas a que se refiere (sic) las fracciones I y II del artículo 126 de este Código, se tendrán como notificados del periodo en que se efectuará el remate, en aquella en que la convocatoria se haya publicado en la página electrónica de la autoridad fiscal, siempre que en dicha convocatoria se exprese el nombre de los acreedores.
 
 Cuando hubiesen concurrido en términos de este Código a hacer valer su derecho de preferencia, los acreedores a que alude el párrafo anterior podrán hacer las observaciones que estimen dentro de los tres días siguientes al de su notificación, pudiendo enviarlas en documento digital que contenga firma electrónica avanzada a la dirección electrónica que se señale expresamente en la convocatoria para el remate, debiendo señalar su dirección de correo electrónico. Dichas observaciones serán resueltas por la autoridad ejecutora en un plazo de tres días y la resolución se hará del conocimiento del acreedor.
 
@@ -3558,3 +3568,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La derogación del Impuesto sobre Actos Jurídicos entrará en vigor a partir del 01 de enero de 2024, sin perjuicio de que todos los actos realizados o celebrados hasta el 31 de diciembre de 2023, que impliquen el pago de este impuesto, deban enterarse con posterioridad a la derogación del mismo.
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLYC/0170/2024 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticinco, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
