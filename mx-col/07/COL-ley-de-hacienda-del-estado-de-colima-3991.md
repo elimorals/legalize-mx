@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2024-10-19"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1575,9 +1575,9 @@ XXV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
 XXVI.- Otras anuencias, por día 3.830
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-XXVII.- Expedición de acuerdos de Programas Parciales de Urbanización 2.790
+XXVII.- Expedición de acuerdos de Programas Parciales de Urbanización o de Estudio de Impacto Territorial y Urbano 2.790
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1650,6 +1650,10 @@ Protocolo del Patrimonio del inmueble federal. 5.000
 XXXVI.- Expedición de copias fotostáticas simples,
 
 por cada hoja 0.032
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+XXXVII.- Expedición de certificado de no deudor alimentario moroso 1.500
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000)
 
@@ -2337,15 +2341,23 @@ ACTUALIZACIÓN
 
 I.- Verificación de congruencia de los dictámenes de vocación del suelo:
 
-> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-a) Para el aprovechamiento urbano del suelo que implique la transformación del terreno rústico en urbanizado u obras de renovación urbana. Sobre el total de la superficie a aprovechar:
+a).- Para el aprovechamiento urbano del suelo que implique la transformación de áreas urbanizables, así como las requeridas para la conservación, mejoramiento y consolidación de áreas urbanizadas. Sobre el total de la superficie a aprovechar:
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 1.- Hasta 2.00 Has 20.000
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 2.- De 2.01 Has a 5.00 Has 60.000
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
 3.- De 5.01 Has a 10.00 Has 120.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 4.- De más de 10.00 Has 240.000
 
@@ -2731,87 +2743,179 @@ más, por cada lote producto de la relotificación 4.000
 
 más, por cada lote producto de la relotificación 4.000
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-e) Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
+e) Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 12.000
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-f) De equipamiento urbano e infraestructura básica
+f) Para la edificación del desarrollo de proyectos de equipamiento urbano de carácter general, especial o regional.
 
-de los centros de población 20.000
+1. De equipamiento de carácter general 20.000
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+2. De equipamiento especial 60.000
 
-g) Hospitales y Centros Médicos 20.000
+3. De equipamiento regional 20.000
 
-h) Centrales camioneras de carga y de abastos 30.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+g) Para el desarrollo de infraestructura vial, por cada metro lineal, conforme a la siguiente clasificación:
 
-i) Industrial 30.000
+1. Regional 0.100
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+2. Metropolitana 0.100
 
-j) Edificios Multifamiliares, cuando superen las 20 unidades 10.000
+3. Primaria 0.100
 
-1.- Habitacional plurifamiliar horizontal y/o vertical densidad baja,
+4. Secundaria 0.100
 
-clave H2-H y/o H2-V 9.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+h) Para el desarrollo de proyectos de edificación correspondientes a:
 
-más, por cada unidad de aprovechamiento 4.500
+1. Centrales de carga 45.000
 
-2.- Habitacional plurifamiliar horizontal y/o vertical 4.000
+2. Recintos logísticos 40.000
 
-densidad media, clave H3-H y/o H4-V
+3. Instalaciones industriales:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+a. Industria de bajo impacto y riesgo, clave I1 30.000
 
-más, por cada unidad de aprovechamiento 2.000
+b. Industria de mediano impacto y riesgo, clave I2 40.000
 
-3.- Habitacional plurifamiliar horizontal y/o vertical 2.000
+c. Industria de alto impacto y riesgo, clave I3 50.000
 
-densidad alta, clave H4-H y/o H4-V
+4. Instalaciones de patios de contenedores 30.000
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-más, por cada unidad de aprovechamiento 1.000
+i) Para el desarrollo de proyectos de infraestructura de:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+1. Plantas potabilizadoras 60.000
 
-k) Edificación de proyectos de hotelería
+2. Plantas de tratamiento 60.000
 
-cuando superan las 30 unidades de alojamiento 25.000
+3. Estación de bombeo 60.000
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+4. Plantas termoeléctricas 60.000
 
-1.- Más, por cada unidad de alojamiento de
+5. Subestaciones eléctricas 60.000
 
-Turístico-hotelero densidad mínima, clave TH-1 6.000
+6. Tanques de almacenamientos de agua 60.000
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+7. Gaseoductos, oleoductos y similares 60.000
 
-2.- Más, por cada unidad de alojamiento de
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-Turístico-hotelero densidad baja, clave TH-2 4.500
+j) Para el desarrollo de proyectos habitacionales de 3000 m2 hasta 3500m2 de edificación, independientemente del régimen de propiedad 50.000
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+Adicionalmente, por cada metro excedente, según la siguiente clasificación:
 
-3.- Más, por cada unidad de alojamiento de
+1. Densidad Alta 0.250
 
-Turístico-hotelero densidad media, clave TH-3 2.000
+2. Densidad Media 0.500
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+3. Densidad Baja 0.750
 
-4.- Más, por cada unidad de alojamiento de
+4. Densidad Mínima 1.000
 
-Turístico-hotelero densidad alta, clave TH-4 1.000
+5. Intensidad Máxima 1.000
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+6. Intensidad Alta 1.250
 
-l) Gasolineras, gaserías y estaciones de servicios especiales 30.000
+7. Intensidad Media 1.500
+
+8. Intensidad Baja 2.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+k) Para el desarrollo de proyectos de alojamiento temporal, comercios, servicios, oficina o usos mixtos, de 1500 m2 hasta 1750 m2 de edificación, independientemente del régimen de propiedad: 25.000
+
+Adicionalmente, por cada metro excedente, según la siguiente clasificación:
+
+1. Alojamiento temporal:
+
+a. Densidad Alta 0.750
+
+b. Densidad Media 1.000
+
+c. Densidad Baja 1.250
+
+d. Densidad Mínima 1.500
+
+e. Intensidad Máxima 1.000
+
+f. Intensidad Alta 1.500
+
+g. Intensidad Media 1.750
+
+h. Intensidad Baja 2.000
+
+2. Comercios:
+
+a. Densidad Alta 1.000
+
+b. Densidad Media 1.500
+
+c. Densidad Baja 2.000
+
+d. Densidad Mínima 2.500
+
+e. Intensidad Máxima 2.000
+
+f. Intensidad Alta 2.500
+
+g. Intensidad Media 2.750
+
+h. Intensidad Baja 3.000
+
+3. Servicios:
+
+a. Densidad Alta 0.500
+
+b. Densidad Media 0.750
+
+c. Densidad Baja 1.000
+
+d. Densidad Mínima 1.250
+
+e. Intensidad Máxima 1.000
+
+f. Intensidad Alta 1.500
+
+g. Intensidad Media 1.750
+
+h. Intensidad Baja 2.000
+
+4. Oficinas:
+
+a. Densidad Alta 0.750
+
+b. Densidad Media 1.000
+
+c. Densidad Baja 1.250
+
+d. Densidad Mínima 1.500
+
+e. Intensidad Máxima 1.000
+
+f. Intensidad Alta 1.500
+
+g. Intensidad Media 1.750
+
+h. Intensidad Baja 2.000
+
+5. Usos mixtos:
+
+a. Intensidad Máxima 2.000
+
+b. Intensidad Alta 2.500
+
+c. Intensidad Media 2.750
+
+d. Intensidad Baja 3.000
+
+l) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA CON SUS NUMERALES [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -2863,11 +2967,33 @@ costo de
 
 la obra
 
-III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
+III.- Dictamen de congruencia y vinculación 50.000
 
-V.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+IV.- Dictamen de congruencia del dictamen de impacto territorial y urbano 50.000
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+V.- Registro en el padrón estatal de peritos:
+
+1. Perito de proyectos 50.000
+
+2. Perito de obras 40.000
+
+3. Perito supervisor municipal 50.000
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+VI.- Refrendo del registro en el padrón estatal de peritos:
+
+1. Perito de proyectos 25.000
+
+2. Perito de obras 20.000
+
+3. Perito supervisor municipal 25.000
 
 ARTÍCULO 55 A.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
@@ -3353,7 +3479,9 @@ I.- UNIDADES DEPORTIVAS:
 
 a).- Cuando se paguen las cuotas directamente al momento del acceso y uso de las instalaciones:
 
-1.- Entrada general 0.075
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1.- Entrada general 0.100
 
 2.- Cancha de frontenis, por persona 0.125
 
@@ -3548,6 +3676,14 @@ c).- … (sic)
 10.1.- Mensual 2.500
 
 10.2.- … (sic)
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBNUMERALES], P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+11.- Por el uso de la fosa de clavados:
+
+11.1.- Por día 0.250
+
+11.2.- Mensual 3.000
 
 II.- ESTADIO COLIMA:
 
@@ -4517,9 +4653,13 @@ IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
 
 V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico o informes de factibilidad, anualmente:
 
-1.- Por la inscripción 520.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
 
-2.- Por el refrendo 320.000
+1. Por la inscripción 260.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Por el refrendo 160.000
 
 VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
 
@@ -6325,6 +6465,18 @@ para determinar autoría gráfica 35.000
 
 IX. Documentoscopia 150.000
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO XIII. SERVICIOS PRESTADOS POR LA CONTRALORÍA GENERAL DEL ESTADO DE COLIMA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+Artículo 64 BIS 3.- Por los servicios prestados por la Contraloría General del Estado de Colima, se pagarán los derechos siguientes:
+
+I.- Por la expedición de la constancia de proveedor inhabilitado o no inhabilitado 1.000
+
+II.- Por la expedición de la constancia de servidor público inhabilitado o no inhabilitado 1.000
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO PRIMERO. Del Derecho por la Extracción de Minerales
@@ -6377,6 +6529,10 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
+## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ### CAPITULO SEGUNDO. De los Derechos por el Uso y Aprovechamiento de los Espacios Culturales
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
@@ -6419,14 +6575,6 @@ Para el uso de los espacios culturales, que tengan como propósito la realizaci�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
@@ -6439,6 +6587,8 @@ Para el uso de los espacios culturales, que tengan como propósito la realizaci�
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 65.
 
 Las contribuciones de mejoras se pagarán de conformidad con lo establecido en el decreto que para tal fin expida el Congreso del Estado.
@@ -6446,12 +6596,6 @@ Las contribuciones de mejoras se pagarán de conformidad con lo establecido en e
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 66.
 
@@ -6485,9 +6629,11 @@ Para la determinación de los montos de los productos a que se refiere este tít
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 69.
 
@@ -6521,6 +6667,10 @@ X.- Gastos de ejecución.
 
 ### CAPITULO UNICO
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
@@ -6533,11 +6683,13 @@ Son participaciones las que obtenga el Estado de la Federación, de conformidad 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
 ## TITULO SEXTO BIS PRIMERO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -7456,3 +7608,11 @@ P.O. 19 DE OCTUBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 35.- POR EL QUE SE REFORMA, ADICIONA Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1o. de enero del año 2025, previa su publicación en el Periódico Oficial “El Estado de Colima”.
