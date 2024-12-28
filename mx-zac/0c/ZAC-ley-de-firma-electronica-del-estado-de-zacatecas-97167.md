@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-firma-electronica-del-estado-de-zacatecas-97167"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-25"
-last_updated: "2014-01-15"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY DE FIRMA ELECTRÓNICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2014, NO APLICA AL ARTICULADO DEL TEXTO PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de diciembre de 2013.
 
@@ -331,7 +329,9 @@ IV. Dar aviso a la Autoridad Certificadora de cualquier modificación de datos q
 
 Para efectos de esta Ley, son autoridades certificadoras en su respectivo ámbito de competencia:
 
-I. El Poder Ejecutivo por conducto de la Secretaría de la Función Pública;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+I. El Poder Ejecutivo por conducto de la Secretaría de la Función Pública y la Secretaría de Finanzas;
 
 II. El Poder Legislativo;
 
@@ -493,9 +493,11 @@ V. Resolución judicial o administrativa que así lo determine, y
 
 VI. Fallecimiento del firmante o su representante, incapacidad superveniente, total o parcial, de cualquiera de ellos, terminación de la representación o extinción de la persona moral representada.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 42.
 
-La vigencia del certificado digital será de dos años como máximo, la cual iniciará a partir de su emisión y expirará el día y la hora que señale el mismo.
+La vigencia del certificado digital será de cuatro años como máximo, la cual iniciará a partir de su emisión y expirará el día y la hora que señale el mismo.
 
 ###### Artículo 43.
 
@@ -680,3 +682,13 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 
 C.P. GUILLERMO HUÍZAR CARRANZA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 22.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE FIRMA ELECTRÓNICA DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veinticinco, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
