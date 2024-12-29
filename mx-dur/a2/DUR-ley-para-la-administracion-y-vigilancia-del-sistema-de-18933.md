@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2021-12-26"
+last_updated: "2024-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -111,6 +111,12 @@ Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar 
 
 El monto del Fondo Estatal de Participaciones se acordará anualmente por el Ejecutivo del Estado y su importe no podrá ser inferior al del año inmediato anterior, actualizado con el índice nacional de precios al consumidor de dicho ejercicio, que publique la Secretaría de Hacienda y Crédito Público.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 4
+
+BIS.- Se participará a los municipios el 20% de la recaudación en la entidad del impuesto a la Venta Final de Bebidas Alcohólicas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2021)</small>
 
 ###### Artículo 5.
@@ -173,6 +179,14 @@ II.- El 30% de acuerdo con el coeficiente efectivo del fondo acumulado que estab
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+Artículo 8 BIS 1.- Los recursos a que se refiere el artículo 4-BIS de esta ley, se distribuirán conforme a lo siguiente:
+
+I.- El 70% en relación directa con el número de habitantes de cada municipio, de acuerdo con los últimos datos oficiales publicados por el INEGI y que dichos datos estén vigentes al inicio del ejercicio fiscal correspondiente, y
+
+II.- El 30% de acuerdo con el coeficiente efectivo del fondo acumulado que establece el artículo 5 de esta ley.
+
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 9.
@@ -183,9 +197,11 @@ El Gobierno del Estado, a través de la Secretaría de Finanzas y de Administrac
 
 Si transcurrido el plazo establecido en el Artículo anterior no estuviere contabilizada el 100% de la recaudación de los ingresos participables, la liquidación se efectuará con la información disponible, en cuyo caso las diferencias que resulten a favor de los municipios se compensarán en el mes siguiente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
-Los ajustes cuatrimestrales y del ejercicio que resulten a cargo del Estado en el fondo general de participaciones, Fondo de Fomento Municipal e Impuesto Especial sobre Producción y Servicios, serán aplicados en la parte del 20% que corresponde a los municipios en el mes siguiente al del ajuste.
+Los ajustes cuatrimestrales y del ejercicio que resulten a cargo o a favor del Estado en el Fondo General de Participaciones, Fondo de Fomento Municipal, Impuesto Especial sobre Producción y Servicios y Fondo de Fiscalización y Recaudación, serán aplicados en los porcentajes referidos en el artículo 2, que corresponden a los municipios, a más tardar en el mes siguiente al del del ajuste.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
@@ -308,3 +324,11 @@ P.O. 26 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 140 QUE CONTIENE REFORMAS, ADICIONES Y DEROGACIONES A DIVERSOS DISPOSITIVOS DE LA LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA, EN MATERIA FISCAL ESTATAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
