@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2024-12-01"
+last_updated: "2024-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -147,9 +149,9 @@ II. El ahorro, cuando se integre por un depósito de cantidad semanal, quincenal
 
 III. Las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por concepto de cuotas del seguro de retiro; cesantía en edad avanzada y vejez.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-IV. Las aportaciones al Instituto Mexicano del Seguro Social, Instituto del Fondo Nacional de la Vivienda para los Trabajadores y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+IV. Las aportaciones al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a los Servicios de Salud del Estado de Durango, al Sistema de Ahorro para el Retiro y la Dirección de Pensiones del Estado.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -281,13 +283,11 @@ Los sujetos no contemplados en este artículo, que realicen pagos a que se refie
 
 La Federación, los Estados y los Municipios estarán exentos del pago de este impuesto, siempre y cuando se indique expresamente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 12.
 
-Es facultad del Titular del Poder Ejecutivo exentar total o parcialmente del Impuesto Sobre Nómina hasta por cinco años, a las empresas de nueva creación o a aquellas que califiquen en las condiciones de desempeño por las que podrán ser estimuladas fiscalmente, de conformidad con lo establecido en la Ley de Fomento Económico Para el Estado de Durango, su Reglamento, las demás Leyes y disposiciones fiscales, y con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
+Es facultad del Titular del Poder Ejecutivo exentar total o parcialmente del Impuesto Sobre Nómina, a las empresas de nueva creación o a aquellas que califiquen en las condiciones de desempeño por las que podrán ser estimuladas fiscalmente, de conformidad con lo establecido en la Ley de Fomento Económico Para el Estado de Durango, su Reglamento, las demás Leyes y disposiciones fiscales, y con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2017)</small>
 
@@ -493,9 +493,9 @@ I. (DEROGADA, P.O. 8 DE JUNIO DE 2003)
 
 II. Las personas físicas o morales que organicen juegos con apuestas, rifas, loterías, sorteos y concursos de toda clase que se celebren en el Estado.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-III. Las personas físicas y morales que obtengan ingresos en efectivo o en especie por premios derivados de juegos con apuestas, rifas, loterías, sorteos, y concursos de toda clase, independientemente de que el organizador y el evento mismo de cuyo resultado dependan la obtención del ingreso, se encuentren y/o celebren dentro o fuera de la entidad.
+III. Las personas físicas y morales que obtengan ingresos en efectivo o en especie por premios derivados de juegos con apuestas, rifas, loterías, sorteos y concursos de toda clase, independientemente de que el organizador y el evento mismo de cuyo resultado dependan la obtención del ingreso, se encuentren y/o celebren dentro de la entidad.
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -2103,27 +2103,45 @@ XL.- Cada búsqueda de datos o constancias para
 
 informes y certificados. 1
 
-XLI.- Cada anotación marginal. 1
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+XLI.- Cada anotación marginal. 3
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 XLII.- La expedición de cada certificado de
 
 libertad o existencia de gravámenes, incluyendo
 
-la búsqueda. 3
+la búsqueda:
 
-XLIII.- La expedición de cada certificado de no
+a) En carácter de ordinario 3
+
+b) En carácter de urgente 6
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+XLIII.- Por cada anotación de Aviso Pre-preventivo 3
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+XLIV.- Por cada anotación de Aviso Preventivo 3
+
+XLV.- La expedición de cada certificado de no
 
 propiedad o de existencia de propiedad, incluyendo
 
 la búsqueda. 3
 
-XLIV.- En los casos de servicios no previstos
+XLIV (SIC).- En los casos de servicios no previstos
 
 expresamente en este artículo, sobre el valor
 
 o monto que corresponda. 1.35%
 
-o cuando no exista valor o monto. 5
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+O cuando no exista valor o monto. 5
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -2267,19 +2285,41 @@ rifas y sorteos. 15
 
 XII.- Apostillamiento de documentos. 2
 
-XIII.- Inscripción en el Padrón de
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-Proveedores. 17
+XIII.- Inscripción o refrendo en el Padrón
+
+de Proveedores. 17
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+XIII BIS. Inscripción o refrendo en el Padrón
+
+de Contratistas. 17
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+XIII TER. Cualquier otra constancia que
+
+se expida distinta de las mencionadas
+
+en este artículo. 1
 
 XIV.- Por las publicaciones que se hagan en
 
 el Periódico Oficial conforme a lo siguiente:
 
-a) Por una plana. 14
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-b) Por media plana. 8
+a) Por una plana. 20
 
-c) Por un cuarto de plana o menos. 3
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+b) Por media plana. 11
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+c) Por un cuarto de plana o menos. 6
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -2339,21 +2379,55 @@ protección civil para la autorización y
 
 ejecución de una obra pública:
 
-a) De uno hasta 350 m2 10
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+a) De uno hasta 350 m2 20
 
 b) De 351 HASTA 1000 M2 50
 
-c) De 1001 en adelante 100
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-II. Derechos por la verificación y validación del
+c) De 1001 m2 a 1650 m2 150
 
-programa interno de protección civil se causarán:
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-a) De 1 a 350 m2 10
+d) De 1651 m2 a 2300 m2 200
 
-b) De 351 a 1000 m2 50
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-c) De 1001 en adelante 100
+e) De 2301 m2 en adelante 250
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+II. Derechos por inspecciones,
+
+verificaciones, simulacros y/o validación
+
+del programa interno de protección civil en
+
+bienes inmuebles, se causarán conforme
+
+a lo siguiente:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+a) De 1 m2 a 350 m2 o Riesgo Ordinario 15
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+b) De 351 m2 a 1000 m2 o Riesgo Bajo 50
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+c) De 1001 m2 a 1650 m2 o Riegos Medio 150
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+d) De 1651 m2 a 2300 m2 o Riesgo Alto 200
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+e) De 2301 m2 en adelante o Riesgo Máximo 250
 
 III. Por la expedición de registro para particulares
 
@@ -2367,27 +2441,73 @@ de operaciones y estudios de vulnerabilidad y riesgo
 
 en materia de protección civil:
 
-a) Consultor nivel 1. Capacitación de
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-personal en materia de Protección Civil 60
+a) Registro de Consultor nivel 1.
 
-b) Consultor nivel 2. Capacitación y
+Capacitación de personal en
 
-elaboración de programas internos
+materia de Protección Civil 60
 
-de protección civil de riesgo ordinario 110
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-c) Consultor nivel 3. Capacitación de personal,
+b) Registro de Consultor nivel 2.
 
-elaboración de programas internos de
+Capacitación y elaboración de
 
-riesgo ordinario y alto, elaboración de
+programas internos de protección
 
-programas especiales, estudio de
+civil de riesgo ordinario 110
 
-riesgo de vulnerabilidad y actividades
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+c) Registro de Consultor nivel 3,
+
+Capacitación de personal, elaboración
+
+de programas internos de riesgo
+
+ordinario y alto, elaboración de
+
+programas especiales, estudio de riesgo
+
+de vulnerabilidad y actividades
 
 específicas en la materia. 165
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+d) Por Revalidación de Consultor nivel 1.
+
+Capacitación de personal en materia
+
+de Protección Civil. 53
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+e) Por Revalidación de Consultor Nivel 2.
+
+Capacitación y elaboración de
+
+Programas Internos de Protección Civil
+
+de Riesgo Ordinario. 103
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+f) Por Revalidación Consultor Nivel 3.
+
+Capacitación de Personal, Elaboración
+
+de Programas Internos de Riesgo
+
+Ordinario y Alto, Elaboración de
+
+Programas Especiales, Estudio de
+
+Riesgo de Vulnerabilidad y actividades
+
+específicas en la materia. 158
 
 IV. Por la revisión y aprobación del programa,
 
@@ -2395,11 +2515,15 @@ salvamento y rescate acuático para aguas
 
 cerradas, abiertas o confinadas:
 
-a) De 1 hasta 350m2 10
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+a) De 1 hasta 350 m2 15
 
 b) De 351 hasta 1000 m2 50
 
-c) c) (sic) De 1001 m2 en adelante 100
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+c) De 1001 m2 en adelante 150
 
 V. Capacitación por hora hombre, por las funciones
 
@@ -2457,17 +2581,29 @@ conformidad con la norma aplicable conforme
 
 a lo siguiente:
 
-k.1 Brigadas contra incendios en el nivel básico
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+k.1 Capacitación de Brigadas
+
+contra incendios en el nivel básico
 
 (fase incipiente) 2.5
 
-k.2 Brigadas contra incendios en el
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-nivel intermedio (fase alertamiento) 4
+k.2 Capacitación de Brigadas
 
-k.3 Brigadas contra incendios en nivel
+contra incendios en el nivel intermedio
 
-avanzados (fase de emergencia) 6
+(fase alertamiento) 4
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+k.3 Capacitación de Brigadas
+
+contra incendios en nivel avanzados
+
+(fase de emergencia) 6
 
 l) Curso de capacitación por hora
 
@@ -2537,6 +2673,10 @@ impresión. Hasta 2.3
 
 En el caso de la fracción II de éste artículo, después de las primeras 100 hojas el monto se reducirá en 0.0085 UMA diaria por hoja hasta 100 hojas más, las hojas que se soliciten adicionalmente a éstas su costo será de 0.0034 UMA diaria por hoja.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 57 TER.- Los servicios que se prestan por actos de la Secretaría de Educación, causarán el pago de derechos correspondientes por la expedición de Título Profesional y/o de grado académico; el cual será equivalente a 26 UMAS.
+
 ### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
@@ -2597,6 +2737,8 @@ marginalmente
 
 en el acta.
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
 VI La inscripción de actas de adopción,
 
 tutela, de ejecutorias que declaren la
@@ -2611,7 +2753,7 @@ resoluciones o sentencias que
 
 rectifiquen o modifiquen un acto del
 
-Registro Civil. 5
+Registro Civil. 10
 
 VII La inscripción de actos o hechos
 
@@ -2657,9 +2799,27 @@ o de interconexión de redes informáticas del
 
 Registro Civil. 3
 
-XVI Otros servicios no especificados
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-en las fracciones anteriores: 3
+XVI Impresión de copias certificadas
+
+en el extranjero, a través de procesos
+
+sistematizados o de interconexión de
+
+redes informáticas del Registro Civil 5
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+XVII Por solicitud de actas o constancias
+
+que obran en las oficinas registradoras
+
+de otras Entidades Federativas 4
+
+XVIII Otros servicios no especificados
+
+en las fracciones anteriores. 3
 
 ### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
 
@@ -3193,6 +3353,16 @@ a) Chofer de servicio público 8
 
 b) Chofer de servicio particular 8
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+3. Por la reposición o reexpedición de
+
+licencia de manejo de automovilista y
+
+motociclista tramitadas en representaciones
+
+del Gobierno del Estado de Durango 20
+
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2022)</small>
 
 II. Examen médico para obtener licencia de manejo o
@@ -3223,13 +3393,19 @@ licencia de chofer de servicio público o
 
 particular. 3
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-ARTICULO 60 BIS. Se implementará desde el sexto bimestre del año 2023 hasta el 14 de septiembre del año 2028, el Programa de Emplacamiento Exprés, destinado a personas morales y personas físicas propietarios de vehículos que estén dados de alta en otras entidades federativas y cuya residencia o domicilio se ubique fuera del territorio estatal de Durango, que cuenten con un mínimo de 500 unidades y que realicen actividades en los siguientes rubros:
+ARTICULO 60 BIS.- Se implementará desde el sexto bimestre del año 2023 hasta el 14 de septiembre del año 2028, el Programa de Emplacamiento Exprés, destinado a personas morales y personas físicas propietarios de vehículos que estén dados de alta en otras entidades federativas y cuya residencia o domicilio se ubique fuera del territorio estatal de Durango, que cuenten con un mínimo de 50 unidades y que realicen actividades en los siguientes rubros:
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
 
 a) Arrendamiento para el sector turismo y el sector público.
 
-b) Empresas con flotillas vehiculares de más de 500 unidades.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+b) Empresas con florillas (sic) vehiculares de más de 50 unidades.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
 
 c) Plataformas digitales para el servicio de transporte de pasajeros.
 
@@ -3573,55 +3749,81 @@ I. Las personas físicas y morales a las que se les presten servicios por concep
 
 UMA PORCENTAJE
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+1. Por la evaluación y dictaminación del informe preventivo, manifestación de impacto ambiental, estudio de riesgo y/o estudio de evaluación de daños ambientales:
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-1. Por la evaluación y dictaminación del informe preventivo, manifestación de impacto ambiental y/o estudio de riego (sic):
-
 a) Inversión de menos de 500,000.00 pesos. 25
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 b) Inversión de 500,000.00 hasta
 
 1,000,000.00 de pesos. 50
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 c) Inversión de 1,000,000.01
 
 hasta 5,000,000.00 de pesos. 100
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 d) Inversión de 5,000,000.01 hasta
 
 10,000,000.00 de pesos. 200
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 e) Inversión de 10,000,000.01 hasta
 
 15,000,000.00 de pesos. 300
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 f) Inversión de 15,000,000.01 hasta
 
 20,000,000.00 400
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 g) Inversión de 20,000,000.01 hasta
 
 25,000,000.00 de pesos. 500
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 h) Inversión de 25,000,000.01 hasta
 
 30,000,000.00 de pesos. 600
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 i) Inversión de 30,000,000.01 hasta
 
 35,000,000.00 de pesos. 700
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 j) Inversión de 35,000,000.01 hasta
 
 40,000,000.00 de pesos. 800
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 k) Inversión de 40,000,000.01 hasta
 
 45,000,000.00 de pesos. 900
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
 l) Inversión de 45,000,000.01 hasta
 
 50,000,000.00 de pesos. 1000
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 m) Inversión de más de
 
@@ -3641,29 +3843,47 @@ preventivo, la manifestación de impacto ambiental
 
 y/o el estudio de riesgo
 
-a) Prorrogas por 6 meses 25
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-b) Prorrogas por 1 año 50
+a) Prorrogas por 6 meses 60
 
-c) Prorrogas por más de 1 año 100
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-4. Por la evaluación y dictaminación del
+b) Prorrogas por 1 año 100
 
-estudio de riesgo de impacto
+c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2024)
 
-ambiental.
+> <small>(ADICIONADO CON SUS CANTIDADES [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-a) Inversión de 50,000.00 hasta 50
+4. Por la evaluación y dictaminación simple:
 
-500,000.00 pesos
+CONCEPTO UMA
 
-b) Inversión de 500,000.01 hasta 100
+MENOS DE 500,000 15
 
-1,000,000.00 de pesos
+500,000 A 1 MILLON 30
 
-c) Inversión de más de 1,000,000.00 de 150
+1 MILLON UN PESO A 5 MILLONES 60
 
-pesos
+5 MILLONES UN PESO A 10 MILLONES 120
+
+10 MILLONES UN PESO A 15 MILLONES 180
+
+15 MILLONES UN PESO A 20 MILLONES 240
+
+20 MILLONES UN PESO A 25 MILLONES 300
+
+25 MILLONES UN PESO A 30 MILLONES 360
+
+30 MILLONES UN PESO A 35 MILLONES 420
+
+35 MILLONES UN PESO A 40 MILLONES 480
+
+40 MILLONES UN PESO A 45 MILLONES 540
+
+45 MILLONES UN PESO A 50 MILLONES 600
+
+MAS DE 50 MILLONES 660
 
 5. Por la solicitud para modificar la obra o 15
 
@@ -3797,51 +4017,71 @@ UMA PORCENTAJE
 
 1. Por la evaluación y dictaminación de planes de manejo que se presentan por primera vez de Empresas públicas y privadas, se causará un Derecho de acuerdo a lo siguiente:
 
-a) Generadoras, recicladoras, almacenadoras
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-y/o transportistas de residuos 50
+a) Generadoras, recicladoras, almacenadoras y/o
+
+transportistas de residuos 70
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 b) Recicladora, almacenadora y/o transportista
 
-de residuos con más de una actividad 75
+de residuos con más de una actividad 106
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 c) Para las dedicadas al tratamiento
 
-de residuos. 100
+de residuos. 141
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 d) Para las dedicadas a la incineración
 
-de residuos. 250
+de residuos. 350
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 2. Por la evaluación y dictaminación y en su caso autorización de las renovaciones en empresas públicas y privadas de las siguientes actividades en materia de residuos, se causará un derecho de acuerdo a lo siguiente:
 
-a) Para generadoras de residuos. 20
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+a) Para generadoras de residuos. 30
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 b) Para las dedicadas a la recolección y
 
-transporte de residuos. 25
+transporte de residuos. 35
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 c) Para las dedicadas al almacenamiento
 
-de residuos. 25
+de residuos. 35
 
-d) Para las dedicadas al reciclaje
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-de residuos. 25
+d) Para las dedicadas al reciclaje de residuos. 35
 
-e) Para las dedicadas al reuso de residuos. 25
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-f) Para las con más de una actividad
+e) Para las dedicadas al reuso de residuos. 35
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+f) Para las (sic) con más de una actividad
 
 de entre recicladora, almacenadora y/o
 
-transportista de residuos 35
+transportista de residuos 40
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 g) Para las dedicadas al tratamiento
 
-de residuos. 50
+de residuos. 70
 
 h) Para las dedicadas a la incineración
 
@@ -3912,6 +4152,22 @@ electromagnéticas no ionizantes.
 VII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
 VIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+IX. Las personas físicas y morales que presten servicios en materia ambiental en general, y en materia de impacto y riesgo ambiental, así como los laboratorios ambientales, en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y sus Reglamentos causarán derecho conforme a lo siguiente:
+
+1. Por la inscripción al Registro Estatal
+
+de Prestadores de Servicios en
+
+materia ambiental 50
+
+2. Por la actualización en el Registro Estatal
+
+de Prestadores de Servicios en
+
+materia ambiental 30
 
 > <small>(ADICIONADO CON EL APARTADO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -4013,7 +4269,31 @@ puedan ser nocivas para la salud de las personas,
 
 más de cincuenta kilos o litros: 20
 
-h) Otras constancias no consideradas en esta fracción: 15
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+h) De productos o sustancias asegurados
+
+en visitas de verificación sanitaria, cantidad
+
+menor a 5 kilos: 2
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+i) De productos o sustancias asegurados
+
+en visitas de verificación sanitaria, cantidad mayor
+
+a 5 kilos, pero menor de 30 kilos: 4
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+j) De productos o sustancias asegurados en
+
+visitas de verificación sanitaria, cantidad
+
+mayor a 30 kilos: 15
+
+k) Otras constancias no consideradas en esta fracción 15
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -4028,6 +4308,18 @@ alimentos, uso y manejo de plaguicidas y control sanitario
 de la publicidad, dirigido a personal operativo o directivo;
 
 por persona: 2
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+a) BIS. Capacitación a domicilio de la negociación
+
+para manejadores de alimentos, plantas purificadoras
+
+y empacadoras de alimentos, uso y manejo de
+
+plaguicidas y control sanitario de la publicidad,
+
+dirigido a personal operativo o directivo, por persona: 4
 
 b) Capacitación de manejo y dispensación de medicamentos
 
@@ -4263,9 +4555,67 @@ de seguridad privada. 1
 
 personal operativo, misma que será de uso obligatorio. 1
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-### CAPITULO UNICO
+### CAPITULO XI. DE LOS DERECHOS POR INSCRIPCION Y REFRENDO EN EL REGISTRO ESTATAL DE EMPRESAS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 69 BIS 3.- Todas las empresas, personas físicas o morales, de los sectores industrial, minero, comercial o de servicios, que operen un establecimiento en el Estado de Durango, para su inscripción y refrendo en el Registro Estatal de Empresas, de la Secretaría de Desarrollo Económico, causarán derechos conforme a los supuestos siguientes:
+
+UMA
+
+I. Por inscripción en el Registro Estatal de Empresas: 2
+
+II. Por refrendo en el Registro Estatal de Empresas: 1
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO XII. DE LOS DERECHOS POR SERVICIOS QUE PRESTA LA FISCALIA GENERAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+ARTICULO 69 BIS 4.- Los Servicios que presta la Fiscalía General del Estado, en el territorio del Estado de Durango, causarán derechos conforme a una cuota fija representada en UMA diaria o fracción de la misma conforme a lo siguiente:
+
+UMA
+
+I. Por la expedición del certificado de legalidad
+
+de cada vehículo para el otorgamiento de
+
+concesión de servicio público de transporte; 20
+
+II. Por la expedición de constancia de
+
+no sujeto a investigación en la Fiscalía
+
+General del Estado; 3
+
+III. Por el rastreo y expedición a
+
+particulares de certificado de
+
+reporte de no robo de los vehículos
+
+y de que no esté alterado que
+
+circulen en el Estado; 10
+
+IV. Por los avalúos y peritajes solicitados por
+
+autoridades administrativas o judiciales dentro
+
+de un procedimiento a petición o en beneficio
+
+de particulares; 5
+
+V. Expedición de copias certificadas de la
+
+denuncia que genera el inicio de un acta
+
+circunstanciada por pérdida o extravío de
+
+documentos y objetos; 2
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
@@ -4295,15 +4645,17 @@ VI. Los provenientes de la venta del Periódico Oficial del Estado.
 
 VII. La venta de formas oficiales impresas.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+
+VIII. La venta de mercancías o productos que contengan la marca turística oficial a través del Gobierno del Estado.
+
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
-VIII. Otros no especificados en las fracciones anteriores.
+IX. Otros no especificados en las fracciones anteriores.
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 71.
 
@@ -4331,17 +4683,19 @@ VIII. En general cualquier otro ingreso no clasificable como impuesto, derecho y
 
 IX. Los aprovechamientos originados por conceptos de recargos, garantías, multas y reintegros.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-X. Los que se deriven de concesiones y contratos a favor del Estado.
+X. Los que se deriven de concesiones, contratos y convenios a favor del Estado.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
-ARTICULO 71 BIS.- Los contribuyentes de los derechos a que se refiere el Capítulo VI, del Título Tercero de esta Ley, aportarán el equivalente al valor de una U.M.A. el que se destinará al auxilio y estímulo de las acciones en materia de salud, efectuadas por la Delegación en el Estado de Durango de la Cruz Roja Mexicana, Institución de Asistencia Privada. Lo cual deberá considerarse en la Ley de Egresos del Estado Libre y Soberano de Durango para el ejercicio fiscal que corresponda.
+ARTICULO 71 BIS.- Los contribuyentes de los derechos a que se refiere el Capítulo IV, del Título Tercero de esta Ley, aportarán el equivalente al valor de una U.M.A. el que se destinará al auxilio y estímulo de las acciones en materia de salud y protección civil, efectuadas por la Delegación en el Estado de Durango de la Cruz Roja Mexicana, Institución de Asistencia Privada, así como a la Coordinación Estatal de Protección Civil del Estado de Durango, distribuyéndose en lo correspondiente 75% para la Cruz Roja Mexicana y 25% para a (sic) la Coordinación Estatal de Protección Civil del Estado de Durango. La cual deberá considerarse en la Ley de Egresos del Estado Libre y Soberano de Durango para el ejercicio fiscal que corresponda.
 
-Para tal efecto, el Gobierno del Estado de Durango, a través de la Secretaría de Salud con la comparecencia de la Secretaria de Finanzas y de Administración, celebrará con dicha Institución de Asistencia Privada, dentro de los primeros tres meses de cada ejercicio fiscal, el convenio de colaboración correspondiente en el que se establezca el monto total a otorgar, en término de la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, así como la forma y plazos en los que dicho monto le será entregado.
+Para tal efecto, el Gobierno del Estado de Durango, la Cruz Roja Mexicana, y la Secretaría de Salud con la comparecencia de la Secretaria de Finanzas y de Administración, celebrará con dicha Institución de Asistencia Privada, dentro de los primeros tres meses de cada ejercicio fiscal, el convenio de colaboración correspondiente en el que se establezca el monto total a otorgar, en término de la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, así como la forma y plazos en los que dicho monto le será entregado. En el caso de la Coordinación Estatal de Protección Civil del Estado de Durango, se seguirán los procedimientos que establezca la Secretaría de Finanzas y de Administración, a través de la Subsecretaría de Egresos.
 
 ## TITULO SEXTO. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 72.
 
@@ -4356,6 +4710,10 @@ III. Otros que no se encuentren comprendidos en las fracciones anteriores.
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO SEPTIMO. DE LOS INGRESOS FEDERADOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 73.
 
@@ -4730,3 +5088,11 @@ P.O. 1 DE DICIEMBRE DE 2024.
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 138 QUE CONTIENE REFORMAS, ADICIONES Y DEROGACIONES A DIVERSOS DISPOSITIVOS DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
