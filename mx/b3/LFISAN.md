@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2023-12-29"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LFISAN"
 
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024 Y SUS ANEXOS 1, 5, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 29 DE DICIEMBRE DE 2023.]
+[NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, Y SUS ANEXOS 1, 5, 6, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 30 DE DICIEMBRE DE 2024.]
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ENERO DE 2025 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
@@ -176,13 +178,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024 Y SUS ANEXOS 1, 5, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 29 DE DICIEMBRE DE 2023.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, Y SUS ANEXOS 1, 5, 6, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 30 DE DICIEMBRE DE 2024.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $272,471.43. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024 Y SUS ANEXOS 1, 5, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 29 DE DICIEMBRE DE 2023.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, Y SUS ANEXOS 1, 5, 6, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 30 DE DICIEMBRE DE 2024.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -3281,3 +3283,63 @@ fracción II segundo párrafo: $ 328,965.22 y hasta $ 416,689.29
 C. Código de claves vehiculares
 
 > <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES EN EL D.O.F. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 776 A LA 785.]</small>
+
+D.O.F. 30 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. LA "RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, Y SUS ANEXOS 1, 5, 6, 8, 15, 19 Y 27", PUBLICADA EL 30 DE DICIEMBRE DE 2024, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA NOVENA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, PUBLICADA EL 30 DE DICIEMBRE DE 2024.]</small>
+
+NOVENA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022
+
+Contenido
+
+ISAN
+
+A. Tarifa para determinar el ISAN para el año 2025.
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2025.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+2. ........................
+
+A. Tarifa para determinar el ISAN para el año 2025.
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+sobre el excedente
+
+del límite inferior
+
+$ $ $ %
+
+0.01 370,741.94 0.00 2.0
+
+370,741.95 444,890.26 7,414.71 5.0
+
+444,890.27 519,038.86 11,122.30 10.0
+
+519,038.87 667,335.21 18,537.12 15.0
+
+667,335.22 En adelante 40,718.53 17.0
+
+Si el precio del automóvil es superior a $1,023,744.62 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,023,744.62
+
+B. Cantidades correspondientes al artículo 8o., fracción II de la Ley Federal del ISAN para el año 2025.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $343,900.23
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $343,900.24 y hasta $435,606.98
+
+C. Código de claves vehiculares.
+
+> <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES EN EL D.O.F. DE 30 DE DICIEMBRE DE 2024, PÁGINAS DE LA 764 A LA 771.]</small>
