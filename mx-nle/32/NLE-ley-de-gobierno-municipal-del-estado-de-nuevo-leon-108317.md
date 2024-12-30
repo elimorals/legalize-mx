@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2022-05-20"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -1841,7 +1841,9 @@ IV. Monto de las tarifas iniciales de operación;
 
 V. Descripción de instalación y equipo con que debe iniciarse la prestación del servicio;
 
-VI. Lugar de ubicación y período de la concesión hasta por cinco años y con posibilidad de ratificarse;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VI. Lugar de ubicación y periodo de la concesión la cual no debe exceder a siete años y con posibilidad de renovarse por el mismo periodo;
 
 VII. Causas de rescisión; y
 
@@ -1863,7 +1865,9 @@ III. Identificación del centro de población o región donde se prestará el se
 
 IV. Tarifa y fórmula matemática para su actualización;
 
-V. Vigencia de la concesión;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2024)</small>
+
+V. Vigencia de la concesión, la cual no debe exceder a siete años;
 
 VI. Causales de terminación y rescisión de la misma;
 
@@ -1871,9 +1875,13 @@ VII. Los medios no jurisdiccionales de resolución de controversias; y
 
 VIII. Las demás disposiciones que el Ayuntamiento considere necesarias.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 138.
 
-La concesión de servicios públicos se otorgará por tiempo determinado. Cuando el período de vigencia comprometa al Municipio por un plazo mayor al periodo del Ayuntamiento, se requerirá de la aprobación de las dos terceras partes de los integrantes del Ayuntamiento. Deberá garantizarse la prestación del servicio público concesionado, así como el pago del mismo.
+La concesión de servicios públicos se otorgará por tiempo determinado con límite a siete años, con posibilidad de renovarse por el mismo periodo, con la salvedad de contar con la autorización previa del Ayuntamiento y un soporte de análisis de sostenibilidad financiera.
+
+Cuando el periodo de vigencia comprometa al Municipio por un plazo mayor al periodo del Ayuntamiento, se requerirá de la aprobación de las dos terceras partes de los integrantes del Ayuntamiento. Deberá garantizarse la prestación del servicio público concesionado, así como el pago del mismo.
 
 ###### ARTÍCULO 139.
 
@@ -2828,3 +2836,9 @@ P.O. 20 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 149. SE REFORMA LOS INCISOS D) Y E) Y SE ADICIONA EL INCISO F) DE LA FRACCIÓN IX DEL ARTÍCULO 33 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 022. SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 135, LA FRACCIÓN V DEL ARTICULO 137 Y EL ARTÍCULO 138 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
