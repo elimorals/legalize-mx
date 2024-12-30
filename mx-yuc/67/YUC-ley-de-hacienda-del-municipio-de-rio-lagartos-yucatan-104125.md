@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-rio-lagartos-yucatan-104125"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2014-12-30"
+last_updated: "2024-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE RIO LAGARTOS, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE RÍO LAGARTOS, YUCATÁN, PUBLICADA EN EL D.O. DE 30 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE RÍO LAGARTOS, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el martes 30 de diciembre de 2014.
 
@@ -1424,3 +1426,23 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE HACIENDA DEL MUNICIPIO DE RÍO LAGARTOS, YUCATÁN".]
+
+Artículo primero.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de esta ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo segundo.- En lo no previsto por la Ley de Hacienda del Municipio de Río Lagartos, Yucatán contenida en este Decreto, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
+
+Artículo Tercero.- Se abroga la Ley de Hacienda del Municipio de Río Lagartos, Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 30 de diciembre de 2014, mediante Decreto número 247.
+
+Cuarto.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de esta ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27/2024 POR EL QUE SE EXPIDEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANSAHCAB, CONKAL, HOCTÚN, KANASÍN, KAUA, RÍO LAGARTOS, SACALUM, TEKANTÓ, TEKOM, TETIZ, TEYA, UCÚ Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
