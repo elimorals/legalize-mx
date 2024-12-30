@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2023-12-29"
+last_updated: "2024-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATAN
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN, PUBLICADA EN EL D.O. DE 30 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -2528,3 +2528,11 @@ D.O. 29 DE DICIEMBRE DE 2023.
 Artículo primero. Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo. Se exceptúa de la vigencia señalada en el artículo anterior, lo dispuesto en el artículo 178 Bis, contenido en el artículo séptimo de este decreto relativo a las modificaciones a la Ley de Hacienda para el Municipio de Valladolid, Yucatán, el cual entrará en vigor el segundo semestre del año 2024.
+
+D.O. DE 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 27/2024 POR EL QUE SE EXPIDE LA “LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN”.]
+
+Artículo Primero.- Esta Ley entrará en vigor el día 1 de enero de 2025 previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.– Se abroga la Ley de Hacienda anterior, así como cualquier reforma o adición al mismo.
