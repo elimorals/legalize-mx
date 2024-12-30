@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-civica-para-el-estado-de-nuevo-leon-163825"
 country: "mx"
 rank: "ley"
 publication_date: "2023-01-24"
-last_updated: "2023-01-24"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA CÍVICA PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número 13 del Periódico Oficial del Estado de Nuevo León, el martes 24 de enero de 2023.
 
@@ -857,7 +857,9 @@ II. Contra la seguridad de la comunidad;
 
 III. Contra la tranquilidad, integridad y dignidad de las personas;
 
-IV. Contra la salud y el medio ambiente;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV. Contra la salud, el medio ambiente y la falta de limpieza de lotes baldíos o casas desocupadas;
 
 V. Contra la propiedad;
 
@@ -1466,3 +1468,11 @@ MTRA. MARTHA PATRICIA HERRERA GONZÁLEZ
 LA C. SECRETARIA DE SALUD
 
 DRA. ALMA ROSA MARROQUÍN ESCAMILLA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 025. SE MODIFICA EL ARTÍCULO 51 DE LA LEY DE JUSTICIA CÍVICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
