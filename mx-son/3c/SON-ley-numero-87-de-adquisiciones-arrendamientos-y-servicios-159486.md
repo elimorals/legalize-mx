@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-87-de-adquisiciones-arrendamientos-y-servicios-15948
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-28"
-last_updated: "2024-01-31"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 87 DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección II del Número 8 del Boletín Oficial, el jueves 28 de julio de 2022.
 
@@ -61,7 +61,9 @@ V.- Los municipios, con cargo total o parcial a recursos estatales, conforme a l
 
 Las personas de derecho público de carácter estatal con autonomía derivada de la Constitución Política del Estado Libre y Soberano de Sonora, los Municipios, así como las entidades paraestatales que cuenten con un régimen específico en materia de adquisiciones, arrendamientos y servicios, aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, sujetándose a sus propios órganos de control.
 
-Las adquisiciones, arrendamientos y servicios que se realicen por los Centros Públicos de Investigación con los recursos autogenerados de sus Fondos de Investigación Científica y Desarrollo Tecnológico previstos en la Ley de Ciencia, Tecnología e Innovación del Estado de Sonora, se regirán conforme a las reglas de operación de dichos fondos, a los criterios y procedimientos que en estas materias expidan los órganos de gobierno de estos Centros, así como a las disposiciones administrativas que, en su caso estime necesario expedir la Secretaría de la Contraloría General, o la Oficialía Mayor, en el ámbito de sus respectivas competencias, administrando dichos recursos con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados y asegurar al Centro las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Las adquisiciones, arrendamientos y servicios que se realicen por los Centros Públicos de Investigación con los recursos autogenerados de sus Fondos de Investigación Científica y Desarrollo Tecnológico previstos en la Ley de Ciencia, Tecnología e Innovación del Estado de Sonora, se regirán conforme a las reglas de operación de dichos fondos, a los criterios y procedimientos que en estas materias expidan los órganos de gobierno de estos Centros, así como a las disposiciones administrativas que, en su caso estime necesario expedir la Secretaría Anticorrupción y Buen Gobierno, o la Oficialía Mayor, en el ámbito de sus respectivas competencias, administrando dichos recursos con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados y asegurar al Centro las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 Queda exceptuada de la aplicación de la presente Ley, la adquisición de bienes o prestación de servicios para la salud que, en consolidación de necesidades con el gobierno federal, contraten las dependencias y/o entidades con organismos intergubernamentales internacionales, a través de mecanismos de colaboración previamente establecidos, siempre que se acredite la aplicación de los principios previstos en la Constitución Política del Estado Libre y Soberano de Sonora y la Constitución Política de los Estados Unidos Mexicanos
 
@@ -69,9 +71,13 @@ No aplicarán las disposiciones de la presente Ley a la operación, administraci
 
 Los contratos que celebren las dependencias con las entidades, o entre entidades, y los actos jurídicos que se celebren entre dependencias, o bien los que se lleven a cabo entre alguna dependencia o entidad de la Administración Pública Estatal con alguna perteneciente a la administración pública Federal o de una entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la dependencia o entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate un tercero para su realización.
 
-Tratándose de adquisiciones, arrendamientos o servicios que se contraten con micro, pequeñas y medianas empresas asentadas en municipios rurales reconocidos por la Constitución Política del Estado de Sonora, no aplicarán las disposiciones de la presente Ley, siempre y cuando la totalidad de las y los trabajadores de dichas empresas, sean residentes de municipios rurales. Los contratos de adquisiciones, arrendamientos y servicios a que se refiere este párrafo se regirán conforme a las disposiciones administrativas que expida la Secretaría de la Contraloría General del Poder Ejecutivo, o los órganos internos de control de los municipios, según corresponda al ámbito de sus respectivas atribuciones, a efecto de garantizar que la administración de los recursos públicos se ejerzan con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Los titulares de las dependencias y los órganos de gobierno de las entidades emitirán, bajo su responsabilidad y de conformidad con este mismo ordenamiento y los lineamientos generales que al efecto emita la Secretaría de la Contraloría General, las políticas, bases y lineamientos para las materias a que se refiere este artículo.
+Tratándose de adquisiciones, arrendamientos o servicios que se contraten con micro, pequeñas y medianas empresas asentadas en municipios rurales reconocidos por la Constitución Política del Estado de Sonora, no aplicarán las disposiciones de la presente Ley, siempre y cuando la totalidad de las y los trabajadores de dichas empresas, sean residentes de municipios rurales. Los contratos de adquisiciones, arrendamientos y servicios a que se refiere este párrafo se regirán conforme a las disposiciones administrativas que expida la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo, o los órganos internos de control de los municipios, según corresponda al ámbito de sus respectivas atribuciones, a efecto de garantizar que la administración de los recursos públicos se ejerzan con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Los titulares de las dependencias y los órganos de gobierno de las entidades emitirán, bajo su responsabilidad y de conformidad con este mismo ordenamiento y los lineamientos generales que al efecto emita la Secretaría Anticorrupción y Buen Gobierno, las políticas, bases y lineamientos para las materias a que se refiere este artículo.
 
 Las dependencias y entidades se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, que evadan lo previsto en este ordenamiento.
 
@@ -83,7 +89,9 @@ I.- Secretaría: la Secretaría de Hacienda;
 
 II.- CompraNet-Sonora: el sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos y servicios, integrado entre otra información, por los programas anuales en la materia, de las dependencias y entidades; el registro único de proveedores; el padrón de testigos sociales; el registro de proveedores sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los testimonios de los testigos sociales; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; las resoluciones de la instancia de inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación.
 
-El sistema estará a cargo de la Secretaría de la Contraloría General, a través de la unidad administrativa que se determine en su reglamento, la que establecerá los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga;
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+El sistema estará a cargo de la Oficialía Mayor y de la Secretaría Anticorrupción y Buen Gobierno, a través de las unidades administrativas que se determinen en su reglamento, los que establecerán los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga;
 
 III.- Dependencias: las señaladas en las fracciones I y II del artículo 1;
 
@@ -129,7 +137,9 @@ VII.- La prestación de servicios de personas físicas, excepto la contratación
 
 VIII.- La contratación de consultorías, asesorías, estudios e investigaciones; y
 
-IX.- En general, los servicios de cualquier naturaleza cuya prestación genere una obligación de pago con recurso público estatal, salvo que la contratación se encuentre regulada en forma específica por otras disposiciones legales. Corresponderá a la Secretaría de la Contraloría General, a solicitud de la dependencia o entidad de que se trate, determinar si un servicio se ubica en la hipótesis de esta fracción.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IX.- En general, los servicios de cualquier naturaleza cuya prestación genere una obligación de pago con recurso público estatal, salvo que la contratación se encuentre regulada en forma específica por otras disposiciones legales. Corresponderá a la Secretaría Anticorrupción y Buen Gobierno, a solicitud de la dependencia o entidad de que se trate, determinar si un servicio se ubica en la hipótesis de esta fracción.
 
 ###### ARTÍCULO 4.
 
@@ -141,13 +151,13 @@ Será responsabilidad de las dependencias y entidades contratar los servicios co
 
 Lo dispuesto en el párrafo anterior no será aplicable cuando por razón de la naturaleza de los bienes o el tipo de riesgos a los que están expuestos, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse o bien, se constate que no exista oferta de seguros en el mercado para los bienes de que se trate. La Secretaría autorizará previamente la aplicación de la excepción.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 6.
 
-La Secretaría de la Contraloría General estará facultada para interpretar esta Ley para efectos administrativos.
+La Secretaría Anticorrupción y Buen Gobierno estará facultada para interpretar esta Ley para efectos administrativos.
 
-La Secretaría de la Contraloría General dictará las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando en cuenta la opinión de la Oficialía Mayor. Las disposiciones de carácter general se publicarán en el Boletín Oficial del Gobierno del Estado.
-
-La Oficialía Mayor en el ámbito de sus atribuciones, estará encargada de establecer las directrices conforme a las cuales se determinarán los perfiles de puesto de los servidores públicos que de acuerdo a sus atribuciones o funciones intervienen en materia de contrataciones públicas, así como las relativas a la capacitación para el adecuado desempeño de sus funciones en las materias a que alude esta Ley.
+La Secretaría Anticorrupción y Buen Gobierno dictará las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley. tomando en cuenta la opinión de la Oficialía Mayor. Las disposiciones de carácter general se publicarán en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO 7.
 
@@ -185,9 +195,11 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a sesenta días,
 
 Las dependencias y entidades podrán, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas y motivadas, autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 14.
 
-En los procedimientos de contratación de carácter internacional abierto, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país y que cuenten con el porcentaje de contenido nacional indicado en el artículo 32 fracción I, de esta Ley, los cuales deberán contar, en la comparación económica de las proposiciones, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezca la Secretaría de Economía publicadas en el Boletín Oficial del Gobierno del Estado, o en tanto no se publiquen, aquellas establecidas y publicadas en el Diario Oficial de la Federación por el Gobierno Federal previa opinión de la Secretaría de la Contraloría General.
+En los procedimientos de contratación de carácter internacional abierto, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país y que cuenten con el porcentaje de contenido nacional indicado en el artículo 32 fracción I, de esta Ley, los cuales deberán contar, en la comparación económica de las proposiciones, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezca la Secretaría de Economía y Turismo publicadas en el Boletín Oficial del Gobierno del Estado, o en tanto no se publiquen, aquellas establecidas y publicadas en el Diario Oficial de la Federación por el Gobierno Federal previa opinión de la Secretaría Anticorrupción y Buen Gobierno.
 
 En el caso de licitación pública para la adquisición de bienes, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos en los términos de esta Ley, a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social. Asimismo, se otorgarán puntos a las micros, pequeñas o medianas empresas que produzcan bienes con innovación tecnológica, conforme a la constancia correspondiente emitida por el Instituto Mexicano de la Propiedad Industrial, la cual no podrá tener una vigencia mayor a cinco años. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
 
@@ -207,9 +219,11 @@ En el caso a que se refiere el párrafo anterior, cuando se acredite previamente
 
 En los supuestos previstos en los párrafos primero y tercero de este artículo, para acreditar la aplicación de los principios dispuestos por esta Ley, tanto la justificación de la selección del proveedor, como de los bienes, arrendamientos y servicios a contratar y el precio de los mismos, según las circunstancias que concurran en cada caso, deberá motivarse en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado, lo cual constará en un escrito firmado por el titular del área usuaria o requirente, y el dictamen de procedencia de la contratación será autorizado por el titular de la dependencia o entidad, o aquel servidor público en quien éste delegue dicha función. En ningún caso la delegación podrá recaer en servidor público con nivel inferior al de director general en las dependencias o su equivalente en las entidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
-La Oficialía Mayor, mediante disposiciones de carácter general, oyendo la opinión de la Secretaría de la Contraloría General, determinará, en su caso, los bienes, arrendamientos o servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar las dependencias y entidades con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo.
+La Oficialía Mayor, mediante disposiciones de carácter general, oyendo la opinión de la Secretaría Anticorrupción y Buen Gobierno, determinará, en su caso, los bienes, arrendamientos o servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar las dependencias y entidades con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo.
 
 La Oficialía Mayor, en los términos del Reglamento de esta Ley, podrá promover contratos marco, previa determinación de las características técnicas y de calidad acordadas con las dependencias y entidades, mediante los cuales éstas adquieran bienes, arrendamientos o servicios, a través de la suscripción de contratos específicos.
 
@@ -241,7 +255,9 @@ La delegación a que se refiere el párrafo anterior, en ningún caso podrá rec
 
 Las dependencias y entidades pondrán a disposición del público en general, a través de CompraNet-Sonora y de su página en Internet, a más tardar el 31 de enero de cada año, su programa anual de adquisiciones, arrendamientos y servicios correspondiente al ejercicio fiscal de que se trate, con excepción de aquella información que, de conformidad con las disposiciones aplicables, sea de naturaleza reservada o confidencial, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora.
 
-Las adquisiciones, arrendamientos y servicios contenidas en el citado programa podrán ser adicionadas, modificadas, suspendidas o canceladas, sin responsabilidad alguna para la dependencia o entidad de que se trate, debiendo informar de ello a la Secretaría de la Contraloría General, Oficialía Mayor y Comité Central y actualizar en forma mensual el programa en CompraNet-Sonora.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Las adquisiciones, arrendamientos y servicios contenidas en el citado programa podrán ser adicionadas, modificadas, suspendidas o canceladas, sin responsabilidad alguna para la dependencia o entidad de que se trate, debiendo informar de ello a la Secretaría Anticorrupción y Buen Gobierno, Oficialía Mayor y Comité Central y actualizar en forma mensual el programa en CompraNet-Sonora.
 
 ## TÍTULO SEGUNDO. COMITÉ CENTRAL DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -257,7 +273,9 @@ II.- Un Secretario Ejecutivo, que será el Titular de la Subsecretaría de Recur
 
 III.- Vocales, los Directores Generales de Administración u homólogos de las dependencias, así como de los Órganos Desconcentrados que cuenten con su propio Comité de Adquisiciones, Arrendamientos y Prestación de Servicios;
 
-IV.- Asesores, un representante de la Secretaría de la Contraloría General, uno de la Consejería Jurídica y uno de la Secretaría, diversos a los que participen como vocales, quienes deberán tener nivel mínimo de director, y los demás que determine el propio Comité Central; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV.- Asesores, un representante de la Secretaría Anticorrupción y Buen Gobierno, uno de la Consejería Jurídica y uno de la Secretaría, diversos a los que participen como vocales, quienes deberán tener nivel mínimo de director, y los demás que determine el propio Comité Central; y
 
 V.- Un Secretario Técnico, que será designado por el Secretario Ejecutivo.
 
@@ -321,11 +339,17 @@ Los integrantes del Comité con derecho a voz y voto, así como los asesores del
 
 VII.- Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
 
-La Secretaría de la Contraloría General podrá autorizar la creación de comités en órganos desconcentrados, cuando la cantidad y monto de sus operaciones o las características de sus funciones así lo justifiquen.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-En los casos en que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique la instalación de un comité, la Secretaría de la Contraloría General podrá autorizar la excepción correspondiente.
+La Secretaría Anticorrupción y Buen Gobierno podrá autorizar la creación de comités en órganos desconcentrados, cuando la cantidad y monto de sus operaciones o las características de sus funciones así lo justifiquen.
 
-La Secretaría de la Contraloría General podrá participar como asesor en los comités y subcomités a que se refiere este artículo, pronunciándose de manera fundada y motivada al emitir sus opiniones.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En los casos en que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique la instalación de un comité, Secretaría Anticorrupción y Buen Gobierno podrá autorizar la excepción correspondiente.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno podrá participar como asesor en los comités y subcomités a que se refiere este artículo, pronunciándose de manera fundada y motivada al emitir sus opiniones.
 
 ###### ARTÍCULO 24.
 
@@ -413,15 +437,23 @@ III.- Mixta: en la cual los licitantes, a su elección, podrán participar en fo
 
 Los sujetos obligados por la presente Ley, deberán priorizar las licitaciones públicas electrónicas frente a las presenciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 30.
 
-En las licitaciones públicas, que determine la Secretaría de la Contraloría General atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad, participarán testigos sociales conforme a lo siguiente:
+En las licitaciones públicas, que determine la Secretaría Anticorrupción y Buen Gobierno atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad, participarán testigos sociales conforme a lo siguiente:
 
-I.- La Secretaría de la Contraloría General tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta Ley, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad, en CompraNet-Sonora y se integrará al expediente respectivo.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II.- Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por la Secretaría de la Contraloría General.
+I.- La Secretaría Anticorrupción y Buen Gobierno tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta Ley, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad, en CompraNet-Sonora y se integrará al expediente respectivo;
 
-III.- La Secretaría de la Contraloría General, acreditará como testigos sociales a aquéllas personas que cumplan con los siguientes requisitos:
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II.- Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por la Secretaría Anticorrupción y Buen Gobierno;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- La Secretaría Anticorrupción y Buen Gobierno, acreditará como testigos sociales a aquellas personas que cumplan con los siguientes requisitos:
 
 a).- Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
 
@@ -435,17 +467,23 @@ e).- No haber sido sancionado como servidor público ya sea federal, estatal, mu
 
 f).- Presentar currículo en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso, docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
 
-g).- Asistir a los cursos de capacitación que imparte la Secretaría de la Contraloría General sobre esta Ley y tratados; y
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+g).- Asistir a los cursos de capacitación que imparte la Secretaría Anticorrupción y Buen Gobierno sobre esta Ley y tratados; y
 
 h).- Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar.
 
 IV.- Los testigos sociales tendrán las funciones siguientes:
 
-a).- Proponer a las dependencias, entidades y a la Secretaría de la Contraloría General mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+a).- Proponer a las dependencias, entidades y a la Secretaría Anticorrupción y Buen Gobierno mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
 
 b).- Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones, y
 
-c).- Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Secretaría de la Contraloría General. Dicho testimonio deberá ser publicado dentro de los diez días naturales siguientes a su participación en la página de Internet de la dependencia o entidad que corresponda.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+c).- Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Secretaría Anticorrupción y Buen Gobierno. Dicho testimonio deberá ser publicado dentro de los diez días naturales siguientes a su participación en la página de Internet de la dependencia o entidad que corresponda.
 
 En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al área de quejas del órgano interno de control de la dependencia o entidad convocante.
 
@@ -453,13 +491,19 @@ Se podrá exceptuar la participación de los testigos sociales en aquéllos caso
 
 El Reglamento de esta Ley especificará los montos de la contraprestación al testigo social en función de la importancia y del presupuesto asignado a la contratación.
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Las licitaciones públicas podrán llevarse a cabo a través de medios electrónicos, conforme a las disposiciones administrativas que emita la Secretaría de la Contraloría General, en cuyo caso las unidades administrativas que se encuentren autorizadas por la misma, estarán obligadas a realizar todos sus procedimientos de licitación mediante dicha vía, salvo en los casos justificados que autorice la Secretaría de la Contraloría General.
+###### ARTICULO 31.
 
-La Secretaría de la Contraloría General operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen las dependencias, entidades o los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+Las licitaciones públicas podrán llevarse a cabo a través de medios electrónicos, conforme a las disposiciones administrativas que emita la Secretaría Anticorrupción y Buen Gobierno, en cuyo caso las unidades administrativas que se encuentren autorizadas por la misma, estarán obligadas a realizar todos sus procedimientos de licitación mediante dicha vía, salvo en los casos justificados que autorice la Secretaría Anticorrupción y Buen Gobierno.
 
-La Secretaría de la Contraloría General podrá aceptar la certificación o identificación electrónica que otorguen las dependencias y entidades, las entidades federativas, municipios y los entes públicos de unas y otros, así como terceros facultados por autoridad competente en la materia, cuando los sistemas de certificación empleados se ajusten a las disposiciones que emita la Secretaría de la Contraloría General.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen las dependencias, entidades o los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno podrá aceptar la certificación o identificación electrónica que otorguen las dependencias y entidades, las entidades federativas, municipios y los entes públicos de unas y otros, así como terceros facultados por autoridad competente en la materia, cuando los sistemas de certificación empleados se ajusten a las disposiciones que emita la Secretaría Anticorrupción y Buen Gobierno.
 
 El sobre que contenga la proposición de los licitantes deberá entregarse en la forma y medios que prevea la convocatoria a la licitación.
 
@@ -471,9 +515,11 @@ Las proposiciones presentadas deberán ser firmadas autógrafamente por los lici
 
 El carácter de las licitaciones públicas, será:
 
-I.- Nacional: en la cual únicamente podrán participar personas de nacionalidad mexicana y los bienes a adquirir sean producidos en el país y cuenten, por lo menos, con un cincuenta por ciento de contenido nacional, el que se determinará tomando en cuenta la mano de obra, insumos de los bienes y demás aspectos que determine la Secretaría de Economía mediante reglas de carácter general que se publicarán en el Boletín Oficial del Gobierno del Estado, o en tanto no se publique, aquella establecida y publicada en el Diario Oficial de la Federación por el Gobierno Federal.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-La Secretaría de Economía mediante reglas de carácter general que se publicarán en el Boletín Oficial del Gobierno del Estado, o en tanto no se publique, aquella establecida y publicada en el Diario Oficial de la Federación por el Gobierno Federal, establecerá los casos de excepción correspondientes a dicho contenido, así como un procedimiento expedito para determinar el porcentaje del mismo, previa opinión de la Secretaría de la Contraloría General.
+I.- Nacional: en la cual únicamente podrán participar personas de nacionalidad mexicana y los bienes a adquirir sean producidos en el país y cuenten, por lo menos, con un cincuenta por ciento de contenido nacional, el que se determinará tomando en cuenta la mano de obra, insumos de los bienes y demás aspectos que determine la Secretaría de Economía y Turismo mediante reglas de carácter general que se publicarán en el Boletín Oficial del Gobierno del Estado, o en tanto no se publique, aquella establecida y publicada en el Diario Oficial de la Federación por el Gobierno Federal.
+
+La Secretaría de Economía y Turismo mediante reglas de carácter general que se publicarán en el Boletín Oficial del Gobierno del Estado, o en tanto no se publique, aquella establecida y publicada en el Diario Oficial de la Federación por el Gobierno Federal, establecerá los casos de excepción correspondientes a dicho contenido, así como un procedimiento expedito para determinar el porcentaje del mismo, previa opinión de la Secretaría Anticorrupción y Buen Gobierno.
 
 Tratándose de la contratación de arrendamientos y servicios, únicamente podrán participar personas de nacionalidad mexicana.
 
@@ -493,7 +539,9 @@ En los casos en que una licitación pública nacional haya sido declarada desier
 
 Cuando en los procedimientos de contratación de servicios, se incluya el suministro de bienes muebles y el valor de éstos sea igual o superior al cincuenta por ciento del valor total de la contratación, la operación se considerará como adquisición de bienes muebles. Para efectos de lo anterior, en el concepto de suministro de bienes muebles, sólo se considerarán los bienes que formarán parte del inventario de las dependencias o entidades convocantes.
 
-En las licitaciones públicas se podrá utilizar la modalidad de ofertas subsecuentes de descuentos para la adquisición de bienes muebles o servicios cuya descripción y características técnicas puedan ser objetivamente definidas y la evaluación legal y técnica de las proposiciones de los licitantes se pueda (sic) realizar en forma inmediata, al concluir la celebración del acto de presentación y apertura de proposiciones, conforme a los lineamientos que expida la Secretaría de la Contraloría General, siempre que las dependencias o entidades convocantes justifiquen debidamente el uso de dicha modalidad y que constaten que existe competitividad suficiente de conformidad con la investigación de mercado correspondiente.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En las licitaciones públicas se podrá utilizar la modalidad de ofertas subsecuentes de descuentos para la adquisición de bienes muebles o servicios cuya descripción y características técnicas puedan ser objetivamente definidas y la evaluación legal y técnica de las proposiciones de los licitantes se pueda (sic) realizar en forma inmediata, al concluir la celebración del acto de presentación y apertura de proposiciones, conforme a los lineamientos que expida la Secretaría Anticorrupción y Buen Gobierno, siempre que las dependencias o entidades convocantes justifiquen debidamente el uso de dicha modalidad y que constaten que existe competitividad suficiente de conformidad con la investigación de mercado correspondiente.
 
 Tratándose de licitaciones públicas en las que participen de manera individual micro, pequeñas y medianas empresas nacionales, no se aplicará la modalidad de ofertas subsecuentes de descuento.
 
@@ -527,7 +575,9 @@ XII.- La indicación de si la totalidad de los bienes o servicios objeto de la l
 
 XIII.- Los criterios específicos que se utilizarán para la evaluación de las proposiciones y adjudicación de los contratos, debiéndose utilizar preferentemente los criterios de puntos y porcentajes, o el de costo beneficio;
 
-XIV.- El domicilio de las oficinas de la Secretaría de la Contraloría General, o en su caso el medio electrónico en que podrán presentarse inconformidades, de acuerdo a lo dispuesto en el artículo 76 de la presente Ley;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XIV.- El domicilio de las oficinas de la Secretaría Anticorrupción y Buen Gobierno, o en su caso el medio electrónico en que podrán presentarse inconformidades, de acuerdo a lo dispuesto en el artículo 76 de la presente Ley;
 
 XV.- Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes; y
 
@@ -577,13 +627,17 @@ Al concluir cada junta de aclaraciones podrá señalarse la fecha y hora para la
 
 De cada junta de aclaraciones se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados y las respuestas de la convocante. En el acta correspondiente a la última junta de aclaraciones se indicará expresamente esta circunstancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 38.
 
-La entrega de proposiciones se hará en sobre cerrado que contendrá la oferta técnica y económica. En el caso de las proposiciones presentadas a través de CompraNet-Sonora, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto establezca la Secretaría de la Contraloría General.
+La entrega de proposiciones se hará en sobre cerrado que contendrá la oferta técnica y económica. En el caso de las proposiciones presentadas a través de CompraNet-Sonora, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto establezca la Secretaría Anticorrupción y Buen Gobierno.
 
 La documentación distinta a la proposición podrá entregarse, a elección del licitante, dentro o fuera del sobre que la contenga.
 
-Dos o más personas podrán presentar conjuntamente una proposición sin necesidad de constituir una sociedad, o una nueva sociedad en caso de personas morales; para tales efectos, en la proposición y en el contrato se establecerán con precisión las obligaciones de cada una de ellas, así como la manera en que se exigiría su cumplimiento. En este supuesto la proposición deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por la Secretaría de la Contraloría General.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Dos o más personas podrán presentar conjuntamente una proposición sin necesidad de constituir una sociedad, o una nueva sociedad en caso de personas morales; para tales efectos, en la proposición y en el contrato se establecerán con precisión las obligaciones de cada una de ellas, así como la manera en que se exigiría su cumplimiento. En este supuesto la proposición deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas, ya sea autógrafamente o por los medios de identificación electrónica autorizados por la Secretaría Anticorrupción y Buen Gobierno.
 
 Cuando la proposición conjunta resulte adjudicada con un contrato, dicho instrumento deberá ser firmado por el representante legal de cada una de las personas participantes en la proposición, a quienes se considerará, para efectos del procedimiento y del contrato, como responsables solidarios o mancomunados, según se establezca en el propio contrato.
 
@@ -675,7 +729,9 @@ En los casos en que no existan proveedores nacionales, en las políticas, bases 
 
 Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, la dependencia o entidad podrá emitir una segunda convocatoria, o bien optar por el supuesto de excepción previsto en el artículo 47 fracción VII de esta Ley. Cuando los requisitos o el carácter sea modificado con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
 
-Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en éstas, cuando se presente caso fortuito; fuerza mayor; existan circunstancias justificadas que extingan la necesidad para adquirir los bienes, arrendamientos o servicios, o que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes, a la Secretaría de la Contraloría General y a la Oficialía Mayor, y no será procedente contra ella recurso alguno, sin embargo, podrán interponer la inconformidad en términos del Título Séptimo, Capítulo Primero de esta Ley.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en éstas, cuando se presente caso fortuito; fuerza mayor; existan circunstancias justificadas que extingan la necesidad para adquirir los bienes, arrendamientos o servicios, o que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes, a la Secretaría Anticorrupción y Buen Gobierno y a la Oficialía Mayor, y no será procedente contra ella recurso alguno, sin embargo, podrán interponer la inconformidad en términos del Título Séptimo, Capítulo Primero de esta Ley.
 
 Salvo en las cancelaciones por caso fortuito y fuerza mayor, la dependencia o entidad cubrirá a los licitantes los gastos no recuperables que, en su caso, procedan en términos de lo dispuesto por el reglamento de esta Ley.
 
@@ -803,7 +859,9 @@ En el supuesto de que un procedimiento de invitación a cuando menos tres person
 
 En las adquisiciones, arrendamientos y servicios deberá pactarse la condición de precio fijo. No obstante, en casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la convocante previamente a la presentación de las proposiciones.
 
-Cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados o aún no pagados, y que por tal razón no pudieron haber sido objeto de consideración en la proposición que sirvió de base para la adjudicación del contrato correspondiente, las dependencias y entidades deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que, en su caso, emita la Secretaría de la Contraloría General.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados o aún no pagados, y que por tal razón no pudieron haber sido objeto de consideración en la proposición que sirvió de base para la adjudicación del contrato correspondiente, las dependencias y entidades deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que, en su caso, emita la Secretaría Anticorrupción y Buen Gobierno.
 
 Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
@@ -857,7 +915,9 @@ XXII.- Los demás aspectos y requisitos previstos en la convocatoria a la licita
 
 Para los efectos de esta Ley, la convocatoria a la licitación, el contrato y sus anexos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en la convocatoria a la licitación y sus juntas de aclaraciones; en caso de discrepancia, prevalecerá lo estipulado en éstas.
 
-En la formalización de los contratos, podrán utilizarse los medios de comunicación electrónica que al efecto autorice la Secretaría de la Contraloría General.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En la formalización de los contratos, podrán utilizarse los medios de comunicación electrónica que al efecto autorice la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### ARTÍCULO 52.
 
@@ -895,7 +955,9 @@ I.- Los anticipos que, en su caso, reciban. Estas garantías deberán constituir
 
 II.- El cumplimiento de los contratos.
 
-Para los efectos de este artículo, los titulares de las dependencias o los órganos de gobierno de las entidades, fijarán las bases, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse, considerando los antecedentes de cumplimiento de los proveedores en los contratos celebrados con las dependencias y entidades, a efecto de determinar montos menores para éstos, de acuerdo a los lineamientos que al efecto emita la Secretaría de la Contraloría General. En los casos señalados en las fracciones II, IV, V, XI y XIV del artículo 47 y 48 de esta Ley, el servidor público que deba firmar el contrato, bajo su responsabilidad, podrá exceptuar al proveedor, de presentar la garantía de cumplimiento del contrato respectivo.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Para los efectos de este artículo, los titulares de las dependencias o los órganos de gobierno de las entidades, fijarán las bases, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse, considerando los antecedentes de cumplimiento de los proveedores en los contratos celebrados con las dependencias y entidades, a efecto de determinar montos menores para éstos, de acuerdo a los lineamientos que al efecto emita la Secretaría Anticorrupción y Buen Gobierno. En los casos señalados en las fracciones II, IV, V, XI y XIV del artículo 47 y 48 de esta Ley, el servidor público que deba firmar el contrato, bajo su responsabilidad, podrá exceptuar al proveedor, de presentar la garantía de cumplimiento del contrato respectivo.
 
 Las personas representantes de la sociedad civil que intervengan como testigos en los procedimientos de contratación, estarán exceptuados de otorgar garantía de cumplimiento del contrato correspondiente.
 
@@ -915,11 +977,15 @@ Las dependencias y entidades se abstendrán de recibir proposiciones o adjudicar
 
 I.- Aquéllas en que el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
 
-II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría de la Contraloría General;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría Anticorrupción y Buen Gobierno;
 
 III.- Aquellos proveedores que, por causas imputables a ellos mismos, la dependencia o entidad convocante les hubiere rescindido administrativamente más de un contrato, dentro de un lapso de dos años calendario contados a partir de la notificación de la primera rescisión. Dicho impedimento prevalecerá ante la propia dependencia o entidad convocante por el plazo que se establezca en las políticas, bases y lineamientos a que se refiere el artículo 1 de esta Ley, el cual no podrá ser superior a dos años calendario contados a partir de la notificación de la rescisión del segundo contrato;
 
-IV.- Las que se encuentren inhabilitadas por resolución de la Secretaría de la Contraloría General en los términos del Título Sexto de este ordenamiento y Título Cuarto, Capítulo IV de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV.- Las que se encuentren inhabilitadas por resolución de la Secretaría Anticorrupción y Buen Gobierno en los términos del Título Sexto de este ordenamiento y Título Cuarto, Capítulo IV de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora;
 
 V.- Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la propia dependencia o entidad, siempre y cuando éstas hayan resultado gravemente perjudicadas;
 
@@ -951,7 +1017,7 @@ El titular del área de administración de la dependencia o entidad, deberá lle
 
 La fecha de pago al proveedor estipulada en los contratos quedará sujeta a las condiciones que establezcan las mismas; sin embargo, no podrá exceder de veinte días naturales contados a partir de la entrega de la factura respectiva, previa entrega de los bienes o prestación de los servicios en los términos del contrato.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2024)</small>
 
 En caso de incumplimiento en los pagos a que se refiere el párrafo anterior, la dependencia o entidad, a solicitud del proveedor, deberá pagar gastos financieros conforme a una tasa que será igual al seis por ciento anual. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
 
@@ -1005,9 +1071,11 @@ Al no dar por rescindido el contrato, la dependencia o entidad establecerá con 
 
 Cuando por motivo del atraso en la entrega de los bienes o la prestación de los servicios, o el procedimiento de rescisión se ubique en un ejercicio fiscal diferente a aquel en que hubiere sido adjudicado el contrato, la dependencia o entidad convocante podrá recibir los bienes o servicios, previa verificación de que continúa vigente la necesidad de los mismos y se cuenta con partida y disponibilidad presupuestaria del ejercicio fiscal vigente, debiendo modificarse la vigencia del contrato con los precios originalmente pactados. Cualquier pacto en contrario a lo dispuesto en este artículo se considerará nulo.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 62.
 
-La dependencia o entidad podrá dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Estado, o se determine la nulidad de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad o intervención de oficio emitida por la Secretaría de la Contraloría General. Los titulares de las áreas requirentes deberán realizar un dictamen de terminación anticipada en el que fundamenten y motiven las razones que dan origen a la situación. En estos supuestos la dependencia o entidad reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
+La dependencia o entidad podrá dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Estado, o se determine la nulidad de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad o intervención de oficio emitida por la Secretaría Anticorrupción y Buen Gobierno. Los titulares de las áreas requirentes deberán realizar un dictamen de terminación anticipada en el que fundamenten y motiven las razones que dan origen a la situación. En estos supuestos la dependencia o entidad reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
 
 ###### ARTÍCULO 63.
 
@@ -1029,11 +1097,15 @@ En cualquiera de los casos previstos en este artículo, se pactará por las part
 
 ### CAPÍTULO ÚNICO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 65.
 
-La forma y términos en que las dependencias y entidades deberán remitir a la Secretaría de la Contraloría General, a la Secretaría, a la Oficialía Mayor y a la Secretaría de Economía, la información relativa a los actos y los contratos materia de esta Ley, serán establecidos por dichas secretarías, en el ámbito de sus respectivas atribuciones.
+La forma y términos en que las dependencias y entidades deberán remitir a la Secretaría Anticorrupción y Buen Gobierno, a la Secretaría y a la Oficialía Mayor, la información relativa a los actos y los contratos materia de esta Ley, serán establecidos por dichas secretarías, en el ámbito de sus respectivas atribuciones.
 
-La administración del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos y servicios, estará a cargo de la Secretaría de la Contraloría General, a través de la unidad administrativa que determine su reglamento, en el cual las dependencias, entidades y los demás sujetos de esta Ley, deberán incorporar la información que ésta les requiera.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La administración del sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos y servicios, estarán a cargo de la Oficialía Mayor y la Secretaría Anticorrupción y Buen Gobierno a través de las unidades administrativas que determinen sus reglamentos respectivamente, en el cual las dependencias, entidades y los demás sujetos de esta Ley, deberán incorporar la información que ésta les requiera.
 
 El sistema a que se refiere el párrafo anterior, tendrá los siguientes fines:
 
@@ -1073,17 +1145,21 @@ Este registro deberá ser permanente y estar a disposición de cualquier interes
 
 Dicho registro tendrá únicamente efectos declarativos respecto de la inscripción de proveedores, sin que dé lugar a efectos constitutivos de derechos u obligaciones.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 67.
 
-La Secretaría de la Contraloría General, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables.
+La Secretaría Anticorrupción y Buen Gobierno, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables.
 
-La Secretaría de Economía, atento a sus facultades y atribuciones podrá verificar que los bienes cumplan con los requisitos relativos al grado de contenido nacional o a las reglas de origen o mercado y, en caso de que éstos no cumplan con dichos requisitos, informará a la Secretaría de la Contraloría General.
+La Secretaría de Economía y Turismo, atento a sus facultades y atribuciones podrá verificar que los bienes cumplan con los requisitos relativos al grado de contenido nacional o a las reglas de origen o mercado y, en caso de que éstos no cumplan con dichos requisitos, informará a la Secretaría Anticorrupción y Buen Gobierno.
 
-La Secretaría de la Contraloría General podrá realizar las visitas e inspecciones que estime pertinentes a las dependencias y entidades que realicen adquisiciones, arrendamientos y servicios, e igualmente podrá solicitar a los servidores públicos y a los proveedores que participen en ellas todos los datos e informes relacionados con los actos de que se trate.
+La Secretaría Anticorrupción y Buen Gobierno podrá realizar las visitas e inspecciones que estime pertinentes a las dependencias y entidades que realicen adquisiciones, arrendamientos y servicios, e igualmente podrá solicitar a los servidores públicos y a los proveedores que participen en ellas todos los datos e informes relacionados con los actos de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 68.
 
-La Secretaría de la Contraloría General podrá verificar la calidad de los bienes muebles a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad.
+La Secretaría Anticorrupción y Buen Gobierno podrá verificar la calidad de los bienes muebles a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad.
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la dependencia o entidad respectiva, si hubieren intervenido. La falta de firma del proveedor no invalidará dicho dictamen.
 
@@ -1091,15 +1167,19 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 69.
 
-Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Secretaría de la Contraloría General con multa equivalente a la cantidad de cincuenta hasta mil Unidades de Medida y Actualización.
+Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Secretaría Anticorrupción y Buen Gobierno con multa equivalente a la cantidad de cincuenta hasta mil Unidades de Medida y Actualización.
 
 Cuando los licitantes, injustificadamente y por causas imputables a los mismos, no formalicen contratos cuyo monto no exceda de cincuenta veces el salario mínimo general vigente en el Estado elevado al mes, serán sancionados con multa equivalente a la cantidad de diez hasta cuarenta y cinco Unidades de Medida y Actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 70.
 
-La Secretaría de la Contraloría General, además de la sanción a que se refiere el primer párrafo del artículo anterior, inhabilitará temporalmente para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por esta Ley, a las personas que se encuentren en alguno de los supuestos siguientes:
+La Secretaría Anticorrupción y Buen Gobierno, además de la sanción a que se refiere el primer párrafo del artículo anterior, inhabilitará temporalmente para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por esta Ley, a las personas que se encuentren en alguno de los supuestos siguientes:
 
 I.- Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen dos o más contratos que les haya adjudicado cualquier dependencia o entidad en el plazo de dos años calendario, contados a partir del día en que haya fenecido el término para la formalización del primer contrato no formalizado;
 
@@ -1113,17 +1193,25 @@ V.- Las que se encuentren en el supuesto de la fracción XII del artículo 56 de
 
 VI.- Aquéllas que se encuentren en el supuesto del segundo párrafo del artículo 84 de esta Ley.
 
-La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Secretaría de la Contraloría General la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Boletín Oficial del Gobierno del Estado y en CompraNet-Sonora.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Secretaría Anticorrupción y Buen Gobierno la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Boletín Oficial del Gobierno del Estado y en CompraNet-Sonora.
 
 Si al día en que se cumpla el plazo de inhabilitación a que se refiere el párrafo que antecede el sancionado no ha pagado la multa que hubiere sido impuesta en términos del artículo anterior, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
 
-Las dependencias y entidades dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Secretaría de la Contraloría General la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-En casos excepcionales, previa autorización de la Secretaría de la Contraloría General, las dependencias y entidades podrán aceptar proposiciones de proveedores inhabilitados cuando resulte indispensable por ser éstos los únicos posibles oferentes en el mercado.
+Las dependencias y entidades dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Secretaría Anticorrupción y Buen Gobierno la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En casos excepcionales, previa autorización de la Secretaría Anticorrupción y Buen Gobierno, las dependencias y entidades podrán aceptar proposiciones de proveedores inhabilitados cuando resulte indispensable por ser éstos los únicos posibles oferentes en el mercado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 71.
 
-La Secretaría de la Contraloría General impondrá las sanciones considerando:
+La Secretaría Anticorrupción y Buen Gobierno impondrá las sanciones considerando:
 
 I.- Los daños o perjuicios que se hubieren producido con motivo de la infracción;
 
@@ -1133,13 +1221,17 @@ III.- La gravedad de la infracción; y
 
 IV.- Las condiciones del infractor.
 
-En la tramitación del procedimiento para imponer las sanciones a que se refiere este Título, la Secretaría de la Contraloría General deberá observar lo dispuesto por la Ley de Procedimiento Administrativo del Estado de Sonora, aplicando supletoriamente tanto el Código Civil, como el Código de Procedimientos Civiles para el Estado de Sonora.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 72.
+En la tramitación del procedimiento para imponer las sanciones a que se refiere este Título, la Secretaría Anticorrupción y Buen Gobierno deberá observar lo dispuesto por la Ley de Procedimiento Administrativo del Estado de Sonora, aplicando supletoriamente tanto el Código Civil, como el Código de Procedimientos Civiles para el Estado de Sonora.
 
-La Secretaría de la Contraloría General aplicará las sanciones que procedan a quienes infrinjan las disposiciones de este ordenamiento, conforme a lo dispuesto por la Ley de Responsabilidades y Sanciones para el Estado de Sonora.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-La Secretaría de la Contraloría General, en uso de las atribuciones que le confiere la Ley citada en el párrafo anterior, podrá abstenerse de iniciar los procedimientos previstos en ella, cuando de las investigaciones o revisiones practicadas se advierta que el acto u omisión no es grave, o no implica la probable comisión de algún delito o perjuicio patrimonial a la dependencia o entidad, o que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, hubieren producido, desaparecieron o se hayan resarcido.
+###### ARTICULO 72.
+
+La Secretaría Anticorrupción y Buen Gobierno aplicará las sanciones que procedan a quienes infrinjan las disposiciones de este ordenamiento, conforme a lo dispuesto por la Ley de Responsabilidades y Sanciones para el Estado de Sonora.
+
+La Secretaría Anticorrupción y Buen Gobierno, en uso de las atribuciones que le confiere la Ley citada en el párrafo anterior, podrá abstenerse de iniciar los procedimientos previstos en ella, cuando de las investigaciones o revisiones practicadas se advierta que el acto u omisión no es grave, o no implica la probable comisión de algún delito o perjuicio patrimonial a la dependencia o entidad, o que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, hubieren producido, desaparecieron o se hayan resarcido.
 
 ###### ARTÍCULO 73.
 
@@ -1153,9 +1245,11 @@ No se impondrán sanciones cuando se haya incurrido en la infracción por causa 
 
 ### CAPÍTULO PRIMERO. DE LA INSTANCIA DE INCONFORMIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 75.
 
-La Secretaría de la Contraloría General conocerá de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública o invitación a cuando menos tres personas que se indican a continuación:
+La Secretaría Anticorrupción y Buen Gobierno conocerá de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública o invitación a cuando menos tres personas que se indican a continuación:
 
 I.- La convocatoria a la licitación, y las juntas de aclaraciones.
 
@@ -1179,11 +1273,15 @@ En esta hipótesis, la inconformidad sólo podrá presentarse por quien haya res
 
 En todos los casos en que se trate de licitantes que hayan presentado proposición conjunta, la inconformidad sólo será procedente si se promueve conjuntamente por todos los integrantes de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 76.
 
-La inconformidad deberá presentarse por escrito, directamente en las oficinas de la Secretaría de la Contraloría General o a través de CompraNet-Sonora.
+La inconformidad deberá presentarse por escrito, directamente en las oficinas de la Secretaría Anticorrupción y Buen Gobierno o a través de CompraNet-Sonora.
 
-La Secretaría de la Contraloría General podrá celebrar convenios de coordinación con los municipios, a fin de que éstos conozcan y resuelvan, en los términos previstos por la presente Ley, de las inconformidades que se deriven de los procedimientos de contratación que se convoquen en los términos previstos por el artículo 1 fracción V de esta Ley. En este supuesto, la convocatoria a la licitación indicará las oficinas en que deberán presentarse las inconformidades, haciendo referencia a la disposición del convenio que en cada caso se tenga celebrado; de lo contrario, se estará a lo previsto en el párrafo anterior.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno podrá celebrar convenios de coordinación con los municipios, a fin de que éstos conozcan y resuelvan, en los términos previstos por la presente Ley, de las inconformidades que se deriven de los procedimientos de contratación que se convoquen en los términos previstos por el artículo 1, fracción V, de esta Ley. En este supuesto, la convocatoria a la licitación indicará las oficinas en que deberán presentarse las inconformidades, haciendo referencia a la disposición del convenio que en cada caso se tenga celebrado; de lo contrario, se estará a lo previsto en el párrafo anterior.
 
 La interposición de la inconformidad en forma o ante autoridad diversa a las señaladas en los párrafos anteriores, según cada caso, no interrumpirá el plazo para su oportuna presentación.
 
@@ -1205,7 +1303,9 @@ Al escrito de inconformidad deberá acompañarse el documento que acredite la pe
 
 En las inconformidades que se presenten a través de CompraNet-Sonora, deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa.
 
-En las inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para tales efectos expida la Secretaría de la Contraloría General, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En las inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para tales efectos expida la Secretaría Anticorrupción y Buen Gobierno, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
 
 La autoridad que conozca de la inconformidad prevendrá al promovente cuando hubiere omitido alguno de los requisitos señalados en las fracciones I, III, IV y V de este artículo, a fin de que subsane dichas omisiones, apercibiéndole que en caso de no hacerlo en el plazo de tres días hábiles se desechará su inconformidad, salvo el caso de las pruebas, cuya omisión tendrá como consecuencia que se tengan por no ofrecidas.
 
@@ -1253,7 +1353,9 @@ II.- Por rotulón, que se fijará en lugar visible y de fácil acceso al públic
 
 III.- Por oficio, aquéllas dirigidas a la convocante.
 
-Las notificaciones a que se refiere este artículo podrán realizarse a través de CompraNet-Sonora, conforme a las reglas que al efecto establezca la Secretaría de la Contraloría General. Adicionalmente, para el caso de las notificaciones personales se dará aviso por correo electrónico.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Las notificaciones a que se refiere este artículo podrán realizarse a través de CompraNet-Sonora, conforme a las reglas que al efecto establezca la Secretaría Anticorrupción y Buen Gobierno. Adicionalmente, para el caso de las notificaciones personales se dará aviso por correo electrónico.
 
 ###### ARTÍCULO 80.
 
@@ -1355,15 +1457,21 @@ Si se acredita que la resolución no fue cumplimentada según las directrices fi
 
 La resolución que ponga fin al incidente previsto en este artículo podrá impugnarse por el inconforme o tercero interesado mediante el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Estado de Sonora, o bien, cuando proceda, ante las instancias jurisdiccionales competentes.
 
-El desacato de las convocantes a las resoluciones y acuerdos que emita la Secretaría de la Contraloría General en los procedimientos de inconformidad será sancionado de acuerdo a lo previsto en la Ley Estatal de Responsabilidades Administrativas.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+El desacato de las convocantes a las resoluciones y acuerdos que emita la Secretaría Anticorrupción y Buen Gobierno en los procedimientos de inconformidad será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades y Sanciones para el Estado de Sonora.
 
 En los casos en que existan contratos derivados de los actos declarados nulos, dichos acuerdos serán válidos y exigibles hasta en tanto se da cumplimiento a la resolución, pero será necesario terminarlos anticipadamente cuando la reposición de actos implique que debe adjudicarse a un licitante diverso, deba declararse desierto el procedimiento o se haya decretado su nulidad total.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 86.
 
-A partir de la información que conozca la Secretaría de la Contraloría General derivada del ejercicio de sus facultades de verificación podrá realizar intervenciones de oficio a fin de revisar la legalidad de los actos a que se refiere el artículo 75 de esta Ley.
+A partir de la información que conozca la Secretaría Anticorrupción y Buen Gobierno derivada del ejercicio de sus facultades de verificación podrá realizar intervenciones de oficio a fin de revisar la legalidad de los actos a que se refiere el artículo 75 de esta Ley.
 
-El inicio del procedimiento de intervención de oficio será mediante el pliego de observaciones, en el que la Secretaría de la Contraloría General señalará con precisión las posibles irregularidades que se adviertan en el acto motivo de intervención.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+El inicio del procedimiento de intervención de oficio será mediante el pliego de observaciones, en el que la Secretaría Anticorrupción y Buen Gobierno señalará con precisión las posibles irregularidades que se adviertan en el acto motivo de intervención.
 
 De estimarlo procedente, podrá decretarse la suspensión de los actos del procedimiento de contratación y los que de éste deriven, en términos de lo dispuesto en el último párrafo del artículo 80 de esta Ley.
 
@@ -1371,21 +1479,29 @@ Resulta aplicable al procedimiento de intervención de oficio, en lo conducente,
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE CONCILIACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 87.
 
-En cualquier momento los proveedores o las dependencias y entidades podrán presentar ante la Secretaría de la Contraloría General solicitud de conciliación, por desavenencias derivadas del cumplimiento de los contratos o pedidos.
+En cualquier momento los proveedores o las dependencias y entidades podrán presentar ante la Secretaría Anticorrupción y Buen Gobierno solicitud de conciliación, por desavenencias derivadas del cumplimiento de los contratos o pedidos.
 
-Una vez recibida la solicitud respectiva, la Secretaría de la Contraloría General señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Una vez recibida la solicitud respectiva, la Secretaría Anticorrupción y Buen Gobierno señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
 
 La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del proveedor traerá como consecuencia tener por no presentada su solicitud.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 88.
 
-En la audiencia de conciliación, la Secretaría de la Contraloría General, tomando en cuenta los hechos manifestados en la solicitud y los argumentos que hiciere valer la dependencia o entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta Ley, sin prejuzgar sobre el conflicto planteado.
+En la audiencia de conciliación, la Secretaría Anticorrupción y Buen Gobierno, tomando en cuenta los hechos manifestados en la solicitud y los argumentos que hiciere valer la dependencia o entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta Ley, sin prejuzgar sobre el conflicto planteado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 89.
 
-En el supuesto de que las partes lleguen a un acuerdo durante la conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente. La Secretaría de la Contraloría General dará seguimiento a los acuerdos de voluntades, para lo cual las dependencias y entidades deberán remitir un informe sobre el avance de cumplimiento del mismo, en términos del Reglamento de esta Ley.
+En el supuesto de que las partes lleguen a un acuerdo durante la conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente. La Secretaría Anticorrupción y Buen Gobierno dará seguimiento a los acuerdos de voluntades, para lo cual las dependencias y entidades deberán remitir un informe sobre el avance de cumplimiento del mismo, en términos del Reglamento de esta Ley.
 
 En caso de no existir acuerdo de voluntades, las partes podrán optar por cualquier vía de solución a su controversia.
 
@@ -1459,7 +1575,7 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los quince días de julio del año dos mil veintidós.- GOBERNADOR DEL ESTADO.- FRANCISCO ALFONSO DURAZO MONTAÑO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- ALVARO BRACAMONTE SIERRA.- RÚBRICA.
 
-P.O. 31 DE ENERO DE 2024.
+B.O. 31 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 162, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA”.]
 
@@ -1470,3 +1586,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Procedimientos iniciados por las autoridades con anterioridad a la entrada en vigor de este decreto, serán concluidos conforme a las disposiciones aplicables a su inicio.
+
+B.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 18, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA Y LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán realizar las modificaciones a los Reglamentos, Manuales de Organización y de Procedimientos, con motivo del presente Decreto las cuales deberán expedirse a más tardar dentro de los noventa días hábiles posteriores a la publicación del mismo en el órgano oficial de difusión mencionado en el artículo anterior.
+
+El o la Titular de la Secretaría Anticorrupción y Buen Gobierno queda facultada para resolver las cuestiones que se presenten relacionadas con los manuales administrativos en tanto éstos se expidan.
+
+###### ARTÍCULO TERCERO.
+
+Las menciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición, respecto de las Secretarías cuyas atribuciones y funciones se reforman o derogan por virtud de este Decreto, se entenderán referidas a las dependencias que adquieren tales atribuciones o funciones.
+
+El o la Titular de la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de su competencia estará facultada para emitir las disposiciones de carácter administrativo y realizar las gestiones necesarias ante la Secretaría de Hacienda del Estado y Oficialía Mayor del Estado de Sonora para otorgar la suficiencia presupuestal que permitan la operación y funcionamiento de la Secretaría de ser necesario.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos en trámite que son atendidos por las dependencias que modifican su denominación o atribuciones en virtud de la entrada en vigor al presente ordenamiento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia y atribución correspondiente, de conformidad con las disposiciones aplicables.
