@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-kanasin-yucatan-169135"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-29"
-last_updated: "2023-12-29"
+last_updated: "2024-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE KANASÍN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Número 35,273, Suplemento I del Diario Oficial del Estado de Yucatán, el viernes 29 de diciembre de 2023.
 
