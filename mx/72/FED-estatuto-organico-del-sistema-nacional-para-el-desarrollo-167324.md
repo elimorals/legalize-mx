@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-16732
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-08-10"
-last_updated: "2024-09-12"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2023-07-10"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-Información obtenida de la página electrónica del Diario Oficial de la Federación: www.dof.gob.mx/2023/DIF/EstatutoSNDIF.pdf
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: https://www.dof.gob.mx/2024/DIF/ModEOSNDIF.pdf]</small>
 
 ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 12 DE SEPTIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el jueves 10 de agosto de 2023.
 
@@ -107,7 +105,9 @@ ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILI
 
 #### SECCIÓN PRIMERA DE LAS DISPOSICIONES COMUNES
 
-#### SECCIÓN SEGUNDA DE LA UNIDAD DE ATENCIÓN A PERSONAS Y GRUPOS PRIORITARIOS
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. DE LA UNIDAD DE ATENCIÓN A POBLACIÓN VULNERABLE
 
 #### SECCIÓN TERCERA DE LA UNIDAD DE ASISTENCIA E INCLUSIÓN SOCIAL
 
@@ -115,7 +115,9 @@ ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILI
 
 #### SECCIÓN QUINTA DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
-### CAPÍTULO V DEL ÓRGANO INTERNO DE CONTROL
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO V DEL ÓRGANO INTERNO DE CONTROL ESPECÍFICO
 
 ### CAPÍTULO VI DE LAS DIRECCIONES GENERALES
 
@@ -123,9 +125,13 @@ ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILI
 
 #### SECCIÓN SEGUNDA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PERSONA TITULAR DEL ORGANISMO
 
-#### SECCIÓN TERCERA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ATENCIÓN A PERSONAS Y GRUPOS PRIORITARIOS
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN CUARTA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ASISTENCIA E INCLUSIÓN SOCIAL
+#### SECCIÓN TERCERA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ATENCIÓN A POBLACIÓN VULNERABLE
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN CUARTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ASISTENCIA (SIC) INCLUSIÓN SOCIAL
 
 #### SECCIÓN QUINTA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -137,15 +143,21 @@ ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILI
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES DE LA COMPETENCIA Y LA ORGANIZACIÓN DEL ORGANISMO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-El Sistema Nacional para el Desarrollo Integral de la Familia es el organismo público descentralizado a que se refieren los artículos 172 de la Ley General de Salud y 27 de la Ley de Asistencia Social, cuenta con patrimonio y personalidad jurídica propios y es el coordinador del Sistema Nacional de Asistencia Social Pública y Privada.
+El Sistema Nacional para el Desarrollo Integral de la Familia es el Organismo público descentralizado a que se refieren los artículos 172, de la Ley General de Salud; 27 y 28, de la Ley de Asistencia Social, cuenta con patrimonio y personalidad jurídica propios y es el coordinador del Sistema Nacional de Asistencia Social Pública y Privada.
 
 Cuando en el presente ordenamiento se haga mención del Organismo o la Entidad, se entenderá hecha al Sistema Nacional para el Desarrollo Integral de la Familia.
 
-El Organismo deberá cumplir con los objetivos que le establecen las convenciones y tratados internacionales de los que el Estado mexicano sea parte, aplicables al Organismo, la Ley General de Salud, la Ley de Asistencia Social, la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Víctimas y las demás disposiciones normativas aplicables.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-La administración de la Entidad estará a cargo de la Junta de Gobierno y de la persona Titular del Organismo, quienes fungirán como órganos superiores, y la vigilancia estará a cargo de la Comisaria o Comisario Público, conforme a lo dispuesto en el presente Estatuto, en términos de lo establecido en los artículos 17 y 60, de la Ley Federal de Entidades Paraestatales, y 31, de la Ley de Asistencia Social.
+El Organismo deberá cumplir con la Constitución Política de los Estados Unidos Mexicanos, los objetivos establecidos en las convenciones y tratados internacionales de los que el Estado mexicano sea parte y que sean aplicables a su ámbito de competencia. Asimismo, deberá observar las disposiciones contenidas en leyes y normativa aplicables, en beneficio de las personas sujetas a la asistencia social, prioritariamente a los grupos sociales vulnerables.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+La administración de la Entidad estará a cargo de la Junta de Gobierno y de la persona Titular del Organismo, quienes fungirán como órganos superiores, y la vigilancia estará a cargo de la Comisaria o Comisario Público, conforme a lo dispuesto en el presente Estatuto, en términos de lo establecido en los artículos 17 y 60, de la Ley Federal de las Entidades Paraestatales, y 31, de la Ley de Asistencia Social.
 
 ###### Artículo 2.
 
@@ -189,7 +201,9 @@ XIII. Fomentar y apoyar a las organizaciones de la sociedad civil cuyo objeto se
 
 XIV. Operar establecimientos de asistencia social en beneficio de niñas, niños y adolescentes, adultos mayores y personas con algún tipo de discapacidad o en situación de vulnerabilidad;
 
-XV. Llevar a cabo acciones en materia de prevención de discapacidad y de rehabilitación e inclusión de personas con discapacidad, en centros no hospitalarios, con sujeción a la Ley General de Salud;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XV. Llevar a cabo acciones en materia de prevención de discapacidad y de personas con discapacidad, en centros no hospitalarios, con sujeción a la Ley General de Salud;
 
 XVI. Apoyar el ejercicio de la tutela de personas con alguna discapacidad o ejercer la tutela de las niñas, niños y adolescentes, en los términos de las leyes en la materia;
 
@@ -247,6 +261,8 @@ XLII. Elaborar instrumentos normativos de colaboración con dependencias y entid
 
 XLIII. Las demás que establezcan las disposiciones normativas aplicables, así como aquellas necesarias para el cumplimiento de sus objetivos.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 3.
 
 Para el despacho de los asuntos de su competencia, el Sistema Nacional para el Desarrollo Integral de la Familia, contará con la siguiente estructura orgánica:
@@ -255,21 +271,23 @@ I. Junta de Gobierno;
 
 II. Titular del Organismo;
 
-i. Dirección General de Asuntos Jurídicos; y
+i. Dirección General de Asuntos Jurídicos
 
 ii. Dirección General de Enlace Interinstitucional;
 
-a. Unidad de Atención a Personas y Grupos Prioritarios;
+a. Unidad de Atención a Población Vulnerable;
 
-i. Dirección General de Alimentación y Desarrollo Comunitario; y
+i. Dirección General de Alimentación y Desarrollo Comunitario;
 
-ii. Dirección General de Atención a Personas y Grupos Prioritarios;
+ii. Dirección General de Proyectos Especiales de Atención a Población Vulnerable; y
+
+iii. Dirección General de Profesionalización y Certificación
 
 b. Unidad de Asistencia e Inclusión Social;
 
 i. Dirección General de Integración Social; y
 
-ii. Dirección General de Rehabilitación e Inclusión;
+ii. Dirección General de Discapacidad, Inclusión y Rehabilitación;
 
 c. Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
 
@@ -283,21 +301,21 @@ iv. Dirección General de Coordinación y Políticas;
 
 d. Unidad de Administración y Finanzas;
 
-i. Dirección General de Programación, Organización y Presupuesto;
+i. Dirección General de Programación y Presupuesto;
 
-ii. Dirección General de Recursos Materiales y Servicios Generales;
+ii. Dirección General de Recursos Materiales y Servicios; y
 
-iii. Dirección General de Recursos Humanos; y
+iii. Dirección General de Recursos Humanos y Organización.
 
-iv. Dirección General de Profesionalización y Cultura.
-
-El Organismo contará con un Órgano Interno de Control cuyo funcionamiento se regirá conforme al presente Estatuto y las demás disposiciones aplicables.
+El Organismo contará con un Órgano Interno de Control Especifico cuyo funcionamiento se regirá conforme al presente Estatuto y las demás disposiciones aplicables.
 
 Asimismo, el Organismo contará con las áreas que se establezcan por acuerdo de la Junta de Gobierno, a propuesta de la persona Titular del Organismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 4.
 
-Las áreas del Sistema Nacional para el Desarrollo Integral de la Familia conducirán sus actividades de conformidad con las prioridades, políticas y estrategias del Plan Nacional de Desarrollo, del Programa Sectorial de Salud, del Programa Nacional de Asistencia Social, del Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, del Programa Nacional de los Derechos de las Niñas, Niños y Adolescentes y del Programa Nacional para el Desarrollo y la Inclusión de las personas con Discapacidad.
+Las áreas del Sistema Nacional para el Desarrollo Integral de la Familia conducirán sus actividades de conformidad a las prioridades, políticas y estrategias del Plan Nacional de Desarrollo; del Programa Sectorial de Salud; del Programa Nacional de Asistencia Social, del Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil; del Programa Nacional de los Derechos de las Niñas, Niños y Adolescentes; y del Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, así como los demás programas aplicables, de acuerdo con lo dispuesto en la Ley de Planeación.
 
 El Organismo observará una vinculación sistemática entre sus servicios de representación, asistencia jurídica, de orientación social y de protección de los derechos de niñas, niños y adolescentes y de los demás sujetos de asistencia social, conforme a la normatividad aplicable.
 
@@ -345,11 +363,31 @@ XI. Interpretar el presente Estatuto y resolver los casos no previstos, conforme
 
 XII. Las demás que establezcan el presente Estatuto y las demás disposiciones normativas aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 8.
 
-La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran.
+La Junta de Gobierno celebrará sesiones ordinarias y extraordinarias conforme a lo siguiente:
+
+I. Las sesiones ordinarias se celebrarán trimestralmente y tendrán por objetivo analizar y evaluar el cumplimiento de las actividades del Organismo, aprobar los puntos previstos en su programa de trabajo y adoptar los acuerdos necesarios para el desarrollo de las actividades institucionales, incluyendo las que le sean encomendadas al SNDIF y a su Titular. Estas sesiones deberán convocarse con al menos cinco días hábiles de anticipación.
+
+II. Las sesiones extraordinarias se celebrarán cuando sea necesario para atender asuntos urgentes o de especial relevancia que no puedan postergarse hasta la próxima sesión ordinaria en la que se adoptarán los acuerdos previstos en la convocatoria realizada. Estas sesiones deberán convocarse con al menos dos días hábiles de anticipación.
+
+III. Las sesiones de la Junta de Gobierno podrán celebrarse bajo las siguientes modalidades:
+
+a) Presencial, en el lugar señalado en la convocatoria, preferentemente en la Ciudad de México, salvo que por causas justificadas se designe otro domicilio.
+
+b) Remota, mediante el uso de plataformas digitales que permitan la interacción en tiempo real, garantizando la participación de los integrantes y el registro de los acuerdos adoptados.
+
+c) Mixta, combinando la participación presencial y remota de los integrantes, conforme a las necesidades de la Junta.
+
+d) Por consulta escrita, a través de medios electrónicos como correo electrónico u otras herramientas digitales previamente acordadas, siempre que se garantice la emisión y registro de los votos de los integrantes.
+
+IV. En cada caso, la convocatoria deberá especificar la modalidad de la sesión, los medios tecnológicos a utilizar y las instrucciones necesarias para garantizar la comunicación efectiva y la validez de los acuerdos adoptados.
 
 #### SECCIÓN SEGUNDA. DE LA PERSONA TITULAR DEL ORGANISMO
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 9.
 
@@ -359,29 +397,39 @@ La persona Titular del Organismo tendrá la ciudadanía mexicana, será mayor de
 
 A la persona Titular del Organismo corresponderá originalmente la representación, trámite y resolución de los asuntos del Organismo y podrá, para la mejor distribución y desarrollo del trabajo, conferir unilateralmente sus facultades delegables a las personas servidoras públicas subalternas, sin perjuicio de su ejercicio directo, emitiendo los acuerdos relativos, mismos que se publicarán en el Diario Oficial de la Federación.
 
-Cuando en el presente ordenamiento se haga mención a la persona Titular del Organismo, se entenderá hecha a la persona Titular de la Dirección General a que se refieren los artículos 31, inciso b) y 36 de la Ley de Asistencia Social, así como el artículo 59 de la Ley Federal de las Entidades Paraestatales.
-
 ###### Artículo 10.
 
 Corresponden a la persona Titular del Organismo las siguientes facultades:
 
 I. Administrar y representar legalmente al Organismo con las más amplias facultades de dominio, administración, pleitos y cobranzas y aún de aquellas que requieran cláusula especial conforme a las leyes;
 
-II. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+II. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno
 
 III. Presentar a la Junta de Gobierno el Programa Anual de Trabajo, las modificaciones o reformas al Estatuto Orgánico y la estructura básica del Organismo para su aprobación, así como las propuestas, proyectos e informes que requiera;
 
 IV. Formular programas, políticas institucionales y presupuestos del Organismo, así como las disposiciones normativas necesarias para su operación, para presentarlos para su aprobación a la Junta de Gobierno; asimismo presentar periódicamente el informe del desempeño de las actividades de la entidad, el ejercicio del presupuesto de ingresos y egresos, los estados financieros correspondientes, las metas propuestas y los resultados alcanzados;
 
-V. Proponer a la Junta de Gobierno conforme a las disposiciones normativas vigentes, la creación de comités y grupos de trabajo que coadyuven en la articulación de las disposiciones jurídicas aplicables, con sujeción (sic) la Ley Federal de las Entidades Paraestatales y a la Ley de Asistencia Social;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-VI. Proponer a la Junta de Gobierno la designación y remoción de las personas servidoras públicas de la Entidad que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquella, salvo en los casos en que la Ley Orgánica de la Administración Pública Federal u otros ordenamientos legales dispongan otra cosa, en cuyo caso, únicamente hará su presentación;
+V. Proponer a la Junta de Gobierno conforme a las disposiciones normativas vigentes, la creación de comités y grupos de trabajo que coadyuven en la articulación de las disposiciones jurídicas aplicables, con sujeción a la Ley Federal de las Entidades Paraestatales y a la Ley de Asistencia Social;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VI. Proponer a la Junta de Gobierno la designación y remoción de las personas servidoras públicas de la Entidad que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquella, y designar como encargados de despacho a los servidores públicos que se propondrán para ocupar dichos cargos, en tanto la Junta de Gobierno realice el nombramiento respectivo, salvo en los casos en que la Ley Orgánica de la Administración Pública Federal u otros ordenamientos legales dispongan otra cosa, en cuyo caso, únicamente hará su presentación;
 
 VII. Designar y remover libremente a las personas servidoras públicas del Organismo que tengan nombramientos de confianza. En cuanto a la facultad de remoción, bastará que se emita la comunicación correspondiente, asimismo autorizar los nombramientos del personal y manejar las relaciones laborales de acuerdo con las disposiciones normativas aplicables;
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VII Bis. Designar a la persona que se encargue de establecer y supervisar las políticas, estrategias y acciones relacionadas con la comunicación social del Organismo, incluyendo la elaboración, implementación y coordinación de programas, campañas, materiales y vínculos con medios de comunicación, en apego a la normatividad aplicable.
+
 VIII. Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a la legislación aplicable;
 
-IX. Coordinar con los tres órdenes de gobierno, las acciones orientadas a promover e impulsar la prestación de servicios de asistencia social dirigida principalmente a personas y grupos prioritarios;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IX. Coordinar con los tres órdenes de gobierno, las acciones orientadas a promover e impulsar la prestación de servicios de asistencia social dirigida a personas sujetas de la asistencia social, prioritariamente a los grupos sociales vulnerables;
 
 X. Celebrar los convenios, acuerdos, contratos y demás actos jurídicos y administrativos que sean indispensables para el cumplimiento de los objetivos del Organismo;
 
@@ -393,7 +441,9 @@ XIII. Emitir o expedir los lineamientos y las disposiciones normativas aprobadas
 
 XIV. Emitir opinión, como órgano de consulta para otras dependencias y entidades de la Administración Pública Federal, respecto de la expedición de permisos, licencias o autorizaciones que soliciten personas físicas o morales, cuya actividad u objeto sea la asistencia social;
 
-XV. Impulsar la prestación de servicios de asistencia y orientación social a personas y grupos prioritarios;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XV. Impulsar la prestación de servicios de asistencia y orientación social a personas sujetas de la asistencia social, prioritariamente a los grupos sociales vulnerables;
 
 XVI. Fungir como representante del Organismo, en su carácter de autoridad central en materia de adopciones internacionales, ante las instancias nacionales e internacionales;
 
@@ -407,7 +457,9 @@ XX. Promover la elaboración de proyectos de Normas Oficiales Mexicanas en el á
 
 XXI. Promover la profesionalización de las instituciones públicas y privadas, y de las personas que prestan servicios de asistencia social, así como la formación de personas profesionistas a nivel superior;
 
-XXII. Coordinar el Sistema Nacional de Información en materia de Asistencia Social y establecer el funcionamiento del Centro de Información y Documentación sobre asistencia social, así como establecer su funcionamiento, políticas de integración, difusión y uso;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXII. Coordinar el Sistema Nacional de Información en materia de Asistencia Social y establecer el funcionamiento del Centro de Información y Documentación sobre asistencia social, así como establecer el funcionamiento, políticas de integración, difusión y uso;
 
 XXIII. Coadyuvar y colaborar en el cumplimiento de los ejes transversales establecidos dentro del Plan Nacional de Desarrollo, así como la normatividad aplicable en la materia;
 
@@ -429,9 +481,13 @@ XXXI. Establecer, conducir y evaluar la política nacional en materia de prestac
 
 XXXII. Coordinar el otorgamiento de las herramientas metodológicas a las Procuradurías de Protección de Niñas, Niños y Adolescentes y las direcciones de infancia de los Sistemas DIF de las Entidades Federativas y Municipios, para facilitar el trabajo que realizan en la promoción, prevención y protección de los derechos de niñas, niños y adolescentes;
 
-XXXIII. Autorizar el otorgamiento de servicios de asesoría, asistencia y orientación social a jóvenes, personas adultas mayores y personas con discapacidad, madres sujetas de asistencia social, en situación de calle, migrantes, indígenas migrantes, desplazadas o de grupos de atención prioritaria, para garantizar la protección de sus derechos;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XXXIV. Coordinar el otorgamiento de servicios a las niñas, niños y adolescentes que lo requieran para su protección, incluidos los de estancia y garantizar la protección de sus derechos, de manera específica el de no ser alojados en estaciones migratorias;
+XXXIII. Autorizar el otorgamiento de servicios de asesoría, asistencia y orientación social a jóvenes, personas adultas mayores y personas con discapacidad, madres sujetas de asistencia social, en situación de calle, migrantes, indígenas migrantes, desplazadas o de grupos de población vulnerable, para garantizar la protección de sus derechos;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. Coordinar el otorgamiento de servicios a las niñas, niños y adolescentes que lo requieran para su protección, incluidos los de estancia y garantizar la protección de sus derechos, de manera específica el de no ser alojados en estaciones migratorias ni en lugares habilitados para ello, por el Instituto Nacional de Migración;
 
 XXXV. Coordinar el registro de niñas, niños y adolescentes en contexto de movilidad humana, para concentrar información sobre las acciones implementadas por autoridades de los tres órdenes de gobierno para garantizar el respeto de sus derechos, durante su tránsito o permanencia en México;
 
@@ -443,11 +499,11 @@ XXXVIII. Las demás que establezcan el presente Estatuto y las demás disposicio
 
 ### CAPÍTULO III. DE LA COMISARIA O COMISARIO PÚBLICO
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
-El Organismo contará con un Órgano de Vigilancia, que estará integrado por una Comisaria o Comisario Público propietario y una persona suplente que serán designados por la Secretaría de la Función Pública, en los términos del artículo 37, fracción XI de la Ley Orgánica de la Administración Pública Federal, quienes ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
-
-Para el mejor desarrollo del sistema de control, auditoría y evaluación gubernamental, la Comisaria o Comisario Público analizarán los riesgos y problemas de corrupción y, en su caso, la falta de transparencia en la aplicación de los recursos del Organismo. La Junta de Gobierno y la persona Titular del Organismo deberán proporcionarles la información que les sea solicitada.
+El Organismo contará con un Órgano de Vigilancia, que estará integrado por una Comisaria o Comisario Público propietario y una persona suplente que serán designados por la Secretaría de la Función Pública, en los términos del artículo 37, fracción XI de la Ley Orgánica de la Administración Pública Federal, quienes ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública. Para el mejor desarrollo del sistema de control, auditoría y evaluación gubernamental, la Comisaria o Comisario Público analizarán los riesgos y problemas de corrupción y, en su caso, la falta de transparencia en la aplicación de los recursos del Organismo. La Junta de Gobierno y la persona Titular del Organismo deberán proporcionarles la información que les sea solicitada.
 
 La Comisaria o Comisario Público asistirá, en representación de la Secretaría de la Función Pública, con voz, pero sin voto a las sesiones ordinarias y extraordinarias de la Junta de Gobierno y podrá asistir a las sesiones de comités y grupos de trabajo especializados a los que sea convocado.
 
@@ -467,17 +523,23 @@ V. Las demás que establezcan el presente Estatuto, las disposiciones normativas
 
 ### CAPÍTULO IV. DE LAS JEFATURAS DE UNIDAD, LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES COMUNES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 13.
 
-Al frente de cada Jefatura de Unidad, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas, habrá una persona Titular que será nombrada por la Junta de Gobierno a propuesta de la persona Titular del Organismo.
+Al frente de cada Jefatura de Unidad, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas, habrá una persona Titular que será nombrada por la Junta de Gobierno a propuesta de la persona Titular del Organismo, con excepción de la persona titular de la Unidad de Administración y Finanzas y de la Dirección General de Asuntos Jurídicos, cuya designación seguirá los procedimientos establecidos por la legislación vigente.
 
-En el desempeño de sus funciones dichas personas servidoras públicas serán auxiliadas por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que les esté adscrito conforme a la estructura orgánica vigente.
+En el desempeño de sus funciones dichas personas servidoras públicas serán auxiliadas por las personas Titulares de las Direcciones Generales, Direcciones de Área, Subdirecciones de Área, Jefaturas de Departamento, Soportes administrativos y por el demás personal que sea necesario y que les esté adscrito conforme a la estructura orgánica vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 14.
 
-Corresponden a las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas las siguientes facultades comunes:
+Corresponden a las Jefaturas de Unidad, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas las siguientes facultades comunes:
 
 I. Acordar con la persona Titular del Organismo el despacho de los asuntos relevantes de las unidades administrativas a su cargo;
 
@@ -503,7 +565,9 @@ XI. Planear, organizar, dirigir y controlar el funcionamiento de las unidades ad
 
 XII. Acordar con las personas titulares y demás personal de las unidades administrativas a su cargo, los asuntos de su competencia;
 
-XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y facultades, así como aquellos que les sean señalados por delegación o les correspondan por suplencia;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y facultades, así como aquellos que les sean señalados por delegación o les correspondan por suplencia; y expedir certificaciones de documentos que obren en sus archivos;
 
 XIV. Proporcionar información, datos o cooperación técnica que les sean requeridos por dependencias e instituciones públicas y privadas, así como otras unidades administrativas, en términos de la legislación aplicable;
 
@@ -537,17 +601,23 @@ XXVIII. Participar en los comités, subcomités y demás órganos colegiados en 
 
 XXIX. Participar en foros y eventos nacionales e internacionales, relativos a la materia de su competencia;
 
-XXX. Delegar en el personal subalterno de la jerarquía inmediata inferior facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXX. Delegar mediante oficio en el personal subalterno facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
 
 XXXI. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas que le estén adscritas; y
 
 XXXII. Las demás que le confiera expresamente la persona Titular del Organismo, aquellas necesarias para el cumplimiento de sus objetivos, así como las que establezcan el presente Estatuto y las demás disposiciones normativas aplicables en la materia.
 
-#### SECCIÓN SEGUNDA. DE LA UNIDAD DE ATENCIÓN A PERSONAS Y GRUPOS PRIORITARIOS
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. DE LA UNIDAD DE ATENCIÓN A POBLACIÓN VULNERABLE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-Corresponden a la Jefa o Jefe de la Unidad de Atención a Personas y Grupos Prioritarios las siguientes facultades:
+Corresponden a la Jefa o Jefe de la Unidad de Atención a Población Vulnerable las siguientes facultades:
 
 I. Planear, proponer y coordinar la operación y el desempeño de las funciones, programas, proyectos y acciones en materia de asistencia social alimentaria y desarrollo integral individual, familiar y comunitario, así como de la prestación de servicios para la atención, cuidado y desarrollo integral infantil, incluyendo las políticas públicas para la primera infancia y población en situación de vulnerabilidad, en los términos establecidos en la legislación vigente;
 
@@ -555,19 +625,29 @@ II. Proponer a la persona Titular del Organismo estrategias que permitan el desa
 
 III. Dirigir estudios e investigaciones en materia alimentaria, de desarrollo integral individual, familiar y comunitario, y de la prestación de servicios para la atención, cuidado y desarrollo integral infantil, que favorezcan el establecimiento de diagnósticos de las problemáticas sociales, la implementación de políticas públicas y las intervenciones necesarias por parte del Organismo y de los sectores público, privado y social;
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+III. Bis Implementar el Programa de Género, así como dirigir el funcionamiento de la Dirección que operará como Unidad de Género, en coordinación con las demás unidades administrativas del Organismo;
+
 IV. Planear, fomentar y, en su caso, coordinar la creación de políticas públicas y acciones integrales apegadas a los derechos humanos, particularmente a los derechos de niñas, niños y adolescentes, que favorezcan la prestación de servicios, dirigidos a la atención y al desarrollo integral de individuos, familias y grupos que, por sus condiciones físicas, mentales, jurídicas, económicas o sociales, se encuentren en situación de vulnerabilidad;
 
 V. Conducir la participación del Organismo con los tres órdenes de gobierno en materia de asistencia social, para garantizar la protección y plena integración al bienestar de las personas en situación de vulnerabilidad, especialmente de niñas, niños y adolescentes en situación de migración acompañados y no acompañados, conforme a lo previsto en la Ley de Migración, la Ley General de Victimas, la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables;
 
-VI. Coadyuvar, prestar apoyo y colaboración técnica en la creación de establecimientos de asistencia social para niñas, niños y adolescentes en situación de migración en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-VII. Establecer y concertar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los programas, modelos y lineamientos, en el ámbito de su competencia, así como coordinar, monitorear, acompañar, supervisar y darles seguimiento. Respecto de aquellos relacionados con establecimientos de asistencia social para niñas, niños y adolescentes en situación de migración, esta facultad se ejercerá en coadyuvancia con la Unidad de Asistencia e Inclusión Social y la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
+VI. Coadyuvar, prestar apoyo y/o colaboración técnica en la creación, promoción o rehabilitación de establecimientos asistenciales, centros de atención infantil, centros de asistencia social y de desarrollo comunitario, para la atención a la población vulnerable, principalmente niñas, niños y adolescentes, incluidos aquellos en situación de movilidad; en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VII. Establecer y concertar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los programas, modelos y lineamientos, en el ámbito de su competencia, así como coordinar, monitorear, acompañar, supervisar y darles seguimiento.
 
 VIII. Participar, en coordinación, colaboración o concertación con los sectores público, social y privado, en programas asistenciales en materia alimentaria, de desarrollo integral individual, familiar y comunitario, de fomento y fortalecimiento de políticas públicas en favor de la primera infancia, así como de prestación de servicios para la atención, cuidado y desarrollo integral infantil, celebrando, en su caso, los convenios respectivos;
 
 IX. Impulsar la organización y participación social y comunitaria, para la ejecución de programas de asistencia social, correspondientes a su ámbito de competencia y de las direcciones generales que le están adscritas;
 
-X. Coordinar, en el ámbito de sus atribuciones, la prestación de servicios de asesoría, asistencia y de orientación social a personas jóvenes, adultos mayores, personas con alguna discapacidad, madres sujetas de asistencia social, en situación de calle, migrantes, indígenas migrantes, desplazadas o en situación de vulnerabilidad y todas aquellas que por distintas circunstancias no puedan ejercer plenamente sus derechos, así como referir a las instancias competentes de las entidades federativas, municipios y alcaldías las solicitudes de representación a dicha población sujeta de asistencia social;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+X. Coordinar, en el ámbito de sus atribuciones, la prestación de servicios de asesoría, asistencia y de orientación social a personas jóvenes, personas adultas mayores, personas con alguna discapacidad, madres sujetas de asistencia social, en situación de calle, migrantes, indígenas migrantes, desplazadas o en situación de vulnerabilidad y todas aquellas que por distintas circunstancias no puedan ejercer plenamente sus derechos, así como referir a las instancias competentes de las entidades federativas, municipios y alcaldías las solicitudes de representación a dicha población sujeta de asistencia social;
 
 XI. Coadyuvar en los programas y acciones de ayuda a personas en condiciones de emergencia y situación de vulnerabilidad, afectadas por casos de desastre;
 
@@ -579,7 +659,9 @@ XIV. Participar en la formulación y ejecución de programas sectoriales y espec
 
 XV. Celebrar convenios de colaboración y coordinación con instituciones públicas e internacionales, así como de concertación con los sectores social y privado, para realizar acciones tendientes a fortalecer la asistencia alimentaria, el desarrollo integral individual, familiar y comunitario, el desarrollo e implementación de políticas públicas en favor de la primera infancia y personas en situación de vulnerabilidad, así como la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
 
-XVI. Impulsar acciones de capacitación y certificación de competencias, en coordinación con la Dirección General de Profesionalización y Cultura, dirigidas al personal de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVI. Impulsar acciones de capacitación y certificación de competencias, en coordinación con la Dirección General de Profesionalización y Certificación, dirigidas al personal de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
 
 XVII. Supervisar las acciones que se instrumenten para el fomento de la participación de las madres y padres de familia y tutores en la atención, cuidado y desarrollo integral de niñas y niños, así como en la prestación de servicios de los Centros de Atención Infantil;
 
@@ -599,7 +681,9 @@ XXII. Las demás que le confiera expresamente la persona Titular del Organismo, 
 
 Corresponden a la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social las siguientes facultades:
 
-I. Planear, organizar, dirigir, controlar y evaluar el desarrollo general de los programas y acciones de atención que otorga el Organismo a personas con discapacidad o en riesgo de desarrollarla, así como los servicios asistenciales a personas y grupos prioritarios;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+I. Planear, organizar, dirigir, controlar y evaluar el desarrollo general de los programas y acciones de atención que otorga el Organismo a personas con discapacidad o en riesgo de desarrollarla, así como los servicios asistenciales a personas y población vulnerable;
 
 II. Coadyuvar en el establecimiento de centros y servicios de rehabilitación no hospitalaria, en coordinación con los gobiernos de las entidades federativas y de los municipios;
 
@@ -669,7 +753,9 @@ XIII. Aprobar los requisitos mínimos y criterios, así como impulsar la elabora
 
 XIV. Coordinar las acciones para autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social;
 
-XV. Aprobar la elaboración de normas técnicas o estándares de competencia, para certificar las competencias del personal que labora en los Centros de Asistencia Social, en coordinación con la Dirección General de Profesionalización y Cultura;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XV. Aprobar la elaboración de normas técnicas o estándares de competencia, para certificar las competencias del personal que labora en los Centros de Asistencia Social, en coordinación con la Dirección General de Profesionalización y Certificación;
 
 XVI. Supervisar que, en aquellos casos en los que se determine, en el acogimiento temporal de niñas, niños y adolescentes se impulsen las modalidades de cuidados alternativos;
 
@@ -687,7 +773,9 @@ XXII. Coordinar las acciones de seguimiento de la situación en la que se encuen
 
 XXIII. Autorizar las asesorías técnicas a los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, a las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y los municipios y, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
 
-XXIV. Autorizar programas de capacitación en materia de protección y restitución de derechos de niñas, niños y adolescentes, así como aquellos que señalan la Ley General de los Derechos de Niñas, Niños y Adolescentes y su reglamento;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Delegar mediante oficio en el personal subalterno facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
 
 XXV. Desarrollar instrumentos normativos, modelos, protocolos, metodologías y procedimientos, para la promoción, protección y restitución de los derechos de niñas, niños y adolescentes, para su aprobación, emisión o expedición correspondiente;
 
@@ -717,11 +805,13 @@ XXXVI. Las demás que le instruya la persona Titular del Organismo y le confiera
 
 #### SECCIÓN QUINTA. DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 18.
 
-Al frente de la Unidad de Administración y Finanzas habrá una Jefa o Jefe de la Unidad, quien será nombrada por la Junta de Gobierno, a propuesta de la persona Titular del Organismo, conforme a lo previsto en los artículos 58, fracción XI, y 59, fracción VII, de la Ley Federal de las Entidades Paraestatales.
+Al frente de la Unidad de Administración y Finanzas habrá una Jefa o Jefe de la Unidad, quien será nombrada conforme a lo previsto en la Ley Orgánica de la Administración Pública Federal.
 
-En el desempeño de sus funciones, la Jefa o Jefe de la Unidad será auxiliada por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que le esté adscrito conforme a la estructura orgánica vigente.
+En el desempeño de sus funciones, la Jefa o Jefe de la Unidad será auxiliada por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento, Soportes Administrativos y por el demás personal que sea necesario y que le esté adscrito conforme a la estructura orgánica vigente.
 
 ###### Artículo 19.
 
@@ -731,17 +821,23 @@ I. Acordar con la persona Titular del Organismo el despacho de los asuntos relev
 
 II. Someter a consideración de la persona Titular del Organismo la estructura programática y el anteproyecto de presupuesto del mismo;
 
-III. Planear, organizar y dirigir el funcionamiento de las unidades administrativas a su cargo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+III. Planear, organizar y dirigir el funcionamiento de las unidades administrativas a su cargo, y coordinar las actividades de programación, presupuesto y gasto de la Unidad, el de las unidades administrativas que le estén adscritas y demás vinculadas a su competencia;
 
 IV. Definir las políticas, normas, lineamientos y sistemas para la administración y optimización de los recursos humanos, capacitación y certificación especializada, materiales, servicios generales, financieros, y tecnológicos del Organismo;
 
-V. Coordinar los actos relativos a la adquisición, la asignación, el arrendamiento, los servicios, la enajenación y la administración de bienes muebles e inmuebles del Organismo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+V. Coordinar los actos relativos a la adquisición, la asignación, el arrendamiento, los servicios, la enajenación y la administración de bienes muebles e inmuebles, el suministro de servicios específicos necesarios para el Organismo, así como suscribir los contratos en las materias señaladas y demás documentos que impliquen actos de administración de conformidad con las disposiciones aplicables;
 
 VI. Conducir los planes, programas de modernización y desarrollo administrativo, así como la mejora y optimización de los procesos y servicios de las unidades administrativas del Organismo;
 
 VII. Coordinar la integración de los proyectos de mejora continua que presenten las unidades administrativas del Organismo;
 
-VIII. Fungir como representante del Organismo, en su carácter de Responsable Oficial de Mejora Regulatoria, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo, conforme a lo dispuesto en la Ley General de Mejora Regulatoria;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII. Coordinar la integración de la información del Organismo requerida por la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público, la Oficialía Mayor de la Secretaría de Salud u otra autoridad competente;
 
 IX. Someter a consideración de la persona Titular del Organismo los cambios a la organización interna, actualización del Estatuto Orgánico, Manuales de Organización y de Procedimientos;
 
@@ -761,7 +857,9 @@ Así como determinar la conclusión de los efectos del nombramiento del personal
 
 XVI. Autorizar los programas anuales de adquisiciones, obra pública y disposición final de bienes muebles y supervisar la contratación, adquisición, mantenimiento y arrendamiento de los bienes y servicios necesarios para el desarrollo de los programas del Organismo;
 
-XVII. Coordinar la elaboración del Programa de Trabajo Interno de Protección Civil;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVII. Coordinar la elaboración del Programa de Trabajo Interno de Protección Civil de cada uno de los inmuebles del Organismo para la salvaguarda del personal, instalaciones, bienes e información;
 
 XVIII. Expedir certificaciones de documentos que obren en los archivos de las unidades administrativas a su cargo;
 
@@ -769,29 +867,41 @@ XIX. Suscribir los documentos, convenios y contratos relativos al ejercicio de s
 
 XX. Resolver los recursos administrativos que, conforme a las disposiciones legales y reglamentarias, le correspondan;
 
-XXI. Presidir los comités de apoyo internos, comités técnicos especializados y grupos de trabajo del Organismo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXI. Presidir los comités de apoyo internos, comités técnicos especializados y grupos de trabajo del Organismo, los comités de adquisiciones, arrendamientos y servicios, obra pública, así como los demás órganos colegiados que de acuerdo con sus atribuciones deba coordinar;
 
 XXII. Apoyar a la persona Titular del Organismo en la formulación y ejecución de programas sectoriales y especiales, derivados del Plan Nacional de Desarrollo, en su ámbito de responsabilidad;
 
 XXIII. Observar los lineamientos y directrices que le establezca la Secretaría de Hacienda y Crédito Público conforme al artículo 20 de la Ley Orgánica de la Administración Pública Federal;
 
-XXIV. Delegar en el personal subalterno de la jerarquía inmediata inferior facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XXV. Impulsar las acciones de profesionalización, capacitación especializada, formación y certificación de competencias, dirigidas al personal de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como las actividades culturales que correspondan conforme a los objetivos del Organismo;
+XXIV. Delegar mediante oficio en el personal subalterno facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXV. Proponer a la persona Titular del Organismo, previa validación de la persona Titular de la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público y de la Oficialía Mayor de la Secretaría de Salud, las Condiciones Generales de Trabajo, así como vigilar su cumplimiento y difundirlas entre las personas servidoras públicas del Organismo, de conformidad con las disposiciones aplicables;
 
 XXVI. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas que le estén adscritas; y
 
 XXVII. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
-### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL ESPECÍFICO
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 20.
 
-El Órgano Interno de Control actuará y ejercerá sus facultades teniendo por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Organismo, manteniendo un adecuado nivel de coordinación con las distintas unidades administrativas que conforman su estructura orgánica y desarrollando sus funciones conforme a los lineamientos emitidos por la Secretaría de la Función Pública y la legislación aplicable.
+El Órgano Interno de Control Específico actuará y ejercerá sus facultades teniendo por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Organismo, manteniendo un adecuado nivel de coordinación con las distintas unidades administrativas que conforman su estructura orgánica y desarrollando sus funciones conforme a los lineamientos emitidos por la Secretaría Anticorrupción y Buen Gobierno y la legislación aplicable.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 21.
 
-La persona Titular del Órgano Interno de Control será designada conforme a lo establecido en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y el Reglamento Interior de la Secretaría de la Función Pública y, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las Áreas de Responsabilidades, de Auditoría Interna de Desarrollo y Mejora de la Gestión Pública, y de Quejas, Denuncias e Investigaciones designadas en los mismos términos.
+La persona Titular del Órgano Interno de Control Específico será designada conforme a lo establecido en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y el Reglamento Interior de la Secretaría de la Función Pública y, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las Áreas de Responsabilidades, de Auditoría Interna, Desarrollo y Mejora de la Gestión Pública, y de Quejas, Denuncias e Investigaciones designadas en los mismos términos.
 
 ###### Artículo 22.
 
@@ -807,7 +917,9 @@ Al frente de cada Dirección General habrá una Directora o Director General, pr
 
 En el caso de la persona Titular de la Dirección General de Asuntos Jurídicos, conforme a lo previsto en artículo 43, fracción VII, de la Ley Orgánica de la Administración Pública Federal, el nombramiento y remoción se harán por la persona Titular de la Consejería Jurídica del Ejecutivo Federal, atendiendo a los Lineamientos que para tal efecto se expidan y se formalizará la presentación de la persona servidora pública ante la Junta de Gobierno.
 
-En el desempeño de sus funciones, las personas Titulares de las Direcciones Generales serán auxiliadas por las personas servidoras públicas adscritas a las Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que les esté adscrito, conforme a la estructura orgánica vigente.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+En el desempeño de sus funciones, las personas Titulares de las Direcciones Generales serán auxiliadas por las personas servidoras públicas adscritas a las Direcciones, Subdirecciones, Jefaturas de Departamento, Soportes Administrativos y por el demás personal que sea necesario y que les esté adscrito, conforme a la estructura orgánica vigente.
 
 ###### Artículo 24.
 
@@ -829,7 +941,9 @@ VII. Integrar y proponer a la Unidad de Administración y Finanzas las medidas d
 
 VIII. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Nacional de Desarrollo, en su ámbito de responsabilidad;
 
-IX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia; y expedir certificaciones de documentos que obren en sus archivos;
 
 X. Proporcionar asesoría, capacitación y apoyo técnico, en las materias de su competencia, a los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
 
@@ -849,7 +963,9 @@ XVII. Participar en los comités, subcomités y demás órganos colegiados en qu
 
 XVIII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
 
-XIX. Delegar en el personal subalterno de la jerarquía inmediata inferior facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIX. Delegar mediante oficio en el personal subalterno facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
 
 XX. Ejercer directamente cualquier facultad de las que correspondan al personal que les esté adscrito; y
 
@@ -863,7 +979,9 @@ Corresponden a la persona Titular de la Dirección General de Asuntos Jurídicos
 
 I. Emitir opinión jurídica de las normas que, en materia de asistencia social, le proponga el Organismo a la Secretaría de Salud;
 
-II. Emitir opinión técnica y formular dictámenes que procedan, respecto de las solicitudes que presenten las unidades administrativas del Organismo y los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como las demás entidades y dependencia (sic) federales, actuando como órgano de consulta en la materia jurídica competencia del Organismo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+II. Emitir opinión técnica y formular dictámenes que procedan, respecto de las solicitudes que presenten las unidades administrativas del Organismo y los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como las demás entidades y dependencias federales, actuando como órgano de consulta en la materia jurídica competencia del Organismo;
 
 III. Establecer el criterio del Organismo cuando las unidades administrativas del mismo emitan opiniones o actos contradictorios en aspectos legales;
 
@@ -871,7 +989,9 @@ IV. Establecer, sistematizar, unificar y difundir entre las unidades administrat
 
 V. Tramitar la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general y particular, relativas a las materias competencia del Organismo que resulten procedentes, pudiendo, en su caso, emitir opinión jurídica al respecto, y requerir a las unidades administrativas solicitantes de las publicaciones las modificaciones, aclaraciones o confirmaciones respectivas;
 
-VI. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos y demás normatividad, competencia del propio Organismo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VI. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos y demás normatividad, competencia del propio Organismo; y fungir como representante del Organismo, en su carácter de responsable Oficial de Mejora Regulatoria, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo, conforme a lo dispuesto en la Ley General de Mejora Regulatoria;
 
 VII. Solicitar a las personas titulares de cualquier unidad administrativa del Organismo, la información que se requiera para las propuestas de proyectos de leyes, reglamentos, decretos, acuerdos, iniciativas de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones normativas en las materias de su respectiva competencia, y coordinar la elaboración y presentación de las citadas propuestas ante las instancias correspondientes;
 
@@ -893,27 +1013,37 @@ XV. Coordinar las atenciones que procedan en la materia Derechos Humanos con las
 
 XVI. Formular, presentar y realizar los actos jurídicos que procedan en las demandas de amparo e interponer los medios de impugnación que correspondan en representación del Organismo, de su Titular, de la Junta de Gobierno y demás órganos colegiados y unidades administrativas de la Entidad, cuando dicha representación no corresponda a otra unidad administrativa y sean señalados como autoridades responsables;
 
-XVII. Actuar como Apoderado General para pleitos y cobranzas del Organismo, ante toda clase de autoridades e instancias del fuero común o federal, ejercitando las acciones competentes;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVII. Actuar como Apoderado General para pleitos y cobranzas del Organismo, ante toda clase de autoridades e instancias del fuero común o federal, así como para otorgar poder a los servidores públicos que representarán legalmente al Sistema Nacional para el Desarrollo Integral de la Familia.
 
 XVIII. Formular denuncias y querellas, así como formular la petición de sobreseimiento del proceso penal u otorgar el perdón, cuando sea procedente, ante tribunales, la Fiscalía General de la República y homólogas de las entidades federativas, según el caso, sobre hechos que pudieran ser constitutivos de delito y que afecten al funcionamiento o patrimonio del Organismo;
 
-XIX. Realizar los actos que requieran la regularización, legalización, adquisición y enajenación de bienes inmuebles del Organismo, en su caso, con el apoyo de la Dirección General de Recursos Materiales y Servicios Generales;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIX. Realizar los actos que requieran la regularización, legalización, adquisición y enajenación de bienes inmuebles del Organismo, en su caso, con el apoyo de la Dirección General de Recursos Materiales y Servicios;
 
 XX. Actuar como Apoderado General para gestionar el registro de los derechos de propiedad intelectual, derechos de autor o patentes que correspondan al Organismo, ante las autoridades administrativas;
 
-XXI. Expedir copias certificadas y constancias de documentos que soliciten las diversas unidades administrativas del Organismo, existentes en sus respectivos archivos, así como las solicitas por las diversas instancias administrativas, judiciales y legislativas que existan en los archivos de la Entidad;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXI. Expedir copias certificadas y constancias de documentos que soliciten las diversas unidades administrativas del Organismo, existentes en sus respectivos archivos, así como las solicitadas por las diversas instancias administrativas, judiciales y legislativas que existan en los archivos de la Entidad;
 
 XXII. Fungir como Titular de la Unidad de Transparencia de conformidad con lo previsto en las Leyes Federal y General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley General de Archivos y demás disposiciones normativas aplicables, asumiendo la presidencia del Comité de Transparencia del Organismo;
 
-XXIII. Revisar, en su contenido y forma, los convenios, contratos, acuerdos y otros instrumentos que fijen derechos y obligaciones convencionales o patrimoniales para el Organismo, cuyos proyectos sean sometidos a su consideración por las personas titulares de las unidades administrativas que tengan atribuciones para convenir señaladas en el presente Estatuto;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XXIV. Apoyar, como enlace, a la Jefa o Jefe de la Unidad de Administración y Finanzas, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo;
+XXIII. Revisar, en su contenido y forma, los convenios, contratos, acuerdos y otros instrumentos que fijen derechos y obligaciones convencionales o patrimoniales para el Organismo, cuyos proyectos sean sometidos a su consideración por las personas titulares de las unidades administrativas que tengan atribuciones para convenir señaladas en el presente Estatuto; y llevar el registro y resguardo de los contratos y convenios remitidos por las unidades administrativas en los cuales intervenga el Organismo;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXIV. Fungir como representante del Organismo, en su carácter de responsable Oficial de Mejora Regulatoria, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo, conforme a lo dispuesto en la Ley General de Mejora Regulatoria;
 
 XXV. Delegar en el personal subalterno de las jerarquías inmediatas inferiores facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
 
 XXVI. Solicitar información a las personas Titulares de cualquier unidad administrativa del Organismo que se requiera para el cumplimiento de sus facultades;
 
-XXVII. Coordinar la administración, con arreglo a las disposiciones jurídicas aplicables, el Registro Nacional de Obligaciones Alimentarias, con la información que proporcionen las entidades federativas; y
+XXVII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
 XXVIII. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
@@ -921,29 +1051,31 @@ XXVIII. Las demás que le confiera la persona Titular del Organismo, así como l
 
 Corresponden a la persona Titular de la Dirección General de Enlace Interinstitucional las siguientes facultades:
 
-I. Establecer y supervisar las políticas y estrategias de cooperación interinstitucional en materia de asistencia social, atención ciudadana, comunicación social, proyectos estratégicos y relaciones públicas del Organismo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+I. Establecer y supervisar las políticas y estrategias de cooperación interinstitucional en materia de asistencia social, atención ciudadana, proyectos estratégicos y relaciones públicas del Organismo;
 
 II. Fortalecer la relación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, a través de la vinculación institucional para fomentar acciones de asistencia social;
 
 III. Dirigir las estrategias de coordinación intra e interinstitucional, para la atención de las peticiones ciudadanas ante el Organismo;
 
-IV. Proponer a la persona Titular del Organismo el programa de comunicación social del mismo, para someterlo a la autorización de las instancias correspondientes;
+IV. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-V. Establecer y fomentar el cumplimiento de lineamientos internos, en materia de comunicación de la imagen institucional, en materiales que genere el Organismo para su distribución y difusión interna o externa, los cuales deberán ser observados por las áreas afines u homólogas de las entidades federativas y de los municipios, cuando ejerzan recursos federales en este rubro y de acuerdo a la normatividad correspondiente;
+V. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-VI. Implementar campañas informativas de los programas y servicios que ofrece el Organismo y solicitar a las áreas correspondientes de la Administración Pública Federal, la contratación de espacios en medios de comunicación para su difusión, cuando se destine presupuesto para ello y con apego a la normatividad aplicable;
+VI. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-VII. Coordinar la vinculación con los representantes de medios de comunicación, a través de la difusión o generación de productos informativos, con los materiales que le propongan las áreas sustantivas del Organismo;
+VII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-VIII. Coordinar y formular, con las diversas unidades administrativas del Organismo, estrategias de comunicación frente a situaciones extraordinarias, en las cuales la Entidad intervenga conforme a sus facultades;
+VIII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-IX. Coordinar los procesos que permitan compilar y difundir internamente la información de los medios de comunicación, relativa a los acontecimientos de interés para el Organismo;
+IX. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-X. Integrar y formalizar la creación del Consejo Editorial del Organismo;
+X. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-XI. Fungir como Secretaría Técnica y ejecutar los acuerdos del Consejo Editorial del Organismo, así como establecer la política editorial y gráfica de la Entidad en la materia;
+XI. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-XII. Mantener coordinación y comunicación, cuando así se requiera, con las áreas de comunicación de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como de las instituciones públicas y privadas en materia de la asistencia social;
+XII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
 XIII. Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal, para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;
 
@@ -961,57 +1093,91 @@ XIX. Coordinar, con las diversas unidades administrativas del Organismo, mecanis
 
 XX. Coordinar con las instancias competentes la participación en foros, congresos, seminarios, reuniones, mecanismos y conferencias nacionales e internacionales, entre otros, en los que el Organismo tenga vinculación en apego a sus atribuciones;
 
-XXI. Coordinar las acciones para la recepción y gestión de donaciones y demás actos jurídicos que representen aportaciones para el Organismo por parte de instituciones gubernamentales, no gubernamentales, nacionales o internacionales u otros otorgantes, así como realizar las transferencias en beneficio de la población sujeta de asistencia social; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXI. Coordinar las acciones para la recepción y gestión de donativos, asignaciones y otros actos jurídicos que representen aportaciones para el Organismo por parte de instituciones gubernamentales, no gubernamentales, nacionales o internacionales u otros otorgantes, así como realizar las transferencias en beneficio de la población sujeta de asistencia social; y
 
 XXII. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
-#### SECCIÓN TERCERA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ATENCIÓN A PERSONAS Y GRUPOS PRIORITARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ATENCIÓN A POBLACIÓN VULNERABLE
 
 ###### Artículo 27.
 
 Corresponden a la persona Titular de la Dirección General de Alimentación y Desarrollo Comunitario las siguientes facultades:
 
-I. Proponer políticas en materia de asistencia social alimentaria, nutrición y desarrollo comunitario;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-II. Coordinarse con las instancias correspondientes, a fin (sic) promover o realizar y difundir la elaboración de estudios e investigaciones en materia de asistencia social alimentaria, nutrición y desarrollo familiar y comunitario;
+I. Proponer políticas en materia de asistencia social alimentaria, nutrición, atención a población vulnerable y desarrollo comunitario con perspectiva de género, enfoque interseccional y de derechos humanos.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+II. Coordinarse con las instancias correspondientes, a fin de promover o realizar y difundir la elaboración de estudios e investigaciones en materia de asistencia social, alimentación, nutrición y atención a población vulnerable y desarrollo familiar y comunitario;
 
 III. Promover la creación o actualización de las normas, políticas o lineamientos para la operación y evaluación de los programas alimentarios y de desarrollo individual, familiar y comunitario del Organismo;
 
-IV. Instrumentar estrategias, programas y acciones de carácter nacional en materia de asistencia social alimentaria, nutrición y de desarrollo comunitario, orientadas a mejorar las condiciones de vida de la población en situación de vulnerabilidad;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-V. Establecer los criterios para la identificación y selección de personas beneficiarias, así como para la distribución de apoyos alimentarios y la definición de acciones de desarrollo comunitario;
+IV. Instrumentar estrategias, programas y acciones de carácter nacional en materia de asistencia social, alimentación, nutrición, de desarrollo comunitario y de atención a población vulnerable orientadas a mejorar las condiciones de vida de la población en situación de vulnerabilidad;
 
-VI. Establecer los criterios de calidad nutricia e inocuidad de insumos alimentarios, considerando la disponibilidad de alimentos y la cultura alimentaria de las diversas regiones del país;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+V. Establecer los criterios de focalización de los programas de la Dirección General así como para la distribución de apoyos alimentarios y la definición de acciones de desarrollo comunitario y el establecimiento de acciones y criterios para la atención de población vulnerable;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VI. Establecer los criterios de calidad nutricia e inocuidad de insumos alimentarios, considerando la disponibilidad de alimentos y la cultura alimentaria de las diversas regiones del país; incluyendo la promoción de sistemas alimentarios sostenibles, así como la normativa vigente.
 
 VII. Realizar análisis técnicos y evaluar la calidad nutricia de los insumos en los programas alimentarios operados por los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y los municipios;
 
-VIII. Asesorar, monitorear y evaluar las acciones de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y los municipios, en materia de orientación alimentaria, de aseguramiento de la calidad alimentaria y de desarrollo comunitario;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII. Asesorar, monitorear y evaluar las acciones de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y los municipios, en materia de orientación alimentaria, de aseguramiento de la calidad alimentaria, atención a población vulnerable y de desarrollo comunitario;
 
 IX. Promover una alimentación correcta que contribuya al combate de la malnutrición de la población en situación de vulnerabilidad;
 
-X. Promover la organización y participación social para impulsar programas de desarrollo comunitario y asistencia social alimentaria, en su ámbito de competencia;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XI. Impulsar con los sectores público, privado y social, en el ámbito de la asistencia social, acciones de organización, prevención, atención y ayuda a personas afectadas por desastres;
+X. Promover la organización y participación social para impulsar programas de desarrollo comunitario, asistencia social, alimentación y población vulnerable en su ámbito de competencia;
 
-XII. Promover la firma de convenios entre los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, para la operación coordinada de los programas alimentarios y desarrollo comunitario;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XIII. Participar en el diseño de modelos de atención de carácter integral orientados a la mejora de la nutrición, la asistencia social alimentaria y el desarrollo individual, familiar y comunitario, para promover su aplicación;
+XI. Promover, a través de mecanismos de coordinación, el desarrollo de las capacidades institucionales de respuesta de los gobiernos estatales y municipales, que permitan realizar acciones de prevención, previsión, atención y recuperación ante situaciones de emergencia o desastre natural o antropogénico, en beneficio de población vulnerable.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XII. Promover la firma de convenios entre los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, para la operación coordinada de los programas alimentarios de desarrollo comunitario y atención a población vulnerable;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII. Participar en el diseño de modelos de atención de carácter integral orientados a la mejora de la nutrición, la asistencia social alimentaria, atención a población vulnerable y el desarrollo individual, familiar y comunitario, para promover su aplicación;
 
 XIV. Proponer la distribución del recurso del Ramo 33 Fondo de Aportaciones Múltiples, en su vertiente de Asistencia Social (Fondo V.i.), para la operación de los programas correspondientes a su competencia;
 
-XV. Asesorar, analizar, aprobar y monitorear los proyectos de aplicación de recursos vinculados al desarrollo comunitario;
+XV. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-XVI. Promover acciones de mejora de la actividad y los servicios de asistencia social que presten los Sistemas para el Desarrollo Integral de la Familia de las entidades federativas, y para la operación de los programas alimentarios y de desarrollo comunitario;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XVII. Promover la organización y la participación social, en un marco de corresponsabilidad, en los tres órdenes de gobierno, como mecanismo que favorezca el desarrollo comunitario; y
+XVI. Promover acciones de mejora de la actividad y los servicios de asistencia social que presten los Sistemas para el Desarrollo Integral de la Familia de las entidades federativas, y para la operación de los programas alimentarios, de desarrollo comunitario y de atención a población vulnerable;
 
-XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Personas y Grupos Prioritarios, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVII. Promover la organización y la participación social, en un marco de corresponsabilidad, en los tres órdenes de gobierno, como mecanismo que favorezca la alimentación, nutrición, atención a población vulnerable, el desarrollo comunitario;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 28.
 
-Corresponden a la persona Titular de la Dirección General de Atención a Personas y Grupos Prioritarios las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Proyectos Especiales de Atención a Población Vulnerable las siguientes facultades:
 
-I. Formular, aplicar y evaluar el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para someterlo a la consideración de la Jefa o Jefe de la Unidad de Atención a Personas y Grupos Prioritarios;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+I. Formular, aplicar y evaluar el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para someterlo a la consideración de la Jefa o Jefe de la Unidad de Atención a Población Vulnerable;
 
 II. Coadyuvar con la Secretaria o Secretario Técnico del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en el ejercicio de sus atribuciones;
 
@@ -1027,9 +1193,17 @@ VII. Elaborar y actualizar los Lineamientos a los que se deberán sujetar el fun
 
 VIII. Coordinar la elaboración, ejecución y operación del Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento de los Centros de Atención Infantil;
 
-IX. Diseñar, gestionar o coordinar las políticas públicas y las acciones concernientes a los servicios de asistencia social que se consideren primordiales para el beneficio de las personas en situación de vulnerabilidad, especialmente de niñas, niños y adolescentes en situación de migración acompañados y no acompañados, conforme a lo previsto en la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-X. Coordinar en colaboración con la Procuraduría Federal de Protección a Niñas, Niños y Adolescentes un registro de establecimientos asistenciales para el alojamiento y cuidado de la niñez migrante acompañada o separada, para concretar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los elementos que correspondan a la Unidad de Atención a Personas y Grupos Prioritarios a que se refiere la fracción VII del artículo 15 del presente ordenamiento;
+IX. Diseñar, gestionar o coordinar las políticas públicas y las acciones de asistencia social que se consideren primordiales para el beneficio de las personas en situación de vulnerabilidad, especialmente de niñas, niños y adolescentes en situación de migración acompañados y no acompañados, conforme a lo previsto en la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IX Bis. Operar la creación, promoción o rehabilitación de establecimientos asistenciales, centros de atención infantil, centros de asistencia social y de desarrollo comunitario, para la atención de población vulnerable, principalmente niñas, niños y adolescentes, incluidos aquellos en situación de movilidad; en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+X. Colaboración con la Procuraduría Federal de Protección a Niñas, Niños y Adolescentes, en el registro de establecimientos asistenciales para el alojamiento y cuidado de la niñez migrante acompañada o separada, para concretar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los elementos que correspondan a la Unidad de Atención a Población Vulnerable a que se refiere la fracción VII del artículo 15 del presente ordenamiento;
 
 XI. Apoyar, en el marco de sus atribuciones, a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y coadyuvar con los sectores público, privado y social en la atención integral de niñas, niños, adolescentes y personas en situación de vulnerabilidad;
 
@@ -1045,7 +1219,45 @@ XVI. Acompañar, monitorear y evaluar los Centros de Atención Infantil, para me
 
 XVII. Diseñar, gestionar o coordinar las políticas públicas y las acciones que atiendan al desarrollo integral de los individuos y familias que, por sus condiciones físicas, mentales, jurídicas, económicas o sociales, se encuentren en situación de vulnerabilidad, conforme a lo previsto en la normatividad aplicable; y
 
-XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Personas y Grupos Prioritarios, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+Artículo 28 bis. Corresponden a la persona Titular de la Dirección General de Profesionalización y Certificación las siguientes facultades:
+
+I. Coordinar las acciones de las demás unidades administrativas del Organismo inherentes a la elaboración, actualización y divulgación de las Normas Oficiales Mexicanas en materia de la asistencia social;
+
+II. Coordinar las políticas en materia de profesionalización y certificación de la asistencia social y orientar su ejecución por parte del Organismo y de las instituciones públicas y privadas respectivas;
+
+III. Coordinar el Subcomité de Asistencia Social del Comité Consultivo Nacional de Normalización de Salud Pública, para la elaboración y modificación de propuestas de anteproyectos y proyectos de Normas Oficiales Mexicanas en el ámbito de la asistencia social;
+
+IV. Proponer, actualizar y divulgar normas, modelos, buenas prácticas de intervención cultural, así como expedir lineamientos en materia de profesionalización de la asistencia social, en favor del desarrollo integral de las personas, familias y grupos prioritarios;
+
+V. Coordinar el diseño y desarrollo de modelos de intervención para la prestación de servicios asistenciales;
+
+VI. Organizar y operar el Centro de Información y Documentación sobre la Asistencia Social;
+
+VII. Elaborar, actualizar, operar y difundir el Directorio Nacional de las Instituciones de Asistencia Social;
+
+VIII. Administrar, actualizar y difundir el Sistema Nacional de Información en Materia de Asistencia Social;
+
+IX. Coordinar la operación técnica del Campus Virtual DIF, a fin de fortalecer y ofrecer cursos de profesionalización para favorecer prioritariamente a los grupos sociales más vulnerables;
+
+X. Diseñar e implementar mecanismos de gestión y acciones de capacitación, educación continua, desarrollo y certificación de competencias laborales del personal en materia de asistencia social, para las instituciones y organismos públicos y privados;
+
+XI. Coordinar la formación profesional en materia de atención a población vulnerable que no se encuentren reservadas a otras unidades administrativas;
+
+XII. Dirigir las acciones y mecanismos para el establecimiento y funcionamiento del Campus Virtual del Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XIII. Coordinar las acciones de planeación educativa y fungir como área normativa de la enseñanza de las profesiones a cargo de las escuelas de la Entidad;
+
+XIV. Desarrollar, en coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y municipios, procesos de evaluación y seguimiento de las acciones de profesionalización a las y los prestadores de servicios en materia de asistencia social;
+
+XV. Administrar y operar la Entidad de Certificación y Evaluación del Sistema Nacional DIF, así como la coordinación de acciones de normalización de competencias para la revisión, desarrollo y actualización de estándares en materia de asistencia social; y
+
+XVI. Las demás que le confiera la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 #### SECCIÓN CUARTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ASISTENCIA E INCLUSIÓN SOCIAL
 
@@ -1061,19 +1273,29 @@ III. Desarrollar, ejecutar y actualizar programas de atención integral a person
 
 IV. Coadyuvar en la formulación de propuestas de anteproyectos de Normas Oficiales Mexicanas en materia de asistencia e integración social y de salud;
 
-V. Promover procesos de certificación en Normas Técnicas de Competencia Laboral, dirigidas al personal de la Dirección General de Integración Social que participe en los programas de atención a personas y grupos prioritarios, en coordinación con la Dirección General de Profesionalización y Cultura;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-VI. Proponer Normas Oficiales Mexicanas relativas al funcionamiento de establecimientos públicos y privados que proporcionen servicios asistenciales a personas y grupos prioritarios, para su respectiva aprobación;
+V. Promover procesos de certificación en Normas Técnicas de Competencia Laboral, dirigidas al personal de la Dirección General de Integración Social que participe en los programas de atención a población vulnerable, en coordinación con la Dirección General de Profesionalización y Certificación;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VI. Proponer Normas Oficiales Mexicanas relativas al funcionamiento de establecimientos públicos y privados que proporcionen servicios asistenciales a personas y población vulnerable, para su respectiva aprobación;
 
 VII. Promover la formación de médicos geriatras, así como las actividades de capacitación continua al personal paramédico, técnico y auxiliar de la Dirección General de Integración Social;
 
 VIII. Emitir opiniones técnicas respecto a la procedencia de la expedición de la carta de acreditación de actividades asistenciales que, de conformidad con su objeto social, soliciten las instituciones privadas de asistencia social, la cual sólo hará las veces de tal, respecto de la actividad asistencial, sin que ello prejuzgue sobre el cumplimiento de requisitos competencia de otras autoridades;
 
-IX. Promover y concertar esfuerzos y acciones con dependencias y entidades de la Administración Pública y la comunidad en general, así como con instituciones privadas, especialmente con organizaciones de la sociedad civil, dedicadas a la prevención, atención e integración, en favor de personas y grupos prioritarios;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-X. Brindar servicios institucionales de recreación, hospedaje y alimentación en los centros recreativos del Organismo, para colaborar con el desarrollo de las potencialidades de las personas y grupos prioritarios;
+IX. Promover y concertar esfuerzos y acciones con dependencias y entidades de la Administración Pública y la comunidad en general, así como con instituciones privadas, especialmente con organizaciones de la sociedad civil, dedicadas a la prevención, atención e integración, en favor de personas y población vulnerable;
 
-XI. Promover el desarrollo integral, el mejoramiento y la integración familiar de las personas y grupos prioritarios;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+X. Brindar servicios institucionales de recreación, hospedaje y alimentación en los centros recreativos del Organismo, para colaborar con el desarrollo de las potencialidades de las personas y población vulnerable;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XI. Promover el desarrollo integral, el mejoramiento y la integración familiar de las personas y población vulnerable;
 
 XII. Ejecutar, cuando la autoridad competente lo determine, las medidas especiales de protección para niñas, niños y adolescentes;
 
@@ -1083,9 +1305,11 @@ XIV. Gestionar y realizar canalizaciones de personas beneficiarias a organizacio
 
 XV. Las demás que le confieran la Jefa o Jefe de la Unidad de Asistencia e Incisión (sic) Social, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 30.
 
-Corresponden a la persona Titular de la Dirección General de Rehabilitación e Inclusión las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Discapacidad, Inclusión y Rehabilitación las siguientes facultades:
 
 I. Establecer las políticas y estrategias en materia de prevención y atención integral de las personas con discapacidad o en riesgo de desarrollarla, así como procurar su inclusión social, educativa y laboral;
 
@@ -1093,7 +1317,9 @@ II. Desarrollar y operar el Programa de Servicios de Rehabilitación Integral di
 
 III. Desarrollar y operar el Programa de Atención a Personas con Discapacidad, así como promover la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la discapacidad;
 
-IV. Prestar servicios de atención, rehabilitación integral y promoción de la inclusión social, educativa y laboral para las personas con discapacidad;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IV. Prestar servicios de atención, rehabilitación integral y promoción de la inclusión en los entornos social, educativo, laboral, recreativo y deportivo para las personas con discapacidad;
 
 V. Participar en la formulación de propuestas de anteproyecto de Normas Oficiales Mexicanas en materia de prevención de discapacidad y rehabilitación integral de personas con discapacidad;
 
@@ -1103,31 +1329,53 @@ VII. Administrar, supervisar y coordinar la operación de las unidades y centros
 
 VIII. Formar personas médicas especialistas en medicina de rehabilitación, con licenciaturas en fisioterapia y terapia ocupacional, con la finalidad de coadyuvar en la prevención, rehabilitación e inclusión social educativa y laboral de las personas con discapacidad;
 
-IX. Promover la capacitación y educación continua tanto del personal del Organismo que participa en la atención de las personas con discapacidad o en riesgo de desarrollarla, como a las organizaciones de la sociedad civil, comunidades y familias que trabajen en favor de la inclusión social, educativa y laboral de las personas con discapacidad;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-X. Conducir la implementación y ejecución oportuna de programas de investigación y, en su caso, desarrollo tecnológico, en materia de prevención de la discapacidad, rehabilitación e inclusión social, educativa y laboral de las personas con discapacidad;
+IX. Promover la capacitación y educación continua tanto del personal adscrito al Organismo que participa en la atención de las personas con discapacidad o con limitación funcional, así como a las organizaciones de la sociedad civil, comunidades y familias que trabajen en favor de la inclusión de las personas con discapacidad;
 
-XI. Supervisar y emitir opinión sobre la expedición, revalidación o cancelación de licencias a unidades de rehabilitación de organismos públicos y privados;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XII. Promover y concertar esfuerzos y acciones con las dependencias y entidades de la Administración Pública, la comunidad en general, así como con instituciones privadas, especialmente organizaciones de la sociedad civil, dedicadas a la prevención, atención e inclusión de personas con discapacidad;
+X. Conducir la implementación y ejecución de programas de investigación y, en su caso, desarrollo tecnológico, en materia de prevención de la discapacidad, rehabilitación e inclusión social, educativa, laboral, recreativa y deportiva de las personas con discapacidad;
 
-XIII. Coadyuvar en la instrumentación y operación del servicio nacional de información en materia de rehabilitación; así como contribuir con el sistema nacional de información en discapacidad de las personas atendidas en los servicios de rehabilitación no hospitalaria de los Centros de Rehabilitación del Organismos (sic);
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XIV. Proponer la celebración de acuerdos y convenios con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como con las instituciones de asistencia privada, para la implementación de programas en materia de prevención de discapacidad, atención integral de personas con discapacidad, así como la inclusión social, educativa y laboral de las personas con discapacidad;
+XI. Supervisar y emitir opinión sobre la expedición, revalidación o cancelación de licencias a unidades o centros de rehabilitación de organismos públicos y privados;
 
-XV. Promover el desarrollo de contenidos y edición de materiales para la prevención, rehabilitación e inclusión social de las personas con discapacidad;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XII. Promover y concertar esfuerzos, acciones con las dependencias y entidades de la Administración Pública, instituciones privadas, organizaciones de la sociedad civil y la comunidad en general, en materia de prevención de la discapacidad, así como en atención e inclusión de personas con discapacidad;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII. Coadyuvar en la instrumentación y operación del servicio nacional de información en materia de rehabilitación, así como contribuir con el sistema nacional de información en discapacidad de las personas atendidas en los servicios de rehabilitación no hospitalaria de los Centros de Rehabilitación del Organismo;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIV. Proponer la celebración de acuerdos y convenios con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como con las instituciones de asistencia privada, para la implementación de programas en materia de prevención de la discapacidad, atención integral e inclusión social, educativa, laboral, recreativa y deportiva de las personas con discapacidad;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XV. Promover el desarrollo de contenidos y edición de materiales para la prevención de la discapacidad, rehabilitación e inclusión social, educativa, laboral, recreativa y deportiva de las personas con discapacidad;
 
 XVI. Dictaminar la viabilidad de los proyectos en materia de prevención, rehabilitación e inclusión social de las personas con discapacidad, en el marco del Programa de Atención a Personas con Discapacidad;
 
 XVII. Evaluar y validar proyectos en materia de prevención, rehabilitación e inclusión social de las personas con discapacidad, en el marco del Programa de Atención a Personas con Discapacidad;
 
-XVIII. Diseñar e instrumentar los procedimientos internos para el funcionamiento de los centros de rehabilitación pertenecientes al Organismo y dar cumplimiento a la normatividad externa;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XIX. Promover la aplicación de la normatividad vigente en materia de accesibilidad y modificaciones urbanísticas y arquitectónicas, de acuerdo con las necesidades de las personas con discapacidad en su comunidad;
+XVIII. Diseñar e instrumentar la normativa interna para el funcionamiento de los centros de rehabilitación pertenecientes al Organismo y dar cumplimiento a la normativa externa;
 
-XX. Impulsar procesos de capacitación, formación y certificación de las personas que desarrollan acciones de asistencia social, en la materia de su competencia, en coordinación con la Dirección General de Profesionalización y Cultura; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XXI. Las demás que le confiera la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las disposiciones normativas aplicables.
+XIX. Promover la aplicación de la normatividad vigente en materia de accesibilidad y modificaciones urbanísticas y arquitectónicas, de acuerdo con las necesidades de las personas con discapacidad en su comunidad.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XX. Impulsar procesos de capacitación, formación y certificación de las personas que desarrollan acciones de asistencia social, en la materia de su competencia, en coordinación con la Dirección General de Profesionalización y Certificación; y
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXI. Las demás que le confiera la persona titular de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y otras disposiciones normativas aplicables.
 
 #### SECCIÓN QUINTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -1139,7 +1387,9 @@ I. Brindar asesoría y representación en suplencia a niñas, niños y adolescen
 
 II. Ejercer la representación coadyuvante, a petición de parte o de oficio, en los procedimientos judiciales y administrativos en que participen niñas, niños y adolescentes;
 
-III. Fungir, conforme a las disposiciones normativas, aplicables como conciliadora y mediadora en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+III. Fungir conforme a las disposiciones normativas aplicables, como conciliadora y mediadora en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados;
 
 IV. Iniciar o facilitar los procedimientos de solicitud de pago de alimentos, los de obtención de medidas provisionales y los de medios alternativos de solución de controversias, prestar asistencia jurídica y realizar las acciones de obtención de pruebas, en materia de cobro internacional de alimentos en coordinación con las autoridades competentes;
 
@@ -1167,19 +1417,31 @@ XV. Promover la inclusión de quienes ejerzan la patria potestad, tutela o guard
 
 XVI. Realizar acciones para coadyuvar en la localización y la reunificación de las familias de niñas, niños y adolescentes, cuando hayan sido privados de ella, privilegiando en todo momento el interés superior de la niñez;
 
-XVII. Supervisar, en el ámbito de su competencia, que en los Centros de Asistencia Social se integren los expedientes y se atiendan de manera integral a las niñas, niños y adolescentes en acogimiento residencial;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVII. Supervisar, en el ámbito de su competencia, que en los Centros de Asistencia Social del Sistema Nacional para el Desarrollo Integral de la Familia se integren los expedientes y se atiendan de manera integral a las niñas, niños y adolescentes en acogimiento residencial;
 
 XVIII. Impulsar las modalidades de cuidados alternativos, en aquellos casos en los que se determine el acogimiento temporal de niñas, niños y adolescentes;
 
-XIX. Dar seguimiento de la situación en la que se encuentren niñas, niños y adolescentes, una vez que haya concluido el acogimiento temporal, de conformidad con los instrumentos normativos que para tal efecto se emitan;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XX. Impulsar el desarrollo de lineamientos y procedimientos para la restitución de los derechos de niñas, niños y adolescentes;
+XIX. Dar seguimiento a la situación en la que se encuentren niñas, niños y adolescentes, una vez que haya concluido el acogimiento residencial, de conformidad con los instrumentos normativos que para tal efecto se emitan;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XX. Impulsar el desarrollo de lineamientos, procedimientos, protocolos, guías y otros documentos en materia de representación jurídica y restitución de derechos de niñas, niños y adolescentes
 
 XXI. Proporcionar información de su competencia para la integración del registro de niñas, niños y adolescentes migrantes extranjeros no acompañados que se encuentren en el territorio nacional;
 
 XXII. Resguardar, en coordinación con el Instituto Nacional de Migración, las bases de datos de niñas, niños y adolescentes migrantes mexicanos, que se encuentren en el extranjero, en procesos de repatriación;
 
-XXIII. Impulsar las modalidades de los cuidados alternativos en aquellos casos en los que se determine el acogimiento temporal de niñas, niños y adolescentes; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXIII. Coordinar la creación y operación de los Grupos de Trabajo a nivel nacional que resulten necesarios para homologar criterios y procedimientos en materia de representación jurídica y restitución de derechos de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XXIII Bis. Coordinar las acciones necesarias para la protección y restitución de los derechos de niñas, niños y adolescentes, de conformidad con lo dispuesto por la Ley General de los Derechos de Niñas, Niños y Adolescentes y los demás instrumentos normativos que para tal efecto se emitan.
 
 XXIV. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
@@ -1187,13 +1449,19 @@ XXIV. Las demás que le confiera la Procuradora o Procurador Federal de Protecci
 
 Corresponden a la persona Titular de la Dirección General de Regulación de Centros de Asistencia Social las siguientes facultades:
 
-I. Formular los requisitos mínimos y criterios, así como impulsar la elaboración de instrumentos normativos, para autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social, públicos y privados, y asociaciones, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento y demás normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-II. Ejecutar las acciones para autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social, o, en su caso, en coordinación con las Procuradurías de Protección de las entidades federativas, de acuerdo con los instrumentos normativos que para tal efecto se emitan;
+I. Formular los requisitos mínimos y criterios, así como impulsar la elaboración de instrumentos normativos, para identificar, autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social, públicos, privados, y asociaciones, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento y demás normatividad aplicable;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+II. Ejecutar las acciones para identificar, autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social, o, en su caso, en coordinación con las Procuradurías de Protección de las entidades federativas, de acuerdo con los instrumentos normativos que para tal efecto se emitan;
 
 III. Diseñar e implementar un sistema de certificación de los Centros de Asistencia Social y de las competencias laborales de su personal, en concordancia con la normatividad vigente;
 
-IV. Proponer la elaboración de normas técnicas o estándares de competencia para certificar las competencias del personal que labora en los Centros de Asistencia Social, en coordinación con la Dirección General de Profesionalización y Cultura;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IV. Proponer la elaboración de normas técnicas o estándares de competencia para certificar las competencias del personal que labora en los Centros de Asistencia Social, en coordinación con la Dirección General de Profesionalización y Certificación;
 
 V. Integrar y actualizar el Registro Nacional de Centros de Asistencia Social a que hacen referencia los artículos 112 de la Ley General de los Derechos de Niñas, Niños y Adolescentes y 41 de su Reglamento, con la información que proporcionen el Organismo y las Procuradurías de Protección de las entidades federativas;
 
@@ -1213,7 +1481,9 @@ Corresponden a la persona Titular de la Dirección General de Normatividad, Prom
 
 I. Asesorar a los Sistemas para el Desarrollo Integral de la Familia u homólogos y a las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y municipios, así como, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
 
-II. Promover y llevar a cabo la formación y capacitación de personas servidoras públicas, actoras vinculadas y personas responsables de la guarda y custodia de niñas, niños y adolescentes, mediante la elaboración de herramientas e impartición de cursos en materia de promoción, protección y restitución integral de derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+II. Promover y llevar a cabo la formación y capacitación de personas servidoras públicas, actoras vinculadas y personas responsables de la guarda y custodia de niñas, niños y adolescentes, mediante la elaboración de herramientas metodológicas, formulación de contenidos e impartición de cursos en materia de promoción, protección y restitución integral de derechos de niñas, niños y adolescentes;
 
 III. Capacitar, en las materias de su competencia, a las personas solicitantes de adopción y familias de acogida;
 
@@ -1223,11 +1493,13 @@ V. Elaborar o impulsar estudios, investigaciones y diagnósticos en materia de l
 
 VI. Elaborar las propuestas de Normas Oficiales Mexicanas referentes a los derechos de las niñas, niños y adolescentes y participar en los grupos técnicos para su elaboración;
 
-VII. Dirigir acciones de promoción y difusión de los derechos de las niñas, niños y adolescentes;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 2024)</small>
+VII. Dirigir acciones de promoción, difusión y participación infantil y de las adolescencias respecto de los derechos de las niñas, niños y adolescentes;
 
-VIII. Promover la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas, así como llevar a cabo acciones en materia de participación infantil con dicha Red; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII. Promover la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal, en las entidades federativas y municipios, así como llevar a cabo acciones en materia de participación infantil con dicha Red; y
 
 IX. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
@@ -1235,45 +1507,71 @@ IX. Las demás que le confiera la Procuradora o Procurador Federal de Protecció
 
 Corresponden a la persona Titular de la Dirección General de Coordinación y Políticas las siguientes facultades en el ámbito de su competencia:
 
-I. Promover la participación de los sectores público, social y privado en la planificación y ejecución de políticas y acciones a favor de la protección integral de niñas, niños y adolescentes;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+I. Promover y coordinar la participación de los sectores público, social y privado en la planificación y ejecución de políticas y acciones a favor de la protección integral de niñas, niños y adolescentes;
 
 II. Colaborar con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y los municipios, así como con las alcaldías, en el diseño, ejecución y seguimiento de políticas públicas, en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
 
-III. Coordinar las acciones con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de proporcionar asistencia para la transmisión y recepción de solicitudes, la localización de las personas deudoras o acreedoras, la obtención de información sobre sus ingresos u otras circunstancias económicas, la notificación de documentos, el cobro y la transferencia rápida de los pagos de alimentos, la determinación de la filiación y la ejecución continuada, en materia de cobro internacional de alimentos, en los términos de la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-IV. Coordinar las acciones que permitan obtener la colaboración de las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de que la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes, facilite o inicie procedimientos de solicitud de pago de alimentos, los de obtención de medidas provisionales y los de medios alternativos de solución de controversias, preste asistencia jurídica y realice las acciones de obtención de pruebas, en materia de cobro internacional de alimentos, en coordinación con dichas instancias;
+III. Proponer y Coordinar las acciones con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de proporcionar asistencia para la transmisión y recepción de solicitudes, la localización de las personas deudoras o acreedoras, la obtención de información sobre sus ingresos u otras circunstancias económicas, la notificación de documentos, la gestión tendiente para facilitar el cobro y la transferencia rápida de los pagos de alimentos, la determinación de la filiación y la ejecución continuada, en materia de cobro internacional de alimentos, en los términos de la normatividad aplicable;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IV. Proponer, implementar y coordinar las acciones que permitan obtener la colaboración de las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de que la Dirección General de Representación Jurídica de Niñas, Niños y Adolescentes, facilite o inicie procedimientos de solicitud de pago de alimentos, los de obtención de medidas provisionales y los de medios alternativos de solución de controversias, preste asistencia jurídica y realice las acciones de obtención de pruebas, en materia de cobro internacional de alimentos, en coordinación con dichas instancias;
 
 V. Proponer, actualizar y dar seguimiento a los acuerdos interinstitucionales de coordinación que se celebren con las instancias de los tres órdenes de gobierno e internacionales;
 
-VI. Impulsar y elaborar convenios de cooperación, coordinación y concertación, en materia de los derechos de las niñas, niños y adolescentes con los sectores público, privado y social, particularmente con instituciones académicas, así como con instancias internacionales;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-VII. Proponer políticas alineadas al Programa Nacional de Protección Integral de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables;
+VI. Proponer y elaborar convenios de cooperación, coordinación y concertación, en materia de los derechos de las niñas, niños y adolescentes con los sectores público, privado y social, particularmente con instituciones académicas, organizaciones de la sociedad civil, así como con instancias internacionales;
 
-VIII. Implementar y actualizar para el Organismo y la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, los registros, bases de datos o archivos, en términos de lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento, que no correspondan a otras unidades administrativas;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-IX. Formular y revisar los contratos y convenios a celebrar por la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de acuerdo con los requerimientos de las áreas respectivas, remitiéndolos a la Dirección General de Asuntos Jurídicos para su revisión, registro y resguardo; y
+VII. Proponer implementar y coordinar políticas alineadas al Programa Nacional de Protección Integral de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII. Diseñar, implementar, actualizar y administrar para el Organismo y la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, los sistemas, registros, bases de datos o archivos, en términos de lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento, que no correspondan a otras unidades administrativas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII Bis. Diseñar, implementar, actualizar y administrar, con arreglo a las disposiciones jurídicas aplicables, el Registro Nacional de Obligaciones Alimentarias, con la información que proporcionen las entidades federativas;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IX. Proponer y formular los contratos y convenios a celebrar por la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de acuerdo con los requerimientos de las áreas respectivas, remitiéndolos a la Dirección General de Asuntos Jurídicos para su revisión, registro y resguardo; y
 
 X. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 #### SECCIÓN SEXTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-Corresponden a la persona Titular de la Dirección General de Programación, Organización y Presupuesto las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Programación y Presupuesto las siguientes facultades:
 
 I. Orientar y coordinar las actividades de planeación, programación, presupuestación y control del gasto público de las unidades administrativas del Organismo;
 
-II. Registrar y dar seguimiento, ante la Secretaría de Hacienda y Crédito Público, a los programas y proyectos de inversión que solicite la Dirección General de Recursos Materiales y Servicios Generales;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+II. Registrar y dar seguimiento, ante la Secretaría de Hacienda y Crédito Público, a los programas y proyectos de inversión que solicite la Dirección General de Recursos Materiales y Servicios;
 
 III. Proponer, para aprobación superior, los sistemas y procedimientos para la formulación, adecuación, ejercicio y control del presupuesto autorizado a las unidades administrativas del Organismo;
 
-IV. Concertar la estructura programática del Organismo, integrar y consolidar el anteproyecto de presupuesto del gasto de operación, subsidios, otras erogaciones e inversión y su respectivo calendario de gasto, así como administrar su ejercicio;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+IV. Concertar la estructura programática del Organismo, integrar y consolidar el anteproyecto de presupuesto del gasto de operación, subsidios, otras erogaciones e inversión y su respectivo calendario de gasto; así como administrar su ejercicio e integrar la información para la Cuenta Pública de la Hacienda Federal y demás informes relacionados;
 
 V. Difundir entre las unidades administrativas del Organismo las normas, lineamientos, políticas y demás disposiciones que, en materia programática, presupuestaria, financiera, contable y de organización, sean de su respectiva competencia;
 
 VI. Integrar y dar seguimiento a los programas sectoriales, especiales e institucionales derivados del Plan Nacional de Desarrollo, salvo aquellos que, por no ser del ámbito de su responsabilidad, su formulación corresponda a otras áreas del Organismo, conforme a la normatividad específica;
 
-VII. Coordinar la integración del Programa Anual (sic) Trabajo del Organismo, así como los informes de actividades que la persona Titular de la Entidad presente a la Junta de Gobierno y a las dependencias que lo requieran;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+VII. Coordinar la integración del Programa Anual de Trabajo del Organismo, así como los informes de actividades que la persona Titular de la Entidad presente a la Junta de Gobierno y a las dependencias que lo requieran;
 
 VIII. Integrar los informes trimestrales sobre la operación y resultados del Organismo;
 
@@ -1281,23 +1579,31 @@ IX. Coordinar la integración de los informes programático-presupuestales que e
 
 X. Elaborar, en coordinación con las unidades administrativas del Organismo, documentos estadísticos, informes y otros que sean requeridos en el ámbito de su competencia;
 
-XI. Gestionar ante las instancias correspondientes, en el ámbito de su competencia, el registro de las propuestas de modificación organizacional del Organismo;
+XI. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-XII. Coordinar la elaboración del Manual de Organización General, documentar los cambios de la organización interna, así como colaborar en la actualización del Estatuto Orgánico y de los manuales de procedimientos del Organismo;
+XII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2024)
 
-XIII. Llevar los registros contables y la formulación de los estados financieros del Organismo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII. Conducir los registros contables y la formulación de los estados financieros del Organismo;
 
 XIV. Orientar la planeación, operación, registro y control de los ingresos y egresos del Organismo, así como los relativos a depósitos bancarios e inversiones;
 
-XV. Establecer las previsiones presupuestales y el control de los compromisos de pago del Organismo y realizar su liquidación;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XVI. Fungir como ventanilla única de las unidades administrativas del Organismo ante las dependencias y entidades de la Administración Pública Federal y demás instancias que requieran información, en las materias de planeación, presupuestación, ejercicio, control y evaluación del gasto público; y
+XV. Establecer las previsiones presupuestales y el control de los compromisos de pago del Organismo y gestionar su liquidación;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVI. Fungir como ventanilla Única de las unidades administrativas del Organismo ante las dependencias y entidades de la Administración Pública Federal y demás instancias que requieran información, en las materias de planeación, presupuestación, ejercicio, control, gestión de pago y evaluación del gasto público; y
 
 XVII. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-Corresponden a la persona Titular de la Dirección General de Recursos Materiales y Servicios Generales las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Recursos Materiales y Servicios las siguientes facultades:
 
 I. Establecer y operar las políticas, normas y sistemas para la administración de los recursos materiales y servicios generales del Organismo;
 
@@ -1323,21 +1629,29 @@ XI. Administrar el uso y asignación del parque vehicular del Organismo, así co
 
 XII. Establecer y operar los planes y programas de Protección Civil del Organismo, en coordinación con las diversas áreas e instituciones involucradas;
 
-XIII. Coordinar la recepción, custodia, entrega y transferencia de donativos y/o asignaciones;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XIV. Elaborar y consolidar las propuestas en materia de bienes muebles y obra pública, así como tramitar ante la Dirección General de Programación Organización y Presupuesto, el registro de cartera de los programas y proyectos de inversión del Organismo;
+XIII. Coordinar la recepción, custodia, entrega y transferencia de donativos y/o asignaciones, en coordinación con la Dirección General de Enlace Interinstitucional.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIV. Elaborar y consolidar las propuestas en materia de bienes muebles y obra pública, así como tramitar ante la Dirección General de Programación y Presupuesto, el registro de cartera de los programas y proyectos de inversión del Organismo;
 
 XV. Coordinar y promover la organización y conservación del archivo general del Organismo, conforme a la normatividad vigente en materia archivística;
 
-XVI. Controlar y administrar el ejercicio de los programas y proyectos de inversión, así como gestionar, ante la Dirección General de Programación, Organización y Presupuesto, su registro y seguimiento en los sistemas establecidos por la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVI. Controlar y administrar el ejercicio de los programas y proyectos de inversión, así como gestionar, ante la Dirección General de Programación y Presupuesto, su registro y seguimiento en los sistemas establecidos por la Secretaría de Hacienda y Crédito Público;
 
 XVII. Iniciar y dar trámite a los procedimientos de rescisión de contratos y pedidos, así como suscribir las determinaciones, comunicaciones y notificaciones correspondientes a la rescisión, en términos de la legislación aplicable; y
 
 XVIII. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 37.
 
-Corresponden a la persona Titular de la Dirección General de Recursos Humanos las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Recursos Humanos y Organización las siguientes facultades:
 
 I. Formular y aplicar las políticas, normas, lineamientos, procedimientos y sistemas, en materia de reclutamiento, selección, contratación y movimientos del personal del Organismo;
 
@@ -1347,7 +1661,9 @@ III. Integrar, administrar y mantener actualizada la plantilla de recursos human
 
 IV. Formular el anteproyecto de presupuesto anual de las partidas de gasto del Capítulo 1000, Servicios Personales, así como de las partidas de gasto de operación asociadas, gestionar sus modificaciones, ejecutar su pago, realizar su registro e integrar la información para la Cuenta Pública de la Hacienda Federal y demás informes relacionados;
 
-V. Gestionar, ante la Dirección General de Programación, Organización y Presupuesto, el trámite de pago de nóminas, retenciones, pagos a terceros, prestaciones y servicios relacionados con la administración y el desarrollo de los recursos humanos, así como las erogaciones por resolución judicial en materia laboral y las relacionadas con las y los prestadores de servicio social, prácticas profesionales y residencias médicas;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+V. Gestionar, ante la Dirección General de Programación y Presupuesto, el trámite de pago de nóminas, retenciones, pagos a terceros, prestaciones y servicios relacionados con la administración y el desarrollo de los recursos humanos, así como las erogaciones por resolución judicial en materia laboral y las relacionadas con las y los prestadores de servicio social, prácticas profesionales y residencias médicas;
 
 VI. Formular y ejecutar los procedimientos para integrar, controlar, actualizar y custodiar los expedientes documentales, electrónicos y biométricos, del personal;
 
@@ -1361,9 +1677,13 @@ X. Designar, por acuerdo de la Jefa o Jefe de la Unidad de Administración y Fin
 
 XI. Integrar y ejecutar el Programa Anual de Capacitación del Organismo;
 
-XII. Implementar el Programa de Desarrollo Institucional y de Género, así como dirigir el funcionamiento de la Dirección que operará como Unidad de Género, en coordinación con las demás unidades administrativas del Organismo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
-XIII. Fomentar y coordinar acciones para el bienestar social, la salud y de apoyo a la economía de las personas servidoras publicas (sic) Organismo;
+XII. Implementar el Programa de Desarrollo Institucional, en coordinación con las demás unidades administrativas del Organismo;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII. Fomentar y coordinar acciones para el bienestar social, la salud y de apoyo a la economía de las personas servidoras públicas del Organismo;
 
 XIV. Administrar el otorgamiento y difusión de las prestaciones económicas y contractuales;
 
@@ -1373,45 +1693,15 @@ XVI. Intervenir, registrar y ejecutar las medidas disciplinarias y las sanciones
 
 XVII. Realizar los trámites administrativos necesarios para gestionar las bajas del personal que correspondan;
 
-XVIII. Colaborar con la Dirección General de Programación, Organización y Presupuesto en los estudios de organización que impliquen la modificación de la estructura orgánica y ocupacional del Organismo, y opinar respecto de la viabilidad presupuestaria de los movimientos organizacionales, ocupacionales y salariales requeridos por las unidades administrativas; y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
+XVIII. Gestionar ante las instancias correspondientes, en el ámbito de su competencia, el registro de las propuestas de modificación organizacional del Organismo; y coordinar la elaboración del Manual de Organización General, documentar los cambios de la organización interna, así como colaborar en la actualización del Estatuto Orgánico y de los manuales de procedimientos del Organismo; y
 
 XIX. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 38.
 
-Corresponden a la persona Titular de la Dirección General de Profesionalización y Cultura las siguientes facultades:
-
-I. Coordinar las acciones de las demás unidades administrativas del Organismo inherentes a la elaboración, actualización y divulgación de las Normas Oficiales Mexicanas en materia de la asistencia social;
-
-II. Coordinar las políticas en materia de profesionalización y certificación de la asistencia social y orientar su ejecución por parte del Organismo y de las instituciones públicas y privadas respectivas;
-
-III. Coordinar el Subcomité de Asistencia Social del Comité Consultivo Nacional de Normalización de Salud Pública, para la elaboración y modificación de propuestas de anteproyectos y proyectos de Normas Oficiales Mexicanas en el ámbito de la asistencia social;
-
-IV. Proponer, actualizar y divulgar normas, modelos, buenas prácticas de intervención cultural, así como expedir lineamientos en materia de profesionalización de la asistencia social, en favor del desarrollo integral de las personas, familias y grupos prioritarios;
-
-V. Coordinar el diseño y desarrollo de modelos de intervención para la prestación de servicios asistenciales;
-
-VI. Organizar y operar el Centro de Información y Documentación sobre la Asistencia Social;
-
-VII. Elaborar, actualizar, operar y difundir el Directorio Nacional de las Instituciones de Asistencia Social;
-
-VIII. Administrar, actualizar y difundir el Sistema Nacional de Información en Materia de Asistencia Social;
-
-IX. Coordinar la operación del Campus Virtual DIF;
-
-X. Diseñar e implementar mecanismos de gestión y acciones de capacitación, educación continua, desarrollo y certificación de competencias laborales del personal en materia de asistencia social, para las instituciones y organismos públicos y privados;
-
-XI. Coordinar la formación de personas en materia (sic) atención a personas y grupos prioritarios que no se encuentren reservadas a otras unidades administrativas;
-
-XII. Dirigir las acciones y mecanismos para el establecimiento y funcionamiento del Campus Virtual del Sistema Nacional para el Desarrollo Integral de la Familia;
-
-XIII. Coordinar las acciones de planeación educativa y fungir como área normativa de la enseñanza de las profesiones a cargo de las escuelas de la Entidad;
-
-XIV. Desarrollar, en coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y municipios, procesos de evaluación y seguimiento de las acciones de profesionalización a las y los prestadores de servicios en materia de asistencia social;
-
-XV. Administrar y operar la Entidad de Certificación y Evaluación del Sistema Nacional DIF, así como la coordinación de acciones de normalización de competencias para la revisión, desarrollo y actualización de estándares en materia de asistencia social; y
-
-XVI. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2024)
 
 ### CAPÍTULO VII. DE LA SUPLENCIA DE LAS PERSONAS SERVIDORAS PÚBLICAS
 
@@ -1423,13 +1713,17 @@ Durante las ausencias de la persona Titular del Organismo, el despacho y resoluc
 
 Durante las ausencias de las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes o de la Unidad de Administración y Finanzas, el despacho y resolución de los asuntos de su competencia, estarán a cargo de las Directoras y Directores Generales adscritos a sus correspondientes áreas de responsabilidad, conforme a sus respectivas atribuciones.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 41.
 
-Durante las ausencias de las personas titulares de las Direcciones Generales, éstas serán suplidas por las personas servidoras públicas de la jerarquía inmediata inferior, y durante las ausencias de éstas, serán suplidas por la persona que ocupe un cargo inferior inmediato y así sucesivamente, hasta el nivel de Jefatura de Departamento, dentro de su respectivo ámbito de responsabilidad.
+Durante las ausencias de las personas titulares de las Direcciones Generales, éstas serán suplidas por las personas servidoras públicas de la jerarquía inmediata inferior, y durante las ausencias de éstas, serán suplidas por la persona que ocupe un cargo inferior inmediato, y así sucesivamente, hasta el nivel de Soportes Administrativos, dentro de su respectivo ámbito de responsabilidad.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 42.
 
-Las ausencias y vacantes de la persona Titular del Órgano Interno de Control, así como de las personas titulares de las áreas de Responsabilidades, de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, y de Quejas, Denuncias e Investigaciones; se sujetarán a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias y vacantes de la persona Titular del Órgano Interno de Control, así como de las personas titulares de las áreas de Responsabilidades, de Auditoría Interna, Desarrollo y Mejora de la Gestión Pública, y de Quejas, Denuncias e Investigaciones; se sujetarán a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1454,3 +1748,43 @@ Se expide en la Ciudad de México, el 10 de julio de dos mil veintitrés.
 LA TITULAR DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 NURIA MARÍA FERNÁNDEZ ESPRESATE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "EXTRACTO DEL ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA".]</small>
+
+EXTRACTO DEL ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.
+
+MARÍA DEL ROCÍO GARCÍA PÉREZ, Titular del Sistema Nacional para el Desarrollo Integral de la Familia, con fundamento en lo establecido por los artículos 1°, 4°, párrafos cuarto y noveno de la Constitución Política de los Estados Unidos Mexicanos; 24, fracción III, y 172 de la Ley General de Salud; 4, 14, 28, 33, inciso c) de la Ley de Asistencia Social; 58 fracción VIII de la Ley Federal de Entidades Paraestatales; 4 de la Ley Federal del Procedimiento Administrativo; 3, fracción III y 4 de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales; 42 fracción I del Reglamento de la Ley Federal de Entidades Paraestatales; 10, fracciones XIII y XXVIII del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado el diez de agosto de dos mil veintitrés; tengo a bien expedir el Acuerdo por el que se aprueba la modificación al Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, mismo que tiene como propósito la incorporación estatutaria, mediante las subsecuentes modificaciones a la estructura orgánica, para la debida congruencia legal de las atribuciones de las unidades administrativas del Sistema Nacional para el Desarrollo Integral de la Familia.
+
+La versión íntegra; está disponible en la siguiente dirección electrónica:
+
+http://sitios.dif.gob.mx/normateca/wp-content/Archivos/Normateca/ModEOSNDIF_2024.pdf
+
+Página DOF:
+
+www.dof.gob.mx/2024/DIF/ModEOSNDIF.pdf
+
+Lo anterior, en cumplimiento a la normatividad antes mencionada, así como al artículo 4° de la Ley Federal de Procedimiento Administrativo, en relación con el último párrafo del artículo segundo del "ACUERDO que modifica al diverso por el que se instruye a las dependencias y entidades de la Administración Pública Federal, así como a la Procuraduría General de la República a abstenerse de emitir regulación en las materias que se indican", publicado el 21 de agosto de 2012; y artículos 2° y 3°, fracción III, de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales.
+
+Ciudad de México, el 17 de diciembre de 2024.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, Mtra. María del Rocío García Pérez.- Rúbrica.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO. Publíquese el Extracto del presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Se abrogan, el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, su Nota Aclaratoria, su Modificación y el ACUERDO por el que se modifica nuevamente; publicados en el Diario Oficial de la Federación el 05 de diciembre de 2019, el 31 de marzo de 2020, el 27 de agosto de 2021, el 29 de diciembre de 2021 y 10 de agosto de 2023, respectivamente.
+
+Las referencias que contengan todas (sic) disposiciones de jerarquía inferior al presente ordenamiento se entenderán implícitamente aludidas a los términos manejados por el presente Estatuto, sin que se requiera mayor modificación.
+
+Únicamente se derogan las disposiciones normativas de jerarquía inferior al presente ordenamiento en lo que se opongan o contravengan expresamente a sus disposiciones.
+
+La persona Titular del Organismo deberá impulsar, con el apoyo de la Dirección General de Asuntos Jurídicos y las demás unidades administrativas de la Entidad, coordinadas por dicha Dirección General, la actualización progresiva de la normatividad en comento, para su armonización con el presente Estatuto.
+
+CUARTO. Los nombramientos que actualmente ocupan la titularidad las unidades administrativas y direcciones generales referidas en el presente Estatuto o del Órgano Interno de Control Específico, mantendrán su vigencia, sin requerir ratificación e independientemente del cambio en la posición de la unidad administrativa a su cargo, dentro de la estructura orgánica del Organismo, o del cambio que haya existido en la denominación, en cuyo caso los nombramientos se entenderán conforme a las denominaciones señaladas en el presente ordenamiento.
+
+QUINTO. La presente reforma únicamente representa movimientos estructurales desregulados pues no generan impacto presupuestal, por lo tanto, los objetivos, atribuciones y funciones del Organismo y sus Unidades Administrativas continuarán siendo las mismas.
