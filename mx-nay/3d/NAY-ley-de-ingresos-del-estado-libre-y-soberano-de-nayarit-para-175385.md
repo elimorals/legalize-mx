@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-175
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-23"
-last_updated: "2024-12-23"
+last_updated: "2024-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2025
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE DICIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2025
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE DICIEMBRE DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el lunes 23 de diciembre de 2024.
 
@@ -1647,7 +1647,9 @@ TARIFA EN UMA TARIFA EN UMA
 
 VIGENTE VIGENTE
 
-A)- De Alto Contenido Alcohólico 248
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2024)</small>
+
+A)- De Alto Contenido Alcohólico 248 248
 
 I.- Centro nocturno.
 
