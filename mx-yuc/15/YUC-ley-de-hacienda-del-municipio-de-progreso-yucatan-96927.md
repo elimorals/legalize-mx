@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-progreso-yucatan-96927"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2021-12-31"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE PROGRESO, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -81,6 +81,14 @@ VIII.- Ingresos Extraordinarios
 
 Los cuales se establecen en esta Ley y en la Ley de Ingresos del Municipio de Progreso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Yucatán y en la Ley de Gobierno de los Municipios del Estado de Yucatán o la que, en su caso, expida el Congreso para regular el funcionamiento y organización de los ayuntamientos.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 2 Bis.
+
+Para los efectos de esta Ley, la sigla UMA se entenderá como Unidad de Medida y Actualización, cuyo valor a considerar será el diario vigente de dicha unidad multiplicado por el número de veces que la propia ley establezca.
+
+Asimismo, para determinar las cantidades, se considerarán inclusive, las fracciones del peso. No obstante, lo anterior, para efectuar su pago, el monto se ajustará para que los que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad inmediata anterior y los que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad inmediata superior.
+
 ### CAPITULO II. De las Disposiciones Fiscales Municipales
 
 ###### Artículo 3.
@@ -99,13 +107,9 @@ IV.- La Ley de Ingresos del Municipio de Progreso, Yucatán;
 
 V.- Las disposiciones que autoricen Ingresos Extraordinarios, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA Y REUBICADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VI.- El Código Fiscal de la Federación.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-VII.- Los Reglamentos Municipales y las demás Leyes, que contengan disposiciones de carácter hacendario.
+VI.- Los Reglamentos Municipales y las demás disposiciones de carácter general, que contengan prescripciones de carácter hacendario.
 
 ###### Artículo 4.
 
@@ -119,19 +123,25 @@ En la Ley de Ingresos del Municipio de Progreso, correspondiente a cada Ejercici
 
 Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que definen las infracciones y fijan sanciones, son de aplicación estricta. Se considerará que establecen cargas a los particulares, las normas que se refieren a sujeto, objeto, base, tasa o tarifa.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 7.
 
-Las disposiciones fiscales, distintas a las señaladas en el artículo 3 de esta Ley, se interpretarán aplicando cualquier método de interpretación jurídica. A falta de norma fiscal expresa se aplicarán supletoriamente el Código Fiscal de la Federación, las otras disposiciones fiscales y demás normas legales del Estado de Yucatán, en cuanto sean aplicables y siempre que no sean contrarias a la naturaleza propia del derecho fiscal.
+Las disposiciones fiscales, distintas a las señaladas en el artículo 3 de esta Ley, se aplicarán utilizando cualquier método de interpretación jurídica. A falta de norma fiscal expresa se aplicarán supletoriamente el Código Fiscal del Estado de Yucatán, el Código Civil del Estado de Yucatán, las otras disposiciones fiscales y demás normas legales, en cuanto sean aplicables y siempre que no sean contrarias a la naturaleza propia del derecho fiscal.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 8.
 
-La ignorancia de las leyes y de las demás disposiciones fiscales de observancia general debidamente publicadas, no servirá de excusa, ni aprovechará a persona alguna.
+La ignorancia de las leyes y de las demás disposiciones fiscales de observancia general debidamente publicadas, no servirá de excusa, ni aprovechará a persona alguna para su inobservancia o incumplimiento.
 
 ### CAPITULO III. De los Recursos
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 9.
 
-Contra las resoluciones que dicten las autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán o la que, en su caso, expida el Congreso para regular el funcionamiento y organización de los Ayuntamientos. Cuando se traten de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación. En este caso los recursos que se promuevan se tramitarán y resolverán en la forma prevista en dicho Código.
+Contra las resoluciones que dicten las autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán, la Ley de lo Contencioso Administrativo del Estado de Yucatán o la que, en su caso, expida el Congreso para regular el funcionamiento y organización de los Ayuntamientos. Cuando se traten de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación. En este caso los recursos que se promuevan se tramitarán y resolverán en la forma prevista en dicho Código.
 
 ### CAPITULO IV. De las Garantías
 
@@ -149,7 +159,17 @@ c).- Hipoteca.
 
 d).- Prenda.
 
-Respecto de la garantía prendaria, solamente será aceptado por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos diarios del Estado, al momento de la determinación del crédito. En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen el Código Fiscal del Estado o en su defecto el Código Fiscal de la Federación y el reglamento de dicho Código.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e).- Embargo vía administrativa.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Respecto de la garantía prendaria, solamente será aceptado por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 UMA, al momento de la determinación del crédito. En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen el Código Fiscal del Estado o en su defecto el Código Fiscal de la Federación y el reglamento de dicho Código.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En caso de otorgarse la garantía señalada en el inciso e) deberán pagarse los gastos de ejecución que se establecen en los artículos 151 y 152 de esta Ley. En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen el Código Fiscal del Estado de Yucatán, Código Fiscal de la Federación, y el reglamento de dicho Código.
 
 ### CAPITULO V. De las Autoridades Fiscales
 
@@ -179,15 +199,19 @@ La Hacienda Pública Municipal, se administrará libremente por el Ayuntamiento 
 
 #### Sección Primera. De las Facultades del Presidente y Director de Finanzas de la Tesorería Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-El Presidente o el Director de Finanzas de la Tesorería Municipales, son las autoridades competentes en el orden administrativo para:
+El Presidente Municipal de Progreso o el Director de Finanzas de la Tesorería Municipal, son las autoridades competentes en el orden administrativo para:
 
 a) Cumplir y hacer cumplir las disposiciones legales de naturaleza fiscal, aplicables en el municipio.
 
 b) Dictar las disposiciones administrativas que se requieren para la mejor aplicación y observancia de la presente Ley.
 
-c) Emitir o modificar, mediante disposiciones de carácter general, los sistemas o procedimientos administrativos, estableciendo las dependencias recaudadoras, técnicas y administrativas necesarias o suficientes, señalándoles sus funciones y delegándoles las facultades que considere conveniente, excepto las que les corresponda como autoridad fiscal.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+c) Emitir o modificar, mediante disposiciones administrativas de carácter general, los sistemas o procedimientos administrativos, estableciendo las dependencias recaudadoras, técnicas y administrativas necesarias o suficientes, señalándoles sus funciones y delegándoles las facultades que considere conveniente, excepto las que les corresponda como autoridad fiscal.
 
 ### CAPITULO VI. De las Características de los Ingresos y su Clasificación
 
@@ -195,7 +219,9 @@ c) Emitir o modificar, mediante disposiciones de carácter general, los sistemas
 
 La presente Ley establece las características generales que tendrán los ingresos de la Hacienda Pública del Municipio de Progreso, Yucatán, tales como objeto, sujeto, tasa o tarifa, base, exenciones, y obligaciones específicas de cada contribución.
 
-#### Sección Primera. De las Contribuciones de Mejoras
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+#### Sección Primera. De las Contribuciones
 
 ###### Artículo 15.
 
@@ -291,9 +317,11 @@ La existencia de personal de guardia no habilita los días en que se suspendan l
 
 #### Sección Cuarta. De los Pagos en General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 28.
 
-Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería Municipal o en los lugares que la misma designe para tal efecto; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario. Los créditos fiscales que las autoridades determinen y notifiquen, deberán pagarse o garantizarse dentro del término de quince días hábiles contados a partir del siguiente a aquél en que surta efectos la notificación, conjuntamente con las multas, los recargos y los gastos correspondientes, salvo en los casos en que la ley señale otro plazo y además, deberán hacerse en moneda nacional y de curso legal. Se aceptaran como medios de pago, los cheques y los giros postales, telegráficos o bancarios. Los cheques se aceptarán, salvo buen cobro o para abono en cuenta del Municipio, únicamente cuando sean expedidos por el propio contribuyente o por los fedatarios cuando estén cumpliendo con su obligación de enterar contribuciones a cargo de terceros.
+Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería Municipal o en los lugares que la misma designe para tal efecto; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario. Se aceptarán como medio de pago, el dinero en efectivo en moneda nacional y curso legal, la transferencia electrónica de fondos y cheque para abono en cuenta a favor del "Municipio de Progreso"; éste último medio de pago, deberá ser certificado. Se entiende por transferencia electrónica de fondos, el pago que se realice por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del "Municipio de Progreso", que se realice por las instituciones de crédito, en forma electrónica. También, se aceptará el pago mediante tarjeta de crédito, débito o monedero electrónico, cuando en las cajas recaudadoras se encuentren habilitados los dispositivos necesarios para la recepción de dichos medios de pago y para las contribuciones o grupo de contribuyentes que determine la Dirección de Finanzas y Tesorería Municipal.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de una misma contribución y, antes del adeudo principal, a los accesorios, en el siguiente orden:
 
@@ -307,11 +335,63 @@ IV.- La indemnización a que se refiere el artículo 32 de esta Ley.
 
 Para determinar las contribuciones se consideran, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad inmediata anterior y las cantidades que contengan de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad inmediata superior.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Los créditos fiscales que las autoridades determinen y notifiquen, deberán pagarse o garantizarse dentro del término de quince días hábiles contados a partir del siguiente a aquél en que surta efectos la notificación, conjuntamente con las multas, los recargos y los gastos correspondientes, salvo en los casos en que la ley señale otro plazo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+A fin de asegurar la recaudación de toda clase de créditos fiscales a favor del Municipio, la Dirección de Finanzas y Tesorería Municipal podrá autorizar la dación en pago de bienes y servicios, ya sea para cumplir con las obligaciones fiscales a cargo del interesado o de un tercero. Cuando el valor del bien o del servicio materia de la dación en pago exceda el monto del crédito fiscal adeudado, no se generará derecho de devolución o compensación a favor del contribuyente.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Dependiendo de las características de los bienes propuestos, la Dirección de Finanzas y Tesorería Municipal solicitará opinión respecto de la utilidad en los servicios públicos o funciones a cargo del Municipio de Progreso a la Dirección o Unidad Administrativa que, de acuerdo a sus atribuciones, sea competente para recibir los bienes ofrecidos.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La aceptación de bienes o servicios suspenderá provisionalmente, a partir de la notificación de la resolución correspondiente, todos los actos tendientes al cobro del crédito respectivo, así como la actualización de éste y sus accesorios. Si no se formaliza la dación en pago o el deudor no presta los servicios ofrecidos en el plazo y condiciones establecidos, quedará sin efecto la suspensión del cobro del crédito, debiendo actualizarse las cantidades desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de bienes muebles o inmuebles, se aceptará el valor del avalúo que presente el interesado y deberá ser expedido por peritos valuadores con registro vigente ante las autoridades fiscales, las Instituciones de Crédito, la Comisión de Avalúos de Bienes Nacionales o por Corredor Público.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En el caso de servicios, el deudor deberá promover que le sea adjudicada su contratación, en apego a la Ley de Gobierno de los Municipios del Estado de Yucatán, debiendo prestar el servicio en un plazo máximo de 18 meses contados a partir de la resolución de aceptación de la dación en pago.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La dación en pago quedará formalizada y se tendrá por extinguido el crédito conforme a lo siguiente:
+
+I. Cuando se trate de bienes inmuebles, a la fecha de la firma de la escritura pública en que se transmita el dominio del bien al Ayuntamiento de Progreso, Yucatán que se otorgará dentro de los 45 días hábiles siguientes a aquél en que se haya notificado la resolución de aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago.
+
+II. Tratándose de bienes muebles, a la fecha de la firma del acta de entrega de los mismos que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación.
+
+En el caso de que resulte algún gasto por la entrega del bien, corresponderá al deudor del crédito fiscal cubrirlo, así como las contribuciones que en su caso se generen.
+
+El plazo señalado en las fracciones I y II no será aplicable cuando el contribuyente hubiere ofrecido la entrega del bien mueble o inmueble en tiempo distinto al establecido en éstas, pero deberá formalizarse en los términos y condiciones previstos en las mismas, extinguiéndose el crédito fiscal al actualizarse dichos supuestos.
+
+III. Respecto a los servicios, en la fecha que éstos sean efectivamente prestados. En caso de cumplimiento parcial se extinguirá proporcionalmente el crédito respectivo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En el caso de propuestas de dación en pago de bienes muebles e inmuebles o servicios, ofrecidos para ser entregados en tiempo determinado, el tiempo aproximado de formalización o prestación, deberá estar relacionado con el tipo de bien o servicio ofrecido, que tratándose de estos últimos no deberá exceder de 18 meses, y se deberá garantizar el crédito fiscal, en cualquiera de las formas previstas en el artículo 10 de esta Ley.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La Dirección de Finanzas y Tesorería Municipal pondrá a disposición de la Dirección o Unidad Administrativa correspondiente, señalada en el párrafo segundo del presente artículo, los bienes recibidos en dación en pago, mismos que quedarán bajo custodia y administración de ésta última, con el objeto de incorporarlos en el inventario y realizar los registros respectivos.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La aceptación o negativa de la solicitud de dación en pago se emitirá en un término que no excederá de 30 días hábiles, cuando se haya integrado debidamente el expediente, de no emitirse la resolución en dicho término se tendrá por negada.
+
 #### Sección Quinta. De la Actualización
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 29.
 
-El monto de las contribuciones, aprovechamientos y los demás créditos fiscales, así como las devoluciones a cargos del fisco municipal, no pagados en las fechas o plazos fijados para ello en esta Ley, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deben actualizar, desde el mes en que debió de hacerse el pago y hasta el mes, en que el mismo pago, se efectúe. Dicho factor se obtendrá dividiendo el índice nacional de precios al consumidor, que determine el Banco de México y se publica en el Diario Oficial de la Federación, del mes inmediato anterior al más reciente del periodo entre el citado índice correspondiente al mes inmediato anterior al más antiguo de dicho periodo. Las contribuciones y los créditos fiscales no se actualizarán por fracciones de mes. Además de la actualización se pagarán recargos en concepto de indemnización al Municipio, por falta de pago oportuno.
+El monto de las contribuciones, aprovechamientos y los demás créditos fiscales, así como las devoluciones a cargo del fisco municipal, no pagados en las fechas o plazos fijados para ello en esta Ley, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deben actualizar, desde el mes en que debió de hacerse el pago y hasta el mes, en que el mismo pago, se efectúe. Dicho factor se obtendrá dividiendo el índice nacional de precios al consumidor, calculado por el Instituto Nacional de Estadística y Geografía y se (sic) publicado en el Diario Oficial de la Federación, del mes inmediato anterior al más reciente del periodo entre el citado índice correspondiente al mes inmediato anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco municipal no se actualizarán por fracciones de mes. Además de la actualización se pagarán recargos en concepto de indemnización al Municipio, por falta de pago oportuno.
 
 Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la Actualización.
 
@@ -331,17 +411,23 @@ Los recargos se causarán hasta por cinco años y se calcularán sobre el total 
 
 #### Sección Octava. Del Cheque Presentado en Tiempo y No Pagado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 32.
 
-El cheque recibido por el Municipio de Progreso, en pago de algún crédito fiscal garantía en términos de la presente Ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del importe del propio cheque, y se exigirá independientemente de los otros conceptos a que se refiere este capítulo.
+El cheque recibido por el Municipio de Progreso, en pago de alguna contribución, aprovechamiento, crédito fiscal o garantía en términos de la presente Ley, que sea presentado en tiempo al librado y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del importe del propio cheque, y se exigirá independientemente de los otros conceptos a que se refiere este capítulo. En todos los casos la indemnización a que se refiere este párrafo deberá ser de cuando menos en (sic) un importe suficiente para cubrir las comisiones y gastos que le hayan ocasionado al Municipio de Progreso con motivo de la presentación para cobro o depósito en cuenta bancaria del Municipio de dicho cheque.
 
 Para tal efecto la autoridad requerirá el librador del cheque para que, dentro de un plazo de siete días efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes que realizó el pago o que éste no se hizo por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
 
 #### Sección Novena. Del Pago en Exceso
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 33.
 
-Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono en cuenta del contribuyente. Si el pago de lo indebido se hubiese efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente. Las autoridades fiscales tendrán un plazo máximo de treinta días naturales, para efectuar las devoluciones mencionadas en este artículo. Las autoridades fiscales municipales deberán pagar la devolución que proceda, actualizada conforme al procedimiento establecido en el artículo 29 de esta Ley, desde el mes en que se efectuó el pago en exceso hasta aquél en que la devolución se efectúe. Si la devolución no se hubiese efectuado en el plazo previsto en este artículo, las mismas autoridades fiscales municipales pagarán intereses que calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a la tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 30 de esta Ley.
+Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo o transferencia electrónica para abono en cuenta del contribuyente. Si el pago de lo indebido se hubiese efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente. Si el pago de lo indebido se hubiera efectuado por error del contribuyente, dará lugar a la devolución siempre que compruebe en que consistió dicho error y no haya créditos fiscales exigibles, en cuyo caso cualquier excedente se tomará en cuenta. Las autoridades fiscales tendrán un plazo máximo de treinta días hábiles, para efectuar las devoluciones mencionadas en este artículo, a partir del día hábil siguiente a la fecha de presentación de la solicitud ante la autoridad fiscal correspondiente. Las autoridades fiscales municipales deberán pagar la devolución que proceda, actualizada conforme al procedimiento establecido en el artículo 29 de esta Ley, desde el mes en que se efectuó el pago en exceso hasta aquél en que la devolución se efectúe. Si la devolución no se hubiese efectuado en el plazo previsto en este artículo, las mismas autoridades fiscales municipales pagarán intereses que calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a la tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 30 de esta Ley.
+
+La obligación de devolver prescribe en el término de tres años.
 
 #### Sección Décima. Del Remate en Pública Subasta
 
@@ -349,7 +435,9 @@ Las autoridades fiscales municipales están obligadas a devolver las cantidades 
 
 Todos los bienes que con motivo de un procedimiento de ejecución sean embargados por la autoridad municipal, serán rematados en pública subasta y el producto de la misma, aplicado al pago del crédito fiscal de que se trate.
 
-En caso de que habiéndose publicado la tercera convocatoria para la almoneda no se presentaren postores, los bienes embargados, se adjudicarán al Municipio de Progreso, Yucatán, en pago del adeudo correspondiente por el valor equivalente al que arroje su avalúo pericial. Para el caso del que el valor de adjudicación no alcanzare a cubrir el adeudo de que se trate, éste se entenderá pagado parcialmente, quedando a salvo los derechos del municipio para el cobro del saldo respectivo.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En caso de que habiéndose publicado la tercera convocatoria para la almoneda no se presentaren postores, no hubiere posturas o las mismas sean de cantidades iguales, los bienes embargados, se adjudicarán al Municipio de Progreso, Yucatán, en pago del adeudo correspondiente por el valor equivalente al que arroje su avalúo pericial. Para el caso que el valor de adjudicación no alcanzare a cubrir el adeudo de que se trate, éste se entenderá pagado parcialmente, quedando a salvo los derechos del municipio para el cobro del saldo respectivo.
 
 En todo caso se aplicarán a los remates las reglas que para tal efecto fija el Código Fiscal del Estado de Yucatán y en su defecto las del Código Fiscal de la Federación y su reglamento.
 
@@ -363,15 +451,17 @@ Las multas por infracciones a las disposiciones municipales sean éstas de cará
 
 ###### Artículo 36.
 
-Cuando en la presente ley se haga mención de las palabras "salario" o "salario mínimo" dichos términos se entenderán indistintamente como el salario mínimo general diario vigente en el Estado de Yucatán en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, el salario que servirá de base para su cálculo será el vigente al momento de individualizar la sanción.
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2024)
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ### CAPITULO I. De los Avisos, Solicitudes o Declaraciones
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 37.
 
-Todas las solicitudes y demás promociones que se presenten ante las autoridades fiscales municipales deberán estar firmadas por el interesado o por su apoderado o representante legal, a menos que el promovente no sepa o no pueda firmar en cuyo caso imprimirá su huella digital.
+Todas las solicitudes y demás promociones distintas a las establecidas en el artículo 38 de la presente Ley, que se presenten ante las autoridades fiscales municipales, deberán estar firmadas por el interesado o por su apoderado o representante legal, a menos que el promovente no sepa o no pueda firmar en cuyo caso imprimirá su huella digital.
 
 #### Sección Primera. De los Formularios
 
@@ -387,9 +477,13 @@ Las personas físicas y morales, además de las obligaciones especiales contenid
 
 I.- Empadronarse en la Dirección de Finanzas y Tesorería Municipal, antes de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades si realizan actividades permanentes, con el objeto de obtener la licencia Municipal de funcionamiento.
 
-II.- Recabar de la dependencia municipal que corresponda la carta de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el plan Director de Desarrollo Urbano del Municipio y que cumple además con lo dispuesto en el Reglamento correspondiente.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-III.- Dar aviso por escrito, en un plazo de quince días, de cualquier modificación, aumento de giro, traspaso, cambio de domicilio, cambio de denominación, suspensión de actividades, cierre y baja.
+II.- Recabar de la dependencia municipal que corresponda la carta de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona de conformidad con el plan Director de Desarrollo Urbano y Obras Públicas del Municipio que cumple además con lo dispuesto en el Reglamento correspondiente.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Dar aviso por escrito, en un plazo de quince días, de cualquier modificación, aumento de giro, traspaso, cambio de domicilio, cambio de denominación, suspensión de actividades, cierre y baja o de cualquier modificación o cambio que afecte o modifique los datos de los padrones respectivos.
 
 IV.- Recabar autorización de la Dirección de Finanzas y Tesorería Municipal, si realizan actividades eventuales y con base en dicha autorización, solicitar la determinación de las contribuciones que estén obligados a pagar.
 
@@ -403,21 +497,29 @@ VIII.- Proporcionar con veracidad los datos que requiera la Dirección de Finanz
 
 IX.- Realizar los pagos, y cumplir con las obligaciones fiscales y administrativas, en la forma y términos que señala la presente Ley.
 
-La falta de cumplimiento de las obligaciones a que se refiere este artículo, será sancionada con una multa de uno a quince salarios mínimos, en atención a la gravedad de la infracción. En caso de reincidencia se aplicará la multa mayor.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La falta de cumplimiento de las obligaciones a que se refiere este artículo, será sancionada con una multa de uno a veinte UMA, en atención a la gravedad de la infracción. En caso de reincidencia se aplicará la multa mayor.
 
 (REPUBLICADO, D.O. 31 DICIEMBRE 2021)
 
 ### CAPITULO II. De las Licencias de Funcionamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DICIEMBRE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 40.
 
-Las licencias de funcionamiento que expida la Dirección de Finanzas y Tesorería Municipal, tendrán una vigencia anual a partir de la fecha de autorización de esta y una vigencia desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten.
+Las licencias de funcionamiento que expida la Dirección de Finanzas y Tesorería Municipal, tendrán una vigencia anual a partir de la fecha de autorización de esta y una vigencia desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, con excepción de las licencias de funcionamiento eventuales que tendrán la vigencia que establezca la normatividad conducente.
 
 No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias.
 
-Los interesados deberán revalidar sus licencias durante los tres primeros meses de cada año.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Durante el tiempo de la vigencia de la licencia de funcionamiento, con excepción de la Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal, su titular deberá mantener vigentes los permisos, licencias, autorizaciones y demás documentos relacionados como requisitos para la apertura y revalidación respectivamente, así como proporcionar una copia de la renovación de cada uno de dichos documentos a la Dirección de Finanzas y Tesorería Municipal dentro de los treinta días hábiles siguientes al vencimiento de los mismos. Una vez vencido este término sin que se haya cumplido con éstas obligaciones, el Director de Finanzas y Tesorero Municipal estará facultado para revocar la licencia que corresponda, sin perjuicio de las sanciones que correspondan.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Los interesados deberán revalidar sus licencias durante los tres primeros meses del año calendario.
 
 En ningún caso y en el ejercicio del último año de administración municipal la vigencia de la licencia de funcionamiento excederá del periodo de la administración municipal que la expidió.
 
@@ -465,7 +567,9 @@ e) Determinación de la Secretaría de la Defensa Nacional cuando se trate de es
 
 f) Recibo de pago del servicio de recolección basura del mes en el que se solicita la licencia municipal.
 
-La revalidación de las licencias de funcionamiento estará vigente desde el día de su tramitación y hasta el día 31 de diciembre del año en que se tramiten.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La revalidación de las licencias de funcionamiento estará vigente desde el día de su autorización y hasta el día 31 de diciembre del año en que se tramiten, con excepción de las licencias de funcionamiento eventuales que tendrán la vigencia que establezca la normatividad conducente.
 
 ## TITULO TERCERO. DE LOS IMPUESTOS
 
@@ -477,9 +581,9 @@ La revalidación de las licencias de funcionamiento estará vigente desde el dí
 
 Son sujetos del impuesto predial:
 
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-I.- Los propietarios o usufructuarios de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio del Municipio de Progreso, así como de las construcciones permanentes edificadas en ellos.
+I.- Los propietarios, copropietarios, condóminos, usufructuarios o poseedores de inmuebles ubicados dentro del territorio del Municipio de Progreso, así como de las construcciones permanentes edificadas en ellos.
 
 II.- Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la propiedad o el uso de los inmuebles a que se refiere la fracción anterior, al fideicomisario o a las demás personas que correspondiere, en cumplimiento del contrato de fideicomiso.
 
@@ -487,13 +591,15 @@ III.- Los fideicomisarios, cuando tengan la posesión o el uso del inmueble.
 
 IV.- Los fiduciarios, cuando por virtud del contrato del fideicomiso tengan la posesión o el uso del inmueble.
 
-V.- Los ejidatarios, comuneros y/o titulares de los certificados de derechos de propiedad agraria, otorgados por el organismo o dependencia encargado de la regularización de la tenencia de la tierra o por la autoridad jurisdiccional competente en caso de conflicto entre las partes.
+V.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2024)
 
 VI.- Los organismos descentralizados, las empresas de participación estatal que tengan en propiedad o posesión bienes inmuebles del dominio público de la Federación, Estado, o Municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de su objeto público.
 
 VII.- Las personas físicas o morales que posean por cualquier título bienes inmuebles del dominio público de la Federación, Estado, o Municipio, utilizados o destinados para fines administrativos o propósitos distintos a los de objeto público.
 
-Los propietarios de los predios a los que se refiere la fracción I del artículo 43 de esta Ley, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal, el número total y la dirección de los predios de su propiedad. Así mismo deberán comunicar si el predio de que se trata se encuentra en alguno de los supuestos mencionados en cualquiera de las fracciones anteriores.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Los propietarios de los predios a los que se refiere la fracción I del artículo 43 de esta Ley, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal, el número total y la dirección de los predios de su propiedad. Así mismo deberán comunicar si su situación con el predio de que se trata se encuentra en alguno de los supuestos mencionados en cualquiera de las fracciones anteriores.
 
 #### Sección Segunda. De los Obligados Solidarios
 
@@ -511,7 +617,7 @@ IV.- Los representantes legales de las sociedades, asociaciones, comunidades y p
 
 V.- El vencido en un procedimiento judicial o administrativo por virtud del cual el predio de que se trate debe adjudicarse a otra persona, hasta el día en que, conforme a la ley del caso, se verifique dicha adjudicación. Las autoridades judiciales y administrativas se cerciorarán previamente a la adjudicación del inmueble del cumplimiento de esta obligación.
 
-VI.- Los comisariados o representantes ejidales en los términos de las leyes agrarias.
+VI.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2024)
 
 VII.- Los titulares y/o representantes de los organismos descentralizados, empresas de participación estatal y particulares que posean bienes del dominio público de la Federación Estado o Municipio, en términos de las fracciones VI y VII del artículo anterior.
 
@@ -521,7 +627,9 @@ VII.- Los titulares y/o representantes de los organismos descentralizados, empre
 
 Es objeto del impuesto predial:
 
-I.- La propiedad, el usufructo o la posesión a titulo distinto de los anteriores, de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+I.- La propiedad, el usufructo o la posesión a título distinto de los anteriores, de inmuebles ubicados dentro del territorio municipal.
 
 II.- La propiedad, el usufructo o la posesión, de las construcciones edificadas, en los predios señalados en la fracción anterior.
 
@@ -541,15 +649,19 @@ La base del impuesto predial será el valor catastral del inmueble, dicha base e
 
 Para determinar el valor catastral del predio de que se trate, la Dirección de Catastro y Zona Federal Marítimo Terrestre, tomará en cuenta el valor del terreno y el valor de la construcción en términos de lo dispuesto en la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y Quinto Transitorio del decreto que reformó dicho numeral, publicado en el Diario Oficial de la Federación el veintitrés de diciembre de mil novecientos noventa y nueve; y de conformidad con la tabla de valores unitarios de suelo y construcción vigente, en la Ley de Ingresos del Municipio de Progreso, Yucatán:
 
-Cuando el contribuyente presente a la Dirección de Catastro y Zona Federal Marítimo Terrestre del Municipio de Progreso, una cédula catastral con valor diferente al que aparece registrado en esa dependencia; a petición del contribuyente, la propia Dirección de Finanzas y Tesorería Municipal le informará qué elementos tomó en consideración para emitir el nuevo valor.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-La Dirección de Finanzas y Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación de la cédula a que se refiere el párrafo anterior, realizará una inspección física en el lugar y resolverá si aprueba o no el valor presentado por el contribuyente. En caso afirmativo se procederá al cobro del impuesto predial sobre la base consignada en la cédula catastral exhibida y se devolverá la diferencia si el impuesto se hubiere enterado. En caso contrario, la Dirección de Finanzas y Tesorería Municipal cobrará el impuesto predial como aparece en sus registros, resolviendo así en definitiva la cantidad a pagar.
+Cuando la Dirección de Catastro del Municipio de Progreso expidiere una cédula con diferente valor al contenido en la que existía registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del mes siguiente al en que se emita la citada cédula. Si a la fecha de la emisión de la nueva cédula, el contribuyente ya hubiere pagado el impuesto correspondiente conforme al valor anterior, el nuevo valor consignado en la cédula servirá de base para calcular el impuesto correspondiente al mes en el que se aplique el nuevo valor, y en su caso, el de los siguientes meses por los cuales ya hubiere pagado el impuesto, determinándole la diferencia a pagar en caso de que resulte mayor y bonificándole la misma de los siguientes pagos, en caso de que resulte menor.
 
 La expedición de una nueva cédula se hará siempre a solicitud del contribuyente, previo pago de los derechos correspondientes.
 
-El valor que aparece en los registros de la Dirección de Catastro y Zona Federal Marítimo Terrestre, servirá como base para calcular el impuesto predial a partir del primer bimestre de 2014.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Cuando un inmueble sea otorgado en uso, goce, se permita su ocupación por cualquier título y con motivo de la ocupación se genere una contraprestación, el impuesto predial se causará sobre la base de rentas, frutos civiles o cualquier otro tipo de contraprestación a la tasa señalada en la Ley de Ingresos del Municipio de Progreso, Yucatán.
+El valor que aparece en los registros de la Dirección de Catastro y Zona Federal Marítimo Terrestre, servirá como base para calcular el impuesto predial.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Cuando un inmueble sea otorgado en uso, goce, se permita su ocupación por cualquier título y con motivo de la ocupación se genere una contraprestación, el impuesto predial se causará sobre la base de rentas, frutos civiles o cualquier otro tipo de contraprestación al porcentaje señalado en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
 #### Sección Quinta. De la Tarifa
 
@@ -569,7 +681,9 @@ Los pagos mensuales serán el resultado de dividir el impuesto anual total entre
 
 Cuando el contribuyente pague en una sola exhibición el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de un descuento del 10% anual.
 
-Asimismo, los pensionados y jubilados que demuestren esta condición gozarán de un descuento del 50% anual si pagan su impuesto durante los meses de enero y febrero del año que se causa.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, las personas adultas mayores, los pensionados y jubilados que demuestren esta condición gozarán de un descuento del 50% anual si pagan su impuesto durante los meses de enero y febrero del año que se causa.
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
@@ -621,9 +735,11 @@ II.- Los funcionarios o empleados del Registro Público de la Propiedad y del Co
 
 #### Sección Tercera. Del Objeto
 
-###### Artículo 51.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Es objeto del Impuesto sobre Adquisición de Inmuebles, toda adquisición de bienes inmuebles, así como los derechos reales vinculados a los mismos, ubicados en el Municipio de Progreso, Yucatán.
+###### Articulo 51.
+
+Es objeto del Impuesto sobre Adquisición de Inmuebles, toda adquisición de bienes inmuebles, así como los derechos reales vinculados a los mismos, ubicados en el Municipio de Progreso, Yucatán, incluyendo la que derive equitativamente. Para efectos de este impuesto, se entiende por adquisición:
 
 I.- Todo acto por el que se adquiera la propiedad, incluyendo la donación, y la aportación a toda clase de personas morales.
 
@@ -671,9 +787,11 @@ VI.- La donación entre consortes, ascendientes o descendientes en línea direct
 
 #### Sección Quinta. De la Base
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 53.
 
-La base del impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en la ley, fracciones IX, XI y XII del artículo 51 de esta Ley, el avalúo expedido por las autoridades fiscales, las Instituciones de Crédito, la Comisión de Avalúos de Bienes Nacionales o por Corredor Público.
+La base del impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en la ley, el avalúo expedido por las autoridades fiscales, las Instituciones de Crédito, la Comisión de Avalúos de Bienes Nacionales o por Corredor Público.
 
 Cuando el adquiriente asuma la obligación de pagar alguna deuda del enajenante o de perdonarla, el importe de dicha deuda, se considerará parte del precio pactado.
 
@@ -701,9 +819,13 @@ El impuesto a que se refiere esta Sección, se calculará aplicando la tasa esta
 
 Los fedatarios públicos, las personas que por disposición legal tengan funciones notariales y las autoridades judiciales o administrativas, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal de Progreso, Yucatán por duplicado, dentro de los treinta días siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizadas ante ellos, expresando:
 
-I.- Nombre y domicilio de los contratantes.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II.- Nombre del fedatario público y número que le corresponda a la notaría o escribanía. En caso de tratarse de persona distinta a los anteriores y siempre que realice funciones notariales, deberá expresar su nombre y el cargo que detenta.
+I.- Nombre, Registro Federal de Contribuyentes y domicilio de los contratantes.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II.- Nombre del fedatario público, correo electrónico y número que le corresponda a la notaría o escribanía. En caso de tratarse de persona distinta a los anteriores y siempre que realice funciones notariales, deberá expresar su nombre y el cargo que detenta.
 
 III.- Firma y sello, en su caso, del autorizante.
 
@@ -715,11 +837,19 @@ VI.- Identificación del Inmueble.
 
 VII.- Liquidación del Impuesto.
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Nombre, Registro Federal de Contribuyentes y domicilio de los asesores inmobiliarios o agencias que hayan intervenido en cualquier forma en dichos actos o contratos.
+
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
 
-Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este numeral, serán sancionados con una multa de diez a veinte salarios mínimos.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Los jueces o presidentes de las juntas de conciliación y arbitraje federales o estatales, únicamente detendrán la obligación de comunicar a la Dirección de Finanzas y Tesorería Municipal, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
+Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este numeral, serán sancionados con una multa de veinte a cincuenta UMA.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Los jueces o presidentes de las juntas de conciliación y arbitraje federales o estatales, únicamente tendrán la obligación de comunicar a la Dirección de Finanzas y Tesorería Municipal, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
 
 #### Sección Novena. De los Responsables Solidarios
 
@@ -741,7 +871,9 @@ Los fedatarios y las demás personas que realicen funciones notariales no estar�
 
 El pago del Impuesto sobre Adquisición de Inmuebles, deberá hacerse, dentro de los treinta días hábiles siguientes a la fecha en que, según el caso, ocurra primero alguno de los siguientes supuestos:
 
-I.- Se celebre el acto contrato.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+I.- Se celebre el acto o contrato.
 
 II.- Se eleve a escritura pública.
 
@@ -759,25 +891,33 @@ Lo anterior, sin perjuicio de la aplicación del recargo establecido para las co
 
 #### Sección Primera. De los Sujetos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-Son sujetos del impuesto sobre Diversiones y Espectáculos Públicos, las personas físicas o morales que perciban ingresos derivados de la comercialización de actos, diversiones o espectáculos públicos, ya sea en forma permanente o temporal.
+Son sujetos del impuesto sobre Diversiones y Espectáculos Públicos, las personas físicas o morales que perciban ingresos derivados de la comercialización de actos, funciones de circo, juegos mecánicos, atracciones recreativas, diversiones o espectáculos públicos, ya sea en forma permanente o temporal.
 
 Los sujetos de este impuesto además de las obligaciones a que se refiere el artículo 39 de esta Ley, deberán:
 
-I.- Proporcionar a la tesorería municipal los datos señalados a continuación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+I.- Proporcionar a la Dirección de Finanzas y Tesorería Municipal de Progreso, Yucatán los datos señalados a continuación:
 
 a) Nombre y domicilio de quien promueve la diversión o espectáculo
 
 b) Clase o tipo de Diversión o Espectáculo
 
-c) Ubicación del lugar donde se llevará a cabo el evento y,
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+c) Ubicación del lugar donde se llevará a cabo el evento o funcionarán los juegos mecánicos o atracciones recreativas
 
 II.- Cumplir con las disposiciones que para tal efecto fije el reglamento de Espectáculos Públicos del Municipio o la Dirección de Finanzas y Tesorería Municipal.
 
 III.- Presentar a la Dirección de Finanzas y Tesorería Municipal, cuando menos tres días antes de la realización del evento, la emisión total de los boletos de entrada, señalando el número de boletos que corresponden a cada clase y su precio al público, a fin de que se autoricen con el sello respectivo.
 
-La falta de cumplimiento de las obligaciones a que se refiere este artículo, será sancionada con una multa de uno a quince salarios mínimos, en atención a la gravedad de la infracción. En caso de reincidencia se aplicará la multa mayor.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+La falta de cumplimiento de las obligaciones a que se refiere este artículo, será sancionada con una multa de uno a quince UMA, en atención a la gravedad de la infracción. En caso de reincidencia se aplicará la multa mayor.
 
 #### Sección Segunda. Del Objeto
 
@@ -828,6 +968,10 @@ Cuando los sujetos obligados a otorgar la garantía a que se refiere el párrafo
 c) Tratándose de contribuyentes establecidos o registrados en el padrón municipal correspondiente, el pago se efectuará dentro de los primeros quince días de cada mes, mediante declaración, de los ingresos que hayan obtenido en el mes inmediato anterior.
 
 En todo caso, la Dirección de Finanzas y Tesorería Municipal, podrá designar interventor para que, determine y recaude las contribuciones causadas. En este caso, el impuesto se pagará a dicho interventor al finalizar el evento, expidiendo este último el recibo provisional respectivo, mismo que será canjeado por el recibo oficial en la propia Dirección de Finanzas y Tesorería Municipal, el día hábil siguiente al de la realización del evento.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Las personas físicas o morales que presten a los sujetos de este impuesto el servicio de compraventa de boletos, directa o remota al público, tendrá la obligación de retener el impuesto resultante de la aplicación de la tasa referida en el artículo 63 a la totalidad del ingreso percibido por los sujetos del impuesto; y enterarlo a la Dirección de Finanzas y Tesorería Municipal en un plazo de siete días contados a partir del siguiente al de la celebración del espectáculo o diversión pública o del funcionamiento de juegos mecánicos o atracciones recreativas de que se trate, según corresponda.
 
 ###### Artículo 66.
 
@@ -881,13 +1025,27 @@ I. Las licencias, permisos o autorizaciones para el funcionamiento de establecim
 
 II. Las licencias para instalación de anuncios de toda índole, conforme a la reglamentación municipal correspondiente;
 
-III. Los permisos de construcción, reconstrucción, ampliación, demolición de inmuebles; de fraccionamientos; construcción de pozos y albercas; ruptura de banquetas, empedrados o pavimento;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-IV. Otro tipo de permisos y autorizaciones de tipo eventual que se señale en la Ley de Ingresos del Municipio de Progreso, Yucatán, y
+III. Los permisos de construcción, reconstrucción, instalación o mantenimiento, ampliación, demolición de inmuebles; de fraccionamientos; construcción de pozos y albercas; ruptura de banquetas, empedrados o pavimento, apertura de zanjas en la vía pública;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV. Otro tipo de permisos y autorizaciones de tipo eventual que se señale en la Ley de Ingresos del Municipio de Progreso, Yucatán;
 
 V. Las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios;
 
-Por el otorgamiento de licencia y permisos, se causarán y pagarán derechos de conformidad con las tarifas establecidas en los artículos que señala en la Ley vigente de Ingresos del Municipio de Progreso, Yucatán, la diferenciación de las tarifas establecidas en la presente sección, se justifica por el costo individual que representa para el Ayuntamiento, las visitas, inspecciones, peritajes y traslados a los diversos establecimientos obligados.
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VI. Emisión de dictámenes técnicos o de viabilidad, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VII. Emisión de constancias.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Por el otorgamiento de licencia y permisos, se causarán y pagarán derechos de conformidad con las tarifas establecidas en los artículos que señala en la Ley vigente de Ingresos del Municipio de Progreso, Yucatán, la diferenciación de las tarifas establecidas en la presente sección, se justifica por el costo individual que representa para el Ayuntamiento el análisis, estudio de delimitación y reporte técnico, las visitas, inspecciones, peritajes y traslados a los diversos establecimientos obligados.
 
 ###### Artículo 75.
 
@@ -923,13 +1081,19 @@ Para el otorgamiento de los permisos para efectuar bailes se pagará por día lo
 
 Por el otorgamiento de licencias establecidas, para Rótulos y Anuncios se causarán y pagarán derechos de acuerdo con lo establecido en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
-### CAPÍTULO III. Derechos por servicios que presta la Dirección de Obras Públicas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-### CAPITULO IV. Derechos por Servicio de Limpia y Recolección de Basura
+### CAPÍTULO III. Derechos por servicios que presta la Dirección de Obras Públicas y Desarrollo Urbano
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO IV. Derechos por Servicio de Limpia, Recolección y Traslado de Residuos Sólidos
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 83.
 
-Son sujetos obligados al pago de derechos por los servicios que presta la Dirección de Obras Públicas, las personas físicas o morales que lo soliciten.
+Son sujetos obligados al pago de derechos por los servicios que presta la Dirección de Obras Públicas y Desarrollo Urbano, las personas físicas o morales que lo soliciten.
 
 ###### Artículo 84.
 
@@ -955,7 +1119,7 @@ IX.- Constancia o licencia de uso de suelo;
 
 X.- Licencias para fraccionamientos;
 
-XI.- Constancia de unión y división de inmuebles;
+XI.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2024)
 
 XII.- Licencia para efectuar excavaciones o para la construcción de pozos o albercas;
 
@@ -976,6 +1140,10 @@ III.- El número de metros cúbicos;
 IV.- El número de predios, departamentos o locales resultantes, y
 
 V.- El servicio prestado.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Para el caso de la fracción II, y en tratándose de permisionarios pertenecientes al mercado eléctrico mayorista para la generación de energía eléctrica a través de centrales eólicas, centrales fotovoltaicas, centrales cinéticas u otras fuentes de energía renovable, a la base para el cobro de la autorización de licencia de uso de suelo se le aplicará la tarifa de 0.0275 veces la unidad de medida y actualización.
 
 ###### Artículo 86.
 
@@ -1003,41 +1171,45 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 ###### Artículo 89.
 
-Por el uso de suelo para construir y colocar en la vía pública o en propiedad privada su infraestructura de cableado, postes y antenas se cobrarán las siguientes:
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2024)
 
-I.- Por poste $ 20.00 mensual por unidad.
-
-II.- Por caseta telefónica $ 60.00 mensual por unidad.
-
-III.- Por instalaciones lineales $ 10.00 mensual por metro.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 90.
 
-Por el permiso para el cierre de calles por fiestas o cualquier otro evento o espectáculo en la vía pública se pagará la cantidad de 10 veces el salario mínimo general vigente en el Estado, por día.
+Por el permiso para el cierre de calles por fiestas o cualquier otro evento o espectáculo en la vía pública se pagará la cantidad de 15 UMA, por día.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ### CAPÍTULO V. De los Derechos por los Servicios de Rastro
 
 ###### Artículo 91.
 
-Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios de limpia y recolección de basura que preste el Municipio.
+Son sujetos de este derecho, las personas físicas o morales que reciban los servicios de limpia, recolección y traslado de residuos sólidos que preste el Municipio.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 92.
 
-Es objeto de este derecho el servicio de limpia y/o recolección de basura a domicilio, así como la limpieza de predios baldíos que sean aseados por el Ayuntamiento a solicitud de los propietarios de los mismos.
+Es objeto de este derecho el servicio de recolección y traslado de basura a domicilio, así como la limpieza de predios baldíos que sean aseados por el Ayuntamiento a solicitud de los propietarios de los mismos.
 
 ###### Artículo 93.
 
 Servirá de base el cobro de este derecho:
 
-I.- Tratándose del servicio de recolección de basura, la periodicidad y forma en que se preste el servicio.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+I.- Tratándose del servicio de recolección y traslado de residuos sólidos, la periodicidad y tipo de predio en que se preste el servicio.
 
 II.- La superficie total del predio que deba limpiarse, a solicitud del propietario.
 
 #### Sección Primera. De la Tarifa
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 94.
 
-Los derechos correspondientes al servicio de limpia se causarán y pagarán de acuerdo a lo señalado en la Ley de Ingresos del Municipio de Progreso, Yucatán.
+Los derechos correspondientes al servicio de limpia, recolección y traslado de residuos sólidos se causarán y pagarán de acuerdo a lo señalado en la Ley de Ingresos del Municipio de Progreso, Yucatán en vigor.
 
 ### CAPÍTULO VI. Derechos por Servicios de Supervisión Sanitaria de Matanza
 
@@ -1071,27 +1243,39 @@ I.- Ganado vacuno $ 100.00 por cabeza.
 
 II.- Ganado porcino $ 50.00 por cabeza
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Ganado caprino 0.5 UMA por cabeza.
+
 ### CAPÍTULO VIII. Derechos por Servicios de Mercados y Central de Abasto
 
 ###### Artículo 99.
 
 Las personas físicas y morales que soliciten o que se les expidan certificaciones y constancias, pagarán derechos conforme a lo establecido en la Ley de Ingresos del Municipio de Progreso, Yucatán.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 100.
 
-Por inscripción en el registro de población o vecinal del padrón municipal, se pagará $10.00 si el ayuntamiento acude al domicilio a llevar a cabo el empadronamiento, y gratuito si el ciudadano acude a la oficina de empadronamiento municipal.
+Por inscripción en el registro de población o vecinal del padrón municipal, se pagará 3 UMA si el ayuntamiento acude al domicilio a llevar a cabo el empadronamiento, y gratuito si el ciudadano acude a la oficina de empadronamiento municipal.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 101.
 
-Por la adquisición de cada ejemplar de la gaceta municipal se pagará $ 1.00 por cada hoja que contenga la misma.
+Por la adquisición de cada ejemplar de la gaceta municipal se pagará 0.01 UMA por cada hoja que contenga la misma.
 
 ### CAPÍTULO IX. Derecho por Servicios de Cementerios
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 #### Sección Primera. De los Sujetos
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 102.
 
-Son sujetos de este derecho, las personas físicas o morales que se dediquen a la comercialización de productos o prestación de servicios en mercados. También son sujetos de estos derechos los comerciantes que realicen sus actividades de manera ambulante.
+Son sujetos de este derecho, las personas físicas o morales que se usen o gocen locales de mercados públicos o central de abasto para la comercialización de productos o prestación de servicios.
 
 #### Sección Segunda. Del Objeto
 
@@ -1099,9 +1283,13 @@ Son sujetos de este derecho, las personas físicas o morales que se dediquen a l
 
 Es objeto de este derecho la prestación de servicios de administración de mercados y centrales de abasto que proporcione el Municipio.
 
-Por mercados se entenderán el inmueble, edificado o no, donde concurra diversidad de personas físicas o morales, oferentes de productos básicos y al que accedan sin restricción alguna en demanda de dichos productos los consumidores en general. Se entenderá por central de abasto a las unidades de distribución al mayoreo de los mismos productos que se expenden en los mercados, teniendo como actividades principales la recepción, exhibición y almacenamiento especializado, así como la venta de productos. Se considerarán mercados también para los efectos de esta Ley a las vías públicas, plazas, parques o lugares públicos de cualquier naturaleza, cuando en ellos se realicen las actividades a que se refiere este artículo.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Por servicios de administración de mercados se entenderá la asignación de lugares o espacios para la instalación de locales fijos o semifijos y el control de los mismos, así como los servicios de aseo, mantenimiento, vigilancia y otros relacionados con la operación y funcionamiento tanto de mercados construidos, como los lugares destinados por el Ayuntamiento a la comercialización.
+Por mercados se entenderán el inmueble, edificado o no, donde concurra diversidad de personas físicas o morales, oferentes de productos básicos y al que accedan sin restricción alguna en demanda de dichos productos los consumidores en general. Se entenderá por central de abasto a las unidades de distribución al mayoreo de los mismos productos que se expenden en los mercados, teniendo como actividades principales la recepción, exhibición y almacenamiento especializado, así como la venta de productos.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Por servicios de administración de mercados se entenderá la asignación de lugares o espacios para la instalación de locales fijos y el control de los mismos, así como los servicios de aseo, mantenimiento, vigilancia y otros relacionados con la operación y funcionamiento tanto de mercados construidos, como los lugares destinados por el Ayuntamiento a la comercialización.
 
 #### Sección Tercera. De la Tarifa
 
@@ -1113,19 +1301,21 @@ Los derechos por servicios de mercados se causarán y pagarán de conformidad co
 
 ###### Artículo 105.
 
-Los derechos por este servicio se pagarán conforme a las cuotas que establezcan la Ley de Ingresos del Municipio de Progreso, Yucatán.
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2024)
 
 #### Sección Quinta. De la Época de Pago
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 106.
 
-El pago de estos derechos deberá realizarse mensualmente por los comerciantes con locales o puestos fijos o semifijos, así como por los comerciantes ambulantes permanentes. En los casos de comerciantes que realicen sus actividades de manera esporádica, ya sea fija o ambulante, el pago debe ser realizado cada vez que se solicite la asignación de lugares o espacios a la autoridad municipal.
+El pago de estos derechos deberá realizarse mensualmente por los comerciantes con locales o puestos fijos.
 
 ### CAPÍTULO X. De los Derechos por los Servicios que prestan el Catastro y la Zona Federal Marítimo Terrestre Municipal
 
 ###### Artículo 107.
 
-Son objeto del Derecho por servicios de Panteones, aquellos que sean solicitados y prestados por el Ayuntamiento.
+Son objeto del Derecho por servicios de cementerios, aquellos que sean solicitados por las personas y prestados por el Ayuntamiento.
 
 ###### Artículo 108.
 
@@ -1167,9 +1357,11 @@ Quedan exentas de pago de los derechos que establece esta sección, las instituc
 
 Son sujetos del Derecho de Alumbrado Público los propietarios o poseedores de predios urbanos o rústicos ubicados en el Municipio de Progreso, Yucatán.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 117.
 
-Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio de Progreso, Yucatán. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes del Municipio de Progreso, Yucatán. Se entiende por servicio de alumbrado público, el que el Municipio otorga a la comunidad, en calles, plazas, jardines y otros lugares de dominio público y uso común.
 
 ###### Artículo 118.
 
@@ -1201,9 +1393,11 @@ Son sujetos al pago de este derecho las personas físicas y morales que solicite
 
 #### Sección Segunda. Del Objeto
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 123.
 
-Es objeto de este derecho los servicios que presta la Unidad de Acceso a la Información Pública del H. Ayuntamiento de Progreso, Yucatán por la entrega de información a través de copias simples, copias certificadas, discos compactos y discos en formato DVD.
+Es objeto de este derecho los servicios que presta la Unidad de Acceso a la Información Pública del H. Ayuntamiento de Progreso, Yucatán por la entrega de información a través de copias simples, copias certificadas y medios electromagnéticos.
 
 #### Sección Tercera. De la Base
 
@@ -1387,6 +1581,8 @@ En el caso de las inscripciones y las mensualidades de los beneficiarios de los 
 
 ### CAPÍTULO I. Productos Derivados de Bienes Inmuebles
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 132.
 
 Son contribuciones especiales por mejoras las cantidades que la Hacienda Pública Municipal tiene derecho de percibir de la ciudadanía directamente beneficiada, como aportación a los gastos que ocasione la realización de obras de mejoras o la prestación de un servicio de interés general emprendidos para el beneficio común.
@@ -1417,13 +1613,17 @@ VII.- Cualesquiera otras obras distintas de las anteriores que se lleven a cabo 
 
 Son sujetos obligados al pago de las contribuciones de mejoras las personas físicas o morales que sean propietarios, fideicomisarios, fideicomitentes, fiduciarios o poseedores por cualquier título de los predios beneficiados con obras realizadas por el Ayuntamiento, sin importar si están destinados a casa-habitación, o se trate de establecimientos comerciales, industriales y/o de prestación de servicios.
 
-Para los efectos de este artículo se consideran beneficiados con las obras que efectúe el Ayuntamiento los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Para los efectos de este artículo se consideran beneficiados directos con las obras que efectúe el Ayuntamiento los siguientes:
 
 I.- Los predios exteriores, que colinden con la calle en la que se hubiese ejecutado las obras.
 
 II.- Los predios interiores, cuyo acceso al exterior, fuera por la calle en donde se hubiesen ejecutado las obras.
 
-En el caso de edificios sujetos a régimen de propiedad en condominio, el importe de la contribución calculado en términos de este Capítulo, se dividirá prorrateadamente entre el número de locales.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+En el caso de edificios sujetos a régimen de propiedad en condominio, el importe de la contribución calculado en términos de este Capítulo, se dividirá prorrateadamente entre el número de unidades individuales.
 
 ###### Artículo 136.
 
@@ -1483,9 +1683,11 @@ El Director de Finanzas y Tesorería Municipal previa solicitud por escrito del 
 
 ###### Artículo 141.
 
-El Municipio percibirá productos derivados de los bienes inmuebles por los siguientes conceptos:
+El Municipio percibirá productos derivados de los bienes inmuebles del dominio privado por los siguientes conceptos:
 
-I.- Por arrendamiento o enajenación de bienes inmuebles; el arrendamiento de bienes inmuebles a que se refiere la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración del contrato que firmará el Presidente Municipal y el Secretario de la Comuna, previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar del pago.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+I.- Por arrendamiento, explotación, aprovechamiento o enajenación de bienes inmuebles; el arrendamiento de bienes inmuebles a que se refiere la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración del contrato que firmará el Presidente Municipal y el Secretario de la Comuna, previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar del pago.
 
 Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
@@ -1569,6 +1771,12 @@ X.- Derechos por el otorgamiento de la concesión por el uso o goce de la Zona F
 
 El Municipio percibirá aprovechamientos derivados de otros conceptos no previstos en los capítulos anteriores, cuyo rendimiento, ya sea en efectivo o en especie, deberá ser ingresado al erario municipal, expidiendo de inmediato el recibo oficial respectivo.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 147 Bis.
+
+Los Comerciantes en vía pública con puestos semifijos, tianguistas y vendedores ambulantes, podrán ocupar una superficie máxima que establezca la autoridad correspondiente en modalidades de tianguis, mercado sobre ruedas y bazares, siempre que cuenten con permiso vigente, expedido por las (sic) Dirección de Finanzas y Tesorería Municipal, para llevar a cabo actividades comerciales de cualquier tipo o concesión otorgada por autoridad competente, y pagarán los aprovechamientos por el uso o explotación de las vías y áreas públicas, cuyas cuotas serán por día.
+
 ## TITULO OCTAVO. PARTICIPACIONES Y APORTACIONES
 
 ### CAPÍTULO ÚNICO. De los Empréstitos, Subsidios y los Provenientes del Estado o la Federación
@@ -1597,6 +1805,8 @@ En todo caso las autoridades fiscales municipales deberán señalar en los manda
 
 ### CAPITULO II. De los Gastos Extraordinarios de Ejecución
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 151.
 
 Cuando las autoridades fiscales utilicen el procedimiento administrativo de ejecución, para el cobro de una contribución o de un crédito fiscal, el contribuyente estará obligado a pagar el .02 de la contribución o del crédito fiscal correspondiente, por concepto de gastos de ejecución, y, además, pagará los gastos erogados, por cada una de las diligencias que a continuación, se relacionan:
@@ -1615,13 +1825,13 @@ Cuando el .02 del importe del crédito omitido, fuere inferior al importe de un 
 
 Además de los gastos mencionados en el artículo inmediato anterior, por el contribuyente, queda obligado a pagar los gastos extraordinarios que se hubiesen erogado, por los siguientes conceptos:
 
-Gastos de transporte de los bienes embargados.
+I. Gastos de transporte de los bienes embargados.
 
-Gastos de impresión y publicación de convocatorias.
+II. Gastos de impresión y publicación de convocatorias.
 
-Gastos de inscripción o de cancelación de gravámenes, en el Registro Público de la propiedad del Estado.
+III. Gastos de inscripción o de cancelación de gravámenes, en el Registro Público de la propiedad del Estado.
 
-Gasto de certificado de libertad de gravamen.
+IV. Gasto de certificado de libertad de gravamen.
 
 ###### Artículo 153.
 
@@ -1637,6 +1847,8 @@ Son responsables de la comisión de las infracciones previstas en esta Ley, las 
 
 ### CAPITULO III. De las Sanciones
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 155.
 
 Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conozcan hechos u omisiones que entrañen o puedan entrañar infracciones a la presente Ley, lo comunicarán por escrito al Presidente Municipal, para no incurrir en responsabilidad, dentro de los tres días siguiente a la fecha en que tengan conocimiento de tales hechos u omisiones.
@@ -1645,9 +1857,13 @@ Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conoz
 
 Las autoridades fiscales municipales para hacer cumplir sus determinaciones podrán aplicar, sin perjuicio de las sanciones que se señalan en las distintas disposiciones de esta Ley, las siguientes:
 
-Apercibimiento
+I. Apercibimiento
 
-Multa de uno a diez salarios mínimos vigentes, excepto cuando las disposiciones de la presente Ley, señalen otra cantidad Clausura Auxilio de la Fuerza Pública.
+II. Multa de 1 a 20 UMA, excepto cuando las disposiciones de la presente Ley, señalen otra cantidad
+
+III. Clausura
+
+IV. Auxilio de la Fuerza Pública.
 
 Las sanciones que se determinen por las autoridades fiscales, se aplicarán sin perjuicio de que se exija el pago de la contribución o de las multas mediante el procedimiento administrativo de ejecución.
 
@@ -1712,3 +1928,11 @@ En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido p
 ###### ARTÍCULO CUARTO.
 
 El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+D.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28/2024 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE HUNUCMÁ, MOTUL, PROGRESO, TECOH, TIXPÉUAL, UAYMA, YAXCABÁ Y YOBAÍN, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
