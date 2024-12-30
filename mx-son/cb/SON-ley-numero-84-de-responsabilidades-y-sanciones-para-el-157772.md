@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-84-de-responsabilidades-y-sanciones-para-el-157772"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-26"
-last_updated: "2023-09-25"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el martes 26 de abril de 2022.
 
@@ -49,7 +49,9 @@ DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA
 
 La presente Ley es de orden público y de observancia general en el Estado de Sonora, y tiene por objeto establecer los lineamientos de aplicación en concurrencia con la Ley General de Responsabilidades Administrativas, así como regular lo no previsto en dicha ley.
 
-Corresponde al Titular del Poder Ejecutivo o en su caso al Secretario de la Contraloría General del Estado de Sonora, nombrar a los Titulares de los Órganos Internos de Control y personal operativo en las distintas dependencias y organismos de la administración estatal.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Corresponde al Titular del Poder Ejecutivo o en su caso a la persona titular de la Secretaría Anticorrupción y Buen Gobierno del Estado de Sonora, nombrar a los Titulares de los Órganos Internos de Control y personal operativo en las distintas dependencias y organismos de la administración estatal.
 
 ###### ARTÍCULO 2.
 
@@ -75,11 +77,17 @@ Para efectos de esta Ley se entenderá por:
 
 I.- ISAF: El Instituto Superior de Auditoría y Fiscalización del Estado de Sonora;
 
-II.- Autoridad investigadora: La Coordinación de Investigación de la Secretaría, el ISAF y los Órganos internos de control que se definen en esta Ley, encargados de la investigación de faltas administrativas;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-III.- Autoridad sustanciadora: La Coordinación sustanciadora de la Secretaría, el ISAF y los Órganos internos de control, entre los que se incluyen a los órganos de control y evaluación gubernamental de los ayuntamientos, en su caso, que se definen en esta Ley, que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial, tratándose de faltas administrativas graves y cometidas por particulares; y hasta el periodo de alegatos tratándose de faltas administrativas no graves. La función de la Autoridad sustanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+II.- Autoridad investigadora: La Subsecretaría de Investigación de la Secretaría, el ISAF y los Órganos internos de control que se definen en esta Ley, encargados de la investigación de faltas administrativas;
 
-IV.- Autoridad resolutora: Tratándose de Faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado, tanto en la Secretaría como en los Órganos internos de control que se definen en esta ley. Para las Faltas administrativas graves, asícomo (sic) para las Faltas de particulares, lo será el Tribunal;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Autoridad sustanciadora: La Subsecretaría de Sustanciación y Resolución de Responsabilidades de la Secretaría, el ISAF y los Órganos internos de control, entre los que se incluyen a los órganos de control y evaluación gubernamental de los ayuntamientos, en su caso, que se definen en esta Ley, que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial, tratándose de faltas administrativas graves y cometidas por particulares; y hasta el periodo de alegatos tratándose de faltas administrativas no graves. La función de la Autoridad sustanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV.- Autoridad resolutora: Tratándose de Faltas administrativas no graves lo será la Subsecretaría de Sustanciación y Resolución de Responsabilidades de la Secretaría, como en los Órganos Internos de Control que se definen en esta ley. Para las Faltas administrativas graves, así como para las Faltas de particulares, lo será el Tribunal;
 
 V.- Comité Coordinador Nacional: Instancia a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del Sistema Nacional Anticorrupción;
 
@@ -125,7 +133,9 @@ XXIII.- Plataforma digital nacional: La plataforma a que se refiere la Ley Gener
 
 XXIV.- Principio de razonabilidad: Aquel por el cual se establecen conexiones causales y lógicas, necesarias para la formulación de un argumento, con el objeto de acreditarlo;
 
-XXV.- Secretaría: La Secretaría de la Contraloría General del Estado de Sonora;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXV.- Secretaría: La Secretaría Anticorrupción y Buen Gobierno del Estado de Sonora;
 
 > <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
@@ -138,6 +148,10 @@ XXVIII.- Sistema Estatal Anticorrupción: La instancia estatal de coordinación 
 XXIX.- Tribunal: Tribunal de Justicia Administrativa; y
 
 XXX.- (DEROGADA, B.O. 25 DE SEPTIEMBRE DE 2023)
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXXI.- Autoridad Auditora: La Subsecretaría de Auditoría y Control Gubernamental de la Secretaría supervisará el programa anual de auditorías a las dependencias y entidades de la Administración Pública Estatal, en el cumplimiento de los objetivos contenidos en los programas estatales, conforme a los indicadores establecidos en el presupuesto de egresos y tomando en cuenta el Plan Estatal de Desarrollo, así como supervisar la operación de los sistemas para el seguimiento, registro, control y vigilancia de las operaciones en materia de obras públicas y servicios relacionados con las mismas, adquisiciones, arrendamientos y servicios de cualquier naturaleza que lleve a cabo la Administración Pública Estatal; además de las atribuciones y funciones que le confieran en el reglamento respectivo y las disposiciones legales aplicables y las que le atribuya expresamente la Titular de la Secretaría en el ámbito de sus atribuciones.
 
 ###### ARTÍCULO 4.
 
@@ -463,7 +477,9 @@ Cuando las Autoridades investigadoras, en el ámbito de sus competencias, llegar
 
 Las autoridades investigadoras constituidas como coadyuvantes del Ministerio Público podrán impugnar ante la autoridad competente las omisiones en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
 
-Cuando el Instituto Superior de Auditoria y Fiscalización o en su caso la Secretaría de la Contraloría General del Estado no sean denunciantes, a solicitud del Ministerio Publico, los abogados de éstos entes podrán actuar como asesores técnicos dentro de los procedimientos penales que se sigan por delitos relacionados con hechos de corrupción cuando se haya visto afectada la hacienda de un ente público o entidad.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Cuando el Instituto Superior de Auditoría y Fiscalización o en su caso la Secretaría Anticorrupción y Buen Gobierno del Estado de Sonora no sean denunciantes, a solicitud del Ministerio Público, los abogados de estos entes podrán actuar como asesores técnicos dentro de los procedimientos penales que se sigan por delitos relacionados con hechos de corrupción cuando se haya visto afectada la hacienda de un ente público o entidad.
 
 #### SECCIÓN CUARTA. RÉGIMEN DE LOS SERVIDORES PÚBLICOS QUE PARTICIPAN EN CONTRATACIONES PÚBLICAS
 
@@ -2268,3 +2284,27 @@ B.O. 25 DE SEPTIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 18, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA Y (SIC) LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán realizar las modificaciones a los Reglamentos, Manuales de Organización y de Procedimientos, con motivo del presente Decreto las cuales deberán expedirse a más tardar dentro de los noventa días hábiles posteriores a la publicación del mismo en el órgano oficial de difusión mencionado en el artículo anterior.
+
+El o la Titular de la Secretaría Anticorrupción y Buen Gobierno queda facultada para resolver las cuestiones que se presenten relacionadas con los manuales administrativos en tanto éstos se expidan.
+
+###### ARTÍCULO TERCERO.
+
+Las menciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición, respecto de las Secretarías cuyas atribuciones y funciones se reforman o derogan por virtud de este Decreto, se entenderán referidas a las dependencias que adquieren tales atribuciones o funciones.
+
+El o la Titular de la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de su competencia estará facultada para emitir las disposiciones de carácter administrativo y realizar las gestiones necesarias ante la Secretaría de Hacienda del Estado y Oficialía Mayor del Estado de Sonora para otorgar la suficiencia presupuestal que permitan la operación y funcionamiento de la Secretaría de ser necesario.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos en trámite que son atendidos por las dependencias que modifican su denominación o atribuciones en virtud de la entrada en vigor al presente ordenamiento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia y atribución correspondiente, de conformidad con las disposiciones aplicables.
