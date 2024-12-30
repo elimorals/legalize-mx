@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-uayma-yucatan-25648"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2022-12-30"
+last_updated: "2024-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -653,6 +653,8 @@ VALORES CATASTRALES
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DEL D.O. DE 22 DE JUNIO DE 2022, PÁGINA 9.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR EN EL D.O. DE 30 DE DICIEMBRE DE 2024, PÁGINA 56.]</small>
+
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
 
 Todo predio destinado a la producción agropecuaria se pagará 10 al millar anual sobre el valor registrado o catastral, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
@@ -873,11 +875,11 @@ Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquis
 
 DE LA TASA
 
-> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 61.
 
-El impuesto a que se refiere este capítulo se calculará aplicando la tasa del 2.5% a la base señalada en el artículo 59 de esta Ley.
+El impuesto a que se refiere este capítulo se calculará aplicando la tasa del 4% a la base señalada en el artículo 59 de esta Ley.
 
 DEL MANIFIESTO A LA AUTORIDAD
 
@@ -1273,9 +1275,9 @@ Por el servicio previsto en el inciso n) 0.07 UMA por m2
 
 Por el servicio previsto en el inciso ñ) 720 UMA
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Por el servicio previsto en el inciso o) 0.05 UMA por m2
+Por el servicio previsto en el inciso o) 0.20 UMA por m2
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -1533,9 +1535,13 @@ II. Más de 160,000 m2 .001 UMA por m2 excedente.
 
 Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo:
 
-I. Tipo comercial 0.7 UMA por departamento
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II. Tipo habitacional 0.5 UMA por departamento
+I. Tipo comercial 5 UMA por departamento
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II. Tipo habitacional 5 UMA por departamento
 
 ###### ARTÍCULO 99.
 
@@ -1769,15 +1775,17 @@ b) Expendios de cerveza 15 UMA
 
 c) Supermercados y mini súper con departamento de licores 25 UMA.
 
-IV. Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la prestación de servicios, que incluyan la venta de bebidas alcohólicas:
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-a) Cantinas y bares 250 UMA
+IV. Por el otorgamiento de licencias de funcionamiento a establecimientos cuyos giros sean la prestación de servicios, que incluyan la venta de bebidas alcohólicas.
 
-b) Restaurantes-bar 450 UMA
+a) Cantinas y bares 600 UMA
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+b) Restaurante-Bar 600 UMA
 
-V. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción I) de este artículo, se pagará la mitad de la tarifa establecida.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+V. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción I) de este artículo, se pagará 300 UMA.
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -2272,3 +2280,11 @@ Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publi
 Artículo Segundo. El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
 
 Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
+
+D.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28/2024 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE HUNUCMÁ, MOTUL, PROGRESO, TECOH, TIXPÉUAL, UAYMA, YAXCABÁ Y YOBAÍN, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo Primero.- Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
