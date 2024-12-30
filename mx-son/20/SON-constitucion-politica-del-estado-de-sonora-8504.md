@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2023-11-14"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -479,9 +479,9 @@ El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicano
 
 La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los poderes públicos del Estado. El gobierno es emanación genuina del pueblo y se instituye para beneficio del mismo.
 
-> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-La elección a gobernador del Estado, de los diputados al Congreso del Estado y de los integrantes de los ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda y procurará realizarse de manera concurrente con los procesos electorales federales. La elección de Gobernador será concurrente con la elección de Presidente de la República.
+La elección a Gobernador o Gobernadora del Estado, de las diputadas y diputados del Congreso del Estado, de los integrantes de los ayuntamientos, así como de las Magistradas y Magistrados, Juezas y Jueces del Poder Judicial del Estado, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones auténticas, periódicas y libres. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda y procurará realizarse de manera concurrente con los procesos electorales federales. La elección de Gobernador o Gobernadora será concurrente con la elección de Presidente o Presidenta de la República.
 
 La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral y de Participación Ciudadana, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
@@ -1087,9 +1087,13 @@ XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador
 
 XVII. Para constituirse en Colegio Electoral y elegir por dos terceras partes de los integrantes del Congreso al ciudadano que debe substituir al Gobernador en sus faltas absolutas, temporales o definitivas y en sus ausencias temporales cuando éstas excedan de noventa días. A fin de respetar la voluntad popular, el ciudadano que sea designado por el Congreso, en su carácter de Colegio Electoral, deberá ser a propuesta del grupo parlamentario del partido que postuló al Gobernador, salvo el caso de candidaturas independientes.
 
-> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Justicia Administrativa, que sean propuestos por el Ejecutivo.
+XVIII. Participar en la elección de Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado, de las Magistradas y Magistrados Regionales de Circuito, de las Magistradas y Magistrados del Tribunal de Disciplina Judicial y de las Juezas y Jueces del Poder Judicial del Estado, conforme al artículo 113 BIS de esta Constitución.
+
+Corresponde al Congreso, aprobar o negar, sin goce de sueldo, las solicitudes de licencia de más de un mes que soliciten Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado, Magistradas y Magistrados Regionales de Circuito, Magistradas y Magistrados del Tribunal de Disciplina Judicial y Juezas y Jueces del Poder Judicial del Estado, conforme a lo dispuesto por el artículo 116 de esta misma Constitución.
+
+Adicionalmente, el Congreso podrá designar a una persona que formará parte del Órgano de Administración del Poder Judicial del Estado de Sonora, en términos del artículo 120 de esta Constitución.
 
 > <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -1699,7 +1703,11 @@ XXXIII. Nombrar y remover al titular del Centro de Conciliación Laboral del Est
 
 XXXIV. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular.
 
-XXXV. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXXV. Participar en la elección de Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado, de las Magistradas y Magistrados del Tribunal de Disciplina Judicial, de las Magistradas y Magistrados Regionales de Circuito y de las Juezas y Jueces del Poder Judicial del Estado, conforme al artículo 113 BIS de esta Constitución.
+
+Adicionalmente, podrá designar a una persona que formará parte del Órgano de Administración del Poder Judicial del Estado de Sonora, en términos del artículo 120 de esta Constitución.
 
 > <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -1729,9 +1737,9 @@ XLI. Las demás que le asignen las leyes, ya sean Federales o del Estado.
 
 El Gobernador del Estado podrá delegar las facultades y obligaciones previstas en la presente Constitución al servidor público que determine. Esta delegación podrá efectuarse en los casos que el Titular del Ejecutivo lo establezca procedente salvo aquellas facultades que por su naturaleza jurídica deban ser ejercidas por el mismo Gobernador.
 
-> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Son facultades exclusivas del Gobernador no delegables las establecidas en las fracciones I, III, VII, XIII, XIV, XVII, XVIII, XXI, XXII, XXIV, XXXII, XXXIII, XXXVI BIS, XXXIX y XL de este artículo.
+Son facultades exclusivas de la persona titular del Poder Ejecutivo no delegables las establecidas en las fracciones I, III, VII, XIII, XIV, XVII, XVIII, XXI, XXII, XXIV, XXXII, XXXIII, XXXV, XXXVI BIS, XXXIX y XL de este artículo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2079,97 +2087,149 @@ Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agen
 
 Poder Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia, Tribunales Laborales y en Juzgados Locales. Existirá, además, el Consejo del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de la justicia.
+El Poder Judicial del Estado se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, tribunales laborales y en Juzgados.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
+Existirá, además, un Tribunal de Disciplina Judicial el cual estará a cargo de la observancia del personal del Poder Judicial del Estado y un Órgano de Administración del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de justicia, en los términos que establezca la Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
+Las resoluciones judiciales deberán emitirse de manera pronta, completa e imparcial, debiéndose garantizar su ejecución a través de los procedimientos idóneos que consignen las leyes aplicables y los plazos que establezca la Constitución Federal y las leyes aplicables.
 
-Las resoluciones judiciales deberán emitirse de manera pronta, completa e imparcial, debiéndose garantizar su ejecución a través de los procedimientos idóneos que consignen las leyes aplicables.
+El servicio judicial será gratuito; en consecuencia, quedan prohibidas las costas judiciales.
 
-> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
-
-El servicio judicial será gratuito. En consecuencia, quedan prohibidas las costas judiciales.
-
-> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
-
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de siete Magistradas o Magistrados Propietarios y siete Suplentes y funcionará en Pleno, en Salas o en Comisiones.
+El Supremo Tribunal de Justicia se compondrá de siete Magistradas o Magistrados y funcionará en Pleno, en Salas o en Comisiones. Su presidencia se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia durarán en su encargo nueve años y podrán ser reelectos de forma consecutiva cada que concluya su periodo. Podrán ser privados de sus puestos en los términos que determine la Constitución Política del Estado de Sonora y las demás leyes aplicables.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo seis años y serán sustituidos de manera escalonada, salvo que se actualice el supuesto previsto en el párrafo que antecede. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuaran en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los Magistrados nombrados para concluir el período de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del período de aquél.
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+###### Artículo 113 Bis.
 
-Los Magistrados del Supremo Tribunal de Justicia designados podrán ser reelectos y, si lo fueren, solo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las Magistradas y Magistrados Regionales de Circuito y las Juezas y Jueces, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias del año que corresponda, conforme al siguiente procedimiento:
 
-> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
+I.- El Órgano de Administración del Poder Judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia, el circuito o distrito judicial respectivo y demás información que requiera. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas a más tardar dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir;
 
-Los nombramientos de las y los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, preferentemente entre aquellas personas que cumplan con lo dispuesto en el artículo 17 y 114 de esta Constitución y hayan prestado sus servicios con eficiencia y probidad dentro del Poder Judicial o entre las que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica. Dichos nombramientos serán sometidos a la aprobación del Congreso, el que otorgará o negará esta aprobación dentro del término, de tres días. Si el Congreso no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no se podrá tomar posesión del cargo.
+II.- Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a lo siguiente:
 
-> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
+a).- Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación;
 
-En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
+b).- Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, quienes deberán cumplir los requisitos que establezca la ley, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
+Los comités conformados en cada Poder, podrán coordinarse para efectos de homologar los alcances de la convocatoria;
+
+c).- Los Comités de Evaluación integrarán un listado de hasta seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Supremo Tribunal de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, Magistradas y Magistrados Regionales de Circuito, así como Juezas y Jueces;
+
+Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando el principio de paridad de género; y
+
+d).- Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
+
+El Poder Ejecutivo postulará por conducto de su titular hasta dos personas aspirantes; el Congreso del Estado postulará hasta dos personas, mediante votación calificada de dos tercios de sus integrantes presentes y el Poder Judicial del Estado, por conducto del Pleno del Supremo Tribunal de Justicia del Estado, postulará hasta dos personas por mayoría de cuatro votos.
+
+III.- El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Estatal Electoral y de Participación Ciudadana a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo.
+
+Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente; y
+
+IV.- El Instituto Estatal Electoral y de Participación Ciudadana efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Estatal Electoral de Sonora, el cual resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
+
+Para el caso de Magistradas y Magistrados del Supremo Tribunal de Justicia y de Magistradas y Magistrados del Tribunal de Disciplina Judicial, así como todas aquellas Magistradas, Magistrados, Juezas y Jueces con competencia estatal, la elección se realizará a nivel estatal, mientras que, para el caso de Magistradas y Magistrados Regionales, así como Juezas y Jueces, la elección se realizará por circuito o distrito judicial estatal, en su caso, conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes.
+
+El Congreso del Estado incorporará a los listados que remita al Instituto Estatal Electoral y de Participación Ciudadana a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o circuito o distrito judicial diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+
+La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto Estatal Electoral y de Participación Ciudadana celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+Las personas candidatas podrán participar en foros de debate organizados por el propio Instituto o en aquellos brindados gratuitamente por organismos de los sectores público, privado o social en condiciones de equidad.
+
+Estará prohibido el financiamiento público o privado de las campañas para todos los cargos de elección dentro del Poder Judicial del Estado de Sonora, así como la contratación, por sí o por interpósita persona, de espacios en radio y televisión en los términos de la Ley correspondiente. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La duración de las campañas para los cargos señalados en el presente artículo será de treinta días y en ningún caso habrá etapa de precampaña. La Ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 114.
 
-Para ser Magistrado del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en las fracciones I a V del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos.
+Para ser Magistrada o Magistrado del Supremo Tribunal de Justicia, además de los requisitos previstos en las fracciones de la I a la IV del artículo 97 de la Constitución Política de los Estados Unidos Mexicanos, se requiere reunir los siguientes:
 
-Los Magistrados del Supremo Tribunal de Justicia se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
+I.- Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+II.- Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 113 BIS de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Todas las Magistradas y Magistrados del Poder Judicial del Estado deberán contar además con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+
+IV.- Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 113 BIS de esta Constitución; y
+
+V.- No ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios.
+
+Durarán nueve años en el ejercicio de su encargo, al término de los cuales, si fueran reelectos, continuarán en el desempeño de sus funciones solo por nueve años más, sin perjuicio de que puedan ser privados de sus cargos, en cualquier momento, en los casos y conforme a los procedimientos que establezca la Ley.
+
+No podrán ser Magistradas o Magistrados las personas que hayan ocupado el cargo de titular de alguna Secretaría del Estado o su equivalente, Fiscal o Diputada o Diputado Local durante el año previo al día de la publicación de la convocatoria respectiva por el Congreso del Estado.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 115.
 
-Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia rendirán la protesta de Ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 116.
 
-El cargo de Magistrado del Supremo Tribunal de Justicia solamente es renunciable por causa grave calificada por el Congreso del Estado.
+El cargo de Magistrado o Magistrada del Supremo Tribunal de Justicia solamente es renunciable por causa grave calificada por el Congreso del Estado.
 
-Las licencias de los Magistrados del Supremo Tribunal de Justicia, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia; las que excedan de ese tiempo podrán concederse por la Legislatura local y, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de dos años.
+Las licencias de las Magistradas y Magistrados, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia para el caso de sus integrantes; por el Tribunal de Disciplina Judicial para el caso de sus integrantes o por el Órgano de Administración del Poder Judicial del Estado para el caso de Magistradas y Magistrados Regionales, Juezas y Jueces; las que excedan de ese tiempo podrán concederse, sin goce de sueldo, por el Congreso del Estado y, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de un año.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+Cuando la falta de una Magistrada o Magistrado, Jueza o Juez exceda de un mes sin licencia o si dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. Una vez que se agote la lista de los candidatos que participaron en las elecciones, el Pleno del Supremo Tribunal designará de manera provisional a la Magistrada o Magistrado, Jueza o Juez que ocupara el cargo en tanto se realicen las siguientes elecciones ordinarias. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+
+Las personas que hayan ocupado el cargo de Magistrada o Magistrado del Supremo Tribunal de Justicia o del Tribunal de Disciplina Judicial, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado. Para el caso de las Magistradas o Magistrados de los Tribunales Regionales de Circuito y Juezas y Jueces, este impedimento aplicará respecto del circuito o distrito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la Ley, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 117.
 
-La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito, la de los Juzgados de Primera Instancia, la de los Tribunales Laborales y Juzgados Locales, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
+La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito, y la de los Juzgados, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
 
-> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+El Supremo Tribunal de Justicia, por conducto de su Presidenta o Presidente, deberá rendir al Congreso y al Gobernador del Estado, los informes, que le soliciten sobre el ramo judicial.
 
-El Supremo Tribunal de Justicia, funcionando en Pleno, determinará el número, división en circuitos, jurisdicción territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito, de los Juzgados de Primera Instancia y de los Tribunales Laborales.
+El Pleno del Supremo Tribunal de Justicia, estará facultado para expedir Acuerdos Generales que permitan el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
-
-Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine la ley, al Presidente del Supremo Tribunal de Justicia, el cual no podrá ser reelecto para el período inmediato posterior, salvo que se trate de una suplencia; en cuyo caso el suplente sí podrá ser reelecto.
-
-> <small>[N. DE E., VÉASE LITERALIDAD DE LA PUBLICACIÓN DEL B.O. DE FECHA 13 DE AGOSTO DE 2018, PÁGINA 11]</small>
-
-(ADICIONADO [N. DE E. REFORMADO], B.O. 13 DE AGOSTO DE 2018
-
-El Supremo Tribunal de Justicia, por conducto de su Presidente, deberá rendir al Congreso y al Gobernador del Estado, los informes que le soliciten sobre el ramo judicial.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
-
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 118.
 
-El Pleno del Supremo Tribunal de Justicia, para el adecuado ejercicio de sus funciones, estará facultado para expedir Acuerdos Generales, de conformidad con lo que establezca la ley.
+El Tribunal de Disciplina Judicial estará dotado de independencia técnica, de gestión y para emitir sus resoluciones.
+
+El Tribunal de Disciplina Judicial se integrará por cinco Magistradas o Magistrados electos por la ciudadanía a nivel estatal en los términos del procedimiento establecido en el artículo 113 BIS de esta Constitución.
+
+Para ser Magistrada o Magistrado del Tribunal de Disciplina Judicial se requiere cumplir con los requisitos establecidos en el artículo 114 de esta Constitución.
+
+Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, atendiendo la alternancia de género.
+
+El Tribunal de Disciplina Judicial funcionará en Pleno y en comisiones. El Pleno será la autoridad substanciadora en los términos que establezca la Ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la Ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la Ley determine.
+
+El Tribunal en mención desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres de sus integrantes que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de cuatro votos, en los términos que señale la Ley. Las decisiones del Tribunal de Disciplina Judicial serán definitivas e inatacables y no procederá juicio ni recurso alguno en contra de estas.
+
+El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas para que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+El Tribunal de Disciplina Judicial podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado de Sonora.
+
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de Magistradas y Magistrados del Supremo Tribunal de Justicia, que sólo podrán ser removidos en los términos del Título Sexto de esta Constitución.
+
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados de Circuito, de las Juezas y Jueces que resulten vencedoras en la elección local que corresponda durante su primer año de ejercicio. La Ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+La Ley señalará las áreas que intervendrán en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando el resultado de la evaluación resulte insatisfactorio:
+
+I.- Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendentes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación; y
+
+II.- Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal de Disciplina Judicial podrá ordenar su suspensión hasta de un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Sexto de esta Constitución.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2179,85 +2239,59 @@ Cuando algún Magistrado del Supremo Tribunal de Justicia estuviere impedido par
 
 Cuando todos los magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal de Justicia se integrará por magistrados suplentes, correspondiendo presidir los debates y ser ponente, al primero que conforme a la ley hubiere sido llamado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 120.
 
-El Consejo del Poder Judicial del Estado de Sonora funcionará en Pleno y se integrará hasta por las y los siguientes siete Consejeros:
+El Órgano de Administración del Poder Judicial del Estado de Sonora funcionará en Pleno, contará con independencia técnica y de gestión y se integrará por cinco servidores públicos que durarán en su encargo seis años improrrogables, los cuales serán designados conforme a lo siguiente:
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+I.- Tres personas serán designadas por el Pleno del Supremo Tribunal de Justicia del Estado, por mayoría de cuatro de sus miembros;
 
-I. El Presidente del Supremo Tribunal de Justicia del Estado, quien fungirá también como su Consejero Presidente y representante;
+II.- Una persona será designada por la persona titular del Poder Ejecutivo; y
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+III.- La persona restante será designada por el Congreso del Estado mediante el voto de las dos terceras partes de sus miembros presentes en la sesión de que se trate.
 
-II. Un Consejero nombrado por el Pleno del Supremo Tribunal de Justicia de entre sus magistrados;
+Durante su encargo, las personas integrantes del Órgano de Administración del Poder Judicial del Estado sólo podrán ser removidas en los términos del Título Sexto de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguno de sus integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+Para ser integrante del Órgano de Administración del Poder Judicial del Estado se requiere lo siguiente:
 
-III. Un Consejero designado por el Gobernador del Estado;
+I.- Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+II.- Contar con título de Licenciado en Derecho, Economía, Actuaría, Administración, Contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial expedido legalmente previo a la designación y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado y contar con experiencia profesional mínima de cinco años;
 
-IV. El Fiscal General de Justicia del Estado;
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+IV.- Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 113 BIS de esta Constitución;
 
-V. Un Consejero designado por el Colegio de Notarios del Estado de Sonora, de entre los integrantes del propio Colegio; y
+V.- No ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda y que no cuente con registro vigente en algún padrón de deudores alimenticios; y
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+VI.- Ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
-VI. Dos Consejeros designados por el Congreso del Estado mediante el voto de las dos terceras partes de sus integrantes.
+Para entrar al ejercicio del cargo, los integrantes del Órgano de Administración del Poder Judicial del Estado rendirán protesta de Ley ante el Congreso del Estado.
 
-> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
+Los integrantes del Órgano de Administración del Poder Judicial del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Cada dos años se renovará la presidencia del Órgano de Administración del Poder Judicial del Estado de manera rotatoria atendiendo la alternancia de género y sesionará válidamente con la asistencia de la mayoría de sus integrantes.
 
-Las y los consejeros a que se refieren las fracciones III y VI de este artículo deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente mínimo siete años previos a la designación, asimismo contar con un mínimo de tres años de ejercicio profesional, gozar de buena reputación, y no haber sido condenados por delito doloso, no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios, y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso del Consejero designado por el Supremo Tribunal de Justicia, deberá además gozar de reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
+El Órgano de Administración del Poder Judicial del Estado elaborará los proyectos de presupuestos de egresos del Poder Judicial del Estado y del Fondo para la Administración de Justicia para su aprobación, sin que puedan crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la Ley.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+El Supremo Tribunal de Justicia remitirá los proyectos de presupuestos de egresos del Poder Judicial del Estado al Congreso del Estado.
 
-En los casos de las fracciones III y VI de este precepto, no podrán ser designados consejeros quienes hayan ejercido el cargo de Magistrado del Supremo Tribunal de Justicia
+En términos de lo que establezca la Ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+Tanto la administración como la carrera judicial será responsabilidad del Órgano de Administración del Poder Judicial.
 
-Para entrar al ejercicio del cargo, los consejeros del Poder Judicial rendirán protesta de ley ante el Supremo Tribunal de Justicia.
+Tendrá a su cargo la determinación del número, división en circuitos o distritos, competencia territorial de los Tribunales Regionales de Circuito y de los Juzgados; el ingreso, adscripción y readscripción, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño y la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial y las demás que establezcan las leyes. Sólo procederá la readscripción de Magistradas y Magistrados, Juezas y Jueces, por determinación del Tribunal de Disciplina Judicial como medida correctiva o bien, cuando por necesidades del servicio, así se lo solicite el Órgano de Administración del Poder Judicial del Estado.
 
-> <small>(REFORMADO, B.O. 22 DE MARZO DE 2018)</small>
+La Ley establecerá las bases para la formación, evaluación, certificación y actualización de servidoras y servidores públicos, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Órgano de Administración judicial podrá contar con órganos externos auxiliares para diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares y, en su caso, fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
 
-El Presidente del Consejo, el diverso Magistrado de dicho órgano y el Fiscal General de Justicia del Estado, conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos; los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
-
-El Consejero designado por el Gobernador del Estado podrá ser un servidor público de cualquiera de los Poderes del Estado o de los Órganos Autónomos, en cuyo caso el consejero designado tendrá el carácter de honorario, sin recibir remuneración alguna, mientras conserve el carácter de servidor público diverso al de integrante del Consejo de (sic) Poder Judicial.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
-
-Los consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Sexto de esta Constitución.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
-
-El Consejo sesionará válidamente con la asistencia de su Presidente y de, cuando menos, la mayoría de sus integrantes, según corresponda.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
-
-El Presidente del Supremo Tribunal de Justicia y del Consejo elaborará los anteproyectos de presupuesto de egresos del Poder Judicial del Estado y del Fondo para la Administración de Justicia, tomando en cuenta para ello la opinión del Consejo, y en su oportunidad someterá los respectivos proyectos al Pleno del Supremo Tribunal de Justicia para su aprobación.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
-
-Una vez aprobado por el Pleno del Supremo Tribunal de Justicia el proyecto del presupuesto anual de egresos del Poder Judicial del Estado, el Presidente de aquél lo remitirá al Gobernador del Estado exclusivamente para los efectos previstos en el artículo 79, fracción VII, de esta Constitución, e igualmente deberá enviar una copia del mismo al Congreso del Estado.
-
-> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
-
-El Consejo del Poder Judicial del Estado de Sonora resolverá sobre la designación y adscripción de Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces Laborales, así como de los demás asuntos que la ley determine.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
-
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede recurso alguno en contra de las mismas, salvo las que se refieran a acuerdos generales, a la designación, adscripción y ratificación de Magistrados de los Tribunales Regionales y Jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, por lo que podrá confirmarlas, modificarlas o revocarlas. Para el caso de revocación, se requerirá la aprobación por mayoría de cuando menos las dos terceras partes del total de los integrantes del mismo Pleno. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
-
-> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 121.
 
-Las y los Magistrados de los Tribunales Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Laborales serán nombrados y adscritos por el Consejo del Poder Judicial del Estado de Sonora, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que señalen los ordenamientos jurídicos respectivos, para lo cual deberán gozar de buena reputación; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios, durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, continuarán en el desempeño de sus funciones por diez años más, sin perjuicio de que puedan ser privados de sus cargos, en cualquier momento, en los casos y conforme a los procedimientos que establezca la ley.
+Las Magistradas y los Magistrados de los Tribunales Regionales de Circuito, serán electos en los términos establecidos en el artículo 113 BIS de esta Constitución.
+
+Para ser Magistrada o Magistrado de los Tribunales Regionales de Circuito se requiere cumplir con los requisitos establecidos en el artículo 114 de esta Constitución.
+
+Durarán nueve años en el ejercicio de su encargo, al término de los cuales podrán ser reelectos de forma consecutiva cada que concluya su periodo. Podrán ser privados de su cargo en cualquier momento en los casos y conforme a los procedimientos que establezca esta Constitución y la Ley.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2283,21 +2317,17 @@ Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de 
 
 La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, profesionalismo, imparcialidad e independencia y antigüedad, en su caso, y bajo los criterios de igualdad de oportunidades, méritos y capacidad.
 
-> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
-
 ###### Artículo 125.
 
-Para ser Magistrado Regional de Circuito deberán reunirse los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia; además de observar lo que prevenga la ley de la materia para la carrera judicial.
+(DEROGADO, B.O. 30 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 126.
 
-Para ser Juez de Primera Instancia y Juez Laboral, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, para lo cual deberán gozar de buena reputación; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios, y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+Las Juezas y los Jueces serán electos en términos del artículo 113 BIS de la presente Constitución y durarán nueve años en el cargo, al término de los cuales podrán ser reelectos de forma consecutiva cada que concluya su periodo. Podrán ser privados de su cargo en cualquier momento en los casos y conforme a los procedimientos que establezca esta Constitución y la Ley.
 
-> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
-
-Adicionalmente, para ser Juez laboral se requerirá tener capacidad y experiencia en la materia.
+Para ser Jueza o Juez se requiere cumplir con los requisitos establecidos en el artículo 114 de esta Constitución.
 
 > <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -2779,9 +2809,9 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores P
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados de cualquier órgano jurisdiccional o administrativo, el Fiscal General de Justicia y los Fiscales Especializados, los secretarios y subsecretarios, los jueces de primera instancia, los jueces laborales, los agentes del ministerio público, quienes presidan los tribunales de Conciliación y Arbitraje, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
+Solo podrán ser sujetos a juicio político las Diputadas y los Diputados al Congreso del Estado, las Magistradas o Magistrados del Supremo Tribunal de Justicia, las Magistradas o Magistrados del Tribunal de Disciplina Judicial, las Magistradas o Magistrados de cualquier Órgano Jurisdiccional o Administrativo, las personas integrantes del Órgano de Administración del Poder Judicial del Estado, la o el Fiscal General de Justicia y las y los Fiscales Especializados, las y los Secretarios y Subsecretarios, las Juezas y los Jueces, las y los Agentes del Ministerio Público, quienes presidan los Tribunales de Conciliación y Arbitraje, las y los Consejeros Estatales Electorales, la o el Secretario del Instituto Estatal Electoral y de Participación Ciudadana, las Magistradas o Magistrados y Secretario General del Tribunal Estatal Electoral, las y los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, las Presidentas y los Presidentes Municipales, las y los Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como las y los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -4468,3 +4498,129 @@ B.O. 14 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+B.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 76, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN MATERIA DE REFORMA DEL PODER JUDICIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberán notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen la declaración correspondiente y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en el supuesto de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+El proceso electoral extraordinario 2024-2025 dará inicio el día de la entrada en vigor de la presente Ley. En dicha elección se elegirán los siguientes cargos observando el principio de paridad de género:
+
+I.- Hasta cuatro Magistraturas del Supremo Tribunal de Justicia del Estado.
+
+Las Magistraturas restantes permanecerán en el cargo hasta las elecciones ordinarias de 2027, incluyendo al presidente del Pleno;
+
+II.- Hasta cuatro Magistradas y Magistrados Colegiados Regionales de Circuito;
+
+III.- Hasta la mitad de los cargos de Juezas y Jueces con excepción de las y los Jueces en materia laboral; y
+
+IV.- Los integrantes del Tribunal de Disciplina Judicial.
+
+Las personas que se encuentren en funciones en los cargos señalados en las fracciones I, II y III del párrafo anterior, al cierre de la convocatoria que emita el Congreso del Estado, serán incorporadas a los listados para participar en la elección extraordinaria del año 2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo o distrito judicial diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección extraordinaria conforme a las disposiciones transitorias aplicables de la presente Ley.
+
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia que concluyan su encargo por no postularse o no haber sido electos en la elección extraordinaria del año 2025, no serán beneficiarias a ningún haber por retiro, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria señalada en la fracción I del artículo 113 BIS de la presente Ley, misma que tendrá efectos hasta en tanto entren en funciones las y los Magistrados que resulten electos; en estos casos, cualquier haber de retiro será proporcional al tiempo de su desempeño.
+
+Para las elecciones extraordinarias de 2025, el Congreso del Estado emitirá la convocatoria sin ajustarse a los plazos y fechas establecidas en las fracciones primera y tercera en el artículo 113 BIS de la presente Ley.
+
+Toda vez que, la elección de Magistradas y Magistrados del Supremo Tribunal de Justicia, de Magistradas y Magistrados Regionales de Circuito, Juezas y Jueces será escalonada, se renovarán los cargos en la elección extraordinaria del año 2025 conforme a lo siguiente:
+
+a).- Para seleccionar los cargos a renovar en la elección extraordinaria del año 2025, el Poder Judicial entregará al Congreso del Estado un listado con la totalidad de cargos de personas juzgadoras a más tardar cinco días naturales posteriores a la entrada en vigor de la presente Ley, indicando su Distrito judicial, región, especialización por materia, género, vacancias, renuncias y retiros programados y la demás información que se le requiera; y
+
+b).- El Congreso del Estado determinará la porción de cargos a elegir en cada circuito o distrito judicial considerando, en primer término, las vacancias, renuncias y retiros programados. Los cargos restantes serán seleccionados mediante insaculación pública, tomando como base la renovación de hasta la mitad de los cargos que correspondan, sin considerar el cargo del Presidente del Pleno del Supremo Tribunal de Justicia mismo que durará en su encargo de Presidente hasta la renovación que dé lugar la elección ordinaria que se lleve a cabo el año 2027, en los términos de la presente Ley. El Congreso del Estado tendrá siete días naturales posteriores a la recepción del listado para la determinación de la totalidad de los cargos.
+
+La renovación de la totalidad de cargos de elección del Poder Judicial del Estado de Sonora deberá concluir en la elección concurrente con la elección ordinaria del año 2027.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales locales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género.
+
+Las y los representantes de los partidos políticos ante el Consejo General del Instituto Estatal Electoral y de Participación Ciudadana no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+###### ARTÍCULO CUARTO.
+
+El diseño de las boletas electorales para la elección extraordinaria de 2025, contendrán, entre otros datos, el cargo y, en su caso, el circuito o distrito judicial que corresponda a cada tipo de elección. Llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno e indicando la especialización por materia cuando así corresponda. El listado de personas candidatas distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección.
+
+La boleta garantizará que las y los votantes asienten la candidatura de su elección conforme a lo siguiente:
+
+I.- Para Magistradas y Magistrados del Supremo Tribunal de Justicia se elegirán hasta cuatro Magistraturas atendiendo la paridad de género;
+
+II.- Para Magistradas y Magistrados Colegiados Regionales de Circuito, se elegirán hasta cuatro Magistraturas atendiendo la paridad de género;
+
+III.- Para Juezas y Jueces, se elegirán hasta la mitad atendiendo la paridad de género; y
+
+IV.- Para Magistradas y Magistrados del Tribunal de Disciplina Judicial podrán elegir cinco magistraturas atendiendo la paridad de género.
+
+###### ARTÍCULO QUINTO.
+
+La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión que el Consejo General del Instituto Estatal Electoral y de Participación Ciudadana celebre dentro de los tres días posteriores a la entrada en vigor de la presente Ley.
+
+La jornada electoral extraordinaria del año 2025 se celebrará de manera concurrente con la elección federal del mismo año. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto Estatal Electoral y de Participación Ciudadana, con excepción de representantes o militantes de partidos políticos.
+
+El Instituto Estatal Electoral y de Participación Ciudadana efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral del Estado de Sonora, el cual resolverá las impugnaciones a más tardar en un plazo de 60 días naturales posteriores a la fecha en que se celebre la elección extraordinaria.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado el mismo día que tomen protesta las personas electas en la elección federal concurrente.
+
+El Órgano de Administración del Poder Judicial tendrá un plazo de quince días naturales contados a partir de la toma de protesta señalada en el párrafo anterior para adscribir.
+
+###### ARTÍCULO SEXTO.
+
+El periodo de las Magistradas y Magistrados del Supremo Tribunal de Justicia que resulten electos en la elección Extraordinaria de 2025 durará ocho años, por lo que vencerá el año 2033 por esta única ocasión, con el fin de empatar con las elecciones ordinarias.
+
+Lo anterior no será aplicable a las Magistradas y Magistrados en funciones que no sean electos en la elección extraordinaria del año 2025, quienes ejercerán el cargo por el periodo que reste a su nombramiento original, observando lo siguiente:
+
+I.- Cuando el periodo del nombramiento concluya el mismo año en que se realice la elección ordinaria que corresponda, el cargo se renovará hasta el día que la persona electa tome protesta de su encargo; y
+
+II.- Cuando el periodo del nombramiento no concluya el mismo año en que se realice la elección ordinaria que corresponda, el periodo del nombramiento se prorrogará por el tiempo adicional hasta el día que la persona electa tome protesta de su encargo en la próxima elección.
+
+Las Magistradas y Magistrados en funciones cuyos nombramientos concluyan antes de la fecha de cierre de la convocatoria señalada en la fracción I del artículo 113 BIS de esta Ley, dejarán el cargo al término de su nombramiento original y les serán aplicables las disposiciones previstas en el párrafo cuarto del artículo 116 de esta Ley.
+
+El periodo de las Magistradas y Magistrados Regionales de Circuito, Juezas y Jueces que resulten electos en la elección extraordinaria que se celebre en el año 2025 conforme a la presente Ley durará ocho años, por lo que vencerá en el año 2033 por esta única ocasión, con el fin de empatar con las elecciones ordinarias Federales o Locales.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Pleno del Supremo Tribunal de Justicia ejercerá las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el Órgano de administración del Poder Judicial del Estado.
+
+El periodo de los nombramientos de las Consejeras y Consejeros del Poder Judicial del Estado en funciones a la entrada en vigor de la presente Ley que concluyan antes de la fecha de la elección extraordinaria del año 2025 se prorrogarán hasta la fecha que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre para tal efecto, salvo cuando sean electas por la ciudadanía para integrar el Tribunal de Disciplina Judicial o por un cargo de elección en el Poder Judicial por el periodo que corresponda, conforme al procedimiento señalado en el artículo segundo transitorio de la presente Ley.
+
+El periodo de las Magistradas y Magistrados del Tribunal de Disciplina Judicial que sean electos conforme al presente artículo transitorio vencerá el año 2030 para dos de ellos y el año 2033 para los tres restantes. Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quienes alcancen mayor votación.
+
+Las Consejeras y Consejeros del Poder Judicial del Estado que se encuentren en funciones a la entrada en vigor de la presente Ley podrán postularse y participar en la elección extraordinaria del año 2025 para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial del Estado de Sonora por el periodo que corresponda cuando cumplan con los requisitos constitucionales y legales aplicables.
+
+###### ARTÍCULO OCTAVO.
+
+El Tribunal de Disciplina Judicial y el Órgano de Administración del Poder Judicial iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre en el año 2025. En esta misma fecha, el Consejo del Poder Judicial del Estado quedará extinto.
+
+Durante el periodo de transición referido en el párrafo anterior, el Pleno del Poder Judicial del Estado implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, tecnológicos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial del Estado de Sonora y al Órgano de Administración del Poder Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+Además, el Pleno aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+La Comisión de Disciplina del Supremo Tribunal de Justicia continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregarán la totalidad de los expedientes que se encuentren en trámite hasta su conclusión y estos serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio ante la autoridad correspondiente.
+
+Las personas que integren el Pleno del Órgano de Administración del Poder Judicial a que se refiere el artículo 120 de la presente Ley deberán ser designadas para iniciar sus funciones el mismo día en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial.
+
+###### ARTÍCULO NOVENO.
+
+El Congreso del Estado tendrá un plazo de treinta días naturales a partir de la entrada en vigor de la presente Ley para realizar las adecuaciones a las leyes aplicables que correspondan para dar cumplimiento al mismo. Entretanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga a la presente Ley.
+
+Para efectos de la organización del proceso electoral extraordinario del año 2025, no será aplicable lo dispuesto en el penúltimo párrafo del artículo 22 de esta Constitución, por lo que el Instituto Estatal Electoral y de Participación Ciudadana del Estado de Sonora, observará las leyes que se emitan en los términos de la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado de Sonora serán respetados en su totalidad. La Secretaría de Hacienda considerará en los presupuestos de egresos del ejercicio fiscal que corresponda los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables. Las Magistradas y Magistrados, Juezas y Jueces del Poder Judicial del Estado que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo conforme la presente Ley, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+En caso de renuncia, fallecimiento, ausencia temporal o definitiva y licencias, la Ley establecerá la manera de cubrir dichas vacantes.
+
+En tanto se realicen las adecuaciones a las leyes respectivas a la facultad de proponer a Magistradas y Magistrados, Juezas y Jueces para cubrir las faltas temporales o definitivas, así como las renuncias de los mismos, se aplicarán las disposiciones que sobre la materia se encuentran vigentes y en ningún caso estas designaciones provisionales deberán de exceder del plazo de la toma de protesta de la persona electa.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
