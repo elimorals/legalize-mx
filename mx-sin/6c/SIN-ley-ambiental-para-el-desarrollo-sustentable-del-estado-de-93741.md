@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2024-10-18"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -3427,7 +3427,9 @@ Los incisos c, y d, a los trescientos sesenta días naturales de la publicación
 
 El inciso e, a los quinientos cuarenta días naturales de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
 
-El inciso f, a partir del 1 de enero de 2025, para los envases de bebidas fabricados con un porcentaje mínimo del 25% de plástico reciclado, y a partir del 1 de enero de 2028, para los envases de bebidas fabricados con un porcentaje mínimo del 30% de plástico reciclado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2024)</small>
+
+El inciso f, a partir del 1 de enero de 2027, para los envases de bebidas fabricados con un porcentaje mínimo del 25% de plástico reciclado, y a partir del 1 de enero de 2028, para los envases de bebidas fabricados con un porcentaje mínimo del 30% de plástico reciclado.
 
 TERCERO. El Estado y los Municipios en el ámbito de sus respectivas competencias deberán desarrollar campañas en comunicación y concientización dirigidas a industrias, comercios y población en general sobre el impacto negativo del abuso en el consumo del plástico no biodegradable, y las alternativas que existen para evitarlo, incluyendo su reutilización y reciclaje, a efecto de atender y dar cumplimiento al presente Decreto.
 
@@ -3464,3 +3466,9 @@ P.O. 18 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 32 POR EL QUE SE REFORMA EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 445 MEDIANTE EL CUAL SE REFORMARON, ADICIONARON Y DEROGARON DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS, Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
