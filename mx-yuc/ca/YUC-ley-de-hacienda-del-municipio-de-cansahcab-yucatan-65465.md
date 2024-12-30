@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-cansahcab-yucatan-65465"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2008-12-29"
+last_updated: "2024-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE CANSAHCAB, YUCATAN
 
+[NOTA 1. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE CANSAHCAB, YUCATÁN, PUBLICADA EN EL D.O. DE 30 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE CANSAHCAB, YUCATÁN, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY DE HACIENDA DEL MUNICIPIO DE CANSAHCAB, YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 29 de diciembre de 2008.
 
@@ -43,7 +47,7 @@ Artículo Primero.- Se aprueban las Leyes de Hacienda de los Municipios de: Buct
 
 Artículo Segundo.- Las Leyes de Hacienda a que se refiere el artículo anterior, se describen en cada una de las fracciones siguientes:
 
-...
+[...]
 
 II.- LEY DE HACIENDA DEL MUNICIPIO DE CANSAHCAB, YUCATÁN
 
@@ -1414,3 +1418,21 @@ GOBERNADORA DEL ESTADO
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27/2024 POR EL QUE SE EXPIDEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANSAHCAB, CONKAL, HOCTÚN, KANASÍN, KAUA, RÍO LAGARTOS, SACALUM, TEKANTÓ, TEKOM, TETIZ, TEYA, UCÚ Y VALLADOLID, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Se abroga la Ley de Hacienda del Municipio de Cansahcab, Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 29 de diciembre de 2008, mediante Decreto número 155.
+
+Artículo segundo. Lo no previsto por la ley, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
+
+Artículo tercero. El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+TRANSITORIO DEL DECRETO
+
+Entrada en vigor
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
