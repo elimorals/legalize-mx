@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-baja-7661
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-01"
-last_updated: "2022-08-10"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el domingo 1 de agosto de 2010.
 
@@ -229,9 +229,19 @@ X. Celebrar convenios específicos con otras entidades federativas en materia de
 
 XI. Celebrar convenios con el Gobierno Federal con el objeto de establecer fondos para el cuidado, conservación y aprovechamiento sustentable de la fauna y flora acuática en aguas de jurisdicción federal frente a las costas de la entidad;
 
-XII.- Apoyar las acciones de inspección y vigilancia en materia de pesca y acuacultura, en el marco de los mecanismos de coordinación que se establezcan con las autoridades competentes; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XIII.- La demás que no estén otorgadas expresamente a la federación.
+XII. Apoyar las acciones de inspección y vigilancia en materia de pesca y acuacultura, en el marco de los mecanismos de coordinación que se establezcan con las autoridades competentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII. Establecer un programa permanente por el cual se otorgue un Seguro de Vida a pescadores y/o buzos que trabajen directamente en la actividad pesquera en embarcaciones menores y de mediana altura en los litorales del Estado Baja California Sur, así como a productores acuícolas, por el cual se garantice un apoyo económico a sus familias, que durante o fuera de su actividad productiva pierdan la vida o existan indicios de su muerte o en caso, de que comprueben medicamente su invalidez laboral.
+
+Este programa estará sujeto a los lineamientos que para su ejecución emita la Secretaría del Ramo y la asignación presupuestal que se determine en el presupuesto para el ejercicio respectivo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XIV. La (sic) demás que no estén otorgadas expresamente a la federación.
 
 ###### ARTÍCULO 9°.
 
@@ -317,7 +327,9 @@ XXXVIII. Gestionar con dependencias federales y estatales el establecimiento de 
 
 XXXIX. Gestionar el establecimiento de programas que tengan como propósito la construcción, mejora y renovación de equipos y artes de pesca que han excedido su vida útil y que puedan ser factor de riesgo para el pescador en el desarrollo de su actividad en altamar;
 
-XL. Gestionar el establecimiento de programas asistenciales que tengan como propósito otorgar un apoyo económico y alimenticio a las familias de los pescadores del Estado, que durante la realización de su actividad productiva pierdan la vida o existan indicios de su muerte, y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XL. Gestionar el establecimiento de programas asistenciales que tengan como propósito otorgar un apoyo económico y alimenticio a las familias de los pescadores del Estado, que durante la realización de su actividad productiva pierdan la vida o existan indicios de su muerte, y de un programa permanente por el cual se otorgue un Seguro de Vida a pescadores y/o buzos que trabajen directamente en la actividad pesquera en embarcaciones menores y de mediana altura en los litorales del Estado (sic) Baja California Sur, así como a productores acuícolas, por el cual se garantice un apoyo económico a sus familias, que durante o fuera de su actividad productiva pierdan la vida o existan indicios de su muerte o en caso, de que comprueben medicamente su invalidez laboral, y
 
 XLI. Las demás que expresamente le atribuya esta Ley, sus disposiciones reglamentarias, la Ley Orgánica de la Administración Pública del Estado, así como las demás disposiciones aplicables.
 
@@ -1558,3 +1570,11 @@ B.O. 10 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3127 SE REFORMAN LAS FRACCIONES XII Y XIII AL ARTÍCULO 8, Y LA FRACCIÓN XL DEL ARTÍCULO 9, Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 8 TODOS A LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletan (sic) Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
