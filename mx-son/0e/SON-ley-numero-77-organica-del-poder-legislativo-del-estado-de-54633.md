@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2024-10-29"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -941,9 +941,9 @@ XI.- De Obras y Servicios Públicos;
 
 XII.- De Bienestar Social;
 
-> <small>(REFORMADA, B.O. 25 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XIII.- De Asuntos Fronterizos y Atención a Migrantes;
+XIII.- Comisión de Asuntos Internacionales, Fronterizos y Atención a Migrantes.
 
 XIV.- De Fomento Económico y Turismo;
 
@@ -3312,3 +3312,11 @@ B.O. 29 DE OCTUBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 12, QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
