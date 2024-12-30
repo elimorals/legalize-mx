@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-las-y-los-141007"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-21"
-last_updated: "2020-01-21"
+last_updated: "2024-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS Y LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Código Publicado en el Periódico Oficial del Estado de Campeche, el martes 21 de enero de 2020.
 
@@ -366,3 +366,19 @@ QUINTO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 El Comité de Ética y de Prevención de Conflictos de Interés de la Fiscalía General del Estado de Campeche, aprobó la nueva propuesta del Código de Conducta al que deberán sujetarse los Servidores Públicos de la Fiscalía General del Estado de Campeche en la Segunda Sesión Ordinaria celebrada a las 19:00 horas del día 18 de octubre de 2019, en el salón de Procuradores de la Fiscalía General del Estado, y lo puso a consideración del Fiscal General del Estado para su emisión.
 
 Dado en la Ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, a los 31 días del mes de diciembre de 2019. Dr. Juan Manuel Herrera Campos. Fiscal General del Estado de Campeche. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDEROAS PÚBLICAS DE LA FISCALIA GENERAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Acuerdo por el que se emite el Código de Conducta al que deben sujetarse las y los servidores públicos de la Fiscalía General del Estado de Campeche, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Conducta al que deben sujetarse los servidores públicos de la Fiscalía General del Estado de Campeche, aprobado por el Comité de Ética, en Sesión Ordinaria celebrada el día 18 de Octubre de 2019, el cual finalmente fue emitido por el Fiscal General y publicado en el Periódico Oficial del Estado con fecha 21 de Enero de 2020.
+
+TERCERO.- Se deberá difundir el presente Código de Conducta al interior de la Fiscalía General del Estado para que el personal tenga conocimiento del mismo, enfatizando la obligatoriedad de su cumplimiento.
+
+CUARTO.- Deberán implementarse las medidas administrativas, de capacitación y todas aquellas que faciliten el conocimiento y sensibilización en los principios, valores y reglas de integridad que rigen el ejercicio del servicio público.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
