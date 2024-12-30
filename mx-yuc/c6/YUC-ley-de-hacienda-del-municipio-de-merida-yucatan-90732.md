@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2023-12-28"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -255,17 +255,21 @@ Los recargos de los créditos fiscales, las multas, las indemnizaciones y los ga
 
 #### Sección Segunda. De los Aprovechamientos
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-Son aprovechamientos: Los ingresos que percibe el Ayuntamiento por sus funciones de Derecho Público, distintos de las contribuciones, de los ingresos derivados de financiamiento y de los que obtienen los organismos descentralizados y las empresas de participación municipal.
+Son aprovechamientos: Los ingresos que percibe el Ayuntamiento por sus funciones de Derecho Público, distintos de: las contribuciones, los ingresos derivados de financiamiento y de los que obtengan los organismos descentralizados y las empresas de participación municipal; cuyos elementos pueden no estar previstos en una Ley sino, en una disposición administrativa de carácter general, provenientes de multas e indemnizaciones no fiscales, reintegros, juegos y sorteos, donativos, entre otros.
 
-Los recargos, las multas, las indemnizaciones y los gastos de ejecución derivados de los aprovechamientos, son accesorios de éstas y participan de su naturaleza.
+Así como, los ingresos que percibe el Ayuntamiento por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia y otros conceptos análogos.
 
 #### Sección Tercera. De los Productos
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
-Son productos: Las contraprestaciones que recibe el Ayuntamiento por los servicios que presta en sus funciones de Derecho Privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado del patrimonio municipal, y en general cualquier ingreso derivado de los bienes muebles e inmuebles propiedad del municipio en un uso distinto a la prestación de un servicio público.
+Son productos: Los ingresos por contraprestaciones por los servicios que preste el Ayuntamiento en sus funciones de Derecho Privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado, los intereses que generan las cuentas bancarias del Ayuntamiento, entre otros, de conformidad con la legislación aplicable en la materia.
 
 #### Sección Cuarta. Participaciones
 
@@ -559,9 +563,9 @@ g).- Tratándose de estacionamientos públicos, la constancia de asignación de 
 
 h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-i).- El contrato vigente del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
+i).- El contrato vigente o Comprobante Fiscal Digital por Internet (CFDI) del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -593,9 +597,9 @@ e).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
 
 f).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-g).- El contrato vigente del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
+g).- El contrato vigente o Comprobante Fiscal Digital por Internet (CFDI) del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -819,7 +823,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 5 A LA 36; 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 23 A LA 34.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 5 A LA 36; 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 23 A LA 34; 30 DE DICIEMBRE DE 2024, PÁGINAS DE LA 62 A LA 73.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -850,6 +854,34 @@ IV.- Los valores unitarios para los locales correspondientes a las plazas comerc
 > <small>(F. DE E., D.O. 20 DE ENERO DE 2022)</small>
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 61 A LA 62; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 65 A LA 66; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 47 A LA 48.]</small>
+
+> <small>(ADICIONADA [N. DE E. CON SUS TABLAS], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV Bis.- Los predios constituidos en régimen de propiedad en condominio de 4 o más niveles, serán considerados como condominio vertical y los valores unitarios de construcción, serán de acuerdo a la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2024, PÁGINA 73.]</small>
+
+Definición del tipo de condominio vertical
+
+Medio: Corresponde al edificio de 4 niveles, que no cuenta con ascensor, cuya área común techada son los pasillos y las escaleras.
+
+Residencial: Corresponde al edificio de 4 niveles, que cuenta con ascensor, cuyas áreas comunes techadas son los pasillos, el estacionamiento, la caseta de vigilancia, áreas de esparcimiento y otras amenidades.
+
+Residencial Superior: Corresponde al edificio de 5 o más niveles, cuenta con ascensor, puede o no tener penthouse, pero no tiene rooftop, y cuyas áreas comunes techadas son los pasillos, el estacionamiento, la caseta de vigilancia, áreas de esparcimiento, la azotea y otras amenidades.
+
+Residencial Lujo: Corresponde al edificio de 5 o más niveles, cuenta con ascensor, penthouse y rooftop, cuyas áreas comunes techadas son los pasillos, el estacionamiento, la caseta de vigilancia, el gimnasio, la ludoteca, el salón de usos múltiples y otras amenidades.
+
+Nota 1: El número total de niveles de un condominio vertical se considera desde el nivel de calle.
+
+Nota 2: Los sótanos, bodegas, cuarto de enseres y cajón de estacionamiento con construcción, valuarán de acuerdo a las características de la fracción V del presente artículo.
+
+PENTHOUSE: Apartamento o piso de lujo, generalmente con terraza, situada en la última planta de un edificio. De acuerdo a la RAE.
+
+ROOFTOP: Se refiere a un espacio ubicado en la parte superior de un edificio que ha sido acondicionado para el entretenimiento o la socialización.
+
+En caso de que el predio tenga un servicio catastral de diligencia de verificación del área de peritos de la Dirección de Catastro Municipal, se aplicarán los siguientes criterios:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2024, PÁGINA DE LA 74 A LA 76.]</small>
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 28 DE DICIEMBRE DE 2022)</small>
 
@@ -1281,13 +1313,13 @@ Cuando se formalice la adquisición de un inmueble que provenga del trámite de 
 
 Los oficios mencionados en los dos párrafos que inmediatamente anteceden, tendrán vigencia hasta el treinta y uno de diciembre del año de su expedición o hasta que la Dirección de Catastro del Municipio de Mérida emita una nueva cédula catastral correspondiente al inmueble materia de la adquisición.
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-A los avalúos presentados para efectos de una traslación de dominio, se adjuntará la Constancia de Validación de Avalúo Comercial emitida por la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+Los Fedatarios Públicos deberán verificar que los avalúos que sirvan de base para el cálculo del Impuesto Sobre Adquisición de Inmuebles hubieren sido realizados por peritos inscritos en el Padrón de Peritos Valuadores del Estado de Yucatán, así como también deberán constatar que los avalúos cuenten con la Constancia de Validación de Avalúo Comercial emitida por la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, para efectos de la traslación de dominio deberá adjuntar dicha constancia de validación.
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-No tendrán que llevar la Constancia de Validación de Avalúo Comercial las traslaciones a título gratuito señaladas en el artículo 57 de esta Ley y las operaciones que provengan de procedimientos judiciales o administrativos.
+No tendrán que llevar la Constancia de Validación de Avalúo Comercial las traslaciones a título gratuito señaladas en el artículo 57 de esta Ley, así como las operaciones mencionadas en el artículo 56 que provengan de procedimientos judiciales o administrativos.
 
 Vigencia de los avalúos
 
@@ -1537,6 +1569,14 @@ d) Licencia para construir bardas.
 
 e) Licencia para excavaciones.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Licencia para excavaciones por piscinas, albercas, canales de nado, espejos de agua o jacuzzis.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+g) Trabajos preliminares de construcción.
+
 V.- Constancia de terminación de obra.
 
 VI.- Licencia de Urbanización.
@@ -1607,253 +1647,391 @@ I.- Licencias de Uso del Suelo.
 
 a) Zona 1. Consolidación Urbana
 
-1) Con superficie de hasta 10,000.00 metros cuadrados 26 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie de hasta 10,000.00 metros cuadrados 27.00 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
 
-30 Licencia
+31.00 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados
 
-45 Licencia
+46.20 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
 
-53 Licencia
+53.50 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
 
-56 Licencia
+56.30 Licencia
 
-6) Con superficie mayor a 200,000.00 metros cuadrados 75 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+6) Con superficie mayor a 200,000.00 metros cuadrados 75.60 Licencia
 
 b) Zona 2. Crecimiento Urbano
 
-1) Con superficie de hasta 10,000.00 metros cuadrados 70 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie de hasta 10,000.00 metros cuadrados 70.40 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
 
-80 Licencia
+80.30 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados
 
-120 Licencia
+120.70 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
 
-140 Licencia
+140.30 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
 
-150 Licencia
+150.80 Licencia
 
-6) Con superficie mayor a 200,000.00 metros cuadrados 200 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+6) Con superficie mayor a 200,000.00 metros cuadrados 200.80 Licencia
 
 c) Zona 3. Regeneración y Desarrollo Sustentable
 
-1) Con superficie de hasta 10,000.00 metros cuadrados 175 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie de hasta 10,000.00 metros cuadrados 175.30 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
 
-200 Licencia
+200.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados
 
-300 Licencia
+300.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
 
-350 Licencia
+350.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
 
-375 Licencia
+375.80 Licencia
 
-6) Con superficie mayor a 200,000.00 metros cuadrados 500 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+6) Con superficie mayor a 200,000.00 metros cuadrados 500.80 Licencia
 
 d) Zona 4. Conservación de los Recursos Naturales
 
-1) Con superficie de hasta 10,000.00 metros cuadrados 350 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie de hasta 10,000.00 metros cuadrados 350.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
 
-400 Licencia
+400.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados.
 
-600 Licencia
+600.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
 
-700 Licencia
+700.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
 
-750 Licencia
+750.80 Licencia
 
-6) Con superficie mayor a 200,000.00 metros cuadrados 1000 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+6) Con superficie mayor a 200,000.00 metros cuadrados 1,000.50 Licencia
 
 2. Para Otros Desarrollos
 
 a) Zona 1. Consolidación Urbana
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 3.5 Licencia
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 4.10 Licencia
 
-2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 7.5 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 18.75 Licencia
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 8.20 Licencia
 
-4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 37.50 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 75 Licencia
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 27.60 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 46.00 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 92.10 Licencia
 
 b) Zona 2. Crecimiento Urbano
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 10 Licencia
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 10.60 Licencia
 
-2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 20 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 50 Licencia
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 20.70 Licencia
 
-4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 100 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 200 Licencia
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 58.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 108.50 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 217.10 Licencia
 
 c) Zona 3. Regeneración y Desarrollo Sustentable
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 25 Licencia
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 25.60 Licencia
 
-2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 50 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 125 Licencia
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 50.70 Licencia
 
-4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 250 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 500 Licencia
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 133.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 267.10 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 517.10 Licencia
 
 d) Zona 4. Conservación de los Recursos Naturales
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 50 Licencia
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 50.60 Licencia
 
-2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 100 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 250 Licencia
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 100.70 Licencia
 
-4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 500 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 1000 Licencia
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 258.80 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 508.50 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 1,017.10 Licencia
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO DEL NUMERAL 2 DE LA FRACCIÓN I, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 e) Se pagará de acuerdo al giro de que se trate:
 
-1. Gasolinera o estación de servicio 714 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2. Casino 2854 Licencia
+1. Gasolinera o estación de servicio 785.40 Licencia
 
-3. Funeraria 115 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4. Expendio de cerveza, tienda de autoservicio licorería o bar 411 Licencia
+2. Casino 3,424.80 Licencia
 
-5. Crematorio 286 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-6. Restaurante, video bar, cabaret, centro nocturno o disco 685 Licencia
+3. Funeraria 120.00 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4. Expendio de cerveza, tienda de autoservicio licorería o bar 431.50 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+5. Crematorio 300.00 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+6. Restaurante, video bar, cabaret, centro nocturno o disco 753.50 Licencia
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
 7. Sala de fiestas cerrada, sala de recepciones, salón de
 
-baile, salón de banquetes 286 Licencia
+baile, salón de banquetes 328.90 Licencia
 
-8. Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente 354 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-9. Restaurante de primera A, B o C 421 Licencia
+8. Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente 389.40 Licencia
 
-10. Restaurante de segunda A, B o C 286 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
+9. Restaurante de primera A, B o C 442.00 Licencia
 
-11. Banco de Materiales 354 Licencia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+10. Restaurante de segunda A, B o C 300.00 Licencia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+11. Banco de Materiales 371.70 Licencia
 
 II.- Por el Análisis de Factibilidad de Uso de Suelo
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 a) Para establecimiento con venta de bebidas alcohólicas en envase cerrado.
 
-70 Constancia
+73.00 Constancia
 
-b) Para establecimiento con venta de bebidas alcohólicas para su consumo en el mismo lugar. 70 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+b) Para establecimiento con venta de bebidas alcohólicas para su consumo en el mismo lugar. 73.00 Constancia
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 c) Para establecimiento con giro no habitacional diferente a los mencionados en los incisos a), b), d), e), f), h), i), j), k) y l) de esta fracción.
 
-1. Zona 1. Consolidación Urbana 0.75 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2. Zona 2. Crecimiento Urbano 2 Constancia
+1. Zona 1. Consolidación Urbana 0.85 Constancia
 
-3. Zona 3. Regeneración y Desarrollo Sustentable 5 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4. Zona 4. Conservación de los Recursos Naturales 10 Constancia
+2. Zona 2. Crecimiento Urbano 2.30 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+3. Zona 3. Regeneración y Desarrollo Sustentable 5.20 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4. Zona 4. Conservación de los Recursos Naturales 10.65 Constancia
 
 d) Para otros desarrollos.
 
-1. Zona 1. Consolidación Urbana 3.75 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2. Zona 2. Crecimiento Urano 10 Constancia
+1. Zona 1. Consolidación Urbana 4.25 Constancia
 
-3. Zona 3. Regeneración y Desarrollo Sustentable 25 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4. Zona 4. Conservación de los Recursos Naturales 50 Constancia
+2. Zona 2. Crecimiento Urano 10.65 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+3. Zona 3. Regeneración y Desarrollo Sustentable 26.00 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4. Zona 4. Conservación de los Recursos Naturales 51.00 Constancia
 
 e) Para casa habitación unifamiliar
 
-1. Zona 1. Consolidación Urbana 1.88 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2. Zona 2. Crecimiento Urano 5 Constancia
+1. Zona 1. Consolidación Urbana 2.30 Constancia
 
-3. Zona 3. Regeneración y Desarrollo Sustentable 12.5 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4. Zona 4. Conservación de los Recursos Naturales 25 Constancia
+2. Zona 2. Crecimiento Urano 5.52 Constancia
 
-> <small>(F. DE E., D.O. 25 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+3. Zona 3. Regeneración y Desarrollo Sustentable 13.00 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4. Zona 4. Conservación de los Recursos Naturales 28.00 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 f) Para la instalación de infraestructura en bienes inmuebles propiedad del Municipio o en las vías públicas, excepto la que se señala en el inciso h)
 
-.10 Por aparato,
+0.11 Por aparato,
 
 caseta o unidad.
 
 g) (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013) (REPUBLICADA SU DEROGACIÓN, D.O. 30 DE DICIEMBRE DE 2016)
 
-h) Para la instalación de torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicaciones sobre una torre de alta tensión o sobre infraestructura existente 25 Por torre
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-i) Para la instalación de gasolinera o estación de servicio 70 Constancia
+h) Para la instalación de torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicaciones sobre una torre de alta tensión o sobre infraestructura existente 26.00 Por torre
 
-> <small>(REFORMADO, D.O, 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-j) Para giros de utilidad temporal 25 Constancia
+i) Para la instalación de gasolinera o estación de servicio 75.00 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+j) Para giros de utilidad temporal 26.00 Constancia
 
 k) Para el establecimiento de bancos de explotación de materiales.
 
-30 Constancia
+31.00 Constancia
 
 l) Para desarrollo inmobiliario
 
-1. Zona 1. Consolidación Urbana 3.75 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2. Zona 2. Crecimiento Urbano 10 Constancia
+1. Zona 1. Consolidación Urbana 4.25 Constancia
 
-3. Zona 3. Regeneración y Desarrollo Sustentable 25 Constancia
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4. Zona 4. Conservación de los Recursos Naturales 50 Constancia
+2. Zona 2. Crecimiento Urbano 10.65 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+3. Zona 3. Regeneración y Desarrollo Sustentable 26.00 Constancia
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4. Zona 4. Conservación de los Recursos Naturales 51.00 Constancia
 
 Para los efectos de los incisos anteriores de las fracciones I y II se entiende por Desarrollo Inmobiliario al bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento o División de Lotes.
 
@@ -1861,7 +2039,9 @@ Para los efectos de los incisos anteriores de las fracciones I y II se entiende 
 
 Para los efectos de las fracciones anteriores se entenderá por Otros Desarrollos los siguientes conceptos: vivienda multifamiliar, locales comerciales, centros y plazas comerciales, equipamiento, almacenamiento, industria y usos agropecuarios. Dicha clasificación se establece de conformidad con el Programa Municipal de Desarrollo Urbano de Mérida vigente.
 
-III.- Constancia de Alineamiento 0.20 Metro Lineal
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Constancia de Alineamiento 0.25 Metro Lineal
 
 IV.- Trabajos de Construcción
 
@@ -1869,85 +2049,159 @@ IV.- Trabajos de Construcción
 
 a) Zona 1. Consolidación Urbana
 
-1) Con superficie cubierta hasta 45 m2 0.09 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie cubierta hasta 45 m2 0.10 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
-
-0.10 Metro Cuadrado
-
-3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
 0.11 Metro Cuadrado
 
-4) Con superficie cubierta mayor de 240 m2 0.14 Metro Cuadrado
-
-b) Zona 2. Crecimiento Urbano
-
-1) Con superficie cubierta hasta 45 m2 0.24 Metro Cuadrado
-
-2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
-
-0.26 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
-0.30 Metro Cuadrado
+0.12 Metro Cuadrado
 
-4) Con superficie cubierta mayor de 240 m2 0.36 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-c) Zona 3. Regeneración y Desarrollo Sustentable
+4) Con superficie cubierta mayor de 240 m2 0.15 Metro Cuadrado
 
-1) Con superficie cubierta hasta 45 m2 0.60 Metro Cuadrado
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+5) Licencia para construcción
+
+de Vivienda Multifamiliar
+
+(Horizontal y Vertical) 0.55 Metro
+
+cuadrado
+
+b) Zona 2. Crecimiento Urbano
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie cubierta hasta 45 m2 0.25 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
 
-0.65 Metro Cuadrado
+0.27 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
+
+0.31 Metro Cuadrado
+
+4) Con superficie cubierta mayor de 240 m2 0.36 Metro Cuadrado
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+5) Licencia para construcción
+
+de Vivienda Multifamiliar
+
+(Horizontal y Vertical) 0.55 Metro cuadrado
+
+c) Zona 3. Regeneración y Desarrollo Sustentable
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie cubierta hasta 45 m2 0.61 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
+
+0.66 Metro Cuadrado
 
 3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
 0.75 Metro Cuadrado
 
-4) Con superficie cubierta mayor de 240 m2 0.90 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4) Con superficie cubierta mayor de 240 m2 0.91 Metro Cuadrado
 
 d) Zona 4. Conservación de los Recursos Naturales
 
-1) Con superficie cubierta hasta 45 m2 1.20 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+1) Con superficie cubierta hasta 45 m2 1.21 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
 
-1.30 Metro Cuadrado
+1.31 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
-1.50 Metro Cuadrado
+1.51 Metro Cuadrado
 
 4) Con superficie cubierta mayor de 240 m2 1.80 Metro Cuadrado
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 2. Licencia para demolición y/o desmantelamiento de bardas
 
-0.03 Metro Lineal
+0.04 Metro Lineal
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 3. Licencia para excavación de zanjas en vialidades
 
-a) Para ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 2.00 Metro Lineal
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) Para ductos o conductores para la explotación de servicios digitales 1.25 Metro Lineal
+a) Para ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 3.00 Metro Lineal
 
-c) Para ductos o conductores de cualquier tipo, distintos a los señalados en los incisos a) y b) del numeral 3 de esta fracción 1.25 Metro Lineal
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4. Licencia para construir bardas 0.06 Metro Lineal
+b) Para ductos o conductores para la explotación de servicios digitales 1.0 Metro Lineal
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+c) Para ductos o conductores de cualquier tipo, distintos a los señalados en los incisos a) y b) del numeral 3 de esta fracción 2.0 Metro Lineal
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4. Licencia para construir bardas 0.07 Metro Lineal
 
 5. Licencia para excavaciones 0.10 Metro Cúbico
 
-6. Licencia para demolición y/o desmantelamiento distinta a la señalada en el numeral 2 de esta fracción 0.09 Metro cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+6. Licencia para demolición y/o desmantelamiento distinta a la señalada en el numeral 2 de esta fracción 0.10 Metro cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 7. Licencia para la construcción para la instalación de una torre de comunicación, de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente. Por colocación por unidad.
 
-2,500 Licencia
+2,600 Licencia
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+8. Licencia para excavaciones
+
+por piscinas, albercas, canales
+
+de nado, espejos de agua o
+
+jacuzzis 0.40 Metro
+
+Cúbico
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+9. Trabajos preliminares
+
+de construcción 3.00 Constancia
 
 > <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO DE LA FRACCIÓN IV, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -1957,29 +2211,37 @@ Por la prórroga de la licencia de construcción a que se refiere la fracción I
 
 V.- Constancia de Terminación de obra.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-a) Con superficie cubierta hasta 45 m2 0.03 Metro Cuadrado
+a) Con superficie cubierta hasta 45 m2 0.04 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 b) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
 
-0.04 Metro Cuadrado
+0.05 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 c) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
-0.05 Metro Cuadrado
+0.06 Metro Cuadrado
 
-d) Con superficie mayor de 240 m2 0.06 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+d) Con superficie mayor de 240 m2 0.07 Metro Cuadrado
 
-e) De excavación de zanjas en vialidades 0.25 Metro Lineal
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) De excavación distinta a la señalada en el inciso e) 0.03 Metro Cúbico
+e) De excavación de zanjas en vialidades 0.26 Metro Lineal
 
-g) De demolición distinta a la de bardas. 0.02 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) De excavación distinta a la señalada en el inciso e) 0.05 Metro Cúbico
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+g) De demolición distinta a la de bardas. 0.03 Metro Cuadrado
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
@@ -1999,25 +2261,33 @@ VI.- Licencia de Urbanización
 
 1. Licencia de Urbanización por servicios básicos
 
-a) Zona 1. Consolidación Urbana 0.02 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+a) Zona 1. Consolidación Urbana 0.025 Metro Cuadrado
 
 de superficie
 
 solicitada
 
-b) Zona 2. Crecimiento Urbano 0.04 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+b) Zona 2. Crecimiento Urbano 0.045 Metro Cuadrado
 
 de superficie
 
 solicitada
 
-c) Zona 3. Regeneración y Desarrollo Sustentable 0.10 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+c) Zona 3. Regeneración y Desarrollo Sustentable 0.11 Metro Cuadrado
 
 de superficie
 
 solicitada
 
-d) Zona 4. Conservación de los Recursos Naturales 0.20 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) Zona 4. Conservación de los Recursos Naturales 0.21 Metro Cuadrado
 
 de superficie
 
@@ -2035,11 +2305,11 @@ VIII.- Emisión de dictamen técnico
 
 1. Zona 1. Consolidación Urbana
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 a) Por 2 unidades de propiedad exclusiva,
 
-se pagará 3.75 Constancia
+se pagará 4.00 Constancia
 
 > <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -2047,43 +2317,41 @@ b) De 3 hasta 40 unidades de propiedad
 
 exclusiva:
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 1) Por las primeras 2 unidades de propiedad
 
-exclusiva, se pagará 3.75
+exclusiva, se pagará 4.00 Constancia
 
-Constancia
-
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Por cada unidad de propiedad exclusiva
 
 adicional, hasta 40 unidades, se pagará
 
-por cada una 1
+por cada una 1.20
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 c) De 41 hasta 100 unidades de propiedad
 
-exclusiva, se pagará 50 Constancia
+exclusiva, se pagará 50.40 Constancia
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 d) De 101 unidades de propiedad exclusiva
 
-en adelante, se pagará 65 Constancia
+en adelante, se pagará 65.40 Constancia
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
 2. Zona 2. Crecimiento Urbano
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 a) Por 2 unidades de propiedad exclusiva,
 
-se pagará 10 Constancia
+se pagará 10.30 Constancia
 
 > <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -2091,33 +2359,33 @@ b) De 3 hasta 40 unidades de propiedad
 
 exclusiva:
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 1) Por las primeras 2 unidades de propiedad
 
-exclusiva, se pagará 10
+exclusiva, se pagará 10.30
 
 Constancia
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Por cada unidad de propiedad exclusiva
 
 adicional, hasta 40 unidades, se pagará
 
-por cada una 1
+por cada una 1.20
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 c) De 41 hasta 100 unidades de propiedad
 
-exclusiva, se pagará 65 Constancia
+exclusiva, se pagará 65.40 Constancia
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 d) De 101 unidades de propiedad exclusiva
 
-en adelante, se pagará 85 Constancia
+en adelante, se pagará 85.70 Constancia
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -2125,11 +2393,11 @@ en adelante, se pagará 85 Constancia
 
 Sustentable
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 a) Por 2 unidades de propiedad exclusiva,
 
-se pagará 25 Constancia
+se pagará 25.40 Constancia
 
 > <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -2137,33 +2405,33 @@ b) De 3 hasta 40 unidades de propiedad
 
 exclusiva:
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 1) Por las primeras 2 unidades de propiedad
 
-exclusiva, se pagará 25
+exclusiva, se pagará 25.40
 
 Constancia
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Por cada unidad de propiedad exclusiva
 
 adicional, hasta 40 unidades, se pagará
 
-por cada una 1
+por cada una 1.20
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 c) De 41 hasta 100 unidades de propiedad
 
-exclusiva, se pagará 85 Constancia
+exclusiva, se pagará 85.70 Constancia
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 d) De 101 unidades de propiedad exclusiva
 
-en adelante, se pagará 100 Constancia
+en adelante, se pagará 100.50 Constancia
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -2171,11 +2439,11 @@ en adelante, se pagará 100 Constancia
 
 Naturales
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 a) Por 2 unidades de propiedad exclusiva,
 
-se pagará 50 Constancia
+se pagará 50.30 Constancia
 
 > <small>(ADICIONADO CON SUS NUMERALES, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -2183,117 +2451,139 @@ b) De 3 hasta 40 unidades de propiedad
 
 exclusiva:
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 1) Por las primeras 2 unidades de propiedad
 
-exclusiva, se pagará 50
+exclusiva, se pagará 50.30 Constancia
 
-Constancia
-
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 2) Por cada unidad de propiedad exclusiva
 
 adicional, hasta 40 unidades, se pagará
 
-por cada una 1
+por cada una 1.20
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 c) De 41 hasta 100 unidades de propiedad
 
-exclusiva, se pagará 110 Constancia
+exclusiva, se pagará 110.40 Constancia
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 d) De 101 unidades de propiedad exclusiva
 
-en adelante, se pagará 150 Constancia
+en adelante, se pagará 150.30 Constancia
 
 > <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 5. De viabilidad para la instalación subterránea o aérea de:
 
-a) Ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 0.15 Metro Lineal
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) Ductos o conductores para la explotación de servicios digitales 0.05 Metro Lineal
+a) Ductos o conductores de gas natural, gasolina, diésel y demás derivados del petróleo 0.16 Metro Lineal
 
-c) Ductos o conductores de cualquier tipo, distintos a los señalados en los incisos a) y b) del numeral 5 de esta fracción 0.02 Metro Lineal
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+b) Ductos o conductores para la explotación de servicios digitales 0.06 Metro Lineal
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+c) Ductos o conductores de cualquier tipo, distintos a los señalados en los incisos a) y b) del numeral 5 de esta fracción 0.03 Metro Lineal
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VIII, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 IX.- Permisos de anuncios
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-a) Instalación de anuncios de carácter mixto o de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano 1 Metro Cuadrado
+a) Instalación de anuncios de carácter mixto o de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano 1.10 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 b) Instalación de anuncios de carácter denominativo permanente en inmuebles con una superficie mayor de 1.5 metros cuadrados
 
-0.75 Metro Cuadrado
+0.85 Metro Cuadrado
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 c) Instalación de anuncios transitorios en inmuebles
 
-1) De 1 a 5 días naturales 0.15 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2) De 1 a 10 días naturales 0.20 Metro Cuadrado
+1) De 1 a 5 días naturales 0.16 Metro Cuadrado
 
-3) De 1 a 15 días naturales 0.30 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4) De 1 a 30 días naturales 0.50 Metro Cuadrado
+2) De 1 a 10 días naturales 0.21 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad permanentes en vehículos de servicio de transporte público o de uso privado 2 Metro Cuadrado
+3) De 1 a 15 días naturales 0.31 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-e) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad transitorios en vehículos de servicio de transporte público 1.5 Metro Cuadrado
+4) De 1 a 30 días naturales 0.51 Metro Cuadrado
 
-f) Por renovación de permisos permanentes, para la difusión de propaganda o publicidad asociada a música o sonido 0.25 Por Día
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+d) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad permanentes en vehículos de servicio de transporte público o de uso privado 2.10 Metro Cuadrado
 
-g) Para la proyección óptica de anuncios 2.5 Metro Cuadrado
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+e) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad transitorios en vehículos de servicio de transporte público 1.60 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Por renovación de permisos permanentes, para la difusión de propaganda o publicidad asociada a música o sonido 0.50 Por Día
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+g) Para la proyección óptica de anuncios 2.60 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 h) Por la instalación de anuncios electrónicos
 
-2 Metro Cuadrado
+3.00 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 i) Por exhibición de anuncios inflables suspendidos en el aire, con capacidad de 1 hasta 50 kg. de gas Helio
 
-2.5 Por elemento
+6.00 Por elemento
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 j) Por exhibición de anuncios inflables suspendidos en el aire, con capacidad de más de 50 kg. de gas Helio
 
-3 Por elemento
+7.00 Por elemento
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 k) Por exhibición de anuncios figurativos o volumétricos
 
-5 Por elemento
+9.00 Por elemento
 
 > <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 l) Por la difusión de propaganda o publicidad impresa en volantes, catálogos de ofertas o folletos:
 
-1) De 1 hasta 5 millares 1
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2) Por millar adicional 0.10
+1) De 1 hasta 5 millares 2.00
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+2) Por millar adicional 0.50
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 m) Por instalación de anuncios iluminados con luz Neón
 
-1.5 Metro Cuadrado
+1.60 Metro Cuadrado
 
 Para el caso de renovación o prórroga de los permisos a que se refieren los incisos a), b), g), h) y m) de esta fracción se causarán los derechos con las mismas cuotas que dichos incisos señalen.
 
@@ -2303,69 +2593,119 @@ X.- Visitas de inspección:
 
 a) De fosas sépticas:
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 1) Para el caso de desarrollo de fraccionamiento o conjunto habitacional, cuando se requiera una segunda o posterior visita de inspección:
 
-10 Visita
+10.30 Visita
 
-2) Para los demás casos, cuando se requiera una tercera o posterior visita de inspección: 10 Visita
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) Por construcción o edificación distinta a la señalada en el inciso a) de esta fracción, en los casos en que se requiera una tercera o posterior visita de inspección: 10 Visita
+2) Para los demás casos, cuando se requiera una tercera o posterior visita de inspección: 10.30 Visita
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+b) Por construcción o edificación distinta a la señalada en el inciso a) de esta fracción, en los casos en que se requiera una tercera o posterior visita de inspección: 10.30 Visita
 
 c) Para la recepción o terminación de obras de infraestructura urbana, en los casos en los que se requiera una tercera o posterior visita de inspección, se pagará:
 
-1) Por los primeros 10,000 metros cuadrados de vialidad. 15.0
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2) Por cada metro cuadrado excedente. .0015
+1) Por los primeros 10,000 metros cuadrados de vialidad. 15.30
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+2) Por cada metro cuadrado excedente. 0.0016
 
 d) Para la verificación de obras de infraestructura urbana a solicitud del particular, se pagará:
 
-1) Por los primeros 10,000 metros cuadrados de vialidad. 15.0
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2) Por cada metro cuadrado excedente. .0015
+1) Por los primeros 10,000 metros cuadrados de vialidad. 15.30
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+2) Por cada metro cuadrado excedente. 0.0016
+
+> <small>(ADICIONADO, D.O. 40 DE DICIEMBRE DE 2024)</small>
+
+e) Verificación de Licencia
+
+de Uso del Suelo vencida,
+
+para tramitar la Licencia
+
+de Funcionamiento 9.21 Visita
 
 XI.- Revisión previa de Proyecto:
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 a) Por segunda revisión de proyecto de gasolinera o estación de servicio.
 
-4.0 Revisión
+5.00 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 b) Por segunda revisión de proyecto cuya superficie sea mayor a 1,000 m2
 
-4.0 Revisión
+5.00 Revisión
 
-c) Por segunda revisión de proyecto distinto a los comprendidos en los incisos a) o b). 2.0 Revisión
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+c) Por segunda revisión de proyecto distinto a los comprendidos en los incisos a) o b). 2.50 Revisión
 
 d) A partir de la tercera revisión de un proyecto de gasolinera o estación de servicio. 8.0 Revisión
 
-e) A partir de la tercera revisión de un proyecto cuya superficie cubierta sea menor de 500 m2 3.0 Revisión
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) A partir de la tercera revisión de un proyecto cuya superficie cubierta sea mayor de 500 m2 y hasta 1,000 m2. 6.0 Revisión
+e) A partir de la tercera revisión de un proyecto cuya superficie cubierta sea menor de 500 m2 3.60 Revisión
 
-g) A partir de la tercera revisión de un proyecto cuya superficie sea mayor a 1,000 m2 8.0 Revisión
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) A partir de la tercera revisión de un proyecto cuya superficie cubierta sea mayor de 500 m2 y hasta 1,000 m2. 7.00 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+g) A partir de la tercera revisión de un proyecto cuya superficie sea mayor a 1,000 m2 9.00 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 XII.- Revisión previa de todos los proyectos de urbanización e infraestructura urbana, para los casos donde se requiera una segunda o posterior revisión.
 
-2 Revisión
+2.80 Revisión
 
-XIII.- Por la factibilidad de instalación de anuncios de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano. 1 Constancia
+XIII.- Por la factibilidad de instalación de anuncios de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano. 1.20 Constancia
 
 XIV.- Revisión previa de proyectos de lotificación de fraccionamientos:
 
-a) Por la segunda revisión 3 Revisión
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+a) Por la segunda revisión 3.50 Revisión
 
 b) A partir de la tercera revisión:
 
-1.- De fraccionamientos de hasta 1 Hectárea. 5 Revisión
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2.- De fraccionamientos de más de 1 hasta 5 Hectáreas. 10 Revisión
+1.- De fraccionamientos de hasta 1 Hectárea. 5.20 Revisión
 
-3.- De fraccionamiento de más de 5 hasta 20 Hectáreas. 15 Revisión
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-4.- De fraccionamientos de más de 20 Hectáreas. 20 Revisión
+2.- De fraccionamientos de más de 1 hasta 5 Hectáreas. 10.20 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+3.- De fraccionamiento de más de 5 hasta 20 Hectáreas. 15.20 Revisión
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+4.- De fraccionamientos de más de 20 Hectáreas. 20.30 Revisión
 
 XV.- Por la expedición del oficio de anuencia de electrificación por cada inmueble solicitado. 2 Oficio
 
-XVI.- Por la expedición del oficio de zona de Reserva de Crecimiento por cada inmueble solicitado. 2 Oficio
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XVI.- Por la expedición del oficio de zona de Reserva de Crecimiento por cada inmueble solicitado. 3.0 Oficio
 
 XVII.- Emisión de copias simples y/o copias certificadas de cualquier documentación contenida en los expedientes de la Dirección de Desarrollo Urbano:
 
@@ -2403,127 +2743,225 @@ XIX.- Autorización de la Constitución de Desarrollo Inmobiliario
 
 1. Zona 1. Consolidación Urbana
 
-a) Hasta 10,000.00 metros cuadrados 53 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados. 60 Autorización
+a) Hasta 10,000.00 metros cuadrados 53.80 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados. 68 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados. 75 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 60.70 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados 113 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 150 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 68.70 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 75.50 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 113.40 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 150.30 Autorización
 
 2. Zona 2. Crecimiento Urbano
 
-a) Hasta 10,000.00 metros cuadrados 140 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados 160 Autorización
+a) Hasta 10,000.00 metros cuadrados 140.50 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados 180 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados 200 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados 160.30 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados 300 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 400 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados 180.50 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 200.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 300.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 400.70 Autorización
 
 3. Zona 3. Regeneración y Desarrollo Sustentable
 
-a) Hasta 10,000.00 metros cuadrados 350 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados. 400 Autorización
+a) Hasta 10,000.00 metros cuadrados 350.80 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados. 450 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados 500 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 400.70 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados 750 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 1000 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 450.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 500.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 750.70 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 1,000.70 Autorización
 
 4. Zona 4. Conservación de los Recursos Naturales
 
-a) Hasta 10,000.00 metros cuadrados 700 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados. 800 Autorización
+a) Hasta 10,000.00 metros cuadrados 700.80 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados. 900 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados 1,000 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 800.80 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados 1,500 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 2,000 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 900.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 1,000.70 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 1,500.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 2,000.50 Autorización
 
 XX.- Autorización de la Modificación de la Constitución de Desarrollo Inmobiliario.
 
 1. Zona 1. Consolidación Urbana
 
-a) Hasta 10,000.00 metros cuadrados 26 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados. 30 Autorización
+a) Hasta 10,000.00 metros cuadrados 26.80 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados. 34 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados. 38 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 30.50 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados. 56 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 75 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 34.40 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 38.60 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 56.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 75.70 Autorización
 
 2. Zona 2. Crecimiento Urbano
 
-a) Hasta 10,000.00 metros cuadrados 70 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados 80 Autorización
+a) Hasta 10,000.00 metros cuadrados 70.80 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados. 90 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados. 100 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados 80.80 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados 150 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 200 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 90.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 100.50 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 150.50 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 200.80 Autorización
 
 3. Zona 3. Regeneración y Desarrollo Sustentable
 
-a) Hasta 10,000.00 metros cuadrados 175 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados 200 Autorización
+a) Hasta 10,000.00 metros cuadrados 175.80 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados. 225 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados. 250 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados 200.80 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados. 375 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 500 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 225.60 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 250.50 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 375.80 Autorización
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 500.50 Autorización
 
 4. Zona 4. Conservación de los Recursos Naturales
 
-a) Hasta 10,000.00 metros cuadrados 350 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados. 400 Autorización
+a) Hasta 10,000.00 metros cuadrados 350.80 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros cuadrados. 450 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-d) De 100,000.01 hasta 150,000.00 metros cuadrados. 500 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 400.80 Autorización
 
-e) De 150,000.01 hasta 200,000.00 metros cuadrados. 750 Autorización
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-f) Mayores a 200,000.00 metros cuadrados 1,000 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 450.80 Autorización
 
-XXI.- Emisión de la cédula urbana 5 Cédula
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XXII.- Revisión de integración de predios ejidales 0.014 Metro
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 500.80 Autorización
 
-cuadrado del terreno
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 750.80 Autorización
 
-XXIII.- Autorización de Prototipo
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 1,000.80 Autorización
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXI.- Emisión de la cédula urbana 5.52 Cédula
+
+XXII.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXIII.- Autorización de Prototipo 11.00
 
 > <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -3367,9 +3805,9 @@ Los derechos señalados en este artículo se causarán por períodos de un mes n
 
 Los derechos establecidos en los incisos b) y c) de la fracción I y fracción II de este artículo se pagarán dentro de los quince días naturales del mes siguiente a aquel en que se hayan causado. Tratándose de lo establecido en los incisos b) y c) de la fracción I se podrá realizar el pago anticipado correspondiente a una anualidad.
 
-> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Los derechos establecidos en el inciso d) de la fracción I de este artículo, deberán cubrirse por periodos de un año y en los términos del convenio que para el efecto se suscriba, previa aprobación del uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, por parte del Cabildo del H. Ayuntamiento de Mérida.
+Los derechos establecidos en el inciso d) de la fracción I de este artículo, deberán cubrirse por periodos de un año, cada mes de abril y en los términos del convenio que para el efecto se suscriba, previa aprobación del uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, por parte del Cabildo del H. Ayuntamiento de Mérida.
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -3727,7 +4165,9 @@ Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios
 
 Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-#### Sección Décima. Derechos por Licencias de funcionamiento y Permisos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+#### Sección Décima. Derechos por Licencias de Funcionamiento y Permisos
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3825,7 +4265,9 @@ XV.- Salón de baile: 31.25
 
 Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
 
-El derecho correspondiente a la revalidación de la licencia de funcionamiento, para los establecimientos cuyo giro sea el expendio de bebidas alcohólicas y/o cerveza se incrementará en un cien por ciento si el titular no la obtuvo durante la administración municipal inmediata anterior.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Si el titular de la licencia de funcionamiento del establecimiento cuyo giro sea el expendio de bebidas alcohólicas y/o cerveza no realizó la revalidación correspondiente durante la administración municipal inmediata anterior se cobrará un monto equivalente al derecho de apertura de acuerdo al tipo de establecimiento que se trate, según lo establecido en los artículos 111 y 112 de esta ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
@@ -4003,11 +4445,13 @@ Los derechos por el uso de estacionamientos en los mercados a que se refiere est
 
 I.- Por motocicletas $ 5.00 por hora
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II.- Por automóviles o camionetas $ 10.00 por hora
+II.- Por automóviles o camionetas $ 15.00 por hora
 
-III.- Por otros vehículos de mayor capacidad de carga. $15.00 por hora
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Por otros vehículos de mayor capacidad de carga. $20.00 por hora
 
 > <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -4075,15 +4519,19 @@ Los derechos a que se refiere esta Sección serán pagados por mes de prestació
 
 Los usuarios de los servicios señalados en esta Sección, que no tengan adeudos de meses anteriores, gozarán de las bonificaciones siguientes, según les corresponda:
 
-a) Los usuarios de los servicios recolección y traslado de residuos sólidos no peligrosos o basura de origen doméstico que paguen en una sola exhibición el importe de la tarifa señalada en el primer párrafo del artículo 126 correspondiente a los 12 meses inmediatos posteriores siguientes al mes en que realice dicho pago, tendrán una bonificación equivalente a tarifa de dos meses de los servicios señalados en este inciso.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-b) Los usuarios de los servicios de recolección y traslado de residuos sólidos no peligroso o basura de origen comercial que paguen en una sola exhibición el importe de la tarifa de consumo ordinario correspondiente a los 12 meses inmediatos posteriores siguientes al mes en que realice dicho pago, tendrán una bonificación equivalente a la tarifa de un mes de los servicios señalados en este inciso.
+a) Los usuarios de los servicios de recolección y traslado de residuos sólidos no peligrosos o basura de origen doméstico que paguen en el mes de enero en una sola exhibición el importe de la tarifa señalada en el primer párrafo del artículo 126, correspondiente a la anualidad completa del ejercicio fiscal que se trate, tendrán una bonificación equivalente a la tarifa de dos meses de los servicios señalados en este inciso.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+b) Los usuarios de los servicios de recolección y traslado de residuos sólidos no peligrosos o basura de origen comercial que paguen en el mes de enero en una sola exhibición el importe de la tarifa de consumo ordinario correspondiente a la anualidad completa del ejercicio fiscal que se trate, tendrán una bonificación equivalente a la tarifa de un mes de los servicios señalados en este inciso.
 
 Para los efectos del inciso b) de este artículo, se considerará como tarifa de consumo ordinario el importe total que resulte de aplicar la tarifa señalada en el último párrafo del artículo 126 por el número de tambores de residuos sólidos de origen comercial generados por el usuario en el mes inmediato anterior a aquél en que se realice el pago señalado en ese inciso. Si durante cualquiera de los meses de servicio de recolección que se haya pagado por anticipado el usuario del servicio de recolección excediera en un 20 por ciento el número de tambores considerados para la determinación de la tarifa de consumo ordinario, éste deberá pagar la cuota correspondiente al número de tambores que excedieron al número de tambores considerados para la determinación de la tarifa de consumo ordinario.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-#### Sección Décima Sexta. Derechos por permisos otorgados a Oferentes en Programas para la Promoción Económica, Turística y Cultural
+#### Sección Décima Sexta. Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica, Turística y Cultural
 
 ###### ARTÍCULO 128.
 
@@ -4107,11 +4555,11 @@ b) En el caso de programas o eventos de carácter eventual, por participar en es
 
 Por la emisión de la credencial de oferente en programas o eventos para la promoción económica y turística, se pagará un derecho equivalente a 2 veces la unidad de medida y actualización.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 131.
 
-El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Desarrollo Económico y Turismo, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
+El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Prosperidad y Bienestar Económico, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
 
 #### Sección Décima Séptima. De los Derechos por el Servicio de Agua Potable y Drenaje
 
@@ -4339,9 +4787,9 @@ Por los servicios a que se refiere la presente sección se causará un derecho e
 
 #### Sección Vigésima. De los Derechos por la Prestación de Servicios en Materia de Protección Civil
 
-(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016) (F. DE E., D.O. 25 DE ENERO DE 2017)
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-ARTÍCULO 144 A.- Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquiera de los servicios a que se refiere esta sección.
+ARTÍCULO 144 A.- Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquiera de los servicios a que se refiere esta sección y/o a quienes se les haya proporcionado el servicio de verificación de la conservación y mantenimiento de (sic) Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4366,6 +4814,10 @@ IV.- Revisión documental y análisis de la solicitud para obtener el Registro d
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
 V.- Revisión y análisis de la solicitud de Constancia de Cumplimiento de Requisitos en Materia de Protección Civil.
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VI.- Verificación de la conservación y el mantenimiento de cada Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4441,9 +4893,37 @@ e) Por evento con aforo de 5,000 y hasta 9,999 personas 50 U.M.A.
 
 f) Por evento con aforo a partir de 10,000 personas 100 U.M.A.
 
-> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-El pago de los derechos establecidos en la presente sección se pagará al momento de realizar la solicitud del servicio.
+VI.- Por los servicios destinados 220 U.M.A
+
+a verificar la conservación y
+
+el mantenimiento de cada
+
+Torre de comunicación de
+
+una estructura monopolar
+
+para colocación de antena
+
+celular, de una base de concreto
+
+o adición de cualquier equipo
+
+de telecomunicación sobre una
+
+torre de alta tensión o sobre
+
+infraestructura existente, por año,
+
+con vencimiento cada
+
+mes de abril.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+El pago de los derechos establecidos en la presente sección se pagará al momento de realizar la solicitud del servicio, a excepción de lo establecido en la fracción VI de este artículo.
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
@@ -4633,9 +5113,9 @@ De la venta de formas oficiales
 
 Los productos que percibirá el Ayuntamiento, por la venta de formas o formatos oficiales, por cada uno se pagará:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-I.- Formato de tarjetón de licencia de funcionamiento: 2.0 U.M.A.
+I.- Formato de tarjetón de licencia de funcionamiento: 5.0 U.M.A.
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4709,7 +5189,9 @@ II.- El 0.30, para invertir en equipo y herramientas necesarias para fortalecer 
 
 Lo dispuesto en este artículo aplicará únicamente en el caso de las notificaciones personales realizadas por el personal señalado en la fracción I.
 
-## TITULO TERCERO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO TERCERO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
 ### CAPÍTULO I. ORDENAMIENTO APLICABLE
 
@@ -4731,9 +5213,9 @@ II.- Por la de embargo, incluyendo el señalado en el inciso e) del artículo 9 
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Cuando el .02 del importe del crédito omitido, fuere inferior al importe de tres veces la unidad de medida y actualización, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido. Tratándose de multas Administrativas Federales no Fiscales se aplicará lo que dispone el Código Fiscal de la Federación.
+Cuando el .02 del importe del crédito omitido, fuere inferior al importe de cinco veces la unidad de medida y actualización, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido. Tratándose de multas Administrativas Federales no Fiscales se aplicará lo que dispone el Código Fiscal de la Federación.
 
 #### Sección Segunda. De los Gastos Extraordinarios de Ejecución
 
@@ -6830,3 +7312,95 @@ Artículo octavo.- Se derogan todas las disposiciones legales que eximan a los p
 Artículo noveno.- Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2024, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
 
 Artículo décimo.- Las disposiciones establecidas en las reformas a la denominación de la Sección Séptima, del Capítulo II, del Título Segundo; a los artículos 96, 97, a la fracción I del artículo 98, inciso f), de la fracción I, del artículo 98, segundo párrafo del artículo 98, artículo 100, así como las adiciones consistentes en un segundo párrafo al artículo 96; un segundo y un tercer párrafo al inciso f) de la fracción I del artículo 98; la fracción V, al artículo 98, un penúltimo párrafo al artículo 98, todos de esta Ley, entrarán en vigor para efectos del ejercicio fiscal 2024 al día siguiente de la publicación en la Gaceta Municipal del reglamento municipal en materia de espacio público; y en tanto esto no ocurra, se aplicarán los derechos como lo establecen los artículos 96, 97, 98 y 100 de la Ley de Hacienda del Municipio de Mérida, Yucatán, en vigor para el ejercicio fiscal 2023.
+
+D.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29/2024 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN”.]
+
+Artículo primero. Este Decreto entrará en vigor el día uno de enero del año dos mil veinticinco, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+Artículo tercero. En caso de que durante el ejercicio fiscal 2025 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+Artículo cuarto. Para el ejercicio fiscal 2025, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48, las bonificaciones se otorgarán de conformidad con lo establecido en el Programa de Estímulo que al efecto expida el Cabildo del H. Ayuntamiento de Mérida.
+
+Artículo quinto. Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2025, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2025, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2025, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2025.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2025, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2025 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+Artículo sexto. Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2025, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2024.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+Artículo séptimo. Si durante el ejercicio fiscal 2025 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+Artículo octavo. Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+Artículo noveno. Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2025, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
+
+Artículo décimo. Las disposiciones establecidas en la Sección Séptima, del Capítulo II, del Título Segundo; a los artículos 96, 97, a la fracción I del artículo 98, inciso f), de la fracción I, del artículo 98, segundo párrafo del artículo 98, artículo 100, así como las adiciones consistentes en un segundo párrafo al artículo 96; un segundo y un tercer párrafo al inciso f) de la fracción I del artículo 98; la fracción V, al artículo 98, un penúltimo párrafo al artículo 98, todos de esta Ley, entrarán en vigor para efectos del ejercicio fiscal 2025 al día siguiente de la publicación en la Gaceta Municipal del reglamento municipal en materia de espacio público; y en tanto esto no ocurra, se aplicarán los derechos como lo establecen los artículos 96, 97, 98 y 100 de la Ley de Hacienda del Municipio de Mérida, Yucatán, en vigor para el ejercicio fiscal 2023.
