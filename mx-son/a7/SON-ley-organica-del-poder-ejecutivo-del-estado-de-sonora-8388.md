@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2024-10-31"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -339,7 +339,9 @@ ARTICULO 8 BIS.- Los acuerdos del Congreso del Estado tendrán carácter vincula
 
 La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto emitirá la respuesta expresando las razones de su postura, caso en el cual deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
 
-Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Será considerado (sic) falta administrativa, la omisión de atención, respuesta o seguimiento al presente artículo, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Secretaría Anticorrupción y Buen Gobierno, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso, en términos de la Ley de la materia.
 
 ###### ARTICULO 9o.
 
@@ -463,7 +465,9 @@ II.- Secretaría de Hacienda.
 
 II Bis.- Sistema Estatal de Comunicación Social;
 
-III.- Secretaría de la Contraloría General.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Secretaría Anticorrupción y Buen Gobierno;
 
 IV.- Secretaría de Educación y Cultura.
 
@@ -579,9 +583,9 @@ XXIX. Organizar y vigilar el ejercicio de las funciones del Registro Civil;
 
 XXX. Atender los asuntos que le planteen los organismos de la sociedad civil organizada, de grupos o asociaciones de ciudadanos o de sonorenses en lo individual que por la transcendencia deban ser conocimiento del Gobierno del Estado;
 
-> <small>(F. DE E., P.O. 14 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XXXI. Coordinar, supervisar e implementar los planes, proyectos y programas de los siguientes entes: Centro Estatal de Desarrollo Municipal; Consejo Estatal de Población; y Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
+XXXI. Coordinar, supervisar e implementar los planes, proyectos y programas de los siguientes entes: Centro Estatal de Desarrollo Municipal y Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
 XXXII.- (DEROGADA, B.O. 31 DE OCTUBRE DE 2024)
 
@@ -689,9 +693,9 @@ Las atribuciones y funciones Subsecretarías y demás áreas que integren la Con
 
 La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-ARTICULO 23 BIS 2.- A la Oficialía Mayor le corresponde la planeación y administración de los recursos humanos y del servicio profesional de carrera, de los procedimientos de contratación de bienes, servicios generales y materiales, tecnológicos y de comunicaciones de la administración pública del Estado.
+ARTICULO 23 BIS 2.- A la Oficialía Mayor le corresponde la planeación y administración de los recursos humanos y del servicio profesional de carrera, de los procedimientos de contratación de bienes, servicios generales y materiales, tecnológicos y de comunicaciones de la administración pública estatal, así como formular y conducir las políticas de inclusión digital, gobierno digital en el Estado.
 
 > <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
@@ -769,9 +773,33 @@ XXIII. Intervenir en el otorgamiento y revocación de concesiones o permisos par
 
 XXIV. Planear, conducir, e implementar las políticas y demás acciones que permitan la instalación, operación, explotación, uso y mantenimiento de las redes públicas de telecomunicaciones, redes de telecomunicaciones y demás análogas y necesarias para la debida implementación de la red estatal y red troncal del Estado de Sonora, de conformidad con la legislación correspondiente; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XXV. Las demás que le confieran otras leyes y reglamentos.
+XXV. Promover, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, programas, lineamientos y acciones en materia de Mejora Regulatoria del Estado;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXVI. Fungir como enlace del Estado con los distintos órdenes de gobierno, con el sector social, privado y académico en materia de Mejora Regulatoria; así como con el Sistema Nacional de Mejora Regulatoria;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXVII. Planear y ejecutar programas y acciones en materia de simplificación administrativa en todas las ramas de la administración pública estatal;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXVIII. Diseñar, implementar y coordinar una política de atención ciudadana ante quejas, denuncias, peticiones, sugerencias que se formulen por cualquier ciudadano en relación con la prestación trámites, servicios o programas sociales prestados por las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXIX. Conducir la promoción, implementación y diseño del mecanismo de identificación digital en el Estado;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXX. Diseñar y coordinar la implementación de las políticas para la gestión, uso, análisis e interoperación de bases de datos de los sistemas y registros públicos estatales de población; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XXXI. Las demás que le confieran otras leyes y reglamentos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE OCTUBRE DE 2024)</small>
 
@@ -981,21 +1009,27 @@ Las dependencias y entidades de la Administración Pública Directa y Paraestata
 
 Los contratos de prestadores de servicios profesionales de asesoría o consultoría se regularán por el Código Civil del Estado de Sonora y no le serán aplicables las reglas previstas para aquellos contratos de servicios regulados por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal y Ley de Obras Públicas y Servicios Relacionados con la misma para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 26.
 
-A la Secretaría de la Contraloría General le corresponden las facultades y obligaciones siguientes:
+A la Secretaría Anticorrupción y Buen Gobierno le corresponden las facultades y obligaciones siguientes:
 
 A. En materia de control y desarrollo administrativo:
 
-I.- Planear, organizar, coordinar, instrumentar, difundir y aplicar en las dependencias y entidades de la Administración Pública Estatal, un Sistema Integral de Control y Desarrollo Administrativo;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II.- Establecer, integrar, normar, organizar, coordinar, dirigir, ejecutar y evaluar los instrumentos y procedimientos de control en la Administración Pública Estatal;
+I.- Planear, organizar, coordinar, instrumentar, difundir y aplicar en las dependencias y entidades de la Administración Pública Estatal, un Sistema Integral de Control y Desarrollo Administrativo, prevención, difusión de políticas de buen gobierno, integridad pública, evaluación de la gestión gubernamental, mejora continua, modernización, transparencia en la gestión pública, rendición de cuentas, fiscalización y anticorrupción de la Administración Pública Estatal;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II.- Establecer, integrar, normar, organizar, coordinar, dirigir, ejecutar y evaluar los instrumentos y procedimientos de control en la Administración Pública Estatal que impulsen la modernización administrativa, conforme a las mejores prácticas en la materia;
 
 > <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
 
 III.- Coordinarse con los órganos internos de control, o sus correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, municipios del Estado y Organismos Autónomos, para el eficaz cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 IV.- Promover el fortalecimiento de los órganos de control y evaluación gubernamental de los municipios;
 
@@ -1007,9 +1041,15 @@ V.- Compilar y difundir las disposiciones jurídicas, presupuestales y administr
 
 VI.- Coordinar programas de capacitación dirigidos a otros niveles de gobierno que desempeñen funciones relacionadas con la competencia de esta Secretaría; y
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VII.- Formular las políticas y estrategias para la implementación de la Agenda de Buen Gobierno en el ámbito del Poder Ejecutivo con base en los principios de ética, legalidad, honestidad, responsabilidad, eficiencia, transparencia, rendición de cuentas y vocación de servicio, como rectores del desempeño en el servicio público.
+VII.- Formular las políticas y estrategias para la implementación de la Agenda Anticorrupción y Buen Gobierno en el ámbito del Poder Ejecutivo con base en los principios de ética, legalidad, honestidad, responsabilidad, eficiencia, transparencia, rendición de cuentas y vocación de servicio, como rectores del desempeño en el servicio público; y
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Brindar a las dependencias, incluidos sus órganos administrativos desconcentrados, así como a las entidades de la Administración Pública Estatal el apoyo y acompañamiento que se requiera en el ejercicio de sus funciones, en especial tratándose de programas prioritarios y proyectos estratégicos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 B. En materia de desarrollo administrativo:
 
@@ -1035,19 +1075,17 @@ V.- Suspender los procesos de adquisición o contratación de servicios en cualq
 
 Al igual, suspender las obras contratadas por la administración pública estatal, cuando se detecte alguna irregularidad, de conformidad con la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Sonora.
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VI.- Promover el uso de las tecnologías de la información y las comunicaciones e implementar las mejores prácticas de gobierno electrónico en la prestación de servicios al público y en los procesos internos de la administración pública estatal;
+VI.- Promover e implementar mejores prácticas de gobierno en los procesos internos de la Administración Pública Estatal;
 
 VII.- (DEROGADA, B.O. 8 DE MARZO DE 2022)
 
-> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VIII.- Vigilar la implementación de las estrategias y del uso de recursos tecnológicos para la mejora de los procesos de prestación de servicios públicos y operación interna de la administración pública estatal;
+VIII.- Vigilar la implementación de estrategias que permitan la optimización del uso del recurso en la operación interna de la administración pública estatal;
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
-
-IX.- Coordinar con las dependencias y entidades competentes, la ejecución de programas y acciones en materia de simplificación administrativa en todas las ramas de la administración pública estatal;
+IX.- (DEROGADA, B.O. 30 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1057,25 +1095,33 @@ X.- Participar en la conformación de los sistemas de medición y evaluación de
 
 XI.- Definir y difundir las políticas y lineamientos para la elaboración de reglamentos interiores y manuales de organización, de procesos y de servicios al público de las dependencias y entidades y validar estos últimos instrumentos de apoyo administrativo;
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública estatal y sus modificaciones, previo dictamen presupuestal favorable de la Secretaría de Hacienda; y
+XII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias incluidos sus órganos administrativos desconcentrados y entidades de la administración pública estatal y sus modificaciones en coordinación con Oficialía Mayor previo dictamen presupuestal favorable de la Secretaría de Hacienda; y
 
 > <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
 
 XIII.- Normar, instrumentar y operar el Sistema para la entrega y recepción de la Administración Estatal, en la transición de una administración a otra, así como en los cambios de titulares de dependencias y unidades administrativas y de directores generales o equivalentes de entidades, dentro de una misma administración.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 C. En materia de control gubernamental:
 
-I.- Examinar y verificar el ejercicio del gasto público estatal en el ámbito del Poder Ejecutivo, para comprobar que se efectúe de conformidad con las disposiciones aplicables, así como comprobar su congruencia con el presupuesto de egresos, y que se cumplan los objetivos y prioridades del Plan Estatal de Desarrollo y de los programas que deriven del mismo;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+I.- Examinar y verificar el ejercicio del gasto público estatal en el ámbito del Poder Ejecutivo, para comprobar que se efectúe de conformidad con las disposiciones aplicables y la política de contrataciones públicas reguladas por las Leyes de la materia, así como comprobar su congruencia con el presupuesto de egresos, y que se cumplan los objetivos y prioridades del Plan Estatal de Desarrollo y de los programas que deriven del mismo;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 II.- Realizar las funciones en materia de control de los recursos federales que se transfieren al Estado y a los municipios, en los términos que se convengan en los instrumentos de coordinación celebrados con la Federación y los municipios;
 
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 III.- Evaluar el desempeño de las dependencias y entidades en la ejecución de sus programas, acciones, objetivos y metas, a fin de mejorar su actuación en el cumplimiento de los mismos;
 
-> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-IV.- Designar a los órganos internos de control de las dependencias y entidades paraestatales para el ejercicio permanente de las atribuciones de control a su cargo;
+IV.- Designar y remover a los órganos internos de control de las dependencias y entidades paraestatales para el ejercicio permanente de las atribuciones de control a su cargo, así como normar y controlar su desempeño;
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1085,9 +1131,13 @@ V.- Designar mediante procedimientos simplificados de licitación o de manera di
 
 VI.- Realizar, para el ejercicio de sus atribuciones, visitas, inspecciones, auditorías, revisiones, fiscalizaciones, verificaciones y demás actos sustantivos inherentes a su competencia, así como determinar las observaciones que se generen y promover en las dependencias y entidades la realización de acciones preventivas y correctivas que se requieran, y evaluar la eficacia del cumplimiento de las medidas requeridas;
 
-VII.- Controlar, verificar, fiscalizar y evaluar el cumplimiento normativo, en su caso, de las dependencias y entidades, en lo relativo a: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios de cualquier naturaleza, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos de la Administración Pública Estatal; así como de las obligaciones derivadas en materia de planeación, programación, presupuestación, ingresos, egresos, financiamientos, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VIII.- Instrumentar y operar los sistemas para el seguimiento, registro, control y vigilancia de las operaciones que en las materias de obras públicas y servicios relacionados con las mismas, adquisiciones, arrendamientos y servicios de cualquier naturaleza, lleve a cabo la Administración Pública Estatal, así como tramitar y resolver las inconformidades que presenten las personas que hubiesen participado en los procedimientos de licitación y contratación de las mismas;
+VII.- Fiscalizar y evaluar el cumplimiento normativo, en su caso, de las dependencias y entidades, en lo relativo a: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios de cualquier naturaleza, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y bajo (sic) de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos de la Administración Pública Estatal; así como de las obligaciones derivadas en materia de planeación, programación, presupuestación, ingresos, egresos, financiamientos, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Tramitar el procedimiento de mediación, conciliación y Recursos de Inconformidad y en materia de Adquisiciones y Obra Pública, así como los de carácter sancionatorio por presunto incumplimiento de los convenios, contratos o pedidos que celebren los particulares con las dependencias y entidades de la Administración Pública Estatal o sobre actos ocurridos en el desarrollo del procedimiento de contratación, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
 > <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
 
@@ -1097,29 +1147,77 @@ IX.- Recibir para su registro, control y demás efectos legales las declaracione
 
 X.- Prevenir, investigar, substanciar, resolver, y en su caso, sancionar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas no graves en los términos previstos de la Ley Estatal de Responsabilidades, por sí, o por conducto de los órganos internos de control que correspondan a cada dependencia o entidad de la administración pública estatal; y cuando se trate de faltas administrativas graves, investigar y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa hasta la conclusión de la audiencia inicial, y en el momento procesal oportuno enviar los autos originales del expediente a la sala especializada en materia anticorrupción y responsabilidades administrativas del Tribunal de Justicia Administrativa; asimismo, presentar las denuncias por hechos que las leyes señalen como delitos ante la Fiscalía General, la Fiscalía Especializada en Combate a la Corrupción o ante las autoridades competentes, prestando la colaboración que le fuera requerida en los términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XI.- Vigilar, en colaboración con las autoridades que integren los Comités Coordinador de los Sistemas Nacional Anticorrupción y del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal; y
+XI.- Participar y vigilar, en colaboración con las autoridades que integren los Comités Coordinadores de los Sistemas Nacional Anticorrupción, del Sistema Estatal Anticorrupción y el Sistema Nacional de Fiscalización el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal;
 
 XII.- (DEROGADA, B.O. 31 DE OCTUBRE DE 2024)
 
-D. En materia de participación social y vinculación:
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Elaborar el programa anual de fiscalización orientado a promover la prevención, eficacia, eficiencia, economía y legalidad en la gestión pública;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Ejercer las atribuciones que correspondan al Ejecutivo Estatal en el Sistema Nacional Anticorrupción y Sistema Estatal Anticorrupción en términos de las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XV.- Llevar a cabo el proceso de confiabilidad de las personas servidoras públicas que ocupen cargos estratégicos, de riesgo o de alto nivel que determine la propia Secretaría a través de disposiciones generales, con excepción de los que establezcan en otra norma, para efectos de un ingreso, reingreso, permanencia o cualquier otro movimiento en el servicio público, y emitir lineamientos y criterios en dicha materia, mediante la aplicación de exámenes médicos, toxicológicos, socioeconómicos, psicológicos y psicotécnicos y, en su caso, cualquier otro que determine la Secretaría mediante disposiciones de carácter general.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+D. En materia de participación ciudadana:
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 I. Diseñar y ejecutar las estrategias y mecanismos de vinculación que permitan organizar, capacitar e incorporar a grupos de la sociedad interesados en participar dentro de un marco de corresponsabilidad en la planeación, control y evaluación de las acciones y programas del Gobierno del Estado, extendiendo su cobertura al ámbito municipal, en términos de los instrumentos de coordinación que se celebren;
 
-II.- Instrumentar un esquema de contraloría social a través de la creación de comités que coadyuven como órganos de consulta en las atribuciones de esta Secretaría;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-III.- Operar un sistema de atención a quejas, denuncias, peticiones, sugerencias o reconocimientos que se formulen por cualquier ciudadano en el desempeño o actuación de los servidores públicos, la prestación de servicios o el trámite de asuntos ante las dependencias y entidades de la Administración Pública Estatal; y
+II.- Instrumentar un esquema de participación ciudadana a través de la creación de comités que coadyuven como órganos de consulta en las atribuciones de esta Secretaría;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Operar un sistema de quejas, denuncias y/o reconocimientos que se formulen por cualquier ciudadano en el desempeño o actuación de los servidores públicos de la administración pública estatal; y
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 IV.- Instrumentar mecanismos para evaluar permanentemente la calidad e impacto de los servicios que prestan las dependencias y entidades de la Administración Pública Estatal, proponiendo la implementación de acciones y medidas para su mejoramiento o corrección.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 E. En materia de transparencia y combate a la corrupción:
 
-I.- Ejecutar estrategias y líneas de acción tendientes a promover el aprovechamiento, explotación y desarrollo de tecnologías y herramientas informáticas que permitan la difusión de la información pública gubernamental;
+I.- (DEROGADA, B.O. 30 DE DICIEMBRE DE 2024)
 
-II.- Formular, difundir e impulsar una cultura de transparencia, integridad y legalidad, mediante la vinculación y comunicación entre la ciudadanía y el Gobierno del Estado, que fortalezca los principios y valores fundamentales para formar servidores públicos y ciudadanos que respeten las leyes y rechacen actos de corrupción; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II.- Establecer medidas que propicien el buen gobierno, la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere y la protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como promover dichas acciones hacia la soledad;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 III.- Crear y mantener actualizado un registro de servidores públicos del Estado que hayan sido sancionados con motivo de algún acto u omisión que constituya responsabilidad administrativa, así como de personas que incumplan sus obligaciones derivadas de cualquier acto jurídico celebrado con las dependencias y entidades de la Administración Pública Estatal.
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV.- Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+V.- Promover y consolidar los principios de la transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VI.- Impulsar la transparencia proactiva y la publicación de datos en formatos accesibles a la ciudadanía, en términos de la Ley de la materia;
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VII.- Vigilar la aplicación de las políticas de gobierno, digital de la Administración Pública Estatal, en términos de las disposiciones aplicables; y
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Promover la formación cívica y la participación ciudadana en materia de anticorrupción y buen gobierno y, en su caso, celebrar los convenios correspondientes.
 
 > <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
 
@@ -1875,13 +1973,13 @@ XI.- Ejecutar los acuerdos que dicte el órgano de gobierno; y
 
 XII.- Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 43.
 
 Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, durante los primeros diez días de cada mes, la información y datos que les soliciten, así como los que les requieran las dependencias de la administración pública directa.
 
-Para el cumplimiento de lo anteriormente establecido, la respectiva dependencia coordinadora de sector conjuntamente con las Secretarías de Hacienda y de la Contraloría General, harán compatibles los requerimientos de información que se soliciten a las dependencias y entidades paraestatales racionalizando los flujos de información.
+Para el cumplimiento de lo anteriormente establecido, la respectiva dependencia coordinadora de sector conjuntamente con las Secretarías de Hacienda y la de Anticorrupción y Buen Gobierno, harán compatibles los requerimientos de información que se soliciten a las dependencias y entidades paraestatales racionalizando los flujos de información.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1923,7 +2021,9 @@ VI.- Las formas de suplencia de los integrantes del órgano de gobierno;
 
 VII.- Las atribuciones del Director General, quien tendrá la representación legal del Organismo;
 
-VIII.- La determinación de que el organismo no podrá iniciar su función sino hasta que la Secretaría de la Contraloría General designe a el o los órganos de control y vigilancia que correspondan; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
+
+VIII.- La determinación de que el organismo no podrá iniciar su función sino hasta que la Secretaría de la (sic) Anticorrupción y Buen Gobierno designe a él o los organismos de control y vigilancia que correspondan; y
 
 IX.- El régimen laboral de sus servidores.
 
@@ -1937,9 +2037,9 @@ En ningún caso podrán ser miembros del órgano de gobierno del organismo:
 
 I.- El Director General del organismo de que se trate, quien únicamente asistirá con voz a sus sesiones;
 
-> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II.- Los representantes de la Secretaría de la Contraloría General, quienes asistirán a sus sesiones correspondientes en ejercicio de las atribuciones competenciales a su cargo;
+II.- Los representantes de la Secretaría Anticorrupción y Buen Gobierno quienes asistirán a sus sesiones correspondientes en ejercicio de las atribuciones competenciales a su cargo;
 
 III.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con el titular de la Secretaría coordinadora de sector o quien tenga a su cargo la designación de los integrantes del órgano de gobierno;
 
@@ -2013,19 +2113,19 @@ ARTICULO 47 BIS.- Cuando, por virtud de la naturaleza, especialización u otras 
 
 ARTICULO 47 BIS A.- En los contratos constituidos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste la facultad expresa de revocarlos sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley, que la naturaleza de su objeto no lo permita, o que el fin primordial del fideicomiso sea actuar como fuente de pago de obligaciones del Estado o garantizar obligaciones del Estado en términos de la legislación aplicable.
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-ARTICULO 47 BIS B.- En los fideicomisos públicos, mandatos o contratos análogos constituidos por dependencias o entidades del Gobierno del Estado, o que administren recursos públicos estatales, corresponderá al fiduciario por instrucciones expresas del fideicomitente, del mandante o de quien celebre el contrato análogo, dar cumplimiento a los requerimientos de información solicitados por las unidades de enlace correspondientes, la Secretaría de la Contraloría General del Estado o por el Instituto Superior de Auditoría y Fiscalización, en el ámbito de sus respectivas competencias, relativos al manejo y destino de recursos públicos estatales.
+ARTICULO 47 BIS B.- En los fideicomisos públicos, mandatos o contratos análogos constituidos por dependencias o entidades del Gobierno del Estado, o que administren recursos públicos estatales, corresponderá al fiduciario por instrucciones expresas del fideicomitente, del mandante o de quien celebre el contrato análogo, dar cumplimiento a los requerimientos de información solicitados por las unidades de enlace correspondientes, la Secretaría Anticorrupción y Buen Gobierno del Estado o por el Instituto Superior de Auditoría y Fiscalización, en el ámbito de sus respectivas competencias, relativos al manejo y destino de recursos públicos estatales.
 
-Los titulares de las dependencias, entidades u órganos autónomos encargados de la coordinación de los fideicomisos, mandatos o contratos análogos, o con cargo a cuyo presupuesto se hayan otorgado recursos, deberán coadyuvar con las unidades de enlace correspondientes, la Secretaría de la Contraloría General del Estado y el Instituto Superior de Auditoría y Fiscalización, a efecto de que se atiendan debidamente los requerimientos de información que se realicen para el cumplimiento de sus funciones de acceso a la información, control y fiscalización.
+Los titulares de las dependencias, entidades u órganos autónomos encargados de la coordinación de los fideicomisos, mandatos o contratos análogos, o con cargo a cuyo presupuesto se hayan otorgado recursos, deberán coadyuvar con las unidades de enlace correspondientes, la Secretaría Anticorrupción y Buen Gobierno del Estado y el Instituto Superior de Auditoría y Fiscalización, a efecto de que se atiendan debidamente los requerimientos de información que se realicen para el cumplimiento de sus funciones de acceso a la información, control y fiscalización.
 
 > <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 ARTICULO 47 BIS C.- Los titulares de las dependencias o entidades del Gobierno del Estado que constituyan fideicomisos públicos, mandatos o contratos análogos, o que administren recursos públicos estatales, deberán realizar los actos necesarios a fin de que se autorice a la fiduciaria en los contratos respectivos a proporcionar la información a que se refiere el primer párrafo del artículo anterior, sin que se requiera autorización por cada solicitud de información, así como de cuidar que las reglas de operación que, en su caso, se emitan y las modificaciones que excepcionalmente se propongan a las mismas, no desvirtúen los propósitos, bases, medidas de control y objetivos para los que fueron constituidos aquéllos.
 
-> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-ARTICULO 47 BIS D.- Los titulares de las dependencias o entidades del Gobierno del Estado que constituyan fideicomisos públicos, mandatos o contratos análogos, o que administren recursos públicos estatales o, en su caso, los beneficiarios de dichos recursos deberán proporcionar a las unidades de enlace respectivas, la Secretaría de la Contraloría General del Estado y al Instituto Superior de Auditoría y Fiscalización, la información y documentación de que dispongan y que les sea requerida en relación con la aplicación de esos recursos a los fines específicos para los cuales fueron otorgados.
+ARTICULO 47 BIS D.- Los titulares de las dependencias o entidades del Gobierno del Estado que constituyan fideicomisos públicos, mandatos o contratos análogos, o que administren recursos públicos estatales o, en su caso, los beneficiarios de dichos recursos deberán proporcionar a las unidades de enlace respectivas, la Secretaría Anticorrupción y Buen Gobierno y al Instituto Superior de Auditoría y Fiscalización, la información y documentación de que dispongan y que les sea requerida en relación con la aplicación de esos recursos a los fines específicos para los cuales fueron otorgados.
 
 > <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
 
@@ -2109,11 +2209,11 @@ Los presupuestos de egresos a que se refiere el artículo anterior deberán cont
 
 Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a que se refiere este Título manejarán y erogarán los fondos propios y los subsidios o transferencias que reciban del Estado y se sujetarán a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 53.
 
-Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la administración pública paraestatal, con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y de la Contraloría General, sin perjuicio de las atribuciones que competan a las dependencias coordinadoras de sector.
+Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global de la administración pública paraestatal, con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y de Anticorrupción y Buen Gobierno, sin perjuicio de las atribuciones que competan a las dependencias coordinadoras de sector.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -2145,31 +2245,29 @@ Los manuales de organización, de procedimientos y de atención al público debe
 
 ### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA
 
-> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 57.
 
-Las funciones de prevención, control y evaluación de las dependencias y entidades paraestatales, estarán a cargo de los órganos internos de control, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría de la Contraloría General.
+Las funciones de prevención, control y evaluación de las dependencias y entidades paraestatales, estarán a cargo de los órganos internos de control, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno.
 
-La Secretaría de la Contraloría General ejercerá las funciones de vigilancia de las entidades paraestatales.
+La Secretaría Anticorrupción y Buen Gobierno ejercerá las funciones de vigilancia de las entidades paraestatales. Los representantes de la Secretaría Anticorrupción y Buen Gobierno participarán con voz en las reuniones de los órganos de gobierno de las entidades, mismas que serán públicas y transmitidas por medios electrónicos.
 
-Los representantes de la Secretaría de la Contraloría General participarán con voz en las reuniones de los órganos de gobierno de las entidades, mismas que serán públicas y transmitidas por medios electrónicos.
-
-> <small>(REFORMADO, B.O. 8 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 58.
 
-Los representantes de la Secretaría de la Contraloría General, evaluarán el desempeño general y las funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones.
+Los representantes de la Secretaría Anticorrupción y Buen Gobierno, evaluarán el desempeño general y las funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 59.
 
-Los representantes de la Secretaría de la Contraloría General realizarán las funciones de prevención, control y evaluación de la gestión pública de las dependencias y entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente.
+Los representantes de la Secretaría Anticorrupción y Buen Gobierno realizarán las funciones de prevención, control y evaluación de la gestión pública de las dependencias y entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente.
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
-La Secretaría de la Contraloría General cubrirá las remuneraciones del personal de los órganos internos de control con cargo al presupuesto de las entidades paraestatales respectivas, las cuales proveerán lo necesario para tal efecto.
+La Secretaría Anticorrupción y Buen Gobierno cubrirá las remuneraciones del personal de los órganos internos de control con cargo al presupuesto de las entidades paraestatales respectivas, las cuales proveerán lo necesario para tal efecto.
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
 
@@ -2189,21 +2287,21 @@ Los fideicomisos públicos a que se refiere el artículo 47 de esta Ley, se ajus
 
 ## TITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 61.
 
-La Secretaría de la Contraloría General del Estado podrá realizar visitas y auditorías a las entidades de la administración pública paraestatal, a fin de supervisar el adecuado funcionamiento del sistema de control de éstas y, en su caso, promoverá lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
+La Secretaría Anticorrupción y Buen Gobierno podrá realizar visitas y auditorías a las entidades de la administración pública paraestatal, a fin de supervisar el adecuado funcionamiento del sistema de control de éstas y, en su caso, promoverá lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 Los titulares de las dependencias coordinadoras de sector, en los casos que lo consideren necesario, podrán recomendar la instrumentación de las medidas adicionales de control que estimen pertinentes en las entidades paraestatales.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 62.
 
-En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario que designe la Secretaría de la Contraloría General del Estado. El ejercicio de los derechos respectivos se realizará conforme lo señalen los ordenamientos jurídicos correspondientes.
+En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario que designe la Secretaría Anticorrupción y Buen Gobierno. El ejercicio de los derechos respectivos se realizará conforme lo señalen los ordenamientos jurídicos correspondientes.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -3006,3 +3104,27 @@ Las erogaciones que se generen con motivo de la entrada en vigor del presente De
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Los juicios promovidos ante las diversas instancias del poder judicial y procedimientos administrativos, según sea el caso, en que sean parte las dependencias establecidas en el presente Decreto, pendientes de alguna resolución, se continuarán de conformidad con las atribuciones y normas aplicables.
+
+B.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 18, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA Y (SIC) LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán realizar las modificaciones a los Reglamentos, Manuales de Organización y de Procedimientos, con motivo del presente Decreto las cuales deberán expedirse a más tardar dentro de los noventa días hábiles posteriores a la publicación del mismo en el órgano oficial de difusión mencionado en el artículo anterior.
+
+El o la Titular de la Secretaría Anticorrupción y Buen Gobierno queda facultada para resolver las cuestiones que se presenten relacionadas con los manuales administrativos en tanto éstos se expidan.
+
+###### ARTÍCULO TERCERO.
+
+Las menciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición, respecto de las Secretarías cuyas atribuciones y funciones se reforman o derogan por virtud de este Decreto, se entenderán referidas a las dependencias que adquieren tales atribuciones o funciones.
+
+El o la Titular de la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de su competencia estará facultada para emitir las disposiciones de carácter administrativo y realizar las gestiones necesarias ante la Secretaría de Hacienda del Estado y Oficialía Mayor del Estado de Sonora para otorgar la suficiencia presupuestal que permitan la operación y funcionamiento de la Secretaría de ser necesario.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos en trámite que son atendidos por las dependencias que modifican su denominación o atribuciones en virtud de la entrada en vigor al presente ordenamiento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia y atribución correspondiente, de conformidad con las disposiciones aplicables.
