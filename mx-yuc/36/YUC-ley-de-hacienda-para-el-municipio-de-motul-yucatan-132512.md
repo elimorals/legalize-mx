@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-132512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2023-12-29"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -531,43 +531,69 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, el impu
 
 I.- Por predios Urbanos y rustico, con o sin construcción.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 1.- Tablas de valores unitarios de terrenos en UMAS
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 14; D.O. 30 DE DICIEMBRE DE 2021, PÁGINA 47.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 14; D.O. 30 DE DICIEMBRE DE 2021, PÁGINA 47; D.O. 30 DE DICIEMBRE DE 2024, PÁGINAS DE LA 10 A LA 11.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 EN EL CASO DE LOS PREDIOS CUYO VALOR CATASTRAL ES IGUAL O INFERIOR A 62 UMAS SE PAGARÁ UN MINIMO DE 0.70 UMAS DE IMPUESTO.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-2.- VALORES UNITARIOS DE CONSTRUCCIÓN.
+2.- Tablas de valores unitarios en construcción en UMAS
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 24 A LA 25.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 14 A LA 16; D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 47 A LA 48.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 14 A LA 16; D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 47 A LA 48; D.O. 30 DE DICIEMBRE DE 2024, PÁGINAS DE LA 11 A LA 12.]</small>
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VALORES DE PREDIOS RÚSTICOS POR HECTAREA, EN UMAS.
+VALORES DE PREDIOS RÚSTICOS POR HECTÁREA, EN UMAS.
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-COLINDANCIA CON CARRETERAS. 100 UMAS POR HECTÁREA
+COLINDANCIA CON CARRETERAS. 200 UMAS POR HECTÁREA
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-COLINDANCIA CON CAMINO BLANCO 70 UMAS POR HECTÁREA
+COLINDANCIA CON CAMINO BLANCO 140 UMAS POR HECTÁREA
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-COLINDANCIA CON BRECHA 50 UMAS POR HECTÁREA
+COLINDANCIA CON BRECHA 75 UMAS POR HECTÁREA
 
-EN EL CASO DE PREDIOS CUYO VALOR CATASTRAL ES IGUAL O INFERIOR A 150 UMAS, ESTOS PAGARAN EL EQUIVALENTE A 0.55 UMAS DE IMPUESTO PREDIAL.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+De encontrarse en esquina el inmueble, a su valor catastral total, se le aumentará un 5%. Adicionalmente, un 10% del total del valor catastral, por tener uso o destino como comercial. Adicionalmente un 15% del total del valor catastral, por ser industrial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Acceso por camino blanco (ranchos) $5,000.00 por hectárea.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Para la clasificación de los tipos de construcción, se tomarán en consideración los siguientes parámetros y materiales:
+
+ECONÓMICO: muros de mampostería, block o madera; techos de paja, teja, lámina, pisos de tierra o pasta, puertas y ventanas de madera o herrería.
+
+MEDIO: muros de mampostería o block; techos de concreto armado con o sin vigas de madera o hierro; muebles de baño completos de mediana calidad; lambrines de azulejo o cerámica; pisos de cerámica; puertas y ventanas de madera o herrería.
+
+LUJO: muros de mampostería o block; techos de concreto armado con o sin vigas de madera o hierro; muebles de baño completo de mediana calidad; drenaje entubado; aplanado con estucos o molduras; lambrines de pasta, azulejo, cerámica mármol o cantera, pisos de cerámica, mármol o cantera; puertas y ventanas de madera, herrería o aluminio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Para la clasificación de la calidad de la construcción, se tomarán en consideración el estado actual de los materiales, tomando en consideración los siguientes parámetros:
+
+a) NUEVO
+
+b) BUENO
+
+c) REGULAR
 
 DEL PAGO
 
@@ -579,9 +605,7 @@ El impuesto predial sobre la base de valor catastral deberá cubrirse por anuali
 
 Cuando el contribuyente pague el impuesto predial correspondiente a todo el año, durante el mes de enero de dicho año, gozará de un descuento del 10% sobre el importe de dicho impuesto y de hacerlo durante el mes de febrero gozará de un descuento del 5%.
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
-
-Artículo 48 bis.- El Impuesto Predial, al momento de su determinación, no podrá exceder de un 5% del que haya correspondido durante el Ejercicio Fiscal anterior para los predios cuyo valor catastral sea menor o igual a $ 350,000.00 y para los predios cuyo valor catastral sea mayor a $350,000.00, el mismo no podrá exceder de un 10 % del que haya correspondido durante el ejercicio fiscal anterior. El comparativo se hará con base en el impuesto principal, sin tomar en consideración bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+Artículo 48 bis.- (DEROGADO, D.O. 30 DE DICIEMBRE DE 2024)
 
 EXENCIONES
 
@@ -625,13 +649,13 @@ Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier
 
 DESTINO FACTOR
 
-HABITACIONAL 0.50 % mensual sobre el monto
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-de la contraprestación.
+HABITACIONAL 3 % mensual sobre el monto de la contraprestación.
 
-OTROS 0.70 % mensual sobre el monto
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-de la contraprestación.
+OTROS 5 % mensual sobre el monto de la contraprestación.
 
 El factor del valor catastral del inmueblr en términos de lo dispuesto en el artículo 50 de este ordenamiento legal.
 
@@ -787,11 +811,11 @@ Los avalúos que se practiquen para el efecto del pago del Impuesto Sobre Adquis
 
 DE LA TASA
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 61.
 
-El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 3% a la base señalada en el artículo 59 de esta ley.
+El impuesto a que se refiere este capítulo, se calculará aplicando la tasa del 4% a la base señalada en el artículo 59 de esta ley.
 
 DEL MANIFIESTO A LA AUTORIDAD
 
@@ -1049,91 +1073,113 @@ La tarifa del derecho por el servicio mencionado, se pagará en pesos mexicanos,
 
 I.- Licencia de construcción, por metro cuadrado
 
-Tipo y clase de UMAS
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-Construcción
+Tipo y clase de construcción UMAS
 
-a).- Tipo A, Clase 1 0.13
+a).- Tipo A, Clase 1 0.40
 
-b).- Tipo A, Clase 2 0.15
+b).- Tipo A, Clase 2 0.60
 
-c).- Tipo A, Clase 3 y 4 0.17
+c).- Tipo A, Clase 3 y 4 0.80
 
-d).- Tipo B, Clase 1 0.04
+d).- Tipo B, Clase 1 0.10
 
-e).- Tipo B, Clase 2 0.05
+e).- Tipo B, Clase 2 0.15
 
-f).- Tipo B, Clase 3 0.06
+f).- Tipo B, Clase 3 0.12
 
-g).- Tipo B, Clase 4 0.07
+g).- Tipo B, Clase 4 0.10
 
 II.- Por expedición de licencias de uso de suelo:
 
-Superficie ocupada UMAS
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-a).- de 1 a 50.0 m2 4.1
+Superficie ocupada
 
-b).- de 50.1 a 100.0 m2 8.2
+a).- de 1 a 50.0 m2 8 UMAS
 
-c).- de 100.1 a 200.0 m2 11.0
+b).- de 50.1 a 100.0 m2 12 UMAS
 
-d).- de 200.1 a 400.0 m2 13.7
+c).- de 100.1 a 200.0 m2 15 UMAS
 
-e).- de 400.1 a 800.0 m2 21.8
+d).- de 200.1 a 400.0 m2 17 UMAS
 
-f).- de 800.0 a 1000.0 m2 27.3
+e).- de 400.1 a 800.0 m2 39 UMAS
 
-g).- de 1000.1 a 2000 m2 54.6
+f).- de 800.0 a 1000.0 m2 40 UMAS
 
-h).- de 2000.1 en adelante 81.9
+g).- de 1000.1 a 2000 m2 94 UMAS
 
-i).- Para parques eólicos 3,722.00
+h).- de 2000.1 en adelante 130 UMAS
 
-III.- Constancia de terminación de obra 0.10 UMAS por metro cuadrado de construcción.
+i).- Para parques eólicos 6800 UMAS
 
-IV.- Constancia de alineamiento, 0.12 U M A S x metro lineal de frente o frentes del predio que colinde a la vía pública.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+III.- Constancia de terminación de obra 0.20 UMAS por metro cuadrado de construcción.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IV.- Constancia de alineamiento, 0.25 U M A S x metro lineal de frente o frentes del predio que colinde a la vía pública.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
 V.- Constancia de unión y división de inmueble por metro cuadrado de terreno:
 
-Tipo y clase de UMAS
+Tipo y clase de construcción UMAS
 
-Construcción
+a).- Tipo A, Clase 1 0.20
 
-a).- Tipo A, Clase 1 0.12
+b).- Tipo A, Clase 2 0.40
 
-b).- Tipo A, Clase 2 0.25
+c).- Tipo A, Clase 3 0.60
 
-c).- Tipo A, Clase 3 0.37
+d).- Tipo A, Clase 4 0.80
 
-d).- Tipo A, Clase 4 0.50
+e).- Tipo B, Clase 1 0.12
 
-e).- Tipo B, Clase 1 0.06
+f).- Tipo B, Clase 2 0.20
 
-f).- Tipo B, Clase 2 0.12
+g).- Tipo B, Clase 3 0.30
 
-g).- Tipo B, Clase 3 0.19
+h).- Tipo B, Clase 4 0.50
 
-h).- Tipo B, Clase 4 0.25
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VI.- Licencia para construir bardas o colocar pisos, 0.10 UMAS por metro cuadrado.
+VI.- Licencia para construir bardas o colocar pisos, 0.20 UMAS por metro cuadrado.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-VII.- Licencias para efectuar excavaciones, fosas sépticas, sumideros y similares, 0.02 UMAS por metro cuadrado.
+VII.- Licencias para efectuar excavaciones, fosas sépticas, sumideros y similares, 0.05 UMAS por metro cuadrado.
 
-VIII.- Licencia para realizar demolición; 0.12 UMAS por metro cuadrado.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-IX.- Licencia para hacer cortes en banquetas, pavimento (zanjas) y guarniciones; 0.56 UMAS por metro lineal.
+VIII.- Licencia para realizar demolición; 0.30 UMAS por metro cuadrado.
 
-X.- Constancia de régimen de Condominio; 0.62 UMAS por predio, departamento o local.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XI.- Constancia para Obras de Urbanización; 0.25 UMAS por metro cuadrado de vía pública.
+IX.- Licencia para hacer cortes en banquetas, pavimento (zanjas) y guarniciones; 1 UMAS por metro lineal.
 
-XII.- Sellado de planos 0.74 UMAS por el servicio.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-XIII.- Revisión de planos para tramites de uso de suelo; 0.62 UMAS por plano
+X.- Constancia de régimen de condominio; 1 UMAS por predio, departamento o local.
 
-XIV.- Certificado de Seguridad para el uso de Explosivos; 0.62 UMAS por el servicio.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XI.- Constancia para Obras de Urbanización; 0.80 UMAS por metro cuadrado de vía pública.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XII.- Sellado de planos 1 UMAS por el servicio.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Revisión de planos para tramites de uso de suelo; 1 UMAS por plano
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+XIV.- Certificado de seguridad para el uso de explosivos, previamente autorizados por la autoridad correspondiente; 1 UMAS por el servicio.
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -1455,113 +1501,135 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten los 
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 94.
 
-La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa, tasada en UMAS:
+La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa:
 
 I.- Emisión de copias fotostáticas simples.
 
-a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación 0.37
+a) Por cada hoja simple tamaño carta, de cédulas, planos,
 
-b) Por cada copia simple tamaño oficio 0.50
+parcelas, formas de manifestación de traslación de dominio
+
+o cualquier otra manifestación $ 60.00
+
+b) Por cada copia simple tamaño oficio $ 100.00
 
 II.- Por expedición de copias fotostáticas certificadas de:
 
-a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. 0.56
+a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 150.00
 
-b) Fotostáticas de plano tamaño oficio, por cada una. 0.74
+b) Fotostáticas de plano tamaño oficio, por cada una. $ 200.00
 
-c) Fotostáticas de plano hasta 4 veces tamaño oficio, por cada una. 4.34
+c) Fotostáticas de plano hasta 4 veces tamaño oficio,
 
-d) Fotostáticas de planos mayores de 4 veces de tamaño oficio por cada una 6.20
+por cada una. $ 1,100.00
+
+d) Fotostáticas de planos mayores de 4 veces de tamaño
+
+oficio por cada una $ 1,800.00
 
 III.- Por expedición de oficios de:
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+a) División(por cada parte) $ 250.00
 
-a) División (por cada parte) 1.10 UMAS
+b) Unión, rectificación de medidas, urbanización y cambio
 
-b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura 1.12
+de nomenclatura $ 300.00
 
-c) Cédulas catastrales 1.49
+c) Cédulas catastrales $ 250.00
 
-d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente e información de bienes inmuebles 1.86
+d) Constancias de no propiedad, única propiedad, valor
+
+catastral, número oficial de predio, certificado de inscripción
+
+vigente e información de bienes inmuebles $ 600.00
 
 IV.- Por elaboración de planos:
 
-a) Catastrales a escala 4.34
+a) Catastrales a escala $ 300.00
 
-b) Planos topográficos hasta 100 hectáreas 12.39
+b) Planos topográficos hasta 1 hectáreas $ 3,000.00
 
-V.- Por revalidación de oficios de división, unión y rectificación de medidas 2.23
+V.- Por revalidación de oficios de división, unión y
+
+rectificación de medidas $ 400.00
 
 VI.- Por reproducción de documentos microfilmados:
 
-a) Tamaño carta 1.12
+a) Tamaño carta $ 300.00
 
-b) Tamaño oficio 1.36
+b) Tamaño oficio $ 600.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+VII.- Por diligencias de verificación de medidas físicas y
 
-VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios 4.34 UMAS.
+de colindancias de predios
 
-Más 0.10 UMAS por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro Municipal, sin que el derecho establecido en este párrafo exceda de 5 UMAS.
+a) Kilometraje dentro de Motul $ 300.00
 
-VIII. Por diligencia de medidas y Costo del
+b) Kilometraje en comisarías $ 600.00
 
-colindancias que requiera topografía, trabajo
+VIII.- Por diligencia de medidas y colindancias que
 
-profesional o geo posicionamiento solicitado
+requiera topografía, profesional o geo posicionamiento
 
-satelital, así como topografía aérea, más 3.97 de
+satelital, así como topografía aérea, ésta se cobrará Costo del
 
-ésta se cobrara según los precios de certificación
+según los precios de los prestadores de servicios que trabajo
 
-los prestadores de servicios que en
+en convenio con la institución se hayan establecido, solicitado
 
-convenio con la institución se hayan
+del mismo modo el Municipio cobrará el derecho por $ 500.00
 
-establecido, del mismo modo el Municipio
+certificación de documentación emitida por el prestador
 
-cobrará el derecho por certificación de
+de servicios.
 
-documentación emitida
+IX.- Por trabajos de limpieza de brecha por metro cuadrado
 
-por el prestador de servicios.
+para diligencias de medidas $ 80.00 x m2
 
-IX. Por trabajos de limpieza de brecha por metro cuadrado para diligencias de medidas 0.31
+X.- Por actualizaciones de predios urbanos se causarán
 
-X.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos en UMAS:
+y pagarán los siguientes derechos en UMAS:
 
-De un valor de $ 1.00 A $ 20,000.00 3.47
+De un valor de $1.00 a $ 20,000.00 5 UMAS
 
-De un valor de $ 20,001.00 A $ 80,000.00 7.26
+De un valor de $ 20,000.01 a $ 80,000.00 9 UMAS
 
-De un valor de $ 80,001.00 A En adelante 9.68
+De un valor de $ 80,000.01 en adelante 13 UMAS
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 95.
+###### Articulo 95.
 
-En términos del primer párrafo del artículo anterior, por validación de planos presentados por dibujantes registrados en el padrón municipal se pagará una cuota de: 0.25 UMAS.
+En términos del primer párrafo del artículo anterior, por validación de planos presentados por dibujantes registrados en el padrón municipal se pagará una cuota de: 1 UMA.
 
 ###### Artículo 96.
 
 Los fraccionamientos causarán derechos de deslinde, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con los siguientes costos en UMAS:
 
-I.- Hasta 160,000 metros cuadrados 11.29 por metros cuadrados
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II.- Más de 160,000 metros cuadrados por 9.42 por metros cuadrados
+I.- Hasta 160,000 metros cuadrados 16 UMAS por metros cuadrados
 
-metros excedentes
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II.- Más de 160,000 metros cuadrados 10 UMAS por metros cuadrados
 
 ###### Artículo 97.
 
 Por la revisión de la documentación de construcción en régimen de propiedad en condominio, se causarán derechos de acuerdo a su tipo tabulado en UMAS:
 
-I.- Tipo comercial 6.20 por departamento
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
 
-II.- Tipo habitacional 3.10 por departamento
+I.- Tipo comercial 10 UMAS por departamento
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+II.- Tipo habitacional 6 UMAS por departamento
 
 ###### Artículo 98.
 
@@ -1659,11 +1727,15 @@ II.- Cuando la Dirección de Servicios Públicos Municipales determine la limpie
 
 ### CAPÍTULO VII. Derechos por Servicio de Recolecta de Basura
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 108.
 
-Por los servicios correspondientes a la recolecta de basura se causará y pagará mensualmente la cantidad de 0.62 UMAS a viviendas y establecimientos comerciales o de servicios.
+Por los servicios correspondientes a la recolecta de basura se causará y pagará mensualmente la cantidad de:
 
-El derecho por el uso del relleno sanitario del Municipio de Motul, para los recolectores, particulares y demás prestadores de este servicio que se encuentren concesionados será de 0.004 UMAS por kilogramo, con excepción de los giros comerciales comprendidos en la clasificación de GRAN EMPRESA COMERCIAL INDUSTRIAL O DE SERVICIO comprendidos en el artículo 114 de la presente Ley, que debido al volumen de producción y al tipo de residuos, causarán y pagarán la cantidad de 0.012 UMAS por kilogramos.
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2024, PÁGINAS DE LA 15 A LA 16.]</small>
+
+El derecho por el uso del relleno sanitario del Municipio de Motul, para los recolectores, particulares y demás prestadores de este servicio que se encuentren concesionados será de 0.009 UMAS por kilogramo, con excepción de los giros comerciales comprendidos en la clasificación de GRAN EMPRESA COMERCIAL INDUSTRIAL O DE SERVICIO comprendidos en el artículo 114 de la presente Ley, que debido al volumen de producción y al tipo de residuos, causarán y pagarán la cantidad de 0.016 UMAS por kilogramos.
 
 ###### Artículo 109.
 
@@ -2844,3 +2916,11 @@ D.O. 29 DE DICIEMBRE DE 2023.
 Artículo primero. Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo. Se exceptúa de la vigencia señalada en el artículo anterior, lo dispuesto en el artículo 178 Bis, contenido en el artículo séptimo de este decreto relativo a las modificaciones a la Ley de Hacienda para el Municipio de Valladolid, Yucatán, el cual entrará en vigor el segundo semestre del año 2024.
+
+D.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28/2024 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE HUNUCMÁ, MOTUL, PROGRESO, TECOH, TIXPÉUAL, UAYMA, YAXCABÁ Y YOBAÍN, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
