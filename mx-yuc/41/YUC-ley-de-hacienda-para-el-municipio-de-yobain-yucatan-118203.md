@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-yobain-yucatan-118203"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2024-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE YOBAÍN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento al Número 33262 del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -91,7 +91,9 @@ Las disposiciones fiscales que establezcan cargas a los particulares y las que s
 
 Las disposiciones fiscales distintas a las señaladas en el Artículo 4 de esta ley, se interpretarán aplicando cualquier método de interpretación jurídica.
 
-A falta de norma fiscal expresa se aplicarán supletoriamente la Ley de Hacienda Municipal del Estado de Yucatán, el Código Fiscal del Estado de Yucatán, el Código Fiscal de la Federación, las otras disposiciones fiscales y demás normas legales del Estado de Yucatán, en cuanto sean aplicables y siempre que su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+A falta de norma fiscal expresa se aplicarán supletoriamente la Ley General de Hacienda del Estado de Yucatán, el Código Fiscal del Estado de Yucatán, el Código Fiscal de la Federación, las otras disposiciones fiscales y demás normas legales del Estado de Yucatán, en cuanto sean aplicables y siempre que su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
 
 ###### Artículo 8.
 
@@ -379,6 +381,16 @@ De las Unidades de Medida y Actualización
 
 Cuando en la presente ley se haga mención de las palabras “unidad de medida” y o “unidades de medida y actualización” dichos términos se entenderán indistintamente como los (sic) unidades de medida y actualización, en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, la unidad de medida y actualización que servirá de base para su cálculo sea el vigente al momento de individualizar la sanción.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+Del cobro coactivo
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 37 Bis.
+
+Las contribuciones no pagadas en tiempo podrán ser exigidas a los sujetos obligados en forma coactiva por la autoridad fiscal municipal, de conformidad con lo dispuesto en esta ley, en la Ley General de Hacienda del Estado de Yucatán y en el Código Fiscal del Estado de Yucatán, en lo conducente.
+
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ### CAPÍTULO UNICO. De los Avisos, Solicitudes o Declaraciones
@@ -415,7 +427,9 @@ VII.- Exhibir los documentos públicos y privados que requiera la Tesorería Mun
 
 VIII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal.
 
-IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente ley.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
+IX.- Realizar los pagos, incluyendo las multas, actualizaciones y recargos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente ley.
 
 De las Licencias de Funcionamiento
 
@@ -517,13 +531,11 @@ II.- La contraprestación que produzcan los inmuebles, los terrenos o las constr
 
 De la Base: Valor Catastral
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
-Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley del Catastro y su reglamento, expedirá la Dirección del Catastro del Municipio o la Dirección del Catastro del Estado de Yucatán.
-
-Cuando la dirección del Catastro del Municipio de Yobaín, Yucatán, expidiere una cédula con diferente valor a la que existe registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del bimestre siguiente al mes que se recepcione la citada cédula.
-
-Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a la fecha de la recepción de la nueva cédula catastral ya hubieren pagado el impuesto predial correspondiente. En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
+Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley del Catastro del Estado de Yucatán y su reglamento, expedirá la Dirección del Catastro del Municipio o la Dirección del Catastro del Estado de Yucatán.
 
 De la Tarifa
 
@@ -1646,3 +1658,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28/2024 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE HUNUCMÁ, MOTUL, PROGRESO, TECOH, TIXPÉUAL, UAYMA, YAXCABÁ Y YOBAÍN, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo Primero.- Este Decreto, entrará en vigor el primero de enero del año 2025, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
