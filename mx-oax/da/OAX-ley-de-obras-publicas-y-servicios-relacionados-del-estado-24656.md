@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2024-08-30"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -105,9 +105,9 @@ X.- Contratista: Persona física o moral que reúne los requisitos exigidos por 
 
 XI.- Reglamentos: El Reglamento de construcción y Seguridad Estructural vigente para el Estado de Oaxaca y demás Reglamentos en la materia;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XII.- Padrón de Contratistas: El Padrón de Contratistas de Obra Pública.
+XII.- Padrón de Contratistas: Al Padrón de Contratistas de Obra Pública y Servicios Relacionados del Estado, y de los municipios según corresponda; (sic)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -191,27 +191,53 @@ IV.- Las demás que le señalen las Leyes, Decretos y Reglamentos.
 
 En materia de obra pública, la Contraloría tendrá las atribuciones siguientes:
 
-I.- Expedir los lineamientos y criterios que regirán la selección del procedimiento de contratación de obras públicas; en los casos no previstos por la ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I.- Interpretar la presente Ley, para efectos de vigilancia, supervisión, verificación, control, y fiscalización, así como emitir disposiciones normativas y de carácter administrativo, que establezcan procedimientos a través de medios físicos o electrónicos, para la realización de trámites ante la Contraloría, en materia de obra pública y servicios relacionados;
 
 II.- Asesorar a las Dependencias, Entidades y Ayuntamientos con respecto a la realización de los procedimientos de adjudicación de obra pública en todas sus fases;
 
-III.- Emitir opinión sobre la procedencia o improcedencia de la contratación directa de servicios profesionales relacionados con obra pública, cuando lo sometan a su consideración las Dependencias, Entidades y en su caso los Ayuntamientos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-IV.- Conocer de las modificaciones que lleguen a darse en los contratos de obra pública;
+III.- Emitir opiniones normativas respecto (sic) los procesos de contratación de las obras públicas y servicios relacionados, que las Dependencias, Entidades y en su caso los Ayuntamientos que lo soliciten;
 
-V.- Verificar que las obras públicas que se culminen, cumplan con las especificaciones requeridas por las convocantes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VI.- Conocer y resolver las inconformidades y los recursos de impugnación que se le presenten;
+IV.- Llevar a cabo la vigilancia, supervisión, control y fiscalización de los procesos de adjudicación y ejecución de obra pública y servicios relacionados, que contraten las Dependencias, Entidades y en su caso los Ayuntamientos que lo soliciten;
 
-VII.- Llevar a cabo la vigilancia, inspección y control en los procesos de adjudicación y ejecución de obra pública, que contraten las Dependencias, Entidades y en su caso los Ayuntamientos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VIII.- Vigilar que los procedimientos de adjudicación se realicen con apego a la Ley; y
+V.- Conocer y resolver las inconformidades y los recursos de impugnación que se le presenten, respecto de las obras públicas y servicios relacionados contratados por Dependencias y Entidades;
 
-IX.- Las demás que le señalen las Leyes, Decretos y Reglamentos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VI.- Conocer de las modificaciones que lleguen a darse en los contratos de obra pública;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII.- Verificar que las obras públicas y servicios relacionados se culminen y cumplan con las especificaciones solicitadas en el contrato y los convenios modificatorios en su caso;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Emitir recomendaciones preventivas y/o correctivas, sobre procedimientos de contratación de obras públicas o servicios relacionados, realizados por las Dependencias, Entidades y en su caso los Ayuntamientos que lo soliciten;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IX.- Administrar el Padrón de Contratistas del Estado; así como llevar a cabo los procesos de inscripción, renovación, clasificación, reclasificación, reposición, suspensión y cancelación y demás que estime pertinentes;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+X.- Requerir en cualquier momento a las ejecutoras del gasto, la información necesaria para la vigilancia, supervisión, control y fiscalización, en los procesos de adjudicación y ejecución de obras públicas o servicios relacionados, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XI.- Las demás que le señalen las Leyes, Decretos y Reglamentos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 12.
 
-La Contraloría llevará el control de todos los procesos de las obras públicas que se den en Dependencias, Entidades y en los Ayuntamientos, en el caso de obras convenidas, desde su proceso de contratación hasta su conclusión y recepción.
+La Contraloría llevará el control de todos los procesos de las obras públicas y servicios relacionados, que se ejecuten en Dependencias y Entidades, desde su proceso de contratación hasta su conclusión y recepción
 
 ###### Artículo 13.
 
@@ -405,93 +431,183 @@ Los servidores públicos que autoricen actos en contravención a lo dispuesto en
 
 ### CAPITULO I BIS. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Artículo 26 A.- La Secretaría y los Ayuntamientos llevarán, cada uno de ellos un Padrón de Contratistas de Obra Pública, lo mantendrán permanentemente actualizado, y clasificarán a los contratistas registrados en el mismo, de acuerdo a su capacidad técnica, económica, objeto social o giro de negocios que desarrolle. Este padrón será publicado en el Periódico Oficial del Estado.
+Artículo 26 A.- El Padrón de Contratistas del Estado, tiene por objeto, contar con un registro único de personas físicas o morales, que presten servicios de contratación de obras públicas o servicios relacionados con la misma, dentro del territorio estatal, con la finalidad de que las Dependencias, Entidades y Ayuntamientos ejecutores, consulten su información técnica y económica.
 
-El registro o renovación en el Padrón será obligatorio, por lo que sólo se podrán celebrar contratos con los contratistas que acrediten estar debidamente inscritos en el Padrón, y tendrán el costo que señalen las leyes de ingresos Estatal y Municipales del ejercicio fiscal que corresponda, con vigencia para un ejercicio fiscal. Los Contratistas, para renovar su registro, deberán de presentar su solicitud dentro de los quince días hábiles anteriores a su vencimiento; si omiten presentar la solicitud en el plazo indicado tendrá como consecuencia la suspensión del registro solicitado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+La Contraloría será la responsable de integrar y mantener actualizado el Padrón de Contratistas del Estado.
 
-Artículo 26 B.- El Padrón tiene por objeto facilitar a la administración pública estatal y municipal la información completa, confiable y oportuna, sobre las personas con capacidad de prestar servicios para la contratación de obra pública o servicios relacionados con la misma, en las mejores condiciones de oferta, con la mejor calidad conforme a su especialidad, capacidad técnica y económica, así como por su domicilio y obtener las mejores condiciones para contratar.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+Los Ayuntamientos, serán responsables de integrar y mantener actualizado el Padrón de Contratistas de su municipio. Previo a la inscripción o renovación de contratistas, además de cumplir los requisitos de ley, deberán observar que hayan sido empadronados por la Contraloría, en el ejercicio fiscal correspondiente.
 
-Artículo 26 C.- Para ser inscritos en el Padrón los interesados deberá solicitarlo por escrito ante la Secretaría o el Ayuntamiento que corresponda y satisfacer los requisitos siguientes:
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I. Acreditar fehacientemente su calidad de contratista o prestador de servicios relacionados con la obra pública legalmente establecido, mediante inscripción ante la Secretaría de Hacienda y Crédito Público, en la que se especifique su giro o actividad preponderante;
+Los Padrones de Contratistas del Estado y Ayuntamientos, deberán ser actualizados y publicados de manera mensual en los medios electrónicos que para tal efecto determinen, así como en el Periódico Oficial del Gobierno del Estado, a más tardar el último día hábil del mes de junio de cada ejercicio fiscal.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II. Comprobar que se encuentra al corriente de sus obligaciones fiscales en términos de lo dispuesto en el Código Fiscal para el Estado de Oaxaca;
+La inscripción, renovación o reclasificación en el Padrón de Contratistas, serán obligatorias para todas las contratistas interesadas en participar en los procesos de adjudicación de obras públicas y servicios relacionados, la vigencia del registro será al 31 de diciembre del ejercicio fiscal correspondiente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-III. Cuando se trate de personas morales deberán exhibir copia certificada de la escritura o acta constitutiva, debidamente inscrita en el Instituto de la Función Registral del Estado de Oaxaca, así como sus modificaciones si las hubiera, en caso de haber sido creadas por disposición legal, deberán indicar esta circunstancia; y tratándose de fideicomisos, el contrato correspondiente;
+Artículo 26 B.- Las contratistas que soliciten su inscripción, renovación o reclasificación, deberán hacerlo mediante los medios que determinen la Contraloría y los Ayuntamientos, según corresponda, debiendo acreditar su personalidad y capacidad técnica y económica, para lo cual deberán acreditar:
 
-Los representantes o apoderados legales de las personas morales, deberán presentar copia certificada de identificación oficial con fotografía; así como de su registro federal de contribuyentes y su Clave Única de Registro de Población (CURP);
+I.- Que cuenta con Registro Federal de Contribuyentes;
 
-IV. Las personas físicas, deberán presentar copia certificada de identificación oficial con fotografía; así como de su registro federal de contribuyentes y su Clave Única de Registro de Población (CURP);
+II.- Que se encuentre al corriente de sus obligaciones fiscales;
 
-V. Proporcionar la información y documentación necesaria para acreditar su solvencia económica y capacidad de prestar servicios para la contratación de obra pública o servicios relacionados con la misma;
+III.- Que cuente con folio mercantil electrónico, emitido por el Registro Público de Comercio u homólogo;
 
-VI. Exhibir currículum, mismo que en su caso, contendrá una relación de contratos celebrados en los dos últimos años con la administración pública, los vigentes y los que tengan pendientes de cumplir, en el caso que sea procedente;
+IV.- Que cuenta con capacidad técnica y económica para prestar servicios de contratación de obras públicas o servicios relacionados;
 
-VII. Acreditar haber cumplido con los registros que exijan las disposiciones de orden fiscal, mediante la presentación de original y fotocopia simple de los mismos para su cotejo;
+V.- Que tenga experiencia en la ejecución de obras públicas y/o servicios relacionados; y
 
-VIII. Proporcionar estados financieros;
+VI.- Las demás que para tales efectos establezca la Contraloría en los lineamientos correspondientes.
 
-IX. Pagar los derechos que establezcan las leyes de ingresos estatal y municipales del ejercicio fiscal que corresponda y demás disposiciones aplicables; y
+Las contratistas, para renovar su inscripción, deberán presentar su solicitud, dentro de los; quince días hábiles anteriores a su vencimiento si omiten presentar la solicitud en el plazo indicado, se suspenderá su registro y no podrán ser contratados para la ejecución de ninguna obra pública o servicio relacionado, durante el ejercicio fiscal que corresponda, debiendo solicitar su reactivación al Padrón de Contratistas del Estado, al siguiente ejercicio fiscal.
 
-X. Las demás que establezca el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+Artículo 26 C.- Dependiendo de la actividad, capacidad técnica, económica y el cumplimiento en la ejecución de los trabajos adjudicados dentro del ejercicio fiscal anterior, la Contraloría reclasificará a las contratistas de forma ascendente o descendente, de acuerdo con lo siguiente:
 
-Artículo 26 D.- Los Contratistas registrados en el padrón deberán comunicar en cualquier tiempo a la Secretaría o al Ayuntamiento según sea el caso las modificaciones relativas a datos generales, capacidad técnica o económica, o en su actividad cuando tales circunstancias puedan implicar cambios que afecten su clasificación o localización.
+I.- Ascendente: A petición de parte, previa verificación de la Contraloría, en cualquier momento del ejercicio fiscal; o, al momento de la renovación; y
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+II.- Descendente: De manera oficiosa en cualquier momento del ejercicio fiscal, cuando del desempeño de la contratista, se determine que ha perdido la capacidad técnica o económica requerida para sostener la clasificación en la que se encuentre ubicada.
 
-La Secretaría, las Dependencias, Entidades y Ayuntamientos deberán invitar a los contratistas, integrantes del Padrón, a los procedimientos de excepción, a la licitación abierta, de acuerdo con la clasificación en que estén registrados, privilegiando a los contratistas del Estado y en caso de no hacerlo, deberá justificar su determinación, sin perjuicio de que a falta de Contratistas o por así convenir a los intereses del contratante, se pueda invitar a personas que no estén registradas, las que en caso de que se les adjudique el contrato, se deberán inscribir al Padrón antes de celebrar el respectivo contrato de obra o de servicios relacionados con la misma.
+Esta clasificación se reflejará en la constancia que para tal efecto se expida.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+Si de los cambios manifestados, se observa que le es aplicable una reclasificación, quedará sin efectos la constancia emitida en la inscripción o renovación y con ello, se emitirá una nueva constancia, de acuerdo con la ley.
 
-Artículo 26 E.- La Secretaría o el Ayuntamiento que corresponda dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre el registro en el Padrón, actualización de datos o la modificación o ampliación de la clasificación. Transcurrido este plazo sin que haya respuesta, se tendrá por registrado al solicitante o efectuada la actualización, modificación, ampliación o su renovación respectiva. En caso de negativa, ésta deberá informarse al interesado debidamente fundada y motivada la causa por la que se rechazó su promoción.
+Si durante la revisión documental del proceso de renovación, se observa que la contratista debió manifestar modificaciones a las que se hacen alusión en el artículo 26 D, y fue omisa, se suspenderá su renovación para el ejercicio fiscal en curso, en los términos del artículo 26 F.
 
-Si la solicitud fuese confusa o incompleta, la Secretaría o el Ayuntamiento, según corresponda, deberá solicitar al contratista, dentro del término de cinco días hábiles siguientes a su recepción, que aclare o complemente dicha solicitud y si no presentare la información requerida dentro de diez días hábiles siguientes a su recepción, se tendrá por no presentada la solicitud.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+Artículo 26 D.- Las personas físicas o morales registradas en el Padrón de Contratistas, deberán informar en cualquier tiempo a la Contraloría y al Ayuntamiento, según sea el caso, lo siguiente:
 
-Artículo 26 F.- La Secretaría o el Ayuntamiento que corresponda, suspenderá el registro de un contratista, hasta por el plazo de veinticuatro meses cuando:
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I. Deje de reunir los requisitos que exige para tal efecto, esta Ley.
+I.- Cambio del domicilio fiscal;
 
-II. Por causas imputables a él, incumpla con un contrato que se le haya adjudicado; y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-III. Se niegue a dar facilidades necesarias para que los organismos e instituciones facultadas para ello ejerzan sus funciones de vigilancia, inspección, control y fiscalización.
+II.- Modificaciones sobre la constitución de su sociedad, mencionando de manera enunciativa más no limitativa las siguientes:
 
-Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el contratista lo acreditará ante la Secretaría o el Ayuntamiento que corresponda, la que resolverá lo conducente.
+a) Cambio de denominación o razón social;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+b) Modificación de objeto social;
 
-Artículo 26 G.- La Secretaría o el Ayuntamiento que corresponda cancelará el registro del Contratista cuando:
+c) Aumento o disminución de capital social;
 
-I. La información proporcionada para el registro resulte falsa o haya actuado con dolo o mala fe en algún procedimiento de adjudicación o contratación;
+d) Cambio de socios, y
 
-II. Incurra en actos, prácticas u omisiones que lesionen el interés general o los de la economía estatal;
+e) Cambio de administrador único.
 
-III. El contratista sea declarado en concurso mercantil;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-IV. Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley;
+Si durante la revisión documental del proceso de renovación, se observa que la contratista debió manifestar modificaciones a las que se hacen alusión en el presente artículo, y fue omisa, se suspenderá su renovación para el ejercicio fiscal en curso, en los términos del artículo 26 F.
 
-V. No atienda en tres ocasiones a las invitaciones que de manera fehaciente le realicen;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VI. No se presente, sin causa justificada, a formalizar el contrato;
+Artículo 26 E.- La Contraloría y los Ayuntamientos, deberán entregar la constancia de inscripción, renovación o reclasificación al Padrón de Contratistas, en un plazo no mayor a 30 días naturales, después de que la contratista haya cumplido con los requisitos que establece la norma, previo cotejo de los documentos y la verificación del domicilio fiscal.
 
-VII. Por causas imputables a él, incumpla con un contrato que se le haya adjudicado y perjudique gravemente los intereses de la administración pública;
+Si la solicitud fuese confusa o incompleta, se emitirá un oficio de observaciones, el cual deberá ser solventado por la contratista, en un plazo no mayor a 5 días hábiles posteriores a la fecha de notificación.
 
-VIII. Existan a su cargo créditos fiscales firmes; y,
+Si la Contratista no cumple con la solventación en el plazo concedido, la Contraloría o el Ayuntamiento, según corresponda, emitirán un documento que indique las razones debidamente fundadas y motivadas por las cuales no se emite la constancia de inscripción o renovación; en este supuesto, la contratista no podrá realizar su trámite, sino hasta el ejercicio fiscal siguiente.
 
-IX. No proporcione la información solicitada por la autoridad competente, en términos del artículo 46-A del Código Fiscal para el Estado de Oaxaca y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 26 F.- La Contraloría o el Ayuntamiento, en su caso, podrá suspender el registro de la contratista en el Padrón de Contratistas, hasta por un plazo de 24 meses, cuando:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I.- Deje de reunir los requisitos que exige la presente Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II.- No presente en los plazos de ley, su solicitud de renovación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III.- Incumpla un contrato de obra pública o servicio relacionado que se le haya adjudicado, por causas imputables a la misma;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IV.- Impida que los órganos y dependencias facultadas, realicen sus funciones de vigilancia, inspección, control y fiscalización de la obra pública y/o servicio relacionado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V.- Existan créditos fiscales firmes en su contra;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VI.- No atienda por tres ocasiones, las invitaciones que se le realizan para participar en procedimientos de contratación, sin causa justificada; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII.- Las demás que se establezcan en la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Cuando desaparezcan las causas que hubieran motivado la suspensión del registro, la contratista deberá acreditarlo ante la Contraloría o el Ayuntamiento, según corresponda, con la finalidad de que, una vez analizada la información, se determine lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 26 G.- La Contraloría o el Ayuntamiento, en su respectiva competencia, podrán cancelar definitivamente el registro de la contratista en el Padrón de Contratistas, cuando:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I.- La información proporcionada para realizar el registro al Padrón de Contratistas, sea falsa;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II.- La contratista haya actuado con dolo o mala fe, en algún procedimiento de contratación o durante la ejecución de la obra o servicio para la que fue contratada;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III.- La contratista sea declarada en concurso mercantil;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IV.- La contratista sea declarada incapacitada legalmente para celebrar actos o contratos de los regulados por esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V.- Por causas imputables a la contratista, se incumpla un contrato y perjudique gravemente los intereses del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VI.- Existan créditos fiscales firmes en contra de la contratista;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII.- Cuando la contratista no formalice el contrato adjudicado, sin causa justificada;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VIII. Cuando la contratista lleve a cabo la facturación de operaciones inexistentes en términos del Código Fiscal de la Federación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IX.- La persona física fallezca;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+X.- La contratista acepte o suscriba contratos en contravención a lo establecido por la Ley;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XI.- La Fiscalía General de la República; la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público; la Unidad de Inteligencia Patrimonial y Económica del Estado de Oaxaca u otra instancia investigadora y/o persecutora de delitos, reporten a la contratista como persona física o moral vinculada a operaciones con recursos de procedencia ilícita u operaciones simuladas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XII. La contratista incurra en alguno de los supuestos del artículo 32 de la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XIII. Las demás que se establezcan en la normatividad aplicable.
 
 ### CAPITULO II. DEL PROCEDIMIENTO DE LA LICITACION PUBLICA
 
@@ -689,9 +805,11 @@ En toda licitación pública invariablemente deberá celebrarse una Junta de Acl
 
 ### CAPITULO IV. DEL PROCEDIMIENTO DE APERTURA DE PROPUESTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-En las licitaciones públicas, la entrega de proposiciones se hará por escrito mediante dos sobres cerrados en forma inviolable que contendrán por separado, la propuesta técnica y la propuesta económica, la que deberá contener como mínimo:
+En las licitaciones públicas, la entrega de proposiciones se hará por escrito, mediante dos sobres cerrados en forma inviolable que contendrán por separado, la propuesta técnica y la propuesta económica, los cuales deberán aperturarse en presencia de personal de Contraloría, debiendo contener como mínimo:
 
 A.- En el aspecto técnico, los documentos que contendrá el sobre cerrado según las características de la obra serán:
 
@@ -799,9 +917,9 @@ En los supuestos y con sujeción a las formalidades previstas en los artículos 
 
 La opción que las Dependencias, Entidades y Ayuntamientos apliquen en los términos del párrafo anterior, deberá fundarse según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o Municipios; para tal efecto el titular de la Dependencia, Entidad o el Presidente Municipal para el caso de los Ayuntamientos, emitirá un acuerdo en el que deberán acreditar que la obra de que se trata encuadra en alguno de los supuestos previstos en los artículos 43 y 45 de esta Ley, expresando de entre los criterios mencionados aquellos en que se funda el ejercicio de la opción.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Para este tipo de contrataciones se invitará a contratistas y sólo para el caso de que las personas físicas y/o morales invitadas no cuenten con capacidad técnica y económica requerida para la ejecución de la obra, se invitará a contratistas foráneos inscritos debidamente en el padrón, debiendo en todo caso el titular de la dependencia y/o ayuntamiento, emitir un acuerdo justificado de su determinación.
+Para este tipo de contrataciones se invitará a contratistas y solo para el caso de que las personas físicas y/o morales invitadas no cuenten con capacidad técnica y económica requerida para la ejecución de la obra, se invitará a contratistas foráneas inscritas debidamente en el padrón según corresponda, debiendo en todo caso el titular de la dependencia y/o Ayuntamiento, emitir un acuerdo justificado de su determinación.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
@@ -1744,3 +1862,25 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 27.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXXIV Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 47; SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; Y SE REFORMAN LAS FRACCIONES XII DEL ARTÍCULO 3; I, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 11; ARTÍCULO 12; PRIMERO Y SEGUNDO PÁRRAFO DEL ARTÍCULO 26 A; ARTÍCULO 26 B; ARTÍCULO 26 C; ARTÍCULO 26 D; ARTÍCULO 26 E; FRACCIONES I, II, III Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 26 F; FRACCIONES I, II, III, IV, V, VI, VII, VIII Y IX DEL ARTÍCULO 26 G; EL ARTÍCULO 36; TERCER PÁRRAFO DEL ARTÍCULO 42; SE ADICIONAN LAS FRACCIONES IX, X RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 11; PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 26 A; FRACCIONES I Y II DEL ARTÍCULO 26 D; LAS FRACCIONES IV, V, VI, VII DEL ARTÍCULO 26 F, LAS FRACCIONES X, XI, XII Y XIII DEL ARTÍCULO 26 G, TODAS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+CUARTO. La Secretaría de Infraestructuras y Comunicaciones transferirá a la Secretaría de Honestidad, Transparencia y Función Pública, en un plazo de cinco días naturales posteriores a la entrada en vigor del presente Decreto, el archivo de trámite, concentración, e histórico relativo al Padrón de Contratistas de Obra Pública.
+
+QUINTO. A partir del ejercicio fiscal 2025, le corresponderá a la Secretaría de Honestidad, Transparencia y Función Pública, llevar a cabo todos los trámites relacionados con el padrón de contratistas; por lo que, por única ocasión, en el 2025, todas las contratistas deberán realizar sus trámites de inscripción al padrón de Contratistas del Estado.
+
+SEXTO. La (sic) Secretarías de Finanzas, Administración, Infraestructuras y Comunicaciones y Honestidad, Transparencia y Función Pública, deberán realizar las adecuaciones a la estructura orgánica, presupuestales, programáticas, normativas, y administrativas, para el cumplimiento del presente Decreto.
+
+SÉPTIMO. En un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública, deberá emitir los lineamientos del Padrón de Contratistas del Estado.
+
+OCTAVO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberán adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
+
+NOVENO. Los Ayuntamientos, deberán emitir la normatividad aplicable a sus Padrones de Contratistas Municipales, en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto
