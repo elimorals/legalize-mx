@@ -4,7 +4,7 @@ identifier: "LIGIE_2022"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-07"
-last_updated: "2024-12-19"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -63301,3 +63301,9 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 8 DE MAYO DE 2024.
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 19 DE DICIEMBRE DE 2024.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN Y EL DECRETO PARA EL FOMENTO DE LA INDUSTRIA MANUFACTURERA, MAQUILADORA Y DE SERVICIOS DE EXPORTACIÓN”.]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 31 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS".]</small>
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
