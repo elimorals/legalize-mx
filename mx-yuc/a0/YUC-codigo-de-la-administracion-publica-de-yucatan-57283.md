@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2024-12-03"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -333,9 +333,9 @@ XI.- Secretaría de Seguridad Pública;
 
 XII.- (DEROGADA, D.O. 21 DE ABRIL DE 2023)
 
-> <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XIII.- Secretaría de Fomento Económico y Trabajo;
+XIII.- Secretaría de Economía y Trabajo;
 
 XIV.- Secretaría de Fomento Turístico;
 
@@ -351,9 +351,9 @@ XVI.- Secretaría de Desarrollo Sustentable;
 
 XVII.- Secretaría de la Contraloría General;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XVIII.- Secretaría de Investigación, Innovación y Educación Superior;
+XVIII.- Secretaría de Ciencia, Humanidades, Tecnología e Innovación;
 
 XIX.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
@@ -967,43 +967,47 @@ XXIII.- Fomentar en la población del Estado, mediante programas o acciones una 
 
 A la Secretaría de Educación le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I.- Coordinar las políticas públicas y actividades de la Administración Pública relativas al fomento y servicios de educación, básica y media superior, y deporte;
+I.- Coordinar las políticas públicas y actividades de la Administración Pública relativas al fomento y servicios de educación básica, media superior, superior, y deporte;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II.- Proponer al Gobernador del Estado las políticas y programas generales relativos a la educación pública, de los tipos básica y media superior, y la promoción del deporte y la vinculación entre estos tipos educativos y los diversos sectores productivos de la economía estatal;
+II.- Proponer al Gobernador del Estado las políticas relativas a la educación pública, de los tipos básica, media superior y superior y la promoción del deporte y la vinculación entre estos tipos educativos y los diversos sectores productivos de la economía estatal;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 III.- Procurar el cumplimiento de la Ley de Educación Pública del Estado y en lo que le competa, la Ley General de Educación, así como las relativas en materia de cultura, deporte y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-IV.- Fomentar y orientar la educación básica y media superior que se imparte en las escuelas estatales, vigilando el funcionamiento de los establecimientos respectivos y el desarrollo de los planes pedagógicos, fundados en los valores de la ciencia, de la historia nacional y del Estado y en los principios rectores de la educación cívica;
+IV.- Fomentar en la educación básica, media superior y superior que se imparte en las escuelas estatales, el funcionamiento de los establecimientos respectivos y el desarrollo de los planes y programas de estudios, fundados en los valores y principios previstos en las leyes generales y estatales de la materia;
 
 V.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
 VI.- Someter a la consideración del Gobernador del Estado, la documentación de los maestros y empleados de su dependencia para la expedición de los nombramientos o bajas respectivas;
 
-VII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII.- Fomentar la evaluación interna y externa, y la acreditación de los programas y procesos educativos que ofrecen las instituciones de educación superior en el Estado, así como los niveles de aprendizaje alcanzados por los estudiantes y atender las recomendaciones que, en su caso, se formulen para asegurar una educación superior de reconocida buena calidad;
 
 VIII.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
-IX.- Otorgar becas en términos de la reglamentación correspondiente;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IX.- Otorgar becas en términos de la reglamentación aplicable. Para el caso de becas en el extranjero, lo hará en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación;
 
 X.- Vigilar el funcionamiento de la Comisión Estatal de Escalafón, de conformidad con las disposiciones legales aplicables;
 
 XI.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XII.- Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter educativo para los tipos de educación básica y media superior;
+XII.- Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter educativo para los tipos de educación básica, media superior y superior;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XIII.- Fomentar las relaciones en materia educativa de los tipos básica y media superior con otras entidades de la república;
+XIII.- Fomentar las relaciones en materia educativa de los tipos básica, media superior y superior con otras entidades de la República;
 
 XIV.- Instituir, por acuerdo del Ejecutivo las escuelas oficiales;
 
@@ -1013,9 +1017,9 @@ XV.- Dirigir a través de los directores de cada ramo: la educación preescolar,
 
 XVI.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas, hemerotecas, pinacotecas y filmotecas integradas al sistema educativo estatal;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XVII.- Diseñar y formular los programas relativos a la educación básica y media superior y la recreación con base en la normatividad;
+XVII.- Emitir su opinión sobre los planes y programas relativos a la educación básica, media superior y superior, incluyendo, la educación normal y la recreación con base en la normativa;
 
 > <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
@@ -1031,9 +1035,9 @@ XX.- Organizar exposiciones artísticas, ferias, certámenes, concursos, audicio
 
 XXI.- Fomentar e intervenir en la celebración de actividades artísticas y culturales, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXII.- Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal referentes a la educación básica y media superior;
+XXII.- Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal referentes a la educación básica, media superior y superior;
 
 XXIII.- Crear y organizar sistemas de enseñanza especial incorporándolos al sistema educativo;
 
@@ -1045,33 +1049,39 @@ XXVI.- Actualizar los programas de estudio, sus contenidos, materiales y método
 
 XXVII.- Promover la alfabetización de adultos y los programas de enseñanza básica abierta y a distancia para abatir el rezago educativo;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXVIII.- Promover la vinculación del Sistema Educativo Básico y Medio Superior con el sector productivo para mejorar la calidad de la educación y elevar los índices de productividad en el ámbito laboral;
+XXVIII.- Promover la vinculación del sistema educativo estatal básico, medio superior y superior con el sector productivo para mejorar la calidad de la educación y elevar los índices de productividad en el ámbito laboral;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXIX.- Crear mecanismos sistemáticos de evaluación que permitan conocer los niveles de aprovechamiento de los alumnos de educación básica y media superior, del desempeño magisterial, y de los diversos niveles de dirección, supervisión y demás funciones que se desarrollan en el sistema educativo estatal;
+XXIX.- Participar en la implementación de las evaluaciones que permitan conocer los niveles de aprovechamiento de los alumnos de educación básica, media superior y superior, coadyuvar en los procesos de selección para la admisión, promoción y reconocimiento en el sistema para la carrera de las maestras y los maestros y el proceso de selección para la promoción a funciones de dirección y de supervisión de la educación básica, en términos de los lineamientos que emitan las autoridades competentes;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXX.- Dotar a los planteles del sistema educativo estatal básico y medio superior con plataformas tecnológicas y equipos informáticos para facilitar el proceso educativo, de acuerdo con la disponibilidad presupuestal de la Secretaría;
+XXX.- En el ámbito de su competencia, dotar a los planteles del sistema educativo estatal básico, medio superior y superior con plataformas tecnológicas y equipos informáticos para facilitar el proceso educativo, de acuerdo con la disponibilidad presupuestal de la Secretaría;
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 XXXI.- Fortalecer la educación artística profesional y la promoción de todas las modalidades de las bellas artes y de las artes populares; incluyendo la cultura nacional e internacional, lo anterior por medio de talleres públicos gratuitos de apreciación y enseñanza, enfocándose principalmente a la población con menor acceso a estas manifestaciones educativas, en el ámbito de su competencia y de conformidad con las políticas y criterios que establezca la Secretaría de la Cultura y las Artes;
 
-XXXII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXXIII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+XXXII.- Autorizar los exámenes profesionales y de grado, así como expedir los títulos correspondientes a los programas educativos que oferten las escuelas normales del estado;
 
-XXXIV.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XXXIII.- Llevar el registro de profesiones, colegios, asociaciones profesionales, títulos y certificados, conforme a la reglamentación correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XXXIV.- Vigilar que los servicios educativos del tipo superior, impartidos por las instituciones privadas, en las diferentes modalidades, cumplan con los programas y con las disposiciones aplicables;
 
 XXXV.- Inculcar el hábito de la lectura entre los educandos, mediante concursos, eventos culturales, conferencias y otros medios;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXXVI.- Vigilar que los servicios educativos de educación básica y media superior impartidos por las instituciones privadas, cumplan con los programas y con las disposiciones aplicables;
+XXXVI.- Vigilar que los servicios educativos de educación básica, media superior y superior, impartidos por las instituciones privadas, cumplan con los programas y con las disposiciones aplicables;
 
 XXXVII.- Formular y ejecutar programas educativos en comunidades indígenas en coordinación con otras instancias competentes;
 
@@ -1085,17 +1095,33 @@ XL.- Coadyuvar con las autoridades competentes a la realización de campañas pa
 
 XLI.- Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas educativos y recreativos;
 
-> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 XLII.- Elaborar el programa anual de construcción de obra pública destinada a la educación y la recreación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones, en coordinación con la Secretaría de Infraestructura para el Bienestar;
 
-> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XLIII.- Establecer los mecanismos para que los ciudadanos en general, padres de familia y maestros participen en la definición de las políticas educativas para la educación básica y media superior que deban aplicarse en el Estado, y
+XLIII.- Establecer los mecanismos para que las y los ciudadanos en general, padres de familia y maestros participen en la definición de las políticas educativas para la educación básica, media superior y superior que deban aplicarse en el Estado;
 
-> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XLIV.- Fomentar y realizar todo tipo de actividades relativas a la promoción de la lectura para el mejoramiento del logro educativo de los estudiantes, conforme al Programa Nacional de Lectura y Biblioteca Básica de Yucatán.
+XLIV.- Fomentar y realizar todo tipo de actividades relativas a la promoción de la lectura para el mejoramiento del logro educativo de los estudiantes, conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLV.- Evaluar, autorizar y acordar las solicitudes que hagan las personas físicas o morales para el otorgamiento del reconocimiento de validez oficial, de conformidad con lo establecido en la normativa correspondiente;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLVI.- Supervisar, evaluar y establecer las directrices a las que deberán someterse las instituciones de educación superior a las que se les haya otorgado reconocimiento de validez oficial, de conformidad con lo establecido en la normatividad correspondiente;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLVII.- Cualquier otro asunto que, por su importancia en el bienestar de la educación en la entidad, le sea encomendado por la persona titular del Poder Ejecutivo, y
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLVIII.- Las demás que establezcan este código, su reglamento y las demás disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 3 DE DICIEMBRE DE 2024)</small>
 
@@ -1343,15 +1369,15 @@ XXII.- Crear y mantener actualizado el Registro Único de Prestadores de Servici
 
 (DEROGADA, D.O. 21 DE ABRIL DE 2023)
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XIII. De la Secretaría de Fomento Económico y Trabajo
+### CAPÍTULO XIII. De la Secretaría de Economía y Trabajo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 42.
 
-A la Secretaría de Fomento Económico y Trabajo le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Economía y Trabajo le corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
@@ -1365,7 +1391,9 @@ III.- Promover la realización de ferias, exposiciones y congresos, de carácter
 
 IV.- Estimular y apoyar la ejecución de los proyectos de inversión mediante la realización y difusión de estudios que permitan disponer de información confiable en materia industrial, comercial, logística, tecnológica, de comercialización, y sobre disponibilidad de infraestructura así como sobre las ventajas de capital que ofrezca el Estado;
 
-V.- Celebrar, por delegación del Gobernador del Estado, convenios con los ayuntamientos para la realización de actividades relacionadas con la Secretaría;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V.- Celebrar por sí o por delegación del Gobernador del Estado, convenios con organismos y autoridades de los tres órdenes de gobierno, para el cumplimiento de las atribuciones y facultades de la Secretaría;
 
 > <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
@@ -1381,19 +1409,21 @@ IX.- Regular los servicios regionales del sector, de conformidad con el Plan Est
 
 X.- Promover y apoyar a las organizaciones industriales y comerciales en sus procesos de modernización tecnológica y administrativa, así como de capacitación y adiestramiento de los trabajadores, con el fin de impulsar el desarrollo del Estado;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XI.- Organizar y vigilar el funcionamiento de los Módulos de Ventanilla Universal y realizar las acciones necesarias para impulsar y apoyar el establecimiento de nuevas empresas en el Estado;
+XI.- Organizar y vigilar el funcionamiento de la Ventanilla Única de Gestión y realizar las acciones necesarias para impulsar y apoyar el establecimiento de nuevas empresas en el Estado;
 
 XII.- Opinar sobre la constitución o modificación de los fideicomisos o empresas en el área de competencia de la misma, para su promoción e impulso, en los términos de la legislación correspondiente;
 
 XIII.- Difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y la productividad, en un contexto de competitividad y adecuado desarrollo económico y social, proponiendo en ese sentido al Gobernador del Estado los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva;
 
-XIV.- Desarrollar el potencial productivo de los recursos naturales no renovables en un marco de racionalidad y cuidando su preservación;
+XIV.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2024)
 
 XV.- Promover la organización de las sociedades productivas, proporcionando el apoyo especializado necesario para tal objeto;
 
-XVI.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 2015)
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XVI.- Participar y, en su caso, promover dentro del ámbito de su competencia la investigación técnico-industrial, en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación;
 
 XVII.- Implementar la adecuada vigilancia, control y demás acciones en coordinación con las dependencias concurrentes en materia de desarrollo económico;
 
@@ -1403,7 +1433,9 @@ XVIII.- Dar cumplimiento a los convenios que en la materia celebre el Estado con
 
 XIX.- Realizar los actos administrativos necesarios para crear, disolver, modificar y administrar fondos y fideicomisos, con autorización del Titular del Poder Ejecutivo del Estado, y afectarlos por causas de interés social, destinados a brindar créditos, préstamos o apoyos dirigidos a comerciantes e industriales, los cuales tendrán que estar acompañados de la firma del fideicomitente único del Gobierno del Estado;
 
-XX.- (DEROGADA, D.O. 25 DE NOVIEMBRE DE 2008)
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XX.- Opinar, en su caso, respecto a las acciones y estrategias del ente en materia de energía en la entidad;
 
 > <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
@@ -1441,9 +1473,9 @@ XXVIII.- Proponer políticas en materia laboral con visión regional y local que
 
 XXIX.- Instrumentar acciones y políticas públicas con perspectiva de género que mejoren las condiciones laborales de las mujeres y de los grupos en situación de vulnerabilidad en el Estado, y que incentiven la equidad laboral;
 
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXX.- Aplicar políticas públicas para combatir la explotación del trabajo infantil en el ámbito de su competencia;
+XXX.- Aplicar políticas públicas para prevenir la explotación del trabajo infantil y el trabajo forzoso en el ámbito de su competencia y conforme a las disposiciones legales y normativas aplicables;
 
 > <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
@@ -1473,13 +1505,53 @@ XXXVI.- Aportar a las autoridades federales del trabajo la información que soli
 
 XXXVII.- Mediar y conciliar, a solicitud de la parte interesada o cuando la situación lo amerite, en los conflictos que surjan de presuntas violaciones a las leyes laborales, contratos colectivos de trabajo o a las condiciones generales de trabajo;
 
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXXVIII.- Fomentar y apoyar la organización social para el trabajo y autoempleo, y
+XXXVIII.- Fomentar y apoyar la organización social para el trabajo y autoempleo;
 
-> <small>(ADICIONADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXXIX.- Aplicar las disposiciones que por Ley, Decreto, Acuerdo o Convenio se le confieran, así como aquellas que le asigne el Gobernador del Estado.
+XXXIX.- Aplicar las disposiciones que por Ley, decreto, acuerdo o convenio se le confieran, así como aquellas que le asigne la persona titular del Poder Ejecutivo del estado;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XL.- Promover programas y acciones para monitorear el comportamiento económico del estado, con los organismos empresariales nacionales e internacionales, instituciones académicas, centros de investigación y demás entes públicos y privados;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLI.- Integrar, mantener actualizados y difundir indicadores económicos que permitan conocer el contexto y estado económico de Yucatán y el nivel de avance de la política económica del bienestar;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLII.- Ejercer sus atribuciones con apego al principio de economía del bienestar, como la directriz hacia el desarrollo sostenido en la entidad con políticas de enfoque humanista, así como los demás principios previstos en la legislación y la normativa aplicables;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLIII.- Fungir, dentro del ámbito de su competencia, como enlace con las autoridades federales para dar seguimiento a las obras estratégicas previstas en el Plan Nacional de Desarrollo;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLIV.- Contribuir al crecimiento económico más equilibrado entre regiones y sectores sociales para evitar una inadecuada concentración de la riqueza;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLV.- En el ámbito de su competencia, dar seguimiento al desempeño de las actividades estratégicas y prioritarias del Poder Ejecutivo Estatal para garantizar el bienestar en la entidad;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLVI.- Fomentar la diversificación económica para lograr una mayor igualdad entre regiones y sectores, bajo una óptica de bienestar compartido;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLVII.- Impulsar, en el ámbito de su competencia, programas de trabajo que atiendan prioritariamente a las personas pertenecientes a grupos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLVIII.- Implementar en sus programas destinados al trabajo, las directrices de la economía social para el bienestar de la población, y
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XLIX.- Las demás que establezcan este código, su reglamento y las demás disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO XIV. De la Secretaría de Fomento Turístico
 
@@ -1759,95 +1831,119 @@ XXX.- Implementar las políticas de coordinación que promuevan los comités coo
 
 XXXI.- Emitir el código de ética de las y los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública, el cual deberá contener las acciones necesarias que propicien en todo momento el respeto en la comunicación pública que las personas servidoras públicas entablen con la ciudadanía, así como el uso adecuado del lenguaje incluyente y del lenguaje no sexista a través de los medios de comunicación tradicionales y digitales como las diversas plataformas y redes sociales, de conformidad a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto.
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XVIII. De la Secretaría de Investigación, Innovación y Educación Superior
+### CAPÍTULO XVIII. De la Secretaría de Ciencia, Humanidades, Tecnología e Innovación
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 47.
 
-A la Secretaría de Investigación, Innovación y Educación Superior le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Ciencia, Humanidades, Tecnología e Innovación le corresponde el despacho de los siguientes asuntos:
 
-I.- Impulsar la aplicación de políticas y programas que propicien que la educación superior, el desarrollo científico, tecnológico, la innovación y la vinculación, se encuentren plenamente incorporadas al desarrollo social, económico y cultural de Yucatán y que contribuyan, con oportunidad, con los mejores estándares de pertinencia y calidad, al desarrollo humano de la sociedad;
+I.- Garantizar el pleno ejercicio y acceso a los derechos humanos relacionados con las humanidades, las ciencias, las tecnologías y la innovación;
 
-II.- Promover que las instituciones de educación superior en el Estado, conformen una oferta educativa amplia, diversificada, con los mejores estándares de pertinencia y calidad, para ampliar con equidad, las oportunidades de acceso a la educación superior;
+II.- Articular, integrar, formular y conducir la política y rectoría estatal en materia de Humanidades, Ciencias, Tecnologías e Innovación, conforme a los fines, principios y bases de las políticas públicas previstos en la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-III.- Impulsar el diseño e implementación de programas educativos en áreas científicas y tecnológicas, para articular y potenciar las capacidades existentes y optimizar el uso de la infraestructura y equipamiento disponible;
+III.- Formular, actualizar y ejecutar el Programa Especial en Materia de Humanidades, Ciencias, Tecnologías e Innovación y los demás instrumentos de planeación que correspondan, conforme a los fines, principios y bases de las políticas públicas previstos en la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación del Estado de Yucatán y la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-IV.- Fomentar la mejora continua de los niveles de aprendizaje alcanzados por los estudiantes;
+IV.- Coordinar y promover la participación de los sectores social y privado, así como de la comunidad en los procesos de formulación, ejecución y evaluación de la política local en la materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-V.- Fomentar la evaluación interna y externa, y la acreditación de los programas y procesos educativos que ofrecen las instituciones de educación superior en el Estado, así como los niveles de aprendizaje alcanzados por los estudiantes y atender las recomendaciones que, en su caso, se formulen para asegurar una educación superior de reconocida buena calidad;
+V.- Promover y apoyar las actividades locales en materia de humanidades, ciencias, tecnologías e innovación, incluyendo el acceso universal al conocimiento humanístico y científico y a sus beneficios sociales;
 
-VI.- Implementar programas, en coordinación con la Secretaría de Educación, para la detección de talentos en las escuelas de educación básica y media superior y apoyar sus trayectorias educativas para lograr su incorporación en programas de técnico superior universitario, licenciatura y posgrado, orientados a formar personal especializado que coadyuve a fortalecer las capacidades del Estado para el desarrollo científico y tecnológico, la innovación y la vinculación;
+VI.- Articular, coordinar y apoyar la operación eficiente de las entidades paraestatales locales que sean reconocidas como Centros Públicos de Investigación Humanística Desarrollo Tecnológico y Científico e Innovación sectorizados que realizan Investigación humanística y científica, desarrollo tecnológico e innovación;
 
-VII.- Otorgar becas para la realización de estudios de técnico superior universitario, profesional asociado, licenciatura y posgrado en programas educativos de buena calidad, conforme a las necesidades de los sectores público y privado en el Estado;
+VII.- Operar los mecanismos e instrumentos públicos estatales de fomento y apoyo que correspondan, de conformidad con la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-VIII.- Estimular la formación, capacitación, atracción y permanencia de investigadores, tecnólogos y vinculadores de alto nivel en el Estado, coordinando sus acciones con los organismos públicos o privados que tengan esta misma función;
+VIII.- Promover, en conjunto con las autoridades competentes, instancias de colaboración, cooperación y articulación metropolitana y regional para el mejor diseño e instrumentación de sus políticas, estrategias, acciones y proyectos en la materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-IX.- Establecer las directrices que deberá seguir la impartición de la educación normal en la entidad, procurando que incluya una perspectiva social y de respeto a los derechos humanos;
+IX.- Propiciar e impulsar, mediante políticas y programas, el desarrollo científico, tecnológico, la innovación y la vinculación a fin de incorporarlas al desarrollo social, económico y cultural del estado y de contribuir oportunamente, con mejores estándares de pertinencia y calidad, al desarrollo humano de la sociedad;
 
-X.- Coordinar la educación normal en el Estado para promover la formación de profesores preparados;
+X.- Establecer y administrar los sistemas locales de información sobre investigación humanística y científica, desarrollo tecnológico e innovación;
 
-XI.- Coordinar con las universidades e institutos de educación superior, lo referente a la prestación del servicio social, la orientación vocacional y otros aspectos educativos que se acuerden con dichas instituciones, con respeto a sus políticas educativas;
+XI.- Contribuir a la integración del Sistema Nacional de Información, en términos de la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-XII.- Promover la mejora continua y la calidad de la educación superior a través del fomento de la investigación educativa;
+XII.- Participar en la formulación de los lineamientos que emitan las autoridades federales, en términos de la Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-XIII.- Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas de educación superior y de ciencia, tecnología, innovación y vinculación;
+XIII.- Participar en la integración de la Agenda Nacional en materia de Humanidades, Ciencias, Tecnologías e Innovación, mediante la formulación de propuestas sobre líneas de acción en torno de asuntos estratégicos o prioritarios para el desarrollo del país y temas de interés público nacional o de atención indispensable en esta materia;
 
-XIV.- Autorizar los exámenes profesionales y de grado, así como expedir los títulos correspondientes a los programas educativos que oferten las escuelas normales del Estado;
+XIV.- Celebrar los convenios necesarios para el ejercicio óptimo de sus facultades;
 
-XV.- Llevar el registro de profesiones, colegios, asociaciones profesionales, títulos y certificados, conforme a la reglamentación correspondiente;
+XV.- Coordinarse con la federación y los municipios para alinear los objetivos estatales en materia de humanidades, ciencias, tecnologías e innovación;
 
-XVI.- Vigilar que los servicios educativos del tipo superior, impartidos por las instituciones privadas, en los diferentes niveles y modalidades, cumplan con los programas y con las disposiciones aplicables;
+XVI.- Observar y cumplir con los compromisos internacionales signados por el Estado Mexicano en la materia científica;
 
-XVII.- Ampliar, articular y potenciar las capacidades existentes en el Estado para la educación superior, el desarrollo científico y tecnológico; la innovación y la vinculación mediante esquemas efectivos de colaboración e intercambio académico;
+XVII.- Implementar programas para la detección de talentos y orientarlos para formar personal especializado que coadyuve a fortalecer las capacidades del Estado para el desarrollo científico y tecnológico, la innovación y la vinculación;
 
-XVIII.- Proponer, evaluar y actualizar periódicamente las políticas y estrategias estatales en materia de desarrollo científico y tecnológico, la innovación y la vinculación, verificando su alineación al Plan Estatal de Desarrollo;
+XVIII.- Impulsar en la entidad, el fortalecimiento institucional de la investigación básica y de frontera, el desarrollo de tecnologías y la innovación en todas las áreas y campos del saber científico y humanístico;
 
-XIX.- Fortalecer las capacidades y la formación de recursos humanos de alto nivel académico de las instituciones de educación superior, centros de investigación, empresas de base tecnológica, entidades y dependencias de la Administración Pública del Estado, para el desarrollo científico y tecnológico, la innovación y la vinculación;
+XIX.- Promover en la entidad la calidad de la investigación científica, los desarrollos tecnológicos y de innovación, la disposición social de sus beneficios y el acceso universal al conocimiento científico y humanístico;
 
-XX.- Coordinarse con las autoridades federales y municipales competentes para el establecimiento de mecanismos que impulsen la educación superior, el desarrollo científico y tecnológico, la innovación y la vinculación;
+XX.- Diseñar contenidos de humanidades, ciencias, tecnologías e innovación, según corresponda, en los planes y programas de estudio de la oferta académica en la entidad;
 
-XXI. Asesorar a las dependencias y entidades de los tres órdenes de gobierno y a las personas físicas o morales que lo soliciten, sobre asuntos relacionados con la ciencia, la tecnología, la innovación y la vinculación;
+XXI.- Impulsar en conjunto con las autoridades educativas, el diseño e implementación de programas educativos en áreas científicas y tecnológicas, para articular y potenciar las capacidades existentes y optimizar el uso de la infraestructura y equipamiento disponible;
 
-XXII. Fomentar la generación, divulgación y difusión de estudios, avances y logros científicos, en materia de ciencia, tecnología, innovación y vinculación en el Estado;
+XXII.- Impulsar programas de posgrado en las instituciones de (sic) educativas, así como centros de investigación;
 
-XXIII. Promover la participación de las comunidades científica y tecnológica del Estado, en la toma de decisiones relativas al impulso y al desarrollo científico y tecnológico, la innovación y la vinculación;
+XXIII.- Proponer a la persona titular del Poder Ejecutivo del estado el otorgamiento de estímulos fiscales, financieros y subvenciones, para impulsar el desarrollo de la investigación, divulgación e incorporación a proyectos estratégicos en materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-XXIV. Impulsar y otorgar apoyos para la realización de proyectos de corto, mediano y largo plazo en materia de ciencia, tecnología e innovación;
+XXIV.- Promover el establecimiento de estímulos y exenciones para las empresas o instituciones privadas dedicadas al desarrollo tecnológico;
 
-XXV. Fomentar la colaboración y vinculación entre las instituciones de educación superior y los centros de investigación, con los sectores productivos y las empresas de base tecnológica en el Estado, así como con dependencias y entidades de la Administración Pública del Estado;
+XXV.- Diseñar, gestionar y otorgar becas y apoyos complementarios a académicos y estudiantes en centros de investigación y desarrollo tecnológico, así como posgrados y programas educativos de calidad y de educación continua, conforme a las necesidades de los sectores públicos y privado en el Estado;
 
-XXVI. Promover la divulgación del conocimiento científico y tecnológico en la población del Estado, a través del impulso de congresos, conferencias, exposiciones, ferias de ciencia, concursos, museos e incluso en espacios públicos como parques, centros comunitarios, entre otros;
+XXVI.- Fortalecer el estado de la infraestructura científica y tecnológica en la entidad y promover el acceso compartido al equipamiento financiado con recursos públicos y de difícil adquisición;
 
-XXVII. Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de formación y las de desarrollo científico y tecnológico, innovación y vinculación;
+XXVII.- Fomentar la constitución de empresas de base científica y tecnológica, en términos de la Ley General en Materia (sic) Humanidades, Ciencias, Tecnologías e Innovación;
 
-XXVIII. Promover el intercambio y la movilidad de profesores-investigadores y tecnólogos entre instituciones de educación superior, centros de investigación y empresas de base tecnológica;
+XXVIII.- Desarrollar políticas, estrategias y lineamientos para ampliar el acceso al conocimiento, las tecnologías de la información y comunicación y el aprendizaje digital;
 
-XXIX. Promover la creación de instituciones de educación superior y de centros de investigación en el marco de los objetivos de la política científica, tecnológica, de innovación y de vinculación del Estado y en áreas estratégicas para impulsar su desarrollo;
+XXIX.- Promover e impulsar procesos sistemáticos de evaluación integral y participativa de las políticas y programas relativos al desarrollo científico, tecnológico y de innovación de su competencia, que contribuyan a su mejora continua;
 
-XXX. Impulsar el desarrollo de la infraestructura relacionada con las tecnologías de la información en el Estado así como su uso y aplicación en todos los órdenes de gobierno, las instituciones educativas y la población del Estado;
+XXX.- Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales e internacionales, en asuntos de su competencia;
 
-XXXI. Fomentar el respeto y la protección de la propiedad intelectual, así como el registro, licenciamiento y aprovechamiento de patentes;
+XXXI.- Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal, referentes a ciencia, tecnología, innovación y vinculación;
 
-XXXII. Impulsar la aplicación de las tecnologías de la información y la comunicación para acercar los servicios públicos a la ciudadanía;
+XXXII.- Diseñar y promover campañas de difusión, divulgación y apropiación social de la ciencia;
 
-XXXIII. Identificar las necesidades del Estado en materia de desarrollo de tecnologías de la información y la comunicación, especialmente del área productiva, para fomentar el desarrollo económico y social del Estado;
+XXXIII.- Fomentar el respeto y la protección de la propiedad intelectual, así como el registro, licenciamiento y aprovechamiento de patentes;
 
-XXXIV. Promover el establecimiento de estímulos y exenciones para las empresas o instituciones privadas dedicadas al desarrollo tecnológico;
+XXXIV.- Impulsar la aplicación de las tecnologías de la información y la comunicación para acercar los servicios públicos a la ciudadanía;
 
-XXXV. Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal, referentes a la educación superior, ciencia, tecnología, innovación y vinculación;
+XXXV.- Identificar las necesidades del estado en materia de desarrollo de tecnologías de la información y la comunicación, especialmente del área productiva, para fomentar el desarrollo económico y social del estado;
 
-XXXVI. Fomentar las relaciones en materia de educación superior, ciencia, tecnología, innovación y vinculación con otras entidades de la república;
+XXXVI.- Fomentar y financiar actividades y proyectos de corto, mediano y largo plazo en materia de investigación, ciencia, tecnología e innovación;
 
-XXXVII. Ejercer las atribuciones que le otorga la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación y la Ley de Profesiones, ambas del Estado de Yucatán;
+XXXVII.- Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de formación y las de desarrollo científico y tecnológico, investigación, innovación y vinculación;
 
-XXXVIII. Evaluar, autorizar y acordar las solicitudes que hagan las personas físicas o morales para el otorgamiento del reconocimiento de validez oficial, de conformidad con lo establecido en la normatividad correspondiente;
+XXXVIII.- Colaborar con los programas, planes y fortalecimiento de la calidad educativa de las universidades públicas en la entidad;
 
-XXXIX. Supervisar, evaluar y establecer las directrices a las que deberán someterse las instituciones de educación superior a las que se les haya otorgado reconocimiento de validez oficial, de conformidad con lo establecido en la normatividad correspondiente, y
+XXXIX.- Promover e impulsar la formación de recursos humanos de calidad y alto nivel para el desarrollo de la investigación, divulgación e incorporación a proyectos estratégicos en materia de humanidades, ciencias, tecnología e innovación; para el desarrollo económico y social del estado;
 
-XL. Fomentar y desarrollar programas educativos que con visión incluyente y equitativa propicien el desarrollo profesional y humano, el fomento y práctica de la investigación, así como el desarrollo de la ciencia y tecnología de la población en situación de vulnerabilidad, sobre todo, aquella perteneciente a la comunidad maya.
+XL.- Fomentar y estimular la formación, capacitación, atracción y permanencia de investigadores, tecnólogos y vinculadores de alto nivel en el estado mediante la coordinación con los organismos públicos o privados que tengan esta misma función;
+
+XLI.- Promover el intercambio y la movilidad de profesores-investigadores y tecnólogos estatales, nacionales e internacionales en centros de investigación y empresas de base tecnológica;
+
+XLII.- Apoyar a las autoridades educativas estatales para el impulso de la educación normal en el estado, específicamente en la formación de profesores en lenguas extranjeras, ciencia, investigación, tecnología y humanidades;
+
+XLIII.- Llevar el registro de centros de investigación establecidos en la entidad;
+
+XLIV.- Fomentar el desarrollo tecnológico y la innovación en las áreas estratégicas y prioritarias en la entidad;
+
+XLV.- Elaborar, implementar y evaluar los planes, programas y estrategias en materia de Humanidades, Ciencias, Tecnologías e Innovación, en concordancia con el Plan Estatal de Desarrollo y los proyectos prioritarios en la entidad;
+
+XLVI.- Fomentar la generación, divulgación y difusión de estudios, avances y logros científicos, en materia de ciencia, tecnología, innovación y vinculación en el estado;
+
+XLVII.- Promover la participación de las comunidades científica y tecnológica del Estado, en la toma de decisiones relativas al impulso y al desarrollo científico y tecnológico, la innovación y la vinculación;
+
+XLVIII.- Promover la creación de centros de investigación en el marco de los objetivos de la política científica, tecnológica, de innovación y de vinculación del Estado y en áreas estratégicas para impulsar su desarrollo;
+
+XLIX.- Fomentar las relaciones en materia de ciencia, tecnología, innovación y vinculación con otras entidades de la República y el extranjero;
+
+L.- Estimular la transferencia tecnológica, el patentamiento, el emprendimiento y la constitución de empresas de base científica y tecnológica, y el fomento de ecosistemas de innovación abiertos que contribuyan a la atención y solución de problemáticas estatales;
+
+LI.- Incentivar y facilitar el acceso abierto a la información derivada de la investigación humanística y científica, el desarrollo tecnológico y la innovación financiadas por el Estado, garantizando la protección de la información, la propiedad intelectual y los derechos de autor, de conformidad con la ley, y
+
+LII.- Las demás que establezcan este código, su reglamento y demás disposiciones legales y normativas aplicables.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
@@ -3932,3 +4028,63 @@ Artículo décimo primero. El Gobernador, en la elaboración del proyecto de Pre
 Titulares de las dependencias
 
 Artículo décimo segundo. Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el Secretario de Desarrollo Social y el Secretario de Obras Públicas, que hasta antes de la entrada en vigor de este decreto se desempeñaban como tales, continuarán como Secretario de Bienestar y Secretario de Infraestructura para el Bienestar, respectivamente, a partir de la entrada en vigor de este decreto y concluirán sus cargos en los términos de sus nombramientos.
+
+D.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 33/2024 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE ECONOMÍA, CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN Y FORTALECIMIENTO DE LA EDUCACIÓN SUPERIOR EN EL ESTADO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación
+
+A partir de la entrada en vigor de este decreto, se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+Tercero. Obligación normativa
+
+El Gobernador deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, para armonizarlo en lo conducente a las disposiciones de este decreto, dentro de los ciento ochenta días naturales siguientes contados a partir de su entrada en vigor.
+
+Cuarto. Adecuaciones internas
+
+Los titulares de las dependencias deberán realizar los ajustes a su normatividad interna, así como a los trámites que presten a la ciudadanía para ajustarse al contenido de este decreto.
+
+Quinto. Continuidad presupuestaria
+
+Los recursos financieros que sean indispensables para la rectoría de la educación superior asignados en el Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal 2024 serán transferidos a la Secretaría de Ciencia, Humanidades, Tecnología e Innovación.
+
+Sexto. Movimiento de personal
+
+El personal de las dependencias que por disposición de la modificación contenida en este decreto pase a formar parte de otra, estará a lo dispuesto en las disposiciones legales y normativas aplicables, en estricto apego a sus derechos laborales.
+
+Séptimo. Gabinete sectorizado
+
+El Gobernador deberá establecer un esquema de trabajo entre las dependencias y entidades de la Administración Pública Estatal, en los términos del artículo 15 del Código de la Administración Pública de Yucatán.
+
+Octavo. Destino de recursos
+
+El Gobernador, por medio de la Secretaría de Administración y Finanzas, dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados a las dependencias a las que se refiere este decreto.
+
+Noveno. Referencias
+
+Cuando en las leyes estatales, sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia a la Secretaría de Fomento Económico y Trabajo o al Secretario de Fomento Económico y Trabajo, se entenderá que se refieren, en todos los casos, a la Secretaría de Economía y Trabajo o al Secretario de Economía y Trabajo en la entidad; y las referencias a la Secretaría de Investigación, Innovación y Educación Superior o al Secretario de Investigación, Innovación y Educación Superior, se entenderá que se refieren, a la Secretaría de Ciencia, Humanidades, Tecnología e Innovación o al Secretario de Ciencia, Humanidades, Tecnología e Innovación, excepto cuando hagan referencia a la Secretaría de Investigación, Innovación y Educación Superior o al Secretario de Investigación, Innovación y Educación Superior, como rector de la política en materia de educación superior, en cuyo caso la referencia se entenderá hecha a la Secretaría de Educación del Gobierno del Estado de Yucatán o al Secretario de Educación del Gobierno del Estado de Yucatán, según corresponda.
+
+Décimo. Actos en trámite
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos, que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto realizados por la Secretaría de Fomento Económico y Trabajo serán asumidos por la Secretaría de Economía y Trabajo; y los realizados por la Secretaría de Investigación, Innovación y Educación Superior, serán asumidos por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, a excepción de los que se refieran a educación superior, que serán asumidos por la Secretaría de Educación del Gobierno del Estado de Yucatán, de conformidad con las disposiciones legales y normativas aplicables.
+
+Décimo primero. Cumplimiento de disposiciones
+
+Las disposiciones de las leyes vigentes que, sin oponerse a lo previsto en este decreto, se refieran a las dependencias de la Administración Pública estatal cuya denominación o atribuciones hayan sido modificadas, continuarán con toda su obligatoriedad y deberán cumplirse por las nuevas dependencias que, en el marco de este decreto, tengan atribuciones iguales o análogas.
+
+Décimo segundo. Resolución de casos no previstos
+
+Se faculta al Gobernador para resolver las cuestiones que puedan suscitarse con motivo de la aplicación del artículo transitorio anterior.
+
+Décimo tercero. Previsiones presupuestales
+
+El Gobernador, en la elaboración del proyecto de presupuesto de egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para el debido funcionamiento de las dependencias a las que se refiere este decreto.
+
+Décimo cuarto. Titulares de las dependencias
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, el Secretario de Fomento Económico y Trabajo y la Secretaría de Investigación, Innovación y Educación Superior, que hasta antes de la entrada en vigor de este decreto se desempeñaban como tales, continuarán como Secretario de Economía y Trabajo y Secretaría de Ciencia, Humanidades, Tecnología e Innovación, respectivamente, a partir de la entrada en vigor de este decreto y concluirán sus cargos en los términos de sus nombramientos.
