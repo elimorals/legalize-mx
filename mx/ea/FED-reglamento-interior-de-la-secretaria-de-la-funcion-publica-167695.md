@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-1676
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-09-04"
-last_updated: "2024-04-24"
+last_updated: "2024-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2023-08-31"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO FRACCIÓN I DEL REGLAMENTO INTERIOR DE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO, PUBLICADO EN EL D.O.F. DE 31 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 4 de septiembre de 2023.
 
@@ -7026,3 +7028,39 @@ SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del pr
 TERCERO. La persona titular de la Secretaría de la Función Pública deberá expedir el Manual de Organización General de la Secretaría y ordenar su publicación en el Diario Oficial de la Federación.
 
 Asimismo, deberá expedir los manuales de procedimientos y, en su caso, de servicios al público, de la Secretaría, con posterioridad a la entrada en vigor del Manual de Organización General de la Secretaría que expida en términos del párrafo anterior.
+
+D.O.F. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO”.]
+
+Primero. El presente Reglamento entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abrogan las disposiciones siguientes:
+
+I. Reglamento Interior de la Secretaría de la Función Pública, publicado en el Diario Oficial de la Federación el 4 de septiembre de 2023 y su modificación posterior;
+
+II. Protocolo de Actuación para remover a los servidores públicos de la Secretaría de la Función Pública, publicado en el Diario Oficial de la Federación el 6 de enero de 2023;
+
+III. Acuerdo por el que se delega la facultad del Secretario de la Función Pública en materia de información reservada y confidencial, publicado en el Diario Oficial de la Federación el 16 de julio de 2024, y
+
+IV. Aquellas disposiciones que se opongan a lo establecido en el presente instrumento.
+
+Tercero. Los recursos humanos, financieros, tecnológicos y materiales de las unidades de Planeación e Investigaciones de Mercado, de Compras y Contrataciones Públicas Consolidadas, y de Gobierno de las Unidades de Administración y Finanzas, que sean necesarios para el ejercicio de las funciones que la Ley Orgánica de la Administración Pública Federal confiera a la Secretaría de Hacienda y Crédito Público serán transferidos a la Subsecretaría de Egresos de la citada dependencia.
+
+Los recursos humanos, financieros y materiales con que actualmente cuentan las direcciones de Datos Abiertos y de Gobierno Abierto y Obligaciones de Transparencia, serán transferidos a la Agencia de Transformación Digital y Telecomunicaciones.
+
+Cuarto. Los asuntos que se encuentren en trámite ante las unidades administrativas de la Secretaría cuyas atribuciones se transfieran a otras con motivo de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por estas últimas de conformidad con las disposiciones jurídicas aplicables.
+
+Para efectos de lo anterior, los sistemas relacionados con las referidas atribuciones se deberán transferir en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Las alertas que se encuentren en trámite con anterioridad a la entrada en vigor al presente Reglamento, serán concluidas conforme a las disposiciones aplicables vigentes a su inicio y aquellas que resulten aplicables.
+
+Quinto. Dentro de los 30 días siguientes a la entrada en vigor del presente decreto, la Unidad de Asuntos Jurídicos podrá remitir a la Unidad de Combate a la Impunidad o a los órganos internos de control los asuntos penales que se encuentren en trámite, para su atención y conclusión, atendiendo a la naturaleza de los hechos, la gravedad del asunto o el daño patrimonial.
+
+Durante el plazo a que se refiere el párrafo anterior, la Unidad de Asuntos Jurídicos podrá ejercer las atribuciones otorgadas en el reglamento que se abroga, para la atención de los asuntos a transferir.
+
+Sexto. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+Séptimo. A la entrada en vigor del presente Reglamento, las atribuciones previstas en los numerales 18, fracción III, inciso b) y 23, fracción VIII, de los Lineamientos en materia de Austeridad Republicana de la Administración Pública Federal, publicados en el Diario Oficial de la Federación el 18 de septiembre de 2020, serán ejercidas por la Subsecretaría de Egresos de la Secretaría de Hacienda y Crédito Público.
+
+Octavo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a la estructura orgánica y al ejercicio de las atribuciones conferidas a las unidades administrativas de la Secretaría Anticorrupción y Buen Gobierno, deben cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizan ampliaciones al presupuesto regularizable de dicha dependencia.
