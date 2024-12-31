@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2024-01-16"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -295,9 +293,11 @@ Cuando no se cumplan las obligaciones previstas en esta Ley, la Autoridad Fiscal
 
 Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán informar a la Autoridad Fiscal Estatal de las autorizaciones que otorguen a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-En los casos en que no se garantice el pago del impuesto, los interventores deberán retener al concluir el evento, el pago del impuesto correspondiente, así como la multa estipulada en el artículo 106 fracción I párrafo tercero del Código Fiscal del Estado, expidiendo un recibo provisional con el fin de que el mismo sea canjeado al siguiente día hábil por el recibo oficial respectivo en la oficina fiscal que le corresponda.
+En los casos en que no se garantice el pago del impuesto, los interventores deberán retener al concluir el evento, el pago del impuesto correspondiente, así como la multa estipulada en el artículo 121 fracción I párrafo tercero del Código Fiscal del Estado Número 420, expidiendo un recibo provisional con el fin de que el mismo sea canjeado al siguiente día hábil por el recibo oficial respectivo en la oficina fiscal que le corresponda.
 
 ###### ARTÍCULO 28.
 
@@ -433,11 +433,11 @@ La federación, el Estado, los municipios, los organismos autónomos, descentral
 
 Quienes contraten servicios de contribuyentes con domicilio fiscal fuera del territorio del Estado, tendrán la obligación de retener y enterar el Impuesto que se genere por las remuneraciones pagadas por el trabajo personal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 42.
 
-Las personas propietarias de inmuebles que contraten los servicios de personas físicas o morales para obras de construcción, están obligadas a informar a la Secretaría de Finanzas y Administración dentro de los 30 días siguientes a la fecha de iniciación de operaciones, el tipo del servicio contratado, debiendo acompañar el aviso a que se refiere la fracción III del artículo 87 del Código Fiscal del Estado de Guerrero Número 420. En caso de incumplimiento, serán responsables solidarios del crédito que se determine para el pago del impuesto a que se refiere este Capítulo.
+Las personas propietarias de inmuebles que contraten los servicios de personas físicas o morales para obras de construcción, están obligadas a informar a la Secretaría de Finanzas y Administración dentro de los 30 días siguientes a la fecha de iniciación de operaciones, el tipo del servicio contratado, debiendo acompañar el aviso a que se refiere las fracciones II y III del artículo 87 del Código Fiscal del Estado de Guerrero Número 420. En caso de incumplimiento, serán responsables solidarios del crédito que se determine para el pago del impuesto a que se refiere este Capítulo.
 
 ###### ARTÍCULO 43.
 
@@ -447,9 +447,11 @@ Dependiendo del tipo de obra de que se trate, la base será la que resulte de mu
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 24 A LA 26.]</small>
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 44.
 
-El impuesto se determinará aplicando la tasa del 2%.
+El impuesto se determinará aplicando la tasa del 3%.
 
 ###### ARTÍCULO 45.
 
@@ -631,9 +633,9 @@ I. Hoteles, moteles, tiempo compartido o multipropiedad, campamentos, hosterías
 
 II. Casas o departamentos, enteros o por habitaciones privadas o compartidas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-De los ingresos que se generen por la recaudación de este Impuesto, el 50 por ciento serán destinados al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos, y el otro 50 por ciento destinada (sic) a la Secretaría de Finanzas y Administración del estado para los gastos de operación y vigilancia en el cobro de este impuesto.
+De los ingresos que se generen por la recaudación de este Impuesto, el 25 por ciento serán destinados al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos. Asimismo, el 50 por ciento se destinará a la Oficialía Mayor para atender la infraestructura de los destinos turísticos del estado de Guerrero. Finalmente, el 25 por ciento será destinado a la Secretaría de Finanzas y Administración del estado de Guerrero, para los gastos de operación y vigilancia en el cobro de este impuesto.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
 
@@ -667,13 +669,15 @@ Tratándose de los servicios proporcionados bajo el sistema de tiempo compartido
 
 Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo que al respecto establezca la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 60.
 
-El pago de este impuesto se determinará aplicando a la base gravable, la tasa del 3%.
+El pago de este impuesto se determinará aplicando a la base gravable, la tasa del 4%.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Tratándose de Alojamiento Turístico Eventual se calculará aplicando a la base gravable, la tasa del 4%.
+Tratándose de Alojamiento Turístico Eventual se calculará aplicando a la base gravable, la tasa del 5%.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
 
@@ -707,9 +711,9 @@ II. Enterar el impuesto sobre hospedaje que se haya pagado a través de las plat
 
 III. Presentar declaraciones de manera agregada hasta en tanto no presente el aviso de baja al registro o de suspensión temporal de actividades.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 62 TER], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-ARTÍCULO 62 TER.- La Secretaría de Administración y Finanzas emitirá reglas de carácter general donde reglamente la forma de inscripción, suspensión de registro y cancelación de registro ante el Registro Estatal de Contribuyentes de persona física o moral en su carácter de intermediario, promotor o facilitador.
+ARTÍCULO 62 BIS 1.- La Secretaría de Finanzas y Administración del estado de Guerrero, emitirá reglas de carácter general en las cuales reglamentará la forma de inscripción, suspensión de registro y cancelación de registro ante el Registro Estatal de Contribuyentes de persona física o moral en su carácter de intermediario, promotor o facilitador.
 
 ### CAPÍTULO IX
 
@@ -775,7 +779,9 @@ El impuesto será la cantidad que resulte de aplicar al valor total del vehícul
 
 I.- Para automóviles nuevos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
 
-II.- Para automóviles nuevos, cuyo peso bruto vehicular sea de 15 o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50 al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II.- Para automóviles nuevos cuyo peso bruto vehicular sea de 15 o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto vehicular expresado en toneladas entre 30.
 
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
@@ -1061,6 +1067,40 @@ III. Inscribirse al Registro Estatal de Contribuyentes ante la Administración o
 
 IV. Expedir comprobantes fiscales que reúnan los requisitos previstos en el Código Fiscal del Estado, por las contraprestaciones recibidas.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN IV. IMPUESTO CEDULAR POR SERVICIOS NOTARIALES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 84 BIS III.- Son sujetos de este impuesto las personas físicas que realicen dentro del territorio del estado de Guerrero, actividades de notaría o correduría pública.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 84 BIS IV.- Es objeto de este impuesto, los ingresos por honorarios que por la prestación de servicios notariales y de correduría pública se perciban en el estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 84 BIS V.- Es base de este impuesto, el importe de los ingresos por honorarios que perciban los sujetos del mismo, en ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 84 BIS VI.- Este impuesto se pagará y recaudará aplicando la tasa del cinco por ciento sobre el total de los ingresos por honorarios percibidos por las notarias o los notarios y corredores públicos en el estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 84 BIS VII.- Las personas contribuyentes a que se refiere este capítulo efectuarán pagos mensuales mediante declaración, a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda el impuesto, en las instituciones de crédito u oficinas autorizadas.
+
+El entero mensual será definitivo y se determinará multiplicando la tasa del cinco por ciento a la totalidad de los ingresos obtenidos en el mes de que se trate.
+
+La autoridad fiscal podrá determinar presuntivamente el monto de este impuesto, en los casos siguientes:
+
+I. Cuando del resultado del inicio de facultades de la autoridad fiscalizadora, se ponga de manifiesto que su ingreso es superior en más de un veinte por ciento al declarado, y
+
+II. Para determinar presuntivamente, se tendrán en cuenta las actividades realizadas por la persona contribuyente, los documentos, los protocolos y apéndices relativos, y sistemas en los que consten éstas o utilice para su registro, los honorarios usuales por servicios similares, depósitos en cuentas bancarias y otros datos que puedan utilizarse.
+
+A los ingresos determinados conforme a las fracciones anteriores se aplicará la tasa del cinco por ciento.
+
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
 ### CAPÍTULO I
@@ -1087,7 +1127,9 @@ Tratándose de los Derechos de Control Vehicular, los pagos se realizarán confo
 
 a).- Los derechos por el refrendo anual de la tarjeta de circulación, se pagarán dentro de los tres primeros meses del ejercicio fiscal de que se trate.
 
-b).- Los derechos por el canje de placas y tarjeta de circulación de motocicletas, motonetas y similares, se pagarán dentro de los tres primeros meses del ejercicio fiscal de que se trate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+b).- Los derechos por el canje de placas y tarjeta de circulación de automóviles, camiones, camionetas, autobuses, microbuses, remolques y similares; así como motocicletas, motonetas y similares, se pagarán dentro de los tres primeros meses del ejercicio fiscal de que se trate.
 
 c).- En el caso de vehículos nuevos o importados el derecho por la expedición inicial de placas, tarjeta de circulación y calcomanía, deberá pagarse dentro de los 30 días siguientes a aquel en que se adquirió o importó el vehículo.
 
@@ -1095,7 +1137,9 @@ c).- En el caso de vehículos nuevos o importados el derecho por la expedición 
 
 a).- Los derechos por el refrendo anual de matrícula, renovación anual de concesión, primera revista electromecánica y de confort, se pagarán dentro de los tres primeros meses del ejercicio fiscal de que se trate.
 
-b).- Los derechos por canje de placas y tarjeta de circulación de motocicletas, bicicletas y calandrias, se pagarán dentro de los tres primeros meses del ejercicio fiscal de que se trate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+b). Los derechos por canje de placas y tarjeta de circulación de automóviles, camiones, camionetas, autobuses, microbuses, remolques y similares; así como motocicletas, bicicletas y calandrias, se pagarán dentro de los tres primeros meses del ejercicio fiscal de que se trate.
 
 c).- Los demás derechos por servicios señalados en la presente ley, se causarán al momento en que el concesionario del servicio público, solicite la prestación del servicio.
 
@@ -1293,7 +1337,9 @@ C).- Por canje de placas o reposición por cualquier circunstancia 6.81
 
 II.- Por el refrendo anual de la tarjeta de circulación 1.5
 
-III.- Por la expedición inicial, reposición por extravío o deterioro y canje de placas y tarjeta de circulación de:
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III. Por la expedición inicial, reposición por extravío o deterioro y canje de placas y tarjeta de circulación de:
 
 A).- Motocicletas, motonetas y similares 3.84
 
@@ -1479,7 +1525,7 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 5 A 6.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 10 A LA 12; 16 DE ENERO DE 2018, PÁGINA 6; 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 12 A LA 14; 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 13 A LA 16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 10 A LA 12; 16 DE ENERO DE 2018, PÁGINA 6; 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 13 A LA 15; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 12 A LA 14; 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 13 A LA 16; P.O. 31 DE DICIEMBRE DE 2024, PÁGINA 41.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
@@ -1599,9 +1645,9 @@ No se causarán los impuestos adicionales a que se refieren los artículos 51 en
 
 11.- Rectificación Administrativa 7.25
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-12.- Expedición de actas del Registro Civil por Kioscos de Servicios electrónicos y actas en línea $90.00 pesos.
+12.- Expedición de actas del Registro Civil por kioscos de servicios electrónicos y actas en línea $100.00 pesos.
 
 13.- Por la Nulidad y Cancelación de Registro de Nacimiento Duplicado 14.50
 
@@ -1863,7 +1909,7 @@ III.- LOS ESTABLECIMIENTOS QUE REALICEN ALGUNA DE LAS SIGUIENTES ACTIVIDADES, PO
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE 9 A LA 10.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 16; P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 18 A LA 21.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 16; P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 18 A LA 21; P.O. 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 15 A LA 17.]</small>
 
 IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2023,93 +2069,81 @@ VI.- Análisis, revisión y emisión de modalidad 5.0
 
 ARTÍCULO 113 BIS.- Por los trámites de recepción, evaluación, registro, divulgación, ejecución y actualización de los planes de manejo en materia de Residuos Sólidos Urbanos y/o de Manejo Especial, se autoriza el cobro de las siguientes tarifas, que se calculan en Unidad de Medida y Actualización vigente:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I.- Por los trámites de recepción, evaluación y registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial, categoría generadores.
+I.- Por los trámites de recepción, evaluación y registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial, categoría generadores:
 
-A los generadores de 27.3 a 100 Kg/día 50.00
-
-A los generadores de 101 a 200 Kg/día 95.00
-
-A los generadores a partir de 201 a 500 Kg/día 130.00
-
-A los generadores de 80 a 300 m3/obra Residuos de construcción 115.00
-
-A los generadores a partir de 300 m3/obra Residuos de construcción 195.00
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-A los generadores a partir de 500 Kg/día 150.00
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-A las tiendas departamentales, tiendas de autoservicio, plazas comerciales, hospitales, embotelladoras 115.00
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-A los generadores de residuos no peligrosos en mineras 200.00
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-II.- Por los tramites de recepción, evaluación y registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial, categoría prestadores de servicios de manejo integral de residuos sólidos urbanos y de manejo especial (recolección, transporte, acopio, reutilización, reciclaje, coprocesamiento).
-
-Recolección, Transporte, Acopio, compra y venta de 1 a 500 kg/día 45.00
-
-Recolección, Transporte, Acopio, compra y venta de 501 en adelante kg/día 90.00
-
-Recolección y Transporte empresas foráneas 90.00
-
-Reutilización, Reciclaje, Coprocesamiento, Tratamiento 60.00
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-III.- Por los trámites para Expedición de Constancia de Factibilidad de predio para Construcción de Relleno Sanitario, 330.00
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-IV.- Por los trámites para la expedición de la licencia ambiental de funcionamiento, fuentes fijas de jurisdicción estatal. 60.00
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-V.- Por la cédula de operación anual estatal, fuentes fijas de jurisdicción estatal. 35.00
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-VI.- Por la revalidación del registro de Plan de Manejo de Residuos Sólidos Urbanos y de Manejo Especial:
-
-A los generadores de 27.3 a 100 Kg/día 40.00
+A los generadores de 27.3 a 100 Kg/día 35.00
 
 A los generadores de 101 a 200 Kg/día 70.00
 
-A los generadores de 201 a 500 Kg/día 98.0
+A los generadores a partir de 201 a 500 Kg/día 91.00
 
-A los generadores de 80 a 300 m3/obra Residuos de construcción 83.00
+A los generadores de 80 a 300 m3/obra Residuos de construcción 75.00
 
-A los generadores de 300 m3/obra Residuos de construcción 134.00
+A los generadores a partir de 300 m3/obra Residuos de construcción 140.00
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+A los generadores a partir de 500 Kg/día 90.00
 
-A los generadores de a partir de 500 Kg/día 110.00
+A las tiendas departamentales, tiendas de autoservicio, plazas comerciales, hospitales y embotelladoras 85.00
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+A los generadores de residuos no peligrosos en mineras 200.00
 
-A las tiendas departamentales, tiendas de autoservicio, plazas comerciales, hospitales, embotelladoras 85.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+II.- Por los trámites de recepción, evaluación y registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial, categoría prestadores de servicios de manejo integral de residuos sólidos urbanos y de manejo especial (recolección, transporte, acopio, reutilización, reciclaje y coprocesamiento):
+
+Recolección, Transporte, Acopio, compra y venta de 1 a 500 kg/día 33.00
+
+Recolección, Transporte, Acopio, compra y venta de 501 en adelante kg/día 90.00
+
+Recolección y Transporte empresas foráneas 70.00
+
+Reutilización, Reciclaje, Coprocesamiento, Tratamiento 40.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III.- Por los trámites para Expedición de Constancia de Factibilidad de predio para Construcción de Relleno Sanitario, 217.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IV.- Por los trámites para la expedición de la licencia ambiental de funcionamiento, fuentes fijas de jurisdicción estatal, 55.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V.- Por la cédula de operación anual estatal, fuentes fijas de jurisdicción estatal, 32.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VI.- Por la revalidación del registro de Plan de Manejo de Residuos Sólidos Urbanos y de Manejo Especial:
+
+A los generadores de 27.3 a 100 Kg/día 29.00
+
+A los generadores de 101 a 200 Kg/día 48.00
+
+A los generadores de 201 a 500 Kg/día 70.0
+
+A los generadores de 80 a 300 m3/obra Residuos de construcción 60.00
+
+A los generadores de 300 m3/obra Residuos de construcción 100.00
+
+A los generadores de a partir de 500 Kg/día 68.00
+
+A las tiendas departamentales, tiendas de autoservicio, plazas comerciales, hospitales y embotelladoras 52.00
 
 A los generadores de residuos no peligrosos en mineras 155.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VII.- Por la revalidación del registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial. Categoría prestadores de servicios de manejo integral de residuos sólidos urbanos y de manejo especial (recolección, transporte, acopio, reutilización, reciclaje, coprocesamiento y tratamiento).
+VII.- Por la revalidación del registro de Plan de Manejo de Residuos Sólidos Urbanos y/o de Manejo Especial. Categoría prestadores de servicios de manejo integral de residuos sólidos urbanos y de manejo especial (recolección, transporte, acopio, reutilización, reciclaje, coprocesamiento y tratamiento):
 
-Recolección, Transporte, Acopio, compra y venta de 1 a 500 kg/día 38.00
+Recolección, Transporte, Acopio, compra y venta de 1 a 500 kg/día 27.00
 
-Recolección, Transporte, Acopio, compra y venta de 501 en adelante kg/día 70.00
+Recolección, Transporte, Acopio, compra y venta de 501 en adelante kg/día 65.00
 
-Recolección y Transporte empresas foráneas 75.00
+Recolección y Transporte empresas foráneas 55.00
 
-Reutilización, Reciclaje, Coprocesamiento, Tratamiento. 48.00
+Reutilización, Reciclaje, Coprocesamiento, Tratamiento 35.00
 
 ###### ARTÍCULO 114.
 
@@ -2333,13 +2367,13 @@ El pago por este Derecho se realizará conforme al Tabulador que publique en el 
 
 Por la autorización e inscripción al Registro Estatal de Peritos Valuadores de bienes inmuebles, para fines fiscales se pagará en tarifa expresada en Unidades de Medida y Actualización:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I.- Inscripción Inicial 41.2 UMA´s
+I. Inscripción Inicial 170.0 UMA´s
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II.- Refrendo Anual 19.0 UMA´s
+II. Refrendo Anual 58.0 UMA´s
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -2547,31 +2581,25 @@ V.- Por los servicios análogos que se relacionan con el cumplimiento de su obje
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 115 A LA 116.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 11 A LA 12; 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 22 A LA 23.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 11 A LA 12; 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 22 A LA 23; P.O. 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 19 A LA 20.]</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 VI.- Por los servicios de seguridad y vigilancia interior y exterior de lugares y establecimientos públicos y privados de seguridad y vigilancia de eventos públicos y de particulares en modalidad de guardia blanca:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+a). Por un elemento con servicio de 12 horas con un día de descanso por semana, 120 Unidades de Medida y Actualización, mensuales;
 
-a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 115.00 Unidades de Medida y Actualización, mensuales;
+b). Por dos elementos alternados con servicios de 24 horas, 240 Unidades de Medida y Actualización, mensuales;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+c). Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 8 Unidades de Medida y Actualización diarios, y
 
-b).- Por dos elementos alternados con servicios de 24 horas, 230.00 Unidades de Medida y Actualización, mensuales;
+d). Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 8 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 16 Unidades de Medida y Actualización diarios, por servicio de 24 horas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 7.00 Unidades de Medida y Actualización diarios.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 7.00 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 14.00 Unidades de Medida y Actualización diarios, por servicio de 24 horas.
-
-Cuando el contratante de servicio no cubra en tiempo y forma el pago correspondiente serán objeto del cobro de recargos y actualizaciones, conforme los artículos 141 y 142 de la presente Ley.
+Cuando la persona usuaria contratante no cubra en tiempo y forma el pago correspondiente serán objeto del cobro de recargos y actualizaciones, conforme a los artículos 141 y 142 de la presente Ley.
 
 Para los efectos a que se contrae el presente artículo, los pagos que tengan la característica de ser mensuales, se realizarán a más tardar el día 17 del mes en que se preste el servicio.
 
-Por cada uno de los servicios establecidos en el presente artículo; el solicitante del servicio deberá haber cubierto el pago de impuestos federales a que haya lugar.
+Por cada uno de los servicios establecidos en el presente artículo, la persona solicitante del servicio deberá haber cubierto el pago de impuestos federales a que haya lugar.
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
@@ -2809,7 +2837,15 @@ Las mismas cuotas y tarifas serán aplicables por la expedición de los document
 
 ARTÍCULO 136 BIS.- Por el trámite de expedición de Licencia para agentes inmobiliarios $ 3,000.00.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XVIII. DERECHOS POR SERVICIOS PROPORCIONADOS DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, PESCA Y DESARROLLO RURAL
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 136 BIS I.- Por los Derechos por Servicios Prestados que soliciten a la Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural, se cobrarán en UMAS los conceptos siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 41 A LA 42.]</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -2931,19 +2967,15 @@ VI.- Productos diversos
 
 a).- Las leyes, libros y demás publicaciones tendrán el precio que señale el Ejecutivo del Estado mediante disposición expresa.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones o formas valoradas digitales que se suministren en las oficinas fiscales, las que serán provistas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-Formato (folios digítales) de permiso para circular sin placas a los H. Ayuntamientos por 30 días, 3.00 UMAS. Estas formas valoradas deberán adquirirse por los H. Ayuntamientos en las administraciones o agencias fiscales, de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del estado.
+Formato (folio digital) de permiso provisional para circular sin placas por 30 días, a los H. Ayuntamientos Municipales, 1.50 UMAS. Estas formas valoradas deberán adquirirse por los H. Ayuntamientos Municipales en las administraciones o agencias fiscales estatales, dependientes de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del gobierno del estado.
 
 La Secretaría de Finanzas y Administración proveerá y controlará los formatos utilizados para la prestación de los diversos servicios a cargo de la Dirección General del Registro Público de la Propiedad y del Comercio.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-Formato (folios digitales) de permiso para manejar vehículos a los H. Ayuntamientos 4.82 UMAS Estas formas valoradas deberán adquirirse por los H. Ayuntamientos en las administraciones o agencias fiscales, de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del gobierno del estado.
+Formato (folio digital) de licencia estatal homologada para manejar vehículos, a los H. Ayuntamientos Municipales 1.50 UMAS. Estas formas valoradas digitales deberán adquirirse por los H. Ayuntamientos Municipales en línea a través del portal de la Secretaría de Finanzas y Administración o por los mecanismos que para tal efecto establezca dicha Secretaría.
 
 c).- Los particulares que necesiten trabajos de la imprenta solicitarán autorización directamente de la Secretaría de Finanzas y Administración, misma que fijará su costo el cual se pagará en la Oficina Fiscal respectiva, en cuyo recibo indicará la ejecución del trabajo.
 
@@ -2979,7 +3011,9 @@ El gobierno del Estado percibirá ingresos como Aprovechamiento por los siguient
 
 I.- Recargos sobre contribuciones omitidas actualizadas, cuando las contribuciones no se cubran en los plazos establecidos por las disposiciones fiscales, se cobrarán recargos como indemnización al fisco estatal por falta de pago oportuno, en el mismo porcentaje que la federación aplique sobre contribuciones federales, por cada mes o fracción transcurridos.
 
-II.- Multas fiscales, judiciales y administrativas por violaciones a la Legislación Fiscal, en los montos que determine el Código Fiscal del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II.- Multas fiscales, judiciales y administrativas por violaciones a la Legislación Fiscal, en los montos que determine el Código Fiscal del Estado de Guerrero Número 420. Así mismo, quedan comprendidas en esta fracción las multas aplicadas a través de dispositivos tecnológicos, por infracción a la normatividad en materia de tránsito y vialidad estatal.
 
 III.- Rezagos de cuentas correspondientes a ejercicios fiscales anteriores, concesiones, contratos, reintegros, indemnizaciones, cancelaciones de contratos, donativos, subsidios, cauciones cuyas pérdidas se declaren por resolución firme a favor del Gobierno del Estado, cooperación de los municipios para el sostenimiento de los Centros de Readaptación Social del Estado, y Gastos de Requerimiento y Ejecución.
 
@@ -2987,13 +3021,15 @@ IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2019)
 
 V).- Otros.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 142.
 
-Para los efectos del pago de las multas que se impongan, ya sean del orden judicial o administrativo, los funcionarios o empleados que las establezcan lo comunicarán oficialmente a las oficinas recaudadoras para hacerlas efectivas, expresando el nombre del infractor, lugar de su residencia, concepto e importe de la multa, mismas que se pagarán en las oficinas o por los medios autorizados.
+Para los efectos del pago de las multas que se impongan, ya sean del orden judicial o administrativo, las personas funcionarias o empleadas que las establezcan comunicarán oficialmente a las oficinas recaudadoras para hacerlas efectivas, expresando el nombre de la persona infractora, lugar de su residencia, concepto e importe de la multa, mismas que se pagarán en las oficinas o por los medios autorizados.
 
-Las multas que impongan las autoridades de transporte se atendrán a lo siguiente:
+Las multas que impongan las autoridades de tránsito y transportes, se atendrán a lo siguiente:
 
-Se harán constar en la forma impresa autorizada por la Secretaría de Finanzas y Administración, como lo señala el Reglamento de la Ley de Transporte y Vialidad.
+Se harán constar en la forma impresa autorizada por la Secretaría de Finanzas y Administración, como lo señala el Reglamento de la Ley de Transporte y Vialidad del Estado de Guerrero.
 
 ## TÍTULO QUINTO. PARTICIPACIONES EN INGRESOS FEDERALES
 
@@ -3049,7 +3085,7 @@ Las Tesorerías Municipales serán responsables de realizar el entero mensual de
 
 ## TÍTULO SEXTO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
-### CAPÍTULO I. IMPUESTOS SOBRE PRODUCTOS AGRÍCOLAS
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 145.
 
@@ -3073,9 +3109,7 @@ h) Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas.
 
 ## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
-### CAPÍTULO II
-
-IMPUESTO SOBRE COMPRAVENTA DE GANADO Y SUS ESQUILMOS.
+### CAPÍTULO I. IMPUESTOS SOBRE PRODUCTOS AGRÍCOLAS
 
 ###### ARTÍCULO 146.
 
@@ -3177,6 +3211,56 @@ Por la prestación de los servicios proporcionados por la Universidad Tecnológi
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 77 A LA 78; 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 82 A LA 83; 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 16 A LA 17.]</small>
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 151 BIS.- Por la prestación de los servicios proporcionados por la Universidad Tecnológica de la Tierra Caliente, se aplicarán las siguientes tarifas:
+
+CONCEPTO Tarifa (Pesos)
+
+TSU ING
+
+Inscripción $400.00 $450.00
+
+Reinscripción $400.00 $450.00
+
+Anual
+
+Colegiatura Mensual $275.00 $450.00
+
+Credencial Estudiantil $50.00 $50.00
+
+Seguro Colectivo $200.00 $200.00
+
+Reposición $60.00 $60.00
+
+de Credencial
+
+Constancia de Estudios $35.00 $35.00
+
+Exámenes Extraordinarios $100.00 $100.00
+
+Examen Adicional $250.00 $250.00
+
+Examen Ceneval $280.00 -
+
+Cambio de Carrera $365.00 -
+
+Reposición de Cardex $35.00 $35.00
+
+Certificado Parcial $250.00 $250.00
+
+Revalidación de Materias $1,500.00 $1,500.00
+
+Cobro por retardo de pago $5.00 $10.00
+
+(por día)
+
+Incumplimiento de Carta $20.00 $40.00
+
+Compromiso (por día)
+
+Tramite de Titulación $1,400.00 $1,400.00
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 152.
@@ -3185,27 +3269,29 @@ Por la prestación de los servicios proporcionados por el Sistema para el Desarr
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 25 A LA 31.]</small>
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 153.
+###### ARTÍCULO 153.
 
-Por la prestación de los servicios proporcionados por la Promotora y Administradora de los Servicios de Playa de la Zona Federal Marítimo Terrestre de Zihuatanejo, se aplicarán las siguientes tarifas:
+Por la prestación de los servicios proporcionados por la Promotora y Administradora de los Servicios de Playa de la Zona Federal Marítimo Terrestre de Zihuatanejo, se aplicarán las tarifas siguientes:
 
-Concepto (Renta de Mobiliario) Costo (pesos)
+CONCEPTO TARIFA (Pesos)
 
-Paquete Toldo con 5 Sillas y 1 mesa 190.00
+TOLDO CON 5
 
-Paquete Sombrilla con 3 Sillas y 1 mesa 120.00
+SILLAS Y 1 MESA $275.00
 
-Toldo 90.00
+SOMBRILLA CON 4
 
-Sombrilla 50.00
+SILLAS Y 1 MESA $270.00
 
-Mesa 25.00
+SILLA $30.00
 
-Silla 15.00
+CAMASTRO $50.00
 
-Camastro 40.00
+MESA $45.00
+
+SOMBRILLA $65.00
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
@@ -3369,19 +3455,21 @@ ARRENDAMIENTO $ 3,317.00
 
 Las tarifas no incluyen el Impuesto al Valor Agregado (IVA).
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 157.
 
-Por la prestación de los servicios proporcionados por “La Avispa” Museo Interactivo, se aplicarán las siguientes tarifas:
+Por la prestación de los servicios proporcionados por “La Avispa” Museo Interactivo, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 146.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 22 A LA 23.]</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 158.
 
 Por la prestación de los servicios proporcionados por el Instituto Tecnológico Superior de la Montaña, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 36 A LA 39.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 23 A LA 24.]</small>
 
 ###### ARTÍCULO 159.
 
@@ -3391,11 +3479,13 @@ Por la prestación de los servicios proporcionados por la Universidad Politécni
 
 > <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 21 A LA 22.]</small>
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 160.
 
-Por la prestación de los servicios proporcionados por la Universidad Tecnológica de la Región Norte de Guerrero, se aplicarán las siguientes tarifas:
+Por la prestación de los servicios proporcionados por la Universidad Tecnológica de la Región Norte de Guerrero, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 151.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 26 A LA 27.]</small>
 
 ###### ARTÍCULO 161.
 
@@ -3465,29 +3555,29 @@ Por la prestación de los servicios proporcionados por el Colegio de Bachilleres
 
 > <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 23 A LA 26.]</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 165.
 
 Por la prestación de los servicios proporcionados por el Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 39 A LA 44.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 27 A LA 32.]</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 166.
 
-Por la prestación de los servicios proporcionados por el Colegio de Educación Profesional Técnica del Estado de Guerrero, se aplicarán las siguientes tarifas:
+Por la prestación de los servicios proporcionados por el Colegio de Educación Profesional Técnica del Estado de Guerrero, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 160 A LA 161.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 32 A LA 33.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 167.
 
 Por la prestación de los servicios proporcionados por el Instituto del Deporte de Guerrero, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 161 A LA 162.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 85 A LA 86; 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 30 A LA 32; 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 45 A LA 47.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 33 A LA 36.]</small>
 
 ###### ARTÍCULO 168.
 
@@ -3497,27 +3587,17 @@ Por la prestación de los servicios proporcionados por el Instituto Guerrerense 
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 67.]</small>
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 169.
 
-Por la prestación de los servicios proporcionados por el Consejo Estatal del Cocotero, se aplicarán las siguientes tarifas:
+Por la prestación de los servicios proporcionados por el Consejo Estatal del Cocotero, se aplicarán las tarifas siguientes:
 
-CONCEPTO UNIDAD CANTIDAD CUOTA O
+CONCEPTO TARIFA (pesos)
 
-TARIFA
+PALMA CRIOLLA ALTO
 
-(Pesos)
-
-Venta de Palma Pieza 1 $ 100.00
-
-Híbrida
-
-Venta de Palma Pieza 1 $ 80.00
-
-Criolla alto
-
-del Pacifico
+DEL PACIFICO 120.00
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
@@ -3575,13 +3655,13 @@ Por la prestación de los servicios proporcionados por el Instituto Estatal de C
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 164 A LA 173.]</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 172.
 
 Por la prestación de los servicios proporcionados por el Instituto Estatal de Oftalmología, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 47 A LA 50.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 36 A LA 38.]</small>
 
 ###### ARTÍCULO 173.
 
@@ -3643,11 +3723,11 @@ ARTÍCULO 175 BIS II.- Por la prestación de los servicios proporcionados por la
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 91 A LA 92.]</small>
 
-> <small>(ADICIONADO, P.O. DE 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-ARTÍCULO 175 BIS III.- Por la prestación de los servicios proporcionados por el Fideicomiso Bahía de Zihuatanejo, se aplicarán las siguientes tarifas:
+ARTÍCULO 175 BIS III.- Por la prestación de los servicios proporcionados por el Fideicomiso Bahía de Zihuatanejo, se aplicarán las tarifas siguientes:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 102 A LA 103.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 38 A LA 39.]</small>
 
 > <small>(ADICIONADO, P.O. DE 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3661,13 +3741,31 @@ ARTÍCULO 175 BIS V.- Por la prestación de servicios proporcionados por la Prom
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 67 A LA 68.]</small>
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 175 BIS VI.- Por la prestación de servicios proporcionados por Agroindustrias del Sur, se aplicarán las tarifas siguientes:
+
+CONCEPTO TARIFA (Pesos)
+
+Arrendamiento $34,295.14
+
+Bodega No. 1
+
+Arrendamiento $53,723.61
+
+Naves E, F, G, H, I
+
+Arrendamiento $78,040.47
+
+Naves A, B, C, D
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 176.
 
-Los demás derechos que se señalen en las cuotas y tarifas, que al efecto se publiquen en el Periódico Oficial del Gobierno del Estado.
+Las demás contribuciones que se señalen en las cuotas y tarifas, que al efecto se publiquen en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-Los derechos previstos en los artículos 149 al 175 BIS V, se citan de manera enunciativa, más no limitativa.
+Las contribuciones previstas en los artículos 149 al 175 Bis VI, se citan de manera enunciativa, más no limitativa.
 
 ## TÍTULO DÉCIMO. DISPOSICIONES GENERALES
 
@@ -3689,7 +3787,9 @@ Se faculta al Gobernador del Estado, para celebrar convenios con instituciones d
 
 ## TÍTULO DÉCIMO PRIMERO. DISPOSICIONES SUSPENDIDAS EN TANTO EL ESTADO DE GUERRERO PERMANEZCA COORDINADO CON LA FEDERACIÓN EN MATERIA DEL IMPUESTO AL VALOR AGREGADO
 
-### CAPÍTULO III. IMPUESTO SOBRE PRODUCTOS DE CAPITALES
+### CAPÍTULO II
+
+IMPUESTO SOBRE COMPRAVENTA DE GANADO Y SUS ESQUILMOS.
 
 ###### ARTÍCULO 180.
 
@@ -3733,9 +3833,7 @@ Asimismo, establecerá las medidas reglamentarias conducentes para el debido con
 
 Para los efectos del pago de este impuesto, se considerará realizada la compraventa de los productos agrícolas por el solo hecho de que los productos sean sacados de los lugares de producción o donde se encuentran almacenados, salvo prueba fehaciente en contrario, exceptuándose del gravamen aquellos productos que se demuestre son para consumo familiar.
 
-### CAPÍTULO IV
-
-IMPUESTO SOBRE ARRENDAMIENTO Y SUBARRENDAMIENTO DE BIENES INMUEBLES.
+### CAPÍTULO III. IMPUESTO SOBRE PRODUCTOS DE CAPITALES
 
 ###### ARTÍCULO 188.
 
@@ -3767,9 +3865,9 @@ Las autoridades municipales y las asociaciones locales ganaderas, no autorizará
 
 Las operaciones de compraventa de animales destinados expresamente al mejoramiento de las especies, no causarán el impuesto a que se refiere este capítulo, siempre que se justifique ante la Dirección de Fomento Agropecuario del Estado que los animales de que se trata deben exceptuarse del gravamen por su calidad y el objeto a que se destine.
 
-### CAPÍTULO V
+### CAPÍTULO IV
 
-IMPUESTO SOBRE OPERACIONES MERCANTILES E INDUSTRIALES.
+IMPUESTO SOBRE ARRENDAMIENTO Y SUBARRENDAMIENTO DE BIENES INMUEBLES.
 
 ###### ARTÍCULO 195.
 
@@ -3939,7 +4037,9 @@ Cuando se revoque o rescinda un contrato a plazo fijo, del que se deriven ingres
 
 En los casos de que la adjudicación de bienes hecha en remate judicial, en pago de créditos que incluyen ingresos por alguno de los conceptos a que se refiere el artículo 195 ya sea que la adjudicación se haga al acreedor o a un tercero, el impuesto se pagará sobre la totalidad de los intereses vencidos hasta la fecha de la adjudicación, y se hará efectivo, a más tardar, al momento de cubrirse el impuesto de translación de dominio correspondiente.
 
-### CAPÍTULO VI. IMPUESTO SOBRE VENTA DE GASOLINA Y DEMÁS DERIVADOS DEL PETRÓLEO
+### CAPÍTULO V
+
+IMPUESTO SOBRE OPERACIONES MERCANTILES E INDUSTRIALES.
 
 ###### ARTÍCULO 215.
 
@@ -3975,9 +4075,7 @@ III.- Registrar cada uno de los contratos de arrendamiento o subarrendamiento de
 
 IV.- Dar aviso de las modificaciones o rescisiones de los contratos, dentro de los quince días naturales siguientes a la fecha en que esto ocurra.
 
-### CAPÍTULO VII
-
-IMPUESTO SOBRE ALCOHOL Y BEBIDAS ALCOHÓLICAS.
+### CAPÍTULO VI. IMPUESTO SOBRE VENTA DE GASOLINA Y DEMÁS DERIVADOS DEL PETRÓLEO
 
 ###### ARTÍCULO 221.
 
@@ -4243,11 +4341,9 @@ En los casos de clausura, traspaso, o cambio de domicilio de algún establecimie
 
 Los presidentes municipales dentro de los primeros cinco días de cada mes remitirán a las oficinas de rentas respectivas, un informe de las licencias que hayan otorgado durante el mes anterior para negociaciones comerciales o industriales, el que contendrá: nombre de negociación y de su propietario, clase de giro y su ubicación.
 
-### CAPÍTULO VIII
+### CAPÍTULO VII
 
-IMPUESTO SOBRE FUNCIONES NOTARIALES.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+IMPUESTO SOBRE ALCOHOL Y BEBIDAS ALCOHÓLICAS.
 
 ###### ARTÍCULO 252.
 
@@ -4265,9 +4361,11 @@ Petróleos Mexicanos y sus agencias, así como los expendedores de gasolina y de
 
 El Ejecutivo del Estado está facultado para adoptar las medidas pertinentes a efecto de que este impuesto sea percibido por conducto de Petróleos Mexicanos, de acuerdo con el procedimiento que se convenga al efecto.
 
-### CAPÍTULO I
+### CAPÍTULO VIII
 
-DE LOS DERECHOS POR REGISTRO DE GIROS COMERCIALES E INDUSTRIALES.
+IMPUESTO SOBRE FUNCIONES NOTARIALES.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 256.
 
@@ -4403,9 +4501,9 @@ Los contribuyentes cuyos ingresos anuales no rebasen el total de $3,000,000.00 (
 
 Por expendio accidental del alcohol, aguardiente y bebidas alcohólicas, se pagará por el derecho de permiso, impuesto y vigilancia especial, de $300.00 a $3,000.00 diarios. La cuota asignada se pagará por adelantado, debiéndose solicitar permiso previo correspondiente, ante la Oficina Recaudadora respectiva.
 
-### CAPÍTULO II
+### CAPÍTULO I
 
-DE LOS DERECHOS POR SERVICIOS DE SALUBRIDAD EXCEPTO LOS SEÑALADOS EN EL ARTÍCULO 86 Y SUS FRACCIONES, DE ESTA LEY.
+DE LOS DERECHOS POR REGISTRO DE GIROS COMERCIALES E INDUSTRIALES.
 
 ###### ARTÍCULO 273.
 
@@ -4456,6 +4554,10 @@ ARTÍCULO 277 BIS I.- En lo relativo a los ingresos del impuesto sobre funciones
 ## TÍTULO DÉCIMO SEGUNDO
 
 DERECHOS SUSPENDIDOS EN TANTO EL ESTADO DE GUERRERO PERMANEZCA COORDINADO CON LA FEDERACIÓN EN ESTA MATERIA.
+
+### CAPÍTULO II
+
+DE LOS DERECHOS POR SERVICIOS DE SALUBRIDAD EXCEPTO LOS SEÑALADOS EN EL ARTÍCULO 86 Y SUS FRACCIONES, DE ESTA LEY.
 
 ### CAPÍTULO III
 
@@ -4644,6 +4746,16 @@ P.O. 29 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 667 POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO".]
 
 PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, entrarán en vigor el día 1 de enero del 2024.
+
+SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
+
+TERCERO. Comuniquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 200, POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, entrarán en vigor el día 1 de enero del 2025.
 
 SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
 
