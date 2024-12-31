@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2024-01-26"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -65,27 +65,41 @@ El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, si
 
 Todo poder público dimana del pueblo y se instituye para beneficio de éste.
 
-La renovación de los poderes Legislativo, Ejecutivo y de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+La renovación de los poderes Legislativo, Ejecutivo y Judicial; así como los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas.
 
-Cuando las campañas tengan como finalidad elegir gobernador, diputados y ayuntamientos en forma simultánea, la duración será de sesenta días para el caso de gobernador y cuarenta y cinco días para diputados y ayuntamientos; cuando solo se elija diputados y ayuntamientos, las campañas tendrán una duración (sic) cuarenta y cinco días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Cuando las campañas tengan como finalidad elegir gubernatura, diputaciones y ayuntamientos en forma simultánea, la duración será de sesenta días para el caso de la gubernatura y cuarenta y cinco días para diputaciones y ayuntamientos; cuando solo se elija diputaciones y ayuntamientos, las campañas tendrán una duración (sic) cuarenta y cinco días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+La duración de las campañas para los cargos de magistraturas del Tribunal de Disciplina Judicial, de magistraturas del Tribunal Superior de Justicia, y de Juezas y Jueces del Poder Judicial del Estado será de treinta días y en ningún caso habrá etapa de precampaña.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-El proceso electoral dará inicio el primer domingo de diciembre del año anterior a la elección. La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de junio del año que corresponda.
+El proceso electoral dará inicio el primer domingo de diciembre del año anterior a la elección. El procedimiento de elección de Magistraturas del Tribunal de Disciplina Judicial, de Magistraturas del Tribunal Superior de Justicia, y de Juezas y Jueces del Poder Judicial del Estado, iniciará con la convocatoria que emita el Congreso del Estado dentro de los treinta días naturales siguientes al inicio de su primer periodo ordinario de sesiones del año anterior, al de la elección que corresponda.
 
-La Ley establecerá los supuestos, condiciones y reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de junio del año que corresponda.
 
-La Ley electoral establecerá las faltas y sanciones administrativas, que se deriven de su incumplimiento o inobservancia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+La ley establecerá los supuestos, condiciones y reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
-APARTADO A.- Los Partidos Políticos:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+La ley electoral establecerá las faltas y sanciones administrativas, que se deriven de su incumplimiento o inobservancia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+APARTADO A.- Los partidos políticos.
 
 Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
 
@@ -93,9 +107,9 @@ Los Partidos Políticos Nacionales tendrán derecho a participar en las eleccion
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-En los términos de las leyes electorales, los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, y podrán hacerlo de manera unipartidista o mediante las figuras de coaliciones totales, parciales o flexibles.
+En los términos de las leyes electorales, los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de las candidaturas relativas al Poder Judicial y podrán hacerlo de manera unipartidista o mediante las figuras de coaliciones totales, parciales o flexibles.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -145,43 +159,73 @@ El procedimiento para la liquidación de los partidos políticos estatales que p
 
 El incumplimiento de las normas que regulen la comprobación de ingresos, egresos, topes de gastos y aportaciones, así como la liquidación de los partidos políticos, serán sancionados en los términos de las leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 APARTADO B.- Del Instituto Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y austeridad.
+La organización de las elecciones para renovar la integración de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y austeridad.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 El Instituto Estatal Electoral podrá convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales, cuando exista causa justificada para ello, y en los términos que disponga la Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE OCTUBRE DE 2014)</small>
+
 El Instituto Estatal Electoral ejercerá sus atribuciones en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, de conformidad con la distribución de competencia que establecen las leyes de la materia, así como los convenios que suscriban, y agrupará para su desempeño, en forma integral y directa las siguientes actividades:
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 I.- Desarrollar y Ejecutar los programas de educación cívica;
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 II.- Garantizar los derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 III.- Imprimir los documentos y producir los materiales electorales;
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 IV.- Preparar de (sic) la Jornada Electoral;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 V.- Efectuar el escrutinio y cómputo total de las elecciones;
 
-VI.- Declarar la validez de las elecciones de Gobernador, Diputados y Ayuntamientos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VI.- Declarar la validez de las elecciones de la Gubernatura, Diputaciones, Magistraturas, Juezas y Jueces del Poder Judicial y Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 VII.- Expedir las constancias de mayoría y las de asignación de las fórmulas de representación proporcional;
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 VIII.- Realizar los procesos de Consulta Popular, Plebiscito y Referéndum;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 IX.- Ejercer la función de oficialía electoral respecto de los actos o hechos exclusivamente de naturaleza electoral;
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 X.- Implementar y verificar el cumplimiento de los criterios generales que emita el Instituto Nacional Electoral; y
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 XI.- Las demás que determinen las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
 El Instituto Estatal Electoral será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con un órgano de dirección, ejecutivos, técnicos, de vigilancia y fedatarios para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán regulados por la Ley. La Ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para el ejercicio de sus atribuciones.
 
-El órgano de dirección superior denominado Consejo General Electoral, se integrará por un Consejero Presidente y seis consejeros electorales, con derecho a voz y voto, contará además con un Secretario Ejecutivo. Los representantes de los partidos políticos, así como el Secretario Ejecutivo concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+El órgano de dirección superior denominado Consejo General Electoral, se integrará por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, contará además con un Secretario Ejecutivo. Los representantes de los partidos políticos, así como el Secretario Ejecutivo concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano. Durante el proceso de elecciones judiciales, cada uno de los Poderes del Estado podrá designar a una persona o integrante del comité de evaluación respectivo para que en su representación participe solo con derecho a voz, en las sesiones del Consejo General; asimismo cada uno de los Poderes del Estado podrá designar, directamente o a través de la persona designada ante el Consejo General, a un representante en cada uno de los Consejos Distritales de la autoridad administrativa electoral. En tal elección no tendrán participación los representantes de los partidos políticos.
 
 El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Ley General correspondiente. Los consejeros electorales estatales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
 
@@ -207,7 +251,7 @@ El Instituto Estatal Electoral contará con un Órgano Interno de Control con au
 
 La Ley fijará el régimen de responsabilidades a que estarán sujetos los servidores públicos del Instituto Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 APARTADO C. Participación Ciudadana.
 
@@ -215,7 +259,11 @@ APARTADO C. Participación Ciudadana.
 
 Los instrumentos y mecanismos de participación ciudadana serán la Consulta Popular, el Plebiscito, el Referéndum, la Iniciativa Ciudadana y el Presupuesto Participativo.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 La Ley fomentará, impulsará, promoverá y consolidará los instrumentos y mecanismos de participación ciudadana; igualmente establecerá las reglas que permitan regular el proceso democrático de participación ciudadana en el ámbito de competencia del Estado y de los Ayuntamientos, sujetándose a las bases que establece esta Constitución.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Los principios rectores de la participación ciudadana serán la libertad, la democracia, la justicia, la corresponsabilidad, la solidaridad, la subsidiariedad, la legalidad, la sustentabilidad, la tolerancia y la equidad.
 
@@ -223,9 +271,15 @@ Los principios rectores de la participación ciudadana serán la libertad, la de
 
 Tratándose de Plebiscito, Referéndum, Consulta Popular y Presupuesto Participativo, la participación ciudadana podrá realizarse a través de medios electrónicos, en los términos que determine la Ley.
 
-La Consulta Popular se realizará sobre temas de amplio interés estatal, siempre que así lo acuerde el Congreso, a solicitud de cuando menos las dos terceras partes de sus integrantes, del Gobernador, o de por lo menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+La Consulta Popular se realizará sobre temas de amplio interés estatal, siempre que así lo acuerde el Congreso, la solicitud de cuando menos las dos terceras partes de sus integrantes, de la Gobernadora o Gobernador, o de por lo menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Cuando la participación en la Consulta Popular corresponda, al menos, al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los Poderes del Estado y demás autoridades competentes.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 No podrán ser objeto de Consulta Popular la materia electoral; los ingresos, egresos o el régimen interno y de organización de la administración pública del Estado; la seguridad pública; los actos de expropiación o limitación a la propiedad particular; y los demás cuya realización sea obligatoria en los términos de la Ley.
 
@@ -233,21 +287,25 @@ No podrán ser objeto de Consulta Popular la materia electoral; los ingresos, eg
 
 El Instituto Estatal Electoral tendrá a su cargo la organización, desarrollo, cómputo y declaración de resultados de la Consulta Popular. Asimismo, tratándose de la solicitud ciudadana, verificará que se acompañe de las firmas correspondientes, a solicitud del Congreso, realizando la certificación respectiva.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 La Consulta Popular, Plebiscito y Referéndum, que se celebren en años electorales, deberán realizarse el mismo día de la jornada electoral para la celebración de elecciones ordinarias en el Estado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 La Iniciativa Ciudadana es el mecanismo mediante el cual los ciudadanos del Estado podrán presentar propuestas para crear, modificar, reformar, adicionar, derogar o abrogar leyes o decretos, con las excepciones y demás requisitos que contemple la Ley. La Iniciativa Ciudadana podrá presentarse por escrito ante el Congreso del Estado, siempre que se acompañe de los nombres y firmas de por los (sic) menos quinientos ciudadanos incluidos en la lista nominal de electores del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 APARTADO D. De las Candidaturas independientes.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Es derecho de los ciudadanos residentes en el Estado, poder ser votado para los cargos de elección popular por el principio de mayoría relativa, pudiendo solicitar su registro de manera independiente siempre y cuando cumplan con los requisitos, condiciones y términos que determinen las disposiciones constitucionales, legales y reglamentarias establecidas al efecto.
+Con excepción de los cargos relativos al Poder Judicial, es derecho de las y los ciudadanos residentes en el Estado, poder ser votado para los cargos de elección popular por el principio de mayoría relativa, pudiendo solicitar su registro de manera independiente siempre y cuando cumplan con los requisitos, condiciones y términos que determinen las disposiciones constitucionales, legales y reglamentarias establecidas al efecto.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-De conformidad con el procedimiento que se establezca en la Ley, los ciudadanos tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los cargos de Gobernador, Munícipes, así como el de Diputados por el principio de mayoría relativa.
+De conformidad con el procedimiento que se establezca en la Ley, los ciudadanos tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los cargos de Gubernatura, Munícipes, así como el de Diputaciones por el principio de mayoría relativa.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -257,19 +315,33 @@ Los candidatos independientes registrados al cargo de Diputados por el principio
 
 Los candidatos independientes tendrán derecho al financiamiento público de campaña en los términos de Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-APARTADO E.- Justicia Electoral y sistema de nulidades.
+APARTADO E.- De las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, y de las Juezas y Jueces del Poder Judicial del Estado.
 
-Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación; este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
+Es derecho de las ciudadanas y los ciudadanos que reúnan los requisitos establecidos en la Constitución, poder ser votados al cargo de Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de Juezas y Jueces del Poder Judicial del Estado.
+
+Acorde a lo dispuesto por la Constitución Federal, las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine la autoridad administrativa electoral competente; además, podrán participar en foros de debate organizados por el propio Instituto o en aquéllos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidaturas.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La ley establecerá la forma de las campañas, de celebración de la jornada electoral, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales. Durante el proceso electoral local, todos los días y horas son hábiles.
+
+> <small>(REFORMADO [N. DE E. ANTES APARTADO E], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+APARTADO F.- Justicia Electoral y sistema de nulidades.
+
+Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación; este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
 
 En materia electoral, la interposición de los medios de impugnación constitucionales y legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
 La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
 
-a).- Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+a).- Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado.
 
-b).- Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+b).- Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley.
 
 c).- Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
@@ -277,7 +349,27 @@ Dichas violaciones deberán acreditarse de manera objetiva y material. Se presum
 
 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
-Los actos o resoluciones dictados con motivo del desarrollo de los instrumentos y mecanismos de participación ciudadana relativos a la Consulta Popular, Plebiscito o Referéndum, podrán ser impugnados ante el Tribunal de Justicia Electoral del Estado, en los términos que señale la Ley.
+Son causas de nulidad de la elección de Magistraturas, Juezas y Jueces del Poder Judicial del Estado, adicionalmente a las que resulten aplicables previstas en la base VI del artículo 41 de la Constitución Federal y en el apartado F del presente artículo 5 de la Constitución local, las siguientes:
+
+a) Cuando la candidatura ganadora de la elección resulte inelegible;
+
+b) Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido; o,
+
+c) Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente una campaña de una candidatura.
+
+Las causales de nulidad señaladas en el párrafo anterior deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
+
+Los actos o resoluciones dictados con motivo del desarrollo de los instrumentos y mecanismos de participación ciudadana relativos a la Consulta Popular, Plebiscito o Referéndum, podrán ser impugnados ante el Tribunal de Justicia Electoral del Estado, en los términos que señale la ley.
+
+Durante el proceso electoral para la elección de personas juzgadoras del Poder Judicial del Estado, procederá ante el Tribunal de Justicia Electoral local la interposición del recurso de revisión previsto en la Ley Electoral del Estado para impugnar las determinaciones de las autoridades electorales locales que violen normas constitucionales o legales, en los términos señalados por la ley.
+
+El recurso de revisión podrá ser interpuesto por la persona candidata interesada para impugnar los resultados consignados en las actas de cómputo, las declaraciones de validez de las elecciones y el otorgamiento de las Constancias de Mayoría, por nulidad de la votación recibida en una o varias casillas o por nulidad de la elección, y los resultados consignados en las actas de cómputo por error aritmético.
+
+Asimismo, resultará procedente promover ante el Tribunal de Justicia Electoral del Estado el Juicio para la Protección de los Derechos Político-Electorales del Ciudadano previsto en la Ley Electoral local, para impugnar actos y resoluciones, por quien, teniendo interés jurídico, considere que se afecta indebidamente su derecho a integrar la titularidad de los cargos de Magistraturas, Juezas y Jueces del Poder Judicial del Estado.
+
+> <small>[N. DE E. PERTENECE AL APARTADO F, P.O. 31 DE DICIEMBRE DE 2024]</small>
+
+Dicho juicio podrá promoverse por la o el ciudadano que considere se le viola o se le restringe injustificadamente su derecho político-electoral de ser votado a alguno de los cargos de jueces y Magistraturas del Poder Judicial del Estado electos por votación libre, directa y secreta, conforme lo dispuesto por la Constitución del Estado y el artículo 116, fracción III, de la Constitución Federal. En este caso no procederá la suplencia de la queja.
 
 ### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
 
@@ -1007,13 +1099,13 @@ Estos mismos requisitos serán necesarios tratándose de la elección consecutiv
 
 No pueden ser electas para ocupar alguna diputación, las siguientes personas:
 
-I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio; aún cuando se separe de su cargo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I.- La Gobernadora o Gobernador del Estado, sea provisional, interino o encargado del despacho durante todo el período de su ejercicio, aun cuando se separe de su cargo;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II.- LOS MAGISTRADOS Y JUECES DEL ESTADO, EL SECRETARIO GENERAL DE GOBIERNO, EL FISCAL GENERAL DEL ESTADO, EL FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, EL FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES Y LOS SECRETARIOS DEL PODER EJECUTIVO, SALVO QUE SE SEPAREN DE SUS CARGOS, EN FORMA DEFINITIVA, NOVENTA DÍAS ANTES DEL DÍA DE LA ELECCIÓN;
+II.- Las Magistradas o Magistrados, así como las Juezas y Jueces del Estado, integrantes del Consejo de Administración del Poder Judicial del Estado, así como del Tribunal de Disciplina Judicial, las personas titulares de la Secretaría General de Gobierno, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Atención de Delitos Electorales, así como las personas titulares de las Secretarías del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -1133,6 +1225,8 @@ Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTICULO 27.
 
 Son facultades del Congreso:
@@ -1143,11 +1237,11 @@ I.- Legislar sobre todos los ramos que sean de la competencia del Estado y refor
 
 II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como proponer la reforma o derogación de unas y de otras;
 
-III.- Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+III.- Facultar a la Gobernadora o Gobernador del Estado, con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda.
 
-En caso de que el Gobernador del Estado, dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, opte por un Gobierno de Coalición, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.
+En caso de que la Gobernadora o Gobernador del Estado, dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, opte por un Gobierno de Coalición, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.
 
 IV.- Fijar la división territorial, política, administrativa y judicial del Estado;
 
@@ -1159,9 +1253,9 @@ V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de 
 
 VI.- Dar las bases para que el Ejecutivo del Estado y los Municipios celebren empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Instituto Estatal Electoral;
+VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernadora o Gobernador Electo que hubiere hecho el Instituto Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1193,29 +1287,29 @@ XIV.- Nombrar y remover al Auditor Superior del Estado, por el voto de las dos t
 
 Para efecto del procedimiento relativo a la designación del Auditor Superior del Estado, funcionará la Comisión Especial en los términos que determine el Congreso del Estado.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+XV.- Designar a un integrante del Consejo de Administración del Poder Judicial del Estado;
 
-XV.- NOMBRAR POR MAYORÍA CALIFICADA A LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA Y RESOLVER RESPECTO A SU RATIFICACIÓN O NO RATIFICACIÓN;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
+XVI.- Designar, en los términos que previene esta Constitución, a la ciudadana o ciudadano que deba substituir a la Gobernadora o Gobernador en sus faltas temporales o absolutas;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+XVIII.- Resolver acerca de las licencias definitivas de las Diputadas y Diputados y de la Gobernadora o Gobernador; así como respecto a las renuncias y remociones, de los Magistrados del Tribunal Superior de Justicia, y de la persona Consejera de Administración designada por el Congreso;
 
-XVIII.- RESOLVER ACERCA DE LAS LICENCIAS DEFINITIVAS DE LOS DIPUTADOS Y DEL GOBERNADOR; ASÍ COMO RESPECTO A LAS RENUNCIAS Y REMOCIONES DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+XIX.- Otorgar licencias a las Diputadas y Diputados y a la Gobernadora o Gobernador para separarse de sus cargos; y a los Magistrados del Poder Judicial cuando esto sea por más de dos meses;
 
-XIX.- Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos; y a los Magistrados del Poder Judicial cuando ésto sea por más de dos meses;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XX.- Aprobar o reprobar los convenios que el Gobrenador (sic) celebre con las vecinas Entidades de la Federación respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión;
+XX.- Aprobar o reprobar los convenios que la Gobernadora o Gobernador celebre con las vecinas Entidades de la Federación respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión;
 
 XXI.- Cambiar provisionalmente, y por causa justificada, la residencia de los Poderes del Estado;
 
@@ -1245,9 +1339,9 @@ XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servici
 
 XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios eminentes al Estado, siempre que su situación económica lo justifique;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
+XXX.- Designar entre los vecinos, a propuesta de la Gobernadora o Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1257,17 +1351,13 @@ XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Munici
 
 Asimismo, legislar respecto a los conflictos entre trabajadores y patrones, a efecto de lograr su conciliación o resolución por la vía jurisdiccional, con base en lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Secretario de Integración y Bienestar Social y del Secretario de la Honestidad y la Función Pública. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que la Gobernadora o Gobernador haga del Secretario de Integración y Bienestar Social y del Secretario de la Honestidad y la Función Pública. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+El Congreso podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso la Gobernadora o Gobernador procederá libremente a hacer la designación correspondiente.
 
-El Congreso podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
-
-Cuando el Gobernador opte por el Gobierno de Coalición, ratificará a los Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
+Cuando la Gobernadora o Gobernador opte por el Gobierno de Coalición, ratificará a los Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1285,11 +1375,9 @@ XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de 
 
 XXXVI.- Expedir la Ley que regulará la estructura y funcionamiento interno del Congreso, su Reglamento Interior, y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XXXVII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-XXXVII.- CITAR A LOS SECRETARIOS DEL RAMO, FISCAL GENERAL DEL ESTADO, AL FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, AL FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES, A LOS TITULARES O ADMINISTRADORES DE LOS ORGANISMOS DESCENTRALIZADOS ESTATALES O DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA, ASÍ COMO AL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA, A LOS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS, PARA QUE INFORMEN CUANDO SE DISCUTE UNA LEY, SE REALICE LA GLOSA DEL INFORME QUE RINDAN EL TITULAR DEL EJECUTIVO DEL ESTADO O DEL PODER JUDICIAL O CUANDO SE ESTUDIE UN ASUNTO CONCERNIENTE A SUS RESPECTIVOS RAMOS O ACTIVIDADES. PARA LOS EFECTOS DE LA CITACIÓN DEL FISCAL GENERAL DEL ESTADO SE ESTARÁ A LO DISPUESTO EN EL ARTÍCULO 70 DE ESTA CONSTITUCIÓN.
+XXXVII.- Citar a los Secretarios del ramo, Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción, al Fiscal Especializado para la Atención de Delitos Electorales, a los Titulares o Administradores de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria, así como a la Presidencia del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Consejo de Administración del Poder Judicial del Estado, y a los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una ley, se realice la Glosa del Informe que rindan la Gobernadora o Gobernador del Estado o la persona titular del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades. Para los efectos de la citación del Fiscal General del Estado se estará a lo dispuesto en el Artículo 70 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
@@ -1649,17 +1737,15 @@ V.- Estar en pleno goce de sus derechos Políticos.
 
 VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 42.
 
 No podrán ser electos Gobernadora o Gobernador del Estado:
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA ELPÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-EL SECRETARIO GENERAL DE GOBIERNO, LOS MAGISTRADOS Y JUECES DEL ESTADO, EL FISCAL GENERAL DEL ESTADO, FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, EL FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES, LOS SECRETARIOS Y DIRECTORES DEL PODER EJECUTIVO, SALVO QUE SE SEPAREN DE SUS CARGOS EN FORMA DEFINITIVA, NOVENTA DÍAS ANTES DEL DÍA DE LA ELECCIÓN.
+La persona titular de la Secretaría General de Gobierno, las Magistradas o Magistrados, así como las Juezas y Jueces del Estado; las y los integrantes del Consejo de Administración del Poder Judicial del Estado, así como del Tribunal de Disciplina Judicial; las personas titulares de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, así como de la Fiscalía Especializada para la Atención de Delitos Electorales; las personas titulares de las Secretarías y Direcciones del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -1739,13 +1825,15 @@ Si al comenzar un período constitucional no se presentare el Gobernador electo 
 
 Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su validez ser autorizados con la firma del Secretario General de Gobierno o de quien conforme a la Ley haga sus veces.
 
-### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2022)</small>
+### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DE LA GOBERNADORA O GOBERNADOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 49.
 
-Son facultades y obligaciones de la persona titular del Poder Ejecutivo del Estado:
+Son facultades y obligaciones de la Gobernadora o Gobernador:
 
 I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disposiciones que tengan vigencia en el Estado;
 
@@ -1767,11 +1855,9 @@ V.- Rendir anualmente un informe general, por escrito, del estado que guarde la 
 
 VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-VII.- SOMETER A CONSIDERACIÓN DEL CONGRESO DEL ESTADO, LA TERNA PARA QUE SE REALICEN LOS NOMBRAMIENTOS DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA Y LOS SEÑALADOS EN EL TITULO CUARTO DE ESTA CONSTITUCIÓN. SE EMITIRÁ UNA TERNA POR VACANTE.
+VII.- Designar a una persona integrante del Consejo de Administración del Poder Judicial del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1779,13 +1865,11 @@ VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyend
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-X.- Nombrar y remover libremente a los secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos del Secretario de Integración y Bienestar Social, y del Secretario de la Honestidad y la Función Pública, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
+X.- Nombrar y remover libremente a los secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos de las personas titulares de la Secretaría de Bienestar y de la Secretaría de la Honestidad y la Función Pública, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-Cuando opte por el Gobierno de Coalición, someterá a cada uno de los Titulares de las Dependencias del Ejecutivo Estatal, por separado a ratificación del Congreso del Estado por mayoría simple de los miembros presentes. Si en el primer nombramiento no se alcanzara la mayoría de votos, el Gobernador del Estado hará un segundo nombramiento distinto, que deberá ser votado en los mismos términos y condiciones que el primero; si el segundo nombramiento no alcanzara la mayoría de votos, el Gobernador del Estado hará el nombramiento definitivo;
+Cuando opte por el Gobierno de Coalición, someterá a cada una de las personas Titulares de las Dependencias del Ejecutivo Estatal, por separado a ratificación del Congreso del Estado por mayoría simple de las o los miembros presentes. Si en el primer nombramiento no se alcanzara la mayoría de votos, la Gobernadora o Gobernador del Estado hará un segundo nombramiento distinto, que deberá ser votado en los mismos términos y condiciones que el primero; si el segundo nombramiento no alcanzara la mayoría de votos, la Gobernadora o Gobernador del Estado hará el nombramiento definitivo;
 
 XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
@@ -1917,6 +2001,12 @@ APARTADO A.- De la Competencia del Tribunal Estatal de Justicia Administrativa.
 
 El Tribunal resolverá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la administración pública estatal, municipal, paraestatal y paramunicipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+La ley preverá las cuantías y supuestos en materia tributaria en el ámbito estatal en los cuales el Tribunal Estatal de Justicia Administrativa deberá resolver en un plazo máximo de seis meses, contados a partir del conocimiento del asunto. En caso de incumplir con el plazo señalado, el órgano jurisdiccional que corresponda deberá dar aviso al órgano interno de control del Tribunal y justificar las razones de dicha demora.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Así también, estará facultado para la imposición de sanciones a los servidores públicos por las responsabilidades administrativas graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias, que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal, y al patrimonio de los entes públicos estatales o municipales.
 
 (NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
@@ -1999,189 +2089,77 @@ Las audiencias serán públicas, excepto aquellas que la moral o el interés col
 
 Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO No. 36 PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 50 A LA 52.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 57.
 
 El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Tribunales en Materia Laboral, Juzgados de Paz y Jurados.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
+La administración del Poder Judicial del Estado estará a cargo del Consejo de Administración, mientras que la vigilancia, disciplina y supervisión de su personal, así como la resolución de los conflictos entre el Poder Judicial del Estado y sus servidores públicos, estará a cargo del Tribunal de Disciplina Judicial, en los términos que establezcan las leyes.
 
-EL PODER JUDICIAL DEL ESTADO SE EJERCERÁ POR EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, QUIEN A TRAVÉS DE UNA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA, EJERCITARÁ LAS ATRIBUCIONES DE ADMINISTRACIÓN, DISCIPLINA Y CONTROL DE LA CARRERA JUDICIAL, DICHA JUNTA ESTARÁ INTEGRADA POR:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+La representación del Poder Judicial estará a cargo de la Presidencia del Tribunal Superior de Justicia del Estado y será electa por el voto de la mayoría de las Magistraturas presentes en la sesión de elección y la persona titular durará tres años contados a partir de la fecha en que rinda protesta de ley, pudiendo ser reelecta por un periodo más en el encargo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I.- EL PRESIDENTE EN FUNCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, QUIEN TAMBIÉN LO SERÁ DE LA JUNTA;
+El segundo jueves del mes de octubre la persona titular de la Presidencia del Tribunal Superior de Justicia, remitirá al Congreso del Estado un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
+Las sesiones del Pleno del Tribunal Superior de Justicia, deberán ser públicas; transmitidas a través de su portal de internet; transcritas literalmente en versiones taquigráficas; grabadas en audio y video y ser consideradas tanto las versiones taquigráficas y las grabaciones como información de oficio para efectos de la ley, respetando en todo momento la protección de datos personales y el principio de confidencialidad.
 
-II.- UN MAGISTRADO ELECTO POR EL PLENO DEL TRIBUNAL, QUIEN DURARÁ EN SU ENCARGO TRES AÑOS, SIN QUE PUEDA SER ELECTO PARA PERIODOS CONSECUTIVOS.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+El Poder Judicial emitirá un Plan de Desarrollo Judicial cada tres años. El Presidente del Tribunal lo remitirá al Congreso para su conocimiento; y a su vez lo dará a conocer a la población mediante su publicación en el Periódico Oficial del Estado y por cualquier otro medio que estime pertinente. Dicho Plan se elaborará, instrumentará y evaluará en los términos que se señalan en esta Constitución y la Ley.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-III.- UN INTEGRANTE DESIGNADO POR LA MAYORÍA CALIFICADA DEL CONGRESO DEL ESTADO, MEDIANTE CONVOCATORIA PÚBLICA, QUIEN DURARÁ EN SU ENCARGO TRES AÑOS, QUIEN NO PODRÁ OCUPAR DE NUEVO ESE PUESTO.
+La Ley garantizará la independencia de las personas juzgadoras del Poder Judicial del Estado en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+La remuneración de las personas juzgadoras y demás personal del Poder Judicial del Estado, no podrá ser mayor a la establecida para la Presidenta o Presidente de la República en el presupuesto correspondiente, y no podrá ser disminuida durante el tiempo de su gestión.
 
-EN LA INTEGRACIÓN DE LA JUNTA SE OBSERVARÁ EL PRINCIPIO DE PARIDAD DE GÉNERO.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las Magistraturas del Tribunal Superior de Justicia, Magistraturas del Tribunal de Disciplina Judicial, integrantes del Consejo de Administración del Poder Judicial, Juezas y Jueces del Poder Judicial, no serán consideradas trabajadores para efectos de la Ley especial de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO FIJARÁ LAS ATRIBUCIONES DE LOS TRIBUNALES Y JUZGADOS, Y ESTABLECERÁ LOS PROCEDIMIENTOS A QUE DEBEN SUJETARSE EN LA IMPARTICIÓN DE JUSTICIA.
+Durante su encargo, las Magistraturas del Tribunal Superior de Justicia, así como las Juezas y Jueces del Poder Judicial, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus cargos en cualquiera de los siguientes supuestos:
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+a).- Al cumplir setenta años de edad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+b).- Al cumplir dieciocho años en el cargo.
 
-LA INDEPENDENCIA DE LOS MAGISTRADOS Y JUECES EN EL EJERCICIO DE SUS ATRIBUCIONES DEBERÁN ESTAR GARANTIZADAS POR ESTA CONSTITUCIÓN Y LA LEY ORGÁNICA RESPECTIVA, LAS CUALES ESTABLECERÁN LAS CONDICIONES PARA EL INGRESO, FORMACIÓN Y PERMANENCIA DE QUIENES SIRVAN AL PODER JUDICIAL DEL ESTADO; EJERCERÁN LAS ATRIBUCIONES JURISDICCIONALES Y SU EJECUCIÓN CON AUTONOMÍA ABSOLUTA, CON APEGO A LOS PRINCIPIOS RECTORES DE LA CARRERA JUDICIAL COMO LO SON LA EXCELENCIA, OBJETIVIDAD, IMPARCIALIDAD, PROFESIONALISMO E INDEPENDENCIA.
+c).- Por incapacidad física o mental que impida el adecuado desempeño de sus funciones.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+d).- En los demás casos que establezca esta Constitución y la Ley de Responsabilidades Administrativas del Estado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-LA REPRESENTACIÓN DEL PODER JUDICIAL ESTARÁ A CARGO DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, EL CUAL SE ELEGIRÁ Y DESEMPEÑARÁ SUS FUNCIONES DE ACUERDO A LO QUE SEÑALE LA LEY.
+En ningún caso las Magistraturas del Tribunal Superior de Justicia, así como las Juezas y Jueces del Poder Judicial podrán ser destituidos o castigados por defectos formales o por sostener criterios jurídicos discrepantes de tribunales de segunda instancia o de jurisdicción federal, cuando su observancia no sea obligatoria.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+Las personas titulares de las Magistraturas del Tribunal de Disciplina Judicial y las personas integrantes del Consejo de Administración del Poder Judicial del Estado, solo podrán ser removidos por las causas graves y de conformidad con lo previsto por la Constitución Federal, esta Constitución y las Leyes.
 
-EL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA, EL SEGUNDO JUEVES DEL MES DE OCTUBRE, REMITIRÁ AL CONGRESO DEL ESTADO UN INFORME GENERAL, POR ESCRITO, DEL ESTADO QUE GUARDE LA ADMINISTRACIÓN DE JUSTICIA EN LA ENTIDAD.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-LAS SESIONES DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, DEBERÁN SER PÚBLICAS; TRANSMITIDAS A TRAVÉS DE SU PORTAL DE INTERNET; TRANSCRITAS LITERALMENTE EN VERSIONES TAQUIGRÁFICAS; GRABADAS EN AUDIO Y VIDEO Y SER CONSIDERADAS TANTO LAS VERSIONES TAQUIGRÁFICAS Y LAS GRABACIONES COMO INFORMACIÓN DE OFICIO PARA EFECTOS DE LA LEY, RESPETANDO EN TODO MOMENTO LA PROTECCIÓN DE DATOS PERSONALES Y EL PRINCIPIO DE CONFIDENCIALIDAD.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO NOVENO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-EL PODER JUDICIAL EMITIRÁ UN PLAN DE DESARROLLO JUDICIAL CADA TRES AÑOS. EL PRESIDENTE DEL TRIBUNAL LO REMITIRÁ AL CONGRESO PARA SU CONOCIMIENTO; Y A SU VEZ LO DARÁ A CONOCER A LA POBLACIÓN MEDIANTE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO Y POR CUALQUIER OTRO MEDIO QUE ESTIME PERTINENTE. DICHO PLAN SE ELABORARÁ, INSTRUMENTARÁ Y EVALUARÁ EN LOS TÉRMINOS QUE SE SEÑALAN EN ESTA CONSTITUCIÓN Y LA LEY.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-LA LEY GARANTIZARÁ LA INDEPENDENCIA DE LOS MAGISTRADOS Y JUECES EN EL EJERCICIO DE SUS ATRIBUCIONES, ASÍ COMO LA PLENA EJECUCIÓN DE SUS RESOLUCIONES.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-LA REMUNERACIÓN DE LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, NO PODRÁ SER DISMINUIDA DURANTE EL TIEMPO DE SU GESTIÓN. DEBIÉNDOSE ENTENDER COMO TIEMPO DE SU GESTIÓN QUE SE ENCUENTREN ACTIVOS DESEMPEÑANDO EL CARGO, POR LO QUE QUIENES SE ENCUENTREN EN PARÁMETROS DE LICENCIAS, PERMISOS, INCAPACIDADES O CUALQUIER OTRA FORMA DE AUSENCIA EN EL CARGO, YA SEA DE CARÁCTER PERSONAL O MÉDICAS, DEBERÁN SUJETARSE A LOS TÉRMINOS Y CONDICIONES QUE ESTABLECE PARA TAL EFECTO LA LEY ORGÁNICA DEL PODER JUDICIAL.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, NO SERÁN CONSIDERADOS TRABAJADORES PARA EFECTOS DE LA LEY ESPECIAL DE LA MATERIA.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-DURANTE SU ENCARGO, LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, SÓLO PODRÁN SER REMOVIDOS EN LOS TÉRMINOS QUE SE SEÑALAN EN ESTA CONSTITUCIÓN Y LA LEY.
-
-> <small>[N. DE E. VÉASE LA HISTORIA LEGISLATIVA COMPLETA DEL ARTÍCULO, P.O. 3 DE MARZO DE 2023]</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Para la conformación de los órganos jurisdiccionales del Poder Judicial debe observarse el principio de paridad de género.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 58.
+###### ARTICULO 58.
 
-El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los términos que disponga la Ley.
+El Tribunal Superior de Justicia estará integrado por trece Magistraturas Numerarias como mínimo y tres Supernumerarias. Funcionará en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
-
-El Congreso del Estado está facultado para resolver soberana y discrecionalmente respecto a los nombramientos, ratificación o no ratificación y remoción de los Magistrados del Tribunal Superior de Justicia, observando el principio de paridad de género. En los mismos términos resolverá sobre la designación y remoción de los integrantes del Consejo de la Judicatura. Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
-
-La Ley establecerá sistemas permanentes de evaluación del desempeño de los Magistrados del Tribunal Superior de Justicia y Jueces del Poder Judicial, para garantizar que quienes ocupen dichos cargos, durante el tiempo que los ejerzan, cumplan de manera continua y permanente con los requisitos y principios que esta Constitución señala para su nombramiento o su ratificación.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-SEIS MESES ANTES DE QUE CONCLUYA EL PERIODO DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA, EL CONGRESO DEL ESTADO, POR EL VOTO DE LAS DOS TERCERAS PARTES DE SUS INTEGRANTES, PROCEDERÁ A REALIZAR LOS NUEVOS NOMBRAMIENTOS ENTRE LOS ASPIRANTES QUE INTEGREN LA TERNA QUE REMITA EL TITULAR DEL PODER EJECUTIVO EN LOS TÉRMINOS ESTABLECIDOS EN LA PRESENTE CONSTITUCIÓN Y LA LEY.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-EL NOMBRAMIENTO DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA SE EFECTUARÁ BAJO EL SIGUIENTE PROCEDIMIENTO:
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-I.- INMEDIATAMENTE QUE EXISTA UNA O VARIAS VACANTES DE MAGISTRADOS O SEIS MESES ANTES SI LA MISMA FUERE PREVISIBLE, EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, DEBERÁ HACER DEL CONOCIMIENTO AL CONGRESO DEL ESTADO Y AL TITULAR DEL EJECUTIVO, EN TÉRMINOS DEL ARTÍCULO 27 FRACCIONES XV Y XVIII DE ESTA CONSTITUCIÓN;
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-II.- EL CONGRESO DEL ESTADO, RESOLVERÁ POR MAYORÍA CALIFICADA DE SUS INTEGRANTES, DENTRO DE LOS TREINTA DÍAS NATURALES SIGUIENTES A QUE RECIBA LA TERNA ENVIADA (SIC) TITULAR DEL PODER EJECUTIVO, SOBRE LOS NOMBRAMIENTOS DE LOS MAGISTRADOS, DEBIENDO TOMAR EN CUENTA EL PRINCIPIO DE PARIDAD DE GÉNERO EN EL NOMBRAMIENTO E INTEGRACIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA;
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-III.- EN CASO DE QUE EL CONGRESO DEL ESTADO NO APROBARA EL NOMBRAMIENTO O NOMBRAMIENTOS, O SOLO CUBRIERE ALGUNAS DE LAS VACANTES DE MAGISTRADOS, O FUERA OMISO EN EL TÉRMINO PREVISTO EN LA FRACCIÓN ANTERIOR, EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA SOLICITARÁ AL TITULAR DEL EJECUTIVO LAS NUEVAS PROPUESTAS Y LAS REMITIRÁ AL CONGRESO DEL ESTADO, DENTRO DE LOS TREINTA DÍAS NATURALES SIGUIENTES, Y
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-IV.- RECIBIDA LA SEGUNDA TERNA, EL CONGRESO DEL ESTADO, TENDRÁ HASTA TREINTA DÍAS NATURALES PARA NOMBRAR POR MAYORÍA CALIFICADA DE SUS INTEGRANTES AL MAGISTRADO O MAGISTRADOS, Y SI NO LO HICIESE EN DICHO TERMINO, OCUPARAN LOS CARGOS DE MAGISTRADOS LAS PERSONAS QUE SE ENCUENTREN EN LOS PRIMEROS LUGARES DE LA TERNA, EN TÉRMINOS DEL ARTÍCULO 27 FRACCIONES XV Y XVIII DE ESTA CONSTITUCIÓN.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
-
-Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley, al término de los cuales podrán ser ratificados y, si lo fueren, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
-
-a) Al cumplir setenta años de edad.
-
-b) Al cumplir quince años en el cargo de Magistrado del Tribunal Superior de Justicia.
-
-c) Por incapacidad física o mental que impida el buen desempeño de sus funciones.
-
-d) En los demás casos que establezca esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-TRATÁNDOSE DE LOS INCISOS A) Y B) DE ESTE ARTÍCULO EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, NOTIFICARÁ AL MAGISTRADO, A MÁS TARDAR SEIS MESES ANTES, LA FECHA EN QUE CONCLUIRÁ EN DEFINITIVA SU ENCARGO, SEÑALANDO LA CAUSA EN QUE SE FUNDA LA PRIVACIÓN DE SU PUESTO. EL SUPUESTO PREVISTO EN EL INCISO C), SE TENDRÁ POR ACREDITADO EN LOS TÉRMINOS DE LAS DISPOSICIONES LEGALES APLICABLES.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-UN AÑO ANTES DE QUE CONCLUYA EL PERIODO PARA EL QUE FUE NOMBRADO EL MAGISTRADO, EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, PROCEDERÁ A ELABORAR UN DICTAMEN TÉCNICO DE EVALUACIÓN EN EL QUE ANALICE MINUCIOSAMENTE SU ACTUACIÓN Y DESEMPEÑO Y EMITA UNA OPINIÓN AL RESPECTO. EL DICTAMEN, ASÍ COMO EL EXPEDIENTE DEL MAGISTRADO, DEBERÁ SER REMITIDO AL CONGRESO DEL ESTADO Y AL TITULAR DEL PODER EJECUTIVO, DENTRO DE LOS NOVENTA DÍAS NATURALES SIGUIENTES, DEBIENDO CONTENER TODOS AQUELLOS ELEMENTOS OBJETIVOS Y REQUISITOS QUE SEÑALE LA LEY Y QUE DEN A CONOCER SI EL MAGISTRADO SUJETO A PROCESO DE RATIFICACIÓN, DURANTE SU DESEMPEÑO, HA EJERCIDO EL CARGO CON EXCELENCIA PROFESIONAL, HONESTIDAD, DILIGENCIA Y QUE GOZA DE BUENA REPUTACIÓN Y BUENA FAMA EN EL CONCEPTO PÚBLICO, ADEMÁS DE PRECISAR SI CONSERVA LOS REQUISITOS REQUERIDOS PARA SU NOMBRAMIENTO PREVISTOS EN EL ARTÍCULO 60 DE ESTA CONSTITUCIÓN.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
-
-El Congreso con base en lo anterior, y una vez que escuche al Magistrado sujeto a proceso de ratificación, resolverá sobre su ratificación o no ratificación, mediante mayoría calificada de sus integrantes, a más tardar seis meses antes de que el Magistrado concluya su encargo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
-
-Si el Congreso resuelve la no ratificación, el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado y se procederá a realizar un nuevo nombramiento en los términos de este artículo.
+Las Magistradas, Magistrados, Juezas y Jueces del Poder Judicial, con independencia del partido judicial en el que fueron electos, tendrán jurisdicción en todo el territorio del Estado. Durarán en su encargo nueve años, podrán ser reelectos, y si lo fueren, sólo podrán ser removidos del mismo en los términos que determine esta Constitución y la Ley de Responsabilidades Administrativas del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -2197,111 +2175,133 @@ La competencia del Tribunal Superior de Justicia, su funcionamiento en pleno y e
 
 Las salas unitarias, deberán ubicarse en todo territorio del Estado, y las metropolitanas donde acuerde el pleno, su competencia se preverá en la ley orgánica.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 60.
 
-Para ser nombrado Magistrado del Poder Judicial, se requiere como mínimo:
+La elección de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de Juezas o Jueces del Poder Judicial del Estado, se realizará por el voto libre, directo y secreto de la ciudadanía, conforme al siguiente procedimiento:
 
-I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+I. El Congreso del Estado emitirá y publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes al inicio del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+La convocatoria deberá contener las etapas completas del procedimiento, sus fechas, plazos y los cargos a elegir.
 
-II.- Tener cuando menos treinta y cinco, y no mas de sesenta y cinco años de edad, al día de su nombramiento;
+II. A efecto de lo anterior, el Consejo de Administración del Poder Judicial del Estado deberá remitir oportunamente al Congreso local, los cargos sujetos a elección, la especialización por materia, el partido judicial respectivo y demás información que requiera.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+III. Cada uno de los Poderes del Estado postularán candidaturas en los siguientes términos:
 
-III.- Poseer el día de su nombramiento, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho o Abogado, expedido por autoridad o institución legalmente facultada para ello;
+a) De hasta dos personas por cada cargo, tratándose de las Magistraturas del Tribunal Superior de Justicia, y de Juezas y Jueces del Poder Judicial del Estado; y,
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+b) De hasta dos personas por cada cargo, tratándose de las Magistraturas del Tribunal de Disciplina Judicial.
 
-IV.- Haber realizado por lo menos durante diez años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
+Las postulaciones del Poder Ejecutivo se realizarán por conducto de la persona titular, las del Poder Legislativo mediante votación de las dos terceras partes de los integrantes presentes del Congreso del Estado, y las del Poder Judicial mediante mayoría de al menos doce votos de las Magistraturas del Pleno de (sic) Tribunal Superior de Justicia.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+IV. Para la selección de sus candidaturas a postular, cada Poder del Estado deberá observar lo siguiente:
 
-V.- Haber residido en el Estado durante los diez años anteriores al día de su nombramiento;
+a) Establecerá mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación y evaluación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes; y presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación, y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+b) Conformará un Comité de Evaluación compuesto por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas del cargo que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia así como antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-VI.- No haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+Quienes integren el Comité deberán cumplir con al menos los siguientes requisitos, observando la paridad de género:
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+1. Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
 
-VII.- Gozar de buena reputación y buena fama en el concepto público. La Ley determinará los procedimientos y términos en los que se realizarán consultas públicas, para acreditar dicha calidad, y
+2. No haber sido condenadas por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+3. Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y ejercicio profesional de la actividad jurídica de por lo menos cinco años; y,
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+4. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
 
-VIII.- NO HABER OCUPADO CARGO DE ELECCIÓN POPULAR, NI HABER OCUPADO CARGO DE DIRIGENCIA DE ALGÚN PARTIDO POLÍTICO, O HABER SIDO TITULAR DE UNA DEPENDENCIA O ENTIDAD DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, ESTATAL O MUNICIPAL DURANTE EL AÑO PREVIO A LA FECHA EN QUE DEBA SER NOMBRADO.
+c) Cada Comité de Evaluación integrará un listado de las personas aspirantes mejor evaluadas por cargo, en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+1. De hasta tres personas tratándose de aspirantes a las Magistraturas Numerarias y Supernumerarias del Tribunal Superior de Justicia y de hasta tres personas en el caso de Juezas y Jueces del Poder Judicial del Estado; y,
+
+2. De hasta tres personas en el caso de aspirantes a las Magistraturas Numerarias y Supernumerarias del Tribunal de Disciplina Judicial del Poder Judicial del Estado.
+
+Los Comités de Evaluación se podrán coordinar para establecer criterios y metodologías de evaluación y selección adecuadas para identificar a las personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo, así como de postulación común de candidaturas.
+
+d) Posteriormente, de resultar necesario, depurarán dicho listado mediante insaculación pública para ajustarlo en materia de paridad de género al número de postulaciones que corresponda para cada cargo.
+
+V. Los Comités de Evaluación enviarán los listados definitivos de postulaciones a la autoridad correspondiente de cada Poder del Estado, para su aprobación y posterior remisión al Congreso del Estado.
+
+VI. El Congreso local recibirá las postulaciones y remitirá los listados de cada poder a la autoridad administrativa electoral competente a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios de los Poderes, siempre que aspiren al mismo cargo en la elección correspondiente. En este supuesto, el Congreso del Estado deberá integrar además en un listado adicional las candidaturas comunes postuladas en esos términos, debiendo señalar en cada caso, los poderes y el cargo por el que los postulan.
+
+Los Poderes del Estado que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
+
+De igual forma, las personas candidatas podrán participar en el proceso de registro y evaluación para un cargo de elección popular en el Poder Judicial del Estado, sin perjuicio de hacerlo también como aspirantes a un cargo de elección popular en el Poder Judicial de la Federación, en caso de ser incorporados a los listados ajustados para ambos cargos, no serán elegibles para el cargo estatal a menos que renuncien previamente a su postulación en el proceso electoral federal.
+
+El Congreso del Estado incorporará a los listados que remita la autoridad administrativa electoral competente a las personas que se encuentren en funciones en los cargos de Magistrados y Magistradas del Tribunal Superior de Justicia y de Juezas y Jueces del Poder Judicial del Estado al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días naturales posteriores a la publicación de la convocatoria o sean postuladas en la elección local para un cargo o partido judicial diverso en su caso.
+
+VII. La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General de la autoridad administrativa electoral competente celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+VIII. Las Juezas y Jueces del Poder Judicial serán electas respectivamente por demarcación territorial del o los partidos judiciales, y las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial serán electas en todos los partidos judiciales del Estado, conforme al procedimiento previsto en este artículo y en las demás disposiciones aplicables.
+
+IX. Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+a) Se contará un voto válido, la marca o asiento que realice la persona votante en un recuadro de una misma boleta, en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta. En el caso de postulación común de los Poderes del Estado se atenderá lo dispuesto en los tres últimos párrafos de esta fracción.
+
+b) La autoridad administrativa electoral competente determinará conforme al párrafo anterior la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir.
+
+c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+Las personas votantes podrán elegir la totalidad de las candidaturas postuladas por alguno de los Poderes del Estado, de las postuladas de manera común por dos o tres de los Poderes o de las candidaturas correspondientes a las Magistraturas, Juezas y Jueces que estén en funciones, marcando el recuadro dentro del que se contengan o con el que se identifique todo el listado.
+
+El voto así emitido será válido, siempre que permita identificar el sentido del voto en función del tipo de elección y número de candidaturas a elegir, y contará para cada una de las candidaturas contenidas en el listado del Poder postulante, en el de las candidaturas comunes o en el de cargos en funciones, según sea el caso, asentándose en el apartado o espacio correspondiente del acta de escrutinio y cómputo de casilla.
+
+Tratándose de postulación común de poderes, si una candidatura apareciera marcada en el recuadro relativo a dicha postulación, y a la vez se marcará en el recuadro del poder o poderes que la postularon en lo individual, se contará como como (sic) un voto.
+
+X. La autoridad administrativa electoral competente efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos electos por materia de especialización en forma alternada entre mujeres y hombres.
+
+También declarará la validez de la elección y enviará sus resultados al Tribunal de Justicia Electoral del Estado, el cual resolverá las impugnaciones que se presenten, a más tardar quince días antes de la fecha de toma de protesta de las candidaturas electas.
+
+XI. Las personas electas tomarán protesta de su encargo ante el Congreso del Estado al inicio del primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 61.
 
-Cuando ocurra la falta absoluta de un Magistrado del Tribunal Superior de Justicia se estará a lo dispuesto por el artículo 58 de esta Constitución.
+Para ser electa Magistrada o Magistrado; así como Jueza o Juez del Poder Judicial del Estado, se requiere como mínimo:
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I. Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+II. Contar al día de la publicación de la convocatoria señalada en la fracción I del artículo 60 de esta Constitución, con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente, y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado.
 
-LOS SECRETARIOS DE ESTUDIO Y CUENTA ADSCRITOS A LA (SIC) SALAS QUE CORRESPONDAN, CUBRIRÁN LAS FALTAS TEMPORALES DE LOS MAGISTRADOS, QUE NUNCA PODRÁ EXCEDER MÁS DE SEIS MESES, QUIENES FUNGIRÁN COMO SECRETARIOS EN FUNCIONES DE MAGISTRADO Y REALIZARÁN EXCLUSIVAMENTE FUNCIONES JURISDICCIONES DE INTEGRACIÓN DE SALA UNITARIA Y NO INTEGRARÁN PLENO DEL TRIBUNAL.
+III. Contar con ejercicio profesional de la actividad jurídica de cuando menos tres años.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+V. Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 60 de esta Constitución.
 
-EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DETERMINARÁ LOS MECANISMOS PARA CUBRIR LAS AUSENCIAS TEMPORALES DE LOS SECRETARIOS DE ESTUDIO Y CUENTA QUE FUNJAN TEMPORALMENTE COMO SECRETARIOS EN FUNCIONES DE MAGISTRADO, ASÍ COMO LAS FALTAS ABSOLUTAS DE LOS MISMOS HASTA EN TANTO EL CONGRESO DEL ESTADO, EFECTÚE EL NOMBRAMIENTO CORRESPONDIENTE DE LA MAGISTRATURA VACANTE, DE ACUERDO A LO QUE ESTABLECE ESTA CONSTITUCIÓN Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO.
+VI. No haber ocupado cargo de elección popular, ni haber ocupado cargo de dirigencia de algún partido político, o haber sido fiscal, persona titular de una secretaría o su equivalente de una dependencia o entidad de la administración pública federal, estatal o municipal, Consejero de la Judicatura no jurisdiccional, Magistrado del Tribunal de Disciplina Judicial, o integrante del Consejo de Administración no jurisdiccional, durante el año previo al día de la publicación de la convocatoria expedida por el Congreso del Estado.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VII. No estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2020)</small>
+VIII. Haberse distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos relacionados con el ejercicio de la actividad jurídica.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 62.
 
-LOS JUECES SERÁN DESIGNADOS BAJO EL PROCESO DE EXAMEN PSICOMÉTRICOS Y DE OPOSICIÓN, MISMO QUE APLICARÁ EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, EN LOS TÉRMINOS DE ESTA CONSTITUCIÓN Y LA LEY; DURARÁN CINCO AÑOS EN EL CARGO, Y PODRÁN SER RATIFICADOS HASTA POR DOS PERIODOS MÁS, CUANDO SE DISTINGAN EN EL EJERCICIO DE SUS ATRIBUCIONES Y UNA VEZ QUE FUEREN EVALUADOS ATENDIENDO A LOS CRITERIOS OBJETIVOS QUE DISPONGA LA LEY. EN NINGÚN CASO PODRÁN PERMANECER POR MÁS DE QUINCE AÑOS EN EL CARGO. PARA SER JUEZ SE REQUIERE:
+En caso de ausencias mayores a un mes sin licencia, o concurra la defunción, renuncia o cualquier causa de separación definitiva de una Magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, o de una Jueza o Juez del Poder Judicial del Estado, ocupará la vacante correspondiente la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación; en caso de que exista igual número de votos entre las personas con derecho a cubrir una ausencia, el Pleno del Tribunal Superior de Justicia decidirá el orden por mayoría de votos, en estos casos el Congreso del Estado, tomará protesta de ley a la persona que cubrirá las ausencias para desempeñarse en el encargo.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+Quien asuma en sustitución el cargo en los supuestos a que se refiere el párrafo anterior, ejercerá el mismo por el periodo que reste del cargo vacante.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+Las licencias otorgadas a las Magistraturas numerarias serán cubiertas por las Magistraturas Supernumerarias, preferentemente del mismo género que la Magistratura que se va suplir y atendiendo al orden que decida el Pleno del Tribunal Superior de Justicia, por mayoría de votos.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+Las licencias cuando no excedan de dos meses, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia y por el Pleno del Tribunal de Disciplina Judicial, respectivamente, tratándose de las Magistraturas que los integran; así como, por el Consejo de Administración para el caso de Juezas y Jueces.
 
-II. Tener cuando menos treinta años de edad, al día de su designación;
+Las licencias de las Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial que excedan de dos meses deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado, las que en esos términos se soliciten por Juezas y Jueces serán resueltas por el Consejo de Administración.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+La persona que cubra las ausencias tomará protesta ante el órgano que resolvió sobre las licencias.
 
-III. Poseer título profesional de Licenciado en Derecho o Abogado, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO No. 36 PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2024, PÁGINA 58.]</small>
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
-
-IV. Acreditar, cuando menos cinco años de práctica profesional, y aprobar los exámenes psicométricos, de oposición y de méritos correspondientes;
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
-
-V. Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
-
-VI. Haber residido en el Estado durante los cinco años anteriores al día de su designación, y
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-VII. NO HABER OCUPADO CARGO DE ELECCIÓN POPULAR, TITULAR DE UNA DEPENDENCIA O ENTIDAD DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, ESTATAL O MUNICIPAL, DE DIRIGENCIA DE ALGÚN PARTIDO POLÍTICO DURANTE EL AÑO PREVIO AL DÍA DE LA DESIGNACIÓN.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
-
-Las designaciones de jueces serán hechas, bajo el principio de paridad de género, y preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 63.
 
-EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, EJERCERÁ SUS ATRIBUCIONES CON INDEPENDENCIA E IMPARCIALIDAD Y LE CORRESPONDE LAS ATRIBUCIONES SIGUIENTES:
+Corresponde al Pleno del Tribunal Superior de Justicia:
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -2315,15 +2315,13 @@ II.- Resolver las cuestiones de competencia y las de acumulación que se suscite
 
 III.- Resolver sobre las recusaciones y excusas de Magistrados y Secretarios del Tribunal;
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+IV.- Resolver respecto a la designación, ratificación, remoción y renuncia del personal jurisdiccional del Tribunal, quienes serán seleccionados por las Magistradas y Magistrados correspondientes, de entre la lista que presente el Consejo de Administración, en los términos de la Ley y el reglamento respectivo;
 
-IV.- RESOLVER RESPECTO A LA DESIGNACIÓN, RATIFICACIÓN, REMOCIÓN Y RENUNCIA DE JUECES DEL PODER JUDICIAL, DE CONFORMIDAD CON LO PREVISTO EN ESTA CONSTITUCIÓN, LA LEY Y EL REGLAMENTO RESPECTIVO. IGUALES FACULTADES LE CORRESPONDEN EN CUANTO AL PERSONAL JURISDICCIONAL DEL TRIBUNAL, QUIENES SERÁN SELECCIONADOS POR LOS MAGISTRADOS CORRESPONDIENTES, DE ENTRE LA LISTA QUE PRESENTE EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, EN LOS TÉRMINOS DE LA LEY Y EL REGLAMENTO RESPECTIVO;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
-
-V.- Determinar la adscripción de los Magistrados en las Salas del Tribunal;
+V.- Determinar la adscripción y readscripción de las Magistradas y Magistrados en las Salas del Tribunal;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2337,117 +2335,149 @@ VII.- Expedir acuerdos para el mejor ejercicio de sus atribuciones;
 
 VIII.- Establecer mecanismos que transparenten y propicien la rendición de cuentas de la función jurisdiccional de los Magistrados;
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+IX.- Emitir opinión respecto al proyecto de (sic) Plan de Desarrollo Judicial que le presente el Consejo de Administración del Poder Judicial del Estado, en los términos de la Ley;
 
-IX.- ELABORAR Y APROBAR EL PLAN DE DESARROLLO JUDICIAL EN TÉRMINOS DE LA LEY;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+X.- Designar a dos integrantes del Consejo de Administración del Poder Judicial del Estado en los términos de esta Constitución; y,
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
 
-X.- REMITIR AL CONGRESO DEL ESTADO Y AL TITULAR DEL PODER EJECUTIVO, LOS AVISOS RELACIONADOS CON RENUNCIAS, CAMBIOS, TERMINACIÓN DE PERÍODOS Y AUSENCIAS DEFINITIVAS DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA;
+XI.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-XI.- ESTABLECER LAS BASES PARA LA FORMACIÓN Y ACTUALIZACIÓN DE FUNCIONARIOS Y EL DESARROLLO DE LA CARRERA JUDICIAL, LA CUAL SE REGIRÁ POR LOS PRINCIPIOS DE EXCELENCIA, OBJETIVIDAD, IMPARCIALIDAD, PROFESIONALISMO E INDEPENDENCIA;
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-XII.- ESTABLECER LOS MECANISMOS PARA APLICACIÓN DE EXÁMENES PSICOMÉTRICOS Y DE OPOSICIÓN PARA LA DESIGNACIÓN DE LOS JUECES;
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-XIII.- EXPEDIR ACUERDOS GENERALES PARA EL ADECUADO EJERCICIO DE SUS ATRIBUCIONES DE CONFORMIDAD CON LO QUE ESTABLEZCA LA LEY;
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-XIV.- INTEGRAR LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL DEL ESTADO, QUE SERÁ LA RESPONSABLE DE CONDUCIR LA ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL, Y FUNGIRÁ COMO ÓRGANO DE APOYO ADMINISTRATIVO DEL TRIBUNAL SUPERIOR DE JUSTICIA, EN LOS TÉRMINOS PREVISTOS POR LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO;
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-XV.- ELABORAR EL PROYECTO DE PRESUPUESTO GLOBAL DEL PODER JUDICIAL DEL ESTADO, QUE COMPRENDERÁ EL DEL TRIBUNAL SUPERIOR DE JUSTICIA, JUZGADOS Y DEMÁS ÓRGANOS JUDICIALES, Y
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA Y REUBICADA, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-XVI.- EJERCER LAS DEMÁS ATRIBUCIONES QUE LES SEÑALE ESTA CONSTITUCIÓN Y LAS LEYES.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 64.
 
-(DEROGADO, P.O. 19 DE OCTUBRE DE 2020)
+El Tribunal de Disciplina Judicial es el órgano del Poder Judicial del Estado que tendrá a su cargo la vigilancia, disciplina y supervisión de los integrantes del Poder Judicial; contará con independencia técnica y de gestión para emitir sus resoluciones y se integrará por tres Magistraturas Numerarias y una Magistratura Supernumeraria que serán electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 60 de esta Constitución.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 93, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 36.]</small>
+Para ser elegibles, las Magistraturas del Tribunal de Disciplina Judicial deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+I. Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Contar al día de la publicación de la convocatoria señalada en la fracción I del artículo 60 de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente, y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado;
+
+III. Contar con ejercicio profesional de la actividad jurídica de cuando menos cinco años;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V. No estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público;
+
+VI. Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 60 de esta Constitución;
+
+VII. No haber sido Secretario de Estado o su equivalente, Fiscal General del Estado, Diputada o Diputado Local, ni Gobernadora o Gobernador del Estado, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 60 de esta Constitución; y,
+
+VIII. Haberse distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades.
+
+Durarán seis años en su encargo, no podrán ser electos para un nuevo período. Cada dos años, se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
+
+El Tribunal de Disciplina funcionará en Pleno y en comisiones.
+
+El Pleno será la autoridad substanciadora en los términos que establezca la ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares, de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
+
+El Tribunal desahogará el procedimiento de responsabilidades administrativas en primera instancia, a través de comisiones conformadas por uno de sus integrantes, quien fungirá como autoridad substanciadora y resolutora en los asuntos de su competencia, sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de votos, en los términos que señale la ley.
+
+Las decisiones del Tribunal de Disciplina Judicial serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en su contra.
+
+El Tribunal conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+El Tribunal dará vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, podrán solicitar en forma excepcional y justificada la readscripción o el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
+
+Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de las Magistraturas del Tribunal Superior de Justicia, que sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+
+El Tribunal evaluará el desempeño del personal administrativo, así como de Magistraturas, Juezas y Jueces del Poder Judicial del Estado que resulten electas en la elección estatal que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación.
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial del Estado.
+
+Las Magistraturas del Tribunal de Disciplina Judicial ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 65.
 
-…
+El Consejo de Administración del Poder Judicial del Estado, será responsable de la administración y carrera judicial, para lo cual contará con independencia técnica y de gestión.
 
-Las personas …
+Tendrá a su cargo la determinación del número, materia y competencia de las salas del Tribunal Superior de Justicia, número y demarcación territorial de los partidos judiciales y, competencia territorial y especialización por materias de las Magistradas y Magistrados del Tribunal Superior de Justicia, así como de Juezas o Jueces del Poder Judicial.
 
-El Consejo …
+Asimismo, conocerá del ingreso, permanencia y separación del personal de carrera judicial y administrativo, y la readscripción de Juezas o Jueces del Poder Judicial cuando por necesidades del servicio así se requiera.
 
-Corresponderá al Consejo de la Judicatura el desarrollo de la carrera judicial. Al Pleno del Consejo le corresponderá proponer al Pleno del Tribunal Superior la designación, adscripción, remoción y renuncia de Jueces del Poder Judicial en los términos de la Ley y el reglamento respectivo. Las propuestas de nombramiento de Jueces, Secretarios de Acuerdos, Secretario Instructor, Actuarios y del personal jurisdiccional del Tribunal Superior de Justicia se integrarán con quienes hayan resultado aprobados en los exámenes psicométricos, de oposición y de méritos practicados por el Consejo de la Judicatura, conforme a la Ley y el reglamento respectivo. Los Secretarios de Acuerdos, Secretario Instructor y Actuarios serán seleccionados por el Juez respectivo de entre quienes integren la lista que le presente el Consejo. Asimismo, resolverá los demás asuntos que la Ley determine.
+De igual forma, tendrá a su cargo la formación, promoción y evaluación de desempeño del personal de carrera judicial y administrativo; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
-Los Consejeros …
+El Consejo de Administración del Poder Judicial se integrará en los siguientes términos:
 
-La Ley establecerá …
+I.- Por la persona titular de la Presidencia del Tribunal Superior de Justicia, quien lo presidirá.
 
-El Consejo de la Judicatura …
+II.- Por una persona designada por la Gobernadora o Gobernador del Estado.
 
-Las resoluciones …
+III.- Por una persona designada por el Congreso del Estado mediante votación de las dos terceras partes de sus integrantes presentes.
 
-El Consejo de la Judicatura del Estado elaborará …
+IV.- Por dos personas designadas por el Pleno del Tribunal Superior de Justicia.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las personas a que se refieren las fracciones II, III y IV durarán en su encargo cuatro años improrrogables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2020)</small>
+Quienes integren el Pleno del Consejo de Administración deberán reunir los siguientes requisitos:
+
+a) Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+b) Contar con ejercicio profesional de la profesión mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Consejo de Administración, con antigüedad mínima de cinco años; y,
+
+c) No estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+Durante su encargo, los integrantes del Pleno del Consejo de Administración sólo podrán ser removidos en los términos del Título Octavo de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguno de sus integrantes, la autoridad que lo designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
+
+El Consejo de Administración del Poder Judicial del Estado contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela de Formación Judicial del Estado responsable de lo relacionado con el diseño e implementación de los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, y sus órganos auxiliares, de conformidad con la normatividad correspondiente, así como de llevar a cabo los concursos y exámenes para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+Conforme a lo que establezca la ley, el Consejo de Administración del Poder Judicial del Estado estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. Asimismo, le corresponderá elaborar y aprobar el Plan de Desarrollo Judicial, previa opinión no vinculante que realice el Pleno del Tribunal Superior de Justicia del Estado.
+
+Asimismo, contará con la atribución de proponer al Tribunal Superior de Justicia la creación de nuevos cargos de Magistraturas del Tribunal Superior de Justicia o en su caso de Juezas o Jueces del Poder Judicial, previo estudio que lo justifique en razón a las necesidades del servicio, de acuerdo a la disponibilidad presupuestal correspondiente.
+
+Para ocupar los cargos de nueva creación de Magistraturas a que hace referencia el párrafo anterior, la Gobernadora o Gobernador del Estado, someterá una terna a consideración del Congreso del Estado, el cual elegirá por el voto de la mayoría calificada de sus integrantes presentes a una persona para ejercer la vacante de nueva creación. Por lo que hace a los cargos de Juezas y Jueces, el Pleno del Tribunal de Justicia del Estado elegirá por el voto de la mayoría calificada de sus integrantes presentes a una persona para ejercer la vacante de nueva creación. Las personas propuestas en la terna deberán cumplir los requisitos de elegibilidad aplicables para Magistraturas, Juezas o Jueces, según sea el caso.
+
+En todos los casos, las personas designadas para ejercer las funciones de los cargos previstos en el párrafo anterior serán incorporadas a los listados para participar en la elección judicial que corresponda conforme a lo establecido en el artículo 60 de esta Constitución, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas en la elección local para un cargo o partido judicial diverso. En caso de no resultar electas por la ciudadanía, el ejercicio de su encargo concluirá en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección correspondiente.
+
+El Tribunal de Disciplina Judicial podrá solicitar al Consejo de Administración del Poder Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia.
+
+Las propuestas de nombramiento de Secretarios de Acuerdos, Secretario Instructor, Actuarios y del personal jurisdiccional del Tribunal Superior de Justicia se integrarán con quienes hayan resultado aprobados en los exámenes psicométricos, de oposición y de méritos practicados por el Consejo de Administración, conforme a la Ley y el reglamento respectivo. Los Secretarios de Acuerdos, Secretario Instructor y Actuarios serán seleccionados por el Juez respectivo de entre quienes integren la lista que le presente el Consejo de Administración del Poder Judicial.
+
+Los integrantes del Consejo de Administración del Poder Judicial del Estado ejercerán su función con independencia e imparcialidad.
+
+Las resoluciones del Consejo de Administración del Poder Judicial del Estado serán definitivas e inatacables y, por lo tanto, no procederá recurso ni juicio alguno, en contra de ellas.
+
+El Consejo de Administración elaborará el presupuesto del Poder Judicial del Estado, el cual comprenderá su presupuesto global, el del Tribunal Superior de Justicia, de los Juzgados y demás órganos judiciales; será elaborado por grupos y partidas presupuestales, y remitido por conducto de su Consejo de Administración a la Gobernadora o Gobernador del Estado para su inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Poder Judicial no podrá ser modificado por la Gobernadora o Gobernador del Estado, pero el Congreso del Estado sí lo podrá modificar, en los términos señalados en artículo 90 de esta Constitución. El presupuesto estará vinculado a la aplicación del Plan de Desarrollo Judicial.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO No. 36 PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2024, PÁGINA 64.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 66.
 
-LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL DEL ESTADO, DURANTE EL TIEMPO DE SU ENCARGO, AUN CUANDO TENGAN CARÁCTER DE INTERINOS, NO PODRÁN ACEPTAR NI DESEMPEÑAR EMPLEO O ENCARGO EN LA FEDERACIÓN, ESTADO O MUNICIPIOS NI DE PARTICULARES, SALVO LOS CARGOS NO REMUNERADOS EN ASOCIACIONES CIENTÍFICAS, DOCENTES, LITERARIAS O DE BENEFICENCIA. ASIMISMO, ESTARÁN IMPEDIDOS PARA LITIGAR ANTE CUALQUIER INSTANCIA, SALVO CUANDO SE TRATE DE CAUSA PROPIA.
+Las personas juzgadoras del Poder Judicial del Estado así como las personas que integran el Pleno de su Consejo de Administración, el Secretario General de Acuerdos, las y los Secretarios Auxiliares, de Estudio y Cuenta del Poder Judicial del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos, no podrán aceptar ni desempeñar empleo o encargo en la Federación, Estado o Municipios ni de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Asimismo, estarán impedidos para litigar ante cualquier instancia, salvo cuando se trate de causa propia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Los Secretarios de Acuerdos, Secretario instructor y Actuarios del Poder Judicial del Estado, estarán sujetos a los mismos impedimentos a que alude el párrafo anterior, pero sí podrán desempeñar cargos remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida o privación del respectivo cargo dentro del Poder Judicial del Estado, independientemente de las demás sanciones que las leyes prevean.
+La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida o privación del respectivo cargo dentro del Poder Judicial del Estado, independientemente de las demás sanciones que las leyes prevean, con excepción de las Magistraturas del Poder Judicial del Estado y los integrantes del Consejo de Administración que solo podrán ser removidos en términos del título octavo de esta Constitución. Quienes hayan ejercido los cargos a que se refiere este artículo estarán impedidos para desempeñarse como abogado patrono, procurador o cualquier género de representación en aquellos asuntos que hayan conocido.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Quienes hayan ejercido los cargos a que se refiere este artículo, estarán impedidos para desempeñarse como abogado patrono, procurador o cualquier género de representación en aquellos asuntos que haya conocido.
+Toda persona servidora pública del Poder Judicial que tenga conocimiento de la comisión de hechos posiblemente delictuosos que deban perseguirse de oficio o que pudieran constituir una responsabilidad administrativa, estará obligado a denunciarlos en los términos de las leyes respectivas. Corresponderá al Tribunal de Disciplina Judicial en ejercicio de sus facultades, investigar y determinar las responsabilidades de los servidores públicos del Poder Judicial.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-TODO SERVIDOR PÚBLICO DEL PODER JUDICIAL DEL ESTADO QUE TENGA CONOCIMIENTO DE LA COMISIÓN DE HECHOS POSIBLEMENTE DELICTUOSOS QUE DEBAN PERSEGUIRSE DE OFICIO O QUE PUDIERAN CONSTITUIR UNA RESPONSABILIDAD ADMINISTRATIVA, ESTARÁ OBLIGADO A DENUNCIARLOS EN LOS TÉRMINOS DE LAS LEYES RESPECTIVAS. CORRESPONDERÁ AL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, EN EJERCICIO DE SUS FACULTADES, INVESTIGAR Y DETERMINAR LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y FORMULAR EN SU CASO DENUNCIAS O QUERELLAS POR LA COMISIÓN DE DELITOS COMETIDOS POR LOS MISMOS, DE ACUERDO CON LO PREVISTO EN LAS LEYES.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 67.
 
-Los Magistrados, Jueces y demás funcionarios del Poder Judicial del Estado, serán responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo.
+Las personas juzgadoras, las personas que integren el Consejo de Administración del Poder Judicial del Estado, así como las demás personas servidoras públicas del Poder Judicial, serán responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -3053,11 +3083,9 @@ Para garantizar su independencia económica, el Poder Judicial, contará con Pre
 
 Para la aprobación del presupuesto anual del Poder Judicial, el Congreso podrá considerar lo previsto en el Plan de Desarrollo Judicial correspondiente.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-EL PODER JUDICIAL CONTARÁ Y ADMINISTRARÁ IGUALMENTE, CON LOS RECURSOS QUE SE SEÑALAN PARA EL FONDO DE ADMINISTRACIÓN DE JUSTICIA EN LAS LEYES RESPECTIVAS, ADMINISTRADO POR LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA. DICHO FONDO SE DESTINARÁ EXCLUSIVAMENTE AL MEJORAMIENTO DE LA IMPARTICIÓN DE JUSTICIA, Y PARA OTORGAR ESTÍMULOS AL PERSONAL JURISDICCIONAL DEL PODER JUDICIAL, EXCLUYENDO A LOS MAGISTRADOS Y JUECES. LA LEY ESTABLECERÁ LOS MECANISMOS PARA LA PLENA FISCALIZACIÓN DEL FONDO POR EL CONGRESO.
+El Poder Judicial contará y administrará igualmente, los recursos que se señalan para el Fondo de Administración de Justicia en las Leyes respectivas, administrado por su Consejo de Administración. Dicho Fondo se destinará exclusivamente al mejoramiento de la impartición de justicia, y para otorgar estímulos al personal jurisdiccional del Poder Judicial, excluyendo a las personas juzgadoras del Poder Judicial del Estado. La Ley establecerá los mecanismos para la plena fiscalización del Fondo por el Congreso.
 
 ## TITULO OCTAVO
 
@@ -3157,11 +3185,9 @@ Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presenta
 
 En materia de Juicio Político y Moción de Censura, se observarán las siguientes bases:
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL APARTADO A DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-APARTADO A. DEL JUICIO POLÍTICO.- PODRÁN SER SUJETOS DE JUICIO POLÍTICO: LOS DIPUTADOS DEL CONGRESO DEL ESTADO, MAGISTRADOS DEL PODER JUDICIAL DEL ESTADO, EL SECRETARIO GENERAL DE GOBIERNO, LOS TITULARES DE LAS SECRETARÍAS DEL EJECUTIVO DEL ESTADO, EL FISCAL GENERAL DEL ESTADO, EL FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, EL FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES, EL PRESIDENTE DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LOS MAGISTRADOS DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, JUECES, PRESIDENTES MUNICIPALES, REGIDORES, SÍNDICOS MUNICIPALES, TESOREROS, SECRETARIOS DE GABINETE Y DEMÁS MIEMBROS DE LOS AYUNTAMIENTOS DE ELECCIÓN POPULAR, CONSEJOS MUNICIPALES, DIRECTORES GENERALES O SUS EQUIVALENTES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN MAYORITARIA, SOCIEDADES Y ASOCIACIONES ASIMILADAS A ÉSTAS Y FIDEICOMISOS PÚBLICOS.
+APARTADO A. Del Juicio Político.- Podrán ser sujetos de Juicio Político: las Diputadas y Diputados del Congreso del Estado, las Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, las personas titulares del Consejo de Administración del Poder Judicial, de la Secretaria General de Gobierno, Titulares de las Secretarías del Ejecutivo del Estado, de la Fiscalía General del Estado, y las Fiscalías Especializadas para la Atención de Delitos Electorales, de Combate a la Corrupción, la Presidencia de la Comisión Estatal de los Derechos Humanos, Magistraturas así como Juezas y Jueces del Tribunal Estatal de Justicia Administrativa, Presidentas y Presidentes Municipales, Regidoras y Regidores, personas titulares de la Sindicaturas, Tesorerías Municipales, Secretarías de Gabinete y demás integrantes de los Ayuntamientos de Elección Popular, Consejos Municipales, Direcciones Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -3207,13 +3233,11 @@ La votación no podrá llevarse a cabo en la misma sesión, sino con posteriorid
 
 Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 94.
 
-PARA PROCEDER PENALMENTE CONTRA EL GOBERNADOR, LOS DIPUTADOS DEL CONGRESO DEL ESTADO, MAGISTRADOS DEL PODER JUDICIAL DEL ESTADO, MAGISTRADOS DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, SECRETARIO GENERAL DE GOBIERNO, FISCAL GENERAL DEL ESTADO, FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS DE LOS AYUNTAMIENTOS DEL ESTADO O COMISIONADOS DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE BAJA CALIFORNIA, BASTARÁ QUE EL JUEZ DE CONTROL DICTE AUTO DE VINCULACIÓN A PROCESO EN LOS TÉRMINOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.
+Para proceder penalmente contra la Gobernadora o Gobernador, las Diputadas o Diputados del Congreso del Estado; Las Magistradas o Magistrados del Poder Judicial del Estado; los Integrantes del Consejo de Administración y las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado, las Magistradas y Magistrados del Tribunal Estatal de Justicia Administrativa; las personas titulares de la Secretaría General de Gobierno, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Atención de Delitos Electorales, Presidentas y Presidentes Municipales, Regidoras y Regidores, así como las personas titulares de las Sindicaturas de los Ayuntamientos del Estado o Comisionadas y Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, bastará que la Jueza o Juez de control dicte auto de vinculación penal, en los términos del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -3231,11 +3255,9 @@ Si la sentencia fuese condenatoria y se trata de un delito cometido durante el e
 
 En el caso de que la resolución del Juez fuese no vincular a proceso, o que vinculando al mismo, las medidas cautelares no impidiesen al servidor público permanecer en el cargo, este solo podrá ser separado por resolución judicial ejecutoriada, sin que lo anterior demerite o impida el desarrollo del debido proceso penal de que se trate.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-EN EL CASO DE VIOLACIONES A LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y A LAS LEYES FEDERALES COMETIDAS POR EL GOBERNADOR DEL ESTADO, DIPUTADOS, MAGISTRADOS DEL PODER JUDICIAL DEL ESTADO, PRESIDENTES MUNICIPALES, Y A LOS MIEMBROS DE LOS ÓRGANOS A LOS QUE LA CONSTITUCIÓN OTORGUE AUTONOMÍA, SE PROCEDERÁ DE CONFORMIDAD CON LO PREVISTO EN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+En el caso de violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales cometidas por la Gobernadora o Gobernador del Estado, Diputadas y Diputados, Magistradas y Magistrados del Poder Judicial del Estado, los Integrantes del Consejo de Administración del Poder Judicial del Estado y las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado, Presidentas y Presidentes Municipales, y a los miembros de los órganos a los que la Constitución otorgue autonomía, se procederá de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -3271,11 +3293,9 @@ e).- Los Síndicos Procuradores,
 
 f).- El Consejero Presidente del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado;
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL INCISO g) DE LA FRACCIÓN I DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-g).- UN REPRESENTANTE DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, Y,
+g).- Una persona representante del Tribunal de Disciplina Judicial; y,
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
@@ -3485,33 +3505,15 @@ El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la
 
 La atención a la salud será considerada como un área prioritaria para el desarrollo del Estado y de la sociedad en su conjunto, conforme a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en los que México sea parte, en los términos que establezcan las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 107.
 
-En los procesos de nombramiento, designación o elección de los cargos públicos que a continuación se señalan, los aspirantes deberán de comparecer en audiencia pública ante los órganos competentes.
+En los procesos de nombramiento, designación o elección de las personas titulares de la Comisión Estatal de los Derechos Humanos, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, el Tribunal Estatal de Justicia Administrativa, la Auditoría Superior del Estado y el Centro de Conciliación Laboral de Baja California, la Comisión del Congreso encargada de elaborar los dictámenes respectivos deberá llevar a cabo la audiencia pública de las personas aspirantes.
 
-I.- Magistrados del Tribunal Superior de Justicia.
+Durante las audiencias públicas señaladas en el párrafo anterior las personas aspirantes realizarán una breve exposición sobre el cargo a ocupar, sus méritos profesionales y las acciones a desarrollar en el caso de ser nombradas, designadas o electas. Dentro de la audiencia, los integrantes de los órganos competentes podrán formular las preguntas que consideren pertinentes.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2020)
-
-III.- Jueces del Poder Judicial del Estado.
-
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
-
-IV.- Titulares de la Comisión Estatal de los Derechos Humanos; del Instituto de Transparencia y Acceso a la Información Pública y Protección de Datos Personales del Estado; del Tribunal Estatal de Justicia Administrativa y de la Auditoría Superior del Estado y del Centro de Conciliación Laboral del Estado de Baja California.
-
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-TRATÁNDOSE DE LOS SERVIDORES PÚBLICOS SEÑALADOS EN LAS FRACCIONES I Y IV DE ESTE ARTÍCULO, LA AUDIENCIA PÚBLICA DEBERÁ EFECTUARSE POR LA COMISIÓN DEL CONGRESO DEL ESTADO ENCARGADA DE REALIZAR LOS DICTÁMENES PARA EL NOMBRAMIENTO, DESIGNACIÓN O ELECCIÓN DE LOS CITADOS CARGOS. POR SU PARTE, EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, DENTRO DE LOS PROCEDIMIENTOS DE ELABORACIÓN DE LAS LISTAS DE ASPIRANTES A MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DE JUECES DEL PODER JUDICIAL DEL ESTADO A LAS QUE HACEN MENCIÓN LOS ARTÍCULOS 58 PÁRRAFO CUARTO Y 63 FRACCIÓN IV DE ESTA CONSTITUCIÓN, ESTARÁ OBLIGADO A EFECTUAR AUDIENCIAS PÚBLICAS.
-
-Durante las audiencias públicas señaladas en el párrafo anterior, los aspirantes realizarán una breve exposición sobre el cargo a ocupar, sus méritos profesionales y las acciones a desarrollar en el caso de ser nombrados, designados o electos. Dentro de la audiencia, los integrantes de los órganos competentes podrán formular las preguntas que consideren pertinentes.
-
-Todos los ciudadanos y medios de comunicación podrán asistir a las audiencias señaladas en este artículo, pero no a participar en la deliberación que realicen los órganos competentes. Las audiencias deberán realizarse en espacios que permitan la asistencia de una cantidad importante de ciudadanos y además deberán ser transmitidas por las páginas de internet del Congreso y del Poder Judicial del Estado, según corresponda.
+Todos los ciudadanos y medios de comunicación podrán asistir a las audiencias señaladas en este artículo, pero no a participar en la deliberación que realicen los órganos competentes. Las audiencias deberán realizarse en espacios que permitan la asistencia de una cantidad importante de ciudadanos y además deberán ser transmitidas por las páginas de internet del Congreso local.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3521,27 +3523,27 @@ Nadie podrá entrar en el desempeño de ningún cargo o empleo del Estado, sin p
 
 Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que les faltare para cumplir el período correspondiente.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 109.
 
-El Gobernador del Estado rendirá la protesta de Ley ante el Congreso en los siguientes términos:
+La Gobernadora o Gobernador del Estado rendirá la protesta de Ley ante el Congreso en los siguientes términos:
 
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las Leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demanden.
+“Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las Leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernadora o Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demanden.”
 
-Igualmente, los Magistrados del Poder Judicial rendirán la protesta de Ley ante el Congreso, en la siguiente forma:
+Igualmente, las Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial del Poder Judicial del Estado rendirán la protesta de Ley ante el Congreso, en la siguiente forma:
 
-El Presidente del Congreso preguntará:
+La presidencia del Congreso preguntará:
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Poder Judicial que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
+“¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrada o Magistrado del Poder Judicial que se os ha conferido?”. La persona interrogada contestará: “Sí protesto”. Acto continuo, dirá la presidencia del Congreso: “Si así no lo hiciereis que la Nación y el Estado os lo demanden”.
 
-Igualmente, los Magistrados del Tribunal Estatal de Justicia Administrativa rendirán la protesta de Ley ante el Congreso del Estado, en la siguiente forma:
+Los integrantes del Consejo de Administración del Poder Judicial rendirán protesta de Ley ante la presidencia del Tribunal Superior de Justicia del Estado, en la siguiente forma:
 
-El Presidente del Congreso preguntará:
+“¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de integrante del Consejo de Administración del Poder Judicial que se os ha conferido?”. La persona interrogada contestará: “Sí protesto”. Acto continuo, dirá a la presidencia del Congreso del Estado: “Si así no lo hiciereis que la Nación y el Estado os lo demanden”.
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Estatal de Justicia Administrativa que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
+Igualmente, las Magistraturas del Tribunal Estatal de Justicia Administrativa rendirán la protesta de Ley ante el Congreso del Estado, en la siguiente forma: La presidencia del Congreso preguntará:
+
+“¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Estatal de Justicia Administrativa que se os ha conferido?”. La persona interrogada contestará: “Sí protesto”. Acto continuo, dirá la presidencia del Congreso: “Si así no lo hiciereis que la Nación y el Estado os lo demanden”.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
@@ -5764,3 +5766,133 @@ SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 CUARTO.- Armonizados los ordenamientos secundarios respecto de la reforma en materia de obligaciones alimentarias, será obligatorio para las autoridades del orden municipal y estatal, solicitar como requisito para ingreso y permanencia en el servicio público la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 36 MEDIANTE EL CUAL SE APRUEBA LA REFORMAN (SIC) DIVERSOS ARTÍCULOS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN MATERIA DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procédase a realizar la declaración de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+La atribución del Tribunal de Disciplina Judicial para resolver los conflictos entre el Poder Judicial del Estado y sus servidores públicos, prevista el artículo 57 de esta Constitución materia del presente decreto, iniciará su vigencia en la forma gradual, términos y condiciones que determine la reforma a la legislación secundaria, misma que deberá expedirse en un periodo no mayor al de un año, contado a partir del inicio de vigencia del presente Decreto.
+
+La legislación secundaria a que se refiere el párrafo anterior, deberá considerar por lo menos que los asuntos que se encuentren iniciados, en trámite o pendientes de resolución a su entrada en vigor, continuarán substanciándose hasta su conclusión, por la autoridad competente y conforme a las disposiciones aplicables.
+
+CUARTO.- El Proceso Electoral local Extraordinario de 2025 dará inicio el día de la entrada en vigor de la presente reforma y tendrá por objeto elegir en términos del artículo quinto transitorio del presente Decreto los siguientes cargos del Poder Judicial del Estado:
+
+I.- Diecisiete Magistraturas Numerarias del Tribunal Superior de Justicia, de entre los cuales una Magistratura será Especializada en Justicia para Adolescentes y dieciséis de competencia mixta;
+
+II.- Tres Magistraturas Supernumerarias del Tribunal Superior de Justicia de competencia mixta;
+
+III.- Tres Magistraturas Numerarias del Tribunal de Disciplina Judicial;
+
+IV.- Una Magistratura Supernumeraria del Tribunal de Disciplina Judicial; y,
+
+V.- La totalidad de los cargos de Juezas y Jueces.
+
+El periodo de las Magistraturas Numerarias y Supernumerarias del Tribunal Superior de Justicia, así como las Juezas y Jueces del Poder Judicial del Estado que resulten electas en la elección extraordinaria que se celebre en el año 2025 durará ocho años, por lo que su encargo concluirá en el año 2033 en el día previo a la fecha que tomen protesta las personas servidoras públicas que emanen de la elección correspondiente.
+
+QUINTO.- La elección extraordinaria de las personas juzgadoras del Poder Judicial del Estado, a que se refiere el artículo transitorio anterior, se realizará de conformidad con las siguientes etapas y reglas:
+
+I.- De la preparación de la elección:
+
+La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión que el Consejo General de la autoridad administrativa electoral competente celebre en los siete días posteriores a la entrada en vigor del presente Decreto.
+
+II.- De la Convocatoria:
+
+El Consejo de la Judicatura deberá remitir un listado con la totalidad de cargos existentes de personas juzgadoras, indicando su partido judicial, especialización por materia, género, vacancias, renuncias y retiros programados, y la demás información que se le requiera, para que el Congreso del Estado dentro de los nueve días naturales posteriores a la entrada en vigor del presente decreto emita la convocatoria dirigida a los Poderes del Estado para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial del Estado a que se refiere el artículo anterior, conforme al procedimiento previsto en el artículo 60 de este Decreto.
+
+La elección se realizará en los términos del numeral 5 de la Ley Orgánica del Poder Judicial del Estado, con la precisión de que el Municipio de Tijuana conforma un partido Judicial y el Municipio de Playas de Rosarito su propio Partido Judicial; Precisando que las personas juzgadoras de los poblados Ciudad Morelos y Ciudad Guadalupe Victoria, conforman parte del partido Judicial de Mexicali.
+
+Una vez de la entrada en vigor del presente decreto se notificará al Instituto Nacional Electoral, de los límites territoriales de estos Partidos Judiciales a efecto de que se conozca la integración de las secciones correspondientes de cada demarcación.
+
+Los Comités de Evaluación de cada Poder deberán emitir la convocatoria para integrar los listados de las personas aspirantes a los cargos de personas juzgadoras del Poder Judicial del Estado mejor evaluadas, a más tardar el día 20 de enero del año 2025.
+
+De igual forma, cada Poder del Estado, deberá remitir al Congreso del Estado los listados de (sic) definitivos de sus postulaciones, a más tardar el día 03 de marzo del año 2025.
+
+Las personas con nombramiento vigente, incluidas las Magistraturas Supernumerarias, al cierre de la convocatoria emitida por el Congreso del Estado serán incorporadas a los listados para participar en la elección extraordinaria de 2025 por el cargo de su nombramiento, salvo que declinen su candidatura antes del cierre de la convocatoria o sean postuladas para un cargo o partido judicial distinto en la elección local. En caso de no ser electas por la ciudadanía para un nuevo periodo, concluirán su encargo en la fecha en que tomen protesta las personas juzgadoras del Poder Judicial que resulten electas en la elección extraordinaria, conforme a las disposiciones transitorias aplicables del presente Decreto.
+
+Las personas con más de un nombramiento vigente en el Poder Judicial del Estado deberán decidir dentro del plazo a que se refiere el párrafo anterior, bajo cuál de ellos desean ser incorporadas a los listados para participar en la elección extraordinaria de 2025, salvo que declinen sus candidaturas conforme a lo establecido en el párrafo anterior.
+
+Por única ocasión, para el proceso electoral extraordinario de 2025 la postulación de candidaturas por parte del Poder Judicial se decidirá por la mayoría simple de las Magistraturas del Pleno de (sic) Tribunal Superior de Justicia.
+
+El Congreso Local, al recibir las postulaciones realizadas por los Poderes del Estado, integrará los listados correspondientes, incluidas las postulaciones comunes, y los remitirá a la autoridad administrativa electoral competente dentro de los cuatro días siguientes, con el propósito de que organice el proceso electivo.
+
+III.- Respecto de la organización del proceso electoral:
+
+La autoridad administrativa electoral competente podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo y vigilancia del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales que resulten aplicables al proceso electoral, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género.
+
+Cada uno de los Poderes del Estado podrá designar a una persona para que en su representación participe solo con derecho a voz, en las sesiones del Consejo General y en su caso, en cada uno de los Consejos Distritales de la autoridad administrativa electoral.
+
+Cada uno de los Poderes del Estado podrá designar a una persona o integrante del comité de evaluación respectivo para que en su representación participe solo con derecho a voz, en las sesiones del Consejo General; asimismo cada uno de los Poderes del Estado podrá designar, directamente o a través de la persona designada ante el Consejo General, a un representante en cada uno de los Consejos Distritales de la autoridad administrativa electoral.
+
+La jornada electoral se celebrará el primer domingo de junio del año 2025. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto, con excepción de representantes o militantes de un partido político.
+
+IV.- De la boleta electoral:
+
+Las boletas electorales contendrán, entre otros datos, el cargo, el partido judicial o la zona geográfica correspondiente a cada tipo de elección. Llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda. El listado de personas candidatas distinguirá la autoridad postulante, las candidaturas de personas juzgadoras del Poder Judicial que estén en funciones en los cargos a renovar y deseen participar en la elección, así como las candidaturas comunes postuladas en términos del artículo 60, fracción VII (sic) Constitución local materia del presente Decreto. La boleta garantizará que las y los votantes marquen las candidaturas de su elección.
+
+a) La elección de Magistradas y Magistrados Numerarios del Tribunal Superior de Justicia del Estado será a nivel estatal, las y los votantes podrán elegir hasta nueve mujeres y ocho hombres.
+
+b) La elección de Magistradas y Magistrados Supernumerarios del Tribunal Superior de Justicia del Estado será a nivel estatal, las y los votantes podrán elegir hasta dos mujeres y un hombre.
+
+c) La elección de Magistradas y Magistrados del Tribunal de Disciplina Judicial del Poder Judicial del Estado será a nivel estatal, las y los votantes podrán elegir hasta dos mujeres y un hombre.
+
+d) La elección de Magistrada o Magistrado Supernumerario del Tribunal de Disciplina Judicial del Poder Judicial del Estado será a nivel estatal, las y los votantes podrán elegir una mujer o un hombre.
+
+e) Para la elección de Juezas y Jueces del Poder Judicial del Estado, las y los votantes contarán con el mismo número de votos que cargos a elegir por cada partido judicial o demarcación geográfica, de los cuales podrán emitir hasta la mitad de votos para mujeres y hasta la mitad para hombres, salvo que se trate un número impar de cargos en cuyo caso podrán emitir un voto adicional para mujeres.
+
+Para determinar la validez o nulidad de los votos contenidos en las boletas, se observarán las reglas previstas en el 60, fracción IX de la Constitución local materia del presente Decreto.
+
+V.- Del cómputo y declaratoria de validez de la elección.
+
+La autoridad administrativa electoral competente efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral competente, el cual resolverá las impugnaciones a más tardar el 15 de agosto de 2025.
+
+Por única ocasión, las personas que resulten electas en el proceso electoral local extraordinario de 2025, tomarán protesta de su encargo ante el Congreso del Estado el 1º de septiembre de 2025. El Consejo de Administración adscribirá a las personas electas a más tardar el 15 de septiembre de 2025.
+
+SEXTO.- El Consejo de la Judicatura local continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia. Asimismo, llevará a cabo las gestiones administrativas necesarias para facilitar la transición hasta que tomen protesta los integrantes del Tribunal de Disciplina Judicial y el Consejo de Administración del Poder Judicial de Baja California.
+
+El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura en funciones a la entrada en vigor del presente Decreto que concluyan antes de la fecha de la elección local extraordinaria del año 2025, se prorrogarán hasta la fecha que tomen protesta las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado que emanen de la elección extraordinaria que se celebre para tal efecto.
+
+Por única ocasión, el período de las Magistraturas Numerarias y la Magistratura Supernumeraria del Tribunal de Disciplina Judicial del Poder Judicial del Estado que sean electas en la elección extraordinaria de 2025 concluirá cuando tomen protesta las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado electas en el año 2033.
+
+Por única ocasión, el Pleno del Tribunal Superior de Justicia que emane de la elección extraordinaria de 2025, contará con dos periodos de presidencia, de cuatro años cada uno.
+
+Las personas integrantes del Consejo de la Judicatura del Poder Judicial del Estado, que actualmente se encuentren en funciones, y que fueron designadas por el Poder Ejecutivo del Estado el 29 de octubre de 2024, y por el Congreso Local el 30 de noviembre de 2022, por única ocasión, pasarán a integrar el Consejo de Administración del Poder Judicial en términos del artículo 65 del presente decreto y en la fecha prevista en el transitorio séptimo siguiente.
+
+SÉPTIMO.- El Tribunal de Disciplina Judicial y el Consejo de Administración del Poder Judicial del Estado iniciarán sus funciones en la fecha en que tomen protesta las Magistraturas del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre en el año 2025. En esta misma fecha, el Consejo de la Judicatura local quedará extinto.
+
+Durante el periodo de transición referido en el párrafo anterior, el Consejo de la Judicatura del Poder Judicial del Estado implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial del Estado; y al Consejo de Administración en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Consejo de la Judicatura del Poder Judicial del Estado aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables. Asimismo, llevará a cabo las gestiones administrativas necesarias para facilitar la transición hasta que se creen el Tribunal de Disciplina Judicial y el Consejo de Administración del Poder Judicial de Baja California.
+
+El Consejo de la Judicatura del Poder Judicial del Estado continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al Consejo de Administración, según corresponda.
+
+Las personas que integren el Pleno del Consejo de Administración a que se refiere el artículo 65 de la Constitución del Estado, contenido en el presente Decreto, deberán iniciar sus funciones el mismo día en que tomen protesta las Magistraturas del Tribunal de Disciplina Judicial del Poder Judicial del Estado.
+
+OCTAVO.- De conformidad con el artículo séptimo transitorio del Decreto por el que se modifica la Constitución Federal en materia de reforma al Poder Judicial, publicado en el Diario Oficial de la Federación el 15 de septiembre de 2024, las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado que estén en funciones al momento de la entrada en vigor del presente Decreto no podrán ser mayores a la establecida para la Persona Titular de la Presidencia de la República, por lo que deberán ajustarse en el Presupuesto de Egresos del Poder Judicial a los parámetros establecidos en el artículo 127 de esta Constitución en los casos que corresponda.
+
+NOVENO.- Las presentes reformas a la Constitución del Estado, materia de este Decreto, regirán y se aplicarán directamente, sin perjuicio de las adecuaciones legales que en su caso correspondan, pudiéndose acudir supletoriamente en lo que llegase a resultar aplicable, a la legislación electoral, en lo que no se contraponga al presente Decreto.
+
+De conformidad con el artículo noveno transitorio del Decreto por el que se modifica la Constitución Federal en materia de reforma al Poder Judicial, publicado en el Diario Oficial de la Federación el 15 de septiembre de 2024, para efectos de la organización del proceso electoral extraordinario del año 2025, no será aplicable lo dispuesto en el penúltimo párrafo de la fracción segunda del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, por lo que (sic) autoridad administrativa electoral competente observará las leyes que se emitan en los términos del presente Decreto.
+
+El Congreso del Estado tendrá un plazo de 90 días naturales, a partir de la entrada en vigor del Presente Decreto, para realizar las adecuaciones a las leyes locales que correspondan para dar cumplimiento al mismo. Sin perjuicio de la facultad del Instituto Estatal Electoral, para emitir los acuerdos necesarios previo a la entrada en vigor de las reformas a las leyes secundarias, en cuanto a su competencia.
+
+DÉCIMO.- Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+DÉCIMO PRIMERO.- Los procedimientos que al momento de la entrada en vigor del presente Decreto excedan de los plazos previstos en el penúltimo párrafo, del apartado A, del artículo 55 de la Constitución del Estado contenido en el presente Decreto, deberán observar el trámite establecido en éste.
+
+DÉCIMO SEGUNDO.- Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad. El Presupuesto de Egresos del Poder Judicial del Estado del ejercicio fiscal que corresponda considerará los recursos necesarios para el pago de las diversas prestaciones u obligaciones de carácter laboral que correspondan, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables. Las personas juzgadoras del Poder Judicial del Estado, que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo conforme al quinto transitorio de este Decreto, serán acreedoras a las prestaciones a que tengan derecho conforme las reglas del haber por retiro vigentes, así como las gratificaciones plenamente justificadas que apruebe el Pleno del Tribunal Superior de Justicia del Poder Judicial del Estado de Baja California.
+
+DÉCIMO TERCERO.- El Instituto de la Judicatura del Poder Judicial del Estado y las funciones que realiza, serán sustituidas por el órgano auxiliar con autonomía técnica y de gestión del Consejo de Administración del Poder Judicial del Estado contenido en el artículo 65 de la Constitución del Estado del presente Decreto. Los recursos presupuestales y materiales, así como los bienes a cargo del Instituto de la Judicatura pasarán al órgano auxiliar referido. Quien se encuentre a cargo de la titularidad del Instituto a la entrada en vigor del presente decreto, continuará en funciones hasta en tanto se designe a la persona titular de la Escuela de Formación Judicial del Estado.
+
+DÉCIMO CUARTO.- Las erogaciones presupuestales que con motivo de la implementación y ejecución del presente decreto se requieran por parte de los Poderes del Estado y Órganos Autónomos del Estado de Baja California, se realizarán en los términos y condiciones que disponga el Presupuesto de Egresos del Estado de Baja California correspondiente al ejercicio fiscal en que se realicen.
+
+DÉCIMO QUINTO.- Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Judicial del Estado deberá realizar las adecuaciones necesarias a su reglamentación y normativa interna para su adecuada implementación.
+
+DÉCIMO SEXTO.- El Consejo General del Instituto Estatal Electoral, estará facultado para emitir los acuerdos necesarios para la organización, desarrollo, cómputos Distritales, vigilancia y fiscalización en la campaña y jornada electoral del Proceso Electoral extraordinario del año 2025, y garantizará el cumplimiento de las disposiciones constitucionales y legales.
+
+DÉCIMO SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
