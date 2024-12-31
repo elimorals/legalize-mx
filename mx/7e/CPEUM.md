@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2024-12-20"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2024.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -892,9 +892,9 @@ Para la reclusión preventiva y la ejecución de sentencias en materia de delinc
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2024)</small>
 
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos y de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, de la salud, del libre desarrollo de la personalidad, contrabando y cualquier actividad relacionada con falsos comprobantes fiscales, en los términos fijados por la ley. Para la interpretación y aplicación de las normas previstas en este párrafo, los órganos del Estado deberán atenerse a su literalidad, quedando prohibida cualquier interpretación análoga o extensiva que pretenda inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
 
 La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
@@ -1002,11 +1002,11 @@ VI. Solicitar las medidas cautelares y providencias necesarias para la protecci�
 
 VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Art. 21.
 
-La investigación de los delitos corresponde al Ministerio Público, a las policías y a la Guardia Nacional, en el ámbito de su competencia, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+La investigación de los delitos corresponde al Ministerio Público, a la secretaría del ramo de seguridad pública del Ejecutivo Federal, a la Guardia Nacional y a las policías, en el ámbito de su competencia, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -1064,17 +1064,21 @@ c) La formulación de políticas públicas tendientes a prevenir la comisión de
 
 d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2024)</small>
 
-e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
+e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines. Estos fondos serán auditados y su debido ejercicio vigilado por el Sistema a través de su Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2024)</small>
+
+f) El Sistema contará con un Secretariado Ejecutivo, el cual podrá ampliar las bases, emitir acuerdos y lineamientos, así como realizar las acciones necesarias para lograr la homologación de estándares y criterios, así como una coordinación eficiente, transparente y responsable, en el ejercicio de las atribuciones concurrentes de los tres órdenes de gobierno; en todo momento en atención a los fines del Sistema y los objetivos de la Estrategia Nacional de Seguridad Pública.
 
 > <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
 
 La Federación contará con la Guardia Nacional, fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial, dependiente de la secretaría del ramo de defensa nacional, para ejecutar la Estrategia Nacional de Seguridad Pública en el ámbito de su competencia. Los fines de la Guardia Nacional son los señalados en el párrafo noveno de este artículo, la coordinación y colaboración con las entidades federativas y Municipios, así como la salvaguarda de los bienes y recursos de la Nación. La ley determinará la estructura orgánica y de dirección de la Guardia Nacional.
 
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2024)</small>
 
-La secretaría del ramo de seguridad pública formulará la Estrategia Nacional de Seguridad Pública, y los programas, políticas y acciones respectivos.
+La secretaría del ramo de seguridad pública formulará, coordinará y dirigirá la Estrategia Nacional de Seguridad Pública, así como los programas, las políticas y acciones respectivos; auxiliará a la persona titular de la Presidencia de la República en el ejercicio de las funciones en materia de seguridad nacional; le corresponderá la coordinación del Sistema Nacional de Inteligencia en materia de seguridad pública, en los términos que señale la ley, y podrá coordinar las acciones de colaboración de los tres órdenes de gobierno, a través de las instituciones de seguridad pública, los cuales además deberán de proporcionar la información de que dispongan o que recaben en la materia conforme a la ley. Podrá solicitar información a las instituciones y dependencias del Estado para la identificación y esclarecimiento de los hechos presuntamente constitutivos de delitos.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2019)</small>
 
@@ -9427,3 +9431,27 @@ Décimo Primero.- La Comisión Federal de Competencia Económica y el Instituto 
 Los Comisionados del Instituto Federal de Telecomunicaciones y de la Comisión Federal de Competencia Económica que continúen en su encargo, concluirán sus funciones a la entrada en vigor del presente Decreto, en términos del artículo Décimo transitorio.
 
 Décimo Segundo.- A partir de la entrada en vigor del presente Decreto, la entidad paraestatal denominada Organismo Promotor de Inversiones en Telecomunicaciones quedará sectorizada a la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+D.O.F. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PRISIÓN PREVENTIVA OFICIOSA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al contenido, previstas en leyes secundarias, reglamentos, acuerdos y cualquier otro ordenamiento normativo de carácter administrativo.
+
+Tercero.- El Congreso de la Unión, en un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes en las materias con el contenido del presente Decreto.
+
+Cuarto.- Las legislaturas de las entidades federativas deben realizar las adecuaciones normativas necesarias para cumplir con lo previsto en el presente Decreto, dentro de los trescientos sesenta y cinco días naturales siguientes a la publicación de este ordenamiento.
+
+D.O.F. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SEGURIDAD PÚBLICA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero.- En el término de noventa días naturales, contados a partir de la publicación del presente Decreto, la Secretaría de Seguridad y Protección Ciudadana realizará la armonización normativa de los instrumentos jurídicos que correspondan.
+
+Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto asignado a la Secretaría de Seguridad y Protección Ciudadana, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
