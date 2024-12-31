@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-427-del-sistema-de-coordinacion-hacendaria-del-76227
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-13"
-last_updated: "2024-02-23"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 
@@ -431,13 +431,17 @@ a) La primera parte garantiza el monto total del recurso del Fondo de Fomento Mu
 
 b) De la segunda parte, sólo participarán los municipios que hayan convenido la coordinación fiscal en la administración y cobro del impuesto predial a que se refiere el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, de la cual, del 100% del monto correspondiente por la existencia de dicha coordinación fiscal, el 70% se distribuirá en proporción directa a la población de cada municipio, y un 30% en proporción directa a sus ingresos propios.
 
-III.- 20% de los ingresos que correspondan al Estado derivado de participaciones en el Impuesto Federal Sobre Tenencia o Uso de Vehículos.
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 IV.- 20% de los ingresos que perciba el Estado por concepto de participación de la recaudación del Impuesto Especial Sobre la Producción y Servicios en los términos del artículo 3o.-A de la Ley de Coordinación Fiscal.
 
-V.- 20% de los ingresos que correspondan al Estado derivado de participaciones en el Impuesto Federal Sobre Automóviles Nuevos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VI.- 20% del Fondo de Fiscalización.
+V.- 20% de los ingresos que correspondan al estado, derivado de participaciones en el Impuesto Sobre Automóviles Nuevos.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VI.- 20% del Fondo de Fiscalización y Recaudación.
 
 VII.- 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
 
@@ -459,15 +463,15 @@ Tratándose de la fracción II del presente artículo, el Estado, deberá inform
 
 El monto de las Participaciones Estatales a favor de los Municipios se determinará en la proporción y conceptos siguientes:
 
-I.- 20% de la recaudación del Impuesto Estatal Sobre Tenencia o Uso de Vehículos, y
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 II.- Los que se establezcan en la Ley de Ingresos del Estado para un ejercicio determinado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-Con las proporciones correspondientes al Fondo General de Participaciones, al Impuesto Federal Sobre Tenencia o Uso de Vehículos, al Impuesto Especial sobre Producción y Servicios, del Impuesto Federal sobre Automóviles Nuevos, el Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, el Fondo de Fiscalización, al Impuesto Sobre la Renta por la Enajenación de Bienes Inmuebles, según la integración establecida en la Ley de Coordinación Fiscal, se constituirá un Fondo Común, así mismo formarán parte de este Fondo los conceptos señalados en el artículo anterior.
+Con las proporciones correspondientes al Fondo General de Participaciones, al Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos, el Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, el Fondo de Fiscalización y Recaudación, al Impuesto Sobre la Renta por la Enajenación de Bienes Inmuebles, según la integración establecida en la Ley de Coordinación Fiscal, se constituirá un Fondo Común, así mismo formarán parte de este Fondo los conceptos señalados en el artículo anterior.
 
 El Fondo Común de Participaciones a Municipios se distribuirá conforme a la fórmula siguiente:
 
@@ -477,7 +481,13 @@ La fórmula anterior no será aplicable en el evento de que en el año de cálcu
 
 El Fondo Común será entregado por el Estado a los Municipios en los términos de la Ley de Coordinación Fiscal y del artículo 33 de esta Ley, conforme al calendario de entrega por parte de la Federación al Estado y de la publicación que éste realice para su distribución a los Municipios.
 
-El Fondo de Fiscalización se estregará a los Municipios en forma trimestral de acuerdo a las disposiciones de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Los anticipos que se reciban por el Fondo de Fiscalización y Recaudación por parte del Gobierno Federal, se enterarán a los Municipios mensualmente. Adicionalmente de forma trimestral se distribuirán las diferencias de los recursos de este Fondo, de acuerdo a las disposiciones de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+En lo referente al Impuesto sobre la Renta derivado de la enajenación de bienes inmuebles, la distribución de los recursos a los municipios se efectuará con base en los montos efectivamente recaudados en el ejercicio fiscal correspondiente. Esta distribución se realizará conforme al coeficiente efectivo asignado a cada municipio para dicho ejercicio, sin que se considere la garantía de recursos económicos del Ejercicio Fiscal 2007.
 
 ###### ARTÍCULO 30.
 
@@ -1058,3 +1068,13 @@ P.O. 23 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 707 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 34 DE LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 202, POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, entrarán en vigor el día 1 de enero del 2025.
+
+SEGUNDO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
