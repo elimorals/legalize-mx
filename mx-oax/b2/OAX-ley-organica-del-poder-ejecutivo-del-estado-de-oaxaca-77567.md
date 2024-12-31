@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2024-09-21"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -833,9 +833,7 @@ IX. Crear un banco de proyectos ejecutivos de obras, que permitan una planeació
 
 X. Formular proyectos ejecutivos de obras, que permitan una planeación y ejecución eficiente con los objetivos del Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XI. Integrar un registro de los contratistas que deseen ejecutar obra pública en cualquiera de las Dependencias y Entidades de la Administración Pública Estatal, que cubran los requisitos de capacidad técnica, competencia, experiencia y solvencia económica;
+XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2643,9 +2641,13 @@ XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias
 
 XXXIII. Integrar a través de su Titular el Comité Coordinador del Sistema Estatal de Combate a la Corrupción, formar parte del Sistema Nacional de Fiscalización, informando periódicamente al Titular del Ejecutivo las acciones implementadas, y cumplir con todas las obligaciones que le impongan la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción; y
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XXXIV. Integrar un registro de los contratistas que deseen ejecutar obras públicas y servicios relacionados, que garanticen las mejores condiciones en cuanto a oferta y calidad, conforme a su especialidad, capacidad técnica y económica y experiencia.
+
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-XXXIV. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
+XXXV. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
 
 ARTÍCULO 47 BIS. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
@@ -4250,3 +4252,25 @@ P.O. 21 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 27.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXXIV Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 47; SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; Y SE REFORMAN LAS FRACCIONES XII DEL ARTÍCULO 3; I, III, IV, V, VI, VII Y VIII DEL ARTÍCULO 11; ARTÍCULO 12; PRIMERO Y SEGUNDO PÁRRAFO DEL ARTÍCULO 26 A; ARTÍCULO 26 B; ARTÍCULO 26 C; ARTÍCULO 26 D; ARTÍCULO 26 E; FRACCIONES I, II, III Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 26 F; FRACCIONES I, II, III, IV, V, VI, VII, VIII Y IX DEL ARTÍCULO 26 G; EL ARTÍCULO 36; TERCER PÁRRAFO DEL ARTÍCULO 42; SE ADICIONAN LAS FRACCIONES IX, X RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 11; PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 26 A; FRACCIONES I Y II DEL ARTÍCULO 26 D; LAS FRACCIONES IV, V, VI, VII DEL ARTÍCULO 26 F, LAS FRACCIONES X, XI, XII Y XIII DEL ARTÍCULO 26 G, TODAS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+CUARTO. La Secretaría de Infraestructuras y Comunicaciones transferirá a la Secretaría de Honestidad, Transparencia y Función Pública, en un plazo de cinco días naturales posteriores a la entrada en vigor del presente Decreto, el archivo de trámite, concentración, e histórico relativo al Padrón de Contratistas de Obra Pública.
+
+QUINTO. A partir del ejercicio fiscal 2025, le corresponderá a la Secretaría de Honestidad, Transparencia y Función Pública, llevar a cabo todos los trámites relacionados con el padrón de contratistas; por lo que, por única ocasión, en el 2025, todas las contratistas deberán realizar sus trámites de inscripción al padrón de Contratistas del Estado.
+
+SEXTO. La (sic) Secretarías de Finanzas, Administración, Infraestructuras y Comunicaciones y Honestidad, Transparencia y Función Pública, deberán realizar las adecuaciones a la estructura orgánica, presupuestales, programáticas, normativas, y administrativas, para el cumplimiento del presente Decreto.
+
+SÉPTIMO. En un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública, deberá emitir los lineamientos del Padrón de Contratistas del Estado.
+
+OCTAVO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberán adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
+
+NOVENO. Los Ayuntamientos, deberán emitir la normatividad aplicable a sus Padrones de Contratistas Municipales, en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
