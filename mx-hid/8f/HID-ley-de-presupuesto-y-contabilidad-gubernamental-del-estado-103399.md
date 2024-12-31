@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2024-09-17"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -1247,9 +1247,9 @@ Los ejecutores de gasto realizarán los cargos al Presupuesto de Egresos, a trav
 
 Una vez concluida la vigencia del Presupuesto de Egresos sólo procederá hacer pagoscon (sic) base en él, por los conceptos comprometidos o devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y hayan estado contempladas en el Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Sin perjuicio de lo anterior, los ingresos de libre disposición que al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido, deberán quedar devengados a más tardar el último día hábil del mes de marzo del ejercicio fiscal siguiente o bien de conformidad con el calendario de ejecución establecido en el convenio correspondiente. Una vez concluido este plazo, la Secretaria podrá reorientarlos a otros proyectos prioritarios.
+Sin perjuicio de lo anterior, los ingresos de libre disposición que al 31 de diciembre del ejercicio fiscal inmediato anterior se hayan comprometido, deberán quedar devengados a más tardar el último día hábil del mes de marzo del ejercicio fiscal siguiente o bien de conformidad con el calendario de ejecución establecido en el expediente técnico correspondiente, debidamente validado y en apego a la normatividad del Fondo de Financiamiento en el que haya sido autorizado. Una vez concluido este plazo, la Secretaría podrá reorientarlos a otros proyectos prioritarios.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1884,3 +1884,19 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 25 - LXVI QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2025, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La adición a que se refiere el inciso g) del artículo 33 de la Ley Estatal de Derechos, será aplicable a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
+
+CUARTO. Las reformas a que refiere el artículo 41 de la Ley de Hacienda del Estado de Hidalgo, serán aplicables a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
