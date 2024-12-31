@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2024-04-05"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -65,73 +65,113 @@ Ciclista.- Conductor de un vehículo de tracción humana a pedales;
 
 Reposición de Placas de Circulación.- Trámite que debe realizarse para la obtención de nuevas placas de circulación únicamente por los supuestos previstos en esta ley.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Canje de Tarjeta de Circulación.- Trámite que debe realizarse para la obtención de la tarjeta de circulación física y digital vigente como consecuencia de la terminación de la vigencia de la anterior.
 
-Domicilio.- Lugar de habitación y permanencia habitual de una persona, para el ejercicio de sus derechos y cumplimiento de sus obligaciones. En el caso de las personas morales es el local en que se encuentre el principal asiento de sus negocios.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Elementos de Identificación Vehicular.- Los aditamentos expedidos por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello en los que constan permisos e identificaciones para la circulación de vehículos que comprenden las calcomanías, placas y tarjetas de circulación, siempre y cuando se cumplan los requisitos establecidos en esta Ley.
+Documento Digital.- Registro electrónico generado a través de los sistemas digitales de la Secretaría, derivado de la prestación de un servicio en materia de control vehicular; almacenado y resguardado en su base de datos para consulta y verificación de autenticidad mediante los mecanismos que la Secretaría establezca.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Domicilio.- Lugar de habitación y permanencia habitual de una persona, para el ejercicio de sus derechos y cumplimiento de sus obligaciones. En el caso de las personas morales es el local en que se encuentre la administración principal del negocio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Elementos de Identificación Vehicular.- Los aditamentos expedidos por la Secretaría a través de la Oficina Recaudadora, medios electrónicos y/o instituciones autorizadas para ello en los que constan permisos e identificaciones para la circulación de vehículos que comprenden las calcomanías, placas y tarjetas de circulación, siempre y cuando se cumplan los requisitos establecidos en esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Estado.- Estado Libre y Soberano de Baja California.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Expedición.- Acto por medio del cual se emiten licencias de conducir, o los elementos de identificación vehicular, de acuerdo con los requisitos establecidos en la presente Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Formato Electrónico.- Constancia o folio que deriva del sistema digital de validación derivado del Registro de Comerciantes de Autos utilizado por las Oficinas Recaudadoras para verificar el alta de los vehículos nuevos y usados que fueron enajenados por alguna negociación que se encuentre inscrita en el citado Registro.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Identificación Oficial.- Documento que contiene los datos básicos de identificación de una persona física, incluyendo fotografía, que son verificados por la autoridad pública competente que lo expide.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Instituciones Autorizadas.- Empresa, entidad gubernamental o establecimiento autorizado mediante convenio suscrito por el titular de la Secretaría para expedir los elementos de identificación vehicular.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Jerarquía de Movilidad Urbana.- Es la consideración de todos los usuarios de las vías públicas, estableciendo prioridad de paso de acuerdo a la vulnerabilidad que cada uno de estos actores presenta dentro de los desplazamientos urbanos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Ley.- Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Ley de Ingresos.- Ley de Ingresos del Estado de Baja California, del ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE JULIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Licencia de Conducir.- Documento que contiene la autorización que concede el Estado a través de la Secretaría a una persona física, por tiempo determinado, para conducir vehículos de acuerdo a la clasificación para la que se expida.
+Licencia de Conducir.- Documento físico o digital que contiene la autorización que concede el Estado a través de la Secretaría a una persona física, por tiempo determinado, para conducir vehículos de acuerdo a la clasificación para la que se expida.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 La licencia de conducir podrá ser digitalizada por la Secretaría de Hacienda del Estado para su ágil e inmediata portación. La digitalización de la licencia de conducir no sustituye el documento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Movilidad Urbana.- Capacidad de desplazarse sin contratiempos de un lugar a otro por las vías públicas dentro de la ciudad y que incluye la movilidad de vehículos, ciclistas y peatones.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Oficina Recaudadora.- Las Recaudaciones de Rentas del Estado, incluyendo las Subrecaudaciones Auxiliares de Rentas.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Placas de Circulación.- Aditamento de metal u otro material similar, expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, que constituye un permiso para la circulación de vehículos y que cuenta con número de matrícula coincidente con la calcomanía y tarjeta de circulación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Refrendo.- Trámite de pago que debe realizar anualmente el propietario del vehículo para renovar la vigencia de su tarjeta de circulación y conservar como válido el documento físico o digital que le fue expedido por la Secretaría de Hacienda.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Registro de Comerciantes de Autos.- Sistema de información conformado por un conjunto de registros y archivos relativos a los comerciantes de autos autorizados a expedir el formato electrónico.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Registro Estatal Vehicular.- Relación nominal de datos, registros y archivos sistematizados, de la información relativa a los vehículos dados de alta en el Estado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Reposición.- Trámite que debe realizarse en los supuestos previstos en esta Ley, para la expedición de licencia de conducir o elementos de identificación vehicular, encontrándose vigentes los expedidos con anterioridad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Residencia.- Es la permanencia de una persona en cualquier municipio del Estado, por un tiempo mínimo de 6 meses.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 Revalidación de Licencia de Conducir.- Trámite que debe realizarse como consecuencia del término de la vigencia de la licencia de conducir expedida por la autoridad competente.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Secretaría.- Secretaría de Hacienda del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Tarjeta de Circulación.- Documento físico o digital expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, indispensable para la circulación de vehículos, coincidente con las placas de circulación y calcomanías, que contiene los datos específicos del propietario, así como las características del vehículo respectivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ENERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 La tarjeta de circulación podrá ser digitalizada por la Secretaría de Hacienda del Estado para su ágil e inmediata portación, en los términos del reglamento de la presente ley. La digitalización de la tarjeta de circulación no sustituye el documento.
 
-Vehículo.- Todo bien mueble identificado en su individualidad, diseñado para el transporte terrestre de personas o cosas en la vía pública, que su movimiento sea generado por una fuerza motriz ya sea por combustión y/o electricidad, así como aquellos destinados para ser remolcados. No queda comprendido dentro de esta definición el tren para el transporte ferroviario de pasajeros y de carga así como el equipo ferroviario.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Vehículo.- Todo bien mueble identificado en su individualidad, diseñado para el transporte terrestre de personas o cosas en la vía pública, que su movimiento sea generado por una fuerza motriz ya sea por combustión y/o electricidad, así como aquellos destinados para ser remolcados. No queda comprendido dentro de esta definición el tren para el transporte ferroviario de pasajeros y de carga, así como el equipo ferroviario.
 
 ###### ARTÍCULO 3.
 
@@ -165,15 +205,21 @@ II.- Expedir las licencias de conducir y las revalidaciones de la misma;
 
 III.- Emitir reglas de carácter general a fin de:
 
-a) Determinar los documentos a través de los cuales se cumplen los requisitos para la expedición y revalidación de licencias de conducir, así como para la expedición y canje de placas y tarjeta de circulación;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+a) Determinar los documentos a través de los cuales se cumplen los requisitos para la expedición y revalidación de licencias de conducir, así como para la expedición, canje de tarjeta de circulación, o en su caso del refrendo de tarjeta de circulación;
 
 b) Expedir normas generales de carácter técnico y administrativo en materia de control vehicular;
 
 c) Establecer mecanismos y medios para el pago y realización de trámites relativos a los elementos de identificación vehicular y licencias de conducir, y
 
-d) Determinar mecanismos para efectuar los trámites relativos al control vehicular.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-IV.- Ampliar o prorrogar el plazo para canje de placas y tarjetas de circulación vehicular y revalidación de licencias de conducir en el Estado, así como ampliar la vigencia de los elementos de identificación vehicular;
+d) Otorgar facilidades técnicas y administrativas para efectuar los trámites relativos al control vehicular.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IV.- Ampliar o prorrogar el plazo para refrendo de las tarjetas de circulación vehicular, y revalidación de licencias de conducir en el Estado, así como ampliar la vigencia de los elementos de identificación vehicular;
 
 V.- Autorizar mediante convenio a las instituciones para que expidan los elementos de identificación vehicular;
 
@@ -283,7 +329,9 @@ V.- Presentar escritura constitutiva, y documento en el que conste la personalid
 
 VI.- Presentar copia del comprobante de inscripción en el Registro Estatal de Causantes;
 
-VII.- Presentar folios de facturación vigentes autorizados por el Servicio de Administración Tributaria; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII.- Acreditar que cuenta con Certificado de Sello Digital vigente, autorizado por el Servicio de Administración Tributaria, para expedir Comprobantes Fiscales Digitales por Internet; y
 
 VIII.- Presentar descripción física del negocio.
 
@@ -467,17 +515,17 @@ La expedición de placas de circulación para vehículos de servicio público de
 
 Las placas de circulación regirán su vigencia acorde a lo establecido en las Normas Oficiales de observancia obligatoria. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el que fueron expedidas y durante los plazos que correspondan de acuerdo a lo señalado en los párrafos siguientes.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Los propietarios de vehículos cuyo año sea de 9 años de antigüedad, deberán solicitar y obtener las calcomanías y tarjetas de circulación correspondientes, dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
+Los propietarios de vehículos cuyo año sea de 9 años de antigüedad, deberán refrendar las calcomanías y tarjetas de circulación correspondientes, dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Los propietarios de vehículos cuyo año modelo sea de 10 años o más de antigüedad deberán solicitar y obtener las calcomanías y tarjetas de circulación correspondientes dentro de los seis primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
+Los propietarios de vehículos cuyo año modelo sea de 10 años o más de antigüedad deberán refrendar las calcomanías y tarjetas de circulación correspondientes dentro de los seis primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Las calcomanías y tarjetas de circulación deberán de contener expresamente su vigencia según sea el caso, conforme a los plazos a que se refieren los párrafos primero, segundo y tercero.
+Las calcomanías y tarjetas de circulación tendrán una vigencia condicionada conforme a los plazos a que se refieren los párrafos primero, segundo y tercero del presente artículo, y en caso de no realizar refrendo en dichos plazos perderá su vigencia.
 
 ###### ARTÍCULO 25.
 
@@ -489,9 +537,13 @@ Se deberá realizar el alta de un vehículo dentro de los 5 días hábiles sigui
 
 La Secretaría a través de las Oficinas Recaudadoras, podrá expedir placas demostradoras, con su respectiva tarjeta de circulación, a los comerciantes dedicados a la venta de vehículos, exclusivamente para que puedan darlos a conocer, las cuales tendrán una vigencia de seis años. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el cual fueron expedidas.
 
-El canje de las calcomanías y tarjetas de circulación de las placas demostradoras deberá solicitarse, dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidas, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Las placas demostradoras deberán canjearse durante los tres primeros meses del ejercicio fiscal que corresponda de acuerdo al periodo a que se refiere el último párrafo del artículo 24 de la presente Ley.
+El refrendo de la tarjeta de circulación de las placas demostradoras deberá solicitarse, dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidas, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Las placas demostradoras se deberán refrendar durante los tres primeros meses del ejercicio fiscal que corresponda de acuerdo al periodo a que se refiere el último párrafo del artículo 24 de la presente Ley.
 
 El vehículo de que se trate, deberá portar ambas placas demostradoras, en el lugar destinado para tal efecto, así como la correspondiente tarjeta de circulación vigente.
 
@@ -545,19 +597,13 @@ En caso de que la negociación a la que se le expidió placas demostradoras haga
 
 La Secretaría, podrá implementar los mecanismos que considere convenientes a efecto de verificar y controlar el uso correcto de las placas a que se refiere este artículo. La Secretaría también podrá cancelar la vigencia de las placas demostradoras en los términos de lo señalado en el artículo 30 y en caso que existan elementos que se consideren que violan lo establecido en esta Ley u otras disposiciones legales aplicables.
 
-(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
-
-CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-PARA LA REVALIDACIÓN DE LAS TARJETAS DE CIRCULACIÓN Y EL CANJE DE PLACAS DEMOSTRADORAS EN SU CASO, EL SOLICITANTE DEBERÁ CUMPLIR CON LOS SIGUIENTES REQUISITOS:
+Para el refrendo de las calcomanías y tarjetas de circulación de placas demostradoras en su caso, el solicitante deberá cumplir con los siguientes requisitos:
 
-I.- Entregar la tarjeta de circulación anterior, y en su caso las placas demostradoras anteriores;
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 II.- En el caso de personas morales, presentar comprobante de domicilio, escritura constitutiva, copia de la cedula de identificación fiscal del Registro Federal de Contribuyentes, identificación oficial del representante y documentación que acredite la personalidad de quien comparece;
 
@@ -565,9 +611,7 @@ III.- Presentar certificado de no adeudo municipal, en los términos que se esta
 
 IV.- Acreditar encontrarse al corriente de sus obligaciones fiscales ante el Estado;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
-
-V.- Justificar el número de placas demostradoras para su negocio, por las que solicita revalidación de tarjeta de circulación y canje de las mismas, en su caso;
+V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 (NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -613,13 +657,13 @@ VII.- Realizar el pago de los derechos correspondientes, establecidos en la Ley 
 
 Ingresos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-Para el canje de tarjeta de circulación y placas de circulación en su caso, el solicitante deberá reunir los siguientes requisitos:
+Para el refrendo de las calcomanías y tarjetas de circulación el solicitante deberá reunir los siguientes requisitos:
 
-I.- Entregar la tarjeta de circulación, y en su caso las placas de circulación, anteriores;
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 II.- Tratándose de personas físicas, presentar licencia de conducir vigente del Estado. En caso de que se cuente con alguna discapacidad o impedimento para conducir, presentar la licencia de conducir vigente del Estado de la persona que autorice para conducir;
 
@@ -903,7 +947,9 @@ II.- En caso de cambio de domicilio, presentar constancia de ello;
 
 III.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos;
 
-IV.- Para licencia de conducir de la modalidad chofer, cumplir además lo que disponen las fracciones II y III del artículo 40 de esta Ley, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IV.- Para licencia de conducir de la modalidad chofer, cumplir además lo que disponen las fracciones II y III del artículo 39 de esta Ley, y;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1150,3 +1196,11 @@ P.O. 5 DE ABRIL DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- No se requerirá la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias al que se refiere la Ley General de los Derechos de las Niñas, Niños y Adolescentes para la realización del trámite sino hasta que inicie su funcionamiento.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 38 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 4, 10, 24, 26, 27, 29 Y 46, DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Hacienda del Estado deberá emitir, o en su caso, adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días naturales siguientes contados a partir de su entrada en vigor.
