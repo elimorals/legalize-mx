@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-imagen-institucional-del-estado-de-puebla-171254"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-07"
-last_updated: "2024-02-07"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE IMAGEN INSTITUCIONAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Puebla, el miércoles 7 de febrero de 2024.
 
@@ -55,19 +55,21 @@ LEY DE IMAGEN INSTITUCIONAL DEL ESTADO DE PUEBLA
 
 La presente Ley es de interés público, observancia general y obligatoria para las dependencias y entidades de la administración pública estatal y municipal, para los Poderes Legislativo y Judicial, así como para los Órganos Constitucionalmente Autónomos del Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 2.
 
-Esta Ley tiene por objeto regular el uso de colores, imágenes y elementos de identidad en los Bienes Públicos.
-
-De igual forma, tiene por objeto regular el uso de colores, imágenes y elementos de identidad que los Entes Públicos utilicen en cualquier otro soporte material distinto a los señalados en el párrafo anterior, o en páginas oficiales de internet, documentos, papelería, uniformes y cualquier otro medio electrónico o impreso generado o empleado por los mismos.
+Esta Ley tiene por objeto regular y promover en los entes públicos, el uso prioritario de colores, imágenes y elementos de identidad en los bienes inmuebles del orden público, así como en cualquier otro soporte material distinto a aquellos, o en páginas oficiales de internet, documentos, papelería, uniformes y cualquier otro medio electrónico o impreso generado o empleado por los mismos.
 
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Bienes Públicos: Son los bienes inmuebles y vehículos a cargo de las dependencias y entidades de la administración pública estatal y municipal, así como de los Poderes Legislativo y Judicial, las instancias que los integran y de los Órganos Constitucionalmente Autónomos, en términos de la legislación y normatividad que regulan su patrimonio;
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-II. Colores Institucionales: Son los colores autorizados para ser empleados en los Bienes Públicos, y que corresponden a los siguientes:
+> <small>(REFORMADO SU ACÁPITE, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II. Colores Institucionales: Son los colores autorizados para ser empleados en los bienes inmuebles del orden público y que corresponden a los siguientes:
 
 a) Color Pantone Blanco;
 
@@ -99,13 +101,17 @@ V. Escudo de Puebla: Es el símbolo del Estado que lo identifica como Entidad Fe
 
 VI. Estado: Es el Estado Libre y Soberano de Puebla;
 
-VII. Imagen Institucional: Es el conjunto de elementos visuales, que incluyen el logotipo, lema, colores, eslóganes y símbolos, que identifican y distinguen a los Entes Públicos, así como los demás que utilicen para destacar su periodo de gestión, que podrá ser utilizada exclusivamente en documentos, papelería, uniformes para el personal y funcionarios, páginas oficiales de internet y cualquier otro medio impreso, electrónico o audiovisual;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII. Imagen Institucional: Es el conjunto de elementos audiovisuales que identifican y distinguen a los entes públicos atendiendo la identidad social, histórica y cultural, así como los valores, usos y costumbres del Estado y de sus municipios, respectivamente; que incluyen el logotipo, lema, colores, eslóganes y símbolos, y demás elementos que utilicen en los bienes inmuebles del orden público;
 
 VIII. Lema: Es el argumento, título o frase que establece y emplea un Ente Público durante el periodo que dure su gestión;
 
 IX. Logotipo: Es el símbolo formado por imágenes, letras o ambas, que sirve para identificar a un Ente Público, y
 
-X. Paleta de colores urbanos: Son los colores autorizados para ser empleados en equipamiento y mobiliario urbano, y que corresponden a los códigos siguientes:
+> <small>(REFORMADO SU ACÁPITE, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+X. Paleta de colores urbanos: Son los colores autorizados para ser empleados preferentemente en equipamiento y mobiliario urbano, y que corresponden a los códigos siguientes:
 
 a) C:0, M:0, Y:0, K:100/R:1, G:1 B:1/HEX:#010101;
 
@@ -139,9 +145,11 @@ o) C:46, M:34, Y:0, K:60/ R:56, G:68, B:103/ HEX:#384467.
 
 ### CAPÍTULO SEGUNDO. DE LA IMAGEN INSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 4.
 
-La Imagen Institucional de los Entes Públicos será la que cada administración proponga, autorice y utilice por el periodo que dure su gestión.
+La imagen institucional de los entes públicos será la que cada administración proponga, autorice y utilice por el periodo que dure su gestión, atendiendo la identidad social, histórica y cultural, así como los valores, usos y costumbres del Estado y de sus municipios, respectivamente.
 
 En ningún caso, la Imagen Institucional hará promoción o alusión a la imagen personal de sus titulares, de alguno de sus miembros, a los colores, lemas o cualquier otro elemento que puedan identificarse o relacionarse con partidos políticos o con cualquier otro tipo de agrupación u organización.
 
@@ -153,9 +161,11 @@ Los Entes Públicos, están obligados a vigilar que, en el diseño, elaboración
 
 La Imagen Institucional que los Entes Públicos utilicen en sus documentos, papelería, páginas oficiales de internet y cualquier otro medio impreso, electrónico o audiovisual, podrá incluir el Escudo de Puebla o municipal según corresponda, su lema y logotipo, de acuerdo a los colores, tipografía y demás elementos gráficos que autoricen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 7.
 
-Los Entes Públicos deberán elaborar manuales de identidad institucional, en los que se establezca su Imagen Institucional, así como los lineamientos para el uso de colores, imágenes y elementos de identidad en los Bienes Públicos con sujeción a lo dispuesto en esta Ley.
+Los Entes Públicos deberán elaborar manuales de identidad institucional, en los que se establezca su imagen institucional, así como los lineamientos para el uso de colores, imágenes y elementos de identidad en los bienes de dominio público con sujeción a lo dispuesto en esta Ley.
 
 Los manuales de identidad institucional deberán elaborarse en un plazo máximo de 30 días naturales posteriores al inicio de cada periodo de gestión, así como darse a conocer a través de medios digitales y paginas oficiales de internet de cada Ente Público.
 
@@ -165,27 +175,37 @@ En el caso de los Municipios, su Imagen Institucional y sus Manuales de Identida
 
 ### CAPÍTULO TERCERO. DE LOS BIENES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 8.
 
-Los Entes Públicos únicamente podrán colocar, adherir o fijar en el exterior de los Bienes Públicos, el Escudo de Puebla o del Municipio, según sea el caso, así como su denominación, y en su caso, la de la oficina al que se encuentra asignado, debiendo en todo momento sujetarse a los Colores Institucionales que establece esta Ley.
+Los Entes Públicos únicamente podrán colocar, adherir o fijar en el exterior de los bienes inmuebles del orden público, el Escudo de Puebla o del Municipio, según sea el caso, así como su denominación, y en su caso, la de la oficina al que se encuentra asignado, debiendo en todo momento sujetarse a los colores institucionales que establece esta Ley.
 
 Quedan exceptuados de lo dispuesto en el párrafo anterior, los vehículos y uniformes de seguridad pública y emergencia, los cuales se sujetarán a las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 9.
 
-En la fachada arquitectónica, elementos decorativos, revestimientos y acabados de los Bienes Públicos, deberán utilizarse los Colores Institucionales.
+En la fachada arquitectónica, elementos decorativos, revestimientos y acabados de los bienes inmuebles del orden público, deberán utilizarse los colores institucionales.
 
 En las obras de restauración, modificación, adecuación, rehabilitación y demás relativas al mantenimiento y conservación de los bienes inmuebles, incluyendo la infraestructura y equipamiento urbano, deberán respetarse los colores autorizados por esta Ley. Los Entes Públicos deberán procurar preservar los materiales originales de construcción de los inmuebles.
 
-Tratándose de infraestructura y equipamiento urbano, los Entes Públicos deberán sujetarse a la gama de colores que se establezcan en la Paleta de colores urbanos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-En la construcción, constitución, ampliación, adecuación, remodelación, conservación, mantenimiento o modificación de las obras e inmuebles públicos, así como en la planeación y el diseño de un proyecto urbano o arquitectónico por parte de los Entes Públicos, deberán utilizarse únicamente los Colores Institucionales y la Paleta de colores urbanos, según corresponda.
+Tratándose de infraestructura y equipamiento urbano, los Entes Públicos deberán sujetarse preferentemente a la gama de colores que se establezcan en la paleta de colores urbanos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+En la construcción, constitución, ampliación, adecuación, remodelación, conservación, mantenimiento o modificación de las obras e inmuebles del orden público, así como en la planeación y el diseño de un proyecto urbano o arquitectónico por parte de los entes públicos, deberán utilizarse los colores institucionales y la paleta de colores urbanos, en términos de la presente Ley.
 
 Se exceptúan de lo dispuesto en esta Ley, los bienes considerados o declarados como monumentos arqueológicos, históricos o artísticos, o patrimonio cultural tangible conforme a lo establecido en las leyes de la materia; además, se deberán considerar exceptuados aquellos que, por cuestiones de ubicación, seguridad o por su propia naturaleza y uso requieran el empleo de colores específicos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-Los recursos que de acuerdo con su disponibilidad presupuestal destinen los Entes Públicos, para dar mantenimiento a los Bienes Públicos, se ejercerán respetando en todo momento los Colores Institucionales autorizados por esta Ley.
+Los recursos que de acuerdo con su disponibilidad presupuestal destinen los Entes Públicos, para dar mantenimiento a los bienes de dominio público, se ejercerán respetando en todo momento los colores institucionales autorizados por esta Ley.
 
 ### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -208,3 +228,13 @@ CUARTO. Para dar cumplimiento a lo dispuesto en la presente Ley, las unidades ad
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de enero de dos mil veinticuatro. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Vicepresidenta. MARÍA GUADALUPE LEAL RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputada Secretaria. ILIANA JOCELYN OLIVARES LÓPEZ. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de enero de dos mil veinticuatro. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE IMAGEN INSTITUCIONAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
