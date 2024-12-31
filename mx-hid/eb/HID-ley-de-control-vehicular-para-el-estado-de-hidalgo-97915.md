@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2023-12-29"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -191,13 +191,23 @@ I.- Credencial para votar vigente expedida por la Autoridad Electoral competente
 
 II.- Cédula profesional expedida por la Secretaría de Educación Pública;
 
-III.- Cartilla del Servicio Militar Nacional expedida por la Secretaría de la Defensa Nacional;
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-IV.- Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+IV.- Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores;
 
-V.- Licencia para conducir vehículos, vigente.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V.- Licencia para conducir vehículos, vigente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VI.- Credencial del Instituto Nacional de las Personas Adultas Mayores; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII.- Credencial vigente para personas con discapacidad expedida por el Sistema para el Desarrollo Integral de la Familia competente.
 
 Tratándose de extranjeros, éstos podrán identificarse con el documento migratorio vigente emitido por autoridad federal competente o el pasaporte respectivo.
 
@@ -259,11 +269,13 @@ IV.- Canje de placas metálicas.
 
 Los trámites antes citados son de obligatorio cumplimiento por parte del o los propietarios de vehículos que se ubiquen en estos supuestos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 11 Bis.
 
-Las personas físicas o morales que hayan enajenado un vehículo podrán realizar el trámite de Baja Administrativa del Registro Vehicular Estatal, siempre que el adquirente no haya efectuado el cambio de propietario, para lo cual deberán presentar el documento traslativo de dominio respectivo, así como los requisitos establecidos en el artículo 26, fracciones I y II de la Ley, según corresponda; lo anterior, no será aplicable tratándose de vehículos destinados al Transporte Público y de Demostración.
+Las personas físicas o morales que hayan enajenado un vehículo podrán realizar el trámite de Baja Administrativa del Registro Vehicular Estatal, siempre que el adquirente no haya efectuado el cambio de propietario, para lo cual deberán presentar el documento traslativo de dominio respectivo, así como los requisitos establecidos en el artículo 26, fracciones I y II de la Ley, según corresponda; lo anterior, no será aplicable tratándose de vehículos destinados al Transporte Público, Demostración y Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 La baja administrativa surtirá sus efectos a partir de la fecha en que se efectúe el trámite y no eximirá de las obligaciones generadas con anterioridad.
 
@@ -343,7 +355,9 @@ E) Remolque;
 
 F) Auto antiguo;
 
-G) Discapacitado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+G. Discapacidad
 
 H) Demostración; y
 
@@ -461,11 +475,31 @@ A) Códigos de clasificación de los vehículos y su respectiva interpretación,
 
 Las tarjetas de circulación deberán portarse en el vehículo al circular en las vialidades del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 25.
 
-La Secretaría podrá expedir permisos temporales para circular, para vehículos nuevos adquiridos en el territorio del Estado y aquellos que estén registrados en el Registro Vehicular Estatal y que previamente hayan realizado el trámite de desincorporación correspondiente, en un plazo no mayor al mes siguiente en que se haya realizado la desincorporación, siempre y cuando el plazo no rebase el ejercicio en curso. Los permisos provisionales serán otorgados por una única ocasión con una vigencia de 15 días naturales, contados a partir de la fecha de su expedición.
+La Secretaría podrá expedir permisos temporales para circular, en los siguientes supuestos:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I.- Para vehículos nuevos adquiridos en el territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II.- Vehículos seminuevos que sean enajenados por el distribuidor o comerciante de autos nuevos, siempre y cuando se expedida (sic) la factura correspondiente; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III.- Aquellos que estén registrados en el Registro Vehicular Estatal y que previamente hayan realizado el trámite de desincorporación correspondiente, en un plazo no mayor al mes siguiente en que se haya realizado la desincorporación, siempre y cuando el plazo no rebase el ejercicio en curso.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Los permisos provisionales serán otorgados por una única ocasión con una vigencia de 15 días naturales, contados a partir de la fecha de su expedición.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+La vigencia del permiso temporal no interrumpe el plazo para realizar el trámite de incorporación de vehículo al Registro Vehicular Estatal.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -561,6 +595,14 @@ D) Solo se expedirán hasta tres juegos de elementos de identificación vehicula
 
 E) Cuando los vehículos a que se refiere la presente fracción sean objeto de adquisición por terceros, el vendedor deberá realizar la desincorporación del vehículo del Registro Vehicular Estatal.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+En caso de fallecimiento de la persona con discapacidad, quien adquiera la propiedad, tenencia o uso del vehículo, queda obligado a realizar el trámite de Actualización de datos al Registro Vehicular Estatal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Cuando se tenga conocimiento del supuesto anterior y los particulares no realicen el trámite correspondiente, dentro de los plazos señalados, la autoridad podrá realizar el cobro de derechos aplicable para vehículos de transporte privado, clasificados como automóviles y, serán calculados a partir de que tenga lugar el hecho de que se trate.
+
 IV.- Incorporación de vehículos antiguos en el Registro Vehicular Estatal:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
@@ -611,9 +653,13 @@ B) También procederá la desincorporación de vehículo del Registro Vehicular 
 
 C) La Secretaría procederá a la desincorporación de vehículos del Registro Vehicular Estatal cuyas placas hubieran perdido vigencia con motivo de un canje general de placas. No obstante, la Secretaría estará obligada a resguardar la información que obre hasta ese momento en sus sistemas de información electrónicos, y conservará, el expediente físico documental del vehículo en tanto no se realice un nuevo canje general de placas.
 
-VIII.- Actualización de datos al Registro Vehicular Estatal derivado de reposición de tarjeta de circulación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-A) Las personas físicas y morales que soliciten la reposición de tarjeta de circulación deberán presentar identificación oficial del propietario o de su representante legal;
+VIII.- Reposición de tarjeta de circulación:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+A) Las personas físicas y morales que soliciten la reposición de tarjeta de circulación deberán estar inscritas en el Registro Vehicular Estatal como propietarias del vehículo y además presentar su identificación oficial o la de su representante legal;
 
 IX.- Actualización de datos al Registro Vehicular Estatal por cambio de propietario, domicilio, o características del vehículo:
 
@@ -886,3 +932,19 @@ P.O. 29 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2024, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 27-LXVII POR EL QUE "SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 8; EL PRIMER PÁRRAFO DEL ARTÍCULO 11 BIS; EL INCISO G DE LA FRACCIÓN I DEL ARTÍCULO 18; EL PRIMER PÁRRAFO DEL ARTÍCULO 25; LA FRACCIÓN VIII Y SU INCISO A) DEL ARTÍCULO 27; SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 8; LAS FRACCIONES I, II Y III AL PÁRRAFO PRIMERO, LOS PÁRRAFOS SEGUNDO Y TERCERO RECORRIÉNDOSE EL PÁRRAFO SEGUNDO ACTUAL, AL ARTÍCULO 25; LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN III DEL ARTÍCULO 27; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 8; DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2025, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La adición a que se refiere el inciso g) del artículo 33 de la Ley Estatal de Derechos, será aplicable a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
+
+CUARTO. Las reformas a que refiere el artículo 41 de la Ley de Hacienda del Estado de Hidalgo, serán aplicables a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
