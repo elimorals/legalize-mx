@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2023-12-29"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -283,11 +283,11 @@ II.- El valor que sirva o hubiese servido de base para el cálculo del Impuesto 
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 16.
 
-Este impuesto se causará y pagará a la tasa de 0.13% sobre la base gravable.
+Este impuesto se causará y pagará a la tasa de 0.26% sobre la base gravable.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -893,69 +893,49 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y
 
 Sin perjuicio de lo anterior, los vehículos comprendidos en este artículo deberán atender las obligaciones previstas en la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 41.
 
-El impuesto a que se refiere este Capítulo se calculará como a continuación se indica:
+El impuesto se determinará de la siguiente manera para todo tipo de vehículos. Contando con un monto exento de doscientos mil pesos. Cuando el valor total del vehículo sea superior al monto exento, el impuesto causado será la cantidad que resulte de disminuir a dicho valor el monto exento y aplicar al excedente la tasa del 2.7%.
 
-I.- El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-Años de Antigüedad Factor de Depreciación
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-0 1.000
+> <small>(ADICIONADO [N. DE E. CON SU TABLA], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-1 0.850
+En la aplicación de la tasa anterior, se tendrá como resultado, el impuesto causado en el año calendario en que el vehículo se considera como nuevo, como aquel que corresponde al año modelo, en los términos de las fracciones I, III y V del artículo 38 de esta Ley. En los años posteriores a los antes señalados, el impuesto causado en el año de cálculo se obtendrá de multiplicar el monto obtenido por el factor que indica la siguiente tabla de disminución anual:
 
-2 0.725
+Año de Cálculo Factor Aplicable al
 
-3 0.600
+Impuesto Causado en
 
-4 0.500
+el Año Modelo
 
-5 0.400
+1 año posterior al año modelo 0.900
 
-6 0.300
+2 años posteriores al año modelo 0.800
 
-7 0.225
+3 años posteriores al año modelo 0.700
 
-8 0.150
+4 años posteriores al año modelo 0.600
 
-9 0.075
+5 años posteriores al año modelo 0.500
 
-10 y en adelante 0.030
+6 años posteriores al año modelo 0.400
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+7 años posteriores al año modelo 0.300
 
-II.- Al resultado obtenido en el inciso anterior, se le aplicará la tarifa siguiente:
+8 años posteriores al año modelo 0.200
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+9 años posteriores al año modelo 0.100
 
-Límite inferior Límite superior Porciento Cuota Fija
+10 y siguientes años posteriores al año modelo 0.050
 
-para
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-aplicarse
-
-sobre el
-
-excedente
-
-del
-
-límite
-
-inferior
-
-0.01 550,000.00 2.6% 0.00
-
-550,000.01 1,100,000.00 11% 14,299.99
-
-1,100,000.01 1,500,000.00 17% 71,499.97
-
-1,500,000.01 2,000,000.00 21% 139,099.96
-
-2,000,000.01 En adelante 25% 243,099.95
+En caso de que no sea posible conocer el año modelo del vehículo, y que tampoco se demuestre una antigüedad del mismo, se considerará que se trata de vehículo nuevo y en los años posteriores se aplicarán los factores de disminución del impuesto señalados en la tabla de disminución anual del impuesto.
 
 ###### ARTICULO 42.
 
@@ -1812,3 +1792,19 @@ P.O. 29 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2024, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 25 - LXVI QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2025, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La adición a que se refiere el inciso g) del artículo 33 de la Ley Estatal de Derechos, será aplicable a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
+
+CUARTO. Las reformas a que refiere el artículo 41 de la Ley de Hacienda del Estado de Hidalgo, serán aplicables a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
