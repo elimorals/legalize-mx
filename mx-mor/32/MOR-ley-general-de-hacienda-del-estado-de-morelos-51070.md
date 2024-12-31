@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2023-12-29"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -149,17 +149,367 @@ Cuando en esta Ley se haga referencia a la Federación, al Estado y a los Munici
 
 La Secretaría interpretará para efectos administrativos las disposiciones de esta Ley.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO PRIMERO BIS. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-1. Para efectos de este Capítulo, se considerará como:
+
+I. Vehículos automotores.- A los automóviles, motocicletas, minibuses, microbuses, autobuses, ómnibus, camiones, vehículos eléctricos y tractores no agrícolas tipo quinta rueda y demás a que se refiere este capítulo;
+
+II. Año-Modelo.- El periodo comprendido entre el inicio de la producción de determinado tipo de vehículo y el 31 de diciembre del año calendario con que dicho fabricante designe el modelo en cuestión;
+
+III. Modelo.- Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea;
+
+IV. Carrocería.- El conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de las que derivan los diversos modelos;
+
+V. Versión.- Cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+VI. Línea:
+
+a) Automóviles con motor de gasolina o gas de hasta cuatro cilindros;
+
+b) Automóviles con motor de gasolina o gas de seis o más cilindros;
+
+c) Automóviles de motor diésel;
+
+d) Camiones con motor de gasolina, gas o diésel;
+
+e) Tractores no agrícolas, tipo quinta rueda;
+
+f) Autobuses integrales;
+
+g) Vehículos eléctricos, y
+
+h) Automóviles cuyo motor combine energía proveniente de gas, gasolina o eléctrico.
+
+VII. Comerciantes en el Ramo de Vehículos.- A las personas físicas o personas morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
+
+VIII. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, y
+
+b) El importado definitivamente al país, que corresponda al año modelo posterior al de aplicación de las disposiciones a que se refiere este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva, y
+
+IX. Valor Total del Vehículo.- El precio de enajenación al consumidor, del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía Federal como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, a excepción de las contribuciones que se deban pagar con motivo de la importación, del Impuesto al Valor Agregado y de los intereses derivados de créditos otorgados por la adquisición del mismo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-2. Es objeto de este Impuesto la tenencia o uso de vehículos automotores, que se encuentren inscritos en el Registro Estatal de Vehículos y Automotores.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-3. Son sujetos de este impuesto las personas físicas o personas morales propietarias, poseedoras o tenedoras de vehículos automotores a que se refiere este capítulo, que se encuentren inscritos en el Registro Estatal de Vehículos y Automotores.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en este capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+RESPONSABLE SOLIDARIO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-4. Son responsables solidarios del pago de este impuesto:
+
+I. Quienes, sin haberse cerciorado del pago de este impuesto, adquieran por cualquier título la propiedad, tenencia o uso de vehículos objeto de este gravamen y hasta por el monto del crédito fiscal omitido y sus accesorios;
+
+II. Quienes reciban en consignación o comisión, para su enajenación, los vehículos objeto de este gravamen, hasta por el monto del impuesto y sus accesorios que se hubiesen dejado de pagar, y
+
+III. Los servidores públicos que en ejercicio de sus funciones autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas altas, cambio de placas, tarjetas de circulación, cambios o modificaciones de dominio, sin cerciorarse del pago de este impuesto, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
+
+Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ÉPOCA DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-5. El impuesto se causará anualmente y se pagará dentro de los cinco primeros meses de cada año simultáneamente con los derechos de control vehicular, salvo en el caso de vehículo cuya inscripción al Registro Estatal de Vehículos y Automotores se solicite por primera vez, supuesto en el que el impuesto deberá calcularse y enterarse al momento en el cual se solicite la inscripción o el permiso provisional para circulación en traslado.
+
+Tratándose de vehículos nuevos, este impuesto deberá enterarse en un plazo no mayor a 30 días naturales siguientes a la fecha de su adquisición.
+
+En la enajenación o importación de vehículos nuevos de año-modelo posterior al de aplicación de este Capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos o usados se efectúe después del primer mes del año de calendario, o cuando se tramite el alta en el Padrón Vehicular Estatal, matriculados en otra Entidad Federativa o por la Federación, que se realice después del primer año, se pagará el Impuesto sobre Tenencia o Uso de Vehículos, en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes de Adquisición Factor aplicable al Impuesto Causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-6. El factor de actualización aplicable al valor de vehículo que se utiliza de base para el pago de este impuesto, será el resultado de dividir el Índice Nacional de Precios al Consumidor publicado por el Instituto Nacional de Estadística y Geografía, correspondiente al mes de noviembre del año anterior al año en que se causa el impuesto, entre el mismo índice del mes de noviembre anterior al año modelo del vehículo, excepto en el caso de vehículos nuevos, caso en que será 1.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN II. DE LOS VEHÍCULOS NUEVOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-7. Tratándose de automóviles, minibuses, microbuses, autobuses, ómnibus, camiones y tractores no agrícolas tipo quinta rueda nuevos, el impuesto se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos destinados al transporte hasta de 15 pasajeros, el impuesto será el que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Límite Inferior Límite Superior Cuota Fija Tasa para aplicarse
+
+sobre el excedente de
+
+límite inferior %
+
+$0.01 $300,000.00 $1,500.00 0%
+
+$300,000.01 $450,000.00 $1,500.00 1.0%
+
+$ 450,000.01 $600,000.00 $3,000.00 1.5%
+
+$ 600,000.01 $700.000.00 $5,250.00 2.0%
+
+$ 700,000.01 $800,000.00 $7,250.00 2.5%
+
+$ 800,000.01 $900,000.00 $9,750.00 3.0%
+
+$ 900,000.01 $1,000,000.00 $12,750.00 3.5%
+
+$1,000,000.01 En adelante $16,250.00 4.0%
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían (sic) que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80, y
+
+II. Para vehículos nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a quince toneladas y para vehículos destinados al servicio público de transporte público con itinerario fijo y los destinados para el servicio público de transporte público sin itinerario fijo, el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
+
+Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable y, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+Se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos pick up de carga, sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-8. Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la Motocicleta, la siguiente:
+
+TARIFA
+
+Límite Inferior Límite Superior Cuota Fija Tasa para aplicarse
+
+sobre el excedente %
+
+$0.01 $100,000.00 $500.00 0%
+
+$100,000.01 $150,000.00 $500.00 1.0%
+
+$150,000.01 $200,000.00 $1,000.00 1.5%
+
+$200,000.01 $250,000.00 $1,750.00 2.0%
+
+$ 250,000.01 $300,000.00 $2,750.00 2.5%
+
+$300,000.01 En adelante $4,000.00 3.0%
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-09. Tratándose de motocicletas eléctricas, automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN III. DE LOS VEHÍCULOS USADOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-10. Tratándose de vehículos usados de fabricación nacional o importados, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo de acuerdo con la siguiente:
+
+Años de antigüedad Factor
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 y siguientes 0.500
+
+El resultado obtenido conforme al párrafo anterior se actualizará de acuerdo con lo dispuesto en el artículo 7 BIS-6 de este Capítulo.
+
+En el supuesto de vehículos usados que no cuenten con antecedente de pago del Impuesto sobre Tenencia o Uso de Vehículos, se aplicará el mecanismo de cálculo del Impuesto a pagar, de conformidad con lo dispuesto en el Artículo 7 BIS-7, aplicando el factor de depreciación.
+
+Tratándose de automóviles eléctricos a que se refiere este artículo, así como aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-11. Tratándose de automóviles de servicio particular que pasen a ser de servicio de transporte mercantil de personas en su modalidad de alquiler o taxi, de uno a quince años modelo de antigüedad, el impuesto a que se refiere este Capítulo, se calculará para el ejercicio fiscal siguiente a aquél en el que se dé este supuesto, conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo con el año modelo del vehículo, de conformidad con la tabla establecida en el artículo 7 BIS-12 de este capítulo, y
+
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 7 BIS-6 de este Capítulo, el resultado obtenido se multiplicará por 0.245%.
+
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+Tratándose de automóviles eléctricos a que se refiere este artículo, así como aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-12. Tratándose de automóviles usados de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo con el año modelo del vehículo, de conformidad con la siguiente:
+
+Años de antigüedad Factor de depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 y siguientes 0.075
+
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 7 BIS-6 de este Capítulo; al resultado se le aplicará la tarifa a que hace referencia el artículo 7 BIS-7.
+
+Para efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos, a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 7 BIS-13. Tratándose de motocicletas de fabricación nacional o importadas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo con el año modelo de la motocicleta, de conformidad con la siguiente:
+
+TARIFA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 y siguientes 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se actualizará de conformidad con lo dispuesto en el artículo 7 BIS-6 de este Capítulo; al resultado se le aplicará la tarifa a que hace referencia el artículo 7 BIS-8 de este Capítulo.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+En el caso de motocicletas eléctricas, el impuesto se pagará a la tasa de 0%.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN IV. DE LAS OBLIGACIONES Y EXENCIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-14. Los sujetos obligados al pago del impuesto a que se refiere este Capítulo, deberán:
+
+I. Presentar ante la oficina recaudadora respectiva, documento original con que se acredite la propiedad o posesión de él o los vehículos objeto de este gravamen;
+
+II. Solicitar la inscripción del vehículo de que se trate en el Padrón Vehicular Estatal, y
+
+III. Presentar, a requerimiento de las autoridades fiscales, los comprobantes de los pagos de este impuesto y de los derechos por servicios de control vehicular, correspondientes a los últimos cinco ejercicios fiscales.
+
+La autoridad fiscal queda facultada para exigir cualquier otro documento en el que consten los datos a que se refiere este artículo, para cerciorarse de la base del impuesto y de la cuota que le corresponde, así como para acreditar la legal estancia de la unidad vehicular en el país.
+
+La autoridad fiscal competente, no dará trámite a ninguna solicitud de alta, expedición de placas, calcomanías, autorizaciones, permisos, cambio de propietario, ni de tarjetas de circulación, sin que previamente se haya acreditado el pago de este impuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+EXENCIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 7 BIS-15. No se pagará el impuesto por la tenencia o uso de los siguientes vehículos:
+
+I. Los eléctricos utilizados para el transporte público de personas;
+
+II. Los importados temporalmente en los términos de la legislación aduanera;
+
+III. Los vehículos de la Federación, Estados, Municipios y Ciudad de México y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
+
+IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
+
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación;
+
+VI. Los propietarios de vehículos que soliciten la inscripción del vehículo automotor de que se trate en el padrón estatal vehicular dentro de los 30 días naturales siguientes de su adquisición, y
+
+VII. Los propietarios de vehículos que se encuentren inscritos en el padrón estatal vehicular que realicen el pago de los derechos de control vehicular por refrendo anual en términos del artículo 84, fracción II de esta Ley.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario de este deberá pagar el impuesto correspondiente dentro de los 30 días naturales siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+Los tenedores o usuarios de los vehículos a que se refiere este Artículo deberán comprobar ante la Secretaría, con la documentación correspondiente, que se encuentran comprendidos en alguno de los supuestos señalados.
+
+## TÍTULO SEGUNDO. DE LOS IMPUESTOS
+
 ### CAPÍTULO PRIMERO. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
 OBJETO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-## TÍTULO SEGUNDO. DE LOS IMPUESTOS
-
-### CAPÍTULO SEGUNDO. DEL IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES USADOS
-
-OBJETO
 
 ###### Artículo 8.
 
@@ -215,11 +565,9 @@ OBLIGACIONES
 
 (DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
-### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
+### CAPÍTULO SEGUNDO. DEL IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES USADOS
 
 OBJETO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 16.
 
@@ -295,11 +643,11 @@ Los vehículos automotores usados adquiridos quedan afectos preferentemente al p
 
 Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiese pagado el impuesto en los términos establecidos en este Capítulo.
 
-### CAPÍTULO CUARTO. IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
+### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
 OBJETO
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 23.
 
@@ -397,6 +745,10 @@ En los supuestos en que una persona física o moral en su carácter de promotor,
 
 Son responsables solidarios de este impuesto los retenedores del mismo, así como los administradores, encargados o cualquiera otra denominación que se utilice, para aquellas personas que se encarguen de otorgar el acceso o acondicionen para su uso, el lugar en que se prestan los servicios de hospedaje a que se refiere este Capítulo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Las personas físicas o morales mexicanas, extranjeras, que operan, intermedian o administran una Plataforma Tecnológica y los intermediarios, en su calidad de gestores o administradores, serán obligados solidarios de los anfitriones respecto al pago del Impuesto sobre Hospedaje y por aquellas sanciones relacionadas a los servicios de Estancia Turística Eventual que los anfitriones hayan proporcionado o contratado a través de dicha Plataforma Tecnológica. Las personas físicas o morales que operan intermedian o administran Plataformas Tecnológicas quedarán exentas de dicha responsabilidad cuando acrediten que el Anfitrión o intermediario actuó de mala fe o hizo mal uso de la Plataforma Tecnológica.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 25.
@@ -431,27 +783,25 @@ Adicionalmente, el Gobierno del Estado aportará al Fideicomiso Turismo Morelos,
 
 BASE Y TASA
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 26.
 
 La base gravable de este impuesto será el monto total de las erogaciones por concepto de la prestación de los servicios de hospedaje, incluyendo depósitos o anticipos.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
-
 Cuando la prestación de servicios de hospedaje incluya accesorios, tales como transportación, alimentos, uso de instalaciones u otros similares y no desglosen y comprueben con la documentación correspondiente la prestación de éstos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, además del costo de la membresía o certificado de titularidad, el monto de los pagos que se reciban por cuotas de mantenimiento u otras similares.
 
-Los retenedores calcularán el impuesto sobre la prestación de servicios de hospedaje aplicando la tasa del 3.75% al total del valor de las cantidades recibidas por concepto de pago o contraprestación por servicios de hospedaje y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
+Los retenedores calcularán el impuesto sobre la prestación de servicios de hospedaje aplicando la tasa del 3.75% al total del valor de las cantidades recibidas por concepto de pago o contraprestación por servicios de hospedaje.
+
+Tratándose de Plataformas Tecnológicas que ofrecen el servicio de hospedaje a que se refiere este Capítulo, deberán aplicar la tasa del 3.75% del total del valor de las cantidades cobradas.
+
+El impuesto se calculará y pagará mediante declaración que se presentará tomando en cuenta lo siguiente:
 
 I. El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
 II. Deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar, a más tardar el día 17 de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior. La obligación de presentar declaración bimestral subsistirá aun cuando no hubiese cantidad a pagar, y
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
 III. Presentarán sus declaraciones y efectuarán el entero del impuesto en las oficinas recaudadoras, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría.
 
@@ -489,7 +839,11 @@ La autoridad fiscal estatal estará facultada para determinar presuntivamente el
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO QUINTO. DEL IMPUESTO SOBRE DIVERSIONES
+### CAPÍTULO CUARTO. IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
+
+OBJETO
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 29.
 
@@ -701,11 +1055,7 @@ VI. Permitir en los eventos la presencia de los interventores fiscales que hayan
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO SEXTO
-
-DEL IMPUESTO SOBRE LOS SERVICIOS DE PARQUES ACUÁTICOS Y BALNEARIOS.
-
-OBJETO
+### CAPÍTULO QUINTO. DEL IMPUESTO SOBRE DIVERSIONES
 
 ###### Artículo 37.
 
@@ -733,11 +1083,11 @@ EXENCIONES
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-### CAPÍTULO SÉPTIMO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, JUEGOS PERMITIDOS CON APUESTA Y LA OBTENCIÓN DE PREMIOS EN APUESTAS PERMITIDAS
+### CAPÍTULO SEXTO
+
+DEL IMPUESTO SOBRE LOS SERVICIOS DE PARQUES ACUÁTICOS Y BALNEARIOS.
 
 OBJETO
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 43.
 
@@ -817,9 +1167,7 @@ Lo anterior, en el entendido que dentro del concepto de promoción en general se
 
 La Secretaría enterará bimestralmente al Fideicomiso Público, una cantidad equivalente al 100% de los recursos recaudados durante el periodo, en que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del ejercicio siguiente.
 
-### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+### CAPÍTULO SÉPTIMO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, JUEGOS PERMITIDOS CON APUESTA Y LA OBTENCIÓN DE PREMIOS EN APUESTAS PERMITIDAS
 
 OBJETO
 
@@ -945,13 +1293,13 @@ No causarán este impuesto los Partidos Políticos en los términos de la legisl
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO SÉPTIMO TER. DEL IMPUESTO SOBRE LAS DEMASÍAS CADUCAS
+### CAPÍTULO SÉPTIMO BIS. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 58 Bis
 
@@ -1029,11 +1377,9 @@ El impuesto se causará en el momento que se realice el pago por remuneraciones 
 
 TASA
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 58
-
-Bis-4. El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando la tasa del 2% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal.
+Artículo 58 BIS-4. El impuesto sobre erogaciones por remuneraciones al trabajo personal se determinará aplicando la tasa del 2.5% sobre el monto total de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1205,9 +1551,13 @@ La participación a la que hace referencia el primer párrafo de este artículo 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+### CAPÍTULO SÉPTIMO TER. DEL IMPUESTO SOBRE LAS DEMASÍAS CADUCAS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 OBJETO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 58 Ter
 
@@ -1285,17 +1635,213 @@ c) Las declaraciones informativas semestrales que presenten los contribuyentes, 
 
 d) Los sujetos a que se refiere este capítulo que no hayan realizado ninguna operación en el mes que corresponda, presentarán su declaración informativa indicando que no tuvieron operaciones en ese periodo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SÉPTIMO QUATER. DEL IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 58 QUATER-1. El objeto de este impuesto es la venta final de bebidas con contenido alcohólico en envase cerrado, llevada a cabo en el territorio del Estado, excepto cerveza, agua miel y productos derivados de su fermentación en todas sus presentaciones.
+
+Se entiende por venta final la que realice cualquier persona física o moral de los bienes a los que se refiere este Artículo al último adquiriente en envase cerrado, para su consumo o posterior comercialización en envase abierto.
+
+También se considerará venta final, el faltante de inventario o el consumo propio de las bebidas objeto de este impuesto.
+
+Asimismo, se entiende como bebidas con contenido alcohólico, para efectos de este impuesto, aquellas que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 58 QUATER-2. Son sujetos de este impuesto, las personas físicas o morales que realicen en el territorio del Estado, la venta final en envase cerrado de bebidas con contenido alcohólico, excepto, cerveza, agua miel y productos derivados de su fermentación en todas sus presentaciones.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+BASE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 58 QUATER-3. La base de este impuesto es el precio percibido por la venta de las bebidas alcohólicas señaladas en el Artículo 58 QUATER-1 de este Capítulo sin incluir los impuestos al valor agregado, ni especial sobre producción y servicios.
+
+El impuesto no será acreditable contra otros impuestos locales o federales.
+
+El traslado del impuesto deberá incluirse en el precio correspondiente sin que se considere que forma parte del precio de venta al público.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+TASA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 58 QUATER-4. El impuesto se determinará aplicando la tasa del 4.5% sobre el precio de la venta final de las bebidas con contenido alcohólico señaladas en el Artículo 58 QUATER-1 de este capítulo.
+
+El impuesto se causará al momento en que el enajenante reciba efectivamente las cantidades correspondientes al precio de venta final de las bebidas con contenido alcohólico.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ÉPOCA DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 58 QUATER-5. Este impuesto será retenido y enterado por el enajenante mediante declaración en la forma oficial aprobada por la Secretaría a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 58 QUATER-6. Los retenedores serán responsables solidarios de este impuesto, quienes además de cumplir con las obligaciones señaladas en el Código Fiscal para el Estado de Morelos y en las demás disposiciones fiscales, deberán cumplir las siguientes:
+
+I. Registrarse en el Padrón Estatal de Contribuyentes ante la Secretaría o en las oficinas que para ello autorice, dentro de los veinte días siguientes a la fecha de iniciación de actividades, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan y señalando domicilio en el Estado;
+
+II. Presentar los avisos y cumplir con las obligaciones que se señalan en el Código, en los casos de cambio de nombre, denominación o razón social, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones, o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en los formatos oficiales de Registro al Padrón Estatal de Contribuyentes, dentro de los diez días siguientes a la fecha en que se realice dicho cambio;
+
+III. Llevar un registro pormenorizado de las ventas a que se refiere el Artículo QUATER-1 de este capítulo, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto, y
+
+IV. Expedir comprobantes que reúnan los requisitos fiscales, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SÉPTIMO QUINQUIES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN ÚNICA. DEL IMPUESTO POR EMISIÓN DE GASES A LA ATMÓSFERA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 58 QUINQUIES-1. Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo.
+
+Para los efectos de este impuesto, se considera emisión a la atmósfera la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 58 QUINQUIES-2. Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la Administración Pública Federal, por el Estado y por los municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+BASE GRAVABLE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 58 QUINQUIES-3. La base de este impuesto es la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+
+Para la determinación de la base gravable, el contribuyente realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría del Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal de Emisiones a cargo de la Secretaría encargada del Medio Ambiente a nivel estatal.
+
+Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 58 QUINQUIES-1 de esta Ley, en bióxido de carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
+
+GASES EFECTO COMPOSICIÓN EQUIVALENCIA CO2
+
+INVERNADERO MOLECULAR
+
+Bióxido de carbono CO2 1
+
+Metano CH4 23
+
+Óxido nitroso N2O 296
+
+Hidrofluoro-carbonos HFC-23 12,000
+
+HFC-125 3,400
+
+HFC-134ª 1,300
+
+HFC-152ª 120
+
+HFC-227ea 3,500
+
+HFC-236fa 9,400
+
+HFC-4310mee 1,500
+
+CF4 5,700
+
+C2F6 11,900
+
+Perfluoro-carbonos C4F10 8,600
+
+C6F14 9,000
+
+Hexafluoro de azufre SF6 22,200
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+CUOTA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 58 QUINQUIES-4. El impuesto a que se refiere esta Sección, se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 250 pesos por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+
+Aquellos contribuyentes que participen en el Sistema de Comercio de Emisiones conforme a lo señalado en el artículo 94 de la Ley General de Cambio Climático, estarán sujetos al pago de una cuota fija anual, conforme a la siguiente tabla de referencia:
+
+LÍMITE INFERIOR LÍMITE SUPERIOR CUOTA FIJA
+
+TONELADAS DE TONELADAS DE (MXN)
+
+BIÓXIDO DE CARBONO BIÓXIDO DE CARBONO
+
+EQUIVALENTE EQUIVALENTE
+
+100,000 1,000,000 $1,000,000
+
+1,000,001 2,000,000 $1,500,000
+
+2,000,001 En adelante $2,000,000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 58 QUINQUIES-5. Los contribuyentes realizarán a cuenta de este impuesto, pagos definitivos mensuales, que se presentarán a más tardar el día 17 del mes siguiente que corresponda al mismo, mediante los formularios que para esos efectos apruebe y publique la Secretaría.
+
+Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+ARTÍCULO 58 QUINQUIES-6. Los contribuyentes de este impuesto, estarán obligados a presentar el aviso de inscripción ante la Secretaría y llevar un Libro Registro de Emisiones Contaminantes, que estará a disposición de la Secretaría y de la Secretaría encargada del Medio Ambiente, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
+
+El Libro Registro de Emisiones Contaminantes contendrá los siguientes datos:
+
+I. Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
+
+II. Composición química básica del combustible consumido y/o producido;
+
+III. Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
+
+IV. En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
+
+V. Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría o de la Secretaría encargada del Medio Ambiente.
+
+### CAPÍTULO OCTAVO. DEL IMPUESTO ADICIONAL
+
+OBJETO
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-### CAPÍTULO SEGUNDO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO DIRECTO
-
-### CAPÍTULO TERCERO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO COLECTIVO
-
-### CAPÍTULO PRIMERO. REGISTRO PÚBLICO DE LA PROPIEDAD
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 59.
 
@@ -1329,9 +1875,7 @@ TASA
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO SEGUNDO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO DIRECTO
 
 ###### Artículo 65.
 
@@ -1349,9 +1893,7 @@ Las autoridades fiscales podrán autorizar, conforme a reglas de carácter gener
 
 Los contribuyentes que prefieran hacer el pago total de la liquidación a su cargo en una sola exhibición, tendrán derecho a un descuento del 12% sobre el monto del pago anticipado.
 
-### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO TERCERO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO COLECTIVO
 
 ###### Artículo 67.
 
@@ -1421,9 +1963,9 @@ El monto de las cuotas, en cada caso concreto deben pagarse, distribuyendo el co
 
 Para los efectos de este Capítulo cuando se trate de obra de pavimentación o reparación, su duración mínima será de diez años y en consecuencia, no se podrá acordar un nuevo cobro por el mismo concepto durante este plazo.
 
-### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
+### CAPÍTULO PRIMERO. REGISTRO PÚBLICO DE LA PROPIEDAD
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 70.
 
@@ -1537,21 +2079,9 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### capítulo décimo séptimo del presente título.
+### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-XV (SIC). Cancelación de Registro 14.00
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-XVI. Levantamiento de acta de nacimiento por
-
-reasignación de concordancia sexo genérica. 10
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 76.
 
@@ -1955,7 +2485,7 @@ Para los efectos de este capítulo, las cantidades retenidas por los Fedatarios 
 
 Los fedatarios públicos que, conforme a las disposiciones fiscales, retengan los derechos a que se refiere el artículo 77, deberán enterarlos en un plazo que no excederá de 15 días hábiles, contados a partir del día siguiente al que se hubiera realizado el pago de Impuesto sobre Adquisición de Bienes Inmuebles. El incumplimiento en el entero de las cantidades retenidas, dentro del plazo señalado, originará la causación de recargos en el porcentaje que se establece en la Ley de Ingresos del Gobierno del Estado de Morelos para el ejercicio que corresponda.
 
-### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
+### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -2103,9 +2633,9 @@ V. Están exentos del pago de los derechos que establece este Capítulo: la Fede
 
 Para los efectos de este Capítulo, las cantidades retenidas por los Fedatarios Públicos respecto de escrituras autorizadas en un ejercicio fiscal determinado, podrán enterarse conforme a los montos vigentes en dicho ejercicio fiscal, siempre y cuando el entero sea realizado a más tardar el 28 de febrero o día hábil siguiente del ejercicio fiscal posterior a aquel en que se realizó la retención.
 
-### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
+### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 82.
 
@@ -2167,9 +2697,51 @@ el Capítulo Décimo Séptimo del presente Título.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
+### capítulo décimo séptimo del presente título.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+XV (SIC). Cancelación de Registro 14.00
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Levantamiento de acta de nacimiento por
+
+reasignación de concordancia sexo genérica. 10
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XVII Por Registro de Defunciones de conformidad
+
+con las disposiciones aplicables en la materia por el
+
+Código Familiar para el Estado de Morelos.
+
+A) Permiso para exhumación 7
+
+B) Permiso para cremación 5
+
+C) Permiso para traslado de un cadáver dentro
+
+del estado de Morelos 3
+
+D) Permiso de traslado de un cadáver fuera del
+
+Estado de Morelos 5
+
+E) Permiso de traslado de Cenizas dentro del
+
+Estado de Morelos 3
+
+F) Permiso de traslado de Cenizas fuera del
+
+Estado de Morelos 5
+
+G) Por declaración de Ausencia 5
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 83.
 
@@ -2279,23 +2851,17 @@ XIII. Copia certificada del registro en el libro: 2.26
 
 y firmas se causarán los derechos establecidos en el
 
-### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
+### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-Artículo 93 bis. Los servicios que presta la Comisión Estatal del Agua causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 46.]</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 83 Bis.
 
 No se causará este derecho, cuando se realicen anotaciones marginales por procedimiento de corrección administrativa de la Dirección General del Registro Civil, derivada de la aclaración de las actas por errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecte los datos esenciales contenidos en el acta.
 
-### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
+### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 84.
 
@@ -2637,6 +3203,28 @@ A) Con vigencia de un año:
 
 4. Turista: 6.40
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+5. Expedición de Licencia Permanente de Automovilista
+
+para manejar vehículos particulares: 12.30
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+6. Para la expedición de Licencia Permanente que se
+
+realice a primo-conductores (primera expedición de
+
+Licencia) y para quienes no cuenten con antecedentes
+
+de Licencias expedidas por el estado de Morelos, los
+
+solicitantes deberán cubrir el siguiente importe y aprobar
+
+el Examen de Manejo, que realice la Coordinación de
+
+Movilidad y Transporte: 3.60
+
 B) Con vigencia de tres años:
 
 1. Chofer: 8.40
@@ -2705,7 +3293,9 @@ B) Con vigencia de cinco años:
 
 El pago de los derechos por los servicios a que se refiere este Capítulo deberá realizarse en las oficinas recaudadoras de la Secretaría que corresponda a su circunscripción, ante las instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría, en las formas previamente aprobadas.
 
-Los derechos que se causen por los servicios de control vehicular por expedición de placas metálicas, tarjeta de circulación, engomado y holograma, se pagarán dentro de los tres primeros meses de cada año, salvo en el caso de vehículos cuyo registro al padrón vehicular del Estado se solicite por primera vez, supuesto en el que se realizará el pago al momento en que se solicite la inscripción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Los derechos que se causen por los servicios de control vehicular por refrendo anual de los derechos de control vehicular, con expedición de tarjeta de circulación, engomado y holograma, se pagarán dentro de los cinco primeros meses de cada año, salvo en el caso de vehículos cuyo registro al padrón vehicular del Estado se solicite por primera vez, supuesto en el que se realizará el pago al momento en que se solicite la inscripción.
 
 Los demás derechos regulados en este Capítulo se pagarán en el momento en que se soliciten.
 
@@ -2757,13 +3347,13 @@ VII.- Son responsable solidarios, los servidores públicos que sin cerciorarse d
 
 Artículo 84 BIS-2.- La falta de presentación de los avisos a que se refiere este Capítulo, dará lugar a la imposición de sanciones en términos de lo dispuesto por el Código Fiscal para el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejercicio en que corresponda realizar el trámite de canje de placas metálicas de circulación, de acuerdo con las disposiciones de la Norma Oficial Mexicana vigente para placas metálicas, calcomanías de identificación y tarjetas de circulación, el pago de los derechos contenidos en la fracción I, del artículo 84 de la presente Ley, se realizará a partir del mes de abril, con los requisitos y calendarización que al efecto expida la Secretaría de Movilidad y Transporte.
+Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejercicio en que corresponda realizar el trámite de canje de placas metálicas de circulación, de acuerdo con las disposiciones de la Norma Oficial Mexicana vigente para placas metálicas, calcomanías de identificación y tarjetas de circulación, el pago de los derechos contenidos en la fracción I, del artículo 84 de la presente Ley, se realizará a partir del mes de abril, con los requisitos y calendarización que al efecto expida la autoridad competente en materia de servicios de control vehicular.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -2845,9 +3435,11 @@ Técnico Verificador, Auxiliar Administrativo,
 
 Auxiliar Operativo y Técnico de Impresión: 9.00
 
-5. Por el trámite de la certificación de la
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-verificación vehicular: 1.00
+5. Por el trámite de la certificación de la verificación
+
+vehicular 2.00
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
@@ -3921,6 +4513,12 @@ un predio o polígono que incluya un
 
 proyecto arquitectónico determinado. 66.234
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Emisión de Dictamen de Congruencia para Modificación
+
+de uso o destino del suelo 735.85
+
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 25 DE MARZO DE 2019)</small>
 
 VIII. En materia del parque
@@ -4043,7 +4641,15 @@ del estado de Morelos.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO NOVENO BIS. DE LOS SERVICIOS DE EVALUACIÓN DE CONTROL DE CONFIANZA
+### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Artículo 93 bis. Los servicios que presta la Comisión Estatal del Agua causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 46.]</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 87.
 
@@ -4095,9 +4701,9 @@ Los ingresos que perciba el Estado por los servicios de verificación vehicular,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
+### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 93 Bis
 
@@ -4185,9 +4791,9 @@ servicio al público con contacto indirecto u ocasional, por metro cúbico: 0.05
 
 Para determinar el costo del servicio de consultoría y asesoría a que se refiere el párrafo anterior, se deberá considerar el tiempo invertido en el desarrollo de los trabajos e investigación que realice la Comisión Estatal de Agua con motivo del servicio solicitado.
 
-### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS DE EDUCACIÓN DE NIVEL BÁSICO Y NORMAL PRESTADOS POR INSTITUCIONES PRIVADAS
+### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 94.
 
@@ -4195,103 +4801,89 @@ Los servicios de la Policía Industrial, Bancaria y Auxiliar del Estado, causar�
 
 Tarifa en UMA
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+I. Por un policía en 12 horas de servicio diurno
 
-I. Por un Policía en 12 horas de servicio diurno
+a) Riesgo Bajo
 
-a) Riesgo bajo
+1. Tarifa diaria 5.16
 
-1. Tarifa diaria 5.77
+2. Tarifa mensual 155.00
 
-2. Tarifa mensual 173.00
+b) Riesgo Medio
 
-b) Riesgo medio
+1. Tarifa diaria 6.66
 
-1. Tarifa diaria 7.20
+2. Tarifa mensual 200.00
 
-2. Tarifa mensual 206.25
-
-c) Riesgo alto
+c) Riesgo Alto
 
 1. Tarifa diaria 8.80
 
 2. Tarifa mensual 264.55
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
-
 II. Por un policía en 24 horas de servicio
 
-a) Riesgo bajo
+a) Riesgo Bajo
 
-1. Tarifa diaria 8.82
+1. Tarifa diaria 10.33
 
-2. Tarifa mensual 264.70
+2. Tarifa mensual 310
 
-b) Riesgo medio
+b) Riesgo Medio
 
-1. Tarifa diaria 16.50
+1. Tarifa diaria 13.33
 
-2. Tarifa mensual 370.70
+2. Tarifa mensual 400
 
-c) Riesgo alto
+c) Riesgo Alto
 
-1. Tarifa diaria 18.73
+1. Tarifa diaria 18.66
 
-2. Tarifa mensual 559.34
+2. Tarifa mensual 560
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+III. Por la prestación del servicio nocturno por
 
-III. Por la prestación del servicio nocturno
+12 horas por un policía
 
-por 12 horas por un policía
+a) Riesgo Bajo
 
-a) Riesgo bajo 6.91
+1. Tarifa diaria 6.5
 
-1. Tarifa diaria 207.00
+2. Tarifa mensual 195.00
 
-2. Tarifa mensual
+b) Riesgo Medio
 
-b) Riesgo medio
+1. Tarifa diaria 7.16
 
-1. Tarifa diaria 7.48
+2. Tarifa mensual 215
 
-2. Tarifa mensual 226.60
-
-c) Riesgo alto
+c) Riesgo Alto
 
 1. Tarifa diaria 9.35
 
 2. Tarifa mensual 284.90
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
-
 IV. Por la prestación de servicios extraordinarios
 
 por 12 horas por un policía
 
-1. Tarifa diaria 11.55
+1. Tarifa diaria 8.80
 
-2. Tarifa mensual 330.00
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+2. Tarifa mensual 264.55
 
 V. Por la prestación del servicio extraordinario
 
-por 24 horas por un policía:
+por 24 horas por un policía
 
-1. Tarifa diaria 22.00
+1. Tarifa diaria 18.66
 
-2. Tarifa mensual 660.00
+2. Tarifa mensual 560
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+VI. Por la prestación del servicio de escoltas por cada elemento:
 
-VI. Por la prestación del servicio de escoltas
+1. Tarifa diaria 20
 
-por cada elemento:
-
-1. Tarifa diaria 17.05
-
-2. Tarifa mensual 503.25
+2. Tarifa mensual 480
 
 Para la clasificación del riesgo se estará a lo siguiente:
 
@@ -4301,75 +4893,89 @@ b) Riesgo Medio: los servicios prestados en los que se requiera portar armamento
 
 c) Riesgo Alto: los servicios prestados en los lugares en los que se resguarden valores, para los que sea indispensable portar armamento.
 
-### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO NOVENO BIS. DE LOS SERVICIOS DE EVALUACIÓN DE CONTROL DE CONFIANZA
 
 ###### Artículo 95.
 
 Son contribuyentes de los derechos establecidos en este Capítulo, las personas físicas y las personas morales que se dediquen a proporcionar servicios de seguridad privada en el Territorio del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 96.
 
-Los derechos por registro de control y vigilancia de las personas físicas o personas morales que se dediquen a la prestación de los servicios de seguridad privada, se causarán y pagarán con base en los términos siguientes:
+Los derechos por registro de control y vigilancia de las personas físicas o personas morales que se dediquen a la prestación de los servicios de seguridad privada se causarán y pagarán con base en los términos siguientes:
 
-Tarifa en UMA
+Tarifa UMA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+I. Por la autorización de servicios de seguridad privada
 
-I. Por la autorización para su funcionamiento y registro: 212.25
+en los bienes o seguridad privada en personas. 212.25
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+II. Por la revalidación de la autorización de servicios
 
-II. Por la revalidación anual de la autorización registro: 106.5
+de seguridad privada en los bienes o seguridad privada
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+en personas. 106.5
 
-III. Por el registro y expedición de la cédula de registro
+III. Por la autorización de servicios de seguridad electrónica,
 
-de cada elemento de seguridad: 2.50
+seguridad de la información o servicios de actividad
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+vinculada con servicios de seguridad privada de blindaje. 120
 
-IV. Por la revalidación anual y reposición de la cédula a
+IV. Por la revalidación de la autorización de servicios de
 
-que se refiere la fracción anterior: 3.75
+seguridad electrónica, seguridad de la información o
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+servicios de actividad vinculada con servicios de seguridad
 
-V. Por la autorización de traslado y custodia de fondos,
+privada de blindaje. 80
 
-valores o bienes vinculados con el servicio de seguridad: 295.50
+V. Por la autorización de servicios de custodia y resguardo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+de vehículos 50
 
-VI. Por la revalidación anual de la autorización de traslado
+VI. Por la revalidación de la autorización de servicios de
 
-y custodia de fondos, valores o bienes: vinculados con
+custodia y resguardo de vehículos 35
 
-el servicio de seguridad: 212.25
+VII. Por la autorización de traslado y custodia de fondos,
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+valores o bienes: vinculados con el servicio de seguridad 295.50
 
-VII. Emisión de credencial individual que acredita
+VIII. Por la revalidación anual de la autorización de traslado
 
-el registro del elemento ante la dirección: 1.50
+y custodia de fondos, valores o bienes: vinculados con el
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+servicio de seguridad 212.25
 
-VIII. Por el estudio de procedencia de la autorización: 8.25
+IX. Por la consulta de antecedentes de cada elemento
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+por registrar. 1.50
 
-IX. Otros servicios: 53.25
+X. Por el registro de cada elemento de seguridad 2.00
+
+XI. Por la expedición de la credencial individual de cada
+
+elemento que acredita el registro del elemento ante la
+
+dirección 1.50
+
+XII Por expedición de constancias de trámite, de personal,
+
+de equipo y de status. 2.5
+
+XIII Por el registro de cada vehículo 1.5
+
+XIV Por el registro de equipo 2.0
+
+XV Por el estudio de procedencia de la autorización o
+
+revalidación 10
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
-
-RELATIVOS A INMUEBLES
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -4379,7 +4985,9 @@ RELATIVOS A INMUEBLES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
+### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS DE EDUCACIÓN DE NIVEL BÁSICO Y NORMAL PRESTADOS POR INSTITUCIONES PRIVADAS
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 97.
 
@@ -4699,7 +5307,9 @@ C) Por sustentante del Examen único de educación superior
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
+### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 99 Bis
 
@@ -4839,9 +5449,11 @@ XXIX. Cambio de nombre de escuela
 
 particular (por nivel educativo): 18.00
 
-### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
+### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+RELATIVOS A INMUEBLES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 100.
 
@@ -4979,17 +5591,7 @@ XIV. Otros servicios 1.00
 
 Están exentos del pago de derechos los profesores que ejerzan su actividad, única y exclusivamente al servicio de establecimientos oficiales o incorporados al Gobierno Federal o al Gobierno del Estado de Morelos.
 
-### CAPÍTULO DÉCIMO QUINTO BIS
-
-DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DEL DERECHO DE VÍA EN CAMINOS, PUENTES Y VÍAS DE COMUNICACIÓN ESTATALES LIBRES DE PEAJE Y POR OCUPACIÓN DE LA ZONA ESTATAL
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-###### Artículo 107 Bis.
-
-Por el uso o aprovechamiento del derecho de vía en caminos, puentes y vías de comunicación estatales libres de peaje y por ocupación de la zona estatal, se cobrará un derecho, conforme a las tarifas que proponga la Secretaría de Movilidad y Transporte y valide la Secretaría, de acuerdo con el reglamento o los lineamientos que para tal efecto emita el Ejecutivo Estatal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
 
 ###### Artículo 103.
 
@@ -5005,9 +5607,7 @@ la fracción anterior: 2.00
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
 
 ###### Artículo 104.
 
@@ -5019,9 +5619,9 @@ la fracción anterior: 2.00
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO SEXTO BIS
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
 
-DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS POR (SIC) TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS PARA CONTRATACIÓN DE SERVIDORES PÚBLICOS Y CELEBRACIÓN DE CONTRATOS CON PARTICULARES.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 106.
 
@@ -5029,9 +5629,15 @@ DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS POR (SIC) TRIBUNAL DE JUSTICIA AD
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS
+### CAPÍTULO DÉCIMO QUINTO BIS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DEL DERECHO DE VÍA EN CAMINOS, PUENTES Y VÍAS DE COMUNICACIÓN ESTATALES LIBRES DE PEAJE Y POR OCUPACIÓN DE LA ZONA ESTATAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 107 BIS. Por el uso o aprovechamiento del derecho de vía en caminos, puentes y vías de comunicación estatales libres de peaje y por ocupación de la zona estatal, se cobrará un derecho, conforme a las tarifas que proponga la autoridad competente en materia de movilidad y trasporte y valide la Secretaría, de acuerdo con el reglamento o los lineamientos que para tal efecto emita el Ejecutivo Estatal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 107.
 
@@ -5041,11 +5647,13 @@ Los ingresos recaudados por los derechos a que se refiere el párrafo anterior s
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO NOVENO. DE LOS SERVICIOS EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA
+### CAPÍTULO DÉCIMO SEXTO BIS
+
+DE LOS SERVICIOS DE EXPEDICIÓN DE CONSTANCIAS POR (SIC) TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS PARA CONTRATACIÓN DE SERVIDORES PÚBLICOS Y CELEBRACIÓN DE CONTRATOS CON PARTICULARES.
 
 ###### Artículo 108.
 
@@ -5061,115 +5669,9 @@ Por la expedición de oficios de habilitación, así como de otras constancias n
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2019)</small>
 
-### CAPÍTULO VIGÉSIMO. DE LOS SERVICIOS EN MATERIA DE TURISMO Y CULTURA
+### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-Artículo 114 TER. Los derechos por los servicios de control de espacios para eventos dentro del territorio del estado de Morelos, que lleva a cabo la Secretaría de Turismo y Cultura, se causarán y se pagarán previamente por los interesados y por cada espacio registrado, con base en los términos siguientes:
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-I. 137.00 UMA por un año por espacio.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-II. 69.00 UMA por semestre por espacio.
-
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-Artículo 114 TER-1. Los servicios que preste la Secretaría de Turismo y Cultura, se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
-
-I) Centro Cultural Jardín Borda:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 45.]</small>
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-Los criterios de coproducción con las compañías que buscan un espacio para presentar sus producciones en la Sala Manuel M. Ponce, Foro del Lago y Fuente Magna, se distribuirá tomando como base el resultado de la operación aritmética señalada en el párrafo final de esta fracción, al cual se le aplicarán los porcentajes siguientes para cada parte:
-
-A* 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
-
-B* 60% para la producción y 40% para la Secretaría de Turismo y Cultura.
-
-C* 50% para la producción y 50% para la Secretaría de Turismo y Cultura.
-
-El monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tengan que pagarse.
-
-II) El Museo Casa Emiliano Zapata, en Anenecuilco, Morelos:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
-
-III) El Museo de la Revolución del Sur, cuartel de Zapata (Tlaltizapán):
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
-
-IV) El Museo Ex Hacienda de Chinameca:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
-
-V) El Museo de la Independencia Sitio de Cuautla:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
-
-VI) El Museo Dormitorio Mariano Matamoros:
-
-CONCEPTO UNIDAD DE CUOTA
-
-MEDIDA
-
-Entrada general Persona La cantidad en UMA equivalente a $30.00
-
-Entrada con Persona La cantidad en UMA equivalente a $15.00
-
-descuento
-
-Entrada libre Persona Domingos, noches de museos, eventos
-
-especiales, residentes del estado de
-
-Morelos presentando cualquier documento
-
-que acredite su domicilio.
-
-VII) Cine Morelos
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-Los criterios de coproducción con las distribuidoras que no cuenten con un presupuesto base para el pago de la programación, se distribuirá tomando como base el resultado de la operación aritmética señalada en párrafo final de esta fracción, al cual se le aplicarán los porcentajes para cada parte y conforme a la clasificación siguiente:
-
-A* 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
-
-B* 60% para la producción y 40% para la Secretaría de Turismo y Cultura.
-
-C* 50% para la producción y 50% para la Secretaría de Turismo y Cultura.
-
-Sólo será aplicable para distribuidoras, eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas; el monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tenga que pagarse.
-
-VIII) Teatro Ocampo:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 48.]</small>
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
-
-Con el propósito de promover y fomentar los eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas, los criterios de coproducción con los distribuidores serán los que resulten de aplicar los porcentajes siguientes a cada parte, sobre el resultado de la operación aritmética señalada en el párrafo siguiente y conforme al tipo A, A2, A3, B, B2 y B3.
-
-*A.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
-
-*A2.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
-
-*A3.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
-
-*B.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
-
-*B2.- 60% para la producción y 40% para la Secretaría de Turismo y Cultura.
-
-*B3.- 50% para la producción y 50% para la Secretaría de Turismo y Cultura.
-
-El monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tengan que pagarse.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 108 Bis
 
@@ -5183,9 +5685,9 @@ Por concepto de las diversas constancias que expida el Tribunal de Justicia Admi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO VIGÉSIMO PRIMERO. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
+### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 109.
 
@@ -5274,6 +5776,168 @@ Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 Las copias certificadas que soliciten entre sí las diversas autoridades del Gobierno del Estado, en especial las requeridas por autoridades contencioso-administrativas, jurisdiccionales o de investigación, no causarán derechos, por lo que para su expedición bastará con su solicitud por escrito.
 
 Así mismo, no se causarán los derechos por los servicios de trámite a que se refiere el artículo 109 de la presente Ley, cuando sean solicitados por el Servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, para asuntos oficiales de su competencia, siempre y cuando sean solicitados por escrito, mediante el cual justifique y acredite su petición.
+
+### CAPÍTULO DÉCIMO NOVENO. DE LOS SERVICIOS EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA
+
+###### Artículo 113.
+
+Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causará la cantidad equivalente a 0.01 UMA por cada una de las reproducciones de copias simples.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+El cobro de Derechos por conceptos de copias certificadas se causará de conformidad con lo establecido en el Capítulo Décimo Séptimo del presente Título.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114.
+
+Los derechos por la reproducción de información en otros medios, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+
+Concepto Tarifa en UMA
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. EN MEDIOS INFORMÁTICOS POR UNIDAD
+
+A) DISCO COMPACTO (CD) 0.15
+
+B) DISCO VERSÁTIL DIGITAL (DVD). 0.25
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. IMPRESIONES POR CADA HOJA 0.02
+
+Los solicitantes que proporcionen el material señalado en los incisos a) y b) de la fracción I de este artículo, en el que será reproducida la información pública, quedarán exentos del pago previsto en este artículo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+### CAPÍTULO VIGÉSIMO. DE LOS SERVICIOS EN MATERIA DE TURISMO Y CULTURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 114 TER. Los derechos por los servicios de control de espacios para eventos dentro del territorio del estado de Morelos, que lleva a cabo la Secretaría de Turismo, se causarán y se pagarán previamente por los interesados y por cada espacio registrado, con base en los términos siguientes:
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. 137.00 UMA por un año por espacio.
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. 69.00 UMA por semestre por espacio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Artículo 114 TER-1. Los servicios que preste la Secretaría de Cultura, se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+I) Centro Cultural Jardín Borda:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 45.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los criterios de coproducción con las compañías que buscan un espacio para presentar sus producciones en la Sala Manuel M. Ponce, Foro del Lago y Fuente Magna, se distribuirá tomando como base el resultado de la operación aritmética señalada en el párrafo final de esta fracción, al cual se le aplicarán los porcentajes siguientes para cada parte:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+A* 70% para la producción y 30% para la Secretaría de Cultura.
+
+B* 60% para la producción y 40% para la Secretaría de Cultura.
+
+C* 50% para la producción y 50% para la Secretaría de Cultura.
+
+El monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tengan que pagarse.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+II) El Museo Casa Emiliano Zapata, en Anenecuilco, Morelos:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+III) El Museo de la Revolución del Sur, cuartel de Zapata (Tlaltizapán):
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+IV) El Museo Ex Hacienda de Chinameca:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+V) El Museo de la Independencia Sitio de Cuautla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
+
+VI) (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+VII) Cine Morelos
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Los criterios de coproducción con las distribuidoras que no cuenten con un presupuesto base para el pago de la programación, se distribuirá tomando como base el resultado de la operación aritmética señalada en párrafo final de esta fracción, al cual se le aplicarán los porcentajes para cada parte y conforme a la clasificación siguiente:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+A* 70% para la producción y 30% para la Secretaría de Cultura.
+
+B* 60% para la producción y 40% para la Secretaría de Cultura.
+
+C* 50% para la producción y 50% para la Secretaría de Cultura.
+
+Sólo será aplicable para distribuidoras, eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas; el monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tenga que pagarse.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+VIII) Teatro Ocampo:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 48.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2023)</small>
+
+Con el propósito de promover y fomentar los eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas, los criterios de coproducción con los distribuidores serán los que resulten de aplicar los porcentajes siguientes a cada parte, sobre el resultado de la operación aritmética señalada en el párrafo siguiente y conforme al tipo A, A2, A3, B, B2 y B3.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+*A.- 70% para la producción y 30% para la Secretaría de Cultura.
+
+*A2.- 70% para la producción y 30% para la Secretaría de Cultura.
+
+*A3.- 70% para la producción y 30% para la Secretaría de Cultura.
+
+*B.- 70% para la producción y 30% para la Secretaría de Cultura.
+
+*B2.- 60% para la producción y 40% para la Secretaría de Cultura.
+
+*B3.- 50% para la producción y 50% para la Secretaría de Cultura.
+
+El monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tengan que pagarse.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Bis.
+
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+### CAPITULO VIGÉSIMO PRIMERO. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 ### CAPITULO VIGÉSIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE ADMINISTRACIÓN
 
@@ -5367,47 +6031,9 @@ DE 6001 UNIDADES O PIEZAS EN ADELANTE: 16.00
 
 Se exenta del pago de estos derechos a las secretarías, dependencias, entidades, unidades y órganos del Estado, que auxilien a la Comisión de Avalúos de Bienes Estatales para el cumplimiento de las funciones que establece el artículo 56 de la Ley General de Bienes del Estado de Morelos, así como aquellas autoridades que soliciten trámites para actualización anual de avalúo de bienes inmuebles.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 113.
-
-Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causará la cantidad equivalente a 0.01 UMA por cada una de las reproducciones de copias simples.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-El cobro de Derechos por conceptos de copias certificadas se causará de conformidad con lo establecido en el Capítulo Décimo Séptimo del presente Título.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
-
-###### Artículo 114.
-
-Los derechos por la reproducción de información en otros medios, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
-
-Concepto Tarifa en UMA
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-I. EN MEDIOS INFORMÁTICOS POR UNIDAD
-
-A) DISCO COMPACTO (CD) 0.15
-
-B) DISCO VERSÁTIL DIGITAL (DVD). 0.25
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-II. IMPRESIONES POR CADA HOJA 0.02
-
-Los solicitantes que proporcionen el material señalado en los incisos a) y b) de la fracción I de este artículo, en el que será reproducida la información pública, quedarán exentos del pago previsto en este artículo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-### CAPITULO VIGÉSIMO TERCERO. DE LOS SERVICIOS EN MATERIA DE RESERVAS TERRITORIALES
+### CAPÍTULO VIGÉSIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA COMISIÓN ESTATAL DE RESERVAS TERRITORIALES
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -5509,22 +6135,6 @@ C) A PARTIR DE CINCUENTA Y
 
 UN HOJAS: 0.10
 
-###### Artículo 114 Bis.
-
-(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2022)</small>
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
-
-### CAPÍTULO TERCERO
-
-UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 ###### Artículo 114 Quater.
 
 Por la evaluación del programa interno de protección civil a que se refieren los artículos 135 y 136 de la Ley Estatal de Protección Civil de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 139 de la misma Ley, se causará un derecho por la cantidad equivalente a 32.00 UMA.
@@ -5607,11 +6217,9 @@ Por la evaluación del programa interno de protección civil a que se refieren l
 
 13. Por el registro como asesor, para la elaboración de estudios de vulnerabilidad y riesgos en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89.00 UMA.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-###### Artículo 114 Quater
-
-14. Por el registro como capacitador en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 10.00 UMA, por cada tema a impartir.
+Artículo 114 QUATER-14. Por el registro como capacitador en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 154 y 155 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 89 UMA.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
@@ -5691,15 +6299,17 @@ No se causarán los derechos a que se refiere este capítulo, por los servicios 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-### CAPÍTULO QUINTO. ALMACENAJE
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
 
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
+
+### CAPÍTULO TERCERO
+
+UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 115.
 
@@ -5723,6 +6333,10 @@ VII. Almacenaje; y
 
 VIII. Otros no especificados.
 
+### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 116.
 
 La venta de bienes inmuebles propiedad del Gobierno del Estado y de los organismos descentralizados del Poder Ejecutivo se deberá ajustar a las normas y procedimientos establecidos en la Ley General de Bienes del Estado de Morelos.
@@ -5740,6 +6354,10 @@ El arrendamiento de bienes inmuebles propiedad del Gobierno del Estado de Morelo
 Los ingresos por productos derivados del arrendamiento, uso o explotación de bienes de inmuebles del Gobierno del Estado se calcularán por ejercicios fiscales.
 
 Los beneficiarios efectuarán pagos provisionales mensuales a más tardar el día 10 de cada mes, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será una doceava parte del monto del producto anual.
+
+### CAPÍTULO QUINTO. ALMACENAJE
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 119.
 
@@ -5785,7 +6403,11 @@ A) VENTA DE EJEMPLARES:
 
 1. SUSCRIPCIÓN SEMESTRAL:
 
-1.1. EDICIÓN IMPRESA: 5.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+1.1. EDICIÓN DIGITAL CON FIRMA
+
+ELECTRÓNICA: 5.50
 
 1.2. EDICIÓN ELECTRÓNICA 5.50
 
@@ -5793,11 +6415,17 @@ A) VENTA DE EJEMPLARES:
 
 2. SUSCRIPCIÓN ANUAL:
 
-2.1. EDICIÓN IMPRESA: 10.50
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+2.1. EDICIÓN DIGITAL CON FIRMA
+
+ELECTRÓNICA: 10.50
 
 2.2. EDICIÓN ELECTRÓNICA: 10.50
 
-3. EJEMPLAR DE LA FECHA: 0.15
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+3. EJEMPLAR CON FIRMA ELECTRÓNICA: 0.15
 
 4. EJEMPLAR ATRASADO DEL AÑO EN CURSO: 0.30
 
@@ -5813,7 +6441,11 @@ REGLAMENTOS E ÍNDICE ANUAL: 1.00
 
 8. PERIÓDICO OFICIAL EN DISCO COMPACTO: 1.00
 
-9. COLECCIÓN ANUAL: 15.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+9. COLECCIÓN ANUAL DIGITAL CON FIRMA
+
+ELECTRÓNICA: 15.00
 
 B) INSERCIONES: PUBLICACIONES ESPECIALES, EDICTOS, LICITACIONES,
 
@@ -6474,3 +7106,19 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2024, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO VEINTICUATRO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 1 de enero de 2025, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Una vez que entre en vigor la Fase Operativa del Sistema de Comercio de Emisiones, las empresas referidas en el segundo párrafo del artículo 58 Quinquies-4 de la presente Ley y sin mayor formalidad, quedarán excluidas del pago del impuesto.
+
+CUARTA. La Secretaría de Hacienda expedirá a más tardar el día 30 de enero de 2025, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+
+Los municipios deberán informar a la Secretaría de Hacienda del Poder Ejecutivo a más tardar el 15 de enero de 2025, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma en la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+QUINTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
