@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-deuda-publica-del-estado-de-yucatan-127278"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-21"
-last_updated: "2018-03-21"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de marzo de 2018.
 
@@ -209,11 +209,13 @@ Remisión a la ley de disciplina financiera
 
 Los entes públicos, para la autorización y contratación de financiamientos u obligaciones, deberán ajustarse a los términos, plazos, restricciones, condiciones y demás disposiciones establecidas en el capítulo I del título tercero de la ley de disciplina financiera, así como las previstas en este capítulo.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
 Solicitud al Congreso
 
-Los entes públicos, en las iniciativas mediante las cuales soliciten la autorización para la contratación de financiamientos u obligaciones, deberán señalar la información a que se refiere el artículo 24 de la ley de disciplina financiera y adjuntar sus estados financieros del ejercicio fiscal más reciente, dictaminados por contador público certificado, y elaborados conforme a la Ley General de Contabilidad Gubernamental y las normas contables emitidas por el Consejo Nacional de Armonización Contable.
+Los entes públicos, en las iniciativas mediante las cuales soliciten la autorización para la contratación de financiamientos u obligaciones, deberán señalar la información a que se refiere el artículo 24 de la ley de disciplina financiera.
 
 ###### Artículo 12.
 
@@ -440,3 +442,13 @@ Gobernador del Estado de Yucatán
 Martha Leticia Góngora Sánchez
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 35/2024 POR EL QUE SE MODIFICA LA LEY DE DEUDA PÚBLICA DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
