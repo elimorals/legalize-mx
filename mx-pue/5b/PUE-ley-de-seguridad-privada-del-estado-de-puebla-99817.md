@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2024-07-16"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -517,9 +517,9 @@ V. No haber sido separados de las Fuerzas Armadas o de instituciones de segurida
 
 VI. No ser miembros en activo de alguna institución de Seguridad Pública Federal, Estatal o Municipal o de las Fuerzas Armadas, y
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VII. Contar con el certificado de control de confianza vigente, expedido por el Centro Único de Evaluación y Control de Confianza del Estado de Puebla.
+VII. Someterse a procedimientos de evaluación y control de confianza, de conformidad con la legislación aplicable en la materia.
 
 Para acreditar los requisitos establecidos en el presente artículo, se atenderá a lo que establece el Reglamento.
 
@@ -571,9 +571,9 @@ VII. Utilizar únicamente los vehículos, armamento, radiocomunicación y demás
 
 VIII. Informar sobre el cambio de domicilio fiscal de la matriz, así como el de las sucursales, adjuntando copia certificada ante fedatario público del aviso dado ante la Secretaría de Hacienda y Crédito Público;
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VIII Bis. Mantener al personal técnico y operativo certificado en materia de evaluación y control de confianza;
+VIII Bis. Someter al personal técnico y operativo a su cargo a procedimientos de evaluación y control de confianza, y privilegiar la permanencia de los elementos que los aprueben de conformidad con la legislación aplicable en la materia;
 
 IX. Aplicar anualmente exámenes toxicológicos al personal operativo en las instituciones autorizadas, en los términos que establece esta Ley y el Reglamento;
 
@@ -723,15 +723,17 @@ La sanción o sanciones impuestas se harán públicas en la página de Internet 
 
 La aplicación de las sanciones establecidas en este artículo, se impondrán con base al procedimiento administrativo que para tal efecto disponga el Reglamento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+En caso de que el prestador de servicios de seguridad privada no cumpla con las obligaciones dispuestas en la fracción VIII BIS del artículo 30, se le impondrá la amonestación a que hace referencia el presente artículo. De existir reincidencia se hará acreedor a la sanción dispuesta dentro de la fracción II y en caso de doble reincidencia se le impondrá la revocación de la autorización, revalidación o modificación otorgadas, según corresponda.
+
 ###### ARTÍCULO 39.
 
 La imposición y cumplimiento de las sanciones no eximirá a los prestadores de servicios de la obligación de corregir las omisiones o irregularidades administrativas en las que haya incurrido.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
-
 ###### ARTÍCULO 39 Bis.
 
-Es causa de revocación de la autorización que el prestador de servicios preste servicios de seguridad privada con personal operativo o técnico que no cuente con los certificados de evaluación de control de confianza.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
@@ -930,3 +932,13 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opon
 TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales, a partir de la entrada en vigor del presente Decreto, para adecuar sus reglamentos municipales a la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla.
 
 CUARTO. Las Licencias y Permisos otorgados en términos de la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, previo a la entrada en vigor del presente Decreto, mantendrán su vigencia, debiendo los establecimientos amparados por los mismos, ajustar su funcionamiento a los horarios establecidos en el artículo 20 de la mencionada ley.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL APARTADO B DEL ARTÍCULO 27 Y LA FRACCIÓN VIII BIS DEL ARTÍCULO 30; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 38 Y SE DEROGA EL ARTÍCULO 39 BIS, TODOS DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto deberán substanciarse y resolverse de conformidad a las disposiciones vigentes al momento en que iniciaron tales procedimientos.
