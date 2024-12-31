@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2024-12-21"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -635,11 +635,7 @@ f) Revalidación y reposición de credencial: 5.00
 
 II. Certificación de Planos: 5.00
 
-III. Registro en el Padrón de Contratista de Obra Pública:
-
-a) Registro: 40.00
-
-b) Renovación Anual: 30.00
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 IV. Revisión y opinión técnica de estudios y proyectos de obra:
 
@@ -649,9 +645,9 @@ b) Mediana complejidad: 20.00
 
 V. Revalidación técnica de estudios y proyectos de obra: 30.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VI. Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencia y entidades de la Administración Pública y aquellas que celebren con los Municipios donde la fuente de financiamiento provenga de recursos, estatales o de Fondos de Aportaciones Federales regulados en la Ley de Coordinación Fiscal, autorizados en el programa de inversión, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado, el dos punto cinco por ciento, por los servicios de supervisión.
+VI. Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la Administración Pública y aquellas que celebren con los Municipios donde la fuente de financiamiento provenga de recursos estatales autorizados en el programa de inversión, así como de los fondos de Aportaciones Federales, regulados en la Ley de Coordinación Fiscal, pagarán y causarán por el importe total de la contratación, sin incluir el importe del impuesto al valor agregado, el tres por ciento, por los servicios de supervisión y verificación domiciliar.
 
 El procedimiento y términos de la retención del derecho antes citado, se establecerá en Reglas de Carácter General.
 
@@ -813,7 +809,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 ### CAPÍTULO XII. SECRETARÍA DE HONESTIDAD, TRANSPARENCIA Y FUNCIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 36.
 
@@ -889,27 +885,31 @@ b) Documento digitalizado, por hoja: 0.28
 
 ###### Artículo 38.
 
-Por el servicio de vigilancia, inspección y control de obra que las leyes de la materia encomiendan a la Secretaría de Honestidad, Transparencia y Función Pública, los contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+Por el servicio de vigilancia, inspección y control de obra que las leyes de la materia encomiendan a la Secretaría de Honestidad, Transparencia y Función Pública, las (sic) contratistas que celebren contratos de obra pública con las dependencias y entidades del Gobierno del Estado, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 Las oficinas pagadoras de las dependencias de la administración pública central y descentralizada, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato conforme al procedimiento que para tal efecto determine la Secretaría mediante reglas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Una vez recibidos los ingresos en la Secretaría, por la recaudación de este derecho, conforme al procedimiento establecido en reglas, éstos serán destinados a la Secretaría de Honestidad, Transparencia y Función Pública, para el fortalecimiento del servicio de inspección y vigilancia a que se refiere este artículo.
+Una vez recibidos los ingresos en la Secretaría, por la recaudación de este derecho, conforme al procedimiento establecido en reglas, estos serán destinados a la Secretaría de Honestidad, Transparencia y Función Pública, para el fortalecimiento del servicio de inspección y vigilancia a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Para efectos de lo anterior, la Secretaría de Honestidad, Transparencia y Función Pública deberá realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre lo recaudado para que se proceda al registro de los ingresos y egresos que correspondan a efecto de informar en la Cuenta Pública del Estado.
+Para efectos de lo anterior, la Secretaría de Honestidad, Transparencia y Función Pública, deberá realizar la conciliación con la Secretaría (sic), dentro de los primeros 10 días naturales de concluido el mes de calendario sobre lo recaudado para que se proceda al registro de los ingresos y egresos que correspondan a efecto de informar en la Cuenta Pública del Estado.
 
 La omisión total o parcial en lo antes señalado, afectará el presupuesto de la dependencia en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 39.
 
-Se causarán y pagarán derechos por los servicios públicos que se realicen en materia (sic) expedición de constancias, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos a su cargo, las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 31 DE DICIEMBRE DE 2024, PÁGINA 3.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -1560,3 +1560,25 @@ P.O. 21 DE DICIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 27.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXXIV Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 47; SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; Y SE REFORMAN LAS FRACCIONES XII DEL ARTÍCULO 3; I, III, IV, V, VI, VII, VIII, DEL ARTÍCULO 11; ARTÍCULO 12; PRIMERO Y SEGUNDO PÁRRAFO DEL ARTÍCULO 26 A; ARTÍCULO 26 B; ARTÍCULO 26 C; ARTÍCULO 26 D; ARTÍCULO 26 E; FRACCIONES I, II, III, Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 26 F; FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, DEL ARTÍCULO 26 G; ARTÍCULO 36; TERCER PÁRRAFO DEL ARTÍCULO 42; SE ADICIONAN LAS FRACCIONES IX, X RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 11; LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 26 A; LAS FRACCIONES I Y II DEL ARTÍCULO 26 D; LAS FRACCIONES IV, V, VI, VII DEL ARTÍCULO 26 F; LAS FRACCIONES X, XI, XII Y XIII DEL ARTÍCULO 26 G, TODAS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+CUARTO. La Secretaría de Infraestructuras y Comunicaciones transferirá a la Secretaría de Honestidad, Transparencia y Función Pública, en un plazo de cinco días naturales posteriores a la entrada en vigor del presente Decreto, el archivo de trámite, concentración, e histórico relativo al Padrón de Contratistas de Obra Pública.
+
+QUINTO. A partir del ejercicio fiscal 2025, le corresponderá a la Secretaría de Honestidad, Transparencia y Función Pública, llevar a cabo todos los trámites relacionados con el padrón de contratistas; por lo que, por única ocasión, en el 2025, todas las contratistas deberán realizar sus trámites de inscripción al padrón de Contratistas del Estado.
+
+SEXTO. La Secretarías de Finanzas, Administración, Infraestructuras y Comunicaciones y Honestidad, Transparencia y Función Pública, deberán realizar las adecuaciones a la estructura orgánica, presupuestales, programáticas, normativas, y administrativas, para el cumplimiento del presente Decreto.
+
+SÉPTIMO. En un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública, deberá emitir los lineamientos del Padrón de Contratistas del Estado.
+
+OCTAVO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberán adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
+
+NOVENO. Los Ayuntamientos, deberán emitir la normatividad aplicable a sus Padrones de Contratistas Municipales, en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto
