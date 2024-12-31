@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-conducta-de-la-universidad-politecnica-de-amozoc-1750
 country: "mx"
 rank: "codigo"
 publication_date: "2024-11-06"
-last_updated: "2024-11-06"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -101,7 +101,9 @@ El Código de Conducta de la Universidad Politécnica de Amozoc, se plantea de m
 
 II. OBJETIVO DEL CÓDIGO DE CONDUCTA
 
-Universidad; así como promover los principios y valores en el ámbito escolar y laboral dentro y fuera de las instalaciones; retomando y armonizando los mismos con los del Código de Ética de la Administración Pública del Estado de Puebla, con la Política de Igualdad Laboral y No Discriminación para impulsar una conducta ejemplar conformada por valores éticos que serán desempeñados por el personal docente y administrativo, a fin de garantizar un adecuado actuar en sus actividades o funciones.
+> <small>(F. DE E., P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Definir en forma clara y sencilla el comportamiento que se espera de las personas servidoras públicas adscritas a la Universidad; así como promover los principios y valores en el ámbito escolar y laboral dentro y fuera de las instalaciones; retomando y armonizando los mismos con los del Código de Ética de la Administración Pública del Estado de Puebla, con la Política de Igualdad Laboral y No Discriminación para impulsar una conducta ejemplar conformada por valores éticos que serán desempeñados por el personal docente y administrativo, a fin de garantizar un adecuado actuar en sus actividades o funciones.
 
 III. GLOSARIO
 
@@ -343,7 +345,17 @@ La Rectora de la Universidad Politécnica de Amozoc
 
 Mtra. Nadia Jisett Quezada López
 
-Dado en el Municipio de Amozoc, Puebla, a 23 de agosto de 2024. La Rectora de la Universidad Politécnica de Amozoc y Testigo de Honor. MTRA. NADIA JISETT QUEZADA LÓPEZ. Rúbrica. La Secretaría Administrativa de la Universidad Politécnica de Amozoc. y Presidenta. LIC. GUADALUPE ADRIANA CONTRERAS TEJADA. Rúbrica. El Encargado de Despacho de la Secretaría Académica de la Universidad Politécnica de Amozoc y Secretario Ejecutivo. DR. ARMANDO GUILLERMINO GUADARRAMA LUYANDO. Rúbrica. El Director de Programas Académicos de la Universidad Politécnica de Amozoc y Vocal. DR. OSCAR FLORES RAMÍREZ. Rúbrica. El Subdirector Académico de la Universidad Politécnica de Amozoc y Vocal. DR. GABRIEL ROMERO RODRÍGUEZ. Rúbrica. El Abogado General de la Universidad Politécnica de Amozoc y Vocal. MTRO. ROBERTO SANTIAGO SÁNCHEZ. Rúbrica. El Subdirector de Planeación, Evaluación y Estadística de la Universidad Politécnica de Amozoc y Vocal. MTRO. JOSE MANUEL ATONAL SANCHEZ. Rúbrica. La Representante del Órgano Interno de Control de la Universidad Politécnica de Amozoc y Vocal. LIC. KAREN MELÉNDEZ CABRERA. Rúbrica. La Contralora Interna de la Universidad Politécnica de Amozoc e Invitada Especial. MTRA. JULIANA ANDREA ENRIQUEZ PEÑA. Rúbrica.
+> <small>(F. DE E., P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Dado en el Municipio de Amozoc, Puebla, a 23 de agosto de 2024. La Rectora de la Universidad Politécnica de Amozoc y Testigo de Honor. MTRA. NADIA JISETT QUEZADA LÓPEZ. Rúbrica. La Secretaría Administrativa de la Universidad Politécnica de Amozoc. y Presidenta. LIC. GUADALUPE ADRIANA CONTRERAS TEJEDA. Rúbrica. El Encargado de Despacho de la Secretaría Académica de la Universidad Politécnica de Amozoc y Secretario Ejecutivo. DR. ARMANDO GUILLERMO GUADARRAMA LUYANDO. Rúbrica. El Director de Programas Académicos de la Universidad Politécnica de Amozoc y Vocal. DR. OSCAR FLORES RAMÍREZ. Rúbrica. El Subdirector Académico de la Universidad Politécnica de Amozoc y Vocal. DR. GABRIEL ROMERO RODRÍGUEZ. Rúbrica. El Abogado General de la Universidad Politécnica de Amozoc y Vocal. MTRO. ROBERTO SANTIAGO SÁNCHEZ GONZÁLEZ. Rúbrica. El Subdirector de Planeación, Evaluación y Estadística de la Universidad Politécnica de Amozoc y Vocal. MTRO. JOSÉ MANUEL ATONAL SÁNCHEZ. Rúbrica. La Representante del Órgano Interno de Control en la Universidad Politécnica de Amozoc y Vocal. LIC. KAREN MELÉNDEZ CABRERA. Rúbrica. La Contralora Interna de la Universidad Politécnica de Amozoc e Invitada Especial. MTRA. JULIANA ANDREA ENRIQUEZ PEÑA. Rúbrica.
+
+> <small>(F. DE E., P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos. Universidad Politécnica de Amozoc. Rectoría.
+
+> <small>(F. DE E., P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Dado en la Cuatro Veces Heroica Puebla de Zaragoza, a tres de diciembre de dos mil veinticuatro. La Rectora. MTRA. NADIA JISETT QUEZADA LÓPEZ. Rúbrica.
 
 XVI. ANEXO I
 
