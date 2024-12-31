@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2024-08-15"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -573,9 +573,9 @@ I. La educación para la salud, la promoción del saneamiento básico y el mejor
 
 II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-III. La atención médica que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias y de personas en tránsito por la Entidad;
+III. La atención médica integral que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la de atención de urgencias y de personas en tránsito por la entidad;
 
 IV. La atención materno-infantil;
 
@@ -627,9 +627,17 @@ Las actividades de atención médica son:
 
 I. Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II. Curativas que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
+II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales.
 
 ### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -1531,19 +1539,21 @@ V. Fomento sanitario.
 
 La educación para la salud tiene por objeto:
 
-I. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la promoción de enfermedades individuales, colectivas y accidentes, y protegerla de los riesgos que pongan en peligro su salud.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerla de los riesgos que pongan en peligro su salud;
 
 II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-III. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucodental, higiene menstrual, educación sexual, planificación familiar, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+III. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, higiene menstrual, educación sexual, planificación familiar, cuidados paliativos, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades, así como la prevención, diagnóstico y control de las enfermedades cardiovasculares.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTICULO 131.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva suficiente y de calidad y a la activación física, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva, suficiente y de calidad y a la activación física, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población, así como llevar a cabo la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica.
 
 ### CAPITULO III. NUTRICION
 
@@ -3614,3 +3624,13 @@ P.O. 15 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE VOLUNTAD ANTICIPADA PARA EL ESTADO DE PUEBLA; Y REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado deberá realizar a más tardar en 90 días naturales las adecuaciones reglamentarias correspondientes.
