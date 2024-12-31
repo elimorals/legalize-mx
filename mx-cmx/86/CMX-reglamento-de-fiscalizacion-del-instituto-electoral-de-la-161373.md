@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-fiscalizacion-del-instituto-electoral-de-la-16137
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-12-13"
-last_updated: "2022-12-13"
+last_updated: "2024-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161373&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2022-11-30"
 ---
 # REGLAMENTO DE FISCALIZACION DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 31 DE DICIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO AGROGADO.]</small>
+
 REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Número 1000 de Gaceta Oficial de la Ciudad de México, el martes 13 de diciembre de 2022.
 
@@ -5537,3 +5539,13 @@ QUE LAS PRESENTES COPIAS DEL ANEXO 1 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXIC
 EN ATENCIÓN AL OFICIO CDAACL/SGNVD/DCL-69-2023 DE FECHA 6 DE ENERO DE DOS MIL VEINTITRÉS INGRESADO A ESTA INSTITUCIÓN BAJO EL NÚMERO DE ENTRADA 000159 DE FECHA SEIS DE ENERO DE DOS MIL VEINTITRÉS, PROCEDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
 SE EXPIDEN EN LA CIUDAD DE MÉXICO, A LOS VEINTIUN DIAS DEL MES DE FEBRERO DEL AÑO DOS MIL VEINTITRÉS PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El presente Reglamento entrará en vigor al momento de aprobación por el Consejo General.
+
+Segundo. Se abroga el Reglamento de Fiscalización del Instituto Electoral de la Ciudad de México, aprobado por el Consejo General de la Ciudad de México el 30 de noviembre de 2022, mediante Acuerdo IECM/ACU-CG-072/2022.
