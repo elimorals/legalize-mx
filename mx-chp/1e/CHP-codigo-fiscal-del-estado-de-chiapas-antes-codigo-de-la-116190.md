@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2024-08-07"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -57,9 +57,13 @@ Las disposiciones de este Código son de orden público e interés general y tie
 
 Para los efectos de este Código se entenderá por:
 
-I. Secretaría: Secretaría de Hacienda;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II. Secretario: El Titular de la Secretaría de Hacienda.
+I. Secretaría: Secretaría de Finanzas.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II. Secretario: Al Titular de la Secretaría de Finanzas.
 
 III. Código: El Código de la Hacienda Pública para el Estado de Chiapas.
 
@@ -247,7 +251,9 @@ Son autoridades hacendarias del Estado:
 
 I. El Gobernador del Estado.
 
-II. El Secretario de Hacienda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II. Secretario de Finanzas.
 
 III. El Subsecretario de Ingresos.
 
@@ -267,7 +273,9 @@ VIII. El Director de Ingresos.
 
 IX. El Director de Auditoría Fiscal.
 
-X. Los Delegados de Hacienda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+X. Los Delegados de Finanzas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -511,7 +519,9 @@ III. Llevar la contabilidad en los términos de la legislación federal y conser
 
 IV. Conservar durante cinco años en su domicilio fiscal la documentación, los demás elementos contables y probatorios que se relacionen con el cumplimiento de las disposiciones hacendarías a las que estén obligados;
 
-V. Presentar aviso de: cambio de denominación o razón social, cambio de domicilio fiscal, aumento o disminución de obligaciones, suspensión o reanudación de actividades, liquidación, baja, asimismo presentarán avisos de apertura o cierre de establecimiento o de los locales que se utilizan como base fija para el desempeño de servicios personales independientes, en un plazo de un mes a partir de la fecha en que se den los supuestos de referencia;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V. Presentar aviso de: Cambio de denominación o razón social, cambio de domicilio fiscal, aumento o disminución de obligaciones, suspensión o reanudación de actividades, liquidación, baja, asimismo presentarán avisos de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y, en general, cualquier local o establecimiento que se utilice para el desempeño de actividades, y corrección o cambio de nombre, en un plazo de un mes a partir de la fecha en que se den los supuestos de referencia.
 
 Los contribuyentes que, encontrándose sujetos a facultades de comprobación y no se les haya notificado la resolución determinativa del crédito fiscal a que se refiere el artículo 85, de este Código, tengan que efectuar cambio de domicilio fiscal, deberán presentar el aviso correspondiente ante la Secretaría, a través de las áreas de recaudación de ingresos de su domicilio, en los términos de esta fracción, así como a la autoridad que le esté ejerciendo facultades de comprobación, con cinco días de anticipación a dicho cambio.
 
@@ -692,6 +702,14 @@ Los concesionarios o permisionarios del servicio público del Estado que se encu
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 La entrada en vigencia del programa de canje de placas en el Estado, se podrá establecer en la Ley de Ingresos para el ejercicio que corresponda o mediante acuerdo del Poder Ejecutivo del Estado a través de la Secretaría, señalando en el mismo los beneficios que se otorgarán a los contribuyentes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 36 Bis.
+
+Los propietarios de los vehículos registrados en otra entidad federativa, que preponderantemente circulen en las vías públicas de la Entidad, deberán registrarlos en el estado, debiendo realizar en su caso la baja vehicular, cubriendo el pago de los derechos según corresponda de conformidad a lo previsto en la Ley de Derechos del Estado de Chiapas.
+
+Para los efectos de este artículo se considera que los vehículos circulan preponderantemente cuando, su propietario sea persona física o moral, tiene su domicilio convencional, fiscal, o cuente con un establecimiento permanente en el estado.
 
 #### Sección primera. Del Pago de las Contribuciones y de los Créditos Fiscales
 
@@ -1733,7 +1751,9 @@ La autoridad enviará por única ocasión, mediante el mecanismo elegido, un avi
 
 Las áreas de recaudación de ingresos autorizadas para el cobro de las contribuciones son las siguientes:
 
-Delegaciones de Hacienda Jurisdicción
+> <small>(REFORMADO [N. DE E. ESTA PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Delegaciones de Finanzas Jurisdicción
 
 I. Comitán de Domínguez. Comitán de Domínguez, Maravilla
 
@@ -1849,9 +1869,9 @@ Concordia, Montecristo de Guerrero, Villa
 
 Corzo, Villaflores.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Así como los Centros de Recaudación Local y Módulos de Cobro que formen parte de la estructura de la Delegación de Hacienda correspondiente.
+Así como los Centros de Recaudación Local o Módulos de Cobro que formen parte de la estructura de la Delegación de Finanzas correspondiente.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2381,9 +2401,9 @@ IV. Cuando del dictamen rendido por el perito del embargado o terceros acreedore
 
 El remate deberá ser convocado al día siguiente de haber quedado firme el avalúo, para que tenga verificativo dentro de los veinte días siguientes. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-La convocatoria se publicará en el portal electrónico de la Secretaría y se fijará en los estrados de la Delegación de Hacienda de la jurisdicción a la cual corresponda el domicilio del contribuyente, así como en los lugares públicos que se consideren necesarios, la cual se mantendrá hasta la conclusión del remate.
+La convocatoria se publicará en el portal electrónico de la Secretaría y se fijará en los estrados de la Delegación de Finanzas de la jurisdicción a la cual corresponda el domicilio del contribuyente, la cual se mantendrá hasta la conclusión del remate.
 
 En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, la ubicación de los bienes, los acreedores, así como los requisitos que deberán cumplir los postores para concurrir al mismo, conforme al Reglamento de este Código.
 
@@ -2817,11 +2837,15 @@ Cuando las multas no se paguen en la fecha establecida en las disposiciones hace
 
 Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 185.
 
 Los ingresos que el Estado obtenga efectivamente de multas por infracción a las disposiciones hacendarias, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza las facultades de comprobación, determinación, notificación, mandamiento y requerimientos de créditos fiscales relativos a dichas disposiciones; de estos ingresos, previa autorización del Secretario, se destinará un porcentaje al personal de la Secretaría, que de manera indirecta influya en las acciones anteriormente señaladas.
 
-Sólo ingresará a los fondos, el importe de las multas efectivamente pagadas y su aplicación se sujetará a los términos de los lineamientos que para tal efecto se establezcan.
+El cuarenta por ciento de los ingresos que el Estado obtenga efectivamente de multas derivadas de las infracciones al Reglamento de Tránsito del Estado, se destinarán a un fondo para el otorgamiento de estímulos a los Agentes de Tránsito de la Secretaría de Seguridad del Pueblo del Estado de Chiapas.
+
+Sólo ingresará a los fondos, el importe de las multas efectivamente pagadas y su aplicación se sujetará a los términos de los lineamientos que para tal efecto establezca la Secretaría.
 
 ###### Artículo 186.
 
@@ -2919,9 +2943,13 @@ También se aplicarán las multas a que se refiere este precepto, cuando las inf
 
 Son infracciones relacionadas con el Registro Estatal de Contribuyentes y Registro Estatal de Vehículos las siguientes:
 
-I. No solicitar la inscripción cuando se está obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II. No presentar los avisos a la Secretaría o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
+I. No solicitar la inscripción cuando se está obligado a ello o hacerlo extemporáneamente.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II. No presentar los avisos a la Secretaría o hacerlo extemporáneamente.
 
 III. Señalar como domicilio fiscal un lugar distinto al que corresponda conforme al artículo 19 de este Código.
 
@@ -2929,23 +2957,29 @@ IV. Presentar datos falsos o documentos apócrifos para la inscripción de vehí
 
 V. No dar aviso de trámites realizados fuera de la entidad relativos al vehículo, cuando las leyes aplicables y el presente Código así lo señalen.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VI. No realizar el cambio o canje de placas cuando las disposiciones hacendarias lo estipulen.
+VI. No realizar el cambio o canje de placas en el plazo que determinen las disposiciones hacendarias.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+VII. No efectuar la baja de placas de circulación dentro del plazo establecido en el artículo 36 fracción I, segundo párrafo del presente código.
 
 ###### Artículo 194.
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes y de Vehículos a que se refiere el artículo anterior, se le impondrán las siguientes multas:
 
-I. De $1,100.00 a $1,500.00 pesos a la comprendida en la fracción I.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+I. De $2,000.00 a $3,000.00 pesos a la comprendida en la fracción I.
 
-II. De $750.00 a $1,100.00 pesos a la comprendida en las fracciones II, V y VI.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+II. De $3,000.00 a $6,000.00 pesos a la comprendida en las fracciones II, V, VI y VII.
 
-III. De $3,700.00a $7,500.00 pesos a la comprendida en las fracciones III y IV.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III. De $4,000.00 a $8,000.00 pesos a la comprendida en las fracciones III y IV.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -3595,7 +3629,11 @@ Este impuesto se pagará dentro de los primeros 15 días siguientes a aquél en 
 
 Para la recaudación de este impuesto se observarán las reglas siguientes:
 
-I. Los sujetos deberán presentar la documentación que acredite la propiedad del vehículo que para tal efecto determine la Secretaría de Hacienda, ante la autoridad hacendaria. II. La autoridad hacendaria, al efectuar el cobro del impuesto, deberá expedir el recibo oficial, sellar y asentar el concepto del pago en la factura o documento que ampare la propiedad del vehículo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I. Los sujetos deberán presentar la documentación que acredite la propiedad del vehículo que para tal efecto determine la Secretaría, ante la autoridad hacendaria.
+
+II. La autoridad hacendaria, al efectuar el cobro del impuesto, deberá expedir el recibo oficial, sellar y asentar el concepto del pago en la factura o documento que ampare la propiedad del vehículo.
 
 III. Cuando en la factura o documento que acredite la propiedad, se manifiesten dos o más endosos con adeudos, el pago se realizará en él más reciente.
 
@@ -4903,7 +4941,9 @@ III. Cerrado el plazo de captura y revisión del Sistema de Reporte de Recursos 
 
 La Secretaría está facultada para interpretar las disposiciones relativas a responsabilidad hacendaria y financiera, presupuesto, gasto, contabilidad y deuda pública, así como emitir o establecer normatividad y disposiciones necesarias para su correcta aplicación.
 
-El gasto se debe registrar y erogar vía presupuesto los recursos de cualquier fuente de financiamiento, e informar en la Cuenta Pública.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+El gasto se debe registrar y erogar vía presupuesto los recursos de cualquier fuente de financiamiento, e informar en la Cuenta Pública. Cuando el gasto a registrarse sea plurianual, la Secretaría y los Organismos Públicos deberán respetar la prioridad en la formulación de los Presupuestos de Egresos, de conformidad con lo establecido por el artículo 370 del presente ordenamiento.
 
 Los Organismos Públicos, en el ejercicio de su presupuesto, deberán observar las medidas de austeridad, racionalidad y disciplina, sin afectar el cumplimiento de los objetivos y metas de los proyectos autorizados en el Presupuesto de Egresos.
 
@@ -4931,9 +4971,9 @@ Para efectos de armonización presupuestaria, financiera y contable, conforme a 
 
 El gasto público estatal se determina con base al presupuesto que se formula con apego a los programas y proyectos donde se señalen los objetivos, indicadores, metas, unidades de medida y unidades responsables de la ejecución de los recursos; alineados a los Planes Nacional y Estatal de Desarrollo y a políticas públicas que beneficien a la población.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Artículo 342 A.- El Presupuesto de Egresos deberá registrarse a nivel de Proyecto, desglosándose a nivel de partida específica de gasto acorde a la aplicación de todos los gastos en materia de Servicios Personales, Materiales y Suministros, Servicios Generales, y todos aquellos recursos asociados al cumplimiento de su operatividad y función, así como de sus objetivos, indicadores y metas.
+Artículo 342 A.- El Presupuesto de Egresos deberá registrarse a nivel de Proyecto, desglosándose a nivel de partida específica de gasto acorde a la aplicación de todos los gastos en materia de Servicios Personales, Materiales y Suministros, Servicios Generales, y todos aquellos recursos asociados al cumplimiento de su operatividad y función, así como de sus compromisos plurianuales, objetivos, indicadores y metas.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
@@ -4987,13 +5027,17 @@ Si al concluirse un año fiscal, no hubiere sido aprobado el Presupuesto de Egre
 
 De igual forma, si el Presupuesto de Egresos del Poder Judicial no hubiese sido aprobado, seguirán vigentes los montos del ejercicio anterior, hasta en tanto no se apruebe el que corresponda.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 348.
 
-El Presupuesto de Egresos comprenderá las previsiones de gasto público que habrán de realizar los Organismos Públicos, debiendo reflejar el monto global por cada uno de estos y, en su caso, por Unidades Responsables, el pago de la Deuda Pública, el monto de las Participaciones y Aportaciones Federales a que se refiere la Ley de Coordinación Fiscal.
+El Presupuesto de Egresos comprenderá las previsiones de gasto público que habrán de realizar los Organismos Públicos, debiendo reflejar el monto global por cada uno de estos y, en su caso, por Unidades Responsables, el pago de la Deuda Pública, el monto de las Participaciones y Aportaciones Federales a que se refiere la Ley de Coordinación Fiscal. Asimismo, el gasto público destinado a los compromisos plurianuales derivados de contratos de obra pública de pagos a plazos plurianules deberá estar contemplados en todos los ejercicios subsecuentes a su contratación, hasta la liquidación total de los mismos, de conformidad con el artículo 370 Bis del presente Código.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 El Presupuesto de Egresos deberá prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, para lo cual deberá observar lo establecido en el artículo 9 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 La Secretaría está facultada para realizar los ajustes necesarios al Presupuesto de Egresos, para la atención de contingencias, catástrofes naturales o circunstancias que impliquen riesgos sanitarios, que requieran ser atendidos de manera inmediata a la población; en todo momento se respetará en no afectar los proyectos prioritarios del Estado, así como aquellos recursos que financian los programas sociales, asistenciales, seguridad pública y de protección civil.
 
@@ -5363,7 +5407,9 @@ Los Organismos Públicos gestionarán ante la Secretaría a través de la Tesore
 
 Para efectos de la presentación de la información financiera y la Cuenta Pública deberá existir una cuenta ejecutora productiva específica por cada fondo de aportaciones federales, programa de subsidios y convenio de reasignación, a través de los cuales se ministren recursos federales.
 
-A excepción de las Dependencias y Entidades, que gestionarán ante la Secretaría de Hacienda a través de la Tesorería Única, la apertura de cuentas ejecutoras, los demás Organismos Públicos (Poder Legislativo, Judicial, Órganos Autónomos, Universidades y Municipios) deben notificar a la Tesorería Única, las cuentas bancarias en las cuales se radicarán los recursos financieros, correspondientes a recursos de libre disposición y recursos federales etiquetados.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+A excepción de las Dependencias y Entidades, que gestionarán ante la Secretaría a través de la Tesorería Única, la apertura de cuentas ejecutoras, los demás Organismos Públicos (Poder Legislativo, Judicial, Órganos Autónomos, Universidades y Municipios) deben notificar a la Tesorería Única, las cuentas bancarias en las cuales se radicarán los recursos financieros, correspondientes a recursos de libre disposición y recursos federales etiquetados.
 
 Para la presentación de la información financiera y la Cuenta Pública, los Organismos Públicos incluirán la relación de las cuentas receptoras productivas específicas, en las cuales se depositaron los recursos federales etiquetados, por cualquier concepto, durante el ejercicio fiscal correspondiente.
 
@@ -5537,13 +5583,23 @@ La contratación deberá efectuarse en los términos que disponen las leyes rela
 
 Los contratos que rebasen un ejercicio fiscal que se autoricen en los términos del artículo 356 de este Código, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestaria de los años subsecuentes y se hará mención al presentar el Proyecto de Presupuesto de Egresos al Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Los contratos de Asociación Público-Privada que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas, la formulación de los presupuestos de los ejercicios subsecuentes se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas.
+Respecto de los contratos de Asociación Público-Privada y los contratos de obra pública en la modalidad de pagos a plazos plurianules, que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas y por la Ley de Obra Pública del Estado de Chiapas, respectivamente, en la formulación de los presupuestos de los ejercicios subsecuentes, se les dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Los compromisos plurianuales derivados de los contratos de Asociación Público Privada, tendrán preferencia respecto a otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual; además se debe observar lo establecido en el artículo 355 de este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos plurianuales deberán ser garantizados en su cumplimiento de pago, en los presupuestos de egresos de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 370 Bis.
+
+En caso de que por cualquier circunstancia se omita prever las asignaciones presupuestales correspondientes a los compromisos plurianuales mencionados en el artículo anterior, se entenderán señalados los montos establecidos para el ejercicio inmediato anterior.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -6039,9 +6095,13 @@ Serán fideicomisos públicos estatales los que se constituyan con recursos púb
 
 El Estado, a través de la Secretaría y previa autorización del Congreso del Estado, podrá constituir fideicomisos para la instrumentación financiera cuyo patrimonio se integre por ingresos estatales a fin de que sirvan como garantía o fuente alterna de pago de las obligaciones que contraiga por sí o a través de dichos fideicomisos para la instrumentación financiera, que derivan de la contratación de créditos, emisión de valores o bonos colocados en el mercado bursátil mexicano, en términos de lo señalado en el presente Código.
 
-Asimismo, el Estado a través de la Secretaría y previa autorización del Congreso del Estado, podrá constituir fideicomisos de garantía y fuente alterna de pago que tengan por objeto garantizar obligaciones de pago que contraigan los Organismos Públicos del Ejecutivo u Organismos Públicos con motivo de la celebración de contratos de proyectos de prestación de servicios en términos de la Ley de Asociaciones Público Privadas para el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Los fideicomisos para la instrumentación financiera y los fideicomisos de garantía y fuente alterna de pago de acuerdo con la Ley de Asociaciones Público Privadas para el Estado de Chiapas constituidos de conformidad con lo establecido en este artículo, no serán considerados como fideicomisos públicos ni como entidades paraestatales y su organización, funcionamiento, régimen de inversión y control, no estarán sujetos a la normatividad estatal ni a lo dispuesto en este Capítulo para otro tipo de fideicomisos, rigiéndose, en consecuencia, por lo previsto en las reglas establecidas para los propios fideicomisos, de conformidad con la autorización otorgada por el Congreso del Estado para su constitución y en las disposiciones mercantiles, financieras y bursátiles correspondientes, según sea aplicable.
+Asimismo, el Estado a través de la Secretaría y previa autorización del Congreso del Estado, podrá constituir fideicomisos de garantía y fuente alterna de pago que tengan por objeto garantizar obligaciones de pago que contraigan los Organismos Públicos del Ejecutivo u Organismos Públicos con motivo de la celebración de contratos de proyectos de prestación de servicios en términos de la Ley de Asociaciones Público Privadas para el Estado de Chiapas, así como contratos de obra pública en términos de la Ley de Obra Pública del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Los fideicomisos para la instrumentación financiera y los fideicomisos de garantía y fuente alterna de pago de acuerdo con la Ley de Asociaciones Público Privadas para el Estado de Chiapas, así como aquellos constituidos con motivo de la celebración de contratos de obra pública en términos de la Ley de Obra Pública del Estado de Chiapas, constituidos de conformidad con lo establecido en este artículo, no serán considerados como fideicomisos públicos ni como entidades paraestatales y su organización, funcionamiento, régimen de inversión y control, no estarán sujetos a la normatividad estatal ni a lo dispuesto en este Capítulo para otro tipo de fideicomisos, rigiéndose, en consecuencia, por lo previsto en las reglas establecidas para los propios fideicomisos, de conformidad con la autorización otorgada por el Congreso del Estado para su constitución y en las disposiciones mercantiles, financieras y bursátiles correspondientes, según sea aplicable.
 
 Las cantidades percibidas por concepto de ingresos estatales que se afecten en garantía o fuente de pago a los fideicomisos para la instrumentación financiera o los fideicomisos de garantía y fuente alterna de pago en términos del citado ordenamiento legal, se considerarán desincorporadas temporalmente del patrimonio del Estado o de sus entidades, debiéndose aplicar las mismas exclusivamente al pago de las obligaciones a cargo del Estado o del patrimonio de los fideicomisos en términos de lo señalado en el contrato constitutivo de los mismos.
 
@@ -6291,15 +6351,17 @@ III. Los municipios.
 
 Así como cualquier otro ente sobre el que el Estado y los municipios tengan control directo sobre sus decisiones o acciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 430.
 
 Se entiende por deuda pública estatal la que contraiga el Gobierno del Estado por empréstitos directos e indirectos siempre que no estén dentro de las prohibiciones previstas por la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, entendiéndose para este efecto, que un empréstito produce directamente un incremento en los ingresos del Estado, de los municipios o en alguna de las mencionadas entidades, cuando las inversiones sean productivas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+Para los efectos del presente Código y demás legislación aplicable, los fideicomisos para la instrumentación financiera y fideicomisos de garantía y fuente alternativa, que constituya el Estado en términos del artículo 407 de este Código con el objeto de llevar a cabo la emisión de bonos o valores bursátiles y que no generen obligaciones directas o contingentes para el Estado o sus entidades, o bien con el objeto de garantizar obligaciones de cumplimiento de pago derivado de contratos de proyectos de asociación público privada, así como aquellos constituidos con motivo de la celebración de contratos de obra pública en términos de la Ley de Obra Pública del Estado de Chiapas, según corresponda, no originarán deuda pública estatal; la emisión y el pago respectivo se regirán por las normas aplicables del derecho mercantil y bursátil y por el contrato de fideicomiso respectivo. Por lo que respecta a los fideicomisos para la instrumentación financiera, el riesgo de que las cantidades provenientes de los ingresos estatales no sean suficientes para el pago de la emisión respectiva, correrá exclusivamente a cargo de los tenedores de los valores correspondientes.
 
-Para los efectos del presente Código y demás legislación aplicable, los fideicomisos para la instrumentación financiera y fideicomisos de garantía y fuente alternativa, que constituya el Estado en términos del artículo 407 de este Código con el objeto de llevar a cabo la emisión de bonos o valores bursátiles y que no generen obligaciones directas o contingentes para el Estado o sus entidades, o bien con el objeto de garantizar obligaciones de cumplimiento de pago derivado de contratos de proyectos de asociación público privada, según corresponda, no originarán deuda pública estatal; la emisión y el pago respectivo se regirán por las normas aplicables del derecho mercantil y bursátil y por el contrato de fideicomiso respectivo. Por lo que respecta a los fideicomisos para la instrumentación financiera, el riesgo de que las cantidades provenientes de los ingresos estatales no sean suficientes para el pago de la emisión respectiva, correrá exclusivamente a cargo de los tenedores de los valores correspondientes.
+De igual manera, no se entenderá como obligación contingente a cargo del Estado y por lo tanto no constituirá deuda pública, la obligación que asuma el Estado de aportar ingresos estatales en fideicomisos para la instrumentación financiera y fideicomisos de garantía y fuente alternativa, incluyendo aquellos fideicomisos constituidos con motivo de la celebración de contratos de obra pública en términos de la Ley de Obra Pública del Estado de Chiapas, a que hace referencia el artículo 407 del presente Código, con el objeto de sustituir los ingresos estatales originalmente aportados a dichos fideicomisos.
 
-De igual manera, no se entenderá como obligación contingente a cargo del Estado y por lo tanto no constituirá deuda pública, la obligación que asuma el Estado de aportar ingresos estatales en fideicomisos para la instrumentación financiera y fideicomisos de garantía y fuente alternativa a que hace referencia el artículo 407 del presente Código, con el objeto de sustituir los ingresos estatales originalmente aportados a dichos fideicomisos.
+El Estado, los Organismos Públicos del Ejecutivo y las Entidades Paraestatales podrán celebrar convenios a través de los cuales asuman obligaciones de hacer y no hacer, los cuales no constituirán deuda pública. En dichos convenios el Estado, los Organismos Públicos del Ejecutivo y las Entidades Paraestatales, podrán obligarse a indemnizar de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de sus respectivas obligaciones de hacer y no hacer. En los convenios a que se refiere este párrafo, no se podrán pactar penas convencionales o precuantificar responsabilidades por pérdidas o menoscabo patrimonial.
 
 ###### Artículo 431.
 
@@ -6309,11 +6371,11 @@ Para los efectos de este título, son empréstitos directos las operaciones de e
 
 En los casos de que trata el artículo 430 de este Código, son operaciones financieras de deuda pública las que se deriven de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I. La suscripción o emisión de títulos de crédito o de cualquier otro documento pagadero a corto y largo plazo.
+I. La suscripción o emisión de títulos de crédito.
 
-II. La adquisición de bienes o contratación de obras o servicios cuyo pago se pacte a plazos.
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 III. Los pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores.
 
@@ -6399,7 +6461,11 @@ VII. Autorizar al Estado y a los Municipios la constitución de los mecanismos d
 
 VIII. Autorizar, a dos o más Municipios, de manera conjunta, la constitución de los mecanismos a que se refiere la fracción anterior, sin que por ello los ingresos y/o derechos de un Municipio puedan afectarse para el pago de obligaciones de otro u otros. Para tales efectos, los Municipios deberán cumplir con los requisitos que se establezcan en la autorización respectiva, entre los que se encuentra la aprobación de los Ayuntamientos para cada afectación de los ingresos y/o derechos correspondientes, siempre de acuerdo con la autorización del Congreso y dentro del monto de endeudamiento aprobado.
 
-El Congreso autorizará los montos máximos para la contratación de créditos por uno o más ejercicios, previo análisis de la capacidad de pago, de conformidad con el artículo 23 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IX. Autorizar al Estado y a los Municipios la afectación de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, en términos del marco normativo aplicable, como fuente de pago.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 436.
 
@@ -6495,13 +6561,17 @@ El programa financiero del Estado es parte integrante del plan de inversión pú
 
 Existirá un Comité Técnico de Financiamiento que será órgano auxiliar de consulta del Ejecutivo del Estado, en materia de deuda pública y estará constituido por los siguientes miembros permanentes:
 
-I. El Secretario de Hacienda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II. El Secretario General de Gobierno.
+I. El Secretario de Finanzas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-III. El Secretario de la Honestidad y Función Pública.
+II. El Secretario General de Gobierno y Mediación.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+III. El Secretario de Anticorrupción y Buen Gobierno.
 
 ###### Artículo 443.
 
@@ -6743,9 +6813,9 @@ En caso de no subsanarse la omisión en el citado plazo, la Procuraduría Fiscal
 
 La Secretaría por conducto de la Procuraduría Fiscal, sustituirá, cancelará, devolverá y hará efectiva, según procedan, las fianzas que se otorguen a favor de la Secretaría.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-El Consejo de la Judicatura del Estado, fungirá como auxiliar de la Secretaría de Hacienda para sustituir, cancelar y hacer efectivas, según proceda, las fianzas otorgadas a favor de cualquiera de las autoridades que integran el Poder Judicial del Estado.
+El Consejo de la Judicatura del Estado, fungirá como auxiliar de la Secretaría para sustituir, cancelar y hacer efectivas, según proceda, las fianzas otorgadas a favor de cualquiera de las autoridades que integran el Poder Judicial del Estado.
 
 ###### Artículo 468.
 
@@ -7206,5 +7276,13 @@ P.O. 7 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 375 QUE EMITE LA SEXAGÉSIMA OCTAVA LEGISLATURA CORRESPONDIENTE AL DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 241 A Y 242 DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 055 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinticinco.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
