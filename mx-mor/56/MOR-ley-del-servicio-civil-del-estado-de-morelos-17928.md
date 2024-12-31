@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2023-10-25"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -910,6 +910,32 @@ EL H. CONGRESO DEL ESTADO DEBERÁ EXPEDIR EL DECRETO CORRESPONDIENTE A PARTIR DE
 ###### Artículo 57 Bis.
 
 La Comisión de Trabajo, Previsión y Seguridad Social del Congreso del Estado de Morelos y los Cabildos Municipales, en su caso, al momento de realizar el trámite de otorgamiento de una pensión a los trabajadores al servicio del Estado y de los Municipios de nuestro Estado, tienen la facultad de realizar la investigación correspondiente tendiente a comprobar fehacientemente los datos que acrediten la antigüedad necesaria para el goce de la misma.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 57 Bis
+
+2.- Se declara de interés público la creación del Registro Estatal de Pensiones, integrado con la información de los trabajadores al servicio del Gobierno Estatal y los Municipios del Estado de Morelos, jubilados y pensionados, incluidos los Poderes Legislativo y Judicial, así como de los Organismos Autónomos Constitucionales y los Organismos Auxiliares estatales y municipales.
+
+Para ello, los entes públicos estatales y municipales deberán presentar ante la Secretaría encargada de la Hacienda Pública Estatal, toda la información referente a los recursos humanos que integran la plantilla de servidores públicos en activo y la plantilla de jubilados y pensionados. Dicha información deberá presentarse con cortes semestrales, en los meses de julio y enero de cada ejercicio fiscal.
+
+La información que deben presentar los entes públicos estatales y municipales, deberá contener obligatoriamente, los siguientes datos:
+
+a) Número de trabajadores en activo y su percepción neta mensual.
+
+b) Edad y antigüedad de cada uno de los trabajadores en activo;
+
+c) Número de trabajadores jubilados o pensionados y su percepción neta mensual;
+
+d) Número de beneficiarios de pensiones vigentes y su percepción neta mensual;
+
+e) Importe mensual y anualizado de la partida presupuestal que destina el ente público al pago de jubilaciones y pensiones, y
+
+f) En su caso, resultados de los estudios actuariales en materia de pensiones con que cuente el ente público.
+
+La Secretaría encargada de la Hacienda Pública Estatal deberá publicar en el Periódico Oficial “Tierra y Libertad”, de manera semestral en los meses de agosto y febrero de cada ejercicio, el listado de entes públicos estatales y municipales que hayan incumplido con la obligación a que se refiere el presente artículo.
+
+Asimismo, la Secretaría encargada de la Hacienda Pública Estatal deberá publicar en el Periódico Oficial “Tierra y Libertad”, los formatos y medios electrónicos por los que se dé cumplimiento a lo dispuesto por este artículo.
 
 ###### Artículo 58.
 
@@ -1856,3 +1882,19 @@ Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO VEINTICUATRO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del 1 de enero de 2025, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Una vez que entre en vigor la Fase Operativa del Sistema de Comercio de Emisiones, las empresas referidas en el segundo párrafo del artículo 58 Quinquies-4 de la presente Ley y sin mayor formalidad, quedarán excluidas del pago del impuesto.
+
+CUARTA. La Secretaría de Hacienda expedirá a más tardar el día 30 de enero de 2025, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el Fondo de Aportaciones Estatales para el Fomento de los Municipios.
+
+Los municipios deberán informar a la Secretaría de Hacienda del Poder Ejecutivo a más tardar el 15 de enero de 2025, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma en la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+QUINTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
