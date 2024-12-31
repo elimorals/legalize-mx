@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-12-29"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -175,9 +175,7 @@ Los Derechos por la prestación de servicios del Estado, a través de la Subsecr
 
 I.- Por la supervisión y la emisión de opiniones técnicas de establecimientos comerciales, industriales, de espectáculos públicos y de servicios instalados o que pretendan instalarse en el territorio del Estado: 325.00 u.m.a.´s
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-II.- Por la supervisión y la elaboración de dictámenes técnicos que se practiquen a establecimientos comerciales, industriales, de espectáculos públicos y de servicio instalados o que pretendan instalarse en el territorio del Estado: 325.00 u.m.a.´s;
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -625,9 +623,9 @@ IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 V.- Por la expedición de constancia de inexistencia de registro en libro. 0.65 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VI.- Por copia fotostática de constancias en libro. 0.65 u.m.a.´s;
+VI.- Por copia fiel certificada de constancias en libro 0.65 u.m.a.’s;
 
 VII.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2017)
 
@@ -643,9 +641,17 @@ a) (DEROGADO, P.O. 23 DE OCTUBRE DE 2017)
 
 b) (DEROGADO, P.O. 23 DE OCTUBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XI.- Por inscripción de sentencia y/o instrumento público o privado 2.6 u.m.a.’s.
+XI.- Por inscripción de sentencia judicial y/o instrumento público o privado 1.3 u.m.a.’s;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XII.- Por inscripción de actos del estado familiar de origen extranjero 1.3 u.m.a.’s; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Por la expedición de certificados de No inscripción o Inscripción en el Registro de Deudoras y Deudores Alimentarios Morosos 0.65 u.m.a.’s.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -663,13 +669,13 @@ La realización del procedimiento administrativo de corrección de actas y la b�
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Archivo General de Notarías, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I.- Por derecho a presentar examen para obtener la Constancia a FIAT de Notario. 58.5 u.m.a.´s;
+I.- Por derecho a presentar examen para obtener la Constancia a FIAT de Notario 70.20 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II.- Por solicitud de examen de oposición o conocimientos para obtener la patente de Notario Público Titular o Adscrito. 143.0 u.m.a.´s;
+II.- Por solicitud de examen de oposición o conocimientos para obtener la patente de Notario Público Titular o Adscrito 171.60 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -723,17 +729,17 @@ b) Urgentes:
 
 4. Por veinte años en adelante. 39.00 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VI.- Por el registro de Patente de Notario Público. 682.5 u.m.a.´s
+VI.- Por el registro de Patente de Notario Público 819.00 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VII.- Por la designación de Notarios Adscritos en una Notaría Pública. 45.5 u.m.a.´s;
+VII.- Por la designación de Notarios Adscritos en una Notaría Pública 54.60 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-VIII.- Por la autorización de cambio de sello a notarios. 6.5 u.m.a.´s;
+VIII.- Por la autorización de cambio de sello a notarios 7.80 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -765,39 +771,57 @@ XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2021)
 
 XII.- Por revocación de testamentos. 5.2 u.m.a.´s
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XIII.- Por expedición de constancias del expediente personal del notario. 13.00 u.m.a.´s;
+XIII.- Por expedición de constancias del expediente personal del notario 15.60 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XIV.- Por gestiones notariales:
 
-a) Cambios de adscripción transitorios o permanentes. 13.00 u.m.a.´s
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-b) Reubicación de notarías. 13.00 u.m.a.´s;
+a).- Cambios de adscripción transitorios o permanentes 15.60 u.m.a.’s;
 
-c) Convenios de asociación. 13.00 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-d) Permutas. 13.00 u.m.a.´s;
+b).- Reubicación de notarías 15.60 u.m.a.’s;
 
-e) Licencias concedidas. 13.00 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-f) Elaboración de Acuerdos. 13.00 u.m.a.´s;
+c).- Convenios de asociación 15.60 u.m.a.’s;
 
-g) Por rexpedición (sic) de certificados digitales para acceso al Registro Nacional de Avisos de Poderes Notariales. 15.6 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+d).- Permutas 15.60 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+e).- Licencias concedidas 15.60 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+f).- Elaboración de Acuerdos 15.60 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+g).- Por reexpedición de certificados digitales para acceso al Registro Nacional de Avisos de Poderes Notariales 18.72 u.m.a.’s; y
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 h).- Por autorización especial para traslado de folios fuera del Distrito Judicial autorizado:
 
-1.- Ordinario 3.34 u.m.a’s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-2.- Urgente 6.68 u.m.a.´s
+1.- Ordinario 4.01 u.m.a.’s; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XV.- Por la expedición de cada 200 folios. 3.9 u.m.a.´s;
+2.- Urgente 8.02 u.m.a.’s.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XV.- Por la expedición de cada 200 folios 4.68 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1117,65 +1141,35 @@ Quedan exceptuados del pago de derechos a que se refiere el presente artículo l
 
 Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública por conducto del Instituto de Formación Profesional, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-I.- Por la Capacitación individual de Unidades de Policía Estatal Acreditable Análisis Táctico, Formación inicial y continua /Capacitación Modulo I. 193.98 u.m.a.´s;
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-II.- Por la Capacitación individual de Unidades de Policía Estatal Acreditable Análisis Táctico, Formación inicial y continua /Capacitación Modulo II. 123.39 u.m.a.´s;
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-III.- Por la Capacitación individual de Unidades de Policía Estatal Acreditable Análisis Táctico, Formación inicial y continua /Capacitación Modulo III. 421.36 u.m.a.´s;
+VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-IV.- Por la Capacitación individual de Unidades de Policía de Investigación Acreditable, Investigación-Formación inicial y continua/Capacitación Módulo I. 193.98 u.m.a.´s;
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-V.- Por la Capacitación individual de Unidades de Policía de Investigación Acreditable, Investigación-Formación inicial y continua/Capacitación Módulo II. 123.39 u.m.a.´s;
+X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-VI.- Por la Capacitación individual de Unidades de Policía de Investigación Acreditable, Investigación-Formación inicial y continua/Capacitación Módulo III. 421.36 u.m.a.´s;
+XII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-VII.- Por la Capacitación individual de Policía Penitenciario y/o Unidades de Oficiales de Guardia y Custodia Acreditable, Operaciones-Formación inicial y continua/Capacitación Módulo I. 193.98 u.m.a.´s;
+XIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Por la Capacitación individual de Policía Penitenciario y/o de Unidades de Oficiales de Guardia y Custodia Acreditable, Operaciones-Formación inicial y continua/Capacitación Módulo II. 123.39 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IX.- Por la Capacitación individual de Policía Penitenciario y/o de Unidades de Oficiales de Guardia y Custodia Acreditable, Operaciones-Formación inicial y continua/Capacitación Módulo III. 421.36 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-X.- Por la formación inicial individual de policías municipales mediante convenio SUBSEMUN. 180.58 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XI.- Por la capacitación de actualización individual de policías municipales mediante convenio SUBSEMUN. 52.67 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XII.- Por la capacitación de especialización individual de policías municipales mediante convenio SUBSEMUN. 67.71 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Por la evaluación individual de conocimientos y habilidades policiales a policías municipales mediante convenio SUBSEMUN. 11.28 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Por la capacitación básica individual de Policía Penitenciario y/o Policía Procesal y/o Policía Preventivo Municipal, que no cuenten con SPA ni SUBSEMUN. 132.6 u.m.a.´s
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XV.- Por la capacitación especializada individual de Policía Penitenciario y/o Policía Procesal y/o Policía Preventivo Municipal, que no cuenten con SPA, ni SUBSEMUN. 132.6 u.m.a.´s;
+XV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1197,37 +1191,43 @@ XIX.- Por el pago de derechos por titulación individual en la carrera de Licenc
 
 XX.- Por el pago de derechos por titulación individual en la carrera de Técnico Superior Universitario en Seguridad Pública e Investigación Policial. 30.09 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XXI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-XXI.- Por la capacitación básica individual de custodio penitenciario. 132.6 u.m.a.´s;
+XXII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XXIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-XXII.- Por la capacitación especializada individual de custodio penitenciario. 132.6 u.m.a.´s;
+XXIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XXV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-XXIII.- Por la capacitación especializada individual de policía procesal. 68.77 u.m.a.´s;
+XXVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XXVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-XXIV.- Por la capacitación especializada individual del personal de la Unidad de Medidas Cautelares. 68.77 u.m.a.´s;
+XXVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXV.- Por la capacitación inicial individual para personal operativo de los prestadores de servicios de seguridad privada. 26.0 u.m.a.´s;
+XXIX.- Por los servicios de formación, capacitación, adiestramiento, certificación, especialización y alta dirección dirigida a los cuerpos de Seguridad Pública Estatal, Municipal, personal de custodia penitenciaria, procuración de justicia, policía procesal y personal de seguridad privada que presta servicios a corporaciones de seguridad, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+a).- Formación inicial:
 
-XXVI.- Por la evaluación y en su caso expedición de constancia de autorización a terceros para impartir capacitación inicial o actualización en el área de desarrollo humano. 78.0 u.m.a.´s;
+1. Formación Inicial aspirantes, por hora 0.28 u.m.a.’s; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+2. Formación Inicial activos, por hora 0.36 u.m.a.’s.
 
-XXVII.- Por la evaluación y en su caso expedición de constancia de autorización a terceros para impartir capacitación inicial o actualización en el área jurídica. 78.0 u.m.a.´s
+b).- Formación Continua:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+1. Curso de actualización por hora 0.89 u.m.a.’s;
 
-XXVIII.- Por la evaluación y en su caso expedición de constancia de autorización a terceros para impartir capacitación inicial o actualización en el área técnica operativa de empresas de seguridad privada. 225.0 u.m.a.´s
+2. Curso de especialización, por hora 0.89 u.m.a.’s; y
+
+3. Curso de alto mando, por hora 0.89 u.m.a.’s.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XXX.- Por los servicios de evaluación a los cuerpos de Seguridad Pública Estatal, Municipal, personal de custodia penitenciaria, procuración de justicia, policía procesal y seguridad privada que prestan servicios en el Estado de Hidalgo 9.21 u.m.a.’s;
 
 #### SECCIÓN QUINTA. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
@@ -1269,7 +1269,9 @@ Los derechos por la prestación de los servicios del Estado, a través de la Sec
 
 I.- Por trámites en el Registro Vehicular Estatal señalados en la Ley de la materia:
 
-a) Relacionados con vehículos de transporte privado y que no se encuentren comprendidos en los incisos b) y c):
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+a).- Relacionados con vehículos de transporte privado y que no se encuentren comprendidos en los incisos b), c) y g):
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1299,13 +1301,13 @@ a) Relacionados con vehículos de transporte privado y que no se encuentren comp
 
 7. Por canje de placas. 10.4 u.m.a.´s;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-8. Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.'s;
+8.- Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 22.7 u.m.a.’s;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-9. Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.'s;
+9.- Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 22.7 u.m.a.’s;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1318,6 +1320,10 @@ a) Relacionados con vehículos de transporte privado y que no se encuentren comp
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 12.- Por baja administrativa del Registro Vehicular Estatal. 6 u.m.a.’s.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+13.- Por la expedición de holograma para hidrocarburos. 2 u.m.a.’s;
 
 b) Relacionados con vehículos de demostración:
 
@@ -1345,7 +1351,9 @@ b) Relacionados con vehículos de demostración:
 
 6. Por cancelación de placas. 6.5 u.m.a.'s;
 
-c) Relacionados con vehículos destinados al transporte de personas discapacitadas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+c).- Relacionados con vehículos destinados al transporte de personas con discapacidad:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1421,13 +1429,33 @@ e) Por la expedición de permiso de circulación en términos de la Ley de la ma
 
 f) Por las consultas realizadas a otras entidades federativas, a la Federación o a terceras personas relacionadas con trámites de control vehicular y/o con el cumplimiento de obligaciones fiscales en ésta materia. 2.6 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II.- Por la certificación de pagos. 1.3 u.m.a.´s
+g).- Relacionados con motocicletas y remolques:
+
+1.- Por incorporación al Registro Vehicular Estatal. 7.26 u.m.a.’s;
+
+2.- Por actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas. 7.26 u.m.a.’s;
+
+3.- Por refrendo de datos al Registro Vehicular Estatal. 7.26 u.m.a.’s;
+
+4.- Por desincorporación del Registro Vehicular Estatal. 3.6 u.m.a.’s;
+
+5.- Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 3.6 u.m.a.’s;
+
+6.- Por reposición de tarjeta de circulación. 3.6 u.m.a.’s;
+
+7.- Por canje de placas. 7.26 u.m.a.’s;
+
+8.- Por baja administrativa del Registro Vehicular Estatal. 6 u.m.a.’s; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II.- Por la certificación de cada pago. 1.3 u.m.a.’s.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2023)</small>
 
-III.- Por la expedición de la Opinión de Cumplimiento de Obligaciones Fiscales Estatales 1 u.m.a.
+III.- Por la expedición de la Opinión de Cumplimiento de Obligaciones Fiscales Estatales. 1 u.m.a.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1439,21 +1467,23 @@ ARTÍCULO 33 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO CUARTO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE CONTRALORÍA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN PRIMERA
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD
 
-DE LA DIRECCIÓN GENERAL DE PADRONES Y PROCEDIMIENTOS DE CONTRATACIÓN.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 34.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría, por conducto de la Dirección General de Padrones y Procedimientos de Contratación, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría, por conducto de la Dirección General de Normatividad, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I.- Por la prestación de servicios de inscripción, revalidación, modificación o reposición en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Hidalgo. 30 u.m.a.'s;
+I.- Por la prestación de servicios de inscripción, revalidación, modificación o reposición en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Hidalgo 30 u.m.a.’s; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II.- Por la prestación de servicios de inscripción, revalidación, modificación en el Padrón de Proveedores de la Administración Pública del Estado de Hidalgo 30 u.m.a.’s.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1471,13 +1501,13 @@ I.- Los contratistas con quienes se celebren contratos de obra pública y de ser
 
 Los derechos a que se refiere el presente artículo serán enterados a la Hacienda Pública del Estado, a través de retención que se efectuará en el pago de la estimación respectiva.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES Y SITUACIÓN PATRIMONIAL
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-ARTÍCULO 35 BIS. Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Contraloría, a través de la Dirección General de Responsabilidades y Situación Patrimonial, se causarán y pagarán de la siguiente forma:
+ARTÍCULO 35 BIS.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Contraloría, a través de la Dirección General de Responsabilidades Administrativas, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -1677,7 +1707,7 @@ III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 IV.- Por cursos de capacitación a petición de parte:
 
-a) Ponente nacional. 32.5 u.m.a.´s; y
+a).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2024)
 
 b) Ponente local. 39.0 u.m.a.´s.
 
@@ -2508,3 +2538,19 @@ P.O. 29 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2024, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 25 – LXVI POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero del 2025, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La adición a que se refiere el inciso g) del artículo 33 de la Ley Estatal de Derechos, será aplicable a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
+
+CUARTO. Las reformas a que refiere el artículo 41 de la Ley de Hacienda del Estado de Hidalgo, serán aplicables a las obligaciones contraídas desde el 01 de enero de 2020.
+
+La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
