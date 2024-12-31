@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2023-12-28"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2025 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -1729,9 +1731,9 @@ AR.- Es objeto de este impuesto la emisión de sustancias contaminantes generada
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN CUARTA. DE LA CAUSACIÓN Y LA CUOTA
+#### SECCIÓN CUARTA. DE LA CAUSACIÓN, TARIFA Y CUOTA
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 47
 
@@ -1741,7 +1743,7 @@ AS.- Son sujetos de este impuesto las personas físicas, las personas morales, a
 
 #### SECCIÓN QUINTA. DEL PAGO
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 47
 
@@ -1815,23 +1817,37 @@ Vanadio 78
 
 II. Para agua en miligramos en litros, que se presenten por cada metro cúbico, con base en lo siguiente:
 
-Las muestras para determinar la cantidad de miligramos por litro por cada metro cubico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM- 001-SEMARNAT-1996: "Que establece los límites máximos permisibles de contaminantes en las descargas residuales en aguas y bienes nacionales"
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Las muestras para determinar la cantidad de miligramos por litro por cada metro cubico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM-001-SEMARNAT-2021: "Que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la nación”.
+
+> <small>(REFORMADO [N. DE E. CON SU TABLA], D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 a) Contaminantes en aguas residuales básicos:
 
-Contaminante Cantidad de miligramos por litro,
+Contaminante Cantidad de
+
+miligramos por litro,
 
 por metro cúbico
 
-Grasas y Aceites 25
+Grasas y Aceites 15
 
-Sólidos Suspendidos Totales 60
+Sólidos Suspendidos Totales 20
 
-Demanda Bioquímica de Oxígeno 5 60
+Demanda Química de Oxígeno 60
 
-Nitrógeno Total 25
+Nitrógeno Total 15
 
-Fósforo Total 10
+Fósforo Total 5
+
+Escherichia Coli
+
+(NMP/100 ml) 50
+
+Enterococos fecales
+
+(NMP/100 ml) 50
 
 b) Contaminantes en aguas residuales, ocasionado por metales pesados y cianuros:
 
@@ -1861,7 +1877,7 @@ Para efectos de este capítulo, se entenderá que los valores presentados en est
 
 La unidad de contaminante de suelo, subsuelo o agua siempre se deberá expresar en números enteros, por lo que, en caso de que existan fracciones o excedentes de sustancias contaminantes que no constituyan una unidad de contaminante, se redondeará hacia abajo.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -1869,15 +1885,29 @@ La unidad de contaminante de suelo, subsuelo o agua siempre se deberá expresar 
 
 ###### ARTÍCULO 47
 
-AU.- El impuesto se causará aplicando los equivalentes y cuotas siguientes:
+AU.- El impuesto se causará aplicando los equivalentes, tarifas y cuotas siguientes:
 
-I. Suelo y subsuelo: una cuota impositiva por el equivalente a 0.27 UMA por cada unidad de contaminantes de suelo o subsuelo de las señaladas en el artículo 47-AT, fracción I, de esta Ley, encontrada en cada cien metros cuadrados, y
+I. Suelo y subsuelo: una cuota impositiva por el equivalente a 0.27 UMA por cada unidad de contaminantes de suelo o subsuelo de las señaladas en el artículo 47-AT, fracción I, de esta Ley, encontrada en cada cien metros cuadrados.
 
-II. Agua: una cuota impositiva por el equivalente a 0.20 UMA por cada unidad de contaminantes de agua de las señaladas en el artículo 47-AT, fracción II, de esta Ley, hallada por metro cúbico.
+Si el suelo o subsuelo fueron contaminados con dos o más sustancias de las mencionadas en el artículo 47-AT, fracción I, de esta ley, la cuota se pagará por cada unidad de contaminante asociada a cada sustancia reportada.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+II. Agua: una tarifa progresiva establecida en función del número de unidades de contaminantes totales de las señaladas en el artículo 47-AT, fracción II, de esta ley, que se presenten por cada metro cúbico, conforme a lo siguiente:
 
-Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este capítulo, la cuota se pagará por cada unidad de contaminante asociada a cada sustancia reportada.
+Estratos de Unidades de
+
+Contaminantes Cuota
+
+1 a 3 0.01 UMA
+
+4 a 9 0.015 UMA
+
+10 a 19 0.02 UMA
+
+20 a 39 0.025 UMA
+
+40 y más 0.03 UMA
+
+Si el volumen de agua fue contaminado con dos o más sustancias de las mencionadas en el artículo 47-AT, fracción II, de esta ley, la cuota a pagar de acuerdo al estrato de unidades contaminantes será el resultado de la suma de cada unidad contaminante asociada a cada sustancia reportada.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -1887,7 +1917,17 @@ Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de la
 
 ###### ARTÍCULO 47
 
-AV.- El impuesto se calculará aplicando a las unidades de contaminantes, previstas en el artículo 47-AT, de esta Ley, la cuota impositiva.
+AV.- El impuesto se calculará de conformidad con lo siguiente:
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I. Para suelo y subsuelo: aplicando a las unidades de contaminantes, previstas en el artículo 47-AT, fracción I, de esta Ley, la cuota impositiva.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II. Para agua: El cálculo se realizará con base en las unidades de contaminantes previstas en el Artículo 47-AT, fracción II, de esta ley, utilizando la tarifa progresiva establecida en la fracción II del artículo 47-AU de esta Ley. El monto del impuesto será el resultado de aplicar la cuota correspondiente al estrato de unidades de contaminantes totales encontradas, multiplicada por la UMA vigente en el ejercicio fiscal por el volumen total de agua descargado en el periodo declarado.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 El impuesto se pagará mediante declaración mensual definitiva, que relacionará las unidades de contaminantes en metros cuadrados de terreno o metros cúbicos de agua afectados según corresponda a que se refiere el artículo 47-AT de esta ley que el contribuyente haya generado en el mes de calendario que corresponda, y que presentarán los contribuyentes en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán, a más tardar el día diecisiete del mes de calendario siguiente, a la fecha de su causación o el día hábil siguiente si aquel no lo fuere.
 
@@ -2134,6 +2174,26 @@ IX.- Por las consultas que se realizan a las autoridades de otras dependencias d
 X.- Constancias de no inhabilitación 4 UMA
 
 XI.- Reposición de recibos oficiales o recibos de caja 0.25 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XII.- Por la incorporación al Padrón oficial y sistematizado del Registro Estatal de Asesores inmobiliarios para prestar los servicios de intermediación inmobiliaria:
+
+a) Tipo A 27.00 UMA
+
+b) Tipo B 40.00 UMA
+
+c) Tipo C 10.00 UMA
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+XIII.- Por la emisión de constancia de vigencia en el Padrón oficial y sistematizado del Registro Estatal de Asesores inmobiliarios para prestar los servicios de intermediación inmobiliaria:
+
+a) Tipo A 27.00 UMA
+
+b) Tipo B 40.00 UMA
+
+c) Tipo C 10.00 UMA
 
 No se causarán derechos por la expedición de documentos o copias certificadas que sean solicitados por el estado, salvo que esta solicitud derive de la petición de un particular.
 
@@ -2901,9 +2961,9 @@ VI.- Por la expedición de duplicado de un título de concesión de uso a perpet
 
 Por los servicios que preste la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de propiedad, se causarán los derechos conforme a lo siguiente:
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-I.- Por la calificación de cualquier documento 1.50 UMA
+I.- Por la calificación de cada acto inscribible o anotable que contenga el documento 1.50 UMA
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2925,9 +2985,7 @@ V.- Por la expedición de cualquier certificado, por cada predio 9.70 UMA
 
 VI.- Por la rectificación de inscripción 1.50 UMA
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-VII.- Por la verificación de cualquier predio 0.90 UMA
+VII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -2953,9 +3011,7 @@ XII.- Por la copia certificada de documentos registrales, por cada hoja 0.90 UMA
 
 XIII.- Por la inscripción de cada predio resultante de una división o por cada unidad de propiedad exclusiva de un régimen de propiedad en condominio 6.50 UMA
 
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XIV.- Por cualquier inscripción, por cada predio en modalidad preferente 28.41 UMA
+XIV.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(ADICIONADA CON SUS INCISOS, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2973,7 +3029,21 @@ d) Por año 101.98 UMA
 
 XVI.- Por la alerta o aviso inmobiliario anual de movimientos registrales que se efectúen, por cada predio 9.60 UMA
 
-No se causarán los derechos a que se refieren las fracciones I, II, III y VIII de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional; así como tampoco los que se refieren a las fracciones I, II y III en los casos relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda del valor anual de veinticinco unidades de medida y actualización. De igual forma no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975 fracción II inciso b) de la Ley Federal del Trabajo.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+No se causarán los derechos a que se refieren las fracciones I, II y III de este artículo, cuando el monto del crédito para adquisición de vivienda no exceda del valor anual de veinticinco unidades de medida y actualización, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de Vivienda del Estado de Yucatán, el Instituto Nacional del Suelo Sustentable o cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+No se causarán los derechos a que se refiere la fracción VIII de este artículo en los casos en que el servicio se preste para la cancelación de inscripción de contratos en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán o el Instituto Nacional del Suelo Sustentable.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+De igual forma no se causarán los derechos señalados en las fracciones I y II cuando el servicio se preste para la primera inscripción de predios que provengan de fundo legal.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Asimismo, no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975, fracción II, inciso b), de la Ley Federal del Trabajo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3041,6 +3111,10 @@ III.- Por la inscripción de cualquier acto o convenio relacionado con poderes o
 
 IV.- La inscripción de cualquier acto o convenio distinto a los anteriores 12.41 UMA
 
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V.- Por la rectificación o reposición de inscripciones relacionado (sic) con el Registro de Personas Morales de Naturaleza Civil o con el Registro de Crédito Rural 1.50 UMA.
+
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 62.
@@ -3079,7 +3153,7 @@ III.- De testamento 3.60 UMA
 
 Cuando las escrituras o contratos otorgados ante cualquier fedatario público contengan precio de operación, se causarán derechos conforme a la siguiente:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Tarifa
 
@@ -3087,7 +3161,7 @@ Pesos
 
 Hasta 50,000.00 7.00 UMA
 
-De 50,000.01 a 100,000.00 13.00 UMA
+De 50,000.01 a 100,000.00 3.00 UMA
 
 De 100,000.01 a 300,000.00 25.00 UMA
 
@@ -3095,11 +3169,13 @@ De 300,000.01 a 500,000.00 40.00 UMA
 
 De 500,000.01 a 1'000,000.00 50.00 UMA
 
-De 1'000,000.01 a 5'000,000.00 60.00 UMA
+De 1'000,000.01 a 2'500,000.00 60 UMA
 
-De 5'000,000.01 a 10'000,000.00 70.00 UMA
+De 2'500,000.01 a 5'000,000.00 63 UMA
 
-De 10'000,000.01 en adelante 80.00 UMA
+De 5'000,000.01 a 10'000,000.00 74 UMA
+
+De 10'000,000.01 en adelante 84 UMA
 
 En los contratos o convenios en los que se pacte la ocupación o la desocupación de inmuebles y se estipule un plazo indefinido, se tomará la cuantía correspondiente a un año, aplicándose la tarifa del párrafo anterior.
 
@@ -3303,15 +3379,19 @@ A partir de 300,001 m2 en adelante 40.00 UMA
 
 Cuando se trate del primer plano catastral, se causarán además los derechos previstos en las fracciones V y VI de este artículo, en su caso.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-V.- Por la diligencia de verificación de medidas físicas, rectificación de medidas, colindancias de predios, no inscripción catastral, estado físico del predio, mejoras en el predio, demolición de construcción, factibilidad de división de predios, factibilidades de unión de predios, urbanización catastral, ubicación de predio, localización de predio, marcación de predio, deslinde de predios, asignación o cambio de nomenclatura o elaboración de planos 4.78 UMA
+V.- Por la diligencia de verificación de: medidas físicas, rectificación de medidas, colindancias de predios, no inscripción catastral, estado físico del predio, mejoras en el predio, demolición de construcción, factibilidad de división de predios, factibilidades de unión de predios, urbanización catastral, ubicación de predio, localización de predio, marcación de predio, deslinde de predios, asignación o cambio de nomenclatura o elaboración de planos, así como la investigación documental en los acervos registral y catastral 5.28 UMA
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Cuando en la diligencia de verificación se requiera el marcaje o la localización del predio, así como la investigación documental en los acervos registral y catastral, deberá cubrirse adicionalmente el derecho de 10.50 UMA por cada punto posicionado geográficamente (al menos dos puntos).
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
-Cuando en la diligencia de verificación se requiera el marcaje o la localización del predio, deberá cubrirse adicionalmente el derecho de 10.00 UMA por cada punto posicionado geográficamente (al menos dos puntos).
-
 Más 0.10 UMA por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, sin que el derecho establecido en este párrafo exceda de diecisiete UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2020)</small>
 
 En el pago de kilometraje se causará un solo derecho cuando se trate del mismo propietario y en la misma localidad.
 
@@ -3381,67 +3461,15 @@ IX.- Por la validación de cada plano del predio o cada plano resultante de proy
 
 X.- Por la elaboración de acta circunstanciada por cada predio colindante que requiera de investigación de campo y documental 20.00 UMA
 
-> <small>(ADICIONADA [N. DE E. CON SUS CANTIDADES], D.O. 31 DE DICIEMBRE DE 2019)</small>
+XI.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2024)
 
-XI.- Por la validación técnica de los trabajos de topografía realizados por los peritos topógrafos externos que se requirieron para la elaboración de planos o diligencia de verificación, se causarán derechos de acuerdo con la superficie del predio, conforme a lo siguiente:
+XII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2024)
 
-Superficie del predio Factor UMA
+XIII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2024)
 
-Hasta 400.00 m2 2.00 UMA
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
 
-De 400.01 a 1,000.00 m2 3.00 UMA
-
-De 1,000.01 a 2,500.00 m2 4.00 UMA
-
-De 2,500.01 a 10,000.00 m2 5.00 UMA
-
-De 10,000.01 m2 a 30,000 m2 6.00 UMA
-
-De 30,000.01 m2 a 60,000 m2 7.00 UMA
-
-De 60,000.01 m2 a 90,000 m2 8.00 UMA
-
-De 90,000.01 m2 a 120,000 m2 9.00 UMA
-
-De 120,000.01 m2 a 150,000 m2 10.00 UMA
-
-De 150,000.01 m2 en adelante 12.00 UMA
-
-> <small>(ADICIONADA [N. DE E. CON SUS CANTIDADES], D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XII.- Por la validación técnica de los trabajos de topografía para marcajes realizados por los peritos topógrafos externos, se causarán derechos de acuerdo con la superficie del predio, conforme a lo siguiente:
-
-Superficie del predio Factor UMA
-
-Hasta 400.00 m2 10.00 UMA
-
-De 400.01 a 1,000.00 m2 12.00 UMA
-
-De 1,000.01 a 2,500.00 m2 14.00 UMA
-
-De 2,500.01 a 10,000.00 m2 16.00 UMA
-
-De 10,000.01 m2 a 30,000 m2 18.00 UMA
-
-De 30,000.01 m2 a 60,000 m2 20.00 UMA
-
-De 60,000.01 m2 a 90,000 m2 25.00 UMA
-
-De 90,000.01 m2 a 120,000 m2 30.00 UMA
-
-De 120,000.01 m2 a 150,000 m2 40.00 UMA
-
-De 150,000.01 m2 en adelante 50.00 UMA
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2020)</small>
-
-XIII.- Por los trabajos de investigación y análisis documental de la información de la Dirección del Catastro y de la Dirección del Registro Público de la Propiedad y del Comercio del Instituto de Seguridad Jurídica Patrimonial de Yucatán, cuando se requiera ubicar un predio 6.00 UMA
-
-El derecho establecido en esta fracción es adicional a los derechos previstos en las fracciones IV, V y VI de este artículo.
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-XIV.- Por la validación de avalúos comerciales para el pago de contribuciones 1.5 UMA
+XIV.- Por la validación de avalúos comerciales para el pago de contribuciones 2 UMA
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3785,9 +3813,7 @@ XV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
 XVI.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2020)
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
-XVII.- Por cada evaluación y resolución de las solicitudes para obtener la factibilidad urbana ambiental 14.68 UMA
+XVII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4600,6 +4626,14 @@ II. Por cada evaluación que derive en la resolución de obtención de incorpora
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
 III. Por cada verificación de áreas, predios y obras, se causará un derecho de 21.14 UMA.
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+IV. Por cada evaluación y resolución de las solicitudes para obtener la factibilidad urbana ambiental: 14.68 UMA
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2024)</small>
+
+V. Por cada evaluación que derive en la resolución de dictamen de impacto urbano de suelo ejidal, se causará por cada metro cuadrado, un derecho de 0.014 UMA.
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2023)</small>
 
@@ -5436,3 +5470,43 @@ Artículo segundo. Excepción
 Durante el ejercicio fiscal 2024, las personas físicas, personas morales y unidades económicas que tengan la obligación de retener el impuesto sobre erogaciones por remuneración al trabajo personal de conformidad con el artículo 22 Bis de la Ley General de Hacienda del Estado de Yucatán, no tendrán la obligación de realizar la retención cuando subcontraten servicios especializados o de ejecución de obras especializadas, y estarán eximidas de las obligaciones señaladas en el artículo 27-E de la ley referida.
 
 Así mismo, durante el ejercicio fiscal 2024, los intermediarios, contratistas, terceros o cualquiera que sea su denominación, que presten servicios especializados o de ejecución de obras especializadas, no estarán obligados a presentar el aviso a que se refiere el artículo 22 Ter de la Ley General de Hacienda del Estado de Yucatán, ni estarán obligados a realizar el desglose en el comprobante fiscal de los conceptos por los cuales se cause el impuesto sobre erogaciones por remuneración al trabajo personal, así como tampoco a suministrar la información a que se refiere el artículo 27-F de la citada ley.
+
+D.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 36/2024 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2025, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo previsto en el artículo 47-AT, fracción II, inciso a), de la Ley General de Hacienda del Estado de Yucatán, que entrará en vigor hasta el 1 de enero de 2027.
+
+Artículo segundo. Entrada en vigor progresiva del artículo 47-AT
+
+Para la determinación de la base del impuesto a la emisión de contaminantes al suelo, subsuelo y agua durante el ejercicio fiscal 2026, los parámetros y límites permisibles establecidos en el inciso a) de la fracción II del artículo 47-AT de la Ley General de Hacienda del Estado de Yucatán, respecto al agua en miligramos en litros, que se presenten por cada metro cúbico, serán los siguientes:
+
+Para agua en miligramos en litros, que se presenten por cada metro cúbico, con base en lo siguiente:
+
+Contaminantes en aguas residuales básicos:
+
+Contaminante Cantidad de miligramos
+
+por litro, por metro cúbico
+
+Grasas y Aceites 20
+
+Sólidos Suspendidos Totales 40
+
+Demanda Química de Oxígeno 80
+
+Nitrógeno Total 20
+
+Fósforo Total 10
+
+Escherichia Coli (NMP/100 ml) 100
+
+Enterococos fecales (NMP/100 ml) 100
+
+Artículo tercero. Excepción
+
+Durante el ejercicio fiscal 2025, las personas físicas, personas morales y unidades económicas que tengan la obligación de retener el impuesto sobre erogaciones por remuneración al trabajo personal, de conformidad con el artículo 22 Bis de la Ley General de Hacienda del Estado de Yucatán, no tendrán la obligación de realizar la retención cuando subcontraten servicios especializados o de ejecución de obras especializadas, y estarán eximidas de las obligaciones señaladas en el artículo 27-E de la ley referida.
+
+Así mismo, durante el ejercicio fiscal 2025, los intermediarios, contratistas, terceros o cualquiera que sea su denominación, que presten servicios especializados o de ejecución de obras especializadas, no estarán obligados a presentar el aviso a que se refiere el artículo 22 Ter de la Ley General de Hacienda del Estado de Yucatán, ni estarán obligados a realizar el desglose en el comprobante fiscal de los conceptos por los cuales se cause el impuesto sobre erogaciones por remuneración al trabajo personal, así como tampoco a suministrar la información a que se refiere el artículo 27-F de la citada ley.
