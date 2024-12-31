@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2024-10-17"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4897,9 +4897,9 @@ XXIV. Dispositivo de movilidad asistida: Herramienta que permite el desplazamien
 
 XXIV Bis. Estacionamiento Rotativo: Estacionamiento en vía pública, en espacios autorizados y delimitados para dicho fin de la forma en que lo establezcan los señalamientos viales, que permite la rotación de vehículos y remolques, mediante la gestión del tiempo, en el período que se establezca en este Código.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XXIV Ter. Estacionómetros: Sistema de medición mecánico, digital, virtual o electrónico que gestiona el cobro en relación con el tiempo en que un vehículo permanece estacionado en la vía pública;
+XXIV Ter. Estacionómetros: Sistema de medición mecánico, digital, virtual o electrónico que gestiona el tiempo en que un vehículo motorizado permanece estacionado en la vía pública dentro de los polígonos establecidos para el programa de estacionamiento rotativo;
 
 XXV. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción;
 
@@ -6483,37 +6483,41 @@ El Ayuntamiento podrá instalar estacionómetros y gestionar mediante cualquier 
 
 Para la regulación del Estacionamiento Rotativo además de las normas previstas en el presente Capítulo, la SEMOVINFRA deberá aprobar reglas de operación para la exacta observancia de dicha medida.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 322 Ter.
 
-Para el cobro del uso de estacionamiento en la vía pública la SEMOVINFRA clasificará las zonas de estacionómetros o del Estacionamiento Rotativo; de acuerdo a la demanda de espacios, así como los horarios de operación.
+Para el uso del estacionamiento en la vía pública la SEMOVINFRA clasificará las zonas de estacionómetros o del Estacionamiento Rotativo; de acuerdo a la demanda de espacios, así como los horarios de operación y el tiempo máximo permitido para el uso del mismo.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 322 Quater.
 
-Para garantizar el uso equitativo de la vía pública a todas las personas usuarias, queda prohibido el reservar lugares de estacionamiento cuando no se cuente con los permisos otorgados por la autoridad correspondiente; cualquier obstáculo fijo, semifijo o móvil que impida la circulación será removido de forma inmediata por la persona infractora a petición del Agente de Tránsito o Policía Preventiva.
+Para garantizar el funcionamiento óptimo y equitativo del estacionamiento y uso de la vía pública a todas las personas usuarias, queda prohibido el reservar lugares de estacionamiento cuando no se cuente con los permisos otorgados por la autoridad correspondiente; cualquier obstáculo fijo, semifijo o móvil que impida la circulación y/o el uso del estacionamiento en la vía pública, será removido de forma inmediata por la persona infractora a petición del Agente de Tránsito, Policía Preventiva o la persona Supervisora de Movilidad.
 
-En caso de resistencia los objetos serán retirados por el Agente de Tránsito o Policía Preventivo, no procederá la devolución de los mismos y cuando se requiera de maniobras para remover dichos obstáculos los gastos correrán a cargo de la persona física o moral infractora.
+En caso de negarse o resistencia, los objetos serán retirados por el Agente de Tránsito, Policía Preventivo o la persona Supervisora de Movilidad, no procederá la devolución de los mismos y cuando se requiera de maniobras para remover dichos obstáculos los gastos correrán a cargo de la persona física o moral infractora.
 
 Se amonestará a la persona física o moral infractora cuando no existan antecedentes en esta falta, en caso de reincidencia se impondrán las sanciones previstas en el Tabulador de Infracciones y Sanciones del artículo 354 del presente Código.
 
 Se exceptúan de este precepto las instituciones educativas, en los horarios de entrada y salida del alumnado.
 
-En el caso específico de los establecimientos comerciales que reiteradamente su personal opte por el apartado de lugares en la vía pública, además de imponerse la multa correspondiente por reincidencia en la misma en un periodo de un año, la Dirección de Control de Tránsito hará del conocimiento a la Unidad de Normatividad y Regulación Comercial, para que aplique la sanción correspondiente a los establecimientos referidos en el Capítulo 14, artículo 617, fracción III, de este Código.
+En el caso específico de los establecimientos comerciales que reiteradamente su personal opte por el apartado de lugares en la vía pública, además de imponerse la multa correspondiente por reincidencia en la misma en un periodo de un año, la Dirección de Control de Tránsito y/o la Subsecretaría de Movilidad y Seguridad Vial a través de la Dirección de Movilidad Urbana Sustentable, harán del conocimiento a la Unidad de Normatividad y Regulación Comercial, para que aplique la sanción correspondiente a los establecimientos referidos en el Capítulo 14, artículo 617, fracción III, de este Código.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO EL ACÁPITE [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 322 Quinquies.
 
 Incurre en infracción administrativa al estacionamiento en vía pública la persona que:
 
-I. Omita el pago de los estacionómetros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-II. Introduzca objetos diferentes a los autorizados en los estacionómetros; y
+I. Permanezca estacionado por un periodo mayor a los dispuesto por las Reglas de Operación por día natural, dentro de los polígonos establecidos en el programa;
 
-III. Dañe u obstruya el funcionamiento de los estacionómetros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+II. En su caso, no cuente con los permisos de carga y descarga emitido por la Dirección de Movilidad Urbana Sustentable.
+
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2024)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -6541,11 +6545,11 @@ IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos p
 
 V. Los vehículos pertenecientes al sistema complementario de micromovilidad solo podrán ser estacionados solo (sic) en los lugares o bahías autorizadas para tal efecto por la SEMOVI.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 323 Bis.
 
-En caso de ampliar el número de horas mayor a cinco permitidas por día natural para el uso del Estacionamiento Rotativo, esto se establecerá en las Reglas de Operación. A quien exceda dicho plazo, será sujeto a la sanción establecida.
+En caso de ampliar el número de horas permitidas por día natural para el uso del Estacionamiento Rotativo, esto se establecerá en las Reglas de Operación. A quien exceda dicho plazo, será sujeto a la sanción establecida.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -6553,11 +6557,11 @@ En caso de ampliar el número de horas mayor a cinco permitidas por día natural
 
 Cuando el tiempo de estacionamiento de un vehículo o remolque registrado, exceda dos horas o más la estadía establecida, se procederá a su retiro e ingreso al Depósito de Vehículos correspondiente, independientemente de haber sido sancionado en términos del numeral anterior. Los gastos ocasionados por dicho traslado serán pagados por el infractor.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 323 Quater.
 
-Todo vehículo o remolque que ocupe espacios destinados para el Estacionamiento Rotativo, deberá contar con placas de circulación y ser registrado a través de los medios establecidos, de lo contrario, será sujeto a la Infracción señalada en el correlativo al presente en el Tabulador de Infracciones y Sanciones. Se exceptúan de dicho registro, los vehículos de emergencia (patrullas, ambulancias, bomberos y protección civil) en el ejercicio de sus funciones.
+Todo vehículo o remolque que ocupe espacios destinados para el Establecimiento Rotativo, deberá contar con placas de circulación y ser registrado a través de los medios establecidos, de lo contrario, será sujeto a la colocación de inmovilizador y a la Infracción señalada en el correlativo al presente en el Tabulador de Infracciones y Sanciones. Se exceptúan de dicho registro, los vehículos de emergencia (patrullas, ambulancias, bomberos y protección civil) en el ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -6655,9 +6659,9 @@ IX. Vigilar el cumplimiento de lo dispuesto en materia de estacionamiento en la 
 
 Artículo 323 Duodecies.- Se destinará en la vía pública, lugares de estacionamiento exclusivos para vehículos que trasladen personas con discapacidad, siempre y cuando, dichos vehículos porten las placas destinadas a personas con discapacidad, expedidas por la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-Artículo 323 Terdecies.- No deberá excederse el tiempo pagado para el uso de Estacionamiento Rotativo, dentro del límite establecido en el presente Código.
+Artículo 323 Terdecies.- No deberá excederse el tiempo autorizado en las Reglas de Operación por día natural, para el uso de Estacionamiento Rotativo, dentro del límite establecido en el presente Código.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -6961,9 +6965,9 @@ El estacionamiento de vehículos en inmuebles distintos a la Vía Pública estar
 
 XV. Supervisar la operación y correcto funcionamiento del Estacionamiento Rotativo.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
-XVI. Realizar las infracciones respectivas y retener la placa de circulación como garantía de pago por las situaciones previstas por el uso indebido del Estacionamiento Rotativo.
+XVI. Realizar las infracciones respectivas, reteniendo placa de circulación como garantía de pago y en su caso, la colocación de inmovilizadores por las situaciones previstas por el uso indebido del Estacionamiento Rotativo o por no contar con el permiso de carga y descarga que le permita realizar estas maniobras.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE MARZO DE 2022)</small>
 
@@ -7447,7 +7451,9 @@ La Dirección de Control de Tránsito y la SEMOVINFRA aplicarán cuando sea proc
 
 Las medidas previstas en el presente Capítulo respecto al Estacionamiento Rotativo serán realizadas por las personas Supervisoras de Movilidad de conformidad con lo siguiente:
 
-I. La retención de placas de circulación y el levantamiento de la infracción respectiva, en los casos previstos, serán ejecutadas por la Personas Supervisoras de Movilidad para garantizar el pago de las multas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+I. La colocación de inmovilizadores, retención de placas de circulación y el levantamiento de la infracción respectiva, en los casos previstos, serán ejecutadas por la (sic) Personas Supervisoras de Movilidad para garantizar el pago de las multas.
 
 II. Para los casos relativos al retiro de vehículos, las Personas Supervisoras de Movilidad, informarán al Agente de Tránsito de las infracciones correspondientes para que por su conducto se ejecute el retiro y los procedimientos establecidos para el traslado del vehículo.
 
@@ -7535,7 +7541,7 @@ De las infracciones en general y otras obligaciones.
 
 > <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19; TERCERA SECCIÓN DEL P.O. 24 DE MAYO DE 2022, PÁGINA DE LA 9 A LA 10; VIGÉSIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 78 A LA 79.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19; TERCERA SECCIÓN DEL P.O. 24 DE MAYO DE 2022, PÁGINA DE LA 9 A LA 10; VIGÉSIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 78 A LA 79; DÉCIMA SÉPTIMA SECCIÓN DEL P.O. 31 DE DICIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -41480,3 +41486,11 @@ P.O. 17 DE OCTUBRE DE 2024.
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE DICIEMBRE DE 2024, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE INFRAESTRUCTURA, MOVILIDAD Y SERVICIOS PÚBLICOS, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 10 "TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA."]
+
+PRIMERO. El presente Dictamen entrará en vigor el primero de enero de dos mil veinticinco.
+
+SEGUNDO. Se deroga toda disposición que se oponga al presente Dictamen.
