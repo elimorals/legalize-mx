@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2024-09-17"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,387 +21,205 @@ state: "HID"
 ---
 # LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
+REGLAMENTO PARA EL FUNCIONAMIENTO DE LOS ORGANOS DEL AYUNTAMIENTO DE CAMPECHE DENOMINADOS DELEGACIONES DE SECTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
+Reglamento publicado en Periódico Oficial del Estado de Campeche, el viernes 18 de marzo de 1988.
 
-JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
-
-QUE LA LXII LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
-
-D E C R E T O NÚM. 210
-
-QUE CONTIENE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO.
-
-El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
-
-A N T E C E D E N T E S
-
-PRIMERO. En sesión ordinaria de fecha 09 de octubre de 2014 y por instrucciones de la Directiva, nos fue turnada la Iniciativa precisada en el Proemio del presente documento.
-
-SEGUNDO. El asunto de mérito quedó registrado en el libro de gobierno de la Comisión actuante bajo el número 118/2014.
-
-Por lo anteriormente expuesto; y
-
-C O N S I D E R A N D O
-
-PRIMERO. Que con fundamento en lo dispuesto por la Constitución Política del Estado Libre y Soberano de Hidalgo, en sus artículos 42 párrafo segundo y 56 fracciones I y II, es facultad del Congreso del Estado, legislar en todo lo que concierne al régimen interior del Estado.
-
-SEGUNDO. Que de conformidad con lo establecido en el artículo 47 fracción I, de la Constitución Política del Estado de Hidalgo, y 124 fracción I de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Hidalgo, es facultad del Gobernador del Estado, iniciar Leyes y Decretos, por lo que los integrantes de la Comisión que dictamina consideramos que la Iniciativa en estudio reúne los requisitos sobre el particular.
-
-TERCERO. Que la Constitución Política de los Estados Unidos Mexicanos, establece en su artículo 134 que los recursos económicos que dispongan la Federación, los Estados y los Municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados; de la misma forma, la Constitución Política del Estado de Hidalgo, en su artículo 108, establece la misma obligación.
-
-CUARTO. Que el Plan Estatal de Desarrollo 2011-2016, establece en el Eje 5 denominado Gobierno Moderno, Eficiente y Municipalista, como objetivo estratégico el instrumentar políticas gubernamentales que favorezcan la configuración de una administración pública racional y eficiente en la aplicación del gasto. En ese contexto, dentro de los objetivos generales y estrategias de acción se encuentra la modernización del marco normativo de la Administración Pública Estatal, la administración basada en resultados y ejercer los recursos públicos de manera efectiva con esquemas de transparencia y rendición de cuentas; por lo cual es necesario que las leyes sean actualizadas en su contenido, en concordancia con las diversas normas de carácter Federal.
-
-QUINTO. Que el Presupuesto de Egresos es el documento con el que cuenta el Gobierno del Estado para aplicar sus políticas públicas, atendiendo las necesidades formuladas por la población, priorizando el ejercicio del mismo.
-
-SEXTO. Que la modernización de las administraciones públicas a nivel mundial para el manejo de los recursos públicos y por ende a nivel nacional, ha requerido la adecuación del marco jurídico tanto de la Federación como de los Estados y Municipios, a fin de aplicar la Gestión por Resultados, el Presupuesto basado en Resultados y el Sistema de Evaluación del Desempeño, principalmente en las etapas de programación y presupuestación del Gasto Público.
-
-Cabe mencionar que el Gobierno del Estado ha implementado técnicas presupuestales y de registro contable del gasto, cuya finalidad es mejorar el diseño de las políticas y los programas gubernamentales para asignar los recursos públicos en el Presupuesto de Egresos de manera eficiente; por lo que los ejecutores de gasto deberán expresar de forma más transparente sus programas, por medio de la vinculación del presupuesto con los programas sectoriales derivados del Plan Estatal de Desarrollo 2011-2016; con el propósito de identificar con claridad los objetivos, metas y acciones a lograr, cuyos avances serán medidos con base en indicadores que permitan dar un seguimiento a los resultados obtenidos.
-
-SÉPTIMO. Que derivado de las reformas a la Constitución Política de los Estados Unidos Mexicanos, fue publicada la Ley General de Contabilidad Gubernamental, el 31 de diciembre de 2008, con entrada en vigor el 1 de enero de 2009, que tiene entre otros objetivos establecer los criterios generales que regirán la contabilidad gubernamental y la emisión de información financiera de los entes públicos, con el fin de lograr su adecuada armonización; percibir la contabilidad gubernamental como elemento clave en la toma de decisiones sobre las finanzas públicas; contribuir a la transparencia y rendición de cuentas y facilitar la presupuestación con base en resultados.
-
-OCTAVO. Que ante tales exigencias y considerando que una reforma a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Hidalgo, no bastaría para implementar las metodologías presupuestales y de registro contable; así como normar y regular las acciones relativas a los procesos de planeación, programación, presupuestación, aprobación, ejercicio, transparencia y evaluación de los recursos presupuestarios del Estado de Hidalgo, se requiere de una nueva Ley que cumpla con las demandas técnicas y jurídicas de un nuevo presupuesto con un enfoque basado en resultados y evaluación del desempeño; por consiguiente, resulta improrrogable la presentación y aprobación de la Iniciativa por la que se crea la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo, la que permitirá que haya concordancia en los ámbitos federal y estatal.
-
-En este orden de ideas, la presente Ley se integra por 106 artículos contenidos en 7 Títulos y 19 Capítulos.
-
-El Título Primero se refiere a "Disposiciones Generales", estableciendo que el objeto de la Ley es la planeación, programación, presupuestación, aprobación, ejercicio, control, contabilidad y evaluación de los ingresos y egresos públicos en el Estado de Hidalgo, señalando los sujetos obligados a la Ley y precisando los conceptos en un glosario de términos.
-
-El Título Segundo, denominado "De la Planeación, Programación, Presupuestación y Aprobación", regula el proceso de planeación integrado a la programación y presupuestación, que tienen como finalidad orientar el gasto público a la atención de los programas contemplados en el Plan Estatal de Desarrollo, determinando los programas y las actividades que sean necesarias para su cumplimiento. Además precisa que la presentación del Presupuesto responderá a las clasificaciones administrativa, funcional y programática, económica, geográfica y de género, se consideran previsiones de compromisos plurianuales de gasto en una partida especial y una sección específica de los servicios personales. Se define el significado y el contenido de la Ley de Ingresos y Presupuesto de Egresos y se adopta el presupuesto por programas con enfoque a resultados.
-
-El Título Tercero, denominado "Del Ejercicio del Gasto Público", prevé de manera general la forma en que los ejecutores de gasto deberán ejercer y comprobar los recursos públicos de sus presupuestos autorizados. De la misma manera, se tratan la ministración y destino de las transferencias, subsidios y donativos que el Gobierno del Estado autoriza a las dependencias y entidades.
-
-El Título Cuarto, denominado "De la Transferencia de Recursos", establece el mecanismo para que el Gobierno del Estado y los municipios se coordinen para informar el ejercicio de los recursos públicos que les fueron transferidos por la Federación.
-
-El Título Quinto, denominado "De la Contabilidad Gubernamental", establece de manera general que la Secretaría de Finanzas y Administración emitirá la normatividad en materia de contabilidad para efectos administrativos que deberá ser observada por las dependencias y entidades; asimismo que la contabilidad gubernamental de los ejecutores de gasto se regirá en los términos que marca la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
-
-El Título Sexto, denominado "De la Información, Transparencia y Evaluación", norma la información que los ejecutores de gasto para su rendición de cuentas deberán presentar a la Auditoría Superior del Estado, así como la información que la Secretaría de Finanzas y Administración y la Secretaría de Contraloría y Transparencia Gubernamental, soliciten a los ejecutores de gasto para determinar el grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos estatales, mediante el Sistema Estatal de Evaluación del Desempeño.
-
-El Título Séptimo, denominado "De las Sanciones e Indemnizaciones", establece aquellos actos u omisiones que impliquen el incumplimiento por parte de los servidores públicos, que causen daño o perjuicio a la hacienda pública estatal, cuando no lleven los registros presupuestarios y contables, realicen acciones u omisiones que deliberadamente generen subejercicios por incumplimiento de los objetivos y metas anuales en sus presupuestos y cualesquiera otra que configure incumplimiento en el ejercicio del Gasto Público, incurren en responsabilidad, con independencia de las de carácter político, penal, administrativo o civil.
-
-NOVENO. Que en tal contexto, quienes integramos la Comisión que dictamina, coincidimos en la aprobación de la Iniciativa de Decreto que contiene la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo, presentada por el Lic. José Francisco Olvera Ruíz, Titular del Poder Ejecutivo del Estado.
-
-POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
-
-DECRETO
-
-QUE CONTIENE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
+REGLAMENTO PARA EL FUNCIONAMIENTO DE LOS ORGANOS DEL AYUNTAMIENTO DE CAMPECHE DENOMINADOS DELEGACIONES DE SECTOR
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO I. Objeto y Definiciones de la Ley, Reglas Generales y Ejecutores del Gasto
+### CAPITULO I. DE LA DIVISION TERRITORIAL
 
-###### Artículo 1.
+###### ARTICULO 1.
 
-La presente Ley es de orden público y de observancia general y tiene por objeto normar y regular las acciones relativas a la planeación, programación, presupuestación, aprobación, ejercicio, control, contabilidad y evaluación de los ingresos y egresos públicos en el Estado de Hidalgo.
+Con fundamento en la fracción II del artículo 59 de la Ley Orgánica de los municipios del Estado que establece que los Ayuntamientos pueden dividir el territorio municipal en comisarías, sectores, manzanas y cuarteles, se ha dividido a la ciudad de Campeche en seis demarcaciones.
 
-Son sujetos obligados los poderes Ejecutivo, Legislativo y Judicial en el Estado; los municipios; las entidades de la administración pública paraestatal, ya sean estatales o municipales y los entes autónomos estatales y municipales; quienes deberán observar que la administración de los recursos públicos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad sustantiva entre mujeres y hombres.
+###### ARTICULO 2.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+La división exclusivamente de la ciudad, se explica por la razón de que con apego a la propia Ley Orgánica Municipal, el área rural se encuentra debidamente delimitada y en sus correspondientes jurisdicciones existen autoridades que van desde la junta hasta la comisaría y la agencia municipal.
 
-La Auditoría Superior fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las atribuciones que le confieren la Constitución Política del Estado de Hidalgo y la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo.
+###### ARTICULO 3.
 
-###### Artículo 2.
+Las divisiones, establecidas con apego a lo consignado en el artículo 1 de este reglamento, tendrán la categoría de sectores, con los nombres y dentro de los límites siguientes:
 
-Para efectos de esta Ley, se entenderá por:
+I.- "SECTOR CONCORDIA"
 
-I. Actividad institucional: Las acciones sustantivas o de apoyo que realizan los ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas presupuestarios, de conformidad con las atribuciones que señala su respectiva Ley Orgánica o el ordenamiento jurídico que les es aplicable;
+Comprende la Unidad Habitacional "CIUDAD CONCORDIA", exclusivamente.
 
-II. Adecuaciones presupuestarias: Las modificaciones a las estructuras funcional programática, administrativa y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto de Egresos o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
+Sus límites están comprendidos en el actual trazo de la Unidad Habitacional y podrá ampliarse en la medida y dentro de los límites en que esta unidad se amplíe.
 
-III. Ahorro presupuestario: Los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
+II.- "SECTOR SOLIDARIDAD"
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+Comprende las Unidades Habitacionales "SOLIDARIDAD NACIONAL", "LAS PALMAS I", "LAS PALMAS II, "LAS PALMAS III" y "FIDEL VELAZQUEZ".
 
-III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres, Niñas, Niños, Adolescentes y de cualquier forma de discriminación; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Desarrollo Agropecuario Sustentable; Ciencia, Tecnología e Innovación; Atención a Grupos Vulnerables; los Recursos para la Mitigación de los efectos del Cambio Climático; y los recursos destinados al Combate a la Corrupción.
+Sus limites están comprendidos al Norte de la Avenida Costera; al Sur, por terrenos de la finca "VILLA MERCEDES", Colonias "AMPLIACION BELLAVISTA" y "MORELOS"; al Este por terrenos de Imí y predios particulares y al Oeste, por las Colonias "SAN JOSE EL ALTO" y "AMPLIACION BELLAVISTA",
 
-IV. Auditoría Superior: La Auditoría Superior del Estado de Hidalgo;
+III.- "SECTOR RENOVACION"
 
-V. Clasificador por objeto del gasto: El instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto. Este clasificador permite formular y aprobar el proyecto de Presupuesto de Egresos desde la perspectiva económica y dar seguimiento a su ejercicio;
+Comprende las Colonias "BELLAVISTA", "SAN JOSE EL ALTO", “AMPLIACION BELLAVISTA", "EMILIANO ZAPATA", "MORELOS", "JOSEFA ORTIZ DE DOMINGUEZ", "GRANJAS", "SAN JOAQUIN", "PABLO GARCIA", "REVOLUCION", "AMPLIACION REVOLUCION", "PEÑA", y las Unidades Habitacionales "PLAN CHAC", "EDUARDO LAVALLE URBINA" y "MARTIRES DE RIO BLANCO".
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Sus limites están comprendidos al Norte por el "SECTOR SOLIDARIDAD"; al Sur, por el. "SECTOR JUSTICIA SOCIAL", Avenida "GOBERNADORES" de por medio; al Este, por terrenos de la finca "KALA" y del poblado de Imí y al Oeste, por el suburbio de la "ESTACION ANTIGUA", vía de ferrocarril de por medio.
 
-V BIS. CONAC: Consejo Nacional de Armonización Contable.
+IV.- "SECTOR JUSTICIA SOCIAL"
 
-VI. Congreso del Estado: El Congreso del Estado Libre y Soberano de Hidalgo;
+Comprende las Colonias "IGNACIO ZARAGOZA", "MIGUEL HIDALGO", "AMPLIACION MIGUEL HIDALGO", "TEPEYAC", "SASCALUM", "SAN ANTONIO", "SAN RAFAEL", y las Unidades Habitacionales "FRACCIORAMA 2000", "LAS FLORES I", "LAS FLORES II", "LAS FLORES III" y "LINDA VISTA".
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Sus limites están comprendidos al Norte por las Unidades Habitacionales "BICENTENARIO" y "EX QUINTA BELEN", vía de ferrocarril a Pemex de por medio; al Sur, por terrenos del ejido de Samulá y "EX HACIENDA MULTUNCHAC", al Este, por el Sector "CAUDILLOS", Avenida ''LAZARO CARDENAS" de por medio y al Oeste, por el Sector "PEDRO SAINZ de BARANDA" y el poblado de Samulá, prolongación calle Allende de por medio.
 
-VII. Contraloría: La Secretaría de Contraloría;
+V.- "SECTOR PEDRO SAINZ DE BARANDA"
 
-VIII. Cuenta Pública: La Cuenta de la Hacienda Pública del Estado de Hidalgo;
+Comprende la Colonia "KANISTE" y los Fraccionamientos PRADO" "BOSQUES DE CAMPECHE", "HEROES DE CHAPULTEPEC", "KANISTE" y "SUTERM".
 
-IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
+Sus límites están comprendidos al Norte por la colonia burócratas y el Barrio de San Román. Avenida "ADOLFO LOPEZ MATEO”, de por medio; al Sur, por el poblado de Samulá, al Este, por el sector "JUSTICIA SOCIAL", prolongación Allende de por medio, Oeste, por el litoral, avenida "RESURGIMIENTO" de por medio.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+VI.- "SECTOR CAUDILLOS"
 
-X. Dependencias: Las dependencias del Poder Ejecutivo del Estado que establece la Ley Orgánica de laAdministración (sic) Pública para el Estado de Hidalgo, incluyendo a sus respectivos órganos administrativos desconcentrados;
+Comprende las Colonias "EL POLVORIN", "AMPLIACION EL POLVORIN", "JARDINES", "TOMAS AZNAR", "CUATRO CAMINOS”, "EL HUANAL", "AVIACION", "EL CARMELO", "CALLE COATZACOALCOS", "LAS LOMAS", "ESPERANZA", "AMPLlACION ESPERANZA", "FATIMA" y las Unidades Habitacionales "FLOR DE LIMON", "SANTA BARBARA", "JUSTO SIERRA MENDEZ”, “EL HUANAL", y el Fraccionamiento "MEXICO".
 
-XI. Dependencias coordinadoras de sector: A las secretarías que integran la Administración Pública Estatal, que tienen a su cargo una o más entidades paraestatales agrupadas en el ámbito funcional de sus atribuciones y con facultades para emitir normas y lineamientos específicos para orientar la actividad de las entidades que integran su sector;
+Sus limites están comprendidos al Norte por el Sector "RENOVACION", Avenida "GOBERNADORES" de por medio; al sur por terreno de la "EX HACIENDA MULTUNCHAC" Avenida “José López Portillo” de por medio al Este, por el Aeropuerto Internacional y "SECTOR CONCORDIA"; y al Oeste, por el "SECTOR “JUSTICIA SOCIAL", Avenida "LAZARO CARDENAS", de por medio.
 
-XII. Economías: Los remanentes de recursos no devengados del presupuesto modificado;
+###### ARTICULO 4.
 
-XIII. Eficacia en la aplicación del gasto público: Lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos de esta Ley y demás disposiciones aplicables;
+Se excluyen de esta división el primer cuadro de la ciudad, así como los barrios, Colonias y suburbios más céntricos, en razón de que sus (sic) cercanía con las oficinas de Gobierno que emite a sus Habitantes efectuar sus trámites en forma directa y personal, así como por estar comprendidos dentro de las rutas e itinerarios de los prestadores de servicios públicos y privados.
 
-XIV. Eficiencia en el ejercicio del gasto público: El ejercicio del Presupuesto de Egresos en tiempo y forma, en los términos de esta Ley y demás disposiciones aplicables;
+###### ARTICULO 5.
 
-XV. Ejecutivo del Estado: El Gobernador Constitucional del Estado Libre y Soberano de Hidalgo;
+En la medida que las necesidades derivadas del crecimiento de la Ciudad lo vayan requiriendo, en cada uno de los Sector (sic) existirá una representación del Ayuntamiento que se denominará "DELEGACION DE SECTOR".
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+###### ARTICULO 6.
 
-XVI. Ejecutores de gasto: Los poderes Legislativo, Judicial, Ejecutivo del Estado, sus dependencias y entidades y los entes autónomos a los que se asignenrecursos (sic) del Presupuesto de Egresos a través de los ramos autónomos; que realizan las erogaciones con cargo al Presupuesto de Egresos, así como los ayuntamientos de los municipios y las entidades de la administración pública municipal;
+Cada delegación contará invariablemente siguiente personal:
 
-XVII. Endeudamiento neto: La diferencia entre las disposiciones y amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, al cierre del ejercicio fiscal;
+UN DELEGADO DE SECTOR.
 
-XVIII. Entes autónomos: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado Libre y Soberano de Hidalgo a las que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos;
+El personal administrativo y de servicios que se requiera.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+###### ARTICULO 7.
 
-XIX. Entidades: Los organismos descentralizados, empresas de participación estatal y fideicomisospúblicos (sic), que de conformidad con la Ley Orgánica de la Administración Pública para el Estado de Hidalgo sean considerados entidades paraestatales;
+Para ser delegado de sector se requiere:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+I.- Ser ciudadano campechano con más de veintiún años de edad.
 
-XX. Entidades coordinadas: Las entidades que el Ejecutivo del Estado agrupe en cada dependenciacoordinadora (sic) de sector, en los términos de la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y la Ley de Entidades Paraestatales del Estado de Hidalgo;
+II.- Tener a juicio del C. Presidente Municipal, instrucción suficiente para desempeñar el cargo.
 
-XXI. Entidades de control directo: Las entidades cuyos ingresos están comprendidos en su totalidad en la Ley de Ingresos y sus egresos forman parte del gasto neto total;
+III.- No ser ministro de algún culto religioso.
 
-XXII. Entidades de control indirecto: Las entidades cuyos ingresos propios no están comprendidos en la Ley de Ingresos, y sus egresos no forman parte del gasto neto total, salvo aquellos subsidios y transferencias que en su caso reciban;
+IV.- Contar con prestigio en la sociedad y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión.
 
-XXIII. Entidades no coordinadas: Las entidades que no se encuentren sectorizadas por las dependencias;
+###### ARTICULO 8.
 
-XXIV. Estructura Programática: El conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo y en los programas y presupuestos, así como ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el rendimiento esperado de la utilización de los recursos públicos;
+En la designación del delegado del sector de que se trate, bastará que a juicio del ciudadano Presidente Municipal llene los requisitos que señala el Artículo 7 de este Reglamento para que en uso de las atribuciones a que se refiere la XVII del Artículo 61 de la Ley Orgánica de los Municipios, le expida el correspondiente nombramiento que firmará en unión del secretario.
 
-XXV. Flujo de efectivo: El registro de las entradas y salidas de recursos efectivos en un ejercicio fiscal;
+###### ARTICULO 9.
 
-XXVI. Gasto neto total: La totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
+Con base en el Capítulo XIII, Artículo 76 de la Orgánica de los Municipios, los titulares de las unidades administrativas llamadas sectores, tendrán la categoría de delegados y las atribuciones necesarias para mantener en términos de ley, el orden y la tranquilidad o seguridad de los vecinos del lugar.
 
-XXVII. Gasto no programable: Las erogaciones a cargo del Gobierno del Estado que derivan del cumplimiento de obligaciones legales o del Presupuesto de Egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
+Para efectos de este reglamento, tendrán además las funciones siguientes:
 
-XXVIII. Gasto programable: Las erogaciones que se realizan en cumplimiento de sus atribuciones conforme a los programas para proveer bienes y servicios públicos a la población;
+I. Se entenderán como continuación del Ayuntamiento, y como autoridades auxiliares, estarán bajo la dependencia inmediata de la primera autoridad municipal en forma directa o a través de la Secretaria del H. Ayuntamiento, por lo que no existirá entre estos funcionarios autoridad municipal intermedia, sino en todo caso, coordinación para efectos de su actividad.
 
-XXIX. Gasto total: La totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos y, adicionalmente, las amortizaciones de la Deuda Pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
+II. Los delegados de sector quedan obligados a cuidar que los habitantes de su jurisdicción no alteren el orden y den cumplimiento a las disposiciones de las autoridades.
 
-XXX. Gobierno del Estado: El Gobierno del Estado Libre y Soberano de Hidalgo;
+III. En caso de violación a estas disposiciones o de la comisión de algún delito, con los medios a su alcance podrán auxiliar en la aprehensión de los delincuentes requeridos por las autoridades.
 
-XXXI. Información financiera: La información presupuestaria y contable expresada en unidades monetarias, sobre las transacciones que realiza un ente público y los eventos económicos identificables y cuantificables que lo afectan, la cual puede representarse por reportes, informes, estados y notas que expresan su situación financiera, los resultados de su operación y los cambios en su patrimonio;
+IV. Deberán corregir y evitar la embriaguez y los juegos prohibidos por la ley, así como lamenta (sic) de licores sin el permiso correspondiente y la patente respectiva.
 
-XXXII. Informes trimestrales: Los informes sobre las Finanzas Públicas y la Deuda Pública que el Ejecutivo Estatal presenta dentro de los primeros 15 días naturales de cada trimestre al Congreso del Estado;
+V. Deberán evitar los desórdenes dentro de su jurisdicción a través de los medios a su cuidado, evitando escándalos y actos reñidos con la moral, la paz y las buenas costumbres.
 
-XXXIII. Ingresos excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los ingresos propios de las entidades de control indirecto;
+VI. Deberán dar cumplimiento a las leyes sobre educación primaria y Registro Civil dar cuenta a las autoridades de la cabecera municipal de cualquier novedad que ocurra, cumplir todas las ordenes y disposiciones que se les comuniquen y las demás que leyes les atribuya.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+VII. Tendrán en forma expresa o tácita la representación del Presidente Municipal en todos los eventos a los que éste no pueda asistir dentro de los límites de su sector y cuando aquél asistiera, habrán de organizar su visita y acompañarlo en todos los actos programados.
 
-XXXIV. Ingresos Locales o Ingresos Propios: Aquellos recursos percibidos por los ejecutores de gasto por concepto de impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
+VIII. Podrán suscribir su propia correspondencia oficial, usando las formas, escudos y lemas que utilice el propio Ayuntamiento.
 
-XXXV. Ley de Adquisiciones: La Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo;
+IX. Como continuación en línea directa del Presidente Municipal y entendiendo a este como el órgano ejecutor de las determinaciones del Ayuntamiento, tendrán a su cargo la coordinación de la fuerza pública, el personal y los medios y equipos necesarios para prestación de los servicios públicos.
 
-XXXVI. Ley de Ingresos: La Ley de Ingresos del Estado Libre y Soberano de Hidalgo para el ejercicio fiscal correspondiente;
+X. Podrán efectuar en forma directa pagos diversos bajo los lineamientos de la Tesorería Municipal, así como efectuar cobros de impuestos, productos y otros que realice aquella dependencia municipal, que según los procedimientos del ramo, podrán ser provisionales o definitivos, entregando en su caso los correspondientes comprobantes de pago.
 
-XXXVII. Ley de Obras: La Ley de Obras Públicas y Servicios relacionados con las mismas para el Estado de Hidalgo;
+XI. Bajo los mismos lineamientos fiscales y sin contravenir las facultades que las leyes otorgan al Ayuntamiento, podrán expedir permisos para espectáculos, bailes, kermeses y otros eventos, advirtiendo en cada caso y por escrito la obligación de los organizadores de observar las leyes y reglamentos municipales, procurando el orden y la moralidad absoluta.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XII. En acuerdo periódico o cuando la ocasión lo amerite, recibirán del ciudadano Presidente Municipal las instrucciones que requieran para su desempleo.
 
-XXXVII BIS. Municipios: Los Municipios del Estado de Hidalgo, quienes podrán actuar por conducto de su Ayuntamiento, Tesorería Municipal o cualquier órgano competente de acuerdo a su normatividad aplicable;
+Para un mejor trabajo, mantendrán un contacto permanente con el secretario del Ayuntamiento, en línea directa del presidente municipal.
 
-XXXVIII. Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de la legislación laboral;
+Podrán entrevistarse en cualquier momento y sin ninguna demora con cualquier funcionario del Ayuntamiento en demanda de orientación o apoyo, sin que entre éstos y aquéllos exista alguna línea de dependencia y en todo caso, vinculación y coordinación necesarias.
 
-XXXIX. Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los poderes Legislativo y Judicial, los entes autónomos, las dependencias y entidades donde prestan sus servicios, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+XIII.- Deberán establecer y estrechar las relaciones que deben existir entre autoridades y dependencias federales, estatales del propio Ayuntamiento, canalizando a éstas las demandas de los habitantes de su Sector.
 
-XL. Periódico Oficial: El Periódico Oficial del Estado de Hidalgo;
+XIV.- Ejercerán un estricto control y vigilancia de los distintos predios localizados en su jurisdicción, elaborando un registro de ellos para procurar el cumplimiento de ciertas obligaciones fiscales como el impuesto predial, etc.
 
-XLI. Planeación del desarrollo: El esquema articulado de diferentes instrumentos de planeación estatal encabezados por el Plan Estatal de Desarrollo y sus programas sectoriales, regionales y especiales que de él derivan, así como la vinculación existente entre la planeación estatal con otras instancias de gobierno como son la federal y municipal;
+XV.- Las demás que las leyes les concedan.
 
-XLII. POA: El Programa Operativo Anual;
+Los delegados de Sector no podrán:
 
-XLIII. Presupuesto Basado en Resultados (PbR): El instrumento metodológico y el modelo de cultura organizacional cuyo objetivo es que los recursos públicos se asignen prioritariamente a los programas que generan más beneficios a la población y que se corrija el diseño de aquéllos que no están funcionando correctamente;
+a) Establecer convenios y compromisos con autoridad diferente sin el consentimiento y autorización del C. Presidente Municipal.
 
-XLIV. Presupuesto de Egresos: El Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo para el ejercicio fiscal correspondiente, incluyendo el Decreto y sus anexos;
+b) Efectuar pagos o cobros distintos a los que las leyes del ramo señalan, o distraer el producto de estos cobros más del tiempo necesario para su integración a la Tesorería Municipal.
 
-XLV. Presupuesto devengado: El reconocimiento de las obligaciones de pago por parte de los ejecutores de gasto a favor de terceros, por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, así como de las obligaciones de pago que se derivan por mandato de tratados, leyes o decretos, así como resoluciones y sentencias definitivas, y las erogaciones a que se refiere el artículo 56 de esta Ley;
+c) Abandonar su jurisdicción por periodos mayores a los estrictamente necesarios para el desempeño de sus funciones sin la autorización del C. Presidente Municipal.
 
-XLVI. Programas de inversión: Las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles y mantenimiento;
+d) Hacer uso del personal y equipo a su cargo para algún fin distinto al oficial.
 
-XLVII. Programa Presupuestal: La Categoría programática que permite organizar en forma representativa y homogénea, las asignaciones de recursos derivadas de la planeación del desarrollo, a cargo de los ejecutores de gasto estatal para el cumplimiento de sus objetivos y metas;
+e) Lo demás que las leyes prohíban.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+T R A N S I T O T R I O S
 
-XLVIII. Proyectos de infraestructura productiva a largo plazo. La inversión pública o privada de largo plazo, con el objeto de crear, desarrollar, mejorar, operar o mantener infraestructura pública o proveer servicios públicos a través de las Alianzas Productivas de Inversión o cualquier otra análoga, en términos de la Ley de la materia;
+UNO.- El presente documento es reglamentario de los Artículos 59 Fracción II, 76, 78 y 139 de la Ley Orgánica de los Municipios del Estado de Campeche, y deroga el anterior reglamento del ramo aprobado en sesión extraordinaria de cabildo de fecha dieciocho de diciembre de mil novecientos ochenta y siete y publicado en el Periódico Oficial del Gobierno del Estado de fecha veintinueve del mismo mes y año.
 
-XLIX. Proyectos de inversión: Las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura;
+DOS.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-L. Ramo: La previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
+Aprobado por el H. Cabildo en sesión extraordinaria celebrada el día dieciséis de marzo de mil novecientos ochenta y ocho.
 
-LI. Ramos administrativos: Los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a las dependencias y en su caso entidades;
+El Presidente Municipal
 
-LII. Ramos autónomos: Los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a los poderes Legislativo y Judicial y a los entes autónomos;
+C. JOSE MEDINA MALDONADO.
 
-LIII. Ramos generales: Los ramos cuya asignación de recursos se prevé en el Presupuesto de Egresos derivada de disposiciones legales o por disposición expresa del titular del Ejecutivo en el Presupuesto de Egresos, que no corresponden al gasto directo de las dependencias, aunque su ejercicio esté a cargo de éstas;
+PRIMER REGIDOR:
 
-LIV. Reglamento: El Reglamento de la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo,
+Profr. Raúl Puch Kantún.
 
-LV. Reglas de operación: Las disposiciones a las cuales se sujetan determinados programas y fondos federales y estatales con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+SEGUNDO REGIDOR
 
-LVI. Remuneraciones: La retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
+Profra. Dolores de la Rosa E.
 
-LVII. Requerimientos financieros del sector público: Las necesidades de financiamiento para alcanzar los objetivos de las políticas públicas tanto del gobierno estatal y las entidades del sector público estatal, como de las entidades del sector privado y social que actúan por cuenta del gobierno estatal;
+TERCER REGIDOR:
 
-LVIII. Responsabilidad Hacendaria: La observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso del Estado;
+C. Luis H. Novelo Pérez. C.
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2023)</small>
+CUARTO REGIDOR:
 
-LIX. Secretaría: La Secretaría de Hacienda;
+C. José J. Sánchez González.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+QUINTO REGIDOR:
 
-LX. Unidad de Planeación: La Unidad de Planeación y Prospectiva;
+C. Guillermo Medina Rubio.
 
-LXI. Sistema Estatal de Evaluación del Desempeño (SEED): El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+SEXTO REGIDOR:
 
-LXII. Subejercicio de gasto: Las disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
+C. Santiago Tucuch Kantún.
 
-LXIII. Subsidios: Las asignaciones de recursos previstas en el Presupuesto de Egresos que, a través de las dependencias y entidades, se otorgan a los diferentes sectores de la sociedad, a los municipios para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
+SEPTIMO REGIDOR:
 
-LXIV. Transferencias: Las asignaciones de recursos previstas en los presupuestos de las dependencias, destinadas a las entidades bajo su coordinación sectorial o en su caso, a los órganos administrativos desconcentrados, para sufragar los gastos de operación y de capital, incluyendo el déficit de operación y los gastos de administración asociados al otorgamiento de subsidios, así como las asignaciones para el apoyo de programas de las entidades vinculados con operaciones de inversión financiera o para el pago de intereses, comisiones y gastos, derivados de créditos contratados;
+C. Laura Escalante Canto.
 
-LXV. Unidad responsable: El área administrativa de los poderes Legislativo y Judicial, los entes autónomos, las dependencias y, en su caso, las entidades, que estén obligadas a la rendición de cuentas sobre los recursos humanos, materiales y financieros que administren para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al ramo o entidad; y
+OCTAVO REGIDOR:
 
-LXVI. Unidades de administración: Los órganos, unidades administrativas, tesorerías o sus equivalentes de los ejecutores de gasto, establecidos en los términos de sus respectivas leyes orgánicas, encargados de desempeñar las funciones a que se refiere el último párrafo del artículo 4 de esta Ley;
+Francisco G. Quijano Cabrilla.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+SINDICO DE HACIENDA:
 
-Los conceptos utilizados en la presente Ley que requieran ser precisados deberán incluirse en el Reglamento. Adicionalmente, serán aplicables los señalados en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás normatividad aplicable en la materia.
+C. CP. Elena A. Pech Ramírez.
 
-###### Artículo 3.
+SINDICO DE ASUNTOS JURIDICOS:
 
-La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo del Estado, corresponde a la Secretaría y la Contraloría en el ámbito de sus respectivas atribuciones. En todo lo no previsto por esta Ley, se aplicarán de manera supletoria la Ley Estatal del Procedimiento Administrativo y el Código Fiscal del Estado.
+Lic. Guillermo Cisneros Lara.
 
-Las dependencias y entidades deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría en el ámbito de sus respectivas atribuciones, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los poderes Legislativo y Judicial y de los entes autónomos, sus respectivas unidades de administración podrán establecer las disposiciones generales correspondientes, de conformidad a lo establecido en esta Ley.
+El Secretario
 
-Las disposiciones generales a que se refiere el párrafo anterior deberán publicarse en el Periódico Oficial.
-
-###### Artículo 4.
-
-El gasto público comprende las erogaciones por concepto de gasto corriente, incluyendo los pagos de pasivo de la deuda pública; inversión física; inversión financiera; así como responsabilidad patrimonial; que realizan los siguientes ejecutores de gasto:
-
-I. El Poder Legislativo;
-
-II. El Poder Judicial;
-
-III. Los entes autónomos;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-IV. El Poder Ejecutivo, sus dependencias y entidades;
-
-V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
-
-VI. Los municipios.
-
-Los ejecutores de gasto antes mencionados, están obligados a rendir cuentas por la administración de los recursos públicos en los términos de la presente Ley y demás disposiciones aplicables.
-
-Las disposiciones presupuestarias y administrativas fortalecerán la operación y la toma de decisiones de los ejecutores de gasto, procurando que exista un adecuado equilibrio entre el control, el costo de la fiscalización, el costo de la implantación y la obtención de resultados en los programas y proyectos.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Los ejecutores de gasto contarán con una unidad de administración, encargada de planear, programar, presupuestar, en su caso establecer medidas para la administración interna, controlar y evaluar sus actividades respecto al gasto público.
-
-###### Artículo 5.
-
-La autonomía presupuestaria otorgada a los ejecutores de gasto a través de la Constitución Política del Estado de Hidalgo, o en su caso, de disposición expresa en las leyes de su creación, comprende:
-
-I. En el caso de los poderes Legislativo y Judicial y los entes autónomos, conforme a las respectivas disposiciones constitucionales, las siguientes atribuciones:
-
-a) Aprobar sus proyectos de presupuesto y enviarlos a la Secretaria para su integración al proyecto de Presupuesto de Egresos, observando las directrices de la planeación del desarrollo;
-
-b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la Contraloría. Dicho ejercicio deberá realizarse con base en los principios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad entre mujeres y hombres y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
-
-c) Autorizar las adecuaciones a sus presupuestos sin requerir la autorización de la Secretaría, observando las disposiciones de esta Ley;
-
-d) Realizar sus pagos a través de sus respectivas tesorerías o sus equivalentes;
-
-e) Determinar los ajustes que correspondan en sus presupuestos en caso de disminución de ingresos; y
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-f) Llevar la contabilidad y elaborar sus informes conforme a lo previsto en esta Ley, la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; así como enviarlos a la Secretaría para su integración a los informes trimestrales y a la Cuenta Pública;
-
-II. En el caso de las Entidades, conforme a las respectivas disposiciones contenidas en las leyes o decretos de su creación:
-
-a) Aprobar sus anteproyectos de presupuesto y enviarlos a la Secretaría para su integración al proyecto de Presupuesto de Egresos, observando los lineamientos que en materia de ingreso-gasto sean establecidos por el Ejecutivo del Estado a través de la Secretaría;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-b) Ejercer sus presupuestos observando lo dispuesto en esta Ley y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sujetándose a las disposiciones generales que correspondan, emitidas por la Secretaría y la Contraloría. Dicho ejercicio deberá realizarse con base en los principios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad entre mujeres y hombres y estará sujeto a la evaluación y el control de los órganos correspondientes;
-
-c) Autorizar las adecuaciones a sus presupuestos sin requerir la autorización de la Secretaría, siempre y cuando no rebasen el techo global de su flujo de efectivo aprobado en el Presupuesto de Egresos; y
-
-d) Ejercer las atribuciones a que se refieren los incisos d) e) y f) de la fracción anterior;
-
-III. En el caso de los órganos administrativos desconcentrados con autonomía presupuestaria por disposición de Ley o Decreto de Creación comprende las siguientes atribuciones:
-
-a) Aprobar sus anteproyectos de presupuesto y enviarlos a la Secretaría, por conducto de la dependencia a la que se encuentren adscritos, para su integración al proyecto de Presupuesto de Egresos, observando los lineamientos que en materia de ingreso-gasto sean establecidos por el Ejecutivo del Estado a través de la Secretaría;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-II (SIC). Ejercer los recursos que les correspondan conforme a lo aprobado en el Presupuesto de Egresos y a lo dispuesto en esta Ley y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y
-
-c) Ejercer las atribuciones a que se refieren los incisos d), e) y f) de la fracción I del presente artículo.
-
-Los ejecutores de gasto público que cuenten con autonomía presupuestaria deberán sujetarse a lo previsto en esta Ley y a las disposiciones específicas contenidas en las leyes o decretos de su creación, sujetándose al margen de autonomía establecido en este artículo;
-
-IV. Los municipios ejercerán los recursos obtenidos de conformidad con su Ley de Ingresos en términos de lo dispuesto en su Presupuesto de Egresos y lo conducente y aplicable de esta Ley, y en todo caso:
-
-a) Ejercerán las atribuciones a que se refieren los incisos d) y e) de la fracción I del presente artículo;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-II (SIC). Llevarán la contabilidad y elaborarán sus informes conforme a lo previsto en esta Ley, la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como su integración a los informes trimestrales y la Cuenta Pública Municipal; y
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-c) Presentarán por escrito, en forma trimestral al Congreso del Estado, por conducto de la AuditoríaSuperior (sic), dentro de los siete días hábiles siguientes a la conclusión de cada trimestre, los informes de gestión financiera debidamente sancionados por el Ayuntamiento, que contengan las erogaciones que hayan efectuado con base en su respectivo Presupuesto de Egresos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-###### Artículo 6.
-
-El Ejecutivo del Estado, por conducto de la Unidad de Planeación, estará a cargo de laplaneación (sic) y a través de la Secretaría, de la programación y presupuestación del gasto público correspondiente a las dependencias y entidades apegándose al Plan Estatal de Desarrollo. El control y la evaluación de dicho gasto corresponderán a la Secretaría y la Contraloría en el ámbito de sus respectivas competencias. Asimismo, la Contraloría realizará auditorías, e inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que ella emane, respecto de dicho gasto, de conformidad con el procedimiento que para tal efecto se establezca en el Reglamento.
-
-Los poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Unidad de Planeación y la Secretaría para efectos de la planeación, programación y presupuestación en los términos previstos en esta Ley, según corresponda conforme a sus facultades. El control y la evaluación de dicho gasto corresponderán a los órganos competentes, en los términos previstos en sus respectivas leyes orgánicas.
-
-###### Artículo 7.
-
-Las dependencias coordinadoras de sector orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto público de las entidades ubicadas bajo su coordinación.
-
-En el caso de las entidades no coordinadas, corresponderá a la Secretaría orientar y coordinar las actividades a que se refiere este artículo.
-
-###### Artículo 8.
-
-El Ejecutivo del Estado autorizará, por conducto de la Secretaría, la participación estatal en las empresas, sociedades y asociaciones, civiles o mercantiles, ya sea en su creación, para aumentar su capital o patrimonio o adquiriendo todo o parte de éstos en los términos de la Ley de Entidades Paraestatales del Estado de Hidalgo y demás ordenamientos aplicables.
-
-###### Artículo 9.
-
-Son fideicomisos públicos los que constituye el Gobierno del Estado, por conducto de la Secretaría en su carácter de fideicomitente único de la administración pública centralizada o las entidades, con el propósito de auxiliar al Ejecutivo del Estado en sus atribuciones para impulsar las áreas prioritarias y estratégicas del desarrollo. Asimismo, son fideicomisos públicos aquéllos que constituyan los poderes Legislativo y Judicial y los entes autónomos a los que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos.
-
-Los fideicomisos públicos que constituya el Gobierno del Estado serán considerados entidades en términos de lo dispuesto por la Ley Orgánica de la Administración Pública y la Ley de las Entidades Paraestatales, ambas del Estado de Hidalgo, podrán constituirse o incrementar su patrimonio con autorización del Ejecutivo del Estado, emitida por conducto de la Secretaría, la que en su caso, propondrá al Ejecutivo del Estado la modificación o extinción de los mismos cuando así convenga al interés público.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Los fideicomisos públicos no considerados entidades sólo podrán constituirse con la previa autorización de la Secretaría en los términos del Reglamento. Quedan exceptuados de esta autorización aquellos fideicomisos que constituyan el Poder Legislativo, Judicial y los entes autónomos. En el ámbito municipal la constitución de fideicomisos requerirá la previa autorización del Ayuntamiento.
-
-Las dependencias y entidades sólo podrán otorgar recursos públicos a fideicomisos observando lo siguiente:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-I. Con la previa autorización del titular del Ejecutivo del Estado a través de la Secretaría; y
-
-II. A través de las partidas específicas que para tales fines prevea el clasificador por objeto del gasto.
-
-La unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos o que coordine su operación será responsable de reportar en los informes trimestrales, conforme lo establezca el Reglamento, los ingresos, incluyendo rendimientos financieros del periodo, egresos, así como su destino y el saldo.
-
-Los fideicomisos públicos que tengan como objeto principal financiar programas y proyectos de inversión deberán sujetarse a las disposiciones generales en la materia que corresponda.
+Lic. Hernán Aranda González.
 
 ###### Artículo 10.
 
@@ -479,9 +297,7 @@ La Secretaría resolverá las solicitudes sobre autorizaciones en materia presup
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO II. Del Balance Presupuestario y de los Principios de Responsabilidad Hacendaria
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+### CAPITULO II. DEL GOBIERNO DE LOS SECTORES
 
 ###### Artículo 16.
 
@@ -691,7 +507,7 @@ Los subejercicios de los presupuestos de las dependencias y entidades que result
 
 ## TÍTULO SEGUNDO. De la Planeación, Programación, Presupuestación y Aprobación
 
-### CAPÍTULO I. De la Planeación
+### CAPITULO III. DE LA INTEGRACION DE LAS DELEGACIONES
 
 ###### Artículo 24.
 
@@ -699,7 +515,7 @@ La planeación, consiste en la definición por parte de las dependencias y entid
 
 El proceso de planeación integrado a la programación y presupuestación, tiene como finalidad orientar el gasto público a la atención de los programas emanados del Plan Estatal de Desarrollo, a fin de garantizar el uso eficiente de los recursos en cada uno de los poderes Legislativo y Judicial, entes autónomos, dependencias y entidades.
 
-### CAPÍTULO II. De la Programación y Presupuestación
+### CAPITULO IV. DE LAS FUNCIONES DEL DELEGADO DE SECTOR
 
 ###### Artículo 25.
 
