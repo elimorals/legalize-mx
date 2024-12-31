@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-420-162710"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-27"
-last_updated: "2023-12-29"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
 
 Código publicado en la Edición Número 103 del Alcance V del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2022.
 
@@ -578,6 +578,10 @@ El crédito fiscal es la cantidad líquida, determinada, a la que tiene derecho 
 También se considerará como crédito fiscal las cuotas obrero patronales a favor del Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, a las cuales se aplicarán las disposiciones que regulan el cobro de dicho crédito fiscal.
 
 Así mismo tendrán la naturaleza de crédito fiscal, los montos que se deriven del incumplimiento de los contratos de obras públicas, asignados por el Estado a particulares, a fin de resarcir el perjuicio que por dicho incumplimiento se le ocasione; a tales montos para su recuperación, les serán aplicadas las disposiciones que regulan el procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Las autoridades administrativas o judiciales, que soliciten el cobro coactivo de créditos y multas de carácter no fiscal, deberán cumplir los requisitos que señalen las autoridades fiscales, con la finalidad de contar con la información necesaria para realizar el requerimiento de cumplimiento del pago respectivo.
 
 ###### Artículo 40.
 
@@ -2371,7 +2375,9 @@ Para proceder penalmente por los delitos previstos en este Código será necesar
 
 Para la procedencia de los delitos tipificados en los artículos 137 y 143 se requerirá querella de la Secretaría de Finanzas y Administración.
 
-En los procesos por los delitos fiscales, se sobreseerán a petición de la Secretaría de Finanzas y Administración, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público presente escrito de acusación ante el Juez competente y surtirá efectos respecto de las personas a que la misma se refiera.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+En los procesos por los delitos fiscales, la Secretaría de Finanzas y Administración, podrá solicitar la aplicación de soluciones alternas antes de que el Ministerio Público presente escrito de acusación ante la Jueza o Juez de Control competente, cuando las personas imputadas paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. El acuerdo surtirá efectos respecto de las personas a que lo suscriban.
 
 En los demás casos no previstos en los párrafos anteriores, bastará la denuncia de los hechos ante el Ministerio Público.
 
@@ -2423,9 +2429,11 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictiva e identidad de disposición legal, incluso de diversa gravedad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 135.
 
-En todo lo previsto en el presente Capítulo serán aplicables las reglas señaladas en el Código de Procedimientos Penales para el Estado de Guerrero.
+En todo lo previsto en el presente Capítulo serán aplicables las reglas señaladas en el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 136.
 
@@ -2467,9 +2475,11 @@ A los sujetos que lleven a cabo la conducta delictiva descrita en la presente di
 
 Cuando un particular o un servidor público, coopere o participe en cualquier forma a la comisión de los delitos que anteceden, se les sancionará al primero con prisión de seis meses a tres años y al segundo se le impondrá de uno a cinco años de prisión.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
 ###### Artículo 142.
 
-Para la comprobación de los delitos previstos en los artículos 139 y 140, se deberá recabar desde la averiguación previa, un dictamen de peritos designados en los términos que señala el Código de Procedimientos Penales del Estado de Guerrero pudiéndose escuchar al afecto la opinión de la Secretaría de Finanzas y Administración.
+Para la comprobación de los delitos previstos en los artículos 139 y 140, se deberá integrar a la Carpeta de Investigación, un dictamen de personas peritas en la materia, para en su caso, ser presentado como elemento de prueba en los términos que señala el Código Nacional de Procedimientos Penales, pudiéndose escuchar al afecto, la opinión de la Secretaría de Finanzas y Administración.
 
 ###### Artículo 143.
 
@@ -2681,11 +2691,13 @@ No satisfecho o garantizado un crédito a favor del erario del Estado dentro del
 
 En ningún caso se aplicará el procedimiento administrativo de ejecución, para cobrar créditos derivados por concepto de productos.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 159 Bis.
 
-La Dirección General de Cobro Coactivo y Vigilancia de la Secretaría de Finanzas y Administración, en el ejercicio de sus facultades emplearán el procedimiento administrativo de ejecución para hacer efectivo los créditos y multas de carácter no fiscal, a las autoridades administrativas federales y estatales, así como infractores domiciliados dentro de la circunscripción territorial del estado de Guerrero.
+Las autoridades de Cobro Coactivo señaladas en las fracciones VI, VII y X del artículo 11 de este Código, en el ejercicio de sus facultades implementarán el procedimiento administrativo de ejecución para hacer efectivo los créditos y multas de carácter no fiscal, a las autoridades administrativas federales y estatales, así como infractores domiciliados dentro de la circunscripción territorial del estado de Guerrero.
+
+Las autoridades que soliciten la colaboración a las autoridades de Cobro Coactivo, deberán remitir el documento que determine el crédito fiscal o la multa de carácter no fiscal, junto con su constancia de notificación, ya sea en original, en copia certificada o en formato digital con firma electrónica de la funcionaria o funcionario autorizado. Dichos documentos deberán cumplir con los requisitos de integridad y autoría. El plazo para realizar este trámite será de un máximo de un año, contado a partir de la fecha en que el crédito se torne firme y no haya sido pagado ni garantizado. Además, deberán observarse los requisitos establecidos en los lineamientos que emita la Secretaría de Finanzas y Administración.
 
 ###### Artículo 160.
 
@@ -2715,7 +2727,9 @@ I. Por el requerimiento señalado en el primer párrafo del artículo 173 de est
 
 II. Por la de remate, enajenación fuera de remate o adjudicación al Fisco estatal.
 
-Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior a una Unidad de Medida y Actualización, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
+
+Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior a $560.00 (Quinientos sesenta pesos 00/100 M.N.), se cobrará esta cantidad en vez del 2% del crédito.
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán excederse de la cantidad equivalente a dos Unidades de Medida y Actualización elevadas al año.
 
@@ -3594,3 +3608,17 @@ TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y So
 CUARTO. Los asuntos en trámite y los recursos de revocación que se encuentren pendientes por resolver a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones con que se iniciaron.
 
 QUINTO. Los créditos fiscales generados antes de la vigencia del presente Decreto pero que aún no se hayan notificado se sujetarán a las disposiciones y ordenamientos legales aplicables en el momento en que se generaron.
+
+P.O. 31 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 201 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para su conocimiento general.
+
+CUARTO. Los asuntos en trámite y los recursos de revocación que se encuentren pendientes por resolver a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones con que se iniciaron.
+
+QUINTO. Los créditos fiscales generados antes de la vigencia del Código Fiscal del Estado de Guerrero Número 420, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, de fecha 27 de diciembre del 2022, pero que aún no se hayan notificado se sujetarán a las disposiciones y ordenamientos legales aplicables en el momento en que se generaron.
