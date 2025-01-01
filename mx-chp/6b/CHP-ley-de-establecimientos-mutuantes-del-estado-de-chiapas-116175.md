@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-establecimientos-mutuantes-del-estado-de-chiapas-116175"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2021-01-20"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ESTABLECIMIENTOS MUTUANTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Chiapas, el 4 de mayo de 2016.
 
@@ -53,15 +53,19 @@ Son sujetos de la presente Ley, las personas físicas o morales que instalen est
 
 Los sujetos de la presente Ley deberán contar con el permiso correspondiente, de conformidad con lo establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2025)</small>
+
 ###### Artículo 3°.
 
-La interpretación y aplicación de las disposiciones contenidas en esta Ley, corresponde a la Secretaría de Hacienda.
+La interpretación y aplicación de las disposiciones contenidas en esta Ley, corresponde a la Secretaría de Finanzas.
 
 ###### Artículo 4°.
 
 En aquello no previsto en esta Ley, se aplicará supletoriamente el Código de la Hacienda Pública para el Estado de Chiapas, la Ley del (sic) Procedimientos Administrativos para el Estado de Chiapas, el Código Civil y el de Procedimientos Civiles del Estado de Chiapas.
 
-La Secretaría de Hacienda emitirá Reglas de Carácter General para regular los procedimientos que se deriven de la presente Ley.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2025)</small>
+
+La Secretaría de Finanzas emitirá Reglas de Carácter General para regular los procedimientos que se deriven de la presente Ley.
 
 ###### Artículo 5°.
 
@@ -75,15 +79,21 @@ III. Establecimiento Mutuante.- Inmueble en el que se ofertan y/o suscriben cont
 
 IV. Ley.- Ley de Establecimientos Mutuantes del Estado de Chiapas.
 
-V. Permisionario.- Persona física o moral que cuenta con la autorización de la Secretaría de Hacienda para operar o instalar un establecimiento mutuante.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2025)</small>
 
-VI. Permiso.- Autorización que otorga la Secretaría de Hacienda para la instalación y el funcionamiento de un establecimiento mutuante.
+V. Permisionario.- Persona física o moral que cuenta con la autorización de la Secretaría de Finanzas para aperturar, operar o instalar un establecimiento mutuante.
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2025)</small>
+
+VI. Permiso.- Autorización que otorga la Secretaría de Finanzas para la apertura, instalación y el funcionamiento de un establecimiento mutuante.
 
 VII. Peticionario.- Persona física o moral que conforme a la Ley solicite la expedición, revalidación o modificación de un permiso.
 
 VIII. Refrendo.- Acto mediante el cual el deudor, una vez realizado el pago de los intereses devengados y el costo del almacenaje, prorroga el contrato de mutuo.
 
-IX. Secretaría.- A la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2025)</small>
+
+IX. Secretaría.- A la Secretaría de Finanzas.
 
 X. Verificación.- Procedimiento que realiza la Secretaría con la finalidad de comprobar el cumplimiento de lo dispuesto en la presente Ley.
 
@@ -358,3 +368,11 @@ P.O. 20 DE ENERO DE 2021.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 1 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 057 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ESTABLECIMIENTOS MUTUANTES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinticinco.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
