@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-loteria-nacional-154113"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-01-18"
-last_updated: "2024-01-11"
+last_updated: "2025-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-12-24"
 
 ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2025.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 18 de enero de 2022.
 
@@ -91,7 +91,9 @@ III. Las Unidades Administrativas;
 
 IV. El Órgano de Vigilancia; y
 
-V. El Órgano Interno de Control.
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+V. El Órgano Interno de Control Específico.
 
 ###### Artículo 4.
 
@@ -133,7 +135,9 @@ XI. Ley General de Transparencia: La Ley General de Transparencia y Acceso a la 
 
 XII. Manual General de Organización: El instrumento normativo que precisa la información relacionada con la Estructura Orgánica autorizada para la Entidad, en términos de las funciones detalladas para cada una de sus Unidades Administrativas;
 
-XIII. Órgano Interno de Control: El Órgano Interno de Control en la Entidad;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XIII. Órgano Interno de Control Específico: El Órgano Interno de Control Específico en la Entidad;
 
 XIV. TIC: Las Tecnologías de la Información y Comunicaciones, y
 
@@ -185,9 +189,11 @@ VI. Jefaturas de Departamento, y
 
 VII. Sus homólogos o equivalentes.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 13.
 
-La Entidad contará con un Órgano Interno de Control que se regirá conforme el artículo 44 del presente Estatuto y demás disposiciones aplicables.
+La Entidad contará con un Órgano Interno de Control Específico que se regirá conforme el artículo 44 del presente Estatuto y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DEL CONSEJO DIRECTIVO
 
@@ -237,15 +243,19 @@ Además de los integrantes anteriormente mencionados asistirán a las sesiones d
 
 I. La persona titular de la Dirección General.
 
-II. Una persona con el carácter de Comisario Público, designado por la Secretaría de la Función Pública;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+II. Una persona con el carácter de Comisario Público, designado por la Secretaría Anticorrupción y Buen Gobierno;
 
 III. Una persona con el carácter de Secretario, designado por el Consejo a propuesta de quien ejerza su Presidencia, y
 
 IV. Una persona con el carácter de Prosecretario designado por el Consejo, a propuesta de la o el titular de la Dirección General, conforme a lo dispuesto en la Ley Federal de las Entidades Paraestatales y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 23.
 
-Los miembros del Consejo podrán designar un suplente del grado jerárquico administrativo inmediato inferior, con nivel mínimo de Director General, acorde con la norma aplicable. Asimismo, la persona designada como Comisario Público del Órgano de Vigilancia del Consejo contará con un Suplente designado por la Secretaría de la Función Pública.
+Los miembros del Consejo podrán designar un suplente del grado jerárquico administrativo inmediato inferior, con nivel mínimo de Director General, acorde con la norma aplicable. Asimismo, la persona designada como Comisario Público del Órgano de Vigilancia del Consejo contará con un Suplente designado por la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### Artículo 24.
 
@@ -267,7 +277,9 @@ I. Formular de acuerdo con la persona que Presida el Consejo, el orden del día 
 
 II. Someter para aprobación de los miembros del Consejo el orden del día en cada sesión;
 
-III. Integrar y enviar a las y los integrantes del Consejo y al Comisario Público designado por la Secretaría de la Función Pública, la convocatoria de la sesión a celebrarse, acompañada del orden del día y la documentación correspondiente;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+III. Integrar y enviar a las y los integrantes del Consejo y al Comisario Público designado por la Secretaría Anticorrupción y Buen Gobierno, la convocatoria de la sesión a celebrarse, acompañada del orden del día y la documentación correspondiente;
 
 IV. Dar cuenta al Consejo de los asuntos, la correspondencia y demás documentos en cartera;
 
@@ -319,7 +331,9 @@ III. Someter a consideración del Consejo, para su aprobación:
 
 a) Los proyectos de Estatuto, reglamentos y disposiciones normativas que deban ser aprobadas por el Consejo;
 
-b) Los Informes de gestión y las opiniones emitidas por el Comisario Público de la Secretaría de la Función Pública a los Informes de Autoevaluación;
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
+b) Los Informes de gestión y las opiniones emitidas por el Comisario Público de la Secretaría Anticorrupción y Buen Gobierno a los Informes de Autoevaluación;
 
 c) La creación y constitución de reservas;
 
@@ -355,7 +369,9 @@ XIII. Nombrar y remover a los servidores públicos de la Entidad, en los casos q
 
 XIV. Expedir copias certificadas de los documentos, así como emitir constancias de la información que se encuentre en los medios magnéticos o electrónicos, que obren en los archivos a su cargo, a través del servidor público que designe;
 
-XV. Atender las observaciones y/o recomendaciones del Órgano Interno de Control, así como las solicitudes y requerimientos de otras instancias gubernamentales judiciales o de fiscalización, y
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XV. Atender las observaciones y/o recomendaciones del Órgano Interno de Control Específico, así como las solicitudes y requerimientos de otras instancias gubernamentales judiciales o de fiscalización, y
 
 XVI. Las demás facultades que le confiera la Ley Federal de las Entidades Paraestatales, su Reglamento, el Decreto de Creación y sus modificaciones, el Consejo, este Estatuto, así como las demás disposiciones que resulten aplicables.
 
@@ -401,9 +417,13 @@ IX. Proponer a la persona titular de la Dirección General los proyectos de regl
 
 X. Vigilar las acciones para el cumplimiento de los objetivos establecidos en los programas institucionales y transversales de la Administración Pública Federal; así como, las acciones de mejora en materia de control interno y acciones de control en materia de administración de riesgos, en el ámbito de su competencia;
 
-XI. Proporcionar los datos e informes que disponga la normatividad y que le sean solicitados por la Dirección General, o por otras Unidades Administrativas, instituciones y autoridades facultadas, el Órgano Interno de Control y cualquier autoridad administrativa o jurisdiccional, siempre y cuando dicha información se encuentre dentro del ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
 
-XII. Conducir a las áreas a su cargo en la atención a las auditorías, solicitudes, observaciones y recomendaciones emitidas por el Órgano Interno de Control, la Secretaría de la Función Pública, la Auditoría Superior de la Federación, así como otras instancias gubernamentales o fiscalizadoras respecto de su actuar;
+XI. Proporcionar los datos e informes que disponga la normatividad y que le sean solicitados por la Dirección General, o por otras Unidades Administrativas, instituciones y autoridades facultadas, el Órgano Interno de Control Específico y cualquier autoridad administrativa o jurisdiccional, siempre y cuando dicha información se encuentre dentro del ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XII. Conducir a las áreas a su cargo en la atención a las auditorías, solicitudes, observaciones y recomendaciones emitidas por el Órgano Interno de Control Específico, la Secretaría Anticorrupción y Buen Gobierno, la Auditoría Superior de la Federación, así como otras instancias gubernamentales o fiscalizadoras respecto de su actuar;
 
 XIII. Atender y dar respuesta a las solicitudes de acceso a la información, de protección de datos personales y denuncias por incumplimiento a las obligaciones de transparencia que en el ámbito de su competencia le requiera la Unidad de Transparencia, así como participar en las sesiones del Comité de Transparencia cuando sea solicitado;
 
@@ -461,7 +481,9 @@ XII. Aprobar los modelos y proyectos de convenios, contratos, acuerdos, y demás
 
 XIII. Validar jurídicamente, a solicitud de la Unidad Administrativa correspondiente y previo a su formalización, los convenios, contratos, acuerdos, y demás instrumentos jurídicos, que suscriba la Entidad;
 
-XIV. Emitir y difundir opiniones y criterios fundados y motivados de carácter legal sobre la interpretación y aplicación de las normas jurídicas que regulan las actividades y funcionamiento de la Entidad, que soliciten las personas titulares de la Dirección General o de las Unidades Administrativas, con motivo del desempeño de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XIV. Emitir y difundir opiniones y criterios fundados y motivados de carácter legal sobre la interpretación y aplicación de las normas jurídicas que regulan las actividades y funcionamiento de la Entidad, que soliciten las personas titulares de la Dirección General o de las Unidades Administrativas, con motivo del desempeño de sus atribuciones; así como formular las opiniones técnicas y jurídicas de los dictámenes con causal de irrecuperabilidad de conformidad con la normativa vigente y aplicable en beneficio de los intereses de la Entidad;
 
 XV. Coordinar la compilación de las disposiciones jurídicas, así como sus modificaciones, que se publiquen en el DOF, como son Decreto de Creación, Estatuto Orgánico, Reglamentos, así como Políticas, Bases y Lineamientos, con la finalidad de mantener actualizado el marco normativo aplicable;
 
@@ -537,7 +559,9 @@ XXIII. Coordinar las acciones relativas al control del almacén, así como del i
 
 XXIV. Coordinar los servicios médicos para los derechohabientes de la Entidad dentro del marco normativo vigente;
 
-XXV. Emitir las políticas necesarias y coordinar los procesos de programación, presupuestación, de tesorería y contables de la Entidad, así como representarla ante las secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos relacionados a dichos procesos;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XXV. Emitir las políticas necesarias y coordinar los procesos de programación, presupuestación, de tesorería y contables de la Entidad, así como representarla ante las secretarías de Hacienda y Crédito Público, y Anticorrupción y Buen Gobierno en asuntos relacionados a dichos procesos;
 
 XXVI. Integrar y proponer a la persona titular de la Dirección General el Programa de Desarrollo Institucional Anual, para su aprobación por el Consejo;
 
@@ -577,7 +601,9 @@ I. Establecer y diseñar los planes, programas, políticas y estrategias de come
 
 II. Determinar y establecer las políticas y procesos de la celebración de los juegos, concursos, sorteos y eventos de la Entidad bajo las más estrictas condiciones de legalidad, objetividad, eficiencia, profesionalismo, honradez, seguridad, transparencia y austeridad, en estricto apego a la normatividad y legislación aplicable;
 
-III. Elaborar y presentar a la persona titular de la Dirección General el calendario de sorteos que corresponda para someterlo a autorización del Consejo;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+III. Elaborar y presentar a la persona titular de la Dirección General el calendario de sorteos tradicionales que corresponda para someterlo a autorización del Consejo;
 
 IV. Vigilar la elaboración, resguardo y administración de las actas, anexos, videograbaciones y demás información relativa, junto con sus medios de almacenaje, ya sea físico o electrónico, de los diferentes juegos, concursos, sorteos y eventos que celebra la Entidad;
 
@@ -597,9 +623,13 @@ XI. Asegurar la debida capacitación a los titulares de agencias, organismos de 
 
 XII. Proponer a la Dirección General, en coordinación con las demás áreas vinculadas con la operación y venta, la expedición, actualización y modificación del marco normativo que regula la actuación y operación de los comercializadores, organismos de venta y cualquier otro medio de comercialización, a fin de favorecer una mayor eficiencia, transparencia, rentabilidad y austeridad para el cumplimiento de metas y objetivos establecidos;
 
-XIII. Autorizar el diseño de impresión de Billetes de lotería, en tiempo y forma, de conformidad con el calendario de sorteos;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
 
-XIV. Aprobar la logística para la distribución de Billetes de lotería, conforme al calendario de sorteos, con el objeto de garantizar la entrega oportuna de las dotaciones a los comercializadores, organismos de venta y cualquier otro medio de comercialización.
+XIII. Autorizar el diseño de impresión de Billetes de lotería, en tiempo y forma, de conformidad con el calendario de sorteos tradicionales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XIV. Aprobar la logística para la distribución de Billetes de lotería, conforme al calendario de sorteos tradicionales, con el objeto de garantizar la entrega oportuna de las dotaciones a los comercializadores, organismos de venta y cualquier otro medio de comercialización.
 
 XV. Proponer las mejores y más eficientes prácticas en materia de garantías de pago y del manejo de la tecnología que permitan a la Entidad obtener una comercialización de sus productos, servicios y actividades, posibilitándole el incremento en sus ingresos;
 
@@ -629,7 +659,9 @@ IX. En materia de mercadotecnia, proporcionar oportunamente los materiales, herr
 
 X. Encabezar la política de contratos y convenios de colaboración para la comercialización de los productos, servicios y actividades a los comercializadores, organismos de venta y cualquier otro medio de comercialización a nivel nacional o internacional, así como representar a la Entidad, por sí o a través del área que tenga a su cargo los negocios corporativos y las relaciones institucionales;
 
-XI. Suscribir los contratos, convenios y demás actos jurídicos, previa validación desde el ámbito jurídico, de la Subdirección General de Asuntos Jurídicos, con prestadores de servicios de publicidad y mercadotecnia, así como de todos aquellos asuntos relacionados con las facultades y actividades de la Subdirección;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XI. Suscribir los contratos, convenios y demás actos jurídicos, con prestadores de servicios de publicidad y mercadotecnia, así como de todos aquellos asuntos relacionados con las facultades y actividades de la Subdirección;
 
 XII. Colaborar con la Subdirección General de Ventas y Operaciones en la capacitación a los titulares de agencias, organismos de venta y cualquier otro medio de comercialización respecto a los nuevos productos, servicios y actividades;
 
@@ -745,23 +777,31 @@ XXXI. Las demás que deriven de la normativa aplicable en la materia y las que d
 
 ### CAPÍTULO VII. DEL ÓRGANO DE VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 41.
 
-El Órgano de Vigilancia de la Entidad estará integrado por un Comisario Público propietario y un Comisario suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz, pero sin voto a las sesiones del Consejo y Comités y subcomités técnicos especializados.
+El Órgano de Vigilancia de la Entidad estará integrado por un Comisario Público propietario y un Comisario suplente, designados por la Secretaría Anticorrupción y Buen Gobierno, quienes asistirán con voz, pero sin voto a las sesiones del Consejo y Comités y subcomités técnicos especializados.
 
 Las personas designadas como Comisarios Públicos vigilarán y evaluarán el desempeño y operación general de la Entidad y tendrán las atribuciones contenidas en la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables.
 
 Para el cumplimiento de las funciones citadas, el Consejo y la persona titular de la Dirección General deberán proporcionar la información que solicite el Comisario Público.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 42.
 
-Las personas que funjan como Comisarios Públicos tendrán las facultades y obligaciones consignadas en los artículos 60 de la Ley Federal de las Entidades Paraestatales; 36 del Reglamento Interior de la Secretaría de la Función Pública, y las que les señale expresamente dicha Secretaría, en el ámbito de su competencia y las demás inherentes a su función.
+Las personas que funjan como Comisarios Públicos tendrán las facultades y obligaciones consignadas en los artículos 60 de la Ley Federal de las Entidades Paraestatales; 92 del Reglamento Interior de la Secretaría de la Función Pública, y las que les señale expresamente dicha Secretaría, en el ámbito de su competencia y las demás inherentes a su función.
 
-### CAPÍTULO VIII. DEL ÓRGANO INTERNO DE CONTROL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ENERO DE 2025)</small>
+
+### CAPÍTULO VIII. DEL ÓRGANO INTERNO DE CONTROL ESPECÍFICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2025)</small>
 
 ###### Artículo 43.
 
-La Entidad contará con un Órgano Interno de Control, que estará a cargo de una persona titular designada en los términos de los artículos 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y 40 del Reglamento Interior de la Secretaría de la Función Pública, quien en ejercicio de sus facultades se auxiliará por las y los titulares de las áreas de:
+La Entidad contará con un Órgano Interno de Control Específico, que estará a cargo de una persona titular designada en los términos de los artículos 37, fracción XL, de la Ley Orgánica de la Administración Pública Federal y 98 del Reglamento Interior de la Secretaría de la Función Pública, quien en ejercicio de sus facultades se auxiliará por las y los titulares de las áreas de:
 
 I. Auditoría Interna, Desarrollo y Mejora de la Gestión Pública;
 
@@ -769,15 +809,21 @@ II. Quejas, Denuncias e Investigaciones, y
 
 III. Responsabilidades.
 
-Quienes serán designadas en los mismos términos que la persona titular del Órgano Interno de Control.
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
+Quienes serán designadas en los mismos términos que la persona titular del Órgano Interno de Control Específico.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
 
 ###### Artículo 44.
 
-Las personas titulares del Órgano Interno de Control, así como las y los servidores públicos referidos en el artículo anterior, dependerán jerárquica, y funcional de la Secretaría de la Función Pública y, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables.
+Las personas titulares del Órgano Interno de Control Específico, así como las y los servidores públicos referidos en el artículo anterior, dependerán jerárquica, y funcional de la Secretaría Anticorrupción y Buen Gobierno y, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
 
 ###### Artículo 45.
 
-Las ausencias de la persona titular del Órgano Interno de Control, así como de las y los titulares de las áreas que lo integran serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias de la persona titular del Órgano Interno de Control Específico, así como de las y los titulares de las áreas que lo integran serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
 ### CAPÍTULO IX. DE LOS COMITÉS Y SUBCOMITÉS
 
@@ -791,9 +837,11 @@ La Entidad contará, para apoyar el desempeño de sus funciones, con los comité
 
 Durante las ausencias de la persona titular de la Dirección General, el despacho y resolución de los asuntos correspondientes a la Entidad quedarán a cargo de las y los titulares de las Subdirecciones Generales en el ámbito de sus respectivas atribuciones, funciones y competencias.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 48.
 
-Las ausencias temporales y/o definitivas de las personas titulares de las Subdirecciones Generales, Direcciones (sic) área y Gerencias serán suplidas, para el despacho de los asuntos de su competencia, por las y los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad. En el caso de las ausencias definitivas, permanecerá la suplencia hasta en tanto no se nombre al o la servidora pública que reemplace y ocupe el puesto.
+Las ausencias temporales y/o definitivas de las personas titulares de las Subdirecciones Generales, Direcciones de área y Gerencias serán suplidas, para el despacho de los asuntos de su competencia, por las personas servidoras públicas de jerarquía inmediata inferior del área de su responsabilidad. En el caso de las ausencias definitivas, permanecerá la suplencia hasta en tanto no se nombre a la persona servidora pública que reemplace y ocupe el puesto.
 
 ### CAPÍTULO XI. DE LAS MODIFICACIONES AL ESTATUTO
 
@@ -815,11 +863,13 @@ TERCERO.- Se ordena la inscripción del presente Estatuto en el Registro Públic
 
 CUARTO.- Los asuntos que al momento de la entrada en vigor del presente Estatuto se encuentren en trámite por parte de una determinada Unidad Administrativa y que, conforme al mismo, en lo sucesivo, deban ser atendidos por otra distinta, deberán continuar con su desahogo y ser resueltos por aquella o aquellas que inicialmente conocieron de dichos asuntos; salvo que las Unidades Administrativas involucradas acuerden por escrito la transferencia de los asuntos entre ellas.
 
-QUINTO.- Los procesos, procedimientos, actos, actividades, asuntos, impugnaciones y recursos iniciados antes de la entrada en vigor del presente estatuto, por el Órgano Interno de Control en Lotería Nacional para la Asistencia Pública en proceso de desincorporación, por fusión, seguirán tramitándose hasta su conclusión por el Órgano Interno de Control en Lotería Nacional, como entidad fusionante, así mismo se continuará realizando todo lo inherente a la defensa jurídica ante las diversas instancias jurisdiccionales.
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2024)</small>
+QUINTO.- Los procesos, procedimientos, actos, actividades, asuntos, impugnaciones y recursos iniciados antes de la entrada en vigor del presente estatuto, por el Órgano Interno de Control en Lotería Nacional para la Asistencia Pública en proceso de desincorporación, por fusión, seguirán tramitándose hasta su conclusión por el Órgano Interno de Control Específico en Lotería Nacional, como entidad fusionante, así mismo se continuará realizando todo lo inherente a la defensa jurídica ante las diversas instancias jurisdiccionales.
 
-SEXTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna, en congruencia con el presente Estatuto, a más tardar el 31 de diciembre de 2024.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE ENERO DE 2025)</small>
+
+SEXTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna, en congruencia con el presente Estatuto, a más tardar el 31 de diciembre de 2025.
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
 
@@ -856,3 +906,9 @@ D.O.F. 11 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 18 DE ENERO DE 2022”.]
 
 Único.- Las presentes modificaciones al Estatuto Orgánico de Lotería Nacional entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DÍA 18 DE ENERO DE 2022”.]
+
+Único.– Las presentes modificaciones al Estatuto Orgánico de Lotería Nacional entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
