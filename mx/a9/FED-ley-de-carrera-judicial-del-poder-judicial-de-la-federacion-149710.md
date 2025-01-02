@@ -4,7 +4,7 @@ identifier: "FED-ley-de-carrera-judicial-del-poder-judicial-de-la-federacion-149
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2021-06-07"
+last_updated: "2025-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149710&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LCJPJF"
 ---
 # LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL D.O.F. DE 2 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2025 (ABROGADO).
 
 Ley publicada en el Número 5 del Diario Oficial de la Federación, el lunes 7 de junio de 2021.
 
@@ -897,3 +899,17 @@ DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JU
 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+D.O.F. 2 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE CARRERA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los concursos de oposición y procesos de selección iniciados con anterioridad a la entrada en vigor del presente Decreto, salvo aquellos que hayan sido celebrados para la designación de Titulares, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Tercero.- Los derechos laborales de las personas trabajadoras del Poder Judicial de la Federación serán respetados en su totalidad. Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el pago de pensiones complementarias, apoyos médicos y otras obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Quinto.- Se abroga la Ley de Carrera Judicial del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno.
