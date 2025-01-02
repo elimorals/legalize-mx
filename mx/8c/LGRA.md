@@ -4,7 +4,7 @@ identifier: "LGRA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-07-18"
-last_updated: "2022-12-27"
+last_updated: "2025-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115700&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ abbreviation: "LGRA"
 
 LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2025.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -122,13 +122,17 @@ XX. Órganos constitucionales autónomos: Organismos a los que la Constitución 
 
 XXI. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;
 
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;
+
 XXII. Plataforma digital nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;
 
 XXIII. Secretaría: La Secretaría de la Función Pública en el Poder Ejecutivo Federal;
 
 XXIV. Secretarías: La Secretaría de la Función Pública en el Poder Ejecutivo Federal y sus homólogos en las entidades federativas;
 
-XXV. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos;
+XXV. (DEROGADA, D.O.F. 2 DE ENERO DE 2025)
 
 XXVI. Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, y
 
@@ -162,13 +166,17 @@ V. Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables 
 
 ### Capítulo II. Principios y directrices que rigen la actuación de los Servidores Públicos
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 6.
 
-Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
+Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2025)</small>
 
 ###### Artículo 7.
 
-Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:
+Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -232,7 +240,15 @@ III. La Auditoría Superior de la Federación y las Entidades de fiscalización 
 
 IV. Los Tribunales;
 
-V. Tratándose de las responsabilidades administrativas de los Servidores Públicos de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan, la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, conforme al régimen establecido en los artículos 94 y 109 de la Constitución y en su reglamentación interna correspondiente; y los poderes judiciales de los estados y el Tribunal Superior de Justicia de la Ciudad de México, así como sus consejos de la judicatura respectivos, de acuerdo a lo previsto en los artículos 116 y 122 de la Constitución, así como sus constituciones locales y reglamentaciones orgánicas correspondientes. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:
+
+a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.
+
+b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.
+
+Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y
 
 VI. Las unidades de responsabilidades de las empresas productivas del Estado, de conformidad con las leyes que las regulan. Para tal efecto, contarán exclusivamente con las siguientes atribuciones:
 
@@ -290,11 +306,13 @@ Para prevenir la comisión de faltas administrativas y hechos de corrupción, la
 
 En la implementación de las acciones referidas, los Órganos internos de control de la Administración Pública de la Federación o de las entidades federativas deberán atender los lineamientos generales que emitan las Secretarías, en sus respectivos ámbitos de competencia. En los Órganos constitucionales autónomos, los Órganos internos de control respectivos, emitirán los lineamientos señalados.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 16.
 
-Los Servidores Públicos deberán observar el código de ética que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
 
-El código de ética a que se refiere el párrafo anterior, deberá hacerse del conocimiento de los Servidores Públicos de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
+Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad.
 
 ###### Artículo 17.
 
@@ -304,21 +322,27 @@ Los Órganos internos de control deberán evaluar anualmente el resultado de las
 
 Los Órganos internos de control deberán valorar las recomendaciones que haga el Comité Coordinador del Sistema Nacional Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de Faltas administrativas y hechos de corrupción. Deberán informar a dicho órgano de la atención que se dé a éstas y, en su caso, sus avances y resultados.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 19.
 
-Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control.
+Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control o instancia interna equivalente.
 
 ###### Artículo 20.
 
 Para la selección de los integrantes de los Órganos internos de control se deberán observar, además de los requisitos establecidos para su nombramiento, un sistema que garantice la igualdad de oportunidades en el acceso a la función pública con base en el mérito y los mecanismos más adecuados y eficientes para su adecuada profesionalización, atrayendo a los mejores candidatos para ocupar los puestos a través de procedimientos transparentes, objetivos y equitativos. Los titulares de los Órganos internos de control de los Órganos constitucionales autónomos, así como de las unidades especializadas que los conformen, serán nombrados en términos de sus respectivas leyes.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 21.
 
-Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura ética en su organización.
+Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
 
 ###### Artículo 22.
 
-En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.
+En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.
 
 ###### Artículo 23.
 
@@ -442,23 +466,29 @@ En las declaraciones de modificación patrimonial se manifestarán sólo las mod
 
 Las Secretarías y los Órganos internos de control, estarán facultadas para llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los Declarantes.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 37.
 
-En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
+En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
 
-Los Servidores Públicos de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal a que se refiere el artículo 51 de la Ley de Ciencia y Tecnología, que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.
+Las Personas Servidoras Públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal de conformidad con las disposiciones aplicables en la materia que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.
 
-Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en el citado artículo 51 de la Ley de Ciencia y Tecnología, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos Servidores Públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.
+Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas Personas Servidoras Públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
 
 ###### Artículo 38.
 
-Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
+Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios, dependientes económicos directos o integrantes de sociedades de convivencia.
 
-Sólo los titulares de las Secretarías o los Servidores Públicos en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+Sólo las personas titulares de las Secretarías o las Personas Servidoras Públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
 
 ###### Artículo 39.
 
-Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos.
+Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos.
 
 ###### Artículo 40.
 
@@ -520,11 +550,15 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 
 ### Capítulo I. De las Faltas administrativas no graves de los Servidores Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 49.
 
-Incurrirá en Falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
+Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;
 
 II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;
 
@@ -536,7 +570,9 @@ IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de
 
 V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;
 
-VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2025)</small>
+
+VI. Supervisar que las Personas Servidoras Públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;
 
 VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
@@ -1324,9 +1360,11 @@ La presentación de los testigos será responsabilidad de la parte que los ofrez
 
 Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la Autoridad resolutora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2025)</small>
+
 ###### Artículo 148.
 
-Los representantes de elección popular, ministros, magistrados y jueces del Poder Judicial de la Federación, los consejeros del Consejo de la Judicatura Federal, los servidores públicos que sean ratificados o nombrados con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, los magistrados y jueces de los Tribunales de Justicia de las entidades federativas, los consejeros de los Consejos de la Judicatura o sus equivalentes de las entidades federativas, y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
+Las personas representantes de elección popular, ministras, ministros, magistradas, magistrados, juezas y jueces del Poder Judicial de la Federación, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas Servidoras Públicas que sean ratificadas o nombradas con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, las Secretarias y los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, las y los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, las magistradas, magistrados, juezas y jueces de los Tribunales de Justicia de las entidades federativas, magistrados y magistradas de los Tribunales de Disciplina Judicial, las y los miembros de los órganos de administración judicial de las entidades federativas, y las y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
 
 ###### Artículo 149.
 
@@ -2119,3 +2157,11 @@ Quinto. En caso de inicio de labores o de gestión, los Entes Públicos emitirá
 En los ordenamientos locales se establecerán las disposiciones transitorias conducentes para el procedimiento referido en el párrafo anterior.
 
 Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 2 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
