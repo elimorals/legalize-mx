@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2023-09-08"
+last_updated: "2025-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -337,9 +337,13 @@ Estos permisos o licencias en ningún momento podrán juntarse con otros similar
 
 Los trabajadores que obtengan licencias sin goce de sueldo, no perderán derechos escalafonarios ni de antigüedad, durante el tiempo que el interesado desempeñe un cargo de elección popular o de representación del Estado. Para conceder los permisos o licencias, es requisito que el trabajador lo solicite por escrito.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE ENERO DE 2025)</small>
 
-ARTICULO 35 BIS.- Las mujeres y hombres trabajadores gozarán mínimo de un permiso al año, con goce íntegro de su sueldo, de conformidad con su estado de salud debidamente acreditado, con el objetivo de poder someterse a la realización de estudios médicos generales y de especialidad, para proteger su salud, prevenir y evitar futuras enfermedades o atender de manera inmediata las existentes.
+###### ARTICULO 35 Bis.
+
+Las personas trabajadoras tendrán derecho a un día con goce de sueldo, para realizarse exámenes médicos para la detección y prevención del cáncer; previa solicitud y aprobación del área de adscripción correspondiente; debiendo presentar el certificado médico o documento que lo acredite.
+
+Los exámenes médicos de detección y prevención del cáncer no implicarán un gasto adicional por parte de las instituciones públicas del Estado.
 
 ###### ARTICULO 36.
 
@@ -2272,3 +2276,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0138.- SE ADICIONA EL ARTÍCULO 35 BIS, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
