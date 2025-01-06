@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-gran-sorteo-especial-291-con-premios-en-174145"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-08-20"
-last_updated: "2024-08-20"
+last_updated: "2025-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174145&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2024-08-13"
 ---
 # REGLAMENTO DEL GRAN SORTEO ESPECIAL 291, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2025 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL GRAN SORTEO ESPECIAL 291, CON PREMIOS EN ESPECIE Y EN EFECTIVO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 6 DE ENERO DE 2025.]</small>
 
 Reglamento publicado en el Número 20 del Diario Oficial de la Federación, el martes 20 de agosto de 2024.
 
@@ -85,7 +85,9 @@ El Sorteo se apegará a la normativa aplicable a Lotería Nacional, la cual cont
 
 El Sorteo se celebrará el 15 de septiembre de 2024 a las 16:00 horas, con una emisión de 3'000,000 (tres millones) de billetes, que al imprimirse para su distribución se realizará con una numeración aleatoria comprendida entre el número 0'000,000 (cero, cero, cero, cero, cero, cero, cero) y el número 2'999,999 (dos millones novecientos noventa y nueve mil novecientos noventa y nueve).
 
-Serán sorteados premios en especie y efectivo, con un valor total de $252,113,096.10 (Doscientos cincuenta y dos millones ciento trece mil noventa y seis pesos 10/100 M.N.).
+> <small>(F. DE E., D.O.F. 6 DE ENERO DE 2025)</small>
+
+Serán sorteados premios en especie y efectivo, con un valor total de $252,178,194.66 (Doscientos cincuenta y dos millones ciento setenta y ocho mil ciento noventa y cuatro pesos 66/100 M.N.).
 
 ###### Artículo 5.
 
@@ -228,6 +230,8 @@ Por la naturaleza del sorteo, las niñas y los niños gritones disfrutarán de d
 El Reparto de premios del Sorteo será el siguiente:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 20 DE AGOSTO DE 2024, PÁGINAS DE LA 342 A LA 347.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LAS TABLAS EN EL D.O.F DE 6 DE ENERO DE 2025, PÁGINAS DE LA 398 A LA 409.]</small>
 
 ### CAPÍTULO III. DE LA ASIGNACIÓN DE PREMIOS
 
