@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2024-08-12"
+last_updated: "2025-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -190,6 +190,22 @@ XXIX. Previsión: Conjunto de acciones y programas dirigidos preferentemente a p
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
 XXX. Vejez: Construcción social de la última etapa del curso de vida.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2025)</small>
+
+ARTÍCULO 2° BIS.- Los tipos de violencia contra las Personas Adultas Mayores son:
+
+I. La violencia psicológica o emocional: Es cualquier acto u omisión que dañe la estabilidad psicológica o emocional, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la persona adulta mayor a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la persona adulta mayor. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la persona adulta mayor; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV. La violencia económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona adulta mayor. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la persona adulta mayor y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder; y
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 ###### ARTÍCULO 3°.
 
@@ -1854,3 +1870,11 @@ P.O. 12 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 6 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 52.- SE ADICIONAN DISPOSICIONES A LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes
