@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2023-01-23"
+last_updated: "2025-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -233,31 +233,37 @@ XV. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 ARTÍCULO 9° A.- Para el cumplimiento de lo que establece el Artículo anterior, se crea el Consejo Estatal de la Juventud de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2025)</small>
 
-El Consejo es el órgano de vinculación y consulta del Instituto y Dependencias Municipales de la Juventud con el propósito de asesorar, proponer, sugerir, plantear, opinar, colaborar y apoyar los planes y programas dirigidos al desarrollo integral de la juventud.
+El Consejo es el órgano de vinculación, consulta del Instituto y Dependencias Municipales de la Juventud con el propósito de asesorar, proponer, sugerir, plantear, opinar, colaborar, fortalecer y apoyar los planes, proyectos y programas dirigidos al desarrollo integral de la juventud.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ARTÍCULO 9° B.- El Consejo, estará integrado por las siguientes autoridades:
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-I.- Un Presidente, que será el Director General del Instituto Aguascalentense de la Juventud;
+I.- Una Presidencia, que será la persona titular de la Dirección General del Instituto Aguascalentense de la Juventud;
 
-II.- Un Vicepresidente, que será el Presidente de la Comisión de la Juventud del Congreso del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-III.- Un Secretario Técnico, que será el Director de Vinculación y Enlace Municipal;
+II.- Una Vicepresidencia, que será el Diputado o la Diputada que presida la Comisión de Juventud del Honorable Congreso del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-IV.- 11 Vocales, que serán los Titulares de las Dependencias Municipales en materia de juventud de cada uno de los once municipios del Estado de Aguascalientes; y
+III.- Una Secretaria Técnica, que será la persona titular de la Dirección de Vinculación y Enlace Municipal;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
+
+IV.- 11 Vocalías, que serán las personas titulares de las Dependencias Municipales en materia de juventud de cada uno de los once Municipios del Estado de Aguascalientes; y
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
 V.- Dos jóvenes, uno de ellos mujer y otro hombre, con reconocida trayectoria en el ámbito académico o social, quienes serán elegidos por la Comisión Legislativa de la Juventud mediante convocatoria pública abierta.
 
-Los cargos del Consejo descritos anteriormente son honoríficos, por lo que no gozarán de ninguna remuneración, pudiendo cada uno de estos designar un suplente.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2025)</small>
+
+Los cargos del Consejo descritos anteriormente son honoríficos, por lo que no gozarán de ninguna remuneración y tampoco será necesario separarse de algún otro cargo en el que hayan sido designados o desempeñen mientras funjan como integrantes del Consejo, salvo que la propia ley o reglamento lo impida explícitamente, pudiendo cada uno de estos designar un suplente.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -271,21 +277,21 @@ ARTÍCULO 9° C.- Para el cumplimiento de sus funciones y objeto el Consejo, ten
 
 I.- Colaborar en el diseño y supervisar la implementación y ejecución de políticas públicas a favor de la juventud, que esta ley encomienda al Instituto y Dependencias Municipales de la Juventud en sus respectivos ámbitos de competencia;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-II.- Sugerir al titular del Poder Ejecutivo del Estado, al Director General del Instituto Aguascalentense de la Juventud y a los Municipios, el diseño de planes, programas y proyectos en apoyo a la juventud del Estado de Aguascalientes;
+II.- Sugerir a la persona titular del Poder Ejecutivo del Estado, a la Dirección General del Instituto Aguascalentense de la Juventud y a los Municipios, el diseño de planes, programas y proyectos en apoyo a la juventud del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-III.- Sugerir al Instituto y Dependencias Municipales de la Juventud, la celebración de convenios con los diferentes órdenes de gobierno y sector privado, para llevar a cabo las políticas públicas en materia de juventud;
+III.- Sugerir al Instituto y Dependencias Municipales de la Juventud, la celebración de convenios con los diferentes órdenes de gobierno y sectores social y privado, para llevar a cabo las políticas públicas en materia de juventud;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
 IV.- Proponer al Instituto y Dependencias Municipales de la Juventud programas en conjunto con la iniciativa privada, con la finalidad de obtener trato preferente para la adquisición de bienes y servicios a favor de la juventud;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-V.- Plantear al Instituto y Dependencias Municipales de la Juventud la celebración de acuerdos con Instituciones de Educación Superior para que se impartan cursos a bajo costo, con el objeto de promover los principios de responsabilidad y superación personal en beneficio de la juventud;
+V.- Plantear al Instituto y Dependencias Municipales de la Juventud la celebración de acuerdos con Instituciones de Educación Superior para que se impartan talles (sic), cursos, seminarios o diplomados a bajo costo, con el objeto de promover los principios de responsabilidad y superación personal en beneficio de la juventud;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
@@ -303,17 +309,17 @@ VIII.- Plantear al Instituto y Dependencias Municipales de la juventud que colab
 
 IX.- Proponer al Instituto y Dependencias municipales de la Juventud, la suscripción de convenios con el sector público y privado, encargados de colocar créditos a los emprendedores, con el objeto de hacer llegar oportunidades de auto empleo a los jóvenes;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-X.- Sugerir al Instituto y Dependencias Municipales de la Juventud en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Medio Ambiente del Estado, el diseño y ejecución de programas que tengan como finalidad de promover entre los jóvenes el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+X.- Sugerir o Proponer al Instituto y Dependencias Municipales de la Juventud en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado, el diseño y ejecución de programas que tengan como finalidad de (sic) promover entre los jóvenes el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-XI.- Proponer al Instituto y Dependencias Municipales de la Juventud en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Sustentabilidad, Medio Ambiente y Agua, el diseño y ejecución de programas que tengan como finalidad el promover entre los jóvenes el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+XI.- Plantear al Instituto y Dependencias Municipales de la Juventud en coordinación con la Secretaría de Salud del Estado, el diseño y ejecución de programas intensivos de formación en materia de salud en general y en especial en salud mental y salud reproductiva que tengan como finalidad orientar y prevenir enfermedades de todo tipo entre los jóvenes;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
 
-XII.- Plantear al Instituto y Dependencias Municipales de la Juventud en coordinación con la Secretaría de Salud del Estado, el diseño y ejecución de programas intensivos de formación en materia de salud en general y en especial en salud reproductiva que tengan como finalidad orientar y prevenir enfermedades de todo tipo entre los jóvenes;
+XII. Revisar, evaluar, analizar y discutir el trabajo realizado por la Comisión, así como sus avances generados en el último bimestre correspondiente;”
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
@@ -335,11 +341,11 @@ XVI.- Elaborar su reglamento para la organización, funcionamiento y cumplimento
 
 XVII.- Las demás que señalen otras disposiciones legales o reglamentarias.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2025)</small>
 
-ARTÍCULO 9° D.- Los integrantes del Consejo, tendrán voz y voto, con excepción del Secretario Técnico, quien sólo tendrá voz. Las decisiones del Consejo se tomarán por mayoría de votos de sus integrantes. En caso de empate, el Presidente tendrá voto de calidad.
+ARTÍCULO 9° D.- Las personas integrantes del Consejo, tendrán voz y voto, con excepción de la Secretaría Técnica, quien sólo tendrá voz. Las decisiones del Consejo se tomarán por mayoría de votos de sus integrantes. En caso de empate, la Presidencia tendrá voto de calidad.
 
-El Presidente podrá invitar a las sesiones del Consejo, a representantes de los sectores público, social o privado, quienes tendrán derecho a voz pero sin voto.
+La Presidencia podrá invitar a las sesiones del Consejo, a representantes de los sectores público, social o privado, previa invitación anexada en la Convocatoria o Citatorio que se emita para la Sesión correspondiente, quienes tendrán derecho a voz, pero sin voto.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -536,3 +542,15 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 51.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciara su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal de la Juventud dispondrá de un término de 60 días naturales contados a partir del inicio de vigencia de este Decreto, para realizar las armonizaciones correspondientes en su Reglamento.”
