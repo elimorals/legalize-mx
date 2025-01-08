@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2024-12-17"
+last_updated: "2025-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -2879,19 +2879,19 @@ El Ejecutivo deberá proceder al establecimiento de escuelas rurales, de artes y
 
 (DEROGADO, P.O. 3 DE ENERO DE 1994)
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2025)</small>
 
 ###### Artículo 143.
 
-Las Universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este Título, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas, fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales tanto del personal académico como del administrativo, se normarán conforme lo dispone la fracción VII del artículo 3o. de la Constitución General de la República.
+Las Universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este Título, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas, fijarán los términos de ingreso, promoción y permanencia de su personal docente; y administrarán su patrimonio. Las relaciones laborales tanto del personal docente como del administrativo, se normarán conforme lo dispone la fracción VII del artículo 3o. de la Constitución General de la República.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2018)</small>
+La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo es una institución de servicio, con personalidad jurídica y patrimonio propio; con autonomía plena dedicada a la educación media superior y superior, en sus diversos niveles y modalidades, la investigación científica, la difusión de la cultura y la extensión universitaria.
 
-La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo es una institución de servicio, con personalidad jurídica y patrimonio propio; dedicada a la educación media-superior y superior, en sus diversos niveles y modalidades, la investigación científica, la difusión de la cultura y la extensión universitaria.
+La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo contará con un presupuesto pleno para el desarrollo de sus funciones, el cual deberá ser por lo menos el 4.5% del Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, en la lógica, que no podrá ser inferior al otorgado en el ejercicio inmediato anterior.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2018)</small>
+La elección del cargo de rectora o rector de la Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo, se realizará de forma democrática, para lo cual, se deberá contar con la participación de sus órganos de gobierno y los tres sectores de la comunidad universitaria, siendo éstos, el de estudiantes, el de docentes y el de administrativos, los cuales deberán encontrarse en activo.
 
-La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo contará con un presupuesto para el desarrollo de sus funciones, el cual no podrá ser inferior al otorgado en el ejercicio inmediato anterior.
+La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo contará con un sistema propio de pensiones y jubilaciones para el personal docente y administrativo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -4466,3 +4466,21 @@ CUARTO. El Congreso del Estado tendrá un plazo improrrogable de 180 días hábi
 QUINTO. A la entrada en vigor del presente Decreto, las autoridades responsables de la aplicación del mismo, deberán de destinar los recursos necesarios para su cumplimiento.
 
 SEXTO. El Ejecutivo del Estado, contará con un término no mayor a 180 días hábiles para la creación de la Agencia de Coordinación de los Pueblos y Comunidades Indígenas en Michoacán.
+
+P.O. 8 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 19 POR EL QUE "SE REFORMA EL ARTÍCULO 143 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+TERCERO. La Secretaría de Finanzas y Administración deberá hacer el ajuste presupuestal en el momento de la aprobación del presente Decreto, haciendo llegar a la Universidad Michoacana de San Nicolás de Hidalgo, el superávit variante que deberá ejercer ésta.
+
+CUARTO. El Consejo Universitario deberá adecuar y aprobar en un plazo no mayor a 120 días naturales la armonización con el Estatuto Universitario y demás legislación universitaria. Mientras no se realicen estas adecuaciones y se aprueben, prevalecerán en todo aquello que no se oponga a este Decreto.
+
+QUINTO. La Universidad Michoacana de San Nicolás de Hidalgo, tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar la consulta previa, libre e informada a su comunidad universitaria y a los órganos de gobierno competentes, asambleas generales y cuerpos colegiados por dependencia en términos de lo dispuesto por la Ley General de Educación Superior, para efectos de realizar las adecuaciones a la normativa que corresponda.
+
+SEXTO. Todos los derechos y obligaciones de los trabajadores de la Universidad Michoacana de San Nicolás de Hidalgo, así como jubilaciones y pensiones concedidas con anterioridad al presente Decreto, adquiridas por la reforma del año 2020, así como todas las que abonen a los derechos laborales de los trabajadores mencionados, se respetarán en términos de la legislación aplicable al momento de su contratación.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
