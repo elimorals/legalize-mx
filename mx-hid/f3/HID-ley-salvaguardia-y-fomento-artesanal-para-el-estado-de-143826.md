@@ -4,7 +4,7 @@ identifier: "HID-ley-salvaguardia-y-fomento-artesanal-para-el-estado-de-143826"
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2024-09-17"
+last_updated: "2025-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
 
 Ley publicada en el Alcance Uno al Número 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -423,7 +423,9 @@ Para el cumplimiento de los objetivos de esta Ley, corresponde a los Municipios:
 
 I. Dar a conocer las artesanías y la producción artesanal como atractivo de identidad cultural comunitaria;
 
-II. Promover en ferias, fiestas y festivales municipales, la venta y exposiciones de artesanías;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
+
+II. Promover en ferias, fiestas y festivales municipales, la venta y exposiciones de artesanías, y procurar espacios preferentes para tal efecto;
 
 III. Celebrar convenios con otros municipios para la promoción de espacios regionales y pabellones para la comercialización de artesanías;
 
@@ -498,3 +500,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1113 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 16 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 32 DE LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN ARTESANAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
