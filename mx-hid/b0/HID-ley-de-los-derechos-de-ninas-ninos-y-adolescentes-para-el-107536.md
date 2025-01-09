@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-09-17"
+last_updated: "2025-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -545,7 +545,13 @@ Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho 
 
 Quien ejerza la patria potestad, tutela, guarda o custodia deberá procurar el derecho de la niña, niño o adolescente a vivir en familia, por lo que promoverá el acercamiento, respeto y adecuada convivencia con ambos ascendientes, y deberá evitar cualquier acto de alienación parental, entendida esta como todo acto de manipulación encaminado a producir en el menor rechazo, rencor, odio, miedo o desprecio en contra de alguno de los progenitores.
 
-Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario al interés superior de la niñez.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2025)</small>
+
+Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables, debiendo para tal efecto emitir y aplicar protocolos de actuación e intervención enfocados a garantizar la seguridad física y psicológica de las niñas, niños y adolescentes que acuden a visitar a las personas en reclusión. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario al interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2025)</small>
+
+Las autoridades estatales y municipales, en los ámbitos de sus respectivas competencias, procurarán brindar atención psicoemocional integral a las niñas, niños y adolescentes cuyas madres, padres, tutores o personas con las que tengan algún vínculo familiar o afectivo, se encuentren en situación de reclusión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2023)</small>
 
@@ -2970,3 +2976,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1118 POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 18 - LXVI POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 23 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE ATENCIÓN A LA NIÑEZ Y ADOLESCENCIA CON FAMILIARES EN SITUACIÓN DE RECLUSIÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
