@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-atencion-y-sancion-de-la-violencia-familiar-75077"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2024-05-09"
+last_updated: "2025-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -107,7 +107,9 @@ Sin menoscabo de las atribuciones que tienen encomendadas las diversas dependenc
 
 La atención es una función del Estado que se proporciona a la violencia familiar en sus diversos niveles de intervención, a partir de las políticas públicas que sobre el particular se implementen, cuya finalidad es salvaguardar y proteger la integridad y los derechos de las y los receptores.
 
-Estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo, y no contará entre sus criterios, patrones estereotipados de comportamiento, o prácticas sociales y culturales, basadas en conceptos de subordinación o inferioridad, será:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ENERO DE 2025)</small>
+
+Estará libre de prejuicios de origen étnico o nacional, género, edad, raza, condición socioeconómica, condiciones de salud, religión o credo, preferencia sexual o de cualquier otro tipo que atente contra la dignidad humana, y no contará entre sus criterios, patrones estereotipados de comportamiento, o prácticas sociales y culturales, basadas en conceptos de subordinación o inferioridad; será:
 
 I.- Especializada e integral;
 
@@ -195,13 +197,29 @@ El cual se integrará al Sistema Estatal para Prevenir, Atender, Sancionar y Err
 
 Dicho Subsistema, se integrará por:
 
-I.- El Director del Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
 
-II.- El Secretario de Seguridad Pública;
+I.- La persona titular del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-III.- El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
 
-IV.- El Procurador de la Defensa del Menor y la Familia, quien fungirá como Secretario Técnico;
+II.- La persona titular de la Secretaría de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2025)</small>
+
+II bis.- La persona titular de la Secretaría de Salud;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2025)</small>
+
+II ter.- La persona titular de la Secretaría de Educación Pública
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
+
+III.- La persona titular de la Procuraduría General de Justicia;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
+
+IV.- La persona titular de la Procuraduría de la Defensa del Menor y la Familia;
 
 V.- Los municipios, independientemente de que formen sus propios subsistemas municipales en contra de la violencia familiar; y
 
@@ -309,9 +327,23 @@ I.- Recibir y desahogar los recursos, que se interpongan con motivo de los proce
 
 II.- Incorporar en los trabajos de prevención y asistencia contra la violencia familiar al Sistema para el Desarrollo Integral de la Familia de su Municipio;
 
-III.- Promover la impartición de cursos y talleres de prevención y protección contra la violencia familiar en los cuerpos policíacos; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
+
+III.- Promover la impartición de cursos y talleres de prevención y protección contra la violencia familiar en los cuerpos policíacos;
 
 IV.- Elaborar los programas y políticas de asistencia inmediata que tomarán los elementos de Seguridad Pública cuando se presenten casos de violencia familiar.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2025)</small>
+
+V.- Gestionar la capacitación de sus personas servidoras públicas que atienden a las personas receptoras y generadoras de violencia familiar.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2025)</small>
+
+VI.- Realizar campañas de concientización dirigidas a la población en general, sobre la violencia familiar y sus efectos en las víctimas y demás integrantes del núcleo de convivencia; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2025)</small>
+
+VII.- Impulsar en el ámbito de su competencia, reformas a su reglamentación que coadyuve en la atención de la violencia familiar.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -498,3 +530,9 @@ P.O. 9 DE MAYO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 9 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 15–LXVI QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, LA FRACCIÓN I Y II DEL ARTÍCULO 16 Y LA FRACCIÓN III DEL ARTÍCULO 21 Y ADICIONA LA FRACCIÓN II BIS Y II TER DEL ARTÍCULO 16 Y LA FRACCIÓN V, VI Y VII DEL ARTÍCULO 21, DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO; Y REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 243 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
