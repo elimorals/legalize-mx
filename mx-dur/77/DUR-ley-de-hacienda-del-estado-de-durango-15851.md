@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2024-12-29"
+last_updated: "2025-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE ENERO DE 2025.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -2115,9 +2115,13 @@ libertad o existencia de gravámenes, incluyendo
 
 la búsqueda:
 
-a) En carácter de ordinario 3
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2025)</small>
 
-b) En carácter de urgente 6
+c) (sic) En carácter de ordinario 3
+
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2025)</small>
+
+d) En carácter de urgente 6
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
@@ -2133,7 +2137,9 @@ propiedad o de existencia de propiedad, incluyendo
 
 la búsqueda. 3
 
-XLIV (SIC).- En los casos de servicios no previstos
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2025)</small>
+
+XLVI.- En los casos de servicios no previstos
 
 expresamente en este artículo, sobre el valor
 
@@ -3401,9 +3407,9 @@ ARTICULO 60 BIS.- Se implementará desde el sexto bimestre del año 2023 hasta e
 
 a) Arrendamiento para el sector turismo y el sector público.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 9 DE ENERO DE 2025)
 
-b) Empresas con florillas (sic) vehiculares de más de 50 unidades.
+b) Empresas con flotillas vehiculares de más de 50 unidades.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2023)</small>
 
