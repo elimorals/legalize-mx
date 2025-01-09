@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2024-09-17"
+last_updated: "2025-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -211,9 +211,17 @@ XLV. Violencia Escolar.- Conducta agresiva e intencionada con el objeto de intim
 
 XLVI. Violencia Familiar.- Todo acto de poder u omisión que cause daño, producido dentro o fuera del domicilio familiar, encaminado a dominar, someter, controlar o agredir física, psícoemocional, sexual, verbal, patrimonial o económicamente a cualquier miembro de la familia, con quien se tenga o se haya tenido parentesco, se esté unido por matrimonio, concubinato o se tenga una relación de hecho; El establecimiento de límites a los menores de edad, realizados por los padres para su formación y educación de los mismos, en ningún caso justifica el ejercicio de ningún tipo de violencia;
 
-XLVII. Vulnerabilidad Social.- Es el producto de la interrelación entre diversos elementos, tanto factores inherentes a la persona como elementos externos, que se conjugan para dar como resultado diversos estados en los que las personas, familias o los grupos poblacionales se encuentran inmersos en diversas problemáticas sociales; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
 
-XLVIII. Vulnerabilidad Familiar.- Es la acumulación de desventajas que vive una familia y su interrelación, con al menos un miembro de la misma en condición de vulnerabilidad, que da por resultado encontrarse en una situación no superable por ellos mismos, es decir, no superable por la misma familia.
+XLVII. Vulnerabilidad Social.- Es el producto de la interrelación entre diversos elementos, tanto factores inherentes a la persona como elementos externos, que se conjugan para dar como resultado diversos estados en los que las personas, familias o los grupos poblacionales se encuentran inmersos en diversas problemáticas sociales;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
+
+XLVIII. Vulnerabilidad Familiar.- Es la acumulación de desventajas que vive una familia y su interrelación, con al menos un miembro de la misma en condición de vulnerabilidad, que da por resultado encontrarse en una situación no superable por ellos mismos, es decir, no superable por la misma familia, e
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2025)</small>
+
+XLIX. Interés superior de la niñez y adolescencia.- Catálogo de valores, principios, interpretaciones, acciones y procesos dirigidos a forjar un desarrollo humano integral y una vida digna, así como a generar las condiciones materiales que permitan a niñas, niños y adolescentes vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible, cuya protección debe promover y garantizar el Estado en el ejercicio de sus funciones legislativa, ejecutiva y judicial, por tratarse de un asunto de orden público e interés social.
 
 ## TÍTULO SEGUNDO. DE LA APLICACIÓN DE LA LEY
 
@@ -309,10 +317,6 @@ l. Ser migrantes y repatriados; y
 
 m. Ser víctimas de conflictos armados, delincuencia organizada y de persecución étnica o religiosa.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2018)</small>
-
-Para los efectos de esta Ley son niñas y niños las personas hasta 12 años incompletos, y adolescentes los que tienen entre 12 años cumplidos y 18 años incumplidos, tal como lo establece el Artículo 2 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
-
 II.- Las mujeres:
 
 a. En estado de gestación o lactancia;
@@ -384,6 +388,10 @@ XIII.- Dependientes de personas privadas de su libertad, de desaparecidos, de en
 > <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
 
 XIV.- Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE ENERO DE 2025)</small>
+
+Para los efectos de esta Ley son niñas y niños las personas con una edad menor a doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
 
 ### CAPÍTULO II. De los Derechos y Obligaciones de los Sujetos de Asistencia Social
 
@@ -815,9 +823,9 @@ XXXII.- Verificar los servicios y acciones que otorgan en materia de asistencia 
 
 XXXIII.- Promover la participación y corresponsabilidad de la sociedad en actividades de prevención en el auto cuidado de su salud física y mental;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
 
-XXXIV. Atender al interés superior de las niñas, niños y adolescentes de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y demás disposiciones legales aplicables, siempre buscando su buen desarrollo físico, mental, moral y social; y
+XXXIV.- Atender al principio constitucional del interés superior de la niñez y adolescencia, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y demás disposiciones legales aplicables, siempre buscando su buen desarrollo físico, mental, moral y social; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIV], P.O. 20 DE ENERO DE 2021)</small>
 
@@ -1153,11 +1161,11 @@ En el ejercicio de sus funciones la Procuraduría, podrá solicitar el auxilio d
 
 Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría deberá establecer contacto y trabajar conjuntamente con todas las autoridades, instituciones y corporaciones con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes, en términos de lo dispuesto en el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 4 de la Constitución Política del Estado y en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y su Reglamento.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2025)</small>
 
 ###### Artículo 42.
 
-La Procuraduría tendrá entre otras funciones: proporcionar asesoría jurídica, patrocinar los juicios en materia de derecho familiar, proteger y velar por los intereses de los sujetos de asistencia social referidos en la presente Ley, dando prioridad al interés superior de las niñas, niños y adolescentes.
+La Procuraduría tendrá entre otras funciones: proporcionar asesoría jurídica, patrocinar los juicios en materia de derecho familiar, proteger y velar por los intereses de los sujetos de asistencia social referidos en la presente Ley, dando prioridad al interés superior de la niñez y adolescencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
@@ -1365,7 +1373,9 @@ XIII.- Resguardar y custodiar la información documental que evidencie la aplica
 
 XIV.- Resguardar y custodiar los bienes muebles e inmuebles que el Organismo les otorgue, informando periódicamente el estado que guardan;
 
-XV.- Realizar acciones de coordinación con la Procuraduría a efecto de proporcionar asesoría jurídica y patrocinar los juicios en materia familiar, en el ámbito municipal de su competencia, velando por los intereses de los sujetos de asistencia social dando prioridad al interés superior de las niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
+
+XV.- Realizar acciones de coordinación con la Procuraduría a efecto de proporcionar asesoría jurídica y patrocinar los juicios en materia familiar, en el ámbito municipal de su competencia, velando por los intereses de los sujetos de asistencia social dando prioridad al interés superior de la niñez y adolescencia;
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
 
@@ -1666,3 +1676,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1044 POR EL QUE SE ADICIONA LA FRACCIÓN XXV TER AL ARTÍCULO 26 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 20 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE INTERÉS SUPERIOR DE LA NIÑEZ Y ADOLESCENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
