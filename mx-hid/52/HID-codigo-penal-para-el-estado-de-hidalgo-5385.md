@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2024-09-17"
+last_updated: "2025-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2869,9 +2869,9 @@ IV.- El incapaz sobre el que se es tutor.
 
 A quién cometa el delito de violencia familiar, se le impondrá de uno a seis años de prisión, multa de 50 a 100 días y perderá el derecho de pensión alimenticia. Asimismo, se sujetará a tratamiento psicoterapéutico reeducativo especializado para personas agresoras que refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo, el que en ningún caso excederá del tiempo impuesto en la pena de prisión.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2025)</small>
 
-En caso de que la víctima sea menor de edad, incapaz o persona mayor de sesenta años, se aumentará en una mitad la pena que corresponda.
+En caso de que la víctima sea menor de edad, incapaz, persona con discapacidad, mujer embarazada o persona mayor de sesenta años, se aumentará en una mitad la pena que corresponda.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
@@ -5058,5 +5058,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 17 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1107 QUE REFORMA EL ARTÍCULO 147 FRACCIÓN V, EL ARTÍCULO 206 FRACCIÓN X Y XIII, EL ARTICULO 322 PÁRRAFO PRIMERO Y LA FRACCIÓN VII Y EL ARTÍCULO 331 FRACCIÓN IV DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 15 – LXVI QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, LA FRACCIÓN I Y II DEL ARTÍCULO 16 Y LA FRACCIÓN III DEL ARTÍCULO 21 Y ADICIONA LA FRACCIÓN II BIS Y II TER DEL ARTÍCULO 16 Y LA FRACCIÓN V, VI Y VII DEL ARTÍCULO 21, DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO; Y REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 243 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
