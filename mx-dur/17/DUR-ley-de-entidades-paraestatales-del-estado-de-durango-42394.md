@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-entidades-paraestatales-del-estado-de-durango-42394"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2024-12-26"
+last_updated: "2025-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE ENERO DE 2025.]</small>
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -111,15 +111,15 @@ En relación con las Entidades paraestatales, corresponderá a los titulares de 
 
 I. Establecer políticas de desarrollo para las entidades del sector que le corresponda coordinar;
 
-II. Coordinar la planeación, programación y presupuestación de conformidad, con los lineamientos generales de gasto y financiamiento previamente establecidos y autorizados;
+II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2024) (F. DE E., P.O. 9 DE ENERO DE 2025)
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2025)</small>
 
-II (SIC). Conocer la operación y evaluar sus resultados en relación a los objetivos y metas del Plan Estatal de Desarrollo y sus respectivos programas; y
+III. Conocer la operación y evaluar sus resultados en relación a los objetivos y metas del Plan Estatal de Desarrollo y sus respectivos programas; y
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2025)</small>
 
-III. Las demás atribuciones que les confiera la presente Ley y demás ordenamientos aplicables.
+IV. Las demás atribuciones que les confiera la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 10.
 
