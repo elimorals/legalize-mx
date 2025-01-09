@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2024-06-24"
+last_updated: "2025-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -573,6 +573,12 @@ Esta Ley no podrá ser vetada por el titular del Poder Ejecutivo del Estado, ún
 
 El Congreso del Estado, tendrá plena autonomía en la elaboración y ejercicio de su presupuesto y para organizarse administrativamente, con apego a las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2025)</small>
+
+###### ARTÍCULO 48 Bis.
+
+El Congreso del Estado promoverá acciones y participará efectivamente con otros congresos locales, especialmente con aquellos de las entidades federativas consideradas en la Zona Metropolitana del Valle de México, con el objeto de impulsar la creación, integración, así como la operatividad del Parlamento Metropolitano; el cual fungirá como un mecanismo no vinculante de análisis y discusión de temas de interés en la materia que servirá para enriquecer los trabajos legislativos, respetando la soberanía de cada congreso local.
+
 ###### ARTÍCULO 49.
 
 El Congreso del Estado, para su funcionamiento, podrá contar con los Órganos Administrativos, de Fiscalización, Investigación y Asesoría que su Presupuesto le permita.
@@ -1001,9 +1007,9 @@ XVII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2018)
 
 XVII Bis.- Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
 
-XVIII.- Comisión para el Desarrollo Integral de los Pueblos Indígenas;
+XVIII. Comisión para el Desarrollo Integral de Pueblos y Comunidades Indígenas y Afromexicanas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1037,9 +1043,9 @@ XXVII.- Comisión de Cultura;
 
 XXVIII.- Comisión de las Personas Adultas Mayores;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2025)</small>
 
-XXIX.- Comisión de Desarrollo Social y Humano.
+XXIX.- Comisión de Bienestar e Inclusión Social, y
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2011)</small>
 
@@ -3038,3 +3044,9 @@ P.O. 24 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día 05 de septiembre de 2024, previa publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 17 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DEL ESTADO (SIC) LIBRE Y SOBERANO DE HIDALGO, Y DE SU REGLAMENTO, EN MATERIA DE DENOMINACIÓN DE COMISIONES Y DE PARLAMENTO METROPOLITANO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
