@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-12-23"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "ROO"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -307,9 +305,9 @@ IV. Por el registro de firma y antefirma de los Notarios Públicos Auxiliares 6.
 
 V. Reposición de sellos 6.00
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2025)</small>
 
-VI. Por expedición de testimonios de escrituras públicas o actas notariales 30.00
+VI. Por expedición de testimonios de escrituras públicas o actas notariales 8.05
 
 VII. Por reconocimiento y certificación de firmas 1.15
 
@@ -605,13 +603,11 @@ especialidad inscrita en el Registro Estatal
 
 de Peritos Valuadores 25.00
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2025)</small>
 
-III. Por el análisis y calificación de documentos
+III. Por la expedición de la credencial de perito
 
-para el refrendo y actualización de la credencial
-
-de Perito Valuador. 15.00
+valuador 15.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO E], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -4630,3 +4626,11 @@ PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero d
 SEGUNDO. Para el cumplimiento de lo previsto en el artículo 51-Nonies, la Secretaría dentro del plazo de 60 días naturales, contados a partir del inicio de la vigencia del presente Decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el fideicomiso público estatal sin estructura.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
+
+P.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 089 POR EL QUE SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 17 Y LA FRACCIÓN III DEL ARTÍCULO 28, TODOS DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado o de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
