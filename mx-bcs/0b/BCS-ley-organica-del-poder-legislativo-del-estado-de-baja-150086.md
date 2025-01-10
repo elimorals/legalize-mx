@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2024-07-31"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -433,9 +433,11 @@ IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 1
 
 V.- Proponer al Pleno la designación del Oficial Mayor, Titular de la Auditoría Superior del Estado, Contralor, Asesores Jurídicos y Directores de las áreas a que se refiere esta ley, así como expedir el nombramiento respectivo, teniendo en cuenta la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, garantizando el principio de igualdad de género;
 
-VI.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la fracción anterior, por las causas graves que señale la ley, concediéndoles previamente el derecho de audiencia;
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2025)</small>
 
-VII.- Proponer al Congreso en Sesión Privada la destitución de los funcionarios a que se refiere la Fracción anterior, cuando por causas graves o por el buen funcionamiento del Congreso deba hacerse la remoción y proponer a las personas que deban sustituirlas;
+VI.- Proponer al Congreso en Sesión Privada la destitución de las y los funcionarios de libre designación a que se refiere el artículo 83 Quater, cuando por no cumplir con los requisitos o condiciones para su permanencia en el cargo, o por el buen funcionamiento del Congreso, deba hacerse la remoción y proponer a las personas que deban sustituirlas.
+
+VII.- (DEROGADA, B.O. 10 DE ENERO DE 2025)
 
 VIII.- Proponer al pleno del Congreso, las bases para la aplicación de sanciones disciplinarias a los diputados;
 
@@ -1603,13 +1605,17 @@ El reglamento interno de la Contraloría del Poder Legislativo que expida el Con
 
 Artículo 72
 
-El Contralor del Poder Legislativo, será designado a propuesta de la Junta de Gobierno y Coordinación Política y durará en su cargo un periodo de cuatro años, sin posibilidad de reelección inmediata.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2025)</small>
+
+El Contralor o Contralora del Poder Legislativo, será designado a propuesta de la Junta de Gobierno y Coordinación Política y durará en su cargo un periodo de cuatro años, sin posibilidad de reelección inmediata.
 
 Para ocupar el cargo de Contralor se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, con residencia en el Estado no menor de cinco años anteriores a la fecha de su designación;
 
-II.- Contar con título y cédula profesional de Licenciado en Derecho, Contaduría Pública o Economía, legalmente expedidos y contar con una experiencia profesional de cuando menos diez años en su ejercicio;
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2025)</small>
+
+II.- Contar con título y cédula profesional de Licenciado en Derecho, Contaduría Pública, Economía o administración Pública o administradora pública, legalmente expedidos y contar con una experiencia profesional de cuando menos cinco años en su ejercicio comprobables;
 
 (NOTA: EL 26 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 164/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS "Y NO HABER SIDO CONDENADO POR DELITO INTENCIONAL QUE AMERITE PENA PRIVATIVA DE LIBERTAD; PERO SI SE TRATARE DE" Y "U OTRO QUE LASTIME SERIAMENTE LA BUENA FAMA PÚBLICA, QUEDARÁ INHABILITADO PARA EL CARGO, CUALQUIERA QUE HAYA SIDO LA PENA" Y POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA "ROBO, FRAUDE, FALSIFICACIÓN, ABUSO DE CONFIANZA", DE LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1877,6 +1883,24 @@ La Unidad de Evaluación y Control es un Órgano Técnico especializado encargad
 
 Esta Unidad formará parte de la estructura de la Comisión permanente de Vigilancia de la Auditoria Superior del Estado y dependerá jerárquicamente de ella.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ENERO DE 2025)</small>
+
+### CAPÍTULO DÉCIMO SEXTO. DE LA PERMANENCIA EN LOS CARGOS PÚBLICOS
+
+> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2025)</small>
+
+Artículo 83 Quater
+
+Para permanecer en sus cargos, las personas titulares de la Oficial Mayor, de la Contraloría, así como de las Direcciones y Áreas a que se refiere esta ley, deberán cumplir con las siguientes condiciones de subsistencia del acto administrativo de nombramiento:
+
+I.- Actuar con diligencia, eficiencia, cuidado y responsabilidad en el ejercicio de su cargo;
+
+II.- Actuar con integridad en el desempeño de sus funciones; y
+
+III. Utilizar la información que por el ejercicio de su cargo tenga acceso, sin obtener o tratar de obtener un beneficio para sí o para un tercero o para amagar a alguien.
+
+## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
+
 ### CAPITULO PRIMERO. DE LAS SESIONES
 
 Artículo 84
@@ -2032,8 +2056,6 @@ Cuando por causa justificada algún Diputado no pudiere asistir a Sesión o cont
 Artículo 99
 
 Se considerará ausente al Diputado que no esté presente al pasarse lista. Si después de ella hubiera alguna votación nominal y no se encontrare presente, también se considerará como faltante. Igualmente se considerará ausente en caso de falta de Quórum al pasarse la lista correspondiente.
-
-## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
 ### CAPITULO SEGUNDO. DE LAS INICIATIVAS
 
@@ -2627,6 +2649,8 @@ El Congreso del Estado, a propuesta de la Junta de Gobierno y Coordinación Pol�
 
 El Congreso del Estado podrá solicitar al Instituto Estatal electoral, lleve a cabo el plebiscito con respecto de los ayuntamientos, cuando se pretenda erigir un Municipio, en las mismas condiciones, podrá solicitar al organismo que señala la Ley de la materia, someta a plebiscito de los ciudadanos de sus respectivos Municipios los actos que pretendan efectuar, así como los convenios que tengan programado celebrar con otros Municipios, entidades o particulares.
 
+## TITULO QUINTO. DE LA PLANEACIÓN LEGISLATIVA
+
 ### CAPITULO ÚNICO. DEL PLAN DE DESARROLLO LEGISLATIVO
 
 > <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
@@ -2671,7 +2695,7 @@ IV.- Políticas de difusión y vinculación con los medios de comunicación soci
 
 V.-Políticas de vinculación institucional, social y con los sectores productivos.
 
-## TITULO QUINTO. DE LA PLANEACIÓN LEGISLATIVA
+## TITULO SEXTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
 ### CAPITULO UNICO. DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA
 
@@ -2753,7 +2777,7 @@ Artículo 222
 
 Cuando uno o más Diputados sean acusadores durante el procedimiento relativo al Juicio Político o para la declaración de procedencia, no tendrán voto en el fallo que se pronuncie, ni en los diversos incidentes del proceso.
 
-## TITULO SEXTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+## TITULO SÉPTIMO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
 
 ### CAPITULO PRIMERO. DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
 
@@ -2766,8 +2790,6 @@ Las iniciativas que tengan por objeto reformar o adicionar la Constitución Pol�
 Artículo 224
 
 Los trámites para las reformas o adiciones a la Constitución serán los que señala la misma en su Artículo 166.
-
-## TITULO SÉPTIMO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
 
 ### CAPITULO SEGUNDO. DE LA ELECCIÓN DEL CONTRALOR GENERAL DEL INSTITUTO ESTATAL ELECTORAL
 
@@ -2793,6 +2815,8 @@ Artículo 227
 
 En caso de falta absoluta del Gobernador del Estado, se procederá de conformidad con lo dispuesto en el Artículo 72 de la Constitución Política del Estado de Baja California Sur.
 
+## TITULO OCTAVO. DE LA DIPUTACION PERMANENTE
+
 ### CAPITULO PRIMERO. DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE
 
 Artículo 228
@@ -2812,8 +2836,6 @@ Hecha la elección de la Directiva, los electos tomarán desde luego, posesión 
 Artículo 231
 
 Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el miembro restante y por los suplentes en el orden de su nombramiento. Las faltas del Secretario se cubrirán por el miembro restante de la Diputación Permanente y en su defecto, con los suplentes por el orden de su nombramiento.
-
-## TITULO OCTAVO. DE LA DIPUTACION PERMANENTE
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE
 
@@ -2873,6 +2895,8 @@ Artículo 241
 
 Al final de su ejercicio, la Diputación Permanente entregará a la Directiva del período que se inicia, un informe por escrito y detallado de los trabajos realizados, así como un inventario que contenga los expedientes de iniciativas, oficios, memoriales, comunicaciones y demás documentos turnados durante su ejercicio. Quién informe al pleno, deberá abstenerse de emitir opinión alguna sobre los asuntos mencionados.
 
+## TITULO NOVENO. DE LA ENTREGA - RECEPCIÓN
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 Artículo 242
@@ -2915,8 +2939,6 @@ El Presidente de la Junta de Gobierno y Coordinación Política saliente que no 
 
 En este caso, el Presidente de la Junta de Gobierno y Coordinación Política entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
 
-## TITULO NOVENO. DE LA ENTREGA - RECEPCIÓN
-
 ### CAPITULO SEGUNDO. DE LA DOCUMENTACIÓN
 
 Artículo 250
@@ -2951,6 +2973,8 @@ Artículo 251
 
 El incumplimiento de las disposiciones contenidas en la presente Ley, será sancionado en los términos del Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, con independencia de las disposiciones del orden penal que sean aplicables al caso en particular.
 
+## TITULO DÉCIMO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
 Artículo 252
@@ -2978,8 +3002,6 @@ Cualquier persona tendrá acceso a los Informes del Resultado de la revisión y 
 Artículo 255
 
 El Comité y la Unidad de Transparencia solicitarán a los servidores públicos del Poder Legislativo la información que derive del ejercicio de sus facultades, competencia o funciones para el cumplimiento de sus fines.
-
-## TITULO DÉCIMO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
 ### CAPÍTULO SEGUNDO. DE LA ATENCIÓN DE LAS SOLICITUDES DE INFORMACIÓN PÚBLICA
 
@@ -3206,3 +3228,9 @@ SEGUNDO. El Honorable Congreso del Estado de Baja California Sur deberá en un t
 TERCERO. El Honorable Congreso del Estado de Baja California Sur deberá expedir en un término de 15 días naturales los lineamientos del Comité para la institucionalización de la política de igualdad y no discriminación y del procedimiento para prevenir y atender actos de violencia de género.
 
 CUARTO. Una vez instalado el Comité para la institucionalización de la política de igualdad y no discriminación y del procedimiento para prevenir y atender actos de violencia de género, el Honorable Congreso del Estado de Baja California Sur deberá expedir en un término de 15 días naturales la Política de igualdad laboral y no discriminación para el Poder Legislativo de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3122 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
