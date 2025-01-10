@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-instituto-del-cafe-de-chiapas-99845"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-12-31"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2014.
 
@@ -43,11 +43,11 @@ Ley que crea el Instituto del Café de Chiapas
 
 ### Capítulo I. De la creación, domicilio y personalidad jurídica del Instituto del Café de Chiapas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
 
 ###### Artículo 1°.
 
-Se crea el Instituto del Café de Chiapas, en adelante el Instituto, como un organismo público descentralizado de la Administración Pública estatal, sectorizado a la Secretaría de Agricultura, Ganadería y Pesca, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, de operación y ejecución, para el adecuado desempeño y desarrollo de sus funciones, mismo que atenderá los asuntos que esta ley, su reglamento interior y demás normativa aplicable le señalen.
+Se crea el Instituto del Café de Chiapas, en adelante el Instituto, como un organismo público descentralizado no sectorizado de la Administración Pública del Estado de Chiapas, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, de operación y ejecución, para el adecuado desempeño y desarrollo de sus funciones, mismo que atenderá los asuntos que esta ley, su reglamento interior y demás normativa aplicable le señalen.
 
 ###### Artículo 2°.
 
@@ -169,21 +169,25 @@ Los acuerdos y resoluciones que emita la Junta de Gobierno se aprobaran por la m
 
 ### Capítulo VI. De la Integración y Atribuciones de la Junta de Gobierno
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
 
 ###### Artículo 13.
 
-La Junta de Gobierno se integrará por:
+La Junta de Gobierno del Instituto del Café de Chiapas, se integrará de la siguiente manera:
 
-I.- Un Presidente, que será el Titular de la Secretaría de Agricultura, Ganadería y Pesca.
+I.- Un Presidente, que será designado por la persona Titular del Poder Ejecutivo del Estado, quien contará con voto de calidad.
 
-II.- Un Secretario Técnico, que será designado por la Junta de Gobierno.
+II.- Vocales, que serán las personas titulares de las siguientes Dependencias:
 
-III.- Los vocales que serán los Titulares de:
+a) Secretaría de Finanzas.
 
-a) La Secretaría General de Gobierno.
+b) Secretaría de Agricultura, Ganadería y Pesca.
 
-b) La Secretaría de Hacienda.
+c) Secretaría Anticorrupción y Buen Gobierno.
+
+La Junta de Gobierno contará con un Secretario Técnico para su auxilio; el cargo será desempeñado por la persona servidora pública del Instituto del Café de Chiapas, distinta al titular de la Dirección General, que la propia Junta de Gobierno, por mayoría de votos, tenga a bien designar.
+
+La persona Titular de la Dirección General del Instituto del Café de Chiapas, intervendrá en las sesiones de la Junta de Gobierno con derecho a voz más no a voto.
 
 ###### Artículo 14.
 
@@ -412,3 +416,13 @@ Los procedimientos que se encuentran en trámite derivados del Decreto que se ab
 Se derogan las disposiciones que se opongan al presente Decreto, así como aquellas emitidas con base en el decreto que se abroga en el presente transitorio.
 
 El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
+
+P.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 173 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Dirección General del Instituto del Café, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
