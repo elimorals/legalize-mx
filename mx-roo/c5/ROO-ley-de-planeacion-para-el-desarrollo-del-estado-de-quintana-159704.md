@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-159
 country: "mx"
 rank: "ley"
 publication_date: "2022-08-15"
-last_updated: "2022-08-15"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en el Número 15 Ordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 15 de agosto de 2022.
 
@@ -1447,7 +1447,9 @@ En tanto se expidan las disposiciones referidas de esta Ley, continuarán aplic�
 
 En el mismo plazo previsto en este numeral, el COPLADEST deberá expedir los lineamientos relativos a su integración, atribuciones y funcionamiento.
 
-CUARTO. La persona titular del Poder Ejecutivo de la Administración Pública del Estado de Quintana Roo 2022-2027, deberá realizar las acciones conducentes para la elaboración, validación, autorización, aprobación y publicación del Plan Estratégico para el Desarrollo Sostenible, en un plazo que no excederá del segundo semestre del año 2024.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
+CUARTO. La persona titular del Poder Ejecutivo de la Administración Pública del Estado de Quintana Roo 2022-2027, deberá realizar las acciones conducentes para la elaboración, validación, autorización, aprobación y publicación del Plan Estratégico para el Desarrollo Sostenible, en un plazo que no excederá del segundo semestre del año 2025.
 
 QUINTO. La Legislatura Constitucional 2022-2024 deberá expedir y publicar su Plan Institucional, dentro del plazo que establece el artículo 59 de esta ley.
 
@@ -1486,3 +1488,13 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TRECE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL VEINTIDOS.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 086 POR EL QUE SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 248 MEDIANTE EL CUAL SE EXPIDE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL QUINCE DE AGOSTO DEL AÑO DOS MIL VEINTIDÓS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
