@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-159
 country: "mx"
 rank: "ley"
 publication_date: "2022-08-15"
-last_updated: "2022-08-15"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1397 +21,1483 @@ state: "ROO"
 ---
 # LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
+LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
-Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 8 de agosto de 2002.
+Ley publicada en el Número 15 Ordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 15 de agosto de 2022.
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, en uso de las facultades que al Ejecutivo a mi cargo confieren los artículos 91 fracción V de la Constitución Política local, 2º, 3º y 10 de la Ley Orgánica de la Administración Pública y 7º fracción I y 8º fracciones IV y VI de la Ley de Transporte del Estado, y
+DECRETO NÚMERO: 248 POR EL QUE SE EXPIDE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-C O N S I D E R A N D O.
+LA HONORABLE XVI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
-Con base en lo expuesto y sobre la base del interés social, he tenido a bien expedir el siguiente:
+D E C R E T A:
 
-REGLAMENTO DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
+ÚNICO. Se expide la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, para quedar como sigue:
 
-## TITULO I. DISPOSICIONES GENERALES
+LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-### CAPITULO UNICO
+## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-###### ARTICULO 1°.
+### CAPÍTULO PRIMERO. DE SU NATURALEZA Y OBJETO
 
-Las disposiciones de este Reglamento son de orden público, de interés social, de observancia específica y de aplicación en el territorio del Estado y tiene por objeto regular la prestación del servicio público de transporte en todas sus modalidades, sea cualesquiera el tipo de vehículo y sus sistemas de propulsión, a fin de que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población, garantizando su prestación en las mejores condiciones de seguridad, comodidad, higiene y eficiencia.
+###### Artículo 1.
 
-Es competencia de la Secretaría garantizar, controlar, promover y vigilar que el servicio público de transporte se efectúe con apego a las disposiciones jurídicas y administrativas aplicables.
+La presente Ley es de orden público, interés social, observancia obligatoria y tiene por objeto primordial establecer:
 
-###### ARTICULO 2°.
+I. Los principios y bases para la integración y funcionamiento del Sistema de Planeación Democrática del Estado de Quintana Roo;
 
-Para los efectos del presente Reglamento son aplicables las definiciones establecidas en la Ley de Transporte del Estado, además de las siguientes:
+II. Las etapas e instrumentos conforme a las cuales se llevará a cabo la planeación estatal y municipal del desarrollo y encauzar, en función de ésta, las atribuciones de las autoridades responsables de la planeación y se vincule con los objetivos y estrategias del desarrollo del Estado y la Nación, en beneficio de la sociedad;
 
-I.- Arrastre:- Conjunto de maniobras indispensables para enganchar a la grúa de tracción, unidades motrices que estando sobre sus propias ruedas se encuentran imposibilitadas para circular por sí mismas y trasladarlas hasta su destino;
+III. Las bases para la formulación de:
 
-II.- Bitácora de operación:- Documento gráfico o digital que contiene la información detallada del estado de la unidad y de los conductores, elaborado al momento de iniciar su función cotidiana de prestador de un servicio público;
+a) El Plan Estratégico para el Desarrollo Sostenible;
 
-III.- Cedente:- Persona titular de una concesión para la prestación del servicio público de transporte de pasajeros, que con la autorización correspondiente, cede, transmite o enajena a otra los derechos de la concesión, cumpliendo con los requisitos exigidos;
+b) El Plan Estatal de Desarrollo;
 
-IV.- Central de servicio y operación:- Son los lugares autorizados en donde los prestadores de servicio público de transporte de pasajeros en la modalidad de auto de alquiler libre estacionan, operan, revisan y controlan sus vehículos;
+c) El Plan Municipal de Desarrollo, y
 
-V.- Centros de capacitación y adiestramiento:- Son los lugares autorizados por la Dependencia Estatal, debidamente equipados para otorgar educación vial y teórica;
+d) Los programas regionales, sectoriales, institucionales y especiales correspondientes, que serán ejecutados por las Dependencias y entidades de la Administración Pública Estatal y Municipal;
 
-VI.- Cesionario:- Persona a la cual, una vez cumplidos los requisitos señalados por la normatividad aplicable, la Dependencia Estatal, autoriza en su favor la cesión, transmisión o enajenación de los derechos para la prestación del servicio público de transporte de pasajeros;
+IV. Las bases para la formulación de los Planes Institucionales de planeación de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos;
 
-VII.- Conductor:- Persona que cuenta con licencia expedida por la Dependencia Estatal para conducir una unidad vehicular dedicada a la prestación del servicio público de transporte;
+V. Las bases para la integración y funcionamiento de una Plataforma para el registro y conocimiento público de los instrumentos de la planeación y de los convenios de coordinación y concertación que realice el Estado y los Ayuntamientos de Quintana Roo;
 
-VIII.- Depósito de vehículos:- Es el lugar para la guarda y custodia en locales autorizados por la Dependencia Estatal, de unidades infraccionadas y/o accidentadas en caminos y puentes de jurisdicción Estatal y Municipal;
+VI. Las bases para la integración y funcionamiento del Sistema de Información;
 
-IX.- Identificación oficial:- Son los colores y señalización autorizados por la Dependencia Estatal a los vehículos que prestan el servicio público de transporte, de acuerdo con su modalidad;
+VII. Los mecanismos de cocreación y participación ciudadana en materia de planeación para promover y garantizar la participación democrática, dinámica y responsable de la ciudadanía, organismos, instituciones y representantes de los sectores tanto social como privado, incluyendo a los pueblos y comunidades indígenas y afromexicanas, dentro del proceso de planeación estatal y municipal, y
 
-X.- Ley:- La Ley de Transporte del Estado de Tamaulipas;
+VIII. Los criterios para la evaluación y seguimiento dentro del Sistema de Planeación Democrática del Estado de Quintana Roo, de conformidad con los ordenamientos aplicables en la materia.
 
-XI.- Modalidades:- Las diversas formas de prestación del servicio público de transporte, autorizadas por la Dependencia Estatal;
+###### Artículo 2.
 
-XII.- Registro Estatal de Conductores:- Es el registro de los operadores designados por los concesionarios para la prestación del servicio, que deberán notificar por escrito a la Dependencia Estatal, actualizarlo permanentemente, con todos y cada uno de los datos de identidad y ubicación de los mismos, así como la concesión y vehículo en el que desarrollen su actividad;
+Para los efectos de esta Ley se entiende por:
 
-XIII.- Registro vehicular:- Es el registro de las unidades destinadas a la prestación del servicio público de transporte, que deberán presentar los concesionarios del servicio a la Dependencia Estatal y actualizar permanentemente, con todos y cada uno de los datos necesarios para la identificación del vehículo, la concesión a que están afectos y los relativos a la identificación del titular;
+I. COPLADE: El Comité de Planeación para el Desarrollo del Estado de Quintana Roo.
 
-XIV.- Reglamento:- El presente Reglamento;
+II. COPLADEMUN: El Comité de Planeación para el Desarrollo que se instituya en cada Municipio del Estado de Quintana Roo.
 
-XV.- Reglamento de Tránsito:- El Reglamento de Tránsito del Estado de Tamaulipas;
+III. COPLADEST: El Comité de Planeación Estratégica para el Desarrollo Sostenible del Estado de Quintana Roo.
 
-XVI.- Salvamento:- Conjunto de maniobras mecánicas o manuales necesarias para el rescate de vehículos imposibilitados por cualquier causa para circular, hasta dejarlos sobre sus ruedas en la carpeta asfáltica y además, remolcarlos hasta los depósitos destinados a ello;
+IV. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-XVII.- Sistema para el control de peaje:- Es el equipo de medición electrónico, que determina la operación del servicio de transporte público de pasajeros en modalidad de ruta;
+V. Diagnóstico estratégico: Es la descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, política, social, cultural, educativa y deportiva del Estado, que coadyuve a definir las grandes líneas de acción contenidas en las políticas públicas estatales.
 
-XVIII.- Sitio:- Es el lugar de la vía pública o el predio particular, donde previa autorización de la Dependencia Estatal, se estacionen vehículos destinados al servicio público de transporte, a los que el usuario pueda acudir para su contratación;
+VI. Dirección Operativa: Órgano técnico de la Secretaría, responsable de llevar a cabo todos los compromisos y obligaciones derivados de la coordinación de las actividades de la planeación estatal de desarrollo y de la coordinación del COPLADEST y COPLADE.
 
-XIX.- Taxi:- Vehículo debidamente autorizado y registrado ante la Dependencia Estatal, para prestar el servicio público de pasajeros al amparo de la concesión correspondiente;
+VII. Indicadores para la planeación: Es el parámetro utilizado para medir o comparar los resultados efectivamente obtenidos en la ejecución de un programa, proyecto o actividad, para monitorear y evaluar la ejecución de las tareas gubernamentales.
 
-XX.- Taxi de alquiler libre:- Vehículo que presta el servicio público de transporte de pasajeros sin itinerario fijo, ni adscripción permanente a alguna rampa en el ámbito territorial del Estado de Tamaulipas;
+VIII. Ley: La Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
 
-XXI.- Taxi de sitio:- Vehículo que presta el servicio público de transporte de pasajeros sin itinerario fijo, que va de los espacios físicos autorizados en bases, centros de transferencia modal, terminales y demás lugares que determine la Dependencia Estatal, hasta el lugar determinado por el usuario y regresa;
+IX. Plan Estatal: El Plan Estatal de Desarrollo de Quintana Roo.
 
-XXII.- Terminal:- Es el lugar de la vía pública o predio particular donde los vehículos del servicio público de transporte de pasajeros, tengan autorizado para iniciar su recorrido, estacionándose momentáneamente, sólo por el tiempo necesario para esperar la orden de salida; y
+X. Plan Estratégico: El Plan Estratégico para el Desarrollo Sostenible de Quintana Roo.
 
-XXIII.- Uniforme:- Vestimenta que obligatoriamente debe portar el conductor de un vehículo autorizado para prestar el servicio público de transporte de pasajeros mientras maneja dicho mueble.
+XI. Plan Nacional: El Plan Nacional de Desarrollo.
 
-###### ARTICULO 3°.
+XII. Plan Municipal: El Plan Municipal de Desarrollo de cada Municipio.
 
-En todo lo no previsto en el presente Reglamento serán aplicables, en forma supletoria, el Reglamento de Tránsito del Estado de Tamaulipas, el Código Civil, el Código de Procedimientos Civiles para el Estado y demás ordenamientos jurídicos vigentes, en tanto no se contrapongan a las disposiciones de éste.
+XIII. Secretaría: La Secretaría de Finanzas y Planeación.
 
-###### ARTICULO 4°.
+XIV. Sistema de Información: El Sistema de Información para la Planeación del Desarrollo del Estado de Quintana Roo.
 
-Salvo disposición en contrario, los términos y plazos establecidos en este Reglamento se contarán por días naturales. Si el último día del plazo o la fecha determinada es inhábil o las oficinas en donde deba realizarse el trámite permanecen cerradas durante el horario normal de labores, se prorrogará automáticamente el plazo al siguiente día hábil.
+XV. Sistema Estatal: El Sistema de Planeación Democrática del Estado de Quintana Roo.
 
-###### ARTICULO 5°.
+XVI. Perspectiva de Género: Se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
 
-Las facultades que la Ley otorga al Ejecutivo y a la Secretaría en los artículos 8º fracciones VI a la XVII y 10 fracciones VII, XI, XII, XIV, XV, XIX y XXIV podrán ser ejercidas también por la Dependencia Estatal.
+XVII. Política pública: Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad.
 
-###### ARTICULO 6°.
+XVIII. Zona Centro: Se refiere a los Municipios de Solidaridad, Tulum y Cozumel.
 
-La Secretaría realizará la inspección y vigilancia de los servicios de transporte de pasajeros, especializado y carga en el Estado, para garantizar el cumplimiento de esta Ley, sus reglamentos y las normas técnicas que expida de acuerdo con la misma. Para tal efecto, podrá requerir, en cualquier tiempo a los concesionarios y permisionarios, informes con los datos técnicos, administrativos, financieros y estadísticos, que le permitan conocer la forma de operar y explotar el servicio público de transporte, su equipamiento y sus servicios auxiliares.
+XIX. Zona Norte: Se refiere a los Municipios de Benito Juárez, Isla Mujeres, Lázaro Cárdenas y Puerto Morelos.
 
-La Secretaría podrá autorizar a terceros supervisores para que lleven a cabo verificaciones de acuerdo con lo establecido en la Ley, el presente Reglamento y demás normas técnicas.
+XX. Zona Sur: Se refiere a los Municipios de Felipe Carrillo Puerto, José María Morelos, Bacalar y Othón P. Blanco
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2012)</small>
+###### Artículo 3.
 
-ARTICULO 6° BIS.- De acuerdo con la Ley, la Secretaría de Seguridad Pública se encuentra facultada para llevar a cabo, en cualquier momento, operativos de inspección y vigilancia para la prevención de delitos, teniendo como objetivos los establecidos en el artículo 95 Ter de la misma; y los cuales se efectuarán, en los domicilios de los prestadores del servicio, establecimientos, rutas, bases de servicio, terminales, cierres de circuito, centros de transferencia modal o en el lugar donde se encuentren prestando el servicio, así como en las propias oficinas de la Secretaría de Seguridad Pública.
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo equitativo, incluyente, integral y sostenible del país, y deberá tender a la consecución de los fines y objetivos políticos, sociales, de salud, culturales, ambientales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos. Para ello, estará basada en los siguientes principios:
 
-###### ARTICULO 7°.
+I. El fortalecimiento de la soberanía, la independencia y autodeterminación nacionales, en lo político, ambiental, cultural, económico, social, de salud, educativo y deportivo, entre otros;
 
-Los supervisores están facultados para llevar a cabo las inspecciones que la Secretaría determine, en los vehículos del servicio público de transporte, ya sea para comprobar su funcionamiento y seguridad, o durante la realización del servicio, para verificar que cumplen con lo establecido en la concesión o permiso, en la Ley y este Reglamento y demás normas técnicas.
+II. La preservación y el perfeccionamiento del régimen representativo, democrático, laico y federal que la Constitución establece; y la consolidación de la democracia como sistema de vida hegemónico, fundado en el constante mejoramiento de las condiciones de vida de las y los quintanarroenses;
 
-###### ARTICULO 8°.
+III. La igualdad de derechos entre las personas, la no discriminación, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente digno y adecuado para el desarrollo de la población quintanarroense;
 
-La Secretaría, por conducto del cuerpo de supervisores, tendrá a su cargo:
+IV. Las obligaciones del Estado de promover, respetar, proteger y garantizar los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte;
 
-I.- Supervisar los vehículos destinados al servicio público de transporte, que circulen en la vía pública y sus servicios y equipamiento auxiliares;
+V. El fortalecimiento del pacto federal y del Municipio libre, para lograr un desarrollo equilibrado del Estado;
 
-II.- Revisar la documentación requerida que deben portar los conductores de los vehículos, para la prestación del servicio público de transporte, además de la documentación personal relativa al servicio que prestan;
+VI. Impulsar el crecimiento económico sostenido, la protección y promoción del empleo, en un marco de estabilidad económica y social;
 
-III.- Practicar inspecciones y revistas físicas y mecánicas a los vehículos del servicio público de transporte;
+VII. La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, así como promover la participación de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo;
 
-IV.- Participar, conjuntamente con las autoridades correspondientes, en la supervisión de las instalaciones de los equipamientos auxiliares; y
+VIII. La factibilidad cultural de las políticas públicas estatales;
 
-V.- Las demás que les confiere la Ley y el presente Reglamento.
+IX. La preservación de la cultura nacional, de las raíces e identidad quintanarroense, así como las manifestaciones culturales de los pueblos y comunidades indígenas y afromexicanas, su defensa y fortalecimiento en la entidad y su difusión hacia el exterior, como Estado fronterizo;
 
-###### ARTICULO 9°.
+X. La igualdad de oportunidades de los habitantes de las islas y la aplicación de medidas específicas para lograr la integración y desarrollo de los territorios insulares en el Estado;
 
-Los supervisores están facultados para proceder en los casos en que los conductores de vehículos del servicio público de transporte, contravengan alguna de las disposiciones de la Ley y el presente Reglamento, levantado, en su caso, las actas de infracciones, en los términos que establece la Ley, el presente Reglamento y demás ordenamientos vigentes en la materia.
+XI. La sostenibilidad, de la satisfacción de las necesidades de las generaciones presentes sin comprometer las posibilidades de las generaciones futuras;
 
-###### ARTICULO 10.
+XII. La transparencia y combate a la corrupción, impulsando la contraloría social, el escrutinio y la rendición de cuentas sobre la administración y el manejo de los recursos públicos, con el propósito de asegurar que se ejerzan de manera planificada, responsable, con apego al marco legal aplicable y en beneficio de la sociedad;
 
-Las visitas de supervisión a los vehículos destinados al servicio público de transporte, a los servicios y equipamiento auxiliares, base de servicio en la modalidad de rampas, sitios y central de servicios y operación se practicarán cualquier día y hora, por personal autorizado que exhiba identificación vigente y la orden escrita de supervisión emitida por la Secretaría. En la verificación e inspección de los servicios y equipamiento auxiliares se levantará acta debidamente circunstanciada.
+XIII. La gobernanza ciudadana, como la instauración y crecimiento de un Estado y una sociedad incluyente, en la que se hagan efectivos el acceso, la cocreación y participación de todos los grupos y sectores vulnerables, mediante mecanismos de consulta, a través de la apertura de espacios democráticos que sirvan de vía para la consolidación del Sistema Estatal, incluyendo a los pueblos y comunidades indígenas y afromexicanas, a través de sus representantes y autoridades, y
 
-###### ARTICULO 11.
+XIV. El Estado abierto, como un mecanismo que garantice la integridad, disponibilidad y acceso a la información pública, a fin de que la opinión de la sociedad sea tomada en cuenta en los procesos de decisión y gestión generado con ello el fortalecimiento de la legitimidad política en la planeación estatal.
 
-Este Reglamento garantizará los derechos de los usuarios; la Dependencia Estatal vigilará que el servicio público de transporte se proporcione en condiciones de seguridad, comodidad, higiene y eficiencia; para este propósito y con base en las disposiciones de la Ley, la Dependencia Estatal contará, en su estructura orgánica, con un área especializada para brindar información, captar sugerencias y atender las quejas presentadas por los usuarios del servicio público en general.
+###### Artículo 4.
 
-###### ARTICULO 12.
+La transformación de la realidad del Estado, de conformidad con las normas, principios y objetivos que el marco constitucional establece, tiene como propósito la ordenación racional y sistemática de acciones con base en el ejercicio de las atribuciones que para tales fines tiene el ejecutivo estatal. Estas acciones deberán estar encaminadas al aprovechamiento racional de los recursos naturales al ordenamiento territorial idóneo de los asentamientos humanos, al desarrollo urbano sustentable y ordenado; todos ellos en conjunción con la actividad económica, social, política, deportiva, educativa, de salud y cultural entre otras.
 
-Son obligaciones de los usuarios de los vehículos del servicio público de transporte:
+A través de la planeación se deberán fijar objetivos, metas, estrategias y prioridades, así como criterios basados en estudios de factibilidad; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
 
-I.- Abordar las unidades del servicio público de transporte únicamente en los lugares autorizados;
+###### Artículo 5.
 
-II.- Solicitar, con anticipación, su descenso, en la parada autorizada;
+Es responsabilidad de la persona titular del Poder Ejecutivo conducir la planeación para el desarrollo del Estado y, al interior de los Municipios, dicha responsabilidad recaerá en los Ayuntamientos, quienes lo harán con base en las disposiciones legales y en ejercicio de sus atribuciones, con respeto irrestricto a los derechos humanos y sus garantías, así como al fortalecimiento del pacto federal y del municipio libre y autónomo.
 
-III.- Hacer del conocimiento de la Dependencia Estatal de las unidades destinadas al servicio público de transporte de pasajeros que no porten placas relativas a dicho servicio;
+Los Planes Institucionales de Planeación de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos, se deberán realizar y ejecutar por los órganos de dirección de estos, con base a las normas y principios generales establecidos en la presente ley.
 
-IV.- Identificar el número de placas, así como el vehículo, antes de abordarlo, para el caso de automóviles dedicados a la prestación del servicio público de transporte de pasajeros;
+###### Artículo 6.
 
-V.- No abordar vehículos del servicio público de transporte en estado de ebriedad o intoxicación, ni realizar actos inmorales, debiendo comportarse con decoro en él;
+En todo lo no previsto expresamente por esta ley y su reglamento, se aplicará supletoriamente la Ley de Planeación en el ámbito federal.
 
-VI.- No distraer a los conductores del servicio público de transporte;
+En el ámbito estatal y exclusivamente para efectos administrativos, en los casos de duda sobre la interpretación de las disposiciones de esta Ley y su Reglamento, se estará a lo que resuelva el Poder Ejecutivo por conducto de la Secretaría.
 
-VII.- No portar armas, artefactos peligrosos o elementos de cualquier tipo que impidan la visibilidad en los vehículos destinados al servicio público de transporte;
+En el ámbito municipal se estará a lo que resuelva el Ayuntamiento del que se trate, con la participación de la persona titular de la Secretaría o dependencia en materia de planeación de la Administración Pública Municipal.
 
-VIII.- Abstenerse de fumar en el interior de las unidades del servicio público de transporte de pasajeros;
+En relación con los Planes Institucionales de Planeación de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos en los casos de duda sobre la interpretación de las disposiciones de esta Ley caso, se deberán resolver conforme a los lineamientos que al efecto emitan estos.
 
-IX.- Cubrir el importe por pago del derecho correspondiente para la prestación del servicio público de transporte, exigiendo el comprobante;
+###### Artículo 7.
 
-X.- Abstenerse de maltratar o pintar, o tirar basura dentro y fuera de las unidades del servicio público de transporte; y
+Corresponde a la persona titular del Poder Ejecutivo, por conducto de la Secretaría, a los Ayuntamientos, por conducto de las personas titulares de las Presidencias Municipales, a los Poderes Legislativo y Judicial, así como a los Órganos Públicos Autónomos, a través de sus órganos de dirección, en el ámbito de sus respectivas competencias, vigilar el cumplimiento de esta Ley y sus Reglamentos, según sea el caso.
 
-XI.- Viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas o cualquier otra parte externa de los mismos; tampoco lo harán de manera que alguna parte de su cuerpo sobresalga del vehículo y pueda ser lesionado.
+###### Artículo 8.
 
-###### ARTICULO 13.
+Los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, así como los Órganos Públicos Autónomos deberán planear y conducir sus actividades con perspectiva intercultural y de género con sujeción a los objetivos, estrategias y prioridades de la planeación estatal del desarrollo, en congruencia con la planeación nacional de desarrollo observando siempre la integralidad del desarrollo sostenible e igualdad sustantiva entre mujeres y hombres a través de los Objetivos del Desarrollo Sostenible a nivel mundial, derechos humanos y anticorrupción, desde su formulación hasta la evaluación, a fin de cumplir con la obligación del Estado de garantizar que la planeación sea equitativa, incluyente, integral y sostenible.
 
-De acuerdo a lo dispuesto por los artículos 57 y 58 de la Ley, las denuncias y quejas derivadas de la prestación del servicio público de transporte que realicen los usuarios o los auditores ciudadanos, deberán presentarse ante la Dependencia Estatal, sus Delegaciones o en las Unidades de Información y Quejas, mediante escrito en el cual la persona que la promueva deberá señalar:
+###### Artículo 9.
 
-I.- Nombre, domicilio e identificación oficial del denunciante;
+La persona titular del Poder Ejecutivo, al informar ante la Legislatura sobre el estado general que guarda la Administración Pública Estatal, hará referencia a las decisiones adoptadas para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estatal y de los programas de desarrollo que de éste se deriven, al igual que el avance en el cumplimiento de dichos Planes y programas, así como lo concerniente al cumplimiento de las disposiciones del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos en materia de derechos y cultura indígena y afromexicana.
 
-II.- Los datos de identificación disponibles, en su caso, del conductor, vehículo, itinerario o del prestador del servicio que permitan su localización; y
+Asimismo, informará sobre la instrumentación, control, seguimiento y evaluación del Plan Estratégico, en el ámbito de su competencia.
 
-III.- La relación de los hechos que se denuncian.
+El contenido de la cuenta anual de la Hacienda Pública Estatal deberá relacionarse, en lo conducente, con la información a que alude el párrafo que antecede, para permitir a la Legislatura el análisis de las cuentas con relación a los objetivos y prioridades de la Planeación Estatal, referentes a las materias objeto de dichos documentos.
 
-## TITULO II. ELEMENTOS PERSONALES DEL TRANSPORTE PUBLICO
+###### Artículo 10.
 
-###### ARTICULO 14.
+Las dependencias, las entidades paraestatales y organismos desconcentrados, anualmente, a solicitud de la Legislatura, darán cuenta a ésta del estado que guarden sus respectivos ramos, informarán el avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación estatal, que por razón de su competencia les corresponda, así como de los resultados de las acciones implementadas.
 
-Complementariamente a las obligaciones establecidas en el artículo 60 de la Ley, los prestadores del servicio público de transporte, deberán cumplir lo siguiente:
+También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres y hombres. En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
-I.- Entregar el comprobante correspondiente del servicio otorgado;
+Las autoridades a que alude el primer párrafo de este artículo, que sean citadas por las Comisiones de la Legislatura, para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de ley o asunto de que se trate y los objetivos de la planeación estatal, relativos a sus respectivos ámbitos de competencia.
 
-II.- Mantener los vehículos, servicios y equipamiento auxiliares destinados al servicio en condiciones de operación, seguridad e higiene establecidas en la Ley, este Reglamento y demás normas técnicas;
+###### Artículo 11.
 
-III.- Verificar que los conductores porten visible al usuario, el documento de identificación para operar unidades de transporte público que para tal efecto expida la Dependencia Estatal, así como el uniforme obligatorio, durante la prestación del servicio;
+Las personas titulares de las Presidencias Municipales, al informar a su Ayuntamiento respectivo sobre el estado general que guarda la Administración Pública Municipal, harán referencia a las decisiones adoptadas para la formulación, instrumentación, control, seguimiento, evaluación y actualización del plan municipal correspondiente y de los programas de desarrollo que de éste se deriven; así como del avance en el cumplimiento de dicho Plan y programas.
 
-IV.- Dar a conocer a los conductores y velar por el estricto cumplimiento del Reglamento Interior del Servicio;
+El contenido de la Cuenta Anual de la Hacienda Pública Municipal deberá relacionarse, en lo conducente, con la información a que alude el párrafo que antecede, para permitir a la Legislatura el análisis de las cuentas con relación a los objetivos y prioridades de la Planeación Municipal, referentes a las materias objeto de dichos documentos.
 
-V.- Cumplir con los horarios, rutas, modalidad, itinerarios, tarifas y demás requisitos aprobados para cada tipo de servicio;
+###### Artículo 12.
 
-VI.- Exigir a su personal, educación y comportamiento correcto con los usuarios, aplicando las sanciones disciplinarias que procedan cuando se cometan faltas en ese sentido;
+Tanto en el ámbito Estatal como Municipal, los Presupuestos de Egresos, Leyes de Ingresos y la aplicación de los instrumentos de política económica y social, deberán ser congruentes con los objetivos y prioridades del Plan Estratégico, el Plan Estatal y el Plan Municipal, según corresponda, y dichas normas señalarán su vinculación, así como las relaciones que, en su caso, existan con el Plan Nacional, los Planes Estatales y Municipales y los programas respectivos, según corresponda.
 
-VII.- Colaborar con las autoridades de transporte y vialidad, en la preparación y desarrollo de campañas y cursos que se establezcan para fomentar la seguridad y la educación vial, tanto en el sector transportista como entre la población en general;
+Para tal efecto la Legislatura, las Comisiones de ésta, cuando así corresponda verificará el cumplimiento de lo dispuesto en este artículo.
 
-VIII.- Abstenerse de realizar cualquier acto que implique competencia desleal o lesione derechos adquiridos por los demás concesionarios y permisionarios;
+###### Artículo 13.
 
-IX.- Presentar a la Dependencia Estatal, anualmente sus programas de capacitación e informe de resultados, para el año siguiente, dirigido a conductores, empleados y demás personas relacionadas con la prestación del servicio materia de la concesión o permiso;
+Los proyectos de iniciativa de leyes, decretos, reglamentos o acuerdos que dentro del ámbito de sus respectivas competencias formulen los Poderes Ejecutivo, Legislativo y Judicial, los Ayuntamientos, así como los Órganos Públicos Autónomos, señalarán su vinculación, y las relaciones que, en su caso, existan con el Plan Estratégico, el Plan Estatal y el Plan Municipal, y los programas respectivos, según corresponda.
 
-X.- Llevar, en forma diaria previo al inicio del servicio público de transporte, la Bitácora de Operación, con el contenido establecido en la Ley, el Reglamento y demás normas técnicas;
+## TÍTULO SEGUNDO. DEL SISTEMA DE PLANEACIÓN DEMOCRÁTICA DEL ESTADO DE QUINTANA ROO
 
-XI.- Prestar el servicio público de que se trate, únicamente en las unidades autorizadas, a cada concesión, por la Dependencia Estatal;
+###### Artículo 14.
 
-XII.- Presentar a la Dependencia Estatal su registro de conductores, con los datos necesarios para su ubicación e identificación al momento de inscribirse en el Registro Estatal; y
+La planeación del Estado se realizará en los términos de esta Ley, a través del Sistema de Planeación Democrática del Estado de Quintana Roo, mediante el cual se llevará a cabo el proceso de planeación del Plan Estratégico, el Plan Estatal y el Plan Municipal, así como los programas señalados en esta Ley, en el marco de la estrategia nacional del desarrollo.
 
-XIII.- Cumplir con las demás obligaciones que se impone de la Ley, este Reglamento y demás normas que dicte la Dependencia Estatal.
+### CAPÍTULO SEGUNDO. LOS ELEMENTOS DEL SISTEMA
 
-### CAPITULO I. AUTORIDADES DE TRANSPORTE Y SUPERVISORES
+###### Artículo 15.
 
-###### ARTICULO 15.
+El Sistema Estatal es un mecanismo permanente que sirve para llevar a cabo en forma coordinada y concertada el proceso de planeación democrática, a fin de garantizar el desarrollo integral del Estado.
 
-El Reglamento Interior del Servicio, como contenido mínimo, incluirá:
+###### Artículo 16.
 
-I.- La forma de darle mantenimiento a sus unidades vehiculares y su periodicidad;
+El Sistema Estatal tendrá por objeto garantizar el desarrollo integral del Estado y de los Municipios, atendiendo principalmente a las necesidades básicas para mejorar la calidad de vida de sus habitantes, mediante la conformación armónica y adecuada de las relaciones funcionales entre las diferentes regiones de la entidad, así como la planeación democrática mediante la intervención y consulta de la ciudadanía, organismos, instituciones y representantes de los sectores tanto social como privado, a través de los mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-II.- El mecanismo de verificación del estado físico-mecánico-ecológico y ambiental de los vehículos;
+###### Artículo 17.
 
-III.- Las reglas relativas a los mecanismos para comprobar el cumplimiento de las disposiciones de la Ley y este Reglamento, por parte de los conductores;
+Las disposiciones reglamentarias de esta Ley establecerán, entre otras, las normas de organización y funcionamiento del Sistema Estatal, así como los lineamientos a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control, seguimiento, evaluación y actualización de los planes y programas a que se refiere la misma.
 
-IV.- La forma en que se prestará el servicio;
+### CAPÍTULO ÚNICO. DE LA ESTRUCTURA INSTITUCIONAL
 
-V.- Los programas de capacitación que otorgarán a sus conductores estableciendo el contenido detallado;
+###### Artículo 18.
 
-VI.- Los fundamentos técnicos y legales relativos al transporte y la vialidad; y
+Los elementos del Sistema Estatal estarán clasificados de la siguiente forma:
 
-VII.- Los demás que se establezcan en la Ley, este Reglamento y otras disposiciones legales aplicables.
+I. Estructura institucional;
 
-###### ARTICULO 16.
+Il. Instrumentos de la planeación;
 
-Los programas de capacitación para conductores deberán contar con la autorización de la Dependencia Estatal.
+III. Proceso de planeación, y
 
-Las capacitaciones que deberán impartir los prestadores de servicio, a sus conductores, empleados y demás personas relacionados con la prestación del servicio deberá incluir, entre otras, el conocimiento geográfico del Estado de Tamaulipas y los Municipios en donde se preste el servicio; centros de atracción turística y cultural; ubicación de las principales dependencias y organismos de la Administración Pública y Poderes de Estado, relaciones humanas y cortesía urbana, primeros auxilios, los fundamentos técnicos y legales relativos al transporte y la vialidad.
+IV. Mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-###### ARTICULO 17.
+## TÍTULO TERCERO. DE LA ESTRUCTURA INSTITUCIONAL
 
-El Reglamento Interior del Servicio deberá, previamente ha (sic) ser inscrito en el Registro Estatal, ser autorizado, por escrito, por la Dependencia Estatal.
+###### Artículo 19.
 
-### CAPITULO II. DE LOS USUARIOS
+La operación del Sistema Estatal estará a cargo de una estructura institucional, que será la responsable de llevar a cabo el proceso de planeación que se regula en esta Ley, la cual se integrará por:
 
-###### ARTICULO 18.
+I. El Comité de Planeación Estratégica para el Desarrollo Sostenible del Estado de Quintana Roo;
 
-Los conductores tienen derecho de recibir de los prestadores de servicio, la capacitación continua y permanente que tenga relación con el servicio proporcionado.
+II. El Comité de Planeación para el Desarrollo del Estado de Quintana Roo, y
 
-## TITULO III. DE LAS CONCESIONES Y PERMISOS
+III. El Comité de Planeación para el Desarrollo que se instituya en cada Municipio del Estado de Quintana Roo.
 
-###### ARTICULO 19.
+#### SECCIÓN PRIMERA. DEL COPLADEST Y DEL COPLADE
 
-Sin perjuicio de la responsabilidad que corresponda a los prestadores de servicio, los conductores de los vehículos del servicio público de transporte están obligados a:
+###### Artículo 20.
 
-I.- Contar con licencia vigente para conducir de (sic) vehículos de transporte público;
+El COPLADEST es el órgano público, colegiado e interinstitucional encargado del Plan Estratégico y se integrará por:
 
-II.- Portar en lugar visible al usuario, el documento de identificación que establece este Reglamento;
+I. La persona titular del Poder Ejecutivo, quien lo presidirá;
 
-III.- Efectuar maniobras de ascenso y descenso de pasajeros, únicamente en los lugares autorizados;
+II. La persona que presida la Junta de Gobierno y Coordinación Política del Poder Legislativo del Estado de Quintana Roo;
 
-IV.- Usar el uniforme que se establezca por los prestadores del servicio;
+III. La persona que presida el Tribunal Superior de Justicia del Poder Judicial del Estado de Quintana Roo;
 
-V.- No abrir las puertas de la unidad, sino hasta el punto de parada. En caso de aglomeración extrema de la unidad, se deberán desalojar los pasajeros excedentes de la unidad para hacer posible el cierre de las puertas; y
+IV. Los representantes de los Órganos Públicos Autónomos en la entidad;
 
-VI.- Cumplir con las disposiciones contenidas en la Ley y este Reglamento.
+V. La persona titular de cada una de las Presidencias municipales de los Ayuntamientos del Estado de Quintana Roo;
 
-#### Sección I.- De la concesión
+VI. El titular de la Secretaría, quien coordinará los trabajos del COPLADEST a través de una Dirección Operativa;
 
-###### ARTICULO 20.
+VII. Un representante de cada una de las coordinaciones de los ejes que establezca el Plan Estratégico;
 
-Los conductores de los vehículos destinados a la prestación del servicio público de transporte tienen prohibido:
+VIII. Una persona representante de los pueblos y comunidades indígenas y afromexicanas;
 
-I.- Ingerir bebidas alcohólicas o sustancias psicotrópicas o enervantes de cualquier naturaleza, durante las horas de su servicio o con veinticuatro horas de anticipación a la iniciación del mismo;
+IX. Tres personas representantes de instituciones de educación superior en el Estado de Quintana Roo, preferentemente públicas; debiendo pertenecer una de la zona sur, una de la zona centro y otra de la zona norte;
 
-II.- Abastecer los vehículos de combustible llevando pasajeros a bordo;
+X. Tres personas representantes de las cámaras empresariales en el Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte;
 
-III.- Llevar pasajeros en cualquier parte exterior de los vehículos que tengan este aditamento o en los estribos de la unidad, así como rebasar la capacidad autorizada de pasajeros;
+XI. Tres personas representantes de los colegios de profesionistas en el Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte;
 
-IV.- Realizar cualquier acto que ponga en riesgo la seguridad del usuario, de terceros o de la propia unidad confiada a su cuidado;
+XII. El Consejo Ciudadano de Planeación del Estado de Quintana Roo, y
 
-V.- Prestar el servicio que corresponda en condiciones de desaseo y desarreglo personal; ser descortés, agresivo o grosero con el pasaje o con terceros;
+XIII. Ciudadanos, organismos, instituciones o representantes del sector social y privado, que consideren los integrantes, cuyo carácter serán de invitados.
 
-VI.- Estacionarse o hacer terminal, o sitios en lugares no autorizados;
+Las personas integrantes del COPLADEST contarán con voz y voto, a excepción de los señalados en las fracciones VIII, IX, X, XI, XII y XIII de este artículo quienes únicamente contarán con voz.
 
-VII.- Fumar durante la prestación del servicio;
+### CAPÍTULO PRIMERO. DE LOS INSTRUMENTOS DE LA PLANEACIÓN Y DISPOSICIONES COMUNES
 
-VIII.- Efectuar reparación alguna de los vehículos en la vía pública, o hacer labores de limpieza de las unidades en estos lugares;
+###### Artículo 44.
 
-IX.- Llevar equipos de sonido de tal forma que su volumen sea contaminante o molesto; y
+Los instrumentos de la planeación son:
 
-X.- Cumplir con las demás disposiciones jurídicas y administrativas aplicables.
+I. El Plan Nacional de Desarrollo;
 
-### CAPITULO III. PRESTADORES DEL SERVICIO
+II. El Plan Estratégico para el Desarrollo Sostenible de Quintana Roo;
 
-###### ARTICULO 44.
+III. El Plan Estatal de Desarrollo de Quintana Roo;
 
-Las causas de cancelación y revocación de las concesiones previstas en la Ley, operarán de igual forma para los permisos, agregándose además, las siguientes:
+IV. El Plan Institucional de Planeación del Poder Legislativo de Quintana Roo;
 
-I.- Porque se preste el servicio de forma diferente a lo autorizado en el título correspondiente;
+V. El Plan Institucional de Planeación del Poder Judicial de Quintana Roo;
 
-II.- Porque los vehículos con los que se preste el servicio, no conserven de un modo permanente las características requeridas para el tipo de servicio que se trate;
+VI. Los Planes Institucionales de los Órganos Públicos Autónomos de Quintana Roo;
 
-III.- Por las causas legales que se establezcan en el título de permiso y concesión y en las normas, decretos y acuerdos relativos a transporte; y
+VII. El Plan Municipal, que se instituya en cada Municipio del Estado de Quintana Roo, y
 
-IV.- Por circular con placas del servicio público de transporte que no correspondan al vehículo autorizado.
+VIII. Los Programas: regionales, sectoriales, institucionales, y especiales.
 
-###### ARTICULO 45.
+###### Artículo 45.
 
-La cancelación será declarada administrativamente por la Dependencia Estatal de acuerdo a las atribuciones que le confieren los ordenamientos legales vigentes y conforme al procedimiento siguiente:
+Los instrumentos de la planeación, una vez aprobados y publicados adquieren el carácter de obligatorio para los Poderes Ejecutivo, Legislativo y Judicial, los Órganos Públicos Autónomos y los Municipios, en el ámbito de sus respectivas competencias.
 
-I.- Apercibir al permisionario sobre las violaciones en las que incurre, para que ajuste su servicio a lo que señala el permiso, la Ley y el presente Reglamento;
+###### Artículo 46.
 
-II.- La Dependencia Estatal hará saber al permisionario los motivos por los cuales se ha considerado procedente cancelar su permiso y se le concederá un plazo de treinta días hábiles, contados a partir del día siguiente en que se haga la notificación, para que presente las pruebas y defensas que estime convenientes; y
+La vigencia de los instrumentos de la planeación, no excederá de los periodos previstos en esta ley. Sin perjuicio de lo anterior, deberán contener consideraciones y proyecciones de largo plazo, en congruencia con el Plan Estratégico, los Objetivos de Desarrollo Sostenible a nivel mundial, los acuerdos y tratados internacionales, así como las leyes aplicables.
 
-III.- Presentadas las pruebas y defensas, o transcurrido el plazo señalado en la fracción anterior sin que éstas se hubieran presentado, la Dependencia Estatal dictará la resolución correspondiente, dentro de los veinte días hábiles siguientes.
+###### Artículo 47.
 
-###### ARTICULO 46.
+Los Planes Estratégico, Estatal y Municipal determinarán su contenido acorde a los propósitos y objetivos de la Planeación Nacional del Desarrollo.
 
-Por su naturaleza, los permisos son susceptibles de terminación por las siguientes causas:
+#### SECCIÓN PRIMERA. DEL PLAN ESTRATÉGICO PARA EL DESARROLLO SOSTENIBLE
 
-I.- Vencimiento del plazo establecido en el permiso, con excepción de lo previsto por el artículo 52 de la Ley;
+###### Artículo 48.
 
-II.- Renuncia expresa del titular del permiso;
+El Plan Estratégico para el Desarrollo Sostenible es un instrumento orientador de la planeación en el Estado y los municipios, el cual, bajo los principios y mecanismos de esta ley, participan los Poderes Ejecutivo, Legislativo y Judicial, los municipios, los Órganos Públicos Autónomos, así como la ciudadanía, organismos, instituciones y representantes del sector social y privado para establecer una visión de al menos veinticinco años para el desarrollo sostenible del Estado de Quintana Roo a largo plazo.
 
-III.- Cambio del objeto social del permisionario, tratándose de persona moral;
+###### Artículo 49.
 
-IV.- Liquidación de la sociedad de que se trate;
+Tendrá como objetivo el de establecer las bases, alcances, metas y acciones para integrar, operar, dar seguimiento y evaluar los instrumentos de política pública del Estado de Quintana Roo y sus municipios, el cual deberá ser observado por los poderes Ejecutivo, Legislativo y Judicial, los Órganos Públicos Autónomos, Dependencias y Entidades de la Administración Pública Estatal y Municipal, además de organismos, unidades administrativas y organizaciones públicas y privadas que ejerzan recursos públicos.
 
-V.- Quiebra, para lo cual se estará a lo dispuesto en la ley de la materia; y
+El Plan Estratégico se integrará al menos con la estructura que establece el artículo 51 en las fracciones, I, II, III, IV, V, VI, VII, IX, X y XIII.
 
-VI.- Las demás que se establezcan en la Ley, este Reglamento y demás disposiciones legales.
+#### SECCIÓN SEGUNDA. DE LOS PLANES ESTATAL Y MUNICIPAL DE DESARROLLO
 
-###### ARTICULO 47.
+###### Artículo 50.
 
-La terminación de los permisos a que se refiere el artículo anterior, será decretada sin que medie procedimiento administrativo alguno, quedando sin efecto la documentación inherente al mismo.
+El Plan Estatal de Desarrollo y el Plan Municipal de Desarrollo son instrumentos rectores de la planeación para el desarrollo del Estado y del Municipio, respectivamente, que deberán ser coherentes con el Plan Estratégico para promover y fomentar el desarrollo integral sostenible en el Estado y en los Municipios, así como el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y la sociedad hacia ese fin.
 
-#### Sección II.- Cesión
+###### Artículo 51.
 
-###### ARTICULO 48.
+Los Planes Estatal y Municipal se integrarán, al menos, con la siguiente estructura:
 
-Las personas físicas o morales, a quienes se les haya revocado una concesión, están imposibilitadas para gestionar otra por el plazo de entre uno a tres años, en relación a la falta cometida. Dicho plazo se fijará en la resolución que emita la Dependencia Estatal.
+I. Introducción para ofrecer una breve descripción del Plan y un mensaje del órgano que lo emite;
 
-###### ARTICULO 49.
+II. Misión y visión que describe la razón del documento de planeación, así como la perspectiva de crecimiento y desarrollo futuro;
 
-La prestación del servicio público de transporte de pasajeros en la modalidad de ruta puede ser prestada por automóviles en todas sus capacidades o bien por microbuses, midibuses, autobuses o autobuses articulados y que cumplan con todas las normas técnicas que al efecto se expidan.
+III. Marco Jurídico que describa las leyes, reglamentos y demás disposiciones en las que se fundamente el Plan que se trate;
 
-#### Sección III.- Enajenación y Gravamen
+IV. Diagnóstico general sobre la situación actual de los temas prioritarios que permitan impulsar el desarrollo estatal y municipal, así como la perspectiva de largo plazo respecto de dichos temas;
 
-###### ARTICULO 50.
+V. Ejes generales que agrupen los temas prioritarios referidos en la fracción anterior, cuya atención impulsen el desarrollo estatal y municipal;
 
-Las rutas y los itinerarios serán establecidos en las vías públicas, mediante horarios, o frecuencias de paso autorizados por la Dependencia Estatal. La creación, ampliación o supresión de rutas o itinerarios serán diseñadas en base a los estudios técnicos que Dependencia Estatal practique u ordene y con la opinión del Consejo Estatal de Transporte.
+VI. Objetivos específicos que hagan referencia clara al impacto positivo que se pretenda alcanzar en un plazo determinado para atender los temas prioritarios identificados en el diagnóstico, los cuales expresan las aspiraciones y necesidades de la población;
 
-###### ARTICULO 51.
+VII. Estrategias para ejecutar las acciones que permitan lograr los objetivos específicos señalados en el Plan que se trate;
 
-Los itinerarios que se establezcan para el servicio público de transporte de pasajeros, deberán comprender lo siguiente:
+VIII. Líneas de acción que describan las políticas públicas o proyectos a realizar;
 
-I.- Número de kilómetros del recorrido;
+IX. Indicadores de desempeño que permiten determinar la situación sobre un tema en específico y que proporciona un medio sencillo y fiable para medir el cumplimiento de metas y objetivos establecidos;
 
-II.- Frecuencia máxima de paso a lo largo del recorrido;
+X. Metas para cuantificar el resultado que se pretende lograr, cuyo cumplimiento contribuye a alcanzar los objetivos fijados;
 
-III.- Puntos extremos del recorrido, origen-destino;
+XI. Programas de Desarrollo que deban ser elaborados para el cumplimiento del Plan que se trate;
 
-IV.- En caso de transporte urbano, el nombre de las calles que recorren la ruta;
+XII. Las acciones que serán objeto de coordinación entre los gobiernos federal, estatal y municipal, de otros Estados, y Municipios de otros Estados, según sea el caso, de concertación o inducción con la ciudadanía, organismos, instituciones y representantes del sector social y privado, y
 
-V.- Localización de los lugares de parada obligatoria en los puntos intermedios;
+XIII. Los demás aspectos que se establezcan en las disposiciones jurídicas aplicables y que sean necesarios para el logro de los objetivos del Plan.
 
-VI.- Tiempo total en que se hace el recorrido; y
+#### SECCIÓN TERCERA. DE LOS PROGRAMAS DE DESARROLLO
 
-VII.- Las unidades totales y en servicio.
+###### Artículo 52.
 
-###### ARTICULO 52.
+Los Programas Estatales y Municipales de Desarrollo son los instrumentos rectores cuya finalidad consiste en detallar los planteamientos y orientaciones generales que emanan del Plan Estatal y del Plan Municipal respectivamente, mediante la identificación de objetivos y acciones a ejecutar por el Estado y los Municipios en sus respectivos ámbitos de competencia, para cumplir con las responsabilidades que esta Ley les señala.
 
-Las rutas e itinerarios se autorizan para que mediante las concesiones se satisfaga la demanda de transportación de personas, por lo que no son exclusivas; sin embargo, la Secretaría, en todo momento, tomará en cuenta la antigüedad en su explotación, por parte de los concesionarios, para la creación de nuevas rutas o ampliación de las existentes, quedando en entera libertad de iniciar el proceso de redistribución de conformidad con lo establecido en la Ley, este Reglamento y las normas técnicas.
+Estos programas observarán congruencia con el Plan Estratégico, el Plan Estatal y el Plan Municipal respectivamente, así como con los objetivos y prioridades de la Planeación Nacional del Desarrollo.
 
-###### ARTICULO 53.
+###### Artículo 53.
 
-Las ampliaciones, modificaciones y nuevos itinerarios, se solicitarán de la siguiente manera:
+Los Programas Estatales y Municipales de acuerdo a su ámbito de aplicación, se clasifican en:
 
-I.- Escrito de solicitud de parte de la persona física o jurídica o instituciones;
+I. Regionales: Son los instrumentos normativos que harán referencia a las regiones que se consideren prioritarias o estratégicas, en función de los objetivos que para el desarrollo integral del Estado fije el Plan Estratégico y el Plan Estatal, cuya extensión territorial rebase, en el caso de los estatales el ámbito jurisdiccional de un Municipio y, en el caso de los municipales, el ámbito jurisdiccional de una Alcaldía Municipal.
 
-II.- Comprobante de domicilio, en caso de persona física;
+Su objeto es impulsar el desarrollo equilibrado de los Municipios de acuerdo con las características geográficas y económicas del territorio;
 
-III.- Copia de la concesión o permiso donde se señale el itinerario autorizado o de la propuesta del itinerario;
+II. Sectoriales: Son los instrumentos normativos que especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector de la materia de que se trate;
 
-IV.- Plano del itinerario autorizado, con el señalamiento del área de influencia y estimación de la población beneficiada; el mismo documento respecto de la ampliación o modificación solicitada;
+Asimismo, contendrán estimaciones de recursos y determinaciones sobre instrumentos y responsables de su ejecución.
 
-V.- Estimación de la demanda total del servicio de acuerdo a los estudios técnicos; y
+III. Institucionales: Son los instrumentos normativos que deberán elaborarse por las entidades paraestatales, que concretan los lineamientos de la planeación sectorial, en su caso;
 
-VI.- Indicación de las rutas y concesionarios que otorgan servicio en el área de influencia señalada, así como la oferta de servicio de dicha área y el señalamiento de los beneficios que se obtendrán con la ampliación o modificación.
+IV. Especiales: Son los instrumentos normativos que harán referencia a las prioridades del desarrollo integral del Estado y los Municipios fijadas (sic) en el Plan Estratégico, el Plan Estatal o en el Plan Municipal respectivamente; a las actividades relacionadas con dos o más dependencias coordinadoras de sector, así como a los que dicte, mediante acuerdo, el COPLADEST, el COPLADE o el COPLADEMUN en el ámbito de sus respectivas competencias.
 
-###### ARTICULO 54.
+El COPLADE y el COPLADEMUN supervisarán la formulación de estos programas especiales, así como de los Programas Especiales Indígenas y Afromexicanas, previa consulta a dichos pueblos y comunidades, de conformidad con lo dispuesto en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las solicitudes referidas en el artículo anterior, que al respecto se formulen a la autoridad competente, deberán ser resueltas en un plazo de noventa días naturales, transcurrido el cual sin que se notifique la resolución, se considerará que la autoridad resolvió negativamente.
+###### Artículo 54.
 
-###### ARTICULO 55.
+Los programas se integrarán, al menos, con la siguiente estructura:
 
-Los prestadores del servicio público de transporte, sin perjuicio de las establecidas en el capítulo II del título sexto de la Ley, se sujetarán a las siguientes restricciones:
+I. Introducción para ofrecer una breve descripción del programa y un mensaje del órgano que lo coordina;
 
-I.- Modificar la modalidad del servicio para la que fueron autorizados, sin que previamente haya sido autorizado por la Dependencia Estatal;
+II. Misión y visión que describe la razón del documento de planeación, así como la perspectiva de crecimiento y desarrollo futuro;
 
-II.- En la modalidad de sitio, sólo podrán recoger el pasaje en la ubicación de su sitio al destino del usuario, así como del lugar en donde el usuario le solicitó el servicio a su sitio;
+III. Marco Jurídico que describa las leyes, reglamentos y demás disposiciones en las que se fundamente el programa que se trate;
 
-III.- En la modalidad de auto de alquiler libre, no podrán hacer rampas; y
+IV. Diagnóstico general sobre la problemática a atender por el programa, así como la perspectiva de largo plazo en congruencia con el Plan que se trate;
 
-IV.- Las demás establecidas por la Dependencias Estatal, la Ley, este Reglamento y demás normas técnicas que al efecto se expidan.
+V. Temáticas como elementos que organizan y presentan las características comunes de las prioridades sobre las que gira la Planeación del Desarrollo y que permite su atención particular, a través de líneas de acción;
 
-###### ARTICULO 56.
+VI. Objetivos específicos del programa alineados a las estrategias del Plan que se trate;
 
-La prestación del servicio público de transporte especializado se clasifica en:
+VII. Estrategias para ejecutar las acciones que permitan lograr los objetivos específicos del programa;
 
-I.- Escolar; es la actividad por virtud de la cual, y mediante permiso otorgado por la Dependencia Estatal, las personas físicas o morales satisfacen las necesidades de transporte de alumnos y personal docente;
+VIII. Líneas de acción que apoyen la implementación de las estrategias planteadas en cada programa indicando la dependencia o entidad responsable de su ejecución;
 
-II.- De personal; es la actividad por virtud de la cual, y mediante permiso otorgado por la Dependencia Estatal, las personas físicas o morales satisfacen las necesidades de transporte de los empleados que laboren en las empresas que contratan sus servicios y que no se ofrece al público en general;
+IX. Indicadores de desempeño que permiten determinar la situación sobre un tema en específico y que proporciona un medio sencillo y fiable para medir el cumplimiento de metas y objetivos establecidos;
 
-III.- Turístico y diversiones; es la transportación de las personas que viajan con fines de esparcimiento, recreo o estudio a los lugares de interés turístico, arquitectónico, arqueológico, histórico, cultural y artístico dentro del Estado;
+X. Metas para cuantificar el resultado que se pretende lograr, cuyo cumplimiento contribuye a alcanzar los objetivos fijados;
 
-IV.- Servicios de emergencia particulares; es el que se presta en ambulancias, autopatrullas, vehículos de bomberos y otros de emergencia; y
+XI. Los elementos necesarios para su instrumentación y asignación de recursos, de acuerdo con los ordenamientos aplicables en materia de presupuesto;
 
-V.- Funerario; es el que se destina para el traslado del ataúd en un cortejo fúnebre.
+XII. Las acciones que serán objeto de coordinación entre los gobiernos federal, estatal y municipal, de otros Estados, y Municipios de otros Estados, según sea el caso, de concertación o inducción con la ciudadanía, organismos, instituciones y representantes del sector social y privado, y
 
-###### ARTICULO 57.
+XIII. Los demás aspectos que se establezcan en las disposiciones jurídicas aplicables y que sean necesarios para el logro de los objetivos del Plan.
 
-Para prestar el servicio de transporte escolar deberá contar con la autorización del Director o de la sociedad de padres de familia de la institución educativa, así como especificar la zona de influencia del servicio, horario a seguir y cumplir con las siguientes condiciones:
+###### Artículo 55.
 
-I.- El servicio se prestará exclusivamente en vehículos que cuenten con ventanillas y con las demás características que establezcan las normas técnicas que al efecto se expidan;
+La vigencia de los programas no excederá del período constitucional de la gestión gubernamental en que se aprueben, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
 
-II.- Deberán estar pintados de color amarillo caterpilla, con rótulos, en las partes frontal y posterior, con la leyenda de "Precaución Transporte Escolar", en color negro mate; así como un número económico asignado por la Dependencia Estatal;
+#### SECCIÓN CUARTA. DE LOS PLANES INSTITUCIONALES DE PLANEACIÓN DE LOS PODERES LEGISLATIVO Y JUDICIAL, ASÍ COMO DE LOS ÓRGANOS PÚBLICOS AUTÓNOMOS
 
-III.- Portar botiquín de primeros auxilios y extinguidor; y
+###### Artículo 56.
 
-IV.- Las demás establecidas en la Ley, este Reglamento y demás normas técnicas que al efecto se expidan.
+Los Poderes Legislativo y Judicial, así como los Órganos Públicos Autónomos, deberán elaborar su Plan Institucional de Planeación, mediante la identificación de objetivos y acciones a ejecutar en sus respectivos ámbitos de competencia, para cumplir con las responsabilidades que la Constitución y las leyes respectivas les consagran, el cual deberá ser congruente con el Plan Estratégico y el Plan Estatal.
 
-###### ARTICULO 58.
+###### Artículo 57.
 
-El servicio de transporte de personal, es aquél que se presta por personas físicas o morales, quienes trasladarán a trabajadores de determinada empresa, del lugar en que se ubica ésta a su domicilio o a lugares determinados, bajo un itinerario que deberá ser autorizado por la Dependencia Estatal, el cual se proporcionará en autobuses, microbuses o midibuses cerrados, sujetándose a las características previstas por la Ley, este Reglamento, y las normas técnicas, para el servicio público de transporte de pasajeros.
+Los Poderes Legislativo y Judicial, así como los Órganos Públicos Autónomos, definirán los mecanismos de cocreación y participación ciudadana en materia de planeación, con el propósito de contar con propuestas que enriquezcan el ejercicio de su quehacer público.
 
-El itinerario que se autorice para este tipo de transporte, será respetado por los conductores de los vehículos que prestan el servicio y sólo podrá ser modificado, previa solicitud por escrito, con la autorización de la Dependencia Estatal.
+Asimismo, una vez concluido el proyecto de su Plan Institucional, solicitarán la opinión del Poder Ejecutivo, y en su caso considerarán las aportaciones que realice el mismo.
 
-La prestación del servicio de transporte de personal se regirá por las condiciones que acuerden la empresa y el prestador del servicio, respetando las determinaciones establecidas en las disposiciones jurídicas y administrativas en materia de transporte público.
+###### Artículo 58.
 
-###### ARTICULO 59.
+El órgano directivo de mayor jerarquía en los Poderes Legislativo y Judicial, así como en los Órganos Públicos Autónomos, será el responsable de la aprobación del Plan Institucional de Planeación respectivo y de los programas que se deriven de los mismos.
 
-El servicio de transporte turístico y diversiones podrá autorizarse a personas físicas o morales registradas en la Dependencia del ramo, para dedicarse a este tipo de actividad, debiendo cumplir con los requisitos que señala el artículo 50 de la Ley.
+Asimismo, podrán convenir y concertar con otros entes de gobierno, así como con la ciudadanía, organismos, instituciones y representantes del sector social y privado, para el cumplimiento de los objetivos y acciones del Plan Institucional que corresponda.
 
-### CAPITULO III. DE CARGA
+###### Artículo 59.
 
-###### ARTICULO 60.
+El Poder Legislativo deberá aprobar y publicar en el Periódico Oficial del Estado de Quintana Roo, el Plan Institucional de Planeación, dentro de los primeros cuatro meses a su instalación.
 
-Para la prestación del servicio público de transporte de carga se deberá cumplir con lo siguiente:
+En el caso del Poder Judicial y los Órganos Públicos Autónomos, deberán aprobar y publicar en el Periódico Oficial del Estado de Quintana Roo, el Plan Institucional de Planeación, cada 3 años y podrán ser actualizados, según lo establezca su órgano directivo de mayor jerarquía.
 
-I.- La mercancía transportada no deberá arrastrar sobre la superficie de rodamiento o estorbar su visibilidad;
+###### Artículo 60.
 
-II.- La mercancía no debe dificultar la maniobra, estabilidad o conducción del vehículo u ocultar sus luces, espejos retrovisores o placas de circulación;
+Los programas de los Poderes Legislativo y Judicial, Órganos Públicos Autónomos serán aprobados y publicados dentro de los tres meses a la publicación del Plan Institucional de Planeación respectivo.
 
-III.- Los cables, lonas y demás accesorios que sirvan para acondicionar o asegurar la carga, estarán fijos al vehículo;
+### CAPÍTULO SEGUNDO. DEL PROGRAMA PRESUPUESTARIO
 
-IV.- Cuando la carga sobresalga de la parte frontal o posterior del vehículo, se protegerá y abanderará, satisfaciendo las necesidades diurnas y nocturnas;
+###### Artículo 61.
 
-V.- Las maniobras de carga y descarga deberán efectuarse con celeridad e impidiendo que los materiales o productos se esparzan o derramen en la vía pública; y
+Para la ejecución del Plan Estatal y del Plan Municipal, así como de sus respectivos programas, se elaborarán programas presupuestarios, considerando los aspectos administrativos y de política económica, social y perspectiva de igualdad de género correspondientes.
 
-VI.- Los materiales a granel, como tierra, arena, grava o cualquier otro similar, deben ir debidamente cubiertos y con suficiente grado de humedad, que impida su esparcimiento.
+Estos programas deberán ser congruentes entre sí y tomar en cuenta las medidas para coadyuvar al cumplimiento de los objetivos y prioridades del Plan Estatal y del Plan Municipal, así como de sus respectivos programas. Asimismo, regirán las actividades de gobierno y servirán de base para la integración de los anteproyectos de presupuesto anuales, que las propias autoridades deberán elaborar conforme a la legislación aplicable.
 
-### CAPITULO IV. CONDUCTORES
+###### Artículo 62.
 
-###### ARTICULO 61.
+La definición de los lineamientos para la formulación de los Programas Presupuestarios, así como su revisión, serán responsabilidad de la Secretaría cuando se trate de Programas Estatales y, en caso del Municipio, esta responsabilidad será de la Secretaría o Dependencia en materia de planeación de la Administración Pública Municipal en coordinación con la Tesorería Municipal.
 
-Los prestadores del servicio público de transporte de carga de substancias líquidas inflamables, gases explosivos, radioactivos, tóxicos o corrosivos y demás materiales, substancias o residuos peligrosos deberán utilizar vehículos adaptados exclusivamente para ese objeto, empleando latas o tambos herméticamente cerrados y estar dotados de un extinguidor contra incendios, por tal motivo, no deberán circular dentro de las zonas urbanas del Estado, salvo en los casos en que la autoridad municipal respectiva conceda autorización, en la que se establezcan los horarios e itinerarios en los que puedan transitar y las medidas de seguridad pertinentes, y en caso de que dichas substancias o materiales estén definidos por la legislación federal como peligrosos, se deberá respetar la normatividad aplicable y contar con los permisos correspondientes.
+### CAPÍTULO TERCERO. DE LOS INSTRUMENTOS VINCULANTES
 
-###### ARTICULO 62.
+###### Artículo 63.
 
-Los vehículos de carga para materiales de construcción, deberán llevar carrocerías apropiadas para el servicio a que están destinados y dispondrán de los aditamentos necesarios para evitar que el material que transporten se esparza en la infraestructura vial.
+Los instrumentos vinculantes son de observancia obligatoria de la planeación para el Poder Ejecutivo, los Ayuntamientos y los Órganos Públicos Autónomos en el Estado de Quintana Roo, y se clasifican de la siguiente manera:
 
-Los destinados a transporte de carnes, vísceras y perecederos, llevarán una caja de carga acondicionada, que garantice las condiciones higiénicas indispensables, establecidas en la legislación sanitaria y demás disposiciones aplicables.
+I. Tratados y convenios internacionales suscritos por el Estado Mexicano;
 
-Los destinados al transporte de líquidos, deberán estar dotados de un tanque unitario o de una olla revolvedora, que impida el derrame de los mismos.
+II. Políticas y programas públicos;
 
-### CAPITULO I. REQUISITOS Y CONTENIDO
+III. Presupuestales;
 
-###### ARTICULO 63.
+IV. De avances y cumplimiento;
 
-Los vehículos de transporte de carga, cuando trasladen material susceptible de esparcirse, caerse o derramarse, deberán emplear cajas que impidan que se riegue o tire lo transportado, en su caso deberán ir cubiertas de manera adecuada para impedir la expulsión de los objetos o partículas al exterior. Todo maltrato o daño a la infraestructura vial será sancionado en términos del presente Reglamento y de las disposiciones legales aplicadas al caso concreto.
+V. De coordinación y concertación, y
 
-## TITULO V. INFRAESTRUCTURA AUXILIAR Y SUS FUNCIONES
+VI. Los demás de similar naturaleza, que no contravengan las disposiciones de esta Ley.
 
-### CAPITULO I. GENERALIDADES
+## TÍTULO QUINTO. DE LOS SISTEMAS DE APOYO
 
-###### ARTICULO 64.
+###### Artículo 64.
 
-Cuando se transporte maquinaria u objetos cuyo peso ocasione lentitud en la maniobra, que pueda entorpecer la libre circulación o causar perjuicios a los pavimentos, deberá solicitarse permiso de la autoridad vial correspondiente, cuando el paso se realice por la infraestructura vial de un municipio, y de la Dependencia Estatal, cuando el tránsito sea por las carreteras o caminos de jurisdicción estatal, a la que deberá sujetarse dicha transportación.
+El Sistema de Planeación Democrática del Estado de Quintana Roo se apoyará de los siguientes sistemas:
 
-###### ARTICULO 65.
+I. El Sistema de Información para la Planeación del Desarrollo del Estado de Quintana Roo, y
 
-Para transportar materias u objetos repugnantes a la vista o al olfato, será obligatorio llevarlos debidamente cubiertos y solicitar a la autoridad correspondiente, el permiso que marque el horario e itinerario respectivo, el que se otorgará en términos de la Ley de Salud aplicable.
+II. El Sistema de Evaluación del Desempeño.
 
-###### ARTICULO 66.
+###### Artículo 65.
 
-Para transportar explosivos es obligatorio contar con la autorización de la Secretaría de la Defensa Nacional, así como la que debe otorgar la autoridad vial correspondiente, que contenga el horario e itinerario a que forzosamente habrá de sujetarse el acarreo, deberá usar banderas rojas en la parte posterior del vehículo y en forma ostensible se fijarán rótulos en las partes posteriores y laterales que contengan la inscripción “PELIGRO, EXPLOSIVOS”.
+El Sistema de Información será una instancia de captación, procesamiento y difusión de la información estadística, geográfica y socioeconómica del Estado y los Municipios, para coadyuvar en la toma de decisiones dentro de las diferentes etapas del proceso de planeación del desarrollo, que dependerá y será operada directamente por la Secretaría.
 
-###### ARTICULO 67.
+###### Artículo 66.
 
-Los objetos, mercancías o bultos que se transporten, deberán acomodarse de tal forma que no resbalen, y no deben sobresalir de la anchura de las carrocerías, sólo en la parte posterior del vehículo, en una extensión no mayor de dos metros, debiendo portar en el extremo banderolas de color rojo durante el día, perfectamente visibles, o bien un señalamiento con luz del mismo color durante la noche, o algún indicativo del largo de la carrocería. Hacia arriba, la carga transportada deberá ser llevada a una altura que libre, al menos, un metro del cable de energía eléctrica, telefónica o paso a desnivel.
+En el Sistema de Información concurrirán de manera corresponsable y obligatoria las Dependencias y Entidades de la Administración Pública Estatal y Municipal y Órganos Públicos Autónomos.
 
-###### ARTICULO 68.
+Para garantizar la integralidad de la información que opere el Sistema de Información, se celebrarán convenios de coordinación entre los tres niveles de Gobierno para el intercambio y flujo permanente de información para el desarrollo.
 
-Los remolques que se adapten a otros vehículos deberán llevar en la parte posterior un señalamiento que proyecte luz roja claramente visible a una distancia de cien metros, la placa posterior de identificación será iluminada por luz blanca y llevará indicadores de la altura de este tipo de vehículos con el señalamiento correspondiente.
+###### Artículo 67.
 
-Las características y especificaciones de operación y seguridad para el transporte de grúas y remolques serán las que se determinen en las normas técnicas federales y estatales aplicables.
+El Sistema de Información, se integrará con las herramientas e instrumentos necesarios para la planeación del desarrollo, así como con métodos, técnicas, diagnósticos, datos estadísticos y por aquellos elementos y documentos básicos que auxilien en las distintas etapas del proceso de planeación.
 
-Con excepción de las cargas a granel, las demás se entregarán debidamente embaladas, para su fácil manejo e identificación y garantizar su seguridad en la transportación.
+La Secretaría a través de su portal oficial hará público un reporte anual de la información generada por el Sistema de Información.
 
-###### ARTICULO 69.
+###### Artículo 68.
 
-La sustitución o cambio de los vehículos destinados a la prestación del servicio público de transporte de pasajeros, especializado o de carga deberán sujetarse a la autorización previa que, de manera general o particular, expida la Dependencia Estatal en los términos que fije la Ley, el presente reglamento y los ordenamientos respectivos, quedando prohibido circular con placas que no correspondan al vehículo autorizado, así como con una unidad motriz que no haya sido permitida por la Dependencia Estatal.
+El Sistema de Información tendrá las siguientes funciones:
 
-###### ARTICULO 70.
+I. Captar, procesar y difundir la información estadística, geográfica y socioeconómica del Estado y los Municipios, que generen las Dependencias y Entidades de la Administración Pública Estatal y Municipal y Órganos Públicos Autónomos;
 
-En las solicitudes de autorización para la expedición, refrendo, revalidación, prórroga, modificación o adecuación de las concesiones y equipamiento auxiliar del servicio público de transporte de pasajeros que presenten los concesionarios y permisionarios, deberán exhibir los estudios técnicos de factibilidad correspondientes, así como los programas de explotación respectivos, los cuales deberán estar certificados por un técnico.
+II. Integrar una base de datos sistematizada y actualizada que registre la información existente sobre diversas temáticas en materia de planeación estatal y municipal, así como de las directrices establecidas en la planeación nacional;
 
-## TITULO VI. REGISTRO ESTATAL DE TRANSPORTE
+III. Actualizar periódicamente la información para la planeación, de acuerdo a criterios de vigencia y efectividad, manteniendo el registro histórico de las actualizaciones;
 
-### CAPITULO UNICO
+IV. Proporcionar la información que le sea solicitada por las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como por los Órganos Públicos Autónomos que integran el Sistema Estatal y la ciudadanía en general;
 
-###### ARTICULO 71.
+V. Generar publicaciones, compendios y documentos que permitan difundir la información relacionada con el desarrollo de la entidad a nivel estatal y municipal, y
 
-En los procedimientos previstos en la Ley y este Reglamento en los que intervengan las personas morales, además de los requisitos del trámite que soliciten, deberán acreditar su personalidad con los siguientes documentos notariales, en original y copia simple:
+VI. Las demás que le sean encomendadas expresamente por el COPLADE, la persona titular del Poder Ejecutivo y la Secretaría.
 
-I.- Acta constitutiva;
+###### Artículo 69.
 
-II.- Ultima Acta de Asamblea; y
+El Sistema de Evaluación del Desempeño comprende los elementos metodológicos que permite realizar una valoración objetiva del desempeño de los programas presupuestarios, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social o sectorial de los programas y de los proyectos.
 
-III.- Documento que acredite la personalidad del representante legal.
+Dicho sistema será regulado por la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo.
 
-###### ARTICULO 72.
+###### Artículo 70.
 
-En los trámites relacionados con el presente Reglamento, deberá presentarse el pago respectivo de derechos que se establecen en la Ley de Hacienda del Estado y demás disposiciones aplicables.
+Los sistemas se ajustarán a los lineamientos y criterios de eficiencia, eficacia, apertura, transparencia y rendición de cuentas que determine la Secretaría.
 
-### CAPITULO II. EQUIPAMIENTO AUXILIAR
+## TÍTULO SEXTO. DEL REGISTRO DE LOS INSTRUMENTOS DE LA PLANEACIÓN Y DE LOS CONVENIOS DE COORDINACIÓN Y CONCERTACIÓN
 
-###### ARTICULO 73.
+###### Artículo 71.
 
-Son equipamientos auxiliares, además de los establecidos en el artículo 65 de la Ley, los siguientes:
+La Secretaría desarrollará y administrará una Plataforma para el registro y conocimiento público de los instrumentos de la planeación y de los convenios de coordinación y concertación que realice el Estado y los Ayuntamientos de Quintana Roo, excepto los planes institucionales de planeación de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos.
 
-I.- La base de servicio, como equipamiento auxiliar, tiene las siguientes modalidades:
+Para tal efecto, la Secretaría emitirá y publicará en el Periódico Oficial del Estado de Quintana Roo los lineamientos para el funcionamiento de la Plataforma, atendiendo a las necesidades de accesibilidad de los usuarios.
 
-a).- Sitio;
+###### Artículo 72.
 
-b).- Terminal; y
+El registro deberá realizarse, dentro de los primeros quince días hábiles siguientes a la fecha de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-c).- Central de servicio y operación;
+###### Artículo 73.
 
-II.- El arrastre, salvamento y depósitos de vehículos del servicio público de transporte;
+El Consejo Insular deberá registrar ante la Secretaría los resultados de los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de las regiones insulares y al mejoramiento de las condiciones de vida de sus habitantes, a que se refiere la fracción I del artículo 5 de la Ley que crea el Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo.
 
-III.- Los centros de capacitación y adiestramiento;
+## TÍTULO SÉPTIMO. DEL PROCESO DE PLANEACIÓN
 
-IV.- Los dispositivos manuales y electrónicos para el cálculo y/o cobro de las tarifas; y
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-V.- Sistemas de control de peaje.
+###### Artículo 74.
 
-## TITULO VII. INFRACCIONES, SANCIONES Y PROCEDIMIENTO ADMINISTRATIVO
+El Proceso de Planeación son las actividades necesarias para la elaboración y operación del Plan Estratégico, el Plan Estatal, el Plan Municipal y sus respectivos programas, en función de objetivos generales, políticos, ambientales, culturales, económicos, sociales, de salud, educativos y deportivos, tomando en consideración la disponibilidad de recursos reales y potenciales en el Estado de Quintana Roo.
 
-### CAPITULO I. INFRACCIONES Y SANCIONES
+###### Artículo 75.
 
-### CAPITULO II. PROCEDIMIENTO PARA SU OTORGAMIENTO
+El proceso de planeación está constituido por las siguientes etapas:
 
-###### ARTICULO 74.
+I. Formulación;
 
-Para establecer un sitio o terminal, será necesario la autorización de la Dependencia Estatal, que se solicite por escrito y se reúnan los siguientes requisitos:
+II. Instrumentación;
 
-I.- Nombre y domicilio de la persona física o moral que lo solicite;
+III. Control y seguimiento, y
 
-II.- Lugar en donde se pretende establecer el sitio o terminal precisando si se trata de vía pública o predio particular;
+IV. Evaluación y actualización.
 
-III.- Las características de los vehículos que harán uso del sitio, proporcionando el número de permiso o concesión y placas del mismo;
+###### Artículo 76.
 
-IV.- Croquis de localización del predio, describiendo la zona de influencia;
+El proceso de planeación se clasifica en:
 
-V.- Fotografías del lugar específico;
+I. Planeación Estratégica: Es el proceso con enfoque integral, sistémico y sistemático que otorga un marco de referencia para reconocer, analizar y diagnosticar, en una relación causa-efecto, el entorno social, a fin de establecer objetivos, estrategias, metas e indicadores que, en un periodo de tiempo de largo plazo, den la pauta para intervenir de manera positiva en la realidad para generar beneficios tangibles a la población;
 
-VI.- Número de unidades y listados de prestadores del servicio que realizan sitio o terminal en el lugar propuesto; y
+II. Planeación Táctica: Es el proceso con enfoque funcional desarrollado en las orientaciones de la planeación estratégica y que permite identificar los elementos presentes en el entorno social, con los cuales se desarrollará un plan de trabajo en el que se determinan las prioridades y se proponen las acciones y medios para que a mediano plazo se alcancen los objetivos y cumplan las metas establecidas para la intervención positiva en la realidad, y
 
-VII.- Las demás que se establezcan por la Dependencia Estatal para el estudio técnico.
+III. Planeación Operativa: Es el proceso con enfoque programático desarrollado en las orientaciones de la Planeación Táctica y que permite programar y ejecutar actividades cotidianas con identificación de recursos y responsables, para que a corto plazo se cumpla con eficiencia el plan de trabajo.
 
-Para el efecto de lo previsto en la fracción II de este artículo, y en caso de que se trate de un predio particular deberá justificarse la autorización del propietario y que se han realizado las obras necesarias para su destino. Tratándose de un predio comercial, presentar carta de anuencia del responsable del lugar. En caso de que se pretenda instalar en la vía pública, obtener la aprobación de la autoridad correspondiente.
+###### Artículo 77.
 
-###### ARTICULO 75.
+Dentro del proceso de planeación y en congruencia con el Plan Estratégico y el Plan Estatal, anualmente se debe realizar:
 
-La Dependencia Estatal, previa inspección del lugar de que se trate, resolverá si es o no de concederse la autorización, atendiendo las necesidades del público y a que la ubicación del sitio o terminal no se encuentre en calles de intensa circulación. Así mismo podrá suspender la autorización o cambiar de ubicación, los sitios o terminales para la prestación del servicio, en los casos previstos en la Ley, este Reglamento y demás normas técnicas que al efecto se expidan.
+I. Propuesta de inversión, gasto y financiamiento;
 
-###### ARTICULO 76.
+II. Leyes de Ingresos del Estado y de los Municipios, y
 
-Los servicios auxiliares susceptibles de concesión, autorización o permiso, podrán ser cancelados por la Dependencia Estatal cuando:
+III. Presupuesto de Egresos del Estado y de los Municipios.
 
-I.- Se afecte el interés público;
+### CAPÍTULO SEGUNDO. DE LA FORMULACIÓN
 
-II.- Se alteren tarifas autorizadas;
+###### Artículo 78.
 
-III.- Se preste el servicio en forma irregular; y
+La formulación es el conjunto de actividades que se desarrollan para la elaboración, validación, aprobación y publicación del Plan Estratégico, el Plan Estatal, el Plan Municipal y sus programas respectivos.
 
-IV.- No se cumpla con lo establecido en la Ley, el presente Reglamento y demás normas técnicas que al efecto se expidan.
+###### Artículo 79.
 
-La cancelación, revocación o suspensión de la concesión, autorización o permiso de los servicios auxiliares se hará previa audiencia del interesado, en los términos establecidos en la Ley, este Reglamento y demás normas técnicas que al efecto se expidan.
+La Secretaría, a través de la Dirección Operativa, integrará la información necesaria para la elaboración del Plan Estratégico o del Plan Estatal, contando con la participación de personas representante de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, los Ayuntamientos, las Dependencias y Entidades de la Administración Pública Estatal, así como con la ciudadanía, organismos, instituciones y representantes del sector social y privado, incluyendo a los pueblos y comunidades indígenas y afromexicanas.
 
-###### ARTICULO 77.
+En la elaboración de los proyectos respectivos quedarán incluidas las propuestas de los entes públicos enunciados en el párrafo anterior, así como las planteadas por la ciudadanía, organismos, instituciones y representantes del sector social y privado, sumando a los pueblos y comunidades indígenas y afromexicanas, a través de los mecanismos de cocreación y participación ciudadana en materia de planeación, previstos en esta ley.
 
-Las personas a quienes se hayan expedido autorizaciones de sitios y terminales estarán obligadas a:
+Una vez integrado el proyecto que se trate, el Consejo Ciudadano de Planeación del Estado de Quintana Roo validará que se hayan llevado a cabo los mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-I.- Impedir que en los lugares ubicados en la vía pública se hagan reparaciones a los vehículos;
+Con la validación referida, la Secretaría turnará el proyecto de Plan Estatal a la persona titular del Poder Ejecutivo, quien una vez que haya dado su visto bueno lo someterá a la aprobación del COPLADE.
 
-II.- Vigilar que los vehículos se estacionen precisamente dentro de la zona asignada; y
+En el caso del Plan Estratégico, una vez que se cuenta con la validación del Consejo Ciudadano de Planeación del Estado de Quintana Roo, la Secretaría turnará el proyecto para la aprobación del COPLADEST.
 
-III.- Cuidar que los lugares autorizados se conserven en buen estado de limpieza y que el personal al servicio de las unidades guarden la debida compostura y atiendan al público con cortesía.
+Una vez aprobados el Plan Estratégico o el Plan Estatal deberán ser publicados en el Periódico Oficial del Estado de Quintana Roo, así como en el portal oficial de la Secretaría.
 
-### CAPITULO III. DE LA CESION, ENAJENACION Y GRAVAMEN DE LAS CONCESIONES
+###### Artículo 80.
 
-###### ARTICULO 78.
+El plazo para la elaboración, validación, autorización, aprobación y publicación del Plan Estatal no podrá exceder de cuatro meses contados a partir de la toma de protesta de la persona titular del Poder Ejecutivo.
 
-Para el estudio de ubicación de sitios o terminales del servicio público de transporte y tratándose de autorizaciones nuevas, los solicitantes deberán presentar, además de los requisitos previstos en el artículo 74 de este Reglamento los siguientes:
+En tanto no se haya publicado el Plan Estatal de la nueva Administración Pública, seguirá vigente el Plan inmediato anterior.
 
-I.- Censo poblacional de las localidades, colonias o comunidades beneficiadas, avalado por una autoridad competente; y
+###### Artículo 81.
 
-II.- Número de unidades solicitadas y su modalidad.
+La persona titular de la Presidencia Municipal, instruirá al COPLADEMUN integre la información necesaria para la elaboración del Plan Municipal, contando con la participación de las Dependencias y Entidades de la Administración Pública Municipal, así como con la ciudadanía, organismos, instituciones y representantes del sector social y privado, incluyendo a los pueblos y comunidades indígenas y afromexicanas.
 
-###### ARTICULO 79.
+En la elaboración del proyecto respectivo quedarán incluidas las propuestas de los entes públicos enunciados en el párrafo anterior, así como las planteadas por la ciudadanía, organismos, instituciones y representantes del sector social y privado, sumando a los pueblos y comunidades indígenas y afromexicanas, a través de los mecanismos de cocreación y participación ciudadana en materia de planeación, previstos en esta ley.
 
-Los prestadores del servicio público de transporte, para el establecimiento de centrales de servicio y operación, solicitarán la autorización correspondiente por parte de la Dependencia Estatal, la cual deberá reunir los requisitos siguientes:
+Una vez integrado el proyecto, el Consejo Municipal de Planeación validará que se hayan llevado a cabo los mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-I.- Presentar su solicitud por triplicado de acuerdo con el modelo que proporcionará la Dependencia Estatal;
+Asimismo, el COPLADEMUN lo turnará a la Secretaría para validar su compatibilidad con el Plan Estratégico y el Plan Estatal.
 
-II.- Presentar el proyecto ejecutivo de la construcción de la obra;
+Con las validaciones referidas, el COPLADEMUN turnará el proyecto al Ayuntamiento que se trate para su aprobación.
 
-III.- Proporcionar el nombre o designaciones y logotipo de la central;
+Una vez aprobado deberá ser publicado en el Periódico Oficial del Estado de Quintana Roo, así como en el portal oficial del Ayuntamiento.
 
-IV.- Acreditar el número de unidades vehiculares que tendrán afiliadas;
+###### Artículo 82.
 
-V.- Las características de las unidades que ingresarán a la estación;
+El plazo para la elaboración, validación, aprobación y publicación del Plan Municipal no podrá exceder de cinco meses contados a partir de la instalación del Ayuntamiento.
 
-VI.- Presentar el padrón de las concesiones o permisos de cada uno de los vehículos que integran las centrales de servicio y operación, y el padrón de conductores de los mismos;
+En tanto no se haya publicado el Plan Municipal de la nueva Administración Pública, seguirá vigente el Plan inmediato anterior.
 
-VII.- Acreditar el nombre o personalidad de la persona física o moral que represente legalmente la central de servicio y operación;
+###### Artículo 83.
 
-VIII.- Exhibir copia del reglamento interno que deberán observar los prestadores del servicio público de transporte y permisionarios que hagan uso de la estación; y
+Las Dependencias y Entidades de la Administración Pública Estatal integrarán la información necesaria para la elaboración de los programas de su competencia, contando con la participación de la ciudadanía, organismos, instituciones y representantes del sector social y privado, incluyendo a los pueblos y comunidades indígenas y afromexicanas.
 
-IX.- Las que se establezcan por la Dependencia Estatal en el formato respectivo.
+En la elaboración de los proyectos respectivos quedarán incluidas las propuestas de los entes públicos enunciados en el párrafo anterior, así como las planteadas por la ciudadanía, organismos, instituciones y representantes del sector social y privado, sumando a los pueblos y comunidades indígenas y afromexicanas, a través de los mecanismos de cocreación y participación ciudadana en materia de planeación, previstos en esta ley.
 
-La respuesta a la autorización deberá pronunciarse dentro de un término máximo de sesenta días hábiles, por parte de la Dependencia Estatal, y en caso contrario, se entenderá que se resolvió negativamente.
+Una vez integrado el proyecto de programa, el Consejo Ciudadano de Planeación del Estado de Quintana Roo validará que se hayan llevado a cabo los mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-###### ARTICULO 80.
+Los programas institucionales deberán ser validados por la Dependencia Coordinadora de sector.
 
-Las personas físicas o morales que establezcan una central de servicio y operación:
+Asimismo, el proyecto de programa se turnará a la Secretaría para validar su compatibilidad con el Plan Estratégico y el Plan Estatal.
 
-I.- Tendrán responsabilidad solidaria con los prestadores de servicio público de transporte y conductores que se les adhieran, en todo lo referente al cumplimiento de la Ley, este Reglamento y las normas técnicas;
+Con las validaciones referidas, la Secretaría lo turnará a la aprobación de la persona titular del Poder Ejecutivo.
 
-II.- Cuidarán que las instalaciones se conserven en buen estado de limpieza e higiene;
+Una vez aprobado deberá ser publicado en el Periódico Oficial del Estado de Quintana Roo, así como en el portal oficial de la Secretaría y de la Dependencia o Entidad de la Administración Pública Estatal que corresponda.
 
-III.- Contarán con el personal especializado para atención del público, usuarios y de las unidades vehiculares adheridas a la estación;
+###### Artículo 84.
 
-IV.- No permitirán que los prestadores de servicio público de transporte afiliados o sus conductores violen la Ley o este Reglamento;
+El plazo para la elaboración, validación, aprobación y publicación de los programas de Desarrollo Estatal será de cuatro meses contados a partir de la publicación del Plan Estatal; con excepción de los especiales y regionales que, además del plazo anterior, también podrán ser elaborados en el plazo de tres y seis meses, respectivamente, contados a partir de la publicación del acuerdo mediante el cual se autorice su elaboración.
 
-V.- Tendrán autorización de frecuencia de radio expedida por la autoridad correspondiente; y
+Los plazos señalados podrán ser ampliados cuando así lo justifique debidamente la Dependencia o Entidad de que se trate.
 
-VI.- Comprobarán el registro de su denominación, logotipo y autorización de la autoridad correspondiente.
+###### Artículo 85.
 
-###### ARTICULO 81.
+Las Dependencias y Entidades de la Administración Pública Municipal integrarán la información necesaria para la elaboración de los programas de su competencia, contando con la participación de la ciudadanía, organismos, instituciones y representantes del sector social y privado, incluyendo a los pueblos y comunidades indígenas y afromexicanas.
 
-Las centrales de servicio y operación deberán establecerse dentro de locales amplios y adecuados que permitan el estacionamiento de los vehículos, la instalación de las oficinas y dependencias que sean necesarias para el control del servicio, como área mecánica, eléctrica y de limpieza, así como gabinetes y sanitarios para el uso del personal y del público. Las centrales de servicio y operación deberán ubicarse en lugares donde no interrumpan la circulación vehicular. Las operaciones de dichas centrales, no deberán ocasionar molestias ni perjuicios a los vecinos o establecimientos colindantes; debiendo tener los señalamientos necesarios, que permitan la entrada y salida de los vehículos.
+En la elaboración de los proyectos respectivos quedarán incluidas las propuestas de los entes públicos enunciados en el párrafo anterior, así como las planteadas por la ciudadanía, organismos, instituciones y representantes del sector social y privado, sumando a los pueblos y comunidades indígenas y afromexicanas, a través de los mecanismos de cocreación y participación ciudadana en materia de planeación, previstos en esta ley.
 
-###### ARTICULO 82.
+Una vez integrado el proyecto de programa, el Consejo Municipal de Planeación del Estado de Quintana Roo validará que se hayan llevado a cabo los mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-El sistema para control de peaje, deberá contar con lo siguiente:
+Los programas institucionales deberán ser validados por la Dependencia Coordinadora de sector.
 
-I.- Sistema electrónico, con el fin de no obstaculizar los ascensos y descensos de los usuarios;
+Asimismo, el proyecto de programa se turnará al COPLADEMUN para validar su compatibilidad con el Plan Municipal.
 
-II.- Seguridad que sea resistente a las torsiones y vibraciones constantes, totalmente cerrado y dotado de diferentes componentes que eviten su alteración, incluido reloj;
+Con las validaciones referidas, el COPLADEMUN lo turnará a la aprobación del Ayuntamiento.
 
-III.- Capacidad de incorporar tecnologías modernas, si es necesario, que puedan adaptarse al equipo receptor como tarjeta inteligente, boletos prepagados, multiviajes con descuento o multimodales, por recorrido;
+Una vez aprobado deberá ser publicado en el Periódico Oficial del Estado de Quintana Roo, así como en el portal oficial del Ayuntamiento.
 
-IV.- Sistema de blindaje completamente cerrado que no permita la manipulación de la información; y
+###### Artículo 86.
 
-V.- Las demás que determine la Dependencia Estatal.
+El plazo para la elaboración, validación, autorización, aprobación y publicación de los programas de Desarrollo Municipal será de cuatro meses contados a partir de la publicación del Plan Municipal; con excepción de los especiales que, además del plazo anterior, también podrán ser elaborados en el plazo de tres, contados a partir de la publicación del acuerdo mediante el cual se autorice su elaboración.
 
-###### ARTICULO 83.
+Los plazos señalados podrán ser ampliados cuando así lo justifique debidamente la Dependencia o Entidad de que se trate.
 
-Las tarifas se fijarán por la Dependencia Estatal, en base a las normas técnicas que al respecto se expidan, así mismo, éstas se controlarán mediante los dispositivos manuales o electrónicos que al efecto se establezcan.
+###### Artículo 87.
 
-###### ARTICULO 84.
+Para el desarrollo de la etapa de Formulación, se deberá hacer uso de la Metodología de Marco Lógico.
 
-La Dependencia Estatal permanentemente promoverá la creación de los Centros de Capacitación y Adiestramiento para todos aquellos conductores de vehículos destinados a la prestación del servicio público de transporte.
+### CAPÍTULO TERCERO. DE LA INSTRUMENTACIÓN
 
-###### ARTICULO 85.
+###### Artículo 88.
 
-Los interesados en operar un Centro de Capacitación y Adiestramiento para los conductores de los vehículos del servicio público de transporte, deberán contar con la autorización otorgada por la Dependencia Estatal, así como el pago de los derechos correspondientes, y acreditar lo siguiente:
+Se entenderá por Instrumentación a la actividad dirigida a efectuar la ejecución del Plan Estratégico, del Plan Estatal, del Plan Municipal y sus respectivos programas presupuestarios, en el plazo de un año, en los que los lineamientos, estrategias, líneas de acción y objetivos de corto, mediano y largo plazo establecidos en los Planes Estatal y Municipales y sus programas respectivos, se expresan en términos de objetivos específicos; precisando los mecanismos y acciones que habrán de ponerse en práctica en cada ejercicio, los indicadores estratégicos de evaluación, los recursos que con tal propósito se asignarán a la realización de cada acción prevista; así como la determinación de responsables y tiempos de ejecución.
 
-I.- Tener el reconocimiento y aprobación de las autoridades correspondientes;
+La etapa de Instrumentación tanto en la Administración Pública Estatal como en la Municipal estará a cargo de sus Dependencias y Entidades.
 
-II.- Contar con plantilla de instructores acreditados por las autoridades competentes;
+###### Artículo 89.
 
-III.- Presentar programa de estudios para su revisión, el cual deberá estar conformado de los siguientes módulos, como mínimo:
+Las Dependencias y Entidades de la Administración Pública Estatal que elaboren los programas presupuestarios, deberán turnarlos a la Secretaría para validar su compatibilidad con el Plan Estatal y sus programas respectivos, una vez validada la compatibilidad de referencia, los integrará al proyecto de Presupuesto Anual que deberá presentarse ante el Poder Legislativo, en términos de la legislación aplicable a la materia.
 
-a).- Educación Vial;
+###### Artículo 90.
 
-b).- Manejo a la Defensiva;
+Las Dependencias y Entidades de la Administración Pública Municipal que elaboren los programas presupuestarios, deberán turnarlos a la persona titular de la Presidencia Municipal para validar su compatibilidad con el Plan Municipal y sus programas respectivos, una vez validada la compatibilidad de referencia, este último lo remitirá al Ayuntamiento para su aprobación e integración al proyecto de presupuesto anual correspondiente, en términos de la legislación aplicable a la materia.
 
-c).- Relaciones Humanas;
+###### Artículo 91.
 
-d).- Ley, Reglamento y Normas Técnicas;
+El plazo para la elaboración de los programas presupuestarios será a más tardar en el mes de agosto de cada año.
 
-e).- Educación Ambiental;
+###### Artículo 92.
 
-f).- Mecánica;
+Para optimizar los recursos públicos y maximizar los resultados del programa presupuestario, la etapa de instrumentación se llevará a cabo mediante las siguientes vertientes:
 
-g).- Primeros Auxilios; y
+I. De coordinación, y
 
-h).- Orientación Turística;
+II. De concertación.
 
-IV.- Contar con instalaciones adecuadas, aulas funcionales y equipadas con medios didácticos tales como televisión, video, proyector de acetatos, pantalla, o cualquier otro instrumento que facilite la capacitación y el adiestramiento;
+###### Artículo 93.
 
-V.- Contar con unidades para realizar examen práctico;
+La vertiente de coordinación es el conjunto de acciones de coordinación, que en materia de planeación se convengan entre los diferentes niveles de Gobierno, en el ámbito de sus respectivas competencias y jurisdicciones, para la consecución de los objetivos de la Planeación Nacional, Estatal y Municipal.
 
-VI.- Presentar el procedimiento para acreditar que el conductor tomó y aprobó el curso y garantizar que efectivamente está apto para conducir vehículos del servicio público de transporte;
+###### Artículo 94.
 
-VII.- Proponer el método del seguimiento al desempeño y operación de los conductores que acrediten el curso, integrando una base de datos que contenga el expediente de cada uno de los egresados;
+Los Gobiernos Estatal y Municipal podrán convenir entre ellos, así como con el Federal, de otros Estados y con Municipios de estos últimos, la coordinación que se requiera, satisfaciendo las formalidades que en cada caso procedan, a efecto de que dichos Gobiernos participen en la planeación estatal y municipal del desarrollo y coadyuven, en el ámbito de sus respectivas jurisdicciones, a la consecución de los objetivos de la planeación general; para que el Plan Estratégico, el Plan Estatal y el Plan Municipal tengan congruencia entre sí y para que los programas de los diferentes ámbitos de gobierno guarden la debida coordinación.
 
-VIII.- Que el curso propuesto tenga una duración mínima de veinte horas; y
+###### Artículo 95.
 
-IX.- Presentar a la autoridad los informes de capacitación de acuerdo con las características que la misma solicite.
+El Estado y el Municipio podrán afectar recursos, constituir conjunta o separadamente fondos y otros esquemas de aportación que permitan el ejercicio de sus atribuciones establecidas en la presente Ley. La Secretaría emitirá los criterios que permitan priorizar los apoyos del Estado y expedirá los manuales para la ejecución de los programas aprobados y la aplicación de los fondos que se constituyan.
 
-###### ARTICULO 86.
+###### Artículo 96.
 
-Son causas de revocación de la autorización para operar un Centro de Capacitación y Adiestramiento:
+El Estado y el Ayuntamiento convendrán que Dependencias o Entidades se responsabilizarán de los procesos de presupuestación, programación, adjudicación, contratación, ejecución, entrega, recepción, operación y adjudicación de obras, servicios y suministros, vinculados a la ejecución de los programas y acciones concertados, mismos que deberán apegarse a los objetivos y prioridades previstas en el Plan Estratégico, el Plan Estatal, el Plan Municipal y sus respectivos programas en el ámbito de su competencia.
 
-I.- No cumplir con el programa aprobado por las autoridades competentes;
+También convendrán las condiciones necesarias, en caso de que para los fines referidos se requiera la contratación de operaciones de financiamiento, la concesión de obras y servicios o la suscripción de cualquier acto análogo.
 
-II.- Detectar corrupción en el proceso para otorgar la acreditación de los conductores; y
+El Estado o el Ayuntamiento que adjudique, contrate o ejecute obras o servicios, observará en lo conducente lo dispuesto en la legislación estatal aplicable en la materia.
 
-III.- Detectar continuas faltas o inobservancias a la Ley, al presente Reglamento o a las normas técnicas, por parte de las personas capacitadas.
+###### Artículo 97.
 
-### CAPITULO III. LICENCIAS
+Las Dependencias y Entidades de la Administración Pública Estatal y Municipal de esta Ley podrán celebrar convenios de coordinación y colaboración entre sí, que tengan por objeto definir y establecer los criterios, estrategias y bases para la aportación de recursos humanos, financieros y materiales, destinados a la ejecución coordinada de acciones entre ellos; a fin de optimizar los recursos públicos destinados para el cumplimiento de los fines de esta ley.
 
-###### ARTICULO 87.
+###### Artículo 98.
 
-Para conducir los vehículos del servicio público de transporte, se requiere obtener y llevar consigo la correspondiente licencia para conducir y el tarjetón de identidad.
+El Estado y los Municipios podrán suscribir convenios con el objeto de destinar recursos para el diseño, instrumentación y desarrollo de un programa de apoyo y fortalecimiento a los Municipios.
 
-### CAPITULO IV. CANCELACION Y REVOCACION DE LAS CONCESIONES Y PERMISOS
+###### Artículo 99.
 
-###### ARTICULO 88.
+Los recursos que pueden ser materia de los convenios que regula esta Ley, son los que ingresan a la Hacienda Pública del Estado y de los Municipios
 
-La licencia y el tarjetón de identidad para conducir vehículos automotores, a que hace referencia este Reglamento, se expedirá por la Dependencia Estatal, en las oficinas que para tal efecto esta determine, a solicitud del interesado, una vez que se cumplan los requisitos que señalan la Ley, el presente Reglamento y demás normas técnicas que al efecto se expidan, y se cubran los derechos que señale la Ley de Hacienda del Estado para el ejercicio fiscal correspondiente.
+###### Artículo 100.
 
-###### ARTICULO 89.
+Los recursos a que se refiere el artículo anterior serán materia de control legislativo del gasto, su fiscalización se realizará por el Poder Legislativo del Estado a través de las instancias competentes de conformidad con las disposiciones legales aplicables en la materia.
 
-De conformidad con la clase de servicio para cuya conducción se solicite la licencia, la Dependencia Estatal expedirá el tipo de licencia que se requiera, para lo cual el interesado deberá realizar directamente el trámite correspondiente, no aceptándose la intervención de representantes legales o gestores.
+###### Artículo 101.
 
-###### ARTICULO 90.
+Para efecto del artículo 94, las acciones de coordinación son las siguientes:
 
-Las licencias que expida la Dependencia Estatal contendrán la fotografía, el nombre y apellidos, la edad y el domicilio, huella digital y firma del interesado, así como la fecha de expedición y de vencimiento, el número de licencia y expediente, así como un código de barras, modalidad y tipo de servicio y datos del vehículo en donde se prestará el servicio.
+I. La participación de los tres niveles de Gobierno en la planeación estatal, a través de la presentación de las propuestas que estimen pertinentes;
 
-###### ARTICULO 91.
+II. La asesoría técnica, para la formulación, instrumentación, control, seguimiento, evaluación y actualización de los Planes Estatal y Municipales y de sus respectivos programas;
 
-Los poseedores de una licencia y el tarjetón de identidad del conductor para manejar que se encuentre rota, con tachaduras, enmendaduras, alteraciones o sea ilegible, deberán solicitar su canje; la Dependencia Estatal expedirá un nuevo documento al solicitante, previo pago de los derechos respectivos, recogiendo el original deteriorado.
+III. Los procedimientos de coordinación entre las autoridades federales, estatales y municipales, para propiciar la planeación del desarrollo integral de la entidad y de los municipios y su congruencia con la planeación nacional y estatal, así como promover la cocreación y participación de la ciudadanía, organismos, instituciones y representantes del sector social y privado en las actividades de planeación;
 
-###### ARTICULO 92.
+IV. Los lineamientos para la realización de las actividades de planeación, en el ámbito de sus respectivas jurisdicciones;
 
-Para expedir la licencia de chofer del servicio público de transporte, además de los requisitos establecidos en el artículo 88 de la Ley, el interesado deberá exhibir los siguientes documentos:
+V. La participación en la elaboración de los programas regionales del Gobierno Federal que incidan en el Estado y Municipios;
 
-I.- Acta de nacimiento;
+VI. La elaboración de los programas especiales;
 
-II.- Carta de no antecedentes penales;
+VII. La ejecución de las acciones que deban realizarse en el ámbito municipal y que competan a los Gobiernos Estatal y Municipal, considerando la participación que corresponda a los Municipios interesados y a los sectores de la sociedad, y
 
-III.- Comprobante domiciliario actualizado;
+VIII. Las demás acciones necesarias para la ejecución del Plan Estratégico, del Plan Estatal y del Plan Municipal y de sus respectivos programas materia de coordinación, así como las que se señalen en el Reglamento de esta Ley.
 
-IV.- Identificación oficial vigente;
+###### Artículo 102.
 
-V.- Constancia de no adeudo de infracciones;
+Para efecto del artículo anterior, la Secretaría, establecerá los procedimientos conforme a los cuales se ejecutarán las acciones objeto de coordinación, tomando en consideración la opinión y los criterios que señalen las Dependencias y Entidades de la Administración Pública Estatal y Municipal, conforme a la esfera de atribuciones y obligaciones que a cada una corresponda.
 
-VI.- Pago de derechos correspondientes; y
+###### Artículo 103.
 
-VII.- Requisitar formato de solicitud de trámite de licencia.
+Las acciones de coordinación tendrán por objeto:
 
-###### ARTICULO 93.
+I. Estimular el desenvolvimiento armónico del Estado y los Municipios, interesándolos en su esfuerzo colectivo que propicien el desarrollo integral de México;
 
-Se realizará el canje de licencias de conducir y el tarjetón de identidad cuando la Dependencia Estatal otorgue otra licencia a solicitud del interesado, por haber terminado la vigencia anterior, debiendo éste entregar la licencia y el tarjetón de identidad que tenga en su poder, conservándose el número del expediente de los mismos, así como su antigüedad. Para realizar el trámite anterior se deberán cumplir los siguientes requisitos:
+II. Mantener la congruencia de las acciones gubernamentales en la planeación y la conducción del desarrollo;
 
-I.- Requisitar formato para la solicitud de canje;
+III. Lograr la autosuficiencia económica y financiera del Estado y los Municipios, para la eficaz prestación de los servicios a su cuidado, a fin de estimular el crecimiento (sic) promover el desarrollo social de los mismos, y
 
-II.- Comprobante domiciliario actualizado;
+IV. Proporcionar al Estado y a los Municipios, en el marco de la planeación integral, la asesoría y el apoyo técnico en materia de programación y presupuestación hacendaría, jurídica, administrativa y financiera.
 
-III.- Identificación oficial vigente;
+###### Artículo 104.
 
-IV.- Constancia de no adeudo de infracciones;
+Los convenios que se suscriban entre las diversas instancias de Gobierno serán congruentes con la estructura del desarrollo estatal y nacional y se ajustarán a los siguientes lineamientos:
 
-V.- Pago de derechos correspondientes;
+I. Su participación se sustentará en los principios rectores de la planeación y sus objetivos se encaminarán a la satisfacción de las demandas sociales y a impulsar el desarrollo integral del Estado y Municipios;
 
-VI.- Acreditar curso de capacitación y adiestramiento; y
+II. Los procedimientos de coordinación entre las autoridades federales, estatales y municipales, se apoyarán en los criterios de la Planeación Nacional, Estatal y Municipal y en los instrumentos de desarrollo de los tres niveles de Gobierno, en lo que no se oponga a la legislación y al interés del Estado;
 
-VII.- Las demás establecidas en la Ley, este Reglamento y demás normas técnicas.
+III. Las bases de coordinación de los convenios con los Municipios atenderán, además, a la Planeación Estatal y a la programación sectorial, regional, institucional y especial;
 
-### CAPITULO IV. VEHICULOS
+IV. Las acciones que deban coordinarse tomarán en cuenta la cocreación y participación que corresponda a la ciudadanía, organismos, instituciones y representantes del sector social y privado, de manera consciente y responsable, y
 
-###### ARTICULO 94.
+V. En materia de programación, los convenios establecerán en la medida de lo posible, las relaciones presupuestales con los objetivos y prioridades de la planeación y los límites de competencia de las distintas instancias de Gobierno.
 
-Los vehículos del servicio público de transporte deberán cumplir con la identificación oficial y cortes de pintura de acuerdo a su modalidad, lo que será establecido por la Dependencia Estatal, conforme a las normas técnicas que al efecto de expidan, debiendo contar con el número de identidad del vehículo, la designación de la ruta, sitio o central de servicio y operación al que pertenezcan.
+###### Artículo 105.
 
-###### ARTICULO 95.
+La vertiente de concertación comprende las acciones que se efectúen en forma negociada entre el Gobierno del Estado, el Gobierno Municipal o ambos y la ciudadanía, organismos, instituciones y representantes del sector social y privado, para promover la cocreación y participación corresponsable de la ciudadanía en la solución de sus problemas y demandas; mediante la ejecución conjunta del Plan Estratégico, el Plan Estatal, el Plan Municipal y sus programas a que hace referencia esta Ley, cuyos alcances y condiciones se especificarán en los programas respectivos.
 
-El titular de una concesión deberá ser propietario del o los vehículos destinados a prestar el servicio público de transporte, mismos que deberán estar inscritos en el Registro Estatal de Transporte de la propia Dependencia Estatal.
+###### Artículo 106.
 
-###### ARTICULO 96.
+La persona titular del Poder Ejecutivo del Estado por sí, o a través de sus Dependencias y Entidades Paraestatales, podrá concertar la realización de las acciones, objetivos, estrategias y líneas de acción previstas en el Plan Estratégico, el Plan Estatal y los Programas que se deriven de este último, con los Órganos Públicos Autónomos, la ciudadanía, organismos, instituciones y representantes del sector social y privado, así como con los pueblos y comunidades indígenas y afromexicanas.
 
-Los prestadores del servicio podrán sustituir el vehículo con el cual prestan el servicio público de transporte, por otro que cumpla con los requisitos y especificaciones determinados en el artículo 92 de la Ley, por lo que deberán presentar por escrito la solicitud del cambio ante la Dependencia Estatal con los siguientes requisitos y documentos:
+###### Artículo 107.
 
-I.- Solicitud requisitada;
+La persona titular de la Presidencia Municipal podrá concertar la realización de las acciones, objetivos, estrategias y líneas de acción previstas en el Plan Municipal y los Programas que de él se deriven, con la ciudadanía, organismos, instituciones y representantes del sector social y privado.
 
-II.- Original y copia simple de los siguientes documentos:
+###### Artículo 108.
 
-a).- Identificación oficial vigente;
+En los convenios a que se refiere esta sección, el Gobierno del Estado y de los Municipios designarán a sus respectivas Unidades Administrativas de Planeación que participarán en la ejecución de las acciones y actividades que se convengan en los mismos.
 
-b).- Factura (endosada) o carta factura vigente a nombre del titular;
+###### Artículo 109.
 
-c).- Comprobante de pago de derechos vehiculares y tenencia actual;
+Los convenios que se celebren conforme a esta sección, se considerarán de derecho público. Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos convenios, serán resueltas por los Tribunales competentes del Estado de Quintana Roo.
 
-d).- Boleta de revista anterior;
+###### Artículo 110.
 
-e).- Baja de placas del vehículo anterior;
+Los convenios de concertación sobre la planeación del desarrollo, que se celebren en los términos de esta sección deberán publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
-f).- Baja de placas particulares del vehículo que se da de alta o permiso para circular sin placas;
+###### Artículo 111.
 
-g).- Certificado de no adeudo de infracciones;
+En los convenios de coordinación y concertación que se suscriban en términos de la presente Ley, se deberá incluir una cláusula en la que se prevean medidas que sancionen el incumplimiento de los propios convenios y de los instrumentos que de ellos deriven y que contendrá reglas claras para la actuación de los servidores públicos.
 
-h).- Tarjeta de circulación;
+###### Artículo 112.
 
-i).- Póliza de seguro vigente;
+Las controversias que surjan como resultado de la ejecución de los convenios de coordinación celebrados entre los tres niveles de gobierno, serán resueltas en forma administrativa de común acuerdo entre las partes o, en su caso, conforme a lo que establezca el propio convenio.
 
-j).- Título de Concesión o permiso;
+###### Artículo 113.
 
-k).- Licencia vigente para conducir una unidad de transporte público; y
+Para el desarrollo de la etapa de Instrumentación se deberá hacer uso del modelo metodológico del PbR, cuyo objetivo es que los recursos públicos se asignen prioritariamente a las acciones que generen más beneficios a la población.
 
-III.- Los demás que se establezcan en las normas técnicas a prestadores de servicio público de transporte de pasajeros, para la sustitución de vehículos.
+### CAPÍTULO CUARTO. DEL CONTROL Y DEL SEGUIMIENTO
 
-###### ARTICULO 97.
+###### Artículo 114.
 
-La Dependencia Estatal realizará a los vehículos afectos al servicio público de transporte revisión documental cuando así lo estime conveniente, por lo que deberán presentar en original la documentación siguiente:
+Se entenderá por control a las acciones dirigidas a detectar y corregir oportunamente desviaciones e insuficiencias en la instrumentación del Plan Estratégico, el Plan Estatal, el Plan Municipal y sus respectivos programas, a fin de prever un ejercicio eficiente de los recursos.
 
-I.- Documento que le autorice como prestador del servicio;
+La etapa de control en la Administración Pública Estatal estará a cargo de la Secretaría de la Contraloría, a través de los órganos internos de control y en el caso de la Administración Pública Municipal, de la instancia que ejerzan las facultades de un órgano interno de control, las cuales actuarán de conformidad a la Ley General de Responsabilidades Administrativas y demás normatividad aplicable.
 
-II.- Factura del vehículo destinado al servicio público;
+Dichas autoridades, en el ámbito de su competencia, llevarán a cabo el análisis de resultados de las acciones realizadas a fin de proponer, en su caso, las medidas pertinentes para el logro de sus objetivos.
 
-III.- Licencia del conductor para prestar el servicio público de transporte;
+###### Artículo 115.
 
-IV.- Placas o, en su caso, comprobante de reposición de una o ambas, con el número de concesión o permiso autorizado por la Dependencia Estatal;
+Se entenderá por seguimiento a las acciones destinadas a generar la información necesaria para conocer el avance de los objetivos, metas, estrategias, temáticas, indicadores y líneas de acción del Plan Estratégico, el Plan Estatal, el Plan Municipal y sus respectivos programas.
 
-V.- Tarjeta de circulación;
+Esta etapa en la Administración Pública Estatal estará a cargo de la Secretaría en colaboración con las Dependencias y Entidades Estatales y en el caso de la Administración Pública Municipal, de la persona titular de la Secretaría o Dependencia en materia de planeación municipal.
 
-VI.- Impreso relativo a la tarifa vigente;
+###### Artículo 116.
 
-VII.- Impresos o calcomanías que demuestren el cumplimiento de los requisitos para la prestación del servicio;
+Para el desarrollo de la etapa de seguimiento, se deberán considerar los indicadores y las metas establecidas en el Plan Estratégico, el Plan Estatal, el Plan Municipal y sus respectivos programas. El seguimiento podrá realizarse bajo el marco del Sistema de Evaluación del Desempeño, de conformidad a la ley aplicable.
 
-VIII.- Letrero indicativo con el número telefónico de la Dependencia Estatal y, en su caso de las Delegaciones, para reportar quejas o sugerencias relacionadas con el servicio;
+###### Artículo 117.
 
-IX.- Póliza de seguro vigente y recibo de pago;
+En los casos en que el Estado y los Municipios administren fondos integrados con recursos de ambos, deben acordarse los mecanismos de información para la integración de la cuenta pública de cada uno, el límite de responsabilidades en este rubro y los procedimientos a seguir en caso de incumplimiento de una de las partes.
 
-X.- Refrendo; y
+### CAPÍTULO QUINTO. DE LA EVALUACIÓN Y DE LA ACTUALIZACIÓN
 
-XI.- Las demás que se establezcan en la Ley, este Reglamento y demás normas técnicas que al efecto se expidan.
+###### Artículo 118.
 
-Los documentos antes citados deberán ser exhibidos por el conductor a los verificadores adscritos a la Dependencia Estatal, cuando fuese requerido para ello.
+Se entenderá por evaluación, al análisis sistemático y objetivo de las acciones y actos jurídicos que deriven del Plan Estratégico, del Plan Estatal, del Plan Municipal y sus respectivos programas, con el fin de determinar la pertinencia y el logro de sus objetivos y metas, así como retroalimentar las etapas de formulación e instrumentación.
 
-###### ARTICULO 98.
+La etapa de Evaluación en el caso de la Administración Pública Estatal estará a cargo de la Secretaría, y en la Administración Pública Municipal, de la persona titular de la Secretaría o Dependencia en materia de planeación municipal; quienes podrán promover, en los términos que dispongan las leyes en la materia, la implementación de unidades de evaluación.
 
-Independientemente de la revisión prevista en el artículo anterior, todos los vehículos afectos al servicio serán objeto de una revista vehicular física, mecánica y de gases contaminantes anual, que llevará a cabo la Dependencia Estatal; los periodos y requisitos que deben cumplir los concesionarios se publicarán en el Periódico Oficial del Estado.
+###### Artículo 119.
 
-###### ARTICULO 99.
+La Evaluación debe realizarse en el marco del Sistema de Evaluación del Desempeño, a fin de realizar una valoración objetiva y oportuna en los niveles de planeación Estratégica, Táctica y Operativa.
 
-Los prestadores del servicio deberán acudir al lugar de la Revisión o Verificación Vehicular, apegándose estrictamente a lo establecido en la Ley, el presente Reglamento y la convocatoria correspondiente.
+###### Artículo 120.
 
-###### ARTICULO 100.
+La Secretaría y los Ayuntamientos deberán formular un Programa Anual de Evaluación que permita establecer los instrumentos del proceso de planeación y programas públicos que serán sujetos a seguimiento y evaluación, así como las actividades, los responsables, los calendarios de ejecución y las metodologías para su consecución, en congruencia con la normatividad aplicable.
 
-Los vehículos que no reúnan las condiciones técnicas de comodidad o de seguridad exigidas por la normatividad vigente, no podrán prestar el servicio hasta que se acredite ante la Dependencia Estatal la corrección de la deficiencia observada.
+###### Artículo 121.
 
-###### ARTICULO 101.
+Los resultados que deriven de las acciones de seguimiento y evaluación establecidas en el Programa Anual de Evaluación, deberán ser presentados en informes que permitan identificar recomendaciones cuya implementación contribuya a mejorar el desempeño y retroalimentar los objetivos, metas y estrategias del Plan Estratégico, del Plan Estatal, del Plan Municipal y sus respectivos programas. El Estado y los Municipios deberán publicar proactivamente, en sus medios electrónicos, indicadores que permitan a la ciudadanía conocer el estado que guarda el cumplimiento de los objetivos, metas y estrategias en materia de planeación, y en términos de la legislación aplicable.
 
-Para realizar el trámite de revista documental y vehicular, los prestadores del servicio deberán presentar el vehículo, así como, en original y dos copias simples, la documentación siguiente:
+###### Artículo 122.
 
-I.- Bitácora de revista del año próximo pasado, tratándose de ruta;
+La Secretaría y los Ayuntamientos evaluarán los programas y acciones materia de la presente Ley y de los convenios que suscriban, para tal efecto podrán acordar lo siguiente:
 
-II.- Constancia de no adeudo de infracciones;
+I. La integración de informes de evaluación relacionados a la operación y resultados económicos y sociales de los programas y acciones coordinados;
 
-III.- Comprobante de pago de derechos vehiculares;
+II. La integración de un informe anual de evaluación que contenga una estimación de los indicadores sobre los que inciden los programas desarrollados;
 
-IV.- Tarjeta de circulación;
+III. Los mecanismos para la evaluación final de los programas y acciones coordinados, y
 
-V.- Póliza de seguro vigente el cual no podrá ser cancelado;
+IV. En su caso, un informe relativo a los programas y acciones de carácter regional.
 
-VI.- Comprobante aprobatorio de verificación de emisión de gases;
+###### Artículo 123.
 
-VII.- Comprobantes de derechos;
+La etapa de actualización consiste en la adecuación del Plan Estratégico, del Plan Estatal, del Plan Municipal y sus respectivos programas, que se derivan de las transformaciones del entorno político, social, de salud, ambiental, cultural, económico, educativo y deportivo del Estado y Municipios, según corresponda.
 
-VIII.- Tenencia vigente;
+###### Artículo 124.
 
-IX.- Identificación oficial del tramitante; y
+El Plan Estratégico deberá ser actualizado dentro de los seis meses posteriores al inicio de la gestión constitucional de la Administración Pública Estatal.
 
-X.- Comprobante de verificación autorizado por la autoridad correspondiente; en el caso de vehículos que utilicen gas como combustible.
+Las actualizaciones deberán publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
-###### ARTICULO 102.
+###### Artículo 125.
 
-Para el desempeño de sus funciones de inscripción, la Dependencia Estatal integrará y operará un registro, compuesto de siete secciones, que comprenderá lo relativo a:
+El Plan Estatal y los Programas que de él se deriven, deberán ser actualizados en el segundo semestre del tercer año de la gestión administrativa y publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
-I.- De los prestadores de servicio;
+###### Artículo 126.
 
-II.- De las concesiones y permisos;
+El Plan Municipal y los Programas que de él se deriven, deberán ser actualizados en el segundo semestre del segundo año de la gestión administrativa y publicarse en el Periódico Oficial del Estado de Quintana Roo.
 
-III.- De los vehículos;
+###### Artículo 127.
 
-IV.- De los itinerarios;
+La actualización del Plan Estratégico, del Plan Estatal, del Plan Municipal y sus respectivos programas, producto de las evaluaciones a que se refieren esta ley, se realizará, siguiendo en lo conducente el mismo procedimiento establecido para su formulación.
 
-V.- Del equipamiento auxiliar;
+###### Artículo 128.
 
-VI.- De los conductores; y
+El Plan Estratégico, el Plan Estatal, el Plan Municipal y sus respectivos programas, podrán ser actualizados fuera de los plazos previstos en esta ley, cuando sea emitido un nuevo Plan Nacional o sea debidamente justificado, siguiendo en lo conducente el mismo procedimiento establecido para su formulación.
 
-VII.- Las demás que establezcan las normas técnicas que al efecto se expidan.
+###### Artículo 129.
 
-###### ARTICULO 103.
+La Secretaría será la encargada de elaborar y publicar de los Lineamientos para la evaluación y actualización del Plan Estratégico, del Plan Estatal, del Plan Municipal y sus respectivos programas.
 
-Al ser recibido un documento para su inscripción, se sellará una copia del mismo, en el que se hará constar su naturaleza, el objeto a que se refiere y los anexos que se acompañen. Asimismo, se anotará hora, día, mes y año en que se reciba. Los documentos originales presentados para su registro se devolverán, previo cotejo de la copia para su apéndice, al terminar la inscripción.
+## TÍTULO OCTAVO. MECANISMOS DE COCREACIÓN Y PARTICIPACIÓN CIUDADANA EN MATERIA DE PLANEACIÓN
 
-###### ARTICULO 104.
+###### Artículo 130.
 
-Los requisitos para la inscripción de los prestadores de servicio, deberán ser presentados conforme a la solicitud que para tal efecto se le proporcione al interesado, la cual contendrá los siguientes datos:
+Son mecanismos de cocreación y participación ciudadana en materia de planeación los procedimientos con los que cuentan la ciudadanía, organismos, instituciones y representantes del sector social y privado, para expresar sus ideas, opiniones y necesidades en la elaboración y actualización del Plan Estratégico, del Plan Estatal, el Plan Municipal, así como los programas respectivos.
 
-I.- Nombre o razón social;
+En los asuntos relacionados con el ámbito indígena y afromexicano, se consultará, en forma previa, a sus pueblos y comunidades, para que éstas emitan la opinión correspondiente, de conformidad a las leyes aplicables.
 
-II.- Domicilio;
+###### Artículo 131.
 
-III.- Copia de identificación oficial;
+Los mecanismos de cocreación y participación ciudadana en materia de planeación de manera enunciativa, más no limitativa, son los siguientes:
 
-IV.- Registro Federal de Contribuyentes del concesionario y Clave Unica de Registro Poblacional (CURP);
+I. Foros de consulta ciudadana estatales y municipales.
 
-V.- Estado civil;
+Estos foros podrán ser presenciales o a través de plataformas digitales;
 
-VI.- Fecha de otorgamiento;
+II. Diálogos Ciudadanos;
 
-VII.- Huella digital y firma; y
+III. Encuestas y sondeos de opinión;
 
-IX.- Las demás establecidas en la Ley, este Reglamento y demás normas técnicas que al efecto se expidan.
+IV. Buzones de opinión ciudadana, y
 
-###### ARTICULO 105.
+V. Estudios e investigaciones académicas y sociales.
 
-Los requisitos para el registro de las concesiones y permisos son:
+Aunado a lo anterior, el Poder Ejecutivo, por conducto de la Secretaría, el Poder Legislativo, así como los Ayuntamientos, en el ámbito de su competencia, podrán promover la cocreación y participación ciudadana en materia de planeación a través de los mecanismos previstos en la Ley de Participación Ciudadana del Estado de Quintana Roo.
 
-I.- Solicitud de registro en el formato proporcionado por la Dependencia Estatal; y
+###### Artículo 132.
 
-II.- Original y copia del documento que autoriza la prestación del servicio.
+Las Dependencias y Entidades de la Administración Pública Estatal y Municipal, la Secretaría, el COPLADEST, el COPLADE o el COPLADEMUN, en coordinación con el Consejo Ciudadano de Planeación del Estado de Quintana Roo, o los Consejos Municipales de Planeación, son los responsables de promover y llevar a cabo los mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-###### ARTICULO 106.
+###### Artículo 133.
 
-Son requisitos para la inscripción de los vehículos afectos a la prestación del servicio público de transporte:
+El COPLADE y el COPLADEMUN, deberán rendir un informe anual relativo al ejercicio de los mecanismos de cocreación y participación ciudadana en materia de planeación realizados.
 
-I.- Solicitud de registro en el formato que proporcione la Dependencia Estatal;
+El COPLADEST deberá de rendir un informe relativo al ejercicio de los mecanismos de cocreación y participación ciudadana en materia de planeación realizados, una vez que concluya la respectiva actualización del Plan Estratégico.
 
-II.- Exhibir el original de la factura, carta factura o documento que acredite la propiedad del vehículo;
+###### Artículo 134.
 
-III.- Acreditar el pago de derechos que establezcan los ordenamientos legales aplicables;
+El Reglamento de la presente Ley contendrá las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad, términos e informes de los mecanismos de cocreación y participación ciudadana en materia de planeación.
 
-IV.- Comprobar que se ha contratado el seguro que establece este Reglamento y demás normas técnicas que al efecto se expidan;
+## TÍTULO NOVENO. DE LAS RESPONSABILIDADES
 
-V.- En caso de existir un registro anterior, acreditar que ha sido cancelado, habiéndose efectuado el cambio de propietario;
+###### Artículo 135.
 
-VI.- Acreditar marca, modelo, número de motor, número de serie y capacidad; exhibiendo la correspondiente tarjeta de circulación;
+A las personas servidoras públicas, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, se les sancionará en términos de la Ley General de Responsabilidades Administrativas.
 
-VII.- La ruta, sitio o central de servicio y operación en que se preste el servicio;
+###### Artículo 136.
 
-VIII.- Manifestar bajo protesta de decir verdad, si el vehículo ha tenido o tiene relación con alguna averiguación previa, proceso penal, juicio de garantías, juicio ejecutivo o cualquier otro procedimiento que provenga de tribunales jurisdiccionales; y
+Las responsabilidades a que se refiere esta Ley, son independientes de las de orden civil o penal que se puedan derivar de la comisión de los mismos hechos.
 
-IX.- Las demás que establezca las normas técnicas que al efecto se expidan.
+## ARTÍCULOS TRANSITORIOS
 
-En esta sección se llevará un récord de las sanciones, accidentes, quejas y denuncias en las que participen las unidades del transporte.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-###### ARTICULO 107.
+SEGUNDO. Se abroga la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, expedida mediante Decreto número 141 publicado en el Periódico Oficial del Estado de Quintana Roo, de fecha 30 de marzo de 2007.
 
-Los vehículos destinados a la prestación del servicio público de transporte deberán cumplir íntegramente con todas las obligaciones derivadas del otorgamiento de la concesión o permiso, en los términos de la Ley y el presente Reglamento.
+TERCERO. Dentro del plazo de ciento veinte días naturales, contados a partir de la entrada en vigor de la presente Ley, la persona titular del Poder Ejecutivo del Estado de Quintana Roo, así como los Ayuntamientos, en el ámbito de su competencia deberán realizar las adecuaciones correspondientes a los Reglamentos y disposiciones administrativas relativas a la integración, atribuciones y funcionamiento del COPLADE y COPLADEMUN, respectivamente.
 
-###### ARTICULO 108.
+En tanto se expidan las disposiciones referidas de esta Ley, continuarán aplicándose las vigentes sobre la materia, en todo lo que no se oponga al presente ordenamiento.
 
-Las modificaciones en los datos y características practicadas en los vehículos, que puedan variar o varíen la información con que cuenta el Registro, deberán de hacerse del conocimiento de la Dependencia Estatal, por escrito.
+En el mismo plazo previsto en este numeral, el COPLADEST deberá expedir los lineamientos relativos a su integración, atribuciones y funcionamiento.
 
-###### ARTICULO 109.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
 
-Las placas y tarjetas de circulación de los vehículos del servicio público de transporte son intransferibles. En caso de cambio de propietario del vehículo, por venta, permuta, adjudicación o cualquier otro medio de traslación de la propiedad, previa autorización de la Dependencia Estatal el propietario anterior debe darlo de baja para que se haga la anotación correspondiente en el expediente y registro vehicular.
+CUARTO. La persona titular del Poder Ejecutivo de la Administración Pública del Estado de Quintana Roo 2022-2027, deberá realizar las acciones conducentes para la elaboración, validación, autorización, aprobación y publicación del Plan Estratégico para el Desarrollo Sostenible, en un plazo que no excederá del segundo semestre del año 2025.
 
-En caso de cesión de derechos, sucesión o enajenación de la concesión, podrá seguir prestando el servicio el mismo vehículo que ampare la concesión, dándose al efecto, los avisos correspondientes para que se anoten en el expediente y el registro vehicular, en el entendido de que dicho acto deberá ajustarse a lo que dispone la Ley, este Reglamento y las normas técnicas que al efecto se expidan.
+QUINTO. La Legislatura Constitucional 2022-2024 deberá expedir y publicar su Plan Institucional, dentro del plazo que establece el artículo 59 de esta ley.
 
-###### ARTICULO 110.
+SEXTO. El Poder Judicial y los Órganos Públicos Autónomos deberán expedir y publicar su Plan Institucional, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
 
-Los requisitos para el registro de itinerarios son:
+SÉPTIMO. Los Ayuntamientos deberán expedir la Convocatoria para la integración de sus Consejos Ciudadanos de Planeación Municipal, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de la presente Ley.
 
-I.- Descripción del recorrido;
+La designación de los Consejos Ciudadanos de Planeación Municipal deberá realizarse dentro del plazo de sesenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
 
-II.- Croquis ilustrativo;
+OCTAVO. Los Ayuntamientos deberán instalar sus COPLADEMUN conforme a las disposiciones de esta ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
 
-III.- Tiempo total del recorrido;
+NOVENO. La Secretaría de Finanzas y Planeación emitirá los lineamientos para el funcionamiento de la Plataforma a que refiere el artículo 71 de la presente ley dentro del plazo de noventa días naturales, contados a partir de la entrada en vigor de la presente Ley.
 
-IV.- Paradas oficiales;
+Asimismo, incorporará la Plataforma al portal oficial de la Secretaría de Finanzas y Planeación para su debida integración, dentro del plazo de sesenta días naturales, contados a partir de la entrada en vigor de los lineamientos a que se refiere este numeral.
 
-V.- Puntos atractores;
+DÉCIMO. El Poder Ejecutivo, por conducto de la Secretaría de Finanzas y Planeación y la Legislatura del Estado, llevarán a cabo todas las previsiones presupuestales necesarias para que en la elaboración del Plan Estratégico para el Desarrollo Sostenible se garantice la realización de los mecanismos de cocreación y participación ciudadana.
 
-VI.- Origen y destino; y
+DÉCIMO PRIMERO. Se derogan las disposiciones que se opongan a la presente ley.
 
-VII.- Puntos de control para tiempos de recorrido.
+DECRETO NÚMERO: 248 POR EL QUE SE EXPIDE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
-###### ARTICULO 111.
+SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TREINTA Y UN DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTIDÓS.
 
-Para el registro del equipamiento auxiliar, se establecen las siguientes secciones:
+DIPUTADA PRESIDENTA:
 
-I.- Sitios;
+L.A.E. EUTERPE ALICIA GUTIÉRREZ VALASIS.
 
-II.- Terminales;
+DIPUTADA SECRETARIA:
 
-III.- Centrales de servicio y operación;
+LIC. KIRA IRIS SAN.
 
-IV.- Centros de capacitación y adiestramiento;
+CARLOS MANUEL JOAQUÍN GONZÁLEZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, A LOS HABITANTES DEL MISMO, SABED:
 
-V.- Sistemas de control de peaje; y
+EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN II Y 93 DE LA CONSTITUCIÓN POLÍTICA Y 11 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, AMBAS DEL ESTADO DE QUINTANA ROO, PROMULGO EL DECRETO NÚMERO 248 DE LA XVI LEGISLATURA, QUE ME HA SIDO REMITIDO POR EL H. CONGRESO DEL ESTADO, PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA.
 
-VI.- Dispositivos manuales.
+DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TRECE DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL VEINTIDOS.
 
-###### ARTICULO 112.
+EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
 
-Los prestadores del servicio deberán registrar las altas y bajas de los conductores que contraten, debiendo presentar solicitud, por escrito, en formato de la Dependencia Estatal y cumplir los siguientes requisitos:
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-I.- Nombre, domicilio y población;
+P.O. 10 DE ENERO DE 2025.
 
-II.- Acta de nacimiento;
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 086 POR EL QUE SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 248 MEDIANTE EL CUAL SE EXPIDE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL QUINCE DE AGOSTO DEL AÑO DOS MIL VEINTIDÓS”.]
 
-III.- Número de licencia para prestar el servicio público de transporte;
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-IV.- Identificación oficial;
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
-V.- Modalidad del servicio que presta;
+###### Artículo 21.
 
-VI.- En su caso, motivo que cause la baja del conductor; y
+El COPLADEST para efectos de esta Ley, tiene las siguientes atribuciones:
 
-VII.- Los demás establecidos en las normas técnicas que al efecto se expidan.
+I. Aprobar y actualizar el Plan Estratégico, dentro de los términos y plazos que fija la presente Ley;
 
-###### ARTICULO 113.
+II. Acordar el establecimiento de coordinaciones de ejes, los cuales actuarán como auxiliares del COPLADEST y se integrarán conforme a lo que éste determine;
 
-Además de las infracciones previstas en la Ley, son objeto de sanción por violación a las disposiciones de este Reglamento, las conductas siguientes:
+III. Atender las opiniones y propuestas que realicen en materia de planeación el Consejo Ciudadano;
 
-I.- No cumplir con las especificaciones técnicas y de seguridad en los vehículos en que se presta el servicio, y se sancionará con multa equivalente de 60 a 80 días de salario mínimo tratándose de servicio público de transporte de pasajeros, y de 80 a 100 días de salario mínimo tratándose de servicio público de transporte de carga;
+IV. Promover que el seguimiento y evaluación del Plan Estratégico se realice de conformidad a los principios que rigen esta ley;
 
-II.- No respetar la identificación oficial y los cortes de pintura autorizados, y se sancionará con multa de 100 a 150 días de salario mínimo;
+V. Promover, con la ciudadanía, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de cocreación y participación ciudadana, la elaboración y actualización del Plan Estratégico procurando que se realicen atendiendo los principios que rigen el Sistema Estatal;
 
-III.- No contar con el respectivo número de sitio, ruta o central de servicio y operación y con el número progresivo de la concesión, y se sancionará con multa de 100 a 150 días de salario mínimo;
+VI. Diseñar y ejecutar programas de formación y capacitación en materia de consulta, cocreación y participación ciudadana, en coordinación con el consejo ciudadano;
 
-IV.- No portar el uniforme, y se sancionará con multa de 20 a 25 días de salario mínimo;
+VII. Promover el uso del Sistema de Información, y
 
-V.- Fumar en el interior del vehículo de transporte público con pasajero a bordo, y se sancionará con multa de 5 a 10 días de salario mínimo;
+VIII. Las demás previstas en esta Ley, el Reglamento respectivo, lineamientos y demás disposiciones legales aplicables en la materia.
 
-VI.- Prestar el servicio en vehículos no autorizados por la Dependencia Estatal, y se sancionará con multa de 150 a 200 días de salario mínimo;
+###### Artículo 22.
 
-VII.- Prestar el servicio en modalidad distinta a la autorizada por la Dependencia Estatal, y se sancionará con multa de 200 a 250 días de salario mínimo; y
+El COPLADE es el órgano público, colegiado e interinstitucional en materia de planeación del Estado de Quintana Roo y se integrará por:
 
-VIII.- Prestar el servicio violando las normas técnicas que al efecto se expidan, y se sancionará con multa de 80 a 100 días de salario mínimo.
+I. La persona titular del Poder Ejecutivo, quien lo presidirá;
 
-### CAPITULO I. DE PASAJEROS
+II. La persona que presida la Junta de Gobierno y Coordinación Política del Poder Legislativo del Estado de Quintana Roo;
 
-###### ARTICULO 114.
+III. La persona que presida el Tribunal Superior de Justicia del Poder Judicial del Estado de Quintana Roo;
 
-Los prestadores del servicio público de transporte que no presenten ante la Dependencia Estatal, los programas de capacitación para conductores, así como el informe de resultados, dentro del plazo determinado en el artículo 14 del presente ordenamiento, serán sancionado con multa de 50 a 60 días de salario mínimo y recibirán un plazo adicional de quince días para presentarlo; en caso de incumplimiento a este segundo plazo la sanción consistirá en la cancelación del registro correspondiente como prestador del servicio público de transporte, con todas las implicaciones que esto represente.
+IV. Los representantes de los Órganos Públicos Autónomos en la entidad;
 
-###### ARTICULO 115.
+V. La persona titular de cada una de las Presidencias municipales de los Ayuntamientos del Estado de Quintana Roo;
 
-El pago de las multas impuestas por concepto de infracciones de transporte se efectuará ante la autoridad correspondiente o donde ésta señale.
+VI. El titular de la Secretaría, quien coordinará los trabajos del COPLADE a través de una Dirección Operativa;
 
-###### ARTICULO 116.
+VII. Un representante de cada una de las coordinaciones de los ejes que establezca el Plan Estatal;
 
-Cuando el infractor cometa en un mismo acto, varias transgresiones a la Ley, al Reglamento o demás normas técnicas que se expidan, se acumularán las sanciones correspondientes a cada una de ellas.
+VIII. Una persona representante de los pueblos y comunidades indígenas y afromexicanas;
 
-Las sanciones impuestas se sujetarán, para su cobro, a lo que establece el Código Fiscal del Estado.
+IX. Tres personas representantes de instituciones de educación superior en el Estado de Quintana Roo, preferentemente públicas; debiendo pertenecer una de la zona sur, una de la zona centro y otra de la zona norte;
 
-###### ARTICULO 117.
+X. Tres personas representantes de las cámaras empresariales en el Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte;
 
-Para la devolución de los vehículos destinados al servicio público de transporte, que hayan sido detenidos con motivo de una violación a las normas previstas en la Ley, en este Reglamento y demás normas técnicas, se requiere la presentación de:
+XI. Tres personas representantes de los colegios de profesionistas en el Estado de Quintana Roo, debiendo ser una de la zona sur, una de la zona centro y otra de la zona norte;
 
-I.- Factura o carta factura vigente;
+XII. El Consejo Ciudadano de Planeación del Estado de Quintana Roo, y
 
-II.- Título de concesión o permiso;
+XIII. Ciudadanos, organismos, instituciones o representantes del sector social y privado, que consideren los integrantes, cuyo carácter serán de invitados.
 
-III.- Tarjeta de circulación; y
+Las personas integrantes del COPLADE contarán con voz y voto, a excepción de los señalados en las fracciones II, III, IV, V, VIII, IX, X, XI, XII y XIII de este artículo quienes únicamente contará con voz.
 
-IV.- Recibo de pago de la infracción requisitado por la autoridad correspondiente.
+###### Artículo 23.
 
-### CAPITULO II. ESPECIALIZADO
+El COPLADE para efectos de esta Ley, además de las previstas en las fracciones III, VI y VII del artículo 21, tiene las siguientes atribuciones:
 
-###### ARTICULO 118.
+I. Aprobar el Plan Estatal, dentro de los términos y plazos que fija la presente Ley;
 
-Se sancionará con multa de 40 a 60 días de salario mínimo:
+II. Acordar el establecimiento de coordinaciones de ejes, subcomités sectoriales, especiales, institucionales y regionales, los cuales actuarán como auxiliares del COPLADE y se integrarán conforme a lo que éste determine;
 
-I.- Establecer terminales o sitios, transitoria o permanente, sin contar con los permisos o en lugares distintos a los autorizados por la Dependencia Estatal;
+III. Promover que el seguimiento y evaluación del Plan Estatal y de los programas sectoriales, institucionales, especiales y regionales se realice de conformidad a los principios que rigen esta ley;
 
-II.- Mantener en una terminal o sitio, un número mayor de vehículos estacionados a los autorizados por la Dependencia Estatal;
+IV. Promover, con la ciudadanía, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de cocreación y participación ciudadana, la elaboración y actualización del Plan Estatal y los programas sectoriales, institucionales, especiales y regionales, procurando que se realicen atendiendo los principios que rigen el Sistema Estatal, y
 
-III.- No presentar los vehículos a las revistas que establezca la Dependencia Estatal;
+V. Las demás previstas en esta Ley, sus lineamientos y demás disposiciones legales aplicables en la materia.
 
-IV.- No llevar a bordo del vehículo alguno de los documentos enumerados en el artículo 90 de este Reglamento; y
+###### Artículo 24.
 
-V.- Cualquier otra violación a la Ley o a este Reglamento, a las condiciones establecidas en la concesión o permiso y a las demás disposiciones y acuerdos de la Dependencia Estatal y cuya sanción no esté expresamente prevista.
+La Secretaría, para ejercer la coordinación del COPLADEST y COPLADE, contará con una Dirección Operativa que será la responsable de llevar a cabo todos los compromisos y obligaciones derivados de la coordinación de las actividades de la planeación estatal de desarrollo.
 
-### CAPITULO II. PROCEDIMIENTO ADMINISTRATIVO
+Para los efectos referidos en el párrafo que antecede, la persona titular tendrá las facultades que se determine en las Reglas de Operación y Funcionamiento del COPLADEST y del COPLADE, como instrumento normativo de las actividades de dicho órgano.
 
-###### ARTICULO 119.
+###### Artículo 25.
 
-Los recursos administrativos previstos en la ley, se interpondrán por escrito ante la Dependencia Estatal, mismos que deberán contener lo siguiente:
+Para el desempeño de las atribuciones del COPLADEST, la Dirección Operativa se apoyará en las coordinaciones de los ejes que establezca el Plan Estratégico, las cuales serán presididas por las Dependencias de la Administración Pública Estatal e integradas por personas representantes de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, así como los Ayuntamientos.
 
-I.- Nombre del recurrente, debiendo acompañar las documentales que acrediten la personalidad con la que se ostenta;
+Para el desempeño de las atribuciones del COPLADE, la Dirección Operativa se apoyará en las coordinaciones de los ejes que establezca el Plan Estatal en Subcomités Regionales, Sectoriales, Institucionales y Especiales, que serán presididos por las Dependencias y en su caso por las Entidades de la Administración Pública Estatal, e integradas por personas representantes de los Poderes Legislativo y Judicial, los Órganos Públicos Autónomos, así como los Ayuntamientos.
 
-II.- Resolución que se recurre y fecha en que se le notificó o tuvo conocimiento de la misma;
+Las Reglas de Operación y Funcionamiento del COPLADEST y COPLADE, regularán la integración, facultades, organización y funcionamiento de las coordinaciones de los ejes que establezca el Plan Estratégico, de las coordinaciones de los ejes que establezca el Plan Estatal, así como de los Subcomités Regionales, Sectoriales, Institucionales y Especiales.
 
-III.- Los agravios que le causa la resolución impugnada;
+###### Artículo 26.
 
-IV.- La disposiciones legales que estime violadas; y
+Por cada miembro titular del COPLADEST y del COPLADE se nombrará un suplente, que será la única persona facultada para representarlo cuando el titular no asista a las sesiones que se celebren.
 
-V.- El ofrecimiento de las pruebas que a su interés convengan, las cuales deberán ser relacionadas con cada uno de los hechos controvertidos, acompañando copia del documento en el que conste la resolución recurrida.
+Los integrantes, o en su caso sus respectivos suplentes, tienen obligación de comparecer a las sesiones.
 
-###### ARTICULO 120.
+###### Artículo 27.
 
-Los recursos previstos en la Ley se tendrán por no interpuestos y se desecharán de plano cuando:
+La convocatoria para las reuniones del COPLADEST y del COPLADE deberá ser emitida por la Presidencia, misma que deberá reunir los requisitos mínimos siguientes:
 
-I.- No se presenten en el tiempo y forma que establece la Ley;
+I. Ser presentada por escrito para recabar el acuse de recibo correspondiente y podrá remitirse simultáneamente por correo electrónico previamente registrado;
 
-II.- No se haya acompañado la documentación con la que acredite la personalidad con la que se ostenta el recurrente; y
+II. Su tiempo de emisión deberá ser con cuando menos 72 horas antes del día de la celebración de la reunión de que se trate, y
 
-III.- No se encuentre suscrito por quien deba hacerlo.
+III. Contener el orden del día con los asuntos a tratar.
 
-###### ARTICULO 121.
+El quórum para las reuniones se conformará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes con derecho a voto, en caso de empate la Presidencia o su suplencia tendrá voto de calidad.
 
-Se desecharán por improcedentes los recursos previstos en la Ley, en los siguientes casos:
+###### Artículo 28.
 
-I.- Cuando se impugnen actos que no sean resoluciones;
+El COPLADEST deberá instalarse formalmente para la expedición del Plan Estratégico cada veinticinco años, con la potestad de reunirse para el control, seguimiento, la evaluación y actualización, de conformidad a lo establecido en la presente ley y el reglamento respectivo.
 
-II.- Cuando los actos sean materia de otro recurso, promovido por el mismo recurrente y contra el mismo acto impugnado;
+Asimismo, el COPLADEST deberá de reinstalarse con cada cambio de los periodos constitucionales de la Administración Pública Estatal y de la Administración Pública Municipal, dentro de un plazo de tres meses, contados a partir de la protesta de ley de los titulares respectivos.
 
-III.- Cuando los actos no afecten los intereses jurídicos del promovente;
+Cada vez que ocurra algún cambio de las personas representantes de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos, deberán acreditar dicha titularidad en la primera sesión del COPLADEST a la que asistan, para que formen parte de este.
 
-IV.- Cuando sean actos consentidos tácita o expresamente;
+###### Artículo 29.
 
-V.- Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal, interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto materia del recurso; y
+El COPLADE se reunirá en Pleno por lo menos una vez al año de forma ordinaria y de forma extraordinaria todas las veces que se requiera.
 
-VI.- Por disposición de la Ley.
+#### SECCIÓN SEGUNDA. DE LAS FACULTADES Y OBLIGACIONES DE LOS INTEGRANTES DEL COPLADEST Y DEL COPLADE
 
-###### ARTICULO 122.
+###### Artículo 30.
 
-Respecto de las resoluciones que resuelven los recursos administrativos previstos en la ley, no procederá recurso alguno en contra de las mismas.
+La persona titular del Poder Ejecutivo, para efectos de esta Ley, tiene las siguientes atribuciones:
 
-T R A N S I T O R I O S
+I. Conducir el proceso de Planeación del Desarrollo, con la cocreación y participación social conforme a los principios de la presente Ley;
 
-###### ARTICULO 21.
+II. Vigilar y asegurar la implementación del Sistema Estatal, en el ámbito de su competencia;
 
-Siendo el transporte un servicio público, atribución del Estado, éste tendrá en todo el tiempo el derecho para realizarlo o concesionarlo a los particulares en los casos y con las condiciones que la Ley y este Reglamento señalan, con los tipos de servicio que dicte el interés social.
+III. Dar su visto bueno y someter el Plan Estatal a la aprobación del COPLADE;
 
-Los tipos a que se refiere el párrafo anterior consistirán en el servicio que presten cada una de las concesiones, de conformidad con los itinerarios, tarifas, horarios, terminales y todo aquello que exija las necesidades del público, congruentes con el desarrollo social y económico de la Entidad.
+IV. Ordenar la publicación y divulgación del Plan Estratégico, el Plan Estatal y los programas de desarrollo en los términos previstos en la presente Ley;
 
-El Ejecutivo expedirá las concesiones en forma potestativa y discrecional, de acuerdo a las condiciones peculiares que concurran específicamente en cada caso, teniendo la facultad de revocarlas en la forma y términos que establezca la Ley y este Reglamento.
+V. Aprobar los Programas Regionales, Sectoriales, Institucionales y Especiales, que deriven del Plan Estatal, dentro de los términos y plazos que fija la presente Ley;
 
-###### ARTICULO 22.
+VI. Supervisar la elaboración de los instrumentos de la planeación para la orientación de la Administración Pública Estatal;
 
-Las concesiones que se otorguen para la prestación de cualquiera de los tipos del servicio público de transporte, requieren el cumplimiento de todas las condiciones que establece la Ley, este Reglamento y el título de concesión correspondiente.
+VII. Establecer y proveer criterios para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estratégico, el Plan Estatal, el Plan Municipal y Programas de Desarrollo, en congruencia con el Plan Nacional, identificando y registrando la población objetivo y la atendida por dichos planes y programas, desagregada por sexo y grupo de edad cuando así corresponda;
 
-###### ARTICULO 23.
+VIII. Definir las políticas y directrices de la planeación para el desarrollo de la entidad;
 
-La Secretaría publicará en el Periódico Oficial del Estado, los resultados del dictamen que contenga el balance entre la oferta y la demanda del servicio público de transporte de pasajeros del Estado de Tamaulipas. Este dictamen será elaborado con base en los estudios técnicos, a través de los cuales sea factible determinar cuando procede el otorgamiento de concesiones para la prestación del citado servicio.
+IX. Coadyuvar en el funcionamiento del Sistema de Información;
 
-###### ARTICULO 24.
+X. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Secretaría de la Contraloría;
 
-Para obtener un título de concesión para la prestación del servicio público de transporte, deberá presentarse una solicitud en donde se manifieste el interés en prestar el servicio, y contendrá los siguientes datos:
+XI. Garantizar la transparencia en la asignación de recursos destinados a la ejecución de los instrumentos de la planeación;
 
-I.- Nombre completo y datos generales del solicitante;
+XII. Promover y signar convenio de coordinación con los Gobiernos Federal y Municipal, así como convenios de concertación con la ciudadanía, organismos, instituciones y representantes del sector social y privado, a fin de procurar el cumplimiento de los objetivos y metas de desarrollo estatal;
 
-II.- Declaración, bajo protesta de decir verdad, en donde manifieste si cuenta con algún permiso o concesión en cualquier modalidad;
+XIII. Incorporar los aspectos susceptibles de mejora, que resultan de las evaluaciones de desempeño de los programas presupuestarios, en los procesos de actualización del Plan Estratégico, el Plan Estatal, y Programas de Desarrollo;
 
-III.- Comprobante de domicilio;
+XIV. Fomentar la cocreación y participación social en la identificación y priorización de las necesidades de inversión en el Estado;
 
-IV.- Si el solicitante es persona física, acta de nacimiento o Clave Unica de Registro Poblacional (CURP), fotografía reciente e identificación oficial con fotografía y firma;
+XV. Rendir su informe en términos del artículo 9 de esta Ley, y
 
-V.- Si el solicitante es persona moral, acreditación del representante legal y acta constitutiva de la misma;
+XVI. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
 
-VI.- La población donde se adscribe el vehículo con el que se pretende prestar el servicio;
+###### Artículo 31.
 
-VII.- Los tipos de servicio que se pretenda prestar y las características de los vehículos que se destinarán a la prestación del servicio;
+Los Poderes Legislativo y Judicial, así como los Órganos Públicos Autónomos, para efectos de esta Ley, tiene las siguientes atribuciones:
 
-VIII.- La manifestación de conocer las causas de extinción de la concesión, establecidas en la Ley;
+I. Intervenir en la materia que les competa en la elaboración del Plan Estratégico;
 
-IX.- La manifestación del tipo de vehículo que pretende utilizar; y
+II. Participar en la elaboración del Plan Estatal;
 
-X.- Lugar y fecha en que se formula la solicitud, firmando el documento el peticionario o el representante legal en su caso, cuando se trate de una persona moral.
+III. Elaborar su Plan Institucional;
 
-###### ARTICULO 25.
+IV. Elaborar los programas que deriven de su Plan Institucional, en apego a los principios de esta ley y los demás que prevean sus leyes respectivas;
 
-A la solicitud a que hace referencia el artículo anterior, deberá anexarse, en original y una copia, la documentación siguiente:
+V. Asegurar la congruencia de su Plan Institucional y programas con el Plan Estratégico y el Plan Estatal;
 
-I.- Copia certificada del acta de nacimiento de las personas, para acreditar la mayoría de edad y la calidad de mexicano, en el caso de personas físicas;
+VI. Auxiliar en la esfera de su competencia al COPLADEST, al COPLADE y al COPLADEMUN;
 
-II.- Comprobante domiciliario actualizado;
+VII. Establecer mecanismos eficaces para el control, seguimiento, evaluación y actualización de sus respectivos programas;
 
-III.- Testimonio de la escritura pública constitutiva y sus modificaciones, si se trata de personas morales;
+VIII. Coordinar las actividades de investigación en materia de planeación, así como promover el establecimiento de programas permanentes de capacitación, y
 
-IV.- Poder notarial que especifique las facultades otorgadas a los representantes de las personas morales, para actuar a nombre de su representada; y
+IX. Las demás que les confieran esta ley, otras leyes e instrumentos normativos en la materia.
 
-V.- Estados financieros actualizados y dictaminados, en caso de tratarse de una persona moral que ha venido operando con anterioridad; (sic)
+###### Artículo 32.
 
-###### ARTICULO 26.
+Los Órganos Públicos Autónomos deberán rendir ante la Legislatura los informes relativos a sus respectivos programas en la materia, de conformidad a las leyes aplicables.
 
-Una vez que la Secretaría determine la procedencia del otorgamiento de la concesión se deberá presentar el vehículo o vehículos con los que se pretenda prestar el servicio, así como la documentación en original y dos copias con las que se acredite la propiedad de los mismos, y que cumple con todos y cada uno de los requisitos establecidos en la Ley, este Reglamento y demás normas técnicas que al efecto se expidan, en un término que no exceda de treinta días naturales.
+###### Artículo 33.
 
-###### ARTICULO 27.
+La Secretaría, para efectos de esta Ley, tiene las siguientes atribuciones:
 
-El título de concesión contendrá como mínimo lo siguiente:
+I. Coordinar las actividades del COPLADEST y COPLADE en todo lo relacionado con la Planeación Estatal del Desarrollo, a través de la Dirección Operativa;
 
-I.- Autoridad que lo emite;
+II. Elaborar el proyecto, a través de la Dirección Operativa, del Plan Estratégico, el Plan Estatal, incluyendo consideraciones y proyecciones de largo alcance, los planteamientos que deriven de los ejercicios de cocreación y participación social, sumando a los pueblos y comunidades indígenas y afromexicanas, con apego a los procedimientos aplicables;
 
-II.- Fundamentos legales aplicables;
+III. Someter a la aprobación de la persona titular del Poder Ejecutivo del Estado, los proyectos de los Programas Regionales, Sectoriales, Institucionales y Especiales, que deriven del Plan Estatal;
 
-III.- Nombre y datos de la persona física o moral a la que se le otorga la concesión;
+IV. Validar la compatibilidad del Plan Municipal con respecto al Plan Estatal y al Plan Estratégico, para la aprobación del Ayuntamiento respectivo;
 
-IV.- Modalidad del servicio y lugar de adscripción de la concesión de que se trate; incluyéndose la denominación de la base de servicio;
+V. Validar los programas presupuestarios que deriven de los programas Regionales, Sectoriales, Institucionales y Especiales;
 
-V.- Vigencia;
+VI. Establecer los lineamientos, procedimientos y mecanismos eficaces para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estratégico, Plan Estatal y sus respectivos programas; tomando en consideración las propuestas de la ciudadanía, organismos, instituciones y representantes del sector social y privado, y los ejercicios de cocreación y participación social de los pueblos y comunidades indígenas y afromexicanas, buscando su congruencia con la planeación y la conducción del desarrollo nacional;
 
-VI.- Número de la concesión;
+VII. Impulsar y promover la cocreación y participación social en el proceso de planeación para la elaboración del Plan Estratégico, el Plan Estatal y los Programas derivados;
 
-VII.- Lugar y fecha de expedición;
+VIII. Establecer los mecanismos y procedimientos de coordinación con la Federación, otras entidades federativas, los Municipios, así como de concertación interinstitucional y social para realizar el proceso de planeación;
 
-VIII.- Firmas de la autoridad y del titular de la concesión; y
+IX. Administrar la Plataforma para el registro y conocimiento público de los instrumentos de la planeación y de los convenios de coordinación y concertación que realice el Estado y los Ayuntamientos de Quintana Roo, excepto los planes institucionales de planeación de los Poderes Legislativo y Judicial, así como de los Órganos Públicos Autónomos;
 
-IX.- Las demás que establezca la Ley, este Reglamento y las normas técnicas.
+X. Promover las acciones necesarias que garanticen la transparencia en la asignación de recursos destinados a la ejecución del Plan Estratégico, el Plan Estatal y los Programas de Desarrollo;
 
-###### ARTICULO 28.
+XI. Coordinar y operar el Sistema de Información para el aprovechamiento de la información estadística, socioeconómica, geográfica y de gestión como elementos fundamentales en la construcción del Plan Estratégico, el Plan Estatal y el Plan Municipal, así como los programas de Desarrollo respectivos, emanados del proceso de planeación para el desarrollo del Estado, así como establecer los indicadores para el seguimiento y evaluación de dichos planes;
 
-Los trámites para obtener una concesión o permiso, de cualquiera de los tipos del servicio público de transporte, deberán llevarse a cabo de manera personal y directa por el interesado, tratándose de personas físicas, o por quien represente legalmente a las personas morales. La entrega del título de concesión y demás documentos, será un trámite estrictamente personal.
+XII. Considerar los efectos de la política financiera, fiscal y crediticia, así como de los precios y tarifas de los bienes y servicios públicos proporcionados por la Administración Pública Estatal, para el logro de los objetivos y prioridades del Plan Estratégico, el Plan Estatal y los Programas;
 
-###### ARTICULO 29.
+XIII. Otorgar a los Municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de sus planes y programas municipales;
 
-La Secretaría está facultada para establecer el número de concesiones, que conforme a los estudios realizados, se requieran para prestar en forma eficiente y continua cada tipo de servicio.
+XIV. Evaluar anualmente la relación que guarden los programas y presupuestos de las diversas Dependencias y Entidades de la Administración Pública Estatal, así como de los resultados de la ejecución con los objetivos y prioridades del Plan Estratégico, el Plan Estatal y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y actualizar, en su caso, el plan y los programas respectivos;
 
-#### Sección II.- Del permiso
+XV. Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en grupos específicos de la población, distinguiendo por origen étnico, género, edad, condición de discapacidad, tipo de localidad, entre otros;
 
-###### ARTICULO 30.
+XVI. Coordinar las actividades de investigación en materia de planeación, así como promover el establecimiento de programas permanentes de capacitación, para las dependencias y entidades de la Administración Pública Estatal;
 
-El otorgamiento de los permisos a que se refiere este capítulo deberá contener:
+XVII. Diseñar y ejecutar programas de formación y capacitación en materia de consulta, cocreación y participación ciudadana, en coordinación con el Consejo Ciudadano;
 
-I.- Autoridad que lo emite;
+XVIII. Proyectar y calcular los ingresos del Estado, considerando las necesidades de recursos y utilización del crédito público para la ejecución del Plan Estratégico, el Plan Estatal y de los Programas, así como evaluar el impacto de las inversiones en el desarrollo social y económico en el Estado, en su relación con los objetivos de dichos planes y de los programas;
 
-II.- Fundamentos legales aplicables;
+XIX. Supervisar en el ámbito de su competencia, por medio de los Programas Presupuestarios, que los recursos destinados a la ejecución del Plan Estatal y los Programas se apliquen a los fines aprobados;
 
-III.- Nombre y datos de la persona física o moral a la que se le otorga el permiso;
+XX. Vigilar el cumplimiento de las disposiciones normativas en materia de planeación, y
 
-IV.- Modalidad del servicio y lugar de adscripción del permiso de que se trate; incluyéndose la denominación de la base de servicio;
+XXI. Las demás que le confieran esta Ley, otras leyes y ordenamientos aplicables en la materia.
 
-V.- Vigencia;
+###### Artículo 34.
 
-VI.- Número del permiso;
+Para efectos de esta Ley, las atribuciones de las Dependencias de la Administración Pública Estatal y Municipal, en el ámbito de su competencia, se ejercerán a través de su titular y serán las siguientes:
 
-VII.- Lugar y fecha de expedición;
+I. Intervenir respecto a las materias que les competan, en la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estratégico, del Plan Estatal, del Plan Municipal y sus respectivos programas, según corresponda;
 
-VIII.- Designación de tres beneficiarios para su transmisión en los casos y formas previstos en la Ley;
+II. Coordinar las actividades que en materia de planeación correspondan a las entidades paraestatales estatales o municipales, según sea el caso, que se agrupen en el sector de cuya coordinación se encarguen;
 
-IX.- Firmas de la autoridad y del titular del permiso; y
+III. Elaborar los Programas Sectoriales que les correspondan y participar, en su caso, en la formulación de los Programas Regionales, Institucionales y Especiales según el ámbito de su competencia, para la aprobación de la persona titular del Poder Ejecutivo, por conducto de la Secretaría, o del Ayuntamiento, según sea el caso, presentando las propuestas que procedan en relación a sus funciones y objetivos y tomando en consideración las propuestas de las Dependencias y Entidades de la Administración Pública Estatal, de los Órganos Públicos Autónomos, del Gobierno Federal, de los Ayuntamientos, así como de la ciudadanía, organismos, instituciones y representantes del sector social y privado, y los ejercicios de cocreación y participación social de los pueblos y comunidades indígenas y afromexicanas;
 
-X.- Las demás que establezca la Ley, este Reglamento y las normas técnicas.
+IV. Garantizar la congruencia de los Programas Sectoriales con el Plan Estratégico, el Plan Estatal y el Plan Municipal, así como con los programas que se determinen;
 
-###### ARTICULO 31.
+V. Considerar el ámbito territorial de las acciones previstas en sus programas, procurando su congruencia con los objetivos y prioridades de los Planes y Programas de los Gobiernos Federal, Estatal y Municipal, según sea el caso;
 
-Para obtener un permiso para prestar cualquiera de los servicios públicos de transporte, es necesario formular una solicitud por escrito, la cual se presentará en original y dos copias ante la Dependencia Estatal. Dicha solicitud deberá contener lo siguiente:
+VI. Otorgar su visto bueno a los programas institucionales que le presenten las Entidades de la Administración Pública Estatal o Municipal de su sector, según sea el caso;
 
-I.- Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física o, en su caso, denominación legal y domicilio social, si es una persona moral;
+VII. Revisar periódicamente la relación que guarden los programas y presupuestos de las Entidades Paraestatales de la Administración Pública Estatal o Municipal, del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones o anomalías detectadas y, en su caso, los programas respectivos, e informar de sus resultados al COPLADE o COPLADEMUN, según corresponda;
 
-II.- El tipo de servicio que se pretende prestar y las características de los vehículos que destinarán a la prestación del servicio;
+VIII. Proporcionar a la Secretaría, o a la persona titular de la Presidencia Municipal, según sea el caso, la información necesaria para la integración y actualización de los indicadores para la planeación;
 
-III.- Contratar un seguro que garantice la satisfacción de daños a terceros;
+IX. Promover la coordinación con otros organismos públicos y la concertación e inducción con la ciudadanía, organismos, instituciones y representantes del sector social y privado, incluyendo a los pueblos y comunidades indígenas y afromexicanas para la ejecución del Plan Estratégico, del Plan Estatal, del Plan Municipal y los programas que de éste se deriven;
 
-IV.- Lugar y fecha en que se formula la solicitud;
+X. Rendir un informe anual al COPLADE o al COPLADEMUN, según sea el caso, sobre la ejecución del Plan Estatal o Municipal en su ámbito de competencia y sobre el Programa Regional, Sectorial, institucional o especial que corresponda;
 
-V.- Registro de los vehículos y el conductor asignado a cada unidad; y
+XI. Proporcionar al Sistema de Información, el avance de la ejecución física y financiera del Plan Estratégico, el Plan Estatal y el Plan Municipal, programas y acciones, según sea el caso, de conformidad con las disposiciones normativas de la materia;
 
-VI.- Los demás requisitos que señalen la Ley, este Reglamento y las normas técnicas que emita la Secretaría.
+XII. Suscribir los convenios y demás actos jurídicos que consideren necesarios para dar cumplimiento a los Programas de Desarrollo;
 
-###### ARTICULO 32.
+XIII. Contribuir con la evaluación del desempeño de sus respectivos Programas Presupuestarios, así como los resultados de su ejecución comparándolos con los objetivos y metas de los Programas de Desarrollo, de acuerdo con los criterios establecidos en el Sistema de Evaluación del Desempeño, y
 
-Cuando existan más de tres violaciones a la Ley o a este Reglamento, cometidas en un término de seis meses por el permisionario o el conductor, o en el caso de que prevalezca el interés público, la Dependencia Estatal podrá suspender el permiso, para que ajuste sus servicios a lo que señala la Ley o el presente Reglamento.
+XIV. Las demás que les confieran esta Ley, otras leyes y demás disposiciones normativas aplicables en la materia.
 
-###### ARTICULO 33.
+###### Artículo 35.
 
-El Ejecutivo podrá otorgar, a particulares, concesiones o permisos para la prestación del servicio público de transporte de pasajeros, previa declaratoria de necesidad emitida por la Secretaría, basada en los estudios sobre oferta y demanda de servicio público de transporte, que justifiquen el incrementar las concesiones o permisos.
+Además de las atribuciones señaladas en el artículo 34, las Coordinaciones de ejes que señale el Plan Estatal, deberán rendir al COPLADE, un informe anual de las Dependencias de la Administración Pública Estatal sobre la ejecución del Plan Estatal.
 
-###### ARTICULO 34.
+###### Artículo 36.
 
-El otorgamiento de las concesiones podrá ser:
+Para efectos de esta Ley, las atribuciones de las Entidades de la Administración Pública Estatal y municipal, en el ámbito de su competencia, se ejercerán a través de su titular y serán las siguientes:
 
-I.- Por invitación restringida, cuando se trate de servicios y equipamiento auxiliar a los ya existentes; servicios que hayan dejado de operar los concesionarios; por renuncia a los derechos derivados de la concesión, o por resolución de autoridad competente; y
+I. Intervenir respecto de las materias que les competen en la elaboración del Plan Estratégico, el Plan Estatal y el Plan Municipal, según corresponda;
 
-II.- Por asignación directa, previa declaratoria de necesidad, siempre y cuando:
+II. Participar en la elaboración de los Programas Sectoriales y Especiales, mediante la presentación de propuestas que procedan en relación con sus funciones y objetivos, a la Dependencia del ramo que coordine el sector correspondiente;
 
-a).- Se ponga en peligro la prestación del servicio público de transporte o se justifique en necesidades de interés público;
+III. Elaborar sus respectivos Programas Institucionales, atendiendo las previsiones contenidas en el Programa Sectorial correspondiente, para la aprobación de la persona titular del Poder Ejecutivo, por conducto de la Secretaría, o del Ayuntamiento, según sea el caso, previa validación de la Dependencia coordinadora de sector presentando las propuestas que procedan en relación a sus funciones y objetivos;
 
-b).- Se trate del establecimiento de sistemas de transporte que impliquen el uso o aplicación de nuevas tecnologías o la preservación del medio ambiente;
+IV. Considerar el ámbito territorial de sus acciones atendiendo a las propuestas de los Subcomités Regionales y los Municipios, a través de la Dependencia coordinadora del sector;
 
-c).- En los casos de la fracción I, cuando el beneficiario no suscriba el documento de la concesión o no cumpla con las bases y disposiciones legales y administrativas aplicables, conforme a la prelación que se derive de los procesos respectivos; y
+V. Asegurar la congruencia de su Programa Institucional con el Programa Sectorial respectivo y, en su caso, con los Programas Regionales y Especiales;
 
-d).- Exista mandato judicial o administrativo de autoridad competente.
+VI. Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos, metas y prioridades de su programa institucional, del programa sectorial correspondiente y, en su caso, con los Programas Regionales y Especiales e informar de sus resultados a la Dependencia coordinadora de sector y, en su caso, al COPLADE o COPLADEMUN;
 
-###### ARTICULO 35.
+VII. Promover la coordinación con otros organismos públicos y la concertación e inducción con la ciudadanía, organismos, instituciones y representantes del sector social y privado, para ejecutar las acciones del Plan Estatal y los Programas que de éste se deriven;
 
-Autorizada la cesión, o enajenación de los derechos y obligaciones derivados de la concesión para prestar el servicio público de transporte, en cualquiera de sus modalidades, el interesado deberá iniciar la operación del servicio en treinta días, debiendo previamente presentar el vehículo con el que se pretenda prestar el servicio y acreditar, con documentos idóneos, la propiedad o posesión legal del mismo, el cual deberá reunir los requisitos que establezca la Ley, este Reglamento y demás ordenamientos aplicables.
+VIII. Rendir un informe anual a la Dependencia coordinadora de sector y, en su caso, al COPLADE o COPLADEMUN, sobre la ejecución del Plan Estatal en su ámbito de competencia y sobre su programa institucional, del programa sectorial correspondiente y, en su caso, con los programas regionales y especiales;
 
-###### ARTICULO 36.
+IX. Proporcionar al Sistema de Información, el avance de la ejecución física y financiera, del Plan Estratégico, el Plan Estatal, el Plan Municipal, programas y acciones según corresponda, de conformidad con las disposiciones normativas de la materia;
 
-Los prestadores del servicio, sean personas físicas o morales, quedan obligados a inscribirse en el Padrón correspondiente del Registro Estatal mediante el formato que para el efecto se expida.
+X. Suscribir los convenios y demás actos jurídicos que consideren necesarios para dar cumplimiento a los Programas de Desarrollo;
 
-###### ARTICULO 37.
+XI. Contribuir con la evaluación del desempeño de sus respectivos Programas Presupuestarios, así como los resultados de su ejecución comparándolos con los objetivos y metas de los Programas de Desarrollo, de acuerdo con los criterios establecidos en el Sistema de Evaluación del Desempeño, y
 
-La Dependencia Estatal inscribirá en el Registro Estatal, todos los actos relacionados con la cesión, enajenación o gravamen de los derechos derivados de las concesiones y permisos, así como los trámites de control vehicular y de los conductores afecto a lo mismo.
+XII. Las demás que les confieran esta Ley, otras leyes y demás disposiciones normativas aplicables en la materia.
 
-###### ARTICULO 38.
+###### Artículo 37.
 
-El Ejecutivo del Estado podrá autorizar la cesión de los derechos derivados de la concesión cuando se cumpla con los requisitos establecidos en la Ley, y además con los siguientes:
+El Consejo Ciudadano de Planeación del Estado de Quintana Roo será un órgano de consulta obligatoria y diálogo público, con carácter consultivo y propositivo en materia de planeación.
 
-I.- El cedente deberá manifestar su voluntad de ceder los derechos y obligaciones derivados de la concesión mediante escrito o formato dirigido a la Dependencia Estatal;
+Estará integrado por las personas titulares de la Presidencia de los Consejos Ciudadanos Municipales.
 
-II.- El cedente y cesionario deberán comparecer personalmente, debidamente acreditados;
+###### Artículo 38.
 
-III.- El cedente presentará, en su caso, la carta responsiva de sustitución de deudor aprobada por el cesionario o por el acreedor de los contratos financieros, de ser el caso;
+El Consejo Ciudadano de Planeación del Estado de Quintana Roo, así como los Consejos Municipales de Planeación, en el ámbito de su competencia, tendrán las siguientes atribuciones:
 
-IV.- El cesionario deberá, en todos los casos, acreditar los mismos requisitos para ser concesionario;
+I. Opinar y realizar propuestas en materia de planeación, a través de su participación en el COPLADEST, COPLADE o COPLADEMUN, según sea el caso;
 
-V.- El cesionario deberá presentar póliza de seguro, cuya vigencia nunca deberá ser menor al término previsto para la siguiente revista, que garantice la indemnización por daños y perjuicios, lesiones o muerte de usuarios o terceros, en términos de la Ley;
+II. Acceder sin ninguna restricción a la información que se genere en el COPLADEST, COPLADE o COPLADEMUN, según sea el caso;
 
-VI.- Tanto el cedente como el cesionario deberán demostrar que la licencia de conducir de los choferes, es acorde con el tipo de vehículo y la modalidad del servicio de que se trate; y
+III. Coadyuvar con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, la Secretaría, el COPLADEST, el COPLADE, el COPLADEMUN, en la organización de mecanismos, y demás actividades que garanticen la cocreación y la participación ciudadana en el proceso de planeación;
 
-VII.- Para el caso de ceder únicamente los derechos y obligaciones de la concesión, sin que se transmita la propiedad del o los vehículos, el modelo de los vehículos sustitutos será obligatoriamente del mismo año del vehículo que se sustituye o de modelo más reciente, que cumpla con la normatividad vigente. En ningún caso se permitirá el trámite de sustitución de vehículos por modelos anteriores.
+IV. Validar que se hayan llevado a cabo los mecanismos de cocreación y participación ciudadana en materia de planeación en la etapa de formulación del Plan Estratégico, del Plan Estatal, del Plan Municipal y los programas respectivos;
 
-#### Sección I.- Generalidades
+V. Proponer a la Secretaría en su caso, programas de formación y capacitación en materia de consulta, cocreación y participación ciudadana;
 
-###### ARTICULO 39.
+VI. Implementar los mecanismos que garanticen la cocreación y participación ciudadana en el proceso de planeación, que establece la presente ley;
 
-Para la autorización de cesión de derechos deberá presentarse ante la Dependencia Estatal, la documentación siguiente:
+VII. Proponer mecanismos de articulación entre la ciudadanía, organismos, instituciones y representantes del sector social y privado;
 
-I.- Solicitud dirigida al Ejecutivo del Estado debidamente requisitada; y
+VIII. Emitir recomendaciones no vinculantes al COPLADEST, COPLADE o COPLADEMUN;
 
-II.- En original y tres copias simples de los siguientes documentos:
+IX. Promover la colaboración con instituciones en la materia, con el propósito de elaborar investigaciones sobre las políticas públicas en materia de planeación;
 
-a).- Título original de la concesión;
+X. Elaborar y aprobar su normatividad interna;
 
-b).- Factura (debidamente cedida) o carta factura vigente;
+XI. Elaborar y aprobar su programa de trabajo anual;
 
-c).- Comprobante de pago de derechos vehiculares y tenencia vigentes;
+XII. Aprobar el informe anual de las actividades que realice en cumplimiento a su programa anual de trabajo, mismo que deberá ser público, y
 
-d).- Certificado de no adeudo de infracciones;
+XIII. Las demás que señale su normatividad interna.
 
-e).- Tarjeta de circulación;
+Las personas representantes de las instituciones de educación superior, de las cámaras empresariales y de los colegios de profesionistas, que pertenezcan al COPLADEST, al COPLADE o al COPLADEMUN, ejercerán las mismas atribuciones, excepto las previstas en las fracciones X, XI, XII y XIII de este artículo.
 
-f).- Póliza de seguro vigente;
+#### SECCIÓN TERCERA. DEL COPLADEMUN
 
-g).- Licencia vigente para conducir vehículo afecto al servicio público de transporte;
+###### Artículo 39.
 
-h).- En su caso, carta responsiva y comprobante de domicilio actualizado;
+El COPLADEMUN es el órgano público, colegiado e interinstitucional en materia de planeación en los Municipios y estarán integrado por:
 
-i).- Acta de nacimiento del adquirente;
+I. La persona que ocupe la Presidencia municipal del Ayuntamiento del Estado de Quintana Roo, que corresponda;
 
-j).- El contrato de cesión o trasmisión de derechos, el cual deberá de ser ratificado ante el responsable de la oficina donde se realice el trámite, previo pago de derechos correspondientes; y
+II. El Ayuntamiento de que se trate;
 
-k).- Las demás que establezca esta Ley, el presente Reglamento y demás disposiciones legales.
+III. Un representante de cada una de las coordinaciones de los ejes que establezca el Plan Municipal de Desarrollo que para tal efecto determine el Ayuntamiento;
 
-Una vez aprobada la solicitud se entregará al interesado en forma personal y directa, la constancia de autorización para transmitir otorgada por el Ejecutivo.
+IV. La persona titular de la Secretaría o Dependencia en materia de planeación de la Administración Pública Municipal, quien coordinará los trabajos del COPLADEMUN;
 
-###### ARTICULO 40.
+V. Un representante de la Dirección Operativa del COPLADE;
 
-Las concesiones del servicio público de transporte, en sus diferentes modalidades, podrán enajenarse, cumpliendo con los siguientes requisitos:
+VI. Los representantes de los Órganos Públicos Autónomos en la entidad;
 
-I.- El concesionario deberá presentar previamente una solicitud a la Dependencia Estatal, en donde manifieste las causas por las cuales pretende enajenar la concesión, las razones por las cuales está impedido para la prestación del servicio y si existe algún trámite administrativo relacionado con la misma; y
+VII. Una persona representante de los pueblos y comunidades indígenas y afromexicanas, en caso de que el Municipio cuente con dicha población;
 
-II.- A la solicitud deberán acompañarse los siguientes documentos:
+VIII. Uno o dos representantes de cualquier institución de educación superior en el Estado de Quintana Roo, que serán determinadas por el Ayuntamiento;
 
-a).- Título original de la concesión;
+IX. Uno o dos representantes de cualquiera de las cámaras empresariales en el Estado de Quintana Roo que serán determinadas por el Ayuntamiento;
 
-b).- Identificación oficial de quien pretende adquirir la concesión;
+X. Uno o dos representantes de los colegios de profesionistas en el Estado de Quintana Roo, que serán determinadas por el Ayuntamiento;
 
-c).- El contrato correspondiente que se pretende celebrar, el cual será ratificado ante la unidad administrativa de transporte en donde se lleve a cabo el trámite, previo pago de los derechos;
+XI. El Consejo Ciudadano de Planeación del Municipio de que se trate, y
 
-d).- Presentación física de las placas, en caso de que se autorice por parte del Ejecutivo del Estado la solicitud;
+XII. Otros ciudadanos, organismos, instituciones o representantes del sector social y privado, que consideren los integrantes, cuyo carácter serán de invitados.
 
-e).- Manifestación por escrito, bajo protesta de decir verdad, de quien pretende obtener la concesión, si ya cuenta con otra autorización similar para la prestación del servicio público de transporte en cualquiera de sus modalidades;
+Los integrantes del COPLADEMUN contarán con voz y voto, a excepción de los señalados en las fracciones V, VI, VII, VIII, IX, X y XI quienes únicamente contará con voz.
 
-f).- Los requisitos establecidos en el artículo anterior; y
+###### Artículo 40.
 
-g).- Las demás que fije la Ley, este Reglamento y los demás ordenamientos administrativos.
+El COPLADEMUN, para efectos de esta ley, tiene las siguientes atribuciones:
 
-###### ARTICULO 41.
+I. Coordinar las actividades de la Planeación Municipal de Desarrollo;
 
-Una vez recibida la solicitud y justificada por el concesionario la necesidad de la misma, si se reúnen los requisitos que la Ley establece para el otorgamiento de la autorización, se procederá a darle trámite a la misma mediante la resolución que al efecto emita el Ejecutivo del Estado.
+II. Someter el Plan Municipal y los programas que le correspondan, a la aprobación del Ayuntamiento, por conducto de la persona titular de la Presidencia Municipal;
 
-###### ARTICULO 42.
+III. Establecer los lineamientos, procedimientos y mecanismos eficaces para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Municipal y sus respectivos programas; tomando en consideración las propuestas de las Dependencias y Entidades de la Administración Pública Municipal, del Gobierno Federal y Estatal, así como de la ciudadanía, organismos, instituciones y representantes del sector social y privado, y los ejercicios de cocreación y participación social de los pueblos y comunidades indígenas y afromexicanas, buscando su congruencia con la planeación y la conducción del desarrollo nacional;
 
-Sólo con autorización previa y por escrito del Ejecutivo del Estado, los concesionarios podrán gravar sus concesiones, exclusivamente para garantizar el otorgamiento de créditos para la substitución, modernización, mejoramiento y desarrollo del equipo, infraestructura y equipamiento auxiliar de transporte.
+IV. Establecer los procedimientos y mecanismos eficaces para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Municipal y los programas que de éste se deriven;
 
-Los concesionarios que se ubiquen en este supuesto, deberán solicitar la constancia de inscripción del gravamen en el Registro Estatal.
+V. Promover la participación con las instancias de planeación de los Municipios del Estado, con Municipios de otros Estados y con otras Entidades Federativas, para coadyuvar en la definición, aplicación y evaluación de programas y estrategias para el desarrollo regional;
 
-###### ARTICULO 43.
+VI. Promover y coordinar las actividades en materia de investigación, así como el establecimiento de programas permanentes de capacitación de recursos humanos en las técnicas necesarias para la planeación;
 
-En los trámites de transmisión, enajenación, gravamen o prórroga de concesiones y permisos, los documentos que resuelvan o concluyan dichos trámites, invariablemente deberán recogerse en forma personalísima y directa por el interesado, previa identificación, firma y huella digital, a satisfacción de la autoridad.
+VII. Establecer los mecanismos y procedimientos de coordinación interinstitucional y de concertación para realizar el proceso de planeación;
 
-## TITULO IV. SERVICIO PUBLICO DE TRANSPORTE
+VIII. Evaluar anualmente la relación que guarden los programas y presupuestos de las diversas Dependencias y Entidades de la Administración Pública Municipal, así como de los resultados de la ejecución con los objetivos y prioridades del Plan Municipal y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y actualizar, en su caso, el Plan Estatal y los Programas respectivos;
+
+IX. Garantizar que el Plan Municipal y los Programas que se generen en el Municipio, mantengan congruencia en su formulación y contenido con el Plan Nacional, el Plan Estratégico, el Plan Estatal, cuyo alcance sea el ámbito del Municipio respectivo;
+
+X. Formular propuestas a los Gobiernos Estatal y Federal, a través del Ayuntamiento y del COPLADE, programas e inversión, gasto y financiamiento para el Municipio, como medio para complementar los criterios conforme a los cuales definen sus respectivos presupuestos de egresos;
+
+XI. Recibir y analizar las propuestas de inversión que le formulen las distintas localidades del Municipio, la ciudadanía, organismos, instituciones y representantes del sector social y privado, dándole curso a las que se consideren procedentes;
+
+XII. Sugerir y proponer al COPLADE, programas y acciones que se puedan concretar en el marco de los convenios en materia de desarrollo social, que ayuden a alcanzar los objetivos y metas del Plan Municipal;
+
+XIII. Levantar un inventario y elaborar un registro continuo de la obra pública que se ejecute en el Municipio, como información básica para la planeación, y
+
+XIV. Las demás que les confiera esta Ley, otras leyes e instrumentos normativos en la materia.
+
+###### Artículo 41.
+
+Los Ayuntamientos, para efectos de esta Ley, tienen las siguientes atribuciones:
+
+I. Conducir el proceso de planeación municipal;
+
+II. Aprobar el Plan Municipal de Desarrollo y los programas que de éste deriven y remitirlos a la instancia correspondiente para su publicación en el Periódico Oficial del Estado;
+
+III. Contribuir al fortalecimiento del Sistema de Información en el ámbito de su competencia;
+
+IV. Coadyuvar en la alimentación y operación del Sistema de Evaluación del Desempeño en los Municipios;
+
+V. Asegurar la congruencia del Plan Municipal con el Plan Estatal, el Plan Estratégico y el Plan Nacional, así como con los Programas Regionales, Sectoriales, Institucionales y Especiales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazo;
+
+VI. Coadyuvar en la realización de acciones que deriven del Plan Municipal de Desarrollo;
+
+VII. Celebrar con el COPLADE los convenios de coordinación necesarios para la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Municipal de desarrollo y sus programas respectivos;
+
+VIII. Evaluar anualmente la relación que guarden los programas y presupuestos de las diversas Dependencias y Entidades de la Administración Pública Municipal, así como de los resultados de la ejecución con los objetivos y prioridades del Plan Municipal y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y actualizar, en su caso, el plan y los programas respectivos;
+
+IX. Ratificar las propuestas de inversión en obras y servicios públicos municipales presentadas por el COPLADEMUN, las distintas localidades del municipio, la ciudadanía, organismos, instituciones y representantes del sector social y privado, que resulten procedentes en términos del plan y programas municipales;
+
+X. Proponer al gobierno estatal y al federal, programas de inversión, gasto y financiamiento para ejecutarse dentro del Municipio;
+
+XI. Coordinar las actividades de investigación en materia de planeación, así como promover el establecimiento de programas permanentes de capacitación para las Dependencias y Entidades de la Administración Pública Municipal;
+
+XII. Instituir los órganos de planeación y determinar los mecanismos para su funcionamiento, estableciendo sistemas continuos de control, seguimiento y evaluación del Plan Municipal;
+
+XIII. Vigilar que las Dependencias y Entidades de la Administración Pública Municipal elaboren sus presupuestos de acuerdo con los programas que formulen emanados del Plan Municipal correspondiente;
+
+XIV. Formular las iniciativas de leyes de ingresos y aprobar los Presupuestos de Egresos Municipales de acuerdo con los objetivos del Plan Municipal;
+
+XV. Propiciar la participación del Gobierno Federal y Estatal, así como de la ciudadanía, organismos, instituciones y representantes del sector social y privado, y realizar acciones encaminadas a la consecución de los objetivos del Plan Municipal y de los programas que de él se deriven;
+
+XVI. Coadyuvar con los Órganos de Control Estatal y Federal en la vigilancia de la ejecución de los Programas;
+
+XVII. Aplicar las medidas disciplinarias en el ámbito de su competencia, a quien viole la presente Ley o no cumpla con los planes y programas señalados en la misma, a través de la Contraloría Municipal;
+
+XVIII. Expedir sus bases reglamentarias en materia de planeación, y
+
+XIX. Las demás que les confieran esta Ley, otras leyes e instrumentos normativos en la materia.
+
+###### Artículo 42.
+
+Las personas titulares de las Presidencia Municipal, para efectos de esta Ley, tienen las siguientes atribuciones:
+
+I. Instruir al COPLADEMUN la elaboración del Plan Municipal de Desarrollo y someterlo a la aprobación del Ayuntamiento;
+
+II. Implementar el Sistema de Evaluación del Desempeño para atender el Plan Municipal de Desarrollo;
+
+III. Vigilar que los programas y actividades de las Dependencias y Entidades de la Administración Pública Municipal tengan congruencia con el Plan Municipal, el Plan Estatal, el Plan Estratégico y el Plan Nacional;
+
+IV. Participar en la formulación, instrumentación, control, seguimiento, evaluación y actualización del Plan Estratégico, el Plan Estatal y el Plan Municipal, así como de los programas que se deriven de dichos planes, en el ámbito de su competencia;
+
+V. Vigilar que se involucre la cocreación y participación ciudadana en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los programas que den cumplimiento al Plan Municipal correspondiente;
+
+VI. Rendir su informe en términos del artículo 11 de esta Ley, y
+
+VII. Las demás previstas en esta Ley y demás disposiciones legales aplicables en la materia.
+
+###### Artículo 43.
+
+El Consejo Ciudadano de Planeación Municipal será un órgano de consulta obligatoria y diálogo público, con carácter consultivo y propositivo en materia de planeación.
+
+Estará integrado por cinco personas con reconocido mérito y trayectoria en las materias relacionadas con la planeación, cuyo cargo tendrá el carácter honorífico.
+
+El Consejo Ciudadano de Planeación Municipal será designado, privilegiando el principio de paridad de género, mediante convocatoria pública que para tal efecto expida el Ayuntamiento, misma que deberá ser publicada y difundida en dos periódicos de mayor circulación en el Municipio, en el portal oficial y las redes sociales que disponga el Ayuntamiento, en un plazo no mayor a treinta días naturales a la instalación del Ayuntamiento y culminará sus funciones al finalizar la administración pública municipal.
+
+La presidencia de este Consejo deberá ser rotativa cada año.
+
+En caso de ausencia definitiva o mayor a 6 meses de un integrante del Consejo, el Ayuntamiento deberá expedir una convocatoria para cubrir dicha vacante.
+
+## TÍTULO CUARTO. DE LOS INSTRUMENTOS DE LA PLANEACIÓN
 
 ###### ARTICULO PRIMERO
 
@@ -1428,7 +1514,3 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DE
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE FEBRERO DE 2012.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
