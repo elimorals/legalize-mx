@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-175296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-12-05"
-last_updated: "2024-12-05"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en el Número 382 del Periódico Oficial del Estado de Chiapas, el jueves 5 de diciembre de 2024.
 
@@ -105,19 +105,23 @@ La persona titular del Poder Ejecutivo se auxiliará para el mejor desempeño de
 
 La persona titular del Poder Ejecutivo representará al Estado en los asuntos en que éste sea parte, directamente o por conducto de la persona titular del Instituto de la Consejería Jurídica del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
 ###### Artículo 6.
 
-La persona titular del Poder Ejecutivo contará con una oficina denominada Jefatura de Gubernatura, como un órgano de apoyo directo, la cual administrará la oficina del Gobernador o Gobernadora del Estado y dará seguimiento permanente a los acuerdos y órdenes que éste emita, así como de la agenda de reuniones institucionales e interinstitucionales; misma que coordinará a las y los titulares de las Dependencias y demás funcionarios de la Administración Pública Estatal, garantizando el cumplimiento de las órdenes y acuerdos que al efecto emita el Gobernador o Gobernadora del Estado, y por acuerdo de éste, convocará a las reuniones de gabinete; acordará con las y los titulares de las Dependencias, órganos desconcentrados y Entidades Paraestatales, las acciones necesarias para dicho cumplimiento, y requerirá a los mismos los informes que considere necesarios.
+La persona titular del Poder Ejecutivo contará con un órgano de apoyo directo, el cual se denominará como Oficina de Gubernatura; estará a cargo de administrar la oficina del Gobernador o Gobernadora del Estado y dará seguimiento permanente a los acuerdos y órdenes que éste emita, así como de la agenda de reuniones institucionales e interinstitucionales, garantizando el cumplimiento de las órdenes y acuerdos que al efecto emita el Gobernador o Gobernadora del Estado, y por acuerdo de éste, convocará a las reuniones de gabinete; acordará con las y los titulares de la Administración Pública Estatal, las acciones necesarias para dicho cumplimiento y requerirá a los mismos los informes que considere necesarios.
 
-De igual forma dependerán de la Jefatura de Gubernatura las siguientes:
+La persona titular del Poder Ejecutivo del Estado, designará al Jefe o Jefa de la Oficina de Gubernatura, la cual tendrá los siguientes Órganos Administrativos:
 
-I. Coordinación de Asesores y Proyectos Estratégicos;
+I. Coordinación de Asesores y Proyectos Estratégicos.
 
-II. Coordinación de Giras, Logística, Ayudantía, Protocolo y Cultura Cívica; y
+II. Coordinación de Giras, Logística, Ayudantía, Protocolo y Cultura Cívica.
 
 III. Coordinación de Atención Ciudadana.
 
-La Jefatura de Gubernatura tendrá las atribuciones y estará integrada con base en el acuerdo administrativo que para tal efecto expida la persona titular del Poder Ejecutivo.
+IV. Representación del Gobierno del Estado de Chiapas en la Ciudad de México.
+
+La Oficina de Gubernatura tendrá las atribuciones y estará integrada con base en el acuerdo administrativo que para tal efecto expida la persona titular del Poder Ejecutivo.
 
 ### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
@@ -217,7 +221,9 @@ Para ser titular de las Dependencias de la Administración Pública Estatal, deb
 
 Las y los Titulares de las Dependencias podrán auxiliarse y delegar sus atribuciones en inferiores jerárquicos, Subsecretarios, Directores Generales o sus equivalentes, Directores, Subdirectores, Delegados, Jefes de Unidad y de Departamento, según corresponda, y en general, en las y los demás servidores públicos que establezca su normativa interna, en la cual se determinará de manera específica las atribuciones de cada uno de éstos, por lo que su ejercicio será su responsabilidad directa.
 
-Para efectos de acreditación y representación de las Dependencias, sus titulares podrán expedir los nombramientos de las y los servidores públicos jerárquicamente subordinados a ellos, hasta dos niveles inmediatos inferiores, sin perjuicio de las facultades conferidas al respecto a la Secretaría de Finanzas, a quien deberán informar inmediatamente la expedición de aquéllos.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
+Para efectos de acreditación y representación de las Dependencias, sus titulares podrán expedir los nombramientos de las y los servidores públicos jerárquicamente subordinados a ellos, hasta dos niveles inmediatos inferiores, sin perjuicio de las facultades conferidas al respecto a la Secretaría de Finanzas y al Instituto de la Consejería Jurídica del Gobierno del Estado, a quienes deberán informar inmediatamente la expedición de aquéllos.
 
 Asimismo, podrán otorgar, sustituir y revocar poderes, en términos de la legislación aplicable.
 
@@ -379,6 +385,8 @@ XXXIII. Coordinar los proyectos de promoción y difusión de las obras y accione
 
 XXXIV. Los demás asuntos que le corresponda, en los términos de las leyes aplicables y los que determine la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
 ###### Artículo 32.
 
 La Secretaría de Finanzas es la dependencia de gobierno del Estado de Chiapas, responsable de la administración y gestión de las finanzas públicas en el Estado. Le corresponde el despacho de los siguientes asuntos:
@@ -413,9 +421,9 @@ XIII. Promover la instrumentación de sistemas de desarrollo administrativo que 
 
 XIV. Ejercer y defender, a través de la o el servidor público que determine su reglamento interior, el interés de la Hacienda y las Finanzas Públicas del Estado y de la propia Secretaría, ante cualquier autoridad.
 
-XV. Asesorar a los organismos de la administración pública estatal en la elaboración y actualización de los manuales administrativos.
+XV. Asesorar a los organismos de la administración pública estatal en la elaboración y actualización de sus reglamentos interiores y manuales administrativos.
 
-XVI. Implementar y operar el Sistema Integral de Administración Hacendaria Estatal presupuestario, estableciendo las normas correspondientes para su operación.
+XVI. Implementar y operar el Sistema informático que determine la Secretaría, estableciendo las normas correspondientes para su operación.
 
 XVII. Supervisar la aplicación del marco normativo en materia de ejercicio de los recursos humanos de las Dependencias de la Administración Pública, y coadyuvar con las Entidades Paraestatales en su incorporación e implementación correspondiente.
 
@@ -499,17 +507,11 @@ LVI. Nombrar, designar, cambiar de adscripción, comisionar, reasignar, remover 
 
 LVII. Supervisar que la aplicación de las políticas y de los procedimientos que ejecuten las unidades de apoyo administrativo o su equivalente de la Administración Pública Estatal, se realicen conforme a las normas que expida la Secretaría de Finanzas.
 
-LVIII. Suscribir y formalizar, por sí o a través de la persona servidora pública que señale el Reglamento Interior, los actos jurídicos relativos a la adquisición e incorporación de bienes al patrimonio del Estado a cargo de la Administración Pública Estatal.
+LVIII. Formular y proponer al titular del Poder Ejecutivo del Estado la política de planeación, así como coordinar la elaboración del Plan Estatal de Desarrollo y los Programas Sectoriales, Regionales y Especiales, en congruencia con el Plan Nacional de Desarrollo.
 
-LIX. Enajenar, por sí o a través de la persona servidora pública que señale el Reglamento Interior, en representación de la persona titular del Poder Ejecutivo, los bienes inmuebles a cargo de la Administración Pública Estatal, previa autorización correspondiente del Congreso del Estado.
+LIX. Conducir el proceso de diseño, implementación, seguimiento y evaluación de políticas públicas, programas y acciones para el cumplimiento de la Agenda 2030 para el Desarrollo Sostenible.
 
-LX. Normar la administración de almacenes, inventarios y avalúos de los bienes del Estado a cargo de la Admistración (sic) Pública Estatal, así como normar y validar los arrendamientos de bienes inmuebles que se justifiquen, tomando en consideración las disposiciones de austeridad, avalúos y valores catastrales.
-
-LXI. Administrar los bienes del Estado, a cargo de la Administración Pública Estatal, conforme lo establezcan las Leyes y la normatividad aplicable.
-
-LXII. Formular y proponer al titular del Poder Ejecutivo del Estado la política de planeación, así como coordinar la elaboración del Plan Estatal de Desarrollo y los Programas Sectoriales, Regionales y Especiales, en congruencia con el Plan Nacional de Desarrollo.
-
-LXIII. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
+LX. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
 ###### Artículo 33.
 
@@ -713,19 +715,21 @@ XXII. Ejecutar el programa estatal de manejo integral del fuego.
 
 XXIII. Los demás asuntos que le correspondan, en los términos de las leyes aplicables y su reglamento interior, las que establezca el Consejo Estatal de Protección Civil, y los que determine la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
 ###### Artículo 36.
 
-La Secretaría de Infraestructura es la dependencia de gobierno del Estado responsable, conforme a su competencia, de la planificación, programación y ejecución de la obra pública, caminos, puentes e infraestructura hidráulica en el Estado. Le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura, le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Poder Ejecutivo, las políticas en materia de la obra pública, desarrollo urbano, caminos, puentes e infraestructura hidráulica.
+I. Proponer al Poder Ejecutivo, las políticas en materia de la obra pública y desarrollo urbano.
 
-II. Formular y ejecutar el programa anual de la obra pública, caminos, puentes e infraestructura hidráulica del Estado, en coordinación con los demás organismos estatales y participar en los que determinen las instancias federales correspondientes.
+II. Formular y ejecutar el programa anual de la obra pública del Estado, en coordinación con los demás organismos estatales y participar en los que determinen las instancias federales correspondientes.
 
-III. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública, caminos, puentes e infraestructura hidráulica que corresponda al Poder Ejecutivo, coordinándose con las demás instancias encargadas de ejecutar obra pública en la Entidad.
+III. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública que corresponda al Poder Ejecutivo, coordinándose con las demás instancias encargadas de ejecutar obra pública en la Entidad.
 
 IV. Ejecutar por sí o a través de terceros, los programas de las obras de carácter turístico, económico, penitenciario, y las demás que se encuentren reservadas a su competencia, vigilando la correcta aplicación de las disposiciones legales aplicables en la materia.
 
-V. Informar oportunamente a la Secretaría de Finanzas, para los efectos conducentes, la programación, ejecución, avance y conclusión de la obra pública caminos, puentes e infraestructura hidráulica.
+V. Informar oportunamente a la Secretaría de Finanzas, para los efectos conducentes, la programación, ejecución, avance y conclusión de la obra pública.
 
 VI. Presidir el Comité de Obra Pública del Poder Ejecutivo del Estado, en todo proceso de contratación y de conformidad con lo que determine la ley de la materia.
 
@@ -741,17 +745,17 @@ XI. Coadyuvar con las instancias competentes, y promover en los municipios el eq
 
 XII. Participar, suscribir, ejecutar, y en su caso, representar a la persona titular del Poder Ejecutivo, en los convenios, contratos, acuerdos de colaboración y demás instrumentos que sean necesarios, con autoridades federales y de otras Entidades Federativas, con los ayuntamientos, la iniciativa privada y otras personas, con el objeto de promover y regular el desarrollo urbano en la entidad.
 
-XIII. Llevar a cabo la supervisión del proceso de ejecución de la obra pública, desarrollo urbano, caminos, puentes e infraestructura hidráulica, a cargo del Poder Ejecutivo, en forma directa y/o a través del supervisor externo que contrate para tal efecto, en términos de la normatividad aplicable, excepto en aquellos casos referentes a la infraestructura física educativa en el Estado o cualquier otro rubro que por disposición de Ley, se encuentre reservada a una instancia diferente.
+XIII. Llevar a cabo la supervisión del proceso de ejecución de la obra pública y desarrollo urbano a cargo del Poder Ejecutivo, en forma directa y/o a través del supervisor externo que contrate para tal efecto, en términos de la normatividad aplicable, excepto en aquellos casos referentes a la infraestructura física educativa en el Estado o cualquier otro rubro que por disposición de Ley, se encuentre reservada a una instancia diferente.
 
 XIV. Planear, programar, coordinar y en su caso, por sí o a través de sus órganos, ejecutar las políticas, estrategias, acciones y procedimientos normativos del convenio de confianza municipal, para incentivar el desarrollo socioeconómico de las comunidades y municipios del Estado.
 
 XV. Elaborar, formalizar y suscribir los convenios de confianza municipal que en representación del Poder Ejecutivo, realice con los municipios del Estado, vigilando el cumplimiento de los mismos, a fin de garantizar la debida ejecución de las obras y acciones programadas.
 
-XVI. Emitir las medidas necesarias de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los caminos, puentes, infraestructura hidráulica y bienes inmuebles del Poder Ejecutivo.
+XVI. Emitir las medidas necesarias de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los bienes inmuebles del Poder Ejecutivo.
 
-XVII. Efectuar visitas, peritajes y avalúos que se requieran en la ejecución de la obra pública e infraestructura carretera en el Estado, en términos de la Ley de la materia.
+XVII. Efectuar visitas, peritajes y avalúos que se requieran en la ejecución de la obra pública en el Estado, en términos de la Ley de la materia.
 
-XVIII. Rescindir los contratos de obra pública, caminos, puentes, infraestructura hidráulica en los términos que establezca la Ley de la materia.
+XVIII. Rescindir los contratos de obra pública, en los términos que establezca la Ley de la materia.
 
 XIX. Informar oportunamente a la Secretaría Anticorrupción y Buen Gobierno todo lo referente a la programación, contratación, ejecución, supervisión, avance y conclusión de la obra pública a su cargo, para el desarrollo de la verificación de la misma y las demás acciones que deriven de la Ley de la materia.
 
@@ -763,21 +767,11 @@ XXII. Coordinar y operar los sistemas de comunicaciones electrónicas en la Enti
 
 XXIII. Proponer a la persona titular del Poder Ejecutivo los programas para la construcción, adecuación, ampliación, conservación, rehabilitación o mantenimiento de las instalaciones de los sistemas de comunicaciones electrónicas que opere o instale el Poder Ejecutivo, como resultado de convenios, concesiones o permisos del gobierno federal, en materia de comunicaciones.
 
-XXIV. Ejecutar las acciones encaminadas a mejorar la infraestructura hidráulica, carretera y puentes, en beneficio de la sociedad, para mejora (sic) la calidad de las mismas.
-
-XXV. Organizar, dirigir y normar las acciones relativas al recurso hídrico del Estado, llevando a cabo acciones tendentes a su fortalecimiento en la formulación de proyectos y programas que permitan desarrollar sus funciones.
-
-XXVI. Asesorar y dictaminar técnicamente el trazo del derecho de vía.
-
-XXVII. Convenir con las dependencias y entidades de los gobiernos federal, estatal y municipal y con personas físicas o morales de los sectores social y privado, la construcción, reconstrucción, conservación y mejoramiento de vías terrestres de jurisdicción estatal, así como las obras complementarias que las mismas requieran.
-
-XXVIII. A solicitud de los Ayuntamientos, asesorarlos en materia de construcción, reconstrucción, modernización, conservación y mantenimiento de caminos y calles.
-
-XXIX. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública encaminado a fortalecer el desarrollo e inclusión social que corresponda al Poder Ejecutivo, referente a la ejecución del Fondo de Infraestructura Social para las Entidades (FISE).
+XXIV. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública encaminado a fortalecer el desarrollo e inclusión social que corresponda al Poder Ejecutivo, referente a la ejecución del Fondo de Infraestructura Social para las Entidades (FISE).
 
 Para lo cual deberá coordinarse con el gobierno federal y municipal, con los sectores social y privado, así como, con las demás instancias encargadas de ejecutar obra pública en la Entidad.
 
-XXX. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
+XXV. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
 ###### Artículo 37.
 
@@ -911,15 +905,17 @@ XXXII. Coordinar y participar en el funcionamiento y administración del Fideico
 
 XXXIII. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
 ###### Artículo 39.
 
 La Secretaría del Humanismo es la dependencia de gobierno del Estado que se enfoca en la promoción, respeto, protección y garantía de los derechos humanos, la dignidad y el bienestar de las personas en el Estado. Le corresponde el despacho de los siguientes asuntos:
 
-I. Planear, en apego a la Política Nacional y a las necesidades y realidades propias de la Entidad, y en coordinación con los organismos de la Administración Pública estatal y los municipios, la política para procurar y promover el bienestar de todas y todos los chiapanecos y el desarrollo social y humano en el Estado. Asimismo, coordinará las acciones encaminadas a la atención preponderante a los derechos de la niñez y participación de las y los jóvenes y su incorporación en las políticas públicas y acciones prioritarias del Estado.
+I. Coadyuvar en la planeación, en apego a la Política Nacional y a las necesidades y realidades propias de la Entidad, y en coordinación con los organismos de la Administración Pública estatal y los municipios, la política para procurar y promover el bienestar de todas y todos los chiapanecos y el desarrollo social y humano en el Estado. Asimismo, coordinará las acciones encaminadas a la atención preponderante a los derechos de la niñez y participación de las y los jóvenes y su incorporación en las políticas públicas y acciones prioritarias del Estado.
 
 II. Formular y proponer a la persona titular del Poder Ejecutivo programas regionales y de desarrollo Social, en congruencia con el Plan Estatal de Desarrollo y el Plan Nacional de Desarrollo.
 
-III. Validar, coordinar y dirigir los programas y proyectos sociales a ejecutarse por sí o por los organismos públicos que integran a la Administración Pública Estatal; así como ejecutar la obra de infraestructura social con sentido humanista.
+III. Validar, coordinar y dirigir los programas y proyectos sociales a ejecutarse por sí o por los organismos públicos que integran a la Administración Pública Estatal; así como ejecutar la obra de infraestructura social con sentido humanista, coadyuvando y participando con las Asambleas del Pueblo.
 
 IV. Definir, implementar, ejecutar y dar seguimiento a las políticas de bienestar en el Estado, coordinando la vinculación con los demás organismos de la Administración Pública Estatal, federal o municipal que ejecuten programas de desarrollo y participación social, cuyas acciones o programas correspondan a la atención y bienestar social.
 
@@ -951,47 +947,45 @@ XVII. Administrar la aportación estatal de los programas y proyectos derivados 
 
 XVIII. Coordinar la integración del Programa de Inversión de Infraestructura Social del Estado, así como llevar a cabo los procesos de validación y coadyuvar en la realización de estudios de costo-beneficio de programas y proyectos en apego a políticas públicas de planeación nacional y estatal.
 
-XIX. Conducir el proceso de diseño, implementación, seguimiento y evaluación de políticas públicas, programas y acciones para el cumplimiento de la Agenda 2030 para el Desarrollo Sostenible.
+XIX. Fomentar el rescate, producción, preservación, fomento, promoción, acopio, distribución y difusión de artesanías y productos regionales, en coordinación con otras Dependencias y Entidades estatales, así como establecer vínculos y estrategias con la iniciativa privada.
 
-XX. Fomentar el rescate, producción, preservación, fomento, promoción, acopio, distribución y difusión de artesanías y productos regionales, en coordinación con otras Dependencias y Entidades estatales, así como establecer vínculos y estrategias con la iniciativa privada.
+XX. Participar en las acciones encaminadas a la vinculación del empleo y fomento al autoempleo, mediante la operación de los programas de empleo del servicio nacional en la Entidad.
 
-XXI. Realizar acciones encaminadas a la vinculación del empleo y fomento al autoempleo, mediante la operación de los programas de empleo del servicio nacional en la Entidad.
+XXI. Promover ante las instancias pertinentes la ejecución de proyectos que permitan la creación de autoempleos y la generación de ingresos, en coordinación con las demás instancias competentes.
 
-XXII. Programar y promover ante las instancias pertinentes la ejecución de proyectos que permitan la creación de autoempleos y la generación de ingresos, en coordinación con las demás instancias competentes.
+XXII. Auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo.
 
-XXIII. Fomentar el empleo, capacitación y adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo.
+XXIII. Auxiliar en la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con las autoridades federales competentes en materia del trabajo y con la participación de los sectores empresarial, de las y los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito.
 
-XXIV. Aplicar los programas y normas que determinen la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con las autoridades federales competentes en materia del trabajo y con la participación de los sectores empresarial, de las y los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito.
+XXIV. Participar en el diseño de los programas de capacitación tendentes al abatimiento del desempleo, así como ejecutar las acciones, políticas públicas y procedimientos que en materia de empleo y capacitación laboral correspondan al Poder Ejecutivo.
 
-XXV. Dirigir y coordinar los programas de capacitación tendentes al abatimiento del desempleo, así como ejecutar las acciones, políticas públicas y procedimientos que en materia de empleo y capacitación laboral correspondan al Poder Ejecutivo.
+XXV. Coadyuvar en las propuestas de políticas en el ámbito local en materia de empleo y capacitación laboral, así como dirigir, en el ámbito de su competencia, los programas de actividades que se deriven de los acuerdos y convenios de coordinación que se establezcan para tal efecto.
 
-XXVI. Proponer las políticas en el ámbito local en materia de empleo y capacitación laboral, así como dirigir los programas de actividades que se deriven de los acuerdos y convenios de coordinación que se establezcan para tal efecto.
+XXVI. Coordinarse con las dependencias, entidades y unidades administrativas del Poder Ejecutivo Federal, estatal o con los Ayuntamientos del Estado para llevar a cabo las acciones correspondientes para el fomento al empleo y capacitación laboral.
 
-XXVII. Coordinarse con las dependencias, entidades y unidades administrativas del Poder Ejecutivo Federal, estatal o con los Ayuntamientos del Estado para llevar a cabo las acciones correspondientes para el fomento al empleo y capacitación laboral.
+XXVII. Participar y representar a la persona titular del Poder Ejecutivo, en los convenios que se celebren con la Federación u otras instancias relacionadas con la materia de su competencia.
 
-XXVIII. Participar y representar a la persona titular del Poder Ejecutivo, en los convenios que se celebren con la Federación u otras instancias relacionadas con la materia del trabajo y el fomento al empleo.
+XXVIII. Promover y apoyar la distribución y comercialización de los bienes y servicios producidos por los empresarios, organizaciones y organismos del sector y de sus asociados.
 
-XXIX. Promover y apoyar la distribución y comercialización de los bienes y servicios producidos por los empresarios, organizaciones y organismos del sector y de sus asociados.
+XXIX. Diseñar y ejecutar en coordinación con las instancias de gobierno correspondientes los programas alimentarios, con excepción de aquellos que correspondan o estén atribuidos expresamente a otros organismos.
 
-XXX. Diseñar y ejecutar en coordinación con las instancias de gobierno correspondientes los programas alimentarios, con excepción de aquellos que correspondan o estén atribuidos expresamente a otros organismos.
+XXX. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Administración Pública Estatal, así como depurar sus duplicidades.
 
-XXXI. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Administración Pública Estatal, así como depurar sus duplicidades.
+XXXI. Proponer estrategias para la orientación de recursos a proyectos de inversión con los gobiernos estatal y federal, que contribuyan al mejoramiento de las condiciones económicas, políticas, culturales y sociales de todas las personas, concentrando esfuerzos y recursos en los sectores de mayor rezago en la Entidad.
 
-XXXII. Proponer estrategias para la orientación de recursos a proyectos de inversión con los gobiernos estatal y federal, que contribuyan al mejoramiento de las condiciones económicas, políticas, culturales y sociales de todas las personas, concentrando esfuerzos y recursos en los sectores de mayor rezago en la Entidad.
+XXXII. Apoyar en el impulso y seguimiento de los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes, en coordinación con las dependencias y entidades de la Administración Pública de los diferentes órdenes de gobierno.
 
-XXXIII. Impulsar políticas y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes, en coordinación con las dependencias y entidades de la Administración Pública de los diferentes órdenes de gobierno.
+XXXIII. Promover y ejecutar las acciones necesarias para facilitar a las y los ciudadanos, el acceso al financiamiento público y privado, así como brindar apoyos mediante aportaciones solidarias para el fortalecimiento y desarrollo del Estado.
 
-XXXIV. Promover y ejecutar las acciones necesarias para facilitar a las y los ciudadanos, el acceso al financiamiento público y privado, así como brindar apoyos mediante aportaciones solidarias para el fortalecimiento y desarrollo del Estado.
+XXXIV. Coordinar la operación de los programas sociales en beneficio y apoyo a las necesidades de la población, como microfinanciamiento y microempresas sociales.
 
-XXXV. Coordinar la operación de los programas sociales en beneficio y apoyo a las necesidades de la población, como microfinanciamiento y microempresas sociales.
+XXXV. Establecer centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro o desastre.
 
-XXXVI. Establecer centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro o desastre.
+XXXVI. Establecer acciones de coordinación con los gobiernos federal y de los municipios para la ejecución del Programa Empleo Temporal (PET), conforme a la normatividad aplicable.
 
-XXXVII. Establecer acciones de coordinación con los gobiernos federal y de los municipios para la ejecución del Programa Empleo Temporal (PET), conforme a la normatividad aplicable.
+XXXVII. Formular, instrumentar e implementar la política estatal de la juventud, acorde con los objetivos, estrategias y líneas de acción contenidos en el Plan Estatal de Desarrollo.
 
-XXXVIII. Formular, instrumentar e implementar la política estatal de la juventud, acorde con los objetivos, estrategias y líneas de acción contenidos en el Plan Estatal de Desarrollo.
-
-XXXIX. Los demás asuntos que le correspondan en los términos de las leyes aplicables, su reglamento interior, y los que determine la persona titular del Poder Ejecutivo.
+XXXVIII. Los demás asuntos que le correspondan en los términos de las leyes aplicables, su reglamento interior, y los que determine la persona titular del Poder Ejecutivo.
 
 ###### Artículo 40.
 
@@ -1343,9 +1337,11 @@ IX. Elaborar su normatividad interna para el logro de sus fines y el funcionamie
 
 X. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2025)</small>
+
 ###### Artículo 48.
 
-El Instituto de la Consejería Jurídica del Gobierno del Estado es el encargado de proporcionar asesoramiento y representación legal al Gobierno del Estado y a sus dependencias, así como revisión y validación de su normatividad. Le corresponde el despacho de los siguientes asuntos:
+El Instituto de la Consejería Jurídica del Gobierno del Estado es el encargado de proporcionar asesoramiento a la Administración Pública Estatal, así como la revisión y validación de su normatividad; además llevará la representación legal de la persona Titular del Poder Ejecutivo del Estado, correspondiéndole el despacho de los siguientes asuntos:
 
 I. Dar apoyo técnico jurídico a la persona titular del Poder Ejecutivo en todos aquellos asuntos que éste le encomiende.
 
@@ -1353,7 +1349,9 @@ II. Someter a consideración y, en su caso, firma de la persona titular del Pode
 
 III. Revisar los Proyectos de Reglamentos, Decretos, Acuerdos, Nombramientos, Resoluciones del Ejecutivo Estatal y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, firma de la persona titular del Poder Ejecutivo.
 
-IV. Otorgar asesoría jurídica cuando el Poder Ejecutivo así lo acuerde, en asuntos en que intervengan las dependencias de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2025)</small>
+
+IV. Otorgar asesoría técnico jurídica a la Administración Pública Estatal cuando lo soliciten, sin perjuicio de la competencia de otras dependencias.
 
 V. Coordinar los programas de normatividad jurídica de la Administración Pública Estatal que apruebe la persona titular del Poder Ejecutivo y procurar la congruencia de los criterios jurídicos de las Dependencias y Entidades, determinando lo procedente.
 
@@ -1385,7 +1383,9 @@ XVIII. Otorgar, previo a su publicación en el Periódico Oficial, la validació
 
 XIX. Coordinarse con las autoridades competentes, para canalizar a éstas las peticiones ciudadanas de atención jurídica, que por disposición legal o normativa deban conocer.
 
-XX. Coordinar y administrar al Registro Civil, el Registro Público de la Propiedad y del Comercio, y el Archivo General y Notarías del Estado.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2025)</small>
+
+XX. Coordinar y administrar al Registro Civil, el Registro Público de la Propiedad y del Comercio y Notarías del Estado.
 
 XXI. Actuar en calidad de Notario Público en los actos en que participe el Poder Ejecutivo, y designar a los Notarios Públicos que intervendrán en los actos en los que éste sea parte.
 
@@ -1442,3 +1442,15 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández”, del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 05 días del mes de diciembre del año 2024.- D.P.C. LUIS IGNACIO AVENDAÑO BERMÚDEZ.- D.S.C. WENDY ARLET HERNÁNDEZ ICHIN.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los cinco días del mes de diciembre del año dos mil veinticuatro.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 176 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- Las facultades conferidas al Instituto del Patrimonio del Estado, seguirán siendo ejercidas de conformidad a su decreto de creación.
