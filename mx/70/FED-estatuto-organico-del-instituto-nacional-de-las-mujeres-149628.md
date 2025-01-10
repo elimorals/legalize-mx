@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-149628"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-06-01"
-last_updated: "2023-10-17"
+last_updated: "2025-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149628&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,1656 +19,888 @@ issue_date: "2019-12-04"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LAS MUJERES, PUBLICADO EN EL D.O.F. DE 10 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS MUJERES.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2025 (ABROGADO).
 
-EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+Estatuto publicado en el Número 1 del Diario Oficial de la Federación, el martes 1 de junio de 2021.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional de las Mujeres.
 
-DECRETA:
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-NÚMERO 181.-
+## TÍTULO PRIMERO
 
-LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
-
-## Título I. Disposiciones generales
-
-### Capítulo único. Normas preliminares
+### CAPÍTULO I DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-Naturaleza de la ley.
-
-La presente ley es de orden público e interés social y de observancia general en todo el territorio del estado.
-
-Es reglamentaria del párrafo sexto del artículo 173, de la Constitución Política del Estado de Coahuila de Zaragoza, en el que se reconoce la igualdad de derechos del hombre y de la mujer en todos los ámbitos de la vida cultural, social, jurídica, política y económica.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2022)</small>
-
-Tiene como eje principal, que las mujeres y los hombres son iguales ante la ley y por objeto proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo, con respeto entre las personas y sus culturas.
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+El Instituto Nacional de las Mujeres es un organismo público descentralizado de la Administración Pública Federal, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines, el cual tiene a su cargo el ejercicio de las atribuciones conferidas en su Ley y el despacho de los asuntos que le corresponden, en términos de la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, la Ley General para la Igualdad entre Mujeres y Hombres, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y las demás disposiciones legales aplicables.
 
 ###### Artículo 2.
 
-Objeto de la ley
-
-El objeto de la presente ley es:
-
-I. Establecer un marco jurídico que regule y garantice la igualdad sustantiva entre mujeres y hombres;
-
-II. Instaurar lineamientos y mecanismos que orienten a las instituciones y a las autoridades competentes del estado hacia la igualdad sustantiva de mujeres y hombres en los ámbitos público y privado;
-
-III. Promover el empoderamiento y la superación positiva de las mujeres;
-
-IV. Crear mecanismos de erradicación de la discriminación con base en el sexo. Lo anterior, sin importar condición en cualquier ámbito de la vida y procurando el enfoque en las esferas política, civil, laboral, económica, social y cultural;
-
-V. Impulsar el desarrollo de normas en materia de igualdad y equidad entre mujeres y hombres previstos por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado de Coahuila de Zaragoza. Esto con el fin de alcanzar una sociedad más justa, solidaria y democrática mediante principios establecidos en la ley para la correcta actuación de los poderes públicos, respecto de los derechos y deberes de las personas en las esferas públicas y privadas a través de medidas que corrijan y eliminen toda forma de discriminación por razones de sexo en cualquier ámbito.
-
-A estos efectos, la ley establece principios de actuación de los poderes públicos, regula derechos y deberes de las personas físicas y jurídicas, tanto públicas como privadas, y prevé medidas destinadas a eliminar y corregir en los sectores público y privado, toda forma de discriminación por razón de sexo.
+El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, estructura, así como las facultades que corresponden a las distintas áreas que integran el Instituto Nacional de las Mujeres, para llevar a cabo el cumplimiento de las atribuciones que tiene conferidas.
 
 ###### Artículo 3.
 
-Ámbito de aplicación.
+Para los efectos de este ordenamiento se entiende por:
 
-Todas las personas gozarán de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+I. Acciones afirmativas: Son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir o compensar situaciones estructurales de desigualdad en el disfrute o ejercicio de derechos y libertades. Se adecuarán a la situación que quiera remediarse, y serán legítimas, siempre que supongan una forma razonable, objetiva y proporcionada de combatir la discriminación de facto y se dejen de emplear una vez conseguida una igualdad sustantiva sostenible;
 
-Las obligaciones establecidas en esta ley serán de aplicación a toda persona, física o jurídica, que se encuentren en territorio del Estado de Coahuila, cualquiera que fuese su nacionalidad, domicilio o residencia y que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, creencia religiosa, opinión, preferencias sexuales o discapacidad, se encuentren con algún tipo de desventaja.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+II. Consejo Consultivo: Consejo Consultivo del Instituto Nacional de las Mujeres y órgano auxiliar del Instituto;
 
-La aplicación y debida observancia de esta ley será en los ámbitos público y privado y corresponde a la Administración Pública Estatal y Municipal, de conformidad con sus respectivas competencias, debiendo tomar las medidas presupuestales y administrativas que permitan garantizar la igualdad entre mujeres y hombres sin discriminación de cualquier tipo.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+III. Consejo Social: Consejo Social del Instituto Nacional de las Mujeres y órgano auxiliar del Instituto;
+
+IV. Estatuto: Estatuto Orgánico del Instituto Nacional de las Mujeres.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+V. Género: Concepto que refiere a los valores, atributos, roles y representaciones que la sociedad asigna a mujeres y hombres;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VI. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VII. Igualdad de género: Concepto que refiere al principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación igualitaria de las mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar. Implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por razones de género;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VIII. Institucionalización: Es el proceso mediante el cual las demandas de las mujeres por la igualdad sustantiva se insertan en los procesos y procedimientos regulares y pasan a formar parte de las normas de las instituciones;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IX. Instituto: Instituto Nacional de las Mujeres;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+X. Junta de Gobierno: Junta de Gobierno del Instituto Nacional de las Mujeres y máximo órgano de administración del Instituto;
+
+XI. Ley: Ley del Instituto Nacional de las Mujeres.
+
+XII. Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+XIII. Ley General de Igualdad: Ley General para la Igualdad entre Mujeres y Hombres.
+
+XIV. Mecanismos: Mecanismos para el Adelanto de las Mujeres.
+
+XV. Perspectiva de género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+XVI. Presidencia: Presidencia del Instituto Nacional de las Mujeres.
+
+XVII. Proigualdad: Programa Nacional para la Igualdad entre Mujeres y Hombres.
+
+XVIII. Políticas públicas: Posición básica o curso de acción seleccionado por el gobierno para orientar las decisiones respecto a una necesidad o situación de interés público. Las principales fuentes de expresión de política pública son: la Constitución, las leyes secundarias, los diversos programas de gobierno y los pronunciamientos oficiales del mismo. Las políticas públicas definen un orden de prioridad y el ámbito de acción del gobierno en el tratamiento de los problemas o necesidades, según su naturaleza y urgencia.
+
+XIX. Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto Nacional de las Mujeres.
+
+XX. Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género en todos los ámbitos, con el objetivo de valorar las implicaciones que tienen para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+XXI. Unidad Administrativa: Área del Instituto a la que se le confieren atribuciones específicas en el presente ordenamiento, que tiene funciones propias que la distinguen de las demás dentro de la Institución.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 4.
 
-Principios rectores.
-
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
-
-Son principios rectores de la presente ley, la igualdad de oportunidades, la igualdad sustantiva, la no discriminación, la equidad de género, la perspectiva de género y todos aquellos contenidos en los instrumentos internacionales aplicables en la materia, en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Coahuila de Zaragoza, en la Ley General para la Igualdad entre Mujeres y Hombres y demás leyes en la materia.
+El Instituto, a través de la Junta de Gobierno, el Consejo Consultivo, el Consejo Social y sus unidades administrativas, planeará y conducirá sus actividades conforme a los objetivos, estrategias, líneas de acción y demás elementos previstos en el Plan Nacional de Desarrollo y los programas que deriven de este, en los tratados internacionales suscritos por México y en las demás disposiciones jurídicas aplicables. La información, datos y la cooperación técnica que realicen las unidades administrativas, deberá estar a disposición de cualquiera de los órganos que integran el Instituto.
 
 ###### Artículo 5.
 
-Sujetos de la ley.
-
-Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en territorio estatal, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión, orientación o identidad sexual o capacidades diferentes, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta ley tutela.
-
-La violación a los principios y programas que esta ley prevé, por parte de las autoridades del estado y municipios, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y, en su caso, por las leyes locales aplicables, sin perjuicio de las penas que resulten por la comisión de algún delito previsto por el Código Penal de Coahuila.
+El trámite y resolución de los asuntos de la competencia del Instituto corresponde originalmente a la Presidencia, que, para la mejor distribución y desarrollo del trabajo y el despacho de los mismos, se auxiliará de las demás unidades administrativas que lo integran en los términos previstos en este Estatuto. Además, podrá delegar facultades a las personas servidoras públicas de las unidades administrativas de la Entidad, sin perjuicio de la posibilidad de su ejercicio directo.
 
 ###### Artículo 6.
 
-Leyes supletorias.
-
-En lo no previsto en esta ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, Ley para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza, Ley Orgánica de la Comisión de Derechos Humanos del Estado de Coahuila, así como los instrumentos internacionales ratificados por el estado mexicano y los demás ordenamientos aplicables en la materia.
+Las personas titulares de los Órganos y Unidades Administrativas que integran el Instituto, coordinarán y supervisarán la creación y mantenimiento de los archivos a su cargo, así como la clasificación de los documentos en términos de la Ley Federal de Transparencia y Acceso a la Información Pública, Ley General de Archivos y Ley General de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 7.
 
-Interpretación y aplicación.
-
-La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas de esta ley.
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+De conformidad con lo establecido en el artículo 8 de la Ley, el domicilio del Instituto estará ubicado en la Ciudad de México, pudiendo designar domicilio convencional para el ejercicio de los derechos y el cumplimiento de las obligaciones que se deriven de los actos inherentes a sus atribuciones. La Junta de Gobierno determinará, en su caso el establecimiento de oficinas distintas a las de la Ciudad de México, a propuesta de la Presidencia.
 
 ###### Artículo 8.
 
-Glosario.
+Para cumplir con su objeto general y objetivos específicos, el Instituto actuará de conformidad con los criterios de transversalidad, federalismo y fortalecimiento de vínculos entre los Poderes de la Unión. De conformidad con lo establecido en los artículos 6 y 7 de la Ley, tendrá las atribuciones siguientes:
 
-Para los efectos de esta ley se entenderá por:
+I. Definir las directrices, características y elementos que deben contener las políticas públicas con perspectiva de género para lograr que se alcance la igualdad sustantiva entre mujeres y hombres.
 
-I. Acciones afirmativas. Son el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres.
+II. Proponer, promover, coordinar y difundir actividades que incorporen la perspectiva de género, estableciendo los vínculos necesarios para el cumplimiento de su objeto.
 
-II. Discriminación contra las Mujeres. Es toda distinción, exclusión, restricción o preferencia basada (sic) que sufran las mujeres que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-III. Discriminación indirecta. La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.
+III. Intervenir en el diseño de los programas y proyectos del Ejecutivo Federal, a fin de incorporar la perspectiva de género en la Administración Pública Federal; coadyuvar con los gobiernos estatales y municipales en el diseño de los programas de igualdad de género, no violencia y protección de los derechos humanos de las mujeres, adolescentes y niñas y promover el fortalecimiento de la perspectiva de género en las instituciones del Estado mexicano, incluyendo los órganos constitucionales autónomos;
 
-IV. Entidades públicas. Los organismos públicos autónomos, las dependencias y entidades señaladas en la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza, y el Código Municipal para el Estado de Coahuila de Zaragoza, en las demás leyes, decretos y ordenamientos jurídicos mediante los cuales se creen organismos de derecho público, así como los entes privados que reciban recursos públicos y los demás que disponga la ley.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-V. Empoderamiento de las mujeres. Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
+IV. Promover la elaboración y ejecución de programas en el sector público, orientados a fomentar la igualdad sustantiva y los derechos humanos de las mujeres, adolescentes y niñas;
 
-VI. Estado. Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-VII. Estereotipo sexual. Una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino.
+V. Fungir como órgano de consulta de los sectores público, social y privado en materia de perspectiva de género, igualdad sustantiva y derechos humanos de las mujeres, adolescentes y niñas;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-VIII. Igualdad entre mujeres y hombres. La participación del hombre y la mujer en igualdad de posibilidades y derechos en la vida civil, cultural, económica, política, social y familiar de la sociedad.
+VI. Celebrar convenios y acuerdos con los sectores privado, público y social, nacionales e internacionales, necesarios para la mejor consecución de sus objetivos;
 
-IX. Igualdad formal. Reconocimiento ante la ley, las normas, las políticas públicas, acciones, programas, presupuestos y ante las estructuras de Gobierno de la condición igualitaria entre las mujeres y los hombres mediante la cual se asegura que todas las personas gocen de los mismos derechos.
+VII. Promover el cumplimiento de los acuerdos internacionales aprobados por la Cámara de Senadores, así como de los instrumentos internacionales y regionales en materia de igualdad de género y derechos humanos de las mujeres y asesorar a los sectores privado, público y social en la materia.
 
-X. Igualdad sustantiva. Condición a la que las mujeres tienen derecho y que el Estado debe garantizar mediante el establecimiento de normas, leyes, política pública, acciones, programas, presupuestos y las medidas necesarias de carácter estructural, social y cultural para lograr el acceso de las mujeres, de cualquier edad, al ejercicio de todos los derechos humanos y libertades; así como al acceso a oportunidades, bienes, servicios, recursos en todos los ámbitos de la vida, eliminando todas las formas de discriminación.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-XI. Perspectiva de género. Son la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género.
+VIII. Realizar y promover la elaboración de estudios e investigaciones en materia de igualdad de género y de derechos humanos de las mujeres, adolescentes y niñas, así como asesorar e implementar capacitaciones en la materia;
 
-XII. Política estatal. Es la política estatal en materia de igualdad entre mujeres y hombres.
+IX. Coordinarse con organizaciones gubernamentales y no gubernamentales a fin de cumplir con los objetivos generales y específicos del Instituto.
 
-XIII. Principio de igualdad de oportunidades. Que la mujer y el hombre deben acceder a las mismas oportunidades y recibir el mismo trato. De esta manera, los hombres y las mujeres son sujetos de los mismos derechos y obligaciones sin importar las diferencias de género.
+X. Adquirir, poseer, usar y enajenar los bienes muebles e inmuebles necesarios para el cumplimiento de sus fines.
 
-XIV. Programa estatal. Programa Estatal para la Igualdad entre Mujeres y Hombres.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-XV. Programa nacional. Programa Nacional para la Igualdad entre Mujeres y Hombres.
+XI. Establecer enlaces de intercambio de información con las entidades federativas, respecto a la incorporación de la perspectiva de género y la igualdad sustantiva en sus políticas públicas;
 
-XVI. Sistema estatal. Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-XVII. Sistema nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombres.
+XII. Promover y coadyuvar en la generación e integración de la información estadística desagregada por sexo y con perspectiva de género para el diseño de las políticas públicas que reduzcan y eliminen las desigualdades entre mujeres y hombres y posibiliten la identificación de las condiciones sociales, políticas, económicas y culturales de las mujeres, en los distintos ámbitos de la sociedad;
 
-XVIII. Transversalidad. El proceso que permite garantizar la incorporación de la perspectiva de género para valorar las implicaciones que tiene en las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+XIII. Evaluar la información presentada por las dependencias y entidades, sobre los avances obtenidos por las políticas públicas con perspectiva de género y en favor de la igualdad sustantiva;
 
-XIX. Paridad de género. Principio que garantiza la igualdad entre hombres y mujeres en el acceso a puestos de representación política, asegurando la participación igualitaria en la definición de candidaturas.
+XIV. Identificar aquellos casos en que las leyes federales o locales no tutelen la igualdad y diseñar propuestas de iniciativas legislativas con perspectiva de género, tendientes a lograr la igualdad sustantiva de mujeres y hombres.
 
-## Título II. De las autoridades e instituciones competentes en materia de igualdad entre mujeres y hombres
+XV. Dar seguimiento a la aplicación de las leyes que tutelen el derecho a la igualdad, revisar su efectividad y retroalimentar con los resultados de dicho seguimiento a los Poderes Legislativo y Judicial, en el ámbito federal y estatal, así como coadyuvar en la comunicación entre ellos a fin de que busquen, de común acuerdo y con la asesoría del Instituto, soluciones legales adecuadas a los problemas que derivan de la desigualdad entre mujeres y hombres.
 
-### Capítulo primero
+XVI. Participar en las reuniones y negociaciones internacionales relativas a los derechos humanos de las mujeres y las niñas, perspectiva e igualdad de género.
 
-De las autoridades e instituciones competentes.
+XVII. Las demás que las disposiciones legales le atribuyan.
+
+## TÍTULO SEGUNDO
+
+### CAPÍTULO I DE LA ESTRUCTURA ORGÁNICA
 
 ###### Artículo 9.
 
-Autoridades competentes.
+El Instituto Nacional de las Mujeres cuenta con los siguientes órganos y unidades administrativas:
 
-Las autoridades del estado y de los municipios, tendrán a su cargo la aplicación de la presente ley, sin perjuicio de las atribuciones que les correspondan.
+1. Junta de Gobierno.
 
-Son autoridades competentes quien sea titular de:
+1.1. Consejo Consultivo.
 
-I. Poder Ejecutivo del Estado:
+1.2. Consejo Social.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+2. Presidencia.
 
-II. Instituto Coahuilense de las Mujeres;
+2.1. Secretaría Ejecutiva.
 
-III. Presidencia de los municipios del estado; y,
+2.2. Dirección General de la Política Nacional de Igualdad y Derechos de las Mujeres.
 
-IV. Las demás entidades públicas estatales y municipales responsables de hacer efectiva la igualdad entre las mujeres y los hombres.
+2.3. Dirección General para la Promoción de una Vida Libre de Violencia e Impulso a la Participación Política.
 
-## Título III. De la política estatal para la igualdad entre mujeres y hombres
+2.4. Dirección General de Planeación y Evaluación.
 
-### Capítulo segundo. De la distribución de competencias y la coordinación interinstitucional
+2.5. Unidad de Administración y Finanzas.
+
+2.6. Coordinación de Asuntos Internacionales.
+
+2.7. Coordinación de Comunicación e Información.
+
+2.8. Coordinación de Asuntos Jurídicos.
+
+## TÍTULO TERCERO
+
+### CAPÍTULO I DE LA JUNTA DE GOBIERNO
 
 ###### Artículo 10.
 
-Institutos y comisiones competentes.
-
-Los institutos y comisiones competentes en materia de igualdad entre mujeres y hombres son:
-
-I. La Comisión de Derechos Humanos del Estado de Coahuila; y,
-
-II. Los demás institutos y comisiones responsables de hacer efectiva la igualdad entre las mujeres y los hombres.
+La Junta de Gobierno es el máximo órgano de administración del Instituto, encargada de fijar, dirigir, supervisar, evaluar y controlar las actividades a cargo de esta entidad. La Junta de Gobierno se integrará y sesionará con la periodicidad y en los términos que fija la Ley del Instituto Nacional de las Mujeres, la Ley Federal de las Entidades Paraestatales, su Reglamento y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 11.
 
-Distribución de competencias.
-
-El estado y sus municipios ejercerán sus atribuciones en materia de esta ley, de conformidad con la distribución de competencias previstas en la misma y en los demás ordenamientos aplicables.
+La Presidencia de la Junta de Gobierno estará a cargo de la persona Titular de la Presidencia del Instituto, quien tendrá voz y voto y, en caso de empate, ejercerá voto de calidad.
 
 ###### Artículo 12.
 
-Bases de coordinación del sistema estatal.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-El Gobierno del Estado, a través del Instituto Coahuilense de las Mujeres en acuerdo con los municipios, establecerá las bases de coordinación para la integración y funcionamiento del Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+Son facultades de quien presida la Junta de Gobierno, programar, instalar y clausurar las sesiones, así como reprogramar las sesiones en caso justificado en un plazo máximo de cinco días hábiles para las extraordinarias y quince días hábiles para las ordinarias, y las demás que sean necesarias para la celebración de las sesiones y aquellas que señale la Ley y las disposiciones legales aplicables.
 
 ###### Artículo 13.
 
-Materia de los convenios de coordinación.
+Las personas integrantes de la Junta de Gobierno tendrán las siguientes obligaciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Asistir a las sesiones de la Junta de Gobierno a las que se les convoque; en caso de no poder asistir, deberán notificarlo por correo electrónico o por escrito, dos días hábiles antes de la sesión para el caso de sesiones ordinarias, y doce horas antes para el caso de sesiones extraordinarias, lo anterior para que con debida antelación la Secretaría Técnica pueda citar a la persona que funja como suplente.
 
-El Gobierno del Estado, a través de la Secretaría de Gobierno, o de las instancias administrativas que se ocupen del adelanto de las mujeres, podrá suscribir convenios o acuerdos de coordinación con la participación del Instituto Coahuilense de las Mujeres a fin de:
+II. Firmar la lista de asistencia en las sesiones que participen.
 
-I. Fortalecer sus funciones y atribuciones en materia de igualdad;
+III. Emitir su opinión y/o voto, respecto de los asuntos competencia de la Junta de Gobierno que se incluyan en el orden del día, salvo que se encuentren impedidos para ello.
 
-II. Establecer mecanismos que permitan la transversalidad de la perspectiva de género en la función pública del estado;
+IV. Acreditar por escrito ante la Junta de Gobierno a sus respectivos suplentes, quienes deberán contar con el nivel jerárquico establecido en la Ley y fungirán como vocales suplentes en su ausencia.
 
-III. Impulsar la vinculación interinstitucional en el marco del sistema estatal;
+V. Las Vocales Propietarias de los órganos auxiliares, designarán de entre las integrantes de su Consejo a su suplente, quien fungirá como vocal suplente en su ausencia.
 
-IV. Coordinar las tareas en materia de igualdad mediante acciones especificas y, en su caso, positivas que contribuyan a una estrategia estatal, y
-
-V. Coadyuvar en la elaboración e integración de iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil.
+VI. Las demás que sean necesarias para el desarrollo de las sesiones.
 
 ###### Artículo 14.
 
-Factibilidad de los acuerdos de coordinación.
+La Junta de Gobierno, además de las facultades que le confieren la Ley del Instituto Nacional de las Mujeres, la Ley Federal de las Entidades Paraestatales y su Reglamento y las demás disposiciones jurídicas aplicables, tendrá las siguientes atribuciones:
 
-En la celebración de convenios o acuerdos de coordinación, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente ley, conforme a la normativa jurídica, administrativa y presupuestaria correspondiente.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+I. Aprobar la convocatoria bajo la cual serán elegidas las integrantes de los órganos auxiliares del Instituto, y publicarla al menos tres meses antes de que concluya el encargo de las que se encuentran en funciones;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+II. Elegir de entre las participantes de la convocatoria a las mujeres que integrarán los órganos auxiliares, favoreciendo la diversidad y representatividad de las mujeres de los diferentes sectores de la sociedad, así como sus contribuciones en favor de la igualdad sustantiva;
+
+III. Designar ocho Vocales Propietarias por cada órgano auxiliar, ante la Junta de Gobierno, tomando en cuenta la propuesta que realice la Presidencia del Instituto en coordinación con los órganos auxiliares.
+
+IV. Aprobar la reglamentación interna de los órganos auxiliares.
+
+V. Establecer los lineamientos que contemplen las condiciones y el mecanismo mediante el cual podrán ser ratificadas las integrantes de los órganos auxiliares por un periodo adicional.
+
+VI. Tomar las decisiones que considere necesarias para el buen despacho de los asuntos del Instituto y las demás que, con carácter indelegable, establezcan las disposiciones jurídicas aplicables.
 
 ###### Artículo 15.
 
-Seguimiento y evaluación de los acuerdos.
+Para la celebración de las Sesiones de la Junta de Gobierno se tomará en cuenta lo siguiente:
 
-Se preverá que en el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este capítulo, intervenga el área responsable de la Comisión de Derechos Humanos del Estado de Coahuila, en su calidad de responsable de la protección, observancia, promoción, estudio y divulgación de los derechos humanos en la entidad, de acuerdo con las atribuciones que su propia ley le confiere.
+I. El número de sesiones ordinarias será de por lo menos cuatro veces al año y las extraordinarias que convoque la Presidencia o cuando menos una tercera parte de las personas integrantes de la Junta de Gobierno, de conformidad con el calendario de sesiones que sea aprobado en la última sesión ordinaria del año anterior.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
+II. Todos los asuntos que se propongan incluir en el orden del día, serán remitidos a la Secretaría Técnica por lo menos con 20 días hábiles previos a la celebración de la sesión.
 
-### Capítulo Tercero. Atribuciones de los Poderes Ejecutivo, Legislativo y Judicial del Estado
+III. La convocatoria para quienes integren la Junta de Gobierno, será notificada con una antelación no menor a tres días hábiles para sesiones ordinarias, y no menor a un día hábil para sesiones extraordinarias.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+IV. En dichas sesiones se abordarán únicamente los asuntos que se incluyan en el orden del día para su autorización o aprobación, así como los de conocimiento; cualquier asunto que por causa superveniente no se desahogue en la sesión correspondiente, podrá tratarse en la sesión inmediata siguiente o extraordinaria, atendiendo a la importancia del mismo.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+V. En todas las sesiones ordinarias se dará cuenta del seguimiento de los acuerdos y se asentará su desarrollo en el acta respectiva;
+
+VI. Para el caso de que alguna persona integrante de la Junta de Gobierno quiera tratar un punto en asuntos generales, deberá solicitarlo a la Secretaría Técnica con al menos 24 horas de anticipación a la sesión.
+
+VII. Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos de las y los vocales presentes durante la sesión.
+
+VIII. La persona Titular de la Secretaría Técnica tendrá la facultad de moderar las sesiones de la Junta de Gobierno.
+
+IX. En cada sesión deberá levantarse un acta que, además de los datos generales, contenga la relación sucinta del desahogo de los asuntos del orden del día.
+
+### CAPÍTULO II DE LOS ÓRGANOS AUXILIARES, DE SU ESTRUCTURA
 
 ###### Artículo 16.
 
-Atribuciones de los tres poderes del Estado:
-
-A.- Corresponde al Poder Ejecutivo:
-
-I. Conducir la política estatal en materia de igualdad entre mujeres y hombres;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
-
-II. Incorporar en el presupuesto de egresos del Estado la asignación de recursos para el cumplimiento de las normas y objetivos para el logro de la igualdad entre mujeres y hombres; observando que dicha asignación no sea inferior a la correspondiente al ejercicio fiscal que termina.
-
-III. Crear, vigilar el cumplimiento y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres por medio de instancias administrativas que promuevan la igualdad sustantiva mediante el enfoque de género;
-
-IV. Elaborar políticas públicas estatales cuyo eje rector sea la perspectiva de género y la transversalidad, con una proyección de mediano y largo alcance. Lo anterior debe estar armonizado con los programas nacionales para dar cumplimiento efectivo a esta ley; y
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-V. Suscribir convenios a través del Instituto Coahuilense de las Mujeres, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Estado en los ámbitos público y privado;
-
-VI. Coordinarse con las dependencias de la administración pública federal y municipal para promover la aplicación de la presente ley.
-
-B.- Corresponde al Poder Legislativo:
-
-I. Aprobar y difundir normas que garanticen los derechos de igualdad entre mujeres y hombres, acordes a la inclusión social y la igualdad de oportunidades;
-
-II. Aprobar reformas que instauren la participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones;
-
-III. Aprobar la aplicación de las normas y políticas que garanticen la igualdad de oportunidades entre mujeres y hombres, en el ámbito de su competencia;
-
-IV. Asegurar la asignación de presupuestos necesarios para cumplir con los objetivos de la Ley y fiscalizar su cumplimiento;
-
-V. Favorecer el trabajo legislativo con la perspectiva de género;
-
-VI. Difundir los tratados internacionales vinculantes al estado mexicano relacionados con esta materia; y
-
-VII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
-
-El Congreso del Estado, en base a la Constitución del Estado de Coahuila de Zaragoza, sus principios, políticas y objetivos preverá la armonización legislativa a que haya lugar, en materia de la igualdad sustantiva entre mujeres y hombres, sin perjuicio de las normas que regulan la violencia de género en contra de las mujeres y la no discriminación, evaluando de manera periódica la aplicación de las normas que se aprueben, en coordinación con la administración pública estatal.
-
-C.- Corresponde al Poder Judicial:
-
-I. Garantizar el acceso e impartición de justicia en igualdad de oportunidades entre mujeres y hombres, impulsando la modificación de concepciones, actitudes y valores discriminatorios de impartidores de justicia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2021)</small>
-
-II. Incorporar la perspectiva de género en las sentencias y resoluciones judiciales tomando en cuenta: Los impactos diferenciados entre mujeres y hombres en la interpretación de la norma jurídica; la interpretación y aplicación sobre una base de igualdad de los derechos de la mujer con los del hombre para garantizar la igualdad sustantiva y la eliminación de todo tipo de discriminación contra las mujeres bajo la protección más amplia de derechos humanos establecidos en las disposiciones nacionales e internacionales en las resoluciones y sentencias que emitan;
-
-III. Desarrollar programas de formación, capacitación y sensibilización del personal de impartición de justicia y quienes se desempeñen como funcionarios encargados de la aplicación de la ley, incorporando en dichos programas, contenidos sobre igualdad y derechos humanos de las mujeres y hombres y sus deberes;
-
-IV. Implementar políticas que permitan el desarrollo de procedimientos justos, efectivos y oportunos en concordancia con los instrumentos internacionales firmados y ratificados por el estado mexicano, eliminando los obstáculos que existan para el acceso a la justicia, en particular de las mujeres rurales o de escasos recursos;
-
-V. Vigilar que la impartición de justicia esté libre de prejuicios, parcialidad, pensamientos, actitudes y aspectos discriminatorios;
-
-VI. Institucionalizar programas al personal de impartición de justicia incorporando contenidos sobre igualdad, derechos humanos de las mujeres, aplicación, conocimiento y cumplimiento de los tratados internacionales vinculantes para el estado mexicano;
-
-VII. Facilitar servicios periciales gratuitos, tratándose de mujeres y hombres que no puedan acceder a estos servicios, previo estudio socioeconómico realizado por la propia institución; y
-
-VIII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
+Los órganos auxiliares: el Consejo Consultivo y el Consejo Social, estarán integrados cada uno por el número de consejeras elegidas por la Junta de Gobierno en términos de lo que establece la Ley.
 
 ###### Artículo 17.
 
-Atribuciones del Instituto Coahuilense de las Mujeres.
+La estructura de los órganos auxiliares estará integrada por una consejera presidenta y una secretaria, quienes serán electas por cada uno de los órganos auxiliares en términos de su reglamentación interna; ambos cargos durarán un año contado a partir de la fecha de celebración de la sesión en la que fueron electas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO III DE LA ORGANIZACIÓN DE LOS ÓRGANOS AUXILIARES
 
-Corresponde al Instituto Coahuilense de las Mujeres:
-
-I. Formular, conducir y evaluar la política estatal en materia de igualdad entre mujeres y hombres:
-
-II. Diseñar y aplicar los instrumentos de promoción y cumplimiento de la política estatal en materia de igualdad garantizada en esta ley, mediante la coordinación y aplicación del principio de transversalidad.
-
-III. Promover en coordinación con las dependencias estatales y los municipios, las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa Estatal para la Igualdad entre Mujeres y Hombres, con observancia de los principios que ésta ley señala;
-
-IV. Garantizar la igualdad de oportunidades, mediante la adopción de políticas, programas, proyectos e instrumentos compensatorios como acciones positivas;
-
-V. Proponer que se incorporen en el Presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad;
-
-VI. Promover en coordinación con las dependencias de la administración pública estatal la aplicación de la presente ley;
-
-VII. Fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, la participación equitativa entre hombres y mujeres en el ámbito social, económico, político, civil, cultural y familiar;
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
-
-VIII. Concertar acciones positivas en los ámbitos gubernamental, social y privado a fin de garantizar en el estado la igualdad de oportunidades;
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
-
-IX. Establecer vínculos de colaboración permanente con organismos públicos, sociales y privados para la efectiva aplicación y cumplimiento de la presente ley;
-
-X. Proponer al Ejecutivo Estatal las bases para la integración y funcionamiento del Sistema Estatal para la Igualdad entre Mujeres y Hombres;
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
-
-XI. Promover y evaluar sin distingo partidistas (sic) la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
-
-XII. Conocer y resolver, a través de su titular o de la persona en quien se delegue dicha atribución, del procedimiento para la igualdad; y,
-
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2016)</small>
-
-XIII. Formular un programa anual que tenga como objetivo la difusión trimestral a la ciudadanía sobre los derechos de las mujeres y la equidad de género en el Estado de Coahuila de Zaragoza.
-
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
-
-XIV. Suscribir los convenios necesarios para el cumplimiento de la presente ley.
-
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
-
-XV. Evaluar la aplicación de la presente ley en los ámbitos público y privado.
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
-
-XVI. Los demás que esta ley y otros ordenamientos aplicables le confieren.
-
-### Capítulo Cuarto. Del Instituto Coahuilense de las Mujeres
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 18.
 
-Atribuciones de los municipios.
+La organización de los órganos auxiliares se establecerá por sus propias integrantes en el proyecto de reglamentación que se someta a la aprobación de la Junta de Gobierno.
 
-De conformidad con lo dispuesto en la presente ley, corresponde a los municipios:
+Dicha reglamentación deberá construirse en concordancia con la Ley, el presente Estatuto, el Código de Conducta del Instituto y los demás ordenamientos legales relacionados, y deberá contener, por lo menos, lo siguiente:
 
-I. Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con las políticas nacional y estatal;
+I. Los requisitos y condiciones para las sesiones de trabajo;
 
-II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+II. Los derechos y deberes de sus integrantes;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE ENERO DE 2021)</small>
+III. La mecánica de deliberación interna, las votaciones y adopción de acuerdos, y
 
-III. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo que promuevan los contenidos de la presente ley;
-
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
-
-IV. Elaborar el presupuesto de egresos del Municipio con perspectiva de género, para el cumplimiento en el ámbito de su competencia de las políticas, programas y acciones para la igualdad;
-
-(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
-
-V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
-
-(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
-
-VI. Fortalecer la prestación de los servicios públicos de la administración municipal, a través de la formación, capacitación y certificación de las y los servidores públicos en materia de igualdad de género;
-
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA FRACCIÓN VIII.]</small>
-
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
-
-VII. Fomentar la participación equitativa de mujeres y hombres en cargos públicos;
-
-(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
-
-VIII. Fomentar la participación equitativa de mujeres y hombres en cargos públicos; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE FEBRERO DE 2021)</small>
-
-IX. Establecer la coordinación a que haya lugar con los otros órdenes de gobierno para lograr la transversalidad de la perspectiva de género en la función pública municipal;
-
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2021)</small>
-
-X. Desarrollar mecanismos especiales para la debida de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil; y
-
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2021)</small>
-
-XI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+IV. Los supuestos de medidas disciplinarias al interior de sus consejos, así como las conductas que sean causa de la propuesta para la remoción del cargo de consejera u otras representaciones adquiridas en esa calidad, por el incumplimiento de la propia reglamentación interna y las demás disposiciones que resulten aplicables.
 
 ###### Artículo 19.
 
-Atribuciones de la Comisión de Derechos Humanos del Estado de Coahuila.
-
-Son atribuciones de la Comisión de Derechos Humanos del Estado de Coahuila:
-
-I. La protección, observancia, promoción, estudio y divulgación de los derechos humanos en la entidad;
-
-II. El seguimiento de los resultados derivados de la ejecución de los convenios y acuerdos a que se refiere esta ley; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2021)</small>
-
-III. Coadyuvar al establecimiento de las garantías necesarias para asegurar que los Derechos Humanos de las personas que se encuentren en el territorio del Estado de Coahuila de Zaragoza, sean reales, equitativos y efectivos, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2021)</small>
-
-IV. Las demás que en la materia le confieran las leyes respectivas.
+Las propuestas de colaboración y de información que requieran para el desarrollo de sus funciones, deberán ser consensadas en las sesiones de sus Consejos y por acuerdo de la mayoría, debiendo asentarse en las actas respectivas. Dichas propuestas e información deben ser presentadas y solicitadas al Instituto, por conducto de la Secretaría Técnica, mediante escrito que suscriba la presidenta de cada órgano auxiliar, debiendo adjuntarse el acta correspondiente.
 
 ###### Artículo 20.
 
-Lineamientos de la política estatal.
-
-La política estatal deberá establecer las acciones que conduzcan a lograr la igualdad sustantiva en los ámbitos económico, político, social, cultural y familiar. Los lineamientos que deberá considerar el Ejecutivo Estatal para el desarrollo e implementación de las políticas públicas en materia de igualdad, son las siguientes:
-
-I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
-
-II. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
-
-III. Garantizar que la planeación presupuestal incorpore la perspectiva de género, a la transversalidad y prevea el cumplimiento de programas, proyectos, convenios y acciones para la igualdad entre mujeres y hombres;
-
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
-
-IV. Promover la participación y representación política en igualdad de condiciones para mujeres y hombres bajo el principio de paridad de género vertical y horizontal dentro de las estructuras de los partidos políticos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2016)</small>
-
-V. Establecer medidas para erradicar la violencia de género y la violencia familiar; así como, la protección de los derechos sexuales y reproductivos y sus efectos en los ámbitos público y privado;
-
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
-
-VI. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico, por medio del impulso de políticas y prácticas equitativas de salarios, prestaciones, ascensos y crecimiento profesional entre ambos sexos a trabajo de igual valor, de acuerdo con lo establecido en el artículo 41 fracción XIV de la presente Ley referente a incentivar a las empresas a que apliquen políticas en la materia;
-
-VII. Implementar acciones para garantizar la igualdad de acceso y disfrute de los derechos sociales para las mujeres y los hombres promoviendo la eliminación de estereotipos en función del sexo;
-
-VIII. Promover la igualdad entre mujeres y hombres en la vida civil;
-
-IX. Asegurar el cumplimiento del principio de igualdad en las relaciones entre particulares, así como establecer medidas que aseguren corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y los hombres;
-
-X. Promover la eliminación de estereotipos establecidos en función del sexo;
-
-XI. Establecer la utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XII. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres;
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XIII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XIV. La transversalización de las políticas públicas;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XV. Propiciar la igualdad de oportunidades para las mujeres en el uso y aprovechamiento de sus propiedades para su beneficio; y
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XVI. Alcanzar la paridad de mujeres y hombres en el liderazgo y toma de decisiones.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 2021)</small>
+Los órganos auxiliares realizarán sus sesiones ordinarias y extraordinarias para cumplir con sus objetivos, de acuerdo con su plan anual de trabajo. Como mínimo deberán sesionar en número igual a las sesiones ordinarias y extraordinarias celebradas por la Junta de Gobierno. En caso de ser necesarias otras reuniones de los órganos auxiliares, éstas podrán llevarse a cabo conforme a la disponibilidad presupuestaria con que cuente el Instituto. También podrán realizar sesiones mediante la utilización de los medios tecnológicos y de telecomunicación.
 
 ###### Artículo 21.
 
-Instrumentos de la política estatal.
-
-Son instrumentos de la política estatal en materia de igualdad entre mujeres y hombres, los siguientes:
-
-I. El Sistema Nacional para la Igualdad entre Mujeres y Hombres;
-
-II. El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
-
-III. El Programa Nacional para la Igualdad entre Mujeres y Hombres;
-
-IV. El Programa Estatal para la Igualdad entre Mujeres y Hombres;
-
-V. El Plan Estatal de Desarrollo;
-
-VI. El Acuerdo Nacional para la Igualdad entre Mujeres y Hombres; y
-
-VII. Los demás aplicables a la materia.
+Los órganos auxiliares deberán conducir sus actividades en términos de su reglamento de operación y de aquellas disposiciones aplicables de conformidad con la naturaleza de su encargo.
 
 ###### Artículo 22.
 
-Objetivos y principios de la política de igualdad.
+El Consejo Consultivo colaborará con el Instituto de la siguiente manera:
 
-En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta ley.
+I. Emitir su opinión técnica respecto de los asuntos o casos específicos de brechas de desigualdad que someta a su consideración el Instituto.
+
+II. Asesorar al Instituto en la formulación, aplicación y vigilancia de las estrategias de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
+
+III. Recomendar estrategias específicas para mejorar los programas y acciones para la igualdad de género, a fin de contribuir a que éstos respondan a necesidades sociales en favor de la igualdad de género y se encuentren apegadas a derecho.
+
+IV. Integrar y presentar anualmente ante la Junta de Gobierno, un informe destacando los logros alcanzados.
 
 ###### Artículo 23.
 
-Ejecución del sistema estatal y del programa estatal.
+El Consejo Social colaborará con el Instituto en los casos siguientes:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Promover la participación de la sociedad civil en las estrategias, acciones o programas implementados en el marco de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
 
-La coordinación e integración del sistema estatal y la aplicación del programa estatal, estarán a cargo del Instituto Coahuilense de las Mujeres.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-## Título IV. De los objetivos y acciones de la política estatal de igualdad entre mujeres y hombres
+II. Recibir propuestas y recomendaciones específicas de la sociedad sobre la operación y funcionamiento de los programas en favor de la igualdad sustantiva, derechos humanos de las mujeres, las adolescentes y las niñas, así como proyectos que contribuyan al mejoramiento de aquellos, para, en caso de estimarlo oportuno, presentarlos al Instituto;
 
-### Capítulo quinto. De los municipios
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+III. Recoger y evaluar las opiniones de las organizaciones de la sociedad civil cuyo objeto sea el fomento de la igualdad sustantiva, respecto del impacto de las estrategias implementadas en la Política Nacional en Materia de Igualdad entre Mujeres y Hombres y los programas relacionados con la igualdad de género ejecutados por el Instituto, para, en caso de estimarlo oportuno, presentarlas al Instituto;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IV. Proponer, a través de la Secretaría Técnica, los mecanismos que propicien el fortalecimiento y actualización de los sistemas de información desagregados al menos, por género y rangos etarios, y
+
+V. Integrar y presentar anualmente a la Junta de Gobierno, un informe destacando los logros alcanzados.
+
+## TÍTULO CUARTO
+
+### CAPÍTULO I DE LA PRESIDENCIA DEL INSTITUTO
 
 ###### Artículo 24.
 
-Coordinación del sistema estatal.
+Corresponde a la Presidencia la representación, conducción técnica y administrativa, así como la supervisión y coordinación de las unidades administrativas del Instituto, conforme a las facultades otorgadas en la ley, en este ordenamiento y en las demás disposiciones aplicables, las cuales podrá delegar en los términos de dicha normatividad.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+La Presidencia ejercerá las siguientes atribuciones:
 
-El Instituto Coahuilense de las Mujeres, tendrá a su cargo la coordinación del Sistema Estatal para la Igualdad entre Mujeres y Hombres así como determinar los lineamientos para establecer políticas públicas en materia de igualdad y las demás que sean necesarias para cumplir con los objetivos de la presente ley.
+I. Impulsar la formulación de políticas públicas en la Administración Pública Federal para alcanzar la igualdad sustantiva entre mujeres y hombres, así como el ejercicio pleno de los derechos humanos de las mujeres, adolescentes y niñas.
 
-### Capítulo sexto. De la Comisión de Derechos Humanos del Estado de Coahuila
+II. Convocar, presidir y presentar a la Junta de Gobierno lo que mandata el marco normativo y las disposiciones administrativas, con apoyo de la Secretaría Técnica de la Junta de Gobierno.
+
+III. Proponer estrategias para incorporar la perspectiva de género en los procesos de planeación, programación, presupuestación y seguimiento de las políticas públicas de la Administración Pública Federal, a fin de alcanzar la igualdad sustantiva entre mujeres y hombres.
+
+IV. Proponer la estrategia transversal de género en el marco del Plan Nacional de Desarrollo y promover, conjuntamente con las dependencias y entidades de la Administración Pública Federal, el Programa Nacional para la Igualdad entre Mujeres y Hombres.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+V. Suscribir acuerdos y convenios de colaboración, concertación, cooperación y coordinación con organismos gubernamentales, no gubernamentales, nacionales, regionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres, las adolescentes y las niñas en materia de igualdad sustantiva y derecho a una vida libre de violencia;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VI. Fortalecer vínculos permanentes con los órganos depositarios de los poderes legislativo y judicial en los ámbitos federal y de las entidades federativas, para promover la igualdad sustantiva y los derechos humanos de las mujeres, adolescentes y niñas, así como realizar actos que deriven de los mismos;
+
+VII. Impulsar la generación de información relevante con enfoque de género en las instituciones, órdenes de gobierno y organismos autónomos, para la agenda de género nacional.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+VIII. Promover que el Estado mexicano garantice los derechos humanos de las mujeres, las adolescentes y las niñas reconocidos en el marco jurídico nacional y en los instrumentos internacionales suscritos por México;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IX. Promover el reconocimiento y ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, así como su visibilización en la esfera pública, privada y social para lograr la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+X. Promover, difundir y publicar obras relacionadas con el quehacer institucional, que contribuyan al conocimiento de los derechos humanos de las mujeres, las adolescentes y las niñas y la igualdad sustantiva;
+
+XI. Instrumentar la difusión y la promoción del cumplimiento de los tratados internacionales en materia de derechos humanos de las mujeres y las niñas, suscritos por el Estado mexicano.
+
+XII. Representar legalmente al Instituto, administrar y celebrar todo tipo de actos e instrumentos inherentes al objeto y funcionamiento del mismo.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIII. Otorgar, revocar o modificar poderes generales o especiales a las personas servidoras públicas del Instituto;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIV. Representar al Gobierno Federal ante los gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales en materia igualdad sustantiva y derechos humanos de las mujeres, las adolescentes y las niñas, en el ámbito de sus funciones y competencias;
+
+XV. Coordinar, con el apoyo de la Secretaria Ejecutiva, las acciones que se deriven de la Ley General para la Igualdad entre Mujeres y Hombres, así como expedir las reglas para la organización y funcionamiento del Sistema Nacional para la Igualdad entre Mujeres y Hombres y, en su caso, las medidas de vinculación con otros sistemas de carácter nacional o local.
+
+XVI. Proponer a la Junta de Gobierno del Instituto las medidas y estrategias para el cumplimiento de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XVII. Aprobar las estrategias de capacitación y formación de las y los servidores públicos en materia de igualdad y derechos humanos de las mujeres, las adolescentes y las niñas;
+
+XVIII. Fungir como Secretaria Ejecutiva del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XIX. Difundir la cultura de respeto a los derechos humanos de las mujeres, adolescentes y niñas, así como promover que las instancias de procuración de justicia garanticen el acceso a la justicia de las mujeres, las adolescentes y las niñas;
+
+XX. Conducir las acciones de coordinación y funcionamiento del Sistema Nacional para la Igualdad entre Mujeres y Hombres, a fin de promover, encauzar y dar seguimiento a la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
+
+XXI. Promover la incorporación de la perspectiva de género en todas las políticas públicas federales, estatales y municipales de los tres poderes de la unión, incluyendo a los organismos autónomos del Estado mexicano.
+
+XXII. Establecer vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en las entidades federativas para promover y apoyar, en su caso, las políticas, programas y acciones en materia de igualdad de género.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XXIII. Participar y organizar reuniones y eventos para el intercambio de experiencias e información tanto de carácter nacional como internacional en materia de igualdad sustantiva, no violencia, no discriminación y protección de los derechos humanos de las mujeres, las adolescentes y las niñas y otros temas afines, conforme a la legislación vigente;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XXIV. Promover y fomentar la cultura de la no violencia y no discriminación contra las mujeres, las adolescentes y las niñas, así como la igualdad entre mujeres y hombres, para el ejercicio pleno de los derechos de las mujeres y las niñas y su participación igualitaria en la vida política, cultural, económica y social del país y el fortalecimiento de la democracia;
+
+XXV. Proponer a la Junta de Gobierno el nombramiento o remoción de la Secretaria Ejecutiva, así como de los dos primeros niveles del funcionariado del Instituto, la fijación de sueldos y demás prestaciones, conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano y nombrar al resto del personal administrativo del Instituto.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XXVI. Autorizar el otorgamiento de aportaciones del Instituto a organismos internacionales y regionales, que tengan por objeto promover los derechos humanos de las mujeres, adolescentes y niñas y apoyar la igualdad sustantiva;
+
+XXVII. Designar a la persona que funja como suplente dentro de las Comisiones, Grupos, Comités, y Órganos colegiados y no colegiados, en los cuales participa el Instituto, en el marco de la normatividad aplicable.
+
+XXVIII. Promover el cumplimiento de las obligaciones estipuladas al Instituto en otros ordenamientos legales.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+XXIX. Autorizar las comisiones nacionales e internacionales de las y los titulares de las unidades administrativas del Instituto, así como las internacionales del personal adscrito a dichas unidades, atendiendo los procedimientos establecidos para dicho fin, y
+
+XXX. Emitir políticas específicas y actos para el debido funcionamiento del Instituto.
+
+### CAPÍTULO II DE LA SECRETARÍA EJECUTIVA
 
 ###### Artículo 25.
 
-Observancia en materia de igualdad.
+La persona Titular de la Secretaría Ejecutiva tendrá las siguientes atribuciones:
 
-La observancia en materia de igualdad tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
+I. Coordinar e integrar la elaboración del Programa Anual de Trabajo con las áreas sustantivas, someterlo a la autorización de la Presidencia del Instituto, y darle seguimiento a su ejecución.
 
-### Capítulo primero. De la política estatal en materia de igualdad
+II. Proponer, a la Presidencia del Instituto, en coordinación con las áreas sustantivas, los proyectos de políticas públicas que fomenten en las instituciones públicas, en los poderes de la unión y de los tres órdenes de gobierno, la igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+III. Coordinar las acciones al interior del Instituto y en colaboración con las dependencias y entidades de la Administración Pública Federal para la elaboración del Programa Nacional para la Igualdad entre Mujeres y Hombres, y supervisar su seguimiento.
+
+IV. Coordinar la participación del Instituto para la incorporación de la perspectiva de género en las políticas públicas y en la elaboración de programas sectoriales, especiales, institucionales o específicos, en la Administración Pública Federal.
+
+V. Coordinar la elaboración de estrategias, criterios y lineamientos para promover la inclusión de la perspectiva de género e institucionalización en los procesos de planeación, programación, presupuestación, seguimiento y evaluación de las políticas públicas de la Administración Pública Federal.
+
+VI. Contribuir al establecimiento de vínculos de colaboración con el H. Congreso de la Unión, con los Congresos Locales y la Asamblea Legislativa de la Ciudad de México, para impulsar acciones que garanticen el acceso igualitario y no discriminatorio al desarrollo, y el respeto de los derechos humanos de las mujeres, adolescentes y niñas.
+
+VII. Contribuir al establecimiento de vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en el ámbito federal, estatal y municipal para promover y apoyar las Políticas en Materia de Igualdad entre Mujeres y Hombres.
+
+VIII. Coordinar el seguimiento y difusión de las obligaciones contraídas con gobiernos o entidades de otros países y con organismos internacionales relacionados con los derechos humanos de las mujeres y las niñas.
+
+IX. Coordinar las acciones que se deriven de la Ley General para la Igualdad entre Mujeres y Hombres, la expedición de las reglas para la organización y funcionamiento del Sistema Nacional para la Igualdad entre Mujeres y Hombres, así como las medidas de vinculación con otros sistemas de carácter nacional o local.
+
+X. Auxiliar a la Presidencia del Instituto en la administración, organización y operación de éste.
+
+XI. Autorizar el inicio de las gestiones para llevar a cabo y suscribir acuerdos de colaboración, convenios de concertación, cooperación y coordinación con organismos gubernamentales, no gubernamentales, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres en materia de igualdad y violencia.
+
+XII. Conducir, en coordinación con la Unidad de Administración y Finanzas, con la participación de todas las áreas del Instituto, los trabajos para la planeación y definición de los objetivos estratégicos del Instituto, así como su revisión y actualización.
+
+XIII. Colaborar, en coordinación con las áreas sustantivas del Instituto, en la organización de reuniones y eventos para el intercambio de experiencias e información tanto de carácter nacional como internacional en materia de igualdad, violencia, no discriminación, protección de los derechos humanos de las mujeres y demás temas conforme a la normatividad vigente.
+
+XIV. Coordinar con las áreas sustantivas del Instituto, la programación e integración de los proyectos e informes que deberán presentarse a la Junta de Gobierno y a otras instancias competentes, incluyendo los informes internacionales en cumplimiento de las obligaciones que ha suscrito el Estado mexicano en materia de igualdad y derechos humanos de las mujeres y niñas, que sean responsabilidad del Instituto.
+
+XV. Coordinar las estrategias para la incorporación de la perspectiva de género en la evaluación de los programas de las dependencias y entidades de la Administración Pública Federal.
+
+XVI. Determinar las estrategias del Instituto relacionadas con la capacitación y formación de las personas servidoras públicas de la Administración Pública Federal en materia de derechos humanos de las mujeres, adolescentes y niñas, así como de igualdad entre mujeres y hombres.
+
+XVII. Impulsar la generación de estadísticas con enfoque de género en el Sistema Nacional de Información Estadística y Geográfica y en los poderes Ejecutivo, Legislativo y Judicial, de los tres órdenes de gobierno y organismos autónomos relacionados con la agenda de género nacional e internacional.
+
+XVIII. Coordinar la ejecución y el desarrollo de los programas y proyectos del Instituto que permitan impulsar la Política Nacional en Materia de Igualdad entre Mujeres y Hombres en las entidades federativas y los municipios.
+
+XIX. Promover las estrategias, contenidos y mecanismos de capacitación y formación del personal del servicio público para integrar la perspectiva de género en el ejercicio de sus funciones y dentro del marco de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
+
+XX. Proponer los lineamientos para certificar las capacidades y competencias del personal del servicio público que coadyuven a la consolidación de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
+
+XXI. Coordinar al interior del Instituto, la ejecución de acciones acordadas tanto en el Sistema Nacional para la Igualdad entre Mujeres y Hombres como en el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+XXII. Coordinar la ejecución y el desarrollo de los programas y proyectos del Instituto que permitan impulsar la Política Nacional en Materia de Igualdad entre Mujeres y Hombres en las entidades federativas y los municipios.
+
+XXIII. Contribuir al fortalecimiento de los mecanismos instituidos en el ámbito federal, estatal y municipal para el adelanto de las mujeres.
+
+XXIV. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo y las que estén bajo su adscripción.
+
+XXV. Las demás que le confieran las disposiciones jurídicas en la materia.
+
+### CAPÍTULO III DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES Y COORDINACIONES
 
 ###### Artículo 26.
 
-El sistema estatal.
+Las personas titulares de las Direcciones Generales y Coordinaciones del Instituto, tendrán las siguientes atribuciones:
 
-El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las entidades públicas de la administración estatal entre sí, con la federación, los municipios, las organizaciones de la sociedad civil organizada, instituciones académicas y de investigación, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-### Capítulo primero bis. Del acompañamiento sustantivo
+I. Coordinar la elaboración del anteproyecto de presupuesto de la unidad administrativa a la que se encuentra adscrita y de las unidades bajo su adscripción, asegurando su alineación al Plan Nacional de Desarrollo, los programas que deriven de este, los tratados internacionales suscritos por México y a las demás disposiciones jurídicas aplicables, en el marco de sus atribuciones;
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-###### Artículo 20 Bis.
+II. Coordinar, con las otras unidades administrativas del Instituto, las acciones necesarias para el cumplimiento de sus atribuciones y el logro de sus objetivos, así como el impulso de políticas públicas y acciones con enfoque interseccional dirigidas a las mujeres, las adolescentes y las niñas en su diversidad, también en el ámbito de sus respectivas atribuciones;
 
-Acompañamiento sustantivo
+III. Dirigir las acciones para integrar los datos de los informes institucionales, nacionales e internacionales, en el ámbito de su competencia, a fin de contribuir a la rendición de cuentas y al cumplimiento de sus obligaciones.
 
-El acompañamiento sustantivo en materia de igualdad es el que se efectúa para:
+IV. Dirigir las acciones para participar en la revisión y definición de las líneas de acción de los sectores a su cargo respecto de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres, con la finalidad de actualizarla.
 
-I. Cambiar prácticas discriminatorias o tratos diferenciados;
+V. Aplicar las medidas de austeridad, racionalidad, disciplina y control del ejercicio presupuestario, de acuerdo con las políticas señaladas al respecto en el Decreto del Presupuesto de Egresos de la Federación y demás disposiciones aplicables.
 
-II. Atender las resoluciones que recaigan a las quejas presentadas contra la administración pública estatal; y
+VI. Asegurar que el ejercicio del gasto de su unidad administrativa y de las unidades bajo su adscripción se lleve a cabo de conformidad con el presupuesto, la normatividad y el calendario autorizado.
 
-III. Atender las recomendaciones que efectúa la comisión por quejas de prácticas de desigualdad y discriminación de organizaciones privadas o de particulares.
+VII. Participar en las acciones de mejora de la gestión que se implementen en el Instituto, conforme a los lineamientos que se emitan para tal fin.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-###### Artículo 20 Ter.
+VIII. Proponer a la Secretaría Ejecutiva la suscripción de los contratos, convenios y demás instrumentos jurídicos que sean de su competencia; someterlos a revisión jurídica de la Coordinación de Asuntos Jurídicos, y, en caso de resultar procedentes, llevar a cabo su formalización y posterior seguimiento, de conformidad con los lineamientos emitidos para tal fin;
 
-Cuando procede el acompañamiento
+IX. Participar en las comisiones, grupos, comités, órganos colegiados y no colegiados, internos o externos, en que sea parte o se le designe.
 
-Procede el acompañamiento sustantivo:
+X. Colaborar activamente en las actividades que se incluyan en el Programa Interno de Protección Civil del Instituto y designar dentro de su personal quiénes participarán en aquellas acciones que se establezcan en caso de contingencia.
 
-I. Cuando exista una queja;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-II. Sea resultado del seguimiento, y evaluación institucional, de la administración pública estatal
+XI. Asegurar que las solicitudes de información de su competencia, en materia de transparencia y acceso a la información pública, se atiendan con oportunidad y apego a los ordenamientos aplicables;
 
-III. A solicitud de los municipios del Estado;
+XII. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo y las que estén bajo su adscripción.
 
-IV. Sea resultado del procedimiento que determine el procedimiento de acompañamiento sustantivo; y
+XIII. Rendir en tiempo y forma los requerimientos internos y externos que le soliciten los órganos fiscalizadores, así como los auditores externos.
 
-V. Por determinación del Sistema Estatal.
+XIV. Presentar a la Secretaría Técnica de la Junta de Gobierno, los asuntos de los que deba conocer el órgano colegiado.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+XV. Las demás que, en el ámbito de sus atribuciones, se deriven de las disposiciones aplicables o les sean conferidas o delegadas por su superior jerárquico.
 
-###### Artículo 20 Quater.
-
-Acompañamiento del Instituto Coahuilense de las Mujeres.
-
-Con motivo del acompañamiento sustantivo, el Instituto Coahuilense de las Mujeres, en términos de la Ley y su reglamento deberá:
-
-I. Solicitar al infractor su plan correctivo;
-
-II. Cuando encuentre presuntas prácticas desiguales en las áreas de la Administración Pública, podrá dar vista para su conocimiento a la Comisión de Derechos Humanos del Estado. Y;
-
-III. Realizar el monitoreo para la observancia y seguimiento a favor de la parte quejosa.
+### CAPÍTULO IV DE LA DIRECCIÓN GENERAL DE LA POLÍTICA NACIONAL DE IGUALDAD Y DERECHOS DE LAS MUJERES
 
 ###### Artículo 27.
 
-Coordinación con el sistema nacional.
+La persona Titular de la Dirección General de la Política Nacional de Igualdad y Derechos de las Mujeres, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Establecer, en el marco del Sistema Nacional para la Igualdad entre Mujeres y Hombres, la vinculación interinstitucional entre los tres poderes y órdenes de gobierno, promoviendo herramientas de política pública, acciones afirmativas y específicas que contribuyan a erradicar la discriminación y al logro de la igualdad sustantiva.
 
-El Ejecutivo del Estado a través del Instituto Coahuilense de las Mujeres se coordinará con la federación para la integración y funcionamiento del sistema nacional.
+II. Coordinar el funcionamiento del Sistema Nacional para la Igualdad entre Mujeres y Hombres.
 
-### Capítulo segundo. De los instrumentos de la política en materia de igualdad entre mujeres y hombres
+III. Promover el cumplimiento de los objetivos y principios de la Ley General para la Igualdad entre Mujeres y Hombres en el diseño, elaboración, aplicación, evaluación y seguimiento de las políticas públicas.
+
+IV. Contribuir al fortalecimiento de los mecanismos instituidos en el ámbito federal y estatal para el adelanto de las mujeres.
+
+V. Promover la revisión de programas y acciones de la Administración Pública Federal en materia de igualdad entre mujeres y hombres, y proponer su adecuación para que incorporen la perspectiva de género, en cumplimiento de los objetivos de la Política Nacional en Materia de Igualdad entre Mujeres y Hombres.
+
+VI. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y hombres en todos los ámbitos.
+
+VII. Establecer estrategias para promover el conocimiento y aplicación de la legislación existente en el ámbito del desarrollo social, en relación con los derechos humanos de las mujeres, adolescentes y niñas.
+
+VIII. Desarrollar estrategias de coordinación interinstitucional para la programación, planeación y presupuestación e implementación de las políticas públicas en el marco de los derechos económicos de las mujeres.
+
+IX. Proponer, en el marco del Sistema Nacional para la Igualdad entre Mujeres y Hombres, estrategias y mecanismos para la incorporación de la perspectiva de género en los presupuestos públicos para la protección de los derechos económicos, sociales, políticos y culturales de las mujeres, bajo los criterios de transversalidad, federalismo y fortalecimiento de los vínculos entre los tres poderes del Estado, en los términos de la normatividad aplicable.
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+X. Promover en el ámbito público y privado el establecimiento de medidas que contribuyan a la corresponsabilidad entre la vida laboral, personal y familiar de mujeres y hombres, en el marco del Sistema Nacional de Cuidados.
+
+XI. Contribuir al establecimiento de vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en el ámbito federal, estatal y municipal para promover y apoyar las políticas en materia de igualdad entre mujeres y hombres.
+
+XII. Coordinar la ejecución y desarrollo de los programas y proyectos del Instituto que permitan impulsar la Política Nacional en Materia de Igualdad entre Mujeres y Hombres en las entidades federativas y los municipios.
+
+XIII. Participar en reuniones y eventos para el intercambio de experiencias e información, tanto de carácter nacional como internacional, en materia de igualdad, no violencia, no discriminación y protección de los derechos humanos de las mujeres y de las niñas, y demás temas conforme a la legislación vigente.
+
+XIV. Las demás que le confieran las disposiciones jurídicas en la materia.
+
+### CAPÍTULO V DIRECCIÓN GENERAL PARA LA PROMOCIÓN DE UNA VIDA LIBRE DE VIOLENCIA E IMPULSO A LA PARTICIPACIÓN POLÍTICA
 
 ###### Artículo 28.
 
-Coordinación de acciones del sistema estatal.
+La persona Titular de la Dirección General para la Promoción de una Vida Libre de Violencia e Impulso a la Participación Política, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Promover la participación de las organizaciones de la sociedad civil para alcanzar la igualdad sustantiva entre mujeres y hombres, así como eliminar la violencia contra las mujeres.
 
-El Instituto Coahuilense de las Mujeres coordinará las acciones que el sistema estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su reglamento interior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con los de otros estados o al sistema nacional.
+II. Auxiliar a la Presidencia en su función de Secretaria Ejecutiva del Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+III. Diseñar acciones afirmativas para la contención de la violencia feminicida en el marco del Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
-### Capítulo tercero. Del Sistema Estatal para la Igualdad entre Mujeres y Hombres
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
+
+IV. Implementar y dar seguimiento a la ejecución del Fondo para el Bienestar y el Avance de las Mujeres;
+
+V. Promover la creación de unidades de atención y protección a las víctimas de violencia prevista en la legislación correspondiente, así como canalizar a las víctimas a las unidades referidas.
+
+VI. Realizar, ejecutar y difundir investigaciones relacionadas con la violencia de género sufrida en el país a nivel nacional y local.
+
+VII. Promover la participación y representación política de las Mujeres.
+
+VIII. Coordinar las acciones necesarias para el cumplimiento de las facultades y atribuciones conferidas al Instituto en materia de alertas de violencia de género contra las mujeres.
+
+IX. Participar en el cumplimiento del Programa de Atención Integral a Víctimas de Violencia en el marco del Sistema Nacional de Atención a Víctimas, y coadyuvar con la articulación de acciones afirmativas en materia de procuración de justicia.
+
+X. Participar en el cumplimiento del Programa Nacional de Prevención Social de la Violencia y coadyuvar con acciones afirmativas en materia de seguridad.
+
+XI. Establecer vínculos permanentes con las autoridades responsables de la procuración, administración de justicia y de la seguridad pública de la Federación y entidades federativas, para fortalecer las acciones de prevención y atención de la violencia contra las mujeres.
+
+XII. Coordinar el diseño del modelo de atención a mujeres víctimas de violencia brindada en refugios junto con las demás integrantes del Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
+
+XIII. Participar en la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los delitos en materia de trata de personas y para la protección y asistencia a las víctimas de estos delitos.
+
+XIV. Promover la instalación y funcionamiento efectivo de las fiscalías y unidades especializadas en materia de atención a la violencia contra las mujeres.
+
+XV. Promover acciones para mejorar la condición social y eliminación de todas las formas de violencia y discriminación de las mujeres y las niñas.
+
+XVI. Las demás que le confieran las disposiciones jurídicas en la materia.
+
+### CAPÍTULO VI DIRECCIÓN GENERAL DE PLANEACIÓN Y EVALUACIÓN
 
 ###### Artículo 29.
 
-Atribuciones del Instituto Coahuilense de las Mujeres en el sistema estatal.
+La persona Titular de la Dirección General de Planeación y Evaluación, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Desarrollar estrategias, criterios y lineamientos para promover la igualdad sustantiva entre mujeres y hombres en los procesos de planeación, programación, presupuestación, seguimiento y evaluación, en la Administración Pública Federal.
 
-Al Instituto Coahuilense de las Mujeres dentro del sistema estatal le corresponde:
+II. Organizar la elaboración de diagnósticos e integrar información estadística para conocer la situación de las mujeres respecto al ejercicio de sus derechos y las brechas de desigualdad de género.
 
-I. Establecer lineamientos en materia de acciones positivas para la igualdad entre mujeres y hombres, con la finalidad de erradicar la violencia y la discriminación por razón del sexo;
+III. Promover la generación de estadísticas con perspectiva de género en el Sistema Nacional de Información Estadística y Geográfica y en las instituciones de los poderes Ejecutivo, Legislativo y Judicial y de los tres niveles de gobierno y organismos autónomos relacionadas con la agenda de género nacional e internacional.
 
-II. Velar por el progreso legislativo en materia de igualdad entre mujeres y hombres, a fin de armonizar la legislación local con los estándares internacionales en la materia;
+IV. Coordinar acciones y mecanismos para la integración de los informes institucionales y someterlos a aprobación de la Secretaria Ejecutiva.
 
-III. Evaluar las políticas públicas, los programas y servicios en materia de igualdad, así como el programa estatal;
+V. Participar en la definición de las estadísticas necesarias para atender los temas emergentes desde la agenda de género nacional e internacional y proponer alternativas para que se genere e integre la información estadística necesaria.
 
-IV. Determinar la periodicidad y características de la información que deberán proporcionarle las entidades públicas del estado, a efecto de generar las condiciones necesarias para evaluar la progresividad en el cumplimiento de la ley;
+VI. Diseñar estrategias, criterios y lineamientos para la incorporación de la perspectiva de género en los procesos de monitoreo y evaluación de los programas de las dependencias y entidades de la Administración Pública Federal.
 
-V. Elaborar y proponer la implementación de un mecanismo de vigilancia para el cumplimento de la presente ley;
+VII. Coordinar, definir, dar seguimiento y recomendaciones a las Matrices de Indicadores para Resultados (MIR) de los programas del Instituto, en conjunto con las unidades administrativas del Instituto.
 
-VI. Incluir en el debate público la participación de la sociedad civil organizada en la promoción de la igualdad entre mujeres y hombres;
+VIII. Coordinar los procesos de evaluación interna y externa a los programas del Instituto y dar seguimiento a los aspectos susceptibles de mejora que de ellas se desprendan.
 
-VII. Establecer acciones de coordinación entre las entidades públicas del estado, para formar y capacitar, en materia de igualdad entre mujeres y hombres, a los servidores públicos que laboran en ellos;
+IX. Promover con instituciones públicas, académicas y de investigación nacionales e internacionales la realización de estudios e investigaciones para el seguimiento y evaluación de políticas, programas y acciones para alcanzar la igualdad sustantiva.
 
-VIII. Elaborar y recomendar estándares que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de las distintas entidades públicas, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
+X. Promover el cumplimiento de las obligaciones establecidas en materia de igualdad en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y en el Decreto del Presupuesto de Egresos de la Federación y dar seguimiento a las erogaciones para la igualdad entre mujeres y hombres.
 
-IX. Concertar, con los medios de comunicación pública y privada, la adopción de medidas de autorregulación, a efecto de contribuir al cumplimiento de la presente ley, mediante la adopción progresiva de la transmisión de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
+XI. Coordinar la creación y el fortalecimiento de los sistemas de información estadística que integren los indicadores y la información necesaria para dar seguimiento a los compromisos nacionales e internacionales en el tema de igualdad de género.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+XII. Proponer acciones e iniciativas que apoyen la identificación de nuevos conocimientos y experiencias, nacionales e internacionales, sobre la implementación de presupuestos públicos con perspectiva de género, para fortalecer las capacidades institucionales en los ámbitos federal y estatal.
 
-X. Otorgar un reconocimiento a las empresas que se distingan por su alto compromiso con la igualdad entre mujeres y hombres;
+XIII. Proponer estrategias para el empoderamiento de las mujeres en temas específicos, de acuerdo con los análisis de género de los presupuestos y los estudios realizados.
 
-De acuerdo a los siguientes lineamientos:
+XIV. Las demás que le confieran las disposiciones jurídicas en la materia.
 
-a) Dicho compromiso deberá ser acreditado por las empresas interesadas, que certificarán los avances en lo concerniente a la igualdad entre mujeres y hombres en: las relaciones laborales, políticas de comunicación, fomento de la igualdad sustantiva, propaganda no sexista, políticas de empleo, como: el reclutamiento e ingreso de personal, retribución, capacitación, promoción y distribución equilibrada entre mujeres y hombres en todas las plazas, prioritariamente en las de toma de decisiones.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-b) El Instituto Coahuilense de las Mujeres será el encargado de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de los reconocimientos;
-
-XI. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XII. Establecer medidas para la erradicación del acoso sexual;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2020)</small>
-
-XIII. Favorecer la institucionalización de las buenas prácticas de igualdad en la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XIV. Contribuir al adelanto y empoderamiento económico y social de las mujeres;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XV. Contar con un sistema de información para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado para lo que podrá:
-
-a) Solicitar y recibir información sobre medidas y actividades que pongan en marcha los sectores público y privado en materia de igualdad entre mujeres y hombres;
-
-b) Evaluar el impacto en la sociedad de las políticas y medidas que afecten a los hombres y a las mujeres en materia de igualdad;
-
-c) Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
-
-d) Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XIII], P.O. 10 DE JULIO DE 2020)</small>
-
-XVI. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal y las que determinen las disposiciones aplicables.
-
-### Capítulo cuarto. Del Programa Estatal para la Igualdad entre Mujeres y Hombres
+### CAPÍTULO VII DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
 ###### Artículo 30.
 
-Integración del sistema estatal.
+La persona Titular de la Unidad de Administración y Finanzas, tendrá las siguientes atribuciones:
 
-El Sistema Estatal para la Igualdad entre la Mujer y el Hombre, estará integrado por:
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-I. Titular del Ejecutivo del Estado, quien lo presidirá a través de la Secretaría de Gobierno;
+I. Programar, organizar, dirigir y dar seguimiento a las acciones en materia administrativa, de recursos humanos, financieros, materiales, servicios generales, de tecnologías de la información y comunicaciones, conforme a las disposiciones normativas aplicables en la materia.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+II. Ejercer la representación legal del Instituto en términos de las leyes aplicables y administrar los bienes muebles e inmuebles del Instituto.
 
-II. Titular del Instituto Coahuilense de las Mujeres, quien ocupará la secretaría ejecutiva del sistema estatal
+III. Participar conjuntamente con la Secretaría Ejecutiva, en la coordinación de acciones con las Unidades Administrativas del Instituto para la elaboración e integración de su Programa Anual de Trabajo, de conformidad con las disposiciones aplicables y en congruencia con el presupuesto anual autorizado.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+IV. Coordinar el proceso anual de programación, presupuestación, contabilidad y operación financiera, así como el control y seguimiento del ejercicio del gasto y el registro contable de las unidades administrativas del Instituto, conforme a las disposiciones normativas aplicables.
 
-III. Titular de la Secretaría de Inclusión y Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+V. Someter a consideración de la Presidencia el anteproyecto de presupuesto anual del Instituto, su calendario y la parte que le corresponde de la Cuenta de la Hacienda Pública Federal, de conformidad con las disposiciones aplicables;
 
-IV. Titular de la Fiscalía General del Estado;
+VI. Establecer e implementar políticas, reglas, lineamientos, procedimientos y programas para la adquisición, arrendamiento, enajenación y contratación de bienes y servicios, así como para la gestión de recursos humanos, materiales, financieros, de tecnologías de la información y comunicaciones, y de servicios generales.
 
-V. Titular de la Secretaría de Educación;
+VII. Dirigir los procesos de contratación para la adquisición y suministro de bienes y servicios que requieran las unidades administrativas para el desarrollo de sus actividades, autorizando y revocando a los servidores públicos que puedan realizar dichos procesos; así como vigilar el cumplimiento de las garantías otorgadas por los proveedores.
 
-VI. Titular de la a Secretaría de Salud;
+VIII. Instrumentar, coordinar y supervisar los mecanismos necesarios para el establecimiento y operación de los procesos de ingreso, movilidad, desarrollo, evaluación del desempeño, licencias y en su caso, estímulos, recompensas, reconocimientos y demás prestaciones laborales del personal, así como dar trámite al término de la relación laboral de conformidad con la legislación que resulte aplicable.
 
-VII. Presidente de la Comisión de Derechos Humanos del Estado de Coahuila;
+IX. Diseñar y promover políticas orientadas al desarrollo organizacional y mejoramiento del clima laboral del Instituto, en coordinación con las Unidades Administrativas.
 
-VIII. Dos representantes de la sociedad civil;
+X. Promover y establecer prácticas administrativas que contribuyan a la optimización de los procesos y prestar servicios de calidad a las unidades administrativas en materia de planeación, presupuestación y administración de recursos humanos, materiales y financieros del Instituto.
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+XI. Analizar, proponer y someter a consideración de la persona Titular de la Presidencia la creación, modificación, fusión o cancelación de las unidades administrativas de la estructura orgánica.
 
-IX. Dos representantes del sector empresarial;
+XII. Suscribir, modificar y/o rescindir, con apoyo de la Coordinación de Asuntos Jurídicos, los instrumentos jurídicos en el ámbito de su competencia, que determinen obligaciones al Instituto o afecten su presupuesto.
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-X. Dos representantes de los medios de comunicación;
+XIII. Presidir los comités de adquisiciones, arrendamientos y servicios, mejora regulatoria interna, comité de ética y los demás órganos colegiados cuyo objeto estén en el ámbito de su competencia, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+XIV. Coordinar la implementación del Programa Interno de Protección Civil para el personal, instalaciones, bienes e información del Instituto, así como emitir el protocolo necesario para su operación, desarrollo y vigilancia.
 
-XI. Titular de la Secretaría de Finanzas;
+XV. Coordinar con las unidades administrativas, la planeación y operación de los servicios de tecnologías de información y comunicación, conforme a la normatividad aplicable.
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+XVI. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2023)
 
-XII. Titular de la Secretaría de Economía;
+XVII. Las demás que le confieran las disposiciones jurídicas en la materia.
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XIII. Titular de la Secretaría de Desarrollo Rural;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XIV. Titular de la Secretaría de Medio Ambiente;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XV. Titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XVI. Titular de la Secretaría de Fiscalización y Rendición de Cuentas;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XVII. Titular de la Secretaría de Cultura;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XVIII. Titular de la Secretaría del Trabajo;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XIX. Titular de la Secretaría de Vivienda y Ordenamiento Territorial; y
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XX. Titular de la Secretaría de Turismo y Desarrollo de Pueblos Mágicos.
-
-### Capítulo primero. De las acciones de la política estatal
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
-
-###### Artículo 38.
-
-Política estatal de igualdad.
-
-La política estatal deberá desarrollar acciones y establecer objetivos cuyo fin sea garantizar la igualdad sustantiva entre mujeres y hombres en los ámbitos económico, político, social, culturar (sic) y familiar.
-
-La Política Estatal que desarrolle el Ejecutivo del Estado deberá observar los siguientes lineamientos:
-
-I.- Hacer efectivos el derecho constitucional y el plasmado en los tratados internacionales en materia de igualdad;
-
-II.- Establecer mecanismos para lograr en forma progresiva el cumplimiento de los objetivos del presente ordenamiento;
-
-III.- Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
-
-IV.- Instaurar la transversalidad en la ejecución de las políticas públicas en materia de igualdad;
-
-V.- Implementar los sistemas necesarios para garantizar el acceso al servicio público de mujeres y hombres en igualdad de circunstancias, posibilidades de desarrollo y acenso (sic), y con percepciones iguales en los cargos del mismo nivel.
-
-VI.- Observar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social;
-
-VII.- En coordinación con los poderes judicial y legislativo y, escuchando la opinión de los sindicatos del ramo, establecer los mecanismos necesarios para garantizar los mismos derechos establecidos en la fracción V para los trabajadores de la educación, y para los trabajadores al servicio de los poderes y dependencias de la entidad en los términos de los estatutos y leyes orgánicas correspondientes.
-
-VIII.- Adoptar las medidas necesarias para buscar la erradicación de la violencia de género, la violencia familiar y todas las formas de acoso sexual y hostigamiento en la entidad.
-
-IX.- Establecer mecanismos para garantizar la participación de las organizaciones de la sociedad civil en la promoción y vigilancia de la presente Ley;
-
-X.- Promover por medio de la Secretaría de Ecuación (sic) del Estado la enseñanza de los valores y principios de la igualdad de género desde el nivel de prescolar hasta el profesional, y;
-
-XI.- Observar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, convenios y acciones para la igualdad entre mujeres y hombres.
-
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2016)</small>
-
-###### Artículo 38 Bis.
-
-Los entes públicos están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, de acuerdo a lo establecido en el artículo cuarto constitucional. Para lo cual, deberán garantizar:
-
-I. El derecho a una vida libre de discriminación por razón de sexo. También se considerará discriminación por razón de sexo, cualquier represalia realizada por un servidor público derivado de la presentación de un recurso tendiente a salvaguardar el derecho a una vida libre de discriminación por razón de sexo; así como cualquier conducta u omisión destinada a impedir el debido proceso del recurso.
-
-II. La convivencia armónica y equilibrada en los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos.
-
-III. El derecho a la información necesaria para hacer efectiva la igualdad sustantiva, para lo cual los entes públicos pondrán a disposición de los individuos la información sobre políticas, instrumentos y normas relativas a la igualdad sustantiva entre mujeres y hombres.
-
-IV. El derecho a una vida libre de estereotipos de género.
-
-V. El derecho a una vida libre de violencia de género.
+### CAPÍTULO VIII DE LA COORDINACIÓN DE ASUNTOS INTERNACIONALES
 
 ###### Artículo 31.
 
-Objetivos del sistema estatal.
+La persona Titular de la Coordinación de Asuntos Internacionales, tendrá las siguientes atribuciones:
 
-El sistema estatal tiene los siguientes objetivos:
+I. Representar al Instituto, por instrucción de la Presidencia, en el cumplimiento de la agenda internacional que en materia de derechos humanos de las mujeres y niñas establezca el Gobierno de México, para impulsar la adopción de políticas públicas a favor de la igualdad entre mujeres y hombres.
 
-I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación;
+II. Promover la difusión y el cumplimiento de los acuerdos internacionales y regionales adoptados por el Estado mexicano, vinculados con la promoción de la igualdad entre mujeres y hombres.
 
-II. Contribuir al adelanto de las mujeres;
+III. Coordinar las acciones necesarias para el seguimiento del cumplimiento de los tratados internacionales suscritos por el Estado mexicano, en relación con los derechos humanos de las mujeres y las niñas.
 
-III. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género; y,
+IV. Coordinar la sustentación de informes del país que competan al Instituto, en virtud de los tratados, convenciones y documentos internacionales firmados por el Estado mexicano en materia de derechos humanos de las mujeres y niñas.
 
-IV. Promover el desarrollo de programas y servicios, que fomenten la igualdad entre mujeres y hombres.
+V. Apoyar a la Presidencia del Instituto para la coordinación con la Secretaría de Relaciones Exteriores, en la firma de instrumentos internacionales en materia de derechos humanos de las mujeres y las niñas, empoderamiento de las mujeres, y temas relacionados con la agenda de género internacional.
 
-### Capítulo segundo
+VI. Promover la celebración y dar seguimiento a los instrumentos interinstitucionales del Instituto con otros países, organismos y mecanismos internacionales y regionales que tengan por objeto el intercambio de experiencias e información sobre derechos humanos de las mujeres y niñas.
 
-De la igualdad entre mujeres y hombres en la vida económica.
+VII. Establecer la vinculación con la Secretaría de Relaciones Exteriores, las instancias encargadas del adelanto de las mujeres de otros países, los organismos y mecanismos internacionales o regionales, las agencias de desarrollo o financiadoras internacionales acreditadas y con otras instituciones gubernamentales, para la generación de programas de cooperación e intercambio de información, así como su posicionamiento en el ámbito internacional.
 
-###### Artículo 39.
+VIII. Las demás que le confieran las disposiciones jurídicas en la materia.
 
-Igualdad en la vida económica.
-
-Los objetivos y acciones de esta ley estarán orientados a garantizar el derecho de participar, a las mujeres y hombres en el desarrollo económico del estado.
-
-###### Artículo 40.
-
-Objetivos de la política de igualdad en la vida económica.
-
-Son objetivos de la política estatal en materia de igualdad en la vida económica:
-
-I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-III. Impulsar liderazgos igualitarios; y
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
-
-IV. Instituir medidas que fortalezcan el acceso de las mujeres al empleo y a la aplicación efectiva del principio de igualdad de trato y de no discriminación respecto de las condiciones de trabajo entre mujeres y hombres, así como el derecho fundamental a la conciliación de la vida laboral, familiar y personal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2020)</small>
-
-###### Artículo 41.
-
-Acciones para la igualdad en la vida económica.
-
-Para los efectos de lo previsto en el artículo anterior, las entidades públicas desarrollarán las siguientes acciones para la igualdad en la vida económica:
-
-I. Detectar y analizar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo; e implementar las acciones para erradicarlos;
-
-II. Implementar los mecanismos necesarios para capacitar a las personas que en razón de su sexo están relegadas, impulsando liderazgos igualitarios;
-
-III. Impulsar acciones que tiendan a erradicar la discriminación en la designación de puestos directivos y toma de decisiones por razón de sexo;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-IV. Apoyar y establecer el perfeccionamiento y la coordinación de los sistemas estadísticos del estado, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia laboral;
-
-V. Establecer la coordinación necesaria para garantizar lo establecido en el presente artículo;
-
-VI. Implementar campañas que fomenten la contratación de mujeres y promuevan la igualdad en el mercado laboral, en los ámbitos público y privado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2016)</small>
-
-VII. Vigilar que el Derecho al ascenso, a la estabilidad en el empleo y a todas las prestaciones y otras condiciones de servicio, así como el acceso a la formación profesional y la capacitación no sean vulnerados en razón de sexo o discapacidad, cualquiera que este (sic) sea.
-
-VIII. Fomentar la adopción voluntaria de programas de igualdad por parte del sector privado, para ello se generarán diagnósticos de los que se desprendan las carencias y posibles mejoras en torno a la igualdad entre mujeres y hombres;
-
-IX. Implementar, en coordinación con las autoridades competentes, medidas destinadas a erradicar cualquier tipo de discriminación, violencia o acoso por razón de sexo;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-X. Promover condiciones de trabajo que eviten el acoso y el (sic) sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XI. Diseñar, en el ámbito de su competencia, políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XII. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico;
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XIII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen estas en materia de igualdad entre mujeres y hombres;
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2020)</small>
-
-XIV. Establecer estímulos y certificados de igualdad, los cuales se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2020)</small>
-
-a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2020)</small>
-
-b) Que en la integración de la plantilla laboral, que ésta se componga de al menos el cuarenta por ciento de personas de un mismo sexo, y que el diez por ciento del total de la plantilla corresponda a mujeres que ocupen puestos directivos.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2020)</small>
-
-c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
-
-d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XV. Establecer medidas para asegurar la corresponsabilidad en el trabajo y en la vida familiar y personal de las mujeres y hombres; y
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
-
-XVI. Fomentar el acceso al trabajo de las madres jefas de familia.
+### CAPÍTULO IX DE LA COORDINACIÓN DE COMUNICACIÓN E INFORMACIÓN
 
 ###### Artículo 32.
 
-Regulación del sistema estatal.
+La persona Titular de la Coordinación de Comunicación e Información, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Elaborar el Programa Anual de Comunicación del Instituto y someterlo a aprobación de la Presidenta del Instituto, para el desarrollo e instrumentación de estrategias, campañas de difusión y mensajes institucionales para la promoción de los derechos de las mujeres y la igualdad de género.
 
-El Instituto Coahuilense de las Mujeres, elaborará el proyecto de reglamento para el funcionamiento del sistema estatal y lo presentará a sus integrantes para su estudio y aprobación, en su caso.
+II. Coordinar y vigilar el desarrollo de las campañas de difusión establecidas en el Programa Anual de Comunicación del Instituto, para lograr su cumplimiento
 
-### Capítulo tercero. De la participación y representación política equilibrada de las mujeres y los hombres
+III. Dirigir y coordinar la política de comunicación e información del Instituto para impulsar los derechos de las mujeres y niñas, así como los programas y acciones del Instituto bajo los ejes de perspectiva de género, igualdad, inclusión y no discriminación
 
-###### Artículo 42.
+IV. Promover estrategias de comunicación con perspectiva de género y el lenguaje incluyente para coadyuvar al cumplimiento de las acciones contenidas en la Política Nacional de Igualdad
 
-Participación en la vida política.
+V. Dirigir e implementar estrategias de comunicación, información y difusión desde la perspectiva de género, para promover una cultura de la no violencia, la no discriminación y el respeto de los derechos humanos de mujeres y niñas
 
-Las entidades públicas, en el ámbito de su competencia, implementarán los mecanismos necesarios para garantizar la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+VI. Autorizar la difusión de contenidos en el sitio web del Instituto, los micrositios, las redes sociales, así como la estrategia digital para contribuir a los objetivos institucionales del Instituto y de la Política Nacional de Igualdad.
 
-###### Artículo 43.
+VII. Dirigir estrategias de información para divulgar las acciones del Instituto en medios de comunicación y otras plataformas,
 
-Acciones en materia política, educativa y laboral.
+VIII. Vigilar la generación de información, cobertura informativa y monitoreo de la información que surja sobre los temas objeto Instituto y aquellos de coyuntura mediática en materia de género, para contribuir a la toma de decisiones de la Presidencia del Instituto.
 
-Para los efectos de lo previsto en el artículo anterior, las entidades públicas desarrollarán las siguientes acciones:
+IX. Coordinar y supervisar que los proyectos editoriales y publicaciones del Instituto, estén alineados a los ejes de igualdad y no discriminación, para que difundan y fortalezcan la divulgación de contenidos con perspectiva de género y la promoción de los derechos humanos de las mujeres y niñas.
 
-I. Favorecer el trabajo legislativo con la perspectiva de género;
+X. Establecer los criterios de imagen que habrán de aplicarse de manera interna y externa, para posicionar la identidad del Instituto.
 
-II. Garantizar, en el ámbito de su competencia, el derecho a una educación igualitaria, plural y libre de estereotipos de género;
+XI. Promover alianzas con el sector privado, público, académico, cultural, organismos internacionales y organizaciones para la generación de estrategias y acciones de comunicación, información y difusión con perspectiva de género, así como promover la eliminación de estereotipos en la comunicación.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+XII. Promover con organismos y mecanismos internacionales y regionales la generación de estrategias de comunicación con perspectiva de género para promover los derechos humanos de las mujeres, impulsar la agenda de género y fomentar la igualdad entre mujeres y hombres.
 
-III. Garantizar la implantación de mecanismos que promuevan la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+XIII. Coadyuvar en el cumplimiento de los requerimientos de información y presentación de informes, para atender las solicitudes de autoridades competentes, instancias fiscalizadoras y unidades administrativas internas del Instituto, para brindar atención oportuna y conforme a la normativa aplicable.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2017)</small>
+XIV. Autorizar el anteproyecto del presupuesto anual necesario para el desempeño funcional en materia de Comunicación Social, así como el control y verificación de su respectivo ejercicio, para observar el adecuado gasto conforme a la normatividad aplicable y al ámbito de competencia.
 
-IV. Promover la participación equitativa del 50% en cargos públicos de Directora o Director General; Directora o Director Ejecutivo y Directora o Director de Área, de los órganos político-administrativos;
+XV. Autorizar la integración de los planes anuales de trabajo y de evaluación del personal a su cargo, para propiciar el desarrollo óptimo de las responsabilidades que son de su competencia.
 
-V. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes ejecutivo legislativo y judicial.
+XVI. Coadyuvar en el cumplimiento de las obligaciones de transparencia, acceso a la información y protección de datos personales.
+
+XVII. Promover y coordinar con las áreas de comunicación y /o difusión de la Administración Pública Federal la promoción de acciones para coadyuvar en la integración de la perspectiva de género, el lenguaje incluyente, no sexista y no discriminatorio en su labor informativa y comunicativa. Asimismo, impulsar la eliminación de estereotipos de género en la comunicación generada.
+
+XVIII. Promover entre los medios de comunicación la generación y el uso de información con perspectiva de género, lenguaje incluyente, no sexista y libre de estereotipos de género para contribuir a visualizar las desigualdades entre mujeres y hombres.
+
+XIX. Coordinar la administración, adquisición y resguardo bibliográfico, hemerográfico, digital y audiovisual especializado en género del Centro de Documentación, así como la promoción y difusión de su acervo.
+
+XX. Coordinar la ejecución del Programa Editorial Anual del Instituto aprobado por el Comité Editorial Dictaminador, para dar cumplimiento a los objetivos institucionales.
+
+XXI. Coordinar con las áreas de comunicación y/o difusión de los Mecanismos para el Adelanto de las Mujeres en las entidades federativas, la promoción de acciones y estrategias en materia de difusión, para coadyuvar en la integración de la perspectiva de género, el lenguaje incluyente, no sexista y no discriminación en su labor comunicativa e informativa.
+
+XXII. Las demás que señalen las disposiciones aplicables y las que confiera su superior jerárquico.
+
+### CAPÍTULO X DE LA COORDINACIÓN DE ASUNTOS JURÍDICOS
 
 ###### Artículo 33.
 
-Consolidación y funcionamiento del sistema estatal.
+La persona Titular de la Coordinación de Asuntos Jurídicos, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Fungir como órgano de asesoría y consulta del Instituto en temas jurídicos y relacionados con los derechos humanos de las mujeres, adolescentes y niñas.
 
-Los gobiernos municipales coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto Coahuilense de las Mujeres, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del sistema estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el sistema estatal.
+II. Ejecutar el estudio, planeación y despacho de los asuntos jurídicos que le sean turnados y que se encuentren a cargo del Instituto.
 
-## Título V. De la observancia en materia de igualdad entre mujeres y hombres
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-### Capítulo único. Autoridad competente y acciones en materia de observancia
+III. Autorizar y coordinar la estrategia para la atención y sustanciación de asuntos contenciosos ante autoridades judiciales, administrativas o del trabajo, así como desahogar todo tipo de requerimientos que soliciten los organismos constitucionales autónomos y/o autoridades de cualquier otra naturaleza, en representación y defensa de los intereses del Instituto, en colaboración con las unidades administrativas competentes;
 
-###### Artículo 51.
+IV. Elaborar, en coordinación con las unidades responsables del Instituto, las opiniones jurídicas que se soliciten al Instituto, respecto a las actividades de orden legislativo del H. Congreso de la Unión y Congresos Locales.
 
-Autoridad competente para la observancia.
+V. Promover, coordinar y definir las acciones de armonización legislativa en los ámbitos federal, estatal y municipal, en colaboración con la unidad responsable del Instituto, con el objetivo de garantizar los derechos de mujeres, adolescentes y niñas establecidos en el marco jurídico mexicano y en los instrumentos internacionales suscritos por México.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+VI. Validar y coordinar la revisión jurídica y la elaboración de los convenios o acuerdos de colaboración generales y específicos en el ámbito nacional e internacional, con dependencias y entidades de la Administración Pública Federal, estatal, municipal, instituciones académicas, organizaciones civiles y organismos internacionales.
 
-El Instituto Coahuilense de las Mujeres, es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
+VII. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2023)
 
-###### Artículo 52.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-Necesaria profesionalización en materia de igualdad.
+VIII. Validar en sus aspectos jurídicos los convenios y contratos derivados de los programas federales del Instituto;
 
-La observancia deberá ser realizada por personas de reconocida trayectoria y especializadas en el análisis de la igualdad entre mujeres y hombres.
+IX. Representar al Instituto ante los órganos competentes en materia de derechos humanos y coordinar con otras áreas responsables del Instituto:
 
-###### Artículo 53.
+a) La atención de sus requerimientos;
 
-Acciones de observancia.
+b) La integración y rendición de los informes que requieran;
 
-La observancia en materia de igualdad entre mujeres y hombres consistirá en:
+c) La realización del proyecto para la aceptación de las propuestas de conciliación que dichos órganos propongan, y
 
-I. Recibir información sobre medidas y actividades que pongan en marcha los sectores público y privado en materia de igualdad entre mujeres y hombres;
+d) La propuesta de aceptación y, en su caso, los informes sobre el cumplimiento de las recomendaciones que dichos órganos formulen a las autoridades Instituto, dando seguimiento hasta su conclusión.
 
-II. Evaluar el impacto en la sociedad de las políticas y medidas que afecten a los hombres y a las mujeres en materia de igualdad;
+X. Someter a consideración de la Presidencia del Instituto las iniciativas de leyes o decretos, así como reglamentos, acuerdos y demás disposiciones jurídicas relativas a los asuntos competencia del Instituto, previa opinión jurídica y normativa respecto a la procedencia y legalidad de su contenido.
 
-III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+XI. Coordinar las actuaciones, planear las estrategias a seguir y desahogar cualquier tipo de requerimientos en los juicios contenciosos laborales, penales, civiles, administrativos, de amparo o cualquier otra materia que pudiera afectar los intereses del Instituto, para lo que también podrá presentar demandas y toda clase de medios de impugnación.
 
-IV. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres; y,
+XII. Elaborar los informes respectivos en los juicios de amparo e interponer toda clase de recursos o medios de impugnación, así como actuar en los juicios en que el Instituto sea parte e intervenir en el cumplimiento de las resoluciones respectivas.
 
-V. Las demás que sean necesarias para cumplir los objetivos de esta ley.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-### Capítulo cuarto. De la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres
+XIII. Coordinar las funciones de la Unidad de Transparencia del Instituto bajo su adscripción, conforme a las disposiciones jurídicas aplicables;
 
-###### Artículo 44.
+XIV. Tramitar los registros de propiedad intelectual del Instituto con los insumos y el apoyo de las unidades administrativas.
 
-Igualdad en el acceso a los derechos sociales.
+XV. Representar legalmente al Instituto, dentro del ámbito de su competencia.
 
-Con el fin de promover la igualdad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de la política estatal:
+XVI. Elaborar, validar y presentar las denuncias y querellas que legalmente procedan y coadyuvar con el Ministerio Público.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+XVII. Realizar el dictamen jurídico de la substanciación de procedimientos judiciales y administrativos en los que el Instituto sea parte, para salvaguardar los intereses de éste, previa solicitud por escrito del área involucrada.
 
-I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social local mediante un enfoque que modifique los patrones socioculturales de conducta que eliminen los prejuicios y las prácticas de superioridad o inferioridad de cualquiera de los sexos, así como de otros estereotipos sociales;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad; y,
+XVIII. Revisar jurídicamente y validar los contratos en materia laboral del Instituto;
 
-III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+XIX. (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2023)
 
-###### Artículo 45.
+XX. Las demás que le confieran las disposiciones jurídicas en la materia.
 
-Acciones para el disfrute de los derechos sociales.
+## TÍTULO QUINTO
 
-Para los efectos de lo previsto en el artículo anterior, las entidades públicas, desarrollarán las siguientes acciones:
-
-I. Seguimiento y evaluación tanto en ámbito estatal como municipal, de la aplicación de la legislación existente en el ámbito de desarrollo social, en armonización con los ordenamientos nacionales e internacionales en la materia;
-
-II. Promover el conocimiento de la legislación y la jurisprudencia en la materia;
-
-III. Difundir en la sociedad, el conocimiento de sus derechos y los mecanismos para su exigibilidad;
-
-IV. Integrar el principio de igualdad en el ámbito de la protección social;
-
-V. Generar los mecanismos necesarios para garantizar que la política en materia de desarrollo social, se conduzca con base en la realidad social de las mujeres. Para lo cual, se elaborará un diagnóstico a efecto de encontrar las necesidades concretas de éstas;
-
-VI. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud;
-
-VII. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la vida familiar y en la atención de las personas dependientes de ellos; e
-
-VIII. Integrar el principio de igualdad en la formación del personal del servicio de salud, para atender situaciones de violencia de género.
+### CAPÍTULO I DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 34.
 
-Concertación de acciones estatales y privadas.
+El Instituto contará con un Órgano Interno de Control, cuya persona Titular es designada en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por las personas titulares de las áreas bajo su adscripción.
 
-La concertación de acciones entre el estado y el sector privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+Las personas servidoras públicas a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley General del Sistema Nacional Anticorrupción, en los protocolos de actuación con perspectiva de género y en los demás ordenamientos legales y administrativos aplicables.
 
-I. Definición de las responsabilidades que asuman las y los integrantes de los sectores social y privado; y,
+Las ausencias de la persona Titular del Órgano Interno de Control y de las personas titulares de las áreas bajo su adscripción, serán suplidas de conformidad con lo previsto en el artículo 104 del Reglamento Interior de la Secretaría de la Función Pública.
 
-II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
+## TÍTULO SEXTO
 
-## Título VI. Del procedimiento para la igualdad por violaciones a la ley
-
-### Capítulo primero. Procedimiento para la igualdad
-
-###### Artículo 54.
-
-Finalidad del procedimiento.
-
-El procedimiento para la igualdad. cuyo fin será establecer prácticas de igualdad entre mujeres y hombres y sancionar la violación a los principios y programas que establece esta ley, de conformidad con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, y en su caso, por las leyes locales aplicables.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-Conocerá y resolverá del procedimiento para la igualdad, el Instituto Coahuilense de las Mujeres o la persona en quien ella delegue dicha atribución.
-
-### Capítulo segundo. Trámite del procedimiento
-
-###### Artículo 55.
-
-Personas que podrán iniciar el procedimiento.
-
-Están legitimados para iniciar el procedimiento para la igualdad, cualquier persona física o moral así como cualquier entidad de la administración pública estatal o municipal en contra de aquéllas que con sus actividades incurran en violación a los principios y programas que prevé la presente ley.
-
-###### Artículo 56.
-
-Trámite del procedimiento.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-El procedimiento para la igualdad iniciará con la presentación de la queja ante el Instituto Coahuilense de las Mujeres la cual puede ser por escrito, en cuyo caso se hará en original y copia, debidamente fundada y motivada, contra instituciones públicas o privadas, servidores públicos o particulares que se presuma hayan incurrido en violación a los principios y programas establecidos en esta ley.
-
-La queja deberá de ir acompañada, de todos los elementos en que se funde la misma, ya sea que se trate de documentos privados o públicos, nombres y domicilios de testigos, peritajes, o cualquier otro medio de convicción de los permitidos por la ley.
-
-Una vez recibida la queja, se le asignará el número estadístico que le corresponda, se formará expediente y se procederá a admitirla o bien a desecharla por ser notoriamente improcedente, dentro del plazo de los tres días hábiles siguientes a su recepción. Contra el acuerdo que desecha la queja procederá el recurso de inconformidad.
-
-Una vez admitida la queja se correrá traslado de ella a la persona física o al representante legal de la institución pública o privada o al titular de la dependencia estatal o municipal en contra de quien se interpuso, a fin de que dentro del término de cinco días naturales rinda un informe debidamente sustentado y aporte los elementos de convicción que estime pertinentes, en relación a los hechos contenidos en la queja.
-
-Recibido el informe de referencia, dentro de los diez días hábiles siguientes, se citará a las partes a una audiencia de conciliación para armonizar sus diferencias y desahogar las pruebas aportadas, y en especial, para definir y establecer en el término que se fije para tal efecto, prácticas de igualdad relacionadas con el motivo de la queja. Resueltas las diferencias, se levantará constancia de ello, se entregará a las partes copia autorizada de la misma y se procederá al archivo del expediente. La inasistencia injustificada de la parte quejosa a la audiencia hará que se tenga por desistida de la queja. La falta de asistencia de la parte en contra de quien se interpuso la queja dará lugar a la fijación de una nueva y última audiencia dentro de los diez días naturales siguientes a la inicialmente fijada.
-
-La omisión en la rendición del informe solicitado, hará que se tengan por ciertos los hechos motivo de la queja.
-
-La falta de avenimiento de las partes, dará lugar a la fijación de los puntos debatidos, la valoración de las pruebas aportadas y la citación para dictar resolución para la igualdad dentro de los cinco días hábiles siguientes a la audiencia de conciliación
-
-###### Artículo 57.
-
-Resolución para la igualdad.
-
-La resolución para la igualdad contendrá:
-
-I. Fecha y lugar de emisión;
-
-II. Nombre de las partes;
-
-III. Extracto de los puntos en cuestión y valoración de las pruebas;
-
-IV. Prácticas de igualdad a implementar o desarrollar;
-
-V. Número de sesiones de monitoreo para la observancia y seguimiento a favor de la parte agraviada;
-
-VI. El monto de la multa que en su caso corresponda;
-
-VII. La obligación de correr traslado de copia autorizada del expediente a la Secretaría de Fiscalización y Rendición de Cuentas, para la sustanciación, en caso de resultar procedente, del procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza; y,
-
-VIII. El nombre y cargo del servidor público que emita la resolución.
-
-### Capítulo tercero. De las infracciones y sanciones
-
-###### Artículo 58.
-
-Infracciones.
-
-Se consideran infracciones a la presente ley:
-
-I. Realizar actos de desigualdad por cualquiera de las causas a que hace alusión la fracción IV del artículo 8 de la presente ley;
-
-II. Negarse sin causa justificada a aplicar lo establecido en esta ley y demás disposiciones reglamentarias; y,
-
-III. Los actos reiterados de prácticas de desigualdad.
-
-###### Artículo 59.
-
-Sanciones.
-
-Las infracciones a la presente ley, se sancionarán de la manera siguiente:
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-I. Con el establecimiento de prácticas de igualdad, sujetas a supervisión por la persona que para tal efecto designe el Instituto Coahuilense de las Mujeres
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-II. Con multa de 20 a 100 veces el valor diario de la unidad de medida y actualización, al momento de la comisión de la infracción, para los casos previstos en la fracción I y II del artículo 58 de esta ley;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-III. Con multa de 30 a 200 veces el valor diario de la unidad de medida y actualización, al momento de la comisión de la infracción para la conducta señalada en la fracción III del artículo 58 de este ordenamiento.
-
-El catálogo de prácticas de igualdad, deberá desarrollarse en el reglamento que de esta ley se expida.
-
-###### Artículo 60.
-
-Criterios para sancionar.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-El Instituto Coahuilense de las Mujeres, considerará para la individualización de la sanción:
-
-I. La gravedad de la conducta discriminatoria contra la mujer o el hombre;
-
-II. Las condiciones socio-económicas del infractor; y
-
-III. Si se trata de reincidencia.
-
-### Capítulo cuarto. Recurso de inconformidad
-
-###### Artículo 61.
-
-Procedencia del recurso.
-
-En contra de las resoluciones dictadas con base en esta ley y de las disposiciones jurídicas que de ella emanen, procede el recurso de inconformidad y podrán ser impugnadas por el particular ante la propia autoridad que emitió el acto. Se interpondrá dentro de los quince días hábiles siguientes a la fecha en que se notifique la resolución recurrida.
-
-T R A N S I T O R I O S
-
-PRIMERO.- La presente ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- El Sistema Estatal para la Igualdad entre Mujeres y Hombres, se integrará dentro de los 60 días siguientes a la entrada en vigor de la presente ley. La formulación y acuerdo para la implementación del Programa Estatal para la Igualdad entre Mujeres y Hombres, se hará a más tardar a los 90 días siguientes de integración del Sistema Estatal.
-
-TERCERO.- La expedición del reglamento de la presente ley, corresponderá a la Secretaría de las Mujeres.
-
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los veintinueve días del mes de enero del año dos mil trece.
-
-DIPUTADO PRESIDENTE
-
-SAMUEL ACEVEDO FLORES
-
-(RÚBRICA)
-
-DIPUTADO SECRETARIO
-
-MANOLO JIMÉNEZ SALINAS
-
-(RÚBRICA)
-
-DIPUTADO SECRETARIO
-
-EVARISTO LENIN PÉREZ RIVERA
-
-(RÚBRICA)
-
-IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE
-
-Saltillo, Coahuila de Zaragoza, a 18 de febrero de 2013
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-RUBÉN IGNACIO MOREIRA VALDEZ
-
-(RÚBRICA)
-
-EL SECRETARIO DE GOBIERNO
-
-ARMANDO LUNA CANALES
-
-(RÚBRICA)
-
-EL SECRETARIO DE EDUCACIÓN
-
-JOSÉ MARÍA FRAUSTRO SILLER
-
-(RÚBRICA)
-
-LA SECRETARIA DE SALUD
-
-BERTHA CRISTINA CASTELLANOS MUÑOZ
-
-(RÚBRICA)
-
-EL SECRETARIO DE DESARROLLO SOCIAL
-
-RODRIGO FUENTES ÁVILA
-
-(RÚBRICA)
-
-LA SECRETARIA DE LAS MUJERES
-
-SONIA VILLAREAL PÉREZ
-
-(RÚBRICA)
-
-EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
-
-HOMERO RAMOS GLORIA
-
-(RÚBRICA)
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 22 DE MARZO DE 2016.
-
-### Capítulo quinto. De la igualdad entre mujeres y hombres en la vida civil
-
-###### Artículo 46.
-
-Igualdad en la vida civil.
-
-Con el fin de promover y procurar la igualdad en la vida civil de mujeres y hombres, será objetivo de la política estatal:
-
-I. Evaluar la legislación en materia de igualdad entre mujeres y hombres;
-
-II. Fomentar la no discriminación y la no violencia contra las mujeres;
-
-III. Promover los derechos específicos de las mujeres como derechos humanos universales; y,
-
-IV. Erradicar las distintas modalidades de violencia de género.
-
-###### Artículo 47.
-
-Acciones para promover la igualdad en la vida civil.
-
-Para los efectos de lo previsto en el artículo anterior, las entidades públicas, en el ámbito de su competencia desarrollarán las siguientes acciones:
-
-I. Mejorar los sistemas de inspección del trabajo en lo que se refiere a las normas sobre la igualdad de retribución;
-
-II. Promover investigaciones con perspectiva de género en materia de salud y de seguridad en el trabajo;
-
-III. Impulsar la capacitación a las autoridades encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres;
-
-IV. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
-
-V. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres, con organizaciones no gubernamentales y organizaciones nacionales de cooperación para el desarrollo;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VI. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres el derecho a una licencia por paternidad;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VII. Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad en los ámbitos público y privado; Implementar y promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VIII. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-IX. Vigilar la integración de la perspectiva de género en la política pública del estado.
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-X. Impulsar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares;
-
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XI. Generar estudios, diagnósticos y evaluaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres y difundirlos.
-
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-XII. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2016)</small>
-
-### Capítulo quinto bis. De la eliminación de estereotipos establecidos en función del sexo
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
-
-###### Artículo 47 Bis.
-
-Será objetivo de la Política del Estado la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
-
-###### Artículo 47 Ter.
-
-Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
-
-I. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
-
-II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
-
-III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
-
-IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales; y
-
-V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
-
-### Capítulo sexto. Del derecho a la información y la participación social en materia de igualdad entre mujeres y hombres
-
-###### Artículo 48.
-
-Derecho a la información en materia de igualdad.
-
-Toda persona tendrá derecho a que las autoridades y organismos públicos, previo cumplimiento de los requisitos que la ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
-
-###### Artículo 49.
-
-Participación de la sociedad en las políticas de igualdad.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-El Ejecutivo del Estado por conducto del Instituto Coahuilense de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta ley.
-
-###### Artículo 50.
-
-Alcance de los acuerdos en materia de igualdad.
-
-Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus dependencias con el sector público o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta ley.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2020)</small>
-
-### Capítulo sexto bis. De la igualdad en el acceso a la justicia y a la seguridad pública
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
-
-Artículo 50 bis. Igualdad en el Acceso a la Justicia.
-
-Serán objetivos de la política estatal de Igualdad en materia de acceso a la justicia y seguridad pública:
-
-I. Diseñar los lineamientos que garanticen desde un enfoque diferencial, especializado, transformador, de igualdad y no discriminación el acceso a la justicia;
-
-II. Promover el conocimiento y aplicación de la legislación en materia de igualdad y violencia de género; e
-
-III. Impulsar las reformas legislativas y el diseño de políticas públicas que favorezcan la igualdad; (sic)
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
-
-Artículo 50 ter. Igualdad en las Instituciones de Justicia.
-
-Para los efectos del artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
-
-I. Asegurar que los operadores del sistema de procuración y administración de justicia en el Estado, cuenten con formación, capacitación y sensibilización en perspectiva de género y enfoque de derechos humanos;
-
-II. Garantizar el respeto de los derechos humanos de las partes; y
-
-III. Favorecer la instalación de sistemas de información con indicadores desagregados por sexo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2020)</small>
-
-### Capítulo sexto ter. Igualdad entre mujeres y hombres en los pueblos y comunidades indígenas y rurales
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
-
-Artículo 50 quáter. Política de Igualdad de Pueblos y Comunidades Indígenas.
-
-Serán objetivos de la Política de Igualdad en materia de Pueblos y Comunidades Indígenas:
-
-I. Garantizar los derechos de las mujeres indígenas para garantizar su participación activa y directa en la toma de decisiones relacionadas con la vida comunitaria;
-
-II. Proteger a las mujeres titulares de los derechos sobre tenencia de la tierra que sean mayores de 60 años, se encuentren en situación de embarazo o lactantes, tengan alguna discapacidad o incapacidad médica, para que no sean obligadas a realizar faenas en el campo, ni trabajos que excedan su capacidad física o pongan en riesgo su salud e integridad;
-
-III. Eliminar cualquier práctica discriminatoria en contra de las mujeres en los pueblos y comunidades indígenas que obstaculice la igualdad en el ejercicio de sus derechos y obligaciones para elegir o ser elegida como autoridad o representante, de acuerdo a sus propias formas de gobierno; y
-
-IV. Garantizar el acceso a bienes y servicios en igualdad de oportunidades.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
-
-Artículo 50 quintus. Acciones para promover la igualdad en los pueblos y comunidades indígenas.
-
-Para los efectos de lo previsto en el artículo anterior, se promoverán las siguientes acciones:
-
-I. Asegurar que las personas que integran los pueblos y comunidades indígenas gocen en igualdad, los derechos y oportunidades que la legislación les otorga;
-
-II. Establecer acciones para transversalizar la perspectiva de género en los pueblos y comunidades indígenas, con acciones específicas que sean medibles y evaluables;
-
-III. Vigilar que se garantice la participación e integración de mujeres y hombres en condiciones de igualdad en la toma de decisiones en el ámbito comunitario, de tal forma que contribuyan a lograr su realización y superación, así como el reconocimiento y respeto a su dignidad humana;
-
-IV. Establecer sinergias y estrategias de sororidad entre los grupos feministas y de mujeres organizadas;
-
-V. Establecer metodologías y formas de trabajo participativas que promuevan la igualdad entre mujeres y hombres;
-
-VI. Promover políticas dirigidas a eliminar todas las formas de discriminación contra las mujeres para acceso, tenencia y herencia de la tierra;
-
-VII. Difundir información en medios de comunicación escritos, electrónicos, radio y televisión sobre igualdad de género en los pueblos y comunidades indígenas;
-
-VIII. Desarrollar políticas, planes y programas para la prevención, atención y eliminación de la violencia en todas sus formas y en todos sus espacios, ejercida contra las mujeres indígenas; y
-
-IX. Garantizar el principio de igualdad sustantiva entre mujeres y hombres con relación a los derechos reales de propiedad, así como de uso y disfrute de tierras y del derecho fundamental a la no discriminación en materia agraria.
+### CAPÍTULO I DE LAS SUPLENCIAS
 
 ###### Artículo 35.
 
-Contenido del programa estatal.
+Las ausencias serán suplidas de la siguiente manera, con independencia de lo señalado por el artículo 12, penúltimo párrafo, de la Ley:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2023)</small>
 
-El programa estatal será elaborado por el Instituto Coahuilense de las Mujeres y tomará en cuenta las necesidades del estado, así como las particularidades de la desigualdad en cada demarcación territorial. Este programa deberá ajustarse e integrarse al Plan Estatal de Desarrollo
+I. En la Junta de Gobierno, las personas vocales serán suplidas en sus ausencias por las personas que en cada caso designen en los términos establecidos en la Ley;
 
-Este programa establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente ley.
+II. La persona Titular de la Presidencia será suplida por la persona Titular de la Secretaría Ejecutiva, o bien, por la persona Titular de la Dirección General que designe por escrito la Presidencia.
 
-###### Artículo 36.
+III. La persona titular de la Secretaría Ejecutiva será suplida por la persona Titular de la Dirección General que designe por escrito la Presidencia.
 
-Revisión del programa estatal.
+IV. Las personas titulares de las Direcciones Generales, Coordinaciones, serán suplidas por quien ellas designen, dentro de las personas que ocupan el nivel jerárquico inmediato inferior de la persona Titular de las Unidades Administrativas anteriormente señaladas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+(SIC)
 
-El Instituto Coahuilense de las Mujeres deberá revisar y evaluar anualmente el programa estatal.
+Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-###### Artículo 37.
+Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
 
-Inclusión en el informe anual del Ejecutivo.
+Ciudad de México, a 4 de diciembre de 2019.- Con fundamento en lo dispuesto por los artículos 13, fracción XI y 16, fracciones IV y V de la Ley del Instituto Nacional de las Mujeres.- Presidenta del Instituto, Doctora Nadine Flora Gasman Zylbermann.- Rúbrica.
 
-En los informes anuales del Ejecutivo del Estado, podrá contenerse el estado que guarda la ejecución del programa estatal, así como las demás acciones relativas al cumplimiento de lo establecido en la presente ley.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 394.- SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+D.O.F. 17 DE OCTUBRE DE 2023.
 
-###### ARTÍCULO PRIMERO.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS MUJERES, PUBLICADO EL 1 DE JUNIO DE 2021”.]
 
-El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-###### ARTÍCULO SEGUNDO.
+Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto en este Acuerdo.
 
-Se derogan todas las disposiciones que se opongan al siguiente decreto.
+D.O.F. 10 DE ENERO DE 2025.
 
-P.O. 22 DE MARZO DE 2016.
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LAS MUJERES”.]
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 395.- SE ADICIONA EL ARTÍCULO 38 BIS DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+PRIMERO. El presente Decreto entra en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-###### ARTÍCULO PRIMERO.
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto Nacional de las Mujeres, publicado el 01 de junio del 2021 en el Diario Oficial de la Federación.
 
-El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+TERCERO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto, así como los acuerdos delegatorios emitidos con anterioridad a la publicación del presente ordenamiento.
 
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al siguiente Decreto
-
-P.O. 22 DE ABRIL DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 412.- SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al siguiente Decreto
-
-P.O. 21 DE JUNIO DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 455.- SE REFORMA EL ARTÍCULO 20, MODIFICÁNDOSE LAS FRACCIONES V Y VI Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al siguiente decreto.
-
-P.O. 21 DE JUNIO DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 456.- SE REFORMA EL ARTÍCULO 41, MODIFICÁNDOSE LA FRACCIÓN VII Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al siguiente Decreto.
-
-P.O. 17 DE ENERO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 613.- SE AGREGA LA FRACCIÓN V AL ARTÍCULO 16, Y SE RECORRE EL V AL (SIC) VI; SE REFORMA EL ARTÍCULO 17 EN SUS FRACCIONES VIII, IX, XI Y SE AGREGAN LAS FRACCIONES XIV Y XV, Y SE REFORMA EL ARTÍCULO 29 EN SU FRACCIÓN X DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 17 DE ENERO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 615.- SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO TERCERO, DEL TÍTULO II Y EL ARTÍCULO 16 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 13 DE OCTUBRE DE 2017.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 939.- SE REFORMA Y ADICIONA LAS FRACCIONES III Y IV RECORRIENDO TODAS LAS ULTERIORES DEL ARTÍCULO 43 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
-
-P.O. 26 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 9; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN V DEL APARTADO A DEL ARTÍCULO 16; LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO II; EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 17; EL SEGUNDO PÁRRAFO DE LOS ARTÍCULOS 23, 24, 27 Y 28; EL PRIMER, SEGUNDO PÁRRAFO Y EL INCISO B DE LA FRACCIÓN X DEL ARTÍCULO 29; LAS FRACCIONES II, III, IV DEL ARTÍCULO 30; EL SEGUNDO PÁRRAFO DE LOS ARTÍCULOS 32, 33, 35, 36, 49, Y 51; EL TERCER PÁRRAFO DEL ARTÍCULO 54; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 56; LAS FRACCIONES I, II Y III DEL ARTÍCULO 59 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
-
-SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
-
-TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
-
-CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
-
-Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
-
-QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
-
-SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
-
-Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
-
-SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
-
-OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
-
-Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
-
-NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
-
-DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
-
-Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
-
-Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
-
-Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
-
-Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
-
-Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
-
-Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
-
-DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
-
-DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
-
-DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
-
-P.O. 6 DE JULIO DE 2018.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 37.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 8, Y EL CONTENIDO DEL ARTÍCULO 38, AMBOS DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE ENERO DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 188.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 16 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA.”
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicac (sic)
-
-(sic) ión en el Periódico Oficial del Estado.
-
-P.O. 26 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 610.- SE REFORMA EL CONTENIDO DE LA FRACCIÓN VI, DEL ARTÍCULO 20; Y SE MODIFICA TAMBIÉN EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 41 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 10 DE JULIO DE 2020.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO 647.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 26 DE ENERO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 831.- SE REFORMA EL CONTENIDO DEL ARTÍCULO 4, ASÍ COMO EL CONTENIDO DE LA FRACCIÓN III DEL ARTÍCULO 18, ADICIONANDO UN NUEVO CONTENIDO A LA FRACCIÓN IV Y RECORRIENDO EL ACTUAL A LA FRACCIÓN V, QUE SE CREA; Y SE MODIFICA EL CONTENIDO DE LAS FRACCIONES IV Y VI DEL ARTÍCULO 20 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 12 DE FEBRERO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO 916.- SE ADICIONA UN PÁRRAFO A LA FRACCIÓN VII DEL APARTADO B, Y SE MODIFICA EL CONTENIDO DE LA FRACCIÓN II DEL APARTADO C, RECORRIENDO EL ACTUAL A LA SIGUIENTE, HACIENDO LO PROPIO CON EL RESTO DE LAS FRACCIONES DEL ARTÍCULO 16; SE MODIFICA EL CONTENIDO DE LA FRACCIÓN VII; Y SE ADICIONAN LAS FRACCIONES IX, X Y XI AL ARTÍCULO 18 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 23 DE FEBRERO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO 971.- SE ADICIONA EL CAPÍTULO PRIMERO BIS Y LOS ARTÍCULOS DEL 20 BIS AL 20 QUATER A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 23 DE FEBRERO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 973.- SE REFORMA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 19 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 29 DE ABRIL DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO 221.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 1 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, así como las modificaciones a las atribuciones conferidas a la Secretaría, o a su estructura orgánica, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal, debiendo realizarse mediante movimientos compensados conforme a la normativa aplicable, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de la misma Secretaría.
