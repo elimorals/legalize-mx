@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2024-12-05"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -209,63 +209,135 @@ La Secretaría deberá ejercer y controlar la coordinación en materia de Seguri
 
 ### Capítulo I. De la Estructura Organizacional de la Secretaría
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
 
 ###### Artículo 7.
 
-La Secretaría, para su funcionamiento, se organizará de la forma siguiente:
+La Secretaría, para el desarrollo de sus funciones, estará organizada de la forma siguiente:
 
-I. La Oficina del C. Secretario.
+I. Oficina del C. Secretario.
 
-II. Unidades de Apoyo al Secretario:
+II. Unidades de Apoyo al Secretario.
 
-a) Unidad de Protección y Promoción de los Derechos Humanos y Atención a Víctimas;
+a) Coordinación Técnica.
 
-b) Unidad de Apoyo Jurídico;
+b) División de la Policía Operativa.
 
-c) Unidad de Asuntos Internos;
+c) División de la Policía de Servicios.
 
-d) Unidad de Prevención del Delito y Política Criminal;
+d) Unidad de Apoyo Jurídico.
 
-e) Unidad de Transmisiones Digitales;
+e) Unidad de Asuntos Internos.
 
-f) Coordinación técnica;
+f) Unidad de Protección y Promoción de los Derechos Humanos y Atención a Víctimas.
 
-g) Dirección de Control de Servicios de Seguridad Privada;
+g) Unidad de Prevención del Delito y Política Criminal.
 
-h) Dirección Fuerza de Reacción Inmediata Pakal;
+h) Unidad de Transmisiones Digitales.
 
-i) División de la Policía Operativa y de Servicios.
+i) Dirección de Control de Servicios de Seguridad Privada.
 
-III. Unidades de Apoyo a la Secretaría:
+j) Dirección Fuerza de Reacción Inmediata Pakal.
 
-a) Subsecretaría de Operación Policial;
+k) Dirección de la Policía Auxiliar.
 
-b) Subsecretaría de Inteligencia e Investigación Policial;
+III. Unidades de Apoyo a la Secretaría.
 
-c) Subsecretaría de Tránsito y Vialidad;
+a) Subsecretaría de Operación Policial.
 
-d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad;
+1. Dirección de la Policía Estatal Preventiva.
+
+2. Dirección de la Policía Estatal Fronteriza.
+
+3. Dirección de la Policía Fuerza Ciudadana.
+
+4. Dirección de la Policía Estatal de Caminos.
+
+b) Subsecretaría de Inteligencia e Investigación Policial.
+
+1. Dirección de la Policía Cibernética.
+
+2. Dirección de Análisis, Estadística y Plataforma México.
+
+3. Dirección Estatal de Coordinación, Control, Comando, Comunicación y Cómputo.
+
+4. Dirección de Inteligencia e Investigación Policial.
+
+c) Subsecretaría de Tránsito, Vialidad y Turismo.
+
+1. Dirección de la Policía Estatal de Tránsito y Vialidad.
+
+2. Dirección de la Policía Estatal de Turismo.
+
+d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
+
+1. Unidad de Medidas Cautelares.
+
+2. Unidad Especializada en la Ejecución de Medidas para Adolescentes.
+
+3. Dirección de la Policía Procesal.
+
+4. Centro de Externación y Libertad Regulada.
+
+5. Centro Estatal Preventivo No. 1 “El Canelo”, Chiapa de Corzo.
+
+6. Centro Estatal de Reinserción Social de Sentenciados No. 3 Tapachula.
+
+7. Centro Estatal de Reinserción Social de Sentenciados No. 4 Tapachula.
+
+8. Centro Estatal de Reinserción Social de Sentenciados No. 5 San Cristóbal de Las Casas.
+
+9. Centro Estatal de Reinserción Social de Sentenciados No. 6 Motozintla.
+
+10. Centro Estatal de Reinserción Social de Sentenciados No. 7 Huixtla.
+
+11. Centro Estatal de Reinserción Social de Sentenciados No. 8 Villaflores.
+
+12. Centro Estatal de Reinserción Social de Sentenciados No. 9 Acapetahua.
+
+13. Centro Estatal de Reinserción Social de Sentenciados No. 10 Comitán de Domínguez.
+
+14. Centro Estatal de Reinserción Social de Sentenciados No. 11 Pichucalco.
+
+15. Centro Estatal de Reinserción Social de Sentenciados No. 12 Yajalón.
+
+16. Centro Estatal de Reinserción Social de Sentenciados No. 13 Tonalá.
+
+17. Centro Estatal de Reinserción Social de Sentenciados No. 14 “El Amate”, Cintalapa de Figueroa.
+
+18. Centro Estatal de Reinserción Social de Sentenciados No. 15 Copainalá de Mezcalapa.
+
+19. Centro Estatal de Reinserción Social de Sentenciados No. 16 “El Encino”, Ocosingo.
+
+20. Centro Estatal de Reinserción Social de Sentenciados No. 17 “El Bambú”, Catazajá.
+
+e) Coordinación General de Administración y Finanzas.
+
+1. Dirección de Recursos Humanos.
+
+2. Dirección de Recursos Financieros y Contabilidad.
+
+3. Dirección de Recursos Materiales y Servicios Generales.
+
+4. Dirección de Mantenimiento y Talleres Generales.
+
+5. Dirección de Planeación.
+
+6. Dirección de Tecnologías y Gestión de la Información.
 
 IV. Órgano Desconcentrado:
 
-a) Instituto de Formación Policial;
+a) Instituto de Formación Policial.
 
-b) Comisión de Honor y Justicia de la Secretaría;
+V. Comisión de Honor y Justicia.
 
-c) Comisión del Servicio Profesional de Carrera.
+VI. Comisión del Servicio Profesional de Carrera.
 
 ### Capítulo II. De las Unidades de Apoyo al Secretario
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
-
 ###### Artículo 8.
 
-De conformidad con la fracción II del artículo 7 de la presente Ley, las Unidades de Apoyo al Secretario son las siguientes:
-
-I. Coordinación Técnica.
-
-II. Coordinación de Administración.
+(DEROGADO, P.O. 10 DE ENERO DE 2025)
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
@@ -303,11 +375,11 @@ De conformidad con el inciso a) de la fracción III del artículo 7 de la presen
 
 De conformidad con el inciso b) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Inteligencia e Investigación Policial, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento, la Ley de Seguridad Privada para el Estado de Chiapas y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
 
 ###### Artículo 14.
 
-De conformidad con el inciso c) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Seguridad Turística y Vial, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
+De conformidad con el inciso c) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Tránsito, Vialidad y Turismo, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento, y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -315,13 +387,11 @@ De conformidad con el inciso c) de la fracción III del artículo 7 de la presen
 
 De conformidad con el inciso d) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento, el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
 ###### Artículo 16.
 
-La Coordinación de Administración es la responsable de planear, programar, organizar, supervisar y evaluar el desarrollo de las actividades de las Unidades Administrativas adscritas a la Coordinación.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
-
-La Coordinación de Administración tendrá a su cargo las Unidades que al efecto le asigne el Secretario.
+La Coordinación General de Administración y Finanzas es la responsable de planear, programar, organizar, supervisar y evaluar el desarrollo de las actividades de las Unidades Administrativas adscritas a la Coordinación.
 
 ### Capítulo III. De las Unidades de Apoyo a la Secretaría
 
@@ -1252,3 +1322,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- El Titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración y aprobación del Titular del Ejecutivo del Estado las adecuaciones al reglamento de la Ley que Establece las Bases de Operación de la Secretaría de Seguridad del Pueblo del Estado de Chiapas, y demás normatividad que resulte aplicable, en un plazo no mayor a quince días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 175 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, a la entrada en vigor del presente Decreto, realizarán de inmediato las acciones necesarias para su cumplimiento.
