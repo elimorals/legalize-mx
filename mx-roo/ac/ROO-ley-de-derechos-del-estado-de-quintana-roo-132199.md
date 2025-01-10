@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-12-23"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,161 +21,123 @@ state: "ROO"
 ---
 # LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO DE SESIONES DEL CONSEJO MUNICIPAL ELECTORAL DE JESUS MARIA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+TEXTO ORIGINAL.
 
-LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
+Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de mayo de 2001.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+REGLAMENTO DE SESIONES DEL CONSEJO MUNICIPAL ELECTORAL DE JESUS MARIA
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
+## TITULO UNICO. DISPOSICIONES GENERALES
 
-DECRETO NÚMERO: 292
+### CAPITULO I. Disposiciones Generales
 
-POR EL QUE SE EXPIDE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO.
+###### Artículo 1°.
 
-LA HONORABLE XV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
-
-D E C R E T A:
-
-Único. Se expide la Ley de Derechos del Estado de Quintana Roo, para quedar como sigue:
-
-LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-## TÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-###### Artículo 1.
-
-La presente Ley es de orden público, observancia general y obligatoria para el Estado de Quintana Roo y tiene por objeto regular el cobro de los derechos que se causen por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta éste, en sus funciones de derecho público, a través de las Dependencias y órganos desconcentrados del Poder Ejecutivo.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
-Los derechos denominados en la Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en las citadas unidades, por el valor de dicha unidad a la fecha correspondiente.
+El presente ordenamiento es de observancia general y tiene por objeto normar las sesiones del Consejo Municipal Electoral de Jesús María en las que tome los acuerdos y resoluciones necesarias para realizar las funciones que le confiere la Constitución Política del Estado y el Código Electoral.
 
 ###### Artículo 2.
 
 La Hacienda Pública del Estado de Quintana Roo, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a cargo del Gobierno Estatal, los ingresos por concepto de derechos, que anualmente se establezcan en la Ley de Ingresos del Estado de Quintana Roo.
 
-###### Artículo 3.
+###### Artículo 3°.
 
-Esta Ley se regirá conforme a lo dispuesto en la Ley de Ingresos del Estado de Quintana Roo que anualmente expide el Congreso del Estado y en el Código Fiscal del Estado de Quintana Roo.
+Las sesiones se llevarán a cabo en la hora, día y lugar señalados, y para que sean válidas deberán concurrir la mitad más uno de los integrantes del Consejo Municipal Electoral de Jesús María contando con la asistencia del Presidente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
+En caso de que no se reúna la mayoría a que se hace referencia, se realizará una segunda convocatoria, la que será notificada en el domicilio de los partidos políticos dentro de las veinticuatro horas siguientes, realizándose la sesión con los integrantes del Consejo Municipal que asistan, y serán válidos todos los acuerdos y resoluciones que en ella se voten.
 
-###### Artículo 4.
+###### Artículo 4°.
 
-La recaudación y administración de las contribuciones de las Dependencias establecidas en esta ley, es competencia de la Secretaría, sus órganos desconcentrados y las que autorice el Ejecutivo del Estado.
+El Consejo Municipal Electoral de Jesús María será convocado por el Presidente.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+###### Articulo 5°.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+Los representantes de los partidos políticos recibirán la convocatoria en la que se contengan los asuntos que vayan a ser tratados en cada sesión cuando menos con 24 horas de anticipación, en el domicilio que tenga registrado ante el Instituto Federal Electoral el partido político. Se exceptúa el caso que señala el Artículo 3° del presente reglamento.
 
-###### Artículo 5.
+###### Articulo 6°.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
+La convocatoria deberá contener el día, la hora y el lugar en que habrá de celebrarse la sesión, así como el orden del día de los asuntos a tratar, anexando la documentación respectiva cuando la naturaleza o confidencialidad de los mismos lo permita.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+###### Articulo 7°.
 
-###### Artículo 6.
+En cada sesión se levantará el acta en versión estenográfica correspondiente, misma que en proyecto será turnada al Consejo General del Instituto Estatal Electoral dentro de los tres días siguientes al de la clausura de la sesión que corresponda.
 
-Las contribuciones que se establecen en esta Ley se pagarán en las oficinas y medios autorizados por la Secretaría a través del SATQ, en el monto, forma y época de pago que esta misma Ley y las demás leyes aplicables en la materia dispongan.
+###### Artículo 8°.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
+Dentro de la sesión el Presidente del Consejo tendrá las siguientes facultades:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+a).- Declarar instalada y clausurada la sesión, al como decretar los recesos que se requieran;
 
-Las Dependencias y sus órganos desconcentrados deberán poner a disposición del público en general y mantener actualizada, en sus respectivos portales de transparencia, la información de los subsidios, estímulos, descuentos o exenciones, según sea el caso, que se otorguen en la prestación de servicios públicos a su cargo.
+b).- Presentar el proyecto de orden del día y someterlo a votación;
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
+c).- Conducir los trabajos de acuerdo al orden del día y tomar las medidas necesarias para el adecuado funcionamiento del Consejo;
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+d).- Conceder el uso de la palabra en el orden que le sea solicitada;
 
-Para hacer efectivo las exenciones o descuentos previstos en la presente Ley, se estará a lo dispuesto en las reglas de carácter general emitidas por la Secretaría.
+e).- Ordenar al Secretario someter a votación los proyectos de acuerdo o resolución;
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+f).- Mantener o llamar al orden a los asistentes a la sesión;
 
-El pago de los derechos que establece esta Ley deberá hacerse por el contribuyente previo a la prestación de los servicios o al uso, goce, explotación o aprovechamiento de bienes de dominio público del Estado.
+g).- Solicitar el apoyo de la fuerza pública o suspender las sesiones, cuando a su juicio las condiciones lo ameriten;
 
-###### Artículo 7.
+h).- Las demás que le otorgue el Código Electoral vigente y el Consejo Municipal Electoral de Jesús María.
 
-Los derechos por la prestación de los servicios que establece esta Ley deberán estar relacionados con el costo total del servicio, incluso el financiero.
+###### Artículo 9°.
 
-Cuando se concesione o autorice que la prestación de un servicio que grava esta Ley se proporcione total o parcialmente por los particulares, deberán disminuirse del cobro del derecho que se establece por el mismo en la proporción que represente el servicio concesionado o prestado por un particular respecto del servicio total.
+Dentro de las sesiones son atribuciones del Secretario las siguientes:
 
-###### Artículo 8.
+a).- Pasar lista de asistencia, llevar un registro de ella y certificar la existencia del quórum legal;
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+b).- Levantar el acta en versión estenográfica de las sesiones, sometería a aprobación de los Consejeros con derecho a voto, llevando cuenta de las observaciones que los Consejeros Ciudadanos o Consejeros Representantes de los partidos políticos realicen a dichas actas y entregar oportunamente copia de las mismas a los integrantes del Consejo;
 
-###### Artículo 9.
+c).- Tomar las votaciones y dar cuenta de las mismas;
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+d).- Dar fe de lo actuado en las sesiones; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+e).- las demás que establezca el Código Electoral vigente.
 
 ###### Artículo 10.
 
-Cuando no se cubra el pago de los derechos en los plazos previstos en la presente Ley, el monto de los mismos se actualizará conforme a lo previsto en los artículos 20 y 22 del Código Fiscal del Estado de Quintana Roo.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+la intervención de los integrantes del Consejo Municipal Electoral de Jesús María se hará de manera ordenada y por tumo, abordando exclusivamente el tema que se esté tratando, de acuerdo al orden del día o a su registro de participación en el punto de asuntos generales, en su caso.
 
 ###### Artículo 11.
 
-Para efectos de esta Ley, en singular o plural se entenderá por:
+La intervención de los miembros del Consejo Municipal Electoral de Jesús María y el Vocal representante del Instituto Federal Electoral, durante las sesiones, se sujetará a cinco minutos para tratar un punto del orden del día, pudiendo hacer uso de la voz en dos ocasiones más, de tres minutos cada una, para complementar su intervención inicial. Podrán hacer uso de su derecho de réplica para contestar alusiones personales.
 
-I. Código: Código Fiscal del Estado de Quintana Roo;
+###### Articulo 12.
 
-II. Dependencias: Las previstas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y sus órganos desconcentrados;
+En sus intervenciones los integrantes del Consejo Municipal Electoral de Jesús María, deberán de tomar en cuenta las siguientes consideraciones:
 
-III. Días: Días hábiles;
+a).- Hacer uso de la voz cuando le sea concedida por el Presidente;
 
-IV. Estado: El Estado de Quintana Roo;
+b).- Conducirse con respeto en sus intervenciones.
 
-V. Ley: Ley de Derechos del Estado de Quintana Roo;
+###### Articulo 13.
 
-VII. SATQ: Servicio de Administración Tributaria del Estado de Quintana Roo;
+De los acuerdos y resoluciones que se tomen por el Consejo Municipal Electoral de Jesús Marta, se levantará constancia, firmando al calce de la misma el Presidente y el Secretario.
 
-VII. Secretaría: Secretaría de Finanzas y Planeación, y
+Los acuerdos y resoluciones se tomarán por mayoría de votos de los Consejeros Ciudadanos presentes. En caso de empate el Presidente tendrá voto de calidad.
 
-VIII. UMA: Valor Diario de la Unidad de Medida y Actualización.
+###### Articulo 14.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
-IX. Derechos: Son las contribuciones establecidas en la Ley, por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley de Derechos del Estado de Quintana Roo. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-###### Artículo 12.
-
-Le corresponde a la Secretaría, la aplicación de esta Ley por sí o a través del SATQ, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, sin menoscabo de la interpretación que realicen los Órganos jurisdiccionales estatales o federales. A falta de disposición expresa y en cuanto no se oponga a lo que establece este ordenamiento se aplicará supletoriamente el Código Fiscal de la Federación y su Reglamento, y en su defecto las del Código de Comercio y del derecho común.
-
-Cuando los servicios que presta una Dependencia sean proporcionados por otras Dependencias, se entenderá que las disposiciones señaladas en esta Ley para aquéllos se aplicarán a éstos, así como cuando cambien de nombre los registros o padrones que conforman el servicio o la Ley que lo establece; se seguirán pagando los derechos correspondientes conforme a los preceptos que los establecen.
-
-###### Artículo 13.
-
-Las violaciones a las disposiciones establecidas en este ordenamiento serán sancionadas de conformidad con lo dispuesto en el Código.
-
-###### Artículo 14.
-
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+En caso de falta temporal del Presidente del Consejo, los. Consejeros Ciudadanos nombrarán de entre ellos mismos a quien deba sustituirlo provisionalmente.
 
 ## TÍTULO II. DE LOS DERECHOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. DE LA SECRETARÍA DE GOBIERNO
+### CAPITULO II. De Las Sesiones
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA SU DENOMINACIÓN], P.O. 18 DE DICIEMBRE DE 2019)</small>
+###### Artículo 2º.
+
+El Consejo Municipal Electoral de Jesús María celebrará sesiones ordinarias, extraordinarias y permanentes.
+
+a).- Serán sesiones ordinarias aquellas que se celebren durante el proceso electoral, el segundo jueves de cada mes a las 18:00 horas;
+
+b).- Serán sesiones extraordinarias, las que celebre el Consejo Municipal Electoral de Jesús María para la realización de sus funciones, y en éstas sólo se tratarán los asuntos para que fueron convocadas;
+
+c).- Serán sesiones permanentes las que celebre el Consejo Municipal Electoral de Jesús María para atender la jornada electoral y realizar los cómputos de cada elección.
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE GOBIERNO
 
@@ -189,63 +151,15 @@ APOSTILLAMIENTO DE DOCUMENTOS
 
 ###### Artículo 15.
 
-Por los servicios que preste la Secretaría de Gobierno, se causarán los derechos, conforme a la tarifa siguiente:
+en caso de falta temporal del Secretario; el Presidente del Consejo Municipal nombrará a uno de los Consejeros Ciudadanos para que lo sustituya Provisionalmente.
 
-CONCEPTO UMA
+EL PRESIDENTE
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
+J. Jesús García Martínez.
 
-I. Certificación de documentos
+EL SECRETARIO.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
-
-a) Apostillamiento de documentos 8.00
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2024)</small>
-
-b) Legalización de firmas 4.00
-
-II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2023)
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-III. Por examen para el ejercicio de la Función Notarial:
-
-a) Examen de oposición para obtener
-
-la Patente de Notario Público Titular 60.00
-
-b) Examen para ser Notario Suplente 60.00
-
-IV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2023)
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-V. Por la expedición de constancias notariales
-
-a) Vigencia en la función notarial 10.00
-
-b) Inexistencia de sanción por
-
-responsabilidad en la función notarial 10.00
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
-
-VI. Por análisis y calificación de documentos
-
-para nombramiento de Notario Público Auxiliar
-
-o Suplente 100.00
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
-
-VII. Por análisis y calificación de documentos
-
-de propuesta de Notario Público Auxiliar a
-
-Notario Público Titular 200.00
-
-> <small>(REFORMADA [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
+Rubén Sandoval Padilla.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE NOTARÍAS
 
@@ -977,17 +891,9 @@ Artículo. 32 Quáter. Por el servicio que otorga el Centro Estatal de Evaluaci�
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN TERCERA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO II. DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN
+### CAPITULO III. De la Convocatoria
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTRGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-APARTADO A
-
-EXPEDICIÓN DE LICENCIAS DE FUNCIONAMIENTO
-
-### CAPÍTULO III. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPITULO IV. De las Actas
 
 ###### Artículo 34.
 
@@ -2053,7 +1959,7 @@ En el caso de los Peritos Valuadores Inmobiliarios para fines fiscales que reali
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
+### CAPITULO V. De las facultades del Presidente del Consejo
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
@@ -2461,9 +2367,7 @@ Las dependencias y entidades de la administración pública paraestatal, estará
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN QUINTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO V. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPITULO VI. De las Facultades del Secretario del Consejo
 
 ###### Artículo 55.
 
@@ -2489,9 +2393,7 @@ Contratistas del Estado de Quintana Roo. 37.00
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN SEXTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VI. DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL Y PESCA
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPITULO VII. Del Desarrollo de la Sesiones
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
 
@@ -3189,9 +3091,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN NOVENA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VII. SECRETARÍA DE EDUCACIÓN
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPITULO VIII. De los Acuerdos y Resoluciones
 
 ###### Artículo 65.
 
@@ -3219,9 +3119,7 @@ IX. Verificación de animales, productos y subproductos para ingreso al Estado. 
 
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE SALUD
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+### CAPITULO IX. De las Ausencias de los Integrantes
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
 
