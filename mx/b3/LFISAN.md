@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2024-12-30"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,11 +24,11 @@ abbreviation: "LFISAN"
 
 [NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, Y SUS ANEXOS 1, 5, 6, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 30 DE DICIEMBRE DE 2024.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ENERO DE 2025 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 10 DE ENERO DE 2025.]</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -3326,7 +3326,9 @@ $ $ $ %
 
 519,038.87 667,335.21 18,537.12 15.0
 
-667,335.22 En adelante 40,718.53 17.0
+> <small>(F. DE E., D.O.F. 10 DE ENERO DE 2025)</small>
+
+667,335.22 En adelante 40,781.53 17.0
 
 Si el precio del automóvil es superior a $1,023,744.62 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $1,023,744.62
 
