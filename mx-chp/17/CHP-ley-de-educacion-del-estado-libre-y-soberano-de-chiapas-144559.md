@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-del-estado-libre-y-soberano-de-chiapas-144559"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-14"
-last_updated: "2023-04-19"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de octubre de 2020.
 
@@ -117,11 +117,21 @@ IX. Estado: A la Federación, Entidades Federativas, Ciudad de México y los mun
 
 X. Ley: A la Ley de Educación del Estado Libre y Soberano de Chiapas.
 
-XI. Secretaría: A la Secretaría de Educación del Estado Libre y Soberano de Chiapas.
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIII] P.O. 10 DE ENERO DE 2025)</small>
 
-XII. Sistema Educativo Estatal: Al conjunto de personas, autoridades educativas, instituciones y elementos educativos dedicados a la función social de la educación en el estado; el sistema de evaluación de información y gestión educativa, en los términos de las disposiciones aplicables.
+XI. Planteles educativos: A las escuelas en cuyas instalaciones se imparte educación y se establece una comunidad de aprendizaje entre alumnos y docentes, que cuenta con una estructura ocupacional autorizada por la autoridad educativa u organismo descentralizado; es la base orgánica del Sistema Educativo Nacional para la prestación del servicio público de educación básica o media superior.
 
-XIII. Planteles educativos: A las escuelas en cuyas instalaciones se imparte educación y se establece una comunidad de aprendizaje entre alumnos y docentes, que cuenta con una estructura ocupacional autorizada por la autoridad educativa u organismo descentralizado; es la base orgánica del Sistema Educativo Nacional para la prestación del servicio público de educación básica o media superior;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI]P.O. 10 DE ENERO DE 2025)</small>
+
+XII. Secretaría: A la Secretaría de Educación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2025)</small>
+
+XIII. Servicio Social: Trabajo de carácter temporal que realizan las y los estudiantes, beneficiando a la sociedad poniendo en práctica los conocimientos adquiridos en las instituciones de educación superior y media superior, el cual se entenderá también como Servicio al Pueblo.
+
+> <small>(ADICIONADA [REFORMADA Y REUBICADA ANTES FRACCIÓN XII], P.O. 10 DE ENERO DE 2025)</small>
+
+XIV. Sistema Educativo Estatal: Al conjunto de personas, autoridades educativas, instituciones y elementos educativos dedicados a la función social de la educación en el Estado; el sistema de evaluación de información y gestión educativa, en los términos de las disposiciones aplicables.
 
 Para los efectos de esta Ley y las demás disposiciones que regulan al Sistema Educativo Nacional, se entenderán como sinónimos los conceptos de educador, docente, profesor y maestro.
 
@@ -1993,9 +2003,11 @@ Las personas beneficiadas directamente por los servicios educativos de instituci
 
 La Secretaría, en coordinación con las instituciones de educación respectivas, promoverá lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+
 ###### Artículo 158.
 
-La Secretaría, en coordinación con las autoridades competentes, establecerá mecanismos para que sean consideradas como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
+La Secretaría, en coordinación con las autoridades competentes, establecerá mecanismos para que sean consideradas como prestación de servicio social, el servicio al pueblo mediante las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
 ### Capítulo IV. De la participación de los medios de comunicación
 
@@ -2298,3 +2310,11 @@ P.O. 19 DE ABRIL DE 2023.
 Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 171 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
