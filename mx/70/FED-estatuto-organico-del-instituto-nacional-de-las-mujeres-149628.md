@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-149628"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-06-01"
-last_updated: "2023-10-17"
+last_updated: "2025-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149628&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-12-04"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LAS MUJERES, PUBLICADO EN EL D.O.F. DE 10 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS MUJERES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Número 1 del Diario Oficial de la Federación, el martes 1 de junio de 2021.
 
@@ -890,3 +892,15 @@ D.O.F. 17 DE OCTUBRE DE 2023.
 Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto en este Acuerdo.
+
+D.O.F. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LAS MUJERES”.]
+
+PRIMERO. El presente Decreto entra en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto Nacional de las Mujeres, publicado el 01 de junio del 2021 en el Diario Oficial de la Federación.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto, así como los acuerdos delegatorios emitidos con anterioridad a la publicación del presente ordenamiento.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, así como las modificaciones a las atribuciones conferidas a la Secretaría, o a su estructura orgánica, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal, debiendo realizarse mediante movimientos compensados conforme a la normativa aplicable, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de la misma Secretaría.
