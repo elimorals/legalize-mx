@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-colegio-de-bachilleres-de-chiapas-83243"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-14"
-last_updated: "2011-09-14"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL COLEGIO DE BACHILLERES DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de septiembre de 2011.
 
@@ -141,7 +141,13 @@ VII. Suscribir convenios o acuerdos de colaboración interinstitucional para el 
 
 VIII. Instrumentar los mecanismos necesarios de conservación y mantenimiento de los bienes muebles e inmuebles que forman parte del patrimonio del Cobach.
 
-IX. Las demás que le otorgue esta Ley y las disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2025)</small>
+
+IX. Implementar programas y talleres extracurriculares dirigidos a la capacitación de estudiantes y personal docente en temas de alfabetización, inclusión social, formación en valores cívicos y desarrollo comunitario, con el objetivo de contribuir al bienestar social y permitir la participación activa de la comunidad educativa mediante mecanismos de acreditación académica, previa validación de las dependencias competentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2025)</small>
+
+X. Las demás que le otorgue esta Ley y las disposiciones normativas aplicables.
 
 ###### Artículo 9°.
 
@@ -259,7 +265,9 @@ V. Conocer de la creación de nuevos centros educativos autorizados por la Secre
 
 VI. Proponer al Gobernador del Estado, el nombramiento o remoción del Director General, por acuerdo de la mayoría de sus integrantes.
 
-VII. Aprobar los reglamentos, lineamientos, manuales y demás normatividad interna presentada por la Dirección General que sean necesarios para la mejor organización y funcionamiento académico y administrativo del Cobach.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2025)</small>
+
+VII. Aprobar los reglamentos, lineamientos, manuales, programas, talleres y demás normatividad interna presentada por la Dirección General que sean necesarios para la mejor organización, funcionamiento académico, administrativo y el desarrollo de actividades extracurriculares del Cobach.
 
 VIII. Analizar y aprobar en su caso, los informes que rinda el Director General.
 
@@ -333,7 +341,13 @@ XVII. Confirmar, modificar o revocar los dictámenes emitidos por los órganos a
 
 XVIII. Aplicar las sanciones que establece la presente Ley.
 
-XIX. Cumplir con todas las actividades relativas a la Dirección General, que le sean encomendadas por la Junta Directiva y las funciones que le confiere la presente Ley y demás disposiciones reglamentarias del Cobach.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2025)</small>
+
+XIX. Dirigir y coordinar los programas y talleres extracurriculares, conforme a los lineamientos, programas y normas reglamentarias aprobados por la Junta Directiva.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2025)</small>
+
+XX. Cumplir con todas las actividades relativas a la Dirección General, que le sean encomendadas por la Junta Directiva y las funciones que le confiere la presente Ley y demás disposiciones reglamentarias del Cobach.
 
 ###### Artículo 26.
 
@@ -1174,3 +1188,15 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 44, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de septiembre del año dos mil once.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 172 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL COLEGIO DE BACHILLERES DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- Las erogaciones que se pudieran generar con motivo de los programas y talleres extracurriculares dirigidos a la capacitación de estudiantes y personal docente en temas de alfabetización, inclusión social, formación en valores cívicos y desarrollo comunitario, se cubrirán con cargo al presupuesto aprobado para el Cobach, en el presente ejercicio fiscal y los subsecuentes.
