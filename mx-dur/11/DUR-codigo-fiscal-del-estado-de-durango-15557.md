@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2024-12-29"
+last_updated: "2025-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FISCAL DEL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 12 DE ENERO DE 2025.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -1279,6 +1279,8 @@ El envío de los documentos señalados en los incisos anteriores, no se consider
 
 Las autoridades fiscales sólo están obligadas a contestar las consultas sobre situaciones reales y concretas que les hagan los interesados individualmente. La autoridad quedará obligada a aplicar criterios en la contestación a la consulta de que se trate, siempre que se cumpla con lo siguiente:
 
+(ABROGADO SEGUNDO PÁRRAFO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
+
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
 
 I. Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad se pueda pronunciar al respecto.
@@ -1291,7 +1293,7 @@ II. Que los antecedentes y circunstancias que originen la consulta no se hubiere
 
 III. Que la consulta se formule antes de que la autoridad ejerza sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2024)</small>
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
 
 La autoridad no quedará vinculada por la respuesta otorgada a las consultas realizadas por los contribuyentes cuando los términos de la consulta no coincidan con la realidad de los hechos o datos consultados o se modifique la legislación aplicable.
 
@@ -1335,29 +1337,35 @@ III. Estar fundado y motivado.
 
 IV. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 29 DE DICIEMBRE DE 2024, PÁGINAS DE LA 355 A LA 356.]</small>
-
-V. ... (SIC)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2024)</small>
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
 
 En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
 
-VI. Señalar lugar y fecha de emisión, y
+V. Señalar lugar y fecha de emisión, y
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024)</small>
+(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
 
-VII. Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalaran, además, la causa legal de esta.
+VI. Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalaran, además, la causa legal de esta.
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
 
 Las disposiciones en materia de medios electrónicos, mensaje de datos y firma electrónica avanzada serán aplicables conforme a lo dispuesto en este Código y en la Ley de Firma Electrónica Avanzada para el Estado de Durango.
 
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
+
 En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
 
 Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
+
 Asimismo, la integridad y autoría del documento impreso que contenga la impresión del sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, será verificable mediante el método de remisión al documento original con la clave pública del autor.
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2024) (F. DE E., P.O. 12 DE ENERO DE 2025)
 
 La Secretaría de Finanzas y de Administración, establecerá los medios a través de los cuales se podrá comprobar la integridad y autoría del documento señalado en el párrafo anterior.
 
