@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2024-12-27"
+last_updated: "2025-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 2025.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1541,9 +1541,9 @@ XVI. Las demás atribuciones que le señale esta Constitución y la ley.
 
 El Tribunal Superior de Justicia se compondrá por el número de magistradas y magistrados que determine la ley, y será presidido por alguna o alguno de ellos, que no integrará (sic) sala, sino en los casos expresamente establecidos en la propia ley.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
 
-La Presidenta o el Presidente del Tribunal Superior de Justicia, lo será también del órgano de administración judicial; y se elegirá por el pleno del Tribunal Superior de Justicia cada tres años en la primera semana del mes de diciembre, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por la magistrada o el magistrado que designe; pero si excediere de ese término, la designación de quien se desempeñe interinamente en la presidencia la hará el pleno del Tribunal Superior de Justicia.
+La Presidencia del Tribunal Superior de Justicia se renovará cada tres años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la Presidencia a quienes alcancen mayor votación.
 
 El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con lo dispuesto en la Ley. El Pleno se integrará por la Presidenta o el Presidente del Tribunal Superior de Justicia, quien lo presidirá, y por quienes presidan cada una de sus Salas, a excepción de la Sala de Responsabilidad Juvenil.
 
@@ -1607,15 +1607,21 @@ III. El Congreso del Estado recibirá las postulaciones y remitirá los listados
 
 IV. El Organismo Público Local Electoral efectuará los cómputos de la elección, declarará la validez de la elección, publicará los resultados, entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. El Tribunal Electoral de Veracruz, resolverá las impugnaciones conforme a las leyes aplicables, antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo; dentro de los tres días hábiles siguientes, el órgano de administración judicial y el Tribunal Superior de Justicia, sesionarán para determinar las adscripciones de las candidaturas electas.
 
-Para el caso de Magistradas y Magistrados de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje el Poder Ejecutivo por conducto de la persona titular del Gobierno del Estado postulará hasta tres aspirantes; el Poder Legislativo postulará hasta tres aspirantes, mediante votación calificada de dos tercios de las Diputadas y Diputados presentes; y el Poder Judicial postulará hasta tres aspirantes previamente aprobados por la mayoría del Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
 
-Para el caso de Juezas y Jueces de Primera Instancia, los Poderes del Estado postularán hasta dos aspirantes, en los términos previstos en el párrafo anterior.
+Para las propuestas de aspirantes a Magistradas y Magistrados de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje. El Poder Ejecutivo por conducto de la persona titular del Gobierno del Estado, el Poder Legislativo y el Poder Judicial, postularán cada uno hasta tres personas por cada cargo disponible. Al efecto, el Poder Legislativo realizará para ello votación calificada de dos terceras partes de las Diputadas y Diputados presentes y el Poder Judicial mediante la aprobación de la mayoría del Pleno del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+
+Para las propuestas de aspirantes de Juezas y Jueces de Primera Instancia, los Poderes del Estado postularán hasta dos aspirantes por cada cargo disponible, en los términos previstos en el párrafo anterior.
 
 Para lo establecido en los dos párrafos que anteceden, se observarán los principios de paridad de género sustantiva establecidos en esta Constitución.
 
 El Congreso del Estado incorporará en los listados que remita al Organismo Público Local Electoral, a las personas que se encuentran en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso.
 
-La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Organismo Público Local Electoral celebre en los primeros siete días del mes de noviembre del año anterior a la elección.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+
+La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Organismo Público Local Electoral celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
 
 Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley. Podrán, además, participar en foros de debate organizados por el propio Organismo conforme a la disponibilidad presupuestal o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
 
@@ -1651,9 +1657,13 @@ El Tribunal de Disciplina Judicial será el órgano del Poder Judicial del Estad
 
 Lo anterior, mediante los procedimientos de evaluación del desempeño jurisdiccional y seguimiento de resultados, así como de responsabilidad administrativa, a través de los cuales se podrán investigar y sancionar las conductas denunciadas.
 
-El Tribunal de Disciplina Judicial se integrará por tres Magistraturas, conforme al procedimiento establecido en la ley.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
 
-Para ser elegibles Magistradas y Magistrados del Tribunal de Disciplina Judicial, las personas deberán reunir los requisitos señalados en el artículo 58 de esta Constitución y haberse distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
+El Tribunal de Disciplina Judicial se integrará por cinco Magistraturas, conforme al procedimiento establecido en la ley.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+
+Para ser elegibles Magistradas y Magistrados del Tribunal de Disciplina Judicial, las personas deberán reunir los requisitos señalados en el artículo 58 de esta Constitución y haberse distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo. Cada tres años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
 Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial ejercerán su función con independencia e imparcialidad. Durante su encargo solo podrán ser removidos en los términos del Título Quinto de esta Constitución, o por retiro forzoso.
 
@@ -1687,9 +1697,13 @@ b. Cuando la persona servidora pública no acredite favorablemente la evaluació
 
 El órgano de administración judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división en distritos judiciales, adscripción de Juezas y Jueces de Primera Instancia, competencia territorial, así como especialización por materias de los órganos jurisdiccionales del Poder Judicial; el ingreso y ascenso del personal de carrera, así como su formación, promoción y evaluación de desempeño; y las demás que establezcan las leyes.
 
-El Pleno del órgano de administración judicial estará conformado por cinco personas, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular de la Gubernatura del Estado; uno por el Congreso estatal mediante votación calificada de dos tercios de los miembros presentes; y tres representantes del Poder Judicial dos de ellos, elegidos por el Pleno del Tribunal Superior de Justicia y el tercero será quien detente la presidencia de dicho Tribunal, quien también fungirá como Presidente o Presidenta del órgano de administración judicial.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
 
-Quienes integren el Pleno del Órgano de administración judicial, durarán en su encargo seis años improrrogables, con excepción de su presidente o presidenta.
+El Pleno del Órgano de Administración Judicial se integrará por cinco personas, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular de la Gubernatura del Estado; una por el Congreso del Estado mediante votación calificada de dos terceras partes de los miembros presentes; y tres por el Pleno del Tribunal Superior de Justicia. La Presidencia del Órgano durará tres años y será rotatoria, en términos de lo que establezcan las leyes.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+
+Quienes integren el Pleno del Órgano de Administración Judicial durarán en su encargo seis años improrrogables.
 
 Las y los integrantes del órgano de administración judicial deberán ser de nacionalidad mexicana por nacimiento con residencia efectiva de cinco años en el Estado, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de libertad, ni aparecer en los padrones de personas deudoras alimentarias morosas o declaradas responsables de violencia familiar, violencia política o violencia de género.
 
@@ -4231,7 +4245,9 @@ El Congreso del Estado emitirá un acuerdo en el que, con base en los lineamient
 
 Las personas que se encuentren en funciones en los cargos señalados en los párrafos anteriores al cierre de la convocatoria que emita el Congreso del Estado serán incorporadas a los listados para participar en el Proceso Electoral Extraordinario 2024-2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que tomen protesta las personas juzgadoras que emanen en el Proceso Electoral Extraordinario 2024- 2025, conforme a las disposiciones transitorias aplicables del presente Decreto.
 
-El Congreso del Estado tendrá un plazo de diez días hábiles posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial, conforme al procedimiento previsto en el artículo 59 de la Constitución Política.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+
+El Congreso del Estado tendrá un plazo de diez días hábiles posteriores a la remisión de los informes del Tribunal Superior de Justicia y del Consejo de la Judicatura relativos a los cargos a renovar en el Proceso Electoral Extraordinario 2024-2025, para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial, conforme al procedimiento previsto en el artículo 59 de la Constitución Política. La integración y remisión final de los listados y expedientes relativos que realice el Congreso del Estado al Organismo Público Local Electoral de Veracruz deberá efectuarse a más tardar el veinte de marzo de dos mil veinticinco.
 
 Dadas las funciones que actualmente ejercen las y los titulares de los Juzgados Municipales, las cuales se traducen prácticamente en el auxilio de la actividad jurisdiccional a través de la realización de notificaciones, dichos cargos no serán contemplados como de elección popular; por tanto, los Poderes Legislativo y Judicial, deberán realizar los procesos correspondientes para la adecuación y cambio de puesto.
 
@@ -4247,7 +4263,9 @@ El Organismo Público Local Electoral efectuará los cómputos de la elección, 
 
 Para el Proceso Electoral Ordinario 2026-2027, la toma de protesta las personas aspirantes electas ante el Congreso del Estado se llevará a cabo el 1º de septiembre de 2027 ante la LXVII Legislatura.
 
-TERCERO. Las Magistradas y Magistrados del Tribunal de Disciplina Judicial que resulten electos el Proceso Electoral Extraordinario 2024-2025, durarán dos y cinco años en el cargo, por lo que su nombramiento vencerá en el dos mil veintisiete para uno de ellos; y en el dos mil treinta para los otros dos, en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quien alcance la mayor votación.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+
+TERCERO. Las Magistradas y Magistrados del Tribunal de Disciplina Judicial que resulten electos en el Proceso Electoral Extraordinario 2024-2025, durarán dos y cinco años en el cargo, por lo que su nombramiento vencerá en el dos mil veintisiete para dos de ellos, y en el dos mil treinta para los otros tres, en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quien alcance la mayor votación.
 
 CUARTO. El Consejo de la Judicatura continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el órgano de administración judicial.
 
@@ -4277,12 +4295,24 @@ Las Magistradas y Magistrados que se encuentren vigentes en el cargo al inicio d
 
 Los órganos del Poder Judicial llevarán a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tendrán un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Tesorería del Estado.
 
-OCTAVO. En virtud que se mantiene el actual esquema de designación de la Presidencia del Tribunal Superior de Justicia y del Consejo de la Judicatura; para el caso que la actual titular decida participar en el Proceso Electoral Extraordinario 2024-2025, se observará lo siguiente:
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
 
-a) De resultar electa, el plazo de su Presidencia conservará las condiciones de temporalidad vigentes; es decir, continuará activa hasta la primera semana de diciembre de dos mil veinticinco y podrá ser reelecta en los términos establecidos en la ley orgánica de la materia, con la salvedad que, en caso de ser reelecta asumirá también la Presidencia del órgano de administración judicial.
+OCTAVO. En virtud de la modificación al esquema de designación de la Presidencia del Tribunal Superior de Justicia y del Consejo de la Judicatura, se establece que la persona titular de la Presidencia concluirá su cargo el día que tomen protesta las personas que resulten electas en el Proceso Electoral Extraordinario 2024-2025.
 
-b) De no resultar electa, concluirá su Presidencia el día que tomen protesta las personas que resulten electas en el Proceso Electoral Extraordinario 2024-2025. En dicho supuesto, el Pleno del Tribunal Superior de Justicia, designará Presidencia Interina hasta la primera semana de diciembre de dos mil veinticinco, fecha en la que se llevará a cabo la elección en los términos establecidos en la ley orgánica.
+Para esta ocasión, el periodo de la Presidencia del Tribunal Superior de Justicia será de dos años, asignada a la persona que obtenga el mayor número de votos en el Proceso Electoral Extraordinario 2024-2025.
 
-Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+A partir del Proceso Electoral Ordinario 2026- 2027, la rotación establecida en el segundo párrafo del artículo 57 de esta Constitución será plenamente efectiva.
+
+La persona que ocupe la Presidencia y cuya gestión coincida con un proceso electoral ordinario o extraordinario, permanecerá en funciones hasta la toma de protesta de las nuevas magistradas y magistrados electos.
+
+Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad deberán apegarse estrictamente a su literalidad. No habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
