@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2024-05-13"
+last_updated: "2025-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2025.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -83,7 +85,7 @@ VI. Los Gobiernos y Organismos que menciona esta Ley.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Accidentes de Trabajo: Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida repentinamente en el ejercicio o con motivo del trabajo, cualquiera que sea el lugar y el tiempo en que se preste; así como aquéllos que ocurran al trabajador al trasladarse directamente de su domicilio al lugar en que desempeñe su trabajo o viceversa;
+I. (DEROGADA, P.O. 13 DE ENERO DE 2025)
 
 II. Activos Objeto de Inversión: A los Instrumentos, Valores Extranjeros, Mercancías y Operaciones con Derivados, Reportos y Préstamos de Valores;
 
@@ -91,13 +93,21 @@ II. Activos Objeto de Inversión: A los Instrumentos, Valores Extranjeros, Merca
 
 II-Bis. Alternativas de Inversión. A los activos objeto de inversión de origen bursátil o de colocación a través de instituciones financieras, y a los Proyectos Estratégicos de Inversión en el Estado promovidos ante el Instituto.
 
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+II-Ter. Año de contribución: El tiempo durante el cual la Entidad Pública Patronal le retiene al servidor público sus cuotas, y estas han sido enteradas al Instituto.
+
 III. Bancos: A las Instituciones de Crédito, así como a las Entidades Extranjeras que realicen las mismas operaciones que las Instituciones de Crédito;
 
 IV. Beneficiario: El y la cónyuge del afiliado o pensionado y, a falta de éste, la concubina o el concubinario que cumpla las condiciones establecidas en esta Ley; los descendientes del afiliado o pensionado señalados en la Ley; los hijos concebidos y no nacidos al momento del fallecimiento del pensionado o afiliado, siempre que sean viables, por tanto su derecho empezará a partir del día del nacimiento; el padre y la madre del servidor público o pensionado que vivan en el hogar de éste o dependan económicamente de él, aún sin habitar en la misma casa; y los designados en la carta testamentaria en su caso;
 
-V. Capital Constitutivo: Es el importe en dinero que debe pagar la Entidad Pública Patronal al ISSSSPEA, en cumplimiento a sus obligaciones de reintegrar lo erogado por el ISSSSPEA, por las prestaciones otorgadas al trabajador, lo cual se origina por no haber inscrito a dicho trabajador ante el Instituto o por haber informado un Salario Base de Cotización inferior al que realmente corresponde al trabajador;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-VI. Carta Testamentaria: Documento a través del cual, un servidor público o pensionado declara, ante dos testigos, su voluntad para que en el caso de su muerte, sea entregado el monto del saldo que tuviere a su favor en el fondo de ahorro del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, así como el importe que le corresponda de los Seguros de Retiro por Pensión o Defunción y Seguro de Gastos Funerarios;
+V. Capital Constitutivo: Es el importe en dinero que debe pagar la Entidad Pública Patronal al ISSSSPEA, en cumplimiento a sus obligaciones de aportación para el pago de las prestaciones que corresponden al servidor público conforme al régimen establecido en esta Ley, lo cual se origina por no haber inscrito al trabajador ante el Instituto, afiliarlo con posterioridad al ingreso efectivo al servicio, por informar un Salario Base de Cotización inferior al que realmente corresponde al trabajador, o por cualquiera otra de las causas previstas en esta Ley. También se considerará bajo este concepto a las aportaciones que deban cubrir las entidades públicas patronales en ejecución de una resolución jurisdiccional;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+VI. Carta Testamentaria: Documento a través del cual, un servidor público o pensionado declara, ante dos testigos, su voluntad para que, en el caso de su muerte, sea entregado el monto del saldo que tuviere a su favor en el Fondo de Ahorro, la Cuenta de Ahorro Individual para el Retiro, así como el importe que le corresponda de los Seguros de Retiro por Pensión o Defunción y Seguro de Gastos Funerarios;
 
 VII. Categoría, Nivel y Puesto de los Servidores Públicos, a los siguientes:
 
@@ -149,9 +159,11 @@ c) Contar con las calificaciones crediticias previstas en las presentes disposic
 
 d) El instrumento podrá requerir al inversionista únicamente la aportación del monto de inversión inicial y no deberá requerir a éste la administración ni la aportación de garantías;
 
-XXI. Incapacidad Orgánica Funcional: Es aquella minusvalía que se refiere a órganos internos que están dañados, por lo que se asocia a enfermedades que no son perceptibles;
+XXI. (DEROGADA, P.O. 13 DE ENERO DE 2025)
 
-XXII. Incapacidad permanente parcial: Es la disminución de las facultades o aptitudes de un servidor público para realizar sus actividades;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+XXII. Incapacidad permanente parcial: Es la disminución de las facultades o aptitudes de un servidor público para realizar sus actividades, incluyendo aquella minusvalía que se refiere a órganos internos que están dañados, por lo que se asocia a enfermedades que no son perceptibles;
 
 XXIII. Incapacidad permanente total: Es la pérdida de facultades o aptitudes de un servidor público que lo imposibilita para desempeñar sus actividades por el resto de su vida;
 
@@ -253,21 +265,21 @@ XLI. Las Reservas Actuariales y Financieras: Es el patrimonio constituido para c
 
 XLII. Reserva de Garantía: Se constituye de aportar el porcentaje determinado en esta Ley, sobre el monto del crédito, el cual deberá pagarse por única ocasión, para efecto de restituir el pago de los créditos declarados como irrecuperables;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-XLIII. Riesgos de trabajo: Los accidentes y enfermedades a que se encuentran expuestos los servidores públicos en el ejercicio o con motivo de su trabajo;
+XLIII. Riesgo de trabajo: Los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo del servicio, en los términos que señale la Ley Federal del Trabajo;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 XLIV. Servidor Público o Trabajador: A los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado, en el Poder Judicial del Estado, en la Administración Pública Estatal o municipal, así como a los servidores públicos de los organismos constitucionales autónomos y descentralizados estatales o municipales, y que aporte al Instituto las cuotas que en este ordenamiento se estipulan y que además serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-XLV. Subrogados Estancia de Bienestar Infantil (EBI): Es la delegación que realiza el Instituto, para que un tercero emita el servicio de Estancia Infantil a que está obligado el Instituto;
+XLV. Subrogados: Es la delegación que realiza el Instituto, para que un tercero, previo convenio, preste el servicio de Guardería y Preescolar a que está obligado el Instituto;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-XLVI. Sueldo Base de Cotización: Es el sueldo con el que la entidad afilie al Instituto a los Servidores Públicos de su adscripción, de conformidad con el tabulador de sueldos y salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente en el Estado. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones a que se refiere esta Ley;
+XLVI. Sueldo Base de Cotización: Es el sueldo con el que la entidad afilie al Instituto a los Servidores Públicos de su adscripción, de conformidad con el tabulador de sueldos y salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente mensual en el Estado. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones de seguridad social, independientemente de la norma relevante para la determinación de aquellas;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -323,9 +335,17 @@ Las controversias entre el Instituto y sus afiliados, pensionados y beneficiario
 
 Quedan excluidos de los beneficios de esta Ley:
 
-I. Los trabajadores que laboren mediante contrato por honorarios, ya sea en forma ordinaria o extraordinaria, cualquiera que sea la naturaleza de contratación; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-II. Los trabajadores cuya remuneración se cubra conjuntamente con aportaciones del Estado, la Federación, los Municipios o cualquier otra entidad, así como los que laboren en servicios en cooperación, salvo el caso de convenios especiales.
+I. Los trabajadores que laboren mediante contrato por honorarios, ya sea en forma ordinaria o extraordinaria, cualquiera que sea la naturaleza de contratación;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+II. Los trabajadores cuya remuneración se cubra conjuntamente con aportaciones del Estado, la Federación, los Municipios o cualquier otra entidad, así como los que laboren en servicios en cooperación, salvo el caso de convenios especiales; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+III. Los trabajadores que no se encuentren afiliados al Instituto o aquellos que hayan realizado el retiro de aportaciones a que se refiere el artículo 212 de la Ley.
 
 ## TÍTULO SEGUNDO. EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
@@ -439,7 +459,9 @@ El Patrimonio Inmobiliario del Instituto será de dos tipos:
 
 I. El patrimonio inmobiliario de uso institucional que el Instituto destine para fines administrativos, así como al servicio de afiliados y pensionados, el cual no podrá ser enajenado sino con autorización previa de la Junta Directiva y de acuerdo con los procedimientos previstos en la Ley de Bienes del Estado de Aguascalientes; y
 
-II. El patrimonio inmobiliario general que el Instituto adquiera con fines de reserva e inversión, para aprovechar en beneficio del Instituto, el crecimiento en la plusvalía, el usufructo o los beneficios generados por los mismos.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+II. El patrimonio inmobiliario general de dominio privado, que el Instituto adquiera con fines de reserva e inversión, para aprovechar a favor del Instituto los beneficios generados por los mismos.
 
 La enajenación podrá hacerse de contado o a plazo, siempre y cuando exista garantía hipotecaria en el caso de afiliados; y con garantía hipotecaria y reserva de dominio cuando se trate de venta a terceros.
 
@@ -473,6 +495,10 @@ Si en algún momento los recursos del Instituto no fueren suficientes para cumpl
 
 La constitución, inversión y manejo de las reservas financieras y actuariales del Instituto, serán presentadas en el presupuesto anual para aprobación de la Junta Directiva, las cuales se sujetarán a lo que la misma disponga y de manera congruente con la valuación actuarial.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+El Instituto constituirá sus reservas para el cumplimiento de obligaciones futuras con los remanentes que se generen después de cubrir las prestaciones establecidas en el artículo 50 de esta ley, así como los gastos de administración del Instituto, conforme a las previsiones del presupuesto anual de egresos aprobado por la Junta Directiva.
+
 ###### Artículo 19.
 
 En el tercer trimestre de cada año se elaborará el programa anual para la constitución de las reservas de cada uno de los servicios y prestaciones a cargo del Instituto, así como el programa de inversión y manejo de las reservas financieras y actuariales.
@@ -485,7 +511,9 @@ Para el cálculo de las aportaciones y para el pago de las pensiones correspondi
 
 En febrero de cada año se deberá elaborar la valuación actuarial del régimen de pensiones, con la finalidad de comprobar su desarrollo financiero, mediante la evaluación de su prima de financiamiento, el cálculo de la reserva para pensiones y la previsión de los intereses provenientes de la inversión de esta reserva; los intereses habrán de aplicarse al pago de las pensiones, o bien agregarse a la reserva. Sin embargo, cuando a juicio de la Junta Directiva existan elementos objetivos que así lo determinen, la valuación actuarial podrá hacerse por periodos bianuales.
 
-Los recursos para los gastos de administración del Instituto y los otros que requieran la constitución de la reserva para las pensiones y el pago anual de las mismas, se obtendrán de las aportaciones y los rendimientos de las inversiones de esta misma reserva. Para los gastos de administración del Instituto se deberán considerar las recomendaciones de la valuación actuarial.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Los recursos para los gastos de administración del Instituto y los otros que requieran la constitución de la reserva para las pensiones y el pago anual de las mismas, se obtendrán de las aportaciones y los rendimientos de las inversiones de esta misma reserva. En ningún caso, los gastos de administración del Instituto deberán exceder el equivalente al 10% de los ingresos estimados por cuotas y aportaciones establecidas en el artículo 70 de esta ley para el respectivo ejercicio.
 
 El método de valuación para el Seguro de Retiro por Pensión o Defunción será el de Proyecciones Demográfico Financieras.
 
@@ -545,11 +573,11 @@ Para efectos de esta fracción, los Proyectos Estratégicos no podrán fracciona
 
 Asimismo, para los financiamientos directos, será necesario que el monto de la inversión a valor presente se garantice con las participaciones que correspondan al ente solicitante en términos de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 24.
 
-Los comités de Inversiones, Riesgos y de Evaluación de Proyectos Estratégicos de Inversión en el Estado establecidos en el Reglamento Interior del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, deberán vigilar que toda inversión de las reservas financieras del Instituto se realice en las mejores condiciones de mercado, seguridad, rendimiento y liquidez, procurando que la tasa promedio de interés obtenido, sea al menos igual a la tasa pasiva líder del mercado bancario aplicable al horizonte de inversión del instrumento de que se trate.
+Los comités de Inversiones, Riesgos y de Evaluación de Proyectos Estratégicos de Inversión en el Estado establecidos en el Reglamento Interior del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, deberán vigilar que toda inversión de las reservas financieras del Instituto se realice en las mejores condiciones de mercado, seguridad, rendimiento y liquidez, tomando como base el Índice Nacional de Precios al Consumidor, siempre que se garantice el valor del dinero en el tiempo y la viabilidad de los Fondos respectivos según la valuación actuarial.
 
 ###### Artículo 25.
 
@@ -641,7 +669,9 @@ II. Aprobar los programas anuales de operación, los presupuestos de ingresos, l
 
 III. Autorizar las inversiones y proyectos estratégicos de inversión en el estado del Instituto y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de las prestaciones y servicios que determina esta Ley y el cumplimiento de sus fines, basado en las valuaciones actuarial y financiera.
 
-Asimismo, la Junta Directiva, teniendo como objeto primordial buscar el beneficio de los trabajadores, aprobará las tasas de interés que se aplicarán a los diferentes tipos o modalidades de préstamos que otorgue el Instituto, las cuales invariablemente deberán ser en términos reales al menos iguales a la tasa pasiva líder del mercado bancario; de igual forma determinará la tasa a pagar de los servidores públicos en relación con el Fondo de Ahorro y con las cuentas de ahorro individuales de retiro;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Asimismo, la Junta Directiva, teniendo como objeto primordial buscar el beneficio de los trabajadores, aprobará las tasas de interés que se aplicarán a los diferentes tipos o modalidades de préstamos que otorgue el Instituto, las cuales invariablemente se deberán determinar tomando como base el Índice Nacional de Precios al Consumidor, siempre que se garantice que el costo de los préstamos mantenga el valor del dinero en el tiempo y la viabilidad de los Fondos respectivos según la valuación actuarial; de igual forma determinará la tasa a pagar a los servidores públicos en relación con el Fondo de Ahorro y con la Cuenta de Ahorro Individual para el Retiro;
 
 IV. Autorizar al Director General para que solicite a las entidades públicas patronales hagan las aportaciones extraordinarias en los casos que señala el Artículo 17 de esta Ley;
 
@@ -666,6 +696,20 @@ XII. Decidir sobre los asuntos que le someta el Director General del Instituto;
 XIII. Aprobar anualmente, a propuesta del Director General, las adecuaciones e incorporaciones a la Planeación Estratégica del Instituto; y
 
 XIV. En general, realizar todos aquellos actos y operaciones autorizados por esta Ley y los que fueran necesarios para la mejor administración y gobierno del Instituto.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+###### Artículo 30 Bis.
+
+El Instituto, previa aprobación de su Junta Directiva, podrá celebrar convenios de portabilidad con otros institutos de seguridad social o con Entidades que operen otros sistemas compatibles con el previsto en la presente ley, mediante los cuales se establezcan:
+
+I. Reglas de carácter general y equivalencias en las condiciones y requisitos para obtener una Pensión de Retiro por Edad y Antigüedad en el Servicio; y
+
+II. Mecanismos de traspaso de recursos de los Fondos.
+
+Los convenios de portabilidad establecerán el tratamiento que se dará, en su caso, a cada uno de los Fondos.
+
+Asimismo, para la celebración de dichos convenios de portabilidad, se deberá contar con dictamen de un actuario independiente en que conste la equivalencia de la portabilidad de derechos que se pretenda convenir, así como la suficiencia de las Reservas que se deban afectar para hacer frente a las obligaciones que resulten a cargo del Instituto.
 
 ###### Artículo 31.
 
@@ -729,7 +773,9 @@ XII. Recibir, custodiar y manejar los fondos y reservas de acuerdo con lo que es
 
 XIII. Establecer los mecanismos de control necesarios para un óptimo y transparente manejo de los recursos económicos a su cargo;
 
-XIV. Adoptar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+XIV. Adoptar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz, así como formular el calendario oficial del Instituto y autorizar en casos extraordinarios la suspensión de labores;
 
 XV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022)
 
@@ -751,7 +797,9 @@ XXIII. Establecer mecanismos de evaluación, que permitan destacar la eficiencia
 
 XXIV. Ejercer la facultad para que otorgue suficiencia presupuestaria a los fondos de Préstamos a Corto Plazo, Préstamos para la Adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos y Créditos Hipotecarios cuándo éstos sean insuficientes, por lo que una vez que ejerza dicha facultad lo deberá informar en la siguiente junta directiva;
 
-XXV. Asistir a las sesiones de la Junta Directiva, con voz y voto, y ejecutar sus acuerdos;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+XXV. Asistir a las sesiones de la Junta Directiva, con voz y ejecutar sus acuerdos;
 
 XXVI. Elaborar y dar seguimiento a la Planeación Estratégica del Instituto, previendo la continuidad y mejoramiento de los lineamientos y programas a largo plazo establecidos;
 
@@ -763,6 +811,10 @@ XXIX. Ejercer la facultad para que reciba la dación de pago, así como aprobar 
 
 XXX. Proponer ante la Junta Directiva, la autorización para el otorgamiento de exenciones o descuento parciales en el pago de accesorios generados por incumplimiento del pago de las Cuotas, Aportaciones y Retenciones, así como para autorizar el pago a plazos diferidos o en parcialidades del mismo concepto;
 
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+XXX Bis. Proponer ante la Junta Directiva las bases para el otorgamiento de descuentos en los intereses moratorios por incumplimiento de pago en los préstamos contraídos con el Instituto.
+
 XXXI. Designar a un Servidor Público adscrito al Instituto para efecto de otorgarle facultades para llevar acabo (sic) la realización de todo tipo de notificaciones concernientes a los asuntos del Instituto, debiendo de realizarse la notificación conforme a la Ley del Procedimiento Administrativo del Estado de Aguascalientes vigente. Y en el caso de notificaciones de actuaciones derivadas de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, se deberán realizar conforme a esta legislación; y
 
 XXXII. Todas las demás facultades y atribuciones que le confieran esta Ley y otros ordenamientos legales, así como las que le otorgue la Junta Directiva.
@@ -773,27 +825,45 @@ El Director General ejercerá las facultades y atribuciones que le confiere esta
 
 #### SECCIÓN TERCERA. Las Unidades Administrativas
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 36.
 
-El Director General de Inversiones y Riesgos, deberá reunir los siguientes requisitos:
+El Director de Inversiones y Riesgos, deberá reunir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 I. Tener estudios concluidos de licenciatura en alguna de las siguientes disciplinas: Contaduría Pública, Administración, Economía, Finanzas, Actuaría, Matemáticas o Ingeniería Industrial, Ingeniería en Negocios, Negocios Internacionales, Ingeniería en Física o Econometría; en atención a los perfiles para la designación se preferirá a aquellos que cuenten con estudios de posgrado en dichas áreas;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 II. Haber obtenido la Certificación de la Asociación Mexicana de Intermediarios Bursátiles (AMIB) teniendo acreditada por lo menos una figura 2;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 III. Tener más de 5 años de experiencia en el medio financiero bursátil, específicamente en áreas de riesgos o inversiones de sociedades de inversión, fondos de pensiones o administradoras de fondos para el retiro. La experiencia adquirida en áreas de promoción o venta de productos financieros no será tomada en cuenta;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 IV. Tener al menos 2 años de experiencia en el manejo de mercado de dinero y en el análisis de las metodologías de medición de riesgos financieros;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 V. Tener más de 2 años de experiencia en el manejo de análisis fundamental;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 VI. Tener más de 5 años de experiencia laboral en el Sistema Financiero en materia de mercados financieros;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 VII. Tener más de 2 años de experiencia en el análisis de mercados y análisis bursátil y en la planeación de procesos productivos; y
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 VIII. Haber ocupado un puesto con funciones decisorias en materia de administración de riesgos o en materia de inversiones.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 La Dirección contará con las áreas o unidades administrativas para su adecuado funcionamiento en los términos y categoría presupuestal que determine el Reglamento Interior del Instituto.
 
@@ -991,17 +1061,41 @@ Las solicitudes para la obtención de las pensiones a que se refiere esta Ley de
 
 La falta de resolución dentro del plazo señalado en el párrafo que antecede, traerá como consecuencia el reconocimiento total de los derechos reclamados a partir del día 61, en caso de resultar procedente la pensión solicitada.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 56.
 
-El derecho al cobro de la pensión, nace al momento de cumplirse los requisitos que establece esta Ley y el Instituto dicte resolución favorable.
+El derecho a obtener una pensión en cualquiera de las modalidades a que se refiere esta Ley, se origina en el momento en que se cumplen conjuntamente los siguientes requisitos:
+
+I. Se presente por escrito la solicitud ante el Instituto;
+
+II. Se acrediten los supuestos de procedencia para la pensión de que se trate, conforme a los lineamientos o disposiciones de observancia general establecidos al efecto; y
+
+III. Se obtenga resolución favorable, la que deberá ser hecha del conocimiento del interesado en los términos previstos por la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+El derecho al cobro de la pensión, será exigible, a partir de la fecha que se determine en la resolución a que se refiere la fracción III de este artículo.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 57.
 
-Para el otorgamiento y conservación de la pensión el Instituto podrá determinar la obligatoriedad del establecimiento de los medios idóneos que el mismo Instituto disponga, con la finalidad de corroborar su supervivencia o suscribir los documentos correlativos a la aceptación y trámite de la pensión.
+El Instituto verificará la supervivencia de los pensionados y sus beneficiarios cuando menos una vez al año, por cualquiera de los medios siguientes:
 
-En el caso de personas discapacitadas, el Instituto deberá realizar visita domiciliaria al peticionario, en los supuestos en que se requiera su comparecencia personal para el trámite.
+I. De forma presencial a los pensionados o beneficiarios que sean requeridos, en las oficinas del Instituto;
 
-Para los efectos de ejercer la verificación de supervivencia, el Instituto deberá realizarla en el mes de febrero de cada año.
+II. Por cualquiera de los medios tecnológicos que, en su caso, implemente el Instituto;
+
+III. En virtud de los convenios que al efecto se celebren. En este caso, el Instituto supervisará la supervivencia de manera trimestral; y
+
+IV. Ante cualquier consulado mexicano o notaría pública, remitiendo la constancia original al domicilio del Instituto, tomándose como fecha de acreditación la de recepción del documento.
+
+De no actualizarse la supervivencia mediante alguno de estos supuestos, se suspenderá el pago de las pensiones y el goce de las prestaciones a las que se tenga derecho.
+
+Cuando se haya suspendido la pensión por no acreditar la supervivencia, una vez que el pensionado cumpla con dicho requisito, se deberá reincorporar en el goce de sus derechos a más tardar en la segunda quincena más próxima a la fecha de acreditación.
+
+En caso de imposibilidad para cumplir con esta obligación y a juicio del Instituto, se podrá verificar la supervivencia en el domicilio del pensionado o beneficiario, sólo si este se localiza dentro del Estado.
+
+El Instituto en cualquier momento y por cualquier medio podrá investigar la supervivencia.
 
 ###### Artículo 58.
 
@@ -1009,11 +1103,9 @@ Es compatible la percepción de una pensión en los siguientes casos:
 
 I. Es compatible la percepción de una Pensión por Edad y Antigüedad en el Servicio o Invalidez, otorgada por el Instituto con el desempeño de un empleo, cargo o comisión remunerado en Entidades Patronales, públicas o privadas que no estén sujetas o incorporadas al régimen de esta Ley;
 
-II. La Pensión por Viudez y Orfandad es compatible con la percepción, exclusivamente, de una Pensión por Edad Avanzada o Invalidez otorgada por el Instituto, según corresponda;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
-
-II. La Pensión por Viudez y Orfandad es compatible con la percepción de la Pensión de Retiro por Edad y Antigüedad en el Servicio, así como con la Pensión e Indemnización por Invalidez, otorgadas en su caso por el Instituto, o cuando se esté desempeñando un empleo, cargo o comisión en alguna Entidad Pública Patronal y se encuentre cobrando sueldo respectivo por dicha actividad, según corresponda;
+II. La Pensión por causa de muerte es compatible con la percepción de una Pensión por Retiro por Edad y Antigüedad en el Servicio o Invalidez otorgada por el Instituto, según corresponda o cuando se esté desempeñando un empleo, cargo o comisión en alguna Entidad Pública Patronal y se encuentre cobrando sueldo respectivo por dicha actividad;
 
 III. (DEROGADA, P.O. 2 DE AGOSTO DE 2021)
 
@@ -1031,9 +1123,9 @@ VI. La percepción de una Pensión por Orfandad, es compatible con el disfrute d
 
 Es incompatible la percepción de una pensión:
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-I. Con el desempeño de cualquier cargo, empleo o comisión remunerados, en las entidades públicas patronales, a excepción de las pensiones por viudez y orfandad, por incapacidad parcial por riesgo de trabajo cuando el Área de Medicina del Trabajo dictamine que existe capacidad residual para el desempeño de su labor;
+I. Por Retiro por Edad y Antigüedad en el Servicio con el desempeño de cualquier cargo, empleo o comisión remunerados, en las Entidades Públicas Patronales;
 
 II. Por invalidez otorgada por el Instituto con el desempeño de un empleo, cargo o comisión de cualquier tipo, en entidades públicas patronales sujetas al régimen de esta Ley;
 
@@ -1043,19 +1135,17 @@ IV. Las Pensiones por Antigüedad en el servicio y Pensión de Retiro por Edad q
 
 V. El afiliado que al mismo tiempo se encuentre en los supuestos establecidos en esta Ley y reúna los requisitos para acceder a dos o más pensiones derivadas de una misma plaza, deberá optar a su elección por una sola de ellas.
 
-En ningún caso se podrán otorgar más de dos pensiones de cualquier tipo o modalidad derivadas de plazas distintas;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+En ningún caso se podrán otorgar más de dos pensiones de cualquier tipo o modalidad derivadas de plazas distintas; y
 
-VI. La Pensión por Invalidez es incompatible con cualquier otro tipo de pensión que otorgue el Instituto que se derive de la misma plaza;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+VI. La Pensión por Invalidez es incompatible con cualquier otro tipo de pensión que otorgue el Instituto que se derive de la misma plaza.
 
-VII. Es incompatible la percepción de una pensión por invalidez otorgada por el Instituto con el desempeño de un empleo, cargo o comisión de cualquier tipo, en entidades públicas patronales sujetas al régimen de esta Ley; y
+VII. (DEROGADA, P.O. 13 DE ENERO DE 2025)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
-
-VIII. Será incompatible el disfrute de dos pensiones en cualquiera de los casos previstos por la fracción IV del artículo anterior, por lo que únicamente se otorgará una de ellas, a elección del Servidor Público que acredite su derecho en términos de esta Ley.
+VIII. (DEROGADA, P.O. 13 DE ENERO DE 2025)
 
 ###### Artículo 60.
 
@@ -1079,9 +1169,19 @@ V. Si se comprueba que una persona pensionada por invalidez desempeña cualquier
 
 Cuando por causa de algún error u omisión en la información proporcionada por la Entidad Pública Patronal respectiva, el Instituto otorgue una pensión indebida, la Entidad Pública Patronal resarcirá al Instituto por el monto de los pagos indebidamente efectuados, incluyendo los recargos y actualizaciones que, en su caso, correspondan.
 
-En los casos en que, por dolo imputable a personal de la (sic) Entidades Públicas Patronales, en colusión con el pensionado, se otorgue una pensión indebida, se resarcirá al Instituto por el monto de los pagos indebidamente efectuados, incluyendo los recargos y actualizaciones que, en su caso, correspondan, de forma solidaria entre los causantes, sin perjuicio de la responsabilidad administrativa correspondiente y del ejercicio de las acciones penales que procedan.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+En los casos en que, por dolo imputable al personal de las Entidades Públicas Patronales, en colusión con el pensionado, se otorgue una pensión indebida, se resarcirá al Instituto por el monto de los pagos indebidamente efectuados, incluyendo los recargos y actualizaciones que, en su caso, correspondan, de forma solidaria entre los causantes, sin perjuicio de la responsabilidad administrativa correspondiente y del ejercicio de las acciones penales que procedan.
 
 El Instituto podrá verificar en cualquier tiempo la autenticidad de los documentos y la justificación de los hechos que hayan servido de base para conceder una pensión, para lo cual las Entidades Públicas Patronales deberán prestarle la colaboración requerida.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Cuando exista presunción de que la documentación e información sea falsa, se dará a conocer a la autoridad competente para que inicie la investigación correspondiente y emita la resolución que en derecho proceda.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+El Instituto cancelará la pensión, una vez que la autoridad competente acredite la existencia de la falsedad del documento, y dará a conocer al Ministerio Público la posible comisión de un delito.
 
 ###### Artículo 63.
 
@@ -1099,17 +1199,19 @@ Es nula toda enajenación, cesión o gravamen de las pensiones que esta Ley esta
 
 El monto de las pensiones aumentará al mismo tiempo y en la misma proporción en que aumente la UMA.
 
-Los pensionados recibirán un aguinaldo anual equivalente en días a los que pague el Gobierno del Estado a los servidores públicos en activo y gozarán, además, de la prestación de quinquenios, de acuerdo con lo siguiente:
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Los pensionados recibirán un aguinaldo anual equivalente al que resulte de dividir entre treinta el monto mensual del sueldo base de cotización conforme a la actualización correspondiente al año de pago, según lo establecido por el primer párrafo de este artículo y multiplicar dicho cociente por cuarenta; sin perjuicio de que a la suma respectiva se apliquen las deducciones que legalmente correspondan en el ámbito tributario. En el caso del aguinaldo correspondiente al primer año de pensión, este cubrirá únicamente la parte proporcional entre la asignación y la fecha de pago de tal prestación. Asimismo, los pensionados que hayan satisfecho los requisitos aplicables, gozarán de la prestación de quinquenios, de acuerdo con lo siguiente:
 
 I. Siempre y cuando hayan cotizado sobre dicha prestación; y
 
 II. Esta prestación se otorgará con base en los porcentajes en que se hubiera otorgado la pensión.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 67.
 
-En los casos en que el servidor público o ex servidor público que hubiera trabajado en forma discontinua en la misma o en diferentes entidades afiliadas al Instituto, se sumarán los períodos de trabajo hasta completar el número de años que se requiera para tener derecho a la pensión de Retiro por Edad y Antigüedad en el Servicio y dicha suma se aplicará siempre y cuando el servidor público haya laborado en forma continua cuando menos los últimos tres años.
-
-La Condición del termino de los tres años continuos, se excepciona para aquellos Servidores Públicos o ex servidores públicos que cuenten con diecisiete años o más de servicio.
+En los casos en que el servidor público o ex servidor público que hubiera trabajado en forma discontinua en la misma o en diferentes Entidades Públicas Patronales, se sumarán los períodos de trabajo hasta completar el número de años que se requiera para tener derecho a la pensión.
 
 ###### Artículo 68.
 
@@ -1151,7 +1253,9 @@ V. La política de inversión será determinada por la Junta Directiva del Insti
 
 ### CAPÍTULO II. Las Prestaciones en Particular
 
-#### SECCIÓN PRIMERA. La Atención a la Salud
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2025)</small>
+
+#### SECCIÓN PRIMERA. Atención y Bases del Servicio a la Salud
 
 ###### Artículo 71.
 
@@ -1207,11 +1311,15 @@ III. Los hijos del Servidor Público o Pensionados hasta la edad de veinticinco 
 
 Al Servidor Público que se le otorgue el carácter de pensionado deberá continuar gozando de los servicios de atención a la salud brindados por la institución que se tenga contratada para otorgar éstos y el costo de esta prestación será a cargo de la Entidad Pública Patronal de su última adscripción como Servidor Público en activo.
 
-#### SECCIÓN SEGUNDA. La Pensión o Indemnización por Riesgos de Trabajo
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+#### SECCIÓN PRIMERA BIS. Medicina del Trabajo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 75.
 
-El Área de Medicina del Trabajo del Instituto, tiene por objeto establecer medidas concretas en el renglón de salud en el trabajo, la cual tendrá, entre otras, las siguientes funciones:
+La Dirección de Prestaciones, Afiliación y Medicina, a través del área competente dentro del Instituto, establecerá las medidas concretas en el renglón de salud en el trabajo, la cual tendrá, entre otras, las siguientes funciones:
 
 I. Conocer de los Riesgos de Trabajo que se susciten en las Entidades Públicas Patronales, afiliadas al Instituto dentro de los tres días hábiles siguientes al que ocurrió el riesgo, debiendo certificar si el Servidor Público queda capacitado para continuar con su trabajo al terminar la atención médica, o emitir en su caso la opinión sobre el grado de incapacidad;
 
@@ -1249,15 +1357,39 @@ Lo anterior deberá realizarse atendiendo a los convenios de colaboración de Se
 
 Asimismo, los trabajadores afiliados deberán presentarse a exámenes subsecuentes dentro de su dependencia, para el seguimiento de su expediente, según la periodicidad que determine la Junta Directiva.
 
-#### SECCIÓN TERCERA. La Pensión de Retiro por Edad y Antigüedad en el Servicio
+#### SECCIÓN SEGUNDA. La Pensión o Indemnización por Riesgos de Trabajo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 79.
 
-Para efectos de esta Ley se adopta la tabla de enfermedades de trabajo que establece la Ley Federal del Trabajo en su Artículo 513.
+Serán considerados como riesgos de trabajo los accidentes y enfermedades profesionales a que están expuestos los servidores públicos en el ejercicio o con motivo del trabajo.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Se considera accidente de trabajo toda lesión orgánica o perturbación funcional, inmediata o posterior, la muerte o la desaparición derivada de un acto delincuencial, producida repentinamente en ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el tiempo en que se preste. Quedan incluidos en la definición anterior los accidentes que se produzcan al trasladarse el trabajador directamente de su domicilio al lugar del trabajo y de éste a aquél.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Asimismo, serán consideradas como enfermedades de trabajo todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo o en el medio en que el trabajador se vea obligado a prestar sus servicios.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Para efectos de esta Ley se adopta la tabla de enfermedades de trabajo, así como la tabla de valuaciones de incapacidades permanentes que establece la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 80.
 
-Para los efectos de esta Ley se adopta la tabla de valuaciones de incapacidades permanentes, establecida en el Artículo 514 de la Ley Federal del Trabajo.
+Los riesgos del trabajo pueden producir:
+
+I. Incapacidad temporal;
+
+II. Incapacidad permanente parcial;
+
+III. Incapacidad permanente total; y
+
+IV. Muerte.
 
 ###### Artículo 81.
 
@@ -1273,31 +1405,67 @@ IV. Los que sean resultado de un intento de suicidio o efecto de una riña en qu
 
 V. Cuando la incapacidad tenga su origen en actividades ajenas a las encomendadas al Servidor Público por la entidad de su adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 82.
 
-La Pensión o indemnización por Riesgos de Trabajo se determinara únicamente los servidores públicos afiliados, previa calificación y valoración técnica que realice el Instituto o por la instancia que esta designe para dicho fin.
+El servidor público que sufra un riesgo de trabajo, tiene derecho a las siguientes prestaciones en dinero:
 
-Para efecto de que el Instituto emita la declaratoria de pensión o indemnización de riesgo de trabajo, la entidad patronal estará obligada a dar conocer al área de medicina del trabajo del Instituto, dentro de los tres días hábiles siguientes al siniestro, y esta última ratificará o rectificará la calificación de los riesgos, así como las posibles secuelas que pudieran resultar; lo anterior mediante la evaluación de los documentos correspondientes y la valoración clínica al Servidor Público. Si el afectado se inconforma con la calificación del Instituto podrá designar un perito médico para que dictamine a su vez. En caso de desacuerdo entre las calificaciones, el Instituto propondrá al Servidor Público un perito médico, quién actuará como tercero en discordia, la cual deberá ser de notorio prestigio profesional, y quien resolverá en forma definitiva, en la inteligencia de que el dictamen de éste será inapelable y por lo tanto obligatorio para el interesado y para el Instituto.
+I. Si lo incapacita temporalmente para trabajar recibirá mientras dure dicha condición, el cien por ciento del sueldo base que estuviere recibiendo en el momento de ocurrir el riesgo de trabajo.
+
+Esta prestación será cubierta por la entidad pública patronal para la que presta los servicios, hasta que termine la incapacidad temporal o hasta que se declare una incapacidad permanente u ocurra la muerte.
+
+Dentro del término de un año, en su caso, a solicitud del servidor público o de la entidad público patronal, deberá revisarse la incapacidad temporal para determinar si ha lugar a declarar la incapacidad permanente parcial o total;
+
+II. Al declararse la incapacidad permanente total del servidor público, éste recibirá del Instituto, una pensión mensual equivalente al cien por ciento del sueldo base de cotización que tenía registrado al presentarse el riesgo de trabajo, cualquiera que sea el tiempo que hubiere estado en funciones desde a la (sic) fecha en que se declare la incapacidad; y
+
+III. Si la incapacidad declarada es permanente parcial, superior al cincuenta por ciento, se concederá al incapacitado una pensión calculada conforme a la tabla de valuación de incapacidades contenida en la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Si la valuación definitiva de la incapacidad es menor a veinte por ciento, el servidor público recibirá una indemnización equivalente a cinco anualidades de la pensión que le hubiese correspondido. Si la valuación es entre el veinte y el cincuenta por ciento, será optativo para el servidor público el obtener una pensión o pedir una indemnización equivalente a siete anualidades de la pensión que le hubiese correspondido.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+La entidad patronal estará obligada a dar a conocer el siniestro al área competente del Instituto, dentro de los tres días hábiles siguientes a su acaecimiento, en caso contrario la pensión a que hubiere lugar correrá por su cuenta.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Para efecto de que el Instituto emita la resolución de pensión o indemnización por riesgo de trabajo, será necesaria la calificación y valoración técnica sobre las afectaciones y las posibles secuelas que sufra el servidor público.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+En caso de que la calificación del riesgo de trabajo se realice por una instancia diversa, en virtud de los convenios celebrados, el Instituto deberá ratificar o rectificar la calificación, así como las posibles secuelas que pudieran resultar; lo anterior mediante la evaluación de los documentos correspondientes y la valoración clínica al Servidor Público.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Si el afectado se inconforma con la calificación, podrá designar un perito médico para que dictamine a su vez. En caso de desacuerdo entre las calificaciones, el Instituto propondrá al Servidor Público un perito médico, quién actuará como tercero en discordia, la cual deberá ser de notorio prestigio profesional, y quien resolverá en forma definitiva, en la inteligencia de que el dictamen de este será inapelable y por lo tanto obligatorio para el interesado y para el Instituto.
 
 ###### Artículo 83.
 
 En el supuesto de que el afiliado haya sufrido un Riesgo de Trabajo o Invalidez por Enfermedad General y tuviere que someterse a una nueva evaluación para determinar las secuelas derivadas del riesgo o bien se tuviera que someter a una intervención quirúrgica y éste se rehusare a hacerlo, el afiliado perderá automáticamente el derecho a las prestaciones que otorga el Instituto, por ser una consecuencia imputable a su causa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 84.
 
-Independientemente de las prestaciones a que se refiere el Artículo 72 Fracción I de esta Ley, el Servidor Público tendrá derecho a una incapacidad, cuando el Riesgo de Trabajo le impida continuar laborando.
+Al declararse la incapacidad permanente, sea parcial o total, se concederá al servidor público la pensión que corresponda con carácter provisional, hasta por un período de dos años.
 
-El pago del párrafo anterior se hará desde el primer día de incapacidad y será cubierto por la entidad de adscripción del Servidor Público, hasta que termine la incapacidad cuando ésta sea temporal o bien hasta que se declare la incapacidad permanente del Servidor Público. El plazo máximo para determinar si el Servidor Público está apto para volver al servicio o bien procede declarar su Incapacidad Permanente será de un año, contando a partir de la fecha en que ocurrió el riesgo y se haya dado el aviso correspondiente al Instituto.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Durante ese período el servidor público o el Instituto podrán solicitar la revisión de la incapacidad, con el fin de modificar, en su caso, la cuantía de la pensión. Cuando la pensión sea definitiva, su revisión sólo podrá hacerse una vez al año, salvo cuando se pruebe un cambio sustancial en las circunstancias de la incapacidad.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Cuando se reúnan dos o más incapacidades permanentes parciales, el servidor público o sus beneficiarios, no tendrán derecho a recibir una pensión mayor de la que hubiese correspondido por incapacidad permanente total.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 85.
 
-Al ser declarada una Incapacidad Permanente Parcial, se concederá al incapacitado una pensión calculada conforme a la tabla establecida en el Artículo 514 de la Ley Federal del Trabajo atendiendo al Sueldo Base de Cotización que percibía el Servidor Público al ocurrir el riesgo y los aumentos posteriores que correspondan al empleo que desempeñaba hasta determinarse la pensión. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecido en la Tabla de Valuación mencionada, teniendo en cuenta la edad del Servidor Público y la importancia de la incapacidad, según que sea absoluta para el ejercicio de su profesión u oficio, aun cuando quede habilitado para dedicarse a otros o si solamente hubiera disminuido la aptitud para su desempeño.
+Al ser declarada una Incapacidad Permanente Parcial, se concederá al incapacitado una pensión calculada conforme a la tabla establecida en la Ley Federal del Trabajo atendiendo al Sueldo Base de Cotización que percibía el Servidor Público al ocurrir el riesgo.
 
-La suma de dos o más incapacidades permanentes parciales no excederá, para efectos de pensión, del cien por ciento del Sueldo Base de Cotización mayor sobre el cual se calcularon.
-
-Si la incapacidad orgánica funcional del Servidor Público fuera de hasta el veinte por ciento, se pagará en sustitución de la pensión una indemnización equivalente al importe de siete anualidades de la misma.
-
-Si la incapacidad orgánica funcional del servidor público resulta superior al veinte por ciento y hasta un cincuenta por ciento, el Servidor Público podrá optar por recibir la indemnización total y definitiva a que se refiere el párrafo anterior.
+El porcentaje de la incapacidad se fijará entre el máximo y el mínimo establecido en la Tabla de Valuación mencionada en el párrafo anterior, teniendo en cuenta la edad del Servidor Público y la clase de la incapacidad, según que sea absoluta para el ejercicio de su profesión u oficio, aun cuando quede habilitado para dedicarse a otros o si solamente hubiera disminuido la aptitud para su desempeño.
 
 ###### Artículo 86.
 
@@ -1309,19 +1477,29 @@ Al declararse una Incapacidad Permanente Parcial o Total se concederá la pensi�
 
 El Servidor Público Incapacitado está obligado en todo tiempo a someterse a los reconocimientos, tratamientos y demás exámenes médicos que determinen el Instituto y la institución médica que preste los servicios.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 88.
 
-Cuando el Servidor Público fallezca como consecuencia de un Riesgo de Trabajo, sus beneficiarios gozarán de una pensión equivalente al cien por ciento del sueldo base de cotización que hubiera percibido el Servidor Público en el momento de ocurrir el fallecimiento.
+Si el riesgo de trabajo trae como consecuencia la muerte del servidor público, sus beneficiarios recibirán una pensión equivalente al cien por ciento del sueldo base de cotización del servidor público a la fecha de su fallecimiento.
 
-Para los efectos del cálculo de la pensión se estará a lo dispuesto por esta Ley.
+El importe de la pensión se distribuirá por partes iguales entre los siguientes beneficiarios:
 
-Asimismo, los familiares beneficiarios del pensionado por las condiciones que establece éste Capítulo, tienen derecho a una pensión equivalente al cien por ciento del importe de la pensión que venía disfrutando el pensionado.
+I. El cónyuge supérstite, solo o en concurrencia con los hijos del servidor público que cumplan lo consignado en la fracción III del presente artículo;
+
+II. La concubina o concubinario, solo o en concurrencia con los hijos del servidor público que cumplan lo consignado en la fracción III del presente artículo; y
+
+III. Los hijos si no han contraído matrimonio hasta los dieciocho años o hasta los veinticinco años si estudian en instituciones de nivel medio superior o superior reconocidas oficialmente; a los hijos que se encuentren totalmente incapacitados, se les otorgará la pensión en tanto subsista la incapacidad, de conformidad con el dictamen médico correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 89.
 
-El importe de las pensiones descritas en la presente Ley se distribuirá entre los dependientes económicos del Servidor Público, de la siguiente manera:
+El importe de las pensiones descritas en la presente Ley se distribuirá entre los dependientes económicos del Servidor Público o pensionado fallecidos, de la siguiente manera:
 
-I. La cónyuge o el cónyuge supérstite, solos o en concurrencia con los hijos, siempre que no haya contraído nuevas nupcias;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+I. La cónyuge o el cónyuge supérstite, solos o en concurrencia con los hijos que cumplan con la condición establecida en la fracción IV de este artículo;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1329,17 +1507,29 @@ II. A falta de la o el cónyuge supérstite, la concubina o el concubinario solo
 
 Si al morir el Servidor Público o Pensionado tuviere varias concubinas, ninguna tendrá derecho a pensión;
 
-III. La cónyuge o el cónyuge supérstite, solos o en concurrencia con los hijos, siempre que no viva en concubinato;
+III. (DEROGADA, P.O. 13 DE ENERO DE 2025)
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
 IV. Los hijos menores de dieciocho años si los hay y no hayan contraído matrimonio, o no sean menores de edad, pero estén incapacitados o imposibilitados parcial o totalmente para trabajar, o bien que tengan hasta veinticinco años previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento;
 
-V. A falta de hijos, cónyuge, concubina o concubinario, la pensión se entregará a los ascendientes directos en primer grado; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+V. A falta de hijos, cónyuge, concubina o concubinario, la pensión se entregará a los ascendientes directos en primer grado, siempre y cuando dependieran económicamente del servidor público o pensionado; y
 
 VI. Los hijos adoptivos sólo tendrán derecho a la pensión por orfandad, cuando la adopción se haya hecho por el trabajador o pensionado antes de haber cumplido cincuenta y cinco años de edad.
 
-La cantidad total a que tengan derecho los beneficiarios señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos, cuando fueran varios los beneficiarios de una pensión o alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+La cantidad total a que tengan derecho los beneficiarios señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos, cuando fueran varios los beneficiarios de una pensión. Cuando alguno de ellos perdiese el derecho, la parte correspondiente no acrecentará el porcentaje de los demás beneficiarios.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+La dependencia económica se acreditará mediante resolución judicial emitida por la autoridad competente, de acuerdo con la legislación aplicable, a excepción del cónyuge y los hijos del servidor público o del pensionado, que podrán acreditarlo mediante la presentación de la documentación que certifique el parentesco, la identidad de los comparecientes y demás que establezca el Instituto.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+También el concubinato se acreditará mediante la resolución judicial correspondiente.
 
 ###### Artículo 90.
 
@@ -1361,13 +1551,15 @@ Si el hijo pensionado llegara a los dieciocho años y no pudiera mantenerse por 
 
 Los derechos a percibir pensión por los familiares beneficiarios del Servidor Público o Pensionado se pierden por alguna de las siguientes causas:
 
-I. Llegar a la mayoría de edad los hijos del Servidor Público o Pensionado, salvo lo dispuesto por esta Ley;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-II. Porque la mujer o el varón pensionado contraigan nupcias o llegaran a vivir en concubinato.
+I. Llegar a la mayoría de edad los hijos del Servidor Público o Pensionado, salvo lo dispuesto por esta Ley; y
 
-La divorciada o divorciado no tendrá derecho a la pensión de quien haya sido su cónyuge a menos que a la muerte de la o el Servidor Público o Pensionado, le estuviera pagando pensión alimenticia por condena judicial y siempre que no exista viuda o viudo, hijos, concubina o concubino y ascendientes con derecho a la misma. Cuando la divorciada o divorciado disfrute de la pensión en los términos de este Artículo, perderá dicho derecho si contrae nuevas nupcias o si viviera en concubinato; o
+II. (DEROGADA, P.O. 13 DE ENERO DE 2025)
 
-III. Por fallecimiento. En tal caso, la parte proporcional se distribuirá entre las demás personas que tengan tal derecho.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+III. Por fallecimiento.
 
 ###### Artículo 94.
 
@@ -1393,7 +1585,7 @@ Corresponde al Instituto promover la integración y funcionamiento de las Comisi
 
 Las Entidades Públicas Patronales que no dieran cumplimiento a la integración de las Comisiones de Seguridad e Higiene o a las medidas preventivas o correctivas para la prevención de riesgos que haya determinado el Instituto, serán responsables de la pensión o indemnización que naciera a favor de cualquiera de sus Servidores Públicos como consecuencia de un riesgo de trabajo, dicha responsabilidad será determinada previo dictamen emitido por el Instituto o la instancia que éste designe y avalado por el Área de Medicina del Trabajo del Instituto.
 
-#### SECCIÓN CUARTA. La Pensión e Indemnización por Invalidez
+#### SECCIÓN TERCERA. La Pensión de Retiro por Edad y Antigüedad en el Servicio
 
 ###### Artículo 98.
 
@@ -1405,9 +1597,11 @@ El cómputo de los años de servicio se hará considerando uno sólo de los empl
 
 Toda fracción de más de seis meses de aportaciones se considerará como año completo para efectos del otorgamiento de la pensión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 100.
 
-Para el cómputo final de tiempo de cotización y servicio en cualquiera de las prestaciones que esta Ley prevé, cuando resulte una fracción que exceda de seis meses, se tomará como año completo.
+Para el cómputo final del tiempo de cotización y servicio, una vez cumplido el periodo mínimo para acceder a cualquiera de las pensiones que esta Ley prevé cuando resulte una fracción que exceda de seis meses, se tomará como año completo.
 
 No se contabilizará como período cotizado el que corresponde a:
 
@@ -1417,11 +1611,11 @@ II. Las licencias o permisos, sin goce de sueldo, que conceda el titular de la E
 
 Solamente podrá computarse como período cotizado cuando se hubieren cubierto íntegramente cuotas y aportaciones patronales y del afiliado durante el tiempo de la propia licencia o suspensión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 101.
 
-El monto de la Pensión de Retiro por Edad y Antigüedad en el servicio será igual al porcentaje del sueldo base de cotización promedio que el Servidor Público haya disfrutado durante los últimos tres años en el mismo puesto y nivel. Si el trabajador tuviere menos de tres años ocupando el mismo puesto y nivel, se calculará la media aritmética tomando en cuenta el sueldo base de los distintos puestos en los cuales haya laborado en los últimos tres años, lo anterior, en relación con los años de aportación al Instituto que establece la tabla siguiente:
+El monto de la Pensión de Retiro por Edad y Antigüedad en el servicio será igual al porcentaje del sueldo base de cotización promedio que el Servidor Público haya disfrutado durante los últimos tres años, de conformidad con la siguiente tabla:
 
 15 años de aportación 50%
 
@@ -1451,19 +1645,19 @@ El monto de la Pensión de Retiro por Edad y Antigüedad en el servicio será ig
 
 28 años de aportación 100%
 
-#### SECCIÓN QUINTA. La Pensión por Causa de Muerte
+#### SECCIÓN CUARTA. La Pensión e Indemnización por Invalidez
 
 ###### Artículo 102.
 
 Tienen derecho a la pensión por invalidez los Servidores Públicos que se inhabiliten física o mentalmente por causas ajenas al desempeño de su cargo o empleo, si hubieran cotizado al Instituto por lo menos durante ocho años.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 103.
 
-El derecho al pago de la pensión comenzará a partir de la fecha en la que el Servidor Público cause baja motivada por su invalidez y su importe se calculará aplicando, al sueldo base de cotización que percibe el servidor público, lo dispuesto en la tabla contenida en el Artículo 101 de esta Ley. Para los servidores públicos que no tengan quince años de aportaciones como mínimo, el porcentaje que se les otorgará será el siguiente:
+El derecho al pago de la pensión comenzará a partir de la fecha en la que el Servidor Público cause baja motivada por su invalidez y su importe se calculará aplicando lo dispuesto en el Artículo 101 de esta Ley. Para los servidores públicos que no tengan quince años de aportaciones como mínimo, al promedio del sueldo base de cotización que el Servidor Público haya disfrutado durante los últimos tres años, le aplicarán los siguientes porcentajes:
 
-AÑOS DE APORTACIÓN PORCENTAJE SOBRE
-
-EL SUELDO BASE
+AÑOS DE APORTACIÓN PORCENTAJE SOBRE EL SUELDO BASE
 
 DE COTIZACIÓN
 
@@ -1497,21 +1691,39 @@ I. Cuando el estado de invalidez sea consecuencia de un acto intencional del ser
 
 II. Cuando el estado de invalidez sea anterior a la fecha del alta del servidor público en el servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 107.
 
-La Pensión por Invalidez o la tramitación de la misma, se suspenderá:
+Durante la invalidez el Instituto podrá solicitar en cualquier momento la revisión de la misma, para determinar si subsiste o no tal estado y, como consecuencia si deja de otorgarse la pensión correspondiente.
 
-I. Cuando el pensionado o el solicitante esté desempeñando algún cargo o empleo remunerado, siempre que éste implique la incorporación al régimen de esta Ley; o
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
-II. En el caso de que el pensionado o solicitante se niegue injustificadamente a someterse a las investigaciones que en cualquier tiempo ordene el Instituto o se resista a someterse a los reconocimientos y tratamientos médicos.
+Cuando haya desparecido la condición determinante de la invalidez o el afectado por aquella vuelva a ser apto para el servicio, la Entidad Pública Patronal a la que aquel haya estado adscrito tendrá la obligación de restituirlo en su empleo o, en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser cuando menos de un sueldo y categoría equivalente a los que disfrutaba al acontecer la invalidez.
 
-El pago de la pensión o la tramitación de la solicitud se reanudará a partir de la fecha en que el pensionado se someta a tratamiento médico, sin que haya lugar en el primer caso, al reintegro de las prestaciones que dejó de percibir durante el tiempo que haya durado la suspensión.
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Si el Servidor Público no fuera restituido en su empleo o no se le asignará otro en los términos del párrafo anterior por causa imputable a la Entidad Pública Patronal, seguirá percibiendo el importe de la pensión, pero ésta será a cargo de la dependencia o entidad correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Si el servidor público no aceptara reingresar al servicio en tales condiciones, o bien estuviera desempeñando cualquier trabajo remunerado, que implique la incorporación al régimen de esta Ley, se dejará de pagar la pensión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 108.
 
-La Pensión por Invalidez, será revocada cuando el Servidor Público recupere su capacidad para el servicio.
+La pensión por invalidez se extingue:
 
-En tal caso, las Entidades Públicas Patronales en que hubiera prestado sus servicios, el Servidor Público tendrá la obligación de restituirlo en su empleo si de nuevo es apto para el mismo o, en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser cuando menos de un sueldo y categoría equivalente a los que disfrutaba al acontecer la invalidez.
+I. Cuando por cualquier medio el Servidor Público recupere su capacidad para el servicio;
+
+II. Cuando el pensionado esté desempeñando algún cargo o empleo remunerado, siempre que éste implique la incorporación al régimen de esta Ley; o
+
+III. En caso de que el pensionado se niegue injustificadamente a someterse a las revisiones o tratamientos médicos, que en cualquier tiempo ordene el Instituto.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+El trámite para el otorgamiento de la pensión se suspenderá en los mismos supuestos previstos en este artículo.
 
 Si el Servidor Público no fuera restituido en su empleo o no se le asignara otro en los términos del párrafo anterior por causa imputable a la Entidad Pública Patronal en que hubiera prestado sus servicios, seguirá percibiendo el importe de la pensión, pero ésta será a cargo de la dependencia o entidad correspondiente.
 
@@ -1533,7 +1745,7 @@ III. Aprobación del Área de Medicina del Trabajo dependiente del Instituto del
 
 IV. Que el servidor público cause baja definitiva del servicio.
 
-#### SECCIÓN SEXTA. El Seguro por Gastos Funerarios
+#### SECCIÓN QUINTA. La Pensión por Causa de Muerte
 
 ###### Artículo 111.
 
@@ -1557,9 +1769,11 @@ El derecho al pago de la pensión por causa de muerte se iniciará a partir del 
 
 El orden para gozar de la pensión a que se refiere el Artículo anterior, será el que se establece en el Artículo 89 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 114.
 
-Los Familiares Beneficiarios del Servidor Público fallecido, en el orden que establece el Artículo 89 de esta Ley, tienen derecho a una pensión de conformidad con la siguiente tabla y aplicando el porcentaje al último Sueldo Base de Cotización que percibía el Servidor Público:
+Los Familiares Beneficiarios del Servidor Público fallecido, en el orden que establece el Artículo 89 de esta Ley, tienen derecho a una pensión de conformidad con la siguiente tabla y aplicando el porcentaje al último sueldo base de cotización que el Servidor Público haya disfrutado:
 
 5 años de aportación 30%
 
@@ -1581,7 +1795,9 @@ Los Familiares Beneficiarios del Servidor Público fallecido, en el orden que es
 
 14 años de aportación 48%
 
-A partir de quince años de aportaciones, se estará a lo dispuesto en la Tabla del Artículo 101 de esta Ley. Estas pensiones aumentarán en el mismo momento y proporción en que aumente la UMA y tendrán derecho al pago de un aguinaldo anual equivalente a los que pague el Gobierno del Estado a los Servidores Públicos en activo.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+A partir de quince años de aportaciones, se estará a lo dispuesto en la Tabla del Artículo 101 de esta Ley. Estas pensiones aumentarán en el mismo momento y proporción en que aumente la UMA y tendrán derecho al pago de un aguinaldo anual equivalente al que resulte de dividir entre treinta el monto mensual del sueldo base de cotización conforme a la actualización correspondiente al año de pago, según lo establecido por el primer párrafo del artículo 66 de esta Ley y multiplicar dicho cociente por cuarenta; sin perjuicio de que a la suma respectiva se apliquen las deducciones que legalmente correspondan en el ámbito tributario.
 
 Los Familiares Beneficiarios del pensionado fallecido en el orden del Artículo 89 de esta Ley, tienen derecho a una pensión equivalente al cien por ciento del importe de la pensión que venía disfrutando el pensionado.
 
@@ -1629,13 +1845,13 @@ IV. Por sentencia ejecutoriada que declare que el beneficiario fue el causante d
 
 Las limitaciones que establece este artículo no regirán cuando la muerte del Servidor Público sea a consecuencia de un riesgo de trabajo, asimismo cuando al morir el Servidor Público o Pensionado la viuda compruebe haber tenido hijos con él.
 
-#### SECCIÓN SÉPTIMA. El Seguro de Retiro por Pensión o Defunción
+#### SECCIÓN SEXTA. El Seguro por Gastos Funerarios
 
 ###### Artículo 119.
 
 Cuando fallezca un Servidor Público o un Pensionado, los Beneficiarios Acreditados ante el Instituto, mediante la Carta Testamentaria respectiva, recibirán un apoyo económico para el pago de los gastos funerarios, hasta el importe de seis meses el valor de la UMA en la fecha de ocurrir el deceso, sin más trámites que la presentación del certificado de defunción y la constancia de gastos del sepelio.
 
-#### SECCIÓN OCTAVA. La Cuenta de Ahorro Individual para el Retiro
+#### SECCIÓN SÉPTIMA. El Seguro de Retiro por Pensión o Defunción
 
 ###### Artículo 120.
 
@@ -1699,11 +1915,15 @@ IV. La calidad de concubina o concubinario se demostrará con la resolución jud
 
 V. El hecho de cursar estudios con reconocimiento oficial o en planteles del Sistema Educativo Nacional, para el caso de los hijos menores de veinticinco años, se comprobará con la constancia que se expida, la cual deberá estar sellada y firmada, y haber sido expedida por la Secretaría de Educación Pública o bien por una Universidad o Institución Académica incorporada o reconocida por dicha Secretaría; y
 
-VI. Para efecto de determinar la existencia y, en su caso, la continuidad de la dependencia económica, así como cualquiera de las condiciones requeridas para el otorgamiento de servicios médicos, el Instituto podrá solicitar los documentos y practicar las investigaciones y estudios socioeconómicos que se requieran.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-Con base en las investigaciones y estudios que se realicen conforme al párrafo anterior, el Instituto podrá determinar que ha cambiado la situación de las personas y, en consecuencia, operar el alta o la baja de beneficiarios, según proceda.
+VI. Para efecto de determinar la dependencia económica es necesario contar con resolución judicial emitida por la autoridad competente, de acuerdo con la legislación aplicable, a excepción del cónyuge y los hijos del servidor público o del pensionado, que podrán acreditarlo mediante la presentación de la documentación que certifique el parentesco, la identidad de los comparecientes y demás que establezca el Instituto.
 
-#### SECCIÓN NOVENA. Los Préstamos a Corto Plazo
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+A fin de corroborar la continuidad de la dependencia económica, así como cualquiera de las condiciones requeridas para el otorgamiento de servicios médicos, el Instituto podrá solicitar los documentos que se requieran.
+
+#### SECCIÓN OCTAVA. La Cuenta de Ahorro Individual para el Retiro
 
 ###### Artículo 128.
 
@@ -1777,41 +1997,67 @@ El Régimen Financiero de las cuentas de Ahorro Individuales para el Retiro, se 
 
 El Instituto no podrá, bajo ningún concepto, retener el pago de las aportaciones acumuladas a la Cuenta de Ahorro Individual para el Retiro no cobradas por los pensionados, cuyos montos en todo momento estarán a disposición de éste, salvo lo dispuesto en el Artículo 240 de esta Ley.
 
-#### SECCIÓN DÉCIMA. El Préstamo para la Adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos
+#### SECCIÓN NOVENA. Los Préstamos a Corto Plazo
 
 ###### Artículo 138.
 
 Los Préstamos a Corto Plazo se harán a los Servidores Públicos y Pensionados conforme a las siguientes reglas:
 
-I. A quien haya cubierto al Instituto las Aportaciones al Fondo de Ahorro cuando menos durante seis meses continuos;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-II. Hasta por el importe total del Fondo de Ahorro acumulado del Servidor Público y en el caso de pensionados hasta por el importe de quince veces el valor mensual de la UMA;
+I. Se otorgarán a quienes hayan cubierto cuando menos seis meses continuos de aportaciones al fondo de ahorro;
 
-III. El monto del préstamo lo constituirán el capital y los intereses del mismo; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-IV. Que el Servidor Público cuente con la capacidad de pago necesaria.
+II. El monto del préstamo será la suma del capital, los intereses que deban causarse por todo el periodo de vigencia del préstamo y, en su caso, el seguro contratado conforme a la fracción V de este artículo;
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+III. El monto de los descuentos no deberá superar el límite máximo previsto en el artículo 141 de esta Ley, considerando todos los préstamos que se cobren simultáneamente al acreditado, a menos que este autorice un descuento mayor;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+IV. Para los servidores públicos el monto del préstamo será hasta por una cantidad igual a los recursos disponibles en el fondo de ahorro; mientras que los pensionados podrán obtener hasta un importe equivalente a veinte veces el valor de la UMA mensual;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+V. Los servidores públicos podrán solicitar un préstamo por un monto equivalente a la suma de su fondo de ahorro más dieciocho veces el valor de la UMA mensual. Para acceder a ese beneficio, el acreditado deberá otorgar garantía personal de otro servidor público o pensionado o contratar el seguro optativo correspondiente. En ambos casos, la garantía cambiaria o el seguro únicamente amparará la cantidad no garantizada con el fondo de ahorro del deudor principal;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+VI. En el caso de préstamos solicitados por pensionados, la cuantía podrá concederse hasta por el doble del valor previsto en la fracción IV, si se otorga garantía personal de otro servidor público o pensionado a satisfacción del Instituto o bien se contrata el seguro previsto en la fracción anterior; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+VII. No podrán acceder a préstamos a corto plazo los beneficiarios que hayan recibido la totalidad de los recursos del seguro de defunción, a menos que se contrate el seguro previsto en la fracción V.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 139.
 
-Los préstamos a corto plazo, se deberán otorgar conforme a las siguientes reglas:
+Solo podrán ser obligados solidarios ante el Instituto, los servidores públicos que tengan cuando menos seis meses continuos de aportación y que su fondo de ahorro disponible resulte suficiente para cumplir la obligación garantizada, además de las obligaciones de pago propias del aval si las hubiere. Si el aval es pensionado, se verificará la capacidad disponible ante el Instituto para los mismos fines.
 
-I. En el caso de los servidores públicos en activo, los prestamos podrán otorgarse hasta por el monto a que se refiere la Fracción II del Artículo anterior multiplicado por dos; y hasta por un importe equivalente a veinte veces la UMA mensual, en el caso de los pensionados;
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
 
-II. El préstamo se otorgará siempre que se otorgue garantía solidaria de otro Servidor Público o Pensionado, a fin de que entre los fondos del acreditado y el aval o avales se cubra el importe total del crédito solicitado. En este caso, el aval garantizará únicamente por la cantidad que quede descubierta de aquella autorizada al acreditado;
+Cuando el servidor público cause baja del servicio, el importe insoluto del préstamo será cubierto directamente con el fondo de ahorro. Luego se procederá a ejecutar la garantía prevista por la fracción V del artículo anterior.
 
-III. El Director General en cualquier momento podrá autorizar el otorgamiento de créditos a pensionados hasta por un importe de cien veces el valor de la UMA diaria; mientras que el Director General de Prestaciones, Afiliación y Medicina, gozará de la misma facultad, pero únicamente podrá hacerlo por un importe de sesenta y cinco veces el valor de la UMA diaria; y
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
 
-IV. Tanto el Director General como el Director General de Prestaciones, Afiliación y Medicina, podrán en cualquier tiempo dispensar el requisito de la garantía solidaria establecido en este artículo.
+Asimismo, cuando el acreditado de un préstamo fallezca, el saldo insoluto después de la aplicación del fondo de ahorro se cubrirá con los recursos del seguro de defunción, por lo que, en caso de existir garantía personal, el aval únicamente responderá de la parte insoluta después de la aplicación en ese orden.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 140.
 
-Los Servidores Públicos sólo podrán otorgar la garantía solidaria de Préstamos a Corto Plazo cuando tengan disponibilidad en su fondo de ahorro el cual servirá como garantía he (sic) dicho préstamo. Asimismo, los Pensionados podrán otorgar la garantía solidaria únicamente por el importe disponible a que se refiere la fracción II del Artículo 138, en la inteligencia de que las garantías solidarias que otorguen afectarán el monto de disponibilidad.
+Los Servidores Públicos sólo podrán otorgar la garantía solidaria de Préstamos a Corto Plazo cuando tengan disponibilidad en su fondo de ahorro el cual servirá como garantía de dicho préstamo. Asimismo, los Pensionados podrán otorgar la garantía solidaria únicamente por el importe disponible a que se refiere la fracción VI del artículo 138, en la inteligencia de que las garantías solidarias que otorguen afectarán el monto de disponibilidad.
 
 ###### Artículo 141.
 
 Los préstamos se harán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados a los demás descuentos que deban hacerse al Servidor Público o Pensionado no excedan del cincuenta por ciento de su Sueldo Base de Cotización o Pensión, salvo que éstos soliciten un descuento mayor.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+El cincuenta por ciento a que se refiere este Artículo comprenderá todos los tipos de préstamos, por lo que no podrán autorizarse préstamos cuando la suma de los abonos de todos los préstamos contratados exceda de este porcentaje, a excepción de lo dispuesto por el Artículo 166.
 
 ###### Artículo 142.
 
@@ -1819,7 +2065,9 @@ El pago de los créditos a que se refiere el artículo anterior, lo realizarán 
 
 Los pagos se efectuarán con la periodicidad que refiere la presente Ley, a la cual deberán sujetarse los Contratos y/o Títulos de Crédito que documenten las obligaciones contraídas.
 
-Al efecto, el Instituto está facultado para ordenar a la Entidad Pública Patronal respectiva la realización y entero de los descuentos a que haya lugar, sin que su monto pueda exceder del 50% del Sueldo Base de Cotización del afiliado que haya sido beneficiado con un Préstamos (sic) a Corto Plazo o de quién se hubiere responsabilizado como fiador del mismo.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Al efecto, el Instituto está facultado para ordenar a la Entidad Pública Patronal respectiva la realización y entero de los descuentos a que haya lugar para el servidor público que haya sido beneficiado con un Préstamo a Corto Plazo o de quién se hubiere responsabilizado como obligado solidario del mismo.
 
 El 50% a que se refiere este Artículo comprenderá todos los tipos de créditos, por lo que no podrán autorizarse préstamos cuando la suma de los abonos de todos los créditos contratados exceda de este porcentaje.
 
@@ -1829,11 +2077,11 @@ En los casos en que la dependencia no aplique los descuentos, los trabajadores d
 
 El plazo para el pago de los Préstamos a Corto Plazo no será mayor de treinta y seis meses.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 144.
 
-Los préstamos a los que se refieren los Artículos 138 y 139 de este ordenamiento, causarán un interés anual sobre saldos insolutos igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México el último día del mes próximo pasado, más los puntos porcentuales adicionales que hayan sido autorizados para tales efectos por la Junta Directiva en el mes de noviembre para su aplicación durante el año siguiente. La Junta Directiva determinará anualmente el porcentaje de los puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados, que se destinarán al fondo asistencial para pensionados.
+Los préstamos a los que se refieren los Artículos 138 y 139 de este ordenamiento, causarán un interés ordinario anual sobre saldos insolutos igual a la tasa resultante del promedio mensual de la inflación registrada por el Instituto Nacional de Estadística y Geografía durante los últimos tres años anteriores a la fecha del cálculo; a dicho factor se sumará media desviación estándar de dicho periodo, más los puntos porcentuales adicionales que hayan sido autorizados para tales efectos por la Junta Directiva, en el mes de noviembre para su aplicación durante el año siguiente, que en ningún caso podrán ser menores a tres punto cinco puntos porcentuales. La Junta Directiva determinará anualmente el porcentaje de los puntos adicionales a la tasa, que se destinarán al Fondo Asistencial para Pensionados.
 
 Asimismo, el otorgamiento de los préstamos otorgados con garantía solidaria, se les calculará adicionalmente un cero punto veinticinco por ciento sobre el valor del préstamo por concepto de contribución a la Reserva de Garantía.
 
@@ -1843,11 +2091,11 @@ El incumplimiento del afiliado o pensionado acreditado en el pago de primas de l
 
 El pago de capital e intereses, y en los casos que proceda la contribución la Reserva de Garantía a que se refiere el Artículo anterior, se hará en abonos quincenales iguales y consecutivos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 146.
 
-A los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México el último día del mes próximo pasado calculada en la fecha en que se incurra en mora, más los puntos porcentuales adicionales que determine la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente.
+A los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria diaria resultante de multiplicar por dos la tasa ordinaria de conformidad al artículo 144 de esta Ley, dividida entre trescientos sesenta y cinco y multiplicada por el número de días de duración de dicha mora.
 
 ###### Artículo 147.
 
@@ -1861,7 +2109,7 @@ Para el otorgamiento de Préstamos a Corto Plazo, se considera exclusivamente co
 
 En tanto los recursos destinados para los Préstamos a Corto Plazo no se destinen a su objeto, deberán invertirse por parte de la Dirección General de Inversiones y Riesgos, en aquellos Instrumentos Financieros del mercado que garanticen la transparencia para la rendición de cuentas, de conformidad con las disposiciones que para tal efecto se expidan, bajo el entendido de que cualquier rendimiento generado de dichas inversiones deberán de ir al Patrimonio del Fondo de Ahorro.
 
-#### SECCIÓN DÉCIMA PRIMERA. Los Préstamos Hipotecarios
+#### SECCIÓN DÉCIMA. El Préstamo para la Adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos
 
 ###### Artículo 149.
 
@@ -1869,9 +2117,11 @@ El Fondo de Préstamos para la adquisición de Bienes de Consumo Duradero, de Se
 
 El Fondo de Préstamos para la adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos, podrá obtener recursos adicionales del Fondo de Ahorro, para que sean invertidos en el otorgamiento de Créditos establecidos en el presente capítulo, siempre y cuando con ello no se ponga en riesgo el pago de prestaciones actuales y futuras, para tal efecto la Junta Directiva determinará anualmente los montos, la época de pago al fondo de origen, el interés a devengarse sobre los montos dispuestos.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 150.
 
-El fondo de los recursos destinados para los Préstamos para la adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos, en tanto no se destinen a su objeto, la Dirección de la Unidad de Inversiones deberá de invertirlos bajo criterios prudenciales en aquellos instrumentos financieros del mercado que garanticen la transparencia para la rendición de cuentas, de conformidad con las disposiciones normativas que para tal efecto se expidan, bajo el entendido de que cualquier rendimiento generado de dichas inversiones deberán de ir al Patrimonio del propio Fondo.
+El fondo de los recursos destinados para los Préstamos para la adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos, en tanto no se destinen a su objeto, la Dirección de Inversiones y Riesgos deberá de invertirlos bajo criterios prudenciales en aquellos instrumentos financieros del mercado que garanticen la transparencia para la rendición de cuentas, de conformidad con las disposiciones normativas que para tal efecto se expidan, bajo el entendido de que cualquier rendimiento generado de dichas inversiones deberán de ir al patrimonio del propio Fondo.
 
 ###### Artículo 151.
 
@@ -1919,25 +2169,35 @@ El pago de los créditos a que se refiere el artículo anterior, lo realizarán 
 
 Los pagos se efectuarán con la periodicidad que refiere la presente Ley, y además deberán sujetarse a los Contratos y Títulos de Crédito con que se documenten las obligaciones contraídas.
 
-Al efecto, el Instituto está facultado para ordenar a la Entidad Pública Patronal respectiva la realización y entero de los descuentos a que haya lugar, sin que su monto pueda exceder del 50% del Sueldo Base de Cotización del afiliado que haya sido beneficiado con un crédito o de quién se hubiere responsabilizado como fiador del mismo.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
-El 50% a que se refiere este Artículo comprenderá todos los tipos de créditos, por lo que no podrán autorizarse préstamos cuando la suma de los abonos de todos los créditos contratados exceda de este porcentaje.
+Al efecto, el Instituto está facultado para ordenar a la Entidad Pública Patronal respectiva la realización y entero de los descuentos a que haya lugar, sin que su monto pueda exceder del cincuenta por ciento del Sueldo Base de Cotización del servidor público o pensionado que haya sido beneficiado con un préstamo o de quién se hubiere responsabilizado como fiador del mismo, salvo que éstos soliciten un descuento mayor.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+El cincuenta por ciento a que se refiere este artículo comprenderá todos los tipos de préstamos, por lo que no podrán autorizarse nuevos cuando la suma de los abonos de todos los préstamos contratados exceda de este porcentaje, a excepción de lo dispuesto por el artículo 166.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 157.
 
-Los préstamos para la Adquisición de Bienes de Consumo Duradero, causarán un interés anual sobre saldos insolutos igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a cuatro semanas, publicada por el Banco de México el último día del mes próximo pasado, más los puntos porcentuales adicionales que hayan sido autorizados para tales efectos por la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente.
+Los préstamos para la Adquisición de Bienes de Consumo Duradero, causarán un interés anual sobre saldos insolutos igual a la tasa resultante del promedio mensual de la inflación registrada por el Instituto Nacional de Estadística y Geografía durante los últimos cuatro años anteriores a la fecha del cálculo; a dicho factor se sumará la desviación estándar de dicho periodo.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+A la tasa se sumarán los puntos porcentuales que determine la Junta Directiva, en el mes de noviembre de cada año, para su aplicación durante el año siguiente y nunca podrán ser menores a dos puntos porcentuales, pudiendo destinarse a criterio de la Junta Directiva, un porcentaje al Fondo Asistencial para Pensionados.
 
 ###### Artículo 158.
 
 Para efectos de recuperación de préstamos otorgados por el Instituto a los servidores públicos que tengan permiso sin goce de sueldo, se otorgará una tolerancia máxima de tres meses para el cargo de interés moratorio. Al término de este plazo, se deberán realizar los pagos oportunamente a fin de no considerarlo en la condición de moroso y facultar al Instituto para actuar en consecuencia.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 159.
 
-Los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por el Banco de México el último día del mes próximo pasado en la fecha en que se incurra en mora, más los puntos porcentuales adicionales que determine la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente.
+A los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria diaria, igual a la resultante de multiplicar por dos la tasa ordinaria de conformidad al artículo 157 de esta Ley, dividida entre trescientos sesenta y cinco y multiplicada por el número de días que dure la mora.
 
-#### SECCIÓN DÉCIMA SEGUNDA. Los Servicios de Guardería y Pre Escolar
+#### SECCIÓN DÉCIMA PRIMERA. Los Préstamos Hipotecarios
 
 ###### Artículo 160.
 
@@ -1959,15 +2219,23 @@ Los Servidores Públicos que hayan contribuido por un año al Instituto, podrán
 
 Los préstamos se destinarán a los siguientes fines:
 
-I. La adquisición de terreno;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-II. La adquisición o construcción total o parcial sobre bienes inmuebles propiedad del acreditado o del cónyuge en el caso de que estén casados bajo sociedad conyugal, así como de adquisición de departamento y local comercial;
+I. La adquisición de casa habitación, departamentos o terrenos para uso habitacional;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+II. La construcción total o parcial sobre bienes inmuebles propiedad del acreditado o del cónyuge en el caso de que estén casados bajo sociedad conyugal;
 
 III. Efectuar ampliación a construcción, mejoras o reparación a la vivienda del Servidor Público y Pensionado;
 
-IV. La redención de gravámenes que soporten tales inmuebles; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-V. En el caso de que el Servidor Público obtenga el tipo de préstamos señalados en las Fracciones I, II y IV, del presente artículo conjuntamente se podrá financiar el pago de Impuestos y gastos que genere la escrituración correspondiente.
+IV. La redención de gravámenes que soporten tales inmuebles, motivo de su adquisición; y
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+V. En el caso de que el Servidor Público obtenga un préstamo de los contemplados en el presente artículo, se podrá financiar el pago de Impuestos y gastos generados por la escrituración correspondiente.
 
 ###### Artículo 163.
 
@@ -2023,15 +2291,21 @@ Los descuentos que deban hacerse del sueldo neto del Servidor Público para cubr
 
 El acreditado podrá solicitar que se realice un descuento mayor al establecido en el artículo anterior, siempre y cuando acredite conjuntamente con su cónyuge ingresos adicionales, mismos que se deberán comprobar con los recibos de nómina emitidos por la entidad en la que se encuentran suscritos o, en su defecto, los ingresos adicionales que el servidor público y su cónyuge perciban los cuales deberán comprobarse con las últimas dos declaraciones anuales realizadas ante el sistema de administración tributaria.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 168.
 
-Los préstamos a los que se refiere el presente Capítulo, causarán un interés anual sobre saldos insolutos igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México el último día de los meses de Junio y Diciembre de cada año, más los puntos porcentuales adicionales que haya determinado la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente. La Junta Directiva determinará anualmente el porcentaje de los puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados, que se destinará al fondo asistencial para pensionados.
+Los préstamos a los que se refiere el presente capítulo, causarán un interés ordinario anual sobre saldos insolutos igual a la tasa resultante del promedio mensual de la inflación registrada por el Instituto Nacional de Estadística y Geografía durante los últimos diez años anteriores a la fecha del cálculo; a dicho factor se sumará la media desviación estándar de dicho periodo.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+A la tasa se sumarán los puntos porcentuales que determine la Junta Directiva, que nunca podrán ser menores a dos punto cinco, los cuales se destinarán para los gastos de administración del Fondo, del Instituto y al Fondo Asistencial para Pensionados o a los fines que determine la Junta Directiva, en los porcentajes que establezca.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 169.
 
-Durante los primeros cinco días hábiles de los meses de enero y julio de cada año, el Instituto actualizará los intereses de la tasa referida en el Artículo anterior.
+Durante los primeros quince días hábiles de noviembre de cada año, el Instituto determinará la tasa de interés ordinario de los préstamos hipotecarios, la cual estará vigente durante todo el año siguiente, salvo que por circunstancias extraordinarias deba ser modificada durante el plazo de su vigencia.
 
 ###### Artículo 170.
 
@@ -2051,11 +2325,11 @@ Si por la separación de la fuente de trabajo del Servidor Público se hace nece
 
 Asimismo, en el plazo de prórroga de pago se deberán condonar los intereses moratorios por dicho crédito.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 173.
 
-Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México en la fecha en que se incurra en mora, más los puntos porcentuales adicionales que determine la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente.
+A las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria diaria resultante de multiplicar por dos la tasa ordinaria de conformidad al artículo 168 de esta Ley, dividida entre trescientos sesenta y cinco y, multiplicada por el número de días en que se incurra en mora.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2075,9 +2349,11 @@ El incumplimiento del afiliado o pensionado acreditado en el pago de primas de l
 
 Los contratos que se celebren con los afiliados o pensionados deberán establecer las causales de rescisión anticipada que el Instituto y el acreditado convengan.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 177.
 
-El objetivo primordial del Fondo de Vivienda es el de otorgar Préstamos Hipotecarios para facilitar la adquisición, construcción, ampliación a construcción o pago de pasivos de bienes inmuebles a los Servidores Públicos y Pensionados afiliados al Instituto.
+El objetivo primordial del Fondo de Vivienda es otorgar Préstamos Hipotecarios para facilitar la adquisición o pago de pasivos derivados de la compra de bienes inmuebles a los Servidores Públicos y Pensionados afiliados al Instituto.
 
 ###### Artículo 178.
 
@@ -2085,9 +2361,17 @@ Los recursos del fondo a que se refiere el Artículo anterior, se integran con:
 
 I. Las aportaciones que deberán realizar las Entidades Públicas Patronales;
 
-II. Las aportaciones que haga el propio Instituto al fondo, según su presupuesto anual autorizado por la Junta Directiva; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
-III. Los rendimientos que se obtengan de las Inversiones de los recursos a que se refieren las Fracciones anteriores.
+II. Las aportaciones que haga el propio Instituto al fondo, según su presupuesto anual autorizado por la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+III. Los rendimientos que se obtengan de las Inversiones de los recursos a que se refieren las fracciones anteriores; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2025)</small>
+
+IV. Los rendimientos derivados de los actos celebrados en términos del último párrafo del artículo 160 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -2103,7 +2387,9 @@ I. El financiamiento de la construcción de conjuntos habitacionales para ser ad
 
 Estos financiamientos sólo se concederán por concurso y tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción;
 
-II. Para cubrir los gastos de administración, operación y vigilancia del fondo conforme a esta Ley; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+II. Para cubrir los gastos de administración, operación y vigilancia del fondo conforme a esta Ley, así como los gastos de administración del Instituto; y
 
 III. Las demás erogaciones relacionadas con su objeto.
 
@@ -2127,33 +2413,49 @@ IV. La política de inversión será determinada por la Junta Directiva del Inst
 
 V. Las aportaciones a que se refiere este artículo se harán de manera quincenal y las encargadas de la realización de las mismas serán las Entidades Públicas Patronales o en su defecto el acreditado en términos de la presente Ley.
 
-#### SECCIÓN DÉCIMA TERCERA. El Fondo de Ahorro
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+###### Artículo 181 Bis.
+
+Para el caso de los intereses ordinarios y moratorios de todos los tipos de préstamos, la tasa aplicable será aquella establecida al momento de la contratación, la cual se mantendrá fija hasta la liquidación del préstamo de que se trate.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2025)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. Los Servicios de Guardería y Preescolar
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 182.
 
-El servicio de guardería y pre escolar será otorgado por la Estancia de Bienestar Infantil y Subrogados, y tendrá por objeto brindar una adecuada atención para el bienestar y desarrollo infantil de los hijos de las Servidoras Públicas, de los hijos de los Servidores Públicos, y de los menores a cargo de aquellos Servidores Públicos que jurídicamente se les haya otorgado la tutela y la custodia de los mismos por causa de adopción o por divorcio.
+Los servicios de guardería y preescolar serán otorgados por las instituciones subrogadas previamente avaladas por el Instituto, y tendrán por objeto brindar una adecuada atención para el bienestar y desarrollo infantil de los hijos o de los menores a cargo de aquellos Servidores Públicos a los que jurídicamente se les haya otorgado la tutela o custodia de los mismos por causa de adopción o por divorcio.
 
-Tanto en el caso de las Estancias de Bienestar Infantil, como en el de las Subrogadas, el Instituto será responsable de asegurar la adecuada atención de los menores, así como de velar el pleno cumplimiento de la presente Ley y el respectivo programa de trabajo.
+El Instituto será responsable de asegurar la adecuada atención de los menores, así como de velar el pleno cumplimiento de la presente Ley y el programa de trabajo presentado por las instituciones subrogadas.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+El servicio será proporcionado a los infantes desde la edad de cuarenta y tres días, o en su defecto, desde el día siguiente al que concluya el periodo de descanso de maternidad de la mujer servidora pública, previsto en el artículo 58 bis del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
 
-Dicho servicio será proporcionado a los infantes desde la edad de cuarenta y tres días, o en su defecto, desde el día siguiente al que concluya el periodo de descanso de maternidad de la mujer servidora pública, previsto en el artículo 58 bis del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 183.
 
-Se considerarán servicios de Guardería y Pre escolar, aquellos que se imparten en la Estancia de Bienestar Infantil y Subrogados, consistentes en la guarda, custodia, aseo, alimentación y educación de los menores que asistan a ellos, con la finalidad de que sus progenitores o tutores puedan laborar dentro de su turno correspondiente, con sujeción a los horarios establecidos administrativamente por el Instituto para otorgar el servicio.
+Se considerarán servicios de Guardería y Preescolar, aquellos que se imparten en las instituciones subrogadas, consistentes en la guarda, custodia, aseo, alimentación y educación de los menores que asistan a ellos, con la finalidad de que sus progenitores o tutores puedan laborar dentro de su turno correspondiente, con sujeción a los horarios establecidos administrativamente por el Instituto para otorgar el servicio.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 184.
 
-Los Servidores Públicos para gozar de este servicio deberán cumplir con los requisitos que para tales efectos establece el presente ordenamiento y el reglamento respectivo, considerándose en todo caso que exista disponibilidad de espacio en la Estancia de Bienestar Infantil o Subrogados y sea cubierta la aportación de recursos y/o cuotas correspondientes.
+Los Servidores Públicos para gozar de este servicio deberán cumplir con los requisitos que para tales efectos establece el presente ordenamiento y el reglamento respectivo, considerándose en todo caso que exista disponibilidad de espacio en la institución subrogada y sea cubierta la aportación de recursos y/o cuotas correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 185.
 
-El programa de trabajo de la Estancia Infantil y Subrogados, deberá estar supeditado al que emita el Instituto de Educación de Aguascalientes; y la Junta Directiva del Instituto aprobará anualmente el presupuesto de operación para la prestación de estos servicios.
+El programa de trabajo de las instituciones subrogadas, deberá estar supeditado al que emita el Instituto de Educación de Aguascalientes; y la Junta Directiva del Instituto aprobará anualmente el presupuesto de operación para la prestación de estos servicios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 186.
 
-El régimen financiero de la Estancia de Bienestar Infantil y el servicio Subrogado, se sujetará a lo siguiente:
+El régimen financiero del servicio subrogado, se sujetará a lo siguiente:
 
 I. Las aportaciones para el otorgamiento de los servicios serán realizadas por las Entidades Públicas Patronales y por el trabajador usuario de la misma, las entidades aportarán el noventa por ciento del costo mensual que hubiere determinado el Instituto en el mes inmediato anterior y el servidor público aportará el diez por ciento restante, por servicio de guardería y preescolar I.
 
@@ -2163,13 +2465,17 @@ II. Para la realización de ampliaciones se deberán obtener recursos adicionale
 
 III. El Instituto creará y llevará una contabilidad de este servicio por separado, la cual será revisada por la Junta Directiva en cada una de sus sesiones ordinarias.
 
-Las Aportaciones señaladas en el presente Artículo deberán depositarse en cuentas bancarias productivas de la Estancia de Bienestar Infantil de las que se tomarán los recursos necesarios para el pago de los beneficios consignados en este Capítulo y para sus gastos de administración.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Las Aportaciones señaladas en el presente artículo deberán depositarse en cuentas bancarias productivas para los servicios subrogados de las que se tomarán los recursos necesarios para el pago de los beneficios consignados en este Capítulo y para sus gastos de administración.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 187.
 
-Los Servidores Públicos que, teniendo inscritos a los menores en la Estancia de Bienestar Infantil o Subrogados, sean dados de baja por cualquier causa de sus respectivas fuentes de trabajo, podrán gozar del espacio de la estancia correspondiente, siempre y cuando éstos absorban de manera total las cuotas y los cobros que se realice por parte de la Estancia para efecto de que se garantice la estadía del menor hasta el término del ciclo escolar correspondiente.
+Los Servidores Públicos que, teniendo inscritos a los menores en una institución subrogada, y sean dados de baja por cualquier causa de sus respectivas fuentes de trabajo, podrán gozar del espacio dentro de la Institución correspondiente, siempre y cuando éstos absorban de manera total las cuotas y los cobros que se realicen para efecto de que se garantice la estadía del menor hasta el término del ciclo escolar correspondiente.
 
-#### SECCIÓN DÉCIMA CUARTA. Los Servicios Sociales
+#### SECCIÓN DÉCIMA TERCERA. El Fondo de Ahorro
 
 ###### Artículo 188.
 
@@ -2213,7 +2519,7 @@ III. Sólo podrán egresar del fondo fideicomitido los recursos necesarios para 
 
 IV. Deberá realizarse una contabilidad particular para este fondo.
 
-#### SECCIÓN DÉCIMA QUINTA. Los Servicios que Mejoren el Nivel de Vida del Servidor Público y de su Familia
+#### SECCIÓN DÉCIMA CUARTA. Los Servicios Sociales
 
 ###### Artículo 194.
 
@@ -2235,9 +2541,7 @@ Para la elaboración de los programas y ejecución de las promociones tendientes
 
 Todas las actividades en materia de Servicios Sociales deberán ser autofinanciadas y de ninguna manera con cargo al patrimonio de los fondos fideicomitidos.
 
-#### SECCIÓN DÉCIMA SEXTA. El Fondo Asistencial para Pensionados
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+#### SECCIÓN DÉCIMA QUINTA. Los Servicios que Mejoren el Nivel de Vida del Servidor Público y de su Familia
 
 ###### Artículo 199.
 
@@ -2261,9 +2565,13 @@ El Instituto considerará en su presupuesto anual y de acuerdo con los recursos 
 
 Los servicios señalados en este capítulo deberán ser autofinanciados y de ninguna manera con cargo al patrimonio de los fondos fideicomitidos.
 
+#### SECCIÓN DÉCIMA SEXTA. El Fondo Asistencial para Pensionados
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 202.
 
-El Fondo Asistencial para Pensionados, se constituirá por el porcentaje de los puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados en concepto de intereses de los Préstamos de Corto Plazo e Hipotecarios otorgados por el Instituto, que determine la Junta Directiva en los términos de esta Ley.
+El Fondo Asistencial para Pensionados, se constituirá por los puntos adicionales a la Tasa de Interés que sean efectivamente cobrados a los Préstamos de Corto Plazo, Bienes de Consumo Duradero e Hipotecarios otorgados por el Instituto, así como por las utilidades de las gerencias, los frutos de los actos traslativos de uso sobre el patrimonio inmobiliario y los recursos derivados de la prescripción de cualquier prestación en dinero a cargo del Instituto decretada en los términos de la presente Ley.
 
 ###### Artículo 203.
 
@@ -2285,9 +2593,13 @@ III. Apoyar el desarrollo armónico socio económico de la familia de los pensio
 
 IV. Brindar a los pensionados mejores posibilidades de desarrollo personal.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
-El Instituto podrá otorgar apoyos económicos a pensionados que sean calificados en situación de vulnerabilidad, previo estudio socioeconómico que se realice por la Dirección General de Prestaciones Sociales.
+El Instituto podrá otorgar apoyos económicos a pensionados que sean calificados en situación de vulnerabilidad, previo estudio socioeconómico.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Para tales efectos, el Instituto deberá garantizar la suficiencia presupuestal del Fondo a través de las medidas que se estimen oportunas a ese fin. Salvo que el sostenimiento de apoyos económicos otorgados en términos de este artículo, ponga en riesgo la viabilidad del sistema de pensiones o concurran otras circunstancias de interés general, deberá garantizarse la progresividad del complemento económico a los pensionados que se ubiquen por debajo del umbral de ingreso previsto en las Reglas de Operación que al efecto expida la Junta Directiva.
 
 ###### Artículo 206.
 
@@ -2327,7 +2639,9 @@ Los Servidores Públicos están obligados a proporcionar al Instituto y a las En
 
 I. Los nombres de los familiares que deben disfrutar de los servicios de atención a la salud que esta Ley les concede;
 
-II. Las Cartas Testamentarias por las que designen beneficiarios de los Seguros de Gastos Funerarios, de Defunción y Fondo de Ahorro; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+II. Las Cartas Testamentarias por las que designen beneficiarios de los Seguros de Gastos Funerarios, de Defunción, Fondo de Ahorro y Cuenta de Ahorro Individual para el Retiro; y
 
 III. Los documentos e informes que se les pidan, relacionados con la aplicación de esta Ley.
 
@@ -2357,15 +2671,43 @@ Independientemente de lo anterior, rigen para las entidades públicas patronales
 
 La incorporación realizada por la Entidad Pública Patronal, con la aprobación de la Junta Directiva, es irrevocable, por lo que las aportaciones y retenciones no podrán ser materia de devolución o restitución para trabajadores en activo, ni para las Entidades Públicas Patronales. De igual forma, no serán objeto de devolución las Aportaciones Patronales al Fondo de Vivienda.
 
-Al afiliado que se separe definitivamente del servicio, sin tener derecho a pensión, se le devolverán, previa solicitud, el total de las aportaciones efectuadas por éste, sin que se incluyan las patronales, en el entendido que de ejercer este derecho automáticamente perderá todos sus derechos frente al Instituto.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Al servidor público que se separe definitivamente del servicio, sin tener derecho a pensión, se le devolverán, previa solicitud, el total de las aportaciones efectuadas por éste, sin que se incluyan las patronales, en el entendido que de ejercer esta prerrogativa automáticamente perderá todos sus derechos frente al Instituto, incluida la antigüedad generada, a excepción de la Cuenta de Ahorro Individual para el Retiro, la cual será entregada al satisfacerse los supuestos legales para tal fin.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+En el supuesto previsto en el párrafo anterior, no procederá el reintegro de las aportaciones al Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 213.
 
-Previamente a la incorporación con reconocimiento de antigüedad, se deberá realizar el pago del capital constitutivo necesario para el puntual cumplimiento de las Prestaciones de Seguridad y Servicios Sociales que este ordenamiento establece, incluyendo los gastos de administración de acuerdo a lo que señala el estudio actuarial.
+Cuando un servidor público que deba ser afiliado al régimen obligatorio no lo sea por parte de la Entidad Pública Patronal de que se trate, previamente al reconocimiento de antigüedad o incorporación con reconocimiento de antigüedad, se deberá realizar el pago del capital constitutivo, más las actualizaciones y recargos que correspondan.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+El capital constitutivo deberá contener la cuantificación de las aportaciones omitidas durante el tiempo en que el servidor público no fue afiliado, de conformidad a los porcentajes vigentes para el periodo de que se trate, para lo cual, la Entidad Pública Patronal deberá proporcionar los Sueldos Base de Cotización respectivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ENERO DE 2025)</small>
 
 El cálculo del capital constitutivo deberá considerar la aportación a la Cuenta de Ahorro Individual para el Retiro que obligatoriamente corresponda para estos efectos y que será equivalente al factor que resulte de multiplicar los años de antigüedad a reconocer, por el porcentaje establecido en el Artículo 70, Fracción I, Inciso a) y c) de esta Ley, factor que se aplicará al sueldo base de cotización anual del servidor público a la fecha de afiliación al Instituto.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+La misma regla prevista en los párrafos anteriores se aplicará para la determinación del capital derivado de la ejecución de resoluciones jurisdiccionales donde se ordene el pago de aportaciones a cargo de las Entidades Públicas Patronales.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE ENERO DE 2025)</small>
+
 No procederá la incorporación de los Servidores Públicos a que se refiere este Artículo, cuando de manera previsible, ésta pueda comprometer el equilibrio financiero del Instituto o la eficacia de los servicios que se proporcionan a los derechohabientes a que se refiere el Artículo 3° de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+###### Artículo 213
+
+Bis. En los casos donde después de haberse determinado el monto del capital constitutivo, las entidades públicas patronales sean omisas en el pago, aquellas serán las obligadas exclusivas al cumplimiento de las prestaciones de seguridad social en la proporción correspondiente al periodo no cotizado, debiendo pagarlo directamente al servidor público. Por lo tanto, en términos de lo dispuesto por el artículo 234 de esta Ley, el Instituto deberá otorgar las prestaciones que correspondan únicamente por el periodo efectivamente cotizado.
+
+La negativa al pago del capital constitutivo, por parte de la entidad pública patronal, por más de seis meses después de la notificación del cálculo, además de las responsabilidades administrativas o penales que pudieran fincarse, dará lugar a la imposición de una multa que irá de las 1000 a las 2000 UMAS diarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2379,13 +2721,19 @@ Las prestaciones y servicios se otorgarán a los afiliados por medio de los conv
 
 Los Servidores Públicos que hagan sus aportaciones al Instituto, no adquieren derecho alguno, ni individual ni colectivo, sobre el patrimonio del Instituto, sino sólo a disfrutar de las Prestaciones de Seguridad y Servicios Sociales que esta Ley concede.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 216.
 
-Cuando no se hayan hecho los descuentos a los Servidores Públicos que el Instituto hubiera requerido conforme a esta Ley, éste solicitará a las Entidades Públicas Patronales descontar hasta por un monto que sumado a los demás descuentos, no exceda del cincuenta por ciento del Sueldo Base de Cotización, a menos que el Servidor Público solicite al Instituto y obtenga éste mayores facilidades para el pago.
+Cuando no se hayan hecho los descuentos a los Servidores Públicos que el Instituto hubiera requerido conforme a esta Ley, este solicitará a las Entidades Públicas Patronales descontar hasta por un monto que, sumado a los demás descuentos, no exceda del cincuenta por ciento del Sueldo Base de Cotización a menos que el Servidor Público solicite al Instituto un descuento mayor, a excepción de lo dispuesto para los préstamos hipotecarios.
+
+En caso de que la Entidad Pública Patronal sea omisa en realizar los descuentos, será responsable solidaria al pago de los mismos.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
 
 ###### Artículo 217.
 
-Se prohíbe a las Entidades Públicas Patronales, modificar el Sueldo Base de Cotización, sin que exista cambio de forma general, en el Tabulador de Salarios establecidos en su propio presupuesto.
+Se prohíbe a las Entidades Públicas Patronales, modificar el Sueldo Base de Cotización, previsto en el Tabulador de Salarios establecido en su propio presupuesto, sin que exista cambio de forma general para todos los supuestos que se ubiquen en la misma categoría. Por lo tanto, en el caso de los porcentajes a que hace referencia el artículo 221 de esta Ley, no podrán existir variaciones respecto a un servidor público en lo individual, sino que estas, si las hubiere, deberán referirse en forma general a la clase de sujetos comprendida dentro de la misma categoría.
 
 ###### Artículo 218.
 
@@ -2411,15 +2759,47 @@ Si el afiliado causa baja del servicio sin haber concluido la quincena respectiv
 
 Corresponde a las Entidades Públicas Patronales afiliar a todos los servidores públicos que le presten sus servicios, con un sueldo base de cotización de al menos el 70%, para los trabajadores de base, y de al menos un 60%, para los trabajadores de confianza, sobre el sueldo bruto, independientemente de los conceptos que constituyen el pago de sus servicios.
 
-Las Entidades Públicas Patronales que, a partir de la vigencia de ésta Ley, no incorporen a todos sus servidores públicos o aporten en un porcentaje menor al establecido en el párrafo anterior, serán responsables del pago de las cuotas y aportaciones a que pudieran tener derecho, conforme a esta Ley, y que el Instituto no las podrá cubrir por no ser éste último el obligado. Las Entidades Públicas Patronales que hayan incorporado a sus servidores públicos al Instituto con anterioridad a la vigencia de ésta Ley, pero no desde la fecha de inicio de la prestación de sus servicios, serán responsables del pago en la proporción que les corresponda, de conformidad con los años de aportación requeridos para cada prestación.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Las Entidades Públicas Patronales que, a partir de la vigencia de esta Ley, no incorporen a todos sus servidores públicos o aporten en un porcentaje menor al establecido en el párrafo anterior, serán responsables del pago de las cuotas y aportaciones a que pudieran tener derecho, conforme a esta Ley, y que el Instituto no las podrá cubrir por no ser este último el obligado.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Las Entidades Públicas Patronales que hayan incorporado a sus servidores públicos al Instituto con anterioridad a la vigencia de esta Ley, pero no desde la fecha de inicio de la prestación de sus servicios, deberán cubrir el capital constitutivo y las sanciones a que hacen referencia los artículos 213 y 213-Bis de la Ley.
 
 ###### Artículo 222.
 
 Las Entidades Públicas Patronales deberán cubrir directamente a los afiliados las prestaciones que a éstos les correspondan, de conformidad con la presente Ley, cuando por cualquier causa imputable a aquéllas, el Instituto no deba otorgarlas.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Las obligaciones del Instituto con los servidores públicos nacen con el entero íntegro de las cuotas y aportaciones a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+El pago de las cuotas o aportaciones solo genera el derecho de exigir el cumplimiento de las prestaciones establecidas en esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Las entidades públicas patronales estarán obligadas a reintegrar el importe que hubiera pagado el Instituto por resoluciones judiciales a favor del servidor público por concepto de alguna prestación no regulada en esta ley derivada de prestaciones suplementarias que aquellas hubieren cubierto a los trabajadores.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+En caso de que el Instituto sea condenado mediante resolución judicial al pago de una obligación, se entenderá que su cumplimiento se realizará previo pago del capital constitutivo que corresponda en términos de esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Cuando derivado de una resolución, se condene al pago de cuotas y aportaciones, será directamente la autoridad jurisdiccional que haya dictado el fallo quien, en auxilio del Instituto, requerirá directamente el pago previamente determinado por el Instituto. Para ese fin, la autoridad jurisdiccional podrá emplear todos los medios de apremio a su alcance para lograr el pago de la cantidad determinada por el Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 223.
 
-El Gobierno del Estado de Aguascalientes, por conducto de sus tres Poderes, los Gobiernos de los Municipios y demás Entidades Públicas Patronales incorporadas al Instituto, en su calidad de patrones, son garantes y obligados solidarios de las obligaciones del Instituto con respecto a sus afiliados y pensionados.
+El Gobierno del Estado de Aguascalientes, por conducto de sus tres Poderes, los Gobiernos de los Municipios y demás Entidades Públicas Patronales incorporadas al Instituto, en su calidad de patrones, son garantes y obligados solidarios de las obligaciones del Instituto con respecto a sus afiliados y pensionados, cuando este no pueda cumplirlas.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+En ningún caso el Instituto será responsable solidario de las obligaciones establecidas en esta Ley a cargo de las Entidades Públicas Patronales.
 
 ###### Artículo 224.
 
@@ -2475,7 +2855,9 @@ La falta de cumplimiento en tiempo y forma de esta obligación dará lugar a las
 
 Las entidades públicas patronales incorporadas deberán notificar al Instituto, de forma escrita o por medio magnético o electrónico, en los formatos, programas y sistemas de cómputo oficiales autorizados por el Instituto, la siguiente información:
 
-I. Las altas y bajas de los trabajadores sujetos al régimen obligatorio de esta Ley. Debiendo remitir y especificar en el caso de la alta sus generales, la Clave Única de Registro Poblacional, el Registro Federal de Contribuyentes, el carácter de la relación laboral mencionando, si la calidad es de base o de confianza y, en su caso, el tipo de nombramiento, asimismo deberá especificar el sueldo base de cotización, y el número de plaza o clave presupuestal de la misma;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+
+I. Las altas y bajas de los trabajadores sujetos al régimen obligatorio de esta Ley. Debiendo remitir y especificar en el caso del alta sus generales, la Clave Única de Registro Poblacional, el Registro Federal de Contribuyentes, número de seguridad social, el carácter de la relación laboral mencionando, si la calidad es de base o de confianza y, en su caso, el tipo de nombramiento, asimismo deberá especificar el sueldo bruto, el sueldo base de cotización, y el número de plaza o clave presupuestal de la misma;
 
 II. Proporcionar, al inicio del ejercicio fiscal, los Tabuladores de Sueldos y Salarios de los afiliados que servirán de base para el cálculo de la nómina y la determinación de los sueldos base de cotización ante este Instituto;
 
@@ -2591,9 +2973,11 @@ El derecho del Servidor Público o Pensionado, y en su caso de sus beneficiarios
 
 Los créditos respecto de los cuales el Instituto tenga el carácter de acreedor, cualquiera que sea su especie, prescribirán en diez años a partir de la fecha en que el propio Instituto pueda, conforme a la Ley, ejercitar sus derechos.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2025)</small>
+
 ###### Artículo 242.
 
-Las obligaciones que en favor del Instituto señala la presente Ley a cargo de las Entidades Públicas Patronales, prescribirán en diez años a partir de la fecha en que sean exigibles. La prescripción se interrumpirá por cualquier gestión de cobro.
+Las obligaciones que en favor del Instituto señala la presente Ley a cargo de las Entidades Públicas Patronales, son imprescriptibles.
 
 ###### Artículo 243.
 
@@ -2643,9 +3027,15 @@ El presente Decreto entrará en vigor a los noventa días siguientes de su publi
 
 Una vez entrado en vigor el presente Decreto, se abroga la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de fecha 29 de enero de 2001.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ENERO DE 2025)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Para los Servidores Públicos y Trabajadores que hayan ingresado a laborar en alguna de las Entidades Públicas Patronales, previamente a la entrada en vigor de la Ley que se abroga, continuarán vigentes sus prestaciones de Pensión por Antigüedad, Vejez, Invalidez, Causa de Muerte y el Seguro de Retiro, por lo que las aportaciones que se enteren en términos del Artículo 70, fracción I de la presente Ley, servirán para el financiamiento de dichas prestaciones. Los Servidores Públicos antes señalados, así como sus beneficiarios, al momento de actualizarse los supuestos legales para el disfrute de cualquiera de las prestaciones anteriormente señaladas, podrán optar por acogerse al beneficio de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado en fecha 11 de Agosto de 1991 y sus reformas publicadas en el periódico Oficial del Estado los días 2 de enero de 1994 y 31 de diciembre de 1995 abrogada o al esquema de pensiones establecido en el presente ordenamiento legal.
+Para los Servidores Públicos y Trabajadores que hayan sido afiliados al Instituto, previamente a la entrada en vigor de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 29 de enero de 2001, continuarán vigentes los derechos relativos a las pensiones por Antigüedad, Vejez, Invalidez, Causa de Muerte y el Seguro de Retiro, por lo que las aportaciones que se enteren en términos del Artículo 70, fracción I de la presente Ley, servirán para el financiamiento de las mismas.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+Los Servidores Públicos que hayan sido afiliados al Instituto previamente a la entrada en vigor de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 29 de enero de 2001, al momento de actualizarse los supuestos legales para el disfrute de la pensión por antigüedad o vejez, podrán optar por acogerse a los beneficios establecidos en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, conforme a la última reforma publicada en el Periódico Oficial del Estado el 31 de diciembre de 1995, únicamente en lo que hace a las reglas atinentes a la edad del servidor público, el tiempo de cotización y los periodos de promedio para determinar el monto pensionario; o bien, acogerse al esquema de pensiones establecido en el presente ordenamiento legal.
 
 ###### ARTÍCULO CUARTO.
 
@@ -2774,3 +3164,41 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 92.- SE REFORMA LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo en los casos dispuestos en el siguiente Artículo Transitorio.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma al quinto párrafo del artículo 19, en materia de límites presupuestales del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, será aplicable hasta el ejercicio fiscal dos mil veintiséis.
+
+Por su parte, la reforma al ARTÍCULO TERCERO TRANSITORIO del Decreto 232 de la LXIII Legislatura del Congreso del Estado, donde se establece el derecho de opción de los servidores públicos para acogerse al régimen previsto en la norma mencionada en dicho precepto, entrará en vigor a los ciento veinte días naturales de la publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las personas que cuenten con un préstamo hipotecario activo contratado conforme a las reglas derogadas en cuanto a la tasa de interés, podrán celebrar un convenio con el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, a fin de acogerse al nuevo régimen previsto sobre dicho extremo.
+
+La Junta Directiva del Instituto acordará los beneficios que podrán otorgarse a las personas que, dentro del año siguiente a la entrada en vigor del presente Decreto, se acojan a tal beneficio, siempre que el acreditado se halle al corriente en los pagos al momento de la solicitud y permanezcan constantes las demás condiciones de la contratación original.
+
+Las tasas de interés aplicables a los préstamos vigentes bajo todas las modalidades, continuarán calculándose conforme a las normas del momento en que aquellos fueron otorgados, salvo lo dispuesto en el párrafo anterior. En caso de que la Tasa de Interés Interbancario de Equilibrio sea sustituida por una diversa unidad de cuenta, dicho factor será considerado, por ministerio de ley, como base para el cálculo respectivo.
+
+Si a la entrada en vigor del presente Decreto, la Junta Directiva del Instituto ya hubiere fijado las tasas para el siguiente ejercicio, aquellas deberán adecuarse al nuevo régimen previsto, sin perjuicio de los préstamos otorgados durante el tiempo en que las primeras permanecieron en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los menores inscritos en la Estancia del Bienestar Infantil serán atendidos en ese establecimiento hasta la finalización del ciclo escolar 2024-2025; por lo que para el siguiente periodo lectivo deberán ser inscritos en alguna de las instituciones subrogadas con las cuales el Instituto haya celebrado el convenio respectivo.
+
+Para ese propósito el Instituto, bajo la conducción de la Dirección de Prestaciones Sociales, tomará las acciones administrativas, presupuestales y contables pertinentes a fin de concretar el cambio de modalidad de atención dentro del plazo previsto; sin que por ninguna causa la atención directa de infantes en la Estancia del Bienestar Infantil se prorrogue más allá del periodo señalado en este artículo.
+
+###### ARTÍCULO QUINTO.
+
+En el plazo de ciento veinte días naturales posteriores a la entrada en vigor del presente Decreto, el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes deberá reformar sus normas reglamentarias a fin de armonizarlas con el sentido de las normas legislativas aprobadas. Hasta en tanto, continuarán vigentes los reglamentos existentes.
+
+###### ARTÍCULO SEXTO.
+
+Con la entrada en vigor del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas anteriores a esta o aquellas que se opongan.
