@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2024-07-22"
+last_updated: "2025-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -983,6 +983,38 @@ V.- Otras actividades que coadyuven a la protección de la salud.
 
 Las instituciones privadas y personas físicas que llevan a cabo actividades de beneficencia, podrán acogerse a los beneficios de esta Ley, siempre y cuando ajusten su actividad a la misma y obtengan la acreditación del Organismo para su constitución y funcionamiento, conforme a esta ley.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+ARTICULO 61 BIS.- Las instituciones privadas de asistencia social serán consideradas de interés público y tendrán los siguientes derechos:
+
+a) Recibir de parte del Organismo, la certificación de calidad de los servicios de asistencia social que ofrecen a la población, una vez cumplidos los requisitos solicitados para tales efectos;
+
+b) Acceder a los recursos públicos destinados a la asistencia social, en los términos y las modalidades que fijen las autoridades correspondientes y conforme al programa de asistencia social;
+
+c) Participar en el diseño, ejecución y evaluación de las políticas públicas en materia de asistencia social;
+
+d) Recibir asesoría técnica y administrativa por parte de la autoridad competente;
+
+e) Tener acceso al sistema nacional de información;
+
+f) Recibir donativos de personas físicas y morales, nacionales o extranjeras, de acuerdo con las leyes y ordenamientos respectivos;
+
+g) Acceder a los beneficios dirigidos a las organizaciones sociales, que se deriven de los Convenios y Tratados Internacionales, y que estén relacionados con las actividades y finalidades previstas por esta Ley, y
+
+h) Ser respetadas en el ejercicio de sus actividades, estructura y organización interna.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2025)</small>
+
+ARTICULO 61 TER.- Las instituciones privadas de asistencia social tendrán las siguientes obligaciones:
+
+a) Constituirse de acuerdo con lo estipulado en las leyes aplicables;
+
+b) Inscribirse en el Directorio Nacional de Instituciones de Asistencia Social;
+
+c) Cumplir con lo establecido en las Normas Oficiales Mexicanas que se emitan para la regulación de los servicios de asistencia social y colaborar con las tareas de supervisión que realice el Organismo; y
+
+d) Garantizar en todo momento el respeto a la dignidad y los derechos humanos de las personas, familias o comunidades que reciban sus servicios de asistencia social.
+
 ###### ARTICULO 62.
 
 El Organismo podrá, con autorización del Congreso del Estado, enajenar los bienes inmuebles de su propiedad.
@@ -1908,3 +1940,9 @@ P.O. 22 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 70.- SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
