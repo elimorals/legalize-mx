@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-infraestructura-170683"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-01-29"
-last_updated: "2024-02-06"
+last_updated: "2025-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170683&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2024-01-24"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 6 DE FEBRERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2025.
 
 Reglamento publicado en el Número 27 del Diario Oficial de la Federación, el lunes 29 de enero de 2024.
 
@@ -49,9 +47,11 @@ La Secretaría de Infraestructura, Comunicaciones y Transportes, en lo sucesivo,
 
 La Secretaría planeará y conducirá sus actividades con base en las políticas establecidas por la persona titular del Ejecutivo Federal y con sujeción en los objetivos, estrategias y prioridades del Plan Nacional de Desarrollo para el logro de las metas de los programas a su cargo, así como de las entidades paraestatales sectorizadas a la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ENERO DE 2025)</small>
+
 ###### ARTÍCULO 3.
 
-Al frente de la Secretaría estará una persona titular, quien para el despacho de los asuntos que le competen, se auxiliará de las unidades administrativas y de los órganos administrativos desconcentrados siguientes:
+Al frente de la Secretaría hay una persona titular quien, para el desahogo de los asuntos de su competencia, se auxilia de las unidades administrativas y de los órganos administrativos desconcentrados siguientes:
 
 A. Unidades administrativas:
 
@@ -63,19 +63,37 @@ b) Dirección General de Conservación de Carreteras;
 
 c) Dirección General de Desarrollo Carretero;
 
-d) Dirección General de Desarrollo Ferroviario y Multimodal, y
+d) (DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 e) Dirección General de Servicios Técnicos;
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+f) Dirección General de Carreteras Rurales y Artesanales, y
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], D.O.F. 13 DE ENERO DE 2025)</small>
+
+g) Dirección General de Infraestructura e Instalaciones Destinadas al Sistema Educativo Federal y Cultural, quien tiene adscritas las siguientes direcciones ejecutivas:
+
+1. Dirección Ejecutiva de Costos, Contratos y Estimaciones de Infraestructura;
+
+2. Dirección Ejecutiva de Diagnóstico y Proyectos de Infraestructura;
+
+3. Dirección Ejecutiva de Construcción y Supervisión de Proyectos de Infraestructura para el Sistema Educativo Federal y Cultural, y
+
+4. Dirección Ejecutiva de Construcción de Infraestructura Urbana;
+
 II. Subsecretaría de Comunicaciones y Transportes, quien tiene adscritas las unidades administrativas siguientes:
 
-a) Dirección General de Autotransporte Federal;
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+a) Dirección General de Autotransporte Federal, y
 
 b) Dirección General de Protección y Medicina Preventiva en el Transporte;
 
-c) Dirección General de Inclusión Digital y Redes de Telecomunicaciones, y
+c) (DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
-d) Dirección General de Políticas de Telecomunicaciones y Radiodifusión;
+d) (DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 III. Unidad de Administración y Finanzas, quien tiene adscritas las unidades administrativas siguientes:
 
@@ -83,9 +101,35 @@ a) Dirección General de Programación y Presupuesto;
 
 b) Dirección General de Recursos Humanos y Organización;
 
-c) Dirección General de Recursos Materiales y Servicios Generales, y
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+c) Dirección General de Recursos Materiales y Servicios Generales;
 
 d) Dirección General de Tecnologías de Información y Comunicaciones;
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+e) Dirección General de Control y Seguimiento de Auditorías, y
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+f) Unidad de Transparencia;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 13 DE ENERO DE 2025)</small>
+
+III Bis. Unidad de Vinculación Institucional y Patrimonio, quien tiene adscritas las unidades administrativas siguientes:
+
+a) Dirección General de Vinculación Institucional, y
+
+b) Dirección General de Patrimonio;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 13 DE ENERO DE 2025)</small>
+
+III Ter. Unidad de Proyectos de Infraestructura Urbana y Espacio Público, quien tiene adscritas las direcciones ejecutivas siguientes:
+
+a) Dirección Ejecutiva de Diseño, y
+
+b) Dirección Ejecutiva de Arquitectura;
 
 IV. Unidad de Asuntos Jurídicos, quien tiene adscritas las siguientes direcciones ejecutivas:
 
@@ -101,15 +145,19 @@ e) Dirección Ejecutiva de Coordinación Jurídica entre las Unidades Administra
 
 V. Dirección General de Comunicación Social;
 
-VI. Dirección General Patrimonial y del Derecho de Vía;
+VI. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
 VII. Dirección General de Planeación;
 
-VIII. Dirección General de Vinculación, y
+VIII. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
-IX. Coordinación de Centros SICT;
+> <small>(REFORMADA [N. DE E. CON SU INCISO], D.O.F. 13 DE ENERO DE 2025)</small>
 
-B. Oficinas de Representación: Centros SICT, en los estados de la Federación, y
+IX. Coordinación de Centros SICT, quien tiene adscritas a las Oficinas de Representación:
+
+a) Centros SICT, en los estados de la Federación, y
+
+B. (DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 C. Órganos Administrativos Desconcentrados:
 
@@ -131,6 +179,10 @@ La persona titular de la Secretaría puede delegar a favor de personas servidora
 
 Asimismo, la persona titular de la Secretaría puede autorizar por escrito a personas servidoras públicas subalternas para que realicen actos y suscriban documentos específicos que formen parte del ejercicio de sus facultades, siempre y cuando la facultad no esté conferida expresamente a otra persona servidora pública en este reglamento.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 4 BIS. La persona titular de la Secretaría ejercerá las atribuciones que la Ley Reglamentaria del Servicio Ferroviario y demás disposiciones le confieren a la Secretaría en materia ferroviaria, las cuales podrán ser delegadas en términos del artículo 16 de la Ley Orgánica de la Administración Pública Federal y el artículo 4 del presente reglamento.
+
 ###### ARTÍCULO 5.
 
 Son facultades indelegables de la persona titular de la Secretaría las siguientes:
@@ -145,7 +197,9 @@ IV. Proponer a la persona titular del Ejecutivo Federal, a través de la Conseje
 
 V. Refrendar, en los términos del artículo 92 de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Ley Orgánica de la Administración Pública Federal, los reglamentos, decretos y acuerdos expedidos por la persona titular del Ejecutivo Federal sobre los asuntos que sean de la competencia de la Secretaría y del sector coordinado por ésta;
 
-VI. Representar a la persona titular del Ejecutivo Federal en los juicios de amparo, en los términos de los artículos 14 de la Ley Orgánica de la Administración Pública Federal y 9 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como en los juicios originados por controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la propia Constitución y su Ley Reglamentaria, en los casos en que lo determine la persona titular del Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+VI. Representar a la persona titular del Ejecutivo Federal en los juicios de amparo, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 constitucional y su Ley Reglamentaria, en los casos en que lo determine la persona titular del Ejecutivo Federal;
 
 VII. Aprobar el anteproyecto de presupuesto anual de egresos de la Secretaría y, en su caso, sus modificaciones, así como, orientar, coordinar y evaluar los anteproyectos de las entidades paraestatales sectorizadas a ésta;
 
@@ -153,11 +207,11 @@ VIII. Dar cuenta al Congreso de la Unión, en términos del artículo 93 de la C
 
 IX. Emitir los acuerdos generales competencia de la Secretaría;
 
-X. Otorgar las concesiones y asignaciones que por ley le corresponda a la Secretaría y resolver, en su caso, sobre su prórroga y modificaciones, así como declarar administrativamente su caducidad, nulidad, rescisión o revocación;
+X. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
 XI. Proponer a la persona titular del Ejecutivo Federal, la requisa de las vías generales de comunicación, de los modos de transporte que en ellas operan, de los servicios auxiliares y conexos y de los bienes inmuebles, muebles y demás conceptos que corresponda, así como declarar el rescate de las concesiones, en ambos supuestos, de conformidad con la legislación aplicable;
 
-XII. Instruir se adopten las acciones y medidas necesarias para la continuidad en la prestación de los servicios de telecomunicaciones y radiodifusión cuando el Instituto Federal de Telecomunicaciones avise de la existencia de causas de terminación por revocación o rescate de concesiones, disolución o quiebra de sociedades concesionarias;
+XII. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
 XIII. Designar a las personas servidoras públicas que, conforme a las disposiciones jurídicas aplicables pueden ejercer las facultades que impliquen la titularidad de los derechos corporativos de las acciones o partes sociales que integran el capital social de las empresas de participación estatal mayoritaria, agrupadas en el sector paraestatal coordinado por la Secretaría, e instruirlos sobre la forma en que pueden ejercerlas;
 
@@ -175,7 +229,7 @@ XIX. Expedir el Manual de Organización General de la Secretaría, así como los
 
 XX. Resolver los recursos administrativos que le competan conforme a las disposiciones jurídicas aplicables;
 
-XXI. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este reglamento, así como los casos no previstos en éste, y
+XXI. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
 XXII. Ejercer las demás facultades que con carácter de indelegables le confieren otras disposiciones jurídicas aplicables o le encomiende la persona titular del Ejecutivo Federal.
 
@@ -227,13 +281,41 @@ XX. Designar a personas servidoras públicas para representar a la Secretaría o
 
 XXI. Ejercer las demás que le confieren otras disposiciones jurídicas y las que competen a las unidades administrativas que se le adscriban, así como realizar las funciones que le encomiende la persona titular de la Secretaría.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+###### ARTÍCULO 6 Bis.
+
+La persona titular de la Subsecretaría de Infraestructura, además de las facultades previstas en el artículo anterior, tiene las siguientes:
+
+I. Instruir el desarrollo, conservación y mantenimiento de la infraestructura carretera, así como de las carreteras rurales y artesanales que para tal efecto se establezcan;
+
+II. Instruir la construcción, equipamiento, restauración, reforzamiento, reconstrucción y rehabilitación de la infraestructura urbana, para proyectos culturales y desarrollo de habilidades, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+
+III. Supervisar, en el ámbito de su competencia, la coordinación y organización de los Centros SICT, de conformidad con las políticas y lineamientos que al efecto establezca la persona titular de la Secretaría, y
+
+IV. Otorgar las concesiones y asignaciones en el marco de sus facultades, que por ley le corresponda a la Secretaría, y resolver, en su caso, sobre su prórroga y modificaciones, así como declarar administrativamente su caducidad, nulidad, rescisión o revocación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ENERO DE 2025)</small>
+
 ###### ARTÍCULO 7.
 
-La persona titular de la Subsecretaría de Comunicaciones y Transportes, además de las facultades previstas en el artículo anterior, tiene las siguientes:
+La persona titular de la Subsecretaría de Comunicaciones y Transportes, además de las facultades previstas en el artículo 6 del presente reglamento, tiene las siguientes:
 
-I. Supervisar la operación de la red telefónica del gobierno federal denominada Red Privada del Gobierno Federal, y
+I. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
 II. Conocer de la búsqueda, salvamento, las investigaciones de accidentes e incidentes en materia de aeronáutica civil para identificar su causa probable, así como ejercer aquellas atribuciones que le competan a la Secretaría en términos de las disposiciones jurídicas aplicables en la materia.
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+III. Ejercer las atribuciones que le competan en materia de comunicaciones y transportes a la Secretaría, en términos de las disposiciones jurídicas aplicables, y que le sean encomendadas por la persona titular de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+IV. Otorgar las concesiones y asignaciones en el marco de sus facultades, que por ley le corresponda a la Secretaría, y resolver, en su caso, sobre su prórroga y modificaciones, así como declarar administrativamente su caducidad, nulidad, rescisión o revocación, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+V. Supervisar, en el ámbito de su competencia, la coordinación y organización de los Centros SICT, de conformidad con las políticas y lineamientos que al efecto establezca la persona titular de la Secretaría.
 
 ### CAPÍTULO IV. DE LAS FACULTADES DE LA PERSONA TITULAR DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
@@ -287,11 +369,23 @@ XXII. Proponer los ajustes y recomendaciones que en materia de programación y p
 
 XXIII. Aprobar los trámites, solicitudes y consultas en materia presupuestaria y contable ejecutados ante la Secretaría de Hacienda y Crédito Público en lo que corresponde a las unidades administrativas, a los Centros SICT y los órganos administrativos desconcentrados de la Secretaría, así como las entidades paraestatales sectorizadas a ésta, al igual que las gestiones realizadas ante la Secretaría de la Función Pública, en materia organizacional y de administración de personal;
 
-XXIV. Supervisar el seguimiento a la atención de auditorías y revisiones que emitan los órganos fiscalizadores, y
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXIV. Supervisar el seguimiento a la atención de auditorías y revisiones que emitan los órganos fiscalizadores;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXIV Bis. Supervisar el seguimiento y atención a las solicitudes de transparencia y acceso a la información pública;
 
 XXV. Coordinar, operar y evaluar el programa interno de protección civil para el personal, instalaciones, bienes e información de la Secretaría y, en su caso, auxiliar a la población, con el apoyo de las unidades administrativas cuyas funciones inciden en el desarrollo de las acciones previstas, de acuerdo con las atribuciones de la Secretaría, así como emitir las normas necesarias para su operación, desarrollo y vigilancia.
 
-### CAPÍTULO V. DE LAS JEFATURAS DE UNIDAD Y DE LAS DIRECCIONES GENERALES
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXVI. Supervisar, en el ámbito de su competencia, la coordinación y organización de los Centros SICT, de conformidad con las políticas y lineamientos que al efecto establezca la persona titular de la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ENERO DE 2025)</small>
+
+### CAPÍTULO V. DE LAS JEFATURAS DE UNIDAD, DE LAS DIRECCIONES GENERALES Y DE LAS DIRECCIONES EJECUTIVAS
 
 ###### ARTÍCULO 9.
 
@@ -301,7 +395,9 @@ Las personas titulares de las jefaturas de unidad y de las direcciones generales
 
 La persona titular de cada jefatura de unidad y de cada dirección general de la Secretaría, en el ámbito de su respectiva competencia, tiene las facultades comunes siguientes:
 
-I. Elaborar la planeación integral de los asuntos del ámbito de su competencia, en coordinación con la Dirección General de Planeación, así como programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades encomendadas a la unidad administrativa bajo su adscripción;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+I. Elaborar la planeación integral de los asuntos a su cargo, así como programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades encomendadas a la unidad administrativa bajo su adscripción;
 
 II. Formular los anteproyectos de programas, de los presupuestos y los demás documentos en materia programática que le competa conforme a las disposiciones jurídicas aplicables;
 
@@ -323,11 +419,19 @@ VI. Adoptar las medidas necesarias para dar cumplimiento a las leyes, reglamento
 
 VII. Interponer los recursos jurídicos que procedan, presentar las promociones que se requieran en dichos juicios y, de ser necesario, presentar las denuncias o querellas ante la fiscalía general competente, respecto de hechos en los que resulte afectada u ofendida la unidad administrativa a su cargo;
 
-VIII. Observar los criterios que emita la Unidad de Asuntos Jurídicos y, en los asuntos que impliquen cuestiones jurídicas, solicitar su asesoría, proporcionarle la información en los plazos y los términos en que así la solicite y, en su caso, rendir los informes que en materia de amparo le sean requeridos o cuando sean señalados como autoridad responsable;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+VIII. Observar los criterios que emita la Unidad de Asuntos Jurídicos y, en los asuntos que impliquen cuestiones jurídicas, solicitar su asesoría; proporcionarle la información en los plazos y términos en que así la solicite y, rendir los informes que en materia de amparo le sean requeridos o cuando sean señalados como autoridad responsable;
 
 IX. Llevar a cabo los procesos y procedimientos en contra de violaciones e incumplimiento a las leyes, normas, reglamentos, políticas, protocolos, manuales, lineamientos, planes, guías y otros instrumentos normativos afines, e imponer las sanciones que correspondan;
 
-X. Suscribir los convenios, contratos, acuerdos y demás documentos relativos al ejercicio de sus atribuciones, así como aquéllos que le sean señalados por delegación o le correspondan por suplencia en los casos de ausencia, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+IX Bis. Tramitar los recursos administrativos, en el ámbito de su competencia y, cuando sea procedente, someterlo a su superior jerárquico para su resolución;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+X. Suscribir los convenios, contratos, acuerdos y demás documentos relativos al ejercicio de sus atribuciones, así como aquellos que le sean señalados por delegación o le correspondan por suplencia en los casos de ausencia, de conformidad con las disposiciones jurídicas aplicables y previa opinión, en su caso, de la unidad administrativa competente de la Secretaría;
 
 XI. Rescindir o dar por terminados los contratos que celebre la Secretaría en asuntos o materias de su competencia; modificar o revocar las autorizaciones y permisos otorgados por la unidad administrativa a su cargo en los casos procedentes conforme a las disposiciones jurídicas aplicables, así como tramitar los recursos administrativos y someterlos a consideración de la persona superior jerárquica para su resolución;
 
@@ -345,7 +449,9 @@ XVII. Emitir opinión sobre los convenios y contratos que celebre la Secretaría
 
 XVIII. Solicitar, recibir, calificar, aceptar o rechazarlas (sic) garantías que constituyan los particulares para el cumplimiento de las obligaciones o trámites de concesiones, permisos, autorizaciones, contratos o convenios que se deben otorgar para operar servicios relacionados con vías generales de comunicación, sus servicios conexos y auxiliares o para formalizar y para mantener vigentes cualquier otro tipo de contrato; así como integrar el expediente relativo a cada garantía y, en su caso, efectuar cuando resulte procedente conforme a las disposiciones jurídicas aplicables el trámite correspondiente para cancelarlas, solicitar su sustitución o ampliación, controlarlas, custodiarlas, devolverlas o remitirlas a la autoridad competente para su efectividad;
 
-XIX. Llevar (sic) cabo los procedimientos de licitación pública y excepciones, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XIX. Llevar (sic) cabo los procedimientos de contrataciones públicas, de conformidad con las disposiciones jurídicas aplicables, previa opinión de la Dirección General de Recursos Materiales y Servicios Generales;
 
 XX. Establecer normas y lineamientos internos para implementar los programas a su cargo en los Centros SICT, previa opinión de la Coordinación de Centros SICT;
 
@@ -367,7 +473,9 @@ XXVIII. Proporcionar todo tipo de información y datos en forma expedita, que se
 
 XXIX. Atender las inconformidades, quejas o denuncias interpuestas contra autoridades o unidades de la Secretaría en las diferentes entidades federativas;
 
-XXX. Colaborar, en el ámbito de sus facultades, con la Dirección General de Vinculación en el desahogo de aspectos relacionados con el establecimiento y mantenimiento de vinculaciones estratégicas, así como en la atención y seguimiento de factores y escenarios sociales que impidan el cumplimiento de los objetivos y metas de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como de las entidades paraestatales sectorizadas a ésta;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXX. Colaborar, en el ámbito de sus facultades, con la Unidad de Vinculación Institucional y Patrimonio en el desahogo de aspectos relacionados con el establecimiento y mantenimiento de vinculaciones estratégicas, así como en la atención y seguimiento de factores y escenarios sociales que impidan el cumplimiento de los objetivos y metas de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como de las entidades paraestatales sectorizadas a esta;
 
 XXXI. Participar en el Comité de Infraestructura en los términos que determine la persona titular de la Secretaría o cuando así lo establezcan los lineamientos que al efecto se emitan;
 
@@ -441,7 +549,9 @@ XIX. Intervenir sobre aspectos jurídicos en los convenios, tratados y acuerdos 
 
 XX. Tramitar los recursos administrativos que corresponde aplicar a la Secretaría, a excepción de los reservados por ley a su titular y que no sean de la competencia de otras unidades administrativas;
 
-XXI. Emitir opinión jurídica sobre los recursos administrativos que se tramiten derivados de actos emitidos por los Centros SICT, cuando así se lo pida la Coordinación de Centros SICT, sin perjuicio de las consultas que se generen con las otras unidades administrativas competentes de la Secretaría que correspondan;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXI. Emitir opinión jurídica respecto de las resoluciones administrativas a cargo de la Coordinación de Centros SICT, sobre los recursos administrativos que se tramiten derivados de actos emitidos por los Centros SICT, sin perjuicio de las consultas que se generen con otras unidades administrativas competentes de la Secretaría;
 
 XXII. Establecer lineamientos, directrices y criterios de carácter técnico-jurídico para mejorar el desempeño de las unidades de asuntos jurídicos de los Centros SICT;
 
@@ -455,7 +565,13 @@ c) Recibir y opinar propuestas de estrategia jurídica que, en su caso, le dirij
 
 XXIV. Emitir opinión, previa solicitud de las áreas jurídicas de las unidades administrativas y Centros SICT, sobre el impacto jurídico de los resultados derivados de las auditorías practicadas a la Secretaría por los órganos fiscalizadores;
 
-XXV. Opinar y recabar la postura institucional sobre los proyectos de leyes o decretos que se remitan a la Secretaría, en coordinación con la Dirección General de Vinculación y con las unidades administrativas competentes de esta dependencia;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXV. Opinar y recabar la postura institucional sobre los proyectos de leyes o decretos que se remitan a la Secretaría, en coordinación con la Unidad de Vinculación Institucional y Patrimonio y con las demás unidades administrativas competentes de esta dependencia;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXV Bis. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este reglamento, así como de los casos no previstos en este;
 
 XXVI. Fungir como ventanilla única de la Secretaría y dar seguimiento al trámite ante la Dirección General de Programación y Presupuesto respecto de las evaluaciones de impacto presupuestario para la atención de los asuntos a que se refiere la fracción XII de este artículo, así como ser el vínculo ante las demás dependencias de la Administración Pública Federal, para la atención de los asuntos relacionados con la revisión jurídica, emisión de la evaluación de impacto presupuestario y solicitud de refrendo de los anteproyectos y proyectos de iniciativas de leyes, decretos, reglamentos y demás disposiciones de carácter general que se pretendan someter a consideración de la persona titular del Ejecutivo Federal, y
 
@@ -465,7 +581,9 @@ La persona titular de la Unidad de Asuntos Jurídicos, para el ejercicio de sus 
 
 a) La Dirección Ejecutiva de Procesos Contenciosos, tratándose de las atribuciones señaladas en las fracciones IV, V, VI, VII, VIII, IX, XIV, XX y XXIII;
 
-b) La Dirección Ejecutiva Normativa, tratándose de las atribuciones señaladas en las fracciones I, II, III, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XXIII, XXV, XXVI y XXVII;
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+b) La Dirección Ejecutiva Normativa, tratándose de las atribuciones señaladas en las fracciones I, II, III, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XXIII, XXV, XXV Bis, XXVI y XXVII;
 
 c) La Dirección Ejecutiva Operativa, tratándose de las atribuciones señaladas en las fracciones II, III, XV, XVI, XVIII y XIX;
 
@@ -490,6 +608,124 @@ IV. Ejercer la representación de las unidades administrativas de su adscripció
 V. Emitir las opiniones jurídicas en materias de su competencia, en los casos que sean requeridas, y
 
 VI. Brindar la información respecto de los asuntos normativos, contenciosos y relativos a convenios y contratos a su cargo, así como de aquellos asuntos que sea necesario para la atención de asuntos de interés de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 13 BIS. La Unidad de Vinculación Institucional y Patrimonio, además de las facultades comunes señaladas en el artículo 10 de este reglamento, tiene las atribuciones siguientes:
+
+I. Establecer los criterios para la vinculación, coordinación y cooperación de la Secretaría con las autoridades de las entidades federativas, municipios y demarcaciones territoriales de Ciudad de México sobre la ejecución de políticas, programas y estrategias sociales;
+
+II. Dirigir los vínculos institucionales con el Congreso de la Unión, en coordinación con las dependencias y entidades de la Administración Pública Federal, de conformidad con las políticas que para tal efecto expida la Secretaría de Gobernación;
+
+III. Canalizar las demandas sociales que reciben las unidades y órganos administrativos desconcentrados de la Secretaría, así como fungir como enlace con organismos e instituciones públicas, privadas y sociales, nacionales e internacionales;
+
+IV. Representar a la Secretaría en su carácter de administradora de inmuebles federales ante el Instituto de Administración y Avalúos de Bienes Nacionales como responsable inmobiliario, así como coordinar las acciones con las unidades administrativas al interior de la Secretaría para la integración y actualización del Sistema de Información Inmobiliaria Federal y Paraestatal en lo relativo a los inmuebles que administra esta dependencia, en términos de la Ley General de Bienes Nacionales;
+
+V. Coordinar la elaboración de proyectos de declaratorias de utilidad pública y de los decretos de expropiación de terrenos de propiedad privada para destinarse a la construcción, conservación y mantenimiento de las vías generales de comunicación a cargo de la Secretaría, con la participación de las unidades administrativas competentes y de los Centros SICT de esta dependencia, y
+
+VI. Fungir como unidad de vinculación, así como coordinar la participación de las unidades administrativas de la Secretaría, ante los grupos de trabajo y comisiones intersecretariales en materia de seguridad nacional y pública.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 13 TER. La Dirección General de Vinculación Institucional tiene las atribuciones siguientes:
+
+I. Proponer a su superior jerárquico los criterios para la vinculación, coordinación y cooperación de la Secretaría con las autoridades de las entidades federativas, municipios y demarcaciones territoriales de Ciudad de México sobre la ejecución de políticas, programas, y estrategias sociales;
+
+II. Coordinar el registro, clasificación y seguimiento de los compromisos contraídos por la Secretaría con organizaciones sociales y asociaciones políticas nacionales;
+
+III. Dar seguimiento a las demandas sociales que reciben las unidades y órganos administrativos desconcentrados de la Secretaría, así como orientar respecto a aquellas demandas que no sean competencia de esta dependencia;
+
+IV. Coordinar y dar seguimiento a los vínculos institucionales con organizaciones sociales y políticas con el propósito de fomentar y coordinar las relaciones de la Secretaría;
+
+V. Dar seguimiento a los acuerdos y compromisos de la Secretaría, derivados de la operación de mecanismos de coordinación con autoridades de las entidades federativas, municipios y demarcaciones territoriales de Ciudad de México, incluso con sus órganos legislativos y judiciales, así como en resoluciones jurisdiccionales y puntos de acuerdo tomados por el Congreso de la Unión;
+
+VI. Implementar los vínculos institucionales con el Congreso de la Unión, en coordinación con las dependencias y entidades de la Administración Pública Federal, de conformidad con las políticas que para tal efecto expida la Secretaría de Gobernación;
+
+VII. Propiciar consensos y acuerdos con el propósito de impulsar proyectos legislativos que sean acordes con los objetivos institucionales de la Secretaría, en el ámbito federal y local;
+
+VIII. Coordinar las acciones para las comparecencias y presentaciones ante el Congreso de la Unión, tanto de su superior jerárquico como de las demás personas servidoras públicas adscritas a la Secretaría;
+
+IX. Establecer y dirigir las actividades de vinculación y colaboración de la Secretaría, derivadas de convenios, compromisos, acuerdos y otros actos jurídicos con organismos e instituciones públicas, privadas y sociales, nacionales e internacionales;
+
+X. Dar seguimiento tanto a las peticiones dirigidas a la persona titular del Ejecutivo Federal como a las instrucciones de esta, cuando dichas peticiones e instrucciones sean competencia de la Secretaría;
+
+XI. Coordinar con la Unidad de Asuntos Jurídicos, el análisis de las iniciativas, dictámenes y minutas de carácter legislativo, en materias relacionadas con la Secretaría;
+
+XII. Integrar y dar seguimiento a la agenda legislativa, en materias relacionadas con la Secretaría, y mantener informado a su superior jerárquico;
+
+XIII. Contribuir con los gobiernos de las entidades federativas, municipios y demarcaciones territoriales de (sic) Ciudad de México para recibir, canalizar y dar seguimiento a peticiones relacionadas con políticas y estrategias competencia de la Secretaría;
+
+XIV. Coordinar al interior de la Secretaría las propuestas de respuestas a las peticiones de las personas legisladoras relacionadas con las políticas y estrategias en los asuntos competencia de la Secretaría;
+
+XV. Atender las solicitudes de opinión formuladas por el Congreso de la Unión, las legislaturas locales y los municipios, en lo referente a las acciones y programas de la Secretaría;
+
+XVI. Coordinar reuniones, mesas de trabajo, conferencias y otras actividades de vinculación, enlace y cooperación, entre instituciones públicas y privadas, nacionales e internacionales, así como con agrupaciones sociales, a solicitud de estas y de las unidades administrativas o de los órganos administrativos desconcentrados de la Secretaría;
+
+XVII. Identificar tratados y convenios internacionales que inciden en los objetivos institucionales de la Secretaría y, en su caso, emitir opiniones respecto de la postura o posición institucional en coordinación con las unidades administrativas competentes de la Secretaría;
+
+XVIII. Articular acciones de la Secretaría con otras dependencias de la Administración Pública Federal y actores estratégicos, para la atención de escenarios sociales y políticos de riesgo que afecten el cumplimiento de las metas y objetivos de la Secretaría;
+
+XIX. Recabar, sistematizar y difundir la información que contribuya al conocimiento y desarrollo de temas históricos relacionados con la infraestructura y el transporte competencia de la Secretaría;
+
+XX. Emitir opinión a su superior jerárquico sobre la normativa vigente que regula materias competencia de la Secretaría y de las entidades paraestatales sectorizadas a esta, a fin de contribuir a prevenir factores capaces de generar escenarios sociales y políticos que puedan incidir en el cumplimiento de las metas y objetivos institucionales de esta dependencia, y
+
+XXI. Definir, en colaboración con las unidades y órganos administrativos desconcentrados de la Secretaría, así como con las entidades paraestatales sectorizadas a esta, las estrategias y líneas de acción para la atención de escenarios sociales y políticos capaces de afectar el desarrollo institucional de esta dependencia.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 13 QUATER. La Dirección General de Patrimonio tiene las atribuciones siguientes:
+
+I. Formular anteproyectos de declaratorias de utilidad pública y de los decretos de expropiación de terrenos de propiedad privada para destinarse a la construcción, conservación y mantenimiento de las vías generales de comunicación a cargo de la Secretaría, con la participación de las unidades administrativas competentes y de los Centros SICT de la Secretaría;
+
+II. Coordinar las acciones con las unidades administrativas al interior de la Secretaría para la integración y actualización del Sistema de Información Inmobiliaria Federal y Paraestatal en lo relativo a los inmuebles que administra esta dependencia, en términos de la Ley General de Bienes Nacionales;
+
+III. Representar a la Secretaría en los trámites ante otras dependencias y entidades de la Administración Pública Federal que deban seguirse en materia de adquisición, ocupación y regularización del derecho de vía, así como en la adquisición de inmuebles que requiera el Gobierno federal para destinarlos al servicio de la Secretaría;
+
+IV. Integrar y administrar el Centro Único de Documentación que debe contener el catálogo de inmuebles federales que integran el derecho de vía de las vías generales de comunicación a cargo de la Secretaría, así como los documentos e información de inmuebles de carreteras federales, incluidas las concesionadas, puentes federales, aeropuertos, y vías férreas que al efecto se establezcan;
+
+V. Emitir la declaratoria a que se refiere el artículo 55 de la Ley General de Bienes Nacionales respecto de los inmuebles destinados a las vías generales de comunicación;
+
+VI. Emitir las certificaciones y constancias de los documentos que obran en el Centro Único de Documentación, previa clasificación y catalogación de dichos documentos;
+
+VII. Emitir opinión técnica para dar atención a los requerimientos jurisdiccionales o administrativos en materia del derecho de vía;
+
+VIII. Revisar y opinar los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas relativos al derecho de vía de las vías generales de comunicación, competencia de la Secretaría, y
+
+IX. Compilar las normas jurídicas relacionadas con el derecho de vía de las vías generales de comunicación, y mantener permanentemente actualizado un prontuario de las disposiciones jurídicas en la materia.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 13 QUINQUIES. La Unidad de Proyectos de Infraestructura Urbana y Espacio Público tiene, además de las facultades comunes señaladas en el artículo 10 de este reglamento, las siguientes:
+
+I. Acordar con la persona titular de la Secretaría los estudios, proyectos y acuerdos internos de los asuntos a su cargo;
+
+II. Vigilar que las funciones realizadas por las unidades administrativas que tenga adscritas se realicen de conformidad con las disposiciones jurídicas aplicables;
+
+III. Obtener y actualizar información sobre materiales de construcción, precios y tecnologías aplicables al diseño y construcción de infraestructuras públicas;
+
+IV. Recopilar y difundir información sobre los proyectos de diseño urbano ejecutados, para facilitar el uso de mejores prácticas y materiales en nuevos proyectos de infraestructura pública;
+
+V. Recabar, sistematizar y difundir información técnica sobre diseño urbano arquitectónico y proyectos de la Secretaría;
+
+VI. Realizar estudios comparativos sobre mejores prácticas en diseño urbano arquitectónico a nivel nacional e internacional;
+
+VII. Proponer normas aplicables a proyectos de diseño urbano arquitectónico ejecutados con recursos federales;
+
+VIII. Colaborar con universidades y centros de investigación para la innovación y desarrollo de nuevas tecnologías aplicadas a la infraestructura pública;
+
+IX. Gestionar proyectos prioritarios con entidades públicas de los tres órdenes de gobierno, para asegurar su correcta implementación;
+
+X. Proponer la elaboración de proyectos arquitectónicos para la infraestructura pública competencia de la Secretaría;
+
+XI. Elaborar proyectos conceptuales, arquitectónicos y ejecutivos para los planes de infraestructura prioritaria de la Secretaría, y
+
+XII. Brindar asesoría técnica en diseño urbano arquitectónico y gestión urbana a todas las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como a las entidades paraestatales sectorizadas a esta.
+
+La persona titular de la Unidad de Proyectos de Infraestructura Urbana y Espacio Público, para el ejercicio de sus atribuciones referidas en el presente artículo, se auxilia de:
+
+a) Dirección Ejecutiva de Diseño, tratándose de las atribuciones señaladas en las fracciones III, IV, V, VI, VII, VIII y IX, y
+
+b) Dirección Ejecutiva de Arquitectura, tratándose de las atribuciones señaladas en las fracciones X, XI y XII.
 
 ###### ARTÍCULO 14.
 
@@ -517,39 +753,7 @@ X. Conservar y actualizar el archivo de comunicados, fotografía y de video de l
 
 ###### ARTÍCULO 15.
 
-La Dirección General Patrimonial y del Derecho de Vía está adscrita directamente a la persona titular de la Secretaría, y tiene las atribuciones siguientes:
-
-I. Planear, formular e implementar estrategias y programas en materia de liberación y regularización del derecho de vía;
-
-II. Proponer a la persona superior jerárquica los lineamientos, bases, criterios o directrices en materia de adquisición, ocupación y regularización del derecho de vía, a cargo de la Secretaría;
-
-III. Coordinar las acciones de carácter técnico y jurídico tendientes a la liberación del derecho de vía en aeropuertos, carreteras federales y concesionadas, puentes federales y en las vías férreas, con la participación de las unidades administrativas y los Centros SICT de la Secretaría y, en su caso, de las autoridades competentes de los tres órdenes de gobierno;
-
-IV. Formular anteproyectos de declaratorias de utilidad pública y de los decretos de expropiación de terrenos de propiedad privada para destinarse a la construcción, conservación y mantenimiento de las vías generales de comunicación a cargo de la Secretaría, con la participación de las unidades administrativas competentes y de los Centros SICT;
-
-V. Representar a la Secretaría en su carácter de administradora de inmuebles federales ante el Instituto de Administración y Avalúos de Bienes Nacionales como Responsable Inmobiliario Administrador, así como coordinar las acciones con las unidades administrativas al interior de la Secretaría para la integración y actualización del Sistema de Información Inmobiliaria Federal y Paraestatal en lo relativo a los inmuebles que administra, en términos de lo establecido en la Ley General de Bienes Nacionales;
-
-VI. Representar a la Secretaría en los trámites ante otras dependencias y entidades de la Administración Pública Federal que deban seguirse en materia de adquisición, ocupación y regularización del derecho de vía, así como en la adquisición de inmuebles que requiera el Gobierno Federal para destinarlos al servicio de la Secretaría;
-
-VII. Integrar y administrar el Centro Único de Documentación que debe contener el catálogo de inmuebles federales que integran el derecho de vía de las vías generales de comunicación a cargo de la Secretaría, así como los documentos e información de inmuebles de carreteras federales y concesionadas; puentes federales; aeropuertos; y vías férreas y de telecomunicaciones que al efecto se establezca;
-
-VIII. Emitir la declaratoria a que hace referencia el artículo 55 de la Ley General de Bienes Nacionales respecto de los inmuebles destinados a las vías generales de comunicación;
-
-IX. Emitir las certificaciones y constancias de los documentos que obran en el Centro Único de Documentación, previa clasificación y catalogación de los mismos;
-
-X. Participar en la implementación de acciones para promover el acceso y uso de los derechos de vía, para el despliegue de infraestructura de telecomunicaciones, así como colaborar con las unidades administrativas competentes y con las dependencias o entidades administradoras de inmuebles previstas en el penúltimo párrafo del artículo 147 de la Ley Federal de Telecomunicaciones y Radiodifusión;
-
-XI. Coordinar con las unidades administrativas, los Centros SICT y, en su caso, con las autoridades competentes de los tres órdenes de gobierno, el procedimiento de consulta a las comunidades indígenas cuando sean afectadas por la ejecución de un proyecto de infraestructura a cargo de la Secretaría;
-
-XII. Emitir opinión técnica para dar atención a los requerimientos jurisdiccionales o administrativos en materia del derecho de vía;
-
-XIII. Tramitar los recursos administrativos en materia del derecho de vía de las vías generales de comunicación;
-
-XIV. Revisar y opinar los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas relativos al derecho de vía de las vías generales de comunicación, competencia de la Secretaría;
-
-XV. Compilar las normas jurídicas relacionadas con el derecho de vía de las vías generales de comunicación, y mantener permanentemente actualizado un prontuario de las disposiciones jurídicas en la materia, y
-
-XVI. Integrar los registros, estadísticas, sistemas, y libros de certificaciones en materia de derecho de vía.
+(DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 ###### ARTÍCULO 16.
 
@@ -559,73 +763,49 @@ I. Participar, en el ámbito de competencia de la Secretaría, en el Sistema Nac
 
 II. Intervenir, en el ámbito de competencia de la Secretaría, en la formulación y revisión de los instrumentos nacionales de planeación;
 
-III. Establecer la planeación integral de la Secretaría, en coordinación con las unidades administrativas sustantivas, que incluye las políticas, objetivos, estrategias, líneas de acción, metas e indicadores de los asuntos competencia de la Secretaría y la de las entidades paraestatales sectorizadas a ésta, así como fijar dicha planeación integral en el Sistema Nacional de Planeación Democrática;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-IV. Efectuar estudios, análisis e investigaciones para la planeación integral de la infraestructura, las comunicaciones y el transporte, así como los necesarios para conocer su impacto nacional e internacional considerando la integración de la prospectiva en el sector de infraestructura, comunicaciones y transporte competencia de la Secretaría;
+III. Establecer la planeación estratégica de la Secretaría en el Sistema Nacional de Planeación Democrática, en coordinación con las unidades administrativas competentes de la Secretaría. Esta planeación incluye las políticas, objetivos, estrategias, líneas de acción, metas e indicadores de los asuntos a cargo de la Secretaría y la de las entidades paraestatales sectorizadas a esta;
 
-V. Elaborar e integrar los programas derivados del Plan Nacional de Desarrollo, así como informes y documentos estadísticos y cartográficos del sector infraestructura, comunicaciones y transportes;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+IV. Participar en los estudios, análisis e investigaciones requeridos para la planeación estratégica de la infraestructura, las comunicaciones y el transporte, así como los necesarios para conocer el impacto del sector en el entorno económico del país;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+V. Coordinar la elaboración e integración, en su caso, de los programas sectorial, institucionales y especiales derivados del Plan Nacional de Desarrollo, así como los informes del sector (sic) infraestructura, comunicaciones y transportes;
 
 VI. Fungir como titular de la Secretaría Técnica del Comité de Infraestructura para su funcionamiento y operación;
 
-VII. Evaluar y dar seguimiento a los planes, programas y proyectos que se establecen en materias del sector de infraestructura, comunicaciones y transporte competencia de la Secretaría y, así como formular recomendaciones respecto al avance, resultados e impacto de dichos planes, programas y proyectos, y
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+VII. Coordinar el seguimiento a los planes, programas y proyectos que se establecen en materias del sector infraestructura, comunicaciones y transportes, y formular recomendaciones respecto a su avance y resultados;
 
 VIII. Coordinar las acciones de las unidades responsables relacionadas con la administración de riesgos institucionales de nivel estratégico y proponer o formular recomendaciones respecto de las medidas necesarias para asegurar el cumplimiento de los objetivos y metas del sector infraestructura, comunicaciones y transporte competencia de la Secretaría.
 
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+IX. Integrar y desarrollar los productos estadísticos y herramientas para el manejo de información que apoyen la planeación estratégica del sector infraestructura, comunicaciones y transportes;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+X. Elaborar y participar en la publicación de las cartas geográficas, atlas y otros documentos gráficos similares relativos al sector infraestructura, comunicaciones y transportes, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XI. Concentrar, conservar, resguardar, registrar, catalogar e inventariar la información bibliográfica del sector infraestructura, comunicaciones y transportes y brindar acceso público a documentación histórica competencia de la Secretaría.
+
 ###### ARTÍCULO 17.
 
-La Dirección General de Vinculación está adscrita directamente a la persona titular de la Secretaría, y tiene las atribuciones siguientes:
-
-I. Establecer los criterios para la vinculación, coordinación y cooperación de la Secretaría con las autoridades de las entidades federativas, municipios y alcaldías sobre la ejecución de políticas, programas, y estrategias sociales;
-
-II. Coordinar el registro, clasificación y seguimiento de los compromisos contraídos por el Poder Ejecutivo Federal con organizaciones sociales y con asociaciones políticas nacionales, competencia de la Secretaría;
-
-III. Canalizar y dar seguimiento a las demandas sociales que reciben las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como orientar respecto a aquellas demandas que no sean competencia de esta dependencia;
-
-IV. Coordinar y dar seguimiento a los vínculos institucionales con organizaciones sociales y políticas con el propósito de fomentar y coordinar las relaciones de la Secretaría;
-
-V. Dar seguimiento a los acuerdos y compromisos de la Secretaría, derivados de la operación de mecanismos de coordinación con autoridades de las entidades federativas, municipios y alcaldías; órganos legislativos y judiciales, así como en resoluciones jurisdiccionales y puntos de acuerdo tomados por el Congreso de la Unión;
-
-VI. Fungir como enlace con organismos e instituciones públicas, privadas, sociales, nacionales e internacionales, en el ámbito de su competencia, para la coordinación de acciones y proyectos;
-
-VII. Establecer y dirigir vínculos institucionales con el Congreso de la Unión, en coordinación con las dependencias y entidades de la Administración Pública Federal, sujetándose a las políticas que para el efecto expida la Secretaría de Gobernación;
-
-VIII. Propiciar consensos y acuerdos con el propósito de impulsar proyectos legislativos que sean acordes con los objetivos institucionales de la Secretaría, en el ámbito federal y local;
-
-IX. Coordinar las acciones para las comparecencias y presentaciones tanto de la persona superior jerárquica como de las demás personas servidoras públicas adscritas a la Secretaría, ante el Congreso de la Unión;
-
-X. Establecer y dirigir las actividades de vinculación y colaboración de la Secretaría, derivadas de convenios, compromisos, acuerdos y otros actos jurídicos con entidades públicas, privadas y sociales; nacionales e internacionales;
-
-XI. Dar seguimiento tanto a las peticiones dirigidas a la persona titular del Ejecutivo Federal como a las instrucciones de ésta, cuando dichas peticiones e instrucciones sean competencia de la Secretaría;
-
-XII. Coordinar con la Unidad de Asuntos Jurídicos, el análisis de las iniciativas, dictámenes y minutas de carácter legislativo, en materias relacionadas con la Secretaría;
-
-XIII. Integrar y dar seguimiento a la agenda legislativa, en materias relacionadas con la Secretaría y mantener informado (sic) a la persona superior jerárquica;
-
-XIV. Contribuir con los gobiernos estatales, municipales y alcaldías para recibir, canalizar y dar seguimiento a peticiones relacionadas con políticas y estrategias competencia de la Secretaría;
-
-XV. Coordinar al interior de la Secretaría las propuestas de respuestas a las peticiones de los legisladores relacionadas con las políticas y estrategias en los asuntos competencia de la Secretaría;
-
-XVI. Atender las solicitudes de opinión formuladas por el Congreso de la Unión, los congresos locales y los municipios, en lo referente a las acciones y programas de la Secretaría;
-
-XVII. Coordinar reuniones, mesas de trabajo, conferencias y otras actividades de vinculación, enlace y cooperación, entre instituciones públicas, privadas, nacionales e internacionales, así como con agrupaciones sociales, a solicitud de éstas y de las unidades administrativas o de los órganos administrativos desconcentrados de la Secretaría;
-
-XVIII. Identificar tratados y convenios internacionales que inciden en los objetivos institucionales de la Secretaría y, en su caso, emitir opiniones respecto de la postura o posición institucional en coordinación con las unidades administrativas competentes de la Secretaría;
-
-XIX. Articular acciones de la Secretaría con dependencias y actores estratégicos, para la atención de escenarios sociales y políticos de riesgo que afecten el cumplimiento de las metas y objetivos de la Secretaría;
-
-XX. Fungir como unidad de vinculación, así como coordinar la participación de las unidades administrativas de la Secretaría, ante los grupos de trabajo y comisiones intersecretariales en materia de seguridad nacional y pública;
-
-XXI. Recabar, sistematizar y difundir la información que contribuya al conocimiento y desarrollo de temas históricos relacionados con la infraestructura, las comunicaciones y el transporte competencia de la Secretaría;
-
-XXII. Emitir opinión a la persona superior jerárquica sobre la normativa vigente que regula materias competencia de la Secretaría y del sector paraestatal coordinado por ésta, a fin de contribuir a prevenir factores capaces de generar escenarios sociales y políticos que puedan incidir en el cumplimiento de las metas y objetivos institucionales, y
-
-XXIII. Definir, en colaboración con las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como con las entidades paraestatales sectorizadas a ésta, las estrategias y líneas de acción para la atención de escenarios sociales y políticos capaces de afectar el desarrollo institucional.
+(DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 ###### ARTÍCULO 18.
 
 La Dirección General de Carreteras tiene las atribuciones siguientes:
 
-I. Elaborar y participar en conjunto con las unidades administrativas competentes, y en coordinación con la Dirección General de Planeación, en la planeación, coordinación, programación y evaluación de los programas de construcción y modernización de la red federal de carreteras, así como de construcción, modernización, conservación y reconstrucción de los caminos rurales y carreteras alimentadoras que requieran recursos federales para su mantenimiento y conservación;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+I. Elaborar y participar en conjunto con las unidades administrativas competentes de la Secretaría en la planeación, coordinación, programación y evaluación de los programas de construcción y modernización de la red federal de carreteras, así como de la construcción, modernización, conservación y reconstrucción de los caminos rurales y carreteras alimentadoras que requieran recursos federales para su mantenimiento y conservación;
 
 II. Integrar los planes y programas de construcción y modernización de la red federal de carreteras, así como de construcción, modernización, conservación y reconstrucción de caminos rurales y carreteras alimentadoras que requieran recursos federales para su mantenimiento y conservación;
 
@@ -645,7 +825,9 @@ IX. Entregar a la Dirección General de Conservación de Carreteras, una vez con
 
 X. Integrar y validar, en el ámbito de su competencia y en coordinación con las unidades administrativas competentes de la Secretaría, la documentación necesaria para la tramitación de los registros en cartera de programas y proyectos de inversión ante la Secretaría de Hacienda y Crédito Público, con respecto a las obras que deriven de los programas de construcción y modernización de la red federal de carreteras, así como de construcción, modernización, conservación y reconstrucción de caminos rurales y carreteras alimentadoras que requieran recursos federales para su mantenimiento y conservación, así como gestionar ante dicha dependencia las adecuaciones programáticas y presupuestarias necesarias para la correcta aplicación de los recursos;
 
-XI. Llevar a cabo las acciones que se requieran para la liberación y regularización del derecho de vía de las obras que deriven de los programas de construcción y modernización de la red federal de carreteras, así como de la construcción, modernización, conservación y reconstrucción de caminos rurales y carreteras alimentadoras que requieran recursos federales para su mantenimiento y conservación, lo anterior en coordinación con la Dirección General Patrimonial y del Derecho de Vía, con la participación de los Centros SICT y, en su caso, de las autoridades competentes de los tres órdenes de gobierno;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XI. Llevar a cabo las acciones que se requieran para la liberación y regularización del derecho de vía de las obras que deriven de los programas de construcción y modernización de la red federal de carreteras, así como de la construcción, modernización, conservación y reconstrucción de caminos rurales y carreteras alimentadoras que requieran recursos federales para su mantenimiento y conservación, en coordinación con la Dirección General de Patrimonio y con la participación de los Centros SICT y, en su caso, de las autoridades competentes de los tres órdenes de gobierno;
 
 XII. Participar con los Centros SICT, en la planeación y programación de los procesos de licitación de obras públicas y servicios relacionados con las mismas que se realicen conforme a los programas de construcción y modernización de la red federal de carreteras, así como de la construcción, modernización, conservación y reconstrucción de caminos rurales y carreteras alimentadoras que requieran recursos federales para su mantenimiento y conservación, así como revisar las proposiciones de dichos procesos de licitación;
 
@@ -671,7 +853,9 @@ XXI. Dar seguimiento a los programas gubernamentales en materia de protección c
 
 La Dirección General de Conservación de Carreteras tiene las atribuciones siguientes:
 
-I. Elaborar, en coordinación con la Dirección General de Planeación y de conformidad con las políticas de la Secretaría, los criterios, estrategias y programas de inversión de corto, mediano y largo plazo en materia de conservación de carreteras federales libres de peaje;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+I. Elaborar de conformidad con las políticas de la Secretaría, los criterios, estrategias y programas de inversión de corto, mediano y largo plazo en materia de conservación de carreteras federales libres de peaje;
 
 II. Autorizar, en caso de ser procedente, las modificaciones que soliciten los Centros SICT a los proyectos de obras públicas y de los servicios relacionados con las mismas, que derivan de los programas de conservación de carreteras federales a cargo de la Secretaría;
 
@@ -717,11 +901,67 @@ XXII. Integrar y mantener actualizado el catálogo de las carreteras y puentes f
 
 XXIII. Fungir como área técnica normativa de las residencias generales en materia de conservación de carreteras de los Centros SICT y dar seguimiento a los programas a su cargo.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 19 BIS. La Dirección General de Control y Seguimiento de Auditorías tiene las atribuciones siguientes:
+
+I. Fungir como enlace de la Secretaría, ante los órganos de fiscalización en cualquiera de sus modalidades, incluidos medios digitales, durante los trabajos de auditoría y revisión de la Cuenta de la Hacienda Pública Federal, así como realizar los actos necesarios respecto de los procedimientos de auditoría y revisión a que se refiere esta fracción;
+
+II. Dar atención y seguimiento a las auditorías y revisiones que emitan los órganos fiscalizadores y demás instancias que ejerzan facultades de revisión en relación con los procedimientos administrativos de la Secretaría;
+
+III. Atender de forma oportuna, en coordinación con las unidades administrativas y Centros SICT de la Secretaría, los requerimientos de información para auditorías y revisiones a las que sean sujetas;
+
+IV. Consolidar la entrega de información, para el seguimiento de las observaciones y recomendaciones emitidas por los órganos de fiscalización derivadas de las auditorías que se practiquen a las unidades administrativas y Centros SICT de la Secretaría, de conformidad con las disposiciones jurídicas aplicables al ente fiscalizador o revisor correspondiente, y demás instancias que ejerzan facultades de revisión en relación con los procedimientos administrativos de la Secretaría;
+
+V. Acudir a las visitas de obra que considere relevantes derivadas de las auditorías y revisiones practicadas a las unidades administrativas y Centros SICT de la Secretaría;
+
+VI. Asesorar a las unidades administrativas y Centros SICT de la Secretaría, en la atención de los requerimientos que formule la Auditoría Superior de la Federación y la Secretaría Anticorrupción y Buen Gobierno, derivado de los actos de fiscalización y revisión que practican de conformidad con sus respectivos programas anuales de fiscalización o cuando lo soliciten;
+
+VII. Llevar el seguimiento de las observaciones y recomendaciones que se emitan por parte de la Auditoría Superior de la Federación y la Secretaría Anticorrupción y Buen Gobierno, derivado de los actos de fiscalización que practican, así como demás instancias que ejerzan facultades de revisión en relación con los procedimientos administrativos de la Secretaría, y asegurar la instrumentación de dichas recomendaciones;
+
+VIII. Coordinar el control, seguimiento y estadística de las auditorías, observaciones y recomendaciones realizadas por los órganos fiscalizadores a las unidades administrativas y Centros SICT de la Secretaría;
+
+IX. Coadyuvar con los órganos administrativos desconcentrados de la Secretaría en la atención y seguimiento a las auditorías y revisiones que emitan los órganos fiscalizadores y demás instancias que ejerzan facultades de revisión en relación con sus procedimientos administrativos, y
+
+X. Integrar los informes que sean requeridos por su superior jerárquico o por la persona titular de la Secretaría, en las materias que sean competencia de esta Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 19 TER. La Unidad de Transparencia tiene las atribuciones siguientes:
+
+I. Coordinar la difusión de la información a que se refiere el Capítulo I del Título Tercero de la Ley Federal de Transparencia y Acceso a la Información Pública, así como los Capítulos II a V del Título Quinto de la Ley General de Transparencia y Acceso a la Información Pública, según corresponda, y fomentar que las unidades administrativas de la Secretaría la actualicen periódicamente;
+
+II. Recibir y dar trámite a las solicitudes de acceso a la información a cargo de la Secretaría;
+
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normativa aplicable;
+
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+V. Efectuar las notificaciones a los solicitantes en materia de transparencia y acceso a la información pública;
+
+VI. Proponer al personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información a cargo de la Secretaría;
+
+VII. Llevar un registro de las solicitudes de acceso a la información, así como de sus respuestas, resultados, costos de reproducción y envío;
+
+VIII. Promover e implementar políticas de transparencia proactiva que procuren su accesibilidad;
+
+IX. Fomentar la transparencia al interior de la Secretaría;
+
+X. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables;
+
+XI. Las que se desprendan de la Ley General de Transparencia y Acceso a la Información Pública y demás normativa aplicable necesarias para garantizar el ejercicio del derecho de acceso a la información entre la Secretaría y los solicitantes;
+
+XII. Recibir y dar trámite a las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación, oposición y portabilidad de datos personales, y
+
+XIII. Fomentar la observancia de los principios de licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información y responsabilidad, así como de los deberes de confidencialidad y seguridad, en el tratamiento de datos personales.
+
 ###### ARTÍCULO 20.
 
 La Dirección General de Desarrollo Carretero tiene las atribuciones siguientes:
 
-I. Planear, en coordinación con la Dirección General de Planeación, el desarrollo estratégico de la red federal de carreteras, incluidos los puentes y cruces internacionales y su interconexión con otros modos de transporte y la coordinación con la planeación regional y estatal;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+I. Planear el desarrollo estratégico de la red federal de carreteras, incluidos los puentes y cruces internacionales y su interconexión con otros modos de transporte y la coordinación con la planeación regional y estatal;
 
 II. Supervisar la operación de los caminos y puentes federales concesionados, incluidas las mejoras físicas, operativas, de seguridad y de gestión del tránsito, para asegurar su ordenamiento;
 
@@ -747,69 +987,15 @@ XII. Proponer, desarrollar, implementar y evaluar sistemáticamente trabajos de 
 
 XIII. Intervenir, en el ámbito de competencia de la Secretaría, en la negociación de instrumentos jurídicos internacionales en materia de infraestructura carretera, puentes y cruces fronterizos, en coordinación con las dependencias de la Administración Pública Federal competentes;
 
-XIV. Proporcionar a la Dirección General Patrimonial y del Derecho de Vía la información y datos técnicos para la liberación del derecho de vía de los caminos y puentes federales concesionados o susceptibles de concesión que lleve a cabo la Secretaría a través de sus unidades administrativas o de sus Centros SICT, y
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XIV. Proporcionar a la Dirección General de Patrimonio la información y datos técnicos para la liberación del derecho de vía de los caminos y puentes federales concesionados o susceptibles de concesión que lleve a cabo la Secretaría, a través de sus unidades administrativas o de sus Centros SICT, y
 
 XV. Establecer, actualizar y modificar las bases de regulación tarifaria en materia de caminos y puentes federales concesionados, de conformidad con las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 21.
 
-La Dirección General de Desarrollo Ferroviario y Multimodal tiene las atribuciones siguientes:
-
-I. Proponer y, en su caso, ejecutar las políticas y programas de desarrollo, promoción, supervisión y logística del sistema ferroviario, del transporte masivo de personas pasajeras y multimodal, sin perjuicio de las atribuciones que en materia técnica correspondan a la Agencia Reguladora del Transporte Ferroviario;
-
-II. Planear, en coordinación con la Dirección General de Planeación, el desarrollo estratégico en materia ferroviaria y tramitar las peticiones relativas al otorgamiento de concesiones y asignaciones para la construcción, operación y explotación de vías generales de comunicación ferroviaria y para la prestación del servicio público de transporte ferroviario, así como su prórroga, modificación, nulidad, cesión, terminación y revocación, en términos de las disposiciones jurídicas aplicables;
-
-III. Llevar a cabo los procedimientos de licitaciones públicas de concesiones para la construcción, operación y explotación de vías férreas, así como los correspondientes a concesiones para la prestación del servicio público de transporte ferroviario;
-
-IV. Llevar a cabo los procedimientos para la contratación de obras públicas ferroviarias y de los servicios relacionados con las mismas, en las que se incluyen las relativas a la construcción de vías férreas, patios y terminales de carácter federal para el establecimiento y explotación de ferrocarriles de transporte masivo de personas pasajeras y multimodal, de conformidad con las disposiciones jurídicas aplicables;
-
-V. Planear y coordinar con las autoridades administrativas competentes de los tres órdenes de gobierno y con las personas concesionarias o particulares, la construcción, reconstrucción o modernización y ampliación de tramos de vías férreas federales, así como la construcción de libramientos que eviten el paso por las poblaciones; lo anterior sin perjuicio de las atribuciones que en materia técnica correspondan a la Agencia Reguladora del Transporte Ferroviario;
-
-VI. Evaluar, en coordinación con la Dirección General de Planeación y las unidades administrativas competentes de la Secretaría, las propuestas relativas a la planeación, construcción, modernización, reconstrucción y conservación de la obra pública e infraestructura para la prestación de los servicios públicos de transporte ferroviario, del masivo de personas pasajeras y del multimodal;
-
-VII. Fijar, modificar y aprobar las dimensiones y características del derecho de vía en los proyectos de construcción, reconstrucción o modernización de las vías férreas concesionadas;
-
-VIII. Llevar a cabo las acciones que se requieran para la liberación y regularización del derecho de vía de las obras que deriven de los programas de construcción, modernización, conservación y reconstrucción de vías ferroviarias, en coordinación con la Dirección General Patrimonial y del Derecho de Vía, con la participación de los Centros SICT y, en su caso, de las autoridades competentes de los tres órdenes de gobierno;
-
-IX. Otorgar los permisos y autorizaciones para operar el transporte multimodal y para prestar el servicio de maniobras en zonas federales terrestres ferroviarias, conforme a las disposiciones jurídicas aplicables, así como modificar o revocar dichos permisos y autorizaciones cuando jurídicamente sea procedente;
-
-X. Otorgar, modificar, revocar los permisos y autorizaciones ferroviarias, así como para:
-
-a) La prestación de los servicios auxiliares;
-
-b) La construcción de accesos, cruzamientos e instalaciones marginales;
-
-c) La construcción y operación de puentes sobre vías férreas;
-
-d) La instalación de anuncios y señales publicitarias;
-
-e) La construcción, conservación y mantenimiento de vías férreas por parte de las empresas cuando éstas se ofrezcan para su explotación y operación a terceros que tengan concesión para el servicio público de transporte ferroviario, y
-
-f) Cualquier otra obra e instalación subterránea, superficial o aérea en el derecho de vía de las vías generales de comunicación ferroviaria.
-
-Asimismo aprobar los proyectos ejecutivos correspondientes a los permisos y autorizaciones señalados en el párrafo anterior;
-
-XI. Establecer en caso fortuito o de fuerza mayor y, previa opinión técnica y operativa de la Agencia Reguladora del Transporte Ferroviario, modalidades en la operación y explotación de las vías férreas, así como en la prestación del servicio público de transporte ferroviario, por el tiempo y proporción que resulte estrictamente necesario;
-
-XII. Proponer a las autoridades competentes los montos de pago por derechos, aprovechamientos y contraprestaciones que se deben cubrir al Gobierno Federal por el otorgamiento de las concesiones, asignaciones, permisos y autorizaciones en materia ferroviaria, de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias, así como por el uso, aprovechamiento y explotación de los bienes del dominio público correspondientes a la infraestructura ferroviaria y por la prestación del servicio público de transporte ferroviario;
-
-XIII. Autorizar los planes de negocios que presenten las personas concesionarias o asignatarias de títulos para construir, operar, explotar y prestar el servicio público de transporte ferroviario, así como las actualizaciones a éstos;
-
-XIV. Aprobar las pólizas de los seguros y sus renovaciones que en materia de transporte ferroviario y multimodal deben contratar las personas concesionarias, permisionarias y autorizadas;
-
-XV. Verificar el cumplimiento de las concesiones, asignaciones, permisos y autorizaciones de transporte multimodal y de servicio de maniobras en zonas federales terrestres ferroviarias;
-
-XVI. Representar al sector en materia de transporte ferroviario, masivo y multimodal en reuniones bilaterales, grupos de trabajo y ante organismos internacionales;
-
-XVII. Supervisar el cumplimiento y observancia por parte de los Centros SICT de los criterios, lineamientos, procedimientos, y demás disposiciones jurídicas y administrativas que se emitan en materia de transporte ferroviario, masivo de personas pasajeras y multimodal, y de servicio de maniobras en zonas federales terrestres ferroviarias;
-
-XVIII. Evaluar y autorizar a las unidades de verificación de las normas oficiales mexicanas relacionadas con el servicio público de transporte ferroviario, masivo de personas pasajeras y multimodal, así como proponer los lineamientos para dicha autorización;
-
-XIX. Promover la coordinación e integración de los servicios e infraestructura necesarios para el desarrollo de la logística en territorio nacional y su vinculación con el extranjero;
-
-XX. Revisar, evaluar y dictaminar programas y proyectos ferroviarios y de transporte masivo de pasajeros, así como su desarrollo, y vigilar su estricto apego a la normativa federal vigente aplicable, y
-
-XXI. Otorgar, modificar o revocar las autorizaciones para dar en arrendamiento o comodato fracciones de inmuebles ferroviarios concesionados.
+(DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 ###### ARTÍCULO 22.
 
@@ -817,67 +1003,119 @@ La Dirección General de Servicios Técnicos tiene las atribuciones siguientes:
 
 I. Proponer a la persona superior jerárquica las políticas y programas de infraestructura para el transporte en el marco de su competencia, en coordinación con otras unidades administrativas de la Secretaría;
 
-II. Elaborar y participar, en coordinación con la Dirección General de Planeación, en la planeación y programación del desarrollo de la infraestructura carretera federal en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+II. Elaborar y participar, en coordinación con la Subsecretaría de Infraestructura, en la planeación y programación del desarrollo de la infraestructura carretera federal en el ámbito de su competencia;
 
 III. Estudiar y proponer características y especificaciones técnicas que deben contener los proyectos de las obras públicas de la Secretaría y de las entidades paraestatales sectorizadas a ésta, así como los criterios, métodos de cálculo y pruebas de laboratorio que deben aplicarse;
 
 IV. Elaborar, modificar y actualizar las normas técnicas y manuales de la Secretaría para la infraestructura del transporte e interpretarlas para su debida aplicación, así como proponer y participar en la elaboración de las normas oficiales mexicanas de su competencia, dentro de los Comités Consultivos Nacionales de Normalización del Transporte Terrestre y del Transporte Ferroviario, así como en los Subcomités correspondientes;
 
-V. Ejecutar estudios geológicos, hidráulicos, geotécnicos, de cimentación, de pavimentos y demás que se requieran para proyectos de obras públicas a cargo de la Secretaría, y en su caso, de las entidades paraestatales sectorizadas a ésta;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-VI. Realizar estudios y proyectos para puentes, estructuras, túneles y obras de tierra, en el ámbito de su competencia, necesarios para la construcción, modernización y conservación de obras viales y estructuras a cargo de la Secretaría;
+V. Ejecutar estudios y proyectos relacionados con aspectos geológicos, hidráulicos, geotécnicos, de estructuras, de cimentación, de pavimentos, de movilidad y seguridad vial y demás que se requieran para proyectos de obras públicas a cargo de la Secretaría;
 
-VII. Elaborar estudios y proyectos en materia de infraestructura carretera, en el ámbito de su competencia, así como emitir opinión sobre aquéllos que realicen las entidades paraestatales sectorizadas a la Secretaría, y respecto de los procedimientos de construcción, reconstrucción, operación y conservación de obras viales, incluso los caminos y puentes federales concesionados; e integrar en el sistema institucional vigente de banco de proyectos aquellos estudios y proyectos que hayan sido concluidos y autorizados;
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+V Bis. Revisar y emitir observaciones de los estudios y proyectos elaborados por entidades paraestatales de la Administración Pública Federal, así como de gobiernos de las entidades federativas relacionados con aspectos geológicos, hidráulicos, geotécnicos, de estructuras, de cimentación, de pavimentos, de movilidad y seguridad vial y demás que se requieran para obras públicas;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+VI. Realizar estudios y proyectos de obras viales y estructuras, como puentes y túneles, en el ámbito de su competencia, necesarios para su construcción, modernización y conservación a cargo de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+VII. Elaborar estudios y proyectos en materia de infraestructura carretera, en el ámbito de su competencia, así como emitir opinión técnica sobre aquellos que realicen las entidades paraestatales sectorizadas a la Secretaría, y respecto de los procedimientos de construcción, reconstrucción, operación y conservación de obras viales, incluso los caminos y puentes federales concesionados, e integrar en el banco de proyectos aquellos estudios y proyectos que hayan sido concluidos y revisados;
 
 VIII. Realizar pruebas y ensayos de laboratorio que se requieran para determinar las características y comportamiento de los materiales que se utilizan en la construcción de obras viales y calibrar los equipos de prueba;
 
 IX. Obtener, actualizar y difundir la información de los materiales en las distintas regiones del país, útiles para la construcción, modernización y conservación de carreteras;
 
-X. Proponer los procedimientos para la gestión de calidad de las obras de infraestructura de la red carretera y realizar la verificación de la calidad en la construcción de las obras viales que ejecuta la Secretaría;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XI. Validar, en coordinación con las unidades administrativas involucradas, con las entidades paraestatales sectorizadas a la Secretaría, la ubicación de las nuevas carreteras o la modernización de las existentes, así como participar en la definición de la solución integral y características geométricas para la elaboración del anteproyecto que permita la realización del proyecto ejecutivo por parte del área correspondiente, y emitir la opinión técnica;
+X. Proponer a las unidades administrativas competentes de la Secretaría los procedimientos para el aseguramiento de la calidad de las obras de infraestructura de la red carretera federal, y realizar la verificación de la calidad en la construcción de las obras viales que ejecuta la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XI. Participar, con las unidades administrativas competentes de la Secretaría y las entidades paraestatales sectorizadas a esta, en la ubicación de las nuevas carreteras o la modernización de las existentes, así como en la definición de las características geométricas y obras auxiliares, tales como puentes peatonales, rampas de emergencia para frenado y plazas de cobro, que deberán estar incluidas en el proyecto ejecutivo correspondiente, y establecer la clasificación, así como el número de ruta de las carreteras federales;
 
 XII. Producir, obtener y difundir información sobre la demanda del transporte y la oferta de infraestructura vial;
 
 XIII. Asesorar a las entidades paraestatales sectorizadas a la Secretaría en materia de estudios y proyectos viales;
 
-XIV. Integrar y evaluar la información gráfica y documental sobre procedimientos, proyectos y obras viales ejecutados por la Secretaría, cuyas soluciones constituyen un soporte técnico para el desarrollo actual de la infraestructura y, administrar la biblioteca en materia de vías terrestres, así como recopilar y difundir material técnico que enriquezca el acervo histórico de la Secretaría;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XV. Asesorar y, en su caso, realizar el diseño de los elementos geométricos, de señalización, seguridad e iluminación vial, entre otros, relacionados con la operación de las obras viales;
+XIV. Organizar y preservar para consulta la información gráfica y documental sobre procedimientos, proyectos y obras viales ejecutados por la Secretaría, cuyas soluciones constituyen un soporte técnico para el desarrollo actual de la infraestructura y, administrar la biblioteca en materia de vías terrestres;
 
-XVI. Emitir opinión y, en su caso, intervenir en los estudios, análisis y determinación de precios unitarios, costos-horarios y rendimientos de la maquinaria y equipo utilizados en las obras que ejecuta la Secretaría;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XVII. Fungir como área normativa de los Centros SICT en materia de servicios técnicos, en términos de las disposiciones jurídicas aplicables, así como dar seguimiento a los programas que están a cargo de dichos centros;
+XV. Proporcionar asesoría a las entidades paraestatales sectorizadas a la Secretaría, gobiernos de las entidades federativas y particulares para realizar el diseño de los elementos geométricos, de señalización, seguridad e iluminación vial, entre otros, relacionados con la infraestructura carretera;
 
-XVIII. Interactuar con organismos o autoridades de investigación de los tres órdenes de gobierno, a efecto de proponer, desarrollar, implantar y evaluar desarrollos tecnológicos, así como proyectos especiales, relacionados con los diferentes modos de transporte;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XIX. Coordinar la realización de investigaciones, estudios y proyectos relacionados con la infraestructura del transporte y su operación;
+XVI. Emitir opinión técnica en el análisis y determinación de precios unitarios, costos-horarios y rendimientos de la maquinaria y equipo utilizados en las obras que ejecuta la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XVII. Normar técnicamente las funciones de las unidades administrativas de servicios técnicos que están adscritas a los Centros SICT, así como dar seguimiento a los programas a su cargo;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XVIII. Interactuar con organismos o autoridades de investigación nacionales e internacionales, a efecto de proponer, desarrollar, implantar y evaluar desarrollos tecnológicos, así como de estudios y proyectos relacionados con la infraestructura federal y su operación;
+
+XIX. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
 XX. Representar a la Subsecretaría de Infraestructura ante organismos técnicos internacionales vinculados con la infraestructura del transporte, así como intervenir en la negociación de asuntos internacionales en la materia, en coordinación con las unidades administrativas competentes;
 
-XXI. Participar en la elaboración de dictámenes técnicos sobre daños en la infraestructura carretera;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXI. Participar en la elaboración de dictámenes técnicos sobre la infraestructura federal a cargo de la Secretaría;
 
 XXII. Establecer procedimientos, analizar y efectuar las evaluaciones para conocer el estado físico, la calidad de los servicios y los niveles de operación que ofrece la infraestructura carretera a los usuarios;
 
-XXIII. Participar en el desarrollo de programas tendientes a mejorar las condiciones de seguridad en el sistema vial del país;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XXIV. Actualizar y difundir anualmente el tabulador de precios unitarios a costo directo para integrar los presupuestos estimados de las obras de infraestructura carretera, por las unidades administrativas que lleven a cabo los procedimientos de contratación de las obras de la Secretaría, así como para fijar el pago de las obras de emergencia a contratar por adjudicación directa;
+XXIII. Participar en el desarrollo de programas para mejorar las condiciones de seguridad vial de la infraestructura carretera federal;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXIV. Actualizar y difundir anualmente el tabulador de precios unitarios a costo directo para integrar los presupuestos de las obras de infraestructura carretera, por las unidades administrativas que lleven a cabo los procedimientos de contratación de las obras programadas por la Secretaría, así como de las obras de emergencia a contratar por adjudicación directa;
 
 XXV. Calcular los porcentajes de variación por actualización de los costos de los insumos que intervienen en los precios unitarios, que se aplican para el pago de estimaciones de las obras de infraestructura carretera, así como de los servicios de supervisión, y acordarlos con la persona superior jerárquica para su autorización y aplicación;
 
-XXVI. Atender las emergencias provocadas por fenómenos naturales que afecten la infraestructura competencia de la Secretaría, y coordinar a las unidades administrativas para tales efectos, bajo los protocolos que al efecto establezca, así como realizar estudios o propuestas de obras provisionales;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XXVII. Emitir opinión técnica, de acuerdo con las disposiciones aplicables, sobre los proyectos que se presentan en los procedimientos administrativos para el otorgamiento de los permisos para el uso y aprovechamiento del derecho de vía en autopistas de cuota, así como opinar sobre los proyectos de dictámenes en la materia de la Red Carretera Federal Libre de Peaje, cuando lo soliciten los Centros SICT;
+XXVI. Coordinar a las unidades administrativas competentes de la Secretaría en la atención de emergencias y desastres provocados por fenómenos perturbadores que afecten la infraestructura competencia de la Secretaría, bajo los protocolos que al efecto se establezcan;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXVII. Emitir opinión técnica, de acuerdo con las disposiciones aplicables, sobre los proyectos que se presentan en los procedimientos administrativos para el otorgamiento de los permisos para el uso y aprovechamiento del derecho de vía en autopistas de cuota;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXVII Bis. Emitir opinión, a solicitud de los Centros SICT o de las direcciones generales competentes de la Secretaría, sobre los estudios, proyectos y dictámenes técnicos a su cargo en relación con la Red Carretera Federal Libre de Peaje;
 
 XXVIII. Proponer las características y especificaciones técnicas de los caminos y puentes de jurisdicción federal, así como actualizar y publicar cuando se requiera la clasificación carretera;
 
-XXIX. Mantener actualizada la clasificación de la Red Carretera Federal, y atender sus aspectos, condiciones funcionales, estructurales y de seguridad vial;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XXX. Diseñar, establecer y autorizar el programa de las auditorías de seguridad vial de proyectos carreteros, e incluir aquellas que soliciten las áreas normativas de la Subsecretaría de Infraestructura;
+XXIX. Registrar las características geométricas de la red (sic) carretera federal que permita a la Dirección General de Autotransporte Federal la actualización de su clasificación operacional de conformidad con la normativa aplicable;
 
-XXXI. Establecer las condiciones para implementar nueva tecnología en los proyectos y obras carreteras, así como en los servicios que se ofrecen al usuario, y
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XXXII. Emitir opinión y, en su caso, realizar las actividades conducentes y pruebas de laboratorio necesarias para determinar la calidad y cantidad en la construcción, modernización y conservación en las obras viales a cargo de la Secretaría, a fin de atender las solicitudes que presentan los diferentes órganos de control y de fiscalización.
+XXX. Obtener, procesar, analizar, evaluar e integrar los elementos funcionales, estructurales y de seguridad vial de la red carretera federal, a través de su auscultación para elaborar el diagnóstico de dicha red;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXXI. Elaborar y ejecutar el programa de las auditorías de seguridad vial en la red carretera federal, con base en la normativa aplicable, e incluir aquellas que soliciten las direcciones generales adscritas a la Subsecretaría de Infraestructura;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXXII. Evaluar las características de los productos de nuevas tecnologías aplicables en los proyectos y obras carreteras en la red carretera federal, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXXIII. Atender, en coordinación con la Dirección General de Control y Seguimiento de Auditorías, las solicitudes que presentan los diferentes órganos fiscalizadores, en relación al control y verificación de la calidad de las obras de construcción, modernización y conservación en las obras carreteras a cargo de la Secretaría.
 
 ###### ARTÍCULO 23.
 
@@ -885,17 +1123,25 @@ La Dirección General de Autotransporte Federal tiene las atribuciones siguiente
 
 I. Proponer a la persona superior jerárquica las políticas, programas y demás disposiciones administrativas en materia de autotransporte federal, así como ejercer la autoridad en el marco de su competencia;
 
-II. Proponer a las autoridades competente (sic) los criterios y lineamientos, así como los procesos, procedimientos, sistemas y controles que faciliten la transparencia en la gestión pública en materia de autotransporte federal, así como instituir la mejora continua en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+II. Proponer a las autoridades competentes los criterios y lineamientos, así como los procesos, procedimientos, sistemas y controles que faciliten la transparencia en la gestión pública en materia de autotransporte federal, así como instituir la mejora continua en el ámbito de su competencia;
 
 III. Instruir el cumplimiento y observancia por parte de los Centros SICT de los criterios y lineamientos, así como los procesos, procedimientos, sistemas y demás disposiciones jurídicas y administrativas que se emitan en materia de autotransporte federal; supervisar su correcta aplicación y, en su caso, proponer a la persona superior jerárquica las acciones necesarias para el cumplimiento de tales disposiciones o resolución de problemáticas detectadas;
 
-IV. Expedir regulación técnica en materia de servicios del autotransporte federal y sus servicios auxiliares, así como del autotransporte internacional en el territorio nacional, el transporte privado, el arrendamiento de automotores, remolques y semirremolques, el arrendamiento de automóviles de uso privado, los vehículos diagnóstico de fabricantes, importadores o armadoras; el traslado de vehículos que operan en los caminos y puentes de jurisdicción federal; lo relativo a las licencias federales de personas conductoras, centros de capacitación, terminales de personas pasajeras y de carga y, en lo conducente, a unidades de verificación, laboratorios de prueba y organismos de certificación, así como proponer a su superior jerárquico las modalidades que dicte el interés general y, en su caso, diseñar los sistemas de operación de los servicios;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+IV. Expedir regulación técnica en materia de servicios del autotransporte federal y sus servicios auxiliares, así como del autotransporte internacional en el territorio nacional; el transporte privado; el arrendamiento de automotores, remolques y semirremolques; el arrendamiento de automóviles de uso privado; los vehículos diagnóstico de fabricantes, importadores o armadoras; el traslado de vehículos que operan en los caminos y puentes de jurisdicción federal; lo relativo a las licencias federales de personas conductoras, centros de capacitación, terminales de personas pasajeras y de carga y, en lo conducente, a unidades de inspección, laboratorios de prueba y organismos de certificación, así como proponer a su superior jerárquico las modalidades que dicte el interés general y, en su caso, diseñar los sistemas de operación de los servicios;
 
 V. Emitir los permisos para la construcción, operación y explotación de terminales de autotransporte federal de personas pasajeras y de carga, las cuales deberán contar con áreas para la prestación de servicios médicos para las personas usuarias; supervisar, en coordinación con los Centros SICT, que el funcionamiento de dichas terminales se realice de acuerdo con la (sic) disposiciones jurídicas establecidas, así como participar con la Dirección General de Carreteras, en aquellos asuntos que se relacionen con el uso del derecho de vía para la instalación de servicios relacionados con el autotransporte federal, como paradores, centros fijos o dinámicos de verificación de peso y dimensiones, y los demás servicios previstos en los ordenamientos aplicables;
 
-VI. Otorgar el reconocimiento a los centros destinados a la capacitación y el adiestramiento de personas conductoras del servicio de autotransporte federal, que cumplan con los requisitos correspondientes, así como emitir y aprobar los programas integrales de capacitación del personal que intervenga en la operación del autotransporte federal; supervisar su desarrollo; vigilar que éstos correspondan a los objetivos fijados, y designar a las personas servidoras públicas que queden facultadas para intervenir en ello;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-VII. Evaluar y aprobar a las personas físicas o morales como organismos de certificación, laboratorios de prueba y unidades de verificación de las normas oficiales mexicanas relacionadas con el autotransporte federal, así como proponer los lineamientos que regulen la evaluación y aprobación de dichas personas físicas o morales;
+VI. Otorgar el reconocimiento a los centros y personal instructor destinados a la capacitación y el adiestramiento de personas conductoras del servicio de autotransporte federal, que cumplan con los requisitos correspondientes, así como emitir y aprobar los programas integrales de capacitación del personal que intervenga en la operación del autotransporte federal; supervisar su desarrollo; vigilar que estos correspondan a los objetivos fijados, y designar a las personas servidoras públicas que queden facultadas para intervenir en ello;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+VII. Evaluar y aprobar a las personas físicas o morales como organismos de certificación, laboratorios de prueba, y unidades de inspección de las normas oficiales mexicanas relacionadas con el autotransporte federal, así como proponer los lineamientos que regulen la evaluación y aprobación de dichas personas físicas o morales;
 
 VIII. Elaborar y actualizar las normas oficiales mexicanas y las que se requieran en caso de emergencia, en materia de autotransporte federal, en las que se establezcan las características, especificaciones y los procedimientos de evaluación de la (sic) conformidad, respecto de laboratorios de prueba, centros de lavado de autotanques, la fabricación, operación y seguridad de los vehículos y equipos destinados al autotransporte federal, sus servicios auxiliares, incluido el transporte de materiales y residuos peligrosos y las relativas a los elementos de identificación del vehículo, remolques, semirremolques y convertidores, o eslabones para unir remolques, cuando sean matriculados en el país, conforme a los ordenamientos jurídicos en la materia;
 
@@ -903,9 +1149,13 @@ IX. Elaborar las normas oficiales mexicanas y determinar las características f�
 
 X. Administrar el registro de las personas físicas o morales, así como a sus representantes legales o apoderadas, dedicadas a la fabricación o armado de autobuses, camiones, tractocamiones, remolques, semirremolques, convertidores y grúas, en términos de las normas oficiales mexicanas aplicables;
 
-XI. Apercibir, en el ámbito de sus atribuciones, a las personas infractoras, así como imponer, graduar y, en su caso, reducir y cancelar las sanciones aplicables por infracciones que se cometan con motivo de las violaciones a los ordenamientos aplicables en materia de autotransporte federal, transporte privado y uso de las carreteras de jurisdicción federal, así como dar aviso a las autoridades competentes y efectuar las notificaciones respectivas;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XII. Vigilar el cumplimiento de las obligaciones y condiciones que se establezcan en los permisos, autorizaciones y reconocimientos en materia de autotransporte federal, transporte privado y servicios auxiliares y, cuando proceda, declarar administrativamente la nulidad, cancelación o revocación de los permisos, autorizaciones o reconocimientos, así como la modificación, terminación o requisa de éstos o, en su caso, proponerlo a la autoridad competente;
+XI. Apercibir, en el ámbito de sus atribuciones, a las personas infractoras, así como imponer, graduar y, en su caso, reducir y cancelar las sanciones aplicables por infracciones que se cometan con motivo de las violaciones a los ordenamientos aplicables en materia de autotransporte federal, sus servicios auxiliares en materia de jurisdicción federal, ubicados en cualquier entidad federativa, en las zonas sobre las que la Nación ejerce su soberanía y jurisdicción, y en cualquier vía general de comunicación, aeropuertos, terminales de personas pasajeras y de carga; transporte privado y uso de las carreteras de jurisdicción federal, así como dar aviso a las autoridades competentes y efectuar las notificaciones respectivas;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XII. Vigilar el cumplimiento de las obligaciones y condiciones que se establezcan en los permisos, aprobaciones, autorizaciones y reconocimientos en materia de autotransporte federal, transporte privado y servicios auxiliares y, cuando proceda, declarar administrativamente la nulidad, cancelación o revocación de los permisos, aprobaciones, autorizaciones o reconocimientos, así como, en su caso, la modificación, terminación o requisa de estos o, proponerlo a la autoridad competente;
 
 XIII. Autorizar a las personas permisionarias de los servicios de autotransporte federal, la constitución de fondos de garantía que cubran los daños y perjuicios que puedan ocasionarse a las personas usuarias de los servicios, a terceros en su persona o sus bienes, a las vías generales de comunicación y cualquier otro daño que pudiera generarse por el vehículo o su carga, así como vigilar su cumplimiento;
 
@@ -913,7 +1163,9 @@ XIV. Ejercer las atribuciones de la Secretaría sobre las tarifas en materia de 
 
 XV. Formular, proponer e implementar, en el ámbito de su competencia, programas para el cumplimiento de las normas oficiales mexicanas relacionadas con el autotransporte federal, así como en materia de contaminación ambiental, operación y seguridad de los vehículos y equipos destinados al autotransporte federal, incluido el transporte de materiales y residuos peligrosos, sus servicios auxiliares, y sobre placas metálicas y calcomanías de identificación vehicular;
 
-XVI. Formular, proponer e implementar los programas de inspección, verificación y vigilancia de los servicios de autotransporte federal, sus servicios auxiliares, el transporte privado, así como el arrendamiento de automotores, remolques y semirremolques, arrendamiento de automóviles para uso particular, vehículos de diagnóstico, el traslado de vehículos, fabricantes de placas metálicas y calcomanías de identificación vehicular con registro de la Secretaría, así como los lineamientos que para tales efectos sean necesarios;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XVI. Formular, proponer e implementar los programas de inspección y verificación de los servicios de autotransporte federal, sus servicios auxiliares, el transporte privado, así como el arrendamiento de automotores, remolques y semirremolques, arrendamiento de automóviles para uso particular, vehículos de diagnóstico, el traslado de vehículos, fabricantes de placas metálicas y calcomanías de identificación vehicular con registro de la Secretaría, así como los lineamientos que para tales efectos sean necesarios;
 
 XVII. Participar ante organismos internacionales en las negociaciones que se lleven a cabo para la formalización de tratados y convenios relacionados con el autotransporte, con la intervención que corresponda a la Secretaría de Relaciones Exteriores; proponer las acciones que faciliten su internacionalización, así como establecer mecanismos para su implantación y vigilancia y, en su caso, plantear la armonización de las disposiciones jurídicas aplicables al autotransporte federal con la de otros países;
 
@@ -923,13 +1175,17 @@ XIX. Proponer a la persona superior jerárquica, los procedimientos para la veri
 
 XX. Establecer los lineamientos para la atención de quejas en materia de autotransporte federal, conciliación entre partes involucradas, así como los mecanismos para atender las quejas originadas en la realización de trámites;
 
-XXI. Proponer a la persona superior jerárquica, en coordinación con la Dirección General de Planeación, la planeación, definición de las políticas programas de infraestructura de acuerdo con las necesidades de los servicios de autotransporte federal en el marco de su competencia;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXI. Proponer a su superior jerárquico, la planeación y definición de las políticas y programas de infraestructura, de acuerdo con las necesidades de los servicios de autotransporte federal y en el marco de su competencia;
 
 XXII. Participar en la planeación del desarrollo de la infraestructura carretera federal en el ámbito de su competencia;
 
 XXIII. Proponer y participar, en coordinación con las direcciones generales de Servicios Técnicos y de Conservación de Carreteras, en la elaboración de criterios normativos y normas oficiales mexicanas en materia de autotransporte federal vinculado con la infraestructura carretera, las especificaciones de peso y dimensiones de los vehículos destinados al autotransporte federal, así como los requerimientos de infraestructura carretera, su reclasificación, señalamientos, conservación, las necesidades de los prestadores de servicios de autotransporte y participar con dichas unidades administrativas en la determinación de las características físicas de las instalaciones de paradores y en la aprobación de sus proyectos;
 
-XXIV. Coordinar con la Dirección General de Desarrollo Ferroviario y Multimodal, la regulación de la operación y explotación en materia de autotransporte, y de las instalaciones donde convergen los servicios de autotransporte federal con otros modos de transporte; colaborar con dicha Dirección General en cuánto al otorgamiento de los permisos correspondientes para las terminales de carga en que concurran los servicios de autotransporte federal con otros modos de transporte, así como coordinar con la Agencia Reguladora del Transporte Ferroviario la elaboración de normas oficiales mexicanas y la determinación de las características físicas de las instalaciones de las terminales de carga a que se refiere esta fracción;
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XXIV. Coordinar con la Agencia Reguladora del Transporte Ferroviario, la regulación de la operación y explotación en materia de autotransporte, y de las instalaciones donde convergen los servicios de autotransporte federal con otros modos de transporte, así como colaborar con dicha Agencia en cuánto al otorgamiento de los permisos correspondientes para las terminales de carga en que concurran los servicios de autotransporte federal con otros modos de transporte y la elaboración de normas oficiales mexicanas y la determinación de las características físicas de las instalaciones de las terminales de carga a que se refiere esta fracción;
 
 XXV. Promover la coordinación con las autoridades federales y estatales responsables en los puertos marítimos, aeropuertos y puertos fronterizos, para inspeccionar, verificar y vigilar el cumplimiento de las disposiciones jurídicas aplicables al autotransporte federal, sus servicios auxiliares y el transporte privado;
 
@@ -963,17 +1219,19 @@ XXXIII. Registrar los horarios de los servicios de autotransporte federal de per
 
 XXXIV. Registrar los convenios que las personas permisionarias celebren entre sí o con otras empresas de autotransporte para la cobertura en la prestación de los servicios de autotransporte federal;
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 13 DE ENERO DE 2025)</small>
+
 XXXV. Tramitar, expedir y resolver los elementos de identificación de los vehículos que circulen por las carreteras y puentes de jurisdicción federal destinados al:
 
 a) Servicio de autotransporte federal y servicios auxiliares;
 
 b) Arrendamiento de automotores, remolques y semirremolques y de arrendamiento de automóviles para uso particular;
 
-d) (sic) Transporte privado de personas o carga;
+c) Transporte privado de personas o carga;
 
-e) Traslado de vehículos nuevos o para vehículos diagnóstico, y
+d) Traslado de vehículos nuevos o para vehículos diagnóstico, y
 
-f) Las modalidades que se establezcan en disposiciones jurídicas que emita la Secretaría conforme a la legislación aplicable;
+e) Las modalidades que se establezcan en disposiciones jurídicas que emita la Secretaría conforme a la legislación aplicable;
 
 XXXVI. Llevar el registro de las bases constitutivas y modificaciones, así como de los representantes legales o apoderados de las personas físicas o morales que presten servicios de autotransporte federal, transporte privado y sus servicios auxiliares, de arrendadoras de automotores, remolques y semirremolques y de arrendadoras de automóviles para uso particular, servicios de transporte autorizados por autoridades estatales o municipales, que operan en caminos y puentes de jurisdicción federal, así como vigilar la operación de dichas bases y fomentar su desarrollo;
 
@@ -999,7 +1257,15 @@ c) De las terminales de las personas pasajeras o de carga, de los depósitos de 
 
 d) De los centros de datos, de los fabricantes de placas metálicas y calcomanías de identificación vehicular, y
 
-f) (sic) De los laboratorios de prueba y organismos de certificación, en todo el país, y supervisar el cumplimiento de las características físicas, la conservación y el mantenimiento de los equipos e instalaciones en las que se prestan dichos servicios a fin de corroborar el cumplimiento de las disposiciones jurídicas aplicables;
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 13 DE ENERO DE 2025)</small>
+
+e) De los laboratorios de prueba y organismos de certificación, en todo el país, y supervisar el cumplimiento de las características físicas, la conservación y el mantenimiento de los equipos e instalaciones en las que se prestan dichos servicios a fin de corroborar el cumplimiento de las disposiciones jurídicas aplicables;
+
+f) (DEROGADO, D.O.F. 13 DE ENERO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XLIII Bis. Mantener actualizada la clasificación operacional de la red carretera federal, de conformidad con el registro de características geométricas que lleve a cabo la Dirección General de Servicios Técnicos;
 
 XLIV. Promover y participar, en coordinación con las unidades administrativas competentes de esta Secretaría, en los planes de conservación de vías generales de comunicación y sus señalamientos, en los estudios de ingeniería de tránsito que se requieran, así como para la construcción de centros fijos o dinámicos de verificación de peso y dimensiones, además de sistemas de medición de pesaje dinámico y dimensionamiento vehicular y en la clasificación de los caminos y puentes de jurisdicción federal;
 
@@ -1007,11 +1273,17 @@ XLV. Designar a las personas servidoras públicas que quedan facultadas para int
 
 XLVI. Coordinar y solicitar el apoyo de la autoridad competente para el debido cumplimiento de las atribuciones previstas en la fracción XXXVIII del presente artículo en términos de las disposiciones jurídicas aplicables, y
 
-XLVII. Actuar como órgano de consulta, así como fijar, sistematizar, unificar y difundir los criterios para la adecuada aplicación de las disposiciones legales y reglamentarias que normen los servicios en materia de autotransporte federal.
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-Las personas servidoras públicas facultadas por la Dirección General de Autotransporte Federal en los términos de la fracción XLV del párrafo anterior, pueden inspeccionar o verificar el cumplimiento de las disposiciones jurídicas vigentes en la materia de autotransporte federal, así como las disposiciones sobre el peso, dimensiones y capacidad de los vehículos, en centros fijos o dinámicos de verificación de peso y dimensiones en caminos de jurisdicción federal, ubicados en cualquier entidad federativa, así como en las zonas sobre las que la nación ejerce su soberanía y jurisdicción, y en cualquier vía general de comunicación, aeropuertos, terminales de personas pasajeras y carga, además también quedan facultadas y pueden, de acuerdo a su comisión, imponer las sanciones respectivas, de conformidad a las disposiciones jurídicas aplicables.
+XLVII. Actuar como órgano de consulta en aspectos técnicos, en el ámbito de su competencia, así como fijar, sistematizar, unificar y difundir los criterios para la adecuada aplicación de las disposiciones legales y reglamentarias que normen los servicios en materia de autotransporte federal.
 
-La persona titular de la Dirección General de Autotransporte Federal puede auxiliarse en el ejercicio de sus atribuciones de la Dirección Ejecutiva de Planeación y Desarrollo; de la Dirección Ejecutiva Normativa de Permisos de Autotransporte Federal; de la Dirección Ejecutiva de Supervisión; de la Dirección Ejecutiva de Asuntos Jurídicos; de la Dirección Ejecutiva de Normas y Especificaciones Técnicas y de Seguridad en el Autotransporte; de la Dirección Ejecutiva de Trámites de Servicios de Autotransporte Federal, y de la Dirección de Trámites de Servicios de Autotransporte Federal, las cuales tendrán las atribuciones previstas en el Manual de Organización correspondiente y aquellas funciones que les encomiende la persona titular referida.
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+Las personas servidoras públicas facultadas por la Dirección General de Autotransporte Federal en los términos de la fracción XLV del párrafo anterior, pueden inspeccionar o verificar el cumplimiento de las disposiciones jurídicas vigentes en la materia de autotransporte federal, así como las disposiciones sobre el peso, dimensiones y capacidad de los vehículos, en centros fijos o dinámicos de verificación de peso y dimensiones, condiciones físico mecánicas y la documentación en tránsito que deben portar los vehículos que transportan materiales y residuos peligrosos, en caminos de jurisdicción federal, ubicados en cualquier entidad federativa, así como en las zonas sobre las que la nación ejerce su soberanía y jurisdicción, y en cualquier vía general de comunicación, aeropuertos, terminales de personas pasajeras y carga, además quedan facultadas, de acuerdo a su comisión, para imponer las sanciones respectivas, de conformidad a las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+La persona titular de la Dirección General de Autotransporte Federal para el ejercicio de sus atribuciones previstas en el presente artículo se auxilia de: la Dirección Ejecutiva de Planeación y Desarrollo; la Dirección Ejecutiva Normativa de Permisos de Autotransporte Federal; la Dirección Ejecutiva de Supervisión; la Dirección Ejecutiva de Asuntos Jurídicos; la Dirección Ejecutiva de Normas y Especificaciones Técnicas y de Seguridad en el Autotransporte; la Dirección Ejecutiva de Trámites de Servicios de Autotransporte Federal, y la Dirección de Trámites de Servicios de Autotransporte Federal, las cuales tienen las funciones previstas en el Manual de Organización correspondiente y aquellas que les encomiende la persona titular referida.
 
 ###### ARTÍCULO 24.
 
@@ -1071,101 +1343,11 @@ XXVI. Representar en los asuntos de su competencia a la Secretaría ante la Comi
 
 ###### ARTÍCULO 25.
 
-La Dirección General de Inclusión Digital y Redes de Telecomunicaciones tiene las atribuciones siguientes:
-
-I. Instrumentar las políticas, programas y proyectos en materia de telecomunicaciones, radiodifusión e inclusión digital, incluso las acciones que sean necesarias para contribuir a la política de inclusión digital universal del Ejecutivo Federal;
-
-II. Promover, en el ámbito de su competencia, el acceso, uso y aprovechamiento de las tecnologías de la información y comunicaciones para la población;
-
-III. Atender y aplicar, las disposiciones de la Estrategia Digital Nacional que emita el Ejecutivo Federal en materia de redes de telecomunicaciones e inclusión digital;
-
-IV. Realizar las acciones tendientes a garantizar la instalación y despliegue de infraestructura y provisión de los servicios públicos de interés general para el acceso a Internet de banda ancha en edificios e instalaciones de las dependencias y entidades de la Administración Pública Federal y contribuir con las entidades federativas, municipios y alcaldías;
-
-V. Promover el desarrollo de programas en materia de tecnología e innovación en colaboración con el Sistema Nacional de Humanidades, Ciencias, Tecnologías e Innovación;
-
-VI. Adquirir, establecer y operar directamente o, a través de terceros, infraestructura, redes de telecomunicaciones y sistemas satelitales para la prestación de servicios de telecomunicaciones y radiodifusión y para el desarrollo e implementación de los programas de cobertura social y conectividad, así como solicitar las concesiones y autorizaciones correspondientes de acuerdo con las disposiciones jurídicas aplicables;
-
-VII. Coordinar sus acciones con el Consejo Nacional de Humanidades, Ciencias y Tecnologías para establecer los mecanismos administrativos y técnicos que requieren las instituciones públicas de educación superior y de investigación para la interconexión entre sus redes, y entre éstas y las redes internacionales especializadas en el ámbito académico, así como en temas de desarrollo tecnológico lo anterior conforme lo dispone el artículo 213 de la Ley Federal de Telecomunicaciones y Radiodifusión;
-
-VIII. Analizar las mejores prácticas internacionales, promover y coordinar estudios e investigaciones, en materia de telecomunicaciones, radiodifusión incluso la banda ancha e internet, y tecnologías de la información para contribuir a la política de inclusión digital universal y a la cobertura universal, en el ámbito de su competencia, así como diseñar y difundir recomendaciones que promuevan el uso seguro y responsable de las tecnologías de información y comunicaciones, entre las personas usuarias;
-
-IX. Establecer y definir la capacidad satelital de reserva del Estado, en términos de lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y las demás normas reglamentarias y disposiciones aplicables;
-
-X. Administrar y vigilar el uso eficiente de la capacidad satelital propia, ya sea concesionada, adquirida o aquélla establecida como reserva del Estado en su asignación para redes de seguridad nacional, servicios de carácter social y otras necesidades del Gobierno;
-
-XI. Dar seguimiento al cumplimiento de las personas concesionarias o autorizadas a las obligaciones de cobertura social o cobertura universal que les hubiera establecido el Instituto Federal de Telecomunicaciones;
-
-XII. Procurar la continuidad de los servicios satelitales que proporciona el Estado, bajo políticas de largo plazo;
-
-XIII. Llevar a cabo, con la colaboración del Instituto Federal de Telecomunicaciones, de oficio, a petición de parte interesada o a petición del Instituto, las gestiones necesarias ante los organismos internacionales competentes, previo acuerdo con la Dirección General de Políticas de Telecomunicaciones y Radiodifusión, para la obtención de recursos orbitales a favor del Estado Mexicano, a fin de que sean concesionados para sí o para terceros;
-
-XIV. Solicitar la colaboración y apoyo de cualquier dependencia o entidad de la Administración Pública Federal, estatal, municipal o alcaldía, así como con los órganos autónomos, a fin de recabar información, documentación o cooperación necesaria en materia de telecomunicaciones y radiodifusión;
-
-XV. Llevar a cabo los procedimientos de coordinación de los recursos orbitales ante los organismos internacionales competentes, con las entidades de otros países y con los concesionarios nacionales u operadores extranjeros;
-
-XVI. Proponer la declaratoria y, en su caso, ejecutar la requisa, de las vías generales de comunicación de los servicios de telecomunicaciones y radiodifusión, con el apoyo técnico que requiera del Instituto Federal de Telecomunicaciones y demás instancias;
-
-XVII. Dar seguimiento, en coordinación con el Instituto Federal de Telecomunicaciones, al cumplimiento del Programa Nacional de Espectro Radioeléctrico y sus actualizaciones;
-
-XVIII. Analizar y elaborar las propuestas para que la persona superior jerárquica solicite la sustanciación y resolución de asuntos de manera prioritaria, en términos del artículo 44 de la Ley Federal de Telecomunicaciones y Radiodifusión;
-
-XIX. Adoptar las acciones y medidas necesarias que garanticen la continuidad en la prestación de los servicios de telecomunicaciones y radiodifusión, cuando el Instituto Federal de Telecomunicaciones dé aviso a la Secretaría de la existencia de causas de terminación por revocación o rescate de concesiones, disolución o quiebra de las sociedades concesionarias;
-
-XX. Establecer mecanismos de colaboración con las dependencias y entidades de la Administración Pública Federal, industria, academia y sociedad civil organizada, para fomentar la alfabetización e inclusión digital que requiera la población, especialmente los grupos en situación de vulnerabilidad;
-
-XXI. Desarrollar las acciones para la inclusión digital y la apropiación de las tecnologías de información y comunicaciones, así como de los servicios de telecomunicaciones, para las micro, pequeñas y medianas empresas, y
-
-XXII. Recabar y analizar información, en coordinación con la Dirección General de Políticas de Telecomunicaciones y Radiodifusión para, en su caso, dar vista al Instituto Federal de Telecomunicaciones, de aquellos asuntos, actos o circunstancias que ameriten su intervención en el ámbito de su competencia.
+(DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 ###### ARTÍCULO 26.
 
-La Dirección General de Políticas de Telecomunicaciones y Radiodifusión tiene las atribuciones siguientes:
-
-I. Proponer a la persona superior jerárquica los programas en materia de telecomunicaciones, radiodifusión e inclusión digital, así como aquéllos que promuevan la capacidad y servicios satelitales para las redes de seguridad nacional, incluso las acciones necesarias para contribuir a la política de inclusión digital universal del Ejecutivo Federal;
-
-II. Emitir propuestas que contribuyan al fortalecimiento de las telecomunicaciones y radiodifusión, incluso la correspondiente a la banda ancha e Internet, en términos de los acuerdos y tratados internacionales en los que México sea parte y en las disposiciones jurídicas aplicables;
-
-III. Desarrollar, en coordinación con el Instituto Federal de Telecomunicaciones, el Programa Nacional de Espectro Radioeléctrico y sus actualizaciones;
-
-IV. Establecer mecanismos de colaboración con las dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios y alcaldías, industria, academia y sociedad civil organizada, con la finalidad de apoyar la creación, desarrollo y divulgación de políticas, programas, proyectos y estrategias en materia de comunicaciones, telecomunicaciones y radiodifusión, así como las tecnologías relacionadas;
-
-V. Solicitar, concentrar y dar a conocer al Instituto Federal de Telecomunicaciones los requerimientos espectrales para el servicio público de telecomunicaciones y radiodifusión de la Administración Pública Federal, entidades federativas, municipios y alcaldías, así como, dar seguimiento al cumplimiento de los requerimientos espectrales para la Administración Pública Federal comunicados al Instituto Federal de Telecomunicaciones;
-
-VI. Establecer mecanismos de coordinación con el Instituto Federal de Telecomunicaciones para promover, en el ámbito de sus respectivas competencias, el acceso a las tecnologías de información y comunicaciones, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet;
-
-VII. Evaluar, en coordinación con la Dirección General de Planeación, las políticas y programas de telecomunicaciones, radiodifusión e inclusión digital de la Secretaría;
-
-VIII. Elaborar los programas de cobertura social y de conectividad en sitios públicos, en coordinación con los gobiernos de las entidades federativas, los municipios y alcaldías, y con el Instituto Federal de Telecomunicaciones;
-
-IX. Determinar los mecanismos e incentivos con los que contarán los programas de cobertura social y de conectividad en sitios públicos de conformidad con los artículos 211 y 215 de la Ley Federal de Telecomunicaciones y Radiodifusión;
-
-X. Proponer al Instituto Federal de Telecomunicaciones las obligaciones de cobertura geográfica, poblacional o social, de conectividad de sitios públicos y de contribución a la cobertura universal, a cargo de las personas concesionarias;
-
-XI. Definir y publicar en coordinación con el Instituto Federal de Telecomunicaciones y el Instituto Nacional de Estadística y Geografía, indicadores que permitan medir la evolución de los servicios de telecomunicaciones y radiodifusión en todo el territorio nacional;
-
-XII. Diseñar, difundir y publicar los indicadores e información estadística, herramientas y sistemas de información, necesarios para la elaboración, seguimiento y actualización de las políticas y programas en materia de telecomunicaciones y radiodifusión;
-
-XIII. Integrar las opiniones técnicas no vinculantes con la información y documentación técnica necesaria que se recabe de las dependencias o entidades de la Administración Pública Federal, estatal, municipal o alcaldías, así como de los órganos autónomos;
-
-XIV. Ejercer, conforme a las disposiciones legales aplicables, las funciones de coordinación sectorial con entidades paraestatales en materia de comunicaciones, telecomunicaciones y desarrollo tecnológico;
-
-XV. Proponer a la persona superior jerárquica las acciones y medidas necesarias que garanticen la continuidad en la prestación de los servicios de telecomunicaciones y radiodifusión cuando el Instituto Federal de Telecomunicaciones le dé aviso de la existencia de causas de terminación por revocación o rescate de concesiones, disolución o quiebra de las sociedades concesionarias;
-
-XVI. Regular, inspeccionar y vigilar los servicios públicos de correos, telégrafos y sus servicios diversos;
-
-XVII. Proponer a la persona superior jerárquica la posición del país en la negociación de convenios y tratados internacionales en materia de comunicaciones, telecomunicaciones y radiodifusión;
-
-XVIII. Coordinar la representación del Gobierno Mexicano ante organismos, entidades internacionales y foros en materia de comunicaciones, telecomunicaciones y radiodifusión, así como fijar la posición del Estado Mexicano ante los mismos;
-
-XIX. Formular y proponer a la persona superior jerárquica las opiniones técnicas no vinculantes dirigidas al Instituto Federal de Telecomunicaciones sobre el otorgamiento, prórroga, revocación, autorización de cesiones o cambio de control accionario, titularidad y operación de sociedades relacionadas con concesiones en materia de telecomunicaciones y radiodifusión;
-
-XX. Formular y proponer a la persona superior jerárquica, con base en los elementos técnicos, la opinión no vinculante de la Secretaría sobre el Programa Anual de Trabajo y el Informe Trimestral de Actividades enviado por el Instituto Federal de Telecomunicaciones;
-
-XXI. Promover, en coordinación con el Instituto Federal de Telecomunicaciones, acuerdos con autoridades extranjeras para que exista reciprocidad en las condiciones de acceso de los concesionarios nacionales interesados en ofrecer servicios en el exterior y mayor competencia;
-
-XXII. Proponer la celebración de convenios con gobiernos extranjeros en coordinación con el Instituto Federal de Telecomunicaciones, y a solicitud de los concesionarios de telecomunicaciones y radiodifusión, para que las redes nacionales intercambien tráfico con redes extranjeras, y
-
-XXIII. Elaborar las propuestas para la Secretaría de Relaciones Exteriores sobre la posición del país y participar en el ámbito de su competencia, con apoyo del Instituto Federal de Telecomunicaciones, en la negociación de tratados y convenios internacionales en materia de telecomunicaciones y radiodifusión.
+(DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 ###### ARTÍCULO 27.
 
@@ -1191,7 +1373,7 @@ IX. Supervisar e integrar la contabilidad general de la Secretaría y demás inf
 
 X. Difundir la normatividad aplicable, para la generación de información financiera, contable y presupuestal, así como asesorar a las unidades administrativas, a los Centros SICT y a los órganos administrativos de la Secretaría, así como a las entidades paraestatales sectorizadas a ésta;
 
-XI. Dar seguimiento a la atención de auditorías y revisiones que emitan los órganos fiscalizadores y fungir como enlace de la Secretaría ante dichos órganos;
+XI. (DEROGADA, D.O.F. 13 DE ENERO DE 2025)
 
 XII. Fungir como instancia administrativa única, ante la Secretaría de Hacienda y Crédito Público, en el trámite de las solicitudes, consultas y gestiones en materia presupuestaria, contable y de ingresos de las unidades administrativas, Centros SICT y de los órganos administrativos desconcentrados de la Secretaría, y de las entidades paraestatales sectorizadas a ésta;
 
@@ -1349,6 +1531,56 @@ XIV. Suscribir con la participación de las unidades administrativas según corr
 
 XV. Administrar la red digital multiservicios de la Secretaría.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 30 BIS. La Dirección General de Carreteras Rurales y Artesanales tiene las atribuciones siguientes:
+
+I. Dar atención a los asuntos relacionados con carreteras rurales, que le sean solicitados por las autoridades competentes, y
+
+II. Dar atención a los asuntos relacionados con carreteras artesanales que les sean solicitados por las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 30 TER. La Dirección General de Infraestructura e Instalaciones Destinadas al Sistema Educativo Federal y Cultural tiene las atribuciones siguientes:
+
+I. Dirigir la construcción y equipamiento de la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+
+II. Conducir la restauración, reforzamiento, reconstrucción y rehabilitación de la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+
+III. Acordar con su superior jerárquico los estudios, proyectos y acuerdos internos de los asuntos a su cargo;
+
+IV. Vigilar que las funciones realizadas por las unidades administrativas que tenga adscritas se realicen de conformidad con las disposiciones jurídicas aplicables, y
+
+V. Instruir a los inferiores jerárquicos llevar a cabo el auxilio para el adecuado funcionamiento de la Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 30 QUATER. La Dirección Ejecutiva de Costos, Contratos y Estimaciones de Infraestructura tiene la atribución siguiente:
+
+I. Dar seguimiento a los costos, contratos y estimaciones para la construcción, equipamiento, restauración, reforzamiento, reconstrucción y rehabilitación de la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 30 QUINQUIES. La Dirección Ejecutiva de Diagnóstico y Proyectos de Infraestructura tiene la atribución siguiente:
+
+I. Realizar el diagnóstico respecto de proyectos de infraestructura e instalaciones destinadas al servicio del sistema educativo nacional.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 30 SEXIES. La Dirección Ejecutiva de Construcción y Supervisión de Proyectos de Infraestructura para el Sistema Educativo Federal y Cultural tiene la atribución siguiente:
+
+I. Supervisar la construcción de los proyectos de infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+ARTÍCULO 30 SEPTIES. La Dirección Ejecutiva de Construcción de Infraestructura Urbana tiene las atribuciones siguientes:
+
+I. Realizar las acciones para la construcción, equipamiento, restauración, reforzamiento, reconstrucción y rehabilitación de infraestructura urbana, respecto de proyectos culturales y desarrollo de habilidades, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+
+II. Acordar con la persona titular de la Subsecretaría de Infraestructura los estudios, proyectos y acuerdos internos de los asuntos a su cargo, y
+
+III. Vigilar que las funciones realizadas por las unidades administrativas que tenga adscritas se realicen de conformidad con las disposiciones jurídicas aplicables.
+
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
 ###### ARTÍCULO 31.
@@ -1391,9 +1623,17 @@ XIII. Tramitar el pago de las obligaciones que deben cubrirse con cargo al presu
 
 XIV. Establecer controles de operación para realizar el pago de remuneraciones al personal;
 
-XV. Participar en la elaboración de las Condiciones Generales de Trabajo, y
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-XVI. Ejercer las demás atribuciones previstas en las leyes, instrumento normativo de creación, así como lo dispuesto por los artículos 9 y 10 del presente reglamento.
+XV. Participar en la elaboración de las Condiciones Generales de Trabajo;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XVI. Ejercer las demás atribuciones previstas en las leyes e instrumento normativo de creación, así como lo dispuesto por los artículos 9 y 10 del presente reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XVII. Informar respecto de su operación y gestión a la Subsecretaría a la que estén adscritos.
 
 ###### ARTÍCULO 34.
 
@@ -1403,7 +1643,9 @@ La Agencia Federal de Aviación Civil es un órgano administrativo desconcentrad
 
 La Agencia Reguladora del Transporte Ferroviario es un órgano administrativo desconcentrado de la Secretaría con capacidad técnica, operativa y de gestión, y tiene las atribuciones que le confieren la Ley Reglamentaria del Servicio Ferroviario, el Reglamento del Servicio Ferroviario, su instrumento normativo de creación, y demás disposiciones jurídicas aplicables.
 
-La Agencia Reguladora del Transporte Ferroviario cuenta con una persona titular, quien para el desarrollo y cumplimiento de las atribuciones encomendadas, se auxiliará en la Dirección General de Regulación Ferroviaria; la Dirección General de Asuntos Jurídicos; la Dirección General de Estudios, Estadística y Registro Ferroviario Mexicano, y la Dirección Ejecutiva de Verificación y Supervisión, las cuales tendrán las atribuciones previstas en el Manual de Organización correspondiente y aquellas funciones que les encomiende la persona titular de la Agencia.
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+La Agencia Reguladora del Transporte Ferroviario cuenta con una persona titular, quien para el desarrollo y cumplimiento de las atribuciones encomendadas, se auxilia de: la Dirección General de Economía, Información y Regulación Ferroviaria, la Dirección General de Verificación, Supervisión y Registro, la Dirección General de Planeación y Proyectos de Transporte Público, la Dirección General de Proyectos Ferroviarios, la Dirección General de Asuntos Jurídicos, la Dirección General de Administración y Finanzas, la Dirección General de Seguimiento a Proyectos y Asuntos Estratégicos, la Coordinación General de Construcción de Vías y Trenes, la Dirección General Técnica, la Dirección General de Obras, la Dirección General de Control y Gestión Interna de Obras, las cuales tendrán las funciones previstas en el Manual de Organización correspondiente y aquellas que les encomiende la persona titular de la Agencia.
 
 ###### ARTÍCULO 36.
 
@@ -1435,15 +1677,25 @@ V. Coordinar y validar con las unidades administrativas competentes, las propues
 
 VI. Proponer e implementar proyectos en materia de modernización, organización y eficiencia administrativa, para estandarizar y mejorar la operación de los Centros SICT;
 
-VII. Atender, en coordinación con la Dirección General de Vinculación, las solicitudes que la ciudadanía formula a la Secretaría, respecto de la gestión de las unidades administrativas que tiene adscritas, así como de la actuación de las personas servidoras públicas en el ejercicio de sus facultades, y
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
 
-VIII. Participar, en coordinación con las unidades administrativas de la Secretaría y las instancias gubernamentales competentes, en casos de contingencia, desastres naturales, eventos fortuitos o de fuerza mayor, que permitan salvaguardar las instalaciones de los Centros SICT, así como la operación eficiente, continua y permanente de los servicios e infraestructura del sector coordinado por la Secretaría.
+VII. Atender, en coordinación con la Unidad de Vinculación Institucional y Patrimonio, las solicitudes que la ciudadanía formula a la Secretaría, respecto de la gestión de las unidades administrativas que tiene adscritas, así como de la actuación de las personas servidoras públicas en el ejercicio de sus facultades;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+VIII. Participar, en coordinación con las unidades administrativas de la Secretaría y las instancias gubernamentales competentes, en casos de contingencia, desastres naturales, eventos fortuitos o de fuerza mayor, que permitan salvaguardar las instalaciones de los Centros SICT, así como la operación eficiente, continua y permanente de los servicios e infraestructura del sector coordinado por la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+IX. Rendir informes y acordar con la persona titular de cada Subsecretaría, los asuntos de su competencia.
 
 ###### ARTÍCULO 40.
 
 Los Centros SICT son las oficinas de representación que tiene la Secretaría en cada uno de los estados que integran a la Federación.
 
-Cada Centro SICT se encuentra a cargo de una persona titular de la dirección general, designada por la persona titular de la Secretaría y tendrán la estructura orgánica que se determine en el manual de organización de los Centros SICT, en términos de las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2025)</small>
+
+Cada Centro SICT se encuentra a cargo de una persona titular de la dirección general, designada por la persona titular de la Secretaría, y están adscritos a la Coordinación de Centros SICT; tienen la estructura orgánica que se determine en el manual de organización de los Centros SICT, en términos de las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 41.
 
@@ -1469,7 +1721,9 @@ IX. Celebrar contratos de arrendamiento de bienes inmuebles, y llevar a cabo la 
 
 X. Autorizar, cuando sea el caso, que las unidades especializadas y equipos del Centro SICT proporcionen servicios a otras entidades del sector público, gobierno de los estados, municipios, universidades y particulares, mediante el cobro de las cuotas autorizadas y de acuerdo con los procedimientos establecidos;
 
-XI. Apoyar en forma oportuna, a través del Subdirector de Transporte las tareas de supervisión, verificación y notificación en el estado de su adscripción que requieran llevar a cabo las unidades administrativas de la Secretaría y la Agencia Reguladora del Transporte Ferroviario, así como verificar y realizar las acciones conducentes, a efecto de preservar de todo daño a las vías férreas y la operación ferroviaria derivada de la invasión del derecho de vía, y notificar de todo ello a la Dirección General de Desarrollo Ferroviario y Multimodal;
+> <small>(ADICIONADA, D.O.F. 13 DE ENERO DE 2025)</small>
+
+XI. Apoyar en forma oportuna, a través de la Subdirección de Transporte las tareas de supervisión, verificación y notificación en el estado de su adscripción que requieran llevar a cabo las unidades administrativas de la Secretaría y la Agencia Reguladora del Transporte Ferroviario, así como verificar y realizar las acciones conducentes, a efecto de preservar de todo daño a las vías férreas y la operación ferroviaria derivada de la invasión del derecho de vía, y notificar de todo ello a la Agencia Reguladora del Transporte Ferroviario;
 
 XII. Coordinar la realización de los trabajos que resulten de situaciones de emergencia, e informar de ello con oportunidad a las autoridades superiores;
 
@@ -1529,15 +1783,13 @@ Las ausencias temporales, e incluso definitivas por la falta de designación, de
 
 La ausencia de la persona titular de la Unidad de Asuntos Jurídicos en materia de procedimientos judiciales y contenciosos administrativos, puede ser suplida por la persona titular de la Dirección Ejecutiva de Procesos Contenciosos.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 2025)</small>
+
 ### CAPÍTULO X. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### ARTÍCULO 45.
 
-En la Secretaría habrá un Órgano Interno de Control que depende jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública a cargo de una persona titular designada por esa Secretaría, en los términos de los artículos 17 Quáter y 37, fracciones XI bis y XII, de la Ley Orgánica de la Administración Pública Federal.
-
-Cada órgano administrativo desconcentrado de la Secretaría podrá contar, en su caso, con un órgano interno de control, en los términos del párrafo anterior. En el supuesto de que aquéllos no cuenten con dicho órgano las facultades a que se refiere este artículo se ejercerán por el de la Secretaría.
-
-Las personas servidoras públicas a que se refiere este artículo ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos jurídicos y administrativos aplicables.
+(DEROGADO, D.O.F. 13 DE ENERO DE 2025)
 
 ## TRANSITORIOS
 
@@ -1570,3 +1822,25 @@ SÉPTIMO. Las erogaciones que se generen con motivo de la entrada en vigor del p
 OCTAVO. En tanto se aprueban y registran los puestos de las unidades administrativas que con motivo del presente ordenamiento se modifican, continuarán las personas servidoras públicas que ocupan los puestos con las denominaciones previstas en el Reglamento Interior de la Secretaría de Comunicaciones y Transportes que se abroga, a fin de dar continuidad a las funciones institucionales de las unidades responsables involucradas.
 
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México, a 24 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Infraestructura, Comunicaciones y Transportes, Jorge Nuño Lara.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES".]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría de Infraestructura, Comunicaciones y Transportes, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y para los subsecuentes y, en su caso, se realizarán mediante movimientos compensados conforme a las disposiciones jurídicas aplicables. En ningún caso se autorizarán recursos adicionales ni ampliaciones al presupuesto regularizable de la Secretaría.
+
+CUARTO. Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Infraestructura, Comunicaciones y Transportes que cambian de denominación, se modifican, desaparecen o se crean por virtud del presente ordenamiento, se entenderán hechas u otorgadas, según el caso, a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+QUINTO. Los recursos humanos, financieros y materiales con los que actualmente cuenta la Dirección General de Desarrollo Ferroviario y Multimodal pasarán a formar parte de la Agencia Reguladora del Transporte Ferroviario. La Agencia Reguladora del Transporte Ferroviario en coordinación con la Secretaría y la Secretaría de Hacienda y Crédito Público, llevarán a cabo los actos administrativos necesarios para transferir a la Agencia Reguladora del Transporte Ferroviario los recursos que les hayan sido asignados en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2025, en un plazo no mayor a 20 días hábiles siguientes a la entrada en vigor del presente Decreto. Una vez realizada la transferencia en mención, la Agencia Reguladora del Transporte Ferroviario será responsable de ejercerlo, rendir cuentas respecto del ejercicio de dichos recursos, así como de informar a las instancias competentes sobre su aplicación.
+
+SEXTO. Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones o desaparecen en virtud de la entrada en vigor del presente decreto, deben ser atendidos y resueltos por las unidades administrativas a los que se le otorga la atribución o competencia conforme a este ordenamiento, y de acuerdo con las disposiciones vigentes al momento en el que se iniciaron.
+
+SÉPTIMO. La persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes deberá expedir el Manual de Organización General de la Secretaría en un plazo de noventa días siguientes a la publicación de este decreto y ordenar su publicación en el Diario Oficial de la Federación.
+
+Asimismo, deberá expedir los manuales de procedimientos y de servicios al público de la Secretaría, dentro de los noventa días posteriores a la entrada en vigor del Manual de Organización General de la Secretaría que expida en términos del párrafo anterior.
