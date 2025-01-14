@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2024-12-16"
+last_updated: "2025-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ENERO DE 2025.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -61,7 +61,9 @@ III. Las candidaturas independientes.
 
 IV. La organización y funcionamiento del Instituto Electoral del Estado de México.
 
-V. La función estatal de organizar y vigilar las elecciones de los integrantes del Poder Legislativo, del Gobernador y de los ayuntamientos del Estado de México.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+V. La función estatal de organizar y vigilar las elecciones de la Gubernatura, Diputaciones del Poder Legislativo, personas Juzgadoras del Poder Judicial, e integrantes de los ayuntamientos, todos del Estado de México.
 
 VI. La integración y funcionamiento del Tribunal Electoral, y el sistema de medios de impugnación.
 
@@ -73,9 +75,11 @@ VIII. El referéndum.
 
 La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos y lo dispuesto en las leyes generales de Instituciones y Procedimientos Electorales y de Partidos Políticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ENERO DE 2025)</small>
+
 ###### Artículo 3.
 
-La aplicación de las disposiciones de este Código corresponde al Instituto Electoral, al Tribunal Electoral, a la Legislatura, al Gobernador del Estado y al Tribunal Superior de Justicia, todos del Estado de México, en sus respectivos ámbitos de competencia.
+La aplicación de las disposiciones de este Código corresponde al Instituto Electoral, al Tribunal Electoral, a la Legislatura, a la Gobernadora o Gobernador y al Poder Judicial, todos del Estado de México, en sus respectivos ámbitos de competencia.
 
 > <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -134,6 +138,14 @@ XI. Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Libre
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 XII. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+XII Bis. Personas Juzgadoras: A la Presidenta o Presidente, o Magistradas y Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, o bien a Juezas y Jueces del Poder Judicial del Estado de México, electas por mayoría relativa y voto directo de la ciudadanía.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+XII Ter. Personas Candidatas a Cargos de Elección del Poder Judicial: Personas que se postularon al cargo de Presidenta o Presidente, Magistradas y Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, o Juezas y Jueces del Poder Judicial del Estado de México, en el proceso electoral previsto en el artículo 89 de la Constitución Local.
 
 > <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -263,7 +275,9 @@ Es obligación de las ciudadanas y los ciudadanos integrar las mesas directivas 
 
 Solo podrán admitirse excusas para no desempeñar las funciones electorales, cuando se funden en causas justificadas o de fuerza mayor, las que el interesado comprobará a satisfacción del organismo electoral.
 
-## TÍTULO TERCERO. De las elecciones de gobernador, de los integrantes de la legislatura y de los ayuntamientos del Estado de México
+> <small>(REFORMADA SE DENOMINACIÓN, G.G. 14 DE ENERO DE 2025)</small>
+
+## TÍTULO TERCERO. De las elecciones de Gubernatura e integrantes de la Legislatura y ayuntamientos
 
 ### CAPÍTULO PRIMERO. De los requisitos de elegibilidad
 
@@ -937,9 +951,17 @@ Conforme a lo dispuesto en la Constitución Federal y en la Ley General de Insti
 
 En las precampañas y campañas electorales, para la distribución del tiempo antes señalado, convertido a número de mensajes, las autoridades electorales aplicarán como base para la distribución de mensajes de los partidos políticos, el siguiente criterio: treinta por ciento del total en forma igualitaria y el setenta por ciento del tiempo restante será asignado a los partidos conforme al porcentaje de votación obtenido por cada uno de ellos en la elección para diputados locales inmediata anterior.
 
-El Consejo General realizará monitoreos cuantitativos y cualitativos y el seguimiento de notas informativas en medios de comunicación impresos y electrónicos a través de la Comisión de Acceso a Medios, Propaganda y Difusión, la cual le informará, periódicamente, sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes.
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
 
-El Instituto gestionará ante los medios de comunicación social con cobertura en el territorio estatal, la transmisión de programas en formatos de debate, entrevista, difusión de plataformas electorales, entre otros, en apoyo al fortalecimiento a la cultura político democrática.
+El Consejo General realizará monitoreos cuantitativos y cualitativos, y el seguimiento de notas informativas en medios de comunicación electrónicos, impresos e internet, a través de la Comisión de Acceso a Medios, Propaganda y Difusión, la cual le informará, periódicamente, sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Para el caso de las elecciones de personas juzgadoras del Poder Judicial, el Consejo General podrá realizar los monitoreos previstos en el párrafo anterior de acuerdo con el procedimiento que el mismo determine.
+
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
+
+El Instituto gestionará ante los medios de comunicación social con cobertura en el territorio estatal, la transmisión de programas en formatos de debate, entrevista, difusión de plataformas electorales, y, adicionalmente, para el caso de Personas Candidatas a cargos de elección del Poder Judicial, información acerca de la función jurisdiccional y la impartición de justicia, entre otros, en apoyo al fortalecimiento a la cultura político democrática.
 
 ###### Artículo 73.
 
@@ -1779,13 +1801,29 @@ V. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de
 
 VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral.
 
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+VI Bis. Poner a disposición de la ciudadanía, un micrositio en su página de Internet oficial para informar sobre el proceso electivo y dar a conocer las candidaturas registradas de los procesos electorales que desarrolle.
+
+El micrositio tendrá por objeto difundir la información de las personas candidatas, así como la relativa al proceso electivo.
+
+Para el caso de las elecciones de Personas Juzgadoras, quienes soliciten su registro como aspirantes a alguna candidatura deberán proporcionar la información correspondiente, en los formatos autorizados por el Consejo General, la cual se encontrará disponible en el referido micrositio. Esta información será remitida al Instituto al momento de enviar el listado de candidaturas.
+
 VII. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional Electoral.
 
 VIII. Efectuar el escrutinio y cómputo total de la elección para diputados, integrantes de los ayuntamientos, con base en los resultados consignados en las actas de cómputos distritales y municipales.
 
-IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la Legislatura, conforme al cómputo y declaración de validez que efectúe el Instituto.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-X. Efectuar el escrutinio y cómputo de la elección del titular del Poder Ejecutivo.
+IX. Expedir las constancias de mayoría a las candidaturas que hubiesen obtenido la mayoría de votos y declarar la validez de la elección; así como la constancia de asignación a las fórmulas de representación proporcional de la Legislatura, conforme al cómputo y declaración de validez que efectúe el Instituto.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+IX Bis. Efectuar el escrutinio y cómputo de la elección de las Personas Candidatas a Cargos de Elección del Poder Judicial, publicar los resultados, expedir y entregar las constancias de mayoría a las candidaturas que hubiesen obtenido la mayoría de votos en dicha elección, asignando los cargos alternadamente entre mujeres y hombres, conforme al principio de paridad de género y atendiendo a lo dispuesto en el artículo 92 de la Constitución local; así como el listado de las candidaturas no electas para los efectos del artículo 93 de dicha Constitución, tras ello, declarará la validez de la elección y enviará sus resultados al Tribunal Electoral.
+
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+X. Efectuar el escrutinio y cómputo de la elección de la Gubernatura.
 
 XI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones locales, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional Electoral.
 
@@ -1887,9 +1925,9 @@ El Consejo General es el órgano superior de dirección, responsable de vigilar 
 
 El Consejo General se integrará por:
 
-> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-I. Una Consejera o Consejero Presidente y seis consejeras y consejeros electorales, con voz y voto, designados por el Consejo General del Instituto Nacional Electoral.
+I. Una Consejera o Consejero Presidente y seis consejeras y consejeros electorales, con voz y voto, por designación del Consejo General del Instituto Nacional Electoral.
 
 > <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1898,6 +1936,10 @@ II. Una o un representante, con derecho a voz y sin voto, de cada uno de los par
 > <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 III. Una Secretaria o Secretario Ejecutivo, quien será nombrado y removido por las dos terceras partes del Consejo General, a propuesta de la Consejera o Consejero Presidente.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+En las sesiones que se celebren para tratar asuntos relacionados con la elección de personas juzgadoras, el Consejo General únicamente se integrará en términos de las fracciones I y III del presente artículo.
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1983,21 +2025,29 @@ El Secretario Ejecutivo y el titular de la Contraloría General no podrán ocupa
 
 El Secretario Ejecutivo y el titular de la Contraloría General estarán sujetos al régimen de responsabilidades de los servidores públicos, previstos en la Constitución Local y en este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ENERO DE 2025)</small>
+
 ###### Artículo 182.
 
-El Consejo General se reunirá por lo menos en sesión ordinaria cada tres meses. Su presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición de la mayoría de los consejeros electorales o de la mayoría de los representantes de los partidos políticos. Sus sesiones serán públicas.
+El Consejo General se reunirá en sesión ordinaria, por lo menos, cada tres meses. La presidencia podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición de la mayoría de las consejerías electorales o de la mayoría de las representaciones de los partidos políticos. Sus sesiones serán públicas.
 
-> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
 
-En la preparación del proceso para elegir Gobernador del Estado, diputados y miembros de los ayuntamientos, el Consejo General celebrará sesión para dar inicio al proceso electoral la primera semana de enero del año de la elección.
+En la preparación del proceso para elegir persona titular del Poder Ejecutivo del Estado, personas juzgadoras, diputaciones e integrantes de los ayuntamientos, el Consejo General celebrará sesión para dar inicio al proceso electoral la primera semana de enero del año de la elección.
 
 A partir del inicio del proceso electoral y hasta la conclusión del mismo, el Consejo General sesionará ordinariamente por lo menos una vez al mes.
 
-Para que el Consejo General pueda sesionar deberán estar presentes la mayoría de los consejeros con derecho a voto, entre los que deberá estar el Presidente.
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
 
-En caso de que no se reúna el quórum establecido en el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los consejeros y representantes que asistan, si cumplido este plazo no se presentara el Consejero Presidente a la sesión, el Secretario Ejecutivo del Instituto lo sustituirá con carácter de interino y ejercerá la presidencia del Consejo mientras persista la ausencia del presidente. En ningún caso la suplencia a cargo del Secretario Ejecutivo podrá durar más de cinco días.
+Para que el Consejo General pueda sesionar deberán estar presentes la mayoría de las Consejerías con derecho a voto, entre los que deberá estar la Presidencia.
 
-Cuando el Consejero Presidente se ausente en forma temporal por un plazo de entre seis y quince días, el Secretario Ejecutivo convocará al Consejo General para nombrar de entre los consejeros electorales al encargado del despacho. Una vez cumplido este término, si no se presentara, se entenderá como ausencia definitiva del Consejero Presidente, por lo que el Secretario Ejecutivo hará del conocimiento tal ausencia al Consejo General del Instituto Nacional Electoral para que realice el nombramiento, en términos de la ley correspondiente.
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
+
+En caso de que no se reúna el quórum establecido en el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con las consejerías y representaciones que asistan, si cumplido este plazo no se presentará la o el Consejero Presidente a la sesión, la Secretaría Ejecutiva lo sustituirá con carácter de interino y ejercerá la presidencia del Consejo mientras persista la ausencia de la o el presidente. En ningún caso la suplencia a cargo de la Secretaría Ejecutiva podrá durar más de cinco días.
+
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Cuando la o el Consejero Presidente se ausente en forma temporal por un plazo de entre seis y quince días, la Secretaría Ejecutiva convocará al Consejo General para nombrar de entre las consejerías electorales al encargado del despacho. Una vez cumplido este término, si no se presentara, se entenderá como ausencia definitiva de la o el Consejero Presidente, por lo que la Secretaría Ejecutiva hará del conocimiento tal ausencia al Consejo General del Instituto Nacional Electoral para que realice el nombramiento, en términos de la ley correspondiente.
 
 Las resoluciones serán tomadas por mayoría de votos, salvo las que por ley requieran una mayoría calificada. El Presidente del Consejo tendrá voto de calidad en caso de empate.
 
@@ -2008,6 +2058,10 @@ El Consejo General integrará las comisiones que considere necesarias para el de
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 Las comisiones serán integradas por tres consejeras o consejeros designados por el Consejo General con voz y voto, bajo el principio de paridad de género, por las y los representantes de los partidos y coaliciones con voz y una secretaria técnica o un secretario técnico que será designado por el Consejo General en función de la Comisión de que se trate.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Tratándose de asuntos relacionados con la elección de personas juzgadoras, las representaciones de los partidos políticos no participarán en las comisiones, acciones, actividades y sesiones que se encuentren relacionadas.
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2065,7 +2119,9 @@ El Consejo General tendrá las atribuciones siguientes:
 
 I. Expedir los reglamentos interiores, así como los programas, lineamientos y demás disposiciones que sean necesarios para el buen funcionamiento del Instituto.
 
-II. Designar al Secretario Ejecutivo.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+II. Designar a la persona titular de la Secretaría Ejecutiva.
 
 III. Designar al Titular de la Unidad Técnica de Fiscalización del Instituto.
 
@@ -2073,13 +2129,17 @@ IV. Conocer y resolver sobre los informes que rinda la Contraloría General.
 
 V. Designar a los directores de la Junta General y a los titulares de las unidades administrativas del Instituto con el voto de las dos terceras partes de los consejeros electorales.
 
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-VI. Designar, para la elección de Gobernador del Estado y de diputados, a los vocales de las juntas distritales y, para la elección de miembros de los ayuntamientos, a los vocales de las juntas municipales, en el mes de enero del año de la elección, de acuerdo con los lineamientos que se emitan, de entre las propuestas que al efecto presente la Junta General.
+VI. Designar, para la elección de la persona titular del Poder Ejecutivo del Estado y de diputaciones, a las vocalías de las juntas distritales y, para la elección de integrantes de los ayuntamientos, a las vocalías de las juntas municipales, en el mes de enero del año de la elección, de acuerdo con los lineamientos que se emitan, de entre las propuestas que al efecto presente la Junta General.
 
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-VII. Designar, para la elección de Gobernador del Estado, de diputados y miembros de los ayuntamientos, de entre las propuestas de al menos el doble que al efecto realice la Junta General, a los consejeros electorales de los consejos distritales y municipales en el mes de enero del año de la elección de que se trate. Por cada Consejero propietario habrá un suplente.
+VII. Designar, para la elección de la persona titular del Poder Ejecutivo del Estado, de diputaciones, e integrantes de los ayuntamientos, de entre las propuestas que al efecto realice la Junta General, a las consejerías electorales de los consejos distritales y municipales en el mes de enero del año de la elección de que se trate. Por cada Consejería propietario (sic) habrá una suplente.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+VII Bis. Designar, para la elección de personas juzgadoras, al personal que integrará los órganos desconcentrados de entre las propuestas que al efecto presente la Junta General en el mes de enero del año de la elección, de acuerdo con los lineamientos que al efecto se emitan.
 
 VIII. Acordar lo conducente para la integración, instalación, funcionamiento y suspensión de actividades de los órganos desconcentrados del Instituto y conocer de los informes específicos y actividades que estime necesario solicitarles.
 
@@ -2235,9 +2295,11 @@ El Instituto deberá garantizar el nivel de las capacidades profesionales, técn
 
 ### CAPÍTULO TERCERO. Del presidente y del secretario del Consejo General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ENERO DE 2025)</small>
+
 ###### Artículo 190.
 
-Son atribuciones del Presidente del Consejo General las siguientes:
+Son atribuciones de la Presidenta o Presidente del Consejo General las siguientes:
 
 I. Velar por la unidad y cohesión de las actividades de los órganos del Instituto.
 
@@ -2249,7 +2311,17 @@ IV. Vigilar el cumplimiento de los acuerdos del propio Consejo.
 
 V. Someter oportunamente a la consideración del titular del Poder Ejecutivo el proyecto del presupuesto del Instituto, una vez aprobado por el Consejo General.
 
-VI. Recibir de los partidos políticos o coaliciones y de los candidatos independientes las solicitudes de registro de candidatos y someterlas al Consejo General para su registro.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 14 DE ENERO DE 2025)</small>
+
+VI. Recibir de los partidos políticos o coaliciones y de las candidaturas independientes las solicitudes de registro de candidaturas y someterlas al Consejo General para su registro.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+En el caso de la elección de personas juzgadoras, la Presidencia del Instituto recibirá los listados de candidaturas que le remita la Legislatura local a más tardar el doce de febrero del año de la elección que corresponda, en términos del artículo 89, fracción III de la Constitución Local.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+El Consejo General emitirá acuerdo con el objeto de ordenar la publicación de los listados y continuar con las actividades de la preparación de la elección.
 
 VII. Proponer al Consejo General el nombramiento del Secretario Ejecutivo y del Titular de la Unidad Técnica de Fiscalización.
 
@@ -2389,7 +2461,9 @@ IX. Ejercer la función de oficialía electoral, atenderla oportunamente, por s�
 
 X. Proveer lo necesario para que se publiquen los acuerdos y resoluciones que pronuncie el Consejo General y la Junta General.
 
-XI. Integrar los expedientes con las actas de cómputo de la elección de diputados electos por el principio de representación proporcional y presentarlas oportunamente al Consejo General.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+XI. Integrar los expedientes con las actas de cómputo de la elección de diputaciones electas por el principio de representación proporcional, así como, de Personas Candidatas a Cargos de Elección del Poder Judicial y presentarlas oportunamente al Consejo General.
 
 XII. Ejercer las partidas presupuestales aprobadas por el Consejo General.
 
@@ -2407,7 +2481,9 @@ XVIII. Someter a la consideración del Presidente del Consejo General el antepro
 
 XIX. Preparar, para la aprobación del Consejo General, el proyecto de calendario para elecciones extraordinarias, de acuerdo con las convocatorias respectivas.
 
-XX. Establecer un mecanismo para la difusión inmediata en el Consejo General, de los resultados preliminares de las elecciones de Gobernador, diputados o ayuntamientos. Al sistema que se establezca tendrán acceso en forma permanente los miembros del Consejo General.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+XX. Establecer un mecanismo para la difusión inmediata en el Consejo General, de los resultados preliminares de las elecciones de Gubernatura, diputaciones, y de ayuntamientos. Al sistema que se establezca tendrán acceso en forma permanente los miembros del Consejo General.
 
 XXI. Suplir, en los términos previstos en este Código, al Presidente del Consejo General.
 
@@ -2675,7 +2751,9 @@ III. Inscribir en el libro respectivo el registro de partidos, así como los con
 
 IV. Coadyuvar con la Dirección de Administración para el suministro a los partidos políticos nacionales o locales con registro, del financiamiento público al que tienen derecho.
 
-V. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales con registro puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+V. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales y candidaturas con registro puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho.
 
 VI. Llevar el libro de registro de los integrantes de los órganos directivos de los partidos políticos y de sus representantes acreditados ante los consejos General, distritales y municipales electorales.
 
@@ -2683,7 +2761,9 @@ VII. Llevar los libros de registro de los candidatos a los puestos de elección 
 
 VIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
 
-IX. Apoyar a la Comisión de Acceso a Medios, Propaganda y Difusión en la elaboración y presentación de pautas y en la vigilancia de los contenidos de los mensajes de los Partidos Políticos y el Instituto en los medios de comunicación social.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+IX. Apoyar a la Comisión de Acceso a Medios, Propaganda y Difusión en la elaboración y presentación de pautas y en la vigilancia de los contenidos de los mensajes del Instituto, de los Partidos Políticos, y personas candidatas a juzgadoras en los medios de comunicación social. Así como de las candidaturas independientes en el periodo de campaña, en su caso.
 
 X. Las demás que le confiera este Código.
 
@@ -2831,7 +2911,9 @@ VIII. Entregar al Consejo Distrital copia de los informes y reportes que remita 
 
 IX. Presentar al Consejo Distrital para su aprobación, las solicitudes de observadores electorales.
 
-X. Coadyuvar con el Instituto en la supervisión para garantizar el acceso a radio y televisión de los partidos políticos durante las precampañas y campañas locales.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+X. Coadyuvar con el Instituto en la supervisión para garantizar el acceso a radio y televisión a que tengan derecho, los partidos políticos y candidaturas registradas, durante las precampañas y campañas locales, según corresponda.
 
 > <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2858,6 +2940,10 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 ###### Artículo 209.
 
 Los Consejeros Electorales de los Consejos Distritales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, así como los lineamientos que emita para el caso el Instituto Nacional Electoral, salvo el de residencia efectiva, que se entenderá referido al distrito de que se trate, y el de título profesional que no será necesario.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Los Consejeros Electorales serán designados para dos procesos electorales ordinarios pudiendo ser designados para un proceso más.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MAYO DE 2020)</small>
 
@@ -3002,6 +3088,10 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 ###### Artículo 218.
 
 Los Consejeros Electorales de los consejos municipales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, así como los lineamientos que emita para el caso el Instituto Nacional Electoral, salvo el de residencia efectiva, que se entenderá referido al Municipio de que se trate, y el de título profesional que no será necesario.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Los Consejeros Electorales serán designados para dos procesos electorales ordinarios pudiendo ser designados para un proceso más.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MAYO DE 2020)</small>
 
@@ -3223,23 +3313,25 @@ Los consejos distritales y municipales, dentro de las 24 horas siguientes a su i
 
 Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales, a solicitud de los presidentes respectivos, los informes, las certificaciones y el auxilio de las instituciones de seguridad pública para el cumplimiento de sus funciones y resoluciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 231.
 
-En el ejercicio de la función de oficialía electoral, la Secretaria o el Secretario Ejecutivo, las y los vocales de organización de las juntas distritales y/o municipales, así como los demás funcionarios o funcionarias en quien se delegue esta función tendrán las siguientes atribuciones, las cuales deberán realizarlas de manera oportuna.
+En el ejercicio de la función de oficialía electoral, la Secretaría Ejecutiva, las vocalías de organización de las juntas distritales o municipales, así como los demás funcionarios o funcionarias en quienes se delegue esta función tendrán las siguientes atribuciones, las cuales deberán realizarse de manera oportuna:
 
-> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+I. Para la organización de los procesos electorales de Gubernatura, Diputaciones de la Legislatura del Estado y de las y los integrantes de Ayuntamientos, así como los de Consulta Popular y Referéndum a petición de los partidos políticos, sus candidatas y candidatos, candidatas y candidatos independientes, representantes ante los órganos central y desconcentrados del Instituto y la ciudadanía, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales.
 
-I. A petición de los partidos políticos, sus candidatas y candidatos, candidatas y candidatos independientes, representantes ante los órganos central y desconcentrados del instituto y la ciudadanía, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales.
+En ningún caso procederá el ejercicio de la función de oficialía electoral a petición de los sujetos descritos en el párrafo que antecede para la elección de personas juzgadoras, salvo de la ciudadanía y candidaturas.
 
-II. A petición de los órganos desconcentrados del Instituto, constatar hechos que influyan o afecten la organización del proceso electoral.
+II. A solicitud de las Personas Candidatas a Cargos de Elección del Poder Judicial o la ciudadanía, dar fe de la realización de actos o hechos en materia electoral que pudieran influir o afectar la equidad en la contienda electoral y la organización del proceso electoral para renovar los cargos referidos en la presente fracción.
 
-> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+III. A petición de los órganos desconcentrados del Instituto, constatar hechos que influyan o afecten la organización del proceso electoral.
 
-III. Solicitar la colaboración de las y los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos electorales.
+IV. Solicitar la colaboración de las y los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos electorales.
 
-IV. Las demás que establezca el Código y demás disposiciones aplicables.
+V. Las demás que establezca el Código y demás disposiciones aplicables.
+
+La oficialía electoral se ejercerá para certificar actos y hechos exclusivamente de naturaleza electoral, que se encuentren dentro de las atribuciones y en el ámbito de competencia del Instituto.
 
 ## TÍTULO CUARTO. De la remoción de consejeros y presidentes de consejos
 
@@ -3263,11 +3355,11 @@ La tramitación y resolución de los procedimientos de remoción de consejeros d
 
 ## TÍTULO PRIMERO. Disposiciones preliminares
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 234.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, por la Constitución Local y este Código, realizados por las autoridades electorales, los partidos políticos, las ciudadanas y los ciudadanos, que tienen por objeto la renovación periódica de los integrantes del Poder Legislativo, de la o del titular del Poder Ejecutivo y de las y los integrantes de los ayuntamientos del Estado. En la elección e integración de la legislatura y de los ayuntamientos de la entidad, se observará la paridad de género.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, por la Constitución Local y este Código, realizados por las autoridades electorales, los partidos políticos, las ciudadanas y los ciudadanos, que tienen por objeto la renovación periódica de la persona titular del Poder Ejecutivo, de integrantes del Poder Legislativo, y de los ayuntamientos. En dichas elecciones, así como en la integración, se observará la paridad de género en sus vertientes vertical, horizontal y transversal.
 
 > <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
 
@@ -3685,11 +3777,11 @@ II. Gastos operativos de campaña, que comprenden los sueldos y salarios del per
 
 III. Gastos de propaganda en prensa y de producción de mensajes para difundirse en radio y televisión, que comprenden los realizados en cualquiera de estos medios, tales como mensajes, anuncios publicitarios y similares, tendientes a la obtención del voto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 266.
 
-El Instituto incorporará la perspectiva de género al realizar los monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, durante el período de precampaña y campaña electoral, o antes si así lo solicita un partido político. Los monitoreos tendrán como fin garantizar la equidad en la difusión de los actos proselitistas de los partidos, coaliciones y candidatos. El monitoreo de medios servirá para apoyar la fiscalización de los partidos políticos y para prevenir que se rebasen los topes de campaña. El Instituto podrá auxiliarse de empresas externas para realizar dicho monitoreo.
+El Instituto incorporará la perspectiva de género al realizar los monitoreos de medios de comunicación electrónicos, impresos e internet, públicos y privados, durante el período de precampaña y campaña electoral, o antes si así lo solicita un partido político. Los monitoreos tendrán como fin garantizar la equidad en la difusión de los actos proselitistas de los partidos, coaliciones, candidaturas independientes y, en su caso, candidaturas a cargos de elección del Poder Judicial. El monitoreo de medios servirá para apoyar la fiscalización de los partidos políticos, aspirantes a candidaturas independientes, candidaturas independientes y, en su caso, candidaturas a cargos de elección del Poder Judicial, para prevenir que se rebasen los topes de precampaña y campaña, según corresponda. El Instituto podrá auxiliarse de empresas externas para realizar dicho monitoreo.
 
 El Instituto realizará monitoreos de la propaganda de los partidos políticos colocada en todo tipo de espacio o equipamiento utilizado para difundir mensajes.
 
@@ -5417,17 +5509,31 @@ Las causales establecidas en este Código podrán provocar la nulidad de:
 
 I. La votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada.
 
-II. La elección de Gobernador.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-III. La elección de diputados por el principio de mayoría relativa en un distrito electoral uninominal.
+II. La elección de titular del Poder Ejecutivo del Estado.
 
-IV. La elección de miembros de un Ayuntamiento.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-Las declaraciones de nulidad de votación recibida en casilla, decretadas por el Tribunal Electoral al resolver los juicios de inconformidad, afectarán, exclusivamente, la votación o la elección para la que de manera expresa se hubiera hecho valer el medio de impugnación correspondiente, salvo el caso de la declaración de nulidad de la votación recibida en una o varias casillas de la elección de diputados de mayoría relativa, que surtirá efectos también respecto de los resultados por el principio de representación proporcional.
+III. La elección de diputaciones por el principio de mayoría relativa en un distrito electoral uninominal.
+
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+IV. La elección de integrantes de un Ayuntamiento.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+V. La elección de personas juzgadoras.
+
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Las declaraciones de nulidad de votación recibida en casilla, decretadas por el Tribunal Electoral al resolver los juicios de inconformidad, afectarán, exclusivamente, la votación o la elección para la que de manera expresa se hubiera hecho valer el medio de impugnación correspondiente, salvo el caso de la declaración de nulidad de la votación recibida en una o varias casillas de la elección de diputaciones de mayoría relativa, que surtirá efectos también respecto de los resultados por el principio de representación proporcional.
 
 Sólo podrá ser declarada la nulidad de la votación recibida en una casilla o de una elección, cuando las causas que se invoquen hayan sido plenamente acreditadas, sean determinantes para los resultados de la casilla o de la elección de que se trate y estén expresamente señaladas en este Código.
 
-Los partidos políticos o coaliciones no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hubiesen provocado.
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Los partidos políticos o coaliciones no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hubiesen provocado, ni impugnar las elecciones de personas juzgadoras del Poder Judicial.
 
 Las elecciones cuyos cómputos, constancias de mayoría o de asignación, o declaraciones de validez, no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
@@ -5497,6 +5603,26 @@ Se calificarán como dolosas aquellas conductas realizadas con pleno conocimient
 
 Para efecto de lo dispuesto en la Base VI del artículo 41 de la Constitución Federal, se presumirá que se está en presencia de cobertura informativa indebida, cuando tratándose de información o de espacios informativos o noticiosos sea evidente que, por su carácter reiterado y sistemático se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
 
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 403 Bis.
+
+El Tribunal Electoral podrá declarar la nulidad de la elección de personas juzgadoras, adicionalmente a las aplicables previstas en la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, en los siguientes casos:
+
+I. Cuando alguna o algunas de las causales de nulidad previstas en el artículo 402, se acrediten en por lo menos el 25% de las casillas instaladas en el territorio estatal, o en la respectiva región o distrito judicial y, en su caso, no se hayan corregido durante el cómputo o recuento de votos, a excepción de la establecida en la fracción VIII de dicho artículo;
+
+II. Cuando en el territorio estatal, o en la respectiva región o distrito judicial, no se instale el 25% o más de las casillas, y consecuentemente la votación no hubiere sido recibida;
+
+III. Cuando la candidatura ganadora de la elección resulte inelegible;
+
+IV. Cuando en forma grave, dolosa y determinante se haga uso de financiamiento privado, con excepción del legalmente permitido por la Constitución o la ley electoral;
+
+V. Cuando en forma grave, dolosa y determinante se exceda el tope para gastos personales en periodo de campaña establecidos por el presente Código, en un 5% del monto total autorizado, y
+
+VI. Cuando en forma grave, dolosa y determinante se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente la campaña de una candidatura.
+
+Las causales de nulidad deberán estar plenamente acreditadas de manera objetiva y material. Las causales previstas en la Base VI del artículo 41 de la Constitución Federal y las señaladas en las fracciones IV, V y VI de este artículo, admitirán exclusivamente la presunción de determinancia contemplada en el penúltimo párrafo de tal disposición constitucional federal.
+
 ## TÍTULO SEGUNDO. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ### CAPÍTULO PRIMERO. Disposiciones generales
@@ -5557,15 +5683,27 @@ IV. En cualquier momento, los partidos políticos en contra del incumplimiento d
 
 Durante el proceso electoral serán procedentes los siguientes medios de impugnación:
 
-I. El recurso de revisión, exclusivamente durante la etapa de preparación de la elección, que podrá ser interpuesto por los partidos políticos o coaliciones, candidatos independientes, para impugnar los actos, omisiones o resoluciones de los consejos o juntas, distritales o municipales.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+I. El recurso de revisión, exclusivamente durante la etapa de preparación de la elección, que podrá ser interpuesto por los partidos políticos o coaliciones, personas candidatas independientes, personas candidatas a cargos de elección del Poder Judicial del Estado, para impugnar los actos, omisiones o resoluciones de los consejos o juntas, distritales, o municipales o de los órganos correspondientes en el proceso para elección de personas juzgadoras, respectivamente. El Tribunal Electoral conocerá de los recursos de revisión que se presenten dentro de los cinco días anteriores al de la elección.
 
 II. El recurso de apelación, que podrá ser interpuesto por:
 
-a) Los partidos políticos o coaliciones, candidatos independientes, para impugnar las resoluciones recaídas a los recursos de revisión, los actos, omisiones y resoluciones de los órganos centrales del Instituto, o contra los actos u omisiones del Presidente del Consejo General o del Secretario Ejecutivo del Instituto.
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
 
-b) Por los ciudadanos para impugnar las resoluciones recaídas a las quejas contempladas en el artículo 477 de este Código.
+a) Los partidos políticos o coaliciones, candidaturas independientes, para impugnar las resoluciones recaídas a los recursos de revisión, los actos, omisiones y resoluciones de los órganos centrales del Instituto, o contra los actos u omisiones de la Presidencia del Consejo General o de la Secretaría Ejecutiva del Instituto.
 
-III. El juicio de inconformidad, exclusivamente durante la etapa de resultados y declaraciones de validez de las elecciones, que podrá ser interpuesto por los partidos políticos o coaliciones, o bien candidatos independientes para reclamar:
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE ENERO DE 2025)</small>
+
+b) Las personas candidatas a cargos del Poder Judicial del Estado, para impugnar las resoluciones recaídas a los recursos de revisión, los actos, omisiones y resoluciones de los órganos centrales del Instituto, o contra los actos u omisiones de la Presidencia del Consejo General o de la Secretaría Ejecutiva del Instituto.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 14 DE ENERO DE 2025)</small>
+
+c) Por las y los ciudadanos para impugnar las resoluciones recaídas a las quejas contempladas en el artículo 477 de este Código.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 14 DE ENERO DE 2025)</small>
+
+III. El juicio de inconformidad, exclusivamente durante la etapa de resultados y declaraciones de validez de las elecciones, que podrá ser interpuesto por los partidos políticos o coaliciones, personas candidatas independientes y personas candidatas a cargos de elección del Poder Judicial del Estado, para reclamar:
 
 a) En la elección de Gobernador:
 
@@ -5598,6 +5736,30 @@ c) En las elecciones de miembros de los ayuntamientos:
 3. Las asignaciones de regidores o, en su caso, síndicos, que realice el consejo municipal, por contravenir o aplicar indebidamente las reglas y fórmulas de asignación establecidas en la Constitución Local y en este Código.
 
 4. El otorgamiento de constancias de asignación por inelegibilidad de regidores o síndicos de una planilla.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.G. 14 DE ENERO DE 2025)</small>
+
+d) En la elección de la presidencia del Tribunal Superior de Justicia y las magistraturas del Tribunal de Disciplina Judicial:
+
+1. Los resultados consignados en las actas de cómputo de la jurisdicción respectiva, por nulidad de la votación recibida en una o varias casillas o por error aritmético.
+
+2. Los resultados consignados en el acta de cómputo estatal por error aritmético, que resulte determinante para el resultado de la elección.
+
+3. Las determinaciones sobre el otorgamiento de las constancias de mayoría y la declaración de validez, por nulidad de la elección.
+
+4. Por el otorgamiento de la constancia de mayoría por inelegibilidad de una candidatura.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.G. 14 DE ENERO DE 2025)</small>
+
+e) En la elección de magistraturas del Tribunal Superior de Justicia y de juezas y jueces del Poder Judicial:
+
+1. Los resultados consignados en las actas de cómputo de la jurisdicción respectiva, por nulidad de la votación recibida en una o varias casillas o por error aritmético.
+
+2. Los resultados consignados en el acta de cómputo estatal por error aritmético, que resulte determinante para el resultado de la elección.
+
+3. Las determinaciones sobre el otorgamiento de las constancias de mayoría y la declaración de validez, por nulidad de la elección.
+
+4. Por el otorgamiento de la constancia de mayoría por inelegibilidad de una candidatura.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -5635,6 +5797,10 @@ i) En contra de las resoluciones de los consejos del Instituto respecto de la ac
 
 j) En cualquier momento, cuando se considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en este Código, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y en la Ley General de Instituciones y Procedimientos Electorales.
 
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+k) Considere que alguno de los Comités de Evaluación de los Poderes violó su derecho político-electoral de ser votado o votada a alguno de los cargos del Poder Judicial del Estado. En estos casos no operará la suplencia de la queja.
+
 II. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas, establezcan para tal efecto.
 
 En aquellos casos o cuando las instancias previas requieran de mayores requisitos que el presente juicio o pongan en riesgo la restitución del derecho político-electoral violado, el quejoso podrá acudir directamente ante el Tribunal Electoral.
@@ -5661,13 +5827,19 @@ El Tribunal Electoral es competente para conocer de los recursos de apelación, 
 
 Serán partes en el procedimiento de los medios de impugnación en materia electoral:
 
-I. El actor, que será el ciudadano, organización de ciudadanos, candidato independiente, partido político o coalición que interponga el medio impugnativo.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+I. El actor, que será la ciudadana o el ciudadano, organización ciudadana, candidatura independiente, partido político, coalición o, en su caso, candidata o candidato a integrar el Poder Judicial, que interponga el medio impugnativo.
 
 II. La autoridad responsable, que será el órgano electoral o partidista que realice el acto o dicte la resolución que se impugna.
 
 III. El tercero interesado, que será el partido político, coalición o ciudadano que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor.
 
 Podrán presentar escritos, ofrecer y aportar pruebas de conformidad con lo establecido este Código, los representantes de los partidos políticos, terceros interesados y los candidatos como coadyuvantes del partido político que los registró.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+Tratándose de las elecciones del Poder Judicial, los partidos políticos no serán parte en el medio de impugnación.
 
 ###### Artículo 412.
 
@@ -5688,6 +5860,10 @@ III. Las organizaciones de observadores, a través de sus representantes reconoc
 IV. Los ciudadanos por sí mismos, y en forma individual, o a través de sus representantes legales.
 
 V. Los candidatos independientes por sí mismos o a través de sus representantes legales.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+VI. Las personas candidatas a integrar el Poder Judicial por sí mismas, y en forma individual, o a través de sus representantes legales.
 
 ### CAPÍTULO CUARTO. De los plazos y de los términos
 
@@ -5713,9 +5889,11 @@ Los recursos de revisión y de apelación deberán interponerse dentro de los cu
 
 El juicio de inconformidad deberá presentarse dentro de los cuatro días, contados a partir del siguiente a aquel en que concluyó la sesión en la que el órgano electoral responsable realizó el cómputo o dictó la resolución que se reclama.
 
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
+
 ###### Artículo 417.
 
-Los escritos de los representantes de los partidos políticos, coaliciones o ciudadanos con carácter de tercero interesado, deberán presentarse dentro de las setenta y dos horas, siguientes a la fijación de la cédula con la que el órgano del Instituto, autoridad u órgano partidista, haga del conocimiento público la interposición de un medio de impugnación.
+Los escritos de los representantes de los partidos políticos, coaliciones, sus representantes, candidaturas comunes, Personas Candidatas a Cargos de Elección del Poder Judicial, o ciudadanía con carácter de tercero interesado, deberán presentarse dentro de las setenta y dos horas siguientes a la fijación de la cédula con la que el órgano del Instituto, autoridad u órgano partidista, haga del conocimiento público la interposición de un medio de impugnación.
 
 ###### Artículo 418.
 
@@ -5755,9 +5933,11 @@ IV. La mención expresa y clara, en su caso, de los hechos y la causal que en op
 
 V. La relación que, en su caso, guarde su demanda con otras impugnaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ENERO DE 2025)</small>
+
 ###### Artículo 421.
 
-Los escritos de los partidos políticos, coaliciones, ciudadanos o candidatos independientes que participen como terceros interesados, deberán presentarse ante la autoridad señalada como responsable del acto o resolución impugnada y en su presentación deberá cumplir con los requisitos siguientes:
+Los escritos de los partidos políticos, coaliciones, Personas Candidatas a Cargos de Elección del Poder Judicial, sus representantes o ciudadanía, candidaturas independientes que participen como terceros interesados, deberán presentarse ante la autoridad señalada como responsable del acto o resolución impugnada y en su presentación deberá cumplir con los requisitos siguientes:
 
 I. Hacer constar el nombre del partido político o coalición, o candidato independiente que lo presenta y señalar domicilio para recibir notificaciones. Si el promovente omite señalarlo o el señalado se ubica fuera del municipio de Toluca, éstas se practicarán por estrados. Asimismo se deberá señalar, en su caso, el nombre o nombres de las personas que las puedan recibir.
 
@@ -5909,15 +6089,15 @@ Las resoluciones del Tribunal Electoral recaídas a los recursos de apelación, 
 
 A los órganos del Instituto cuyo acto o resolución fue impugnado, junto con la notificación les será enviada copia de la resolución.
 
-> <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
 
-Las resoluciones del Tribunal Electoral recaídas a los juicios para la protección de los derechos político electorales del ciudadano local, serán notificadas a los órganos del Instituto que corresponda o en su caso, a las autoridades partidistas, así como a quien los haya interpuesto y a los terceros interesados, personalmente, vía electrónica, por correo certificado o por telegrama, o personalmente, a más tardar dentro de los dos días siguientes al en que se dictó la resolución.
+Las resoluciones del Tribunal Electoral recaídas a los juicios para la protección de los derechos político electorales del ciudadano local, serán notificadas a los órganos del Instituto que corresponda o, en su caso, a las autoridades partidistas, Comités de Evaluación, así como a quien los haya interpuesto y a los terceros interesados, personalmente, vía electrónica, por correo certificado o por telegrama, o personalmente, a más tardar dentro de los dos días siguientes al en que se dictó la resolución.
 
 Las resoluciones del Tribunal Electoral recaídas a los juicios de inconformidad serán notificadas:
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-I. Al partido o coalición recurrente y a los terceros interesados, personalmente siempre y cuando hayan señalado domicilio en el municipio de Toluca. En caso contrario, se hará vía electrónica, en su defecto, se hará mediante cédula colocada en los estrados del Tribunal Electoral, a más tardar al día siguiente de aquel en que se dictó la resolución. La cédula se acompañará de copia simple de la resolución respectiva.
+I. Al partido o coalición recurrente, a los terceros interesados y a las Personas Candidatas a Cargos de Elección del Poder Judicial, personalmente siempre y cuando hayan señalado domicilio en el municipio de Toluca. En caso contrario, se hará vía electrónica, en su defecto, se hará mediante cédula colocada en los estrados del Tribunal Electoral, a más tardar al día siguiente de aquel en que se dictó la resolución. La cédula se acompañará de copia simple de la resolución respectiva.
 
 II. Al Consejo General y a los consejos distritales y municipales, la notificación se les hará mediante oficio, acompañado de copia certificada de la resolución. Esta documentación se entregará a más tardar dentro de las cuarenta y ocho horas siguientes a la fecha del fallo, en sus respectivos domicilios.
 
@@ -6193,7 +6373,9 @@ I. Confirmar el acto impugnado.
 
 II. Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador, cuando se den los supuestos previstos en el artículo 402 de este Código, y modificar, en consecuencia, el acta de cómputo distrital respectiva.
 
-III. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en el artículo 402 de este Código y modificar, en consecuencia, el acta de cómputo municipal o distrital respectiva para la elección de ayuntamientos o diputados de mayoría relativa. Si la anulación decretada fuera determinante para el resultado de la elección, revocar las constancias expedidas y otorgar nueva constancia a favor de la fórmula o planilla postulada por el partido o coalición que resulte ganadora en la elección correspondiente.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+III. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se den las causas previstas en el artículo 402 de este Código y modificar, en consecuencia, el acta de cómputo municipal, distrital o distrital judicial respectiva para la elección de ayuntamientos, diputaciones de mayoría relativa; y de personas juzgadoras, según corresponda. Si la anulación decretada fuera determinante para el resultado de la elección, revocar las constancias expedidas y otorgar nueva constancia a favor de la candidatura, fórmula o planilla postulada por el partido o coalición que resulte ganadora en la elección correspondiente o a la candidatura de personas juzgadoras del Poder Judicial.
 
 IV. Declarar, con base en lo previsto en la Constitución Local y este Código, la inelegibilidad de alguno o algunos de los integrantes de una planilla de miembros de los ayuntamientos, o del candidato de una fórmula a diputado y revocar el otorgamiento de la constancia expedida a su favor; y otorgar nueva constancia al candidato o candidatos que les corresponda de acuerdo con las disposiciones de este Código.
 
@@ -6201,13 +6383,27 @@ V. Declarar, con base en lo previsto en la Constitución Local y este Código, l
 
 VI. Declarar, con base en lo previsto en la Constitución Local y este Código, la inelegibilidad de todos los integrantes de una planilla de miembros de los ayuntamientos o de una fórmula de candidatos a diputados por el principio de mayoría relativa y, en consecuencia, declarar la nulidad de la elección.
 
-VII. Declarar la nulidad de la elección de Gobernador, de diputados por el principio de mayoría relativa en un distrito electoral uninominal o de integrantes de un ayuntamiento y, en consecuencia, revocar la constancia o constancias expedidas y la declaración de validez emitida, por el Consejo General, distrital o municipal correspondiente, cuando se den los supuestos de nulidad de elección previstos en este Código.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
 
-VIII. Corregir los cómputos distritales de la elección de Gobernador, cuando resulten fundadas las impugnaciones por error aritmético.
+VII. Declarar la nulidad de la elección de Gobernador, de diputados por el principio de mayoría relativa en un distrito electoral uninominal, de integrantes de un ayuntamiento o de personas juzgadoras y, en consecuencia, revocar la constancia o constancias expedidas y la declaración de validez emitida, por el Consejo General, distrital, distrital judicial o municipal correspondiente, cuando se den los supuestos de nulidad de elección previstos en este Código.
 
-IX. Corregir el cómputo final de la elección de Gobernador; los distritales de diputados por el principio de mayoría relativa y por el principio de representación proporcional, o el municipal de una elección de ayuntamientos, cuando resulten fundadas las impugnaciones por error aritmético. Si la corrección decretada resultare determinante para el resultado de la elección, revocar la constancia o constancias expedidas y otorgar nuevas a favor del candidato, fórmula o planilla postulada por el partido o coalición que resulte ganadora en la elección correspondiente.
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+VIII. Corregir los cómputos distritales de la elección de la persona titular del Poder Ejecutivo o en su caso, los cómputos de la elección de personas juzgadoras, cuando resulten fundadas las impugnaciones por error aritmético.
+
+> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+
+IX. Corregir el cómputo final o estatal de la elección de la persona titular del Poder Ejecutivo, de personas juzgadoras; los distritales de diputaciones por el principio de mayoría relativa y por el principio de representación proporcional, o el municipal de una elección de ayuntamientos, cuando resulten fundadas las impugnaciones por error aritmético. Si la corrección decretada resultare determinante para el resultado de la elección, revocar la constancia o constancias expedidas y otorgar nuevas a favor de la candidatura, fórmula, planilla postulada por el partido o coalición que resulte ganadora en la elección correspondiente.
 
 X. Modificar la asignación de diputados, o de síndico o regidores por el principio de representación proporcional realizada, en su caso, por el Consejo General o municipal, hecha en contravención de las reglas y fórmulas establecidas en la Constitución Local y este Código o a favor de un candidato inelegible.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+XI. Declarar, con base en lo previsto en la Constitución Local y este Código, la inelegibilidad de la candidatura de jueza o juez que hubiese obtenido la constancia de mayoría en la elección de personas juzgadoras del Poder Judicial y, en consecuencia, procederá a designar a la persona que resulte ganadora, revocando la constancia de mayoría previamente expedida.
+
+> <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
+
+XII. Declarar, con base en lo previsto en la Constitución Local y este Código, la inelegibilidad de la candidatura que hubiese obtenido la constancia de mayoría en la elección de la Presidencia y de Magistradas y Magistrados del Tribunal Superior de Justicia, y de las Magistradas y Magistrados del Tribunal de Disciplina Judicial del Poder Judicial.
 
 ###### Artículo 454.
 
@@ -6331,7 +6527,13 @@ IX. Las organizaciones sindicales, laborales o patronales, o de cualquier otra a
 
 X. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión.
 
-XI. Los demás sujetos obligados en los términos del presente Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ENERO DE 2025)</small>
+
+XI. Las Personas Candidatas a Cargos de Elección del Poder Judicial.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ENERO DE 2025)</small>
+
+XII. Los demás sujetos obligados en los términos del presente Código.
 
 ###### Artículo 460.
 
@@ -6361,7 +6563,13 @@ X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y
 
 XI. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
 
-XII. La comisión de cualquier otra falta de las previstas en este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ENERO DE 2025)</small>
+
+XII. La intervención en la elección de personas juzgadoras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ENERO DE 2025)</small>
+
+XIII. La comisión de cualquier otra falta de las previstas en este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -6379,7 +6587,13 @@ IV. No presentar el informe de gastos de precampaña o campaña establecidos en 
 
 V. Exceder el tope de gastos de precampaña o campaña establecidos.
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ENERO DE 2025)</small>
+
+VI. Realizar actos de proselitismo o posicionarse a favor o en contra de alguna candidatura de personas juzgadoras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ENERO DE 2025)</small>
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -6415,7 +6629,13 @@ XIII. La difusión de propaganda política o electoral que contenga expresiones 
 
 XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto.
 
-XV. El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ENERO DE 2025)</small>
+
+XV. Realizar actos de proselitismo o posicionarse a favor o en contra de alguna candidatura de personas juzgadoras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ENERO DE 2025)</small>
+
+XVI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -6427,7 +6647,13 @@ I. La negativa a entregar la información requerida por el Instituto, entregarla
 
 II. La presentación de denuncias frívolas.
 
-III. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ENERO DE 2025)</small>
+
+III. Con excepción de las y los ciudadanos, realizar actos de proselitismo o posicionarse a favor o en contra de alguna candidatura de personas juzgadoras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ENERO DE 2025)</small>
+
+IV. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 ###### Artículo 464.
 
@@ -6457,7 +6683,13 @@ V. La utilización de programas sociales y de sus recursos, del ámbito estatal 
 
 VI. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de este Código Electoral, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-VII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ENERO DE 2025)</small>
+
+VII. Realizar actos de proselitismo o posicionarse a favor o en contra de alguna candidatura de personas juzgadoras. La realización reiterada a lo anterior se considerará un ataque a las instituciones democráticas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ENERO DE 2025)</small>
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 ###### Artículo 466.
 
@@ -6493,7 +6725,13 @@ I. La inducción a la abstención, a votar por un candidato o partido político,
 
 II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular.
 
-III. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ENERO DE 2025)</small>
+
+III. Realizar actos de proselitismo o posicionarse a favor o en contra de alguna candidatura de personas juzgadoras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ENERO DE 2025)</small>
+
+IV. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
 
 > <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -7609,6 +7847,748 @@ Cuando el resultado del referéndum sea de rechazo, el Gobernador solicitará a 
 
 Una vez que la Legislatura derogue o abrogue los decretos que sean rechazados en el referéndum respectivo o que el Ejecutivo proceda a la promulgación y publicación de aquéllos que no lo hayan sido por efectos del mismo.
 
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+# LIBRO DÉCIMO. DE LA ELECCIÓN DE PERSONAS JUZGADORAS
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+### CAPÍTULO ÚNICO. Disposiciones Preliminares
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 567.
+
+Las personas juzgadoras serán electas por mayoría relativa y voto directo de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establecen la Constitución Federal, la Constitución Local, este Código y las demás disposiciones jurídicas aplicables.
+
+Con excepción de las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las Personas Juzgadoras podrán ser reelectas y, si lo fueren, sólo podrán ser privadas de sus puestos en los términos que determine la Constitución Local y las leyes de responsabilidades administrativas aplicables, y podrán ser readscritas de la jurisdicción respectiva por causa justificada que determine el Tribunal de Disciplina Judicial o el Órgano de Administración Judicial, en los casos y conforme a los procedimientos que establezca la ley, siempre y cuando haya transcurrido la tercera parte del periodo para el que fueron electos.
+
+La Persona Juzgadora que pretenda contender en elección consecutiva remitirá su solicitud al Poder Legislativo, a efecto de que sea incorporada en el listado respectivo como candidata a reelección. En caso de no resultar electas para ejercer su encargo por un siguiente periodo, el mismo lo concluirán en la fecha que tomen protesta las Personas Juzgadoras que emanen de la elección correspondiente.
+
+La elección ordinaria de las personas juzgadoras se llevará a cabo el primer domingo del mes de junio del año que corresponda de manera concurrente con los procesos electorales locales, en que se renueven Diputadas y Diputados del Poder Legislativo y personas integrantes de los ayuntamientos.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 568.
+
+Para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial, la elección se realizará a nivel estatal cada seis años, y para Magistradas y Magistrados del Tribunal Superior de Justicia, Juezas y Jueces del Poder Judicial, la elección se realizará cada nueve años, a nivel estatal, regional o distrital conforme a la jurisdicción o marco geográfico que se determine.
+
+Para elegir Presidenta o Presidente del Tribunal Superior de Justicia la elección se realizará a nivel estatal cada nueve años.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 569.
+
+En caso de ausencia de disposición expresa dentro de este Libro, se aplicará en forma análoga y en lo que sea aplicable los principios y reglas dispuestas para los procesos electorales a la Gubernatura, Diputaciones locales e integrantes de Ayuntamientos establecidos dentro de este Código.
+
+En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+## TÍTULO SEGUNDO. DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+### CAPÍTULO PRIMERO. Reglas Generales
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 570.
+
+El proceso electoral de las Personas Juzgadoras es el conjunto de actos ordenados por la Constitución Federal, por la Constitución Local y este Código, realizados por las autoridades electorales, los Poderes del Estado, y la ciudadanía, que tienen por objeto la renovación periódica de las personas juzgadoras que integran el Poder Judicial del Estado. En la elección e integración de los órganos jurisdiccionales locales, se observará la paridad y perspectiva de género.
+
+Tratándose del proceso electoral de personas juzgadoras, los partidos políticos no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso, ni solicitar el registro de candidaturas, o actuar en los asuntos de dicha elección en las mesas directivas de casilla.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 571.
+
+Para los efectos de este Código, el proceso electoral de las Personas Juzgadoras comprende las siguientes etapas:
+
+I. Preparación de la elección;
+
+II. Convocatoria y postulación de candidaturas;
+
+III. Campaña;
+
+IV. Jornada electoral;
+
+V. Cómputos;
+
+VI. Asignación de cargos, y
+
+VII. La entrega de constancias de mayoría y declaración de validez de la elección.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 572.
+
+La etapa de preparación de la elección inicia con la primera sesión que el Consejo General celebre en los primeros siete días del mes de enero del año de la elección, y concluye al iniciarse la jornada electoral.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 573.
+
+La etapa de convocatoria y postulación de candidaturas inicia con la publicación de la Convocatoria General que emita la Legislatura conforme a la fracción I del artículo 89 de la Constitución local, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al Instituto.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 574.
+
+La etapa de campaña iniciará en los treinta y ocho días anteriores a la jornada electoral que corresponda y concluirán tres días antes de dicha jornada. En ningún caso habrá periodo de precampañas, ni podrán realizarse actos anticipados de campaña.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 575.
+
+La etapa de la jornada electoral inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con la clasificación de votos por tipo de elección y la remisión de los paquetes a cada órgano desconcentrado.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 576.
+
+La etapa de cómputos inicia con la remisión de los expedientes electorales a los órganos desconcentrados que determine el Instituto, y concluye con el cómputo, que, en su caso, realice el Instituto.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 577.
+
+La etapa de asignación de cargos inicia con la identificación por el Instituto de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo, en función de su especialización por materia y alternando entre mujeres y hombres, conforme al principio de paridad de género, y concluye previamente a la entrega por el Consejo General de las constancias de mayoría a las candidaturas que resulten ganadoras.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 578.
+
+La etapa de entrega de constancias de mayoría y de declaración de validez inicia con la determinación que realice el Consejo General respecto de cada elección, o bien, cuando se tenga constancia de que no se presentó ningún medio de impugnación en contra de los resultados o la asignación de los cargos, y concluye con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal Electoral.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 579.
+
+Atendiendo al principio de definitividad que rige la materia electoral, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la Secretaría Ejecutiva del Instituto u órgano desconcentrado, según corresponda, podrá difundir su realización y conclusión por los medios que estime pertinentes.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 580.
+
+El Instituto informará electrónicamente, cuando sea el caso, a las personas candidatas para que reciban notificaciones personales de acuerdos y resoluciones emitidas por las autoridades electorales, en los términos de este Código.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+### CAPÍTULO SEGUNDO. De la Convocatoria y Postulación de Candidaturas
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 581.
+
+La Legislatura, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la Convocatoria General dirigida a los Poderes del Estado para integrar el listado de candidaturas para la elección de personas candidatas a cargos de elección del Poder Judicial.
+
+La Convocatoria General deberá observar las bases, procedimientos, plazos y requisitos que establece la Constitución local y este Código, y deberá contener lo siguiente:
+
+I. Fundamentos constitucionales y legales aplicables;
+
+II. Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia, región o distrito judicial respectivo cuando resulte aplicable;
+
+III. Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución local y el presente Código;
+
+IV. Ámbito territorial o jurisdicción en el que se elegirán a las personas juzgadoras;
+
+V. Etapas y fechas del proceso de elección de las Personas Juzgadoras, desde la etapa de postulación hasta la de calificación y declaración de validez;
+
+VI. Fechas y plazos que deberán observar los Poderes del Estado para la postulación de las Personas Candidatas a Cargos de Elección del Poder Judicial, así como los procedimientos para la recepción de las candidaturas, y
+
+VII. Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+La Convocatoria General no podrá establecer requisitos adicionales a los establecidos por la Constitución local y este Código para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes del Estado.
+
+Para la emisión de la Convocatoria General, el Órgano de Administración Judicial hará del conocimiento a la Legislatura dentro de la primera semana siguiente al inicio del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia, la región o distrito judicial respectivo y demás información que se le requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el Órgano de Administración Judicial lo comunicará de inmediato a la Legislatura para su incorporación en la convocatoria respectiva.
+
+En caso de que el Órgano de Administración Judicial no remita oportunamente la información que requiera la Legislatura para la elaboración de la Convocatoria General, el órgano legislativo lo integrará con la información pública que disponga.
+
+La Legislatura publicará la Convocatoria General en el Periódico Oficial “Gaceta del Gobierno”, en los diarios de mayor circulación en la entidad y en los medios electrónicos que al efecto dispongan el Instituto y los propios Poderes del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 582.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado, de acuerdo con el procedimiento establecido en el artículo 89 de la Constitución local. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles, paritarios y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución local y este Código.
+
+Las ciudadanas y los ciudadanos que reúnan los requisitos que establece el artículo 91 de la Constitución Local, y además presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación, así como cinco cartas de referencia de sus vecinas o vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo, son elegibles para el cargo de Personas Juzgadoras.
+
+Las y los ciudadanos que aspiren a una magistratura y adicionalmente pretendan ocupar la Presidencia del Tribunal Superior de Justicia deberán manifestarlo al Comité respectivo mediante la presentación de un escrito en donde se solicite su aspiración.
+
+Cada Poder del Estado instalará un Comité de Evaluación a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria general que emita la Legislatura. Cada Comité de Evaluación emitirá las reglas para su funcionamiento y podrá celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos, privilegiando el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de candidaturas.
+
+Los Comités estarán conformados por cinco personas de reconocido prestigio en la actividad jurídica, observando la paridad de género, y deberán reunir al menos los requisitos siguientes:
+
+I. Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+
+II. No haber sido condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+III. Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica, y
+
+IV. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+V. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género, o por delitos de violencia familiar, contra la libertad sexual o de violencia de género, y
+
+VI. No estar inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 583.
+
+Los Comités publicarán dentro de los quince días naturales posteriores a su integración las convocatorias para participar en el proceso de evaluación y selección de candidaturas, que contendrán lo siguiente:
+
+I. La información pertinente contenida en la convocatoria general que publique la Legislatura;
+
+II. Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación y selección de candidaturas por el Comité;
+
+III. Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso, incluyendo lo relativo a la elección de la Presidencia del Tribunal Superior de Justicia;
+
+IV. La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y materia de especialización, la cual incluirá, lo dispuesto en el artículo 585.
+
+En dicha metodología los Comités no podrán agregar criterios de evaluación adicionales a los previstos en la Constitución Local y éste Código, y
+
+V. Los formatos que determine el Instituto mediante los cuales las personas candidatas entregarán su información para ser publicada en el micrositio del Instituto.
+
+Concluido el plazo para inscribirse en la convocatoria, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución local.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 584.
+
+Los Comités publicarán, en los medios electrónicos que al efecto dispongan, la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad.
+
+Las personas que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral, dentro del plazo y conforme al procedimiento que determine este Código y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+El listado de las candidaturas, así como la documentación en versión pública que acredite la elegibilidad e idoneidad de las candidaturas se publicará en el portal de internet que al efecto dispongan en su convocatoria.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 585.
+
+Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, tomarán en cuenta su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Comité de Evaluación para valorar su honestidad y buena fama pública.
+
+Por último, los Comités realizarán entrevistas públicas a las personas aspirantes que califique más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
+
+La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros Poderes del Estado por el mismo cargo y región o distrito judicial no afectará el resultado de la evaluación, salvo que pretenda postularse para cargo diverso.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 586.
+
+Los Comités de Evaluación integrarán un listado de las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, y de las cuatro personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces del Poder Judicial del Estado.
+
+Los Comités depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a su especialidad por materia y observando la paridad de género, publicarán los resultados en los estrados habilitados y los remitirán a cada Poder para su aprobación en términos del artículo 89 de la Constitución local y de conformidad con lo siguiente:
+
+I. El Poder Ejecutivo, por conducto de su persona titular;
+
+II. El Poder Legislativo, por conducto del Pleno de la Legislatura, mediante votación calificada de dos tercios de sus integrantes presentes, y
+
+III. El Poder Judicial, por conducto del pleno del Tribunal Superior de Justicia, por mayoría calificada de dos tercios de sus integrantes presentes.
+
+Los listados aprobados en términos del párrafo anterior por los Poderes del Estado serán remitidos a la Legislatura a más tardar el 1o. de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria general, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Las autoridades que no remitan postulaciones al término del plazo señalado en el presente artículo estarán impedidas para hacerlo posteriormente.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 587.
+
+La Legislatura integrará los listados y expedientes de las personas postuladas por cada Poder del Estado conforme al tipo de elección e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir o manifiesten su intención de ser reelectas, exceptuando a aquellas que hayan manifestado ante el órgano legislativo la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria general, y a quienes hayan sido postuladas para un cargo o distrito o región judicial diverso al que ocupen.
+
+Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo o distrito o región judicial diverso deberán informarlo a la Legislatura dentro de los treinta días posteriores a la publicación de la convocatoria general, a efectos de no ser incorporadas en los listados de candidaturas. La Legislatura cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes del Estado para un cargo o distrito o región judicial diverso al que ocupen.
+
+La Legislatura estará impedida de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que le sean remitidas, toda vez que ello corresponde al Poder que las postula, y se limitará a integrar y remitir los listados y sus expedientes al Instituto a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+La Legislatura remitirá los listados integrados, así como los expedientes completos con documentación probatoria del cumplimiento de requisitos de elegibilidad, y datos de contacto de las personas candidatas, con la documentación en versión pública de los expedientes al Instituto, a efecto de que organice el proceso electivo, incluyendo los formatos para la publicación de información de las candidaturas en el micrositio que al efecto desarrollo el Instituto.
+
+Para tal efecto, el Instituto y los Comités de Evaluación de los Poderes tomarán las medidas necesarias para garantizar la transferencia de datos personales en términos de la Ley de la materia.
+
+El Consejo General emitirá el acuerdo respectivo con el objeto de ordenar la publicación de los listados en el Periódico Oficial “Gaceta del Gobierno” y continuar con las actividades de la preparación de la elección.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 588.
+
+En casos justificados, la sustitución de candidaturas se efectuará:
+
+I. Por el Poder del Estado postulante ante la Legislatura, dentro del plazo establecido para el registro de candidaturas, hasta antes de la entrega de los listados de candidaturas al Instituto, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+II. En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, el Poder del Estado postulante podrá solicitar a la Legislatura su sustitución antes del inicio de la impresión de las boletas electorales, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+En caso de renuncia o declinación, cuando la renuncia y ratificación de ésta fuera notificada al Consejo General, se hará del conocimiento de la Legislatura, dentro de las veinticuatro horas siguientes, para que el Poder Postulante proceda, en su caso, a la sustitución, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate. La Legislatura deberá notificar y remitir el expediente al Instituto el nombre de la persona sustituta para el registro correspondiente, dentro de las veinticuatro horas posteriores.
+
+En caso de que la candidatura no ratifique la renuncia presentada ésta se tendrá por no interpuesta.
+
+No habrá modificación a las boletas en caso de modificaciones o sustitución de una o más candidaturas si éstas ya estuvieren impresas.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+### CAPÍTULO TERCERO. De la Organización de la Elección
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 589.
+
+El Instituto es la autoridad responsable de la organización, desarrollo, supervisión, vigilancia, cómputo y asignación de cargos de la elección de personas juzgadoras. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, profesionalismo y paridad de género.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 590.
+
+Corresponde al Consejo General del Instituto:
+
+I. Realizar la preparación, organización, desarrollo, supervisión, vigilancia, cómputo, asignación de cargos, entrega de constancias de mayoría y adecuada conclusión del proceso electoral de Personas Juzgadoras de conformidad con los lineamientos que emita el Instituto Nacional Electoral y las disposiciones jurídicas aplicables;
+
+II. Emitir los lineamientos, acuerdos o disposiciones de carácter general necesarias para llevar a cabo la preparación, organización, desarrollo, supervisión, vigilancia, cómputo, asignación de cargos y adecuada conclusión del proceso electoral de Personas Juzgadoras, de conformidad con las determinaciones que realice el Instituto Nacional Electoral;
+
+III. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en este Código y conforme los lineamientos que determine el Instituto Nacional Electoral;
+
+IV. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al ejercicio del gasto durante el proceso de organización de la elección;
+
+V. Llevar a cabo la elección a nivel estatal, distrital o regional, de conformidad con el ámbito territorial que determine la ley;
+
+VI. Realizar el cómputo de la elección de Presidenta o Presidente del Tribunal Superior de Justicia y, en su caso, Magistradas y Magistrados de dicho Tribunal Jueces y Juezas del Poder Judicial, expedir las Constancias de Mayoría respectivas, a favor de las candidaturas que hubieran alcanzado el mayor número de votos, conforme al principio de paridad de género, así como formular las declaraciones de validez de la elección y enviar los resultados al Tribunal Electoral;
+
+VII. Realizar el cómputo de la elección de Magistradas y Magistrados del Tribunal de Disciplina Judicial, expedir las Constancias de Mayoría respectivas, a favor de las candidaturas que hubieran alcanzado el mayor número de votos, asignando los cargos conforme al principio de paridad de género, así como formular las declaraciones de validez de la elección y enviar los resultados al Tribunal Electoral;
+
+VIII. Con base en la geografía y cartografía electorales, bajo las directrices marcadas por el Instituto Nacional Electoral, podrá segmentar y/o ajustar, para efectos exclusivamente electorales, los marcos geográficos judiciales o jurisdicciones que señale la Ley Orgánica del Poder Judicial del Estado de México, siempre y cuando se facilite el ejercicio del sufragio.
+
+IX. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+X. Calcular el tope de gastos personales de campaña aplicables para cada candidatura;
+
+XI. Coordinarse con la Vocalía Ejecutiva de la Junta Local Ejecutiva del Instituto Nacional Electoral en la entidad, para garantizar el acceso a radio y televisión de manera igualitaria a las candidaturas en el periodo de campaña, conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral;
+
+XII. Supervisar que ningún partido político, persona servidora pública, ministro de culto religioso o agrupación religiosa, realice actos de proselitismo o posicionamientos a favor o en contra de candidatura alguna;
+
+XIII. Garantizar la equidad en el desarrollo de las campañas entre las personas candidatas;
+
+XIV. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo;
+
+XV. Ordenar la publicación de los listados de candidaturas que le remita la Legislatura local, y
+
+XVI. En caso de delegación, fiscalizar los ingresos y egresos de las personas candidatas.
+
+El Consejo General del Instituto no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo, supervisión, vigilancia y cómputo de la elección de personas juzgadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Primera. De la Propaganda
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 591.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial del Estado podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+La tipología de letra, emblemas o símbolos que utilicen en la propaganda no podrán tener vinculación o referencia a algún partido político.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 592.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas juzgadoras del Poder Judicial, de conformidad con lo dispuesto por el artículo 89 de la Constitución local.
+
+Las personas servidoras públicas y juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales para cualquier proceso electoral.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 593.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con este Código y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 594.
+
+La difusión de propaganda electoral solo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 595.
+
+Queda prohibida la contratación y adquisición por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Segunda. Encuestas y Sondeos de Opinión
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 596.
+
+El Instituto, en el marco del proceso de elección de personas juzgadoras, realizará las funciones en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o jurídicas colectivas que pretendan llevar a cabo este tipo de actividades, de conformidad con las reglas, lineamientos y criterios que emita el Instituto Nacional Electoral.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 597.
+
+Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 598.
+
+Las personas físicas o jurídicas colectivas que difundan encuestas o sondeos de opinión deberán presentar al Instituto un informe sobre los recursos aplicados en su realización en los términos que disponga la autoridad electoral correspondiente.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 599.
+
+Queda prohibida la contratación, por parte de personas candidatas y de los partidos políticos, por sí o por interpósita persona, de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 600.
+
+La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas por el Instituto en su página de Internet.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Tercera. De la Elección por Jurisdicción
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 601.
+
+En el mes de julio del año previo al de la elección, el Órgano de Administración Judicial remitirá al Instituto la división del territorio estatal por distrito o región judicial, indicando los municipios que abarcan, así como el número y materia de las Salas, Tribunales y Juzgados que tengan residencia en cada distrito o región judicial, y su sede correspondiente. En caso de que el Órgano de Administración Judicial no remita dicha información, el Instituto podrá solicitar o, en su caso, determinará lo conducente con la información pública que disponga, informando de ello a la Legislatura, para los trámites correspondientes.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 602.
+
+Para facilitar el ejercicio del sufragio, la autoridad electoral competente podrá segmentar y/o ajustar, para efectos exclusivamente electorales, los marcos geográficos jurisdiccionales que señale la Ley Orgánica del Poder Judicial del Estado de México.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 603.
+
+En el caso de la elección de la Presidencia del Tribunal Superior de Justicia la persona que haya obtenido más votos a nivel estatal asumirá la magistratura a la que se haya postulado, con independencia de la elección de la región donde se encuentre adscrito el órgano respectivo.
+
+En caso de que la persona no resulte electa en su respectiva jurisdicción, pero sí como titular de la Presidencia del Tribunal, el Consejo General deberá asignarle el cargo en primer término sobre las demás personas elegidas, continuando posteriormente con las asignaciones correspondientes. Si resulta electa, se le asignará conforme al procedimiento establecido en el Capítulo Sexto de este Título.
+
+La persona que haya obtenido más votos en elección de la Presidencia del Tribunal se desempeñará en la presidencia en el primer término de los dos años, y se asignarán los demás periodos relativos a la presidencia rotatoria en orden subsecuente a las demás candidaturas que hayan obtenido los mayores números de votos en la elección a nivel estatal y que, además, hayan sido electas en su respectiva jurisdicción, observando el principio de paridad de género alternadamente entre las asignaciones.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Cuarta. De los órganos para la elección de personas juzgadoras
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 604.
+
+En el año previo a la elección, el Consejo General del Instituto podrá determinar el número e integración de órganos desconcentrados que se instalarán durante el mes de enero del año de la elección, tomando en cuenta el número de cargos a elegir, así como la geografía electoral a utilizarse en cada una de las elecciones judiciales.
+
+A partir de su instalación y hasta la conclusión del proceso correspondiente, sesionarán por lo menos una vez al mes.
+
+Los órganos desconcentrados que se instalen para la organización de la elección de personas juzgadoras tendrán su sede en la demarcación que, mediante acuerdo asigne el Consejo General.
+
+Los órganos desconcentrados podrán ejercer las funciones descritas en el Libro Cuarto, Título Tercero del presente Código, en todo lo aplicable al proceso electoral de personas juzgadoras, que no sea contrario a las disposiciones aplicables al mismo, y las que les encomienden la Junta General y el Consejo General.
+
+Asimismo, dichos órganos deberán integrar los expedientes con las actas de cómputo de la elección de Juezas y Jueces y Magistradas y Magistrados del Tribunal Superior de Justicia, y presentarlas oportunamente al Consejo General; así como coadyuvar en lo relativo respecto a dicha integración en los casos de las demás Personas Candidatas a Cargos de Elección del Poder Judicial.
+
+Las representaciones de los partidos políticos no podrán participar en las acciones, actividades y sesiones que se encuentren relacionadas con los procesos para renovar cargos del Poder Judicial.
+
+Quienes integren dichos órganos deberán cumplir con los mismos requisitos que las Consejerías Electorales del Consejo General del Instituto que señale la ley, los que apruebe el Consejo General, así como los previstos en los lineamientos que emita para el caso el Instituto Nacional Electoral, salvo el de residencia efectiva, que se entenderá referido a la Entidad y el de título profesional que no será necesario.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Quinta. De las Mesas Directivas de Casilla
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 605.
+
+La integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas para la recepción de la votación, así como la capacitación de las personas funcionarias de casilla, se realizará en los términos dispuestos en la normatividad electoral general, los acuerdos que al efecto emita el Consejo General del Instituto Nacional Electoral y este Código.
+
+Será aplicable lo previsto en el presente Código a las mesas directivas de casillas, de conformidad con el artículo 224 del presente Código, con excepción de lo previsto respecto al escrutinio y cómputo de la votación, o conforme a lo que disponga el Consejo General del Instituto Nacional Electoral.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Sexta. De las Boletas y Materiales Electorales
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 606.
+
+Para la emisión del voto el Consejo General determinará el modelo, las características y el contenido de las boletas electorales en función de la demarcación y el cargo a elegir por materia, la documentación y los materiales que serán utilizados en ésta, tomando en cuenta las medidas de certeza que estime pertinentes, así como las disposiciones que emita el Instituto Nacional Electoral.
+
+El Instituto será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección. La producción de la documentación electoral podrá iniciar una vez que el Consejo General reciba los listados de candidaturas de personas juzgadoras que remita la Legislatura. Su entrega a los órganos desconcentrados respectivos se realizará a más tardar diez días antes de la Jornada Electoral.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
+
+El Consejo General podrá determinar medidas y acciones que permitan realizar de forma eficiente el ejercicio del sufragio, considerando los modelos, población, división territorial y necesidades de cada jurisdicción.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 607.
+
+El Consejo General determinará los tipos de boletas y la cantidad a producir de cada uno, en apego a los lineamientos emitidos por el Instituto Nacional Electoral y a partir de criterios de racionalidad.
+
+La boleta contendrá la siguiente información general:
+
+I. Cargo para el que se postula la persona candidata, considerando la especialidad por materia a la que se postula;
+
+II. Entidad Federativa, región, distrito judicial, y en su caso los municipios que abarcan;
+
+III. Primer apellido, segundo apellido y nombre completo de las personas candidatas, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas, y
+
+IV. Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto.
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la región o distrito judicial. El número de folio será progresivo.
+
+Las boletas para la elección a nivel estatal de la Presidencia del Tribunal no contendrán lo previsto en la fracción II de este artículo, con excepción de la entidad federativa, y deberá contener los datos de la fracción III de cada uno de los aspirantes a Magistradas o Magistrados del Tribunal Superior de Justicia que hayan solicitado expresamente participar por la elección de la Presidencia del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Séptima. De la Observación Electoral
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 608.
+
+La ciudadanía podrá ejercitar sus derechos como persona observadora electoral en términos de las disposiciones aplicables de la materia y conforme a los acuerdos que al efecto emita el Instituto Nacional Electoral.
+
+Las personas observadoras serán acreditadas por el Instituto Nacional Electoral y deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad. Podrán participar como personas observadoras las personas físicas o agrupaciones acreditadas ante el Instituto, con excepción de aquellas personas que sean representantes o militantes de partidos políticos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Octava. Del Acceso a los Tiempos en Radio y Televisión
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 609.
+
+Las candidaturas a personas juzgadoras tendrán derecho de acceso a radio y televisión de manera igualitaria.
+
+El Instituto, en coordinación con el Instituto Nacional Electoral, garantizará este derecho, así como la asignación de pautas para los mensajes y programas a que tengan derecho a difundir durante las campañas electorales conforme a la distribución del tiempo que señale la ley aplicable y determine la autoridad electoral competente.
+
+Ninguna persona física o jurídica colectiva, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión para promover una persona candidata o dirigida a influir en las preferencias electorales de la ciudadanía, a favor o en contra de los mismos. los partidos políticos ni las personas servidoras públicas podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Novena. De las Campañas Electorales
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 610.
+
+La campaña electoral, para los efectos de este Libro, es el conjunto de actividades llevadas a cabo por las Personas Candidatas a Cargos de Elección del Poder Judicial con la finalidad de solicitar el voto por parte de la ciudadanía y tendrán una duración de treinta y cinco días improrrogables. En ningún caso habrá período de precampañas.
+
+Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución Local y este Código.
+
+Las Personas Candidatas a Cargos de Elección del Poder Judicial podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados y brindados gratuitamente por el Instituto, el sector público, privado o social en condiciones de equidad, observando al efecto las directrices y acuerdos que al efecto emita el Consejo General del Instituto en observancia a lo dispuesto en este Código.
+
+Las Personas Candidatas a Cargos de Elección del Poder Judicial que funjan como personas servidoras públicas, incluidas aquellas que desempeñen funciones al interior de órganos jurisdiccionales, podrán continuar en funciones durante el periodo de campañas, siempre y cuando cumplan con los requisitos constitucionales, el principio de equidad en la contienda, y no interfiera con su horario y actividades o funciones laborales.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 611.
+
+Las personas candidatas podrán erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial que corresponda a su candidatura dentro de los periodos de campaña respectivos.
+
+Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo General del Instituto en función del tipo de elección que se trate y no podrán ser superiores al límite de aportaciones individuales que pudieron realizar las personas candidatas independientes a diputaciones en la última elección de que se trate.
+
+Queda prohibido a las personas candidatas, por sí o interpósita persona, recibir financiamiento público o privado para promocionar sus candidaturas. En caso de que el Instituto Nacional Electoral delegue la vigilancia del cumplimiento de esta disposición, el Instituto lo realizará, a través de su Unidad Técnica de Fiscalización.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Décima. De las Actividades en Materia Registral y del Listado Nominal
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 612.
+
+Durante la jornada electoral se utilizará el Listado Nominal de Electores de forma física o digital, conforme lo determine el Instituto Nacional Electoral, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Décima Primera. De las Actividades del Instituto para la Promoción de la Participación Ciudadana
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 613.
+
+El Consejo General del Instituto aprobará la metodología para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público.
+
+La metodología deberá ser imparcial, objetiva y con fines informativos, y contemplará por lo menos la creación de un micrositio en la página de Internet oficial del Instituto para informar a la ciudadanía sobre el proceso electivo y dar a conocer a las Personas Candidatas a cargos de elección del Poder Judicial.
+
+El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las Personas Candidatas a cargos de elección del Poder Judicial. El Consejo General aprobará los acuerdos necesarios para su funcionamiento.
+
+Dicho micrositio deberá ajustarse al menos a lo siguiente:
+
+I. No será un medio de propaganda política;
+
+II. Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+III. Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+IV. La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el Instituto, que deberá supervisar que se ajuste a este Código y los parámetros que al efecto determine el Consejo General, y
+
+V. La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+Para efectos de las actividades que realice el Instituto para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Instituto, medios electrónicos o digitales institucionales y periódicos de mayor circulación y cobertura en la entidad, entre otros.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+#### Sección Décima Segunda. De la Fiscalización
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 614.
+
+La revisión de los informes que las personas candidatas presenten sobre el origen y destino de sus recursos y de actos para sus gastos personales de campaña, así como la práctica de auditorías sobre el manejo de sus recursos y su situación contable y financiera estará a cargo de la Unidad de Fiscalización del Instituto Nacional Electoral, en los términos que establezca la Ley General de Instituciones y Procedimientos Electorales y las disposiciones jurídicas aplicables, o en caso de que el Instituto Nacional Electoral delegue dicha facultad, corresponderá a la Unidad Técnica de Fiscalización del Instituto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+### CAPÍTULO CUARTO. De la Jornada Electoral
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 615.
+
+La jornada electoral se desarrollará en los términos establecidos en este Código, debiéndose llenar al efecto la documentación que apruebe el Consejo General por parte de las personas funcionarias de las mesas directivas de casilla. El Instituto emitirá los lineamientos correspondientes para regular estas disposiciones.
+
+Las representaciones partidistas no podrán participar en las acciones y actividades relacionadas con los procesos para renovar cargos del Poder Judicial.
+
+En caso del ejercicio de la facultad de delegación, si no asistiera ninguna de las personas funcionarias de la casilla, el órgano desconcentrado que se instale para tal efecto, tomará las medidas necesarias para la instalación de la casilla.
+
+Para la elección de personas juzgadoras, al término de la jornada electoral en el local donde se ubique la casilla, únicamente se realizará lo conducente hasta la clasificación de los votos por tipo de elección.
+
+Se levantará el acta de casilla respectiva que deberán firmar únicamente las personas funcionarias que actuaron en la casilla o modalidad de centro de recepción de votación.
+
+El expediente de casilla no contendrá escritos de protesta, a menos que una persona candidata decida realizarlo en la casilla en la que emita su voto.
+
+La constancia de la clausura de la casilla únicamente será firmada por el funcionariado de mesa directiva de casilla.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 616.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+I. Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta.
+
+II. El Instituto determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de cargos a elegir.
+
+III. Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+Serán aplicables en lo conducente, las demás reglas sobre votos nulos que rigen otros tipos de elecciones, siempre y cuando no se contravenga lo establecido en las fracciones anteriores de este precepto.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 617.
+
+El escrutinio y cómputo de la votación recibida en las casillas lo realizarán los órganos desconcentrados, de forma simultánea a los cómputos a que se refiere el Capítulo Primero del Título Quinto de este Código, en el orden siguiente:
+
+I. Persona Magistrada Presidenta del Tribunal Superior de Justicia;
+
+II. Personas Magistradas integrantes del Tribunal de Disciplina Judicial;
+
+III. Personas Magistradas integrantes del Tribunal Superior de Justicia, y
+
+IV. Personas Juezas del Poder Judicial del Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE ENERO DE 2025)</small>
+
+### CAPÍTULO QUINTO. De los Cómputos
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 618.
+
+Los órganos desconcentrados correspondientes realizarán el cómputo de las boletas o actas que contengan las votaciones recibidas en las casillas, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete, de las siguientes elecciones de:
+
+a) Persona Magistrada Presidenta del Tribunal Superior de Justicia;
+
+b) Personas Magistradas integrantes del Tribunal de Disciplina Judicial;
+
+c) Personas Magistradas integrantes del Tribunal Superior de Justicia, y
+
+d) Personas Juezas del Poder Judicial.
+
+El Consejo General emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ENERO DE 2025)</small>
+
+### CAPÍTULO SEXTO. De la Asignación de Cargos
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 619.
+
+Concluidos los cómputos de cada elección, el órgano desconcentrado correspondiente emitirá a cada candidatura ganadora una Constancia de Resultados, misma que contendrá los votos obtenidos dentro del consejo respectivo.
+
+Una vez que se hayan computado la totalidad de las elecciones por parte de los Consejos respectivos, se remitirán al Consejo General para que proceda a realizar la sumatoria por tipo de elección.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 620.
+
+Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género, y publicará los resultados de la elección.
+
+El Instituto hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+Emitida la declaración de validez de la elección, el Instituto comunicará los resultados al Tribunal Electoral y al Poder Judicial del Estado de México.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en este Código.
+
+De la lista de candidaturas, el Consejo General deberá determinar el orden de asignación por mayoría de votos para la rotación de la Presidencia del Tribunal. El Consejo General deberá asignar en primer término al aspirante vencedor de la elección estatal y posteriormente realizar la asignación de los demás periodos de la presidencia a las siguientes personas que hayan obtenido mayor número de votos en orden decreciente y que además hayan sido ganadoras en su respectiva jurisdicción; asegurando la paridad de género sucesiva en el cargo.
+
+En la asignación se deberá asegurar que no integren un Juzgado, Sala o Pleno del Tribunal Superior de Justicia o del Tribunal de Disciplina Judicial, dos o más parientes por consanguinidad en línea recta sin limitación de grado, colateral dentro del cuarto grado, o por afinidad dentro del segundo grado o cónyuges, lo cual se hará con la información que proporcione al Instituto el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 621.
+
+El Tribunal Electoral resolverá las impugnaciones que se hayan presentado contra las constancias de mayoría y declaración de validez, antes del 10 de agosto del año de la elección que corresponda.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 622.
+
+Las personas juzgadoras electas deberán tomar protesta ante la Legislatura el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 623.
+
+Son infracciones de las Personas Candidatas a Cargos de Elección del Poder Judicial:
+
+I. El incumplimiento de las obligaciones señaladas en la Constitución Local y este Código.
+
+II. El incumplimiento de las resoluciones, acuerdos o determinaciones del Instituto.
+
+III. La realización de actos anticipados de campaña, así como el incumplimiento de las demás disposiciones previstas en el presente Código en materia de campañas.
+
+IV. La difusión de propaganda que contenga expresiones que calumnien a las instituciones, autoridades electorales y jurisdiccionales, partidos políticos, coaliciones o candidaturas a Personas Candidatas a Cargos de Elección del Poder Judicial.
+
+V. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por el Instituto.
+
+VI. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
+
+VII. La comisión de cualquier otra falta de las previstas en este Código.
+
+> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 624.
+
+Las infracciones señaladas serán sancionadas conforme a lo siguiente:
+
+I. Con amonestación pública.
+
+II. Con multa de mil hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+III. Con la pérdida del derecho a ser candidata o candidato, en su caso, si ya hubiera sido propuesta por el Comité de Evaluación correspondiente o la autoridad que represente cada Poder, con la cancelación de su candidatura.
+
 T R A N S I T O R I O S
 
 PRIMERO. Publíquese el presente Decreto en el periódico oficial “Gaceta del Gobierno”.
@@ -7866,3 +8846,57 @@ Las personas notificadoras, secretarias proyectistas y la persona titular de la 
 ###### ARTÍCULO CUARTO.
 
 Se dejan sin efectos los acuerdos, determinaciones o resoluciones del Pleno del Tribunal Electoral del Estado de México que tengan por objeto impedir su funcionamiento de conformidad con el presente Decreto.
+
+G.G. 14 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 65.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO, EN MATERIA DE ELECCIÓN DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Instituto Electoral del Estado de México acatará, en lo que corresponda, las resoluciones emitidas por el Consejo General del Instituto Nacional Electoral en lo que sea aplicable a los procesos electorales locales, respecto a la renovación del Poderes Judiciales en las entidades federativas.
+
+En el Proceso Electoral Local Extraordinario 2025 para la elección de personas juzgadoras del Poder Judicial, el Instituto instalará e integrará los órganos desconcentrados que considere pertinentes y emitirá la normativa que considere necesaria para su operación.
+
+En la integración de dichos órganos podrá designar directamente a vocalías y consejerías de los órganos desconcentrados que hayan demostrado un desempeño satisfactorio en el último proceso electoral.
+
+Los órganos celebrarán su primera sesión a más tardar en el mes de marzo de 2025.
+
+CUARTO. En lo que respecta a la etapa de convocatoria y postulación de candidaturas de las personas juzgadoras del Poder Judicial del Estado de México en el marco del Proceso Electoral Local Extraordinario 2025, las autoridades competentes observarán, por única ocasión, lo dispuesto en el presente Decreto conforme a los plazos siguientes:
+
+I. La Legislatura del Estado emitirá la Convocatoria General dirigida a los Poderes del Estado para integrar el listado de candidaturas a que hace referencia el artículo 581, a más tardar en la primera semana de febrero de 2025;
+
+II. Los Poderes del Estado instalarán sus respectivos Comités de Evaluación a más tardar el 7 de febrero de 2025.
+
+III. Los Comités de Evaluación publicarán las convocatorias para participar en el proceso de evaluación en los términos del artículo 583, a más tardar el 10 de febrero de 2025;
+
+IV. El plazo para que las personas interesadas se inscriban en las convocatorias emitidas por los Comités de Evaluación comprenderá del 11 al 16 de febrero de 2025;
+
+V. Los Comités de Evaluación verificarán que las personas aspirantes que hayan concurrido a la convocatoria reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, a más tardar el 18 de febrero de 2025, y publicarán el listado de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad el 19 de febrero de 2025;
+
+VI. Los Comités de Evaluación calificarán la idoneidad de las personas elegibles en los términos del artículo 585, y publicarán el listado a más tardar el 24 de febrero de 2025;
+
+VII. Los Comités de Evaluación depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a su especialidad por materia y observando la paridad de género; publicarán los resultados en los estrados habilitados y los remitirán a más tardar el 26 de febrero de 2025 al Poder que corresponda para su aprobación en términos de los artículo 89 de la Constitución Local y 586 de este Código a más tardar el 26 de febrero de 2025; de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de su titular;
+
+b) El Poder Legislativo, por conducto de la Legislatura del Estado, mediante votación calificada de dos tercios de sus integrantes presentes, y
+
+c) El Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, por mayoría de dos tercios de sus integrantes.
+
+VIII. Los listados aprobados en términos del numeral anterior serán remitidos a la Legislatura del Estado, a más tardar el 27 de febrero de 2025, y
+
+IX. La Legislatura del Estado integrará los listados y expedientes de las personas postuladas por cada Poder en los términos del artículo 587 y los remitirá al Instituto Electoral del Estado de México a más tardar el 28 de febrero de 2025 a efecto de que organice el proceso electivo.
+
+QUINTO. Las disposiciones aplicables del presente Decreto para el Órgano de Administración Judicial corresponderán al Consejo de la Judicatura hasta su extinción, en los términos de los artículos Séptimo y Noveno Transitorios del Decreto Número 63 por el que se reforman, adicionan y derogan de la Constitución Política del Estado Libre y Soberano de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 6 de enero de 2025.
+
+SEXTO. Las personas servidoras públicas en funciones en alguno de los cargos que sean materia del Proceso Electoral Extraordinario 2025 y pretendan una postulación para un cargo diverso, deberán informarlo a la Legislatura del Estado con cuando menos cinco días previos al cierre de la convocatoria general a que hace referencia el artículo 89 de la Constitución, a efectos de no ser incorporadas en los listados de candidaturas.
+
+La Legislatura del Estado cancelará las candidaturas de las personas servidoras públicas que omitan informar al Consejo de la Judicatura del Poder Judicial del Estado lo anterior y sean postuladas por alguno de los Poderes del Estado para un cargo o región o distrito judicial diverso al que ocupen.
+
+SÉPTIMO. Las Magistradas y los Magistrados cuyos períodos finalicen previo al 5 de septiembre de 2025 deberán continuar en el cargo hasta la debida conclusión del mismo, en cuyo caso gozarán de su respectivo haber de retiro conforme a las disposiciones aplicables. En su caso, deberán dejar sin efectos cualquier tipo de renuncia o separación previa del cargo y deberán manifestar su conformidad para ejercer el cargo para el que fueron nombrados hasta su conclusión.
+
+OCTAVO. Las Magistradas o Magistrados en funciones que participen en el proceso de elección extraordinaria del año 2025 para poder aspirar a la presidencia del Tribunal en términos del artículo 94 de la Constitución, conforme a los artículos Sexto y Décimo Transitorios del Decreto Número 63 por el que se reforman, adicionan y derogan de la Constitución Política del Estado Libre y Soberano de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 6 de enero de 2025, en caso de no haber sido electos concluirán su encargo en la fecha en que tome protesta la persona Juzgadora vencedora de dicha elección y no serán beneficiarias del haber de retiro respectivo.
+
+NOVENO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
