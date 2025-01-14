@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2024-06-20"
+last_updated: "2025-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE JUNIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO 310 PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -184,6 +182,14 @@ VII. Los cuerpos estatales de Seguridad para Adolescentes.
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 La Policía Procesal del Estado, formará parte de la estructura orgánica de las Fuerzas de Seguridad Pública del Estado, de conformidad con el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+Modelo de formación policial para la prevención y atención de la violencia de género
+
+###### Artículo 8
+
+1. Las instituciones policiales deberán implementar un modelo de formación para la especialización de los integrantes de los cuerpos policiales en materia de prevención y atención de la violencia de género, el cual deberá contener como mínimo las etapas de gestión, conformación de la unidad especializada, formación y profesionalización, implementación y seguimiento y deberá contar con un sistema de evaluación por casos.
 
 ### Capítulo II. Competencias
 
@@ -3352,3 +3358,15 @@ Artículo Cuarto. La sesión de conformación del Consejo de Movilidad y Segurid
 Plazo para las adecuaciones reglamentarias
 
 Artículo Quinto. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para su cumplimiento, en un plazo que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales.
+
+P.O. 14 DE ENERO DE 2025.
+
+> <small>[N. DE E. TRANSIORIOS DEL “DECRETO LEGISLATIVO NÚMERO 2 EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 8-1 A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]</small>
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para implementación
+
+Artículo Segundo. Las instituciones policiales contarán con un plazo de 180 días naturales contados a partir de la publicación del presente Decreto para la implementación del modelo.
