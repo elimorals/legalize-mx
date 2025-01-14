@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2023-09-30"
+last_updated: "2025-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -651,6 +651,14 @@ Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para
 
 Toda persona tiene derecho a que se le administre justicia por los tribunales del Estado, los cuales estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita.
 
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+Las personas titulares de los órganos jurisdiccionales locales deberán resolver los asuntos que se sometan a su jurisdicción, conforme a los plazos y términos de la materia de que se trate. En caso de que no se cumpla con los plazos y términos que correspondan, a instancia de parte, se deberá dar aviso de inmediato al Tribunal de Disciplina Judicial del Estado y justificar las razones de dicha demora o, en su caso, dar vista al Órgano Interno de Control que corresponda.
+
 El Estado proveerá a la defensa y representación gratuita de todo individuo cuya condición social le impida hacer valer plenamente sus derechos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
@@ -704,6 +712,14 @@ En todos los casos el Estado y los Municipios darán preferencia a los sectores 
 ###### Artículo 35.
 
 Corresponde al Estado garantizar la integración de los poderes públicos en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen. En consecuencia, la organización, preparación y realización de las elecciones de sus titulares, cuando su renovación deba hacerse por la vía comicial, es competencia del Instituto Nacional Electoral y del Instituto Electoral del Estado de Zacatecas y a la vez derecho de los ciudadanos, quienes podrán participar como candidatos y candidatas de manera independiente y, de los partidos políticos, quienes intervendrán de manera concurrente, en los términos que las leyes de la materia determinen.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+La elección local ordinaria para elegir Gobernador o Gobernadora, diputadas y diputados y Ayuntamientos, así como de Magistradas y Magistrados, Juezas y Jueces, del Poder Judicial del Estado, se celebrará el primer domingo de junio del año que corresponda.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+La renovación del Poder Judicial se realizará mediante elecciones auténticas y periódicas, mediante sufragio universal, libre, secreto y directo.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2020)</small>
 
@@ -923,7 +939,11 @@ VI. Las controversias que se susciten, con motivo de las determinaciones del Ins
 
 VII. Las impugnaciones de actos y resoluciones que violen los derechos de los ciudadanos de votar, ser votado y de afiliación libre y pacífica, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes secundarias. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violación a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas; y
 
-VIII. Las demás que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes reglamentarias.
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+VIII. Las impugnaciones respecto de los resultados de la votación y declaración de validez de la elección de los cargos de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, así como de las Juezas y Jueces del Poder Judicial del Estado, en los plazos y términos que dispone esta Constitución, y
+
+IX. Las demás que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes reglamentarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -1239,11 +1259,11 @@ En la asignación de diputadas y diputados por el principio de representación p
 
 > <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 53.
 
-Para ser diputado se requiere:
+Para ser diputada o diputado se requiere:
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -1255,9 +1275,13 @@ III. No estar en servicio activo en el Ejército Nacional ni tener en el Estado 
 
 IV. No ser miembro de los órganos electorales, federales o estatales, ni prestar servicios de carácter profesional en alguno de ellos, a menos que su desempeño hubiese concluido ciento ochenta días antes de la jornada electoral. Se exceptúan de tal prohibición los representantes de los partidos políticos;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-V. No ser Magistrado ni Juez de primera instancia del Poder Judicial del Estado ni titular de las dependencias que menciona la Ley Orgánica de la Administración Pública del Estado, así como subsecretario, a cargo de unidades administrativas de dichas dependencias que ejerzan presupuesto, y/o programas gubernamentales, cuando menos noventa días antes de la elección;
+V. No haber sido persona Consejera del Órgano de Administración Judicial, Magistradas o Magistrados, Juezas o Jueces del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, a menos que haya concluido su encargo o se haya separado del mismo, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+V-B. No haber sido durante el año previo a la elección titular de las dependencias que menciona la Ley Orgánica de la Administración Pública del Estado, así como subsecretario, a cargo de unidades administrativas de dichas dependencias que ejerzan presupuesto o programas gubernamentales;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1569,7 +1593,25 @@ XLI. Analizar y, en su caso, ratificar los convenios celebrados entre los Ayunta
 
 XLII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiere hecho el Tribunal de Justicia Electoral;
 
-XLIII. Aprobar o desechar los nombramientos de Magistrados del Tribunal Superior de Justicia que presente a su consideración el Gobernador del Estado, y resolver acerca de las solicitudes de licencia y de las renuncias de aquéllos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE ENERO DE 2025)</small>
+
+XLIII. Otorgar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial del Estado, conforme a esta Constitución y en los términos que establezcan las leyes;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XLIII-A. Elegir, por mayoría simple de los Diputados, a la persona Consejera del Pleno del Órgano de Administración Judicial que le corresponda;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XLIII-B. Designar a los integrantes del Comité de Evaluación al que se refiere el artículo 96 de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XLIII-C. Emitir, en los términos de esta Constitución, la convocatoria para la integración del listado de candidaturas para los cargos de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, así como de las Juezas y Jueces del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XLIII-D. Postular el número de personas aspirantes que le corresponda para cada uno de los cargos de elección popular del Poder Judicial del Estado;
 
 XLIV. Aprobar los convenios que el Ejecutivo celebre respecto de los límites del Estado, y someterlos a la ratificación del Congreso de la Unión;
 
@@ -1895,9 +1937,13 @@ X. Decretar expropiaciones por causa de utilidad pública en la forma que determ
 
 XI. Nombrar y remover libremente a los servidores de la Administración Pública estatal, en los términos de las leyes reglamentarias, con excepción del nombramiento del titular del órgano interno de control del Poder Ejecutivo del Estado, cuya designación será aprobada por la Legislatura;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-XII. Someter a la consideración de la Legislatura ternas para que ésta designe a los Magistrados del Tribunal Superior de Justicia;
+XII. Designar a la persona Consejera del Pleno del Órgano de Administración Judicial del Estado, así como proponer candidaturas a Magistradas y Magistrados y Juezas y Jueces del Poder Judicial del Estado, conforme al procedimiento establecido en esta Constitución y las leyes;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XII-A. Designar a los integrantes del Comité de Evaluación al que se refiere el artículo 96 de esta Constitución;
 
 XIII. Designar a los fedatarios públicos en los términos de la ley de la materia;
 
@@ -2071,203 +2117,299 @@ En ejercicio de las funciones que le competan, tal Policía deberá ser auxiliad
 
 (DEROGADO, P.O. 22 DE MARZO DE 2017)
 
-### CAPÍTULO TERCERO. DEL PODER JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2025)</small>
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO TERCERO. PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2025)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia, de control y tribunales de enjuiciamiento, así como los tribunales laborales que al efecto se establezcan.
+El Poder Judicial del Estado es el encargado de impartir y administrar justicia, de manera pronta, expedita, completa, imparcial y gratuita. El ejercicio de la función jurisdiccional se regirá por los principios de autonomía, independencia, honradez, rendición de cuentas, transparencia, profesionalismo, excelencia, objetividad, imparcialidad, legalidad, razonabilidad, proporcionalidad, máxima publicidad, respeto a los derechos humanos, no discriminación y perspectiva de género.
 
-Corresponde a los tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
+Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial, en los términos que establezca la Ley Orgánica. Asimismo, en los Juzgados de Primera Instancia, de Control y Tribunales de Enjuiciamiento, así como en los Tribunales Laborales.
+
+Corresponde a los Tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
 
 Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+La administración del Poder Judicial estará a cargo del Órgano de Administración Judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
-La ley determinará la organización, competencia y funcionamiento del Tribunal Especializado en Justicia para Adolescentes.
+El Órgano de Administración Judicial determinará el número, división en distritos, competencia territorial y especialización por materias.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2020)</small>
+La ley establecerá la forma y procedimientos para la integración de los órganos jurisdiccionales, conforme a esta Constitución, observando además el principio de paridad de género.
 
-La ley establecerá la forma y procedimientos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 90 Bis.
+
+El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica y de gestión y para emitir sus resoluciones.
+
+En los términos que la ley disponga las sesiones del Pleno del Tribunal de Disciplina Judicial serán públicas.
+
+Se integrará por tres personas electas por la ciudadanía a nivel estatal por un periodo único de seis años, conforme al procedimiento establecido en el artículo 96 de esta Constitución.
+
+Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 97 de esta Constitución y ser personas que se hayan distinguido por su capacidad, profesionalismo, honestidad y honorabilidad en el ejercicio de sus actividades.
+
+Serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo.
+
+Cada dos años se renovará la presidencia del Tribunal de Disciplina Judicial de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
+
+El Tribunal de Disciplina Judicial funcionará en Pleno.
+
+El Pleno será la autoridad substanciadora y resolutora en los términos que establezca la ley y resolverá los asuntos de su competencia.
+
+Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos; ordenar medidas cautelares y de apremio; y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
+
+El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en una única instancia, fungiendo como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones se resolverán por mayoría, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas.
+
+El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio, para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+El Tribunal de Disciplina Judicial podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante la Legislatura.
+
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de Magistradas y Magistrados del Tribunal Superior de Justicia del Estado, que sólo podrán ser removidos en los términos de esta Constitución.
+
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados, de las Juezas y los Jueces que resulten electas en la elección que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal de Disciplina Judicial podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina Judicial resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial del Estado.
+
+Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial ejercerán su función con profesionalismo, objetividad, independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+###### Artículo 90 Ter.
+
+El Órgano de Administración Judicial contará con independencia técnica y de gestión, y guardará los principios contenidos en el artículo 90 de esta Constitución y será responsable de la administración y carrera judicial del Poder Judicial.
+
+Tendrá a su cargo la determinación del número de Juzgados, competencia territorial, división en distritos y especialización por materia; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial del Estado, y las demás que establezcan las leyes.
+
+(NOTA: EL 14 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 30/2025 Y SU ACUMULADA 80/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+El Pleno del Órgano de Administración Judicial se integrará por TRES Consejerías que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Gobernador o Gobernadora del Estado; una por la Legislatura, mediante mayoría simple; y UNO por el Pleno del Tribunal Superior de Justicia, por mayoría. La presidencia del Órgano durará dos años y será rotatoria, en términos de lo que establezca la ley.
+
+El Órgano de Administración Judicial funcionará en Pleno y contará con una Secretaría Ejecutiva, responsable del cumplimiento de los acuerdos del mismo y de las áreas dependientes de la Administración Judicial. Las decisiones del Órgano de Administración Judicial serán definitivas e inatacables, por lo tanto, no procede juicio o recurso alguno en su contra.
+
+En los términos que la ley disponga las sesiones del Órgano de Administración Judicial serán públicas.
+
+Las personas que integren el Pleno del Órgano de Administración Judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad. No podrán integrar dicho Órgano, quienes hubieren ocupado la Gubernatura, la Secretaría General de Gobierno, la titularidad de la Fiscalía General de Justicia del Estado, o cargo político de elección popular local durante el año previo al día de la designación.
+
+Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial, sólo podrán ser removidas en los términos de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarlas y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
+
+El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela Estatal de Formación Judicial, responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en la entidad, en los asuntos de su competencia.
+
+El Órgano de Administración Judicial, a solicitud del Pleno del Tribunal Superior de Justicia, podrá concentrar en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
+
+El Órgano de Administración Judicial elaborará el presupuesto del Poder Judicial. Los presupuestos serán remitidos por dicho Órgano para su inclusión en el proyecto de Presupuesto de Egresos del Estado. Asimismo, será el encargado en conjunto con la Presidencia del Pleno del Tribunal Superior de Justicia, de la gestión del mismo y de sus adecuaciones, siendo su responsabilidad su aprobación, distribución y ejecución.
+
+A fin de garantizar los principios de transparencia activa y rendición de cuentas, el Órgano de Administración Judicial deberá transparentar los montos de ingresos y egresos, así como el origen y destino de dichos recursos, en los términos de la legislación correspondiente.
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 91.
 
-La justicia se administra en nombre del Estado, en los plazos y términos que fijen las leyes; los órganos jurisdiccionales emitirán sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito; en consecuencia, se prohíben las costas judiciales.
+La justicia se administra en nombre del Estado, en los plazos y términos que fijen esta Constitución y las leyes; los órganos jurisdiccionales emitirán sus resoluciones de manera pronta, completa e imparcial.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+Su servicio será gratuito; en consecuencia, se prohíben las costas judiciales.
 
 Ningún juicio civil o penal tendrá más de dos instancias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
+
 ###### Artículo 92.
 
-Los Magistrados del Poder Judicial y los Jueces percibirán remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial y Consejerías del Órgano de Administración de Justicia, los titulares de los Juzgados de Primera Instancia, de Control y de los Tribunales de Enjuiciamiento, así como de los Tribunales Laborales, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para las personas titulares del Ejecutivo del Estado y de la Presidencia de la República en el presupuesto correspondiente y no podrá ser disminuida durante su encargo.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-El Presupuesto de Egresos que anualmente sea autorizado, deberá incluir los tabuladores desglosados de las remuneraciones de todos los servidores públicos, observando las bases establecidas en el artículo 160 de esta Constitución.
+El Presupuesto de Egresos que anualmente sea autorizado, deberá incluir los tabuladores desglosados de las remuneraciones de todos los servidores públicos del Poder Judicial del Estado, observando las bases establecidas en el artículo 160 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 93.
 
-La competencia del Tribunal Superior de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de Magistrados y Jueces, el número y competencia de los Juzgados de primera instancia, de control y tribunales de enjuiciamiento, de los tribunales laborales, así como las responsabilidades en que incurran los funcionarios y trabajadores del Poder Judicial del Estado, se regirán por lo que dispongan las leyes y los reglamentos respectivos conforme a esta Constitución.
+La competencia del Tribunal Superior de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de Magistrados y Jueces, el número y competencia de los Juzgados de primera instancia, de control y tribunales de enjuiciamiento, de los tribunales laborales, se regirán por lo que dispongan las leyes y los reglamentos respectivos conforme a esta Constitución.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+Las responsabilidades en que incurran las personas servidoras públicas del Poder Judicial del Estado, estará a cargo del Tribunal de Disciplina Judicial, conforme a esta Constitución y lo que disponga la ley.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 94.
 
-Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo o cargo de la Federación, de otros Estados, Municipios, instituciones, o de particulares, salvo los cargos honoríficos y los de docencia. La infracción de esta disposición será castigada con la pérdida del cargo.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia, las Juezas y los Jueces, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, así como las Consejerías del Órgano de Administración Judicial, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado y de la Federación, salvo aquellos de causa propia. No podrán, en ningún caso, aceptar ni desempeñar empleo, cargo, o comisión de la Federación y de las entidades federativas, municipios, o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. De no cumplir con esta disposición, se suspenderá el haber de retiro o en su caso serán acreedores a la sanción que corresponda.
 
-#### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+#### SECCIÓN SEGUNDA. TRIBUNAL SUPERIOR DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia se compondrá de 13 Magistradas y Magistrados y funcionará en Pleno o en Salas.
+El Tribunal Superior de Justicia se compondrá de trece Magistraturas y funcionará en Pleno y en Salas.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+De entre las personas Magistradas una será titular de su Presidencia; seis integrarán las Salas Penales, de entre las cuales, a determinación del Pleno, una de ellas conocerá de la Justicia Especializada para Adolescentes; tres la Sala Civil y tres la Sala Familiar.
 
-Los Magistrados del Tribunal Superior de Justicia, durarán en su encargo catorce años. Sólo podrán ser removidos del mismo en los términos del Título VII de esta Constitución, y al vencimiento de su periodo tendrán derecho a un haber por retiro.
+En los términos que la ley disponga las sesiones del Pleno serán públicas.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+Las Magistradas y los Magistrados, así como las Juezas y los Jueces, durarán en su ejercicio nueve años; podrán ser reelectos por una sola ocasión. Sólo podrán ser privados de sus cargos en los términos que establece el Título VII de esta Constitución.
 
-Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 96.
 
-Para nombrar a los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado someterá una terna a consideración de la Legislatura, la cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante. La designación se hará por el voto de las dos terceras partes de los miembros de la Legislatura presentes, dentro del improrrogable plazo de treinta días. Si la Legislatura no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, las Juezas y los Jueces, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+I. La Legislatura del Estado requerirá del Órgano de Administración Judicial para que remita y haga del conocimiento de la Legislatura los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo y demás información que se requiera;
 
-En caso de que la Legislatura rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva, en los términos del párrafo anterior. Si ésta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna, designe el Gobernador del Estado.
+II. La Legislatura del Estado publicará la convocatoria para la integración del listado de las candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir;
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+III. Los Poderes del Estado postularán un hombre y una mujer para cada cargo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-En los casos de faltas temporales de los Magistrados por más de tres meses, serán sustituidos mediante propuesta de terna que el Gobernador someterá a la aprobación de la Legislatura, observándose en su caso lo dispuesto en los párrafos anteriores.
+a) Establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-Si la falta temporal no excede de tres meses, la Ley Orgánica del Poder Judicial determinará la manera de hacer la sustitución.
+b) Cada Poder integrará un Comité de Evaluación dentro de los siguientes diez días naturales posteriores a la emisión de la convocatoria conformado por tres personas reconocidas en la actividad jurídica, que recibirán los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+Para definir criterios uniformes, objetivos y homologados, los Comités de Evaluación de los tres Poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generarse los acuerdos sobre los mecanismos, requisitos y otros criterios, que deberán observar los Comités de Evaluación de cada Poder, para elegir a los perfiles mejor evaluados;
 
-Si faltare un Magistrado por defunción, renuncia o incapacidad, el Gobernador someterá nueva terna a la consideración de la Legislatura.
+c) Los Comités de Evaluación de cada Poder integrarán un listado de hasta las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y las Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, y de hasta las seis personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces, observando la paridad de género. Integrados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío a la Legislatura, y
 
-Los nombramientos de los Magistrados y Jueces serán hechos de preferencia entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la Administración de Justicia o que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+d) La persona titular del Poder Ejecutivo postulará dos personas aspirantes, un hombre y una mujer para cada cargo a elegir; el Poder Legislativo del Estado, mediante votación simple, postulará un hombre y una mujer para cada cargo a elegir; y el Poder Judicial del Estado, por mayoría, postulará dos personas aspirantes, un hombre y una mujer para cada cargo a elegir.
 
-Los Magistrados, al entrar a ejercer el cargo, harán la Protesta de ley ante la Legislatura del Estado.
+La decisión del Comité y la postulación de los Poderes serán inatacables.
+
+Las personas Magistradas y Juzgadoras que ocupen un cargo de los que se someterán a elección popular, deberán manifestar su deseo de participar en la elección, antes del cierre de registros previsto en la convocatoria.
+
+La Legislatura incorporará a los listados que remita al Órgano Electoral Local a las personas que se encuentren en funciones que manifiesten su interés en participar de la elección ordinaria al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o distrito judicial diverso;
+
+IV. La Legislatura remitirá los listados al Órgano Electoral Local a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
+
+V. El Órgano Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría y asignará los cargos de acuerdo con los resultados de la votación. También declarará la validez de la elección y enviará sus resultados al Tribunal de Justicia Electoral del Estado, los cuales podrán ser impugnados, y el Tribunal deberá resolver las impugnaciones antes de que la Legislatura del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas electas tomarán protesta de su encargo ante dicho órgano legislativo.
+
+Para el caso de las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, integrantes del Tribunal de Disciplina Judicial, juezas y jueces en materia penal, la elección se realizará a nivel estatal; y en lo relativo a juezas y jueces de otras materias, la elección será por distritos judiciales; conforme al procedimiento anterior y en los términos que dispongan las leyes.
+
+El Órgano de Administración Judicial deberá emitir un programa de rotación entre los jueces, a efecto de que un Juez no dure más de tres años en el mismo Juzgado, salvo necesidades institucionales o para proteger la salud e integridad física de las personas juzgadoras.
+
+Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el Instituto Electoral del Estado o aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La duración de las campañas será de cuarenta y cinco días para Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial y de treinta días para Juezas y Jueces, en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+Las personas que resulten electas conforme a este procedimiento, al entrar a ejercer el cargo deberán rendir la protesta de ley ante la Legislatura del Estado.
+
+Si faltare un Magistrado o Juez por defunción, renuncia o incapacidad, ocupará el cargo la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo, seguirá en orden de prelación la persona que hubiere obtenido mayor votación.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 97.
 
-Para ser Magistrado se requiere:
+Para ser Magistrada o Magistrado, se necesita:
 
-I. Ser mexicano por nacimiento y ciudadano zacatecano, en pleno ejercicio de sus derechos políticos y civiles;
+I. Ser mexicano por nacimiento y ciudadano zacatecano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+II. Contar el día de la publicación de la convocatoria señalada en el artículo 96 de esta Constitución, con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Además, deberá contar con práctica profesional de, al menos, tres años en un área jurídica afín a su candidatura;
 
-III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por la autoridad o la institución legalmente facultada para ello;
+III. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV. Haber residido en el estado durante el año anterior al día de la publicación de la convocatoria señalada en el artículo 96 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+V. Tener cuando menos treinta y cinco años cumplidos el día de la elección;
 
-V. No tener parentesco de consanguinidad hasta el tercer grado con los demás Magistrados del Tribunal Superior ni con el Fiscal General de Justicia; y
+VI. No haber sido Gobernador o Gobernadora del Estado; Senadora o Senador, Diputada o Diputado federal o local; miembro de algún Ayuntamiento, durante el año previo al día de la publicación de la convocatoria señalada en la fracción II del artículo 96 de esta Constitución;
 
-VI. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+VII. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+VIII. Presentar declaración tres de tres contra la violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 98.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno el primer día hábil del mes de febrero de cada cuatro años y no podrá ser reelecto para el periodo inmediato.
+El Tribunal Superior de Justicia del Estado será presidido por un Magistrado o Magistrada, la cual se renovará cada tres años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva y se alternará con quien resulte de la mayor votación del otro género, correspondiendo la presidencia a quienes alcancen mayor votación.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-La Presidencia del Tribunal Superior es el órgano de representación y administración del Poder Judicial. Las ausencias temporales del titular, serán suplidas por el Magistrado Presidente de Sala de mayor antigüedad. En caso de ausencia definitiva, el Pleno hará nueva designación.
+La Presidencia del Tribunal Superior es el órgano de representación del Poder Judicial del Estado. Las ausencias temporales del titular o la titular serán suplidas por el Magistrado de mayor antigüedad. En caso de ausencia definitiva, se procederá designar conforme a esta Constitución.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+La Presidencia del Tribunal Superior de Justicia y la Presidencia del Órgano de Administración de Justicia rendirán en el mes de enero de cada año, ante y en nombre de sus Plenos, informe del estado que guarda la impartición y administración de justicia.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+A este acto asistirán los titulares de los Poderes Ejecutivo y Legislativo.
 
 ###### Artículo 99.
 
 (DEROGADO, P.O. 26 DE MAYO DE 1999)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 100.
 
 Son facultades y obligaciones del Pleno del Tribunal Superior de Justicia:
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2000)</small>
-
-I. Emitir acuerdos generales; crear o suprimir unidades jurisdiccionales o administrativas; expedir los reglamentos del Tribunal Superior y de los Juzgados de primera instancia y municipales;
+I. Emitir acuerdos generales; expedir los reglamentos del Tribunal Superior y de los Juzgados de primera instancia y municipales;
 
 II. Iniciar ante la Legislatura las leyes y decretos que tengan por objeto mejorar la Administración de Justicia;
 
 III. Conocer como Jurado de Sentencia en los casos previstos por el Título VII de esta Constitución;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
-
 IV. Dirimir los conflictos que surjan entre los municipios y los Poderes Legislativo y Ejecutivo del Estado, o entre aquéllos, que no sean de los previstos por la fracción XXVIII del artículo 65 de esta Constitución o que se refieran a la materia electoral; sin perjuicio de lo dispuesto en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+V. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada, siempre que lo solicite el Gobernador del Estado, la cual en ningún caso se hará pública;
 
-V. Enviar la propuesta de terna para la elección de Magistrado Especializado en Justicia para Adolescentes, a la Legislatura del Estado, para su designación;
+VI. Establecer la jurisprudencia del Tribunal Superior de Justicia y resolver las contradicciones, en base a las ejecutorias en términos de ley;
 
-VI. Nombrar a los demás trabajadores al servicio del Poder Judicial, así como adscribir a Jueces y trabajadores de un Juzgado a otro o a distrito distinto; admitirles sus renuncias; concederles, sin goce de sueldo, las licencias que soliciten para separarse del despacho; destituirlos o suspenderlos hasta por tres meses, previa audiencia del interesado, por causa grave justificada que no dé lugar a que se le enjuicie, e imponerles las sanciones económicas que determinen las leyes;
+VII. Substanciar el recurso de revisión interpuesto en contra de las resoluciones que se dicten con motivo del juicio para la protección de los derechos humanos;
 
-VII. Conceder licencias a Magistrados, Jueces y trabajadores de confianza del Poder Judicial, según lo establezca su Ley Orgánica y reglamentos, así como a los trabajadores de base conforme a la Ley del Servicio Civil;
+(NOTA: EL 14 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 30/2025 Y SU ACUMULADA 80/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+VIII. DESIGNAR A LA PERSONA CONSEJERA INTEGRANTE DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE LE COMPETEN;
 
-VIII. Supervisar el estado de la Administración de Justicia en los Juzgados de primera instancia, de control y tribunales de enjuiciamiento;
+IX. Nombrar a los integrantes del Comité de Evaluación al que se refiere el artículo 96 de esta Constitución;
 
-IX. Ejercer y administrar en forma autónoma el presupuesto de egresos que apruebe anualmente la Legislatura del Estado;
+X. Postular el número de personas aspirantes que le corresponda para cada uno de los cargos de elección popular del Poder Judicial del Estado, y
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+XI. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
 
-X. Formular y aplicar los exámenes de oposición a los aspirantes a Jueces de primera instancia, de control y de tribunales de enjuiciamiento;
-
-XI. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada, siempre que lo solicite el Gobernador del Estado, la cual en ningún caso se hará pública; y
-
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 1999)</small>
-
-XII. Establecer la distritación judicial de conformidad con las reglas que contemple la ley;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2000)</small>
-
-XIII. Establecer la jurisprudencia del Tribunal Superior de Justicia y resolver las contradicciones, en base a las ejecutorias de las Salas, en términos de ley;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2000)</small>
-
-XIV. Ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2023)</small>
-
-XV. El veintisiete de septiembre de cada año, el Magistrado Presidente del Tribunal Superior de Justicia, presentará por escrito en sesión de la Legislatura un informe de las actividades realizadas;
-
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
-
-XVI. Substanciar el recurso de revisión interpuesto en contra de las resoluciones que se dicten con motivo del juicio para la protección de los derechos humanos, y
-
-XVII. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 101.
 
 El Tribunal Superior de Justicia conocerá:
 
-I. De la segunda instancia de los asuntos civiles y penales del Estado;
+I. De la segunda instancia de los asuntos civiles, mercantiles, familiares y penales del Estado;
 
 II. De los recursos que las leyes sometan a su conocimiento;
 
-III. De la revisión de los procesos en que hubieren causado ejecutoria las sentencias o resoluciones de los Jueces inferiores, para el solo efecto de investigar acerca de aquellos que incurrieren en responsabilidad, y demás revisiones de oficio que determinen las leyes;
+III. De las revisiones de oficio que determinen las leyes;
 
-IV. De las contiendas de jurisdicción entre los Jueces de primera instancia y municipales;
+IV. De las contiendas de jurisdicción entre los Jueces de primera instancia;
 
-V. De la responsabilidad oficial de los Jueces en la forma que establezcan las leyes; y
+V. De la substanciación y resolución del juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Comisión de Derechos Humanos del Estado, de acuerdo con la ley en la materia, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2023)</small>
-
-VI. Substanciar y resolver el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Comisión de Derechos Humanos del Estado, de acuerdo con la ley en la materia, y
-
-VII. De los demás asuntos que las leyes sometan a su jurisdicción.
+VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 #### SECCIÓN TERCERA. DEL TRIBUNAL ESTATAL ELECTORAL
 
@@ -2281,51 +2423,65 @@ VII. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 #### SECCIÓN CUARTA. DE LOS JUECES DE PRIMERA INSTANCIA Y MUNICIPALES
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 104.
 
-Los Jueces de primera instancia, de control y de tribunales de enjuiciamiento, de los tribunales laborales, serán nombrados por el pleno del Tribunal Superior de Justicia mediante concurso de oposición.
+La administración de justicia, en primera instancia, estará a cargo de juezas y jueces. El número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas o temporales, será determinada por el Órgano de Administración Judicial, en los términos que fije la ley.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+En materia penal, la primera instancia corresponde, además, a los juzgados de control de garantías y de enjuiciamiento; los que el Órgano de Administración Judicial podrá acordar sean itinerantes, cuando así se requiera, en todo el Estado. También son jueces de primera instancia los especializados en justicia penal para adolescentes y los de ejecución de sanciones.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2025)</small>
+
+Las juezas y los jueces de primera instancia, de control y los tribunales de enjuiciamiento, así como los tribunales laborales, serán designados conforme al procedimiento del artículo 96 de esta Constitución y por lo dispuesto en la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 105.
 
-Los Jueces de primera instancia durarán en su cargo tres años, al término de los cuales, si fueren ratificados, sólo podrán ser privados de sus puestos en los términos del Título VII de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+Las juezas y los jueces de primera instancia durarán en su cargo nueve años, podrán ser reelectos y si lo fueren sólo podrán ser privados de sus puestos en los términos del Título VII de esta Constitución y de la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 106.
 
-Habrá en el Estado el número de Jueces de primera instancia, de control y tribunales de enjuiciamiento, de tribunales laborales, que determine la Ley Orgánica del Poder Judicial, con la jurisdicción, atribuciones y deberes que la misma señale.
+Habrá en el Estado el número de jueces de primera instancia, de control y tribunales de enjuiciamiento, de tribunales laborales, que determine el Órgano de Administración Judicial del Estado y la Ley, con la jurisdicción, atribuciones y deberes que la misma señale.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 107.
 
-Para ser Juez de primera instancia se requiere:
+Para ser jueza o juez, se necesita:
 
-I. Ser ciudadano zacatecano, en pleno ejercicio de sus derechos;
+I. Ser ciudadano zacatecano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener veinticinco años cumplidos el día de su designación, título de licenciado en derecho y tres años de práctica profesional;
+II. Contar el día de la publicación de la convocatoria señalada en el artículo 96 de esta Constitución, con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de, cuando menos, ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Además, deberá contar con práctica profesional de, al menos, tres años en un área jurídica afín a su candidatura;
 
-III. Gozar de buena reputación y observar buena conducta;
+III. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+IV. Haber residido en el estado durante el año anterior al día de la publicación de la convocatoria señalada en el artículo 96 de esta Constitución;
 
-IV. No tener parentesco de consanguinidad hasta el tercer grado con los Magistrados del Tribunal Superior ni con el Fiscal General de Justicia del Estado; y
+V. Tener cuando menos veinticinco años cumplidos el día de la elección;
 
-V. Aprobar el examen de oposición respectivo.
+VI. No haber sido Gobernador o Gobernadora del Estado; Senadora o Senador, Diputada o Diputado federal o local; miembro de algún Ayuntamiento, durante el año previo al día de la publicación de la convocatoria señalada en la fracción II del artículo 96 de esta Constitución;
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+VII. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+VIII. Presentar declaración tres de tres contra la violencia.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 108.
 
-En los municipios del Estado, funcionará un servicio de Juzgado Municipal, en los términos que disponga la ley.
+Los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
 
-Los jueces municipales serán designados por el Tribunal Superior de Justicia.
-
-La remuneración de los jueces municipales y los gastos que se requieran para el funcionamiento de los Juzgados de esta categoría, serán cubiertos por el erario respectivo.
+El Órgano de Administración Judicial, en el ámbito de su competencia, tomará las medidas para que existan en el Estado centros especializados en mecanismos alternativos de solución de controversias.
 
 ###### Artículo 109.
 
-Los Jueces municipales tendrán las facultades y obligaciones que les atribuya la Ley Orgánica del Poder Judicial.
+(DEROGADO, P.O. 14 DE ENERO DE 2025)
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2000)</small>
 
@@ -3219,11 +3375,11 @@ La Auditoría Superior del Estado, la dependencia encargada del control interno 
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 ###### Artículo 151.
 
-Podrán ser sujetos de juicio político, los Diputados a la Legislatura del Estado; los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Electoral del Estado, del Tribunal de Justicia Administrativa; el Fiscal General de Justicia del Estado; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral del Estado de Zacatecas; los Jueces del fuero común; los miembros de los Ayuntamientos; los Secretarios de despacho del Ejecutivo; los miembros de los organismos a los que esta Constitución les otorgue autonomía y los directores generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político, los Diputados a la Legislatura del Estado; los Magistrados, Magistradas, Juezas y Jueces, del Tribunal Superior de Justicia; Magistradas y Magistrados del Tribunal de Disciplina Judicial, del Tribunal de Justicia Electoral del Estado, del Tribunal de Justicia Administrativa, del Tribunal de Justicia Laboral Burocrática; las personas Consejeras del Órgano de Administración Judicial, el Fiscal General de Justicia del Estado; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral del Estado de Zacatecas; los Jueces del fuero común; los miembros de los Ayuntamientos; los Secretarios de despacho del Ejecutivo; los miembros de los organismos a los que esta Constitución les otorgue autonomía y los directores generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos.
 
 ###### Artículo 152.
 
@@ -4186,3 +4342,93 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 Primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
 
 Segundo. El Instituto Electoral del Estado de Zacatecas deberá realizar las adecuaciones necesarias a su normatividad para dar cumplimiento al presente Decreto, a efecto de que sean aplicables a partir del proceso electoral ordinario local 2023-2024.
+
+P.O. 14 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 94.- REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Segundo. El Proceso Electoral Local Extraordinario 2024-2025 dará inicio con la sesión solemne que celebre el Instituto Electoral del Estado de Zacatecas, para tal efecto.
+
+La renovación del Poder Judicial del Estado podrá ser escalonada, esto es, para el Proceso Electoral Local Extraordinario se renovará hasta el total de los cargos de juezas y jueces y de las Magistraturas. Sin excepción, al año 2027, deberá estar totalmente renovado.
+
+En el caso de que Magistradas y Magistrados en funciones compitan en el Proceso Electoral Ordinario 2026-2027, de resultar ganadores, únicamente ejercerán el cargo por el periodo que reste a su nombramiento original o en el caso de que el periodo del nombramiento no concluya el mismo año en que se realice la elección ordinaria que corresponda, el periodo del nombramiento disminuirá para coincidir con la elección ordinaria más cercana.
+
+Por única ocasión, en el caso de que durante el periodo comprendido entre la entrada en vigor del presente Decreto y la toma de protesta de las personas electas en el Proceso Electoral Local Extraordinario 2024-2025, las vacantes que existan y las que se generen en el Pleno del Tribunal Superior de Justicia del Estado de Zacatecas, serán cubiertas con la designación de Magistraturas Titulares Provisionales, las que serán designadas por el Ejecutivo del Estado.
+
+Para el caso de las vacantes que se generen de Juezas y Jueces durante el lapso citado en el párrafo anterior, el Órgano de Administración Judicial hará las designaciones provisionales correspondientes.
+
+Las Magistraturas o los nombramientos de Juezas y Jueces que sean designadas como provisionales concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen del Proceso Electoral Local Extraordinario 2024-2025, y se les respetará el derecho de participar y ser postuladas en el mismo por alguno de los Poderes del Estado.
+
+Para seleccionar los cargos a renovar en el Proceso Electoral Local Extraordinario 2024-2025, se considerará en primer término las vacancias y cargos de jueces no ratificados, los que por voluntad propia decidan renunciar, las jubilaciones y retiros programados de las juezas y jueces.
+
+Las juezas y jueces que se encuentren en funciones, y cuyo cargo se vaya a renovar en el Proceso Electoral Ordinario 2026-2027 al cierre de la convocatoria que emita la Legislatura del Estado serán integrados a los listados de los Poderes Ejecutivo, Legislativo y Judicial, para participar en el Proceso Electoral, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria.
+
+Las juezas y jueces que concluyan su encargo por haber declinado su candidatura o no resulten electas por la ciudadanía para un nuevo periodo, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones y proporcionales de aquellas a las que tengan derecho.
+
+Tercero. El Órgano de Administración Judicial deberá ser designado y asumir funciones a más tardar en diez días a partir de la entrada en vigor del presente Decreto.
+
+Cuarto. La persona titular de la Presidencia del Pleno del Tribunal Superior de Justicia del Estado de Zacatecas en funciones, continuará en dicho cargo hasta el Proceso Electoral Ordinario de 2026-2027, a fin de dar continuidad y certidumbre a la función del Poder Judicial y a la coordinación interinstitucional con los Poderes Legislativo y Ejecutivo.
+
+De igual manera, la persona titular de la Presidencia del Tribunal de Justicia Electoral del Estado de Zacatecas en funciones permanecerá en dicho cargo hasta el Proceso Electoral Ordinario de 2026- 2027, con la finalidad de resolver las impugnaciones que se promuevan respecto de los resultados de la votación y declaración de validez de la elección de los cargos de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, así como de las Juezas y Jueces del Poder Judicial del Estado.
+
+Quinto. A la brevedad, el Órgano de Administración Judicial enviará a la Legislatura del Estado los espacios y cargos que serán objeto del Proceso Electoral Local Extraordinario 2024-2025 y demás información que requiera.
+
+La Legislatura del Estado emitirá la convocatoria para integrar los listados de las personas candidatas que participen en el Proceso Electoral Local Extraordinario 2024-2025 para renovar los cargos del Poder Judicial del Estado, dentro de los siguientes diez días naturales posteriores a la entrega de los cargos a elegir por parte del Órgano de Administración Judicial.
+
+Para el Proceso Electoral Local Extraordinario 2024-2025 y el Proceso Electoral Ordinario de 2026- 2027, los Poderes del Estado deberán integrar los Comités de Evaluación respectivos dentro de los siguientes diez días naturales posteriores al inicio del proceso electoral respectivo.
+
+Los procesos electorales para la renovación del Poder Judicial del Estado se celebrarán de manera concurrente el día en que se celebren las elecciones de renovación del Poder Judicial Federal.
+
+En la jornada electoral podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto, con excepción de representantes o militantes de un partido político.
+
+Los representantes de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+El Consejo General del Instituto Electoral del Estado de Zacatecas formalizará el convenio de apoyo y colaboración con el Instituto Nacional Electoral a efecto de organizar y realizar el Proceso Electoral Local Extraordinario 2024-2025 de integrantes del Poder Judicial del Estado de Zacatecas, de conformidad con las competencias y reglas que la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales establecen para la organización de la elección extraordinaria, y demás normativa aplicable al proceso electoral extraordinario, en el cual se contemplarán, cuando menos:
+
+La utilización del padrón electoral y el listado nominal debidamente actualizado; la habilitación de los capacitadores asistentes electorales y supervisores electorales del Instituto Nacional Electoral, sin necesidad de contrataciones adicionales por el IEEZ; utilización del mismo material electoral de la elección ordinaria 2023-2024; garantizar que las boletas electorales contengan medidas de seguridad suficientes y necesarias, sin que ello implique mayor costo en la producción, sin fotografía, pero con contenido claro y preciso; organizar, de ser necesario, un debate estatal por cargo de Magistratura, y aquellos de Jueces que se pudiesen organizar, coordinado por ambas instituciones; garantizar la adecuada utilización de los tiempos del estado en radio y televisión, y sobre todo evitar contrataciones o adquisiciones por sí o por interpósita persona en radio y televisión.
+
+El Consejo General del Instituto Electoral del Estado de Zacatecas deberá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo y vigilancia del Proceso Electoral Local Extraordinario 2024-2025, y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género.
+
+El listado de personas candidatas que se remita el Instituto Electoral distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección.
+
+Las boletas electorales contendrán, entre otros datos, el cargo, tipo de elección. Llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda.
+
+El Instituto Electoral del Estado de Zacatecas efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal de Justicia Electoral del Estado de Zacatecas.
+
+Las personas que resulten electas tomarán protesta de su encargo ante la Legislatura del Estado el día 15 de septiembre de 2025. El Órgano de Administración Judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar diez días posteriores a la toma de protesta.
+
+Sexto. Aquellas Magistradas y Magistrados que concluyan su encargo por no postularse o por no haber sido electos en la elección extraordinaria del año 2025, no serán beneficiarias de un haber de retiro, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria señalada en el artículo 96 de este Decreto, misma que tendrá efectos al 14 de septiembre del 2025. El haber de retiro será proporcional al tiempo de su desempeño.
+
+En el caso de las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado que por la conclusión de su encargo tengan derecho al haber por retiro, podrán disfrutarlo siempre y cuando no ejerzan algún otro cargo público; si lo hacen, deberá suspenderse su pago, reanudándose una vez que concluya dicho cargo público.
+
+Los Magistraturas que sean electas a partir del Proceso Electoral Local Extraordinario 2024-2025, no tendrán derecho a haber de retiro.
+
+En tanto que, las Juezas y los Jueces del Poder Judicial podrán participar de un programa de retiro voluntario que habrá de implementarse en lo inmediato a fin de que manifiesten su interés antes de la emisión de la Convocatoria para el Proceso Electoral Local Extraordinario 2024-2025. El programa de retiro voluntario deberá ser expedido en lo inmediato, para efectos de que el Órgano de Administración Judicial pueda hacer del conocimiento de la Legislatura del Estado los cargos sujetos a elección, competencia territorial, especialización por materia y demás información que requiera.
+
+Séptimo. El Tribunal de Disciplina Judicial iniciará sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del mismo y que emanen del Proceso Electoral Local Extraordinario 2024- 2025.
+
+Octavo. Durante el periodo de transición respectiva, el cual abarca desde la entrada en vigor del presente Decreto, la Presidencia y el Pleno del Tribunal Superior de Justicia del Estado de Zacatecas implementarán un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial; y al Órgano de Administración Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Pleno del Tribunal Superior de Justicia del Estado de Zacatecas aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Pleno del Tribunal Superior de Justicia del Estado continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará dentro de los siguientes treinta días a la entrada en funciones, la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda.
+
+Noveno. Todos los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad. Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el pago de las obligaciones de carácter laboral que surjan con motivo del presente Decreto, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+Se respetará el ingreso, permanencia y promoción de los servidores públicos del Poder Judicial mediante la Carrera Judicial en todas las categorías que lo conforman, con excepción de los cargos de jueces y magistrados que se elegirán en los términos del presente Decreto.
+
+Décimo. Los procedimientos judiciales iniciados con anterioridad a la entrada en vigencia de la presente reforma, se seguirán sustanciando conforme a las disposiciones normativas vigentes al momento de la concurrencia de los hechos que los suscitaron.
+
+Décimo Primero. La integración y funcionamiento de las Salas en términos de los párrafos primero y segundo del artículo 95 de este Decreto, se llevará a cabo a partir de la entrada en vigor del presente. La Primera Sala permanecerá como Sala Civil y la Segunda Sala como Familiar, en tanto que, la Magistratura Especializada para Adolescentes se integrará a la Sala Penal que corresponda a partir de que tomen protesta las personas que sean elegidas en el proceso electoral extraordinario.
+
+Décimo Segundo. Conforme al Artículo Transitorio Décimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, publicado en el Diario Oficial de la Federación el 15 de septiembre de 2024, el Poder Judicial del Estado de Zacatecas deberá llevar a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tienen un plazo máximo de noventa días naturales posteriores a la entrada en vigor del Decreto Federal mencionado, para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Finanzas de Gobierno del Estado, y se dispondrá de dicho recurso en los términos que señala el propio Artículo Décimo Transitorio.
+
+Décimo Tercero. La Legislatura del Estado tendrá un plazo de treinta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la normativa que corresponda para dar cumplimiento al mismo. En tanto, se aplicarán las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+La Legislatura del Estado y los órganos constituidos que se encuentren en funciones emitirán los acuerdos que sean necesarios para la debida implementación e interpretación de la presente reforma.
+
+Décimo Cuarto. El Ejecutivo del Estado, a través del Secretario de Finanzas, podrá realizar las adecuaciones presupuestarias de acuerdo a la disponibilidad financiera, con cargo a los ingresos excedentes de libre disposición, para cubrir los requerimientos que deriven de la implementación de la presente reforma.
+
+Décimo Quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
