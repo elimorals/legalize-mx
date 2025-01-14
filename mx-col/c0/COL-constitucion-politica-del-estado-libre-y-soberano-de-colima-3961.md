@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2024-05-11"
+last_updated: "2025-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "COL"
 
 [NOTA 2: EL DECRETO NÚMERO 439, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2017, REORDENA Y CONSOLIDA DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -711,9 +713,9 @@ II. Tener inscripción en la lista nominal de electores;
 
 III. No estar en servicio activo de las Fuerzas Armadas o de los cuerpos de seguridad pública, a menos que se separe de él por lo menos un día antes del inicio del registro de candidatura;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-IV. No ser Magistrada o Magistrado del Supremo Tribunal de Justicia; Titular de una Secretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General del Estado, o Presidente Municipal del lugar donde se realicen las elecciones, ni desempeñarse como Juez o Jueza Federal de Distrito en el estado, a menos que se separe del cargo por lo menos un día antes del inicio de registro de candidaturas;
+IV. No ser Magistrada o Magistrado del Tribunal Superior de Justicia; Titular de una Secretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General del Estado, o Presidente Municipal del lugar donde se realicen las elecciones, ni desempeñarse como Juez o Jueza Federal de Distrito en el Estado, a menos que se separe del cargo por lo menos un día antes del inicio de registro de candidaturas;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -869,6 +871,8 @@ XVI. Expedir todas las Leyes que sean necesarias, a objeto de hacer efectivas la
 
 Artículo 34
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 14 DE ENERO DE 2025)</small>
+
 El Congreso del Estado tendrá en el orden federal las facultades que determinen la Constitución Federal y demás leyes que de ella emanen. Asimismo, tendrá facultad para:
 
 I. Someter a la aprobación del Congreso de la Unión los convenios relativos a cuestiones de límites que se susciten con los Estados vecinos, salvo lo dispuesto en la fracción I del artículo 117 de la Constitución Federal;
@@ -929,7 +933,9 @@ a) Al presidente y a los consejeros de la Comisión de Derechos Humanos del Esta
 
 b) A los comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima y a los consejeros de su Consejo Consultivo;
 
-XXII. Otorgar o negar su aprobación al nombramiento de magistrados del Supremo Tribunal de Justicia y a la propuesta de Fiscal General del Estado que haga el Ejecutivo, en los términos que establece esta Constitución;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XXII. Otorgar o negar su aprobación a la propuesta de Fiscal General del Estado que haga el Ejecutivo, en los términos que establece esta Constitución;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
@@ -951,15 +957,29 @@ XXVIII. Recibir la protesta de los servidores públicos a que se refieren las fr
 
 XXIX. Conocer de las renuncias y licencias de los diputados y del Gobernador;
 
-XXX. Otorgar o negar su aprobación a la renuncia o a las solicitudes de licencia por más de dos meses de los magistrados del Supremo Tribunal de Justicia que le someta el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-XXXI. Dirimir las competencias y resolver las controversias que se susciten entre el Ejecutivo y el Supremo Tribunal de Justicia, salvo lo prevenido en el artículo 105 de la Constitución Federal;
+XXX. Otorgar o negar su aprobación a la renuncia o a las solicitudes de licencia por más de un mes de las y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de las Juezas y Jueces del Poder Judicial del Estado que le sometan directamente las y los interesados, o le hagan llegar los órganos antes señalados;
 
-XXXII. Erigirse en jurado de acusación en los casos que señala el artículo 121 de esta Constitución; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+XXXI. Designar a una persona integrante del órgano de administración judicial, de conformidad con el artículo 72 de esta Constitución;
 
-XXXIII. Conceder amnistía por delitos cuyo conocimiento corresponda a la jurisdicción de los Tribunales del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2025)</small>
+
+XXXII. Designar a las personas integrantes del Comité de Evaluación a que hace referencia el artículo 70 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XXXIII. Dirimir las competencias y resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, salvo lo prevenido en el artículo 105 de la Constitución Federal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ENERO DE 2025)</small>
+
+XXXIV. Erigirse en jurado de acusación en los casos que señala el artículo 121 de esta Constitución; y
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+
+XXXV. Conceder amnistía por los delitos cuyo conocimiento corresponda a la jurisdicción de los tribunales del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1119,11 +1139,11 @@ Artículo 44
 
 La persona Titular del Poder Ejecutivo podrá nombrar un representante para que, sin voto, asista a las sesiones, con objeto de apoyar las observaciones que haga a las iniciativas de ley o de decreto y para sostener las que procedan de la titularidad del Ejecutivo, a cuyo efecto se le dará oportuno aviso del día de la discusión.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 45
 
-El mismo derecho a que se refiere el artículo anterior tendrá el Supremo Tribunal de Justicia del Estado, cuando la iniciativa de ley o decreto sea del ramo judicial, y para facilitarle su ejercicio, se le remitirá copia de la iniciativa al darle aviso del día de la discusión.
+El mismo derecho a que se refiere el artículo anterior tendrá el Tribunal Superior de Justicia del Estado, cuando la iniciativa de ley o decreto sea del ramo judicial, y para facilitarle su ejercicio, se le remitirá copia de la iniciativa al darle aviso del día de la discusión.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1193,9 +1213,9 @@ V. No ser Ministra o Ministro de algún culto religioso;
 
 VI. No estar en servicio activo de las Fuerzas Armadas y de los cuerpos de seguridad pública, a menos que se separe de la función por lo menos un día antes del inicio del registro de candidaturas.
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-VII. No ocupar la titularidad de una secretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General, Magistratura del Supremo Tribunal de Justicia o Presidencia Municipal, a menos que se separe del cargo por lo menos un día antes del inicio del registro de candidaturas; y
+VII. No ocupar la titularidad de una secretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General, Magistratura del Tribunal Superior de Justicia o Presidencia Municipal, a menos que se separe del cargo por lo menos un día antes del inicio del registro de candidaturas;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -1273,7 +1293,7 @@ Si por cualquier motivo la elección de la Gubernatura no está hecha y publicad
 
 Artículo 58
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 14 DE ENERO DE 2025)</small>
 
 Son facultades y obligaciones de la Gobernadora o Gobernador:
 
@@ -1317,13 +1337,13 @@ IX. Pedir a la Comisión Permanente convoque al Congreso a sesión o periodo ext
 
 X. Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no haya Comisión Permanente;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-XI. Expedir los nombramientos de las magistradas y magistrados del Supremo Tribunal de Justicia y someterlos para su aprobación al Congreso del Estado;
+XI. Designar a una persona integrante del órgano de administración judicial, de conformidad con el artículo 72 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-XII. Aceptar las renuncias y las licencias de las personas funcionarias a que se refiere la fracción anterior, dado (sic) cuenta con ellas al Congreso o a la Comisión Permanente en su caso;
+XII. Designar a las personas integrantes del Comité de Evaluación a que hace referencia el artículo 70 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2021)</small>
 
@@ -1563,181 +1583,243 @@ La estructura orgánica de la Administración Pública del Estado y las funcione
 
 ### CAPÍTULO I. DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
+
 Artículo 67
 
-> <small>[N. DE E. DEL ANÁLISIS REALIZADO AL PROCESO LEGISLATIVO SE ADVIERTE QUE LA REFORMA REFIERE ÚNICAMENTE A LA MODIFICACIÓN DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO, P.O. 14 DE AGOSTO DE 2021.]</small>
+El Poder Judicial del Estado se deposita para su ejercicio en el Tribunal Superior de Justicia, en Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Control, Tribunales de Enjuiciamiento, Juzgados de Ejecución de Penas y Medidas de Seguridad, Tribunales Laborales, y en los demás órganos jurisdiccionales cualquiera que sea su denominación y/o auxiliares de la administración de justicia que señale su Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2021)</small>
+La competencia, organización, atribuciones y funcionamiento del Tribunal Superior de Justicia, así como las facultades, deberes y responsabilidades de las personas servidoras públicas judiciales, se regirá por esta Constitución, su Ley Orgánica y demás leyes aplicables. En todo caso, la impartición de justicia deberá ser pronta, expedita, completa, imparcial y gratuita.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, en Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Control, Tribunales de Enjuiciamiento, Juzgados de Ejecución de Penas y Medidas de Seguridad, Tribunales Laborales, Juzgados de Paz, y en los demás órganos auxiliares de la administración de justicia que señale su Ley Orgánica. Dicha ley fijará las atribuciones de los tribunales y juzgados, y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
+La administración del Poder Judicial del Estado estará a cargo de un órgano de administración judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos que, conforme a las bases señala la Constitución Federal, esta Constitución y la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+La independencia de las Magistradas, Magistrados, Juezas y Jueces en el ejercicio de sus funciones será garantizada por esta Constitución y la ley orgánica respectiva; éstos ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta, con excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-Los nombramientos de las magistradas, magistrados, juezas y jueces integrantes del Poder Judicial del Estado serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+La remuneración que perciban por sus servicios las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, las y los integrantes del órgano de administración judicial y demás personal del Poder Judicial del Estado, no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+Los recintos del Poder Judicial del Estado son inviolables.
 
-La independencia de las magistradas, magistrados, juezas y jueces en el ejercicio de sus funciones será garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; éstos ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta y con apego a los principios rectores de la carrera judicial, como lo son la excelencia, la objetividad, la imparcialidad, el profesionalismo y la independencia.
+En los nombramientos que se realicen en el Poder Judicial del Estado se observará el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+La ley establecerá la forma y procedimientos mediante concursos de oposición para el ingreso, formación, permanencia y promoción del personal en los cargos pertenecientes a la carrera judicial; e igualmente, contemplará las condiciones para el ingreso y permanencia de las demás personas servidoras públicas del Poder Judicial del Estado.
 
-Las magistradas, magistrados, juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-Los recintos del Pleno del Supremo Tribunal, de sus salas y de los juzgados, son inviolables.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 68
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+El Tribunal Superior de Justicia estará integrado por el número de magistradas y magistrados que fije la Ley Orgánica del Poder Judicial del Estado y funcionará en Pleno o en Sala Colegiada y, en los casos que así lo dispongan las leyes, podrá hacerlo en forma unitaria.
 
-El Supremo Tribunal de Justicia estará integrado por el número de magistradas y magistrados que fije la Ley Orgánica del Poder Judicial del Estado y funcionará en pleno o en sala colegiada.
+El Tribunal Superior de Justicia, actuando en Pleno, tendrá a su cargo la representación jurídica del Poder Judicial. Esta representación podrá delegarla, indistintamente, en favor de su presidencia, de alguna persona servidora pública del Poder Judicial o comisión de éstas a propuesta de la presidencia, en los términos que señalen la Ley Orgánica y su Reglamento.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+La Presidencia del Tribunal Superior de Justicia se renovará cada dos años, las Magistradas y Magistrados integrantes del Pleno elegirán de entre ellos y ellas a quien ocupará la Presidencia, pudiendo reelegirse.
 
-El Supremo Tribunal, actuando en Pleno, tendrá a su cargo la representación jurídica del Poder Judicial. Esta representación podrá delegarla, indistintamente, en favor de su presidente, de algún servidor público del Poder Judicial o comisión de éstos, en los términos que señalen la Ley Orgánica y el Reglamento.
+La buena marcha del Poder Judicial del Estado corresponde de manera coordinada, a las presidencias del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del órgano de administración judicial, conforme a la división de competencias y atribuciones que tienen establecidas y que se encuentran señaladas en esta Constitución y en su Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
-
-La buena marcha del Poder Judicial corresponde a la Magistrada o Magistrado Presidente, quien será designado por el Pleno para un periodo de dos años y podrá ser reelecto.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 69
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+Para ser Magistrada o Magistrado del Tribunal Superior de Justicia y Jueza o Juez de Primera Instancia del Poder Judicial del Estado, se requiere:
 
-Para ser magistrada o magistrado del Supremo Tribunal de Justicia se requiere:
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+II. Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 70 de esta Constitución, con título de licenciatura en derecho expedido por autoridad o institución legalmente facultada para ello, y haber obtenido un promedio general de calificación de cuando menos ocho puntos, o su equivalente, y de nueve puntos, o equivalente, en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y acreditar práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
 
-I. Ser mexicana o mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+III. Gozar de buena reputación y no haber sido condenada o condenado por delito doloso con sanción privativa de la libertad;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+IV. Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 70 de esta Constitución; y
 
-II. Tener por lo menos treinta y cinco años de edad el día de la designación;
+V. No haber sido titular de una Secretaría de Estado, Fiscalía General de la República, Senaduría, Diputación federal, ni titular del Poder Ejecutivo, de una Secretaria de Estado local, de una Diputación local, o de la Fiscalía General local en la entidad, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 70 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+Las Magistradas, Magistrados, Juezas y Jueces, al entrar a ejercer su encargo, protestarán ante el Congreso del Estado, ajustado a su género, en la siguiente forma:
 
-III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de licenciatura en derecho, expedido por autoridad o institución legalmente facultada para ello;
+Quien desempeñe la Presidencia de la Mesa Directiva: (nombre de la persona electa) "¿Protesta desempeñar leal y patrióticamente el cargo de Magistrado/juez (órgano de adscripción) que la ciudadanía le ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen, así como la Constitución y las leyes del Estado, mirando en todo por el bien y prosperidad del Estado, por la independencia y autonomía del Poder Judicial y por una justicia pronta y expedita?"
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+Persona que tome protesta: "Sí protesto"
 
-IV. Gozar de buena reputación y no haber sido condenada o condenado por delito que amerite pena de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+Quien desempeñe la Presidencia de la Mesa Directiva: "Si no lo hiciere así, que la población se lo demande".
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+Las Magistradas y Magistrados, así como las Juezas y Jueces durarán en el ejercicio de su encargo nueve años; podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que establece esta Constitución, la Ley General de Responsabilidades Administrativas y la Ley Orgánica del Poder Judicial del Estado.
 
-V. Haber residido en el país durante los dos años anteriores al día de la designación.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 70
 
-Los nombramientos de magistradas o magistrados del Supremo Tribunal de Justicia serán hechos por la Gobernadora o Gobernador del Estado y sometidos a la aprobación del Congreso, el cual otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resuelve dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión las magistradas o magistrados nombrados.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial; así como las Juezas y Jueces del Poder Judicial del Estado, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda, conforme al siguiente procedimiento:
 
-En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, la Gobernadora o Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación de la Cámara en el siguiente periodo ordinario de sesiones.
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso los cargos sujetos a elección, la especialización por materia y la demás información que se requiera;
 
-En dicho período, dentro de los primeros ocho días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, la magistrada o magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones la magistrada o magistrado provisional, y la Gobernadora o Gobernador del Estado, someterá nuevo nombramiento a la aprobación de dicho cuerpo colegiado, en los términos señalados.
+II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-Si falta una magistrada o magistrado por defunción o por cualquier causa de separación definitiva, la Gobernadora o Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso, quedando este nombramiento limitado al resto del correspondiente periodo a que se refiere el artículo 73 de esta Constitución. Si el Congreso no está en sesiones, la Comisión Permanente dará su aprobación provisional mientras se reúne aquél y da la aprobación definitiva.
+a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-Las faltas temporales de una magistrada o un magistrado que no excedan de tres meses se suplirán en la forma que determine la Ley Orgánica del Poder Judicial.
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica; y
+
+c) Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces del Poder Judicial. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso.
+
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral del Estado a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria, no podrán hacerlo posteriormente; y
+
+IV. El Instituto Electoral del Estado efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicha Soberanía.
+
+Para el caso de Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, la elección se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto de la persona titular del mismo, hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, mediante votación calificada de dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará hasta tres personas por mayoría calificada de las dos terceras partes de los presentes en la sesión.
+
+Para el caso de Juezas y Jueces del Poder Judicial, la elección también se realizará a nivel estatal conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación calificada de dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, postulará hasta dos personas por mayoría calificada de las dos terceras partes de los presentes en la sesión.
+
+El Congreso incorporará a los listados que remita al Instituto Electoral del Estado a las personas que se encuentren en funciones en los cargos señalados en los párrafos anteriores al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+
+La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral del Estado celebre dentro de la primera quincena del mes de octubre del año anterior a la elección.
+
+Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el propio Instituto o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 71
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones; y se integrará por cinco personas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 70 de esta Constitución.
 
-Las juezas o jueces de Primera Instancia, los de Paz y los que con cualquiera otra denominación se creen en el Estado, serán nombrados y ratificados por el Supremo Tribunal de Justicia, observando que su integración sea de forma paritaria, así como las normas y requisitos que establece la Ley Orgánica respectiva.
+Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 69 de esta Constitución, con la acotación de que, respecto a la práctica profesional requerida, deberán acreditar al menos cinco años en un área jurídica afín a su candidatura.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2021)</small>
+Además, deberán acreditar ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán seis años en su encargo, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo. Cada dos años se renovará la presidencia del Tribunal de Disciplina Judicial de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
-En materia penal, la primera instancia corresponde, además, a las juezas o jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Penas y Medidas de Seguridad.
+El Tribunal de Disciplina Judicial funcionará en Pleno y en Comisiones. El Pleno será la autoridad substanciadora en los términos que establezca la ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2021)</small>
+El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por tres de sus integrantes, que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de cuatro votos, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
 
-En materia laboral, los procedimientos serán uniinstanciales y corresponderá su resolución a Juezas o Jueces, quienes serán titulares de los tribunales laborales. Los tribunales laborales se conformarán por Ordinarios, así como, Auxiliares y de Ejecución.
+El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE AGOSTO DE 2021)</small>
+El Tribunal de Disciplina Judicial podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
 
-En los nombramientos que se realicen para ocupar la titularidad de los Juzgados de Primera Instancia señalados en los párrafos anteriores, se observará el principio de paridad de género.
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados del Tribunal Superior de Justicia y de las Juezas y Jueces que resulten electas en la elección estatal que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal de Disciplina Judicial podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina Judicial resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Undécimo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 72
 
-El Poder Judicial del Estado contará con un Centro de Justicia Alternativa y Resolución de Conflictos, el cual actuará bajo los principios de equidad, imparcialidad, celeridad, profesionalismo, confidencialidad y gratuidad, de conformidad con lo que establezca la ley.
+El órgano de administración judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división en partidos judiciales, competencia territorial y especialización por materias de las Salas del Tribunal Superior de Justicia y de los Juzgados; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+El Pleno del órgano de administración judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular del mismo; uno por el Congreso de Estado mediante votación calificada de las dos terceras partes de sus integrantes presentes; y tres por el Pleno del Tribunal Superior de Justicia, con mayoría calificada de las dos terceras partes de los presentes. La presidencia del órgano durará dos años y será rotatoria, en términos de lo que establezca la Ley.
 
-La directora o director general del Centro será nombrado por el Pleno del Supremo Tribunal de Justicia del Estado a propuesta de su presidenta o presidente; los demás servidores públicos del Centro se nombrarán entre aquellos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores o árbitros, mediante un proceso riguroso de oposición, observando el principio de paridad de género, las bases, los requisitos y procedimientos que serán establecidos por el Pleno del Supremo Tribunal.
+Quienes integren el Pleno del órgano de administración judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
 
-Tratándose de la materia penal, los mecanismos alternativos de solución de conflictos se regirán por las bases y lineamientos que establece la Constitución Federal y demás legislación aplicable.
+Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidas en los términos del Título Undécimo de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo. Lo mismo aplicará, en lo conducente, en caso de ausencias temporales.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El órgano de administración judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela Estatal de Formación Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado y de sus órganos auxiliares; así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+Además, tendrá la facultad para celebrar convenios de colaboración administrativa con el objeto de formar, capacitar, evaluar, y certificar, en su caso, al personal de fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y del público en general.
+
+De conformidad con lo que establezca la ley, el órgano de administración judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al órgano de administración judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia.
+
+El órgano de administración judicial, a solicitud del Pleno del Tribunal Superior de Justicia, podrá concentrar en uno o más órganos jurisdiccionales para que conozcan, conforme a sus atribuciones y competencia, de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
+
+El órgano de administración judicial elaborará el anteproyecto de presupuesto del Poder Judicial del Estado y lo remitirá para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+
+A dicho órgano de administración, le corresponderá gestionar y administrar los recursos humanos, materiales y financieros que requiere el correcto funcionamiento del Poder Judicial; así como disponer, en los términos de la Ley Orgánica del Poder Judicial y la de Hacienda del Estado, del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+
+El Fondo Auxiliar en Beneficio de la Administración de Justicia se integrará con multas, decomisos, donaciones, derechos, productos, aprovechamientos e intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que efectúen ante la dependencia correspondiente y tribunales del fuero común, y se aplicará a infraestructura, capacitación, actualización y especialización del personal. Asimismo, podrá aplicarse hasta treinta por ciento del Fondo para otorgamiento de incentivos al desempeño de las y los servidores públicos, de acuerdo con lo previsto en el Reglamento de Procedimientos y Asignación de Estímulos del Poder Judicial del Estado; e igualmente podrá aplicarse hasta un diez por ciento del mismo para la celebración de los concursos de oposición para el ingreso, permanencia y ascenso en el escalafón de las y los servidores públicos en los cargos pertenecientes a la carrera judicial.
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación otros fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 73
 
-Las magistradas y magistrados, juezas y jueces durarán seis años en el ejercicio de su cargo, que se contarán desde el día primero de noviembre en que se inicia el periodo constitucional del Ejecutivo; podrán ser reelectos, y si lo son, solo podrán ser privados de sus puestos en los términos de esta Constitución y la Ley General de Responsabilidades Administrativas. Si por cualquier motivo no se hace la elección de magistradas y magistrados, juezas y jueces, o las personas designadas no se presentan al desempeño de sus cargos, continuarán ejerciendo las funciones judiciales quienes se encuentren desempeñándolas, hasta que tomen posesión las que se nombren.
+La administración e impartición de justicia en primera instancia estará a cargo de juezas o jueces. La ley determinará su competencia y sus atribuciones. Los Juzgados residirán en el lugar que señale la Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+En materia penal, la primera instancia corresponde, además, a las juezas o jueces de Control, Tribunales de Enjuiciamiento, Jueces Especializados en Justicia para Adolescentes y Juzgados de Ejecución de Penas y Medidas de Seguridad.
+
+En materia laboral, los procedimientos serán uniinstanciales y corresponderá su resolución a Juezas o Jueces, quienes serán titulares de los tribunales laborales, los cuales se conformarán por Ordinarios, así como, Auxiliares y de Ejecución.
+
+Los tribunales laborales conocerán de todas las controversias jurisdiccionales entre personas trabajadoras y la parte patronal, derivados de las relaciones de trabajo o de hechos relacionados con ellas.
+
+El Poder Judicial del Estado, además, contará con un Centro de Justicia Alternativa y Resolución de Conflictos, el cual actuará bajo los principios de equidad, imparcialidad, celeridad, profesionalismo, confidencialidad y gratuidad, de conformidad con lo que establezca la ley respectiva. Su titular y demás personas servidoras públicas adscritas al mismo serán nombradas por el órgano de administración judicial en los términos que establezca la Ley.
+
+Tratándose de la materia penal, los mecanismos alternativos de solución de conflictos se regirán por las bases y lineamientos que establece la Constitución Federal y demás legislación aplicable.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 74
 
-Corresponde exclusivamente al Supremo Tribunal de Justicia del Estado:
+El ejercicio de la potestad jurisdiccional en todo tipo de procesos del fuero común y jurisdicción concurrente, corresponde exclusivamente a los órganos del Poder Judicial en los asuntos que les encomienden las leyes, según los procedimientos que las mismas establezcan.
 
-I. Conocer de los negocios civiles y penales del fuero común, como tribunal de apelación o de última instancia;
+La Ley Orgánica del Poder Judicial reglamentará la integración, competencia, atribuciones y el funcionamiento del Pleno, de la Presidencia, de las Salas del Tribunal Superior de Justicia y de los Juzgados, cualquiera que sea su denominación, conforme a las bases fijadas en esta Constitución.
 
-II. Dirimir, sin perjuicio de lo dispuesto en el artículo 105 de la Constitución Federal, los conflictos que surjan entre los municipios, los órganos autónomos, los poderes Legislativo y Ejecutivo del Estado, o entre cualquiera de los anteriores, que no sean de los previstos por la fracción XX del artículo 34 de esta Constitución;
+Las razones que justifiquen las decisiones contenidas en las sentencias o determinaciones dictadas por el Pleno y por las Salas del Tribunal Superior de Justicia, constituirán precedentes que podrán ser obligatorios o, en su caso, orientadores, para el mismo Pleno, sus Salas y demás órganos jurisdiccionales que integran el Poder Judicial del Estado, en los términos y requisitos que disponga la Ley Orgánica del Poder Judicial del Estado.
 
-III. Dirimir las competencias de jurisdicción que se susciten entre los tribunales del Estado;
+Corresponde exclusivamente al Tribunal Superior de Justicia actuando en Pleno:
 
-IV. Establecer en el ámbito de su competencia, funcionado en Pleno o salas, criterios de aplicación, interpretación e integración de leyes, reglamentos y demás normas jurídicas, que vinculen a todas las autoridades del Estado, en los términos que señala la Ley Orgánica del Poder Judicial del Estado.
+I. Defender la soberanía del Estado en lo concerniente a la administración de justicia;
 
-La jurisprudencia que establezca el Pleno del Tribunal se sujetará a las reglas siguientes:
+II. Velar por la autonomía del Poder Judicial, garantizando siempre su independencia, inviolabilidad e imparcialidad;
 
-a) Se constituirá cuando la mayoría de los magistrados resuelva las denuncias de contradicción entre tesis sustentadas por las salas, fijando el criterio que deba prevalecer o regir;
+III. Iniciar leyes ante el Congreso del Estado en asuntos del orden judicial y nombrar, en su caso, al representante a que se refiere el artículo 45 de esta Constitución;
 
-b) Se integrará con cinco resoluciones consecutivas, no interrumpidas por otra en contra, en las cuales sostenga el mismo criterio de aplicación, interpretación o integración de una norma.
+IV. Expedir su reglamento interior y reformarlo cuando lo estime conveniente;
 
-Las salas del Tribunal conformarán la jurisprudencia en los mismos términos a que se refiere el inciso anterior.
+V. Recibir el informe anual de labores de las presidencias del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del órgano de administración judicial, en los términos marcados por la Ley Orgánica;
 
-La Ley Orgánica del Poder Judicial establecerá los requisitos para la interrupción y modificación de la jurisprudencia, así como el procedimiento para su aprobación, compilación, sistematización y publicación;
+VI. Dirimir, sin perjuicio de lo dispuesto en el artículo 105 de la Constitución Federal, los conflictos que surjan entre los municipios, los órganos autónomos, los poderes Legislativo y Ejecutivo del Estado, o entre cualquiera de los anteriores, que no sean de los previstos por la fracción XX del artículo 34 de esta Constitución.
 
-V. Elaborar y aprobar su reglamento interior;
+VII. Nombrar y remover, así como resolver sobre sus renuncias, licencias y suplencias, de las personas servidoras públicas adscritas al Pleno, a la Presidencia y a las Salas del Tribunal Superior de Justicia, en los términos que establezca la Ley Orgánica;
 
-VI. Iniciar leyes ante el Congreso local y nombrar, en su caso, al representante a que se refiere el artículo 45 de esta Constitución;
+VIII. Designar a tres personas integrantes del órgano de administración judicial, de conformidad con el artículo 72 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+IX. Designar a las personas integrantes del Comité de Evaluación a que hace referencia el artículo 70 de esta Constitución;
 
-VII. Nombrar y remover a las y los jueces de Primera Instancia y de Paz, a las personas empleadas del Tribunal y demás servidoras públicas que establezcan la Ley Orgánica del Poder Judicial, así como tomarles la protesta de ley;
+X. Salvaguardar, aún con el uso de la fuerza pública, la inviolabilidad de los recintos del Poder Judicial; y
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+XI. Las demás que le confiera esta Constitución y las leyes.
 
-VIII. Conceder licencias a las y los jueces de primera instancia y a las demás autoridades que designe la Ley Orgánica del Poder Judicial, así como a las personas empleadas inferiores de su dependencia, y resolver acerca de la renuncia de sus miembros;
-
-IX. Administrar los recursos humanos y materiales que requiere el funcionamiento de su dependencia y le asigne el Presupuesto de Egresos;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-X. Disponer, en los términos de la Ley Orgánica del Poder Judicial y la de Hacienda del Estado, del fondo Auxiliar en Beneficio de la Administración de Justicia. El fondo se integrará con multas, decomisos, donaciones, derechos, productos, aprovechamientos e intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que efectúen ante la dependencia y tribunales del fuero común, y se aplicará a infraestructura, capacitación, actualización y especialización del personal. Asimismo, podrá aplicarse hasta treinta por ciento del Fondo de otorgamiento de incentivos al desempeño de las y los servidores públicos, de acuerdo con lo previsto en el Reglamento de Procedimientos y Asignación de Estímulos del Poder Judicial del Estado;
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
-
-XI. Salvaguardar, aún con el uso de la fuerza pública, la inviolabilidad de los recintos del Poder Judicial; y
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-XII. Conocer de todas las controversias jurisdiccionales entre personas trabajadoras y la parte patronal, derivados de las relaciones de trabajo o de hechos relacionados con ellas.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 75
 
-Las magistradas o magistrados rendirán su protesta ante el Congreso del Estado en sesión pública extraordinaria que para tal efecto se convoque. Las juezas y jueces lo harán ante el Supremo Tribunal de Justicia.
+Cuando la falta de una Magistrada o Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, o de una Jueza o Juez del Poder Judicial del Estado excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+Las renuncias de las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente.
+
+Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia para el caso de Magistradas y Magistrados que lo integren, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, y por el órgano de administración judicial para el caso de Juezas y Jueces del Poder Judicial. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+
+La forma y términos en que deberán cubrirse las ausencias temporales que no excedan de un mes, se establecerán en la Ley Orgánica.
+
+Será causa de retiro forzoso en los cargos de Magistradas y Magistrados del Tribunal Superior de Justicia, así como de Juezas y Jueces del Poder Judicial, cuando:
+
+(NOTA: EL 1 DE JUNIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 120/2025 Y SU ACUMULADA 121/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JUNIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. CUMPLAN SETENTA AÑOS DE EDAD; O
+
+II. Padezcan incapacidad física o mental permanente que les imposibilite el desempeño de su encargo con independencia de su edad.
+
+A la Magistrada, Magistrado, Jueza o Juez cuyo retiro forzoso le haya sido aprobado, tendrá derecho a un haber de retiro en los términos que disponga la Ley Orgánica, sin embargo, en el caso de que cumpla con los requisitos para ser acreedor a una pensión, en las modalidades y coberturas establecidas por la Ley de la materia, será ésta última la que se le otorgue.
+
+No podrá coexistir la entrega simultánea de un haber de retiro y una pensión, en cualquiera de sus modalidades, a una misma persona.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
 Artículo 76
 
-Durante el ejercicio de su cargo, los miembros del Poder Judicial no podrán ejercer la profesión de abogacía ni las funciones de notariado público, salvo que estén desempeñando el cargo con carácter de suplente y por un término que no exceda de tres meses.
+Durante el ejercicio de su cargo, los miembros del Poder Judicial no podrán ejercer la profesión de abogacía ni las funciones de notariado público.
+
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, así como las Juezas y los Jueces de Primera Instancia, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas, ni de municipios, función pública o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+
+Los impedimentos en cuestión serán aplicables a las personas funcionarias judiciales que gocen de licencia; la infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo a las Magistradas y Magistrados, Juezas y Jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1843,9 +1925,17 @@ III. Dirimir los conflictos o diferencias laborales entre el Tribunal y sus serv
 
 IV. Determinar e imponer sanciones en la materia;
 
-V. Expedir su reglamento interior; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-VI. Realizar las demás atribuciones que le confiera la ley.
+V. Expedir su reglamento interior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2025)</small>
+
+VI. Conocer y resolver las impugnaciones sobre el resultado de las elecciones a los cargos de Magistrada o Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, o de una Jueza o Juez del Poder Judicial del Estado; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ENERO DE 2025)</small>
+
+VII. Realizar las demás atribuciones que le confiera la ley.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -2065,13 +2155,15 @@ Las percepciones de defensores públicos y asesores jurídicos no podrán ser in
 
 Artículo 86
 
-A. La renovación de los poderes Legislativo y Ejecutivo del Estado, así como de los ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, las cuales deberán celebrarse ordinariamente el primer domingo del mes de junio del año que corresponda, conforme a las siguientes bases:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE ENERO DE 2025)</small>
+
+A. La renovación de los poderes Legislativo, Ejecutivo y Judicial del Estado, así como de los ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, las cuales deberán celebrarse ordinariamente el primer domingo del mes de junio del año que corresponda, conforme a las siguientes bases:
 
 I. La libertad de expresión y el derecho a la información en el contexto del debate político serán invariablemente garantizados por las autoridades electorales.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-En propaganda política o electoral que difundan, los partidos políticos, sus candidatos, candidatas y quienes ostenten una candidatura independiente deberán abstenerse de expresiones que denigren a las instituciones, a los propios partidos políticos o a las personas.
+En propaganda política o electoral que difundan, los partidos políticos, sus candidatos, candidatas y quienes ostenten una candidatura independiente o una del Poder Judicial deberán abstenerse de expresiones que denigren a las instituciones, a los propios partidos políticos o a las personas.
 
 Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión, en los medios de comunicación social, de toda propaganda gubernamental, tanto de los poderes del Estado como de los municipios, de los órganos autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia;
 
@@ -2079,9 +2171,9 @@ Durante el tiempo que comprendan las campañas electorales locales y hasta la co
 
 II. La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidaturas a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales, además de las sanciones para quienes las infrinjan.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-La duración de las campañas no deberá exceder de noventa días para la elección de la gubernatura, ni de sesenta días cuando se elijan diputaciones locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+La duración de las campañas no deberá exceder de noventa días para la elección de la gubernatura, ni de sesenta días cuando se elijan diputaciones locales, ayuntamientos, magistraturas o judicaturas del Poder Judicial; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. En ningún caso habrá etapa de precampaña para los cargos de elección popular del Poder Judicial.
 
 La violación de estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley;
 
@@ -2089,9 +2181,9 @@ III. La ley señalará los supuestos y las reglas para la realización, en los �
 
 IV. Los partidos políticos tienen derecho al uso permanente de los medios de comunicación social, en los términos que establecen la Constitución Federal, esta Constitución y las demás leyes de la materia.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-Quienes ostenten una candidatura independiente gozarán de este derecho solo durante el proceso electoral.
+Quienes ostenten una candidatura independiente o del Poder Judicial gozarán de este derecho solo durante el proceso electoral.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2103,9 +2195,9 @@ Ninguna otra persona física o moral, sea a título propio o por cuenta de terce
 
 Cuando, a su juicio, sea insuficiente para sus fines el tiempo en radio y televisión que se le haya otorgado, el Instituto Electoral del Estado hará la solicitud al Instituto Nacional Electoral, el que determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la Constitución Federal y las leyes de la materia le confieren.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE ENERO DE 2025)</small>
 
-B. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales, de los que conocerán, según la competencia, el Instituto Electoral o el Tribunal Electoral del Estado, en los términos que señale la ley. Asimismo, se fijarán las causales de nulidad de las elecciones a la gubernatura, diputaciones locales y ayuntamientos.
+B. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales, de los que conocerán, según la competencia, el Instituto Electoral o el Tribunal Electoral del Estado, en los términos que señale la ley. Asimismo, se fijarán las causales de nulidad de las elecciones a la gubernatura, diputaciones locales, ayuntamientos y judicaturas y magistraturas del Poder Judicial.
 
 La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
 
@@ -2245,9 +2337,9 @@ El órgano ejecutivo dispondrá del personal calificado necesario para prestar e
 
 El Instituto agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas a padrón y lista nominal de electores, geografía electoral, observación electoral, derechos y prerrogativas de las agrupaciones y partidos políticos, preparación de la jornada electoral, regulación de encuestas o sondeos de opinión con fines electorales, cómputos, declaración de validez y otorgamiento de constancias, capacitación electoral, educación cívica e impresión de materiales electorales.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-El instituto realizará el cómputo de cada elección; otorgará constancias de mayoría a las candidaturas que hayan obtenido el triunfo; declarará la validez de las elecciones de diputaciones de mayoría relativa y ayuntamientos; y hará la declaratoria de validez y la asignación de diputaciones y regidurías según el principio de representación proporcional.
+El instituto realizará el cómputo de cada elección; otorgará constancias de mayoría a las candidaturas que hayan obtenido el triunfo; declarará la validez de las elecciones de diputaciones de mayoría relativa y, ayuntamientos; y hará la declaratoria de validez y la asignación de diputaciones y regidurías según el principio de representación proporcional. Asimismo, efectuará los cómputos de la elección de los cargos del Poder Judicial, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado, quien resolverá las impugnaciones.
 
 El Instituto podrá convenir con el Instituto Nacional Electoral que éste se haga cargo de la organización de los procesos electorales locales.
 
@@ -2971,21 +3063,21 @@ El Órgano Superior de Auditoría y Fiscalización Gubernamental y la Contralor�
 
 Artículo 121
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2025)</small>
 
-Podrán ser sujetos de juicio político el Gobernador o Gobernadora, las diputadas y los diputados integrantes del Poder Legislativo del Estado, las y los miembros de los ayuntamientos, las magistradas y los magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral, del Tribunal de Arbitraje y Escalafón, del Tribunal de Justicia Administrativa, las consejeras y los consejeros del Instituto Electoral, las comisionadas y los comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos, el Presidente o la Presidenta de la Comisión de Derechos Humanos, la persona titular del Órgano Superior de Auditoría y Fiscalización Gubernamental y la persona titular de la Fiscalía General del Estado, las Secretarias y los Secretarios de la Administración Pública del Estado, la persona titular de la Consejería Jurídica, y las personas titulares de los órganos internos de control del Estado y los municipios.
+Podrán ser sujetos de juicio político el Gobernador o Gobernadora, las diputadas y los diputados integrantes del Poder Legislativo del Estado, las y los miembros de los ayuntamientos, las magistradas y los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Electoral, del Tribunal de Arbitraje y Escalafón, del Tribunal de Justicia Administrativa, las personas integrantes del Pleno del órgano de administración judicial, las Juezas y Jueces del Poder Judicial, las consejeras y los consejeros del Instituto Electoral, las comisionadas y los comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos, el Presidente o la Presidenta de la Comisión de Derechos Humanos, la persona titular del Órgano Superior de Auditoría y Fiscalización Gubernamental y la persona titular de la Fiscalía General del Estado, las Secretarias y los Secretarios de la Administración Pública del Estado, la persona titular de la Consejería Jurídica, y las personas titulares de los órganos internos de control del Estado y los municipios.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
 Las sanciones consistirán en la destitución de la persona servidora pública y en su inhabilitación para desempeñar funciones, empleos, cargos, o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado procederá a la acusación respectiva ante el Supremo Tribunal de Justicia, previa declaración de la mayoría absoluta del número de miembros presentes en sesión de dicho Congreso, después de haber sustanciado el procedimiento respectivo y con audiencia de la persona inculpada. El Supremo Tribunal de Justicia, erigido en jurado de sentencia, aplicará la sanción correspondiente, mediante la resolución de las dos terceras partes de los miembros presentes en sesión, una vez practicadas las diligencias correspondientes y con audiencia de la persona acusada.
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa declaración de la mayoría absoluta del número de miembros presentes en sesión de dicho Congreso, después de haber sustanciado el procedimiento respectivo y con audiencia de la persona inculpada. El Tribunal Superior de Justicia, erigido en jurado de sentencia, aplicará la sanción correspondiente, mediante la resolución de las dos terceras partes de los miembros presentes en sesión, una vez practicadas las diligencias correspondientes y con audiencia de la persona acusada.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
 
-Las declaraciones y resoluciones del Congreso del Estado y del Supremo Tribunal de Justicia se ajustarán a las reglas que para la substanciación del procedimiento de juicio político establezca la ley.
+Las declaraciones y resoluciones del Congreso del Estado y del Tribunal Superior de Justicia se ajustarán a las reglas que para la substanciación del procedimiento de juicio político establezca la ley.
 
 Artículo 122 (DEROGADO, P.O. 7 DE JULIO DE 2018)
 
@@ -3001,9 +3093,9 @@ Artículo 126
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por una representación del Comité de Participación Ciudadana, quien lo presidirá; las personas titulares del Órgano Superior de Auditoría y Fiscalización Gubernamental; de la Fiscalía Especializada en Combate a la Corrupción; de la Contraloría General del Estado en su carácter de órgano interno de control del Poder Ejecutivo; por el magistrado o la magistrada que presida el Supremo Tribunal de Justicia y el Tribunal de Justicia Administrativa del Estado, y por el comisionado o comisionada presidenta del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos;
+I. El Sistema contará con un Comité Coordinador que estará integrado por una representación del Comité de Participación Ciudadana, quien lo presidirá; las personas titulares del Órgano Superior de Auditoría y Fiscalización Gubernamental; de la Fiscalía Especializada en Combate a la Corrupción; de la Contraloría General del Estado en su carácter de órgano interno de control del Poder Ejecutivo; por el magistrado o la magistrada que presida el Tribunal Superior de Justicia y el Tribunal de Justicia Administrativa del Estado, y por el comisionado o comisionada presidenta del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -4354,3 +4446,115 @@ P.O. 11 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 63.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. El Proceso Electoral Extraordinario 2025 dará inicio el día de la entrada en vigor del presente Decreto.
+
+En dicha elección se elegirá a cinco Magistradas y cinco Magistrados del Tribunal Superior de Justicia y a tres Magistradas y dos Magistrados del Tribunal de Disciplina Judicial, así como a la totalidad de Juezas y Jueces del Poder Judicial, en los términos del presente artículo.
+
+Las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria que emita el Congreso, serán incorporadas a los listados para participar en la elección extraordinaria del año 2025, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección ordinaria respectiva.
+
+El Congreso del Estado dentro de los treinta días naturales posteriores al inicio del proceso electoral que corresponda, emitirá la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial del Estado, conforme al procedimiento previsto en el artículo 70 de este Decreto, salvo en lo que respecta a las postulaciones que realice el Pleno del Tribunal Superior de Justicia conforme a los párrafos segundo y tercero de dicho artículo, que deberá hacerse por mayoría calificada de las dos terceras partes de los presentes.
+
+Considerando que la elección en cuestión se estima necesario que sea congruente con la establecida en la reforma federal que es objeto de homologación, se establece que, por única ocasión, el periodo de vigencia para las personas que resulten electas como Magistradas y Magistrados del Tribunal Superior de Justicia y como Juezas y Jueces en el periodo extraordinario 2025, sea por 8 años cuyo vencimiento será en el año 2033.
+
+Por lo que se refiere a los demás cargos, se establece que, por única ocasión, los periodos de vigencia de los nombramientos que sean sujetos a elección popular en el 2025, duren los siguientes periodos:
+
+a) Dos Magistradas del Tribunal de Disciplina Judicial durarán en su encargo ocho años;
+
+b) Un Magistrado del Tribunal de Disciplina Judicial durará en su encargo ocho años;
+
+c) Una Magistrada del Tribunal de Disciplina Judicial durará en su encargo cinco años;
+
+d) Un Magistrado del Tribunal de Disciplina Judicial durará en su encargo cinco años;
+
+Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quienes alcancen mayor votación.
+
+El Consejo General del Instituto Electoral del Estado en el ejercicio de su competencia podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral extraordinario del año 2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales locales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género; lo anterior sin perjuicio de tomar en cuenta, en lo que corresponda, los que emita el Consejo General del Instituto Nacional Electoral. Las y los representantes de los partidos políticos ante el Consejo General del Instituto Electoral del Estado no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+Las boletas electorales contendrán, entre otros datos, el cargo, la entidad federativa que nos ocupa y, en su caso, el partido judicial que corresponda a la adscripción sujeta a elección; llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda. El listado de personas candidatas distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección. La boleta garantizará que las y los votantes asienten la candidatura de su elección conforme a lo siguiente:
+
+a) Para Magistradas y Magistrados del Tribunal Superior de Justicia podrán elegir hasta cinco mujeres y hasta cinco hombres;
+
+b) Para Magistradas y Magistrados del Tribunal de Disciplina Judicial podrán elegir hasta tres mujeres y hasta dos hombres;
+
+c) Para Juezas y Jueces del Poder Judicial podrán elegir hasta el cincuenta por ciento de mujeres y hasta el cincuenta por ciento de hombres; y si el número total de cargos a elegir corresponde a un número impar, la fracción restante que sea a ese porcentaje, corresponderá a mujeres.
+
+La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión que el Consejo General del Instituto Electoral del Estado celebre dentro de los siete días posteriores a la entrada en vigor del presente Decreto.
+
+La jornada electoral se celebrará el primer domingo de junio del año 2025. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto, con excepción de representantes o militantes de un partido político.
+
+El Instituto Electoral del Estado efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer. También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Electoral del Estado, quien resolverá las impugnaciones a más tardar el 27 de septiembre de 2025.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado el 1o. de octubre de 2025. El órgano de administración judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de octubre de 2025. En el caso de las Juezas y Jueces, podrán ser adscritos a cualquier partido judicial o juzgados de materias afines.
+
+La no aceptación de su adscripción tendrá como consecuencia la no aceptación del cargo. En este caso ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación.
+
+En el caso de quienes sean designados como integrantes del órgano de administración judicial, su periodo de ejercicio será por 6 años.
+
+TERCERO. El Pleno del Tribunal Superior de Justicia continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial del Estado, hasta en tanto sean creados y entren en funciones el Tribunal de Disciplina Judicial y el órgano de administración judicial.
+
+La persona titular de la Presidencia del Tribunal Superior de Justicia que a la fecha desempeña dicho cargo continuará ejerciendo el mismo hasta que las y los Magistrados del citado Tribunal que resulten elegidos en la elección extraordinaria del 2025 asuman sus cargos; quienes elegirán de entre ellas y ellos por mayoría de votos, a quien ocupará la nueva Presidencia, lo cual deberá realizarse durante la primera quincena de noviembre de 2025.
+
+CUARTO. El Pleno del Tribunal Superior de Justicia continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial del Estado, hasta en tanto sean creados y entren en funciones el Tribunal de Disciplina Judicial y el órgano de administración judicial en términos del presente decreto.
+
+QUINTO. El Tribunal de Disciplina Judicial y el órgano de administración judicial iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección extraordinaria que se celebre en el año 2025.
+
+Durante el periodo de transición referido en el párrafo anterior, el Pleno del Tribunal Superior de Justicia implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial del Estado; y al órgano de administración judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Pleno del Tribunal Superior de Justicia aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Pleno del Tribunal Superior de Justicia continuará la substanciación de los procedimientos administrativos y disciplinarios que se encuentren pendientes de resolución por la instancia respectiva y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al órgano de administración judicial, según corresponda.
+
+SEXTO. Las personas que integren el Pleno del órgano de administración judicial a que se refiere el artículo 72 del presente Decreto deberán ser designadas para iniciar sus funciones el mismo día en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial. Para la designación de las tres personas integrantes del órgano de administración judicial que correspondan al Pleno del Tribunal Superior de Justicia, se requerirá una mayoría calificada de las dos terceras partes de los presentes.
+
+SÉPTIMO. Las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado que estén en funciones al momento de la entrada en vigor del presente Decreto, no podrán ser mayores a la establecida para la persona titular del Poder Ejecutivo Federal en el presupuesto correspondiente, por lo que deberán ajustarse a los parámetros establecidos en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos en los casos que corresponda, sin responsabilidad para el Poder Judicial.
+
+Las Magistradas y Magistrados del Tribunal Superior de Justicia que a la entrada en vigor del presente decreto se encuentren en funciones y que concluyan su encargo por no haber sido electos, en la elección extraordinaria del año 2025, no serán beneficiarias de un haber por retiro, salvo la hipótesis prevista en el último párrafo del presente artículo transitorio. Sin embargo, para quienes declinen su participación en las citadas elecciones antes de la fecha de cierre de la convocatoria que corresponda, señalada en la fracción I del artículo 70 de este Decreto, continuará expedito su derecho para que, con antelación a la fecha en que entren en funciones las personas que deban sustituirlos, puedan acogerse al programa temporal de pensiones por jubilación, vejez y retiro anticipado en edad avanzada. Este beneficio será aplicable única y exclusivamente, para las Magistradas y Magistrados que se encontraban en funciones a la fecha de entrada en vigor del decreto 479 por el que se creó el citado programa, publicado en el Periódico Oficial del Estado el día 08 de agosto de 2024 y que cumplan con los requisitos señalados en el mismo, tal y como en su momento se estableció en el referido decreto.
+
+Para el caso de las Magistradas y Magistrados que no cumplan con los requisitos para ser beneficiarias del programa de retiro señalado en el párrafo que antecede, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con cargo al Presupuesto de Egresos del Poder Judicial del Estado en el ejercicio fiscal que corresponda.
+
+Por último, en el caso de las personas servidoras públicas que, a la entrada en vigor del presente decreto, cuenten con su nombramiento como Magistradas o Magistrados y tengan una antigüedad de 15 años ininterrumpidos al servicio del Poder Judicial del Estado, y no cumplan con los requisitos para acceder al programa de retiro voluntario contemplado en el decreto 479 a que se hizo referencia anteriormente, en este año 2025; podrán, siempre y cuando declinen su participación en las citadas elecciones antes de la fecha de cierre de la convocatoria que corresponda, señalada en la fracción I del artículo 70 de este decreto, ser beneficiarias de un haber de retiro en los términos que se establezcan en la Ley Orgánica del Poder Judicial del Estado de Colima, el que en todo caso será similar al que les hubiera correspondido en los términos del referido decreto 479, en función de los años de servicio acreditados en el servicio público.
+
+OCTAVO. El Congreso del Estado tendrá un plazo de hasta treinta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las leyes que correspondan para dar cumplimiento al mismo. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes generales y locales en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+NOVENO. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad.
+
+Las personas que a la entrada en vigor del presente decreto se desempeñen como Juezas y Jueces de Primera Instancia del Poder Judicial y cuyo nombramiento derive de un concurso de oposición o examen de méritos, o, en su caso, al día 9 de noviembre del año 2014 –fecha en que entró en vigor la actual ley Orgánica del Poder Judicial del Estado de Colima- tuvieran al menos seis años cumplidos en el ejercicio como Juezas o Jueces de Primera Instancia y dichos cargos y funciones las desempeñen a la fecha; en caso de que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía, en la elección extraordinaria del año 2025 serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con cargo al Presupuesto de Egresos del Poder Judicial del Estado en el ejercicio fiscal que corresponda; salvo que, con antelación a la conclusión de su encargo opten por pensionarse en cualquiera de las modalidades contempladas en la Ley de Pensiones de los Servidores Públicos del Estado de Colima, siempre y cuando cumplan con los requisitos que se establecen para cada caso.
+
+Con independencia de lo anterior, quienes hayan asumido la judicatura por medio de un concurso de oposición o examen de méritos, pero no resultaran electas por la ciudadanía, si hubieren desempeñado algún otro cargo previo de los considerados como de carrera judicial antes de ostentar la judicatura, podrán ser consideradas para ocupar un diverso cargo dentro del Poder Judicial en alguno de los previstos en la citada carrera judicial, o uno diverso, haciéndose los corrimientos o ajustes respectivos, caso en el cual no aplicará la indemnización a que se hace referencia en el párrafo que antecede.
+
+DÉCIMO. El Poder Judicial del Estado, llevará a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en esta Constitución o una ley secundaria, por lo que tendrá un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Planeación, Finanzas y Administración del Gobierno del Estado de Colima.
+
+Los recursos a que se refiere el párrafo anterior deberán ser concentrados por concepto de aprovechamientos en la Secretaría de Planeación, Finanzas y Administración y se destinarán por ésta a la implementación del presente Decreto y a los demás fines que esta determine.
+
+DÉCIMO PRIMERO. Las autoridades a quienes les corresponda la implementación y operación de la presente reforma, deberán considerar en sus propuestas de presupuesto de egresos, las partidas suficientes y necesarias para garantizar el cumplimiento del presente decreto.
+
+Por lo tanto, el gasto adicional que, en su caso, derive de la implementación de esta reforma se realizará con cargo a los presupuestos aprobados a las entidades, dependencias, poderes y demás órganos autónomos responsables de la implementación de la misma, en el Presupuesto de Egresos del Estado de Colima del ejercicio fiscal correspondiente.
+
+El Poder Ejecutivo Estatal y el Congreso del Estado, deberán tomar en cuenta lo anterior al aprobar el Presupuesto de Egresos de las referidas autoridades, a fin de garantizar debidamente la suficiencia presupuestaria correspondiente para el debido cumplimiento del presente decreto.
+
+DÉCIMO SEGUNDO. Hasta en tanto se garantice la disponibilidad presupuestaria para la debida operación del Tribunal de Disciplina Judicial y del órgano de administración judicial; las funciones relacionadas con la administración, carrera judicial, de vigilancia y de disciplina de su personal, continuarán, en lo conducente, a cargo de las instancias que a la fecha tienen dichas atribuciones, en lo que no se oponga al presente decreto.
+
+DÉCIMO TERCERO. Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+DÉCIMO CUARTO. Las referencias que en las leyes se hagan al Supremo Tribunal de Justicia, a partir de la entrada en vigor del presente Decreto, se entenderán al mismo órgano colegiado ahora denominado Tribunal Superior de Justicia, debiéndose en su oportunidad hacer las reformas respectivas en las normativas que así se contemplen para hacer la adecuación contemplada en el presente Decreto.
+
+DÉCIMO QUINTO. Las causas de retiro forzoso contempladas en el presente Decreto, serán aplicables a las y los Magistrados, así como a las y los Jueces de Primera Instancia que sean elegidos conforme a lo previsto en el mismo.
+
+Cuando se decrete el retiro forzoso de una persona juzgadora y la fecha en que concluya su cargo no coincida con el año previo a la elección que corresponda, dicha vacante definitiva deberá ser cubierta única y exclusivamente por el tiempo que reste del periodo respectivo, por la persona que siga en su lugar en el mayor número de votación que corresponda, respetándose el género de la misma.
+
+DÉCIMO SEXTO. Respecto a los nuevos impedimentos incorporados a que se hace referencia en el artículo 76 del presente Decreto y que se incorporan mediante este decreto en términos del artículo 101 de la Constitución Federal, serán aplicables a las personas servidoras públicas que se mencionan en el citado artículo 76, que resulten electas y/o designadas a partir de la vigencia del presente Decreto.
+
+DÉCIMO SÉPTIMO. Respecto de las personas servidoras públicas del Poder Judicial del Estado, que hubieran sido nombradas juezas o jueces de primera instancia derivado de un concurso de oposición con antelación al presente decreto, y que por alguna circunstancia se encuentren comisionadas en el mismo Poder Judicial ejerciendo alguna otra función, o que hayan sido nombradas o comisionadas en cargos administrativos en la estructura orgánica del Poder Judicial, tendrán como plazo hasta antes de la fecha de cierre de la convocatoria que corresponda, señalada en la fracción I del artículo 70 de este Decreto, para optar por reincorporarse a sus funciones jurisdiccionales y, en su caso, participar en la elección correspondiente en el 2025; y en caso de no hacerlo, se entenderá que declinan a su derecho a conservar el cargo de juez o jueza en cuestión y se estarán a las resultas de los términos y naturaleza del nombramiento o función que desempeñen a la fecha de entrada en vigor del presente Decreto y que no son propiamente las de jueces de primera instancia.
+
+DÉCIMO OCTAVO. En el supuesto de que a la fecha de entrada en vigor del presente decreto se encuentren pendientes de asignación determinados cargos de juezas y jueces de primera instancia derivado de que dichos procesos de selección (concursos de oposición) se encuentren suspendidos por algún medio de impugnación interpuesto previamente, y que no fueren resueltos antes del cierre de la convocatoria que corresponda, señalada en la fracción I del artículo 70 de este Decreto; dichos procesos de selección quedarán sin materia ante la imposibilidad jurídica de su cumplimiento derivado del contenido y efectos del presente decreto, debiendo hacer el pronunciamiento respectivo el Pleno del Tribunal Superior de Justicia con base en el presente artículo transitorio.
+
+DÉCIMO NOVENO. Se autoriza al Poder Ejecutivo del Gobierno del Estado para que realice las adecuaciones presupuestales que resulten necesarias al techo presupuestario autorizado en el Presupuesto de Egresos del Estado de Colima para el Ejercicio Fiscal 2025, a los entes públicos involucrados, a efecto de dar viabilidad a la implementación del presente decreto.
+
+VIGÉSIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
