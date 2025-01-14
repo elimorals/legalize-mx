@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-152189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-08"
-last_updated: "2024-09-05"
+last_updated: "2025-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
 
 Ley publicada en la Octava Sección del Número 77 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 8 de octubre de 2021.
 
@@ -1031,6 +1031,10 @@ IX. Organizar y administrar las áreas naturales protegidas estatales, y supervi
 
 X. Regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos de manejo especial y coadyuvar con los municipios a regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos;
 
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
+
+X Bis. Proyectar y ejecutar obras e inversiones en materia de infraestructura para la instalación y equipamiento de sitios de disposición final de residuos sólidos urbanos y de manejo especial, así como centros de transferencia y valorización de residuos sólidos; incluyendo todos aquellos que tengan relación con el manejo de los residuos sólidos urbanos;
+
 XI. Evaluar y resolver las manifestaciones de impacto ambiental y los estudios de riesgo ambiental de las obras o actividades de jurisdicción estatal;
 
 XII. Evaluar de manera permanente y sistemática la calidad del ambiente, así como el impacto en los ecosistemas y sus componentes en el territorio estatal, considerando al menos aire, aguas, suelos y subsuelos, estableciendo, promoviendo y actualizando permanentemente el Sistema de Información Ambiental del Estado. Este Sistema debe incluir, a su vez, los sistemas de monitoreo atmosférico, de suelos, subsuelos y cuerpos de agua de jurisdicción estatal, los inventarios de recursos naturales y de población de fauna y flora silvestres, el registro de emisiones y transferencias de contaminantes, materiales y residuos;
@@ -1684,3 +1688,11 @@ P.O. 5 DE SEPTIEMBRE DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. El gobierno del Estado, tendrá 180 días para expedir la reglamentación que mandata el presente Decreto a partir de la fecha de su publicación.
+
+P.O. 14 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 07 POR EL QUE "SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo para su publicación y efectos legales a que haya a (sic) lugar.
