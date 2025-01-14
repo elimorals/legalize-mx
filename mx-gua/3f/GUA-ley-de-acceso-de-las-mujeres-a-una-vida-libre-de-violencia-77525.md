@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2024-09-17"
+last_updated: "2025-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -579,15 +579,25 @@ Bases del Banco Estatal
 
 El Banco Estatal funcionará bajo las siguientes bases:
 
-I. Será manejado, organizado y dirigido por la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+
+I. Será manejado, organizado y dirigido por la Fiscalía General del Estado de Guanajuato;
 
 II. Deberá alimentarse mensualmente de los datos que arrojen las instituciones públicas y privadas, estatales o municipales sobre la violencia contra la mujer;
 
-III. Los datos arrojados por éste serán considerados como oficiales en el Estado y será el que alimentará a los bancos nacionales, internaciones, redes o cualquier organismo que solicite información sobre la materia de violencia contra las mujeres en el Estado;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
-IV. Deberá tener indicadores que arrojen los datos y estadísticas que permitan obtener información desagregada; y
+III. Los datos arrojados por éste serán considerados como oficiales en el Estado y será el que alimentará a los bancos nacionales, internacionales, redes o cualquier organismo que solicite información sobre la materia de violencia contra las mujeres en el Estado.
 
-V. Se deberá publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres en el Estado.
+En cuanto a la información que alimenta al Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres deberá integrarse de manera periódica y permanente en los términos establecidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+
+IV. Deberá tener indicadores que arrojen los datos y estadísticas que permitan obtener información desagregada y con enfoque diferenciado;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+
+V. Se deberá publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres en el Estado; y
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
@@ -787,7 +797,7 @@ X. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-#### Sección Novena. Facultades del titular de la Procuraduría General de Justicia
+#### Sección Novena. Facultades del titular de la Fiscalía General del Estado
 
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
@@ -806,6 +816,8 @@ II. Recibir y dar seguimiento a las sugerencias, quejas y denuncias de la poblac
 III. Fomentar la conducta ética del servidor público en atención al respeto de los derechos humanos de las mujeres; y
 
 IV. Las demás previstas para el cumplimiento de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2025)</small>
 
 #### Sección Décima. Facultades del titular del Instituto para las Mujeres Guanajuatenses
 
@@ -1832,6 +1844,14 @@ Artículo Único. El presente Decreto entrará en vigor el día siguiente al de 
 P.O. 17 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DERETO (SIC) LEGISLATIVO 344 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 13 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 3 EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I, III Y IV DEL ARTÍCULO 15 Y LA DENOMINACIÓN DE LA SECCIÓN NOVENA DEL CAPÍTULO VII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
 
 Inicio de vigencia
 
