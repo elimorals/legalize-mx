@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-102-para-el-desarrollo-social-del-estado-de-36604"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-06"
-last_updated: "2011-04-05"
+last_updated: "2025-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 102 PARA EL DESARROLLO SOCIAL DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 026 PARA EL BIENESTAR DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 14 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NUM. 102, PARA EL DESARROLLO SOCIAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de enero de 2004.
 
@@ -552,3 +554,19 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página Web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Notifíquese a las autoridades competentes.
+
+P.O. 14 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 026 PARA EL BIENESTAR DEL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley Número 102, para el Desarrollo Social del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado No. 2, de fecha 6 de enero de 2004, y se derogan todas las disposiciones jurídicas que se opongan a la presente Ley.
+
+TERCERO. El Poder Ejecutivo del Estado, a través de la Secretaría de Bienestar y en coordinación con las demás dependencias y entidades involucradas, deberá emitir el reglamento correspondiente de esta Ley dentro de un plazo de 180 días naturales contados a partir de su entrada en vigor.
+
+CUARTO. El gobierno del estado de Guerrero, a través de la Secretaría de Finanzas y Administración, deberá incluir en el Proyecto de Presupuesto de Egresos para cada Ejercicio Fiscal, las partidas presupuestales necesarias para la implementación y operación de los Programas previstos en esta Ley.
+
+QUINTO. Las madres jefas de familia que actualmente reciban algún tipo de apoyo económico del gobierno del estado de Guerrero serán evaluadas conforme a los nuevos criterios establecidos en esta Ley para determinar su elegibilidad, y en su caso, ajustar el monto del apoyo conforme a lo dispuesto en los nuevos lineamientos.
+
+SEXTO. Las dependencias y entidades de la administración pública estatal y municipal deberán realizar los ajustes presupuestales necesarios para garantizar la viabilidad de los programas y acciones previstos en esta Ley, los cuales deberán estar reflejados en el Presupuesto de Egresos del siguiente ejercicio fiscal.
