@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2023-10-25"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -308,6 +308,12 @@ En los programas educativos se debe dar especial énfasis a la información y pr
 ###### Artículo 12.
 
 La educación tenderá a desarrollar armónicamente todas las facultades del ser humano, el fomento al aprendizaje e impulso a la investigación de conocimientos científicos y tecnológicos, motivando a la juventud para lageneración (sic) de proyectos que aporten un mejor desarrollo del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 12 Bis.
+
+El Ejecutivo del Estado, promoverá a través de convenios de colaboración con instituciones y organismos de los sectores público y privado, así como con el apoyo de los municipios, el otorgamiento de becas y programas de apoyo a las personas jóvenes del Estado que, encontrándose en situación de alta vulnerabilidad, quieran iniciar o retomar sus estudios en el nivel medio superior y superior.
 
 ###### Artículo 13.
 
@@ -727,15 +733,19 @@ XIII Bis. Mecanismos para que los jóvenes reciban a través de servidores públ
 
 XIV. Acciones afirmativas para los sectores de los jóvenes en zonas de marginación socioeconómica rural o urbana y de atención prioritaria, así como en desventaja social;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2025)</small>
 
-XIV Bis. Mecanismos para impulsar la inclusión y continuidad en la educación a los jóvenes de atención prioritaria, en desventaja social, en zonas de marginación socioeconómica, así como a la juventud migrante.
+XIV Bis. Mecanismos para impulsar la inclusión y continuidad en la educación a los jóvenes de atención prioritaria, en desventaja social, en zonas de marginación socioeconómica, en donde exista la presencia de grupos vulnerables, entendiéndose estos como las y los pertenecientes a pueblos y comunidades indígenas, y afromexicanas, así como a la juventud migrante.
 
 XV. Definición e implementación de programas y proyectos juveniles que incluyan las verdaderas aspiraciones, intereses y prioridades de los jóvenes del Estado;
 
 XVI. Acciones que impulsen la organización juvenil autónoma, democrática y comprometida socialmente, para que los jóvenes del Estado tengan las oportunidades y posibilidades para construir una vida plena;
 
 XVII. La creación, promoción y apoyo de un sistema de información que permita a los jóvenes del Estado obtener, procesar, intercambiar y difundir información actualizada de interés para los entornos juveniles;
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2025)</small>
+
+Para cumplir con lo establecido en el párrafo anterior, se podrá hacer uso del Sistema de Radio y Televisión de Nuevo León para que a través de este se difunda información con el objetivo de fomentar los conocimientos necesarios para el desarrollo integral, educativo, cultural y de conocimiento de los derechos de las y los Jóvenes.
 
 (REFORMADA, P.O. 14 DE DICIEMBRE DE 2015) (F. DE E., P.O. 18 DE ENERO DE 2016)
 
@@ -926,3 +936,15 @@ P.O. 25 DE OCTUBRE DE 2023.
 Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 Segundo: Para el cumplimiento del presente decreto, se realizará de acuerdo con la capacidad presupuestal del Poder Ejecutivo al momento de su aprobación.
+
+P.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 024. SE ADICIONA UN ARTÍCULO 12 BIS A LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 027. SE REFORMA LA FRACCIÓN XIV BIS Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVII AMBOS DEL ARTÍCULO 37 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación.
