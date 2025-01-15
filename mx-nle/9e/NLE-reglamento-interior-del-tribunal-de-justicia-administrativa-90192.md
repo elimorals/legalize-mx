@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2023-03-01"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -239,6 +241,10 @@ IX. Fijar y cambiar la adscripción de todo el personal del Tribunal, atendiendo
 
 X. Analizar y aprobar todas las acciones relacionadas con el presupuesto del (sic) todo el Tribunal.
 
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2025)</small>
+
+XI. Instruir al Presidente de la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León, a efecto de que en términos de lo dispuesto en el artículo 21, fracción XVII, de este reglamento, emita el acuerdo mediante el cual determine los asuntos en trámite de las Salas ordinarias que conocerá la Sala Especializada en Materia de Responsabilidades Administrativas, en términos del artículo 25 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
 ###### Artículo 13.
 
 En el caso de renuncia, licencia o ausencia absoluta del Presidente del Tribunal, los dos Magistrados restantes de la Sala Superior en sesión extraordinaria, acordarán quien deberá concluir el período en cuestión, mismo que desempeñará el cargo hasta la toma de posesión del nuevo Presidente. En caso de que no exista acuerdo, ocupara dicha función el Magistrado que tenga mayor antigüedad.
@@ -336,6 +342,10 @@ XV. Presentar los informes de actividades realizadas por la Sala Superior, las S
 XVI. Recepcionar los exhortos rogatorios y despachados, que sean girados por otros Órganos de Justicia Administrativa, y turnarlos a las Salas que se designe, a fin de que sean debidamente diligenciados.
 
 XVII. Nombrar a los escribientes a propuesta de cualquiera de los Magistrados Integrantes del Tribunal.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2025)</small>
+
+XVIII. Determinar, mediante acuerdo y derivado del análisis de las cargas de trabajo de las Salas Ordinarias, los asuntos en trámite de las Salas Ordinarias que deberá conocer la Sala Especializada en Materia de Responsabilidades Administrativas, distintos a los de su competencia exclusiva, de conformidad con lo dispuesto en el artículo 25 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
 ###### Artículo 22.
 
@@ -532,6 +542,10 @@ XVIII. Las demás que establezcan las disposiciones aplicables.
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
 Artículo 28 bis.- El Tribunal de Justicia Administrativa, a través de la Sala Especializada en materia de Responsabilidades Administrativas, será el órgano competente, para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como faltas administrativas graves, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los asuntos derivados de las sanciones administrativas que emitan otras autoridades derivadas de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2025)</small>
+
+Además, estará facultado para conocer, substanciar y resolver los asuntos previstos en el artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, distintos a los de su competencia exclusiva, que le sean asignados mediante acuerdo de la Presidencia de la Sala Superior del Tribunal de Justicia Administrativa, que se encuentren en trámite y sean competencia de las Salas Ordinarias Jurisdiccionales, en atención a las cargas de trabajo del Tribunal, conforme a lo dispuesto en el artículo 25 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -1192,3 +1206,11 @@ Primero. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Tercero. Todas las quejas y denuncias que se encuentren pendientes de trámite y resolución deberán ser resueltas conforme al procedimiento previsto en el Capitulo XIV de este ordenamiento, sin importar la temporalidad en su presentación.
+
+P.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
