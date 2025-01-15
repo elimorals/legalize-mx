@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2024-12-30"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE ENERO DE 2025.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -88,9 +88,9 @@ La Jefatura de Gobierno de la Ciudad de México para el estudio, planeación y d
 
 A) Secretaría Particular de la Jefatura de Gobierno;
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2025)</small>
 
-1. Secretaría Técnica de la Jefatura de Gobierno;
+1. Dirección General de Atención y Gestión a la Demanda Ciudadana;
 
 1.1. (DEROGADO, G.O. 30 DE DICIEMBRE DE 2024)
 
@@ -98,9 +98,7 @@ A) Secretaría Particular de la Jefatura de Gobierno;
 
 B) Coordinación General del Gabinete de Seguridad Ciudadana y Procuración de Justicia;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-C) Dirección General de Organización Técnica e Institucional, a la que queda adscrita la:
+C) (DEROGADO, G.O. 15 DE ENERO DE 2025)
 
 1. (DEROGADO, G.O. 14 DE JUNIO DE 2019)
 
@@ -123,6 +121,10 @@ E) (DEROGADO, G.O. 13 DE JUNIO DE 2024)
 F) Coordinación General de Asuntos Internacionales;
 
 1. Dirección General de Relaciones Internacionales y Cooperación.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+G) Secretaría Técnica de la Jefatura de Gobierno.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
@@ -446,6 +448,34 @@ Q). Subsecretaría de Administración de Recursos y Modernización Administrativ
 
 5.4. Dirección Ejecutiva de Normatividad y Consulta Inmobiliaria.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], G.O. 15 DE ENERO DE 2025)</small>
+
+II Bis. A la Secretaría de Atención y Participación Ciudadana:
+
+A) Dirección Ejecutiva de Asuntos Jurídicos y de la Unidad de Transparencia;
+
+B) Dirección Ejecutiva del Programa Social Mercomuna;
+
+C) Dirección Ejecutiva de Planeación y Operación de Eventos;
+
+D) Subsecretaría de Atención, Gestión y Participación Ciudadana, a la que quedan adscritas:
+
+1. Dirección Ejecutiva del Campo a la Ciudad;
+
+2. Dirección Ejecutiva de Gobierno Casa por Casa
+
+3. Dirección Ejecutiva de Planeación Participativa; y
+
+4. Direcciones Ejecutivas de las Casas de Gobierno.
+
+E) Subsecretaría de Territorios de Paz e Igualdad, a la que quedan adscritas:
+
+1. Dirección Ejecutiva de Estrategias para la Construcción de la Paz;
+
+2. Dirección Ejecutiva de Asambleas de Paz; y
+
+3. Dirección Ejecutiva de Gabinetes de Paz.
+
 III. A la Secretaría de la Contraloría General:
 
 A) Dirección General de Responsabilidades Administrativas, a la que quedan adscritas:
@@ -730,85 +760,7 @@ C) Coordinación General de Inclusión Social, a la que queda adscrita:
 
 D) Dirección General de Asuntos Jurídicos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
-
-E) Coordinación General de Participación Ciudadana, a la que quedan adscritas:
-
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
-
-1. Dirección Ejecutiva de Tequio Barrio; y
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE AGOSTO DE 2021)</small>
-
-2. Dirección General Territorial, a la que quedan adscritas:
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.1. Dirección Ejecutiva de Capacitación;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.2. Dirección Ejecutiva de Participación Ciudadana en Álvaro Obregón;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.3. Dirección Ejecutiva de Participación Ciudadana en Azcapotzalco;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.4. Dirección Ejecutiva de Participación Ciudadana en Benito Juárez;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.5. Dirección Ejecutiva de Participación Ciudadana en Coyoacán;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.6. Dirección Ejecutiva de Participación Ciudadana en Cuajimalpa de Morelos;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.7. Dirección Ejecutiva de Participación Ciudadana en Cuauhtémoc;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.8. Dirección Ejecutiva de Participación Ciudadana en Gustavo A. Madero;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.9. Dirección Ejecutiva de Participación Ciudadana en Iztacalco;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.10. Dirección Ejecutiva de Participación Ciudadana en Iztapalapa;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.11. Dirección Ejecutiva de Participación Ciudadana en La Magdalena Contreras;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.12. Dirección Ejecutiva de Participación Ciudadana en Miguel Hidalgo;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.13. Dirección Ejecutiva de Participación Ciudadana en Milpa Alta;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.14. Dirección Ejecutiva de Participación Ciudadana en Tláhuac;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.15. Dirección Ejecutiva de Participación Ciudadana en Tlalpan;
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.16. Dirección Ejecutiva de Participación Ciudadana en Venustiano Carranza; y
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-2.17. Dirección Ejecutiva de Participación Ciudadana en Xochimilco.
+E) (DEROGADO, G.O. 15 DE ENERO DE 2025)
 
 F) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
@@ -1748,11 +1700,103 @@ XIII. Asesorar a las Unidades Responsables de Gasto cuando lo soliciten, respect
 
 XIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE ENERO DE 2025)</small>
+
+#### SECCIÓN II BIS. DE LA SECRETARÍA DE ATENCIÓN Y PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 30 Ter.
+
+Corresponde a la Subsecretaría de Atención, Gestión y Participación Ciudadana:
+
+I. Coordinar la planeación, diseño, promoción, ejecución, seguimiento y control de programas y acciones de gobierno que fomenten el involucramiento ciudadano en asuntos públicos, para la solución de problemas comunes, a través de la gestión territorial basada en una cultura de corresponsabilidad;
+
+II. Establecer mecanismos de coordinación que garanticen una atención ciudadana eficiente que responda a las necesidades e intereses de la población a través de la descentralización del gobierno;
+
+III. Promover la atención directa de las demandas de los servicios públicos mediante la estrategia Gobierno Casa por Casa estableciendo vínculos entre la ciudadanía y el gobierno de la ciudad;
+
+IV. Aplicar estrategias y mecanismos de organización y participación, relacionados con la planeación participativa y la construcción de Agendas Locales de Desarrollo que fortalezcan la transformación de los territorios de la ciudad;
+
+V. Coordinar estrategias para la aplicación y monitoreo de mecanismos que promuevan consensos entre la ciudadanía y el gobierno;
+
+VI. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación ciudadana y comunitaria;
+
+VII. Formular estrategias de comunicación para la socialización de las actividades y proyectos que desarrolle esta Subsecretaría;
+
+VIII. Promover estudios y diagnósticos sobre las necesidades de la población en materia de atención, gestión y participación ciudadana;
+
+IX. Proponer a la persona titular de la Secretaría de Atención y Participación Ciudadana la celebración de acuerdos de colaboración con otras Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para fortalecer la atención y gestión ciudadana, asegurando una comunicación efectiva y soluciones oportunas a las demandas de la sociedad;
+
+X. Las demás que le confiera la persona titular de la Secretaría de Atención y Participación Ciudadana, dentro del ámbito de su competencia y en apego a las disposiciones legales y normativas aplicables; y
+
+XI. Las demás que le confieran las leyes y ordenamientos jurídicos y/o administrativos aplicables.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 30 Quáter.
+
+Corresponde a la Subsecretaría de Territorios de Paz e Igualdad:
+
+I. Coordinar y participar en los gabinetes de seguridad para implementar las estrategias interinstitucionales para la construcción de cultura de paz e igualdad, conforme a la normativa aplicable;
+
+II. Coordinar políticas, programas, planes y acciones dirigidas a la promoción, difusión, implementación de la cultura de la paz, prevención de la violencia, resolución pacífica de conflictos y la convivencia armónica en la Ciudad de México;
+
+III. Diseñar e implementar estrategias que garanticen la equidad y la igualdad de oportunidades en zonas con mayor rezago, con especial atención a población en situación de vulnerabilidad o marginación enfocadas a crear Territorios de Paz e Igualdad;
+
+IV. Proponer a la persona titular de la Secretaría de Atención y Participación Ciudadana la celebración de acuerdos de colaboración con otras Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, Organizaciones de la Sociedad Civil, Organizaciones No Gubernamentales y el Sector Privado para impulsar Territorios de Paz e Igualdad en la Ciudad;
+
+V. Establecer mecanismos de colaboración con dependencias y entidades gubernamentales locales y federales, organizaciones de la sociedad civil y el sector privado para impulsar Territorios de Paz e Igualdad;
+
+VI. Implementar programas de prevención de la violencia en comunidades, incluyendo campañas de sensibilización, fortalecimiento comunitario y atención integral a víctimas;
+
+VII. Establecer estrategias de coordinación y vinculación con las demás Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública a fin de garantizar la oportuna ejecución territorial de los programas y acciones sociales a cargo del Gobierno de la Ciudad;
+
+VIII. Coadyuvar en el diseño e implementación de las actividades de las Asambleas y Gabinetes ciudadanos que permitan aumentar los niveles de percepción de seguridad en la Ciudad;
+
+IX. Establecer los mecanismos necesarios para el levantamiento de encuestas y generación de estadística en materia de Territorios de Paz e Igualdad;
+
+X. Desarrollar e implementar acciones y estrategias para la construcción de Territorios de Paz e Igualdad en la Ciudad;
+
+XI. Definir los lineamientos que deberán observarse para el diseño, desarrollo e instrumentación de un Sistema Estatal de Información para la Construcción de Territorios de Paz e Igualdad;
+
+XII. Dirigir la implementación de un Sistema Estatal de Información para la Construcción de Territorios de Paz e Igualdad; y
+
+XIII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
 #### SECCIÓN III. DE LA SECRETARÍA DE CULTURA
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 31.
+
+Corresponde a la Subsecretaría de Grandes Festivales Comunitarios:
+
+I. Acordar con la persona titular de la Secretaría de Cultura el programa anual de actividades en relación con eventos artísticos y culturales a realizarse por la Subsecretaría de Grandes Festivales Comunitarios que reflejen la diversidad artística y cultural de la Ciudad de México;
+
+II. Previa aprobación de la persona Titular de la Secretaría, coordinar y evaluar la integración de consejos curatoriales y la contratación de creadoras, creadores y agrupaciones artísticas para la realización de eventos culturales en general;
+
+III. Planear, programar y producir festivales, ferias y conciertos gratuitos para ampliar la oferta artística y cultural en la Ciudad de México;
+
+IV. Definir los criterios para la realización de eventos culturales en espacios públicos de la Ciudad de México;
+
+V. Establecer coordinación con diversas autoridades para la celebración de eventos culturales en espacios públicos;
+
+VI. Otorgar el apoyo logístico disponible para diversos eventos culturales organizados por la Secretaría de Cultura, otras dependencias públicas y organizaciones sociales;
+
+VII. Establecer los mecanismos necesarios para el uso y mantenimiento del equipo de producción e infraestructura de la Subdirección de Logística y Equipamiento de la Secretaría de Cultura;
+
+VIII. Proponer el calendario de festivales, exhibiciones y otros eventos culturales gratuitos dirigidos a grandes audiencias que se realizan en espacios públicos;
+
+IX. Auxiliar en la promoción de los procesos de creación artística y su vinculación a nivel local;
+
+X. Fomentar la participación de la ciudadanía en las actividades artísticas y culturales que realice la Secretaría de Cultura, y
+
+XI. Apoyar y colaborar con la persona Titular de la Secretaría de Cultura en las actividades que le encomiende.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 #### SECCIÓN III BIS. DE LA SECRETARÍA DE PLANEACIÓN, ORDENAMIENTO TERRITORIAL Y COORDINACIÓN METROPOLITANA
 
@@ -1852,37 +1896,7 @@ XIV. Proponer mejoras en el diseño de políticas públicas y procesos intergube
 
 XV. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
 
-###### Artículo 31.
-
-Corresponde a la Subsecretaría de Grandes Festivales Comunitarios:
-
-I. Acordar con la persona titular de la Secretaría de Cultura el programa anual de actividades en relación con eventos artísticos y culturales a realizarse por la Subsecretaría de Grandes Festivales Comunitarios que reflejen la diversidad artística y cultural de la Ciudad de México;
-
-II. Previa aprobación de la persona Titular de la Secretaría, coordinar y evaluar la integración de consejos curatoriales y la contratación de creadoras, creadores y agrupaciones artísticas para la realización de eventos culturales en general;
-
-III. Planear, programar y producir festivales, ferias y conciertos gratuitos para ampliar la oferta artística y cultural en la Ciudad de México;
-
-IV. Definir los criterios para la realización de eventos culturales en espacios públicos de la Ciudad de México;
-
-V. Establecer coordinación con diversas autoridades para la celebración de eventos culturales en espacios públicos;
-
-VI. Otorgar el apoyo logístico disponible para diversos eventos culturales organizados por la Secretaría de Cultura, otras dependencias públicas y organizaciones sociales;
-
-VII. Establecer los mecanismos necesarios para el uso y mantenimiento del equipo de producción e infraestructura de la Subdirección de Logística y Equipamiento de la Secretaría de Cultura;
-
-VIII. Proponer el calendario de festivales, exhibiciones y otros eventos culturales gratuitos dirigidos a grandes audiencias que se realizan en espacios públicos;
-
-IX. Auxiliar en la promoción de los procesos de creación artística y su vinculación a nivel local;
-
-X. Fomentar la participación de la ciudadanía en las actividades artísticas y culturales que realice la Secretaría de Cultura, y
-
-XI. Apoyar y colaborar con la persona Titular de la Secretaría de Cultura en las actividades que le encomiende.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 24 DE DICIEMBRE DE 2024)</small>
-
 #### SECCIÓN IV. DE LA SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
-
-#### SECCIÓN V. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
 ###### Artículo 32.
 
@@ -2042,9 +2056,7 @@ XXVII Bis. Dirigir, coordinar, supervisar y evaluar la actividad institucional d
 
 XXVIII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
-#### SECCIÓN V BIS. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DEL AGUA
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN V. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
 ###### Artículo 34.
 
@@ -2052,7 +2064,9 @@ XXVIII. Las demás que le sean encomendadas por la persona titular de la Secreta
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN VI. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
+#### SECCIÓN V BIS. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DEL AGUA
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 34 Bis.
 
@@ -2148,13 +2162,13 @@ XXIV. Expedir y certificar copias de los documentos que obren en sus archivos; y
 
 XXV. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables, así como las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que le estén adscritas.
 
-#### SECCIÓN VII. DE LA SECRETARÍA DE MOVILIDAD
+#### SECCIÓN VI. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
 
 ###### Artículo 35.
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-#### SECCIÓN VIII. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
+#### SECCIÓN VII. DE LA SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 36.
 
@@ -2278,7 +2292,7 @@ XVI. Participar en comités técnicos en materias relativas al desarrollo integr
 
 XVII. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
 
-#### SECCIÓN IX. DE LA SECRETARÍA DE SALUD
+#### SECCIÓN VIII. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
 
 ###### Artículo 38.
 
@@ -2324,9 +2338,7 @@ VII. Proponer a la persona titular de la Secretaría, los proyectos de iniciativ
 
 VIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídicos administrativos correspondientes o la persona Titular de la Secretaría.
 
-#### SECCIÓN X BIS. DE LA SECRETARÍA DE VIVIENDA
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN IX. DE LA SECRETARÍA DE SALUD
 
 ###### Artículo 40.
 
@@ -2380,9 +2392,9 @@ XXIII. Las demás que señalen las disposiciones legales aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN I. JEFATURA DE GOBIERNO
+#### SECCIÓN X BIS. DE LA SECRETARÍA DE VIVIENDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 40 Bis.
 
@@ -2468,9 +2480,9 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
-#### SECCIÓN II. DE LA SECRETARÍA DE GOBIERNO
+#### SECCIÓN I. JEFATURA DE GOBIERNO
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
 
 ###### Artículo 42.
 
@@ -2510,11 +2522,23 @@ XII. Establecer un vínculo de coordinación entre la persona Titular de la Jefa
 
 XIII. Dar seguimiento a los acuerdos tomados en las sesiones de Gabinete, presididas por la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 1 DE AGOSTO DE 2022)</small>
+XIII Bis. (DEROGADA, G.O. 15 DE ENERO DE 2025)
 
-XIII Bis. Coordinar el cumplimiento de las obligaciones de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Jefatura de Gobierno de la Ciudad de México; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE ENERO DE 2025)</small>
 
-XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+XIV. Instruir a la persona Titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2025)</small>
+
+XV. Instruir a la persona titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los actos administrativos y convenios que sean competencia de la oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2025)</small>
+
+XVI. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 15 DE ENERO DE 2025)</small>
+
+XVII. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
 ###### Artículo 42 Bis.
 
@@ -2576,53 +2600,9 @@ XVI. Presentar de manera periódica informes y reportes a la persona Titular de 
 
 XVII. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
 ###### Artículo 44.
 
-Corresponde a la Dirección General de Organización Técnica e Institucional:
-
-> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
-
-I. Participar en la organización de las actividades derivadas de los compromisos y asuntos oficiales de la persona titular de la Jefatura de Gobierno de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
-
-II. Colaborar en el seguimiento de las actividades institucionales y eventos públicos de la persona titular de la Jefatura de Gobierno de la Ciudad de México;
-
-III. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
-
-IV. Participar en la coordinación de las acciones y mantenimiento de la relación institucional e interinstitucional de la persona Titular de la Jefatura de Gobierno de la Ciudad de México, con los Sectores Público, Privado y Social;
-
-> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
-
-V. Participar en la coordinación de la comunicación con las personas servidoras públicas de la Administración Pública de la Ciudad de México, en la programación de reuniones de trabajo con titulares de entidades o gabinete en pleno, así como con la persona titular de la Jefatura de Gobierno de la Ciudad de México;
-
-VI. Colaborar en el establecimiento de la comunicación y cooperación de las relaciones Interinstitucionales de los Sectores Público, Privado y Social, con la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
-
-VII. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
-
-VIII. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
-
-IX. Solicitar información y documentos a las instancias de la Administración Pública de la Ciudad de México, cuando sea necesario para atender los asuntos de su competencia;
-
-> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
-
-X. Instruir a la persona Titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean de competencia de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
-
-> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
-
-XI. Instruir a la persona titular de la Unidad Administrativa y/o Unidad Administrativa de Apoyo Técnico Operativo correspondiente para que realice el análisis de los actos administrativos y convenios que sean competencia de la oficina de la Jefatura de Gobierno de la Ciudad de México a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes, sin perjuicio de las atribuciones de la Consejería Jurídica y de Servicios Legales en dicha materia;
-
-XII. (DEROGADA, G.O. 19 DE SEPTIEMBRE DE 2023)
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-> <small>(REFORMADA, G.O. 19 DE SEPTIEMBRE DE 2023)</small>
-
-XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona titular de la Jefatura de Gobierno de la Ciudad de México.
+(DEROGADO, G.O. 15 DE ENERO DE 2025)
 
 ###### Artículo 45.
 
@@ -2638,9 +2618,17 @@ I. Dirigir y coordinar los trabajos de asesoría a la oficina de la persona titu
 
 II. Dirigir y coordinar la elaboración de informes y reportes estratégicos para dar seguimiento al Programa de Gobierno 2024-2030;
 
-III. Dirigir y coordinar los estudios necesarios para facilitar la implementación de las políticas de desarrollo del gobierno para maximizar su impacto; y
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2025)</small>
 
-IV. Las demás que le señalen las disposiciones jurídicas y/o administrativas y/o aquellas que instruya la Jefa o Jefe de Gobierno de la Ciudad de México.
+III. Dirigir y coordinar los estudios necesarios para facilitar la implementación de las políticas de desarrollo del gobierno para maximizar su impacto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE ENERO DE 2025)</small>
+
+IV. Coordinar el cumplimiento de las obligaciones de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Jefatura de Gobierno de la Ciudad de México; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 15 DE ENERO DE 2025)</small>
+
+V. Las demás que le señalen las disposiciones jurídicas y/o administrativas y/o aquellas que instruya la Jefa o Jefe de Gobierno de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -2822,6 +2810,34 @@ XI. Auxiliar a la Secretaría Particular en la implementación de mecanismos par
 
 XII. Las demás que se deriven de otras disposiciones legales o administrativas aplicables, así como las que le asignen la persona titular de la Secretaría Particular y de la Jefatura de Gobierno de la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 48 Bis.
+
+Corresponde a la Dirección General de Atención y Gestión a la Demanda Ciudadana:
+
+I. Establecer políticas y directrices para la atención de la demanda ciudadana formulada a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, ya sea que se ingresen en la oficialía de partes de la Jefatura de Gobierno, vía electrónica al correo institucional que se establezca o las recibidas en recorridos de la persona titular de la Jefatura de Gobierno o a través de las audiencias públicas otorgadas por ésta;
+
+II. Coordinar el registro y la gestión de la demanda ciudadana dirigida a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, mediante el Sistema Único de Atención Ciudadana, una vez establecido por la autoridad competente;
+
+III. Establecer las políticas y directrices generales bajo las cuales se desempeñarán las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo adscritas a la misma;
+
+IV. Recibir y registrar en el Sistema Único de Atención Ciudadana la demanda que se presente a la persona Titular de la Jefatura de Gobierno de la Ciudad de México por parte de la ciudadanía; dando el seguimiento correspondiente que permita informar sobre los asuntos relevantes, gestiones y personas atendidas;
+
+V. Elaborar y presentar informes respecto del ingreso, captación y canalización de la demanda ciudadana dirigida a la persona Titular de la Jefatura de Gobierno, conteniendo indicadores en cada una de sus modalidades de presentación de conformidad con los folios otorgados para control; y en su caso de la atención dada por las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías a las que se les haya turnado;
+
+VI. Determinar los lineamientos institucionales bajo los cuales se deberá recibir y tramitar la demanda ciudadana dirigida a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, los cuales deberán ser acordes con la Ley de Procedimiento Administrativo de la Ciudad de México y demás normatividad jurídica y/o administrativa en la materia;
+
+VII. Emitir los lineamientos que contengan las estrategias y procedimientos para dar el seguimiento y atención a la demanda ciudadana realizada a la persona Titular de la Jefatura de Gobierno y de aquella que haya sido turnada para su atención procedente a las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+VIII. Determinar los lineamientos institucionales bajo los cuales se deberá recibir y gestionar la documentación que ingresa por recepción documental, y evaluar los mecanismos de trabajo operativo que se aplican, para atender la demanda ciudadana que se dirija a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+
+IX. Administrar la recepción, codificación, clasificación, cómputo y gestión de la demanda ciudadana que se presenta a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+
+X. Asesorar directamente o con la participación de las instancias competentes, cuando por la complejidad del asunto lo requiera a personas o grupos ciudadanos para formalizar en términos adecuados y precisos la demanda ciudadana que plantean a la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y
+
+XI. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o aquellas que le instruyan las personas Titulares de la Secretaría Particular y/o Jefatura de Gobierno de la Ciudad de México.
+
 ###### Artículo 49.
 
 (DEROGADO, G.O. 30 DE DICIEMBRE DE 2024)
@@ -2834,7 +2850,9 @@ XII. Las demás que se deriven de otras disposiciones legales o administrativas 
 
 (DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
-#### SECCIÓN III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+#### SECCIÓN II. DE LA SECRETARÍA DE GOBIERNO
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 50.
 
@@ -3274,7 +3292,7 @@ XIV. Analizar la problemática a la que se enfrenten los grupos y núcleos agrar
 
 XV. Las demás que le atribuyan otras disposiciones legales y administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
 
-#### SECCIÓN IV. DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL
+#### SECCIÓN III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
 ###### Artículo 71.
 
@@ -5334,11 +5352,217 @@ XX. Atender, tramitar y autorizar las solicitudes de los servicios de traslado, 
 
 XXI. Las demás que le sean conferidas por la persona titular de la Secretaría de Administración y Finanzas, por sí o por conducto de alguna de las Subsecretarías.
 
-#### SECCIÓN V. DE LA SECRETARÍA DE CULTURA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
+#### SECCIÓN III BIS. DE LA SECRETARÍA DE ATENCIÓN Y PARTICIPACIÓN CIUDADANA
 
-#### SECCIÓN VI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Bis.
+
+Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos y de la Unidad de Transparencia:
+
+I. Representar legalmente a la Secretaría en los procesos jurisdiccionales ante las autoridades competentes, locales o federales, en aquellos asuntos en que ésta sea parte o tenga algún interés;
+
+II. Revisar y validar los actos jurídicos que deban ser suscritos por la persona titular de la secretaría en el ámbito de sus atribuciones;
+
+III. Coordinar la atención de los asuntos en materia de transparencia, acceso a la información y datos personales dirigidos a la secretaria, incluyendo de manera enunciativa, el desahogo de las solicitudes de información, los requerimientos, la rectificación, la cancelación y oposición de datos personales, la presentación de informes, los recursos de revisión, las observaciones, las recomendaciones y los criterios que establezca el órgano garante competente; así como implementar acciones para cumplir con la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, con la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, así como con los demás ordenamientos legales vigentes y aplicables;
+
+IV. Revisar y, en su caso, proponer, los proyectos de leyes, reglamentos, decretos, acuerdos, circulares, convenios, contratos o cualquier otro acto jurídico administrativo, en el ámbito competencia de la Secretaría, emitiendo la opinión legal correspondiente;
+
+V. Proponer los criterios legales aplicables para la gestión de los programas y estrategias competencia de la secretaría;
+
+VI. Dirigir las respuestas a las solicitudes de opinión, asesorías o consultas requeridas por las diferentes áreas de la secretaria;
+
+VII. Dirigir las actividades y coordinar la atención oportuna de los asuntos jurídicos, competencia de la secretaria, en materia administrativa, derechos humanos, civil, penal, laboral, fiscal, agraria, entre otras, salvaguardando sus intereses;
+
+VIII. Promover acciones legales, presentar demandas, denuncias, querellas, desistimientos u otorgar perdón, recursos o cualquier medio de defensa, incluyendo la demanda de amparo y su desistimiento, incidentes o cualquier otra promoción durante la tramitación y gestión de cualquier tipo de juicio o procedimiento; así como proponer convenios judiciales o extrajudiciales para la resolución o finiquito de controversias en los que la secretaria sea parte; y
+
+IX. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Ter.
+
+Corresponde a la Dirección Ejecutiva del Programa Social Mercomuna:
+
+I. Coordinar las estrategias para llevar a cabo el Programa Social Mercomuna orientadas a fortalecer la economía familiar y comunitaria, con el fin de beneficiar a las personas promoviendo su bienestar y desarrollo integral;
+
+II. Supervisar la integración de las Reglas de Operación y gestionar su revisión, validación y autorización ante las instancias correspondientes;
+
+III. Generar un plan de trabajo para organizar su ejecución, los plazos de tiempo, difusión, monitoreo y metas del programa social;
+
+IV. Instrumentar la metodología para el registro y la distribución de los apoyos de las personas beneficiarias del programa social;
+
+V. Establecer la vinculación y los mecanismos de atención a los locatarios que participan en el programa social;
+
+VI. Coordinarse con las personas titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados que intervengan en la planeación y ejecución del Programa; y
+
+VII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Quáter.
+
+Corresponde a la Dirección Ejecutiva de Planeación y Operación de Eventos:
+
+I. Planificar la logística y la distribución de los recursos materiales para cada evento en los que participe la secretaria;
+
+II. Definir las reglas de asignación, uso y control eficiente de los recursos disponibles para la realización de las actividades de la Secretaría, en el ámbito de su competencia;
+
+III. Supervisar y evaluar los eventos, atender las necesidades de los recursos materiales, logísticos, de comunicación y de seguridad para garantizar el cumplimiento de los objetivos propuestos y una mejora permanente en su organización;
+
+IV. Coordinarse con las personas titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados que intervengan en la ejecución de los eventos en los que participe la secretaría; y
+
+V. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Quinquies.
+
+Corresponde a la Dirección Ejecutiva del Campo a la Ciudad:
+
+I. Administrar y ejecutar las acciones conducentes para la instalación y operación de la Acción de Gobierno del Campo a la Ciudad;
+
+II. Coordinar la distribución y comercialización de productos del campo en puntos de abasto instalados en colonias, pueblos y barrios de la Ciudad de México, preferentemente en zonas con mayor rezago por sus condiciones sociales, económicas o de inseguridad, para proveer alimentos a la población a precios más bajos, fortaleciendo el bienestar económico de los ciudadanos;
+
+III. Conducir relaciones directas sin intermediación con los pequeños y medianos productores del campo para gestionar y facilitar la instalación de los puntos de venta de sus productos, contribuyendo así, al abasto social de alimentos y fortalecimiento el (sic) apoyo a las familias productoras;
+
+IV. Coordinar las actividades para el almacenamiento y distribución eficiente de los productos agrícolas con el fin de acercarlos a la población de la Ciudad de México;
+
+V. Administrar y dirigir los establecimientos de almacenamiento de productos básicos alimentarios y sus derivados;
+
+VI. Coordinarse con las personas titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados que intervengan en la planeación y ejecución de la Acción de Gobierno del Campo a la Ciudad; y
+
+VII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+Artículo 129 Séxies.- Corresponde a la Dirección Ejecutiva de Gobierno Casa por Casa:
+
+I. Implementar estrategias, para brindar atención a la demanda de trámites y servicios públicos de la ciudadanía directamente en sus hogares, priorizando la atención a grupos vulnerables, en colonias, pueblos y barrios de la Ciudad de México seleccionados por sus condiciones sociales y/o de seguridad;
+
+II. Organizar recorridos con las dependencias del Gobierno de la Ciudad de México en las colonias prioritarias con la finalidad de captar la demanda de los servicios de los habitantes de la ciudad;
+
+III. Establecer estrategias para captar y supervisar el registro de las solicitudes y demandas de la ciudadanía a fin de integrar informes que permitan acercar los servicios gubernamentales para contribuir a mejorar la calidad de vida de la población;
+
+IV. Conducir un modelo integral de coordinación institucional para canalizar, monitorear, evaluar la atención y dar seguimiento a las solicitudes y demandas de la población para garantizar su correcta ejecución con el objetivo de reducir la brecha de desigualdad;
+
+V. Implementar estrategias que permitan difundir las acciones, programas sociales, servicios gubernamentales, beneficios y derechos disponibles para la población, asegurando que la ciudadanía de la Ciudad de México esté informada; y
+
+VI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Septies.
+
+Corresponde a la Dirección Ejecutiva de Planeación Participativa:
+
+I. Coordinar estrategias de planeación participativa que fortalezcan la democracia y fomenten la participación activa y responsable de los habitantes de la Ciudad de México;
+
+II. Coordinar la aplicación de procesos participativos en los territorios de la Ciudad de México;
+
+III. Coordinar la construcción y vinculación de las Agendas Locales de Desarrollo, promoviendo su socialización y atención a las necesidades prioritarias de los territorios de la ciudad;
+
+IV. Dirigir el análisis de datos socio-territoriales que contribuyan a la mejora de los procesos y diagnósticos participativos para la atención de las necesidades de los territorios de la Ciudad de México;
+
+V. Establecer estrategias para la construcción de ciudadanía impulsando la reconstrucción del tejido social a través de la educación popular; y
+
+VI. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Octies.
+
+Corresponde a las Direcciones Ejecutivas de las Casas de Gobierno;
+
+I. Instrumentar las acciones planeadas por la Subsecretaria de Atención, Gestión y Participación Ciudadana, que vinculen a la comunidad con la atención ciudadana y la gestión territorial, dentro de sus territorios de acción;
+
+II. Actuar como enlace permanente de apoyo, consulta y asesoría entre la ciudadanía y las diferentes instancias de la Administración Pública de la Ciudad de México para garantizar la atención oportuna y eficaz de las demandas de la ciudadanía;
+
+III. Implementar y supervisar los mecanismos de atención y gestión ciudadana en coordinación con las dependencias y entidades del Gobierno de la Ciudad de México, en sus territorios de acción, a través de oficinas de atención a la ciudadanía;
+
+IV. Implementar estrategias de seguimiento y proponer programas de obra pública que favorezcan la oportuna atención a la demanda de servicios públicos y la recuperación del espacio público, en colaboración con las dependencias correspondientes y supervisar su correcta ejecución;
+
+V. Coordinar y supervisar en el ámbito de sus atribuciones, las estrategias de operación territorial en situaciones de contingencia y/o emergencias propuestas por la persona titular de la Subsecretaría de Atención, Gestión y Participación Ciudadana, a fin de garantizar la oportuna atención a la ciudadanía durante las mismas;
+
+VI. Colaborar en la organización de las acciones de vinculación con las instancias del Gobierno Federal y de la Ciudad de México, en materia de atención y gestión ciudadana;
+
+VII. Coadyuvar en la implementación de estrategias que promuevan la participación activa de la ciudadanía en los procesos participativos para el fortalecimiento de la democracia;
+
+VIII. Coordinar el trabajo territorial para la difusión y operación de programas y acciones sociales del Gobierno de la Ciudad de México;
+
+IX. Coordinar la realización de estrategias territoriales que fomenten la celebración de actividades artísticas, culturales y recreativas que contribuyan a la recuperación del espacio público;
+
+X. Promover la práctica del deporte en el territorio, mediante la aplicación de programas y actividades deportivas y recreativas que fomenten el desarrollo de habilidades y contribuyan a la mejora de la calidad de vida de la ciudadanía;
+
+XI. Coordinar, en el ámbito de sus atribuciones, reuniones de trabajo para evaluar y dar seguimiento a las acciones realizadas; y
+
+XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Nonies.
+
+Corresponde a la Dirección Ejecutiva de Estrategias para la Construcción de la Paz:
+
+I. Diseñar e implementar estrategias para la construcción de Territorios de Paz e Igualdad para abordar los problemas de violencia e inseguridad en la Ciudad de México;
+
+II. Coordinar acciones con dependencias y entidades gubernamentales para implementar estrategias para la construcción de territorios de paz e igualdad;
+
+III. Fomentar la participación ciudadana y la sociedad civil en la construcción de territorios de paz e igualdad;
+
+IV. Analizar y evaluar la situación de seguridad y paz en la Ciudad de México para identificar áreas de oportunidad y diseñar estrategias efectivas;
+
+V. Desarrollar programas y proyectos para la construcción de paz como: prevención de la violencia, atención a víctimas y de reintegración social;
+
+VI. Cooperar con organismos internacionales y países extranjeros, de conformidad con las disposiciones jurídicas aplicables, para compartir experiencias y mejores prácticas en la construcción de territorios de paz e igualdad;
+
+VII. Evaluar y monitorear el impacto de las estrategias y programas para la construcción de territorios de paz e igualdad; y
+
+VIII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 129 Decies.
+
+Corresponde a (sic) Dirección Ejecutiva de Asambleas de Paz:
+
+I. Promover y coordinar las Asambleas de Paz en los territorios de la Ciudad de México;
+
+II. Fomentar la participación ciudadana en las Asambleas de Paz, para que los ciudadanos puedan expresar sus opiniones y propuestas para abordar los problemas de violencia e inseguridad;
+
+III. Coordinar con dependencias y entidades gubernamentales para asegurarse de que las Asambleas de Paz sean efectivas y se traduzcan en acciones concretas;
+
+IV. Analizar y evaluar las propuestas ciudadanas presentadas en las Asambleas de Paz, para identificar las prioridades y necesidades de la población;
+
+V. Desarrollar programas y proyectos para abordar los problemas de violencia e inseguridad, de conformidad con las disposiciones jurídicas aplicables, con base en las propuestas ciudadanas y las prioridades identificadas;
+
+VI. Fomentar la colaboración entre diferentes sectores como la sociedad civil, el sector privado y las instituciones gubernamentales, para abordar los problemas de violencia e inseguridad de manera integral; y
+
+VII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2025)</small>
+
+Artículo 129 Undecies.- Corresponde a (sic) Dirección Ejecutiva de Gabinetes de Paz:
+
+I. Promover y coordinar con los tres niveles de Gobierno los Gabinetes para la construcción de paz, Seguridad Ciudadana y Procuración de Justicia en las 16 Alcaldías de la Ciudad de México, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Fomentar la participación ciudadana y la sociedad civil en los Gabinetes de Paz, para que puedan expresar sus opiniones y propuestas para abordar los problemas de violencia e inseguridad;
+
+III. Coordinar con dependencias y entidades gubernamentales para asegurarse de que los Gabinetes de Paz sean efectivos y se traduzcan en acciones concretas;
+
+IV. Analizar y evaluar las propuestas ciudadanas y de la sociedad civil presentadas en los Gabinetes de Paz, para identificar las prioridades y necesidades de la población;
+
+V. Desarrollar programas y proyectos para abordar los problemas de violencia e inseguridad, en base a las propuestas ciudadanas, de la sociedad civil, y las prioridades identificadas, de conformidad con las disposiciones jurídicas aplicables;
+
+VI. Fomentar la colaboración entre diferentes sectores de la sociedad, como la sociedad civil, el sector privado y las instituciones gubernamentales, para abordar los problemas de violencia e inseguridad de manera integral, de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Evaluar y monitorear el impacto de los Gabinetes de Paz, para asegurarse de que sean efectivos y se traduzcan en mejoras concretas para la población; y
+
+VIII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera expresamente la persona superior jerárquica inmediata.
+
+#### SECCIÓN IV. DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL
 
 ###### Artículo 130.
 
@@ -5754,9 +5978,9 @@ XXXVI. Las atribuciones a que se refiere el presente artículo y todas las que c
 
 XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General y las personas titulares de las direcciones generales de Coordinación de Órganos Internos de Control, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo adscritas; así como las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN VII. DE LA SECRETARÍA DE PLANEACIÓN, ORDENAMIENTO TERRITORIAL Y COORDINACIÓN METROPOLITANA
+#### SECCIÓN V. DE LA SECRETARÍA DE CULTURA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
 
 ###### Artículo 137.
 
@@ -5988,7 +6212,7 @@ V. Elaborar informes anuales sobre los resultados de las acciones en materia de 
 
 VI. Proponer todos los mecanismos e instrumentos tendientes a la protección de los derechos culturales que le competan a la Secretaría, a fin de orientar las políticas públicas en materia de cultura, atendiendo a todas las disposiciones legales que así lo dispongan.
 
-#### SECCIÓN VIII. DE LA SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+#### SECCIÓN VI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 144.
 
@@ -6378,9 +6602,9 @@ XII. Las demás que le atribuyan las leyes y otros ordenamientos, así como las 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN IX. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
+#### SECCIÓN VII. DE LA SECRETARÍA DE PLANEACIÓN, ORDENAMIENTO TERRITORIAL Y COORDINACIÓN METROPOLITANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 153.
 
@@ -7016,9 +7240,7 @@ XXXVII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 XXXVIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
-#### SECCIÓN IX BIS. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DEL AGUA
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN VIII. DE LA SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ###### Artículo 157.
 
@@ -7412,9 +7634,9 @@ XXIV. Las demás que le sean encomendadas por la persona titular de la Secretar�
 
 (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-#### SECCIÓN X. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
+#### SECCIÓN IX. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 166.
 
@@ -7696,7 +7918,9 @@ XV. Las demás que el presente Reglamento y otras disposiciones le asignen.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN XI. DE LA SECRETARÍA DEL MEDIO AMBIENTE
+#### SECCIÓN IX BIS. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DEL AGUA
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 170 Bis.
 
@@ -8004,7 +8228,9 @@ XIII. Expedir copias certificadas, previo cotejo de los originales de los docume
 
 XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos de la Secretaría que le encomiende su titular.
 
-#### SECCIÓN XII. DE LA SECRETARÍA DE MOVILIDAD
+#### SECCIÓN X. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 171.
 
@@ -8206,43 +8432,9 @@ VIII. Sistematizar y difundir las normas jurídicas aplicables en materia de las
 
 IX. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de las Unidades Administrativas adscritas y aquellos en que resulte afectada la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
-
 ###### Artículo 178.
 
-Corresponde a la Coordinación General de Participación Ciudadana:
-
-I. Coordinar la planeación, diseño, promoción, ejecución, seguimiento y control de estrategias y acciones que fomenten el involucramiento Ciudadano en asuntos públicos y en la solución de problemas comunes, basado en una cultura de corresponsabilidad con el gobierno;
-
-II. Coordinar procesos de atención y seguimiento de demandas sociales en la Ciudad de México, en coordinación con las Alcaldías, o sirviendo como enlace entre las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades competentes, con los grupos involucrados;
-
-III. Establecer y mantener una coordinación estable y permanente con el Comité Vecinal de cada Unidad Territorial, para la realización de acciones vinculadas con trabajo comunitario (Tequio) y seguridad Ciudadana, en coordinación con las Alcaldías y con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública Centralizada;
-
-IV. Coadyuvar con los Comités Vecinales en la organización y realización de las asambleas vecinales;
-
-V. Apoyar a las comisiones de trabajo elegidas en las asambleas vecinales, para facilitar el cumplimiento de las responsabilidades encomendadas;
-
-VI. Establecer los mecanismos necesarios para la participación de la sociedad civil en la realización de acciones que permitan la prevención social de las violencias, de conformidad con la normativa aplicable;
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-VII. Realizar recorridos y visitas periódicas a las demarcaciones territoriales para lograr una comunicación efectiva entre gobierno y sociedad;
-
-> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
-
-VIII. Establecer los mecanismos de colaboración para definir los trabajos que realizarán las personas designadas como representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, que sirvan de referencia para diagnósticos y toma de decisiones a la Jefatura de Gobierno de la Ciudad de México, en materia de seguridad ciudadana;
-
-> <small>(ADICIONADA, G.O. 12 DE MARZO DE 2021)</small>
-
-IX. Coordinar las políticas de mejoramiento barrial y comunitario del Gobierno de la Ciudad de México en el ámbito territorial, de conformidad con las disposiciones jurídicas y/o administrativas aplicables;
-
-> <small>(ADICIONADA, G.O. 12 DE MARZO DE 2021)</small>
-
-X. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación ciudadana y comunitaria; y
-
-> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
-
-XI. Las demás atribuciones conferidas por la persona Titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
+(DEROGADO, G.O. 15 DE ENERO DE 2025)
 
 ###### Artículo 179.
 
@@ -8252,183 +8444,15 @@ XI. Las demás atribuciones conferidas por la persona Titular de la Secretaría,
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
-
 ###### Artículo 181.
 
-Corresponde a la Dirección Ejecutiva de Tequio Barrio:
+(DEROGADO, G.O. 15 DE ENERO DE 2025)
 
-I. Promover la participación Ciudadana en el diseño, ejecución y evaluación de la política de inclusión y bienestar social de la Ciudad de México en el ámbito de desarrollo urbano, la construcción, recuperación y adecuación de los espacios públicos;
+Artículo 181 BIS.- (DEROGADO, G.O. 15 DE ENERO DE 2025)
 
-II. Impulsar el ejercicio del derecho a la Ciudad de todos los residentes de la Ciudad de México;
+Artículo 181 TER.- (DEROGADO, G.O. 15 DE ENERO DE 2025)
 
-III. Mejorar las condiciones de vida y las oportunidades de desarrollo de los habitantes de zonas en condiciones de mayor rezago social y degradación urbana; y
-
-IV. Implementar y dar seguimiento a los programas y acciones de mejoramiento barrial en beneficio de los habitantes de los barrios, colonias, pueblos en coordinación con las Alcaldías y las Dependencias, Órganos Desconcentrados y Entidades, a efecto de garantizar la canalización oportuna y transparente de los recursos económicos, técnicos y materiales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-Artículo 181 BIS.- Corresponde a la Dirección General Territorial:
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-I. Planear estrategias de operación territorial de los programas y acciones sociales de participación ciudadana para que garanticen el correcto acercamiento de los ciudadanos, en igualdad de circunstancias a los programas y acciones sociales;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-II. Establecer estrategias operativas, con base en la demanda comunitaria de los programas y acciones sociales;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-III. Instruir a las Direcciones Ejecutivas de Participación Ciudadana en la aplicación de estrategias de trabajo, resultado de reuniones;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-IV. Coordinar y vigilar las actividades que realizan las Direcciones Ejecutivas de Participación Ciudadana, en la implementación de los programas y acciones sociales del Gobierno de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-V. Administrar y coordinar los beneficios que se entregan a los grupos de trabajo de las Direcciones Ejecutivas de Participación Ciudadana en las Alcaldías, para su distribución a los beneficiarios de los programas sociales;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-VI. Establecer los vínculos necesarios con las diferentes instancias, tanto del Gobierno de la Ciudad de México como de las Alcaldías, para generar acciones de carácter comunitario en territorio;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-VII. Supervisar y vigilar los planes y programas de trabajo de las Direcciones Ejecutivas de Participación Ciudadana bajo su responsabilidad;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-VIII. Realizar reuniones de trabajo con las Direcciones Ejecutivas de Participación Ciudadana de las Alcaldías, a fin de conocer la problemática y buscar soluciones en la operatividad y ejecución de los programas y acciones sociales;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-IX. Planear capacitaciones para las personas beneficiarias facilitadores de servicios del programa social que se realice;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-X. Diseñar las Reglas de Operación de los Programas Sociales correspondientes a la Coordinación General de Participación Ciudadana;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XI. Diseñar el Programa Anual de Capacitación para el personal de la Coordinación General de Participación Ciudadana, así como de los participantes de las redes vecinales, con el fin de aportar elementos al programa de capacitación;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XII. Coordinar y vigilar la correcta aplicación de programas federales asignados al Gobierno de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XIII. Coordinar líneas de acción entre el personal de la Dirección General Territorial y las Direcciones Ejecutivas de Participación Ciudadana ante posibles contingencias que pongan en riesgo la integridad de los habitantes de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XIV. Establecer directrices de trabajo con las Direcciones Ejecutivas de Participación Ciudadana durante las gestiones administrativas para la realización de las acciones territoriales;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XV. Difundir los programas y acciones que promueven la inclusión y bienestar social participativo entre los habitantes de la Ciudad de México, a través del contacto directo y material impreso;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XVI. Colaborar con otras áreas del Gobierno de la Ciudad de México en la difusión y divulgación de sus programas y acciones sociales en territorio;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XVII. Promover entre las Direcciones Ejecutivas de Participación Ciudadana el material de difusión impreso de los programas sociales;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XVIII. Establecer los mecanismos de evaluación de las acciones y programas sociales con las Direcciones Ejecutivas de Participación Ciudadana, a fin de que se dé la debida aplicación y ejecución de los mismos;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XIX. Instruir a las Direcciones Ejecutivas de Participación Ciudadana la implementación de estrategias para evaluar el funcionamiento de las actividades programadas en los Módulos de Participación Ciudadana;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XX. Establecer los medios de evaluación en la ejecución de los programas y acciones sociales con el uso de reportes e informes;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XXI. Formular dictámenes, opiniones e informes sobre los avances de la participación de la ciudadanía en las políticas públicas, a fin de mejorar la aplicación de las mismas;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XXII. Comunicar a las Direcciones Ejecutivas de Participación Ciudadana las tareas para aplicar la evaluación en el desempeño de las actividades desarrolladas por todas las personas adscritas a ellas, en las acciones y programas sociales que le correspondan;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XXIII. Apoyar en las actividades de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia y en las evaluaciones de desempeño; y
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XXIV. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-Artículo 181 TER.- Corresponde a la Dirección Ejecutiva de Capacitación:
-
-I. Diseñar el plan de capacitación anual de programas, talleres y actualizaciones dirigidas a las personas que forman parte de la Coordinación General de Participación Ciudadana, para una adecuada difusión, desarrollo y articulación en el territorio de programas y acciones sociales;
-
-II. Diseñar acciones, programas y proyectos de capacitación vinculados con el saber local y utilizando metodologías participativas, que permitan mejorar el entorno social de las personas vecinas, habitantes y transeuntes en la Ciudad de México, así como incrementar las posibilidades de sostenibilidad de los barrios, colonias, pueblos y unidades habitacionales de la Ciudad de México;
-
-III. Diseñar e instrumentar talleres para la utilización de herramientas tecnológicas de información y ubicación geoespacial;
-
-IV. Impulsar la formación y el desarrollo de competencias para la organización comunitaria y el trabajo en territorio de las personas adscritas y asignadas al área encargada del trabajo territorial;
-
-V. Diagnosticar, monitorear y evaluar el desarrollo de habilidades y competencias de las personas adscritas y asignadas al área encargada del trabajo territorial, a fin de estimar sus fortalezas y áreas de oportunidad;
-
-VI. Verificar que el proceso de formación y capacitación dirigido a las personas adscritas y asignadas al área encargada del trabajo territorial se refleje en el trabajo territorial; y
-
-VII. Todas aquellas que le sean asignadas por sus superiores jerárquicos.
-
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
-
-Artículo 181 QUATER.- Corresponde a las Direcciones Ejecutivas de Participación Ciudadana:
-
-I. Instrumentar las acciones planeadas por la Coordinación General de Participación Ciudadana y la Dirección General Territorial que vinculen a la comunidad con las políticas de inclusión y bienestar social, así como con los programas y acciones derivadas de éstas dentro de su Alcaldía;
-
-II. Supervisar el funcionamiento de los Módulos de Seguridad y Participación Ciudadana con la participación de las personas adscritas a ellas;
-
-III. Verificar que tanto las personas adscritas a las Direcciones Ejecutivas, como aquellas personas beneficiarias que le sean asignadas, desarrollen su actividad en el marco de la institucionalidad;
-
-IV. Establecer relaciones de colaboración para la organización de las Asambleas Ciudadanas que favorezcan el cumplimiento de la Ley de Participación Ciudadana de la Ciudad de México y las políticas de inclusión y bienestar, encaminadas a favorecer su desarrollo socio-económico;
-
-V. Asesorar a la ciudadanía en la organización y realización de Asambleas Ciudadanas;
-
-VI. Coordinar, en el ámbito de sus atribuciones, reuniones de trabajo para planear, evaluar y dar seguimiento a las acciones realizadas corresponsablemente entre la ciudadanía y la Coordinación General de Participación Ciudadana;
-
-VII. Coordinar jornadas de divulgación de los programas y acciones sociales en su área territorial;
-
-VIII. Intervenir en los diversos programas y acciones sociales, ejecutados por la Coordinación General de Participación Ciudadana para eliminar el rezago en materia de inclusión y bienestar social;
-
-IX. Organizar el trabajo territorial para la difusión y operación de los programas y acciones sociales, con la participación de todas las personas adscritas a ellas;
-
-X. Implementar las actividades en materia territorial respecto a Tequio Barrio y Asambleas Ciudadanas, con apoyo de las personas adscritas a ellas, así como de los beneficiarios que le sean asignados;
-
-XI. Generar informes que contengan indicadores cuantitativos y cualitativos respecto a la ejecución de los programas y acciones sociales, en el ámbito de sus atribuciones;
-
-XII. Apoyar, en el ámbito de sus atribuciones, en la implementación de programas y acciones sociales;
-
-XIII. Concentrar, para su resguardo, toda la información que resulte de la implementación de acciones y programas de carácter social, en el ámbito de sus atribuciones;
-
-XIV. Colaborar, en el ámbito de sus atribuciones, en la organización de las acciones de vinculación con las instancias del Gobierno Federal y de la Ciudad de México, relacionadas con los programas y acciones sociales;
-
-XV. Supervisar los asuntos referentes a las actividades y acciones programadas en su respectiva Alcaldía;
-
-XVI. Efectuar las acciones y actividades establecidas en los calendarios y programas de trabajo diseñados por la Coordinación General de Participación Ciudadana;
-
-XVII. Apoyar en la implementación de acciones determinadas por el Gobierno Federal;
-
-XVIII. Por instrucciones de su superior jerárquico, hacer del conocimiento público los resultados obtenidos de los programas y acciones realizadas en su demarcación territorial;
-
-XIX. Coordinar y vigilar en el ámbito de sus atribuciones, las estrategias de operación territorial en situaciones de contingencia y/o emergencia planteadas por la Coordinación General de Participación Ciudadana y la Dirección General Territorial necesarias para garantizar el correcto acercamiento con la ciudadanía durante las mismas;
-
-XX. Organizar la recepción y entrega de material de difusión, insumos y diversos materiales para la adecuada distribución entre el personal de su Dirección; y
-
-XXI. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
+Artículo 181 QUATER.- (DEROGADO, G.O. 15 DE ENERO DE 2025)
 
 ###### Artículo 182.
 
@@ -8476,9 +8500,7 @@ XVI. Las demás que le instruya la persona Titular de la Secretaría, y las que 
 
 (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-#### SECCIÓN XIII. DE LA SECRETARÍA DE LAS MUJERES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
+#### SECCIÓN XI. DE LA SECRETARÍA DEL MEDIO AMBIENTE
 
 ###### Artículo 183.
 
@@ -9142,7 +9164,7 @@ XII. Suscribir los documentos relativos al ejercicio de sus atribuciones o en ca
 
 XIII. Las demás conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN XIV. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
+#### SECCIÓN XII. DE LA SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 192.
 
@@ -9608,9 +9630,9 @@ VII. Incentivar y difundir, de conformidad con los planes y proyectos de la Subs
 
 VIII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende el superior jerárquico.
 
-#### SECCIÓN XV. DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES
+#### SECCIÓN XIII. DE LA SECRETARÍA DE LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
 
 ###### Artículo 202.
 
@@ -9928,7 +9950,7 @@ XVIII. Administrar y aplicar los recursos que le sean asignados; y
 
 XIX. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya la persona Titular de la Secretaría y/o la persona Titular de la Dirección General de Igualdad y Atención a la Violencia de Género, que favorezcan, promuevan y reconozcan los derechos humanos de las mujeres y las niñas.
 
-#### SECCIÓN XVI. DE LA SECRETARÍA DE SALUD
+#### SECCIÓN XIV. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
 
 ###### Artículo 206.
 
@@ -10448,7 +10470,9 @@ XIV. Coordinar los procedimientos administrativos para mantener o recuperar la p
 
 XV. Las demás atribuciones conferidas por las personas Titulares de la Secretaría y de la Consejería Jurídica y de Servicios Legales, conforme las funciones de la unidad a su cargo, así como las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN XVII. DE LA SECRETARÍA DE TRABAJO Y FOMENTO AL EMPLEO
+#### SECCIÓN XV. DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 214.
 
@@ -10482,7 +10506,7 @@ XIII. Crear un canal de radio difusión dirigido a los pueblos indígenas; y
 
 XIV. Contar con un registro de intérpretes de lenguas indígenas.
 
-#### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
+#### SECCIÓN XVI. DE LA SECRETARÍA DE SALUD
 
 ###### Artículo 215.
 
@@ -10758,7 +10782,7 @@ XXX. Integrar los informes respecto del Sistema de Protección Social en Salud d
 
 XXXI. Las demás que señalen las disposiciones legales aplicables.
 
-#### SECCIÓN XIX. DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES
+#### SECCIÓN XVII. DE LA SECRETARÍA DE TRABAJO Y FOMENTO AL EMPLEO
 
 ###### Artículo 220.
 
@@ -10942,9 +10966,9 @@ XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de 
 
 XIV. Establecer mesas de conciliación entre empleadores y trabajadores, para disminuir el número de demandas a presentar antelas (sic) autoridades jurisdiccionales en materia de trabajo de competencia local, en el ámbito de la Ciudad de México.
 
-#### SECCIÓN I. DE LA SUBTESORERÍA DE ADMINISTRACIÓN TRIBUTARIA
+#### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
 
-#### SECCIÓN II. DE LA SUBTESORERÍA DE FISCALIZACIÓN
+#### SECCIÓN XIX. DE LA CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES
 
 ###### Artículo 225.
 
@@ -11080,7 +11104,7 @@ IX. Dar seguimiento a la logística, puesta en marcha, conclusión y costo de re
 
 X. En el ámbito de su competencia, promover la suscripción de convenios de colaboración o concertación con personas físicas o morales, nacionales o internacionales.
 
-#### SECCIÓN III. DE LA COORDINACIÓN EJECUTIVA DE VERIFICACIÓN DE COMERCIO EXTERIOR
+#### SECCIÓN I. DE LA SUBTESORERÍA DE ADMINISTRACIÓN TRIBUTARIA
 
 ###### Artículo 229.
 
@@ -11438,7 +11462,7 @@ XVII. Las demás atribuciones que les sean conferidas por sus superiores jerárq
 
 DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DE APOYO TÉCNICO OPERATIVO ADSCRITAS A LA TESORERÍA DE LA CIUDAD DE MÉXICO DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS QUE SE INDICAN.
 
-#### SECCIÓN IV. DE LA SUBTESORERÍA DE POLÍTICA FISCAL
+#### SECCIÓN II. DE LA SUBTESORERÍA DE FISCALIZACIÓN
 
 ###### Artículo 239.
 
@@ -11580,7 +11604,7 @@ X. Brindar orientación y asesoría al contribuyente; e
 
 XI. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos que conozca con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
+#### SECCIÓN III. DE LA COORDINACIÓN EJECUTIVA DE VERIFICACIÓN DE COMERCIO EXTERIOR
 
 ###### Artículo 245.
 
@@ -11730,7 +11754,7 @@ XII. Suscribir los acuerdos de mediación y los conclusivos en términos de lo d
 
 XIII. Condonar y reducir las multas impuestas en el ejercicio de las facultades conferidas en este artículo en términos de lo dispuesto en las leyes fiscales aplicables a la Ciudad de México o de las leyes federales de conformidad con los acuerdos o convenios en materia fiscal federal del Ejecutivo Federal.
 
-#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD Y APOYO TÉCNICO
+#### SECCIÓN IV. DE LA SUBTESORERÍA DE POLÍTICA FISCAL
 
 ###### Artículo 250.
 
@@ -11844,7 +11868,7 @@ XI. Realizar el reporte de las asignaciones a la Ciudad de México de mercancía
 
 XII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
 
-#### SECCIÓN III
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 252.
 
@@ -11878,7 +11902,7 @@ IX. Coordinar la comunicación entre las áreas correspondientes de la Secretar�
 
 DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DE APOYO TÉCNICO OPERATIVO ADSCRITAS A LA SECRETARÍA DE LA CONTRALORÍA GENERAL QUE SE INDICAN.
 
-#### SECCIÓN I. DE LAS ATRIBUCIONES GENERALES
+#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD Y APOYO TÉCNICO
 
 ###### Artículo 253.
 
@@ -12082,7 +12106,7 @@ XVI. Expedir previo cotejo, copias certificadas de los documentos que obren en s
 
 XVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN II. DE LAS AUTORIDADES INVESTIGADORAS
+#### SECCIÓN III
 
 ###### Artículo 258.
 
@@ -12504,7 +12528,7 @@ XIV. Expedir, copias certificadas de los documentos que obren en sus archivos, a
 
 XV. Las demás que le instruya la persona Titular de la Dirección General de Coordinación de Órganos Internos de Control Sectorial, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-#### SECCIÓN III. DE LAS AUTORIDADES SUBSTANCIADORAS
+#### SECCIÓN I. DE LAS ATRIBUCIONES GENERALES
 
 ###### Artículo 267.
 
@@ -12560,7 +12584,7 @@ XXIII. Las demás que le instruya la persona titular de la Secretaría de la Con
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LAS PERSONAS TITULARES DE LAS UNIDADES DE INVESTIGACIÓN, SUBSTANCIACIÓN Y DE RESOLUCIÓN DE LA SECRETARÍA DE CONTRALORÍA GENERAL
 
-#### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
+#### SECCIÓN II. DE LAS AUTORIDADES INVESTIGADORAS
 
 ###### Artículo 268.
 
@@ -12692,9 +12716,7 @@ XXIX. Someter en conjunto con las direcciones generales de coordinación de órg
 
 XXX. Las demás que le instruya la persona Titular de la Secretaría de la Contraloría General, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas, las que expresamente le atribuya este Reglamento y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE SERVICIOS A USUARIOS
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN III. DE LAS AUTORIDADES SUBSTANCIADORAS
 
 ###### Artículo 269.
 
@@ -12756,11 +12778,7 @@ XXVII. Solicitar mediante exhorto, la colaboración de las Dependencias, órgano
 
 XXVIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCION I
-
-ADSCRITO A LA JEFATURA DE GOBIERNO.
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+#### SECCIÓN IV. DE LAS AUTORIDADES RESOLUTORAS
 
 ###### Artículo 270.
 
@@ -12806,11 +12824,9 @@ XIX. Solicitar mediante exhorto, la colaboración de las Dependencias, órganos 
 
 XX. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende la persona Titular de la Secretaría de la Contraloría General, así como las que competen a las Unidades Administrativas a su cargo.
 
-#### SECCION II
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE SERVICIOS A USUARIOS
 
-ADSCRITO A LA SECRETARIA DE GOBIERNO.
-
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 271.
 
@@ -12844,7 +12860,11 @@ DE LAS ATRIBUCIONES GENERALES DE LAS PERSONAS TITULARES DE LAS UNIDADES ADMINIST
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN III. ADSCRITO A LA SECRETARÍA DE CULTURA
+#### SECCION I
+
+ADSCRITO A LA JEFATURA DE GOBIERNO.
+
+> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 ###### Artículo 271 Bis.
 
@@ -13068,7 +13088,11 @@ XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y ad
 
 ### CAPÍTULO III. DEL OBJETO Y ATRIBUCIONES DE LOS ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+#### SECCION II
+
+ADSCRITO A LA SECRETARIA DE GOBIERNO.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
 ###### Artículo 276.
 
@@ -14484,7 +14508,7 @@ X. Certificar y expedir copias certificadas de los documentos que obren en sus a
 
 XI. Las demás que le sean encomendadas por las personas Titulares de la Coordinación General del C5 y de la Jefatura de Gobierno y las que le correspondan de conformidad con las disposiciones jurídicas y/o administrativas aplicables.
 
-#### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
+#### SECCIÓN III. ADSCRITO A LA SECRETARÍA DE CULTURA
 
 ###### Artículo 296.
 
@@ -14554,9 +14578,7 @@ IV. Realizar las gestiones necesarias para acceder a los recursos previstos por 
 
 V. Las demás previstas en el Acuerdo por el que se crea la Comisión de Búsqueda de Personas de la Ciudad de México, publicado el 17 de mayo de 2019 en la Gaceta Oficial de la Ciudad de México, la Ley General en la materia y demás disposiciones aplicables.
 
-#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE OBRAS Y SERVICIOS
-
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
+#### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ###### Artículo 298.
 
@@ -14600,7 +14622,7 @@ X. Las demás funciones que le atribuyan las leyes y reglamentos, así como las 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
-#### SECCIÓN VII. ADSCRITO A LA SECRETARÍA DE SALUD
+#### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
 
 ###### Artículo 302 Bis.
 
@@ -14900,7 +14922,9 @@ XXV Bis. Suscribir los contratos, convenios y demás actos jurídicos o de cará
 
 XXVI. Las demás que le otorguen la legislación vigente.
 
-#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
+#### SECCIÓN VI. ADSCRITO A LA SECRETARÍA DE OBRAS Y SERVICIOS
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 316.
 
@@ -14932,7 +14956,7 @@ XXVI. Las demás que le otorguen la legislación vigente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2019)</small>
 
-#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
+#### SECCIÓN VII. ADSCRITO A LA SECRETARÍA DE SALUD
 
 ###### Artículo 322 Bis.
 
@@ -14973,6 +14997,8 @@ XIII. Proponer para autorización conjunta de la Secretaría de Obras y Servicio
 XIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por el Titular de la Secretaría de Obras y Servicios, en el ámbito de su competencia.
 
 > <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2019)</small>
+
+#### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
 
 ###### Artículo 323.
 
@@ -15049,6 +15075,8 @@ XVIII. Las demás que señalen las disposiciones legales aplicables.
 ### CAPÍTULO IV. ÓRGANOS DE APOYO
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE MAYO DE 2019)</small>
+
+#### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
 
 ###### Artículo 325.
 
@@ -15639,3 +15667,19 @@ OCTAVO.- Los expedientes, archivos, acervos y demás documentación que se encue
 NOVENO.- Los asuntos y trámites administrativos relacionados con las concesiones de uso de los bienes inmuebles propiedad de la Ciudad de México que con motivo de este decreto deban pasar de la Dirección General de Patrimonio Inmobiliario a la Dirección General de Administración Financiera permanecerán en el último trámite que hubieren alcanzado y serán substanciados por la Dirección General de Administración Financiera, en términos de las disposiciones jurídicas aplicables.
 
 DÉCIMO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - Los asuntos e instrumentos jurídicos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se cancelan o se modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de las unidades administrativas que se cancelan o se modifican por virtud de este Decreto, se entenderán referidas a aquellas que asuman tales funciones o atribuciones.
+
+CUARTO. - Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto se cancelan o cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+QUINTO. - A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
+
+SEXTO. - Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
