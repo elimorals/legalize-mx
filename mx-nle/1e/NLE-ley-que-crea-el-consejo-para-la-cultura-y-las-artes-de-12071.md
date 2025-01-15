@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-para-la-cultura-y-las-artes-de-12071"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-07"
-last_updated: "2021-05-28"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de junio de 1995.
 
@@ -47,11 +47,11 @@ La presente Ley es de orden público e interés social y crea el Consejo para la
 
 El Consejo para la Cultura y las Artes de Nuevo León también podrá ser denominado por su abreviatura CONARTE.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2025)</small>
 
 ###### ARTICULO 2o.
 
-El Consejo para la Cultura de Nuevo León tendrá por objeto propiciar y estimular las expresiones artísticas, la cultura popular y las diversas manifestaciones que propendan a la preservación y enriquecimiento de la cultura en Nuevo León; conservar, proteger, restaurar, recuperar y difundir el patrimonio cultural del estado; y promover los valores culturales de la sociedad nuevoleonesa.
+El Consejo para la Cultura de Nuevo León tendrá por objeto propiciar y estimular las expresiones artísticas, la cultura popular y las diversas manifestaciones que propendan a la preservación y enriquecimiento de la cultura en Nuevo León; conservar, proteger, restaurar, recuperar y difundir el patrimonio cultural del estado; y promover los valores culturales de la sociedad nuevoleonesa; así como la erradicación de estereotipos culturales de género que propicien cualquier tipo de violencia contra las mujeres.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2002)</small>
 
@@ -428,3 +428,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Para dar cumplimiento a las obligaciones financieras y económicas emanadas del presente Decreto, durante el ejercicio fiscal presente estas se realizarán acorde a las capacidades financieras del Estado, en los términos de los artículos 13 y 14 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
 
 Para los ejercicios fiscales subsecuentes, se incluirán las partidas que se estimen necesarias en el Presupuesto de Egresos del ejercicio fiscal correspondiente, tomando en cuenta la capacidad financiera del Estado.
+
+P.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 026. SE REFORMA EL ARTÍCULO 2° DE LA LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
