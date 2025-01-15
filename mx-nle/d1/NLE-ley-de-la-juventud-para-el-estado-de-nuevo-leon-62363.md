@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2023-10-25"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,207 +21,237 @@ state: "NLE"
 ---
 # LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
 
-LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2012
+LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 20 de diciembre de 2011.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
-EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+D E C R E T O
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+Núm. 251
 
-D E C R E T O No. LXI-197
+Artículo Único.- La Septuagésima Primer Legislatura crea la Ley de la Juventud para el Estado de Nuevo León, para quedar en los siguientes términos:
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2012.
-
-LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2012.
+LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+###### Artículo 1.
 
-En el ejercicio fiscal para el año 2012, el Gobierno del Estado de Tamaulipas percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Nuevo León y su aplicación corresponde en el ámbito de su competencia al Ejecutivo estatal y los gobiernos municipales.
 
-Miles de pesos
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-I IMPUESTOS 1,361, 792
+Tiene por objeto establecer principios rectores de las políticas públicas que contribuyan al desarrollo integral de los jóvenes, conforme a sus necesidades generales y principalmente garantizar el ejercicio de los derechos de éstos así como impulsar su desarrollo integral.
 
-IMPUESTO SOBRE LOS INGRESOS 28,186
+###### Artículo 2.
 
-Sobre Honorarios 11,779
+Para efectos de esta Ley se entiende por:
 
-Sobre Juegos Permitidos 16,407
+I. Ejecutivo: Al Ejecutivo del Estado de Nuevo León;
 
-IMPUESTO SOBRE EL PATRIMONIO 150,242
+II. Jóvenes: A todas las personas hombres y mujeres comprendidas entre los 12 y 29 años de edad;
 
-Sobre Tenencia o Uso de vehículos 100,000
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-Sobre Actos y Operaciones Civiles 50,242
+III. Joven Trabajador de Primer Empleo: joven trabajador mujer u hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado en forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón;
 
-IMPUESTO SOBRE NÓMINAS Y ASIMILABLES 1, 168,134
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-Sobre Remuneraciones al Trabajo Personal Subordinado 1, 168,134
+IV. Juventud: al conjunto de las y los jóvenes;
 
-ACCESORIOS 15,230
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-Accesorios 15,230
+V. Instituto: al Instituto Estatal de la Juventud del Estado de Nuevo León;
 
-II. DERECHOS 1, 305,464
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-DERECHOS POR PRESTACIÓN DE SERVICIOS 1, 305,464
+VI. Programa: al Programa Estatal de la Juventud;
 
-Servicios Generales 19,221
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-Servicios de Registro 327,600
+VII. Institutos: a los Institutos Municipales o a los órganos encargados de la juventud en los municipios;
 
-Servicios prestados por Autoridades Educativas 5,943
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-Servicios Catastrales 665
+VIII. Derechos de los jóvenes: los reconocidos, en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en que el Estado Mexicano sea parte, en esta Ley y en los demás ordenamientos jurídicos vigentes;
 
-Servicios para el Control Vehicular 725,269
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-Servicios de Prevención y Control de la Contaminación
+IX. Desarrollo Integral: El proceso sistemático económico, social, cultural y político que garantiza el mejoramiento constante del bienestar de toda la población, sobre las bases de la participación activa, libre y significativa en el desarrollo y la distribución justa de los beneficios que dé el deriven; y
 
-del Medio Ambiente 3,316
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2023)</small>
 
-Servicios de Administración y Control del Desarrollo
+X. Trabajo Digno o Decente: Se entiende por trabajo digno o decente aquel en el que se respeta plenamente la dignidad humana del trabajador; en el cual no deberá existir discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil; cuente con acceso a la seguridad social y se percibe un salario remunerador; se reciba capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
 
-Urbano 500
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 16 DE OCTUBRE DE 2023]</small>
 
-De Cooperación 120
+El trabajo digno o decente también incluye el respeto irrestricto a los derechos colectivos de los trabajadores, tales como la libertad de asociación, autonomía, el derecho de huelga y de contratación colectiva.
 
-Servicios Diversos 176,892
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-Servicios prestados por Autoridades de Salud 10,400
+###### Artículo 3.
 
-Accesorios 35,538
+Para garantizar el cumplimiento de los derechos reconocidos a los jóvenes en esta Ley (sic) observarán los siguientes principios:
 
-III PRODUCTOS 104,589
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-PRODUCTO DE TIPO CORRIENTE 104,589
+I. Corresponsabilidad: deberá involucrar a los miembros de la familia, tutores o quienes ejerzan la patria potestad, según el caso, a los jóvenes, al gobierno y a los demás sectores de la sociedad en la resolución de los problemas que aquejan a la juventud;
 
-IV APROVECHAMIENTOS 1,149.729
+II. Equidad: en el acceso y disfrute de los derechos para el desarrollo integral de los jóvenes;
 
-APROVECHAMIENTOS DE TIPO CORRIENTE 1, 149,729
+III. Igualdad: Los jóvenes pueden acceder al desarrollo integral en igualdad de condiciones;
 
-Por Incentivos derivados del Convenio de Colaboración
+IV. Inclusión: las políticas públicas tomarán en cuenta las (sic) diversidad de los grupos que integran al sector de los jóvenes;
 
-Administrativa en materia Fiscal Federal 1,041.928
+V. No discriminación: motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-Impuesto sobre Tenencia o Uso de Vehículos 66,013
+VI. Participación: las políticas públicas en materia de juventud serán diseñadas e implementadas con la participación de este sector;
 
-Impuesto sobre Automóviles Nuevos 128,252
+VII. Respeto: reconocimiento a la diversidad cultural y de pensamiento;
 
-9/11 del IEPS sobre Ventas de Diesel y Gasolina 631.318
+VIII. Solidaridad: deberá fomentarse el apoyo y la colaboración entre los jóvenes y en sus relaciones con otros grupos sociales, con la finalidad de fortalecer los vínculos de unidad y de desarrollo;
 
-Otros Incentivos 216,345
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-Otros Aprovechamientos 50,000
+IX. Transversalidad: que consiste en la elaboración y ejecución de estrategias, programas y acciones coordinadas o conjuntas en materia de juventud, entre dependencias y entidades de la Administración Pública Federal, órganos constitucionales autónomos, órganos con autonomía legal, gobierno del Estado, y de los Municipios, en el ámbito de sus respectivas competencias.
 
-Accesorios 57,801
+En el ejercicio de la transversalidad además del Estado y los Municipios, se buscara la participación de los sectores privado y social;
 
-V PARTICIPACIONES, APORTACIONES Y CONVENIOS 28, 170,837
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-PARTICIPACIONES 12, 153,959
+X. Universalidad: Todos los jóvenes gozan de los mismos derechos. Se buscará invariablemente el beneficio de la generalidad de los jóvenes, sin exclusión ni discriminación alguna motivada por cualquiera de los actos a que se refiere este artículo; y
 
-Fondo General de Participaciones 10, 443,890
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-Fondo de Fomento Municipal 522,739
-
-Impuesto Especial de Producción y Servicios 294,468
-
-Fondo de Compensación del ISAN 80,696
-
-Fondo de Fiscalización 484,780
-
-Fondo de Extracción de Hidrocarburos 327,386
-
-APORTACIONES 14, 401,569
-
-Fondo de Aportaciones Para la Educación Básica
-
-y Normal 8, 837,586
-
-Fondo de Aportaciones Para los Servicios de Salud 2, 087,469
-
-Fondo de Aportaciones Para la Infraestructura Social:
-
-Para la Infraestructura Social Municipal 550,134
-
-Para la Infraestructura Social Estatal 75,872
-
-Fondo de Aportaciones Para el Fortalecimiento
-
-de los Municipios 1, 472,600
-
-Fondo de Aportaciones Múltiples:
-
-Para la Asistencia Social 167,479
-
-Fondo de Aportaciones Para la Educación Tecnológica y de Adultos:
-
-Para la Educación Tecnológica (CONALEP) 125,619
-
-Para la Educación de Adultos (ITEA) 58,912
-
-Fondo de Aportaciones para la Seguridad Pública
-
-de los Estados y del D.F. 271,925
-
-Fondo de Aportaciones para el Fortalecimiento de las
-
-Entidades Federativas 753,973
-
-CONVENIOS 1, 615,309
-
-PROGRAMAS, CONVENIOS Y REASIGNACIONES 1, 615,309
-
-Caminos y Puentes Federales 37,745
-
-Apoyo Federal Universidad Autónoma de Tamaulipas 1, 470,685
-
-Apoyo SEP a ITACE 74,321
-
-Alimentación de Reos Federales 32,558
-
-VI INGRESOS DERIVADOS DE FINANCIAMIENTOS 0
-
-ENDEUDAMIENTO INTERNO 0
-
-TOTAL 32, 092,411
-
-###### ARTÍCULO 2.
-
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, establecerá cuotas de los productos, así como el destino de los mismos; en el caso de organismos públicos descentralizados, se percibirán sus ingresos con base a las autorizaciones efectuadas en términos y condiciones de la ley o decreto de su creación.
-
-###### ARTÍCULO 3.
-
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, queda autorizado para fijar o modificar los aprovechamientos que se cobrarán por el uso o aprovechamiento de bienes de dominio público del Estado.
+XI. Cultura de la Paz: Conjunto de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, tratando de atacar sus causas para solucionar problemas mediante el diálogo y la negociación entre las personas y los grupos sociales.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 4.
+###### Artículo 4.
 
-El Ejecutivo del Estado está facultado para conceder participaciones en multas, recargos, rezagos, cobranzas y sobre el aumento de ingresos, al personal oficial que intervenga en la vigilancia, control, liquidación y recaudación de gravámenes propios del Estado.
+La juventud de Nuevo León tiene las siguientes obligaciones:
+
+I. Respetar y vigilar el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad;
+
+II. Asumir el proceso de su propia formación, a través de la convivencia pacífica, la tolerancia, la democracia y el compromiso social;
+
+III. Actuar con respeto hacia los derechos de las personas, grupos y segmentos de la sociedad a través de la cultura de la paz, la tolerancia, la democracia y el compromiso social;
+
+IV. Procurar y promover el cuidado y protección de los espacios públicos;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+V. Procurar y promover las acciones necesarias para el mejoramiento de las condiciones de vida en la entidad;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VI. Participar y procurar mantenerse informada de la toma de decisiones del Instituto y de instancias correspondientes que involucren temas de juventud; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+
+VII. Colaborar, participar e involucrarse en las acciones de desarrollo sostenible que promueva el Instituto de la juventud y las diversas autoridades gubernamentales.
 
 ### CAPÍTULO III. DE LOS DERECHOS DE LOS JÓVENES
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 5.
+###### Artículo 5.
 
-Se faculta al Ejecutivo del Estado para que, por conducto de la Secretaría de Finanzas, conceda reducciones en los accesorios causados de las contribuciones estatales.
+Los derechos y garantías de los jóvenes, son inherentes a la condición de persona, y por consiguiente, son de orden público, indivisibles e irrenunciables. Los jóvenes gozarán, sin restricción alguna, del derecho a la protección efectiva del Estado para el ejercicio y defensa de los derechos consagrados en esta Ley, así como los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Nuevo León, Tratados Internacionales de los que México sea parte, leyes, reglamentos y demás ordenamientos jurídicos vigentes.
 
-###### ARTÍCULO 6.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-En los casos de prórroga para el pago de créditos fiscales, se causarán recargos al 1.8% mensual sobre saldos insolutos durante el año de 2012.
+###### Artículo 6.
+
+La presente Ley establece de manera enunciativa y no limitativa los derechos de la juventud que deberán estar garantizados por el Estado y las Dependencias competentes a las que se refiere este ordenamiento, siendo los siguientes:
+
+l. El derecho a la vida;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+I Bis. Derecho a ejercer su libre pensamiento y albedrio en relación de su proyecto de vida, cuando no se contraponga con cualquier otro ordenamiento legal, así como cualquier obligación legal que tengan los padres, madres o quien tenga la guardia y custodia legal de los menores.
+
+II. El derecho a la no discriminación;
+
+III. El derecho a vivir en condiciones de bienestar y a un desarrollo psicofísico;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+IV. El derecho a ser protegido en su integridad y libertad, contra el maltrato físico, psicológico, abuso o violencia sexual;
+
+V. El derecho a la salud y a la asistencia social;
+
+VI. El derecho a la educación;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2023)</small>
+
+VII. El derecho a un trabajo digno o decente y un salario justo e igualitario;
+
+VIII. El derecho al descanso y tiempo de esparcimiento;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IX. El derecho a la libertad de pensamiento, opinión, creencias y a una cultura propia;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+X. El derecho a la participación política y social en la toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+X Bis. Derecho a ser escuchado y tomado en cuenta en la toma de decisiones;
+
+XI. El derecho al bienestar social;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XII. El derecho de acceso a la información;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIII. El derecho a la libre asociación y organización juvenil;
+
+XIV. El derecho de acceso y disfrute de los servicios y beneficios socio-económicos, políticos, culturales, informativos, de desarrollo y de convivencia que les permitan construir una vida Plena en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XV. El derecho de Acceso a la procuración e impartición de Justicia.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVI. El derecho a contar con espacios públicos para ser utilizados en el desarrollo integral de los jóvenes;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVII. El derecho al honor, intimidad y propia imagen;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVIII. El Derecho a formar parte de una familia;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIX. El derecho de igualdad de género;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XX. El Derecho de libertad de expresión;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XXI. El Derecho de cultura y deporte;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XXII. Los demás que señale esta Ley y otros ordenamientos.
 
 ###### Artículo 7.
 
@@ -278,6 +308,12 @@ En los programas educativos se debe dar especial énfasis a la información y pr
 ###### Artículo 12.
 
 La educación tenderá a desarrollar armónicamente todas las facultades del ser humano, el fomento al aprendizaje e impulso a la investigación de conocimientos científicos y tecnológicos, motivando a la juventud para lageneración (sic) de proyectos que aporten un mejor desarrollo del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 12 Bis.
+
+El Ejecutivo del Estado, promoverá a través de convenios de colaboración con instituciones y organismos de los sectores público y privado, así como con el apoyo de los municipios, el otorgamiento de becas y programas de apoyo a las personas jóvenes del Estado que, encontrándose en situación de alta vulnerabilidad, quieran iniciar o retomar sus estudios en el nivel medio superior y superior.
 
 ###### Artículo 13.
 
@@ -371,9 +407,9 @@ Las políticas y programas de fomento a la salud, tendrán por objeto:
 
 I. Garantizar la atención médica para todos los jóvenes a través de los organismos correspondientes, creando programas especiales para aquellos que no sean derechohabientes, y se encuentren en condiciones de vulnerabilidad, con problemas de alcoholismo, fármacodependencia, problemas psicológicos e infecciones de transmisión sexual;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-II. Promover campañas de prevención de adicciones, de orientación de salud sexual y reproductiva, detección oportuna de enfermedades y la eliminación del abuso o violencia sexual;
+II. Promover campañas de prevención de adicciones, de orientación de salud sexual y reproductiva, incluyendo información sobre embarazos no planeados, no deseados o en condiciones de riesgo, detección oportuna de enfermedades y la eliminación del abuso o violencia sexual;
 
 III. Fomentar prácticas de autocuidado enfocadas a la prevención de enfermedades;
 
@@ -383,21 +419,29 @@ V. Promover el establecimiento de unidades especializadas de atención a la viol
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
 
-VI.- Promover en general la atención integral de la salud;
+VI. Promover en general la atención integral de la salud;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VII.- Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia; y
+VII. Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VIII.- Fomentar el acceso a programas de orientación, atención psicológica y prevención del suicidio, con la finalidad de evitar este tipo de conductas; además de canalizar a quien lo requiera a la Secretaría de Salud para recibir tratamiento necesario.
+VIII. Fomentar el acceso a programas de orientación, atención psicológica y prevención del suicidio, con la finalidad de evitar este tipo de conductas; además de canalizar a quien lo requiera a la Secretaría de Salud para recibir tratamiento necesario;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+IX. Promover campañas relacionadas a la difusión y fortalecimiento de la salud mental; y
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+X. Promover que en los centros de salud públicos se entreguen de manera gratuita preservativos y anticonceptivos; que se diseñen e impartan cursos de salud sexual y reproductiva y las consecuencias y riesgos de los embarazos no planeados, no deseados o en condiciones de riesgo.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 16.
 
-El Ejecutivo promoverá y establecerá a través del Instituto y las instancias correspondientes, políticas y mecanismos que garanticen el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, entre otras; con la finalidad de formar una juventud más responsable.
+Ejecutivo promoverá y establecerá a través del Instituto y las instancias correspondientes, políticas y mecanismos que garanticen el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, salud mental, embarazos no planeados, no deseados o en condiciones de riesgo, entre otras; con la finalidad de formar una juventud más responsable.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -455,9 +499,11 @@ Los jóvenes tienen derecho a recibir, analizar, sistematizar y difundir informa
 
 Los jóvenes tienen el derecho a ser informados debidamente en materia de sexualidad; los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
 ###### Artículo 25.
 
-Los jóvenes tienen el derecho a ser informados debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
+Los jóvenes tienen el derecho a ser informados debidamente acerca de los efectos y daños irreversibles a la salud física y mental que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
 
 ###### Artículo 26.
 
@@ -521,7 +567,9 @@ I. Ser protegidos de los riesgos de la calle y recibir la atención y orientaci�
 
 II. Recibir orientación de las instituciones públicas o privadas que atienda esta problemática, para solucionar sus problemas de sobrevivencia, seguridad personal y, salvaguarda de sus derechos que rebasen sus capacidades propias de solución;
 
-III. Tener acceso a los servicios de educación y a la capacitación para el trabajo;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+III. Tener acceso, al ingreso, reingreso y la permanencia a los servicios de educación, y a la capacitación para el trabajo;
 
 IV. Recibir información y orientación para la protección de sus derechos;
 
@@ -565,11 +613,29 @@ Las jóvenes en estado de embarazo tendrán derecho a asistir a la escuela y no 
 
 Asimismo, se les otorgará la información necesaria para evitar subsecuentes embarazos no deseados, mediante las medidas preventivas que le resulten más convenientes facilitándoles el acceso a ellas.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO III BIS. ACCIONES PARA CONTRARRESTAR LA DESERCIÓN ESCOLAR DE LOS JÓVENES EN SITUACIÓN DE VULNERABILIDAD
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+
+###### Artículo 34 Bis.
+
+Para contrarrestar la deserción escolar de los jóvenes en situación de vulnerabilidad, el Estado establecerá acciones específicas en coordinación con el Instituto de la Juventud, la Secretaría de Educación y la Secretaría de Igualdad e Inclusión, así como con los municipios y las instancias correspondientes, en las que se deberán observar los siguientes aspectos:
+
+I. Se buscará la implementación de programas que garanticen el acceso, el reingreso y la permanencia en el sistema educativo en el Estado, enfocados a contrarrestar el analfabetismo y erradicar la deserción escolar;
+
+II. Canalizar la situación de cada joven, para que se otorguen los apoyos a los requerimientos específicos de aquellos que desertaron del sistema educativo y que se encuentren en desventaja social, para establecer una política de reingreso y que se garantice su permanencia;
+
+III. Acciones tendientes a contrarrestar desventaja social, como pobreza, indigencia, marginación, situación de calle, analfabetismo, discapacidad, exclusión social y étnica de los jóvenes que desertaron del sistema educativo;
+
+IV. Para las familias de los jóvenes que por cuestión económica hayan desertado de sus estudios, y que se encuentren en aquellas localidades aisladas y zonas urbanas, identificadas con alta vulnerabilidad, el Estado llevará a cabo las acciones de atención y asistencia personalizada, en relación a asistencia jurídica, económica, social, médica, psicológica, educativa, laboral y cualquier otro aspecto que mejore su calidad de vida y puedan permanecer activos en el sistema educativo; y
+
+V. Las demás actividades que permitan ampliar la calidad y la cobertura de las acciones y programas que ayuden a contrarrestar la deserción escolar en los jóvenes en situación de vulnerabilidad.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ### CAPÍTULO IV. DE LAS POLÍTICAS DE PROMOCIÓN DE LA EQUIDAD Y DE LA CULTURA DE LA PAZ
-
-### CAPÍTULO V. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
 ###### Artículo 35.
 
@@ -601,9 +667,7 @@ IV. El reconocimiento de la dignidad humana y el valor inherente a los derechos 
 
 V. Promover mecanismos de resolución de controversias mediante negociación y mediación ante alguna problemática social.
 
-### CAPÍTULO VI. DE LOS INSTITUTOS MUNICIPALES DE LA JUVENTUD
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO V. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
 ###### Artículo 36.
 
@@ -645,9 +709,9 @@ e) Fomentar la no discriminación de las y los jóvenes en áreas laborales.
 
 VII. Sistema de becas e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de los jóvenes;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-VIII. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para la juventud, como las adicciones, VIH/SIDA, infecciones de transmisión sexual, nutrición y salud pública y comunitaria;
+VIII. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para la juventud, como las adicciones, VIH/SIDA, infecciones de transmisión sexual, nutrición, salud mental y salud pública y comunitaria;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -669,9 +733,9 @@ XIII Bis. Mecanismos para que los jóvenes reciban a través de servidores públ
 
 XIV. Acciones afirmativas para los sectores de los jóvenes en zonas de marginación socioeconómica rural o urbana y de atención prioritaria, así como en desventaja social;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2025)</small>
 
-XIV Bis. Mecanismos para impulsar la inclusión y continuidad en la educación a los jóvenes de atención prioritaria, en desventaja social, en zonas de marginación socioeconómica, así como a la juventud migrante.
+XIV Bis. Mecanismos para impulsar la inclusión y continuidad en la educación a los jóvenes de atención prioritaria, en desventaja social, en zonas de marginación socioeconómica, en donde exista la presencia de grupos vulnerables, entendiéndose estos como las y los pertenecientes a pueblos y comunidades indígenas, y afromexicanas, así como a la juventud migrante.
 
 XV. Definición e implementación de programas y proyectos juveniles que incluyan las verdaderas aspiraciones, intereses y prioridades de los jóvenes del Estado;
 
@@ -679,17 +743,25 @@ XVI. Acciones que impulsen la organización juvenil autónoma, democrática y co
 
 XVII. La creación, promoción y apoyo de un sistema de información que permita a los jóvenes del Estado obtener, procesar, intercambiar y difundir información actualizada de interés para los entornos juveniles;
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2025)</small>
+
+Para cumplir con lo establecido en el párrafo anterior, se podrá hacer uso del Sistema de Radio y Televisión de Nuevo León para que a través de este se difunda información con el objetivo de fomentar los conocimientos necesarios para el desarrollo integral, educativo, cultural y de conocimiento de los derechos de las y los Jóvenes.
+
 (REFORMADA, P.O. 14 DE DICIEMBRE DE 2015) (F. DE E., P.O. 18 DE ENERO DE 2016)
 
 XVIII. Programas, acciones y mecanismos para que los jóvenes con discapacidad puedan llegar a ser autosuficientes, cuyo objetivo sea su participación activa en la comunidad y a la vez garanticen el impulso de sus proyectos innovadores y emprendedores;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XIX. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia; y
+XIX. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023)</small>
 
-XX. Todos los demás contemplados por esta Ley y que sean necesarios para el desarrollo y bienestar de la juventud.
+XX. Acciones para contrarrestar la deserción escolar de los jóvenes en situación de vulnerabilidad, las que deberán ajustarse a lo establecido en el artículo 34 BIS de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE OCTUBRE DE 2023)</small>
+
+XXI. Todos los demás contemplados por esta Ley y que sean necesarios para el desarrollo y bienestar de la juventud.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -715,9 +787,9 @@ Todos los programas, acciones y actividades implementadas por las instancias gub
 
 El Instituto deberá realizar la elaboración, evaluación y actualización del Programa Estatal de Juventud cada tres años, debiéndose publicar en el Periódico Oficial del Estado.
 
-### CAPÍTULO VII. DE LAS SANCIONES
+### CAPÍTULO VI. DE LOS INSTITUTOS MUNICIPALES DE LA JUVENTUD
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 38.
 
@@ -735,23 +807,53 @@ Los municipios podrán crear Consejos Juveniles Municipales de carácter honorí
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
+### CAPÍTULO VII. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 40.
 
 El incumplimiento de esta Ley será sancionado de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y la reglamentación aplicable.
 
 ## TRANSITORIO
 
-###### ARTÍCULO ÚNICO.
+Artículo Único.- La presente Ley entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2012.
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado. Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los veinticinco días del mes de junio de 2008.
 
-SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 14 de diciembre del año 2011.- DIPUTADO PRESIDENTE.- DANIEL SAMPAYO SÁNCHEZ.- Rúbrica.- DIPUTADA SECRETARIA.- ROSA ICELA ARIZOCA.- Rúbrica.- DIPUTADO SECRETARIO.- JOSÉ RAMÓN GÓMEZ LEAL.- Rúbrica."
+PRESIDENTA: DIP. JUANA AURORA CAVAZOS CAVAZOS; DIP. SECRETARIO: NOÉ TORRES MATA; DIP. SECRETARIA: LAURA PAULA LÓPEZ SÁNCHEZ.- Rúbricas.-
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los 01 días del mes de julio del año 2008.
 
-Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los quince días del mes de diciembre del año dos mil once.
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+JOSÉ NATIVIDAD GONZÁLEZ PARÁS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León, en un plazo de noventa días naturales contados desde el día de la entrada en vigor del presente Decreto.
+
+P.O. 27 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 021. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
 
@@ -820,3 +922,29 @@ P.O. 16 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 433. SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 6, SE ADICIONAN LA FRACCIÓN X AL ARTÍCULO 2 Y EL ARTÍCULO 28 BIS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 428. SE REFORMAN LAS FRACCIONES II, VII, VIII DEL ARTÍCULO 15, LOS ARTÍCULOS 16, 25 Y 37; Y SE ADICIONA LAS FRACCIONES IX Y X AL ARTÍCULO 15, TODOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX DEL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 430. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 31, LAS FRACCIONES XIX Y XX DEL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO III BIS DENOMINADO “ACCIONES PARA CONTRARRESTAR LA DESERCIÓN ESCOLAR DE LOS JÓVENES EN SITUACIÓN DE VULNERABILIDAD”; MISMO QUE CONTIENE UN ARTÍCULO 34 BIS; UNA FRACCIÓN XXI AL ARTÍCULO 37, TODOS A LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+Segundo: Para el cumplimiento del presente decreto, se realizará de acuerdo con la capacidad presupuestal del Poder Ejecutivo al momento de su aprobación.
+
+P.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 024. SE ADICIONA UN ARTÍCULO 12 BIS A LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 027. SE REFORMA LA FRACCIÓN XIV BIS Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVII AMBOS DEL ARTÍCULO 37 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación.
