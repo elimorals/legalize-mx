@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "2022-03-28"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -47,11 +47,11 @@ Las disposiciones de esta Ley, son de orden público e interés social y tienen 
 
 El Gobierno Estatal y los Ayuntamientos deben considerar dentro de sus planes, programas y presupuestos, las acciones y recursos para el desarrollo de las actividades deportivas.
 
-> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2025)</small>
 
 ###### Artículo 2 Bis.
 
-Se entiende por Deporte, la práctica de actividades físicas e intelectuales que los habitantes del Estado de Nuevo León, de manera individual o en conjunto, realizan con propósitos competitivos o de esparcimiento en apego a su reglamentación, con la finalidad de desarrollar las aptitudes del individuo.
+Se entiende por Deporte, la práctica de actividades físicas e intelectuales que los habitantes del Estado de Nuevo León, de manera individual o en conjunto, organizada o no, profesional o no, realizadas en instalaciones públicas o privadas, o en el medio natural, (sic) realizan con propósitos competitivos o de esparcimiento en apego a su reglamentación, con la finalidad de desarrollar (sic) en el individuo.
 
 > <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1996)</small>
 
@@ -62,6 +62,38 @@ La Función Social del Deporte es la de fortalecer la interacción e integració
 ###### Artículo 3o.
 
 El Sistema Estatal del Deporte está constituído por las acciones, recursos y procedimientos que se destinan a impulsar, fomentar y desarrollar el deporte en el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2025)</small>
+
+###### Artículo 3 Bis.
+
+El ejercicio y desarrollo del derecho a la cultura física y del deporte tienen como base los siguientes principios:
+
+I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
+
+II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
+
+III. El derecho a la cultura física y al deporte constituye un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
+
+IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad púbica (sic) en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
+
+V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+
+VI. Para el desarrollo de la cultura física y la práctica del de porte (sic) es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permiten desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
+
+VII. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y deporte;
+
+VIII. Las instituciones deportivas públicas y privadas deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
+
+IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos de Nuevo León;
+
+X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+XII. Fomentar actitudes solidarias, propiciar la cultura de la paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones; y
+
+XIII. La igualdad sustantiva entre mujeres y hombres y la no discriminación en razón de género.
 
 ###### Artículo 4o.
 
@@ -153,13 +185,17 @@ I.- Planear y determinar sus necesidades en materia deportiva y los medios para 
 
 II.- Determinar y otorgar los estímulos y apoyos para la organización, el desarrollo y fomento de la actividad deportiva;
 
-> <small>(REFORMADA, P. O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2025)</small>
 
-III.- Promover y apoyar a los organismos locales que desarrollen actividades deportivas e incorporarlos al Sistema Estatal del Deporte y
+III.- Promover y apoyar a los organismos locales que desarrollen actividades deportivas e incorporarlos al Sistema Estatal del Deporte;
 
-> <small>(ADICIONADA, P. O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2025)</small>
 
-IV.- La promoción de programas que desarrollen la práctica del deporte y el derecho a la cultura física que tienen todas las personas en los diferentes municipios del Estado.
+IV.- La promoción de programas que desarrollen la práctica del deporte y el derecho a la cultura física que t (sic) tienen todas las personas en los diferentes municipios del Estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2025)</small>
+
+V.- Promover, formular y ejecutar políticas para garantizar la participación en igualdad de condiciones entre mujeres y hombres que fomenten actividades físicas y deportivas.
 
 ###### Artículo 17.
 
@@ -377,13 +413,17 @@ XI.- Recibir toda clase de becas, reconocimientos y recompensa de cualquier índ
 
 XII.- Contar con un seguro de vida y gastos médicos cuando se represente a la Entidad en competencias oficiales, de acuerdo con la disponibilidad presupuestal;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2025)</small>
 
-XIII.- Recibir los recursos económicos y materiales necesarios cuando se represente a la Entidad en competencias oficiales, de acuerdo con la disponibilidad presupuestal; y
+XIII.- Recibir los recursos económicos y materiales necesarios cuando se represente a la Entidad en competencias oficiales, de acuerdo con la disponibilidad presupuestal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2025)</small>
 
-XIV.- Los demás que le otorgue esta Ley u otros ordenamientos legales.
+XIV.- El acceso, la igualdad de trato y oportunidades en la práctica deportiva sin violencia, discriminación alguna por razón de sexo, edad, discapacidad, salud, orientación sexual, características sexuales, nacionalidad, origen racial o étnico, religión o creencias, o cualquier otra condición o circunstancia personal o social, en condiciones adecuadas de seguridad y salud, en los términos de la legislación vigente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ENERO DE 2025)</small>
+
+XV.- Los demás que le otorgue esta Ley u otros ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
 
@@ -776,3 +816,11 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 107. SE TIENE POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO 288 DE FECHA 28 DE ABRIL DE 2020 DE LA LXXV LEGISLATURA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 023. SE REFORMAN EL ARTÍCULO 2 BIS, LAS FRACCIONES III Y IV DEL ARTÍCULO 16, LA FRACCIÓN XIII DEL ARTÍCULO 39; SE ADICIONAN UN ARTÍCULO 3 BIS, UNA FRACCIÓN V AL ARTÍCULO 16, Y LAS FRACCIONES XIV Y XV AL ARTÍCULO 39 DE LA LEY ESTATAL DEL DEPORTE".]
+
+Primero.- El presente Decreto entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los municipios contarán con un plazo de 90 días hábiles para realizar las adecuaciones a sus respectivos reglamentos correspondientes al presente Decreto.
