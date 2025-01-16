@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2024-12-20"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -463,7 +463,19 @@ XXXVIII. Efectuar la evaluación del cumplimiento de obligaciones de responsabil
 
 XXXIX. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
-XL. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XL. Crear, administrar, controlar, y actualizar el Padrón de Maquinaria Pesada, conforme a los lineamientos que como mínimo contendrán:
+
+a) Especificaciones y características sobre los tipos de maquinaria pesada que deberán ser inscritas en el Padrón;
+
+b) Requisitos y documentos que deberán presentar los propietarios para inscribir la maquinaria pesada en el Padrón; y
+
+c) Disposiciones relativas a la obligación, por parte de los propietarios, de inscribir en un lugar visible, la razón social de la empresa y el número de inscripción en el Padrón.
+
+Los lineamentos deberán ser públicos aplicando las disposiciones legales vigentes; y
+
+XLI. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección IV. De la Secretaría de Administración
 
@@ -1191,9 +1203,15 @@ XIII. Integrar y mantener actualizados los catálogos de conceptos, especificaci
 
 XIV. Proponer normas y lineamientos en material de financiamiento privado, total o parcial, y su pago, para la realización de las obras públicas estatales;
 
-XV. Llevar y mantener actualizado el Padrón de Contratistas de Obras Públicas del Estado y fijar los criterios y procedimientos para clasificar las personas inscritas en el mismo; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-XVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XV. Llevar y mantener actualizado el Padrón de Contratistas de Obras Públicas de (sic) Estado y fijar los criterios y procedimientos para clasificar las personas inscritas en el mismo;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XVI. Celebrar convenios, en coordinación con la Secretaría de Finanzas, con los colegios y asociaciones civiles integradas por propietarios de maquinaria pesada, para la inscripción en el padrón de unidades, así como para la organización y operación de medidas preventivas que garanticen la seguridad; y
+
+XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XVI. De la Secretaría de Seguridad Pública
 
@@ -1694,3 +1712,23 @@ P.O. 20 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-116 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
 
 PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2025.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-230 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas, la Secretaría de Obras Públicas y la Secretaría de Seguridad Pública deberán realizar las adecuaciones administrativas y normativas necesarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán sujetarse los propietarios para quedar inscritos en el Padrón de Maquinaria Pesada Destinada o de Uso para la Construcción, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
