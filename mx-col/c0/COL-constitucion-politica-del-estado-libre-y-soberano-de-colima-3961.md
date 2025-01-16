@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2025-01-14"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "COL"
 
 [NOTA 2: EL DECRETO NÚMERO 439, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2017, REORDENA Y CONSOLIDA DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2025.]</small>
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2341,13 +2341,15 @@ El Instituto agrupará para su desempeño, en forma integral y directa, además 
 
 El instituto realizará el cómputo de cada elección; otorgará constancias de mayoría a las candidaturas que hayan obtenido el triunfo; declarará la validez de las elecciones de diputaciones de mayoría relativa y, ayuntamientos; y hará la declaratoria de validez y la asignación de diputaciones y regidurías según el principio de representación proporcional. Asimismo, efectuará los cómputos de la elección de los cargos del Poder Judicial, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado, quien resolverá las impugnaciones.
 
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2025)</small>
+
 El Instituto podrá convenir con el Instituto Nacional Electoral que éste se haga cargo de la organización de los procesos electorales locales.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 18 DE MAYO DE 2019) (F. DE E., P.O. 16 DE ENERO DE 2025)
 
 El Instituto tendrá a su cargo, además, la realización del plebiscito, referéndum y consulta para la revocación de mandato, en los términos de la Ley respectiva.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 16 DE ENERO DE 2025)
 
 La fiscalización de las finanzas de los partidos políticos estará a cargo de una comisión de consejerías electorales. La ley regulará la integración y funcionamiento de dicha comisión, así como las bases de coordinación con el Instituto Nacional Electoral en la materia, así como los procedimientos para la aplicación de sanciones por el incumplimiento de las disposiciones legales de la materia.
 
