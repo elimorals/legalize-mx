@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2024-12-16"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -583,15 +583,21 @@ XI. Comprobante de la última declaración del Impuesto Sobre la Renta;
 
 XII. Comprobante de pago de los derechos que establezca la ley respectiva; así como los documentos que comprueben el no adeudo del contratista interesado, con el Instituto Mexicano del Seguro Social (IMSS);
 
-XIII. Cédula Profesional del responsable técnico; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+XIII. Cédula Profesional del responsable técnico;
 
-XIV. Manifestación del domicilio para oír y recibir notificaciones en la capital del Estado, cuando el domicilio fiscal se encuentre fuera de la jurisdicción territorial de Tamaulipas; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XIV. Manifestación del domicilio para oír y recibir notificaciones en la capital del Estado, cuando el domicilio fiscal se encuentre fuera de la jurisdicción territorial de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XV. Comprobante de inscripción o refrendo en el Padrón de Maquinaria Pesada; y
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
 
-XV. Documentos que comprueben el no adeudo del contratista interesado, con el Servicio de Administración Tributaria (SAT).
+XVI. Documentos que comprueben el no adeudo del contratista interesado, con el Servicio de Administración Tributaria (SAT).
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -1722,5 +1728,25 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Para dar cumplimiento al presente Decreto la Secretaría de Finanzas y la Secretaría de Obras Públicas deberán realizar las modificaciones administrativas y reglamentarias necesarias, en un término no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-230 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas, la Secretaría de Obras Públicas y la Secretaría de Seguridad Pública deberán realizar las adecuaciones administrativas y normativas necesarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán sujetarse los propietarios para quedar inscritos en el Padrón de Maquinaria Pesada Destinada o de Uso para la Construcción, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones normativas que se opongan al presente Decreto.
