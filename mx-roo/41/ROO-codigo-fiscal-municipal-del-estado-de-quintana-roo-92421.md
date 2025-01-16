@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-del-estado-de-quintana-roo-92421"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-01-15"
-last_updated: "2024-12-16"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de enero de 2013.
 
@@ -565,9 +565,11 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 Son facultades y atribuciones de las autoridades fiscales enunciadas en las fracciones I II, III, V y VI del artículo 5 del presente Código, certificar, en su caso, bajo su estricta responsabilidad documentos, copias o fotocopias de otras u otros que obren en los archivos de las áreas administrativas a su cargo, siempre y cuando medie solicitud legítima ose requieran para las actividades o controles inherentes a la Administración Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
+
 ###### Artículo 32.
 
-A los Presidentes Municipales compete, por sí o a través de la Tesorería Municipal, el ejercicio de las siguientes facultades:
+A las personas Titulares de las Presidencias Municipales les compete, por sí o a través de la Tesorería Municipal, el ejercicio de las siguientes facultades:
 
 I. Ejecutar las leyes, decretos fiscales de naturaleza municipal que expida el Congreso del Estado o el Ejecutivo Estatal, así como los Convenios de Colaboración Administrativa en Materia Fiscal y proveer en la esfera administrativa a su exacta observancia;
 
@@ -580,6 +582,10 @@ IV. Crear nuevas unidades administrativas, cambiar el lugar de residencia de las
 V. Condonar hasta el 100% de los recargos, siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las Leyes Fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso;
 
 No se dará curso a ninguna instancia de condonación después de transcurridos quince días hábiles contados a partir de la fecha en que hubiere quedado firme la resolución que impuso la multa, salvo que por pruebas diversas a las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o la persona a la que se atribuye no es la responsable, caso en el cual procederá revocar el acto administrativo que dio origen a la multa;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+V Bis. Autorizar la compensación de contribuciones o créditos fiscales que tenga el contribuyente cuando se trate del pago de indemnización por expropiación, ocupación temporal y limitación de dominio de la propiedad privada.
 
 VI. Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deban y su forma de pago, siempre que impere una situación económica que les impida cubrir la totalidad de los créditos fiscales y que con tales convenios, no se perjudique el desarrollo y mejoramiento económico y social del Municipio, siempre y cuando el término para el pago a plazos de dichos convenios no exceda de veinticuatro mensualidades;
 
@@ -2226,3 +2232,15 @@ P.O. 16 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 090 POR EL QUE SE EXPIDE LA LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DE DOMINIO DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Expropiación del Estado de Quintana Roo, expedida mediante Decreto Número 017 publicada en el Periódico Oficial del Estado de Quintana Roo el treinta de noviembre de mil novecientos setenta y ocho.
+
+TERCERO. Todos los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto y que aún se encuentren en trámite, concluirán su procedimiento de conformidad con la Ley de Expropiación vigente al momento de su inicio.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
