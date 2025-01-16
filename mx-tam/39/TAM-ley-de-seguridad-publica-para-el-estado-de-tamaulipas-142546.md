@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2024-05-28"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -599,11 +599,15 @@ XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividade
 
 XXIX.- Apoyar a la Dirección de Tránsito Estatal, cuando así lo solicite, en la vigilancia y verificación de los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso;
 
-XXX.- Coadyuvar con las demás autoridades estatales cuando sea formalmente requerido para brindar el apoyo de la fuerza pública en sus funciones de vigilancia, verificación e inspección en materia de protección civil, sanitaria y fiscal, cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares;
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
 
-XXXI.- Colaborar en auxilio de cualquier autoridad que se los requiera formalmente, tratándose de tareas propias de salvaguarda de periodistas, defensores de derechos humanos, grupos vulnerables o de víctimas que se encuentren amenazadas o en situación de desplazamiento de su lugar de residencia, por causa del delito cometido contra ellas o de la violación de sus derechos humanos; y
+XXX.- Vigilar y verificar que la maquinaria pesada que opera en el Estado y sus municipios, cuenten con la inscripción o refrendo en el Padrón de Maquinaria Pesada, expedido por la Secretaría de Finanzas;
 
-XXXII.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+XXXI.- Coadyuvar con las demás autoridades estatales cuando sea formalmente requerido para brindar el apoyo de la fuerza pública en sus funciones de vigilancia, verificación e inspección en materia de protección civil, sanitaria y fiscal, cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares;
+
+XXXII.- Colaborar en auxilio de cualquier autoridad que se los requiera formalmente, tratándose de tareas propias de salvaguarda de periodistas, defensores de derechos humanos, grupos vulnerables o de víctimas que se encuentren amenazadas o en situación de desplazamiento de su lugar de residencia, por causa del delito cometido contra ellas o de la violación de sus derechos humanos; y
+
+XXXIII.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
 
 ### CAPÍTULO IV. DE LA POLICÍA AUXILIAR
 
@@ -2516,3 +2520,23 @@ En un plazo no mayor a sesenta días naturales, contados a partir de la entrada 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-230 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas, la Secretaría de Obras Públicas y la Secretaría de Seguridad Pública deberán realizar las adecuaciones administrativas y normativas necesarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán sujetarse los propietarios para quedar inscritos en el Padrón de Maquinaria Pesada Destinada o de Uso para la Construcción, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
