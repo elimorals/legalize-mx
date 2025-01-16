@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2023-06-08"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -57,7 +57,9 @@ Esta Ley reglamenta lo dispuesto por la Constitución Política de los Estados U
 
 I. Los derechos y obligaciones político-electorales de los ciudadanos y las ciudadanas del Estado;
 
-II. Los procesos electorales y la función estatal de organizarlos para renovar integrantes de los Poderes Ejecutivo y Legislativo del Estado así como sus Ayuntamientos y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+II. Los procesos electorales y la función estatal de organizarlos para renovar integrantes de los Poderes Ejecutivo, Legislativo y Judicial del Estado, así como sus Ayuntamientos; y
 
 III. La organización, funcionamiento y competencia del IETAM.
 
@@ -85,9 +87,9 @@ II. Actos Anticipados de Precampaña: las expresiones que se realicen bajo cualq
 
 III. Candidato o candidata: el ciudadano o la ciudadana postulados directamente por un partido político o coalición, para ocupar un cargo de elección popular;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-IV. Candidatos o candidatas: a quienes se refieren las fracciones III y V, del presente artículo;
+IV. Candidatos o candidatas: a quienes se refieren las fracciones III, V, V Bis y V Ter del presente artículo;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -96,6 +98,10 @@ V. Candidato o candidata independiente: el ciudadano o la ciudadana que obtenga,
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2023)</small>
 
 V Bis. Candidata o Candidato Migrante: es la persona con ciudadanía tamaulipeca y residencia binacional, que cumpliendo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Ley de Nacionalidad, la Constitución Política del Estado, la presente Ley, y demás disposiciones que resulten aplicables, pretende ocupar el cargo de Diputada o Diputado;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+V Ter. Personas candidatas juzgadoras: personas candidatas a los cargos de magistradas y magistrados del Pleno del Supremo Tribunal de Justicia de número; magistratura supernumeraria; magistradas y magistrados regionales; juezas y jueces de primera instancia, juezas y jueces menores; y magistradas y magistrados del Tribunal de Disciplina Judicial del Poder Judicial del Estado, electas por mayoría relativa y voto directo de la ciudadanía;
 
 VI. Casilla: la mesa directiva de casilla;
 
@@ -161,6 +167,10 @@ XXV. Partidos: los partidos políticos estatales y nacionales;
 
 XXV bis. Paridad de género: igualdad política entre mujeres y hombres. Se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular;
 
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XXV Ter. Personas juzgadoras: personas magistradas y magistrados del Pleno del Supremo Tribunal de Justicia de número; magistratura supernumeraria; magistradas y magistrados regionales; juezas y jueces de primera instancia; juezas y jueces menores; y magistradas y magistrados del Tribunal de Disciplina Judicial del Poder Judicial del Estado, electas por mayoría relativa y voto directo de la ciudadanía;
+
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
 XXVI. Precandidato o precandidata: es el ciudadano o la ciudadana que se registra como tal porque pretende postularse por un partido político para una candidatura a cargo de elección popular, conforme a esta Ley y a los estatutos de un partido político, en el proceso de selección interna de candidatos o candidatas a cargos de elección popular;
@@ -205,19 +215,31 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley
 
 ### CAPÍTULO I. Derechos
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>[N. DE E. DEL ANALISÍS AL DECRETO NÚMERO 66-228, PÁGINA 19 PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2025, SE ADVIERTE QUE DEROGA LOS PÁRRAFOS SÉPTIMO, OCTAVO Y NOVENO, SIN EMBARGO, EL PRESENTE ARTÍCULO SÓLO CONTIENE SEIS PÁRRAFOS.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 5.
 
-Votar en las elecciones constituye un derecho y una obligación de los ciudadanos y ciudadanas del Estado, que tiene como objetivo elegir a quienes integren los Poderes Ejecutivo y Legislativo, así como de los Ayuntamientos.
+Votar en las elecciones constituye un derecho y una obligación de los ciudadanos y ciudadanas del Estado, que tiene como objetivo elegir a quienes integren los Poderes Ejecutivo, Legislativo y Judicial, así como de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción al electorado.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 Es derecho de los ciudadanos y las ciudadanas, y obligación para los partidos políticos, la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a las candidaturas de elección popular.
 
-Es derecho de los ciudadanos y ciudadanas postularse a candidaturas y ser votado o votada para todos los puestos de elección popular, a través de un partido político o de manera independiente, teniendo las calidades que establecen la Constitución General de la República, la del Estado y esta Ley.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Es derecho de los ciudadanos y ciudadanas postularse a candidaturas y ser votado o votada para todos los puestos de elección popular, a través de un partido político o de manera independiente, así como para ser candidata o candidato juzgador, teniendo las calidades que establecen la Constitución General de la República, la del Estado y esta Ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 Es derecho y obligación de los ciudadanos y ciudadanas votar en las consultas populares sobre temas de trascendencia y en los procesos de participación ciudadana, en los términos que determine la Ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o racial, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -1311,11 +1333,11 @@ Son causa de pérdida de registro de un partido político, las contenidas en el 
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 91.
 
-Los organismos electorales que tienen a su cargo la preparación, desarrollo y vigilancia del proceso electoral, en las elecciones de Gubernatura, Diputaciones y Ayuntamientos, en términos de la Constitución Federal, la Constitución del Estado, la Ley General y la presente Ley, son los siguientes:
+Los organismos electorales que tienen a su cargo la preparación, desarrollo y vigilancia del proceso electoral, en las elecciones de Gubernatura, Diputaciones, personas juzgadoras y Ayuntamientos, en términos de la Constitución Federal, la Constitución del Estado, la Ley General y la presente Ley, son los siguientes:
 
 I. El Consejo General y órganos del IETAM;
 
@@ -1403,7 +1425,9 @@ II. Preservar el fortalecimiento del régimen de partidos políticos;
 
 III. Asegurar, a los ciudadanos y ciudadanas, el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
 
-IV. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo, así como de la totalidad de los Ayuntamientos en el Estado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+IV. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de la totalidad de los Ayuntamientos en el Estado;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -2008,6 +2032,10 @@ V. Comisión de Igualdad de Género y no Discriminación; y
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
 
 VI. Comisión de Seguimiento al Servicio Profesional Electoral Nacional del Instituto Electoral de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Durante los procesos electorales ordinarios y extraordinarios de personas juzgadoras se deberá integrar una comisión especial en los términos y con las facultades que acuerde el Consejo General, la cual tendrá como función coadyuvar con el órgano superior de dirección para la adecuada organización de dichos procesos.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -2821,13 +2849,17 @@ Las autoridades federales, estatales y municipales están obligadas a proporcion
 
 Las elecciones ordinarias deberán celebrarse el primer domingo del mes de junio del año que corresponda, para elegir:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-I. Gubernatura del Estado, cada 6 años; y
+I. Gubernatura del Estado, cada 6 años;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-II. Diputaciones al Congreso del Estado y Ayuntamientos, cada 3 años.
+II. Diputaciones al Congreso del Estado y Ayuntamientos, cada 3 años; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ENERO DE 2025)</small>
+
+III. Integrantes del Poder Judicial del Estado de Tamaulipas, en los periodos establecidos en la Constitución Política del Estado.
 
 ###### Artículo 174.
 
@@ -3239,11 +3271,15 @@ V. Si solamente un partido político hubiera obtenido el derecho a la asignació
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 203.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, la Constitución del Estado, la Ley General, la Ley de Partidos y la presente Ley, realizados por las autoridades electorales, los partidos políticos estatales y nacionales, y las ciudadanas y ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo y Legislativo, y los Ayuntamientos en el Estado.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, la Constitución del Estado, la Ley General, la Ley de Partidos y la presente Ley, realizados por las autoridades electorales, los partidos políticos estatales y nacionales, y las ciudadanas y ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo, Legislativo, Judicial y los Ayuntamientos en el Estado.
+
+El Consejo General podrá emitir los acuerdos, lineamientos y demás normativa que estime necesaria para la organización, desarrollo, cómputo y vigilancia de los procesos electorales ordinarios y extraordinarios y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables a estos, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género y, en caso de resultar necesario, podrá ajustar los plazos legales de manera justificada, fundada y motivada.
+
+El proceso electoral para la elección de las personas juzgadoras se sujetará a lo establecido en la Constitución federal, en la Constitución del Estado, en la Ley General, en la presente Ley y en particular en su Libro Noveno, así como a las reglas, lineamientos, criterios y demás normativa que emita tanto del Consejo General del INE como del IETAM.
 
 ###### Artículo 204.
 
@@ -4649,9 +4685,9 @@ Son sujetos de responsabilidad por infracciones cometidas a las disposiciones el
 
 I. Los partidos políticos;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-II. Las personas aspirantes, precandidatas, candidatas y candidatas independientes a cargos de elección popular;
+II. Las personas: aspirantes, precandidatas, candidatas y candidatas independientes a cargos de elección popular; así como las personas candidatas juzgadoras;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -5321,7 +5357,9 @@ Durante los procesos electorales, la Secretaría Ejecutiva instruirá el procedi
 
 I. Violen lo establecido en la Base III del artículo 41 o en el séptimo párrafo del artículo 134 de la Constitución Federal;
 
-II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos o coaliciones en esta Ley; o
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos, coaliciones, candidatas y candidatos, así como personas candidatas juzgadoras en esta Ley; o
 
 III. Constituyan actos anticipados de precampaña o campaña.
 
@@ -5329,9 +5367,11 @@ III. Constituyan actos anticipados de precampaña o campaña.
 
 La Secretaría Ejecutiva, instruirá el procedimiento especial establecido en este capítulo, en cualquier momento cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
+
 ###### Artículo 343.
 
-Las denuncias respecto de la presunta comisión de las infracciones señaladas en el artículo anterior que presenten los partidos políticos o coaliciones, deberán reunir los siguientes requisitos:
+Las denuncias respecto de la presunta comisión de las infracciones señaladas en el artículo anterior que presenten los partidos políticos, coaliciones y candidatas y candidatos, así como personas candidatas juzgadoras deberán reunir los siguientes requisitos:
 
 I. El nombre del quejoso o denunciante, con firma autógrafa o huella digital;
 
@@ -5483,6 +5523,870 @@ Serán causas de responsabilidad para las servidoras y los servidores públicos 
 
 Las servidoras y los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de (sic) desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+# LIBRO NOVENO. De la Integración del Poder Judicial del Estado de Tamaulipas
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+## TÍTULO PRIMERO. De la participación de la ciudadanía en la elección del Poder Judicial
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 358.
+
+Las personas juzgadoras serán electas por mayoría relativa y voto directo de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establece la Constitución Federal, la Constitución del Estado, la Ley General y esta Ley.
+
+Los cargos a elegir son los siguientes:
+
+I. Las Magistradas y los Magistrados del Pleno del Supremo Tribunal de Justicia de Número;
+
+II. La Magistratura Supernumeraria;
+
+III. Las Magistradas y los Magistrados Regionales;
+
+IV. Las Juezas y los Jueces de Primera Instancia;
+
+V. Las Juezas y los Jueces Menores; y
+
+VI. Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 359.
+
+El ámbito territorial electivo será determinado conforme a lo siguiente:
+
+I. La elección de las Magistradas y Magistrados del Supremo Tribunal de Justicia de Número, y Supernumerario, se realizará a nivel estatal;
+
+II. La elección de las Magistradas y Magistrados del Tribunal de Disciplina Judicial, se realizará a nivel estatal;
+
+III. La elección de las Magistradas y Magistrados Regionales, se realizará por región, según corresponda;
+
+IV. La elección de las Juezas y los Jueces de primera instancia, se realizará por distritos y regiones, según corresponda; y
+
+V. La elección de las Juezas y los Jueces menores, se realizará por distrito judicial.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 360.
+
+La jornada electoral de la elección de las personas juzgadoras se realizará el primer domingo del mes de junio del año que corresponda de manera concurrente con la elección de las diputaciones al Congreso y los Ayuntamientos del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO II. Requisitos de elegibilidad de las personas juzgadoras
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 361.
+
+Para la elección de las Magistradas y los Magistrados del Pleno del Supremo Tribunal de Justicia de Número, la Magistratura Supernumeraria y las Magistradas y los Magistrados Regionales se deberán cumplir los requisitos que disponen los artículos 97 y 116 de la Constitución federal y 109 y 111 de la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 362.
+
+Para la elección de las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, se deberán cumplir los requisitos que disponen los artículos 97 y 116 de la Constitución federal, y 106, 109 y 111 de la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 363.
+
+Para la elección de las Juezas y los Jueces de primera instancia y las Juezas y los Jueces menores, se deberán cumplir los requisitos que disponen los artículos 97 y 116 de la Constitución federal y 109 y 117 de la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 364.
+
+Para solicitar su registro y acreditar los requisitos constitucionales:
+
+I. Las personas aspirantes a candidatas a Magistradas y Magistrados del Supremo Tribunal de Justicia de Número y Magistratura Supernumeraria, así como Magistradas y Magistrados del Tribunal de Disciplina Judicial deberán presentar ante el respectivo Comité de Evaluación, los documentos siguientes:
+
+a) Original de la solicitud de registro con firma autógrafa dirigida al Comité de Evaluación del Poder del Estado de (sic) corresponda, la cual deberá contener por lo menos: fecha, nombre, edad, género, en su caso, mencionar si pertenece a una comunidad originaria o a un grupo vulnerable o de la diversidad sexual, domicilio, teléfono, correo electrónico, CURP, RFC, ocupación actual, cargo o puesto de trabajo y, en su caso nombre de la dependencia, cargo al que se postula especificando: nombre, materia y circunscripción territorial, promedio obtenido en la licenciatura y la mención de las materias relacionadas con el cargo que se postula en las que obtuvo nueve puntos de calificación en la licenciatura, especialidad, maestría o doctorado;
+
+b) Original de la síntesis curricular en versión pública;
+
+c) Original del Currículum Vitae completo con fotografía reciente y firma autógrafa;
+
+d) Acta de nacimiento actualizada en copia certificada por el registro civil o por persona notaria pública;
+
+e) Original o copia certificada por persona notaria pública de la credencial para votar con fotografía vigente, expedida por el INE;
+
+f) Original o copia certificada por persona notaria pública o por autoridad competente del Título o cédula profesional que acredite que la persona aspirante cuenta con Licenciatura en Derecho o su equivalente;
+
+g) Original o copia certificada por persona notaria pública o por autoridad competente del o los certificados de estudios, historial académico o constancia que acredite los promedios correspondientes establecidos en los requisitos constitucionales;
+
+h) Original o copia certificada por persona notaria pública o por autoridad competente de los documentos u otros elementos de prueba que acrediten fehacientemente la práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
+
+i) Original de la constancia de residencia en el país durante el año anterior a la emisión de la convocatoria que también podrá acreditarse con copia de la credencial para votar con fotografía vigente, expedida por el INE con esa temporalidad;
+
+j) Original del escrito con firma autógrafa bajo protesta de decir verdad de no haber ocupado por lo menos durante el año previo al día de la publicación de la convocatoria general, la titularidad de los cargos de Gubernatura, Secretaría o su equivalente, Fiscalía General de Justicia o Diputación local en el Estado; y gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+
+k) Original del ensayo de tres cuartillas con firma autógrafa donde justifiquen los motivos de su postulación;
+
+l) Cinco cartas de referencia de sus vecinas o vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo; y
+
+m) La relación pormenorizada de los documentos que entrega, especificando si es original o copia certificada y, en su caso, las consideraciones que estime convenientes. Asimismo, se deberá agregar una leyenda bajo protesta de decir verdad que la información y documentos proporcionados son auténticos y acepta que podrán ser sujetos de verificación.
+
+II. Las personas aspirantes a candidatas a Juezas y Jueces de primera instancia, y Juezas y Jueces menores deberán presentar:
+
+a) Original de la solicitud de registro con firma autógrafa dirigida al Comité de Evaluación del Poder del Estado que corresponda, que deberá contener por lo menos: fecha, nombre, edad, género, en su caso, mencionar si pertenece a una comunidad originaria o a un grupo vulnerable o de la diversidad sexual, domicilio, teléfono, correo electrónico, CURP, RFC, ocupación actual, cargo o puesto de trabajo y, en su caso nombre de la dependencia, cargo al que se postula especificando: nombre, materia y circunscripción territorial, promedio obtenido en la licenciatura y la mención de las materias relacionadas con el cargo que se postula en las que obtuvo nueve puntos de calificación en la licenciatura, especialidad, maestría o doctorado;
+
+b) Original de la síntesis curricular en versión pública;
+
+c) Original del currículum vitae completo con fotografía reciente y firma autógrafa;
+
+d) Acta de nacimiento actualizada en copia certificada por el registro civil o por persona notaria pública;
+
+e) Original o copia certificada por persona notaria pública de la credencial para votar con fotografía vigente, expedida por el INE;
+
+f) Original o copia certificada por persona notaria pública o por autoridad competente, del Título o cédula profesional que acredite que la persona aspirante cuenta con Licenciatura en Derecho o su equivalente;
+
+g) Original o copia certificada por persona notaria pública o por autoridad competente, del o los certificados de estudios, historial académico o constancia que acredite los promedios correspondientes establecidos en los requisitos constitucionales;
+
+h) Original de la Constancia de residencia en el país y en el Estado durante el año anterior al día de la publicación de la convocatoria general, que también podrá acreditarse con copia de la credencial para votar con fotografía vigente, expedida por el INE por lo menos con esa temporalidad;
+
+i) Original del escrito con firma autógrafa bajo protesta de decir verdad de gozar de buena reputación y no haber sido condenada por delito doloso con sanción privativa de la libertad; y de no haber sido persona titular de una Secretaría de Estado, Fiscalía del Estado, Diputada o Diputado del Congreso del Estado, durante el año previo al día de la publicación de la convocatoria;
+
+j) Original del ensayo de tres cuartillas con firma autógrafa donde justifiquen los motivos de su postulación;
+
+k) Cinco cartas de referencia de sus vecinas o vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo; y
+
+l) Una relación pormenorizada de los documentos que entrega, especificando si es original o copia certificada y, en su caso, las consideraciones que se estime conveniente. Asimismo, se deberá agregar una leyenda bajo protesta de decir verdad que la información y documentos proporcionados son auténticos y acepta que podrán ser sujetos de verificación.
+
+Para acreditar la residencia en el país y en el Estado se podrá presentar constancia o certificado de residencia emitido por alguno de los Municipios de la entidad, en la que conste el tiempo en que se ha residido en el mismo.
+
+Sin perjuicio de lo dispuesto en este artículo, los Comités de Evaluación podrán requerir información a cualquier autoridad que posea documentos para acreditar el derecho de las aspirantes a personas juzgadoras a participar en el proceso de su elección.
+
+Al final del proceso quedarán en el archivo de cada Poder los expedientes de las personas que participaron como candidatas a juzgadoras.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 365.
+
+El criterio para acreditar el requisito constitucional de promedios de calificaciones atenderá a lo siguiente:
+
+El promedio general de la Licenciatura en Derecho o su equivalente deberá ser de cuando menos ocho puntos o su equivalente.
+
+El promedio relativo a la especialidad en el cargo al que se postula deberá ser de por lo menos nueve puntos o su equivalente en las materias escolares relacionadas.
+
+Esta calificación podrá haberse obtenido en la licenciatura, especialidad, maestría o doctorado. En el caso que el cargo al que se aspira tenga competencia en más de una materia, bastará con que los nueve puntos se acrediten en cualquiera de ellas.
+
+En todo caso, solamente deberán acreditarse los nueve puntos en una materia para tener por colmado el requisito.
+
+Para acreditar la práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica se podrán presentar documentales u otros elementos de prueba, entre ellas, cuando menos, un documento público o privado en original o copia certificada por autoridad competente o persona notaria pública.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+## TÍTULO SEGUNDO. Del Proceso Electoral de las Personas Juzgadoras
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO I. Reglas Generales
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 366.
+
+El proceso electoral de las y los integrantes del Poder Judicial es el conjunto de actos ordenados por la Constitución federal, la Constitución del Estado y esta Ley, realizados por los Poderes del Estado, la ciudadanía y las autoridades electorales, que tiene por objeto la renovación periódica de las personas juzgadoras.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 367.
+
+El INE y el IETAM, en el ámbito de sus respectivas competencias, son las autoridades electorales responsables de la organización, desarrollo y cómputo de la elección de las personas juzgadoras. En el cumplimiento de sus atribuciones, garantizarán la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, así como la paridad de género.
+
+El IETAM observará los lineamientos que expida el Consejo General del INE de conformidad con la fracción XV del artículo 504 de la Ley General.
+
+El Consejo General podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo y vigilancia de los procesos electorales ordinarios y extraordinarios para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género.
+
+Las y los representantes de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a la elección de personas juzgadoras, tanto del Consejo General como de sus comisiones y comités.
+
+A falta de disposición expresa dentro de este Libro, se aplicará supletoriamente y, en lo conducente, lo dispuesto para los demás procesos electorales previstos en esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO II. De las Etapas del proceso de elección de las personas juzgadoras
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 368.
+
+El proceso de elección de las personas juzgadoras comprende las etapas siguientes:
+
+I. Preparación de la elección;
+
+II. Convocatoria y postulación de candidaturas;
+
+III. Jornada electoral;
+
+IV. Cómputos y sumatoria; y
+
+V. Asignación de cargos, entrega de constancias de mayoría y declaración de validez de la elección.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 369.
+
+La etapa de preparación de la elección de las personas juzgadoras iniciará con la primera sesión que el Consejo General celebre el segundo domingo del mes de septiembre del año anterior a la elección y concluye al iniciarse la jornada electoral.
+
+La etapa de convocatoria y postulación de candidaturas inicia con la publicación de la convocatoria general que emita el Congreso del Estado de Tamaulipas conforme a la fracción I del primer párrafo del artículo 109 de la Constitución del Estado, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al IETAM.
+
+La etapa de la jornada electoral inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con la clausura de la casilla.
+
+La etapa de cómputos y sumatoria inicia con la remisión de la documentación y los expedientes electorales a los Consejos Distritales y Municipales y concluye con la sumatoria de los cómputos de la elección que realice el IETAM, quien podrá emitir los lineamientos que resulten aplicables para la emisión oportuna de los resultados.
+
+La etapa de asignación de cargos, entrega de constancias de mayoría y declaración de validez de la elección inicia con la identificación por el Consejo General de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo, en función de su especialización por materia y alternando entre mujeres y hombres, entregando las constancias de mayoría a las candidaturas que resulten ganadoras y emitiendo la declaración de validez respectiva.
+
+El proceso electoral concluirá al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno. Los medios de impugnación referidos deberán quedar resueltos a más tardar en el plazo previsto en el artículo 75 de la Ley de Medios de Impugnación de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 370.
+
+Atendiendo al principio de definitividad que rige la materia electoral, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la persona titular de la Secretaría Ejecutiva del IETAM o de la Secretaría del Consejo Distrital o Municipal, según corresponda, deberá difundir su realización y conclusión por los medios que estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 371.
+
+En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 372.
+
+El IETAM habilitará a las personas candidatas un buzón electrónico a través del cual recibirán notificaciones personales de acuerdos y resoluciones emitidas por las autoridades electorales, en los términos de esta Ley y la Ley de Medios de Impugnación Electorales de Tamaulipas.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO III. Del proceso para la postulación de candidaturas
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Primera. De la Convocatoria General
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 373.
+
+El Congreso del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de candidaturas para la elección de las personas juzgadoras y ordenará su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 374.
+
+La convocatoria general deberá contener, cuando menos, lo siguiente:
+
+I. Fundamentos constitucionales y legales aplicables;
+
+II. Denominación de los cargos sujetos a elección, número de personas juzgadoras a elegir por tipo de cargo, periodo de ejercicio del cargo y la especialización por materia que así corresponda;
+
+III. Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución del Estado y esta Ley;
+
+IV. Ámbito territorial para el que se elegirán a las personas juzgadoras;
+
+V. Etapas y fechas del proceso de elección de las personas juzgadoras, desde la etapa de convocatoria y postulación de candidaturas, hasta la de Asignación de cargos, entrega de constancias de mayoría y declaración de validez de la elección;
+
+VI. Fechas y plazos que deberán observar los Poderes del Estado para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas; y
+
+VII. Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 375.
+
+La convocatoria general no podrá incluir requisitos adicionales a los establecidos por la Constitución del Estado y la Ley para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 376.
+
+Para la emisión de la convocatoria general, dentro de la última semana de septiembre del año anterior a la elección, el órgano de administración judicial remitirá al Congreso del Estado un listado con la totalidad de cargos de personas juzgadoras, el número de vacantes, los cargos sujetos a elección, la especialización por materia, la circunscripción, el distrito judicial y/o regiones respectivas, género, renuncias, retiros programados y la información que estime pertinente. El Congreso del Estado podrá requerir la información que estime necesaria para complementar la recibida.
+
+En caso de que el órgano de administración judicial no remita oportunamente la información que le requiera el Congreso del Estado para la elaboración de la convocatoria general, la integrará con la información pública que disponga y dará vista al Tribunal de Disciplina Judicial para que determine lo conducente.
+
+De generarse vacantes no previstas en la convocatoria general con fecha posterior a su publicación y previo al cierre de ésta, el órgano de administración judicial lo comunicará de inmediato al Congreso del Estado para su incorporación en la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 377.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial; dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución federal, la Constitución del Estado y esta Ley.
+
+Queda prohibida toda forma de discriminación motivada por razones de sexo, género, edad, discapacidad, religión, estado civil, origen étnico, condición social, orientación o preferencia sexual, estado de salud, embarazo o cualquier otra circunstancia o condición que genere menoscabo en el ejercicio de los derechos de las personas que participen en los procesos de evaluación y selección de candidaturas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 378.
+
+La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por los Comités de Evaluación de los Poderes del Estado por el mismo cargo y distrito judicial estará permitida y no afectará el resultado de la evaluación.
+
+En el supuesto que una persona se inscriba para participar por cargos diversos en uno o más Poderes del Estado, prevalecerá el primer registro realizado ante el primer Comité y serán cancelados los registros subsecuentes. Para tal efecto, los tres Comités de Evaluación realizarán entre ellos los cruces de información que estimen necesarios.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 379.
+
+En el proceso para la postulación de candidaturas la información y documentación que integre los expedientes individuales de las personas aspirantes será clasificada en términos de lo establecido por las leyes de transparencia y de protección de datos personales que resulten aplicables, por lo que no podrá tener otro fin que el previsto en las convocatoria que emitan los Comités de Evaluación de los Poderes del Estado, ni ser utilizada o difundida salvo que medie el consentimiento expreso de la persona titular.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 380.
+
+Es de la más estricta responsabilidad de las personas participantes en el proceso de postulación de candidaturas:
+
+I. Leer con atención la Convocatoria General y las convocatorias que emitan los Comités de Evaluación de los Poderes del Estado;
+
+II. Registrar ante el Comité de Evaluación de su interés, una cuenta de correo electrónico personal y un número telefónico para recibir notificaciones;
+
+III. Aportar con veracidad sus datos personales, su perfil curricular y cualquier otra información necesaria para su participación;
+
+IV. Dar seguimiento al estado del trámite para su inscripción como aspirantes en términos de la convocatoria del Comité de Evaluación respectivo;
+
+V. Respetar las bases de la Convocatoria General y las convocatorias que emitan los Comités de Evaluación de los Poderes del Estado; y
+
+VI. Mantener en todo momento el cumplimiento de los requisitos constitucionales y legales durante el desarrollo de las etapas del proceso electoral.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 381.
+
+En cualquier etapa del proceso para la postulación de candidaturas, la persona interesada podrá desistirse de participar, lo cual dará lugar al retiro y desechamiento de su postulación.
+
+Para lo anterior, deberá presentar su desistimiento mediante correo electrónico dirigido al Comité de Evaluación en donde se haya registrado, o por escrito entregado de manera presencial ante el propio Comité.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Segunda. De los Comités de Evaluación de los Poderes del Estado
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 382.
+
+Cada uno de los Poderes del Estado instalará un Comité de Evaluación dentro de los diez días naturales posteriores a la publicación en el Periódico Oficial del Estado de la convocatoria general que emita el Congreso del Estado.
+
+Los Comités de Evaluación publicarán sus convocatorias en el Periódico Oficial del Estado dentro de los cinco días siguientes a su instalación. Dicha publicación será gratuita para estos.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 383.
+
+Los Comités de Evaluación estarán conformados por tres personas profesionistas de reconocido prestigio en la actividad jurídica, quienes deberán reunir al menos los siguientes requisitos, observando la paridad de género:
+
+I. Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+
+II. No haber sido condenadas por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+III. Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica; y
+
+IV. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+La integración de los Comités de Evaluación se realizará de la manera siguiente:
+
+I. Poder Legislativo: la Junta de Gobierno propondrá al Pleno la integración respectiva, con base en los acuerdos que se generen al interior del órgano de dirección política;
+
+II. Poder Ejecutivo: la persona titular del Poder Ejecutivo designará de manera libre a sus integrantes; y
+
+III. Poder Judicial: la persona titular de la Presidencia presentará al Pleno para su discusión y, en su caso aprobación, la propuesta de designación de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 384.
+
+A los Comités de Evaluación les corresponde:
+
+I. Publicar, dentro de los cinco días naturales posteriores a su integración, la convocatoria del Poder del Estado que les corresponda para participar en el proceso de evaluación y selección de postulaciones, las cuales contendrán, cuando menos, lo siguiente:
+
+a) La información pertinente contenida en la convocatoria general que publique el Congreso del Estado;
+
+b) Los cargos a seleccionar con la precisión de la circunscripción territorial que corresponda a la región o al distrito judicial;
+
+c) Los requisitos y documentos para participar en el proceso de selección del cargo;
+
+d) Las etapas del procedimiento, fechas y plazos aplicables para la inscripción, evaluación y selección de las postulaciones;
+
+e) Los mecanismos, formatos que consideren convenientes para el cumplimiento de los requisitos de elegibilidad y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso;
+
+f) Los criterios de evaluación de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y materia de especialización, la cual incluirá, por lo menos, lo dispuesto en esta Ley;
+
+g) Un medio de contacto para brindar asesoría; y
+
+h) El escrito de aceptación del Aviso de Privacidad y el formato de consentimiento informado para el manejo de datos personales.
+
+Lo no previsto en la convocatoria que emitan los Comités de Evaluación será resuelto por cada uno de ellos, con base en lo previsto en la Constitución del Estado, esta Ley y la convocatoria general;
+
+II. Recibir los expedientes de las personas aspirantes hasta la conclusión del plazo para inscribirse en su convocatoria;
+
+III. Integrar la lista de las personas aspirantes que hayan concurrido a su convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución del Estado;
+
+IV. Verificar que las personas aspirantes cumplan formalmente con los requisitos y documentación conforme a la Constitución federal, la Constitución del Estado, la Ley y la convocatoria que emitan;
+
+V. Requerir a la persona participante para que proporcione documentación adicional ante la duda del cumplimiento de alguno de los requisitos;
+
+VI. Allegarse de cualquier medio de información para la valoración integral de las personas aspirantes;
+
+VII. Dar de baja del proceso de postulación a las personas aspirantes, previa prevención, por no cumplir los requisitos de elegibilidad o por no entregar la documentación completa y, cuando ésta sea incorrecta o falsa, o se detecten solicitudes a cargos diversos, desecharán la solicitud presentada;
+
+VIII. Publicar la lista de las personas que hayan acreditado el cumplimiento de los requisitos constitucionales de elegibilidad;
+
+IX. Realizar, si así lo establecen en su convocatoria, entrevistas públicas a las personas aspirantes que califiquen más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica;
+
+X. Calificar la idoneidad para desempeñar el cargo, con base en el perfil curricular, antecedentes profesionales y académicos, entre otros, e identificar a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el ejercicio del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica;
+
+XI. Integrar un listado que contenga:
+
+a) Las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Pleno del Supremo Tribunal de Justicia de Número, Magistratura Supernumeraria, y Magistradas y Magistrados Regionales, y del Tribunal de Disciplina Judicial; y
+
+b) Las cuatro personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces de Primera Instancia, y Juezas y Jueces Menores;
+
+XII. Concluida la fase anterior, los Comités depurarán, mediante insaculación pública el listado, para ajustarlo al número de postulaciones para cada cargo, debiendo observar la paridad de género de acuerdo a lo siguiente:
+
+a) Hasta tres personas aspirantes a cada cargo de Magistradas y Magistrados del Pleno del Supremo Tribunal de Justicia de Número, Magistratura Supernumeraria, y Magistradas y Magistrados Regionales; Tribunal de Disciplina Judicial; y
+
+b) Hasta dos personas aspirantes a cada cargo de Juezas y Jueces de Primera Instancia, y Juezas y Jueces Menores;
+
+XIII. Publicar los resultados en los estrados habilitados y remitir las postulaciones insaculadas a la autoridad que represente a cada Poder del Estado para su aprobación en términos de las fracciones V y VI del artículo 109 de la Constitución del Estado.
+
+Para el cumplimiento de sus funciones, los Comités de Evaluación emitirán las reglas para su funcionamiento; además, podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
+
+Los Poderes del Estado deberán proveer los recursos humanos y materiales necesarios para que los Comités de Evaluación inicien y desarrollen las tareas que la convocatoria general y la Ley les asigna y emplaza.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Tercera. De la aprobación de las postulaciones
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 385.
+
+Las personas candidatas juzgadoras podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 386.
+
+La aprobación de las postulaciones de cada Poder del Estado se realizará de conformidad con lo siguiente:
+
+I. El Poder Ejecutivo, por conducto de la persona titular de la Gubernatura del Estado;
+
+II. El Poder Legislativo, por conducto del Congreso del Estado, mediante mayoría calificada con el voto de las dos terceras partes de sus integrantes presentes; y
+
+III. El Poder Judicial, por conducto del Pleno del Supremo Tribunal de Justicia, por mayoría de seis votos.
+
+Los listados aprobados por los Poderes del Estado serán remitidos al Congreso del Estado en los términos establecidos en la convocatoria general y la de cada Comité de Evaluación, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas.
+
+Los Poderes del Estado que no remitan sus postulaciones al término del plazo previsto en la convocatoria general estarán impedidas para hacerlo posteriormente.
+
+El Congreso del Estado remitirá los listados al IETAM a más tardar el 12 de febrero del año de la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 387.
+
+En el supuesto que las y los aspirantes hayan sido rechazados por su respectivo Comité de Evaluación o consideren que alguna decisión o determinación de este le causa algún perjuicio, podrán acudir ante el Tribunal Electoral a deducir sus derechos. En el caso de que se presenten medios de impugnación, éstos no producirán efectos suspensivos.
+
+En su caso, las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 388.
+
+El Congreso del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado por tipo de elección e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir, exceptuando a aquellas que hayan manifestado ante el órgano legislativo la declinación de su candidatura y a quienes hayan sido postuladas para un cargo o distrito judicial diverso al que ocupen.
+
+Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo, circunscripción, distrito o región judicial diverso deberán informarlo al Congreso del Estado dentro de los quince días posteriores a la publicación de la convocatoria general, a efecto de no ser incorporadas en los listados de candidaturas.
+
+Las personas juzgadoras en funciones serán incorporadas a los listados de candidaturas que el Congreso del Estado remita al IETAM al mismo cargo que tengan, excepto cuando manifiesten la declinación de su candidatura ante el Congreso conforme a las normas jurídicas aplicables, o sean postuladas para un cargo o distrito judicial diverso.
+
+En el supuesto de no presentar la declinación, se entenderá por aceptada la candidatura; y cuando participen por un cargo o distrito judicial diverso, deberán registrarse oportunamente, satisfacer los requisitos previstos en la Constitución federal y la Constitución Estatal y entregar en tiempo y forma al respectivo Comité de Evaluación la documentación requerida para cada cargo.
+
+El Congreso del Estado cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes del Estado para un cargo, circunscripción, distrito o región judicial diverso al que ocupen.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 389.
+
+El Congreso del Estado estará impedido para pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas por los Comités de Evaluación junto con los expedientes originales de todas las personas aspirantes, y se limitará a integrar y remitir los listados de las postulaciones y sus expedientes originales al IETAM, a efecto de que éste organice el proceso electivo. El Congreso del Estado conservará en sus archivos los originales de los expedientes de las personas que no hayan sido postuladas y una copia certificada de los expedientes de las que si fueron postuladas.
+
+El IETAM se limitará a organizar el proceso electivo y estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones; sin embargo, su Consejo General deberá emitir un acuerdo de registro de las candidaturas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 390.
+
+Las candidatas o candidatos a personas juzgadoras podrán declinar a su candidatura, para lo cual, deberán presentar su solicitud mediante escrito ante el IETAM y ratificar personalmente su declinación.
+
+En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las candidaturas, el Poder del Estado postulante podrá solicitar al Congreso del Estado su sustitución antes del inicio de la impresión de las boletas electorales, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO IV. De la Organización de la Elección
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Primera. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 391.
+
+El Consejo General aprobará el plan integral y calendario electoral que, propongan la Secretaría Ejecutiva, a partir de la información remitida por el órgano de administración judicial en el cual identificará los órganos electorales del IETAM estrictamente indispensables para la realización de la elección que corresponda, así como para los cómputos de las elecciones.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 392.
+
+Al Consejo General le corresponde:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales en términos de lo previsto en la Ley, observando en su caso los lineamientos que emita el Consejo General del INE;
+
+II. Aprobar los acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Llevar a cabo la elección a nivel estatal y por circunscripción territorial de conformidad con el ámbito de la región y el distrito judicial que determine de acuerdo con la información remitida por el órgano de administración judicial;
+
+V. Realizar los cómputos finales de los cargos a nivel estatal y regionales de la elección de personas juzgadoras del Poder Judicial del Estado, asignar los cargos, emitir las constancias de mayoría y declarar la validez de las elecciones;
+
+VI. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VII. Vigilar que ninguna persona candidata reciba financiamiento público o privado en sus campañas;
+
+VIII. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura juzgadora;
+
+IX. Supervisar que ningún partido político o persona servidora pública realice actos de proselitismo o posicionamientos a favor o en contra de candidatura juzgadora alguna;
+
+X. Garantizar la equidad en el desarrollo de las campañas entre las personas candidatas juzgadoras;
+
+XI. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas juzgadoras y promover la participación ciudadana en el proceso electivo;
+
+XII. Observar lineamientos de aplicación general que emita el INE respecto de los procesos de elección de las personas magistradas y juezas locales;
+
+XIII. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este artículo y las demás que establezcan las leyes;
+
+XIV. Supervisar que los consejos del IETAM efectúen los cómputos y sumatorias con apego a los lineamientos que al efecto emita;
+
+XV. Determinar para cada elección de las personas juzgadoras del Poder Judicial el número y tipo de consejos que deberán de instalarse;
+
+XVI. Designar a las personas que para cada proceso electoral del poder judicial actuarán como Presidentas y Presidentes, Consejeras y Consejeros de los Consejos Distritales y Municipales para su oportuna integración, instalación y funcionamiento;
+
+XVII. Designar a las Secretarios y Secretarias de los Consejos Distritales y Municipales, a propuesta de las Presidentas y Presidentes de los propios organismos; y
+
+XVIII. Conocer de los informes que la Presidenta o Presidente del Consejo General rinda a cerca de las solicitudes de medidas de seguridad personal, que en la etapa de campaña presenten las personas candidatas juzgadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Segunda. De la Elección por Circunscripciones, Regiones y Distritos Judiciales
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 393.
+
+Dentro de la última semana de septiembre del año anterior a la elección, el órgano de administración judicial remitirá al IETAM la circunscripción territorial por región y/o distrito judicial para el efecto de que el Consejo General esté en aptitud de organizar la elección. El órgano de administración judicial estará obligado a otorgar al IETAM la información que le sea requerida.
+
+En caso de que el órgano de administración judicial no remita la información referida en el párrafo anterior, el IETAM determinará lo conducente con la información pública que disponga y dará vista al Tribunal de Disciplina Judicial para que determine lo conducente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 394.
+
+El IETAM instalará los Consejos Distritales y Municipales que estime pertinentes, quienes se encargarán de la organización y cómputo de la elección de personas juzgadoras.
+
+Los referidos Consejos se instalarán y funcionarán conforme a lo dispuesto en la Ley y los acuerdos que al respeto emita el Consejo General.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Tercera. De las Campañas Electorales y la Propaganda Electoral
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 395.
+
+Las campañas electorales para la promoción de las candidaturas establecidas en este Libro tendrán una duración de sesenta días improrrogables y en ningún caso habrá etapa de precampaña.
+
+Se entiende por actos de campaña al conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras, dirigidas al electorado a efecto de promover sus candidaturas y para la obtención del voto por parte de la ciudadanía, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución Estatal y la Ley.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+La difusión de propaganda electoral solo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas, y no podrá colgarse en elementos del equipamiento urbano ni obstaculizar, en forma alguna, la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población, las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta disposición.
+
+Las personas candidatas juzgadoras deberán retirar la propaganda electoral referida en el párrafo que antecede tres días antes de la jornada electoral en los términos que acuerde el Consejo General.
+
+El Consejo General emitirá los lineamientos que contengan las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales, y las demás previsiones que considere pertinentes.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 396.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas juzgadoras podrán:
+
+I. Difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables;
+
+II. Participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados y brindados gratuitamente por el sector público, privado o social en condiciones de equidad, observando al efecto las directrices y acuerdos que al efecto emita el Consejo General en observancia a lo dispuesto en la presente Ley;
+
+III. Hacer uso de las redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos; y
+
+IV. Erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial que corresponda a su candidatura.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 397.
+
+El IETAM pondrá a disposición de las personas candidatas juzgadoras espacios digitales para difundir mensajes en redes sociales o Internet.
+
+Para el acceso a los tiempos del Estado en radio y televisión, así como su monitoreo se estará a lo dispuesto en la Ley General y los lineamientos que emita el Consejo General del INE.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 398.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+En los términos que acuerde el Consejo General, las personas servidoras públicas que sean candidatas en la elección de personas juzgadoras deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales y no podrán hacer campaña en días y horas hábiles conforme a su respectiva ley o normatividad laboral.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 399.
+
+Queda estrictamente prohibido a las personas candidatas juzgadoras:
+
+I. Entregar cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona; dichas conductas serán sancionadas de conformidad con la presente Ley y los acuerdos del Consejo General, y se presumirá como indicio de presión al electorado para obtener su voto;
+
+II. Contratar, por sí o por interpósita persona, tiempos de radio y televisión para fines de promoción de las personas candidatas juzgadoras, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales;
+
+III. Hacer erogaciones, por sí o interpósita persona, de recursos privados para promocionar sus candidaturas; y
+
+IV. Contratar, por sí o por interpósita persona, personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 400.
+
+Las personas servidoras públicas tienen prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de las personas juzgadoras, de conformidad con lo dispuesto por el artículo 134 de la Constitución federal y 161 de la Constitución del Estado; asimismo no podrán manifestarse públicamente a favor o en contra de las candidatas y candidatos juzgadores.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 401.
+
+Los partidos políticos no podrán realizar ningún acto de proselitismo en favor o en contra de las candidaturas juzgadoras, tampoco podrán auspiciar por sí o por interpósita persona, la realización y difusión de encuestas o sondeos de opinión.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 402.
+
+Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo General en función del tipo y ámbito territorial de la elección que se trate y no podrán ser superiores al límite de aportaciones individuales que pueden realizar las personas candidatas independientes a diputaciones.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Cuarta. De las Boletas Actas y Materiales Electorales
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 403.
+
+Para la emisión del voto, tomando en cuenta las medidas de certeza que estime pertinentes, el Consejo General determinará el modelo de las boletas electorales, de las actas de la jornada electoral y de la demás documentación electoral del proceso de elección de las personas juzgadoras y los materiales que serán utilizados en ésta en términos de lo previsto en la Ley y, observando, en su caso, los lineamientos que emita el Consejo General del INE.
+
+El IETAM será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección de las personas juzgadoras.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas. El IETAM aprobará el respectivo calendario de impresión de las boletas electorales informando al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 404.
+
+La boleta contendrá la información general siguiente:
+
+I. Cargo para el que se postula la persona candidata;
+
+II. Especialidad por materia a la que se postula cada persona candidata;
+
+III. Circunscripción, Región y/o Distrito Judicial del cargo al que se postula cada persona candidata;
+
+IV. Primer apellido, segundo apellido y nombre o nombres de las personas candidatas, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas, conforme a la relación que en términos del artículo 386 de esta Ley sea remitida al IETAM por el Congreso del Estado; y
+
+V. Firmas impresas de las personas titulares de la Presidencia y de la Secretaría Ejecutiva del Consejo General.
+
+Lo anterior, sin demérito de las particularidades y especificaciones que el IETAM establezca en los lineamientos respectivos y, en su caso, conforme a las determinaciones que al respecto emita el Consejo General del INE.
+
+Asimismo, las boletas estarán adheridas a un talón con folio del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa y distrito judicial, circunscripción, región y circuito judicial. El número de folio será progresivo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 404 Bis.
+
+La boleta garantizará que las y los votantes asienten la candidatura de su elección conforme los cargos a elegir, atendiendo a la Convocatoria respectiva.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Quinta. De la Observación Electoral
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 405.
+
+Es derecho exclusivo de los ciudadanos y ciudadanas mexicanas participar como observadores de los actos de preparación y desarrollo, así como de los que se lleven a cabo el día de la jornada electoral en la elección de personas juzgadoras, conforme a las reglas, lineamientos, criterios y formatos que para tal efecto emita el INE, en los términos de la Ley General.
+
+El Consejo General desarrollará las actividades que se requieran para garantizar el derecho de la ciudadanía a realizar labores de observación electoral durante la elección de personas juzgadoras.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Sexta. De las Encuestas y Sondeos de Opinión
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 406.
+
+Las personas físicas o morales deberán observar las reglas, lineamientos y criterios que emita el INE respecto a las encuestas o sondeos de opinión en el marco del proceso de elección de las personas juzgadoras, de conformidad con el artículo 510 de la Ley General.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Séptima. De la Promoción de la Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 407.
+
+El Consejo General aprobará la metodología para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público, conforme a las reglas, lineamientos, criterios y formatos que para tal efecto emita el INE, en los términos de las (sic) Ley General.
+
+La metodología deberá ser imparcial, objetiva y con fines informativos, y contemplará por lo menos la creación de un micrositio en la página de Internet oficial del IETAM para informar a la ciudadanía sobre el proceso electivo y dar a conocer las candidaturas registradas.
+
+El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las personas candidatas, incluyendo la versión pública de los expedientes que acrediten su elegibilidad e idoneidad para el cargo que se trate, así como información relativa al proceso electivo, ajustándose al menos a lo siguiente:
+
+I. No será un medio de propaganda política;
+
+II. Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+III. Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+IV. La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el IETAM que deberá supervisar que se ajuste a esta Ley y los parámetros que al efecto determine el Consejo General; y
+
+V. La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+Para efectos de las actividades que realice el IETAM para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, su página de Internet, medios electrónicos o digitales institucionales y periódicos de mayor circulación y cobertura en la entidad, entre otros.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Octava. De la Información de los Resultados Preliminares y Conteos Rápidos
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 408.
+
+El programa de resultados electorales preliminares y los conteos rápidos se llevarán a cabo de conformidad con las reglas, lineamientos, criterios y formatos que emita el Consejo General del INE y en los términos que acuerde el Consejo General.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE ENERO DE 2025)</small>
+
+#### Sección Novena. De la Fiscalización
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 409.
+
+La fiscalización de las personas candidatas juzgadoras se realizará de acuerdo con lo que establezca la Ley General y los acuerdos y lineamientos del Consejo General del INE.
+
+En caso de que dicha atribución sea delegada al IETAM se estará a lo dispuesto en la Ley General y en los lineamientos que para tal efecto emita el Consejo General del INE, y lo previsto en la Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO V. De la Jornada Electoral
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 410.
+
+La jornada electoral iniciará a las 8:00 horas del primer domingo de junio del año que corresponda y se desarrollará, en lo conducente, en los términos establecidos en la presente Ley para la elección de integrantes del Poder Judicial.
+
+El desarrollo de la jornada electoral se llevará a cabo conforme a las disposiciones que emita el INE.
+
+El IETAM deberá contar con el personal de asistencia electoral necesario conforme a la estrategia de capacitación electoral e integración de mesas directivas de casilla que emita el INE.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO VI. De los Cómputos y Sumatoria
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 411.
+
+Una vez cerrada la votación y llenado y firmado el apartado correspondiente del acta de la jornada electoral, los integrantes de la mesa directiva procederán al escrutinio y cómputo de los votos sufragados en la casilla.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+I. Se contará como un voto válido la marca o asiento que realice la persona votante en un recuadro de una misma elección en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas de esa misma elección contenidas en una misma boleta; y
+
+II. Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+El IETAM determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del número y tipo de elecciones y el número de candidaturas a elegir.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 412.
+
+El escrutinio y cómputo de las votaciones en casilla para los cargos de elección del Poder Judicial, se realizará de forma previa al escrutinio y cómputo de las elecciones de diputaciones y Ayuntamientos, en el orden siguiente:
+
+I. Personas Magistradas del Pleno del Supremo Tribunal de Justicia de Número;
+
+II. Persona Magistrada del Supremo Tribunal de Justicia Supernumeraria;
+
+III. Personas Magistradas del Supremo Tribunal de Justicia Regionales;
+
+IV. Personas Magistradas del Tribunal de Disciplina Judicial;
+
+V. Personas Juezas de primera instancia; y
+
+VI. Personas Juezas menores.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 413.
+
+Los Consejos Distritales y Municipales realizarán el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete.
+
+Los Consejos Distritales y Municipales realizarán de manera continua e ininterrumpida el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras hasta concluir el último paquete.
+
+El Consejo General emitirá los lineamientos que regulen el cómputo.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 414.
+
+Concluidos los cómputos de cada elección, el Consejo Distrital o Municipal correspondiente emitirá a cada candidatura ganadora una Constancia de Resultados, misma que contendrá los votos obtenidos dentro del Consejo respectivo.
+
+Una vez que se hayan computado la totalidad de las elecciones por parte de los Consejos Distritales y Municipales, se remitirán las actas respectivas al Consejo General para que proceda a realizar la sumatoria por tipo de elección.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en esta Ley para las elecciones de Gubernatura, diputaciones y Ayuntamientos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ENERO DE 2025)</small>
+
+### CAPÍTULO VII. De la Asignación de cargos, entrega de Constancias de Mayoría y Declaración de Validez de la Elección
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 415.
+
+Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos de manera alternada entre hombres y mujeres, iniciando por mujer, observando la paridad de género y publicará los resultados de la elección.
+
+El Consejo General hará entrega de las Constancias de Mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+Emitidas las declaraciones de validez y resultados de todas las elecciones, el Consejo General a través de su Presidencia los comunicará al Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 416.
+
+El Tribunal Electoral resolverá las impugnaciones que se hayan presentado contra los cómputos y las Constancias de Mayoría y declaración de validez a más tardar el 1 de agosto del año de la elección.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 417.
+
+Las personas juzgadoras electas deberán tomar protesta ante el Congreso del Estado el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -5620,5 +6524,37 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Con la oportunidad debida para su aplicación en el proceso electoral ordinario 2023-2024, el Instituto Electoral de Tamaulipas deberá emitir los lineamientos para el procedimiento de registro de candidaturas a cargos de elección popular de los grupos vulnerables a que refiere la presente reforma, y la supervisión de su cumplimiento. Por ende, una vez iniciado el proceso electoral, y en atención a los principios de seguridad jurídica y certeza, no se podrán emitir lineamientos al respecto.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-228 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, EN MATERIA DE ELECCIÓN DE PERSONAS JUZGADORAS DEL PODER JUDICIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al (sic) su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+En lo que respecta a la etapa de convocatoria y postulación de candidaturas de las personas juzgadoras del Poder Judicial del Estado en el marco del Proceso Electoral Extraordinario 2024-2025, las autoridades competentes y la ciudadanía observarán lo dispuesto en la Constitución del Estado; la Ley General; la Convocatoria Pública General emitida por el Congreso del Estado Libre y Soberado de Tamaulipas publicada el 21 de noviembre de 2024 en el Periódico Oficial del Estado; las convocatorias emitidas por el Comité de Evaluación del Poder Legislativo, por el Comité de Evaluación del Poder Ejecutivo y por el Comité del Poder Judicial publicadas el 27 de noviembre de 2024 en el Periódico Oficial del Estado de Tamaulipas.
+
+Para las etapas de Jornada Electoral; Cómputos y sumatoria; y Asignación de cargos, entrega de constancias de mayoría y declaración de validez de la elección, se estará a lo que dispone la Constitución federal, la Constitución del Estado, la Ley General, esta Ley y los acuerdos y demás normativa que emitan el Consejo General del INE y el Consejo General del IETAM.
+
+Asimismo, se estará a lo establecido en las reglas, lineamientos y criterios que expida el Consejo General del INE aplicables a los Organismos Públicos Locales respecto de los procesos de elección de las personas magistradas y juezas de los Poderes Judiciales locales.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones aplicables del presente Decreto para el órgano de administración judicial corresponderán al Consejo de la Judicatura del Poder Judicial hasta su extinción, en los términos del artículo Quinto Transitorio del Decreto No. 66-67 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Tamaulipas, en materia de reforma al Poder Judicial, publicado en el Periódico Oficial del Estado el 18 de noviembre de 2024.
+
+###### ARTÍCULO CUARTO.
+
+Los nombramientos de las personas magistradas y juezas en funciones que finalicen previo a la conclusión del Proceso Electoral Extraordinario 2024-2025, se prorrogarán hasta la fecha que tomen protesta las personas que emanen de dicha elección.
+
+###### ARTÍCULO QUINTO.
+
+Para periodicidad de la elección de las personas juzgadoras se estará a la duración de los cargos de las Magistradas y Magistrados del Supremo Tribunal de Justicia y de las juezas y los jueces que resulten electos en la elección extraordinaria que se celebre en 2024-2025, de conformidad con establecido en el artículo Tercero Transitorio del Decreto No. 66-67 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Tamaulipas, en materia de reforma al Poder Judicial
+
+###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
