@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2021-07-14"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -65,13 +65,17 @@ III. Instituto: el Instituto Electoral de Tamaulipas;
 
 IV. Consejo General: el Consejo General del Instituto Electoral de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-V. Tribunal: Tribunal Electoral del Estado; y
+V. Tribunal: Tribunal Electoral del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-VI. Pleno: El Pleno del Tribunal Electoral del Estado.
+VI. Pleno: El Pleno del Tribunal Electoral del Estado; y
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+VII. Personas juzgadoras: personas aspirantes y candidaturas a Magistradas y Magistrados y juezas y jueces del Poder Judicial del Estado, electas por voto popular previstas en el artículo 109 de la Constitución.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -145,7 +149,9 @@ Los medios de impugnación deberán presentarse por escrito ante la autoridad re
 
 I. Hacer constar el nombre del actor;
 
-II. Señalar domicilio en Ciudad Victoria para oír y recibir notificaciones y toda clase de documentos, en su caso, a quien en su nombre lo pueda hacer;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+II. Señalar domicilio en Ciudad Victoria para oír y recibir notificaciones y toda clase de documentos, en su caso, a quien en su nombre lo pueda hacer, así como un número telefónico y una dirección de correo electrónico válida para recibir notificaciones electrónicas en los términos del procedimiento que para tal efecto emita el Pleno. En este mismo acto se deberá señalar si se autoriza que todas las notificaciones, incluso las personales, se le realicen de manera electrónica.
 
 III. Acompañar el o los documentos que sean necesarios para acreditar la personería del promovente;
 
@@ -225,7 +231,13 @@ Para los efectos de las fracciones I y III de este artículo, se entenderá por 
 
 IV. Los candidatos podrán participar como coadyuvantes del partido político que los registró, de conformidad con las reglas siguientes:
 
-a) A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga, sin que en ningún caso se pueda tomar en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2025)</small>
+
+a) A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga, sin que en ningún caso se pueda tomar en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+En dichos escritos deberán señalar domicilio en Ciudad Victoria para oír y recibir notificaciones y toda clase de documentos, en su caso, a quien en su nombre lo pueda hacer, así como un número telefónico y una dirección de correo electrónico válida para recibir notificaciones electrónicas en los términos del procedimiento que para tal efecto emita el Pleno. En este mismo acto se deberá señalar si se autoriza que todas las notificaciones, incluso las personales, se le realicen de manera electrónica;
 
 b) Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados;
 
@@ -234,6 +246,10 @@ c) Los escritos deberán ir acompañados del documento con el que se acredite su
 d) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en este Código, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político; y
 
 e) Los escritos deberán estar firmados autógrafamente.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Las personas juzgadoras tendrán la calidad de actoras.
 
 ### CAPITULO VI. De la Legitimación y de la Personería
 
@@ -249,9 +265,13 @@ b) Los miembros del comité estatal, distritales, municipales, o sus equivalente
 
 c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2025)</small>
 
-II. Los ciudadanos, los precandidatos, los candidatos, los aspirantes y candidatos independientes por su propio derecho o a través de la persona que los represente. Los candidatos de partido político o coalición y los candidatos independientes, deberán acompañar el original o copia certificada del documento en el que conste su registro, y los aspirantes a candidatos independientes, así como los precandidatos de los partidos políticos acompañarán el documento que acredite esa calidad, salvo que en el acto impugnado ya se les reconozca como tales;
+II. Las y los ciudadanos, las y los precandidatos, las y los candidatos, las y los aspirantes y candidatas y candidatos independientes por su propio derecho o a través de la persona que los represente. Las candidatas y los candidatos de partido político o coalición y las candidatas y los candidatos independientes, deberán acompañar el original o copia certificada del documento en el que conste su registro, y los aspirantes a candidatas y candidatos independientes, así como las precandidaturas de los partidos políticos acompañarán el documento que acredite esa calidad, salvo que en el acto impugnado ya se les reconozca como tales.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Las personas juzgadoras acompañarán el original, copia certificada o copia simple del documento en el que conste su registro. En cualquier caso, la autoridad responsable al rendir su informe circunstanciado, deberá pronunciarse sobre dicha circunstancia;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -363,9 +383,9 @@ I. Presentarse ante la autoridad u órgano responsable del acto o resolución im
 
 II. Hacer constar el nombre del tercero interesado;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-III. Señalar domicilio para recibir notificaciones; si el compareciente omite señalar domicilio para recibirlos (sic), se practicarán por estrados;
+III. Señalar domicilio en Ciudad Victoria para recibir notificaciones, un número telefónico y una dirección de correo electrónico válida en caso de solicitar la recepción de notificación electrónica, cumpliendo con el procedimiento que al efecto establezca el Pleno; si él o la compareciente omite señalar domicilio o dirección de correo electrónico para recibirlas, se practicarán por estrados. En este mismo acto se deberá señalar si se autoriza que todas las notificaciones, incluso las personales, se le realicen de manera electrónica;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -373,9 +393,9 @@ IV. Exhibir los documentos que acrediten la personalidad del compareciente cuand
 
 V. Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del compareciente;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-VI. Ofrecer las pruebas que junto con el escrito se aportan y precisar las que deban requerirse cuando el compareciente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas, señalando la autoridad o partido político que posee esa información, para que el Tribunal les requiera directamente los documentos o pruebas que deban obrar en el expediente. Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con este requisito; y
+VI. Ofrecer y aportar las pruebas que junto con el escrito se aportan y precisar las que deban requerirse cuando él o la compareciente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas, señalando la autoridad o partido político que posee esa información, para que el Tribunal les requiera directamente los documentos o pruebas que deban obrar en el expediente. Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con este requisito; y
 
 VII. Hacer constar el nombre y la firma autógrafa del compareciente.
 
@@ -537,13 +557,29 @@ Las notificaciones a que se refiere el presente ordenamiento surtirán sus efect
 
 Durante los procesos electorales, el Tribunal podrá notificar sus actos, resoluciones o sentencias en cualquier día y hora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
+
 ###### Artículo 46.
 
-Las notificaciones se realizarán a más tardar cuarenta y ocho horas después de que se emita el acto o resolución a notificar.
+Las notificaciones se realizarán a más tardar tres días después de que se emita el acto o resolución a notificar.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Las resoluciones y acuerdos que emita el Tribunal con motivo del trámite, sustanciación y resolución de los medios de impugnación podrán notificarse de manera electrónica conforme al procedimiento que emita el Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 47.
 
-Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de esta Ley.
+Las notificaciones se podrán hacer personalmente, por estrados y estrados electrónicos, por oficio, de manera electrónica, por correo certificado o por telegrama, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Las partes que actúen en los medios de impugnación normados por esta ley, deberán señalar domicilio para oír y recibir notificaciones en Ciudad Victoria y una dirección de correo electrónico válida en caso de solicitar que las notificaciones, incluso las personales, se les practiquen electrónicamente cumpliendo con el procedimiento que al efecto establezca el Pleno. De no hacerlo así, las notificaciones se realizarán por estrados.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Las notificaciones en materia de transparencia y acceso a la información se realizarán mediante correo electrónico en acuerdo por separado. De no ser posible, se practicarán de manera personal.
 
 ###### Artículo 48.
 
@@ -587,9 +623,11 @@ La notificación por correo se hará en pieza certificada agregándose al expedi
 
 Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
+
 ###### Artículo 55.
 
-Se realizarán mediante oficio las notificaciones que sean ordenadas a los órganos y autoridades responsables.
+Se realizarán mediante oficio las notificaciones que sean ordenadas a los partidos políticos, órganos y autoridades responsables. En caso de autorizarlo, las autoridades y partidos políticos podrán ser notificadas mediante correo electrónico. Para tal efecto, las personas actuarias deberán elaborar la razón o constancia respectiva.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -647,11 +685,21 @@ Los medios de impugnación para garantizar la legalidad de actos y resoluciones 
 
 I. El recurso de apelación;
 
-II. El recurso de defensa de derechos político electorales del ciudadano;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ENERO DE 2025)</small>
 
-III. El recurso de inconformidad; y
+II. El juicio de la ciudadanía;
 
-IV. El juicio para dirimir conflictos o diferencias laborales entre el Instituto y sus servidores o entre el Tribunal y los suyos.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+III. El recurso de inconformidad;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+IV. El juicio electoral; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE ENERO DE 2025)</small>
+
+V. El juicio para dirimir conflictos o diferencias laborales entre el Instituto y sus personas servidores o entre el Tribunal y los suyos.
 
 ## TITULO SEGUNDO. Del Recurso de Apelación
 
@@ -669,7 +717,9 @@ Podrán interponer el recurso de apelación:
 
 I. Los partidos políticos locales y nacionales a través de sus representantes legítimos; y los candidatos independientes, por sí o a través de sus representantes;
 
-II. Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna; cuando no se trate de los supuestos establecidos para el recurso de defensa de derechos político-electorales del ciudadano;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+II. Las ciudadanas y los ciudadanos, por su propio derecho, sin que sea admisible representación alguna; cuando no se trate de los supuestos establecidos para el juicio de la ciudadanía;
 
 III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con sus estatutos respectivos o en los términos de la legislación aplicable;
 
@@ -681,31 +731,57 @@ V. Las personas físicas o jurídicas que se ostenten como acreedores del partid
 
 Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección, serán resueltos junto con los recursos de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa.
 
-## TITULO TERCERO. Del recurso de defensa de derechos político-electorales del ciudadano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2025)</small>
+
+## TITULO TERCERO. Del Juicio de la Ciudadanía
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 64.
 
-El recurso de defensa de derechos político-electorales del ciudadano, será procedente en todo momento, cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos.
+El juicio de la ciudadanía, será procedente en todo momento, cuando la ciudadanía por sí misma y en forma individual o a través de su representación legal, haga valer presuntas violaciones a sus derechos político-electorales de votar y ser votada en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Asimismo, resultará procedente para impugnar los actos y resoluciones de las autoridades responsables cuando teniendo interés jurídico, consideren que indebidamente se afecta su derecho para integrar y/o ejercer los cargos del Poder Judicial electos por voto popular por violaciones a sus derechos político-electorales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 65.
 
-El recurso podrá ser promovido por el ciudadano o ciudadana cuando:
+El juicio de la ciudadanía podrá ser promovido cuando la parte actora:
 
-I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, o habiendo acreditado la representatividad necesaria para contender de manera independiente, le sea negado indebidamente su registro como candidato o candidata a un cargo de elección popular;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, o habiendo acreditado la representatividad necesaria para contender de manera independiente, le sea negado indebidamente su registro como candidato o candidata a un cargo de elección popular; asimismo, cuando considere que, por cualquier causa, se violó su derecho político-electoral de ser votada a alguno de los cargos del Poder Judicial electos por voto popular;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
 II. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior;
 
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
 III. Considere que los actos o resoluciones del partido político al que está afiliado o afiliada violan alguno de sus derechos político-electorales. En este caso, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
 IV. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y en la Ley Electoral del Estado de Tamaulipas.
 
 ## TITULO CUARTO. Del recurso de Inconformidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
+
 ###### Artículo 66.
 
-Durante el proceso electoral, y exclusivamente en la etapa de resultados y de declaraciones de validez, el recurso de inconformidad procederá para impugnar las determinaciones de la autoridad electoral administrativa que violen normas legales relativas a las elecciones de Gobernador, diputados al Congreso del Estado e integrantes de los ayuntamientos, en los términos señalados por el presente ordenamiento.
+Durante el proceso electoral, y exclusivamente en la etapa de resultados y de declaraciones de validez, el recurso de inconformidad procederá para impugnar las determinaciones de la autoridad electoral administrativa que violen normas constitucionales o legales relativas a las elecciones de Gubernatura, Diputaciones al Congreso del Estado e integrantes de los ayuntamientos, en los términos señalados por el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Asimismo, durante el proceso electoral para la elección de las personas juzgadoras, y exclusivamente en la etapa de resultados y de declaraciones de validez, el recurso de inconformidad procederá para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales, en los términos previstos en esta Ley. Los medios de impugnación no producirán efectos suspensivos sobre la resolución o acto impugnado.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Cuando se impugne la elección de las personas juzgadoras, el respectivo recurso de inconformidad deberá presentarse por la persona candidata interesada.
 
 ###### Artículo 67.
 
@@ -717,9 +793,25 @@ II. Por las causales de nulidad establecidas en esta Ley, la declaración de val
 
 III. Por error aritmético, los resultados de los cómputos municipales de la elección de Ayuntamientos, o distritales de la elección de Diputados y de Gobernador; y por error aritmético, el cómputo de Diputados por el principio de representación proporcional, y de Regidores por el mismo principio;
 
-IV. La asignación de Diputados y Regidores por el principio de representación proporcional que realice el Consejo General del Instituto Electoral de Tamaulipas; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-V. Por error aritmético, los resultados del cómputo estatal de la elección de Gobernador, y por consecuencia, la declaración de validez respectiva y el otorgamiento de la constancia de mayoría.
+IV. La asignación de Diputaciones y Regidurías por el principio de representación proporcional que realice el Consejo General del Instituto Electoral de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+V. Por error aritmético, los resultados del cómputo estatal de la elección de la persona titular del Poder Ejecutivo, y por consecuencia, la declaración de validez respectiva y el otorgamiento de la constancia de mayoría;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+VI. Por nulidad de la votación recibida en una o varias casillas, los resultados consignados en las actas del respectivo cómputo de la elección de personas juzgadoras;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+VII. Por las causales de nulidad establecidas en esta Ley, la declaración de validez de la elección de las personas juzgadoras y, por consecuencia, el otorgamiento de la constancia de mayoría; y
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+VIII. Por error aritmético, los resultados de los respectivos cómputos de la elección de las personas juzgadoras y, por consecuencia, la declaración de validez respectiva y el otorgamiento de la constancia de mayoría.
 
 ###### Artículo 68.
 
@@ -727,9 +819,9 @@ El escrito de protesta por los resultados contenidos en el acta de escrutinio y 
 
 El escrito de protesta deberá contener:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-I. El partido político o candidato independiente que lo presenta;
+I. El partido político, candidatura independiente, o candidatura a un cargo del Poder Judicial electa por voto popular que lo presenta;
 
 II. La mesa directiva de casilla ante la que se presenta;
 
@@ -739,9 +831,9 @@ IV. La causa por la que se presenta la protesta;
 
 V. Cuando se presente ante el Consejo Distrital o Municipal que corresponda, se deberán identificar, además, individualmente cada una de las casillas que se protestan cumpliendo con lo señalado en las fracciones III y IV anteriores; y
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-VI. El nombre, la firma y cargo partidario, o el nombre y firma del representante o candidato independiente que lo presenta.
+VI. El nombre, la firma y cargo partidario, o el nombre y firma de la persona representante o candidata o candidato independiente o candidatura a un cargo del Poder Judicial electa por voto popular.
 
 El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de que se inicie la sesión de los cómputos, en los términos que señale el Código.
 
@@ -771,11 +863,15 @@ Si se impugna la votación recibida en casillas especiales, su anulación afecta
 
 Cuando se impugne por nulidad toda la elección de Gobernador, el respectivo recurso de inconformidad deberá presentarse ante el Consejo General del Instituto Electoral de Tamaulipas, acompañado de las pruebas correspondientes.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+De igual manera, cuando se impugne por nulidad toda la elección de alguna persona juzgadora electa en todo el territorio del estado, el respectivo recurso de inconformidad deberá presentarse ante el Consejo General, acompañado de las pruebas correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 72.
 
-El recurso de inconformidad sólo podrá ser promovido por los partidos políticos, las coaliciones y los candidatos independientes.
+El recurso de inconformidad sólo podrá ser promovido por los partidos políticos, las coaliciones, las candidaturas independientes y las candidaturas a un cargo del Poder Judicial electa por voto popular.
 
 ###### Artículo 73.
 
@@ -799,21 +895,61 @@ VI. Declarar la nulidad de la elección de Diputados o Ayuntamientos y, en conse
 
 VII. Revocar la determinación sobre la declaración de validez u otorgamiento de constancias de mayoría y validez en las elecciones de Diputados o integrantes de los Ayuntamientos;
 
-VIII. Hacer la corrección de los cómputos distritales o municipales, cuando sean impugnados por error aritmético; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-IX. Declarar la nulidad de la elección de Gobernador.
+VIII. Hacer la corrección de los cómputos distritales o municipales, cuando sean impugnados por error aritmético;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+IX. Declarar la nulidad de la elección de Gubernatura;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+X. Declarar la nulidad de la votación emitida en una o varias casillas y modificar, en consecuencia, las actas del cómputo que corresponda de la elección de las personas juzgadoras;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XI. Revocar la constancia expedida en favor de una candidatura y otorgarla a la candidatura que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas; y modificar, en consecuencia, las actas de cómputo que correspondan en la elección de las personas juzgadoras;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XII. Declarar la nulidad de la elección de las personas juzgadoras y, en consecuencia, revocar las constancias expedidas;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XIII. Revocar la determinación sobre la declaración de validez u otorgamiento de constancias de mayoría y validez en las elecciones de las personas juzgadoras; y
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XIV. Hacer la corrección de los cómputos que correspondan, cuando sean impugnados por error aritmético en las elecciones de las personas juzgadoras.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 75.
 
-Los recursos de inconformidad de las elecciones de Diputados, Ayuntamientos y Gobernador deberán quedar resueltos a más tardar el 20 de agosto, del año de la elección.
+Los recursos de inconformidad de las elecciones de Diputados, Ayuntamientos, Gobernador y personas juzgadoras deberán quedar resueltos a más tardar el 20 de agosto, del año de la elección.
 
 ###### Artículo 76.
 
 Cuando los Consejos correspondientes del Instituto Electoral de Tamaulipas se hubiesen negado injustificadamente a realizar el recuento de votos, procederá solicitarlo vía incidental en el recurso de inconformidad. El Tribunal Electoral resolverá lo conducente y en su caso ordenará la realización del recuento indebidamente omitido.
 
-## TITULO QUINTO. De las Nulidades
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE ENERO DE 2025)</small>
 
-## TITULO SEXTO. De los Conflictos laborales
+## TITULO CUARTO BIS. Del Juicio Electoral
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+###### Artículo 76 Bis.
+
+El juicio electoral será procedente para impugnar los actos y resoluciones que restrinjan el derecho a ser votadas de las personas juzgadoras en el proceso electoral respectivo, incluyendo los actos y resoluciones de los Comités de Evaluación previstos en el artículo 109 de la Constitución, distintos a los supuestos de procedencia del juicio de la ciudadanía y del recurso de inconformidad.
+
+Las personas juzgadoras solo podrán promover el juicio electoral cuando acrediten su interés jurídico como aspirantes o candidatas.
+
+El plazo para impugnar será de tres días, contados a partir del siguiente a aquél en que se haya notificado o se tenga conocimiento del acto o resolución que les cause perjuicio.
+
+Para la tramitación, sustanciación y resolución del juicio electoral serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta Ley y, en particular, las señaladas en el recurso de apelación.
+
+## TITULO QUINTO. De las Nulidades
 
 ### CAPITULO I. De las Reglas Generales
 
@@ -841,11 +977,15 @@ Los partidos políticos o candidatos y los demás sujetos legitimados por esta l
 
 ### CAPITULO II. De las Causales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
+
 ###### Artículo 82.
 
-Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas, y en consecuencia, los resultados parciales o totales del cómputo de la elección impugnada en un municipio; o la elección de Gobernador o la fórmula de Diputados de mayoría relativa en un distrito electoral; o de Diputados y Regidores según el principio de representación proporcional.
+Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados parciales o totales del cómputo de la elección impugnada en un municipio; o la elección de Gubernatura o la fórmula de Diputaciones de mayoría relativa en un distrito electoral; o de Diputaciones y Regidurías según el principio de representación proporcional; asimismo, podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados parciales o totales del cómputo de la elección impugnada en el ámbito territorial que corresponda a las elecciones de los cargos de personas juzgadoras.
 
-Los efectos de la nulidad decretada por el Tribunal, respecto de la votación emitida en una casilla o de una elección en un municipio o distrito electoral se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
+
+Los efectos de la nulidad decretada por el Tribunal, respecto de la votación emitida en una casilla o de una elección en un municipio o distrito electoral o judicial, o región judicial, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
 
 ###### Artículo 83.
 
@@ -859,9 +999,9 @@ III. Recibir la votación personas u órganos distintos a los facultados por el 
 
 IV. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en el Código;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-V. Haber impedido el acceso de los representantes de los partidos políticos o de los candidatos independientes, o haberlos expulsado sin causa justificada;
+V. Haber impedido el acceso de las representaciones de los partidos políticos o de las candidaturas independientes, o de las personas juzgadoras, o haberlas expulsado sin causa justificada;
 
 VI. Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores y siempre que esos hechos sean determinantes para el resultado de la votación;
 
@@ -871,7 +1011,9 @@ VIII. Realizar, sin causa justificada, el escrutinio y cómputo en local diferen
 
 IX. Haber mediado dolo o error en la computación de los votos y siempre que ello sea determinante para el resultado de la votación;
 
-X. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales a los consejos distritales o municipales electorales, fuera de los plazos señalados por el Código; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
+
+X. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales a los consejos electorales correspondientes, fuera de los plazos señalados por la Ley Electoral; y
 
 XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
@@ -891,15 +1033,31 @@ IV. Más de la mitad de los integrantes de una planilla electa de ayuntamientos,
 
 Sólo podrá declararse la nulidad de una elección por el principio de mayoría relativa, cuando las causas que se invoquen hayan sido plenamente acreditadas y se demuestre que las mismas son determinantes para el resultado de la elección correspondiente.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
 
 ###### Artículo 85 Bis.
 
-También serán nulas las elecciones en el Estado en los casos previstos por el Artículo 41, fracción VI, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 78 bis de la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+También serán nulas las elecciones en el Estado en los casos previstos por el Artículo 41, Base VI, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 78 bis de la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
 
-## TITULO UNICO. De su Organización y Competencia
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+###### Artículo 85 Ter.
+
+Son causas de nulidad de la elección de personas juzgadoras, adicionales a las previstas en el artículo anterior:
+
+I. Cuando alguna o algunas de las causales de nulidad previstas en el artículo 83 de esta Ley se acrediten en por lo menos el 25% de las casillas instaladas en el ámbito territorial correspondiente y, en su caso, no se hayan corregido durante el recuento de votos;
+
+II. Cuando en el ámbito territorial correspondiente no se instale el 25% o más de las casillas y, consecuentemente, la votación no hubiere sido recibida;
+
+III. Cuando la candidatura ganadora de la elección resulte inelegible;
+
+IV. Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido en la Ley Electoral; y
+
+V. Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente una campaña de una persona candidata.
+
+Dichas causales deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
+
+## TITULO SEXTO. De los Conflictos laborales
 
 ###### Artículo 86.
 
@@ -942,6 +1100,10 @@ VII. Dentro de los diez días siguientes a la celebración de la audiencia de co
 # LIBRO TERCERO. Del Tribunal Electoral del Estado
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+## TITULO UNICO. De su Organización y Competencia
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
 ### CAPITULO I. Del Pleno, su Integración y Competencia
 
@@ -1534,3 +1696,15 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-229 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
