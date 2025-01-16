@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-12-20"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -3001,23 +3001,31 @@ XXIV. Por la expedición de la Constancia de Registro de las Empresas de Redes d
 
 XXV.- Por el refrendo anual de la Constancia de Registro de las Empresas de Redes de Transporte, para realizar actividades de mediación, administración o promoción en el Estado, con el importe de trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-XXVI.- Por la expedición anual del Certificado de Persona Operadora Titular o Adhesiva de las Empresas de Redes de Transporte, con el importe de veinte veces el valor diario de la Unidad de Medida de Actualización; y
+XXVI.- Por la expedición anual del Certificado de Persona Operadora Titular o Adhesiva de las Empresas de Redes de Transporte, con el importe de veinte veces el valor diario de la Unidad de Medida de Actualización;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XXVII.- Por ingreso en el Padrón de Maquinaria Pesada, con vigencia de 2 años, 5 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2025)</small>
+
+XXVIII.- Por el refrendo en el Padrón de Maquinaria Pesada, con vigencia de 2 años, 3 veces el valor diario de la Unidad de Medida y Actualización; y
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-XXVII.- Los distribuidores autorizados de venta de vehículos y motocicletas, así como los comerciantes en el ramo de vehículos y motocicletas, tendrán la obligación de presentar durante el mes de mayo de cada año, declaración anual informativa sobre las enajenaciones de vehículos y motocicletas nuevos o seminuevos realizadas en territorio del Estado en el ejercicio inmediato anterior.
+XXIX.- Los distribuidores autorizados de venta de vehículos y motocicletas, así como los comerciantes en el ramo de vehículos y motocicletas, tendrán la obligación de presentar durante el mes de mayo de cada año, declaración anual informativa sobre las enajenaciones de vehículos y motocicletas nuevos o seminuevos realizadas en territorio del Estado en el ejercicio inmediato anterior.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXVII, P.O. 20 DE DICIEMBRE DE 2024]</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIX, P.O. 20 DE DICIEMBRE DE 2024]</small>
 
 Para efectos de lo anterior, la Secretaría de Finanzas establecerá el formato a través del cual se presentará la declaración de referencia.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXVII, P.O. 20 DE DICIEMBRE DE 2024]</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIX, P.O. 20 DE DICIEMBRE DE 2024]</small>
 
 Tratándose de la venta de motocicletas, los distribuidores y comerciantes estarán obligados a informar en la declaración los datos sobre el registro que se haga en el Padrón Vehicular de la Entidad, así como la nomenclatura de placas de circulación, el folio de la tarjeta de circulación y la Entidad que matriculó.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXVII, P.O. 20 DE DICIEMBRE DE 2024]</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIX, P.O. 20 DE DICIEMBRE DE 2024]</small>
 
 El incumplimiento de esta obligación se considerará infracción conforme lo establecido en el artículo 81, y será sancionado en términos del artículo 82, ambos del Código Fiscal del Estado de Tamaulipas.
 
@@ -4996,3 +5004,23 @@ Se Derogan las disposiciones normativas que se opongan al presente Decreto.
 La Secretaría de Finanzas del Gobierno del Estado deberá prever los mecanismos y otorgar las facilidades administrativas y operativas necesarias a los distribuidores y comerciantes de motocicletas para el cumplimiento de lo dispuesto en el primer párrafo de la fracción XXVII del artículo 73 de la Ley de Hacienda del Estado de Tamaulipas que se reforma por este Decreto. Dichas medidas deberán garantizar que los trámites de emplacamiento se realicen de manera eficiente y expedita, evitando retrasos injustificados, facilitando el cumplimiento de esta disposición.
 
 En un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas deberá emitir las directrices y lineamientos específicos para la implementación de este Decreto, asegurando su eficacia y operatividad, debiendo preverse alternativas de cumplimiento al mismo en caso de retraso en los procesos de registro y emplacamiento vehicular.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-230 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas, la Secretaría de Obras Públicas y la Secretaría de Seguridad Pública deberán realizar las adecuaciones administrativas y normativas necesarias para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán sujetarse los propietarios para quedar inscritos en el Padrón de Maquinaria Pesada Destinada o de Uso para la Construcción, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
