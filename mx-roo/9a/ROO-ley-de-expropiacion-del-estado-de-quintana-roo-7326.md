@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-expropiacion-del-estado-de-quintana-roo-7326"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-30"
-last_updated: "2019-09-13"
+last_updated: "2025-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE EXPROPIACION DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DE DOMINIO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 16 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EXPROPIACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial el 30 noviembre de 1978.
 
@@ -236,3 +238,15 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 090 POR EL QUE SE EXPIDE LA LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DE DOMINIO DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Expropiación del Estado de Quintana Roo, expedida mediante Decreto Número 017 publicada en el Periódico Oficial del Estado de Quintana Roo el treinta de noviembre de mil novecientos setenta y ocho.
+
+TERCERO. Todos los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto y que aún se encuentren en trámite, concluirán su procedimiento de conformidad con la Ley de Expropiación vigente al momento de su inicio.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
