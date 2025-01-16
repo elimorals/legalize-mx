@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2024-12-16"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1041,9 +1041,13 @@ Las secretarias y/o los secretarios integrantes de la Mesa Directiva serán elec
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año legislativo: el primero, improrrogable, iniciará el primero de octubre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; el segundo dará principio el quince de enero y terminará el treinta de junio.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
 
-En fecha de la segunda quincena de febrero de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
+En fecha de la primera quincena de marzo de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe de la persona titular del Poder Ejecutivo del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+En los años en que haya elecciones federales para renovar la Presidencia de la República, el informe que rinda la persona titular del Poder Ejecutivo del Estado, se realizará en la primera quincena de febrero.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2005,9 +2009,9 @@ XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere 
 
 XXXII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2025)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la Administración Pública Estatal en sesión pública y solemne del Congreso que se verificará durante la segunda quincena de febrero de cada año que determine el Congreso;
+XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la Administración Pública Estatal en sesión pública y solemne del Congreso que se verificará durante la primera quincena de marzo de cada año que determine el Congreso;
 
 XXXIV.- Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;
 
@@ -2103,9 +2107,13 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
 
-Durante la segunda quincena de febrero de cada año, mediante informe escrito, los titulares de las dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
+Durante la primera quincena de marzo de cada año, mediante informe escrito, las y los titulares de las dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+
+En los años en que haya elecciones federales para renovar la Presidencia de la República, los informes de las y los titulares de las Dependencias de la Administración Pública Estatal, se realizará en la primera quincena de febrero.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -5596,3 +5604,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-227 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 44, PÁRRAFO SEGUNDO; 91, FRACCIÓN XXXIII, Y 93, PÁRRAFO CUARTO; Y SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 44, Y UN PÁRRAFO QUINTO AL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los años en que haya elecciones federales para renovar la Presidencia de la República, el informe que rinda el titular del Poder Ejecutivo del Estado, así como las comparecencias de las y los titulares de las dependencias de la Administración Pública Estatal, se realizará en la primera quincena de febrero.
