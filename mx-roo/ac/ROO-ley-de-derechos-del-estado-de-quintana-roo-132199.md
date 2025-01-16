@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2025-01-10"
+last_updated: "2025-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "ROO"
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE ENERO DE 2025.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -1073,9 +1075,9 @@ IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al may
 
 V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2024)
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024) (F. DE E., P.O. 16 DE ENERO DE 2025)
 
-VI. Servicio en línea y/o a domicilio para su distribución al mayoreo. 604.00
+VI. Licencia adicional de venta en línea y/o a domicilio 604.00
 
 CONCEPTO TARIFA
 
