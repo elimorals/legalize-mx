@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-profesional-de-carrera-de-la-auditoria-86281"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-22"
-last_updated: "2012-02-22"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de febrero de 2012.
 
@@ -385,13 +385,25 @@ III. Un representante de la Universidad de Monterrey;
 
 IV. Un representante de la Universidad Regiomontana;
 
-V. Un representante del Instituto de Contadores Públicos de Nuevo León, A.C.; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
 
-VI. El Auditor General del Estado.
+V. Un representante del Instituto de Contadores Públicos de Nuevo León, A.C.;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+VI. El Auditor General del Estado; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2025)</small>
+
+VII. Un Diputado Local, representante del Poder Legislativo, que será designado por el Pleno del Congreso del Estado.
 
 Para efectos de lo señalado en el párrafo anterior, el Auditor, mediante oficio, solicitará a cada uno de los Rectores de las instituciones académicos (sic) referidas, que los representantes que designen cuenten con conocimientos en auditoría y contabilidad gubernamental.
 
 En caso de empate en la votación, el Auditor General contará con voto de calidad.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Las sesiones del comité se realizarán de manera pública, salvo que por disposición expresa de una ley se disponga lo contrario.
 
 ###### Artículo 27.
 
@@ -718,3 +730,11 @@ JAVIER TREVIÑO CANTÚ
 EL C. CONTRALOR GENERAL
 
 JORGE MANJARREZ RIVERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 050. SE REFORMAN LAS FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VII Y EL PÁRRAFO QUINTO, TODOS AL ARTÍCULO 26 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación.
