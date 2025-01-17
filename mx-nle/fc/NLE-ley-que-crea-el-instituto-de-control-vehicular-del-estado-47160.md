@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2023-11-24"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -339,23 +339,41 @@ I. Un Presidente, que será el Gobernador del Estado o quien éste designe;
 
 II. Un Secretario, que será el Director General del Instituto; y
 
-III. Cinco vocales, que serán los titulares de las siguientes dependencias y entidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE ENERO DE 2025)</small>
+
+III. Seis vocales, que serán los titulares de las siguientes dependencias y entidades:
 
 a) El Secretario de Finanzas y Tesorero General del Estado;
 
-b) El Secretario de Seguridad Pública;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
-c) El Procurador General de Justicia del Estado;
+b) El Secretario de Seguridad;
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+
+c) El Fiscal General de Justicia del Estado;
 
 d) El Director General de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público del Estado; y
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
-e) El Secretario de Desarrollo Sustentable.
+e) El Secretario de Medio Ambiente;
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+f) Un Diputado Local que represente al Poder Legislativo, nombrado por el Pleno del H. Congreso del Estado de Nuevo León
 
 La ausencia del Gobernador del Estado, o de quien éste designe para presidir la Junta, será suplida por el Secretario de Finanzas y Tesorero General del Estado, y en su defecto, por la persona que éste último designe. El resto de los integrantes de la Junta de Gobierno podrán ser representados en sus ausencias por quienes designen para ese efecto con el carácter de suplentes.
 
 El Instituto contará además con un Consejo de Participación Ciudadana representativo de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+En caso de empate, el Presidente de la Junta tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Las sesiones del consejo de (sic) realizarán de manera pública, salvo que por disposición expresa de una ley se disponga lo contrario.
 
 ###### Artículo 8.
 
@@ -998,3 +1016,11 @@ SÉPTIMO.- En un plazo no mayor a 365 días naturales contados a partir de la en
 OCTAVO.- Para efecto de lo establecido en el artículo 148 Bis de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, se adoptará el principio pro usuario, considerando para la homologación en tarifas la más baja vigente al momento de la entrada en vigor de la presente reforma. Dicha tarifa deberá mantenerse como mínimo hasta el 1 de enero del año 2024.
 
 NOVENO.- En cuanto a lo referido a favor de propietarios de vehículos eléctricos e híbridos establecido en los artículos 124 Bis 7 de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, 32 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, y 14 Bis de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, estos entrarán en vigor a partir del 01 de enero del 2024.
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 032. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7, ASÍ COMO SUS INCISOS B), C) Y E); SE ADICIONA UN INCISO F) A LA FRACCIÓN III DEL ARTÍCULO 7, ASÍ COMO UN PÁRRAFO TERCERO Y UN PÁRRAFO CUARTO A LA FRACCIÓN III DEL ARTÍCULO 7, DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación.
