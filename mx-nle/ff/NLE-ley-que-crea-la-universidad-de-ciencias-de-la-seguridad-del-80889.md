@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-de-ciencias-de-la-seguridad-del-808
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2021-05-17"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de abril de 2011.
 
@@ -93,7 +93,9 @@ El objeto de la Universidad será el reclutamiento, la selección, formación, c
 
 En los términos del párrafo anterior, el Titular del Poder Ejecutivo del Estado, tendrá a la Universidad como instancia competente para dar cumplimiento a las disposiciones contenidas en la presente Ley y en las que, sobre el particular, señalan la Ley de la Materia y la Ley General.
 
-Respecto al personal de la Procuraduría General de Justicia del Estado y del Instituto de la Defensoría Pública, la Universidad los auxiliará en su formación, capacitación, actualización, desarrollo, profesionalización, especialización, evaluación y certificación de competencias laborales.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Respecto al personal de la Fiscalía General de Justicia del Estado y del Instituto de la Defensoría Pública, la Universidad los auxiliará en su formación, capacitación, actualización, desarrollo, profesionalización, especialización, evaluación y certificación de competencias laborales.
 
 ###### Artículo 6º.
 
@@ -594,3 +596,9 @@ P.O. 17 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 490. SE REFORMA (SIC) LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII AMBOS DEL ARTÍCULO 29 DE LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial del Estado.
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 035. SE REFORMA EL PÁRRAFO TERCERO, DEL ARTÍCULO 5°, DE LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
