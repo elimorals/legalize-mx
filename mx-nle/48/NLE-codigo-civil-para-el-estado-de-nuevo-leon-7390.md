@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2024-01-24"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -14463,9 +14463,9 @@ II.- Cuando el interés del negocio para el que se confiere llegue a dos veces e
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
-El mandato de actos de dominio y de administración deberá otorgarse sin excepción en escritura pública.
+El mandato de actos de dominio deberá otorgarse sin excepción en escritura pública. Lo mismo será para los casos de mandatos de actos de administración otorgados por personas morales cuando entre el objeto social de estas se encuentre la administración y/o enajenación de bienes inmuebles.
 
 ###### Art. 2450.
 
@@ -17911,16 +17911,26 @@ En un plazo de 180 días naturales contados a partir de la entrada en vigor del 
 
 Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
 
-###### ARTICULO TERCERO.
+P.O. 17 DE ENERO DE 2025.
 
-Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plena, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 044. SE REFORMA LA LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 2449 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
-P.O. 9 DE OCTUBRE DE 1999
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO CUARTO.
+El presente decreto entrará en vigor al día siguiente de su publicación.
 
-El que esté desempeñando en la actualidad el cargo de curador, deberá, dentro de los treinta días siguientes al inicio de la vigencia de este Código, poner en conocimiento de la autoridad judicial y el Ministerio Público, la existencia del negocio en que esté interviniendo con tal carácter, a efecto que las citadas autoridades determinen lo conducente para la correcta vigilancia y ejercicio de la tutela.
+###### ARTÍCULO SEGUNDO.
 
-###### ARTICULO QUINTO.
+Por lo que se refiere al Folio Real, la obligación de su uso estará sujeta a la publicación y entrada en vigor de la legislación reglamentaria correspondiente, siendo gradual y progresiva según se vayan incorporando a dicho sistema registral los inmuebles registrados y catastrados en el Estado.
 
-Siempre que en el presente Código se haga mención de día de salario, se entenderá el salario mínimo general diario que rija en la zona que corresponda a la Capital del Estado.
+###### ARTÍCULO TERCERO.
+
+El uso del Código QR notarial entrará en vigor 180 días naturales posteriores a la publicación de este decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+Los Notarios Públicos tendrán 90 días naturales para llevar a cabo (sic) adquisición e implementación de las herramientas digitales necesarias para dar cumplimiento a lo señalado en el artículo 107 de la Ley del Notariado del Estado de Nuevo León.
