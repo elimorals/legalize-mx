@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-agrario-1390
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-07"
-last_updated: "2019-11-15"
+last_updated: "2025-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139023&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-11-05"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO, PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE NOVIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2025 (ABROGADO).
 
 Reglamento publicado en el Número 5 del Diario Oficial de la Federación, el jueves 7 de noviembre de 2019.
 
@@ -1670,3 +1670,25 @@ SEXTO.- Con relación a los expedientes, asuntos, procedimientos y recursos inic
 SÉPTIMO.- Cuando, en términos del último párrafo del artículo 39 de este Reglamento, el auxilio que proporcione la Secretaría de Desarrollo Agrario, Territorial y Urbano al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Desarrollo Agrario, Territorial y Urbano, Román Guillermo Meyer Falcón.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO".]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agrario, Territorial y Urbano, publicado el 7 de noviembre de 2019 en el Diario Oficial de la Federación.
+
+Las disposiciones reglamentarias y administrativas que derivan del reglamento que se abroga, continúan vigentes en lo que no se opongan con las disposiciones de este decreto.
+
+TERCERO. Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Desarrollo Agrario, Territorial y Urbano que cambian de denominación, se modifican, desaparecen o se crean por virtud del presente ordenamiento, se entenderán hechas u otorgadas, según el caso, a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+CUARTO. Las transferencias de funciones, recursos humanos, materiales y financieros, serán coordinadas y vigiladas por la Unidad de Administración y Finanzas.
+
+Estas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como a las de recursos humanos y de activos patrimoniales, según corresponda, las cuales, en su caso, deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se autorizarán ampliaciones al presupuesto autorizado del Ramo 15 Desarrollo Agrario, Territorial y Urbano para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Reglamento.
+
+QUINTO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este decreto, que deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que este ordenamiento le atribuya la competencia respectiva.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente ordenamiento deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Desarrollo Agrario, Territorial y Urbano para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha dependencia.
