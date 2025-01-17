@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-administracion-de-bienes-asegurados-decomisados-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-24"
-last_updated: "2014-12-24"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL 
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 199 POR EL QUE SE EMITE LA DECLARATORIA DE INICIO DE LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2014.
 
@@ -69,7 +69,9 @@ VII. Interesado: La persona que conforme a derecho, tenga interés jurídico sob
 
 VIII. Ministerio Público: El Ministerio Público del Estado de Nuevo León;
 
-IX. Procuraduría: La Procuraduría General de Justicia del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+IX. Fiscalía: Fiscalía General de Justicia del Estado de Nuevo León;
 
 X. Secretario Técnico: El Secretario Técnico de la Comisión para la supervisión de la administración de bienes asegurados, abandonados y decomisados; y
 
@@ -79,9 +81,13 @@ XI. Unidad: La Unidad de Bienes Asegurados, Decomisados o Abandonados.
 
 Administración de los bienes.
 
-La administración de los bienes asegurados sujetos a investigación o procedimientos penales, estará a cargo de la Procuraduría, en los términos de las disposiciones reglamentarias, debiendo observarse también lo dispuesto por el Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
-Los bienes abandonados o decomisados durante el procedimiento penal, serán administrados por la Procuraduría en los términos de la presente Ley.
+La administración de los bienes asegurados sujetos a investigación o procedimientos penales, estará a cargo de la Fiscalía, en los términos de las disposiciones reglamentarias, debiendo observarse también lo dispuesto por el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Los bienes abandonados o decomisados durante el procedimiento penal, serán administrados por la Fiscalía en los términos de la presente Ley.
 
 Para la administración y disposición de los bienes, se estará a la legislación que corresponda atendiendo a la naturaleza del bien del que se trate o el acto a realizar, salvo lo dispuesto en esta Ley.
 
@@ -103,7 +109,9 @@ Integración de la Comisión.
 
 La Comisión se integrará por:
 
-I. El Procurador General de Justicia del Estado de Nuevo León, quien la presidirá;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+I. El Fiscal General de Justicia del Estado de Nuevo León, quien la presidirá;
 
 II. El Presidente del Tribunal Superior de Judicial (sic) del Estado de Nuevo León y del Consejo de la Judicatura;
 
@@ -147,7 +155,9 @@ VI. Las demás que se señalen en esta Ley y otras disposiciones jurídicas apli
 
 La Unidad de Bienes Asegurados, Decomisados o Abandonados.
 
-Es la Unidad de la Procuraduría, que será la responsable de la administración de los bienes asegurados, decomisados o abandonados en un procedimiento penal.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Es la unidad de la Fiscalía, que será la responsable de la administración de los bienes asegurados, decomisados o abandonados en un procedimiento penal.
 
 ###### Artículo 9.
 
@@ -159,7 +169,9 @@ La Unidad, tendrá a su cargo la administración de los bienes, en los términos
 
 Designación y atribuciones.
 
-El Titular de la Unidad será designado por el Titular de la Procuraduría y tendrá las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE ENERO DE 2025)</small>
+
+El Titular de la Unidad será designado por el Titular de la Fiscalía y tendrá las atribuciones siguientes:
 
 Apartado A. En su calidad de Administrador:
 
@@ -171,7 +183,9 @@ III. Determinar el lugar en que serán custodiados y conservados los bienes aseg
 
 IV. Rendir los informes previos y con justificación en los juicios de amparo cuando sea señalado como autoridad responsable;
 
-V. Dirigir y coordinar las actividades de la unidad, de conformidad con lo dispuesto en esta Ley, el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León y en los acuerdos que al efecto apruebe la Comisión;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+V. Dirigir y coordinar las actividades de la unidad, de conformidad con lo dispuesto en esta Ley, el Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León y en los acuerdos que al efecto apruebe la Comisión.
 
 VI. Nombrar y remover depositarios, interventores o administradores de los bienes, cuando no lo haya hecho el Ministerio Público o la Autoridad Judicial, según sea el caso;
 
@@ -386,3 +400,11 @@ Artículo Tercero.- No obstante lo señalado en los artículos anteriores, el Ti
 Artículo Cuarto.- Remítase copia de la presente declaratoria al Congreso de la Unión, a las legislaturas Estatales, a la Asamblea del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como a las Entidades Federativas, para su conocimiento y efectos a que haya lugar.
 
 Artículo Quinto.- Publíquese la presente Declaratoria en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 038. SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN IX DEL ARTÍCULO 2, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 3, LA FRACCIÓN I DEL ARTÍCULO 5, EL ARTÍCULO 8, EL PÁRRAFO PRIMERO Y LA FRACCIÓN V DEL APARTADO A DEL ARTÍCULO 10, TODOS DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE NUEVO LEÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación.
