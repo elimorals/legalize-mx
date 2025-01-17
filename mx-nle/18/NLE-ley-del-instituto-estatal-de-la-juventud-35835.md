@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2023-10-25"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -179,7 +179,13 @@ XXV. Solicitar asesoría a organizaciones nacionales e internacionales para que 
 
 XXVI. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos y documentales en las materias de interés para ellos, así como promover su acceso a nuevas tecnologías de información y comunicación;
 
-XXVII. Apoyar, en la esfera de su competencia, albergues, centros de atención e integración y casas de asistencia para jóvenes; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+XXVII. Apoyar, en la esfera de su competencia, albergues, centros de atención e integración y casas de asistencia para jóvenes;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2025)</small>
+
+XXVII Bis. Promover y fomentar la participación política de la juventud neolonesa; y
 
 XXVIII. Las demás que le otorguen esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
@@ -668,3 +674,9 @@ P.O. 25 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 428. SE REFORMAN LAS FRACCIONES II, VII, VIII DEL ARTÍCULO 15, LOS ARTÍCULOS 16, 25 Y 37; Y SE ADICIONA LAS FRACCIONES IX Y X AL ARTÍCULO 15, TODOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX DEL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 029. SE REFORMA LA FRACCIÓN XXVII AL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXVII BIS AL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD”.]
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación.
