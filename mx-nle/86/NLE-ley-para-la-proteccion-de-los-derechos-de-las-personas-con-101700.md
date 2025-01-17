@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2022-01-26"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -879,7 +879,9 @@ V. Vigilar y en su caso visitar los establecimientos públicos o privados donde 
 
 VI. Vigilar que a toda persona con discapacidad se le garantice el derecho de ser escuchada en los ámbitos médico y legal, con la intervención de la familia o autoridad competente en su caso;
 
-VII. Coadyuvar con la Procuraduría General de Justicia del Estado, cuando las personas con discapacidad sean víctimas de cualquier conducta tipificada como delito; así como en los casos de que se trate de faltas administrativas;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+VII. Coadyuvar con la Fiscalía General de Justicia del Estado, cuando las personas con discapacidad sean víctimas de cualquier conducta tipificada como delito; así como en los casos de que se trate de faltas administrativas;
 
 VIII. Asesorar a las personas con discapacidad mediante la vía de Métodos Alternos, para la solución de conflictos en cualquier procedimiento legal en el que sean partes interesadas;
 
@@ -1110,5 +1112,11 @@ P.O. 30 DE NOVIEMBRE DE 2021.
 P.O. 26 DE ENERO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 047. SE REFORMAN LAS FRACCIONES I Y V DEL ARTÍCULO 15, LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 21 Y LA FRACCIÓN IV DEL ARTÍCULO 27 BIS 1; Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 21, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 030. SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 64, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
