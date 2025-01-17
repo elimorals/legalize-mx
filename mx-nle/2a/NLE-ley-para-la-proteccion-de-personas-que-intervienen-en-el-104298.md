@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-personas-que-intervienen-en-el-104298
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-24"
-last_updated: "2014-12-24"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "NLE"
 ---
 # LEY PARA LA PROTECCION DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 199 PUBLICADO EN EL P.O. 24 DE DICIEMBRE DE 2014 SE DECLARA QUE A PARTIR DEL 1 DE ENERO DE 2016, INICIA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 5 DE MARZO DE 2014, EN TODO EL TERRITORIO DEL ESTADO DE NUEVO LEÓN Y RESPECTO DE TODOS LOS DELITOS REGULADOS EN EL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN Y LEYES ESPECIALES.</small>
-
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO, LA PRESENTE LEY INICIARÁ SU VIGENCIA, EN LA MISMA FECHA EN QUE ENTRE EN VIGOR EN EL ESTADO DE NUEVO LEÓN, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2014.
 
@@ -61,17 +59,29 @@ I. Convenio: El documento que suscriben el Titular de la Unidad y la persona pro
 
 II. Estudio Técnico: La opinión técnica emitida por la Unidad con el fin de determinar la situación de riesgo e identificar la medida de resguardo que pudiera ser aplicable;
 
-III. Ley: La Ley para la Protección de Personas que Intervienen en el Procedimiento Penal;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
 
-IV. Medidas de Resguardo: Las medidas dictadas por el Agente del Ministerio Público, tendientes a eliminar o reducir los riesgos que pueda sufrir la persona protegida por esta Ley;
+III. Fiscalía: La Fiscalía General de Justicia del Estado de Nuevo León;
 
-V. Persona Protegida: Persona en cuyo favor se dictó una medida de resguardo;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
 
-VI. Procedimiento Penal: Las etapas comprendidas desde la investigación inicial hasta la sentencia ejecutoriada, de conformidad con el Código Nacional de Procedimientos Penales;
+IV. Fiscal General: El titular de la Fiscalía General de Justicia del Estado de Nuevo León;
 
-VII. Procurador: El titular de la Procuraduría General de Justicia del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
 
-VIII. Procuraduría: La Procuraduría General de Justicia del Estado de Nuevo León;
+V. Ley: La Ley para la Protección de Personas que Intervienen en el Procedimiento Penal;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+VI. Medidas de Resguardo: Las medidas dictadas por el Agente del Ministerio Público, tendientes a eliminar o reducir los riesgos que pueda sufrir la persona protegida por la Ley;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+VII. Persona Protegida: Persona en cuyo favor se dictó una medida de resguardo;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+VIII. Procedimiento Penal: Las etapas comprendidas desde la investigación inicial hasta la sentencia ejecutoriada, de conformidad con el Código Nacional de Procedimientos Penales;
 
 IX. Programa: El Programa de protección a personas;
 
@@ -488,3 +498,9 @@ Artículo Tercero.- No obstante lo señalado en los artículos anteriores, el Ti
 Artículo Cuarto.- Remítase copia de la presente declaratoria al Congreso de la Unión, a las legislaturas Estatales, a la Asamblea del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como a las Entidades Federativas, para su conocimiento y efectos a que haya lugar.
 
 Artículo Quinto.- Publíquese la presente Declaratoria en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 037. SE REFORMA, LAS FRACCIONES III, IV, V, VI, VII Y VIII DEL ARTÍCULO 2 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación.
