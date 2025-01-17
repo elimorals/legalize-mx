@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-institucion-policial-estatal-fuerza-civil-nuevo-92062
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-19"
-last_updated: "2016-10-26"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 19 de enero de 2013.
 
@@ -551,7 +551,9 @@ XVII. Entregar al Secretario y al Comisario General las agendas con los datos de
 
 XVIII. Coordinar y planear las acciones para el combate a la delincuencia conforme a las características específicas de cada delito, organización criminal y zona geográfica;
 
-XIX. Actuar en coordinación con las Procuradurías e Instituciones de Seguridad de los tres órdenes de gobierno, dentro del marco establecido por la Ley General del Sistema Nacional de Seguridad Pública, con el objeto de intercambiar información de análisis e investigación para la prevención y combate de delitos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
+
+XIX. Actuar en coordinación con las Fiscalías e Instituciones de Seguridad de los tres órdenes de gobierno, dentro del marco establecido por la Ley General del Sistema Nacional de Seguridad Pública, con el objeto de intercambiar información de análisis e investigación para la prevención y combate de delitos;
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
@@ -1064,3 +1066,9 @@ P.O. 26 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 156. SE ADICIONA UNA FRACCIÓN III, PASANDO LA ACTUAL TERCERA A SER LA CUARTA, RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 155 DE LA LEY DE SEGURIDAD PÚBLICA; Y SE ADICIONA UNA FRACCIÓN XVII, PASANDO LA ACTUAL XVII A SER LA XVIII, RECORRIÉNDOSE LAS DEMÁS FRACCIONES EN SU ORDEN, TODAS DEL ARTÍCULO 6 DE LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El Presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 036. SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 16 DE LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
