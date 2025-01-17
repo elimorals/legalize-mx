@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2024-01-24"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -245,9 +245,9 @@ Si el sustentante no aprobara el examen no podrá presentarlo de nuevo hasta pas
 
 Para que el Notario pueda ejercer sus funciones, además de la designación, requiere:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
 
-I.- Constituir a elección del Titular del Ejecutivo del Estado, hipoteca, depósito, fianza o cualquier otro medio jurídico de garantía, por un monto de 7,250 cuotas;
+I.- Constituir a elección del Titular del Ejecutivo del Estado, hipoteca, depósito, fianza o cualquier otro medio jurídico de garantía, por un monto de 7,250 veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -625,9 +625,7 @@ Cuando se tramite una sucesión ante notario público se deberá recabar el info
 
 Los Notarios, en el ejercicio de su profesión, deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones del Código Penal sobre violación al secreto profesional, salvo los informes que obligatoriamente establezcan las Leyes respectivas.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
-Los notarios están obligados a manifestar y asentar el antecedente y el tracto sucesivo registral del acto u hecho correspondiente. Además, el Notario Público deberá validar el antecedente de la escritura pública por medio del testimonio original o copia certificada del predial pagado, verificando si el bien de que se trate forma parte de un patrimonio familiar.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE ENERO DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
 
@@ -659,9 +657,7 @@ Los folios son propiedad del Estado pero su manejo queda bajo la estricta respon
 
 Los folios serán adquiridos previo pago de los derechos correspondientes en la Secretaría de Finanzas y Tesorería General del Estado, serán autorizados por la Dirección del Archivo General de Notarías mediante perforaciones, código de barras o cualquier otro medio indubitable que impida su falsificación, serán numerados progresivamente respecto de cada Notaría, anteponiendo el número de la Notaría en la cual serán utilizados, la demarcación asignada y tendrán impreso o grabado el sello. La entrega de folios no podrá exceder de tres mil.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
-El notario deberá suspender cualquier proceso cuando la información no coincida con el folio real correspondiente.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE ENERO DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -775,49 +771,11 @@ Asimismo, junto con la documentación a que hace referencia el párrafo anterior
 
 Escritura Pública es el Instrumento que el Notario asienta en su protocolo y autoriza con su firma y sello para hacer constar el o los actos jurídicos que en el mismo se contienen.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE ENERO DE 2025)</small>
 
-Cuando se otorgue, revoque, termine o renuncie un poder o mandato, otorgado por personas físicas o personas morales con fines no mercantiles ante Notario, éste deberá notificar a la Dirección del Archivo General de Notarías y a la Dirección del Registro Público del Instituto Registral y Catastral de Nuevo León dentro de los cinco días hábiles siguientes a su otorgamiento.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE ENERO DE 2025)</small>
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE ENERO DE 2024)</small>
-
-El aviso de otorgamiento o modificación de un mandato o poder dirigido a la Dirección del Archivo General de Notarías y la Dirección del Registro Público del Instituto Registral y Catastral de Nuevo León deberá contener los siguientes datos:
-
-I. Nombre completo del Notario Público ante el cual se levantó el instrumento público;
-
-II. Carácter con que actúa la persona titular de la Notaría;
-
-III. Número de Notaría Pública;
-
-IV. Distrito a la que pertenece la Notaría;
-
-V. Fecha de elaboración del tipo de instrumento;
-
-VI. Número de instrumento;
-
-VII. Libro;
-
-VIII. Lugar de otorgamiento;
-
-IX. Nombre completo del o los contratantes;
-
-X. Registro Federal de Contribuyentes del o los contratantes;
-
-XI. Tratándose de personas jurídicas, su denominación o razón social;
-
-XII. Clave Única del Registro de Población de los contratantes;
-
-XIII. Nacionalidad de los contratantes;
-
-XIV. Tipo de mandato; y
-
-XV. Facultades conferidas al mandatario.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
-###### Artículo 104 Bis.
-
-La Dirección del Archivo General de Notarías será la responsable de inscribir el aviso de otorgamiento o modificación de un mandato o poder en la Plataforma del Registro Nacional de Avisos de Poderes Notariales, perteneciente a la Secretaría de Gobernación, dentro de los cinco días hábiles contados a partir de su recepción.
+Artículo 104 bis.- (DEROGADO, P.O. 17 DE ENERO DE 2025)
 
 ###### Artículo 105.
 
@@ -827,13 +785,9 @@ Las palabras, letras o signos que se hayan de testar, se tacharán con una líne
 
 Si quedare algún espacio en blanco antes de las firmas, será llenado con líneas de tinta. Se prohiben las enmendaduras y raspaduras.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 17 DE ENERO DE 2025)</small>
 
-Asimismo, las escrituras públicas deberán tener sello digital avalado por la institución competente. Este sello digital avalado referirá el acto jurídico, número de escritura y número de operación.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
-Se entiende por sello digital a aquel que acredita que un documento digital fue recibido por la autoridad correspondiente. En este caso, el sello digital identificará al menos a la dependencia que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE ENERO DE 2025)</small>
 
 ###### Artículo 106.
 
@@ -847,7 +801,21 @@ I.- Expresará el número del libro y el de la escritura, el lugar y la fecha en
 
 II.- Expresará el nombre, apellidos, fecha de nacimiento, estado civil, registro federal de contribuyentes, lugar de origen, nacionalidad, profesión u oficio y domicilio de las personas que intervengan en el acto. Al expresar el domicilio no sólo mencionará la población en general, sino también, de ser posible, el número de la casa, nombre de la calle, o cualquier otro dato que precise dicho domicilio. Asimismo, hará constar los nombres y apellidos, denominación o razón social de las personas representadas y sus demás generales;
 
-III.- Consignará las declaraciones que hagan los otorgantes como antecedentes o preliminares y certificará que ha tenido a la vista los documentos que se le hubieren presentado y que se hayan relacionado o inserto en la parte expositiva de la escritura. Si se tratare de inmuebles, relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura y citará su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual no ha sido registrada;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE ENERO DE 2025)</small>
+
+III.- Consignará las declaraciones que hagan los otorgantes como antecedentes o preliminares y certificará que ha tenido a la vista los documentos que se le hubieren presentado y que se hayan relacionado o inserto en la parte expositiva de la escritura.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Si se tratare de inmuebles, el Notario Público calificará el título de propiedad, señalará su naturaleza jurídica y su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual no ha sido registrado, debiendo tener a la vista el original del título o copia certificada expedida por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Si la inscripción del título corresponde al sistema de Libros y anotaciones marginales digitales vigentes, deberá asentar las dos últimas inscripciones registrales, con excepción de los títulos que, de acuerdo a la ley, sean de primera inscripción.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Si el inmueble se encontrase inscrito bajo el sistema de folio real, señalará los datos relativos a la transmisión de dominio y anotaciones marginales digitales vigentes que contenga el mencionado folio.
 
 IV.- Al citar el nombre de un Notario ante cuya fe haya pasado algún Instrumento, mencionará precisamente el número de orden y la fecha de éste, el número de la Notaría, población en que esté ubicada y calidad del Notario que otorgó el documento indicado, y en su caso los de su inscripción en el Registro Público de la Propiedad y del Comercio;
 
@@ -861,21 +829,9 @@ VII.- Determinará las renuncias de derechos o de Leyes que válidamente hagan l
 
 VIII.- Dejará acreditada la personalidad y en su caso la existencia y subsistencia legal, de quien comparezca en representación de otro, relacionando los documentos respectivos e insertando la parte conducente, ya sea en el cuerpo de la escritura o bien, en un escrito detallado que se agregará al apéndice y que deberá trascribirse en los testimonios correspondientes.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2025)</small>
 
 IX.- Insertará íntegramente o en lo conducente según el caso, cualesquiera otros documentos que se le presenten, o agregará el original o la copia certificada o copia simple con sello notarial que de él se tome al legajo respectivo del Apéndice. Esto último hará con los planos y documentos relacionados en idioma extranjero que se le exhiban;
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
-En el caso de actos jurídicos traslativos de dominio, el Notario deberá validar los antecedentes de la escritura con quien se haya realizado la operación previa, ya sea mediante testimonio original o copia certificada del predial pagado.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
-Tratándose de bienes inmuebles propiedad del organismo promotor de la vivienda y la regularización en el estado, se deberá dar vista a dicho organismo previo a cualquier procedimiento o protocolización del acto jurídico del que se trate.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
-Los testimonios que provengan de Notarios Públicos de otras Entidades Federativas deberán ser avalados por la Dirección de Archivo General de Notarias vigente de la Entidad Federativa a la que pertenezca el Notario.
 
 X.- Al agregar al Apéndice cualquier documento, expresará el número del legajo y la letra bajo la cual se coloca en el legajo;
 
@@ -895,19 +851,43 @@ e) Que ante él manifestaron su conformidad con la escritura y firmaron éste o 
 
 f) La fecha o fechas en que firmaron la escritura los comparecientes o la persona o personas elegidas para ello y los testigos o intérpretes si los hubiere.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2024)</small>
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2025)</small>
+
+XII.- En el caso de actos jurídicos traslativos de dominio, el Notario deberá validar los antecedentes de la escritura con quien se haya realizado la operación previa, ya sea mediante título de propiedad original o en su caso con copia certificada del título, expedida por la autoridad competente, así como, con recibos que demuestren que se encuentra al corriente en el pago del impuesto predial y del servicio público de agua y drenaje, en caso de contar con dicho servicio.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XII, P.O. 17 DE ENERO DE 2025]</small>
+
+Los testimonios que provengan de Notarios Públicos de otras Entidades Federativas cuando se trate de inmuebles, deberán ser avalados por quien tenga el Libro en su poder, ya sea la Dirección de Archivo General de Notarias o la dependencia que haga sus veces de la Entidad Federativa a la que pertenezca et Notario, o en su caso el Notario correspondiente.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XII, P.O. 17 DE ENERO DE 2025]</small>
+
+El notario deberá suspender cualquier procedimiento o protocolización del acto jurídico del que se trate, cuando la información no coincida con el folio real correspondiente o con la inscripción del Sistema de Libros y anotaciones marginales digitales vigentes.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XII, P.O. 17 DE ENERO DE 2025]</small>
+
+Tratándose de bienes inmuebles propiedad del organismo promotor de la vivienda y la regularización en el Estado, se deberá dar vista a dicho organismo previo a cualquier procedimiento o protocolización del acto jurídico del que se trate.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XII, P.O. 17 DE ENERO DE 2025]</small>
+
+El organismo promotor de la vivienda y la regularización en el Estado tendrá 5 días hábiles contado a partir de haber recibido la vista para hacer las observaciones correspondientes en caso de que existan, dejando en todo caso a salvo los derechos reales que correspondan.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
 ###### Artículo 107.
 
-Para que el Notario dé fe de conocer a los comparecientes y de que tienen capacidad legal, deberá constatar su identidad y capacidad en términos del siguiente párrafo; además deberá observar en ellos que no existan manifestaciones patentes de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil.
+El notario hará constar la identidad de los comparecientes con documentos de identificación oficial vigentes que las acrediten, que tengan fotografía, nombre y apellidos de la o las personas de quien se trate o el documento de identidad que llegaren a autorizar las autoridades competentes, los cuales en ambos casos examinará y agregará en copia al apéndice, mismos que deberán ser validados a través de biométricos ante las instituciones que emitieron dichos documentos, debiendo dejar constancia de ello en el apéndice de la dicha escritura.
 
-Para efectos de lo dispuesto en el párrafo anterior, el notario hará constar su identidad y capacidad, con documentos oficiales que las acrediten , que tengan fotografía, nombre y apellidos de la persona de quien se trate o el documento de identidad que llegaren a autorizar las Autoridades Competentes, los cuales examinará y agregará en copia al apéndice, mismos que deberán ser validados a través de biométricos y verificación de las instituciones que emiten dichos documentos oficiales, debiendo dejar constancia de ello.
+El Notario Público deberá tener cuando menos un sistema de validación de documentos de identidad en biométricos.
 
-En aquellos casos que se requiera la presencia de testigos, estos deberán tener la capacidad jurídica en los términos de la legislación aplicable y su identidad se hará constar de la manera descrita en el párrafo anterior. En sustitución del testigo que no supiere o no pudiere firmar, lo hará otra persona que al efecto elija y aquél imprimirá sus huellas digitales, en los términos del inciso e) de la fracción XI del Artículo 106 de esta Ley.
+En el supuesto de fuerza mayor, caso fortuito, o que la autoridad que emitió el documento oficial con que se identifiquen no cuente con base de datos para su identificación biométrica o no le permita al Notario el acceso a ella, y siempre que el compareciente no cuente con alguna identificación oficial mediante la cual se puedan validar sus biométricos, o cualesquier otra circunstancia que impida validar biométricos de los comparecientes, el Notario bajo su más estricta responsabilidad, deberá identificar al o los comparecientes con dos documentos de identificación oficial vigentes que los acrediten, mismos que deberán tener fotografía, nombre y apellidos de la o las personas de quien se trate. El notario deberá adjuntar al apéndice copia certificada de dichos documentos, y deberá establecer los motivos excepcionales por los cuales se manifiesta imposible la comprobación de sus datos biométricos, en el cual los comparecientes estamparán las huellas de sus dedos índices y su firma.
+
+En el caso de personas de nacionalidad extranjera y que estos manifiestan bajo protesta de decir verdad que no cuentan con documentos de identificación oficial expedida por autoridades mexicanas que permitan su identificación a través de biométricos, el Notario bajo su más estricta responsabilidad, deberá identificar al o los comparecientes con su pasaporte vigente. Además, deberá adjuntar al apéndice copia certificada de dicho documento, en el cual los comparecientes estamparán las huellas digitales de sus dedos índices y estamparán su firma.
+
+Además, el Notario deberá observar y constatar con la simple manifestación, que en ellos no observa signos de incapacidad que les impidan celebrar el acto jurídico otorgado ante su fe y que no tenga noticias de que estén sujetos a incapacidad civil. En aquellos casos que se requiera la presencia de testigos, su identidad se hará constar de la manera descrita en el presente artículo.
 
 ###### Artículo 108.
 
-Si no hubiere testigos de conocimiento o éstos carecieran de los requisitos legales para testificar, cuando de acuerdo con el artículo anterior sea necesario su intervención, no se otorgará la escritura si no es en caso grave y urgente, expresando el Notario la razón de ello; si se le presentare algún documento que acredite la identidad del otorgante, lo referirá también. La escritura se perfeccionará comprobada que sea plenamente la identidad y capacidad del otorgante.
+(DEROGADO, P.O. 17 DE ENERO DE 2025)
 
 ###### Artículo 109.
 
@@ -1007,9 +987,17 @@ Los interesados podrán presentar al Notario los documentos que estimen convenie
 
 Los Instrumentos públicos extranjeros sólo deberán protocolizarse en el Estado, en virtud de mandamiento judicial que así lo ordene.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+
 ###### Artículo 126.
 
-Los poderes otorgados fuera de la República una vez legalizados deberán protocolizarse con arreglo a la Ley, para que surtan sus efectos, excepto los otorgados directamente ante los Cónsules Mexicanos en funciones de Notario, en los que basta la legalización.
+Cuando ante su fe se otorgue, revoque, modifique, termine o renuncie un poder o mandato para actos de dominio, de actos de administración para dar en arrendamiento o comodato bienes inmuebles, así como de actos de administración otorgados por personas morales, cuando entre el objeto social de éstas, se encuentre la administración y/o enajenación de bienes inmuebles el Notario deberá de inscribir el aviso en la Plataforma del Registro Nacional de Avisos de Poderes Notariales, perteneciente a la Secretaría de Gobernación, dentro de los cinco días hábiles posteriores. Debiendo dejar constancia de ello con una anotación al pie de la escritura en los casos aplicables, así como en el apéndice de dicho instrumento notarial.
+
+El aviso de otorgamiento o modificación de un mandato o poder deberá contener los datos requeridos por la plataforma anteriormente descrita.
+
+Para la inscripción de trámites ante la dirección del Instituto Registral y Catastral del Estado de Nuevo León, se deberá de anexar la constancia de inscripción del poder en el Registro Nacional de Avisos de Poderes Notariales.
+
+Los poderes otorgados fuera de la República una vez legalizados deberán protocolizarse con arreglo a la Ley, debiéndose inscribir en la Plataforma del Registro Nacional de Avisos de Poderes Notariales, perteneciente a la Secretaría de Gobernación, dentro de los cinco días hábiles posteriores, para que surtan sus efectos, excepto los otorgados directamente ante los Cónsules Mexicanos en funciones de Notario, en los que basta la legalización.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
 
@@ -1051,9 +1039,13 @@ El Notario utilizará el sistema que estime más conveniente, a fin de obtener q
 
 Las hojas del testimonio tendrán las dimensiones que esta Ley fija para las del Protocolo y contendrán el número de renglones que fije el Director del Archivo General de Notarías. Cada hoja del testimonio llevará el sello y rúbrica del Notario al margen.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
-Las hojas tendrán características de papel de seguridad con sello digital notarial homologado, autorizado por el Ejecutivo del Estado, por conducto de quien tenga delegada esta facultad en los términos de la Ley Orgánica de la Administración Pública del Estado de Nuevo León.
+Tendrán características de papel de seguridad con Código QR notarial homologado, autorizado por el Ejecutivo del Estado, por conducto de quien tenga delegada esta facultad en los términos de la Ley Orgánica de la Administración Pública del Estado de Nuevo León y en coordinación con el Colegio de Notarios Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+
+Este Código QR notarial, deberá contener por lo menos, el nombre del Notario, número de Notaría, número de escritura, fecha de la misma, tipo de acto jurídico y las partes que intervienen en él. Esta información será proveída por el Notario que expida el QR de referencia.
 
 ###### Artículo 134.
 
@@ -1087,33 +1079,29 @@ Los preceptos del capítulo anterior relativos a las escrituras, serán aplicabl
 
 Cuando se solicite al Notario que dé fe de varios hechos relacionados entre sí, que tengan lugar en diversos sitios o momentos, el Notario podrá asentarlos en una sola acta, una vez que todos se hayan realizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
 ###### Artículo 138.
 
-Los Notarios llevarán un libro abierto con 300 páginas autorizado por el Ejecutivo del Estado o por el funcionario que tenga delegada dicha facultad en el que se registrarán con numeración progresiva y por orden cronológico todas las actas que autoricen fuera de Protocolo mediante un asiento debidamente explicativo que contenga el hecho jurídico y las partes intervinientes de cada una de ellas, el cual por ningún concepto deberá borrarse o alterarse. Este libro se cerrará cada año con la anotación correspondiente, autorizada por el Notario y formará parte del Archivo de la Notaría. Una vez que se agote la capacidad del libro de que se trate, se remitirá a la Dirección del Archivo General de Notarías para su revisión y en su caso, se asentará la anotación de cierre correspondiente, procediendo a su resguardo definitivo en dicha Dirección.
+Los Notarios llevarán un libro abierto con 300 páginas autorizado por el Ejecutivo del Estado o por el funcionario que tenga delegada dicha facultad en el que se registrarán con numeración progresiva y por orden cronológico todas las actas que autoricen fuera de Protocolo mediante un asiento debidamente explicativo que contenga cuando menos la denominación del hecho o acto jurídico, la descripción del documento que se ratifica, el nombre completo de cada una de las partes comparecientes y la fecha, el cual por ningún concepto deberá borrarse o alterarse. Este libro se cerrará cada año con la anotación correspondiente, autorizada por el Notario y formará parte del Archivo de la Notaría. Una vez que se agote la capacidad del libro de que se trate, se remitirá a la Dirección del Archivo General de Notarías para su revisión y en su caso, se asentará la anotación de cierre correspondiente, procediendo a su resguardo definitivo en dicha Dirección.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+Cuando el Notario advierta que ha utilizado 270 páginas del Libro de Actas, dará aviso a la Dirección del Archivo General de Notarías, a fin de gestionar un nuevo libro para seguir actuando, el cual se le entregará una vez entregado a la Dirección el libro agotado.
 
-Cuando el Notario advierta que ha utilizado 290 páginas del Libro de Actas, dará aviso a la Dirección del Archivo General de Notarías, a fin de gestionar un nuevo libro para seguir actuando, el cual se le entregará una vez entregado a la Dirección el libro agotado.
+Los Notarios remitirán al Archivo General de Notarías durante el mes de agosto un respaldo electrónico de los asientos del Libro de Control de Actas fuera de Protocolo, realizadas durante el primer semestre del año y otro respaldo electrónico durante el mes de febrero de las actas generadas durante el segundo semestre del año previo.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2024)</small>
-
-Los Notarios remitirán al Archivo General de Notarias durante el mes de agosto un respaldo electrónico de los asientos, actas y apéndices del libro abierto realizadas durante el primer semestre del año y otro respaldo electrónico durante el mes de febrero de las actas generadas durante el segundo semestre del año previo.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
 
 ###### Artículo 138 Bis.
 
-El titular de la Notaría llevará una carpeta en donde quedarán depositados copia de la totalidad de los documentos certificados en Actas Fuera de Protocolo y los relacionados con este, ordenada con numeración progresiva y por orden cronológico en relación con estos. El contenido de estas carpetas se denominará "Apéndice de Libro de Actas Fuera de Protocolo", el cual se considerará como parte integrante de dicho.
+El titular de la Notaría llevará una carpeta en donde quedarán depositados ejemplares originales y cotejos en digital de la totalidad de los documentos certificados en Actas Fuera de Protocolo y los relacionados con este, ordenada con numeración progresiva y por orden cronológico en relación con estos. El contenido de estas carpetas se denominará "Apéndice de Libro de Actas Fuera de Protocolo", el cual se considerará como parte integrante de dicho libro.
+
+A más tardar tres meses después de la terminación del Libro de Control de Actas Fuera de Protocolo al que pertenezcan, las carpetas o Apéndices serán entregados a la Dirección del Archivo General de Notarías.
 
 Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos el número que corresponda al del hecho a que se refiere y en cada uno de los documentos se pondrá una letra que los señale y distinga de los otros que forman el legajo.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2024)</small>
-
 ###### Artículo 138 Bis 1.
 
-A más tardar tres meses después de la fecha del cierre del Libro de Actas Fuera de Protocolo al que pertenezcan, las carpetas o Apéndices se encuadernarán ordenadamente y serán entregados de forma inmediata a la Dirección del Archivo General de Notarías.
+(DEROGADO, P.O. 17 DE ENERO DE 2025)
 
 ###### Artículo 139.
 
@@ -1263,7 +1251,13 @@ VI.- Encauzar las actividades de los Notarios para el mejor ejercicio de sus fun
 
 VII.- Vigilar y procurar que los Notarios cumplan debidamente su cometido y en su caso, hacer del conocimiento de la Dirección del Archivo General de Notarías, las irregularidades de las que tenga conocimiento; y
 
-VIII.- Las demás que le confieren esta Ley, sus reglamentos y los Estatutos del Colegio de Notarios del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2025)</small>
+
+VIII.- Celebrar convenios con las dependencias, autoridades o autoridades proveedoras de certificación biométrica que emitan documentos oficiales de identificación cuya base de datos pueda ser compartida y utilizada por los notarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2025)</small>
+
+IX.- Las demás que le confieren esta Ley, sus reglamentos y los Estatutos del Colegio de Notarios del Estado.
 
 ### CAPITULO SEGUNDO. DE LA INSPECCION DE NOTARIAS
 
@@ -1437,7 +1431,9 @@ I.- No acatar la amonestación realizada por la autoridad en los casos de las fr
 
 II.- Incumplir con las disposiciones sobre redacción, registro y archivo de los instrumentos notariales y conservación de los Libros y Apéndices del Protocolo;
 
-III.- Incumplir con lo dispuesto por los artículos 121 y 127 de esta Ley;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ENERO DE 2025)</small>
+
+III.- Incumplir con lo dispuesto por los artículos 121, 126, 127, 138 y 138 Bis de esta Ley;
 
 IV.- No comparecer sin causa justificada cuando sea requerido por el Ejecutivo del Estado, la Secretaría General de Gobierno o la Dirección del Archivo General de Notarías para tratar asuntos relativos al ejercicio de su función; y
 
@@ -1620,3 +1616,27 @@ En un plazo de 180 días naturales contados a partir de la entrada en vigor del 
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 17 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 044. SE REFORMA LA LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 2449 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que se refiere al Folio Real, la obligación de su uso estará sujeta a la publicación y entrada en vigor de la legislación reglamentaria correspondiente, siendo gradual y progresiva según se vayan incorporando a dicho sistema registral los inmuebles registrados y catastrados en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+El uso del Código QR notarial entrará en vigor 180 días naturales posteriores a la publicación de este decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+Los Notarios Públicos tendrán 90 días naturales para llevar a cabo adquisición e implementación de las herramientas digitales necesarias para dar cumplimiento a lo señalado en el artículo 107 de la Ley del Notariado del Estado de Nuevo León.
