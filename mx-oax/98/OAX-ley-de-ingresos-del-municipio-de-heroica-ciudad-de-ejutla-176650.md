@@ -1,0 +1,182 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE HEROICA CIUDAD DE EJUTLA DE CRESPO, DISTRITO DE EJUTLA, OAXACA, PARA EL EJERCICIO FISCAL 2025"
+identifier: "OAX-ley-de-ingresos-del-municipio-de-heroica-ciudad-de-ejutla-176650"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2025-01-18"
+last_updated: "2025-01-18"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176650&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "176650"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "3 DECIMA CUARTA SECCION"
+reform_count: "0"
+scjn_last_update: "2025-01-18"
+issue_date: "2025-01-06"
+municipality: "Heroica Ciudad de Ejutla de Crespo"
+municipality_inegi: "20028"
+state: "OAX"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE HEROICA CIUDAD DE EJUTLA DE CRESPO, DISTRITO DE EJUTLA, OAXACA, PARA EL EJERCICIO FISCAL 2025
+
+LEY DE INGRÉSOS DEL MUNICIPIO DE HEROICA CIUDAD DE EJUTLA DE CRESPO, DISTRITO DE EJUTLA, OAXACA, PARA EL EJERCICIO FISCAL 2025
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Décima Cuarta Sección al Número 3 del Periódico Oficial del Estado de Oaxaca, el sábado 18 de enero de 2025.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 82.
+
+Es objeto de este derecho la recaudación que realiza el Municipio por:
+
+I. La prestación de servicios en materia de salud y control de enfermedades, que se cobrarán conforme a las siguientes cuotas:
+
+CONCEPTO CUENTA PERIORICIDAD
+
+EN PESOS
+
+[…]
+
+III. Certificado médico
+
+(NOTA: EL 21 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2025, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN III DEL NUMERAL I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+a) DETENIDOS 200.00 POR EVENTO
+
+b) Público en general 100.00 Por evento
+
+[...]
+
+###### Artículo 106.
+
+Se consideran multas las faltas administrativas que cometan los ciudadanos a su reglamento de Tránsito y Vialidad del Municipio de la Heroica Ciudad de Ejutla de Crespo, Oaxaca y a su Bando de Policía y Gobierno del Municipio de la Heroica Ciudad de Ejutla de Crespo, por los siguientes conceptos:
+
+CONCEPTOS CUOTA ARTÍCULO, FRACCIÓN
+
+EN E INCISO
+
+U.M.A.
+
+[…]
+
+II. FALTAS ADMINISTRATIVAS:
+
+1.- Ley de Hacienda Municipal del Estado de Oaxaca (LHMEO).
+
+2.- Bando de Policía del Municipio de Heroica Ciudad de Ejutla de Crespo (BPyGMHCEC).
+
+3.- Código Fiscal Municipal del Estado de Oaxaca (CFMEO).
+
+4.- Ley Orgánica Municipal del Estado de Oaxaca (LOMEO).
+
+(NOTA: EL 21 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2025, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+a) ESCANDALIZAR EN LA VÍA 35.51 1.- LHMEO Artículo 141 fracciones
+
+PÚBLICA. I, II y III.
+
+2.- BPyGMHCEC Artículos
+
+117 fracciones V, VII, 122
+
+fracciones I, II y III, 158
+
+fracciones I, II, III y IV.
+
+3.- CFMEO Artículos 3, 4,
+
+21, 50 fracción II y 55.
+
+4.- LOMEO Artículo 143 fracciones
+
+II, III, IV y V.
+
+[…]
+
+(NOTA: EL 21 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2025, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+d) POR INSULTOS A LA AUTORIDAD 59.18 1.- LHMEO Artículo 141 fracciones
+
+I, II y III.
+
+2.- BPyGMHCEC Artículos 117
+
+fracciones V, VII, 122 fracciones
+
+I, II y III, 158 fracciones I, II,
+
+III y IV.
+
+3.- CFMEO Artículos 3, 4,
+
+21, 50 fracción II y 55.
+
+4.- LOMEO Artículo 143
+
+fracciones II, III, IV y V.
+
+[…]
+
+(NOTA: EL 21 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2025, DECLARÓ LA INVALIDEZ DEL INCISO s) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+s) PERSONAS SIN CUBREBOCAS 2 1.- LHMEO Artículo 141
+
+fracciones I, II y III.
+
+2.- BPyGMHCEC Artículos
+
+117 fracciones V, VII, 122
+
+fracciones I, II y III, 158 fracciones
+
+I, II, III y IV.
+
+3.- CFMEO Artículos
+
+3, 4, 21, 50 fracción II y 55.
+
+4.- LOMEO Articulo 143 fracciones
+
+II, III, IV y V.
+
+[…]
+
+IX. ESPECTACULOS PÚBLICOS
+
+1.- Ley de Hacienda Municipal del Estado de Oaxaca (LHMEO).
+
+2.- Bando de Policía del Municipio de Heroica Ciudad de Ejutla de Crespo (BPyGMHCEC).
+
+3.- Código Fiscal Municipal del Estado de Oaxaca (CFMEO).
+
+4.- Ley Orgánica Municipal del Estado de Oaxaca (LOMEO).
+
+[…]
+
+(NOTA: EL 21 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2025, DECLARÓ LA INVALIDEZ DEL INCISO v) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+v) PARA EL CASO DE MÚSICOS 35.51 1.- LHMEO Artículo 141
+
+O CANCIONEROS POR CANTAR fracciones I, II y III.
+
+CANCIONES QUE CONTENGAN
+
+PALABRAS ALTISONANTES O 2.- BPyGMHCEC Artículos
+
+QUE ATENTEN CONTRA 117 fracciones V, VII, 122
+
+LA MORAL Y LAS BUENAS fracciones I, II y III, 158
+
+COSTUMBRES fracciones I, II, III y IV.
+
+3.- CFMEO Artículos 3, 4, 21, 50 fracción II y 55.
+
+4.- LOMEO Artículo 143 fracciones II, III, IV y V.
+
+[…]
