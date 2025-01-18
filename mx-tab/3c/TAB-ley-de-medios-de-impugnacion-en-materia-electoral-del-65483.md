@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-medios-de-impugnacion-en-materia-electoral-del-65483"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2020-08-17"
+last_updated: "2025-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2025.
 
 Ley publicada en el Número 51 Extraordinario del Periódico Oficial del Estado de Tabasco, el viernes 12 de diciembre de 2008.
 
@@ -79,7 +79,9 @@ g) Instituto Nacional: Instituto Nacional Electoral;
 
 h) Juicio Laboral: El Juicio para dirimir los conflictos y diferencias laborales;
 
-i) Ley Electoral: La Ley Electoral del Estado de Tabasco;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
+
+i) Ley Electoral: La Ley Electoral y de los Partidos Políticos del Estado de Tabasco;
 
 j) Ley: Ley de Medios de Impugnación en Materia Electoral del Estado de Tabasco;
 
@@ -115,9 +117,17 @@ a) El recurso de revisión, para garantizar la legalidad de actos y resoluciones
 
 b) El recurso de apelación y el juicio de inconformidad, para garantizar la legalidad de actos y resoluciones de la autoridad electoral estatal;
 
-c) El juicio para la protección de los derechos político-electorales del ciudadano; y
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
 
-d) El juicio para dirimir los conflictos o diferencias laborales entre el Instituto Estatal y sus servidores públicos, así como los que surjan entre el Tribunal Electoral y sus servidores públicos.
+c) El juicio para la protección de los derechos político-electorales del ciudadano;
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
+
+d) El juicio para dirimir los conflictos o diferencias laborales entre el Instituto Estatal y sus servidores públicos, así como los que surjan entre el Tribunal Electoral y sus servidores públicos; y
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+
+e) El Juicio Electoral para impugnar los actos y resoluciones que restrinjan el derecho a ser votadas de las personas candidatas a magistradas o juezas del Poder Judicial del Estado.
 
 ###### Artículo 4.
 
@@ -781,11 +791,17 @@ c) A los terceros interesados, personalmente en el domicilio señalado en autos 
 
 1. Durante el proceso electoral y exclusivamente en la etapa de resultados y de declaraciones de validez, el juicio de inconformidad procederá para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales relativas a las elecciones de Gobernador del Estado, Diputados, Presidentes Municipales y Regidores, en los términos señalados por el presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+
+2. Durante el proceso electoral para la elección de personas juzgadoras del Poder Judicial del Estado, el juicio de inconformidad procederá para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales, en los términos señalados por esta ley. Los medios de impugnación no producirán efectos suspensivos sobre la resolución o acto impugnado; (sic)
+
 ###### Artículo 52.
 
 1. Son actos impugnables a través del juicio de inconformidad, en los términos de la Ley Electoral y la presente ley, los siguientes:
 
-a) En la elección de Gobernador del Estado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ENERO DE 2025)</small>
+
+a) En la elección de Gobernador del Estado y de personas Magistradas y Magistrados del Tribunal de Disciplina Judicial y las Magistradas y Magistrados del Tribunal Superior de Justicia, Juezas y Jueces en materia penal;
 
 I. Los resultados consignados en las actas de cómputo estatal y distrital respectivas;
 
@@ -832,6 +848,18 @@ e) En la elección de regidores por el principio de representación proporcional
 I. Por la inadecuada aplicación de la fórmula de asignación establecida en la Ley Electoral; y
 
 II. Las declaraciones de validez de las elecciones y el otorgamiento de las Constancias y Validez respectivas
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ENERO DE 2025)</small>
+
+f) En la elección de personas magistradas y juzgadoras de los Juzgados del Tribunal Superior de Justicia:
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2025)</small>
+
+I. Los resultados consignados en las actas de cómputo, las declaraciones de validez de las elecciones y el otorgamiento de las Constancias de Mayoría y Validez, por nulidad de la votación recibida en una o varias casillas o por nulidad de la elección, y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2025)</small>
+
+II. Los resultados consignados en las actas de cómputo, por error aritmético; (sic)
 
 ###### Artículo 53.
 
@@ -905,17 +933,25 @@ b) Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autori
 
 2. Cuando se impugne la elección de Gobernador del Estado, por nulidad de toda la elección, el respectivo juicio de inconformidad deberá presentarse por el representante del partido político, coalición o candidato independiente registrado ante el Consejo Estatal; este último también podrá hacerlo por su propio derecho.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+
+3. Cuando se impugne la elección de personas juzgadoras del Poder Judicial del Estado, el respectivo juicio de inconformidad deberá presentarse por la persona candidata interesada.
+
 ### CAPÍTULO V. De los plazos y de los términos
 
 ###### Artículo 57.
 
 1. La demanda del juicio de inconformidad deberá presentarse dentro de los cuatro días contados a partir del día siguiente de que concluya la práctica de los cómputos:
 
-a) Estatal de la elección de Gobernador, para impugnar los actos a que se refiere el inciso a) del párrafo 1 del artículo 52 de este ordenamiento;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
+
+a) Estatal de la elección de Gobernador, de personas Magistradas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, y de las personas juzgadoras en materia penal, para impugnar los actos a que se refiere el inciso a) del párrafo 1 del artículo 52 de este ordenamiento;
 
 b) Distritales de la elección de diputados por ambos principios, para impugnar los actos a que se refieren los incisos b) y c) del párrafo 1 del artículo 52 de este ordenamiento; y
 
-c) De la elección de ayuntamientos para impugnar los actos a que se refieren los incisos d) y e) del párrafo 1 del artículo 52 de este ordenamiento.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
+
+c) De la elección de ayuntamientos, así como la elección de personas juzgadoras civiles, familiares, mercantiles y laborales, para impugnar los actos a que se refieren los incisos d), e) y f) del párrafo 1 del artículo 52 de este ordenamiento; (sic)
 
 ### CAPÍTULO VI. De las sentencias
 
@@ -991,7 +1027,9 @@ c) En su caso, a la Oficialía Mayor de la Cámara de Diputados del Congreso del
 
 ###### Artículo 63.
 
-1. Las nulidades establecidas en esta ley, podrán afectar la votación emitida en una o varias casillas, en consecuencia, los resultados del cómputo impugnado de la elección de Gobernador, la fórmula de diputados de mayoría relativa en un distrito electoral y planillas de ayuntamientos; o el cómputo estatal de la elección de Gobernador y Diputados por el principio de representación proporcional, así como la asignación de Regidores por el principio de representación proporcional. Para la impugnación de la elección de Diputados o Regidores por el principio de representación proporcional, se estará a lo dispuesto por los párrafos 2 y 3 del artículo 54 de esta ley.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
+
+1. Las nulidades establecidas en esta ley, podrán afectar la votación emitida en una o varias casillas, en consecuencia, los resultados del cómputo impugnado de la elección de Gobernador, la fórmula de diputados de mayoría relativa en un distrito electoral y planillas de ayuntamientos; o el cómputo estatal de la elección de Gobernador y Diputados por el principio de representación proporcional, así como la asignación de Regidores por el principio de representación proporcional. Para la impugnación de la elección de Diputados o Regidores por el principio de representación proporcional, se estará a lo dispuesto por los párrafos 2 y 3 del artículo 54 de esta ley. Asimismo, podrán afectar los resultados del cómputo de las elecciones de personas integrantes del Poder Judicial del Estado.
 
 2. Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral o en un municipio, o bien, en la elección de Gobernador del Estado, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de inconformidad, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
 
@@ -1087,6 +1125,24 @@ b) Cuando en el territorio estatal no se instale el veinte por ciento o más de 
 
 c) Cuando el candidato ganador de la elección resulte inelegible.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+
+###### Artículo 70 Bis.
+
+1. Son causales de nulidad de la elección de personas juzgadoras, adicionalmente a las aplicables previstas en la base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos:
+
+a) Cuando alguna o algunas de las causales señaladas en el artículo 67 se acrediten en por lo menos el veinticinco por ciento de las casillas en el distrito de que se trate y, en su caso, no se hayan corregido durante el recuento de votos;
+
+b) Cuando en el territorio estatal o en el respectivo distrito judicial, no se instale el veinticinco por ciento o más de las casillas y consecuentemente la votación no hubiere sido recibida;
+
+c) Cuando la candidatura ganadora de la elección resulte inelegible;
+
+d) Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido por la Ley Electoral; o
+
+e) Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente una campaña de una persona candidata.
+
+2. Las causales de nulidad señaladas en el párrafo anterior deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
+
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
 ###### Artículo 71.
@@ -1125,11 +1181,15 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 ###### Artículo 72.
 
-1. El juicio para la protección de los derechos político-electorales, sólo procederá cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
+
+1. El juicio para la protección de los derechos político-electorales, sólo procederá cuando la ciudadanía en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos
 
 2. En el supuesto previsto en el inciso b) del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada.
 
-3. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales del Estado.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
+
+3. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien, teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar las autoridades electorales del Estado, así como la titularidad de los diversos cargos del Poder Judicial del Estado electos por votación libre, directa y secreta, a que se refiere el artículo 56 de la Constitución Local.
 
 ###### Artículo 73.
 
@@ -1157,13 +1217,21 @@ e) Habiendo cumplido con los requisitos y trámites correspondientes, no hubiere
 
 f) Habiendo obtenido oportunamente el documento a que se refiere el inciso anterior, no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
 
-g) Siendo candidata o candidato registrado, sea indebidamente declarado inelegible, y
+g) Siendo candidata o candidato registrado, sea indebidamente declarado inelegible;
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2025)</small>
 
-h) Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley Electoral y de Partidos Políticos del Estado de Tabasco.
+h) Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley Electoral y de Partidos Políticos del Estado de Tabasco; y
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+
+i) Considere que se violó su derecho político-electoral de ser votado o votada a alguno de los cargos del Poder Judicial del Estado electos por votación libre, directa y secreta, a que se refiere el artículo 56 de la Constitución Estatal.
+
+> <small>[N. DE E. PERTENECE AL INCISO i), P.O. 18 DE ENERO DE 2025]</small>
+
+En estos casos no operará la suplencia de la queja; (sic)
 
 2. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
@@ -1335,6 +1403,36 @@ e) Excusas.
 
 1. Los efectos de la sentencia del Pleno del Tribunal Electoral podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto Estatal o del Tribunal Electoral, estos podrán negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
 
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2025)</small>
+
+# LIBRO QUINTO. Del Juicio Electoral
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2025)</small>
+
+## TÍTULO ÚNICO. De las Reglas Particulares
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2025)</small>
+
+### CAPÍTULO ÚNICO. De la Procedencia y Competencia
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+
+###### Artículo 96.
+
+1. El Juicio Electoral será procedente para impugnar los actos y resoluciones que restrinjan el derecho a ser votadas de las personas candidatas a magistradas o juezas del Poder Judicial del Estado en el proceso electoral respectivo.
+
+2. Sólo podrán promover Juicio Electoral las personas que acrediten su interés jurídico como candidatas a magistraturas o juzgadores del Poder Judicial del Estado.
+
+3. El Tribunal Electoral, será competente para conocer de este recurso.
+
+4. El plazo para impugnar será de tres días, contados a partir del día siguiente a aquél en que se haya notificado o tenga conocimiento de la resolución o el acto correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2025)</small>
+
+###### Artículo 97.
+
+1. Para la tramitación, sustanciación y resolución del Juicio Electoral, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta ley y en particular las señaladas en el recurso de apelación contenidas en el Título Tercero del Libro Segundo, con excepción de lo relacionado a las pruebas.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1454,3 +1552,11 @@ Para el caso del proceso electoral local 2020-2021, el Instituto Electoral y de 
 ###### ARTÍCULO QUINTO.
 
 La observancia del principio de paridad de género a que se refiere el artículo 13 de la Ley Electoral y de Partidos Políticos del Estado de Tabasco, será aplicable a quienes tomen posesión de su encargo, a partir del siguiente proceso electoral que corresponda a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 083 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 1 INCISO I); 52, NUMERAL 1, INCISO A); 57, NUMERAL 1, INCISOS A) Y E); 63, NUMERAL 1; 72, NUMERALES 1 Y 3. SE ADICIONAN: EL INCISO E) AL NUMERAL 2 DEL ARTÍCULO 3; EL NUMERAL 2 AL ARTÍCULO 51; LAS FRACCIONES I Y II AL INCISO D; EL NUMERAL 1 AL ARTÍCULO 52; EL NUMERAL 3 AL ARTÍCULO 56; EL ARTÍCULO 70 BIS; EL INCISO I) AL NUMERAL 1 DEL ARTÍCULO 73 Y EL LIBRO QUINTO DENOMINADO "DEL JUICIO ELECTORAL", TODOS DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
