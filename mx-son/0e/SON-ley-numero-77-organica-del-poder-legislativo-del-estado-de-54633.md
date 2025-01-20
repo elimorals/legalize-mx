@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2024-12-30"
+last_updated: "2025-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2025.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -241,7 +241,9 @@ II.- Seguidamente, se pasará lista de presentes a los diputados miembros de la 
 
 III.- Acto continuo, el presidente de la Comisión Instaladora solicitará al presidente de la Comisión de Régimen y Concertación política, que previo acuerdo de los integrantes de la Comisión, presente la propuesta para la conformación de la mesa directiva correspondiente al primer periodo ordinario del primer año de la Legislatura, para someterla a consideración del Pleno, la cual se integrará conforme a lo dispuesto en esta ley, por el voto de la mayoría de los diputados presentes en la sesión.
 
-La presidencia de la mesa directiva correspondiente al primer periodo ordinario del primer año de la Legislatura, recaerá en una o un integrante del grupo parlamentario con mayor representación al interior del Congreso;
+> <small>(REFORMADO, B.O. 20 DE ENERO DE 2025)</small>
+
+La Presidencia de la Mesa Directiva correspondiente al primer periodo ordinario del primer año de la Legislatura, se procurará que recaiga en una o un integrante del grupo parlamentario con mayor representación al interior del Congreso, pudiendo ampliar su ejercicio en los términos que señala el párrafo primero del artículo 58 de esta Ley:
 
 IV.- Electa la Mesa Directiva, el Presidente de la Comisión Instaladora invitará a los recién nombrados a tomar su lugar en el presidium. Antes de retirarse, hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder, así como los documentos relativos al proceso de entrega-recepción. Acto seguido, declarará concluidas las funciones de la Comisión Instaladora;
 
@@ -595,15 +597,21 @@ La Mesa Directiva será electa por mayoría absoluta del Pleno del Congreso del 
 
 En el supuesto de que la propuesta no lograse la mayoría requerida en Pleno, la Comisión de Régimen Interno y Concertación Política realizará, en ese momento, otra propuesta privilegiando los consensos entre los diversos grupos parlamentarios hasta que se obtenga la mayoría requerida.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 58.
 
-La Mesa Directiva durará en su ejercicio un periodo ordinario.
+La Mesa Directiva durará en su ejercicio un periodo ordinario y un periodo extraordinario, en los términos previstos en el artículo 72, segundo párrafo de la presente Ley; pudiendo ampliar dicho ejercicio hasta por un periodo ordinario y extraordinario adicional correspondiente a un mismo año legislativo, previo acuerdo aprobado por las dos terceras partes de las diputadas y diputados presentes en la Sesión del Pleno, a propuesta de la Comisión de Régimen Interno y Concertación Política.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 El primer periodo ordinario del primer año de cada legislatura será presidido por un integrante del grupo parlamentario con mayor representación en el Congreso. Las subsecuentes presidencias recaerán en los Grupos Parlamentarios que no la hayan ejercido.
 
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
+
 El Acuerdo para la rotación de la Mesa Directiva será propuesto por la Comisión de Régimen Interno y Concertación Política ante el Pleno del Congreso del Estado. En su conformación se privilegiará la paridad de género y la composición plural del Congreso.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 2021)</small>
 
 Los diputados electos para integrar la Mesa Directiva asumirán sus cargos en el primer día del periodo ordinario sin necesidad de declaratoria alguna.
 
@@ -3321,11 +3329,17 @@ B.O. 30 DE DICIEMBRE DE 2024.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ROBO AGRÍCOLA”.]
+B.O. 20 DE ENERO DE 2025.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 30, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 5 DE ABRIL DE 2023.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que (sic) opongan a lo previsto en el presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
