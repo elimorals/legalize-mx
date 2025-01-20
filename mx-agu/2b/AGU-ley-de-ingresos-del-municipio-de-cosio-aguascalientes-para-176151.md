@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-cosio-aguascalientes-para-1761
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2024-12-27"
+last_updated: "2025-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,8 +22,6 @@ municipality_inegi: "01004"
 state: "AGU"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE COSIO, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2025
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY DE INGRESOS DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
