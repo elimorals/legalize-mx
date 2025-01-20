@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2024-07-31"
+last_updated: "2025-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2. EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE L
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 20 DE ENERO DE 2025.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -69,11 +69,9 @@ I. LOS DERECHOS Y OBLIGACIONES POLÍTICO-ELECTORALES DE LA CIUDADANÍA DEL ESTAD
 
 II. La organización, función, derechos, obligaciones y prerrogativas de las organizaciones políticas;
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. La función estatal de organizar las elecciones de los integrantes de los Poderes Legislativo y Ejecutivo del Estado y de los ayuntamientos, así como los plebiscitos y referendos;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 28 DE JULIO DE 2020)</small>
-
-III. LA FUNCIÓN ESTATAL DE ORGANIZAR LAS ELECCIONES DE LOS INTEGRANTES DE LOS PODERES LEGISLATIVO Y EJECUTIVO DEL ESTADO Y DE LOS AYUNTAMIENTOS, ASÍ COMO LOS PLEBISCITOS, REFERENDOS Y CONSULTA POPULAR;
+III. La función estatal de organizar las elecciones de los integrantes de los Poderes Legislativo, Ejecutivo y Judicial del Estado, y de los ayuntamientos, así como plebiscitos y referendos;
 
 IV. El sistema de medios de impugnación para garantizar la legalidad de los actos y resoluciones electorales;
 
@@ -259,17 +257,7 @@ LAS ORGANIZACIONES A LAS QUE PERTENEZCAN LOS OBSERVADORES ELECTORALES DEBERÁN E
 
 ### CAPÍTULO II. De los Requisitos de Elegibilidad
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 8. Son requisitos para ser Gobernador, diputado o edil, los que se señalan en la Constitución Política del Estado.
-
-Los requisitos de elegibilidad de carácter positivo deberán acreditarse por los propios candidatos y partidos políticos que los postulen, mediante la exhibición de los documentos atinentes; por lo que se refiere a los requisitos de carácter negativo, debe presumirse que se satisfacen, salvo prueba en contrario.
-
-No podrán ser candidatos a Gobernador, diputado o edil, aquellos sujetos privados de la libertad con motivo de un proceso penal o por el cumplimiento de una sentencia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
-
-###### Artículo 8.
-
-Son requisitos para la ocupar gubernatura, diputaciones y cargos edilicios, los que se señalan en la Constitución Política del Estado.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y POR EXTENSIÓN, DEL DECRETO NÚMERO 594 Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Artículo 8. Son requisitos para la ocupar gubernatura, diputaciones y cargos edilicios, los que se señalan en la Constitución Política del Estado.
 
 Los requisitos de elegibilidad de carácter positivo deberán acreditarse por las propias candidatas y candidatos, partidos políticos que les postulen, mediante la exhibición de los documentos atinentes; por lo que se refiere a los requisitos de carácter negativo, debe presumirse que se satisfacen, salvo prueba en contrario.
 
@@ -277,13 +265,21 @@ No podrán ser candidatas o candidatos a Gobernadora o Gobernador, diputada o di
 
 I. Cuando se encuentren suspendidos de sus derechos políticos por disposición de autoridad jurisdiccional penal, en los casos del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL DECRETO NÚMERO 594 POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. Se encuentren condenadas o condenados por el delito de violencia política contra las mujeres en razón de género.
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+III. Cuando exista en su contra, una sanción derivada de sentencia firme determinada por una autoridad jurisdiccional electoral competente por violencia política contra las mujeres por razón de género.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. SE ENCUENTREN CONDENADAS O CONDENADOS POR VIRTUD DE SENTENCIA FIRME POR EL DELITO DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO; Y
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ENERO DE 2025)</small>
 
-III. Cuando exista en su contra, una sanción derivada de sentencia firme determinada por una autoridad jurisdiccional electoral competente por violencia política contra las mujeres por razón de género.
+###### Artículo 8.
+
+Son requisitos para la titularidad del Poder Ejecutivo, diputaciones, personas juzgadoras y ediles, los que se señalan en la Constitución Política del Estado.
+
+Los requisitos de elegibilidad de carácter positivo deberán acreditarse por los propios candidatos y partidos políticos que los postulen, mediante la exhibición de los documentos atinentes; por lo que se refiere a los requisitos de carácter negativo, debe presumirse que se satisfacen, salvo prueba en contrario.
+
+> <small>(REFORMADO, G.O. 20 DE ENERO DE 2025)</small>
+
+No podrán ser candidatos para la titularidad del Poder Ejecutivo, diputaciones, personas juzgadoras o ediles, quienes se encuentren privados de la libertad con motivo de un proceso penal o por el cumplimiento de una sentencia.
 
 ###### Artículo 9.
 
@@ -319,27 +315,29 @@ III. LA SECRETARÍA EJECUTIVA, EL TITULAR DEL ÓRGANO INTERNO DE CONTROL Y LAS D
 
 IV. EL PERSONAL PROFESIONAL DEL SERVICIO ELECTORAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ, CON NIVEL DIRECTIVO O SUPERIOR.
 
-## TÍTULO TERCERO. De la Integración de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE ENERO DE 2025)</small>
+
+## TÍTULO TERCERO. De la Integración de los Poderes Legislativo, Ejecutivo y Judicial y de los Ayuntamientos
 
 ### CAPÍTULO I. De la División Territorial para Fines Político–Electorales
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 11. Las elecciones de Gobernador, diputados y ediles, se realizarán el primer domingo de junio del año de la elección ordinaria, en las demarcaciones territoriales, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos; la Constitución del Estado; la Ley General de Instituciones y Procedimientos Electorales; este Código y demás leyes aplicables.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 20 DE ENERO DE 2025)</small>
 
 ###### Artículo 11.
 
-Las elecciones de gubernatura, diputaciones y cargos edilicios, se realizarán el primer domingo de junio del año de la elección ordinaria, en las demarcaciones territoriales, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos; la Constitución del Estado; la Ley General de Instituciones y Procedimientos Electorales; este Código y demás leyes aplicables.
+Las elecciones para la titularidad del Poder Ejecutivo, diputaciones, personas juzgadoras y ediles se realizarán el primer domingo de junio del año de la elección ordinaria, en las demarcaciones territoriales, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos; la Constitución del Estado; la Ley General de Instituciones y Procedimientos Electorales; este Código y demás leyes aplicables.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 12. Se entenderá por distrito uninominal la demarcación territorial donde se elegirá a un diputado por el principio de mayoría relativa. Todo el territorio del Estado constituirá una sola circunscripción plurinominal, para el efecto de elegir diputados por el principio de representación proporcional.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Artículo 12. Se entenderá por distrito uninominal la demarcación territorial donde se elegirá a una diputada o diputado por el principio de mayoría relativa. Todo el territorio del Estado constituirá una sola circunscripción plurinominal, para el efecto de elegir diputaciones por el principio de representación proporcional.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ###### Artículo 12.
 
-SE ENTENDERÁ POR DISTRITO UNINOMINAL LA DEMARCACIÓN TERRITORIAL DONDE SE ELEGIRÁ A UNA DIPUTADA O DIPUTADO POR EL PRINCIPIO DE MAYORÍA RELATIVA. TODO EL TERRITORIO DEL ESTADO CONSTITUIRÁ UNA SOLA CIRCUNSCRIPCIÓN PLURINOMINAL, PARA EL EFECTO DE ELEGIR DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL.
+Se entenderá por distrito uninominal la demarcación territorial donde se elegirá a un diputado por el principio de mayoría relativa. Todo el territorio del Estado constituirá una sola circunscripción plurinominal, para el efecto de elegir diputados por el principio de representación proporcional.
 
 La sección electoral es la demarcación territorial en que se dividen los distritos electorales uninominales y los municipios, para la recepción del sufragio.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+Todo el territorio del Estado constituirá una sola circunscripción para efecto de la elección de personas juzgadoras.
 
 ### CAPÍTULO II. Del Poder Legislativo
 
@@ -415,6 +413,18 @@ El ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina
 
 La elección de Gobernadora o Gobernador en los términos del párrafo anterior se realizará cada seis años, de conformidad con la Constitución Política del Estado de Veracruz de Ignacio de la Llave y el presente Código.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO III BIS. Del Poder Judicial
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 15 Bis.
+
+Las Magistradas y Magistrados, de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, así como las Juezas y Jueces de Primera Instancia del Poder Judicial, se elegirán por el principio de mayoría relativa, a través de sufragio universal, libre, secreto, directo, personal e intransferible.
+
+Las personas juzgadoras durarán en el ejercicio de su encargo nueve años, podrán ser reelectas, a excepción de los miembros del Tribunal de Disciplina Judicial, que durarán seis años en su encargo y no podrán ser electos para un nuevo periodo.
+
 ### CAPÍTULO IV. De los Ayuntamientos
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 16. Los municipios constituyen la base de la división territorial y de la organización política del Estado. Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por un presidente, un síndico y los regidores que determine el Congreso.
@@ -434,10 +444,6 @@ Los partidos políticos o coaliciones, deberán registrar sus planillas de candi
 En los ayuntamientos de regiduría única no será aplicable la paridad de género. Cuándo el número de ediles sea impar, podrá un género superar por una sola postulación al otro.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
-
-### CAPÍTULO IV BIS. De los Pueblos y Comunidades Indígenas u Originarios y Afromexicanos
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE JUNIO DE 2023)</small>
 
 ###### Artículo 16.
 
@@ -501,11 +507,9 @@ Los ayuntamientos se sujetarán, en la elección de agentes y subagentes municip
 
 > <small>(ADICIONADO [N. DE E. REFORMADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO V. De las Elecciones Ordinarias y Extraordinarias
+### CAPÍTULO IV BIS. De los Pueblos y Comunidades Indígenas u Originarios y Afromexicanos
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 18. En las elecciones ordinarias, el Consejo General del Instituto Electoral Veracruzano podrá, por causa justificada o de fuerza mayor, ampliar y adecuar los plazos que señala este Código. El acuerdo correspondiente deberá publicarse en la Gaceta Oficial del Estado, para que surta sus efectos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE JUNIO DE 2023)</small>
 
 ###### Artículo 17 Bis.
 
@@ -523,7 +527,11 @@ En asuntos relacionados con los pueblos y comunidades afromexicanas, cualquiera 
 
 El Organismo Público Local Electoral de Veracruz tomará las medidas necesarias para la organización, acompañamiento y apoyo a las comunidades y pueblos indígenas u originarios y afromexicanos, en coordinación con las autoridades tradicionales, nacionales y locales competentes, para el reconocimiento y celebración de dichos ejercicios democráticos, para lo cual emitirá lineamientos que garanticen la participación política de las y los habitantes de dichos pueblos y comunidades, en un marco de progresividad, igualdad e interculturalidad.
 
-### CAPÍTULO ÚNICO. Naturaleza y Objeto
+### CAPÍTULO V. De las Elecciones Ordinarias y Extraordinarias
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 18. En las elecciones ordinarias, el Consejo General del Instituto Electoral Veracruzano podrá, por causa justificada o de fuerza mayor, ampliar y adecuar los plazos que señala este Código. El acuerdo correspondiente deberá publicarse en la Gaceta Oficial del Estado, para que surta sus efectos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 18.
 
@@ -545,7 +553,7 @@ EL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO I. Disposiciones generales
+### CAPÍTULO ÚNICO. Naturaleza y Objeto
 
 ###### Artículo 20.
 
@@ -577,11 +585,7 @@ Las organizaciones políticas gozarán de derechos y prerrogativas, y estarán s
 
 ## TÍTULO SEGUNDO. De las Asociaciones Políticas Estatales
 
-### CAPÍTULO II. De la Fiscalización
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 30. Las asociaciones políticas serán fiscalizadas por la Unidad de Fiscalización del Instituto Electoral Veracruzano, en los términos previstos por este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 23.
 
@@ -695,7 +699,11 @@ VIII. Poner a disposición del erario estatal los bienes que hubieran adquirido 
 
 IX. Cumplir con las disposiciones de este Código.
 
-### CAPÍTULO I. Disposiciones generales
+### CAPÍTULO II. De la Fiscalización
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 30. Las asociaciones políticas serán fiscalizadas por la Unidad de Fiscalización del Instituto Electoral Veracruzano, en los términos previstos por este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 30.
 
@@ -737,13 +745,13 @@ Toda persona tiene derecho a acceder a la información de las asociaciones, de c
 
 ## TÍTULO TERCERO. De los Partidos Políticos Estatales
 
-### CAPÍTULO II. De la Constitución y Registro
+### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 37.
 
 Los derechos y obligaciones de los partidos políticos, organización interna, acceso a radio y televisión, régimen financiero, prerrogativas y fiscalización de los partidos políticos, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, la Ley General de Partidos Políticos y demás normas aplicables.
 
-### CAPÍTULO III. De los Derechos y Obligaciones de los Partidos Políticos
+### CAPÍTULO II. De la Constitución y Registro
 
 ###### Artículo 38.
 
@@ -753,7 +761,7 @@ Los derechos y obligaciones de los partidos políticos, organización interna, a
 
 (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
-### CAPÍTULO IV. De los Asuntos Internos de los Partidos Políticos Estatales
+### CAPÍTULO III. De los Derechos y Obligaciones de los Partidos Políticos
 
 ###### Artículo 40.
 
@@ -933,7 +941,7 @@ LOS PARTIDOS POLÍTICOS NACIONALES CON ACREDITACIÓN ANTE EL ORGANISMO PÚBLICO 
 
 Toda persona tiene derecho a acceder a la información de los partidos políticos, de conformidad con lo previsto en la legislación correspondiente, salvo aquella información que, de acuerdo con la misma, sea considerada reservada o confidencial.
 
-### CAPÍTULO V. De las Prerrogativas
+### CAPÍTULO IV. De los Asuntos Internos de los Partidos Políticos Estatales
 
 ###### Artículo 44.
 
@@ -975,7 +983,7 @@ EN SU CASO, UNA VEZ QUE EL TRIBUNAL ELECTORAL DEL ESTADO RESUELVA LAS IMPUGNACIO
 
 LOS PARTIDOS POLÍTICOS ENTREGARÁN AL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ LOS REGLAMENTOS QUE EMITAN, EN UN PLAZO NO MAYOR DE DIEZ DÍAS POSTERIORES A SU APROBACIÓN. EL ORGANISMO VERIFICARÁ EL APEGO DE LOS REGLAMENTOS A LAS NORMAS LEGALES Y ESTATUTARIAS Y, EN SU CASO, LOS REGISTRARÁ EN EL LIBRO RESPECTIVO.
 
-### CAPÍTULO VI. Del Acceso a Medios de Comunicación
+### CAPÍTULO V. De las Prerrogativas
 
 ###### Artículo 45.
 
@@ -999,51 +1007,7 @@ c) EL ORGANISMO PÚBLICO LOCAL ELECTORAL INFORMARÁ AL SERVICIO POSTAL MEXICANO 
 
 IV. Realizar propaganda electoral, en términos de este Código y demás legislación aplicable.
 
-### CAPÍTULO VII. Del Financiamiento
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 50. Los partidos políticos tendrán derecho al financiamiento público de sus actividades, estructura, sueldos y salarios, independientemente de las demás prerrogativas otorgadas en esta Ley, conforme a las disposiciones siguientes:
-
-A. Para el sostenimiento de actividades ordinarias permanentes, el Consejo General del Instituto Electoral Veracruzano determinará anualmente el monto total por distribuir entre los partidos políticos, conforme a lo siguiente:
-
-I. Multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento de la Unidad de Medida y Actualización vigente;
-
-II. El resultado de la operación señalada en la fracción anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en la forma siguiente:
-
-a) Un treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales; y
-
-b) Un setenta por ciento se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos políticos en la elección inmediata anterior de diputados de mayoría relativa;
-
-III. Las cantidades que, en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales, conforme al calendario presupuestal que se apruebe anualmente;
-
-IV. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere el Apartado C de este artículo; y
-
-V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario. B. Para gastos de campaña:
-
-I. En el año de la elección en que se renueven el Poder Ejecutivo del Estado y el Congreso del Estado, con independencia que se renueven o no ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente adicional al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
-
-II. En el año de la elección en que se renueve el Congreso del Estado, con independencia de que se renueven o no ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto adicional al ordinario, equivalente al treinta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
-
-III. En el año de la elección en que se renueven solamente ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al veinte por ciento del financiamiento público adicional al ordinario, que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
-
-IV. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
-
-C. Las actividades específicas a que hace referencia la fracción IV del Apartado A del presente artículo, comprenderán la educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias; el monto total será distribuido en los términos establecidos;
-
-El Consejo General del Instituto Nacional Electoral, a través de la Unidad Técnica, vigilará que los recursos aquí señalados se destinen al financiamiento de las actividades referidas en el párrafo anterior.
-
-Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales, conforme al calendario presupuestal que se apruebe anualmente.
-
-D. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, o aquellos que habiendo conservado registro legal no cuenten con representación alguna en el Congreso del Estado, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
-
-I. Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda, con base en lo dispuesto en el Apartado B del presente artículo; y
-
-II. En lo referente a las actividades específicas, se apegarán a las mismas reglas establecidas para los demás partidos políticos.
-
-Las cantidades a que se refiere la fracción I de este Apartado serán entregadas en la parte proporcional que corresponda a la anualidad, a partir de la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL DECRETO NÚMERO 594 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 50. Los partidos políticos tendrán derecho al financiamiento público de sus actividades, estructura, sueldos y salarios, independientemente de las demás prerrogativas otorgadas en esta Ley, conforme a las disposiciones siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO VI. Del Acceso a Medios de Comunicación
 
 ###### Artículo 46.
 
@@ -1103,7 +1067,51 @@ LOS TRABAJOS DE MONITOREO DARÁN INICIO EL CUARTO DOMINGO DEL MES DE ENERO DEL A
 
 El monitoreo se orientará a verificar el cumplimiento de lo dispuesto en este Capítulo.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VII. Del Financiamiento
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 50. Los partidos políticos tendrán derecho al financiamiento público de sus actividades, estructura, sueldos y salarios, independientemente de las demás prerrogativas otorgadas en esta Ley, conforme a las disposiciones siguientes:
+
+A. Para el sostenimiento de actividades ordinarias permanentes, el Consejo General del Instituto Electoral Veracruzano determinará anualmente el monto total por distribuir entre los partidos políticos, conforme a lo siguiente:
+
+I. Multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento de la Unidad de Medida y Actualización vigente;
+
+II. El resultado de la operación señalada en la fracción anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en la forma siguiente:
+
+a) Un treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales; y
+
+b) Un setenta por ciento se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos políticos en la elección inmediata anterior de diputados de mayoría relativa;
+
+III. Las cantidades que, en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales, conforme al calendario presupuestal que se apruebe anualmente;
+
+IV. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere el Apartado C de este artículo; y
+
+V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario. B. Para gastos de campaña:
+
+I. En el año de la elección en que se renueven el Poder Ejecutivo del Estado y el Congreso del Estado, con independencia que se renueven o no ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente adicional al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+
+II. En el año de la elección en que se renueve el Congreso del Estado, con independencia de que se renueven o no ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto adicional al ordinario, equivalente al treinta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+
+III. En el año de la elección en que se renueven solamente ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al veinte por ciento del financiamiento público adicional al ordinario, que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
+
+IV. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
+
+C. Las actividades específicas a que hace referencia la fracción IV del Apartado A del presente artículo, comprenderán la educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias; el monto total será distribuido en los términos establecidos;
+
+El Consejo General del Instituto Nacional Electoral, a través de la Unidad Técnica, vigilará que los recursos aquí señalados se destinen al financiamiento de las actividades referidas en el párrafo anterior.
+
+Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales, conforme al calendario presupuestal que se apruebe anualmente.
+
+D. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, o aquellos que habiendo conservado registro legal no cuenten con representación alguna en el Congreso del Estado, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
+
+I. Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda, con base en lo dispuesto en el Apartado B del presente artículo; y
+
+II. En lo referente a las actividades específicas, se apegarán a las mismas reglas establecidas para los demás partidos políticos.
+
+Las cantidades a que se refiere la fracción I de este Apartado serán entregadas en la parte proporcional que corresponda a la anualidad, a partir de la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL DECRETO NÚMERO 594 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 50. Los partidos políticos tendrán derecho al financiamiento público de sus actividades, estructura, sueldos y salarios, independientemente de las demás prerrogativas otorgadas en esta Ley, conforme a las disposiciones siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 50.
 
@@ -1231,11 +1239,7 @@ Los partidos políticos podrán establecer en instituciones bancarias domiciliad
 
 ## TÍTULO CUARTO. De los Procesos Internos, Precampañas y Campañas
 
-### CAPÍTULO II. Del inicio de los Procesos Internos y Precampañas
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL DECRETO NÚMERO 594 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 59. Los procesos internos de selección de candidatos de los partidos políticos podrán iniciar a partir del primer domingo del mes de enero del año correspondiente a la elección y deberán concluir a más tardar el cuarto domingo del mes de marzo.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 57.
 
@@ -1257,11 +1261,11 @@ Ningún ciudadano podrá participar en dos o más procesos de selección interna
 
 Cada partido político, en términos de sus estatutos, definirá el procedimiento de selección de sus candidatos, que contenderán en los procesos electorales de renovación de los Poderes Ejecutivo y Legislativo, así como de los ayuntamientos del Estado; para tal efecto, corresponderá al partido autorizar a sus precandidatos la realización de actos tendientes a difundir y promover su imagen, ideas o programas entre sus simpatizantes y militantes, previamente a la elección o designación de candidatos.
 
-### CAPÍTULO III. Del Financiamiento de las Precampañas Electorales
+### CAPÍTULO II. Del inicio de los Procesos Internos y Precampañas
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 65. El Consejo General del Instituto Electoral Veracruzano, en el mes de diciembre del año previo a la elección, fijará el tope de gastos de precampaña por cada elección. La suma total del gasto de los precandidatos de un partido político no podrá ser superior al veinte por ciento del tope de gastos de la campaña inmediata anterior, fijada por dicho Instituto para cada elección.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL DECRETO NÚMERO 594 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 59. Los procesos internos de selección de candidatos de los partidos políticos podrán iniciar a partir del primer domingo del mes de enero del año correspondiente a la elección y deberán concluir a más tardar el cuarto domingo del mes de marzo.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 59.
 
@@ -1371,7 +1375,11 @@ Los servidores públicos que pretendan participar en una precampaña electoral o
 
 La propaganda electoral que sea colocada por actividades de precampaña deberá ser retirada por los precandidatos a más tardar cinco días antes del registro de candidatos.
 
-### CAPÍTULO IV. De la Fiscalización de los Recursos de las Precampañas Electorales
+### CAPÍTULO III. Del Financiamiento de las Precampañas Electorales
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 65. El Consejo General del Instituto Electoral Veracruzano, en el mes de diciembre del año previo a la elección, fijará el tope de gastos de precampaña por cada elección. La suma total del gasto de los precandidatos de un partido político no podrá ser superior al veinte por ciento del tope de gastos de la campaña inmediata anterior, fijada por dicho Instituto para cada elección.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 65.
 
@@ -1381,7 +1389,7 @@ El Consejo General del Organismo Público Local Electoral del Estado de Veracruz
 
 El financiamiento de las precampañas será preferentemente privado, pero los partidos podrán reservar parte de sus prerrogativas ordinarias para financiar a sus precandidatos en los procesos internos, de conformidad con sus estatutos.
 
-### CAPÍTULO V. De las Campañas Electorales
+### CAPÍTULO IV. De la Fiscalización de los Recursos de las Precampañas Electorales
 
 ###### Artículo 67.
 
@@ -1391,11 +1399,7 @@ El financiamiento de las precampañas será preferentemente privado, pero los pa
 
 Cuando un partido no cumpla en tiempo y forma con la presentación del informe de gastos de precampaña, se hará acreedor a las sanciones correspondientes, en términos de la ley general aplicable.
 
-### CAPÍTULO VI. De las Encuestas de Opinión
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 73. El Consejo General del Instituto Electoral Veracruzano será responsable de aplicar, durante los procesos electorales locales, las reglas, lineamientos y criterios que emita el Instituto Nacional Electoral en materia de encuestas y sondeos de opinión.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO V. De las Campañas Electorales
 
 ###### Artículo 69.
 
@@ -1453,11 +1457,11 @@ Durante el tiempo que comprendan las campañas electorales locales y hasta la co
 
 Toda propaganda deberá cesar tres días antes de la fecha de la jornada electoral respectiva. En los lugares señalados para la ubicación de casillas no habrá ninguna propaganda electoral el día de la elección y, si la hubiere, deberá ser retirada inmediatamente por la autoridad electoral correspondiente.
 
-### CAPÍTULO VII. De los Gastos de Campaña
+### CAPÍTULO VI. De las Encuestas de Opinión
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 77. Para las campañas electorales en el Estado, de los candidatos a Gobernador, diputados locales y ediles, el Consejo General del Instituto Electoral Veracruzano fijará un tope de gastos para cada tipo de campaña, con base en los estudios que realice, para lo que tomará en cuenta lo siguiente:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 73. El Consejo General del Instituto Electoral Veracruzano será responsable de aplicar, durante los procesos electorales locales, las reglas, lineamientos y criterios que emita el Instituto Nacional Electoral en materia de encuestas y sondeos de opinión.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 73.
 
@@ -1479,11 +1483,13 @@ Las personas físicas o morales que difundan encuestas o sondeos de opinión deb
 
 La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas por el Organismo Público Local Electoral del Estado de Veracruz en su página de Internet.
 
-### CAPÍTULO I. Disposiciones Preliminares
+### CAPÍTULO VII. De los Gastos de Campaña
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ENERO DE 2025)</small>
 
 ###### Artículo 77.
 
-PARA LAS CAMPAÑAS ELECTORALES EN EL ESTADO, DE LOS CANDIDATOS A GUBERNATURA, DIPUTACIONES Y EDILES, EL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ FIJARÁ UN TOPE DE GASTOS PARA CADA TIPO DE CAMPAÑA, CON BASE EN LOS ESTUDIOS QUE REALICE, PARA LO QUE TOMARÁ EN CUENTA LO SIGUIENTE:
+Para las campañas electorales en el Estado, de los candidatos a la titularidad del Poder Ejecutivo, diputaciones, personas juzgadoras y ediles, el Consejo General del Organismo Público Local Electoral de Veracruz fijará un tope de gastos para cada tipo de campaña, con base en los estudios que realice, para lo que tomará en cuenta lo siguiente:
 
 I. El valor unitario del voto en la última elección ordinaria que corresponda;
 
@@ -1499,7 +1505,7 @@ El tope de gastos de campaña que se fije a las coaliciones se considerará como
 
 ## TÍTULO QUINTO. De los Frentes, Coaliciones y Fusiones
 
-### CAPÍTULO II. De los Frentes
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 78.
 
@@ -1507,7 +1513,7 @@ Las organizaciones políticas podrán aliarse o unirse, con el fin de constituir
 
 Para fines electorales, las organizaciones políticas podrán formar coaliciones, a fin de postular candidatos en las elecciones estatales, distritales y municipales, en cuyo caso, presentarán una plataforma ideológica electoral mínima y común, en términos de este Código.
 
-### CAPÍTULO III. De las Coaliciones
+### CAPÍTULO II. De los Frentes
 
 ###### Artículo 79.
 
@@ -1545,7 +1551,7 @@ EL CONVENIO PARA INTEGRAR UN FRENTE SE REGISTRARÁ ANTE EL CONSEJO GENERAL DEL O
 
 Los partidos políticos y asociaciones políticas que integren un frente, conservarán su personalidad jurídica, registro e identidad propia.
 
-### CAPÍTULO IV. De las Fusiones
+### CAPÍTULO III. De las Coaliciones
 
 ###### Artículo 82.
 
@@ -1583,11 +1589,7 @@ Los partidos políticos y asociaciones políticas que integren un frente, conser
 
 (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
-### CAPÍTULO I. De la Pérdida de Registro de los Partidos
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 94. Son causa de pérdida de registro de un partido político:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO IV. De las Fusiones
 
 ###### Artículo 91.
 
@@ -1617,7 +1619,11 @@ El convenio de fusión aprobado por el Consejo General del Organismo Público Lo
 
 ## TÍTULO SEXTO. De la Pérdida del Registro de las Organizaciones políticas
 
-### CAPÍTULO II. De la Pérdida de Registro de las Asociaciones
+### CAPÍTULO I. De la Pérdida de Registro de los Partidos
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 94. Son causa de pérdida de registro de un partido político:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 94.
 
@@ -1671,13 +1677,7 @@ Lo anterior no aplicará en el caso de fusiones.
 
 Las organizaciones políticas estatales que hayan perdido su registro no podrán solicitar nuevo registro hasta trascurridos tres años, contados a partir de la publicación a que se refiere este Código.
 
-### CAPÍTULO I. De su Naturaleza y Atribuciones
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 99. El Instituto Electoral Veracruzano es la autoridad electoral del Estado, de funcionamiento permanente, dotado de personalidad jurídica y patrimonio propios, con autonomía técnica, presupuestal y de gestión, responsable de la organización, desarrollo y vigilancia de las elecciones, plebiscitos y referendos y de aplicar las sanciones que le autoriza la Ley General de Instituciones y Procedimientos Electorales, este Código y las demás disposiciones electorales aplicables,
-
-El Instituto Electoral Veracruzano será profesional en su desempeño y se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO II. De la Pérdida de Registro de las Asociaciones
 
 ###### Artículo 97.
 
@@ -1707,11 +1707,13 @@ El acuerdo que emita el Organismo Público Local Electoral del Estado de Veracru
 
 ## TÍTULO PRIMERO. DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
 
-### CAPÍTULO II. De su Integración y Funcionamiento
+### CAPÍTULO I. De su Naturaleza y Atribuciones
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 101. El Instituto Electoral Veracruzano, para el cumplimiento de sus funciones, contará con los órganos siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 99. El Instituto Electoral Veracruzano es la autoridad electoral del Estado, de funcionamiento permanente, dotado de personalidad jurídica y patrimonio propios, con autonomía técnica, presupuestal y de gestión, responsable de la organización, desarrollo y vigilancia de las elecciones, plebiscitos y referendos y de aplicar las sanciones que le autoriza la Ley General de Instituciones y Procedimientos Electorales, este Código y las demás disposiciones electorales aplicables,
 
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+El Instituto Electoral Veracruzano será profesional en su desempeño y se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 99.
 
@@ -1815,11 +1817,11 @@ XXVI. LAS DEMÁS QUE DETERMINEN ESTE CÓDIGO Y LEYES RELATIVAS APLICABLES
 
 EL PATRIMONIO DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ SE INTEGRARÁ CON LOS BIENES MUEBLES E INMUEBLES QUE SE DESTINEN AL CUMPLIMIENTO DE SU OBJETO Y LAS PARTIDAS QUE ANUALMENTE SE LE SEÑALEN EN EL PRESUPUESTO DE EGRESOS DEL ESTADO, ASÍ COMO CON LOS INGRESOS QUE RECIBA POR CUALQUIER CONCEPTO, DERIVADOS DE LA APLICACIÓN DE LAS DISPOSICIONES DE ESTE CÓDIGO. EL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ TENDRÁ SU DOMICILIO OFICIAL EN LA CAPITAL DEL ESTADO.
 
-### CAPÍTULO III. Del Consejo General
+### CAPÍTULO II. De su Integración y Funcionamiento
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 102. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 101. El Instituto Electoral Veracruzano, para el cumplimiento de sus funciones, contará con los órganos siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 101.
 
@@ -1893,7 +1895,11 @@ NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA 
 
 LOS ÓRGANOS DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ SE REGIRÁN POR LAS DISPOSICIONES CONSTITUCIONALES, LAS LEYES GENERALES EN MATERIA ELECTORAL; ESTE CÓDIGO Y LOS REGLAMENTOS RESPECTIVOS.
 
-### CAPÍTULO IV. De los Consejeros Electorales
+### CAPÍTULO III. Del Consejo General
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 102. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 102.
 
@@ -2131,13 +2137,19 @@ XLIII. Vigilar durante los procesos electorales la aplicación, las reglas, line
 
 XLIV. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
 
-XLV. Las demás que expresamente le confieran la Constitución del Estado, las leyes generales en la materia, este Código y demás leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE ENERO DE 2025)</small>
+
+XLV. Supervisar todos aquellos actos tendientes a la elección de personas juzgadoras que conformarán el Poder Judicial del Estado, desde la preparación de la elección hasta la declaración de validez y la entrega de constancias de mayoría; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE ENERO DE 2025)</small>
+
+XLVI. Las demás que expresamente le confieran la Constitución del Estado, las leyes generales en la materia, este Código y demás leyes aplicables.
 
 ###### Artículo 109.
 
 El Consejo General sesionará por lo menos una vez al mes, desde su instalación y hasta la conclusión del proceso electoral de que se trate.
 
-### CAPÍTULO V. De la Presidencia del Consejo General
+### CAPÍTULO IV. De los Consejeros Electorales
 
 ###### Artículo 110.
 
@@ -2163,7 +2175,7 @@ VII. Solicitar a la Presidencia o, en su caso, al Secretario Ejecutivo la docume
 
 VIII. Las demás que les confieran este Código y sus reglamentos.
 
-### CAPÍTULO VI. De la Secretaría del Consejo General
+### CAPÍTULO V. De la Presidencia del Consejo General
 
 ###### Artículo 111.
 
@@ -2231,7 +2243,7 @@ XIV. PROPONER AL CONSEJO GENERAL EL NOMBRAMIENTO DE LAS CONSEJERAS Y CONSEJEROS 
 
 XV. Las demás que expresamente le confieran este Código, sus reglamentos y demás legislación aplicable.
 
-### CAPÍTULO VII. De la Junta General Ejecutiva
+### CAPÍTULO VI. De la Secretaría del Consejo General
 
 ###### Artículo 112.
 
@@ -2271,7 +2283,7 @@ XII. Firmar, junto con el Presidente del Consejo General, todos los acuerdos y r
 
 XIII. Las demás que expresamente le confieran este Código y las leyes del Estado.
 
-### CAPÍTULO VIII. DE LA SECRETARIA EJECUTIVA O SECRETARIO EJECUTIVO DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
+### CAPÍTULO VII. De la Junta General Ejecutiva
 
 ###### Artículo 113.
 
@@ -2311,7 +2323,7 @@ VIII. Las demás que expresamente le señalen este Código y sus reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN; G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO IX. De los Órganos Ejecutivos
+### CAPÍTULO VIII. DE LA SECRETARIA EJECUTIVA O SECRETARIO EJECUTIVO DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
 
 ###### Artículo 114.
 
@@ -2415,11 +2427,7 @@ XIX. Supervisar las actividades de las Direcciones Ejecutivas del Instituto y ap
 
 XX. Las demás que expresamente le confiera este Código.
 
-### CAPÍTULO X. DEL ÓRGANO INTERNO DE CONTROL
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 124. La Contraloría General es el órgano del Instituto Electoral Veracruzano, con autonomía técnica y de gestión, que tendrá los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto del Instituto, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción, responsable del análisis y evaluación de las actividades institucionales, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto. Para el estudio, planeación y despacho de los asuntos de su competencia, la Contraloría General contará con las siguientes áreas:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO IX. De los Órganos Ejecutivos
 
 ###### Artículo 116.
 
@@ -2703,9 +2711,9 @@ De la Dirección Ejecutiva del Servicio Profesional Electoral.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO XI. DE LAS COMISIONES DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
+### CAPÍTULO X. DEL ÓRGANO INTERNO DE CONTROL
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 132. El Consejo General del Instituto Electoral Veracruzano, contará con las comisiones que considere necesarias para el desempeño de sus atribuciones.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 124. La Contraloría General es el órgano del Instituto Electoral Veracruzano, con autonomía técnica y de gestión, que tendrá los recursos suficientes y necesarios, que deberán estar etiquetados dentro del presupuesto del Instituto, para el cumplimiento de sus funciones de prevención, detección, combate y sanción de la corrupción, responsable del análisis y evaluación de las actividades institucionales, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto. Para el estudio, planeación y despacho de los asuntos de su competencia, la Contraloría General contará con las siguientes áreas:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
@@ -2903,9 +2911,9 @@ En caso de impedimento legal o ausencia no mayor a treinta días de la persona t
 
 > <small>(REFORMADA SU DENOMINACIÓN; G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO XII. DE LOS CONSEJOS DISTRITALES DEL ORGANISMO
+### CAPÍTULO XI. DE LAS COMISIONES DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 139. Los Consejos Distritales son órganos desconcentrados del Instituto Electoral Veracruzano, que tendrán a su cargo la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos distritos electorales uninominales, de conformidad con las disposiciones de este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 132. El Consejo General del Instituto Electoral Veracruzano, contará con las comisiones que considere necesarias para el desempeño de sus atribuciones.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
@@ -3063,9 +3071,9 @@ VI. Promover la cultura de la no violencia en el marco de los derechos político
 
 > <small>(REFORMADA SU DENOMINACIÓN; G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO XIII. DE LOS CONSEJOS MUNICIPALES ESPECIALES
+### CAPÍTULO XII. DE LOS CONSEJOS DISTRITALES DEL ORGANISMO
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 146. Los consejos municipales son órganos desconcentrados del Instituto Electoral Veracruzano, encargados de la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos municipios, conforme a este Código y demás disposiciones relativas."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 139. Los Consejos Distritales son órganos desconcentrados del Instituto Electoral Veracruzano, que tendrán a su cargo la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos distritos electorales uninominales, de conformidad con las disposiciones de este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
@@ -3149,11 +3157,9 @@ IX. Registrar los nombramientos de los representantes de los partidos políticos
 
 X. Registrar y en su caso expedir, dentro del plazo máximo de cuarenta y ocho horas, a partir de su presentación, y en todo caso trece días antes del señalado para la elección, los nombramientos de los representantes a que se refiere la fracción anterior;
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XI. Recibir de la Secretaría Ejecutiva del Instituto Electoral Veracruzano las listas nominales de electores, boletas y formatos aprobados, para los comicios de Gobernador, diputados y ediles;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 28 DE JULIO DE 2020)</small>
-
-XI. RECIBIR DE LA SECRETARÍA EJECUTIVA DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ LAS LISTAS NOMINALES DE ELECTORES, BOLETAS, SOBRES BOLSA DE SEGURIDAD A PRUEBA DE ROTURAS Y FORMATOS APROBADOS, PARA LOS COMICIOS DE GUBERNATURA, DIPUTACIONES Y CARGOS EDILICIOS;
+XI. Recibir de la Secretaría Ejecutiva del Organismo Público Local Electoral de Veracruz las listas nominales de electores, boletas y formatos aprobados, para los comicios para la titularidad del Poder Ejecutivo, diputaciones, personas juzgadoras y ediles;
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XII. En coordinación con los consejos municipales del Instituto Electoral Veracruzano, entregar a los presidentes o en su caso a los secretarios de las mesas directivas de casilla, las listas nominales de electores, boletas, formatos aprobados y útiles necesarios, para el cumplimiento de sus funciones;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3207,17 +3213,13 @@ XX. Tomar las medidas necesarias para el resguardo de los paquetes electorales c
 
 XXI. DETERMINAR SUS HORARIOS DE LABORES, TENIENDO EN CUENTA QUE TODOS LOS DÍAS Y HORAS EN MATERIA ELECTORAL SON HÁBILES. DE ESTOS ACUERDOS DEBERÁN INFORMAR OPORTUNAMENTE A LA SECRETARÍA EJECUTIVA DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ;
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXII. Las demás que expresamente les confiera este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE JULIO DE 2020)</small>
+XXII. Coadyuvar, en los términos que determine el Consejo General en la organización y cómputo de elección de personas juzgadoras, teniendo las mismas atribuciones a que se refiere esta ley; y
 
-XXII. TODAS LAS DEMÁS QUE EL PRESENTE CÓDIGO ESTABLEZCA A FAVOR DE LOS CONSEJOS MUNICIPALES ESPECIALES, SUMIR TODAS LAS ATRIBUCIONES QUE CORRESPONDEN A LOS CONSEJOS MUNICIPALES ESPECIALES EN LAS ELECCIONES DE AYUNTAMIENTOS, EN AQUELLOS MUNICIPIOS DIVERSOS A LAS SEDES DE LOS CONSEJOS MUNICIPALES ESPECIALES; Y
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.O. 20 DE ENERO DE 2025)</small>
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXII], G.O. 28 DE JULIO DE 2020)</small>
-
-XXIII. LAS DEMÁS QUE EXPRESAMENTE LES CONFIERA ESTE CÓDIGO.
+XXIII. Las demás que expresamente les confiera este Código.
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los Consejos Distritales del Instituto Electoral Veracruzano tomarán sus resoluciones por mayoría de votos y, en su caso, su Presidente tendrá voto de calidad.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3325,9 +3327,9 @@ IX. Las demás que les confiere este Código y demás disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN; G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO XIV. Disposiciones Complementarias
+### CAPÍTULO XIII. DE LOS CONSEJOS MUNICIPALES ESPECIALES
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 153. En los Consejos General, Distrital y Municipal del Instituto Electoral Veracruzano, los partidos políticos, por conducto de sus representantes, ejercerán los derechos que este Código les otorga.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 146. Los consejos municipales son órganos desconcentrados del Instituto Electoral Veracruzano, encargados de la preparación, desarrollo y vigilancia del proceso electoral en sus respectivos municipios, conforme a este Código y demás disposiciones relativas."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
@@ -3463,7 +3465,13 @@ XVIII. Solicitar, por conducto de su Presidente, el apoyo de la fuerza pública 
 
 XIX. DETERMINAR SUS HORARIOS DE LABORES, TENIENDO EN CUENTA QUE TODOS LOS DÍAS Y HORAS EN MATERIA ELECTORAL SON HÁBILES. DE ESTOS ACUERDOS DEBERÁN INFORMAR OPORTUNAMENTE A LA SECRETARÍA EJECUTIVA DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ; Y
 
-XX. Las demás que expresamente les confiera este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE ENERO DE 2025)</small>
+
+XX. Coadyuvar, en los términos que determine el Consejo General en la organización y cómputo de elección de personas juzgadoras, teniendo las mismas atribuciones a que se refiere esta ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 20 DE ENERO DE 2025)</small>
+
+XXI. Las demás que expresamente les confiera este Código.
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE DEROGA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En el caso de los procesos electorales en que únicamente se realicen elecciones de ayuntamientos, los consejos municipales asumirán en lo conducente las funciones expresamente señaladas a los Consejos Distritales, salvo la segunda insaculación que quedará a cargo del Consejo General.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3617,11 +3625,11 @@ VIII. SOLICITAR AL PRESIDENTE DEL CONSEJO MUNICIPAL ESPECIAL EL APOYO QUE REQUIE
 
 IX. Las demás que les confiere este Código.
 
-### CAPÍTULO I. De la utilización del Padrón Electoral y de la Credencial para Votar
+### CAPÍTULO XIV. Disposiciones Complementarias
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 157. El Instituto Electoral Veracruzano, usará el Padrón Electoral y las listas de electores de acuerdo a los lineamientos emitidos por el Instituto Nacional Electoral.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 153. En los Consejos General, Distrital y Municipal del Instituto Electoral Veracruzano, los partidos políticos, por conducto de sus representantes, ejercerán los derechos que este Código les otorga.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 153.
 
@@ -3673,7 +3681,11 @@ Las autoridades estatales y municipales están obligadas a proporcionar a los or
 
 ## TÍTULO SEGUNDO. Del Padrón Electoral, Credencial para Votar y las Listas Nominales
 
-### CAPÍTULO II. De las Listas Nominales de Electores
+### CAPÍTULO I. De la utilización del Padrón Electoral y de la Credencial para Votar
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 157. El Instituto Electoral Veracruzano, usará el Padrón Electoral y las listas de electores de acuerdo a los lineamientos emitidos por el Instituto Nacional Electoral.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 157.
 
@@ -3687,7 +3699,7 @@ Para la inscripción en el padrón electoral, se estará a lo que señale la Ley
 
 En lo referente a la credencial para votar, se estará a lo dispuesto por la legislación nacional y demás disposiciones aplicables.
 
-### CAPÍTULO III. De la Depuración del Padrón Electoral
+### CAPÍTULO II. De las Listas Nominales de Electores
 
 ###### Artículo 160.
 
@@ -3713,7 +3725,7 @@ La publicación se hará en cada oficina municipal del Registro Federal de Elect
 
 (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
-### CAPÍTULO ÚNICO. Naturaleza y Objeto
+### CAPÍTULO III. De la Depuración del Padrón Electoral
 
 ###### Artículo 163.
 
@@ -3743,7 +3755,7 @@ Las oficinas municipales del Registro Federal de Electores colocarán las listas
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO I. Del Registro de Candidatos
+### CAPÍTULO ÚNICO. Naturaleza y Objeto
 
 ###### Artículo 169.
 
@@ -3893,7 +3905,7 @@ III. En el Tribunal Electoral del Estado: la substanciación y resolución, en f
 
 ## TÍTULO SEGUNDO. De los Actos Preparatorios de la Elección
 
-### CAPÍTULO II. De la Integración y Ubicación de las Mesas Directivas de Casilla
+### CAPÍTULO I. Del Registro de Candidatos
 
 ###### Artículo 173.
 
@@ -4151,7 +4163,7 @@ Una vez realizada la publicación antes citada, sólo podrá realizarse una fe d
 
 Los partidos políticos podrán sustituir libremente a sus candidatas y candidatos dentro del plazo establecido para su registro, salvaguardando en todo momento el principio de paridad de género; transcurrido éste, solamente lo podrán hacer por causa de fallecimiento, inhabilitación, incapacidad o renuncia. Procede, en todo tiempo, la cancelación del registro, cuando así lo solicite por escrito y lo ratifique el propio candidato, previo aviso al partido que lo haya postulado para que realice la sustitución.
 
-### CAPÍTULO III. Del Registro de Representantes
+### CAPÍTULO II. De la Integración y Ubicación de las Mesas Directivas de Casilla
 
 ###### Artículo 179.
 
@@ -4369,11 +4381,7 @@ La segunda publicación de las listas de las casillas, con su ubicación y los n
 
 Además de los lugares que se señalan para su publicación, el Consejo General determinará que se realice también al menos en un diario de amplia circulación de la región correspondiente.
 
-### CAPÍTULO IV. De la Documentación y Material Electoral
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 197. Para la emisión del voto, se imprimirán las boletas electorales correspondientes, conforme al modelo que apruebe el Consejo General del Instituto Electoral Veracruzano y los lineamientos que emita el Consejo General del Instituto Nacional Electoral.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO III. Del Registro de Representantes
 
 ###### Artículo 191.
 
@@ -4457,9 +4465,9 @@ V. No sustituirán en sus funciones a los representantes de los partidos políti
 
 VI. No asumirán las funciones de los integrantes de la mesa directiva de casilla.
 
-### CAPÍTULO I. De la Instalación y Apertura de Casillas
+### CAPÍTULO IV. De la Documentación y Material Electoral
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 202. Durante el día de la elección se levantará el acta de la jornada electoral, la cual comprende los actos de instalación de la casilla y cierre de votación, que tendrá los datos comunes a todas las elecciones; y las actas relativas al escrutinio y cómputo de cada una de las elecciones, que contendrán los resultados electorales de cada elección, así como las diversas actas aprobadas por el Consejo General del Instituto Electoral Veracruzano, para el desarrollo de la jornada. En todo caso, a los representantes de los candidatos independientes y de los partidos se les hará entrega de copia legible de cada una de ellas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 197. Para la emisión del voto, se imprimirán las boletas electorales correspondientes, conforme al modelo que apruebe el Consejo General del Instituto Electoral Veracruzano y los lineamientos que emita el Consejo General del Instituto Nacional Electoral.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
@@ -4609,7 +4617,11 @@ ESTA OPERACIÓN SE REALIZARÁ CON LA PRESENCIA DE LOS REPRESENTANTES ACREDITADOS
 
 ## TÍTULO TERCERO. De la Jornada Electoral
 
-### CAPÍTULO II. De la Votación
+### CAPÍTULO I. De la Instalación y Apertura de Casillas
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 202. Durante el día de la elección se levantará el acta de la jornada electoral, la cual comprende los actos de instalación de la casilla y cierre de votación, que tendrá los datos comunes a todas las elecciones; y las actas relativas al escrutinio y cómputo de cada una de las elecciones, que contendrán los resultados electorales de cada elección, así como las diversas actas aprobadas por el Consejo General del Instituto Electoral Veracruzano, para el desarrollo de la jornada. En todo caso, a los representantes de los candidatos independientes y de los partidos se les hará entrega de copia legible de cada una de ellas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 202.
 
@@ -4663,7 +4675,7 @@ Concluida la instalación de la casilla, se procederá a llenar y firmar el acta
 
 Los observadores electorales acreditados podrán permanecer el tiempo requerido para realizar sus actividades en las casillas, durante el desarrollo de la jornada electoral.
 
-### CAPÍTULO III. Del Escrutinio y Cómputo en las Casillas
+### CAPÍTULO II. De la Votación
 
 ###### Artículo 206.
 
@@ -4811,7 +4823,7 @@ Sólo permanecerá abierta después de las dieciocho horas, aquella casilla en l
 
 Cerrada la votación, se llenará el apartado correspondiente al cierre de la votación en el acta de la jornada electoral. El acta será firmada, por todos los funcionarios y representantes de candidatos independientes y de partido que se encuentren presentes, si alguno se negare a firmar, se hará constar dicha situación, señalando la causa para ello, de lo cual dará fe el Secretario.
 
-### CAPÍTULO IV. De la Clausura de la Casilla y de la Remisión de los Paquetes
+### CAPÍTULO III. Del Escrutinio y Cómputo en las Casillas
 
 ###### Artículo 213.
 
@@ -4873,7 +4885,7 @@ En el procedimiento de escrutinio y cómputo de las elecciones se seguirá el or
 
 Si se encontrasen boletas de una elección en la urna correspondiente a otra, se separarán y se computarán en la elección respectiva.
 
-### CAPÍTULO V. Disposiciones Complementarias
+### CAPÍTULO IV. De la Clausura de la Casilla y de la Remisión de los Paquetes
 
 ###### Artículo 218.
 
@@ -4963,11 +4975,7 @@ V. UNA VEZ RECIBIDOS LA TOTALIDAD DE LOS PAQUETES ELECTORALES CON EXPEDIENTES DE
 
 En la elección de Gobernadora o Gobernador, los Consejos Distritales remitirán las actas de cómputo distrital y demás documentación relativa al Consejo General del Organismo Público Local Electoral del Estado de Veracruz, para los efectos del cómputo estatal y la declaración de validez de la elección y de Gobernadora o Gobernador Electo.
 
-### CAPÍTULO I. De los Actos Posteriores a la Elección
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 230. Los Consejos Distritales o Municipales del Instituto Electoral Veracruzano sesionarán desde las ocho horas del miércoles siguiente al día de la jornada electoral, para hacer el cómputo de la elección de que se trate.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO V. Disposiciones Complementarias
 
 ###### Artículo 223.
 
@@ -5037,7 +5045,11 @@ h) Los que expresamente les confiera el respectivo consejo.
 
 ## TÍTULO CUARTO. De los Actos Posteriores a la Elección, los Resultados Electorales y su Publicación
 
-### CAPÍTULO II. De los Resultados Electorales
+### CAPÍTULO I. De los Actos Posteriores a la Elección
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 230. Los Consejos Distritales o Municipales del Instituto Electoral Veracruzano sesionarán desde las ocho horas del miércoles siguiente al día de la jornada electoral, para hacer el cómputo de la elección de que se trate.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 230.
 
@@ -5139,11 +5151,7 @@ El paquete de cómputo se remitirá al órgano que corresponda, de acuerdo con l
 
 Los presidentes de los consejos publicarán en el exterior de los locales que ocupen las mismas, al término del cómputo distrital o municipal, los resultados obtenidos en cada una de las elecciones.
 
-### CAPÍTULO III. De la Publicación
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 253. El Consejo General del Instituto Electoral Veracruzano, a través de su Presidente, mandará publicar en la Gaceta Oficial del Estado, a más tardar tres días después de la conclusión del proceso electoral correspondiente, según sea el caso, los nombres de quienes hayan resultado electos en las elecciones de Gobernador, diputados y ediles de los ayuntamientos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO II. De los Resultados Electorales
 
 #### Sección Primera. De los Resultados de los Cómputos Municipales
 
@@ -5501,15 +5509,13 @@ Ningún partido político podrá contar con más de treinta diputaciones por amb
 
 En ningún caso un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta limitante no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. El porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-### Capítulo I. Disposiciones generales
+### CAPÍTULO III. De la Publicación
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 256. Las disposiciones contenidas en este capítulo, tienen por objeto regular las candidaturas independientes para Gobernador, Diputados de mayoría relativa, Presidentes Municipales y Síndicos, en términos de lo dispuesto en la fracción II del Artículo 35 de la Constitución Política de los Estados Unidos Mexicanos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 20 DE ENERO DE 2025)</small>
 
 ###### Artículo 253.
 
-El Consejo General del Organismo Público Local Electoral del Estado de Veracruz, a través de su Presidencia, mandará publicar en la Gaceta Oficial del Estado, a más tardar tres días después de la conclusión del proceso electoral correspondiente, según sea el caso, los nombres de quienes hayan resultado electos en las elecciones de Gubernatura, diputaciones y ediles de los ayuntamientos.
+El Consejo General del Organismo Público Local Electoral de Veracruz, a través de su presidencia, mandará publicar en la Gaceta Oficial del Estado, a más tardar tres días después de la conclusión del proceso electoral correspondiente, según sea el caso, los nombres de quienes hayan resultado electos para la titularidad del Poder Ejecutivo, diputaciones, personas juzgadoras y ediles de los ayuntamientos.
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 254. Para hacer la publicación, el Consejo General del Instituto Electoral Veracruzano, tomará en cuenta las constancias expedidas por los órganos electorales competentes y, en su caso, las resoluciones emitidas por los órganos jurisdiccionales correspondientes.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -5521,19 +5527,25 @@ PARA HACER LA PUBLICACIÓN, EL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELEC
 
 En el caso de que sea necesaria una fe de erratas por errores gramaticales o de transcripción, una vez realizada la publicación antes citada, se sujetará a lo que dispone este Código.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 255. El Consejo General del Instituto Electoral Veracruzano, a través de su Presidente, informará al Congreso del Estado acerca de las constancias de mayoría relativa y de asignación expedidas en las elecciones de diputados y de ayuntamientos, en el término establecido en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Artículo 255. El Consejo General del Organismo Público Local Electoral del Estado de Veracruz, a través de su Presidencia, informará al Congreso del Estado acerca de las constancias de mayoría relativa y de asignación expedidas en las elecciones de diputaciones y de ayuntamientos, en el término establecido en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ###### Artículo 255.
 
-El Consejo General del Organismo Público Local Electoral del Estado de Veracruz, a través de su Presidencia, informará al Congreso del Estado acerca de las constancias de mayoría relativa y de asignación expedidas en las elecciones de diputaciones y de ayuntamientos, en el término establecido en este Código.
+El Consejo General del Instituto Electoral Veracruzano, a través de su Presidente, informará al Congreso del Estado acerca de las constancias de mayoría relativa y de asignación expedidas en las elecciones de diputados y de ayuntamientos, en el término establecido en este Código.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+De igual manera, deberá informar al Congreso del Estado respecto del resultado de la elección de las personas juzgadoras del Poder Judicial del Estado.
 
 # LIBRO QUINTO. De las Candidaturas Independientes
 
 ## TÍTULO ÚNICO. De las Candidaturas independientes
 
-### CAPÍTULO II. DEL PROCESO DE SELECCIÓN DE CANDIDATURAS INDEPENDIENTES
+### Capítulo I. Disposiciones generales
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 256. Las disposiciones contenidas en este capítulo, tienen por objeto regular las candidaturas independientes para Gobernador, Diputados de mayoría relativa, Presidentes Municipales y Síndicos, en términos de lo dispuesto en la fracción II del Artículo 35 de la Constitución Política de los Estados Unidos Mexicanos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 256.
 
@@ -5603,11 +5615,7 @@ Los Candidatos Independientes que hayan participado en una elección ordinaria q
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO III. De la Convocatoria
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 265. El Consejo General del Instituto Electoral Veracruzano, emitirá la Convocatoria dirigida a los ciudadanos interesados en postularse como Candidatos Independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos, los topes de gastos que pueden erogar y los formatos para ello, debiendo darse amplia difusión a la Convocatoria en los medios que apruebe el Consejo General.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO II. DEL PROCESO DE SELECCIÓN DE CANDIDATURAS INDEPENDIENTES
 
 ###### Artículo 264.
 
@@ -5621,17 +5629,21 @@ III. De la obtención del apoyo ciudadano; y
 
 IV. Del registro de Candidatos Independientes.
 
-### CAPÍTULO IV. De los Actos Previos al Registro de Candidatos Independientes
+### CAPÍTULO III. De la Convocatoria
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 266. Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto Electoral Veracruzano por escrito en el formato que éste determine.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 265. El Consejo General del Instituto Electoral Veracruzano, emitirá la Convocatoria dirigida a los ciudadanos interesados en postularse como Candidatos Independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos, los topes de gastos que pueden erogar y los formatos para ello, debiendo darse amplia difusión a la Convocatoria en los medios que apruebe el Consejo General.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 265.
 
 El Consejo General del Organismo Público Local Electoral del Estado de Veracruz, emitirá la Convocatoria dirigida a los ciudadanos interesados en postularse como Candidatas o Candidatos Independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos, los topes de gastos que pueden erogar y los formatos para ello, debiendo darse amplia difusión a la Convocatoria en los medios que apruebe el Consejo General.
 
-### CAPÍTULO V. De la obtención del apoyo ciudadano
+### CAPÍTULO IV. De los Actos Previos al Registro de Candidatos Independientes
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 266. Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto Electoral Veracruzano por escrito en el formato que éste determine.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 266.
 
@@ -5657,7 +5669,7 @@ III. CON LA MANIFESTACIÓN DE INTENCIÓN, LAS Y LOS ASPIRANTES A CANDIDATURAS IN
 
 La persona moral a la que se refiere el párrafo anterior deberá estar constituida por lo menos con el aspirante a candidato, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
 
-### CAPÍTULO VI. De los Derechos y Obligaciones de los Aspirantes a Candidatos Independientes
+### CAPÍTULO V. De la obtención del apoyo ciudadano
 
 ###### Artículo 267.
 
@@ -5747,7 +5759,7 @@ Le serán aplicables a los aspirantes las disposiciones relacionadas con el fina
 
 Los aspirantes deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos relacionados con el apoyo ciudadano, así como de la presentación de los informes en los términos de este Código.
 
-### CAPÍTULO VII. Del Registro de Candidatos Independientes
+### CAPÍTULO VI. De los Derechos y Obligaciones de los Aspirantes a Candidatos Independientes
 
 ###### Artículo 275.
 
@@ -5809,7 +5821,7 @@ VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en l
 
 IX. Las demás establecidas en cualquier otra disposición aplicable.
 
-### CAPÍTULO VIII. De las Prerrogativas, Derechos y Obligaciones de los Candidatos Independientes
+### CAPÍTULO VII. Del Registro de Candidatos Independientes
 
 #### Sección Primera. De los Requisitos de Elegibilidad
 
@@ -5987,7 +5999,7 @@ Tratándose de fórmula de diputaciones será cancelado el registro de esta comp
 
 En el caso de las fórmulas de candidatas y candidatos independientes a Presidencias Municipales y Sindicaturas, será cancelado el registro de esta completa cuando falte el propietario. La ausencia del suplente no invalidará la fórmula.
 
-### CAPÍTULO IX. De las Prerrogativas
+### CAPÍTULO VIII. De las Prerrogativas, Derechos y Obligaciones de los Candidatos Independientes
 
 #### Sección Primera. De los Derechos y Obligaciones
 
@@ -6135,7 +6147,7 @@ Si la designación no se realiza en el plazo previsto en el párrafo anterior, s
 
 El registro de los nombramientos de los representantes ante mesas directivas de casilla y generales se realizará en los términos previstos en este Código.
 
-### CAPÍTULO X. De la Propaganda Electoral de los Candidatos Independientes
+### CAPÍTULO IX. De las Prerrogativas
 
 #### Sección Primera. Del Financiamiento
 
@@ -6231,7 +6243,7 @@ b) LAS CANDIDATAS Y LOS CANDIDATOS INDEPENDIENTES SÓLO TENDRÁN ACCESO A LAS FR
 
 c) LOS NOMBRES Y FIRMAS DE LAS Y LOS REPRESENTANTES AUTORIZADOS PARA REALIZAR LAS GESTIONES PARA EL USO DE LAS FRANQUICIAS, SE REGISTRARÁN ANTE LA DIRECCIÓN EJECUTIVA DE PRERROGATIVAS Y PARTIDOS POLÍTICOS A FIN DE QUE ÉSTA LOS COMUNIQUE AL CONSEJO GENERAL.
 
-### CAPÍTULO XI. De la Fiscalización
+### CAPÍTULO X. De la Propaganda Electoral de los Candidatos Independientes
 
 ###### Artículo 304.
 
@@ -6239,13 +6251,13 @@ Son aplicables a los candidatos independientes, las normas sobre propaganda elec
 
 La propaganda electoral de los candidatos independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros candidatos independientes, así como tener visible la leyenda: “Candidato Independiente”.
 
-### CAPÍTULO XII. De la Jornada Electoral, De la Documentación y el Material Electoral
+### CAPÍTULO XI. De la Fiscalización
 
 ###### Artículo 305.
 
 (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
-### CAPÍTULO XIII. Del Cómputo de los Votos
+### CAPÍTULO XII. De la Jornada Electoral, De la Documentación y el Material Electoral
 
 ###### Artículo 306.
 
@@ -6271,11 +6283,7 @@ En la boleta no se incluirá ni la fotografía ni la silueta del candidato.
 
 Los documentos electorales serán elaborados por el Organismo Público Local Electoral del Estado de Veracruz, aplicando en lo conducente lo dispuesto en este Código para la elaboración de la documentación y el material electoral.
 
-### CAPÍTULO XIV. De las Disposiciones Complementarias
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 312. Corresponde al Instituto Electoral Veracruzano la organización, desarrollo y otorgamiento de las prerrogativas a los candidatos independientes, conforme a lo establecido en este Código para los partidos políticos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO XIII. Del Cómputo de los Votos
 
 ###### Artículo 310.
 
@@ -6289,7 +6297,11 @@ Se contará como voto válido la marca que haga el elector en un solo recuadro e
 
 Para determinar la votación estatal emitida que servirá de base para la asignación de Diputaciones por el principio de representación proporcional, en términos de lo previsto por la Constitución y este Código, no serán contabilizados los votos recibidos a favor de candidatos independientes.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XIV. De las Disposiciones Complementarias
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 312. Corresponde al Instituto Electoral Veracruzano la organización, desarrollo y otorgamiento de las prerrogativas a los candidatos independientes, conforme a lo establecido en este Código para los partidos políticos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 312.
 
@@ -6299,11 +6311,7 @@ Corresponde al Organismo Público Local Electoral del Estado de Veracruz la orga
 
 ## TÍTULO PRIMERO. De las Faltas Electorales y sus Sanciones
 
-### CAPÍTULO II. De los Sujetos, Conductas Sancionables y Sanciones
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 314. Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en este Código:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 313.
 
@@ -6317,7 +6325,11 @@ III. Las reglas para el inicio, tramitación, órganos competentes e investigaci
 
 IV. Los procedimientos para dictaminar y remitir expedientes al Tribunal Electoral del Estado, para su resolución.
 
-### CAPÍTULO III. Del Procedimiento Sancionador Disposiciones Generales
+### CAPÍTULO II. De los Sujetos, Conductas Sancionables y Sanciones
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 314. Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en este Código:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 314.
 
@@ -6332,6 +6344,10 @@ III. Los aspirantes, precandidatos y candidatos a cargos de elección popular;
 IV. Los ciudadanos, dirigentes y afiliados a los partidos políticos o cualquier persona física o moral;
 
 V. Aspirantes y candidatos independientes;
+
+> <small>(ADICIONADA, G.O. 20 DE ENERO DE 2025)</small>
+
+V. Bis. Aspirantes y candidaturas de personas juzgadoras;
 
 VI. Los observadores electorales o las organizaciones de observadores electorales;
 
@@ -6497,6 +6513,22 @@ XIV. La acción u omisión que constituya violencia política en razón de géne
 
 XV. El incumplimiento de cualquiera de las disposiciones contenidas en este ordenamiento y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 319 Bis.
+
+Constituyen infracciones de aspirantes y candidaturas de personas juzgadoras:
+
+I. La realización de actos anticipados de campaña;
+
+II. Colocar propaganda en lugares expresamente prohibidos por el Código y otras disposiciones administrativas y de protección al medio ambiente;
+
+III. No usar el material previsto por el Código para la confección o elaboración de propaganda electoral;
+
+IV. Menoscabar, limitar o impedir el ejercicio de derechos político-electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de este Código y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado; y
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+
 ###### Artículo 320.
 
 Constituyen infracciones al presente Código por parte de los observadores electorales y de las organizaciones con el mismo propósito, el incumplimiento de cualquiera sus (sic) disposiciones y de otras aplicables en la materia.
@@ -6649,6 +6681,16 @@ c) Con la pérdida del derecho del aspirante infractor a ser registrado como Can
 
 d) En caso de que el aspirante omita informar y comprobar los gastos tendentes a recabar el apoyo ciudadano y los gastos de campaña, sin que en este último caso los reembolse no podrá ser registrado en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
 
+> <small>(ADICIONADA, G.O. 20 DE ENERO DE 2025)</small>
+
+VII. Respecto de aspirantes y candidaturas de personas juzgadoras:
+
+a) Con amonestación pública;
+
+b) Con multa de hasta el valor diario de cinco mil Unidades de Medida y Actualización.
+
+c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo.
+
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 326. Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto o actualicen la infracción prevista en el artículo 321 fracción III del presente Código, se estará a lo siguiente:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
@@ -6717,11 +6759,7 @@ Las multas que imponga el Instituto deberán pagarse ante la Secretaría Ejecuti
 
 Si la sanción hubiese sido impuesta a los partidos políticos, transcurrido el plazo sin que el pago se hubiere efectuado, se podrá deducir el monto de la multa de las ministraciones del financiamiento público que corresponda. Tratándose de cualquier otro infractor o si no hubiere posibilidad de descontar el monto de la sanción de futuras ministraciones a los partidos políticos, el importe de la multa será considerado como un crédito fiscal y se dará vista a la autoridad fiscal competente a efecto de que realice el cobro del mismo.
 
-### CAPÍTULO III BIS. DE LAS MEDIDAS CAUTELARES Y DE REPARACIÓN
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO III. Del Procedimiento Sancionador Disposiciones Generales
 
 ###### Artículo 329.
 
@@ -6843,11 +6881,11 @@ En caso de litispendencia, el segundo procedimiento se sobreseerá.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE JULIO 2020)</small>
 
-### CAPÍTULO IV. Del Procedimiento Sancionador Ordinario
+### CAPÍTULO III BIS. DE LAS MEDIDAS CAUTELARES Y DE REPARACIÓN
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 334. El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte o de oficio, cuando cualquier órgano del Instituto Electoral Veracruzano tenga conocimiento de la comisión de conductas infractoras.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 333 Bis.
 
@@ -6879,9 +6917,9 @@ III. Disculpa pública, y
 
 IV. Medidas de no repetición.
 
-### CAPÍTULO V. Del Procedimiento Especial Sancionador
+### CAPÍTULO IV. Del Procedimiento Sancionador Ordinario
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 340. Dentro de los procesos electorales, la Secretaría Ejecutiva del Instituto Electoral Veracruzano, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 334. El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte o de oficio, cuando cualquier órgano del Instituto Electoral Veracruzano tenga conocimiento de la comisión de conductas infractoras.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7045,13 +7083,11 @@ En el desahogo de los puntos de la orden del día en que el Consejo General deba
 
 LAS RESOLUCIONES QUE PONGAN FIN A ESTE PROCEDIMIENTO, PODRÁN SER IMPUGNADAS ANTE EL TRIBUNAL ELECTORAL DEL ESTADO, A TRAVÉS DEL RECURSO ADMINISTRATIVO.
 
-### CAPÍTULO ÚNICO. De las Responsabilidades Administrativas
+### CAPÍTULO V. Del Procedimiento Especial Sancionador
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 347. Para los efectos del presente Capítulo, serán considerados como servidores públicos del Instituto Electoral Veracruzano el Consejero Presidente, los Consejeros Electorales del Consejo General y de los consejos distritales y municipales, el Secretario Ejecutivo, el Contralor General, los Directores Ejecutivos y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 340. Dentro de los procesos electorales, la Secretaría Ejecutiva del Instituto Electoral Veracruzano, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-La Contraloría General del Instituto Electoral Veracruzano, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución del Estado y este Código confieren a los funcionarios del Instituto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO; G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 340.
 
@@ -7243,9 +7279,11 @@ II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto 
 
 ## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
 
-### CAPÍTULO I. De los Recursos
+### CAPÍTULO ÚNICO. De las Responsabilidades Administrativas
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 348. Los recursos son los medios de impugnación de que disponen quienes estén legitimados por este Código, y tienen por objeto lograr la confirmación, revocación o modificación de las decisiones, resoluciones y dictámenes emitidos por los órganos electorales, o la nulidad de la votación de una o más casillas o de una elección.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 347. Para los efectos del presente Capítulo, serán considerados como servidores públicos del Instituto Electoral Veracruzano el Consejero Presidente, los Consejeros Electorales del Consejo General y de los consejos distritales y municipales, el Secretario Ejecutivo, el Contralor General, los Directores Ejecutivos y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+La Contraloría General del Instituto Electoral Veracruzano, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución del Estado y este Código confieren a los funcionarios del Instituto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7259,9 +7297,9 @@ El Órgano Interno de Control del Organismo Público Local Electoral del Estado 
 
 ## TÍTULO PRIMERO. De los Medios de Impugnación
 
-### CAPÍTULO II. DE LA COMPETENCIA
+### CAPÍTULO I. De los Recursos
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 351. El recurso de apelación procede contra los actos o resoluciones del Consejo General del Instituto Electoral Veracruzano.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 348. Los recursos son los medios de impugnación de que disponen quienes estén legitimados por este Código, y tienen por objeto lograr la confirmación, revocación o modificación de las decisiones, resoluciones y dictámenes emitidos por los órganos electorales, o la nulidad de la votación de una o más casillas o de una elección.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7313,25 +7351,9 @@ Los medios de impugnación regulados por este Código procederán en cualquier t
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO III. DE LAS PARTES
+### CAPÍTULO II. DE LA COMPETENCIA
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 352. El recurso de inconformidad procede:
-
-I. En la elección del titular del Poder Ejecutivo del Estado, contra el cómputo estatal de la elección de Gobernador, la declaratoria de validez de la elección y el otorgamiento de la constancia de mayoría y la declaratoria de Gobernador Electo emitidos por el Consejo General del Instituto;
-
-II. En la elección de los integrantes del Poder Legislativo del Estado:
-
-a) En la elección de diputados por el principio de mayoría relativa: contra los resultados consignados en las actas de cómputo distrital, la declaratoria de validez de la elección y el otorgamiento de la constancia de mayoría y validez emitidos por el consejo distrital correspondiente;
-
-b) En la asignación de diputados por el principio de representación proporcional: contra la propia asignación y las correspondientes constancias, cuando se trate de error en la aplicación de la fórmula aplicada al efecto por el Consejo General del Instituto;
-
-III. En la elección de ayuntamientos:
-
-a) Contra los resultados consignados en las actas de cómputo municipal y la consiguiente declaratoria de validez de la elección y el otorgamiento de las constancias de mayoría emitidos por el consejo municipal correspondiente;
-
-b) Contra la asignación de ediles integrantes del ayuntamiento por el principio de representación proporcional y el consiguiente otorgamiento de las constancias respectivas, por parte de los consejos municipales del Instituto; y IV. Los cómputos de cualquier elección, por error aritmético;
-
-Los únicos motivos para interponer este recurso en contra de los resultados consignados en las actas de cómputo estatal, distrital y municipal, así como en contra de la declaración de validez de la elección de Gobernador, diputados y ediles por el principio de mayoría relativa y el otorgamiento de las constancias respectivas y la declaración de Gobernador Electo, serán las causales de nulidad expresamente establecidas en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 351. El recurso de apelación procede contra los actos o resoluciones del Consejo General del Instituto Electoral Veracruzano.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7347,35 +7369,55 @@ El Tribunal podrá realizar notificaciones electrónicas de las resoluciones, cu
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO IV. DE LA LEGITIMACIÓN
+### CAPÍTULO III. DE LAS PARTES
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 353. Es competente para resolver los recursos de revisión, el Consejo General, respecto a los interpuestos contra los actos o resoluciones de los Consejos Distritales o municipales del Instituto Electoral Veracruzano.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
-
-###### Artículo 352.
-
-Serán parte en el procedimiento para tramitar los medios de impugnación:
-
-I. El actor, que será quien estando legitimado en los términos del presente Código lo interponga;
-
-II. La autoridad responsable, que será el organismo electoral, partido político o coalición, que realice el acto o dicte la resolución que se impugna; y
-
-III. El tercero interesado, que será el partido político, ciudadano, coalición, candidato, organización o agrupación políticas o de ciudadanos según corresponda, que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor. Los candidatos podrán participar como coadyuvantes del partido político que los registró.
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO PRIMERO DEL LIBRO SÉPTIMO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “De la Legitimación”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
-
-### CAPÍTULO V. DE LOS TÉRMINOS
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 355. Serán partes en el procedimiento para tramitar los medios de impugnación:
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Artículo 352. Serán parte en el procedimiento para tramitar los medios de impugnación:
 
 I. El actor, que será quien estando legitimado en los términos del presente Código lo interponga;
 
 II. La autoridad responsable, que será el organismo electoral, partido político o coalición, que realice el acto o dicte la resolución que se impugna; y
 
 III. El tercero interesado, que será el partido político, ciudadano, coalición, candidato, organización o agrupación políticas o de ciudadanos según corresponda, que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor. Los candidatos podrán participar como coadyuvantes del partido político que los registró.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+###### Artículo 352.
+
+El recurso de inconformidad procede:
+
+I. En la elección del titular del Poder Ejecutivo del Estado, contra el cómputo estatal de la elección de Gobernador, la declaratoria de validez de la elección y el otorgamiento de la constancia de mayoría y la declaratoria de Gobernador Electo emitidos por el Consejo General del Instituto;
+
+II. En la elección de los integrantes del Poder Legislativo del Estado:
+
+a) En la elección de diputados por el principio de mayoría relativa: contra los resultados consignados en las actas de cómputo distrital, la declaratoria de validez de la elección y el otorgamiento de la constancia de mayoría y validez emitidos por el consejo distrital correspondiente;
+
+b) En la asignación de diputados por el principio de representación proporcional: contra la propia asignación y las correspondientes constancias, cuando se trate de error en la aplicación de la fórmula aplicada al efecto por el Consejo General del Instituto;
+
+III. En la elección de ayuntamientos:
+
+a) Contra los resultados consignados en las actas de cómputo municipal y la consiguiente declaratoria de validez de la elección y el otorgamiento de las constancias de mayoría emitidos por el consejo municipal correspondiente;
+
+b) Contra la asignación de ediles integrantes del ayuntamiento por el principio de representación proporcional y el consiguiente otorgamiento de las constancias respectivas, por parte de los consejos municipales del Instituto; y
+
+IV. Los cómputos de cualquier elección, por error aritmético;
+
+> <small>(ADICIONADA, G.O. 20 DE ENERO DE 2025)</small>
+
+V. Durante el proceso de elección de personas juzgadoras, para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales en los siguientes supuestos:
+
+a) Contra los resultados consignados en las actas, la declaración de validez de la elección y el otorgamiento de las constancias, emitidos por el órgano correspondiente; y
+
+b) Contra la asignación de personas juzgadoras y consiguiente otorgamiento de constancias respectivas, por parte del órgano correspondiente.
+
+> <small>(REFORMADO, G.O. 20 DE ENERO DE 2025)</small>
+
+Los únicos motivos para interponer este recurso en contra de los resultados consignados en las actas de cómputo estatal, distrital y municipal, así como en contra de la declaración de validez de la elección para la titularidad del Poder Ejecutivo del Estado, diputaciones, personas juzgadoras y ediles por el principio de mayoría relativa y el otorgamiento de las constancias respectivas y la declaración de Gobernadora o Gobernador Electo, serán las causales de nulidad expresamente establecidas en este Código.
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO PRIMERO DEL LIBRO SÉPTIMO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “De la Legitimación”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
+
+### CAPÍTULO IV. DE LA LEGITIMACIÓN
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 353. Es competente para resolver los recursos de revisión, el Consejo General, respecto a los interpuestos contra los actos o resoluciones de los Consejos Distritales o municipales del Instituto Electoral Veracruzano.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7399,13 +7441,7 @@ c) No se les expida el certificado respectivo;
 
 V. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Organismo.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 354. El Tribunal Electoral del Estado será competente para conocer de los recursos de apelación, inconformidad y juicio para la protección de los derechos político electorales del ciudadano. El Tribunal Electoral deberá contar con una página electrónica mediante la cual se publiciten los medios de impugnación recibidos y las sentencias recaídas a los mismos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
-
-###### Artículo 354.
-
-Para los efectos del precepto anterior, son representantes legítimos de los partidos políticos, de las coaliciones, de las candidaturas independientes y organizaciones:
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Artículo 354. Para los efectos del precepto anterior, son representantes legítimos de los partidos políticos, de las coaliciones, de las candidaturas independientes y organizaciones:
 
 I. Los registrados formalmente ante los órganos electorales del Estado;
 
@@ -7413,33 +7449,29 @@ II. Las y los dirigentes de los comités estatales, regionales, distritales o mu
 
 III. Los que estén autorizados para representarlos mediante poder otorgado en escritura pública, por los dirigentes del partido u organización facultados estatutariamente para tal efecto; y
 
-IV. Los que estén autorizados en términos del convenio de coalición respectivo.
+IV. Los que estén autorizados en términos del convenio de coalición respectivo.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+###### Artículo 354.
+
+El Tribunal Electoral del Estado será competente para conocer de los recursos de apelación, inconformidad y juicio para la protección de los derechos político electorales del ciudadano. El Tribunal Electoral deberá contar con una página electrónica mediante la cual se publiciten los medios de impugnación recibidos y las sentencias recaídas a los mismos.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+Tratándose de la elección de personas juzgadoras, el Tribunal Electoral del Estado ejercerá competencia mediante el juicio para la protección de los derechos político-electorales de la ciudadanía, el recurso de apelación y el recurso de inconformidad.
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO PRIMERO DEL LIBRO SÉPTIMO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “De los Términos”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO VI. DE LAS PRUEBAS
+### CAPÍTULO V. DE LOS TÉRMINOS
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 356. La interposición de los medios de impugnación corresponde a:
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 355. Serán partes en el procedimiento para tramitar los medios de impugnación:
 
-I. Los partidos políticos y candidatos independientes, a través de sus representantes legítimos;
+I. El actor, que será quien estando legitimado en los términos del presente Código lo interponga;
 
-II. Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna;
+II. La autoridad responsable, que será el organismo electoral, partido político o coalición, que realice el acto o dicte la resolución que se impugna; y
 
-III. Las coaliciones, por conducto de sus representantes en términos del convenio respectivo o sus estatutos, de conformidad con lo dispuesto en el presente Código;
-
-IV. Las otras organizaciones políticas previstas en este Código podrán interponer el recurso de apelación, a través de sus representantes legítimos, cuando:
-
-a) Dentro del plazo señalado en este ordenamiento, se deje de resolver la solicitud de registro;
-
-b) Se les niegue el registro solicitado; y
-
-c) No se les expida el certificado respectivo; y
-
-V. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Instituto.
-
-En materia de referendo o plebiscito únicamente procederá el recurso de apelación. Sólo el Ejecutivo del Estado, el Congreso o los ayuntamientos podrán interponerlo en contra de las resoluciones que se dicten en los procedimientos que se efectúen a convocatoria de alguno de ellos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+III. El tercero interesado, que será el partido político, ciudadano, coalición, candidato, organización o agrupación políticas o de ciudadanos según corresponda, que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor. Los candidatos podrán participar como coadyuvantes del partido político que los registró.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7457,45 +7489,9 @@ En la fase de resultados, el Juicio Electoral deberá presentarse dentro de los 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO VII. REGLAS DE PROCEDIMIENTO
+### CAPÍTULO VI. DE LAS PRUEBAS
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 359. En materia electoral sólo serán admitidas pruebas documentales, técnicas cuando por su naturaleza no requieran perfeccionamiento, presuncionales e instrumental de actuaciones.
-
-Para los efectos de este Código:
-
-I. Serán documentales públicas:
-
-a) Las actas oficiales de los escrutinios y cómputos de las mesas directivas de casilla, así como las de los cómputos realizados por los organismos electorales;
-
-b) Las actas oficiales que consten en los expedientes de cada elección, así como las copias autógrafas o copias certificadas que deben constar en los expedientes de cada elección;
-
-c) Los demás documentos expedidos por los organismos o funcionarios electorales, dentro del ámbito de su competencia;
-
-d) Los documentos expedidos por autoridades federales, estatales y municipales, dentro del ámbito de su competencia; y
-
-e) Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, siempre y cuando en ellos se consignen hechos que les consten;
-
-II. Serán documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y relacionadas con sus pretensiones;
-
-III. Se considerarán pruebas técnicas todos aquellos medios de reproducción de imágenes que tengan por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduzca la prueba; IV. Se considerarán pruebas presuncionales legales y humanas, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en el acta levantada ante el fedatario público que las haya recibido directamente de los declarantes, siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho;y
-
-V. La prueba pericial sólo podrá ser ofrecida y admitida, en aquellos medios de impugnación no vinculados al proceso electoral y a sus resultados siempre y cuando su desahogo sea posible en los plazos legalmente establecidos. Para su ofrecimiento deberán satisfacerse los requisitos siguientes:
-
-a) Ser ofrecida junto con el escrito de impugnación;
-
-b) Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con una copia para cada una de las partes;
-
-c) Especificarse lo que pretenda acreditarse con la misma; y
-
-d) Señalar el nombre del perito que se proponga y exhibir su acreditación técnica.
-
-La autoridad electoral, dará vista dentro de las veinticuatro horas siguientes sobre la propuesta a la autoridad responsable y al tercero interesado, pudiendo aceptar la propuesta o designar un perito distinto a costa del oferente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
-
-###### Artículo 356.
-
-En materia electoral sólo serán admitidas pruebas documentales, técnicas cuando por su naturaleza no requieran perfeccionamiento, presuncionales e instrumental de actuaciones.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Artículo 356. En materia electoral sólo serán admitidas pruebas documentales, técnicas cuando por su naturaleza no requieran perfeccionamiento, presuncionales e instrumental de actuaciones.
 
 Para los efectos de este Código:
 
@@ -7527,7 +7523,33 @@ b) Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestion
 
 c) Especificarse lo que pretenda acreditarse con la misma; y
 
-d) Señalar el nombre del perito que se proponga y exhibir su acreditación técnica. La autoridad electoral dará vista dentro de las veinticuatro horas siguientes sobre la propuesta a la autoridad responsable y al tercero interesado, pudiendo aceptar la propuesta o designar un perito distinto a costa del oferente.
+d) Señalar el nombre del perito que se proponga y exhibir su acreditación técnica. La autoridad electoral dará vista dentro de las veinticuatro horas siguientes sobre la propuesta a la autoridad responsable y al tercero interesado, pudiendo aceptar la propuesta o designar un perito distinto a costa del oferente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+###### Artículo 356.
+
+La interposición de los medios de impugnación corresponde a:
+
+I. Los partidos políticos y candidatos independientes, a través de sus representantes legítimos;
+
+II. Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna;
+
+III. Las coaliciones, por conducto de sus representantes en términos del convenio respectivo o sus estatutos, de conformidad con lo dispuesto en el presente Código;
+
+IV. Las otras organizaciones políticas previstas en este Código podrán interponer el recurso de apelación, a través de sus representantes legítimos, cuando:
+
+a) Dentro del plazo señalado en este ordenamiento, se deje de resolver la solicitud de registro;
+
+b) Se les niegue el registro solicitado; y
+
+c) No se les expida el certificado respectivo; y
+
+V. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Instituto.
+
+> <small>(ADICIONADA, G.O. 20 DE ENERO DE 2025)</small>
+
+VI. Con relación a la elección de personas juzgadoras, los Poderes del Estado podrán interponer el recurso de apelación en contra de los actos o resoluciones del Consejo General del Organismo Público Local Electoral de Veracruz.
+
+En materia de referendo o plebiscito únicamente procederá el recurso de apelación. Sólo el Ejecutivo del Estado, el Congreso o los ayuntamientos podrán interponerlo en contra de las resoluciones que se dicten en los procedimientos que se efectúen a convocatoria de alguno de ellos.
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 357. Para los efectos del precepto anterior, son representantes legítimos de los partidos políticos y organizaciones:
 
@@ -7567,15 +7589,39 @@ La prueba procede sobre los hechos controvertibles. No serán controvertibles el
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO VIII. DE LA ACUMULACIÓN Y ESCISIÓN DE EXPEDIENTES
+### CAPÍTULO VII. REGLAS DE PROCEDIMIENTO
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 368. Recibido el recurso de revisión por el organismo electoral competente, el secretario certificará si se cumplió con lo dispuesto en este Código respecto a los términos.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 359. En materia electoral sólo serán admitidas pruebas documentales, técnicas cuando por su naturaleza no requieran perfeccionamiento, presuncionales e instrumental de actuaciones.
 
-Si el recurso debe desecharse por notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el secretario procederá a formular el proyecto de resolución que corresponda, mismo que será discutido en la segunda sesión que se celebre después de su recepción, debiéndose dictar en la misma la resolución, que será engrosada en términos de ley.
+Para los efectos de este Código:
 
-Si el organismo electoral remitente omitió algún requisito, se requerirá la complementación de los mismos, procurando que se dicte resolución en términos del párrafo anterior.
+I. Serán documentales públicas:
 
-Los recursos de revisión deberán resolverse con los elementos con que se cuente, a más tardar en la tercera sesión posterior a la recepción del recurso.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+a) Las actas oficiales de los escrutinios y cómputos de las mesas directivas de casilla, así como las de los cómputos realizados por los organismos electorales;
+
+b) Las actas oficiales que consten en los expedientes de cada elección, así como las copias autógrafas o copias certificadas que deben constar en los expedientes de cada elección;
+
+c) Los demás documentos expedidos por los organismos o funcionarios electorales, dentro del ámbito de su competencia;
+
+d) Los documentos expedidos por autoridades federales, estatales y municipales, dentro del ámbito de su competencia; y
+
+e) Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, siempre y cuando en ellos se consignen hechos que les consten;
+
+II. Serán documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y relacionadas con sus pretensiones;
+
+III. Se considerarán pruebas técnicas todos aquellos medios de reproducción de imágenes que tengan por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduzca la prueba; IV. Se considerarán pruebas presuncionales legales y humanas, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en el acta levantada ante el fedatario público que las haya recibido directamente de los declarantes, siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho;y
+
+V. La prueba pericial sólo podrá ser ofrecida y admitida, en aquellos medios de impugnación no vinculados al proceso electoral y a sus resultados siempre y cuando su desahogo sea posible en los plazos legalmente establecidos. Para su ofrecimiento deberán satisfacerse los requisitos siguientes:
+
+a) Ser ofrecida junto con el escrito de impugnación;
+
+b) Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con una copia para cada una de las partes;
+
+c) Especificarse lo que pretenda acreditarse con la misma; y
+
+d) Señalar el nombre del perito que se proponga y exhibir su acreditación técnica.
+
+La autoridad electoral, dará vista dentro de las veinticuatro horas siguientes sobre la propuesta a la autoridad responsable y al tercero interesado, pudiendo aceptar la propuesta o designar un perito distinto a costa del oferente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7825,15 +7871,15 @@ El Tribunal deberá vigilar el debido cumplimiento de las sentencias que dicte, 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO IX. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+### CAPÍTULO VIII. DE LA ACUMULACIÓN Y ESCISIÓN DE EXPEDIENTES
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 370. Una vez recibido el expediente que contiene el recurso de inconformidad, el Tribunal Electoral del Estado revisará que reúna todos los requisitos señalados en el presente Libro y se procederá de acuerdo con lo dispuesto para el recurso de revisión.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 368. Recibido el recurso de revisión por el organismo electoral competente, el secretario certificará si se cumplió con lo dispuesto en este Código respecto a los términos.
 
-En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo hasta la presentación de las señaladas o al vencimiento del plazo.
+Si el recurso debe desecharse por notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el secretario procederá a formular el proyecto de resolución que corresponda, mismo que será discutido en la segunda sesión que se celebre después de su recepción, debiéndose dictar en la misma la resolución, que será engrosada en términos de ley.
 
-Si el recurso reúne todos los requisitos, se dictará el auto de admisión correspondiente, ordenándose se fije copia del mismo en los estrados del Tribunal Electoral del Estado.
+Si el organismo electoral remitente omitió algún requisito, se requerirá la complementación de los mismos, procurando que se dicte resolución en términos del párrafo anterior.
 
-El Tribunal Electoral del Estado realizará todos los actos y diligencias necesarias para la substanciación de los expedientes de los recursos de inconformidad, poniéndolos en condiciones de que se formule el proyecto de resolución y se pronuncie el fallo correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Los recursos de revisión deberán resolverse con los elementos con que se cuente, a más tardar en la tercera sesión posterior a la recepción del recurso.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7867,13 +7913,15 @@ Podrán escindirse los asuntos cuando en el escrito de demanda se impugna más d
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO X. DE LAS RESOLUCIONES
+### CAPÍTULO IX. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 373. El Tribunal Electoral del Estado podrá requerir a los diversos organismos electorales, así como a las autoridades estatales o municipales, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 370. Una vez recibido el expediente que contiene el recurso de inconformidad, el Tribunal Electoral del Estado revisará que reúna todos los requisitos señalados en el presente Libro y se procederá de acuerdo con lo dispuesto para el recurso de revisión.
 
-Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
+En los casos en que el promovente haya indicado que presentará pruebas dentro del plazo de interposición del recurso, se reservará la admisión del mismo hasta la presentación de las señaladas o al vencimiento del plazo.
 
-En casos extraordinarios, el Tribunal Electoral del Estado podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Si el recurso reúne todos los requisitos, se dictará el auto de admisión correspondiente, ordenándose se fije copia del mismo en los estrados del Tribunal Electoral del Estado.
+
+El Tribunal Electoral del Estado realizará todos los actos y diligencias necesarias para la substanciación de los expedientes de los recursos de inconformidad, poniéndolos en condiciones de que se formule el proyecto de resolución y se pronuncie el fallo correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -7945,29 +7993,13 @@ III. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO XI. DE LAS NOTIFICACIONES
+### CAPÍTULO X. DE LAS RESOLUCIONES
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 378. Los medios de impugnación se entenderán como notoriamente improcedentes y deberán ser desechados de plano, cuando:
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 373. El Tribunal Electoral del Estado podrá requerir a los diversos organismos electorales, así como a las autoridades estatales o municipales, cualquier informe o documento que, obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
 
-I. No se interpongan por escrito ante el organismo electoral que realizó el acto, dictó la resolución o efectuó el cómputo que se impugna;
+Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
 
-II. No contenga la firma autógrafa de quien los promueva;
-
-III. Sean interpuestos por quien no tenga legitimación o interés jurídico en los términos de este Código;
-
-IV. Sean presentados fuera de los plazos que señala este Código;
-
-V. No aporten pruebas en los plazos establecidos en este Código, salvo que señalen las razones justificadas por las que no obren en poder del promovente. No se requerirá de pruebas cuando el medio de impugnación verse en forma exclusiva sobre puntos de derecho;
-
-VI. No se señalen agravios o los que se expongan manifiestamente no tengan relación directa con el acto, resolución o resultado de la elección que se pretende combatir;
-
-VII. Se impugne más de una elección con un mismo medio de impugnación;
-
-VIII. Sean notoriamente frívolos;
-
-IX. Sea evidente el propósito del actor de interponerlo sin existir motivo y fundamento o aquél no pueda alcanzar su objeto; y
-
-X. Cuando por cualquier motivo quede sin materia el medio de impugnación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+En casos extraordinarios, el Tribunal Electoral del Estado podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -8057,23 +8089,29 @@ El Tribunal hará la publicación de los criterios obligatorios dentro de los se
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO I. DE LOS CASOS DE NULIDAD
+### CAPÍTULO XI. DE LAS NOTIFICACIONES
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 382. Toda resolución deberá hacerse constar por escrito, y contendrá:
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 378. Los medios de impugnación se entenderán como notoriamente improcedentes y deberán ser desechados de plano, cuando:
 
-I. La fecha, lugar y autoridad que la dicte;
+I. No se interpongan por escrito ante el organismo electoral que realizó el acto, dictó la resolución o efectuó el cómputo que se impugna;
 
-II. El resumen de los hechos o puntos de derecho controvertidos;
+II. No contenga la firma autógrafa de quien los promueva;
 
-III. El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas y, en su caso, las ordenadas por el Tribunal Electoral del Estado;
+III. Sean interpuestos por quien no tenga legitimación o interés jurídico en los términos de este Código;
 
-IV. El análisis de los agravios señalados;
+IV. Sean presentados fuera de los plazos que señala este Código;
 
-V. Los fundamentos legales de la resolución;
+V. No aporten pruebas en los plazos establecidos en este Código, salvo que señalen las razones justificadas por las que no obren en poder del promovente. No se requerirá de pruebas cuando el medio de impugnación verse en forma exclusiva sobre puntos de derecho;
 
-VI. Los puntos resolutivos; y
+VI. No se señalen agravios o los que se expongan manifiestamente no tengan relación directa con el acto, resolución o resultado de la elección que se pretende combatir;
 
-VII. En su caso, el plazo para su cumplimiento.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VII. Se impugne más de una elección con un mismo medio de impugnación;
+
+VIII. Sean notoriamente frívolos;
+
+IX. Sea evidente el propósito del actor de interponerlo sin existir motivo y fundamento o aquél no pueda alcanzar su objeto; y
+
+X. Cuando por cualquier motivo quede sin materia el medio de impugnación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -8137,13 +8175,23 @@ NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO II. DE LOS EFECTOS DE LA DECLARACIÓN DE NULIDAD
+### CAPÍTULO I. DE LOS CASOS DE NULIDAD
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 387. Las notificaciones podrán hacerse personalmente, por estrados, oficio, correo certificado, telegrama o correo electrónico, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa en este Código.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 382. Toda resolución deberá hacerse constar por escrito, y contendrá:
 
-Los estrados son los lugares en las oficinas de los organismos electorales y del Tribunal Electoral del Estado que estarán destinados a colocar, para su notificación, copias del escrito de interposición del medio de impugnación, así como de los acuerdos o resoluciones que les recaigan.
+I. La fecha, lugar y autoridad que la dicte;
 
-La notificación por correo electrónico surtirá efectos a partir de que se tenga constancia de la recepción de la misma o, en su caso, se cuente con el acuse de recibo correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. El resumen de los hechos o puntos de derecho controvertidos;
+
+III. El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas y, en su caso, las ordenadas por el Tribunal Electoral del Estado;
+
+IV. El análisis de los agravios señalados;
+
+V. Los fundamentos legales de la resolución;
+
+VI. Los puntos resolutivos; y
+
+VII. En su caso, el plazo para su cumplimiento.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -8261,9 +8309,13 @@ A fin de salvaguardar las libertades de expresión, información y de fortalecer
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO Y REUBICADO], G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LOS EFECTOS DE LA DECLARACIÓN DE NULIDAD
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 389. Para los efectos de este Código, se tendrá por automáticamente notificados a los partidos políticos de las resoluciones que emitan en sus sesiones los órganos electorales en que tengan representación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 387. Las notificaciones podrán hacerse personalmente, por estrados, oficio, correo certificado, telegrama o correo electrónico, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa en este Código.
+
+Los estrados son los lugares en las oficinas de los organismos electorales y del Tribunal Electoral del Estado que estarán destinados a colocar, para su notificación, copias del escrito de interposición del medio de impugnación, así como de los acuerdos o resoluciones que les recaigan.
+
+La notificación por correo electrónico surtirá efectos a partir de que se tenga constancia de la recepción de la misma o, en su caso, se cuente con el acuse de recibo correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -8299,7 +8351,7 @@ Cuando la declaración de inelegibilidad recaiga sobre la fórmula completa para
 
 ### CAPÍTULO ÚNICO
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 393. Los actos o resoluciones de las autoridades electorales que no requieran de notificación personal podrán hacerse públicos a través de la Gaceta Oficial del Estado o, según el caso, mediante la fijación de cédulas en los estrados de los organismos electorales o del Tribunal Electoral del Estado. La notificación así realizada surtirá sus efectos al día siguiente de su publicación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 389. Para los efectos de este Código, se tendrá por automáticamente notificados a los partidos políticos de las resoluciones que emitan en sus sesiones los órganos electorales en que tengan representación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -8373,9 +8425,7 @@ Con la notificación se anexará copia de la resolución; y deberán ser practic
 
 ### CAPÍTULO ÚNICO
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 397. El Tribunal Electoral del Estado podrá declarar la nulidad de una elección cuando se hayan cometido, en forma generalizada, violaciones sustanciales durante la jornada electoral, en un municipio, distrito o en el Estado, según corresponda.
-
-Sólo podrá declararse la nulidad de una elección cuando las causas que se invoquen estén expresamente señaladas en este Código, hayan sido plenamente acreditadas y se demuestre que las mismas son determinantes para el resultado de la elección correspondiente. Ningún partido, coalición o sus candidatos, o en su caso el candidato independiente, podrán invocar causales de nulidad, que ellos mismos dolosamente hayan provocado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 393. Los actos o resoluciones de las autoridades electorales que no requieran de notificación personal podrán hacerse públicos a través de la Gaceta Oficial del Estado o, según el caso, mediante la fijación de cédulas en los estrados de los organismos electorales o del Tribunal Electoral del Estado. La notificación así realizada surtirá sus efectos al día siguiente de su publicación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
@@ -8453,35 +8503,7 @@ XI. Cuando existan irregularidades graves y plenamente acreditadas y no reparabl
 
 Cuando por causa de inelegibilidad de las candidatas o candidatos, las autoridades electorales competentes determinen no otorgar o revocar la constancia de mayoría o de asignación respectiva, la candidata o candidato agraviado podrá promover el juicio a que se refiere el presente Título, aun cuando el partido que lo postuló recurra a la instancia que para tal efecto le otorga el presente código.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 396. Podrá declararse la nulidad de la elección de Gobernador, de Diputados locales de mayoría relativa en un distrito electoral o de un ayuntamiento en un municipio, en los casos siguientes:
-
-I. Cuando alguna o algunas de las causas de nulidad a que se refiere el Artículo anterior se declaren existentes en por lo menos el veinticinco por ciento de las casillas instaladas en el Estado, distrito uninominal o municipio y, en su caso, no se hayan corregido durante el recuento de votos;
-
-II. Cuando no se instale el veinticinco por ciento o más de las casillas electorales que correspondan al territorio de la entidad, distrito uninominal o municipio, según sea el caso, y consecuentemente la votación no hubiere sido recibida;
-
-III. Cuando el candidato a Gobernador, los integrantes de la fórmula de candidatos a diputados por el principio de mayoría relativa, o los integrantes de la planilla de candidatos a miembros de ayuntamiento, que hayan obtenido la mayoría de votos en la elección correspondiente, no reúnan los requisitos de elegibilidad establecidos en este Código;
-
-IV. En el caso de utilización en actividades o actos de campaña de recursos provenientes de actividades ilícitas; lo anterior, sin perjuicio de otras responsabilidades legales en las que se incurra;
-
-V. Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
-
-VI. Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la legislación aplicable;
-
-VII. Se reciban o utilicen recursos públicos en las campañas; o
-
-VIII. Se acredite violencia política en razón de género.
-
-Respecto de las causales contenidas en las fracciones IV, V, VI, VII y VIII deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
-
-En caso de nulidad de la elección, se convocará a elección extraordinaria, en la que no podrá participar la persona sancionada.
-
-En caso de la fracción VIII se remitirá el expediente a la Fiscalía General del Estado para los fines legales que a ella competan.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
-
-###### Artículo 396.
-
-La sentencia que recaiga al Juicio de Defensa Ciudadana deberá ser emitida a más tardar en quince días naturales, contados a partir de su recepción.
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Artículo 396. La sentencia que recaiga al Juicio de Defensa Ciudadana deberá ser emitida a más tardar en quince días naturales, contados a partir de su recepción.
 
 Las sentencias que resuelvan el fondo del Juicio de Defensa Ciudadana serán definitivas e inatacables y podrán confirmar el acto o resolución impugnado; o revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado.
 
@@ -8489,7 +8511,47 @@ Las sentencias recaídas a los Juicios de Defensa Ciudadana serán notificadas:
 
 I. A la parte actora que promovió el juicio y, en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al que se dictó sentencia. Se notificará de manera personal si se señaló domicilio en la sede del Tribunal Electoral, que es la ciudad de Xalapa-Enríquez. En cualquier otro caso, la notificación se hará por correo certificado, de manera electrónica o por estrados; y
 
-II. A la autoridad responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
+II. A la autoridad responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 396.
+
+Podrá declararse la nulidad de la elección para la titularidad del Poder Ejecutivo, Diputaciones de mayoría relativa en un distrito electoral, personas juzgadoras y ediles, en los casos siguientes:
+
+I. Cuando alguna o algunas de las causas de nulidad a que se refiere el Artículo anterior se declaren existentes en por lo menos el veinticinco por ciento de las casillas instaladas en el Estado, distrito uninominal o municipio y, en su caso, no se hayan corregido durante el recuento de votos;
+
+II. Cuando no se instale el veinticinco por ciento o más de las casillas electorales que correspondan al territorio de la entidad, distrito uninominal o municipio, según sea el caso, y consecuentemente la votación no hubiere sido recibida;
+
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2025)</small>
+
+III. Cuando las personas candidatas para la titularidad del Poder Ejecutivo, diputaciones por el principio de mayoría relativa, personas juzgadoras, o los integrantes de la planilla de candidatos a miembros de ayuntamiento que hayan obtenido la mayoría de los votos en la elección correspondiente, no reúnan los requisitos de elegibilidad establecidos en este Código;
+
+IV. En el caso de utilización en actividades o actos de campaña de recursos provenientes de actividades ilícitas; lo anterior, sin perjuicio de otras responsabilidades legales en las que se incurra;
+
+V. Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VI. Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la legislación aplicable;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VII. Se reciban o utilicen recursos públicos en las campañas; o
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Se acredite violencia política en razón de género.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+Respecto de las causales contenidas en las fracciones IV, V, VI, VII y VIII deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+En caso de nulidad de la elección, se convocará a elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+En caso de la fracción VIII se remitirá el expediente a la Fiscalía General del Estado para los fines legales que a ella competan.
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE ADICIONA EL TÍTULO QUINTO DEL LIBRO SÉPTIMO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -8501,7 +8563,13 @@ II. A la autoridad responsable, a más tardar dentro de los dos días siguientes
 
 > <small>(ADICIONADO; G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO I. De su integración
+### CAPÍTULO ÚNICO
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 397. El Tribunal Electoral del Estado podrá declarar la nulidad de una elección cuando se hayan cometido, en forma generalizada, violaciones sustanciales durante la jornada electoral, en un municipio, distrito o en el Estado, según corresponda.
+
+Sólo podrá declararse la nulidad de una elección cuando las causas que se invoquen estén expresamente señaladas en este Código, hayan sido plenamente acreditadas y se demuestre que las mismas son determinantes para el resultado de la elección correspondiente. Ningún partido, coalición o sus candidatos, o en su caso el candidato independiente, podrán invocar causales de nulidad, que ellos mismos dolosamente hayan provocado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 397.
 
@@ -8659,7 +8727,7 @@ II. A la autoridad responsable, a más tardar dentro de los dos días siguientes
 
 ## TÍTULO ÚNICO. De la Organización y Funcionamiento del Tribunal Electoral del Estado
 
-### CAPÍTULO II. Del funcionamiento del Tribunal
+### CAPÍTULO I. De su integración
 
 ###### Artículo 405.
 
@@ -8717,7 +8785,7 @@ En caso de una vacante temporal de Magistrada o Magistrado de hasta tres meses, 
 
 Entre tanto se nombre una Magistrada o Magistrado, la Secretaría de Acuerdos del Tribunal desempeñará el carácter de Magistrado provisional para todos los efectos legales correspondientes, debiéndose de designar a su vez una persona que funja temporalmente como Secretario de Acuerdos.
 
-### CAPÍTULO III. De los Magistrados
+### CAPÍTULO II. Del funcionamiento del Tribunal
 
 ###### Artículo 412.
 
@@ -8777,13 +8845,7 @@ XVII. Definir, con base en su presupuesto, la estructura orgánica del Tribunal;
 
 XVIII. Conocer de los demás asuntos que expresamente determinen la Constitución local y las leyes del Estado.
 
-### CAPÍTULO IV. DE LA PRESIDENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO
-
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 415. El Magistrado Presidente será designado por votación mayoritaria de los magistrados, durará en el cargo dos años y solo podrá ser reelecto después de que los otros dos magistrados hayan desempeñado la presidencia que será rotatoria. En caso de que la persona elegida para el cargo le quede un período menor a dos años como Magistrado del Tribunal Electoral, el cargo de Presidente sólo durará, en este caso, el período que le quede como Magistrado de dicho Tribunal.
-
-El Presidente del Tribunal, en sus ausencias temporales que no excedan de treinta días consecutivos, será sustituido por el Magistrado que él designe, pero si excediere de ese término pero no de tres meses, la designación del Magistrado Presidente interino la hará el Pleno del Tribunal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
+### CAPÍTULO III. De los Magistrados
 
 ###### Artículo 414.
 
@@ -8811,7 +8873,13 @@ VII. Solicitar al Secretario de Acuerdos asentar, en los expedientes en que fuer
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE JULIO DE 2020)</small>
 
-### CAPÍTULO V. De los Servidores Públicos del Tribunal
+### CAPÍTULO IV. DE LA PRESIDENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO
+
+(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 415. El Magistrado Presidente será designado por votación mayoritaria de los magistrados, durará en el cargo dos años y solo podrá ser reelecto después de que los otros dos magistrados hayan desempeñado la presidencia que será rotatoria. En caso de que la persona elegida para el cargo le quede un período menor a dos años como Magistrado del Tribunal Electoral, el cargo de Presidente sólo durará, en este caso, el período que le quede como Magistrado de dicho Tribunal.
+
+El Presidente del Tribunal, en sus ausencias temporales que no excedan de treinta días consecutivos, será sustituido por el Magistrado que él designe, pero si excediere de ese término pero no de tres meses, la designación del Magistrado Presidente interino la hará el Pleno del Tribunal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2020)</small>
 
 ###### Artículo 415.
 
@@ -8858,6 +8926,8 @@ XVI. Proponer reformas al Reglamento del Tribunal;
 XVII. Conocer y someter a la consideración del Tribunal, las excusas o impedimentos de sus Magistrados; y
 
 XVIII. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+
+### CAPÍTULO V. De los Servidores Públicos del Tribunal
 
 ###### Artículo 417.
 
@@ -8978,6 +9048,494 @@ En los procesos jurisdiccionales, así como en los asuntos administrativos que s
 Las partes expresarán su voluntad a la autoridad que conozca del asunto para que sean notificados a través de esa vía, y aun las de carácter personal serán igualmente válidas.
 
 El Pleno del Tribunal implementará los mecanismos tecnológicos que garanticen la certeza jurídica y la confiabilidad de las notificaciones vía correo electrónico certificado, y podrá celebrar los convenios de colaboración respectivos con la autoridad competente a fin de hacer uso de la firma electrónica avanzada.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN G.O. 20 DE ENERO DE 2025)</small>
+
+# LIBRO NOVENO. De la Integración del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+## TÍTULO PRIMERO. De la Participación de la Ciudadanía en la Renovación del Poder Judicial
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 426.
+
+Las personas juzgadoras del Poder Judicial del Estado de Veracruz de Ignacio de la Llave serán electas por mayoría relativa y voto directo de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establece la Constitución Política del Estado, la Ley General de Instituciones y Procedimientos Electorales y este Código.
+
+La elección ordinaria de las personas señaladas en el párrafo anterior que integran el Poder Judicial del Estado se llevará a cabo el primer domingo del mes de junio del año que corresponda.
+
+El Organismo Público Local Electoral de Veracruz, en el ámbito de su competencia, será la autoridad responsable de la organización del proceso electivo, su jornada electoral y los cómputos de los resultados electorales.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 427.
+
+La elección de personas juzgadoras del Poder Judicial del Estado se llevará a cabo a nivel estatal en una sola circunscripción, conforme a las bases y procedimientos que establece la Constitución Política del Estado.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 428.
+
+En caso de ausencia de disposición expresa dentro de este Libro, se aplicará supletoriamente lo dispuesto para los procesos electorales en este Código o en la Ley General de Instituciones y Procedimientos Electorales.
+
+En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+## TÍTULO SEGUNDO. Del Proceso Electoral de las Personas Juzgadoras del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO PRIMERO. Reglas Generales
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 429.
+
+El proceso electoral de las personas juzgadoras del Poder Judicial del Estado es el conjunto de actos, ordenados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, la Ley General de Instituciones y Procedimientos Electorales y este Código, realizado por las autoridades electorales, los Poderes del Estado, así como por la ciudadanía, que tiene por objeto la renovación periódica de las personas juzgadoras que integran el Poder Judicial de la entidad.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 430.
+
+Para los efectos de este Código, el proceso de elección de las personas juzgadoras del Poder Judicial del Estado comprende las siguientes etapas:
+
+a) Preparación de la elección;
+
+b) Convocatoria y postulación de candidaturas;
+
+c) Jornada electoral;
+
+d) Cómputos y sumatoria;
+
+e) Declaración de validez de la elección, Asignación de cargos, y entrega de constancias de mayoría.
+
+La etapa de preparación de la elección inicia con la primera sesión que el Consejo General del Organismo Público Local Electoral celebre en los primeros siete días del mes de septiembre del año anterior a la elección, y concluye al iniciarse la jornada electoral.
+
+La etapa de convocatoria y postulación de candidaturas inicia con la publicación de la convocatoria general que emita el Congreso del Estado conforme a la fracción I del artículo 59 de la Constitución Política del Estado, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al Organismo Público Local Electoral de Veracruz.
+
+La etapa de la jornada electoral inicia a las ocho horas del primer domingo de junio del año que corresponda, con la instalación de las casillas y concluirá con la clausura de las mismas.
+
+La etapa de cómputos y sumatoria inicia con la remisión de la documentación y los expedientes electorales a los órganos desconcentrados, y concluye con la sumatoria de los cómputos de la elección que realice el Consejo General.
+
+La declaración de validez, se vincula a la etapa de asignación de cargos, esta inicia con la identificación por parte del Organismo Público Local Electoral de Veracruz de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo de Magistraturas, Juezas y Jueces; tratándose del Tribunal Superior de Justicia y de Disciplina Judicial, además señalará el número de votos que obtuvo cada candidatura para efectos de definir su presidencia; estas etapas concluye con la entrega de constancias de mayoría a las candidaturas, que resulten ganadoras.
+
+El proceso electoral del Poder Judicial concluye al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno.
+
+Atendiendo al principio de transparencia, máxima publicidad y definitividad que rige la materia electoral, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la persona Secretaria Ejecutiva del Organismo Público Local Electoral de Veracruz podrá difundir su realización y conclusión por los medios que estime pertinentes.
+
+El Consejo General del Organismo Público Local Electoral de Veracruz notificará, vía electrónica, a las personas candidatas, respecto de sus acuerdos y resoluciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO SEGUNDO. De la Convocatoria y Postulación de Candidaturas
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 431.
+
+El Congreso del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de candidaturas para la elección de las personas juzgadoras del Poder Judicial de la entidad.
+
+La convocatoria general deberá observar los principios de paridad sustantiva de género, las bases, procedimientos y requisitos que establece la Constitución Política del Estado y este Código, debiendo contener lo siguiente:
+
+a) Fundamentos constitucionales y legales aplicables;
+
+b) Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia, y demás información que resulte aplicable;
+
+c) Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución Política del Estado;
+
+d) Ámbito territorial de la elección;
+
+e) Etapas y fechas del proceso de elección;
+
+f) Fechas y plazos que deberán observar los Poderes del Estado para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas, y
+
+g) Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+La convocatoria general no podrá establecer requisitos adicionales a los establecidos por la Constitución Política del Estado y este Código para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes de la entidad.
+
+Para la emisión de la convocatoria general, el órgano de administración judicial comunicará oportunamente al Congreso del Estado los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia y demás información que se le requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de ésta, el órgano de administración judicial lo comunicará de inmediato al Congreso del Estado para su incorporación en la convocatoria respectiva.
+
+En caso de que el órgano de administración judicial no remita oportunamente la información que requiera el Congreso del Estado para la elaboración de la convocatoria general, el órgano legislativo la integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 432.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determinen la Constitución Política del Estado, este Código y demás leyes aplicables.
+
+Cada Poder instalará un Comité de Evaluación a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria general que emita el Congreso del Estado. Los Comités emitirán las reglas para su funcionamiento. Podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones.
+
+Estarán conformados por cinco personas de reconocido prestigio en la actividad jurídica, quienes deberán reunir al menos los siguientes requisitos, observando la paridad de género:
+
+a) Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+
+b) No haber recibido condena por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+c) Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica;
+
+d) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación; y
+
+e) No encontrarse en alguna de las causales de suspensión de derechos previstas en la Constitución Política de los Estados Unidos Mexicanos.
+
+Los Comités publicarán dentro de los quince días naturales posteriores a su integración las convocatorias para participar en el proceso de evaluación y selección de postulaciones, que contendrán lo siguiente:
+
+a) La información pertinente contenida en la convocatoria general que publique el Congreso del Estado;
+
+b) Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación y selección de postulaciones por el Comité;
+
+c) Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso, y
+
+d) La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y materia de especialización, la cual incluirá, por lo menos, lo dispuesto en el párrafo séptimo del presente artículo.
+
+Concluido el plazo para inscribirse en la convocatoria, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución Política del Estado.
+
+Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las candidaturas que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral dentro del plazo y conforme al procedimiento que determine el Código y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, podrán tomar en cuenta su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Comité para valorar su honestidad y buena fama pública. Por último, los Comités podrán realizar entrevistas públicas a las personas aspirantes que califiquen más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
+
+La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros Poderes del Estado por el mismo cargo no afectará el resultado de la evaluación.
+
+Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de integrantes de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, y de las seis personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces de Primera Instancia, por lo que publicarán dicho listado en los estrados que para tal efecto habiliten.
+
+Los Comités depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder del Estado atendiendo a su especialidad por materia y observando la paridad de género, publicarán los resultados en los estrados habilitados y los remitirán a cada Poder del Estado para su aprobación en términos del artículo 59 de la Constitución Política del Estado y de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular del Gobierno del Estado;
+
+b) El Poder Legislativo, por conducto del Pleno del Congreso del Estado, mediante votación calificada de las dos terceras partes de las Diputadas y Diputados presentes, y
+
+c) El Poder Judicial, por conducto de la persona que presida el Tribunal Superior de Justicia, por votación de la mayoría del Pleno de dicho Tribunal.
+
+Los listados aprobados en términos del párrafo anterior por los Poderes serán remitidos al Congreso del Estado a más tardar el primero de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria general, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Las autoridades que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidas para hacerlo posteriormente.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 433.
+
+El Congreso del Estado integrará los listados y expedientes de las personas postuladas por cada Poder conforme al tipo de elección e incorporará a dichos listados a las personas juzgadoras que estén en funciones en los cargos a elegir, exceptuando a aquellas que hayan manifestado ante el órgano legislativo la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria general, y a quienes hayan sido postuladas para un cargo diverso al que ocupen.
+
+Las personas juzgadoras en funciones en los cargos a elegir que pretendan contender para un cargo diverso deberán informarlo al Congreso del Estado dentro de los treinta días posteriores a la publicación de la convocatoria general, a efectos de no ser incorporadas en los listados de candidaturas. El Congreso del Estado cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes para un cargo diverso al que ocupen.
+
+El Congreso del Estado estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Organismo Público Local Electoral de Veracruz a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 434.
+
+En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, el Poder del Estado postulante podrá solicitar al Congreso del Estado su sustitución, para que este informe al Organismo Público Local Electoral de Veracruz, antes del inicio de la impresión de las boletas electorales, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO TERCERO. De la Organización de la Elección
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 435.
+
+El Organismo Público Local Electoral de Veracruz es la autoridad responsable de la organización, desarrollo y cómputo de la elección de personas juzgadoras del Poder Judicial del Estado. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, así como la paridad de género.
+
+La etapa de preparación de la elección local correspondiente iniciará con la primera sesión que el Consejo General del Organismo celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 436.
+
+Corresponde al Consejo General del Organismo Público Local Electoral de Veracruz:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en este Código y la Ley General de Instituciones y Procedimientos Electorales;
+
+II. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Llevar a cabo la elección a nivel estatal;
+
+V. Realizar el cómputo estatal de la elección, asignar cargos, declarar la validez, publicar los resultados y entregar las constancias de mayoría;
+
+VI. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VII. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura;
+
+VIII. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo;
+
+IX. Acatar los lineamientos de aplicación general que el Instituto Nacional Electoral emita en esta materia; y
+
+X. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este párrafo y las demás que establezcan las leyes.
+
+Los órganos desconcentrados se instalarán y funcionarán conforme a lo que determine el Consejo General del Organismo Público Local Electoral de Veracruz.
+
+El Consejo General del Organismo Público Local Electoral de Veracruz no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Primera. De la Propaganda
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 437.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial del Estado podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 438.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas integrantes del Poder Judicial, de conformidad con lo dispuesto por el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 439.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con este Código y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 440.
+
+La difusión de propaganda electoral solo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+Los elementos propagandísticos que se difundan por cualquier medio no deberán contener símbolos, signos o motivos religiosos; ni generar expresiones, ideas, grabaciones, imágenes o cualquier otro elemento que, de manera directa o indirecta genere violencia política contra las mujeres en razón de género en perjuicio de otras candidaturas.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 441.
+
+Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Segunda. Encuestas y Sondeos de Opinión
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 442.
+
+El Organismo Público Local Electoral observará las reglas, lineamientos y criterios que las personas físicas o morales deberán adoptar para realizar encuestas o sondeos de opinión, conforme a lo que determine el Consejo General del Instituto Nacional Electoral.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Tercera. De la Elección
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 443.
+
+En el mes de septiembre del año previo al de la elección, el órgano de administración judicial remitirá al Congreso del Estado la información del número de cargos de personas juzgadoras a ocupar, así como las materias; y demás información que estime necesaria, para su inmediata remisión al Organismo Público Local Electoral. En caso de que el órgano de administración judicial no remita dicha información, el Congreso del Estado determinará lo conducente con la información pública que disponga.
+
+La Secretaría Ejecutiva, con base en la información remitida por el órgano de administración judicial, elaborará un plan integral y un calendario para la elección de personas juzgadoras, en el cual indicará los órganos desconcentrados del Organismo Público Local Electoral de Veracruz que coadyuvarán en la organización de la elección, así como en la respectiva etapa de cómputos de las elecciones.
+
+El Consejo General del Organismo Público Local Electoral de Veracruz aprobará el plan integral y el calendario para la elección de personas juzgadoras, llevando a cabo la instalación de los órganos desconcentrados estrictamente indispensables para la realización de la elección que corresponda.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 444.
+
+El Organismo Público Local Electoral de Veracruz instalará los órganos desconcentrados a que hacen referencia este Código, de acuerdo a su suficiencia presupuestal, que coadyuvarán con el Organismo en la elección de las personas juzgadoras, teniendo las mismas atribuciones a que se refiere esta Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Cuarta. De las Mesas Directivas de Casilla
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 445.
+
+La integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas para la recepción de la votación, así como la capacitación de las personas funcionarias de casilla, se realizará en los términos que disponga la autoridad electoral correspondiente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Quinta. De las Boletas y Materiales Electorales
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 446.
+
+Para la emisión del voto el Consejo General, tomando en cuenta las medidas de certeza que estime pertinentes, determinará el modelo de las boletas electorales, la documentación del proceso de elección de las personas integrantes del Poder Judicial del Estado y los materiales que serán utilizados en ésta.
+
+El Organismo Público Local Electoral de Veracruz será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 447.
+
+Por cada tipo de elección se empleará una sola boleta que contendrá la siguiente información general:
+
+a) Cargo para el que se postula la persona candidata;
+
+b) Primer apellido, segundo apellido y nombre completo de las personas candidatas, numeradas, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre o hipocorístico con el que se conoce públicamente a las personas candidatas;
+
+c) Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Organismo.
+
+d) En su caso, especialidad por materia a la que se postula cada persona candidata.
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa. El número de folio será progresivo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Sexta. De la Observación Electoral
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 448.
+
+La ciudadanía podrá ejercer sus derechos como persona observadora electoral, en términos de lo dispuesto por la Ley General de Instituciones y Procedimientos Electorales, y conforme a los acuerdos que al efecto emita el Instituto Nacional Electoral.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Séptima. De las Campañas Electorales
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 449.
+
+La campaña electoral, para los efectos de este Libro, es el conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras para la obtención del voto por parte de la ciudadanía.
+
+Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado y este Código.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 450.
+
+Las personas candidatas podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados y brindados gratuitamente por el sector público, privado o social en condiciones de equidad, observando al efecto las directrices y acuerdos que emita el Consejo General del Organismo Público Local Electoral de Veracruz de conformidad con lo dispuesto en este Código.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 451.
+
+Las campañas electorales para la promoción de las candidaturas establecidas en este Libro tendrán una duración de treinta días improrrogables.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 452.
+
+Las personas candidatas podrán erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial estatal durante los periodos de campaña respectivos.
+
+Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo General del Organismo Público Local Electoral de Veracruz, y no podrán ser superiores al límite de aportaciones individuales que pueden realizar las personas candidatas independientes a diputaciones.
+
+Queda prohibido que las personas candidatas, por sí o interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Octava. De las Actividades en Materia Registral y del Listado Nominal
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 453.
+
+Para los efectos del Proceso Electoral Judicial, el Consejo General del Organismo Público Local Electoral establecerá un mecanismo de coordinación y colaboración con el Instituto Nacional Electoral para la utilización del Listado Nominal de Electores y demás actividades que se establezcan en el mismo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
+
+#### Sección Novena. De las Actividades del Organismo Público Local Electoral de Veracruz para la Promoción de la Participación Ciudadana
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 454.
+
+El Consejo General del Organismo aprobará la metodología para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público.
+
+La metodología deberá ser imparcial, objetiva y con fines informativos, y contemplará por lo menos la creación de un micrositio en la página de Internet oficial del Organismo Público Local Electoral de Veracruz para informar a la ciudadanía sobre el proceso electivo de las personas juzgadoras.
+
+El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las personas candidatas, incluyendo la versión pública de los expedientes que acrediten su elegibilidad e idoneidad para el cargo que se trate, así como información relativa al proceso electivo, ajustándose al menos a lo siguiente:
+
+a) No será un medio de propaganda política;
+
+b) Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+c) Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+d) La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el Organismo, que deberá supervisar que se ajuste a este Código y los parámetros que al efecto determine el Consejo General, y
+
+e) La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+Para efectos de las actividades que realice el Organismo para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Organismo, medios electrónicos o digitales institucionales y periódicos de mayor circulación y cobertura, entre otros.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO CUARTO. De la Jornada Electoral
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 455.
+
+La jornada electoral se desarrollará en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales, este Código, y los acuerdos que emita la autoridad electoral correspondiente.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 456.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+a) Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta.
+
+b) El Organismo determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir.
+
+c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 457.
+
+El escrutinio y cómputo de las votaciones en casilla para los cargos de elección del Poder Judicial se realizará el mismo día que los cómputos a que se refiere el artículo 216 de este Código, en el orden siguiente:
+
+a) Magistraturas del Tribunal Superior de Justicia;
+
+b) Magistraturas del Tribunal de Disciplina Judicial;
+
+c) Magistraturas del Tribunal de Conciliación y Arbitraje; y
+
+d) Las juezas y jueces integrantes de los Juzgados de Primera Instancia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO QUINTO. De los Cómputos y Sumatoria
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 458.
+
+El Consejo General del Organismo Público Local Electoral de Veracruz, por sí o a través de los órganos desconcentrados que determine, realizará el cómputo, el cual será la suma de las boletas correspondientes a los votos emitidos a favor de las candidaturas, votos nulos y boletas sobrantes en las elecciones de personas juzgadoras.
+
+El mismo Consejo emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 459.
+
+El cómputo se realizará de manera pública, para lo cual el Organismo implementará las acciones necesarias para su difusión, que se llevará a cabo en los Órganos Desconcentrados de conformidad con lo previsto en este Código y los criterios emitidos por el Consejo General.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 460.
+
+Concluidos los cómputos de cada elección, los Órganos desconcentrados emitirán una Constancia de Resultados, misma que contendrá los votos obtenidos dentro del Órgano desconcentrado respectivo.
+
+Una vez que se hayan computado la totalidad de las elecciones por parte de los Órganos desconcentrados, se remitirán al Consejo General del Organismo Público Local Electoral de Veracruz para que proceda a realizar la sumatoria por tipo de elección.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, G.O. 20 DE ENERO DE 2025)</small>
+
+### CAPÍTULO SEXTO. De la Declaración de Validez, asignación de cargos y entrega de constancias
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 461.
+
+El Consejo General del Organismo Público Local Electoral emitirá la declaración de validez de la elección que corresponda, realizará la sumatoria final procediendo a asignar los cargos de Magistraturas de los Tribunales Superior de Justicia, Disciplina Judicial y de Conciliación y Arbitraje, así como Juezas y Jueces de Primera Instancia entre las candidaturas, como se establece en el párrafo sexto del artículo 430 de este Código, y posteriormente hará la entrega de las constancias de mayoría a las candidaturas que resulten ganadoras.
+
+Las personas juzgadoras locales electas deberán tomar protesta ante el Congreso del Estado el día en que se instale el Primer Periodo Ordinario de Sesiones del año de la elección que corresponda.
 
 ## TRANSITORIOS
 
@@ -9172,3 +9730,49 @@ G.O. 31 DE JULIO DE 2024.
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 229 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. En lo que respecta a la etapa de convocatoria y postulación de candidaturas de las personas juzgadoras del Poder Judicial del Estado en el marco del Proceso Electoral Extraordinario 2024-2025, y de conformidad con lo dispuesto por el párrafo décimo primero del Artículo Segundo Transitorio del Decreto Número 228 por el que se reforman diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, publicado el 13 de enero de 2025, por lo que las autoridades competentes observarán, por única ocasión, lo dispuesto en el presente Decreto conforme a los plazos siguientes:
+
+1. El Congreso del Estado emitirá la convocatoria general dirigida a los Poderes para integrar el listado de candidaturas a que hace referencia el artículo 431 de este Código, a más tardar el veinte de enero del dos mil veinticinco;
+
+2. Los Poderes del Estado instalarán sus respectivos Comités de Evaluación en los términos del párrafo segundo del artículo 432, a más tardar el veintiocho de enero de dos mil veinticinco;
+
+3. Los Comités de Evaluación publicarán las convocatorias para participar en el proceso de evaluación y selección de postulaciones en los términos del párrafo tercero del artículo 432, a más tardar el treinta de enero de dos mil veinticinco;
+
+4. El plazo para que las personas interesadas se inscriban en las convocatorias emitidas por los Comités de Evaluación comprenderá del treinta y uno de enero al siete de febrero de dos mil veinticinco;
+
+5. Los Comités de Evaluación verificarán que las personas aspirantes que hayan concurrido a la convocatoria reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, en los términos del párrafo cuarto del artículo 432, a más tardar el veintiuno de febrero de dos mil veinticinco y publicarán el listado de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad el veintidós de febrero de dos mil veinticinco;
+
+6. Los Comités de Evaluación calificarán la idoneidad de las personas elegibles en los términos del párrafo quinto del artículo 432, y publicarán el listado a más tardar el doce de marzo de dos mil veinticinco;
+
+7. Los Comités depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a su especialidad por materia y observando la paridad de género; publicarán los resultados en los estrados habilitados y los remitirán a más tardar el catorce de marzo de dos mil veinticinco al Poder que corresponda.
+
+8. Los Poderes aprobarán los resultados a que hace referencia el numeral anterior a más tardar el diecisiete de marzo de dos mil veinticinco, en términos del artículo 59 de la Constitución Política del Estado y el párrafo octavo del artículo 432 de este Código; de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular del Gobierno del Estado;
+
+b) El Poder Legislativo, por conducto del Pleno del Congreso del Estado, mediante votación calificada de las dos terceras partes de las Diputadas y Diputados presentes; y
+
+c) El Poder Judicial, por conducto de la persona que presida el Tribunal Superior de Justicia, por votación de la mayoría del Pleno de dicho Tribunal.
+
+9. Los listados aprobados en términos del numeral anterior serán remitidos al Congreso del Estado, en los términos del párrafo noveno del artículo 432, a más tardar el diecinueve de marzo de dos mil veinticinco, y
+
+10. El Congreso del Estado integrará los listados y expedientes de las personas postuladas por cada Poder en los términos del artículo 433 y los remitirá al Organismo Público Local Electoral a más tardar el veinte de marzo de dos mil veinticinco a efecto de que organice el proceso electivo.
+
+TERCERO. El Consejo General del Organismo Público Local Electoral podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo y vigilancia del Proceso Electoral Extraordinario 2024-2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género.
+
+Por única ocasión el cómputo de la votación en casilla, a que se refiere el artículo 457 será mediante la remisión de la documentación y los expedientes electorales a los órganos desconcentrados, para los efectos de lo establecido en el artículo 458.
+
+CUARTO. Las disposiciones aplicables del presente Decreto para el órgano de administración judicial corresponderán al Consejo de la Judicatura del Estado hasta su extinción, en los términos del artículo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado el veintisiete de diciembre de dos mil veinticuatro.
+
+QUINTO. Las personas servidoras públicas en funciones en alguno de los cargos que sean materia del Proceso Electoral Extraordinario 2024-2025 y pretendan una postulación para un cargo diverso, deberán informarlo al Congreso del Estado con cuando menos tres días previos al cierre de la convocatoria general a que hace referencia el artículo 59 de la Constitución Política del Estado, a efectos de no ser incorporadas en los listados de candidaturas.
+
+El Congreso del Estado cancelará las candidaturas de las personas servidoras públicas que omitan informar al Consejo de la Judicatura del Estado lo anterior y sean postuladas por alguno de los Poderes para un cargo diverso al que ocupen.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
