@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-152189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-08"
-last_updated: "2025-01-14"
+last_updated: "2025-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2025.
 
 Ley publicada en la Octava Sección del Número 77 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 8 de octubre de 2021.
 
@@ -207,9 +207,11 @@ Al tomar posesión de su cargo, los titulares de las dependencias y entidades de
 
 Los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, al momento de terminar con su encomienda, deberán entregar la dependencia o entidad a su cargo en términos de la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2025)</small>
+
 ###### Artículo 16.
 
-El Despacho del Gobernador contará con el apoyo de la Secretaría Particular, la Consejería Jurídica, la Secretaría Técnica, la Coordinación General de Comunicación Social, la Coordinación General del Gabinete y la Coordinación de Operación Estratégica y Gestión Gubernamental, para el seguimiento permanente de las políticas públicas de la Administración Pública Estatal y su evaluación periódica, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública del Estado. El Gobernador designará a los titulares de dichas oficinas de apoyo.
+El Despacho del Gobernador contará con las unidades administrativas, de asesoría y apoyo técnico que determine necesarias para el desempeño de sus atribuciones, para el seguimiento permanente de las políticas públicas de la Administración Pública Estatal y su evaluación periódica, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública del Estado. El Gobernador designará a los titulares de dichas oficinas de apoyo.
 
 El funcionamiento y organización de las oficinas de apoyo del Gobernador, se establecerá en sus reglamentos interiores y en sus manuales de organización, los cuales deberán ser publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -267,41 +269,7 @@ XXV. Legalizar y certificar las firmas y autógrafos de los funcionarios estatal
 
 XXVI. Las demás que le señalen las normas jurídicas aplicables.
 
-Apartado B. A la Coordinación General de Comunicación Social, le corresponde el ejercicio de las atribuciones siguientes:
-
-I. Establecer, dirigir y coordinar las políticas en materia de comunicación social del Poder Ejecutivo, en acuerdo con el Gobernador del Estado;
-
-II. Proporcionar el apoyo técnico que le sea requerido por las dependencias y entidades de la Administración Pública Estatal, cuando así lo establezcan la legislación aplicable;
-
-III. Establecer los lineamientos de comunicación social para todas las dependencias y entidades de la Administración Pública Estatal;
-
-IV. Establecer los lineamientos para la suscripción de los convenios y contratos que celebren los titulares de las dependencias y entidades de la Administración Pública Estatal, en materia de comunicación social;
-
-V. Coordinar los programas en materia de comunicación social de la Administración Pública Estatal;
-
-VI. Organizar un sistema integral de comunicación social de la Administración Pública Estatal, a través de los medios de comunicación escritos, electrónicos, digitales, alternativos y otros medios complementarios;
-
-VII. Ejecutar las políticas y estrategias metodológicas que permitan hacer uso eficiente de los medios de comunicación en el Estado, con el objeto de difundir oportuna y ampliamente todas las acciones realizadas a favor del desarrollo integral de la entidad;
-
-VIII. Participar y apoyar las campañas de difusión de las dependencias y entidades de la Administración Pública Estatal;
-
-IX. Establecer las bases para la planeación, coordinación y supervisión de los programas de radio y televisión a cargo del Estado;
-
-X. Elaborar el Programa Anual de Comunicación Social del Ejecutivo, donde se incluyan los objetivos, metas y acciones, así como el seguimiento y evaluación de las actividades a desarrollar;
-
-XI. Estructurar un sistema de información estatal que recoja y analice la información generada por las diferentes dependencias y entidades de la Administración Pública Estatal;
-
-XII. Establecer los lineamientos para la imagen institucional y su uso por las dependencias y entidades de la Administración Pública Estatal;
-
-XIII. Coordinar la capacitación permanente, así como las estrategias integrales de comunicación social de los responsables en las dependencias y entidades de la Administración Pública Estatal;
-
-XIV. Desarrollar en coordinación con las dependencias y entidades de la Administración Pública Estatal eventos que enriquezcan la comunicación social en la sociedad;
-
-XV. Definir acciones para conocer la percepción ciudadana en torno al funcionamiento de la Administración Pública Estatal, mediante instrumentos de investigación; y,
-
-XVI. Las demás que le señalen las normas jurídicas aplicables.
-
-Los enlaces de Comunicación de las dependencias y entidades de la Administración Pública Estatal, serán nombrados y removidos por el Titular de la Coordinación de Comunicación Social, previo acuerdo del Gobernador.
+Apartado B. (DEROGADO, P.O. 20 DE ENERO DE 2025)
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -339,9 +307,17 @@ XIII. Secretaría de Salud;
 
 XIV. Secretaría del Bienestar;
 
-XV. Secretaria del Migrante; y,
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2025)</small>
 
-XVI. Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas.
+XV. Secretaría del Migrante;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2025)</small>
+
+XVI. Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas; y,
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2025)</small>
+
+XVII. Coordinación de Comunicación.
 
 ###### Artículo 18.
 
@@ -1483,6 +1459,44 @@ XXIX. Desarrollar y ejecutar campañas de difusión de políticas públicas, pro
 
 XXX. Las demás que le confieran las normas jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2025)</small>
+
+###### Artículo 36 Bis.
+
+A la Coordinación de Comunicación, le corresponde el ejercicio de las atribuciones siguientes:
+
+I. Establecer, dirigir y coordinar las políticas en materia de comunicación del Poder Ejecutivo, en acuerdo con el Gobernador del Estado;
+
+II. Proporcionar el apoyo técnico que le sea requerido por las dependencias y entidades de la Administración Pública Estatal, cuando así lo establezcan (sic) la legislación aplicable;
+
+III. Establecer los lineamientos de comunicación a los que se apegarán todas las dependencias y entidades de la Administración Pública Estatal;
+
+IV. Suscribir y administrar los convenios y contratos que se celebren, en materia de comunicación de las dependencias y entidades de la Administración Pública Estatal;
+
+V. Coordinar y supervisar la ejecución de los programas en materia de comunicación de la Administración Pública Estatal;
+
+VI. Ejecutar las políticas y estrategias metodológicas que permitan hacer uso eficiente de los medios de comunicación en el Estado, con el objeto de difundir oportuna y ampliamente todas las acciones realizadas a favor del desarrollo integral de la entidad;
+
+VII. Participar y apoyar las campañas de difusión de las dependencias y entidades de la Administración Pública Estatal;
+
+VIII. Establecer las bases para la planeación, coordinación y supervisión de los programas de radio, televisión, transmisión y redes sociales a cargo del Estado;
+
+IX. Elaborar el Programa Anual de Comunicación del Ejecutivo, donde se incluyan los objetivos, metas y acciones, así como a las actividades a desarrollar;
+
+X. Estructurar estrategias que recojan, analicen y difundan la información generada por las diferentes dependencias y entidades de la Administración Pública Estatal;
+
+XI. Establecer los lineamientos para la imagen institucional y su uso por las dependencias y entidades de la Administración Pública Estatal;
+
+XII. Coordinar la capacitación permanente, así como las estrategias integrales de los responsables de la comunicación y de redes sociales en las dependencias y entidades de la Administración Pública Estatal;
+
+XIII. Desarrollar en coordinación con las dependencias y entidades de la Administración Pública Estatal eventos que enriquezcan la comunicación en la sociedad;
+
+XIV. Definir acciones para conocer la percepción ciudadana en torno al funcionamiento de la Administración Pública Estatal, mediante instrumentos de investigación; y,
+
+XV. Las demás que le señalen las normas jurídicas aplicables.
+
+Los enlaces de Comunicación y de redes sociales de las dependencias y entidades de la Administración Pública Estatal, serán nombrados y removidos por el Titular de la Coordinación de Comunicación, previo acuerdo del Gobernador.
+
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
 ### CAPÍTULO ÚNICO. DE LAS ENTIDADES PARAESTATALES
@@ -1696,3 +1710,9 @@ P.O. 14 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo para su publicación y efectos legales a que haya a (sic) lugar.
+
+P.O. 20 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 142 POR EL QUE “SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 16, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 17; SE DEROGA EL APARTADO B DEL ARTÍCULO 16; Y, SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 17 Y EL ARTÍCULO 36 BIS, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
