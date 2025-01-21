@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2024-12-05"
+last_updated: "2025-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE DICIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -785,7 +783,9 @@ La planeación, en los términos que disponga la ley, quedará establecida en lo
 
 El Estado y los municipios establecerán los mecanismos y adoptarán las medidas necesarias para la organización del Sistema Estatal de Planeación del Desarrollo, en los términos que señale la ley.
 
-El seguimiento y evaluación de los objetivos y metas contenidos en los instrumentos de la planeación serán acciones conducidas por el Instituto de Evaluación de Políticas Públicas del Estado de Durango.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2025)</small>
+
+El seguimiento y evaluación de los objetivos y metas contenidos en los instrumentos de la planeación serán acciones conducidas por el área que corresponda del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2531,9 +2531,9 @@ Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su funci
 
 Los órganos constitucionales autónomos tendrán personalidad jurídica y patrimonio propios, gozarán de autonomía técnica, operativa, presupuestaria y de gestión en el ejercicio de sus atribuciones; las leyes de su creación determinarán la integración y funciones de sus consejos, órganos directivos, consultivos o de gobierno, así como su estructura orgánica y funcionamiento. El Congreso del Estado, designará con el voto de las dos terceras partes de sus integrantes presentes, a los titulares de sus órganos internos de control, mismos que no serán reelectos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ENERO DE 2025)</small>
 
-Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el Instituto Electoral y de Participación Ciudadana, el Tribunal Electoral del Estado de Durango, el Instituto de Evaluación de Políticas Públicas, el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción, los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
+Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el Instituto Electoral y de Participación Ciudadana, el Tribunal Electoral del Estado de Durango, el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción; los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2731,27 +2731,17 @@ El Presidente del Tribunal será electo por los mismos magistrados, durará en e
 
 La ley establecerá los impedimentos y las excusas bajo los cuales los Magistrados Electorales deben abstenerse de votar.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(DEROGADO CON LOS ARÍCULOS QUE LO INTEGRAN, P.O. 21 DE ENERO DE 2025)</small>
 
-### Capítulo VI. Del Instituto de Evaluación de Políticas Públicas del Estado de Durango
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+### CAPÍTULO VI. Del Instituto de Evaluación de Políticas Públicas del Estado de Durango
 
 ###### Artículo 142.
 
-El Instituto de Evaluación de Políticas Públicas es el organismo encargado de medir y evaluar el desempeño de las políticas públicas, y de generar información para que los poderes y los gobiernos realicen un mejor diseño e implementación de sus programas y acciones. Tendrá facultades para evaluar las actuaciones de cualquier dependencia o programa estatal o gobierno municipal.
-
-El resultado de las evaluaciones se deberá considerar en el proceso de programación y presupuesto, a fin de propiciar que los recursos económicos tengan la mayor eficacia e impacto en el Estado.
-
-Todo dictamen de evaluación y cualquier tipo de información que genere será público.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+(DEROGADO, P.O. 21 DE ENERO DE 2025)
 
 ###### Artículo 143.
 
-El Instituto tendrá un Consejo General, será el órgano máximo de autoridad y se integrará por tres consejeros propietarios, quienes designarán a su Presidente de entre sus miembros. Durarán en su encargo cinco años pudiendo ser reelectos por un periodo igual.
-
-La organización y funcionamiento del Instituto se realizará en los términos establecidos en su ley.
+(DEROGADO, P.O. 21 DE ENERO DE 2025)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2022)</small>
 
@@ -5030,3 +5020,51 @@ Para seleccionar los cargos a renovar en la elección ordinaria del año 2025, s
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 132 QUE CONTIENE REFORMAS Y DEROGACIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del primero de enero de 2025 y será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se extingue el Órgano Constitucional Autónomo, denominado Instituto de Evaluación de Políticas Públicas del Estado de Durango, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación, en los términos que para tal efecto señala la Constitución Política de los Estados Unidos Mexicanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto serán concluidos por los titulares de las unidades administrativas del Órgano Constitucional Autónomo, denominado Instituto de Evaluación de Políticas Públicas del Estado de Durango, responsables de las mismas, conforme a las disposiciones jurídicas aplicables.
+
+El Consejo General del Órgano Constitucional Autónomo, denominado Instituto de Evaluación de Políticas Públicas del Estado de Durango, continuara en funciones hasta que inicie el proceso de liquidación del órgano.
+
+Una vez concluidos los asuntos que se encontraban en trámite, iniciará el proceso de liquidación correspondiente.
+
+La liquidación del Órgano Constitucional Autónomo, denominado Instituto de Evaluación de Políticas Públicas del Estado de Durango, estará a cargo de un liquidador nombrado por la Secretaría de Finanzas y de Administración del Gobierno del Estado, quien tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o clausula especial en términos de las disposiciones aplicables y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, sujetándose en su caso a la Ley General de Responsabilidades Administrativas.
+
+El liquidador realizará lo siguiente:
+
+I. Verificará el inventario de los bienes propiedad del organismo.
+
+II. Someter a dictamen del auditor designado por la Secretaría de Contraloría del Gobierno del Estado, los estados financieros inicial y final de liquidación.
+
+III. Informará mensualmente a las Secretaría de Contraloría y la Secretaría de Finanzas y de Administración, el avance y estado que guarde el proceso.
+
+IV. Llevará a cabo la entrega de los bienes materiales, así como los registros, padrones, plataformas y sistemas electrónicos propiedad del Órgano Constitucional Autónomo, denominado Instituto de Evaluación de Políticas Públicas del Estado de Durango a la Secretaría de Finanzas y de Administración del Estado, a través de la Dirección de Control Patrimonial.
+
+V. Transferir en su caso, los recursos remanentes a la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+
+VI. Se apegará a los acuerdos que emita el Gobierno del Estado, mediante los entes gubernamentales que se designen para tal efecto, y
+
+VII. Las demás inherentes para el desarrollo de las funciones relativas al proceso de liquidación.
+
+El liquidador actuará hasta que se concluya el proceso de liquidación el cual no podrá exceder de noventa días naturales.
+
+A partir de la entrada en vigor del presente Decreto, se tendrá por concluida la relación jurídico-laboral entre el Órgano Constitucional Autónomo, denominado Instituto de Evaluación de Políticas Públicas del Estado de Durango y los trabajadores de este, salvo los servidores públicos responsables de los asuntos señalados en el presente instrumento jurídico, quienes serán considerados trabajadores transitorios.
+
+En todo momento los derechos laborales de los trabajadores del organismo extinto se respetarán, las indemnizaciones correspondientes se harán conforme a lo dispuesto en la normatividad aplicable.
+
+Los juicios promovidos ante autoridades laborales, jurisdiccionales y procedimientos administrativos, en que sea parte el Órgano Constitucional Autónomo, denominado Instituto de Evaluación de Políticas Públicas del Estado de Durango, pendientes de resolución, se continuarán de conformidad con las atribuciones y normas aplicables.
+
+TERCERO. La Secretaría de Contraloría del Gobierno del Estado, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente Decreto.
+
+CUARTO. En un plazo que no exceda de noventa días a partir de la entrada en vigor del presente Decreto, el Congreso del Estado realizará las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento a lo dispuesto por el presente Decreto.
+
+QUINTO. Se abroga la Ley de Evaluación de Políticas Públicas del Estado de Durango.
+
+SEXTO. Se derogan las disposiciones legales que se opongan al presente Decreto.
