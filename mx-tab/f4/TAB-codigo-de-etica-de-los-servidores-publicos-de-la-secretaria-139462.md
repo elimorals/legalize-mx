@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-de-los-servidores-publicos-de-la-secretaria-139
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-10"
-last_updated: "2019-07-10"
+last_updated: "2025-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAB"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DEL ESTADO DE TABASCO
 
+[NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2. PARA LA ABROGACIÓN DEL PRESENTE CÓDIGO, TOMAR EN CONSIDERACIÓN EL SEGUNDO PÁRRAFO DEL REFERIDO TRANSITORIO SEGUNDO QUE TEXTUALMENTE ESTABLECE “Con excepción de lo dispuesto en el Capítulo VI del Acuerdo citado, relativo a los LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS, que seguirá vigente hasta en tanto el Órgano Interno de Control emita los nuevos Lineamientos Generales para la Integración y funcionamiento del Comité de Ética y Prevención de Conflicto de Interés correspondiente”.]
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2005 (ABROGADO).
 
 Código publicado en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 10 de julio de 2019.
 
@@ -808,3 +812,21 @@ Este informe se difundirá de manera permanente en la página de Internet de la 
 Establecerá los subcomités o comisiones que estime necesarios para el cumplimiento de sus funciones, así como sus bases de funcionamiento respectivas, y las demás análogas a las anteriores y que resulten necesarias para el cumplimiento de sus funciones.
 
 Los Comités, para el cumplimiento de sus funciones se apoyarán de los recursos humanos, materiales y financieros con que cuenten las dependencias o entidades, por lo que su funcionamiento no implicará la erogación de recursos adicionales.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+PRIMERO. Las presentes MODIFICACIONES AL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, fue aprobado mediante el Acuerdo número OG/006/2024 por el Órgano de Gobierno de la SESEA, en Sesión Ordinaria en el Acta número ACT/ORD/OG/SESEA/002/2024, de fecha 25 de junio de 2024, el cual entró en vigor a partir de su aprobación, debiéndose publicar para su difusión en el Periódico Oficial del Estado y en la página institucional de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
+
+SEGUNDO. Se abroga el Acuerdo por el que se emite el CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, aprobado por el Órgano de Gobierno de la SESEA con Acta de Sesión Extraordinaria Número ACT/EXT/OG/SESEA/004/2019 de fecha 17 de junio de 2019; así como cualquier disposición de índole administrativo que se contraponga al presente Código.
+
+Con excepción de lo dispuesto en el Capítulo VI del Acuerdo citado, relativo a los LINEAMIENTOS GENERALES PARA PROPICIAR LA INTEGRIDAD DE LOS SERVIDORES PÚBLICOS Y PARA IMPLEMENTAR ACCIONES PERMANENTES QUE FAVOREZCAN SU COMPORTAMIENTO ÉTICO, A TRAVÉS DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS, que seguirá vigente hasta en tanto el Órgano Interno de Control emita los nuevos Lineamientos Generales para la Integración y funcionamiento del Comité de Ética y Prevención de Conflicto de Interés correspondiente.
+
+TERCERO. Lo relativo al Código de Conducta de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, seguirá vigente hasta en tanto emita uno nuevo el titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, tendrá ciento veinte días para actualizar su Código de Conducta a propuesta del Comité de Ética el cual se encuentra debidamente constituido, previa aprobación de su respectivo Órgano Interno de Control a que refiere el artículo 24 fracción II del presente acuerdo.
+
+CUARTO. La Secretaría Ejecutiva del Sistema Estatal Anticorrupción mantendrá las acciones efectivas implementadas para que la totalidad de las personas servidoras públicas suscriban la Carta Compromiso conforme al Código de Ética de las Personas Servidoras de esta Institución, específicamente en aquellos casos en que no se hubiere concretado la suscripción de dicho documento, y tratándose de personas de nuevo ingreso.
+
+QUINTO. La normativa que rige a los Comités de Ética y Prevención de Conflictos de Interés, así como los mecanismos de coordinación y evaluación permanecerán vigentes, salvo disposición en contrario.
