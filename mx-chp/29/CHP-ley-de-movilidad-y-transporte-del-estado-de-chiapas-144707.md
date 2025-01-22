@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-movilidad-y-transporte-del-estado-de-chiapas-144707"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-28"
-last_updated: "2020-10-28"
+last_updated: "2025-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PÚBLICADA EN EL PERÍODICO OFICIAL: 22 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de octubre de 2020.
 
@@ -213,9 +213,11 @@ VII. Hacer cumplir la jerarquía de movilidad y los principios rectores a que de
 
 Todas las personas que transiten por las vías públicas o hagan uso del transporte público están obligadas a cumplir las disposiciones de esta Ley y el Reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
+
 ###### Artículo 7.
 
-Todas las personas acataran los ordenamientos de tránsito, el señalamiento vial y las indicaciones que hagan los policías viales o agentes de vialidad y tránsito municipal y estatal.
+Todas las personas acataran los ordenamientos de tránsito, el señalamiento vial y las indicaciones que haga la Policía Vial Preventiva estatal y municipal.
 
 ###### Artículo 8.
 
@@ -451,15 +453,19 @@ VIII. Utilizar la infraestructura y servicios para la movilidad de forma raciona
 
 Considerando la perspectiva de género, las autoridades estatales y municipales en el ámbito de su competencia deberán establecer en las diferentes modalidades de transporte y en la infraestructura para la movilidad, los espacios, servicios, acciones, programas y demás mecanismos de control y organización que resulten necesarios para coadyuvar en la equidad, seguridad, respeto, integridad y la libertad de desplazamiento de las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2025)</small>
+
 ###### Artículo 19.
 
-Los peatones gozarán de preferencia de paso en las intersecciones y en las zonas que tengan señalamientos al respecto. La autoridad de tránsito tendrá el control de los señalamientos y cuidará de la seguridad de los peatones.
+Los peatones gozarán de preferencia de paso en las intersecciones y en las zonas que tengan señalamientos al respecto. La autoridad vial tendrá el control de los señalamientos y cuidará de la seguridad de los peatones.
 
 Los peatones tienen el deber de cuidar su integridad física y la de sus acompañantes que no tengan capacidad de hacerlo, por lo que deberán tomar las precauciones necesarias al transitar en la vía pública y utilizar los cruces, pasos o puentes peatonales establecidos.
 
 Los escolares tendrán derecho de paso preferencial en las intersecciones y zonas señaladas para esos fines. Tendrán prioridad para el ascenso y descenso de los vehículos destinados a su transportación, sin que se obstruya el tránsito vial.
 
-Las autoridades de tránsito deberán proteger mediante dispositivos, señalamientos e indicaciones adecuadas el tránsito de los escolares en los lugares y horarios establecidos.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
+
+La autoridad vial deberá proteger mediante dispositivos, señalamientos e indicaciones adecuadas el tránsito de los escolares en los lugares y horarios establecidos.
 
 ###### Artículo 20.
 
@@ -489,13 +495,17 @@ VIII. Gozar de preferencia de paso con relación al transporte motorizado.
 
 IX. Circular por las vialidades del Estado a excepción de los carriles de alta velocidad y vialidades que estén expresamente prohibidas mediante señalización.
 
-X. Contar con apoyo vial de las autoridades competentes en materia de seguridad y tránsito.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2025)</small>
+
+X. Contar con apoyo vial de las autoridades competentes en materia de seguridad y vialidad.
 
 ###### Artículo 22.
 
 Son obligaciones de los ciclistas, además de las establecidas en la Ley de la materia las siguientes:
 
-I. Respetar las disposiciones legales y reglamentarias, el señalamiento vial y las indicaciones que hagan los policías viales o agentes de vialidad y tránsito municipal y estatal.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2025)</small>
+
+I. Respetar las disposiciones legales y reglamentarias, el señalamiento vial y las indicaciones que haga la Policía Vial Preventiva estatal y municipal.
 
 II. Respetar los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva, los espacios de circulación o accesibilidad peatonal y dar preferencia a las personas con discapacidad y a los peatones.
 
@@ -604,6 +614,14 @@ I. Llevar a bordo sólo el número de pasajeros que señale la tarjeta de circul
 II. Ocupar un carril para su desplazamiento, evitando interferir entre vehículos que se encuentren en circulación.
 
 III. Contar y portar licencia de motociclista vigente, tarjeta de circulación, póliza o constancia de seguro que garantice por lo menos daños a terceros, placa y holograma. La placa deberá colocarse en el lugar que el fabricante designó para ese efecto. En el caso de que el holograma no se pudiera colocar a la vista, deberán portarlo mientras circulan.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2025)</small>
+
+La persona conductora deberá portar el casco de seguridad debidamente colocado y abrochado, además deberá cumplir con las especificaciones de protección que establezcan las Normas Oficiales Mexicanas y demás normatividad aplicable, debiendo llevar una estampa con el número de placa correspondiente; asimismo, el número de placa deberá portarse en un lugar claramente visible tanto en la parte frontal como en la parte posterior del chaleco mencionado en la fracción V de este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2025)</small>
+
+Los requisitos relativos al chaleco y al casco de seguridad, debidamente identificados, serán igualmente exigibles al pasajero que acompañe al conductor.
 
 IV. Conducir todo el tiempo con los medios necesarios para su protección y la de los pasajeros.
 
@@ -865,7 +883,9 @@ X. Preservar y garantizar la seguridad de los usuarios.
 
 XI. En su caso, circular en los carriles confinados para el transporte público de pasajeros.
 
-XII. Respetar las señales y los límites de velocidad establecidas por las autoridades en materia de tránsito.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2025)</small>
+
+XII. Respetar las señales y los límites de velocidad establecidas por las autoridades en materia vial.
 
 XIII. Durante la prestación del servicio a los usuarios deberán cuidar su imagen y aspecto personal.
 
@@ -1205,9 +1225,11 @@ Se considera transporte particular el que tiene por objeto satisfacer las necesi
 
 En ningún caso el particular podrá utilizar su vehículo, por sí o a través de otra persona, para prestar un servicio mediante contraprestación monetaria.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
+
 ###### Artículo 104.
 
-El transporte particular no está sujeto a autorización administrativa de la Secretaría, y sólo le serán aplicables las normas que regulen la utilización de infraestructura, las disposiciones de vialidad y tránsito, las de preservación del medio ambiente, las de salud que establezcan las leyes y dicten las autoridades competentes, las de protección civil y demás normatividad aplicable.
+El transporte particular no está sujeto a autorización administrativa de la Secretaría, y sólo le serán aplicables las normas que regulen la utilización de infraestructura, las disposiciones de vialidad, las de preservación del medio ambiente, las de salud que establezcan las leyes y dicten las autoridades competentes, las de protección civil y demás normatividad aplicable.
 
 ###### Artículo 105.
 
@@ -1313,7 +1335,9 @@ IV. Apoyar y brindar todas las facilidades durante la prestación del servicio a
 
 Los vehículos a través de los cuales se prestará el servicio público de transporte de pasajeros contratado a través de plataformas tecnológicas no deberán exceder una antigüedad de cinco años y deberán contar con seguro de cobertura amplia.
 
-Deberán cumplir con la capacidad que determinen la Ley y el Reglamento y estar equipados con cinturones de seguridad en condiciones de uso óptimo para todos los pasajeros, bolsas de aire delanteras, aire acondicionado y equipo de sonido, independientemente de los requisitos que para su circulación establezcan los ordenamientos de tránsito correspondientes.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
+
+Deberán cumplir con la capacidad que determinen la Ley y el Reglamento y estar equipados con cinturones de seguridad en condiciones de uso óptimo para todos los pasajeros, bolsas de aire delanteras, aire acondicionado y equipo de sonido, independientemente de los requisitos que para su circulación establezcan los ordenamientos de vialidad correspondientes.
 
 ###### Artículo 117.
 
@@ -1656,3 +1680,21 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 22 días del mes de Octubre del año dos mil veinte.- D. P. C. JOSÉ OCTAVIO GARCÍA MACÍAS.- D. S. C. MAYRA ALICIA MENDOZA ÁLVAREZ.- Rubricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 28 días del mes de octubre del año dos mil veinte.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 182 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS; POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS; POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 185 DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. En un plazo no mayor a treinta días hábiles siguientes a la entrada en vigor del presente Decreto, los Titulares de las Secretarías de Movilidad y Transporte, y de Seguridad del Pueblo, deberán someter a consideración y aprobación del Titular del Ejecutivo del Estado las adecuaciones al Reglamento de Tránsito para el Estado de Chiapas, y demás normatividad que resulte aplicable para el debido cumplimiento del presente Decreto.
+
+Artículo Cuarto. Los ayuntamientos municipales en un plazo no mayor a treinta días hábiles siguientes a la entrada en vigor del presente decreto deberán adecuar sus Reglamentos en materia de Tránsito y Vialidad Municipal, para el debido cumplimiento del presente Decreto.
+
+Artículo Quinto. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo a través de la Secretaría de Finanzas, implementará un “Programa para el Suministro Gratuito de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Chiapas.
+
+Las erogaciones que se generen con motivo de la implementación del programa mencionado en el párrafo anterior, se cubrirán con cargo al presupuesto asignado a la Secretaría de Finanzas, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
