@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2024-11-27"
+last_updated: "2025-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -736,6 +736,10 @@ VII. Participar en las consultas relativas al presupuesto participativo de su mu
 El presupuesto participativo es un instrumento de participación ciudadana, por el cual se decide el destino de un porcentaje de los recursos públicos; para ello, el Gobierno del Estado y los Ayuntamientos Municipales destinarán en su presupuesto de egresos, una partida equivalente al menos al quince por ciento del presupuesto dedicado a inversión pública.
 
 Los ayuntamientos podrán convenir entre sí cuando se trate de zonas metropolitanas y con el Poder Ejecutivo Estatal en su caso, la inversión pública conjunta, determinada por los habitantes del o los municipios involucrados, cuya decisión será tomada mediante el instrumento señalado.
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2025)</small>
+
+VIII. Participar y votar en las consultas populares en los términos de la ley que para tal efecto emita el Congreso del Estado, y que tengan trascendencia estatal, regional o municipal, las cuales se constituyen como el principal mecanismo para garantizar la inclusión y participación del pueblo en la toma de decisiones y ejercicio del poder político, con el objetivo de contribuir a la gobernabilidad, el fortalecimiento de la eficacia y eficiencia del Estado y en su legitimidad frente a la ciudadanía.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4982,3 +4986,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Los párrafos Quinto y Sexto de la fracción XXVI del artículo 30, contenidos en la Constitución Política del Estado de Chiapas, hasta antes de la reforma del 29 de Diciembre de 2016 conservaran su vigencia hasta la conclusión del Ejercicio Fiscal del año 2030.
+
+P.O. 22 DE ENERO DE 2025.
+
+> <small>[N. DE E. TRASITORIOS DEL “DECRETO NO. 179 POR EL QUE SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]</small>
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- Dentro de los noventa días hábiles siguientes a la publicación de este Decreto, el Congreso del Estado deberá expedir la ley reglamentaria sobre el tema de consulta popular.
