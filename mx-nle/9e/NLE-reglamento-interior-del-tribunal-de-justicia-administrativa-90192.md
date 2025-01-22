@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2025-01-15"
+last_updated: "2025-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE ENERO DE 2025.]</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -241,9 +241,9 @@ IX. Fijar y cambiar la adscripción de todo el personal del Tribunal, atendiendo
 
 X. Analizar y aprobar todas las acciones relacionadas con el presupuesto del (sic) todo el Tribunal.
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2025)</small>
+(ADICIONADA, P.O. 15 DE ENERO DE 2025) (F. DE E., P.O. 22 DE ENERO DE 2025)
 
-XI. Instruir al Presidente de la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León, a efecto de que en términos de lo dispuesto en el artículo 21, fracción XVII, de este reglamento, emita el acuerdo mediante el cual determine los asuntos en trámite de las Salas ordinarias que conocerá la Sala Especializada en Materia de Responsabilidades Administrativas, en términos del artículo 25 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+XI. Instruir al Presidente de la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León, a efecto de que en términos de lo dispuesto en el artículo 21, fracción XVIII, de este reglamento, emita el acuerdo mediante el cual determine los asuntos en trámite de las salas ordinarias que conocerá la Sala Especializada en Materia de Responsabilidades Administrativas, en términos del artículo 25 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
 ###### Artículo 13.
 
