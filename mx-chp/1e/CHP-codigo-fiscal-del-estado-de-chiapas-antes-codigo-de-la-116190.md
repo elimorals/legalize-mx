@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2024-12-31"
+last_updated: "2025-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -2843,7 +2843,9 @@ Cuando la multa aplicable a una misma conducta infraccionada, sea modificada pos
 
 Los ingresos que el Estado obtenga efectivamente de multas por infracción a las disposiciones hacendarias, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza las facultades de comprobación, determinación, notificación, mandamiento y requerimientos de créditos fiscales relativos a dichas disposiciones; de estos ingresos, previa autorización del Secretario, se destinará un porcentaje al personal de la Secretaría, que de manera indirecta influya en las acciones anteriormente señaladas.
 
-El cuarenta por ciento de los ingresos que el Estado obtenga efectivamente de multas derivadas de las infracciones al Reglamento de Tránsito del Estado, se destinarán a un fondo para el otorgamiento de estímulos a los Agentes de Tránsito de la Secretaría de Seguridad del Pueblo del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
+
+El cuarenta por ciento de los ingresos que el Estado obtenga efectivamente de multas derivadas de las infracciones al Reglamento de Tránsito del Estado, se destinarán a un fondo para el otorgamiento de estímulos a la Policía Vial Preventiva de la Secretaría de Seguridad del Pueblo del Estado de Chiapas.
 
 Sólo ingresará a los fondos, el importe de las multas efectivamente pagadas y su aplicación se sujetará a los términos de los lineamientos que para tal efecto establezca la Secretaría.
 
@@ -7286,3 +7288,19 @@ P.O. 31 DE DICIEMBRE DE 2024.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinticinco.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 22 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 182 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS; POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS; POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 185 DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. En un plazo no mayor a treinta días hábiles siguientes a la entrada en vigor del presente Decreto, los Titulares de las Secretarías de Movilidad y Transporte, y de Seguridad del Pueblo, deberán someter a consideración y aprobación del Titular del Ejecutivo del Estado las adecuaciones al Reglamento de Tránsito para el Estado de Chiapas, y demás normatividad que resulte aplicable para el debido cumplimiento del presente Decreto.
+
+Artículo Cuarto. Los ayuntamientos municipales en un plazo no mayor a treinta días hábiles siguientes a la entrada en vigor del presente decreto deberán adecuar sus Reglamentos en materia de Tránsito y Vialidad Municipal, para el debido cumplimiento del presente Decreto.
+
+Artículo Quinto. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo a través de la Secretaría de Finanzas, implementará un "Programa para el Suministro Gratuito de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Chiapas.
+
+Las erogaciones que se generen con motivo de la implementación del programa mencionado en el párrafo anterior, se cubrirán con cargo al presupuesto asignado a la Secretaría de Finanzas, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
