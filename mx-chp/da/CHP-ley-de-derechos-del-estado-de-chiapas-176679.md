@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-176679"
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2024.
 
@@ -1515,11 +1515,15 @@ Por cada $25,000.00 adicionales, se pagará. $2,258.00
 
 XII. Se cobrará $132.00 por cada cinco kilómetros recorridos, tratándose de localidades que se encuentren fuera del lugar en donde se contrate el servicio.
 
-#### Sección Segunda. Servicios que presta la Dirección de la Policía Estatal de Tránsito
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ENERO DE 2025)</small>
+
+#### Sección Segunda. Servicios que presta la Dirección de la Policía Vial Preventiva
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2025)</small>
 
 ###### Artículo 33.
 
-Por los servicios que presta la Dirección de la Policía Estatal de Tránsito se causarán y pagarán, por cada uno, los siguientes derechos:
+Por los servicios que presta la Dirección de la Policía Vial Preventiva se causarán y pagarán, por cada uno, los siguientes derechos:
 
 Servicios Tarifa
 
@@ -2670,3 +2674,21 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 26 días del mes de diciembre del año dos mil veinticuatro. D. P. C. LUIS IGNACIO AVENDAÑO BERMÚDEZ.- D. S.C. WENDY ARLET HERNÁNDEZ ICHIN.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los treinta y un días del mes de Diciembre del año dos mil veinticuatro.- Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Patricia del Carmen Conde Ruiz, Secretaria General de Gobierno y Mediación.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 182 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS; POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS; POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 185 DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. En un plazo no mayor a treinta días hábiles siguientes a la entrada en vigor del presente Decreto, los Titulares de las Secretarías de Movilidad y Transporte, y de Seguridad del Pueblo, deberán someter a consideración y aprobación del Titular del Ejecutivo del Estado las adecuaciones al Reglamento de Tránsito para el Estado de Chiapas, y demás normatividad que resulte aplicable para el debido cumplimiento del presente Decreto.
+
+Artículo Cuarto. Los ayuntamientos municipales en un plazo no mayor a treinta días hábiles siguientes a la entrada en vigor del presente decreto deberán adecuar sus Reglamentos en materia de Tránsito y Vialidad Municipal, para el debido cumplimiento del presente Decreto.
+
+Artículo Quinto. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo a través de la Secretaría de Finanzas, implementará un “Programa para el Suministro Gratuito de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Chiapas.
+
+Las erogaciones que se generen con motivo de la implementación del programa mencionado en el párrafo anterior, se cubrirán con cargo al presupuesto asignado a la Secretaría de Finanzas, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
