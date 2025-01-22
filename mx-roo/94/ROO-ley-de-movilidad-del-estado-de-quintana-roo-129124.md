@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2024-07-24"
+last_updated: "2025-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -503,21 +503,29 @@ El Instituto tendrá su sede en la ciudad de Chetumal, Quintana Roo, y podrá co
 
 El Instituto estará representado por la persona titular de la Dirección General, nombrada conforme a lo establecido por la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, el que se desarrollará en su Estatuto Orgánico.
 
-El Director General del Instituto será designado por el Gobernador del Estado o, a indicación de éste, a través del titular de la dependencia coordinadora del sector, o por el órgano colegiado de gobierno.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
 
-Los aspirantes al nombramiento de Director General deberán cumplir, además de lo previsto en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, los siguientes requisitos previos al día de su designación:
+La persona Titular de la Dirección General del Instituto será designada por la Persona Titular del Poder Ejecutivo o, a indicación de ésta, a través de la persona titular de la dependencia coordinadora del sector, o por el órgano colegiado de gobierno.
 
-I. Ser ciudadana o ciudadano mexicano, con calidad de quintanarroense de conformidad con el Artículo 37 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en pleno goce de sus derechos políticos;
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
+
+Las personas aspirantes al nombramiento de persona Titular de la Dirección General deberán cumplir, además de lo previsto en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, los siguientes requisitos previos al día de su designación:
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2025)</small>
+
+I. Ser persona ciudadana mexicana, en pleno goce de sus derechos políticos;
 
 II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
 
 III. Tener, por lo menos, treinta años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2025)</small>
 
-IV. No haber sido Secretario de Estado, Fiscal General de la República o de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
+IV. No haber sido persona Titular de alguna Secretaría de Estado, persona Fiscal General de la República o de alguna de las entidades federativas, persona Oficial Mayor de un ente público, persona Senadora, persona Diputada Federal, persona Titular del Poder Ejecutivo de algún Estado o persona Titular de la Jefatura de Gobierno de la Ciudad de México, persona dirigente, integrante de órgano rector, alta ejecutiva o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulada para cargo de elección popular en los cuatro años anteriores a la propia designación;
 
-V. No haber sido sentenciado de manera firme por la comisión de algún delito;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2025)</small>
+
+V. No haber sido persona sentenciada de manera firme por la comisión de algún delito;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
@@ -526,6 +534,10 @@ VI. Contar con una experiencia de al menos tres años en materia de movilidad; y
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
 VII. Contar con antigüedad mínima de cinco años, con título profesional con aspectos relacionados con los objetos del Instituto.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2025)</small>
+
+La persona titular de la Dirección general del Instituto, no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
 
 ###### Artículo 22.
 
@@ -2553,7 +2565,7 @@ DISPOSICIONES COMUNES PARA LOS SERVICIOS PÚBLICOS Y PRIVADOS DE TRANSPORTE DE P
 
 ###### Artículo 148 Septies.
 
-El Servicio Público de Transporte de pasajeros contratado a través de Plataformas Tecnológicas o Digitales que se presta en el Estado de Quintana Roo, deberá satisfacer la necesidad colectiva de movilidad, de manera continua, uniforme, segura y de calidad. Este sólo podrá ser prestado a través de concesión expedida por la autoridad competente.
+El Servicio Público de Transporte de pasajeros contratado a través de Plataformas Tecnológicas o Digitales que se presta en el Estado de Quintana Roo, deberá satisfacer la necesidad colectiva de movilidad, de manera continua, uniforme, segura y de calidad. Este sólo podrá ser prestado través de concesión expedida por la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2023)</small>
 
@@ -4550,3 +4562,11 @@ CUARTO. Para el cumplimiento de lo establecido en el presente Decreto, el Poder 
 QUINTO. Para el ejercicio fiscal 2024, el Poder Ejecutivo del Estado de Quintana Roo, a través de la autoridad competente implementará el programa con el objeto de suministrar de manera gratuita estampas con el número de la placa para cascos y de chalecos a las personas conductoras de motocicletas, de conformidad con lo establecido en el presente Decreto.
 
 SEXTO. Los Ayuntamientos tendrán un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes en sus reglamentos de tránsito.
+
+P.O. 22 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 014 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
