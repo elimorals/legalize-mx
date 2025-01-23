@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2025-01-22"
+last_updated: "2025-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2025.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1703,7 +1703,9 @@ La organización y funcionamiento de éstos estarán regulados en el Código de 
 
 Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por Jueces y Magistrados independientes, responsables y sometidos únicamente al imperio de la ley. Compete a la autoridad judicial la imposición de las penas, su modificación y duración.
 
-En la impartición de justicia en Chiapas, habrán medios alternativos para la resolución de controversias de derechos, sobre los cuales los particulares puedan disponer libremente sin afectar el orden público y valiéndose de la autonomía de la voluntad y la libertad contractual. La justicia alternativa estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permita.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2025)</small>
+
+En la impartición de justicia habrá mecanismos alternativos de solución de controversias respecto de derechos sobre los cuales las personas puedan disponer libremente, que no resulten contrarios al orden jurídico o al interés público, valiéndose de la autonomía de la voluntad y la libertad contractual. Para dar cumplimiento a lo anterior, el Poder Judicial contará con centros públicos de mecanismos alternativos de solución de controversias, los cuales serán el Centro Estatal de Justicia Alternativa, así como con el Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa, que funcionarán conforme a la normativa aplicable.
 
 En cualquiera de sus modalidades, la impartición de justicia será pronta, gratuita y comprometida con el pueblo chiapaneco para preservar el estado de derecho, la paz social y el orden público.
 
@@ -1777,9 +1779,9 @@ Los Jueces de Primera Instancia durarán en su encargo seis años. Los jueces qu
 
 Los Jueces de Paz y Conciliación Indígena y los Municipales, serán nombrados por el Consejo de la Judicatura a propuesta de los Ayuntamientos respectivos, y estarán sujetos a un programa permanente de capacitación en materia de medios alternativos de solución de controversias.
 
-El Tribunal Superior de Justicia contará con un órgano de mediación, conciliación y arbitraje denominado Centro Estatal de Justicia Alternativa, que actuará bajo los principios de equidad, imparcialidad, rapidez, profesionalismo, confidencialidad y gratuidad. Su Titular deberá ser un Juez de Primera Instancia designado por el Presidente del Tribunal Superior de Justicia. En el Código de Organización del Poder Judicial del Estado se determinará sus atribuciones, organización y funcionamiento, en tanto que los procedimientos de su competencia estarán previstos en la ley de la materia.
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 23 DE ENERO DE 2025)</small>
 
-La designación de los demás servidores públicos del Centro Estatal de Justicia Alternativa, se hará preferentemente de entre aquellos que aprueben satisfactoriamente el curso de formación para mediación, conciliación y arbitraje, los cuales deberán contar, además, con carrera judicial, y no podrán tener un salario superior al de un Secretario de Acuerdos de Juzgado. Las bases, requisitos y procedimientos serán establecidos por el Consejo de la Judicatura, con la intervención del Instituto de Formación, Profesionalización y Carrera Judicial.
+> <small>(DEROGADO DÉCIMO PÁRRAFO, P.O. 23 DE ENERO DE 2025)</small>
 
 El Instituto de la Defensoría Pública del Estado de Chiapas tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia, mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la Defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
 
@@ -4996,3 +4998,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
 
 Artículo Tercero.- Dentro de los noventa días hábiles siguientes a la publicación de este Decreto, el Congreso del Estado deberá expedir la ley reglamentaria sobre el tema de consulta popular.
+
+P.O. 23 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 183 POR EL QUE SE REFORMAN Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente Decreto.
+
+Artículo Tercero.- El Congreso del Estado de Chiapas, deberá expedir las actualizaciones normativas correspondientes, para el cumplimiento del presente Decreto, en un plazo no mayor a treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La persona titular del Poder Ejecutivo del Estado dispondrá se publique y circule el presente Decreto.
