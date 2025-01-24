@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2023-11-24"
+last_updated: "2025-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -3403,9 +3403,29 @@ II. Sistema de Peaje: Sistema de cobro electrónico de tarifa multimodal que sir
 
 III. Sistema de Control de Operación: Medios electrónicos que dan prioridad a la circulación del transporte público y/o ajustan la frecuencia de paso de los vehículos a la demanda de usuarios;
 
-IV. Estaciones: Áreas para ascenso y descenso de pasajeros destinadas a la conexión intermodal de los servicios; y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2025)</small>
+
+IV. Estaciones inteligentes y sustentables (EIS): Áreas para ascenso y descenso de pasajeros destinadas a la conexión intermodal de los servicios; que deberán contar con al menos:
+
+a) Mapa informativo preferentemente digital interactivo donde se observe el recorrido de las rutas;
+
+b) Alumbrado;
+
+c) Red de internet gratuito;
+
+d) Señalización en Braille;
+
+e) Infraestructura para cubrir inclemencias del tiempo;
+
+f) Botón de pánico; y
+
+g) Contenedor de basura.
 
 V. Carriles Exclusivos: Vialidades determinadas e identificadas para el único uso de autobuses, BTR, y/o vehículos de usos compartido.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2025)</small>
+
+Los materiales para la construcción de las estaciones inteligentes sustentables que se mencionan en la fracción IV del presente artículo buscarán ser preferentemente de material reciclable.
 
 ## TÍTULO SÉPTIMO. ESPACIO PÚBLICO E INFRAESTRUCTURA
 
@@ -4680,3 +4700,11 @@ SÉPTIMO.- En un plazo no mayor a 365 días naturales contados a partir de la en
 OCTAVO.- Para efecto de lo establecido en el artículo 148 Bis de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, se adoptará el principio pro usuario, considerando para la homologación en tarifas la más baja vigente al momento de la entrada en vigor de la presente reforma. Dicha tarifa deberá mantenerse como mínimo hasta el 1 de enero del año 2024.
 
 NOVENO.- En cuanto a lo referido a favor de propietarios de vehículos eléctricos e híbridos establecido en los artículos 124 Bis 7 de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, 32 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, y 14 Bis de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, estos entrarán en vigor a partir del 01 de enero del 2024.
+
+P.O. 24 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 048. SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 133 DE LA LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Para el cumplimiento de esta disposición, el Gobierno del Estado realizará las acciones necesarias para que de manera gradual y de acuerdo a su disponibilidad presupuestal de cumplimiento al presente Decreto.
