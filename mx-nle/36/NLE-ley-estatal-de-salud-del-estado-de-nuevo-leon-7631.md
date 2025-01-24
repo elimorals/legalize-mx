@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2023-12-20"
+last_updated: "2025-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -465,13 +465,17 @@ VI.- COMISIÓN CONTRA EL CONSUMO ABUSIVO DEL ALCOHOL;
 
 VII.- COMISIÓN DE ATENCIÓN A ENFERMEDADES RARAS EN EL ESTADO;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2025)</small>
 
-VIII.- COMISIÓN PARA LA ATENCIÓN DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO; Y
+VIII.- COMISIÓN PARA LA ATENCIÓN DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2025)</small>
 
-IX.- LAS DEMÁS QUE DETERMINE EL CONSEJO.
+IX.- COMISIÓN INTERINSTITUCIONAL DE PREVENCIÓN Y ATENCIÓN DE LA DIABETES; Y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2025)</small>
+
+X.- LAS DEMÁS QUE DETERMINE EL CONSEJO.
 
 LAS FUNCIONES DEL CONSEJO Y SUS COMISIONES, ASÍ COMO LA INTEGRACIÓN DE ÉSTAS SE REGULARÁN EN EL REGLAMENTO DEL CONSEJO ESTATAL DE SALUD.
 
@@ -2832,3 +2836,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- El Estado y los Municipios a partir de la entrada en vigor del presente Decreto, tendrán un plazo no mayor a 90 días para realizar las modificaciones necesarias a sus Reglamentos conforme a la presente reforma.
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado y aprobado en el paquete fiscal correspondiente. En caso de que se realice alguna modificación a la estructura orgánica de las autoridades sujetas al presente Decreto, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se autorizarán ampliaciones al presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del este (sic) Decreto.
+
+P.O. 24 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 031. SE REFORMA LA FRACCIÓN VIII Y IX; Y SE ADICIONA UNA FRACCIÓN X, TODAS DEL ARTÍCULO 17 BIS 1 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se concede un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto para que el Consejo Estatal de Salud elabore las modificaciones al reglamento interno en los términos del presente Decreto.
