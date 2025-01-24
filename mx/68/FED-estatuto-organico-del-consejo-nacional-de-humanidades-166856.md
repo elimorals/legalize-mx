@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-humanidades-166856"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-06-30"
-last_updated: "2023-08-09"
+last_updated: "2025-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2023-06-07"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGIAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, PUBLICADO EN EL D.O.F. DE 24 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 30 de junio de 2023.
 
@@ -968,3 +970,25 @@ D.O.F. 9 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS”.]
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN".]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Consejo Nacional de Humanidades, Ciencias y Tecnologías publicado en el Diario Oficial de la Federación el 30 de junio de 2023, así como sus reformas, y se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+TERCERO. Las autorizaciones, nombramientos, documentos y demás disposiciones que se hayan emitido con referencia al Consejo Nacional de Ciencia y Tecnología o al Consejo Nacional de Humanidades, Ciencias y Tecnologías se entenderán referidos a la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, por lo que seguirán vigentes y contarán con plena validez.
+
+Lo anterior de conformidad con el transitorio quinto y sin perjuicio de lo establecido en el transitorio Cuarto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 28 de noviembre de 2024 en el Diario Oficial de la Federación.
+
+CUARTO. Todas las referencias que, en las autorizaciones, nombramientos, documentos y demás disposiciones que se hagan a las Unidades Administrativas contempladas en la estructura del Consejo Nacional de Humanidades, Ciencias y Tecnologías se entenderán referidas a todas aquellas unidades administrativas cuyas funciones o atribuciones guardan correlación en el presente reglamento, derivado de la reestructuración de la Secretaría y para el correcto despacho de las funciones de esta. Lo anterior, en tanto se publica el Manual de Organización General de la Secretaría.
+
+QUINTO. Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de este reglamento, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
+
+SEXTO. La Unidad de Administración y Finanzas conservará las facultades necesarias para coordinar, con el apoyo que corresponda de la Unidad de Asuntos Jurídicos, la formalización de la extinción de los fideicomisos constituidos al amparo de la abrogada Ley de Ciencia y Tecnología.
+
+SÉPTIMO. En las transferencias y readscripciones de personal, se respetarán en todo caso los derechos laborales de las personas servidoras públicas.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a las atribuciones conferidas, o a la estructura orgánica de la Secretaría de Ciencia, Humanidades, Tecnologías e Innovación, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
