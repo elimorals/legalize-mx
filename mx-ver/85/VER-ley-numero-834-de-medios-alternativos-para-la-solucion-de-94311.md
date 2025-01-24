@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-834-de-medios-alternativos-para-la-solucion-de-94311
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-10"
-last_updated: "2020-05-04"
+last_updated: "2025-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 834 DE MEDIOS ALTERNATIVOS PARA LA SOLUCION DE CONFLICTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DE LA LEY NÚMERO 230 DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 24 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 834 DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ENERO DE 2025 (ABROGADA).
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 10 de mayo de 2013.
 
@@ -774,3 +776,27 @@ Quinto. El Órgano de Gobierno emitirá el Reglamento y demás normativa corresp
 Sexto. En tanto se emita el Reglamento, y demás normativa relacionada con la Ley de Medios Alternativos para la Solución de Conflictos del Estado de Veracruz de Ignacio de la Llave, toda expresión aplicable al Consejo Directivo del Centro Estatal se entenderá atribuida al Órgano de Gobierno del Centro Estatal.
 
 Séptimo. Se derogan todas las disposiciones legales y administrativas de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.O. 24 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 230 DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Estado de Veracruz.
+
+SEGUNDO. Con la entrada en vigor del presente ordenamiento se extingue el Centro de Justicia Alternativa del Estado de Veracruz, su Órgano de Gobierno y su Dirección General.
+
+TERCERO. Todos los recursos humanos, financieros y materiales, con los que cuenta el Centro de Justicia Alternativa del Estado de Veracruz, se transferirán en su totalidad al del Poder Judicial del Estado, mismos que serán destinados al Centro Público de Mecanismos Alternativos de Solución de Controversias del Estado de Veracruz de Ignacio de la Llave. Todo lo anterior, con respeto pleno a los derechos de sus trabajadoras y trabajadores.
+
+CUARTO. Los procedimientos en materia de mecanismos alternativos de solución de controversias iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán su tramitación de conformidad con las disposiciones vigentes al momento de su inicio y hasta su conclusión.
+
+QUINTO. Las certificaciones que hayan sido expedidas a las Personas Facilitadoras, previo a la entrada en vigor de la presente Ley, seguirán siendo vigentes hasta su terminación.
+
+SEXTO. El Centro Público de Mecanismos Alternativos de Solución de Controversias del Estado de Veracruz de Ignacio de la Llave contará con un plazo de ciento veinte días hábiles a partir de (sic) entrada en vigor, para expedir su Reglamento Interior, manuales y demás disposiciones administrativas aplicables.
+
+SÉPTIMO. El Centro Público de Mecanismos Alternativos de Solución de Controversias del Estado de Veracruz de Ignacio de la Llave, contará con un plazo de ciento veinte días hábiles a partir de su entrada en vigor, para la implementación de los sistemas tecnológicos e informáticos mandatados en esta Ley.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+NOVENO. Todas las menciones del Consejo de la Judicatura Federal, se entenderán de conformidad con lo establecido por la reforma a la Constitución Federal en materia de Poder Judicial, publicada en DOF 15 de septiembre de 2024, por lo que en lo subsecuente se denominará como Órgano de Administración Judicial.
+
+DÉCIMO. Se abroga la Ley Número 834 de Medios Alternativos para la Solución de Conflictos del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el 10 de mayo de 2013, así como sus reformas y adiciones.
