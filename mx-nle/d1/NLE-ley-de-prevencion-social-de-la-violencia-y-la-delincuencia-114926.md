@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-01"
-last_updated: "2016-06-01"
+last_updated: "2025-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN C
 
 > <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO PRIMERO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL AÑO SIGUIENTE AL DÍA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 2016.
 
@@ -451,15 +451,33 @@ III. Secretario: Secretaría de Seguridad Pública;
 
 IV. Secretario Técnico: Subsecretario de Prevención y Participación Ciudadana;
 
-V. Vocales Estatales: Serán los Titulares de las Dependencias de la Administración Pública Estatal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2025)</small>
 
-VI. Vocales Federales: Serán los Delegados Federales en el Estado;
+V. Un Diputado Local, representante del Poder Legislativo, que será designado por el Pleno del Congreso del Estado;
 
-VII. Vocales Municipales: Serán los Presidentes Municipales de los 51 Municipios del Estado de Nuevo León;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2025)</small>
 
-VIII. Vocales Representantes de la Sociedad Civil: Serán los representantes de cada Institución de la sociedad civil organizada o del sector social y académico que se hayan destacado por su trabajo y estudios en la materia, cuya designación se hará por invitación del Presidente del Consejo; y
+VI. Vocales Estatales: Serán los Titulares de las Dependencias de la Administración Pública Estatal;
 
-IX. El Presidente del Consejo de los Derechos Humanos, así como el Secretario Técnico del Consejo Ciudadano de Seguridad Pública, serán invitados permanentes.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2025)</small>
+
+VII. Vocales Federales: Serán los Delegados Federales en el Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2025)</small>
+
+VIII. Vocales Municipales: Serán los Presidentes Municipales de los 51 Municipios del Estado de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2025)</small>
+
+IX. Vocales Representantes de la Sociedad Civil: Serán los representantes de cada Institución de la sociedad civil organizada o del sector social y académico que se hayan destacado por su trabajo y estudios en la materia, cuya designación se hará por invitación del Presidente del Consejo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2025)</small>
+
+X. El Presidente del Consejo de los Derechos Humanos, así como el Secretario Técnico del Consejo Ciudadano de Seguridad Pública, serán invitados permanentes.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2025)</small>
+
+Las sesiones del consejo se realizarán de manera pública, salvo que por disposición expresa de una ley se disponga lo contrario.
 
 ###### ARTÍCULO 32.
 
@@ -828,3 +846,11 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA
 GRAL. DIV. D.E.M. RET.
 
 CUAUHTÉMOC ANTÚNEZ PÉREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRASCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 049. SE REFORMAN LAS FRACCIONES V, VI, VII, VIII, Y IX Y SE ADICIONA LA FRACCIÓN X Y EL PÁRRAFO TERCERO TODOS DEL ARTÍCULO 31 DE LA LEY DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
