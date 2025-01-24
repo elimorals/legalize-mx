@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-1394
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-12-09"
-last_updated: "2023-01-20"
+last_updated: "2025-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139402&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-12-06"
 
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 9 de diciembre de 2019.
 
@@ -43,7 +43,7 @@ Para efectos del presente Reglamento, se entiende por:
 
 I. Delegaciones: Las Delegaciones de Programas para el Desarrollo, con circunscripción territorial en las entidades federativas, previstas en el artículo 17 Ter de la Ley Orgánica;
 
-II. Estrategia Digital Nacional: El plan de acción del Ejecutivo Federal para aprovechar el potencial de las tecnologías de la información y comunicación, incluidos los servicios de banda ancha e Internet, como elemento catalizador del desarrollo del país, mediante su incorporación a la vida cotidiana de las personas, y a la Administración Pública Federal, mediante el uso de la informática y el desarrollo del gobierno digital;
+II. (DEROGADA POR EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, D.O.F. 24 DE ENERO DE 2025)
 
 III. Ley Orgánica: La Ley Orgánica de la Administración Pública Federal;
 
@@ -73,7 +73,7 @@ VII. Coordinación General de Programas para el Desarrollo;
 
 VIII. Coordinación de Asesores del Presidente;
 
-IX. Coordinación de Estrategia Digital Nacional, y
+IX. (DEROGADA POR EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, D.O.F. 24 DE ENERO DE 2025)
 
 X. (DEROGADA, D.O.F. 20 DE ENERO DE 2023)
 
@@ -595,41 +595,7 @@ VII. Las demás que le confieran otros ordenamientos aplicables y aquellas funci
 
 ###### Artículo 36.
 
-La Coordinación de Estrategia Digital Nacional tiene las atribuciones siguientes:
-
-I. Elaborar y coordinar la Estrategia Digital Nacional, así como desarrollar tecnologías de la información y comunicación para su utilización por parte de la Administración Pública Federal;
-
-II. Dar seguimiento y evaluar periódicamente a las dependencias y entidades competentes de la Administración Pública Federal respecto de la implementación que les corresponda de la Estrategia Digital Nacional;
-
-III. Definir y coordinar las políticas y programas de gobierno digital de la Administración Pública Federal, promoviendo la innovación, apertura, transparencia, colaboración y participación ciudadana para mejorar la inclusión digital;
-
-IV. Orientar la emisión y ejecución de políticas públicas y lineamientos, así como los mecanismos de implementación, que deriven de la Estrategia Digital Nacional en materia de tecnologías de la información y comunicación, en coordinación con las dependencias y entidades competentes de la Administración Pública Federal;
-
-V. Sugerir a las Unidades de Administración y Finanzas y Oficialías Mayores, según corresponda, de cada dependencia y entidad de la Administración Pública Federal, los nombramientos, ratificaciones y remociones de los titulares o equivalentes de las unidades administrativas encargadas o relacionadas con la informática y las tecnologías de la información y comunicación;
-
-VI. Coordinar acciones y, en su caso, suscribir convenios de colaboración con órganos constitucionales autónomos, gobiernos de las entidades federativas y municipios, poderes Legislativo y Judicial de la Federación y de las entidades federativas, instituciones privadas, públicas, nacionales e internacionales y con la sociedad en general, cuya finalidad sea la de impulsar el uso y aprovechamiento de la informática, gobierno digital y tecnologías de la información y comunicación;
-
-VII. Emitir recomendaciones, al interior de la Administración Pública Federal, con la participación de las dependencias y entidades competentes, respecto de las mejores prácticas susceptibles de desarrollar e implementar a través de proyectos e iniciativas estratégicas en materia de tecnologías y seguridad de la información;
-
-VIII. Participar, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes, en el diseño y formulación de las especificaciones y estándares para las adquisiciones y arrendamientos de bienes o servicios de tecnologías de la información y comunicación;
-
-IX. Colaborar con la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público en las medidas para mejorar la coordinación de las personas titulares de las unidades administrativas estratégicas de informática, tecnología, protocolos de seguridad de la información y comunicación de cada dependencia y entidad de la Administración Pública Federal;
-
-X. Requerir a las dependencias y entidades de la Administración Pública Federal la información necesaria para el desarrollo de sus funciones;
-
-XI. Colaborar con las unidades administrativas competentes de las dependencias y entidades de la Administración Pública Federal, en la elaboración de las opiniones técnicas para la instrumentación de las políticas sobre el uso y adquisición de programas, bienes informáticos y tecnológicos, y desarrollos informáticos;
-
-XII. Presentar opiniones técnicas a la Secretaría de Hacienda y Crédito Público, cuando así lo solicite, para la elaboración de la política nacional de fomento a las compras con proveedores en materia informática y tecnologías de la información y comunicación, destinadas al uso de las dependencias y entidades de la Administración Pública Federal;
-
-XIII. Delegar facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, mediante acuerdos que deberán ser publicados en el Diario Oficial de la Federación;
-
-XIV. Instrumentar los mecanismos de coordinación con las dependencias y entidades de la Administración Pública Federal, para que coadyuven al cumplimiento de las políticas en materia de informática, gobierno digital y, en general, de tecnologías de la información y comunicación;
-
-XV. Validar los programas de desarrollo informático de la Oficina de la Presidencia;
-
-XVI. Emitir, en su caso, disposiciones administrativas, manuales, guías, instructivos y demás instrumentos análogos para el desarrollo de sus funciones, y
-
-XVII. Las demás que le confieran otros ordenamientos aplicables y aquellas funciones que le encomiende el Presidente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES, D.O.F. 24 DE ENERO DE 2025)
 
 ###### Artículo 37.
 
@@ -670,3 +636,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO.- El Secretario Técnico del Consejo de Seguridad Nacional dependerá directamente del Presidente de la República; él y su equipo de apoyo técnico especializado estarán adscritos administrativamente a la Secretaría de Seguridad y Protección Ciudadana.
+
+D.O.F. 24 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA AGENCIA DE TRANSFORMACIÓN DIGITAL Y TELECOMUNICACIONES”.]
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A la entrada en vigor del presente decreto se tendrán por derogados los artículos 2, fracción II; 3, fracción IX, y 36, del Reglamento de la Oficina de la Presidencia de la República, publicado en el Diario Oficial de la Federación el 9 de septiembre de 2019.
