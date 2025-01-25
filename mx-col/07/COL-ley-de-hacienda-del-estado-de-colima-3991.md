@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2024-12-28"
+last_updated: "2025-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1363,11 +1363,163 @@ Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refi
 
 Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Planeación, Finanzas y Administración a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los que tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
 
-### CAPITULO I. Disposiciones Generales
+> <small>(ADICIONADO CON LA SECCIÓN Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE ENERO DE 2025)</small>
+
+### CAPÍTULO IX. DE LOS IMPUESTOS ECOLÓGICOS
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 16. DE LA FINALIDAD DE LOS IMPUESTOS ECOLÓGICOS.
+
+1. La finalidad de estas contribuciones es que los sujetos que se encuentren en el supuesto de causación, aporten a la Hacienda Pública del Estado en proporción a la responsabilidad por la contaminación ambiental generadas por la actividad económica que llevan a cabo.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 17. DE LAS DEFINICIONES.
+
+1. Para efecto de este Capítulo se observarán las siguientes definiciones:
+
+I. CO2e: El dióxido de carbono equivalente;
+
+II. Emisión a la atmósfera: Es la expulsión directa de Gases y Compuestos de Efecto Invernadero por medio de fuentes fijas, que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases y compuestos que impactan en el deterioro ambiental por provocar calentamiento global;
+
+III. Fuente fija: Aquella con ubicación física permanente en un sitio determinado que en su operación o desarrollo de su actividad emite Gases o Compuestos de Efecto Invernadero, esta definición incluye aquellos sitios o instalaciones en donde se desarrollan actividades industriales, comerciales, de servicios, agropecuarias y forestales; rellenos sanitarios y plantas de tratamiento de aguas residuales. Esto engloba aspectos como la producción y consumo de energía in situ, que comprende tanto el gas natural como otros combustibles, así como las emisiones derivadas de la utilización de refrigerantes y la combustión en calderas y hornos bajo los procesos productivos;
+
+IV. Gases y Compuestos de Efecto Invernadero: Los correspondientes al dióxido de carbono, metano, óxido nitroso, hidrofluorocarbonos, perfluorocarbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación entre éstos;
+
+V. IMADES: El Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima;
+
+VI. Ley Ambiental: La Ley Ambiental para el Desarrollo Sustentable del Estado de Colima;
+
+VII. RENE: El Registro Nacional de Emisiones;
+
+VIII. RETC: El Registro de Emisiones y Transferencias de contaminantes;
+
+IX. SECRETARÍA: Secretaría de Planeación, Finanzas y Administración;
+
+X. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
+
+XI. SISTEMA DE COMERCIO DE EMISIONES DE MÉXICO: Instrumento económico de mercado que contribuye al cumplimiento de los objetivos de la política nacional en materia de cambio climático ya que, promueve la reducción de emisiones que pueden llevarse a cabo con el menor costo posible, de forma medible, reportable y verificable, en las instalaciones que realizan actividades de los sectores energía e industria;
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 18. DE LA SUPLETORIEDAD.
+
+1. Para efectos de este Capítulo serán aplicables de manera supletoria la Ley Ambiental, la Ley de Mitigación y Adaptación Ante los Efectos del Cambio Climático para el Estado de Colima y demás disposiciones vigentes en el Estado en materia de derecho al medio ambiente sano, que no sean contrarias a la naturaleza de los principios de las contribuciones del derecho fiscal, establecidas por medio de la Ley de Hacienda del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 19. ATRIBUCIONES PARA LA DETERMINACIÓN DE LA BASE GRAVABLE.
+
+1. Para determinar la base gravable, las autoridades fiscales podrán considerar:
+
+I. Los libros y registros sean cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales, sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente;
+
+II. Con la información de sus emisiones sujetas a reporte en el RETC y el RENE de la SEMARNAT y en el Registro de Emisiones del Estado de Colima, a cargo de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad del Estado de Colima a través del IMADES;
+
+III. Con la información contenida en las facturas o comprobantes fiscales, sobre la adquisición de combustibles utilizados en los procesos productivos que generan las emisiones gravadas por el impuesto;
+
+IV. Mediante visita domiciliaria, de verificación, auditoría o inspección que realicen las autoridades correspondientes, sobre los equipos, maquinaria, actividades o procesos productivos del sujeto; o
+
+V. Cuando no sea posible determinar la base gravable en los términos de las fracciones anteriores, las autoridades fiscales podrán estimar la cantidad conforme a la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó la contribución.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2025)</small>
+
+#### SECCIÓN PRIMERA. DEL IMPUESTO POR LA EMISIÓN DE GASES Y COMPUESTOS DE EFECTO INVERNADERO A LA ATMÓSFERA
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 20. DE LOS SUJETOS.
+
+1. Son sujetos al pago de este impuesto, las personas físicas o morales que tengan instalaciones en el territorio del Estado y cuyos procesos derivados de su actividad económica generen emisiones a la atmósfera de Gases y Compuestos de Efecto Invernadero.
+
+2. También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, las dependencias desconcentradas y los organismos descentralizados federales, estatales y municipales, las empresas productivas del Estado, las empresas de participación estatal mayoritaria de carácter federal, estatal y municipal; los fideicomisos públicos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 21. DEL OBJETO.
+
+1. Son objeto de este impuesto las emisiones a la atmósfera de Gases y Compuestos de Efecto Invernadero provenientes de fuentes fijas, generadas por los sujetos previstos en el artículo 41 Z BIS 20, dentro del territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 22. DE LA BASE.
+
+1. La base de este impuesto es la masa expresada en toneladas de CO2e, de las emisiones a la atmósfera de Gases y Compuestos de Efecto Invernadero que se realicen desde la o las instalaciones en el territorio del Estado, por los sujetos previstos en esta sección.
+
+2. La determinación de la base gravable se realizará mediante medición directa o estimación de las emisiones a la atmósfera de gases y compuestos de efecto invernadero que se generen y se tomará como referencia el RETC y el RENE de la SEMARNAT, los reportes de emisiones del Registro de Emisiones del Estado de Colima a cargo del IMADES así como de los reportes de sus emisiones o reportes de verificación emitido por Organismos de Validación y Verificación (OVV), acreditados bajo los estándares reconocidos y acreditados por la Entidad Mexicana de Acreditación (EMA).
+
+3. Las emisiones gravadas de gases y compuestos de efecto invernadero del sujeto se deberán reportar ante el IMADES haciendo uso de la Cédula de Operación Anual y formatos que incluyan los detalles sobre el uso de combustibles, generación y emisión de gases y compuestos de efecto invernadero hacia la atmósfera.
+
+4. Para la determinación de las toneladas emitidas, se realizará la conversión de los Gases y Compuestos de Efecto Invernadero en CO2e, multiplicando la tonelada del tipo de gas emitido por el factor de equivalencia en CO2e conforme a la Tabla 1:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 25 DE ENERO DE 2025, PÁGINA 29.]</small>
+
+5. Las emisiones del contribuyente que incluyan gases que no se encuentren contenidos dentro de la Tabla 1 deberán ser considerados también dentro de la base gravable y se deberá realizar también la conversión según su factor relacionado. Los factores no incluidos en la Tabla 1 pueden encontrarse en los materiales suplementarios del Sexto Informe de Evaluación (AR6) del Grupo Intergubernamental de Expertos sobre el Cambio Climático de las Naciones Unidas (IPCC).
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 23. DE LA TASA.
+
+1. El impuesto se causará en el momento que los sujetos realicen las emisiones a la atmósfera de Gases y Compuestos de Efecto Invernadero, aplicando una tasa impositiva equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización vigente, por tonelada emitida de CO2e.
+
+2. En situaciones en las cuales se sobrepase la unidad de medida indicada, es decir, la tonelada, sin que las emisiones lleguen al nivel de la siguiente unidad de medida, la tarifa impositiva para dicho excedente se calculará de manera directamente proporcional a la fracción que supere la tonelada correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 24. DEL ENTERO.
+
+1. Los sujetos obligados pagarán el impuesto a que se refiere esta Sección de manera anual, mediante declaración que deberán presentar a más tardar en el mes de abril del ejercicio fiscal siguiente a aquel al que corresponda el pago, haciendo uso de las formas y medios autorizados por la Secretaría, relacionando la totalidad de emisiones gravadas por este impuesto que los mismos hayan generado.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 25. DE LAS OBLIGACIONES.
+
+1. Los contribuyentes estarán obligados a presentar ante la Secretaría, el aviso de inscripción al Registro Estatal de Contribuyentes; además de llevar un Libro de Registro de Emisiones Contaminantes, que estará a disposición del IMADES, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
+
+2. En el Libro de Registro de Emisiones Contaminantes se consignarán los datos siguientes:
+
+I. Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
+
+II. Composición química básica del combustible consumido y/o producido;
+
+III. Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
+
+IV. En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
+
+V. Cualquier otro que se establezca mediante publicación reglamentaria por parte del IMADES.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 26. DEL DESTINO DE LOS IMPUESTOS.
+
+1. Los ingresos que se obtengan de la recaudación de la contribución establecida en esta sección, se destinarán de manera anual al Fideicomiso Ambiental del Estado de Colima y se aplicarán para los fines previstos en dicho fideicomiso, garantizando el sostenimiento de acciones para la mitigación y adaptación de los efectos del cambio climático en el Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 27. DE LAS EXENCIONES
+
+1. Para efectos de lo establecido en la Sección Primera de este Capítulo, estarán exentos del pago del impuesto los sujetos que se encuentren en los siguientes supuestos:
+
+I. Aquellos sujetos que tengan participación en el Sistema de Comercio de Emisiones a nivel federal, únicamente cuando éste se encuentre en su fase operativa.
+
+II. En el caso que se demuestre que el sujeto ha alcanzado la neutralidad de carbono.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2025)</small>
+
+ARTÍCULO 41 Z BIS 28. DE LOS ESTÍMULOS.
+
+1. Para efectos de lo establecido en la Sección Primera de este Capítulo, los sujetos gozarán de un estímulo fiscal de acuerdo a los siguientes supuestos:
+
+I. Cuando exista una disminución de las emisiones objeto de este impuesto, y ésta sea equivalente a un 20% o más, de las emisiones generadas en el ejercicio fiscal inmediato anterior al que se declara, se otorgará un estímulo fiscal a los sujetos que consistirá en una reducción equivalente al 15% del total del impuesto que le corresponda pagar.
+
+II. Los sujetos podrán reducir de la base gravable hasta el 50% de las toneladas de dióxido de carbono equivalente, a través de la adquisición de certificados de reducción de emisiones.
+
+2. Para la procedencia del estímulo establecido en la fracción II del numeral 1 del presente artículo, los sujetos deberán acreditar ante la Secretaría, la adquisición de los sellos de bajo carbono otorgados y transferidos a través del mecanismo establecido por el IMADES, relativos a la reducción, compensación y neutralización de emisiones de gases de efecto invernadero a la atmósfera.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO II. De los servicios prestados por la Secretaría General de Gobierno
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 42.
 
@@ -1409,9 +1561,7 @@ Cuando no se llenen los requisitos legales para el otorgamiento del permiso, con
 
 El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
 
-### CAPITULO III. Servicios prestados por la Secretaría de Planeación, Finanzas y Administración
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+### CAPITULO II. De los servicios prestados por la Secretaría General de Gobierno
 
 ###### Artículo 48.
 
@@ -1799,7 +1949,7 @@ Artículo 52 BIS.- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO IV. Servicios prestados por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad
+### CAPITULO III. Servicios prestados por la Secretaría de Planeación, Finanzas y Administración
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -1885,445 +2035,9 @@ d) Por la reposición del permiso 8.000
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO IV BIS
+### CAPITULO IV. Servicios prestados por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-Artículo 55 B.- Por los servicios prestados en materia de movilidad:
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-I.- Expedición, renovación, reposición y reimpresión de licencias para conducir vehículos de motor e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
-
-a) Automovilista 9.000
-
-b) Chofer clase I, II y conductor de servicio 8.000
-
-c) Motociclista 6.000
-
-d) Automovilistas y motociclistas 12.000
-
-e) Choferes clase 1 y motociclistas 11.000
-
-f) Reposición de cualquier tipo de licencia 5.000
-
-g) Reimpresión de cualquier tipo de licencia 5.000
-
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
-
-Por los conceptos consignados en los incisos a), b), c), d) y e) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de licencias para conducir vehículos de uso particular con vigencia de cuatro años.
-
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
-
-Las personas adultas mayores acreditarán ser de escasos recursos económicos mediante constancia expedida por el Instituto para la Atención de Adultos Mayores.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-Para los efectos de los derechos señalados en los incisos f) y g), se respetará únicamente el tiempo restante de la licencia materia de reimpresión o reposición. Por renovación se cobrarán las mismas cuotas que se prevén para la expedición de las licencias.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-En caso de que la licencia o permiso llegará a presentar algún defecto de impresión y/o error de captura imputable a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, los ciudadanos podrán solicitar la reimpresión únicamente dentro de los 5 cinco meses siguientes a su expedición sin ningún costo, presentando la licencia defectuosa.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-II. Expedición, renovación, reposición y reimpresión de permisos para conducir vehículos de motor para menores de edad:
-
-a) Permisos para conducir automóviles (que no excedan 1 tonelada) para menores de edad desde 16 años cumplidos:
-
-1.- Expedición de permiso con vigencia de 6 meses 6.000
-
-2.- Renovación de permiso con vigencia de 6 meses 7.000
-
-3.- Renovación de permiso con vigencia de 12 meses 8.000
-
-b) Permisos para conducir motocicletas hasta 250 cc:
-
-1.- Expedición con vigencia de 6 meses 6.000
-
-2.- Renovación con vigencia de 6 meses 7.000
-
-3.- Renovación con vigencia de 12 meses 8.000
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-III. Por expedición de concesión, expedición y renovación de contratos de operación, y cesión o transmisión de derechos de concesión a vehículos de servicio público, conforme a la siguiente clasificación:
-
-a) Expedición de concesión:
-
-1.- Concesión Individual:
-
-1.1.- Transporte público colectivo urbano (para las modalidades autorizadas en el artículo 271 de la Ley de Movilidad Sustentable para el Estado de Colima) 440.000
-
-1.2.- Transporte público individual motorizado (en todas sus modalidades) 440.000
-
-1.3.- Transporte público de servicio de carga (en todas sus modalidades) 143.000
-
-2.- Concesión Empresarial:
-
-2.1.- Transporte público colectivo urbano 660.000
-
-2.2.- Transporte público colectivo sub-urbano 660.000
-
-2.3.- Transporte público de carga y/o materialista 550.000
-
-2.4.- Alquiler o préstamo de bicicletas públicas 660.000
-
-2.5.- Bici Taxi 440.000
-
-2.6.- Explotación de infraestructura 660.000
-
-b) Expedición y renovación de contrato de operación:
-
-1.- Expedición de contrato de transporte público colectivo sub-urbano por vehículo 50.000
-
-2.- Renovación de contrato de transporte público colectivo sub-urbano por vehículo 20.000
-
-3.- Expedición de contrato de transporte público individual motorizado por vehículo 50.000
-
-4.- Renovación de contrato de transporte público individual motorizado 20.000
-
-5.- Expedición de contrato de transporte público especial; personal, turístico y escolar por vehículo 50.000
-
-6.- Renovación de contrato de transporte público especial; personal, turístico y escolar por vehículo 20.000
-
-c) Cesión o transmisión de derechos de concesiones individuales:
-
-1.- Cesión de derechos de concesiones individuales entre familiares 0.000
-
-2.- Transmisión de derechos entre personas físicas 440.000
-
-3.- Transmisión de derechos de personas físicas a personas morales (para la consolidación de empresas operadoras de transporte colectivo) 110.000
-
-4.- Transmisión de derechos entre persona moral a moral (para la consolidación de empresas operadoras de transporte colectivo 110.000
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-Los derechos que establece la presente fracción deberán cubrirse dentro de los 30 días naturales siguientes a la fecha de autorización.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-En el caso de cesión de los derechos de concesión individual entre familiares, por causa de muerte del titular, incapacidad física o mental de la persona concesionaria, a favor de la persona designada y registrada como beneficiario por el titular de la concesión ante la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, siempre y cuando sea entre cónyuges y ascendientes o descendientes en línea recta, en primer grado, no causará el pago de derecho alguno.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-IV. Por revalidación anual de concesión y por vehículo adherido al contrato de operación:
-
-a) Revalidación de concesión individual de transporte público colectivo en todas sus modalidades, de transporte público individual motorizado en todas sus modalidades y transporte público de carga y/o materialista 18.000
-
-b) Revalidación de concesión empresarial por vehículo adherido a la concesión empresarial, de transporte público colectivo en todas sus modalidades, de transporte público individual motorizado y en todas sus modalidades y transporte público de carga y/o materialista 15.000
-
-c) Revalidación por vehículo adherido al contrato de operación de transporte público colectivo urbano, de transporte público individual y de transporte público especial (personal y escolar) 20.000
-
-Los derechos de revalidación a los que se refieren los incisos a), b) y c) que anteceden serán por año fiscal, con vencimiento al 31 de diciembre del año que corresponda. El pago de derechos de revalidado deberá realizarse en los primeros 90 días del año fiscal, posteriormente y hasta el 31 de diciembre del año que corresponda.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-V. Por expedición de permisos de operación de transporte público, a vehículos de servicio privado, mercantil y de transporte de personal, conforme a la siguiente clasificación:
-
-a) Permiso de operación de transporte público:
-
-1.- Transporte público colectivo regional.
-
-1.1.- Seis meses de vigencia 15.000
-
-1.2.- Un año de vigencia 25.000
-
-1.3.- Dos años de vigencia 50.000
-
-1.4.- Tres años de vigencia 60.000
-
-2.- Transporte público individual taxi ejecutivo.
-
-2.1.- Seis meses de vigencia 15.000
-
-2.2.- Un año de vigencia 25.000
-
-2.3.- Dos años de vigencia 50.000
-
-2.4.- Tres años de vigencia 60.000
-
-3.- Transporte público individual bici-taxi.
-
-3.1.- Seis meses de vigencia 20.000
-
-3.2.- Un año de vigencia 40.000
-
-3.3.- Dos años de vigencia 60.000
-
-3.4.- Tres años de vigencia 80.000
-
-4.- Transporte público especial en todas sus modalidades.
-
-4.1.- Un mes de vigencia 15.000
-
-4.2.- Seis meses de vigencia 25.000
-
-4.3.- Un año de vigencia 50.000
-
-5.- Transporte público de carga por un año de vigencia.
-
-5.1.- Carga en general 23.500
-
-5.2.- Materialistas 23.500
-
-5.3.- Grúas de arrastre o salvamento 40.000
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-b) Autorizaciones, permisos y prórrogas de permisos a empresas de redes de acceso y gestión de la demanda de transporte, para operar el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas:
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-1.- Pago de derechos por análisis, y en su caso, autorización del permiso de operación como empresa de redes de acceso y gestión de la demanda de transporte (hasta por cuatro años). 220.00
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-2.- Pago de derechos por análisis, y en su caso, autorización de la renovación del permiso de operación del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo (hasta por un año). 30.00
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-3.- Pago de derechos por análisis, y en su caso, autorización de prórroga del permiso de operación como empresas de redes de acceso y gestión de la demanda de transporte. 200.00
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-4.- Pago de derechos por análisis, y en su caso, autorización del refrendo anual del permiso de operación como empresas de redes de acceso y gestión de la demanda de transporte. 200.00
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-La negativa del permiso de operación, su prórroga o la renovación, según sea el caso, implica la pérdida del pago de los derechos por el análisis y autorización del permiso de operación correspondiente. En caso de renovación, cancelación, suspensión o extinción del respectivo permiso de operación, el pago de derechos que se hubiere realizado no será reembolsable.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
-
-5.- Conforme a lo establecido en el artículo 177, así como de los artículos 63, párrafos 1 y 2, fracción VII, 176 párrafos 1 y 2, 183 párrafo 1, fracciones IX y X de la Ley de Movilidad Sustentable para el Estado de Colima, y los relativos en su correspondiente reglamentación, las empresas de redes de acceso y gestión de la demanda de transporte por cada viaje del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas realizado mediante la aplicación deberá aportar el 1.5% del total de los servicios al Fondo de Movilidad.
-
-La aportación que establece el anterior numeral 6, deberá cubrirse dentro de los 10 días siguientes al mes vencido en la forma y términos establecidos en la Ley de Movilidad Sustentable para el Estado de Colima o el Reglamento respectivo.
-
-c) Permisos de explotación de infraestructura de transporte;
-
-1.- Permisos para la explotación de espacios publicitarios en vehículos de transporte público con vigencia de un año 15.000
-
-2.- Permisos de operación de espacios que presten servicios de depósito, guarda y custodia de vehículos infraccionados, abandonados, detenidos, accidentados o descompuestos en las vías públicas del Estado, así como aquellos remitidos por la autoridad correspondiente.
-
-2.1.- Un año de vigencia 120.000
-
-2.2.- Dos años de vigencia 220.000
-
-2.3.- Tres años de vigencia 350.000
-
-2.4.- Cuatro años de vigencia 440.000
-
-3.- Permisos de operación de centros de revisión físico-mecánica de vehículos para el transporte público.
-
-3.1.- Un año de vigencia 100.000
-
-3.2.- Dos años de vigencia 150.000
-
-3.3.- Tres años de vigencia 180.000
-
-3.4.- Cuatro años de vigencia 220.000
-
-d) Permisos emergentes de servicio público de transporte:
-
-1.- Permisos eventuales por unidad vehicular con vigencia de seis meses:
-
-1.1.- Transporte público colectivo urbano 15.000
-
-1.2.- Transporte público colectivo foráneo 15.000
-
-1.3.- Transporte público colectivo suburbano 15.000
-
-2.- Permiso extraordinario a vehículos de servicio público de transporte concesionado, por unidad vehicular y con vigencia de sesenta días 5.500
-
-3.- Permiso provisional a vehículos de servicio público de transporte concesionado, por unidad vehicular y con vigencia de sesenta días 5.500
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-VI. Por dotación de placas y tarjeta de circulación de vehículos de servicio privado y público:
-
-a) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para automóvil, camión, autobús, ecológicos, discapacidad y antiguos 15.000
-
-b) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para remolques y convertidores Dolly 12.000
-
-c) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicleta 10.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-d) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para vehículos de demostración 24.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-e) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicletas de demostración 20.000
-
-f) Por dotación de placas y tarjeta de circulación de vehículos de servicio público:
-
-1.- Automóvil, camión y autobús 18.000
-
-2.- Remolque 15.000
-
-3.- Bici-taxis 12.000
-
-g) Por dotación de placas y tarjeta de circulación de vehículos destinados a la seguridad pública, protección civil y emergencias:
-
-1.- Ambulancia, bomberos y protección civil 15.000
-
-2.- Policía vehículo 15.000
-
-3.- Policía motocicleta 10.000
-
-h) Por reposición de tarjeta de circulación de vehículos de servicio privado en todas sus modalidades 3.000
-
-i) Por reposición de tarjeta de circulación de vehículos de servicio público:
-
-1.- Automóvil, camión y autobús 6.000
-
-2.- Remolque 6.000
-
-3.- Bici-taxis 3.000
-
-j) Por reposición de tarjeta de circulación de vehículos destinados a la seguridad pública, protección civil y emergencias 3.000
-
-k) Por reposición de tarjeta de circulación, por cambio de domicilio de la persona propietaria de un vehículo 0.000
-
-l) Por reposición de placas y tarjeta de circulación por canje:
-
-1.- Canje voluntario de servicio privado 10.000
-
-2.- Canje de servicio público por dictamen positivo del Programa de Actualización 12.000
-
-3.- Canje por término del periodo de vigencia de las placas 12.000
-
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
-
-Por los conceptos consignados en los incisos a), b), c), d), e) y h), las personas que acrediten ser jubiladas o pensionadas por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente respecto a un sólo vehículo del que acredite ser propietario y que éste sea de uso particular.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-VII. Por reposición de las placas de circulación por robo, extravío o deterioro:
-
-a) Vehículos de servicio particular, incluyendo tarjeta de circulación 10.000
-
-b) Vehículos de servicio público, incluyendo tarjeta de circulación 12.000
-
-c) Vehículos destinados a la seguridad pública, protección civil y emergencias 10.000
-
-d) Motocicletas, incluyendo tarjeta de circulación 9.000
-
-e) Remolques y convertidor Dolly, incluyendo tarjeta de circulación 9.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-Para dar trámite a la solicitud de reposición de placas de circulación, será requisito indispensable que no se tengan adeudos pendientes de pago por impuestos y derechos causados por el uso, tenencia o circulación de la unidad vehicular de que se trate, ni de multas que la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad hubiera impuesto con respecto al mismo vehículo y se acredite el robo o extravío de las placas de circulación, con la copia del escrito que contenga la denuncia que del hecho respectivo se hubiera presentado ante la Agencia del Ministerio Público correspondiente, de la que se entregará copia a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-VIII. Por la expedición de permisos provisionales y de traslado:
-
-a) Permisos Provisionales:
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-1.- Primer permiso de 30 días 3.500
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-2.- Segundo permiso de 30 días 3.500
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-3.- Tercero permiso de 30 días 4.500
-
-b) Permiso de Traslado:
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-1.- Por diez días 2.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-2.- Por día adicional, máximo 3 días 0.500
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-IX. Certificaciones y constancias 2.000
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-X. Actos para operar Centros de Capacitación en Movilidad:
-
-a) Autorización de Contrato de Operaciones de Centros de Capacitación en Movilidad, con vigencia de tres años 220.000
-
-b) Refrendo anual de contrato de Operaciones de Centros de Capacitación en Movilidad 14.000
-
-c) Permiso de operación de vehículo de Centro de Capacitación, con vigencia de un año 18.000
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-XI. Por la expedición de baja de placas de otros estados 3.000
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-XII. Por la expedición de baja definitiva del Padrón Vehicular 2.000
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-XIII. Por la aplicación de exámenes e impartición del curso para obtener licencia de conducir:
-
-a) Examen de conocimientos viales, incluyendo el material didáctico 1.000
-
-b) Impartición del curso para obtener licencia de conducir 4.000
-
-De no ser aprobado el examen previsto en el inciso a) de la presente fracción, se pagará cuantas veces se realice.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-XIV. Gafetes de identificación de servicio:
-
-a) Por la expedición por primera vez de gafete de Conductor de Transporte Público, con vigencia de cuatro años 3.000
-
-b) Por el refrendo anual de gafete de Conductor de Transporte Público 1.000
-
-c) Por la reposición de gafete de Conductor de Transporte Público 2.000
-
-d) Por la renovación de gafete de Conductor de Transporte Público 2.000
-
-e) Por la renovación o refrendo extemporáneo de gafete de Conductor de Transporte Público 3.000
-
-f) Por la expedición o renovación de gafete de Apoderado 3.000
-
-g) Por la expedición o renovación de gafete de Gestor 3.000
-
-h) Por la expedición o renovación de gafete de Representante Social 3.000
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-Los derechos de refrendo a que se refieren los incisos a), b) y d) que anteceden, deberán pagarse durante el periodo ordinario establecido por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, previo trámite del servicio.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-Los derechos de refrendo a que se refiere el inciso g) que antecede, deberán pagarse durante el periodo extraordinario establecido por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, previo trámite del servicio. Los derechos de expedición o renovación a que se refieren los incisos f), g) y h) que anteceden tienen una vigencia anual.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
-
-XV. Revista vehicular para vehículos de servicio público:
-
-a) Revista vehicular por vehículo 0.000
-
-b) Revista vehicular extemporánea por vehículo 6.000
-
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-XVI. Por la prestación del servicio de capacitación para la movilidad.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-a) Capacitación y expedición de constancia
-
-para el servicio de transporte público,
-
-individual o colectivo 2.000
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 55.
 
@@ -3067,11 +2781,447 @@ del ejercicio fiscal correspondiente, la cantidad de 11.9
 
 > <small>(DEROGADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Económico
+### CAPITULO IV BIS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO VI. Servicios Prestados en la Secretaría de Educación y Cultura
+Artículo 55 B.- Por los servicios prestados en materia de movilidad:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+I.- Expedición, renovación, reposición y reimpresión de licencias para conducir vehículos de motor e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
+
+a) Automovilista 9.000
+
+b) Chofer clase I, II y conductor de servicio 8.000
+
+c) Motociclista 6.000
+
+d) Automovilistas y motociclistas 12.000
+
+e) Choferes clase 1 y motociclistas 11.000
+
+f) Reposición de cualquier tipo de licencia 5.000
+
+g) Reimpresión de cualquier tipo de licencia 5.000
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Por los conceptos consignados en los incisos a), b), c), d) y e) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de licencias para conducir vehículos de uso particular con vigencia de cuatro años.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Las personas adultas mayores acreditarán ser de escasos recursos económicos mediante constancia expedida por el Instituto para la Atención de Adultos Mayores.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+Para los efectos de los derechos señalados en los incisos f) y g), se respetará únicamente el tiempo restante de la licencia materia de reimpresión o reposición. Por renovación se cobrarán las mismas cuotas que se prevén para la expedición de las licencias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En caso de que la licencia o permiso llegará a presentar algún defecto de impresión y/o error de captura imputable a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, los ciudadanos podrán solicitar la reimpresión únicamente dentro de los 5 cinco meses siguientes a su expedición sin ningún costo, presentando la licencia defectuosa.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+II. Expedición, renovación, reposición y reimpresión de permisos para conducir vehículos de motor para menores de edad:
+
+a) Permisos para conducir automóviles (que no excedan 1 tonelada) para menores de edad desde 16 años cumplidos:
+
+1.- Expedición de permiso con vigencia de 6 meses 6.000
+
+2.- Renovación de permiso con vigencia de 6 meses 7.000
+
+3.- Renovación de permiso con vigencia de 12 meses 8.000
+
+b) Permisos para conducir motocicletas hasta 250 cc:
+
+1.- Expedición con vigencia de 6 meses 6.000
+
+2.- Renovación con vigencia de 6 meses 7.000
+
+3.- Renovación con vigencia de 12 meses 8.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+III. Por expedición de concesión, expedición y renovación de contratos de operación, y cesión o transmisión de derechos de concesión a vehículos de servicio público, conforme a la siguiente clasificación:
+
+a) Expedición de concesión:
+
+1.- Concesión Individual:
+
+1.1.- Transporte público colectivo urbano (para las modalidades autorizadas en el artículo 271 de la Ley de Movilidad Sustentable para el Estado de Colima) 440.000
+
+1.2.- Transporte público individual motorizado (en todas sus modalidades) 440.000
+
+1.3.- Transporte público de servicio de carga (en todas sus modalidades) 143.000
+
+2.- Concesión Empresarial:
+
+2.1.- Transporte público colectivo urbano 660.000
+
+2.2.- Transporte público colectivo sub-urbano 660.000
+
+2.3.- Transporte público de carga y/o materialista 550.000
+
+2.4.- Alquiler o préstamo de bicicletas públicas 660.000
+
+2.5.- Bici Taxi 440.000
+
+2.6.- Explotación de infraestructura 660.000
+
+b) Expedición y renovación de contrato de operación:
+
+1.- Expedición de contrato de transporte público colectivo sub-urbano por vehículo 50.000
+
+2.- Renovación de contrato de transporte público colectivo sub-urbano por vehículo 20.000
+
+3.- Expedición de contrato de transporte público individual motorizado por vehículo 50.000
+
+4.- Renovación de contrato de transporte público individual motorizado 20.000
+
+5.- Expedición de contrato de transporte público especial; personal, turístico y escolar por vehículo 50.000
+
+6.- Renovación de contrato de transporte público especial; personal, turístico y escolar por vehículo 20.000
+
+c) Cesión o transmisión de derechos de concesiones individuales:
+
+1.- Cesión de derechos de concesiones individuales entre familiares 0.000
+
+2.- Transmisión de derechos entre personas físicas 440.000
+
+3.- Transmisión de derechos de personas físicas a personas morales (para la consolidación de empresas operadoras de transporte colectivo) 110.000
+
+4.- Transmisión de derechos entre persona moral a moral (para la consolidación de empresas operadoras de transporte colectivo 110.000
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+Los derechos que establece la presente fracción deberán cubrirse dentro de los 30 días naturales siguientes a la fecha de autorización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En el caso de cesión de los derechos de concesión individual entre familiares, por causa de muerte del titular, incapacidad física o mental de la persona concesionaria, a favor de la persona designada y registrada como beneficiario por el titular de la concesión ante la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, siempre y cuando sea entre cónyuges y ascendientes o descendientes en línea recta, en primer grado, no causará el pago de derecho alguno.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+IV. Por revalidación anual de concesión y por vehículo adherido al contrato de operación:
+
+a) Revalidación de concesión individual de transporte público colectivo en todas sus modalidades, de transporte público individual motorizado en todas sus modalidades y transporte público de carga y/o materialista 18.000
+
+b) Revalidación de concesión empresarial por vehículo adherido a la concesión empresarial, de transporte público colectivo en todas sus modalidades, de transporte público individual motorizado y en todas sus modalidades y transporte público de carga y/o materialista 15.000
+
+c) Revalidación por vehículo adherido al contrato de operación de transporte público colectivo urbano, de transporte público individual y de transporte público especial (personal y escolar) 20.000
+
+Los derechos de revalidación a los que se refieren los incisos a), b) y c) que anteceden serán por año fiscal, con vencimiento al 31 de diciembre del año que corresponda. El pago de derechos de revalidado deberá realizarse en los primeros 90 días del año fiscal, posteriormente y hasta el 31 de diciembre del año que corresponda.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+V. Por expedición de permisos de operación de transporte público, a vehículos de servicio privado, mercantil y de transporte de personal, conforme a la siguiente clasificación:
+
+a) Permiso de operación de transporte público:
+
+1.- Transporte público colectivo regional.
+
+1.1.- Seis meses de vigencia 15.000
+
+1.2.- Un año de vigencia 25.000
+
+1.3.- Dos años de vigencia 50.000
+
+1.4.- Tres años de vigencia 60.000
+
+2.- Transporte público individual taxi ejecutivo.
+
+2.1.- Seis meses de vigencia 15.000
+
+2.2.- Un año de vigencia 25.000
+
+2.3.- Dos años de vigencia 50.000
+
+2.4.- Tres años de vigencia 60.000
+
+3.- Transporte público individual bici-taxi.
+
+3.1.- Seis meses de vigencia 20.000
+
+3.2.- Un año de vigencia 40.000
+
+3.3.- Dos años de vigencia 60.000
+
+3.4.- Tres años de vigencia 80.000
+
+4.- Transporte público especial en todas sus modalidades.
+
+4.1.- Un mes de vigencia 15.000
+
+4.2.- Seis meses de vigencia 25.000
+
+4.3.- Un año de vigencia 50.000
+
+5.- Transporte público de carga por un año de vigencia.
+
+5.1.- Carga en general 23.500
+
+5.2.- Materialistas 23.500
+
+5.3.- Grúas de arrastre o salvamento 40.000
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+b) Autorizaciones, permisos y prórrogas de permisos a empresas de redes de acceso y gestión de la demanda de transporte, para operar el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas:
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+1.- Pago de derechos por análisis, y en su caso, autorización del permiso de operación como empresa de redes de acceso y gestión de la demanda de transporte (hasta por cuatro años). 220.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+2.- Pago de derechos por análisis, y en su caso, autorización de la renovación del permiso de operación del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo (hasta por un año). 30.00
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+3.- Pago de derechos por análisis, y en su caso, autorización de prórroga del permiso de operación como empresas de redes de acceso y gestión de la demanda de transporte. 200.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+4.- Pago de derechos por análisis, y en su caso, autorización del refrendo anual del permiso de operación como empresas de redes de acceso y gestión de la demanda de transporte. 200.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+La negativa del permiso de operación, su prórroga o la renovación, según sea el caso, implica la pérdida del pago de los derechos por el análisis y autorización del permiso de operación correspondiente. En caso de renovación, cancelación, suspensión o extinción del respectivo permiso de operación, el pago de derechos que se hubiere realizado no será reembolsable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2020)</small>
+
+5.- Conforme a lo establecido en el artículo 177, así como de los artículos 63, párrafos 1 y 2, fracción VII, 176 párrafos 1 y 2, 183 párrafo 1, fracciones IX y X de la Ley de Movilidad Sustentable para el Estado de Colima, y los relativos en su correspondiente reglamentación, las empresas de redes de acceso y gestión de la demanda de transporte por cada viaje del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas realizado mediante la aplicación deberá aportar el 1.5% del total de los servicios al Fondo de Movilidad.
+
+La aportación que establece el anterior numeral 6, deberá cubrirse dentro de los 10 días siguientes al mes vencido en la forma y términos establecidos en la Ley de Movilidad Sustentable para el Estado de Colima o el Reglamento respectivo.
+
+c) Permisos de explotación de infraestructura de transporte;
+
+1.- Permisos para la explotación de espacios publicitarios en vehículos de transporte público con vigencia de un año 15.000
+
+2.- Permisos de operación de espacios que presten servicios de depósito, guarda y custodia de vehículos infraccionados, abandonados, detenidos, accidentados o descompuestos en las vías públicas del Estado, así como aquellos remitidos por la autoridad correspondiente.
+
+2.1.- Un año de vigencia 120.000
+
+2.2.- Dos años de vigencia 220.000
+
+2.3.- Tres años de vigencia 350.000
+
+2.4.- Cuatro años de vigencia 440.000
+
+3.- Permisos de operación de centros de revisión físico-mecánica de vehículos para el transporte público.
+
+3.1.- Un año de vigencia 100.000
+
+3.2.- Dos años de vigencia 150.000
+
+3.3.- Tres años de vigencia 180.000
+
+3.4.- Cuatro años de vigencia 220.000
+
+d) Permisos emergentes de servicio público de transporte:
+
+1.- Permisos eventuales por unidad vehicular con vigencia de seis meses:
+
+1.1.- Transporte público colectivo urbano 15.000
+
+1.2.- Transporte público colectivo foráneo 15.000
+
+1.3.- Transporte público colectivo suburbano 15.000
+
+2.- Permiso extraordinario a vehículos de servicio público de transporte concesionado, por unidad vehicular y con vigencia de sesenta días 5.500
+
+3.- Permiso provisional a vehículos de servicio público de transporte concesionado, por unidad vehicular y con vigencia de sesenta días 5.500
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+VI. Por dotación de placas y tarjeta de circulación de vehículos de servicio privado y público:
+
+a) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para automóvil, camión, autobús, ecológicos, discapacidad y antiguos 15.000
+
+b) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para remolques y convertidores Dolly 12.000
+
+c) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicleta 10.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+d) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para vehículos de demostración 24.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+e) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para motocicletas de demostración 20.000
+
+f) Por dotación de placas y tarjeta de circulación de vehículos de servicio público:
+
+1.- Automóvil, camión y autobús 18.000
+
+2.- Remolque 15.000
+
+3.- Bici-taxis 12.000
+
+g) Por dotación de placas y tarjeta de circulación de vehículos destinados a la seguridad pública, protección civil y emergencias:
+
+1.- Ambulancia, bomberos y protección civil 15.000
+
+2.- Policía vehículo 15.000
+
+3.- Policía motocicleta 10.000
+
+h) Por reposición de tarjeta de circulación de vehículos de servicio privado en todas sus modalidades 3.000
+
+i) Por reposición de tarjeta de circulación de vehículos de servicio público:
+
+1.- Automóvil, camión y autobús 6.000
+
+2.- Remolque 6.000
+
+3.- Bici-taxis 3.000
+
+j) Por reposición de tarjeta de circulación de vehículos destinados a la seguridad pública, protección civil y emergencias 3.000
+
+k) Por reposición de tarjeta de circulación, por cambio de domicilio de la persona propietaria de un vehículo 0.000
+
+l) Por reposición de placas y tarjeta de circulación por canje:
+
+1.- Canje voluntario de servicio privado 10.000
+
+2.- Canje de servicio público por dictamen positivo del Programa de Actualización 12.000
+
+3.- Canje por término del periodo de vigencia de las placas 12.000
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Por los conceptos consignados en los incisos a), b), c), d), e) y h), las personas que acrediten ser jubiladas o pensionadas por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente respecto a un sólo vehículo del que acredite ser propietario y que éste sea de uso particular.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+VII. Por reposición de las placas de circulación por robo, extravío o deterioro:
+
+a) Vehículos de servicio particular, incluyendo tarjeta de circulación 10.000
+
+b) Vehículos de servicio público, incluyendo tarjeta de circulación 12.000
+
+c) Vehículos destinados a la seguridad pública, protección civil y emergencias 10.000
+
+d) Motocicletas, incluyendo tarjeta de circulación 9.000
+
+e) Remolques y convertidor Dolly, incluyendo tarjeta de circulación 9.000
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Para dar trámite a la solicitud de reposición de placas de circulación, será requisito indispensable que no se tengan adeudos pendientes de pago por impuestos y derechos causados por el uso, tenencia o circulación de la unidad vehicular de que se trate, ni de multas que la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad hubiera impuesto con respecto al mismo vehículo y se acredite el robo o extravío de las placas de circulación, con la copia del escrito que contenga la denuncia que del hecho respectivo se hubiera presentado ante la Agencia del Ministerio Público correspondiente, de la que se entregará copia a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+VIII. Por la expedición de permisos provisionales y de traslado:
+
+a) Permisos Provisionales:
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+1.- Primer permiso de 30 días 3.500
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2.- Segundo permiso de 30 días 3.500
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+3.- Tercero permiso de 30 días 4.500
+
+b) Permiso de Traslado:
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+1.- Por diez días 2.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+
+2.- Por día adicional, máximo 3 días 0.500
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+IX. Certificaciones y constancias 2.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+X. Actos para operar Centros de Capacitación en Movilidad:
+
+a) Autorización de Contrato de Operaciones de Centros de Capacitación en Movilidad, con vigencia de tres años 220.000
+
+b) Refrendo anual de contrato de Operaciones de Centros de Capacitación en Movilidad 14.000
+
+c) Permiso de operación de vehículo de Centro de Capacitación, con vigencia de un año 18.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XI. Por la expedición de baja de placas de otros estados 3.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XII. Por la expedición de baja definitiva del Padrón Vehicular 2.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XIII. Por la aplicación de exámenes e impartición del curso para obtener licencia de conducir:
+
+a) Examen de conocimientos viales, incluyendo el material didáctico 1.000
+
+b) Impartición del curso para obtener licencia de conducir 4.000
+
+De no ser aprobado el examen previsto en el inciso a) de la presente fracción, se pagará cuantas veces se realice.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XIV. Gafetes de identificación de servicio:
+
+a) Por la expedición por primera vez de gafete de Conductor de Transporte Público, con vigencia de cuatro años 3.000
+
+b) Por el refrendo anual de gafete de Conductor de Transporte Público 1.000
+
+c) Por la reposición de gafete de Conductor de Transporte Público 2.000
+
+d) Por la renovación de gafete de Conductor de Transporte Público 2.000
+
+e) Por la renovación o refrendo extemporáneo de gafete de Conductor de Transporte Público 3.000
+
+f) Por la expedición o renovación de gafete de Apoderado 3.000
+
+g) Por la expedición o renovación de gafete de Gestor 3.000
+
+h) Por la expedición o renovación de gafete de Representante Social 3.000
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Los derechos de refrendo a que se refieren los incisos a), b) y d) que anteceden, deberán pagarse durante el periodo ordinario establecido por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, previo trámite del servicio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Los derechos de refrendo a que se refiere el inciso g) que antecede, deberán pagarse durante el periodo extraordinario establecido por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, previo trámite del servicio. Los derechos de expedición o renovación a que se refieren los incisos f), g) y h) que anteceden tienen una vigencia anual.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
+XV. Revista vehicular para vehículos de servicio público:
+
+a) Revista vehicular por vehículo 0.000
+
+b) Revista vehicular extemporánea por vehículo 6.000
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVI. Por la prestación del servicio de capacitación para la movilidad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+a) Capacitación y expedición de constancia
+
+para el servicio de transporte público,
+
+individual o colectivo 2.000
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Económico
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -3113,7 +3263,7 @@ derecho a tobogán 0.277
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO VII. Servicios Prestados por la Secretaría de Salud
+### CAPITULO VI. Servicios Prestados en la Secretaría de Educación y Cultura
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -3869,6 +4019,184 @@ XII.- Por Scanner por hoja 0.030
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
+### CAPITULO VII. Servicios Prestados por la Secretaría de Salud
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 61.
+
+Por los servicios prestados en materia de salud:
+
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016 )</small>
+
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+I.- Opinión técnica:
+
+a).- Para el funcionamiento de establecimientos con venta
+
+de alimentos. 4.000
+
+b).- Para el funcionamiento de establecimientos con venta de
+
+alimentos y bebidas alcohólicas. 8.000
+
+c).- Para el funcionamiento de establecimientos con venta de
+
+bebidas alcohólicas. 12.000
+
+d).- Para el funcionamiento de establecimientos con venta de
+
+insumos para los servicios de salud. 4.000
+
+e).- En materia de servicios de salud. 6.000
+
+f).- En materia de salud ambiental. 8.000
+
+g).- En materia de publicidad. 5.000
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+II.- Capacitación de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, por persona 16.000
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+III.- Expedición de constancia por persona del curso de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, impartida por instructor autorizado que cuente con clave alfanumérica 8.000
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Constancia del curso de capacitación de buenas prácticas de higiene y/o manejo higiénico de alimentos 2.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+V.- Solicitud de cursos de capacitación del
+
+interesado por persona 30.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+VI.- Constancia de destrucción de productos
+
+que puedan ser nocivos para la salud pública 10.000
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+VII.- Solicitud de visita de verificación:
+
+a).- Sin toma de muestra 10.000
+
+b).- Con toma de muestra 13.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Por reposición de aviso de apertura
+
+o establecimiento 2.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+IX.- Por autorización de libros de bancos de
+
+sangre y transfusión sanguínea 10.000
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+X.- Por autorización de libros de control de estupefacientes y
+
+Psicotrópicos, por cada libro 6.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XI.- Por reposición de licencia sanitaria 6.000
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XII.- Por autorización de cremación de cadáveres, de seres humanos, sus partes y restos áridos 4.000
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XIII.- Autorización para traslado de cadáveres:
+
+a).- De un municipio a otro municipio del estado 2.000
+
+b).- A otra entidad federativa 4.000
+
+c).- A otro país 10.000
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XIV.- Autorización para exhumación de cadáveres y restos áridos para ser reinhumados:
+
+a).- En el mismo panteón 4.000
+
+b).- En otros municipios del estado 7.000
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XV.- Por la revisión y autorización de planos de construcción:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+a).- Casa habitación, edificios para
+
+viviendas y escuelas, por metro cuadrado 0.0000
+
+b).- Establecimientos comerciales, industriales, de servicio y similares, por metro cuadrado 0.200
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+c).- Fraccionamientos por metro cuadrado 0.0000
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+La cuota señalada en el inciso b) no aplica cuando la nueva construcción sea para fines empresariales y la empresa de que se trate sea una persona moral, que genere por lo menos 50 empleos formales y cumpla con todos los requisitos de ley.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+Será el Municipio, durante el trámite de la licencia de construcción, la instancia que verificará el cumplimiento de los requisitos anteriores, quien enviará los planos correspondientes a la Secretaría de Salud y Bienestar Social para su posterior verificación.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+La dependencia señalada en el párrafo anterior realizará, cuando lo estime conveniente, la visita para verificar que se cumpla con lo señalado en el segundo párrafo de esta fracción. De encontrar irregularidades o determinar que hubo engaño por parte de la persona moral con el propósito de evadir el pago del derecho, se notificará a la Secretaría de Finanzas y Administración para que se proceda de conformidad con lo dispuesto en las Leyes Fiscales del Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVI.- Asesoría para la elaboración de la etiqueta de productos de uso y consumo humano 4.000
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVII.- Autorización de clave para la impartición del curso de manejo y dispensación de medicamentos por instructor autorizado 25.000
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVIII.- Solicitud para emisión de código de barras para prescribir estupefacientes 15.000
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XIX.- Consulta en materia de sanidad internacional 4.000
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XX.- Constancia de no inconveniente de aviso sanitario de importación 4.000
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
+XXI.- Dictamen técnico de la infraestructura física, funcional
+
+y operativa, de establecimientos de servicios de salud. 45.000
+
+###### Artículo 62.
+
+(DEROGADO, P.O. 27 DE JULIO DE 1996)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 ### CAPITULO VII BIS. Secretaría de Seguridad Pública
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
@@ -4389,445 +4717,9 @@ c. Por Kilometro o fracción excedente de los 50 kilómetros señalados en el in
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 61.
-
-Por los servicios prestados en materia de salud:
-
-> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016 )</small>
-
-UNIDADES DE
-
-MEDIDA Y
-
-ACTUALIZACIÓN
-
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
-
-I.- Opinión técnica:
-
-a).- Para el funcionamiento de establecimientos con venta
-
-de alimentos. 4.000
-
-b).- Para el funcionamiento de establecimientos con venta de
-
-alimentos y bebidas alcohólicas. 8.000
-
-c).- Para el funcionamiento de establecimientos con venta de
-
-bebidas alcohólicas. 12.000
-
-d).- Para el funcionamiento de establecimientos con venta de
-
-insumos para los servicios de salud. 4.000
-
-e).- En materia de servicios de salud. 6.000
-
-f).- En materia de salud ambiental. 8.000
-
-g).- En materia de publicidad. 5.000
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-II.- Capacitación de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, por persona 16.000
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-III.- Expedición de constancia por persona del curso de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, impartida por instructor autorizado que cuente con clave alfanumérica 8.000
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-IV.- Constancia del curso de capacitación de buenas prácticas de higiene y/o manejo higiénico de alimentos 2.000
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-V.- Solicitud de cursos de capacitación del
-
-interesado por persona 30.000
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-VI.- Constancia de destrucción de productos
-
-que puedan ser nocivos para la salud pública 10.000
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-VII.- Solicitud de visita de verificación:
-
-a).- Sin toma de muestra 10.000
-
-b).- Con toma de muestra 13.000
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-VIII.- Por reposición de aviso de apertura
-
-o establecimiento 2.000
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-IX.- Por autorización de libros de bancos de
-
-sangre y transfusión sanguínea 10.000
-
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
-
-X.- Por autorización de libros de control de estupefacientes y
-
-Psicotrópicos, por cada libro 6.000
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-XI.- Por reposición de licencia sanitaria 6.000
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XII.- Por autorización de cremación de cadáveres, de seres humanos, sus partes y restos áridos 4.000
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XIII.- Autorización para traslado de cadáveres:
-
-a).- De un municipio a otro municipio del estado 2.000
-
-b).- A otra entidad federativa 4.000
-
-c).- A otro país 10.000
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XIV.- Autorización para exhumación de cadáveres y restos áridos para ser reinhumados:
-
-a).- En el mismo panteón 4.000
-
-b).- En otros municipios del estado 7.000
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XV.- Por la revisión y autorización de planos de construcción:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-a).- Casa habitación, edificios para
-
-viviendas y escuelas, por metro cuadrado 0.0000
-
-b).- Establecimientos comerciales, industriales, de servicio y similares, por metro cuadrado 0.200
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-c).- Fraccionamientos por metro cuadrado 0.0000
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
-
-La cuota señalada en el inciso b) no aplica cuando la nueva construcción sea para fines empresariales y la empresa de que se trate sea una persona moral, que genere por lo menos 50 empleos formales y cumpla con todos los requisitos de ley.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
-
-Será el Municipio, durante el trámite de la licencia de construcción, la instancia que verificará el cumplimiento de los requisitos anteriores, quien enviará los planos correspondientes a la Secretaría de Salud y Bienestar Social para su posterior verificación.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
-
-La dependencia señalada en el párrafo anterior realizará, cuando lo estime conveniente, la visita para verificar que se cumpla con lo señalado en el segundo párrafo de esta fracción. De encontrar irregularidades o determinar que hubo engaño por parte de la persona moral con el propósito de evadir el pago del derecho, se notificará a la Secretaría de Finanzas y Administración para que se proceda de conformidad con lo dispuesto en las Leyes Fiscales del Estado.
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XVI.- Asesoría para la elaboración de la etiqueta de productos de uso y consumo humano 4.000
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XVII.- Autorización de clave para la impartición del curso de manejo y dispensación de medicamentos por instructor autorizado 25.000
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XVIII.- Solicitud para emisión de código de barras para prescribir estupefacientes 15.000
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XIX.- Consulta en materia de sanidad internacional 4.000
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
-XX.- Constancia de no inconveniente de aviso sanitario de importación 4.000
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
-
-XXI.- Dictamen técnico de la infraestructura física, funcional
-
-y operativa, de establecimientos de servicios de salud. 45.000
-
-###### Artículo 62.
-
-(DEROGADO, P.O. 27 DE JULIO DE 1996)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
-
 ### CAPÍTULO VII TER. Servicio (sic) prestados por el Instituto para el Registro del Territorio del Estado de Colima
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-### CAPÍTULO VII QUATER. SERVICIOS PRESTADOS POR El INSTITUTO PARA EL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-Artículo 62 BIS 3.- Por los servicios prestados en el Instituto para el Medio Ambiente y Desarrollo Sustentable, se pagarán los derechos siguientes:
-
-> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-UNIDADES DE
-
-MEDIDA Y
-
-ACTUALIZACIÓN
-
-I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
-
-II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
-
-(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023) (F. DE E., P.O. 6 DE ENERO DE 2024)
-
-1.- En su modalidad MIA-1 150.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-2.- En su modalidad MIA-2 250.000
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-3.- En su modalidad de diagnóstico
-
-ambiental (MADA) 510.000
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-4.- En su modalidad de riesgo
-
-ambiental (MARA) 150.000
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-5.- En su modalidad de informe
-
-de factibilidad (IFA) 70.000
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-Estarán exentos del pago del derecho establecido en este apartado, las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea igual o menor a 2,850 veces la Unidad de Medida y Actualización diaria, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-III.- Por la recepción, evaluación y en su caso otorgamiento de la revalidación del resolutivo o ampliación de vigencia:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-1.- En su modalidad de informe
-
-de factibilidad 20.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-2.- En su modalidad MIA-1 75.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-3.- En su modalidad MIA 2 125.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-4.- En su modalidad de diagnóstico
-
-ambiental (MADA) 80.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-5.- En su modalidad de riesgo ambiental (MARA) 40.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-6.- Por el otorgamiento del certificado de cabal cumplimiento de las condicionantes establecidas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima 70.000
-
-IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico o informes de factibilidad, anualmente:
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
-
-1. Por la inscripción 260.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
-
-2. Por el refrendo 160.000
-
-VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-1.- Por la inscripción 300.000
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-2.- Por el refrendo 150.000
-
-VII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-VIII.- Por la autorización de poda o derribo de árboles:
-
-1.- Especies comerciales e industriales:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-1.1.- Por poda 2.000
-
-1.2.- Por derribo:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-a).- Árboles hasta 30 cm. de diámetro
-
-del fuste principal 4.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-b).- Árboles de 31 hasta 50 cm. de
-
-diámetro del fuste principal 6.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-c).- Árboles de 51 hasta 70 cm. de
-
-diámetro del fuste principal 12.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-d).- Árboles de 71 hasta 90 cm. de
-
-diámetro del fuste principal 20.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-e).- Árboles de 91 hasta 120 cm. de
-
-diámetro del fuste principal 30.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-f).- Árboles de 121 o más cm. de
-
-diámetro del fuste principal 50.000
-
-No se pagará el derecho a que se refiere esta fracción, cuando el Instituto dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal (LAU):
-
-1.- Por la recepción, evaluación y otorgamiento 60.000
-
-2.- Por la revalidación de la licencia 30.000
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-X.- Por la recepción, evaluación y otorgamiento de la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal (LAF):
-
-1.- Por la recepción, evaluación y otorgamiento 50.000
-
-2.- Por la revalidación de la licencia 25.000
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la recolección, transporte, acopio, reutilización o reciclaje de residuos sólidos:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-1.- Por la recepción, evaluación y
-
-otorgamiento de la autorización 10.000
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-2.- Por la revalidación de la autorización 4.000
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-XII.- Por la expedición del certificado
-
-de bajas emisiones 24.000
-
-XIII.- Por la expedición de copias certificadas
-
-de las actuaciones que obren en los expedientes
-
-administrativos:
-
-(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2024, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO CON LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-1.- POR LA PRIMERA HOJA O ACTUACIÓN 1.000
-
-(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2024, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO CON LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-2.- POR CADA HOJA, ACTUACIÓN O FRACCIÓN
-
-SIGUIENTE A LA PRIMERA 0.080
-
-XIV.- (DEROGADA, P.O. 29 DE JUNIO DE 2024)
-
-XV.- Por la recepción y evaluación de la solicitud y otorgamiento
-
-del dictamen de congruencia de factibilidad de uso de suelo
-
-en materia de ordenamiento ecológico 10.000
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-1.- Modalidad de proyectos de aprovechamiento 20.000
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-2.- Modalidad de escrituración de predios 5.000
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-XVI.- Por la recepción, evaluación y
-
-otorgamiento de la cédula de operación
-
-anual a las fuentes fijas de
-
-jurisdicción estatal (COA) 20.000
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-XVII.- Por la recepción, evaluación y
-
-otorgamiento de la resolución del plan
-
-de manejo de residuos especiales (PMRME) 30.000
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
-
-XVIII.- Por la revalidación de la
-
-resolución del plan de manejo de residuos
-
-especiales (PMRME) 10.000
-
-XIX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
-
-XX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
-
-No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII de este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
-
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ###### Artículo 62 Bis 1.
 
@@ -6179,11 +6071,269 @@ III. Expedición de testimonios 16.000
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
+### CAPÍTULO VII QUATER. SERVICIOS PRESTADOS POR El INSTITUTO PARA EL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+Artículo 62 BIS 3.- Por los servicios prestados en el Instituto para el Medio Ambiente y Desarrollo Sustentable, se pagarán los derechos siguientes:
+
+> <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
+
+I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación de impacto ambiental:
+
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023) (F. DE E., P.O. 6 DE ENERO DE 2024)
+
+1.- En su modalidad MIA-1 150.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- En su modalidad MIA-2 250.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+3.- En su modalidad de diagnóstico
+
+ambiental (MADA) 510.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+4.- En su modalidad de riesgo
+
+ambiental (MARA) 150.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+5.- En su modalidad de informe
+
+de factibilidad (IFA) 70.000
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+Estarán exentos del pago del derecho establecido en este apartado, las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea igual o menor a 2,850 veces la Unidad de Medida y Actualización diaria, así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+III.- Por la recepción, evaluación y en su caso otorgamiento de la revalidación del resolutivo o ampliación de vigencia:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.- En su modalidad de informe
+
+de factibilidad 20.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- En su modalidad MIA-1 75.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+3.- En su modalidad MIA 2 125.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+4.- En su modalidad de diagnóstico
+
+ambiental (MADA) 80.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+5.- En su modalidad de riesgo ambiental (MARA) 40.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+6.- Por el otorgamiento del certificado de cabal cumplimiento de las condicionantes establecidas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima 70.000
+
+IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico o informes de factibilidad, anualmente:
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+1. Por la inscripción 260.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+
+2. Por el refrendo 160.000
+
+VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.- Por la inscripción 300.000
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- Por el refrendo 150.000
+
+VII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+VIII.- Por la autorización de poda o derribo de árboles:
+
+1.- Especies comerciales e industriales:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.1.- Por poda 2.000
+
+1.2.- Por derribo:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+a).- Árboles hasta 30 cm. de diámetro
+
+del fuste principal 4.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+b).- Árboles de 31 hasta 50 cm. de
+
+diámetro del fuste principal 6.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+c).- Árboles de 51 hasta 70 cm. de
+
+diámetro del fuste principal 12.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+d).- Árboles de 71 hasta 90 cm. de
+
+diámetro del fuste principal 20.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+e).- Árboles de 91 hasta 120 cm. de
+
+diámetro del fuste principal 30.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+f).- Árboles de 121 o más cm. de
+
+diámetro del fuste principal 50.000
+
+No se pagará el derecho a que se refiere esta fracción, cuando el Instituto dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal (LAU):
+
+1.- Por la recepción, evaluación y otorgamiento 60.000
+
+2.- Por la revalidación de la licencia 30.000
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+X.- Por la recepción, evaluación y otorgamiento de la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal (LAF):
+
+1.- Por la recepción, evaluación y otorgamiento 50.000
+
+2.- Por la revalidación de la licencia 25.000
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la recolección, transporte, acopio, reutilización o reciclaje de residuos sólidos:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.- Por la recepción, evaluación y
+
+otorgamiento de la autorización 10.000
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- Por la revalidación de la autorización 4.000
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XII.- Por la expedición del certificado
+
+de bajas emisiones 24.000
+
+XIII.- Por la expedición de copias certificadas
+
+de las actuaciones que obren en los expedientes
+
+administrativos:
+
+(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2024, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO CON LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.- POR LA PRIMERA HOJA O ACTUACIÓN 1.000
+
+(NOTA: EL 28 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2024, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE OCTUBRE DE 2025, DE ACUERDO CON LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- POR CADA HOJA, ACTUACIÓN O FRACCIÓN
+
+SIGUIENTE A LA PRIMERA 0.080
+
+XIV.- (DEROGADA, P.O. 29 DE JUNIO DE 2024)
+
+XV.- Por la recepción y evaluación de la solicitud y otorgamiento
+
+del dictamen de congruencia de factibilidad de uso de suelo
+
+en materia de ordenamiento ecológico 10.000
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+1.- Modalidad de proyectos de aprovechamiento 20.000
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+2.- Modalidad de escrituración de predios 5.000
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVI.- Por la recepción, evaluación y
+
+otorgamiento de la cédula de operación
+
+anual a las fuentes fijas de
+
+jurisdicción estatal (COA) 20.000
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVII.- Por la recepción, evaluación y
+
+otorgamiento de la resolución del plan
+
+de manejo de residuos especiales (PMRME) 30.000
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+
+XVIII.- Por la revalidación de la
+
+resolución del plan de manejo de residuos
+
+especiales (PMRME) 10.000
+
+XIX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+XX.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2023)
+
+No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII de este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
+
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+
 ### CAPITULO VIII. Servicios Prestados en el Poder Judicial
-
-### CAPITULO IX. Otros Derechos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 63.
 
@@ -6269,15 +6419,9 @@ b).- Por cada disco compacto adicional 0.200
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO X. Servicios Prestados por el Centro de Evaluación y Control de Confianza del Estado
+### CAPITULO IX. Otros Derechos
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
-Artículo 64 BIS.- Por los servicios prestados en el Centro de Evaluación y Control de Confianza del Estado, se pagarán los derechos siguientes:
-
-I.- Por evaluaciones de control de confianza a instituciones y empresas de seguridad privada que presten sus servicios dentro del Estado 94.760
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 64.
 
@@ -6364,6 +6508,16 @@ e).- Copia certificada tamaño carta, por hoja 0.0313
 f).- Copia certificada tamaño oficio, por hoja 0.0437
 
 g).- Cuando la información se entregue en disco compacto, se cobrará por cada disco 0.069
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO X. Servicios Prestados por el Centro de Evaluación y Control de Confianza del Estado
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Artículo 64 BIS.- Por los servicios prestados en el Centro de Evaluación y Control de Confianza del Estado, se pagarán los derechos siguientes:
+
+I.- Por evaluaciones de control de confianza a instituciones y empresas de seguridad privada que presten sus servicios dentro del Estado 94.760
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -6479,6 +6633,10 @@ II.- Por la expedición de la constancia de servidor público inhabilitado o no 
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
+## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ### CAPITULO PRIMERO. Del Derecho por la Extracción de Minerales
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
@@ -6529,10 +6687,6 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
 ### CAPITULO SEGUNDO. De los Derechos por el Uso y Aprovechamiento de los Espacios Culturales
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
@@ -6579,10 +6733,6 @@ Para el uso de los espacios culturales, que tengan como propósito la realizaci�
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
 ### CAPITULO UNICO
@@ -6596,6 +6746,8 @@ Las contribuciones de mejoras se pagarán de conformidad con lo establecido en e
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 66.
 
@@ -6629,12 +6781,6 @@ Para la determinación de los montos de los productos a que se refiere este tít
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
 ###### Artículo 69.
 
 Quedan comprendidos dentro de los aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal, tales como:
@@ -6667,9 +6813,11 @@ X.- Gastos de ejecución.
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 70.
 
@@ -6683,15 +6831,21 @@ Son participaciones las que obtenga el Estado de la Federación, de conformidad 
 
 ### CAPITULO UNICO
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+
 ## TITULO SEXTO BIS PRIMERO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
-
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 71.
 
@@ -7616,3 +7770,15 @@ P.O. 28 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1o. de enero del año 2025, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 25 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 34.- POR EL QUE SE ADICIONA EL CAPÍTULO IX, DENOMINADO DE LOS IMPUESTOS ECOLÓGICOS, QUE CONSTA DE UNA SECCIÓN Y DIVERSAS DISPOSICIONES JURÍDICAS, AL TÍTULO PRIMERO, DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero del año 2025, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado de Colima, dentro del período de 180 días naturales contados a partir del día de la publicación del presente Decreto, deberá realizar las adecuaciones reglamentarias y normativas necesarias para la implementación del mismo.
