@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-reglamentaria-de-los-articulos-99-100-101-102-176
 country: "mx"
 rank: "ley"
 publication_date: "2025-01-23"
-last_updated: "2025-01-23"
+last_updated: "2025-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY ELECTORAL REGLAMENTARIA DE LOS ARTICULOS 99, 100, 101, 102 Y 103 DE LA CONSTITUCION PARA ELEGIR PERSONAS JUZGADORAS DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ENERO DE 2025 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ELECTORAL REGLAMENTARIA DE LOS ARTÍCULOS 99, 100, 101, 102 Y 103 DE LA CONSTITUCIÓN PARA ELEGIR PERSONAS JUZGADORAS DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE ENERO DE 2025.]</small>
 
 Ley publicada en el No. 07 del Periódico Oficial del Estado de Chihuahua, el jueves 23 de enero de 2025.
 
@@ -1339,7 +1339,9 @@ Las personas juzgadoras en funciones que deseen contender para el proceso electo
 
 QUINTO.- La jornada electoral extraordinaria se celebrará el primer domingo de junio del año 2025. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto Estatal, con excepción de representantes de un partido político.
 
-SEXTO.- El Instituto Estatal efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer. También declarará la validez de la elección que corresponda y enviará sus resultados a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, la cual resolverá las impugnaciones a más tardar el 28 de agosto de 2025.
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2025)</small>
+
+SEXTO.- El Instituto Estatal efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer.
 
 SÉPTIMO.- Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado el 1° de septiembre de 2025. El órgano de administración judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 15 de septiembre de 2025.
 
