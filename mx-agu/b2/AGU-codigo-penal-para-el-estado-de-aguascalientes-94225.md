@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-11-25"
+last_updated: "2025-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -957,6 +957,14 @@ IV. Atentados al Pudor y Atentados al Pudor Equiparado previstos en el Artículo
 
 V. Estupro, prevista en el Artículo 118;
 
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
+
+V.A. Violación entre cónyuges o concubinos, prevista en el penúltimo párrafo del artículo 119.
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
+
+V.B. Violación equiparada entre cónyuges o concubinos, prevista en el último párrafo del artículo 120.
+
 VI. Fecundación Artificial Indebida prevista en el Artículo 125, únicamente cuando el cónyuge o concubinario de la víctima tenga algún grado de intervención en la comisión del hecho punible;
 
 VII. Sustracción de Menores e Incapaces, cuando el inculpado sea familiar de la víctima, prevista en el Artículo 127;
@@ -1523,13 +1531,13 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 Violación. La Violación consiste en realizar cópula con persona de cualquier sexo, utilizando fuerza física, moral o psicológica, para lograr el sometimiento de la víctima.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
-Al responsable de Violación se le aplicarán de 10 a 16 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de 15 años pero menor de 18 años de edad, al responsable se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de violación se le aplicarán de 12 a 18 años de prisión y de 300 a 600 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de 15 años, pero menor de 18 años, al responsable se le aplicarán de 14 a 20 años de prisión y de 450 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
-Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial o de concubinato, se impondrá la pena prevista en el presente Artículo; y en su caso, el aumento de sanción prevista en el Artículo 124 de este Código.
+Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella de parte ofendida y se impondrá la pena prevista en el presente Artículo; y en su caso, el aumento de sanción prevista en el Artículo 124 de este Código.
 
 Para los efectos de este Código, se entiende por cópula la introducción del pene en el cuerpo humano, por vía vaginal, anal u oral.
 
@@ -1553,15 +1561,21 @@ IV.- El llevar a cabo la introducción descrita en la Fracción III en persona m
 
 V.- El llevar a cabo la introducción descrita en la Fracción III en persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
-Al responsable de Violación Equiparada descrita en las Fracciones I y II se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable hace uso de la fuerza física o moral sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 15 a 25 años de prisión y de 250 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Violación Equiparada descrita en las Fracciones I y II se le aplicarán de 16 a 22 años de prisión y de 250 a 450 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable hace uso de la fuerza física o moral sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 18 a 28 años de prisión y de 750 a 900 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados
 
-Al responsable de Violación Equiparada descrita en la Fracción III se le aplicarán de 5 a 10 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+Al responsable de Violación Equiparada descrita en la Fracción III se le aplicarán de 8 a 12 años de prisión y de 300 a 600 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Al responsable de Violación Equiparada descrita en las Fracciones IV y V se le aplicarán de 6 a 12 años de prisión y de 120 a 240 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 8 a 15 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
+Al responsable de Violación Equiparada descrita en las Fracciones IV y V se le aplicarán de 10 a 14 años de prisión y de 360 a 720 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 12 a 18 años de prisión y de 450 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ENERO DE 2025)</small>
+
+Si entre el activo y pasivo de la Violación equiparada, existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella de parte ofendida.
 
 ###### ARTÍCULO 121.
 
@@ -1595,9 +1609,9 @@ a) Los hechos descritos sean cometidos a nivel de coautoría;
 
 b) Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones;
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
-c) Los hechos descritos sean cometidos por ascendiente contra su descendiente, el hermano con su colateral, el tutor con su pupilo o el padrastro o amasio de la madre con el hijastro, el maestro con el alumno o el guía religioso con su asesorado; o
+c) Los hechos descritos sean cometidos por algún familiar hasta el cuarto grado, el tutor con su pupilo o el padrastro, madrastra o pareja sentimental de alguno de los progenitores, con el hijastro o hijastra, el maestro con el alumno o alumna el guía religioso con su asesorado o asesorada; o
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2022)</small>
 
@@ -4422,3 +4436,9 @@ P.O. 25 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del estado de Aguascalientes.
+
+P.O. 27 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 75.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
