@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-tribunal-administrativo-del-poder-judicial-143
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-08-19"
-last_updated: "2020-08-19"
+last_updated: "2025-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
 
 Ley publicada en el Número 122 del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2020.
 
@@ -93,6 +93,10 @@ Asimismo, tiene competencia para imponer sanciones a servidores públicos y part
 
 De igual forma, erigido en Tribunal de Sentencia cuenta con competencia para aplicar las sanciones en términos del artículo 111 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
+
+El Tribunal podrá llevar a cabo mecanismos alternativos de solución de controversias a través del Centro Público denominado Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa de conformidad con lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Chiapas, y demás disposiciones normativas aplicables.
+
 ## Título Segundo. Integración y Funcionamiento del Tribunal
 
 ### Capítulo I. De la Estructura
@@ -117,7 +121,13 @@ VII. La Contraloría.
 
 VIII. El Área de Comunicación Social.
 
-IX. Los demás órganos que se requiera para el cumplimiento de sus fines y permita el presupuesto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2025)</small>
+
+IX. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2025)</small>
+
+X. Los demás órganos que se requiera para el cumplimiento de sus fines y permita el presupuesto.
 
 ### Capítulo II. De la Sala de Revisión
 
@@ -723,6 +733,10 @@ El Tribunal contará con una Unidad de Transparencia dotada de facultades para c
 
 El Tribunal contará con un Área de Comunicación Social encargada de difundir los eventos, cursos, impresiones, libros, y en general, todas las actividades del Tribunal, en todos los medios de comunicación que permita el presupuesto; su titular tendrá las facultades y atribuciones que establezca el Reglamento Interior del Tribunal.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
+
+Artículo 39 bis.- El Tribunal contará con un Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa, que será el órgano especializado facultado para el ejercicio de los mecanismos alternativos, de conformidad con lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Chiapas y demás disposiciones que resulten aplicables; su titular tendrá las atribuciones que establezca el Reglamento Interior del Tribunal.
+
 ###### Artículo 40.
 
 El personal del Tribunal Administrativo tiene la obligación de laborar todos los días del año, de las 8:00 a las 16:00 horas, estableciéndose como excepción los días de suspensión de labores del Tribunal durante los cuales no correrán términos, además de los sábados y domingos los siguientes: 1 de enero, el primer lunes de febrero, el tercer lunes de marzo, 1 y 5 de mayo, 14 y 16 de septiembre, el tercer lunes de noviembre, el 25 de diciembre, así como los demás días que determine el Pleno del Tribunal.
@@ -830,3 +844,19 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 18 días del mes de Agosto del año dos mil veinte. - D. P. C. ROSA ELIZABETH BONILLA HIDALGO. - S. C. JORGE JHONATTÁN MOLINA MORALES. – Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 19 días del mes de agosto del año dos mil veinte. - Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas. - Ismael Brito Mazariegos, Secretario General de Gobierno. - Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 186 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las dependencias normativas y los órganos, en el ámbito de su respectiva competencia, llevarán a cabo las adecuaciones estructurales que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
+
+Artículo Cuarto.- El Pleno del Tribunal en un plazo no mayor a los 60 días naturales deberá realizar las reformas necesarias al Reglamento Interior del Tribunal, para el debido cumplimiento del presente Decreto.
+
+La persona titular del Poder Ejecutivo del Estado, dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
