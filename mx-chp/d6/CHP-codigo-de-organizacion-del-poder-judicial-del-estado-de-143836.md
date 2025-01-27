@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-143836"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-08-19"
-last_updated: "2023-09-13"
+last_updated: "2025-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2020.
 
@@ -53,9 +53,9 @@ CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
 El presente Código de Organización es de orden público y reglamentario del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Chiapas. Tiene por objeto regular la estructura y atribuciones de los órganos que integran al Poder Judicial del Estado, con excepción de las relativas al Tribunal Administrativo, a través de los cuales cumple con las funciones de impartir y administrar justicia dentro de su jurisdicción en materia del fuero común y, en materia del fuero federal, cuando las leyes respectivas así lo permitan.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
-En todo lo que no se oponga al presente Código se aplicarán supletoriamente, el Código de Procedimientos Civiles del Estado de Chiapas, la Ley de Justicia Alternativa del Estado de Chiapas, la Ley de Responsabilidades Administrativas del Estado de Chiapas, la Ley Federal del Trabajo, la Ley del Servicio Civil del Estado y los Municipios de Chiapas, y demás disposiciones legales conducentes.
+En todo lo que no se oponga al presente Código se aplicarán supletoriamente, el Código de Procedimientos Civiles del Estado de Chiapas, la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Chiapas, la Ley de Responsabilidades Administrativas para el Estado de Chiapas, la Ley Federal del Trabajo, la Ley del Servicio Civil del Estado y los Municipios de Chiapas, y demás disposiciones legales conducentes.
 
 En razón a que en el presente código se usan reiteradamente palabras que admiten la doble connotación de femenino y masculino; para evitar saturaciones innecesarias de lenguaje y para efectos estrictamente gramaticales, en su redacción se utilizará el masculino, entendiéndose que los conceptos se refieren por igual a los dos géneros sin distinción alguna.
 
@@ -85,7 +85,9 @@ Los acuerdos de la Comisión de Justicia del Poder Judicial se tomarán con plen
 
 Corresponde al Poder Judicial, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Chiapas, el desempeño de la función jurisdiccional en los asuntos del orden común, incluyendo la imposición de penas, su modificación y duración en el ámbito penal, así como en materia laboral, de control constitucional local, administrativa y de justicia especializada para adolescentes; y tratándose del orden federal, en los casos expresamente previstos por las leyes.
 
-De igual manera, atañe al Poder Judicial la impartición de justicia a través de medios alternativos para la resolución de controversias, en los términos previstos en este código y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
+De igual manera, atañe al Poder Judicial la impartición de justicia a través de mecanismos alternativos de solución de controversias, en los términos previstos en este código y demás disposiciones legales aplicables.
 
 La justicia estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permita.
 
@@ -251,7 +253,9 @@ XIV. Recibir las quejas por la conducta del personal del Tribunal Superior de Ju
 
 XV. Nombrar al titular de la Dirección General del Instituto de la Defensoría Pública.
 
-XVI. Nombrar al titular del Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2025)</small>
+
+XVI. Nombrar al titular del Centro Estatal y titulares de las Direcciones Regionales del Centro Estatal de Justicia Alternativa.
 
 XVII. Designar al Ombudsperson del Poder Judicial.
 
@@ -1707,135 +1711,141 @@ IV. Las demás que les confiera el Consejo de la Judicatura.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
 ###### Artículo 106.
 
-Corresponde al Poder Judicial solucionar las controversias privadas de naturaleza jurídica que le sean planteadas, mediante los procedimientos no jurisdiccionales que este Título dispone, a través del Centro Estatal de Justicia Alternativa y sus Subdirecciones Regionales.
+Corresponde al Poder Judicial, a través del Centro Estatal de Justicia Alternativa, aplicar los mecanismos alternativos de solución de controversias en términos de la ley de la materia.
 
 ###### Artículo 107.
 
 La organización y funcionamiento del Centro Estatal de Justicia Alternativa, en adelante el Centro Estatal, se regulará por lo que disponga el presente Título, la ley correspondiente y su reglamento.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
 ###### Artículo 108.
 
-La justicia alternativa comprende aquel procedimiento alterno al proceso jurisdiccional para solucionar conflictos de índole civil, familiar, mercantil, laboral, burocrático, penal o en materia de justicia para adolescentes, al que pueden recurrir voluntariamente las partes involucradas, para buscar una solución acordada que ponga fin a su controversia, a través de las diversas técnicas previstas en este código y en la ley de la materia.
+La justicia alternativa comprende aquel procedimiento alterno al proceso jurisdiccional para solucionar conflictos de índole civil, familiar, mercantil, penal y en justicia penal para adolescentes, al que pueden recurrir voluntariamente las partes involucradas, para buscar una solución acordada que ponga fin a su controversia, a través de los diversos mecanismos previstos en la ley de la materia y demás normativa aplicable.
 
 ###### Artículo 109.
 
-Los procedimientos que deberán observarse respecto a la resolución de controversias a través de los medios alternativos, serán regulados por la ley de la materia y su reglamento.
+(DEROGADO, P.O. 27 DE ENERO DE 2025)
 
 ###### Artículo 110.
 
-Los medios alternativos para la solución de conflictos tendrán el carácter obligatorio previo a todo juicio, de conformidad con lo previsto en la ley de la materia, en la que se regularán sus casos de aplicación y excepción.
+(DEROGADO, P.O. 27 DE ENERO DE 2025)
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 111.
 
-Los medios alternativos de solución de controversias que se llevan a cabo en el Centro Estatal se desarrollarán de acuerdo con lo previsto en la ley de la materia y su reglamento. Los medios alternativos consisten en:
+De conformidad con la ley de la materia, los mecanismos alternativos de solución de controversias son, de manera enunciativa pero no limitativa, los siguientes:
 
-I. Conciliación.
+I. Negociación.
 
-II. Mediación.
+II. Negociación Colaborativa.
 
-III. Arbitraje.
+III. Mediación.
+
+IV. Conciliación.
+
+V. Arbitraje.
 
 Tratándose de asuntos en la materia de justicia para adolescentes únicamente se aplicarán los medios alternativos previstos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ### CAPÍTULO II. DE SU NATURALEZA Y OBJETO
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
 ###### Artículo 112.
 
-El Centro Estatal de Justicia Alternativa es un órgano del Tribunal Superior de Justicia, que gozará de independencia técnica, de gestión y operativa, y dependerá administrativa y presupuestalmente del Consejo de la Judicatura.
+El Centro Estatal de Justicia Alternativa es un órgano del Tribunal Superior de Justicia, que gozará de independencia técnica, de gestión y operativa, siendo el centro público facultado para la aplicación de los mecanismos alternativos de solución de controversias, de conformidad con lo dispuesto en la ley de la materia y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 113.
 
-El Centro Estatal y sus Subdirecciones Regionales atenderán, informarán y orientarán gratuitamente en los casos en que las personas interesadas lo soliciten y en los que les remitan los Magistrados, Jueces y Ministerios Públicos, en los términos del presente Título y la Ley aplicable.
+El Centro Estatal atenderá, informará y orientará gratuitamente en los casos en que las personas interesadas lo soliciten y en los que les remitan las personas juzgadoras, así como otras instituciones públicas o privadas, en términos del presente Título y la normativa aplicable.
 
 ###### Artículo 114.
 
-El Centro Estatal tiene por objeto:
-
-I. Hacer posible el acceso de personas físicas o morales a los medios alternativos para la solución de controversias, establecidos en este código.
-
-II. Facilitar la resolución de conflictos a través de procedimientos alternos a fin de lograr un acuerdo entre las partes.
-
-III. El desarrollo y la administración de un sistema de medios alternos de solución de conflictos en los términos del presente Título.
-
-IV. Proveer servicios gratuitos de información y orientación a quien lo solicite, sobre los medios alternativos de solución de controversias con los que se cuenta.
-
-V. El registro y monitoreo de los especialistas públicos o independientes encargados de conducir los procesos alternativos de justicia de mediación, conciliación y arbitraje.
-
-VI. La difusión y divulgación permanente de los medios alternos de solución de conflictos con los que cuenta.
-
-VII. El intercambio permanente con instituciones públicas y privadas, nacionales y extranjeras, que contribuyan a la actualización de procedimientos y capacitación de sus miembros para fortalecer sus funciones.
-
-VIII. Asegurar que los procesos que se desarrollan dentro de su ámbito de competencia, cumplan con los principios que señala este Título.
+(DEROGADO, P.O. 27 DE ENERO DE 2025)
 
 ### CAPÍTULO III. DE SU ESTRUCTURA, ORGANIZACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
 ###### Artículo 115.
 
-El Centro Estatal residirá en la ciudad de Tuxtla Gutiérrez y tendrá jurisdicción en todo el territorio del Estado de Chiapas, por conducto de las Subdirecciones Regionales que al efecto establezca el Pleno del Consejo de la Judicatura, a propuesta de su Presidente.
+El Centro Estatal residirá en la ciudad de Tuxtla Gutiérrez y tendrá jurisdicción en todo el territorio del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 116.
 
-El Centro Estatal estará integrado por:
+El Centro Estatal está a cargo de la Dirección General, la cual se integra por:
 
-I. Un Director General.
+I. Las Direcciones Regionales.
 
-II. Las Subdirecciones Regionales, que sean necesarias y permita el presupuesto.
+II. Las oficinas técnicas.
 
-III. Las unidades de departamento y administrativas, que sean necesarias y permita el presupuesto.
+III. Las personas facilitadoras públicas.
 
-IV. Los Conciliadores, Mediadores y Árbitros, así como el demás personal especializado y administrativo que se requiera y permita el presupuesto.
+IV. Las personas especializadas de carácter técnico.
+
+V. Los demás órganos que se requieran para el cumplimiento de sus fines y permita el presupuesto.
 
 ###### Artículo 117.
 
-El Pleno del Consejo de la Judicatura, podrá determinar el establecimiento de Subdirecciones Regionales en regiones distintas de la capital del Estado, a propuesta de su Presidente, atendiendo a los requerimientos y necesidades de la población, así como al presupuesto asignado a éste.
+(DEROGADO, P.O. 27 DE ENERO DE 2025)
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 118.
 
-La designación de los especialistas públicos que integren el Centro Estatal se realizará de entre aquellas personas que aprueben satisfactoriamente el curso de formación para la mediación, conciliación y arbitraje. El procedimiento de designación será establecido por el Consejo de la Judicatura, con la intervención del Instituto de Formación, Profesionalización y Carrera Judicial.
-
-Los servidores públicos adscritos al Centro Estatal que funjan como especialistas o con funciones similares a ésta, deberán contar con carrera judicial, a excepción de aquellos que tengan una profesión distinta a la licenciatura en derecho, que permita la Ley de la materia. El salario que perciban no podrá ser superior al que reciba un Secretario de Acuerdos de un Juzgado.
+La designación de las personas facilitadoras públicas que integren el Centro Estatal se realizará de entre aquellas que aprueben satisfactoriamente el curso de formación y que cumplan con los requisitos previstos en la ley de la materia y demás normativa aplicable.
 
 ###### Artículo 119.
 
-El Centro Estatal tendrá las siguientes funciones:
+(DEROGADO, P.O. 27 DE ENERO DE 2025)
 
-I. Desarrollar y administrar un sistema de medios alternativos de solución de controversias de naturaleza jurídica, en los términos de este Título y de su Ley respectiva.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2025)</small>
 
-II. Prestar a las personas que lo soliciten, los servicios de información y orientación gratuita sobre los procedimientos alternativos de solución de conflictos a que se refiere este ordenamiento.
+### CAPÍTULO IV. DE LA PERSONA TITULAR DEL CENTRO ESTATAL
 
-III. Conocer de las controversias de carácter jurídico que le planteen directamente los particulares, o las que le remitan los órganos jurisdiccionales, la institución del Ministerio Público, así como otras instituciones públicas o privadas, procurando su solución a través de los medios alternativos previstos en este Título.
-
-IV. Difundir y fomentar entre la ciudadanía, la cultura de la solución pacífica de sus conflictos, a través de los medios alternativos que el presente ordenamiento dispone.
-
-V. Proponer al Consejo de la Judicatura los programas de formación, capacitación, evaluación y certificación de los especialistas encargados de conducir los medios alternativos de solución de conflictos.
-
-VI. Actualizar e inscribir en el Registro de Especialistas, a los especialistas públicos o independientes que reúnan los requisitos y autorice el Consejo de la Judicatura.
-
-VII. Asignar y controlar en forma equitativa y distributiva las cargas de trabajo de los conciliadores, mediadores y árbitros, actuando como especialistas titulares en el procedimiento del medio alternativo, o como co-mediadores.
-
-VIII. Efectuar el seguimiento de los acuerdos celebrados en los convenios que suscriban para dar fin a su conflicto, a través de los medios alternativos.
-
-IX. Realizar y apoyar en los análisis, estudios e investigaciones relacionados con sus funciones, así como elaborar las estadísticas relacionadas con el desempeño, resultados y efectividad de los medios alternos para solución de conflictos que se prevén.
-
-X. Las demás que le confiera el presente Título y la ley aplicable.
-
-### CAPÍTULO IV. DEL DIRECTOR GENERAL DEL CENTRO ESTATAL
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 120.
 
-El Centro Estatal estará a cargo de un Director General, quien deberá ser Juez de Primera Instancia y será nombrado por el Presidente del Tribunal Superior de Justicia.
+El Centro Estatal estará a cargo de una persona que será su titular y será denominada Directora o Director General, esta será designada por la persona titular del Tribunal Superior de Justicia.
+
+La persona titular del Centro Estatal deberá reunir los siguientes requisitos:
+
+I. Tener ciudadanía mexicana y estar en pleno ejercicio de sus derechos civiles y políticos.
+
+II. Tener cuando menos veinticinco años de edad, al día de su designación.
+
+III. Contar con certificación vigente como persona facilitadora al momento de la designación.
+
+IV. Haber concluido la licenciatura en derecho o abogacía, con título y cédula profesional expedidos por autoridad o institución legalmente facultada para ello.
+
+V. Acreditar cuando menos experiencia de cinco años en materia de mecanismos alternativos de solución de controversias.
+
+VI. Aprobar las evaluaciones que al efecto determine el Poder Judicial del Estado.
+
+VII. Gozar de buena reputación.
+
+VIII. No ser declarada como persona deudora alimentaria morosa ni estar inscrita en el Registro Nacional de Obligaciones Alimentarias.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 121.
 
-El Director General del Centro Estatal durará en su cargo tres años, pudiendo ser nombrado por un periodo igual; dejará de ejercer sus funciones, por remoción, suspensión o renuncia, en los términos previstos en este código y los ordenamientos aplicables del Estado. Concluido su encargo, se reincorporará a sus funciones jurisdiccionales por el tiempo que le falte para concluir el nombramiento de Juez de Primera Instancia.
+La persona titular del Centro Estatal durará en su cargo cinco años, pudiendo ser ratificada para un periodo igual; dejará de ejercer sus funciones, por remoción, suspensión o renuncia, en los términos previstos en este código y los ordenamientos aplicables.
 
 ###### Artículo 122.
 
-El Director General y demás servidores públicos adscritos al Centro Estatal y a las Subdirecciones Regionales, en ningún caso podrán aceptar ni desempeñar empleo, cargo o comisión de la Federación, de las Entidades de la República, de los municipios del Estado o de particulares, salvo los cargos docentes, o no remunerados en asociaciones o instituciones científicas, académicas, artísticas o de beneficencia, que no interfieran en su horario de trabajo ni menoscaben el pleno ejercicio de sus funciones.
-
-Tampoco podrán ser notarios ni corredores públicos. Están impedidos para ser comisionistas, apoderados judiciales, tutores, curadores, depositarios, síndicos, administradores, interventores, árbitro o peritos, o ejercer la profesión sino en causa propia. Podrán ser albaceas cuando sean herederos únicos.
+(DEROGADO, P.O. 27 DE ENERO DE 2025)
 
 ###### Artículo 123.
 
@@ -1855,99 +1865,109 @@ VI. Someter a la consideración del Consejo de la Judicatura, información falsa
 
 VII. Ausentarse de sus labores por más de tres días sin aviso al Consejo de la Judicatura o sin mediar causa de fuerza mayor o motivo justificado.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
 ###### Artículo 124.
 
-Las ausencias del Director General del Centro Estatal, que no excedan de tres meses, serán cubiertas por el Subdirector que designe el Consejo de la Judicatura. Si éstas excedieren de ese tiempo, el Pleno del Consejo de la Judicatura nombrará a un Director General interino, o hará una nueva designación, cuando la ausencia sea definitiva.
+Las ausencias de la persona titular de la Dirección General del Centro Estatal, que no excedan de tres meses, serán cubiertas por la persona Directora Regional que designe la persona titular del Tribunal Superior de Justicia, si éstas excedieren de ese tiempo, nombrará a una persona Directora General interina, o hará una nueva designación, cuando la ausencia sea definitiva.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 125.
 
-El Director General del Centro Estatal tendrá las siguientes atribuciones:
+La persona titular del Centro Estatal, tendrá las siguientes funciones y atribuciones:
 
-I. Vigilar que la prestación del servicio de solución de controversias, a través de procedimientos no jurisdiccionales, se apegue a los principios, fines y procedimientos que la Constitución Política del Estado Libre y Soberano de Chiapas, este código y la ley de la materia establezcan.
+I. Vigilar que el servicio otorgado por el Centro Estatal se apegue a los principios, fines y procedimientos establecidos en la Constitución Política del Estado Libre y Soberano de Chiapas, el presente código y demás normativa aplicable.
 
-II. Asumir la dirección técnica del Centro Estatal y de las Subdirecciones Regionales que jerárquicamente dependan de la Dirección General, vigilando el cumplimiento de sus objetivos.
+II. Asumir la dirección técnica y administrativa del Centro Estatal de Justicia Alternativa, vigilando el cumplimiento de sus objetivos.
 
-III. Determinar si los conflictos cuya solución se solicita al Centro Estatal, son susceptibles de ser resueltos a través de los medios alternativos previstos en este código y, en su caso, designar al especialista que habrá de atenderlos.
+III. Supervisar el cumplimiento de las reglas de funcionamiento del Centro Estatal de Justicia Alternativa.
 
-IV. Supervisar los convenios celebrados por las partes con la intervención de los especialistas del Centro Estatal, a fin de verificar que no se afecten derechos irrenunciables, ni se viole el principio de equidad en perjuicio de una de las partes, autorizándolos, en su caso.
+IV. Supervisar que los convenios validados por las Direcciones Regionales no afecten derechos humanos.
 
-V. Dar fe del contenido y firma de los convenios celebrados ante los especialistas del Centro Estatal y certificarlos.
+V. Fungir como Persona Facilitadora cuando las necesidades del servicio así lo requieran.
 
-VI. Crear el Registro de Especialistas y mantenerlo actualizado, con la inscripción de los especialistas públicos e independientes, autorizados por el Consejo de la Judicatura.
+VI. Vigilar que las determinaciones relativas a las solicitudes que se presentan en el Centro Estatal resulten de la competencia del mismo y, en su caso, determinarla por ausencia de las personas titulares de las Direcciones Regionales.
 
-VII. Certificar los documentos que obren en los archivos de la Dirección General a su cargo.
+VII. Actualizar la información del Registro de Personas Facilitadoras, con la inscripción de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, certificadas por el Poder Judicial.
 
-VIII. Expedir la cédula correspondiente a los especialistas inscritos en el registro respectivo.
+VIII. Participar en la elaboración de los programas de selección, ingreso, formación, capacitación, profesionalización y actualización de las personas servidoras públicas, adscritas al Centro Estatal, así como de las personas facilitadoras del ámbito privado y personas abogadas colaborativas.
 
-IX. Proponer al Consejo de la Judicatura los programas de selección, ingreso, formación, capacitación, profesionalización, actualización de los servidores públicos, adscritos al Centro Estatal y a las Subdirecciones Regionales y de especialistas independientes.
+IX. Vigilar el cumplimiento de las obligaciones de las personas servidoras públicas adscritas al Centro Estatal.
 
-X. Vigilar que la información generada en el Centro Estatal y en las Subdirecciones Regionales se encuentre debidamente registrada en los sistemas informáticos que para tal efecto apruebe el Consejo de la Judicatura.
+X. Certificar los documentos que obren en los archivos de la Dirección General.
 
-XI. Planear, programar, organizar, dirigir, supervisar y evaluar la administración de los recursos humanos, materiales, financieros e informáticos del Centro Estatal y de las Subdirecciones Regionales.
+XI. Recabar y remitir la información a la Plataforma Nacional de Personas Facilitadoras, para su debida actualización.
 
-XII. Proponer al Pleno del Consejo de la Judicatura, la reglamentación interna del Centro Estatal y de las Subdirecciones Regionales, así como las reformas a los mismos y a las demás disposiciones relacionadas directamente con la operación y funcionamiento del Centro Estatal y de las Subdirecciones Regionales.
+XII. Llevar a cabo la organización de las evaluaciones de Personas Facilitadoras, así como los actos necesarios para el procedimiento de certificación a cargo del Poder Judicial, de conformidad con los Lineamientos que al efecto expida el Consejo Nacional.
 
-XIII. Ejecutar los acuerdos del Consejo de la Judicatura, en relación con el Centro Estatal y las Subdirecciones Regionales.
+XIII. Participar en la aplicación de exámenes, en los concursos de oposición para seleccionar a las Personas Facilitadoras en los términos de los Lineamientos que para dichos efectos emita el Consejo Nacional.
 
-XIV. Rendir, dentro de los cinco primeros días de cada mes, un informe al Pleno del Consejo de la Judicatura y a la Dirección de Desarrollo e Infraestructura Tecnológica, sobre los asuntos que se inicien y concluyan por acuerdo de las partes en el propio Centro Estatal o en las Subdirecciones Regionales.
+XIV. Instrumentar políticas públicas, planes y programas de desarrollo, difusión y establecimiento de Mecanismos Alternativos, en los contextos sociales que se requiera y sea necesario.
 
-XV. Coadyuvar con la Oficialía Mayor del Consejo de la Judicatura con la información requerida para la elaboración del anteproyecto anual de egresos del Centro Estatal.
+XV. Dar aviso a la Plataforma Nacional de Personas Facilitadoras, de las sanciones impuestas, para su inscripción en el mismo
 
-XVI. Proponer al Pleno del Consejo de la Judicatura el establecimiento de Subdirecciones Regionales.
+XVI. Proponer al órgano competente del Poder Judicial los Lineamientos de Operación del Centro Estatal de Justicia Alternativa y de los Centros Privados, así como las reformas a los mismos y a las demás disposiciones relacionadas directamente con la operación y funcionamiento.
 
-XVII. Celebrar toda clase de actos jurídicos que permitan el cumplimiento de sus objetivos.
+XVII. Solicitar a las Direcciones Regionales del Centro Estatal el envío de la información que resulte necesaria para la integración de los reportes y estadísticas que deban ser rendidos.
 
-XVIII. Solicitar ante el Juez competente a petición de parte, la ejecución de los acuerdos, convenios y laudos derivados de sus funciones.
+XVIII. Rendir los informes ante los órganos administrativos que correspondan en los términos solicitados; los informes estadísticos sobre la actividad del Centro Estatal, serán remitidos dentro de los primeros cinco días de cada mes.
 
-XIX. Las demás establecidas en este Título, la ley correspondiente, el Reglamento del Centro y los acuerdos del Pleno del Consejo de la Judicatura.
+XIX. Proponer a la persona titular del Tribunal Superior de Justicia el establecimiento de Direcciones Regionales.
 
-### CAPÍTULO V. DE LAS SUBDIRECCIONES REGIONALES DEL CENTRO ESTATAL
+XX. Designar a la persona responsable de la actualización del Registro de Personas Facilitadoras y del Sistema de Convenios.
+
+XXI. Evaluar y supervisar el desempeño del Centro Estatal de Justicia Alternativa.
+
+XXII. Las demás atribuciones y deberes establecidos en demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2025)</small>
+
+### CAPÍTULO V. DE LAS DIRECCIONES REGIONALES DEL CENTRO ESTATAL
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 126.
 
-Las Subdirecciones Regionales dependerán jerárquicamente del Centro Estatal y su estructura la determinará la ley de la materia y el reglamento.
+Las Direcciones Regionales dependen del Centro Estatal, su estructura y funcionamiento serán determinadas por la ley de la materia y demás normativa aplicable, las cuales funcionarán en el ámbito territorial que establezca su acuerdo de creación.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 127.
 
-Para ser titular de las Subdirecciones Regionales se requiere:
+Para ser titular de las Direcciones Regionales del Centro Estatal, se deberán reunir los mismos requisitos que para ser titular de la Dirección General, lo mismo se observará en cuanto a su designación y temporalidad en el cargo.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
-
-I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos civiles y políticos.
-
-II. Tener cuando menos treinta años de edad, al día de su designación.
-
-III. Haber concluido la licenciatura en derecho, con título y cédula profesionales expedidos por autoridad o institución legalmente facultada para ello.
-
-IV. Acreditar cuando menos experiencia de cinco años en el ejercicio de la abogacía y con experiencia relacionada con la función del Centro Estatal, así como tener carrera judicial.
-
-V. Aprobar satisfactoriamente el curso de formación para conciliadores, mediadores y árbitros, y resultar electo mediante el procedimiento de oposición previsto en la ley respectiva.
-
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
-
-VI. Gozar de buena reputación.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### Artículo 128.
 
-Las personas titulares de las Subdirecciones Regionales del Centro Estatal tendrán las siguientes atribuciones:
+Las Direcciones Regionales del Centro Estatal de Justicia Alternativa, dentro del ámbito territorial de su competencia, tendrá las siguientes funciones:
 
-I. Rendir al Director General del Centro Estatal, un informe sobre los asuntos que se inicien y concluyan por acuerdo de las partes en la Subdirección a su cargo, dentro de los cuatro primeros días de cada mes.
+I. Conocer de las controversias que le planteen directamente los particulares, o las que le remitan los órganos jurisdiccionales, así como otras instituciones públicas o privadas.
 
-II. Asumir la dirección técnica de la Subdirección Regional que le corresponde, vigilando el cumplimiento de sus objetivos.
+II. Difundir los fines, funciones y logros del Centro Estatal de Justicia Alternativa.
 
-III. Determinar si los conflictos cuya solución se solicita a la Subdirección Regional a su cargo, son susceptibles de ser resueltos a través de los medios alternativos previstos en este código y, en su caso, designar al especialista que habrá de atenderlos.
+III. Elaborar investigaciones, análisis, estudios y diagnósticos relacionados con los mecanismos alternativos de solución de controversias.
 
-IV. Supervisar y autorizar los convenios celebrados por las partes, con el fin de verificar que no se afecten derechos irrenunciables, ni la equidad entre las partes.
+IV. Elaborar estadísticas relacionadas con el desempeño, resultados y efectividad de mecanismos alternativos de solución de controversias.
 
-V. Dar fe de los convenios celebrados entre las partes ante los especialistas de la Subdirección a su cargo.
+V. Vigilar que las actuaciones y funcionamiento de la Dirección Regional a su cargo, se ajusten a las disposiciones previstas en la normatividad de la materia.
 
-VI. Certificar los documentos que obren en los archivos de la Subdirección a su cargo.
+VI. Proporcionar la información accesible al público, respecto del trámite y ejercicio de mecanismos alternativos de solución de controversias.
 
-VII. Vigilar que la información generada en la Subdirección Regional a su cargo se encuentre debidamente registrada en los sistemas informáticos que para tal efecto apruebe el Consejo de la Judicatura.
+VII. Garantizar la accesibilidad y asequibilidad a los mecanismos alternativos de solución de controversias.
 
-VIII. Las demás establecidas en este Título, la ley correspondiente, su reglamento y los acuerdos del Pleno del Consejo de la Judicatura.
+VIII. Integrar y poner a disposición del público el directorio actualizado de personas facilitadoras en el ámbito público y privado de la demarcación.
 
-La adscripción y temporalidad de los Subdirectores Regionales, serán determinadas por el Consejo de la Judicatura, con base en las necesidades del servicio.
+IX. Promover, impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias.
+
+X. Coadyuvar en la implementación de programas, acciones y tareas en el ámbito de sus respectivas competencias en la materia.
+
+XI. Prestar asistencia técnica y consultiva a organismos públicos y privados, para el diseño y elaboración de políticas públicas y programas que contribuyan al mejoramiento del sistema de administración de justicia a través de los mecanismos alternativos de solución de controversias.
+
+XII. Remitir al Centro Estatal de Justicia Alternativa la información contenida en el Sistema de Convenios a su cargo, para la actualización del Sistema Nacional de Información de Convenios.
+
+XIII. Las demás que le atribuyan otras leyes, las que le instruya la persona titular del Tribunal Superior de Justicia y la del Centro Estatal de Justicia Alternativa.
 
 # LIBRO TERCERO. DEL CONSEJO DE LA JUDICATURA
 
@@ -2077,19 +2097,29 @@ XXXII. Ofertar estudios a los servidores públicos del Tribunal Superior de Just
 
 XXXIII. Supervisar que la aplicación y evaluación de los exámenes de oposición que se practiquen a las y los aspirantes de nuevo ingreso, se hagan con imparcialidad, objetividad y rigor académico, y que para quienes deseen promoverse a cargos superiores, en sus expedientes personales no obren quejas fundadas que demeriten los principios que imperan en la administración de justicia.
 
-XXXIV. Formar, capacitar, evaluar y certificar a los especialistas del Centro Estatal de Justicia Alternativa, y a especialistas independientes, encargados de conducir los procedimientos alternativos de solución de conflictos que este código prevé, de acuerdo a la capacidad que permita el presupuesto.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2025)</small>
 
-XXXV. Certificar a los profesionistas que acrediten haber cumplido los requisitos necesarios para conducir los medios alternativos de solución de conflictos previstos en este Código.
+XXXIV. Conformar el Órgano Instructor en Mecanismos Alternativos de Solución de Controversias, del Poder Judicial del Estado, designar a sus integrantes y emitir los lineamientos que contengan sus atribuciones y funciones.
 
-XXXVI. Autorizar la inscripción de los especialistas públicos e independientes, en el Registro de Especialistas a cargo del Centro Estatal.
+XXXV. (DEROGADA, P.O. 27 DE ENERO DE 2025)
 
-XXXVII. Aprobar, autorizar y emitir los acuerdos necesarios para la designación de mediadores, conciliadores y árbitros del Centro Estatal.
+XXXVI. (DEROGADA, P.O. 27 DE ENERO DE 2025)
 
-XXXVIII. Llevar a cabo el procedimiento, previamente acordado por el Pleno del Consejo, para la aplicación de exámenes, en los concursos de oposición para seleccionar a especialistas que brinden sus servicios en el Centro Estatal y en las Subdirecciones Regionales.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2025)</small>
 
-XXXIX. Autorizar, vigilar y evaluar la administración de los recursos humanos, materiales, financieros e informáticos del Centro Estatal y de sus Subdirecciones Regionales.
+XXXVII. Aprobar, autorizar y emitir los acuerdos necesarios para otorgar, negar, suspender, revocar o renovar la certificación de las personas facilitadoras públicas del Centro Estatal y de las personas abogadas colaborativas, que al efecto le sean propuestos por el Órgano Instructor de Mecanismos Alternativos de Solución de Controversias.
 
-XL. Operar los programas de selección, ingreso, formación, capacitación, profesionalización actualización de los servidores públicos adscritos al Centro Estatal y a las Subdirecciones Regionales.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2025)</small>
+
+XXXVIII. Solicitar que la Persona Facilitadora privada que haya obtenido una certificación, presente una garantía al inicio de sus funciones.
+
+El monto de la garantía será determinado de conformidad con el Acuerdo General que para tal efecto se emita y podrá otorgarse mediante billete de depósito, fianza, prenda, hipoteca o cualquier otra garantía legalmente constituida, designándose como beneficiario al propio Poder Judicial.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2025)</small>
+
+XXXIX. Autorizar, vigilar y evaluar la administración de los recursos humanos, materiales, financieros e informáticos del Centro Estatal.
+
+XL. (DEROGADA, P.O. 27 DE ENERO DE 2025)
 
 XLI. Expedir los reglamentos internos en materia administrativa, de contraloría interna, carrera judicial, escalafón, Visitaduría y régimen disciplinario del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
@@ -2815,7 +2845,7 @@ IV. Presentar a la Comisión de Carrera Judicial del Consejo de la Judicatura, l
 
 V. Promover eventos académicos relacionados con la ciencia del derecho, con el objeto de divulgar la cultura jurídica.
 
-VI. Formar y actualizar a los especialistas encargados de conducir los métodos alternativos de solución de conflictos.
+VI. (DEROGADA, P.O. 27 DE ENERO DE 2025)
 
 VII. Promover la suscripción de convenios con instituciones públicas o privadas, con actividades afines al derecho y adquisición bibliográfica.
 
@@ -3636,3 +3666,21 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
 
 Artículo Tercero. El Consejo de la Judicatura del Poder Judicial del Estado, llevará a cabo las acciones que sean necesarias para el debido cumplimiento del presente Decreto, en lo que le corresponda.
+
+P.O. 27 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 184 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+Artículo Tercero. La persona titular de la Dirección General del Centro Estatal de Justicia Alternativa continuará en sus funciones hasta agotar el plazo previsto en su nombramiento, esto de conformidad con el Artículo Transitorio Décimo Segundo de la Ley General de Mecanismos Alternativos de Solución de Controversias.
+
+Artículo Cuarto. La persona titular del Tribunal Superior de Justicia del Poder Judicial, deberá expedir los nombramientos de las personas titulares de las Direcciones Regionales del Centro Estatal de Justicia Alternativa, en un plazo que no exceda de 30 días posteriores a la entrada en vigor del presente Decreto. En tanto se expidan dichos nombramientos, las personas titulares de las Subdirecciones Regionales del Centro Estatal continuarán desempeñando sus funciones.
+
+Artículo Quinto. Conformar el Órgano Instructor en Mecanismos Alternativos de Solución de Controversias en un plazo que no exceda de 60 días hábiles posteriores a la publicación del presente Decreto.
+
+Artículo Sexto. En un plazo máximo de un año, contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir o adecuar la legislación que regule los procedimientos que establezcan los medios alternativos de solución de controversias, llevados a cabo por los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, así como de los Juzgados Municipales del Tribunal Superior de Justicia; hasta en tanto se seguirán rigiendo por la Ley de Justicia Alternativa del Estado de Chiapas.
+
+Artículo Séptimo. El Poder Judicial del Estado llevará a cabo las acciones que sean necesarias para el debido cumplimiento al presente Decreto.
