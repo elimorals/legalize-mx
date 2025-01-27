@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-fideicomiso-para-el-desarrollo-de-143843
 country: "mx"
 rank: "codigo"
 publication_date: "2020-08-20"
-last_updated: "2020-08-20"
+last_updated: "2025-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO PARA EL DESARROLLO DE PARQUES Y ZONAS INDUSTRIALES EN EL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL FIDEICOMISO PARA EL DESARROLLO DE PARQUES Y ZONAS INDUSTRIALES EN EL ESTADO DE MÉXICO, FIDEPAR, PUBLICADO EN EL G.G. DE 27 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO PARA EL DESARROLLO DE PARQUES Y ZONAS INDUSTRIALES EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025 (ABROGADO).
 
 Código publicado en la Sección Primera del Número 37 de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2020.
 
@@ -558,3 +560,17 @@ LIC. EDGAR ARTURO CHÁVEZ SÁNCHEZ
 DIRECTOR GENERAL DEL FIDEICOMISO PARA EL DESARROLLO DE PARQUES Y ZONAS INDUSTRIALES EN EL ESTADO DE MÉXICO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL FIDEICOMISO PARA EL DESARROLLO DE PARQUES Y ZONAS INDUSTRIALES EN EL ESTADO DE MÉXICO, FIDEPAR”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta de fecha 06 de noviembre de 2019, el cual fue aprobado en la Octava Sesión Extraordinaria del Comité de Ética de FIDEPAR.
+
+CUARTO. El presente Código de Conducta y las Reglas de Integridad de FIDEPAR, se aprobaron en la Vigésima Séptima Sesión Ordinaria del Comité de Ética del Fideicomiso para el Desarrollo de Parques y Zonas Industriales en el Estado de México, FIDEPAR, de fecha 16 del mes diciembre del 2024.
