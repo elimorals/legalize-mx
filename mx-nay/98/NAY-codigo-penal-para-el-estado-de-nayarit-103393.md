@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2024-12-23"
+last_updated: "2025-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -4245,7 +4245,7 @@ Al que instigue o ayude a otro al suicidio se le impondrá sanción de tres a di
 
 El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, será sancionado con prisión de tres meses a dos años de prisión y multa hasta de diez días.
 
-### CAPÍTULO VIII. ABORTO
+### CAPÍTULO VIII. DE LA INTERRUPCIÓN DEL EMBARAZO
 
 ###### ARTÍCULO 366.
 
@@ -4257,35 +4257,57 @@ Al que prive de la vida a cualquier ascendiente consanguíneo, en línea recta o
 
 Al que prive de la vida a un descendiente consanguíneo en línea recta o a su hijo adoptivo, sabiendo el delincuente ese parentesco, se le aplicarán de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2025)</small>
+
 ### CAPÍTULO I. ROBO
 
 ###### ARTÍCULO 368.
 
-Aborto es la interrupción del embarazo en cualquier momento de la preñez.
+(DEROGADO, P.O. 27 DE ENERO DE 2025)
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 369.
 
-Se impondrá de cuatro meses a un año de prisión y multa hasta de veinte días, a la madre que voluntariamente procure un aborto o consienta en que otro la haga abortar dentro de los primeros tres meses de embarazo.
+Se impondrán de tres a seis meses de prisión y multa de hasta de (sic) veinte días, a la persona gestante que, voluntariamente procure la interrupción de un embarazo o consienta en que otra persona lo practique después de las doce semanas de embarazo. En este caso no será punible la tentativa.
 
-Cuando el aborto se practique después de los tres meses de embarazo, se aplicará de uno a tres años de prisión y multa de veinte a cincuenta días.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
-La sanción prevista en el párrafo anterior se aplicará al que haga abortar a una mujer a solicitud de ésta en las mismas condiciones, con tal que no se trate de un abortador de oficio o de persona ya condenada por ese delito, pues en tal caso la sanción será de uno a cuatro años de prisión y multa hasta de cincuenta días.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
-Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de cinco a diez años y multa hasta de cincuenta días, y si mediare violencia física o moral, de seis a doce años de prisión y multa hasta de sesenta días.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 370.
 
-Si el aborto lo causare un médico cirujano o partera, además de las sanciones que le corresponden conforme al artículo anterior, se le suspenderá de cuatro a diez años en el ejercicio de su profesión u oficio.
+Comete la interrupción forzada del embarazo quien la ocasiona en cualquier momento del proceso, sin el consentimiento de la persona gestante.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
+
+A quien cometa esta conducta, se le impondrán de cinco a diez años de prisión y multa de hasta cincuenta días. En este caso, podrá ser sancionado el grado de tentativa, en los términos dispuestos por el presente Código.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
+
+Cuando mediare violencia física o moral, se impondrán de seis a doce años de prisión y multa hasta de sesenta días.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 371.
 
-No es punible el aborto culposo causado por la mujer embarazada, ni cuando el embarazo sea resultado de una violación.
+La interrupción del embarazo después de las doce semanas, no será punible en los supuestos siguientes:
+
+I. El embarazo sea resultado de una violación;
+
+II. Cuando de no provocarse la interrupción del embarazo, la persona gestante, corra peligro de muerte o afectación grave a su salud, y
+
+III. Cuando exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales graves, siempre que se tenga el consentimiento de la persona gestante.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 372.
 
-No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+Si la interrupción forzada del embarazo lo causa un médico, enfermero o partero, además de las sanciones previstas, se les impondrá suspensión de tres a siete años en el ejercicio de su profesión o actividad y la privación de esta en caso de habitualidad.
 
 ### CAPÍTULO II. ABIGEATO
 
@@ -5422,3 +5444,13 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS NUMERALES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE INTERRUPCIÓN DEL EMBARAZO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones, en lo que resulten contrarias al presente Decreto.
+
+TERCERO. En un plazo no mayor de 180 días deberán realizarse las adecuaciones normativas a efecto de estar en condiciones (sic) atender lo dispuesto en el presente Decreto.
