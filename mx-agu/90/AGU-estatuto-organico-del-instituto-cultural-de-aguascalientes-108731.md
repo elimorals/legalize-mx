@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2023-08-28"
+last_updated: "2025-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -1435,7 +1435,9 @@ Los acuerdos, circulares y demás disposiciones emitidas previamente a la entrad
 
 Las diversas Direcciones, contarán con un plazo de treinta días naturales para asumir las atribuciones que les han sido señaladas en las reformas al Estatuto Orgánico y que a la fecha se encuentren siendo atendidas por otras áreas.
 
-Se entiende que las facultades y competencias establecidas con anterioridad en el presente Estatuto Orgánico así como en los diversos Lineamientos, Acuerdos, Manuales y demás normas que deriven del presente ordenamiento sobre la Dirección de Educación Artística Básica, ahora se entenderán atribuidas a la Dirección de Educación Artística y Casas de la Cultura.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+
+Se entiende que las facultades y competencias establecidas con anterioridad en el presente Estatuto Orgánico así como en los diversos Lineamientos, Acuerdos, Manuales y demás normas que deriven del presente ordenamiento sobre la Dirección de Educación Artística Básica, ahora se entenderán atribuidas a la Dirección de Enseñanza Artística y Casas de la Cultura.
 
 P.O. 14 DE MAYO DE 2018.
 
@@ -1516,3 +1518,23 @@ A partir de la entrada en vigor de las presentes reformas, el Instituto Cultural
 P.O. 28 DE AGOSTO DE 2023.
 
 > <small>[N. DE E. LA “REFORMA DEL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
+
+P.O. 27 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente reforma, de igual o menor jerarquía.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la persona titular de la Dirección General del Instituto Cultural de Aguascalientes, llevar a cabo las acciones necesarias para la inscripción de la presente reforma al Estatuto Orgánico del Instituto Cultural de Aguascalientes, ante el Registro Público de Entidades Paraestatales respectivo del Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de las presentes reformas, el Instituto Cultural de Aguascalientes deberá realizar las adecuaciones normativas y administrativas correspondientes en un término de 180 días.
