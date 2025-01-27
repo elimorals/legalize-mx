@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-justicia-alternativa-del-estado-de-chiapas-68452"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2014-11-27"
+last_updated: "2025-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 27 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -1002,3 +1004,31 @@ Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de s
 Artículo Segundo.- Los procedimientos en materia penal que a la entrada en vigor del Código Nacional de Procedimientos Penales continúen en trámite ante el Centro Estatal de Justicia Alternativa, continuarán su sustanciación de conformidad con la legislación aplicable en el momento de inicio de los mismos.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE ENERO DE 2025
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 185 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga la Ley de Justicia Alternativa del Estado de Chiapas, publicada en el Periódico Oficial número 151, Segunda Sección, Tomo III, de fecha 18 de marzo de 2009.
+
+Artículo Tercero. Los procedimientos iniciados en el Centro Estatal de Justicia Alternativa, con anterioridad a la entrada en vigor del presente Decreto, continuarán su tramitación de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Artículo Cuarto. Las dependencias normativas y los órganos correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el cumplimiento del presente Decreto.
+
+Artículo Quinto. El Poder Judicial del Estado de Chiapas y el Tribunal Administrativo, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para la creación y funcionamiento de los Registros de Personas Facilitadoras y Sistemas de Convenios, respectivos.
+
+Artículo Sexto. La información que a la entrada en vigor del presente Decreto obre en los sistemas electrónicos, bases de datos y registros del Centro Estatal de Justicia Alternativa, formará parte de sus sistemas informáticos como memoria histórica y deberá preservarse de conformidad con lo dispuesto en la Ley de la materia y demás disposiciones que resulten aplicables.
+
+Artículo Séptimo. Las certificaciones expedidas a las personas especialistas públicas, previo a la entrada en vigor continuarán vigentes hasta en tanto el Poder Judicial emita lo que corresponda para cumplir con los requisitos de certificación de Personas Facilitadoras, previsto en esta Ley.
+
+Artículo Octavo. Las certificaciones expedidas a las personas especialistas independientes previo a la entrada en vigor del presente Decreto, seguirán siendo vigentes hasta su vencimiento.
+
+Artículo Noveno. En caso de que haya concluido la vigencia de la certificación de las personas Especialistas Independientes y el Poder Judicial no emita la convocatoria que corresponda para la renovación o recertificación en los términos previstos en esta Ley, esta continuará vigente hasta en tanto se lleven a cabo los actos y procedimientos dispuestos para tal fin.
+
+Artículo Décimo. El Poder Judicial, a propuesta del Centro Estatal de Justicia Alternativa, expedirá dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, los Lineamientos de Operación del Centro Estatal de Justicia Alternativa.
+
+Artículo Décimo Primero. El Tribunal Administrativo conformará al Órgano Instructor en Mecanismos Alternativos de Solución de Controversias en un plazo que no exceda de 60 días posteriores a la publicación del presente Decreto.
+
+Artículo Décimo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
