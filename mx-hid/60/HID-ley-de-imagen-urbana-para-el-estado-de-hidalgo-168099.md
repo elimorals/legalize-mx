@@ -4,7 +4,7 @@ identifier: "HID-ley-de-imagen-urbana-para-el-estado-de-hidalgo-168099"
 country: "mx"
 rank: "ley"
 publication_date: "2023-10-05"
-last_updated: "2023-10-05"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE IMAGEN URBANA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Alcance dos del Periódico Oficial del Estado de Hidalgo, el jueves 5 de octubre de 2023.
 
@@ -153,7 +153,9 @@ I.- Regular, preservar y mejorar la Imagen Urbana;
 
 II.- Promover con la población, el cuidado, mantenimiento, conservación y mejora que genere una cultura sobre el valor de la Imagen Urbana, que permita una identidad y orgullo de pertenencia, así como un atractivo para visitantes y turistas;
 
-III.- Impulsar la mejora de la Imagen Urbana con la participación de especialistas en la materia, a través de las asociaciones de profesionistas, organizaciones afines y la sociedad, fomentando la creación o rehabilitación de espacios de uso común;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+III.- Impulsar la mejora de la Imagen Urbana con la participación de especialistas en la materia, a través de las asociaciones de profesionistas, organizaciones afines y la sociedad, fomentando la creación y rehabilitación de espacios urbanos ordenados, abiertos y sostenibles;
 
 IV.- Crear las Juntas de Mejora;
 
@@ -942,3 +944,11 @@ DEL ESTADO DE HIDALGO.
 LIC. JULIO RAMÓN MENCHACA SALAZAR
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2025.
+
+[N. D E. TRANSITOROS DEL “DECRETO NÚM. 24 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5 A LA LEY DE IMAGEN URBANA PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESPACIOS URBANOS ORDENADOS, ABIERTOS Y SOSTENIBLES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
