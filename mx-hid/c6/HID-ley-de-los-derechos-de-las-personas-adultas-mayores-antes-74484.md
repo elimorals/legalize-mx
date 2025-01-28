@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2024-09-17"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -307,9 +307,9 @@ XIX.- Derecho a la participación en programas de activación física: La person
 
 XX.- Derecho a la independencia y a la autonomía.- La persona adulta mayor tiene derecho a desarrollar una vida autónoma e independiente, tomar decisiones con plena libertad, a la definición de su plan de vida y a la autorrealización, conforme a sus tradiciones y creencias, en igualdad de condiciones;
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-XXI.- Derecho de acceso a la cultura.- La persona adulta mayor tiene derecho a participar en la vida cultural del Estado, al disfrute de los bienes y servicios culturales, así como a una identidad cultural; a transmitir sus conocimientos, habilidades y experiencias en el ámbito cultural y artístico, en cualquiera de los contextos que se desarrolle;
+XXI.- Derecho de acceso a la cultura.- La persona adulta mayor tiene derecho a participar en la vida cultural del Estado, al disfrute de los bienes y servicios culturales, así como a una identidad cultural; asimismo tiene derecho a participar de los beneficios del progreso científico y tecnológico y a transmitir sus conocimientos, habilidades y experiencias en el ámbito científico, cultural y artístico, en cualquiera de los contextos que se desarrolle;
 
 > <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
 
@@ -637,6 +637,8 @@ XIX.- Canalizar a las personas adultas mayores en situación de vulnerabilidad s
 
 XX.- Las demás que le confiera esta Ley y otras disposiciones en (sic) aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 22.
 
 En cuanto a la preservación y fomento de los derechos derivados de la educación a favor de los adultos mayores, corresponde al Sistema de Educación Pública de Hidalgo:
@@ -650,6 +652,10 @@ III.- Impulsar su participación en eventos culturales, recreativos y deportivos
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
 IV.- Dirigir programas a la población en general con la finalidad de crear una cultura de respeto y aprecio hacia la persona adulta mayor;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+IV Bis.- Implementar actividades educativas y recreacionales en las que las personas mayores puedan transmitir sus conocimientos y experiencias, con el objetivo de propiciar el diálogo intergeneracional;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -677,15 +683,29 @@ IX.- Garantizar en todo momento la libre opción de integrarse a las actividades
 
 A la Secretaría de Cultura le corresponde:
 
-I.- Facilitar el acceso a la cultura de las personas adultas mayores, promoviendo su expresión a través de talleres, exposiciones, concursos y eventos comunitarios en el Estado;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+I.- Facilitar el acceso a la cultura de las personas adultas mayores y diseñar programas dirigidos a promover su expresión a través de talleres, exposiciones, concursos y eventos comunitarios en el Estado, destacando su potencial creativo, artístico e intelectual;
 
 II.- Establecer los convenios ante las Instancias correspondientes para promover el acceso gratuito o con descuentos especiales a eventos culturales y artísticos que organice el Estado, los Municipios y la iniciativa privada, previa acreditación de edad;
 
 III.- Fomentar programas culturales y concursos dirigidos a las personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
 
-IV.- Incentivar a través de programas y acciones de reconocimiento y estímulo, los aportes de las personas adultas mayores a las diferentes expresiones artísticas y culturales; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-V.- Fomentar entre la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de los adultos mayores.
+IV.- Incentivar a través de programas y acciones de reconocimiento y estímulo, los aportes de las personas adultas mayores a las diferentes expresiones artísticas y culturales;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+V.- Fomentar entre la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de los adultos mayores;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VI.- Promover ante los municipios el uso de espacios públicos para la realización de actividades culturales y artísticas de las personas adultas mayores, y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VII.- Promover la participación de las organizaciones de personas adultas mayores en la planificación, realización y divulgación de proyectos culturales.
 
 ###### Artículo 23.
 
@@ -1194,3 +1214,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1121 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 32 TER DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 187 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN Y PARTICIPACIÓN ACTIVA DE PERSONAS ADULTAS MAYORES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
