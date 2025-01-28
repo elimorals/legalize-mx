@@ -4,7 +4,7 @@ identifier: "HID-ley-de-archivos-para-el-estado-de-hidalgo-139130"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-18"
-last_updated: "2024-08-20"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Número 46 del Periódico Oficial del Estado de Hidalgo, el lunes 18 de Noviembre de 2019.
 
@@ -1281,17 +1281,19 @@ El presidente o (sic) a propuesta de alguno de los integrantes del Órgano de Go
 
 Los integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2025)</small>
 
-### CAPÍTULO III. DEL DIRECTOR GENERAL
+### CAPÍTULO III. DE LA PERSONA TITULAR DE LA DIRECCIÓN GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
 
 ###### Artículo 100.
 
-El Director General del Archivo General del Estado será nombrado por el Gobernador del Estado y deberá cubrir los siguientes requisitos:
+La persona titular de la Dirección General del Archivo General del Estado será nombrada por el Gobernador o Gobernadora del Estado y deberá cubrir los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-I. Ser ciudadano mexicano por nacimiento;
+I. Contar con ciudadanía mexicana;
 
 II. Poseer, al día de la designación, preferentemente el grado académico de maestro en ciencias sociales o humanidades, expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de cinco años en materia archivística;
 
@@ -1303,11 +1305,13 @@ V. No ser cónyuge, ni tener relación de parentesco por consanguinidad hasta el
 
 VI. No haber sido Secretario de Estado, Procurador General de Justicia, Senador, Diputado Federal o Local, dirigente de un partido o agrupación política, Gobernador de algún estado o Jefe de Gobierno de la Ciudad de México, durante el año previo al día de su nombramiento.
 
-Durante su gestión, el Director General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+Durante su gestión, la persona titular de la Dirección General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
 
-Para el adecuado ejercicio de sus funciones, el Director General contará con aquellas facultades establecidas en la Ley de Entidades Paraestatales del Estado de Hidalgo y en el estatuto orgánico del Archivo General del Estado.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Para el adecuado ejercicio de sus funciones, la persona titular de la Dirección General contará con aquellas facultades establecidas en la Ley de Entidades Paraestatales del Estado de Hidalgo y en el estatuto orgánico del Archivo General del Estado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE AGOSTO DE 2024)</small>
 
@@ -1520,3 +1524,9 @@ SÉPTIMO. El Órgano de Gobierno del Archivo General del Estado que comience a o
 OCTAVO. Los actos realizados por el Archivo General del Estado hasta antes de la entrada en vigor del presente Decreto continuarán su despacho conforme a la normatividad aplicable.
 
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal 2026 y los subsecuentes.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 191 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS PARA EL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD SUSTANTIVA Y NO DISCRIMINACIÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
