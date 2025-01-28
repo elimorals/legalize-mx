@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-09-17"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -93,13 +93,25 @@ V.- El pluralismo social y la multiculturalidad de las mujeres;
 
 VI.- La perspectiva de género;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VII.- La transversalidad; y
+VII.- La transversalidad;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VIII.- Enfoque diferencial y especializado.
+VIII.- El enfoque diferencial y especializado;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+IX.- La debida diligencia;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+X.- La interseccionalidad, y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XI.- La interculturalidad.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -132,6 +144,10 @@ II.- Cédula de Registro Único: Instrumento operado mediante un sistema inform�
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 II Bis.- Centro de Justicia para Mujeres del Estado de Hidalgo: Organismo público descentralizado de la administración pública estatal con personalidad jurídica y patrimonio propio que funge como espacio multidisciplinario e interinstitucional de naturaleza regional que brinda de manera gratuita atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+II Ter.- Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -847,7 +863,7 @@ XI. La colocación de localizadores electrónicos, previo consentimiento de la p
 
 XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
 
 XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
 
@@ -1021,7 +1037,9 @@ IV.- Brindar los servicios especializados y gratuitos para la atención y protec
 
 V.- Fomentar y apoyar programas de educación, destinados a sensibilizar y concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
 
-VI.- Diseñar programas de orientación y asesorías a víctimas que les permitan participar plenamente en el ámbito social y laboral;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VI.- Diseñar programas de orientación y asesorías a víctimas que les permitan participar plenamente en todos los ámbitos de la vida, incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
@@ -1051,7 +1069,7 @@ XIII.- Fomentar la armonización legislativa para erradicar la discriminación y
 
 XIV.- Institucionalizar la Ruta de atención integral a mujeres en situación de violencia de género que deberán cumplir las dependencias y entidades de la administración pública estatal y municipal de Hidalgo y el uso del sistema de referencia y contrarreferencia y de la Cédula de Registro Único.
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
 
 XV.- Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
 
@@ -1059,7 +1077,7 @@ XV.- Realizar estudios sobre los efectos de la violencia y la discriminación in
 
 XVI.- Promover el desarrollo, implementación y evaluación de los proyectos para la creación, fortalecimiento y operación del Centro de Justicia para las Mujeres en las regiones del Estado, y
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
 
 XVII.- Difundir la oferta institucional de servicios especializados que brinde el Centro de Justicia para Mujeres del Estado de Hidalgo en los municipios de la Entidad.
 
@@ -2446,3 +2464,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1101 POR EL QUE SE ADICIONA EL ARTÍCULO 16 TER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE PRINCIPIOS RECTORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
