@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2024-11-11"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -168,6 +168,10 @@ XXIII. Representación Coadyuvante: El acompañamiento jurídico a niñas, niño
 XXIV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de acuerdo a las disposiciones aplicables;
 
 XXV. Representación en Suplencia: Representación jurídica de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, a falta de quien ejerza la patria potestad o tutela, o cuando por otra causa así lo determine la autoridad correspondiente, quedando ésta a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público y a la Comisión Ejecutiva Estatal de Atención a Víctimas;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XXV Bis. Resolución en Formato de Lectura Fácil: Aquellos pronunciamientos de fondo emitidos por la autoridad administrativa y/o judicial que utilicen un lenguaje cotidiano, simple y directo, adecuando el texto según las necesidades del niño, niña o adolescente, evitando tecnicismos o conceptos abstractos;
 
 XXVI. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Michoacán;
 
@@ -1149,9 +1153,9 @@ Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad ju
 
 Las autoridades estatales que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños y adolescentes estarán obligadas a:
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-I. Garantizar la protección y prevalencia del interés superior de la niñez y adolescencia, así como su derecho a vivir en familia, sobre formalismos procesales. En todo momento, las autoridades administrativas, jurisdiccionales y ministeriales priorizarán el derecho a vivir en familia de los menores de edad y en caso de conflicto u obstaculización a ese derecho tomarán las medidas necesarias para corregir de inmediato y sancionar a quien corresponda. Pobreza, pandemia o emergencia sanitaria, no son motivo para separar a niñas, niños o adolescentes de su madre, padre o familia, ni para restringir sus convivencias físicas. Durante los procedimientos jurisdiccionales los jueces son responsables de vigilar que las niñas, niños y adolescentes no sean utilizados como objetos de chantaje, presión o violencia entre las partes y para ello garantizarán que mantengan convivencia física con madres, padres y familiares de ambas partes, además de las medidas que consideren necesarias para proteger el derecho a vivir en familia;
+I. Garantizar la protección y prevalencia del interés superior de la niñez y adolescencia, así como su derecho a vivir en familia, sobre formalismos procesales. En todo momento, las autoridades administrativas, jurisdiccionales y ministeriales priorizarán el derecho a vivir en familia de los menores de edad y en caso de conflicto u obstaculización a ese derecho tomarán las medidas necesarias para corregir de inmediato y sancionar a quien corresponda. Pobreza, pandemia o emergencia sanitaria, no son motivo para separar a niñas, niños o adolescentes de su madre, padre o familia, ni para restringir sus convivencias físicas. Durante los procedimientos jurisdiccionales los jueces son responsables también de proporcionarles información clara, sencilla y entendible, incluyendo, las resoluciones de lectura fácil considerando siempre de acuerdo a su lengua cuando las mismas afecten su esfera jurídica. Y deberán vigilar que no sean utilizados como objetos de chantaje, presión o violencia entre las partes y para ello garantizarán que mantengan convivencia física con madres, padres y familiares de ambas partes; además de las medidas que consideren necesarias para proteger el derecho a vivir en familia;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -2584,3 +2588,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 A efecto de dar cumplimiento al presente Decreto, se concede al Titular del Poder Ejecutivo del Estado, 180 días hábiles para reformar, modificar y/o adecuar los reglamentos y manuales de operación de los centros de atención para niñas, niños y adolescentes.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 08 POR EL QUE “SE ADICIONA LA FRACCIÓN XXV BIS AL ARTÍCULO 5 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 52, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las sentencias que se encuentren en proceso y que estén interviniendo niñas, niños y adolescentes se les aplicará lo contemplado en el presente Decreto.
