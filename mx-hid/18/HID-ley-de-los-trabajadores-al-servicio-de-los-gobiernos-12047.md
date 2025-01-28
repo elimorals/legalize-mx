@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2024-07-15"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 626 PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -221,9 +219,9 @@ Los períodos de descanso a que se refiere el párrafo anterior se prorrogarán 
 
 Durante el período del embarazo y lactancia, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
-Durante el periodo de seis meses de lactancia establecido a partir de la fecha de nacimiento del hijo, las madres trabajadoras tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia, periodo que podrá ser prorrogado hasta los dos años de edad del menor, a solicitud expresa de la trabajadora. Asimismo, contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
+Durante el periodo de un año de lactancia establecido a partir de la fecha de nacimiento del hijo, las madres trabajadoras tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia, periodo que podrá ser prorrogado hasta los dos años de edad del menor, a solicitud expresa de la trabajadora. Asimismo, contarán con la capacitación y fomento para la promoción de lactancia materna y el amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -425,11 +423,19 @@ III. Los tiempos y formas de entrega de los productos resultado del trabajo a di
 
 ARTICULO 31 QUÁTER. En la modalidad de trabajo a distancia, los Titulares tendrán, además las siguientes obligaciones, las cuales deberán quedar especificadas en el adendum al contrato de trabajo vigente, que para el efecto se firme:
 
-I. Proveer de los útiles, instrumentos y materiales necesarios para la ejecución del trabajo, de acuerdo con las posibilidades presupuestales.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-El trabajador no será responsable por el desgaste natural que sufran los útiles, instrumentos y materiales de trabajo; y
+I.- Proveer de los útiles, instrumentos y materiales necesarios para la ejecución del trabajo, de acuerdo con las posibilidades presupuestales.
 
-II. Respetar los horarios y días reservados para el descanso y la vida personal de los trabajadores.
+El trabajador no será responsable por el desgaste natural que sufran los útiles, instrumentos y materiales de trabajo;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+II.- Respetar los horarios y días reservados para el descanso y la vida personal de los trabajadores, y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+III.- Respetar los horarios y periodos de las trabajadoras para amamantar a sus hijos o para realizar la extracción manual de leche, en un lugar adecuado e higiénico que designe la institución o dependencia.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -571,7 +577,9 @@ V.- Intervenir de cualquier forma en el régimen interno del sindicato y/o imped
 
 VI.- Portar armas en el interior de los establecimientos ubicados dentro de las poblaciones; y
 
-VII.- Despedir a una trabajadora o coaccionarla directa e indirectamente para que renuncie por estar embarazada, por cambio de estado familiar o por tener el cuidado de hijos menores.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VII.- Despedir a una trabajadora o coaccionarla directa e indirectamente para que renuncie por estar embarazada, por cambio de estado familiar, por tener el cuidado de hijos menores, por estar en periodo de lactancia, o por manifestar su intención de extender este periodo hasta por dos años contados a partir del nacimiento del lactante.
 
 ### CAPITULO V. OBLIGACIONES DE LOS TRABAJADORES
 
@@ -1588,5 +1596,11 @@ P.O. 19 DE ENERO DE 2024.
 P.O. 17 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 899 POR EL QUE SE REFORMA LOS ARTÍCULOS 62 Y 65 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 195 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LAS TRABAJADORAS A PERIODOS DE DESCANSO PARA LACTANCIA MATERNA.”]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
