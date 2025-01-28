@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2025-01-09"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -1029,7 +1029,9 @@ XXII.- Comisión de Protección Civil y Gestión Integral de Riesgos;
 
 XXIII.- Comisión de Asuntos Urbanos y Metropolitanos;
 
-XXIV.- Comisión de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XXIV.- Comisión de Humanidades, Ciencias, Tecnología e Innovación;
 
 XXV.- Comisión de Turismo;
 
@@ -3050,3 +3052,9 @@ P.O. 9 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 17 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DEL ESTADO (SIC) LIBRE Y SOBERANO DE HIDALGO, Y DE SU REGLAMENTO, EN MATERIA DE DENOMINACIÓN DE COMISIONES Y DE PARLAMENTO METROPOLITANO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185 – LXVI POR EL QUE SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, Y EL ARTÍCULO 49 DE SU REGLAMENTO, EN MATERIA DE DENOMINACIÓN DE COMISIONES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
