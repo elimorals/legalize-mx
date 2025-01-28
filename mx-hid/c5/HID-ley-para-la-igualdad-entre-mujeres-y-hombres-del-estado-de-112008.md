@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2024-09-17"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -105,13 +105,13 @@ En lo no previsto en esta ley, se aplicarán en forma supletoria y en lo conduce
 
 La rectoría y operación de la política en materia de igualdad sustantiva en el Estado, estará a cargo del Ejecutivo Estatal, quien la ejercerá por medio del Instituto Hidalguense de las Mujeres, sujetándose a las disposiciones de la presente ley, en clara concordancia con la legislación nacional de la materia y los instrumentos internacionales suscritos y ratificados por el Estado Mexicano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
 ###### Artículo 5.
 
-Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en territorio del Estado de Hidalgo, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, creencia religiosa, opinión, preferencias sexuales o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta ley tutela.
+Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en territorio del Estado de Hidalgo, que por razón de su sexo, independientemente de su edad, género, color de piel, embarazo, estado civil, profesión, cultura, origen étnico o nacional, lengua o idioma, situación migratoria, condición social o económica, situación familiar, responsabilidad familiar, salud, creencia religiosa, opinión, preferencias sexuales o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta ley tutela.
 
-La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y las otras que regulen esta materia.
+La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Hidalgo y las otras que regulen esta materia.
 
 ###### Artículo 6.
 
@@ -992,3 +992,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1105 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE PRINCIPIOS RECTORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
