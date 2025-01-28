@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2024-09-17"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -325,6 +325,10 @@ XI.- Conducir la política estatal e instrumentar las acciones de promoción y c
 
 XII.- Impulsar, fomentar, promover y ofrecer asistencia técnica, para la creación, el desarrollo y operación de las micro, pequeñas y medianas empresas turísticas;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XII Bis.- Promover, en coordinación con los municipios, así como con las entidades y operadores del sector turístico, la inclusión y participación activa de personas adultas mayores en actividades productivas y de valor añadido, que les permitan compartir y aprovechar su conocimiento de la historia, tradiciones, patrimonio cultural y experiencias de vida, con el objetivo de enriquecer la oferta turística y fortalecer el sentido de identidad local;
+
 XIII.- Proponer, a las instancias responsables, la puesta en marcha de instrumentos de financiamiento que favorezcan la actividad productiva en el sector;
 
 XIV.- Promover, en coordinación con las autoridades competentes, la imagen de Hidalgo como marca turística;
@@ -537,6 +541,10 @@ IX.- Participar en el diseño, instrumentación, ejecución y evaluación de los
 
 X.- Apoyar y participar con el Gobierno Estatal, en las acciones de promoción turística del Municipio;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+X Bis.- Implementar, en coordinación con instancias del sector turístico, programas y acciones orientados a la inclusión de personas adultas mayores en actividades turísticas y culturales que les permitan compartir y aprovechar sus conocimientos sobre historia, tradiciones y cultura local, fomentando su participación activa y contribuyendo al fortalecimiento del patrimonio cultural del municipio;
+
 XI.- Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
 
 XII.- Emitir opinión ante las instancias correspondientes, y ejecutar las acciones que conforme al marco jurídico vigente le correspondan, cuando concurran dentro de su territorio proyectos de desarrollo turístico o relacionados con el sector;
@@ -551,9 +559,13 @@ XIV.- Recibir y canalizar las quejas de los turistas nacionales y extranjeros, p
 
 XIV Bis.- Promover e impulsar, con la máxima difusión a las micro, pequeñas y medianas empresas turísticas que se encuentran dentro de su territorio;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-XIV Ter.- Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan; y
+XIV Ter.- Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XIV Quater.- Adherirse al Código de Conducta Nacional para la Protección de las Niñas, Niños y Adolescentes en el Sector de los Viajes y el Turismo (CCN), y realizar acciones de manera coordinada con la Secretaría, con el objetivo de prevenir la explotación sexual y el trabajo infantil, y
 
 XV.- Las demás previstas en éste y otros ordenamientos vigentes aplicables.
 
@@ -1183,6 +1195,10 @@ VIII.- Expedir en toda operación y aún sin solicitud del turista, factura deta
 
 IX.- Promover la participación de sus trabajadores y empleados en los programas de profesionalización y certificación de competencias, en los términos de las Leyes respectivas;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+IX Bis.- Fomentar la incorporación de personas adultas mayores a las actividades productivas del sector;
+
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 X.- Realizar las modificaciones necesarias a los inmuebles, edificaciones y servicios turísticos que permitan la accesibilidad a toda persona de cualquier condición;
@@ -1484,3 +1500,15 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1103 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 186 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XIV QUATER AL ARTÍCULO 9 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE PREVENCIÓN DE LA EXPLOTACIÓN SEXUAL Y LABORAL DE LA NIÑEZ Y ADOLESCENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 187 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN Y PARTICIPACIÓN ACTIVA DE PERSONAS ADULTAS MAYORES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
