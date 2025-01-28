@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2024-09-17"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -267,9 +267,11 @@ VIII. El acceso libre a las bibliotecas públicas; y
 
 IX. El aprovechamiento de la infraestructura cultural, con espacios y servicios adecuados para hacer un uso intensivo de la misma.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 8.
 
-La Secretaría y los Gobiernos Municipales, en el ámbito de su competencia promoverán el ejercicio de derechos culturales de las personas con discapacidad con base en los principios de igualdad y no discriminación.
+La Secretaría y los Gobiernos Municipales, en el ámbito de su competencia promoverán el ejercicio de derechos culturales de las personas adultas mayores, las personas con discapacidad y de todas aquellas pertenecientes a grupos de atención prioritaria, con base en los principios de igualdad y no discriminación.
 
 ###### Artículo 9.
 
@@ -714,6 +716,18 @@ La descentralización de la gestión cultural hacia los municipios, se basa en e
 Para impulsar programas y proyectos de desarrollo, la Secretaría, los Gobiernos Municipales y los agentes culturales, podrán suscribir convenios de coordinación en los que acuerden crear infraestructura cultural, participando conjuntamente en su administración, financiamiento y organización en el marco de la descentralización de los bienes y servicios culturales.
 
 Del mismo modo podrán convenir la operación de programas y proyectos en todas las vertientes de la política cultural que determinen, entre ellos, la educación artística, la red estatal de bibliotecas, la infraestructura cultural, que incluye museos, las galerías, los teatros y salas de lectura.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+###### Artículo 27 Bis.
+
+La presente Ley reconoce el papel de las personas agentes culturales en el desarrollo cultural del Estado; quienes, para el ejercicio de sus actividades señaladas en la fracción II del artículo 4, contarán con los siguientes derechos:
+
+I. Ser incluidas en las actividades de investigación, reflexión, formación, capacitación y divulgación relativas a la cultura en el estado de Hidalgo.
+
+II. Podrán ser consultadas en la elaboración de los planes, programas y acciones en materia de arte y cultura.
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, definirán y vigilarán los mecanismos para garantizar el cumplimiento de estos derechos.
 
 ###### Artículo 28.
 
@@ -1264,3 +1278,15 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1116 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE CULTURA (SIC) DERECHOS CULTURALES DEL ESTADO DE HIDALGO Y LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 187 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN Y PARTICIPACIÓN ACTIVA DE PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 188 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE PERSONAS AGENTES CULTURALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
