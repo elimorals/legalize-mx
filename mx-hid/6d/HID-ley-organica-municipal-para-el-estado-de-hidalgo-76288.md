@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-10-15"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -129,11 +129,13 @@ II TER. Gobierno Digital: Modelo que incorpora al trabajo gubernamental las tecn
 
 III.- Presidente o Presidenta Municipal: persona Integrante del Ayuntamiento y autoridad responsable de la ejecución y comunicación de las disposiciones y acuerdos del Ayuntamiento y quien tiene su representación administrativa y en algunos casos la jurídica;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-IV.- Síndicos o Sindicaturas: Personas integrantes del Ayuntamiento encargadas de vigilar los aspectos financiero y jurídico del mismo;
+IV. Síndicos o sindicaturas: Personas integrantes del Ayuntamiento, principalmente encargadas de vigilar los aspectos financieros y jurídicos del mismo, cuyas atribuciones están reguladas por esta Ley y por los ordenamientos y disposiciones municipales aplicables;
 
-V.- Síndicos: Integrantes del Ayuntamiento encargados de vigilar los aspectos financiero y jurídico del mismo;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+V. Regidores o regidurías: Personas integrantes del Ayuntamiento, cuyas atribuciones están reguladas por esta Ley y por los ordenamientos y disposiciones municipales aplicables;
 
 VI.- Servicios Públicos: Actividades que desarrollan los Municipios para satisfacer las necesidades de la ciudadanía en general. Tarea asumida por una dependencia pública;
 
@@ -659,11 +661,11 @@ Si el servidor público entrante, no procediera de conformidad al párrafo anter
 
 La entrega del despacho y de los asuntos en trámite encomendados al servidor público saliente, no lo exime de las responsabilidades que hubiera incurrido en términos de Ley.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 43.
 
-Todos los funcionarios del Municipio al tomar posesión de sus cargos, rendirán la protesta de fiel desempeño de ellos, ante el Presidente o Presidenta Municipal. En igual forma lo harán las autoridades auxiliares como los Delegados y Subdelegados, ante el Presidente o Presidenta Municipal o el funcionario Municipal designado por estos.
+Todas las personas servidoras públicas del Municipio, al tomar posesión de sus cargos, rendirán la protesta de fiel desempeño de ellos, ante el Presidente o Presidenta Municipal. Las personas titulares de las delegaciones y subdelegaciones también rendirán protesta ante el Presidente o Presidenta Municipal, o ante la autoridad municipal designada por estos.
 
 ###### ARTÍCULO 44.
 
@@ -755,15 +757,23 @@ Los Ayuntamientos, en caso de emergencia nacional o estatal de carácter sanitar
 
 En las reuniones a distancia, se podrá hacer uso de la firma electrónica para firmar los acuerdos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+
+ARTÍCULO 49 BIS. Quienes integran los ayuntamientos tienen la obligación de asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento, tanto en Pleno como en comisiones, cuando hayan sido convocados previamente para tal efecto, salvo causa justificada, la cual comunicarán oportunamente a la persona titular de la Presidencia Municipal.
+
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-ARTÍCULO 49 BIS.- Quienes integran los ayuntamientos, tienen la obligación de asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento cuando hayan sido convocados previamente para tal efecto, salvo causa justificada la cual, comunicarán oportunamente a quien presida la titularidad de la Presidencia Municipal.
+La persona titular de la presidencia del ayuntamiento convocará por escrito a las sesiones del órgano de gobierno, debiendo ajuntar (sic) los documentos que sirvan de soporte a los asuntos que se abordarán en la sesión.
 
-La persona titular de la presidencia del ayuntamiento convocará por escrito a las sesiones del órgano de gobierno, debiendo ajuntar los documentos que sirvan de soporte a los asuntos que se abordarán en la sesión.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 Por regla general, las convocatorias deben entregarse a quienes están dirigidas, sin embargo, cuanto esto no sea posible, podrán hacerse a través de los medios físicos o electrónicos que cada integrante del ayuntamiento haya proporcionado y/o autorizado previamente.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 Cuando el destinatario o la destinataria de la convocatoria, se niegue a recibirla o firmarla, se asentará en ese documento la constancia respectiva y se procederá conforme al párrafo anterior, estableciendo el motivo por el cual no se pudo convocar por escrito y se dará vista al órgano interno de control.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 Las convocatorias a que se refiere este artículo, también deben publicarse en los medios de difusión oficiales del municipio.
 
@@ -783,17 +793,21 @@ IV.- Cuando se advierta que contravienen a las Leyes y Reglamentos aplicables.
 
 La ejecución de los acuerdos del Ayuntamiento es facultad exclusiva del Presidente Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### ARTÍCULO 52.
 
-Los Ayuntamientos deberán sesionar en pleno para conocer del ejercicio de las facultades de cada uno de sus integrantes, pero no podrán oponerse al desempeño de éstas, sin causa justificada.
+Los Ayuntamientos deberán sesionar en Pleno o en comisiones para conocer del ejercicio de las facultades de cada uno de sus integrantes, pero no podrán oponerse al desempeño de éstas, sin causa justificada.
 
 Las sesiones de los Ayuntamientos, constarán en un libro de actas, en el que se registre un extracto de los asuntos tratados, el resultado y sentido de la votación.
 
 Cuando se refieran a normas de carácter general que sean de observancia Municipal o reglamentos, se harán constar íntegramente en el libro de actas, las que deberán ser firmadas en ambos casos por los miembros del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
 
-ARTÍCULO 52 BIS.- Quienes integran los ayuntamientos, tienen la obligación de registrar su asistencia para los efectos de comprobar el quórum de las sesiones en que participen, así mismo, deberán firmar las actas de las sesiones en las que intervengan.
+ARTÍCULO 52 BIS. - Quienes integran los ayuntamientos tienen la obligación de registrar su asistencia para los efectos de comprobar el quórum de las sesiones en que participen y de permanecer en ellas hasta su conclusión. Así mismo, deberán firmar las actas de las sesiones en las que intervengan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Quien presida la Secretaria General Municipal, podrá dejar constancia de hechos y certificación de documentos en el desarrollo de las sesiones del Ayuntamiento.
 
@@ -875,7 +889,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 c).- Los reglamentos que expidan los Ayuntamientos podrán, según sus necesidades y recursos con que cuenten, contemplar el establecimiento de unidades de apoyo técnico en cada una de sus principales dependencias y tendrán como referente las que dispone la presente Ley.
 
-Así mismo, podrán establecer un sistema de profesionalización de recursos humanos, a través del desarrollo de metodologías de selección, capacitación y evaluación de funcionarios, a efecto de propiciar una mayor eficiencia y eficacia en el cumplimiento de sus funciones;
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Así mismo, podrán establecer un sistema de profesionalización de recursos humanos, a través del desarrollo de metodologías de selección, capacitación, evaluación del personal y certificación de competencias laborales, a efecto de propiciar una mayor eficiencia y eficacia en el cumplimiento de sus funciones;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2011)</small>
 
@@ -1037,7 +1053,9 @@ jj).- Previa aprobación de sus miembros, llamar a comparecer a cualquier person
 
 II.- Asimismo, podrán:
 
-a).- Convenir con el Estado, Instituciones de Educación Superior, otros municipios, organismos especializados y de consultoría, el diseño y realización de programas y acciones para el desarrollo y profesionalización de su personal; a fin de cumplir con este propósito, también deberán dotar a las dependencias de la Administración Pública Municipal de manuales de organización, servicios y procedimientos y otros instrumentos para mejorar el desempeño de la administración;
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+a).- Convenir con el Estado, Instituciones de Educación Superior, otros municipios, organismos especializados y de consultoría, el diseño y realización de programas y acciones para el desarrollo y profesionalización de su personal y la certificación de sus competencias laborales. A fin de cumplir con este propósito, también deberán dotar a las dependencias de la Administración Pública Municipal de manuales de organización, servicios y procedimientos y otros instrumentos para mejorar el desempeño de la administración;
 
 b).- Promover la integración de los miembros de los Consejos de Colaboración Municipal;
 
@@ -1393,13 +1411,11 @@ II.- Asimismo, podrán:
 
 a).- Nombrar y remover libremente a los servidores públicos municipales que refiere la Constitución Política del Estado; con excepción del titular del Órgano Interno de Control, cuyo nombramiento deberá realizarse en los términos a que alude el inciso a Bis) de la fracción II del artículo 60 de esta Ley. En los nombramientos de los titulares de las dependencias de la administración pública municipal, deberá observarse el principio de paridad de género conforme a las normas aplicables, además tendrá la obligación de garantizar el acceso a personas con discapacidad para ocupar los puestos titulares de las dependencias y entidades de la administración pública, al menos en un porcentaje total que refleje la presencia de personas de este grupo social en el municipio del que se trate, conforme a los datos censales más recientes;
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
-a Bis) Proponer al Ayuntamiento en sesión ordinaria a la persona titular del Órgano Interno de Control Municipal, previa convocatoria pública abierta, para el registro de aspirantes, conforme a lo dispuesto en el artículo 105 Ter de esta Ley.
+a BIS).- Proponer en sesión ordinaria del Ayuntamiento y someter a votación de sus integrantes, a la persona titular del Órgano Interno de Control Municipal, previa convocatoria pública abierta, para el registro de aspirantes, conforme a los (sic) dispuesto en el artículo 105 Ter de esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
-
-La propuesta será sometida a aprobación del Ayuntamiento, debiendo ser designado por mayoría de votos.
+La designación se aprobará por mayoría de votos.
 
 b).- Nombrar y remover a los alcaides y al personal de seguridad y administrativo de acuerdo con las disposiciones aplicables, así como, cuidar que las dependencias y oficinas Municipales se integren y funcionen con eficiencia;
 
@@ -1601,6 +1617,10 @@ I.- Vigilar y atender el ramo de la administración Municipal que conforme a sus
 
 II.- Vigilar que los actos de la Administración Municipal, se desarrollen en apego a lo dispuesto por las Leyes y normas de observancia Municipal;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+II BIS.- Proponer al Ayuntamiento iniciativas de bandos, reglamentos, decretos, circulares y demás disposiciones administrativas de observancia general en el municipio;
+
 III.- Recibir y analizar los asuntos que les sean sometidos y emitir su voto, particularmente en las materias siguientes:
 
 a).- Los proyectos de acuerdo para la aprobación de los bandos, reglamentos, decretos y circulares de observancia general en el Municipio, que les sean presentados por el Presidente Municipal, los Síndicos, o los vecinos del Municipio, cuidando que las disposiciones no invadan las competencias reservadas para el Estado o la Federación;
@@ -1667,17 +1687,33 @@ XIII.- Formular propuestas de estudio, acciones y proyectos en materia de zonas 
 
 XIV.- Asegurar que las Comunidades y Pueblos Indígenas avecindadas en su territorio, gocen de los programas de desarrollo e infraestructura comunitaria y de asistencia social, estableciendo presupuestos específicos destinados a ellos, de conformidad con la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-XV.- Crearán en coordinación los Delegados Municipales y de las instancias competentes y los sectores social y privado los reglamentos internos propios de cada localidad a fin de que coadyuven al mejoramiento, establecimiento, limitación y regulación de los usos y costumbres con la participación de la comunidad;
+XV.- Crearán, en coordinación con las delegaciones municipales, las instancias competentes y los sectores social y privado, los reglamentos internos propios de cada localidad, para coadyuvar al mejoramiento, establecimiento, limitación y regulación de los usos y costumbres con la participación de la comunidad;
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 XV BIS.- Informar a colonias y comunidades, dos veces por año y con base en los principios de Parlamento Abierto, sobre la consecución de las metas y objetivos de su plan de trabajo;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XVI.- Proponer al Ayuntamiento las medidas y acciones para el mejoramiento de las distintas áreas de la Administración Municipal y de los Servicios públicos municipales.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XVII.- Elaborar y dar cumplimiento a su Agenda de Trabajo, la cual deberá estar alineada a los objetivos del Plan Municipal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XVIII.- Solicitar a las personas titulares de las diferentes áreas de la administración municipal, la información y demás documentación necesaria para el cumplimiento de sus funciones. Dicha solicitud se realizará por conducto de la persona titular de la Secretaría General;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XIX.- Concurrir a las ceremonias cívicas y demás actos oficiales a las que sean convocados, y
+
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-XVI.- Las demás que les otorguen las leyes y reglamentos.
+XX.- Las demás que les otorguen las leyes y reglamentos.
 
 Los Regidores, concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
@@ -1857,17 +1893,21 @@ Cuando el Congreso del Estado, tenga conocimiento de la existencia de la situaci
 
 ### CAPÍTULO PRIMERO. DE LOS ÓRGANOS AUXILIARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 80.
 
-Los Ayuntamientos podrán contar con Delegados y Subdelegados, como órganos auxiliares, de conformidad con el reglamento que expidan y en el que señalen los requisitos, observando los principios de igualdad y alternancia de género; para tal efecto, se requiere ser vecino de la comunidad, saber leer y escribir, tener como mínimo dieciocho años de edad cumplidos al día de su elección, no haber sido condenado por delito doloso, no ser ministro de ningún culto religioso y tener un modo honesto de vivir.
+Los Ayuntamientos podrán contar con delegaciones y subdelegaciones, como órganos auxiliares, cuyas personas titulares serán electas atendiendo a los principios de igualdad y alternancia de género y procurando la paridad entre ellas. Para ser titular de las mismas se requiere ser vecino de la comunidad, saber leer y escribir, tener como mínimo dieciocho años de edad cumplidos al día de su elección, no haber sido condenado por delito doloso, no ser ministro de ningún culto religioso y tener un modo honesto de vivir.
 
 Los Ayuntamientos, en ejercicio de su facultad reglamentaria podrán establecer:
 
-I.- El procedimiento de convocatoria para la elección de delegados y subdelegados;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-II.- Los requisitos que deberán cubrir los aspirantes a los cargos antes mencionados;
+I.- El procedimiento de convocatoria para la elección de las personas titulares de las delegaciones y subdelegaciones;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+II.- Los requisitos que deberán cubrir las personas aspirantes a los cargos antes mencionados;
 
 III.- Los periodos en que deban efectuarse las elecciones.
 
@@ -1875,11 +1915,13 @@ IV.- Los casos de nulidad o de invalidez de las elecciones;
 
 V.- Los medios de impugnación; y
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VI.- El tiempo que durarán en su encargo, el cual no será mayor de un año, con derecho a ratificación por una sola ocasión. Concluido este periodo las delegaciones deberán alternar el género de su titular.
+VI.- El tiempo que durarán en su encargo, el cual no será mayor de un año, con derecho a ratificación por una sola ocasión. Concluido este periodo las delegaciones y subdelegaciones deberán alternar el género de su titular.
 
-Asimismo, establecerán las causas de remoción por causa justificada, del Delegado y Subdelegado, respetando la garantía de audiencia.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Asimismo, establecerán las causas de remoción por causa justificada de las personas titulares de las delegaciones y subdelegaciones, respetando la garantía de audiencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1907,9 +1949,9 @@ IV.- Auxiliar en todo lo que requiera al Presidente Municipal para el mejor cump
 
 V.- Auxiliar en la elaboración del Reglamento Interno de las comunidades indígenas reconocidas, a fin de que se establezcan, limiten y regulen los usos y costumbres propios, respetando el derecho a la consulta;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VI.- Los delegados y subdelegados podrán elaborar un plan de desarrollo rural o urbano según sea el caso, mismo que precisará los objetivos, estrategias, líneas de acción y prioridades del Desarrollo Integral de la comunidad con una visión de 20 a 30 años a futuro;
+VI.- Las personas titulares de las delegaciones y subdelegaciones podrán elaborar un plan de desarrollo rural o urbano según sea el caso, mismo que precisará los objetivos, estrategias, líneas de acción y prioridades del Desarrollo Integral de la comunidad con una visión de 20 a 30 años a futuro;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1919,9 +1961,11 @@ VII.- Promover la igualdad entre mujeres y hombres y la erradicación de la viol
 
 VIII.- Las demás que le otorguen los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### ARTÍCULO 82.
 
-Los delegados y subdelegados serán electos por los vecinos de los pueblos, comunidades, colonias, fraccionamientos y barrios, de conformidad a lo previsto por las disposiciones del Reglamento expedido por el Ayuntamiento. En este ordenamiento se señalará quien extenderá los nombramientos y la toma de protesta.
+Las personas titulares de las delegaciones y subdelegaciones serán electas por los vecinos de los pueblos, comunidades, colonias, fraccionamientos y barrios, de conformidad a lo previsto por las disposiciones del reglamento expedido por el Ayuntamiento. En este ordenamiento se señalará quién extenderá los nombramientos y la toma de protesta.
 
 ### CAPÍTULO SEGUNDO. DE LOS CONSEJOS DE COLABORACIÓN MUNICIPAL
 
@@ -1933,7 +1977,9 @@ En cada Municipio, podrán funcionar uno o varios Consejos de Colaboración Muni
 
 El Presidente o Presidenta Municipal, con el acuerdo de la mayoría de los integrantes del Ayuntamiento, convocará públicamente a los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, para la integración de los Consejos de Colaboración Municipal. Las organizaciones y agrupaciones representativas de los principales sectores sociales de la comunidad, podrán acreditar a su representante dentro de los Consejos.
 
-Los Delegados y Subdelegados, están facultados para presidir los Consejos de Colaboración Municipal, si así lo aprueba la mayoría de los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, en primera convocatoria pública o los que asistan en segunda convocatoria.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Las personas titulares de las delegaciones y subdelegaciones están facultadas para presidir los Consejos de Colaboración Municipal, si así lo aprueba la mayoría de los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, en primera convocatoria pública o los que asistan en segunda convocatoria.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -2441,21 +2487,23 @@ ARTÍCULO 105 BIS.- La Contraloría estará a cargo de una persona titular cuyo 
 
 La Contraloría contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objetivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
 
-ARTÍCULO 105 TER.- La convocatoria descrita en la fracción II, inciso a Bis) del artículo 60 de esta Ley, deberá ser emitida por el Ejecutivo Municipal de manera pública y abierta para la selección de aspirantes a ser titulares del órgano Interno de Control.
+###### Articulo 105 Ter.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+El presidente o presidenta municipal emitirá la convocatoria mencionada en la fracción II, inciso a Bis) del artículo 60 de esta Ley; esta será pública y abierta para la selección de aspirantes a ser titulares del Órgano Interno de Control.
 
-El proceso de selección de aspirantes será coordinado por la Comisión Especial que el ayuntamiento integre para tal efecto, la cual será presidida por la persona titular del Ejecutivo Municipal.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+El proceso de selección de aspirantes será coordinado por la Comisión Especial que el Ayuntamiento integre para tal efecto, la cual será presidida por el presidente o presidenta municipal.
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
 
 La persona aspirante deberá registrarse personalmente en días y horarios hábiles, conforme al domicilio y el procedimiento que la propia Comisión señale.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
-Concluida la etapa de registros, el Ejecutivo Municipal emitirá un informe a la Comisión, el cual contendrá el número de aspirantes registrados y determinará las personas que han cumplido con los requisitos establecidos en la convocatoria.
+Concluida la etapa de registros, el presidente o presidenta Municipal emitirá un informe a la Comisión, el cual contendrá el número de aspirantes registrados y determinará las personas que han cumplido con los requisitos establecidos en la convocatoria.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
@@ -2863,6 +2911,10 @@ b) Acreditar experiencia mínima de un año sobre su área de competencia; y
 
 c) No ser ministro de culto religioso.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+ARTÍCULO 118 OCTIES.- La persona responsable de la dirección competente en materia de Turismo, además de los requisitos mínimos establecidos para ser titular de una dependencia municipal, deberá contar con un perfil académico o profesional en materia de turismo o carreras similares y/o contar con una experiencia mínima de un año en cargos relacionados, al momento de su designación.
+
 ###### ARTÍCULO 119.
 
 El Titular de Servicios Municipales es el funcionario responsable, en lo general, de limpias, alumbrado público, mercados, comercio y abasto, panteones, rastro, parques y jardines, control canino, y en lo particular tendrá las siguientes facultades:
@@ -2965,17 +3017,23 @@ VII.- Vigilar que (sic) los espectáculos públicos y los establecimientos merca
 
 Los Titulares de Reglamentos y Espectáculos deberán orientar a los solicitantes respecto del lugar en donde podrán solicitarlo.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
-ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, El Órgano Interno de Control , la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente, la Instancia Municipal para el Desarrollo de las Mujeres y el responsable Municipal de Movilidad, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
+ARTÍCULO 121 BIS.- Las personas servidoras públicas municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, el Órgano Interno de Control, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente, la Instancia Municipal para el Desarrollo de las Mujeres, el área responsable de Fomento y/o Desarrollo Económico o su equivalente, y el área responsable de Movilidad, están obligadas a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente, y a contar con una certificación de competencia laboral, la cual debe ser acorde con la función que desempeñan y expedida por una institución reconocida en el Sistema Nacional de Competencias, durante el primer año de su gestión. En caso de incumplir esta disposición serán removidas de su cargo.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
 
-(SIC) 121 TER.- Los servidores públicos titulares de las dependencias municipales para ser nombrados, o en su caso, propuestos y aprobados por el Ayuntamiento, además de los requisitos previstos en esta ley, cumplirá con:
+ARTÍCULO 121 TER.- Las personas servidoras públicas titulares de las dependencias municipales para ser nombradas, o en su caso, propuestas y aprobadas por el Ayuntamiento, además de los requisitos previstos en esta Ley, cumplirán con:
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 I. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente;
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+
 II. No estar condenada o condenado por delitos de acoso sexual o abuso sexual y/o delitos de violencia de género; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 III. No estar condenada o condenado por el delito de violencia familiar.
 
@@ -3355,7 +3413,9 @@ IV.- Los representantes de las organizaciones y asociaciones de empresarios, pro
 
 V.- Las autoridades y los directivos de las instituciones más representativas del sector educativo, en el Municipio;
 
-VI.- Los Delegados Municipales y Subdelegados;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VI.- Las personas titulares de las delegaciones y subdelegaciones;
 
 VII.- Los Presidentes de los Consejos de Colaboración Municipal;
 
@@ -4301,11 +4361,11 @@ Cuando la acusación se entable en contra de un funcionario Municipal, excepto e
 
 Si en la comisión de un hecho delictuoso, se agravia al Ayuntamiento, la denuncia se presentará por conducto del Síndico.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 188.
 
-Tratándose de delitos o faltas oficiales en que hayan incurrido los miembros y funcionarios del Ayuntamiento, se estará a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Hidalgo y demás disposiciones vigentes.
+Tratándose de delitos o faltas oficiales en que hayan incurrido los miembros y funcionarios del Ayuntamiento, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, la Ley de Responsabilidades Administrativas del Estado de Hidalgo y demás disposiciones vigentes.
 
 ## TÍTULO NOVENO. LEGISLACIÓN MUNICIPAL
 
@@ -5090,3 +5150,27 @@ P.O. 15 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1045 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 21 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DEL PROCEDIMIENTO DE DESIGNACIÓN DE LA PERSONA TITULAR DEL ÓRGANO INTERNO DE CONTROL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 22 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ATRIBUCIONES DE LAS REGIDURÍAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 184 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PARIDAD DE GÉNERO EN LAS DELEGACIONES Y SUBDELEGACIONES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 190 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROFESIONALIZACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
