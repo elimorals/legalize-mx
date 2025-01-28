@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-122662
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2024-09-17"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -106,6 +106,10 @@ VI. Congreso, Congreso del Estado: El Congreso del Estado Libre y Soberano de Hi
 VII. Cuenta Pública: Documento que integra la gestión financiera anual de cada Ente Público, a través de la información financiera contable, presupuestaria, programática y económica que generan, por el periodo comprendido de enero a diciembre del año respectivo, la cual se presenta al Congreso en términos de la Ley General de Contabilidad Gubernamental y demás disposiciones en la materia;
 
 VIII. Deuda, Deuda Pública: Cualquier financiamiento contratado por los Entes Públicos;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VIII Bis. Dictamen Técnico. Es la opinión y valoración técnica emitida y sustentada en el expediente técnico de irregularidades, que sirve como base para el ejercicio de las acciones legales derivadas de la fiscalización superior, elaborado y suscrito por cada Unidad Administrativa de Fiscalización Superior;
 
 IX. Dirección de Correo Electrónico: Dirección señalada por los particulares, para enviar y recibir mensajes de datos y documentos digitales relacionados con los actos a que se refiere la presente Ley, a través de medios de comunicación digital;
 
@@ -195,13 +199,25 @@ El proceso de fiscalización superior podrá iniciar a partir del primer día h�
 
 Las notificaciones de los actos que emita la Auditoria Superior del Estado podrán efectuarse:
 
-I. Personalmente, en las instalaciones de la Auditoría Superior, en el domicilio de oficina, fiscal o particular según corresponda señalado por la Entidad Fiscalizada, o mediante correo certificado con acuse de recibo. En el acto de la diligencia, se entregará una cédula que contendrá: nombre de la Auditoría Superior, número de oficio, transcripción, en lo conducente del acto que se le notifique, día y hora en que se hace dicha notificación y persona en poder de la cual se deja, recabando la firma o huella digital de quien la recibe o la razón de no haber querido hacerlo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE ENERO DE 2025)</small>
+
+I. Personalmente, en las instalaciones de la Auditoría Superior, en el domicilio señalado por la Entidad Fiscalizada o por la persona física o moral ajena a la entidad fiscalizada que deba ser notificada, o mediante correo certificado con acuse de recibo.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Para la práctica de notificaciones, los particulares interesados y representantes legales, respecto de cualquier promoción, acción legal, solicitud de información, que promuevan con motivo del ejercicio de las facultades de fiscalización de la Auditoría Superior, o derivado de las acciones que de las mismas procedan, deberán señalar domicilio para oír y recibir notificaciones dentro de la circunscripción del Municipio de Pachuca de Soto, Estado de Hidalgo; así como correo electrónico, en caso de no hacerlo, se procederá a la notificación por estrados.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Las diligencias de notificación se llevarán a cabo, haciéndose constar en una cédula, en la que deberá anotarse: el nombre de la Auditoría Superior, el de la persona comisionada, el número de oficio de comisión, referencia de la documentación objeto de la notificación, día y hora en que se practique la notificación y persona en poder de la cual se deja, recabando la firma o huella digital de quien la recibe o la razón de no haber querido hacerlo. Si la persona que deba ser notificada, su representante legal o con quien se entienda la diligencia, previo citatorio para que espere al notificador la persona que se busca, se nieguen a recibir o firmar la notificación, la negativa se asentará en la cédula de notificación y esta se tendrá por hecha.
 
 Si no está presente el interesado o su representante legal, se le dejará citatorio para que espere al notificador a una hora hábil determinada, la cual deberá estar comprendida entre las seis y las setenta y dos horas siguientes. El citatorio se dejará con cualquier persona que viva o trabaje en el domicilio señalado. Si no obstante el citatorio, no está presente el interesado o su representante legal, la notificación se hará con cualquier persona que se encuentre en el domicilio señalado.
 
 Si la persona que deba ser notificada, se niega a recibir al servidor público encargado de hacer la notificación, o las personas que residan en el domicilio se rehusaren a recibir la cédula o no se encuentra nadie en el lugar, se fijará la cédula en la puerta de entrada, asentándose razón.
 
-Las notificaciones que se realicen a los servidores públicos en funciones por conducto de la oficialía de partes de la Entidad Fiscalizada al que se encuentren adscritos, o a las personas morales por conducto de su oficina de recepción, se entenderán legalmente efectuadas cuando además de la cédula de notificación obre el sello de recibido en el documento correspondiente.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Las notificaciones que se realicen a los servidores públicos en funciones por conducto de la oficialía de partes de la Entidad Fiscalizada al que se encuentren adscritas, se entenderán legalmente efectuadas cuando obre el sello de recibido en el documento correspondiente; las realizadas a personas físicas y morales, se tendrán por legalmente hechas cuando se practiquen en el domicilio señalado para tal fin y con las formalidades precisadas en el presente artículo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2023)</small>
 
@@ -231,7 +247,9 @@ Para efectos de esta Ley, son días hábiles todos los del año, con excepción 
 
 El Auditor Superior mediante acuerdo que se publique en el Periódico Oficial del Estado de Hidalgo, establecerá los días y las horas para las actuaciones o diligencias de la Auditoría Superior, así como del horario de atención a las Entidades Fiscalizadas y al público en general en sus instalaciones. Asimismo, podrá habilitar días y horas inhábiles para actuar o para que se practiquen diligencias que estime necesarias, excepto cuando se inicie una actuación o diligencia en horas hábiles, en cuyo caso podrá concluirse en horas inhábiles, sin afectar su validez y podrán suspenderse por causas de fuerza mayor, caso fortuito, por necesidades del servicio o a juicio del personal que realice la actuación o diligencia.
 
-Para los efectos de las actuaciones o diligencias practicadas por o ante la Auditoría Superior, los plazos comenzarán a correr a partir del mismo día hábil en que se realizó la notificación correspondiente, y se contará en ellos el día de su vencimiento, si éste último fuere inhábil, éste se correrá al primer día hábil siguiente, salvo los supuestos previstos en esta Ley.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Para los efectos de las actuaciones o diligencias practicadas por o ante la Auditoría Superior, los plazos comenzarán a correr a partir del día hábil siguiente a aquel en que se haya efectuado la notificación. Si el último día fuere día inhábil, éste se correrá al primer día hábil siguiente, salvo los supuestos previstos en esta ley.
 
 ## TÍTULO SEGUNDO. DE LA FISCALIZACIÓN SUPERIOR
 
@@ -241,11 +259,15 @@ Para los efectos de las actuaciones o diligencias practicadas por o ante la Audi
 
 Las Cuentas Públicas se organizarán, sistematizarán, integrarán y difundirán conforme a lo establecido en la Ley General de Contabilidad Gubernamental, los acuerdos emitidos por el Consejo Nacional de Armonización Contable, la Ley de Disciplina Financiera de las Entidades Federativas y de los Municipios y demás disposiciones que regulen la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 14.
 
-La Cuenta Pública del Estado, del ejercicio correspondiente, deberá ser presentada a más tardar el 30 de abril del año siguiente por el Poder Ejecutivo al Congreso, a través de la Auditoría Superior. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud antes de su vencimiento, del Gobernador Constitucional del Estado de Hidalgo, suficientemente justificada a juicio del Congreso, quien informará a la Auditoría Superior su decisión.
+La Cuenta Pública del Estado, del ejercicio correspondiente, deberá ser presentada en medio digital, a más tardar el 30 de abril del año siguiente por el Poder Ejecutivo al Congreso, a través de la Auditoría Superior. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud antes de su vencimiento, del Gobernador Constitucional del Estado de Hidalgo, suficientemente justificada a juicio del Congreso, quien informará a la Auditoría Superior su decisión.
 
-Las Cuentas Públicas municipales del ejercicio correspondiente, deberán ser presentadas por cada Ayuntamiento al Congreso, a través de la Auditoría Superior, a más tardar el 30 de abril del año siguiente.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Las Cuentas Públicas municipales del ejercicio correspondiente, deberán ser presentadas en medio digital por cada Ayuntamiento al Congreso, a través de la Auditoría Superior, a más tardar el 30 de abril del año siguiente.
 
 La omisión en la presentación de la Cuenta Pública no impide el ejercicio de las facultades de fiscalización superior.
 
@@ -253,9 +275,11 @@ La omisión en la presentación de la Cuenta Pública no impide el ejercicio de 
 
 En caso de que la Cuenta Pública no sea presentada en los plazos o requisitos señalados, la Auditoría Superior informará al Congreso del Estado, independientemente de las sanciones aplicables en términos de Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 16.
 
-Los Entes Públicos organizarán, sistematizarán, integrarán y difundirán el Informe de Gestión financiera en los términos que establece el artículo 13 de esta Ley; el cual deberán presentar, de manera impresa y en medio digital, a la Auditoría Superior dentro de los siete días hábiles siguientes al trimestre respectivo.
+Los Entes Públicos organizarán, sistematizarán, integrarán y difundirán el Informe de Gestión financiera en los términos que establece el artículo 13 de esta Ley; el cual deberán presentar, en medio digital, a la Auditoría Superior dentro de los quince días naturales siguientes al trimestre respectivo.
 
 La información de la gestión financiera que el Ente Público presente a la Auditoría Superior deberá ser confiable, útil, comparable, clara, accesible, relevante, veraz, objetiva, suficiente y oportuna, que contribuya a la fiscalización superior.
 
@@ -321,7 +345,9 @@ X. Requerir a terceros que hubieran contratado con las Entidades Fiscalizadas ob
 
 XI. Efectuar visitas domiciliarias, para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos electrónicos de almacenamiento de información digital, documentos y archivos indispensables para la realización de sus investigaciones, inspeccionar obras, realizar entrevistas y reuniones con particulares o con los servidores públicos de las Entidades Fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
 
-XII. Formular recomendaciones, pliegos de observaciones, promociones del ejercicio de la facultad de comprobación fiscal;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XII. Formular recomendaciones a las Entidades Fiscalizadas que permitan corregir los procesos de contabilidad, técnicos, legales y administrativos;
 
 XIII. Conocer y resolver sobre el recurso de reconsideración previsto en esta Ley;
 
@@ -459,9 +485,15 @@ V. Cumplir con los criterios, métodos, lineamientos y sistemas establecidos par
 
 VI. Presentar copias certificadas de la documentación que obre en su archivo cuando así se requiera;
 
-VII. Atender en los plazos y términos previstos para cada caso en concreto, las observaciones y acciones promovidas derivadas de la fiscalización superior, presentando la información, documentación y/o consideraciones que estimen pertinentes. Además, para las recomendaciones deberán precisar las mejoras efectuadas, las acciones a realizar, o en su caso, justificar su improcedencia o razones por las cuales no resulta factible su implementación; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VIII. Las demás que deriven de las disposiciones legales, reglamentarias y administrativas aplicables.
+VII. Atender en los plazos y términos previstos para cada caso en concreto, las observaciones, recomendaciones y acciones promovidas derivadas de la fiscalización superior, presentando la información, documentación y/o consideraciones que estimen pertinentes. Además, para las recomendaciones deberán precisar las mejoras efectuadas, las acciones a realizar, o en su caso, justificar su improcedencia o razones por las cuales no resulta factible su implementación;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VIII. Dar seguimiento a las acciones y recomendaciones que les hayan sido formuladas en el ejercicio de sus atribuciones y rendir los informes respectivos que les sean requeridos; y
+
+IX. Las demás que deriven de las disposiciones legales, reglamentarias y administrativas aplicables.
 
 ### Capítulo III. De la fiscalización sobre el cumplimiento en materia de disciplina financiera
 
@@ -511,9 +543,15 @@ II. Descripción de los presuntos hechos irregulares.
 
 Al escrito de denuncia deberán acompañarse los elementos de prueba y los probables responsables, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior deberá proteger en todo momento la identidad del denunciante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 34.
 
-Derivado de denuncias por actos u omisiones que presuman daño o perjuicio, o ambos, a la Hacienda Pública del Estado o del Municipio o al patrimonio de las Entidades Fiscalizadas, la Auditoría Superior previo examen de procedencia, fiscalizará de manera directa durante el ejercicio fiscal en curso; así como respecto de ejercicios anteriores, los hechos denunciados, rindiendo un Informe Excepcional de auditoría al Congreso del Estado dentro de los 30 días hábiles posteriores a la conclusión de la revisión y, en su caso, ejercerá las acciones a que haya lugar en términos de Ley.
+Derivado de denuncias por actos u omisiones que presuman daño o perjuicio, o ambos, a la Hacienda Pública del Estado o Municipio o al patrimonio de las Entidades Fiscalizadas, la Auditoría Superior previo análisis podrá, a través de la unidad administrativa de fiscalización superior respectiva, fiscalizar de manera directa durante el ejercicio fiscal en curso así como respecto de ejercicios anteriores, los hechos denunciados y los demás que se desprendan de los mismos; lo anterior en términos del Título II, capítulo V de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+Finalizada la revisión, la Auditoría Superior rendirá un Informe Excepcional al Congreso del Estado dentro de los 30 días hábiles posteriores a la conclusión de la revisión y, en su caso, ejercerá las acciones a que haya lugar en términos de Ley.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
@@ -549,7 +587,7 @@ La Auditoría Superior deberá proteger en todo momento la identidad del denunci
 
 ###### Artículo 37.
 
-Para la práctica de las auditorías a que se refiere este Capítulo, la Auditoría Superior tendrá las atribuciones señaladas en esta Ley.
+(DEROGADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)
 
 El estado que guardan las observaciones, deberá reportarse en los informes previstos en el artículo 45 de esta Ley, detallando las acciones relativas a dichas auditorías, así como la relación que contenga la totalidad de denuncias recibidas.
 
@@ -557,9 +595,11 @@ El estado que guardan las observaciones, deberá reportarse en los informes prev
 
 Los Informes Excepcionales se publicarán en la página de internet de la Auditoría Superior, en formatos abiertos conforme a lo establecido en la legislación aplicable en materia de transparencia.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 39.
 
-El titular de la Auditoría Superior, con base en el dictamen técnico jurídico que al efecto emitan las unidades administrativas competentes de la Auditoría Superior, promoverá la revisión de la gestión financiera correspondiente, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
+Una vez que la Auditoría Superior se haya pronunciado respecto del ejercicio fiscal denunciado, las Unidades de Fiscalización Superior, deberán emitir el dictamen técnico, y remitirlo a la unidad administrativa a cargo de las investigaciones para que realice las acciones legales a que haya lugar, en términos de Ley.
 
 ### Capítulo V. De los resultados derivados de la fiscalización superior e informes
 
@@ -599,11 +639,13 @@ VI. Un apartado específico en cada una de las auditorías realizadas donde se i
 
 Asimismo, considerará, en su caso, el cumplimiento de los objetivos y metas de aquellos programas que promuevan la igualdad sustantiva entre mujeres y hombres, así como, (sic) acceso de las Mujeres a una Vida Libre de Violencia y cualquier forma de discriminación de género.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 44.
 
-El titular de la Auditoría Superior enviará a las Entidades Fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado al Congreso, el Informe Individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de 20 días hábiles, presenten la información y realicen las consideraciones pertinentes.
+El titular de la Auditoría Superior enviará a las Entidades Fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado al Congreso, el Informe Individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de 30 días hábiles, presenten la información y realicen las consideraciones pertinentes.
 
-Con la notificación del Informe Individual a las Entidades Fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos de promoción de responsabilidad administrativa y de las denuncias penales y de juicio político, los cuales se notificarán a los presuntos responsables en los términos de las Leyes que rigen los procedimientos respectivos.
+Con la notificación del Informe Individual a las Entidades Fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos de promoción de responsabilidad administrativa y de las denuncias penales, los cuales se notificarán a los presuntos responsables en los términos de las Leyes que rigen los procedimientos respectivos.
 
 ###### Artículo 45.
 
@@ -617,9 +659,15 @@ Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el
 
 Los reportes deberán publicarse en la página de internet de la Auditoría Superior, en la misma fecha en que sea presentado al Congreso del Estado, conforme a lo establecido en la legislación aplicable en materia de transparencia y acceso a la información pública y se mantendrán de manera permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 46.
 
-La Auditoría Superior deberá pronunciarse en un plazo de 60 días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las Entidades Fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las observaciones y recomendaciones.
+La Auditoría Superior deberá pronunciarse en un plazo de 90 días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las Entidades Fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las observaciones y recomendaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+En caso de que las observaciones hayan sido atendidas en los términos establecidos en la presente Ley, se extenderá el documento que acredite la solventación de los resultados de la fiscalización, dicho documento no exime a los servidores públicos de los actos u omisiones que pudieran surgir con motivo del ejercicio de las facultades de la revisión, respecto a lo que no fue materia de valoración.
 
 ###### Artículo 47.
 
@@ -627,9 +675,11 @@ La Comisión realizará un análisis de los Informes Individuales, en su caso, d
 
 ### Capítulo VI. Del Informe General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 48.
 
-La Auditoría Superior presentará a más tardar el veinte de febrero del año siguiente al de la presentación de la Cuenta Pública, el Informe General correspondiente ante el Congreso del Estado, por conducto de la Comisión, mismo que tendrá carácter público.
+La Auditoría Superior presentará el veinte de febrero del año siguiente al de la presentación de la Cuenta Pública, el Informe General correspondiente ante el Congreso del Estado, por conducto de la Comisión, mismo que tendrá carácter público.
 
 El Congreso remitirá copia del Informe General a las instancias competentes en materia anticorrupción para los efectos correspondientes.
 
@@ -687,6 +737,12 @@ IV. Mediante las denuncias de hechos, hará del conocimiento a la Fiscalía Espe
 
 V. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso la presunción de actos u omisiones de los servidores públicos a que se refiere el artículo 150 de la Constitución Política para el Estado de Hidalgo, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+###### Artículo 53 Bis.
+
+La Auditoría Superior enviará al Congreso un reporte final sobre las recomendaciones para la mejora del desempeño correspondientes a la Cuenta Pública en revisión, en términos del artículo 45 de la presente Ley.
+
 ###### Artículo 54.
 
 La Auditoría Superior, una vez que cuente con los elementos necesarios, promoverá la responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la autoridad competente, la denuncia de juicio político ante el Congreso, o la responsabilidad administrativa ante la Secretaría u Órgano Interno de Control competente, en los términos de esta Ley.
@@ -697,9 +753,9 @@ La Auditoría Superior, una vez que cuente con los elementos necesarios, promove
 
 La Auditoría Superior podrá imponer multas, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-I. Cuando los servidores públicos o las personas físicas no atiendan los requerimientos que se le realicen; salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad; la Auditoría Superior podrá imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario vigente de la Unidad de Medida y Actualización;
+I. Cuando los servidores públicos o las personas físicas no cumplan con las obligaciones previstas en esta Ley y/o no atiendan los requerimientos o solicitudes que se les realicen en los plazos y términos establecidos; salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad; la Auditoría Superior podrá imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario vigente de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
@@ -713,9 +769,9 @@ V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscal
 
 VI. Las multas que se impongan en términos de este artículo, son independientes de las sanciones previstas en otras leyes, que resulten aplicables por la negativa a entregar información a la Auditoría Superior; así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VII. Para imponer la multa que corresponda, la Auditoría Superior debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
+VII. Para imponer la multa que corresponda, la Auditoría Superior debe oír previamente al presunto infractor, a efecto de que funde y motive el incumplimiento en que incurrió. Asimismo, deberá tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
 
 ###### Artículo 56.
 
@@ -797,6 +853,12 @@ Lo anterior, sin perjuicio de las demás sanciones administrativas que; en su ca
 
 Las sanciones que imponga el Tribunal se fincarán independientemente de las demás sanciones a que se refiere el artículo anterior que, en su caso, impongan otras autoridades.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+###### Artículo 61 Bis.
+
+Una vez que la Auditoría Superior se haya pronunciado respecto del ejercicio fiscal correspondiente, las Unidades de Fiscalización Superior, deberán emitir el Dictamen Técnico, el cual deberá ser remitido a la unidad administrativa a cargo de las investigaciones para que realice las acciones legales a que haya lugar, en términos de ley.
+
 ###### Artículo 62.
 
 La unidad administrativa de la Auditoría Superior a cargo de las investigaciones generará el informe de presunta responsabilidad administrativa y, en su caso, promoverá las sanciones a los servidores públicos de la Auditoría Superior ante la instancia correspondiente, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones sobre las situaciones irregulares que detecten o violen la reserva de información en los casos previstos en esta Ley.
@@ -812,6 +874,14 @@ La unidad administrativa a cargo de las investigaciones de la Auditoría Superio
 Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el Informe de Presunta Responsabilidad Administrativa, en cualquier momento en que cuente con los elementos necesarios.
 
 El procedimiento para promover el Informe de Presunta Responsabilidad Administrativa y la imposición de sanciones por parte de la autoridad competente, se regirá por lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2025)</small>
+
+###### Artículo 64 Bis.
+
+Para los casos en que la unidad administrativa a cargo de la investigación no cuente con elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
+
+Dicha determinación, se notificará a los servidores públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
 
 ###### Artículo 65.
 
@@ -1260,3 +1330,13 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1094 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 197 - LXVI POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones correspondientes al reglamento interior y demás normatividad administrativa
