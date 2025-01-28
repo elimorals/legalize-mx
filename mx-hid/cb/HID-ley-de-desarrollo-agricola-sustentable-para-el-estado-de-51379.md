@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2024-09-17"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -139,7 +139,9 @@ IV.- Las demás personas físicas y morales del sector social y privado, que rea
 
 ARTICULO 4 BIS.- Esta ley reconoce los derechos de las mujeres campesinas, por lo que la Secretaría fomentará su empoderamiento por medio del acceso a capacitación y asesoría, así como a las medidas, programas e instrumentos económicos para el pleno e igualitario ejercicio de sus derechos como productoras rurales.
 
-La Secretaría fomentará el desarrollo económico inclusivo y sostenible, que permita a las productoras rurales el bienestar de sus familias y comunidades, procurando que puedan intervenir en el diseño, la aplicación y el seguimiento de políticas de programas de desarrollo rural.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
+La Secretaría fomentará el desarrollo económico inclusivo y sostenible, que permita a las productoras rurales el bienestar de sus familias y comunidades, procurando su participación efectiva en el diseño, la aplicación y el seguimiento de políticas de programas de desarrollo rural.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
@@ -715,9 +717,17 @@ III.- Definir los esquemas que permitan valorizar y retribuir los servicios ambi
 
 IV.- Participar en el financiamiento a la organización y capacitación de los productores rurales, mejorando el manejo técnico que permita el aprovechamiento sustentable, la conservación y fomento de los recursos naturales, con respeto a sus prácticas culturales;
 
-V.- Impulsar mecanismos de interlocución directa con las organizaciones de productores rurales, para estar en condiciones de recibir y operar eficientemente los proyectos y las acciones diseñados en su beneficio. Asimismo, promover el apoyo financiero necesario para contratar asesorías específicas y especializadas para profesionalizar las actividades que desempeñan sus estructuras económicas, tanto en lo administrativo como en lo operativo; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VI.- Las demás que se determinen por acuerdo de la Secretaría, con las Dependencias de la Administración Pública Federal y Estatal, los Municipios y las organizaciones sociales, así como las instancias de consulta.
+V.- Impulsar mecanismos de interlocución directa con las organizaciones de productores rurales, para estar en condiciones de recibir y operar eficientemente los proyectos y las acciones diseñados en su beneficio. Asimismo, promover el apoyo financiero necesario para contratar asesorías específicas y especializadas para profesionalizar las actividades que desempeñan sus estructuras económicas, tanto en lo administrativo como en lo operativo;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VI.- Promover la participación efectiva de mujeres de comunidades rurales en programas sectoriales en materia agraria, y
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
+
+VII.- Las demás que se determinen por acuerdo de la Secretaría, con las dependencias de la Administración Pública Federal y Estatal, los Municipios y las organizaciones sociales, así como las instancias de consulta.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -1478,5 +1488,11 @@ P.O. 15 DE JULIO DE 2024.
 P.O. 17 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1112 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 193 - LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4 BIS Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 36 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE PARTICIPACIÓN EFECTIVA DE MUJERES DE COMUNIDADES RURALES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
