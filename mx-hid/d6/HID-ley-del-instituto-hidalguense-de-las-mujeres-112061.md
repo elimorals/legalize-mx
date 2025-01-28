@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-hidalguense-de-las-mujeres-112061"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-06-15"
+last_updated: "2025-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -51,11 +51,11 @@ QUE CONTIENE LA LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
 ###### Artículo 1.
 
-La presente ley es de orden público, interés social y observancia general en el Estado de Hidalgo, en materia de igualdad de género e igualdad de derechos y oportunidades entre hombres y mujeres en los términos del artículo 4 párrafo (sic) de la Constitución Política de los Estados Unidos Mexicanos y del artículo 5 de la Constitución Política del Estado de Hidalgo.
+La presente ley es de orden público, interés social y observancia general en el Estado de Hidalgo, en materia de igualdad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos del artículo 4 párrafo primero de la Constitución Política de los Estados Unidos Mexicanos y el artículo 5 párrafo tercero de la Constitución Política del Estado de Hidalgo.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -63,9 +63,11 @@ La presente ley es de orden público, interés social y observancia general en e
 
 El objeto de la presente Ley es la creación del Instituto Hidalguense de las Mujeres, como un organismo descentralizado de la administración pública Estatal, sectorizado a la Secretaria de Gobierno, con personalidad jurídica y patrimonio propios, así como autonomía técnica y de gestión para el cumplimiento de sus objetivos, atribuciones y fines, con domicilio en el Municipio de Pachuca de Soto, Estado de Hidalgo, pudiendo establecer unidades administrativas en las regiones o municipios de la Entidad.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
+
 ###### Artículo 3.
 
-Todas las mujeres hidalguenses, mexicanas y extranjeras que se encuentren en el Territorio Estatal y las hidalguenses que se encuentren fuera de él, sin importar origen étnico, edad, estado civil, idioma, cultura, condición social, discapacidad, religión o dogma podrán participar en los programas, acciones y servicios que instrumente el Instituto.
+Todas las mujeres hidalguenses, mexicanas y extranjeras que se encuentren en el territorio estatal y las hidalguenses que se encuentren fuera de él, sin importar origen étnico o nacional, edad, estado civil, lengua o idioma, cultura, condición social o económica, situación migratoria, discapacidad, religión o dogma o cualquier otra causa de discriminación prohibida por la ley, podrán participar en los programas, acciones y servicios que instrumente el Instituto.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -111,9 +113,9 @@ II. Contraloría: La Secretaría de Contraloría;
 
 III. Dirección General: La persona titular del Instituto Hidalguense de las Mujeres;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-III Bis. Dependencias Globalizadoras: La Secretaría Ejecutiva de la Política Pública Estatal, la Secretaría de Finanzas Públicas, la Secretaría de Contraloría y la Unidad de Planeación y Prospectiva;
+III Bis.- Dependencias Globalizadoras: La Secretaría de Hacienda, la Secretaría de Contraloría y la Unidad de Planeación y Prospectiva;
 
 IV. Instituto: El Instituto Hidalguense de las Mujeres;
 
@@ -147,9 +149,9 @@ II. Diseñar y normar la política Estatal de las mujeres que permita incorporar
 
 III. Formular programas, proyectos y acciones de atención a las mujeres de conformidad con los lineamientos establecidos en el Plan Estatal de Desarrollo;
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
-La formulación de los programas presupuestarios deberá sujetarse a la estructura programática presupuestal aprobada por la Secretaría de Finanzas Públicas
+La formulación de los programas presupuestarios deberá sujetarse a la estructura programática presupuestal aprobada por la Secretaría de Hacienda.
 
 IV. Coordinar con las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, el mejoramiento de la calidad de vida de las mujeres, así como sus expectativas sociales, culturales, políticas y económicas;
 
@@ -182,6 +184,10 @@ XVI. Brindar apoyo técnico, económico y social en las iniciativas productivas 
 XVII. Brindar apoyo asistencial en materia de salud a las mujeres y a sus hijas e hijos menores de edad, de conformidad con la normatividad aplicable y disponibilidad de recurso;
 
 XVIII. Otorgar becas a mujeres estudiantes de conformidad con la normatividad aplicable y disponibilidad presupuestal;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+
+XVIII Bis. Incorporar estrategias que garanticen la atención integral a mujeres en situación de vulnerabilidad y contribuyan a su bienestar;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -245,33 +251,29 @@ La Junta de Gobierno será la máxima autoridad del Instituto y estará integrad
 
 I. La o el titular de la Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
-
-II. La persona titular de la Secretaría Ejecutiva de la Política Pública Estatal;
+II. (DEROGADA, P.O. 28 DE ENERO DE 2025)
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 III. La persona titular de la Unidad de Planeación y Prospectiva;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-IV. La persona titular de la Secretaría de Finanzas Públicas;
+IV. La persona titular de la Secretaría de Hacienda;
 
 V. La o el titular de la Secretaría de Salud;
 
 VI. La o el titular de la Secretaría de Educación Pública;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-VII. La o el titular de la Secretaría de Desarrollo Social;
+VII. La persona titular de la Secretaría de Bienestar e Inclusión Social;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 VIII. Dos personas integrantes del Consejo Consultivo, quienes deberán ser mujeres y durarán en su encargo tres años; y
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
-
-IX. La persona titular de la Dirección General del Instituto Hidalguense de las Mujeres.
+IX. (DEROGADA, P.O. 28 DE ENERO DE 2025)
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -299,9 +301,9 @@ II. Establecer en congruencia con el Plan Estatal de Desarrollo, los programas r
 
 III. Aprobar los programas institucionales de desarrollo, de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos del Instituto;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-IV. Fijar y ajustar los precios de bienes y servicios que produzca o preste el Instituto, atendiendo a los lineamientos que establezca la Secretaría de Finanzas Públicas, con excepción de aquellos que se determinen por el Congreso del Estado;
+IV. Fijar y ajustar los precios de bienes y servicios que produzca o preste el Instituto, atendiendo a los lineamientos que establezca la Secretaría de Hacienda, con excepción de aquellos que se determinen por el Congreso del Estado;
 
 V. Aprobar la suscripción o celebración de créditos para el financiamiento del Instituto, sin perjuicio de cumplir con las disposiciones establecidas en la Legislación de deuda pública estatal y observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
 
@@ -317,9 +319,9 @@ VII Bis. Aprobar las Reglas de Operación de los Programas que opera el Institut
 
 VIII. Aprobar la estructura básica de la organización del Instituto y las modificaciones que procedan a la misma, el Estatuto Orgánico correspondiente y sus modificaciones;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-IX. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Finanzas Públicas, los convenios de fusión con otras Entidades o de escisión, según sea el caso;
+IX. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, los convenios de fusión con otras Entidades o de escisión, según sea el caso;
 
 X. Autorizar la creación de Comités Especializados o Comités de Apoyo Institucional;
 
@@ -333,9 +335,9 @@ XII. Nombrar y remover a propuesta de la Presidencia de la Junta de Gobierno del
 
 XIII. Aprobar la constitución de reservas del Instituto, siempre quecorrespondan (sic) a ingresosexcedentes (sic), o bien remanentes derivados de economías en aportaciones, transferencias, subsidios y convenios.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2025)</small>
 
-La constitución e integración de reservas a que se refiere la presente fracción, será procedente siempre que los ingresos excedentes, las utilidades, los rendimientos financieros o los remanentes sean autorizados por la Secretaría de Finanzas Públicas con base a las disposiciones que se establezcan enla (sic) Ley de Ingresos del ejercicio fiscalde (sic) que se trate, y una vez ingresado alas (sic) arcas del Gobierno del Estado, podrá proponer la aplicación de estosrecursos (sic) en proyectos autorizados por la Secretaria Ejecutiva de la Política Pública del Estado;
+La constitución e integración de reservas a que se refiere la presente fracción, será procedente siempre que los ingresos excedentes, las utilidades, los rendimientos financieros o los remanentes sean autorizados por la Secretaría de Hacienda con base en las disposiciones que se establezcan en la Ley de Ingresos del ejercicio fiscal de que se trate, y una vez ingresado a las arcas del Gobierno del Estado, podrá proponer la aplicación de estos recursos en proyectos autorizados por la Unidad de Planeación y Prospectiva.
 
 XIV. Establecer con sujeción a las disposiciones legales aplicables, las normas y bases para la adquisición, arrendamiento, enajenación de inmuebles que el Instituto requiera para prestación de sus servicios, de conformidad con la Ley en la materia;
 
@@ -345,13 +347,11 @@ XV. Analizar y aprobar, en su caso, los informes periódicos que rinda la person
 
 XVI. Acordar, con sujeción a las disposiciones legales aplicables, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados en las instrucciones de la Dependencia Coordinadora de Sector;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2025)</small>
 
-XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros ya (sic) favor del Instituto cuando fuere improcedente, inconveniente o notoria la imposibilidad práctica de su cobro, mismas que deberán ser previamentevalidadas (sic) por la Coordinación General Jurídica y la Secretaría de Finanzas Públicas;
+XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto cuando fuere improcedente, inconveniente o notoria la imposibilidad práctica de su cobro, mismas que deberán ser previamente validadas por la Coordinación General Jurídica y la Secretaría de Hacienda.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
-
-Una vez que hayan sido aprobadas sedeberá (sic) informar a la Secretaría deFinanzas (sic) Públicas y a la Secretaría de Contraloría por conducto de la Secretaría de Gobierno.
+Una vez que hayan sido aprobadas se deberá informar a la Secretaría de Hacienda y a la Secretaría de Contraloría por conducto de la Secretaría de Gobierno.
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -712,3 +712,13 @@ P.O. 15 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 531 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 189 - LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO HIDALGUENSE DE LAS MUJERES, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+TERCERO. En un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse las disposiciones reglamentarias y normativas correspondientes.
