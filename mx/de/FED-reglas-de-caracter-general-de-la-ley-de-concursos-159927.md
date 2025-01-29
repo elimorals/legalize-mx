@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-159927"
 country: "mx"
 rank: "reglas"
 publication_date: "2022-09-01"
-last_updated: "2022-09-01"
+last_updated: "2025-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-08-09"
 ---
 # REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EPIDEN LAS REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES, PUBLICADAS EN EL D.O.F. DE 29 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2025 (ABROGADO).
 
 Reglas publicadas en el Diario Oficial de la Federación, el jueves 1 de septiembre de 2022.
 
@@ -994,3 +996,17 @@ Regla 85.- Estas Reglas podrán ser revisadas y modificadas por la Junta Directi
 Regla 86.- Cualquier circunstancia que se presente en los distintos temas a los que se refieren las presentes Reglas y que no tenga un tratamiento específico en las mismas, será resuelto por la Junta Directiva cuidando dejar asentadas las razones que le lleven a tomar tal decisión, de manera que establezcan un criterio que pueda ser aplicado en casos similares.
 
 Las presentes Reglas se emiten en la Ciudad de México, el nueve de agosto de dos mil veintidós.- El Director General del Instituto Federal de Especialistas de Concursos Mercantiles, Edgar Manuel Bonilla Del Ángel.- Firma.- Vocales del Instituto Federal de Especialistas de Concursos Mercantiles: Jaime Alejandro Gutiérrez Vidal, Guillermo Casas, Marco Antonio López Pérez y María Isabel Almaraz Guzmán.- Firmas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LAS “REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES”.]
+
+Primero.– El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Acuerdo, se abroga el “Acuerdo de la Junta Directiva del Instituto Federal de Especialistas de Concursos Mercantiles por el que se ordena la publicación de las nuevas Reglas de Carácter General de la Ley de Concursos Mercantiles”, publicado en el Diario Oficial de la Federación el 1 de septiembre de 2022.
+
+Tercero.- Los honorarios de los Especialistas que se encuentren en funciones al inicio de la vigencia del presente Acuerdo, se calcularán y cobrarán en los términos del presente, salvo aquellos casos en los que ya exista una resolución firme reconociendo los mismos y ordenando su pago.
+
+Cuarto.- Se mantienen vigentes los “Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles” publicados en el Diario Oficial de la Federación el 30 de mayo de 2022 y sus modificaciones, así como el “Acuerdo de la Junta Directiva del Instituto Federal de Especialistas de Concursos Mercantiles por el que se ordena la publicación de la Metodología para la obtención de información en integración del cuadro diagnóstico de evaluación para la categorización de los especialistas (etapa de quiebra)” publicado en el Diario Oficial de la Federación el 11 de noviembre de 2022.
