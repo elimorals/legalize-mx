@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-politecnica-de-apodaca-nuevo-77623"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-29"
-last_updated: "2010-11-29"
+last_updated: "2025-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD POLITECNICA DE APODACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de noviembre de 2010.
 
@@ -139,9 +139,11 @@ La Universidad contará con los Directores de División y de Programa Académico
 
 ### CAPÍTULO II. De la Junta Directiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2025)</small>
+
 ###### ARTÍCULO 8º.
 
-La Junta Directiva, órgano de gobierno de la Universidad, estará integrada por once miembros que serán:
+La Junta Directiva, órgano de gobierno de la Universidad, estará integrada por doce miembros que serán:
 
 I. Tres representantes del Gobierno Estatal, designados por el Titular del Ejecutivo Estatal, uno de los cuales será el Secretario de Educación, quien la presidirá;
 
@@ -149,9 +151,17 @@ II. Tres representantes del Gobierno Federal, designados por la Secretaría de E
 
 III. Cinco miembros distinguidos de la vida social, cultural, artística, científica y económica del país, invitados de común acuerdo entre el Gobierno del Estado de Nuevo León y la Secretaría de Educación Pública, tres a propuesta del Titular del Ejecutivo del Estado y dos a propuesta de la Secretaría de Educación Pública.
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2025)</small>
+
+IV. Un Diputado Local, representante del Poder Legislativo, que será designado por el Pleno del Congreso del Estado;
+
 La Junta Directiva, a propuesta de su Presidente, designará un Secretario que asistirá a las sesiones de este Órgano de Gobierno con voz pero sin voto y no se considerará para efectos del quórum requerido para sesionar.
 
 Para llevar a cabo las labores de vigilancia habrá un Comisario que será el representante de la Contraloría y Transparencia Gubernamental del Estado, quien participará también con voz pero sin voto y tampoco se considerará para efectos del quórum requerido para sesionar.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+Las sesiones del consejo se realizarán de manera pública, salvo que por disposición expresa de una ley se disponga lo contrario.
 
 ###### ARTÍCULO 9º.
 
@@ -506,3 +516,13 @@ EL C. SECRETARIO DE EDUCACIÓN
 DEL ESTADO
 
 JOSÉ ANTONIO GONZÁLEZ TREVIÑO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 052. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8 Y SE ADICIONA UNA FRACCIÓN IV Y UN QUINTO PÁRRAFO AL ARTÍCULO 8, TODOS DE LA LEY QUE CREA LA UNIVERSIDAD POLITÉCNICA DE APODACA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación.
