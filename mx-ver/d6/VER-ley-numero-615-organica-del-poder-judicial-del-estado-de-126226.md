@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2021-03-16"
+last_updated: "2025-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "VER"
 ---
 # LEY NUMERO 615 ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 231 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 29 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE FEBRERO DE 2025 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2025 (ABROGADA).
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -2820,3 +2824,51 @@ Artículo Cuarto. Una vez entrado en vigor el presente Decreto, el Poder Judicia
 Artículo Quinto. En términos de lo dispuesto por el artículo cuarto transitorio del Decreto 531 que reforma y adiciona diversas disposiciones de la Constitución Política del Estado en materia de implementación a nivel local de la Reforma Federal al Sistema de Justicia Laboral, publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el 4 de febrero de 2020, los Juzgados en Materia Laboral iniciarán sus funciones en la fecha que disponga la declaratoria que para el caso emita el Honorable Congreso del Estado.
 
 Artículo Sexto. Los procedimientos jurisdiccionales competencia de los juzgados en materia laboral que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje del Estado de Veracruz y sus Juntas Especiales concluirán en los términos establecidos por los Decretos expedidos por el Honorable Congreso de la Unión publicados en el Diario Oficial de la Federación en fechas 24 de febrero de 2017 y 1 de mayo de 2019, así como el diverso expedido por el Honorable Congreso del Estado publicado en la Gaceta Oficial del Estado en fecha 4 de febrero de 2020.
+
+G.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 231 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley 616 (sic) Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el seis de febrero de dos mil dieciocho, con las salvedades previstas en los transitorios siguientes.
+
+TERCERO. Hasta en tanto las Magistradas y Magistrados electos en el proceso electoral extraordinario 2024-2025 tomen protesta y las y los integrantes del Órgano de Administración Judicial entren en funciones, la conformación actual del Poder Judicial se regirá para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias, nombramientos, designaciones, régimen de organización y operación y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave que se abroga.
+
+CUARTO. El número de magistraturas señaladas para integrar los Tribunales Superior de Justicia y de Conciliación y Arbitraje, precisados en los artículos 9 y 32 de la presente Ley, respectivamente, será efectivo cuando se haya realizado la renovación completa de dichos órganos, es decir, una vez culminado el Proceso Electoral Ordinario 2026-2027; en tanto, el Pleno del Tribunal Superior de Justicia, por única ocasión, podrá realizar los ajustes necesarios para garantizar el adecuado funcionamiento de los mismos, incluyendo la implementación de medidas administrativas y organizacionales, así como la adscripción y readscripción de las titularidades reguladas bajo el modelo anterior al Decreto número 227 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado el veintisiete de diciembre de dos mil veinticuatro.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley, el Consejo de la Judicatura determinará, mediante acuerdo general, la organización, plan, bases y medidas del régimen de transición y transferencia de los recursos humanos, materiales, financieros y presupuestales a los distintos órganos y áreas del Poder Judicial, de acuerdo con las atribuciones señaladas en la presente Ley.
+
+SEXTO. Al Tribunal de Disciplina Judicial le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas del Consejo de la Judicatura, que actualmente ejercen funciones de disciplina y control interno, así como de la Visitaduría Judicial y su Central. En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura al Tribunal de Disciplina, éstos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+SÉPTIMO. Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial, particularmente el área de gestión de personal, así como la Escuela Judicial del Estado; las Direcciones General de Administración, de Control y Estadística, del Registro Estatal de Peritos y de Asuntos Jurídicos; el Comité Técnico de Administración del Fondo Auxiliar para la Impartición de Justicia; y la Contraloría.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura al Órgano de Administración, éstos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables
+
+OCTAVO. Para la transferencia de los recursos humanos, materiales, financieros y presupuestales señalados en los transitorios anteriores, el Consejo de la Judicatura podrá adoptar las medidas que considere pertinentes relativas al movimiento y readscripción del personal proveniente de otras áreas para la conformación de los nuevos órganos, atendiendo a sus necesidades estructurales y funcionales.
+
+NOVENO. El Tribunal Superior de Justicia y el Consejo de la Judicatura deberán garantizar la continuidad de los instrumentos jurídicos de adquisición de bienes, así como la contratación de servicios, arrendamientos, obras y servicios relacionados con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos integrantes del Poder Judicial, previendo que las vigencias de los instrumentos contractuales no superen el ejercicio dos mil veinticinco, de conformidad con el presupuesto aprobado por el Congreso del Estado para el año fiscal correspondiente.
+
+De igual forma, las condiciones generales de trabajo que tenga actualmente celebradas el Poder Judicial con los Sindicatos de sus trabajadores se mantendrán vigentes, para tal efecto, las obligaciones a cargo del Consejo de la Judicatura las asumirá el Órgano de Administración Judicial.
+
+DÉCIMO. Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor de la presente Ley se substanciarán por el Tribunal de Disciplina Judicial o el Órgano de Administración Judicial, según corresponda, conforme a las disposiciones vigentes en aquel momento.
+
+DÉCIMO PRIMERO. En todo lo no previsto en la presente Ley, el Pleno del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura mediante acuerdo general.
+
+DÉCIMO SEGUNDO. Los precedentes obligatorios de los órganos jurisdiccionales del Poder Judicial que se hubieran emitido con anterioridad a la entrada en vigor de la presente Ley mantendrán su vigencia y, por tanto, su carácter orientativo o vinculante según corresponda.
+
+Para su modificación, las nuevas personas servidoras públicas electas para cargos de decisión jurisdiccional deberán observar y respetar los requisitos previstos para ello en los términos y procedimientos que para tal efecto establezcan las leyes.
+
+La nueva integración del Pleno del Tribunal Superior de Justicia estará facultada para dilucidar la posible contradicción de criterios sostenidos entre las anteriores Salas.
+
+DÉCIMO TERCERO. Los Acuerdos Generales emitidos por el Consejo de la Judicatura continuarán vigentes en todo lo que no se oponga a la (sic) Constituciones Políticas Federal y del Estado y a la presente Ley, hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial emitan sus propios Acuerdos.
+
+DÉCIMO CUARTO. El Órgano de Administración Judicial contará con ciento veinte días naturales para proceder con el cambio de denominación y asignación de número ordinal consecutivo de los Juzgados de Primera Instancia en cada Distrito Judicial, de conformidad con las bases establecidas en la presente Ley. Al entrar en vigor el acuerdo correspondiente del Órgano de Administración Judicial quedará derogado el artículo 239 de la presente Ley.
+
+DÉCIMO QUINTO. Los Juzgados Municipales cambiarán su denominación a Actuarías Municipales y su Secretaría de Acuerdos a Actuaría Municipal Auxiliar; para tal efecto, los recursos humanos, financieros y materiales serán transferidos orgánica y administrativamente bajo las mismas condiciones y términos con que operan actualmente. De igual forma, serán respetados los derechos y prestaciones laborales, así como las categorías y niveles administrativos adquiridos a la entrada en vigor de la presente Ley.
+
+DÉCIMO SEXTO. La unidad de transparencia mantendrá su estructura y conducirá sus actividades de conformidad con las leyes de su materia vigentes hasta en tanto se realicen las modificaciones normativas correspondientes, entonces pasará a formar parte de la Contraloría, conforme lo establecido en la presente Ley.
+
+DÉCIMO SÉPTIMO. El Fondo Auxiliar seguirá operando bajo la figura del Fideicomiso en tanto el Órgano de Administración Judicial procede con su conversión en cuenta productiva o mecanismo análogo ante la institución financiera que determine, mediante las medidas legales y administrativas correspondientes para continuar con su función, de acuerdo con los términos de esta Ley.
+
+DÉCIMO OCTAVO. A partir de la entrada en vigor de la presente Ley, la Escuela Judicial del Poder Judicial del Estado de Veracruz, cambiará su denominación a Escuela Judicial Veracruzana, conservando los recursos humanos, financieros y materiales actuales, los cuales se ajustarán a la estructura, organización y facultades que señala esta Ley.
