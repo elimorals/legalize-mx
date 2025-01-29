@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-de-fiscalia-general-del-estado-de-tabasco-12481
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-18"
-last_updated: "2017-10-18"
+last_updated: "2025-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE ETICA DE FISCALIA GENERAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 29 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025 (ABROGADO).
 
 Acuerdo publicado en el Suplemento al Número 7838 del Periódico Oficial del Estado de Tabasco, el miércoles 18 de octubre de 2017.
 
@@ -174,3 +176,17 @@ DADO EN EL DESPACHO DEL FISCAL GENERAL, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DE
 DR. FERNANDO VALENZUELA PERNAS
 
 FISCAL GENERAL DEL ESTADO DE TABASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ENERO DE 2025
+
+## [N. DE E. TRANSITORIOS DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Segundo. Se abroga el Acuerdo mediante el que se expide el Código de Ética de la Fiscalía General del Estado de Tabasco, publicado el 18 de octubre de 2017, en el Suplemento 7838 del Periódico Oficial del Gobierno del estado de Tabasco número 8207.
+
+Tercero. Se otorga un plazo no mayor a 45 días naturales siguientes a la entrada en vigor del presente Código de Ética, para la integración del Comité de Ética a que se refiere el Título Tercero del mismo.
+
+Cuarto. El Comité de Ética que a la entrada en vigor del presente Acuerdo y una vez que se encuentre debidamente constituido, tendrá un plazo de 45 días naturales para elaborar y aprobar el Código de Conducta a que refiere el artículo 17 fracción II de este Código.
