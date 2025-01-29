@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nuevo-1456
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2022-06-10"
+last_updated: "2025-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 21 de diciembre de 2020.
 
@@ -196,6 +196,10 @@ XVI. Parque de Investigación Científica, Tecnología e Innovación: el espacio
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 XVII. PROCTEINL: Al Programa de Ciencia, Tecnología e Innovación de Nuevo León, para impulsar el conocimiento científico, la tecnología y la innovación para el desarrollo como instrumento prioritario, que tendrá que ser actualizable cada tres años por el Consejo General y es el instrumento que rige las acciones estatales en el tema CTI;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2025)</small>
+
+XVII BIS. Repositorio Estatal: plataforma digital encargada de almacenar, agrupar y preservar la información científica, derivada de investigaciones, material educativo o académico que sea financiado por recursos públicos, privados o mixtos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -455,11 +459,33 @@ k) Manufactura Avanzada e Industria 4.0;
 
 l) Agroalimentos;
 
-m) Herramental; y
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
 
-n) Turismo.
+m) Herramental;
 
-Las demás ciencias sociales que el Consejo determine pertinentes de acuerdo con los momentos y la realidad que viva la Entidad.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
+
+n) Turismo;
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+o) Robótica;
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+p) Inteligencia Artificial;
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+q) Mecatrónica; y
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+r) Minería de datos.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
+
+Las demás ciencias sociales y ciencias exactas que el Consejo determine pertinentes de acuerdo con los momentos y la realidad que viva el Estado.
 
 III. Los proyectos estratégicos para el desarrollo y transformación del Estado, así como acciones concretas para su realización a corto, mediano y largo plazos;
 
@@ -587,23 +613,21 @@ La información del SEICYT será accesible al público en general a través de l
 
 Se buscará que el conocimiento esté disponible, a texto completo y en formatos digitales a los educandos, educadores, académicos, investigadores, científicos, tecnólogos y población en general.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
 
-###### Artículo 20 Bis 1.
+Artículo 20 bis 1.- Para el adecuado funcionamiento y desarrollo del Acceso a la Información Científica, Tecnológica y de Innovación de Calidad, el I2T2 deberá:
 
-Para el adecuado funcionamiento y desarrollo del Acceso a la Información Científica, Tecnológica y de Innovación de Calidad, el I2T2 deberá:
+I. Crear y operar un repositorio con la información científica y tecnológica relevante en la entidad, con acceso a bases de datos y a otros repositorios nacionales e internacionales disponibles de acceso abierto, además contendrá las investigaciones que se hagan en el estado con recursos o financiamientos públicos;
 
-VII (SIC). Crear un repositorio con la información científica y tecnológica relevante en la entidad, con acceso a bases de datos y a otros repositorios nacionales e internacionales disponibles de acceso abierto;
+II. Actualizar permanentemente la adquisición de recursos de información científica y tecnológica publicada;
 
-VIII. Actualizar permanentemente la adquisición de recursos de información científica y tecnológica publicada;
+III. Simplificar los procesos administrativos para la adquisición de bases de datos y colecciones de información científica y tecnológica en formato digital;
 
-IX. Simplificar los procesos administrativos para la adquisición de bases de datos y colecciones de información científica y tecnológica en formato digital;
+IV. Promover la operación y uso de bases de datos de publicaciones electrónicas en las instituciones de educación superior y centros de investigación del estado;
 
-X. Promover la operación y uso de bases de datos de publicaciones electrónicas en las instituciones de educación superior y centros de investigación del estado;
+V. Ampliar la cobertura temática de las publicaciones científicas y tecnológicas disponibles a los usuarios mediante el uso colectivo de las colecciones, y
 
-XI. Ampliar la cobertura temática de las publicaciones científicas y tecnológicas disponibles a los usuarios mediante el uso colectivo de las colecciones, y
-
-XII. Promover la capacitación a los usuarios, con el apoyo y seguimiento de las instituciones de educación superior y centros de investigación, con la finalidad de hacer mejor uso y aprovechamiento de los acervos.
+VI. Promover la capacitación a los usuarios, con el apoyo y seguimiento de las instituciones de educación superior y centros de investigación, con la finalidad de hacer mejor uso y aprovechamiento de los acervos.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1144,3 +1168,15 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 131. SE REFORMAN LAS FRACCIONES XXII Y XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 4, DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 2 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 041. SE REFORMAN LOS INCISOS M) Y N) Y EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 17, EL ARTÍCULO 20 BIS 1; SE ADICIONAN LA FRACCIÓN XVII BIS AL ARTÍCULO 3, LOS INCISOS O), P), Q) Y R) A LA FRACCIÓN II AL ARTÍCULO 17, TODOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En un plazo de 180 días hábiles a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá expedir o adecuar las disposiciones reglamentarias correspondientes para dar cumplimiento al mismo.
+
+TERCERO. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal correspondiente, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+En todo momento, el cumplimiento a las acciones emanadas del presente Decreto, estarán sujetas a las capacidades económicas, fiscales y financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
