@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2023-11-13"
+last_updated: "2025-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122872&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -130,11 +130,11 @@ REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL 
 
 El presente Reglamento es de observancia obligatoria y tiene por objeto regular la celebración, conducción y desarrollo de las sesiones del Consejo General y comisiones del Instituto Electoral de la Ciudad de México, así como la actuación de sus integrantes durante las mismas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 2.
 
-Para los efectos de este Reglamento, se entenderá por:
+Para los efectos de este Reglamento, (sic) entenderá por:
 
 A) En cuanto a los ordenamientos legales:
 
@@ -147,6 +147,8 @@ III. Constitución Local: Constitución Política de la Ciudad de México;
 IV. Reglamento: Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México; y
 
 V. Reglamento Interior: Reglamento Interior del Instituto Electoral de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. REPULICADO ESTE PÁRRAFO], G.O. 29 DE ENERO DE 2025)</small>
 
 B) En cuanto a las autoridades y órganos:
 
@@ -164,45 +166,57 @@ IV. Consejeras y Consejeros Electorales: Las personas que integran el Consejo Ge
 
 V. Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE ENERO DE 2025)</small>
 
-VI. Integrantes del Consejo General: La Consejera o Consejero Presidente, las seis Consejeras y Consejeros Electorales, la Secretaría del Consejo y las Representaciones de los Partidos Políticos;
+VI. Integrantes del Consejo General: La Consejera o Consejero Presidente, las seis Consejeras y Consejeros Electorales, la Secretaría del Consejo y las Representaciones de los Partidos Políticos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE ENERO DE 2025)</small>
+
+Tratándose del Proceso Electoral para la elección de personas juzgadoras, se integrará por, la Consejera o Consejero Presidente, las seis Consejeras y Consejeros Electorales y la Secretaría del Consejo.
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 VII. Personas invitadas: El personal del Instituto Electoral, especialistas externos que, a solicitud que les sea formulada por la Presidencia del Consejo General o las Presidencias de las Comisiones o Comités, participen con derecho a voz en las sesiones del Consejo General y de las Comisiones o Comités;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE ENERO DE 2025)</small>
 
 VIII. Personas invitadas permanentes: Representantes de los grupos parlamentarios del Congreso de la Ciudad de México a las sesiones del Consejo General;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE ENERO DE 2025)</small>
 
-IX. Personas participantes del Consejo General: Integrantes del Consejo General, personas invitadas permanentes y representaciones de candidaturas que asistan a las sesiones del Consejo General;
+En el Proceso Electoral para la elección de personas juzgadoras, las personas invitadas permanentes no serán convocadas a las sesiones del Consejo General.
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE ENERO DE 2025)</small>
 
-X. Presidencia de la Comisión o Comité: La persona que ostenta la Presidencia de las Comisiones o Comités, según sea el caso;
+IX. Personas juzgadoras: Las Magistradas y Magistrados, Jueces y Juezas, integrantes del Poder Judicial de la Ciudad de México, electas por el voto secreto y directo de la Ciudadanía;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ENERO DE 2025)</small>
 
-XI. Presidencia del Consejo General: La persona que ostenta la Presidencia del Consejo General del Instituto Electoral de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
-
-XII. Representaciones de candidaturas: Representantes de las candidaturas sin partido para la elección de Jefatura de Gobierno de la Ciudad de México;
+X. Personas participantes del Consejo General: Integrantes del Consejo General, personas invitadas permanentes y representaciones de candidaturas que asistan a las sesiones del Consejo General;
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XIII. Representaciones de partido: Las personas titulares de las representaciones de los partidos políticos acreditados ante el Consejo General;
+XI. Presidencia de la Comisión o Comité: La persona que ostenta la Presidencia de las Comisiones o Comités, según sea el caso;
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XIV. Secretaría del Consejo: La persona que ostenta la Secretaría del Consejo General; y
+XII. Presidencia del Consejo General: La persona que ostenta la Presidencia del Consejo General del Instituto Electoral de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XIII. Representaciones de candidaturas: Representantes de las candidaturas sin partido para la elección de Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XIV. Representaciones de partido: Las personas titulares de las representaciones de los partidos políticos acreditados ante el Consejo General;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XV. Secretaría del Consejo: La persona que ostenta la Secretaría del Consejo General; y
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XV. Secretaría Técnica: Secretaria Técnica o Secretario Técnico de las Comisiones.
+XVI. Secretaría Técnica: Secretaria Técnica o Secretario Técnico de las Comisiones.
 
 ###### Artículo 3.
 
@@ -228,7 +242,7 @@ Las personas participantes del Consejo General, de las Comisiones y Comités, as
 
 ### CAPÍTULO I. De las atribuciones de las y los asistentes a las sesiones del Consejo General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 6.
 
@@ -272,7 +286,13 @@ XIV. Declarar, por causa de fuerza mayor o caso fortuito, la suspensión tempora
 
 XV. Excusarse de conocer de algún asunto en que tengan interés personal, por relaciones de parentesco o negocios, amistad estrecha o enemistad que pueda afectar la imparcialidad en su desempeño; y
 
-XVI. Las demás que le confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE ENERO DE 2025)</small>
+
+XVI. Instruir a la persona Secretaria del Consejo General emitir, enviar y, en su caso, publicar los avisos de diferimiento de inicio de las sesiones del Consejo General, en términos de lo señalado en este Reglamento; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 29 DE ENERO DE 2025)</small>
+
+XVI (SIC). Las demás que le confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
 ###### Artículo 7.
 
@@ -300,7 +320,7 @@ VIII. Excusarse de conocer de algún asunto en que tengan interés personal, por
 
 IX. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 8.
 
@@ -312,9 +332,9 @@ I. Asistir de forma presencial, o bien, virtual, a las sesiones del Consejo Gene
 
 II. Preparar los proyectos de orden del día, convocatorias e invitaciones a las sesiones del Consejo General;
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
 
-III. Enviar de manera física o electrónica a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las personas invitadas permanentes la invitación respectiva.
+III. Enviar de manera física o electrónica a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, avisos de diferimiento, así como enviar a las personas invitadas permanentes la invitación respectiva.
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -368,11 +388,11 @@ XV. Elaborar las versiones estenográficas de las sesiones del Consejo General y
 
 XVI. Las demás que le confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 9.
 
-Corresponde a las representaciones de partido:
+Corresponde a las representaciones de partido, en las sesiones en las que sean convocadas:
 
 > <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
@@ -402,11 +422,11 @@ IX. Alternarse durante el desarrollo de las sesiones, entre propietaria y suplen
 
 X. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 10.
 
-Corresponde a las personas invitadas permanentes:
+Corresponde a las personas invitadas permanentes, en las sesiones a las que sean convocadas:
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -424,11 +444,11 @@ V. Contribuir al correcto desarrollo de las sesiones; y
 
 VI. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 11.
 
-Corresponde a las representaciones de candidaturas:
+Corresponde a las representaciones de candidaturas, en las sesiones a las que sean convocadas:
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -492,19 +512,25 @@ II. El Consejo General deberá resolver de inmediato respecto de la procedencia 
 
 #### SECCIÓN PRIMERA. Del Tipo de Sesiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
+
 ###### Artículo 14.
 
 Las sesiones del Consejo General podrán ser ordinarias, extraordinarias, urgentes y solemnes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE ENERO DE 2025)</small>
+
+En el Proceso Electoral para la elección de personas juzgadoras, las sesiones del Consejo General serán ordinarias, extraordinarias, urgentes y solemnes; y no podrán participar las representaciones de partidos políticos, candidaturas y personas invitadas permanentes, por lo que no serán convocadas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
 
 Dichas sesiones podrán realizarse de manera presencial, virtual o mixta, observando en todo momento las reglas generales previstas en el presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
 
 Serán sesiones virtuales aquellas que se celebren en modalidad a distancia mediante el uso de herramientas tecnológicas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
 
 Las sesiones virtuales serán difundidas en tiempo real a través de las plataformas digitales con las que cuenta el Instituto Electoral.
 
@@ -512,17 +538,25 @@ Las sesiones virtuales serán difundidas en tiempo real a través de las platafo
 
 Las sesiones mixtas podrán desarrollarse con algunas personas integrantes del Consejo General presentes de forma virtual y otras de forma presencial en las instalaciones del Instituto Electoral, para lo cual deberán notificar a la persona titular de la Presidencia del Consejo General la forma en que opten para asistir a la sesión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE ENERO DE 2025)</small>
 
 En caso de que la Presidencia del Consejo General opte por llevar a cabo la sesión de forma mixta, tendrá que mencionar esta circunstancia en la convocatoria correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE ENERO DE 2025)</small>
+
 A) Las sesiones ordinarias se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ENERO DE 2025)</small>
 
 I. Serán convocadas por la Presidencia del Consejo General cada dos meses de forma ordinaria y cada mes, desde el inicio hasta la conclusión de los procesos electorales y de participación ciudadana; y
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE ENERO DE 2025)</small>
+
 II. Tendrán por objeto tratar los asuntos que se señalen en el orden del día, el cual deberá incluir un punto de asuntos generales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE ENERO DE 2025)</small>
+
+En ningún caso las representaciones de los partidos políticos podrán solicitar la inclusión de asuntos relacionados con el Proceso Electoral de personas juzgadoras.
 
 B) Las sesiones extraordinarias se sujetarán a lo siguiente:
 
@@ -558,23 +592,23 @@ A la convocatoria a la sesión pública solemne deberá adjuntarse el orden del 
 
 #### SECCIÓN SEGUNDA. De la Convocatoria e Invitación a las Sesiones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 15.
 
-La convocatoria a sesión dirigida a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas, deberá contener el día y la hora en que la misma se deba celebrar, señalando si se trata de sesión presencial, virtual o mixta, en cuyo caso se deberá mencionar la plataforma virtual correspondiente; la mención de su carácter de ordinaria, extraordinaria, urgente o solemne y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, en concordancia con los medios establecidos por el Código, los anexos necesarios para la discusión de los asuntos incluido s (sic) en el orden del día.
-
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+La convocatoria a sesión dirigida a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas, deberá contener el día y la hora en que la misma se deba celebrar, señalando si se trata de sesión presencial, virtual o mixta, en cuyo caso se deberá mencionar la plataforma virtual correspondiente; la mención de su carácter de ordinaria, extraordinaria, urgente o solemne y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, en concordancia con los medios establecidos por el Código, los anexos necesarios para la discusión de los asuntos incluidos en el orden del día.
 
 El oficio que se emita a las personas invitadas permanentes para que asistan a la sesión del Consejo General, deberá contener los mismos elementos señalados en el párrafo anterior.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
-
-La documentación de los asuntos a desahogar en las sesiones del Consejo General se publicarán en la página de Internet institucional, a partir de que sea notificada la convocatoria a la sesión correspondiente, excepto tratándose de documentos que, por su naturaleza, contengan información confidencial, reservada o sean materia de procedimientos sancionadores o de fiscalización.
-
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+La documentación de los asuntos a desahogar en las sesiones del Consejo General se publicará en la página de Internet institucional, a partir de que sea notificada la convocatoria a la sesión correspondiente, excepto tratándose de documentos que, por su naturaleza, contengan información confidencial, reservada o sean materia de procedimientos sancionadores o de fiscalización.
 
 Para efectos del párrafo que antecede, en la página de Internet institucional, se deberá colocar la siguiente leyenda en el punto del que se trate: “NOTA: Este documento no se publica debido a que se encuentra en alguno de los supuestos establecidos en el artículo 15, párrafo tercero, del Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral.”
+
+La Presidencia del Consejo General podrá ordenar diferir el inicio de las sesiones del Consejo General por causa justificada, lo cual deberá realizarse previo a la hora del inicio de la sesión, y podrá diferirse máximo doce horas posteriores de la hora inicialmente convocada.
+
+Para llevar a cabo el diferimiento de la sesión, la Presidencia del Consejo General solicitará a la Secretaría del Consejo emitir el aviso respectivo, el cual se notificará a las personas integrantes del Consejo General, a través de la misma vía por la que fueron convocadas y se difundirá en el apartado respectivo de la página institucional.
+
+Se entenderá por causa justificada para el diferimiento de la sesión, cuando, por caso fortuito o fuerza mayor, no sea posible llevar a cabo la sesión respectiva en la hora convocada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
@@ -908,29 +942,29 @@ Salvo que el Código o el Consejo General establezcan un plazo especial, todos l
 
 ### CAPÍTULO I. De la Integración de las Comisiones del Consejo General
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2025)</small>
+
 ###### Artículo 44.
 
 Las Comisiones son instancias colegiadas con facultades de deliberación, opinión y propuesta. Estarán conformadas de la siguiente forma:
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
-
 I. Tres Personas Consejeras Electorales con derecho a voz y voto, una de ellas ocupará la Presidencia;
 
-> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2023)</small>
+II. Las representaciones de partido serán integrantes con derecho a voz, con excepción de la Comisión de Quejas y en ningún caso conformarán quórum.
 
-II. Las representaciones de partido serán integrantes con derecho a voz, con excepción de la Comision de Quejas y en ningún caso conformarán quórum.
+En el caso de la Comisión de Asociaciones Políticas y Fiscalización, participarán en las sesiones públicas con la calidad de invitadas.
 
-En el caso de la Comisión de Asociaciones Políticas y Fiscalización, participarán en las sesiones públicas con la calidad de invitadas, con derecho a voz, pero sin conformar quórum.
+En los Procesos Electorales para la elección de personas juzgadoras, las representaciones de los partidos políticos no podrán integrar o participar en las sesiones o asuntos de las Comisiones.
 
-> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2023)</small>
+III. Las representaciones de candidaturas con acreditación a partir de su registro y exclusivamente durante el proceso electoral, contarán con derecho a voz, con excepción de la Comisión de Quejas y no conformarán quórum;
 
-III. Las representaciones de candidaturas con acreditación a partir de su registro y exclusivamente durante el proceso electoral, contarán con derecho a voz, con excepción de la Comision de Quejas y no conformarán quórum;
+En el caso de la Comisión de Asociaciones Políticas y Fiscalización, participarán en las sesiones públicas con la calidad de invitadas.
 
-En el caso de la Comisión de Asociaciones Políticas y Fiscalización, participarán en las sesiones públicas con la calidad de invitadas, cuando la naturaleza de los asuntos así lo amerite, con derecho a voz, pero sin conformar quórum; y
-
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+Tratándose de los Procesos Electorales para la elección de personas juzgadoras, las representaciones de las candidaturas no podrán participar en las sesiones o asuntos de las Comisiones.
 
 IV. Las personas invitadas permanentes, durante los procesos electorales, se integrarán a los trabajos de las Comisiones de Organización Electoral y Geoestadística, y de Participación Ciudadana y Capacitación, así como a los trabajos de las Comisiones Provisionales previstas en el artículo 71 del Código, sólo con derecho a voz, su intervención únicamente estará vinculada al proceso electoral y no contarán para efectos del quórum.
+
+En los Procesos Electorales para la elección de personas juzgadoras, las personas invitadas permanentes no podrán participar en las sesiones o asuntos de las Comisiones.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -1024,7 +1058,7 @@ VIII. Las demás que les confiera el Código, el Reglamento Interior y la normat
 
 Las Presidencias de las Comisiones tienen la facultad de proponer como Titular de la Secretaría Técnica de su Comisión a una persona servidora pública con adscripción a su oficina, que tenga un perfil profesional acorde con los trabajos de la Comisión en la que se desempeñará o quien ostente la titularidad de la Dirección Ejecutiva o Unidad Técnica de la materia más afín.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 49.
 
@@ -1044,7 +1078,7 @@ IV. Pasar lista de asistencia al inicio de cada sesión;
 
 V. Verificar el quórum y, en su caso, declarar su existencia;
 
-VI. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
+VI. (DEROGADA, G.O. 29 DE ENERO DE 2025)
 
 VII. Tomar las votaciones y dar a conocer los resultados de las mismas;
 
@@ -1056,7 +1090,7 @@ IX. Llevar un registro de los dictámenes, acuerdos y resoluciones adoptados en 
 
 X. Contribuir al correcto desarrollo de las sesiones;
 
-XI. Manifestarse libremente sobre los temas que se traten en las sesiones;
+XI. (DEROGADA, G.O. 29 DE ENERO DE 2025)
 
 XII. Elaborar la minuta de cada sesión;
 
@@ -1074,11 +1108,11 @@ XVI. Llevar el archivo de la Comisión; y
 
 XVII. Las demás que les confiera el Código, el Reglamento Interior, la Presidencia de su Comisión y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 50.
 
-Corresponde a las Representaciones de partido:
+Corresponde a las Representaciones de partido, en las sesiones a las que sean convocadas:
 
 > <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1100,11 +1134,11 @@ VII. Alternarse durante el desarrollo de las sesiones, entre persona propietaria
 
 VIII. Las demás que les confiera el Código, el Reglamento y demás normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 51.
 
-Corresponde a las representaciones de candidaturas:
+Corresponde a las representaciones de candidaturas, en las sesiones a las que sean convocadas:
 
 > <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
 
@@ -1147,6 +1181,8 @@ I. Deberá presentar a la Secretaría Técnica, previamente al inicio de la disc
 II. La Comisión deberá resolver de inmediato respecto de la procedencia de la excusa que se haga valer.
 
 ### CAPÍTULO III. Del tipo de sesiones y de la convocatoria
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 53.
 
@@ -1197,6 +1233,10 @@ I. Serán convocadas las personas integrantes por la Presidencia de la Comisión
 II. Tendrán por objeto tratar asuntos específicos que por su importancia y carácter urgente para los fines del Instituto Electoral, deben ser atendidos de manera inmediata; y
 
 III. Solamente podrán tratarse aquellos asuntos para los que se convocó.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE ENERO DE 2025)</small>
+
+En las sesiones de las Comisiones en las que se incluyan asuntos vinculados con la elección de personas juzgadoras, no serán convocadas las representaciones de partidos políticos, candidaturas y personas invitadas permanentes.
 
 > <small>(ADICIONADO, G.O. 4 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1280,13 +1320,15 @@ En caso de que la persona consejera que sigue en la lista no tenga posibilidades
 
 La lista de suplencias a que alude el presente artículo se integrará de conformidad con las disposiciones contenidas en el artículo 78 del Código.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2025)</small>
 
 ###### Artículo 59.
 
 Las personas integrantes de las Comisiones podrán proponer la inclusión de asuntos en el orden del día de una sesión, dentro de las doce horas siguientes a la fecha en que reciba la convocatoria para la misma. Por lo que hace a las representaciones de candidaturas, sólo podrán proponer temas relacionados con la elección de la Jefatura de Gobierno.
 
 La Presidencia de la Comisión, cuando resulte procedente, incluirá el asunto solicitado en el orden del día correspondiente.
+
+En ningún caso, las representaciones de los partidos políticos candidaturas y personas invitadas permanentes podrán solicitar inclusión de asuntos relacionados con el Proceso Electoral de personas juzgadoras.
 
 ### CAPÍTULO IV. Del Inicio y Desarrollo de las Sesiones
 
@@ -1493,3 +1535,19 @@ CUARTO. Publíquese el presente Acuerdo y su Anexo en los estrados de las oficin
 QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México, para su publicación.
 
 SEXTO. Publíquese el presente Acuerdo y su Anexo en la página de internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+G.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. [IECM/ACU-CG-013/2025]”.]
+
+PRIMERO. Se aprueban las reformas al “Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México”, en términos de la parte considerativa del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al momento de su aprobación.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva para que comunique, mediante circular, el contenido del presente Acuerdo a las Direcciones Ejecutivas, Unidades Técnicas, Contraloría Interna y Órganos Desconcentrados del Instituto Electoral, para su observancia y aplicación en el ámbito de su competencia.
+
+CUARTO. Publíquese el presente Acuerdo en los estrados de las oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+QUINTO. Remítase el presente Acuerdo a la Gaceta Oficial de la Ciudad de México, para su publicación.
+
+SEXTO. Publíquese el presente Acuerdo en la página de internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
