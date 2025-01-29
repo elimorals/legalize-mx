@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2024-12-26"
+last_updated: "2025-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -385,17 +385,21 @@ XVII. Recibir y registrar, de acuerdo como corresponda el caso, las declaracione
 
 XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, nombrar al titular de la Contraloría General del Instituto Electoral Veracruzano, a propuesta de instituciones públicas de educación superior del Estado, previa convocatoria que para el efecto se emita;
 
-> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
 
-XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial, a los magistrados del Tribunal Estatal de Justicia Administrativa y al Presidente de la Comisión Estatal de Derechos Humanos; y con la aprobación de las dos terceras partes de los diputados presentes, a los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales;
+XIX. Nombrar, con la aprobación de las dos terceras partes de los presentes a Magistradas y Magistrados del Tribunal Estatal de Justicia Administrativa del Estado de Veracruz, y a quien presida la Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
 
-XX. Ratificar, con la aprobación de las dos terceras partes de sus integrantes, el nombramiento de un miembro del Consejo de la Judicatura;
+XX. Designar, con la aprobación de las dos terceras partes de las y los diputados presentes, a un integrante del órgano de administración judicial;
 
-XXI. Conceder al Gobernador, a los Diputados, a los magistrados y a los consejeros de la Judicatura que hubiere designado, licencia temporal para separarse de su cargo. No se podrán conceder licencias por tiempo indefinido.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
 
-XXII. Resolver sobre la renuncia que presenten el Gobernador, los magistrados y los consejeros de la Judicatura que hubiere designado;
+XXI. Conceder a la Gobernadora o el Gobernador, a las diputaciones, licencia temporal para separarse de su cargo; y, en el caso de Magistradas y Magistrados del Poder Judicial, así como de las y los integrantes del órgano de administración judicial, cuando la licencia exceda de un mes. No se podrán conceder licencias por tiempo indefinido.
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
+
+XXII. Resolver sobre la renuncia que presenten la Gobernadora o el Gobernador, Magistradas, Magistrados, Juezas, Jueces y del integrante del órgano de administración judicial que hubiese designado;
 
 XXIII. Constituirse en Colegio Electoral y elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos que señale la Constitución local;
 
@@ -469,7 +473,9 @@ XXXV. Conceder dispensas de ley por causas justificadas o por razones de utilida
 
 XXXVI. Conceder cartas de ciudadanía honoraria a los vecinos de otros Estados que fueren acreedores a ello por sus méritos; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado; y declarar beneméritos a los que se hayan distinguido por servicios eminentes a Veracruz;
 
-XXXVII. Recibir del Gobernador, de los Diputados, de los magistrados, de los integrantes del Consejo de la Judicatura, y de los titulares de los organismos autónomos de Estado, la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
+
+XXXVII. Recibir del o la Gobernadora, de diputadas, diputados, Magistradas, Magistrados, integrantes del órgano de administración judicial y titulares de los organismos autónomos de (sic) Estado la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen;
 
 XXXVIII. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley constituya un ataque a la soberanía o autonomía del Estado, o de la Constitución Federal;
 
@@ -531,13 +537,29 @@ LII. Expedir las leyes que instituyan el Tribunal Estatal de Justicia Administra
 
 LIII. Expedir la legislación en materia local anticorrupción, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las leyes generales en la materia, con objeto de coordinarse para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
 
-LIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de la Constitución Política Local, y
+LIV. Designar y remover al Fiscal General del Estado, de conformidad con lo previsto en el artículo 67 fracción I inciso d) de la Constitución Política Local;
 
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE ENERO DE 2025)</small>
 
-LV. Las demás que le confieren la Constitución Federal, la Constitución Política Local y las que sean necesarias para hacer efectivas sus atribuciones.
+LV. Emitir la convocatoria para la elección de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Conciliación y Arbitraje, así como para Juezas y Jueces de Primera Instancia del Poder Judicial del Estado de Veracruz;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2025)</small>
+
+LVI. Conformar el Comité de Evaluación del Poder Legislativo del Estado para integrar el listado de postulaciones del Poder Legislativo en la elección judicial correspondiente;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2025)</small>
+
+LVII. Aprobar, por el voto de las dos terceras partes de sus integrantes presentes, el listado de postulaciones del Poder Legislativo para ocupar magistraturas y juzgados de primera instancia;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2025)</small>
+
+LVIII. Recibir los listados de postulaciones de los Poderes del Estado y remitirlos al Organismo Público Local Electoral a efecto de que organice el proceso electivo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE ENERO DE 2025)</small>
+
+LIX. Las demás que le confieran la Constitución Federal, la Constitución Local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -1019,7 +1041,9 @@ V. Recibir las iniciativas que le sean presentadas y turnarlas a las comisiones 
 
 VI. Presidir la sesión pública y solemne convocada para el solo efecto de declarar formalmente instalado el nuevo Congreso;
 
-VII. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2025)</small>
+
+VII. Conceder o negar las solicitudes de licencia o renuncia que le sometan las Magistradas y Magistrados del Poder Judicial, así como de las y los integrantes del órgano de administración judicial, cuando la licencia exceda de un mes;
 
 VIII. Autorizar, con el voto de las dos terceras partes de los Diputados presentes, al Ejecutivo del Estado o a los ayuntamientos, a enajenar a título oneroso o gratuito, o conceder el uso y disfrute, de bienes propiedad del Estado o de los municipios, dando cuenta al Congreso en la primera sesión de éste, concluido el receso. Las enajenaciones o concesiones sólo podrán hacerse cuando medie interés social;
 
@@ -1029,7 +1053,7 @@ IX. Convocar a elecciones extraordinarias, si faltaren a la vez un Diputado prop
 
 IX Bis. Llamar, en cualquier momento, cuando se trate de diputados elegidos por el principio de representación proporcional, al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos, si ocurriere la falta del propietario y del suplente;
 
-X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
+X. (DEROGADA, G.O. 29 DE ENERO DE 2025)
 
 > <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -2112,3 +2136,11 @@ G.O. 26 DE DICIEMBRE DE 2024.
 Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
