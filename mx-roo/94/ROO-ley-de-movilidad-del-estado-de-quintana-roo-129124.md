@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2025-01-22"
+last_updated: "2025-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -2179,9 +2179,9 @@ VII. La suspensión de la prestación del Servicio Público de Transporte;
 
 VIII. Que el concesionario por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, se haga acreedor a infracciones calificadas como graves, en términos de la presente Ley y su Reglamento;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2025)</small>
 
-IX. Cuando se compruebe por la autoridad competente y en última instancia que el concesionario, por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, ha cometido algún delito;
+IX. Cuando se compruebe, por la autoridad competente y en última instancia, que el concesionario por sí mismo o a través de sus operadores o empleados ha cometido algún delito doloso estando en el ejercicio de sus labores relacionadas con la prestación del servicio público;
 
 X. Modificar o alterar las tarifas, horarios y demás condiciones en que fue originalmente entregada la concesión o permiso, sin aprobación previa y por escrito, en lo que se aplique a cada tipo de servicio;
 
@@ -2313,9 +2313,9 @@ V. Cuando se exhiba documentación apócrifa, alterada o se proporcionen informe
 
 VI. Hacerse acreedor a infracciones calificadas como graves, en los términos del Reglamento;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2025)</small>
 
-VII. Cuando se compruebe por la autoridad competente y en última instancia que el permisionario por sí mismo o a través de sus operadores, empleados o personas relacionadas con la prestación del servicio público encomendado, ha cometido algún delito. El Instituto podrá declarar la suspensión de la autorización o permiso, o de ambos, a solicitud de la autoridad investigadora, hasta en tanto se deslindan las responsabilidades por la autoridad competente, y
+VII. Cuando se compruebe por la autoridad competente y en última instancia que el permisionario por sí mismo o a través de sus operadores o empleados ha cometido algún delito doloso estando en el ejercicio de sus labores relacionadas con la prestación del servicio público o privado de transporte en cualquiera de las modalidades previstas en la presente Ley. El Instituto podrá declarar la suspensión de la autorización o permiso, o de ambos, a solicitud de la autoridad investigadora, hasta en tanto se deslindan las responsabilidades por la autoridad competente, y
 
 VIII. Las demás que se establezcan en la presente Ley y su Reglamento.
 
@@ -3063,6 +3063,10 @@ V. Cuando se compruebe que la información proporcionada para su otorgamiento se
 
 VI. Por resolución administrativa o judicial;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2025)</small>
+
+VI Bis. Cuando se compruebe por la autoridad competente y en última instancia que la persona titular ha cometido algún delito doloso estando en el ejercicio de sus labores relacionadas con la prestación del servicio público o privado de transporte en cualquiera de las modalidades previstas en la presente Ley;
+
 > <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
 
 VII. Cuando el titular sea permisionario o concesionario, operador, empleado o persona relacionada con la prestación del servicio público de transporte e incurran en la alteración de la tarifa autorizada por el Instituto;
@@ -3094,6 +3098,14 @@ III. Por un año, cuando el titular sea permisionario o concesionario, operador,
 IV. Por dos años, cuando sea de uso particular y el titular sea sancionado por segunda ocasión por conducir un vehículo en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, lo cual podrá ser verificado a través de la Plataforma Estatal de Infracciones que para el efecto disponga el Instituto; quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada, que al efecto el Instituto señale;
 
 V. Por dos años, cuando por resolución que haya causado estado, dictada por autoridad competente, se determine que el titular de la misma, al conducir un vehículo, haya causado algún daño a terceros o a sus bienes sin resarcirlo;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2025)</small>
+
+V Bis. Por tres años cuando se compruebe por resolución que haya causado estado, dictada por la autoridad competente, que la persona titular, estando en el ejercicio de sus labores relacionadas con la prestación del servicio público o privado de transporte en cualquiera de las modalidades previstas en esta Ley, dolosamente destruya o deteriore una cosa ajena o propia, en perjuicio de otro;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2025)</small>
+
+V Ter. Por tres años cuando se compruebe por resolución que haya causado estado, dictada por la autoridad competente, que la persona titular, de cualquier modo, dañe, altere o destruya algún medio de transporte del servicio público o privado en cualquiera de las modalidades previstas en esta Ley, y
 
 VI. Por cinco años, cuando sea de uso particular y el titular sea sancionado por tercera ocasión por conducir un vehículo en estado de ebriedad o bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas, lo cual podrá ser verificado a través de la Plataforma Estatal de Infracciones que para el efecto disponga el Instituto; quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
 
@@ -4570,3 +4582,11 @@ P.O. 22 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 092 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
