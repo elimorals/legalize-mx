@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-12-23"
+last_updated: "2025-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1631,6 +1631,14 @@ Cuando el homicidio o las lesiones se cometen culposamente con motivo del tráns
 
 Las lesiones a que se refiere este artículo solo se perseguirá (sic) a petición de parte.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+ARTICULO 107 BIS.- Al que dolosamente cause homicidio o lesiones, estando en el ejercicio de sus labores relacionadas con la prestación del servicio público o privado de transporte en cualquiera de las modalidades previstas en la Ley de Movilidad del Estado de Quintana Roo, se le impondrá hasta una mitad más de la pena que corresponda por el homicidio o la lesión cometida.
+
+Si el homicidio o las lesiones referidas en el párrafo anterior, son inferidas a una persona menor de dieciocho años o el sujeto pasivo del delito tenga la calidad de turista, la pena privativa de la libertad se aumentará en dos terceras partes de las que le correspondan.
+
+El homicidio o las lesiones contempladas en este artículo se perseguirán de oficio.
+
 ###### ARTICULO 108.
 
 No se aplicará pena alguna a quien por culpa en el manejo de vehículo de motor ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado, siempre y cuando el agente no se encuentre voluntariamente bajo el efecto de bebidas embriagantes, estupefacientes o sustancias que produzcan efectos similares sin que medie prescripción médica.
@@ -2793,6 +2801,12 @@ Al que por cualquier medio destruya o deteriore una cosa ajena o propia, con per
 
 Si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública, o se comete por medio de inundación, incendio, minas, bombas o explosivos, la prisión será de dos a nueve años y de quince a doscientos días multa.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+ARTICULO 162 BIS.- Al que estando en el ejercicio de sus labores relacionadas con la prestación del servicio público o privado de transporte en cualquiera de las modalidades previstas en la Ley de Movilidad del Estado de Quintana Roo, dolosamente destruya o deteriore una cosa ajena o propia, con perjuicio de otro, se le impondrá prisión de dos a seis años y de quince a doscientos cuarenta días multa.
+
+Las conductas descritas por este artículo se perseguirán de oficio.
+
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2024)</small>
@@ -3343,11 +3357,15 @@ Cuando la asociación o alguna persona que forme parte de ella utilice a persona
 
 ### CAPITULO I (SIC). ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2025)</small>
+
 ###### ARTICULO 182.
 
-Al que de cualquier modo dañe, altere o destruya alguna vía o medio de comunicación o de transporte público que no sean de jurisdicción federal, modifique u obstaculice las señales correspondientes, interrumpiendo o dificultando los servicios, se le aplicará prisión de seis meses a cuatro años y de cincuenta a doscientos días multa.
+Al que de cualquier modo dañe, altere, destruya, obstaculice o modifique alguna vía, señalización, aparato, tecnología, instalación, mobiliario de infraestructura vial, medio de comunicación o de transporte destinado a la prestación de los servicios público o privado de transporte en cualquiera de las modalidades contempladas en la Ley de Movilidad del Estado de Quintana Roo, que no sean de competencia federal, interrumpiendo o dificultando los servicios, se le aplicará prisión de seis meses a cuatro años y de cincuenta a doscientos días multa.
 
-Las mismas penas se impondrán al que retenga cualquier vehículo destinado al servicio público y dolosamente obstaculice una vía de comunicación o la prestación de un servicio público de comunicación o de transporte de jurisdicción local.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
+
+Las mismas penas se impondrán al que retenga cualquier vehículo destinado al servicio público o privado de transporte en cualquiera de las modalidades contempladas en la Ley de Movilidad del Estado de Quintana Roo y dolosamente obstaculice una vía de comunicación o la prestación de un servicio público de comunicación o servicio público o privado de transporte de competencia estatal.
 
 Para los efectos de este Código, son vías de comunicación las de tránsito destinadas al uso público.
 
@@ -3362,6 +3380,12 @@ Al que dolosamente ponga en movimiento un medio de transporte, provocando un des
 ###### ARTICULO 185.
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las penas del delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2025)</small>
+
+ARTICULO 185 BIS.- Cuando alguna de las conductas contenidas en los artículos 182, 183, 184 y 185 de este código, sean llevadas a cabo por persona que se encuentre en el ejercicio de sus labores relacionadas con la prestación del servicio público o privado de transporte en cualquiera de las modalidades previstas en la Ley de Movilidad del Estado de Quintana Roo, las penas señaladas en cada uno de esos artículos aumentarán hasta una mitad más de la pena que corresponda.
+
+Estos delitos se perseguirán de oficio.
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
@@ -5728,3 +5752,11 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 082 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 092 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
