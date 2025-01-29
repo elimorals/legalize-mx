@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2024-10-09"
+last_updated: "2025-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -105,19 +105,19 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 El Gobernador del Estado expedirá los reglamentos interiores, los acuerdos, circulares y otras disposiciones que regulen la organización y funcionamiento interno de las dependencias y entidades del Ejecutivo y autorizará la expedición de los manuales administrativos, para proveer en la esfera administrativa el exacto y eficaz cumplimiento de sus atribuciones, dentro de su capacidad presupuestal.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 13.
 
-Es facultad exclusiva del Gobernador del Estado, nombrar y remover libremente a los Titulares de la Administración Pública Centralizada y Paraestatal, y demás servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Quintana Roo o en las leyes del Estado.
+Es facultad exclusiva de la Persona Titular del Poder Ejecutivo del Estado, nombrar y remover libremente a las personas Titulares de la Administración Pública Centralizada y Paraestatal, y demás personas servidoras públicas del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Quintana Roo o en las leyes del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
 
-Durante las ausencias temporales de los servidores públicos a los que se refiere el párrafo anterior, estos serán suplidos de conformidad a lo que disponga el reglamento interno de la dependencia de la Administración Pública que corresponda, o en su defecto, mediante nombramiento directo, que expida el titular del Poder Ejecutivo, a favor del servidor público suplente, bajo la figura de encargado de despacho, el cual deberá cumplir con los requisitos aplicables para la persona titular, y podrá durar en su encargo por un periodo de hasta 60 días naturales.
+Durante las ausencias temporales de las personas servidoras públicas a quienes se refiere el párrafo anterior, estas serán suplidas de conformidad a lo que disponga el reglamento interno de la dependencia de la Administración Pública que corresponda, o en su defecto, mediante nombramiento directo, que expida la Persona Titular del Poder Ejecutivo, a favor de quien funja como suplente, bajo la figura de encargada o encargado de despacho.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
 
-En el caso de que la persona titular de la dependencia de la Administración Pública, no se reintegre a sus funciones y haya fenecido el periodo para el encargado de despacho, el titular del poder ejecutivo deberá designar una nueva persona titular.
+En el caso de que la persona titular de la dependencia de la Administración Pública, no se reintegre a sus funciones, la persona encargada de despacho continuará en funciones hasta que la persona titular del poder ejecutivo designe a una nueva persona titular.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -2750,3 +2750,13 @@ Las sesiones, acuerdos, informes y demás actuaciones del Sistema Estatal de Pre
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto autorizado en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal 2024.
 
 DÉCIMO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 095 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
