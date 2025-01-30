@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-del-servicio-de-informacion-168948"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-12-21"
-last_updated: "2023-12-21"
+last_updated: "2025-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2023-11-22"
 ---
 # CODIGO DE CONDUCTA DEL SERVICIO DE INFORMACION AGROALIMENTARIA Y PESQUERA (SIAP)
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://infosiap.siap.gob.mx/gobmx/etica/Codigo_de_Conducta_SIAP_2023.pdf Y www.dof.gob.mx/2023/SADER/Codigo_de_Conducta_SIAP_2023.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE CONDUCTA DEL SERVICIO DE INFORMACIÓN AGROALIMENTARIA Y PESQUERA DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2025 (ABROGADO).
 
 Código publicado en el Número 24 del Diario Oficial de la Federación, el jueves 21 de diciembre de 2023.
 
@@ -454,3 +454,45 @@ Actos de Discriminación
 Mtra. Noemí López González
 
 Jefa de Departamento de Ingeniería de Sistemas para la Toma de Decisiones
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL”.]
+
+PRIMERO. El presente Reglamento entra en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Agricultura y Desarrollo Rural, publicado en el Diario Oficial de la Federación el 3 de mayo de 2021 y demás disposiciones administrativas que se opongan al presente ordenamiento.
+
+TERCERO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, o bien, desaparezca o se suprima la unidad administrativa u órgano administrativo desconcentrado, de que se trate, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
+
+Asimismo, el resguardo de la información será responsabilidad de aquella que sea competente, de conformidad con sus atribuciones, así como tomando en consideración las atribuciones con las que cuentan las Unidades Administrativas que cambian de denominación o se crean, de conformidad con el Acuerdo por el que se delegan en los servidores públicos que se precisan, las atribuciones que se indican publicado en el Diario Oficial de la Federación el 28 de octubre del 2024; el Acuerdo por el que se adscriben orgánicamente las unidades administrativas y el órgano administrativo desconcentrado denominado Servicio de Información Agroalimentaria y Pesquera, a que se refiere el Reglamento Interior de la Secretaría de Agricultura y Desarrollo Rural, publicado en el Diario Oficial de la Federación el 28 de octubre del 2024; y el presente Reglamento.
+
+La Unidad de Asuntos Jurídicos, Derechos Humanos y Normalización interpretará y determinará los casos no previstos en este artículo.
+
+CUARTO. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas u órganos administrativos desconcentrados, que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo o, en su caso, los que se contemplen en el primer párrafo del artículo anterior.
+
+QUINTO. La Unidad de Administración y Finanzas de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros, materiales y tecnológicos asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+SEXTO. Los derechos de las personas trabajadoras serán respetados conforme a la ley y en ningún caso son afectados por la emisión del presente Reglamento.
+
+SÉPTIMO. En tanto se expidan los manuales que en el presente Reglamento se determinan, se continuarán aplicando, en lo conducente, los vigentes.
+
+OCTAVO. En tanto se emita el Reglamento Interior de la Comisión Nacional de Acuacultura y Pesca, seguirá vigente lo establecido en el artículo Octavo Transitorio del Reglamento Interior de la Secretaría de Agricultura y Desarrollo Rural, publicado el 03 de mayo de 2021, en correlación con el artículo Octavo Transitorio del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 25 de abril de 2012, el cual hace alusión a las atribuciones de dicha Comisión, previstas en los artículos 37 al 60 del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 10 de julio de 2001.
+
+NOVENO. Las erogaciones que se generen por la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado a la Secretaría, en el ejercicio fiscal correspondiente, por lo que aquellas modificaciones que se lleven a cabo a su estructura orgánica, así como a las de los órganos administrativos desconcentrados, se deberán realizar mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal y subsecuentes.
+
+DÉCIMO. En tanto se emiten los reglamentos interiores de los órganos administrativos desconcentrados señalados en la fracción II del artículo 2 del presente Reglamento, la persona titular de la Secretaría establecerá la estructura orgánica de apoyo administrativo, previamente aprobada por la Secretaría Anticorrupción y Buen Gobierno, de los órganos administrativos desconcentrados, mediante acuerdos que serán publicados en el Diario Oficial de la Federación.
+
+DÉCIMO PRIMERO. La Secretaría, por conducto de la Comisión Nacional de Acuacultura y Pesca, continuará otorgando permisos y autorizaciones en materia de acuacultura y pesca, atendiendo la Ley General de Pesca y Acuacultura Sustentables, la norma reglamentaria aplicable, los acuerdos administrativos que expida la persona Titular de la Secretaría; así como las instrucciones de carácter técnico administrativo, sistemas y procedimientos que establezca la persona titular de la Comisión.
+
+DÉCIMO SEGUNDO. Se abrogan los acuerdos siguientes: ACUERDO por el que se delegan en el Coordinador General de Operación Territorial y en los Titulares de las Oficinas de Representación en las Entidades Federativas, de la Secretaría de Agricultura y Desarrollo Rural, las facultades que se indican publicado en el DOF 9 de febrero de 2024; ACUERDO por el que se delegan en los servidores públicos que se precisan, las atribuciones que se indican publicado en el Diario Oficial de la Federación el 28 de octubre del 2024; ACUERDO por el que se adscriben orgánicamente las unidades administrativas y el órgano administrativo desconcentrado denominado Servicio de Información Agroalimentaria y Pesquera, a que se refiere el Reglamento Interior de la Secretaría de Agricultura y Desarrollo Rural, publicado en el Diario Oficial de la Federación el 28 de octubre de 2024; Acuerdo por el que se establece la Comisión Sectorial de Normalización Agroalimentaria, publicado en el Diario Oficial de la Federación el 18 de julio de 2023; Aviso mediante el cual se informa la publicación en la Normateca Interna de la entidad, del Código de Conducta del Servicio de Información Agroalimentaria y Pesquera, publicado en el Diario Oficial de la federación el 21 de diciembre de 2023.
+
+DÉCIMO TERCERO. Se abroga el Reglamento Interior del Servicio de Información Agroalimentaria y Pesquera, publicado en el Diario Oficial de la Federación el 29 de agosto de 2013.
+
+Los asuntos relacionados con el Sistema Integral de Información de Almacenamientos de Productos Agropecuarios serán atendidos por la Dirección General del Servicio de Información Agroalimentaria y Pesquera.
+
+Los demás asuntos del Servicio de Información Agroalimentaria y Pesquera, conforme al presente Reglamento, serán atendidos por la Coordinación General de Información, Inteligencia y Evaluación.
+
+Asimismo, en un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Reglamento, la Unidad de Administración y Finanzas de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros, materiales y tecnológicos del Servicio de Información Agroalimentaria y Pesquera sean transferidos a dicha Coordinación y llevará a cabo todos los demás actos o trámites administrativos necesarios, y la Unidad de Asuntos Jurídicos, Derechos Humanos y Normalización realizará las gestiones pertinentes para la armonización jurídica correspondiente.
