@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2024-09-17"
+last_updated: "2025-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -973,11 +973,11 @@ Quien presida el Congreso velará por la inviolabilidad del Recinto Oficial.
 
 Los diputados en funciones durante el periodo de su encargo, no podrán desempeñar algún otro empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, sin previa licencia del Congreso. En tanto se encuentren desempeñando dicho cargo, empleo o comisión públicos cesarán en su función representativa. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2025)</small>
 
 ###### Artículo 36.
 
-El Congreso se renovará en su totalidad cada tres años, mediante elección que se celebrará el primer domingo de junio del año que corresponda, debiendo tomar posesión de su cargo los integrantes de la nueva Legislatura, el cinco de septiembre del año de la elección.
+El Congreso se renovará en su totalidad cada tres años, mediante elección que se celebrará el primer domingo de junio del año que corresponda, debiendo tomar posesión de su cargo los integrantes de la nueva Legislatura, el primero de septiembre del año de la elección.
 
 ###### Artículo 37.
 
@@ -987,23 +987,25 @@ El Congreso se renovará en su totalidad cada tres años, mediante elección que
 
 #### SECCION III. DE LAS SESIONES
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2025)</small>
 
 ###### Artículo 38.
 
-El Congreso tendrá durante el año, dos períodos ordinarios de sesiones, como sigue:
+El Congreso tendrá durante cada año de ejercicio, dos períodos ordinarios de sesiones, de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+El primer periodo ordinario iniciará el primero de septiembre y concluirá a más tardar el último día de diciembre.
 
-El primero se iniciará el cinco de septiembre y concluirá a más tardar el último de diciembre. El segundo comenzará el primer día de marzo y terminará a más tardar el último de julio.
+El segundo periodo ordinario comenzará el primer día hábil de febrero y terminará a más tardar el último día de julio.
 
-Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
+Los periodos ordinarios no podrán prorrogarse más allá de la fecha de su terminación.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2025)</small>
 
 ###### Artículo 39.
 
-El Congreso podrá celebrar sesiones extraordinarias a convocatoria de la Diputación Permanente por sí o a solicitud formulada por el Gobernador del Estado.
+El Congreso podrá celebrar periodos extraordinarios, los cuales deberán ser aprobados por la Diputación Permanente a solicitud de la misma, de la Junta de Gobierno o del Ejecutivo del Estado. Una vez aprobados, la convocatoria a dichos periodos será realizada por la Directiva de la Diputación Permanente.
+
+Durante los periodos extraordinarios, la Directiva de la Diputación Permanente en funciones actuará como Directiva del Congreso.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
@@ -1077,11 +1079,11 @@ Las sesiones serán públicas, excepto cuando se traten asuntos que exijan reser
 
 El Congreso se reunirá en la capital del Estado, pero podrá cambiar temporalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los Diputados, notificando lo anterior a los otros Poderes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2025)</small>
 
 ###### Artículo 46.
 
-La Ley Orgánica del Poder Legislativo fijará las demás formalidades de instalación, funcionamiento y clausura de los trabajos del Congreso.
+La Ley Orgánica del Poder Legislativo establecerá las demás formalidades de instalación, funcionamiento y clausura de los trabajos relativos a los periodos ordinarios y extraordinarios del Congreso.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -4464,3 +4466,15 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1088 QUE REFORMA EL ARTÍCULO 144, FRACCIÓN VIII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 200 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE PERIODOS DE SESIONES DEL CONGRESO ESTATAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo, con excepción de lo dispuesto en los Transitorios Segundo y Tercero.
+
+SEGUNDO. El segundo párrafo del artículo 38 entrará en vigor el primero de septiembre de 2028, siendo por tanto aplicable a partir del primer periodo ordinario de sesiones del segundo año de ejercicio de la LXVII Legislatura del Congreso del Estado.
+
+TERCERO. Las y los integrantes de la LXVII Legislatura del Congreso del Estado durarán en su encargo del cinco de septiembre del 2027 al 31 de agosto de 2030; en consecuencia, la reforma al artículo 36 entrará en vigor el primero de septiembre de 2030, por lo que las siguientes Legislaturas tomarán posesión de su cargo el primero de septiembre del año de la elección.
+
+CUARTO. El Congreso del Estado deberá realizar la adecuación y armonización necesaria de la legislación secundaria de conformidad con lo aprobado en el presente Decreto, dentro del término de ciento veinte días naturales contados a partir de la fecha de su publicación.
