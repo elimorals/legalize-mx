@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2024-12-26"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -473,7 +473,7 @@ Para efectos del presente artículo se entenderá por personas morales, a todas 
 
 ###### ARTICULO 21.
 
-Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los gobiernos federal, estatal y municipal , los organismos descentralizados, los desconcentrados, los autónomos, instituciones educativas y los fideicomisos de los tres órdenes de gobierno.
+Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los gobiernos federal, estatal y municipal, los organismos descentralizados, los desconcentrados, los autónomos, instituciones educativas y los fideicomisos de los tres órdenes de gobierno.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -919,13 +919,13 @@ ARTICULO 36 QUINDECIES. Objeto del Impuesto: El impuesto tiene como objeto grava
 
 ARTICULO 36 SEXDECIES. Sujetos Obligados: Son sujetos obligados las personas físicas o morales que realicen la venta final de bebidas alcohólicas.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
-ARTICULO 36 SEPTENDECIES. Base Gravable y Tasa: La base gravable será el precio de venta al consumidor final antes de impuestos, aplicando una tasa del 3%.
+ARTICULO 36 SEPTENDECIES. Base Gravable y Tasa: La base gravable será el precio de venta al consumidor final antes de impuestos al Valor Agregado y Especial sobre Producción y Servicios, aplicando una tasa del 4.5 por ciento.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
-ARTICULO 36 OCTADECIES. Exenciones: Quedan exentas las ventas al por mayor destinadas a distribución y las bebidas con contenido alcohólico menor al 2%.
+ARTICULO 36 OCTADECIES. Exenciones: Se exceptúan aquellas bebidas alcohólicas cuyo gravamen se encuentra expresamente reservado a la Federación, en términos del artículo 73, fracción XXIX, numeral 5, incisos e) y g), de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TITULO TERCERO. DERECHOS
 
@@ -3754,3 +3754,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Finanzas del Poder Ejecutivo del Estado previo a la entrada en vigor de la Ley de Ingresos 2025, deberá emitir las Reglas de Operación necesarias para la correcta y debida aplicación de las disposiciones establecidas en los Capítulos VII y VIII del presente Decreto.
+
+P.O. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0148.- SE REFORMA (SIC) LOS ARTÍCULOS, 36 SEPTENDECIES Y 36 OCTADECIES DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
