@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2024-05-07"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -151,13 +151,21 @@ V. Intervenir en el proceso de ejecución penal;
 
 VI. Intervenir en las acciones de extradición activa y pasiva;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
 
-VII. Intervenir en las acciones de inconstitucionalidad o controversias constitucionales, y
+VII. Intervenir en las acciones de inconstitucionalidad o controversias constitucionales, que en su caso procedan;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2025)</small>
 
-VIII. Las demás que señalen otras disposiciones aplicables.
+VIII. Operar y administrar el funcionamiento y los servicios del Centro de Control, Comando, Comunicación, Cómputo, Calidad y de Contacto Ciudadano del Estado, en los términos de la Ley del Sistema Estatal de Seguridad Ciudadana de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2025)</small>
+
+IX. Coordinar el servicio de asistencia telefónica, así como el servicio de denuncia anónima en el Estado, garantizando en todo momento el anonimato de quien denuncia; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2025)</small>
+
+X. Las demás que señalen otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -267,17 +275,25 @@ IX. Dirección Jurídica;
 
 X. Fiscalía Especializada para la Atención de Delitos Electorales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
 
-XI. Fiscalía Especializada en Combate a la Corrupción, y
+XI. Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2025)</small>
 
-XII. Los demás que establezcan las leyes y reglamentos.
+XII. Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano en el Estado; y,
 
-El Fiscal General podrá establecer con las distintas Fiscalías y Unidades, aquellos criterios necesarios para evitar la fragmentación de las investigaciones y, en su caso, la creación de unidades mixtas de investigación.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2025)</small>
 
-La Fiscalía General del Estado contará con Fiscales del Ministerio Público, policía de investigación, analistas, auxiliares y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones legales aplicables. Asimismo, podrá apoyarse de personal especializado de otras dependencias gubernamentales cuando las necesidades del servicio, la ley y los convenios aplicables así lo requieran, estipulen o permitan.
+XIII. Los demás que establezcan las leyes y reglamentos.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
+La persona Fiscal General podrá establecer con las distintas Fiscalías y Unidades, aquellos criterios necesarios para evitar la fragmentación de las investigaciones y, en su caso, la creación de unidades mixtas de investigación.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
+La Fiscalía General del Estado contará con Fiscales del Ministerio Público, policía de investigación, analistas, auxiliares y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones legales aplicables. Asimismo, podrá apoyarse de personal especializado de otras dependencias gubernamentales cuando las necesidades del servicio, la Ley y los convenios aplicables así lo requieran, estipulen o permitan.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1152,3 +1168,15 @@ P.O. 7 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 415 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 14 A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 48 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 25, 34 Y 37 A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 56, 59, 61, 62 Y 63 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, Y SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 Y 9 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- Dentro de un plazo de 90 días naturales contados a partir de la entrada en vigor de la presente reforma, se deberán adecuar las disposiciones del Reglamento interno de la Fiscalía General del Estado.
+
+En ese mismo plazo se deberá informar al Congreso del Estado respecto al avance y estatus de los derechos laborales de las personas servidoras públicas y demás personal del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, así como respecto de la estabilidad de los recursos materiales.
+
+Tercero.- En tanto se realiza (sic) las adecuaciones reglamentarias correspondientes, seguirá rigiendo en materia del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, en lo que no se contraponga a la presente reforma las disposiciones del Reglamento interno de la Secretaría de Seguridad Ciudadana del Estado de Baja California.
