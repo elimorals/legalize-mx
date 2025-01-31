@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-transparencia-acceso-a-135
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-11"
-last_updated: "2024-06-19"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135325&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2019-04-04"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA, PROTECCION DE DATOS PERSONALES Y RENDICION DE CUENTAS DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 15 DE FEBRERO DE 2023 EN: https://documentos.infocdmx.org.mx/acuerdos/2023/A121Fr01_2023-T01_Acdo-2022-01-02-0349.pdf]</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2025.
 
 Reglamento publicado en el Número 70 de la Gaceta Oficial de la Ciudad de México, el jueves 11 de abril de 2019.
 
@@ -210,7 +208,9 @@ II. Comisionada Presidenta o Comisionado Presidente;
 
 III. Comisionadas o Comisionados Ciudadanos;
 
-IV. Secretaría Técnica;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2025)</small>
+
+IV. Secretaría Técnica y Coordinación de Archivos;
 
 V. Secretaría Ejecutiva;
 
@@ -524,27 +524,15 @@ XXIX. Promover, supervisar y participar en los programas de cultura de transpare
 
 XXX. Expedir copias certificadas o autorizadas de los documentos que obren en los archivos del Instituto, conforme a las disposiciones aplicables.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2025)</small>
 
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+XXXI. Remitir a la Secretaría Técnica y Coordinación de Archivos los expedientes de los recursos y denuncias por presuntos incumplimientos a las Leyes de Transparencia y de Datos Personales, en un plazo no mayor a cinco días hábiles posteriores a la sesión del pleno en que los proyectos de resolución fueron aprobadas (sic);
 
-XXXI. Dar seguimiento al cumplimiento de las resoluciones derivadas de la interposición de los medios de defensa y procedimientos previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
+XXXII. (DEROGADA, G.O. 31 DE ENERO DE 2025)
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+XXXIII. (DEROGADA, G.O. 31 DE ENERO DE 2025)
 
-XXXII. Elaborar los acuerdos de trámite, as (sic) como de cumplimiento o incumplimiento, relacionados con el seguimiento al cumplimiento de las resoluciones de los medios de impugnación y procedimientos que se sometan al Pleno;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXXIII. Registrar y dar seguimiento a la vista a los órganos de control de los Sujetos Obligados, por el incumplimiento a las resoluciones derivadas de los medios de defensa que interpongan los particulares y de los procedimientos en materia de acceso a la información y de protección de datos personales en los términos de las disposiciones normativas aplicables en el ámbito de su competencia;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXXIV. Evaluar el cumplimiento de las resoluciones de los medios de impugnación y, en su caso, iniciar el procedimiento sancionatorio correspondiente por persistir el incumplimiento de las resoluciones emitidas por el Pleno, informando al órgano colegiado de ello;
+XXXIV. (DEROGADA, G.O. 31 DE ENERO DE 2025)
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
 
@@ -562,9 +550,11 @@ Para el despacho de los asuntos de su competencia, cada Comisionada o Comisionad
 
 #### SECCIÓN IV. DE LA SECRETARÍA TÉCNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 15.
 
-Son atribuciones de la Secretaría Técnica:
+Son atribuciones de la Secretaría Técnica y Coordinación de Archivo:
 
 I. Auxiliar a la Comisionada Presidenta o Comisionado Presidente, y en su ausencia a la Comisionada o Comisionado ciudadano que lo supla, en la celebración de las sesiones del Pleno, y asistir los trabajos para el correcto desarrollo de las funciones de dicho órgano colegiado del Instituto, en apego a las atribuciones de este reglamento y demás normatividad aplicable;
 
@@ -948,7 +938,7 @@ XXXV. Expedir copias certificadas o autorizadas de los documentos que obren en e
 
 XXXVI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto en lo que al ámbito de competencia de cada una corresponda.
 
-> <small>[N. DE E. VÉASE LA LITERALIDAD DEL ACUERDO PUBLICADO EN LA G.O. DE LA CIUDAD DE MÉXICO DE 16 DE OCTUBRE DE 2020, PÁGINA 35.]</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2025)</small>
 
 ###### Artículo 20.
 
@@ -978,101 +968,49 @@ XI. Asesorar a las unidades administrativas del Instituto en las consultas jurí
 
 XII. Presentar a la Comisionada o al Comisionado Presidente, las alternativas jurídicas de solución a los asuntos considerados como relevantes o especiales para el Instituto;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+XIII. Dar seguimiento al cumplimiento de las resoluciones derivadas de la interposición de los medios de defensa y procedimientos previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable; así como informar trimestralmente de ello a las Comisionadas y los Comisionados Ciudadanos, por conducto de la Comisionada Presidenta o del Comisionado Presidente;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+XIV. Elaborar los acuerdos de trámite, así como de cumplimiento o incumplimiento, relacionados con el seguimiento al cumplimiento de las resoluciones de los medios de impugnación y procedimientos que se sometan al Pleno;
 
-XIII. Iniciar el procedimiento sancionatorio, una vez que le notifique la ponencia respectiva, por persistir el incumplimiento de las resoluciones emitidas por el Pleno;
+XV. Registrar y dar seguimiento a la vista a los órganos de control de los Sujetos Obligados, por el incumplimiento a las resoluciones derivadas de los medios de defensa que interpongan los particulares y de los procedimientos en materia de acceso a la información y de protección de datos personales en los términos de las disposiciones normativas aplicables en el ámbito de su competencia;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+XVI. Iniciar el procedimiento sancionatorio, en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, informando al Pleno de ello;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+XVII. Evaluar el cumplimiento de las resoluciones de los medios de impugnación y, en su caso, iniciar el procedimiento sancionatorio correspondiente por persistir el incumplimiento de las resoluciones emitidas por el Pleno, informando al órgano colegiado del (sic) ello;
 
-XIV. Requerir a los servidores públicos y unidades administrativas del Instituto, la documentación e información que sea necesaria para el cumplimiento de sus atribuciones;
+XVIII. Requerir a los servidores públicos y unidades administrativas del Instituto, la documentación e información que sea necesaria para el cumplimiento de sus atribuciones;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+XIX. Recibir los expedientes relativos a los incumplimientos a las obligaciones de transparencia, para que, en su caso, se inicie el procedimiento sancionatorio en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+XX. Sustanciar el procedimiento sancionatorio previsto en (sic) ley de la materia, en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, así como emitir los acuerdos correspondientes y practicar las diligencias o actuaciones necesarias para la determinación, notificación y, en su caso, ejecución de las sanciones impuestas por el Pleno;
 
-XV. Recibir los expedientes relativos a los incumplimientos a las obligaciones de transparencia, para que, en su caso, se inicie el procedimiento sancionatorio en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos;
+XXI. Requerir a los presuntos infractores, a las autoridades competentes e instituciones financieras, la información y documentación necesaria para sustanciar el procedimiento sancionatorio, así como para determinar la condición económica de los infractores;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+XXII. Elaborar y someter a consideración del Pleno los proyectos de resoluciones correspondientes al procedimiento sancionatorio iniciado en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, de conformidad con lo previsto en las leyes de la materia;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+XXIII. Proponer la habilitación de días inhábiles en los procedimientos de medidas de apremio y sanciones, cuando así se requiera;
 
-XVI. Sustanciar el procedimiento sancionatorio previsto en ley de la materia, así como en los casos en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, y emitir los acuerdos correspondientes y practicar las diligencias o actuaciones necesarias para la determinación, notificación y, en su caso, ejecución de las sanciones impuestas por el Pleno;
+XXIV. Requerir a las autoridades competentes el apoyo necesario para el ejercicio de sus funciones;
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+XXV. Notificar los acuerdos que resulten necesarios para el cumplimiento de sus atribuciones;
 
-XVII. Requerir a los presuntos infractores, a las autoridades competentes e instituciones financieras, la información y documentación necesaria para sustanciar el procedimiento sancionatorio, as (sic) como para determinar la condición económica de los infractores;
+XXVI. Coadyuvar con la Comisionada Presidenta o el Comisionado Presidente, en colaboración con la Secretaría Ejecutiva, en la elaboración y/o revisión de lineamientos, normas, recomendaciones, criterios y dictámenes relacionados con los sistemas o instancias en las que el Instituto sea parte;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+XXVII. Dar seguimiento a la imposición y/o ejecución de las medidas de apremio y sanciones aprobadas por el Pleno;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+XXVIII. Coordinar la elaboración de los criterios y lineamientos para la interpretación y aplicación de las leyes y demás disposiciones en las materias de competencia del Instituto;
 
-XVIII. Elaborar y someter a consideración del Pleno los proyectos de resoluciones correspondientes al procedimiento sancionatorio iniciado en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, de conformidad con lo previsto en las leyes de la materia;
+XXIX. Expedir copia certificada de todos aquellos documentos que obren en los archivos del Instituto;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+XXX. Solicitar a los Sujetos Obligados informes relacionados con los procedimientos por los probables incumplimientos en las materias competencia del Instituto, en el ámbito de su competencia;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+XXXI. Elaborar el compendio sobre los procedimientos vigentes del Instituto;
 
-XIX. Proponer la habilitación de días inhábiles en los procedimientos de medidas de apremio y sanciones, cuando así se requiera;
+XXXII. Elaborar la estadística sobre el seguimiento al cumplimiento de las resoluciones de los medios de impugnación, procedimientos y sanciones emitidas por el Pleno, así como los reportes e informes necesarios para la rendición de cuentas institucionales en el ámbito de su competencia;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+XXXIII. Atender los requerimientos de la Secretaría Técnica del Pleno en cuanto al apoyo necesario para la ejecución de las resoluciones que emita el Pleno,
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XX. Requerir a las autoridades competentes el apoyo necesario para el ejercicio de sus funciones;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXI. Notificar los acuerdos que resulten necesarios para el cumplimiento de sus atribuciones;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXII. Coadyuvar con la Comisionada Presidenta o el Comisionado Presidente, en colaboración con la Secretaría Ejecutiva, en la elaboración y/o revisión de lineamientos, normas, recomendaciones, criterios y dictámenes relacionados con los sistemas o instancias en las que el Instituto sea parte;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXIII. Dar seguimiento a la imposición y/o ejecución de las medidas de apremio y sanciones aprobadas por el Pleno;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
-
-XXIV. (DEROGADA, G.O. 19 DE NOVIEMBRE DE 2020)
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXV. Expedir copia certificada de todos aquellos documentos que obren en los archivos del Instituto;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXVI. Solicitar a los Sujetos Obligados informes relacionados con los procedimientos por los probables incumplimientos en las materias competencia del Instituto, en el ámbito de su competencia;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXVII. Elaborar el compendio sobre los procedimientos vigentes del Instituto y la estadística sobre el seguimiento de sanciones emitidas por el Pleno;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXVIII. Coadyuvar con las Ponencias y Secretaría Técnica en cuanto al apoyo necesario para la ejecución de las resoluciones que emita el Pleno;
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
-
-XXIX. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de (sic) Instituto.
+XXXIV. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de (sic) Instituto.
 
 > <small>(REFORMADO, G.O. 19 DE JUNIO DE 2024)</small>
 
@@ -1665,3 +1603,17 @@ QUINTO. Se instruye a la Secretaría Técnica para que, en el ámbito de sus atr
 SEXTO. Se instruye a la Dirección de Administración y Finanzas, para que, en el ámbito de sus atribuciones realice las gestiones administrativas que así correspondan.
 
 SÉPTIMO. Conforme a lo dispuesto por los artículos 10, 37, 38, 61 a 64 y 65, fracción X, de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México; 8 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México; 9, 10, 12, fracciones I, II y XV del Reglamento Interior del Instituto y demás disposiciones aplicables, en todo lo no previsto en el presente Acuerdo se estará a lo que determine el Pleno de este Órgano Garante.
+
+G.O. 31 DE ENERO DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA FACULTAD DE LAS COMISIONADAS Y EL COMISIONADO, A TRAVÉS DE LAS RESPECTIVAS PONENCIAS, PARA DAR SEGUIMIENTO AL CUMPLIMIENTO DE LAS RESOLUCIONES QUE EMITA EL PLENO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+TERCERO. Se instruye a la Secretaría Técnica para que, en el ámbito de sus atribuciones, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en la Gaceta Oficial de la Ciudad de México, así como en el portal de Internet del Instituto.
+
+## TRANSITORIOS
+
+PRIMERO. A partir de la entrada en vigor de la presente reforma deberá entenderse que cualquier normativa que haga referencia a la Secretaría Técnica ha de entenderse a la Secretaría Técnica y Coordinación de Archivos.
+
+SEGUNDO. Las ponencias remitirán a la Secretaría Técnica y Coordinación de Archivos, el listado de los asuntos en trámite de cumplimiento, así como los expedientes, constancias y documentos relacionados a más tardar al 31 de enero de 2025. Lo anterior, a fin de que la Dirección de Asuntos Jurídicos esté en posibilidad de dar continuidad y seguimiento al trámite respectivo.
