@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2024-12-27"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2025 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 31 DE ENERO DE 2025.]</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -2877,9 +2877,9 @@ ARTÍCULO 137° QUATER 1. Asimismo, el pago del derecho de saneamiento ambiental
 
 ARTÍCULO 137º QUINQUIES. Los retenedores de este derecho deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a los cuartos y/o habitaciones ocupados por la prestación de ese servicio, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
+(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024) (F. DE E., B.O. 31 DE ENERO DE 2025)
 
-ARTÍCULO 137º SEXIES. Están obligados a pagar el derecho de saneamiento ambiental todas las personas clientes de los establecimientos y locales a que se refiere la fracción II del artículo 137° TER 1 del presente ordenamiento, con un monto de 10% del valor diario de la Unidad de Medida y Actualización por consumos que en la factura simplificada o ticket de compra sean superiores al equivalente de 4 Unidades de Medida y Actualización.
+ARTÍCULO 137º SEXIES. Están obligados a pagar el derecho de saneamiento ambiental todas las personas clientes de los establecimientos y locales a que se refiere la fracción I del artículo 137° TER 1 del presente ordenamiento, con un monto de 10% del valor diario de la Unidad de Medida y Actualización por consumos que en la factura simplificada o ticket de compra sean superiores al equivalente de 4 Unidades de Medida y Actualización.
 
 El importe de este derecho deberá ser retenido por los propietarios o poseedores de restaurantes y bares en los cuales se comercialicen alimentos y bebidas alcohólicas, mismo que deberá desglosarse en el comprobante de compra, desglosado después del importe por el consumo y su respectivo Impuesto al Valor Agregado y quienes deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
 
