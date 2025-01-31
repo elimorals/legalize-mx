@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2024-02-09"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -1255,7 +1255,9 @@ IX.- La demás información que establezca el Sistema Nacional.
 
 El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano en el Estado contará con acceso a esta base de datos cuando se requiera.
 
-La Secretaría a través de las llamadas que se reciban por medio del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano en el Estado, con motivo del robo de un bien, formará de inmediato un reporte de incidente, mismo que servirá como alerta a las distintas Instituciones Policiales y a la Agencia Estatal de Investigación. Esta medida preliminar, no releva al afectado en su obligación de presentar su denuncia ante la autoridad competente.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
+La Fiscalía General a través de las llamadas que se reciban, con motivo del robo de un bien, formará de inmediato un reporte de incidente, mismo que servirá como alerta a las distintas Instituciones Policiales y a la Agencia Estatal de Investigación. Esta medida preliminar, no releva al afectado en su obligación de presentar su denuncia ante la autoridad competente.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1281,7 +1283,7 @@ La estadística de seguridad sistematizará los datos y cifras relevantes sobre 
 
 ### CAPÍTULO I. DEL CENTRO DE CONTROL, COMANDO, COMUNICACIÓN, CÓMPUTO, CALIDAD Y CONTACTO CIUDADANO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1347,9 +1349,13 @@ El Sistema Estatal Penitenciario contará con una unidad administrativa que fung
 
 ###### ARTÍCULO 59.
 
-El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, es la unidad administrativa de la Secretaría que tiene por objeto la operación de los procedimientos para la prestación de los servicios de asistencia telefónica, así como de monitoreo y vídeo vigilancia, a efecto de favorecer la coordinación estratégica y operativa de las Instituciones de Seguridad, Instituciones Policiales en el Estado y Auxiliares, y la Agencia Estatal de Investigación responsables de proporcionar seguridad a la población del Estado de Baja California.
+El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, es la unidad administrativa de la Fiscalía General que tiene por objeto la operación de los procedimientos para la prestación de los servicios de asistencia telefónica, así como de monitoreo y vídeo vigilancia, a efecto de favorecer la coordinación estratégica y operativa de las Instituciones de Seguridad, Instituciones Policiales en el Estado y Auxiliares, y la Agencia Estatal de Investigación responsables de proporcionar seguridad a la población del Estado de Baja California.
 
-El personal que labore en el Centro a que se refiere el presente capítulo deberá, previo ingreso a los mismos, cumplir y aprobar los exámenes de evaluación de confianza que para tal efecto establezca la Secretaría.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
+El personal que labore en el Centro a que se refiere el presente capítulo deberá, previo ingreso a los mismos, cumplir y aprobar los exámenes de evaluación de confianza que para tal efecto establezca la Fiscalía General.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, instrumentará la coordinación de las comunicaciones de seguridad para el intercambio de voz, datos e imágenes con las finalidades siguientes:
 
@@ -1387,13 +1393,17 @@ V.-· Reportes de emergencias, y
 
 VI.- Aquellos servicios que establezcan la presente Ley y los reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 61.
 
-La Secretaría, coordinará la prestación del Servicio de Asistencia Telefónica a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, y para su operación contará por lo menos con la participación de la Fuerza Estatal de Seguridad Ciudadana, la Fiscalía General, la Agencia Estatal de Investigación, las dependencias y unidades administrativas de los municipios encargados de la función de seguridad y los auxiliares previstos en el artículo 24 fracciones I, II y IV, además del personal que se designe de forma permanente para operar en el centro de referencia que exista en cada municipio del Estado.
+La Fiscalía General, coordinará la prestación del Servicio de Asistencia Telefónica a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, y para su operación contará por lo menos con la participación de la Fuerza Estatal de Seguridad Ciudadana, la Agencia Estatal de Investigación, las dependencias y unidades administrativas de los municipios encargados de la función de seguridad y los auxiliares previstos en el artículo 24 fracciones I, II y IV, además del personal que se designe de forma permanente para operar en el centro de referencia que exista en cada municipio del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 La prestación del Servicio de Asistencia Telefónica tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Las Instituciones Policiales y la Agencia Estatal de Investigación no podrán establecer centrales de mando alternas, relacionadas con la prestación del Servicio de Asistencia Telefónica que prevé esta Ley.
 
@@ -1405,17 +1415,19 @@ El servicio a que se refiere el presente Capítulo será brindado a través de u
 
 El Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado deberá de establecerse por lo menos uno por cada Municipio. En el Estado de Baja California, no podrán establecerse números telefónicos distintos al determinado por la autoridad competente para la prestación del Servicio de Asistencia Telefónica previsto en esta Ley.
 
-Las autoridades y auxiliares de la seguridad ciudadana deberán atender los incidentes de las llamadas telefónicas que le sean canalizadas, de conformidad con los lineamientos que para ello establezca la Secretaría.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+Las autoridades y auxiliares de la seguridad ciudadana deberán atender los incidentes de las llamadas telefónicas que le sean canalizadas, de conformidad con los lineamientos que para ello establezca la Fiscalía General.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
 ###### ARTÍCULO 63.
 
-El Servicio de Asistencia Telefónica funcionará de conformidad con el Reglamento respectivo que al efecto expida la Secretaría, el cual, por lo menos, establecerá la estructura, atribuciones y procedimientos del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado. Las Instituciones Policiales, la Agencia Estatal de Investigación y sus auxiliares, tendrán comunicación directa y permanente con el Servicio de Asistencia Telefónica a efecto de recibir, proporcionar y actualizar información de interés público, conforme a las reglas y lineamientos que se convengan.
+El Servicio de Asistencia Telefónica funcionará de conformidad con el Reglamento que al efecto expida la Fiscalía General, el cual, por lo menos, establecerá la estructura, atribuciones y procedimientos del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado. Las Instituciones Policiales, la Agencia Estatal de Investigación y sus auxiliares, tendrán comunicación directa y permanente con el Servicio de Asistencia Telefónica a efecto de recibir, proporcionar y actualizar información de interés público, conforme a las reglas y lineamientos que se convengan.
 
-La coordinación operativa prevista en el presente Capítulo, entre las distintas Instituciones Policiales del Estado, la Agencia Estatal de Investigación y sus auxiliares, deberá llevarse a cabo únicamente a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, en los cuales la Secretaría promoverá el uso de la información estratégica de seguridad ciudadana, así como de la tecnología necesaria para la mejor prestación del servicio.
+La coordinación operativa entre las distintas Instituciones Policiales del Estado, la Agencia Estatal de Investigación y sus auxiliares, deberá llevarse a cabo únicamente a través del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, en los cuales la Fiscalía General promoverá el uso de la información estratégica de seguridad, así como de la tecnología necesaria para la mejor prestación del servicio.
 
-La Secretaría establecerá la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del Servicio de Asistencia Telefónica.
+La Fiscalía General establecerá la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del Servicio de Asistencia Telefónica.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -3510,3 +3522,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se contará para la instalación de las salas de lactancia, con un plazo de 90 días naturales, siguientes a la publicación de la presente reforma.
 
 TERCERO. La aplicación del presente Decreto estará sujeta a la disponibilidad presupuestal.
+
+P.O. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 48 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 25, 34 Y 37 A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 56, 59, 61, 62 Y 63 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, Y SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 Y 9 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Dentro de un plazo de 90 días naturales contados a partir de la entrada en vigor de la presente reforma, se deberá adecuar el Reglamento Interno de la Secretaría de Seguridad Ciudadana.
+
+Tercero.- Los derechos laborales de las personas servidoras públicas y demás personal del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California serán respetados en su totalidad. Los recursos materiales con que cuente el citado Centro, serán transferidos a la Fiscalía General del Estado.
+
+Cuarto.- Los recursos humanos, materiales, presupuestales y demás que estén asignados para la operación del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado y el Servicio de Asistencia Telefónica, pasarán a cargo de la Fiscalía General del Estado de Baja California y se continuarán realizando las funciones sustantivas correspondientes.
