@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2023-del-pleno-del-consejo-de-la-168899"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-12-26"
-last_updated: "2024-08-16"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168899&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-12-12"
 
 ACUERDO GENERAL 33/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE HIDALGO, CON RESIDENCIA EN PACHUCA, AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2025.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 26 de diciembre de 2023.
 
@@ -101,9 +101,11 @@ II. Todos los asuntos de nuevo ingreso que provengan de los municipios precisado
 
 El Tribunal Colegiado de Apelación que funge como Tribunal de Alzada en el Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, conocerá de los recursos que se interpongan contra las determinaciones y resoluciones emitidas en los asuntos provenientes de los municipios señalados en este artículo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2025 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 2.
 
-El auxilio tendrá vigencia de un año.
+La vigencia del auxilio concluirá el 31 de julio de 2025.
 
 ###### Artículo 3.
 
@@ -194,3 +196,11 @@ En aquellos casos en que el centro auxiliar hubiera remitido por incompetencia, 
 CUARTO. Comuníquese el contenido de este Acuerdo General a las personas administradoras de los centros auxiliar y auxiliado.
 
 QUINTO. Las personas administradoras de los centros auxiliar y auxiliado, deberán fijar avisos en lugar visible en relación con la medida objeto del presente Acuerdo.
+
+D.O.F. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 1/2025 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 33/2023, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE HIDALGO, CON RESIDENCIA EN PACHUCA, AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1 de febrero de 2025.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
