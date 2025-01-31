@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-transparencia-acceso-a-135
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-11"
-last_updated: "2024-06-19"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135325&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,1648 +20,1040 @@ issue_date: "2019-04-04"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA, PROTECCION DE DATOS PERSONALES Y RENDICION DE CUENTAS DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 15 DE FEBRERO DE 2023 EN: https://documentos.infocdmx.org.mx/acuerdos/2023/A121Fr01_2023-T01_Acdo-2022-01-02-0349.pdf]</small>
+LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JUNIO DE 2024.
+Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 15 de diciembre de 2005.
 
-Reglamento publicado en el Número 70 de la Gaceta Oficial de la Ciudad de México, el jueves 11 de abril de 2019.
+EDUARDO BOURS CASTELO, Gobernador del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
+Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente
 
-HUGO ERIK ZERTUCHE GUERRERO, SECRETARIO TÉCNICO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, CON FUNDAMENTO EN LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 15, FRACCIÓN XVIII DEL REGLAMENTO INTERIOR DE ESTE INSTITUTO, Y EN CUMPLIMIENTO AL PUNTO CUARTO DEL ACUERDO 0313/SO/27-02/2019, EMITE EL SIGUIENTE:
+L E Y:
 
-AVISO POR EL QUE SE DA A CONOCER EL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO.
+N U M E R O 166
 
-ACUERDO 0313/SO/27-02/2019
+EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN DECRETAR LA SIGUIENTE:
 
-CONSIDERANDO
+LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA.
 
-1. Que el 6 de mayo de 2016 se publicó en la Gaceta Oficial de la Ciudad de México, el decreto por el cual se expide la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México (LTAIPRC).
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-2. Que el 10 de abril de 2018 se publicó en la Gaceta Oficial de la Ciudad de México, el decreto por el cual se expide la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México (LPDPPSO).
+### CAPITULO I. Del Objeto y Aplicación de la Ley
 
-3. Que de conformidad a lo establecido en el artículo 37, de la LTAIPRC y el artículo 78 de la LPDPPSO respectivamente, el Instituto es un Órgano Autónomo de la Ciudad de México, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión y financiera; responsable de garantizar, dirigir y vigilar el ejercicio de los Derechos de Acceso a la Información y la Protección de Datos Personales, responsable de garantizar el cumplimiento, dirigir y vigilar el ejercicio de dichos derechos, rigiéndose en su organización, funcionamiento y control, por los principios de certeza, legalidad, independencia, imparcialidad, eficacia y objetividad.
+###### ARTÍCULO 1.
 
-4. Que de acuerdo con el artículo 53, fracción VIII de la LTAIPRC, es atribución del Pleno del Instituto emitir su Reglamento Interior, así como Manuales. Lineamientos, Acuerdos y demás normas que faciliten su organización y funcionamiento.
+La presente ley es de orden público e interés social y tiene por objeto regular y fomentar la conservación, protección, restauración, producción, ordenación, cultivo, manejo y aprovechamiento de los ecosistemas forestales del Estado de Sonora en el ámbito de las atribuciones que en dicha materia son propias o concurrentes con las de la Federación, según la distribución competencial que al efecto se previene en la Constitución Política de los Estados Unidos Mexicanos.
 
-5. Que el Reglamento Interior del Instituto se emite de conformidad con los artículos 53, fracción VIII, 54 y 55 de la LTAIPRC. La interpretación y todo lo no previsto en él estará a cargo del Pleno del Instituto.
+###### ARTÍCULO 2.
 
-6. Que el Reglamento Interior, materia del presente acuerdo es de observancia general y obligatoria para las unidades administrativas y personal del Instituto, y tiene por objeto establecer normas que regulan el funcionamiento y operación de la estructura orgánica de este Instituto para el correcto ejercicio de sus atribuciones.
+Son fines de esta ley:
 
-7. Que el Instituto se regirá para su organización y funcionamiento por las disposiciones establecidas en la LTAIPRC, la LPDPPSO, el presente Reglamento, así como en las demás disposiciones legales y administrativas que resulten aplicables.
+I.- Promover la organización, capacidad operativa, integración y profesionalización de las instituciones públicas para el desarrollo forestal sustentable;
 
-8. Que de conformidad con el artículo 13 fracción V del actual Reglamento, el Comisionado Presidente tiene la facultad de someter a la aprobación del Pleno del Instituto, a propuesta propia o de cualquier otro Comisionado, las normas, lineamientos y demás documentos necesarios para el cumplimiento de las atribuciones del Instituto.
+II.- Fomentar y vigilar el respeto del derecho que les corresponde a las comunidades indígenas para usar y disfrutar preferentemente de los recursos forestales ubicados en los lugares que ocupan y habitan en los términos del artículo 2, apartado A, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos y leyes secundarias aplicables;
 
-9. Que en el ejercicio de sus atribuciones, el Comisionado Presidente del Instituto, propone al Pleno para su aprobación, el Proyecto de Acuerdo por el que se aprueba el Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México.
+III.- Regular la protección, conservación, restauración y manejo de los ecosistemas y recursos forestales;
 
-Por las consideraciones y fundamentos anteriormente expuestos, el Pleno de este Instituto emite el siguiente:
+IV.- Promover y regular la restauración y el desarrollo de bosques en terrenos preferentemente forestales;
 
-ACUERDO
+V.- Regular el aprovechamiento y uso de los recursos forestales;
 
-PRIMERO. Se aprueba el Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, en los términos del documento que, como anexo, forma parte del presente Acuerdo.
+VI.- Regular la promoción y consolidación de las áreas forestales permanentes de tal modo que se impulse su delimitación y manejo sustentable evitando que el cambio de uso de suelo con fines agropecuarios, o de cualquier otra índole, afecte su permanencia y potencialidad;
 
-SEGUNDO. Se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 22 de mayo de 2017 y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Reglamento.
+VII.- Regular las auditorias técnicas preventivas forestales;
 
-TERCERO. El presente Acuerdo surte efectos al momento de su aprobación.
+VIII.- Estimular las certificaciones de buen manejo forestal y la valoración y compensación de servicios ambientales que generan los ecosistemas forestales;
 
-CUARTO. Se instruye al Secretario Técnico para que en el ámbito de sus atribuciones, realice las gestiones necesarias para publicar el nuevo Reglamento Interior en la Gaceta Oficial de la Ciudad de México, así como en el portal de Internet del Instituto.
+IX.- Regular la prevención, el combate y los sistemas de control de incendios forestales, así como de las plagas y enfermedades forestales;
 
-Así lo acordó, en Sesión Ordinaria celebrada el veintisiete de febrero de dos mil diecinueve, por unanimidad, de los integrantes del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, integrado por las Comisionadas y Comisionados Ciudadanos, que firman al calce, para todos los efectos legales a que haya lugar.
+X.- Promover acciones con fines de conservación y restauración de suelos forestales;
 
-JULIO CÉSAR BONILLA GUTIÉRREZ
+XI.- Promover la cultura, educación, investigación y capacitación para el manejo sustentable de los recursos forestales;
 
-COMISIONADO PRESIDENTE
+XII.- Proporcionar directrices para el establecimiento de una ventanilla única de atención institucional para los usuarios del sector forestal;
 
-ARÍSTIDES RODRIGO GUERRERO GARCÍA
+XIII.- Dotar de mecanismos de coordinación, concertación y cooperación a las instituciones estatales y municipales del sector forestal y, en general, a cualquier otra instancia con objetivos afines;
 
-COMISIONADO CIUDADANO
+XIV.- Garantizar la participación ciudadana, incluyendo a los pueblos y comunidades indígenas del Estado, en la aplicación, evaluación y seguimiento de las políticas forestales;
 
-MARÍA DEL CARMEN NAVA POLINA
+XV.- Promover instrumentos de apoyo económico para fomentar el desarrollo forestal; y
 
-COMISIONADA CIUDADANA
+XVI.- Impulsar el desarrollo de la empresa forestal social y comunal.
 
-ELSA BIBIANA PERALTA HERNÁNDEZ
+###### ARTÍCULO 3.
 
-COMISIONADA CIUDADANA
+Se declara de utilidad pública:
 
-MARINA ALICIA SAN MARTÍN REBOLLOSO
+I.- La conservación, protección y restauración de los ecosistemas forestales y sus elementos, así como de las cuencas hidrológico-forestales;
 
-COMISIONADA CIUDADANA
+II.- La ejecución de obras destinadas a la conservación, protección o generación de bienes y servicios ambientales;
 
-## TRANSITORIOS
+III.- La protección y conservación de los suelos con el propósito de evitar su erosión;
 
-PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+IV.- La protección y conservación de los ecosistemas que permitan mantener procesos ecológicos esenciales y garantizar la diversidad biológica; y
 
-SEGUNDO. El Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México puede ser consultado en la dirección electrónica siguiente:http://www.infodf.org.mx/documentospdf/constitucion_cdmx/Reglamento.pdf
+V.- La protección y conservación de las zonas que sirvan de refugio a fauna o flora en peligro de extinción.
 
-CIUDAD DE MÉXICO, A 04 DE ABRIL DE 2019
+###### ARTÍCULO 4.
 
-(Firma)
+Los procedimientos establecidos por esta ley no alterarán el régimen de propiedad de los terrenos donde se ubiquen los recursos forestales.
 
-HUGO ERIK ZERTUCHE GUERRERO
+###### ARTÍCULO 5.
 
-SECRETARIO TÉCNICO
+Son supletorias de esta ley las disposiciones de la Ley General de Desarrollo Forestal Sustentable, la Ley General del Equilibrio Ecológico y Protección al Ambiente y la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
+### CAPITULO II. De la Terminología Empleada en esta Ley
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+###### ARTÍCULO 6.
 
-###### Artículo 1.
+Para los efectos de esta ley se entenderá por:
 
-El presente ordenamiento es de observancia general y obligatoria para las unidades administrativas y el personal del Instituto; tiene por objeto establecer las normas que regulan el funcionamiento y la operación de la estructura orgánica del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México para el correcto ejercicio de sus atribuciones legales.
+I.- Aprovechamiento forestal: La extracción realizada en los términos de ley de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables;
 
-###### Artículo 2.
+II.- Auditoría técnica preventiva: La evaluación que realiza personal autorizado para promover e inducir el cumplimiento de lo establecido en los programas de manejo, estudios técnicos en ejecución y demás actos previstos en la ley y otras disposiciones legales aplicables, respecto al aprovechamiento forestal;
 
-El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México es un órgano autónomo de la Ciudad de México, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión y financiera, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, funcionamiento y resoluciones, responsable de garantizar el cumplimiento de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, de la Ley del Sistema Anticorrupción de la Ciudad de México y demás disposiciones previstas en la normativa aplicable; así como regir su organización, funcionamiento y control, conforme a los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+III.- Cambio de uso del suelo: La remoción total o parcial de la vegetación de los terrenos forestales o preferentemente forestales para destinarlos a actividades no forestales;
 
-###### Artículo 3.
+IV.- CONAFOR: Comisión Nacional Forestal;
 
-El presente Reglamento se emite de conformidad con los artículos 53 fracción VIII, 54 y 55 de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México. La interpretación y todo lo no previsto en él, estará a cargo del Pleno.
+V.- Cuenca hidrológico-forestal: La unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
 
-###### Artículo 4.
+VI.- Degradación del suelo: Proceso y resultado causado por el hombre que disminuye la capacidad presente o futura, o ambas, del suelo, para sustentar vida vegetal, animal o humana;
 
-Además de lo señalado por el artículo 6° de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, así como por lo dispuesto en el artículo 3 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderá por:
+VII.- Empresa social forestal: Organización productiva de comunidades o ejidos con áreas forestales permanentes y bajo programa de manejo forestal, para la producción, diversificación y transformación con capacidad agraria y empresarial;
 
-I. Comisionadas o Comisionados Ciudadanos: Las ciudadanas y los ciudadanos designados por el Pleno del Poder Legislativo de la Ciudad de México y que en forma colegiada integran el Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+VIII.- Erosión del suelo: Desprendimiento y arrastre de partículas o capas de suelo por acción del agua, el viento o cualquier otro fenómeno natural;
 
-II. Comisionada Presidenta o Comisionado Presidente: La Comisionada o el Comisionado Ciudadano designado por mayoría de las propias comisionadas y comisionados mediante voto secreto, quien tendrá la representación legal del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+IX.- Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
 
-III. Consejo Consultivo Ciudadano: El Órgano Colegiado de la Sociedad Civil que realiza actividades de coordinación y planeación con el Instituto;
+X.- Leña: Materia prima maderable proveniente de la vegetación forestal que se utiliza como material combustible o para carbonización;
 
-IV. Constitución local: La Constitución Política de la Ciudad de México.
+XI.- Manejo forestal: Proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, el cultivo, la protección, la conservación, la restauración y el aprovechamiento de los recursos forestales de un ecosistema forestal, respetando la integralidad funcional e interdependencia de dichos recursos y sin que mermen las capacidades productivas correspondientes;
 
-V. Derechos ARCO: Los derechos de Acceso, Rectificación, Cancelación y Oposición al tratamiento de datos personales;
+XII.- Plantación forestal comercial: El establecimiento, cultivo y manejo de vegetación forestal en terrenos temporalmente forestales o preferentemente forestales, con el objetivo principal de producir materias primas forestales destinadas a su industrialización o comercialización;
 
-VI. Estado abierto: Concepto que refiere a un modelo del quehacer institucional mediante una interacción pública que abre, incorpora, transparenta, informa con ética, memoria, oportunidad, exhaustividad, y datos abiertos, así como promueve la participación y colaboración, a la totalidad de los programas, proyectos, procesos, funciones, facultades, actividades, asignaciones de recursos públicos, entre otros, que componen a los tres Poderes del Estado, organismos autónomos, así como distintos entes; que busca involucrar activamente a las organizaciones de la sociedad civil y sociales, así como de las personas interesadas o intervinientes, en las etapas y procesos del quehacer público, incluso en el diseño de las políticas públicas, en la coproducción de bienes y servicios, y en el seguimiento, control y evaluación de la actuación de los distintos poderes, programas y organismos, además de que aprovecha los avances de las tecnologías de la información para promover la vinculación entre Estado y la ciudadanía, reforzando la idea de un Estado colaborativo;
+XIII.- Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto;
 
-VII. Gobierno abierto: Concepto que refiere a un modelo de gestión que mediante una interacción pública que abre, incorpora, transparenta, informa con ética, memoria, oportunidad, exhaustividad, y datos abiertos, fomentando la colaboración entre las instituciones que conforman los poderes ejecutivos de la Ciudad de México y las organizaciones de la sociedad civil y sociales, así como de las personas interesadas o intervinientes, y que mediante el uso de las nuevas tecnologías, promueven acciones, procesos, programas y políticas públicas orientadas a la apertura gubernamental a la totalidad de los programas, proyectos, procesos, funciones, facultades, actividades, asignaciones de recursos públicos, entre otros, a fin de contribuir a la solución de los problemas públicos a través de instrumentos ciudadanos participativos, efectivos y transversales;
+XIV.- Programa de manejo forestal: El instrumento técnico de planeación y seguimiento que describe las acciones y los procedimientos de un manejo forestal sustentable;
 
-VIII. Instituto: El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+XV.- Programa de manejo de plantación forestal comercial: El instrumento técnico de planeación y seguimiento que describe las acciones y los procedimientos del manejo forestal destinado a fines comerciales;
 
-IX. Justicia abierta: Concepto que refiere a un modelo de gestión de la administración, impartición y procuración de justicia que informa con ética, memoria, oportunidad, exhaustividad y datos abiertos, sobre la totalidad de sus programas, proyectos, procesos, funciones, facultades, actividades, sentencias, asignaciones de recursos públicos, entre otros, que conduzcan a instituciones judiciales más transparentes, incluyentes, ciudadanas y justas;
+XVI.- Recursos forestales: La vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los terrenos forestales y preferentemente forestales;
 
-X. Ley Anticorrupción local: La Ley del Sistema Anticorrupción de la Ciudad de México;
+XVII.- Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
 
-XI. Ley de Datos Personales: La Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México;
+XVIII.- Reforestación: Establecimiento inducido de vegetación forestal en terrenos forestales;
 
-XI (SIC). Ley de Transparencia: La Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
+XIX.- Secretaría: La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura definida en sus atribuciones por la Ley Orgánica del Poder Ejecutivo del Estado;
 
-XII. Ley General de Transparencia: La Ley General de Transparencia y Acceso a la Información Pública;
+XX.- SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales dependiente del Gobierno Federal;
 
-XIV (SIC). Ley General de Protección de Datos Personales: La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+XXI.- Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como: la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación;
 
-XV. OIC: El Órgano Interno de Control del Instituto;
+XXII.- Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal y la asesoría y capacitación a los propietarios o poseedores de recursos forestales;
 
-XVI. Parlamento abierto: Concepto que refiere a un modelo que mediante una interacción pública abre, incorpora, transparenta, informa con ética, memoria, oportunidad, exhaustividad, y datos abiertos, la representación y los procesos derivados de las facultades constitucionales, legales y reglamentarias de las y los legisladores y cuerpos legislativos. El Parlamento abierto busca de manera sostenida que los órganos legislativos sean más transparentes, rindan cuentas y mejoren la capacidad de respuesta hacia sus ciudadanos, con el objetivo final de tener parlamentos receptivos, innovadores y eficientes. El parlamento abierto busca mejorar y fortalecer la participación y colaboración de las organizaciones de la sociedad civil y sociales, así como de las personas interesadas o intervinientes, en los procesos parlamentarios, administrativos, legislativos, así como a la totalidad de los programas, proyectos, procesos, funciones, facultades, actividades, asignaciones de recursos públicos, entre otros, que conduzcan a instituciones más representativas y democráticas. El parlamento abierto deberá regirse al menos por los siguientes principios:
+XXIII.- Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción continua (sic) de bienes y servicios;
 
-1. Da máxima publicidad y acceso a la información parlamentaria y legislativa.
+XXIV.- Terreno preferentemente forestal: Aquél que no se encuentra cubierto por vegetación forestal habiéndolo estado antes, pero que por sus condiciones de clima, suelo y topografía resulta más apto para el uso forestal que para otros usos alternativos, excluyendo los urbanizados;
 
-2. Publica información en formatos sencillos y cuenta con mecanismos de búsqueda simple.
+XXV.- Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales durante un periodo de tiempo no inferior al turno de la plantación;
 
-3. Publica el análisis, deliberación y votación de los trabajos en comisiones y sesiones plenarias.
+XXVI.- Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan la relación y equilibrio necesarios para unificar acciones con fines de ordenación, manejo forestal sustentable y conservación de los recursos respectivos; y
 
-4. Garantiza el acceso y transmisión pública de las sesiones plenarias.
+XXVII.- Veda forestal: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada, mediante decreto del Ejecutivo Federal.
 
-5. Publica información detallada sobre la gestión, administración y gasto del presupuesto asignado.
+## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y ADMINISTRACIÓN DEL SECTOR PÚBLICO FORESTAL
 
-6. Publica información detallada sobre los legisladores y funcionarios del cuerpo legislativo.
+### CAPITULO I. Del Servicio Estatal Forestal
 
-7. Cuenta con mecanismos y herramientas para un monitoreo y control ciudadano eficaz.
+###### ARTÍCULO 7.
 
-8. Asegura una participación ciudadana inclusiva en los proyectos legislativos.
+El Servicio Estatal Forestal es la instancia de coordinación entre el Gobierno del Estado y los gobiernos municipales, y de concertación entre dichos niveles de gobierno y los particulares, que tiene por objeto la conjunción de esfuerzos, instancias, instrumentos, políticas, servicios y acciones institucionales para la atención eficiente del sector forestal.
 
-9. Da preferencia a la utilización de formatos en datos abiertos, software libre y código abierto.
+El reglamento de la presente ley desarrollará, en el ámbito de sus alcances constitucionales, las bases de coordinación, integración y funcionamiento del Servicio Estatal Forestal, procurando la participación de la Comisión Nacional Forestal.
 
-10. Promueve la legislación a favor de políticas de Estado abierto.
+###### ARTÍCULO 8.
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+Para la atención y coordinación de las distintas materias del sector forestal el Servicio Estatal Forestal contará, al menos, con los siguientes grupos de trabajo:
 
-XVII. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hacen referencia los artículos 49 y 50 de la Ley General de Transparencia y Acceso a la Información Pública.
+I.- Inspección y vigilancia forestal; y
 
-XVIII. Pleno: El órgano colegiado directivo, de gobierno y máxima instancia del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, conformado por las Comisionadas y los Comisionados Ciudadanos;
+II.- Prevención y protección de incendios forestales.
 
-XIX. Reglamento: El Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+###### ARTÍCULO 9.
 
-XX. Sistema Local Anticorrupción: El Sistema Anticorrupción de la Ciudad de México;
+Los recursos humanos, financieros y materiales que se requieran para el cumplimiento del objeto del Servicio Estatal Forestal quedarán bajo la absoluta responsabilidad de las partes que lo integran o, en su caso, de los particulares con los cuales se establezcan mecanismos de concertación. La aportación voluntaria de elementos materiales para objetivos del Servicio Estatal Forestal no implicará de modo necesario o automático la transferencia de los mismos.
 
-XXI. Sistema Local de Transparencia: El Sistema Local de Transparencia, Acceso a la Información Pública, Protección de Datos Personales, Apertura Gubernamental y Rendición de Cuentas de la Ciudad de México;
+### CAPITULO II. De la Distribución de Competencias en Materia Forestal
 
-XXII. Sistema Nacional de Transparencia: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales; y
+###### ARTÍCULO 10.
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+En materia forestal corresponden al Estado las siguientes atribuciones, que se ejercerán por conducto de la Secretaría:
 
-XXII (SIC). Unidades Administrativas: Secretaría Técnica, Secretaría Ejecutiva, Dirección de Asuntos Jurídicos, Dirección de Estado Abierto, Estudios y Evaluación, Dirección de Vinculación y Proyección Estratégica, Dirección de Datos Personales, Dirección de Tecnologías de la Información, Dirección de Administración y Finanzas, Dirección de Comunicación Social, Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales y las unidades administrativas de nueva creación.
+I.- Diseñar, formular y aplicar, en concordancia con la política forestal nacional, la política forestal del Estado;
 
-###### Artículo 5.
+II.- Diseñar, organizar y operar el Servicio Estatal Forestal;
 
-El Instituto se regirá para su organización y funcionamiento por las disposiciones establecidas en la Constitución Local, la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento, así como en las demás disposiciones legales y administrativas que resulten aplicables.
+III.- Impulsar el establecimiento de una ventanilla única para la atención de los usuarios del sector forestal, con la participación de los municipios;
 
-### CAPÍTULO SEGUNDO. DE LA ESTRUCTURA DEL INSTITUTO
+IV.- Promover los bienes y servicios ambientales de los ecosistemas forestales del Estado;
 
-###### Artículo 6.
+V.- Impulsar la participación directa de los propietarios y poseedores de recursos forestales en la protección, conservación, restauración, vigilancia, zonificación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Instituto contará con la siguiente estructura:
+VI.- Participar en la elaboración de los programas forestales regionales de largo plazo, así como en los de ámbito interestatal o por cuencas hidrológico-forestales;
 
-I. Pleno;
+VII.- Promover, directamente o en coordinación con la Federación o los municipios, programas y proyectos de educación, capacitación, investigación y cultura en materia forestal;
 
-II. Comisionada Presidenta o Comisionado Presidente;
+VIII.- Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
-III. Comisionadas o Comisionados Ciudadanos;
+IX.- Ejecutar acciones coordinadas con la Federación o los municipios, o con ambos niveles de gobierno a la vez, en materia de prevención, capacitación y combate de incendios forestales;
 
-IV. Secretaría Técnica;
+X.- Impulsar programas de mejoramiento genético forestal;
 
-V. Secretaría Ejecutiva;
+XI.- Impulsar proyectos que contribuyan a la integración y competitividad de cadenas productivas en materia forestal;
 
-VI. Órgano Interno de Control;
+XII.- Llevar a cabo, directamente o en coordinación con la Federación o los municipios, acciones de saneamiento de los ecosistemas forestales;
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+XIII.- Proporcionar asesoría y capacitación en prácticas y métodos que tengan como objetivo un manejo forestal sustentable;
 
-VII. Dirección de Asuntos Jurídicos, Dirección de Estado Abierto, Estudios y Evaluación, Dirección de Vinculación y Proyección Estratégica, Dirección de Datos Personales, Dirección de Tecnologías de la Información, Dirección de Administración y Finanzas, Dirección de Comunicación Social y Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales.
+XIV.- Realizar auditorias técnicas con la finalidad de promocionar e inducir el cumplimiento voluntario de la normatividad en materia forestal, sin perjuicio de que el resultado de dichas auditorias se utilice igualmente, cuando proceda, para obtener el cumplimiento coactivo de la indicada normatividad;
 
-VIII. Las demás unidades administrativas, así como el personal que autorice el Pleno, a propuesta del Presidente y/o los miembros del Pleno.
+XV.- Asesorar y capacitar a los propietarios y poseedores forestales en la elaboración y ejecución de programas de manejo forestal y de plantaciones forestales comerciales, así como en la diversificación de las actividades forestales;
 
-### CAPÍTULO TERCERO. DE LA ORGANIZACIÓN Y FACULTADES DEL INSTITUTO
+XVI.- Asesorar y orientar a propietarios, poseedores, ejidatarios, comuneros y, en general, a todos quienes desarrollen labores de producción o explotación forestal, en la creación, desarrollo y operación de empresas forestales sociales, propiciando la integración de cadenas productivas en la materia;
 
-###### Artículo 7.
+XVII.- Brindar atención, directamente o de forma coordinada con la Federación o los municipios, a los asuntos relacionados con la conservación, mejoramiento y aprovechamiento del hábitat natural de los pueblos y comunidades indígenas;
 
-Las personas titulares de las unidades administrativas previstas en este Reglamento, deberán cumplir con los requisitos siguientes:
+XVIII.- Participar coordinadamente con la Federación en la inspección y vigilancia forestal, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales;
 
-I. Contar con la ciudadanía mexicana y estar en pleno ejercicio de sus derechos;
+XIX.- Recomendar al Ejecutivo Federal, a través de la SEMARNAT, el establecimiento, modificación o levantamiento de vedas forestales;
 
-II. Contar con título profesional de licenciatura y, en su caso, con cédula profesional para el ejercicio de sus funciones, así como acreditar un mínimo de tres años de experiencia en actividades similares o que guarden relación con el puesto a ocupar;
+XX.- Recomendar al Ejecutivo Federal, a través de la SEMARNAT, el establecimiento de restricciones a la forestación y reforestación;
 
-III. No ser ni haber sido dirigente de algún partido o asociación política, ni haber sido candidata, candidato o desempeñado algún cargo de elección popular federal, estatal, de la Ciudad de México o municipal, ni ministro de culto religioso en los últimos tres años inmediatos anteriores, al momento de su designación;
+XXI.- Elaborar, coordinar y aplicar programas relativos al sector forestal con proyecciones de largo plazo en vinculación con los programas nacionales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
 
-IV. No haber sido condenado por delito doloso ni estar sujeto a inhabilitación para ejercer cualquier cargo público en cualquier ámbito de gobierno; y
+XXII- Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
 
-V. En el caso de la persona titular de la Dirección de Asuntos Jurídicos, ésta deberá contar con el título de licenciatura en Derecho y cédula profesional.
+XXIII.- Decidir sobre el cambio de uso de suelo de terrenos forestales y preferentemente forestales cuando se encuentren ubicados en zonas rurales, salvo que se trate de competencia federal o municipal por disposición constitucional;
 
-###### Artículo 8.
+XXIV.- Integrar el Sistema Estatal de Información Forestal;
 
-El Pleno se reunirá en sesión en la que las Comisionadas y Comisionados Ciudadanos tendrán derecho a voz y voto. Para el desarrollo de las sesiones, el Pleno se auxiliará de una o un Secretario Técnico quien tendrá derecho a voz.
+XXV.- Compilar y procesar la información sobre el uso doméstico de los recursos forestales e incorporarla al Sistema Estatal de Información Forestal;
 
-###### Artículo 9.
+XXVI.- Coadyuvar y participar, de conformidad con la Ley General de Desarrollo Forestal Sustentable, en la adopción y consolidación del Servicio Nacional Forestal;
 
-El Pleno funcionará y tomará sus decisiones de manera colegiada, ajustándose para ello al principio de igualdad de sus integrantes, sin perjuicio de lo establecido en el artículo 63, segundo párrafo de la Ley de Transparencia, con relación al voto de calidad del Comisionado Presidente.
+XXVII.- Regular el uso del fuego en las actividades agropecuarias o de cualquier naturaleza que pudieran afectar a los ecosistemas forestales;
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE RECUSACIÓN
+XXVIII.- Promover y participar en la restauración de los ecosistemas forestales afectados por incendios o cualquier otro desastre natural;
 
-###### Artículo 10.
+XXIX.- Realizar y supervisar labores de conservación, protección y restauración de los terrenos forestales;
 
-El Pleno es la autoridad frente a las Comisionadas y los Comisionados Ciudadanos en su conjunto y en lo particular, y sus resoluciones son obligatorias para éstos, aunque estén ausentes o sean disidentes al momento de tomarlas.
+XXX.- Elaborar y aplicar, directamente o de forma coordinada con municipios, programas de reforestación y forestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
 
-###### Artículo 11.
+XXXI.- Diseñar, desarrollar y aplicar instrumentos de financiamiento para promover el desarrollo forestal de la Entidad;
 
-Las Comisionadas y los Comisionados Ciudadanos deberán excusarse de conocer asuntos de su competencia, cuando exista conflicto de interés o situaciones que le impidan resolverlos con plena objetividad, profesionalismo e imparcialidad de acuerdo con lo previsto en el artículo 75 de la Ley de Transparencia.
+XXXII.- Promover e invertir en el mejoramiento de infraestructura en las áreas forestales de la Entidad;
 
-Una vez que la Comisionada o el Comisionado Ciudadano tenga conocimiento del asunto respecto del que considere que deba excusarse deberá presentar al Pleno a través del Secretario Técnico un escrito en el que se exprese la causa por la cual considera que no debe intervenir en un caso concreto de conformidad con lo establecido en los artículos 77 y 78 de la Ley de Transparencia.
+XXXIII.- Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico del Estado; y
 
-El Pleno deberá resolver la procedencia de la excusa a más tardar en la sesión ordinaria o extraordinaria siguiente a que sea informado.
+XXXIV.- Las demás que en materia de desarrollo forestal sustentable se determinen en esta ley u otros ordenamientos de igual naturaleza.
 
-###### Artículo 12.
+###### ARTÍCULO 11.
 
-Son atribuciones del Pleno:
+En materia forestal corresponden a los municipios las siguientes atribuciones:
 
-I. Determinar la forma en que serán ejercidas las atribuciones que al Instituto le otorga la Constitución local, la Ley de Transparencia, la Ley de Datos Personales, así como las demás leyes, reglamentos y disposiciones que le resulten aplicables;
+I.- Aplicar en el ámbito de su competencia los criterios de política forestal previstos en esta ley y los que se definan en acatamiento de la misma;
 
-II. Aprobar las estrategias para el cumplimiento de las atribuciones conferidas al Instituto en la Constitución local, la Ley de Transparencia, la Ley de Datos Personales y demás normatividad aplicable, así como los programas de trabajo anuales de las unidades administrativas;
+II.- Apoyar a la Federación y al Estado en la operación y consolidación de los servicios nacional y estatal en materia forestal;
 
-III. Promover las acciones de inconstitucionalidad en términos del artículo 49 numeral 5 de la Constitución local y de la Ley de Transparencia, cuando así lo determinen la mayoría de sus miembros;
+III.- Participar en el establecimiento y operación de una ventanilla única de atención para los usuarios del sector forestal;
 
-IV. Conocer y resolver los recursos de revisión y otros procedimientos en materia de acceso a la información y protección de datos personales previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
+IV.- Coadyuvar con el Gobierno de la Entidad en la realización y actualización del Inventario Estatal Forestal y de Suelos;
 
-V. Resolver sobre las denuncias y verificaciones por incumplimiento a las obligaciones de transparencia y en materia de datos personales, en términos de la normatividad aplicable;
+V.- Participar, en coordinación con la Federación y el Estado, en la zonificación forestal;
 
-VI. Determinar e imponer las medidas de apremio o sanciones que correspondan, de conformidad con lo señalado en la normativa aplicable;
+VI.- Celebrar acuerdos y convenios de coordinación y cooperación con la Federación y el Estado en materia forestal;
 
-VII. Elegir a la Comisionada Presidenta o al Comisionado Presidente en términos de lo establecido en la Ley de Transparencia y el presente Reglamento;
+VII.- Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal;
 
-VIII. Aprobar las excusas que presenten las Comisionadas o los Comisionados Ciudadanos para conocer y votar sobre asuntos en los que exista conflictos de interés o situaciones que les impidan resolverlos con plena independencia, profesionalismo e imparcialidad;
+VIII.- Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales;
 
-IX. Conceder licencias a las Comisionadas o los Comisionados y personas titulares de las Secretarias cuando exista causa justificada, siempre que no se perjudique el buen funcionamiento del Instituto;
+IX.- Llevar a cabo, en coordinación con el Gobierno de la Entidad, acciones de saneamiento en los ecosistemas forestales ubicados dentro de su ámbito territorial de competencia;
 
-X. Aprobar el Informe Anual de Actividades y Resultados previo a su presentación ante el Poder Legislativo de la Ciudad de México, cumpliendo con lo establecido en el artículo 60 de la Ley de Transparencia;
+X.- Promover la construcción y mantenimiento de la infraestructura en las áreas forestales ubicadas dentro de su ámbito territorial de competencia;
 
-XI. Autorizar el proyecto de presupuesto, así como las disposiciones en materia administrativa y elementos de desempeño institucional que sean necesarios para el funcionamiento y el cumplimiento de los programas, indicadores, proyectos y metas del Instituto;
+XI.- Promover la participación de organismos públicos y privados en proyectos de apoyo directo al desarrollo forestal sustentable;
 
-XII. Conocer los estados financieros anuales dictaminados del Instituto;
+XII.- Participar, de conformidad con los acuerdos y convenios que se celebren con las instancias competentes en la vigilancia forestal correspondiente a su ámbito territorial de competencia;
 
-XIII. Dictar políticas, lineamientos, acuerdos, y demás normatividad necesaria para ejercer las atribuciones previstas en la Constitución local, la Ley de Transparencia, la Ley de Datos Personales, la Ley Anticorrupción local y demás normatividad aplicable;
+XIII.- Participar y coadyuvar con la Federación y el Estado en los programas de prevención y combate a la extracción ilegal de recursos forestales y la tala clandestina;
 
-XIV. Aprobar los formatos de solicitudes de acceso a la información pública; de derechos ARCO; de interposición de recursos de revisión, de recepción de denuncias; así como de aquellos formatos necesarios para dar cumplimiento a los procedimientos previstos en la Ley de Transparencia, en la Ley de Datos Personales y demás normatividad aplicable;
+XIV.- Organizar y operar un Consejo Municipal Forestal como instancia de apoyo para la ejecución de esta Ley;
 
-XV. Interpretar la Ley General, la Ley de Transparencia y la Ley de Datos Personales, así como resolver conforme a las mismas, atendiendo a la normatividad supletoria a éstas;
+XV.- Diseñar, formular y aplicar, en concordancia con la política nacional y estatal, la política forestal del municipio;
 
-XVI. Aprobar mecanismos y acciones que permitan posicionar y fortalecer la identidad del Instituto;
+XVI.- Promover programas y proyectos de educación, capacitación, investigación y cultura forestal;
 
-XVII. Aprobar la política laboral del Instituto, así como sus respectivas actualizaciones;
+XVII.- Participar y coadyuvar en acciones de prevención y combate de incendios forestales en coordinación con los gobiernos federal y estatal, así como intervenir en la atención de emergencias y contingencias forestales de acuerdo con los programas de protección civil;
 
-XVIII. Aprobar la estructura orgánica y funcional del Instituto, así como su catálogo de puestos y tabulador de sueldos;
+XVIII.- Promover la instalación de viveros y programas de producción de recursos forestales;
 
-XIX. Autorizar los mecanismos para la selección y contratación del personal;
+XIX.- Vigilar la correcta disposición final de residuos provenientes de la extracción de materias primas forestales;
 
-XX. Aprobar el nombramiento del titular de la persona titular (sic) de la Secretaría Técnica, a propuesta de la Comisionada Presidenta o el Comisionado Presidente;
+XX.- Decidir sobre el cambio de uso de suelo de terrenos forestales y preferentemente forestales cuando se encuentren ubicados en zonas urbanas, salvo que se trate de competencia federal o estatal por disposición constitucional; y
 
-XXI. Aprobar el nombramiento del titular de la Secretaría Ejecutiva, así como de las personas titulares de las Direcciones a propuesta de la Comisionada Presidenta o del Comisionado Presidente;
+XXI.- Las demás que en materia de desarrollo forestal sustentable se determinen en esta ley u otros ordenamientos de igual naturaleza.
 
-XXII. Aprobar el calendario de días inhábiles del Instituto, así como el calendario de sesiones ordinarias;
+###### ARTÍCULO 12.
 
-XXIII. Aprobar la creación de grupos o comités de trabajo para el desarrollo de programas o funciones específicas;
+El Estado y los municipios procurarán que los recursos forestales de los pueblos y comunidades indígenas sirvan para el desarrollo económico y social de dichos núcleos poblacionales, impulsando su conservación, aprovechamiento y restauración.
 
-XXIV. Vigilar que las personas servidoras públicos (sic) del Instituto actúen con apego a la normatividad aplicable;
+### CAPITULO III. De la Coordinación Intergubernamental
 
-XXV. Resolver en definitiva cualquier tipo de conflicto competencial que surja entre las unidades administrativas del Instituto;
+###### ARTÍCULO 13.
 
-XXVI. Aprobar la política de comunicación social del Instituto;
+El Estado podrá celebrar convenios o acuerdos de coordinación con la Federación para el efecto de asumir las siguientes funciones:
 
-XXVII. Autorizar los programas de participación con la sociedad civil, pueblos, barrios y colonias, representantes ciudadanos y vecinales, y público en general en las materias de transparencia, acceso a la información pública, datos personales, rendición de cuentas y anticorrupción;
+I.- Programar y operar las tareas de prevención, detección, control y combate de incendios, plagas y enfermedades forestales;
 
-XXVIII. Aprobar las propuestas de suscripción de convenios, acuerdos, bases de colaboración y mecanismos de coordinación a celebrarse con cualquier ente público o privado, nacional e internacional;
+II.- Inspección y vigilancia forestales;
 
-XXIX. Establecer y aprobar las normas, procedimientos, y criterios e instrumentos para la administración de los recursos humanos, financieros, y materiales y archivos del Instituto;
+III.- Imponer medidas de seguridad y sanciones en materia forestal;
 
-XXX. Conocer y tener por presentados los informes de gestión de las diversas unidades administrativas del Instituto y realizar, de ser el caso, las recomendaciones necesarias para su mejor funcionamiento;
+IV.- Regular, operar, verificar y validar programas, sistemas y acciones relativos a la acreditación de la procedencia legal de las materias primas forestales;
 
-XXXI. Emitir criterios específicos y lineamientos de observancia general para la clasificación y desclasificación de información pública, así como para el tratamiento, seguridad y protección de datos personales en posesión de los Sujetos Obligados;
+V.- Otorgar permisos y procesar avisos para el combate y control de plagas y enfermedades forestales;
 
-XXXII. Aprobar el Manual de Operación del Comité de Transparencia, el reglamento de operación del Comité Técnico Interno de Administración de Documentos, y demás normatividad y sistemas que propongan estos comités;
+VI.- Recibir avisos y conceder autorizaciones para el aprovechamiento de recursos forestales maderables, no maderables, de forestación y los de plantaciones forestales comerciales;
 
-XXXIII. Aprobar los formatos para el registro de los sistemas de datos personales en posesión de los Sujetos Obligados;
+VII.- Autorizar el cambio de uso de suelo de los terrenos de uso forestal de competencia federal;
 
-XXXIV. Aprobar la creación, modificación o supresión de los Sistemas de Datos Personales del Instituto;
+VIII.- Dictaminar, autorizar y evaluar los programas de manejo forestal, así como evaluar y asistir a los servicios técnico forestales;
 
-XXXV. Emitir observaciones y recomendaciones a los Sujetos Obligados que incumplan las disposiciones de la Ley de Transparencia, la Ley de Datos Personales, y demás normatividad aplicable en estas y otras materias de su competencia;
+IX.- Evaluar el impacto ambiental de las obras o actividades forestales a que se refiere la Ley General del Equilibrio Ecológico y la Protección al Medio Ambiente;
 
-XXXVI. Establecer los lineamientos para el funcionamiento del actuar de la Unidad de Evaluación del Consejo Consultivo con base en los principios de Estado abierto, participación ciudadana y comunitaria en la materia;
+X.- Colectar y utilizar recursos genéticos forestales con fines comerciales o de investigación; y
 
-XXXVII. Tomar en consideración las opiniones que el Consejo Consultivo Ciudadano emita de conformidad con lo dispuesto en la Ley de Transparencia;
+XI.- Las demás cuya ejecución en esta materia resulten de beneficio evidente para el Estado.
 
-XXXVIII. Emitir las políticas de transparencia proactiva que incentiven a los Sujetos Obligados a publicar información adicional a la que establece la Ley de Transparencia y promover la reutilización de la información que éstos generan, considerando la demanda e interés de la sociedad;
+###### ARTÍCULO 14.
 
-XXXIX. Establecer los mecanismos para procurar que al menos la información referente a las obligaciones de transparencia, sea accesible de manera focalizada a personas con discapacidad, así como personas hablantes en diversas lenguas o idiomas reconocidos;
+El Estado procurará que el Consejo Estatal Forestal intervenga en el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este capítulo.
 
-XL. Aprobar el Estatuto del Servicio Profesional de Transparencia de Carrera en el Instituto;
+###### ARTÍCULO 15.
 
-XLI. Aprobar los procedimientos para la certificación de Sujetos Obligados, Organizaciones o Asociaciones de la Sociedad, así como personas en general, que ofrezcan en forma interdisciplinaria y profesional la posibilidad de llevar a cabo, cursos o talleres en materia de acceso a la información pública, rendición de cuentas, protección de datos personales, anticorrupción, Estado abierto e innovación tecnológica;
+Los gobiernos del Estado y los municipios harán públicos los resultados obtenidos por la ejecución de los convenios o acuerdos de coordinación intergubernamentales celebrados en materia forestal.
 
-XLII. Aprobar los procedimientos y resultados de la evaluación de los Sujetos Obligados, en la implementación de la política de Estado abierto;
+## TITULO TERCERO. DE LA POLÍTICA ESTATAL EN MATERIA FORESTAL
 
-XLIII. Realizar las acciones necesarias para dar cumplimiento y apertura a la rendición de cuentas y gobierno abierto del Instituto a la sociedad;
+### CAPITULO I. De los Criterios de la Política Estatal en Materia Forestal
 
-XLIV. Aprobar los mecanismos de observación que permitan a la población utilizar el derecho de acceso a la información pública para vigilar y evaluar el desempeño de los Sujetos Obligados, de conformidad con las disposiciones jurídicas aplicables;
+###### ARTÍCULO 16.
 
-XLV. Emitir recomendaciones y observaciones preventivas para diseñar, implementar y evaluar acciones de apertura gubernamental que permitan orientar las políticas internas en la materia y fortalecer la rendición de cuentas;
+El desarrollo forestal sustentable se considera área prioritaria del desarrollo estatal y por tanto tendrán ese carácter las actividades públicas o privadas que se le relacionen.
 
-XLVI. Determinar la efectividad de la Política de Transparencia Proactiva con base en los criterios emitidos por este Instituto, así como por el Sistema Nacional de Transparencia;
+###### ARTÍCULO 17.
 
-XLVII. Establecer los lineamientos para los requerimientos que se realicen a los Sujetos Obligados, en relación con el artículo 53, fracción LXIII de la Ley de Transparencia;
+La política estatal en materia forestal deberá promover el fomento y la adecuada planeación de un desarrollo forestal sustentable, entendido éste como un proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, silvícola, económico y social que tienda a alcanzar una productividad óptima y sostenida de los recursos forestales sin comprometer el rendimiento, equilibrio e integridad de los ecosistemas forestales, que mejore el ingreso y la calidad de vida de las personas que participan en la actividad forestal y promueva la generación de valor agregado en las regiones forestales, diversificando las alternativas de producción y creando fuentes de empleo en el sector.
 
-XLVIII. Hacer del conocimiento al órgano interno de control o de la instancia competente, las infracciones o incumplimientos que determine el Pleno en relación con la Ley General de Transparencia, Ley General de Datos Personales, la Ley de Transparencia, la Ley de Datos Personales y demás normativa aplicable, para que éstas inicien, en su caso, el procedimiento respectivo;
+### CAPITULO II. De los Instrumentos de la Política Forestal
 
-XLIX. Dictar medidas de apremio y sanciones de conformidad con lo establecido en la Ley General, la Ley General de Protección de Datos Personales, la Ley de Transparencia, la Ley de Datos Personales, las disposiciones de carácter general y demás normatividad aplicable;
+###### ARTÍCULO 18.
 
-L. Coadyuvar, en el ámbito de su competencia, con el cumplimiento de los objetivos de los sistemas nacionales y locales de los que el Instituto participe, así como de las instancias de las que forme parte, y
+Son instrumentos de la política estatal en materia forestal:
 
-LI. Aprobar mecanismos de coordinación con sujetos obligados, con órganos garantes de transparencia de las entidades federativas, con instituciones públicas de cualquier ámbito de gobierno, con organismos nacionales e internacionales del sector público, privado o social.
+I.- La planeación del desarrollo forestal;
 
-LII. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento y la normativa aplicable.
+II.- El Sistema Estatal de Información Forestal;
 
-### CAPÍTULO QUINTO. DE LAS AUSENCIAS Y SUPLENCIAS
+III.- El Inventario Estatal Forestal y de Suelos; y
 
-###### Artículo 13.
+IV.- La ordenación forestal.
 
-Son atribuciones de la Comisionada Presidenta o del Comisionado Presidente:
+El Ejecutivo Estatal promoverá la participación de la sociedad en la planeación, seguimiento y evaluación de los instrumentos de política forestal.
 
-I. Representar legalmente al Instituto. Para tal efecto podrá otorgar poderes generales y especiales para representar al Instituto ante cualquier autoridad administrativa, jurisdiccional, o bien ante particulares; para pleitos y cobranzas con todas las facultades generales y aún las especiales que conforme a la ley requieran cláusula especial o expresa; y para actos de administración. Para otorgar poderes y para realizar actos de dominio sobre inmuebles destinados al Instituto, la Comisionada Presidenta o el Comisionado Presidente requerirá de la autorización del Pleno;
+#### SECCIÓN 1. De la Planeación del Desarrollo Forestal Estatal
 
-II. Requerir informes a los Sujetos Obligados sobre el avance y cumplimiento de la Ley de Transparencia, la Ley de Datos Personales y demás normativa aplicable, así como realizar las acciones necesarias para el cumplimiento de los acuerdos y recomendaciones que emita el Pleno del Instituto;
+###### ARTÍCULO 19.
 
-III. Conducir la gestión institucional e informar al Pleno sobre la marcha de la administración de los recursos humanos, financieros y materiales del Instituto;
+La planeación del desarrollo forestal se realizará de conformidad con los siguientes programas:
 
-IV. Convocar y presidir las sesiones ordinarias y extraordinarias del Pleno, con el auxilio de la Secretaría Técnica del mismo, así como, coordinar y moderar el debate y las discusiones en las sesiones del Pleno;
+I.- Un programa estratégico relativo a los periodos constitucionales que correspondan a las administraciones estatal y municipal, conforme a lo previsto en la Ley de Planeación; y
 
-V. Someter a la aprobación del Pleno, a propuesta propia o de cualquier Comisionada o Comisionado Ciudadano, las normas, lineamientos y demás documentos necesarios para el cumplimiento de las atribuciones del Instituto;
+II.- Un programa estratégico de largo plazo, por 25 años o más, que se expresará en un Programa Estratégico Forestal Estatal, sin perjuicio de la planeación del desarrollo forestal que se lleve a cabo en los términos de la fracción anterior.
 
-VI. Someter a la aprobación del Pleno el calendario de días inhábiles del Instituto, así como el calendario de sesiones ordinarias del Pleno;
+Dichos programas indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la política nacional forestal y deberán ser congruentes con los programas nacionales y el Plan Estatal de Desarrollo.
 
-VII. Presentar oportunamente al Pleno, a través de la Secretaría Técnica de dicho Órgano Colegiado, su excusa conforme a lo establecido en el artículo 77 y 78 de la Ley de Transparencia;
+Los programas estratégicos serán revisados y, en su caso, actualizados cada dos años.
 
-VIII. Presentar al Pleno los informes que, por su conducto, rindan las unidades administrativas del Instituto;
+###### ARTÍCULO 20.
 
-IX. Turnar a las Comisionadas y los Comisionados Ciudadanos ponentes, a través de la Secretaría Técnica, los recursos de revisión y otros procedimientos en materia de acceso a la información y protección de datos personales previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
+En la planeación del desarrollo forestal estatal y municipal deberá tomarse en cuenta al Consejo Estatal Forestal.
 
-X. Suscribir los acuerdos, las resoluciones, las actas y demás actos emitidos por el Pleno;
+#### SECCIÓN 2. Del Sistema Estatal de Información Forestal
 
-XI. Definir y ejecutar estrategias para el cumplimiento de los acuerdos del Pleno;
+###### ARTÍCULO 21.
 
-XII. Proponer anualmente al Pleno para su aprobación, el proyecto del Programa Operativo Anual y el Anteproyecto de Presupuesto de Egresos del Instituto y remitirlo al Poder Ejecutivo de la Ciudad de México;
+El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sustentable.
 
-XIII. Supervisar la adecuada administración de los recursos humanos, financieros y materiales del Instituto e informar al Pleno;
+La Secretaría integrará el Sistema Estatal de Información Forestal conforme a las normas, criterios, procedimientos y metodología que se definan por la SEMARNAT y la propia Secretaría.
 
-XIV. Presentar al Pleno para su aprobación, el Manual de Operación del Comité de Transparencia, el reglamento de operación del Comité Técnico Interno de Administración de Documentos y demás normatividad y sistemas de información que propongan estos comités;
+###### ARTÍCULO 22.
 
-XV. Someter a la aprobación del Pleno, el Informe Anual de Actividades y Resultados (sic) Transparencia, acceso a la información pública, Estado abierto y protección de datos personales previo a su presentación ante el Poder Legislativo de la Ciudad de México;
+La autoridad municipal proporcionará a la Secretaría la información que recabe en el cumplimiento de sus atribuciones, para que sea integrada al Sistema Estatal de Información Forestal.
 
-XVI. Presentar al Pleno la o las propuestas de creación, modificación o supresión de sistemas de datos personales del Instituto, realizadas por la persona o personas responsables de los sistemas de datos personales;
+###### ARTÍCULO 23.
 
-XVII. Tomar las decisiones administrativas y de planeación operativa necesarias para cumplir con los objetivos y programas de trabajo aprobados por el Pleno;
+El Sistema Estatal de Información Forestal deberá incluir:
 
-XVIII. Validar la emisión y revisión de normatividad, así como de los convenios, acuerdos, bases de colaboración y mecanismos de coordinación que sean propuestos al Pleno;
+I.- Toda la información contenida en el Inventario Estatal Forestal y de Suelos;
 
-XIX. Realizar las acciones necesarias para dar cumplimiento a la rendición de cuentas y gobierno abierto del Instituto a la sociedad;
+II.- La información contenida en la ordenación forestal sobre:
 
-XX. Establecer vínculos institucionales con los tres niveles de Gobierno; con organizaciones políticas e instituciones del sector académico, social y privado a nivel nacional e internacional;
+a) Las evaluaciones de plantaciones forestales comerciales y la reforestación con propósitos de restauración y conservación;
 
-XXI. Suscribir los convenios acuerdos, bases de colaboración y mecanismos de coordinación que hayan sido aprobados por Pleno;
+b) El conocimiento y uso de los recursos forestales, incluyendo información sobre uso doméstico y conocimiento tradicional; y
 
-XXII. Proponer al Pleno para su aprobación los procedimientos administrativos y políticas de operación del Instituto;
+c) Los acuerdos y convenios en materia forestal;
 
-XXIII. Designar a las personas integrantes del Comité de Transparencia del Instituto, así como al funcionario que lo presidirá conforme al artículo 88 de la Ley de Transparencia;
+III.- Información tecnológica y socio-económica del sector forestal sobre:
 
-XXIV. Autorizar el nombramiento de las personas servidoras públicas del Instituto y suscribir sus bajas, con excepción del personal de apoyo a cargo de las Comisionadas y los Comisionados y del Titular del Órgano Interno de Control;
+a) Investigaciones y desarrollo tecnológico; y
 
-XXV. Proponer al Pleno la designación y remoción de la persona titular de la Secretaría Técnica del Instituto;
+b) Organizaciones e instituciones del sector público y de los sectores social y privado relacionados con este sector; y
 
-XXVI. Proponer al Pleno el nombramiento y remoción de la persona titular de la Secretaría Ejecutiva, así como de las personales (sic) titulares de las unidades administrativas;
+IV.- Toda la información que se considere estratégica para la planeación y evaluación del desarrollo forestal sustentable.
 
-XXVII. Delegar funciones a las personas de los titulares de las unidades administrativas y demás personas servidoras públicas, previo conocimiento de las Comisionadas y Comisionados Ciudadanos y que tengan por objeto fortalecer las actividades sustantivas del Instituto;
+#### SECCIÓN 3. Del Inventario Estatal Forestal y de Suelos
 
-XXVIII. Dirigir y supervisar, auxiliado por la Secretaría Técnica y la Secretaría Ejecutiva, en el ámbito de su competencia, el trabajo y funcionamiento de las unidades administrativas del Instituto;
+###### ARTÍCULO 24.
 
-XXIX. Designar a la persona responsable de la Unidad de Transparencia, así como coordinar sus actividades, a través de la unidad administrativa correspondiente, conforme a los artículos 92 y 93 de la Ley de Transparencia;
+El Inventario Estatal Forestal y de Suelos deberá comprender la siguiente información:
 
-XXX. Designar a las personas responsables de la unidad central de correspondencia, y de la coordinación de archivos;
+I.- La localización, definición perimetral y superficie de los terrenos forestales, preferentemente forestales y forestales temporales con que cuenta el Estado, así como toda la correspondiente información estadística para el efecto de que sea elaborada y mantenida en constante actualización una cartografía relacionada con los referidos terrenos, incluyendo sus distintos niveles de ordenación y manejo;
 
-XXXI. Autorizar el cambio de adscripción, así como las comisiones temporales a las personas servidoras públicas del Instituto, previo conocimiento de las Comisionadas y los Comisionados Ciudadanos, para desempeñar funciones en otra área del mismo, cuando se requiera por necesidades del servicio, siempre que sea acorde con los conocimientos y con el perfil de puesto requerido por la Institución;
+II.- La ubicación de los diversos tipos de vegetación forestal y de suelos que integran la geografía del Estado, incluyendo formaciones y clases con definición de tendencias y proyecciones que permitan clasificar y delimitar su estado de degradación y opciones de regeneración, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
 
-XXXII. Ejercer la representación institucional del órgano garante en los sistemas nacionales o locales, comités, consejos u otras instancias de los que dicho organismo forme parte, de conformidad con las leyes aplicables;
+III.- La dinámica de cambio de la vegetación forestal del Estado, de tal modo que puedan conocerse y evaluarse las tasas de deforestación y de degradación y disturbio, registrando sus causas principales;
 
-XXXIII. Proponer al Pleno para su autorización las comisiones de representación institucional de las personas servidoras públicas del Instituto;
+IV.- La cuantificación de los recursos forestales, incluyendo la valoración de los bienes y servicios ambientales que generen los ecosistemas forestales, así como los impactos que se ocasionen en los mismos;
 
-XXXIV. Cumplir, hacer cumplir, coordinar y ordenar la ejecución de los acuerdos y resoluciones adoptados por el Pleno;
+V.- Los criterios e indicadores de sustentabilidad y degradación de los ecosistemas forestales;
 
-XXXV. Dirigir y administrar los recursos humanos, financieros, materiales y archivísticos del Instituto con el apoyo de la Dirección de Administración y Finanzas;
+VI.- Los inventarios de la infraestructura forestal existente; y
 
-XXXVI. Informar semestralmente al Pleno, sobre la marcha de la administración general del Instituto con el apoyo de la Secretaría Ejecutiva;
+VII.- Los demás datos relevantes en materia forestal.
 
-XXXVII. Comparecer y presentar en términos de las disposiciones aplicables el Informe Anual de Actividades y Resultados del Instituto, previa aprobación del Pleno, al Poder Legislativo de la Ciudad de México a más tardar el último día hábil del mes de febrero de cada año;
+###### ARTÍCULO 25.
 
-XXXVIII. Coordinar la Agenda Institucional apoyado por la Secretaría Ejecutiva;
+Los datos comprendidos en el Inventario Estatal Forestal y de Suelos serán la base para:
 
-XXXIX. Delegar y supervisar la representación legal del Instituto;
+I.- La formulación, ejecución, control y seguimiento de programas y acciones en materia forestal Estatal y Municipal;
 
-XL. Suscribir contratos en materia de adquisiciones, arrendamiento, prestación de servicios y obra pública; y
+II.- El cálculo del volumen de madera o biomasa forestal en pie, su incremento y el volumen de corta o aprovechamiento potencial;
 
-XLI. Ejercer la representación institucional del órgano garante ante cualquier autoridad de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos; órganos e instituciones públicas y privadas del ámbito federal, estatal y municipal, personas físicas, morales o sindicatos, así como cualquier ente público o privado de carácter internacional;
+III.- La integración de la ordenación forestal y el ordenamiento ecológico del territorio; y
 
-XLII. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento y normativa aplicable.
+IV.- La evaluación y seguimiento de los programas previstos en el artículo 19 de esta ley.
 
-###### Artículo 14.
+###### ARTÍCULO 26.
 
-Son atribuciones de las Comisionadas y los Comisionados Ciudadanos, incluyendo a la Comisionada Presidenta o al Comisionado Presidente:
+En la formulación del Inventario Estatal Forestal y de Suelos se deberán considerar cuando menos los siguientes criterios:
 
-I. Velar por el cumplimiento y efectividad de los derechos de acceso a la información y protección de datos personales en los términos de la Ley de Transparencia, la Ley de Datos Personales y la demás normativa aplicable;
+I.- La delimitación del inventario por cuencas y subcuencas hidrológicas;
 
-II. Someter a consideración del Pleno la promoción de las acciones de inconstitucionalidad en términos del artículo 49 de la Constitución local y de la Ley de Transparencia;
+II.- La naturaleza, características y diversidad de los ecosistemas o tipos de vegetación forestales;
 
-III. Conocer y sustanciar los recursos de revisión y otros procedimientos en materia de acceso a la información y protección de datos personales previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
+III.- La vocación de los terrenos forestales y preferentemente forestales, y
 
-IV. Realizar las diligencias que sean necesarias para la sustanciación de los asuntos que conozcan, tener acceso a la información clasificada y practicar las notificaciones de trámite relacionadas con los asuntos que se sustancien en la Ponencia a su cargo;
+IV.- Los desequilibrios existentes en los ecosistemas por efecto de actividades humanas o fenómenos naturales.
 
-V. Dirigir los trabajos de la Ponencia a su cargo;
+#### SECCIÓN 4. De la Ordenación Forestal
 
-VI. Asistir a las sesiones del Pleno con voz y voto y solicitar que se asiente en actas el sentido del mismo;
+###### ARTÍCULO 27.
 
-VII. Conocer de los asuntos que les sean sometidos para su aprobación por el Pleno;
+La ordenación forestal es el instrumento mediante el cual se identifican, agrupan y ordenan los terrenos forestales y preferentemente forestales dentro de las cuencas, subcuencas y microcuencas hidrológico-forestales, por funciones y subfunciones biológicas, ambientales, socioeconómicas, recreativas, protectoras y restauradoras, con fines de manejo y con el objeto de propiciar una mejor administración y contribuir al desarrollo forestal sustentable.
 
-VIII. Emitir los votos a las resoluciones, acuerdos y asuntos que le sean sometidos;
+###### ARTÍCULO 28.
 
-IX. Suscribir los acuerdos, actas resoluciones y demás documentos que apruebe el Pleno;
+La Secretaría deberá llevar a cabo la ordenación referida en el artículo precedente con base en el Inventario Estatal Forestal y de Suelos.
 
-X. En caso de ausencia temporal, suplir al Comisionado Presidente en los términos que establece la Ley de Transparencia;
+###### ARTÍCULO 29.
 
-XI. Presentar oportunamente al Pleno, a través de la Secretaría Técnica, su excusa conforme a lo establecido en el artículo 77 y 78 de la Ley de Transparencia;
+El Estado promoverá la participación activa de los municipios en la ordenación forestal.
 
-XII. Solicitar al Pleno licencia cuando exista causa justificada;
+###### ARTÍCULO 30.
 
-XIII. Participar en los procesos de selección de las personas titulares de la Secretaría Técnica, la Secretaría Ejecutiva y de las Direcciones del Instituto;
+La Secretaría promoverá la intervención y coordinación de la CONAFOR con el Estado para delimitar las unidades de manejo forestal con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales.
 
-XIV. Designar y remover libremente a su personal de apoyo, de acuerdo a la estructura orgánica autorizada y a la disponibilidad presupuestal del Instituto;
+###### ARTÍCULO 31.
 
-XV. Solicitar información a la unidad que corresponda, a través de la Secretaría Ejecutiva, sobre el estado que guarda el trámite de cualquier asunto,
+En el ámbito de su competencia constitucional, el Ejecutivo expedirá un reglamento de esta ley para definir una metodología y desarrollar los procedimientos relativos a la integración del Inventario Estatal Forestal y de Suelos, así como el instrumento de ordenación forestal, con estipulación de las formalidades según las cuales serán oídos, para los efectos indicados, los propietarios y poseedores de los predios que puedan resultar afectados.
 
-XVI. Proponer previamente a la Comisionada Presidenta o al Comisionado Presidente asuntos para integrarlos en el orden del día, en los términos del Reglamento de Sesiones del Pleno del Instituto;
+## TÍTULO CUARTO. DEL MANEJO Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS FORESTALES
 
-XVII. Informar al Pleno sobre las actividades y proyectos que éste le encomiende;
+### CAPITULO I. Del Derecho Real de Usufructo Forestal
 
-XVIII. Proponer el desarrollo de estudios e investigaciones que apoyen el cumplimiento de la Ley de Transparencia, la Ley de Datos Personales, la Ley Anticorrupción local y demás normativa aplicable al Instituto;
+###### ARTÍCULO 32.
 
-XIX. Proponer vínculos con instituciones públicas, privadas y no gubernamentales para apoyar el logro de los objetivos del Instituto;
+Las formas y el manejo del aprovechamiento de los recursos forestales estarán a cargo y serán responsabilidad del propio titular del aprovechamiento, pero en el caso que éste decida contratar a un prestador de servicios técnicos forestales para la finalidad indicada, dicho prestador será responsable solidario con el titular.
 
-XX. Supervisar el cumplimiento del Programa Operativo Anual que implementen las unidades administrativas del Instituto;
+###### ARTÍCULO 33.
 
-XXI. Sugerir proyectos y recomendaciones para el mejor cumplimiento de la Ley de Transparencia, la Ley de Datos Personales, la Ley Anticorrupción local y demás normativa aplicable al Instituto;
+El derecho real de usufructo forestal faculta a su titular a sembrar, plantar y aprovechar recursos forestales sobre parte o la totalidad de un terreno ajeno, sin que en ningún caso pueda confundirse o equipararse el expresado derecho con el de propiedad, ya que el terreno seguirá perteneciendo a su dueño y lo sembrado o plantado será del usufructuario.
 
-XXII. Suscribir reconocimientos, diplomas, constancias y certificados derivados de las actividades de promoción y capacitación;
+###### ARTÍCULO 34.
 
-XXIII. Asistir y participar en las sesiones del Pleno con voz y voto;
+El derecho real de usufructo forestal se obtiene mediante un acuerdo de voluntades y debe constar en escritura pública, teniendo el notario ante quien se celebre el acto la obligación de dar aviso del mismo al Registro Forestal Nacional.
 
-XXIV. Representar al Instituto en los asuntos que el Pleno determine y desempeñar las tareas que éste les encomiende;
+###### ARTÍCULO 35.
 
-XXV. Coadyuvar con la Comisionada Presidenta o el Comisionado Presidente en la integración del Proyecto de Presupuesto de Egresos, del Programa Operativo Anual, así como de los diversos programas e informes del Instituto;
+El derecho de usufructo forestal puede ser obtenido a título oneroso o gratuito y debe originarse en un contrato o disposición testamentaria. Es enajenable y transmisible por herencia. Puede constituirse a plazo fijo o a plazo indeterminado.
 
-XXVI. Solicitar el apoyo de las unidades administrativas del Instituto para el cumplimiento de sus funciones;
+###### ARTÍCULO 36.
 
-XXVII. Participar en las reuniones de los integrantes del Sistema Nacional de Transparencia, y como integrantes de las comisiones del mismo, y en su caso en los otros sistemas o instancias en los que el Instituto participe;
+El derecho de usufructo forestal no se extingue por la destrucción de lo plantado o sembrado, salvo lo previsto en el artículo siguiente o pacto en contrario.
 
-XXVIII. Representar al Instituto ante el Sistema Nacional de Transparencia, y en su caso, en otros sistemas o instancias en los que el Instituto participe cuando así se determine;
+###### ARTÍCULO 37.
 
-XXIX. Promover, supervisar y participar en los programas de cultura de transparencia, acceso a la información pública, protección de datos personales, y Estado abierto, anticorrupción y archivos;
+El derecho de usufructo forestal se extingue por no plantar o sembrar el terreno de que se trate dentro de un plazo de dos años a partir de la concertación del contrato respectivo, o dentro del mismo plazo después de que se hubiese destruido o consumido lo sembrado o plantado.
 
-XXX. Expedir copias certificadas o autorizadas de los documentos que obren en los archivos del Instituto, conforme a las disposiciones aplicables.
+###### ARTÍCULO 38.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+El usufructuario forestal gozará del derecho del tanto si el propietario pretende enajenar el terreno. Igual derecho tendrá el propietario del terreno si el usufructuario forestal pretende enajenar su plantación.
 
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+### CAPITULO II. De los Cambios de Uso de Suelo en Terrenos Forestales y Preferentemente Forestales
 
-XXXI. Dar seguimiento al cumplimiento de las resoluciones derivadas de la interposición de los medios de defensa y procedimientos previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
+###### ARTÍCULO 39.
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+Sólo podrán autorizarse cambios de uso de suelo en terrenos forestales y preferentemente forestales, por el Gobierno del Estado en las zonas rurales y por los gobiernos municipales en las zonas urbanas en los términos de los artículos 10, fracción XXIII y 11, fracción XX de esta ley, cuando el Consejo Estatal Forestal otorgue anuencia expresa por escrito para dicho particular luego de constatar que se ha demostrado fehacientemente:
 
-XXXII. Elaborar los acuerdos de trámite, as (sic) como de cumplimiento o incumplimiento, relacionados con el seguimiento al cumplimiento de las resoluciones de los medios de impugnación y procedimientos que se sometan al Pleno;
+I.- Que es inconveniente para el interés público que el terreno forestal o preferentemente forestal conserve dicha categoría;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+II.- Que el nuevo uso de suelo que se pretenda convenga al interés público y sea más productivo a largo plazo; y
 
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+III.- Que en los veinte años inmediatos anteriores el terreno en cuestión no haya sido afectado por un incendio, a menos que se acredite que el ecosistema se ha regenerado totalmente.
 
-XXXIII. Registrar y dar seguimiento a la vista a los órganos de control de los Sujetos Obligados, por el incumplimiento a las resoluciones derivadas de los medios de defensa que interpongan los particulares y de los procedimientos en materia de acceso a la información y de protección de datos personales en los términos de las disposiciones normativas aplicables en el ámbito de su competencia;
+### CAPITULO III. De las Auditorias Técnicas Preventivas y de las Certificaciones Forestales
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+###### ARTÍCULO 40.
 
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+La Secretaría y las autoridades municipales podrán realizar auditorias técnicas preventivas que tendrán por objeto la promoción e inducción al cumplimiento de las disposiciones legales en materia forestal y de los programas de manejo respectivos.
 
-XXXIV. Evaluar el cumplimiento de las resoluciones de los medios de impugnación y, en su caso, iniciar el procedimiento sancionatorio correspondiente por persistir el incumplimiento de las resoluciones emitidas por el Pleno, informando al órgano colegiado de ello;
+###### ARTÍCULO 41.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+Los resultados de las auditorias técnicas preventivas que realicen los municipios serán entregados a la Secretaría dentro de un plazo de quince días a partir de la conclusión de los trabajos respectivos.
 
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+###### ARTÍCULO 42.
 
-XXXV. Verificar el cumplimiento del acuerdo de conciliación señalado en el artículo 250 de la Ley de Transparencia;
+Conforme a los resultados de las auditorias, la Secretaría podrá emitir certificados que hagan constar el correcto cumplimiento del programa de manejo respectivo.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+Asimismo, cuando proceda y se acrediten los hechos correspondientes, la Secretaría podrá expedir igualmente certificados de bienes y servicios ambientales.
 
-(REUBICADA, G.O. 16 DE OCTUBRE DE 2020)
+Se entiende por bienes y servicios ambientales los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de sus recursos.
 
-XXXVI. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento, y normativa aplicable.
+###### ARTÍCULO 43.
 
-Para el despacho de los asuntos de su competencia, cada Comisionada o Comisionado Ciudadano, incluyendo a la Comisionada Presidenta o el Comisionado Presidente, contará con una estructura de apoyo denominada Ponencia.
+Los particulares podrán proporcionar servicios técnicos forestales certificados, para los efectos de esta ley, previa acreditación de los exámenes que al efecto se apliquen por la Secretaría y la autorización que ésta expida para el señalado particular, en los términos del reglamento que el efecto se expida.
 
-###### Artículo 15.
+## TÍTULO QUINTO. DE LAS MEDIDAS DE CONSERVACIÓN FORESTAL
 
-Son atribuciones de la Secretaría Técnica:
+### CAPITULO I. De la Sanidad Forestal
 
-I. Auxiliar a la Comisionada Presidenta o Comisionado Presidente, y en su ausencia a la Comisionada o Comisionado ciudadano que lo supla, en la celebración de las sesiones del Pleno, y asistir los trabajos para el correcto desarrollo de las funciones de dicho órgano colegiado del Instituto, en apego a las atribuciones de este reglamento y demás normatividad aplicable;
+###### ARTÍCULO 44.
 
-II. Supervisar y coordinar el adecuado cumplimiento de las tareas de recepción, tramitación, firma y notificación de los acuerdos, resoluciones y demás documentos que apruebe el Pleno, conforme al procedimiento que para tal efecto se apruebe;
+La Secretaría deberá establecer un sistema permanente de inspección y evaluación de la condición sanitaria de los terrenos forestales y difundirá sus resultados con la mayor amplitud y oportunidad. Asimismo, deberá promover y apoyar los programas de investigación necesarios para resolver los problemas fitosanitarios forestales.
 
-III. Proponer a la Comisionada Presidenta o Comisionado Presidente el calendario de sesiones ordinarias del Pleno;
+Las dependencias y entidades del Gobierno del Estado y, en su caso, las de los gobiernos municipales, en los términos de los convenios que al efecto se celebren, practicarán las inspecciones y evaluaciones referidas en el párrafo anterior en forma coordinada con la finalidad de detectar, diagnosticar, prevenir, controlar y combatir plagas y enfermedades forestales.
 
-IV. Integrar y proponer a la Comisionada Presidenta o Comisionado Presidente el proyecto del orden del día de cada una de las sesiones ordinarias y extraordinarias del Pleno;
+Cuando por motivos de sanidad forestal sea necesario realizar un aprovechamiento o eliminación de vegetación forestal, deberá implementarse y ejecutarse coincidentemente un programa que genere la reforestación, restauración y conservación de los suelos.
 
-V. Notificar a las Comisionadas y a los Comisionados Ciudadanos la fecha y hora de las sesiones ordinarias y extraordinarias del Pleno, previa autorización de la Comisionada Presidenta o Comisionado Presidente, debiendo acompañar a la convocatoria, el proyecto del orden del día de los asuntos a tratar y toda la documentación necesaria para la discusión correspondiente;
+Los propietarios, poseedores o usufructuarios de terrenos forestales deforestados o degradados estarán obligados a restaurarlos mediante su regeneración natural o artificial en un plazo no mayor a dos años. La Secretaría cuidará y vigilará de manera especial el cumplimiento de esta obligación y, en su caso, de considerarlo indispensable, asumirá directamente los trabajos respectivos, quedando a cargo del propietario, poseedor o usufructuario, según resulte, el resarcimiento inmediato de la inversión respectiva que, en caso de mora, omisión o reticencia, se recuperará, con los recargos y multas que procedan según la ley fiscal, mediante el procedimiento económico coactivo que al efecto incoará la autoridad hacendaria local a solicitud de la Secretaría.
 
-VI. Remitir las propuestas de acuerdo o resolución con los documentos y materiales asociados que las Comisionadas o los Comisionados Ciudadanos requieran para la toma de decisiones, así como toda la información relevante para el mejor despacho de los asuntos;
+###### ARTÍCULO 45.
 
-VII. Elaborar e integrar los proyectos de acuerdos que se sometan a consideración del Pleno, con los insumos que le sean proporcionados por las unidades administrativas competentes;
+Los poseedores de terrenos forestales o preferentemente forestales, o quienes realicen actividades de carácter forestal, en forma inmediata a la detección de plagas o enfermedades estarán obligados a dar aviso de ello a la Secretaría y a ejecutar los trabajos de sanidad forestal que correspondan, conforme a los programas de manejo y los lineamientos que sean determinados por la propia Secretaría.
 
-VIII. Participar con derecho a voz en las sesiones del Pleno, auxiliando al Comisionado Presidente en la conducción de las mismas; así como declarar la existencia del quórum y certificar sobre lo actuado en las sesiones;
+###### ARTÍCULO 46.
 
-IX. Suscribir los acuerdos y resoluciones que emita el Pleno;
+Cuando un tercero detecte una plaga o enfermedad forestal, procederá a proporcionar la información correspondiente de inmediato a la Secretaría y, si lo conoce, al propietario o poseedor del terreno respectivo.
 
-X. Elaborar las actas del Pleno, así como llevar a cabo el registro y control de la documentación del mismo y de las versiones estenográficas de sus sesiones;
+Cuando sea la autoridad quien conozca o detecte la presencia de una plaga o enfermedad forestal en terrenos forestales o preferentemente forestales, dará aviso inmediato a la Secretaría si no fue ésta la que obtuvo directamente dicho conocimiento, así como al propietario o poseedor de los terrenos, para el efecto de que cualquiera de estos últimos, en el plazo que determine la Secretaría, ejecute los trabajos necesarios para combatir y erradicar la plaga o enfermedad de que se trate. El particular afectado podrá solicitar el auxilio y la colaboración de la autoridad cuando acredite que no cuenta con los recursos necesarios para hacerle frente al evento.
 
-XI. Incorporar las observaciones, sugerencias y modificaciones aprobadas a los documentos sometidos a consideración del Pleno, con el apoyo de las áreas correspondientes;
+Si el particular afectado no enfrenta con oportunidad y eficiencia el problema sanitario de que se trate, la Secretaría procederá directamente al saneamiento y conservación del terreno respectivo a costa del propietario o poseedor, de quien se recuperará la inversión correspondiente en los términos del último párrafo del artículo 44.
 
-XII. Notificar los acuerdos, las resoluciones y las recomendaciones emitidos por el Pleno, así como las demás notificaciones que requieran las unidades administrativas;
+###### ARTÍCULO 47.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+La Secretaría podrá emitir una declaratoria de emergencia sanitaria en terrenos forestales o preferentemente forestales cuando indistintamente:
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+I.- Los terrenos se encuentren invadidos de una plaga o enfermedad forestal en, por lo menos, un veinte por ciento del total de las especies forestales de que se trate;
 
-XIII. Coordinar y supervisar la elaboración de bases de datos que reflejen el estado que guardan las resoluciones, las actas y los acuerdos del Pleno, en sus procesos de firma, así como del seguimiento al cumplimiento de las resoluciones de los medios de impugnación y emitir reportes y estadísticas al respecto para la rendición de cuentas institucionales en el ámbito de su competencia;
+II.- A pesar de las medidas ejecutadas por los propietarios o poseedores de los terrenos, una plaga o enfermedad forestal se extienda de modo constante aunque no llegue a cubrir el veinte por ciento del total de las especies forestales de que se trate;
 
-XIV. Auxiliar a la Comisionada Presidenta o al Comisionado Presidente en el turno a las Comisionadas y los Comisionados ponentes de los recursos de revisión y otros procedimientos en materia de acceso a la información y protección de datos personales previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
+III.- A pesar de las acciones ejecutadas en los terrenos afectados por una plaga o enfermedad, ésta subsista después de 60 días de la fecha de su detección.
 
-XV. Dar seguimiento a los recursos de revisión y otros procedimientos en materia de acceso a la información y protección de datos personales previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable que se turnen a las Comisionadas y los Comisionados Ponentes;
+La declaratoria de emergencia sanitaria en terrenos forestales o preferentemente forestales producirá el efecto de que la Secretaría asuma, inmediata y directamente, con utilización de la fuerza pública si fuere necesario, todos los trabajos de control, combate y erradicación de la plaga o enfermedad forestal de que se trate, recuperándose la inversión correspondiente en los términos del último párrafo del artículo 44, sin perjuicio de la diversa prevención del segundo párrafo del artículo 46.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+### CAPITULO II. De la Prevención, Combate y Control de Incendios Forestales
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+###### ARTÍCULO 48.
 
-XVI. Dar seguimiento e informar trimestralmente sobre el cumplimiento de los acuerdos emitidos por el Pleno, así como el cumplimiento de las resoluciones derivadas de la interposición de los medios de defensa y procedimientos previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
+El Servicio Estatal Forestal promoverá la celebración de convenios y acuerdos de colaboración con los ayuntamientos y organizaciones o asociaciones de particulares, en las regiones donde se requiera, para el efecto de constituir agrupaciones de defensa forestal que tendrán como finalidades específicas las de diseñar, operar y difundir programas y acciones de prevención y combate de incendios forestales.
 
-XVII. Elaborar y aplicar indicadores en materia de acceso a la información pública, protección de datos personales, rendición de cuentas y Estado abierto en el ámbito de su competencia, de conformidad con las disposiciones aplicables;
+###### ARTÍCULO 49.
 
-XVIII. Gestionar la publicación en la Gaceta Oficial de la Ciudad de México de los documentos que el Pleno determine;
+La Secretaría, en el marco de la coordinación institucional prevista en la Ley General de Desarrollo Forestal Sustentable y concordantemente con las Normas Oficiales Mexicanas, dictará los lineamientos que deberán observarse en la prevención, combate y control de incendios forestales, así como para, en su caso, evaluar daños, restaurar zonas afectadas y establecer procesos de seguimiento de las correspondientes labores de restauración y los métodos y formas de uso del fuego en los terrenos forestales, preferentemente forestales y colindantes.
 
-XIX. Auxiliar a la Comisionada Presidenta o al Comisionado Presidente en la supervisión de los trabajos de las unidades administrativas del Instituto, en su respectivo ámbito de competencia;
+La autoridad municipal será la primera instancia para el combate y control de los incendios forestales y, en el caso de que los trabajos respectivos superen su capacidad financiera y operativa de respuesta, solicitará el auxilio de la Secretaría que, a su vez, tratándose de incendios mayores o inusualmente violentos o en cualquier otro caso en que lo considere necesario, procederá a informar lo conducente a la CONAFOR.
 
-XX. Participar en el Comité de Transparencia del Instituto en términos del manual de operación e integración de dicho Comité, en el ámbito de su competencia;
+El Gobierno del Estado y los de los municipios procurarán la participación de los organismos de los sectores social y privado, para el combate y control de los incendios forestales y, por separado o conjuntamente, realizarán campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
 
-XXI. Participar en el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto en términos del manual de operación e integración de dicho Comité, en el ámbito de su competencia;
+###### ARTÍCULO 50.
 
-XXII. Participar en el Comité Técnico Interno de Administración de Documentos del Instituto, en términos del reglamento de operación de dicho Comité, en el ámbito de su competencia;
+Los propietarios y poseedores de los terrenos forestales y preferentemente forestales y sus colindantes, así como quienes realicen el aprovechamiento de recursos forestales, forestación o plantaciones forestales comerciales y de reforestación, al igual que los prestadores de servicios técnicos forestales responsables de los mismos y los encargados de la administración de las áreas naturales protegidas, estarán obligados a cumplir los lineamientos a que se refiere el primer párrafo del artículo 49 de esta ley.
 
-XXIII. Organizar y conservar sus respectivos documentos en el archivo de trámite, así como enviar los correspondientes al archivo, de conformidad con la normatividad que para tal efecto se emita;
+###### ARTÍCULO 51.
 
-XXIV. Coordinar y supervisar las acciones necesarias para organizar, conservar y disponer de los archivos que genere, administre, posea y resguarde el Instituto, en su etapa de trámite y concentración;
+Los responsables de un incendio forestal están obligados a llevar a cabo la restauración de la superficie afectada dentro de un plazo máximo de dos años, debiendo ser restaurada la cubierta vegetal afectada mediante la reforestación inducida cuando la regeneración natural no sea posible, poniéndose especial atención en la prevención, control y combate de plagas y enfermedades. En caso de mora, omisión o reticencia de los responsables, la Secretaría obrará en los términos del último párrafo del artículo 44.
 
-XXV. Proponer y presentar al Comité de Transparencia del Instituto, los procedimientos archivísticos que faciliten el acceso a la información;
+###### ARTÍCULO 52.
 
-XXVI. Generar y actualizar el registro de los titulares de los archivos de trámite, así como coordinar y supervisar los procedimientos de valoración y destino final de la documentación del Instituto,
+El Servicio Estatal Forestal regulará y establecerá los lineamientos necesarios para ejecución de quemas o incendios forestales preventivos.
 
-XXVII. Custodiar el archivo del Instituto;
+###### ARTÍCULO 53.
 
-XXVIII. Proponer la actualización normativa del sistema institucional de archivos y coordinar la actualización permanente de los archivos y la gestión documental, conforme a la normatividad aplicable;
+Para realizar cualquier tipo de quema en terrenos forestales y preferentemente forestales, los interesados deberán solicitar a la autoridad municipal el permiso correspondiente. Si la autoridad no da respuesta a la solicitud dentro de un plazo de 3 días hábiles, se entenderá que se ha emitido respuesta en sentido positivo. A su vez, la autoridad municipal deberá informar a la Secretaría sobre las quemas autorizadas.
 
-XXIX. Presidir el Comité Técnico Interno de Administración de Documentos del Instituto en los términos establecidos en la normatividad en la materia;
+De igual forma, el interesado deberá dar aviso de la quema que pretenda realizar a los dueños de los predios colindantes, cuando menos con siete días de anticipación.
 
-XXX. Fungir como responsable del o los Sistemas de Datos Personales en posesión de su unidad administrativa, en los términos de la Ley de Datos Personales, y demás normatividad aplicable;
+###### ARTÍCULO 54.
 
-XXXI. Proponer al Pleno, a través de la Comisionada Presidenta o el Comisionado Presidente, la creación, modificación o supresión de sistemas de datos personales;
+En toda quema que se realice con fines preventivos en terrenos forestales o preferentemente forestales se estará a lo siguiente:
 
-XXXII. Designar a los encargados dentro del Instituto del tratamiento de los sistemas de datos personales en posesión de su unidad administrativa;
+I.- Deberá evitarse iniciar la quema si las condiciones climáticas no son propicias;
 
-XXXIII. Informar sobre los recursos de revisión, las denuncias y demás procedimientos en materia de acceso a la información y protección de datos personales previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable, en el ámbito de su competencia, que ingresan semanalmente ante la Oficialía de Partes de este Instituto;
+II.- Deberá evitarse efectuar la quema de manera simultánea en predios colindantes;
 
-XXXIV. Respecto de la información que posee, determinar aquella que pueda ser considerada como de transparencia proactiva, como parte de la cultura de rendición de cuentas y apertura estatal, promoviendo la reutilización de la información que generan los sujetos obligados, considerando la demanda e interés de la sociedad en la Ciudad de México;
+III.- El área sujeta a tratamiento de quema deberá delimitarse con línea corta-fuegos o guardarrayas;
 
-XXXV. Cumplir y hacer cumplir en el ámbito de su competencia la Ley de Trasparencia (sic), la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables;
+IV.- La quema deberá iniciarse desde la parte alta del terreno hacia abajo cuando éste tenga pendiente mayor a quince grados y, en los demás terrenos, en sentido contrario al de la dirección dominante del viento; y,
 
-XXXVI. Expedir copias certificadas o autorizadas de los documentos que obren en los archivos del Instituto, conforme a las disposiciones aplicables.
+V.- Las quemas deberán efectuarse según el calendario que expida la Secretaría, quien lo hará del conocimiento público por los medios que considere convenientes.
 
-XXXVII. Coordinar y supervisar la redacción, guarda y conservación de las actas de las sesiones del Pleno, así como dar constancia de las mismas y emitir certificación de las decisiones del Pleno;
+###### ARTÍCULO 55.
 
-XXXVIII. Coordinar y supervisar los trabajos necesarios para el cumplimiento de las obligaciones del Instituto como Sujeto Obligado de la normatividad en materia de archivos;
+Quedan prohibidas las quemas en terrenos que estén ubicados a cinco kilómetros o menos de poblaciones urbanas o suburbanas, contándose la distancia desde la última construcción del caserío correspondiente.
 
-XXXIX. Notificar las vistas ordenadas por el Pleno a los órganos internos de control y demás autoridades competentes en los sujetos obligados, así como las relativas al incumplimiento de las resoluciones emitidas por el Pleno;
+### CAPITULO III. De la Reforestación y Forestación
 
-XL. Habilitar días inhábiles en los procedimientos de medidas de apremio y sanciones, cuando así se requiera, de conformidad (sic) lo aprobado por el Pleno;
+###### ARTÍCULO 56.
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+La reforestación que se realice con propósitos de conservación y restauración, las actividades de forestación y las prácticas de agrosilvicultura en terrenos degradados de vocación forestal, no requerirán de autorización y solamente estarán sujetas a las normas oficiales mexicanas.
 
-XLI. Dar seguimiento al trabajo que realice el Pleno a través de las ponencias y unidades administrativas para la elaboración de los criterios y lineamientos de interpretación y aplicación de las leyes y demás disposiciones en las materias de competencia del Instituto, respecto de las resoluciones que emite; y
+Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos a su aprovechamiento deberán incluirse en el programa de manejo forestal correspondiente. El prestador de servicios técnicos forestales que, en su caso, funja como encargado del aprovechamiento será responsable solidario, junto con el titular, de la ejecución del programa.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
+La reforestación o forestación de las áreas taladas será una acción prioritaria en los programas de manejo.
 
-(REUBICADA, G.O. 19 DE NOVIEMBRE DE 2020)
+Para los efectos del presente capítulo se consideran zonas de acciones prioritarias las que hayan sufrido incendios y especialmente, las que hayan sufrido incendios reiterados.
 
-XLII. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
+###### ARTÍCULO 57.
 
-#### SECCIÓN V. DE LA SECRETARÍA EJECUTIVA
+La Secretaría y los municipios separada o conjuntamente, promoverán programas tendientes a la forestación y reforestación.
 
-### CAPÍTULO SEXTO. DE LAS REFORMAS AL REGLAMENTO INTERIOR
+Para tal efecto la Secretaría y los municipios podrán celebrar convenios con instituciones públicas y privadas.
 
-###### Artículo 16.
+###### ARTÍCULO 58.
 
-Son atribuciones de la Secretaría Ejecutiva:
+Será obligatorio incluir programas de reforestación y forestación en los planes estatales y municipales de desarrollo.
 
-I. Apoyar al Pleno y a las Comisionadas y los Comisionados Ciudadanos en el ejercicio de sus atribuciones;
+###### ARTÍCULO 59.
 
-II. Administrar la Agenda Institucional bajo la instrucción de la Comisionada Presidenta o del Comisionado Presidente;
+Cuando por causa de utilidad pública sea necesario reforestar un predio de propiedad particular, la Secretaría emitirá la declaratoria que corresponda coordinándose con el propietario o poseedor para instrumentar lo necesario para tal efecto.
 
-III. Coordinar y supervisar los trabajos para la elaboración del Programa Operativo Anual, así como del Anteproyecto de Presupuesto;
+###### ARTÍCULO 60.
 
-IV. Dar seguimiento a los avances del Programa Operativo Anual, manteniendo informados a las Comisionadas y los Comisionados Ciudadanos, así como presentar al Pleno, por conducto de la Comisionada Presidenta o Comisionado Presidente, los informes trimestrales de las unidades administrativas de sus respectivos programas de trabajo;
+El Estado y los municipios promoverán incentivos económicos y fiscales para impulsar la forestación y reforestación.
 
-V. Proponer a las Comisionadas y a los Comisionados Ciudadanos estrategias para un mejor desempeño de las unidades administrativas del Instituto, así como efectuar el seguimiento a los documentos, estudios, proyectos y asuntos encomendados;
+## TITULO SEXTO. DEL FOMENTO AL DESARROLLO FORESTAL
 
-VI. Elaborar y dar seguimiento a los indicadores en materia de acceso a la información pública, protección de datos personales, rendición de cuentas, Estado abierto en el ámbito de su competencia, de conformidad con la normativa aplicable;
+### CAPITULO I. Del Fomento al Desarrollo Forestal
 
-VII. Coordinar la elaboración del Informe Anual de Actividades y Resultados del Instituto;
+###### ARTÍCULO 61.
 
-VIII. Coordinar, integrar y consolidar los Informes Trimestrales del Instituto;
+El Estado y los municipios promoverán estímulos e incentivos económico-fiscales para quienes realicen actividades de aprovechamiento y posterior restauración de recursos forestales.
 
-IX. Auxiliar a la Comisionada Presidenta o al Comisionado Presidente en la supervisión de los trabajos de las unidades administrativas del Instituto, en su respectivo ámbito de competencia, y dar seguimiento a los acuerdos que los titulares de estas áreas o de las Secretarías tengan con ella o con él;
+###### ARTÍCULO 62.
 
-X. Coordinar y conducir las relaciones institucionales y las actividades, encomendadas a esta Secretaría por el Pleno o por las Comisionadas y los Comisionados Ciudadanos, que el Instituto realice de forma conjunta con otros sujetos obligados, instituciones públicas, organizaciones de la sociedad civil y del sector privado de cualquier ámbito de gobierno, o bien derivadas de la participación del Instituto en los sistemas o instancias nacionales o locales de los que forme parte;
+La Secretaría promoverá e impulsará la creación y fortalecimiento de la empresa social forestal en los ejidos o comunidades con áreas forestales permanentes y bajo programa de manejo forestal mediante acciones de capacitación, asesoría técnica permanente, vinculación con las instancias de investigación y facilitación del acceso a mercados de recursos forestales.
 
-XI. Coordinar y supervisar la actualización de las obligaciones de transparencia por parte de las unidades administrativas, en términos de la Ley de Transparencia, así como los contenidos de la página principal del portal de Internet del Instituto;
+La Secretaría diseñará y hará público un programa anual para el cumplimiento de las atribuciones referidas en el párrafo anterior.
 
-XII. Participar en el Comité de Transparencia del Instituto en términos del manual de operación e integración de dicho Comité, en el ámbito de su competencia;
+###### ARTÍCULO 63.
 
-XIII. Participar en el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto en términos del manual de operación e integración, en el ámbito de su competencia;
+El Ejecutivo Estatal podrá crear un fondo forestal cuando resulte necesario como condición o conducto para atraer recursos públicos o privados destinados a promover la conservación, incremento, aprovechamiento sustentable y restauración de los recursos forestales y sus productos asociados o cuando pueda ser un instrumento facilitador para el acceso a servicios financieros o para impulsar proyectos que contribuyan a la integración y competitividad de cadenas productivas en materia forestal.
 
-XIV. Participar en el Comité Técnico Interno de Administración de Documentos del Instituto, en términos del reglamento de operación de dicho Comité, en el ámbito de su competencia;
+###### ARTÍCULO 64.
 
-XV. Generar mecanismos para la transparencia proactiva, a través de formatos abiertos y accesibles en el ámbito de su competencia; considerando la demanda e interés de la sociedad a través de la publicación y difusión de información adicional a la establecida en la Ley de Transparencia;
+Los recursos recaudados con motivo de la imposición de las multas a que se refiere esta ley serán depositados en un Fondo de Fomento a la Sanidad Forestal que constituirá y operará la Secretaría para el efecto de destinarlos a acciones y programas tendientes a mantener y, en su caso, incrementar la referida sanidad forestal.
 
-XVI. Coordinar la interacción de las unidades administrativas entre sí, con el Pleno, con las Comisionadas y Comisionadas Ciudadanos, así como del Instituto con los sistemas nacionales y locales de los que el Instituto participe, con órganos garantes de transparencia de las entidades federativas, con instituciones públicas de cualquier ámbito de gobierno, con organismos nacionales e internacionales del sector público, privado o social, así como de las instancias de las que forme parte;
+### CAPITULO II. De la Cultura, Educación y Capacitación Forestales
 
-XVII. Fungir como responsable del o los sistemas de Datos Personales en posesión de su unidad administrativa, en los términos de la Ley de Datos Personales, y demás normatividad que sea aplicable.
+###### ARTÍCULO 65.
 
-XVIII. Proponer al Pleno, a través de la Comisionada Presidenta o del Comisionado Presidente, la creación, modificación o supresión de Sistemas de Datos Personales;
+La Secretaría, en coordinación con las dependencias competentes de la administración pública federal y las correspondientes de los municipios, así como con organizaciones e instituciones públicas, privadas o sociales, realizará en materia de cultura forestal las siguientes acciones:
 
-XIX. Designar a los encargados dentro del Instituto del tratamiento de los Sistemas de Datos Personales en posesión de su unidad administrativa;
+I.- Promover y realizar campañas permanentes de difusión y eventos especiales orientados al logro de la participación organizada de la sociedad en programas inherentes al desarrollo forestal sustentable;
 
-XX. Coordinar las acciones conducentes a efecto de dar seguimiento y cumplimiento a las líneas de acción del Programa de Derechos Humanos de la Ciudad de México, la igualdad sustantiva y la no discriminación sobre los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto y rendición de cuentas, de conformidad con la información que para tal efecto emitan las unidades administrativas;
+II.- Realizar eventos orientados a elevar el nivel de cultura, educación y capacitación forestales;
 
-XXI. Coordinar la operación y desempeño del Centro de Atención Telefónica;
+III.- Propiciar la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales en materia forestal sustentable propias de los pueblos y comunidades indígenas que habitan en las regiones forestales del Estado;
 
-XXII. Diseñar y proponer acciones orientadas a procurar la accesibilidad de los grupos vulnerables en el ejercicio de los derechos de acceso a la información pública y de protección de datos personales;
+IV.- Contribuir al diseño, formulación, elaboración y publicación de materiales de comunicación educativa y guías técnicas que reorienten la relación entre la sociedad y los recursos forestales;
 
-XXIII. Diseñar, proponer y coordinar programas comunes, para la promoción, investigación, diagnóstico y difusión de los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto y rendición de cuentas;
+V.- Fomentar la creación de formadores y promotores forestales voluntarios;
 
-XXIV. Coordinar de manera transversal las acciones de las unidades administrativas del Instituto, bajo la supervisión de las Comisionadas o los Comisionados Ciudadanos, dando seguimiento al cumplimiento de los programas, acciones estratégicas o actividades por parte de cada una de ellas, de manera enunciativa, en las disposiciones:
+VI.- Promover los criterios de política forestal previstos en la presente ley; y
 
-a) Del ejercicio de los derechos de acceso a la información pública y de protección de datos personales;
+VII.- Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
-b) De transparencia proactiva;
+###### ARTÍCULO 66.
 
-c) De rendición de cuentas;
+En materia de educación y capacitación, la Secretaría, en coordinación especial con la Secretaría de Educación y Cultura y en general con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como con los sectores social y privado, realizará las siguientes acciones:
 
-d) De Estado abierto;
+I.- Promover la formación y capacitación de técnicos y profesionistas forestales;
 
-e) De archivos;
+II.- Apoyar la actualización constante de los planes de estudios de las carreras relacionadas con la materia forestal que se impartan por escuelas públicas o privadas;
 
-f) De derechos humanos;
+III.- Organizar programas de formación continua y actualización de los servidores públicos en temas relacionados con el ramo forestal estatal y municipal;
 
-g) De acciones de prevención y combate a la corrupción;
+IV.- Impulsar programas de educación y capacitación forestal destinados a propietarios y productores forestales, así como a los pobladores de regiones forestales, en materia de conservación, protección, restauración y aprovechamiento sustentable de los recursos forestales, así como en materia de contingencias, emergencias e incendios forestales;
 
-h) De perspectiva de género, y
+V.- Formular programas de becas para la formación y capacitación en materia forestal; y
 
-i) De igualdad y no discriminación.
+VI.- Las demás que resulten pertinentes para promover una cultura de desarrollo forestal sustentable en el Estado.
 
-XXV. Participar en la elaboración del Programa de la Cultura de Transparencia y Rendición de Cuentas, en coordinación con los Sujetos Obligados, así como proponer e instrumentar, los mecanismos para la difusión, eficacia y vigencia del mismo;
+### CAPITULO III. De la Investigación, Colecta y Uso de los Recursos Forestales
 
-XXVI. Coadyuvar con las acciones que le sean encomendadas derivadas de la integración, organización y función del Sistema Local de Transparencia, del Sistema Local Anticorrupción y demás sistemas nacionales o locales, así como, instancias en las que participe el Instituto;
+###### ARTÍCULO 67.
 
-XXVII. Coordinar las actividades encomendadas, que el Instituto lleve a cabo de forma conjunta con el Consejo Consultivo Ciudadano;
+La Secretaría realizará, fomentará y promoverá la investigación sobre los recursos forestales, directamente o mediante convenios de colaboración con instituciones públicas y privadas.
 
-XXVIII. Atender a la ciudadanía en el ejercicio de los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto, rendición de cuentas y archivos, en las instalaciones del Instituto, a través de la Oficina de Atención Ciudadana, en términos del artículo 59 de la Ley de Transparencia;
+###### ARTÍCULO 68.
 
-XXIX. Organizar y conservar sus respectivos documentos en el archivo de trámite, así como enviar los correspondientes al archivo, de conformidad con la normatividad que para tal efecto se emita;
+Para llevar a cabo colecta y uso de recursos forestales y biológicos forestales con fines de investigación o utilización de biotecnología, el interesado deberá dar aviso previo a la Secretaría entregando el protocolo de investigación respectivo y el escrito referido en el párrafo siguiente.
 
-XXX. Respecto de la información que posee, determinar aquella que pueda ser considerada como de transparencia proactiva, como parte de la cultura de rendición de cuentas y apertura estatal, promoviendo la reutilización de la información que generan los sujetos obligados, considerando la demanda e interés de la sociedad en la Ciudad de México;
+Sólo podrá realizarse la colecta y uso a que se refiere este artículo si se cuenta previamente con el consentimiento escrito, expreso e informado, del propietario o poseedor del predio en el que se encuentre el recurso forestal.
 
-XXXI. Cumplir y hacer cumplir en el ámbito de su competencia la Ley de Trasparencia (sic), la Ley de Datos Personales, el presente Reglamento y las demás disposiciones aplicables;
+Cuando la colecta se realice por entidades públicas o por el propietario o poseedor del predio, bastará con que se presente el aviso y el protocolo de investigación respectivos ante la Secretaría acreditando, en su caso, que se cuenta con el consentimiento del usufructuario forestal.
 
-XXXII. Coordinar la atención y seguimiento de las políticas, programas, acuerdos estrategias, acciones y asuntos derivados de los trabajos que se originen en los sistemas nacionales y locales, así como en las instancias de los que forme parte el Instituto, en su caso, con participación y colaboración de las unidades administrativas en el ámbito de la competencia de cada una de ellas;
+La Secretaría deberá vigilar que la investigación se realice sin afectar o poner en peligro los recursos forestales y su desarrollo sustentable ejecutando, si se hace necesario y resulta procedente para dicha finalidad, las medidas de seguridad que se previenen en esta ley.
 
-XXXIII. En ausencia de la Comisionada Presidenta o Comisionado Presidente, autorizar el nombramiento de los encargados de despacho de las unidades administrativas, previa consulta con las Comisionadas y los Comisionados Ciudadanos;
+###### ARTÍCULO 69.
 
-XXXIV. En ausencia de la Comisionada Presidenta o del Comisionado Presidente, aprobar los procedimientos administrativos y políticas de operación internas del Instituto, previo conocimiento de los mismos por parte de las Comisionadas y de los Comisionados Ciudadanos;
+La manipulación o modificación genética de germoplasma para la obtención de organismos vivos genéticamente modificados con fines comerciales, solamente podrá realizarse con autorización previa de la Secretaría.
 
-XXXV. En ausencia de la Comisionada Presidenta o del Comisionado Presidente, autorizar el cambio de adscripción o las comisiones temporales de los servidores públicos del Instituto para desempeñar funciones en otra área del mismo, cuando se requiera por necesidades del servicio, previa consulta con las Comisionadas y los Comisionados Ciudadanos, con excepción del personal de apoyo a cargo de estos últimos;
+###### ARTÍCULO 70.
 
-XXXVII (SIC). Recibir y distribuir la correspondencia institucional a través de la Oficialía de Partes de conformidad con el procedimiento correspondiente;
+El aprovechamiento de los recursos forestales en áreas que sean el hábitat de especies de flora o fauna silvestres endémicas, amenazadas o en peligro de extinción, sólo podrá realizarse con fines de investigación y, en todo caso, se cuidará con esmero especial llevarla a cabo sin que disminuyan las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
 
-XXXVIII. Expedir copias certificadas o autorizadas de los documentos que obren en los archivos del Instituto, conforme a las disposiciones aplicables.
+###### ARTÍCULO 71.
 
-XXXIX. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
+La Secretaría promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, creación de áreas, huertos semilleros, viveros forestales y bancos de germoplasma.
 
-#### SECCIÓN VI. DEL ÓRGANO INTERNO DE CONTROL
+## TITULO SEPTIMO. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
 
-###### Artículo 17.
+### CAPITULO I. De la Participación Ciudadana en Materia Forestal
 
-Son atribuciones del Órgano Interno de Control:
+###### ARTÍCULO 72.
 
-I. Inspeccionar y fiscalizar que el ejercicio del gasto del Instituto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulen su ejercicio, verificando que las operaciones financieras se registren contable y presupuestalmente en forma oportuna;
+El Ejecutivo Estatal y los municipios, directa o coordinadamente, promoverán la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política forestal estatal.
 
-II. Evaluar el cumplimiento programático de las metas y objetivos establecidos en los programas del Instituto y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
+###### ARTÍCULO 73.
 
-III. Presentar al Pleno el Programa Anual de Auditorías, durante los primeros cuarenta y cinco días naturales del año;
+La Secretaría podrá celebrar convenios de colaboración con municipios y agrupaciones sociales con la finalidad de promover y difundir programas y acciones de forestación, reforestación, aprovechamiento, conservación, ordenación y vigilancia de recursos forestales.
 
-IV. Acordar con la Comisionada Presidenta o con el Comisionado Presidente los asuntos de su competencia y rendir trimestralmente un informe, por escrito, a las Comisionadas y los Comisionados Ciudadanos del avance de los programas y proyectos del Órgano Interno de Control, así como de las observaciones y las recomendaciones que deriven de las auditorías externas realizadas al Instituto;
+### CAPITULO II. Del Consejo Estatal Forestal
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+###### ARTÍCULO 74.
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2021)</small>
+Se crea el Consejo Estatal Forestal como órgano de carácter consultivo, de asesoramiento y concertación, en materia de planeación, supervisión, evaluación de las políticas y programas, aprovechamiento, conservación y restauración de los recursos forestales.
 
-V. Emitir la normatividad aplicable de competencia del Órgano Interno de Control, misma que presentará al Pleno;
+Invariablemente deberá solicitársele su opinión en materia de planeación y expedición de reglamentos y acuerdos generales relativos a recursos forestales.
 
-VI. Programar, ordenar y realizar auditorías y revisiones de control a las unidades administrativas del Instituto;
+###### ARTÍCULO 75.
 
-VII. Verificar el cumplimiento de las disposiciones legales, reglamentarias o administrativas aplicables por parte de las unidades administrativas del Instituto;
+El Consejo Estatal Forestal será integrado por el Gobernador del Estado con representantes de las dependencias y entidades del Poder Ejecutivo y de los municipios, ejidos, comunidades indígenas, propietarios y poseedores de terrenos forestales y preferentemente forestales, prestadores de servicios técnicos forestales, industriales de la rama forestal, académicos e investigadores en materia forestal y, en general, ciudadanos interesados o involucrados en la conservación y protección de los recursos forestales.
 
-VIII. Dar seguimiento a los avances en la atención de las observaciones y recomendaciones que deriven de las auditorías practicadas al Instituto por cualquier instancia;
+En la constitución del Consejo se propiciará la representación proporcional y equitativa de sus integrantes.
 
-IX. Requerir a las unidades administrativas, de acuerdo a sus atribuciones, información y documentación, así como a proveedores, contratistas y prestadores de servicios, cuando lo estime conveniente;
+###### ARTÍCULO 76.
 
-X. Emitir recomendaciones preventivas para el adecuado cumplimiento de las normas aplicables a la operación interna del Instituto;
+El Consejo Estatal Forestal contará con un Secretario Técnico que será un servidor público de nivel de Director General en la Secretaría quien, para los efectos de esta función, podrá auxiliarse con el personal administrativo bajo su dirección. El Secretario Técnico integrará y custodiará el archivo del Consejo y realizará todas las acciones y actividades pertinentes para el eficiente y eficaz funcionamiento del mismo.
 
-XI. Instaurar los procedimientos administrativos disciplinarios internos; desarrollar la investigación de quejas y denuncias formuladas contra servidores públicos del Instituto y fincar las responsabilidades a que hubiere lugar e imponer las sanciones administrativas en los términos de la legislación en materia de responsabilidades de los servidores públicos;
+###### ARTÍCULO 77.
 
-XII. Recibir, substanciar y resolver los recursos de revocación que se presenten en contra de las resoluciones en los procedimientos señalados en la fracción anterior, de conformidad con la legislación en materia de responsabilidades de los servidores públicos;
+Los integrantes del Consejo Estatal Forestal desempeñarán sus funciones de forma honorífica. Los que sean designados por razón de su cargo permanecerán como consejeros mientras dure dicho cargo. Los demás permanecerán como consejeros hasta en tanto sean substituidos, renuncien al mismo o les resulte imposible su desempeño.
 
-XIII. Atender de manera directa la defensa jurídica de las resoluciones que emita ante las instancias correspondientes, debiendo rendir los informes que sean requeridos por las autoridades y presentar los escritos correspondientes;
+###### ARTÍCULO 78.
 
-XIV. Integrar el padrón de las personas servidoras públicas del Instituto obligados a presentar declaración de situación patrimonial, fiscal y de conflicto de intereses, recibiéndolas o, en su caso, requiriéndolas, así como llevar el registro y seguimiento de la evolución de la situación patrimonial correspondiente;
+El Consejo Estatal Forestal funcionará en pleno y por comisiones temáticas y regionales. Para sesionar en pleno, el Consejo requerirá de un quórum que se formará por la mitad más uno de sus integrantes. Las comisiones temáticas y regionales serán definidas y sus integrantes designados por votación plenaria del propio Consejo, a propuesta de cualquiera de los consejeros. Los asuntos a cargo del Consejo serán turnados para estudio a la comisión que corresponda y se decidirán por el pleno a propuesta que presente dicha comisión. Las propuestas de las comisiones y, en general, todos los asuntos a cargo del pleno del Consejo, se decidirán por mayoría de votos presentes en las reuniones respectivas.
 
-XV. Elaborar las versiones públicas de las distintas declaraciones que presentan las personas servidoras públicas obligadas del Instituto conforme a lo establecido previamente por el Pleno;
+###### ARTÍCULO 79.
 
-XVI. Asistir a los actos de entrega recepción de las personas servidoras públicas del Instituto, de mandos medios, superiores y homólogos, con motivo de la separación del encargo, empleo o comisión;
+Dentro del ámbito constitucional de su competencia, el Ejecutivo expedirá un reglamento para desarrollar las prevenciones de esta ley relativas a la integración y funcionamiento del Consejo Estatal Forestal.
 
-XVII. Integrar y publicar el padrón de personas servidores públicos del Instituto que hayan sido sancionadas con motivo de un procedimiento administrativo de responsabilidad, siempre y cuando dicha resolución sea definitiva;
+## TITULO OCTAVO. DE LOS MEDIOS DE CONTROL, VIGILANCIA Y SANCIÓN FORESTALES
 
-XVIII. Instar al área jurídica del Instituto a formular cuando así se requiera, las denuncias o querellas a que hubiere lugar ante la autoridad competente;
+### CAPITULO I. De la Prevención y Vigilancia Forestal
 
-XIX. Participar en los comités creados por el Pleno del Instituto; así como en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública; resolver las inconformidades que presenten los proveedores, contratistas o concursantes, así como de los procedimientos administrativos para declarar la inhabilitación de proveedores, acorde con lo establecido en la normatividad en la materia;
+###### ARTÍCULO 80.
 
-XX. Realizar acciones preventivas para el adecuado cumplimiento de las normas aplicables a la operación interna del Instituto, desarrollar indicadores de gestión que permitan mejoras administrativas, así como contribuir en el diseño y revisión de los manuales administrativos y demás normas que faciliten su organización y su funcionamiento;
+La vigilancia forestal y la prevención de infracciones administrativas de orden forestal será una atribución concurrente entre el Estado y los municipios.
 
-XXI. Participar en el Comité de Transparencia del Instituto, en el ámbito de su competencia, de acuerdo a lo previsto en el artículo 88 de la Ley de Transparencia y demás normatividad aplicable;
+El Gobierno del Estado, en coordinación con la Federación y los municipios y con la colaboración de los propietarios o poseedores forestales, comunidades indígenas y organismos privados y sociales, formulará, operará y evaluará programas integrales de prevención y combate a la tala clandestina, especialmente en zonas críticas, así como para prevenir actos indebidos de cambio de uso del suelo, tráfico de especies y recursos forestales, extracción del suelo forestal y transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.
 
-XXII. Participar en el Comité Técnico Interno de Administración de Documentos del Instituto, en el ámbito de su competencia, en términos del reglamento de operación de dicho Comité;
+### CAPITULO II. De la Denuncia Popular
 
-XXIII. Fungir como responsable del o los Sistemas de Datos Personales en posesión del Órgano Interno de Control, en los términos de la Ley de Datos Personales, y demás normatividad que sea aplicable;
+###### ARTÍCULO 81.
 
-XXIV. Proponer al Pleno, a través del Comisionado Presidente, la creación, modificación o supresión de sus sistemas de datos personales;
+Cualquier persona, sin necesidad de acreditar interés alguno y sin más requisito que el de identificarse, podrá denunciar ante la autoridad, todo hecho, acto u omisión que produzca o pueda producir desequilibrio al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos. La autoridad que reciba una denuncia de esta clase deberá turnarla inmediatamente a la Secretaría, en original si dicha autoridad no tiene competencia específica sobre el asunto, o en copia certificada en caso contrario, para el efecto de que, en cualquier de ambas hipótesis, la Secretaría proceda a investigar y resolver lo que corresponda en un término breve, así como notificar al denunciante la decisión correspondiente con detalle de su motivación y fundamento.
 
-XXV. Designar a los encargados dentro del Instituto del tratamiento de los sistemas de datos personales en posesión de su unidad administrativa;
+También podrá presentarse esta denuncia sin identificación del denunciante, pero en este caso no subsistirá la obligación de notificación prevista en la última parte del párrafo anterior.
 
-XXVI. Presentar un informe al Pleno, a solicitud de la Comisionada Presidenta o del Comisionado Presidente, sobre los avances y, en su caso, resultados de la actividad fiscalizadora que es sujeta el Instituto, por parte del Órgano Interno de Control del mismo, la Auditoría Superior de la Ciudad de México y, las auditorías externas que ordene el propio Instituto;
+### CAPITULO III. De las Visitas y Operativos de Inspección Forestales
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+###### ARTÍCULO 82.
 
-XXVII. Organizar y conservar sus respectivos documentos en el archivo de trámite, así como enviar los correspondientes al archivo, de conformidad con la normatividad que para tal efecto se emita;
+La Secretaría procurará concertar convenios con el Gobierno Federal para el efecto de obtener atribuciones para realizar visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en esta ley, su reglamento, las normas oficiales mexicanas y las demás disposiciones generales aplicables en la materia.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+###### ARTÍCULO 83.
 
-> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2021)</small>
+Los propietarios y poseedores de terrenos forestales o preferentemente forestales, los titulares de autorizaciones de aprovechamiento de recursos forestales maderables, quienes realicen actividades de forestación y de reforestación, así como las personas que transporten, almacenen o transformen materias primas forestales, deberán dar facilidades al personal autorizado para la realización de visitas u operativos de inspección
 
-XXVIII. Expedir copia certificada de aquellos documentos que obren en los archivos del Órgano Interno de Control;
+### CAPITULO IV. De las Medidas de Seguridad
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+###### ARTÍCULO 84.
 
-XXIX. Emitir el Código de Ética del Instituto; y
+Cuando de las visitas u operativos de inspección que realice la Secretaría, o por cualquier otro conducto, se obtenga conocimiento de que existe riesgo inminente de daño o deterioro graves a los ecosistemas forestales, o bien cuando sean detectados actos u omisiones que pudieran dar lugar a la imposición de sanciones administrativas, la Secretaría podrá ordenar las siguientes medidas de seguridad:
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+I.- El aseguramiento precautorio de los productos y materias primas forestales, así como de los vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión que origine la imposición de esta medida;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE ABRIL DE 2021)</small>
+II.- La clausura temporal, parcial o total de instalaciones o la cancelación de los operativos relacionados con una explotación forestal; y
 
-XXX. Las demás que expresamente le confiera la Ley de Transparencia, el Pleno, el presente Reglamento y aquellas disposiciones legales administrativas que le sean aplicables.
+III.- La suspensión temporal, parcial o total de los aprovechamientos autorizados o de la actividad de que se trate.
 
-#### SECCIÓN VII. DE LAS DIRECCIONES
+Las medidas de seguridad referidas podrán imponerse de modo separado o acumulados, según la gravedad del caso y los objetivos que se pretendan, y con auxilio de la fuerza pública si se hace necesario.
 
-###### Artículo 18.
+Los gastos que se generen por la imposición y ejecución de las medidas de seguridad serán a cargo del particular que haya dado lugar a ellas y se recuperarán, en caso de incumplimiento o mora del obligado, en los términos del último párrafo del artículo 44.
 
-Para el cumplimiento de las funciones del Instituto, éste se auxiliará de las siguientes unidades administrativas:
+###### ARTÍCULO 85.
 
-I. Dirección de Asuntos Jurídicos;
+Cuando se decrete alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicarán, en su caso, las acciones que deban llevarse a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se levanten dichas medidas mediante declaratoria de la Secretaría.
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+### CAPITULO V. De las Infracciones
 
-II. Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales;
+###### ARTÍCULO 86.
 
-III. Dirección de Estado Abierto, Estudios y Evaluación;
+Son infracciones a esta ley:
 
-IV. Dirección de Vinculación y Proyección Estratégica;
+I.- Realizar aprovechamientos de recursos forestales sin ser titular del derecho correspondiente, excepto cuando se haya contratado para dicho particular a un prestador de servicios técnicos forestales;
 
-V. Dirección de Datos Personales;
+II.- Omitir la formalización del derecho real de usufructo mediante escritura pública;
 
-VI. Dirección de Tecnologías de la Información;
+III.- Prestar servicios técnicos forestales sin autorización expedida por la Secretaría;
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+IV.- El incumplimiento de la implementación o ejecución del programa de reforestación, restauración y conservación de suelos previsto por el último párrafo del artículo 44 de esta ley;
 
-VII. Dirección de Administración y Finanzas; y
+V.- La omisión o retraso de los poseedores de terrenos forestales o preferentemente forestales, o de quienes realicen actividades de carácter forestal, para presentar aviso de plagas o enfermedades forestales cuando las detectan;
 
-VIII. Dirección de Comunicación Social.
+VI.- El incumplimiento, omisión, reticencia o mora de los poseedores de terrenos forestales o preferentemente forestales, o de quienes realicen actividades de carácter forestal, para ejecutar trabajos de sanidad forestal cuando se haya determinado la existencia de plagas o enfermedades, o la ejecución de dichos trabajos en contravención a los lineamientos y tratamientos definidos en los programas de manejo que haya proporcionado la Secretaría;
 
-#### SECCIÓN I. DEL PLENO
+VII.- El incumplimiento, omisión, reticencia o mora de los responsables de algún incendio forestal para restaurar las superficies afectadas;
 
-###### Artículo 19.
+VIII.- La realización de cualquier tipo de quema en terrenos forestales o preferentemente forestales sin permiso de la autoridad municipal o sin haber avisado a los dueños de los predios colindantes con la anticipación prevista por la ley;
 
-Son atribuciones de las personas titulares de las Direcciones:
+IX.- La manipulación o modificación genética de germoplasma para la obtención de organismos vivos genéticamente modificados con fines comerciales sin la autorización previa de la Secretaría;
 
-I. Planear, programar, coordinar e implementar el desarrollo de los programas y acciones encomendados a su cargo;
+X.- El aprovechamiento de recursos forestales en áreas que sean el hábitat de especies de flora o fauna silvestre endémicas, amenazadas o en peligro de extinción, con fines diferentes a los de investigación, o cuando dicho aprovechamiento se realice con fines de investigación pero disminuyendo las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies;
 
-II. Participar en la elaboración del proyecto de (sic) Programa Operativo Anual y el Anteproyecto de Presupuesto relativo al área a su cargo;
+XI.- La reticencia o retraso en el otorgamiento de facilidades para la realización de visitas u operativos de inspección por quien deba proporcionarlos; y
 
-III. Informar a las Comisionadas y a los Comisionados Ciudadanos de forma trimestral, a través de la Secretaría Ejecutiva, sobre los avances y resultados alcanzados en el desarrollo de los programas y proyectos de su competencia, mismos que serán presentados al Pleno;
+XII.- Cualquier otra contravención a lo dispuesto en la presente ley.
 
-IV. Actualizar, conforme a la periodicidad indicada, las obligaciones de transparencia que le corresponda e incorporarla a los sitios electrónicos correspondientes, siendo responsable de la misma;
+### CAPITULO VI. De las Sanciones
 
-V. Actualizar el contenido de la sección que le corresponda en los sitios electrónicos del Instituto;
+###### ARTÍCULO 87.
 
-VI. Atender las solicitudes de información pública y de derechos ARCO conforme a la Ley de Transparencia, la Ley de Datos Personales, los Lineamientos de la Plataforma Nacional y demás disposiciones en la materia;
+Las infracciones establecidas en el artículo anterior serán sancionadas administrativamente por la Secretaría con:
 
-VII. Fungir como responsable del o los Sistemas de Datos Personales en posesión de su unidad administrativa, en los términos de la Ley de Datos Personales, y demás normatividad que sea aplicable;
+I.- Amonestación pública o privada;
 
-VIII. Proponer al Pleno, a través del Comisionado Presidente, la creación, modificación o supresión de sistemas de datos personales;
+II.- Multa;
 
-IX. Designar a los encargados dentro del Instituto del tratamiento de los Sistemas de Datos Personales en posesión de su unidad administrativa;
+III.- Ejecución de las medidas de restauración correspondientes con cargo al infractor en los términos del último párrafo del artículo 44;
 
-X. Organizar y conservar sus respectivos documentos en el archivo de trámite, así como enviar los correspondientes al archivo, de conformidad con la normatividad que para tal efecto se emita;
+IV.- Suspensión temporal, parcial o total, de las autorizaciones de aprovechamiento de recursos forestales o de la plantación forestal comercial;
 
-XI. Asesorar en asuntos de su competencia a las Comisionadas y a los Comisionados Ciudadanos y demás servidores públicos del Instituto;
+V.- Decomiso de materias primas forestales y de los instrumentos, maquinaria, equipos y herramientas y medios de transporte utilizados para cometer la infracción, y
 
-XII. Acordar con la Comisionada Presidenta o con el Comisionado Presidente los asuntos cuya tramitación requiera de la intervención de éste, de acuerdo con el ámbito de su competencia;
+VI.- Clausura temporal o definitiva, parcial o total, de las instalaciones, maquinaria y equipos de los centros de almacenamiento y transformación de materias primas forestales, o de los sitios o instalaciones donde se desarrollen las actividades que den lugar a la infracción respectiva.
 
-XIII. Formular opiniones, informes y desahogar las consultas relacionadas con el ámbito de su competencia;
+Las sanciones enlistadas podrán imponerse de forma acumulada cuando el caso lo requiera.
 
-XIV. Coordinarse con la Secretaría Ejecutiva respecto a la atención y seguimiento de los asuntos a su cargo que sean de su competencia o que sean aprobados por el Pleno y que les corresponda, así como informarle de su cumplimiento;
+###### ARTÍCULO 88.
 
-XV. Proponer a la Comisionada Presidenta o al Comisionado Presidente la designación del personal a su cargo y participar en su desarrollo, capacitación y promoción;
+Las multas a que se refiere el artículo anterior, serán impuestas de la forma siguiente:
 
-XVI. Apoyar en la atención de las denuncias presentadas ante el Instituto por posibles infracciones a la Ley de Transparencia, así como en los procedimientos de posible incumplimiento a la Ley de Datos Personales y demás disposiciones aplicables, cuando sea materia de su competencia;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 3 DE AGOSTO DE 2017)</small>
 
-XVII. Participar y coadyuvar a la integración y cumplimiento del Programa Editorial del Instituto del año correspondiente, a desarrollar por el Comité Editorial;
+I.- Con el equivalente de 20 a 500 veces de salario mínimo a quien cometa las infracciones previstas en las fracciones II y XI del artículo 86 de esta ley; y
 
-XVIII. Coordinarse con los titulares o con los servidores públicos de otras unidades administrativas, cuando así se requiera, para el mejor funcionamiento del Instituto;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 3 DE AGOSTO DE 2017)</small>
 
-XIX. Apoyar, en el ámbito de su competencia, a la Red de Transparencia y Acceso a la Información Pública de la Ciudad de México, y la correspondiente a la Protección de Datos Personales;
+II.- Con el equivalente de 50 a 10,000 veces de salario mínimo a quien cometa las infracciones previstas en las fracciones I, III, IV, V, VI, VII, VIII, IX y X del artículo 86 de esta ley.
 
-XX. Proponer al Pleno, por conducto de la Comisionada Presidenta o del Comisionado Presidente y previa revisión de la Dirección de Asuntos Jurídicos, los ajustes y actualizaciones al marco normativo que rige la operación de su unidad administrativa;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 3 DE AGOSTO DE 2017)</small>
 
-XXI. Participar y colaborar, cuando corresponda y en el ámbito de su competencia, en la coordinación, atención y seguimiento de las políticas, programas, acuerdos estrategias, acciones y asuntos derivados de los trabajos que se originen en los sistemas nacionales y locales, así como en las instancias de los que forme parte el Instituto;
+Las multas tendrán el carácter de créditos fiscales y para su imposición servirá de base el salario mínimo general diario vigente en la capital del Estado al momento de cometerse la infracción.
 
-XXII. Participar en el Comité de Bienes Muebles del Instituto en los términos establecidos en la normatividad en la materia;
+A los reincidentes se les podrá aplicar hasta el doble del límite máximo de las multas previstas en este artículo.
 
-XXIII. Contribuir al buen desarrollo de los eventos organizados por el Instituto;
+La Secretaría podrá ofrecer al infractor la opción de pagar multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo de daño o deterioro graves de los ecosistemas forestales.
 
-XXIV. Apoyar en la elaboración del Informe Anual de Actividades y Resultados del Instituto;
+###### ARTÍCULO 89.
 
-XXV. Elaborar y aplicar indicadores en materia de acceso a la información pública, protección de datos personales, rendición de cuentas, Estado abierto en el ámbito de su competencia, de conformidad con la Ley de Transparencia;
+Las infracciones a esta ley serán sancionadas por la Secretaría, tomando en consideración:
 
-XXVI. Participar en el Comité de Transparencia del Instituto en términos del Manual de Operación e Integración, en el ámbito de su competencia;
+I.- Los daños que se hubieren producido o pudieran producirse, así como el tipo, localización y cantidad del recurso dañado o puesto en peligro;
 
-XXVII. Participar en el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto en términos del manual de operación e integración, en el ámbito de su competencia;
+II.- El beneficio obtenido por el infractor o los coparticipes;
 
-XXVIII. Designar a la persona que participará en el Comité Técnico Interno de Administración de Documentos del Instituto, en términos del reglamento de operación de dicho Comité, en el ámbito de su competencia;
+III.- El carácter intencional o culposo de la infracción;
 
-XXIX. Generar mecanismos para la transparencia proactiva, a través de formatos abiertos y accesibles en el ámbito de su competencia; considerando la demanda e interés de la sociedad a través de la publicación y difusión de información adicional a la establecida en la Ley de Transparencia;
+IV.- En caso de coparticipación, el grado de ésta en la preparación y ejecución de la infracción;
 
-XXX. Elaborar y aplicar indicadores sobre la evolución del ejercicio del derecho de acceso a la información pública, así como de las obligaciones de transparencia en los portales de Internet de los Sujetos Obligados de la Ciudad de México;
+V.- Las condiciones económicas, sociales y culturales del infractor; y
 
-XXXI. Respecto de la información que posee, determinar aquella que pueda ser considerada como de transparencia proactiva, como parte de la cultura de rendición de cuentas y apertura estatal, promoviendo la reutilización de la información que generan los sujetos obligados, considerando la demanda e interés de la sociedad en la Ciudad de México;
+VI.- La reincidencia.
 
-XXXII. En ausencia de la Comisionada Presidenta o del Comisionado Presidente, proponer al titular de la Dirección de Administración y Finanzas el nombramiento del personal a su cargo;
+###### ARTÍCULO 90.
 
-XXXIII. Cumplir y hacer cumplir en el ámbito de su competencia la Ley de Trasparencia (sic), la Ley de Datos Personales, el presente Reglamento y las demás disposiciones aplicables; y
+Cuando del resultado de una visita o inspección aparezca que se han cometido varias infracciones, éstas serán sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar esta situación con los detalles y circunstancias que la hayan evidenciado.
 
-XXXIV. Cumplir con las obligaciones de transparencia que correspondan a cada área, así como su actualización en la temporalidad señalada en la Ley de Transparencia.
+La amonestación sólo será aplicable a los infractores que lo sean por primera vez.
 
-XXXV. Expedir copias certificadas o autorizadas de los documentos que obren en el archivo del área que dirigen en el Instituto, conforme a las disposiciones aplicables.
+###### ARTÍCULO 91.
 
-XXXVI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto en lo que al ámbito de competencia de cada una corresponda.
+Cuando la gravedad de la infracción lo amerite, la Secretaría solicitará ante quien proceda la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia y en general cualquier autorización otorgada para la realización de los servicios o las actividades involucradas directamente en los hechos constitutivos de la infracción. Esta atribución la ejercerá directamente la Secretaría con respecto a las concesiones, permisos, licencias y autorizaciones de su competencia.
 
-> <small>[N. DE E. VÉASE LA LITERALIDAD DEL ACUERDO PUBLICADO EN LA G.O. DE LA CIUDAD DE MÉXICO DE 16 DE OCTUBRE DE 2020, PÁGINA 35.]</small>
+###### ARTÍCULO 92.
 
-###### Artículo 20.
+Serán responsables solidarios de las infracciones quienes se beneficien de sus resultados o intervengan en su preparación.
 
-Son atribuciones de la Dirección de Asuntos Jurídicos:
+### CAPITULO VII. Del Recurso de Reconsideración
 
-I. Llevar a cabo la representación legal del Instituto, previa delegación de atribuciones que le otorgue la Comisionada Presidenta o el Comisionado Presidente, ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa en los asuntos en que tenga interés o injerencia jurídica, incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica del Instituto o los de quien éste represente;
+###### ARTÍCULO 93.
 
-II. Elaborar los proyectos de normas, lineamientos y criterios que establece la Ley de Transparencia y la Ley de Datos Personales, así como los que el Pleno y la Comisionada Presidenta o el Comisionado Presidente le encomienden;
+Contra las resoluciones dictadas por infracciones cometidas a la presente ley y las disposiciones que deriven de la misma, los infractores, dentro del término de quince días contado a partir de aquel en que surta efecto la notificación de la resolución correspondiente, podrán interponer el recurso de reconsideración, directamente ante la Secretaría o por conducto de la autoridad que impuso la sanción, expresando los motivos de su inconformidad.
 
-III. Llevar a cabo, la revisión legal de las normas internas y demás ordenamientos necesarios para el funcionamiento del Instituto, previo a ser presentados al Pleno,
+###### ARTÍCULO 94.
 
-IV. Elaborar proyectos de respuesta a las peticiones que se formulen al Pleno y a las Comisionadas y los Comisionados Ciudadanos en el ejercicio del derecho de petición;
+Al interponerse el recurso podrá decretarse la suspensión de los efectos de la sanción, siempre que concurran los siguientes requisitos:
 
-V. Apoyar a la unidad administrativa que corresponda en la elaboración y revisión de los proyectos de convenios, acuerdo, bases de colaboración, contratos o instrumentos consensuales en los que el Instituto sea parte y, en su caso, proponer las adecuaciones convenientes conforme a las disposiciones legales aplicables, así como llevar un registro y resguardar los documentos de los mismos, además de verificar que sean publicados en la página de internet del Instituto;
+I.- Que la solicite el interesado;
 
-VI. Coadyuvar con las autoridades correspondientes en los asuntos de orden jurídico del Instituto;
+II.- Que al concederse la suspensión no se contrapongan disposiciones de orden público o de interés social;
 
-VII. Dar seguimiento y atención a los juicios de amparo, así como a los medios de impugnación promovidos en contra de las resoluciones del Instituto o alguno de sus servidores públicos en ejercicio de sus atribuciones;
+III.- Que tratándose de multas su importe se garantice mediante billete de depósito expedido por institución autorizada para dicho efecto; y
 
-VIII. Formular denuncias, querellas, así como quejas ante las autoridades correspondientes;
+IV.- Que no se trate de infractor reincidente.
 
-IX. Elaborar para aprobación del Pleno, los proyectos de acción de inconstitucionalidad por parte del Instituto;
+###### ARTÍCULO 95.
 
-X. Otorgar perdón en materia penal o desistirse de las instancias;
+La suspensión sólo tendrá como efecto que las cosas se mantengan en el estado en que se encuentren hasta en tanto se pronuncie la resolución del recurso.
 
-XI. Asesorar a las unidades administrativas del Instituto en las consultas jurídicas que en el ámbito de sus competencias éstas le formulen;
+###### ARTÍCULO 96.
 
-XII. Presentar a la Comisionada o al Comisionado Presidente, las alternativas jurídicas de solución a los asuntos considerados como relevantes o especiales para el Instituto;
+Se desechará por improcedente el recurso cuando se interponga:
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+I.- Contra actos administrativos que sean materia de otro recurso que se encuentre pendiente de resolución y que haya sido promovido por el propio recurrente por el mismo acto impugnado;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+II.- Contra actos que no afecten los intereses legítimos del promovente;
 
-XIII. Iniciar el procedimiento sancionatorio, una vez que le notifique la ponencia respectiva, por persistir el incumplimiento de las resoluciones emitidas por el Pleno;
+III.- Contra actos consumados de modo irreparable;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+IV.- Contra actos consentidos expresamente;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+V.- Cuando el recurso sea interpuesto fuera del término previsto por esta ley; o
 
-XIV. Requerir a los servidores públicos y unidades administrativas del Instituto, la documentación e información que sea necesaria para el cumplimiento de sus atribuciones;
+VI.- Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal interpuesto por el promovente que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+###### ARTÍCULO 97.
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+Será sobreseído el recurso cuando:
 
-XV. Recibir los expedientes relativos a los incumplimientos a las obligaciones de transparencia, para que, en su caso, se inicie el procedimiento sancionatorio en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos;
+I.- El promovente se desista expresamente;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+II.- El promovente fallezca durante el procedimiento, si el acto o resolución impugnados no afecta patrimonialmente a sus herederos;
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+III.- Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
-XVI. Sustanciar el procedimiento sancionatorio previsto en ley de la materia, así como en los casos en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, y emitir los acuerdos correspondientes y practicar las diligencias o actuaciones necesarias para la determinación, notificación y, en su caso, ejecución de las sanciones impuestas por el Pleno;
+IV.- Hayan cesado los efectos del acto impugnado;
 
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+V.- Falte el objeto o materia del acto; o
 
-XVII. Requerir a los presuntos infractores, a las autoridades competentes e instituciones financieras, la información y documentación necesaria para sustanciar el procedimiento sancionatorio, as (sic) como para determinar la condición económica de los infractores;
+VI.- No se probare la existencia del acto impugnado.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+###### ARTÍCULO 98.
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+El recurso deberá tramitarse y resolverse por la Secretaría, dentro del término de treinta días hábiles.
 
-XVIII. Elaborar y someter a consideración del Pleno los proyectos de resoluciones correspondientes al procedimiento sancionatorio iniciado en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, de conformidad con lo previsto en las leyes de la materia;
+La resolución tendrá por objeto modificar, revocar o confirmar la resolución combatida.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+###### ARTÍCULO 99.
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+Contra la resolución que recaiga al recurso de reconsideración procede el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo.
 
-XIX. Proponer la habilitación de días inhábiles en los procedimientos de medidas de apremio y sanciones, cuando así se requiera;
+T R A N S I T O R I O S
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+###### ARTÍCULO PRIMERO.
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-XX. Requerir a las autoridades competentes el apoyo necesario para el ejercicio de sus funciones;
+###### ARTÍCULO SEGUNDO.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+Dentro de los 90 días siguientes a la precitada publicación, el Titular del Poder Ejecutivo deberá integrar el Consejo Estatal Forestal y expedir los reglamentos previstos expresamente por esta ley.
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+###### ARTÍCULO TERCERO.
 
-XXI. Notificar los acuerdos que resulten necesarios para el cumplimiento de sus atribuciones;
+Se derogan todas las disposiciones que se opongan a la presente ley.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+Comuníquese al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado.
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO
 
-XXII. Coadyuvar con la Comisionada Presidenta o el Comisionado Presidente, en colaboración con la Secretaría Ejecutiva, en la elaboración y/o revisión de lineamientos, normas, recomendaciones, criterios y dictámenes relacionados con los sistemas o instancias en las que el Instituto sea parte;
+Hermosillo, Sonora, 22 de noviembre de 2005.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+C. LUIS ALBERTO CAÑEZ LIZARRAGA
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+DIPUTADO PRESIDENTE
 
-XXIII. Dar seguimiento a la imposición y/o ejecución de las medidas de apremio y sanciones aprobadas por el Pleno;
+C. MIGUEL E. POMPA CORELLA
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
+DIPUTADO SECRETARIO
 
-XXIV. (DEROGADA, G.O. 19 DE NOVIEMBRE DE 2020)
+C. JORGE A. GASTELUM LOPEZ
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+DIPUTADO SECRETARIO
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-XXV. Expedir copia certificada de todos aquellos documentos que obren en los archivos del Instituto;
+B.O. 3 DE AGOSTO DE 2017.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
+###### ARTÍCULO ÚNICO.
 
-XXVI. Solicitar a los Sujetos Obligados informes relacionados con los procedimientos por los probables incumplimientos en las materias competencia del Instituto, en el ámbito de su competencia;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXVII. Elaborar el compendio sobre los procedimientos vigentes del Instituto y la estadística sobre el seguimiento de sanciones emitidas por el Pleno;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
-
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXVIII. Coadyuvar con las Ponencias y Secretaría Técnica en cuanto al apoyo necesario para la ejecución de las resoluciones que emita el Pleno;
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
-
-XXIX. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de (sic) Instituto.
-
-> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2024)</small>
-
-#### SECCIÓN II. DE LA COMISIONADA PRESIDENTA O COMISIONADO PRESIDENTE
-
-###### Artículo 21.
-
-Son atribuciones del Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales:
-
-I. Identificar, proponer y coordinar los programas y proyectos de capacitación, formación, aprendizaje, actualización o profesionalización, presenciales o en línea, para promover el conocimiento en materia de cultura de la transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
-
-II. Definir e instrumentar estrategias y acciones de capacitación, aprendizaje formación, actualización o profesionalización dirigidas a los servidores públicos de los sujetos obligados y a la población en general o por sectores específicos, de cultura de la transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
-
-III. Establecer acciones dirigidas a coadyuvar con los sujetos obligados en la elaboración del programa anual de capacitación que será instrumentado por las Unidades de Transparencia;
-
-IV. Organizar, coordinar e instrumentar diplomados, cursos, talleres, conferencias o cualquier otra forma de aprendizaje, capacitación, formación, actualización o profesionalización, dirigida al ejercicio del derecho de acceso a la información pública y a la protección de datos personales, así como en las materias de cultura de la transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines; adicional a aquellas temáticas que, para el caso de las personas servidoras públicas del organismo garante faciliten el desempeño de su función pública o mejoren sus competencias;
-
-V. Diseñar y coordinar el programa anual de capacitación dirigido al desarrollo profesional de las personas servidoras públicas del Instituto para su formación, aprendizaje, actualización o profesionalización en materia de transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, así como, en aquellas temáticas que faciliten el desempeño de su función pública o mejoren sus competencias;
-
-VI. Identificar, proponer y coordinar mecanismos de capacitación a los sujetos obligados, organizaciones sociales, así como personas físicas y morales, respecto de las habilidades, conocimientos, y capacidad de replicar los mismos a fin de ofrecer en forma interdisciplinaria y profesional, la posibilidad de llevar a cabo cursos y talleres en materia de transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
-
-VII. Dirigir y coordinar las actividades relacionadas con el funcionamiento del Centro de Documentación del Instituto, considerando el establecimiento y promoción de relaciones con otros centros de documentación, instituciones académicas y educativas del sector público o privado, nacionales e internacionales, con la finalidad de ampliar su operación, sus servicios y su acervo, así como resguardar y actualizar para su consulta, el material de dicho Centro, en materia de los derechos de acceso a la información pública y protección de datos personales, así como en cultura de la transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
-
-VIII. Apoyar, en el ámbito de su competencia, en la difusión y distribución de las publicaciones entre los sujetos obligados, instituciones académicas y educativas, con todas aquellas con las que se tenga relación, considerando la labor y acervo que realiza el Centro de Documentación;
-
-IX. Establecer y promover relaciones con instituciones académicas y educativas del sector público o privado, nacionales e internacionales, así como impulsar la suscripción de acuerdos, convenios o bases de colaboración, para impulsar programas, estrategias, proyectos o acciones de capacitación, formación, actualización o cualquier forma de aprendizaje para el fortalecimiento de la cultura de la transparencia, el acceso a la información pública, la protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, o bien, que favorezcan el desempeño de la función pública o mejora de competencias de las personas servidoras públicas de dicho órgano garante;
-
-X. Proponer al Pleno convenios de colaboración con instituciones de educación superior del sector público o privado en los temas de los derechos de acceso a la información pública, de protección de datos personales, así como de cultura de la transparencia, rendición de cuentas, Estado abierto, archivos, anticorrupción y temas afines;
-
-XI. Impulsar los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, a través de estrategias o esquemas de colaboración, para la publicación e intercambio de materiales de capacitación, educativos, formativos, de aprendizaje, para la profesionalización y de difusión del conocimiento;
-
-XII. Participar en las acciones que, en el marco de coordinación y colaboración de programas conjuntos de capacitación, formación, aprendizaje, actualización o profesionalización, se consideren en los sistemas nacionales y locales, con otros organismos garantes, así como con otras instancias en las que participe el Instituto; y
-
-XIII. Las demás que se deriven del presente Reglamento y de las disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de Instituto.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS PUBLICADO EN LA G.O DE 18 DE MAYO DE 2020 EL PRESENTE ARTÍCULO PASO DE XXVII A XXVI FRACCIONES; VÉASE LITERALIDAD DEL ACUERDO, PÁGINAS DE LA 66 A LA 67.]</small>
-
-###### Artículo 22.
-
-Son atribuciones de la Dirección de Estado Abierto, Estudios y Evaluación:
-
-I. Diseñar y coadyuvar en la implementación de las políticas públicas de los sujetos obligados que busquen la inclusión y colaboración de organizaciones de la sociedad civil y sociales hacia la promoción, instrumentación y difusión del Estado abierto;
-
-II. Elaborar y coordinar los documentos, análisis y estudios que permitan orientar y coadyuvar con los sujetos obligados y organizaciones de la sociedad civil y sociales, en la implementación de políticas, mecanismos y herramientas tecnológicas de Estado abierto;
-
-III. Promover acciones que contribuyan a desarrollar de manera innovadora, co-creativa, y co-productiva modelos, estándares, esquemas de gestión, criterios, mejores prácticas y herramientas tecnológicas en materia de Estado abierto;
-
-IV. Proponer e implementar la construcción de fuentes de información, indicadores, metodologías y métricas para monitorear y evaluar las políticas y prácticas de Estado abierto;
-
-V. Diseñar, coordinar, supervisar y evaluar las políticas públicas relacionadas con el Estado abierto en colaboración con los diferentes sujetos obligados y organizaciones de la sociedad civil y sociales;
-
-VI. Realizar la evaluación y el diagnóstico de cumplimiento para detectar el avance y estatus en la utilización de herramientas, estrategias e instrumentos de apertura en los poderes públicos de la Ciudad de México, así como coadyuvar con los Sujetos Obligados en materia de gobierno abierto, parlamento abierto y justicia abierta, teniendo como ejes transversales los derechos humanos, la perspectiva de género y la cohesión social;
-
-VII. Asegurar la implementación de una metodología y métricas que permitan ordenar, conducir, verificar, evaluar y orientar las acciones de Estado abierto para la Ciudad de México, así como para el cumplimiento de las obligaciones de transparencia de los sujetos obligados.
-
-VIII. Participar en encuentros con organizaciones de la sociedad civil y sociales, para la identificación de buenas prácticas e intercambio de experiencias en materia de Estado de (sic) abierto, así como desarrollar modelos que permitan establecer referentes en la materia.
-
-IX. Proponer al Pleno de este Instituto, las evaluaciones del cumplimiento del marco normativo, así como del desempeño de los sujetos obligados del Estado abierto.
-
-X. Diseñar, actualizar e instrumentar, previa aprobación del Pleno, la metodología y criterios de evaluación del cumplimiento de las obligaciones de transparencia contempladas en el Título Quinto de la Ley de Transparencia;
-
-XI. Verificar y evaluar que los Sujetos Obligados publiquen y mantengan actualizadas sus obligaciones de transparencia contempladas en el Título Quinto de la Ley de Transparencia para su disposición en internet, tenerla disponible y en formatos abiertos, garantizando su acceso, atendiendo los principios y reglas establecidos en la Ley de Transparencia y demás normatividad aplicable;
-
-XII. Supervisar de manera permanente que los Sujetos Obligados mantengan la información pública relativa a sus obligaciones comunes y específicas de transparencia de sus portales de internet, así como en la Plataforma Nacional;
-
-XIII. Llevar el registro y actualización permanente de los Comités de Transparencia de los Sujetos Obligados, así como vigilar su correcto funcionamiento conforme a lo establecido en la Ley de Transparencia;
-
-XIV. Requerir a los Sujetos Obligados los informes respecto del cumplimiento de sus obligaciones de transparencia contempladas en el Título Quinto de la Ley de Transparencia;
-
-XV. Diseñar y aplicar indicadores para evaluar el cumplimiento de los Sujetos Obligados en materia de Estado abierto, difusión de información de interés público, transparencia proactiva y rendición de cuentas conforme a las obligaciones establecidas en la Ley de Transparencia, y demás normatividad aplicable;
-
-XVI. Proponer al Pleno del Instituto, a través de la Comisionada Presidenta o Comisionado Presidente, la actualización del padrón de Sujetos Obligados supeditados a las obligaciones establecidas en la Ley de Transparencia y Ley de Datos Personales;
-
-XVII. Realizar visitas, revisiones e inspecciones; solicitar informes; revisar documentos, registros, sistemas y procedimientos, a través de supervisiones periódicas a los Sujetos Obligados y a sus respectivas Unidades de Transparencia para comprobar la observancia de obligaciones comunes y específicas de transparencia conforme de (sic) la Ley de Transparencia y demás normatividad aplicable en la materia;
-
-XVIII. Efectuar estudios para difundir el conocimiento de la Ley de Transparencia, y para medir el desarrollo e impacto del ejercicio del Derecho de Acceso a la Información Pública, la Transparencia, el Estado abierto y la rendición de cuentas; además de ofrecer referentes de apoyo para la toma de decisiones dentro del Instituto;
-
-XIX. Establecer anualmente los índices de cumplimiento de la Ley (sic) Transparencia por parte de los Sujetos Obligados, con su respectiva publicación, previa aprobación del Pleno del Instituto;
-
-XX. Asesorar y mantener una colaboración y coordinación permanente con los Sujetos Obligados, a efecto de fortalecer el cumplimiento de sus obligaciones establecidas en la Ley de Transparencia;
-
-XXI. Implementar esquemas para incentivar mejores prácticas e innovaciones en materia de transparencia, acceso a la información pública, estado abierto y rendición de cuentas entre los Sujetos Obligados;
-
-XXII. Emitir y promover lineamientos para la difusión de información de interés público que tendrá por objeto, entre otros, buscar la reutilización de la información que generan los sujetos obligados, considerando la demanda e interés de la sociedad en la Ciudad de México.
-
-XXIII. Proponer al Pleno, las recomendaciones y observaciones preventivas para diseñar, implementar y evaluar acciones de Estado abierto que permitan orientar las políticas internas en la materia y fortalecer la rendición de cuentas;
-
-XXIV. Colaborar con las unidades administrativas del Instituto que correspondan, en el diseño y la promoción de las herramientas tecnológicas que permitan mejorar la calidad y utilidad de la información pública;
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
-
-XXV. Evaluar la efectividad de la Política de Transparencia Proactiva con base en los criterios emitidos por este Instituto, así como por el Sistema Nacional; y
-
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2020)</small>
-
-XXVI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que disponga el Pleno de (sic) Instituto
-
-###### Artículo 23.
-
-Son atribuciones de la Dirección de Vinculación y Proyección Estratégica:
-
-I. Elaborar e instrumentar estrategias que permitan una mayor participación de la sociedad civil, pueblos, barrios y colonias, representantes ciudadanos y vecinales, y público en general, en el ejercicio de los derechos de acceso a la información pública y protección de datos personales, considerados como derechos humanos, así como en las materias de transparencia, gobierno abierto, rendición de cuentas, teniendo en cuenta una perspectiva de igualdad de género y de atención a grupos vulnerables en la Ciudad de México;
-
-II. Proponer, impulsar y participar en la ejecución de acciones y programas conjuntos y coordinados de promoción, difusión y vinculación, en el ámbito de su competencia, con las alcaldías, el poder público de la Ciudad de México, los organismos constitucionales autónomos y demás sujetos obligados;
-
-III. Implementar estrategias para incentivar el ejercicio de los derechos de acceso a la información pública y de protección de datos personales entre grupos de atención prioritaria;
-
-IV. Organizar y participar en congresos, foros, seminarios, ferias, mesas de diálogo, concursos y cualquier evento de promoción y difusión del ejercicio de los derechos de acceso a la información pública y protección de datos personales;
-
-V. Diseñar y ejecutar las estrategias y los mecanismos a través de los cuales la población, especialmente la sociedad civil, pueblos, barrios y colonias, representantes ciudadanos y vecinales, y público en general, utilice el derecho de acceso a la información pública como herramienta de vigilancia y evaluación del desempeño de los Sujetos Obligados, así como en beneficio de sus comunidades de incidencia;
-
-VI. Coadyuvar, en el ámbito de su competencia, en las acciones de promoción y difusión que se impulsen a través del sistema nacional y local anticorrupción y de transparencia, así como con los órganos garantes de otras entidades federativas;
-
-VII. Promover el derecho de acceso a la información pública y el de protección de datos personales, así como la rendición de cuentas, mediante diversos mecanismos de divulgación, coordinación y colaboración interinstitucionales con el sector privado, social y público;
-
-VIII. Impulsar herramientas tecnológicas para difundir entre la población el ejercicio de los derechos de acceso a la información pública y protección de datos personales:
-
-IX. Diseñar, elaborar y proponer al Pleno del Instituto, mecanismos, estrategias y programas de promoción y difusión de los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto y rendición de cuentas; dirigidos a la ciudadanía en general, sus organizaciones y liderazgos;
-
-X. Impulsar con los organismos de la sociedad civil tareas para la promoción, el ejercicio, la apropiación, el fortalecimiento y la defensa de los derechos de acceso a la información pública y de protección de datos personales;
-
-XI. Establecer mecanismos de coordinación y colaboración con organismos de la sociedad civil;
-
-XII. Proponer y coadyuvar en el desarrollo de eventos de difusión de carácter local, nacional o internacional que el Pleno del Instituto determine, sobre temas de transparencia, rendición de cuentas, participación social en el tema de gobierno abierto, acceso a la información pública y protección de datos personales;
-
-XIII. Realizar las jornadas de promoción de los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto y rendición de cuentas, en colaboración y coordinación con las alcaldías y sectores específicos de la población;
-
-XIV. Proponer al Pleno, la suscripción de convenios de colaboración con los sectores público, social y privado para la promoción y difusión, de los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto y rendición de cuentas;
-
-XV. Conformar espacios colectivos de trabajo a través de redes ciudadanas amplias, permanentes e interactivas, en las que se planteen objetivos específicos para el análisis y difusión de la transparencia, la rendición de cuentas y el gobierno abierto;
-
-XVI. Diseñar y proponer al Pleno las acciones de participación social y ciudadana, que estimulen el intercambio de ideas entre la sociedad, los órganos de representación ciudadana y los Sujetos Obligados en el marco de la rendición de cuentas y Estado abierto;
-
-XIX. Promover e incentivar la transparencia proactiva en los Sujetos Obligados, para generar un conocimiento público útil y tener un mejor acceso a trámites, servicios, optimizando la toma de decisiones de autoridades y ciudadanos;
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
-
-XX. Promover acciones para fomentar que la información publicada por los Sujetos Obligados sea accesible y de manera focalizada a personas con discapacidad motriz, auditiva, visual, así como personas hablantes en diversas lenguas o idiomas reconocidos;
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
-
-XXI. Presentar al Pleno, de manera posterior a la aprobación del Programa Operativo Anual, el proyecto del Programa Editorial Anual del Instituto que el Comité Editorial desarrollará, así como coordinar su ejecución, difusión y distribución, con la participación y apoyo de la Dirección de Comunicación Social y de las unidades administrativas en sus respectivos ámbitos de competencia, en el que se deberá procurar que todas las publicaciones se desarrollen en formatos abiertos y accesibles; y
-
-XXII. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
-
-#### SECCIÓN III. DE LAS COMISIONADAS Y COMISIONADOS CIUDADANOS
-
-###### Artículo 24.
-
-Son atribuciones de la Dirección de Comunicación Social:
-
-I. Elaborar y proponer al Pleno, a través de la Comisionada Presidenta o del Comisionado Presidente, la Política de Comunicación Social del Instituto, así como en su caso, la correspondiente actualización;
-
-II. Elaborar, ejecutar y evaluar los programas y proyectos de comunicación social en materia de transparencia, rendición de cuentas, Estado abierto, acceso a la información, protección de datos personales, archivos, anticorrupción y cualquiera otra que sea competencia del Instituto conforme a la normatividad aplicable, que en su caso estén contenidos en el Programa Operativo Anual aprobado por el Pleno, así como en la Ley de Transparencia, la Ley de Datos Personales o alguna otra disposición que corresponda;
-
-III. Promover y atender las relaciones del Instituto con los medios de comunicación;
-
-IV. Planear y dirigir los mecanismos que permitan un permanente y efectivo flujo de información institucional;
-
-V. Dirigir la estrategia general de las campañas de difusión del Instituto encaminadas a promover el ejercicio del derecho de acceso a la información pública y de protección de datos personales, así como en su caso Estado abierto, rendición de cuentas, archivos y temáticas anticorrupción desde su participación como integrante en el sistema respectivo, entre los habitantes de la Ciudad de México;
-
-VI. Establecer los mecanismos para dar seguimiento al monitoreo y la cobertura de los medios de comunicación, respecto a los temas que competen al Instituto y elaborar reportes a partir de la información publicada en los medios de comunicación;
-
-VII. Posicionar al Instituto a través de ruedas de prensa, conferencias, foros, entrevistas y mediante las actividades institucionales que se realicen entre los medios de comunicación;
-
-VIII. Preparar oportunamente los mensajes a difundir por parte del Instituto entre los medios de comunicación;
-
-IX. Coadyuvar en las acciones para establecer un Programa de Cultura de la Transparencia y Rendición de Cuentas mediante mecanismos empáticos que resulten idóneos para el interés y entendimiento de las personas que habitan la Ciudad de México;
-
-X. Coadyuvar para la promoción e implementación de mecanismos para desarrollar una transparencia proactiva y de máxima publicidad.
-
-XI. Establecer contacto permanente con las unidades administrativas del Instituto, para informar oportunamente a la opinión pública sobre los proyectos y avances que registra el Instituto;
-
-XII. Apoyar, en el ámbito de su competencia, en la difusión y distribución de las publicaciones que genere el Instituto derivadas de su Programa Editorial anual, en versión impresa y electrónica, desarrolladas en formato abierto y accesible, en colaboración con las unidades administrativas que corresponda;
-
-XIII. Apoyar para el uso y aplicación de la Imagen Institucional, en el diseño de materiales de difusión para los medios impresos y electrónicos;
-
-XIV. Apoyar en el desarrollo de la identidad institucional gráfica de los eventos institucionales;
-
-XV. Incorporar el uso de tecnologías de información y comunicación en la difusión que el Instituto realiza respecto del derecho de acceso a la información pública y de protección de datos personales, así como de una cultura de transparencia, rendición de cuentas, Estado abierto, archivos y anticorrupción;
-
-XVI. Colaborar con las áreas de comunicación social externas, públicas o privadas, en tareas de información y difusión orientadas al conocimiento y ejercicio de los derechos que tutela el Instituto;
-
-XVII. Planear y ejecutar estrategias de comunicación interna para abonar al desarrollo organizacional y al cumplimiento de las funciones institucionales;
-
-XVIII. Resolver los requerimientos de diseño y producción de las diversas áreas del Instituto para el desarrollo de eventos institucionales,
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
-
-XIX. Administrar las cuentas institucionales de redes sociales;
-
-> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2020)</small>
-
-XX. Conducir la Secretaría Técnica del Comité Editorial, como órgano encargado de desarrollar el Programa Editorial Anual del Instituto, y
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
-
-XXI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
-
-###### Artículo 25.
-
-Son atribuciones de la Dirección de Datos Personales:
-
-I. Proponer al Pleno, previa asesoría de la Dirección de Asuntos Jurídicos, a través de la Comisionada Presidenta o del Comisionado Presidente, políticas, lineamientos y demás normatividad de observancia general que se considere necesaria para la tutela, tratamiento, seguridad y protección de los datos personales en posesión de los Sujetos Obligados, así como las modificaciones que resulten pertinentes;
-
-II. Proponer al Pleno, para su aprobación, los formatos de solicitudes de derechos ARCO, así como elaborar guías que faciliten el conocimiento de los procedimientos y trámites en la materia;
-
-III. Asesorar a los Sujetos Obligados respecto de la creación, modificación y supresión de los Sistemas de Datos Personales en posesión de los Sujetos Obligados; así como su inscripción, edición y borrado en el registro electrónico habilitado por el Instituto;
-
-IV. Requerir a los Sujetos Obligados los informes respecto al cumplimiento de sus obligaciones, en los términos de la Ley de Datos Personales, así como determinar el cumplimiento de dichas obligaciones;
-
-V. Evaluar el cumplimiento de los Sujetos Obligados respecto a sus obligaciones establecidas en la Ley de Datos Personales, y demás normatividad aplicable;
-
-VI. Formular y presentar al Pleno, por conducto de la Comisionada Presidenta o del Comisionado Presidente, los proyectos de acuerdo sobre observaciones y recomendaciones a los Sujetos Obligados, derivado del incumplimiento a la Ley de Datos Personales, así como de su seguimiento;
-
-VII. Realizar verificaciones a los Sujetos Obligados, a efecto de vigilar la observancia de los principios de la Ley de Datos Personales, y demás normatividad aplicable en la materia, así como elaborar los informes que correspondan, en virtud de lo establecido por los Lineamientos de la materia;
-
-VIII. Asesorar, acompañar y mantener la coordinación con los Sujetos Obligados, a efecto de fortalecer el cumplimiento de las obligaciones que les establece la Ley de Datos Personales, así como orientar a la población en general en la materia;
-
-IX. Promover mecanismos, en su caso, que permitan incentivar mejores prácticas e innovaciones en materia de Protección de Datos Personales entre los Sujetos Obligados;
-
-X. Dar seguimiento a las vistas a los órganos de control de los Sujetos Obligados, derivadas del incumplimiento a las obligaciones establecidas en la Ley de Datos Personales con excepción de aquellas que deriven de las resoluciones de los recursos de revisión y de los procedimientos de verificación establecidos en las fracciones I, II y III del artículo 112 de la Ley de Datos Personales;
-
-XI. Coadyuvar con las actividades y compromisos vinculados con los convenios, redes, conferencias, foros, seminarios y otros eventos en los que participe el Instituto en materia de Protección de Datos Personales;
-
-XII. Proponer la realización de seminarios, conferencias, talleres y otros eventos en materia de Protección de Datos Personales para la promoción de este derecho;
-
-XIII. Asesorar en los trabajos para la implementación de mejoras de los sistemas de datos personales del Instituto y el cumplimiento de las obligaciones de este como Sujeto Obligado de la Ley de Datos Personales;
-
-XIV. Asesorar y dar seguimiento a las actividades que el Instituto lleve a cabo para dar cumplimiento a sus obligaciones en materia de Protección de Datos Personales;
-
-XV. Colaborar con las Ponencias de las Comisionadas y los Comisionados Ciudadanos, y con la Dirección de Asuntos Jurídicos en el ámbito de sus competencias, en la conciliación de los intereses de los particulares, con los Sujetos Obligados cuando exista algún conflicto en la interpretación y aplicación de la Ley de Datos Personales, o en la emisión de opiniones técnicas;
-
-XVI. Auxiliar a la Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas en el diseño de la capacitación de manera focalizada en materia de Protección de Datos Personales a los Sujetos Obligados;
-
-XVII. Coadyuvar con las Comisionadas y los Comisionados Ciudadanos en la emisión de opiniones para la atención de los recursos de revisión en materia de Datos Personales;
-
-XVIII. Formular los dictámenes que serán la base de las resoluciones que se emitan dentro del procedimiento de verificación establecido en las fracciones I, II y III del artículo 112 de la Ley de Datos Personales, para lo cual podrá realizar las diligencias necesarias;
-
-XIX. Proponer al Pleno del Instituto, a través de la Comisionada Presidenta o el Comisionado Presidente, la actualización del padrón de Sujetos Obligados a las disposiciones establecidas en la Ley de Datos Personales;
-
-XX. Coadyuvar en el cumplimiento de las resoluciones aprobadas por el Pleno, derivadas de la práctica de las verificaciones, en relación con las obligaciones establecidas en la Ley de Datos Personales, y demás normatividad aplicable;
-
-XXI. Elaborar y aplicar indicadores sobre la evolución del ejercicio de los derechos ARCO;
-
-XXII. Realizar análisis y estudios para difundir el conocimiento de la Ley de Datos Personales, así como para medir el desarrollo e impacto del ejercicio del derecho de protección de datos; y
-
-XXIII. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
-
-###### Artículo 26.
-
-Son atribuciones de la Dirección de Tecnologías de la Información:
-
-I. Proponer al Pleno a través de la Comisionada Presidenta o del Comisionado Presidente las políticas para el uso y operación de la infraestructura de tecnologías de información y comunicaciones del Instituto, y supervisar su ejecución;
-
-II. Proponer al Pleno a través de la Comisionada Presidenta o del Comisionado Presidente los programas estratégicos en materia de tecnologías de información y comunicación, a fin de contar con soluciones que permitan garantizar la operación de los sistemas implantados;
-
-III. Coordinar los trabajos de interconexión entre la infraestructura tecnológica del Instituto y la Plataforma Nacional para la gestión de las solicitudes de acceso a la información pública, así como de los derechos ARCO, gestión de medios de impugnación y resolución a recursos de revisión, y la publicación de las obligaciones de transparencia correspondientes a los Sujetos Obligados de la Ciudad de México; así como, en lo que se refiere a otras plataformas tecnológicas que deriven de los sistemas o instancias en las que participe el Instituto;
-
-IV. Coadyuvar en las tareas de capacitación y asesoría técnica a las unidades de transparencia de los Sujetos Obligados para el uso de los módulos de la Plataforma Nacional, en coordinación con las áreas del Instituto responsables de la capacitación en la gestión de solicitudes de información pública, protección de datos personales y medios de impugnación, así como de la resolución a los recursos de revisión y la evaluación del cumplimiento de las obligaciones de transparencia de los Sujetos Obligados;
-
-V. Supervisar el funcionamiento y operación de los sistemas electrónicos en su interconexión con la infraestructura tecnológica del Instituto, a fin de mantener la continuidad de los sistemas y brindar soporte técnico a los Sujetos Obligados y usuarios que lo requieran;
-
-VI. Dirigir la capacitación y asesoría en el uso y aprovechamiento de los recursos informáticos institucionales al personal de las diversas áreas que integran el Instituto, para elevar los niveles de eficiencia y eficacia y que a su vez favorezca la reducción de costos de operación;
-
-VII. Brindar los servicios informáticos y de telecomunicaciones que requiera el Instituto, así como asesoría y soporte técnico en materia de comunicaciones a las diferentes unidades administrativas del mismo;
-
-VIII. Dirigir y supervisar las medidas de seguridad en las redes a fin de garantizar la integridad de la información;
-
-IX. Supervisar y actualizar las soluciones informáticas implantadas en los portales y sistemas de información institucionales, así como de los bienes informáticos y programas de cómputo para contar con tecnología y software actualizado que brinde los servicios requeridos;
-
-X. Coordinar y supervisar la elaboración de los manuales de los sistemas desarrollados para el mantenimiento y actualización de los mismos, así como los manuales de usuario para consulta y soporte de la operación cotidiana;
-
-XI. Apoyar a las unidades administrativas del Instituto en la planeación, desarrollo e implementación de herramientas y mecanismos electrónicos para hacer accesible la información generada por el Instituto;
-
-XII. Brindar asesoría en materia informática para la sistematización de la información que detentan los Sujetos Obligados;
-
-XIII. Coadyuvar con los Sujetos Obligados en el diseño, desarrollo, implementación y seguimiento de las políticas de Estado abierto, transparencia proactiva, rendición de cuentas, la sistematización de archivos, protección de datos personales y derecho de acceso a la información;
-
-XIV. Brindar los servicios de consultoría que pudieran requerirse para la planeación, desarrollo e implementación de herramientas informáticas encaminadas al Estado abierto, la transparencia proactiva, la rendición de cuentas, la protección de datos personales, el derecho de acceso a la información y la sistematización de archivos por parte de los Sujetos Obligados y la sociedad civil;
-
-XV. Participar, en coordinación con las unidades administrativas correspondientes, en la organización de seminarios, mesas de trabajo, cursos, talleres y demás actividades que promuevan el Estado abierto, la transparencia proactiva, la rendición de cuentas, la gestión de archivos y los derechos a la protección de datos personales y de acceso a la información en la Ciudad de México;
-
-XVI. Coadyuvar, en coordinación con las unidades administrativas correspondientes, en la elaboración y publicación de artículos, estadísticas y estudios para difundir el conocimiento y las buenas prácticas en materia de gobierno abierto, transparencia proactiva, rendición de cuentas, protección de datos personales y derecho de acceso a la información, en el ámbito de su competencia;
-
-XVII. Brindar de manera exclusiva los servicios de consultoría que pudieran requerirse para la planeación, desarrollo e implementación de herramientas informáticas encaminadas a procurar la accesibilidad a la información pública en internet para las personas con discapacidad motriz, auditiva, visual, y aquéllas hablantes en diversas lenguas o idiomas reconocidos.
-
-XVIIII. Apoyar en las tareas de coordinación, comunicación y difusión de los integrantes del Consejo Consultivo Ciudadano con los sistemas o instancias de la que forme parte el Instituto;
-
-XIX. Participar, en el ámbito de su competencia y como representante del Instituto, en las comisiones que se le requiera;
-
-XX. Fungir como responsable de los sistemas de datos personales a cargo de la Dirección de Tecnologías de la Información;
-
-XXI. Designar al, o los, encargados del tratamiento de los sistemas de datos personales de la unidad administrativa a su cargo;
-
-XXII. Coadyuvar con cada uno de los Sujetos Obligados en la propuesta de inserción de los medios informáticos, así como la aplicación de las diversas estrategias en materia de tecnología de la información, para crear un acervo documental electrónico para su acceso directo en los portales de Internet;
-
-XXIII. Presentar informes en el ámbito de su competencia, cuando así lo solicite la Comisionada Presidenta o el Comisionado Presidente; y
-
-XXIV. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
-
-#### SECCIÓN IV. DE LA SECRETARÍA TÉCNICA
-
-###### Artículo 27.
-
-Son atribuciones de la Dirección de Administración y Finanzas:
-
-I. Administrar los recursos humanos, financieros y materiales del Instituto;
-
-II. Administrar los sistemas de presupuesto, contabilidad, tesorería, nómina y finanzas del Instituto;
-
-III. Proponer al Pleno, por conducto de la Comisionada Presidenta o del Comisionado Presidente y previa revisión de la Dirección de Asuntos Jurídicos, los ajustes y actualizaciones al marco normativo que rige la operación en materia de recursos humanos, financieros y materiales, así como en lo relativo a la contabilidad y servicios generales;
-
-IV. Aplicar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales, así como para la prestación de servicios generales en el Instituto;
-
-V. Definir, instrumentar y supervisar la operación de los programas de servicio social y prácticas profesionales en el Instituto, de acuerdo con el marco normativo aplicable;
-
-VI. Conducir las relaciones contractuales de los trabajadores del Instituto, así como los mecanismos para la selección y contratación del personal, mediante la aplicación de la Política Laboral emitida por el Pleno;
-
-VII. Apoyar en la conducción del Servicio Profesional de Transparencia de Carrera que apruebe el Pleno, en coordinación con las unidades administrativas del Instituto;
-
-VIII. Elaborar el anteproyecto de presupuesto, con el apoyo de las unidades administrativas, y participar en la integración del proyecto de Programa Operativo Anual del Instituto;
-
-IX. Realizar las gestiones necesarias ante las autoridades competentes en materia de recursos humanos, financieros y materiales;
-
-X. Integrar el programa anual de adquisiciones, arrendamientos y prestación de servicios, y de obra pública, así como presidir el Comité correspondiente;
-
-XI. Operar el sistema para el ejercicio y control del presupuesto asignado;
-
-XII. Actualizar la información contable, presupuestal y los estados financieros del Instituto, así como informar del resultado del dictamen de estos últimos a las Comisionadas y los Comisionados Ciudadanos, a través de la Comisionada Presidenta o del Comisionado Presidente;
-
-XIII. Proponer a la Comisionada Presidenta o al Comisionado Presidente, para su autorización, las afectaciones presupuestales que se requieran, así como aquellas que deberán de ser sometidas al Pleno para su aprobación;
-
-XIV. Cubrir las remuneraciones y prestaciones del personal del Instituto;
-
-XV. Supervisar los procedimientos relativos a las adquisiciones, arrendamientos, obras públicas y contratación de servicios, así como administrar los servicios generales del Instituto, proponiendo las bases de contratación de los mismos;
-
-XVI. Suscribir contratos en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública o cualquiera otra competencia de este Instituto, previa delegación que realice la Comisionada Presidenta o el Comisionado Presidente;
-
-XVII. Cumplir con todas las normas y disposiciones legales a las que el Instituto se encuentre obligado en materia presupuestal y financiera, de recursos humanos y de recursos materiales, así como fiscal;
-
-XVIII. Administrar los bienes muebles e inmuebles patrimonio del Instituto, así como establecer los mecanismos para su resguardo, custodia, almacenaje y, en su caso, desincorporación, y registrar contablemente los movimientos de altas y bajas, en términos de las disposiciones legales aplicables;
-
-XIX. Implementar programas de mantenimiento a las instalaciones del Instituto, así como el Programa de Protección Civil, previo acuerdo con la Comisionada Presidenta o el Comisionado Presidente;
-
-XX. Elaborar conjuntamente con las diversas unidades administrativas, los proyectos del manual de organización, procedimientos y sus actualizaciones respectivas;
-
-XXI. Establecer mecanismos de control del activo fijo, así como programas de aseguramiento del patrimonio del Instituto;
-
-XXII. Presidir el Comité de Bienes Muebles del Instituto en los términos establecidos en la normatividad en la materia;
-
-XXIII. En ausencia de la Comisionada Presidenta o del Comisionado Presidente, autorizar el nombramiento de los servidores públicos del Instituto, a excepción del personal de apoyo (sic) cargo de las Comisionadas y los Comisionados Ciudadanos y los titulares o encargados de despacho de las unidades administrativas, a propuesta de los titulares de las unidades administrativas que integran el Instituto;
-
-XXIV. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
-
-###### Artículo 28.
-
-Procede la recusación de alguno de los Comisionados Ciudadanos, por actualizarse alguno de los supuestos establecidos en el artículo 75 de la Ley de Transparencia.
-
-###### Artículo 29.
-
-La recusación podrá ser interpuesta por cualquiera de las partes hasta antes del cierre de instrucción de los procedimientos administrativos que resuelva el Pleno.
-
-###### Artículo 30.
-
-La recusación se presentará por escrito ante el Instituto, mismo que deberá cumplir con los siguientes requisitos:
-
-I. Estar dirigido al Instituto;
-
-II. Señalar número de expediente en el que se promueve la recusación
-
-III. Indicar el nombre completo del promovente, así como el domicilio o correo electrónico para oír y recibir notificaciones; y
-
-IV. Precisar las causas de forma fundada y motivada de la recusación del Comisionado Ciudadano, acompañando las pruebas que, en su caso, considere pertinentes.
-
-###### Artículo 31.
-
-Recibida la recusación, la Dirección de Asuntos Jurídicos lo substanciará en los siguientes términos:
-
-I. Se analizará el escrito inicial, así como las pruebas correspondientes a más tardar dentro de los tres días hábiles siguientes a la recepción del escrito, y si reúne los requisitos previstos en el artículo anterior, se emitirá acuerdo en el que se admitirá a trámite decretando la suspensión de los plazos previstos para resolver, los cuales se reanudarán al día siguiente en que se notifique la resolución de la recusación.
-
-En caso de que el escrito no sea claro, se prevendrá a la parte que interpuso la recusación, para que, en un plazo de tres días hábiles, contados a partir de que surta la notificación de dicho acuerdo, aclare los fundamentos y motivos de la misma.
-
-En caso de que no sea desahogada la prevención, no se desahogue en sus términos o que del desahogo resulte improcedente la tramitación de la recusación en los términos previstos en la Ley de Transparencia y la Ley de Datos Personales, el presente Reglamento y demás normatividad aplicable, dicha recusación será desechada;
-
-II. En el acuerdo de admisión se resolverá lo correspondiente respecto del ofrecimiento de pruebas y se ordenará se dé vista a la Comisionada o al Comisionado Ciudadano en contra de quien se promueve la recusación, para que en el término de tres días hábiles manifieste lo que a su derecho convenga, con relación a los argumentos aducidos por el promovente;
-
-III. Desahogada la vista ordenada en la fracción anterior, se procederá al desahogo de las pruebas admitidas y en un término de cinco días hábiles, contados a partir del cierre de la instrucción, la Dirección de Asuntos Jurídicos elaborará el proyecto de resolución, el cual se someterá a la consideración del Pleno, por conducto de su Secretaría Técnica;
-
-En caso de no rendirse el informe a que se refiere el párrafo primero, se declarará fundada la causa de recusación.
-
-La Comisionada o el Comisionado Ciudadano en contra de quien se promovió la recusación, no podrá emitir voz ni voto al momento de resolver en la sesión del Pleno, sobre dicha recusación.
-
-IV. Aprobada la resolución por el Pleno de este Instituto, se procederá a su engrose y firma; una vez hecho lo anterior, se notificará dentro de los tres días hábiles siguientes, al recurrente y al Comisionado correspondiente;
-
-V. Contra la resolución que al efecto emita el Pleno, no procederá recurso alguno.
-
-VI. Notificada la resolución, se acordará lo conducente y se reanudará el procedimiento en el que fue promovida la recusación; y
-
-###### Artículo 32.
-
-Las ausencias temporales del Comisionado Presidente se sujetarán a lo establecido en el artículo 70 de la Ley de Transparencia.
-
-###### Artículo 33.
-
-Las ausencias de los titulares de la Secretaría Técnica y de la Secretaria Ejecutiva, serán cubiertas por el servidor público que la Comisionada Presidenta o el Comisionado Presidente designe.
-
-Para el caso de la ausencia de los titulares de las unidades administrativas y del titular del Órgano Interno de Control, éstas serán suplidas por el servidor público inmediato inferior del ausente en la materia de que se trate y así sucesivamente hasta el nivel de Jefe de Departamento del área respectiva.
-
-###### Artículo 34.
-
-En caso de ausencia definitiva de alguna o alguno de las Comisionadas o de los Comisionados Ciudadanos, se dará aviso al Poder Legislativo de la Ciudad de México, conforme a lo establecido en el artículo 74 de la Ley de Transparencia.
-
-###### Artículo 35.
-
-En caso de ausencia temporal injustificada por un término mayor a tres días hábiles consecutivos de alguna Comisionada o Comisionado Ciudadano, la Comisionada Presidenta o el Comisionado Presidente lo hará del conocimiento del Pleno para que éste tome las providencias que considere pertinentes.
-
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2023)</small>
-
-###### Artículo 36.
-
-Las Comisionadas Ciudadanas y los Comisionados Ciudadanos, podrán gozar de licencias con goce de sueldo en los siguientes casos:
-
-l. Por enfermedad, durante el periodo otorgado por (sic) Instituto de Seguridad Social y Servicios Sociales de los Trabajadores del Estado.
-
-II. Por maternidad o paternidad, durante seis semanas anteriores y seis semanas posteriores al parto. La licencia de maternidad deberá tramitarse ante el Instituto de Seguridad Social y Servicios Sociales de los Trabajadores del Estado, una vez emitida se dará aviso al Pleno. La licencia de paternidad será otorgada por el Pleno del Instituto, con base en análisis médicos que asienten las semanas de embarazo.
-
-III. Para el caso de las licencias de maternidad o paternidad la duración de ésta podrá extenderse en aquellos casos, que la normativa de la Ley Federal de los Trabajadores al Servicio del Estado sea más benéfica.
-
-IV. Por maternidad o paternidad por adopción, durante las seis semanas posteriores a la formalización del trámite de adopción del menor.
-
-V. Por maternidad fallecimiento de ascendientes, descendientes, colaterales por consanguineidad en primer grado, cónyuges, concubina o concubinario y por afinidad en matrimonio igualitario. Dicha licencia tendrá una duración de cinco días hábiles, y deberá comprobarse con copia del certificado de defunción o copia certificada del acta de defunción.
-
-VI. Por necesidad de cuidados a ascendientes, descendientes, cónyuges, concubina o concubinario y por afinidad en matrimonio igualitario, por un máximo de quince días naturales, acreditándose la hospitalización de los parientes o con dictamen médico.
-
-Las Comisionadas Ciudadanas y los Comisionados Ciudadanos, podrán gozar licencias sin goce de sueldo, previa aprobación del Pleno de este Órgano Garante, hasta por un periodo de seis meses consecutivos. Para ello la Comisionada Ciudadana o el Comisionado Ciudadano, remitirán la documentación necesaria que acredite el motivo de la Licencia para que sus pares estén en facultad de aprobarla.
-
-[…]
-
-En aquellos casos en que las Comisionadas Ciudadanas y los Comisionados Ciudadanos gocen de licencia con una duración mayor a cinco días hábiles, la substanciación de los asuntos que se encuentren radicados en la ponencia correspondiente, se realizará de la siguiente manera:
-
-1. El turno de los recursos de revisión y las denuncias se realizará a la totalidad de las Ponencias de las Comisionadas Ciudadanas y los Comisionados Ciudadanos.
-
-2. Los asuntos que se encuentran siendo sustanciados, así como lo nuevos que les sean turnados a la Ponencia de la Comisionada Ciudadana o el Comisionado Ciudadano que goce de licencia seguirán siendo tramitádos por dicha Ponencia.
-
-3. Las resoluciones de la Comisionada Ciudadana o el Comisionado Ciudadano que goce de licencia serán presentadas ante el Pleno del Instituto para su respectiva votación, por la Comisionada Ciudadana o el Comisionado Ciudadano que le siga alfabéticamente y en caso de que ésta no coincida con el criterio sostenido por el o la ponente, se continuará con quien le siga en orden alfabético hasta encontrar criterios coincidentes.
-
-En caso de que no hubiese criterios coincidentes, será turnado a la persona comisionada ciudadana que le sigue.
-
-4. Que los asuntos que hiciera suyos la persona Comisionada Ciudadana que por turno corresponda, que sean susceptibles de cumplimiento serán verificados por el personal que integra la Ponencia de la persona Comisionada que esté haciendo uso de la licencia.
-
-###### Artículo 37.
-
-Es atribución del Pleno del Instituto aprobar las modificaciones al presente Reglamento, de conformidad con lo siguiente:
-
-I. Cualquiera de las Comisionadas o de los Comisionados Ciudadanos podrá presentar propuestas de reformas ante el Pleno del Instituto;
-
-II. El Pleno del Instituto determinará lo conducente ya sea rechazando, aprobando o modificando la propuesta de reforma planteada; y
-
-III. Al momento de que el Pleno del Instituto apruebe la adición, modificación, derogación o abrogación que se indica, éstas entran en vigor, y se ordenará su publicación en la Gaceta Oficial de la Ciudad de México para los efectos correspondientes.
-
-## TRANSITORIOS
-
-PRIMERO. El presente Reglamento entrará en vigor el día de su aprobación por el Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México.
-
-SEGUNDO. Para su mayor difusión publíquese en la Gaceta Oficial de la Ciudad de México y en el Portal de Internet de este Instituto.
-
-TERCERO. Se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México, el 22 de mayo de 2017 y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Reglamento.
-
-CUARTO. Los procedimientos en trámite ante este Instituto, iniciados con anterioridad a la entrada en vigor del presente Reglamento, serán tramitados y resueltos conforme al Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México, el 22 de mayo de 2017.
-
-QUINTO. La Dirección de Asuntos Jurídicos, continuará con el trámite y la resolución de los procedimientos jurídicos, conforme al Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México, el 22 de mayo de 2017, hasta en tanto el Instituto opere conforme a la estructura de Ponencias, momento en el cual la Secretaría Técnica returnará los asuntos pendientes de resolución a éstas, para la sustanciación y resolución correspondiente.
-
-SEXTO. A partir de la fecha de entrada en vigor del presente Reglamento Interior, todas las referencias que se realicen en los ordenamientos jurídicos, así como cualquier acto relacionado con la Dirección de Capacitación y Cultura de la Transparencia, la Dirección de Evaluación, Estudios y Gobierno Abierto, la Dirección de Vinculación con la Sociedad, se entenderán hechas a su Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas, la Dirección de Estado Abierto, Estudios y Evaluación y la Dirección de Vinculación y Proyección Estratégica, respectivamente.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-G.O. 18 DE MAYO DE 2020.
-
-## [N. DE E. TRANSITORIO DEL "AVISO POR EL QUE SE DA A CONOCER EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COMITÉ EDITORIAL".]
-
-ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 16 DE OCTUBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO".]
-
-PRIMERO. Derivado de la conclusión del encargo de la Comisionada Ciudadana Mtra. Elsa Bibiana Peralta Hernández el próximo diez de noviembre de dos mil veinte, el seguimiento al cumplimiento de las resoluciones a su cargo lo realizará la Dirección de Asuntos Jurídicos, hasta concluir con la totalidad de los mismos. Cuando el Congreso de la Ciudad de México nombre a una nueva persona Comisionada e inicie funciones relacionadas con la presentación de proyectos de resolución ante el Pleno del Instituto, le serán turnados los cumplimientos de las resoluciones que presente ante el Pleno, en los términos establecidos en el Reglamento Interior del Instituto y de conformidad con lo dispuesto en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y demás normativa aplicable para este órgano garante.
-
-SEGUNDO. Se instruye a la Dirección de Administración y Finanzas para que, en términos del artículo 27, fracción I, del Reglamento Interior del Instituto, una vez concluidos la totalidad de los asuntos en vía de cumplimiento que tenga a cargo la Dirección de Asuntos Jurídicos, se realicen las adecuaciones a la estructura orgánica del Instituto, y se trasladen las plazas relacionadas con el departamento de cumplimiento a las ponencias, en igual número y con el mismo nivel, para el apoyo de dicha función, situación que deberá estar reflejada en el Programa Operativo Anual correspondiente al ejercicio 2021, precisando, en su caso, que se materializará cuando la Dirección de Asuntos Jurídicos concluya con los asuntos en vía de cumplimiento.
-
-En su momento, verificar la pertinencia de incorporar nuevas plazas a la estructura orgánica de las ponencias para atender las atribuciones en materia de cumplimientos, de acuerdo a la suficiencia presupuestaria del siguiente ejercicio y de conformidad con la normativa aplicable, mismos que deberán ser sometidos a votación en el anteproyecto del Programa Operativo Anual correspondiente al ejercicio 2021, el cual tiene como fecha límite el treinta y uno de marzo del año referido.
-
-> <small>[N. DE E. SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
-
-AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA FACULTAD DE LAS COMISIONADAS Y LOS COMISIONADOS, A TRAVÉS DE LAS RESPECTIVAS PONENCIAS, PARA DAR SEGUIMIENTO AL CUMPLIMIENTO DE LAS RESOLUCIONES QUE EMITA EL PLENO.
-
-Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, relativas a la facultad de las Comisionadas y los Comisionados, a través de las respectivas ponencias, para dar seguimiento al cumplimiento de las resoluciones que emita el Pleno, puede ser consultado en la siguiente dirección electrónica: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf.
-
-Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII, del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
-
-## TRANSITORIO
-
-ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 19 DE NOVIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO".]
-
-PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el medio oficial respectivo.
-
-SEGUNDO. Publíquese para mayor difusión en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO. La Dirección de Asuntos Jurídicos del Instituto, continuará con el trámite de los asuntos en vía de cumplimiento de las resoluciones que hasta la aprobación del presente Acuerdo se hayan resuelto los cuales deberá (sic) concluir su procedimiento hasta su archivo correspondiente, conforme a las facultades y atribuciones que le fueron conferidas en el Reglamento Interior, Ley de Transparencia, Ley de Datos y demás normatividad aplicable para la Ciudad de México.
-
-> <small>[N. DE E. SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
-
-AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO POR EL QUE SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO.
-
-Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo por el que se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, puede ser consultado en la siguiente dirección electrónica: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf.
-
-Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
-
-## TRANSITORIO
-
-ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 28 DE ABRIL DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA FACULTAD DEL ÓRGANO INTERNO DE CONTROL”.]
-
-PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. Una vez que el Sistema Anticorrupción de la Ciudad de México emita los lineamientos que establece el artículo 16 de la Ley de Responsabilidades Administrativas de la Ciudad de México, el Órgano Interno de Control del Instituto tendrá un plazo de sesenta días hábiles para adecuar dicho Código conforme a los lineamientos que se publiquen en la Gaceta Oficial de la Ciudad de México.
-
-TERCERO. Publíquese para mayor difusión en la Gaceta Oficial de la Ciudad de México.
-
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRASCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
-
-AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA FACULTAD DEL ÓRGANO INTERNO DE CONTROL.
-
-Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, relativas a la facultad del Órgano Interno de Control, puede ser consultado en la siguiente dirección electrónica: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf.
-
-Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
-
-## TRANSITORIO
-
-ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 15 DE FEBRERO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES REFERENTES AL OTORGAMIENTO DE LICENCIAS TANTO EN EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, ASÍ COMO EN LA POLÍTICA LABORAL DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”.]
-
-PRIMERO. El presente acuerdo y reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. Se instruye a la Dirección de Administración y Finanzas para que, en el ámbito de su competencia, realice las adecuaciones conducentes a la normativa interna aplicable en el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México.
-
-TERCERO. Se instruye a la Secretaría Técnica para que, en el ámbito de sus atribuciones, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en la Gaceta Oficial de la Ciudad de México, así como en el portal de Internet del Instituto.
-
-QUINTO (SIC). Conforme a lo dispuesto en los artículos 10, 37, 38, 61 a 64 y 65 fracción X, de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México; 8 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México; 9, 10, 12, fracciones I, II y XV del Reglamento Interior del Instituto y demás disposiciones aplicables, en todo lo no previsto en el presente Acuerdo se estará a lo que determine el Pleno de este Órgano Garante.
-
-> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
-
-AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES REFERENTES AL OTORGAMIENTO DE LICENCIAS TANTO EN EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, ASÍ COMO EN LA POLÍTICA LABORAL DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO.
-
-Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones referentes al otorgamiento de licencias tanto en el Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, así como en la Política Laboral del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, puede ser consultado en la siguiente dirección electrónica:
-
-https://documentos.infocdmx.org.mx/acuerdos/2023/A121Fr01_2023-T01_Acdo-2022-01-02-0349.pdf
-
-Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 55-56-36-21-20 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
-
-## TRANSITORIO
-
-ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
-
-G.O. 19 DE JUNIO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, PARA LA CREACIÓN DEL CENTRO DE CAPACITACIÓN E INVESTIGACIÓN DE TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES CECITYP".]
-
-PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO. Se transfiere íntegramente la estructura, personal, disponibilidad presupuestaria, derechos y obligaciones de la extinta Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas del INFOCDMX al Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales, reconociéndose la validez de todos los actos y documentos realizados por dicha Dirección.
-
-TERCERO. La persona que ocupe la titularidad de la Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas al momento de la aprobación y entrada en vigor del presente Acuerdo, será quien ocupe la titularidad del Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales.
-
-CUARTO. El Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales, deberá presentar al Pleno del INFO CDMX, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Acuerdo, el proyecto de Reglamento Interno del Centro de Estudios e Investigación en Acceso a la Información Pública, Protección de Datos Personales, Cultura de la Transparencia, Rendición de Cuentas y Anticorrupción, CEICDMX; mismo que deberá ser sometido a discusión y en su caso, aprobación por parte del Pleno de este Instituto.
-
-QUINTO. Se instruye a la Secretaría Técnica para que, en el ámbito de sus atribuciones, realice las gestiones necesarias a efecto que el presente Acuerdo se publique en la Gaceta Oficial de la Ciudad de México, así como en el portal de Internet del Instituto.
-
-SEXTO. Se instruye a la Dirección de Administración y Finanzas, para que, en el ámbito de sus atribuciones realice las gestiones administrativas que así correspondan.
-
-SÉPTIMO. Conforme a lo dispuesto por los artículos 10, 37, 38, 61 a 64 y 65, fracción X, de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México; 8 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México; 9, 10, 12, fracciones I, II y XV del Reglamento Interior del Instituto y demás disposiciones aplicables, en todo lo no previsto en el presente Acuerdo se estará a lo que determine el Pleno de este Órgano Garante.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
