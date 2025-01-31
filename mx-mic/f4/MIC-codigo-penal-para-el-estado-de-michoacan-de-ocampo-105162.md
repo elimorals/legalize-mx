@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2024-11-27"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -238,8 +238,6 @@ Las acciones y omisiones culposas sólo serán punibles en los casos expresament
 ###### Artículo 22.
 
 Tentativa punible
-
-Únicamente es punible el delito cometido en grado de tentativa acabada que haya puesto en peligro al bien jurídico tutelado.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
@@ -4197,7 +4195,9 @@ Se impondrán de dos a cinco años de prisión y de doscientos a quinientos día
 
 Delitos contra el ambiente.
 
-Se impondrá pena de seis meses a nueve años de prisión y de cien a tres mil días multa, siempre que dichas actividades no se realicen en zonas urbanas, al que ilícitamente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2025)</small>
+
+Se impondrá pena de cinco a doce años de prisión y de quinientos a tres mil días multa, siempre que dichas actividades no se realicen en zonas urbanas, al que ilícitamente;
 
 I. Desmonte o destruya la vegetación natural;
 
@@ -4241,7 +4241,9 @@ III. De uno a cuatro años de prisión y de doscientos a dos mil días multa, si
 
 Delitos forestales específicos.
 
-Se impondrá de dos a nueve años de prisión y de cincuenta a quinientos días multa, al que dolosamente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2025)</small>
+
+Se impondrá de cinco a doce años de prisión y de cien a mil días multa, al que dolosamente:
 
 I. Exceda el aprovechamiento forestal respecto del volumen autorizado en más de uno por ciento;
 
@@ -4797,7 +4799,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 17 DE FEBRERO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE "SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE “SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -4864,3 +4866,11 @@ P.O. 27 DE NOVIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Los procedimientos penales que correspondan a las conductas típicas derogadas o modificadas en virtud del presente decreto, cometidas con anterioridad a la entrada en vigor del mismo, se sustanciarán conforme a las disposiciones vigentes al momento en que se cometieron. En el caso del delito de estupro, los jueces y magistrados deberán hacer en cada caso concreto, la traslación del tipo penal y la adecuación de la pena, de acuerdo a la conducta cometida, sin agraviar las sanciones que pudieran imponérsele conforme al tipo penal derogado.
+
+P.O. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 139.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 27, 98, 150, 154, 155, 156, Y LAS FRACCIONES II Y III DEL ARTÍCULO 160; Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 160; TODOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV Y VII DEL ARTÍCULO 2º, LA FRACCIÓN XXVII DEL ARTÍCULO 8°, LAS FRACCIONES III, XII, XV Y XVI DEL ARTÍCULO 14, LA FRACCIÓN XIII DEL ARTÍCULO 19, EL ARTÍCULO 63, EL PRIMER PÁRRAFO DEL ARTÍCULO 72, LA FRACCIÓN III DEL ARTÍCULO 73, LAS FRACCIONES V Y VI DEL ARTÍCULO 168, LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO SEXTO, EL ARTÍCULO 198, EL ARTÍCULO 201, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 236; SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 38; Y, SE ADICIONAN LA FRACCIÓN XVII AL ARTÍCULO 14, LA FRACCIÓN VII AL ARTÍCULO 168, Y EL ARTÍCULO 201 BIS, TODOS DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 302 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 304, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo, para su publicación y efectos legales que haya a lugar.
