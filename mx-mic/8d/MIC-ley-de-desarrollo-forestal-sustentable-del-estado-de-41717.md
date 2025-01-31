@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-forestal-sustentable-del-estado-de-41717"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-22"
-last_updated: "2022-12-02"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 22 de noviembre de 2004.
 
@@ -539,9 +539,11 @@ El Titular del Poder Ejecutivo Estatal incorporará en sus informes anuales que 
 
 #### SECCIÓN 2. DEL SISTEMA ESTATAL DE INFORMACIÓN FORESTAL
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 27.
 
-El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sustentable y la cual deberá estar disponible al público para su consulta.
+El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sustentable, para esto podrá generar, consultar y obtener información por cualquier medio, incluidos los tecnológicos, sistemas de percepción remota, teledetección, fotografía satelital y geolocalización, con la finalidad de que pueda estar disponible al público para su consulta.
 
 ###### Artículo 28.
 
@@ -1107,9 +1109,11 @@ Los titulares de aprovechamientos forestales maderables y los productores de los
 
 Al término de la anualidad, el titular de la autorización junto con el prestador de servicios técnicos, deberá rendir un informe del aprovechamiento realizado, citando relaciones de marqueo, documentación de transporte utilizada, en cumplimiento de las condicionantes establecidas en la autorización y demás información que la Comisión considere conveniente recabar.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 98.
 
-Todas las personas físicas o morales que se dediquen a la transformación o almacenamiento de productos forestales maderables y no maderables, deberán llevar un libro de registro previamente autorizado por la Comisión, cuyas especificaciones serán determinadas en el Reglamento de esta Ley.
+Todas las personas físicas o morales que se dediquen a la transformación de materias primas forestales o almacenamiento de productos forestales maderables y no maderables, deberán llevar un libro de registro previamente autorizado por la Comisión, cuyas especificaciones serán determinadas en el Reglamento de esta Ley.
 
 ###### Artículo 99.
 
@@ -1493,9 +1497,11 @@ El personal autorizado al iniciar la inspección, se identificará debidamente c
 
 En caso de negativa, o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, debiendo constar esta situación en el acta administrativa que se levante, sin que esta circunstancia pueda invalidar los efectos de la inspección.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 150.
 
-Se llevará a cabo la diligencia de inspección con el propietario, o el representante legal, o el encargado o con la persona que se encuentre en el centro de almacenamiento o transformación forestales; en caso de no encontrarse alguna de las personas señaladas, se fijará en lugar visible o se dejará con la persona que esté presente, un citatorio para hora determinada dentro de las veinticuatro horas siguientes y entonces se levantará el acta de inspección con la persona que se encuentre en ese momento en dicho establecimiento.
+Se llevará a cabo la diligencia de inspección con el propietario, el representante legal, el encargado o con la persona que se encuentre en el centro de almacenamiento o transformación forestal, transporte o predio; en caso de no encontrarse alguna de las personas señaladas, se fijará en lugar visible o se dejará con la persona que esté presente, un citatorio para hora determinada dentro de las veinticuatro horas siguientes y entonces se levantará el acta de inspección con la persona que se encuentre en ese momento en dicho establecimiento.
 
 ###### Artículo 151.
 
@@ -1521,19 +1527,25 @@ La información deberá mantenerse por la autoridad en absoluta reserva, si así
 
 La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar las visitas de inspección o para la ejecución de las disposiciones que contempla la presente Ley, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de las diligencias correspondientes, independientemente de la aplicación a que haya lugar.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 154.
 
-Con apego al acta de inspección, la Comisión emitirá el acuerdo correspondiente en el cual requerirá al interesado mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas de urgente aplicación, fundando y motivando el requerimiento para que, dentro del término de diez días hábiles, a partir de que surta efectos dicha notificación, manifieste por escrito lo que a su derecho convenga en relación con el acta de inspección y ofrezca las pruebas en relación con los hechos u omisiones que en la misma se asienten.
+Con apego al acta de inspección, la Comisión emitirá el acuerdo correspondiente en el cual requerirá al interesado o a quien se apersone legalmente en representación de éste, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas de urgente aplicación, fundando y motivando el requerimiento para que, dentro del plazo de diez días hábiles, a partir de que surta efectos dicha notificación, manifieste por escrito lo que a su derecho convenga en relación con el acta de inspección y ofrezca las pruebas en relación con los hechos u omisiones que en la misma se asienten.
 
-El infractor deberá acreditar al momento de comparecer ante la Comisión su personalidad jurídica, y en su caso, la persona que comparezca en su nombre y representación deberá acreditar su personería con poder notarial.
+El presunto infractor deberá acreditar al momento de comparecer ante la Comisión su personalidad jurídica, y en su caso, la persona que comparezca en su nombre y representación deberá acreditar su personería con poder notarial.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
 ###### Artículo 155.
 
-Si transcurrido el término de tres meses sin que el propietario o inspeccionado haga uso de los derechos que esta Ley le confiere, la Comisión quedará facultada para disponer de los bienes asegurados sin detrimento a la sanción a que se haga acreedor.
+Si transcurrido el plazo de tres meses contados a partir de la fecha de notificación del Acuerdo de la Comisión, sin que el propietario o inspeccionado haga uso de los derechos que esta Ley le confiere, la Comisión quedará facultada para disponer de los bienes asegurados sin detrimento a la sanción a que se haga acreedor.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
 ###### Artículo 156.
 
-Una vez que el presunto infractor haya expresado lo que a su derecho convenga, recibidas y desahogadas las pruebas ofrecidas, o en caso de que el interesado no haya hecho uso del derecho que le concede el artículo 154 de la presente Ley, dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, dentro de los treinta días naturales siguientes, misma que se notificará al interesado, personalmente o por correo certificado.
+Una vez que el presunto infractor haya expresado lo que a su derecho convenga, recibidas y desahogadas las pruebas ofrecidas, y cerrado el periodo de instrucción, o en caso de que el interesado no haya hecho uso del derecho que le concede el artículo 154 de la presente Ley dentro del plazo mencionado, se procederá a dictar la resolución administrativa que corresponda, dentro de los cuarenta y cinco días hábiles siguientes, misma que se notificará al interesado o a quien legalmente lo represente, personalmente o por correo certificado.
 
 ###### Artículo 157.
 
@@ -1569,13 +1581,13 @@ Se consideran infracciones a la presente Ley:
 
 I. No presentar los informes o avisos en tiempo y forma ante las autoridades Estatales, de conformidad con lo dispuesto en la presente Ley;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
 
-II. Cambiar el medio de transporte al movilizar materias primas forestales, sin la autorización de la autoridad competente;
+II. Cambiar el medio de transporte al movilizar materias primas forestales o productos forestales, sin la autorización de la autoridad competente;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
 
-III. Aprovechar, derribar, transportar, almacenar, transformar o poseer materias primas forestales, sin contar con la documentación o sistemas de control establecidos para acreditar su legal procedencia, de conformidad con lo establecido por la autoridad competente;
+III. Aprovechar, derribar, transportar, almacenar, transformar o poseer materias primas forestales o productos forestales, sin contar con la documentación o sistemas de control establecidos para acreditar su legal procedencia, de conformidad con lo establecido por la legislación correspondiente y la autoridad competente;
 
 IV. Amparar materias primas forestales que no hubieren sido obtenidas de conformidad con lo establecido por las leyes de la materia, sus Reglamentos o de las normas oficiales mexicanas aplicables a fin de simular su legal procedencia;
 
@@ -1601,7 +1613,7 @@ XI. Cambiar de domicilio o de giro los centros de almacenamiento, transformació
 
 XII. Carecer los centros de almacenamiento o transformación de materias primas forestales y los viveros que se abastecen de tierra de monte y de hoja, del libro de registro de entradas y salidas debidamente validado por la Comisión; con sus respectivas revalidaciones en tiempo y forma de acuerdo al Reglamento de la presente Ley, así como de las anotaciones de entrada de materia prima y salida de productos forestales, maderables y no maderables;
 
-XIII. No acreditar la legal salida de materia prima o de producto forestal, de los centros de almacenamiento o transformación por los medios de control establecidos;
+XIII. (DEROGADA, P.O. 31 DE ENERO DE 2025)
 
 XIV. Realizar actividades agropecuarias sin acatar las disposiciones de esta Ley, en materia de conservación, protección, restauración, recuperación y cambio de uso de suelo;
 
@@ -1858,3 +1870,11 @@ P.O. 2 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 215 POR EL QUE “SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 7 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 139 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 27, 98, 150, 154, 155, 156, Y LAS FRACCIONES II Y III DEL ARTÍCULO 160; Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 160; TODOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo, para su publicación y efectos legales que haya a lugar.
