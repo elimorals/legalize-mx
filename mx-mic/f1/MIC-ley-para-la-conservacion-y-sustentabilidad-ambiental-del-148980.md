@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2023-07-05"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -51,9 +51,11 @@ La presente Ley es de orden público e interés social y sus disposiciones son d
 
 Lo previsto en esta Ley se interpretará de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, las leyes del Congreso de la Unión que de ella emanen, los tratados internacionales en que el Estado Mexicano sea parte y las Normas Oficiales Mexicanas aplicables en la materia; así como la Constitución Política del Estado de Michoacán de Ocampo, las leyes que de ella emanen, y las demás disposiciones vigentes en la materia, prevaleciendo la jerarquía normativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 2°.
 
-La presente Ley tiene como objeto garantizar la protección, conservación y restauración ecológica del medio ambiente, la educación y cultura ambiental, así como promover la sustentabilidad ambiental y el uso de energías limpias y renovables en el Estado, y establecer las bases para:
+La presente Ley tiene como objeto garantizar la protección, conservación, compensación, restauración ecológica del medio ambiente, la educación y la cultura ambiental, así como promover la sustentabilidad ambiental y el uso de energías limpias y renovables en el Estado, estableciendo las bases para:
 
 I. Garantizar en el ámbito de jurisdicción estatal, el derecho de toda persona a disfrutar de un ambiente sano para su desarrollo, salud y bienestar, así como garantizar el derecho humano al agua;
 
@@ -61,13 +63,17 @@ II. Prevenir y controlar y sancionar la contaminación del aire, el agua y el su
 
 III. Ejercer las atribuciones que en materia ambiental correspondan al Estado y sus municipios, de conformidad con lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como en los demás ordenamientos jurídicos aplicables en la materia;
 
-IV. El diseño, desarrollo y aplicación de instrumentos económicos que promuevan el cumplimiento de los objetivos de la política ambiental mediante la conservación, restauración, protección y aprovechamiento sustentable de los recursos naturales, así como para la prevención detección y sanción de la contaminación en el Estado;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+
+IV. El diseño, desarrollo, aplicación de instrumentos económicos y tecnológicos que promuevan el cumplimiento de los objetivos de la política ambiental mediante la conservación, restauración, protección, compensación y aprovechamiento sustentable de los recursos naturales, así como para la prevención detección y sanción de la contaminación en el Estado;
 
 V. La regulación de las actividades riesgosas de jurisdicción estatal;
 
 VI. La creación, vigilancia y administración de las Áreas Naturales Protegidas, de las Zonas de Restauración y Protección Ambiental, así como del Sistema Estatal de Áreas para la Conservación del Patrimonio Natural y Patrimonio Ambiental;
 
-VII. La prevención, control y sanción de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores provenientes de fuentes fijas que funcionen como establecimientos industriales, comerciales o de servicios, así como, en su caso, de fuentes móviles que se localicen en el Estado, cuya regulación no sea competencia de la Federación;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+
+VII. La prevención, control y sanción de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica y olores provenientes de fuentes fijas que funcionen como establecimientos industriales, comerciales o de servicios, así como, en su caso, de fuentes móviles que se localicen en el Estado, cuya regulación no sea competencia de la Federación;
 
 VIII. La promoción de la participación social, la educación y cultura ambiental para el uso sustentable de los recursos naturales en el ámbito estatal;
 
@@ -407,7 +413,9 @@ XXV. Integrar y mantener actualizado, en el ámbito de su competencia, el Regist
 
 XXVI. Promover la coordinación con las instituciones educativas, dependencias y entidades de los tres órdenes de gobierno para impulsar proyectos sustentables, así como la educación, capacitación y cultura ambiental a personas y grupos u organizaciones de todos los sectores de la sociedad, con el objeto de proteger y conservar los recursos naturales y fomentar el desarrollo sustentable del Estado;
 
-XXVII. Diseñar en coordinación con la Procuraduría, programas que promuevan la regulación y auditoría ambiental en industrias, comercios y establecimientos de servicio en el ámbito de la competencia estatal y convenir con los productores y grupos empresariales, el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, certificados de «Empresa Limpia»;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+
+XXVII. Diseñar en coordinación con la Procuraduría, programas que promuevan la regulación y auditoría ambiental en industrias, agroindustrias, fincas agrícolas, comercios y establecimientos de servicio, en el ámbito de la competencia estatal y convenir con los productores y grupos empresariales, el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, certificados de «Empresa Limpia»;
 
 XXVIII. Formular, conducir y evaluar la política estatal en materia de aprovechamiento sustentable de la vida silvestre, conforme a lo dispuesto en la presente Ley, en su Reglamento y demás normativa aplicable;
 
@@ -507,7 +515,9 @@ I. Realizar visitas de inspección para verificar el cumplimiento de los precept
 
 II. Clausurar y suspender las obras o actividades y en su caso, solicitar la revocación y cancelación de las licencias de construcción y uso de suelo cuando se violen los criterios y disposiciones de la Ley y su Reglamento;
 
-III. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+
+III. Emitir las resoluciones que pongan fin al procedimiento administrativo de inspección y vigilancia;
 
 IV. Tramitar y resolver los recursos administrativos de su competencia;
 
@@ -525,15 +535,25 @@ X. Imponer las sanciones correspondientes previo procedimiento en el que se resp
 
 XI. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de ilícitos o delitos contra la ecología;
 
-XII. Definir, establecer y mantener los sistemas de información, evaluación y control necesarios para el desempeño de las funciones de la Procuraduría;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+
+XII. Definir, establecer y mantener los sistemas de información, tecnológicos, evaluación y control necesarios para el desempeño de las funciones de la Procuraduría;
 
 XIII. Expedir copias certificadas de los documentos que obran en sus archivos de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
 XIV. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XV. Formular y validar dictámenes técnicos y periciales respecto de daños y perjuicios ocasionados por violaciones o incumplimiento a las disposiciones jurídicas en materia ambiental; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
 
-XVI. Las demás atribuciones que le asignen los ordenamientos legales aplicables en la materia.
+XV. Emitir dictámenes técnicos y periciales respecto de daños y perjuicios ocasionados por violaciones o incumplimiento a las disposiciones jurídicas en materia ambiental;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2025)</small>
+
+XVI. Generar, consultar y obtener información por medios tecnológicos, sistemas de percepción remota, teledetección, fotografía satelital y geolocalización, de hechos constitutivos de posibles daños o afectaciones ambientales; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2025)</small>
+
+XVII. Las demás atribuciones que le asignen los ordenamientos legales aplicables en la materia.
 
 ###### Artículo 15.
 
@@ -697,7 +717,9 @@ XI. Los Instrumentos Económicos;
 
 XII. Regulación ambiental para los asentamientos humanos;
 
-XIII. Los Instrumentos de Control; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+
+XIII. Los instrumentos de control, tecnológicos, implementación de imágenes satelitales y todos aquellos que coadyuven con la protección del ambiente; y,
 
 XIV. El Fondo Ambiental.
 
@@ -889,7 +911,7 @@ VIII. Fraccionamientos, conjuntos habitacionales y nuevos centros de población;
 
 IX. Obras en áreas naturales protegidas y zonas de restauración y protección ambiental de jurisdicción estatal y municipal;
 
-X. Construcción de expendios de distribución de gasolinas, diesel y de gas, de competencia estatal;
+X. (DEROGADA, P.O. 31 DE ENERO DE 2025)
 
 XI. Obras o actividades cuyo control no se encuentre reservado a la Federación;
 
@@ -1105,9 +1127,11 @@ En el Estado se promoverá, mediante el uso de artículos biodegradables, la sus
 
 Queda estrictamente prohibido el uso de plásticos y productos derivados del poliestireno de un solo uso, botellas de plástico desechables y globos en el desarrollo de cualquier actividad que realicen los Poderes del Estado, Órganos Constitucionalmente Autónomos y Ayuntamientos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 63.
 
-La Procuraduría en coordinación con los Ayuntamientos, impondrá las medias de seguridad y sanciones correspondientes a quién contravenga lo dispuesto en el presente Capítulo.
+La Procuraduría en coordinación con los Ayuntamientos, impondrá las medidas de seguridad y sanciones correspondientes a quién contravenga lo dispuesto en el presente Capítulo.
 
 ###### Artículo 64.
 
@@ -1211,9 +1235,11 @@ Los proyectos de investigación científica, así como la difusión y ejecución
 
 La Procuraduría promoverá la regulación ambiental de productores, organizaciones y empresas, a través de los cuales mejore su desempeño ambiental, respetando la legislación y normatividad vigente en la materia, con la finalidad de cumplir o superar mayores niveles, metas o beneficios en materia de protección ambiental, obteniendo con ello el distintivo de productor, organización o empresa limpia o no contaminante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 72.
 
-La Procuraduría realizará las auditorías ambientales en la industria en el Estado, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente, además de las acciones que señale el Reglamento de esta Ley y las siguientes:
+La Procuraduría realizará las auditorías ambientales en la industria y agroindustria en el Estado, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente, además de las acciones que señale el Reglamento de esta Ley y las siguientes:
 
 I. Definirá y emitirá las guías metodológicas, términos de referencia, formatos, formularios, lineamientos y en general los instrumentos necesarios para la realización de las auditorías ambientales;
 
@@ -1235,7 +1261,9 @@ I. El desarrollo de procesos productivos eficientes y compatibles con el ambient
 
 II. El cumplimiento de normas ambientales estatales, sin menoscabo de lo que dispongan las respectivas normas oficiales mexicanas en la materia, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representan;
 
-III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo sustentable que preserven, mejoren o restauren el ambiente;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+
+III. Por medio de la auditoría ambiental, el impulso a los mecanismos necesarios para llevar a cabo la certificación de procesos o productos para inducir patrones de consumo sustentable que preserven, mejoren o restauren el ambiente en materia agrícola;
 
 IV. Las acciones de coordinación necesarias con cámaras, sindicatos y empresas, con objeto de incluir en los temas a tratarse en el seno de las comisiones de seguridad e higiene y de adiestramiento y capacitación, capítulos relativos a la protección ambiental y el aprovechamiento sustentable de los recursos naturales, para crear y fortalecer una conciencia ambiental entre los sectores de la producción; y,
 
@@ -2029,9 +2057,17 @@ III. La Comisión Forestal del Estado;
 
 IV. La Comisión de Pesca del Estado de Michoacán;
 
-V. La Comisión Estatal del Agua y Gestión de Cuencas; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
 
-VI. Las dependencias federales competentes.
+V. La Comisión Estatal del Agua y Gestión de Cuencas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2025)</small>
+
+VI. La Procuraduría; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2025)</small>
+
+VII. Las dependencias federales competentes.
 
 La operación, sesiones y demás elementos necesarios para el funcionamiento del Comité se establecerán en el Reglamento de esta Ley.
 
@@ -2377,7 +2413,9 @@ XVI. Presentar el Proyecto de Presupuesto del Consejo al Titular de la Secretar�
 
 XVII. Las demás que sean necesarias para la consecución de sus fines, del objeto de esta Ley, y las demás previstas en otros ordenamientos aplicables.
 
-### CAPÍTULO V. DE LA DENUNCIA CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2025)</small>
+
+### CAPÍTULO V. DE LA DENUNCIA
 
 ###### Artículo 195.
 
@@ -2407,9 +2445,11 @@ La autoridad estará obligada a mantener en reserva el nombre del denunciante, c
 
 Si de la diligencia se desprende que no es competencia de la autoridad que haya recibido la denuncia, dentro de un plazo no mayor a cinco días hábiles, se turnará el asunto a la autoridad competente.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 198.
 
-En todo caso, los denunciantes podrán coadyuvar con la autoridad para la comprobación de los hechos u omisiones denunciados, aportándole las pruebas, documentación e información que estime pertinentes.
+En todo caso, los denunciantes podrán coadyuvar con la autoridad para la comprobación de los hechos u omisiones denunciados, aportándole las pruebas, documentación e información que estime pertinentes; sin perjuicio de que la Procuraduría lleve a cabo la consulta de información geográfica, de teledetección remota, georreferenciación, así como, imágenes y datos provenientes de sistemas satelitales, para reforzar las manifestaciones realizadas por quienes funjan como denunciantes.
 
 ###### Artículo 199.
 
@@ -2419,9 +2459,15 @@ Si se recibieren dos o más denuncias relacionadas con los mismos hechos, actos 
 
 La Procuraduría o el Ayuntamiento que corresponda, deberá llevar un registro de las denuncias recibidas y procederá a su verificación siempre que estas reporten la información suficiente que lo permita.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
 ###### Artículo 201.
 
-La Procuraduría exhortará de manera permanente al público en general a denunciar hechos u omisiones que produzcan o puedan producir desequilibrio ecológico o daños al ambiente. Además, tendrá la obligación de informar al denunciante el resultado de su gestión, cuando el interesado lo solicite.
+La Procuraduría exhortará de manera permanente al público en general a denunciar hechos u omisiones que produzcan o puedan producir desequilibrio ecológico o daños al ambiente, poniendo a su disposición las herramientas o medios tecnológicos que determine, a fin de garantizar que el público pueda coadyuvar en el monitoreo y detección de daños al ambiente. Además, tendrá la obligación de informar al denunciante el resultado de su gestión, cuando el interesado lo solicite.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2025)</small>
+
+Artículo 201 bis. La Procuraduría, así como los ayuntamientos, podrán realizar la consulta de los sistemas de georreferenciación, de teledetección remota y otros medios tecnológicos para la obtención de datos de localización de sitios en los que pudieran ser hechos, actos u omisiones que contravengan la legislación ambiental.
 
 ## TÍTULO SÉPTIMO. DE LOS INSTRUMENTOS ECONÓMICOS
 
@@ -2743,7 +2789,9 @@ IV. El decomiso de instrumentos, productos o subproductos directamente relaciona
 
 V. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes.
 
-Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
+
+Si una vez vencido el plazo concedido por la autoridad en el inicio del procedimiento administrativo, para subsanar las irregularidades señaladas en el mismo, y el presunto infractor no atienda a las medidas impuestas y resulte que la irregularidad o irregularidades aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción II de este artículo.
 
 ###### Artículo 237.
 
@@ -2986,3 +3034,11 @@ P.O. 5 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 390 POR EL QUE “SE ADICIONA EL ARTÍCULO 67 BIS A LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se instruye su publicación y observancia para su conocimiento general y efectos legales procedentes.
+
+P.O. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 139.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 27, 98, 150, 154, 155, 156, Y LAS FRACCIONES II Y III DEL ARTÍCULO 160; Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 160; TODOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV Y VII DEL ARTÍCULO 2°, LA FRACCIÓN XXVII DEL ARTÍCULO 8°, LAS FRACCIONES III, XII, XV Y XVI DEL ARTÍCULO 14, LA FRACCIÓN XIII DEL ARTÍCULO 19, EL ARTÍCULO 63, EL PRIMER PÁRRAFO DEL ARTÍCULO 72, LA FRACCIÓN III DEL ARTÍCULO 73, LAS FRACCIONES V Y VI DEL ARTÍCULO 168, LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO SEXTO, EL ARTÍCULO 198, EL ARTÍCULO 201, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 236; SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 38; Y, SE ADICIONAN LA FRACCIÓN XVII AL ARTÍCULO 14, LA FRACCIÓN VII AL ARTÍCULO 168, Y EL ARTÍCULO 201 BIS, TODOS DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 302 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 304, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo, para su publicación y efectos legales que haya a lugar.
