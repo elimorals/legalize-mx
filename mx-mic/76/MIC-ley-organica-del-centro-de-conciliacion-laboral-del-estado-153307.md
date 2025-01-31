@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1533
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-30"
-last_updated: "2022-07-08"
+last_updated: "2025-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
 
 Ley publicada en el Número 36 del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 30 de diciembre de 2021.
 
@@ -455,11 +455,9 @@ Séptimo. El Director General del Centro deberá de presentar en un plazo no may
 
 Octavo. El Director General del Centro, deberá previa aprobación de la Junta publicar las convocatorias para la selección del personal del Centro de Conciliación Laboral del Estado, las cuales serán de carácter abierto garantizando el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje, respetando el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2025)</small>
 
-Noveno. Los asuntos que se encuentran en trámite ante la Junta Local de Conciliación y Arbitraje, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio, en un plazo no mayor a tres años contados a partir del 03 tres de octubre del año de (sic) 2022, debiendo generar la calendarización correspondiente a efecto de dar conclusión a los asuntos en trámite y la ejecución eficaz de los laudos.
-
-El Centro de Conciliación Laboral del Estado de Michoacán, no admitirá a trámite solicitudes respecto de procedimientos que se estén sustanciando ante las Juntas Locales de Conciliación y Arbitraje.
+Noveno. Los asuntos que se encuentran en trámite ante la Junta Local de Conciliación y Arbitraje serán concluidos por ésta de conformidad con las disposiciones vigentes al momento de su inicio, debiendo generar la calendarización correspondiente a efecto de dar conclusión a los asuntos en trámite y la ejecución eficaz de los laudos.
 
 Décimo. Los trabajadores adscritos a la Junta de Conciliación y Arbitraje de Base y sindicalizados, en ninguna forma resultarán afectados en los derechos que hubiesen adquirido en su relación laboral. El Titular del Poder Ejecutivo del Estado observará su cabal cumplimiento.
 
@@ -488,3 +486,15 @@ P.O. 8 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 157 POR EL QUE "SE REFORMAN LOS ARTÍCULOS SEGUNDO Y NOVENO TRANSITORIOS DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE ENERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 94 POR EL QUE "SE REFORMA EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Secretaría de Administración y Finanzas del Gobierno del Estado de Michoacán de Ocampo a establecer en los subsecuentes proyectos de egresos los recursos suficientes para que continúe en operación la Junta Local de Conciliación y Arbitraje, hasta el día treinta y uno del mes de octubre del año dos mil veintisiete.
