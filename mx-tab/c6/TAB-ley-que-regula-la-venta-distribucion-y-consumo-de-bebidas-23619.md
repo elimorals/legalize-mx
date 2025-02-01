@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2020-03-25"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -163,9 +163,9 @@ XXXV. Revocación: Acto administrativo por el cual la Secretaría deja sin efect
 
 XXXVI. Salón de baile: Inmueble destinado a fiestas, bailes y espectáculos en el que se pueden consumir bebidas alcohólicas, de manera gratuita u onerosa, previa autorización para ello;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
 
-XXXVII. Secretaría: La Secretaría de Finanzas;
+XXXVII. Secretaría: La Secretaría de Administración y Finanzas;
 
 XXXVIII. Supermercado: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimenticios, ropa, telas, latería y bebidas alcohólicas para llevar;
 
@@ -385,15 +385,17 @@ I. Los abarrotes, expendios y ultramarinos, de lunes a sábado, de las once a la
 
 II. Los supermercados, y centros comerciales todos los días, de las diez a las veinticuatro horas;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
 
-III. Las discotecas, todos los días, de las veinte a las cuatro horas del día siguiente;
+III. Las discotecas, todos los días, de las dieciocho a las dos horas del día siguiente;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
 
-IV. Los bares y bar con presentación de espectáculos, todos los días de las catorce a las tres horas del día siguiente;
+IV. Los bares y bar con presentación de espectáculos, todos los días de las catorce a las dos horas del día siguiente;
 
-V. Los Restaurantes, restaurante-bar, incluyendo los de hoteles y moteles, así como los bares de éstos, todos los días de las nueve a las tres horas del día siguiente;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
+
+V. Los Restaurantes, restaurante-bar, incluyendo los de hoteles y moteles, así como los bares de éstos, todos los días de las nueve a las dos horas del día siguiente;
 
 VI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
@@ -401,21 +403,21 @@ VII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 VIII. Las distribuidoras, de lunes a sábado de las siete a las veintidós horas, y los domingos de nueve a dieciséis horas;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
 
-IX. Los hoteles así como moteles en servicio a cuarto y servibar, todos los días, las veinticuatro horas;
+IX. Los hoteles, así como moteles en servicio a cuarto y servibar, todos los días de las nueve a las dos horas del día siguiente;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
 
-X. Los centros de espectáculos y salones de baile en los días y horarios determinados por las autoridades estatales y municipales competente, según corresponda;
+X. Los centros de espectáculos y salones de baile todos los días de las nueve a las dos horas del día siguiente;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 XI. Los minisúper y tiendas de conveniencia todos los días, de las diez a las veinticuatro horas;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
 
-XII. Casinos, Club deportivo, Desarrollo Turísticos (sic) y recreativo, todos los días, de las diez a las tres horas del día siguiente;
+XII. Casinos, Club deportivo, Desarrollo Turísticos (sic) y recreativo, todos los días, de las diez a las dos horas del día siguiente;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -425,11 +427,11 @@ XIII. Las fábricas de bebidas alcohólicas, todos los días, de ocho a veinte h
 
 XIV. Productor de bebidas alcohólicas artesanales de lunes a domingo, de las diez a las dieciocho horas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 12.
 
-Los licenciatarios podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento, hasta por un máximo de una hora y por un período de tiempo determinado, en el cual no deberá exceder de sesenta días, en un año calendario. De autorizarse la ampliación, se deberá cubrir el importe de los derechos correspondientes.
+Los licenciatarios a los que se refieren las fracciones I y XI del artículo 11, podrán solicitar a la Secretaría la ampliación de sus horarios de funcionamiento hasta por un máximo de tres horas. De autorizarse la ampliación, se deberá cubrir el importe de los derechos correspondientes.
 
 Los establecimientos a los que se refiere la fracción II, del artículo 11 podrán solicitar ampliación de sus horarios de funcionamiento hasta por una hora y por un período que no exceda de 15 días, en un año calendario.
 
@@ -941,7 +943,9 @@ I. Cuando así lo requiera el orden público, la moral o las buenas costumbres, 
 
 II. Cuando el crecimiento de la población así lo exija, considerando el desarrollo urbano de la localidad de que se trate, siempre y cuando exista una solicitud fundada y motivada por una autoridad competente;
 
-III. Ocurran en el interior del establecimiento hechos o actos que alteren el orden público, la moral, las buenas costumbres, el medio ambiente; que pongan en peligro la integridad física, la salud o se verifique un homicidio imputable al licenciatario;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
+
+III. Ocurran en el interior del establecimiento hechos o actos que alteren el orden público, la moral, las buenas costumbres, el medio ambiente; que pongan en peligro la integridad física, la salud o se verifique un homicidio;
 
 IV. Cuando el licenciatario incurra en la comisión de alguno de los siguientes delitos: lenocinio y trata de personas o corrupción de menores;
 
@@ -1192,3 +1196,13 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 TERCERO. El Ejecutivo del Estado a través de la Secretaría de Finanzas deberá implementar las medidas administrativas que estime necesarias para la aplicación de las disposiciones que establece el presente Decreto.
 
 CUARTO. El Ejecutivo del Estado deberá realizar las adecuaciones que resulten pertinentes al Reglamento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 086 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XXXVII; 11, FRACCIONES III, IV, V, IX, X Y XII; 12, PRIMER PÁRRAFO Y 38, FRACCIÓN III; DE LA LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de marzo del presente año.
+
+SEGUNDO. La Secretaría de Administración y Finanzas, será la encargada de tomar las medidas administrativas necesarias para el correcto funcionamiento.
+
+TERCERO. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
