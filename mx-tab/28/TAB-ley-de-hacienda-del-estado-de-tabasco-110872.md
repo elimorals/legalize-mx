@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2024-12-18"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -2937,9 +2937,7 @@ a) Para los giros que venden bebidas alcohólicas
 
 en envase cerrado; 30.0 UMA
 
-b) Para los giros que venden bebidas alcohólicas
-
-en envase abierto; 60.0 UMA
+b) (DEROGADO, P.O. 1 DE FEBRERO DE 2025)
 
 c) Permisos para el funcionamiento temporal
 
@@ -9320,3 +9318,13 @@ DÉCIMO OCTAVO. La presentación del comprobante de pago de derechos de refrendo
 DÉCIMO NOVENO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2020, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
 
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+P.O. 1 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 86 POR EL QUE "SE DEROGA EL INCISO B) DE LA FRACCIÓN IX DEL ARTÍCULO 79 DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de marzo del presente año.
+
+SEGUNDO. La Secretaría de Administración y Finanzas, será la encargada de tomar las medidas administrativas necesarias para el correcto funcionamiento.
+
+TERCERO. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
