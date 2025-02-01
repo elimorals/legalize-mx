@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2024-12-04"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2721,9 +2721,9 @@ II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilac
 
 A quien amenace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de seis meses a cinco años de prisión y de noventa a trescientos sesenta días multa.
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2025)</small>
 
-Si las amenazas son dirigidas a personas menores de dieciocho años o a personas que no tienen capacidad para comprender el significado del hecho, las penas se incrementarán en dos terceras partes.
+Si las amenazas son dirigidas a personas menores de dieciocho años o a personas que no tienen capacidad para comprender el significado del hecho, o sean cometidas por una persona servidora pública en ejercicio de sus funciones, las penas se incrementarán en dos terceras partes.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JUNIO DE 2023)</small>
 
@@ -5940,6 +5940,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0911/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 180 BIS, PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0910/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 204, SEGUNDO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
