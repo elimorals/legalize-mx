@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2024-03-09"
+last_updated: "2025-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1993,11 +1993,23 @@ Al que, en un lugar solitario o desprotegido, haga uso de la violencia sobre alg
 
 ### CAPITULO II. AMENAZAS
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+(NOTA: EL 24 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE FEBRERO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 084, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2025)</small>
+
+###### Artículo 160 Bis.
+
+Cuando se realicen amenazas O CUALQUIER MANIFESTACIÓN PÚBLICA QUE ALTERE LA PAZ Y EL ORDEN, a través de imágenes o escritos en mantas, cartulinas, lonas, cartón o por cualquier medio físico, se impondrán de dos a seis años de prisión, y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Las mismas penas se impondrán al que elabore, fabrique, imprima, proporcione, desplace, traslade, aplique, coloque o tenga en su posesión, cualquier escrito señalado en el párrafo anterior.
+
+En este caso, el delito se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 161.
 
-A quien intimide a otro con causarle daño en su persona o en sus bienes, o en la persona o bienes de un tercero con quien el amenazado tenga vínculos afectivos de cualquier índole, se le impondrá prisión de tres meses a dos años y de doscientos a quinientos días multa, sin perjuicio de la pena aplicable, si el agente realiza el mal con el que amenaza.
+A quien intimide a otro con causarle daño en su persona o en sus bienes, o en la persona o bienes de un tercero con quien el amenazado tenga vínculos afectivos de cualquier índole, se le impondrá prisión de uno a tres años y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la pena aplicable si el agente realiza el mal con el que amenaza.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
@@ -4151,6 +4163,8 @@ A quien siendo titular o propietario de una casa habitación en construcción, q
 
 ### CAPITULO I. USO INDEBIDO DE CONDECORACIONES O UNIFORMES
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 301.
 
 Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de noventa a ciento ochenta días de semilibertad.
@@ -4161,9 +4175,15 @@ Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de 
 
 ### CAPITULO II. ULTRAJES Y USO INDEBIDO DE INSIGNIAS PUBLICAS
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 302.
 
-Se impondrá de noventa a ciento ochenta días de semilibertad, al que públicamente y sin derecho, use uniforme, insignia, distintivo o condecoración oficial.
+Se impondrá prisión de uno a cinco años, y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, al que públicamente y sin derecho, use uniforme, insignia, distintivo o condecoraciones, similares a los utilizados por las instituciones de seguridad pública en el Estado o municipio.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2025)</small>
+
+Las mismas sanciones se aplicarán a quien elabore, confeccione, produzca, imprima, almacene, entregue o distribuya sin autorización, los objetos señalados en el párrafo anterior, con el propósito de obtener un beneficio o cometer actos ilícitos.
 
 ### CAPITULO PRIMERO. DELITOS CONTRA EL EQUILIBRIO VITAL DE LA NATURALEZA
 
@@ -4171,7 +4191,11 @@ Se impondrá de noventa a ciento ochenta días de semilibertad, al que públicam
 
 ###### Artículo 303.
 
-Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de sus instituciones, o haga uso indebido de ellos, se le aplicarán de treinta a noventa días de trabajo en favor de la comunidad.
+Al que ultraje las insignias del Estado o de un municipio, o de cualquiera de sus instituciones, o haga uso indebido de ellos, se le impondrá prisión de uno a tres años, y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2025)</small>
+
+Dichas sanciones se impondrán con independencia de las que correspondan por otros delitos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MAYO DE 2019)</small>
 
@@ -4353,11 +4377,17 @@ Si el transporte a que se refiere la fracción II de este artículo estuviere oc
 
 Se aplicará prisión de uno a ocho años y multa de ochenta a doscientas veces el valor diario de la Unidad de Medida y Actualización al que obstruya, interrumpa o dificulte el servicio público local de comunicación:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
 
-I.- Obstaculizando alguna vía local de comunicación; o
+I. Obstaculizando alguna vía local de comunicación;
 
-II.- Secuestrando o reteniendo algún medio local de transporte público de pasajeros o de carga, o cualquier otro medio local de comunicación.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2025)</small>
+
+II. Secuestrando o reteniendo algún medio local de transporte público de pasajeros o de carga, o cualquier otro medio local de comunicación; o
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2025)</small>
+
+III. Coloque, arroje o deposite, cualquiera de los objetos a que se refiere el artículo 338 del presente Código, en las vías de Comunicación, con el fin de ocasionar un daño.
 
 (NOTA: EL 8 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2019 Y SUS ACUMULADAS 92/2019 Y 93/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE AGOSTO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 115 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -4745,6 +4775,8 @@ Se aplicará prisión de seis meses a cuatro años al que realice actos de necro
 
 ### CAPITULO I. PORTACION Y FABRICACION DE ARMAS PROHIBIDAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 337.
 
 Se aplicará prisión de nueve meses a dos años al que viole o vilipendie el lugar donde está colocado en forma permanente un cadáver, sus cenizas o restos humanos.
@@ -4761,7 +4793,7 @@ DELITOS CONTRA LA SEGURIDAD PUBLICA
 
 ###### Artículo 338.
 
-Se aplicará prisión de seis meses a tres años y multa de treinta a noventa días multa y decomiso al que porte, en lugares públicos, objetos tales como puñales, navajas de muelle, boxers, chacos, manoplas y otros semejantes que se utilicen para agredir.
+Se aplicará prisión de uno a cinco años y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización y decomiso al que porte, en lugares públicos, objetos tales como puñales, navajas de muelle, estrellas metálicas o de cualquier material, abrojos, erizos, varillas o cualquier otro objeto similar elaborado de material de acero, comúnmente llamados ponchallantas, boxers, chacos, manoplas y otros semejantes que se utilicen para agredir.
 
 Las mismas sanciones se aplicarán a quien fabrique los citados objetos o comercie con ellos.
 
@@ -5662,3 +5694,11 @@ Los asuntos que se encuentren en trámite ante los órganos jurisdiccionales civ
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 084 POR EL QUE SE "SE REFORMAN: LOS ARTÍCULOS 161; 302; 303; 308, FRACCIONES I Y II; Y 338, PÁRRAFO PRIMERO. SE ADICIONAN: EL ARTÍCULO 160 BIS AL CAPÍTULO II DEL TÍTULO QUINTO, PERTENECIENTE AL LIBRO SEGUNDO; UN SEGUNDO PÁRRAFO AL ARTÍCULO 302; UN SEGUNDO PÁRRAFO AL ARTÍCULO 303 Y LA FRACCIÓN III AL ARTÍCULO 308; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
