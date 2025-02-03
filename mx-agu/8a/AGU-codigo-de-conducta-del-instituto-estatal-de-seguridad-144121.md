@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-del-instituto-estatal-de-seguridad-144121"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-14"
-last_updated: "2020-09-14"
+last_updated: "2025-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD DE LA POLICÍA Y CIENCAS DE LA SEGURIDAD DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2025 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de septiembre de 2020.
 
@@ -174,3 +176,15 @@ DIRECTOR GENERAL DE SEGURIDAD PÚBLICA Y VIALIDAD EN EL ESTADO
 MTRA. SUSANA IVETH NEGRETE VALDÉS
 
 PROSECRETARIA DE LA JUNTA DE GOBIERNO DEL IESPA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD DE LA POLICÍA Y CIENCAS DE LA SEGURIDAD DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Código de Conducta, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Difúndase mediante los mecanismos previstos en el artículo 24 del Código de Ética de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes. Adicionalmente, los apartados de Preámbulo y Decálogo, deberán colocarse en las instalaciones de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes de manera que estén a la vista de los servidores públicos, así como de los usuarios o los visitantes, incluyendo la siguiente leyenda: “Cualquier acción u omisión contraria a las Reglas de Conducta, podrá denunciarse ante el Órgano Interno de Control de la UNPOL”.
+
+TERCERO.- Con la entrada en vigor del presente Código, quedara abrogado el Código de Conducta del Instituto Estatal de Seguridad Publica de Aguascalientes publicado en el Periódico Oficial del Estado de Aguascalientes en fecha 14 de septiembre del 2020, tomo LXXXIII, número 37, de la Sección Primera, hágase lo conducente para su debida aplicación.
