@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2023-08-29"
+last_updated: "2025-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1407,15 +1407,25 @@ Para el ingreso, promoción y permanencia, de los funcionarios judiciales que co
 
 Sépties.- Las personas titulares de las Magistraturas Unitarias para Adolescentes cuentan con las facultades y obligaciones previstas por el artículo 33 fracciones III, IV y V de la presente Ley.
 
-Las personas titulares de las Magistraturas Unitarias para Adolescentes, serán designadas por la Legislatura del Estado, conforme al procedimiento señalado en el artículo 102 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, debiendo rendir protesta, ante la Legislatura del Estado.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE FEBRERO DE 2025)</small>
 
-Para efectos del párrafo anterior, las y los aspirantes propuestos, además de satisfacer los mismos requisitos previstos por el artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, deberán acreditar, contar con la especialización en la materia, en los términos previstos por los artículos 23, 63 y 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+Las personas titulares de las Magistraturas Unitarias para Adolescentes, serán designadas por la Legislatura del Estado, conforme al siguiente procedimiento, debiendo rendir protesta, ante la Legislatura del Estado:
+
+I. La persona titular del Poder Ejecutivo del Estado someterá una terna a consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de la mayoría de sus integrantes, dentro del plazo de quince días naturales;
+
+II. Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, la persona titular del Poder Ejecutivo propondrá una nueva terna, dentro de los quince días posteriores, y
+
+III. Si presentada la segunda terna a la Legislatura del Estado, esta la rechaza, se abstiene de resolver o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto de cuando menos la mitad más uno de las diputadas y los diputados asistentes a la sesión; de no reunirse esta votación, la persona titular del Poder Ejecutivo, dentro de los quince días posteriores a la celebración de la sesión, realizará la designación de entre las personas integrantes de la segunda terna.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+Para efectos del procedimiento anterior, las y los aspirantes propuestos, además de satisfacer los mismos requisitos previstos por el artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, deberán acreditar, contar con la especialización en la materia, en los términos previstos por los artículos 23, 63 y 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 Las personas titulares de las Magistraturas Unitarias para Adolescentes, durarán en su encargo un periodo de seis años, pudiendo ser reelectos para un periodo adicional, en los términos a los que se refiere el articulo 114 de la presente Ley, y solo podrán ser separadas de su encargo, en los términos señalados por el título octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo o, en su caso, por encontrarse dentro de las causas a las que se refiere el penúltimo párrafo del artículo 100 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y el artículo 115 de la presente Ley.
 
 Las personas titulares de las Magistraturas Unitarias para Adolescentes percibirán una remuneración digna, decorosa e irrenunciable de acuerdo a la disponibilidad presupuestal del Poder Judicial del Estado, la cual, no podrá ser reducida, en ningún caso, durante el ejercicio de su encargo.
 
-Las personas titulares de las Magistraturas Unitarias para Adolescentes, tienen derecho al haber de retiro, siempre y cuando hayan sido reelectos en el cargo mediante Decreto de la Legislatura del Estado, y concluyan los periodos que establece la Constitución, de conformidad a las disposiciones que establece la Ley Orgánica del Poder Judicial del Estado.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 4 DE FEBRERO DE 2025)</small>
 
 Las faltas y sustituciones temporales de las personas titulares de las Magistraturas Unitarias para Adolescentes, serán suplidas por el funcionario judicial que determine el Consejo de la Judicatura. En caso de falta absoluta, se procederá de acuerdo con lo establecido en el segundo párrafo del presente artículo.
 
@@ -2021,13 +2031,7 @@ XXI.- Dictar las disposiciones necesarias para la recepción, control y destino 
 
 XXII.- Fijar los criterios generales de evaluación mensual de juicios iniciados, en trámite y concluidos en el Poder Judicial, basados, por lo menos, en el rendimiento, eficiencia y eficacia; y, en su caso, previa ponderación de las evaluaciones respectivas, tomar las providencias que estimen necesarias, con excepción del Pleno del Tribunal;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
-
-XXIII.- Capacitar, a través de la Escuela Judicial, al personal administrativo, judicial, del Centro de Justicia Alternativa, del Instituto de Defensoría Pública y del Centro de Convivencia Familiar Supervisada, todos del Poder Judicial, para la debida atención y defensa de los derechos de las personas en condición de vulnerabilidad.
-
-Para efectos de lo anterior, el Consejo de la Judicatura deberá emitir un programa para la atención y defensa de las personas en condición de vulnerabilidad, mismo que será actualizado cada tres años. Dicha actualización coincidirá con el periodo de renovación de la Presidencia del Tribunal Superior de Justicia del Estado;
-
-Se considerarán personas en condición de vulnerabilidad, aquellas que por razón de su edad, género, estado físico o mental o por circunstancias sociales, económicas, étnicas y/o culturales tengan dificultad para ejercer con plenitud sus derechos en el sistema de administración e impartición de justicia.
+XXIII.- (DEROGADA, P.O. 4 DE FEBRERO DE 2025)
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -2113,7 +2117,7 @@ I.- Un Secretariado Ejecutivo;
 
 II.- Una Visitaduría Judicial;
 
-III.- La Escuela Judicial;
+III.- (DEROGADA, P.O. 4 DE FEBRERO DE 2025)
 
 IV.- La Contraloría del Poder Judicial;
 
@@ -2141,11 +2145,9 @@ II.- El Secretario Ejecutivo de Administración; y
 
 III.- El Secretario Ejecutivo de Disciplina.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
-
 ###### Artículo 101.
 
-La Escuela Judicial es el órgano encargado de la formación, capacitación, especialización, actualización y superación de los servidores públicos de la administración de justicia y personal administrativo, así como de la investigación científica del Derecho y del fomento de una cultura jurídica.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2025)
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -2337,7 +2339,9 @@ I.- Elaborar la planeación y programas para fungir como enlace entre el Poder J
 
 II.- Definir la política en materia de género y derechos humanos a seguir por esta institución, proponiendo las medidas de nivelación, medidas de inclusión, medidas a favor de la igualdad y acciones afirmativas necesarias para garantizar a toda persona la igualdad de oportunidades y el derecho a la no discriminación;
 
-III.- Coadyuvar con la Escuela Judicial en la elaboración y difusión en los cursos, talleres y conferencias en materia de género y derechos humanos;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+III.- Coadyuvar con la Universidad Judicial en la elaboración y difusión en los cursos, talleres y conferencias en materia de género y derechos humanos;
 
 IV.- Llevar a cabo todas las acciones necesarias en las materias de género y derechos humanos, encaminadas a cumplir con los instrumentos jurídicos nacionales e internacionales que sean aplicables, así como los compromisos asumidos por este órgano jurisdiccional con las instituciones públicas y privadas a través de convenios institucionales;
 
@@ -2549,11 +2553,11 @@ Para ser Juez de Primera Instancia o de Paz se requiere cumplir los requisitos q
 
 Para ser Juez laboral deberá atenderse a lo dispuesto en el primer párrafo de la fracción XX del Apartado A del artículo 123 de la Constitución (sic) de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 113.
 
-Para ser Secretario de Acuerdos de Sala, Secretario de Estudio y Cuenta, Secretario de Acuerdos de Juzgado, Secretario Instructor, Fedatario y Actuario, se requiere satisfacer los mismos requisitos exigidos para ser Juez, con excepción de la edad mínima que deberá ser de veinticuatro años de edad y contar con título y cedula profesional, sin ninguna condicionante en cuanto al tiempo de expedición; no obstante deberán acreditar un mínimo de práctica de un año y haber acreditado los cursos que al efecto imparta la Escuela Judicial.
+Para ser Secretario de Acuerdos de Sala, Secretario de Estudio y Cuenta, Secretario de Acuerdos de Juzgado, Secretario Instructor, Fedatario y Actuario, se requiere satisfacer los mismos requisitos exigidos para ser Juez, con excepción de la edad mínima que deberá ser de veinticuatro años de edad y contar con título y cédula profesional, sin ninguna condicionante en cuanto al tiempo de expedición; no obstante deberán acreditar un mínimo de práctica de un año y haber acreditado los cursos que al efecto imparta la Universidad Judicial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -4104,3 +4108,73 @@ Se derogan las disposiciones legales que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, el Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo, deberá llevar a cabo las adecuaciones normativas que correspondan a su reglamentación interna, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+P.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 093 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En lo que respecta a la etapa de convocatoria, Comités de Evaluación y postulación de candidaturas de las personas juzgadoras del Poder Judicial del Estado en el marco del Proceso Electoral Extraordinario 2025, las autoridades competentes observarán, por única ocasión, lo dispuesto en el presente Decreto conforme a los plazos siguientes:
+
+1. El Poder Legislativo del Estado emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de candidaturas a que hace referencia el artículo 444 de esta Ley, a más tardar el 13 de febrero del 2025;
+
+2. Los Poderes del Estado publicarán las convocatorias para participar en el proceso de evaluación y selección de postulaciones en los términos del artículo 444 de esta Ley, a más tardar el 14 de febrero de 2025;
+
+3. El plazo para que las personas interesadas se inscriban en las convocatorias emitidas por los Poderes del Estado comprenderá del 14 de febrero al 24 de febrero de 2025;
+
+4. Los Comités de Evaluación verificarán que las personas aspirantes que hayan concurrido a la convocatoria reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, en los términos de lo dispuesto en la Constitución del Estado y esta Ley, y publicarán el listado de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad el 2 de marzo de 2025;
+
+5. Los Comités de Evaluación calificarán la idoneidad de las personas elegibles en los términos del artículo 445 de esta Ley y elaborarán el anteproyecto de listado respectivo;
+
+6. Cada Comité de Evaluación depurará, en su caso, dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a la paridad de género, el 11 de marzo de 2025; posteriormente, publicarán el listado de las personas mejor evaluadas para cada cargo en los estrados, portales oficiales y redes sociales de los Poderes respectivos y lo remitirán a más tardar el 12 de marzo de 2025 a la autoridad que represente a cada Poder para su aprobación, en términos del artículo 102 de la Constitución del Estado y el artículo 445 de esta Ley de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular de la Gubernatura del Estado;
+
+b) El Poder Legislativo, por conducto del Pleno de la Legislatura del Estado, mediante votación calificada de las dos terceras partes de sus integrantes presentes, y
+
+c) El Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, por votación favorable de ocho votos de las Magistradas y Magistrados. En este caso, se incorporará a las personas juzgadoras en funciones en términos de lo dispuesto en el artículo 102 de la Constitución del Estado y esta Ley.
+
+7. Los listados aprobados en términos del numeral anterior serán remitidos al Poder Legislativo del Estado, en los términos del artículo 102 de la Constitución del Estado, a más tardar el 14 de marzo de 2025, y
+
+8. El Poder Legislativo del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado en los términos del artículo 102 de la Constitución del Estado y los remitirá al Instituto Electoral de Quintana Roo a más tardar el 20 de marzo de 2025 a efecto de que organice el proceso electivo.
+
+TERCERO. Para efectos de la organización del Proceso Electoral Extraordinario 2025, los órganos desconcentrados a instalar por el Instituto Estatal serán únicamente Consejos Municipales, a más tardar dentro de los sesenta días siguientes de la fecha de inicio del proceso electoral.
+
+Asimismo, la Comisión de Partidos Políticos del Instituto Estatal será la encargada de ejecutar y dar atención a todas las actividades y gestiones inherentes a las candidaturas de personas juzgadoras, organización de foros, y las demás que el Consejo General del Instituto Estatal le señale.
+
+El Instituto Estatal realizará los trámites y procedimientos respectivos para la autorización de la ampliación presupuestal correspondiente, en términos del artículo décimo primero transitorio de la Declaratoria número 001 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el día 13 de enero de 2025.
+
+CUARTO. Las disposiciones aplicables del presente Decreto para el órgano de administración judicial corresponderán al Consejo de la Judicatura hasta su extinción, en los términos del régimen transitorio de la Declaratoria número 001 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el día 13 de enero de 2025.
+
+QUINTO. La persona titular de la Magistratura Unitaria para Adolescentes que se encuentre en funciones a la entrada en vigor del presente decreto continuará en el ejercicio de su cargo, en los mismos términos en que hubiese sido designada, conservando el derecho a haber de retiro, en caso de su ratificación en el cargo.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 094 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA UNIVERSIDAD JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Consejo de la Judicatura del Poder Judicial del Estado llevará a cabo las acciones administrativas necesarias para el funcionamiento de la Universidad Judicial del Poder Judicial del Estado de Quintana Roo.
+
+Para tal efecto, hasta en tanto se designa formalmente la primera integración de la Junta de Gobierno en términos de lo previsto por este Decreto, el Consejo de la Judicatura se erigirá temporalmente en Junta de Gobierno, con las facultades previstas por este Decreto.
+
+El Consejo de la Judicatura, erigido en Junta de Gobierno, será responsable de emitir los acuerdos y normas que fueren necesarias para el funcionamiento de la Universidad, así como para resolver las cuestiones no previstas para la transformación de la Escuela Judicial en la Universidad Judicial.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, la actual Escuela Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo pasará a ser la Universidad Judicial del Poder Judicial del Estado de Quintana Roo, en los términos previstos por este Decreto, previos trámites administrativos ante las autoridades correspondientes en materia educativa.
+
+Para tal efecto, los bienes y el presupuesto correspondiente a la Escuela Judicial se entenderán asignados a la Universidad Judicial que se crea mediante el presente decreto.
+
+Las personas servidoras públicas adscritas actualmente a la Escuela Judicial podrán ser ratificadas por la Junta de Gobierno, a su prudente arbitrio, para su incorporación a la Universidad Judicial, en pleno respeto de sus derechos laborales adquiridos. En caso contrario, se determinará el cese en la relación laboral, sin responsabilidad para el Poder Judicial, garantizando los derechos laborales correspondientes.
+
+CUARTO. La persona que ocupe la titularidad de la Dirección de la Escuela Judicial del Poder Judicial del Estado ejercerá temporalmente las funciones correspondientes a la Rectoría, hasta en tanto se designa a su persona titular.
+
+QUINTO. La persona titular de la presidencia del Consejo de la Judicatura y la persona titular de la Dirección de la Escuela Judicial quedan facultadas, en sus respectivos ámbitos de competencia, para realizar los trámites respectivos ante las autoridades educativas, que deriven del cumplimiento del presente Decreto.
+
+SEXTO. El reglamento de la Ley deberá ser expedido en un término no mayor a 60 días naturales, a partir de la publicación de este Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+Hasta en tanto se realizan las armonizaciones normativas correspondientes, seguirán aplicables supletoriamente para la Universidad Judicial, en lo que no se opongan al presente decreto, las disposiciones normativas relacionadas con el funcionamiento de la Escuela Judicial.
+
+SÉPTIMO. Quedan derogadas todas las disposiciones legales y reglamentarias que contravengan lo dispuesto en el presente Decreto.
