@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2024-10-09"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -45,23 +45,27 @@ LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
 ## TÍTULO ÚNICO (SIC). DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el Estado de Quintana Roo. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones políticos y electorales de la ciudadanía, y establecer disposiciones aplicables que regulan los procesos electorales que se celebren en la entidad para elegir los cargos a Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos.
+La presente Ley es de orden público y de observancia general en el Estado de Quintana Roo. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones políticos y electorales de la ciudadanía, y establecer disposiciones aplicables que regulan los procesos electorales que se celebren en la entidad para elegir los cargos a Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos, Magistradas y Magistrados, Juezas y Jueces del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 El Instituto Electoral y el Tribunal Electoral en el ejercicio de sus funciones, ajustarán sus actos a los principios rectores en materia electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad, justicia abierta y con perspectiva de género.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+Para efectos de todas las elecciones a las que refiere esta Ley, todos los días y horas son hábiles.
+
 ###### Artículo 2.
 
 El poder público dimana del pueblo, el cual designa a sus representantes mediante elecciones libres, auténticas y periódicas, a través del sufragio universal, libre, secreto, directo, personal e intransferible.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
 
-Es derecho de la ciudadanía ser votada para todos los puestos de elección popular, teniendo las calidades que establece la ley de la materia y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley.
+Es derecho de la ciudadanía ser votada para todos los puestos de elección popular, teniendo las calidades que establece la ley de la materia y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine la Constitución del Estado y esta Ley.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -113,6 +117,10 @@ XVII. Paridad de género: Igualdad política entre mujeres y hombres, se garanti
 
 XVIII. Partidos Políticos: Los partidos políticos nacionales y estatales;
 
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+XVIII Bis. Personas Juzgadoras: Magistradas y Magistrados, Juezas y Jueces que integran el Poder Judicial del Estado, electas por mayoría relativa y voto directo de la ciudadanía.
+
 XIX. Perspectiva de género: Es la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de género;
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
@@ -131,29 +139,35 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley
 
 XXII. Defensoría: La Defensoría Pública Electoral para la Protección de los Derechos Político Electorales del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 4.
 
-La aplicación de esta Ley corresponde al Instituto Estatal y al Tribunal Electoral en el ámbito de sus respectivas competencias, por lo que dispondrán lo necesario para asegurar el debido cumplimiento de la misma.
+La aplicación de esta Ley corresponde al Instituto Estatal, al Tribunal Electoral, a la Legislatura del Estado, a la persona titular del Poder Ejecutivo, y al Poder Judicial del Estado, en el ámbito de sus respectivas competencias, por lo que dispondrán lo necesario para asegurar el debido cumplimiento de la misma.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 Las autoridades federales, estatales y municipales deberán prestar la colaboración para el adecuado desempeño de las funciones de las autoridades electorales establecidas por la Constitución Federal, la Constitución del Estado, la Ley General de Partidos Políticos, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso, la Ley General, y esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 5.
 
-La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde en el ámbito de su competencia, al Instituto Estatal, a los partidos políticos y sus personas candidatas.
+La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde en el ámbito de su competencia, al Instituto Estatal, a los partidos políticos y a las personas candidatas.
 
-El Instituto Electoral de Quintana Roo, los partidos políticos, personas precandidatas y personas candidatas, deberán garantizar el principio de paridad de género en el ejercicio de los derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
 
-El Instituto Estatal, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
+El Instituto Estatal, los Poderes del Estado, los partidos políticos, las personas precandidatas y personas candidatas, deberán garantizar el principio de paridad de género en el ejercicio de los derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
+El Instituto Estatal, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 6.
 
-La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución.
+La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
 
 ## TÍTULO SEGUNDO. DE LA DEMARCACIÓN TERRITORIAL ELECTORAL
 
@@ -165,11 +179,11 @@ La interpretación de esta Ley se hará conforme a los criterios gramatical, sis
 
 Para los efectos de la presente Ley, así como para la renovación periódica de los cargos de Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos, el territorio del Estado de Quintana Roo se divide en secciones electorales, distritos, municipios y circunscripción.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 8.
 
-Para la elección del cargo a Gobernadora o Gobernador, todo el territorio del Estado constituye una circunscripción electoral.
+Para la elección del cargo a Gobernadora o Gobernador y de personas juzgadoras, todo el territorio del Estado constituye una circunscripción electoral.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -182,6 +196,12 @@ Para la elección de diputaciones por el principio de mayoría relativa, el terr
 ###### Artículo 10.
 
 Para efectos de la asignación de diputaciones por el principio de representación proporcional, el territorio del Estado constituye una circunscripción plurinominal.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 10 Bis.
+
+Para efectos de la elección de las personas juzgadoras se estará a lo dispuesto en el Libro Octavo de la presente Ley.
 
 ###### Artículo 11.
 
@@ -289,6 +309,12 @@ El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernadora o
 
 El Poder Legislativo del Estado de Quintana Roo se deposita en el Congreso del Estado, el cual se integra con quince diputaciones electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y diez diputaciones electas según el principio de representación proporcional, mediante el sistema que para tal efecto establezca el artículo 54 de la Constitución Local.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 24 Bis.
+
+El Poder Judicial del Estado de Quintana Roo se deposita en el Tribunal Superior de Justicia, sus Tribunales y Juzgados, que lo ejercerán en el lugar, grado y términos asignados por la Constitución del Estado, su ley orgánica y demás leyes que resulten aplicables. Para efectos del proceso electoral de personas juzgadoras, el Tribunal Superior de Justicia se integra de once personas titulares de las Magistraturas; el Tribunal de Disciplina Judicial se integra por tres personas titulares de las Magistraturas; y los juzgados se determinarán mediante lo dispuesto en la Constitución del Estado y su ley orgánica, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal.
+
 ###### Artículo 25.
 
 Cada municipio será gobernado por un Ayuntamiento integrado por representantes electos según el principio de mayoría relativa, y de representación proporcional en los términos del artículo 134 de la Constitución del Estado.
@@ -321,13 +347,17 @@ Tratándose de elecciones extraordinarias se ajustarán a la fecha y términos q
 
 El Consejo General determinará cuáles serán los órganos electorales encargados de organizar los comicios que hubieren de celebrarse de manera extraordinaria en los términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+En el caso de la elección de personas juzgadoras, la Legislatura del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, conforme a las disposiciones previstas en el Libro Octavo de esta Ley.
+
 ###### Artículo 28.
 
 Se convocará a elecciones extraordinarias en los términos y plazos que marca la Constitución del Estado y esta Ley, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
 
-I. Cuando se declare nula la elección ya sea al cargo de Gobernadora o Gobernador, de diputaciones o de integrantes de los Ayuntamientos;
+I. Cuando se declare nula la elección ya sea al cargo de Gobernadora o Gobernador, de diputaciones, de personas juzgadoras o de integrantes de los Ayuntamientos;
 
 II. En los supuestos previstos en los artículos 83 y 84 de la Constitución del Estado;
 
@@ -344,6 +374,10 @@ V. Por ausencia definitiva de la fórmula de diputaciones independientes por el 
 ###### Artículo 29.
 
 Las convocatorias relativas a elecciones extraordinarias no podrán restringir los derechos de la ciudadanía y de los partidos políticos, ni alterar los procedimientos y formalidades instituidos, más allá, de lo que al efecto establece la Constitución del Estado y esta Ley; se sujetarán a las disposiciones de esta Ley y a las que contenga la propia convocatoria que al efecto se expida.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+Con relación a la elección ordinaria o extraordinaria de personas juzgadoras, los partidos políticos no podrán participar en las etapas, acciones, actividades y sesiones relacionadas a este proceso.
 
 ###### Artículo 30.
 
@@ -460,6 +494,10 @@ VII. Las demás que resulten aplicables en los términos de esta Ley.
 ###### Artículo 38.
 
 Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional o ante el Instituto Estatal, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política estatal y municipal y, como organizaciones ciudadanas, hacer posible el acceso de estos al ejercicio del poder público de acuerdo a los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+Tratándose del proceso electoral de personas juzgadoras, los partidos políticos no podrán participar en las etapas, acciones, actividades y sesiones relacionadas a este proceso, ni solicitar el registro de candidaturas.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1773,6 +1811,10 @@ Los partidos políticos deberán garantizar la paridad género en sus representa
 
 Las consejerías electorales no podrán abstenerse de votar, salvo cuando deban excusarse por alguna de las causas previstas en esta Ley.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+En las sesiones que se celebren para tratar asuntos relacionados con la elección de personas juzgadoras, el Consejo General únicamente se integrará por su presidencia, las consejerías electorales y la Secretaría Ejecutiva.
+
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 130.
@@ -2061,9 +2103,11 @@ V. Establecer vínculos entre el Instituto Estatal y las autoridades federales, 
 
 VI. Comparecer ante el Consejo General en la primera sesión del mes de enero de cada año, y ante el Pleno de la Legislatura, en el mes de octubre de cada año, para rendir un informe anual de labores y resultados, para detallar su contenido y contestar los planteamientos que se le formulen. El informe será remitido a la persona titular del Poder Ejecutivo del Estado, difundido con amplitud a la ciudadanía y publicado en los medios electrónicos oficiales del Instituto Estatal;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
 
-VII. Con el auxilio de la persona titular de la Secretaría Ejecutiva, recibir las solicitudes de registro de candidaturas a Gobernadora o Gobernador del Estado, así como la lista de candidaturas a Diputaciones por el principio de representación proporcional y, de manera supletoria, las de candidaturas a diputaciones por el principio de mayoría relativa y miembros de los Ayuntamientos, sometiéndolas a la consideración del Consejo General para que determine sobre su procedencia;
+VII. Con el auxilio de la persona titular de la Secretaría Ejecutiva, recibir las solicitudes de registro de candidaturas a Gobernadora o Gobernador del Estado, así como la lista de candidaturas a Diputaciones por el principio de representación proporcional y, de manera supletoria, las de candidaturas a diputaciones por el principio de mayoría relativa y miembros de los Ayuntamientos, así como los listados de candidaturas que le remita la Legislatura del Estado a más tardar el doce de febrero del año de la elección que corresponda, sometiéndolas a la consideración del Consejo General para que determine sobre su procedencia.
+
+El Consejo General emitirá acuerdo con el objeto de ordenar la publicación de los listados y continuar con las actividades de la preparación de la elección;
 
 VIII. Vigilar la instalación y funcionamiento de los Consejos Municipales y los Distritales;
 
@@ -4813,7 +4857,7 @@ e) Copia del anverso y reverso de la credencial para votar;
 
 f) Manifestación por escrito del partido político postulante en el que exprese que la persona candidata, cuyo registro solicita, fue electa o designada de conformidad con las normas estatutarias del propio partido político;
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 g) Escrito bajo protesta de decir verdad de no encontrarse sancionada o sancionado administrativamente mediante sentencia firme o, en su caso, sentenciada o sentenciado penalmente mediante sentencia firme, por violencia política contra las mujeres en razón de género.
 
@@ -7137,6 +7181,518 @@ c) Disculpa pública, y
 
 d) Medidas de no repetición.
 
+> <small>(ADICIONADO CON LOS TÍTULOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+# LIBRO OCTAVO. De la Integración del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+## TÍTULO PRIMERO. De la Participación de la Ciudadanía en la Renovación del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 439.
+
+Las magistradas y magistrados del Tribunal Superior de Justicia, las magistradas y magistrados del Tribunal de Disciplina Judicial, las juezas y los jueces del Poder Judicial del Estado de Quintana Roo, serán electas por mayoría relativa y voto directo de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establece la Constitución del Estado, la Ley General y esta Ley.
+
+La elección ordinaria de las personas señaladas en el párrafo anterior que integran el Poder Judicial del Estado de Quintana Roo, se llevará a cabo el primer domingo del mes de junio del año que corresponda.
+
+El Instituto Estatal, en el ámbito de su competencia, será la autoridad responsable de la organización del proceso electivo, su jornada electoral y los cómputos de los resultados electorales.
+
+Se entenderá por órganos desconcentrados del Instituto Estatal los Consejos Distritales y/o Municipales que determine instalar el Consejo General.
+
+Para efectos de lo dispuesto en este Libro, las representaciones de los partidos políticos y/o candidaturas independientes no participarán en la integración y actividades del Consejo General, las Comisiones y los órganos desconcentrados del Instituto Estatal.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 440.
+
+La elección de las personas juzgadoras se llevará a cabo a nivel estatal.
+
+Todo el territorio del Estado constituirá una sola circunscripción para efecto de la elección de personas juzgadoras.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 441.
+
+En caso de ausencia de disposición expresa dentro de este Libro, se aplicará supletoriamente lo dispuesto para los procesos electorales en la Ley General y dentro de esta Ley.
+
+En ningún caso los medios de impugnación producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+## TÍTULO SEGUNDO. Del Proceso Electoral de las Personas Juzgadoras del Poder Judicial del Estado
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO PRIMERO. Reglas Generales
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 442.
+
+El proceso electoral de las personas juzgadoras es el conjunto de actos, ordenados por la Constitución del Estado y esta Ley, realizado por las autoridades electorales, los Poderes Ejecutivo, Legislativo y Judicial, así como la ciudadanía, que tiene por objeto la renovación periódica de las personas juzgadoras.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 443.
+
+Para los efectos de esta Ley, el proceso de elección de las personas juzgadoras comprende las siguientes etapas:
+
+a) Preparación de la elección;
+
+b) Convocatoria, Comités de Evaluación y postulación de candidaturas;
+
+c) Jornada electoral;
+
+d) Cómputos y sumatoria, y
+
+e) Asignación de cargos, entrega de constancias de mayoría y declaración de validez de la elección.
+
+La etapa de preparación de la elección inicia con la primera sesión que el Consejo General celebre en los primeros siete días del mes de enero del año de la elección, y concluye al iniciarse la jornada electoral.
+
+La etapa de convocatoria, Comités de Evaluación y postulación de candidaturas inicia con la publicación de la convocatoria general que emita el Poder Legislativo del Estado conforme a la fracción I del artículo 102 de la Constitución del Estado, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al Instituto Estatal.
+
+La etapa de la jornada electoral inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con la clausura de las casillas.
+
+La etapa de cómputos y sumatoria inicia con la remisión de la documentación y los expedientes electorales a los Consejos correspondientes, y concluye con la sumatoria de los cómputos de la elección que realice el Consejo General.
+
+La etapa de asignación de cargos, entrega de constancias de mayoría y declaración de validez de la elección inicia con la identificación por el Instituto Estatal de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo, en función de su especialización por materia y alternando entre mujeres y hombres, y concluye con la entrega por el Instituto Estatal de las constancias de mayoría a las candidaturas que resulten ganadoras y la emisión de la declaración de validez respectiva.
+
+El proceso electoral del Poder Judicial concluye al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno.
+
+Atendiendo al principio de definitividad que rige la materia electoral, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la persona Secretaria Ejecutiva del Instituto podrá difundir su realización y conclusión por los medios que estime pertinentes.
+
+El Instituto Estatal notificará vía electrónica a las personas candidatas respecto de sus acuerdos y resoluciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO SEGUNDO. De la Convocatoria, Comités de Evaluación y Postulación de Candidaturas
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 444.
+
+La Legislatura del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de candidaturas para la elección de las personas juzgadoras.
+
+La convocatoria general deberá observar las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir, y deberá contener lo siguiente:
+
+a) Fundamentos constitucionales y legales aplicables;
+
+b) Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia;
+
+c) Requisitos y medios de acreditación para cada tipo de cargo, en los términos establecidos por la Constitución del Estado;
+
+d) Etapas y fechas del proceso de elección de las personas juzgadoras, desde la etapa de postulación hasta la de calificación y declaración de validez;
+
+e) Fechas y plazos que deberán observar los Poderes del Estado para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas, y
+
+f) Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+Para la emisión de la convocatoria general, el Órgano de Administración Judicial hará del conocimiento de la Legislatura del Estado los cargos sujetos a elección, la especialización por materia y demás información que requiera. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el Órgano de Administración Judicial lo comunicará de inmediato a la Legislatura del Estado para su incorporación en la convocatoria respectiva.
+
+En caso de que el Órgano de Administración Judicial no remita oportunamente la información que requiera la Legislatura para la elaboración de la convocatoria general, el órgano legislativo la integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 445.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución del Estado y esta Ley.
+
+Los Poderes Ejecutivo, Legislativo y Judicial del Estado instalarán un Comité de Evaluación a través de los mecanismos que determinen. Los Comités privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones. Estarán conformados por cinco personas reconocidas en la actividad jurídica, quienes deberán reunir al menos los siguientes requisitos, observando la paridad de género:
+
+a) Contar con ciudadanía mexicana y ciudadanía quintanarroense, en pleno goce de sus derechos civiles y políticos;
+
+b) No haber sido condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+c) Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica, y
+
+d) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+Los Poderes del Estado publicarán las convocatorias para participar en el proceso de evaluación y selección de postulaciones, que contendrán lo siguiente:
+
+a) La información pertinente contenida en la convocatoria general que publique el Poder Legislativo del Estado;
+
+b) Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación y selección de postulaciones por el Comité de Evaluación respectivo;
+
+c) Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso, y
+
+d) La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo y materia de especialización.
+
+Concluido el plazo para inscribirse en la convocatoria, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, sin que puedan exigirse requisitos adicionales a los establecidos en la Constitución del Estado.
+
+Los Comités publicarán la lista de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad. Las personas aspirantes que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Electoral del Estado, dentro del plazo y conforme al procedimiento que determine la Ley y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, podrán tomar en cuenta su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Poder en su convocatoria para valorar su honestidad y buena fama pública. Por último, los Comités podrán realizar entrevistas públicas a las personas aspirantes que califique más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
+
+La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros Poderes del Estado por el mismo cargo no afectará el resultado de la evaluación.
+
+Los Comités de Evaluación integrarán un listado de las tres personas mejor evaluadas para cada cargo y publicarán dicho listado en los medios idóneos para tal fin.
+
+Los Comités, en su caso, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo atendiendo a su especialidad por materia y observando la paridad de género, publicarán los resultados en los medios idóneos habilitados y los remitirán a la autoridad que represente a cada Poder para su aprobación en términos del artículo 102 de la Constitución del Estado y de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular de la Gubernatura del Estado;
+
+b) El Poder Legislativo, por conducto del pleno de la Legislatura, mediante votación calificada de las dos terceras partes de sus integrantes presentes, y
+
+c) El Poder Judicial, por conducto del pleno del Tribunal Superior de Justicia, por votación favorable de ocho votos de las Magistradas y los Magistrados.
+
+Los listados aprobados en términos del párrafo anterior por los Poderes del Estado serán remitidos a la Legislatura del Estado a más tardar el 12 de febrero del año de la elección que corresponda, en los términos establecidos en la convocatoria general, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas. Los Poderes del Estado que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidos para hacerlo posteriormente.
+
+Cada Poder del Estado deberá resguardar una copia certificada de los listados y expedientes remitidos a la Legislatura del Estado.
+
+La Legislatura establecerá en la convocatoria general el formato en que se incorporarán las listas respectivas por cada Poder del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 446.
+
+La Legislatura del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado conforme al tipo de elección y los remitirá al Instituto Estatal.
+
+El Poder Judicial del Estado incorporará a los listados que remita, a las personas que se encuentren en funciones en los cargos de Magistradas y Magistrados y Juezas y Jueces anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La Legislatura cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los otros Poderes del Estado para un cargo diverso al que ocupen.
+
+En caso de que dos o más Poderes postulen simultáneamente a una persona candidata para diversos cargos, prevalecerá el primer registro ante el Comité de Evaluación respectivo. La Legislatura cancelará la candidatura o candidaturas restantes y procederá a notificarlo al Poder postulante, para efecto de que realice la sustitución respectiva, en términos del artículo siguiente.
+
+La Legislatura del Estado estará impedida de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas y se limitará a integrar y remitir los listados y sus expedientes al Instituto Estatal a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 447.
+
+En caso de fallecimiento, incapacidad, inhabilitación, declinación o cancelación de alguna de las personas candidatas, el Poder del Estado postulante podrá solicitar a la Legislatura del Estado su sustitución antes del inicio de la impresión de las boletas electorales, favoreciendo a la persona mejor evaluada que siga en la lista o en su caso, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se trate. En todo caso, deberá garantizarse la paridad de género.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO TERCERO. De la Organización de la Elección
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 448.
+
+El Instituto Estatal es la autoridad responsable de la organización, desarrollo y cómputo de la elección de personas juzgadoras del Poder Judicial del Estado. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, probidad, máxima publicidad y objetividad, así como la paridad de género.
+
+La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General celebre en los primeros siete días del mes de enero del año de la elección.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 449.
+
+Corresponde al Consejo General:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en la normatividad aplicable;
+
+II. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Llevar a cabo la elección a nivel estatal;
+
+V. Realizar los cómputos de la elección;
+
+VI. Coordinarse con el Instituto Nacional Electoral para la distribución del tiempo al que las personas candidatas tendrán acceso para el uso de radio y televisión, en observancia de la normatividad aplicable;
+
+VII. Organizar y desarrollar, en su caso, foros entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VIII. Recibir y registrar las candidaturas en el listado que al efecto remita la Legislatura;
+
+IX. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura;
+
+X. Garantizar la equidad en el desarrollo de las campañas entre las personas candidatas;
+
+XI. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo;
+
+XII. Determinar para cada elección de las personas juzgadoras el número y tipo de consejos que deberán instalarse, y
+
+XIII. Dictar los acuerdos necesarios para hacer efectivas las atribuciones establecidas en este artículo, las que establezcan las leyes y demás disposiciones aplicables.
+
+El Consejo General no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Primera. De la Propaganda
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 450.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial del Estado podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+No se podrá difundir propaganda fuera del tiempo que comprendan las campañas electorales.
+
+La propaganda no podrá contener alusiones a colores o elementos de partidos políticos, así como a símbolos de carácter gubernamental.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 451.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas integrantes del Poder Judicial del Estado, de conformidad con lo dispuesto por los artículos 102 y 166 Bis de la Constitución del Estado.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 452.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 453.
+
+La difusión de propaganda electoral solo será impresa en papel, en formato de volante, díptico o tríptico, deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Atendiendo el periodo legal de las campañas, la difusión deberá suspenderse y la propaganda deberá retirarse tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 454.
+
+Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre y cuando no impliquen erogaciones para potenciar o amplificar sus contenidos, sujetándose a las disposiciones normativas que al efecto emita la autoridad competente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Segunda. Encuestas y Sondeos de Opinión
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 455.
+
+El Consejo General realizará sus funciones en materia de encuestas o sondeos de opinión en el marco del proceso de elección de personas juzgadoras del Poder Judicial del Estado, de conformidad con las reglas, lineamientos y criterios emitidos por el Consejo General del Instituto Nacional Electoral.
+
+Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+
+Queda prohibida la contratación de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión, por parte de personas candidatas y de los partidos políticos, por sí o por interpósita persona.
+
+La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas por el Instituto Estatal en su página de Internet, en el ámbito de su competencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Tercera. De la Elección Judicial
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 456.
+
+En el mes de diciembre del año previo a la elección, el órgano de administración judicial remitirá al Instituto Estatal la información que este requiera para la organización de la elección. En caso de que el órgano de administración judicial no remita dicha información, el Instituto Estatal determinará lo conducente con la información pública que disponga.
+
+La Junta General, con base en la información remitida por el órgano de administración judicial, elaborará un plan integral y calendario de trabajo para la organización y ejecución del proceso electoral, en el cual indicará los órganos desconcentrados del Instituto Estatal que coadyuvarán en la organización de la elección, así como en la respectiva etapa de cómputos de las elecciones.
+
+El Consejo General aprobará el plan integral y calendario de trabajo y llevará a cabo la instalación de los órganos desconcentrados estrictamente indispensables para la realización de la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 457.
+
+El Instituto Estatal instalará los órganos desconcentrados a que hace referencia este Libro, de acuerdo con la suficiencia presupuestal, que coadyuvarán con el Consejo General en la organización y cómputo de la elección de personas juzgadoras del Poder Judicial del Estado, teniendo las mismas atribuciones a que se refiere esta Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Cuarta. De las Mesas Directivas de Casilla
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 458.
+
+La integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas para la recepción de la votación, así como la capacitación de las personas funcionarias de casilla, se realizará en los términos dispuestos en esta Ley y de la normatividad aplicable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Quinta. De las Boletas y Materiales Electorales
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 459.
+
+Para la emisión del voto el Consejo General, en apego a las disposiciones que, en su caso, emita el Instituto Nacional Electoral, determinará el modelo de las boletas electorales, la documentación del proceso de elección de las personas juzgadoras y los materiales que serán utilizados en ésta.
+
+El Instituto Estatal será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 460.
+
+Por cada tipo de elección se empleará una sola boleta que contendrá la siguiente información general:
+
+a) Cargo para el que se postula la persona candidata;
+
+b) Entidad federativa;
+
+c) Primer apellido, segundo apellido y nombre completo de las personas candidatas, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas;
+
+d) Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto Estatal, y
+
+e) Especialidad por materia a la que se postula cada persona candidata, en su caso.
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa, municipio o distrito electoral. El número de folio será progresivo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Sexta. De la Observación Electoral
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 461.
+
+La ciudadanía podrá ejercitar sus derechos como persona observadora electoral en términos de lo dispuesto por el artículo 217 de la Ley General y conforme a los acuerdos que al efecto emita el Instituto Nacional Electoral.
+
+Las personas observadoras acreditadas deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad. Podrán participar como personas observadoras las personas físicas o agrupaciones acreditadas ante el Instituto Estatal, con excepción de aquellas personas que sean representantes o militantes de partidos políticos.
+
+Las organizaciones a las que pertenezcan las personas observadoras acreditadas serán responsables de supervisar las actividades que realicen, así como del cumplimiento de los requisitos y obligaciones que establece la Ley General. Las organizaciones que tengan conocimiento de alguna falta, omisión o irregularidad de una de sus personas observadoras en el desarrollo de sus funciones deberán solicitar al Instituto Nacional Electoral el retiro de su acreditación. La falta de supervisión imputable a la organización respectiva será causa para que se niegue o retire la acreditación a la organización participante.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Séptima. De las Campañas Electorales
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 462.
+
+La campaña electoral, para los efectos de este Libro, es el conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras para la obtención del voto por parte de la ciudadanía.
+
+Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución del Estado, la Ley General y esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 463.
+
+Las personas candidatas podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros organizados y brindados gratuitamente por el sector público, privado o social en condiciones de equidad, observando las directrices y acuerdos que al efecto emita el Consejo General en observancia a lo dispuesto en la Ley General y esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 464.
+
+Las campañas electorales para la promoción de las candidaturas establecidas en este Libro tendrán una duración de treinta días improrrogables.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 465.
+
+Las personas candidatas solo podrán erogar recursos propios de origen lícito con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial del Estado y dentro de los periodos de campaña respectivos. Se entiende por recursos propios únicamente el peculio de las personas candidatas.
+
+Los topes de gastos personales, por cada persona candidata, serán determinados por el Consejo General del Instituto en función del tipo de elección que se trate y no podrán ser superiores al límite de aportaciones individuales que pueden realizar las personas candidatas independientes a diputaciones.
+
+Queda prohibido que las personas candidatas, por sí o interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Octava. Del Listado Nominal
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 466.
+
+Durante la jornada electoral se utilizará el Listado Nominal de Electores de forma física o digital, conforme lo determine el Instituto Nacional.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+#### Sección Novena. De las Actividades del Instituto Estatal para la Promoción de la Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 467.
+
+El Consejo General aprobará la metodología para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público.
+
+La metodología deberá ser imparcial, objetiva y con fines informativos, y contemplará por lo menos la creación de un micrositio en la página de Internet oficial del Instituto Estatal para informar a la ciudadanía sobre el proceso electivo y dar a conocer las candidaturas registradas.
+
+El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las personas candidatas, incluyendo la versión pública de los expedientes que acrediten su elegibilidad e idoneidad para el cargo que se trate, así como información relativa al proceso electivo, ajustándose al menos a lo siguiente:
+
+a) No será un medio de propaganda política;
+
+b) Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+c) Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+d) La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el Instituto Estatal, que deberá supervisar que se ajuste a esta Ley y los parámetros que al efecto determine el Consejo General, y
+
+e) La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+Para efectos de las actividades que realice el Instituto Estatal para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Instituto Estatal, medios electrónicos o digitales institucionales, plataformas digitales de difusión de información, periódicos de mayor circulación y cobertura en la entidad, entre otros.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO CUARTO. De la Jornada Electoral
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 468.
+
+La jornada electoral se desarrollará en los términos establecidos dentro de esta Ley, debiéndose llenar al efecto la documentación que apruebe el Consejo General por parte de las personas funcionarias de las mesas directivas de casilla, conforme a la estrategia de integración determinada por el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 469.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+a) Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta.
+
+b) El Instituto Estatal determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir.
+
+c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 470.
+
+El escrutinio de las votaciones en casilla para los cargos de elección del Poder Judicial del Estado, se realizará en el orden siguiente:
+
+a) Personas magistradas integrantes del Tribunal Superior de Justicia;
+
+b) Personas magistradas integrantes del Tribunal de Disciplina Judicial;
+
+c) Juezas y jueces integrantes del Poder Judicial del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO QUINTO. De los Cómputos y Sumatoria
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 471.
+
+El Consejo General y los órganos desconcentrados realizarán el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete.
+
+El Consejo General emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 472.
+
+Concluidos los cómputos de cada elección, los órganos desconcentrados remitirán al Consejo General, por la vía más expedita que este determine, las actas de los cómputos correspondientes, mismas que contendrán los votos obtenidos dentro de la demarcación respectiva por tipo de elección.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO SEXTO. De la Asignación de Cargos, Entrega de Constancias de Mayoría y Declaración de Validez de la Elección
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 473.
+
+Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género, iniciando la asignación por mujer; y publicará los resultados de la elección.
+
+El Instituto Estatal hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+Emitida la declaración de validez de la elección, el Instituto Estatal comunicará los resultados al Tribunal Electoral y a la Legislatura del Estado.
+
+El Tribunal Electoral resolverá las impugnaciones que se hayan presentado contra las constancias de mayoría y declaración de validez, tres días antes de que la Legislatura del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+###### Artículo 474.
+
+Las personas juzgadoras electas deberán tomar protesta ante el Pleno de la Legislatura del Estado el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda, y publicará el decreto respectivo en el Periódico Oficial del Estado.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
@@ -7376,3 +7932,45 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Pleno del Tribunal Electoral de Quintana Roo llevará acabo (sic) el procedimiento previsto en la Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo, para la designación de la Persona Titular de su Órgano Interno de Control, quien deberá cumplir con los requisitos establecidos en el artículo 51 Bis de la Constitución Política del Estado Libre y Soberano de Quintana Roo y deberá ser designado para un periodo de siete años en el cargo con posibilidad de reelección por un periodo adicional de igual duración. La designación se realizará en el mismo plazo a que se refiere el párrafo primero del artículo tercero transitorio del Decreto 002 expedido por la H. XVIII Legislatura del Estado y publicado en fecha 09 de septiembre de 2024.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 093 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE QUINTANA ROO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En lo que respecta a la etapa de convocatoria, Comités de Evaluación y postulación de candidaturas de las personas juzgadoras del Poder Judicial del Estado en el marco del Proceso Electoral Extraordinario 2025, las autoridades competentes observarán, por única ocasión, lo dispuesto en el presente Decreto conforme a los plazos siguientes:
+
+1. El Poder Legislativo del Estado emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de candidaturas a que hace referencia el artículo 444 de esta Ley, a más tardar el 13 de febrero del 2025;
+
+2. Los Poderes del Estado publicarán las convocatorias para participar en el proceso de evaluación y selección de postulaciones en los términos del artículo 444 de esta Ley, a más tardar el 14 de febrero de 2025;
+
+3. El plazo para que las personas interesadas se inscriban en las convocatorias emitidas por los Poderes del Estado comprenderá del 14 de febrero al 24 de febrero de 2025;
+
+4. Los Comités de Evaluación verificarán que las personas aspirantes que hayan concurrido a la convocatoria reúnan los requisitos constitucionales de elegibilidad a través de la documentación que presenten, en los términos de lo dispuesto en la Constitución del Estado y esta Ley, y publicarán el listado de las personas que hayan cumplido con los requisitos constitucionales de elegibilidad el 2 de marzo de 2025;
+
+5. Los Comités de Evaluación calificarán la idoneidad de las personas elegibles en los términos del artículo 445 de esta Ley y elaborarán el anteproyecto de listado respectivo;
+
+6. Cada Comité de Evaluación depurará, en su caso, dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo por cada Poder atendiendo a la paridad de género, el 11 de marzo de 2025; posteriormente, publicarán el listado de las personas mejor evaluadas para cada cargo en los estrados, portales oficiales y redes sociales de los Poderes respectivos y lo remitirán a más tardar el 12 de marzo de 2025 a la autoridad que represente a cada Poder para su aprobación, en términos del artículo 102 de la Constitución del Estado y el artículo 445 de esta Ley de conformidad con lo siguiente:
+
+a) El Poder Ejecutivo, por conducto de la persona titular de la Gubernatura del Estado;
+
+b) El Poder Legislativo, por conducto del Pleno de la Legislatura del Estado, mediante votación calificada de las dos terceras partes de sus integrantes presentes, y
+
+c) El Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, por votación favorable de ocho votos de las Magistradas y Magistrados. En este caso, se incorporará a las personas juzgadoras en funciones en términos de lo dispuesto en el artículo 102 de la Constitución del Estado y de esta Ley.
+
+7. Los listados aprobados en términos del numeral anterior serán remitidos al Poder Legislativo del Estado, en los términos del artículo 102 de la Constitución del Estado, a más tardar el 14 de marzo de 2025, y
+
+8. El Poder Legislativo del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado en los términos del artículo 102 de la Constitución del Estado y los remitirá al Instituto Electoral de Quintana Roo a más tardar el 20 de marzo de 2025 a efecto de que organice el proceso electivo.
+
+TERCERO. Para efectos de la organización del Proceso Electoral Extraordinario 2025, los órganos desconcentrados a instalar por el Instituto Estatal serán únicamente Consejos Municipales, a más tardar dentro de los sesenta días siguientes de la fecha de inicio del proceso electoral.
+
+Asimismo, la Comisión de Partidos Políticos del Instituto Estatal será la encargada de ejecutar y dar atención a todas las actividades y gestiones inherentes a las candidaturas de personas juzgadoras, organización de foros, y las demás que el Consejo General del Instituto Estatal le señale.
+
+El Instituto Estatal realizará los trámites y procedimientos respectivos para la autorización de la ampliación presupuestal correspondiente, en términos del artículo décimo primero transitorio de la Declaratoria número 001 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el día 13 de enero de 2025.
+
+CUARTO. Las disposiciones aplicables del presente Decreto para el órgano de administración judicial corresponderán al Consejo de la Judicatura hasta su extinción, en los términos del régimen transitorio de la Declaratoria número 001 por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el día 13 de enero de 2025.
+
+QUINTO. La persona titular de la Magistratura Unitaria para Adolescentes que se encuentre en funciones a la entrada en vigor del presente decreto continuará en el ejercicio de su cargo, en los mismos términos en que hubiese sido designada, conservando el derecho a haber de retiro, en caso de su ratificación en el cargo.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
