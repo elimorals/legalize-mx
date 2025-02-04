@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2024-10-09"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,19 @@ state: "ROO"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "INSTITUTO MUNICIPAL DE LAS MUJERES DE GENERAL BRAVO"
 
-LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de marzo de 2008.
 
-Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
+JOSÉ CONCEPCIÓN GARZA RODRÍGUEZ, Presidente Municipal de General Bravo Nuevo León y representante de su Ayuntamiento, con-fundamento en los articulas 26, inciso b), fracción IX; 27, fracción IV; 83; 84; 85, y 815 de la ley Orgánica de la Administración Pública Municipal, y
 
-DECRETO NÚMERO: 097
+CONSIDERANDO.
 
-POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO.
+En virtud de lo anterior, he tenido a bien expedir el siguiente:
 
-LA HONORABLE XV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
-
-D E C R E T A:
-
-ÚNICO. Se expide la Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo, para quedar como sigue:
-
-LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
+REGLAMENTO QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "INSTITUTO MUNICIPAL DE LAS MUJERES DE GENERAL BRAVO"
 
 # LIBRO PRIMERO. DE LA INTEGRACIÓN DE LOS PODERES EJECUTIVO, LEGISLATIVO, ASÍ COMO DE LOS AYUNTAMIENTOS
 
@@ -49,405 +43,369 @@ LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el Estado de Quintana Roo. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones políticos y electorales de la ciudadanía, y establecer disposiciones aplicables que regulan los procesos electorales que se celebren en la entidad para elegir los cargos a Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
-
-El Instituto Electoral y el Tribunal Electoral en el ejercicio de sus funciones, ajustarán sus actos a los principios rectores en materia electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad, justicia abierta y con perspectiva de género.
+Se crea un organismo público descentralizado de la administración pública municipal denominado "Instituto Municipal de las Mujeres de General Bravo, Nuevo León, con personalidad jurídica y patrimonio propio y con domicilio en el Municipio de General Bravo, Nuevo León.
 
 ###### Artículo 2.
 
-El poder público dimana del pueblo, el cual designa a sus representantes mediante elecciones libres, auténticas y periódicas, a través del sufragio universal, libre, secreto, directo, personal e intransferible.
+Para los efectos de este Reglamento se entenderá por:
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+JUNTA DE GOBIERNO.- Junta de Gobierno del Instituto Municipal de las Mujeres de General Bravo, Nuevo León.
 
-Es derecho de la ciudadanía ser votada para todos los puestos de elección popular, teniendo las calidades que establece la ley de la materia y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley.
+DIRECCIÓN GENERAL.- Dirección General del Instituto Municipal de las Mujeres de General Bravo, Nuevo León.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+INSTITUTO.- Instituto Municipal de las Mujeres de General Bravo, Nuevo León.
 
-Los derechos políticos y electorales en la entidad se ejercerán sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas, libre de violencia política en contra de las mujeres en razón de género, grupos sociales vulnerables o en situaciones de riesgo.
+GÉNERO.- Al concepto que refiere a los valores,, atributos, roles y representaciones que la sociedad asigna a varones y mujeres.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+EQUIDAD DE GÉNERO.- Al concepto que refiere al principio conforme al cual mujeres y varones acceden con justicia e igualdad al uso, control y beneficio de los bienes y servicios de la sociedad, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones, el trato, las oportunidades y los beneficios del desarrollo en todos los ámbitos de la vida social, económica, política, educativa, cultural y familiar.
+
+PERSPECTIVA DE GÉNERO.- Al concepto que se refiere a la metodología y los instrumentos que permiten identificar, cuestionar y valorar la discriminación, desigualdad o exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas y psicológicas entre mujeres y varones; así como las acciones que debe emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género.
+
+PLAN MUNICIPAL DE LAS MUJERES.- Al conjunto de programas y acciones con definición de objetivos y metas específicos que se contienen en el Plan Municipal de Desarrollo y demás, que apruebe la Junta de Gobierno, ya que constituye el documento que orienta la conducción de la tarea pública, social, política, económica, laboral, cultural, educativa, profesional y académica que impulse el Instituto; además de ser el documento regulador de los programas de corto, mediano y largo plazo y de las acciones y programas de trabajo anuales y trienales del mismo.
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley se entiende por:
-
-I. Actos anticipados de campaña: Los actos de expresión que se realicen bajo cualquier modalidad y en cualquier momento fuera de la etapa de campañas, que contengan llamados expresos al voto en contra o a favor de una candidatura o un partido político, o expresiones solicitando cualquier tipo de apoyo para contender en el proceso electoral por alguna candidatura o para un partido político;
-
-II. Actos anticipados de precampaña: Los actos de expresión que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
-
-III. Persona afiliada o persona militante: La ciudadanía que, en pleno goce y ejercicio de sus derechos políticos y electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido político en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
-
-IV. Persona simpatizante: Es la persona que se adhiere espontáneamente a un partido, por afinidad con las ideas que este postula, aunque sin llegar a vincularse a él por el acto formal de afiliación;
-
-V. Candidatura Independiente: La ciudadanía que sin ser postulada por un partido político obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
-
-VI. Ciudadanía: Las personas que teniendo la calidad de mexicanas o mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
-
-VII. Consejo General: El Consejo General del Instituto Electoral de Quintana Roo;
-
-VIII. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
-
-IX. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de Quintana Roo;
-
-X. Instituto Nacional: El Instituto Nacional Electoral;
-
-XI. Instituto Estatal: El Instituto Electoral de Quintana Roo;
-
-XII. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo;
-
-XIII. Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
-
-XIV. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
-
-XV. Ley: La Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo;
-
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2024)</small>
-
-XV Bis. Ley de Responsabilidades Administrativas del Estado: A la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios;
-
-XVI. Ley de Medios: Ley Estatal de Medios de Impugnación en materia Electoral;
-
-XVII. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
-
-XVIII. Partidos Políticos: Los partidos políticos nacionales y estatales;
-
-XIX. Perspectiva de género: Es la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de género;
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
-
-XX. Tribunal Electoral: El Tribunal Electoral de Quintana Roo;
-
-XXI. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
-
-Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
-
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, personas simpatizantes, personas precandidatas o personas candidatas postuladas por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares; y,
-
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
-
-XXII. Defensoría: La Defensoría Pública Electoral para la Protección de los Derechos Político Electorales del Estado de Quintana Roo.
+El Instituto tendrá autonomía técnica y de gestión para el pleno cumplimiento de sus atribuciones y objetivos.
 
 ###### Artículo 4.
 
-La aplicación de esta Ley corresponde al Instituto Estatal y al Tribunal Electoral en el ámbito de sus respectivas competencias, por lo que dispondrán lo necesario para asegurar el debido cumplimiento de la misma.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-Las autoridades federales, estatales y municipales deberán prestar la colaboración para el adecuado desempeño de las funciones de las autoridades electorales establecidas por la Constitución Federal, la Constitución del Estado, la Ley General de Partidos Políticos, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso, la Ley General, y esta Ley.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+El objeto general del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades y de trato entre los géneros; el ejercicio pleno de todos los derechos de las mujeres de General Bravo, Nuevo León y su participación equitativa en la vida política, cultural, económica y social del municipio.
 
 ###### Artículo 5.
 
-La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde en el ámbito de su competencia, al Instituto Estatal, a los partidos políticos y sus personas candidatas.
+El Instituto tendrá como objetivos específicos:
 
-El Instituto Electoral de Quintana Roo, los partidos políticos, personas precandidatas y personas candidatas, deberán garantizar el principio de paridad de género en el ejercicio de los derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres.
+I. Ejecutar el Plan Municipal de las Mujeres, estableciendo e implementando programas para la promoción integral de las mujeres, distinguiendo los que serán ejecutados por el Instituto y los coordinados con otras dependencias, señalando los programas y las instancias responsables.
 
-El Instituto Estatal, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en esta Ley.
+II. Todos los programas del Instituto serán dirigidos a impulsar el desarrollo integral.de las mujeres del municipio, para la equidad de género sea una realidad cultural posible en todos los ámbitos de la vida.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+III. Realizar acciones y programas para garantizar la conciencia y el ejercicio pleno de todas las mujeres de sus derechos establecidos en la Constitución Política del Estado de Nuevo (sic) el Código Civil y demás leyes federales y estatales, así como en convenciones y Tratados Internacionales.
+
+IV. Activar la participación de las mujeres del municipio en el proceso de toma de decisiones en la vida económica, política, social y cultural.
+
+V. Fomentar una cultura de respeto a la dignidad de las mujeres en todos los ámbitos de 'la vida para superar toda forma o práctica de discriminación o exclusión social.
+
+VI. Vincular y canalizar a las mujeres del municipio para su integración en el mercado de trabajo, procurando el desarrollo d e su vida laboral y , profesional, dándole acceso a fuentes de ingreso con apoyo de los programas federales y estatales, e Iniciativa Privada.
 
 ###### Artículo 6.
 
-La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución.
+Para efecto del cumplimiento de sus objetivos, el Instituto tendrá las siguientes atribuciones y responsabilidades:
+
+I. Elaborar un diagnóstico de las realidades de las mujeres en las distintas zonas y colonias del municipio para, con esa base, definir y aplicar políticas, lineamientos y criterios en programas que respondan a las situaciones detectadas.
+
+II. Fomentar en Gral. Bravo, N.L. la cultura de la no violencia, mediante la instrumentación de acciones dirigidas a prevenir el maltrato y violencia intrafamiliar, la discriminación, la exclusión y la trasgresión de cualquiera de los derechos de las mujeres.
+
+III. Elaborar y suscribir convenios para colaboración con organismos públicos, privados y sociales, nacionales e internacionales, a fin de unir esfuerzos para el desarrollo de programas y proyectos a favor de las mujeres.
+
+IV. Fomentar en coordinación con las autoridades correspondientes, la educación para la salud, la procreación responsable, así como campañas de prevención y atención de las enfermedades propias de las mujeres.
+
+V. Crear programas educativos y de investigación para fortalecer las condiciones de las mujeres en cualquier ámbito de la sociedad e implementar programas de atención para las niñas, mujeres en desventaja social o familiar, en condiciones de pobreza, de la tercera edad, con capacidades diferentes y de grupos vulnerables.
+
+VI. Participar, organizar y coordinar toda clase de actos y eventos en los que se traten las problemáticas que afectan a las mujeres, a nivel municipal, regional, estatal, nacional o internacional.
+
+VII. Incrementar la participación activa de organizaciones civiles y comités de vecinos en la realización de los programas del Instituto.
+
+VIII. Impulsar la incorporación de la perspectiva de género en el Plan Municipal de Desarrollo, en los presupuestos y en los programas y acciones que ejecuten las dependencias del Gobierno Municipal.
+
+IX. Producir, promover y publicar obras y materiales impresos, electrónicos y de multimedia que contengan estudios e investigaciones para beneficio de las mujeres en el municipio.
+
+X. Generar un banco de datos de consulta impresa y electrónica con respecto a programas y beneficios para las mujeres en el municipio de acuerdo a la Ley de Acceso a la Información Pública.
+
+XI. Establecer vinculación y acuerdos con las autoridades Estatales y Federales de Procuración, impartición de justicia y de Seguridad Pública, para procurar en el municipio las medidas necesarias preventivas, de atención y sanciones contra cualquier violación de los derechos de las mujeres.
+
+XII. Gestionar y aplicar las aportaciones de recursos provenientes de gobierno, dependencias e Instituciones públicas y de organizaciones privadas y sociales, así como de empresas y personas físicas interesadas en apoyar el desarrollo integral de las mujeres.
+
+XIII. Otorgar reconocimiento a mujeres sobresalientes, en las diferentes áreas de su competencia, o por su labor en beneficio de la sociedad.
+
+XIV. Generar convenios con las universidades, tanto por sus programas de servicio social, así como para el plan de becas del instituto, con las escuelas públicas, privadas, Institutos y Academias en apoyo al bienestar social.
+
+XV. Fomentar mediante programas y acciones, cambios culturales en la psicología grupal, que repercutan en las estructuras sociales y todos aquellos aspectos contrarios a la equidad de género.
+
+XVI. Prestar todos aquellos servicios y programas que estén encaminados al cumplimiento de los objetivos del Instituto.
 
 ## TÍTULO SEGUNDO. DE LA DEMARCACIÓN TERRITORIAL ELECTORAL
 
-### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 7.
 
-Para los efectos de la presente Ley, así como para la renovación periódica de los cargos de Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos, el territorio del Estado de Quintana Roo se divide en secciones electorales, distritos, municipios y circunscripción.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+El Instituto contará con una Junta de Gobierno, como órgano de gobierno; una Directora General, como órgano de administración; y un Comisario como órgano de fiscalización.
 
 ###### Artículo 8.
 
-Para la elección del cargo a Gobernadora o Gobernador, todo el territorio del Estado constituye una circunscripción electoral.
+La Junta de Gobierno estará integrada por:
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+I. Una o un presidente, que será la o el Presidente Municipal.
+
+II. La Directora General del Instituto sólo con derecho a voz, la cual además fungirá como Secretaria Técnica.
+
+III. Hasta cinco consejeras nombradas por el R. Ayuntamiento a propuesta de la o el Presidente Municipal, que serán distinguidas- mujeres integrantes de organismos públicos o de la sociedad civil, que se hayan destacado por su labor social, política, cultural, educativa, académica, profesional o laboral, que sean representativas de la sociedad o avaladas por organizaciones civiles.
+
+Las consejeras durarán en su cargo un periodo de un año, pudiendo ser reelegidas.
+
+IV. Cinco Vocales, que podrán ser los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal Desarrollo Integral de la Familia (DIF) Municipal; Secretaria de Promoción Social; Dirección de Fomento Económico; la Dirección General de Salud; y, el residente de la Comisión de Salud del R. Ayuntamiento.
+
+Las o los vocales durarán en su cargo el mismo periodo que el de los Consejeros.
+
+En los casos a los que se refieren las fracciones I, III y IV, cada miembro propietario contará con un suplente, los cuales, en ambos casos, tendrán derecho a voz y voto. El Presidente podrá invitar a la persona que considere pertinente en relación al asunto a tratar, sólo con derecho a voz.
+
+En ausencia del Presidente, éste será suplido por la o el Presidente del Desarrollo Integral de la Familia, o en su defecto, por la o el Secretario de Desarrollo Social.
 
 ###### Artículo 9.
 
-Para la elección de diputaciones por el principio de mayoría relativa, el territorio se divide en quince distritos electorales uninominales.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+La Junta de Gobierno celebrara sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que proponga su Presidente o al menos seis de sus miembros.
 
 ###### Artículo 10.
 
-Para efectos de la asignación de diputaciones por el principio de representación proporcional, el territorio del Estado constituye una circunscripción plurinominal.
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo su Presidente voto de calidad en caso de empate.
 
 ###### Artículo 11.
 
-Los Municipios constituyen la base de la división territorial y de la organización política y administrativa del Estado. Los municipios son once, y su extensión territorial comprende la superficie y límites reconocidos para cada uno de ellos, en los términos de la Constitución del Estado, misma extensión que servirá de base para la elección de aquellos.
+La Junta de Gobierno podrá acordar la formación de comisiones permanentes o transitorias para la mejor distribución de su trabajo y para el cumplimiento pleno de sus atribuciones y responsabilidades. Funcionarán, al menos, las comisiones permanentes de Seguimiento y Evaluación del Plan Municipal de las Mujeres, la Administración y las Finanzas del Instituto.
 
-### CAPÍTULO SEGUNDO. DE LAS SECCIONES, DISTRITOS, MUNICIPIOS Y CIRCUNSCRIPCIÓN
+### CAPÍTULO SEGUNDO. DEL OBJETO Y ATRIBUCIONES DEL INSTITUTO
 
 ###### Artículo 12.
 
-La sección electoral es la demarcación territorial básica en que se divide el territorio del Estado para la organización de las elecciones y la recepción del sufragio.
+La Junta de Gobierno tendrá las siguientes atribuciones y responsabilidades:
+
+I. Aprobar, adicionar, o modificar en su caso, el contenido del Plan Municipal de las Mujeres, evaluar el cumplimiento del mismo y darle el seguimiento correspondiente; dicho programa deberá revisarse y evaluarse al menos anualmente. Asimismo deberá aprobar los programas trienal y anual de trabajo pudiéndolos adicionar o modificar en cualquier tiempo.
+
+II. Revisar, autorizar y evaluar, en congruencia con el Plan Municipal de Desarrollo del Municipio y el presente Reglamento, las políticas generales y los programas y acciones prioritarias que en beneficio de las mujeres deberá realizar el Instituto, así como darles el seguimiento correspondiente.
+
+III. Aprobar el proyecto de presupuesto de ingresos que contenga la solicitud del monto anual de transferencia que se presentará al R. Ayuntamiento para su aprobación, a propuesta de la Dirección General.
+
+IV. Revisar y en su caso aprobar, el informe del estado de ,ingresos y egresos que con periodicidad trimestral y anual le presente la Dirección General.
+
+V. Aprobar anualmente las partidas, del presupuesto de egresos del Instituto, a propuesta de la Dirección General.
+
+VI. Aprobar el informe de Cuenta Pública que presentará el Instituto conforme a los lineamientos y disposiciones que establezcan la Secretaria de Finanzas y Tesorería Municipal y la Ley de la Contaduría Mayor de Hacienda.
+
+VII. Aprobar y modificar en su caso, el organigrama general del Instituto a propuesta de la Dirección General, atendiendo a los principios de economía, profesionalismo, eficacia, calidad y productividad.
+
+VIII. Establecer la remuneración que percibirá la Directora General asi como los (as) participantes laborales del Instituto, tomando en cuenta las propuestas de la Dirección General.
+
+IX. Establecer lineamientos generales para el mejor funcionamiento del Instituto:
+
+X. Establecer indicadores para medir el impacto social de los programas y acciones que realice el Instituto.
+
+XI. Revisar, y en su caso aprobar, el informe trimestral y anual de actividades que rinda la Dirección General.
+
+XII. Aprobar y modificar en su caso, el Manual de Organización del Instituto, en el cual se deberán contener la denominación, objetivo y funciones especificas de las distintas áreas administrativas y su estructura funcional, a propuesta de la Dirección General.
+
+XIII. Aprobar y modificar en su caso, los manuales de procedimiento y de servicios al público del Instituto, a propuesta de la Dirección General.
+
+XIV. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto para el pleno cumplimiento de sus objetivos y acordar programas o acciones que deba realizar la Directora General.
+
+XV. Aprobar el Estatuto Orgánico del Instituto.
 
 ###### Artículo 13.
 
-Las secciones electorales en que se divide el territorio del Estado, comprenderán cada una un máximo de tres mil electores.
+Lo no previsto e n e l presente Reglamento sobre el funcionamiento de la Junta de Gobierno, se resolverá mediante acuerdo de la misma.
 
-###### Artículo 14.
+###### Articulo 14.
 
-Se entiende por distrito electoral uninominal, la demarcación territorial en la que será electa una fórmula de diputados propietario y suplente, por el principio de mayoría relativa.
+La Directora General del Instituto será designada y removida por la Junta Directiva a propuesta del Presidente de la misma, debiendo reunir los siguientes requisitos:
+
+I. Ciudadana mexicana en pleno ejercicio de sus derechos.
+
+II. Radicada en el Municipio de Gral. Bravo, N.L. por lo menos-un año antes de asumir el cargo.
+
+III. Que goce de buena reputación y no haya sido condenada por delito doloso que amerite pena corporal por más de un año de prisión, ni delitos de los considerados graves.
+
+IV. Escolaridad mínima universitaria o equivalente.
+
+V. Con destacada experiencia de trabajo preferentemente en la labor social o áreas de humanidades en beneficio del desarrollo de las mujeres y/o de la familia.
 
 ###### Artículo 15.
 
-Para los efectos de las elecciones municipales a que se refiere el presente ordenamiento, el Estado de Quintana Roo se divide en los siguientes once municipios, que por orden alfabético son: Bacalar, Benito Juárez, Cozumel, Felipe Carrillo Puerto, Isla Mujeres, José María Morelos, Lázaro Cárdenas, Othón P. Blanco, Puerto Morelos, Solidaridad y Tulum.
+La Dirección General tendrá las siguientes facultades y obligaciones:
+
+l. Celebrar y otorgar toda clase de actos y documentos respecto del objeto del Instituto;
+
+II. Ejercer facultades de dominio, administración, pleitos y cobranzas, aun aquellas que requieran cláusula especial. Tratándose de cualesquiera actos de dominio, se requerirá la autorización previa de la Junta de Gobierno;
+
+III. Otorgar, sustituir y revocar .poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial;
+
+IV. Formular denuncias y querellas y proponer a la Junta de Gobierno el perdón legal, cuando a su juicio proceda, así como comparecer por oficio, al igual que los inferiores jerárquicos inmediatos, a absolver posiciones en términos de la ley procesal que corresponda;
+
+V. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
+
+VI. Celebrar transacciones en materia judicial y comprometer asuntos en arbitraje;
+
+VII. Ejecutar los acuerdos de la junta de Gobierno;
+
+VIII. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+IX. Suscribir y negociar títulos de crédito, así como tramitar y obtener cartas de crédito, previa autorización de la Junta de Gobierno sujetándose a las disposiciones legales y administrativas aplicables;
+
+X. Elaborar y expedir el Estatuto Orgánico, las Reglas de Operación y la reglamentación interna de los programas sustantivos, así como sus modificaciones; y, los manuales de organización, de procedimientos y de servicios del Instituto;
+
+XI. Acordar las condiciones generales de trabajo del Instituto;
+
+XII. Proporcionar la información que le solicite el Comisario;
+
+XIII. Informar a la Junta de Gobierno sobre el ejercicio de las facultades que este artículo le concede, y
+
+XIV. Las que le confieren los ordenamientos aplicables y las demás que, con fundamento en este Reglamento, le delegue la Junta de Gobierno.
 
 ###### Artículo 16.
 
-Se entiende por circunscripción plurinominal, el territorio del Estado en el que se lleva a cabo la asignación de diputados por el principio de representación proporcional, de acuerdo con las disposiciones de esta Ley.
-
-El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+La Dirección General, en el ejercicio de sus atribuciones y responsabilidades, se auxiliará de las áreas administrativas que sean creadas para el mejor cumplimiento de sus objetivos.
 
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LA CIUDADANÍA EN LAS ELECCIONES
 
-### CAPÍTULO ÚNICO. DE LOS REQUISITOS DE ELEGIBILIDAD
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+### CAPÍTULO TERCERO. DE LOS ORGANOS Y FUNCIONAMIENTO DEL INSTITUTO
 
 ###### Artículo 17.
 
-Son requisitos para los cargos de Gobernadora o Gobernador, Diputada o Diputado e integrantes de los Ayuntamientos, además de los que señalan respectivamente la Constitución Federal y la Constitución del Estado, los siguientes:
-
-I. Contar con inscripción en el Registro Federal de Electores;
-
-II. Contar con credencial para votar;
-
-III. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2023)</small>
-
-IV. No ser titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
-
-V. No encontrarse sancionada o sancionado administrativamente mediante sentencia firme o, en su caso, sentenciada o sentenciado penalmente mediante sentencia firme, por violencia política contra las mujeres en razón de género.
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-VI. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijuridicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, y
-
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2023)</small>
-
-VII. No ser declarada persona deudora alimentaria morosa.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+El órgano de vigilancia del Instituto será una o un Comisario que será designado por el Ayuntamiento a propuesta de la o el Presidente Municipal, dicha designación deberá recaer preferentemente en la o el titular de la Contraloría Interna Municipal, o uno de sus subordinados, directos. La o el Comisario, sin ser miembro de la Junta de Gobierno, asistirá a las sesiones ordinarias y extraordinarias de la Junta de Gobierno con voz pero sin voto.
 
 ###### Artículo 18.
 
-La ciudadanía que no se encuentren en los supuestos contenidos en el artículo 89 de la Constitución del Estado, y que reúnan los requisitos establecidos en los artículos 80 de la Constitución del Estado y 17 de la presente Ley, son elegibles para el cargo de Gobernadora o Gobernador del Estado de Quintana Roo.
+La o el Comisario tendrá las siguientes atribuciones y responsabilidades:
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+l. Vigilar que los gastos, cuentas y administración de los recursos del Instituto se apliquen adecuadamente para el cumplimiento de sus objetivos.
+
+II. Vigilar el cumplimiento de las disposiciones legales, así como de las reglamentarias y administrativas vigentes y demás aplicables en la administración de los recursos y en el funcionamiento del Instituto.
+
+III. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación del Instituto.
+
+IV. Vigilar la Instrumentación y funcionamiento de los sistemas de programación y presupuestación del Instituto.
+
+V. Examinar y evaluar los sistemas, mecanismos y procedimientos de control presupuestario y funcional del Instituto:
+
+VI. Promover y vigilar que el Instituto establezca indicadores básicos de gestión en materia de operación, eficiencia, productividad, financieros y de impacto social que permita medir y evaluar su desempeño.
+
+VII. Presentar oportunamente el Informe con los resultados para su revisión financiera o procesos administrativos del Instituto.
+
+VIII. Recomendar a la Dirección General las medidas correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento administrativo del Instituto.
+
+IX. Las demás que le otorguen las leyes, reglamentos y disposiciones que le sean inherentes al ejercicio de su competencia.
+
+Para el cumplimiento de las funciones de la o el Comisario, la Dirección General estará obligada a proporcionarle oportunamente la información y documentación que le sea requerida.
 
 ###### Artículo 19.
 
-La ciudadanía que no se encuentren en cualquiera de los supuestos previstos en el artículo 56 de la Constitución del Estado y reúnan los requisitos establecidos en los artículos 55 de la misma y 17 de la presente Ley, son elegibles para el cargo a las diputaciones para integrar la Legislatura del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+La o el Comisario informará anualmente a la Junta de Gobierno sobre el resultado del ejercicio de sus facultades de vigilancia, debiendo, además, presentar informes cuando le sean requeridos por ésta sobre la situación financiera, la aplicación de los recursos o el estado de la administración del Instituto.
 
 ###### Artículo 20.
 
-La ciudadanía que no se encuentren en los supuestos del artículo 139 de la Constitución del Estado y reúnan los requisitos establecidos en los artículos 136 de la misma y 17 de la presente Ley, son elegibles para ser integrantes de los Ayuntamientos del Estado de Quintana Roo. En el registro de estas candidaturas los partidos políticos deberán garantizar el principio de paridad de género.
+El Informe anual que rinde la o el Comisario deberá contener cuando menos la siguiente información:
 
-Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
+l. Situación administrativa y financiera del Instituto.
+
+II. Integración de los programas en relación con los presupuestos y su situación.
+
+III. Cumplimiento de la normatividad aplicable al Instituto, políticas generales y acuerdos de la Junta de Gobierno.
+
+IV. Cumplimiento de los acuerdos, convenios y contratos suscritos por el Instituto.
+
+V. Contenido y suficiencia del Informe anual presentado por la Dirección General; señalando en su caso las posibles omisiones.
+
+VI. Formulación de las recomendaciones que sean procedentes.
+
+La o el Comisario tendrá acceso a todas las áreas administrativas y operaciones del Instituto y deberá mantener independencia; objetividad e imparcialidad en los informes que emita.
 
 ###### Artículo 21.
 
-(DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2020)
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+En Instituto contará con las unidades administrativas centrales que sean necesarias para el cumplimiento de su objeto y funciones.
 
 ###### Artículo 22.
 
-A ninguna persona podrá registrársele como persona candidata a distintos cargos de elección popular en el mismo proceso electoral. Tampoco podrá registrársele a ninguna persona a una candidatura para un cargo local de elección popular y simultáneamente para otro federal o municipal, en su caso. En este supuesto, si el registro para el cargo de la elección federal o de otro estado ya estuviere hecho, se procederá a la cancelación automática del registro estatal.
+El patrimonio del Instituto se constituirá por:
+
+I. La Transferencia que en su favor se establezca en el presupuesto de egresos anual del municipio y que sea determinada por el Ayuntamiento.
+
+II. Los bienes muebles, inmuebles, obras y servicios, derechos y obligaciones que le asignen y transmitan los Gobiernos Federal, Estatal y Municipal, o cualquier otra entidad pública.
+
+III. Las donaciones, herencias, legados, aportaciones y demás liberalidades que le otorguen persona física o cualquier institución pública o privada.
+
+IV. Los fondos estatales, nacionales o internacionales, públicos o privados, obtenidos para el financiamiento de programas específicos en beneficio de las mujeres en el Municipio.
+
+V. Los derechos, productos o ingresos que adquiera por cualquier titulo legal.
+
+VI. Los demás bienes, servicios, derechos, productos y aprovechamientos que fijan las leyes y reglamentos o que provengan de otros-fondos o aportaciones.
 
 ## TÍTULO CUARTO. DE LA ELECCIÓN DE LOS PODERES EJECUTIVO, LEGISLATIVO Y DE LOS AYUNTAMIENTOS
 
-### CAPÍTULO PRIMERO. DE LOS PODERES EJECUTIVO, LEGISLATIVO Y AYUNTAMIENTOS
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+### CAPÍTULO CUARTO. DEL PATRIMONIO Y DEL PRESUPUESTO DEL INSTITUTO
 
 ###### Artículo 23.
 
-El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernadora o Gobernador del Estado, electa o electo cada seis años por mayoría relativa y voto directo en toda la entidad.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+En la disposición sobre sus bienes muebles e inmuebles, el Instituto se regirá por lo establecido en la ley Orgánica de la Administración Pública Municipal y las demás legislación aplicable.
 
 ###### Artículo 24.
 
-El Poder Legislativo del Estado de Quintana Roo se deposita en el Congreso del Estado, el cual se integra con quince diputaciones electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y diez diputaciones electas según el principio de representación proporcional, mediante el sistema que para tal efecto establezca el artículo 54 de la Constitución Local.
+En el presupuesto de egresos del municipio, que anualmente apruebe el R. Ayuntamiento se, fijará el monto anual que como transferencia corresponderá al Instituto, sin perjuicio que le sean asignados recursos adicionales.
 
 ###### Artículo 25.
 
-Cada municipio será gobernado por un Ayuntamiento integrado por representantes electos según el principio de mayoría relativa, y de representación proporcional en los términos del artículo 134 de la Constitución del Estado.
+La Secretaría de Finanzas y Tesorería realizará ministraciones iguales mensuales.
 
-### CAPÍTULO SEGUNDO. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
+### CAPÍTULO QUINTO. DEL RÉGIMEN LABORAL
 
 ###### Artículo 26.
 
-Las elecciones ordinarias se verificarán el primer domingo de junio del año que corresponda, para elegir:
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-I. Gobernadora o Gobernador del Estado, cada seis años;
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-II. Diputaciones al Congreso del Estado, cada tres años, y
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-III. Integrantes de los Ayuntamientos, cada tres años.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+La administración del Instituto estará sujeta a la normatividad y lineamientos que en materia de contabilidad, presupuesto, gasto y cuenta pública rijan para el gobierno Municipal.
 
 ###### Artículo 27.
 
-El Consejo General convocará a elecciones ordinarias para elegir cargos de Gobernadora o Gobernador, Diputadas y Diputados e integrantes de los Ayuntamientos, en la sesión en que se declare el inicio del proceso electoral ordinario.
-
-Tratándose de elecciones extraordinarias se ajustarán a la fecha y términos que señale la convocatoria que habrá de expedir el Congreso del Estado.
-
-El Consejo General determinará cuáles serán los órganos electorales encargados de organizar los comicios que hubieren de celebrarse de manera extraordinaria en los términos de esta Ley.
+La Dirección General establecerá un sistema de evaluación y control que le permita el ejercicio del presupuesto de egresos del Instituto en forma programada.
 
 ###### Artículo 28.
 
-Se convocará a elecciones extraordinarias en los términos y plazos que marca la Constitución del Estado y esta Ley, en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-I. Cuando se declare nula la elección ya sea al cargo de Gobernadora o Gobernador, de diputaciones o de integrantes de los Ayuntamientos;
-
-II. En los supuestos previstos en los artículos 83 y 84 de la Constitución del Estado;
-
-III. En los supuestos contemplados en el artículo 143 de la Constitución del Estado;
-
-IV. En caso de desastre natural o por fuerza mayor que impida la celebración de las elecciones ordinarias, y
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-V. Por ausencia definitiva de la fórmula de diputaciones independientes por el principio de mayoría relativa, dentro de la mitad del periodo del encargo.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+Las operaciones de adquisiciones, arrendamientos y prestación de servicios que realice el Instituto podrán ejercerse en\forma autónoma por éste, sujetándose al Reglamento de adquisiciones, arrendamientos y prestación de servicios para el Gobierno Municipal en lo que respecta a los procedimientos a seguir, según el monto de la operación o bien, mediante convenio con la dependencia del Gobierno Municipal que tenga las atribuciones en esta materia, según satisfaga a la economía y eficiencia del Instituto.
 
 ###### Artículo 29.
 
-Las convocatorias relativas a elecciones extraordinarias no podrán restringir los derechos de la ciudadanía y de los partidos políticos, ni alterar los procedimientos y formalidades instituidos, más allá, de lo que al efecto establece la Constitución del Estado y esta Ley; se sujetarán a las disposiciones de esta Ley y a las que contenga la propia convocatoria que al efecto se expida.
+Los recursos de inconformidad que formulen los proveedores por razón de las operaciones de adquisiciones, arrendamientos o prestación de servicios que realice directamente el Instituto, se tramitarán ante la Dirección General, en los términos y plazos que se establecen en el Reglamento precitado.
+
+La Dirección General fijará los lineamientos que, en la materia, deberá observar el área administrativa del Instituto encargada de realizar las operaciones de adquisiciones, arrendamientos y prestación de servicio, sin demérito de las disposiciones y lineamientos que establezca la Secretaría de Tesorería Pública.
 
 ###### Artículo 30.
 
-En el caso de elecciones extraordinarias, el Consejo General ajustará los plazos relativos a las distintas etapas del proceso electoral establecidos en esta Ley, conforme a la fecha señalada en la convocatoria respectiva para la celebración de la elección de que se trate.
+Los bienes y derechos del instituto estarán afectos al cumplimiento de los objetivos del mismo, por lo que es nulo todo acto, contrato o convenio que les dé un fin distinto.
 
 # LIBRO SEGUNDO. DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
 ## TÍTULO PRIMERO. DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
-### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO SEXTO. PREVENCIONES GENERALES
 
 ###### Artículo 31.
 
-Las Agrupaciones Políticas Estatales son formas de asociación ciudadana que coadyuvan al desarrollo de la vida democrática y al fortalecimiento de la cultura política, así como a la creación de una opinión pública mejor informada.
-
-Las Agrupaciones Políticas Estatales no podrán utilizar, bajo ninguna circunstancia, la denominación de “partido” o “partido político”.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+Las relaciones Laborales entre el Instituto y sus Trabajadores se regirán por la ley de Servicios Civiles del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 32.
 
-Las Agrupaciones Políticas Estatales sólo podrán participar en procesos electorales locales mediante acuerdos de participación con un Partido Político. No podrán hacerlo con coaliciones ni con candidatos comunes o independientes. Las candidaturas surgidas de los acuerdos de participación serán registradas por el Partido Político y serán votadas con la denominación, emblema, color o colores de éste.
+Los cargos de Consejera son honoríficos; por lo que no recibirán remuneración, compensación o gratificación alguna por el desempeño de sus funciones. Los servidores públicos del Gobierno Municipal integrantes de la Junta de Gobierno que funjan como .vocales, desempeñaran su función en razón de la inherencia de su cargo, por lo que no recibirán remuneración adicional a la que perciban del Municipio.
 
-En la propaganda y campaña electoral, se podrá mencionar a la Agrupación participante.
+La o el Comisario desempeñará su función en forma honorífica; si el nombramiento que haga el Ayuntamiento recae en un servidor público del Municipio, se considerará su labor como parte de las obligaciones como servidor público de éste y no recibirá remuneración adicional a la que percibe del mismo.
 
 ###### Artículo 33.
 
-El Acuerdo de Participación a que se refiere el artículo anterior, deberá presentarse para su registro ante el órgano competente del Instituto Estatal, que en todo caso, será previo al registro de candidatos.
+Los Servidores Públicos del Instituto tendrán las obligaciones e incurrirán en las responsabilidades que para los mismos se establecen en la ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, la demás legislación aplicable y los reglamentos Municipales.
 
-Las agrupaciones Políticas Estatales estarán sujetas a las obligaciones y procedimientos de fiscalización de sus recursos conforme a lo establecido en esta Ley así como en los reglamentos, lineamientos o acuerdos que emita el Instituto Estatal.
-
-### CAPÍTULO SEGUNDO. DEL REGISTRO DE LAS AGRUPACIONES POLÍTICAS ESTATALES
+### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### Artículo 34.
 
-Para obtener el registro como Agrupación Política Estatal, quien lo solicite deberá acreditar ante el Instituto Estatal los siguientes requisitos:
-
-I. Contar con un mínimo de asociados en el Estado equivalente al cero punto ocho por ciento del padrón electoral con corte al mes de diciembre del año previo a la emisión de la convocatoria, así como contar con un órgano directivo de carácter estatal; además, tener órganos de representación en por lo menos seis de los municipios de la Entidad;
-
-II. Contar con documentos básicos cuyos postulados ideológicos y programáticos sean diferentes a los partidos políticos y otras agrupaciones nacionales y estatales, y
-
-III. Contar con una denominación distinta a cualquier otra agrupación o partido.
-
-Las asociaciones interesadas presentarán durante el mes de enero del año anterior al de la elección, previa convocatoria del Instituto Estatal, junto con su solicitud de registro, la documentación con la que acrediten los requisitos anteriores y los que en su caso señale el Consejo General.
-
-Para el caso de acreditar el número de asociados deberán presentar el padrón de los mismos, a fin de que la autoridad electoral correspondiente pueda disponer lo conducente para constatar tal situación. De igual forma, señalar los domicilios de su órgano estatal y los municipales.
-
-El Consejo General dentro del plazo máximo de sesenta días naturales contados a partir de la fecha en que conozca de las solicitudes de registro, resolverá lo conducente. Cuando proceda el registro, el Consejo General expedirá el certificado respectivo y se registrará el mismo en el Libro que para tal efecto se disponga. En caso de negativa, expresará las causas que la motivan y lo comunicará a la asociación interesada. La resolución correspondiente deberá publicarse en el Periódico Oficial del Estado.
-
-Cuando hubiese procedido el registro de las Agrupaciones Políticas Estatales, surtirá efectos a partir del día siguiente de la publicación referida, y en consecuencia, adquirirán todos los derechos y obligaciones que le otorga la presente ley, con excepción de los recursos económicos, los cuales se les ministrarán a partir del mes de enero del año siguiente, en los términos que para tal efecto se disponga.
+En la medida que se modifiquen las condiciones sociales y económicas del Municipio, en virtud de su crecimiento demográfico, cambio social, modificación de sus actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad en forma directa o a través de organizaciones sociales representativas, así como investigaciones y diagnósticos oficiales y/o del mismo Instituto.
 
 ###### Artículo 35.
 
-Las Agrupaciones Políticas Estatales perderán su registro por las siguientes causas:
+La Junta de Gobierno del Instituto podrá sugerir modificaciones a este ordenamiento, debiendo ser remitidas al R. Ayuntamiento a través del Presidente de dicho órgano de gobierno.
 
-I. Cuando se haya acordado su disolución por la mayoría de sus miembros;
-
-II. Haberse dado las causas de disolución conforme a sus documentos básicos;
-
-III. Por incumplir de manera grave con las disposiciones contenidas en el presente ordenamiento;
-
-IV. Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
-
-V. No acreditar actividad alguna durante un año calendario, en los términos que establezca el reglamento;
-
-VI. No presentar informes en los términos señalados en la Ley, reglamentos, lineamientos o acuerdos emitidos por el Instituto Estatal, y
-
-VII. Las demás que se señalen en los ordenamientos electorales.
-
-### CAPÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LAS AGRUPACIONES POLÍTICAS ESTATALES
+### CAPÍTULO DÉCIMO PRIMERO (SIC). RECURSOS DE INCONFORMIDAD
 
 ###### Artículo 36.
 
-Las Agrupaciones Políticas Estatales tendrán los siguientes derechos:
-
-I. Personalidad jurídica propia;
-
-II. Ostentarse con su denominación propia y difundir su ideología;
-
-III. Realizar las actividades necesarias para alcanzar sus objetivos políticos y sociales;
-
-IV. Celebrar los acuerdos respectivos con los partidos políticos para participar en los procesos electorales, y
-
-V. Los demás que les confiera la Ley.
-
-Las agrupaciones políticas con registro, a fin de acreditar los gastos realizados, deberán presentar a más tardar en el mes de diciembre de cada año los comprobantes de los mismos. Las agrupaciones políticas con registro, deberán presentar además, un informe del ejercicio anterior sobre el origen y destino de los recursos que reciban por cualquier modalidad. El informe a que se refiere el párrafo anterior deberá presentarse a más tardar dentro de los noventa días siguientes al último día de diciembre del año del ejercicio que se reporte al Instituto Estatal. Los derechos que les correspondan con motivo de su participación en los procesos electorales, se harán valer por conducto de los representantes del partido con los que hayan celebrado el acuerdo respectivo.
+Los interesados o afectados por las resoluciones o actos de las autoridades administrativas emanadas del presente Reglamento podrán interponer el recurso de inconformidad o intentar el juicio contencioso administrativo correspondiente.
 
 ###### Artículo 37.
 
-Las Agrupaciones Políticas Estatales tendrán las siguientes obligaciones:
-
-I. Cumplir los acuerdos tomados por el Consejo General;
-
-II. Cumplir con los lineamientos y normas que rijan su vida interna;
-
-III. Mantener en vigor los requisitos que les fueron exigidos para su constitución y registro;
-
-IV. Registrar ante el Consejo General los acuerdos a que se refiere la fracción IV del artículo anterior para que surtan sus efectos;
-
-V. Comunicar al Instituto Estatal, dentro del término de treinta días naturales siguientes a la fecha en que se realicen las modificaciones a su denominación, domicilio social, documentos básicos, normas internas y órganos directivos;
-
-VI. Comunicar al Instituto Estatal de las altas y bajas de sus asociados, dentro de los treinta días posteriores a que se realicen, y
-
-VII. Las demás que resulten aplicables en los términos de esta Ley.
+las (sic) bases y reglas para presentación de recursos de inconformidad serán las mismas de aquel que prevé el Reglamento de la Administración del Gobierno de Gral. Bravo, N.L.
 
 # LIBRO TERCERO. DE LOS PARTIDOS POLÍTICOS
 
@@ -7139,107 +7097,27 @@ d) Medidas de no repetición.
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se abroga la Ley Orgánica del Instituto Electoral de Quintana Roo y la Ley Orgánica del Tribunal Electoral de Quintana Roo, ambas publicadas en el Periódico Oficial del Gobierno del Estado de Quintana Roo de fecha 27 de agosto de 2002, mediante Decretos número 9 y 10 de la X Legislatura del Estado de Quintana Roo.
+SEGUNDO.- La Junta de Gobierno Directivo deberá constituirse e instalarse dentro de los treinta días naturales siguientes a la vigencia de este ordenamiento.
 
-TERCERO. Se abroga la Ley Electoral del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo de fecha 4 de marzo de 2004, mediante decreto número 105 de la X Legislatura del Estado de Quintana Roo.
+TERCERO.- Por única vez, el ejercicio de cargo de Consejeras será desde la fecha del Nombramiento hasta la conclusión del período constitucional del Ayuntamiento 2006-2009, permaneciendo en su cargo hasta que se realice EL nuevo nombramiento, pudiendo ser ratificadas. En el caso de nombramiento de Consejeras que sean integrantes de Organismos Públicos, si durasen en su cargo un tiempo menor en dicho organismo al indicado en este articulo, serán sustituidas conforme a lo dispuesto en el articulo 8º, fracción III, de este Reglamento.
 
-CUARTO. La elección ordinaria local a celebrarse el primer domingo de julio del año 2018 para la renovación de los Ayuntamientos del Estado de Quintana Roo, se sujetará a lo siguiente:
+CUARTO.- El Plan Municipal de las Mujeres, el programa anual de trabajo para el año 2008, el programa trienal de trabajo y el manual de organización del Instituto, deberán elaborarse y aprobarse dentro de los noventas días naturales a partir de la vigencia de este Reglamento.
 
-I. El Proceso Electoral dará inicio entre el 15 y 20 de diciembre del año 2017, mediante declaratoria que emita el Instituto Electoral de Quintana Roo;
+QUINTO.- La Directora General expedirá, previa aprobación de la Junta de Gobierno del Instituto Municipal de las Mujeres de General Bravo, Nuevo León, el Estatuto Orgánico de dicha entidad en un plazo de noventa días, contado a partir de la entrada en vigor de esta Ley.
 
-II. El Periodo de precampaña electoral, comprenderá del 3 de enero al 1 de febrero del año 2018;
+SEXTO.- Una vez en vigencia el presente Reglamento, publíquese en la Gaceta Municipal para su mejor difusión y en el portal electrónico de Internet del Municipio, para el cumplimiento en lo establecido en el artículo 9 de la Ley de I A Acceso a la información Pública del Estado de Nuevo León.
 
-III. El registro de candidatos se realizará del 1 al 10 de abril del año 2018 y la declaración de procedencia de registro de candidatos que emita el Instituto Electoral de Quintana Roo, deberá llevarse a cabo a más tardar un día antes del inicio de la campaña electoral;
+General Bravo, Nuevo León, a 31 de enero de 2008.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS XVII, XVIII Y XX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE DICIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Presidente Municipal
 
-IV. La duración de la campaña electoral será de 45 días, CONTADOS DEL 14 DE ABRIL AL 27 DE JUNIO DEL AÑO 2018;
+C. Profr. José Concepción Garza Rodriguez
 
-V. El proceso de selección de candidatos independientes se sujetará a las fechas siguientes:
+Directora General
 
-a) El Instituto Electoral de Quintana Roo deberá publicar la convocatoria para el proceso de selección de candidatos independientes a miembros de los Ayuntamientos, el 3 de enero de 2018;
-
-b) El registro de aspirantes a candidatos independientes se realizará del 4 al 8 de enero del año 2018 y la declaración de procedencia del registro de aspirantes deberá ser emita por el Instituto Electoral de Quintana Roo, a más tardar el 13 de enero del año 2018;
-
-c) El plazo para la obtención del respaldo ciudadano de los aspirantes a candidatos independientes, se realizará del 14 de enero al 6 de febrero del año 2018, y
-
-d) La Declaración de procedencia de candidatos independientes, se realizará a más tardar el 16 de febrero del año 2018.
-
-VI. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente los plazos establecidos en el presente artículo.
-
-VII. Por única ocasión, a más tardar en el mes de noviembre del año 2017, el Consejo General del Instituto Electoral de Quintana Roo determinará con base en el padrón electoral con corte al mes de octubre de 2017, los topes de gastos de precampaña y de campaña.
-
-VIII. En el caso de la reelección de los miembros de los ayuntamientos del Estado, éstos estarán sujetos a los lineamientos que emita el Instituto Nacional Electoral.
-
-QUINTO. Para garantizar la concurrencia total de los procesos electorales del Estado de Quintana Roo con los procesos electorales federales, se estará a lo siguiente:
-
-I. La duración del cargo de diputado a elegirse en el año 2022, será de dos años y comprenderá del 3 de septiembre del año 2022 al 2 de septiembre del año 2024, y
-
-II. La duración del cargo de Gobernador a elegirse en el año 2022, será de cinco años y comprenderá del 25 de septiembre de 2022 al 24 de septiembre del año 2027.
-
-SEXTO. El Instituto Electoral y el Tribunal Electoral de Quintana Roo, en un plazo no mayor a noventa días contados a partir de la publicación de la presente Ley, deberá armonizar su normatividad conforme a la presente Ley.
-
-SÉPTIMO. Los procedimientos iniciados por las autoridades electorales administrativas o jurisdiccionales, con anterioridad o que se encuentren en trámite a la entrada en vigor de la presente ley, serán concluidos bajo la competencia de los mismos, conforme a las disposiciones aplicables vigentes al momento de su inicio.
-
-OCTAVO. Se derogan las disposiciones que se opongan a la presente Ley.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
-
-NOVENO. La elección ordinaria local a celebrarse el primer domingo de junio del año 2019 para la renovación del Poder Legislativo del Estado de Quintana Roo, se sujetará a lo siguiente:
-
-I. El Proceso Electoral dará inicio con la primera sesión que el Consejo General del Instituto Electoral de Quintana Roo celebre en la primera semana del mes de enero del año 2019, y
-
-II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la ley.
-
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2020)</small>
-
-DÉCIMO. La elección ordinaria local concurrente a celebrarse el primer domingo de junio del año 2021 para la renovación de los Ayuntamientos del Estado de Quintana Roo, se sujetará a lo siguiente:
-
-I. El Proceso Electoral dará inicio con la primera sesión que el Consejo General del Instituto Electoral de Quintana Roo celebre en la primera semana del mes de enero del año 2021, y
-
-II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la Ley.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2021)</small>
-
-UNDÉCIMO. La elección ordinaria local a celebrarse el primer domingo del mes de junio del año 2022 para la renovación de la Gubernatura y las Diputaciones Locales, ambas del Estado Libre y Soberano de Quintana Roo, se sujetará a lo siguiente:
-
-I. El Proceso Electoral dará inicio con la primera sesión que el Consejo General del Instituto Electoral de Quintana Roo celebre en la primera semana del mes de enero del año 2022, y
-
-II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la ley.
-
-SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS QUINCE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE.
-
-DIPUTADO PRESIDENTE:
-
-LIC. EDUARDO LORENZO MARTÍNEZ ARCILA.
-
-DIPUTADA SECRETARIA:
-
-C. EUGENIA GUADALUPE SOLÍS SALAZAR.
-
-CARLOS MANUEL JOAQUÍN GONZÁLEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, A LOS HABITANTES DEL MISMO, SABED:
-
-EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN II Y 93 DE LA CONSTITUCIÓN POLÍTICA Y 11 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, AMBAS DEL ESTADO DE QUINTANA ROO, PROMULGO EL DECRETO NÚMERO 097 DE LA XV LEGISLATURA, QUE ME HA SIDO REMITIDO POR EL H. CONGRESO DEL ESTADO, PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA.
-
-DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE.
-
-EL GOBERNADOR DEL ESTADO DE QUINTANA ROO.
-
-RUBRICA
-
-C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ
-
-EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
-
-RUBRICA
-
-LIC. FRANCISCO XAVIER LÓPEZ MENA
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 21 DE JUNIO DE 2018.
+C. Ramona Guadalupe Reyes Ruelas
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 198 POR EL QUE SE ADICIONA UN ARTÍCULO NOVENO TRANSITORIO AL DECRETO NÚMERO 097 DE LA XV LEGISLATURA DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
 
