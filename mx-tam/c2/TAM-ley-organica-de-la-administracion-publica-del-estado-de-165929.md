@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-01-16"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -559,7 +559,9 @@ VI. Promover y coordinar proyectos de infraestructura económica para el increme
 
 VII. Promover con las Dependencias y Entidades competentes, así como con las Entidades Estatales y Municipales correspondientes, el establecimiento en el medio rural de plantas agroindustriales y coadyuvar en la implementación de los programas de transporte y comercialización que se requieran para promover la economía en el territorio estatal;
 
-VIII. Impulsar el establecimiento y crecimiento de la micro, pequeña y mediana industria en el Estado, y coadyuvar en la organización de la actividad artesanal, artes populares e industrias familiares, en coordinación con las instancias federales, estatales y municipales competentes;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+VIII. Impulsar el establecimiento y crecimiento de la micro, pequeña y mediana industria en el Estado, y coadyuvar brindando asesoría en materia de registro de marcas, como parte de la organización de la actividad artesanal, artes populares e industrias familiares, en coordinación con las instancias federales y estatales competentes;
 
 IX. Efectuar los estudios técnicos que determinen la creación de parques industriales, centros de abasto, y comerciales, a fin de promover el desarrollo económico sostenible en el Estado;
 
@@ -1732,3 +1734,11 @@ La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán su
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-234 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 49 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
