@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2020-02-04"
+last_updated: "2025-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 233 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 4 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2025 (ABROGADA).
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -1488,3 +1490,31 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 233 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se abroga la Ley Número 825 de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el 16 de abril de 2013, así como sus reformas y adiciones.
+
+TERCERO. Quedan sin efecto todas las disposiciones que contravengan a la presente Ley.
+
+En tanto se emiten las disposiciones normativas derivadas de la presente Ley, continuarán en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en lo que no se oponga a la presente Ley, las disposiciones reglamentarias previamente emitidas a esta Ley.
+
+CUARTO. El Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro de los noventa días hábiles siguientes a la fecha de su entrada en vigor.
+
+QUINTO. Los procedimientos de contratación que se encuentren en trámite o pendientes de resolución, a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+SEXTO. Los contratos, convenios y otros actos jurídicos celebrados antes de la entrada en vigor de la presente Ley, continuarán regulándose hasta su terminación por las disposiciones vigentes al momento de su celebración.
+
+SÉPTIMO. Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+OCTAVO. La Secretaría de Infraestructura y Obras Públicas, deberá expedir las disposiciones de contratación a que se refiere el artículo 15 de la presente Ley de Obras Públicas y Servicios Relacionados con Ellas para el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor de noventa días hábiles siguientes a la fecha de entrada en vigor de la presente Ley.
+
+NOVENO. En tanto se realizan las modificaciones conducentes a la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz, derivado de las modificaciones a que se refiere la presente Ley, en materia de contratación y ejecución de obras públicas y servicios relacionados con ellas, las Dependencias y Entidades de la Administración Pública del Estado de Veracruz deberán coordinarse con la Secretaría de Infraestructura y Obras Públicas, para llevar a cabo la planeación, programación, presupuestación, contratación y ejecución de obras públicas y servicios relacionados con ellas.
+
+DÉCIMO. En un término no mayor a noventa días hábiles, la SIOP conjuntamente con la SEFIPLAN determinarán lo conducente respecto al impacto presupuestal que se origine con motivo de la presente Ley.
+
+DÉCIMO PRIMERO. En virtud de la emisión de la presente Ley, se deberán derogar los artículos 259 A al 259 H del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, así como, realizar las modificaciones al Decreto de Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave, para el Ejercicio Fiscal 2025.
