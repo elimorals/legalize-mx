@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2024-12-21"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2076,6 +2076,10 @@ IX.- Quien dañe, altere o impida el adecuado funcionamiento o monitoreo de cám
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 X.- Se deroga (sic)
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+XI.- Quien posea o porte, en su persona, en el vehículo en el que se encuentre o se relacione con este, aeronaves pilotadas a distancia, así como también aquellos de desplazamiento terrestre que sean operados a control remoto, medios electrónicos o mediante mecanismos similares, equipadas con dispositivos que permitan fotografiar o realizar grabaciones de audio o video, para vigilar actividades de personas servidoras públicas con la finalidad de conocer o reportar su ubicación para evadir su acción o ejecutar agresiones en su contra, así como aquellas adaptadas para transportar, activar y detonar explosivos, artefactos explosivos, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de emplearse como explosivos.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2011)</small>
 
@@ -4391,9 +4395,11 @@ II.- De tres a cinco años de prisión y multa de cincuenta a setenta veces el v
 
 III.- De cinco a ocho años de prisión y multa de setenta a cien veces el valor diario de la Unidad de Medida y Actualización, al que infiera una lesión que produzca a la víctima enajenación mental, pérdida de algún miembro o de cualquier función orgánica o le deje incapacitado total y permanentemente para trabajar.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 323.
 
-Si se produjeren varios de los resultados previstos en el artículo que antecede, solamente se aplicarán las sanciones correspondientes al de mayor gravedad.
+Si se produjeren varios de los resultados previstos en el artículo que antecede, solamente se aplicarán las sanciones correspondientes al de mayor gravedad, pero se incrementará hasta una mitad, si el delito se comete utilizando un artefacto de los señalados en la fracción XI, del artículo 171 Quater de este Código.
 
 ###### ARTICULO 324.
 
@@ -4559,11 +4565,11 @@ IV.- Cuando las lesiones no fueren mortales sino por su número, y no se pueda d
 
 V.- Si cualquiera de las personas que participan en el homicidio obrase con premeditación, alevosía, ventaja o a traición, todos serán responsables como autores de homicidio calificado; salvo el caso de que probaren que no hubo concierto previo.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 336.
 
-El homicidio es calificado cuando se comete con premeditación, ventaja, alevosía, retribución, por los medios empleados, saña, odio, estado de alteración voluntaria o a traición.
+El homicidio es calificado cuando se comete con premeditación, ventaja, alevosía, retribución, por los medios empleados, saña, odio, estado de alteración, voluntaria o a traición. Se presumirá que existe premeditación cuando se utilice como medio para su ejecución aeronaves piloteadas a distancia.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -4630,6 +4636,10 @@ A la persona servidora pública que retarde o entorpezca maliciosamente o por ne
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ARTICULO 337 TER.- Al responsable del delito de homicidio de un agente policiaco en servicio, integrante de las instituciones policiales del Estado, se le impondrá de 20 a 50 años de prisión y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
+La pena prevista en el párrafo anterior, se incrementará en una mitad, si el delito se comete utilizando un artefacto de los señalados en la fracción XI, del artículo 171 Quater de este Código.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -7644,6 +7654,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-75 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 368 QUINQUIES 1, PÁRRAFO PRIMERO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-233 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 323 Y 336; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 171 QUATER Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 337 TER, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
