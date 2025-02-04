@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-cultura-para-el-estado-de-tamaulipas-82805"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2024-01-10"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada el Periódico Oficial, el jueves 1 de septiembre de 2011.
 
@@ -513,9 +513,17 @@ I. Otorgar subsidios a los artesanos cuando se trate de artesanos de larga tradi
 
 II. Establecer mecanismos que permitan la certificación de origen o autenticidad;
 
-III. Desenvolver o intervenir en procedimientos administrativos o judiciales tendientes a combatir prácticas que afecten el prestigio o el valor de las artesanías tamaulipecas; y
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
 
-IV. Prestar asistencia legal a los artesanos en los conflictos jurídicos que los afecten y que estén directamente vinculados a su actividad productiva.
+III. Desenvolver o intervenir en procedimientos administrativos o judiciales tendientes a combatir prácticas que afecten el prestigio o el valor de las artesanías tamaulipecas;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+IV. Prestar asistencia legal a los artesanos en los conflictos jurídicos que los afecten y que estén directamente vinculados a su actividad productiva; y
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2025)</small>
+
+V. Brindar asesoría en materia de derechos de autor y propiedad intelectual.
 
 ### CAPÍTULO XII. DEL FOMENTO A LAS ARTES Y EL FOLKLORE TAMAULIPECO
 
@@ -620,6 +628,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-780 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “NO. 66-234 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 49 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
