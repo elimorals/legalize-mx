@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2024-01-22"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -475,9 +475,11 @@ V. El Fiscal General a través del acuerdo de creación, expedirá las normas ne
 
 ### CAPÍTULO II. Fiscalía General
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 12.
 
-Al frente de la Fiscalía General habrá una persona titular denominada Fiscal General, quien deberá cumplir con los requisitos establecidos en el artículo 53, y tanto su designación como su remoción se sujetarán (sic) lo dispuesto por el artículo 59, ambos preceptos de la Constitución Local.
+Al frente de la Fiscalía General habrá una persona titular denominada Fiscal General, quien deberá cumplir los requisitos establecidos en el artículo 59 de la Constitución Local. Para el caso de su designación y remoción, se deberá atender al procedimiento que señala dicho precepto constitucional.
 
 ###### ARTÍCULO 13.
 
@@ -3104,3 +3106,15 @@ P.O. 22 DE ENERO DE 2024.
 Conforme al principio del interés superior de la niñez, el Congreso del Estado de Aguascalientes, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento del Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
 Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo, Judicial y los organismos autónomos a la fecha.
+
+P.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 114.- SE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
