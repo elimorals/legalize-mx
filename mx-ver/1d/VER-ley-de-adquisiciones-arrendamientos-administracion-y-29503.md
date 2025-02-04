@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2018-11-29"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -228,6 +228,10 @@ VII. Establecer las reglas para la determinación y acreditación del grado de c
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE NOVIEMBRE DE 2003)</small>
 
 VIII. Reducir los plazos contemplados en el artículo 35, sin que ello implique limitar la participación de los proveedores en el procedimiento de contratación; y
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+VIII bis. Determinar los montos para la invitación a cuando menos tres proveedores y adjudicación directa, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 25 DE NOVIEMBRE DE 2003)</small>
 
@@ -485,33 +489,21 @@ Los Entes Públicos, bajo su estricta responsabilidad, efectuarán sus contratac
 
 I. Licitación pública;
 
-II. Licitación simplificada, mediante invitación a cuando menos tres proveedores; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+II. Invitación a cuando menos tres proveedores; y
 
 III. Adjudicación directa.
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 27.
 
-Las dependencias, organismos y entidades señaladas en el artículo 1 de esta Ley se sujetarán, en los procedimientos de contratación, a los montos y modalidades siguientes:
+Las dependencias, organismos y entidades señaladas en el artículo 1 de esta Ley se sujetarán, en los procedimientos de contratación, a los montos y modalidades que establezcan sus subcomités.
 
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+A más tardar en el mes de marzo de cada ejercicio fiscal las dependencias, organismos y entidades señaladas en el artículo 1 de esta Ley, publicarán en la Gaceta Oficial del Estado el acuerdo emitido en su respectivo subcomité en el que señalen los montos máximos de adjudicación directa y los de adjudicación mediante invitación a cuando menos tres proveedores de las adquisiciones de bienes o servicios a su cargo. En caso de existir durante el transcurso del ejercicio fiscal adecuaciones que modifiquen los montos máximos autorizados deberán hacerlo del conocimiento al subcomité y publicarlo en sus respectivas páginas electrónicas.
 
-I. La que rebase el monto de 192,583.7901 UMAS, se hará en licitación pública nacional e internacional;
-
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
-
-II. La que se encuentre entre las 192,583.7901 y las 96,292.9554 UMAS, se hará en licitación pública estatal;
-
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
-
-III. La que se encuentre entre las 96,292.9553 y las 1,203.5691 UMAS, se hará en licitación simplificada; y
-
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
-
-IV. La inferior a las 1,203.5691 UMAS, se hará en adjudicación directa.
-
-Los montos señalados se considerarán sin tomar en cuenta los impuestos que causen las contrataciones.
+Los montos que establezcan los subcomités se considerarán sin tomar en cuenta los impuestos que causen las contrataciones.
 
 > <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -853,11 +845,11 @@ Si la segunda convocatoria se declara desierta, se procederá a la adjudicación
 
 En caso de que una licitación sea declarada parcialmente desierta, respecto a una o varias partidas no adjudicadas, se estará a los montos establecidos en esta Ley.
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 54.
 
-Cuando por razones de seguridad de los Entes Públicos no sea conveniente proceder a una licitación pública, se podrá optar por la licitación simplificada o incluso por la adjudicación directa, siempre y cuando lo solicite la Unidad Administrativa de manera fundada y razonada al Subcomité y éste lo autorice.
+Cuando por razones de seguridad de los Entes Públicos no sea conveniente proceder a una licitación pública, se podrá optar por la invitación a cuando menos tres proveedores o incluso por la adjudicación directa, siempre y cuando lo solicite la Unidad Administrativa de manera fundada y razonada al Subcomité y éste lo autorice.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -899,43 +891,45 @@ XIV. Los Entes Públicos se adhieran a un proceso de licitación celebrado por o
 
 ### CAPÍTULO VI. Licitación Simplificada y Adjudicación Directa
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 56.
 
-Para proceder a una licitación simplificada, el Ente Público invitará cuando menos a tres de sus proveedores registrados, a quienes les hará llegar la información a que se refiere el artículo siguiente.
-
-> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+Para proceder a una invitación a cuando menos tres proveedores, el Ente Público invitará a sus proveedores registrados, a quienes les hará llegar la información a que se refiere el artículo siguiente.
 
 Los proveedores con residencia y domicilio fiscal en el Estado y en el municipio de que se trate, que se encuentren registrados en el padrón correspondiente de los entes públicos, tendrán preferencia para ser adjudicatarios, y se les permitirá un precio hasta 5% mayor que el de las cotizaciones foráneas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 57.
 
 La invitación que por escrito haga llegar el Ente Público a los proveedores contendrá las bases que especificarán, como mínimo, los datos de la convocante, la cantidad, descripción de los bienes o servicios requeridos mediante un anexo técnico, de ser necesario, plazo, lugar de entrega, condiciones de pago, sanción en caso de no sostener su proposición, el pedido o contrato, lugar, fecha y hora para el acto de recepción y apertura de proposiciones, fecha para la emisión del fallo que estará sustentado en un dictamen técnico económico que al efecto emita la comisión de licitación.
 
-El fallo de la licitación, si no es posible emitirlo en el acto de recepción y apertura de proposiciones, deberá notificarse por escrito en un plazo máximo de tres días hábiles.
+El fallo de la invitación a cuando menos tres participantes, si no es posible emitirlo en el acto de recepción y apertura de proposiciones, deberá notificarse por escrito en un plazo máximo de tres días hábiles.
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 58.
 
-La licitación simplificada se realizará en una sola etapa, de conformidad con el procedimiento señalado en el artículo 43 de esta Ley con o sin la presencia de los participantes, pero invariablemente se contará con la participación del Órgano Interno de Control. Sólo se admitirá una proposición por participante. En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al licitante único. Si se declara desierta la licitación simplificada, el Ente Público podrá adjudicarlo directamente.
+La invitación a cuando menos tres proveedores se realizará en una sola etapa, de conformidad con el procedimiento señalado en el artículo 43 de esta Ley con o sin la presencia de los participantes, pero invariablemente se contará con la participación del Órgano Interno de Control. Sólo se admitirá una proposición por participante. En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al licitante único. Si se declara desierta la invitación a cuando menos tres proveedores, el Ente Público podrá adjudicarlo directamente.
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al participante único. Si se declara desierta la invitación a cuando menos tres proveedores, el Ente Público podrá adjudicarlo directamente.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 59.
 
 Las adjudicaciones directas sólo se realizarán con los proveedores previamente registrados en el padrón de los entes públicos. Los que tengan residencia y domicilio fiscal en el Estado y en el municipio de que se trate tendrán preferencia para ser adjudicatarios.
 
+En casos justificados, se podrán celebrar contratos con proveedores primarios o fabricantes que otorguen las mejores condiciones al Estado.
+
 ### CAPÍTULO VII. Formalización del Contrato
 
-> <small>(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 60.
 
-Las adjudicaciones directas por monto previstas en el presupuesto de egresos y en esta Ley se formalizarán mediante pedido; las adjudicaciones que rebasen los montos para la adjudicación directa, derivadas de los supuestos del artículo 55 de la presente Ley y de los procedimientos de licitación, se harán mediante contrato.
+Las adjudicaciones directas derivadas de los supuestos del artículo 55 de la presente Ley y las invitaciones a cuando menos tres proveedores, estarán a lo dispuesto al presupuesto de egresos y se formalizarán mediante contrato.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1510,3 +1504,11 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 235 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES, Y DEL DECRETO DE PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO PARA EL EJERCICIO FISCAL 2025, AMBOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
