@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2022-12-20"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2025.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -2435,139 +2435,41 @@ Para resolver sobre la preferencia de derechos, se estará a lo dispuesto por lo
 
 (DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO EN SU NUMERACIÓN, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ### CAPÍTULO VI (SIC). DEL PROCEDIMIENTO PARA LA RESCISIÓN ADMINISTRATIVA DE LOS CONTRATOS DE OBRA PÚBLICA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+###### Artículo 259-A.
 
-Artículo 259 A. Las Dependencias y Entidades de la Administración Pública, por sí o a solicitud del órgano interno de control, podrán rescindir administrativamente los contratos de obra pública por contravención a las disposiciones de la Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave y demás aplicables en la materia, así como por el incumplimiento de cualquiera de las obligaciones del contratista.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+###### Artículo 259-B.
 
-La rescisión operará de pleno derecho y sin necesidad de declaración judicial, en aquellos casos en los que la dependencia o entidad sea la que determine rescindir un contrato, de conformidad con el procedimiento que establece el presente capítulo.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+###### Artículo 259-C.
 
-Cuando el contratista considere que existen elementos para rescindir el contrato, será necesario que acuda ante el Tribunal para obtener la declaración correspondiente.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+###### Artículo 259-D.
 
-Artículo 259 B. Serán causales de rescisión administrativa de los contratos de obra pública, por causas imputables al contratista:
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
-I. Si de manera injustificada no inicia los trabajos objeto del contrato dentro de los quince días siguientes a la fecha convenida:
+###### Artículo 259-E.
 
-II. Si interrumpe injustificadamente la ejecución de los trabajos o se niega a reparar o reponer alguna parte de ellos, que hubiere sido detectada como defectuosa por la dependencia o entidad;
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
-III. Si no ejecuta los trabajos de conformidad con lo estipulado en el contrato o sin motivo justificado no acata las órdenes dadas por el residente de obra o por el supervisor;
+###### Artículo 259-F.
 
-IV. Si no da cumplimiento a los programas de ejecución por falta de materiales, trabajadores o equipo de construcción y que, a juicio de la dependencia o entidad, el atraso pueda dificultar la terminación satisfactoria de los trabajos en el plazo estipulado.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
-No implicará retraso en el programa de ejecución de la obra y, por tanto, no se considerará como incumplimiento del contrato y causa de su rescisión, cuando éste tenga lugar por la falta de información referente a planos, especificaciones o normas de calidad, de entrega física de las áreas de trabajo o de entrega oportuna de materiales y equipos de instalación permanente, de licencias, y permisos que deba proporcionar o suministrar la contratante, así como cuando la dependencia o entidad hubiere ordenado la suspensión de los trabajos;
+###### Artículo 259-G.
 
-V. Si es declarado en concurso mercantil en los términos de la ley de la materia;
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
-VI. Si subcontrata partes (sic) de los trabajos objeto del contrato, sin contar con la autorización por escrito de la dependencia o entidad;
+###### Artículo 259-H.
 
-VII. Si cede los derechos de cobro derivados del contrato, sin contar con la autorización por escrito de la dependencia o entidad;
-
-VIII. Si no da a la dependencia o entidad o a las dependencias que tengan facultad para intervenir, las facilidades y datos necesarios para la inspección, vigilancia y supervisión de los materiales y trabajos;
-
-IX. Si cambia su nacionalidad por otra, en el caso de que se haya establecido como requisito tener determinada nacionalidad;
-
-X. Si siendo extranjero, invoca la protección de su gobierno en relación con el contrato;
-
-XI. El incumplimiento de las obligaciones derivadas del contrato, así como de las leyes y demás disposiciones aplicables.
-
-Las dependencias y entidades, atendiendo a las características, magnitud y complejidad de los trabajos, podrán establecer en los contratos otras causas de rescisión.
-
-El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale la dependencia o entidad. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
-
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
-
-Artículo 259 C. Las dependencias y entidades deberán llevar a cabo el procedimiento de rescisión administrativa, a través del funcionario facultado para ello, o por la autoridad administrativa que hubiere suscrito el contrato, de conformidad con lo dispuesto por los artículos 7 y 8 de este Código, así como con las formalidades siguientes:
-
-I. Se comunicará por escrito al contratista el inicio del procedimiento de rescisión administrativa, indicándose lo siguiente:
-
-a) Las causales de rescisión imputables al contratista y, en su caso, las cláusulas del contrato que se consideren incumplidas;
-
-b) Los hechos que motiven la presunción de que el contratista ha actualizado alguna causal de rescisión;
-
-c) El término legal con que cuente el contratista para exponer lo que a su derecho convenga y aporte las pruebas que estime pertinentes, mismo que será de diez días hábiles, contado a partir del día siguiente al en que surta efectos su notificación;
-
-d) La citación al contratista para la celebración del acta circunstanciada de obra, indicándose la fecha, hora y lugar en que deba llevarse a cabo.
-
-II. Transcurrido el término a que se refiere la fracción anterior, se resolverá de manera fundada y motivada, considerando los argumentos y pruebas que hubiere hecho valer el contratista, indicándose la determinación de dar o no por rescindido el contrato.
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
-
-Artículo 259 D. Las dependencias o entidades deberán abstenerse de cubrir los importes resultantes de trabajos ejecutados, aún no liquidados, hasta que el contratista otorgue el finiquito correspondiente, dentro de los treinta días naturales siguientes a la fecha de notificación de la resolución al procedimiento administrativo de rescisión de contrato, en términos del Reglamento de la Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz.
-
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
-
-Artículo 259 E. Una vez notificado por la dependencia o entidad el inicio del procedimiento de rescisión de contrato, éstas procederán a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, levantando ante fedatario público, con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra, en la cual se consignarán:
-
-I. Lugar, fecha y hora en que se levanta;
-
-II. Nombre y firma del residente de obra de la dependencia o entidad, del representante del órgano interno de control y, en su caso, del supervisor y del superintendente de construcción del contratista y, si se diera, la asistencia del contratista;
-
-III. Descripción de los trabajos y de los datos que se consideren relevantes;
-
-IV. Importe contractual considerando, en su caso, los convenios de modificación;
-
-V. Relación de las estimaciones o de gastos aprobados;
-
-VI. Descripción pormenorizada del estado que guardan los trabajos;
-
-VII. Periodo de ejecución de los trabajos, precisando la fecha de inicio y terminación contractual y, en su caso, el desfasamiento en que se encuentre la ejecución de la obra al momento del levantamiento del acta; y
-
-VIII. Monto amortizado y pendiente del anticipo.
-
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
-
-Artículo 259 F. Una vez notificada la resolución de rescisión de un contrato, la dependencia o entidad de que se trate solicitará a la autoridad ejecutora facultada para ello que se hagan efectivas las garantías otorgadas por el contratista.
-
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
-
-Artículo 259 G. Cuando las garantías otorgadas por el contratista consistan en pólizas de fianza, las dependencias y entidades deberán remitir a la autoridad ejecutora facultada para ello una solicitud escrita que contenga, como mínimo, los datos siguientes:
-
-I. Nombre de la autoridad u oficina remitente;
-
-II. Lugar y fecha;
-
-III. Importe de la obligación y accesorios legales a cobrar;
-
-IV. Concepto de la obligación;
-
-V. Fecha en que se hizo la exigible la obligación del fiado;
-
-VI. Institución fiadora;
-
-VII. Número, fecha e importe de la póliza de fianza y, en su caso, de los documentos modificatorios de la misma;
-
-VIII. Relación de los documentos que forman el expediente, con respecto a la obligación o crédito de que se trate, y
-
-IX. Nombre y firma del funcionario remitente.
-
-La dependencia o entidad de que se trate deberá enviar a la institución fiadora, mediante correo certificado con acuse de recibo, una copia del oficio de remisión a que alude el primer párrafo de este artículo.
-
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
-
-Artículo 259 H. Las dependencias o entidades deberán anexar a la solicitud para hacer efectiva una fianza la documentación siguiente:
-
-I. Contrato o documento en que conste la obligación o crédito a cargo del fiado;
-
-II. Póliza de la fianza que garantizó la obligación de que se trate y, en su caso, los documentos modificatorios de la misma;
-
-III. Acta circunstanciada levantada, con intervención de las autoridades competentes, donde consten los actos u omisiones del fiado que constituyan el incumplimiento de las obligaciones garantizadas;
-
-IV. Liquidación formulada por cada una de las pólizas de fianza, en donde se determine el monto de las obligaciones exigibles y sus accesorios legales, si éstos estuvieren garantizados;
-
-V. Actuaciones administrativas dictadas en el procedimiento de rescisión administrativa;
-
-VI. Si los hubiere, copia de la demanda, escrito de inconformidad o de cualquier otro recurso legal, presentado por el fiado, así como copia de las sentencias o resoluciones firmes de las autoridades competentes y de las notificaciones que correspondan a estas últimas; y
-
-VII. En su caso, comprobantes de entrega de anticipos, pago de estimaciones y demás comprobantes de información financiera.
+(DEROGADO, G.O. 4 DE FEBRERO DE 2025)
 
 > <small>(REFORMADO EN SU NUMERACIÓN, G.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -4126,3 +4028,43 @@ En tanto no exista designación de titulares de Unidades Administrativas u órga
 DÉCIMO TERCERO.- Por esta única ocasión, esta Soberanía, al hacer las designaciones de magistraturas del Tribunal de Justicia Administrativa del Estado de Veracruz realizará las adscripciones de cada una de éstas a las Salas Regionales Unitarias y Ponencias de la Sala Superior respectivas, así como quién ejercerá la Presidencia del Tribunal.
 
 DÉCIMO CUARTO.- A partir de la entrada en vigor del presente Decreto, toda referencia en leyes, códigos o cualquier otra normatividad, que se haga al extinto Tribunal Estatal de Justicia Administrativa, deberá tenerse hecha en favor del Tribunal de Justicia Administrativa del Estado de Veracruz.
+
+G.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 233 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se abroga la Ley Número 825 de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el 16 de abril de 2013, así como sus reformas y adiciones.
+
+TERCERO. Quedan sin efecto todas las disposiciones que contravengan a la presente Ley.
+
+En tanto se emiten las disposiciones normativas derivadas de la presente Ley, continuarán en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en lo que no se oponga a la presente Ley, las disposiciones reglamentarias previamente emitidas a esta Ley.
+
+CUARTO. El Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro de los noventa días hábiles siguientes a la fecha de su entrada en vigor.
+
+QUINTO. Los procedimientos de contratación que se encuentren en trámite o pendientes de resolución, a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+SEXTO. Los contratos, convenios y otros actos jurídicos celebrados antes de la entrada en vigor de la presente Ley, continuarán regulándose hasta su terminación por las disposiciones vigentes al momento de su celebración.
+
+SÉPTIMO. Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+OCTAVO. La Secretaría de Infraestructura y Obras Públicas, deberá expedir las disposiciones de contratación a que se refiere el artículo 15 de la presente Ley de Obras Públicas y Servicios Relacionados con Ellas para el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor de noventa días hábiles siguientes a la fecha de entrada en vigor de la presente Ley.
+
+NOVENO. En tanto se realizan las modificaciones conducentes a la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz, derivado de las modificaciones a que se refiere la presente Ley, en materia de contratación y ejecución de obras públicas y servicios relacionados con ellas, las Dependencias y Entidades de la Administración Pública del Estado de Veracruz deberán coordinarse con la Secretaría de Infraestructura y Obras Públicas, para llevar a cabo la planeación, programación, presupuestación, contratación y ejecución de obras públicas y servicios relacionados con ellas.
+
+DÉCIMO. En un término no mayor a noventa días hábiles, la SIOP conjuntamente con la SEFIPLAN determinarán lo conducente respecto al impacto presupuestal que se origine con motivo de la presente Ley.
+
+DÉCIMO PRIMERO. En virtud de la emisión de la presente Ley, se deberán derogar los artículos 259 A al 259 H del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, así como, realizar las modificaciones al Decreto de Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave, para el Ejercicio Fiscal 2025.
+
+G.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, DEL DECRETO DE PRESUPUESTOS DE EGRESO (SIC) PARA EL EJERCICIO FISCAL 2025 DEL GOBIERNO Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Quedan sin efecto todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. A partir de la entrada en vigor del presente Decreto, las dependencias y entidades contarán con un término de ciento ochenta días naturales para realizar los ajustes o modificaciones a su normatividad.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, toda obra pública y servicios relacionados con la misma de las dependencias y entidades del Poder Ejecutivo del Estado se ejecutará por la SIOP en términos de lo previsto en la Ley de Obras Públicas y Servicios Relacionados con Ellas, debiéndose firmar los correspondientes acuerdos.
