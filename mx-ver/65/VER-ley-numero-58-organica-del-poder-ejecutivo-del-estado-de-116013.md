@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2024-01-16"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ENERO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 16 DE ENERO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NO. 721 PUBLICADO EN LA G.O. DEL 12 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -755,7 +753,9 @@ XLVII. Coadyuvar en la promoción de la capacitación del personal del Gobierno 
 
 XLVIII. Participar en la elaboración de las condiciones generales de trabajo; vigilar su cumplimiento y difundirlas entre el personal del Gobierno del Estado;
 
-XLIX. Emitir, en coordinación con la Contraloría General, criterios y lineamientos para el ejercicio de los recursos presupuestales relativos a servicios personales, adquisiciones, obras públicas, arrendamientos y servicios generales de las dependencias y entidades;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XLIX. Emitir criterios y lineamientos para el ejercicio de los recursos presupuestales a cargo de las dependencias y entidades;
 
 L. Elaborar el programa anual de adquisiciones y servicios consolidados de la Administración Pública Estatal y licitar públicamente su adjudicación;
 
@@ -1151,11 +1151,11 @@ XXXV. Difundir las actividades industriales, comerciales y portuarias a través 
 
 De la Secretaría de Infraestructura y Obras Públicas
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 25.
 
-La Secretaría de Infraestructura y Obras Públicas es la dependencia responsable de coordinar, ejecutar, controlar y evaluar las políticas y programas sectoriales en materia de vías de comunicación de jurisdicción estatal y ejecución de obras públicas de conformidad con las leyes aplicables.
+La Secretaría de Infraestructura y Obras Públicas es la dependencia responsable de coordinar, ejecutar, controlar y evaluar las políticas y programas sectoriales en materia de vías de comunicación de jurisdicción estatal y de ejecutar las obras públicas y los servicios relacionados con ellas de las dependencias y entidades del Poder Ejecutivo del Estado, de conformidad con las leyes aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -1163,39 +1163,57 @@ La Secretaría de Infraestructura y Obras Públicas es la dependencia responsabl
 
 Son atribuciones del Secretario de Infraestructura y Obras Públicas, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-I. Dirigir, proyectar y controlar la presupuestación y ejecución de los programas relativos a la construcción, conservación y rehabilitación de las vías de comunicación estatales;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-II. Formular el programa anual de construcción, conservación y rehabilitación de autopistas, carreteras, caminos, puentes, aeropuertos, estaciones y centrales de telecomunicaciones o de autotransporte de jurisdicción estatal, de acuerdo con el Plan Veracruzano de Desarrollo y con la participación, en su caso, de los Ayuntamientos de la Entidad, las autoridades estatales y federales o los particulares vinculados con estas autoridades;
+I. Planear, dirigir y controlar la presupuestación y ejecución de los programas relativos a las obras públicas y comunicaciones;
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+II. Coordinar y supervisar la elaboración y cumplimiento del Plan Veracruzano de Desarrollo con la participación de los Ayuntamientos del Estado en el ámbito de competencia de la Secretaría;
 
 III. Proyectar, construir, conservar y rehabilitar las autopistas, carreteras, puentes, aeropuertos, estaciones y centrales de telecomunicaciones o de autotransporte de jurisdicción estatal, en cooperación con los Gobiernos Federal o Municipal, así como con los particulares;
 
-IV. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras para la construcción, mantenimiento y rehabilitación de autopistas, carreteras, puentes, estaciones y centrales de telecomunicaciones o de autotransporte y aeropuertos de jurisdicción estatal;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-V. Establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de contratos en materia de obra pública, vigilar su cumplimiento y, en su caso, rescindirlos administrativamente de conformidad con la ley;
+IV. Coordinar la ejecución y la supervisión de las obras públicas competencia de la Secretaría;
 
-VI. Formular lineamientos y especificaciones técnicas para el uso de las vías de comunicación estatal;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+V. Instruir y coordinar la elaboración de las bases técnicas a que deben sujetarse los procedimientos de contratación en materia de obra pública y vigilar su cumplimiento;
 
-VII. Coordinarse con la Secretaría de Medio Ambiente para que, en los derechos de vía de las vías estatales de comunicación, se respeten las prescripciones en materia de equilibrio ecológico y de protección al ambiente;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-VIII. Participar en el otorgamiento de concesión de autopistas, carreteras, puentes o aeropuertos de jurisdicción estatal; supervisar su cumplimiento y, en su caso, llevar a cabo el procedimiento para su rescate, reversión o aplicación de sanciones;
+VI. Dirigir la planeación y formulación de lineamientos y especificaciones técnicas para el uso de las vías de comunicación estatal;
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+VII. Coordinar con la Secretaría de Medio Ambiente para que, en la ejecución de las obras públicas competencia de la Secretaría, se respeten las prescripciones en materia de equilibrio ecológico y de protección al ambiente;
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+VIII. Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones en materia de administración y explotación de autopistas, carreteras, puentes, aeropuertos, así como, de la infraestructura de comunicaciones y movilidad de jurisdicción estatal; coordinar su cumplimiento y, en su caso, llevar a cabo el procedimiento para su rescate, reversión o aplicación de sanciones en términos de las disposiciones aplicables;
 
 IX. Asesorar a los particulares en la realización de obras públicas en materia de vías de comunicación estatal, cuando así lo soliciten;
 
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2018)</small>
-
-X. Cuidar que en la construcción, conservación y rehabilitación de las vías de comunicación estatal se respeten las disposiciones aplicables en materia de equilibrio ecológico, la protección al ambiente, la accesibilidad y movilidad de las personas con discapacidad;
+X. (DEROGADA, G.O. 4 DE FEBRERO DE 2025)
 
 XI. Vigilar y conservar los servicios de telefonía y radiotelefonía del Estado y los demás medios que no estén considerados como Vías Generales de Comunicación;
 
-XII. Fomentar la telecomunicación que tenga fines oficiales y culturales;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XIII. Trabajar coordinadamente con los Ayuntamientos de la Entidad, así como con dependencias y entidades estatales o federales y personas físicas o morales del sector privado, vinculadas con el desarrollo de las vías de comunicación estatal;
+XII. Coordinar el desarrollo de las telecomunicaciones que tenga fines oficiales y culturales;
 
-XIV. Suscribir, previa autorización del titular del Poder Ejecutivo, convenios para la proyección, construcción, rehabilitación, conservación o administración de vías de comunicación estatal y, en su caso, federal; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XV. Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de vías de comunicación estatal.
+XIII. Coordinar los trabajos con los Ayuntamientos del Estado, así como con dependencias y entidades estatales o federales y personas físicas o morales del sector privado, vinculadas con el desarrollo de las vías de comunicación estatal y las obras públicas;
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XIV. Suscribir, previa autorización del titular del Poder Ejecutivo, convenios en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XV. Proponer y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de obras públicas y comunicaciones;
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1205,35 +1223,95 @@ XVI. Coordinar y ejecutar las políticas y programas del Estado, tanto en materi
 
 XVII. Convenir, concertar y establecer las medidas adecuadas de relación interinstitucional con las dependencias y entidades de los órdenes federal, estatal y municipal, mediante la suscripción de instrumentos jurídicos necesarios para la debida concurrencia, administración y aplicación de los recursos financieros destinados a la realización de las obras públicas que sean competencia de la Secretaría;
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XVIII. Instrumentar las medidas y acciones necesarias para la debida certificación de calidad de las obras públicas en el Estado;
+XVIII. Instruir y coordinar las medidas y acciones necesarias para constatar la calidad de las obras públicas en el Estado;
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+XIX. (DEROGADA, G.O. 4 DE FEBRERO DE 2025)
 
-XIX. Proponer políticas y programas relativos a la construcción y mantenimiento de las obras públicas competencia de la Secretaría, de acuerdo con el Plan Estatal de Desarrollo, así como dirigir y coordinar la ejecución de las mismas;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+XX. Coordinar, dirigir y sancionar los proyectos y presupuestos de las obras públicas que le presenten y requieran las dependencias y entidades del Estado, a ser ejecutadas por la Secretaría;
 
-XX. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras públicas competencia de la Secretaría, en coordinación con los entes públicos a los que corresponda su ejecución;
+XXI. (DEROGADA, G.O. 4 DE FEBRERO DE 2025)
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XXI. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras públicas competencia de la Secretaría y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos, de conformidad con lo dispuesto en las leyes en materia de obras públicas y de proyectos para la prestación de servicios; y
+XXII. Construir, reconstruir, restaurar, rehabilitar, equipar y conservar los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado;
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XXII. Construir, reconstruir y conservar los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado, exceptuando las encomendadas a otro ente público.
+XXIII. Proponer políticas y programas relativos a la construcción y mantenimiento de las obras públicas competencia de la Secretaría, de acuerdo con el Plan Veracruzano de Desarrollo, así como dirigir y coordinar la ejecución de las mismas;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXIV. Coordinar la elaboración y autorizar la cartera de programas y proyectos de inversión;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXV. Formular y conducir las políticas y programas para el desarrollo de las comunicaciones, de acuerdo a las necesidades del Estado, en coordinación con las autoridades competentes de los distintos órdenes de gobierno;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXVI. Coordinar la planeación para que en la ejecución de las obras públicas competencia de la Secretaría, se respeten las disposiciones aplicables para la accesibilidad y movilidad de las personas con discapacidad;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXVII. Participar en la construcción de vías férreas, patios y terminales para el establecimiento y explotación de ferrocarriles, y la vigilancia técnica de su funcionamiento y operación, en coordinación con la federación;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXVIII. Participar en la planificación, regulación y vigilancia de la administración y operación del sistema ferroviario;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXIX. Coordinar la política en materia de obras públicas y comunicaciones, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXX. Promover, acordar, regular y celebrar contratos con la participación de particulares, bajo el régimen de concesión, asociaciones público-privadas o cualquier otra forma de asociación permitida por las leyes para la construcción, mantenimiento y explotación de caminos, puentes y ejecución de obras o infraestructura estatal;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXI. Realizar la planeación, dirección, control, aplicación, ejecución y evaluación de programas y proyectos regionales, subregionales, parciales, especiales, institucionales e integrales, en materia de infraestructura, comunicaciones, obra pública y presupuesto participativo, directamente o en coordinación con las diferentes autoridades federales, estatales y municipales, de acuerdo a su competencia, así como aplicar la normativa correspondiente, llevar a cabo los estudios técnicos y supervisar la ejecución de los que se autoricen;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXII. Celebrar convenios, contratos, acuerdos y demás actos jurídicos dentro del ámbito de su competencia para el cumplimiento de los fines de la Secretaría;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXIII. Asesorar a los ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales para promover y encauzar adecuadamente la infraestructura, comunicaciones y obra pública en sus localidades;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXIV. Elaborar directamente o a través de terceros, programas, estudios y proyectos, en materia de infraestructura, vialidad, comunicaciones y movilidad, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXV. Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXVI. Coordinarse con las autoridades federales, estatales y municipales, para la planeación, desarrollo, ejecución y evaluación de programas de inversión en materia de infraestructura y comunicaciones;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXVII. Implementar, coordinar y supervisar mecanismos, programas, obras o acciones con sentido de equidad, sustentabilidad, responsabilidad social y ambiental en las comunidades, incluyendo, obtener y mantener la licencia social, así como, en relación a lo antes expuesto, en coordinación con la Secretaría de Finanzas y Planeación, la creación de fideicomisos o cualquier otro mecanismo financiero previsto en las leyes, que permitan la captación de recursos que contribuyan al beneficio de las comunidades y al desarrollo del Estado, en un marco de transparencia y legalidad; y
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXXVIII. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 De la Secretaría de Desarrollo Social
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 27.
 
-La Secretaría de Desarrollo Social es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como ejecutar las obras de infraestructura social básica; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normatividad que lo regule.
+La Secretaría de Desarrollo Social es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como, presentar a la SIOP los proyectos y presupuestos de las obras de infraestructura social básica que requiera, para que ésta última sancione y ejecute las mismas; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normatividad que lo regule.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -1287,21 +1365,21 @@ XI. Promover y apoyar, conforme al Plan Veracruzano de Desarrollo, la realizaci�
 
 XII. Promover, en coordinación con las autoridades federales y estatales, la realización de obras e instalaciones para dotar a los núcleos de población de servicio eléctrico, particularmente en las zonas rurales; así como de agua y gas;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XIII. Asesorar, a solicitud de los propios ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios y, en su caso, ejecutar y supervisar dichas obras;
+XIII. Asesorar, a solicitud de los propios ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios;
 
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras de infraestructura básica relacionadas con el desarrollo social, así como dirigir, coordinar y controlar la ejecución de las mismas, de acuerdo con el Plan Estatal de Desarrollo;
+XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras de infraestructura básica relacionadas con el desarrollo social, de acuerdo con el Plan Veracruzano de Desarrollo;
 
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XV. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras de infraestructura social básica competencia de la Secretaría, en coordinación con las instancias competentes;
+XV. Proyectar las obras de infraestructura social básica competencia de la Secretaría;
 
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XVI. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras de infraestructura social básica competencia de la Secretaría y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos;
+XVI. Elaborar y presentar a la SIOP los proyectos y presupuestos de las obras de infraestructura social básica competencia de la Secretaría, en coordinación con las instancias competentes, para que la primera sancione y ejecute las mismas;
 
 > <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -1509,11 +1587,11 @@ De la Secretaría de Desarrollo Agropecuario, Rural y Pesca
 
 La Secretaría de Desarrollo Agropecuario, Rural y Pesca es la dependencia responsable de coordinar las políticas públicas de desarrollo agrícola, ganadero y pesquero en la Entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 30.
 
-Son atribuciones del Secretario de Desarrollo Agropecuario, Rural y Pesca, conforme a la distribución de competencia que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Desarrollo Agropecuario, Rural y Pesca conforme a la distribución de competencia que establezca su Reglamento Interior, las siguientes:
 
 > <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
 
@@ -1537,7 +1615,9 @@ VI. Propiciar la concertación de acciones entre productores y dependencias ofic
 
 VII. Formular el inventario de los recursos e infraestructura agrícola, frutícola e hidráulica existentes en el Estado, promoviendo su explotación racional y eficiente;
 
-VIII. Proponer, apoyar y, en su caso, ejecutar las obras de infraestructura agrícola e hidráulica en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+VIII. Proponer y apoyar las obras de infraestructura agrícola e hidráulica en coordinación con el Gobierno Federal, los Municipios y las organizaciones de productores;
 
 > <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
@@ -1589,7 +1669,9 @@ XX. Auxiliar a la Secretaría de Medio Ambiente en los programas de reforestaci�
 
 XXI. Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes y centrales de maquinaria entre otros;
 
-XXII. Fomentar la producción pecuaria, así como la vigilancia, apoyo y, en su caso, ejecución de las obras y servicios pecuarios en cooperación con los Gobiernos Federal y Municipales, en coordinación con los productores y con base en el Plan Veracruzano de Desarrollo;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XXII. Fomentar la producción pecuaria, así como su vigilancia en cooperación con los Gobiernos Federal y Municipales, en coordinación con los productores y con base en el Plan Veracruzano de Desarrollo;
 
 XXIII. Fomentar la organización de los productores pecuarios conforme al Plan Veracruzano de Desarrollo;
 
@@ -1660,6 +1742,10 @@ LIII. En coordinación con la Secretaría de Desarrollo Social, promover program
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
 LIV. Vigilar y supervisar en coordinación con la Secretaría de Salud y las autoridades municipales competentes, el funcionamiento y operación de los rastros de la entidad.
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+LV. Elaborar y presentar a la SIOP los proyectos y presupuestos de las obras competencia de la Secretaría, en coordinación con las instancias competentes, para que la primera sancione y ejecute las mismas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -2047,9 +2133,9 @@ VI. Vigilar, en colaboración con las autoridades que integran el Comité Coordi
 
 VII. Establecer, en coordinación con las autoridades que integran el Comité Coordinador del Sistema Estatal Anticorrupción, los criterios y procedimientos para la realización de auditorías y revisiones en las dependencias y entidades;
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-VIII. Emitir, en coordinación con la Secretaría de Finanzas y Planeación, los criterios y lineamientos en materia de adquisiciones, obras públicas, arrendamientos, contratación de servicios, desincorporación de activos, control de inventarios, manejo de almacenes, conservación, mantenimiento, resguardo y enajenación de los bienes de propiedad estatal; así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias, la coordinación y cooperación con los Poderes del Estado, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados del régimen de contratación pública, con excepción de las empresas productivas del Estado;
+VIII. Emitir, en coordinación con la Secretaría de Finanzas y Planeación, los criterios y lineamientos de desincorporación de activos, control de inventarios, manejo de almacenes, conservación, mantenimiento, resguardo y enajenación de los bienes de propiedad estatal; así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación que realice la SIOP y promover, con la intervención que corresponda a otras dependencias, la coordinación y cooperación con los Poderes del Estado, los órganos constitucionales autónomos, los municipios y demás entes públicos;
 
 > <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -2419,7 +2505,9 @@ II. Informar al fideicomitente y al Comité Técnico acerca de la ejecución de 
 
 III. Presentar al fideicomitente y al Comité Técnico la información contable requerida para precisar la situación financiera del fideicomiso; y
 
-IV. Cumplir con los demás requerimientos que, de común acuerdo con el fideicomitente y el Comité Técnico, se fijen.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+IV. Coadyuvar en la supervisión de las obras que deba realizar el titular, así como establecer las normas de coordinación con otros servicios públicos similares;
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -3008,3 +3096,15 @@ DÉCIMO PRIMERO. Las referencias hechas a la Secretaría de Turismo y Cultura qu
 DÉCIMO SEGUNDO. Para la atención y seguimiento de los asuntos jurídicos o administrativos en trámite o pendientes de la resolución definitiva, así como para el cumplimiento de las obligaciones y ejercicio de los derechos derivados de los convenios, contratos y demás actos jurídicos celebrados con anterioridad a la vigencia de este Decreto con el Instituto Veracruzano de la Cultura, la representación de éste, será sustituida por la Secretaría de Cultura.
 
 DÉCIMO TERCERO. Para la atención y seguimiento de los asuntos jurídicos o administrativos en trámite o pendientes de resolución definitiva, así como para el cumplimiento de las obligaciones y ejercicio de los derechos derivados de los convenios, contratos y demás actos jurídicos celebrados con anterioridad a la vigencia de este Decreto con la Secretaría de Turismo y Cultura, la representación de ésta, será sustituida por la Secretaría de Turismo.
+
+G.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 POR EL QUE SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, DEL DECRETO DE PRESUPUESTOS DE EGRESO PARA EL EJERCICIO FISCAL 2025 DEL GOBIERNO Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Quedan sin efecto todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. A partir de la entrada en vigor del presente Decreto, las dependencias y entidades contarán con un término de ciento ochenta días naturales para realizar los ajustes o modificaciones a su normatividad.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, toda obra pública y servicios relacionados con la misma de las dependencias y entidades del Poder Ejecutivo del Estado se ejecutará por la SIOP en términos de lo previsto en la Ley de Obras Públicas y Servicios Relacionados con Ellas, debiéndose firmar los correspondientes acuerdos.
