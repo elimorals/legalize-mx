@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2021-04-21"
+last_updated: "2025-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2025.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
 
@@ -73,11 +73,17 @@ VIII. La constitución de reservas territoriales para el desarrollo urbano y viv
 
 IX. La creación de fraccionamientos o cualquier forma de parcelamiento u ocupación del suelo con fines urbanos;
 
-X. La edificación de viviendas, en congruencia con la Política Estatal de Vivienda y con los aspectos económicos, sociales, urbanos y poblacionales en el Estado, fomentando la participación de los sectores social y privado en acciones habitacionales;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
 
-XI. La apertura, ampliación y prolongación de calles y vías públicas en general;
+X. La elaboración de proyectos o Bases de Usuario de viviendas, en congruencia con la Política Estatal de Vivienda y con los aspectos económicos, sociales, urbanos y poblacionales en el Estado, fomentando la participación de los sectores social y privado en acciones habitacionales;
 
-XII. La planeación y ejecución de obras de infraestructura, equipamiento y servicios públicos urbanos;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XI. La apertura, y la elaboración de proyectos o Bases de Usuario de ampliación y prolongación de calles y vías públicas en general;
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+XII. La planeación y elaboración de proyectos o Bases de Usuario de obras de infraestructura, equipamiento y servicios públicos urbanos;
 
 XIII. La adopción de medidas para prevenir o atender desastres;
 
@@ -100,6 +106,10 @@ A falta de disposición expresa en esta Ley, se aplicarán supletoriamente los o
 Para los efectos de esta Ley, se entenderá por:
 
 I. Autoconstrucción de vivienda: El proceso de construcción o edificación de la vivienda realizada directamente por sus propios usuarios, en forma individual, familiar o colectiva;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+I Bis. Bases de Usuario: Documento que describe los requerimientos, las características técnicas y especificaciones mínimas del área solicitante del proyecto, proporcionando información suficiente para definir el alcance, los requisitos funcionales y de desempeño de la obra o infraestructura proyectada, así como la necesaria para proceder con la realización, de ser el caso, de estudios técnicos y de diseño, incluyendo los datos relevantes del sitio y de las instalaciones relacionadas.
 
 II. Bolsa de suelo urbano: El conjunto de predios con vocación urbana, debidamente inscritos, que formen parte de la reserva territorial del Estado o de los municipios, o de propiedades particulares, ejidos o comunidades;
 
@@ -291,7 +301,9 @@ x) Solicitar y promover los decretos de expropiación de bienes inmuebles que re
 
 y) Expedir las autorizaciones que señala la presente Ley y su Reglamento.
 
-Para el ejercicio de las atribuciones relativas al desarrollo urbano, el ordenamiento territorial y el control del uso del suelo, el titular de la Secretaría se auxiliará de la Dirección General de Desarrollo Urbano y Ordenamiento Territorial, de conformidad con el Reglamento Interior de la Secretaría y el de esta Ley, con la participación que competa a otras dependencias y entidades de la administración pública estatal.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2025)</small>
+
+Para el ejercicio de las atribuciones relativas al desarrollo urbano, el ordenamiento territorial y el control del uso del suelo, el titular de la Secretaría se auxiliará de la Dirección General de Desarrollo Urbano y Ordenamiento Territorial, y de la Secretaría de Infraestructura y Obras Públicas, de conformidad con el Reglamento Interior de la Secretaría y el de esta Ley, con la participación que competa a otras dependencias y entidades de la administración pública estatal.
 
 II. En materia de vivienda:
 
@@ -327,7 +339,9 @@ I. Formular, conducir y evaluar la Política Estatal de Vivienda, y coordinar lo
 
 II. Formular y aprobar el Programa Estatal de Vivienda, considerando los planteamientos de los sectores público, social y privado;
 
-III. Elaborar y llevar a cabo programas de mejoramiento de vivienda, autoconstrucción asistida y construcción de vivienda;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+III. Elaborar y llevar a cabo programas de mejoramiento de vivienda, autoconstrucción asistida y construcción de vivienda a través de la Secretaría de Infraestructura y Obras Públicas;
 
 IV. Otorgar créditos para la construcción, autoconstrucción asistida, adquisición o mejoramiento de vivienda, así como para la adquisición y regularización de lotes de uso habitacional;
 
@@ -1329,7 +1343,9 @@ II. Ocupar temporalmente el bien de dominio público o el servicio público e in
 
 III. Verificar el pago oportuno de las obligaciones económicas a cargo del titular;
 
-IV. Supervisar las obras que deba realizar el titular, así como establecer las normas de coordinación con otros servicios públicos similares;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2025)</small>
+
+IV. Coadyuvar en la supervisión de las obras que deba realizar el titular, así como establecer las normas de coordinación con otros servicios públicos similares;
 
 V. Establecer las modalidades que se requieran para la más adecuada prestación de los servicios públicos, cuando no lo prevea el reglamento respectivo;
 
@@ -1914,3 +1930,15 @@ G.O. 21 DE ABRIL DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, DEL DECRETO DE PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2025 DEL GOBIERNO DEL ESTADO, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Quedan sin efecto todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. A partir de la entrada en vigor del presente Decreto, las dependencias y entidades contarán con un término de ciento ochenta días naturales para realizar los ajustes o modificaciones a su normatividad.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, toda obra pública y servicios relacionados con la misma de las dependencias y entidades del Poder Ejecutivo del Estado se ejecutará por la SIOP en términos de lo previsto en la Ley de Obras Públicas y Servicios Relacionados con Ellas, debiéndose firmar los correspondientes acuerdos.
