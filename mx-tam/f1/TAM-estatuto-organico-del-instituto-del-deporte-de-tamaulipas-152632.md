@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-instituto-del-deporte-de-tamaulipas-15263
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-11-24"
-last_updated: "2021-11-24"
+last_updated: "2025-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2025 (DEROGADO).
 
 Estatuto publicado en el Anexo al Número 140 del Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2021.
 
@@ -1310,3 +1312,33 @@ Dentro del término de ciento ochenta días contados a partir de la entrada en v
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes febrero del año dos mil veintiuno.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.- EL SECRETARIO DE BIENESTAR SOCIAL.- RÓMULO GARZA MARTÍNEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico del Instituto del Deporte de Tamaulipas, publicado en el Periódico Oficial del Estado Tomo CXLVI, Anexo al Número 140, de fecha 24 de noviembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto, continuaran su trámite y serán resueltos hasta su conclusión por aquella o aquellas Unidades Administrativas a las que se les haya atribuido la competencia para resolver los asuntos correspondientes, sin que se afecte su validez jurídica y administrativa.
+
+###### ARTÍCULO CUARTO.
+
+En caso de duda sobre la interpretación y aplicación del presente Estatuto, se resolverá de común acuerdo entre la persona titular de la Dirección General y la Junta Directiva, en apego a las disposiciones relativas y aplicables.
+
+###### ARTÍCULO QUINTO.
+
+La persona titular del Instituto del Deporte de Tamaulipas, presentará a la consideración del titular del Poder Ejecutivo del Estado, en un plazo que no exceda de 30 días naturales, contados a partir de la publicación del Estatuto Orgánico de la Entidad, el Manual de Organización del Instituto del Deporte de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+El presente Estatuto Orgánico del Instituto del Deporte de Tamaulipas, deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad con el numeral 3 del artículo 12 de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
