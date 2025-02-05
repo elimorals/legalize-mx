@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-nacional-financiera-sociedad-46905"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2024-04-30"
+last_updated: "2025-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -99,15 +99,15 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPÍTULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 7o.
 
-El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $4,500’000,000.00 (CUATRO MIL QUINIENTOS MILLONES DE PESOS 00/100 M.N.).
+El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $5,600’000,000.00 (CINCO MIL SEISCIENTOS MILLONES DE PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2025)</small>
 
-Dicho capital social estará representado por 59,400,000 (CINCUENTA Y NUEVE MILLONES CUATROCIENTOS MIL) certificados de aportación patrimonial de la serie "A" con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno y por 30,600,000 (TREINTA MILLONES SEISCIENTOS MIL) certificados de aportación patrimonial de la serie "B", con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno.
+Dicho capital social estará representado por 73,920,000 (SETENTA Y TRES MILLONES NOVECIENTOS VEINTE MIL) certificados de aportación patrimonial de la serie "A" con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno y por 38,080,000 (TREINTA Y OCHO MILLONES OCHENTA MIL) certificados de aportación patrimonial de la serie "B", con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -618,5 +618,25 @@ El presente Acuerdo entra en vigor el día siguiente de su publicación en el Di
 Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
 
 ###### ARTÍCULO TERCERO.
+
+De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
+
+D.O.F. 5 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE MODIFICA EL ARTÍCULO 7O., PÁRRAFOS PRIMERO Y SEGUNDO DEL REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, A EFECTO DE AUMENTAR EL CAPITAL SOCIAL DE LA MISMA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entra en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El capital social pagado de la institución a la vigencia del presente Acuerdo ascenderá a la suma de $4,642,424,300.00 (cuatro mil seiscientos cuarenta y dos millones cuatrocientos veinticuatro mil trescientos pesos 00/100 M.N.), el cual estará representado por 92,848,486 certificados de aportación patrimonial (CAPs) a su valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno, de los cuales corresponden 61,280,002 CAPs de la serie "A" (66%), con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno, y 31,568,484 CAPs de la serie "B" (34%), con un valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
+
+###### ARTÍCULO TERCERO.
+
+Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+###### ARTÍCULO CUARTO.
 
 De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
