@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-municipio-de-san-pedro-cholula-puebla-17735
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-18"
-last_updated: "2024-12-18"
+last_updated: "2025-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "PUE"
 LEY DE INGRESOS DEL MUNICIPIO DE SAN PEDRO CHOLULA, PUEBLA, PARA EL EJERCICIO FISCAL 2025
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 6 DE FEBRERO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE INGRESOS DEL MUNICIPIO DE SAN PEDRO CHOLULA, PARA EL EJERCICIO FISCAL 2025 PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2024.]</small>
 
 Ley publicada en la Décima Cuarta Sección del Número 13 del Periódico Oficial del Estado de Puebla, el miércoles 18 de diciembre de 2024.
 
