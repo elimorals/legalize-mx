@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2024-10-24"
+last_updated: "2025-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -463,7 +463,9 @@ Para ser Director General se requiere:
 
 I. Ser mexicano por nacimiento;
 
-II. Tener 30 años cumplidos en la fecha de su nombramiento;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2025)</small>
+
+II. Tener 25 años cumplidos en la fecha de su nombramiento;
 
 III. Tener estudios a nivel de licenciatura y contar con experiencia profesional, administrativa y técnica comprobadas; y
 
@@ -714,3 +716,9 @@ P.O. 24 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto a los 112 Ayuntamientos así como al Concejo Mayor de Cherán, Michoacán, para los efectos legales conducentes.
+
+P.O. 6 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 143 POR EL QUE "SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 22 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo".]
