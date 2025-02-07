@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2024-09-17"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -4235,6 +4235,20 @@ En caso de tratarse de particulares realizando funciones propias del supervisor 
 
 A quien cometa los delitos previstos en las fracciones V, X, XI, XII, XIII, XIV, XV, XVIII, XIX y XXI de este artículo, se le impondrá pena de prisión de cuatro a diez años y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+###### Artículo 304 Bis.
+
+Revelación o difusión indebida
+
+A la persona servidora pública que, de forma indebida, reproduzca, revele, difunda, entregue, publique, exponga, remita, distribuya, transmita, oferte, comercialice, intercambie o comparta imágenes, audios, videos, indicios, evidencias, objetos, instrumentos, documentos o información reservada o confidencial del lugar de los hechos o del hallazgo, o productos relacionados con uno o varios hechos señalados por la ley como delitos, o con el procedimiento penal, se le impondrán de dos a seis años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Las sanciones previstas en el párrafo anterior se aumentarán en una tercera parte, cuando:
+
+I. Se trate de cadáveres de mujeres, niñas o adolescentes, o
+
+II. Se refiera a las circunstancias de la muerte, de las lesiones o del estado de salud de la víctima.
+
 ### Capítulo V. Delito contra la debida ejecución de la pena
 
 ###### Artículo 305.
@@ -5464,3 +5478,9 @@ SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y para
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Honorable Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 204 POR EL QUE SE ADICIONA EL ARTÍCULO 304 BIS, REVELACIÓN O DIFUSIÓN INDEBIDA, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
