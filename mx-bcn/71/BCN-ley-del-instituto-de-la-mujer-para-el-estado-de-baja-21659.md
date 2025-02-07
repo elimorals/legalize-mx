@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2022-11-11"
+last_updated: "2025-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -77,6 +77,8 @@ El Instituto estará agrupado en el sector que determine el Titular del Poder Ej
 
 El objeto del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la equidad e igualdad de oportunidades y de trato entre hombres y mujeres, el ejercicio pleno de los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social de la entidad, bajo el criterio de tranversalidad (sic) en las políticas públicas y con un enfoque que permita identificar y valorar la desigualdad, discriminación y violencia hacia las mujeres, para generar un cambio mediante estrategias y líneas de acción que propicien la equidad social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
 El Instituto tendrá las siguientes atribuciones:
@@ -129,7 +131,9 @@ XIX. Servir de enlace con organizaciones locales, nacionales e internacionales q
 
 XX. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres;
 
-XXI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública del Estado, así como de las municipales, y de los sectores social y privado, en materia de equidad e igualdad de derechos y oportunidades para las mujeres;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+XXI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública del Estado, los poderes Legislativo y Judicial, los Órganos Autónomos, así como de las Municipales, y de los sectores social y privado, en materia de equidad e igualdad de derechos y oportunidades para las mujeres;
 
 XXII. Promover la ejecución de acciones para el reconocimiento público de las mujeres, así como para la difusión nacional e internacional de las actividades que las benefician;
 
@@ -608,3 +612,9 @@ P.O. 11 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 160 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 39 MEDIANTE EL CUAL SE CREA LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, SE REFORMA EL ARTÍCULO 33 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, Y SE REFORMA EL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
