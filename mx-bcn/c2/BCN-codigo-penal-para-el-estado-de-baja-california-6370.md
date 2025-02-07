@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2024-10-18"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE OCTUBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NO. 05 PUBLICADO EN EL P.O. DEL 4 DE OCTUBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2353,9 +2351,9 @@ Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, o para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos, o el delito haya sido cometido dentro (sic) las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará (sic) las reglas contenidas en el artículo 16 de este Código.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de tres a seis años cuando el delito de violación fuere cometido por un ascendiente contra un descendiente, por éste contra aquél, por persona que tenga relación de parentesco por consanguinidad o civil, con el ofendido, por el tutor en contra de su pupilo o por el padrastro o amasio de la madre del ofendido, en contra del hijastro. En los casos en que la ejerciere el culpable perderá la patria potestad o la tutela, así como el derecho de heredar del ofendido.
+Además de las sanciones que señalan los artículos que anteceden, se impondrán de tres a seis años de prisión cuando el delito de violación fuere cometido por un ascendiente contra un descendiente, por este contra aquél, por la persona que tenga relación de parentesco por consanguinidad o civil, con el ofendido, por el tutor en contra de su pupilo o por el padrastro o amasio de la madre del ofendido, en contra del hijastro. En los casos en que la ejerciere el culpable perderá la patria potestad o la tutela, así como el derecho de heredar del ofendido.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2377,7 +2375,9 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a diez años de prisión y hasta doscientos días multa.
 
-Si se hiciere uso de la violencia física o moral, la pena se aumentará de dos a cuatro años
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+Si se hiciere uso de la violencia física o moral, la pena se aumentará de dos a cuatro años de prisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
 
@@ -2385,9 +2385,9 @@ Si se hiciere uso de la violencia física o moral, la pena se aumentará de dos 
 
 Sub tipo y punibilidad.- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de ocho a trece años de prisión y una multa de hasta quinientas veces la unidad de medida y actualización.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará de dos a cuatro años.
+Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará de dos a cuatro años de prisión.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
@@ -2587,9 +2587,9 @@ Cuando el valor de lo robado no exceda de 40 veces el valor diario de la Unidad 
 
 Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terreno rústico, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de este, tubería para riego, maquinaria agrícola o cualesquiera otro equipo, componente o accesorio destinado al aprovechamiento agropecuario, pesquero o acuícola.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-Las penas para el delito previsto en este artículo se incrementarán de uno a tres años cuando se cometa en contra de bienes propiedad del Estado o Municipios.
+Las penas para el delito previsto en este artículo se incrementarán de uno a tres años de prisión cuando se cometa en contra de bienes propiedad del Estado o Municipios.
 
 > <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3159,11 +3159,11 @@ b) Copia de una documental pública con fotografía que acrediten los datos de i
 
 c) Registro de la fecha, cantidad y tipo de metales que se hayan adquirido, recibido en prenda o guardado, el cual deberá ser proporcionado al Ministerio Público en el ejercicio de sus funciones de investigación, o a la autoridad judicial competente que así lo solicite de conformidad con las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 233.
 
-Tipo y Punibilidad.- Al que sin cerciorarse de su procedencia legitima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
+Tipo y Punibilidad.- Al que sin cerciorarse de su procedencia legitima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años de prisión y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
@@ -6676,3 +6676,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 TERCERO.- A las personas que hayan cometido un delito de los contemplados en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 42 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 179, 180 BIS, 201 BIS Y 233 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
