@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-etica-del-poder-legislativo-del-estado-de-baja-142301
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-13"
-last_updated: "2020-03-13"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE ÉTICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de marzo de 2020.
 
@@ -53,15 +53,19 @@ CÓDIGO DE ÉTICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
 Objeto
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 1.
 
-El presente Código, tiene por objeto establecer las normas éticas que regirán la actuación de las y los servidores públicos del Poder Legislativo del Estado de Baja California y el procedimiento para su cumplimiento, así como establecer un Comité de Ética que promueva una cultura ética entre los servidores públicos del Poder Legislativo del Estado de Baja California.
+El presente Código, tiene por objeto establecer las normas éticas que regirán la actuación de las personas servidoras públicas del Poder Legislativo del Estado de Baja California y el procedimiento para su cumplimiento, así como establecer un Comité de Ética que promueva una cultura ética entre las personas servidoras públicas del Poder Legislativo del Estado de Baja California.
 
 Ámbito de Aplicación
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 2.
 
-Lo establecido en este código es de observancia obligatoria para todos los servidores públicos del Poder Legislativo del Estado de Baja California.
+Lo establecido en este Código es de observancia obligatoria para todas las personas servidoras públicas del Poder Legislativo del Estado de Baja California.
 
 Glosario
 
@@ -69,75 +73,105 @@ Glosario
 
 Para los efectos del presente Código, se entenderá por:
 
-I. Acoso sexual: Comportamiento en función del sexo, de carácter desagradable y ofensivo para la persona que lo sufre. Para que se trate de acoso sexual es necesaria la confluencia de ambos aspectos negativos: no deseado y ofensivo.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+I. Acoso sexual: Es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
 II. Código: El Código de Ética del Poder Legislativo del Estado de Baja California.
 
-III. Congreso: El Congreso del Estado de Baja California.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
 
-IV. Comité: El Comité de Ética del Poder Legislativo del Estado de Baja California.
+III. Comité: El Comité de Ética del Poder Legislativo del Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+IV. Contraloría Interna: La Unidad de Contraloría Interna del Poder Legislativo del Estado de Baja California.
 
 V. Hostigamiento sexual: Es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
-VI. Contraloría Interna: La Unidad de Contraloría Interna del Poder Legislativo del Estado de Baja California.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
 
-VII. Legisladores: Las y los diputados integrantes del Congreso.
+VI. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
-VIII. Ley Orgánica: Ley Orgánica del Poder Legislativo del Estado de Baja California.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
 
-IX. Poder Legislativo: Poder Legislativo del Estado de Baja California.
+VII. Ley Orgánica: Ley Orgánica del Poder Legislativo del Estado de Baja California.
 
-X. Servidores Públicos: Las personas servidoras públicas del Congreso de Baja California.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+VIII. Poder Legislativo: Es el órgano de gobierno del Estado de Baja California, al que le corresponde el ejercicio de las funciones legislativas, de fiscalización, así como el ámbito de la gestoría comunitaria, que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Local le confieren, así como las demás que le otorgan la presente Ley, y otras disposiciones legales.
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+IX. Personas servidoras públicas: Aquellas personas que desempeñan un empleo, cargo o comisión en el Poder Legislativo del Estado de Baja California
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+X. Violencia Institucional: Son los actos u omisiones las personas servidoras públicas de cualquier orden de gobierno que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO I. PRINCIPIOS Y VALORES DEL SERVIDOR PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO I. PRINCIPIOS Y VALORES DE LAS PERSONAS SERVIDORAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 4.
 
-Los servidores públicos deberán observar en el desempeño de su empleo, cargo, comisión o función, los siguientes principios:
+Las personas servidoras públicas deberán observar en el desempeño de su empleo, cargo o comisión, los siguientes principios:
 
-a) Legalidad: Los servidores públicos se encuentran facultados para hacer exclusivamente aquello que las normas expresamente le confieren y en todo momento supeditan su actuación a las atribuciones que las leyes, reglamentos y demás disposiciones jurídicas le otorgan a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+a. Legalidad: Las personas servidoras públicas se encuentran facultadas para hacer exclusivamente aquello que las normas expresamente le confieren y en todo momento supeditan su actuación a las atribuciones que las leyes, reglamentos y demás disposiciones jurídicas le otorgan a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
 
-b) Honradez: Los servidores públicos se conducen con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender algún beneficio, provecho o ventaja personal o a favor de terceros; no buscan ni aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
+b. Honradez: Las personas servidoras públicas se deberán conducir con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender algún beneficio, provecho o ventaja personal o a favor de terceros; no buscan ni aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
 
-c) Lealtad: Los servidores públicos corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad, y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
+c. Lealtad: Las personas servidoras públicas deberán corresponder a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad, y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
 
-d) Imparcialidad: Los servidores públicos dan a la ciudadanía y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+d. Imparcialidad: Las personas servidoras públicas darán a la ciudadanía y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
 
-e) Eficiencia: Los servidores públicos actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
+e. Eficiencia: Las personas servidoras públicas actuarán en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
 
-f) Economía: Los servidores públicos en el ejercicio del gasto público administran los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo estos de interés general.
+f. Economía: Las personas servidoras públicas en el ejercicio del gasto público administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo estos de interés general.
 
-g) Disciplina: Los servidores públicos desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
+g. Disciplina: Las personas servidoras públicas desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
 
-h) Profesionalismo: Los servidores públicos deberán conocer, actuar, y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
+h. Profesionalismo: Las personas servidoras públicas deberán conocer, actuar, y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
 
-i) Objetividad: Los servidores públicos deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán ser informadas en estricto apego a la legalidad.
+i. Objetividad: Las personas servidoras públicas deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán ser informadas en estricto apego a la legalidad.
 
-j) Transparencia: Los servidores públicos en el ejercicio de sus funciones privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
+j. Transparencia: Las personas servidoras públicas en el ejercicio de sus funciones privilegiarán el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
 
-k) Rendición de cuentas: Los servidores públicos asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+k. Rendición de cuentas: Las personas servidoras públicas asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
 
-l) Competencia por mérito: Los servidores públicos deberán ser seleccionados para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
+l. Competencia por mérito: Las personas servidoras públicas deberán ser seleccionadas para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
 
-m) Eficacia: Los servidores públicos actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
+m. Eficacia: Las personas servidoras públicas actuarán conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
 
-n) Integridad: Los servidores públicos actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
+n. Integridad: Las personas servidoras públicas actuarán siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
 
-o) Equidad: Los servidores públicos procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades;
+o. Equidad: Las personas servidoras públicas procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades; (sic)
 
-### CAPÍTULO II VALORES
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO II. VALORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 5.
 
-Los servidores públicos del Poder Legislativo deberán observar en el desempeño de su empleo, cargo, comisión o función, los siguientes valores:
+Las personas servidoras públicas deberán observar en el desempeño de su empleo, cargo o comisión, los siguientes valores:
 
-a) Interés Público: Los servidores públicos actúan buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de interés y beneficios particulares, ajenos a la satisfacción colectiva.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-b) Respeto: Los servidores públicos se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, supriores y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
+a. Interés Público: Las personas servidoras públicas actuarán buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de interés y beneficios particulares, ajenos a la satisfacción colectiva.
 
-c) Respeto a los Derechos Humanos: Los servidores públicos respetan los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con los Principios de:
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+b. Respeto: Las personas servidoras públicas se conducirán con austeridad y sin ostentación, y otorgarán un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+c. Respeto a los Derechos Humanos: Las personas servidoras públicas respetarán los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con los Principios de:
 
 1. Universalidad: Que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo;
 
@@ -147,21 +181,33 @@ c) Respeto a los Derechos Humanos: Los servidores públicos respetan los derecho
 
 4. Progresividad: Que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección;
 
-d) Igualdad y no Discriminación: Los servidores públicos prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-e) Equidad de Género: Los servidores públicos, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales.
+d. Igualdad y no Discriminación. Las personas servidoras públicas prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
 
-f) Entorno Cultural y Ecológico: Los servidores públicos, en el desarrollo de sus actividades evitan la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-g) Cooperación: Los servidores públicos, colaboran entre sí y propician el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de los ciudadanos en sus instituciones.
+e. Equidad de Género: Las personas servidoras públicas en el ámbito de sus competencias y atribuciones, garantizarán que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales.
 
-h) Liderazgo: Los servidores públicos son guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentan y aplican en el desempeño de sus atribuciones los principios que la Constitución y la ley les impone, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+f. Entorno Cultural y Ecológico: Las personas servidoras públicas en el desarrollo de sus actividades, evitarán la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+g. Cooperación: Las personas servidoras públicas colaborarán entre sí y propiciarán el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de los ciudadanos en sus instituciones.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+h. Liderazgo: Las personas servidoras públicas son guía, ejemplo y promotores del Código de Ética y las Reglas de Integridad; fomentan y aplican en el desempeño de sus atribuciones los principios que la Constitución y la ley les impone, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
 
 ### CAPÍTULO III. DIRECTRICES DE ACTUACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 6.
 
-Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:
+Las personas servidoras públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, las personas servidoras públicas observarán las siguientes directrices:
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas que les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -187,13 +233,17 @@ XI. Información pública, evitar revelar información institucional derivada de
 
 ### CAPITULO IV. REGLAS DE INTEGRIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 7.
 
-Conjunto de preceptos que deberán regir el actuar de los servidores públicos de manera congruente con los principios que se deben observar en el desempeño de su empleo, cargo, comisión o función con el compromiso de ajustar su conducta al interés público. Conforme a lo siguiente:
+Las Reglas de Integridad son el conjunto de preceptos que deberán regir el actuar de Las personas servidoras públicas de manera congruente con los principios que se deben observar en el desempeño de su empleo, cargo o comisión con el compromiso de ajustar su conducta al interés público. Conforme a lo siguiente:
 
 I. Actuación Pública
 
-El servidor público que desempeña un empleo, cargo, comisión o función, conduce su actuación con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas que desempeñan un empleo, cargo o comisión, conducirán su actuación con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -211,27 +261,43 @@ f) Utilizar recursos humanos, materiales o financieros institucionales para fine
 
 g) Asignar o delegar responsabilidades y funciones sin apegarse a las disposiciones normativas aplicables;
 
-h) Realizar cualquier tipo de discriminación tanto a otros servidores públicos como a toda persona en general;
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-i) Hostigar, agredir, amedrentar, acosar, intimidar, extorsionar, o amenazar a personal subordinado o compañeros de trabajo;
+h) Realizar cualquier tipo de discriminación tanto a otras personas servidoras públicas como a toda persona en general;
 
-j) Omita efectuar gestiones ajenas a su labor parlamentaria ante entidades del Estado en el ejercicio de sus funciones, salvo aquellas que se prevean en la Ley Orgánica.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+i) Hostigar, agredir, amedrentar, acosar, intimidar, extorsionar, o amenazar a personal subordinado o a cualquier compañera de trabajo;
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+j) Omita efectuar gestiones ajenas a su labor ante entidades del Estado en el ejercicio de sus funciones, salvo aquellas que se prevean en la Ley Orgánica.
 
 k) Cometer actitudes que denoten abuso de poder;
 
-l) Permitir que servidores públicos subordinados incumplan total o parcialmente con su jornada u horario laboral;
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-m) Dejar establecer medidas preventivas al momento de ser informado como superior jerárquico, de una posible situación de riesgo o de conflicto de interés; y
+l) Permitir que personas servidoras públicas subordinadas incumplan total o parcialmente con su jornada u horario laboral;
 
-n) Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-o) No atender los requerimientos de cualquier autoridad fiscalizadora con diligencia y en los plazos establecidos.
+m) Dejar establecer medidas preventivas al momento de ser informado como superior jerárquico, de una posible situación de riesgo o de conflicto de interés;
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+n) Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos;
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+o) No atender los requerimientos de cualquier autoridad fiscalizadora con diligencia y en los plazos establecidos; y
 
 p) Abstenerse de denunciar actos u omisiones que con motivo de su empleo, cargo o comisión llegue a conocer.
 
 II. Información Pública
 
-El servidor público que con motivo de su empleo, cargo, comisión o función conduce su actuación conforme al principio de transparencia y resguarda la documentación e información gubernamental que tiene bajo su responsabilidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas que con motivo de su empleo, cargo o comisión conduce su actuación conforme al principio de transparencia y resguarda la documentación e información gubernamental que tiene bajo su responsabilidad.
 
 Contravienen esta regla de manera enunciativa mas no limitativa, las conductas siguientes:
 
@@ -257,7 +323,9 @@ j) Difundir o proporcionar información que hubiere sido clasificada como reserv
 
 III. Contrataciones Públicas, Licencias, Permisos, Autorización y Concesiones.
 
-El servidor público que con motivo de su empleo, cargo, comisión o función o a través de subordinados, participe en contrataciones públicas, se conducirá con transparencia, honradez, imparcialidad, objetividad y legalidad; orientará sus decisiones a las necesidades e intereses de la sociedad, y garantiza las mejores condiciones para el Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas que, con motivo de su empleo, cargo o comisión, o a través de subordinados, participe en contrataciones públicas, se conducirá con transparencia, honradez, imparcialidad, objetividad y legalidad; orientará sus decisiones a las necesidades e intereses de la sociedad, y garantizará las mejores condiciones para el Estado.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -275,7 +343,9 @@ f) Proporcionar de manera indebida información de los particulares que particip
 
 g) Ser parcial en la selección designación, contratación, y en su caso, remoción o recisión del contrato, en los procedimientos de contratación;
 
-h) Influir en las decisiones de otros servidores públicos para que se beneficie a un participante en los procedimientos de contratación;
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+h) Influir en las decisiones de otras personas servidoras públicas para que se beneficie a un participante en los procedimientos de contratación;
 
 i) No imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables;
 
@@ -287,7 +357,9 @@ l) Ser beneficiario directo a través de familiares hasta el cuarto grado de par
 
 IV. Programas gubernamentales
 
-El servidor público que, con motivo de su empleo, cargo, comisión o función o a través de subordinados participe en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales derivados de la gestoría comunitaria que realizan los Diputados, garantizará que la entrega de estos beneficios se apegue a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+La persona servidora pública que, con motivo de su empleo, cargo, comisión o a través de subordinados participe en el otorgamiento y operación de subsidios y apoyos de programas gubernamentales derivados de la gestoría comunitaria que realizan las Diputas y los Diputados, garantizará que la entrega de estos beneficios se apegue a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y respeto.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -297,15 +369,23 @@ b) Proporcionar apoyos en periodos restringidos por la autoridad electoral.
 
 c) Dar trato preferencial o inequitativo a cualquier persona u organización en la gestión o entrega de apoyos.
 
-d) Discriminar a cualquier interesado para acceder a los apoyos o beneficios.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
-e) Entregar, disponer o hacer uso de la información de los beneficiarios para fines diferentes a los programas de apoyo.
+d) Discriminar a cualquier persona interesada para acceder a los apoyos o beneficios.
 
-f) Omitir total o parcialmente la entrega del apoyo a los beneficiarios.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+e) Entregar, disponer o hacer uso de la información de las personas beneficiarias para fines diferentes a los programas de apoyo.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+f) Omitir total o parcialmente la entrega del apoyo a las personas beneficiarias.
 
 V. Trámites y servicios
 
-El servidor público que con motivo de su empleo, cargo, comisión o función participe en la prestación de trámites y en el otorgamiento de servicios, debe atender a los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas que, con motivo de su empleo, cargo o comisión participen en la gestión de trámites y en el otorgamiento de apoyos, deben atender a las personas usuarias de forma respetuosa, eficiente, oportuna, responsable e imparcial.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -313,19 +393,25 @@ a) Ejercer una actitud contraria de servicio, respeto y cordialidad en el trato,
 
 b) Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios;
 
-c) Discriminar por cualquier motivo en la atención de consultas, la realización de trámites y gestiones, y la prestación de servicios;
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+c) Discriminar por cualquier motivo en la atención de consultas, la realización de trámites y gestiones; y
 
 d) Solicitar, exigir o pretender obtener una compensación, dádiva, regalo u obsequio a cambio de otorgar un servicio, trámite o información;
 
 VI. Recursos Humanos
 
-El servidor público que participe en procedimientos de recursos humanos, de planeación de estructuras o que desempeñe en general un empleo, cargo, comisión o función, se debe apegar a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas que participen en procedimientos de recursos humanos, de planeación de estructuras o que desempeñen en general un empleo, cargo o comisión, se deben apegar a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
 a) Dejar de garantizar la igualdad de oportunidades en el acceso a la función pública con base en el mérito.
 
-b) Designar, contratar o nombrar en un empleo cargo, comisión o función a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición o percibirse como contrarios a los intereses que les correspondería velar si se desempeñara en el servicio público.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+b) Designar, contratar o nombrar en un empleo, cargo o comisión a personas cuyos intereses particulares, laborales, profesionales, económicos o de negocios puedan estar en contraposición o percibirse como contrarios a los intereses que les correspondería velar si se desempeñara en el servicio público.
 
 c) Proporcionar a un tercero no autorizado información contenida en los expedientes de (sic) personal y en archivos de recurso (sic) humanos bajo su resguardo.
 
@@ -337,23 +423,31 @@ f) Seleccionar, contratar, nombrar o designar directa o indirectamente como suba
 
 g) Inhibir la formulación o presentación de inconformidades o recursos que se prevean en las disposiciones aplicables para los procesos de ingreso.
 
-h) Otorgar a un servidor público subordinado durante su proceso de evaluación una calificación que no corresponda a sus conocimientos actitudes o desempeño.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+h) Otorgar a una persona servidora pública subordinada durante su proceso de evaluación una calificación que no corresponda a sus conocimientos actitudes o desempeño.
 
 i) Disponer del personal a su cargo en forma indebida para que le realice tramites, asuntos o actividades de carácter personal o familiar ajenos al servicio público.
 
 j) Presentar información y documentación falsa que induzca al error sobre el cumplimiento de metas de evaluación al desempeño.
 
-k) Remover, cesar, despedir, separar, dar o solicitar la baja de servidores públicos de carrera sin tener atribuciones o por causas o procedimientos no previstos en las leyes aplicables.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+k) Remover, cesar, despedir, separar, dar o solicitar la baja de personas servidoras públicas de carrera sin tener atribuciones o por causas o procedimientos no previstos en las leyes aplicables.
 
 l) Omitir excusarse de conocer asuntos que puedan implicar cualquier conflicto de interés.
 
-m) Evitar que el proceso de evaluación de desempeño de los servidores públicos se realice en forma objetiva y en su caso dejar de retroalimentar sobre los resultados obtenidos cunado (sic) el desempeño del servidor público sea contrario a lo esperado.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+m) Evitar que el proceso de evaluación de desempeño de las personas servidoras públicas se realice en forma objetiva y en su caso dejar de retroalimentar sobre los resultados obtenidos cuando el desempeño de la persona servidora pública sea contrario a lo esperado.
 
 n) Eludir conforme a sus atribuciones la reestructuración de áreas identificadas como sensibles o vulnerables a la corrupción o en las que se observe una alta incidencia de conductas contrarias al código de ética a las reglas de integridad o al código de conducta respectivo.
 
 VII. Administración de bienes muebles e inmuebles
 
-El servidor público que, con motivo de su empleo, cargo, comisión o función, participe en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, debe administrar los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+La persona servidora pública que, con motivo de su empleo, cargo o comisión, participe en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, debe administrar los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -363,13 +457,17 @@ b) Compartir información con terceros ajenos a los procedimientos de baja, enaj
 
 c) Recibir o solicitar cualquier tipo de compensación, dadiva, obsequio o regalo, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles.
 
-d) Intervenir o influir en las decisiones de otros servidores públicos para que se beneficie a algún participante en los procedimientos de enajenaci6n (sic) de bienes muebles e inmuebles.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+d) Intervenir o influir en las decisiones de otras personas servidoras públicas para que se beneficie a algún participante en los procedimientos de enajenaci6n (sic) de bienes muebles e inmuebles.
 
 e) Tomar decisiones en los procedimientos de enajenación de bienes muebles e inmuebles, anteponiendo intereses particulares que dejen de asegurar las mejores condiciones en cuanto a precio disponible en el mercado.
 
 f) Manipular la información proporcionada por los particulares en los procedimientos de enajenación de bienes muebles e inmuebles.
 
-g) Utilizar el parque vehicular terrestre, marítimo o aéreo, de carácter oficial o arrendado para este propósito, para uso particular, personal o familiar, fuera de la normativa establecida por el Congreso.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+g) Utilizar el parque vehicular terrestre, marítimo o aéreo, de carácter oficial o arrendado para este propósito, para uso particular, personal o familiar, fuera de la normativa establecida por el Poder Legislativo.
 
 h) Utilizar los bienes inmuebles para uso ajeno a la normatividad aplicable.
 
@@ -377,7 +475,9 @@ i) Disponer de los bienes y demás recursos públicos sin observar las normas a 
 
 VIII. Procesos de evaluación
 
-El servidor público que, con motivo de su empleo, cargo, comisión o función, participe en procesos de evaluación, se deberá apegar en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas que, con motivo de su empleo, cargo, o comisión, participen en procesos de evaluación, se deberá apegar en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas.
 
 Contravienen esta regla, de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -389,7 +489,9 @@ c) Alterar registros de cualquier índole para simular o modificar los resultado
 
 IX. Control Interno
 
-El servidor público que, en el ejercicio de su empleo, cargo, comisión o función, participe en procesos en materia de control interno, deberá generar, obtener, utilizar y comunicar información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas, así como prevenir la corrupción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+La persona servidora pública que, en el ejercicio de su empleo, cargo o comisión, participe en procesos en materia de control interno, deberá generar, obtener, utilizar y comunicar información suficiente, oportuna, confiable y de calidad, apegándose a los principios de legalidad, imparcialidad y rendición de cuentas, así como prevenir la corrupción.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -403,9 +505,13 @@ d) Dejar de salvaguardar bienes, documentos e información que se deban conserva
 
 e) No apegarse a la normatividad aplicable.
 
-X. Procedimiento Administrativo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
 
-El servidor público que, en el ejercicio de su empleo, cargo, comisión o función, participe en procedimientos administrativos deberá tener una cultura de denuncia, así como respetar las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad.
+X. Procedimiento Administrativo y Jurisdiccional
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+La persona servidora pública que, en el ejercicio de su empleo, cargo o comisión, participe en procedimientos administrativos y jurisdiccionales, deberá tener una cultura de denuncia, así como respetar las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad, así como contribuir a la erradicación de la violencia institucional contra las mujeres, conforme a la Ley de Acceso de Mujeres a una Vida Libre de Violencia para el Estado de Baja California.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -431,17 +537,21 @@ j) Negarse a informar, declarar o testificar sobre hechos que le consten relacio
 
 k) Inobservar criterios de legalidad, imparcialidad, objetividad y discreción en los asuntos de los que tenga conocimiento que impliquen contravención a este Código de Ética.
 
+> <small>(REFORMADO [N. DE E. CON SUS PÁRRAFOS], P.O. 7 DE FEBRERO DE 2025)</small>
+
 XI. Desempeño permanente con integridad
 
-El servidor público que desempeñe un empleo, cargo, comisión o función, debe conducir su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad.
+Las personas servidoras públicas que desempeñen un empleo, cargo o comisión, en el Poder Legislativo de Baja California, deberán conducir su actuación con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad.
 
-Contravienen esta regla de manera enunciativa mas no limitativa:
+Contravienen esta regla el omitir conducirse con un trato digno y cordial, conforme a los protocolos de actuación o atención al público que para efectos se elaboren y de cooperación entre personas servidoras públicas, sin observar el Código de Ética.
 
-a) Omitir conducirse con un trato digno y cordial, conforme a los protocolos de actuación o atención al público que para efectos se elaboren y de cooperación entre servidores públicos, sin observar el Código de Ética.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
 
-XII. Cooperación con la integridad
+XII. Coperación (sic) con la integridad
 
-El servidor público en el desempeño de su empleo, cargo, comisión o función cooperará con el poder legislativo y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas adscritas al Poder Legislativo en el desempeño de su empleo, cargo o comisión, cooperarán con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
 
 Son acciones que, de manera enunciativa más no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
 
@@ -453,9 +563,13 @@ c) Recomendar, diseñar y establecer mejores prácticas a favor del servicio pú
 
 XIII. Comportamiento digno
 
-El servidor público en el desempeño de su empleo, cargo o comisión se deberá conducir en forma digna sin realizar expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en la función pública.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
 
-El servidor público deberá conocer y comprender que las conductas de hostigamiento sexual o acoso sexual constituyen faltas de respeto, diligencia y rectitud hacia las personas con las que se tiene relación con motivo del empleo, que atentan contra los valores éticos, los derechos humanos y la integridad física o psicológica de las víctimas, configurándose una falta que da lugar a un procedimiento administrativo, penal o laboral.
+Las personas servidoras públicas adscritas al Poder Legislativo en el desempeño de su empleo, cargo o comisión, deberán conducirse en forma digna sin realizar expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene o guarda relación en la función pública.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE FEBRERO DE 2025)</small>
+
+Las personas servidoras públicas adscritas al Poder Legislativo deberán conocer y comprender que las conductas de hostigamiento o acoso sexual constituyen faltas de respeto, diligencia y rectitud hacia las personas con las que se tiene relación con motivo del empleo, que atentan contra los valores éticos, los derechos humanos y la integridad física o psicológica de las víctimas, configurándose una falta que da lugar a un procedimiento administrativo, penal o laboral.
 
 Contravienen esta regla de manera enunciativa más no limitativa, las conductas siguientes:
 
@@ -501,7 +615,9 @@ Capacitación
 
 La Unidad de Contraloría Interna y el Comité, en prevención a la corrupción promoverán, establecerán y aplicarán:
 
-a) Foros, seminarios, capacitación y difusión de temas relacionados con la ética pública y lucha contra la corrupción, dirigidas a los servidores públicos del Poder Legislativo. Para este fin, podrán promover convenios con Dependencias, Asociaciones Civiles e Instituciones Académicas;
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+a) Foros, seminarios, capacitación y difusión de temas relacionados con la ética pública y lucha contra la corrupción, dirigidas a las personas servidoras públicas. Para este fin, podrán promover convenios de colaboración con Dependencias, Asociaciones Civiles e Instituciones Académicas;
 
 b) Invitaciones, citaciones, audiencias públicas o privadas a funcionarios del orden nacional, territorial o personas cuya gestión esté orientada a la lucha contra la corrupción y promoción de valores éticos en el servicio público; y
 
@@ -509,43 +625,55 @@ c) Difusión del Código de ética por medio de mecanismos de publicación peri�
 
 Carta compromiso
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 9.
 
-Será requisito de los servidores públicos de nuevo ingreso, firmar y entregar a la Dirección de Administración del Congreso, la carta compromiso de conocimiento del código de ética, en la que se compromete a cumplirlo y vigilarlo.
+Será requisito para las personas servidoras públicas de nuevo ingreso del Poder Legislativo, firmar y entregar a la Dirección de Administración, la carta compromiso y de conocimiento del Código de Ética, en la que se comprometerán a cumplirlo y vigilarlo.
 
 Recursos
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 10.
 
-El Congreso incluirá dentro de su presupuesto de egresos, los recursos necesarios para la capacitación y difusión a que se refiere el presente Código de Ética.
+El Poder Legislativo incluirá dentro de su presupuesto de egresos, los recursos necesarios para la capacitación y difusión a que se refiere el presente Código de Ética.
 
 ### CAPÍTULO VI. COMITÉ DE ÉTICA
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
 Integración
 
 ###### Artículo 11.
 
-En el Poder Legislativo se integrará un Comité de Ética, que tendrá por objeto fomentar y vigilar el cumplimiento del presente Código. Estará conformado por cinco miembros, de acuerdo a la siguiente estructura:
+En el Poder Legislativo se integrará un Comité de Ética, que tendrá por objeto fomentar y vigilar el cumplimiento del presente Código.
 
-I. Quien ostente la Presidencia de la Junta de Coordinación Política;
+Estará conformado por cinco integrantes, de acuerdo a la siguiente estructura:
 
-II. Titular de la Unidad contraloría Interna, quien desempeñará funciones de Secretario Técnico;
+I. La persona titular de la Presidencia de la Junta de Coordinación Política;
 
-III. Titular de la Presidencia de la Mesa Directiva del Poder Legislativo;
+II. La persona titular de la Unidad Contraloría Interna, quien desempeñará funciones de la Secretaría técnica;
 
-IV. Titular de la Dirección de Administración del Poder Legislativo; y el
+III. La persona titular de la Presidencia de la Mesa Directiva del Poder Legislativo;
 
-V. Titular de la Unidad de Asuntos Jurídicos.
+IV. La persona titular de la Dirección de Administración del Poder Legislativo;
 
-Los miembros del Comité tendrán derecho a voz y voto.
+V. La persona titular de la Unidad de Asuntos Jurídicos; y
+
+VI. La persona Titular de la Unidad de Igualdad de Género.
+
+Las personas integrantes del Comité tendrán derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 12.
 
-Cada miembro propietario designará un suplente, quien asistirá en su ausencia.
+Cada persona integrante propietaria designará una persona suplente, quien asistirá en su ausencia.
 
-El suplente debe ser de su misma Área u Órgano que represente, salvo los señalados en el inciso I y III.
+La persona suplente debe ser de la misma Área u Órgano al que represente, con excepción de los señalados en el inciso I y III.
 
-Las sesiones y acuerdos del Comité se regularán con base en el acuerdo que emita el propio Comité. El Comité deberá sesionar de manera ordinaria por lo menos, tres veces por año y extraordinarias en cualquier momento que se considere conveniente.
+Las sesiones y acuerdos del Comité de Ética, se regularán con base en el acuerdo que emita el propio Comité, debiendo sesionar de manera ordinaria por lo menos, dos veces por año y extraordinarias en cualquier momento que se considere conveniente.
 
 Facultades
 
@@ -553,27 +681,41 @@ Facultades
 
 El Comité de Ética tendrá las siguientes facultades:
 
-I. Promover una cultura ética entre los servidores públicos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+I. Promover una cultura ética y de integridad entre las personas servidoras públicas del Poder Legislativo;
 
 II. Promover el cumplimiento de este Código, así como las disposiciones aplicables en la materia;
 
 III. Prevenir la comisión o realización de actos contrarios a este Código de Ética;
 
-IV. Dar vista a la Contraloría de las probables conductas de Servidores Públicos que puedan constituir responsabilidades administrativas en términos de la normatividad aplicable en la materia;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
 
-V. Fomentar en coordinación con las diferentes Direcciones, Unidades del Congreso y otros comités, acciones permanentes sobre el respeto a los derechos humanos, prevención de la discriminación e igualdad de género y los demás principios y valores contenidos en el Código de Ética, que permitan a las y los servidores públicos identificar y delimitar las conductas que en situaciones específicas deban observar en el desempeño de su empleo, cargo, comisiones o funciones;
+IV. Dar vista a la Unidad de Contraloría Interna de las probables conductas de las personas Servidoras Públicas que puedan constituir responsabilidades administrativas en términos de la normatividad aplicable en la materia;
 
-VI. Promover, capacitar y difundir los principios de conducta y deberes éticos que inspiran a este Código entre las y los diputados, sus colaboradores y servidores públicos que integran el Poder Legislativo en conjunto con la Unidad de Contraloría Interna del Poder Legislativo; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+V. Fomentar en coordinación con las diferentes Direcciones, Unidades del Poder Legislativo y otros comités, acciones permanentes sobre el respeto a los derechos humanos, prevención de la discriminación e igualdad de género y los demás principios y valores contenidos en el Código de Ética, que permitan a las personas servidoras públicas identificar y delimitar las conductas que en situaciones específicas deban observar en el desempeño de su empleo, cargo o comisión;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+VI. Promover, capacitar y difundir los principios de conducta y deberes éticos que inspiran a este Código entre las y los diputados, sus colaboradores y personas servidoras públicas que integran el Poder Legislativo en conjunto con la Unidad de Contraloría Interna; y
 
 VII. Promover la transparencia y publicidad de los principios, valores y deberes de la conducta ética.
 
-De las atribuciones del presidente
+> <small>(REFORMADO ACÁPITE, P.O. 7 DE FEBRERO DE 2025)</small>
+
+De las atribuciones de la presidencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 14.
 
-Corresponde al presidente del Comité:
+Corresponde a la presidencia del Comité:
 
-I. Convocar a sesión ordinaria y/o extraordinaria, por conducto del secretario;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+I. Convocar a sesión ordinaria y/o extraordinaria, por conducto de la persona secretaria;
 
 II. Dirigir y moderar los debates durante las sesiones;
 
@@ -583,15 +725,19 @@ IV. Consultar si los asuntos del orden del día están suficientemente discutido
 
 V. En general, ejercitar las acciones necesarias para el mejor desarrollo de las sesiones.
 
-De las atribuciones del secretario
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL P.O. 7 DE FEBRERO DE 2025, PÁGINA 304.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 15.
 
-El secretario tendrá las siguientes funciones:
+La persona secretaria tendrá las siguientes funciones:
 
 I. Elaborar el orden del día de los asuntos que serán tratados en la sesión;
 
-II. Enviar con oportunidad, a los miembros del Comité, la convocatoria y orden del día de cada sesión, anexando copia de los documentos que deban conocer en la sesión respectiva;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+II. Enviar con oportunidad, a los integrantes del Comité, la convocatoria y orden del día de cada sesión, anexando copia de los documentos que deban conocer en la sesión respectiva;
 
 III. Verificar el quórum;
 
@@ -601,7 +747,9 @@ V. Someter a la aprobación del Comité el acta de la sesión anterior, procedie
 
 VI. Recabar las votaciones;
 
-VII. Auxiliar al presidente durante el desarrollo de las sesiones;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+VII. Auxiliar a la presidencia durante el desarrollo de las sesiones;
 
 VIII. Elaborar actas y despachar los acuerdos que se tomen en las sesiones y consignarlas en el registro respectivo, que quedarán bajo su resguardo;
 
@@ -638,3 +786,23 @@ ATENTAMENTE
 Lic. Hugo César Amador Núñez
 
 Contralor Interno del Poder Legislativo del Estado de Baja California
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+###### Artículo 16.
+
+La aplicación e interpretación del presente Código de Ética corresponderá a la Unidad de Contraloría Interna, quien resolverá los casos no previstos y propondrá su actualización ante las instancias competentes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA XXV LEGISLATURA MEDIANTE EL CUAL SE ACTUALIZA EL CÓDIGO DE ÉTICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Conforme al artículo 16 de la Ley de Responsabilidades Administrativas del Estado de Baja California, y una vez discutida y aprobada la presente Iniciativa, remítase a la Persona Titular de la Unidad de Contraloría Interna para efecto de que conforme a sus atribuciones, emita Acuerdo respectivo y realice las diligencias administrativas conducentes, para que la presente reforma al Código de Ética entre en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- A efecto de dar cumplimiento al artículo transitorio anterior, remítase a la persona titular de la Unidad de Contraloría Interna, para que de conformidad a la normatividad aplicable, realice las gestiones conducentes.
+
+TERCERO.- En un periodo no mayor a 15 días hábiles a la entrada en vigor de la presente reforma, el Comité de Ética sesionará de manera extraordinaria a fin de integrar formalmente a la persona Titular de la Unidad de Igualdad de Género.
+
+CUARTO.- Para efectos de difusión interna, remítase la presente reforma a la Dirección de Procesos Parlamentarios para la debida publicación en la Gaceta Parlamentaria del Poder Legislativo del Congreso del Estado de Baja California.
