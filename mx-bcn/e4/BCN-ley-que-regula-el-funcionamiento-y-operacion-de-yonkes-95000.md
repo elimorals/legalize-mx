@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-el-funcionamiento-y-operacion-de-yonkes-95000"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-28"
-last_updated: "2018-11-30"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YONKES, RECICLADORAS Y CENTROS DE ACOPIO DE MATERIALES METÁLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de junio de 2013.
 
@@ -185,7 +185,9 @@ V.- Incinerar cualquier tipo de material que pudiera contravenir la normatividad
 
 VI.- Hacer uso inadecuado de las instalaciones;
 
-VII.- Comprar materiales u objetos identificables como propiedad de personas físicas o morales públicas o privadas, salvo que cuenten con la autorización correspondiente de la persona física o moral de que se trate; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+VII.- Comprar materiales u objetos identificables como propiedad de personas físicas o morales públicas o privadas, salvo que cuenten con la autorización correspondiente de la persona física o moral de que se trate; tratándose de los materiales y objetos que estén relacionados a servicios públicos de orden municipal, estatal o federal, como alcantarillas, medidores de agua, medidores de luz, señalamientos de vialidades, la prohibición es absoluta, salvo que se exhiba la documentación que otorgue certeza de que se está autorizado para disponerlas; y,
 
 VIII.- Las demás prohibiciones previstas en otros ordenamientos que resulten aplicables con motivo del funcionamiento de los establecimientos sujetos a la presente Ley.
 
@@ -442,3 +444,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 41 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 11 DE LA LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE YONKES, RECICLADORAS Y CENTROS DE ACOPIO DE MATERIALES METÁLICOS PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
