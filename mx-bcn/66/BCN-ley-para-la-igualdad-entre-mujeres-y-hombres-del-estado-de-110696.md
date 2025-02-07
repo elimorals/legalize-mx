@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2024-06-28"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -369,13 +369,17 @@ XI. La utilización de un lenguaje no sexista en el ámbito administrativo y su 
 
 XII. Promover que, en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal y Municipal, así como, en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
 
-XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva; y,
+XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
 
-XIV. Promover el principio de igualdad de la remuneración entre mujeres y hombres, cuando realicen trabajos de igual valor.
+XIV. Promover el principio de igualdad de la remuneración entre mujeres y hombres, cuando realicen trabajos de igual valor; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE FEBRERO DE 2025)</small>
+
+XV. Fomentar el establecimiento de medidas que aseguren la corresponsabilidad en el ámbito familiar, en el trabajo y en la vida personal de las mujeres y hombres.
 
 ### CAPÍTULO SEGUNDO. INSTRUMENTOS
 
@@ -938,3 +942,9 @@ P.O. 28 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 441 MEDIANTE EL CUAL SE APRUEBA LA REFORMAN (SIC) LOS ARTÍCULOS 22 Y 25 DE LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 40 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
