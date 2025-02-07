@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg551-2023-del-consejo-general-del-instituto-168676
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-12-01"
-last_updated: "2024-04-10"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168676&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-09-28"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA NOTIFICACIÓN ELECTRÓNICA PREVISTA EN EL REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL, EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-149/2023 Y ACUMULADOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2025.
 
 Acuerdo publicado en el número 1 del Diario Oficial de la Federación, el viernes 1 de diciembre de 2023.
 
@@ -83,13 +83,17 @@ LINEAMIENTOS PARA LA NOTIFICACIÓN ELECTRÓNICA PREVISTA EN EL REGLAMENTO DE RAD
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
+
 Artículo 1
 
 Del ámbito de aplicación y de su objeto
 
-Los presentes Lineamientos son de orden público, de observancia general y obligatoria para todas las personas servidoras públicas del Instituto Nacional Electoral y los sujetos obligados por el Reglamento de Radio y Televisión en Materia Electoral, así como de aquellas autoridades con las que en observancia de la materia este Instituto deba mantener comunicación oficial.
+Los presentes Lineamientos son de orden público, de observancia general y obligatoria para todas las personas servidoras públicas del Instituto Nacional Electoral y las personas sujetas obligadas por el Reglamento de Radio y Televisión en Materia Electoral, así como de aquellas autoridades con las que en observancia de la materia este Instituto deba mantener comunicación oficial.
 
-Tienen por objeto regular las notificaciones electrónicas que practique la Dirección Ejecutiva de Prerrogativas y Partidos Políticos del Instituto en materia de radio y televisión, con excepción de aquellas que se realizan a través del Sistema Integral de Gestión de Requerimientos en Materia de Radio y Televisión (SIGER); el Portal de Medios de Comunicación; el Sistema de Pautas para Medios de Comunicación (SiPP) y Sistema de Recepción de Materiales de Radio y Televisión (RM).
+Los Lineamientos tienen por objeto regular las notificaciones electrónicas que practique la Dirección Ejecutiva de Prerrogativas y Partidos Políticos y las Juntas Locales y Distritales Ejecutivas del Instituto en materia de radio y televisión, con excepción de aquellas que se realizan a través del Sistema Integral de Gestión de Requerimientos en Materia de Radio y Televisión (SIGER); el Portal de Promocionales de Radio y Televisión (PortalRT); el Sistema de Pautas para Medios de Comunicación (SiPP) y el Sistema de Recepción de Materiales de Radio y Televisión (RM).
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 2
 
@@ -99,157 +103,199 @@ Se entenderá por:
 
 I. En cuanto a los ordenamientos jurídicos:
 
-a) LGIPE: Ley General de Instituciones y Procedimientos Electorales;
+a) LGIPE: Ley General de Instituciones y Procedimientos Electorales.
 
-b) Lineamientos: Lineamientos para la notificación electrónica prevista en el Reglamento de Radio y Televisión en Materia Electoral; y
+b) Lineamientos: Lineamientos para la notificación electrónica prevista en el Reglamento de Radio y Televisión en Materia Electoral.
 
 c) RRTME: Reglamento de Radio y Televisión en Materia Electoral.
 
 II. En cuanto a los órganos del Instituto Nacional Electoral:
 
-a) Consejo: Consejo General del Instituto Nacional Electoral;
+a) Consejo: Consejo General del Instituto Nacional Electoral.
 
-b) DEPPP: Dirección Ejecutiva de Prerrogativas y Partidos Políticos;
+b) DEPPP: Dirección Ejecutiva de Prerrogativas y Partidos Políticos.
 
-c) Instituto: Instituto Nacional Electoral;
+c) Instituto: Instituto Nacional Electoral.
 
-d) Junta Local: Junta Local Ejecutiva del Instituto Nacional Electoral;
+d) Junta Local: Junta Local Ejecutiva del Instituto Nacional Electoral.
 
-e) Junta Distrital: Junta Distrital Ejecutiva del Instituto Nacional Electoral; y
+e) Junta Distrital: Junta Distrital Ejecutiva del Instituto Nacional Electoral.
 
 f) Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto Nacional Electoral.
 
-III. En cuanto a las definiciones aplicables a los Lineamientos para la notificación electrónica:
+III. En cuanto a las definiciones aplicables a los Lineamientos:
 
-a) Acuse de recibo electrónico de notificación: documento generado por el correo electrónico implementado por el INE que acredita de manera fehaciente la fecha y hora de entrega, así como la recepción de la notificación enviada por las personas funcionarias facultadas por los Órganos Competentes para tal efecto;
+a) Acuse de recibo electrónico de notificación: documento que de manera automática se genera por el Sistema de Notificaciones Electrónicas que acredita de manera fehaciente la fecha (día, mes y año) y hora de envío (hora, minutos y segundos), incluye una cadena de autenticidad, así como la siguiente información: “De, Para, CC, Asunto, Archivos adjuntos y datos del Registro de envío”, cuyo contenido no es manipulable por las personas usuarias del Sistema.
 
-b) Archivo adjunto: archivo de información no editable que se envía mediante notificación electrónica;
+b) Archivo adjunto: archivo de información no editable que se envía junto con el mensaje de notificación mediante el Sistema de Notificaciones Electrónicas, el cual puede aparecer adjunto al mensaje o incluirse en una liga electrónica o URL en la que podrán descargarse.
 
-c) Correo electrónico institucional de notificación: dirección electrónica proporcionada por el Sistema Informático para enviar notificaciones electrónicas con carácter oficial desde el interior del Instituto;
+c) Cadena de autenticidad: certificado consistente en una serie de caracteres alfanuméricos, con el que se acredita la recepción de la notificación que se realiza mediante el Sistema de Notificaciones Electrónicas y se genera automáticamente por el propio Sistema por cada una de las notificaciones.
 
-d) Documentación por notificar: toda aquella información en materia de radio y televisión relacionada con pautas de transmisión, entrega de materiales, órdenes de transmisión, sustitución de materiales, acuerdos, resoluciones, medidas cautelares, requerimientos, reprogramaciones, programas especiales, solicitudes de información y dictámenes técnicos;
+d) Correo electrónico institucional de notificación: dirección electrónica desde la que el Instituto emitirá las notificaciones electrónicas con carácter oficial.
 
-e) Sujetos obligados: concesionarios de radio y televisión radiodifundida y restringida, partidos políticos, autoridades electorales y, en su caso, candidaturas independientes federales con las que este Instituto mantiene comunicación oficial. Así también, aquellas autoridades con las que en observancia de la materia este Instituto deba mantener comunicación oficial.
+e) Cuenta principal: Cuenta de correo electrónico proporcionada y remitida a la DEPPP por parte del concesionario a la cual se le practicarán las notificaciones electrónicas, respecto de la cuál surtirán todos los efectos las notificaciones en términos de estos Lineamientos.
 
-Se exceptúan de lo anterior, los usuarios del Sistema Integral de Gestión de Requerimientos en Materia de Radio y Televisión (SIGER); el Sistema de Pautas, Control y Seguimiento de Materiales de Radio y Televisión (PAUTAS); el Portal de Promocionales de Radio y Televisión (PortalRT); el Sistema de Pautas para Medios de Comunicación (SiPP) y el Sistema de Recepción de Materiales de Radio y Televisión (RM).
+f) Cuenta o cuentas secundarias: Cuenta o cuentas adicionales de correo electrónico remitidas a la DEPPP por parte del concesionario a las que serán remitidas las notificaciones electrónicas enviadas a la cuenta principal, únicamente para conocimiento.
+
+g) Documentación por notificar: toda aquella información en materia de radio y televisión relacionada con sustitución de materiales, acuerdos, resoluciones, medidas cautelares, requerimientos, reprogramaciones, programas especiales, solicitudes de información, dictámenes técnicos y, en general, toda aquella que el Comité de Radio y Televisión o el Consejo General, ambos del Instituto Nacional Electoral determinen notificar a las personas sujetas obligadas; y, en algunos casos, pautas de transmisión, entrega de materiales y órdenes de transmisión.
+
+Se exceptúa de lo anterior, la información que se notifica mediante el Sistema Integral de Gestión de Requerimientos en Materia de Radio y Televisión (SIGER); el Sistema de Pautas, Control y Seguimiento de (PAUTAS); el Portal de Promocionales de Radio y Televisión (PortalRT); el Sistema de Pautas para Medios de Comunicación (SiPP) y el Sistema de Recepción de Materiales de Radio y Televisión (RM).
+
+h) Fecha de generación del acuse: corresponde a la fecha (día, mes y año) en que se ingresa al Sistema de Notificaciones Electrónicas para generar el acuse de recibo electrónico, y que se identificará en la parte final e inferior del acuse de recibo.
+
+i) Persona usuaria del Sistema: persona servidora pública del Instituto adscrita a la DEPPP o a las Juntas Locales o Distritales, que, por su perfil, ámbito de competencia y funciones, están autorizadas para la elaboración y envío de notificaciones a través del Sistema de Notificaciones Electrónicas.
+
+j) Registro de envío: conjunto de caracteres que arroja el Sistema de Notificaciones Electrónicas para constatar el envío de la notificación electrónica.
+
+k) Sistema de Notificaciones Electrónicas: herramienta tecnológica desarrollada por el Instituto que facilita la sustanciación o práctica de diligencias electrónicas de la autoridad administrativa nacional en materia de radio y televisión.
+
+l) Persona sujeta obligada: concesionarios de radio y televisión radiodifundida y restringida, partidos políticos nacionales y locales, autoridades electorales federales y locales y, en su caso, candidaturas independientes, con las que este Instituto mantiene comunicación oficial. Así como aquellas autoridades con las que en observancia de la materia este Instituto deba mantener comunicación oficial.
+
+Se exceptúan de lo anterior, las personas usuarias del Sistema Integral de Gestión de Requerimientos en Materia de Radio y Televisión (SIGER); el Sistema de Pautas, Control y Seguimiento de Materiales de Radio y Televisión (PAUTAS); el Portal de Promocionales de Radio y Televisión (PortalRT); el Sistema de Pautas para Medios de Comunicación (SiPP) y el Sistema de Recepción de Materiales de Radio y Televisión (RM).
+
+m) URL o liga electrónica: Es la dirección web de un recurso de Internet, por las siglas en inglés de Uniform Resource Locators.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 3
 
 Órganos competentes
 
-La DEPPP, por medio de las personas titulares de la Dirección Ejecutiva, la Dirección de Administración de Tiempos del Estado en Radio y Televisión y la Dirección de Análisis y Gestión Técnica Jurídica y, en su caso, las personas funcionarias que a su efecto designen, quienes deberán tener, al menos el nivel jerárquico de Subdirector de Área, serán las encargadas de la elaboración y emisión de las notificaciones electrónicas que se practiquen con base en estos Lineamientos.
+La DEPPP, por medio de las personas titulares de la Dirección Ejecutiva, la Dirección de Administración de Tiempos del Estado en Radio y Televisión y la Dirección de Análisis y Gestión Técnica Jurídica, así como de las personas funcionarias con nivel de subdirección que para tal efecto se designen mediante oficio, serán las encargadas de la elaboración y emisión de las notificaciones electrónicas que se practiquen con base en estos Lineamientos.
 
-Asimismo, las notificaciones electrónicas podrán ser practicadas por las personas titulares de las Vocalías Ejecutivas de Juntas Locales y Distritales.
+Asimismo, las notificaciones electrónicas podrán ser practicadas por las personas titulares de las Vocalías Ejecutivas de Juntas Locales y Distritales o por aquellas que designen mediante oficio, siendo la persona titular de la Vocalía Ejecutiva la responsable del actuar de dichas personas funcionarias designadas.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 4
 
 Cómputo de los plazos
 
-Durante los procesos electorales federales, locales o extraordinarios, todos los días son hábiles. Los plazos se computarán de momento a momento y si están señalados por días, estos se considerarán de veinticuatro horas.
+Durante los procesos electorales federales, locales o extraordinarios, o ejercicios de participación ciudadana, todos los días y horas son hábiles. Los plazos se computarán de momento a momento y si están señalados por días, estos se considerarán de veinticuatro horas.
 
-Cuando no esté en curso algún proceso electoral federal y/o local los plazos se computarán únicamente en días hábiles, considerados estos todos los días, con excepción de los sábados, domingos y los inhábiles en términos de la normativa aplicable o los determinados por circular expedida por la Secretaría Ejecutiva y los que se contemplen en el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa, de las 9:00 horas a las 18:00 horas.
+Cuando no esté en curso algún proceso electoral, los plazos se computarán únicamente en días hábiles, considerados estos todos los días, con excepción de los sábados, domingos y los inhábiles en términos de la normativa aplicable o los determinados por una circular expedida por la Secretaría Ejecutiva o área competente del Instituto, así como los que se contemplen en el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa, de las 9:00 horas a las 18:00 horas.
 
 Dada la naturaleza urgente de las medidas cautelares, su notificación electrónica se realizará considerando que la Comisión de Quejas y Denuncias del Instituto Nacional Electoral podrá sesionar en cualquier día u hora, dentro o fuera de los procesos electorales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ABRIL DE 2024)</small>
+Al efecto, se deberá considerar que, si la notificación en casos de medidas cautelares materialmente se realiza por la DEPPP o Junta Local o Distrital en un horario posterior a las dieciocho horas (18:00), entonces la autoridad administrativa electoral nacional estará obligada a remitir un citatorio electrónico previo a la persona destinataria.
 
-Al efecto, se deberá considerar que, si la notificación en casos de medidas cautelares se ordena en un horario posterior a las dieciocho horas (18:00), entonces la autoridad administrativa electoral nacional estará obligada a remitir un citatorio electrónico previo a la persona destinataria.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ABRIL DE 2024)</small>
-
-El citatorio electrónico deberá contener de forma clara y precisa que el propósito de la mencionada comunicación es hacer del conocimiento de la persona destinataria que, a las nueve horas (09:00), del día siguiente, le será remitida una notificación formal y que, en términos de los Lineamientos surtirá efectos desde el momento en que se genere el acuse de recibo.
+El citatorio electrónico deberá contener de forma clara y precisa que el propósito de la mencionada comunicación es hacer del conocimiento de la persona destinataria que, a las nueve horas (09:00) del día siguiente, le será remitida una notificación formal y que, en términos de los Lineamientos, surtirá efectos desde el momento en que se genere el acuse de recibo electrónico de notificación.
 
 ### CAPITULO II. Procedimiento de alta y modificación de dirección de correo electrónico
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 5
 
 Alta de la dirección de correo electrónico
 
-Todos los sujetos obligados, a través de su representación legal, deberán remitir a la DEPPP un escrito físico o electrónico en el que señalen la o las direcciones de correo electrónico a través de la cual se les practicarán las notificaciones electrónicas reguladas en estos Lineamientos y la DEPPP, a través de la notificación electrónica, remitirá el acuse correspondiente.
+Todas las personas sujetas obligadas, por si o a través de su representación legal, deberán remitir a la oficialía de partes de la DEPPP un escrito físico o electrónico, dirigido a la cuenta de correo institucional de la oficialía de partes de la DEPPP(7), en el que señalen la o las direcciones de correo electrónico a través de la cual se les practicarán las notificaciones electrónicas reguladas en estos Lineamientos y la DEPPP, a través del Sistema de Notificaciones Electrónicas, les remitirá el acuse correspondiente.
 
-El alta o modificación de la o las cuentas de correo electrónico se hará por escrito del representante legal, remitido física o electrónicamente a la DEPPP. En caso de señalar varias cuentas de correo electrónico se deberá señalar cuál es la cuenta principal y cuál o cuáles las accesorias.
+(7) oficiliadepartes.deppp@ine.mx
+
+El alta o modificación de la o las cuentas de correo electrónico se hará por escrito, por derecho propio o a través de su representación legal, remitido física o electrónicamente a la DEPPP. En caso de señalar varias cuentas de correo electrónico se deberá indicar cuál de ellas es la cuenta principal y cuál o cuáles son las secundarias.
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 6
 
 Modificación de la dirección de correo electrónico
 
-En caso de modificación de la dirección de correo electrónico de los sujetos obligados, ésta deberá notificarse a la DEPPP inmediatamente, a través de su representación legal y la DEPPP, a través de la notificación electrónica, en un plazo no mayor a 48 horas, remitirá el acuse correspondiente.
+En caso de requerir la modificación de la o las direcciones de correo electrónico de las personas sujetas obligadas, ésta deberá notificarse a la DEPPP inmediatamente, y la DEPPP, a través del Sistema de Notificaciones Electrónicas, en un plazo no mayor a 48 horas, remitirá el acuse correspondiente.
 
-Es responsabilidad de los sujetos obligados mantener actualizada la o las cuentas de correo electrónico a las que se deban practicar las notificaciones.
+Es responsabilidad de las personas sujetas obligadas mantener actualizada la o las cuentas de correo electrónico en las que se practicarán las notificaciones.
 
 ### CAPITULO III. Requisitos de la dirección de correo electrónico
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 7
 
 De la dirección de correo electrónico
 
-La dirección de correo electrónico principal de los sujetos obligados deberá ser de uso exclusivo para las notificaciones materia de estos Lineamientos y es responsabilidad de éstos la revisión constante.
+La dirección de correo electrónico principal de las personas sujetas obligadas deberá ser de uso exclusivo para las notificaciones materia de estos Lineamientos y es responsabilidad de éstas su revisión constante.
 
-Los sujetos obligados son responsables del uso, revisión, manejo y mantenimiento de la dirección de correo electrónico principal, por lo que deberán mantener el espacio de memoria disponible para poder recibir las notificaciones electrónicas que les haga la DEPPP.
+Las personas sujetas obligadas son responsables del uso, revisión, manejo y mantenimiento de la dirección de correo electrónico principal, por lo que deberán mantener el espacio de memoria disponible para poder recibir las notificaciones electrónicas que realice la DEPPP o las Juntas Locales y Distritales.
 
-La DEPPP únicamente registrará como dirección de correo electrónica aquellas cuyo dominio sea @outlook.com y @hotmail.com.
+El Sistema de Notificaciones Electrónicas permite el registro de cuentas de correos electrónicos de cualquier dominio.
 
-### CAPITULO IV. Procedimiento para la notificación electrónica
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE FEBRERO DE 2025)</small>
+
+### CAPITULO IV. Procedimiento para la notificación electrónica mediante el Sistema de Notificaciones Electrónicas
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 8
 
-Método para realizar las notificaciones electrónicas
+Ingreso y uso del Sistema de Notificaciones Electrónicas
 
-Para realizar las notificaciones electrónicas mediante el correo electrónico institucional, las personas funcionarias designadas por los Órganos Competentes llevarán a cabo el procedimiento siguiente:
+Para realizar las notificaciones mediante el Sistema, las personas funcionarias autorizadas llevarán a cabo el procedimiento siguiente:
 
-1. Elaboración y contenido de la notificación electrónica:
+1. Elaboración y contenido de la notificación electrónica
 
-I. En el rubro de "Asunto" se deberá precisar que el motivo del correo electrónico es una notificación electrónica, señalando el oficio, acuerdo o resolución que se notifica.
+I. En el rubro de "Asunto" se deberá precisar que se trata de una notificación electrónica, señalando el oficio, acuerdo, resolución o acto de autoridad que se notifica.
 
-II. En la parte superior derecha deberá anotarse lo siguiente:
+II. En los apartados “Para” y “CC” se deberán ingresar las cuentas de correo electrónico de destino de la notificación.
 
-a) Nombre completo del órgano emisor;
+III. En el cuadro de texto, que corresponderá al contenido del mensaje que recibirán las personas sujetas obligadas, se deberá señalar:
 
-b) Oficio, acuerdo o resolución que corresponda; y,
+a) El nombre completo de las personas a las que se les practica la notificación electrónica y su cargo.
 
-c) Lugar y fecha de emisión.
+b) El fundamento legal que sustenta la notificación electrónica.
 
-III. En el contenido del documento se señalará el fundamento legal que sustenta la notificación electrónica, precisando el oficio, acuerdo o resolución que motiva su tramitación y que se adjunta el documento a notificar.
+c) Precisar el oficio, acuerdo, resolución o acto de autoridad que se notifica y que se adjunta éste o se incluye la liga electrónica en la que se podrán descargar.
 
-IV. En el contenido del documento se debe precisar el nombre completo de los sujetos obligados a los que se les practica la notificación electrónica.
+d) El nombre y cargo de la persona servidora pública que lo emite.
 
-V. Al final del documento, en la parte central y después del texto, se anotará el nombre y cargo de la persona servidora pública que lo emite.
+2. Documentos motivo de la notificación electrónica
 
-VI. El documento deberá contar con la firma electrónica avanzada del Instituto.
+I. Una vez que se registre la información señalada en el punto inmediato anterior, se deberá insertar el o los archivos adjuntos que correspondan y que contengan la documentación por notificar. Asimismo, se deberá proceder al envío de la notificación electrónica al correo electrónico principal registrado por la DEPPP y, en su caso, a los registrados como secundarios.
 
-2. Documentos motivo de la notificación electrónica:
+II. Aquellos archivos que por su tamaño puedan generar alguna complicación técnica para su envío o recepción deberán remitirse incorporando una dirección URL o liga electrónica en el contenido del mensaje del Sistema; documentos que las personas sujetas obligadas estarán obligadas a descargar, en razón de que la misma tendrá una vigencia que no excederá de cinco días hábiles.
 
-I. Una vez que se redacte la información señalada en el punto inmediato anterior, se deberá insertar el o los archivos adjuntos correspondientes que contenga la documentación por notificar y proceder al envío de la notificación electrónica al correo electrónico principal registrado por la DEPPP y, en su caso, a los accesorios.
+3. Archivo de notificación de entrega del correo electrónico enviado
 
-II. Aquellos archivos que por su tamaño puedan generar alguna complicación técnica para su envío o recepción, deberán ser descargados de la liga que aparezca en el correo electrónico de notificación.
+I. Una vez realizada la notificación mediante el Sistema de Notificaciones Electrónicas, las personas funcionarias podrán consultar el acuse de recibo electrónico de notificación que incluye la cadena de autenticidad que servirá para demostrar su envío, en cualquier momento, para lo cual se identificará en la parte inferior la fecha de generación del acuse.
 
-3. Archivo de notificación de entrega del correo electrónico enviado:
-
-I. Se deberá guardar el acuse de recibo electrónico de notificación que se genere del correo electrónico principal, en el que se haga constar la dirección electrónica de la o el destinatario, fecha y hora.
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 9
 
 De los efectos de las notificaciones
 
-Las notificaciones por correo electrónico surtirán sus efectos a partir de que se depositen en la bandeja de entrada de la o el destinatario principal y el programa informático del correo electrónico institucional de notificación emita el acuse de recibo electrónico de notificación.
+Las notificaciones que se realicen mediante el Sistema de Notificaciones Electrónicas surtirán sus efectos a partir de que se depositen en la bandeja de entrada de la o el destinatario principal y se emita automáticamente el acuse de recibo electrónico de notificación en el que aparecerá la cadena de autenticidad.
 
-La falta de entrega de una notificación hecha a una cuenta accesoria no le restará eficacia a la notificación electrónica, siempre y cuando la notificación haya sido entregada a la cuenta principal.
+La falta de entrega de una notificación hecha a una cuenta secundaria no le restará eficacia a la notificación electrónica, siempre y cuando la notificación haya sido entregada a la cuenta principal.
 
-En el caso de que, durante período ordinario, el acuse de recibo electrónico de notificación sea emitido en días y horas inhábiles, se tendrá por notificado a partir de la hora hábil siguiente; en proceso electoral, federal, local o extraordinario, se tendrá por recibido en el momento en que se obtenga el acuse de recibo electrónico de notificación.
+En el caso de que, durante el período ordinario, el acuse de recibo electrónico de notificación sea emitido en días y horas inhábiles, se tendrá por notificado a partir del primer minuto de la hora hábil siguiente de que se haya recibido en la bandeja de entrada de la persona destinataria. Durante un proceso electoral o proceso de participación ciudadana, se tendrá por recibido en el momento en que se obtenga el acuse de recibo electrónico de notificación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ABRIL DE 2024)</small>
+En cuestiones vinculadas con medidas cautelares deberá atenderse a lo dispuesto en el artículo 4 de estos Lineamientos, particularmente, a los dos últimos párrafos que prevén el citatorio electrónico para el caso de notificaciones ordenadas después de las dieciocho horas (18:00) como comunicación previa a la notificación formal por el Sistema de Notificaciones Electrónicas.
 
-En cuestiones vinculadas con medidas cautelares deberá atenderse a lo dispuesto en el artículo 4, particularmente, a los dos últimos párrafos que prevén el citatorio electrónico para el caso de notificaciones ordenadas después de las dieciocho horas (18:00) como comunicación previa a la notificación formal por correo electrónico de los actos y determinaciones de la autoridad administrativa electoral nacional.
+La carga de la prueba respecto del acuse de recibo recaerá en la DEPPP.
 
-La carga de la prueba respecto del acuse electrónico de notificación siempre recaerá en la DEPPP.
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], D.O.F. 7 DE FEBRERO DE 2025)</small>
 
-### CAPITULO V. De la reforma a los Lineamientos
+### CAPÍTULO V. Supletoriedad
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 2025)</small>
 
 Artículo 10
 
+Supletoriedad
+
+Son aplicables supletoriamente a lo no previsto en estos Lineamientos lo dispuesto en la LGIPE, en el RRTME y en los principios generales del derecho.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 7 DE FEBRERO DE 2025)</small>
+
+### CAPITULO VI. De la reforma a los Lineamientos
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], D.O.F. 7 DE FEBRERO DE 2025)</small>
+
+Artículo 11
+
 De la reforma a los Lineamientos
 
-El Consejo General podrá modificar los presentes Lineamientos cuando lo estime conveniente porque así lo requiera la estructura y funcionamiento del Instituto o cuando ocurran reformas a la normativa electoral que lo haga necesario.
+El Consejo General podrá modificar los presentes Lineamientos cuando lo estime conveniente porque así lo requiera la estructura y funcionamiento del Instituto, cuando se estime necesario por avances tecnológicos o cuando ocurran reformas a la legislación electoral que lo haga necesario.
 
 SEGUNDO. El Instituto Nacional Electoral, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, podrá implementar una solución tecnológica que fortalezca el mecanismo de la notificación electrónica. Lo anterior, considerando los avances tecnológicos y recursos presupuestales de que disponga
 
@@ -282,3 +328,27 @@ CUARTO. Los presentes Lineamientos entrarán en vigor el día de su aprobación 
 QUINTO. Se instruye a la Dirección Jurídica para que informe, dentro de las veinticuatro horas siguientes a la aprobación de este Acuerdo, a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, el cumplimiento dado al punto resolutivo CUARTO de la sentencia dictada en el expediente SUP-RAP-230/2023 y acumulados.
 
 SEXTO. Se instruye a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a que notifique electrónicamente el presente Acuerdo a los partidos políticos nacionales y locales, autoridades electorales federales y locales, concesionarios de radio y la televisión radiodifundida y restringida, así como a la Secretaría de Gobernación.
+
+D.O.F. 7 DE FEBRERO DE 2025.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICA EL DIVERSO IDENTIFICADO CON LA CLAVE INE/CG235/2024, RELATIVO A LOS LINEAMIENTOS PARA LA NOTIFICACIÓN ELECTRÓNICA PREVISTA EN EL REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba la modificación al Acuerdo identificado con la clave INE/CG235/2024, así como a los Lineamientos para la Notificación Electrónica para quedar como a continuación se señala:
+
+[...]
+
+SEGUNDO. Se aprueba el cronograma de implementación referido en el Considerando 10. En ese sentido, se faculta al Comité de Radio y Televisión de este Instituto para que, en el supuesto que se actualice algún cambio en los plazos de implementación del Sistema de Notificaciones Electrónicas, resuelva lo conducente.
+
+Hasta la puesta en marcha del Sistema de Notificaciones Electrónicas prevista para el 16 de marzo de 2025, las notificaciones electrónicas continuarán realizándose conforme lo establecido en los Lineamientos aprobados por este Consejo General el 8 de marzo de 2024 en el Acuerdo INE/CG235/2024.
+
+TERCERO. El Instituto Nacional Electoral, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, podrá implementar mejoras en el Sistema de Notificaciones Electrónicas. Lo anterior, considerando los avances tecnológicos y recursos presupuestales de que disponga.
+
+CUARTO. El presente Acuerdo entra en vigor el día de su aprobación. Lo anterior observando lo previsto en el punto SEGUNDO de este instrumento.
+
+QUINTO. Se ordena la publicación del presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta del Instituto Nacional Electoral y en el portal de internet del Instituto Nacional Electoral.
+
+SEXTO. Se instruye a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a que notifique electrónicamente el presente Acuerdo a los partidos políticos nacionales, concesionarios de radio y de televisión radiodifundida y restringida, a la Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación, autoridades electorales federales, así como a las personas titulares de las Vocalías Ejecutivas de las Juntas Locales Ejecutivas del Instituto Nacional Electoral y, por su conducto, a las autoridades electorales de las entidades federativas distintas a los Organismos Públicos Locales.
+
+Asimismo, a la Unidad Técnica de Vinculación con los Organismos Públicos Locales para que notifique el contenido del presente Acuerdo a cada uno de los Organismos de su competencia y, por su conducto, lo hagan del conocimiento de los partidos políticos con registro local.
+
+SÉPTIMO. Se instruye a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a que notifique electrónicamente el presente Acuerdo a las Salas Superior y Regional Especializada, ambas del Tribunal Electoral del Poder Judicial de la Federación.
