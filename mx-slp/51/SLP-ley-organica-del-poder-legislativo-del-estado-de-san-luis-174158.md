@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2024-11-14"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -737,7 +737,9 @@ XII. Cuidar que los asuntos de trámite que se turnen a comisiones se desahoguen
 
 XIII. Someter los puntos de acuerdo que presenten las y los diputados a la aprobación del Pleno, que hayan sido calificados de urgente y obvia resolución;
 
-XIV. Cuidar que las determinaciones recaídas a los puntos de acuerdo turnados a comisiones, sean presentadas para su validación al Pleno dentro de los siguientes treinta días naturales, contados a partir de la fecha de turno;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+XIV. Cuidar que las determinaciones recaídas a los puntos de acuerdo turnados a comisiones, sean presentadas al Pleno a más tardar en el plazo de treinta días hábiles contados a partir de la fecha de turno;
 
 XV. Declarar la caducidad de las iniciativas y puntos de acuerdo que no hayan sido dictaminados en los plazos establecidos en esta Ley Orgánica;
 
@@ -1047,7 +1049,9 @@ En el caso que el asunto no sea competencia de la comisión o comisiones a las q
 
 Las iniciativas deberán dictaminarse por las comisiones aprobándolas en sus términos, con modificaciones o, en su caso, desechándolas por improcedentes, en un término máximo de diez meses, con excepción de las que requieren consulta pública para su dictaminación.
 
-Los puntos de acuerdo deberán ser resueltos por las comisiones a las que se turnen, en un plazo máximo de dos meses, con excepción de aquellos que el Pleno determine que son de urgente y obvia resolución, los que se resolverán en la misma Sesión en la que se presenten.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
+Los puntos de acuerdo deberán ser resueltos por las comisiones a las que se turnen, en un plazo máximo de treinta días hábiles, con excepción de aquellos que el Pleno determine que son de urgente y obvia resolución, los que se resolverán en la misma Sesión en la que se presenten.
 
 Para el caso de que las iniciativas y los puntos de acuerdo no hayan sido resueltos en el plazo señalado, quien presida la Directiva, o la Diputación Permanente, a solicitud de la persona que presida cualquiera de las comisiones a las que fue turnada, declarará su caducidad.
 
@@ -1067,13 +1071,15 @@ Cuando el Ejecutivo del Estado haga valer su facultad de veto, y una vez recibid
 
 Es competencia de las comisiones permanentes conocer, atender, dictaminar u opinar, respecto de las iniciativas y las propuestas de punto de acuerdo turnadas a las mismas, y realizar las actividades que se deriven de esta Ley y del Reglamento; así como de los acuerdos tomados por el Congreso del Estado, y los que adopten por sí mismas con relación a la materia o materias de su competencia.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 92.
 
-En caso de que las iniciativas no hayan sido dictaminadas en el término de diez meses, con excepción de aquellas que requiera para su dictamen consulta pública, la Directiva por sí o a solicitud de una o un legislador o del promovente de la iniciativa, emitirá excitativa a quien presida las comisiones de dictamen, solicitándole que se proceda a su inmediata resolución. Las excitativas serán publicadas en la página del Congreso del Estado.
+En caso de que las iniciativas no hayan sido dictaminadas en el término de seis meses, con excepción de aquellas que requiera para su dictamen consulta pública, la Directiva por sí o a solicitud de una o un legislador o del promovente de la iniciativa, emitirá excitativa a quien presida las comisiones de dictamen, solicitándole que se proceda a su inmediata resolución. Las excitativas serán publicadas en la página del Congreso del Estado.
 
 ###### ARTÍCULO 93.
 
-Transcurridos treinta días naturales contados a partir de la comunicación de la excitativa, sin que se produzca dictamen por alguna de las comisiones a las que fue turnado, la Directiva someterá la iniciativa en sus términos, al Pleno.
+(DEROGADO, P.O. 7 DE FEBRERO DE 2025)
 
 ###### ARTÍCULO 94.
 
@@ -1177,7 +1183,9 @@ III. Los relativos al reconocimiento de los derechos de los pueblos y comunidade
 
 IV. Los asuntos relacionados con la protección y desarrollo social de los pueblos y comunidades indígenas y afromexicanas del Estado;
 
-V. Los tocantes a la coordinación de acciones con el Consejo Nacional para la Atención de los Pueblos Indígenas, el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado, y demás organismos estatales y municipales relacionados con la materia, cuando resulte necesario para el estudio y aclaración de los asuntos que le competen;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+V. Los tocantes a la coordinación de acciones con el Instituto Nacional de los Pueblos Indígenas, el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado, y demás organismos estatales y municipales relacionados con la materia, cuando resulte necesario para el estudio y aclaración de los asuntos que le competen;
 
 VI. En materia de consulta indígena, coadyuvar con la presidencia de la Directiva en el desahogo de las mismas, y
 
@@ -1942,3 +1950,21 @@ P.O. 14 DE NOVIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 0008.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 32 Y EL ARTÍCULO 144, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 16, LA FRACCIÓN VI DEL ARTÍCULO 52 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 70, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0151.- SE REFORMA EL ARTÍCULO 92 Y SE DEROGA EL ARTÍCULO 93, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0153.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 57 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 88, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN I DEL ARTÍCULO 62 Y LA FRACCIÓN XV DEL ARTÍCULO 112, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0154.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 98, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
