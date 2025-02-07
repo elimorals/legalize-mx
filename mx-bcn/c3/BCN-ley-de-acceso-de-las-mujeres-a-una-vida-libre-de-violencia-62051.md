@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2024-05-31"
+last_updated: "2025-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -1089,6 +1089,8 @@ VIII. La persona representante en el Estado de la Comisión Nacional para el Des
 
 IX. El Instituto Estatal Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 33.
 
 Serán atribuciones del Sistema:
@@ -1097,7 +1099,9 @@ I. Validar el Programa Estatal;
 
 II. Fomentar la coordinación, concertación, colaboración e información entre las instituciones estatales y municipales, públicas y privadas que se ocupen de la atención a cualquier modalidad de violencia contra las mujeres;
 
-III. Promover la capacitación y sensibilización de los funcionarios del sistema judicial, de procuración de justicia, del policial, del sistema de salud y en general, de cualquiera que preste servicios relacionados con cualquier tipo o modalidad de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+
+III. Promover la capacitación y sensibilización de las y los funcionarios de (sic) sistema judicial, de procuración de justicia, del policial, del sistema de salud y en general, de cualquiera que preste servicios relacionados con cualquier tipo o modalidad de violencia contra las mujeres, así como diseñar, aprobar e implementar la Estrategia de Capacitación Obligatoria en materia de Género, de Prevención y Erradicación de la Violencia contra las Mujeres y su programa en términos de la Ley de Capacitación en materia de Género, de Prevención y Erradicación de la Violencia hacia las Mujeres para el Estado de Baja California;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
 
@@ -2004,3 +2008,9 @@ P.O. 31 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 429 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 Y 11 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 39 MEDIANTE EL CUAL SE CREA LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, SE REFORMA EL ARTÍCULO 33 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, Y SE REFORMA EL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO-. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
