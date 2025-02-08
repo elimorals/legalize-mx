@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-175561"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-28"
-last_updated: "2024-12-28"
+last_updated: "2025-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2025.
 
 Ley publicada en el Suplemento Número 3 del Número 117 del Periódico Oficial del Estado de Colima, el sábado 28 de diciembre de 2024.
 
@@ -107,7 +107,9 @@ Percepciones de ingresos federales.
 
 Derogación de disposiciones.
 
-1. Se derogan las disposiciones que contengan exenciones, totales o parciales, o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones estatales, distintos de los establecidos en el Código Fiscal del Estado de Colima, en la Ley de Hacienda del Estado de Colima y en la presente Ley.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2025)</small>
+
+1. Se derogan las disposiciones que contengan exenciones, totales o parciales, o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones estatales, distintos de los establecidos en el Código Fiscal del Estado de Colima, en la Ley de Hacienda del Estado de Colima, en la presente Ley y las relacionadas con el principio de gratuidad establecidas en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Colima.
 
 2. Lo dispuesto en el párrafo anterior también será aplicable cuando las disposiciones que contengan exenciones, totales o parciales, o consideren a personas como no sujetos de contribuciones estatales, otorguen tratamientos preferenciales o diferenciales en materia de ingresos y contribuciones estatales, se encuentren contenidas en normas jurídicas que tengan por objeto la creación de organismos descentralizados, órganos desconcentrados y empresas de participación estatal.
 
@@ -254,3 +256,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ALBERTO ELOY GARCÍA ALCARAZ
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 64.- POR EL QUE SE REFORMA EL PUNTO NÚMERO 1, DEL ARTÍCULO 7 DE LA LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2025".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
