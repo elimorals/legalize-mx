@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-atencion-y-proteccion-a-personas-con-la-117223"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-30"
-last_updated: "2024-09-14"
+last_updated: "2025-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de septiembre de 2016.
 
@@ -97,9 +97,11 @@ XIX. Transversalidad: Diversas formas de coordinación no jerárquica utilizadas
 
 Corresponde al Gobierno Estatal y a los Ayuntamientos en el ámbito de sus competencias, asegurar el respeto y ejercicio de los derechos que les asisten a las personas con la condición del espectro autista.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 4.
 
-En cumplimiento a lo dispuesto por el artículo 7 de la Ley General, las autoridades del Gobierno Estatal y de los Gobiernos Municipales, deberán implementar de manera progresiva las políticas y acciones correspondientes conforme a los programas aplicables.
+En cumplimiento a lo dispuesto por el artículo 7 de la Ley General, las autoridades del Gobierno Estatal y de los Gobiernos Municipales, deberán implementar de manera progresiva las políticas y acciones correspondientes conforme a los programas aplicables, con la finalidad de promover la atención especializada de las personas con la condición del espectro autista.
 
 ###### Artículo 5.
 
@@ -426,3 +428,11 @@ PRIMERO. Para la integración de la Comisión Intersecretarial, la Secretaría d
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2500.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 4 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
