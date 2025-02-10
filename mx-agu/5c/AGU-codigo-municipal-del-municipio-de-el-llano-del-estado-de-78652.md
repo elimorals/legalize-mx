@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2024-10-21"
+last_updated: "2025-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -971,21 +971,29 @@ IV. Cuando se declare la ausencia de Presidente Municipal; y
 
 V. En el caso que los titulares de las Secretarías, Direcciones y Organismos Descentralizados sean removidos, se separen del cargo o se haya expedido un nombramiento a favor de otra persona.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 62.
 
-La Entrega-Recepción deberá llevarse a cabo mediante la elaboración del Acta Administrativa de Entrega-Recepción que describe el estado que guarda el Gobierno Municipal de El Llano la cual se acompañará de los anexos correspondientes en los formularios autorizados por la Contraloría Municipal. Dichos anexos comprenderán los aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales.
+La Entrega-Recepción deberá llevarse a cabo mediante la elaboración del Acta Administrativa de Entrega-Recepción que describe el estado que guarda el Gobierno Municipal de El Llano la cual se acompañará de los anexos correspondientes en los formularios autorizados por el Órgano Interno de Control. Dichos anexos comprenderán los aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 63.
 
-Corresponde a la Contraloría Municipal la coordinación de las acciones del Programa de Entrega-Recepción, así como la elaboración e implementación de los lineamientos, criterios y anexos que deberán estar contenidos en el Manual de Entrega-Recepción, que especifique la forma, términos y alcances de la información que deberá proporcionarse, misma que de ninguna manera dejará de abarcar los aspectos mínimos que se indican en el presente Código.
+Corresponde al Órgano Interno de Control la coordinación de las acciones del Programa de Entrega-Recepción, así como la elaboración e implementación de los lineamientos, criterios y anexos que deberán estar contenidos en el Manual de Entrega-Recepción, que especifique la forma, términos y alcances de la información que deberá proporcionarse, misma que de ninguna manera dejará de abarcar los aspectos mínimos que se indican en el presente Código.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 64.
 
-Cuando el Servidor Público saliente no efectúe la Entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de 10 días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+Cuando el Servidor Público saliente no efectúe la Entrega que señala este ordenamiento, será requerido por el Órgano Interno de Control, para que en un término de 10 días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 65.
 
-Dentro del Programa de Entrega-Recepción, la Contraloría Municipal establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría Municipal, el cual se instrumentará y operará mediante ensayos previos.
+Dentro del Programa de Entrega-Recepción, el Órgano Interno de Control establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría Municipal, el cual se instrumentará y operará mediante ensayos previos.
 
 ###### ARTÍCULO 66.
 
@@ -1013,6 +1021,8 @@ IX. Asuntos Generales.- Relación de expedientes, planos oficiales y actas en ar
 
 Los Servidores Públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 68.
 
 El acto de Entrega-Recepción se llevará a cabo una vez terminada la ceremonia de toma de protesta del Ayuntamiento entrante, firmando el Acta Administrativa de Entrega-Recepción por el Ayuntamiento saliente y entrante:
@@ -1023,27 +1033,39 @@ II. El Presidente Municipal entrante;
 
 III. El Síndico saliente y entrante; y
 
-IV. El Contralor Municipal entrante y saliente.
+IV. El Titular del Órgano Interno de Control entrante y saliente.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)
 
 ###### ARTÍCULO 69.
 
 El Acta de Entrega-Recepción con sus anexos se presentarán en un documento que será integrado en cuatro tantos para distribuirse de la siguiente forma:
 
+(REPUBLICADA, P.O. 10 DE FEBRERO DE 2025)
+
 I. Presidente Municipal entrante;
+
+(REPUBLICADA, P.O. 10 DE FEBRERO DE 2025)
 
 II. Presidente Municipal saliente;
 
-III. Órgano Superior de Fiscalización del Estado; y
+III. (DEROGADA, P.O. 10 DE FEBRERO DE 2025); y
 
-IV. Contraloría Municipal.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+IV. Órgano Interno de Control.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 70.
 
-Una vez oficializados los nombramientos de los titulares entrantes a nivel de organismo descentralizado, secretarios y directores que sean removidos, se separen del cargo o se haya expedido un nombramiento a favor de otra persona, excepto los funcionarios cuyo nombramiento y remoción requiera la aprobación del Ayuntamiento, o consejo directivo, se harán acompañar del titular saliente y de un testigo cada uno y se trasladarán a sus respectivas oficinas para firmar el acta administrativa correspondiente a la entrega recepción de los asuntos y recursos de esta dependencia u organismo descentralizado ante la presencia de un representante de la Contraloría Municipal o de la persona que esta última designe.
+Una vez oficializados los nombramientos de los titulares entrantes a nivel de organismo descentralizado, secretarios y directores que sean removidos, se separen del cargo o se haya expedido un nombramiento a favor de otra persona, excepto los funcionarios cuyo nombramiento y remoción requiera la aprobación del Ayuntamiento, o consejo directivo, se harán acompañar del titular saliente y de un testigo cada uno y se trasladarán a sus respectivas oficinas para firmar el acta administrativa correspondiente a la entrega recepción de los asuntos y recursos de esta dependencia u organismo descentralizado ante la presencia de un representante del Órgano Interno de Control o de la persona que esta última designe.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 71.
 
-En relación a los hechos que sucedan después de la entrega-recepción y/o la fecha de corte de información, se deberá elaborar un acta circunstanciada en la que se detalle la situación de los asuntos y aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales que hayan presentado movimientos, en presencia de los servidores públicos entrantes y salientes, dos testigos y la representación de la Contraloría Municipal.
+En relación a los hechos que sucedan después de la entrega-recepción y/o la fecha de corte de información, se deberá elaborar un acta circunstanciada en la que se detalle la situación de los asuntos y aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales que hayan presentado movimientos, en presencia de los servidores públicos entrantes y salientes, dos testigos y la representación del Órgano Interno de Control.
 
 ###### ARTÍCULO 72.
 
@@ -1061,17 +1083,21 @@ Todos los titulares de las dependencias y organismos descentralizados estarán o
 
 La Comisión de Enlace por parte de la administración entrante deberá tomar conocimiento de la situación que guarda la administración municipal, desarrollo y cumplimiento de los programas, obras y proyectos; de tal manera que al momento de concretarse la sustitución en la titularidad de los puestos, se continué la marcha normal de la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 76.
 
-La Contraloría Municipal vigilará el cumplimiento de las disposiciones a que se refiere este Código y queda facultada para interpretar el mismo para efectos administrativos, así como para dictar las disposiciones que se requieran para su adecuada aplicación y cumplimiento.
+El Órgano Interno de Control vigilará el cumplimiento de las disposiciones a que se refiere este Código y queda facultada para interpretar el mismo para efectos administrativos, así como para dictar las disposiciones que se requieran para su adecuada aplicación y cumplimiento.
 
 ###### ARTÍCULO 77.
 
 Los titulares de las unidades administrativas serán responsables en el ámbito de su competencia de la información contenida en la documentación que integre la entrega-recepción y de llevar a cabo la planeación y organización de este proceso.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 78.
 
-Si durante el acto de entrega recepción resultaren hechos que pudiesen constituir irregularidades, se harán constar en acta por separado, que será incluida como anexo del acta de la unidad administrativa de que se trate, quedando a juicio de la Contraloría Municipal, la valoración de los hechos y la determinación de responsabilidades de los servidores públicos.
+Si durante el acto de entrega recepción resultaren hechos que pudiesen constituir irregularidades, se harán constar en acta por separado, que será incluida como anexo del acta de la unidad administrativa de que se trate, quedando a juicio del Órgano Interno de Control, la valoración de los hechos y la determinación de responsabilidades de los servidores públicos.
 
 ###### ARTÍCULO 79.
 
@@ -2729,189 +2755,235 @@ XXII. Emplear medidas de apremio permitidas por las leyes y reglamentos aplicabl
 
 XXIII. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 235 Bis.
 
-La unidad administrativa denominada Auditorias y denuncias, tendrá las siguientes atribuciones:
+Son facultades no delegables del Titular del Órgano Interno de Control:
 
-I. Integrar y presentar para visto bueno del Titular de la Contraloría Municipal, los Programas Operativos Anuales y de Auditoría;
+I. Acordar con el H. Ayuntamiento los asuntos relevantes encargados al Titular;
 
-II. Presentar trimestralmente los informes de avance respecto de la ejecución de los Programas Operativos Anuales y de Auditoría;
+II. Proponer al H. Ayuntamiento los proyectos de reglamentos, acuerdos circulares; de acuerdo al ámbito de competencia del OIC;
 
-III. Implementar acciones preventivas y correctivas para el manejo de los recursos, en las Dependencias Municipales y velar por su cumplimiento;
+III. Estructurar el programa anual de trabajo del OIC, así como las políticas de las mismas en los términos del Plan de Desarrollo Municipal e implementar el programa operativo;
 
-IV. Efectuar el seguimiento de las acciones preventivas y correctivas formuladas por los órganos de fiscalización externos;
+IV. Decidir conjuntamente con el H. Ayuntamiento la ejecución de auditorías a las dependencias de la administración pública municipal por organismos externos; ayudando a designar los mismos;
 
-V. Emitir el dictamen anual sobre el estado que guarden las cuestiones administrativas y de responsabilidad que son de su competencia;
+V. Informar al H. Ayuntamiento, de acuerdo con la legislación vigente o cuando éste así lo solicite, la situación que guarda el despacho de los asuntos del Titular;
 
-VI. Realizar en cualquier momento, auditorías al presupuesto de ingresos y egresos del Municipio;
+VI. Aprobar la organización y funcionamiento del Órgano Interno de Control y adscribir orgánicamente sus unidades administrativas, así como autorizar el manual de organización y funciones del departamento;
 
-VII. Practicar visitas de auditoría e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+VII. Preparar el proyecto de presupuesto anual de egresos del Órgano Interno de Control y presentarlo ante el H. Ayuntamiento;
 
-VIII. Iniciar de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia;
+VIII. Mantener informada a la opinión pública y a los medios de comunicación, de los diversos asuntos de la competencia del Titular del OIC;
 
-IX. Recibir las denuncias y elaborar los informes de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+IX. Intervenir en los convenios que celebren el Municipio, siempre y cuando sea competencia del Titular;
 
-X. Practicar visitas de verificación, de conformidad con lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes;
+X. Resolver las dudas y controversias que se susciten con motivo de la aplicación e interpretación de este reglamento, así como los casos no previstos en el mismo, respecto al ámbito de competencia de las unidades administrativas del Órgano Interno de Control;
 
-XI. Fungir como la autoridad investigadora en los procedimientos de responsabilidades administrativas de los servidores públicos, de conformidad con Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+XI. Por acuerdo del H. Ayuntamiento, turnar a las autoridades competentes los casos en los que se presuman responsabilidades de tipo civil o penal, contra servidores públicos;
 
-XII. Las demás que señalen las leyes o el H. Ayuntamiento.
+XII. Ordenar la práctica de investigaciones y solicitar las auditorias que, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, procedan en relación con su situación patrimonial;
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+XIII. Representar al Órgano Interno de Control en los contratos y convenios que ésta celebre con otras dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, con terceros; así como con otros municipios de la entidad, siempre y cuando sea materia de su competencia;
 
-###### ARTÍCULO 235 Ter.
+XIV. Ser el enlace entre el Municipio de El Llano, Aguascalientes con las Entidades de Fiscalización Externas, como lo son la Auditoría Superior de la Federación, Contraloría del Estado de Aguascalientes y el Órgano Superior de Fiscalización del Estado de Aguascalientes, en relación a las auditorías practicadas por estos al Municipio.
 
-La unidad administrativa denominada Procedimientos de responsabilidad administrativa tendrá las siguientes atribuciones:
+XV. Informar al H. Ayuntamiento del resultado de las evaluaciones y/o auditorias, practicadas a las dependencias municipales, cuando éstas hayan sido objeto de revisión dentro del Programa Anual de Auditoría Municipal; y
 
-I. Dirigir y conducir como autoridad substanciadora el procedimiento de responsabilidades administrativas, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+XVI. Las demás que vigentes para el Ayuntamiento, las que les señalen las leyes, reglamentos y decretos Estado de Aguascalientes y de la Administración Pública Federal (sic).
 
-II. Las demás que señalen las leyes o el H. Ayuntamiento.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+###### Artículo 235 Ter.
+
+El Titular de la Unidad de Investigación, quien tendrá el carácter de Jefe de Departamento, tendrá la obligación de la Recepción de Quejas y Denuncias, será el encargado de la investigación de faltas administrativas cometidas por los Servidores Públicos y/o ex Servidores Públicos del Municipio o por particulares, en términos de la Ley.
+
+En el ejercicio de sus funciones deberá observar los principios de certeza, legalidad, imparcialidad, independencia, máxima publicidad, definitividad, objetividad, equidad, profesionalismo, respeto a los derechos humanos, congruencia, verdad material y uso responsable de los recursos, así como el resguardo del expediente en conjunto.
+
+Incorporará a sus investigaciones las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas internacionales.
+
+Para tales efectos, el Titular de la Unidad de Investigación, será la instancia encargada de llevar a cabo investigaciones sólidas respecto a posibles actos de corrupción que sean denunciados o detectados de oficio a través de las auditorias y revisiones correspondientes, contribuirá y facilitará la solidez en las sanciones, basada en la investigación que se realice, lo cual hará posible, sanciones administrativas en lo referente al ámbito administrativo, así como denuncias de hechos claras y firmes, en lo relacionado con la materia penal; y lo referente a las contrataciones públicas. El enfoque de sus auditorías será más focalizado, mejor planeadas y dirigidas a detectar e inhibir prácticas que pudieran derivar en actos de corrupción.
+
+La Ley de Responsabilidades Administrativas del Estado de Aguascalientes, otorga a dicha autoridad, la posibilidad de desplegar diversas formas de protección eficaz a los testigos y denunciantes, incluyendo la reubicación de los servidores públicos atendiendo a las particularidades del caso; superar los secretos establecidos en diversas normatividades; establecer embargos precautorios con el fin de preservar y asegurar los bienes y recursos implicados en las conductas investigadas o con la recuperación de los daños causados y de suspender temporalmente al servidor público a efecto de preservar la investigación. Además de calificar las faltas en graves y no graves y en base a ello remitirlas a la Autoridad Substanciadora, aunadas a lo anterior, tendrá las siguientes funciones y atribuciones:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y hechos de corrupción de los servidores públicos de las Dependencias Municipales y particulares, conforme a los previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de competencia de la Unidad;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos de las Dependencias Municipales, así como de los Particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes. La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos. En la investigación, podrá solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+III. Realizar, por sí o a través del personal a su cargo, las acciones para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de las Dependencias Municipales o bien referidas a faltas de particulares;
+
+IV. Realizar por sí o a través de los servidores públicos a su cargo, el trámite y desahogo de los procedimientos administrativos de investigación, por actos u omisiones de los servidores públicos de las Dependencias Municipales o de particulares que puedan constituir responsabilidades de acuerdo a la normativa aplicable, autorizando con su firma los acuerdos e informes, así como informar de los mismos a su superior inmediato;
+
+V. Suscribir los acuerdos para habilitar al personal a su cargo para realizar actuaciones, diligencias y notificaciones en los procedimientos administrativos de investigación seguidos a los servidores públicos de las Dependencias Municipales o particulares;
+
+VI. Acordar los escritos, promociones, oficios y demás documentos que se reciban, relacionados con los procedimientos administrativos de investigación de su competencia;
+
+VII. Concluido el procedimiento de investigación, aprobar el acuerdo en el que se determine si existen o no elementos que presuman conductas constitutivas de probables faltas administrativas, formulando la calificación si dichas conductas consisten en faltas administrativas graves o no graves, así como suscribir el informe de presunta responsabilidad administrativa para turnarlo a la Autoridad Substanciadora y Resolutora;
+
+VIII. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+IX. Llevar a cabo todos los actos procesales respectivos en carácter de autoridad investigadora ante el Tribunal de Justicia Administrativa conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+X. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XI. Ordenar medidas de apremio y dictar medidas cautelares;
+
+XII. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XIII. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XIV. Actuar como coadyuvante del Ministerio Público, adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones, previa aprobación del Titular;
+
+XV. Expedir copias certificadas de constancias de expedientes que obren en su poder;
+
+XVI. Administrar, en coordinación con el Titular de la Unidad Substanciadora, el libro de registro y seguimiento de denuncias presentadas ante el Órgano Interno de Control;
+
+XVII. Formular denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción, en materia de delitos relacionados con hechos de corrupción en el Estado; y
+
+XVIII. Las demás que a la autoridad investigadora le atribuye la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 235 Quater.
 
-En los casos de procedimientos de Responsabilidad Administrativa seguidos ante los Órganos Internos de Control Municipal, el titular de la Contraloría Municipal hará las veces de autoridad resolutora, ejerciendo las atribuciones que para dicha calidad confiere la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+El Titular de la Unidad Sustanciadora y Resolutora, quien tendrá el carácter de Jefe de Departamento, en el ejercicio de sus funciones deberá observar los principios de certeza, legalidad, imparcialidad, independencia, máxima publicidad, definitividad, objetividad, equidad, profesionalismo, respeto a los derechos humanos, congruencia, verdad materia y uso responsable de los recursos.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+Para tales efectos, el Titular de la Unidad Sustanciadora y Resolutora, tendrá las siguientes funciones y atribuciones:
+
+I. Admitir, desechar o tener por no presentado, el Informe de Presunta Responsabilidad Administrativa, que le haga llegar el Titular de la Unidad de Investigadora (sic) y, en su caso, dar inicio y tramitar el procedimiento de responsabilidad administrativa en contra de Servidores Públicos y/o ex Servidores Públicos de Municipio o de particulares, que infrinjan las obligaciones previstas en la Ley, así como en el Código Municipal;
+
+II. Remitir los autos al Tribunal de Justicia Administrativa tratándose de procedimientos instaurados por faltas graves en los términos señalados por el artículo 193 de la Ley;
+
+III. Decretar o negar el sobreseimiento del procedimiento de responsabilidad administrativa, así como admitir o rechazar la intervención del tercero interesado en el procedimiento de responsabilidad administrativa;
+
+IV. Tramitar el recurso de reclamación que se interponga en contra de las resoluciones que admitan, desechen o tengan por no presentado el Informe de Presunta Responsabilidad Administrativa, la contestación o alguna prueba, las que decreten o nieguen el sobreseimiento del procedimiento de responsabilidad administrativa antes del cierre de instrucción, y aquellas que admitan o rechacen la intervención del tercero interesado;
+
+V. Administrar, en coordinación con el Titular de la Unidad de Investigadora el libro de registro y seguimiento de denuncias presentadas ante el Órgano Interno de Control;
+
+VI. Hacer uso de las medidas de apremio que se establecen en la Ley, para el debido cumplimiento de sus determinaciones;
+
+VII. Hacer del conocimiento del Titular de la Unidad de Investigación, aquellos casos en que se presuma la existencia de un ilícito penal en el desempeño de las funciones de los Servidores Públicos y/o ex Servidores Públicos del Municipio, para que se promueva la denuncia correspondiente;
+
+VIII. Substanciar el incidente que corresponda a la solicitud del Titular de la Unidad de Investigación para que se decreten aquellas medidas cautelares previstas por el artículo 109 de la Ley; y
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 235 Quinquies.
 
-La unidad administrativa denominada Transparencia, mejora regulatoria, simplificación administrativa e innovación tendrá las siguientes atribuciones:
+El Titular de la Unidad de Transparencia, tendrá el carácter de Jefe de Departamento, y tiene como objetivo recibir y dar trámite a las solicitudes de información, así como las actividades a realizar conforme a las funciones que se establezcan las Leyes de Transparencia aplicables.
 
-I. Instrumentar y actualizar el sistema de control sobre los programas con indicadores, que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos;
+Para tales efectos, el Titular de la Unidad de Transparencia, tendrá las siguientes funciones y atribuciones:
 
-II. Establecer procedimientos y condiciones homogéneas en el ejercicio del Derecho de Acceso a la Información, mediante procedimientos sencillos y expeditos;
+I. Recabar y difundir la información a que se refieren los Capítulos II, III, IV y V del Título Quinto de la Ley General de Transparencia y Acceso a la Información Pública, así como la correspondiente de la Ley Federal y de las Entidades Federativas y propiciar que las Áreas la actualicen periódicamente, conforme la normatividad aplicable;
 
-III. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la Información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público y atendiendo en todo momento las condiciones sociales, económicas y culturales;
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
-IV. Garantizar la publicidad de Información oportuna, verificable, comprensible, actualizada y completa;
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-V. Fungir como unidad de transparencia de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-VI. Poner a disposición de los particulares en los sitios de internet y a través de la Plataforma Nacional, la Información que refiere el Titulo Quinto denominado "Obligaciones de Transparencia" de la Ley General de Transparencia;
+V. Efectuar las notificaciones a los solicitantes;
 
-VII. Resolver y notificar a los interesados las solicitudes de acceso a la Información;
+VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
-VIII. Impulsar la mejora regulatoria en el Municipio, (sic) través de la coordinación de acciones entre las autoridades y los sectores social y privado;
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
-IX. Fomentar el uso de los medios electrónicos, magnéticos o de cualquier tecnología y el uso de la firma electrónica, archivos electrónicos y base de datos, a fin de hacer más eficientes los servicios, trámites y actos administrativos;
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
 
-X. Impulsar la homologación de trámites, formatos, requerimientos, padrones y reglamentos, así como cualquier acto administrativo de las dependencias;
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
 
-XI. Fortalecer y ampliar los medios de participación de los sectores social y privado que estimulen la competitividad, la inversión y el crecimiento económico en el Municipio;
+X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
 
-XII. Contribuir a la reducción y eliminación de tiempos y costos económicos, discrecionalidad, duplicidad de requerimientos, trámites y opacidad administrativa;
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública y en las demás disposiciones aplicables, y
 
-XIII. Promover mecanismos y reformas al marco regulatorio que permitan fortalecer al mercado, a las empresas y las actividades comerciales, para así incrementar la productividad;
+XII. Las demás que se desprendan de la normatividad aplicable.
 
-XIV. Diseñar e instrumentar herramientas jurídico-administrativas que nutran el proceso de mejora regulatoria tales como la manifestación de impacto regulatorio y dictamen regulatorio;
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
-XV. Propiciar mecanismos que permitan la presentación formal de quejas y propuestas de mejora regulatoria y garantizar su atención;
+###### ARTÍCULO 235 Sexies.
 
-XVI. Impulsar programas de capacitación en materia de mejora regulatoria entre los servidores públicos involucrados de las dependencias;
+El Titular de la Unidad de Fiscalización, quien tendrá el carácter de Jefe de Departamento, tiene como objetivo coordinar y ejecutar actividades de fiscalización para asegurar que la aplicación de recursos públicos, ingresos, egresos y el manejo del patrimonio del Municipio, se realizan de conformidad con las disposiciones normativas aplicables.
 
-XVII. Fomentar el conocimiento por parte de la sociedad en general, de la normatividad estatal y municipal asociada con trámites y servicios públicos; y
+Para tales efectos, el Titular de la Unidad de Fiscalización tendrá las siguientes funciones y atribuciones:
 
-XVIII. Las demás que señalen las leyes o el H. Ayuntamiento.
+I. Solicitar a las Direcciones del Municipio, la información necesaria para la planeación de las auditorías, previa autorización por el Titular del Órgano Interno de Control;
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+II. Integrar y presentar, para visto bueno del Titular del Órgano Interno de Control, el Programa Anual de Auditoria Municipal, así como los informes de avance de su desarrollo;
 
-ARTÍCULO 235 A.- Departamento de Transparencia. Es el responsable de que las Unidades Administrativas establezcan mecanismos de comunicación externa apropiados y de conformidad con las disposiciones aplicables, a fin de difundir la información requerida en materia de transparencia. Será la encargada de recabar y difundir información relativa a las obligaciones de transparencia, recibir y dar trámite a las solicitudes de acceso a la información; así como proponer e implementar acciones conjuntas para asegurar una mayor eficiencia en los procesos de transparencia y protección de datos personales al interior de nuestra institución.
+III. Promover, ante las áreas del Municipio, la implementación y la mejora continua de los controles internos y procedimientos que coadyuven a la protección del patrimonio y recursos del mismo;
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+IV. Suscribir los oficios de solicitud de información, así como elaborar, previa autorización del Titular del Órgano Interno de Control, los oficios del seguimiento de las acciones correctivas y preventivas determinadas;
 
-ARTÍCULO 235 B.- Autoridad Investigadora. Es la encargada de implementar y aplicar los procesos de investigación de las anomalías reportadas por el departamento de Auditoria, producto de denuncias ciudadanas, de servidores públicos o iniciadas de oficio para detectar presuntas responsabilidades Administrativas y actos de corrupción de los servidores públicos, ex servidores públicos del municipio o particulares asociados a la Administración Municipal, así mismo es aquella que en el ámbito de su competencia, es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del estado de Aguascalientes; a fin de estar en Posibilidades de dar cumplimiento a dicho ordenamiento normativo.
+V. Practicar las auditorias registradas en el Programa Operativo Anual, de conformidad con las normas aplicables. Así como presentar al Titular del Órgano Interno de Control los resultados y observaciones de las auditorías realizadas;
 
-En el ejercicio de sus funciones deberá observar los principios de certeza, legalidad, imparcialidad, independencia, máxima publicidad, definitividad, objetividad, equidad, profesionalismo, respeto a los derechos humanos, congruencia, verdad material y uso responsable de los recursos, así como el resguardo de expediente en conjunto.
+VI. Efectuar el seguimiento de las acciones preventivas y correctivas de las auditorías realizadas a las áreas del Municipio, así como aquellas formuladas por instancias de fiscalización externas;
 
-Incorporará a sus investigaciones las técnicas, tecnológicas (sic) y métodos de investigación que observen las mejores prácticas internacionales.
+VII. Verificar que las adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, se realicen, según corresponda, conforme a lo establecido en las disposiciones aplicables de la materia;
 
-Para tales efectos la Auditoria Investigadora, tendrá las siguientes funciones:
+VIII. Realizar visitas, inspecciones, compulsas y solicitudes de información que se estimen pertinentes a las áreas del Municipio y a terceros con quienes se contrate la realización de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, e igualmente podrá solicitar a los Servidores Públicos y/o ex Servidores Públicos de (sic) Municipio y a los proveedores o contratistas todos los datos e informes relacionados con los actos de que se trate;
 
-I. Conocer de las denuncias que se promuevan en contra de los Servidores Públicos, ex Servidores Públicos del Municipio y de particulares en términos de la Ley, las Cuales Podrán ser anónimas, o iniciarse de oficio derivadas de la auditoria practicadas (sic) por parte de las autoridades competentes o, en su caso, de auditores externos, llevando a cabo la investigación por la presunta responsabilidad de falta (sic) administrativas.
+IX. Revisar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Municipio. Y en caso de existir elementos elaborar informe de presuntos hechos irregulares y presentarlo ante el Titular del Órgano Interno de Control para que sea turnado al Titular de Unidad Investigadora;
 
-II. Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+X. Auxiliar en la elaboración de pronósticos de ingresos y el presupuesto de egresos para el municipio;
 
-III. Solicitar, durante la investigación, información o documentos en los términos, formas y medios requeridos a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas.
+XI. Vigilar que el cumplimiento de sus funciones, objetivos y metas de las dependencias municipales se apeguen a las disposiciones legales aplicables;
 
-IV. Hacer uso de las medidas de apremio que se establezcan en la Ley de Responsabilidades Administrativas del estado de Aguascalientes y las Leyes Aplicables, para el debido cumplimiento de sus determinaciones.
+XII. Revisar y vigilar la correcta aplicación y contabilización de los recursos financieros administrados por el municipio, de conformidad con la legislación vigente y con los programas de trabajo establecidos;
 
-V. Determinar la existencia o inexistencia de actos u omisiones que la Ley señale como faltas administrativas y, en su caso, calificarlas como graves o no graves. Una vez calificadas las faltas, emitir en su caso, Informe de Presunta Responsabilidad Administrativa para remitirlo a la Autoridad Substanciadora para el efecto de iniciar el procedimiento de responsabilidad administrativa.
+XIII. Verificar que tanto los ingresos como los egresos cuenten con sus correspondientes soportes documentales;
 
-VI. Emitir y notificar el acuerdo de conclusión y archivo del expediente, para el caso de que no se encontraran elementos suficientes para demostrar la existencia de los hechos constitutivos de infracción y la presunta responsabilidad del Infractor, sin perjuicio de que puedan abrirse nuevamente la Investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
+XIV. Supervisar el control de las partidas presupuestales para efecto de evitar sobregiro y, en su caso, proponer que se solicite al H. Ayuntamiento la modificación presupuestal correspondiente;
 
-VII. En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que este Departamento tenga competencia;
+XV. Auditar aleatoria y periódicamente la nómina de las diferentes dependencias municipales, así como las listas de raya existentes;
 
-VIII. Solicitar que se decreten las medidas cautelares previstas por el artículo 109 de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, en los casos que así proceda.
+XVI. Auxiliar en la solventación de observaciones o faltantes emitidas por la Auditoría Superior de la Federación, la Contraloría del Estado, el Órgano Superior de Fiscalización del Estado, auditores externos y todos aquello (sic) entes que de una u otra manera fiscalizaren a la administración pública municipal;
 
-IX. Solicitar al Departamento de Auditoria, Mejora Regulatoria, Simplificación administrativa e innovación de la Contraloría Municipal, los datos o constancias respecto de los informes de presuntos hechos irregulares que haya remitido y que se requieran para el efecto de la investigación en contra de algún Servidor Público y/o Ex Servidor Público del Municipio y/o Particular.
+XVII. Informar al Titular del OIC realizado (sic) revisión o auditoria responsabilidad administrativa documentación correspondiente; de los casos en que habiendo se presuma la existencia de (sic) y/o penal, anexando la documentación correspondiente.
 
-X. Administrar, en coordinación con la Autoridad Substanciadora, el libro de registro y seguimiento de denuncias presentadas ante la Contraloría Municipal.
+XVIII. Efectuar el análisis de ejercicio presupuestal asignado a cada dependencia, para establecer indicadores de eficiencia concordancia y economía con relación a sus programas, metas y objetivos;
 
-XI. Formular denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción, en materia de delitos relacionados con hechos de corrupción en el Estado y/o ante la autoridad competente.
+XIX. Las demás atribuciones que las disposiciones legales y reglamentarias confieran, así como las que le confiera el Titular del Órgano Interno de Control, de acuerdo al ámbito de su competencia.
 
-XII. Certificar los documentos emanados o que se encuentren en sus archivos.
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
-XIII. Las demás que le confieran la Ley y demás normativa aplicable.
+###### ARTÍCULO 235 Septies.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+El Titular de la Unidad de Control Interno y Desempeño Institucional tendrá el carácter de Jefe de Departamento, y tiene como objetivo contribuir al cumplimiento de los objetivos y metas institucionales, de impulsar el establecimiento y actualización del Sistema de Control Interno y al análisis y seguimiento para la detección y administración de riesgos conforme a lo dispuesto en las Disposiciones en Materia de Control Interno y Desempeño Institucional.
 
-ARTÍCULO 235 C.- Autoridad Substanciadora, es aquella que, en el ámbito de su competencia, dirige y conduce el procedimiento de responsabilidades administrativas desde la admonición del informe de presunta responsabilidad hasta la conclusión de la audiencia inicial;
+Para tales efectos, el Titular de la de la Unidad de Control Interno y Desempeño Institucional tendrá las siguientes funciones y atribuciones:
 
-I. Notificar, citar, requerir y en su caso hacer comparecer a las personas que consideren necesarias para la práctica de las diligencias en los procedimientos de responsabilidades administrativas en contra de servidores públicos del Municipio;
+I. Evaluar el Sistema de Control Interno en la Administración Pública Municipal;
 
-II. Fungir como Autoridad Substanciadora en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+II. Proponer al Presidente el esquema de sectorización de la Administración Pública Municipal;
 
-III. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativas (sic) en contra de servidores públicos del Municipio, por conductas que pidieran (sic) constituir responsabilidad administrativa en los términos de la ley en materia;
+III. Conducir la política del Presidente en la coordinación de la Administración Pública Municipal;
 
-IV. En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que este Departamento tenga competencia;
+IV. Proponer al Presidente los proyectos de reglamentos, códigos, sus reformas y adiciones que resulten necesarias para el correcto funcionamiento de la Administración Pública Municipal;
 
-V. Hacer uso de las medidas de apremio que se establezcan en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y las leyes aplicables, para el debido cumplimiento de sus determinaciones;
+V. Monitorear los avances en el cumplimiento de los objetivos prioritarios de la administración pública municipal;
 
-VI. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos de responsabilidades administrativas instaurados por el Departamento de Asuntos Jurídicos; y
+VI. Implementar los sistemas de monitoreo del Desempeño Institucional y el de Gestión de la Calidad del Mejoramiento de la Gestión del Municipio bajo el principio de la Gestión por Resultados en planificación estratégica y medición de desempeño;
 
-VII. Certificar los documentos emanados o que se encuentren en sus archivos.
+VII. Aportar al H. Ayuntamiento los elementos oportunos para la toma de decisiones de planeación estratégica;
 
-VIII. Las demás que le confieran la Ley y demás normativa aplicable.
+VIII. Apoyar a los titulares de las dependencias de la Administración Pública Municipal en gestiones al interior y exterior del gobierno municipal para desahogar instrucciones y asuntos encomendados por el Presidente Municipal, en el ámbito de su competencia;
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+IX. Desarrollar planes y proyectos estratégicos a corto, mediano y largo plazo para el gobierno, identificando prioridades y metas para el desarrollo del Municipio;
 
-ARTÍCULO 235 D.- Departamento de Auditoria, Mejora Regulatoria, Simplificación administrativa e innovación. Es la encargada de Vigilar, Auditar, Implementar acciones, actividades, planes, políticas, normas, registros, procedimientos y métodos, incluido el entorno y actitudes que desarrollan las autoridades de la Administración Pública Municipal y el personal a su cargo, con el objetivo de prevenir posibles riesgos que afectan a la Administración Pública Municipal.
+X. Facilitar la cooperación y la coordinación con otros gobiernos, organizaciones internacionales y actores externos en asuntos de interés común, así como la cooperación para el desarrollo, innovación gubernamental, acuerdos comerciales o temas de seguridad;
 
-Para tales efectos el Jefe del Departamento de Auditoria, Mejora Regulatoria, Simplificación administrativa e innovación tendrá las funciones siguientes:
+XI. Formular, coordinar, conducir y evaluar la política de planeación estratégica para el desarrollo del municipio, en términos de la normatividad aplicable y de conformidad con los objetivos, estrategias, lineamientos, políticas y prioridades del PDM y los que determine el Presidente Municipal; y
 
-I. Solicitar a las Direcciones del Municipio, la información necesaria para la planeación de las auditorias, previa autorización por el titular de la Contraloría Interna.
+XII. Las demás que le confieran otras disposiciones legales y reglamentarias o le otorgue el Presidente Municipal.
 
-II. Integrar y presentar, para visto bueno del Titular de la Contraloría Municipal, los Programas Operativos Anuales y de Auditoría a cargo del Departamento de Auditoria, así como los informes de avance de su desarrollo.
+ARTÍCULO 235 A.- (DEROGADO, P.O. 10 DE FEBRERO DE 2025)
 
-III. Suscribir los oficios de solicitud de información, así como elaborar, con autorización del Titular de la Contraloría Municipal, los oficios de seguimiento de las acciones correctivas y preventivas determinadas.
+ARTÍCULO 235 B.- (DEROGADO, P.O. 10 DE FEBRERO DE 2025)
 
-IV. Practicar las Auditorias registradas en (sic) Programa Operativo Anual, de conformidad con las normas aplicables. Así como presentar al Titular de la Contraloría Municipal resultados y observaciones de las auditorías realizadas.
+ARTÍCULO 235 C.- (DEROGADO, P.O. 10 DE FEBRERO DE 2025)
 
-V. Efectuar el seguimiento de las acciones preventivas y correctivas de las auditorías realizadas a las Direcciones y Departamentos del Municipio, así como aquellas formuladas por instancias de fiscalización externas.
-
-VI. Verificar que las adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, se realicen, según corresponda, conforme a lo establecido en las disposiciones aplicables de la materia.
-
-VII. Realizar visitas, inspecciones, compulsas y solicitudes de información que se estimen pertinentes a las Direcciones y Departamentos del Municipio y a terceros con quienes se contrate la realización de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, e igualmente podrá solicitar a los Servidores Públicos y/o Ex Servidores Públicos del Municipio y a los proveedores o contratistas todos los datos e informes relacionados con los actos de que se trate.
-
-VIII. Revisar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Municipio. Y en caso de existir elementos denunciar ante el Departamento de Investigación.
-
-IX. Realizar Auditorías al presupuesto de ingresos y egresos del Municipio, en cualquiera de sus momentos contables.
-
-X. Realizar revisiones a las operaciones financieras, de la Dirección de Finanzas Municipal, presentado (sic) al Contralor Municipal los resultados de las mismas.
-
-XI. Instrumentar y actualizar el sistema de control sobre los programas con indicadores que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos.
-
-XII. Promover, ante las Direcciones y Departamentos del Municipio, la implementación y la mejora continua de los controles internos y procedimientos que coadyuven a la protección del patrimonio y recursos del mismo.
-
-XIII. Suscribir los oficios de solicitud de información, así como elaborar, con autorización del Titular de la Contraloría Municipal, los oficios del seguimiento de las acciones correctivas y preventivas determinadas.
-
-XIV. Emitir dictamen anual, dar seguimiento a las acciones preventivas y correctivas emitidas.
-
-XV. Las demás que le confieran la Ley y demás normativa aplicable.
+ARTÍCULO 235 D.- (DEROGADO, P.O. 10 DE FEBRERO DE 2025)
 
 ### CAPÍTULO III. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
@@ -3539,9 +3611,11 @@ XXXIV. Llevar el Registro de Asesores Inmobiliarios que resulte de la coordinaci
 
 XXXV.- Las demás que señale el presente Código, el Código Urbano para el Estado de Aguascalientes o las que encomiende y delegue el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 254.
 
-Corresponde a la Dirección Obras (sic) Públicas y Planeación, en materia de obra pública:
+Corresponde a la Dirección de Obras Públicas, en materia de obra pública:
 
 I. Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
 
@@ -3551,11 +3625,49 @@ III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de la
 
 IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
 
-V. Asesorar técnicamente a los Comités vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+V. Recibir las Obras Públicas a nombre del Municipio de El Llano, por dependencias y/o Particulares que ejecutan dichas obras con recursos Federales, Estatales y Municipales. Siguiendo el procedimiento y los lineamientos indicados en el “Reglamento de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y sus Municipios”, la recepción correspondiente, contendrá por lo menos:
 
-VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y
+a) Copia certificada del expediente técnico inicial de la obra; que, además, deberá contener la fianza de cumplimiento y la fianza de vicios ocultos.
 
-VII. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+b) Copia certificada de planos definitivos firmados y avalados por los ejecutores e involucrados en el desarrollo de la obra.
+
+c) Copia certificada de la bitácora de obra debidamente firmada por las personas involucradas en el desarrollo de la obra (supervisor, residente de obra, perito responsable, etc.).
+
+d) Copia certificada del expediente técnico definitivo al término de la obra.
+
+e) Pruebas de laboratorio y estudios involucrados en el desarrollo de la obra; pudiendo ser entregadas de forma digital o impresa; debiendo incluir la memoria fotográfica de la obra.
+
+f) Convocar al ente receptor a recorridos de verificación al inicio, durante y termino de la obra.
+
+g) Y las demás consideraciones y requerimientos que sean solicitados por el Municipio de Aguascalientes.
+
+VI. Asesorar técnicamente a los Comités vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+
+VII. Supervisar y controlar las actividades de las diferentes áreas que integran esta Dirección.
+
+VIII. Expedir las convocatorias y bases a que deben ajustarse los concursos y/o licitaciones de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia.
+
+IX. Instalar y coordinar el Comité Interno de Licitación del Municipio de El Llano.
+
+X. Convocar a las sesiones del Comité Interno de Licitación cuando se requiera de acuerdo a lo establecido en el Reglamento de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y sus Municipios.
+
+XI. Coordinarse, en el ámbito de sus facultades de acuerdo a su capacidad operativa, con las demás instancias municipales.
+
+XII. Cumplir con lo establecido en la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes.
+
+XIII. Contratar los servicios y adquirir los materiales y suministros requeridos para la ejecución de la obra pública que sea realizada directamente por esta Dirección.
+
+Para el caso del supuesto establecido en el párrafo anterior, dicha facultad se encuentra limitada exclusivamente para el procedimiento de compra directa establecido en el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de El Llano.
+
+XIV. Realizar directamente o a través de terceros las obras o acciones destinadas a viviendas unifamiliares de hogares ubicados en las zonas identificadas como de atención prioritaria, de pobreza extrema, de alto y muy alto rezago social así como otras zonas del municipio que presenten carencias sociales contenidas en los indicadores del informe anual de pobreza emitido por el CONEVAL, previo estudio socioeconómico o su equivalente, que incluyan construcción nueva, ampliación, remodelación, mantenimiento o reparación integral de las construcciones; otorgándolas al propietario del inmueble en la calidad de título gratuito todo ello apegado al marco de los programas y sus reglas de operación, ya sean federales, estatales y/o municipales. Por cada intervención que la Dirección realice, deberá signarse una concertación por cada beneficiario especificando la autorización manifiesta para que la acción corresponda, así como los alcances y metas de la acción programada, su costo y supervisión correspondiente.
+
+XV. Manejar los programas de ámbito federal, estatal y municipal en materia de Obra Pública y acciones de mejoramiento de vivienda.
+
+XVI. Ejecutar las acciones necesarias para realizar programas y proyectos para, el manejo, operación, administración, disposición y destino final de materiales residuales "escombro" derivados de la construcción de obra pública y/o privada, depositados en los tiraderos municipales y/o espacios destinados para dicho fin, observando en todo momento las normas ambientales, así como las disposiciones que en materia de planeación, medio ambiente, desarrollo urbano y finanzas correspondan.
+
+XVII. Coordinarse con las distintas autoridades de los ámbitos municipales y estatales, a efecto de sugerir al Honorable Cabildo la firma de instrumentos jurídicos que permitan el buen uso y funcionamiento de los Tiraderos de escombro y/o espacios destinados para ello; sugerir o hacer planteamientos y propuestas, que tengan por objeto la consolidación de alianzas estratégicas con los sectores públicos (gobierno del estado y municipios), así como con el sector privado, cámaras empresariales, organismos o asociaciones de la industria de la construcción, interesadas en el uso, operación y administración de tiraderos de residuos derivados de la construcción de obra, siempre y cuando exista viabilidad de los proyectos.
+
+XVIII. Las demás que señale la Ley, el presente Código, otras disposiciones reglamentarias o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ### CAPÍTULO XVIII. De la Dirección de Seguridad Pública y Vialidad Municipal
 
@@ -4739,9 +4851,11 @@ Es obligación de los titulares de dependencias y entidades que generan ingreso 
 
 El encargado de la Dirección de Administración y Finanzas municipal integrará y presentará al Presidente Municipal para su aprobación, la propuesta de Ley de Ingresos con todos los elementos y presupuestos enviados por las Dependencias, para posteriormente turnarla al Congreso del Estado para su aprobación.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 390.
 
-Para efectos del artículo anterior, el Director de Administración y Finanzas, podrá hacerse asesorar de la persona que desempeñe el cargo de Contralor Municipal.
+Para efectos del artículo anterior, el Director de Administración y Finanzas, podrá hacerse asesorar de la persona que desempeñe el cargo de Titular del Órgano Interno de Control.
 
 ###### ARTÍCULO 391.
 
@@ -5071,9 +5185,11 @@ VI. Bienes de uso público: Los bienes muebles de uso público son aquellos que 
 
 VII. Bienes de uso privado: son aquellos a los cuales corresponde el dominio directo e inmediato al municipio, de los cuales el ayuntamiento tiene la facultad exclusiva de disponer de los mismos.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 435.
 
-Para el debido control patrimonial la Dirección de Administración y Finanzas Municipal y la Contraloría Municipal verificarán que se realicen las siguientes funciones:
+Para el debido control patrimonial la Dirección de Administración y Finanzas Municipal y el Órgano Interno de Control verificarán que se realicen las siguientes funciones:
 
 I. Registrar los bienes muebles propiedad o al servicio municipal, y por lo tanto llevar un inventario permanente de los mismos;
 
@@ -5355,6 +5471,8 @@ III. Los mutuos acuerdos entre las áreas.
 
 Para buscar la racionalización y transparencia en el gasto público se creará un Comité de Adquisiciones.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 476.
 
 El Comité Municipal de Adquisiciones estará integrado de la siguiente manera:
@@ -5367,7 +5485,7 @@ III. El Regidor de la Comisión de Hacienda, Presupuesto, Contabilidad, Programa
 
 IV. El Síndico Municipal quien será vocal;
 
-V. El Contralor Municipal quien será vocal;
+V. El Titular del Órgano Interno de Control quien será vocal;
 
 VI. Un representante del comercio organizado quien será vocal.
 
@@ -11519,9 +11637,11 @@ La Dirección registrará y publicará periódicamente los datos estadísticos r
 
 La información señalada en el artículo anterior servirá para tomar acciones preventivas, reducir el número de accidentes e intensificar la educación vial en las áreas de mayor reincidencia de faltas en materia de tránsito.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1238.
 
-Los elementos operativos, al terminar su turno, entregarán a sus superiores reporte escrito en las formas apropiadas y debidamente foliadas de los hechos de tránsito en que hayan intervenido, así como las copias de las actas de infracción que hayan levantado y cualquier otra información relativa a su servicio. Agregarán a su reporte el nombre de cualquier servidor público o persona que haya hecho alarde de influencias para evitar la sanción correspondiente, marcándole copia al Contralor Interno del Municipio para que sea sancionado.
+Los elementos operativos, al terminar su turno, entregarán a sus superiores reporte escrito en las formas apropiadas y debidamente foliadas de los hechos de tránsito en que hayan intervenido, así como las copias de las actas de infracción que hayan levantado y cualquier otra información relativa a su servicio. Agregarán a su reporte el nombre de cualquier servidor público o persona que haya hecho alarde de influencias para evitar la sanción correspondiente, marcándole copia al Titular del Órgano Interno de Control para que sea sancionado.
 
 ### CAPÍTULO VI. De la Detención de los Vehículos
 
@@ -12165,7 +12285,9 @@ IV. Las provisiones, reservas, usos y destinos de áreas y predios autorizados;
 
 V. Las delimitaciones de conurbación, de conservación y de mejoramiento;
 
-VI. Las constancias de compatibilidad urbanística;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+VI. Las constancias de compatibilidad Urbanística;
 
 VII. Las resoluciones, criterios y normas que expidan las autoridades municipales competentes;
 
@@ -12191,7 +12313,9 @@ VI. Las especificaciones relativas a las características y dimensiones de los l
 
 VII. Los usos y destinos, reservas y provisiones de las áreas y predios previstos en la legislación y programas de desarrollo urbano;
 
-VIII. El alineamiento oficial y las compatibilidades urbanísticas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+VIII. El alineamiento oficial y las compatibilidades Urbanísticas;
 
 IX. Las especificaciones de construcción que por cada tipo de obra o servicio se señalen en las disposiciones legales aplicables;
 
@@ -12291,9 +12415,13 @@ XXII. Instalar el Consejo Municipal en los primeros dos meses de iniciar la admi
 
 XXIII. Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
 
-XXIV. Expedir las autorizaciones, licencias o permisos de las diversas acciones urbanísticas que se realicen en su Municipio, salvo las que éste Código otorgue a otras instancias;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
 
-XXV. Expedir las constancias municipales e informes de compatibilidad urbanística;
+XXIV. Expedir las autorizaciones, licencias o permisos de las diversas acciones Urbanísticas que se realicen en su Municipio, salvo las que éste Código otorgue a otras instancias;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+XXV. Expedir las constancias municipales e informes de compatibilidad Urbanística;
 
 XXVI. Otorgar autorizaciones, licencias y permisos para la construcción, reconstrucción, remodelación, ampliación, demolición de inmuebles y obras de urbanización o para realizar obras o utilizar la vía pública;
 
@@ -12653,21 +12781,29 @@ VII. Las demás normas que de acuerdo con este Código sean procedentes.
 
 Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano y vivienda, que se realicen en territorio del Municipio, sean públicas o privadas, deberán sujetarse a lo dispuesto en este Código y a los programas aplicables. Sin este requisito, no se otorgará permiso, autorización, licencia o concesión para efectuarlas.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1367.
 
-La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previa a la ejecución de dichas acciones u obras, la constancia de compatibilidad urbanística que le expida la autoridad municipal competente.
+La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previa a la ejecución de dichas acciones u obras, la constancia de compatibilidad Urbanística que le expida la autoridad municipal competente.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1368.
 
-Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente. La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
+Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad Urbanística correspondiente. La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1369.
 
-La constancia de compatibilidad urbanística, con base en la zonificación prevista en los programas de desarrollo urbano, señalará los usos o destinos de áreas y predios, permitidos, condicionados o prohibidos.
+La constancia de compatibilidad Urbanística, con base en la zonificación prevista en los programas de desarrollo urbano, señalará los usos o destinos de áreas y predios, permitidos, condicionados o prohibidos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1370.
 
-Los objetivos de las constancias de compatibilidad urbanística son:
+Los objetivos de las constancias de compatibilidad Urbanística son:
 
 I. Dar seguridad jurídica a la propiedad, identificándola dentro de su contexto urbano; otorgando la consiguiente protección a sus titulares, respecto de la legalidad del asentamiento humano o desarrollo inmobiliario;
 
@@ -12683,9 +12819,11 @@ VI. Impedir el establecimiento de asentamientos humanos irregulares; y
 
 VII. Señalar las limitaciones, restricciones o alineamientos que a cada área o predio le disponen la legislación o programas de desarrollo urbano aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1371.
 
-Las constancias de compatibilidad urbanística, contendrán y proporcionarán:
+Las constancias de compatibilidad Urbanística, contendrán y proporcionarán:
 
 I. La ubicación, medidas y colindancias del área o predio;
 
@@ -12709,9 +12847,11 @@ X. Las afectaciones por proyectos de obras en materia de infraestructura, equipa
 
 XI. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación o programas de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1372.
 
-Las constancias de compatibilidad urbanística tendrán una vigencia de tres años, a partir de la fecha de su expedición, en virtud de que deben ser acordes con la actualización o modificación de la legislación y programas de desarrollo urbano.
+Las constancias de compatibilidad Urbanística tendrán una vigencia de tres años, a partir de la fecha de su expedición, en virtud de que deben ser acordes con la actualización o modificación de la legislación y programas de desarrollo urbano.
 
 ### CAPÍTULO VI. De la Vía Pública
 
@@ -12727,9 +12867,11 @@ Todo inmueble consignado como vía pública en algún plano o registro oficial e
 
 Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro para que hagan los registros y las cancelaciones respectivas para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro e Impuesto a la Propiedad Raíz para que hagan los registros y las cancelaciones respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1376.
 
-Se requiere permiso o autorización expreso (sic) de la Dirección de Obras Públicas y Planeación Municipal para:
+Se requiere permiso o autorización expreso (sic) de la Dirección de Desarrollo Urbano Municipal para:
 
 I. Realizar obras, modificaciones o reparaciones en la vía pública;
 
@@ -12761,53 +12903,69 @@ V. Para construir comercios semifijos en vías públicas; y
 
 VI. Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1379.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Obras Públicas señale. Si este plazo fuese sobre excedido, la misma Dirección, realizará los trabajos con cargo al dueño, independientemente de las sanciones que sean aplicables, de conformidad con el presente Código.
+Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Desarrollo Urbano señale. Si este plazo fuese sobre excedido, la misma Dirección, realizará los trabajos con cargo al dueño, independientemente de las sanciones que sean aplicables, de conformidad con el presente Código.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1380.
 
-Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones. Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Obras Públicas podrá autorizar la Construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras lo requiera. Para los efectos de este Artículo, deberá respetarse la normatividad respectiva que dicten los Reglamentos referentes al tipo de instalación que correspondan.
+Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones. Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Desarrollo Urbano podrá autorizar la Construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras lo requiera. Para los efectos de este Artículo, deberá respetarse la normatividad respectiva que dicten los Reglamentos referentes al tipo de instalación que correspondan.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1381.
 
-La Dirección de Obras Públicas Municipal fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+La Dirección de Desarrollo Urbano Municipal fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1382.
 
-Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Dirección de Obras Públicas Municipal determinará la forma en que se lleven a cabo los trabajos.
+Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Dirección de Desarrollo Urbano Municipal determinará la forma en que se lleven a cabo los trabajos.
 
 ###### ARTÍCULO 1383.
 
 Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre postes colocados para ese efecto. Dichos postes se colocarán dentro de la acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1384.
 
-En las vías públicas en que no existen aceras, los interesados solicitarán a la Dirección de Obras Públicas Municipal, el trazo de la guarnición.
+En las vías públicas en que no existen aceras, los interesados solicitarán a la Dirección de Desarrollo Urbano Municipal, el trazo de la guarnición.
 
 ###### ARTÍCULO 1385.
 
 Las ménsulas, las alcayatas así como cualquier otro apoyo que se use, para ascenso a los postes o a las instalaciones, deberán colocarse a no menos de dos metros cincuenta centímetros de altura sobre el nivel de la acera. Igual tratamiento se dará a cualquier obstáculo en vía pública.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1386.
 
-Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Dirección de Obras Públicas Municipal.
+Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Dirección de Desarrollo Urbano Municipal.
 
 ###### ARTÍCULO 1387.
 
 Los propietarios de postes o instalaciones colocados en la vía pública, están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1388.
 
-La Dirección de Obras Públicas Municipal podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Dirección lo ejecutará a costa de dichos propietarios.
+La Dirección de Desarrollo Urbano Municipal podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Dirección lo ejecutará a costa de dichos propietarios.
 
 ###### ARTÍCULO 1389.
 
 No se permitirá colocar postes o instalaciones en aceras, cuando con ellos se impida la entrada a un predio. Si el acceso al predio se construye estando ya colocados el poste o la instalación, deberán ser cambiados de lugar por el propietario de los mismos, pero los gastos serán por cuenta del propietario del predio.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1390.
 
-La Dirección de Obras Públicas Municipal determinará las zonas de protección a lo largo de los servicios subterráneos tales como viaductos, pasos a desnivel, e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
+La Dirección de Desarrollo Urbano Municipal determinará las zonas de protección a lo largo de los servicios subterráneos tales como viaductos, pasos a desnivel, e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
 ###### ARTÍCULO 1391.
 
@@ -12953,13 +13111,17 @@ Santa Rosa:
 
 1.- Santa Catalina; 2.- Santa Cruz; 3.- Pedro Gómez; 4.- Santa Esperanza; 5.- Los Prados; 6.- Santos García; 7.- Santa Irene; 8.- Sor Juana Inés de la Cruz; 9.- Pedro Martínez; 10.- Santa Clara; 11.- Santa Magdalena; 12.- Santa Isabel; 13.- Santa Ma. de Lourdes; 14.- Santa Cecilia; 15.- Santa Rita; 16.- Santa Elena; 17.- Santa Gertrudis; 18.- Santa Fe; 19.- Santa María; 20.- Santa Eduviges; 21.- Santa Martha; 22.- Santa Mónica; 23.- Santa Teresa.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1398.
 
-Los promoventes de vivienda y fraccionadores, deberán presentar ante la Dirección de Obras Públicas y Planeación Municipal, la propuesta de nomenclatura y vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la Comisión Estatal de Desarrollo Urbano o a la Secretaría de Planeación del Estado, según sea el caso.
+Los promoventes de vivienda y fraccionadores, deberán presentar ante la Dirección de Desarrollo Urbano Municipal, la propuesta de nomenclatura y vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la Comisión Estatal de Desarrollo Urbano o a la Secretaría de Planeación del Estado, según sea el caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1399.
 
-La Dirección de Obras Públicas, tomará en cuenta la propuesta del promovente o fraccionador al momento de determinar sobre la nomenclatura, debiéndose apegar a lo siguiente:
+La Dirección de Desarrollo Urbano, tomará en cuenta la propuesta del promovente o fraccionador al momento de determinar sobre la nomenclatura, debiéndose apegar a lo siguiente:
 
 I. Análisis de la propuesta de los promoventes y fraccionadores, expresando las razones que se tomaron en cuenta para estimar o desestimar dicha opinión;
 
@@ -12993,7 +13155,9 @@ III. Los nombres propuestos no deberán contravenir a la moral y las buenas cost
 
 Toda solicitud de nomenclatura deberán apegarse al siguiente procedimiento:
 
-I. Presentada la solicitud por escrito a la Dirección de Obras Públicas Municipal emitirá dictamen positivo o negativo en base a lo establecido en este Libro y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+I. Presentada la solicitud por escrito a la Dirección de Desarrollo Urbano Municipal emitirá dictamen positivo o negativo en base a lo establecido en este Libro y demás disposiciones jurídicas aplicables;
 
 II. Cuando se dictamine improcedente la solicitud deberá notificarse personalmente al promovente;
 
@@ -13031,7 +13195,9 @@ IX. Las placas de numeración deberán colocarse en una altura mínima de dos me
 
 X. Cuando existan manzanas con diferente longitud, deberá prevalecer la numeración progresiva que dicte la manzana de mayor longitud;
 
-XI. Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Obras Públicas; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+XI. Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Desarrollo Urbano; y
 
 XII. Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una solo (sic) centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
 
@@ -13041,13 +13207,17 @@ Los particulares, promoventes o fraccionadores deberán presentar solicitud por 
 
 I. Cuando se trate de un fraccionamiento o condominio el original o maduro con dos copias del plano del fraccionamiento o condominio, con certificación de la autorización de la Comisión Estatal de Desarrollo Urbano o de la Secretaría de Planeación del Estado según sea el caso; copia de escritura pública de las áreas de donación a favor del H. Ayuntamiento; recibo del pago de derechos municipales por las obras de urbanización; y, recibo de pago de los derechos por asignación de números oficiales;
 
-II. Cuando se trate de propietarios de predios individuales, copia certificada del documento que acredite la propiedad, copia del último pago de impuesto predial, constancia de alineamiento y compatibilidad urbanística; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+II. Cuando se trate de propietarios de predios individuales, copia certificada del documento que acredite la propiedad, copia del último pago de impuesto predial, Constancia Municipal de Compatibilidad Urbanística; y
 
 III. Cuando el promovente o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1406.
 
-La Dirección de Obras Públicas y Planeación Municipal autorizará números oficiales al solicitante, cuando el fraccionador o promovente haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal en el ámbito de su competencia y de la legislación urbana aplicable.
+La Dirección de Desarrollo Urbano Municipal autorizará números oficiales al solicitante, cuando el fraccionador o promovente haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal en el ámbito de su competencia y de la legislación urbana aplicable.
 
 ###### ARTÍCULO 1407.
 
@@ -13067,7 +13237,9 @@ I. Copia del documento que acredite la propiedad;
 
 II. Copia del último pago predial;
 
-III. Constancia de alineamiento y compatibilidad urbanística; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+III. Constancia Municipal de Compatibilidad Urbanística; y
 
 IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
@@ -13075,25 +13247,31 @@ IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento 
 
 Son causas de ratificación de número oficial, cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Obras y Servicios Públicos Municipales, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1410.
 
-Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Obras Públicas procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
+Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Desarrollo Urbano procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad Urbanística y la licencia de construcción.
 
 ## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
 
 ### CAPÍTULO I. De la Licencia de Construcción
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1411.
 
-Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Obras Públicas Municipal con anterioridad al inicio de la obra. Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
+Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Desarrollo Urbano Municipal con anterioridad al inicio de la obra. Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
 
 ###### ARTÍCULO 1412.
 
 Los requisitos establecidos en el presente capítulo son exigibles para todas las licencias, con independencia de los demás requisitos que se establezcan en cada capítulo en especial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1413.
 
-Son facultades de la Dirección de Obras Públicas en materia de construcciones:
+Son facultades de la Dirección de Desarrollo Urbano en materia de construcciones:
 
 I. Fijar los requisitos arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
@@ -13153,7 +13331,9 @@ VIII. Divisiones interiores prefabricadas en pisos de despachos o comercios, cua
 
 IX. Impermeabilización y reparación de azoteas sin afectar elementos estructurales;
 
-X. Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Obras Públicas dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+X. Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Desarrollo Urbano dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
 
 XI. Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivos, si está desocupado y sin afectar la estabilidad del resto de las construcciones;
 
@@ -13177,13 +13357,17 @@ V. La instalación, modificación o reparación de ascensores para personas, mon
 
 VI. Las modificaciones al proyecto original de cualquier obra. Se deberá acompañar a la solicitud el proyecto respectivo por cuadruplicado. No se concederá licencia cuando el cambio de uso sea incompatible con la zonificación de destinos, usos y reservas autorizadas, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso. Las solicitudes para este tipo de licencias, se presentarán con la firma del propietario del predio y con la responsiva de un Perito Responsable.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1418.
 
-El tiempo de vigencia de las licencias de construcción que expida la Dirección de Obras Públicas estará en relación con la naturaleza y magnitud de la obra por ejecutar.
+El tiempo de vigencia de las licencias de construcción que expida la Dirección de Desarrollo Urbano estará en relación con la naturaleza y magnitud de la obra por ejecutar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1419.
 
-La propia Dirección de Obras Públicas, tendrá facultad para fijar el plazo de vigencia de cada licencia de construcción de acuerdo con las siguientes bases:
+La propia Dirección de Desarrollo Urbano, tendrá facultad para fijar el plazo de vigencia de cada licencia de construcción de acuerdo con las siguientes bases:
 
 I. Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
 
@@ -13191,25 +13375,31 @@ II. Si terminado el plazo autorizado para la construcción de una obra, ésta no
 
 III. Se tendrá opción a solicitar a la propia Dirección, dentro del plazo de vigencia de la Licencia, una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1420.
 
-En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Obras Públicas y el dictamen del Instituto Nacional de Antropología e Historia.
+En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Desarrollo Urbano y el dictamen del Instituto Nacional de Antropología e Historia.
 
 ###### ARTÍCULO 1421.
 
 Los propietarios de fincas ubicadas dentro de la zona de monumentos históricos en el centro histórico de la ciudad o si la misma está catalogado como monumento histórico fuera de esta zona o colinda con alguno de éstos, se deberán presentar la autorización del Instituto Nacional de Antropología e Historia.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1422.
 
-Los propietarios de fincas que se hubieren subdividido o si es resultado de la fusión de dos o más predios, o si se prevé construir ocupando dos o más lotes contiguos, deberá presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la ventanilla de la Dirección de Obras Públicas.
+Los propietarios de fincas que se hubieren subdividido o si es resultado de la fusión de dos o más predios, o si se prevé construir ocupando dos o más lotes contiguos, deberá presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la ventanilla de la Dirección de Desarrollo Urbano.
 
 ###### ARTÍCULO 1423.
 
 Los propietarios de fincas que se encuentra (sic) en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberán presentar un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1424.
 
-Para otorgar licencia de construcción para construcciones, reparaciones, o ampliaciones menores de sesenta metros cuadrados de superficie en una casa habitación unifamiliar se requiere que el particular presente a la Dirección de Obras Públicas:
+Para otorgar licencia de construcción para construcciones, reparaciones, o ampliaciones menores de sesenta metros cuadrados de superficie en una casa habitación unifamiliar se requiere que el particular presente a la Dirección de Desarrollo Urbano:
 
 I. Planos arquitectónicos y/o croquis con medidas del estado actual de la finca y de lo propuesto, indicando la ubicación del predio y firmados por el propietario;
 
@@ -13221,13 +13411,19 @@ a. Obras que requieren de Perito Responsable de Obra conforme al presente Libro 
 
 b. Obras que se asignan por Servicio Social a Peritos. Cuando se trate de una primera ampliación en primer nivel exclusivamente, en un fraccionamiento de tipo popular o de interés social, si los claros no exceden de cuatro metros de longitud, muros de la planta baja no sean de adobe y coincidan con los de la planta alta y superficie de ampliación de dieciocho a treinta y seis metros cuadrados, así mismo que la casa ya ampliada no sobrepase los noventa metros cuadrados construidos; Dictamen de Estabilidad Estructural de fincas dañadas o afectadas por grietas en el subsuelo, elaborado por un Perito Especializado en Estructuras y/o Mecánica de Suelos;
 
-c. Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento habitacional urbano autorizado como tal, deberá presentar además, la constancia de compatibilidad urbanística autorizada para uso habitacional; y
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
-d. Si la construcción o ampliación contiene algún espacio destinado para uso no habitacional, por ejemplo: para local comercial, consultorio, lonchería, bodega, etc. o se prevé para un uso habitacional multifamiliar, deberá presentar en este caso la constancia de compatibilidad urbanística autorizada para tal uso incluyendo el habitacional.
+c. Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento habitacional urbano autorizado como tal, deberá presentar además, la constancia de compatibilidad Urbanística autorizada para uso habitacional; y
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+d. Si la construcción o ampliación contiene algún espacio destinado para uso no habitacional, por ejemplo: para local comercial, consultorio, lonchería, bodega, etc. o se prevé para un uso habitacional multifamiliar, deberá presentar en este caso la constancia de compatibilidad Urbanística autorizada para tal uso incluyendo el habitacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1425.
 
-Para el otorgamiento de licencias para construcciones, reparaciones, o ampliaciones mayores de sesenta metros cuadrados de superficie en una vivienda; o construcción en serie de una o varias viviendas de cualquier superficie o proyectos tipo se requiere presentar a la Dirección de Obras Públicas Municipal:
+Para el otorgamiento de licencias para construcciones, reparaciones, o ampliaciones mayores de sesenta metros cuadrados de superficie en una vivienda; o construcción en serie de una o varias viviendas de cualquier superficie o proyectos tipo se requiere presentar a la Dirección de Desarrollo Urbano Municipal:
 
 I. Copia de la boleta del número oficial del predio donde se pretende construir;
 
@@ -13249,7 +13445,9 @@ c. Análisis de cargas;
 
 d. Dimensionamiento y cálculo de: Cimentación, Columnas y/o muros, entrepisos y techos, trabes y/o vigas y/o armaduras. Todo lo anterior, debe respetar lo estipulado en el título de requisitos estructurales del presente Libro de Construcciones. Si el predio está ubicado dentro de la zona de mediano riesgo de alguna falla geológica, se deberá anexar a la memoria de cálculo, el análisis y diseño por sismo de la estructura con los coeficientes que se establecen en el presente libro;
 
-VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados en caso de requerir estos últimos conforme al presente libro de Construcciones vigentes ante la Dirección de Obras Públicas y Planeación Municipal, conteniendo lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] P.O. 10 DE FEBRERO DE 2025)</small>
+
+VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados en caso de requerir estos últimos conforme al presente libro de Construcciones vigentes ante la Dirección de Desarrollo Urbano Municipal, conteniendo lo siguiente:
 
 a. Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles de la finca incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, etc.; indicando también su ubicación respecto del predio, y el uso o destino de cada espacio;
 
@@ -13267,9 +13465,9 @@ VIII. No se admitirán correcciones, enmendaduras, ni añadiduras de ningún tip
 
 Además, en los casos de construcción de casas en serie, se deberá presentar:
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
 
-I. Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por la Dirección de Agua Potables y Alcantarillado, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Obras Públicas y Planeación Municipal el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+I. Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por la Dirección de Agua Potables y Alcantarillado, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Desarrollo Urbano Municipal el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2021)</small>
 
@@ -13279,9 +13477,11 @@ III. Copia de un contrato temporal por consumo de agua para la construcción de 
 
 IV. Un juego de copias de planos firmado por el Perito Responsable de Obra por cada vivienda a edificar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1427.
 
-Se deberá presentar en todos los casos copia de la constancia de alineamiento y compatibilidad urbanística en sustitución de los documentos indicados en los puntos tres y cuatro, en los siguientes casos:
+Se deberá presentar en todos los casos copia de la Constancia Municipal de Compatibilidad Urbanística en sustitución de los documentos indicados en los puntos tres y cuatro, en los siguientes casos:
 
 I. Cuando la obra o ampliación, cuente con un espacio destinado a usos diferentes del habitacional;
 
@@ -13289,9 +13489,11 @@ II. Cuando el predio se ubique en una zona no regularizada como fraccionamiento 
 
 III. Cuando se trate de usos habitacional multifamiliar, dúplex, etc.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1428.
 
-Para el otorgamiento de licencias de construcción para edificios de oficinas, comercios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar a la Dirección de Obras Públicas:
+Para el otorgamiento de licencias de construcción para edificios de oficinas, comercios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar a la Dirección de Desarrollo Urbano:
 
 I. Solicitud de licencia de construcción y bitácora debidamente llenas y firmadas por el perito responsable de obra y los Peritos Especializados de requerirse estos últimos conforme al presente Libro;
 
@@ -13299,7 +13501,9 @@ II. Copia de la boleta del numero oficial obtenida en la propia Dirección;
 
 III. Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-IV. Copia de la constancia de Alineamiento y Compatibilidad Urbanística obtenida de la Dirección de Obras Públicas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+IV. Copia de la Constancia Municipal de Compatibilidad Urbanística obtenida de la Dirección de Desarrollo Urbano;
 
 V. Memoria de cálculo estructural y planos estructurales en dos tantos firmados por el Perito Responsable de Obra y el Perito Especializado (en los casos que se requieran de este último conforme al Libro de Construcciones) con el siguiente contenido:
 
@@ -13315,7 +13519,9 @@ e. Todo lo anterior, debe respetar lo estipulado en los requisitos estructurales
 
 VI. Corresponsiva de peritos especializados en los casos que prevé como requisito el Libro de Construcciones. En cada caso los Peritos signarán la solicitud de licencia, bitácora de obra y demás documentos acorde a la especialidad; y
 
-VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados vigentes ante la Dirección de Obras Públicas, en caso de requerir estos últimos conforme al presente Libro, conteniendo lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2025)</small>
+
+VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados vigentes ante la Dirección de Desarrollo Urbano, en caso de requerir estos últimos conforme al presente Libro, conteniendo lo siguiente:
 
 a. Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles de la finca incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, etc. indicando también su ubicación respecto del predio, y el uso o destino de cada espacio;
 
@@ -13327,7 +13533,9 @@ d. Croquis de localización del predio indicando las medidas de éste, distancia
 
 e. Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, nombre número y firma en original del perito responsable de la obra, escalas y acotaciones;
 
-f. Dictamen de impacto ambiental y constancia de Alineamiento y Compatibilidad urbanística;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+f. Dictamen de impacto ambiental y Constancia Municipal de Compatibilidad Urbanística;
 
 g. Cuando existan elevadores, escaleras eléctricas y/o grúas mecánicas, deberá presentar planos, memoria de cálculo y especificaciones de la empresa firmados por el Ingeniero Mecánico Electricista radicado en este Municipio;
 
@@ -13337,19 +13545,27 @@ i. Se requerirá la autorización del proyecto por parte de la Secretaría de Pl
 
 j. Autorización del Instituto de Salud del Estado de Aguascalientes para la construcción, remodelación, ampliación o modificación de clínicas, hospitales, centros de salud, laboratorios, rayos X y similares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1429.
 
-Para otorgar licencia de construcción para estaciones de servicio o gasolineras se requiere presentar a la Dirección de Obras Públicas Municipal:
+Para otorgar licencia de construcción para estaciones de servicio o gasolineras se requiere presentar a la Dirección de Desarrollo Urbano Municipal:
 
 I. Solicitud y bitácora llenas y firmadas por perito responsable de obra, perito especializado en mecánica de suelos y perito especializado en estructuras;
 
 II. Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-III. Copia de la boleta del número oficial expedida por la Dirección de Obras Públicas Municipal;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
 
-IV. Copia de la constancia de Alineamiento y Compatibilidad Urbanística expedida por la Dirección de Obras Públicas;
+III. Copia de la boleta del número oficial expedida por la Dirección de Desarrollo Urbano Municipal;
 
-V. Dictamen de impacto ambiental autorizado ante la Dirección de Obras Públicas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+IV. Copia de la Constancia Municipal de Compatibilidad Urbanística expedida por la Dirección de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+V. Dictamen de impacto ambiental autorizado ante la Dirección de Desarrollo Urbano;
 
 VI. Memoria de cálculo estructural y planos estructurales, firmados por el Perito Responsable de Obra y por un Perito Especializado en Estructuras;
 
@@ -13375,17 +13591,23 @@ XVI. Presentar Dictamen de Impacto Ambiental autorizado por las instancias corre
 
 XVII. Además de lo anterior: y
 
-a. El proyecto deberá cumplir con las especificaciones de PEMEX, para proyecto y construcción de estaciones de servicio vigente, así como las restricciones indicadas en la constancia de alineamiento y compatibilidad urbanística, en el presente libro y el Código Urbano para el Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+a. El proyecto deberá cumplir con las especificaciones de PEMEX, para proyecto y construcción de estaciones de servicio vigente, así como las restricciones indicadas en la Constancia Municipal de Compatibilidad Urbanística, en el presente libro y el Código Urbano para el Estado de Aguascalientes;
 
 b. Se requerirá la autorización del proyecto por parte de la Secretaría de Planeación del Estado en desarrollos comerciales y de servicios que ocupen una superficie superior a cinco mil metros cuadrados;
 
 c. Cuando el proyecto presente algún espacio o espacios que carezcan de ventilación natural, únicamente en los casos que el presente Libro lo considera factible, deberá presentar planos y constancia de la empresa comercial que proveyó el equipo, que indique la capacidad de ventilación de la instalación de aire acondicionado y/o extractores, conforme a lo que indica para ésta el título correspondiente a proyecto arquitectónico del presente Libro; y
 
-d. Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la constancia de Alineamiento y Compatibilidad Urbanística.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+d. Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la Constancia Municipal de Compatibilidad Urbanística.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1430.
 
-Para que se expidan licencias de demolición, se deberán presentar ante la Dirección de Obras Públicas Municipal los siguientes documentos:
+Para que se expidan licencias de demolición, se deberán presentar ante la Dirección de Desarrollo Urbano Municipal los siguientes documentos:
 
 I. Recibo de pago o contrato de servicios de agua potable y alcantarillado correspondiente al predio donde se ubica la finca a demoler;
 
@@ -13407,7 +13629,9 @@ Para obras de reposición y/o modificación de banquetas se requiere presentar:
 
 I. Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
-II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Obras Públicas.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Desarrollo Urbano.
 
 ###### ARTÍCULO 1433.
 
@@ -13415,7 +13639,9 @@ Para obras de cepas para alojar instalaciones se requiere presentar:
 
 I. Recibo de pago o contrato de servicio de agua potable y alcantarillado;
 
-II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Obras Públicas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Desarrollo Urbano;
 
 III. Obtener las especificaciones constructivas en la Secretaría de Obras Públicas Municipales;
 
@@ -13503,11 +13729,11 @@ IV. Las vialidades de tipo primario, son aquellas cuya función es la de facilit
 
 Perito Responsable de Obra, es la persona física que se hace responsable de la observancia de este Libro en las obras para las que otorgue su responsiva.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1440.
 
-La calidad de Perito Responsable de Obra o Perito Especializado, se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Obras Públicas y Planeación.
+La calidad de Perito Responsable de Obra o Perito Especializado, se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Desarrollo Urbano y Planeación.
 
 ###### ARTÍCULO 1441.
 
@@ -13563,15 +13789,21 @@ VII. Refrendar su calidad de Perito en el mes de enero de cada año actualizando
 
 Las funciones del Perito Responsable de Obra y en su caso del Perito Especializado, en aquellas obras para las que haya dado su responsiva profesional, terminarán:
 
-I. Cuando ocurra cambio, suspensión, abandono o retiro del Perito Responsable de Obra y en su caso del Perito Especializado. En este caso se deberá levantar un acta asentado en detalle el avance de la obra hasta ese momento, la cual será suscrita por una persona designada por la Dirección de Obras Públicas y Planeación Municipal, por el Perito Responsable y por el propietario de la obra; el cambio de Perito Responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Dirección de Obras Públicas ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo Perito;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+I. Cuando ocurra cambio, suspensión, abandono o retiro del Perito Responsable de Obra y en su caso del Perito Especializado. En este caso se deberá levantar un acta asentado en detalle el avance de la obra hasta ese momento, la cual será suscrita por una persona designada por la Dirección de Desarrollo Urbano Municipal, por el Perito Responsable y por el propietario de la obra; el cambio de Perito Responsable no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Dirección de Desarrollo Urbano ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo Perito;
 
 II. Cuando no ha refrendado su calidad de Perito Responsable de Obra y en su caso del Perito Especializado. El (sic) este caso se suspenderán las obras en proceso de ejecución para las que haya dado responsiva profesional; y
 
-III. Cuando la Dirección de Obras Públicas autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+III. Cuando la Dirección de Desarrollo Urbano autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1446.
 
-Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres posteriores (sic) a la de la terminación de la obra. Dentro del mismo lapso, la Dirección de Obras Públicas y Planeación Municipal podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
+Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres posteriores (sic) a la de la terminación de la obra. Dentro del mismo lapso, la Dirección de Desarrollo Urbano Municipal podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
 ### CAPÍTULO III. De los Proyectos Arquitectónicos
 
@@ -13851,7 +14083,9 @@ Las características y dimensiones de las circulaciones horizontales deberán aj
 
 I. Todos los locales de un edificio deberá (sic) tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
 
-II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será, de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Obras Públicas y Planeación Municipal;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será, de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Desarrollo Urbano Municipal;
 
 III. Los pasillos y los corredores no deberán tener salientes o tropezones que disminuya su anchura, a una altura inferior a dos metros cincuenta centímetros; y
 
@@ -13943,17 +14177,21 @@ Las edificaciones deberán contar con las instalaciones y equipos requeridos par
 
 Las escaleras y rampas de edificios que no sean unifamiliares, deberán construirse con materiales no combustibles.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1475.
 
-Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales, etc. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Obras Públicas determinará lo conducente.
+Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales, etc. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Desarrollo Urbano determinará lo conducente.
 
 ###### ARTÍCULO 1476.
 
 Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1477.
 
-Cuando se utilicen plafones a base de materiales que no sea a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Obras Públicas Municipal.
+Cuando se utilicen plafones a base de materiales que no sea a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Desarrollo Urbano Municipal.
 
 ###### ARTÍCULO 1478.
 
@@ -14071,7 +14309,9 @@ V. De no existir servicio público de drenaje sanitario, las aguas negras deber�
 
 VI. Las tuberías de ramaleo interior, de la instalación sanitaria de las edificaciones, deberán tener como mínimo un diámetro de cincuenta y un milímetros si conducen exclusivamente aguas jabonosas y de setenta y seis milímetros como mínimo si conducen aguas pluviales y/o aguas negras; y
 
-VII. Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Obras Públicas Municipal.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+VII. Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Desarrollo Urbano Municipal.
 
 ###### ARTÍCULO 1487.
 
@@ -14119,9 +14359,11 @@ Cada vivienda de un edificio deberá contar con sus propios servicios sanitarios
 
 En el proyecto de las viviendas, deberá tomarse en cuenta el crecimiento de éstas a fin de que de antemano sean consideradas las soluciones constructivas finales y arquitectónicas de las mismas. La vivienda progresiva deberá contar en un principio con un área mínima de 33 metros cuadrados.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1498.
 
-Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Obras Públicas Municipal, con el fin de que armonicen con el conjunto. Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
+Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Desarrollo Urbano Municipal, con el fin de que armonicen con el conjunto. Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
 
 ###### ARTÍCULO 1499.
 
@@ -14627,17 +14869,23 @@ Los Peritos Responsables de obra, o los propietarios de una obra que no requiera
 
 Durante la ejecución de cualquier construcción, el Perito Responsable de Obra, el Propietario y el constructor, tomarán las precauciones, adoptarán las medidas técnicas y realizarán los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de los terceros, así como para evitar los daños que directa o indirectamente pudiere causar la ejecución de la obra. Deberán usarse redes de seguridad o cinturones de seguridad con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1576.
 
-Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Obras Públicas. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la propia Dirección para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Desarrollo Urbano. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la propia Dirección para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1577.
 
-El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Obras Públicas. El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
+El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Desarrollo Urbano. El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1578.
 
-Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Obras Públicas Municipal. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
+Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Desarrollo Urbano Municipal. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
 
 ###### ARTÍCULO 1579.
 
@@ -14681,9 +14929,11 @@ En las obras de construcción, deberán proporcionarse a los trabajadores servic
 
 La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y en los planos constructivos y deberán satisfacer las normas de calidad establecidas.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1587.
 
-La Dirección de Obras Públicas exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
+La Dirección de Desarrollo Urbano exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
 
 ###### ARTÍCULO 1588.
 
@@ -14693,17 +14943,23 @@ El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que
 
 Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos químicos o biológicos que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1590.
 
-Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Obras Públicas para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
+Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Desarrollo Urbano para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1591.
 
-Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados. Para los efectos de este Artículo, deberá presentarse ante la Dirección de Obras Públicas Municipal la autorización por escrito del propietario del predio en cuestión.
+Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados. Para los efectos de este Artículo, deberá presentarse ante la Dirección de Desarrollo Urbano Municipal la autorización por escrito del propietario del predio en cuestión.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1592.
 
-Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Obras Públicas, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Desarrollo Urbano, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
 
 ###### ARTÍCULO 1593.
 
@@ -14715,13 +14971,17 @@ ARTÍCULO 1694 (SIC).- Los propietarios estarán obligados a reponer por su cuen
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1596.
 
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Obras Públicas.
+Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1597.
 
-Cuando se requiera reubicar postes, ya sea de C. F. E., telefonía, alumbrado público, similar o análogo, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección de Obras Públicas y Planeación Municipal.
+Cuando se requiera reubicar postes, ya sea de C. F. E., telefonía, alumbrado público, similar o análogo, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección de Desarrollo Urbano Municipal.
 
 ###### ARTÍCULO 1598.
 
@@ -14739,11 +14999,15 @@ II. De marquesinas; cuando los trabajos se ejecuten a más de diez metros de alt
 
 III. Fijos: En las obras que se ejecuten en un predio a una distancia menor de diez metros de la vía pública, se colocarán tapiales fijos que cubran todo el frente de la misma. Cuando la fachada quede al paño del alineamiento, el tapial podrá abarcar una faja anexa hasta de cincuenta centímetros sobre la banqueta. Previa solicitud, podrá concederse mayor superficie de ocupación de banqueta; y
 
-IV. De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquéllas en que la invasión de la acera lo amerite, la Dirección de Obras Públicas podrá exigir, que se construya un paso cubierto, además del tapial.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+IV. De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquéllas en que la invasión de la acera lo amerite, la Dirección de Desarrollo Urbano podrá exigir, que se construya un paso cubierto, además del tapial.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1600.
 
-Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de la (sic) señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Obras Públicas Municipal su traslado provisional a otro lugar. Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
+Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de la (sic) señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Desarrollo Urbano Municipal su traslado provisional a otro lugar. Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
 
 ###### ARTÍCULO 1601.
 
@@ -14767,35 +15031,47 @@ Durante el proceso de demolición se tomarán las precauciones necesarias para e
 
 Los trabajadores deberán efectuar los trabajos de demolición usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro que sea necesario de acuerdo con el tipo de demolición.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1606.
 
-Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Obras Públicas podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños. La autorización que la Dirección de Obras Públicas otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Desarrollo Urbano podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños. La autorización que la Dirección de Desarrollo Urbano otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1607.
 
-Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo. La Dirección de Obras Públicas señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.
+Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo. La Dirección de Desarrollo Urbano señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1608.
 
-La Dirección de Obras Públicas podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
+La Dirección de Desarrollo Urbano podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
 
 ### CAPÍTULO V. De las Mediciones y Trazos
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1609.
 
-En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el Perito Responsable de Obra considere necesario o la Dirección de Obras Públicas Municipal lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
+En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el Perito Responsable de Obra considere necesario o la Dirección de Desarrollo Urbano Municipal lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
 
 ###### ARTÍCULO 1610.
 
 En los planos de cimentación se deberán indicar si se requiere el registro de movimientos verticales, y las características y periodicidad de las nivelaciones correspondientes.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1611.
 
-Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
+Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la Constancia Municipal de Compatibilidad Urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1612.
 
-Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Obras Públicas. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
+Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Desarrollo Urbano. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
 ###### ARTÍCULO 1613.
 
@@ -14811,9 +15087,11 @@ El procedimiento de ejecución de excavaciones deberá garantizar que no se reba
 
 Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de Mecánica de Suelos particular para cada caso.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1616.
 
-Previa autorización de la Dirección de Obras Públicas Municipal, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
+Previa autorización de la Dirección de Desarrollo Urbano Municipal, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
 
 ###### ARTÍCULO 1617.
 
@@ -14891,9 +15169,11 @@ Las cimbras se desplantarán sobre firmes suficientemente capaces de soportar la
 
 El Perito Responsable verificará que previamente al colado de cualquier elemento de concreto de la estructura, la cimbra correspondiente presente las características de los proyectos arquitectónicos y estructurales. Dicha verificación deberá asentarse en el libro de bitácora.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1633.
 
-Los andamios que se utilicen para construir, reparar o demoler una edificación, deberán fabricarse e instalarse de tal manera, que proporcionen las condiciones necesarias de seguridad. La Dirección de Obras Públicas podrá ordenar que se presente una memoria de diseño. Los andamios deberán ser revisados periódicamente para verificar que se encuentren en condiciones óptimas de servicio y seguridad.
+Los andamios que se utilicen para construir, reparar o demoler una edificación, deberán fabricarse e instalarse de tal manera, que proporcionen las condiciones necesarias de seguridad. La Dirección de Desarrollo Urbano podrá ordenar que se presente una memoria de diseño. Los andamios deberán ser revisados periódicamente para verificar que se encuentren en condiciones óptimas de servicio y seguridad.
 
 ###### ARTÍCULO 1634.
 
@@ -14941,9 +15221,11 @@ La ejecución de las estructuras de madera deberá ajustarse a las especificacio
 
 Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1642.
 
-Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Obras Públicas Municipal.
+Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Desarrollo Urbano Municipal.
 
 ###### ARTÍCULO 1643.
 
@@ -15039,15 +15321,19 @@ Los elementos de concreto simple, reforzado o presforzado que se encuentren expu
 
 ### CAPÍTULO IX. De las Estructuras Metálicas
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1661.
 
-Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias. Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Obras Públicas.
+Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias. Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Desarrollo Urbano.
 
 ###### ARTÍCULO 1662.
 
 En el montaje de las estructuras se observará lo siguiente:
 
-I. El montaje deberá efectuarse con el equipo apropiado.- Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas; Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Vialidad Municipal y notificar a la Dirección de Obras Públicas Municipal;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+I. El montaje deberá efectuarse con el equipo apropiado.- Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas; Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Vialidad Municipal y notificar a la Dirección de Desarrollo Urbano Municipal;
 
 II. Anclajes.- Antes de iniciar la colocación de la estructura, el Perito Responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
@@ -15179,13 +15465,17 @@ V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruido
 
 VI. Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1685.
 
-La Dirección de Obras Públicas Municipal, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia. En construcciones ya ejecutadas, la Dirección de Obras Públicas Municipal podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+La Dirección de Desarrollo Urbano Municipal, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia. En construcciones ya ejecutadas, la Dirección de Desarrollo Urbano Municipal podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1686.
 
-Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el Artículo anterior, la Dirección de Obras Públicas Municipal ordenará, con base en dictamen técnico lo siguiente:
+Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el Artículo anterior, la Dirección de Desarrollo Urbano Municipal ordenará, con base en dictamen técnico lo siguiente:
 
 I. La restitución de inmediato al uso aprobado, si esto puede hacerse sin la necesidad de ejecutar obras; y
 
@@ -16153,9 +16443,11 @@ V. Colaborar con el Síndico Municipal cuando haya que aplicar una sanción, seg
 
 VI. Las demás que le confiera el Presidente Municipal o el Coordinador General de Inspección Municipal.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1810.
 
-Son facultades de los titulares de las Direcciones de Obras Públicas y Servicios Públicos en materia de inspección municipal:
+Son facultades de los titulares de las Direcciones de Obras Públicas, Desarrollo Urbano y Servicios Públicos en materia de inspección municipal:
 
 I. Presentar el programa de actividades a realizar en su área administrativa;
 
@@ -16435,19 +16727,27 @@ III. Cuando el propietario o poseedor de una construcción señalada como peligr
 
 IV. Cuando se invada la vía pública con una construcción; y
 
-V. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+V. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia Municipal de Compatibilidad Urbanística.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1847.
 
-En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Libro y las demás disposiciones legales aplicables la Dirección Obras (sic) Públicas Municipal, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Libro y las demás disposiciones legales aplicables la Dirección de Desarrollo Urbano Municipal, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1848.
 
-Si el propietario o poseedor del predio en el que la Dirección Obras (sic) Públicas se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Dirección de Administración y Finanzas Municipal efectuará su cobro por medio del procedimiento económico coactivo.
+Si el propietario o poseedor del predio en el que la Dirección Desarrollo Urbano se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Dirección de Administración y Finanzas Municipal efectuará su cobro por medio del procedimiento económico coactivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 1849.
 
-Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección de Obras Públicas podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
+Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección de Desarrollo Urbano podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
 
 I. Cuando la obra se haya ejecutado sin licencia;
 
@@ -16489,11 +16789,17 @@ c. Por la falta de placa del perito responsable;
 
 II. Grupo Dos:
 
-a. Por tener escombro en la vía pública sin el permiso correspondiente de la Dirección de Obras Públicas y Planeación Municipal;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
-b. Por tirar escombro en los lugares no autorizados por la Dirección de Obras Públicas y Planeación Municipal;
+a. Por tener escombro en la vía pública sin el permiso correspondiente de la Dirección de Desarrollo Urbano Municipal;
 
-c. Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas o sin el permiso de la Dirección de Obras Públicas y Planeación Municipal;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+b. Por tirar escombro en los lugares no autorizados por la Dirección de Desarrollo Urbano Municipal;
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+c. Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas o sin el permiso de la Dirección de Desarrollo Urbano Municipal;
 
 d. Por falta de visitas a la obra y firma de bitácora correspondiente, por parte del perito responsable;
 
@@ -16529,9 +16835,11 @@ Las infracciones especificadas en el artículo anterior serán aplicables indist
 
 Para toda violación a las normas y disposiciones municipales en materia de construcciones, no especificadas de manera expresa en el presente capítulo, se aplicará una sanción de cinco a cien veces el salario mínimo independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1856.
 
-La Dirección de Obras Públicas podrá revocar la licencia de construcción cuando:
+La Dirección de Desarrollo Urbano podrá revocar la licencia de construcción cuando:
 
 I. Se hayan dictado con base en informes o documentos falsos o erróneos o emitidos con dolo o error, una vez comprobado lo anterior;
 
@@ -17096,3 +17404,27 @@ P.O. 21 DE OCTUBRE DE 2024.
 PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “REFORMA Y ADICIÓN DE VARIOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE EL LLANO”.]
+
+PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE "REFORMA Y ADICIÓN DE VARIOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE EL LLANO".]
+
+PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA Y ADICIÓN DE VARIOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE EL LLANO”.]
+
+PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
