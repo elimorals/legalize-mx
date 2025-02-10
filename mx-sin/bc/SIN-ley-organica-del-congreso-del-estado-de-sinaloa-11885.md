@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2023-08-25"
+last_updated: "2025-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -319,11 +319,11 @@ VI.- Por concluir el término para el cual fueron elegidos.
 
 Recibida la constancia de mayoría o de asignación proporcional, antes del día 30 de septiembre del año de la elección los Diputados electos deberán presentarse a la Secretaría General del Congreso y registrarse en el libro que a ese efecto debe llevarse en la misma, asentándose la fecha de presentación, nombre y apellidos, distrito o circunscripción electoral, domicilio, acompañando además, copia de su constancia de mayoría o de asignación proporcional, su currícula, entregándose al interesado por parte del Congreso la certificación respectiva y convocándolo a la junta previa prevista en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 34.
 
-El 30 de septiembre del año de la elección, a las diez horas, se llevará a cabo una junta previa a la instalación de la Legislatura, con la presencia de los Diputados propietarios electos, a fin de preparar su instalación. Si no concurriera la mayoría, la Mesa Directiva de la Legislatura saliente o su Diputación Permanente, citará para el día siguiente, en forma verbal, a los concurrentes y por escrito o por otro medio adecuado a los faltantes, a fin de que acudan.
+El 29 de septiembre del año de la elección, a las diez horas, se llevará a cabo una junta previa a la instalación de la Legislatura, con la presencia de los Diputados propietarios electos, a fin de preparar su instalación. Si no concurriera la mayoría, la Mesa Directiva de la Legislatura saliente o su Diputación Permanente, citará para el día siguiente, en forma verbal, a los concurrentes y por escrito o por otro medio adecuado a los faltantes, a fin de que acudan.
 
 El Presidente de la Mesa Directiva de la Cámara saliente, o de su Diputación Permanente, en esta reunión previa:
 
@@ -335,11 +335,11 @@ B).- Exhortará a los Diputados a integrarse a los Grupos Parlamentarios conform
 
 C).- Citará a los Diputados electos para la sesión de instalación y dará a conocer el procedimiento previsto en la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 35.
 
-Para la instalación de la Cámara de Diputados se reunirán éstos el día primero de octubre del año de la elección, presididas por la Mesa Directiva de la Cámara saliente o de su Diputación Permanente y se procederá en la forma siguiente:
+Para la instalación de la Cámara de Diputados se reunirán éstos el día treinta de septiembre del año de la elección, presididas por la Mesa Directiva de la Cámara saliente o de su Diputación Permanente y se procederá en la forma siguiente:
 
 A).- El Presidente pedirá al Secretario proceda a dar lectura a la lista de los Diputados electos y comprobando que se tiene la concurrencia que prescribe el Artículo 28 de la Constitución Política del Estado, le informará al Presidente;
 
@@ -349,9 +349,9 @@ C).- Acto continuo, el Presidente saliente invitará a los Diputados a elegir la
 
 D).- Dado a conocer el resultado de la votación por el Secretario, termina la función de la Mesa Directiva de la Legislatura saliente o de su Diputación Permanente, por lo cual se retira del presidium y los integrantes de la Mesa Directiva electa pasan a ocupar su lugar en éste. A continuación nombrará una Comisión que se encargará de acompañar a los integrantes de la Mesa Directiva de la Legislatura saliente o de la Diputación Permanente, al abandonar el recinto; y
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
-E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá en voz alta: "La (número ordinario que corresponda) Legislatura del Estado de Sinaloa, se declara legítimamente constituida instalada y abre hoy, primero de octubre de (año que corresponda) su Primer Período Ordinario de Sesiones, correspondiente al Primer Año de su Ejercicio Constitucional".
+E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá en voz alta: "La (número ordinario que corresponda) Legislatura del Estado de Sinaloa, se declara legítimamente constituida e instalada y abre hoy, treinta de septiembre de (año que corresponda) su Primer Período Ordinario de Sesiones, correspondiente al Primer Año de su Ejercicio Constitucional".
 
 ## TITULO CUARTO. DE LA ORGANIZACION DEL CONGRESO
 
@@ -1493,11 +1493,13 @@ ARTICULO 96 BIS.- La Secretaría General del Congreso apoyará a la Mesa Directi
 
 Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y administrativo se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad, eficiencia y paridad de género. El reglamento establecerá y desarrollará las bases para la permanencia, promoción, estímulos, capacitación y actualización del personal.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 98.
 
-De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, del Instituto de Investigaciones Parlamentarias, de Gestión y Vinculación Social y las Unidades de Estudios Económicos, de Sistemas y Cómputo y de Acceso a la Información Pública; así como los Departamentos y áreas que sean necesarias para el debido cumplimiento de sus atribuciones.
+De la Secretaria General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Archivos, del Instituto de Investigaciones Parlamentarias, de Gestión y Vinculación Social y las Unidades de Estudios Económicos, de Sistemas y Cómputo y de Acceso a la Información Pública; así como los Departamentos y áreas que sean necesarias para el debido cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 La designación y nombramiento de las personas Titulares de la Secretaría y Direcciones del Congreso, serán hechos por el Pleno, a propuesta de la Junta de Coordinación Política, atendiendo el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
@@ -1585,9 +1587,11 @@ La Auditoría Superior del Estado, como órgano técnico de fiscalización gener
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 106.
 
-El Congreso del Estado tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuera necesario. El primero comenzará el día primero de Diciembre y terminará a más tardar el día primero de Abril siguiente y, el segundo principiará el día primero de junio y concluirá a más tardar el día primero de Agosto inmediato posterior.
+El Congreso del Estado tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuera necesario. El primero iniciará el día treinta de Septiembre y concluirá a más tardar el treinta y uno de enero del siguiente año y, el segundo se abrirá el día primero de abril y concluirá a más tardar el día treinta y uno de julio inmediato posterior.
 
 Cada período ordinario de sesiones durará el tiempo necesario para tratar los asuntos de su competencia, pudiéndose terminar los trabajos antes de las fechas mencionadas.
 
@@ -2481,11 +2485,33 @@ El Canal Legislativo estará a cargo de la Comisión de Biblioteca, Cultura Parl
 
 En tanto no se establezca previsión presupuestal para la creación de un Canal Televisivo exclusivo del Poder Legislativo del Estado, la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, con apoyo de la Dirección de Gestión y Vinculación Social celebrarán convenios de colaboración con las diversas repetidoras o canales de naturaleza cultural y académica que se proyectan en el Estado, a través de los sistemas ordinario o de cable local, con el fin de posibilitar la inmediata transmisión en vivo o diferido de las sesiones y trabajos de esta Soberanía.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO III BIS A. DE LA GACETA PARLAMENTARIA
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+ARTICULO 225 BIS A.- El Congreso del Estado contará con un medio informativo electrónico interno que se denomina Gaceta Parlamentaria, mediante el cual se dará publicidad a los actos que, en el ejercicio de sus atribuciones emiten el Pleno, la Junta de Coordinación Política y la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
+ARTICULO 225 BIS B.- Deberán publicarse en la Gaceta Parlamentaria, cuando menos, los siguientes asuntos:
+
+I. El orden del día de las sesiones;
+
+II. Las actas de las sesiones;
+
+III. Las iniciativas;
+
+IV. Los dictámenes de las Comisiones;
+
+V. Las comunicaciones de las dependencias del Poder Legislativo, que sean de interés del Pleno; y
+
+VI. Los demás actos que considere pertinente el Pleno, la Junta de Coordinación Política y la Mesa Directiva.
+
 ### CAPITULO IV. DE LA CONSULTA POPULAR
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 226.
 
@@ -2507,7 +2533,7 @@ IV.- Bases para su desarrollo.
 
 Una vez concluida la consulta pública y previo informe que al respecto se presente a la Cámara, el Congreso podrá ordenar la publicación de la memoria de la consulta o de las conclusiones en su caso.
 
-### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
+### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 229.
 
@@ -2535,9 +2561,7 @@ VI.- El Ejecutivo del Estado no podrá hacer alguna observación ni oponerse a s
 
 ## TITULO SEXTO. DE LAS FUNCIONES DE JURADO
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
+### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
 
 ###### ARTICULO 230.
 
@@ -2602,6 +2626,10 @@ Los procedimientos de Juicio Político, declaratoria de procedencia por la comis
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ## TITULO SEPTIMO. DEL BANDO SOLEMNE Y FACULTADES DE NOMBRAMIENTO
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 241.
 
@@ -2958,3 +2986,9 @@ Las Diputadas y los Diputados que a la entrada en vigor del presente Decreto no 
 ###### ARTÍCULO CUARTO.
 
 Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto la Junta de Coordinación Política propondrá al Pleno la reestructuración de Comisiones Permanentes.
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 880 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
