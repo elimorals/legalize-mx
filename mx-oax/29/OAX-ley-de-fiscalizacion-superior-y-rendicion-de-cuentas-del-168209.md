@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-168209
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-30"
-last_updated: "2023-11-25"
+last_updated: "2025-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE NOVIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
 
 Ley publicada en la Décima Tercera Sección del Número 39 del Periódico Oficial del Estado de Oaxaca, el sábado 30 de septiembre de 2023.
 
@@ -135,7 +133,9 @@ XXXVIII. Tribunal: El Tribunal de Justicia Administrativa y Combate a la Corrupc
 
 XXXIX. Unidad de Medida y Actualización: El valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes; y,
 
-XL. Unidad Técnica: Es la instancia técnica de la Comisión que funge como Órgano Interno de Control de la Auditoría Superior y tiene a su cargo la revisión, evaluación y fiscalización del funcionamiento de esta.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+XL. Unidad Técnica: La Unidad Técnica de Fiscalización y Control del Congreso del Estado, instancia técnica que funge como Órgano Interno de Control de la Auditoría Superior y tiene a su cargo la revisión, evaluación y fiscalización del funcionamiento de esta.
 
 ###### Artículo 3.
 
@@ -635,17 +635,23 @@ V. Citar a la persona Titular de la Auditoría Superior para conocer en lo espec
 
 VI. Recibir el proyecto de presupuesto anual de la Auditoría Superior y turnarlo en sus términos a la Junta de Coordinación Política del Congreso del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal, así como analizar el informe anual de su ejercicio;
 
-VII. Evaluar el desempeño de la Auditoría Superior respecto al cumplimiento de su mandato, atribuciones y ejecución de las Auditorías; proveer lo necesario para garantizar su autonomía presupuestal, financiera, técnica y de gestión; así como, requerir informes sobre el avance de los trabajos de fiscalización.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+VII. Conocer la evaluación que realice la Unidad Técnica del desempeño de la Auditoría Superior respecto al cumplimiento de su mandato, atribuciones y ejecución de las Auditorías; proveer lo necesario para garantizar su autonomía presupuestal, financiera, técnica y de gestión; así como, requerir informes sobre el avance de los trabajos de fiscalización.
 
 La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior cumple con las atribuciones que conforme a la Constitución Local y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la Gestión Financiera y el desempeño de las Entidades Fiscalizables, en los resultados de los Programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos Estatales y Municipales que ejerzan;
 
-VIII. Proponer al Pleno del Congreso del Estado el Reglamento Interior de la Unidad Técnica;
+VIII. (DEROGADA, P.O. 10 DE FEBRERO DE 2025)
 
-IX. Proponer a la Junta de Coordinación Política del Congreso del Estado la contratación o remoción del personal de la Unidad Técnica, misma que auxiliará a la Comisión en el desempeño de sus funciones;
+IX. (DEROGADA, P.O. 10 DE FEBRERO DE 2025)
 
-X. Ordenar a la Unidad Técnica la práctica de Auditorías a la Auditoría Superior;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
 
-XI. Aprobar el programa de actividades de la Unidad Técnica y requerirle todo tipo de información relativa a sus funciones, de igual forma, aprobar políticas, lineamientos y manuales que la Unidad Técnica requiera para el ejercicio de sus funciones;
+X. Solicitar a la Unidad Técnica la práctica de Auditorías a la Auditoría Superior;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+XI. Requerir la información relativa a las funciones de la Unidad Técnica;
 
 XII. Aprobar los indicadores que utilizará la Unidad Técnica para la evaluación del desempeño de la Auditoría Superior y en su caso, los elementos metodológicos que sean necesarios para dicho efecto;
 
@@ -1125,9 +1131,11 @@ La Auditoría Superior deberá rendir un informe de la aplicación y resultados 
 
 ### CAPÍTULO III. DE LA VIGILANCIA DE LA AUDITORÍA SUPERIOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 110.
 
-Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones existirá la Unidad Técnica, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los Servidores Públicos de la Auditoría Superior, la cual forma parte de la estructura de la Comisión.
+Para el efecto de apoyar al Congreso del Estado en el cumplimiento de sus atribuciones existirá la Unidad Técnica, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los Servidores Públicos de la Auditoría Superior, la cual formará parte de la estructura administrativa del Congreso del Estado.
 
 La Unidad Técnica funge como Órgano Interno de Control de la Auditoría Superior y está facultada para imponer las sanciones administrativas cuando se trate de faltas no graves, previstas en las disposiciones aplicables en materia de responsabilidades de los Servidores Públicos; tratándose de faltas graves, podrá promover la imposición de sanciones ante el Tribunal, en los términos dispuestos por las disposiciones legales aplicables en materia de responsabilidades administrativas.
 
@@ -1177,17 +1185,21 @@ La Unidad Técnica recibirá solicitudes y denuncias sobre la función que reali
 
 Dichas solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido a la Unidad Técnica, la que pondrá a disposición de los particulares los formatos correspondientes.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 113.
 
-La persona Titular de la Unidad Técnica será designada por el Pleno del Congreso del Estado a propuesta de la Comisión, la que presentará una terna de candidatos que deberán cumplir con los requisitos que esta Ley establece para los Auditores Especiales de la Auditoría Superior. Lo anterior, se llevará a cabo a través de los procedimientos y plazos que fije la misma Comisión.
+La persona Titular de la Unidad Técnica será designada por el Pleno del Congreso del Estado a propuesta de la Junta de Coordinación Política, la que presentará una terna de candidatos que deberán cumplir con los requisitos que esta Ley establece para los Auditores Especiales de la Auditoría Superior. Lo anterior, se llevará a cabo a través de los procedimientos y plazos que fije la Junta de Coordinación Política.
 
-La Comisión abrirá registro público para que las organizaciones de la sociedad civil o académicas se inscriban para participar como observadores del proceso para la integración de la terna referida en el párrafo anterior, para lo cual, se procederá mediante el método de insaculación para elegir cinco observadores.
+La Junta de Coordinación Política abrirá registro público para que las organizaciones de la sociedad civil o académicas se inscriban para participar como observadores del proceso para la integración de la terna referida en el párrafo anterior, para lo cual, se procederá mediante el método de insaculación para elegir cinco observadores.
 
-La persona Titular de la Unidad Técnica durará en su encargo cuatro años y podrá desempeñar nuevamente ese cargo por otro periodo igual. Podrá ser removida por el Pleno del Congreso del Estado cuando por negligencia deje de cumplir con sus funciones y atribuciones establecidas en esta Ley.
+La persona titular de la Unidad Técnica durará en su encargo tres años y cada período será desempeñado de manera alternada por una mujer y por un hombre. La persona titular podrá ser removida por el Pleno del Congreso del Estado cuando por negligencia deje de cumplir con sus funciones y atribuciones establecidas en esta Ley, o por haber cometido acciones u omisiones que contravengan la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 114.
 
-La persona Titular de la Unidad Técnica será responsable administrativamente ante la Comisión y el propio Congreso del Estado, al cual deberá rendir un informe anual de su gestión, con independencia de que pueda ser citado extraordinariamente por esta, cuando así se requiera para dar cuenta del ejercicio de sus funciones.
+La persona Titular de la Unidad Técnica será responsable administrativamente ante la Junta de Coordinación Política, y deberá rendir un informe anual de su gestión al Congreso del Estado, con independencia de que pueda ser citado extraordinariamente cuando así se requiera para dar cuenta del ejercicio de sus funciones.
 
 ###### Artículo 115.
 
@@ -1203,11 +1215,15 @@ IV. Proporcionar la información y documentación que obre en sus archivos a los
 
 V. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 116.
 
-Para el ejercicio de las atribuciones que tiene conferidas, la Unidad Técnica contará con los Servidores Públicos, las áreas administrativas y los recursos económicos que a propuesta de la Comisión apruebe el Congreso del Estado y se determinen en el presupuesto de la misma.
+Para el ejercicio de las atribuciones que tiene conferidas, la Unidad Técnica contará con los Servidores Públicos, las áreas administrativas y los recursos económicos que, a propuesta de la Junta de Coordinación Política, apruebe el Congreso del Estado y se determinen en el presupuesto de la misma.
 
-El reglamento de la Unidad Técnica que expida el Congreso del Estado establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras áreas administrativas que sean indispensables para el debido funcionamiento de la misma.
+El Reglamento de la Unidad Técnica será expedido por la Junta de Coordinación Política y establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras áreas administrativas que sean indispensables para su debido funcionamiento.
+
+Corresponderá a la Junta de Coordinación Política aprobar el programa de actividades de la Unidad Técnica.
 
 ###### Artículo 117.
 
@@ -1234,3 +1250,25 @@ CUARTO. La Auditoría Superior deberá emitir en un plazo de ciento ochenta día
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 13 de Septiembre de 2023.- Dip. Miriam de los Ángeles Vázquez Ruiz, Presidenta.- Dip. Nancy Natalia Benítez Zárate, Vicepresidenta.- Dip. Dennis García Gutiérrez, Secretaria.- Dip. María Luisa Matus Fuentes, Secretaria.- Dip. Elvia Gabriela Pérez López, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 14 de Septiembre de 2023. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Ing. Salomón Jara Cruz.- Rúbrica.- El Secretario de Gobierno. Lcdo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2502.- MEDIANTE EL CUAL DEROGA LA LETRA g. DE LA FRACCIÓN XXXI DEL TERCER PÁRRAFO DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA LA FRACCIÓN XL DEL ARTÍCULO 2, LAS FRACCIONES VII, X, Y XI DEL ARTÍCULO 56, EL PRIMER PÁRRAFO DEL ARTÍCULO 110, EL ARTÍCULO 113, EL ARTÍCULO 114 Y EL ARTÍCULO 116; Y SE DEROGAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 56 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. El Congreso del Estado de Oaxaca deberá aprobar las adecuaciones legales que correspondan para armonizarlas conforme a lo dispuesto en el presente Decreto, en el plazo de sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+QUINTO. El Congreso del Estado de Oaxaca, a propuesta de la Junta de Coordinación Política, deberá designar a la persona Titular de la Unidad Técnica conforme a lo establecido en el Artículo 113 del presente Decreto, en el plazo de 20 días naturales contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEXTO. La Junta de Coordinación Política (sic) Estado deberá expedir el Reglamento de la Unidad Técnica a que se refiere este Decreto, en el plazo de sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SÉPTIMO. La Junta de Coordinación Política (sic) Estado deberá expedir los manuales, lineamientos y demás normatividad interna de carácter jurídico, así como prever las asignaciones o adecuaciones financieras que requiera la Unidad Técnica para su debido funcionamiento y operación, en el plazo de ochenta días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+OCTAVO. La Unidad Técnica de la Comisión de Vigilancia de la Auditoria Superior de Fiscalización del Estado de Oaxaca deberá realizar los actos correspondientes a la entrega-recepción que correspondan con la Unidad Técnica de Fiscalización y Control del Congreso del Estado de Oaxaca a que se refiere el presente Decreto, conforme a la legislación aplicable y para los efectos a que haya lugar.
