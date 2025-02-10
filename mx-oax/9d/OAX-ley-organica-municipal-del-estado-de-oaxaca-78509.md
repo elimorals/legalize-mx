@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2024-11-02"
+last_updated: "2025-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -667,7 +667,9 @@ V. Constituir y operar el Consejo de Protección Civil Municipal, y llevar a las
 
 G. En materia ambiental
 
-I. Formular, conducir y evaluar la política ambiental municipal en congruencia con los criterios que, en su caso, formule la Federación y el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+I. Promover, respetar, proteger y garantizar el derecho de toda persona a vivir en un medio ambiente sano y en armonía con la naturaleza, para su desarrollo, salud y bienestar, y disfrutar de manera responsable de la biodiversidad, así como formular, conducir y evaluar la política ambiental municipal en congruencia con los criterios que, en su caso, formule la Federación y el Gobierno del Estado;
 
 II. Participar en la creación y administración de sus reservas territoriales y ecológicas, así como en la elaboración y aplicación de programas de ordenamiento en la materia; autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales;
 
@@ -4698,3 +4700,11 @@ P.O. 2 DE NOVIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2487- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL APARTADO G DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; REFORMA LA FRACCIÓN I DEL ARTÍCULO 6, Y LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
