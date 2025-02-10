@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2025-01-10"
+last_updated: "2025-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "BCS"
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2025.
+
+(REPUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2025)
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -433,11 +435,11 @@ IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 1
 
 V.- Proponer al Pleno la designación del Oficial Mayor, Titular de la Auditoría Superior del Estado, Contralor, Asesores Jurídicos y Directores de las áreas a que se refiere esta ley, así como expedir el nombramiento respectivo, teniendo en cuenta la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, garantizando el principio de igualdad de género;
 
-> <small>(REFORMADA, B.O. 10 DE ENERO DE 2025)</small>
+(REFORMADA, B.O. 10 DE ENERO DE 2025) (REPUBLICADA, B.O. 10 DE FEBRERO DE 2025)
 
-VI.- Proponer al Congreso en Sesión Privada la destitución de las y los funcionarios de libre designación a que se refiere el artículo 83 Quater, cuando por no cumplir con los requisitos o condiciones para su permanencia en el cargo, o por el buen funcionamiento del Congreso, deba hacerse la remoción y proponer a las personas que deban sustituirlas.
+VI.- Proponer al Congreso en Sesión Privada la destitución de las y los funcionarios de libre designación a que se refiere el artículo 83 Quater, cuando por no cumplir con los requisitos o condiciones para su permanencia en el cargo, o por el buen funcionamiento del Congreso, deba hacerse la remoción y proponer a las personas que deban sustituirlas;
 
-VII.- (DEROGADA, B.O. 10 DE ENERO DE 2025)
+VII.- (DEROGADA, B.O. 10 DE ENERO DE 2025) (REPUBLICADA, B.O. 10 DE FEBRERO DE 2025)
 
 VIII.- Proponer al pleno del Congreso, las bases para la aplicación de sanciones disciplinarias a los diputados;
 
@@ -1605,7 +1607,7 @@ El reglamento interno de la Contraloría del Poder Legislativo que expida el Con
 
 Artículo 72
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2025)</small>
+(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2025) (REPUBLICADO PRIMER PÁRRAFO, B.O. 10 DE FEBRERO DE 2025)
 
 El Contralor o Contralora del Poder Legislativo, será designado a propuesta de la Junta de Gobierno y Coordinación Política y durará en su cargo un periodo de cuatro años, sin posibilidad de reelección inmediata.
 
@@ -1613,7 +1615,7 @@ Para ocupar el cargo de Contralor se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, con residencia en el Estado no menor de cinco años anteriores a la fecha de su designación;
 
-> <small>(REFORMADA, B.O. 10 DE ENERO DE 2025)</small>
+(REFORMADA, B.O. 10 DE ENERO DE 2025) (REPUBLICADA, B.O. 10 DE FEBRERO DE 2025)
 
 II.- Contar con título y cédula profesional de Licenciado en Derecho, Contaduría Pública, Economía o administración Pública o administradora pública, legalmente expedidos y contar con una experiencia profesional de cuando menos cinco años en su ejercicio comprobables;
 
@@ -1883,11 +1885,11 @@ La Unidad de Evaluación y Control es un Órgano Técnico especializado encargad
 
 Esta Unidad formará parte de la estructura de la Comisión permanente de Vigilancia de la Auditoria Superior del Estado y dependerá jerárquicamente de ella.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ENERO DE 2025)</small>
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ENERO DE 2025) (REPUBLICADO, B.O. 10 DE FEBRERO DE 2025)
 
 ### CAPÍTULO DÉCIMO SEXTO. DE LA PERMANENCIA EN LOS CARGOS PÚBLICOS
 
-> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2025)</small>
+(ADICIONADO, B.O. 10 DE ENERO DE 2025) (REPUBLICADO, B.O. 10 DE FEBRERO DE 2025)
 
 Artículo 83 Quater
 
@@ -1897,7 +1899,7 @@ I.- Actuar con diligencia, eficiencia, cuidado y responsabilidad en el ejercicio
 
 II.- Actuar con integridad en el desempeño de sus funciones; y
 
-III. Utilizar la información que por el ejercicio de su cargo tenga acceso, sin obtener o tratar de obtener un beneficio para sí o para un tercero o para amagar a alguien.
+III.- Utilizar la información que por el ejercicio de su cargo tenga acceso, sin obtener o tratar de obtener un beneficio para sí o para un tercero o para amagar a alguien.
 
 ## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
@@ -3231,6 +3233,8 @@ CUARTO. Una vez instalado el Comité para la institucionalización de la políti
 
 B.O. 10 DE ENERO DE 2025.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 3122 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+(REPUBLICADO, B.O. 10 DE FEBRERO DE 2025)
 
-ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+## [N. DE E. TRANSITORIO DEL “DECRETO 3122 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO. - El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
