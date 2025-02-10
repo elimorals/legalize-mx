@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2024-07-27"
+last_updated: "2025-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -235,7 +235,9 @@ El Estado y los Municipios ejercerán sus atribuciones en materia de aprovechami
 
 Son asuntos de competencia del Estado a través de la Secretaría:
 
-I. Formular, conducir y evaluar la política ambiental estatal en congruencia con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+I. Promover, respetar, proteger y garantizar el derecho de toda persona en el Estado, a vivir en un medio ambiente sano y en armonía con la naturaleza, para su desarrollo, salud y bienestar, y disfrutar de manera responsable de la biodiversidad que en él se encuentra, así como formular, conducir y evaluar la política ambiental estatal en congruencia con el Plan Estatal de Desarrollo;
 
 II. Formular, aprobar y ejecutar el Programa Estatal de Protección al Ambiente en congruencia con el Plan Estatal de Desarrollo;
 
@@ -337,7 +339,9 @@ XLIV. Promover y proponer a las dependencias y entidades de la administración p
 
 Corresponden a los municipios del Estado de Oaxaca, con el concurso, según el caso, del Gobierno del Estado, dentro de sus respectivas jurisdicciones, las siguientes facultades:
 
-I. La formulación, conducción y evaluación de la política ambiental municipal en congruencia con las disposiciones jurídicas federales y estatales sobre la materia;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
+
+I. Promover y garantizar el derecho de toda persona en el Municipio, a vivir en un medio ambiente sano y en armonía con la naturaleza, para su desarrollo, salud y bienestar, y disfrutar de manera responsable de la biodiversidad que en él se encuentra, así como la formulación, conducción y evaluación de la política ambiental municipal en congruencia con las disposiciones jurídicas federales y estatales sobre la materia;
 
 II. La aplicación de los instrumentos de política ambiental previstos en la presente Ley;
 
@@ -3310,3 +3314,11 @@ P.O. 27 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2487 - MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL APARTADO G DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; REFORMA LA FRACCIÓN I DEL ARTÍCULO 6, Y LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
