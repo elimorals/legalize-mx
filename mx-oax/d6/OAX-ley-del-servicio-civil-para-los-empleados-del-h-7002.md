@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-h-7002"
 country: "mx"
 rank: "ley"
 publication_date: "1974-05-11"
-last_updated: "2021-03-13"
+last_updated: "2025-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de mayo de 1974.
 
@@ -373,9 +373,11 @@ j).- Por prisión, en caso de sentencia condenatoria por algún delito.
 
 k).- Por supresión de plaza en el Procedimiento respectivo.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 40.
 
-Si el empleado reclama la revocación de su nombramiento y dicha revocación resulta injustificada, tendrá derecho a que se le reinstale en su empleo a que se le indemnice con tres meses de sueldo. En uno y otro caso, se le abonarán los sueldos que haya dejado de percibir. El Ayuntamiento se librará de la obligación de reinstalar al empleado, cubriéndole la indemnización de tres meses de sueldo.
+Si el empleado reclama la revocación de su nombramiento y aquella resulta injustificada, tendrá derecho a que se le reinstale en su empleo o a que se le indemnice con tres meses de sueldo. En uno y otro caso, se le abonarán los sueldos dejados de percibir, computados desde la fecha de revocación de su nombramiento hasta por un período máximo de doce meses. El Ayuntamiento se librará de la obligación de reinstalar al empleado, cubriendo la segunda de las prestaciones indicadas.
 
 ## TITULO TERCERO. DE LA ORGANIZACION COLECTIVA DE LOS EMPLEADOS DEL AYUNTAMIENTO
 
@@ -830,3 +832,13 @@ P.O. 13 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2274.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 19 BIS A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUÁREZ”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 384.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 40 DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DE OAXACA DE JUÁREZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Notifíquese el presente Decreto a las instancias pertinentes, para los efectos legales correspondientes.
