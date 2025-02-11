@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-130401"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2020-10-20"
+last_updated: "2025-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR, SANCIONAR, Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS; Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -659,7 +659,9 @@ La Comisión Intersecretarial estará integrada por los titulares de las siguien
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
+
+II. Secretaría de Seguridad y Protección Ciudadana;
 
 III. Secretaría de Comunicaciones y Transportes;
 
@@ -793,9 +795,13 @@ Las dependencias, entidades, e instituciones integrantes de la Comisión tendrá
 
 I. La Secretaría General de Gobierno, coordinará los trabajos de la Comisión y servirá de enlace con los titulares de los poderes ejecutivo, legislativo y judicial de los tres órdenes de gobierno, en materia de las políticas públicas de necesaria implementación, con el objeto de fortalecer la prevención y sanción de los delitos previstos en la Ley General, así como de la protección y asistencia de las víctimas de este delito, incluyendo apoyar las medidas necesarias para dar cumplimiento a la Ley Federal contra la Delincuencia Organizada en materia de protección de testigos y sus familias y demás agentes vinculados a la comisión del delito;
 
-II. La Secretaría de Seguridad Pública, diseñará e implementará programas de capacitación, formación y actualización en materia de prevención, investigación y sanción de la esclavitud, trata de personas o explotación, dirigidos, a los Agentes de la Policía Investigadora y de la policía procesal;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
 
-III. La Secretaría de Comunicaciones y Transportes, diseñará y ejecutará en coordinación con la Secretaría de Seguridad Pública, programas permanentes con el objeto de garantizar la vigilancia debida en las estaciones de ferrocarril, terminales de autobuses y otros medios de transporte, con el objeto de prevenir y detectar la probable comisión de los delitos en materia de trata de personas;
+II. La Secretaría de Seguridad y Protección Ciudadana, diseñará e implementará programas de capacitación, formación y actualización en materia de prevención, investigación y sanción de la esclavitud, trata de personas o explotación, dirigidos, a los Agentes de la Policía Investigadora y de la policía procesal;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
+
+III. La Secretaría de Comunicaciones y Transportes, diseñará y ejecutará en coordinación con la Secretaría de Seguridad y Protección Ciudadana, programas permanentes con el objeto de garantizar la vigilancia debida en las estaciones de ferrocarril, terminales de autobuses y otros medios de transporte, con el objeto de prevenir y detectar la probable comisión de los delitos en materia de trata de personas;
 
 IV. La Secretaría de Desarrollo Social y Regional, diseñará y aplicará modelos que permitan combatir las causas estructurales que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos previstos en la Ley General, con especial referencia a la pobreza, marginación y la desigualdad social;
 
@@ -825,7 +831,9 @@ c) Diseñará e implementará campañas estatales para prevenir y desalentar la 
 
 IX. La Fiscalía General del Estado:
 
-a) En coordinación con la Secretaría de Seguridad Pública, recabará la información relativa a la incidencia delictiva en materia de los delitos previstos en la Ley General y generará un banco de datos estatal que contendrá, como mínimo, la nacionalidad, edad, estado civil y sexo de los sujetos activo y pasivo, así como el modo de operar y la forma en que los presuntos responsables fueron detectados, detenidos y remitidos ante el Ministerio Público competente, ya sea del fuero común o federal.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+a) En coordinación con la Secretaría de Seguridad y Protección Ciudadana, recabará la información relativa a la incidencia delictiva en materia de los delitos previstos en la Ley General y generará un banco de datos estatal que contendrá, como mínimo, la nacionalidad, edad, estado civil y sexo de los sujetos activo y pasivo, así como el modo de operar y la forma en que los presuntos responsables fueron detectados, detenidos y remitidos ante el Ministerio Público competente, ya sea del fuero común o federal.
 
 b) Elaborará y ejecutará programas de prevención del delito de trata de personas, con la finalidad de fortalecer la denuncia ciudadana y la solidaridad social.
 
@@ -1009,23 +1017,29 @@ La Secretaría General instruirá a las diferentes áreas gubernamentales del Es
 
 El Instituto de Migración y Enlace Internacional del Estado, adoptará y ejecutará todas las medidas necesarias para proteger a los inmigrantes o emigrantes, y en particular a las mujeres, niñas, niños y adolescentes, en el lugar de partida, durante el viaje y en el lugar de destino.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 67.
 
-La Secretaría de Seguridad Pública del Estado, adoptará las medidas de prevención, vigilancia e inspección adecuadas para garantizar la vigilancia en las centrales de autobuses, estaciones de ferrocarril, en las garitas y en otros lugares públicos, a fin de impedir la comisión del delito de trata de personas y demás delitos previstos en esa Ley, capacitando debidamente a los agentes encargados, sobre las conductas desplegadas por los sujetos activos y pasivos que les permitan identificar víctimas y posibles víctimas de los delitos que establece la Ley General.
+La Secretaría de Seguridad y Protección Ciudadana, adoptará las medidas de prevención, vigilancia e inspección adecuadas para garantizar la vigilancia en las centrales de autobuses, estaciones de ferrocarril, en las garitas y en otros lugares públicos, a fin de impedir la comisión del delito de trata de personas y demás delitos previstos en esa Ley, capacitando debidamente a los agentes encargados, sobre las conductas desplegadas por los sujetos activos y pasivos que les permitan identificar víctimas y posibles víctimas de los delitos que establece la Ley General.
 
-En el caso de los aeropuertos, la Secretaría de Seguridad Pública se coordinará con las autoridades federales y militares para vigilar las perimetrales del aeropuerto.
+En el caso de los aeropuertos, la Secretaría de Seguridad y Protección Ciudadana se coordinará con las autoridades federales y militares para vigilar las perimetrales del aeropuerto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 68.
 
-La Secretaría de Seguridad Pública del Estado y las autoridades estatales y municipales competentes, deberán supervisar los establecimientos que puedan ser propicios para la comisión de los delitos en materia de trata de personas, realizando inspecciones en agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines, servicio de internet, baños públicos u otros.
+La Secretaría de Seguridad y Protección Ciudadana del Estado y las autoridades estatales y municipales competentes, deberán supervisar los establecimientos que puedan ser propicios para la comisión de los delitos en materia de trata de personas, realizando inspecciones en agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines, servicio de internet, baños públicos u otros.
 
 Para autorizar la operación de los establecimientos que presten servicio de internet, se verificará que cuenten con filtros parentales y defensa contra intromisiones no deseadas.
 
 Las autoridades estatales y municipales competentes, de conformidad con sus atribuciones y facultades, deberán adoptar las medidas necesarias para la inspección de las agencias de colocación o bolsas de trabajo, a fin de impedir que las personas que buscan trabajo, en especial las mujeres, niñas, niños y adolescentes se expongan al peligro de la trata de personas y demás delitos previstos en materia de trata de personas.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 69.
 
-La Fiscalía General del Estado y todos los mandos policiales de ésta y de la Secretaría de Seguridad Pública, así como los municipales, procederán a la búsqueda inmediata de cualquier mujer, niña, niño o adolescente o cualquier persona que le sea reportado como extraviado, sustraído o ausente, librando una alerta general a todas las instancias de procuración de justicia y policiales en todo el territorio nacional y fuera de éste, así como al Instituto de Migración y Enlace Internacional del Estado, al Instituto Nacional de Migración y a la Delegación de la Secretaría de Relaciones Exteriores en el Estado, para impedir que la persona reportada pueda ser sacada del país.
+La Fiscalía General del Estado y todos los mandos policiales de ésta y de la Secretaría de Seguridad y Protección Ciudadana, así como los municipales, procederán a la búsqueda inmediata de cualquier mujer, niña, niño o adolescente o cualquier persona que le sea reportado como extraviado, sustraído o ausente, librando una alerta general a todas las instancias de procuración de justicia y policiales en todo el territorio nacional y fuera de éste, así como al Instituto de Migración y Enlace Internacional del Estado, al Instituto Nacional de Migración y a la Delegación de la Secretaría de Relaciones Exteriores en el Estado, para impedir que la persona reportada pueda ser sacada del país.
 
 ###### ARTÍCULO 70.
 
@@ -1168,3 +1182,11 @@ P.O. 20 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0156.- SE REFORMAN LOS ARTÍCULOS 50 EN SU FRACCIÓN II; 54 EN SUS FRACCIONES II, III Y IX EN SU INCISO A); 67, 68 Y 69, DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS; Y PARA LA PROTECCIÓN Y ASISTENCIA DE LAS VICTIMAS DE ESTOS DELITOS, PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
