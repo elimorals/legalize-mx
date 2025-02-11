@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2024-12-04"
+last_updated: "2025-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -75,19 +75,21 @@ Todos los aspectos relacionados con su ejercicio, interpretación y cumplimiento
 
 La Educación Superior se regirá por la (sic) Leyes y Reglamentos vigentes, o en las que en lo sucesivo se expidan.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 5.
 
 La educación que imparte el Estado de Campeche, sus Municipios, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, serán un servicio público. Las inversiones que estos realicen en materia educativa se considerarán de interés social.
 
-La educación preescolar, primaria, secundaria y media superior son obligatorias para todos los habitantes del Estado y, es deber de todo ciudadano hacer que sus hijos, hijas o pupilos menores de edad la cursen.
+La educación inicial, preescolar, primaria, secundaria y media superior son obligatorias para todos los habitantes del Estado y, es deber de todo ciudadano hacer que sus hijos, hijas o pupilos menores de edad la cursen.
 
-Todos los habitantes del Estado tienen derecho a recibir una educación de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad; y, por lo tanto, las mismas oportunidades de acceso al sistema educativo nacional, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todos los habitantes del Estado tienen derecho a recibir una educación. La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
 
-El Estado está obligado a garantizar la calidad y el máximo logro de aprendizaje en los servicios educativos que se presten a los habitantes de la entidad y a ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas, asegurando la participación activa y con responsabilidad social de todos los involucrados en el proceso educativo, privilegiando la participación de los educandos, padres de familia y docentes, para alcanzar los fines a que se refiere el artículo 7° de la Ley General de Educación y los objetivos planteados en el Capítulo II de esta Ley, atendiendo el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General de Educación.
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
 
-Además de impartir la educación preescolar, la primaria, la secundaria y la media superior, el Estado promoverá y atenderá directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos, incluida la educación inicial, especial y superior, necesarios para el desarrollo de la entidad, apoyará la investigación científica y tecnológica, e impulsará el fortalecimiento y la difusión de la cultura nacional y universal.
+El Estado está obligado a ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas, asegurando la participación activa y con responsabilidad social de todos los involucrados en el proceso educativo, privilegiando la participación de los educandos, padres de familia y docentes, para alcanzar los fines a que se refiere el artículo 7° de la Ley General de Educación y los objetivos planteados en el Capítulo II de esta Ley, atendiendo el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General de Educación.
+
+Además de impartir la educación inicial, preescolar, la primaria, la secundaria y la media superior, el Estado promoverá y atenderá directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier medio, todos los tipos y modalidades educativos, especial y superior, necesarios para el desarrollo de la entidad, apoyará la investigación científica y tecnológica, e impulsará el fortalecimiento y la difusión de la cultura nacional y universal.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1642,3 +1644,11 @@ P.O. 4 DE DICIEMBRE DE 2024.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 59 POR EL QUE “SE REFORMA EL ARTÍCULO 5 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
