@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2025-01-13"
+last_updated: "2025-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -327,23 +327,23 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. El proyecto de presupuesto de egresos del Instituto deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El derecho de acceso a la información pública y la protección de datos personales será garantizado por los órganos encargados del control interno y vigilancia u homólogos de los poderes Ejecutivo, Legislativo y Judicial, municipios, así como de los órganos públicos autónomos del Estado y demás sujetos obligados, conforme los principios y bases establecidos en el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos y la Ley General en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos en que esta se emita por el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados por las dos terceras partes de los miembros de la Legislatura, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura del Estado, en la fecha y en los términos que disponga la ley.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-El órgano garante se regirá por la ley de la materia, en apego a los términos que establezca la ley general y su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+Para el ejercicio de estos derechos, los Sujetos Obligados se regirán por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad, así como por las bases y procedimientos establecidos en la Ley de la materia. La ley establecerá aquella información que se considere reservada o confidencial.
 
-Las resoluciones del órgano garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-El organismo garante tendrá un Consejo Consultivo, integrado por cuatro consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. La ley determinará los procedimientos de designación.
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
 Para el ejercicio del derecho de acceso a la información, regirán los principios y bases siguientes:
 
@@ -351,15 +351,23 @@ I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y
 
 Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
-II.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los Sujetos Obligados contarán con las facultades suficientes para su atención.
+
+Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la ley determinará la competencia para conocer los procedimientos relativos a su protección, verificación e imposición de sanciones.
 
 III.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-IV.- Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el órgano garante, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como el ejercicio de las atribuciones que determine la ley; asimismo deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
+
+IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante los órganos encargados del control interno y vigilancia u homólogos de los poderes Ejecutivo, Legislativo y Judicial, municipios, así como de los órganos públicos autónomos del Estado y demás sujetos obligados, en los términos que fije la ley. Además, estarán obligados a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como el ejercicio de las atribuciones que determine la ley.
 
 V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
-Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión.
 
 VI.- La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
@@ -367,11 +375,13 @@ VI.- La ley determinará la manera en que los sujetos obligados deberán hacer p
 
 VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes, y
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
 
-VIII.- Los sujetos obligados deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
+VIII. Los sujetos obligados deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizarán los derechos de transparencia, acceso a la información pública y la protección de datos personales, la rendición de cuentas, la participación ciudadana y la colaboración e innovación. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 
-Toda autoridad y servidor público estará obligado a coadyuvar con el órgano garante y sus integrantes para el buen desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+Toda autoridad y persona servidora pública estará obligada a coadyuvar con las autoridades de control interno y vigilancia u homólogos para el buen desempeño de sus funciones.
 
 ###### ARTICULO 22.
 
@@ -625,11 +635,27 @@ Las garantías previstas en las fracciones V, VII y IX también serán observada
 
 En todo proceso penal, la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 29.
 
-La imposición de las penas, su modificación y duración son propias y exclusivas de la Autoridad Judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe del valor diario de la unidad de medida y actualización. La multa impuesta a los trabajadores no asalariados no excederá del equivalente al valor diario de un día de su ingreso.
+La imposición de las penas, su modificación y duración son propias y exclusivas de la Autoridad Judicial. La investigación de los delitos corresponde al Ministerio Público, a la Secretaría de Seguridad Ciudadana del Ejecutivo Estatal y a las policías en el ámbito de su competencia, las cuales actuarán en coadyuvancia, así como bajo la conducción y mando del Ministerio Público en el ejercicio de esta función. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe del valor diario de la unidad de medida y actualización. La multa impuesta a los trabajadores no asalariados no excederá del equivalente al valor diario de un día de su ingreso.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+Las instituciones en materia de seguridad ciudadana en los distintos órdenes de gobierno, Ayuntamientos y procuración de justicia, en conjunto, integrarán el Sistema Estatal de Seguridad Ciudadana de Quintana Roo, con el objeto de articular y dar seguimiento a las estrategias en materia de paz y seguridad ciudadana con respeto a los derechos humanos y en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+El Sistema Estatal de Seguridad Ciudadana de Quintana Roo contará con un Secretariado Ejecutivo, el cual podrá realizar las acciones necesarias para lograr la homologación de estándares y criterios, así como una coordinación eficiente, transparente y responsable en todo momento en atención a los fines del Sistema Federal, Estatal y los objetivos de la Estrategia Estatal de Seguridad Ciudadana.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+Los Fondos de ayuda aportados por la Federación para la seguridad pública ciudadana, al Estado y los Municipios deberán ser destinados exclusivamente para estos fines. El debido ejercicio de estos Fondos será vigilado a través del Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+La Secretaría de Seguridad Ciudadana formulará, coordinará y dirigirá la Estrategia Estatal de Seguridad Ciudadana, así como los programas, las políticas y acciones respectivos; auxiliará a la persona titular del Poder Ejecutivo del Estado, en el ejercicio de las funciones en materia de Seguridad Ciudadana; le corresponderá dirigir la coordinación del Estado con el Sistema Nacional de Inteligencia en materia de seguridad pública, así como la coordinación del Sistema Estatal de Inteligencia preventiva en materia de seguridad ciudadana, en los términos que señale la ley y participará en las acciones de colaboración de los tres órdenes de gobierno, a través de las instituciones de seguridad pública y/o ciudadana que correspondan, los cuales además deberán de proporcionar la información de que dispongan o que recaben en la materia conforme a la ley. Podrá solicitar información a las instituciones y dependencias del Estado para la identificación y esclarecimiento de los hechos presuntamente constitutivos de delitos.
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -915,11 +941,11 @@ La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Po
 
 ### CAPITULO I. Principios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 49.
 
-El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial, quienes en el desempeño de sus actividades consolidarán el Estado Abierto. El Estado Abierto se conforma por Parlamento Abierto, Gobierno Abierto y Justicia Abierta, mismo que deberá regirse bajo los principios de transparencia, el acceso a la información, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
+El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial, quienes en el desempeño de sus actividades consolidarán el Estado Abierto. El Estado Abierto se conforma por Parlamento Abierto, Gobierno Abierto y Justicia Abierta, mismo que deberá regirse bajo los principios de transparencia, acceso a la información pública, rendición de cuentas, participación ciudadana, colaboración, innovación y gobernabilidad de las tecnologías de la información y comunicación para la gestión pública.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -950,6 +976,10 @@ De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la o
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+El Instituto Electoral de Quintana Roo tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y protección de datos personales a cargo de los partidos políticos estatales; también conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los partidos políticos estatales en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1119,9 +1149,9 @@ ARTICULO 51 BIS.- Esta constitución reconoce que los órganos públicos autóno
 
 Cada uno de los nombramientos de las personas titulares o de los integrantes de los órganos colegiados de los órganos públicos autónomos se realizarán en apego al principio de paridad de género. En la estructura orgánica de estos órganos se promoverá este principio.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-Los órganos públicos autónomos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
+Los órganos públicos autónomos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, el acceso a la información pública, la rendición de cuentas, la participación ciudadana, la colaboración, innovación y gobernabilidad de las tecnologías de la información y comunicación para la gestión pública.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1134,6 +1164,10 @@ El Informe será rendido conforme a lo dispuesto por la legislación aplicable, 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
 Cada órgano público autónomo contará con un órgano interno de control, a cargo de una persona titular, designada por la Legislatura del Estado conforme al procedimiento establecido en las leyes respectivas, con excepción de la persona Titular del Órgano Interno de Control del Tribunal Electoral del Estado, la cual será designada y removida por el Pleno del Tribunal conforme a lo dispuesto en la ley.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+Los Órganos Internos de Control tendrán competencia para conocer de los asuntos relacionados con el acceso a la información pública y protección de datos personales a cargo de los Órganos Públicos Autónomos; también conocerán de los recursos de revisión que interpongan los particulares respecto de las resoluciones que estos emitan en los términos que establezca la ley.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1687,9 +1721,7 @@ XLVII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigaci
 
 XLVIII.- Expedir leyes encaminadas a combatir el alcoholismo;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
-
-XLIX.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
+XLIX.- (DEROGADA, P.O. 11 DE FEBRERO DE 2025)
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2108,6 +2140,10 @@ Para el despacho de los negocios del orden administrativo, habrá el número de 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
 
 La función conciliatoria en materia laboral a que se refiere el tercer párrafo del artículo 97 de esta Constitución, estará a cargo del Centro de Conciliación Laboral del Estado, el cual tendrá personalidad jurídica y patrimonio propios, será especializado e imparcial, contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. El Centro de Conciliación Laboral del Estado se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley correspondiente. La designación y remoción del Titular del Centro de Conciliación Laboral del Estado, serán realizadas libremente por el Titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+El Centro de Conciliación Laboral del Estado tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y protección de datos personales a cargo de los Sindicatos Estatales y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones que estos emitan, en los términos que establezca la Ley.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -3855,9 +3891,9 @@ Los Ayuntamientos se instalarán el día 30 de septiembre del año que correspon
 
 Al término de la sesión de instalación, el Ayuntamiento procederá en sesión ordinaria a nombrar por mayoría de votos de sus integrantes a quienes ejerzan la titularidad de la Secretaría General, de la Tesorería, del Órgano Interno de Control, de la Dirección de Seguridad Pública Municipal y de las Direcciones de Ingresos y Egresos de la Tesorería Municipal. Dichos nombramientos, se realizará (sic) en apego al principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2025)</small>
 
-Los Ayuntamientos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, el acceso a la información, la rendición de cuentas, la participación ciudadana y la colaboración e innovación.
+Los Ayuntamientos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, el acceso a la información pública, la rendición de cuentas, la participación ciudadana, la colaboración, innovación y gobernabilidad de las tecnologías de la información y comunicación para la gestión pública.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4257,7 +4293,7 @@ e) A las personas titulares de las Magistraturas del Tribunal de Disciplina Judi
 
 f) A la o el Titular de la Auditoría Superior del Estado;
 
-g) A las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo;
+g) (DEROGADO, P.O. 11 DE FEBRERO DE 2025)
 
 h) A las o los Consejeros Electorales del Consejo General del Instituto Electoral de Quintana Roo;
 
@@ -4383,9 +4419,9 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los órdenes de gobierno estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, en apego a las bases, mecanismos y políticas del Sistema Nacional Anticorrupción. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría del Ejecutivo responsable del control interno, de la Presidencia del Tribunal de Justicia Administrativa y Anticorrupción del Estado, la presidencia del organismo garante que establece el artículo 21 de esta Constitución, así como por una persona representante del Tribunal de Disciplina Judicial del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
+I.- El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría del Ejecutivo responsable del control interno, de la Presidencia del Tribunal de Justicia Administrativa y Anticorrupción del Estado, así como por una persona representante del Tribunal de Disciplina Judicial del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -4518,6 +4554,10 @@ Los recursos económicos de que disponga el Estado y los Municipios se administr
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 Los resultados de dichos recursos serán evaluados por las instancias técnicas que sean competentes, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
+
+Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -6290,3 +6330,35 @@ Los recursos a que se refiere el párrafo anterior deberán ser concentrados por
 DÉCIMO PRIMERO. La Secretaría de Finanzas y Planeación del Estado de Quintana Roo, dotará al Instituto Electoral de Quintana Roo los recursos necesarios para la realización del proceso electoral extraordinario 2025, así como los recursos necesarios para la implementación, ejecución y consolidación de esta reforma constitucional al Poder Judicial del Estado de Quintana Roo.
 
 DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL LA “DECLARATORIA NÚMERO: 002 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Congreso del Estado de Quintana Roo deberá expedir las leyes y realizar las reformas secundarias que correspondan, en un plazo máximo de hasta noventa días naturales, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+En tanto se expiden y reforman las leyes referidas en el párrafo anterior, continuará aplicándose la legislación que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
+
+TERCERO. Una vez que entre en vigor la legislación a que hace referencia el artículo Segundo transitorio, se entenderá extinto el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo.
+
+Los actos jurídicos emitidos por el Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales.
+
+En el caso de instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a la Institución que asuma las funciones del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos presupuestales, financieros, humanos y materiales, así como los registros, padrones, plataformas y sistemas electrónicos del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, pasará a formar parte de la dependencia del Poder Ejecutivo Estatal que asuma sus atribuciones, en los términos del presente decreto y de la legislación secundaria que al efecto se emita.
+
+CUARTO. Las personas Comisionadas del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, que a la entrada en vigor del presente Decreto continúen en su encargo concluirán sus funciones a la entrada en vigor de la legislación a que alude el artículo Segundo transitorio, salvo aquellos cuya vigencia de nombramiento concluya previamente.
+
+QUINTO. Los derechos laborales de las personas servidoras públicas serán respetados en su totalidad en términos de la legislación aplicable.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 003 POR EL QUE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 29 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo dispuesto en el presente Decreto.
