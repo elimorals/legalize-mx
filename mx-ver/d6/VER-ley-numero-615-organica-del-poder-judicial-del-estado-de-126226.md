@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2025-01-29"
+last_updated: "2025-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 231 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 29 DE ENERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE FEBRERO DE 2025 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2025 (ABROGADA).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 12 DE FEBRERO DE 2025.]</small>
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -2831,7 +2831,9 @@ G.O. 29 DE ENERO DE 2025.
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-SEGUNDO. Se abroga la Ley 616 (sic) Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el seis de febrero de dos mil dieciocho, con las salvedades previstas en los transitorios siguientes.
+> <small>(F. DE E., G.O. 12 DE FEBRERO DE 2025)</small>
+
+SEGUNDO. Se abroga la Ley 615 Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el seis de febrero de dos mil dieciocho, con las salvedades previstas en los transitorios siguientes.
 
 TERCERO. Hasta en tanto las Magistradas y Magistrados electos en el proceso electoral extraordinario 2024-2025 tomen protesta y las y los integrantes del Órgano de Administración Judicial entren en funciones, la conformación actual del Poder Judicial se regirá para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias, nombramientos, designaciones, régimen de organización y operación y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave que se abroga.
 
