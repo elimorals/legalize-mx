@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-12-16"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -721,9 +721,9 @@ i) Innovación, Ciencia y Tecnología;
 
 j) Salud;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-k) Desarrollo Urbano y Puertos;
+k) Infraestructura, Desarrollo Urbano y Puertos;
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
@@ -737,9 +737,9 @@ m) Comunicaciones, Transportes y Movilidad;
 
 n) Desarrollo Rural;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-ñ) Desarrollo Industrial y Comercial;
+ñ) Economía, Industria y Comercio;
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
@@ -1977,15 +1977,25 @@ c) Los demás que la presente ley, la Junta de Gobierno o la Presidencia de la M
 
 1. Tendrán el carácter de sesión solemne aquellas en las cuales:
 
-a) Rindan la protesta constitucional los diputados al Congreso;
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-b) Rinda la protesta constitucional el titular del Poder Ejecutivo del Estado;
+a) Rindan la protesta constitucional las Diputadas y los Diputados al Congreso;
 
-c) Rindan la protesta constitucional los Magistrados del Supremo Tribunal de Justicia del Estado;
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-d) Asista a ellas el Presidente de los Estados Unidos Mexicanos;
+b) Rinda la protesta constitucional la persona titular del Poder Ejecutivo del Estado;
 
-e) Presente el titular del Poder Ejecutivo del Estado el informe a que se refiere la parte final de la fracción XXXIII del artículo 91 de la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+c) Rindan la protesta constitucional las Magistradas y los Magistrados del Supremo Tribunal de Justicia; las personas integrantes del Pleno del Tribunal de Disciplina Judicial y del Pleno del Órgano de Administración Judicial; y las Juezas y los Jueces;
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+d) Asista a ellas la Presidenta o Presidente de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+e) Presente la persona titular del Poder Ejecutivo del Estado el informe a que se refiere la parte final de la fracción XXXIII del artículo 91 de la Constitución Política del Estado;
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
@@ -2737,9 +2747,9 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 ###### ARTICULO 133.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; Magistrados del Tribunal de Justicia Administrativa; de los titulares de los órganos internos de control de los órganos constitucionalmente autónomos; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas; del Fiscal General de Justicia del Estado; y del Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
+1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistradas y Magistrados del Tribunal de Justicia Administrativa; de las personas titulares de los órganos internos de control de los órganos constitucionalmente autónomos; de la persona Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas; de la persona titular de la Fiscalía General de Justicia del Estado; y de la persona Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
@@ -3067,11 +3077,11 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 2. En el momento de rendir la protesta, el Gobernador del Estado, los diputados y demás asistentes deberán estar de pie. El presidente de la Mesa Directiva del Congreso permanecerá de pie mientras se rinde dicha protesta.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 151.
 
-Cuando se trate de la protesta constitucional que deba rendir algún Diputado, un Magistrado del Poder Judicial, o los Titulares de los órganos internos de control de los órganos constitucionalmente autónomos, el Presidente de la Comisión de Derechos Humanos del Estado o de cualquier otro servidor público obligado a otorgarla ante el Congreso, el Presidente designará una comisión que lo introduzca y acompañe a salir del Recinto.
+Cuando se trate de la protesta constitucional que deba rendir alguna Diputada o Diputado, una Magistrada o Magistrado del Poder Judicial, las personas integrantes del Pleno del Tribunal de Disciplina Judicial y del Pleno del Órgano de Administración Judicial; las Juezas o los Jueces; o las personas titulares de los órganos internos de control de los órganos constitucionalmente autónomos, la persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado o de cualquier otra persona servidora pública obligada a otorgarla ante el Congreso, la Presidencia designará una comisión que lo introduzca y acompañe a salir del Recinto.
 
 ###### ARTICULO 152.
 
@@ -4296,3 +4306,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que hace a la reforma a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-237 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 82, NUMERAL 1, INCISOS A), B), C), E) Y D); 133, NUMERAL 1; Y 151 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial de (sic) Estado.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-240 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, INCISOS K) Y Ñ), DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial de (sic) Estado.
