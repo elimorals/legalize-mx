@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2025-02-10"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -1493,11 +1493,11 @@ ARTICULO 96 BIS.- La Secretaría General del Congreso apoyará a la Mesa Directi
 
 Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y administrativo se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad, eficiencia y paridad de género. El reglamento establecerá y desarrollará las bases para la permanencia, promoción, estímulos, capacitación y actualización del personal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 98.
 
-De la Secretaria General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Archivos, del Instituto de Investigaciones Parlamentarias, de Gestión y Vinculación Social y las Unidades de Estudios Económicos, de Sistemas y Cómputo y de Acceso a la Información Pública; así como los Departamentos y áreas que sean necesarias para el debido cumplimiento de sus atribuciones.
+De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Archivos, del Instituto de Investigaciones Parlamentarias, de Gestión y Vinculación Social y las Unidades de Estudios Económicos, de Sistemas y Cómputo, de Acceso a la Información Pública y de Igualdad de Género; así como los Departamentos y áreas que sean necesarias para el debido cumplimiento de sus atribuciones.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
@@ -1559,11 +1559,47 @@ X.- Las demás que le asigne el Pleno, la Diputación Permanente, la Junta de Co
 
 Al frente del Instituto habrá un Director y contará con las unidades y Departamentos que fije su Reglamento Interior conforme al cual se desarrollarán sus funciones.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE FEBRERO DE 2025)</small>
+
+#### SECCIÓN TERCERA. DE LA UNIDAD DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTICULO 102 BIS.- la Unidad de Igualdad de Género será el área responsable de garantizar de manera efectiva el derecho fundamental a la igualdad entre mujeres y hombres, encargada de diseñar e implementar las estrategias para la transversalización e institucionalización de la perspectiva de género y una política protectora de derechos humanos e igualdad sustantiva, a través del fomento, promoción y generación de acciones y políticas públicas, dentro de su marco competencial.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTICULO 102 BIS A.- La Unidad de Igualdad de Género tendrá las siguientes atribuciones:
+
+I. Elaborar un programa anual de actividades e investigaciones estableciendo los criterios y acciones de investigación;
+
+II. Coadyuvar con las instancias competentes para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual;
+
+III. Apoyar a la Comisión de Igualdad, Género, Diversidad Sexual e Inclusión en las acciones o proyectos que realice;
+
+IV. Promover políticas laborales dirigidas a generar mecanismos para la conciliación de la vida laboral, familiar y personal;
+
+V. Brindar atención especializada a personas que laboren en el Congreso que requieran apoyo en temas de igualdad sustantiva y violencia contra la mujer;
+
+VI. Impulsar acciones y estrategias encaminadas a institucionalizar un lenguaje inclusivo no sexista, como parte del trabajo cotidiano en las áreas del Congreso del Estado;
+
+VII. Impartir cursos de capacitación en materia de igualdad de género;
+
+VIII. Realizar estudios en materia de derechos humanos de la mujer y de igualdad de género;
+
+IX. Integrar y actualizar permanentemente un banco de información jurídica, económica, política y social de perspectiva de género;
+
+X. Asesorar a la Comisión de Hacienda Pública y Administración, en la asignación, distribución y aplicación de recursos públicos de la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal correspondiente, para implementar los programas presupuestarios orientados a erradicar las brechas de desigualdad entre mujeres y hombres;
+
+XI. Diseñar, implementar y dar seguimiento al protocolo para fortalecer la igualdad sustantiva y no discriminación en el Congreso, vigilando el cumplimiento que den al mismo, una vez aprobado por la Junta de Coordinación Política;
+
+XII. Realizar las investigaciones que le sean solicitadas por la Secretaría General;
+
+XIII. Crear una Red Ciudadana por la Igualdad de Género con instituciones académicas, gubernamentales, organizaciones de la sociedad civil privadas y sociales para intercambiar experiencias, realizar acciones y fortalecer la colaboración ciudadana en pro de la igualdad de género y los derechos con perspectiva de género; y,
+
+XIV. Las demás que le asigne el Pleno, la Diputación Permanente, la Junta de Coordinación Política o la Secretaría General.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2008)</small>
-
-#### SECCION PRIMERA. DE LAS SESIONES
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2020)</small>
 
 ### CAPITULO IX. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
@@ -1627,7 +1663,9 @@ Para el caso de la apertura y clausura de sus períodos extraordinarios de sesio
 
 ### CAPITULO II. DEL PROCESO LEGISLATIVO
 
-#### SECCION SEGUNDA. DEL CEREMONIAL
+#### SECCION PRIMERA. DE LAS SESIONES
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 111.
 
@@ -1699,41 +1737,7 @@ Concluido el período de sesiones, los Diputados, con excepción de los que form
 
 Los titulares de las dependencias administrativas del Ejecutivo, asistirán a las sesiones de acuerdo a lo preceptuado por la Constitución, siempre que fueren enviados por el Gobernador o llamados por acuerdo de la Cámara para asistir a alguna discusión para que informen, cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades. Esta disposición se aplicará asimismo a los representantes del Supremo Tribunal de Justicia del Estado y de los Ayuntamientos.
 
-#### SECCION SEGUNDA BIS. DE LAS SESIONES Y REUNIONES VIRTUALES
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
-
-ARTICULO 133 BIS.- De manera excepcional, podrán celebrarse sesiones públicas del Pleno y de la Diputación Permanente, así como reuniones de las Comisiones Permanentes en una modalidad virtual, empleándose el uso de herramientas y tecnologías de la información y las comunicaciones que posibiliten el desarrollo de las funciones parlamentarias de manera no presencial o a distancia. Procederá la celebración de sesiones y reuniones públicas de manera virtual únicamente en los casos de fuerza mayor.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
-
-ARTICULO 133 BIS A.- Se considerarán causas de fuerza mayor las siguientes:
-
-I. Las contingencias y emergencias sanitarias declaradas por las autoridades competentes;
-
-II. Las contingencias y emergencias que deriven de fenómenos climatológicos, meteorológicos o ambientales que impidan la celebración de sesiones y reuniones al interior del recinto parlamentario; y
-
-III. Las derivadas del acatamiento a medidas y recomendaciones de las autoridades de protección civil.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
-
-ARTICULO 133 BIS B.- La Junta de Coordinación Política de manera conjunta con la Presidencia de la Mesa Directiva podrá acordar la celebración de sesiones públicas virtuales, debiéndose acreditar cualquiera de los supuestos establecidos en el artículo 133 BIS A de esta Ley.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
-
-ARTICULO 133 BIS C.- Las Presidencias de las Comisiones Permanentes podrán convocar a reuniones públicas virtuales cuando se acredite la actualización de cualquiera de los supuestos a que hace referencia el artículo 133 BIS A, previo acuerdo de la Junta de Coordinación Política y la Mesa Directiva. Sobreviniendo causa de fuerza mayor durante los recesos del Congreso, el acuerdo correspondiente se emitirá por la Diputación Permanente.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
-
-ARTICULO 133 BIS D.- Para la celebración de sesiones y reuniones públicas virtuales serán aplicables las mismas reglas que la presente Ley prevé para aquellas que se realizan con carácter presencial, salvo aquellas que por su naturaleza ameriten una realización física al interior del recinto parlamentario.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
-
-ARTICULO 133 BIS E.- Durante las sesiones y reuniones públicas virtuales únicamente podrán efectuarse votaciones nominales, debiéndose asentar en las actas correspondientes el sentido de los votos emitidos por las diputadas y los diputados. En las sesiones públicas virtuales no podrán agendarse para su votación mediante cedula procedimientos en los que se ejerzan facultades de nombramiento a cargo del Congreso.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
-
-ARTICULO 133 BIS F.- No podrán emplearse tecnologías de la información y las comunicaciones para sustituir mediante participaciones virtuales las asistencias de una parcialidad de Diputadas o Diputados a sesiones y reuniones que deban ser celebradas de manera presencial.
+#### SECCION SEGUNDA. DEL CEREMONIAL
 
 ###### ARTICULO 124.
 
@@ -1779,11 +1783,43 @@ Al término de la sesión de clausura del período ordinario de sesiones, el Pre
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JULIO DE 2020)</small>
 
+#### SECCION SEGUNDA BIS. DE LAS SESIONES Y REUNIONES VIRTUALES
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS.- De manera excepcional, podrán celebrarse sesiones públicas del Pleno y de la Diputación Permanente, así como reuniones de las Comisiones Permanentes en una modalidad virtual, empleándose el uso de herramientas y tecnologías de la información y las comunicaciones que posibiliten el desarrollo de las funciones parlamentarias de manera no presencial o a distancia. Procederá la celebración de sesiones y reuniones públicas de manera virtual únicamente en los casos de fuerza mayor.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS A.- Se considerarán causas de fuerza mayor las siguientes:
+
+I. Las contingencias y emergencias sanitarias declaradas por las autoridades competentes;
+
+II. Las contingencias y emergencias que deriven de fenómenos climatológicos, meteorológicos o ambientales que impidan la celebración de sesiones y reuniones al interior del recinto parlamentario; y
+
+III. Las derivadas del acatamiento a medidas y recomendaciones de las autoridades de protección civil.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS B.- La Junta de Coordinación Política de manera conjunta con la Presidencia de la Mesa Directiva podrá acordar la celebración de sesiones públicas virtuales, debiéndose acreditar cualquiera de los supuestos establecidos en el artículo 133 BIS A de esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS C.- Las Presidencias de las Comisiones Permanentes podrán convocar a reuniones públicas virtuales cuando se acredite la actualización de cualquiera de los supuestos a que hace referencia el artículo 133 BIS A, previo acuerdo de la Junta de Coordinación Política y la Mesa Directiva. Sobreviniendo causa de fuerza mayor durante los recesos del Congreso, el acuerdo correspondiente se emitirá por la Diputación Permanente.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS D.- Para la celebración de sesiones y reuniones públicas virtuales serán aplicables las mismas reglas que la presente Ley prevé para aquellas que se realizan con carácter presencial, salvo aquellas que por su naturaleza ameriten una realización física al interior del recinto parlamentario.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS E.- Durante las sesiones y reuniones públicas virtuales únicamente podrán efectuarse votaciones nominales, debiéndose asentar en las actas correspondientes el sentido de los votos emitidos por las diputadas y los diputados. En las sesiones públicas virtuales no podrán agendarse para su votación mediante cedula procedimientos en los que se ejerzan facultades de nombramiento a cargo del Congreso.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS F.- No podrán emplearse tecnologías de la información y las comunicaciones para sustituir mediante participaciones virtuales las asistencias de una parcialidad de Diputadas o Diputados a sesiones y reuniones que deban ser celebradas de manera presencial.
+
 #### SECCION TERCERA. DE LAS INICIATIVAS
-
-#### SECCION CUARTA. DE LOS DICTAMENES
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 134.
 
@@ -1925,7 +1961,9 @@ Las iniciativas de Ley que presente la Legislatura del Estado ante el Congreso d
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE AGOSTO DE 2023)</small>
 
-#### SECCION QUINTA. DE LAS DISCUSIONES
+#### SECCION CUARTA. DE LOS DICTAMENES
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 148.
 
@@ -2045,7 +2083,7 @@ Aquellos proyectos de dictámenes que no se hayan analizado o discutido por la C
 
 Si un dictamen adolece de uno de los requisitos establecidos en el artículo 148 de la presente Ley aun cuando haya sido emitido por la Comisión o Comisiones que lo analizaron no podrá ser sometido al Pleno a su consideración. Para tales efectos la Junta de Coordinación Política lo analizará y lo comunicará a la Presidencia de la Mesa Directiva para que lo informe a la Comisión o Comisiones respectivas, las cuales subsanarán dicho aspecto dentro de los cinco días hábiles siguientes a la fecha en que se les notifique.
 
-#### SECCION SEXTA. DE LAS VOTACIONES
+#### SECCION QUINTA. DE LAS DISCUSIONES
 
 ###### ARTICULO 163.
 
@@ -2225,7 +2263,7 @@ Al empezar la discusión, podrán los Representantes del Ejecutivo informar a la
 
 Los Diputados, cuando aporten algún escrito como anexo a su intervención, pueden solicitar que se transcriba en el acta, siempre que entreguen dicho escrito a la Secretaría.
 
-#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
+#### SECCION SEXTA. DE LAS VOTACIONES
 
 ###### ARTICULO 192.
 
@@ -2371,9 +2409,7 @@ Se entenderá por mayoría absoluta la votación de la mitad más uno de las Dip
 
 Se entenderá por mayoría calificada la votación de las dos terceras partes de la totalidad de las Diputadas o Diputados integrantes del Congreso, o bien, las dos terceras partes de las Diputadas o Diputados presentes en la sesión del Pleno, según disponga el ordenamiento respectivo.
 
-#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
+#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
 
 ###### ARTICULO 209.
 
@@ -2395,7 +2431,9 @@ Para ratificar un Proyecto de Ley o de Decreto devuelto por el Ejecutivo con obs
 
 Se reputará aprobado por el Ejecutivo, todo proyecto de Ley o Decreto que no sea devuelto con observaciones al Congreso dentro de los primeros ocho días útiles contados desde la fecha en que lo reciba, a no ser que corriendo ese término hubiere el Congreso cerrado sus sesiones; en ese caso, la devolución deberá hacerse el primer día útil del nuevo período ordinario de sesiones.
 
-#### SECCIÓN NOVENA. DE LAS RESOLUCIONES DEL CONGRESO
+#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2023)</small>
 
 ###### ARTICULO 214.
 
@@ -2422,6 +2460,8 @@ En esta dispensa de trámites no se entienden comprendidos los que se originen d
 (DEROGADO, P.O. 25 DE AGOSTO DE 2023)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE AGOSTO DE 2023)</small>
+
+#### SECCIÓN NOVENA. DE LAS RESOLUCIONES DEL CONGRESO
 
 ###### ARTICULO 218.
 
@@ -2992,3 +3032,15 @@ P.O. 10 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 880 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECETO NÚMERO 28 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General realizará las gestiones administrativas necesarias para el funcionamiento de la Unidad de Igualdad de Género; dicha Unidad en un plazo no mayor a 60 días hábiles posteriores a la designación de su titular, elaborará su propuesta de reglamento interior para la aprobación de la Junta de Coordinación Política del Congreso del Estado.
