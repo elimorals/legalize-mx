@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-secretariado-ejecutivo-del-sistema-estatal-de-174831"
 country: "mx"
 rank: "ley"
 publication_date: "2024-10-15"
-last_updated: "2024-10-15"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL SECRETARIADO EJECUTIVO DEI SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en el Número 19 Ordinario del Periódico Oficial del Estado de Quintana Roo, el martes 15 de octubre de 2024.
 
@@ -111,7 +111,9 @@ X. Gestionar ante las autoridades federales competentes, la ministración de los
 
 XI. Coadyuvar y proporcionar a la Auditoría Superior de la Federación y demás instancias de fiscalización, la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de la Ley;
 
-XII. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos por las dependencias ejecutoras y por los municipios;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XII. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de ayuda para la seguridad pública ciudadana por las dependencias ejecutoras y por los municipios;
 
 XIII. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema;
 
@@ -133,9 +135,17 @@ XXI. Asesorar normativamente a los municipios sobre la aplicación de los recurs
 
 XXII. Presentar quejas o denuncias ante las autoridades competentes, respecto al manejo y aplicación indebidos de los recursos de los fondos federales o estatales, derivado del incumplimiento de la Ley General, la Ley de Seguridad, la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
 XXIII. Actuar, a través de su titular, como Secretaría Técnica en el Consejo Estatal, conforme a lo establecido en el artículo 41 y demás relativos y aplicables de la Ley de Seguridad, con todas las actuaciones necesarias para la organización, realización, toma de asistencia y seguimiento de las sesiones del Consejo Estatal, así como de los acuerdos que se tomen en éste, y
 
-XXIV. Las demás que le confieran las leyes, reglamentos, acuerdos, decretos y que sean necesarias para cumplir con los objetivos del Sistema.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXIV. Auditar, que los fondos de ayuda federal para la seguridad pública ciudadana y los fondos de seguridad ciudadana, según corresponda, sean destinados exclusivamente para estos fines, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXV. Las demás que le confieran las leyes, reglamentos, acuerdos y decretos que resulten necesarias para cumplir con los objetivos del Sistema.
 
 ###### Artículo 7.
 
@@ -303,7 +313,7 @@ IX. Autorizar la contratación de despachos contables externos de acuerdo a la l
 
 X. Fijar las reglas generales a las que deberá sujetarse el Secretariado Ejecutivo, en la celebración de acuerdos, convenios y contratos con Dependencias y Entidades de la Administración Pública de los tres niveles de Gobierno, así como con los organismos del sector público, privado y social, nacionales o extranjeros, para la ejecución de acciones y programas correspondientes al cumplimiento del objeto del organismo;
 
-XI. Vigilar el exacto cumplimiento de esta Ley y demás normas aplicables pudiendo al efecto solicitar a las autoridades competentes el cumplimiento de las obligaciones que les resulten;
+XI. Vigilar el exacto cumplimiento de esta Ley, y demás normas aplicables pudiendo al efecto solicitar a las autoridades competentes el cumplimiento de las obligaciones que les resulten;
 
 XII. Resolver los casos no previstos en la presente Ley y su reglamento, mediante acuerdo que emita, conforme a las disposiciones jurídicas aplicables;
 
@@ -524,3 +534,13 @@ DIPUTADO SECRETARIO:
 C. RICARDO VELAZCO RODRÍGUEZ.
 
 En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, promulgo el presente Decreto número 009 en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Chetumal, Quintana Roo, a 20 de septiembre de 2024.- Lic. María Elena H. Lezama Espinosa, Gobernadora del Estado.- Rúbrica.- Conforme a los artículos 93 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y 11 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, refrendado por la Secretaria de Gobierno, Lic. María Cristina Torres Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 091 POR EL QUE SE REFORMA LA FRACCIÓN XXX Y SE ADICIONAN LAS FRACCIONES VIII BIS Y XXII BIS DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; SE REFORMAN LAS FRACCIONES XII, XXIII, XXIV Y SE ADICIONA LA FRACCIÓN XXV DEL ARTÍCULO 6 DE LA LEY DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO; Y SE ADICIONA LA FRACCIÓN V TER DEL APARTADO A DEL ARTÍCULO 12 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo dispuesto en el presente Decreto.
