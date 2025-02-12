@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2024-11-28"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1213,6 +1213,10 @@ El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transa
 
 ARTICULO 164 BIS. El derecho a recibir alimentos, y la obligación de darlos, derivados de una resolución judicial que declare la paternidad, será retroactivo al momento del nacimiento de la persona.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+El acreedor alimentario, aun siendo mayor de edad, podrá solicitar el pago retroactivo de los alimentos que se generaron durante el tiempo que tenía derecho a percibirlos y no se subsanaron cuando era menor de edad.
+
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 ARTICULO 164 TER. Los elementos que deberá considerar el juzgador en relación con el artículo 154 de este Código, a la luz del interés superior de la infancia, y del principio de igualdad y no discriminación, para el cálculo y pertinencia de la pensión alimenticia cuando ésta deba retrotraerse al momento del nacimiento de la persona, derivado del reconocimiento de paternidad y, en caso de que se indique su actualización para modular el monto, serán, los siguientes:
@@ -2075,9 +2079,9 @@ IV. Cuando por resolución judicial se hubiere suspendido el ejercicio de la pat
 
 V. Por la comisión del, o los actos ejecutados por quien ejerce la patria potestad que pueda corromper a la o el menor;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-VI. Por padecer, quien ejerza la patria potestad, enajenación mental incurable, previa declaración de estado de interdicción, y
+VI. Por padecer, quien ejerza la patria potestad, enajenación mental incurable, previa declaración de estado de interdicción;
 
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
 
@@ -2091,7 +2095,13 @@ c) Tortura.
 
 d) Tratos crueles, inhumanos, degradantes, violentos, abusivos o humillantes, o
 
-e) Todo tipo de práctica que lesione la integridad personal de los niños, niñas y adolescentes.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+e) Todo tipo de práctica que lesione la integridad personal de los niños, niñas y adolescentes, y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VIII. Cuando el progenitor de la o el menor teniendo el ejercicio de este derecho, sea condenado mediante sentencia ejecutoria, por la comisión del delito de feminicidio cometido en contra de la progenitora de la o el menor.
 
 ###### ARTICULO 294.
 
@@ -3882,3 +3892,19 @@ P.O. 28 DE NOVIEMBRE DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0158.- SE REFORMAN LA FRACCIÓN VI Y EL INCISO E) DE LA FRACCIÓN VII; Y SE ADICIONA UNA FRACCIÓN VIII, TODAS DEL ARTÍCULO 293 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0159.- SE ADICIONA PÁRRAFO SEGUNDO DEL ARTÍCULO 164 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
