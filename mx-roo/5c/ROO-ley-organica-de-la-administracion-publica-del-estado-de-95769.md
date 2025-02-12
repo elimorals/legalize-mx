@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2025-01-29"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -137,6 +137,10 @@ Las dependencias y entidades de la Administración Pública del Estado a que se 
 
 Las personas servidoras públicas de las Dependencias y Entidades de la Administración Pública del Estado en el desempeño de su empleo, cargo o comisión, se deberán conducir con disciplina y respeto a los principios de Respeto a los Derechos Humanos, Legalidad, Honradez, Lealtad, Imparcialidad, Eficiencia, Eficacia, Transparencia, Economía, Disciplina, Profesionalismo, Objetividad, Rendición de Cuentas, Competencia por Mérito, Integridad, Equidad e Igualdad, así como a los valores Éticos de Respeto, Liderazgo, Cooperación, Cuidado del Entorno Cultural y Ecológico, Interés Público, Igualdad y No Discriminación, Equidad de Género, Principios y Valores que se definan en el Código de Ética, así como los compromisos previstos y Reglas de Integridad establecidas en el mismo, tanto hacia las demás personas servidoras públicas como con los particulares con quienes llegare a tratar, absteniéndose de ejercer actos, conductas, tipos o modalidades de violencia y/o discriminación, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Quintana Roo, los Reglamentos y demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 14 BIS. Las dependencias y entidades de la Administración Pública del Estado a que se refiere esta Ley, proporcionarán los espacios y servicios dentro de sus instalaciones para la ejecución de las actividades de los órganos internos de control, así como de las áreas adscritas a los mismos, de conformidad con las disposiciones jurídicas aplicables.
+
 ###### ARTÍCULO 15.
 
 El Gobernador del Estado está facultado para resolver las dudas que surjan en las dependencias y entidades de la administración pública, sobre la aplicación de esta Ley.
@@ -217,9 +221,9 @@ XII. Secretaría de Salud;
 
 XIII. Secretaría de Turismo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XIV. Secretaría de la Contraloría;
+XIV. Secretaría Anticorrupción y Buen Gobierno;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2024)</small>
 
@@ -313,11 +317,11 @@ Corresponde a los titulares de las dependencias en sus respectivos ramos, vigila
 
 Los titulares de las dependencias de la Administración Pública Estatal, ampliarán y precisarán en sus respectivos ramos el informe que anualmente rinda el Titular del Poder Ejecutivo ante la Legislatura del Estado, bajo el procedimiento que determine este órgano colegiado. Asimismo, a solicitud de esta propia instancia legislativa o de sus comisiones les informarán en forma escrita o mediante comparecencia en los casos en que se discuta una ley o se estudie un negocio concerniente a sus actividades. Estas obligaciones serán extensivas a los titulares o responsables de las entidades de la administración pública paraestatal.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 29.
 
-En el proceso de entrega y recepción, los titulares de las dependencias mencionadas en esta Ley, con la intervención de la Secretaría de la Contraloría, de la Secretaría de Finanzas y Planeación y de la Auditoría Superior del Estado, entregarán los asuntos de su competencia, así como los recursos que les hayan sido asignados, conforme a la legislación y normatividad aplicable a la materia.
+En el proceso de entrega y recepción, las personas titulares de las dependencias mencionadas en esta Ley, con la intervención de la Secretaría Anticorrupción y Buen Gobierno, de la Secretaría de Finanzas y Planeación y de la Auditoría Superior del Estado, entregarán los asuntos de su competencia, así como los recursos que les hayan sido asignados, conforme a la legislación y normatividad aplicable a la materia.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -357,7 +361,9 @@ IX. Apoyar al Gobernador del Estado, en la adecuación, operación y retroalimen
 
 X. Expedir los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la Dependencia y las funciones de sus Unidades Administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados.
 
-Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado de Quintana Roo, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de la Contraloría.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+Los manuales de organización general deberán publicarse en el Periódico Oficial del Estado de Quintana Roo, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de las propias personas servidoras públicas, a través del registro electrónico que opera la Secretaría Anticorrupción y Buen Gobierno.
 
 En cada una de las dependencias y entidades de la administración pública, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
 
@@ -633,9 +639,9 @@ VII. Dar seguimiento a la ejecución de los programas de desarrollo social y de 
 
 VIII. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas de desarrollo social y de bienestar, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-IX. Regular y supervisar, en coordinación con la Secretaría de Finanzas y Planeación, y con la Secretaría de la Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
+IX. Regular y supervisar, en coordinación con la Secretaría de Finanzas y Planeación, y con la Secretaría Anticorrupción y Buen Gobierno, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
@@ -845,9 +851,9 @@ XLI. Regular y contratar al personal de la Administración Pública del Estado; 
 
 XLII. Normar y emitir los criterios y lineamientos sobre el reclutamiento, selección, contratación, inducción y baja de los servidores públicos, elaborar y actualizar el escalafón, así como programar los estímulos y recompensas para los trabajadores de las dependencias y entidades de la Administración Pública Estatal, conforme a las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XLIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus objetivos bajo un esquema de desconcentración y adecuada supervisión. Asimismo, fijar, regular y emitir, en coordinación con la Secretaría de la Contraloría, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
+XLIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus objetivos bajo un esquema de desconcentración y adecuada supervisión. Asimismo, fijar, regular y emitir, en coordinación con la Secretaría Anticorrupción y Buen Gobierno, los criterios y lineamientos en materia de adquisiciones, arrendamientos, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -1357,17 +1363,13 @@ XXXVII. Establecer y atender ventanillas y centros de gestión, fomento económi
 
 XXXVIII. Instrumentar, ejecutar y coordinar la política estatal de apoyo incluyente a emprendedores y a las micro, pequeñas y medianas empresas, impulsando su competitividad y proyección en los mercados estatal, nacional e internacional, para aumentar su contribución al desarrollo económico y bienestar social, así como coadyuvar al desarrollo de políticas que fomenten la cultura, el desarrollo tecnológico, la innovación y productividad empresarial en el Estado de Quintana Roo;
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
-
-XXXIX. Impulsar el desarrollo tecnológico y la innovación;
+XXXIX. (DEROGADA, P.O. 12 DE FEBRERO DE 2025)
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
 
 XL. Establecer las directrices de los proyectos de asociación público privada en coordinación con la instancia de gobierno encargada de la administración de los proyectos estratégicos; y
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-XLI. Emitir, normar, promover, coordinar y regular los procedimientos vinculados con el desarrollo del gobierno digital que deberán aplicar las dependencias, órganos administrativos desconcentrados y entidades de la administración pública estatal.
+XLI. (DEROGADA, P.O. 12 DE FEBRERO DE 2025)
 
 > <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -1809,29 +1811,43 @@ XXXIV. Implementar, en concordancia con el Programa Nacional para Prevenir, Sanc
 
 XXXV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 43.
 
-A la Secretaría de la Contraloría corresponde el despacho de los siguientes asuntos:
+A la Secretaría Anticorrupción y Buen Gobierno corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-I.- Participar, en el ámbito de su competencia, en el Sistema Nacional de Fiscalización, como su integrante;
+I.- Participar en el ámbito de su competencia, en el Sistema Nacional de Fiscalización como su integrante y presidir en coordinación con la persona Titular de la Auditoría Superior del Estado, el Comité Rector del Sistema Estatal de Fiscalización;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-II.- Fiscalizar directamente o a través de los Órganos Internos de Control, que las dependencias y entidades paraestatales de la administración pública del Estado, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la administración pública del Estado, y que el otorgamiento de concesiones para el uso, aprovechamiento o explotación de bienes del dominio público del Estado, o el establecimiento y explotación de servicios públicos, sean realizados conforme a las disposiciones aplicables;
+II.- Brindar a las dependencias, incluidos sus órganos administrativos desconcentrados, así como a las entidades de la Administración Pública Estatal el apoyo y acompañamiento que se requiera en el ejercicio de sus funciones, en especial tratándose de programas prioritarios y proyectos estratégicos;
 
-III.- Organizar y coordinar el sistema de control interno y fiscalizar el ejercicio del gasto público y su congruencia con el presupuesto de egresos, así como concertar con las dependencias y entidades paraestatales de la administración pública del Estado, y validar los indicadores, en los términos de las disposiciones aplicables; de igual forma vigilar el cumplimiento de las normas y políticas del Estado en materia de austeridad, racionalidad y disciplina presupuestal.
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-IV.- Expedir, actualizar, sistematizar y difundir, las normas que regulen los instrumentos y procedimientos de control interno de la administración pública del Estado, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción.
+II Bis.- Realizar en cumplimiento al programa anual de fiscalización, actos de fiscalización o auditorías a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Estatal;
 
-V.- Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades paraestatales de la administración pública del Estado, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-VI.- Emitir normas, lineamientos específicos y manuales, así como formular recomendaciones a las dependencias y entidades paraestatales de la administración pública del Estado, que impulsen la simplificación administrativa; asimismo, expedir las disposiciones normativas en consideración a las bases, principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción.
+III.- Organizar y coordinar el sistema de control interno, así como concertar con las dependencias incluidos sus órganos administrativos desconcentrados y entidades paraestatales de la administración pública del Estado los indicadores para dicha evaluación, en los términos de las disposiciones jurídicas aplicables; de igual forma vigilar el cumplimiento de las normas y políticas del Estado en materia de austeridad, racionalidad y disciplina presupuestal;
 
-VII.- Vigilar el cumplimiento, por parte de las dependencias y entidades paraestatales de la administración pública del Estado, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, fondos y valores en propiedad, patrimonio, bajo administración o resguardo del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+IV.- Emitir las normas que regulen la materia y los procedimientos de control interno de la administración pública del Estado, que impulsen la modernización administrativa, conforme a las mejores prácticas en la materia, y en su caso requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+V.- Evaluar el sistema de control interno institucional y proponer las medidas que permitan el cumplimiento de las metas y objetivos institucionales, así como la mejora continua;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VI.- Emitir las normas que regulen los instrumentos y procedimientos en materia de investigación, fiscalización y auditoría internas, transversales o externas, o cualquier otro tipo de revisiones, así como realizar las investigaciones, actos de fiscalización o auditorías que se requieran;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VII.- Verificar el cumplimiento, por parte de las dependencias incluidos sus órganos administrativos desconcentrados y entidades paraestatales de la administración pública del Estado, de las disposiciones jurídicas aplicables a la gestión pública;
 
 VIII.- Revisar, evaluar y emitir las observaciones y recomendaciones sobre las estructuras orgánicas y ocupacionales, reglamentos interiores y manuales administrativos de la administración pública del Estado.
 
@@ -1839,13 +1855,13 @@ IX.- Emitir la normatividad que regule los Reglamentos Interiores, Manuales Admi
 
 X.- Participar en la Planeación del Desarrollo del Estado en el ámbito de su competencia.
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XI.- Vigilar y verificar en el ámbito de su competencia, el cumplimiento de las obligaciones de proveedores, contratistas y concesionarios del Estado, solicitándoles la información de las operaciones que realicen;
+XI.- Elaborar y conducir la política pública en materias de integridad pública, evaluación de la gestión gubernamental, mejora continua, modernización, transparencia de la gestión pública, rendición de cuentas, fiscalización y anticorrupción de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XII.- Promover, en coordinación con la Consejería Jurídica del Poder Ejecutivo, que la elaboración y aplicación de las regulaciones en la entidad generen beneficios superiores a sus costos y el máximo beneficio para la sociedad; así como emitir opinión técnica dentro del ámbito de su competencia;
+XII.- Promover la elaboración y aplicación de las regulaciones en la entidad que generen beneficios superiores a sus costos y el máximo beneficio para la sociedad; así como emitir opinión técnica dentro del ámbito de su competencia;
 
 XIII.- Promover, ante las dependencias y entidades paraestatales de la administración pública del Estado, los mecanismos para informar a la población de los trámites y servicios que prestan.
 
@@ -1853,121 +1869,233 @@ XIII.- Promover, ante las dependencias y entidades paraestatales de la administr
 
 XIV.- Revisar y emitir, dentro del ámbito de su competencia, las observaciones y recomendaciones con carácter preventivo, de los proyectos de iniciativas de leyes, reglamentos, acuerdos y demás normas legales y administrativas que formulen las dependencias y entidades paraestatales de la administración pública del Estado, previo a su trámite y expedición;
 
-XV.- Registrar, designar y remover a los auditores externos que realizarán las auditorías, en las dependencias, órganos administrativos desconcentrados, entidades paraestatales de la administración pública del Estado, y en los demás fondos que ejercen recursos públicos, así como normar, evaluar y controlar su desempeño.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XVI.- Fungir como comisario público propietario con voz, pero sin voto ante los Órganos de Gobierno de las entidades paraestatales de la administración pública del Estado, y en los demás fondos o fideicomisos que contemplen a la Secretaría de la Contraloría con dicho carácter para vigilar el cumplimiento de la normatividad que los rige.
+XV.- Registrar y designar a los auditores externos que realizarán las auditorías, en las entidades paraestatales de la administración pública del Estado, y en los demás fondos que ejercen recursos públicos, así como normar, evaluar y controlar su desempeño;
 
-XVII.- Llevar y normar el registro de servidores públicos de la administración pública del Estado, recibir y registrar las declaraciones patrimoniales, de intereses y constancia de presentación de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XVIII.- Registrar en el ámbito del Poder Ejecutivo del Estado, el padrón de los servidores públicos sancionados, con motivo de la determinación de una responsabilidad administrativa.
+XVI.- Fungir como comisario público propietario, así como designar y remover, a los demás comisarios públicos de los órganos de gobierno de las entidades de la Administración Pública Paraestatal, y en los demás fondos o fideicomisos que contemplen a la Secretaría Anticorrupción y Buen Gobierno con dicho carácter, para vigilar el cumplimiento de la normatividad que los rige, participando ante dichos órganos con voz, pero sin voto;
 
-XIX.- Promover e impulsar la participación y corresponsabilidad ciudadana a través de acciones de contraloría social en las tareas de vigilancia y evaluación de los recursos públicos.
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+XVI Bis.- Crear, asignar, distribuir, dirigir y coordinar los órganos internos de control en las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la administración pública estatal, por sector, materia, especialidad, función específica o ente público, conforme a las disposiciones de carácter general que al efecto emita la persona titular de la Secretaría;
 
-XX. Recibir y dar trámite a las quejas, denuncias y sugerencias respecto de los trámites y servicios o por actos, omisiones o conductas de los servidores públicos de la administración pública del Estado en el ejercicio de sus funciones, garantizando la protección del denunciante a través de los mecanismos señalados en la Ley;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XVII.- Llevar y normar el registro de personas servidoras públicas de la administración pública del Estado, recibir y registrar las declaraciones patrimoniales, de intereses y constancia de presentación de declaración fiscal que deban presentar. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XVIII.- Registrar en el ámbito del Poder Ejecutivo del Estado, el padrón de las personas servidoras públicas y particulares sancionados, con motivo de la determinación de una responsabilidad administrativa;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XIX.- Promover la formación cívica y la participación ciudadana en materia de anticorrupción y buen gobierno, a través de acciones de contraloría social en las tareas de vigilancia y evaluación de los recursos públicos;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XIX Bis.- Impulsar la participación de los sectores social y privado en la prevención y combate a la corrupción y mejora de la gestión pública y, en su caso, celebrar los convenios correspondientes;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XX.- Recibir y dar trámite a las quejas, denuncias y sugerencias respecto de los trámites y servicios o por actos, omisiones o conductas de las personas servidoras públicas de la administración pública del Estado en el ejercicio de sus funciones, garantizando la protección de la persona denunciante a través de los mecanismos señalados en la Ley;
 
 XXI.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades paraestatales de la administración pública del Estado, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes.
 
-XXII.- En materia de responsabilidades administrativas, la Secretaría de la Contraloría contará con las atribuciones siguientes:
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-a) Investigar la presunta responsabilidad de faltas administrativas, en forma oficiosa, por denuncia o derivado de auditorías practicadas por autoridad competente o por auditores externos;
+XXII.- Conocer e investigar las conductas de las personas servidoras públicas de la Administración Pública Estatal y de particulares que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas, y Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios;
 
-b) En el ejercicio de sus facultades de autoridad investigadora, formular los requerimientos a las personas físicas o morales, públicas o privadas, que sean sujetos de investigación por presuntas irregularidades cometidas en el ejercicio de sus funciones;
+Aplicar sanciones por faltas administrativas no graves. Cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante el Tribunal de Justicia Administrativa y Anticorrupción del Estado.
 
-c) Calificar, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, las conductas posiblemente constitutivas de infracción como graves o no graves;
+Presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción del Estado y ante otras autoridades competentes, en términos de las disposiciones jurídicas aplicables.
 
-d) Integrar el informe de presunta responsabilidad administrativa y presentarlo ante la autoridad sustanciadora correspondiente, o en su caso, emitir el acuerdo de conclusión;
+Y ejercer las atribuciones que en materia de responsabilidades corresponden a la autoridad investigadora, a la autoridad substanciadora y a la autoridad resolutora, en términos de las disposiciones jurídicas aplicables;
 
-e) Ejercer la acción de responsabilidad ante el Tribunal de Justicia Administrativa;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-f) Substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, así como en la Ley de Responsabilidades Administrativas del Estado;
+XXIII.- Intervenir en los procesos de entrega y recepción que se efectúen como consecuencia de la separación de las personas servidoras públicas del cargo, empleo o comisión;
 
-g) Requerir el auxilio de otras autoridades, para el desahogo de las diligencias probatorias durante la substanciación del procedimiento de responsabilidad;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-h) Fungir como autoridad resolutora, tratándose de faltas administrativas no graves;
-
-i) Imponer las sanciones que sean de su competencia, de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
-
-j) Decretar y suspender las medidas cautelares, conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
-
-k) Imponer las medidas de apremio, previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
-
-l) Ejecutar las sanciones por faltas administrativas no graves, y en su caso, ordenar a los Titulares de las dependencias y entidades paraestatales de la administración pública del Estado, que ejecuten las resoluciones dictadas por la Secretaría o en su caso, por los Órganos Internos de Control;
-
-m) Resolver los recursos previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado, como competencia de la Secretaría;
-
-n) Presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
-
-o) Promover los medios de impugnación, ante el Tribunal de Justicia Administrativa;
-
-p) Las demás atribuciones previstas en las leyes y reglamentos de la materia.
-
-XXIII.- Intervenir en los procesos de entrega y recepción que se efectúen como consecuencia de la separación de los servidores públicos del cargo, empleo o comisión.
-
-XXIV.- Definir la política de gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades paraestatales de la administración pública del Estado;
+XXIV.- Impulsar la transparencia y rendición de cuentas, y la publicación de datos en formatos accesibles a la ciudadanía; así como definir la política de gobierno abierto y datos abiertos y vigilar la aplicación de las políticas de gobierno digital de la Administración Pública Estatal, en términos de las disposiciones jurídicas aplicables;
 
 XXV.- Establecer y definir los criterios en la interpretación de las Leyes que conforme a su competencia le corresponde su vigilancia y aplicación.
 
-XXVI.- Vigilar y dar seguimiento en el ámbito de su competencia que las dependencias y entidades paraestatales de la administración pública del Estado, den cumplimiento a los requerimientos y acciones de fiscalización que promuevan los Órganos de Fiscalización de la Federación y el Estado.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XXVII.- Formular y conducir en apego a las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la administración pública para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad.
+XXVI.- Vigilar y dar seguimiento, en el ámbito de su competencia, que las dependencias incluidos sus órganos administrativos desconcentrados y entidades paraestatales de la administración pública del Estado, o cualquier ente público que haya ejercido recursos estatales y/o federales, den cumplimiento a los requerimientos y acciones de fiscalización que promuevan los Órganos de Fiscalización de la Federación y el Estado;
 
-XXVIII.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades paraestatales de la administración pública del Estado.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XXIX.- Realizar, por sí o a solicitud de los titulares de las dependencias o de las entidades paraestatales de la administración pública del Estado, auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su función y encargo.
+XXVII.- Formular y conducir la política de la Administración Pública Estatal para establecer medidas que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas, el acceso por parte de los particulares a la información que aquélla genere y la protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como promover dichas acciones hacia la sociedad;
 
-XXX.- Colaborar en el marco del Sistema Estatal Anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XXXI.- Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables.
+XXVIII.- Vigilar el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades paraestatales de la administración pública del Estado;
 
-XXXII.- Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades paraestatales de la administración pública del Estado, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XXXIII.- Establecer mecanismos internos para la administración pública del Estado que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas.
+XXIX.- Realizar, por sí o a solicitud de las personas titulares de las dependencias o de las entidades paraestatales de la administración pública del Estado, actos de fiscalización, auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su función y encargo;
 
-XXXIV.- Vigilar la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios relacionados con Bienes Muebles del Estado y la Ley de Obras Públicas y Servicios relacionados con las mismas del Estado, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XXXV.- Vigilar las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos en materia de contrataciones públicas, y proporcionar en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación que realicen las dependencias y entidades paraestatales de la administración pública del Estado.
+XXX.- Participar en el establecimiento de las bases y los principios de coordinación de los integrantes en el Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización; para lo cual podrá, en su caso, celebrar convenios de colaboración, en el ámbito de su competencia con la Administración Pública Federal, Administración Pública Estatal y Municipios con la finalidad de cumplir sus objetivos;
 
-XXXVI.- Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la administración pública del Estado.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XXXVII.- Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos.
+XXXI.- Ejercer las atribuciones que correspondan a la persona Titular del Ejecutivo Estatal en el Sistema Estatal Anticorrupción, en términos de las disposiciones jurídicas aplicables;
 
-XXXVIII.- Emitir el Código de Ética de los servidores públicos del gobierno estatal y las Reglas de Integridad para el ejercicio de la función pública.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XXXIX.- Registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública y sus modificaciones; previo dictamen presupuestal favorable de la Secretaría de Finanzas y Planeación.
+XXXII.- Informar a la persona Titular del Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias incluidos sus órganos administrativos desconcentrados y entidades paraestatales de la administración pública del Estado, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
 
-XL.- Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la administración pública Estatal, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría; asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al Titular de dicha Secretaría.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXIII.- Establecer mecanismos internos para la administración pública del Estado que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas e impulsar la participación ciudadana y la cultura cívica y ética que contribuya a la mejora continua;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXIV.- Vigilar y verificar el cumplimiento de la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios relacionados con Bienes Muebles del Estado y la Ley de Obras Públicas y Servicios relacionados con las mismas del Estado y su Reglamento, en cumplimiento al programa anual de fiscalización, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez, así como proporcionar asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las leyes mencionadas en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXIV Bis.- Requerir a las dependencias incluidos sus órganos administrativos desconcentrados y entidades paraestatales de la Administración Pública Estatal, la información, documentación, datos e imágenes, registros y demás elementos que contribuyan con las investigaciones, actos de fiscalización, incluida su programación y, en general, con cualquier acción anticorrupción, para lo cual podrá celebrar convenios, acuerdos y demás instrumentos jurídicos con instituciones públicas y privadas;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXV.- Elaborar el programa anual de fiscalización orientado a promover la eficacia, eficiencia, economía y legalidad en la gestión pública;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXVI.- Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción, así como las establecidas en esa misma materia por el Comité Coordinador del Sistema Estatal Anticorrupción, que fortalezcan la gestión administrativa en la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXVII.- Ejercer las facultades que tanto (sic) la Constitución Política de los Estados Unidos Mexicanos otorga a los órganos internos de control, así como las establecidas en la Constitución Política del Estado Libre y Soberano de Quintana Roo que en su caso correspondan al ámbito de competencia de la Secretaría Anticorrupción y Buen Gobierno;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXVIII.- Emitir el Código de Ética de las personas servidoras públicas del gobierno estatal y las Reglas de Integridad para el ejercicio de la función pública; así como, formular recomendaciones a las dependencias, órganos administrativos desconcentrados y entidades paraestatales de la administración pública estatal, que fomenten una actuación ética y responsable en el ejercicio de la función pública;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXVIII Bis.- Proponer al sector privado directrices para la emisión de sus códigos de ética y modelos de declaración de integridad;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXXIX.- Registrar las estructuras orgánicas y ocupacionales de las dependencias incluidos sus órganos administrativos desconcentrados y entidades de la administración pública y sus modificaciones; previo dictamen presupuestal favorable de la Secretaría de Finanzas y Planeación;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XL.- Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la administración pública Estatal, quienes dependerán jerárquica y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno; asimismo, designar y remover a los titulares de las áreas de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando a la persona servidora pública Titular de dicha Secretaría;
 
 XLI.- Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos.
 
-XLII.- Emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de las dependencias y entidades de la administración pública, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias, y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XLIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
+XLII.- Organizar y coordinar el desarrollo administrativo integral en las dependencias, incluidos sus órganos administrativos desconcentrados y entidades de la Administración Pública Estatal y emitir las normas para que los recursos humanos y patrimoniales sean aprovechados y los procedimientos técnicos sean aplicados con criterios de eficacia, eficiencia, economía, honestidad, transparencia y legalidad;
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2025)</small>
 
-El nombramiento de persona titular de la Secretaría de la Contraloría que someta la persona Titular del Ejecutivo del Estado a ratificación de la Legislatura del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios.
+XLIII.- Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XLIV.- Llevar a cabo la vigilancia de las obligaciones de transparencia de información, de conformidad con las acciones y procedimiento de verificación, establecido en la ley respectiva;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XLV.- Establecer las políticas, bases y normativa para la determinación de la información de interés público que, en materia de anticorrupción y buen gobierno, se deba difundir;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XLVI.- Promover y consolidar los principios de la transparencia y acceso a la información pública, los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XLVII.- Promover la capacitación y actualización de las personas servidoras públicas en la cultura de acceso a la información pública y protección de datos personales, a través de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XLVIII.- Impulsar la integridad de las personas servidoras públicas adscritas a las dependencias, órganos administrativos desconcentrados y entidades paraestatales de la Administración Pública Estatal, así como diseñar y aplicar los programas de capacitación que promuevan la mejora de la gestión pública;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XLIX.- Promover en coordinación con la Secretaría de Educación y demás instituciones de educación superior del Estado, la inclusión de contenidos educativos sobre integridad pública y combate a la corrupción, así como programas prioritarios y proyectos estratégicos para prevenir y combatir la corrupción y la mejora de la gestión pública;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+L.- Tramitar el procedimiento de conciliación y la instancia de inconformidad, en términos de lo previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles del Estado de Quintana Roo y la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Quintana Roo, respecto del incumplimiento de los convenios, contratos o pedidos que celebren los particulares con las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+LI.- Diseñar, coordinar, controlar, supervisar y evaluar las políticas en materia de gobierno digital, inclusión digital, tecnologías de la información, gobernanza tecnológica, y Gobierno Abierto, a través de la Agencia de Transformación Digital del Estado de Quintana Roo, para su uso y aprovechamiento en la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+LII.- Coordinar, supervisar, regular, vigilar y ejecutar las políticas y el proceso en materia de mejora regulatoria en el Estado, a través de la Agencia de Transformación Digital del Estado de Quintana Roo, de conformidad con lo establecido en la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+LIII.- Diseñar, coordinar y actualizar los programas y plataformas digitales, para atender las necesidades tecnológicas e informáticas de la entidad, incluyendo sistemas automatizados y procesos de digitalización, a través de la Agencia de Transformación Digital del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+LIV.- Emitir, normar, promover, coordinar y regular los procedimientos vinculados con el desarrollo y la implementación de las directrices de gobierno digital que deberán aplicar las dependencias, órganos administrativos desconcentrados y entidades de la administración pública estatal, a través de la Agencia de Transformación Digital del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+LV.- Formular políticas y emitir lineamientos para el diseño, la promoción, implementación, y uso de la identidad y ciudadanía digitales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2025)</small>
+
+LVI.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+El nombramiento de la persona titular de la Secretaría Anticorrupción y Buen Gobierno que someta el Ejecutivo del Estado a ratificación de la Legislatura del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 43 BIS. Las personas servidoras públicas titulares de los órganos internos de control, serán responsables de la fiscalización, vigilancia del control interno y evaluación de la gestión pública de las dependencias, sus órganos administrativos desconcentrados y entidades paraestatales de la administración pública del Estado, a la que se encuentren adscritos, en términos de las políticas, directrices y normativa que emita la Secretaría Anticorrupción y Buen Gobierno y conforme al Programa Anual de fiscalización que emita dicha dependencia.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
-ARTÍCULO 43 BIS. Los titulares de los órganos internos de control y sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de las dependencias y entidades paraestatales de la administración pública del Estado, a la que se encuentren adscritos.
-
 Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
 
-Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXXIX del artículo 43 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la Secretaría de la Contraloría respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de la gestión en las dependencias y entidades paraestatales de la administración pública del Estado y presentación de informes por parte de dichos órganos.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-Las unidades encargadas de la función de auditoría de la Secretaría de la Contraloría y los Órganos Internos de Control de las entidades paraestatales de la administración pública del Estado, formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXIX del artículo 43 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la Secretaría Anticorrupción y Buen Gobierno respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión del control interno, mejora de la gestión en las dependencias y entidades paraestatales de la administración pública del Estado y presentación de informes por parte de dichos órganos.
 
-Las unidades encargadas de la función de auditoría formarán parte del Sistema Nacional de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+Las unidades encargadas de la función de auditoría de la Secretaría Anticorrupción y Buen Gobierno y los Órganos Internos de Control de las dependencias y entidades paraestatales de la administración pública del Estado, formularán en el mes de noviembre su programa anual de trabajo.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+Las unidades encargadas de la función de auditoría incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
 
-Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de la Contraloría y de los Órganos Internos de Control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa del Estado y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades paraestatales de la administración pública del Estado, así como la Secretaría de la Contraloría, implementarán las acciones pertinentes para mejora de la gestión pública.
+Las personas titulares de las unidades encargadas de la función de fiscalización de la Secretaría Anticorrupción y Buen Gobierno y de los Órganos Internos de Control, en el mes de enero entregarán informes del resultado de la fiscalización del año inmediato anterior a la persona titular de dicha Secretaría.
 
-Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, los titulares de los Órganos Internos de Control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión pública.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2025)</small>
+
+El informe señalado en el párrafo anterior contendrá lo siguiente: el resumen de resultados de fiscalización y hallazgos detectados, las recomendaciones preventivas, las observaciones correctivas, las denuncias de hechos y las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades paraestatales de la administración pública del Estado, así como la Secretaría Anticorrupción y Buen Gobierno, implementarán las acciones pertinentes para mejora de la gestión pública.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, los titulares de los Órganos Internos de Control participarán en los comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión pública.
 
 ###### ARTÍCULO 44.
 
@@ -2031,9 +2159,7 @@ XII. Participar, por acuerdo del Gobernador del Estado, como coadyuvante en los 
 
 XIII. Coordinar y participar, junto con las Dependencias, Entidades y demás organismos auxiliares de la Administración Pública estatal o municipal en la actualización y simplificación del marco jurídico del Estado;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2024)</small>
-
-XIII Bis. Coordinar, operar, supervisar, regular, vigilar y ejecutar las políticas y el proceso en materia de mejora regulatoria en el Estado de conformidad con lo establecido en la ley de la materia;
+XIII BIS. (DEROGADA, P.O. 12 DE FEBRERO DE 2025)
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
@@ -2145,6 +2271,10 @@ VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de l
 
 VIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de Seguridad Ciudadana, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VIII Bis. Conformar un sistema de inteligencia preventiva para recabar, sistematizar y analizar información en materia de Seguridad Ciudadana;
+
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
 IX. Disponer, por acuerdo de la persona titular del Poder Ejecutivo del Estado, del mando de las Instituciones Policiales de Seguridad Ciudadana municipales cuando se considere que existen hechos o acontecimientos presentes o futuros inminentes de fuerza mayor, o que por cualquier motivo alteren gravemente el orden público de uno o más municipios del Estado, con el fin de preservar la vida, integridad física, bienes y derechos de las personas y procurando en todo momento el respeto a los derechos humanos;
@@ -2185,6 +2315,10 @@ XXI. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el f
 
 XXII. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con otras Autoridades Federales, Estatales, Municipales y de la Ciudad de México, así como establecer acuerdos de colaboración con instituciones similares, en los términos de los tratados internacionales, conforme a la legislación aplicable;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXII Bis. Celebrar convenios de coordinación y seguimiento con la Secretaría de Seguridad y Protección Ciudadana del Gobierno Federal, la Fiscalía General de la República y la Fiscalía General del Estado de Quintana Roo, en el ámbito de su respectiva competencia, a efecto de dar cumplimiento a lo previsto por el Artículo 29 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
 XXIII. Participar en las actividades de vialidad y transporte, con las Autoridades Federales, Estatales y Municipales, así como con las entidades paraestatales cuya competencia y objeto se relacione con estas materias;
 
 XXIV. Certificar los documentos que obren en sus archivos y los expedidos por los servidores públicos que les estén subordinados en ejercicio de sus atribuciones;
@@ -2207,9 +2341,11 @@ XXVIII. Implementar, administrar, supervisar, operar y dar mantenimiento a la in
 
 XXIX. Organizar, coordinar, dirigir y supervisar a la Unidad de Servicios Especiales de Vigilancia;
 
-XXX. (DEROGADA, P.O. 7 DE OCTUBRE DE 2024)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+XXX. Coordinar las funciones de las Instituciones Policiales de Seguridad Ciudadana, adscritas a la Secretaría, encargadas de la investigación de los delitos bajo la conducción y mando del Ministerio Publico, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 XXXI. Las demás que le encomienden expresamente las leyes y reglamentos.
 
@@ -2267,11 +2403,11 @@ Los Fideicomisos Públicos son aquellos que por contrato y mediante Acuerdo se c
 
 En la constitución de los fideicomisos públicos, la Secretaría de Finanzas y Planeación fungirá siempre como Fideicomitente único del Gobierno del Estado y el Ejecutivo del Estado deberá determinar la forma de integración del respectivo Comité Técnico. La Secretaría de Finanzas y Planeación debe participar en los órganos de gobierno como miembro con voz y voto, y podrá designar a su suplente.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
 
-ARTÍCULO 55 BIS. Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales de la administración pública del Estado, para fines de congruencia global con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Finanzas y Planeación y la Contraloría del Estado, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
+ARTÍCULO 55 BIS. Las relaciones entre el Ejecutivo Estatal y las entidades paraestatales de la administración pública del Estado, para fines de congruencia global con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Finanzas y Planeación y Anticorrupción y Buen Gobierno del Estado, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
 
-Las Secretarías de Finanzas y Planeación y la Contraloría del Estado emitirán los criterios para la clasificación de las entidades paraestatales de la administración pública del Estado, conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación.
+Las Secretarías de Finanzas y Planeación y la de Anticorrupción y Buen Gobierno del Estado emitirán los criterios para la clasificación de las entidades paraestatales de la administración pública del Estado, conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación.
 
 ## TÍTULO CUARTO. De los Tribunales Administrativos
 
@@ -2760,3 +2896,37 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado de 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 091 POR EL QUE SE REFORMA LA FRACCIÓN XXX Y SE ADICIONAN LAS FRACCIONES VIII BIS Y XXII BIS DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; SE REFORMAN LAS FRACCIONES XII, XXIII, XXIV Y SE ADICIONA LA FRACCIÓN XXV DEL ARTÍCULO 6 DE LA LEY DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO; Y SE ADICIONA LA FRACCIÓN V TER DEL APARTADO A DEL ARTÍCULO 12 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 096 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones a las leyes y ordenamientos respectivos para armonizarlos con las disposiciones previstas en el presente Decreto.
+
+En tanto se adecúen las normas y disposiciones reglamentarias conducentes seguirán aplicándose las leyes, reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente Decreto.
+
+TERCERO. En caso de que la Persona Titular de la Secretaría de la Contraloría permanezca en el cargo como Persona Titular de la Secretaría Anticorrupción y Buen Gobierno, la misma no requerirá ratificación de nombramiento por parte de la Legislatura del Estado.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, la Persona Titular del Poder Ejecutivo del Estado de Quintana Roo, tendrá un plazo de ciento ochenta días naturales, para decretar la creación de la Agencia de Transformación Digital del Estado de Quintana Roo, de conformidad con las disposiciones señaladas en el presente Decreto.
+
+QUINTO. La persona Titular del Poder Ejecutivo, deberá realizar las adecuaciones correspondientes a la estructura orgánica de la Secretaría Anticorrupción y Buen Gobierno y expedir la reforma al reglamento interior de la misma, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, para lo cual realizará las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el ejercicio fiscal 2025, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+SEXTO. La persona titular de la Secretaría Anticorrupción y Buen Gobierno podrá establecer disposiciones de carácter general para la implementación de las atribuciones que en virtud del presente Decreto se modifican y adicionan.
+
+SÉPTIMO. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general en cualquier disposición normativa respecto de la Secretaría de la Contraloría se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno.
+
+OCTAVO. Las facultades y competencias con que cuentan los órganos internos de control de las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Estatal, continuarán vigentes en términos del reglamento interior y demás disposiciones que los rigen, hasta en tanto se emitan los nuevos ordenamientos que por virtud del presente Decreto modifiquen su organización.
+
+NOVENO. La Secretaría de Finanzas y Planeación y la Secretaría Anticorrupción y Buen Gobierno dictarán los lineamientos y disposiciones de carácter general en el ámbito de sus respectivas competencias, que se estimen necesarios, en todo aquello que no se haya considerado expresamente en el presente decreto y su régimen transitorio.
+
+DÉCIMO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
