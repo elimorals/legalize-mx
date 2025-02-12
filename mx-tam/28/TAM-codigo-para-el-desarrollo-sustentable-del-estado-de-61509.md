@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2023-11-24"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -2317,6 +2317,10 @@ VI. Caracterización de sitios contaminados: La determinación cualitativa y cua
 
 VII. Diagnóstico básico: El estudio que identifica la situación de la generación y manejo de los residuos que considera la cantidad y composición de los mismos, así como la infraestructura para manejarlos integralmente;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VII Bis. Economía circular: Modelo de producción y consumo para minimizar la generación de residuos y maximizar la utilización en la economía para avanzar hacia el desarrollo sostenible;
+
 VIII. Estación de transferencia: La instalación en la cual se almacenan residuos con el fin de transportarlos a otro lugar para su aprovechamiento, valorización, tratamiento o disposición final;
 
 IX. Evaluación del riesgo por residuos: El proceso metodológico para determinar la posibilidad de que se produzcan efectos adversos como consecuencia de la exposición de los seres vivos y los recursos naturales a las sustancias contenidas en los residuos regulados por el presente Libro;
@@ -2423,7 +2427,9 @@ VIII. Promover la educación y capacitación continúa de personas de todos los 
 
 IX. Coadyuvar con la Federación en la integración de los subsistemas de información nacional sobre la gestión integral de residuos de su competencia;
 
-X. Diseñar, proponer y gestionar el establecimiento y aplicación de los instrumentos económicos, fiscales, financieros y de mercado que tengan por objeto prevenir o reducir la generación de residuos, su valorización y su gestión integral y sustentable;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+X. Diseñar, proponer y gestionar el establecimiento y aplicación de los instrumentos económicos, fiscales, financieros y de mercado que tengan por objeto prevenir o reducir la generación de residuos, su valorización y su gestión integral y sustentable, así como la implementación del enfoque y principios de la economía circular;
 
 XI. Establecer y mantener actualizado el registro de planes de manejo de residuos de manejo especial, conforme a los lineamientos que se determinen en el presente Código;
 
@@ -5566,6 +5572,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-712 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y IV, DEL ARTÍCULO 10; Y SE ADICIONAN LAS FRACCIONES XXVI BIS, XXVI TER Y XXVII BIS AL ARTÍCULO 119; Y LOS NUMERALES 3 Y 4 AL ARTÍCULO 134, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-239 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 120 Y SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 119 DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
