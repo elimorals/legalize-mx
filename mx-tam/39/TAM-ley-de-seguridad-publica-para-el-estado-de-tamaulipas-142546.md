@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2025-01-16"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -585,7 +585,9 @@ XXII.- Disponer las previsiones para vigilar que se cumplan los lineamientos y d
 
 XXIII.- Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia, así como la disposición de éstos ante las autoridades competentes, con estricto apego a la Ley. En los casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y el Código Penal para el Estado de Tamaulipas;
 
-XXIV.- Dar vista al Consejo sobre las faltas graves al régimen disciplinario y a los principios de actuación previstos en esta Ley, en que incurran sus Integrantes, así como al Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública. Asimismo, establecer las medidas de control para garantizar el cumplimiento y desempeño de las funciones asignadas a los Integrantes;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XXIV.- Dar vista al Consejo sobre las faltas graves al régimen disciplinario o por incumplimiento de los requisitos de permanencia, al igual que a los principios de actuación previstos en esta Ley, en que incurran sus integrantes, así como al Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública. Asimismo, establecer las medidas de control para garantizar el cumplimiento y desempeño de las funciones asignadas a las y los Integrantes;
 
 XXV.- Promover la profesionalización de los Integrantes;
 
@@ -647,7 +649,9 @@ VI.- Disponer las provisiones para vigilar que se cumplan los lineamientos y dis
 
 VII.- Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la Ley. En los casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y el Código Penal para el Estado de Tamaulipas;
 
-VIII.- Dar vista al Consejo sobre las faltas a los principios de actuación, previstos en la presente Ley, así como al Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública, en que incurran los Integrantes de su institución;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VIII.- Dar vista al Consejo sobre las faltas graves al régimen disciplinario o por incumplimiento de los requisitos de permanencia, al igual que a los principios de actuación previstos en esta Ley, así como al Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública, en que incurran las y los Integrantes de su institución;
 
 IX.- Promover la capacitación de los elementos que integran su institución;
 
@@ -1505,11 +1509,21 @@ IV.- Condecoraciones al valor policial, a la perseverancia o al mérito; y
 
 V.- Cambio de adscripción, en tanto beneficie al interesado.
 
-2.- Por las irregularidades en que incurran los Integrantes sujetos a esta Ley, el Consejo, previa integración del expediente, podrá imponer, según corresponda:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2025)</small>
+
+2.- Por las irregularidades al régimen disciplinario en que incurran las y los Integrantes sujetos a esta Ley, el Consejo, previa integración del expediente, podrá imponer, según corresponda:
 
 I.- Suspensión; o
 
 II.- Remoción.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE FEBRERO DE 2025)</small>
+
+3.- Por incumplimiento de los requisitos de permanencia establecidos en esta Ley, el Consejo podrá imponer, previa integración del expediente correspondiente:
+
+I.- Suspensión: Retiro temporal del cumplimiento de las funciones de las y los Integrantes, sin goce de haber; y
+
+II.- Separación del cargo: Baja definitiva del cargo a las y los integrantes, por no cumplir con los requisitos de permanencia previstos en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
 ## TÍTULO SEXTO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -1711,13 +1725,23 @@ III.- Arresto hasta por 36 horas;
 
 IV.- Suspensión hasta por un término de noventa días;
 
-V.- Remoción; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-VI.- Las que determinen las demás disposiciones legales aplicables.
+V.- Remoción;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VI.- Separación del cargo; y
+
+(REUBICADA, P.O. 12 DE FEBRERO DE 2025)
+
+VII.- Las que determinen las demás disposiciones legales aplicables.
 
 2.- Las sanciones e infracciones para los Integrantes referidas en las fracciones I, II y III, del párrafo 1 de este artículo, serán aplicadas por el superior jerárquico inmediato.
 
-3.- El Consejo, en ejercicio de sus atribuciones, impondrá mediante resolución formal, las sanciones establecidas en las fracciones IV, V y VI de conformidad con las disposiciones legales de la materia.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+3.- El Consejo, en ejercicio de sus atribuciones, impondrá mediante resolución formal, las sanciones establecidas en las fracciones IV, V, VI y VII de conformidad con las disposiciones legales de la materia.
 
 4.- Para efectos de lo establecido en el párrafo 1 del presente artículo se entiende por:
 
@@ -1727,15 +1751,23 @@ II.- Apercibimiento: Conminación para que los Integrantes hagan o dejen de hace
 
 III.- Arresto hasta por 36 horas: Privación de la libertad de carácter administrativo, la cual se debe cumplir en el horario que no afecte la prestación del servicio;
 
-IV.- Suspensión: Retiro temporal del cumplimiento de las funciones de los Integrantes, sin goce de haber, por infracciones o faltas a las obligaciones y los deberes establecidos en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y las contenidas en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública y demás normas legales aplicables; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-V.- Remoción: Retiro definitivo del cargo a los Integrantes, por incurrir en falta grave al régimen disciplinario en el desempeño de sus funciones o incumplimiento de sus deberes o ejecución de prohibiciones, de conformidad con las disposiciones que regulen su régimen disciplinario.
+IV.- Suspensión: Retiro temporal del cumplimiento de las funciones de las y los Integrantes, sin goce de haber, por infracciones o faltas a las obligaciones y los deberes establecidos en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y las contenidas en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública y demás normas legales aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+V.- Remoción: Retiro definitivo del cargo a las y los Integrantes, por incurrir en falta grave al régimen disciplinario en el desempeño de sus funciones o incumplimiento de sus deberes o ejecución de prohibiciones, de conformidad con las disposiciones que regulen su régimen disciplinario; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+VI.- Separación del cargo: Baja definitiva del cargo a las y los integrantes, por no cumplir con los requisitos de permanencia previstos en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
 ###### ARTÍCULO 107.
 
 1.- Los Integrantes podrán ser removidos sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción, por cualquiera de las siguientes causas:
 
-I.- Por ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días, dentro de un término de treinta días;
+I.- (DEROGADA, P.O. 12 DE FEBRERO DE 2025)
 
 II.- Por sentencia condenatoria, por delito intencional que haya causado ejecutoria;
 
@@ -1759,9 +1791,15 @@ XI.- Por obligar, compeler o inducir a sus subalternos a entregarle dinero o cua
 
 XII.- Causar dolosamente el deterioro del equipo de trabajo o por hacer uso indebido de éste;
 
-XIII.- Resultar positivo en el examen de detección de uso o consumo de sustancias tóxicas prohibidas; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-XIV.- Las demás que se establezcan en los reglamentos.
+XIII.- Resultar positivo en el examen de detección de uso o consumo de sustancias tóxicas prohibidas;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+XIV.- Cuando por negligencia, extravíe, roben, dañen o alteren los bienes, equipos y armas que les hayan asignado para el ejercicio de sus funciones. Se entiende por negligencia, la falta de cuidado sobre los objetos citados; y
+
+XV.- Las demás que se establezcan en los reglamentos.
 
 2.- Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Institución sólo estará obligada a pagar la indemnización y demás prestaciones señaladas en la resolución respectiva, sin que en ningún caso proceda su reincorporación o reinstalación, en los términos que establece la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1803,7 +1841,9 @@ El pliego de acusación o las denuncias que se formulen deberán estar acompaña
 
 1.- La persona titular de la Sala, por conducto del Actuario, notificará el inicio del procedimiento al Integrante corriéndole traslado con una copia fotostática certificada del pliego de acusación o de la denuncia, según sea el caso, y de sus anexos, para que en un término de diez días hábiles formule un informe sobre los hechos y ofrezca las pruebas correspondientes; asimismo, le indicará que, si así lo decidiere, puede designar al defensor de oficio como su asesor legal al que podrá localizar en la sede del Consejo de la Secretaría.
 
-2.- La notificación se realizará de manera personal en el domicilio oficial de la adscripción o comisión del Integrante, en el último que hubiera reportado, en el lugar en que se encuentre físicamente, o por estrados en las instalaciones del Consejo de la Secretaría.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+2.- La notificación se realizará de manera personal en el domicilio oficial de la adscripción o comisión del o de la Integrante, en el último que hubiera reportado, dentro del Estado de Tamaulipas o por estrados en las instalaciones del Consejo de la Secretaría.
 
 3.- En los mismos términos, se le hará saber la suspensión temporal de funciones y haberes, cuando el Consejo de la Secretaría, por considerarlo necesario, así lo determine de acuerdo a la gravedad de la falta o sus efectos.
 
@@ -1917,7 +1957,9 @@ En las actuaciones que se practiquen en los procedimientos a que se refiere este
 
 ## TÍTULO NOVENO. DE LA PERMANENCIA EN LA SECRETARÍA
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE SEPARACIÓN
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO I. DEL PROCEDIMIENTO DE SEPARACIÓN
 
 ###### ARTÍCULO 121.
 
@@ -1935,7 +1977,9 @@ Resuelto el inicio del procedimiento, se notificará por escrito al Integrante, 
 
 ###### ARTÍCULO 124.
 
-1.- La notificación del citatorio se realizará en el domicilio oficial de la adscripción del Integrante, en el último que hubiera reportado, o en el lugar en que se encuentre físicamente.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+1.- La notificación del citatorio se realizará en el domicilio oficial de la adscripción del o de la Integrante, en el último que hubiera reportado dentro del territorio de Tamaulipas o por estrados en las instalaciones del Consejo de la Secretaría.
 
 2.- Asimismo, el Integrante deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Consejo de la Secretaría, apercibiéndolo de que, en caso de no hacerlo, las subsecuentes notificaciones se realizarán por estrados que se fijarán en lugar visible dentro de las instalaciones que ocupe el propio Consejo de la Secretaría.
 
@@ -1973,11 +2017,85 @@ La persona titular de la Sala y el representante de la Dirección de Asuntos Int
 
 Cuando en la resolución se determine que un Integrante no cumple con los requisitos de permanencia que disponga la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, se decretará su separación del cargo.
 
-### CAPÍTULO I. DEL RECURSO DE RECTIFICACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO ESPECIAL DE SEPARACIÓN DEL CARGO POR INASISTENCIAS
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 BIS.
+
+1.- Cuando un Integrante no cumpla con el requisito de permanencia de no ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días, enunciado en el artículo 58 fracción XIV de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, se dará inicio a un procedimiento administrativo especial de separación del cargo por inasistencias, por no reunir este requisito indispensable para continuar prestando el servicio.
+
+2.- El procedimiento administrativo especial estará a cargo de una Sala Especializada del Consejo para resolver este incumplimiento de requisito de permanencia.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 TER.
+
+1.- El procedimiento que se instaure con motivo de incumplimiento del requisito de permanencia en el Servicio Profesional de Carrera Policial enunciado en el artículo 58 fracción XIV, de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, se iniciará por solicitud fundada y motivada por la jefatura inmediata superior que tenga conocimiento del incumplimiento del requisito de permanencia del o de la integrante, que presuntamente haya sido incumplido, dirigida a la Presidencia del Consejo de la Secretaría, remitiendo para tal efecto el expediente integrado.
+
+2.- El Consejo de la Secretaría resolverá si procede iniciar el procedimiento especial de separación del cargo por inasistencias; en caso contrario, devolverá el expediente a la jefatura inmediata superior del o de la integrante que lo haya remitido, fundando y motivando la improcedencia.
+
+3.- En caso de que la jefatura inmediata superior del o de la integrante que haya incumplido con el requisito de permanencia enunciado en el presente Capítulo, no solicite el inicio del procedimiento administración especial citado, se dará vista, en su caso, a la Dirección de Asuntos Internos o al órgano interno de control, a efecto de que se determinen las responsabilidades que correspondan.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 QUATER.
+
+Resuelto el inicio del procedimiento, se notificará por escrito al o a la Integrante, las causas de inasistencia que motivan el procedimiento administrativo especial, citándolo a una audiencia que se verificará dentro de los cinco días hábiles siguientes al de la notificación, para que manifieste a lo que sus intereses convenga, ofrezca pruebas y formule alegatos, por sí o asistido de un defensor, previniéndole de que, en caso de no comparecer, se tendrán por ciertas las causas que dieron origen al mismo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 QUINQUIES.
+
+1.- La notificación del citatorio se realizará en el domicilio oficial de la adscripción del o de la Integrante, en el último que hubiera reportado dentro del Estado de Tamaulipas o por estrados en las instalaciones del Consejo de la Secretaría.
+
+2.- Asimismo, la o el Integrante deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Consejo de la Secretaría, apercibiéndolo de que, en caso de no hacerlo, las subsecuentes notificaciones se realizarán por estrados que se fijarán en lugar visible dentro de las instalaciones que ocupe el propio Consejo de la Secretaría.
+
+3.- El Consejo de la Secretaría podrá determinar la suspensión de las funciones y de haberes del o de la Integrante, si a su juicio es conveniente para la continuación del procedimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 SEXIES.
+
+1.- El día y hora señalados para la comparecencia del o de la Integrante, la persona titular de la Sala Especializada que la presidirá, declarará formalmente abierta la audiencia y enseguida, tomará los generales de aquél y de su defensor, a quien protestará en el cargo, y apercibirá al primero para conducirse con verdad. Acto seguido procederá a dar lectura a las constancias relativas a la causa de inasistencia y datos de cargo, así como las demás actuaciones que se hubiesen practicado.
+
+2.- La persona titular de la Sala Especializada, concederá el uso de la palabra al o a la Integrante y a su defensor, los que expondrán en forma concreta y específica lo que a su derecho convenga solo sobre las inasistencias materia del procedimiento administrativo especial.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 SEPTIES.
+
+La persona titular de la Sala Especializada y la persona representante de la Dirección de Asuntos Internos de la Secretaría, podrán formular preguntas al o a la Integrante, solicitar informes u otros elementos de prueba que sólo versen sobre sobre las insistencias que dieron motivo al inicio del procedimiento administrativo especial de separación del cargo por inasistencias, con la finalidad de allegarse de los datos necesarios para resolver el asunto.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 OCTIES.
+
+Las pruebas que sean presentadas por las partes solo versarán sobre las inasistencias que dieron motivo al inicio del procedimiento citado, serán debidamente analizadas, resolviendo cuáles se admiten y cuáles son desechadas dentro de la misma audiencia, una vez realizado lo anterior, se procederá a la formulación de alegatos y posteriormente al cierre de instrucción del procedimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 NONIES.
+
+1.- Una vez desahogadas todas las pruebas y presentados los alegatos, la persona titular de la Sala especializada cerrará la instrucción.
+
+2.- El Pleno del Consejo de la Secretaría deberá emitir resolución, dentro del término de diez días hábiles, contados a partir del cierre de la instrucción, la cual será notificada por conducto de los actuarios que se habiliten.
+
+3.- La resolución se notificará personalmente al o a la Integrante, por conducto de los actuarios que se habiliten, se realizará en el domicilio oficial de la adscripción del o de la Integrante, en el último que hubiera reportado dentro del Estado de Tamaulipas o por estrados en las instalaciones del Consejo de la Secretaría.
+
+4.- Contra la resolución procederá el recurso de reconsideración, el cual deberá interponerse por escrito en un término de cinco días hábiles, contados a partir de la notificación de la resolución, debiendo expresarse los agravios correspondientes.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 129 DECIES.
+
+Cuando en la resolución se determine que una o un Integrante incumplió con el requisito de permanencia que disponga la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, se decretará su separación del cargo, aplicándose la baja de manera inmediata por la Coordinación General de Administración de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
 
 ## TÍTULO DÉCIMO. DE LOS RECURSOS PROCEDENTES CONTRA LAS DETERMINACIONES DEL CONSEJO DE LA SECRETARÍA
 
-### CAPÍTULO II. DEL RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO I. DEL RECURSO DE RECTIFICACIÓN
 
 ###### ARTÍCULO 130.
 
@@ -2009,7 +2127,7 @@ V.- El Pleno de la Secretaría ordenará se notifique su resolución en los tres
 
 El recurso de rectificación no se interpondrá en ningún caso, contra los criterios y contenidos de las evaluaciones que se hubieren aplicado.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES PARA LOS PROCEDIMIENTOS DEL CONSEJO DE LA SECRETARÍA
+### CAPÍTULO II. DEL RECURSO DE RECONSIDERACIÓN
 
 ###### ARTÍCULO 133.
 
@@ -2032,6 +2150,8 @@ V.- Recibido el recurso de reconsideración, la Sala dentro de los siguientes tr
 VI.- El Pleno de la Secretaría, habiendo examinado los agravios que se hayan hecho valer, emitirá resolución dentro de un plazo de cinco días hábiles. Hecho lo anterior, regresará el expediente y ordenará la notificación al presunto infractor a través de la Sala, en la forma prevista en esta Ley.
 
 ## TÍTULO DÉCIMO PRIMERO
+
+### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES PARA LOS PROCEDIMIENTOS DEL CONSEJO DE LA SECRETARÍA
 
 ###### ARTÍCULO 135.
 
@@ -2540,3 +2660,19 @@ La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán su
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-238 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto, se realizarán las acciones jurídicas y administrativas inherentes por lo que deberán adecuarse la normatividad aplicable, a efecto de que se realicen los procedimientos administrativos de remoción por faltas graves al régimen ·disciplinario y el de separación del cargo por incumplimiento a los requisitos de permanencia, de las y los integrantes de las instituciones policiales de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
