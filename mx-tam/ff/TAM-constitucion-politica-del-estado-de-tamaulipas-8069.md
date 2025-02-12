@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-01-16"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -315,9 +315,9 @@ I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino en virt
 
 II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
 
-III. El derecho de los hombres y las mujeres a la igualdad de oportunidades en los ámbitos político, económico, social y cultural;
+III. El derecho de los hombres y las mujeres a la igualdad de oportunidades en los ámbitos político, económico, social, cultural y laboral.
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
 
@@ -5616,3 +5616,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En los años en que haya elecciones federales para renovar la Presidencia de la República, el informe que rinda el titular del Poder Ejecutivo del Estado, así como las comparecencias de las y los titulares de las dependencias de la Administración Pública Estatal, se realizará en la primera quincena de febrero.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-235 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17, FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
