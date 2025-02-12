@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2023-09-29"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -549,6 +549,12 @@ Para la inscripción, además de la documentación e información que les solici
 
 El Ayuntamiento de que se trate, extenderá un certificado de inscripción en forma anual, el que no tendrá costo. Por su parte, el prestador de servicios deberá exhibir en un lugar visible dicho certificado.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
+###### ARTÍCULO 39 Bis.
+
+Con el objeto de facilitar la consulta de la información, cada ayuntamiento deberá publicar en su portal de internet, el padrón de prestadores de servicios relacionados con las personas migrantes, debiéndolo actualizar en forma inmediata ante cada alta, baja o modificación que se le realice.
+
 ## TÍTULO SEXTO. DE LAS SANCIONES
 
 ### Capítulo Único
@@ -620,3 +626,11 @@ P.O. 29 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0157.- SE ADICIONA EL ARTÍCULO 39 BIS, A LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
