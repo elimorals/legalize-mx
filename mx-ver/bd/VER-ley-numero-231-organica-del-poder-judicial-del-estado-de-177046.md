@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-231-organica-del-poder-judicial-del-estado-de-177046
 country: "mx"
 rank: "ley"
 publication_date: "2025-01-29"
-last_updated: "2025-01-29"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 231 ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE FEBRERO DE 2025 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NUMERO 231 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 12 DE FEBRERO DE 2025.]</small>
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 29 de enero de 2025.
 
@@ -1287,13 +1287,19 @@ I. Faltas contra la administración de justicia, los cuales comprenden los actos
 
 II. Faltas por infracción a deberes establecidos en la ley que no están relacionadas directamente con el ejercicio de la función judicial al momento de dictar resoluciones.
 
+> <small>(F. DE E., G.O. 12 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 103.
 
-Los medios de impugnación en los procedimientos de responsabilidad administrativa estarán previstos en los acuerdos generales que al efecto emita el Pleno del Tribunal de Disciplina o el Pleno del Órgano de Administración, según corresponda, de conformidad con lo que disponen las constituciones Federal y del Estado, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables. En el caso del Tribunal de Disciplina, dichos acuerdos deberán sujetarse a los siguientes lineamientos:
+Los medios de impugnación en los procedimiento (sic) de responsabilidad administrativa estarán previstos en los acuerdos generales que al efecto emita el Pleno del Tribunal de Disciplina o el Pleno del Órgano de Administración, según corresponda, de conformidad con lo que disponen las Constituciones Federal y del Estado, la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables. En el caso del Tribunal de Disciplina, dichos acuerdos deberán sujetarse a los siguientes lineamientos:
 
-a) Las decisiones disciplinarias emitidas por las Comisiones del Tribunal de Disciplina podrán ser impugnadas mediante recurso de revisión dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva. Su resolución corresponde al Pleno del Tribunal de Disciplina.
+> <small>(F. DE E., G.O. 12 DE FEBRERO DE 2025)</small>
 
-b) La admisión y el desechamiento de quejas por parte de la Presidencia del Tribunal de Disciplina, así como los dictámenes conclusivos y la inactividad procesal superior a seis meses por parte del Órgano de Investigación, serán impugnables mediante recurso de inconformidad. Su resolución corresponderá a una Comisión del Tribunal de Disciplina.
+I. Las decisiones disciplinarias emitidas por las Comisiones del Tribunal de Disciplina podrán ser impugnadas mediante recurso de revisión dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva. Su resolución corresponde al Pleno del Tribunal de Disciplina.
+
+> <small>(F. DE E., G.O. 12 DE FEBRERO DE 2025)</small>
+
+II. La admisión y el desechamiento de quejas por parte de la Presidencia del Tribunal de Disciplina, así como los dictámenes conclusivos y la inactividad procesal superior a seis meses por parte del Órgano de Investigación, serán impugnables mediante recurso de inconformidad. Su resolución corresponderá a una Comisión del Tribunal de Disciplina.
 
 SECCIÓN DECIMOPRIMERA
 
@@ -2869,7 +2875,9 @@ T R A N S I T O R I O S
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-SEGUNDO. Se abroga la Ley 616 Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el seis de febrero de dos mil dieciocho, con las salvedades previstas en los transitorios siguientes.
+> <small>(F. DE E., G.O. 12 DE FEBRERO DE 2025)</small>
+
+SEGUNDO. Se abroga la Ley 615 Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el seis de febrero de dos mil dieciocho, con las salvedades previstas en los transitorios siguientes.
 
 TERCERO. Hasta en tanto las Magistradas y Magistrados electos en el proceso electoral extraordinario 2024-2025 tomen protesta y las y los integrantes del Órgano de Administración Judicial entren en funciones, la conformación actual del Poder Judicial se regirá para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias, nombramientos, designaciones, régimen de organización y operación y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave que se abroga.
 
