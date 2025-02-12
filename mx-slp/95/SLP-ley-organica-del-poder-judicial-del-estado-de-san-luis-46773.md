@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2024-12-13"
+last_updated: "2025-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -2403,9 +2403,11 @@ II. Auxilio de la fuerza pública. Si existe resistencia al mandamiento legítim
 
 La facultad para imponer las sanciones que establece el Capítulo Tercero de este Título, caducará en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 189.
 
-En todo lo relativo al procedimiento no previsto en esta Ley, así como en la apreciación y valorización de las pruebas, se observarán las disposiciones del Código de Procedimientos Civiles del Estado.
+En todo lo relativo al procedimiento no previsto en esta Ley, así como en la apreciación y valorización de las pruebas, se observarán las disposiciones de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, así como del Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ## TITULO SEPTIMO (SIC). DEL FONDO DE APOYO PARA LA ADMINISTRACION DE JUSTICIA
 
@@ -2958,5 +2960,13 @@ P.O. 13 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0020.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 17 Y ADICIONAN LAS FRACCIONES XIV Y XV, DEL MISMO ARTÍCULO 17, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0160.- SE REFORMA EL ARTÍCULO 189, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
