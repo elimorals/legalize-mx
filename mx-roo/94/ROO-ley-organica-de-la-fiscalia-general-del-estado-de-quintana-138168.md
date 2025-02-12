@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2024-09-18"
+last_updated: "2025-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -194,6 +194,10 @@ V. Ordenar y dirigir las actividades de la Policía de Investigación y de las I
 > <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
 V Bis. Ejercer el mando y conducción de las Instituciones policiales de investigación, cuando realicen actividades de investigación, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como llevar a cabo el trámite expedito correspondiente a las investigaciones que le sean turnadas por dichas instituciones;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+
+V Ter. Celebrar convenios de coordinación y seguimiento con la Secretaría de Seguridad y Protección Ciudadana del Gobierno Federal y la Secretaría de Seguridad Ciudadana, en el ámbito de su respectiva competencia, a efecto de dar cumplimiento a lo previsto por el Artículo 29 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
 
@@ -3480,3 +3484,11 @@ P.O. 18 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. En tanto se expide la Ley de la Fiscalía Especializada en Combate a la Corrupción del Estado, como órgano público autónomo, se continuarán aplicando los preceptos legales y reglamentarios que se encontraban vigentes previo a la entrada en vigor del presente decreto, para salvaguardar su operatividad, atribuciones y facultades inherentes a la persecución e investigación de los delitos de su competencia.
+
+P.O. 12 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 091 POR EL QUE SE REFORMA LA FRACCIÓN XXX Y SE ADICIONAN LAS FRACCIONES VIII BIS Y XXII BIS DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; SE REFORMAN LAS FRACCIONES XII, XXIII, XXIV Y SE ADICIONA LA FRACCIÓN XXV DEL ARTÍCULO 6 DE LA LEY DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO; Y SE ADICIONA LA FRACCIÓN V TER DEL APARTADO A DEL ARTÍCULO 12 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo dispuesto en el presente Decreto.
