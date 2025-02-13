@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2024-12-04"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -359,9 +359,13 @@ III. Evitar que la atención que reciban la víctima y el agresor sea proporcion
 
 IV. Evitar aplicar procedimientos de mediación por ser inviables en una relación de sometimiento entre el agresor y la víctima;
 
-V. Favorecer la separación y alejamiento del agresor con respecto a la víctima, y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-VI. Procurar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
+V. Favorecer la separación y alejamiento del agresor con respecto a la víctima;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
+
+VI. Procurar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta. Aplicar a quienes laboren en los refugios previo a su contratación, exámenes psicométricos para garantizar un trato adecuado y ético hacia las víctimas. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia, y
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
@@ -1746,3 +1750,13 @@ P.O. 4 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0016.- SE REFORMAN LAS FRACCIONES V Y VII DEL ARTÍCULO 17, EL TÍTULO DEL CAPÍTULO VII DEL TÍTULO CUARTO, EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 24, LA FRACCIÓN I DEL ARTÍCULO 30 Y LOS ARTÍCULOS 55 Y 57, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0161.- SE REFORMA (SIC) LAS FRACCIONES V Y VI DEL ARTÍCULO 13, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. Las dependencias y entidades competentes en el ambito estatal y municipal, deberán hacer las adecuaciones normativas correspondientes con base en el presente decreto.
