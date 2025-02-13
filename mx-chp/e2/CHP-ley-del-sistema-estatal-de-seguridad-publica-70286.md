@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2024-12-05"
+last_updated: "2025-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -115,9 +115,9 @@ VIII. Fiscalía del Estado: A la Fiscalía General del Estado que integran a las
 
 IX. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares.
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-X. Institutos: A los órganos de las instituciones de seguridad pública del Estado, encargados de la formación y actualización especializada de aspirantes y servidores públicos de las funciones de seguridad y protección ciudadana, ministerial, pericial y de policía ministerial.
+X. Institutos: A los órganos de las instituciones de seguridad pública del Estado, encargados de la formación y actualización especializada de aspirantes y servidores públicos de las funciones de seguridad y protección ciudadana, ministerial, pericial y de agentes de investigación;
 
 XI. Programa Rector: al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia, respectivamente;
 
@@ -138,6 +138,10 @@ XVI. Estado: al Gobierno del Estado de Chiapas;
 XVII. Municipios: A todos los Municipios que integran el Estado de Chiapas;
 
 XVIII. Sistema Nacional: al Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2025)</small>
+
+XIX. Agente de Investigación: A los integrantes de la Agencia de Investigación e Inteligencia Ministerial de la Fiscalía General del Estado de Chiapas, conformada por las áreas de investigación y de inteligencia que se establezcan.
 
 ###### Artículo 6.
 
@@ -833,9 +837,9 @@ IX. Mantener en buen estado el armamento, material, municiones y equipo que se l
 
 X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y,
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-XI. Ejercer las facultades previstas en el artículo 132, fracciones I, II, III, IV, VI, VII, VIII, IX, X, XII, XIV y XV del Código Nacional de Procedimientos Penales, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o la policía investigadora intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado. De las actuaciones se deberá elaborar un registro fidedigno.
+XI. Ejercer las facultades previstas en el artículo 132, fracciones I, II, III, IV, VI, VII, VIII, IX, X, XII, XIV y XV del Código Nacional de Procedimientos Penales, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o las y los agentes de investigación intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado. De las actuaciones se deberá elaborar un registro fidedigno.
 
 XII. Las demás que establezcan las disposiciones legales aplicables.
 
@@ -985,19 +989,19 @@ VII. Las demás que establezcan otras disposiciones legales.
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 42.
 
-El Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, comprenderá lo relativo a las Policías Preventivas, Fiscal del Ministerio Público, Policía de Investigación y a los Peritos.
+El Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, comprenderá lo relativo a las Policías Preventivas, Fiscal del Ministerio Público, Agentes de Investigación y a los Peritos.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 43.
 
 El Consejo Estatal, promoverá la implementación del Servicio de Carrera en sus diferentes niveles, comprendiendo los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, evaluación, ascenso, dignificación y separación del servicio, a través de las instancias administrativas de formación a la carrera policial y ministerial.
 
-La policía de Investigación integrada por el Buró Ministerial y por la Policía de Apoyo Ministerial, de la Fiscalía del Estado, se sujetarán a lo dispuesto por esta Ley y en la Ley Orgánica que la rige, en materia de carrera policial.
+La Agencia de Investigación e Inteligencia Ministerial integrada por las áreas de investigación y de inteligencia que se establezcan de la Fiscalía del Estado, se sujetarán a lo dispuesto por esta Ley y en la Ley Orgánica que la rige, en materia de carrera policial.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
@@ -1007,17 +1011,17 @@ El Servicio de Carrera Ministerial, Policial y Pericial de la Fiscalía del Esta
 
 Para los efectos del párrafo anterior la permanencia se refiere a los requisitos del personal de la Fiscalía del Estado, de capacitarse, certificarse, presentar los exámenes y cursos a que se refiere esta Ley y su Ley Orgánica, para estar en aptitud de continuar prestando sus servicios en esa institución.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 43 Ter.
 
-Para ingresar como Fiscal del Ministerio Público, Policía de Investigación y Perito a la Fiscalía del Estado, independientemente de la aprobación de los exámenes y cursos que exija el puesto, los titulares de las unidades administrativas responsables de esa institución, deberán consultar previamente el Registro Nacional de Seguridad Pública, de Seguridad Pública del Estado, de la Secretaría Anticorrupción y Buen Gobierno, y de la Fiscalía General de la República; así como solicitar, en su caso, la información respectiva a las instituciones afines, con el objetivo de verificar que el aspirante no cuente con algún impedimento para ocupar el puesto de que se trate.
+Para ingresar como Fiscal del Ministerio Público, Agente de Investigación y Perito a la Fiscalía del Estado, independientemente de la aprobación de los exámenes y cursos que exija el puesto, los titulares de las unidades administrativas responsables de esa institución, deberán consultar previamente el Registro Nacional de Seguridad Pública, de Seguridad Pública del Estado, de la Secretaría Anticorrupción y Buen Gobierno, y de la Fiscalía General de la República; así como solicitar, en su caso, la información respectiva a las instituciones afines, con el objetivo de verificar que el aspirante no cuente con algún impedimento para ocupar el puesto de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 43 Quáter.
 
-El Servicio de Carrera Ministerial, Policial y Pericial de la Fiscalía del Estado, comprende lo relativo a Fiscales del Ministerio Público, Elementos de la Policía de Investigación, Peritos, y se sujetará a las bases siguientes:
+El Servicio de Carrera Ministerial, Policial y Pericial de la Fiscalía del Estado, comprende lo relativo a Fiscales del Ministerio Público, Agentes de Investigación, Peritos, y se sujetará a las bases siguientes:
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1033,13 +1037,13 @@ III. Se rige por los principios de certeza, legalidad, objetividad, imparcialida
 
 El contenido teórico y práctico de los programas de capacitación, actualización y especialización fomentará que los Fiscales del Ministerio Público, y los auxiliares directos logren la profesionalización y ejerzan sus atribuciones con base en los referidos principios, promoverán el efectivo aprendizaje, el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-IV. Contará con un sistema de rotación de Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos dentro de la Fiscalía del Estado.
+IV. Contará con un sistema de rotación de Fiscales del Ministerio Público, Agentes de Investigación y Peritos dentro de la Fiscalía del Estado.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-V. Determinará los perfiles, categorías y funciones de los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos.
+V. Determinará los perfiles, categorías y funciones de los Fiscales del Ministerio Público, Agentes de Investigación y Peritos.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1099,11 +1103,11 @@ i) No incurrir en actos u omisiones que causen la pérdida de confianza o afecte
 
 j) Los demás requisitos que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 43 Septies.
 
-Para ingresar y permanecer como Policía de Investigación de Carrera se requiere:
+Para ingresar y permanecer como Agente de Investigación de Carrera se requiere:
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1135,33 +1139,59 @@ l) Sustentar y acreditar el concurso de ingreso.
 
 m) Aprobar y obtener la certificación respectiva de Control de Confianza.
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE FEBRERO DE 2025)</small>
 
-II. Para ingresar a la Policía de Apoyo Ministerial:
+II. Para ingresar a las áreas de investigación y de inteligencia de la Agencia de Investigación e Inteligencia Ministerial:
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 b) Acreditar que se han concluido, por lo menos los estudios correspondientes a la educación media superior.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 c) Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 d) Tener acreditado en su caso, el Servicio Militar Nacional.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 e) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 f) Aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, poligráfico, de entorno social y de control de confianza.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 g) Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 h) Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 i) No padecer alcoholismo.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 j) No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 k) Aprobar los cursos de formación, capacitación y profesionalización que se impartan.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 l) Sustentar y acreditar el concurso de ingreso.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 m) Aprobar y obtener la certificación respectiva de Control de Confianza.
 
@@ -1359,9 +1389,9 @@ III. Por no obtener la revalidación de su Certificado, y,
 
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-Artículo 43 Octodecies.- Para permanecer en el servicio de la Fiscalía del Estado, como Fiscal del Ministerio Público, elementos de la Policía, Peritos y Secretarios de Acuerdos Ministeriales, dentro del servicio de carrera ministerial, los interesados deberán participar en los programas que con ese fin determine la institución y en los concursos de promoción a que se convoque.
+Artículo 43 Octodecies.- Para permanecer en el servicio de la Fiscalía del Estado, como Fiscal del Ministerio Público, Agentes de Investigación, Peritos y Secretarios de Acuerdos Ministeriales, dentro del servicio de carrera ministerial, los interesados deberán participar en los programas que con ese fin determine la institución y en los concursos de promoción a que se convoque.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
@@ -1435,9 +1465,9 @@ III. Oficiales; y,
 
 IV. Escala Básica.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-En las policías de Investigación se establecerán como mínimo los niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
+En la Agencia de Investigación e Inteligencia Ministerial se establecerán como mínimo los niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -2258,3 +2288,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- El Consejo Estatal someterá a consideración del Ejecutivo Estatal las adecuaciones al reglamento del presente Decreto en un plazo no mayor a quince días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 205 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS; DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS Y DE LA LEY DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, a la entrada en vigor del presente Decreto, realizarán de inmediato las acciones necesarias para su cumplimiento.
