@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2025-01-22"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -541,9 +541,9 @@ IX. Mantener en buen estado el armamento, material, municiones y equipo que se l
 
 X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros análogos, si no media orden expresa para el desempeño de sus actividades o en casos de flagrancia.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-XI. Ejercer las facultades previstas en el artículo 132 del Código Nacional de Procedimientos Penales, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o la policía investigadora intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado, además de dichas actuaciones se deberá elaborar un registro fidedigno.
+XI. Ejercer las facultades previstas en el artículo 132 del Código Nacional de Procedimientos Penales, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o las o los Agentes de Investigación e Inteligencia Ministerial intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado, además de dichas actuaciones se deberá elaborar un registro fidedigno.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -1354,3 +1354,15 @@ Artículo Cuarto. Los ayuntamientos municipales en un plazo no mayor a treinta d
 Artículo Quinto. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo a través de la Secretaría de Finanzas, implementará un “Programa para el Suministro Gratuito de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Chiapas.
 
 Las erogaciones que se generen con motivo de la implementación del programa mencionado en el párrafo anterior, se cubrirán con cargo al presupuesto asignado a la Secretaría de Finanzas, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 205 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS; DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS Y DE LA LEY DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, a la entrada en vigor del presente Decreto, realizarán de inmediato las acciones necesarias para su cumplimiento.
