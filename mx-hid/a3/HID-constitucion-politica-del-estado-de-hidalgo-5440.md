@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2025-01-30"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -183,9 +183,9 @@ La familia es el elemento natural y fundamental de la sociedad y tiene derecho a
 
 Todas las personas son iguales ante la ley.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-Toda persona tiene derecho a una vida libre de violencia. El Estado priorizará el ejercicio de este derecho a las niñas, niños, adolescentes y mujeres.
+Toda persona tiene derecho a una vida libre de violencia. El Estado priorizará el ejercicio de este derecho a las niñas, niños, adolescentes y mujeres. Asimismo, todas las personas tienen derecho a la paz, y a la convivencia pacífica y solidaria.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1929,9 +1929,13 @@ La política de mejora regulatoria en el Estado, será obligatoria para todas la
 
 Se reconoce al turismo como una actividad prioritaria para el desarrollo económico de la entidad, cuyos procesos representan la base para la generación de empleos, la reducción de la pobreza, el impulso de la infraestructura, el desarrollo de la pequeña y mediana empresa, la productividad y competitividad y el acceso al aprovechamiento sustentable de los recursos naturales, así como por su impacto social en la promoción de las tradiciones y costumbres de los hidalguenses y de la gran diversidad natural y cultural con que cuenta el Estado.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada en el Estado en los términos que señalen los convenios correspondientes y los Objetivos Nacionales y Estatales.
+Se reconoce a la agricultura sostenible, productiva e incluyente, como una actividad de producción de alimentos saludables, mediante la innovación de nuevas prácticas ecológicas y respetuosa con el medio ambiente.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
+La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada en el Estado en los términos que señalen los convenios correspondientes y los objetivos Nacionales y Estatales.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
 
@@ -4478,3 +4482,15 @@ SEGUNDO. El segundo párrafo del artículo 38 entrará en vigor el primero de se
 TERCERO. Las y los integrantes de la LXVII Legislatura del Congreso del Estado durarán en su encargo del cinco de septiembre del 2027 al 31 de agosto de 2030; en consecuencia, la reforma al artículo 36 entrará en vigor el primero de septiembre de 2030, por lo que las siguientes Legislaturas tomarán posesión de su cargo el primero de septiembre del año de la elección.
 
 CUARTO. El Congreso del Estado deberá realizar la adecuación y armonización necesaria de la legislación secundaria de conformidad con lo aprobado en el presente Decreto, dentro del término de ciento veinte días naturales contados a partir de la fecha de su publicación.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 198 - LXVI POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHO A LA PAZ".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 199 - LXVI POR EL QUE SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 83 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE AGRICULTURA SOSTENIBLE”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
