@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-fiscalia-general-del-estado-de-chiapas-12033
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-03-08"
-last_updated: "2022-11-02"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 8 de marzo de 2017.
 
@@ -91,9 +91,9 @@ X. Órgano Interno de Control: Al Órgano Interno de Control de la Fiscalía Gen
 
 XI. Perito: A la persona que posea conocimientos en cualquier ciencia, arte, técnica o disciplina y tenga título profesional o constancia legal que acredite su experticia en el punto sobre el cual ha de oírse su parecer, adscrito a la Dirección General de Servicios Periciales de la Fiscalía General del Estado de Chiapas.
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-XII. Policía: A la Policía de Investigación de la Fiscalía General del Estado de Chiapas, integrada por la Policía de Apoyo Ministerial y la Policía Cibernética.
+XII. Agente de Investigación: A los integrantes de la Agencia de Investigación e Inteligencia Ministerial de la Fiscalía General del Estado de Chiapas, conformada por las áreas de investigación y de inteligencia que se establezcan.
 
 XIII. Reglamento: Al Reglamento de la Ley Orgánica de la Fiscalía General del Estado.
 
@@ -113,9 +113,9 @@ II. Informar a la víctima u ofendido del delito, desde el momento en que se pre
 
 III. Restituir provisionalmente a la víctima u ofendido en el goce de sus derechos, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-IV. Llevar la conducción y mando de la Policía de Investigación en el ejercicio de la función de la investigación de los hechos delictivos.
+IV. Llevar la conducción y mando de las y los Agentes de Investigación en el ejercicio de la función de la investigación de los hechos delictivos.
 
 V. Ejercer sus facultades de investigación respecto de los hechos delictivos en materia concurrente cuando las leyes le otorguen competencia a las autoridades del fuero común, y se actualicen las hipótesis que para tal efecto se contemplen en las Leyes Generales.
 
@@ -245,9 +245,9 @@ a) Órganos Sustantivos Auxiliares.
 
 Directos:
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-1. Dirección General de la Policía de Investigación.
+1. Agencia de Investigación e Inteligencia Ministerial.
 
 2. Dirección General de Servicios Periciales.
 
@@ -301,13 +301,13 @@ V. Las demás que señale el Reglamento.
 
 El nombramiento y remoción de los titulares de las Fiscalías de Combate a la Corrupción y de Delitos Electorales, podrán ser objetados por el voto de las dos terceras partes de los miembros del Congreso del Estado, de conformidad con el artículo 93 de la Constitución Local, en el plazo de diez días hábiles contados a partir de la notificación que haga el Fiscal General al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 9.
 
-La Fiscalía General contará con Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones jurídicas aplicables.
+La Fiscalía General contará con Fiscales del Ministerio Público, Agentes de Investigación y Peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones jurídicas aplicables.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser de designación especial y no serán miembros del Servicio Profesional de Carrera.
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser de designación especial y no serán miembros del Servicio Profesional de Carrera.
 
 El Fiscal General determinará en el Reglamento y en las disposiciones que para tal efecto emita, los servidores públicos que tendrán el carácter de Fiscales del Ministerio Público distintos a aquellos que formen parte del Servicio Profesional de Carrera.
 
@@ -559,11 +559,11 @@ Para el ingreso de los servidores públicos a la Fiscalía General, además de l
 
 ### CAPÍTULO II. DEL SERVICIO PROFESIONAL DE CARRERA MINISTERIAL, POLICIAL Y PERICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 25.
 
-El Servicio Profesional de Carrera, comprende lo relativo a Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, y se sujetará a las bases siguientes:
+El Servicio Profesional de Carrera, comprende lo relativo a Fiscales del Ministerio Público, Agentes de Investigación y Peritos, y se sujetará a las bases siguientes:
 
 I. Estará conformado por las etapas de ingreso, desarrollo y terminación del servicio, así como la reincorporación al mismo, en los términos de las disposiciones aplicables.
 
@@ -573,13 +573,13 @@ III. Se rige por los principios de certeza, legalidad, objetividad, imparcialida
 
 IV. El contenido teórico y práctico de los programas de capacitación, actualización y especialización fomentará que los Fiscales del Ministerio Público y sus auxiliares directos logren la profesionalización y ejerzan sus atribuciones con base en los referidos principios, promoverán el efectivo aprendizaje, el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio.
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-V. Contará con un sistema de rotación de Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, dentro de la Fiscalía General.
+V. Contará con un sistema de rotación de Fiscales del Ministerio Público, Agentes de Investigación y Peritos, dentro de la Fiscalía General.
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-VI. Determinará los perfiles, categorías y funciones de los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos.
+VI. Determinará los perfiles, categorías y funciones de los Fiscales del Ministerio Público, Agentes de Investigación y Peritos.
 
 ###### Artículo 26.
 
@@ -635,11 +635,11 @@ i) No incurrir en actos u omisiones que causen la pérdida de confianza o afecte
 
 j) Los demás requisitos que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 28.
 
-Para ingresar y permanecer como elemento de la Policía de Investigación se requiere:
+Para ingresar y permanecer como Agentes de Investigación, se requiere:
 
 I. Para ingresar:
 
@@ -757,25 +757,25 @@ g) Cumplir las órdenes de comisión, rotación y cambio de adscripción.
 
 h) Cumplir con las obligaciones que les impongan las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 30.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y los Peritos, serán de designación especial, cuando el Fiscal General los nombre, aunque no forman parte del Servicio Profesional de Carrera, en los términos de lo dispuesto en el artículo siguiente.
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos, serán de designación especial, cuando el Fiscal General los nombre, aunque no forman parte del Servicio Profesional de Carrera, en los términos de lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 31.
 
-Tratándose de personas con amplia experiencia profesional, el Fiscal General, de conformidad con el Reglamento, y lo que establezcan las disposiciones relativas al Servicio Profesional de Carrera, podrá en casos excepcionales, llevar a cabo la designación especial de Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, dispensado la presentación de los concursos correspondientes.
+Tratándose de personas con amplia experiencia profesional, el Fiscal General, de conformidad con el Reglamento, y lo que establezcan las disposiciones relativas al Servicio Profesional de Carrera, podrá en casos excepcionales, llevar a cabo la designación especial de Fiscales del Ministerio Público, Agentes de Investigación y Peritos, dispensado la presentación de los concursos correspondientes.
 
 Dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los requisitos siguientes:
 
 a) Para Fiscal del Ministerio Público y los señalados en el artículo 27, fracción I, de esta Ley, con excepción del inciso e).
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-b) Para elemento de la Policía de Investigación, los señalados en el artículo 28, fracción I, con excepción de los señalados en los incisos a), b), y m) respectivo.
+b) Para Agentes de Investigación, los señalados en el artículo 28, fracción I, con excepción de los señalados en los incisos a), b), y m) respectivo.
 
 c) Para Perito, los señalados en el artículo 29, fracción I de esta Ley, con excepción de los incisos a) y f).
 
@@ -857,11 +857,11 @@ Para efectos de revalidación de la certificación y el registro, seis meses ant
 
 ### CAPÍTULO IV. DE LAS PROMOCIONES
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 44.
 
-Para la promoción en el servicio de la Fiscalía General, como Ministerio Público, elemento de la Policía de Investigación y Peritos, dentro del Servicio Profesional de Carrera, los interesados deberán participar en los programas que con ese fin determine y convoque la Fiscalía General.
+Para la promoción en el servicio de la Fiscalía General, como Ministerio Público, Agentes de Investigación y Peritos, dentro del Servicio Profesional de Carrera, los interesados deberán participar en los programas que con ese fin determine y convoque la Fiscalía General.
 
 ###### Artículo 45.
 
@@ -883,47 +883,47 @@ Todos los servidores públicos de la Fiscalía General, están obligados a segui
 
 Atendiendo a la naturaleza de sus funciones, los servidores públicos de la Fiscalía General, se regirán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-I. Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, se regirán en términos de lo previsto por los párrafos primero, segundo y tercero de la fracción XIII, apartado B, del artículo 123 de la Constitución Federal, esta Ley, el Reglamento, y demás disposiciones aplicables.
+I. Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos, se regirán en términos de lo previsto por los párrafos primero, segundo y tercero de la fracción XIII, apartado B, del artículo 123 de la Constitución Federal, esta Ley, el Reglamento, y demás disposiciones aplicables.
 
 II. Los demás servidores públicos y personal administrativo de la Fiscalía General, se regirán, en lo conducente, por la Ley del Servicio Civil del Estado y los Municipios de Chiapas, serán considerados trabajadores de confianza en razón de la naturaleza de las funciones propias de la Institución.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 49.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos se designarán por un período de dos años, al término del cual serán sometidos a una nueva evaluación y, en caso de resultar satisfactoria, se les expedirá el nombramiento por otro periodo igual. El mismo procedimiento procederá en los años subsecuentes.
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos se designarán por un período de dos años, al término del cual serán sometidos a una nueva evaluación y, en caso de resultar satisfactoria, se les expedirá el nombramiento por otro periodo igual. El mismo procedimiento procederá en los años subsecuentes.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 50.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, serán adscritos por los titulares de los órganos desconcentrados y unidades administrativas de la Fiscalía General, a las diversas áreas de la Institución, tomando en consideración su experiencia, categoría y especialidad.
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos, serán adscritos por los titulares de los órganos desconcentrados y unidades administrativas de la Fiscalía General, a las diversas áreas de la Institución, tomando en consideración su experiencia, categoría y especialidad.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 51.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, dejarán de prestar sus servicios en la Fiscalía General, si no cumplen con los requisitos de permanencia establecidos en la presente Ley y demás disposiciones aplicables, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Fiscalía General sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos, dejarán de prestar sus servicios en la Fiscalía General, si no cumplen con los requisitos de permanencia establecidos en la presente Ley y demás disposiciones aplicables, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Fiscalía General sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 52.
 
-El Reglamento y demás disposiciones aplicables establecerán sistemas de estímulos económicos derivados del desempeño y antigüedad de los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos.
+El Reglamento y demás disposiciones aplicables establecerán sistemas de estímulos económicos derivados del desempeño y antigüedad de los Fiscales del Ministerio Público, Agentes de Investigación y Peritos.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 53.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos que estén sujetos a proceso penal, como probables responsables de delitos dolosos o culposos calificados como graves por la legislación penal, serán suspendidos desde que se dicte el auto de vinculación a proceso.
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos que estén sujetos a proceso penal, como probables responsables de delitos dolosos o culposos calificados como graves por la legislación penal, serán suspendidos desde que se dicte el auto de vinculación a proceso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 54.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, no podrán durante el periodo que ocupen el puesto:
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos, no podrán durante el periodo que ocupen el puesto:
 
 I. Desempeñar otro empleo, cargo o comisión de cualquier naturaleza, salvo las de carácter docente y aquellos que autorice la Fiscalía General, siempre y cuando no sean incompatibles con sus funciones.
 
@@ -939,15 +939,15 @@ V. Ejercer o desempeñar los demás empleos, cargos, comisiones o actividades qu
 
 Los Fiscales del Ministerio Público deberán excusarse o podrán ser recusados del conocimiento de los asuntos en que intervengan, cuando exista alguna de las causas señaladas en el Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2025)</small>
 
-### CAPÍTULO II. DE LOS DERECHOS DEL MINISTERIO PÚBLICO, ELEMENTOS DE LA POLICÍA DE INVESTIGACIÓN Y PERITOS
+### CAPÍTULO II. DE LOS DERECHOS DEL MINISTERIO PÚBLICO, AGENTES DE INVESTIGACIÓN Y PERITOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 56.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, tendrán los derechos siguientes:
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos, tendrán los derechos siguientes:
 
 I. Participar en los cursos de capacitación, actualización y especialización correspondientes, así como en aquellos que se acuerden con otras instituciones académicas nacionales o del extranjero, que tengan relación con sus funciones, sujeto a la disponibilidad presupuestal y a las necesidades del servicio.
 
@@ -971,23 +971,23 @@ X. Gozar de los beneficios que establezcan las disposiciones aplicables una vez 
 
 XI. Los demás que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos de designación especial, participarán en los programas de capacitación, actualización y especialización, y gozarán de los derechos a que se refiere este artículo, salvo los contenidos en las fracciones V y X.
+Los Fiscales del Ministerio Público, Agentes de Investigación y Peritos de designación especial, participarán en los programas de capacitación, actualización y especialización, y gozarán de los derechos a que se refiere este artículo, salvo los contenidos en las fracciones V y X.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2025)</small>
 
-### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS FISCALES DEL MINISTERIO PÚBLICO, ELEMENTOS DE LA POLICÍA DE INVESTIGACIÓN Y PERITOS
+### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS FISCALES DEL MINISTERIO PÚBLICO, AGENTES DE INVESTIGACIÓN Y PERITOS
 
 ###### Artículo 57.
 
 En el ejercicio de sus funciones, el personal de la Fiscalía General, observará las obligaciones inherentes a su calidad de servidor público y actuarán con la diligencia necesaria para la pronta, completa y debida procuración de justicia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 58.
 
-Los Fiscales del Ministerio Público, elementos de la Policía de Investigación, Peritos y en lo conducente, los demás servidores públicos de la Fiscalía General tendrán las siguientes obligaciones:
+Los Fiscales del Ministerio Público, Agentes de Investigación, Peritos y en lo conducente, los demás servidores públicos de la Fiscalía General tendrán las siguientes obligaciones:
 
 I. Observar buena conducta, tratar con cortesía, diligencia y respeto al público, así como a sus superiores jerárquicos, compañeros y subordinados en su empleo, cargo o comisión.
 
@@ -1293,7 +1293,9 @@ Las Fiscalías de Materia son órganos ministeriales de la Fiscalía General, en
 
 Las Fiscalías de Materia dependerán directamente del Fiscal General, y actuarán en todo el territorio del Estado, en coordinación con las Fiscalías de Distrito, y demás unidades u órganos de la Fiscalía General.
 
-Las Fiscalías de Materia contarán con un titular, quien ejercerá el mando y autoridad jerárquica sobre los Fiscales del Ministerio Público y demás personal que esté adscrito a la fiscalía correspondiente, y dirigirá las actuaciones de la Policía de Investigación.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
+Las Fiscalías de Materia contarán con un titular, quien ejercerá el mando y autoridad jerárquica sobre los Fiscales del Ministerio Público y demás personal que esté adscrito a la fiscalía correspondiente, y dirigirá las actuaciones de las y los Agentes de Investigación.
 
 ###### Artículo 73.
 
@@ -1359,29 +1361,29 @@ Las atribuciones de la Fiscalía de Combate a la Corrupción estarán determinad
 
 Son órganos Auxiliares Directos del Ministerio Público:
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-I. La Policía de Investigación.
+I. La Agencia de Investigación e Inteligencia Ministerial.
 
 II. La Dirección General de Servicios Periciales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2025)</small>
 
-#### SECCIÓN PRIMERA. DE LA POLICÍA DE INVESTIGACIÓN
+#### SECCIÓN PRIMERA. DE LA AGENCIA DE INVESTIGACIÓN E INTELIGENCIA MINISTERIAL
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 78.
 
-La Policía de Investigación, es un órgano Auxiliar Directo del Ministerio Público, a cargo de un Director General que dependerá directamente del Fiscal General y tendrá la obligación de vigilar el cumplimiento de la presente Ley, así como lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública y demás normatividad aplicable.
+La Agencia de Investigación e Inteligencia Ministerial, es un órgano Auxiliar Directo del Ministerio Público, a cargo de un Director General que dependerá directamente del Fiscal General y tendrá la obligación de vigilar el cumplimiento de la presente Ley, así como lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública y demás normatividad aplicable.
 
-La Policía de Investigación podrá recibir denuncias de hechos que puedan constituir delitos, e informar al Ministerio Público por cualquier medio y de forma inmediata las diligencias practicadas, para que éste instruya las actuaciones y dirija la investigación de los hechos.
+Las y los Agentes de Investigación podrán recibir denuncias de hechos que puedan constituir delitos, e informar al Ministerio Público por cualquier medio y de forma inmediata las diligencias practicadas, para que éste instruya las actuaciones y dirija la investigación de los hechos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 79.
 
-Además de las obligaciones contenidas en el artículo anterior, la Policía de Investigación tendrá las obligaciones:
+Además de las obligaciones contenidas en el artículo anterior, las y los Agentes de Investigación tendrán las obligaciones:
 
 I. Desarrollar las diligencias ordenadas por el Fiscal del Ministerio Público para la debida integración de la investigación.
 
@@ -1411,29 +1413,35 @@ XIII. Emitir el informe policial y demás documentos, de conformidad con las dis
 
 XIV. Las demás que determine la presente Ley, su Reglamento, y demás disposiciones de la materia.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 80.
 
-A efecto de atender eficientemente cada una de las regiones de la Entidad, la Dirección General de la Policía de Investigación, contará con una Comandancia Regional en cada sede distrital.
+A efecto de atender eficientemente cada una de las regiones de la Entidad, la Agencia de Investigación e Inteligencia Ministerial, contará con una Comandancia Regional en cada sede distrital.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 81.
 
-Los elementos de la Policía de Investigación, deben realizar sus actuaciones apegadas al pleno respeto de los derechos humanos, que son reconocidos por las normas constitucionales y los tratados internacionales suscritos y ratificados por el estado mexicano, absteniéndose en todo momento de aplicar métodos de compulsión o tortura o cualquier otro que ofenda la dignidad de los detenidos, presentados o aprehendidos.
+La Agencia de Investigación e Inteligencia Ministerial, deben realizar sus actuaciones apegadas al pleno respeto de los derechos humanos, que son reconocidos por las normas constitucionales y los tratados internacionales suscritos y ratificados por el estado mexicano, absteniéndose en todo momento de aplicar métodos de compulsión o tortura o cualquier otro que ofenda la dignidad de los detenidos, presentados o aprehendidos.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
 La violación de esta norma será causa de remoción del cargo, previo procedimiento administrativo, sin perjuicio de la responsabilidad penal.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
 De igual modo, se procederá contra el Fiscal del Ministerio Público que ordene o consienta los actos violatorios a que se refiere el párrafo anterior.
 
-La organización, funcionamiento y atribuciones específicas, así como los protocolos de actuación de las corporaciones que integran la Policía se establecerán en el Reglamento, y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+La organización, funcionamiento y atribuciones específicas, así como los protocolos de actuación de las corporaciones que integran la Agencia de Investigación e Inteligencia Ministerial se establecerán en el Reglamento, y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 81 Bis.
 
-Sin perjuicio de otras sanciones en las cuales pudiesen incurrir, de conformidad con el régimen disciplinario previsto en la Ley General del Sistema Nacional de Seguridad Pública, se podrán aplicar correctivos disciplinarios a los elementos de la policía de investigación, cuando falten a los principios de actuación previstos en la presente ley, su reglamento y demás disposiciones aplicables.
+Sin perjuicio de otras sanciones en las cuales pudiesen incurrir, de conformidad con el régimen disciplinario previsto en la Ley General del Sistema Nacional de Seguridad Pública, se podrán aplicar correctivos disciplinarios a los elementos de la Agencia de Investigación e Inteligencia Ministerial, cuando falten a los principios de actuación previstos en la presente ley, su reglamento y demás disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DE LOS SERVICIOS PERICIALES
 
@@ -1730,3 +1738,15 @@ Artículo Cuarto.- Todas aquellas menciones a la Policía Especializada en otros
 Artículo Quinto.- Las atribuciones o referencias contenidas en la normatividad aplicable, así como los recursos y compromisos que estuvieran asignados a la Fiscalía de Visitaduría y al Instituto de Investigación y Profesionalización que por este Decreto se extinguen, se entenderán conferidas a los Órganos que para tal efecto se establezcan en el Reglamento de la Ley Orgánica de la Fiscalía General del Estado.
 
 Artículo Sexto.- Las adecuaciones a la estructura de la Fiscalía General del Estado, establecidas en el presente Decreto, deberán sujetarse a la disponibilidad presupuestal que tenga asignada.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 205 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS; DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS Y DE LA LEY DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, a la entrada en vigor del presente Decreto, realizarán de inmediato las acciones necesarias para su cumplimiento.
