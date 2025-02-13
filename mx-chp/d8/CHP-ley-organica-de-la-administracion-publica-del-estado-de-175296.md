@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-175296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-12-05"
-last_updated: "2025-01-10"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en el Número 382 del Periódico Oficial del Estado de Chiapas, el jueves 5 de diciembre de 2024.
 
@@ -125,9 +125,15 @@ La Oficina de Gubernatura tendrá las atribuciones y estará integrada con base 
 
 ### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 7.
 
 El ejercicio del Poder Ejecutivo corresponde originalmente al Gobernador o Gobernadora del Estado, quien tendrá las atribuciones que señalen la Constitución Política Local, las leyes y demás normativa aplicable.
+
+La persona titular del Poder Ejecutivo para el ejercicio de sus atribuciones señaladas en el párrafo anterior, podrá realizar consultas públicas a través de las cuales permitirá recabar la opinión de la ciudadanía, promoviendo una gestión más democrática, transparente y eficiente, favoreciendo la identificación de necesidades reales, la generación de soluciones innovadoras o la construcción de consensos que contribuyan al desarrollo sostenible y al bienestar de la comunidad en su conjunto. La consulta a que se refiere el presente párrafo, se podrá realizar cuando no se actualice los supuestos descritos en las disposiciones contenidas en la Ley de Participación Ciudadana para el Estado de Chiapas.
+
+Para efectos de llevar a cabo las consultas públicas descrita en el párrafo anterior, la persona titular del Poder Ejecutivo del Estado, podrá auxiliarse de las dependencias y/o órganos autónomos del Estado para su realización; en el supuesto de municipios con población mayoritariamente indígena o afromexicana, el procedimiento se deberá desarrollar de conformidad con lo dispuesto por las disposiciones normativas aplicables; así como los tratados Internacionales en los que el Estado Mexicano sea parte.
 
 Las atribuciones a que remite este artículo, podrán ser ejercidas por sí o delegadas en la ley, o bien de manera convencional o a través de los decretos, acuerdos, reglamentos administrativos e instructivos, que para tal efecto emita u otorgue el Poder Ejecutivo; por lo que su ejercicio será responsabilidad de quien ejerza la atribución directamente.
 
@@ -715,21 +721,21 @@ XXII. Ejecutar el programa estatal de manejo integral del fuego.
 
 XXIII. Los demás asuntos que le correspondan, en los términos de las leyes aplicables y su reglamento interior, las que establezca el Consejo Estatal de Protección Civil, y los que determine la persona titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 36.
 
 A la Secretaría de Infraestructura, le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Poder Ejecutivo, las políticas en materia de la obra pública y desarrollo urbano.
+I. Proponer al Poder Ejecutivo, las políticas en materia de la obra pública, desarrollo urbano e infraestructura hidráulica.
 
-II. Formular y ejecutar el programa anual de la obra pública del Estado, en coordinación con los demás organismos estatales y participar en los que determinen las instancias federales correspondientes.
+II. Formular y ejecutar el programa anual de la obra pública e infraestructura hidráulica del Estado, en coordinación con los demás organismos estatales y participar en los que determinen las instancias federales correspondientes.
 
-III. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública que corresponda al Poder Ejecutivo, coordinándose con las demás instancias encargadas de ejecutar obra pública en la Entidad.
+III. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública e infraestructura hidráulica que corresponda al Poder Ejecutivo, o que deriven de programas convenidos, coordinándose con las demás instancias encargadas de ejecutar obra pública en la Entidad.
 
 IV. Ejecutar por sí o a través de terceros, los programas de las obras de carácter turístico, económico, penitenciario, y las demás que se encuentren reservadas a su competencia, vigilando la correcta aplicación de las disposiciones legales aplicables en la materia.
 
-V. Informar oportunamente a la Secretaría de Finanzas, para los efectos conducentes, la programación, ejecución, avance y conclusión de la obra pública.
+V. Informar oportunamente a la Secretaría de Finanzas, para los efectos conducentes, la programación, ejecución, avance y conclusión de la obra pública e infraestructura hidráulica.
 
 VI. Presidir el Comité de Obra Pública del Poder Ejecutivo del Estado, en todo proceso de contratación y de conformidad con lo que determine la ley de la materia.
 
@@ -745,19 +751,19 @@ XI. Coadyuvar con las instancias competentes, y promover en los municipios el eq
 
 XII. Participar, suscribir, ejecutar, y en su caso, representar a la persona titular del Poder Ejecutivo, en los convenios, contratos, acuerdos de colaboración y demás instrumentos que sean necesarios, con autoridades federales y de otras Entidades Federativas, con los ayuntamientos, la iniciativa privada y otras personas, con el objeto de promover y regular el desarrollo urbano en la entidad.
 
-XIII. Llevar a cabo la supervisión del proceso de ejecución de la obra pública y desarrollo urbano a cargo del Poder Ejecutivo, en forma directa y/o a través del supervisor externo que contrate para tal efecto, en términos de la normatividad aplicable, excepto en aquellos casos referentes a la infraestructura física educativa en el Estado o cualquier otro rubro que por disposición de Ley, se encuentre reservada a una instancia diferente.
+XIII. Llevar a cabo la supervisión del proceso de ejecución de la obra pública, desarrollo urbano e infraestructura hidráulica a cargo del Poder Ejecutivo, en forma directa y/o a través del supervisor externo que contrate para tal efecto, en términos de la normatividad aplicable, excepto en aquellos casos referentes a la infraestructura física educativa en el Estado o cualquier otro rubro que, por disposición de Ley, se encuentre reservada a una instancia diferente.
 
 XIV. Planear, programar, coordinar y en su caso, por sí o a través de sus órganos, ejecutar las políticas, estrategias, acciones y procedimientos normativos del convenio de confianza municipal, para incentivar el desarrollo socioeconómico de las comunidades y municipios del Estado.
 
 XV. Elaborar, formalizar y suscribir los convenios de confianza municipal que en representación del Poder Ejecutivo, realice con los municipios del Estado, vigilando el cumplimiento de los mismos, a fin de garantizar la debida ejecución de las obras y acciones programadas.
 
-XVI. Emitir las medidas necesarias de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los bienes inmuebles del Poder Ejecutivo.
+XVI. Emitir las medidas necesarias de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de la infraestructura hidráulica y los bienes inmuebles del Poder Ejecutivo.
 
-XVII. Efectuar visitas, peritajes y avalúos que se requieran en la ejecución de la obra pública en el Estado, en términos de la Ley de la materia.
+XVII. Efectuar visitas, peritajes y avalúos que se requieran en la ejecución de la obra pública e infraestructura hidráulica en el Estado, en términos de la Ley de la materia.
 
-XVIII. Rescindir los contratos de obra pública, en los términos que establezca la Ley de la materia.
+XVIII. Rescindir los contratos de obra pública e infraestructura hidráulica, en los términos que establezca la Ley de la materia.
 
-XIX. Informar oportunamente a la Secretaría Anticorrupción y Buen Gobierno todo lo referente a la programación, contratación, ejecución, supervisión, avance y conclusión de la obra pública a su cargo, para el desarrollo de la verificación de la misma y las demás acciones que deriven de la Ley de la materia.
+XIX. Informar oportunamente a la Secretaría Anticorrupción y Buen Gobierno todo lo referente a la programación, contratación, ejecución, supervisión, avance y conclusión de la obra pública e infraestructura hidráulica a su cargo, para el desarrollo de la verificación de la misma y las demás acciones que deriven de la Ley de la materia.
 
 XX. Coordinar la ejecución de obras de prevención, reducción y mitigación de riesgos de desastres naturales, para beneficio y protección de los habitantes de las zonas afectadas; específicamente obras de bordos, enrocamientos, muros de contención, espigones, trincheras, dragado, limpieza y desazolve de ríos; para evitar su desbordamiento e inundaciones.
 
@@ -767,11 +773,17 @@ XXII. Coordinar y operar los sistemas de comunicaciones electrónicas en la Enti
 
 XXIII. Proponer a la persona titular del Poder Ejecutivo los programas para la construcción, adecuación, ampliación, conservación, rehabilitación o mantenimiento de las instalaciones de los sistemas de comunicaciones electrónicas que opere o instale el Poder Ejecutivo, como resultado de convenios, concesiones o permisos del gobierno federal, en materia de comunicaciones.
 
-XXIV. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública encaminado a fortalecer el desarrollo e inclusión social que corresponda al Poder Ejecutivo, referente a la ejecución del Fondo de Infraestructura Social para las Entidades (FISE).
+XXIV. Ejecutar las acciones encaminadas a mejorar la infraestructura hidráulica, en beneficio de la sociedad, garantizando la calidad de las mismas.
+
+XXV. Organizar, dirigir y normar las acciones relativas a la infraestructura hidráulica del Estado, llevando a cabo acciones tendentes a su fortalecimiento en la formulación de proyectos y programas que permitan desarrollar sus funciones.
+
+XXVI. Asesorar a los Ayuntamientos en materia de construcción, reconstrucción, modernización, conservación y mantenimiento de la infraestructura hidráulica, cuando así sea solicitado.
+
+XXVII. Llevar a cabo la planeación, programación, presupuestación, ejecución y en general, todo el proceso de obra pública encaminado a fortalecer el desarrollo e inclusión social que corresponda al Poder Ejecutivo, referente a la ejecución del Fondo de Infraestructura Social para las Entidades (FISE).
 
 Para lo cual deberá coordinarse con el gobierno federal y municipal, con los sectores social y privado, así como, con las demás instancias encargadas de ejecutar obra pública en la Entidad.
 
-XXV. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
+XXVIII. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
 ###### Artículo 37.
 
@@ -861,9 +873,11 @@ X. Proporcionar asesoría técnica y atender, en coordinación con las autoridad
 
 XI. Establecer y operar el sistema de información sobre los recursos y características de las actividades económicas de los sectores primario, secundario y terciario, con el apoyo de las Dependencias estatales y los sectores productivos.
 
-XII. Asesorar al sector empresarial e industrial proporcionándole la información y facilitando trámites, en coordinación con Dependencias estatales, federales y municipales.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-XIII. Asesorar en materia de regulación a empresarias, empresarios e industriales, proporcionándoles información y simplificando tramites en coordinación con Dependencias estatales, federales y municipales.
+XII. Coordinar acciones para la implementación de los programas y ventanillas que sean de beneficio para detonar la atracción de inversiones, apertura, constitución y consolidación de empresas; proporcionándoles la información y facilitando trámites en coordinación con los organismos federales, estatales y municipales de acuerdo con la normatividad aplicable.
+
+XIII. (DEROGADA, P.O. 13 DE FEBRERO DE 2025)
 
 XIV. Convenir con las instituciones bancarias y financieras programas de financiamiento para el establecimiento de empresas e industrias, implementando mecanismos de transparencia.
 
@@ -1454,3 +1468,21 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
 
 Artículo Tercero.- Las facultades conferidas al Instituto del Patrimonio del Estado, seguirán siendo ejercidas de conformidad a su decreto de creación.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 204 POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Poder Ejecutivo del Estado deberá emitir dentro del plazo de 15 días naturales posteriores a la entrada en vigor del presente decreto, los acuerdos y lineamientos que resulten necesarios para el cumplimiento del presente decreto.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 208 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
