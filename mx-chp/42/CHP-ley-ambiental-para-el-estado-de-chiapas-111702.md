@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-111702"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-18"
-last_updated: "2020-08-05"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de noviembre de 2015.
 
@@ -1597,11 +1597,15 @@ VI. Manejo integral de residuos.
 
 #### Sección Décima. Evaluación del Impacto y Riesgo Ambiental
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 87.
 
-Corresponde a la Secretaría, la evaluación de la manifestación o estudios de impacto y/o riesgo ambiental con el objetivo de establecer los términos y condicionantes a que se sujetará la realización de obras y actividades de competencia estatal que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, así como preservar y restaurar los ecosistemas, a fin de evitar o mitigar sus efectos negativos sobre el ambiente.
+Corresponde a la Secretaría, la evaluación de impacto ambiental mediante manifestaciones de impacto ambiental, estudios de impacto y/o riesgo ambiental u opiniones favorables, con el objetivo de establecer los términos y condicionantes a que se sujetará la realización de obras y actividades de competencia estatal que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el medio ambiente, así como preservar y restaurar los ecosistemas, a fin de evitar o mitigar sus efectos negativos sobre el medio ambiente.
 
-Para ello, en los casos que determine la presente Ley y otros ordenamientos que al efecto se expidan, quienes pretendan llevar a cabo alguna o algunas de las siguientes obras o actividades, requerirán previamente al inicio de las mismas, la autorización de la Secretaría en materia de impacto y/o riesgo ambiental:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE FEBRERO DE 2025)</small>
+
+Para ello, en los casos que determine la presente Ley y demás ordenamientos que al efecto se expidan, quienes pretendan llevar a cabo alguna o algunas de las siguientes obras o actividades, requerirán la autorización de la Secretaría en materia de impacto y/o riesgo ambiental:
 
 I. Obra pública estatal y municipal.
 
@@ -1627,7 +1631,11 @@ X. Obras destinadas a la concurrencia masiva de personas, tales como centros y p
 
 XI. Hospitales, sanatorios, clínicas, centros de salud y laboratorios clínicos públicos o privados donde se realicen actividades riesgosas y se generen residuos de manejo especial.
 
-XII. Fraccionamientos, conjuntos habitacionales y nuevos centros de población.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
+
+XII. Fraccionamientos en ecosistemas costeros, aquellos incluidos en las zonas de amortiguamiento dentro de los polígonos de reservas ecológicas o áreas naturales protegidas de naturaleza estatal, siempre que se encuentre permitido en el decreto correspondiente, así como nuevos centros de población.
+
+En el caso de fraccionamientos, conjuntos habitacionales o condominios cuya ubicación se encuentre dentro del Programa o Carta Urbana del centro de población correspondiente, únicamente se requerirá la opinión favorable de la Secretaría
 
 XIII. La industria refresquera, alimentaria, maquiladora, textil, ensambladora, autopartes y metalmecánica, así como la vinculada al hule y sus derivados; rastros frigoríficos; industria automotriz; maquiladoras, tenerías y curtidurías, del vidrio y sus derivados, del plástico, farmacéutica, de cosméticos y demás industrias cuya actividad pueda generar afectación ambiental en aquellos aspectos que no sean de competencia federal.
 
@@ -3270,3 +3278,13 @@ Artículo Primero.- El presente Decreto, entrará en vigor el día siguiente de 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- Los trámites iniciados ante la Secretaría de Medio Ambiente e Historia Natural, previos a la presente reforma, seguirán sus procesos hasta su conclusión, con fundamento en la legislación vigente, hasta antes de la aprobación del presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 210 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y LA FRACCIÓN XII DEL ARTÍCULO 87 DE LA LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Secretaría de Medio Ambiente e Historia Natural, en el plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá someter a aprobación de la persona Titular del Poder Ejecutivo del Estado, las adecuaciones normativas requeridas, para el cumplimiento del mismo.
