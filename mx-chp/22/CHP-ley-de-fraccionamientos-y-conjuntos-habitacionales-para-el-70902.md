@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fraccionamientos-y-conjuntos-habitacionales-para-el-7090
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-21"
-last_updated: "2014-02-05"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de octubre de 2009.
 
@@ -665,7 +665,9 @@ IV. Cuarta fase: Autorización de comercialización de lotes; y,
 
 V. Quinta fase: Autorización de municipalización.
 
-Una vez que el interesado cumpla con los requisitos establecidos por esta Ley, el Municipio deberá de emitir la autorización respectiva para cada fase.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
+Los únicos requisitos que deberán cumplir los interesados para obtener la autorización, serán los establecidos en la presente Ley y en su caso, en otras legislaciones que se relacionen con la materia. Los Ayuntamientos no podrán requerir más documentación que la establecida en el presente Capítulo y aquella derivada de las leyes referidas. Una vez que el interesado cumpla con los requisitos establecidos en ley, el Ayuntamiento respectivo deberá emitir la autorización correspondiente a cada fase, en los plazos establecidos para el efecto.
 
 ###### Artículo 56.
 
@@ -681,105 +683,109 @@ IV. Copia de recibo del pago predial actualizado; y,
 
 V. Original y copia del comprobante de pago indicado en la ley de ingresos municipal.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 57.
 
-La solicitud para tramitar u obtener la segunda fase denominada autorización del proyecto de lotificación y servicios, se formulará por escrito y se presentará ante el municipio. Dicha solicitud, deberá acompañarse de los siguientes documentos:
+La solicitud para tramitar u obtener la segunda fase denominada Autorización del Proyecto de Lotificación y Servicios, se formulará por escrito y se presentará ante el municipio. Dicha solicitud, deberá acompañarse de los siguientes documentos:
 
-I. Copia de dictamen de factibilidad de uso de suelo, emitido por el municipio correspondiente y, en los casos que sea aplicable, dictamen original y copia expedido por la Comisión Nacional del Agua o Comisión Federal de Electricidad, misma que se hará la devolución del original previo cotejo;
+I. Copia de dictamen de factibilidad de uso de suelo, emitido por el órgano administrativo competente del municipio correspondiente.
 
-II. Copia de la autorización de la subdivisión o fusión del o los predios, en su caso;
+II. Original y copia de la carta poder y copia de la identificación del apoderado o representante legal, según sea el caso.
 
-III. Original y copia de la carta poder y copia de la identificación del apoderado o representante legal, según sea el caso;
+III. Copia certificada del acta constitutiva, tratándose de persona moral, debidamente inscrita en el Registro Público de la Propiedad y de Comercio.
 
-IV. Copia certificada del acta constitutiva, tratándose de persona moral, debidamente inscrita en el Registro Público de la Propiedad y de Comercio;
+IV. Copia del instrumento jurídico que acredite la personalidad del apoderado o representante legal de la empresa, en el caso de que el trámite se realice a través de este.
 
-V. Copia del instrumento jurídico que acredite la personalidad del apoderado o representante legal de la empresa, en el caso de que el trámite se realice a través de este;
+V. Original y copia del plano topográfico que deberá contener:
 
-VI. Original y copia del plano topográfico que deberá contener:
+a) Coordenadas geográficas del centro del terreno.
 
-a) Coordenadas geográficas del centro del terreno;
+b) Curvas de nivel a cada metro.
 
-b) Curvas de nivel a cada metro;
+c) Poligonal con cuadro constructivo que describirá: estaciones, ángulos exteriores e interiores y longitudes.
 
-c) Poligonal con cuadro constructivo que describirá: estaciones, ángulos exteriores e interiores y longitudes;
+d) Vialidades circundantes.
 
-d) Vialidades circundantes;
+e) Escurrimientos pluviales o afluentes con sección transversal de cauce a cada veinte metros.
 
-e) Escurrimientos pluviales o afluentes con sección transversal de cauce a cada 20 metros; y,
+f) Indicar ubicación del arbolado existente.
 
-f) Indicar ubicación del arbolado existente;
+VI. Original y copia del plano de lotificación que contenga:
 
-VII. Original y copia del plano de lotificación que contenga:
+a) Área lotificable: división de manzanas, lotes, medidas y superficies de los mismos, de acuerdo a la nomenclatura catastral.
 
-a) Área lotificable: División de manzanas, lotes, medidas y superficies de los mismos, de acuerdo a la nomenclatura catastral;
+b) Área de vialidad: misma que indicará vialidades colindantes y las que concurran al predio; en las vialidades deberá indicarse el arroyo vehicular, banquetas, camellones, cota de sección, nomenclaturas, sentido de circulación vial y cortes de las mismas.
 
-b) Área de vialidad: Misma que indicara vialidades colindantes y las que concurran al predio; en las vialidades deberá indicarse el arroyo vehicular, banquetas, camellones, cota de sección, nomenclaturas, sentido de circulación vial y cortes de las mismas;
+c) Área verde: medidas y superficies, en su caso.
 
-c) Área verde: medidas y superficies, en su caso;
-
-d) Área de donación: medida y superficies; y
+d) Área de donación: medidas y superficies.
 
 e) Cuadro de resumen, conteniendo conceptos, superficies y porcentajes de dosificación de uso del suelo.
 
-VIII. Copia de la cedula catastral.
+VII. Copia de la cédula catastral.
 
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2011)</small>
+VIII. Dictamen de Riesgos emitido por el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas o profesionales acreditados por el mismo.
 
-IX. Dictamen de Riesgos emitido por el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 58.
 
-La solicitud para tramitar u obtener la tercera fase denominada autorización del proyecto ejecutivo y licencia de urbanización, se formulará por escrito y se presentará ante el Municipio. Dicha solicitud, deberá acompañarse de los siguientes documentos:
+La solicitud para tramitar u obtener la tercera fase denominada Autorización del Proyecto Ejecutivo y Licencia de Urbanización, se formulará por escrito y se presentará ante el Municipio. Dicha solicitud, deberá acompañarse de los siguientes documentos:
 
 I. Proyecto ejecutivo, que deberá contener los siguientes requisitos:
 
-a) Original o copia certificada de la opinión favorable expedida por la autoridad competente en materia de impacto ambiental;
+a) Original o copia certificada del informe preventivo, opinión favorable o en su caso, manifestación de impacto ambiental, expedida por la autoridad competente en materia ambiental.
 
-b) Original de la memoria de cálculo de escurrimientos pluviales, en su caso;
+b) Original de la memoria de cálculo de escurrimientos pluviales, en su caso.
 
-c) Original de la memoria de cálculo de estructuras especiales, en su caso;
+c) Original de la memoria de cálculo de estructuras especiales, en su caso.
 
-d) Original del estudio de mecánica de suelos y diseños de pavimentos;
+d) Original del estudio de mecánica de suelos y diseños de pavimentos.
 
-e) Plano de red de distribución de agua potable autorizado, en su caso;
+e) Plano de red de distribución de agua potable autorizado, en su caso.
 
-f) Plano de red de atarjeas autorizado, en su caso;
+f) Plano de red de atarjeas autorizado, en su caso.
 
-g) Plano de línea de conducción autorizado, en su caso;
+g) Plano de línea de conducción autorizado, en su caso.
 
-h) Plano estructural del o los tanques de distribución y/o bombeo, en su caso;
+h) Plano estructural del o los tanques de distribución y/o bombeo, en su caso.
 
-i) Plano de equipo de bombeo, en su caso;
+i) Plano de equipo de bombeo, en su caso.
 
-j) Planos de energía eléctrica autorizados por la autoridad competente;
+j) Planos de energía eléctrica autorizados por la autoridad competente.
 
-k) Plano de drenaje pluvial, en su caso;
+k) Plano de drenaje pluvial, en su caso.
 
-l) Proyecto de la red de alumbrado público;
+l) Proyecto de la red de alumbrado público.
 
-m) Plano manzanero que contenga: Datos generales, nomenclatura de manzanas, cuadro de dosificación manzanera indicando nomenclatura, medidas, colindancias y orientación de colindancias de lotes, de acuerdo a la nomenclatura catastral y etapas de construcción, en su caso;
+m) Plano manzanero que contenga: datos generales, nomenclatura de manzanas, cuadro de dosificación manzanera indicando nomenclatura, medidas, colindancias y orientación de colindancias de lotes, de acuerdo a la nomenclatura catastral y etapas de construcción, en su caso.
 
-n) Plano de siembra de vivienda que contenga: Datos generales, cuadro de lotificación, siembra y tipología de vivienda, dimensiones para el trazo y ubicación de la vivienda;
+n) Plano de siembra de vivienda que contenga: datos generales, cuadro de lotificación, siembra y tipología de vivienda, dimensiones para el trazo y ubicación de la vivienda; este requisito no será necesario en caso de que el fraccionamiento se pretenda constituir únicamente para venta por lotes.
 
-o) Plano de niveles de plataformas: Datos generales, localización de plataforma, niveles y banco de nivel, cortes de terreno en plataforma, curvas de nivel, proceso constructivo y especificaciones, en su caso;
+ñ) Plano de niveles de plataformas que contenga: datos generales, localización de plataforma, niveles y banco de nivel, cortes de terreno en plataforma, curvas de nivel, proceso constructivo y especificaciones, en su caso.
 
-p) Plano de vialidad: Vialidades con sentido de circulación; categorización e indicadores de vialidad; secciones viales, vehiculares y peatonales; perfiles y cadenamiento de vialidades; radios de curvatura vertical y horizontal; playas de estacionamiento con numeración de cajones; derecho de vía, proceso constructivo y especificaciones;
+o) Plano de vialidad que contenga: vialidades con sentido de circulación, categorización e indicadores de vialidad, secciones viales, vehiculares y peatonales, perfiles y cadenamiento de vialidades, radios de curvatura vertical y horizontal, playas de estacionamiento con numeración de cajones, derecho de vía, proceso constructivo y especificaciones.
 
-q) Plano de reforestación: indicando la especie de árboles a sembrarse y la ubicación de los mismos;
+p) Plano de reforestación: indicando la especie de árboles a sembrarse y la ubicación de los mismos.
 
-r) Plano de señalización y nomenclatura, que debe contener: Datos generales; nomenclatura para viviendas; calles, andadores y estacionamiento; ubicación de letreros de nomenclatura en el conjunto; detalles de letreros y localización del mobiliario urbano; detalles constructivos y especificaciones; y,
+q) Plano de señalización y nomenclatura, que contenga: datos generales, nomenclatura para viviendas, calles, andadores y estacionamiento, ubicación de letreros de nomenclatura en el conjunto, detalles de letreros y localización del mobiliario urbano, detalles constructivos y especificaciones.
 
-s) Original del presupuesto de las obras de urbanización.
+r) Original del presupuesto de las obras de urbanización o tabla de valores de terrenos y construcción.
 
-Los planos a que se refiere esta fracción se entregaran en original y dos copias, además de una copia en formato electrónico acorde a la necesidad de la autoridad solicitante.
+Los planos a que se refiere la presente fracción se entregaran en original y dos copias, además de una copia en formato electrónico acorde a la necesidad de la autoridad solicitante.
 
-II) Licencia de Urbanización que deberá contener los siguientes requisitos:
+II. Copia de la autorización de la subdivisión o fusión del o los predios, en su caso.
 
-a) Bitácora de obra trifoliada;
+III. Dictamen expedido por la Comisión Nacional del Agua o Comisión Federal de Electricidad, en su caso, en original y copia para cotejo.
 
-b) Calendario de obra;
+IV. Licencia de Urbanización, que deberá contener los siguientes requisitos:
 
-c) Recibo de pago por concepto de supervisión que señale la ley de ingresos aplicables; y,
+a) Bitácora de obra trifoliada.
+
+b) Calendario de obra.
+
+c) Recibo de pago por concepto de supervisión que señale la ley de ingresos aplicables.
 
 d) Recibo de pago por expedición de la licencia de urbanización.
 
@@ -801,23 +807,25 @@ V. Relación de planos y proyectos, así como memoria descriptiva de la lotifica
 
 Autorizado el proyecto ejecutivo y otorgada la licencia de urbanización, se otorgará ante notario público la escritura de lotificación del predio. Así mismo, se deberá otorgar escritura de transmisión de propiedad a favor del municipio o en cuya demarcación territorial se encuentra el inmueble, o del organismo público que corresponda, de las áreas de donación, áreas verdes, vialidades públicas, servidumbres de paso o áreas de obras de cabeceras como líneas de agua o drenaje, tanques de distribución, cárcamos de bombeo o cualquier tipo de obra que hubiere sido requerido por el órgano operador del sistema y que se ubiquen fuera de las vialidades y áreas comunes no vendibles.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 61.
 
-La solicitud para tramitar u obtener la cuarta fase denominada Autorización de comercialización, se formulará por escrito y se presentará ante el municipio. Dicha solicitud deberá acompañarse de los siguientes requisitos:
+La solicitud para tramitar u obtener la cuarta fase denominada Autorización de Comercialización, se formulará por escrito y se presentará ante el municipio. Dicha solicitud deberá acompañarse de los siguientes requisitos:
 
-I. Aviso de terminación de las obras de urbanización, concluida al 100% de acuerdo a la licencia de urbanización expedida;
+I. Aviso de terminación de las obras de urbanización, concluida en su totalidad de acuerdo a la licencia de urbanización expedida.
 
-II. Si las obras de urbanización del fraccionamiento fueron autorizadas por etapas, la etapa que corresponda;
+II. Si las obras de urbanización del fraccionamiento fueron autorizadas por etapas, la etapa que corresponda.
 
-III. Constancia de funcionalidad de la red de alumbrado público, expedido por la autoridad correspondiente;
+III. Constancia de funcionalidad de la red de alumbrado público, expedido por la autoridad correspondiente.
 
-IV. Acta de entrega recepción de la red de agua potable y alcantarillado, suscrito por el desarrollador y el Órgano o Entidad Municipal operador del Sistema de Agua Potable y Alcantarillado, concluida al 100% de acuerdo al proyecto ejecutivo autorizado;
+IV. Reporte de supervisión de obra terminada de agua potable y alcantarillado o su equivalente, suscrito por el desarrollador y el órgano o entidad municipal operador del sistema de agua potable y alcantarillado, concluida en su totalidad de acuerdo al proyecto ejecutivo autorizado.
 
-V. Acta de entrega recepción de la red de energía eléctrica, suscrito por el desarrollador y la Comisión Federal de Electricidad, concluida al 100% de acuerdo al proyecto ejecutivo autorizado;
+V. Oficio de contratación de los servicios de la red de energía eléctrica, suscrito por el desarrollador y la Comisión Federal de Electricidad, concluida en su totalidad de acuerdo al proyecto ejecutivo autorizado.
 
-VI. Original de las escrituras de donación hechas a favor del ayuntamiento y/o, en su caso, a favor del sistema de agua potable y alcantarillado; y,
+VI. Copia de la escritura de lotificación debidamente Inscrita ante el Registro Público de la Propiedad y de Comercio.
 
-VII. Copia de la escritura de lotificación debidamente Inscrita ante el Registro Público de la Propiedad y de Comercio.
+VII. Carta intención notariada de entrega de escritura pública de donación hecha a favor del Ayuntamiento y/o, en su caso, a favor del sistema municipal de agua potable y alcantarillado, una vez formalizados los requisitos y datos generales de los representantes del Ayuntamiento o el sistema municipal de agua potable y alcantarillado.
 
 ###### Artículo 62.
 
@@ -826,6 +834,10 @@ La solicitud para tramitar u obtener la quinta fase de autorización de municipa
 I. Póliza de fianza por el 10% del costo total de la obra de urbanización, expedida por institución afianzadora debidamente autorizada a favor del municipio, por vicios ocultos que pudieran tener dichas obras, tales como pavimentos, banquetas, guarniciones, mobiliario urbano, muros de contención y obras de alumbrado público; si las obras de urbanización del fraccionamiento fueron autorizadas por etapas, la fianza será por el 10% del costo de la etapa que corresponda. La póliza tendrá vigencia de un año contado a partir de la municipalización; y,
 
 II. Copia del recibo del último pago del alumbrado público.
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2025)</small>
+
+III. Escritura pública de donación hecha a favor del Ayuntamiento y/o sistema municipal de agua potable y alcantarillado.
 
 Para que esta fase sea autorizada, deberán haberse cumplido las anteriores en su totalidad.
 
@@ -1458,3 +1470,15 @@ P.O. 5 DE FEBRERO DE 2014.
 Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 209 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Secretaría de Infraestructura, en el plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá someter a aprobación de la persona Titular del Poder Ejecutivo del Estado, las adecuaciones normativas requeridas, para el cumplimiento del mismo.
+
+Artículo Cuarto.- Los Ayuntamientos de los municipios del Estado, en un plazo no mayor a noventa días hábiles, posteriores a la entrada en vigor del presente Decreto, deberán ajustar su reglamentación interna, a efecto de hacerlas congruentes con las disposiciones contenidas en el mismo.
