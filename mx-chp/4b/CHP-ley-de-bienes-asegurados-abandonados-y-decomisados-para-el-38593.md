@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-bienes-asegurados-abandonados-y-decomisados-para-el-3859
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2017-12-13"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE BIENES ASEGURADOS ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 25 de febrero de 2004.
 
@@ -297,11 +297,11 @@ EL ASEGURAMIENTO DE BIENES ES UNA MEDIDA PRECAUTORIA Y PROVISIONAL QUE NO CONSIS
 
 EL MINISTERIO PUBLICO PROCEDERA DE INMEDIATO AL ASEGURAMIENTO DE AQUELLOS BIENES QUE CONFORME A LAS DISPOSICIONES APLICABLES CORRESPONDA ASEGURAR.
 
-> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2025)</small>
 
-###### ARTICULO 24.
+###### ARTÍCULO 24.
 
-AL REALIZAR EL ASEGURAMIENTO, LOS FISCALES DEL MINISTERIO PUBLICO, CON EL AUXILIO DE LA POLICIA ESPECIALIZADA O CUALQUIER OTRA COMPETENTE, ACTUARIOS Y DEMAS FUNCIONARIOS QUE DESIGNE LA AUTORIDAD MINISTERIAL O JUDICIAL, SEGUN CORRESPONDA DEBERAN:
+AL REALIZAR EL ASEGURAMIENTO, LOS FISCALES DEL MINISTERIO PUBLICO, CON EL AUXILIO DE LAS Y LOS AGENTES DE INVESTIGACION E INTELIGENCIA MINISTERIAL O CUALQUIER OTRA COMPETENTE, ACTUARIOS Y DEMAS FUNCIONARIOS QUE DESIGNE LA AUTORIDAD MINISTERIAL O JUDICIAL, SEGUN CORRESPONDA DEBERAN:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -1244,3 +1244,15 @@ Artículo Tercero.- Para la Administración y destino final de los bienes asegur
 Artículo Cuarto.- En todo aquello relativo a los procedimientos regulados por este ordenamiento, que no se encuentre previsto en el Código Nacional de Procedimientos Penales, ni esta Ley, se atenderá en forma supletoria a la legislación sustantiva y adjetiva Local en materia Civil.
 
 Artículo Quinto.- El Titular de la Fiscalía General del Estado, deberá someter a consideración y aprobación del Titular del Poder Ejecutivo del Estado, el proyecto de Reglamento de la presente Ley en un plazo no mayor a 90 días hábiles contados a partir del día siguiente a la publicación del presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 205 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS; DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS Y DE LA LEY DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La persona titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, a la entrada en vigor del presente Decreto, realizarán de inmediato las acciones necesarias para su cumplimiento.
