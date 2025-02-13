@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-el-otorgamiento-de-prestaciones-de-la-114703"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-04-19"
-last_updated: "2022-01-28"
+last_updated: "2025-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 19 de abril de 2016.
 
@@ -285,7 +285,9 @@ En caso de que el servidor público, pensionado o jubilado cuente con un adeudo 
 
 El servidor público, pensionado o jubilado podrá solicitar por escrito un nuevo préstamo a la par de un tipo de préstamo vigente distinto al solicitado; excepto entre las modalidades de corto plazo y de consumo. Si la suma de ambos descuentos superan el 50% del salario base de cotización deberá comprobar ingresos adicionales permanentes al salario base de cotización previo apoyo de su representación sindical cuando esto proceda.
 
-Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria, se otorgarán cuando uno de ellos sea de liquidez y que su destino sea para la adquisición de vivienda y/o terreno; la suma total del monto de ambos préstamos no superará la cantidad de $850,000.00 (Ochocientos cincuenta mil pesos 00/100 M.N.).
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
+Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria se otorgarán indistintamente, y se podrán renovar siempre que se haya cumplido con lo dispuesto en el artículo 29 del presente Reglamento; la suma total del monto de ambos préstamos no superará la cantidad de $1'050,000.00 (un millón cincuenta mil pesos 00/100 m.n.).
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
 
@@ -377,27 +379,27 @@ Salvo en el caso de disfrute del plazo de espera, si se incumple con la obligaci
 
 La Dirección de Pensiones de conformidad con lo que disponen los artículos 37, 38, 39, 40, 41, 42, 43, 44 y 45 de la Ley, otorgará a los trabajadores activos cotizantes al fondo de pensiones, préstamos con garantía hipotecaria en las modalidades de: compra, construcción, mejoramiento de vivienda o terreno, liberación de gravamen y de liquidez, por los siguientes montos.
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-I. Monto de hasta $450,000.00 (Cuatrocientos cincuenta mil pesos 00/100 M.N.), para compra de vivienda o terreno, liberación de gravamen, construcción y mejoramiento de vivienda; con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años;
+I. Monto de hasta $550,000.00 (quinientos cincuenta mil pesos 00/100 m.n.), para compra de vivienda o terreno, liberación de gravamen, construcción y mejoramiento de vivienda, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años;
 
 II. (DEROGADA, P.O. 28 DE ENERO DE 2022)
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2025)</small>
 
-III. Monto de hasta $400,000.00 (Cuatrocientos mil pesos 00/100 M.N.), para liquidez, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
+III. Monto de hasta $500,000.00 (quinientos mil pesos 00/100 m.n.) para liquidez, con descuentos del 30% al 50% del salario base del trabajador a un plazo máximo de 15 años.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
 
 Para jubilados y pensionados se estará a lo dispuesto en el artículo 43 segundo párrafo del presente reglamento.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 43.
 
-La Dirección de Pensiones podrá otorgar préstamos hipotecarios a los servidores públicos contribuyentes al fondo de pensiones, cuando hayan cotizado por lo menos un año como mínimo y que no cuenten con más de 70 años de edad, sujetos a los criterios para el otorgamiento de préstamos para pensionados o jubilados.
+La Dirección de Pensiones podrá otorgar préstamos hipotecarios a los servidores públicos contribuyentes al Fondo de Pensiones, cuando hayan cotizado por lo menos un año y que no cuenten con más de 70 años de edad; sujetos a los criterios para el otorgamiento de préstamos.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
-
-Para los jubilados o pensionados por vejez o invalidez, que no cuenten con más de 70 años de edad al presentar la solicitud de préstamo hipotecario, el monto a otorgar será por la cantidad de hasta $150,000.00 (Ciento cincuenta mil pesos 00/100 M.N.).
+Para los jubilados o pensionados por vejez o invalidez que no cuenten con más de 70 años de edad, al presentar la solicitud de préstamo hipotecario, el monto a otorgar será de hasta $180,000.00 (ciento ochenta mil pesos 00/100 m.n.).
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
@@ -1374,3 +1376,11 @@ La presente reforma entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
+
+P.O. 13 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Dirección de Pensiones Civiles del Estado, procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, así mismo hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
