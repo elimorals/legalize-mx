@@ -4,7 +4,7 @@ identifier: "MEX-ley-en-materia-de-desaparicion-forzada-de-personas-y-139633"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-23"
-last_updated: "2024-04-05"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 23 de diciembre de 2019.
 
@@ -409,17 +409,39 @@ Para el nombramiento, a que se refiere el párrafo anterior, la Consejería Jur�
 
 Para ser titular se requiere:
 
-I. Ser ciudadana o ciudadano mexicano con residencia efectiva no menor a dos años en la entidad;
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como persona servidora pública;
+I. Ser persona ciudadana mexicana en pleno goce de sus derechos civiles y políticos;
 
-III. Contar con título profesional de preferencia en el área de derecho, criminalística, criminología, antropología forense o social, victimología o medicina forense, con experiencia en acompañamiento de familias en búsqueda;
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
+
+II. No haber sido sentenciada o sentenciado por delito doloso o inhabilitada o inhabilitado como persona servidora pública;
+
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
+
+III. Contar con título profesional;
 
 IV. No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, dentro de los dos años previos a su nombramiento;
 
-V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su nombramiento, y
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-VI. Contar con conocimientos y experiencia comprobable en derechos humanos, en búsqueda de personas, preferentemente con conocimientos en ciencias forenses o investigación criminal.
+V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su nombramiento;
+
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
+
+VI. Contar con conocimientos y experiencia comprobable en derechos humanos, en búsqueda de personas, preferentemente con conocimientos en ciencias forenses o investigación criminal;
+
+> <small>(ADICIONADA, G.G. 14 DE FEBRERO DE 2025)</small>
+
+VII. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, G.G. 14 DE FEBRERO DE 2025)</small>
+
+VIII. No estar inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias, y
+
+> <small>(ADICIONADA, G.G. 14 DE FEBRERO DE 2025)</small>
+
+IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
 En el nombramiento de la persona titular de la Comisión de Búsqueda de Personas, debe garantizarse el respeto a los principios que prevé esta Ley, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
 
@@ -1556,3 +1578,11 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 88.- POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, V Y VI Y SE ADICIONAN LAS FRACCIONES VII, VIII, Y IX AL ARTÍCULO 25 DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
