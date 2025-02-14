@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-participacion-ciudadana-del-estado-de-queretaro-89478"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-19"
-last_updated: "2020-10-30"
+last_updated: "2025-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 14 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el domingo 19 de agosto de 2012.
 
@@ -844,3 +846,17 @@ P.O. 30 DE OCTUBRE DE 2020.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo. Se abroga la Ley de Participación Ciudadana del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” en fecha 19 de agosto de 2012.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Todos los trámites y procedimientos relacionados con los instrumentos de participación ciudadana que se encuentren pendientes de resolver a la fecha de entrada en vigor de la presente Ley, deberán substanciarse y resolverse de conformidad con la Ley de Participación Ciudadana del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” en fecha 19 de agosto de 2012.
+
+Artículo Quinto. Aprobada la presente, remítase al Titular del Poder Ejecutivo del Estado de Querétaro, para su promulgación y publicación.
