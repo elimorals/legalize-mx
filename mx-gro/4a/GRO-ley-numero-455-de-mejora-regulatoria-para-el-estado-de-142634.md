@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-455-de-mejora-regulatoria-para-el-estado-de-142634"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-03"
-last_updated: "2020-04-03"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 455 DE MEJORA REGULATORIA PARA EL ESTADO DE GUERRERO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Ley publicada en el Alcance VII del Número 27 del Periódico Oficial del Estado de Guerrero, el viernes 3 de abril de 2020.
 
@@ -57,15 +57,19 @@ La conducción de la presente Ley corresponde al Consejo Estatal de Mejora Regul
 
 En el ámbito municipal, las comisiones municipales de mejora regulatoria, unidades administrativas o áreas responsables, dentro del ámbito de sus respectivas competencias, deberán cumplir con lo establecido en esta Ley y la regulación municipal de mejora regulatoria deberá tomarla como base para el diseño de sus propios reglamentos y demás normatividad.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 2.
 
-Para efectos de la presente Ley, se aplicará de manera supletoria la Ley General.
+Para los efectos de la presente Ley, se aplicará de manera supletoria la Ley General de Mejora Regulatoria.
 
 ###### Artículo 3.
 
 Son objetivos de esta Ley:
 
-I. Establecer la obligación de las autoridades estatales y municipales, en el ámbito de su competencia, de implementar políticas públicas de mejora regulatoria para el perfeccionamiento de las regulaciones y la simplificación de los trámites y servicios, buscando en todo momento la mejora integral, continua y permanente de las regulaciones tanto estatales como municipales;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+I. Establecer la obligación de las autoridades estatales y municipales, en el ámbito de su competencia, de implementar políticas públicas de mejora regulatoria para el perfeccionamiento de las regulaciones y la simplificación y digitalización de los trámites y servicios, buscando en todo momento la mejora integral, continua y permanente de las regulaciones tanto estatales como municipales;
 
 II. Establecer la organización y el funcionamiento del Sistema Estatal de Mejora Regulatoria;
 
@@ -75,15 +79,29 @@ IV. Normar la operación de los sujetos obligados dentro de los catálogos estat
 
 V. Establecer las obligaciones de los sujetos obligados para facilitar los trámites y la obtención de servicios, incluyendo el uso de tecnologías de la información;
 
-VI. Establecer los principios, bases, procedimientos e instrumentos para que las regulaciones garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VII. Promover la eficacia y eficiencia gubernamental, fomentando el desarrollo socioeconómico e inversión en la entidad.
+VI. Establecer los principios, bases, procedimientos e instrumentos para que las regulaciones garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+VII. Promover la eficacia y eficiencia gubernamental, fomentando el desarrollo socioeconómico e inversión en la entidad;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+VIII. Establecer los principios de Gobernanza Digital para la política de mejora regulatoria, y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+IX. Promover la coordinación con los Sujetos Obligados, en el ámbito de su competencia, para la armonización y coherencia de sus Regulaciones, Trámites y Servicios a nivel nacional y estatal.
 
 ###### Artículo 4.
 
 En la aplicación de esta Ley, se entenderá por:
 
-I. Administración Pública Estatal: El conjunto de los órganos del Estado que llevan a cabo la procuración de la satisfacción de los intereses o necesidades de la colectividad, la cual se divide en centralizada integrada por las secretarías, la Procuraduría de Protección Ambiental del Estado, la Consejería Jurídica del Poder Ejecutivo del Estado y la Representación del Poder Ejecutivo del Estado de Guerrero en la Ciudad de México y demás dependencias directamente adscritas al Jefe del Ejecutivo, las entidades paraestatales compuesta (sic) por los organismos públicos descentralizados, las Empresas de Participación Estatal Mayoritaria, los fideicomisos públicos que el Gobierno Estatal constituya como unidad empresarial y demás organismos que se instituyan con tal carácter;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+I. Administración Pública Estatal: La función del Poder Ejecutivo cuya finalidad es la de procurar la satisfacción de los intereses o necesidades públicas, colectivas, generales o de interés común de las y los guerrerenses integrada por el conjunto de secretarías, dependencias y órganos desconcentrados de estas, órgano con autonomía técnica, organismos públicos descentralizados, empresas de participación estatal, fideicomisos y demás instituciones reguladas por la Ley Orgánica de la Administración Pública del Estado de Guerrero;
 
 II. Agenda Regulatoria: La propuesta de las regulaciones que los sujetos obligados estatales y municipales pretenden expedir o proponer en el ámbito de sus respectivas competencias;
 
@@ -91,39 +109,71 @@ III. Análisis de Impacto Regulatorio: La herramienta mediante la cual los sujet
 
 IV. Autoridad de Mejora Regulatoria: La Comisión Estatal de Mejora Regulatoria del Estado, las comisiones de mejora regulatoria municipales o equivalentes, las unidades administrativas o áreas responsables de conducir la política de mejora regulatoria en sus respectivos ámbitos de competencia;
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+IV Bis. Canal Digital: Cualquier medio telemático, digital, electrónico o que involucre tecnologías de la información y comunicación utilizados por los Sujetos Obligados para interactuar de manera oficial con las personas, en el ejercicio de sus atribuciones;
+
 V. Catálogo Estatal: El Catálogo Estatal de Regulaciones, Trámites y Servicios;
 
 VI. Catálogo Nacional: El Catálogo Nacional de Regulaciones, Trámites y Servicios;
 
 VII. CEMER: La Comisión Estatal de Mejora Regulatoria;
 
-VIII. Comisionado Estatal: El titular de la Comisión Estatal de Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+VIII. Comisionada o Comisionado Estatal: La persona titular de la Comisión Estatal de Mejora Regulatoria;
 
 IX. CONAMER: La Comisión Nacional de Mejora Regulatoria;
 
 X. Consejo Estatal: El Consejo de Mejora Regulatoria del Estado de Guerrero;
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+X Bis. Consejo Municipal: Los Consejos de Mejora Regulatoria Municipales;
+
 XI. Consejo Nacional: El Consejo Nacional de Mejora Regulatoria;
 
-XII. Dependencias: Las secretarías, la Procuraduría de Protección Ambiental, la Consejería Jurídica del Poder Ejecutivo del Estado y demás dependencias directamente adscritas al Jefe del Ejecutivo, previstas en el artículo 18 de la Ley Orgánica de la Administración Pública del Estado de Guerrero, que integren la Administración Pública Centralizada del Estado de Guerrero, así como, sus equivalentes del ámbito municipal;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XII. Dependencias: Las Secretarías y Dependencias, previstas en el artículo 22 de la Ley Orgánica de la Administración Pública del Estado de Guerrero, que integran la administración pública centralizada del estado de Guerrero, así como, sus equivalentes del ámbito municipal;
 
 XIII. Enlace de Mejora Regulatoria: El servidor público designado como responsable de mejora regulatoria al interior de cada instancia gubernamental, quién es sujeto obligado en términos de esta ley;
 
-XIV. Entidades: Los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria, los Fideicomisos Públicos que se conformen como unidad empresarial y demás organismos que se instituyan con tal carácter, así como, sus equivalentes del ámbito municipal;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XIV. Entidades: Los Organismos Públicos Descentralizados, las Empresas de Participación Estatal, los Fideicomisos Públicos y demás organismos que se instituyan con tal carácter, así como, sus equivalentes del ámbito municipal;
 
 XV. Estrategia Nacional: La Estrategia Nacional de Mejora Regulatoria, que servirá de guía e impondrá las directrices para la formulación de la correspondiente Estrategia Estatal;
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XV Bis. Expediente electrónico: Documentos e información que las personas resguardan electrónicamente en la Plataforma Digital JAGUAR_ID, para la gestión de trámites y servicios;
+
 XVI. Expediente para Trámites y Servicios: El conjunto de documentos electrónicos emitidos por los sujetos obligados asociados a personas físicas o morales, que pueden ser utilizados por cualquier autoridad competente, para resolver trámites y servicios de los ámbitos estatal o municipal;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XVI Bis. Gobernanza Digital: Es la aplicación de las tecnologías de la información y comunicación al funcionamiento del sector público, con el objetivo de incrementar la calidad en los servicios, la eficiencia, la transparencia y la participación ciudadana;
 
 XVII. Ley: La Ley de Mejora Regulatoria para el Estado de Guerrero y sus Municipios;
 
 XVIII. Ley General: Ley General de Mejora Regulatoria;
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XVIII Bis. Ley de Gobernanza Digital: La Ley de Gobernanza Digital del Estado de Guerrero;
+
 XIX. Medio de Difusión: El Periódico Oficial del Gobierno del Estado de Guerrero, o, en su caso, la Gaceta Municipal correspondiente o similar, por medio de los cuales los sujetos obligados dan a conocer las regulaciones que expiden, publicación oficial impresa o electrónica.
 
 XX. Observatorio: El Observatorio Nacional de Mejora Regulatoria;
 
-XXI. Padrón: El padrón de servidores públicos con nombramiento de inspector, verificador, visitador o supervisor o cuyas competencias sean las de vigilar el cumplimiento de alguna regulación de los ámbitos estatal o municipal;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXI. Padrón: El padrón de personas servidoras públicas con nombramiento de inspector, verificador, visitador o supervisor o cuyas competencias sean las de vigilar el cumplimiento de alguna regulación de los ámbitos estatal o municipal;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXI Bis. Plataforma digital JAGUAR-ID: Medio digital único concentrador de sistemas, tecnologías de la información y comunicación en el estado, cuya finalidad es garantizar la interacción, interoperabilidad y seguridad digital, de las personas y los Sujetos, en la realización de trámites, servicios y demás actos jurídicos o administrativos;
 
 XXII. Portal electrónico: El espacio de una red informática administrada por el Gobierno del Estado o municipal que ofrece de una manera sencilla e integrada, acceso a las distintas herramientas y programas de mejora regulatoria que tienen a su cargo los sujetos obligados;
 
@@ -141,11 +191,19 @@ XXVIII. Reglamento de la Ley: El Reglamento de esta Ley que expida el titular de
 
 XXIX. Reglamento Interior: El Reglamento Interior de la CEMER;
 
-XXX. Regulación: Cualquier normativa de carácter general cuya denominación puede ser acuerdo, circular, código, criterio, decreto, directiva, disposición de carácter general, disposición técnica, estatuto, formato, instructivo, ley, lineamiento, manual, metodología, regla, reglamento, o cualquier otra denominación de naturaleza análoga que expida cualquier sujeto obligado en el ámbito de su competencia. Las regulaciones, lineamientos y acuerdos para que produzcan efectos jurídicos, deberán ser publicadas por los sujetos obligados en el medio de difusión;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXX. Regulación: Cualquier normativa de carácter general cuya denominación puede ser acuerdo, circular, código, criterio, decreto, directiva, disposición de carácter general, disposición técnica, estatuto, formato, instructivo, ley, lineamiento, manual, metodología, regla, reglamento, o cualquier otra denominación de naturaleza análoga que expida cualquier sujeto obligado en el ámbito de su competencia. Las regulaciones, lineamientos y acuerdos para que produzcan efectos jurídicos, deberán ser publicadas por los Sujetos Obligados en el medio de difusión o canal digital;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXX Bis. Riel de interoperabilidad: Componente de la plataforma digital JAGUAR_ID, que permite de manera segura y eficiente, la comunicación y el intercambio de documentos y/o datos contenidos en los expedientes electrónicos, entre diferentes sistemas y plataformas gubernamentales, para la resolución de Trámites y prestación de Servicios de los Sujetos Obligados;
 
 XXXI. Secretaría General: La Secretaría General de Gobierno del Estado de Guerrero;
 
-XXXII. Servicio: Cualquier beneficio o actividad que los sujetos obligados, en el ámbito de su competencia, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXII. Servicio: Cualquier beneficio o actividad sustantiva que los Sujetos Obligados, en el ámbito de su competencia, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
 
 XXXIII. Simplificación: El procedimiento por medio del cual se propicia la transparencia y la capacidad de síntesis en la elaboración de las regulaciones y procesos administrativos, así como, la reducción de plazos y requisitos o la digitalización o abrogación de los trámites que emanan de tales disposiciones de carácter general, que buscan eliminar cargas al ciudadano;
 
@@ -155,7 +213,9 @@ XXXV. Sistema Nacional: El Sistema Nacional de Mejora Regulatoria;
 
 XXXVI. Sujeto Obligado: Las secretarías, dependencias y entidades de la Administración Pública Estatal, así como, sus respectivos homólogos de los municipios. Los órganos constitucionales autónomos, los poderes legislativo y judicial. Los organismos con jurisdicción contenciosa que no formen parte del poder judicial serán sujetos obligados en los términos del artículo 1, segundo párrafo de esta Ley; y
 
-XXXVII. Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales del sector privado, realicen ante la autoridad competente en el ámbito estatal o municipal, ya sea para cumplir una obligación o en general, para que se emita una resolución.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXVII. Trámite: Cualquier solicitud o entrega de información que las personas físicas o morales del sector privado, realicen ante los Sujetos Obligados, ya sea para cumplir una obligación o en general, para que se emita una resolución respecto de las actividades sustantivas de su competencia.
 
 ###### Artículo 5.
 
@@ -169,15 +229,21 @@ La Administración Pública Estatal y las municipales, impulsarán el uso y apro
 
 ### Capítulo II. Principios, bases y objetivos de la mejora regulatoria
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 7.
 
-Los sujetos obligados, en la expedición de las regulaciones, trámites y servicios, deberán respetar los principios de legalidad, reserva de ley, jerarquía normativa, principio de máximo beneficio, control regulatorio, competitividad, máxima publicidad, participación ciudadana y todos aquellos principios que tiendan al cumplimiento de los objetivos de esta Ley.
+Los Sujetos Obligados, en la expedición de las regulaciones, trámites y servicios, deberán respetar los derechos humanos, los principios de legalidad, reserva de ley, jerarquía normativa, máximo beneficio, accesibilidad, datos abiertos por defecto, digitalización, Igualdad de responsabilidades, privacidad desde el diseño, transparencia y confidencialidad, usabilidad, competitividad, máxima publicidad, participación ciudadana y todos aquellos principios que tiendan al cumplimiento de los objetivos de esta Ley.
+
+Los actos administrativos emitidos por las Autoridades de Mejora Regulatoria con base en la presente Ley, tales como opiniones y análisis técnicos en materia de mejora regulatoria, por ser vinculantes únicamente para los Sujetos Obligados, en el ámbito de sus respectivas competencias, no generarán instancia a los particulares para promover algún medio de defensa.
 
 ###### Artículo 8.
 
 La política de mejora regulatoria se orientará por los principios que a continuación se enuncian:
 
-I. Mayores beneficios que costos y el máximo beneficio social;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+I. Promoción, respeto, protección y garantía de los derechos humanos, mayores beneficios que costos, velar por el interés general, el mayor bienestar y equidad sociales;
 
 II. Seguridad jurídica que propicie la certidumbre de derechos y obligaciones;
 
@@ -187,7 +253,9 @@ IV. Coherencia y armonización de las disposiciones que integran el marco regula
 
 V. Simplificación, mejora y no duplicidad en la emisión de regulaciones, trámites y servicios;
 
-VI. Accesibilidad tecnológica;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+VI. Accesibilidad tecnológica con Gobernanza Digital;
 
 VII. Proporcionalidad, prevención razonable y gestión de riesgos;
 
@@ -195,21 +263,69 @@ VIII. Transparencia, responsabilidad y rendición de cuentas;
 
 IX. Fomento a la competitividad y el empleo;
 
-X. Promoción de la libre concurrencia y competencia económica, así como, del funcionamiento eficiente de los mercados; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XI. Reconocimiento de asimetrías en el cumplimiento regulatorio.
+X. Promoción de la libre concurrencia y competencia económica, así como, del funcionamiento eficiente de los mercados;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XI. Reconocimiento de asimetrías en el cumplimiento regulatorio;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XII. Promoción del crecimiento del mercado interno y de la economía nacional, estatal y municipal, el empleo formal y el desarrollo de las áreas estratégicas y prioritarias;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XIII. Fomento del sector social y privado, de la política industrial sustentable, con vertientes sectoriales y regionales, para la mejor distribución de los beneficios económicos en la sociedad y uso sustentable de los recursos naturales, y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XIV. Promoción de la competitividad de las empresas públicas, privadas y sociales ante la economía internacional.
 
 Los sujetos obligados deberán ponderar los valores jurídicos tutelados a que se refiere este precepto y explicitar los criterios de decisión que subyacen a la política de mejora regulatoria, atendiendo a los objetivos establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+###### Artículo 8 Bis.
+
+La política de mejora regulatoria se fortalecerá con la implementación de los principios de la política de Gobernanza Digital siguientes:
+
+I. Accesibilidad. Facilitar la información y la difusión de los trámites y servicios y demás actos administrativos por medios electrónicos, en un lenguaje claro y comprensible;
+
+II. Datos Abiertos por Defecto. Los datos se encontrarán en formato de datos abiertos, sin comprometer el derecho a la protección de los datos personales;
+
+III. Digitalización. Los trámites, servicios y demás actos jurídicos o administrativos a cargo de los Sujetos Obligados, de manera preferente, progresiva y cuando corresponda, se diseñarán y modelarán para que sean digitales de principio a fin;
+
+IV. Equivalencia Funcional. El ejercicio del Identificador Digital Único para el uso y gestión de trámites, servicios y demás actos jurídicos o administrativos digitales, confiere y reconoce a las personas las mismas garantías que otorgan los modos tradicionales de relacionarse entre privados y/o en la relación con los Sujetos Obligados;
+
+V. Igualdad de Responsabilidades. Los Sujetos Obligados responden por los actos realizados a través de canales digitales de la misma manera y con iguales responsabilidades que por los realizados a través de medios presenciales;
+
+VI. Inclusión Digital. Se promoverá el acceso a las tecnologías digitales y al internet como un derecho básico, buscando garantizar que las ciudadanas y los ciudadanos, independientemente de su ubicación geográfica, condición socioeconómica, edad o habilidades, tengan la posibilidad de acceder y utilizar los servicios digitales del estado de Guerrero;
+
+VII. Privacidad desde el Diseño. En el diseño y gestión de trámites, servicios y demás actos jurídicos o administrativos digitales se adoptan las medidas preventivas de tipo tecnológico, organizacional, humano y procedimental que garanticen la seguridad de los datos personales;
+
+VIII. Transparencia y confidencialidad. El tratamiento de la información que se genere con motivo del Identificador Digital Único deberá realizarse de conformidad con lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Guerrero y la Ley de Transparencia y Acceso a la Información Pública del Estado de Guerrero, y
+
+IX. Usabilidad: En el diseño y configuración de la gestión y atención de los trámites, servicios y demás actos jurídicos o administrativos a cargo de los Sujetos Obligados, se buscará que su uso resulte de fácil manejo para la ciudadanía.
 
 ###### Artículo 9.
 
 Son objetivos de la política de mejora regulatoria, los siguientes:
 
-I. Procurar que las regulaciones que se expidan generen beneficios sociales y económicos superiores a los costos y produzcan el máximo bienestar para la sociedad;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-II. Promover la eficacia y eficiencia de la regulación, trámites y servicios de los sujetos obligados;
+I. Procurar que las Regulaciones que se expidan correspondan al interés general, generen beneficios superiores a los costos y produzcan el máximo bienestar y equidad sociales en todo el país;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+II. Promover la pertinencia, eficacia y eficiencia de la Regulación, Trámites y Servicios de los Sujetos Obligados;
 
 III. Procurar que las regulaciones no impongan barreras al comercio, a la libre concurrencia y la competencia económica;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+III Bis. Procurar que las Regulaciones correspondan a los principios de la política de mejora regulatoria para el desarrollo económico nacional integral y sustentable;
 
 IV. Generar seguridad jurídica, claridad y transparencia en la elaboración y aplicación de las regulaciones, trámites y servicios;
 
@@ -227,9 +343,19 @@ X. Promover la participación de los sectores público, social, privado y acadé
 
 XI. Facilitar a las personas el ejercicio de los derechos y el cumplimiento de sus obligaciones, a través del desarrollo de la referida política pública;
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XI Bis. Mejorar las condiciones para el crecimiento de las inversiones de empresas públicas, privadas y sociales de capital nacional;
+
 XII. Armonizar el marco normativo de la mejora regulatoria en el Estado, atendiendo los principios de esta Ley;
 
-XIII. Facilitar el conocimiento y el entendimiento por parte de la sociedad, de la regulación, mediante la accesibilidad y el uso de lenguaje claro;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XIII. Facilitar el conocimiento y el entendimiento por parte de la sociedad, de las Regulaciones, Trámites y Servicios mediante la accesibilidad tecnológica y el uso de lenguaje claro;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XIII Bis. Promover la participación ciudadana en la creación, modificación o eliminación de Regulaciones, mediante la accesibilidad tecnológica;
 
 XIV. Coadyuvar en las acciones para reducir el costo social y económico derivado de los requerimientos de trámites y servicios establecidos por parte de los sujetos obligados; y
 
@@ -243,9 +369,11 @@ Los gastos que los sujetos Obligados requieran para implementar acciones en mate
 
 ### Capítulo I. Integración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 11.
 
-El Sistema Estatal tiene por objeto coordinar a las autoridades de los órdenes de gobierno estatal y municipal, en su respectiva competencia, a través de normas, principios, objetivos, planes, directrices, órganos, instancias y procedimientos para la implementación de la Estrategia Nacional y la formulación, desarrollo e implementación de la Estrategia Estatal y la política en materia de mejora regulatoria.
+El Sistema Estatal tiene por objeto coordinar a las autoridades de los órdenes de gobierno estatal y municipal, en su respectiva competencia, a través de normas, principios, objetivos, planes, directrices, órganos, instancias y procedimientos para la implementación de la Estrategia Nacional, la formulación, desarrollo e implementación de la Estrategia Estatal, la política en materia de mejora regulatoria y la política de gobernanza digital en el estado.
 
 El Sistema Estatal establecerá los mecanismos de coordinación que establezca el Consejo Nacional y establecerá los correspondientes con los sistemas municipales.
 
@@ -261,6 +389,8 @@ III. Los sistemas municipales y las comisiones municipales; y
 
 IV. Los sujetos obligados.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 13.
 
 Son instrumentos y herramientas del Sistema Estatal:
@@ -269,61 +399,51 @@ I. La Estrategia Nacional y Estatal;
 
 II. La Política Nacional y Estatal;
 
-III. El Catálogo Estatal;
+III. La política de gobernanza digital en el Estado;
 
-IV. La Agenda Regulatoria Estatal y las municipales;
+IV. El Catálogo Estatal;
 
-V. El Análisis de Impacto Regulatorio;
+V. La Agenda Regulatoria Estatal y las municipales;
 
-VI. Los Programas de Mejora Regulatoria; y
+VI. El Análisis de Impacto Regulatorio;
 
-VIII (SIC). Las encuestas, Información Estadística y Evaluación en Materia de Mejora Regulatoria.
+VII. Los Programas de Mejora Regulatoria, y
+
+VIII. Las encuestas, Información Estadística y Evaluación en Materia de Mejora Regulatoria.
 
 ### Capítulo II. Consejo Estatal de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 14.
 
-El Consejo Estatal es el órgano responsable de coordinar la política estatal en materia de mejora regulatoria y tendrá facultades para establecer las bases, principios y mecanismos para la efectiva coordinación en el ámbito estatal, para promover el uso de metodologías, instrumentos, programas y las buenas prácticas nacionales e internacionales en la materia; asimismo, fungirá como órgano de vinculación con los sujetos obligados y con diversos sectores de la sociedad. Dicho Consejo estará integrado por los titulares y representantes siguientes:
+El Consejo Estatal es el órgano responsable de coordinar la política estatal en materia de mejora regulatoria y tendrá facultades para establecer las bases, principios y mecanismos para la efectiva coordinación en el ámbito estatal, para promover el uso de metodologías, instrumentos, programas y las buenas prácticas nacionales e internacionales en la materia; asimismo, fungirá como órgano de vinculación con los Sujetos Obligados y con diversos sectores de la sociedad. Dicho Consejo estará integrado por las personas titulares y representantes siguientes:
 
-I. El Poder Ejecutivo Estatal, quien lo presidirá y fungirá como Presidente honorario;
+I. Del Poder Ejecutivo Estatal, quien lo presidirá y fungirá como presidenta o presidente honorario;
 
-II. La Secretaría de Fomento y Desarrollo Económico, quien fungirá como Presidente Ejecutivo;
+II. De la Secretaría de Fomento y Desarrollo Económico, quien fungirá como presidenta o presidente ejecutivo;
 
-III. La CEMER, quien fungirá como Secretario Técnico;
+III. De la Comisión Estatal de Mejora Regulatoria, quien fungirá como secretaria o secretario técnico;
 
-IV. La Secretaría General de Gobierno;
+IV. De la Secretaría General de Gobierno, quien fungirá como consejera o consejero;
 
-V. La Secretaría de Contraloría y Transparencia Gubernamental;
+V. De la Secretaría de Finanzas y Administración, quien fungirá como consejera o consejero;
 
-VI. La Secretaría de Finanzas y Administración;
+VI. De la Secretaría de Contraloría y Transparencia Gubernamental, quien fungirá como consejera o consejero;
 
-VII. La Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural;
+VII. De la Consejería Jurídica del Poder Ejecutivo del Estado, quien fungirá como consejera o consejero;
 
-VIII. La Secretaría del Trabajo y Previsión Social;
+VIII. De la Coordinación General de Gobernanza e Innovación Digital del Estado de Guerrero, quien fungirá como consejera o consejero;
 
-IX. La Consejería Jurídica del Poder Ejecutivo del Estado;
+IX. Del Tribunal Superior de Justicia del Estado de Guerrero;
 
-X. El Tribunal Superior de Justicia del Estado;
+X. Del Colegio de Notarias o Notarios del Estado de Guerrero;
 
-XI. La Comisión de Desarrollo Económico y Trabajo del H. Congreso del Estado;
+XI. Del Consejo de Políticas Públicas del Estado de Guerrero, y
 
-XII. El Fondo de Apoyo a la Micro, Pequeña y Mediana Empresa;
+XII. Ocho Presidencias Municipales, una de cada región designada por consenso.
 
-XIII. La Delegación en el Estado, de la Secretaría de Economía del Gobierno Federal;
-
-XIV. El Colegio de Notarios del Estado de Guerrero;
-
-XV. El Consejo de Políticas Públicas del Estado de Guerrero;
-
-XVI. Siete presidentes municipales, cada uno representando una de las siete regiones del Estado;
-
-XVII. Representantes del Sector Empresarial;
-
-XVIII. Representantes del Sector Educativo Público y Privado; y
-
-XIX. Representantes del Sector Social.
-
-Los titulates (sic) podrán nombrar a un suplente que solamente deberá ser de nivel jerárquico inmediato inferior, y tendrá derecho a voz y voto.
+Las personas titulares podrán nombrar a una suplencia que deberá ser de nivel jerárquico inmediato inferior, y tendrá derecho a voz y voto.
 
 ###### Artículo 15.
 
@@ -351,9 +471,19 @@ III. Académicos especialistas en materias afines.
 
 El Consejo Estatal tendrá las atribuciones siguientes:
 
-I. Conocer e implementar en el ámbito de sus competencias la Estrategia Nacional de Mejora Regulatoria, aprobada previamente por el Consejo Nacional y la formulación, desarrollo e implementación de la Estrategia Estatal y la política en materia de mejora regulatoria estableciendo para tal efecto directrices, bases, instrumentos, lineamientos y mecanismos;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+I. Conocer e implementar en el ámbito de sus competencias la Estrategia Nacional de Mejora Regulatoria, aprobada previamente por el Consejo Nacional y la formulación, desarrollo e implementación de la Estrategia Estatal y la política en materia de mejora regulatoria estableciendo para tal efecto directrices, bases, instrumentos, lineamientos y mecanismos encaminados para ello, de observancia obligatoria para los Sujetos Obligados;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+I Bis. Coordinar el proceso de digitalización de trámites, servicios y demás actos administrativos y jurídicos en materia; garantizando que estos se apeguen a estándares y principios de la mejora regulatoria y gobernanza digital;
 
 II. Aprobar la Agenda Regulatoria Estatal que presente la CEMER para tal efecto;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+II Bis. Conocer los sistemas de las tecnologías de la información y comunicación que implementen los Sujetos Obligados a través de la plataforma digital JAGUAR_ID, para el desarrollo de sus trámites, servicios y demás actos jurídicos o administrativos en materia, y en su caso, emitir comentarios, observaciones y recomendaciones sobre el cumplimiento de la mejora regulatoria en los mismos;
 
 III. Determinar los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre esta materia generen los sujetos obligados y las autoridades de mejora regulatoria;
 
@@ -445,15 +575,23 @@ XIX. Las directrices necesarias para la integración de los catálogos estatal y
 
 XX. Las demás que se deriven de esta Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+###### Artículo 21 Bis.
+
+Los Sujetos Obligados se sujetarán a las directrices establecidas en la Estrategia Estatal a efecto de garantizar la congruencia de acciones con sus Programas y los mecanismos de seguimiento y evaluación establecidos por la Comisión Estatal.
+
 ###### Artículo 22.
 
 El Consejo Estatal aprobará la Estrategia Estatal, misma que será publicada en el Periódico Oficial del Gobierno del Estado y será vinculante para los sujetos obligados del Estado de Guerrero.
 
 ### Capítulo IV. Comisión Estatal de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 23.
 
-La CEMER es un órgano administrativo desconcentrado de la Secretaría (sic) Fomento y Desarrollo Económico, con autonomía técnica y operativa, la cual tiene como objetivo promover la mejora de las regulaciones y la simplificación de trámites y servicios de los sujetos obligados, así como, la transparencia en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+La CEMER es un órgano administrativo desconcentrado de la Secretaría de Fomento y Desarrollo Económico, con autonomía técnica y operativa, la cual tiene como objetivo promover la mejora de las regulaciones y la simplificación de trámites y servicios de los Sujetos Obligados, así como, los principios y objetivos de esta Ley en la elaboración y aplicación de los mismos, procurando que éstos generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
 
 ###### Artículo 24.
 
@@ -467,7 +605,9 @@ III. Proponer al Consejo Estatal la emisión de directrices, instrumentos, linea
 
 IV. Proponer al Consejo Estatal las metodologías para la organización y sistematización de la información administrativa y estadística, así como, los indicadores que deberán adoptar los sujetos obligados en materia de mejora regulatoria;
 
-V. Desarrollar y monitorear el sistema de indicadores que permitan conocer el avance de la mejora regulatoria en la entidad;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+V. Desarrollar, monitorear y publicar el sistema de indicadores que permitan conocer el avance de la mejora regulatoria en la entidad, a través de la plataforma digital JAGUAR_ID;
 
 VI. Administrar el Catálogo Estatal;
 
@@ -513,41 +653,115 @@ XXVI. Promover el estudio, la divulgación y la aplicación de la política púb
 
 XXVII. Promover la integración de los catálogos estatal y municipales, al Catálogo Nacional;
 
-XXVIII. Supervisar que los sujetos obligados estatales, tengan actualizada la parte que les corresponde del catálogo, así como, coadyuvar en la actualización del segmento de las Regulaciones estatales; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XXIX. Las demás facultades que establezcan esta Ley y otras disposiciones jurídicas aplicables.
+XXVIII. Supervisar que los Sujetos Obligados estatales, tengan actualizada la parte que les corresponde del catálogo, así como, coadyuvar en la actualización del segmento de las Regulaciones estatales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXIX. Promover a los Sujetos Obligados la digitalización de trámites, servicios y demás actos administrativos y jurídicos relacionados a la política de mejora regulatoria, para fortalecer la política de gobernanza digital en el estado de Guerrero;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXX. Proponer e impulsar la homologación de criterios para la atención, sustanciación y resolución de los trámites y servicios de los Sujetos Obligados;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXI. Coordinar la vinculación del Catálogo Estatal, así como las demás herramientas e instrumentos de la mejora regulatoria a la plataforma digital JAGUAR_ID;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXII. Coordinar la oferta de trámites y servicios que permitan la atracción y retención de inversiones en el estado, a través de ventanillas únicas;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXIII. Vigilar que los sistemas de las tecnologías de la información y comunicación que implementen los Sujetos Obligados a través de la plataforma digital JAGUAR_ID, para el desarrollo de sus trámites, servicios y demás actos jurídicos o administrativos en materia, cumplan con los estándares y parámetros establecidos en la presente Ley y la Ley General, así como la Estrategia Nacional y estatal;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXIV. Establecer los parámetros para operar la Protesta Ciudadana del Ejecutivo a través de la Plataforma Digital JAGUAR_ID;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXV. Establecer los parámetros para operar la Agenda Regulatoria del Ejecutivo a través de la Plataforma Digital JAGUAR_ID, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXXVI. Las demás facultades que establezcan esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 25.
 
-La CEMER estará presidida por un comisionado, quien será designado por el titular del Ejecutivo Estatal, a propuesta del Secretario de Fomento y Desarrollo Económico del Estado de Guerrero, mismo que tendrá nivel de subsecretario, o su equivalente.
+La CEMER estará presidida por la Comisionada o Comisionado Estatal que determine la persona titular del Ejecutivo Estatal, a propuesta de la persona titular de la Secretaría de Fomento y Desarrollo Económico del Estado de Guerrero, quien tendrá nivel de subsecretario o su equivalente.
 
-El Comisionado deberá contar con título profesional en materias afines al objeto de la CEMER, tener al menos treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales del sector empresarial, de servicio público o académicas relacionadas con el objeto de la CEMER.
+La Comisionada o Comisionado Estatal deberá contar con título profesional en materias afines al objeto de la CEMER, tener al menos treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales del sector empresarial, de servicio público o académicas relacionadas con el objeto de la CEMER.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 26.
 
-Al Comisionado Estatal, le corresponde:
+A la Comisionada o Comisionado Estatal le corresponde:
 
 I. Dirigir y representar legalmente a la CEMER;
 
 II. Recibir e integrar la Agenda Regulatoria Estatal;
 
-III. Elaborar los manuales internos de organización de la CEMER y disposiciones estratégicas de carácter general, organizacional y administrativo, incluyendo el Reglamento Interior de la CEMER y presentarlos para aprobación del titular de la Secretaría de Fomento y Desarrollo Económico;
+III. Elaborar los manuales internos de organización de la CEMER y disposiciones estratégicas de carácter general, organizacional y administrativo, incluyendo el Reglamento Interior de la CEMER y presentarlos para aprobación de la persona titular de la Secretaría de Fomento y Desarrollo Económico;
 
 IV. Interpretar lo previsto en esta Ley para efectos administrativos dentro del ámbito de la Administración Pública Estatal;
 
-VII (SIC). Fungir como Secretario Técnico del Consejo Estatal;
+V. Fungir como secretaria o secretario técnico del Consejo Estatal;
 
-VIII. Ejecutar los acuerdos, directrices y demás resoluciones adoptados por el Consejo Estatal, en el ámbito de su competencia;
+VI. Ejecutar los acuerdos, directrices y demás resoluciones adoptados por el Consejo Estatal, en el ámbito de su competencia;
 
-IX. Mandar a publicar en el Periódico Oficial del Gobierno del Estado, los lineamientos necesarios para el funcionamiento de la Estrategia Estatal;
+VII. Mandar a publicar en el Periódico Oficial del Gobierno del Estado de Guerrero, los lineamientos necesarios para el funcionamiento de la Estrategia Estatal;
 
-X. Participar en representación de la CEMER en foros, conferencias, coloquios, diplomados, seminarios, talleres, reuniones, eventos, convenciones y congresos que se lleven a cabo con organismos nacionales e internacionales, cuando se refieran a temas relacionados con el objeto de esta Ley y los objetivos de la política de la mejora regulatoria;
+VIII. Participar en representación de la CEMER en foros, conferencias, coloquios, diplomados, seminarios, talleres, reuniones, eventos, convenciones y congresos que se lleven a cabo con organismos nacionales e internacionales, cuando se refieran a temas relacionados con el objeto de esta Ley y los objetivos de la política de la mejora regulatoria;
 
-XI. Establecer los mecanismos para brindar asesoría técnica y capacitación en materia de mejora regulatoria a los sujetos obligados, así como, a los municipios que lo soliciten;
+IX. Establecer los mecanismos para brindar asesoría técnica y capacitación en materia de mejora regulatoria a los Sujetos Obligados, así como, a los municipios que lo soliciten;
 
-XII. Colaborar con las autoridades de mejora regulatoria para fortalecer y eficientar los mecanismos de coordinación; y
+X. Colaborar con las autoridades de mejora regulatoria para fortalecer y eficientar los mecanismos de coordinación;
 
-XIII. Las demás que le confieran esta Ley y su reglamento, el Reglamento Interior de la CEMER y cualquier otra disposición jurídica aplicable.
+XI. Desempeñar las funciones de coordinación entre el Sistema Estatal y el Sistema Nacional;
+
+XII. Coordinar la vinculación del Catálogo Estatal al Catálogo Nacional;
+
+XIII. Proponer al Consejo Estatal la Estrategia Estatal y, monitorear, evaluar y dar publicidad de la misma;
+
+XIV. Proponer al Consejo Estatal la emisión de directrices, instrumentos, lineamientos, mecanismos y buenas prácticas para el cumplimiento del objeto de esta Ley;
+
+XV. Proponer al Consejo Estatal el sistema de indicadores que permitan conocer el avance de la mejora regulatoria en la entidad, a través de la plataforma digital JAGUAR_ID;
+
+XVI. Identificar en el Catálogo Estatal los trámites y servicios que promuevan y faciliten la atracción y retención de inversiones, para ser ofertados a través de ventanillas de inversión;
+
+XVII. Promover a los Sujetos Obligados la digitalización y simplificación de trámites y servicios, especialmente los relacionados al bienestar social, la recaudación y la competitividad del estado de Guerrero;
+
+XVIII. Revisar, orientar y observar que los sistemas de las tecnologías de la información y comunicación que implementen los Sujetos Obligados a través de la plataforma digital JAGUAR_ID, para el desarrollo de sus trámites, servicios y demás actos jurídicos o administrativos en materia, cumplan con los estándares de mejora regulatoria;
+
+XIX. Revisar el marco regulatorio estatal, diagnosticar su aplicación y, en su caso, brindar asesoría a las autoridades competentes para mejorar la Regulación en actividades o sectores económicos específicos;
+
+XX. Proponer a los Sujetos Obligados acciones, medidas o programas que permitan impactar favorablemente en el mejoramiento del marco regulatorio estatal y que incidan en el desarrollo y crecimiento económico del estado, y coadyuvar en su promoción e implementación;
+
+XXI. Promover la evaluación de Regulaciones existentes a través del Análisis de Impacto Regulatorio ex post;
+
+XXII. Dictaminar los Análisis de Impacto Regulatorio de los Sujetos Obligados de la Administración Pública Estatal;
+
+XXIII. Elaborar y someter al Consejo Estatal para su aprobación, los lineamientos para la implementación de las herramientas e instrumentos de la Mejora Regulatoria, y
+
+XXIV. Las demás que le confieran esta Ley y su reglamento, el Reglamento Interior de la CEMER y cualquier otra disposición jurídica aplicable.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+###### Artículo 27.
+
+Las personas titulares de los Sujetos Obligados de la Administración Pública Estatal y sus equivalentes al del ámbito municipal, designarán a un enlace de mejora regulatoria, que deberá ser una persona servidora pública con nivel jerárquico inmediato inferior al de la persona titular, quien se apoyará de las Unidades Administrativas que resulten necesarias para la implementación de la política de mejora regulatoria y la Estrategia Estatal al interior de cada Sujeto Obligado, conforme a lo dispuesto en la Ley General, en la Estrategia Nacional, en esta Ley, la Ley de Gobernanza Digital y en las disposiciones que de ellas deriven.
+
+La coordinación y comunicación entre los Sujetos Obligados del ámbito estatal y municipal con las autoridades de mejora regulatoria correspondientes, se llevará a cabo a través de los enlaces de mejora regulatoria.
+
+En el caso de los órganos constitucionales autónomos, los poderes legislativo y judicial, así como, los organismos con jurisdicción contenciosa que no formen parte del poder judicial del ámbito estatal, éstos decidirán lo conducente de conformidad con sus disposiciones orgánicas.
+
+### Capítulo V. Sujetos obligados
 
 ###### Artículo 27.
 
@@ -556,8 +770,6 @@ Los titulares de los sujetos obligados estatales, designarán a un servidor púb
 En caso de que el sujeto obligado no cuente con servidores públicos de dicho nivel, deberá ser un servidor público que tenga un nivel jerárquico inmediato inferior al del titular. En el caso de los órganos constitucionales autónomos, los poderes legislativo y judicial, así como, los organismos con jurisdicción contenciosa que no formen parte del poder judicial del ámbito estatal, éstos decidirán lo conducente de conformidad con sus disposiciones orgánicas.
 
 La coordinación y comunicación entre los sujetos obligados del ámbito estatal y municipal con las autoridades de mejora regulatoria correspondientes, se llevará a cabo a través de los enlaces de mejora regulatoria.
-
-### Capítulo V. Sujetos obligados
 
 ###### Artículo 28.
 
@@ -573,9 +785,21 @@ IV. Garantizar que las propuestas regulatorias que tengan como objetivo crear, m
 
 V. Promover que las regulaciones vigentes a su cargo se analicen a través del Análisis de Impacto Regulatorio Ex Post;
 
-VI. Elaborar su Programa de Mejora Regulatoria; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VII. Las demás que establezcan la Ley, su reglamento u otras disposiciones aplicables.
+VI. Elaborar su Programa de Mejora Regulatoria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+VII. Adoptar la política de gobernanza digital en la elaboración e implementación de trámites, servicios y demás actos administrativos y jurídicos a cargo del Sujeto Obligado;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+VIII. Rendir informes del avance en la implementación de la mejora regulatoria, a través de los canales digitales del Sujeto Obligado, vinculados a la plataforma digital JAGUAR_ID, mismos que deberán incluir las metodologías, métricas y criterios de evaluación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+IX. Las demás que establezcan la Ley, su reglamento u otras disposiciones aplicables.
 
 ###### Artículo 29.
 
@@ -587,13 +811,21 @@ II. Implementar las acciones de mejora regulatoria y supervisar su cumplimiento 
 
 III. Ser el vínculo de su dependencia o entidad con la CEMER;
 
-IV. Informar al titular de la dependencia o entidad, los resultados de su gestión en materia de mejora regulatoria;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-V. Integrar, elaborar, proponer y coordinar los programas y acciones en materia de mejora regulatoria de su dependencia o entidad, para ser incorporados al Programa de Mejora Regulatoria;
+IV. Informar a la persona titular de la dependencia o entidad, los resultados de su gestión en materia de mejora regulatoria;
 
-VI. Ser responsable de enviar la información a la CEMER para mantener actualizados el Registro Estatal, el Expediente de Trámites y Servicios, así como, el Registro Estatal de Visitas Domiciliarias;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VII. Ser responsable de enviar la información a la Secretaría General para mantener actualizado el Registro Estatal de Regulaciones;
+V. Proponer, coordinar, integrar y elaborar los programas y acciones en materia de mejora regulatoria de su dependencia o entidad, para ser incorporados al Programa de Mejora Regulatoria;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+VI. Coordinar la carga y actualización de la información de su dependencia o entidad, correspondiente a los distintos registros del Catálogo Estatal;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+VII. Validar la información de su dependencia o entidad en los distintos registros del Catálogo Estatal, y en su caso, emitir observaciones y recomendaciones a las Unidades Administrativas responsables;
 
 VIII. Formular y proponer el Programa de Mejora Regulatoria correspondiente, en los términos que disponga la CEMER, incluyendo un diagnóstico en los términos solicitados por dicha Comisión;
 
@@ -601,13 +833,23 @@ IX. Elaborar y remitir a la CEMER los informes trimestrales y el informe anual d
 
 X. Elaborar y enviar a la CEMER, las propuestas regulatorias y sus Análisis de Impacto Regulatorio;
 
-XI. Atender en tiempo y forma los dictámenes de la CEMER y de la Secretaría General, durante los procedimientos de revisión y evaluación de las distintas herramientas de mejora regulatoria previstas en la Ley y su reglamento;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XI. Atender en tiempo y forma los dictámenes de las autoridades competentes, durante los procedimientos de revisión y evaluación de las distintas herramientas de mejora regulatoria previstas en la Ley y su reglamento;
 
 XII. Elaborar informes trimestrales y un informe anual del Programa de Mejora Regulatoria, que deberá incluir una evaluación de los resultados obtenidos;
 
-XIII. Hacer del conocimiento a la CEMER, las actualizaciones o modificaciones en el ámbito de su competencia de los distintos registros del Catálogo Estatal; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XIV. Las demás que establezcan la Ley, su reglamento y otras disposiciones jurídicas aplicables.
+XIII. Hacer del conocimiento a la CEMER, las actualizaciones o modificaciones en el ámbito de su competencia de los distintos registros del Catálogo Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+XIV. Ser responsable de atender las observaciones y recomendaciones realizadas en el Catálogo Estatal, por las autoridades competentes de su implementación;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+XV. Las demás que establezcan la Ley, su reglamento y otras disposiciones jurídicas aplicables.
 
 ### Capítulo VI
 
@@ -619,9 +861,11 @@ Los órganos constitucionales autónomos, los poderes legislativo y judicial, as
 
 Lo previsto en el párrafo anterior, no será aplicable para procesos jurisdiccionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 31.
 
-Las iniciativas de leyes o decretos que se presenten en el Congreso del Estado, así como, las disposiciones de carácter general presentadas en los cabildos de los ayuntamientos, deberán acompañarse de un Análisis de Impacto Regulatorio, que considere como mínimo los elementos descritos en el artículo 69 de esta Ley.
+Las iniciativas de leyes o decretos que se presenten en el Congreso del estado, así como, las disposiciones de carácter general presentadas en los cabildos de los ayuntamientos deberán acompañarse de un Análisis de Impacto Regulatorio, que considere como mínimo los elementos descritos en el artículo 73 de esta Ley.
 
 Para este efecto las leyes y reglamentos que rigen el funcionamiento del Congreso del Estado y los municipios, adecuarán en la medida que resulte necesario, las disposiciones que resulten aplicables para permitir la implementación de la elaboración del Análisis de Impacto Regulatorio.
 
@@ -631,55 +875,79 @@ El Congreso del Estado y los municipios realizarán revisiones periódicas de la
 
 ### Capítulo VII. Municipios
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 33.
 
-Para el cumplimiento de los objetivos de la Ley, los municipios integrarán Consejos Municipales de Mejora Regulatoria y deberán expedir su normatividad en la materia de conformidad con las disposiciones jurídicas de mejora regulatoria. La o el Presidente Municipal deberá nombrar un Comisionado Municipal de Mejora Regulatoria, con nivel de subsecretario, oficial mayor o equivalente en la estructura orgánica municipal.
+Para el cumplimiento de los objetivos de la Ley, los municipios integrarán Consejos Municipales de Mejora Regulatoria y deberán expedir su normatividad en la materia de conformidad con las disposiciones jurídicas de mejora regulatoria. La persona titular de la Presidencia Municipal deberá nombrar una Comisionada o Comisionado Municipal de Mejora Regulatoria, con nivel de subsecretaría, oficial mayor o equivalente en la estructura orgánica municipal.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+###### Artículo 33 Bis.
+
+Para la incorporación e implementación de la mejora regulatoria, los municipios deberán instrumentar un Catálogo Municipal de Regulaciones, Tramites y Servicios, la Agenda Regulatoria Municipal y el Análisis de Impacto Regulatorio.
+
+Los municipios en el ámbito de sus atribuciones deberán reglamentar las herramientas a que se refiere el párrafo anterior en forma análoga a las previstas dentro de esta Ley, y en concordancia con la Estrategia Estatal.
+
+En el supuesto de que algún municipio no cuente con los recursos para implementar una plataforma electrónica, podrán acordar mediante convenio con el estado de Guerrero, el uso de su plataforma.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 34.
 
-La coordinación y comunicación entre el Sujeto Obligado municipal y la Autoridad de Mejora Regulatoria Estatal, se llevará a cabo a través del Comisionado Municipal de Mejora Regulatoria, para el cumplimiento de las disposiciones jurídicas de la materia.
+La coordinación y comunicación entre el Sujeto Obligado municipal y la Autoridad de Mejora Regulatoria Estatal, se llevará a cabo a través de la Comisionada o Comisionado Municipal de Mejora Regulatoria, para el cumplimiento de las disposiciones jurídicas de la materia.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 35.
 
 Compete a los Municipios en materia de mejora regulatoria, lo siguiente:
 
-I.- Coordinar por medio del Comisionado Municipal a las dependencias o servidores públicos municipales con los sujetos obligados, entidades públicas, organismos estatales y federales, en los programas y acciones que lleven a cabo para lograr el cumplimiento de la Ley;
+I. Coordinar por medio de la Comisionada o Comisionado Municipal la política de mejora regulatoria en la administración pública del ámbito municipal, para dar cumplimiento a lo establecido en la presente Ley y la Ley General;
 
-II.- Elaborar la Agenda Regulatoria, los programas y acciones para lograr una mejora regulatoria integral, bajo los principios de máxima utilidad para la sociedad y la transparencia;
+II. Elaborar la Agenda Regulatoria, los programas y acciones para lograr una mejora regulatoria integral, bajo los principios de máxima utilidad para la sociedad y la transparencia;
 
-III.- Establecer Comisiones Municipales en cada dependencia, los cuales se encargarán de elaborar y aprobar los programas anuales de mejora regulatoria municipal, así como las propuestas de creación de regulaciones o de reforma específica, con base en los objetivos, estrategias y líneas de acción de los programas sectoriales, especiales, regionales e institucionales derivados del Plan Municipal de Desarrollo, y conforme a las disposiciones secundarias que al afecto se emitan, y
+III. Establecer Comisiones Municipales en cada dependencia, los cuales se encargarán de elaborar y aprobar los programas anuales de mejora regulatoria municipal, así como las propuestas de creación de regulaciones o de reforma específica, con base en los objetivos, estrategias y líneas de acción de los programas sectoriales, especiales, regionales e institucionales derivados del Plan Municipal de Desarrollo, y conforme a las disposiciones secundarias que al afecto se emitan;
 
-IV.- Las demás que le atribuyan otras disposiciones jurídicas para el cumplimiento de la mejora regulatoria.
+IV. Adoptar la política de gobernanza digital en la elaboración e implementación de trámites, servicios y demás actos administrativos y jurídicos relacionados a la política de mejora regulatoria, y
 
-Los titulares de las dependencias deberán designar un servidor público con nivel jerárquico inmediato inferior, quien será el enlace de la materia y el responsable de mejora regulatoria del sujeto obligado, el cual tendrá estrecha comunicación con el Comisionado Municipal de Mejora Regulatoria para dar cumplimiento de la Ley.
+V. Las demás que le atribuyan otras disposiciones jurídicas para el cumplimiento de la mejora regulatoria.
+
+Las personas titulares de las dependencias deberán designar una servidora o servidor público con nivel jerárquico inmediato inferior, quien será el enlace de la materia y responsable de mejora regulatoria del Sujeto Obligado, el cual tendrá estrecha comunicación con la Comisionada o Comisionado Municipal de Mejora Regulatoria para dar cumplimiento a la presente Ley.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 36.
 
 Los Consejos Municipales se conformarán, en su caso por:
 
-I. El Presidente Municipal, quien lo presidirá;
+I. La persona titular de la Presidencia Municipal, quien lo presidirá;
 
-II. El Síndico Municipal;
+II. La persona titular de la Sindicatura Municipal;
 
-III. El número de regidores que estime cada Ayuntamiento y que serán los encargados de las comisiones que correspondan al objeto de la Ley;
+III. El número de personas titulares de las regidurías que estime cada Ayuntamiento y que serán las encargadas de las comisiones que correspondan al objeto de la Ley;
 
-IV. El titular del área de Control Interno;
+IV. La persona titular del área de Control Interno;
 
-V. Un Secretario Técnico, que será el Comisionado Municipal de Mejora Regulatoria;
+V. Una secretaria o secretario técnico, que será la persona encargada de la Comisión Municipal de Mejora Regulatoria;
 
-VI. Representantes empresariales de organizaciones legalmente constituidas, que determine el Presidente Municipal con acuerdo de Cabildo, y
+VI. Representantes empresariales de organizaciones legalmente constituidas, que determine la persona titular de la Presidencia Municipal con acuerdo de Cabildo, y
 
-VII. Los titulares de las dependencias que determine el Presidente Municipal.
+VII. Las personas titulares de las dependencias que determine la persona titular de la Presidencia Municipal.
+
+Los Consejos Municipales sesionarán de forma ordinaria cuando menos dos veces al año, dentro de las tres semanas posteriores al inicio del semestre respectivo, y de forma extraordinaria cuando, por la naturaleza de los temas a tratar, sea necesario a juicio de la Presidencia del Consejo Municipal. La convocatoria se hará llegar a las personas del Consejo Municipal, por conducto de la secretaria o secretario técnico con una anticipación de diez días en el caso de las ordinarias y de tres días en el caso de las extraordinarias.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+###### Artículo 36 Bis.
 
 Serán invitados especiales de los Consejos Municipales y podrán participar con voz, pero sin voto:
 
-VIII. Representantes de confederaciones, cámaras y asociaciones empresariales, colegios, barras y asociaciones de profesionistas;
+I. Representantes de confederaciones, cámaras y asociaciones empresariales, colegios, barras y asociaciones de profesionistas;
 
-IX. Representantes de organizaciones y asociaciones de la sociedad civil, así como organizaciones de consumidores, y
+II. Representantes de organizaciones y asociaciones de la sociedad civil, así como organizaciones de consumidores, y
 
-X. Académicos especialistas en materias afines.
-
-Los Consejos Municipales sesionarán de forma ordinaria cuando menos dos veces al año, dentro de las tres semanas posteriores al inicio del semestre respectivo, y de forma extraordinaria cuando, por la naturaleza de los temas a tratar, sea necesario a juicio del Presidente del Consejo. La convocatoria se hará llegar a los miembros del Consejo Municipal, por conducto del Secretario Técnico con una anticipación de diez días en el caso de las ordinarias y de tres días en el caso de las extraordinarias.
+III. Académicos especialistas en materias afines.
 
 ###### Artículo 37.
 
@@ -697,15 +965,25 @@ V. Proponer las acciones necesarias para optimizar el proceso de mejora regulato
 
 VI. Aprobar la creación de Mesas Temáticas de Mejora Regulatoria para tratar y solucionar aspectos específicos para la implementación de la política pública de su responsabilidad;
 
-VII. Aprobar el Reglamento de Mejora Regulatoria Municipal, en el que se incluirá un Título estableciendo los términos para la operación del Consejo y en caso de ser necesario canalizarlo al H. Ayuntamiento para su aprobación, y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VIII. Las demás que le confiera esta Ley y demás disposiciones jurídicas aplicables.
+VII. Aprobar el Reglamento de Mejora Regulatoria Municipal, en el que se incluirá un Título estableciendo los términos para la operación del Consejo y en caso de ser necesario canalizarlo al H. Ayuntamiento para su aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+VIII. Conocer las directrices, bases, instrumentos, lineamientos y mecanismos de la gobernanza digital, en la elaboración y emisión de trámites, servicios y demás actos administrativos y jurídicos relacionados a la política de mejora regulatoria, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE FEBRERO DE 2025)</small>
+
+IX. Las demás que le confiera esta Ley y demás disposiciones jurídicas aplicables.
 
 Al Consejo Municipal podrán concurrir como invitados las personas u organizaciones que considere pertinente su Presidente, cuando deban discutirse asuntos determinados, los que tendrán derecho a voz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 38.
 
-El Comisionado Municipal tendrá, en su ámbito de competencia, las siguientes facultades y responsabilidades:
+La Comisionada o Comisionado Municipal tendrá, en su ámbito de competencia, las facultades y responsabilidades siguientes:
 
 I. Revisar el marco regulatorio municipal y coadyuvar en la elaboración y actualización de los anteproyectos de reglamentos, bandos, acuerdos y demás regulaciones o reformas a estas, y realizar los diagnósticos de procesos para mejorar la regulación de actividades económicas específicas.
 
@@ -735,7 +1013,9 @@ XIII. Proponer al Consejo Municipal la emisión de instrumentos, lineamientos, m
 
 XIV. Recibir de los Sujetos Obligados las Propuestas Regulatorias y el Análisis de Impacto Regulatorio correspondiente y, en su caso, elaborar el dictamen respectivo. De ser necesario enviar el Análisis de Impacto Regulatorio a la Comisión Estatal, para los efectos de que esta emita su opinión;
 
-XV. Promover la integración de la información del Catálogo Municipal al Catálogo Nacional, y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XV. Coordinar la integración de la información del Catálogo Municipal a los Catálogos Estatal y Nacional, y
 
 XVI. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
@@ -747,9 +1027,13 @@ I. Elaborar su Programa Anual de Mejora Regulatoria; la Agenda Regulatoria con l
 
 II. Elaborar su informe anual del avance programático de mejora regulatoria, que deberá incluir una evaluación de los resultados obtenidos y enviarlo al Secretario Técnico para los efectos legales correspondientes;
 
-III. Mantener actualizada la información de su competencia en el Catálogo, incluyendo, entre otros componentes, el Registro Municipal de regulaciones, así como el de trámites y servicios, así como los requisitos, plazos y monto de los derechos o aprovechamientos aplicables y notificar al Comisionado Municipal los cambios que realice;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-IV. Enviar al Comisionado Municipal, las Propuestas Regulatorias y el correspondiente Análisis de Impacto Regulatorio, y
+III. Mantener actualizada la información de su competencia en el Catálogo Municipal, incluyendo, entre otros componentes, el Registro Municipal de regulaciones, el Registro Municipal de trámites y servicios, así como los requisitos, plazos y monto de los derechos o aprovechamientos aplicables y notificar a la Comisionada o Comisionado Municipal los cambios que realice;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+IV. Enviar a la Comisionada o Comisionado Municipal, las Propuestas Regulatorias y el correspondiente Análisis de Impacto Regulatorio, y
 
 V. Las demás que establezcan otras disposiciones jurídicas aplicables. Las dependencias municipales remitirán al Comisionado Municipal los documentos a que se refiere el presente artículo, para los efectos legales correspondientes.
 
@@ -761,6 +1045,10 @@ V. Las demás que establezcan otras disposiciones jurídicas aplicables. Las dep
 
 El Catálogo Estatal es la herramienta tecnológica que compila las regulaciones, los trámites y servicios de los sujetos obligados de los órdenes de gobierno del Estado de Guerrero, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como, fomentar el uso de tecnologías de la información. Tendrá carácter público y la información que contenga será vinculante para los sujetos obligados, en el ámbito de sus competencias.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+La inscripción y actualización del Catálogo Estatal es de carácter permanente y obligatorio para todos los Sujetos Obligados, en el ámbito de sus competencias. Por lo que, los Sujetos Obligados que no formen parte de la Administración Pública Estatal deberán suscribir un acuerdo con la CEMER, para dar cumplimiento de lo establecido en este artículo, de conformidad con los lineamientos que se expidan para tal efecto.
+
 Por otra parte, la inscripción y actualización del Catálogo Nacional es de carácter permanente y obligatorio para todos los sujetos obligados, en el ámbito de sus competencias, por lo que deberán informar periódicamente a la autoridad de mejora regulatoria correspondiente cualquier modificación a la información inscrita en los Catálogos, lo anterior conforme a lo establecido por la Ley General.
 
 ###### Artículo 41.
@@ -771,7 +1059,9 @@ I. El Registro Estatal y municipales de regulaciones;
 
 II. Los registros estatal y municipales de trámites y servicios;
 
-III. El Expediente para Trámites y Servicios;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+III. Módulo de Trámites y Servicios en Línea;
 
 IV. El Registro Estatal de Visitas Domiciliarias; y
 
@@ -779,13 +1069,13 @@ V. La protesta ciudadana.
 
 #### Sección Primera. Registros estatal y municipales de regulaciones
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 42.
 
-El Registro Estatal y los municipales de regulaciones son herramientas tecnológicas que compilan las regulaciones de los sujetos obligados en sus respectivos ámbitos de competencia. Tendrá carácter público y contendrá la misma información que estará inscrita en el Registro Nacional de Regulaciones previsto en la Ley General.
+El Registro Estatal y los municipales de regulaciones son herramientas tecnológicas que compilan las regulaciones de los Sujetos Obligados en sus respectivos ámbitos de competencia. Tendrán carácter público y contendrán la misma información que estará inscrita en el Registro Nacional de Regulaciones previsto en la Ley General.
 
-Corresponde a la Secretaría General, en coordinación con la CEMER, la integración y administración del Registro Estatal de Regulaciones.
-
-Los sujetos obligados estatales serán los responsables de inscribir y actualizar permanentemente la información que les corresponde en el Registro Estatal de Regulaciones. Cuando exista una regulación cuya aplicación no se atribuya a algún sujeto obligado específico, corresponderá su registro y actualización a la Secretaría General.
+Los Sujetos Obligados serán los responsables de inscribir y actualizar permanentemente la información que les corresponde en su Registro de Regulaciones, con el objeto de que se mantenga vigente. Cuando exista una Regulación cuya aplicación no se atribuya a algún Sujeto Obligado específico, corresponderá a la Autoridad de Mejora Regulatoria en colaboración con la dependencia afín a dicha Regulación, su registro y actualización.
 
 ###### Artículo 43.
 
@@ -827,11 +1117,13 @@ La Secretaría General será la responsable de administrar y publicar la informa
 
 #### Sección Segunda. Registro estatal y registros municipales de trámites y servicios
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 45.
 
-Los registros de trámites y servicios son herramientas tecnológicas que compilan los trámites y servicios de los sujetos obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como, fomentar el uso de tecnologías de la información. Tendrán carácter público y la información que contengan será vinculante para los sujetos obligados.
+Los registros de trámites y servicios son herramientas tecnológicas que compilan los trámites y servicios de los Sujetos Obligados, con el objeto de otorgar seguridad jurídica a las personas, dar transparencia, facilitar el cumplimiento regulatorio, así como, fomentar el uso de tecnologías de la información. Tendrán carácter público y la información que contengan será vinculante para los Sujetos Obligados.
 
-La inscripción y actualización de los registros de trámites y servicios es de carácter permanente y obligatorio para todos los sujetos obligados.
+La inscripción y actualización de los registros de trámites y servicios es de carácter permanente y obligatorio para todos los Sujetos Obligados en el ámbito de su competencia.
 
 ###### Artículo 46.
 
@@ -851,13 +1143,21 @@ VI. Los registros de los organismos con jurisdicción contenciosa que no formen 
 
 VII. Los registros de los demás sujetos obligados, en caso de que no se encuentren comprendidos en alguna de las fracciones anteriores.
 
-La CEMER será la responsable de administrar y publicar la información que los sujetos obligados estatales inscriban en el Registro Estatal.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-Los sujetos obligados serán los responsables de inscribir y actualizar la información de los trámites y servicios que estén en el Registro Estatal. La legalidad y el contenido de la información que inscriban los sujetos obligados en los registros de trámites y servicios son de su estricta responsabilidad.
+Las autoridades de Mejora Regulatoria serán responsables de administrar la información que los Sujetos Obligados inscriban en sus respectivos registros de Trámites y Servicios.
 
-A partir del momento en que la autoridad de mejora regulatoria identifique errores u omisiones en la información proporcionada, tendrá un plazo de cinco días para comunicar sus observaciones al sujeto obligado. Dichas observaciones tendrán carácter vinculante para los sujetos obligados, quienes a su vez contarán con un plazo de cinco días para solventar las observaciones, una vez agotado el procedimiento anterior y habiéndose solventado las observaciones, la autoridad de mejora regulatoria publicará dentro del término de cinco días la información en el Registro de Trámites y Servicios.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-La omisión o la falsedad de la información que los sujetos obligados remitan al registro de trámites y servicios será sancionada en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
+Los Sujetos Obligados serán los responsables de inscribir y actualizar la información a los registros de Trámites y Servicios. La legalidad y el contenido de la información que inscriban los Sujetos Obligados en los registros de Trámites y Servicios son de su estricta responsabilidad.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+A partir del momento en que la Autoridad de Mejora Regulatoria identifique errores u omisiones en la información proporcionada, tendrá un plazo de cinco días para comunicar sus observaciones al Sujeto Obligado. Dichas observaciones tendrán carácter vinculante para los Sujetos Obligados, quienes a su vez contarán con un plazo de cinco días para solventar las observaciones. Una vez agotado el procedimiento anterior y habiéndose solventado las observaciones, la Autoridad de Mejora Regulatoria publicará dentro del término de cinco días la información en su registro de Trámites y Servicios.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+La omisión o la falsedad de la información que los Sujetos Obligados inscriban en los registros de Trámites y Servicios serán sancionados en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
 
 ###### Artículo 47.
 
@@ -935,27 +1235,43 @@ En caso de incumplimiento del primer párrafo del presente artículo, la autorid
 
 En el caso de los municipios que no cuenten con los recursos para tener una plataforma electrónica que contenga su registro de trámites y servicios, mediante convenio podrán acordar con el Estado el uso de su plataforma.
 
-#### Sección Tercera. Expediente para trámites y servicios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2025)</small>
+
+#### Sección Tercera. Módulo de Trámites y Servicios en Línea
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 52.
 
-El Expediente para Trámites y Servicios operará conforme a los lineamientos que aprueben el Consejo Nacional y el Consejo Estatal, y deberá considerar mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia.
+El módulo de trámites y servicios en línea es un componente del Catálogo Estatal, cuyo objeto es facilitar como un vínculo seguro la atención de trámites y servicios a través de la plataforma digital JAGUAR_ID.
 
-Los sujetos obligados, en el ámbito de sus respectivas competencias, incluirán en sus programas de mejora regulatoria las acciones para facilitar a otros sujetos obligados, a través del Expediente para Trámites y Servicios, el acceso, consulta y transferencia de manera segura de las actuaciones electrónicas que se generen con motivo de un trámite o servicio.
+El módulo de trámites y servicios en línea emplea el Riel de Interoperabilidad para comunicarse con los sistemas de las tecnologías de la información y comunicación de los Sujetos Obligados, garantizando a las personas usuarias, la transferencia segura y eficiente de sus datos personales.
+
+Por otro lado, para poder interoperar con el módulo de trámites y servicios en línea, los Sujetos Obligados deberán contar con autorización para el uso de la Plataforma Digital JAGUAR_ID, del Identificador Digital Único y de la Firma Electrónica Avanzada, que otorga la Coordinación General de Gobernanza Digital, a excepción del Poder Ejecutivo, Notarias y Notarios, en términos de lo dispuesto por la Ley de Gobernanza Digital.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 53.
 
-Los sujetos obligados no podrán solicitar información que ya se encuentre en el Expediente de Trámites y Servicios, ni podrán requerir documentación que tengan en su poder. Sólo podrán solicitar aquella información y documentación particular o adicional, que esté prevista en el Catálogo Estatal.
+El módulo de trámites y servicios en línea incluye en las fichas de los trámites y servicios disponibles para su resolución a través de medios digitales, el botón "Comenzar trámite en línea", que enlazará a las personas usuarias con el Inicio de Sesión Único de la plataforma digital JAGUAR_ID, para su identificación y desahogo de los requisitos aplicables a través del Expediente Electrónico.
+
+Los Sujetos Obligados no podrán solicitar información que ya se encuentre en el Expediente Electrónico, ni podrán requerir documentación que tengan en su poder. Sólo podrán solicitar aquella información y documentación particular o adicional, que esté prevista en el Catálogo Estatal.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 54.
 
-Los documentos electrónicos que integren los sujetos obligados al Expediente de Trámites y Servicios conforme a lo dispuesto por esta Ley, producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a estos.
+Los documentos electrónicos que integren los Sujetos Obligados al Expediente Electrónico conforme a lo dispuesto por esta Ley, producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a estos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 55.
 
-Los sujetos obligados integrarán al Expediente para Trámites y Servicios, los documentos firmados autógrafamente cuando se encuentre en su poder el documento original y se cumpla con lo siguiente:
+Los Sujetos Obligados integrarán al Expediente Electrónico, los documentos firmados autógrafamente cuando se encuentre en su poder el documento original y se cumpla con lo siguiente:
 
-I. Que la migración a una forma digital haya sido realizada o supervisada por un servidor público que cuente con facultades de certificación de documentos, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+I. Que la migración a una forma digital haya sido realizada o supervisada por una persona servidora pública que cuente con facultades de certificación de documentos, en términos de las disposiciones aplicables;
 
 II. Que la información contenida en el documento electrónico se mantenga íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta;
 
@@ -963,9 +1279,11 @@ III. Que el documento electrónico permita conservar el formato del documento im
 
 IV. Que cuente con la Firma Electrónica Avanzada del servidor público al que se refiere la fracción I de este artículo.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 56.
 
-Para efectos de esta Ley, tratándose de procedimientos administrativos relacionados con la apertura y operación de las empresas, el Expediente Electrónico Empresarial hará las veces del Expediente para Trámites y Servicios.
+Los Sujetos Obligados, en el ámbito de sus atribuciones y facultades podrán promocionar y aplicar trámites y servicios en línea a través de sus Canales Digitales, siempre y cuando la información a que hace referencia el artículo 48 de esta Ley, se encuentre publicada en el registro de trámites y servicios correspondiente.
 
 #### Sección Cuarta. Registro de Visitas Domiciliarias
 
@@ -979,15 +1297,19 @@ II. El listado de inspecciones, verificaciones y visitas domiciliarias que pueda
 
 III. La información que se determine en los lineamientos que al efecto expidan el Consejo Nacional y el Consejo Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 58.
 
-El Padrón contendrá la lista de los servidores públicos autorizados para realizar inspecciones, verificaciones y visitas domiciliarias en el ámbito administrativo. Los Sujetos Obligados serán los encargados de inscribir en el Padrón, a los servidores públicos a que se refiere el presente artículo.
+El Padrón contendrá la lista de las personas servidoras públicas autorizadas para realizar inspecciones, verificaciones y visitas domiciliarias en el ámbito administrativo. Los Sujetos Obligados serán los encargados de inscribir en el Padrón, a las personas servidoras públicas a que se refiere el presente artículo.
 
 Lo dispuesto en el párrafo anterior no será aplicable a aquellas inspecciones, verificaciones o visitas domiciliarias requeridas para atender situaciones de emergencia. Para tales efectos, dentro de un plazo de cinco días posteriores a la habilitación, el Sujeto Obligado deberá informar y justificar a la Autoridad de Mejora Regulatoria correspondiente las razones para habilitar a nuevos inspectores o verificadores requeridos para atender la situación de emergencia.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 59.
 
-El Padrón contará con los datos que establezca la Estrategia, de los servidores públicos a que se refiere el artículo 58, de conformidad con las disposiciones jurídicas aplicables en materia de protección de datos personales.
+El Padrón contará con los datos que establezca la Estrategia, de las personas servidoras públicas a que se refiere el artículo 58, de conformidad con las disposiciones jurídicas aplicables en materia de protección de datos personales.
 
 ###### Artículo 60.
 
@@ -1015,9 +1337,11 @@ En caso de que la autoridad de mejora regulatoria identifique errores u omisione
 
 #### Sección Quinta. Protesta Ciudadana
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 64.
 
-El solicitante podrá presentar una Protesta Ciudadana cuando con acciones u omisiones el servidor público encargado del trámite o servicio niegue la gestión sin causa justificada, altere o incumpla con las fracciones III, V, VI, VI (sic), VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII del artículo 49 y artículo 51 de esta Ley.
+El solicitante podrá presentar una Protesta Ciudadana cuando con acciones u omisiones la persona servidora pública encargada del trámite o servicio niegue la gestión sin causa justificada, altere o incumpla con las fracciones III, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 48 y artículo 50 de esta Ley.
 
 ###### Artículo 65.
 
@@ -1052,6 +1376,10 @@ III. Problemática que se pretende resolver con la propuesta regulatoria;
 IV. Justificación para emitir la Propuesta Regulatoria; y
 
 V. Fecha tentativa de presentación.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Los Sujetos Obligados podrán iniciar los trabajos de elaboración de sus Propuestas Regulatorias aun cuando la materia o tema no esté incluida en su Agenda Regulatoria, pero no podrán ser emitidos sin que estén incorporados a dicha Agenda, salvo por las excepciones establecidas en el artículo 69 de esta Ley.
 
 ###### Artículo 69.
 
@@ -1099,31 +1427,33 @@ V. Que fortalezcan las condiciones sobre los consumidores y sus derechos, las mi
 
 VI. Que impulsen la atención de situaciones de riesgo mediante herramientas proporcionales a su impacto esperado; y
 
-VII. Las propuestas regulatorias indicarán necesariamente la o las regulaciones que pretenden abrogar, derogar o modificar. Lo anterior deberá quedar asentado en el Análisis de Impacto Regulatorio.
+VII. (DEROGADA, P.O. 14 DE FEBRERO DE 2025)
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Las Propuestas Regulatorias indicarán necesariamente la o las Regulaciones que pretenden abrogar, derogar o modificar, en términos del artículo 82 de esta Ley. Lo anterior deberá quedar asentado en el Análisis de Impacto Regulatorio.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 73.
 
-El Análisis de Impacto Regulatorio deberá incluir, por lo menos los rubros siguientes:
+Los Análisis de Impacto Regulatorio establecerán un marco de análisis estructurado para asistir a los Sujetos Obligados en el estudio de los efectos de las Regulaciones y Propuestas Regulatorias, y en la realización de los ejercicios de consulta pública correspondientes, los cuales deberán contener cuando menos los siguientes elementos:
 
-I. Exposición sucinta de las razones que generan la necesidad de crear nuevas regulaciones, o bien, reformarlas;
+I. La explicación de la problemática que da origen a la necesidad de la intervención gubernamental y los objetivos que ésta persigue;
 
-II. Alternativas regulatorias y no regulatorias que se tomaron en cuenta para arribar a la propuesta de crear o reformar las regulaciones de que se trate, justificando porque la propuesta actual es la mejor alternativa;
+II. El análisis de las alternativas regulatorias y no regulatorias que son consideradas para solucionar la problemática, incluyendo la explicación de por qué la Regulación o Propuesta Regulatoria es preferible al resto de las alternativas;
 
-III. Problemas que la actual regulación genera y cómo el proyecto de nueva regulación o su reforma plantea resolverlos;
+III. La evaluación de los costos y beneficios de la Regulación o Propuesta Regulatoria, así como de otros impactos incluyendo, cuando sea posible, aquéllos que resulten aplicables para cada grupo afectado;
 
-IV. Posibles riesgos que se correrían de no emitir las regulaciones propuestas;
+IV. El análisis de los mecanismos y capacidades de implementación, verificación e inspección;
 
-V. Fundamento jurídico que da sustento al proyecto y la congruencia de la regulación propuestas (sic) con el ordenamiento jurídico vigente;
+V. La identificación y descripción de los mecanismos, metodologías e indicadores que serán utilizados para evaluar el logro de los objetivos de la Regulación;
 
-VI. Beneficios y costos cuantificables que generaría la regulación propuesta y aquellos que resulten aplicables para los particulares;
+VI. La descripción de los esfuerzos de consulta pública previa llevados a cabo para generar la Regulación o Propuesta Regulatoria, así como las opiniones de los particulares que hayan sido recabadas en el ejercicio de Agenda Regulatoria a que se refiere el artículo 67 de esta Ley, y
 
-VII. Identificación y descripción de los trámites y servicios eliminados, reformados y/o generados con la regulación propuesta;
+VII. Los que apruebe el Consejo Nacional.
 
-VIII. Recursos para asegurar el cumplimiento de la regulación, así como, los mecanismos, metodologías e indicadores que serán de utilidad para la evaluación de la implementación, verificación e inspección de la Propuesta Regulatoria;
-
-IX. La descripción de los esfuerzos de consulta pública previa, llevados a cabo para generar la regulación o propuesta regulatoria así como, las opiniones de los particulares que hayan sido recabadas en el ejercicio de la Agenda Regulatoria, y aquellos comentarios que se hayan recibido durante el proceso de mejora regulatoria; y
-
-X. Los demás que apruebe el Consejo Nacional.
+Para efectos de lo previsto en el presente artículo las Autoridades de Mejora Regulatoria podrán requerir información diferenciada de acuerdo a la naturaleza y el impacto de las Regulaciones. Asimismo, las Autoridades de Mejora Regulatoria deberán establecer criterios que los Sujetos Obligados deberán observar a fin de que sus Propuestas Regulatorias mitiguen el impacto sobre las micro, pequeñas y medianas empresas.
 
 ###### Artículo 74.
 
@@ -1141,11 +1471,15 @@ Los sujetos obligados deberán manifestar por escrito su consideración respecto
 
 El Consejo Estatal aprobará, con base en las disposiciones generales que contenga la Estrategia Nacional, los lineamientos para la implementación del Análisis de Impacto Regulatorio ex post, mismos que la autoridad de mejora regulatoria que corresponda desarrollará para su implementación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 75.
 
-Cuando los sujetos obligados elaboren propuestas regulatorias, las presentarán a la autoridad de mejora regulatoria correspondiente, junto con un Análisis de Impacto Regulatorio ex post, que contenga los elementos que esta determine, atendiendo a lo dispuesto en el artículo 68 de esta Ley, cuando menos treinta días antes de la fecha en que pretendan publicarse en el medio de difusión o someterse a la consideración del titular del Ejecutivo Estatal o al Presidente Municipal.
+Cuando los Sujetos Obligados elaboren propuestas regulatorias, las presentarán a la autoridad de mejora regulatoria correspondiente, junto con un Análisis de Impacto Regulatorio que contenga los elementos que esta determine, atendiendo a lo dispuesto en el artículo 73 de esta Ley, cuando menos treinta días antes de la fecha en que pretendan publicarse en el medio de difusión o someterse a la consideración de la persona titular del Ejecutivo Estatal o Municipal según corresponda.
 
-Se podrá autorizar que el Análisis de Impacto Regulatorio se presente hasta en la misma fecha en que se someta la Propuesta Regulatoria al Titular del Ejecutivo Estatal o al Presidente Municipal, cuando ésta pretenda resolver o prevenir una situación de emergencia. En estos casos deberá solicitarse la autorización para el trato de emergencia ante la Autoridad de Mejora Regulatoria correspondiente, para lo cual deberá acreditarse que la Propuesta Regulatoria:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2025)</small>
+
+Se podrá autorizar que el Análisis de Impacto Regulatorio se presente hasta en la misma fecha en que se someta la Propuesta Regulatoria a la persona titular del Ejecutivo Estatal o Municipal según corresponda, cuando ésta pretenda resolver o prevenir una situación de emergencia. En estos casos deberá solicitarse la autorización para el trato de emergencia ante la Autoridad de Mejora Regulatoria correspondiente, para lo cual deberá acreditarse que la Propuesta Regulatoria:
 
 I. Busque evitar un daño inminente, o bien atenuar o eliminar un daño existente a la salud o bienestar de la población, a la salud animal y sanidad vegetal, al medio ambiente, a los recursos naturales o a la economía;
 
@@ -1163,29 +1497,39 @@ Para efectos de la exención del Análisis de Impacto Regulatorio a que hace ref
 
 Los Sujetos Obligados darán aviso a la Autoridad de Mejora Regulatoria correspondiente de la publicación de las regulaciones exentas de la elaboración del Análisis de Impacto Regulatorio, en un plazo que no excederá de tres días hábiles posteriores a su publicación en el Medio de Difusión.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 76.
 
-Cuando la autoridad de mejora regulatoria reciba un Análisis de Impacto Regulatorio ex post, que a su juicio no sea satisfactorio, podrá solicitar a los sujetos obligados, dentro de los diez días siguientes a que reciba dicho Análisis de Impacto Regulatorio, que realice las ampliaciones o correcciones a que haya lugar. Cuando, a criterio de la autoridad de mejora regulatoria, el Análisis de Impacto Regulatorio siga sin ser satisfactorio y la propuesta regulatoria de que se trate pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, podrá solicitar al sujeto obligado que con cargo a su presupuesto efectúe la designación de un experto, quien deberá ser aprobado por la autoridad de mejora regulatoria. El experto deberá revisar el Análisis de Impacto Regulatorio y entregar comentarios a la autoridad de mejora regulatoria y al propio sujeto obligado dentro de los cuarenta días siguientes a su contratación.
+Cuando la Autoridad de Mejora Regulatoria reciba un Análisis de Impacto Regulatorio que a su juicio no sea satisfactorio, podrá solicitar a los Sujetos Obligados, dentro de los diez días siguientes a que reciba dicho Análisis de Impacto Regulatorio, que realice las ampliaciones o correcciones a que haya lugar. Cuando, a criterio de la Autoridad de Mejora Regulatoria, el Análisis de Impacto Regulatorio siga sin ser satisfactorio y la Propuesta Regulatoria de que se trate pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, podrá solicitar al Sujeto Obligado que con cargo a su presupuesto efectúe la designación de un experto, quien deberá ser aprobado por la Autoridad de Mejora Regulatoria. El experto deberá revisar el Análisis de Impacto Regulatorio y entregar comentarios a la Autoridad de Mejora Regulatoria y al propio Sujeto Obligado dentro de los cuarenta días siguientes a su contratación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 77.
 
-La autoridad de mejora regulatoria hará públicas las propuestas regulatorias, desde que las reciba, junto con el Análisis de Impacto Regulatorio, los dictámenes que se emitan, las respuestas a éstos, las autorizaciones y exenciones previstas en el presente capítulo, así como, las opiniones y comentarios de los interesados que se recaben durante la consulta pública.
+Las Autoridades de Mejora Regulatoria harán públicas, desde que las reciban, las Propuestas Regulatorias, el Análisis de Impacto Regulatorio, los dictámenes que emitan, las respuestas a éstos, las autorizaciones y exenciones previstas en el presente Capítulo y todas las opiniones y comentarios de los interesados que se recaben durante la consulta pública.
 
-Para tal efecto, deberán establecerse plazos mínimos de consulta pública que no podrán ser menores a veinte días, de conformidad con los instrumentos jurídicos que la autoridad de mejora regulatoria establezca en el ámbito de su competencia. La determinación de dichos plazos mínimos deberá tomar en consideración el impacto potencial de las Propuestas Regulatorias, su naturaleza jurídica y ámbito de aplicación, entre otros elementos que se consideren pertinentes y que deberán establecerse mediante el Manual de Funcionamiento del Análisis de Impacto Regulatorio.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Para tal efecto, deberán establecerse plazos mínimos de consulta pública que no podrán ser menores a veinte días, de conformidad con los instrumentos jurídicos que las Autoridades de Mejora Regulatoria establezcan en el ámbito de su competencia. La determinación de dichos plazos mínimos deberá tomar en consideración el impacto potencial de las Propuestas Regulatorias, su naturaleza jurídica y ámbito de aplicación, entre otros elementos que se consideren pertinentes y que deberán establecerse mediante el Manual de Funcionamiento del Análisis de Impacto Regulatorio.
 
 Los sujetos obligados podrán solicitar a la autoridad de mejora regulatoria correspondiente, la aplicación de plazos mínimos de consulta pública menores a los previstos en esta Ley, conforme a los lineamientos que para tal efecto emitan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 78.
 
-Cuando a solicitud de un sujeto obligado, la autoridad de mejora regulatoria determine que la publicidad a que se refiere el artículo anterior pudiera comprometer los efectos que se pretendan lograr con la propuesta de regulación, esta no consultará a otras autoridades, ni hará pública la información respectiva sino hasta el momento en que se publique la regulación en el medio de difusión. También se aplicará esta regla cuando lo determine la Consejería Jurídica del Poder Ejecutivo del Estado o autoridad equivalente, previa opinión de aquellas, respecto de las propuestas regulatorias que se pretendan someter a la consideración del titular del Ejecutivo Estatal. Lo anterior se aplicará sin perjuicio de los tratados internacionales de los que los Estados Unidos Mexicanos sea parte.
+Cuando a solicitud de un sujeto obligado, la autoridad de mejora regulatoria determine que la publicidad a que se refiere el artículo anterior pudiera comprometer los efectos que se pretendan lograr con la propuesta de regulación, esta no consultará a otras autoridades, ni hará pública la información respectiva sino hasta el momento en que se publique la regulación en el medio de difusión. También se aplicará esta regla cuando lo determine la Consejería Jurídica del Poder Ejecutivo del Estado o autoridad equivalente, previa opinión de aquellas, respecto de las propuestas regulatorias que se pretendan someter a la consideración de la persona titular del Ejecutivo Estatal o Municipal segunda (sic) corresponda. Lo anterior se aplicará sin perjuicio de los tratados internacionales de los que los Estados Unidos Mexicanos sea parte.
 
 Cuando la autoridad de mejora regulatoria determine que la publicidad de la propuesta regulatoria no se ubica en alguno de los supuestos de excepción del párrafo anterior, se remitirá a lo dispuesto en el manual que a su efecto emita la autoridad de mejora regulatoria.
 
 La responsabilidad de considerar que la publicación pudiera comprometer los efectos que se pretendan lograr con la regulación, recae exclusivamente en el sujeto obligado que solicite dicho tratamiento, y su justificación será pública a partir del momento en que la regulación se publique en el medio de difusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 79.
 
-La autoridad de mejora regulatoria, deberá emitir y entregar al sujeto obligado un dictamen del Análisis de Impacto Regulatorio y de la propuesta regulatoria respectiva, dentro de los treinta días siguientes a la recepción del Análisis de Impacto Regulatorio, de las ampliaciones o correcciones al mismo.
+La Autoridad de Mejora Regulatoria, deberá emitir y entregar al Sujeto Obligado un dictamen del Análisis de Impacto Regulatorio y de la Propuesta Regulatoria respectiva, dentro de los treinta días siguientes a la recepción del Análisis de Impacto Regulatorio, de las ampliaciones o correcciones al mismo, o de los comentarios de los expertos a que se refiere el artículo 76 de esta Ley, según corresponda.
 
 El dictamen a que se refiere el párrafo anterior, será preliminar cuando existan comentarios derivados de la consulta pública o de la propia autoridad de mejora regulatoria que requieran ser evaluados por el sujeto obligado que ha promovido la propuesta regulatoria.
 
@@ -1193,19 +1537,35 @@ El dictamen preliminar deberá considerar las opiniones que en su caso reciba la
 
 Cuando el sujeto obligado manifieste conformidad hacia las recomendaciones contenidas en el dictamen preliminar, deberá ajustar la propuesta regulatoria en consecuencia. En caso contrario, deberá comunicar por escrito las razones respectivas a la autoridad de mejora regulatoria en un plazo no mayor a cuarenta y cinco días, a fin de que esta emita un dictamen final dentro de los cinco días siguientes.
 
-El dictamen a que se refiere el primer párrafo del presente artículo, podrá ser final únicamente cuando no existan comentarios derivados de la consulta pública o de la propia autoridad de mejora regulatoria o, en su caso, dichos comentarios hayan sido en los términos a que se refiere este artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2025)</small>
 
-En caso de discrepancia entre el sujeto obligado estatal y la CEMER, esta última resolverá, en definitiva.
+En caso de que la Autoridad de Mejora Regulatoria no reciba respuesta al dictamen preliminar o a los comentarios de los expertos a que se refiere el artículo 72 en el plazo indicado en el párrafo anterior, se tendrá por desechado el procedimiento para la Propuesta Regulatoria.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+El dictamen a que se refiere el primer párrafo del presente artículo, podrá ser final únicamente cuando no existan comentarios derivados de la consulta pública o de la propia Autoridad de Mejora Regulatoria o, en su caso, dichos comentarios hayan sido en los términos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Cuando el dictamen final contenga opiniones relacionadas con la creación, modificación o eliminación de Trámites o Servicios, éstas tendrán el carácter de vinculatorias para el Sujeto Obligado, a fin de que realicen los ajustes pertinentes a la Propuesta Regulatoria, siempre y cuando la Autoridad de Mejora Regulatoria las haya señalado previamente en el procedimiento a que se refiere este artículo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE FEBRERO DE 2025)</small>
+
+En caso de discrepancia entre el sujeto obligado y la Autoridad de Mejora Regulatoria, esta última resolverá, en definitiva.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 80.
 
-La Secretaría General, únicamente publicará en el medio de difusión, las regulaciones que expidan los sujetos obligados estatales cuando estos acrediten contar con una resolución definitiva de la CEMER. La versión que publiquen los sujetos obligados deberá coincidir íntegramente con la contenida en la resolución antes señalada, salvo en el caso de las disposiciones que emite el titular del Ejecutivo Estatal, en cuyo caso la Consejería Jurídica resolverá el contenido definitivo.
+La Secretaría General u homóloga en el ámbito municipal, únicamente publicará en el medio de difusión, las regulaciones que expidan los Sujetos Obligados cuando estos acrediten contar con una resolución definitiva de la Autoridad de Mejora Regulatoria respectiva. La versión que publiquen los Sujetos Obligados deberá coincidir íntegramente con la contenida en la resolución antes señalada, salvo en el caso de las disposiciones que emite la persona titular del Ejecutivo Estatal o Municipal segunda (sic) corresponda, en cuyo caso la Consejería Jurídica u homólogos resolverán el contenido definitivo.
 
-La Secretaría General publicará en el medio de difusión que corresponda, dentro de los siete primeros días de cada mes, la lista que le proporcione la CEMER de los títulos de las regulaciones y los documentos a que se refiere el artículo 73 de esta Ley.
+La Secretaría General u homóloga en el ámbito municipal publicará en el medio de difusión que corresponda, dentro de los siete primeros días de cada mes, la lista que le proporcionen las Autoridades de Mejora Regulatoria de los títulos de las regulaciones y los documentos a que se refiere el artículo 77 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 81.
 
-Los sujetos obligados deberán someter las regulaciones que generen costos de cumplimiento, identificadas en el procedimiento a la (sic) que se refiere el artículo 71 de esta Ley, a una revisión cada cinco años ante la autoridad de mejora regulatoria correspondiente, utilizando para tal efecto el Análisis de Impacto Regulatorio ex post. Lo anterior, con el propósito de evaluar los efectos de su aplicación y permitir que los sujetos obligados determinen la pertinencia de su abrogación, modificación o permanencia, para alcanzar sus objetivos originales y atender a la problemática vigente.
+Los Sujetos Obligados deberán someter las regulaciones que generen costos de cumplimiento, identificadas en el procedimiento a la que se refiere el artículo 75 de esta Ley, a una revisión cada cinco años ante la autoridad de mejora regulatoria correspondiente, utilizando para tal efecto el Análisis de Impacto Regulatorio ex post. Lo anterior, con el propósito de evaluar los efectos de su aplicación y permitir que los Sujetos Obligados determinen la pertinencia de su abrogación, modificación o permanencia, para alcanzar sus objetivos originales y atender a la problemática vigente.
 
 Para el logro del mayor beneficio social de la regulación sujeta a revisión, la autoridad de mejora regulatoria correspondiente podrá proponer modificaciones al marco regulatorio vigente o acciones a los sujetos obligados correspondientes.
 
@@ -1594,3 +1954,23 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 019 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 455 DE MEJORAS (SIC) REGULATORIA PARA EL ESTADO DE GUERRERO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO. El Poder Ejecutivo del Estado, a través de la Secretaría de la Contraloría y Transparencia Gubernamental, emitirá en un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, las disposiciones reglamentarias necesarias para la implementación de las reformas establecidas en la Ley Número 455 de Mejora Regulatoria para el Estado de Guerrero y sus Municipios.
+
+TERCERO. Los municipios del estado de Guerrero deberán conformar sus Consejos Municipales de Mejora Regulatoria en un plazo no mayor a 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto. Estos Consejos deberán alinearse con las disposiciones establecidas en la Ley Número 455 reformada.
+
+CUARTO. El Nodo de Servicios, como herramienta tecnológica de interoperabilidad, deberá ser desarrollado e implementado por el Poder Ejecutivo del Estado en un plazo no mayor a 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto. Durante este período, se establecerán los protocolos y mecanismos necesarios para garantizar la seguridad y eficiencia en la gestión de los documentos electrónicos.
+
+QUINTO. Las disposiciones de la Ley General de Mejora Regulatoria se aplicarán de manera supletoria en lo que no esté previsto en la Ley Número 455 de Mejora Regulatoria para el Estado de Guerrero y sus Municipios, en un plazo inmediato a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La Secretaría de Finanzas del Estado de Guerrero dispondrá de los recursos necesarios para la implementación de las reformas establecidas en el presente Decreto, los cuales deberán estar contemplados en el presupuesto del ejercicio fiscal siguiente a la entrada en vigor de este Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
