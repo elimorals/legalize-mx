@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2024-12-06"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1699,19 +1699,17 @@ Incurre en igual delito y se le impondrá de tres a ocho años y seis meses de p
 
 Incurren en igual delito las partes en un juicio civil, cuando de común acuerdo alteren, destruyan o quiten, los sellos puestos por la autoridad y se les impondrán de treinta a doscientos días multa.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE FEBRERO DE 2025)</small>
+
 ### CAPITULO VI. ULTRAJES
 
 ###### Artículo 126.
 
-Se entiende por ultraje toda expresión directa o indirecta o toda acción ejecutada contra algún servidor público, estatal o municipal, o contra instituciones públicas, que pueda implicar ofensa o desprecio.
-
-> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2007)</small>
-
-Tratándose de elementos de cualquier corporación policíaca, se requerirá además para la integración del delito, que el ultraje sea en presencia de personas ajenas a las corporaciones.
+(DEROGADO, G.G. 14 DE FEBRERO DE 2025)
 
 ###### Artículo 127.
 
-A quien ejecute ultrajes contra instituciones públicas, se le impondrán de seis meses a dos años de prisión y de treinta a ciento cincuenta días multa. Si se cometieren en contra de un servidor público, se impondrán de seis meses a un año de prisión y de treinta a cien días multa.
+(DEROGADO, G.G. 14 DE FEBRERO DE 2025)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -7794,3 +7792,11 @@ G.G. 6 DE DICIEMBRE DE 2024.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89.- POR EL QUE SE DEROGA EL CAPÍTULO VI DEL SUBTÍTULO SEGUNDO DEL TÍTULO PRIMERO Y LOS ARTÍCULOS 126 Y 127 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
