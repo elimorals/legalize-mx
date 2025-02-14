@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2021-05-20"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE MAYO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -105,7 +103,9 @@ XVI. Informe de Presunta Responsabilidad Administrativa: El instrumento en el qu
 
 XVII. Ley: La Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo;
 
-XVIII. Magistrado: El titular o integrante del Tribunal de Justicia Administrativa;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XVIII. Magistrado: El titular o integrante del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo;
 
 XIX. Órganos Internos de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los Órganos del Estado;
 
@@ -117,7 +117,9 @@ XXII. Servidores Públicos: Los integrantes, funcionarios y empleados de los Ór
 
 XXIII. Sistema Estatal: El Sistema Estatal Anticorrupción; y,
 
-XXIV. Tribunal: El Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XXIV. Tribunal: El Tribunal en materia Anticorrupción y Administrativa (sic) Estado de Michoacán de Ocampo.
 
 ###### Artículo 4.
 
@@ -977,7 +979,9 @@ II. Que el acto u omisión fue corregido o subsanado de manera espontánea por e
 
 La Autoridad Investigadora o el denunciante, podrán impugnar la abstención, en los términos de lo dispuesto por esta Ley.
 
-### CAPÍTULO IV (SIC). IMPUGNACIÓN DE LA CALIFICACIÓN DE FALTAS NO GRAVES
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 14 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO III. IMPUGNACIÓN DE LA CALIFICACIÓN DE FALTAS NO GRAVES
 
 ###### Artículo 102.
 
@@ -993,19 +997,27 @@ El plazo para la presentación del recurso será de cinco días hábiles, contad
 
 El escrito de impugnación deberá presentarse ante la Autoridad Investigadora que hubiere hecho la calificación de la Falta Administrativa como no grave, debiendo expresar los motivos por los que se estime indebida dicha calificación.
 
-Interpuesto el recurso, la Autoridad Investigadora, dentro de un término de tres días hábiles deberá correr traslado, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, a la Sala Especializada en materia de responsabilidades Administrativas del Tribunal.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Interpuesto el recurso, la Autoridad Investigadora, dentro de un término de tres días hábiles deberá correr traslado, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, a la Sala que corresponda del Tribunal.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 105.
 
-En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, a la Sala Especializada en materia de responsabilidades Administrativas, requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
+En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, la Sala del Tribunal requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 106.
 
-En caso de que la Sala Especializada en materia de responsabilidades Administrativas del Tribunal tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en la presente Ley, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+En caso de que la Sala del Tribunal tenga por subsanadas las deficiencias o por aclarado el escrito por el que se interponga el recurso de inconformidad; o bien, cuando el escrito cumpla con los requisitos señalados en la presente Ley, admitirán dicho recurso y darán vista al presunto infractor para que en el término de cinco días hábiles manifieste lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 107.
 
-Una vez concluido el plazo de cinco días hábiles señalado en el artículo anterior, la Sala Especializada en materia de responsabilidades Administrativas del Tribunal, resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
+Una vez concluido el plazo de cinco días hábiles señalado en el artículo anterior, la Sala del Tribunal correspondiente, resolverá el recurso de inconformidad en un plazo no mayor a treinta días hábiles.
 
 ###### Artículo 108.
 
@@ -1860,3 +1872,13 @@ P.O. 13 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 548 POR EL QUE "SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 144.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS: 1, PÁRRAFO PRIMERO, 3, FRACCIONES XXV, XXXVII, XLIV, XLVII, LII, LIII, 144, 146, 147,150, FRACCIONES I Y III, 152, 154, 158, 160, 161, SEGUNDO PÁRRAFO, 163 A, 163 D, FRACCIÓN IV, 163 G, 283 PÁRRAFO SEGUNDO, 299, 305, FRACCIONES II Y III, 308, PÁRRAFO SEGUNDO, 309, 315, SEGUNDO PÁRRAFO, 316, PÁRRAFOS PRIMERO, CUARTO Y QUINTO, 317, SEGUNDO PÁRRAFO, 318, PÁRRAFO PRIMERO, SE DEROGA LA FRACCIÓN XXXVIII DEL ARTÍCULO 3, SE ADICIONA UN PÁRRAFO PRIMERO AL ARTÍCULO 297 P, RECORRIÉNDOSE EN SU ORDEN LOS SIGUIENTES PÁRRAFOS, Y SE MODIFICA LA DENOMINACIÓN DEL LIBRO CUARTO, TODOS DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS: 3, FRACCIONES XVIII Y XXIV, 104 PÁRRAFO SEGUNDO, 105, 106 Y 107, ASÍ COMO LA DENOMINACIÓN NUMÉRICA DEL CAPÍTULO TITULADO «IMPUGNACIÓN DE LA CALIFICACIÓN DE FALTAS NO GRAVES» DEL TÍTULO PRIMERO DEL LIBRO SEGUNDO, TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán (sic) Ocampo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, contará con un término de noventa días hábiles para emitir su Reglamento Interior y aplicar los nuevos procedimientos marcados en la presente reforma, así como para realizar las adecuaciones normativas internas que correspondan.
+
+TERCERO. Todas las referencias normativas correspondientes al Tribunal de Justicia Administrativa del Estado de Michoacán, se entenderán referidas al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán.
