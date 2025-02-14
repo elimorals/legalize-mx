@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2023-07-06"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -43,11 +43,13 @@ CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
 ### Capítulo Primero. Objeto y Competencia
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 1.
 
-Las disposiciones del presente Código son de orden público e interés general y tienen por objeto regular los actos u omisiones de naturaleza administrativa y fiscal entre el particular y las dependencias, coordinaciones, entidades y organismos públicos desconcentrados del Poder Ejecutivo, la Auditoría Superior de Michoacán, los Organismos Públicos Autónomos y como bases normativas para los gobiernos municipales y las dependencias, entidades y organismos públicos descentralizados o desconcentrados de la Administración Pública, Estatales o Municipales y los particulares. Así como garantizar el acceso a la justicia administrativa en el Estado de Michoacán, la cual se impartirá por el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+Las disposiciones del presente Código son de orden público e interés general y tienen por objeto regular los actos u omisiones de naturaleza administrativa y fiscal entre el particular y las dependencias, coordinaciones, entidades y organismos públicos desconcentrados del Poder Ejecutivo, la Auditoría Superior de Michoacán, los Organismos Públicos Autonomos y como bases normativas para los gobiernos municipales y las dependencias, entidades y organismos públicos descentralizados o desconcentrados de la Administración Pública, Estatales o Municipales y los particulares. Así como garantizar el acceso a la justicia administrativa en el Estado de Michoacán, la cual se impartira por el Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
 Además de los procedimientos en materia de responsabilidades administrativas contra los servidores públicos de la administración, para imponer las sanciones por los actos u omisiones en que éstos incurran y las que correspondan a los particulares.
 
@@ -161,9 +163,9 @@ XXIII. Expediente Electrónico: Conjunto de información contenida en archivos e
 
 XXIV. Faltas administrativas: Las faltas administrativas graves, las faltas administrativas no graves; así como las faltas de particulares, conforme a lo dispuesto en este Código;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XXV. Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos del presente Código, cuya sanción corresponde al Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+XXV. Falta administrativa grave: Las faltas administrativas de los Servidores Puíblicos (sic) catalogadas como graves en los términos del presente Código, cuya sanción corresponde al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo;
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -213,13 +215,11 @@ XXXV. Ley de Responsabilidades: La Ley de Responsabilidades Administrativas para
 
 XXXVI. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XXXVII. Magistrado: Servidor público integrante del Tribunal de Justicia Administrativa;
+XXXVII. Magistrado: Servidor público integrante del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
-
-XXXVIII. Magistrado Especializado: Servidor público especializado en anticorrupción y responsabilidades administrativas del Tribunal de Justicia Administrativa;
+XXXVIII. (DEROGADA, P.O. 14 DE FEBRERO DE 2025)
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -241,9 +241,9 @@ XLII. Órganos constitucionales autónomos: Organismos a los que la Constitució
 
 XLIII. Órganos del Estado: Poderes Ejecutivo, Legislativo y Judicial, Órganos Constitucionales Autónomos y Gobiernos Municipales, incluyendo en estos últimos y en el Poder Ejecutivo a su administración pública centralizada, paraestatal, desconcentrada y de participación general y todos aquellos en que cualquier autoridad directa o indirectamente intervenga, independiente de la denominación que se les otorgue;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XLIV. Presidente: El Presidente del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+XLIV. Presidente: El Presidente del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo;
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -253,9 +253,9 @@ XLV. Procedimiento de Lesividad: El procedimiento incoado por las autoridades ad
 
 XLVI. Registro: El Registro Estatal de Trámites y Servicios del Estado de Michoacán de Ocampo;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XLVII. Reglamento Interior: El Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+XLVII. Reglamento Interior: El Reglamento Interior del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo;
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -273,13 +273,13 @@ L. Secretaría: La Secretaría de Finanzas y Administración;
 
 LI. Sistema Estatal Anticorrupción: La instancia de coordinación entre las autoridades del Estado de Michoacán de Ocampo, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-LII. SIT: Sistema Informático del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo;
+LII. SIT: Sistema Informático del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-LIII. Tribunal: El Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo; y,
+LIII. Tribunal: El Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo; y,
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1303,7 +1303,9 @@ En contra de la resolución que resuelva el recurso de revisión interpuesto, pr
 
 (DEROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, P.O. 19 DE FEBRERO DE 2018)
 
-# Libro Cuarto. Tribunal de Justicia Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2025)</small>
+
+# Libro Cuarto. Tribunal en Materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo
 
 ### Capítulo Primero. Integración
 
@@ -1313,11 +1315,11 @@ En contra de la resolución que resuelva el recurso de revisión interpuesto, pr
 
 El Tribunal es un órgano autónomo de control de legalidad, dotado de plena jurisdicción e imperio para hacer cumplir sus resoluciones en el territorio del Estado. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades administrativas y fiscales y los particulares. Tendrá su residencia en la capital del Estado, y por acuerdo del Pleno, podrá celebrar sesiones fuera de su residencia.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 144.
 
-El Tribunal estará integrado por cinco magistrados los cuales se numerarán y funcionarán unitariamente. Tres lo serán de la materia administrativa ordinaria; y, dos especializados en la materia de anticorrupción y responsabilidades administrativas; así como por jueces administrativos que designe el Pleno.
+El Tribunal estará integrado por cinco magistrados, los cuales se numerarán y funcionarán unitariamente. Los que tendrán competencia en materias de anticorrupción, responsabilidades administrativas y en materia administrativa ordinaria; así como por jueces administrativos que designe el Pleno.
 
 ###### Artículo 145.
 
@@ -1339,17 +1341,17 @@ VI. Defensores Jurídicos; y,
 
 VII. El personal que requiera para su funcionamiento.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 146.
 
-Para el nombramiento y reelección de los magistrados, el Congreso expedirá convocatoria pública registrando a los aspirantes al cargo de los cuales integraraì (sic) una terna por cada vacante, que será sometida a votación en el Pleno. Seraì (sic) electo Magistrado quien obtenga el voto de las dos terceras partes de los diputados presentes.
+Para el nombramiento de los magistrados, el Congreso expedirá la convocatoria pública correspondiente observando el principio de paridad de género, registrando a los aspirantes al cargo de los cuales integrará una terna por cada vacante, que será sometida a votación en el Pleno. Será electo magistrado quien obtenga el voto de las dos terceras partes de los diputados presentes.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 147.
 
-El Magistrado duraraì (sic) en su encargo cinco años y podrá ser reelecto hasta en dos ocasiones. Al término de su período, cesaraì (sic) en sus funciones y quedaraì (sic) separado de su encargo. El Congreso, dentro de los noventa días naturales anteriores a la fecha en que concluya el periodo del Magistrado o Magistrada en funciones, emitirá la convocatoria pública correspondiente observando el principio de paridad de género. De no hacerse en tiempo y forma el nombramiento, se procederá a cubrir la falta de Magistrado en los términos de este Código.
+Las magistradas o magistrados tendrán un periodo constitucional de nueve años en el ejercicio del cargo y podrán ser reelectos por una única ocasión. Al término de su periodo cesarán en sus funciones. De no hacerse en tiempo y forma el nombramiento correspondiente, se procederá a cubrir la falta de magistrado en los términos de este Código.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
@@ -1367,19 +1369,25 @@ Las faltas temporales de los magistrados que no excedan de un mes, serán cubier
 
 Es causa de retiro forzoso para el Magistrado cuando:
 
-I. Cumpla setenta años de edad;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+I. Cumpla sesenta y cinco años de edad.
 
 II. Padezca incapacidad física o mental permanente para el desempeño de su encargo; o,
 
-III. Cumpla quince años de servicio en el cargo.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+III. Cumpla el periodo correspondiente para el que fue designado.
 
 ###### Artículo 151.
 
 El Magistrado cuyo retiro forzoso haya sido acordado por el Congreso, tendrá derecho a recibir un haber por retiro constituido por tres meses de la percepción íntegra, veinte días por año laborado, o su parte proporcional y el monto de la aportación voluntaria que no podrá exceder del cuatro por ciento de sus percepciones y el Tribunal aportará una cantidad igual.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 152.
 
-Cuando las faltas de los magistrados excedan del plazo señalado en este Código, se comunicarán de inmediato al Congreso, para que proceda a la designación del Magistrado que concluya el periodo.
+Cuando las faltas de los magistrados excedan del plazo señalado en este Código, se comunicarán de inmediato al Congreso, para que proceda a la designación del magistrado que concluya el periodo. Las faltas temporales o definitivas de magistrados, serán cubiertas por quien ocupe la titularidad de la Secretaría General de Acuerdos del Tribunal, hasta en tanto el Congreso del Estado, designe conforme al procedimiento determinado en este Código al magistrado correspondiente.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
@@ -1389,11 +1397,11 @@ Los magistrados, jueces administrativos, el Secretario General de Acuerdos, Prim
 
 ### Capítulo Segundo. Competencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 154.
 
-El Tribunal será competente para conocer y resolver en forma definitiva de las controversias que en juicio se promuevan en contra de los actos o resoluciones definitivos, dictados, ordenados, ejecutados o que se pretenda ejecutar, según corresponda, por el Poder Ejecutivo, de los actos materialmente administrativos de los poderes legislativo y judicial; de la Auditoría Superior de Michoacán, por los gobiernos municipales, por los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales, partidos políticos, fideicomisos y fondos públicos así como de cualquier persona física o jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad; será además competente para determinación e imposición de sanciones, salvo las excepciones marcadas en la Ley:
+El Tribunal será competente para conocer y resolver en forma definitiva de las controversias que en juicio se promuevan en contra de los actos o resoluciones definitivos, dictados, ordenados, ejecutados o que se pretenda ejecutar, según corresponda, por el Poder Ejecutivo, de los actos materialmente administrativos del Poder Legislativo; de la Auditoría Superior de Michoacán, por los gobiernos municipales, por los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales, partidos políticos, fideicomisos y fondos públicos así como de cualquier persona física o jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad; será además competente para determinación e imposición de sanciones, salvo las excepciones marcadas en la Ley:
 
 I. Que determinen la existencia de una obligación fiscal, la fijen en cantidad líquida o den las bases para su liquidación;
 
@@ -1435,6 +1443,10 @@ b) La resolución a un recurso administrativo o de revisión que lo declare por 
 
 XIV. De las Responsabilidades Administrativas de los Servidores Públicos, particulares, personas físicas o jurídicas vinculados con faltas graves promovidas por la Secretaría de la Contraloría y los Órganos Internos de control de los Órganos del Estado, o por la Auditoría Superior de Michoacán, para la imposición de sanciones en términos de lo dispuesto por la Ley de Responsabilidades Administrativas. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal y Municipal o al Patrimonio de los Órganos del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2025)</small>
+
+Lo anterior no será aplicable a los servidores públicos que formen parte del Poder Judicial del Estado, quienes se regirán en términos de su propio Tribunal de Disciplina Judicial.
+
 ###### Artículo 155.
 
 Además, tendrá competencia para:
@@ -1463,9 +1475,11 @@ Cuando los actos de las autoridades administrativas estatales o municipales, sea
 
 El Pleno se integrará por cinco magistrados los cuales no podrán abstenerse de votar y sus resoluciones se tomarán por mayoría de votos, para la validez de las sesiones se requerirá de la presencia de cuando menos tres magistrados.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 158.
 
-Las sesiones de la Sala se celebrarán a convocatoria de su Presidente, debiendo efectuarse no menos de dos al mes.
+Las sesiones del Pleno se celebrarán a convocatoria de su presidente, debiendo efectuarse no menos de dos al mes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE OCTUBRE DE 2018)</small>
 
@@ -1515,11 +1529,11 @@ XVI. Las demás que señalen las leyes.
 
 ### Capítulo Cuarto. Presidente
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 160.
 
-El Presidente será electo por el Pleno en la segunda semana de diciembre del año en que concluya el periodo del Presidente en funciones. Durará en su cargo dos años y no podrá ser reelecto para el periodo inmediato.
+El presidente será electo por el Pleno en la primera semana de diciembre del año en que concluya el periodo del presidente en funciones. Durará en su cargo dos años y de cumplir el periodo de dos años, no podrá ser reelecto para el periodo inmediato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1527,7 +1541,9 @@ El Presidente será electo por el Pleno en la segunda semana de diciembre del a�
 
 Las faltas temporales del Presidente, que no excedan de quince días, serán suplidas, por el Magistrado que acuerde el Pleno. Las ausencias temporales de los magistrados en las sesiones del Pleno serán suplidas por el Secretario General de Acuerdos.
 
-Cuando la falta sea definitiva, además de seguir el procedimiento señalado en el párrafo anterior, deberá de inmediato informarse al Congreso.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Cuando la falta sea definitiva, además de seguir el procedimiento señalado en el artículo 152 de este Código, deberá comunicarse de inmediato al Congreso.
 
 ###### Artículo 162.
 
@@ -1615,9 +1631,9 @@ VIII. Las demás que señalen las leyes.
 
 ### Capítulo Quinto Bis. Jueces Administrativos
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-Artículo 163 A. Los jueces administrativos son competentes para conocer y resolver los juicios de nulidad, lesividad, y trámite sobre notificación administrativa, que no sean de la competencia de los magistrados especializados, conforme a la competencia del Tribunal prevista por este Código.
+Artículo 163 A. Los jueces administrativos son competentes para conocer y resolver los juicios de nulidad, lesividad, y trámite sobre notificación administrativa, que no comprendan la competencia o resolución de faltas administrativas graves, de la competencia de los magistrados, conforme a la competencia del Tribunal prevista por este Código.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
@@ -1665,7 +1681,9 @@ II. Tener treinta años cumplidos al día de la designación;
 
 III. Tener el día de la designación, título profesional de licenciado en derecho expedido por la autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años;
 
-IV. Haber sido Secretario General de Acuerdos, o Secretario de Estudio y Cuenta, o Secretario de Acuerdos, o Coordinador de Áreas, o Defensor del Tribunal de Justicia Administrativa del Estado, con antigüedad mínima de cinco años, en cualquiera de dichos cargos;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+IV. Haber fungido como servidor público en cualquier área jurisdiccional del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, con al menos una antigüedad de dos años.
 
 V. Contar con experiencia en materia administrativa de al menos cinco años; y,
 
@@ -1687,9 +1705,9 @@ III. Las sanciones que en su caso se le hubieren impuesto: y,
 
 IV. Los demás que el Pleno estime pertinentes.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-Artículo 163 G. El Primer Secretario asistirá al Magistrado Presidente durante su encargo, ejerciendo en su ausencia, las facultades jurisdiccionales previstas en este Código.
+Artículo 163 G. El primer secretario asistirá al magistrado presidente durante su encargo. Además, podrá sustituir al secretario general de acuerdos en las sesiones del Pleno, cuando este así lo determine.
 
 ### Capítulo Sexto. Servidores Públicos del Tribunal
 
@@ -2823,7 +2841,9 @@ Las resoluciones causan ejecutoria por ministerio de ley.
 
 Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de cien a cinco mil veces el valor diario de la unidad de medida y actualización. Independientemente de esta sanción, se comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
 
-Si no obstante los requerimientos y sanciones anteriores, no se da cumplimento a la sentencia, el Pleno del Tribunal de Justicia Administrativa, a petición de parte, podrá decretar la destitución del servidor público responsable del incumplimiento. Excepto de aquellos que hayan sido electos por votación popular; en este último caso se dará inicio a los procedimientos constitucionales de separación del cargo.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Si no obstante los requerimientos y sanciones anteriores, no se da cumplimento a la sentencia, el Pleno del Tribunal, a petición de parte, podrá decretar la destitución del servidor público responsable del incumplimiento. Excepto de aquellos que hayan sido electos por votación popular; en este último caso se dará inicio a los procedimientos constitucionales de separación del cargo.
 
 Las medidas mencionadas en este capítulo también serán aplicables cuando no se cumplimente en sus términos la suspensión que se hubiere decretado respecto del acto reclamado. En este caso, cuando la violación no esté debidamente acreditada en autos, el Pleno requerirá a la autoridad correspondiente para que rinda un informe al respecto dentro de las veinticuatro horas siguientes. Si no lo rindiere se tendrá por acreditada la violación, procediendo a la aplicación de las sanciones correspondientes y ordenando nuevamente su cumplimiento dentro de las veinticuatro horas siguientes. Los actos o procedimientos que hubieren motivado la violación a la suspensión, se declararán sin efectos jurídicos por el Pleno.
 
@@ -3077,11 +3097,19 @@ Artículo 297 O. Las autoridades cuyos actos sean susceptibles de impugnarse ant
 
 En el caso de que las autoridades demandadas no cumplan con esta obligación, todas las notificaciones que deben hacerse, incluyendo el emplazamiento, se harán por lista, hasta que se cumpla con dicha formalidad.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Artículo 297 P. Los recursos de reconsideración y apelación en contra de autos, resoluciones y sentencias dictadas en el juicio en línea, podrán promoverse, substanciarse y resolverse en la misma vía, a través del SIT o bien, por la vía tradicional.
+
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
-Artículo 297 P. Para la presentación y trámite de los recursos de apelación y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
+Para la presentación y trámite de los juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
 
-El Secretario General de Acuerdos del Tribunal, Secretarios de Estudio y Cuenta, Secretarios de Acuerdos según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos al Magistrado, los Juzgados de Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+El secretario general de acuerdos del Tribunal, secretarios de estudio y cuenta, secretarios de acuerdos según corresponda, deberán imprimir el archivo del expediente electrónico y certificar las constancias del expediente electrónico del juicio administrativo, recursos de apelación o de reconsideración, según corresponda, que deban ser remitidos a los Juzgados de Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios tramitados en la plataforma del Juicio en Línea.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite el Juzgado de Distrito o el Tribunal Colegiado, se podrá remitir la información a través de medios electrónicos.
 
@@ -3117,11 +3145,11 @@ IV. Las resoluciones que pongan fin al procedimiento de ejecución de sentencia;
 
 V. Las determinaciones que impongan los medios de apremio y medidas disciplinarias previstas en este Código.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 299.
 
-El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los tres días hábiles siguientes al que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el Tribunal y se turnará para su trámite al Magistrado Especializado distinto del instructor y tratándose de resoluciones emitidas por los jueces administrativos, se turnará para su trámite y resolución a un Magistrado de Sala Administrativa Ordinaria.
+El recurso de reconsideración podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de los tres días hábiles siguientes al que surta efectos la notificación de la resolución o sentencia que se impugne. El recurso se presentará ante el Tribunal y se turnará para su trámite al magistrado distinto del instructor y tratándose de resoluciones emitidas por los jueces administrativos se turnará para su trámite y resolución al magistrado que por razón de turno corresponda.
 
 ###### Artículo 300.
 
@@ -3167,9 +3195,13 @@ En los asuntos relacionados con faltas administrativas graves o faltas de partic
 
 I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la Audiencia Inicial, la Autoridad substanciadora deberá, bajo su responsabilidad, enviar a este Tribunal los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio de este Tribunal encargado de la resolución del asunto;
 
-II. Cuando el magistrado Especializado reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el Informe de Presunta Responsabilidad Administrativa sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la Autoridad Substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el artículo anterior;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-III. De igual forma, de advertir el Magistrado especializado que los hechos descritos por la Autoridad Investigadora en el Informe de Presunta Responsabilidad Administrativa corresponden a la descripción de una falta grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles;
+II. Cuando el magistrado del Tribunal reciba el expediente, bajo su más estricta responsabilidad, deberá verificar que la falta descrita en el informe de presunta responsabilidad administrativa sea de las consideradas como graves. En caso de no serlo, fundando y motivando debidamente su resolución, enviará el expediente respectivo a la Autoridad Substanciadora que corresponda para que continúe el procedimiento en términos de lo dispuesto en el artículo anterior;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+III. De igual forma, de advertir el magistrado del Tribunal que los hechos descritos por la Autoridad Investigadora en el informe de presunta responsabilidad administrativa corresponden a la descripción de una falta grave diversa, le ordenará a ésta realice la reclasificación que corresponda, pudiendo señalar las directrices que considere pertinentes para su debida presentación, para lo cual le concederá un plazo de tres días hábiles;
 
 IV. En caso de que la Autoridad Investigadora se niegue a hacer la reclasificación, bajo su más estricta responsabilidad así lo hará saber a este Tribunal fundando y motivando su proceder. En este caso, el Tribunal continuará con el procedimiento de responsabilidad administrativa;
 
@@ -3207,13 +3239,15 @@ El plazo para la presentación del recurso de inconformidad será de cinco días
 
 El recurso de inconformidad deberá presentarse ante la autoridad investigadora que hubiere hecho la calificación de la falta administrativa como no grave, debiendo expresar los motivos por los que se estime indebida dicha calificación.
 
-Interpuesto el recurso, la autoridad investigadora deberá remitirlo al Tribunal, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, del recurso de inconformidad conocerá alguna de las dos salas especializadas del Tribunal a la que por turno le corresponda.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+Interpuesto el recurso, la autoridad investigadora deberá remitirlo al Tribunal, adjuntando el expediente integrado y un informe en el que justifique la calificación impugnada, del recurso de inconformidad conocerá alguna de las Salas del Tribunal a la que por turno le corresponda.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 309.
 
-En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, el Magistrado Especializado a quien por razón del turno le haya correspondido conocer requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
+En caso de que el escrito por el que se interponga el recurso de inconformidad fuera obscuro o irregular, el magistrado a quien por razón del turno le haya correspondido conocer requerirá al promovente para que subsane las deficiencias o realice las aclaraciones que corresponda, para lo cual le concederán un término de cinco días hábiles. De no subsanar las deficiencias o aclaraciones en el plazo antes señalado el recurso se tendrá por no presentado.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -3265,23 +3299,29 @@ II. Dejar sin efectos la calificación o abstención, para lo cual el Tribunal e
 
 ### Capítulo Décimo Noveno. Apelación
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 315.
 
-Procederá el recurso de apelación contra las resoluciones de los magistrados especializados en materia de anticorrupción y responsabilidades administrativas, siguientes:
+Procederá el recurso de apelación contra las resoluciones de los magistrados del Tribunal en la materia de anticorrupción y responsabilidades administrativas, siguientes:
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
 
 I. La que determine imponer sanciones por la comisión de faltas administrativas graves o faltas de particulares; y,
 
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2018)</small>
+
 II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
 
-Contra las sentencias definitivas dictadas por los jueces administrativos.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
+Contra las sentencias definitivas dictadas por los jueces administrativos, así como las que deriven del juicio en la modalidad en línea, mismo que se podrá interponer por la misma modalidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 316.
 
-El recurso de apelación se promoverá mediante escrito ante el Juez Administrativo o Magistrado que haya emitido sentencia, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se impugna.
+El recurso de apelación se promoverá mediante escrito presentado ante el Juez Administrativo en modalidad tradicional o en línea, o ante el magistrado en la materia de anticorrupción y responsabilidades administrativas que haya emitido sentencia, dentro de los quince días hábiles siguientes a aquél en que surta sus efectos la notificación de la resolución que se impugna.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -3291,13 +3331,13 @@ En el escrito deberán formularse los agravios que consideren las partes se les 
 
 El escrito que contenga el recurso de apelación deberá ser remitido junto con el expediente al Magistrado en un plazo de cinco días hábiles.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-Tratándose de apelación contra sentencias definitivas de los jueces administrativos, se turnará para su trámite al Magistrado de Sala Administrativa Ordinaria que por turno corresponda.
+Tratándose de apelación contra sentencias definitivas de los jueces administrativos, se turnará para su trámite al magistrado de Sala que por turno corresponda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-La apelación contra sentencias de Magistrado Especializado se turnará al Magistrado de la materia, distinto del instructor, para su trámite y será resuelta por el Pleno.
+La apelación contra sentencias en la materia de Anticorrupción y Responsabilidades Administrativas se turnarán a magistrado, distinto del instructor, para su trámite y será resuelta por el Pleno.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2018)</small>
 
@@ -3305,15 +3345,17 @@ La apelación contra sentencias de Magistrado Especializado se turnará al Magis
 
 Una vez recibido el expediente de apelación por el Magistrado, éste deberá resolver en el plazo de tres días hábiles si admite el recurso, o lo desecha por encontrar motivo manifiesto e indudable de improcedencia. Si hubiera irregularidades en el escrito del recurso por no haber satisfecho los requisitos de procedencia, se apercibirá al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
 
-Admitido que fuere el recurso, el Magistrado dará vista a las partes para que en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido dicho término, el Magistrado Especializado formulará el proyecto y dará cuenta del mismo al Pleno en un plazo no mayor a sesenta días hábiles; y tratándose de apelación contra sentencias dictadas por jueces administrativos, el Magistrado de Sala Administrativa Ordinaria, en un plazo no mayor a treinta días hábiles dictará la resolución correspondiente de forma unitaria.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Admitido que fuere el recurso, el magistrado dará vista a las partes para que en el término de tres días hábiles, manifiesten lo que a su derecho convenga; vencido dicho término, el magistrado formulará el proyecto y dará cuenta del mismo al Pleno en un plazo no mayor a sesenta días hábiles; y tratándose de apelación contra sentencias dictadas por jueces administrativos, en un plazo no mayor a treinta días hábiles dictará la resolución correspondiente de forma unitaria.
 
 La resolución que se emita podrá confirmar, modificar o revocar la sentencia recurrida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 318.
 
-El Pleno o el Magistrado de Sala Administrativa Ordinaria, según corresponda, procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la no responsabilidad del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la Autoridad Investigadora, las violaciones de forma hayan impedido conocer con certeza la responsabilidad de los involucrados.
+El Pleno o el magistrado que corresponda, procederá al estudio de los conceptos de apelación, atendiendo a su prelación lógica. En todos los casos, se privilegiará el estudio de los conceptos de apelación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden dé la certeza de la no responsabilidad del servidor público o del particular, o de ambos; o que en el caso de que el recurrente sea la Autoridad Investigadora, las violaciones de forma hayan impedido conocer con certeza la responsabilidad de los involucrados.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -3550,3 +3592,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se abroga el Acuerdo Legislativo número 30, de fecha 18 de noviembre de 2021 del Congreso del Estado de Michoacán de Ocampo, y queda sin efectos la Convocatoria contenida en el mismo. El Congreso del Estado, a través de las Comisiones Unidas de Justicia y Gobernación, emitirá convocatoria, incluyendo los términos de la presente reforma para elegir y en su caso reelegir magistrada titular de la Tercera Sala Administrativa Ordinaria del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo. Las aspirantes que se hayan registrado en los términos de la convocatoria contenida en el Acuerdo Legislativo número 30 que se abroga mediante el presente Decreto, y que decidan participar en la nueva convocatoria, podrán ratificar por escrito su intención así como la información previamente presentada, misma que podrá ser complementada en caso de que así lo consideren. Dicho escrito será suficiente para adquirir el carácter de aspirante registrada.
 
 TERCERO. La persona que ostentaba la titularidad de la Tercera Sala Administrativa Ordinaria del Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, tendrá derecho a participar en la convocatoria que se expedirá conforme lo dispuesto en el transitorio segundo del presente Decreto para, en su caso, ser reelecta como Magistrada. Notifíquese.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 144 POR EL QUE "SE REFORMAN LOS ARTÍCULOS: 1, PÁRRAFO PRIMERO, 3, FRACCIONES XXV, XXXVII, XLIV, XLVII, LII, LIII, 144, 146, 147,150, FRACCIONES I Y III, 152, 154, 158, 160, 161, SEGUNDO PÁRRAFO, 163 A, 163 D, FRACCIÓN IV, 163 G, 283 PÁRRAFO SEGUNDO, 299, 305, FRACCIONES II Y III, 308, PÁRRAFO SEGUNDO, 309, 315, SEGUNDO PÁRRAFO, 316, PÁRRAFOS PRIMERO, CUARTO Y QUINTO, 317, SEGUNDO PÁRRAFO, 318, PÁRRAFO PRIMERO, SE DEROGA LA FRACCIÓN XXXVIII DEL ARTÍCULO 3, SE ADICIONA UN PÁRRAFO PRIMERO AL ARTÍCULO 297 P, RECORRIÉNDOSE EN SU ORDEN LOS SIGUIENTES PÁRRAFOS, Y SE MODIFICA LA DENOMINACIÓN DEL LIBRO CUARTO, TODOS DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán (sic) Ocampo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán de Ocampo, contará con un término de noventa días hábiles para emitir su Reglamento Interior y aplicar los nuevos procedimientos marcados en la presente reforma, así como para realizar las adecuaciones normativas internas que correspondan.
+
+TERCERO. Todas las referencias normativas correspondientes al Tribunal de Justicia Administrativa del Estado de Michoacán, se entenderán referidas al Tribunal en materia Anticorrupción y Administrativa del Estado de Michoacán.
