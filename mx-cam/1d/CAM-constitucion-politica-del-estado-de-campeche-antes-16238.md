@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-12-18"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -98,6 +98,10 @@ La educación es un derecho humano. Este derecho incluye la facultad de recibir 
 (ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado promoverá y garantizará el respeto de este derecho.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Queda prohibido el maltrato a los animales. El Estado debe garantizar la protección, el trato adecuado, la conservación y el cuidado de los animales, en los términos que señalen las leyes respectivas.
 
 (ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
 
@@ -3592,3 +3596,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Estatal deberá realizar todas las acciones que correspondan para garantizar el efectivo cumplimiento de lo dispuesto en el presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 61 POR EL QUE “SE ADICIONA UN PÁRRAFO SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, AL ARTÍCULO 6o. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
