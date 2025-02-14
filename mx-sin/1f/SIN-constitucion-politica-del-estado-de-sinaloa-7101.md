@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2024-09-27"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -47,7 +47,13 @@ QUE REFORMA LA DE 25 DE AGOSTO DE 1917.
 
 El Estado de Sinaloa, como parte integrante de los Estados Unidos Mexicanos, se constituye en un Estado democrático de derecho, cuyo fundamento y objetivo último es la protección de la dignidad humana y de los derechos humanos.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+###### Art. 2°.
+
+En lo que atañe a su régimen interior la soberanía del Estado reside esencial y originariamente en el pueblo sinaloense, el cual propugna como valores superiores de su orden jurídico y social, la libertad, la igualdad sustantiva, la justicia, la solidaridad, el pluralismo político y la diversidad cultural.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### Art. 4º.
 
@@ -137,11 +143,19 @@ III. Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bi
 
 La Ley determinará las medidas que deberán llevar a cabo las autoridades para protegerlo, preservarlo, restaurarlo y mejorarlo.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2025)</small>
 
-IV. Los habitantes en el Estado tienen el derecho a disfrutar una vida libre de violencia. La ley establecerá las bases de la actuación de las autoridades para prevenirla y atender a las personas que sufran de ella, así como generar una cultura que permita eliminar las causas y patrones que la generan, poniendo especial atención en la erradicación de la violencia intrafamiliar. De igual manera deberá garantizarse a las mujeres el ejercicio de sus derechos políticos y electorales libre de violencia política, en los términos que establezcan las leyes.
+IV. Las y los habitantes en el Estado tienen el derecho a disfrutar una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La ley establecerá las bases de la actuación de las autoridades para prevenir las violencias y atender a las personas que sufran de ella, así como generar una cultura que permita eliminar las causas y patrones que la generan, poniendo especial atención en la erradicación de la violencia familiar.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+De igual manera deberá garantizarse a las mujeres el ejercicio de sus derechos políticos y electorales libre de violencia política, en los términos que establezcan las leyes.
 
 El Estado adoptará las medidas necesarias para prevenir, sancionar y erradicar la violencia contra la mujer, entendida como cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento físico, sexual, psicológico, o que vulnere el ejercicio de sus derechos políticos, tanto en el ámbito público como en el privado.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Todas las autoridades quedarán vinculadas a cumplir con los derechos humanos y garantizarán el goce y ejercicio en específico de la igualdad sustantiva y la perspectiva de género.
 
 V. (DEROGADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)
 
@@ -159,9 +173,9 @@ El Estado apoyará la investigación e innovación científica, humanística y t
 
 VII. El Estado adoptará las medidas necesarias con el fin de que toda persona practique deporte y goce de la recreación, para lo cual promoverá la cultura física y creará oportunidades que permitan presenciar, organizar y participar en dichas actividades. Asimismo, habilitará y conservará espacios e instalaciones adecuados para tal efecto.
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VIII. Las autoridades en el Estado adoptarán, permanentemente, las medidas especiales y de cualquier otra índole legal, con el objeto de lograr entre mujeres y hombres la igualdad, perspectiva y paridad de género en las políticas públicas institucionales que les competan.
+VIII. Las autoridades en el Estado adoptarán, permanentemente, las medidas especiales y de cualquier otra índole legal, con el objeto de lograr entre mujeres y hombres la igualdad sustantiva, perspectiva y paridad de género en las políticas públicas institucionales que les competan.
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -333,11 +347,11 @@ VIII. En los demás casos que las leyes determinen.
 
 Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Art. 13.
 
-La mujer y el hombre son iguales ante la ley. La familia constituye la base fundamental de la sociedad. Los niños y las niñas deberán ser objeto de especial protección. Las personas de la tercera edad y los discapacitados deben recibir apoyo permanente. Toda medida o disposición en favor de la familia y de la niñez, se considerará de orden público.
+La mujer y el hombre son iguales ante la ley. Las familias constituyen la base fundamental de la sociedad. Los niños y las niñas deberán ser objeto de especial protección. Las personas adultas mayores y las personas con discapacidad deben recibir apoyo permanente. Toda medida o disposición en favor de las familias y de la niñez, se considerará de orden público. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2001)</small>
 
@@ -351,9 +365,9 @@ Todos los niños y las niñas, nacidos de matrimonio o fuera de él, tienen dere
 
 Los ascendientes, tutores y custodios tienen el deber de garantizar los derechos señalados en el párrafo anterior a fin de que lleven una vida digna en el seno de la familia. El Estado les otorgará facilidades a aquellos para que cumplan con lo señalado en este párrafo.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-Los gobiernos estatal y municipales establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo.
+Los gobiernos estatal y municipales establecerán un sistema permanente de apoyo a las personas adultas mayores para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de las personas con discapacidad con el objeto de facilitar su pleno desarrollo.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -1445,9 +1459,9 @@ Son facultades y obligaciones del Gobernador Constitucional del Estado, las sigu
 
 I. Sancionar, promulgar, reglamentar y ejecutar las leyes y decretos que expida el Congreso del Estado proveyendo en la esfera administrativa a su exacta observancia, así como expedir los reglamentos autónomos que la Constitución General de la República y esta Constitución le autoricen o faculten.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como concederles licencias y admitirles sus renuncias.
+II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, observando el principio de paridad de género, así como concederles licencias y admitirles sus renuncias.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -1637,13 +1651,17 @@ Desempeñará su encargo por períodos de seis años y podrá ser reelecta por u
 
 La seguridad pública es una función a cargo del Estado y los Municipios, en las respectivas competencias que esta Constitución les señala.
 
-La seguridad pública tiene como fines salvaguardar la integridad, bienes y derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+La seguridad pública tiene como fines salvaguardar la integridad, bienes y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, de acuerdo con lo dispuesto en el artículo 13 de esta constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 Las autoridades competentes alcanzarán los fines de la seguridad pública mediante la prevención, persecución y sanción de las infracciones y delitos, así como a través de la reinserción social de los delincuentes y el tratamiento de menores infractores.
 
-Las instituciones encargadas de la seguridad pública regirán su actuación por los principios de legalidad, protección social, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Las instituciones encargadas de la seguridad pública regirán su actuación por los principios de legalidad, protección social, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos.
 
 La aplicación de las sanciones por las infracciones a los reglamentos gubernativos y a los bandos de policía y buen gobierno, estará a cargo de las autoridades administrativas.
 
@@ -1685,7 +1703,9 @@ La Ley precisará los requisitos para ser titular e integrante de los centros e 
 
 El Ministerio Público, como representante de la sociedad en Sinaloa, se organiza en una Fiscalía General del Estado.
 
-Como órgano público autónomo, dotado de personalidad jurídica, de patrimonio propio y capacidad para decidir para el ejercicio de su presupuesto, promotor, respetuoso, protector y garante de los derechos humanos, se regirá en su actuación por los principios de constitucionalidad, debido proceso, buena fe, autonomía, legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto de la dignidad humana.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Como órgano público autónomo, dotado de personalidad jurídica, de patrimonio propio y capacidad para decidir para el ejercicio de su presupuesto, promotor, respetuoso, protector y garante de los derechos humanos, se regirá en su actuación por los principios de constitucionalidad, debido proceso, buena fe, autonomía, legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto de la dignidad humana.
 
 Las bases de la Fiscalía General del Estado, son:
 
@@ -1739,9 +1759,9 @@ El Fiscal General del Estado, los vicefiscales general, especializados y/o regio
 
 Durante el ejercicio de su cargo, el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre y/o remunerado de su profesión, salvo las actividades docentes, científicas, culturales, de investigación o beneficencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
-Art. 76 Bis A. La Fiscalía General del Estado contará con las Fiscalías Especializadas en Combate a la Corrupción, en Desaparición Forzada de Personas, en Materia de Tortura y en Atención de Delitos Electorales, las cuales tendrán nivel de Vicefiscalía General. Los Fiscales Especializados serán designados y removidos por el Fiscal General del Estado.
+Art. 76 Bis A. La Fiscalía General del Estado contará con las Fiscalías Especializadas en Combate a la Corrupción, en Desaparición Forzada de Personas, en Materia de Delitos Relacionados con las Violencias de Género contra las Mujeres, en Materia de Tortura y en Atención de Delitos Electorales, las cuales tendrán nivel de Vicefiscalía General. Los Fiscales Especializados serán designados y removidos por el Fiscal General del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2019)</small>
 
@@ -2649,7 +2669,9 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 
 El Congreso del Estado emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) anteriores;
 
-III. Nombrar a su personal y remover libremente a sus empleados de confianza;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+III. Nombrar a su personal observando el principio de paridad de género y remover libremente a sus empleados de confianza;
 
 IV. Conceder licencias y admitir las renuncias de sus propios miembros y del personal a su servicio;
 
@@ -2987,23 +3009,35 @@ VI. En el caso de que el orden constitucional desaparezca totalmente en el Estad
 
 VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 ###### Art. 145.
 
-Los servidores públicos del Estado, de sus Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Los servidores públicos del Estado, de sus Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. El Estado y los Municipios establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género entre las y los servidores públicos.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, que de manera directa o indirecta se suma al ingreso, incluyendo dietas o salarios, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, vehículo y su mantenimiento, gastos médicos mayores, celular y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales, debidamente justificados;
 
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
 II. Ningún servidor público de la administración pública estatal podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Titular del Poder Ejecutivo del Estado en el presupuesto de egresos correspondiente, y éste no podrá percibir un ingreso mayor al del Presidente de la República;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
 III. Ningún servidor público de la administración pública estatal podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los términos del artículo 143 de la presente Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
 
 En ningún caso, el excedente a que se refiere el párrafo anterior, podrá ser superior a la mitad de la remuneración establecida para el Gobernador Constitucional del Estado en el Presupuesto de Egresos correspondiente;
 
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
 IV. No se concederán, ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y,
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
@@ -3245,11 +3279,9 @@ TRANSITORIOS:
 
 Esta Constitución comenzará a regir desde el día siguiente al de su promulgación y se publicará por bando solemne en todo el Estado.
 
-###### Art. 2º.
+###### Art. 2o.
 
-En lo que atañe a su régimen interior la soberanía del Estado reside esencial y originariamente en el pueblo sinaloense, el cual propugna como valores superiores de su orden jurídico y social, la libertad, la igualdad de derechos, la justicia, la solidaridad, el pluralismo político y la diversidad cultural.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+Subsistirán vigentes todas las leyes y decretos en todo aquello que no se oponga a esta Constitución.
 
 ###### Art. 3o.
 
@@ -3432,10 +3464,6 @@ P.O. 15 DE ABRIL DE 1941.
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
 
 P.O. 16 DE DICIEMBRE DE 1941.
-
-###### Art. 2o.
-
-Subsistirán vigentes todas las leyes y decretos en todo aquello que no se oponga a esta Constitución.
 
 ###### ARTICULO UNICO.
 
@@ -4826,3 +4854,11 @@ P.O. 27 DE SEPTIEMBRE DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 31 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. En un plazo de 120 días naturales el Congreso del Estado deberá armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto a partir de la entrada en vigor del mismo.
