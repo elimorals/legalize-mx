@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-para-regular-las-publicaciones-en-la-gaceta-174235
 country: "mx"
 rank: "lineamientos"
 publication_date: "2024-08-29"
-last_updated: "2024-08-29"
+last_updated: "2025-02-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174235&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2024-08-29"
 ---
 # LINEAMIENTOS PARA REGULAR LAS PUBLICACIONES EN LA GACETA OFICIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LOS LINEAMIENTOS PARA REGULAR LAS PUBLICACIONES EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, PUBLICADOS EN LA GACETA OFICIAL DE 14 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 LINEAMIENTOS PARA REGULAR LAS PUBLICACIONES EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2025 (SIN EFECTOS).
 
 Lineamientos publicados en el No. 1434 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 29 de Agosto de 2024.
 
@@ -273,3 +275,17 @@ EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES
 (Firma)
 
 MTRO. NÉSTOR VARGAS SOLANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE MODIFICAN LOS LINEAMIENTOS PARA REGULAR LAS PUBLICACIONES EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+TERCERO. La interpretación de los presentes Lineamientos corresponde a la Consejería Jurídica y de Servicios Legales de la Ciudad de México, por conducto de la Dirección General Jurídica y de Estudios Legislativos.
+
+CUARTO. El presente Acuerdo deja sin efectos el diverso publicado en la Gaceta Oficial de la Ciudad de México, el 29 de agosto de 2024, en su ejemplar Bis.
