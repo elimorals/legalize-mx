@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2025-01-31"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -71,37 +71,37 @@ III. Constitución del Estado: La Constitución Política del Estado Libre y Sob
 
 IV. Fiscalía General del Estado: La Fiscalía General del Estado de Baja California;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-V. Fiscal General: El Fiscal General del Estado de Baja California;
+V. Fiscal General: La persona titular de la Fiscalía General del Estado de Baja California;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VI. Fiscal Central: Fiscal que tiene a su cargo la coordinación de los fiscales regionales en la entidad y demás áreas que componen su estructura;
+VI. Fiscal Central: La o el Fiscal que tiene a su cargo la coordinación de las personas titulares de las fiscalías regionales en la entidad y demás áreas que componen su estructura;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VII. Fiscal Regional: El Fiscal encargado de las funciones del Ministerio Público en cada uno de los municipios de la entidad;
+VII. Fiscal Regional: La o el Fiscal encargado de las funciones del Ministerio Público en cada uno de los Municipios de la entidad;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VIII. Fiscal o agente: El que ejerce las facultades del Ministerio Público;
+VIII. Fiscal o agente: La persona quien ejerce las facultades del Ministerio Público;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-IX. Fiscal Especial: El nombrado por acuerdo del Fiscal General para asuntos específicos y de carácter temporal;
+IX. Fiscal Especial: La persona nombrada por acuerdo del Fiscal General para asuntos específicos y de carácter temporal;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-X. Fiscal Especializado: El Fiscal que ejerce las facultades del Ministerio Público en determinada materia;
+X. Fiscal Especializado: La o el Fiscal que ejerce las facultades del Ministerio Público en determinada materia;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XI. Fiscal Especializado en Combate a la Corrupción: El Fiscal que ejerce funciones de Ministerio Público en delitos relacionados con hechos de corrupción cometidos por servidores públicos y por particulares;
+XI. Fiscal Especializado en Combate a la Corrupción: La o el Fiscal que ejerce funciones de Ministerio Público en delitos relacionados con hechos de corrupción cometidos por servidores públicos y por particulares;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-XII. Fiscal Especializado para la Atención de Delitos Electorales: El Fiscal que ejerce funciones de Ministerio Público en delitos electorales;
+XII. Fiscal Especializado para la Atención de Delitos Electorales: La o el Fiscal que ejerce funciones de Ministerio Público en delitos electorales;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -375,9 +375,11 @@ VI. Celebrar contratos o convenios para el mejor desempeño de las funciones de 
 
 VII. Proponer el proyecto de presupuesto anual de egresos de la Fiscalía General del Estado y someterlo a la consideración del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
 
-VIII. Comparecer ante el Congreso del Estado cuando sea citado para informar de los asuntos a su cargo;
+VIII. Rendir anualmente un informe de actividades, por escrito, a los poderes Legislativo y Ejecutivo del Estado, en el que dé cuenta de la marcha de la Fiscalía y de las gestiones realizadas, incluyendo los asuntos relevantes en procuración de justicia, el estado financiero de la institución y demás temas relevantes para la Fiscalía.
+
+Deberá comparecer ante el Congreso del Estado cuando sea citado para la glosa del informe anual; así como cuando sea citado para informar de los asuntos a su cargo;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1180,3 +1182,9 @@ Segundo.- Dentro de un plazo de 90 días naturales contados a partir de la entra
 En ese mismo plazo se deberá informar al Congreso del Estado respecto al avance y estatus de los derechos laborales de las personas servidoras públicas y demás personal del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California, así como respecto de la estabilidad de los recursos materiales.
 
 Tercero.- En tanto se realiza (sic) las adecuaciones reglamentarias correspondientes, seguirá rigiendo en materia del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado, en lo que no se contraponga a la presente reforma las disposiciones del Reglamento interno de la Secretaría de Seguridad Ciudadana del Estado de Baja California.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 46 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 4 (SIC) DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
