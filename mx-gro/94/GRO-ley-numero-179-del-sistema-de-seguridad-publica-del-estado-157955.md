@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-179-del-sistema-de-seguridad-publica-del-estado-1579
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-14"
-last_updated: "2024-09-03"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Guerrero, el jueves 14 de abril de 2022. (REPUBLICADA EN EL P.O. 3 DE MAYO DE 2022).
 
@@ -166,6 +166,10 @@ XVI. Desarrollar los lineamientos, mecanismos e instrumentos para la organizaci�
 XVII. Formalizar los convenios de colaboración respectivos para brindar los servicios de seguridad pública que se estimen pertinentes, bajo la coordinación de la persona titular del Poder Ejecutivo del Estado;
 
 XVIII. Auxiliar a la población en caso de siniestros y desastres;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2025)</small>
+
+XVIII Bis. Implementar un operativo de búsqueda inmediata de personas desaparecidas, en especial de niñas, niños, adolescentes y mujeres con base en el reporte realizado a través del número de emergencias 911 o presentado de manera presencial ante la Secretaría o la Comisión Estatal de Búsqueda de Personas, aun sin que medie denuncia formal ante el Ministerio Público.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2222,3 +2226,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 018 POR EL QUE SE ADICIONA LA FRACCIÓN XVIII BIS AL ARTÍCULO 4 DE LA LEY NÚMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El Poder Ejecutivo del Estado en un plazo no mayor a noventa días contados a partir de la entrada en vigor del presente Decreto, deberá emitir los lineamientos y protocolos necesarios para la implementación y operación del operativo de búsqueda inmediata de niñas y mujeres desaparecidas.
+
+TERCERO. Las instituciones de seguridad pública del Estado de Guerrero deberán capacitar a su personal en un plazo no mayor a 180 días, en la correcta aplicación de los procedimientos establecidos en los lineamientos y protocolos referidos en el artículo transitorio segundo, contados a partir de la entrada en vigor de los mismos.
+
+CUARTO. Las instituciones de seguridad pública realizarán las adecuaciones presupuestales necesarias para garantizar la implementación efectiva de lo dispuesto en este Decreto.
+
+QUINTO. La Secretaría de Seguridad Pública y la Comisión Estatal de Búsqueda de Personas deberán presentar informes permanentes a la persona titular del Poder Ejecutivo sobre los resultados y la efectividad de los operativos de búsqueda inmediata de niñas y mujeres desaparecidas, incluyendo estadísticas y casos atendidos, así como propuestas de mejora continua para optimizar dichos operativos.
+
+SEXTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos legales conducentes.
