@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-1090
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-10"
-last_updated: "2024-02-09"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 10 de julio de 2015.
 
@@ -268,6 +268,10 @@ II.- Acreditar reconocido prestigio en la sociedad y haberse distinguido por su 
 III.- Contar, preferentemente, con el apoyo de dos o más organismos públicos o privados promotores o defensores de los derechos humanos en el Estado.
 
 En ningún caso podrán ser integrantes del Consejo servidoras o servidores públicos pertenecientes a cualquier institución de seguridad pública, de procuración de justicia y del Sistema Penitenciario de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2025)</small>
+
+En la integración del Consejo se deberá promover la diversidad de la sociedad por razón de edad, origen étnico o nacional, identidad de género y orientación sexual, condición social y discapacidad.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
@@ -842,3 +846,9 @@ P.O. 9 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 376 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60 Y 61 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 47 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 17 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
