@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2024-10-28"
+last_updated: "2025-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1719,7 +1719,13 @@ Al que por medio de violencia física o moral, realice cópula con persona de cu
 
 Se sancionará con la misma penalidad a quien introduzca en una persona, por medio de violencia física o moral, por vía vaginal o anal, cualquier elemento, instrumento o parte del cuerpo humano, distinto al miembro viril.
 
-La misma sanción que establece este artículo se impondrá si entre el activo y el pasivo de la violación existe vínculo matrimonial, de concubinato o de pareja de hecho. En este último caso, el delito se perseguirá por querella de parte.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+La misma sanción que establece este artículo se impondrá si entre el activo y el pasivo de la violación existe vínculo matrimonial, de concubinato o de pareja de hecho.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
+
+Este delito se perseguirá de oficio.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
@@ -5206,3 +5212,13 @@ P.O. 28 DE OCTUBRE DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del Decreto por el que se reforma el párrafo segundo del artículo 76 Bis de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+P.O. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 60 POR EL QUE "SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 161 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
