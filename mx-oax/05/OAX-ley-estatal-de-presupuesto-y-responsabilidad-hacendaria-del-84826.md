@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2024-12-21"
+last_updated: "2025-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -1163,9 +1163,13 @@ a) La iniciativa de Ley de Ingresos y, en su caso, las iniciativas de reformas l
 
 b) El proyecto de Presupuesto de Egresos;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-III. La Ley de Ingresos y, en su caso, las iniciativas relacionadas con las fuentes de ingresos serán aprobadas por la Legislatura a más tardar el 30 de noviembre;
+Tratándose del año que corresponda a la renovación del titular del Poder Ejecutivo Federal, los ordenamientos citados en los incisos a) y b) que anteceden, se presentarán a más tardar el treinta de noviembre.
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+III. La Ley de Ingresos y, en su caso, las iniciativas relacionadas con las fuentes de ingresos serán aprobadas por la Legislatura a más tardar el 8 de diciembre;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2362,3 +2366,11 @@ P.O. 21 DE DICIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinticinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 68.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 37 DE LA LEY ESTATAL DE PREPUESTO (SIC) Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
