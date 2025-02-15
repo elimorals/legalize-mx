@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-para-las-y-los-servidores-publicos-de-la-168
 country: "mx"
 rank: "codigo"
 publication_date: "2023-11-18"
-last_updated: "2023-11-18"
+last_updated: "2025-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE DESARROLLO SOCIAL DE GOBIERNO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DE GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 15 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2025 (ABROGADO).
 
 Código publicado en el Suplemento del Número 92 del Periódico Oficial del Estado de Zacatecas, el sábado 18 de noviembre de 2023.
 
@@ -394,3 +396,19 @@ ATENTAMENTE
 _________________
 
 Nombre y firma del servidor público
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DE GOBIERNO DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Código de Conducta de la SEDESOL, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Justificado es el hecho de que se abroga el Acuerdo por el que se emite el Código de Conducta que pudiera existir en la Secretaría de Desarrollo Social, publicado en el Periódico Oficial del Gobierno del Estado correspondiente al día 18 de noviembre de 2023, así como cualquier disposición de índole moral que se contraponga al presente Código.
+
+TERCERO. Justo y fundamentado que el Comité de Ética está debidamente conformado de acuerdo a los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética publicado en el Periódico Oficial del Gobierno del Estado de Zacatecas con fecha 09 de marzo del 2022.
+
+CUARTO. Fue emitido y actualizado en tiempo y forma el presente Código de Conducta cumpliendo así con la fecha de modificación establecida en el Código de Ética en su Cuarto Transitorio, así como en lo establecido en la Guía para su elaboración que al efecto formuló la Secretaría.
+
+QUINTO. Bajo la responsabilidad del Comité de Ética de la Secretaría de Desarrollo Social, está el llevar a cabo las acciones efectivas para la difusión y capacitación al respecto del presente Código de Conducta en la que recabara del total de las personas servidoras públicas de la Secretaría, la Carta Compromiso para el respectivo archivo.
