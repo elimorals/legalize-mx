@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2025-01-16"
+last_updated: "2025-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2025.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1831,33 +1829,55 @@ Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Ju
 
 Artículo 77
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-La función jurisdiccional en materia administrativa, incluyendo la fiscal y de responsabilidades administrativas de personas servidoras públicas y particulares, estará a cargo del Tribunal de Justicia Administrativa del Estado, el cual estará dotado de plena autonomía para dictar sus fallos, en los términos que dispongan esta Constitución, las leyes que lo regulen y su reglamento interior. Estas establecerán su organización, funcionamiento, procedimiento y, en su caso, los recursos contra sus resoluciones.
+La función jurisdiccional en materia administrativa, incluyendo la fiscal y de responsabilidades administrativas de personas servidoras públicas y particulares, estará a cargo del Tribunal de Justicia Administrativa del Estado, el cual estará dotado de plena autonomía para dictar sus fallos, en los términos que dispongan esta Constitución, las leyes que lo regulen y su reglamento interior. Estas normas establecerán su organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre particulares y la Administración Pública del Estado y los municipios. Asimismo, será el órgano competente para imponer las sanciones a las personas servidoras públicas del Estado y los municipios por responsabilidad administrativa grave, y a particulares que incurran en actos vinculados con faltas administrativas graves en términos de la legislación aplicable; así como fincar a las y los responsables el pago de las indemnizaciones y sanciones pecuniarias por los daños y perjuicios que afecten a la Hacienda Pública, o al patrimonio de los entes públicos, del Estado y los municipios.
+El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre particulares y la Administración Pública del Estado y los municipios. Estará facultado para ejercer el control de legalidad respecto de los actos y resoluciones que, siendo efectivamente administrativos, constituyan la decisión final o voluntad definitiva de la Administración Pública. Asimismo, el Tribunal será el órgano competente para imponer las sanciones a las personas servidoras públicas del Estado y los municipios por responsabilidad administrativa grave, y a particulares que incurran en actos vinculados con faltas administrativas graves en términos de la legislación aplicable; así como fincar a las y los responsables el pago de las indemnizaciones y sanciones pecuniarias por los daños y perjuicios que afecten a la Hacienda Pública, o al patrimonio de los entes públicos, del Estado y los municipios.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-El Tribunal podrá ejercer la función jurisdiccional consultiva respecto de la interpretación sobre el contenido y alcance de las disposiciones previstas en las leyes locales de carácter administrativo.
+El Tribunal también ejercerá la función jurisdiccional consultiva respecto de la interpretación sobre el contenido y alcance de las disposiciones previstas en las leyes locales de carácter administrativo.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2025)</small>
 
-El Tribunal será colegiado y estará integrado por tres magistraturas, las personas que las ocupen deberán cumplir los requisitos previstos en el artículo 69 de esta Constitución para ser magistrada o magistrado del Supremo Tribunal de Justicia, teniendo las garantías de éstos; durarán seis años en el ejercicio de su encargo y durante este solo podrán ser removidos por las causas graves que señale la ley.
+El Tribunal será colegiado y estará integrado por cinco magistraturas. Las personas que las ocupen ejercerán su cargo para un periodo de seis años, contados a partir del día siguiente a su toma de protesta, y tendrán las garantías que prevea la Ley. Durante el ejercicio de su encargo, solo podrán ser removidas de sus puestos en los términos del Título Undécimo de esta Constitución y de la Ley General de Responsabilidades Administrativas. Las personas que ocupen las magistraturas deberán acreditar los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-Únicamente no será exigible el requisito de ser mexicana o mexicano por nacimiento para acceder al cargo de magistrada o magistrado en el Tribunal, bastando con que se tenga la ciudadanía mexicana.
+I. Tener ciudadanía mexicana y encontrarse en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-La persona titular del Poder Ejecutivo propondrá al Congreso del Estado el nombramiento de las personas que considere idóneas para ocupar el cargo de magistrada o magistrado en el Tribunal. El Congreso hará la designación dentro del plazo de veinte días naturales, mediante el voto de las dos terceras partes de sus miembros presentes, previa comparecencia de las personas propuestas. Si el Congreso no resolviere dentro del plazo indicado, se tendrá por aprobada la propuesta presentada por el Ejecutivo del Estado.
+II. Tener por lo menos treinta y cinco años de edad el día de su designación;
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-Si el Congreso niega expresamente la aprobación dentro del plazo indicado, lo notificará a la persona titular del Poder Ejecutivo, quien deberá realizar una segunda propuesta, pudiendo optar en todo caso por reiterar su propuesta inicial o proponer a otra u otras personas para el cargo, procediéndose en los mismos términos del párrafo anterior. En caso de que el Congreso rechace dos propuestas sucesivas de nombramiento, se tendrá por aprobada la que libremente determine el Ejecutivo.
+III. Poseer al día de su designación, con antigüedad mínima de diez años, título y cédula profesional de licenciatura en derecho, expedidos por autoridad o institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+IV. Gozar de buena reputación y no haber sido condenada o condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+V. Haber residido en el país durante los dos años anteriores al día de su designación; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+VI. Acreditar, en atención de sus antecedentes profesionales y curriculares, que cuenta con experiencia en materia administrativa, fiscal, de fiscalización, responsabilidades administrativas, hechos de corrupción o rendición de cuentas.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+La persona titular del Poder Ejecutivo propondrá al Congreso del Estado el nombramiento de las personas que considere idóneas para ocupar el cargo de magistrada o magistrado en el Tribunal. El Congreso hará la designación dentro del plazo de veinte días naturales, mediante el voto de las dos terceras partes de sus miembros presentes, previa comparecencia de las personas propuestas.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Si el Congreso no resolviere dentro del plazo indicado, se tendrá por aprobada la propuesta presentada por el Ejecutivo del Estado. Si el Congreso niega expresamente la aprobación dentro del plazo indicado, lo notificará a la persona titular del Poder Ejecutivo, quien deberá realizar una segunda propuesta, pudiendo optar en todo caso por reiterar su propuesta inicial o proponer a otra u otras personas para el cargo, procediéndose en los mismos términos del párrafo anterior. En caso de que el Congreso rechace dos propuestas sucesivas de nombramiento, se tendrá por aprobada la que libremente determine el Ejecutivo.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1963,13 +1983,43 @@ El Tribunal tendrá a su cargo dirimir las controversias individuales y colectiv
 
 Asimismo, será el órgano competente para ejercer el control de legalidad de los actos de las organizaciones sindicales del ámbito burocrático y para conocer y resolver sobre los conflictos que se presenten entre las mismas y los relativos a su ámbito interno.
 
-El Tribunal será unitario y estará integrado por una magistrada o magistrado que lo presidirá, quien deberá cumplir los requisitos de elegibilidad que se establecen en el artículo 69 de esta Constitución y tener además experiencia en materia laboral. Durará seis años en el ejercicio de su encargo y durante éste sólo podrá autorizarse su remoción por las causas graves que señale la ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+El Tribunal será unitario y estará integrado por una magistrada o magistrado que lo presidirá; durará seis años en el ejercicio de su encargo y durante este, solo podrá ser removida o removido de su puesto en los términos del Título Undécimo de esta Constitución y de la Ley General de Responsabilidades Administrativas. La persona que ocupe la magistratura deberá acreditar los siguientes requisitos:
 
-Únicamente no será exigible el requisito de ser mexicana o mexicano por nacimiento para acceder al cargo de magistrada o magistrado en el Tribunal, bastando con que se tenga la ciudadanía mexicana.
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-El Congreso del Estado hará la designación de la magistrada o magistrado respectivo mediante el voto de las dos terceras partes de sus miembros presentes, a propuesta de la persona titular del Poder Ejecutivo, observándose en lo conducente lo previsto por los párrafos sexto y séptimo del artículo 77 de esta Constitución.
+I. Tener ciudadanía mexicana y encontrarse en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+II. Tener por lo menos treinta y cinco años de edad el día de su designación;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+III. Poseer al día de su designación, con antigüedad mínima de diez años, título y cédula profesional de licenciatura en derecho, expedidos por autoridad o institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+IV. Gozar de buena reputación y no haber sido condenada o condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+V. Haber residido en el país durante los dos años anteriores al día de su designación; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+VI. Acreditar, en atención de sus antecedentes profesionales y curriculares, que cuenta con experiencia en materia laboral.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+La persona titular del Poder Ejecutivo propondrá al Congreso del Estado el nombramiento de la persona que considere idónea para ocupar el cargo de magistrada o magistrado en el Tribunal. El Congreso hará la designación dentro del plazo de veinte días naturales, mediante el voto de las dos terceras partes de sus miembros presentes, previa comparecencia de la persona propuesta. Si el Congreso no resolviere dentro del plazo indicado, se tendrá por aprobada la propuesta presentada por el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Si el Congreso niega expresamente la aprobación dentro del plazo indicado, lo notificará a la persona titular del Poder Ejecutivo, quien deberá realizar una segunda propuesta, pudiendo optar en todo caso por reiterar su propuesta inicial o proponer a otra persona para el cargo, procediéndose en los mismos términos del párrafo anterior. En caso de que el Congreso rechace dos propuestas sucesivas de nombramiento, se tendrá por aprobada la que libremente determine el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -4560,3 +4610,17 @@ DÉCIMO OCTAVO. En el supuesto de que a la fecha de entrada en vigor del present
 DÉCIMO NOVENO. Se autoriza al Poder Ejecutivo del Gobierno del Estado para que realice las adecuaciones presupuestales que resulten necesarias al techo presupuestario autorizado en el Presupuesto de Egresos del Estado de Colima para el Ejercicio Fiscal 2025, a los entes públicos involucrados, a efecto de dar viabilidad a la implementación del presente decreto.
 
 VIGÉSIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 65.- POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 77 Y 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La persona titular del Poder Ejecutivo del Estado, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, propondrá al Congreso del Estado los nombramientos de las dos magistraturas restantes para integrar el Tribunal de Justicia Administrativa del Estado en términos de lo dispuesto por el artículo 77 de la Constitución Política del Estado Libre y Soberano de Colima.
+
+TERCERO. Los juicios y recursos tramitados con anterioridad a la entrada en vigor del presente Decreto serán resueltos por la nueva integración colegiada del Tribunal de Justicia Administrativa.
+
+CUARTO. Las garantías previstas en los artículos 77 y 79 de esta Constitución serán aplicables tanto a las magistradas y magistrados en funciones como a quienes sean designados en los Tribunales de Justicia Administrativa y el Tribunal de Arbitraje y Escalafón del Estado, según corresponda.
+
+QUINTO. Una vez aprobada la reforma constitucional derivada del procedimiento del artículo 129 de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado realizará las adecuaciones presupuestarias correspondientes para la implementación de la nueva integración del Tribunal de Justicia Administrativa, de conformidad con la propuesta que haga llegar el Pleno, dentro de los quince días siguientes a la aprobación de los nuevos nombramientos.
