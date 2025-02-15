@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-de-medios-de-impugnacion-electoral-del-34230"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-04"
-last_updated: "2020-12-12"
+last_updated: "2025-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -139,11 +139,21 @@ IX. Instituto. Al Instituto Electoral del Estado de Zacatecas;
 
 X. Medios de Impugnación. Aquéllos previstos en la presente Ley;
 
-XI. Procesos Electorales. Aquéllos que tengan por objeto la renovación de los Poderes Legislativo y Ejecutivo del Estado, así como de los miembros de los ayuntamientos; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+XI. Procesos Electorales.- Aquéllos que tengan por objeto la renovación de los Poderes Legislativo y Ejecutivo del Estado, así como de los miembros de los ayuntamientos;
 
-XII. Tribunal de Justicia Electoral. Al Tribunal de Justicia Electoral del Estado de Zacatecas.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+XII. Tribunal de Justicia Electoral.- Al Tribunal de Justicia Electoral del Estado de Zacatecas, y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+XIII. Personas Candidatas a juzgadoras:
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+XIV. Personas Juzgadoras.- P e r s o n a s magistradas, magistrados, juezas y jueces del Poder Judicial del Estado de Zacatecas.
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -187,13 +197,19 @@ I. (DEROGADA P.O. 3 DE OCTUBRE DE 2009)
 
 II. El recurso de revisión;
 
-III. El juicio de nulidad electoral; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+III. El juicio de nulidad electoral;
 
 IV. El juicio de relaciones laborales;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-V. El Juicio para la protección de los derechos político-electorales del ciudadano.
+V. El Juicio para la protección de los derechos político-electorales del ciudadano;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+VI. Juicio en Materia de Elección Judicial.
 
 Sujetos sancionables por incumplimiento de la ley
 
@@ -235,15 +251,21 @@ El Tribunal Electoral conocerá y resolverá los siguientes medios de impugnaci�
 
 I. El recurso de revisión;
 
-II. El juicio de nulidad electoral, en única instancia; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+II. El juicio de nulidad electoral, en única instancia;
 
-III. El juicio de relaciones laborales; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
+III. El juicio de relaciones laborales;
 
-IV. Juicio para la protección de los derechos político-electorales del ciudadano.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+IV. Juicio para la protección de los derechos político-electorales del ciudadano, y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+V. El Juicio en Materia de Elección Judicial.
 
 Los medios de impugnación señalados se substanciarán y resolverán en la forma y términos establecidos por esta ley.
 
@@ -1151,13 +1173,13 @@ Causales de nulidad de votación en una casilla
 
 ARTÍCULO 52
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-Las nulidades establecidas en este capítulo, podrán afectar la votación emitida en una, en varias casillas o la totalidad de una elección, en consecuencia, los resultados del cómputo de la elección impugnada.
+Las nulidades establecidas en este capítulo, podrán afectar la votación emitida en una, en varias casillas o la totalidad de una elección y, en consecuencia, los resultados del cómputo de la elección impugnada. Lo anterior también será aplicable para las elecciones de personas juzgadoras.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-Los efectos de las nulidades decretadas por el Tribunal de Justicia Electoral respecto de la votación emitida en una o varias casillas o de una elección de gobernador, de diputados o de Ayuntamientos, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de nulidad electoral.
+Los efectos de las nulidades decretadas por el Tribunal de Justicia Electoral respecto de la votación emitida en una o varias casillas o de una elección de gobernador, de diputados, de Ayuntamientos o de personas juzgadoras, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de nulidad electoral.
 
 Serán causas de nulidad de la votación en una casilla:
 
@@ -1187,9 +1209,9 @@ X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 
 XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-Los partidos políticos, coaliciones o candidatos no podrán invocar en su favor, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
+Los partidos políticos, coaliciones, candidatos a cargos de elección popular no podrán invocar en su favor causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
 Causales de nulidad de una elección
 
@@ -1267,6 +1289,26 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Causales de Nulidad de Elecciones Judiciales
+
+ARTÍCULO 53 TER
+
+Son causas de nulidad de elección de personas juzgadoras, adicionales a las aplicables del artículo 41, Base VI de la Constitución Política de los Estados Unidos Mexicanos:
+
+I. Cuando alguna o algunas de las causales previstas en el artículo 52 de esta Ley, se acredite en por lo menos el 25% de las casillas instaladas en el ámbito territorial de la elección correspondiente, siempre que no se hubieren corregido durante el recuento de votos;
+
+II. Cuando en el ámbito territorial de la elección correspondiente, no se instale el 25% o más de las casillas y consecuentemente la votación no hubiere sido recibida;
+
+III. Cuando la candidatura ganadora de la elección resulte inelegible;
+
+IV. Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido;
+
+V. Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente la campaña de una persona candidata.
+
+Las causales de nulidad deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
+
 Efectos de la declaración de nulidad de elección
 
 ARTÍCULO 54
@@ -1301,15 +1343,25 @@ De la procedencia del juicio de nulidad
 
 ARTÍCULO 55
 
-Durante los procesos electorales locales y exclusivamente en la etapa de resultados y de declaraciones de validez, el juicio de nulidad electoral procederá para impugnar las determinaciones de los órganos electorales que violen normas legales relativas a las elecciones de Gobernador del Estado, diputados e integrantes de los ayuntamientos, en los términos señalados por el presente título.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Durante los procesos electorales locales y exclusivamente en la etapa de resultados y de declaraciones de validez, el juicio de nulidad electoral procederá para impugnar las determinaciones de los órganos electorales que violen normas legales relativas a las elecciones de Gobernador del Estado, diputados, integrantes de los ayuntamientos y personas juzgadoras, en los términos señalados por el presente título.
 
 Son actos impugnables a través del juicio de nulidad electoral, en los términos de la Ley Electoral y la presente ley, los siguientes:
 
 I. En la elección de Gobernador del Estado, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por la nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración provisional de validez de la elección y la expedición provisional de la constancia de mayoría;
 
-II. En la elección de diputados por ambos principios, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
 
-III. En la elección de integrantes de ayuntamientos por ambos principios, los resultados consignados en las actas de cómputo municipal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso.
+II. En la elección de diputados por ambos principios, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+III. En la elección de integrantes de ayuntamientos por ambos principios, los resultados consignados en las actas de cómputo municipal respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección; la declaración de validez de la elección, la expedición de las constancias de mayoría o de asignación, según sea el caso, y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+IV. En la elección de personas juzgadoras, los resultados consignados en las actas de cómputo de la elección respectiva, la declaración de validez de la elección y el otorgamiento de constancias de mayoría, así como la nulidad de la votación recibida en una o varias casillas, la nulidad de la elección o por error aritmético.
 
 Requisitos de la demanda
 
@@ -1329,9 +1381,9 @@ V. La conexidad, en su caso, que guarde con otras impugnaciones.
 
 Cuando se pretenda impugnar las elecciones de diputados o de integrantes de ayuntamientos, respectivamente, por ambos principios, en los supuestos previstos en las fracciones II y III del párrafo segundo del artículo anterior, el promovente estará obligado a presentar un solo escrito, el cual deberá reunir los requisitos previstos en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-Los efectos de las nulidades decretadas por el Tribunal de Justicia Electoral respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral uninominal o en un Municipio, o bien, en la elección de Gobernador Constitucional del Estado, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de nulidad electoral, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
+Los efectos de las nulidades decretadas por el Tribunal de Justicia Electoral respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral uninominal o en un Municipio, o bien, en la elección de Gobernador Constitucional del Estado o de personas juzgadoras, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de nulidad electoral, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
 
 En los supuestos señalados en los dos párrafos anteriores, si se impugna la votación recibida en casillas especiales, su anulación sólo afectará a la elección de representación proporcional que corresponda.
 
@@ -1344,6 +1396,10 @@ El juicio de nulidad sólo podrá ser promovido por:
 I. Los partidos políticos o las coaliciones a través de sus legítimos representantes; y
 
 II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad, la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación. En todos los demás casos, sólo podrán intervenir como coadyuvantes en términos de lo establecido en el párrafo segundo del artículo 9° de la presente ley.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2025)</small>
+
+III. En el caso de elección de personas juzgadoras, por las candidaturas que cuenten con interés jurídico.
 
 Plazo de Interposición del Juicio de Nulidad Electoral
 
@@ -1393,13 +1449,13 @@ El Tribunal de Justicia Electoral podrá modificar el acta o las actas de cómpu
 
 Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de diputado o integrantes de ayuntamientos previstos en esta ley, el Tribunal de Justicia Electoral decretará lo conducente, aún cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
-Términos para emitir sentencia
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
+Términos para emitir sentencia
 
 ARTÍCULO 62
 
-Los juicios de nulidad electoral de las elecciones de diputados e integrantes de ayuntamientos deberán quedar resueltos el día 5 de julio y los relativos a la elección de Gobernador del Estado a más tardar el 15 de julio, ambas fechas del año de la elección.
+Los juicios de nulidad electoral de las elecciones de diputados, integrantes de ayuntamientos, jueces y juezas, deberán quedar resueltos el día 5 de julio y los relativos a la elección de Gobernador del Estado, Magistrados y Magistradas, a más tardar el 15 de julio, ambas fechas del año de la elección.
 
 Definitividad de resultados electorales
 
@@ -1539,6 +1595,54 @@ ARTÍCULO 68
 
 Los efectos de la sentencia podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados, decretando en su caso, el resarcimiento en los derechos laborales afectados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Tribunal o del Instituto, éstos últimos podrán negarse a reinstalarlo pagando una indemnización equivalente a tres meses de salario, más doce días por cada año trabajado, por concepto de prima de antigüedad.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2025)</small>
+
+## TÍTULO QUINTO. Del Juicio en Materia de Elecciones Judiciales
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO ÚNICO. De las Reglas Particulares
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Procedencia
+
+###### ARTÍCULO 69.
+
+El Juicio en Materia de Elecciones Judiciales será procedente para impugnar los actos y resoluciones que restrinjan el derecho a ser votadas de las personas aspirantes y candidatas a Magistradas, Magistrados, juezas y jueces del Poder Judicial del Estado de Zacatecas, en el proceso electoral respectivo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Legitimación
+
+###### ARTÍCULO 70.
+
+Sólo podrán promover Juicio en Materia de Elecciones Judiciales las personas que acrediten su interés jurídico como personas aspirantes y candidatas a Magistradas, Magistrados, juezas o jueces del Poder Judicial del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Plazo para impugnar
+
+###### ARTÍCULO 71.
+
+El plazo para impugnar será de cuatro días, contados a partir del día siguiente a aquél en que se haya notificado o tenga conocimiento de la resolución o el acto impugnado.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Naturaleza del Juicio
+
+###### ARTÍCULO 72.
+
+El Juicio en Materia de Elecciones Judiciales será de estricto derecho y no operará la suspensión de los actos o resoluciones impugnados.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2025)</small>
+
+Trámite, sustanciación y resolución
+
+###### ARTÍCULO 73.
+
+Para la tramitación, sustanciación y resolución de este juicio serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta ley y, en particular, las señaladas para el Recurso de Revisión.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Decreto se enviará para su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, e iniciará su vigencia al día siguiente de su publicación, conjuntamente con el Decreto de Reformas y Adiciones a diversos artículos de la Constitución Política del Estado Libre y Soberano de Zacatecas, aprobadas en el periodo extraordinario de sesiones celebrado por la actual Legislatura, los días del 22 al 26 de agosto de 2003.
@@ -1610,3 +1714,13 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 99.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN ELECTORAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+Artículo Tercero. Dentro de los quince días siguientes a la entrada en vigor de este Decreto, el Tribunal de Justicia Electoral del Estado de Zacatecas deberá realizar las adecuaciones necesarias a su normatividad interna, para armonizarla con este instrumento legislativo.
