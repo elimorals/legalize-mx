@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2024-09-30"
+last_updated: "2025-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2025.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2575,9 +2575,9 @@ XVII.- Instituto de la Mujer;
 
 XVIII.- Instituto del Deporte.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2025)</small>
 
-XIX.- Instituto de la Juventud.
+XIX.- Casa del adolescente.
 
 ###### Artículo 305.
 
@@ -2603,7 +2603,7 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 311.
 
@@ -2957,11 +2957,9 @@ XXI. Instituto Municipal del Migrante.
 
 a) Atención al migrante.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA CON SU INCISO], P.O. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2025)</small>
 
-XXII. Instituto de la Juventud.
-
-a) Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
+XXII. Casa del adolescente.
 
 ###### Artículo 312.
 
@@ -4370,6 +4368,16 @@ V. Fomentar el desarrollo de programas culturales, económicos, de salud, de edu
 VI. Celebrar convenios de coordinación con las autoridades estatales y/o federales a fin de promover políticas públicas de atención, apoyo y protección a las personas migrantes y sus familias del municipio de Calvillo, Ags.;
 
 VII. Las demás que establezcan otras disposiciones legales y reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2025)</small>
+
+###### Artículo 340 Quinquies.
+
+Corresponde a la Casa del Adolescente:
+
+I. Brindar atención integral a las y los adolescentes de 12 a 17 años;
+
+II. Brindar talleres y capacitaciones culturales, deportivos y de oficios a los adolescentes.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -25118,3 +25126,17 @@ Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del
 Artículo Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 17 DE FEBRERO DE 2025.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE CALVILLO, AGS.", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Primero.- Se reforma el Código Municipal de Calvillo, Ags., en los siguientes términos:
+
+[...]
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Cúmplase.
