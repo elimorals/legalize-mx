@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-consejo-para-la-cultura-y-las-artes-1515
 country: "mx"
 rank: "codigo"
 publication_date: "2021-10-04"
-last_updated: "2021-10-04"
+last_updated: "2025-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN, PUBLICADO EN EL P. O. DE 17 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2025 (ABROGADO).
 
 Código publicado en el Número 122 del Periódico Oficial del Estado de Nuevo León, el lunes 4 de octubre de 2021.
 
@@ -197,3 +199,15 @@ M. RICARDO MARCOS GONZÁLEZ
 PRESIDENTE
 
 CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Conducta del Consejo para la Cultura y las Artes de Nuevo León publicado en el Periódico Oficial del Estado el día 04 de octubre de 2021.
+
+TERCERO.- El presente Código deberá ser difundido en la página oficial de internet con la finalidad de hacerlo del conocimiento de las personas servidoras públicas de CONARTE.
