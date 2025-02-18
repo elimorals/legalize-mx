@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-coordinacion-hacendaria-del-estado-de-puebla-y-sus-67898
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2023-08-25"
+last_updated: "2025-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 20 de marzo de 2009.
 
@@ -359,19 +359,31 @@ II. La participación que le corresponda al Estado del Impuesto Especial Sobre P
 
 III. La recaudación que se realice en el Estado del Impuesto Sobre Automóviles Nuevos;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
 
-IV. La recaudación del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos; y
+IV. La recaudación del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos;
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2025)</small>
 
-V. Los demás conceptos que en materia de coordinación fiscal federal deban participarse a los Municipios y que no tengan establecida una forma para su distribución.
+V. El Fondo de Compensación del Impuesto Sobre Automóviles Nuevos;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+VI. Impuesto Federal Sobre Tenencia o Uso de Vehículos;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+VII. Impuesto Sobre la Renta por la Enajenación de Bienes Inmuebles; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2025)</small>
+
+VIII. Los demás conceptos que en materia de coordinación fiscal federal deban participarse a los Municipios y que no tengan establecida una forma para su distribución.
 
 ###### ARTÍCULO 51.
 
 El Fondo para Incentivar y Estimular la Recaudación Municipal se integrará con el 100% del Fondo de Fomento Municipal establecido en la Ley de Coordinación Fiscal, que será entregado por el Estado a los Municipios.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 52.
 
@@ -385,9 +397,9 @@ A) Garantía: Se distribuirá el 43% en proporción directa a los recursos que l
 
 B) Equidad y Marginación: Se distribuirá el 7% para los 217 Municipios, con base en lo siguiente:
 
-a) Equidad: El 1.75% del total de los recursos se repartirá en partes iguales entre los 217 Municipios de la Entidad; y
+Equidad: El 1.75% del total de los recursos se repartirá en partes iguales entre los 217 Municipios de la Entidad; y
 
-b) Marginación: El 5.25% restante, conforme a la aportación porcentual establecida en el presente inciso, la cual toma en cuenta las necesidades básicas y ponderadores siguientes:
+Marginación: El 5.25% restante, conforme a la aportación porcentual establecida en el presente inciso, la cual toma en cuenta las necesidades básicas y ponderadores siguientes:
 
 Necesidad Básica Ponderador
 
@@ -401,7 +413,7 @@ Disponibilidad de electricidad 15.0%
 
 Disponibilidad de drenaje 7.5%
 
-Los factores asociados a cada una de estas necesidades, son definidos en una escala que guarda una métrica similar, a efecto de poder ser combinados en un sólo índice. Para este fin, la métrica se definió con base en indicadores con valores en el rango de 0 a 1. Así, valores cercanos a 0 indican un déficit mínimo en atención de la necesidad en cuestión, mientras que a medida que los valores se aproximen a 1, será indicativo de un grado de carencia más acentuado.
+Los factores asociados a cada una de estas necesidades, son definidos en una escala que guarda una métrica similar, a efecto de poder ser combinados en un sólo índice. Para este fin, la métrica se definió con base en indicadores con valores en el rango de O a 1. Así, valores cercanos a O indican un déficit mínimo en atención de la necesidad en cuestión, mientras que a medida que los valores se aproximen a 1, será indicativo de un grado de carencia más acentuado.
 
 La conformación de los indicadores para cada una de las necesidades definidas, son las que a continuación se describen:
 
@@ -409,47 +421,53 @@ Ingresos.
 
 El indicador se construye estableciendo la relación entre la población ocupada con ingresos hasta de un salario mínimo, y el total de la población ocupada en el Municipio en estudio:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINA 5.]</small>
+
+La información respecto a la población ocupada se refiere al rango de edad de 12 años y más, o en caso de no estar disponible dicho rango, se refiere al rango de edad más amplio disponible en la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía al iniciarse cada ejercicio fiscal.
 
 Educación.
 
 Este indicador representa la proporción de la población mayor de 15 años sin primaria completa, respecto del total de la población mayor de 15 años del Municipio en cuestión:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINA 5.]</small>
 
 Vivienda.
 
 Para la conformación de este indicador, se tomará en cuenta el promedio de ocupantes por cuarto en viviendas particulares de cada uno de los Municipios de la Entidad. Para este fin, el procedimiento empleado es una interpolación lineal, resultando la siguiente expresión:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 4 A LA 5.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINAS DE LA 5 A LA 6.]</small>
 
 Electrificación.
 
 Este indicador se traduce en la relación entre las viviendas particulares sin energía eléctrica y las viviendas particulares habitadas en el Municipio en estudio:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 5.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINA 6.]</small>
 
 Drenaje.
 
 El indicador de carencia en materia de drenaje se constituye estableciendo la relación entre las viviendas particulares sin drenaje y las viviendas particulares habitadas del Municipio en estudio:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINAS DE LA 5 A LA 6.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINA 6.]</small>
+
+Una vez determinados los cinco indicadores, éstos deben ponderarse, combinarse entre sí y producir un valor índice antes de elevarse a la a, lo que servirá para acentuar las carencias significativas entre los Municipios. El resultado de esta expresión, se denomina Índice Integrador de Déficit Social para el i-ésimo Municipio:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINAS DE LA 6 A LA 7.]</small>
 
 Después de calcular el IID del Municipio observado, se incorpora la variable poblacional multiplicando dicho índice por la población total municipal. Este paso se realiza para obtener elementos comunes en un parámetro con valor relativo, que permitan llevar a cabo la etapa de agregación como se muestra a continuación:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINA 7.]</small>
 
 Una vez determinada la situación de pobreza en el Municipio, se define la del Estado mediante la suma de los Déficit Sociales Relativos de los Municipios que lo integran, como se expresa a continuación:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINA 7.]</small>
 
 Cada uno de los Déficit Sociales Relativos municipales se divide entre el Déficit Social Estatal para determinar la aportación porcentual que le corresponde a cada Municipio, como lo indica la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE AGOSTO DE 2018, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 18 DE FEBRERO DE 2025, PÁGINA 7.]</small>
 
 Con esta transformación a déficit relativos se traduce el fenómeno a una misma expresión estatal y así la asignación se sujeta a los mismos criterios, es decir, en función de la magnitud de la pobreza de cada Municipio.
 
-Para fines de aplicación de esta fórmula, los datos estadísticos se tomarán de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al iniciarse cada ejercicio fiscal. En tanto que los estratos de marginalidad municipal se obtendrán a partir de los últimos índices de marginalidad elaborados por el Consejo Nacional de Población con base en la información del Instituto Nacional de Estadística, Geografía e Informática, que al inicio de cada ejercicio fiscal se encuentre vigente.
+Para fines de aplicación de esta fórmula, los datos estadísticos se tomarán de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al iniciarse cada ejercicio fiscal.
 
 ###### ARTÍCULO 53.
 
@@ -556,6 +574,104 @@ Se participará a los municipios del Estado, el 100% de la recaudación obtenida
 ###### ARTÍCULO 57.
 
 Los fondos y recursos participables a que se refiere el presente Capítulo, serán cubiertos a los Municipios en términos de lo señalado en la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 57 BIS.- El 20% de los ajustes cuatrimestrales y ajuste definitivo que la Federación realice a las participaciones que al Estado le correspondan del Fondo General de Participaciones, y del Impuesto Especial sobre Producción y Servicios aplicado a la cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, se distribuirán entre los municipios conforme a lo siguiente:
+
+Fondo General de Participaciones
+
+En lo que se refiere a los ajustes cuatrimestrales, a la cantidad total correspondiente a los cuatro meses de los recursos entregados a los municipios del Fondo General de Participaciones incluyendo el ajuste cuatrimestral respectivo, se aplica la distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas mensualmente por Municipio de manera provisional.
+
+En lo que respecta al ajuste definitivo, a la cantidad total correspondiente a los doce meses de los recursos entregados a los municipios del Fondo General de Participaciones incluyendo los tres ajustes cuatrimestrales y el ajuste definitivo, se aplica la distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas por Municipio de manera provisional, de forma mensual y cuatrimestral.
+
+La distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios aplicada para los ajustes cuatrimestrales y ajuste definitivo será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden los ajustes aplicados, con independencia del ejercicio fiscal en que se apliquen los ajustes cuatrimestrales y ajuste definitivo.
+
+Impuesto Especial sobre Producción y Servicios aplicado a la cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados
+
+En lo que se refiere a los ajustes cuatrimestrales, a la cantidad total correspondiente a los cuatro meses de los recursos entregados a los municipios del Impuesto Especial sobre Producción y Servicios aplicado a la cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados incluyendo el ajuste cuatrimestral respectivo, se aplica la distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas mensualmente por Municipio de manera provisional.
+
+En lo que respecta al ajuste definitivo, a la cantidad total correspondiente a los doce meses de los recursos entregados a los municipios del Impuesto Especial sobre Producción y Servicios aplicado a la cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados incluyendo los tres ajustes cuatrimestrales y el ajuste definitivo, se aplica la distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas por Municipio de manera provisional, de forma mensual y cuatrimestral.
+
+La distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios aplicada para los ajustes cuatrimestrales y ajuste definitivo será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden los ajustes aplicados, con independencia del ejercicio fiscal en que se apliquen los ajustes cuatrimestrales y ajuste definitivo.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 57 TER.- El 100% de los ajustes cuatrimestrales y ajuste definitivo que la Federación realice a las participaciones que al Estado le correspondan del Fondo de Fomento Municipal, que integra el Fondo para Incentivar y Estimular la Recaudación Municipal, se distribuirán entre los municipios conforme a lo siguiente:
+
+Fondo de Fomento Municipal
+
+En lo que se refiere a los ajustes cuatrimestrales, a la cantidad total correspondiente a los cuatro meses de los recursos entregados a los municipios del Fondo de Fomento Municipal incluyendo el ajuste cuatrimestral respectivo, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas mensualmente por Municipio de manera provisional.
+
+En lo que respecta al ajuste definitivo, a la cantidad total correspondiente a los doce meses de los recursos entregados a los municipios del Fondo de Fomento Municipal incluyendo los tres ajustes cuatrimestrales y el ajuste definitivo, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas por Municipio de manera provisional, de forma mensual y cuatrimestral.
+
+La distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios aplicada para los ajustes cuatrimestrales y ajuste definitivo será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden los ajustes aplicados, con independencia del ejercicio fiscal en que se apliquen los ajustes cuatrimestrales y ajuste definitivo.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 57 QUATER.- El 20% de las diferencias trimestrales y ajuste definitivo que la Federación realice a las participaciones que al Estado le corresponda del Fondo de Fiscalización y Recaudación, se distribuirá entre los Municipios conforme a lo siguiente:
+
+Fondo de Fiscalización y Recaudación
+
+En lo que se refiere a las diferencias trimestrales, a la cantidad total correspondiente a los tres meses de los recursos entregados a los Municipios del Fondo de Fiscalización y Recaudación incluyendo la diferencia trimestral respectiva, se aplica la distribución establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas mensualmente por Municipio de manera provisional.
+
+En lo que respecta al ajuste definitivo, a la cantidad total correspondiente a los doce meses de los recursos entregados a los Municipios del Fondo de Fiscalización y Recaudación incluyendo las cuatro diferencias trimestrales y el ajuste definitivo, se aplica la distribución establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas por Municipio de manera provisional, de forma mensual y trimestral.
+
+La distribución establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios aplicada para las diferencias trimestrales y ajuste definitivo será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden las diferencias y ajuste aplicados, con independencia del ejercicio fiscal en que se apliquen las diferencias trimestrales y ajuste definitivo.
+
+Para las diferencias trimestrales y ajuste definitivo, los montos garantizados a considerar para la aplicación de la fórmula establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaria del Estado de Puebla y sus Municipios, serán de $30,000 (Treinta Mil Pesos 00/100 M.N.) y de $120,000 (Ciento Veinte Mil Pesos 00/100 M.N.), respectivamente, lo que equivale el monto garantizado mensual de $10,000 (Diez Mil Pesos 00/100 M.N.) multiplicado por el número de meses de los recursos que se van a distribuir a los municipios.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 57 QUINQUIES.- El 20% de las compensaciones provisionales y compensación definitiva que la Federación realice al Estado del Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo General de Participaciones, y del Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo de Fiscalización y Recaudación, se distribuirán entre los municipios conforme a lo siguiente, considerando las Reglas de Operación del Fondo de Estabilización de los Ingresos de las Entidades Federativas, la información dada a conocer por la Secretaría de Hacienda y Crédito Público del Fondo de Estabilización de los Ingresos de las Entidades Federativas, y la información que al momento del cálculo se tenga disponible del Fondo General de Participaciones, y del Fondo de Fiscalización y Recaudación:
+
+Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo General de Participaciones
+
+En lo que se refiere a las compensaciones provisionales, a la cantidad total de los recursos entregados a los municipios del Fondo General de Participaciones correspondiente a los meses que comprende el periodo de la compensación provisional, incluyendo los respectivos ajustes cuatrimestrales que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación provisional, se aplica la distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaria del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo General de Participaciones que corresponda al Municipio entre la suma de los montos del Fondo General de Participaciones de todos los municipios, el cual será aplicado al monto total de la compensación provisional que corresponde a los municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación provisional.
+
+Posteriormente, se realiza la diferencia entre el monto de la compensación provisional por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
+
+En lo que respecta a la compensación definitiva, a la cantidad total de los recursos entregados a los municipios del Fondo General de Participaciones correspondiente a los meses que comprende el periodo de la compensación definitiva, incluyendo los respectivos ajustes cuatrimestrales y ajuste definitivo que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación definitiva, se aplica la distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaria del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo General de Participaciones que corresponda al Municipio entre la suma de los montos del Fondo General de Participaciones de todos los municipios, el cual será aplicado al monto total de la compensación definitiva de los municipios y de esta manera obtener el monto que corresponde a cada municipio de la compensación definitiva.
+
+Posteriormente, se realiza la diferencia entre el monto de la compensación definitiva por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
+
+La distribución establecida en el artículo 52 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios aplicada para las compensaciones provisionales y compensación definitiva será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden las compensaciones aplicadas, con independencia del ejercicio fiscal en que se apliquen las compensaciones provisionales y compensación definitiva.
+
+En caso de que los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo General de Participaciones que corresponden a los municipios no sean suficientes para la aplicación de las compensaciones provisionales y compensación definitiva que se les deban efectuar, se utilizarán recursos del Fondo General de Participaciones de los municipios para su aplicación.
+
+Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo de Fiscalización y Recaudación
+
+En lo que se refiere a las compensaciones provisionales, a la cantidad total de los recursos entregados a los Municipios del Fondo de Fiscalización y Recaudación correspondiente a los meses que comprende el periodo de la compensación provisional, incluyendo las respectivas diferencias trimestrales que se hayan aplicado a los Municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación provisional, se aplica la distribución establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaria del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fiscalización y Recaudación que corresponda al Municipio entre la suma de los montos del Fondo de Fiscalización y Recaudación de todos los municipios, el cual será aplicado al monto total de la compensación provisional de los Municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación provisional.
+
+Posteriormente, se realiza la diferencia entre el monto de la compensación provisional por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
+
+En lo que respecta a la compensación definitiva, a la cantidad total de los recursos entregados a los Municipios del Fondo de Fiscalización y Recaudación correspondiente a los meses que comprende el periodo de la compensación definitiva, incluyendo las respectivas diferencias trimestrales y ajuste definitivo que se hayan aplicado a los Municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación definitiva, se aplica la distribución establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fiscalización y Recaudación que corresponda al Municipio entre la suma de los montos del Fondo de Fiscalización y Recaudación de todos los municipios, el cual será aplicado al monto total de la compensación definitiva de los Municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación definitiva.
+
+Posteriormente, se realiza la diferencia entre el monto de la compensación definitiva por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
+
+La distribución establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios aplicada para las compensaciones provisionales y compensación definitiva será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden las compensaciones aplicadas, con independencia del ejercicio fiscal en que se apliquen las compensaciones provisionales y compensación definitiva.
+
+Para las compensaciones provisionales y compensación definitiva, los montos garantizados a considerar para la aplicación de la fórmula establecida en el artículo 56, fracción I de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, serán lo equivalente al monto garantizado mensual de $10,000 (Diez Mil Pesos 00/100 M.N.) multiplicado por el número de meses de los recursos que se van a distribuir a los municipios, conforme al periodo que corresponda a las compensaciones provisionales y compensación definitiva.
+
+En caso de que los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo de Fiscalización y Recaudación que corresponden a los municipios no sean suficientes para la aplicación de las compensaciones provisionales y compensación definitiva que se les deban efectuar, se utilizarán recursos del Fondo General de Participaciones de los municipios para su aplicación.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 57 SEXIES.- El 100% de las compensaciones provisionales y compensación definitiva que la Federación realice al Estado del Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo de Fomento Municipal, se distribuirá entre los municipios conforme a lo siguiente, considerando las Reglas de Operación del Fondo de Estabilización de los Ingresos de las Entidades Federativas, la información dada a conocer por la Secretaría de Hacienda y Crédito Público del Fondo de Estabilización de los Ingresos de las Entidades Federativas, y la información que al momento del cálculo se tenga disponible del Fondo de Fomento Municipal:
+
+Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo de Fomento Municipal
+
+En lo que se refiere a las compensaciones provisionales, a la cantidad total de los recursos entregados a los municipios del Fondo de Fomento Municipal, que integra el Fondo para Incentivar y Estimular la Recaudación Municipal, correspondiente a los meses que comprende el periodo de la compensación provisional, incluyendo los respectivos ajustes cuatrimestrales que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación provisional, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fomento Municipal que corresponda al Municipio entre la suma de los montos del Fondo de Fomento Municipal de todos los municipios, el cual será aplicado al monto total de la compensación provisional de los municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación provisional.
+
+Posteriormente, se realiza la diferencia entre el monto de la compensación provisional por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
+
+En lo que respecta a la compensación definitiva, a la cantidad total de los recursos entregados a los municipios del Fondo de Fomento Municipal, que integra el Fondo para Incentivar y Estimular la Recaudación Municipal, correspondiente a los meses que comprende el periodo de la compensación definitiva, incluyendo los respectivos ajustes cuatrimestrales y ajuste definitivo que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación definitiva, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fomento Municipal que corresponda al Municipio entre la suma de los montos del Fondo de Fomento Municipal de todos los municipios, el cual será aplicado al monto total de la compensación definitiva de los municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación definitiva.
+
+Posteriormente, se realiza la diferencia entre el monto de la compensación definitiva por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
+
+La distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaria del Estado de Puebla y sus Municipios aplicada para las compensaciones provisionales y compensación definitiva será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden las compensaciones aplicadas, con independencia del ejercicio fiscal en que se apliquen las compensaciones provisionales y compensación definitiva.
+
+En caso de que los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo de Fomento Municipal que corresponden a los municipios no sean suficientes para la aplicación de las compensaciones provisionales y compensación definitiva que se les deban efectuar, se utilizarán recursos del Fondo General de Participaciones de los municipios para su aplicación.
 
 ###### ARTÍCULO 58.
 
@@ -1366,5 +1482,13 @@ P.O. 25 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 78, Y; ADICIONA LA FRACCIÓN V AL 78 DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA; REFORMA LAS FRACCIONES II, III, IV Y EL PÁRRAFO TERCERO DEL ARTÍCULO 135 Y ADICIONA LA FRACCIÓN V AL 135 DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS ASÍ COMO REFORMA LA FRACCIÓN III DEL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
