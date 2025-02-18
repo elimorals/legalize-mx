@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2023-11-24"
+last_updated: "2025-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -145,11 +145,17 @@ I. Para personas de dieciocho años o mayores:
 
 TIPO DE LICENCIA VIGENCIA
 
-a) De automovilista: Tres años.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
 
-b) De chofer: Tres años.
+a) De automovilista: Tres años o cinco años.
 
-c) De motociclista: Tres años.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+b) De chofer: Tres años o cinco años
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+e) De motociclista: Tres años o cinco años
 
 d) Especial: Dos años.
 
@@ -544,3 +550,9 @@ SÉPTIMO.- En un plazo no mayor a 365 días naturales contados a partir de la en
 OCTAVO.- Para efecto de lo establecido en el artículo 148 Bis de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, se adoptará el principio pro usuario, considerando para la homologación en tarifas la más baja vigente al momento de la entrada en vigor de la presente reforma. Dicha tarifa deberá mantenerse como mínimo hasta el 1 de enero del año 2024.
 
 NOVENO.- En cuanto a lo referido a favor de propietarios de vehículos eléctricos e híbridos establecido en los artículos 124 Bis 7 de la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León, 32 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, y 14 Bis de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, estos entrarán en vigor a partir del 01 de enero del 2024.
+
+P.O. 18 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 074. SE REFORMAN LAS FRACCIONES I, VI, XI Y XVI DEL ARTÍCULO 3, LA FRACCIÓN IV DEL ARTÍCULO 4, LAS FRACCIONES VI Y XI DEL ARTÍCULO 11, EL ARTÍCULO 12, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 18, EL ARTÍCULO 20, PRIMER PÁRRAFO DEL ARTÍCULO 21, FRACCIONES IX DEL ARTÍCULO 23, PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DEL ARTÍCULO 25, Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 3, FRACCIÓN VIII DEL ARTÍCULO 4, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 11, LAS FRACCIONES X Y XI DEL ARTÍCULO 23, UN PÁRRAFO QUINTO DEL ARTÍCULO 25, Y UN ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN EL INCISO A), B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2025.
