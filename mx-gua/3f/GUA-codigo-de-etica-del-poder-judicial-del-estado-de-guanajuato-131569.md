@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-poder-judicial-del-estado-de-guanajuato-131
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-05"
-last_updated: "2018-11-05"
+last_updated: "2025-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2025.
 
 Código publicado en la Segunda Parte al Número 221 del Periódico Oficial del Estado de Guanajuato, el lunes 5 de noviembre de 2018.
 
@@ -52,6 +52,10 @@ Es deber de los jueces, consejeros, magistrados y demás servidores públicos de
 ###### Artículo 3°.
 
 Todo servidor público del Poder Judicial deberá de reunir las cualidades exigidas para el desempeño de su función y observar los valores previstos en la Ley Orgánica del Poder Judicial del Estado de Guanajuato, el Código de Conducta y en este Código.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+Las omisiones o comportamientos que sean contrarios a los principios, valores y reglas de integridad que rigen la función, en general, de las personas servidoras públicas, así como los principios y valores que conculquen la función judicial, establecidos en este Ordenamiento, pueden constituir faltas administrativas en términos de la Ley Orgánica del Poder Judicial del Estado.
 
 ###### Artículo 4°.
 
@@ -634,3 +638,11 @@ Lo anterior se asienta para debida constancia, a los veintitrés días del mes d
 El Secretario General del Consejo del Poder Judicial del Estado.
 
 Lic. Luis Eugenio Serrano Ortega.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE FEBRERO DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PÁRRAFO QUINTO DE LA CERTIFICACIÓN DEL ACUERDO DEL PLENO DEL CONSEJO DEL PODER JUDICIAL, MEDIANTE EL CUAL SE ACORDÓ ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]</small>
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
