@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2025-01-17"
+last_updated: "2025-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -57,7 +57,9 @@ El Instituto de Control Vehicular será el organismo responsable de la operació
 
 Para la consecución de su objeto el Instituto tendrá las siguientes atribuciones:
 
-I. Organizar, operar y administrar los registros que establece esta Ley, y los que se le asignen en otras disposiciones legales, e integrar y custodiar su acervo documental e informático;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+I. Organizar, operar y administrar los registros, datos e información que establece esta Ley, y los que se le asignen en otras disposiciones legales, e integrar y custodiar su acervo documental e informático;
 
 II. Establecer y exigir el cumplimiento de los requisitos y condiciones para la prestación de los servicios inherentes a su objeto, atendiendo a la normatividad federal, estatal o municipal que resulte aplicable;
 
@@ -67,7 +69,9 @@ IV. Prestar los servicios de inscripción, refrendo anual y registro de avisos v
 
 V. Prestar los servicios de inscripción, refrendo y registro de avisos respecto de conductores, así como los de expedición y reposición de las licencias de conducir;
 
-VI. Exigir el cumplimiento de las obligaciones relacionadas al control vehicular que establece esta Ley y las demás del ámbito de su competencia, así como imponer las sanciones correspondientes a su infracción;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+VI. Exigir el cumplimiento de las obligaciones relacionadas al control vehicular que establece esta Ley y las demás del ámbito de su competencia, incluyendo otras leyes estatales, o federales mediante convenios de coordinación o colaboración, así como imponer las sanciones correspondientes a su infracción;
 
 VII. Recaudar, fiscalizar y administrar las contribuciones, productos y aprovechamientos que se generen por la prestación de los servicios que formen parte de su objeto, así como celebrar con toda clase de autoridades y terceros los convenios que estime necesarios para la realización de estas tareas;
 
@@ -81,7 +85,9 @@ IX. Dictar las bases y normas relativas a la generación, captación, procesamie
 
 X. Proporcionar, cuando le sea requerida, la información solicitada por las diversas autoridades conforme a su competencia y cumpliendo los requisitos de confidencialidad, con excepción de las áreas de seguridad pública estatal y procuración de justicia, que tendrán acceso permanente en línea, de acuerdo a los medios tecnológicos disponibles;
 
-XI. Coordinarse con otras dependencias para establecer e instrumentar las políticas públicas relativas a la regulación vehicular en relación con el equilibrio ecológico, la seguridad pública y la planeación de la infraestructura vial urbana;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+XI. Coordinarse con otras dependencias para establecer e instrumentar las políticas públicas relativas a la regulación vehicular en relación con el medio ambiente, la seguridad pública, la seguridad vial y la planeación de la infraestructura vial urbana;
 
 XII. Celebrar los convenios que se consideren convenientes con dependencias y entidades del gobierno federal, así como de otras entidades federativas y municipios, en aspectos vinculados al control vehicular;
 
@@ -90,6 +96,18 @@ XIII. Fomentar las relaciones con instituciones privadas locales, nacionales e i
 XIV. Obtener financiamiento y créditos, así como aportar los activos e ingresos que integran su patrimonio, o darlos en garantía, a través de fideicomisos revocables o irrevocables, con sujeción a las disposiciones legales aplicables; y
 
 XV. Celebrar toda clase de convenios, actos jurídicos o administrativos, incluyendo transacciones y compromisos arbitrales, encaminados al cumplimiento de su objeto y al ejercicio de las facultades y obligaciones que esta Ley y los demás ordenamientos legales aplicables le impongan, sin perjuicio de las que en forma expresa le delegue el Ejecutivo del Estado o alguna instancia competente en los ámbitos relacionados con sus fines, así como llevar a cabo cualquier otra actividad o servicio conexos, complementarios, auxiliares o necesarios para el cumplimiento de su objeto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2025)</small>
+
+XVI. Realizar las acciones necesarias de manera coordinada con el órgano de gobierno federal encargado del registro público vehicular para la consecución de sus fines;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+XVII. Coordinarse con autoridades de seguridad y vialidad de los tres niveles de gobierno para llevar a cabo las acciones relativas al cumplimiento de su objeto; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+XVIII. Las demás que señalen esta Ley y demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
@@ -301,13 +319,23 @@ II. Las donaciones, aportaciones y en general todas las transferencias que reali
 
 III. Los derechos que sobre bienes muebles e inmuebles adquiera o le correspondan por cualquier título;
 
-IV. Las contribuciones, productos y aprovechamientos que perciba de conformidad con las leyes fiscales;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+IV. Las contribuciones, productos y aprovechamientos que perciba de conformidad con las leyes fiscales y con base en convenios de coordinación o colaboración con dependencias del gobierno federal o de otras entidades federativas;
 
 V. Los rendimientos, frutos, productos y en general los aprovechamientos que obtenga por las operaciones que realice con el resto de su patrimonio;
 
 VI. Los recursos provenientes de créditos y financiamientos que obtenga directamente o a través de fideicomisos; y
 
+> <small>[N. DE E. EL TEXTO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN VIII.]</small>
+
 VII. Los demás bienes y derechos que adquiera por cualquier título.
+
+> <small>[N. DE E. EL TEXTO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN VII.]</small>
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+VIII. Los demás bienes y derechos que adquiera por cualquier título. (sic)
 
 ###### Artículo 5.
 
@@ -431,7 +459,9 @@ IV. Fungir como apoderado general con facultades para actos de administración, 
 
 V. Delegar, sustituir y revocar poderes para pleitos y cobranzas y actos de administración en materia laboral individual y colectiva, sin que por ello se consideren substituidas o restringidas las facultades que se le otorgan;
 
-VI. Designar y remover a los coordinadores de área, jefes de departamento y demás servidores públicos del Instituto, quienes lo auxiliarán en el desempeño de las atribuciones y responsabilidades que le marca esta Ley para la consecución de sus fines;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+VI. Designar y remover a los titulares de las unidades administrativas y demás servidores públicos del Instituto, quienes lo auxiliarán en el desempeño de las atribuciones y responsabilidades que le marca esta Ley para la consecución de sus fines;
 
 VII. Ejercer todas las actividades que sean necesarias para la recaudación, fiscalización y administración de las contribuciones y demás ingresos que perciba, recaude o administre el Instituto, incluyendo el ordenar y practicar notificaciones, inspecciones, verificaciones y sustanciar el procedimiento administrativo de ejecución, así como todos los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia fiscal y, en su caso, determinar, requerir, liquidar y hacer efectivo lo correspondiente a su omisión, de conformidad con las leyes de la materia y los convenios de Coordinación Fiscal y Colaboración Administrativa celebrados por el Estado con la Federación o los municipios;
 
@@ -439,13 +469,27 @@ VIII. Expedir constancias y certificaciones relativas al ámbito de competencia 
 
 IX. Imponer las sanciones que procedan por infracciones a las disposiciones legales competencia del Instituto;
 
-X. Fungir como Secretario en las sesiones de la Junta de Gobierno y en las del Consejo de Participación Ciudadana; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
 
-XI. Las demás que determinen esta Ley y los demás ordenamientos jurídicos aplicables.
+X. Fungir como Secretario en las sesiones de la Junta de Gobierno y en las del Consejo de Participación Ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2025)</small>
+
+XI. Realizar acciones coordinadas con otras autoridades para el cumplimiento del objeto de la legislación en materia de Control Vehicular;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+XII. Emitir lineamientos y acuerdos administrativos de carácter general relacionados con el objeto del Instituto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2025)</small>
+
+XIII. Las demás que determinen esta Ley y los demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 12.
 
-Para el cumplimiento de sus atribuciones y responsabilidades el Director General se auxiliará de los coordinadores de área y jefes de departamento, así como del resto de la estructura orgánica y funcional que establezca la Junta de Gobierno.
+Para el cumplimiento de sus atribuciones y responsabilidades, el Director General se auxiliará de la estructura orgánica y funcional que apruebe la Junta de Gobierno, autorizándole la adscripción de unidades administrativas.
 
 ###### Artículo 13.
 
@@ -475,13 +519,17 @@ En cualquier tiempo que se demuestre que un registro se asentó en contravenció
 
 La rectificación de las inscripciones procederá cuando en ellas se advierta error que implique discrepancia entre los datos consignados y la voluntad de los interesados.
 
-El Director General dictaminará la procedencia de las rectificaciones a petición de cualquiera de las partes, e inclusive de oficio, previa audiencia de todos los interesados y sin perjuicio de las acciones legales que correspondan a las partes.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+Las autoridades competentes del Instituto dictaminarán la procedencia de las rectificaciones a petición de cualquiera de las partes, e inclusive de oficio, previa audiencia de todos los interesados y sin perjuicio de las acciones legales que correspondan a las partes.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 18.
 
-La información relativa a los registros será pública, con las reservas que esta misma Ley señala; el Instituto podrá emitir constancias y certificaciones respecto de la existencia o no de registros, así como de la información pública que contengan.
+La información relativa a los registros será pública, con las reservas que esta misma Ley señala; el Instituto podrá emitir constancias, certificaciones y demás resoluciones respecto de la existencia o no de registros, así como de la información pública que contengan.
 
-La información reservada sólo podrá ser revelada por el Instituto al titular del registro, a quien acredite consentimiento expreso del titular del registro; y a las autoridades competentes en materia de procuración y administración de justicia, seguridad pública, caminos, transporte, tránsito y vialidad, siempre que la soliciten en ejercicio de sus funciones.
+La información reservada sólo podrá ser revelada por el Instituto al titular del registro, a quien acredite consentimiento expreso del titular del registro; y a las autoridades competentes en materia de procuración y administración de justicia, seguridad pública, fiscal, caminos, transporte, tránsito y vialidad, siempre que la soliciten en ejercicio de sus funciones.
 
 ###### Artículo 19.
 
@@ -493,15 +541,21 @@ II. Sección Segunda: Conductores; y
 
 III. Sección Tercera: Gravámenes.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 20.
 
-El Instituto no registrará inscripción o aviso alguno cuando existan contribuciones federales, estatales o municipales pendientes de pago, cuyo cobro corresponda al Instituto, así como sanciones vigentes, correspondientes al vehículo o al conductor respecto del cual se pretenda manifestar el aviso, excepto cuando los avisos sean recabados de las autoridades que se encuentran obligadas por disposición de esta Ley.
+El Instituto no registrará inscripción o aviso alguno cuando existan contribuciones federales, estatales o municipales pendientes de pago, cuyo cobro corresponda al Instituto por aplicación de esta u otra Ley o por convenios, así como sanciones vigentes, correspondientes al vehículo o al conductor respecto del cual se pretenda manifestar el aviso, excepto cuando los avisos sean recabados de las autoridades que se encuentran obligadas por disposición de esta Ley.
+
+Asimismo, el Instituto podrá no registrar inscripciones o avisos en caso de peticiones de las autoridades que se mencionan en el artículo 18 de esta Ley.
 
 ### Capítulo V. De la inscripción de vehículos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 21.
 
-Las personas físicas o morales con domicilio en el Estado, que adquieran vehículos, así como los residentes en el Estado propietarios de vehículos con placas expedidas por otra entidad federativa, deberán inscribirlos ante el Instituto, dentro de los quince días naturales siguientes a la fecha en que esto suceda.
+Las personas físicas o morales con domicilio o unidades de negocio, establecimientos o sucursales en el Estado, que adquieran vehículos, así como los residentes en el Estado propietarios de vehículos con placas expedidas por otra entidad federativa, deberán inscribirlos ante el Instituto, dentro de los treinta días naturales siguientes a la fecha en que esto suceda.
 
 Por vehículos deberán entenderse aquellos autopropulsados por medios mecánicos, eléctricos o ambos, sean éstos automóviles, camiones, ómnibuses o motocicletas. También serán objeto de inscripción en la Sección Primera los remolques que sean arrastrados por vehículos.
 
@@ -531,9 +585,21 @@ VI. Número de constancia de inscripción del vehículo en el Registro Público 
 
 VII. Número de concesión, tratándose de vehículos de servicio público de transporte local;
 
-VIII. Documento que legalmente acredite la adquisición; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2025)</small>
 
-IX. Folio único de la licencia para conducir del conductor habitual del vehículo.
+VIII. Documento que acredite la legal adquisición;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2025)</small>
+
+IX. Tratándose de vehículos de procedencia extranjera, o de otra entidad federativa, documento que acredite la legal adquisición;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2025)</small>
+
+X. Tratándose de vehículos inscritos en el Estado de Nuevo León, Constancia de Registro Vehicular debidamente expedida por el ICV;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2025)</small>
+
+XI. Folio único de la licencia para conducir del conductor habitual del vehículo.
 
 Cuando se trate de personas físicas la información a que refiere la fracción III contenida en el registro podrá ser reservada a petición del interesado.
 
@@ -543,9 +609,11 @@ El registro de los vehículos inscritos en la Sección Primera deberá refrendar
 
 El Instituto vigilará que al tiempo de refrendarse el registro de cada vehículo la licencia para conducir de su conductor habitual se encuentre vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 25.
 
-Los titulares de los registros de la Sección Primera deberán presentar, en los formatos autorizados por el Instituto, los siguientes avisos:
+Los titulares de los registros de la Sección Primera deberán presentar, en los formatos o medios autorizados por el Instituto, los siguientes avisos:
 
 I. Cambio de propietario;
 
@@ -561,11 +629,19 @@ VI. Rectificación de datos; y
 
 VII. Registro de la póliza de seguro del automóvil.
 
-Los avisos señalados en las fracciones I, III, IV y VI darán lugar a la expedición de los medios de identificación vehicular respectivos.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+Los avisos señalados en las fracciones I, III, IV y VI darán lugar a la expedición de los medios de identificación vehicular y constancias respectivas.
 
 El aviso señalado en la fracción I sólo aprovechará en favor de la persona que allí se refiera como adquirente.
 
-Los avisos que refiere este artículo deberán presentarse en las oficinas autorizadas por el Instituto, dentro de los diez días hábiles siguientes a la fecha en que haya tenido lugar su causa, acompañándose del medio que la compruebe.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+Los avisos que refiere este artículo deberán presentarse en las oficinas autorizadas por el Instituto, dentro de los treinta días naturales siguientes a la fecha en que haya tenido lugar su causa, acompañándose del medio que la compruebe.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+En las constancias de registro vehicular que expida el Instituto se podrá designar un beneficiario, siempre que este último no tenga impedimento legal alguno para adquirir bienes a su nombre, para lo cual, bastará la presentación del acta de defunción del propietario, los documentos de identificación y licencia de conducir vigente del Estado de Nuevo León del adquirente.
 
 ###### Artículo 26.
 
@@ -875,6 +951,12 @@ Artículo Vigésimo Tercero.- Durante el ejercicio fiscal 2023, tratándose de v
 
 En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
+
+Artículo Vigésimo Cuarto.- Durante el ejercicio fiscal 2025, tratándose de vehículos cuyo modelo sea 2015 o años anteriores, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro, presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
+
+En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
@@ -1024,3 +1106,9 @@ P.O. 17 DE ENERO DE 2025.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 18 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 074. SE REFORMAN LAS FRACCIONES I, VI, XI Y XVI DEL ARTÍCULO 3, LA FRACCIÓN IV DEL ARTÍCULO 4, LAS FRACCIONES VI Y XI DEL ARTÍCULO 11, EL ARTÍCULO 12, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 18, EL ARTÍCULO 20, PRIMER PÁRRAFO DEL ARTÍCULO 21, FRACCIONES IX DEL ARTÍCULO 23, PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DEL ARTÍCULO 25, Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 3, FRACCIÓN VIII DEL ARTÍCULO 4, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 11, LAS FRACCIONES X Y XI DEL ARTÍCULO 23, UN PÁRRAFO QUINTO DEL ARTÍCULO 25, Y UN ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN EL INCISO A), B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2025.
