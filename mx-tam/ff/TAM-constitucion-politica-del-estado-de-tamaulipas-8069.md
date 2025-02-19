@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-02-12"
+last_updated: "2025-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -3107,15 +3107,15 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2025)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, y del Tribunal Electoral del Estado, las personas integrantes del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las y los Secretarios del Ejecutivo, la persona titular de la Fiscalía General de Justicia, de las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, Magistradas y Magistrados del Tribunal de Justicia Administrativa, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales y así como las y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, y del Tribunal Electoral del Estado, las personas integrantes del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las personas titulares de las dependencias de la Administración Pública Estatal, la persona titular de la Fiscalía General de Justicia, de las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, Magistradas y Magistrados del Tribunal de Justicia Administrativa, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales y así como las y los integrantes de los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2025)</small>
 
-Asimismo, la persona titular del Ejecutivo estatal, las y los Diputados al Congreso local, las y los Magistrados del Poder Judicial y del Tribunal de Disciplina Judicial, y los miembros del Pleno del Órgano de Administración Judicial podrán ser sujetos de juicio político, en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+Asimismo, la persona titular del Ejecutivo estatal, las Diputadas y los Diputados al Congreso local, las Magistradas y los Magistrados del Poder Judicial y del Tribunal de Disciplina Judicial, y las y los miembros del Pleno del Órgano de Administración Judicial podrán ser sujetos de juicio político, en términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3133,11 +3133,11 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2025)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial y del Tribunal Electoral del Estado, los miembros del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las y los Secretarios del Ejecutivo, la persona titular de la Fiscalía General de Justicia, las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, la o el Consejero Presidente y las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra la persona imputada.
+Para proceder penalmente contra las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial y del Tribunal Electoral del Estado, los miembros del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las personas titulares de las dependencias de la Administración Pública Estatal, la persona titular de la Fiscalía General de Justicia, las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, la o el Consejero Presidente y las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra la persona imputada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -5471,7 +5471,9 @@ Para determinar cuáles serán los cargos de Magistradas y Magistrados, y Juezas
 
 El Congreso del Estado Libre y Soberano de Tamaulipas tendrá un plazo de treinta días naturales posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección extraordinaria para renovar los cargos del Poder Judicial del Estado de Tamaulipas, conforme al procedimiento previsto en el artículo 109 de este Decreto que resulte aplicable en lo conducente.
 
-El Consejo General del Instituto Electoral de Tamaulipas podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral extraordinario del año 2024-2025 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo General del Instituto Electoral no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2025)</small>
+
+El Consejo General del Instituto Electoral de Tamaulipas podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral extraordinario del año 2024-2025, únicamente cuando esta última función le sea delegada por el Instituto Nacional Electoral en términos de la Constitución Federal y la legislación aplicable, y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo General del Instituto Electoral no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
 
 Las boletas electorales contendrán, entre otros datos, el cargo y, en su caso, circunscripción territorial que corresponda a cada tipo de elección y cualquier dato que se (sic) necesario a juicio del Instituto Electoral; asimismo, llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda.
 
@@ -5624,3 +5626,23 @@ P.O. 12 DE FEBRERO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-245 MEDIANTE EL CUAL SE REFORMAN EL PÁRRAFO SEXTO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 66-67 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGARAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y LOS ARTÍCULOS 364, PÁRRAFO CUARTO; 389, PÁRRAFO PRIMERO, Y 416 DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-246 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 151 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 152 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el caso de las y los Consejeros del Consejo de la Judicatura del Estado, podrán ser sujetos de juicio político hasta un año después de haber concluido su encargo.
