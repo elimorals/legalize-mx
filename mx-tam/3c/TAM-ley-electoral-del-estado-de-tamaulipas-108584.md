@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2025-01-16"
+last_updated: "2025-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2025.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -5663,7 +5663,9 @@ Para acreditar la residencia en el país y en el Estado se podrá presentar cons
 
 Sin perjuicio de lo dispuesto en este artículo, los Comités de Evaluación podrán requerir información a cualquier autoridad que posea documentos para acreditar el derecho de las aspirantes a personas juzgadoras a participar en el proceso de su elección.
 
-Al final del proceso quedarán en el archivo de cada Poder los expedientes de las personas que participaron como candidatas a juzgadoras.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2025)</small>
+
+Al final del proceso, los expedientes de las personas que participaron como candidatas a juzgadoras que le remitan los Comités de Evaluación, quedarán resguardados en el archivo del Poder Legislativo, el cual compartirá una copia de sus respectivos expedientes a los otros Poderes que será certificada por la Secretaría General.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
@@ -6007,11 +6009,13 @@ En el supuesto de no presentar la declinación, se entenderá por aceptada la ca
 
 El Congreso del Estado cancelará las candidaturas de las personas servidoras públicas que omitan informar lo anterior y sean postuladas por alguno de los Poderes del Estado para un cargo, circunscripción, distrito o región judicial diverso al que ocupen.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 389.
 
-El Congreso del Estado estará impedido para pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas por los Comités de Evaluación junto con los expedientes originales de todas las personas aspirantes, y se limitará a integrar y remitir los listados de las postulaciones y sus expedientes originales al IETAM, a efecto de que éste organice el proceso electivo. El Congreso del Estado conservará en sus archivos los originales de los expedientes de las personas que no hayan sido postuladas y una copia certificada de los expedientes de las que si fueron postuladas.
+El Congreso del Estado estará impedido para pronunciarse sobre la elegibilidad o idoneidad de las postulaciones que les sean remitidas por los demás Poderes; asimismo, los Comités de Evaluación le entregarán los expedientes originales de todas las personas aspirantes. El Congreso se limitará a integrar y remitir los listados de las postulaciones y sus expedientes originales al IETAM, a efecto de que éste organice el proceso electivo. El Congreso del Estado conservará en sus archivos los originales de los expedientes de las personas que no hayan sido postuladas y una copia certificada de los expedientes de las que si fueron postuladas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
 El IETAM se limitará a organizar el proceso electivo y estará impedido de pronunciarse sobre la elegibilidad o idoneidad de las postulaciones; sin embargo, su Consejo General deberá emitir un acuerdo de registro de las candidaturas.
 
@@ -6375,11 +6379,11 @@ El Consejo General hará entrega de las Constancias de Mayoría a las candidatur
 
 Emitidas las declaraciones de validez y resultados de todas las elecciones, el Consejo General a través de su Presidencia los comunicará al Tribunal Electoral.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 416.
 
-El Tribunal Electoral resolverá las impugnaciones que se hayan presentado contra los cómputos y las Constancias de Mayoría y declaración de validez a más tardar el 1 de agosto del año de la elección.
+El Tribunal Electoral resolverá las impugnaciones que se hayan presentado contra los cómputos y las Constancias de Mayoría y declaración de validez a más tardar el 20 de agosto del año de la elección.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
@@ -6558,3 +6562,11 @@ Para periodicidad de la elección de las personas juzgadoras se estará a la dur
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 19 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-245 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 66-67, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGARAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y LOS ARTÍCULOS 364, PÁRRAFO CUARTO; 389, PÁRRAFO PRIMERO, Y 416 DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
