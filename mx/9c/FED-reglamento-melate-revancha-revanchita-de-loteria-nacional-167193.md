@@ -4,7 +4,7 @@ identifier: "FED-reglamento-melate-revancha-revanchita-de-loteria-nacional-16719
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-08-04"
-last_updated: "2023-08-04"
+last_updated: "2025-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167193&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-06-27"
 
 REGLAMENTO MELATE – REVANCHA – REVANCHITA DE LOTERÍA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2025.
 
 Reglamento publicado en el Número 4 del Diario Oficial de la Federación, el viernes 4 de agosto de 2023.
 
@@ -63,7 +63,7 @@ Estos constituyen un documento al portador comprendido en la Ley General de Tít
 
 6. Determinación de ganadores.- Es un proceso mediante el cual, en cada sorteo, utilizando los sistemas de cómputo, se determinan los números de los boletos y/o constancias de participación que obtuvieron premiación y el monto de los mismos.
 
-7. Fracciones adquiridas.- Representa una parte del valor de las apuestas que fueron subdivididas entre dos o más Constancias de Participación.
+7. (DEROGADO, D.O.F. 19 DE FEBRERO DE 2025)
 
 8. Medios electrónicos.- Cualquier mecanismo y/o equipo enlazado al sistema de captación de apuestas en línea de Lotería Nacional que permite transmitir las participaciones al computador central quedando almacenado el registro electrónico correspondiente.
 
@@ -97,23 +97,7 @@ El participante seleccionará de 6 (seis) a 10 (diez) números elegidos entre el
 
 4) Coperacha.- Es la selección por dictado del participante o vía Melático, de 30 (treinta) combinaciones sencillas, emitidas por la Terminal en 5 (cinco) boletos. Cada uno de los referidos boletos tendrá impresas las 30 (treinta) combinaciones.
 
-5) “Vaquitas Compras en Comunidad”.- Es una modalidad de compra de varias combinaciones sencillas que participa en los sorteos Melate, Revancha y Revanchita, generadas por el sistema de forma automática en fracciones, las cuales se dividirán en constancias de participación según el tipo de Vaquita adquirida por el participante, conforme a lo siguiente:
-
-Vaquita Tipo 1:
-
-Consiste en 5 (cinco) combinaciones sencillas que serán divididas en 30 (treinta) fracciones, y hasta en 30 constancias de participación.
-
-Vaquita Tipo 2:
-
-Consiste en 10 (diez) combinaciones sencillas que serán divididas en 30 (treinta) fracciones, y hasta en 30 constancias de participación.
-
-Vaquita Tipo 3:
-
-Consiste en 15 (quince) combinaciones sencillas que serán divididas en 30 (treinta) fracciones, y hasta en 30 constancias de participación.
-
-Vaquita Tipo 4:
-
-Consiste en 20 (veinte) combinaciones sencillas que serán divididas en 100 (cien) fracciones, y hasta en 100 constancias de participación.
+5) (DEROGADO, D.O.F. 19 DE FEBRERO DE 2025)
 
 ###### Artículo 6.
 
@@ -145,7 +129,7 @@ El boleto o constancia de participación deberá contener los siguientes datos:
 
 6) Término de caducidad del boleto o constancia de participación: 60 (sesenta) días naturales contados a partir del día siguiente de la celebración del sorteo, y
 
-7) En la modalidad de “Vaquitas Compras en Comunidad”, además, se incluirá el número de fracciones adquiridas, el Tipo de Vaquita, y el porcentaje de premiación al que puede hacerse acreedor.
+7) (DEROGADO, D.O.F. 19 DE FEBRERO DE 2025)
 
 ###### Artículo 8.
 
@@ -251,7 +235,7 @@ Los boletos o constancias de participación que hayan obtenido premio originado 
 
 Los boletos o constancias de participación que hayan obtenido premio originado a través de una Combinación de Coperacha, les corresponderá una quinta parte del total de dicho premio.
 
-Las constancias de participación que hayan obtenido premio originado a través de “Vaquitas Compras en Comunidad”, les corresponderá la parte proporcional de las fracciones adquiridas, de acuerdo al tipo de vaquita y conforme al Artículo 5.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 14.
 
@@ -303,7 +287,7 @@ Los boletos o constancias de participación que hayan obtenido premio originado 
 
 Los boletos o constancias de participación que hayan obtenido premio originado a través de una Combinación de Coperacha, les corresponderá una quinta parte del total de dicho premio.
 
-Las constancias de participación que hayan obtenido premio originado a través de “Vaquitas Compras en Comunidad”, les corresponderá la parte proporcional de las fracciones adquiridas, de acuerdo con el tipo de Vaquita y conforme al Artículo 5.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO [N. DE E. DEL INCISO 5], D.O.F. 19 DE FEBRERO DE 2025)</small>
 
 Cada participación sencilla sólo puede obtener un premio en una de las categorías especificadas.
 
@@ -331,7 +315,7 @@ Con el mismo boleto o constancia de participación de Melate y Revancha, se part
 
 Para Revanchita existe solo una categoría de premiación que consiste en acertar a una combinación de 6 (seis) números del 1 (uno) al 56 (cincuenta y seis).
 
-Las constancias de participación que hayan obtenido premio originado a través de “Vaquitas Compras en Comunidad”, les corresponderá la parte proporcional de las fracciones adquiridas, de acuerdo con el tipo de vaquita y conforme al Artículo 5.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2025)</small>
 
 Cuando en un sorteo no hubiere combinación ganadora a primer lugar, el premio asignado a esta categoría incrementará el premio a primer lugar del siguiente sorteo de Revanchita, de conformidad con las autorizaciones que para tal efecto haya emitido el Consejo Directivo.
 
@@ -434,3 +418,11 @@ Secretario del Consejo Directivo
 Lic. Sergio Eduardo Huacuja Betancourt
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE MODIFICA EL REGLAMENTO MELATE – REVANCHA – REVANCHITA DE LOTERÍA NACIONAL”.]
+
+Único. – El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
