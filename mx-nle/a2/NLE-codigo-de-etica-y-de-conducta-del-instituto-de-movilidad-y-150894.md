@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-y-de-conducta-del-instituto-de-movilidad-y-1508
 country: "mx"
 rank: "codigo"
 publication_date: "2021-08-27"
-last_updated: "2021-08-27"
+last_updated: "2025-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE ETICA Y DE CONDUCTA DEL INSTITUTO DE MOVILIDAD Y ACCESIBILIDAD DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE MOVILIDAD Y ACCESIBILIDAD DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 19 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DEL INSTITUTO DE MOVILIDAD Y ACCESIBILIDAD DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2025 (ABROGADO).
 
 Código publicado en el Número 104 del Periódico Oficial del Estado de Nuevo León, el viernes 27 de agosto de 2021.
 
@@ -792,3 +794,17 @@ En caso de que las conductas denunciadas puedan constituir alguna responsabilida
 ING. NOÉ GERARDO CHÁVEZ MONTEMAYOR
 
 DIRECTOR GENERAL EN FUNCIONES DEL INSTITUTO DE MOVILIDAD Y ACCESIBILIDAD DE NUEVO LEÓN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO DE MOVILIDAD Y ACCESIBILIDAD DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente documento actualizado, es publicado por el Instituto de Movilidad y Accesibilidad de Nuevo León en el Periódico Oficial del Estado y se difunde en la página oficial de internet del Instituto, con la finalidad de hacerlo del conocimiento de las personas servidoras públicas adscritas al mismo y al público en general
+
+TERCERO.- Se abroga el "Código de Ética y de Conducta del Instituto de Movilidad y Accesibilidad de Nuevo León, publicado en el Periódico Oficial del Estado en fecha 27-veintisiete de agosto del año 2021-dos mil veintiuno.
+
+CUARTO.- Cualquier situación no prevista en el presente Código, la resolverá el Comité de Ética y de Prevención de Conflictos de Interés (CEPCI) del Instituto de Movilidad y Accesibilidad de Nuevo León.
