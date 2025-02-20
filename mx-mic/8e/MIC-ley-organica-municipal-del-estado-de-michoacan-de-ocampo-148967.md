@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2024-05-28"
+last_updated: "2025-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -767,7 +767,9 @@ I. Prestar, en su circunscripción territorial en los términos de la Constituci
 
 Para la prestación del servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, se deberá tomar en cuenta lo establecido en el Plan de Desarrollo Municipal, el cual incluirá en detalle un cronograma de medidas y acciones a implementar para garantizar el buen funcionamiento, la adecuada prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento, además de la detección, extracción, conducción, distribución, tratamiento y reúso de aguas residuales en el municipio. Asimismo, los indicadores para cumplir con los siguientes objetivos: asegurar la aplicación de la normatividad en la materia de agua potable y los límites máximos permisibles de contaminantes de las aguas residuales; y mejorar el funcionamiento de la infraestructura de tratamiento de aguas residuales, contemplando la posible construcción de plantas de tratamiento y colectores con un enfoque integral;
 
-II. Realizar sus políticas y programas de gobierno, en coordinación con los Gobiernos Estatal y Federal y la sociedad organizada;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2025)</small>
+
+II. Desarrollar Políticas, Programas y Acciones de Gobierno, en coordinación con los Gobiernos Estatal y Federal y la sociedad organizada, con base a los principios de no discriminación, igualdad sustantiva y equidad de género;
 
 III. Auxiliar en su circunscripción territorial a las Autoridades Federales y Estatales, en el cumplimiento de los asuntos de su competencia;
 
@@ -791,9 +793,13 @@ XII. Rendir a la población, por conducto de la Presidenta o Presidente Municipa
 
 XIII. Expedir y reformar en su caso, el Bando de Gobierno Municipal en el cual se establezca la delimitación territorial de las Jefaturas de Tenencia y Encargatura del Orden, mencionando todas las comunidades del Municipio y notificar al Congreso del Estado cada que actualice el mismo;
 
-XIV. Expedir y reformar en su caso los reglamentos municipales necesarios para el mejor funcionamiento del Ayuntamiento;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2025)</small>
 
-XV. Integrar comisiones de trabajo para el estudio y atención de los servicios municipales;
+XIV. Expedir y reformar en su caso los reglamentos municipales necesarios para el mejor funcionamiento del Ayuntamiento, tomando en consideración los derechos a la no discriminación, la igualdad sustantiva y la equidad de género;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2025)</small>
+
+XV. Integrar comisiones de trabajo para el estudio y atención de los servicios municipales, tomando en consideración la igualdad sustantiva y la equidad y paridad de género;
 
 XVI. Conceder fundadamente a sus integrantes licencias hasta por dos meses y hasta por seis meses a las empleadas y empleados municipales;
 
@@ -818,6 +824,10 @@ XXIV. Integrar la lista de aspirantes para elegir a la Comisaria o Comisario del
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
 
 XXV. Proponer, y aprobar en su caso, el nombramiento y remoción de la Comisaria o Comisario del Organismo Operador del Agua Potable, Alcantarillado y Saneamiento del Municipio; así como denunciar a la Auditoría Superior de Michoacán, si fuera el caso; los actos u omisiones de responsabilidad graves en que pueda incurrir al ejercer el cargo debiendo dar el seguimiento respectivo la Sindicatura.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2025)</small>
+
+XXVI. Fomentar e impulsar la participación social, económica, cultural y política, dirigida a lograr la igualdad entre mujeres y hombres en todo el territorio municipal.
 
 b).- En materia de Administración Pública:
 
@@ -871,13 +881,21 @@ XXIV. Implementar la mejora regulatoria en sus procesos administrativos regulán
 
 XXV. Contar con una Secretaría o Dirección de Obras Públicas, vigilando que la Directora o Director de Obras Públicas o su equivalente cumpla con el perfil idóneo y con los requisitos de ser ciudadana o ciudadano michoacano en pleno ejercicio de sus derechos políticos y civiles; ser profesionista en las áreas de arquitectura y/o ingenierías relacionados a la construcción, tener experiencia en alguna de ellas de cuando menos dos años; así como no haber sufrido condena por delito doloso; y,
 
-XXVI. Crear las instancias municipales de las mujeres, con la finalidad de promover su desarrollo integral en aras de lograr su plena incorporación a la vida económica, política, cultural y social; así como, coadyuvar en la prevención y atención de la violencia contra las mujeres por razones de género, que deberán tener al menos el rango de Dirección de Atención a la Mujer, pudiendo ser una Secretaría o Instituto; que se encargará de atender todos los temas relacionados con las mujeres.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2025)</small>
 
-Las instancias tendrán como Directora o Director a una persona que cuente con conocimientos en materia de perspectiva de género y derechos humanos. El Ayuntamiento deberá contar con personal jurídico y psicológico para brindar asesoría a las mujeres, víctimas de violencia y discriminación.
+XXVI. Crear como Unidad Programática Presupuestal, la Dirección Municipal de Atención a la Mujer, o su Secretaría u Instituto Municipal, equivalente, cuya titular será mujer y tendrá al menos el rango de directora general municipal y un salario equiparable a su cargo que no podrá ser menor al de otros cargos análogos.
 
-La Dirección deberá vincularse con las áreas municipales que estime necesario, mismas que deberán brindar todo el apoyo y prestar las facilidades para su funcionamiento.
+La titular de la dirección o de la dependencia municipal homóloga de atención a la mujer, deberá contar con conocimientos y experiencia en la atención de los derechos de las mujeres. No podrá ser titular la ciudadana que se encuentre en alguno de los supuestos establecidos en la fracción VII del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Ayuntamiento de acuerdo a su capacidad presupuestaria, deberá dotar a las Direcciones de Atención a la Mujer de un espacio físico, personal calificado y mobiliario indispensable para atender a quienes soliciten el apoyo; y deberá vigilar en todo momento, que la Dirección cumpla su función.
+En su presupuesto establecido como Unidad Presupuestal del Municipio, la dirección o la dependencia municipal homóloga de atención a la mujer, tendrá los recursos presupuestales asignados, que le garanticen la suficiencia presupuestaria suficiente para la contratación de los recursos humanos necesarios, en especial del personal jurídico, de trabajo social, psicológico y tanatológico, así como para contar con el equipo y mobiliario indispensable y un espacio de atención físico digno, con la finalidad de atender las necesidades de las mujeres, que soliciten apoyo dentro del Municipio. El presupuesto que se le asigne nunca podrá ser menor al del ejercicio fiscal del año anterior.
+
+Tratándose de fondos y subsidios, ya sean públicos o privados, estatales o federales obtenidos para el financiamiento de programas específicos, así como las acciones, derechos y productos adquiridos por cualquier otro título legal, deberán destinarse exclusivamente a la operatividad de la dirección o dependencia municipal homóloga de la atención a la mujer.
+
+En los ayuntamientos, donde se encuentren presentes comunidades indígenas, se deberá de contar con una traductora, que hable la lengua nativa de las comunidades, y se desarrollarán protocolos de atención a las mujeres indígenas en su propia lengua, respetando su cultura, cuidando la dignidad e integridad de las mujeres indígenas, salvaguardando en todo momento la protección de los derechos que les confieren las leyes estatales y federales.
+
+La dirección o dependencia municipal homóloga de atención a la mujer se encargará del desarrollo integral de las mujeres del municipio en aras de lograr su plena incorporación a la vida económica, política, cultural y social, y conforme a la legislación federal y estatal en la materia, participará en la prevención y atención de la violencia contra las mujeres por razones de género.
+
+Las diversas áreas y autoridades del ayuntamiento tendrán la obligación de vincularse con dicha institución municipal, para la atención integral de la mujer en el municipio y para la prevención y atención de la violencia contra las mujeres por razones de género, conforme lo mandata la legislación en la materia. Es obligación del ayuntamiento atender y supervisar las acciones de la dirección o dependencia municipal homóloga de atención a la mujer.
 
 c).- En materia de Hacienda Pública:
 
@@ -2541,6 +2559,20 @@ IX. Contribuir al bienestar de las servidoras y servidores públicos municipales
 
 X. Garantizar la profesionalización de las servidoras y servidores públicos municipales;
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2025)</small>
+
+###### Artículo 132 Bis.
+
+Las y los servidores públicos municipales, que atiendan funciones en la dirección o dependencia municipal homóloga de atención a la mujer, de forma especial en las materias jurídica o de atención psicológica, participarán en el servicio civil de carrera, a efectos de garantizar la atención y el seguimiento institucional de la atención a las mujeres, cumpliendo los siguientes requisitos:
+
+I. Ser mexicana o mexicano por nacimiento, mayor de edad, y estar en pleno uso de sus facultades mentales;
+
+II. Contar con certificado de estudios, título o cedula profesional que avale su profesión o carrera técnica en la cual se desempeñe;
+
+III. Contar preferentemente con conocimientos o experiencia profesional comprobables en la atención de asuntos o casos relacionados con los derechos de las mujeres, equidad y perspectiva de género; y,
+
+IV. No deberán estar en alguno de los supuestos establecidos en la fracción VII del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 133.
 
 Para la institucionalización del Servicio Civil de Carrera, los Ayuntamientos establecerán:
@@ -3552,3 +3584,13 @@ P.O. 28 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 652 POR EL QUE "SE REFORMAN LAS FRACCIONES IX Y X Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 77 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 93 POR EL QUE “SE REFORMAN LAS FRACCIONES II, XIV, Y XV; Y, SE ADICIONA LA FRACCIÓN XXVI DEL APARTADO A; SE REFORMA LA FRACCIÓN XXVI DEL APARTADO B DEL ARTÍCULO 40; Y, SE ADICIONA UN ARTÍCULO 132 BIS, A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los Municipios del Estado, deberán en su presupuesto de egresos del ejercicio fiscal del año próximo a la entrada en vigor del presente Decreto incluir los recursos necesarios para el cumplimiento del mismo.
+
+TERCERO. Los Municipios del Estado, deberán adecuar su reglamentación municipal, a lo mandatado en el presente Decreto, en un máximo de 90 días naturales a partir de su entrada en vigor.
