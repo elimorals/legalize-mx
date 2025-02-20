@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2024-05-28"
+last_updated: "2025-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -925,11 +925,11 @@ XXIV. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 XXV. Las demás que prevean necesarias para cumplir los acuerdos del Consejo
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 31.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría General (sic) Gobierno, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interior y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría General de Gobierno, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento interior, los manuales de organización y de procedimientos correspondientes, así como el servicio profesional de carrera que el mismo determine, y su objeto será soportar el cumplimiento de las atribuciones que le competen a la o al Secretario Ejecutivo.
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PUBLICA
 
@@ -2049,6 +2049,10 @@ El procedimiento del servicio considerará desde la recepción de la llamada tel
 
 El Secretario Ejecutivo definirá la plataforma tecnológica en función de los acuerdos del Consejo Nacional y será el responsable del servicio, que administrará y operará por medio del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2025)</small>
+
+ARTICULO 121 BIS. Los servicios de comunicación telefónica bajo indicativo nacional 911 y 089 a que hace referencia el presente capítulo, contarán con un servicio profesional de carrera de carácter obligatorio y permanente, brindará oportunidades de formación y desarrollo a través de los principios constitucionales de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos, cuya regulación se precisará en la normatividad secundaria correspondiente.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2022)</small>
 
 ### CAPITULO V. DEL CENTRO GENERAL DE COORDINACION, COMANDO, CONTROL, COMUNICACIONES, COMPUTO E INTELIGENCIA
@@ -2614,3 +2618,19 @@ En un plazo no mayor a sesenta días naturales, contados a partir de la entrada 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-243 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 31; Y SE ADICIONA EL ARTÍCULO 121 BIS DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría General de Gobierno, en coordinación con la Contraloría Gubernamental y la Secretaría de Administración, realizará las adecuaciones administrativas, presupuestales y normativas correspondientes al presente Decreto, en un término de 60 días naturales.
+
+###### ARTÍCULO TERCERO.
+
+El Secretariado Ejecutivo del Sistema de Seguridad Pública deberá expedir la normatividad secundaria del Servicio Profesional de Carrera de los servicios de emergencia 911 y de denuncia ciudadana 089, en un término de 60 días naturales. Asimismo, deberá realizar las modificaciones administrativas y presupuestales correspondientes en el mismo término.
