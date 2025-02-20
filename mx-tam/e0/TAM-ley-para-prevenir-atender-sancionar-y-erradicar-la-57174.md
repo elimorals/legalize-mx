@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2024-08-20"
+last_updated: "2025-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -107,23 +107,27 @@ Los tipos de violencia contra las mujeres son:
 
 a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2025)</small>
+
+b) Emocional: Cualquier comportamiento o acto que se centre en el impacto emocional, que cause daño, sufrimiento o desestabilización emocional, control, humillación, aislamiento y otros métodos que buscan dominar y someter a la mujer;
+
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
-b) Física: cualquier acción u omisión que produzca un daño en la mujer, provocado por la utilización de fuerza física o algún objeto arma, ácido o sustancias corrosivas, cáustica, irritante, tóxica, inflamable o cualquier otra sustancia capaz de provocar una lesión interna, externa o ambas;
+c) Física: cualquier acción u omisión que produzca un daño en la mujer, provocado por la utilización de fuerza física o algún objeto arma, ácido o sustancias corrosivas, cáustica, irritante, tóxica, inflamable o cualquier otra sustancia capaz de provocar una lesión interna, externa o ambas;
 
-c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
+d) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
-d) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor en el desempeño de un trabajo, ocupación, cargo, ejercicio, ejecución, práctica, cumplimiento o función igual en puesto y jornada dentro de un mismo centro de trabajo;
+e) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor en el desempeño de un trabajo, ocupación, cargo, ejercicio, ejecución, práctica, cumplimiento o función igual en puesto y jornada dentro de un mismo centro de trabajo;
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-e) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad, integridad, libertad y seguridad;
+f) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad, integridad, libertad y seguridad;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE OCTUBRE DE 2023)</small>
 
-f) Obstétrica: toda acción u omisión que ejerza el personal médico o de salud, que dañe, lastime, denigre o cause la muerte durante el embarazo, parto o puerperio, que puede expresarse, entre otras, en las siguientes conductas:
+g) Obstétrica: toda acción u omisión que ejerza el personal médico o de salud, que dañe, lastime, denigre o cause la muerte durante el embarazo, parto o puerperio, que puede expresarse, entre otras, en las siguientes conductas:
 
 I. La negligencia en su atención propiciada por la falta de un trato humanizado;
 
@@ -151,13 +155,13 @@ VIII. Usar el parto como recurso didáctico formativo, sin el consentimiento con
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-g) Simbólica: la que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en sociedad; y
+h) Simbólica: la que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en sociedad; y
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
 
-h) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer.
+i) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer.
 
-i) (DEROGADO, P.O. 14 DE JULIO DE 2021)
+j) (DEROGADO, P.O. 14 DE JULIO DE 2021)
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1664,6 +1668,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-889 MEDIANTE EL CUAL SE REFORMA LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS; Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-242 MEDIANTE EL CUAL SE ADICIONA EL INCISO B), RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL, AL ARTÍCULO 3 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
