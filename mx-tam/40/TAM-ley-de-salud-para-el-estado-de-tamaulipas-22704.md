@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2024-10-15"
+last_updated: "2025-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -173,7 +173,9 @@ N).- La salud ocupacional y el saneamiento básico;
 
 O).- La prevención y el control de enfermedades transmisibles;
 
-P).- La prevención y el control de las enfermedades no transmisibles y accidentes;
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
+
+P).- La prevención y el control de las enfermedades no transmisibles, sindemias y accidentes;
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -312,6 +314,10 @@ XVI.- Responsabilidad de los servidores públicos.- Las señaladas en la Ley de 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 XVII.- Salud.- Derecho humano fundamental e indispensable para el ejercicio de los demás derechos humanos. Todo ser humano tiene derecho al disfrute del más alto nivel posible de salud que le permita vivir dignamente. Se entiende como un estado de completo bienestar físico, mental y social, y no solamente como ausencia de infecciones o enfermedades;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2025)</small>
+
+XVII Bis.- Sindemia: Conjunto de dos o más enfermedades o condiciones de salud que interactúan y se agravan mutuamente, afectando de manera desproporcionada a grupos de población que comparten condiciones sociales o ambientales adversas;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -735,7 +741,9 @@ Para los efectos del derecho de la protección de la salud, se consideran servic
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
-II.- La prevención y el control de las enfermedades transmisibles, de las no transmisibles más frecuentes y de los accidentes;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2025)</small>
+
+II.- La prevención y el control de las enfermedades transmisibles, de las no transmisibles más frecuentes, sindemias y de los accidentes;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
@@ -1621,6 +1629,8 @@ La Secretaría de Salud realizará acciones de inspección directa en los establ
 
 ### CAPITULO III. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 76.
 
 La Secretaría, en coordinación con las autoridades sanitarias federales, y en su caso las municipales, elaborarán programas y campañas temporales o permanentes para el control o erradicación de enfermedades e infecciones transmisibles que constituyan un riesgo para la salud a la población.
@@ -1743,11 +1753,13 @@ La Secretaría determinará la forma de disponer de los productos, subproductos,
 
 ###### ARTICULO 88.
 
-La Secretaría coordinará y realizará actividades, en su caso, con organismos públicos y privados, para la investigación, prevención y control de las enfermedades no transmisibles.
+La Secretaría coordinará y realizará actividades, en su caso, con organismos públicos y privados, para la investigación, prevención y control de las enfermedades no transmisibles y sindemias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 89.
 
-El ejercicio de la acción de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+El ejercicio de la acción de prevención y control de las enfermedades no transmisibles y sindemias, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
 I.- La detección oportuna y la evaluación del riesgo de contraerlas;
 
@@ -4096,3 +4108,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El cumplimiento del presente Decreto estará sujeto a la disponibilidad presupuestal durante el presente año fiscal, y deberá tomarse en cuenta para que sea garantizada su aplicación en el siguiente ejercicio fiscal.
+
+P.O. 20 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-244 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3°, FRACCIÓN I, INCISO P); 17, FRACCIÓN II; 88 Y 89; Y SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 5°, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
