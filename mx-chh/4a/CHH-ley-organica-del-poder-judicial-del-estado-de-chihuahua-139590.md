@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2024-01-10"
+last_updated: "2025-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -447,19 +447,25 @@ La autoridad correspondiente deberá aceptar la renuncia en tres días y hacer s
 
 Las y los servidores públicos del Poder Judicial percibirán por sus servicios la remuneración que les asigne el Presupuesto de Egresos del Estado o la autoridad que determine la ley.
 
-Las Magistradas y los Magistrados concluirán su encargo una vez que cumplan el plazo de quince años por el que fueron nombrados, y continuarán recibiendo las mismas prestaciones que perciben los que se encuentren en activo, por un periodo de siete años.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
 
-Las Magistradas y los Magistrados que conforme a la Ley de Pensiones Civiles del Estado y la presente, por ser atinentes en la materia, cumplan con los requisitos para gozar de la jubilación, y además hayan desempeñado el cargo de titular de una Magistratura cuando menos por cinco años, concluirán su encargo y cesarán en sus funciones cuando esto último suceda, siempre que consientan su retiro, caso en que recibirán el haber de retiro por siete años en los términos del párrafo anterior; pero si deciden continuar en el cargo hasta concluir el periodo para el que fueron electos o se desempeñen en el mismo por un plazo mayor a diez años, podrán optar entre el haber de retiro por siete años o por el cincuenta por ciento de las percepciones de las Magistradas y los Magistrados en activo hasta su fallecimiento.
+Las magistradas y los magistrados, juezas y jueces, concluirán su encargo una vez que cumplan el plazo constitucional por el que fueron elegidos.
 
-En caso de fallecimiento de las Magistradas y los Magistrados durante el ejercicio del cargo o en época de haber de retiro o jubilación, su cónyuge y sus hijas e hijos menores o incapaces tendrán derecho a una pensión equivalente al cincuenta por ciento de la remuneración que le corresponda a la Magistrada o Magistrado. En el supuesto de encontrarse en el ejercicio de su encargo, el derecho durará los siete años siguientes a su fallecimiento; y de estar en la época de percepción del haber o jubilación, la remuneración se entregará por el tiempo que restare de esa prestación o de manera vitalicia, según corresponda; en el caso de las Magistradas y los Magistrados nombrados antes del decreto 579/2014 I P.O., sus dependientes tendrán derecho a recibir ese beneficio de manera vitalicia.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
 
-Las y los menores de edad perderán este beneficio al cumplir la mayoría de edad, salvo que se encuentren estudiando, caso en que podrá extenderse este derecho hasta los veinticinco años. Tratándose de personas incapaces cuando por resolución judicial se declare la conclusión de ese estado.
+Las personas juzgadoras referidas en el párrafo anterior que, conforme a la Ley de Pensiones Civiles del Estado de Chihuahua y la presente, cumplan con los requisitos para gozar de la jubilación o una pensión, y además hayan desempeñado el cargo como titulares al menos por cinco años, en los términos de la presente Ley, podrán voluntariamente renunciar a su encargo y recibir las prestaciones que las mismas establecen a su favor.
 
-Lo anterior, sin perjuicio de las percepciones que correspondan, según la Ley de Pensiones Civiles del Estado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE FEBRERO DE 2025)</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 20 DE FEBRERO DE 2025)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 20 DE FEBRERO DE 2025)</small>
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 30.
 
-Las Juezas y los Jueces de primera instancia, y las Secretarias y los Secretarios de Sala del Poder Judicial, al jubilarse o pensionarse, conforme a la Ley de Pensiones Civiles del Estado, continuarán recibiendo el cincuenta por ciento de la compensación que perciben los funcionarios en activo en el cargo o categoría que ocupaban cuando se hubieren jubilado, siempre y cuando tuvieren una antigüedad de cinco años con dicha percepción.
+Las secretarias y los secretarios de Sala del Poder Judicial, al jubilarse o pensionarse, conforme a la Ley de Pensiones Civiles del Estado, podrán continuar recibiendo de manera complementaria, el cincuenta por ciento de la compensación que perciben sus homólogos en activo, a manera de pensión complementaria, siempre y cuando tuvieren una antigüedad de cinco años con dicha percepción, desempeñando dicho cargo.
 
 ###### Artículo 31.
 
@@ -3576,3 +3582,73 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVIII/RFLEY/0189/2025 III P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 29, PÁRRAFOS SEGUNDO Y TERCERO; Y 30; Y SE DEROGAN DEL ARTÍCULO 29, LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las y los titulares de Magistratura y juzgados, que exclusivamente y con motivo de la entrada en vigor del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial", publicado en el Diario Oficial de la Federación, el 15 de septiembre de 2024, y la propia del Estado de Chihuahua, deban retirarse del cargo antes de concluir el periodo por el que fueron designados, por declinar o manifestar que no es su deseo participar en el proceso de elección, podrán, con cargo al Presupuesto de Egresos del Poder Judicial del Estado, por única ocasión y antes del 25 de febrero del año 2025:
+
+I.- Solicitar una pensión o jubilación que establece la Ley de Pensiones Civiles del Estado de Chihuahua y demás leyes aplicables, si cumplen con los requisitos que las mismas establecen, finiquitándose su relación laboral con las prestaciones laborales proporcionales que les correspondan, según sea el caso.
+
+Las y los juzgadores que se encuentren disfrutando de las prestaciones previstas en los párrafos segundo y tercero del artículo 29, vigente al momento de la presente reforma, no se verán afectados por la entrada en vigor de este Decreto.
+
+II.- Las personas juzgadoras titulares que no puedan acceder a una pensión o jubilación, en los términos de la Ley de Pensiones Civiles del Estado de Chihuahua; al pago de un finiquito por el importe equivalente a tres meses de sueldo base y demás prestaciones laborales ordinarias, así como a un porcentaje de la compensación mensual que recibían como activos al momento de la entrada en vigor de la presente reforma, a la fecha de su baja en el cargo, si su antigüedad laboral es igual o mayor a los 10 años de servicio en el Poder Judicial del Estado, se realizará conforme a la siguiente tabla:
+
+ANTIGÜEDAD PORCENTAJE
+
+10 50.00.
+
+11 51.00
+
+12 52.00
+
+13 53.00
+
+14 54.00
+
+15 55.00
+
+16 56.00
+
+17 57.00
+
+18 58.00
+
+19 59.00
+
+20 60.00
+
+21 61.00
+
+22 62.00
+
+23 63.00
+
+24 64.00
+
+25 65.00
+
+26 66.00
+
+27 67.00
+
+28 68.00
+
+29 69.00
+
+32 72.00
+
+El pago proporcional de la compensación será a manera de pensión complementaria, misma que tendrá un incremento anual conforme al Índice Nacional de Precios al Consumidor que determine el Instituto Nacional de Estadística y Geografía (INEGI).
+
+En el caso de que el exjuzgador ingrese a laborar a la Administración Pública local, es decir, al Poder Judicial del Estado, los restantes poderes, las entidades paraestatales dependientes de los mismos o a los organismos constitucionales autónomos y reciba una compensación adicional a su sueldo sujeto a cotización, con excepción de las actividades de docencia, la compensación a manera de pensión complementaria que se menciona en el párrafo anterior se extinguirá.
+
+III.- Al pago de una liquidación laboral, en una sola exhibición al momento de su baja, equivalente a tres meses de salario diario integrado y de veinte días de salario por cada año de servicio prestado, incluyendo su compensación si su antigüedad laboral es menor a 10 años, en el Poder Judicial del Estado de Chihuahua.
+
+TERCERO.- El pago de las prestaciones que, de manera complementaria a las pensiones y jubilaciones otorgadas en los términos de la Ley de Pensiones Civiles del Estado de Chihuahua, hayan recibido los integrantes del Poder Judicial del Estado de Chihuahua ya en retiro, o sus beneficiarios familiares, ante el fallecimiento de los mismos, no tendrán afectación alguna, pero sus incrementos anuales serán conforme al Índice Nacional de Precios al Consumidor que determine el Instituto Nacional de Estadística y Geografía (INEGI).
+
+CUARTO.- Se amplía el plazo establecido en el Artículo Cuarto Transitorio de la Ley Electoral Reglamentaria de los artículos 99, 100, 101, 102 y 103 de la Constitución para Elegir Personas Juzgadoras del Estado de Chihuahua, al 27 de febrero de 2025 para que el Consejo de la Judicatura envíe al Congreso del Estado, el listado que contenga los nombres de las personas en funciones en el cargo que desean contender, las personas que declinan su participación o participan por otro cargo distinto, ya sea en el Poder Judicial Estatal o Federal.
+
+Las personas juzgadoras que decidan acogerse a los beneficios contenidos en la presente reforma, deberán hacerlo del conocimiento del Consejo de la Judicatura, a más tardar el 25 de febrero de 2025.
