@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2025-02-06"
+last_updated: "2025-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -269,9 +269,19 @@ XVII. Elaborar un padrón respecto de las niñas y niños que viven con sus madr
 
 XVIII. Facilitar las visitas de las niñas y niños a sus madres que se encuentran en los centros penitenciarios; y,
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2025)</small>
 
-XIX. Estructurar, diseñar y ejecutar programas que garanticen el pleno ejercicio de los derechos constitucionales de la mujer en estado de embarazo, creando una cultura de no violencia y concientización sobre el trato a las mujeres gestantes;
+XIX. Estructurar, diseñar y ejecutar programas que garanticen el pleno ejercicio de los derechos constitucionales de la mujer en estado de embarazo, creando una cultura de no violencia y concientización sobre el trato a las mujeres gestantes, así como la autonomía económica, la capacitación laboral, el autoempleo y su desarrollo personal.
+
+Las mujeres embarazadas, que estén en los supuestos de lo establecido en el artículo 5, fracción V de la presente Ley, tendrán derecho a lo siguiente:
+
+a) A la gratuidad del pago de inscripción, mensualidades y materiales en la totalidad de los cursos proporcionados por el Instituto de Capacitación para el Trabajo del Estado de Michoacán; y,
+
+b) A recibir un apoyo económico mensual no menor a diez veces el valor diario de la Unidad de Medida y Actualización, hasta por seis meses. Conforme al presupuesto progresivo anualmente, programas, acciones y a las reglas de operación que se elaboren para esta finalidad.
+
+Para dar cumplimiento a lo anteriormente establecido, el DIF Michoacán, en coordinación con la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres, así como el Instituto de Capacitación para el trabajo del Estado de Michoacán, elaborarán los convenios respectivos para su cumplimiento.
+
+El DIF Michoacán difundirá a los sistemas municipales, por los medios que considere que tengan mayor cobertura en el territorio del Estado, las convocatorias y requisitos a cumplir.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE OCTUBRE DE 2024)</small>
 
@@ -722,3 +732,11 @@ P.O. 6 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 143 POR EL QUE "SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 22 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo".]
+
+P.O. 20 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 96 POR EL QUE “SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 9° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El DIF Michoacán en un plazo no mayor a 90 días naturales, deberá hacer las adecuaciones presupuestales en sus programas, para la inclusión de las mujeres embarazadas, para dar cumplimiento al presente decreto.
