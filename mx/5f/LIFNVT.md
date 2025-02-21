@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2024-04-30"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -48,6 +48,10 @@ Esta Ley es de utilidad social y de observancia general en toda la República.
 
 Se crea un organismo de servicio social con personalidad jurídica y patrimonio propio, que se denomina "Instituto del Fondo Nacional de la Vivienda para los Trabajadores", con domicilio en la Ciudad de México.
 
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+La presente Ley tiene por objeto regular la organización, administración, operación, desarrollo, control, vigilancia y rendición de cuentas del Instituto, atendiendo a sus objetivos y a la naturaleza de sus funciones.
+
 ###### ARTICULO 3o.
 
 El Instituto tiene por objeto:
@@ -58,7 +62,9 @@ II.- Establecer y operar un sistema de financiamiento que permita a los trabajad
 
 a).- La adquisición en propiedad de habitaciones cómodas e higiénicas,
 
-b).- La construcción, reparación, ampliación o mejoramiento de sus habitaciones, y
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+b).- La construcción, reparación, ampliación o mejoramiento de sus viviendas, y
 
 c).- El pago de pasivos contraídos por los conceptos anteriores;
 
@@ -66,13 +72,41 @@ c).- El pago de pasivos contraídos por los conceptos anteriores;
 
 d).- La adquisición en propiedad de suelo destinado para la construcción de sus habitaciones;
 
-III.- Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores; y
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-IV.- Lo demás a que se refiere la fracción XII del Apartado A del Artículo 123 Constitucional y el Título Cuarto, Capítulo III de la Ley Federal del Trabajo, así como lo que esta ley establece.
+III.- Coordinar, financiar, ejecutar o invertir en programas de construcción y administración de viviendas destinadas a ser adquiridas en propiedad o en arrendamiento social por las personas trabajadoras;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+IV.- Otorgar en arrendamiento social los inmuebles que se construyan o que sean bienes recuperados en apoyo a las personas trabajadoras;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+V.- Construir viviendas, para lo cual constituirá una empresa filial en términos de la legislación mercantil;
+
+> <small>(REFORMADAY REUBICADA ANTES FRACCIÓN IV, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+VI.- Ejecutar los demás supuestos a que se refieren la fracción XII del Apartado A del Artículo 123 Constitucional y el Título Cuarto, Capítulo III de la Ley Federal del Trabajo, así como lo que esta Ley establece, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+VII.- Ejecutar los demás objetivos que apruebe a nivel estratégico la Asamblea General en el plan financiero.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+El Instituto realizará sus actividades, operaciones o servicios necesarios para el cumplimiento, directo o indirecto, de su objeto por sí mismo o mediante la celebración de contratos, convenios, alianzas o asociaciones o cualquier acto jurídico, los cuales podrán incluir cualquiera de los términos permitidos por el derecho privado, debiendo cumplir con la regulación aplicable en las materias que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+El Instituto para llevar a cabo la construcción de viviendas contará con una empresa filial la que por su naturaleza jurídica no será considerada entidad paraestatal, gozará de plena capacidad de gestión para el ejercicio de sus funciones y el cumplimiento de su objeto, en términos del derecho privado. La empresa filial deberá contribuir al cumplimiento de los objetivos y políticas de orden público e interés social del Instituto, observando los principios de legalidad, honradez, transparencia, eficiencia, eficacia, economía, austeridad y combate a la corrupción.
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 4o.
 
-El Instituto cuidará que sus actividades se realicen dentro de una política integrada de vivienda y desarrollo urbano. Para ello podrá coordinarse con otros organismos públicos.
+El Instituto cuidará que sus actividades se realicen dentro de una política integrada de vivienda y desarrollo urbano, considerando criterios ambientales, sociales y de gobierno corporativo. Para ello podrá coordinarse con los sectores público, privado o social.
+
+El Instituto deberá desempeñar sus actividades en materia de vivienda en apego a los planes de desarrollo urbano, para lo cual deberá coordinarse con las autoridades estatales y municipales para procurar su formulación, actualización y cumplimiento.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -80,49 +114,59 @@ El Instituto cuidará que sus actividades se realicen dentro de una política in
 
 El patrimonio del Instituto se integra:
 
-I.- Con las aportaciones en numerario, servicios y subsidios que proporcione el Gobierno Federal;
+I.- (DEROGADA, D.O.F. 21 DE FEBRERO DE 2025)
 
-II.- Con las cantidades y comisiones que obtenga por los servicios que preste, los cuales se determinarán en los términos de los reglamentos respectivos;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+II.- Con las cantidades y comisiones que obtenga por los servicios que preste, tanto a particulares como entes públicos de los tres órdenes de gobierno, los cuales se determinarán en los términos de las políticas que emita el Consejo de Administración;
 
 III.- Con los montos que se obtengan de las actualizaciones, recargos, sanciones y multas;
 
 IV.- Con los bienes y derechos que adquiera por cualquier título, y
 
-V.- Con los rendimientos que obtenga de la inversión de los recursos a que se refiere este artículo.
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-Las aportaciones de los patrones a las subcuentas de vivienda son patrimonio de los trabajadores.
+V.- Con los rendimientos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+Las aportaciones de personas empleadoras a las subcuentas de vivienda son patrimonio de las personas trabajadoras y en su conjunto conformarán el Fondo Nacional de la Vivienda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 6o.
 
-Los órganos del Instituto serán: la Asamblea General, el Consejo de Administración, la Comisión de Vigilancia, el Comité de Auditoría, el Director General, dos Directores Sectoriales, la Comisión de Inconformidades, el Comité de Transparencia y las Comisiones Consultivas Regionales.
+Los órganos del Instituto serán: la Asamblea General, el Consejo de Administración, la Comisión de Vigilancia, el Comité de Auditoría, la Dirección General, la Comisión de Inconformidades, el Comité de Transparencia y las Comisiones Consultivas Regionales.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-Los integrantes de los órganos del Instituto serán responsables para con éste por el cumplimiento de las obligaciones que esta Ley les impone.
+Los integrantes de los órganos colegiados del Instituto no recibirán remuneración alguna por el desempeño de su función, pero serán responsables por el cumplimiento de las obligaciones que esta Ley les impone.
 
 > <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2017)</small>
 
 Los integrantes del Consejo de Administración, de la Comisión de Vigilancia, del Comité de Auditoría, de la Comisión de Inconformidades, del Comité de Transparencia y de las Comisiones Consultivas Regionales, que en cualquier asunto relacionado con el mismo tuvieren o conocieren de un posible conflicto de intereses personal o de alguno de los demás miembros del Órgano, deberán manifestarlo y, el que tuviere el conflicto, abstenerse de toda intervención en dicho asunto. Igualmente deberán abstenerse de promover o participar, a título personal, en la atención de solicitudes, planteamientos o recursos que cualquier tercero promueva ante el Instituto.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 7o.
 
-La Asamblea General es la autoridad suprema del Instituto, y se integrará en forma tripartita con cuarenta y cinco miembros, designados:
+La Asamblea General es la autoridad suprema del Instituto, y se integrará en forma tripartita con treinta integrantes, designados:
 
-Quince por el Ejecutivo Federal,
+I.- Diez por el Ejecutivo Federal;
 
-Quince por las organizaciones nacionales de trabajadores, y
+II.- Diez por las organizaciones nacionales de personas trabajadoras, y
 
-Quince por las organizaciones nacionales patronales.
+III.- Diez por las organizaciones nacionales de personas empleadoras.
 
-Por cada miembro propietario se designará un suplente.
+Por cada integrante propietario se designará un suplente.
 
-Los miembros de la Asamblea General durarán en su cargo seis años y podrán ser removidos libremente por quien los designe.
+Los integrantes de la Asamblea General durarán en su cargo seis años y podrán ser removidos libremente por quien los designe.
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 8o.
 
-El Ejecutivo Federal, por conducto de la Secretaría del Trabajo y Previsión Social, fijará las bases para determinar las organizaciones nacionales de trabajadores y patrones que intervendrán en la designación de los miembros de la Asamblea General.
+El Ejecutivo Federal, por conducto de la Secretaría del Trabajo y Previsión Social, fijará, cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal, las bases para determinar las organizaciones nacionales de personas trabajadoras y empleadoras que intervendrán en la designación de los integrantes de la Asamblea General, procurando en todo momento la representación de los sectores empresarial y de las personas trabajadoras.
 
 ###### ARTICULO 9o.
 
@@ -134,11 +178,9 @@ La Asamblea General deberá reunirse por lo menos dos veces al año.
 
 La Asamblea General, tendrá las atribuciones y facultades siguientes:
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-I.- Examinar y en su caso aprobar, dentro de los últimos tres meses del año, el presupuesto de ingresos y egresos y los planes de labores y de financiamientos del Instituto para el siguiente año.
-
-Aprobar el plan financiero a cinco años y sus actualizaciones.
+I.- Conocer las proyecciones financieras del Instituto a cinco años y en su caso aprobar, dentro de los últimos tres meses del año, el plan financiero, el presupuesto de ingresos y egresos, así como los planes de labores y de financiamientos del Instituto para el siguiente año;
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -146,9 +188,9 @@ II.- Examinar y en su caso aprobar, dentro de los cuatro primeros meses del año
 
 III.- Decidir, señalando su jurisdicción, sobre el establecimiento y modificación o supresión de las Comisiones Consultivas Regionales del Instituto;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-IV.- Aprobar las Reglas de Operación de los Órganos del Instituto, así como el Estatuto Orgánico del mismo y ordenar al Director General su expedición;
+IV.- Aprobar las Reglas de Operación de los Órganos del Instituto, así como el Estatuto Orgánico del mismo y ordenar a la persona titular de la Dirección General su expedición;
 
 V.- (DEROGADA, D.O.F. 24 DE FEBRERO DE 1992)
 
@@ -156,9 +198,9 @@ VI.- (DEROGADA, D.O.F. 24 DE FEBRERO DE 1992)
 
 VII.- (DEROGADA, D.O.F. 24 DE FEBRERO DE 1992)
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-VIII.- Aprobar las políticas de crédito;
+VIII.- Aprobar las políticas generales en materia de crédito, arrendamiento social, administración inmobiliaria y enajenación de vivienda, incorporando la perspectiva de género;
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -184,15 +226,19 @@ XIII.- Ratificar los nombramientos y remociones de los integrantes del Comité d
 
 XIV.- Las demás a que se refiere la presente Ley y las necesarias para el cumplimiento de los fines del Instituto, que no se encuentren encomendadas a otro órgano del mismo.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 11.
 
-Las sesiones de la Asamblea General serán presididas en forma rotativa, en el orden que establece el Artículo 7o. por el miembro que cada una de las representaciones designe.
+Las sesiones de la Asamblea General serán siempre presididas por la persona titular de la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 12.
 
-El Consejo de Administración estará integrado por quince miembros, designados por la Asamblea General en la forma siguiente: cinco a proposición de los representantes del Gobierno Federal, cinco a proposición de los representantes de los trabajadores y cinco a proposición de los representantes patronales, ante la misma Asamblea General. Por cada consejero propietario se designará un suplente.
+El Consejo de Administración estará conformado por doce integrantes, designados por la Asamblea General en la forma siguiente: cuatro a proposición de los representantes del Gobierno Federal, cuatro a proposición de los representantes de las personas trabajadoras y cuatro a proposición de los representantes de las personas empleadoras, ante la misma Asamblea General. Por cada integrante propietario se designará un suplente.
 
-Los miembros del Consejo de Administración no lo podrán ser de la Asamblea General.
+Los integrantes del Consejo de Administración no lo podrán ser de la Asamblea General, salvo la persona titular de la Dirección General que será integrante de ambos Órganos.
 
 ###### ARTICULO 13.
 
@@ -202,15 +248,17 @@ La solicitud de remoción que presente el Sector se hará por conducto del Direc
 
 En tanto se reúne la Asamblea General, los consejeros cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 14.
 
-Los miembros del Consejo de Administración presidirán las sesiones en forma rotativa por las representaciones en el orden a que se refiere el artículo 12, y dentro de cada una de ellas, por orden alfabético.
+Las sesiones del Consejo de Administración serán siempre presididas por la persona titular de la Dirección General.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 15.
 
-El Consejo de Administración sesionará, por lo menos, una vez al mes.
+El Consejo de Administración sesionará de manera ordinaria una vez al trimestre, sin perjuicio de que pueda sesionar en forma extraordinaria en cualquier momento, conforme a los plazos que establezcan sus reglas de operación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -218,41 +266,41 @@ El Consejo de Administración sesionará, por lo menos, una vez al mes.
 
 El Consejo de Administración, tendrá las atribuciones y facultades siguientes:
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-I.- Decidir, a propuesta del Director General, sobre las inversiones de los fondos y los financiamientos del Instituto, conforme a lo dispuesto por el Artículo 66, fracción I;
+I.- Decidir, a propuesta de la persona titular de la Dirección General, sobre las inversiones que realice el Instituto y los financiamientos que obtenga;
 
 II.- Resolver sobre las operaciones del Instituto, excepto aquéllas que por su importancia, a juicio de alguno de los sectores o del Director General, ameriten acuerdo expreso de la Asamblea General; la que deberá celebrarse dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente;
 
 III.- Proponer a la Asamblea General el establecimiento, modificación, supresión y jurisdicción de las Comisiones Consultivas Regionales del Instituto;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-IV.- Examinar y en su caso aprobar, la presentación a la Asamblea General, de los presupuestos de ingresos y egresos, los planes de labores y de financiamientos, el plan financiero a cinco años y sus actualizaciones, así como los estados financieros, dictaminados por el Auditor Externo aprobados por el Comité de Auditoría y el informe de actividades formulados por la Dirección General;
+IV.- Examinar y en su caso aprobar la presentación a la Asamblea General de las proyecciones financieras del Instituto a cinco años, el presupuesto de ingresos y egresos, los planes de labores y de financiamientos, el plan financiero para el siguiente año, así como los estados financieros, dictaminados por una auditoría externa aprobados por el Comité de Auditoría, y el informe de actividades formulados por la Dirección General;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-V.- Presentar a la Asamblea General, para su examen y aprobación, las Reglas de Operación de los Órganos del Instituto y el Estatuto Orgánico del mismo;
+V.- Presentar a la Asamblea General, para su examen y aprobación, las Reglas de Operación de los Órganos del Instituto y el Estatuto Orgánico del mismo, que le proponga la persona titular de la Dirección General;
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 VI.- A propuesta del Director General aprobar los nombramientos del personal directivo y los delegados de conformidad con el Estatuto Orgánico del Instituto. Asimismo, aprobar las bases para el establecimiento, organización y funcionamiento de un sistema permanente de profesionalización y desarrollo de los trabajadores del Instituto;
 
-> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-VII.- Aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Instituto, los que no deberán exceder del 0.55% de los recursos totales que maneje.
-
-Los gastos de administración, operación y vigilancia serán las erogaciones derivadas del manejo y control del Fondo Nacional de la Vivienda, así como las de recuperación de los créditos que otorgue el Instituto.
-
-El Consejo de Administración deberá someter a dictamen de auditores externos el ejercicio de presupuesto de gastos, previamente a que lo presente a la Asamblea General para su aprobación;
+VII.- Aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Instituto, así como el presupuesto de inversión en construcción, en términos del artículo 41 Bis;
 
 VIII.- Estudiar y en su caso aprobar, los tabuladores y prestaciones correspondientes al personal del Instituto, propuestos por el Director General y conforme al presupuesto de gastos de administración autorizados por la Asamblea General;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-IX.- Proponer para su aprobación a la Asamblea General las políticas de crédito y aprobar las reglas para su otorgamiento, así como la normatividad en materia de control interno.
+IX.- Proponer para su aprobación a la Asamblea General las políticas generales en materia de crédito, arrendamiento social, administración inmobiliaria, enajenación de vivienda y de control interno.
 
-A propuesta del Director General, aprobar los castigos y quebrantos derivados de los créditos, las políticas de riesgos, así como las de adquisición de bienes y prestación de servicios, y cualquiera otra que sea necesaria para el cumplimiento de los objetivos del Instituto;
+A propuesta de la persona titular de la Dirección General, aprobar los castigos y quebrantos derivados de los créditos, las políticas de riesgos, así como las de adquisición de bienes, de prestación de servicios, de obras a que se refiere la fracción V del artículo 42 y cualquiera otra que sea necesaria para el cumplimiento de los objetivos del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+IX Bis.- Aprobar las reglas para el otorgamiento a las personas trabajadoras derechohabientes de créditos, financiamientos y acceso a programas de vivienda en cualquier modalidad, así como las reglas de negocio de cada opción de financiamiento relativas a la población objetivo, destino del crédito, monto, tasa y plazos máximos de financiamiento;
 
 > <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -292,33 +340,41 @@ XVII.- A propuesta del Comité de Auditoría, designar o remover al Auditor Exte
 
 XVIII.- Designar o remover al Auditor Interno a propuesta del Comité de Auditoría; éste lo escogerá de una terna propuesta por el Director General;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-XIX.- Aprobar la normatividad que derive de la presente Ley, salvo aquella que se encuentre reservada expresamente para aprobación de la Asamblea General;
+XIX.- Aprobar la normativa que derive de la presente Ley, salvo aquella que se encuentre reservada expresamente para aprobación de la Asamblea General. Las disposiciones de carácter general deberán publicarse en el Diario Oficial de la Federación;
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 XX.- Interpretar para efectos administrativos la presente Ley;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-XXI.- Establecer los comités que estime necesarios para el cumplimiento de sus funciones, y
+XXI.- Establecer los comités que estime necesarios para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+XXI Bis.- Supervisar el desempeño de la empresa filial y el cumplimiento de su objeto, mediante el informe que se le presente en sus sesiones ordinarias, y
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 XXII.- Las demás que le señale la Asamblea General o se desprendan de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 17.
 
-La Comisión de Vigilancia se integrará con nueve miembros nombrados de la siguiente forma:
+La Comisión de Vigilancia se integrará con nueve integrantes designados por la Asamblea General propuestos por cada representación sectorial de la siguiente forma:
 
-Tres a propuesta de los representantes del Gobierno Federal, tres a propuesta de los representantes de los trabajadores y tres a propuesta de los representantes patronales ante la Asamblea General.
+I.- Tres por el Gobierno Federal;
 
-Por cada miembro propietario deberá haber un suplente.
+II.- Tres del sector de las personas trabajadoras, y
 
-Los miembros propietarios y suplentes de esta Comisión, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
+III.- Tres del sector empresarial.
+
+Por cada integrante propietario deberá haber un suplente.
+
+Los integrantes propietarios y suplentes de esta Comisión no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
 
 1. Ser una persona de reconocido prestigio.
 
@@ -328,11 +384,11 @@ Los miembros propietarios y suplentes de esta Comisión, no podrán serlo de alg
 
 4. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
 
-La Comisión de Vigilancia sesionará por lo menos una vez al mes y será presidida en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
+La Comisión de Vigilancia sesionará de manera ordinaria una vez al trimestre, sin perjuicio de que pueda sesionar en forma extraordinaria en cualquier momento, conforme a los plazos que establezcan sus reglas de operación. La Comisión será presidida en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus integrantes se encuentran mencionadas en el artículo 7o.
 
-Los miembros de la Comisión de Vigilancia durarán en su cargo seis años y podrán ser removidos por la Asamblea General, a petición de quien les hubiere propuesto. La solicitud de remoción, se hará por conducto del Director General.
+Los integrantes de la Comisión de Vigilancia durarán en su cargo seis años y podrán ser removidos por la Asamblea General, a petición de quien les hubiere propuesto. La solicitud de remoción se hará por conducto de la persona titular de la Dirección General.
 
-Los miembros de la Comisión de Vigilancia cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones y el suplente tomará su lugar, hasta en tanto la Asamblea General determine lo conducente.
+Los integrantes de la Comisión de Vigilancia cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones y el suplente tomará su lugar, hasta en tanto la Asamblea General determine lo conducente.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -368,15 +424,15 @@ XI.- Dictaminar la propuesta para el nombramiento y remoción de los miembros de
 
 La Comisión de Vigilancia podrá solicitar la opinión de terceros para el adecuado desempeño de sus funciones.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 18 Bis.
 
-El Comité de Auditoría se integrará en forma tripartita con un miembro por cada representación, designados por el Consejo de Administración, previo dictamen de la Comisión de Vigilancia, y sujetos a la ratificación de la Asamblea General.
+El Comité de Auditoría se integrará en forma tripartita con un integrante designado por el Gobierno Federal, uno del sector de los trabajadores y uno del sector empresarial, designados por el Consejo de Administración, previo dictamen de la Comisión de Vigilancia, y sujetos a la ratificación de la Asamblea General.
 
-Por cada miembro propietario deberá haber un suplente.
+Por cada integrante propietario deberá haber un suplente.
 
-Los miembros propietarios y suplentes de este Comité, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
+Los integrantes propietarios y suplentes de este Comité no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
 
 1. Ser una persona de reconocido prestigio.
 
@@ -388,13 +444,13 @@ Los miembros propietarios y suplentes de este Comité, no podrán serlo de algú
 
 5. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
 
-El Comité de Auditoría será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
+El Comité de Auditoría será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus integrantes se encuentran mencionadas en el artículo 7o.
 
-Los miembros del Comité durarán en su cargo seis años y serán removidos, previo dictamen de la Comisión de Vigilancia, por el Consejo de Administración, a petición de la representación que los hubiere propuesto; dicha remoción deberá ser ratificada por la Asamblea General.
+Los integrantes del Comité durarán en su cargo seis años y serán removidos, previo dictamen de la Comisión de Vigilancia, por el Consejo de Administración, a petición de la representación que los hubiere propuesto; dicha remoción deberá ser ratificada por la Asamblea General.
 
-Los miembros del Comité de Auditoría cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones, y el suplente tomará su lugar, hasta en tanto la Asamblea General determine lo conducente.
+Los integrantes del Comité de Auditoría cuya remoción se haya solicitado, quedarán de inmediato suspendidos en sus funciones, y el suplente tomará su lugar, hasta en tanto la Asamblea General determine lo conducente.
 
-Para el cumplimiento de sus funciones, el Comité de Auditoría se auxiliará del Auditor Interno y sesionará por lo menos una vez al mes.
+Para el cumplimiento de sus funciones, el Comité de Auditoría se auxiliará de la Auditoría Interna y sesionará de manera ordinaria una vez al trimestre, sin perjuicio de que pueda sesionar en forma extraordinaria en cualquier momento, conforme a los plazos que establezcan sus reglas de operación.
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -480,9 +536,11 @@ El Auditor Externo que en cualquier asunto relacionado con el Instituto tuviere 
 
 El Balance Anual del Instituto deberá publicarse dentro de los treinta días siguientes a la fecha en que sea aprobado por la Asamblea General, en el Diario Oficial de la Federación y en dos de los diarios de mayor circulación.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 22.
 
-El Director General será nombrado por la Asamblea General, a proposición del Presidente de la República. Para ocupar dicho cargo, se requiere ser mexicano por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
+La persona titular de la Dirección General será nombrada por la persona titular de la Presidencia de la República y deberá actuar en su representación. Para ocupar dicho cargo, se requiere ser persona mexicana por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -494,33 +552,47 @@ El Director General tendrá las siguientes atribuciones y facultades:
 
 I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la ley, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Estas facultades las ejercerá en la forma en que acuerde el Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante el Centro Federal de Conciliación y Registro Laboral y/o, así como ante los Tribunales federales en materia laboral, así como otorgar y revocar poderes generales o especiales.
+La persona titular de la Dirección General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante el Centro Federal de Conciliación y Registro Laboral y/o, así como ante los Tribunales federales en materia laboral, así como otorgar y revocar poderes generales o especiales. Para el otorgamiento, validez y revocación de dichos poderes, bastará el cumplimiento de las disposiciones del derecho privado, así como de las políticas que emita el Consejo de Administración en materia de control, expedición de certificaciones y publicidad.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 Las facultades que correspondan al Instituto, en su carácter de organismo fiscal autónomo, de conformidad con el Artículo 30 de esta Ley, se ejercerán por el Director General y el demás personal que expresamente se indique en el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia de facultades como organismo fiscal autónomo;
 
-II.- Asistir a las sesiones de la Asamblea General y del Consejo de Administración, con voz, pero sin voto;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+II.- Asistir y presidir las sesiones de la Asamblea General con voz y voto;
+
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+II Bis.- Asistir y presidir las sesiones del Consejo de Administración con voz y voto; asimismo tendrá derecho de veto sobre las resoluciones del Consejo de Administración o de la Comisión de Vigilancia que no se adopten por unanimidad, el efecto del veto será suspender la aplicación de la resolución correspondiente, hasta que resuelva en definitiva la Asamblea General;
 
 III.- Ejecutar los acuerdos del Consejo de Administración;
 
 IV.- Presentar anualmente al Consejo de Administración, dentro de los dos primeros meses del año siguiente, los estados financieros y el informe de actividades del ejercicio anterior;
 
-V.- Presentar al Consejo de Administración, a más tardar el último día de octubre de cada año, los presupuestos de ingresos y egresos, el proyecto de gastos y los planes de labores y de financiamientos para el año siguiente;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-VI.- Presentar a la consideración del Consejo de Administración, un informe mensual sobre las actividades del Instituto;
+V.- Presentar al Consejo de Administración, a más tardar el último día de octubre de cada año, el plan financiero, los presupuestos de ingresos y egresos, y los planes de labores y de financiamientos para el año siguiente, así como las proyecciones financieras del Instituto a cinco años;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-VII.- Presentar al Consejo de Administración, para su consideración y en su caso aprobación, los programas de créditos a que se refiere la fracción II del Artículo 42, a ser otorgados por el Instituto;
+V Bis.- Proponer al Consejo de Administración y a la Asamblea General el Estatuto Orgánico del Instituto, que contendrá la estructura, organización, facultades y funciones que correspondan a las distintas áreas, delegaciones regionales y personal directivo que lo integran, de conformidad con el presupuesto de gastos de administración, operación y vigilancia aprobado. El Estatuto Orgánico deberá publicarse en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+VI.- Presentar a la consideración del Consejo de Administración, en sus sesiones ordinarias, un informe sobre las actividades del Instituto;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+VII.- Presentar al Consejo de Administración, para su consideración y en su caso aprobación, los programas de financiamiento, administración inmobiliaria, arrendamiento social, enajenación de vivienda, y de crédito a ser otorgados por el Instituto;
 
 VIII.- Nombrar y remover al personal del Instituto, señalándole sus funciones y remuneraciones; y
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-IX.- Después de ser aprobado por la Asamblea General, enviar al Congreso de la Unión, durante el mes de octubre de cada año, un Informe sobre la situación financiera, patrimonial y operativa que guarda el Instituto, y
+IX.- Después de ser aprobado por la Asamblea General, enviar al Congreso de la Unión y al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, durante el mes de mayo de cada año, un Informe sobre la situación patrimonial y operativa del Instituto, así como de la situación financiera de sus activos y pasivos, que contenga una evaluación respecto a la suficiencia de los flujos correspondientes para cubrir la operación del Instituto, y
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -528,9 +600,7 @@ X.- Las demás que le señalen esta Ley y sus disposiciones reglamentarias.
 
 ###### ARTICULO 24.
 
-La Asamblea General, a propuesta de los representantes de los trabajadores y de los patrones, nombrará a dos Directores Sectoriales, uno por cada sector, que tendrán como función el enlace entre el Sector que representan y el Director General. Los Directores Sectoriales asistirán a las sesiones del Consejo de Administración, con voz, pero sin voto.
-
-El Director General y los Directores Sectoriales no podrán ser miembros de la Asamblea General, del Consejo de Administración, ni de la Comisión de Vigilancia.
+(DEROGADO, D.O.F. 21 DE FEBRERO DE 2025)
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -556,19 +626,19 @@ La Comisión conocerá, substanciará y resolverá los recursos que promuevan an
 
 La Comisión conocerá de las controversias que se susciten sobre el valor de las prestaciones que las empresas estuvieren otorgando a los trabajadores, en materia de habitación, para decidir si son inferiores, iguales o superiores al porcentaje consignado en el Artículo 136 de la Ley Federal del Trabajo y poder determinar las aportaciones que deban enterar al Instituto o si quedan exentas de tal aportación. Una vez tramitadas las controversias en los términos de la normatividad respectiva, la Comisión presentará un dictamen sobre las mismas a la Comisión de Vigilancia, que resolverá lo que a su juicio proceda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 25 Bis.
 
-El Comité de Transparencia se integrará en forma tripartita, por un representante del sector de los trabajadores, uno del sector empresarial y uno del Gobierno Federal, los cuales serán designados por la Asamblea General, durarán en su cargo seis años.
+El Comité de Transparencia se integrará en forma tripartita, por un representante del sector de las personas trabajadoras, uno del sector empresarial y uno del Gobierno Federal, los cuales serán designados por la Asamblea General, durarán en su cargo seis años.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-El Comité será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
+El Comité será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus integrantes se encuentran mencionadas en el artículo 7o.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-Los miembros del Comité, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
+Los integrantes del Comité no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
 
 1. Ser una persona de reconocido prestigio.
 
@@ -704,9 +774,9 @@ Cualquier otro patrón podrá optar por dictaminar por contador público autoriz
 
 IX.- Las demás previstas en la Ley y sus reglamentos.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-La obligación de efectuar las aportaciones y hacer los descuentos a que se refieren las fracciones II y III anteriores, se suspenderá cuando no se paguen salarios por ausencias en los términos de la Ley del Seguro Social, siempre que se dé aviso oportuno al Instituto, en conformidad al artículo 31. Tratándose de incapacidades expedidas por el Instituto Mexicano del Seguro Social, subsistirá la obligación del pago de aportaciones.
+La obligación de efectuar las aportaciones a que se refiere la fracción II anterior, se suspenderá cuando no se paguen salarios por ausencias en los términos de la Ley del Seguro Social, siempre que se dé aviso oportuno al Instituto, en conformidad al artículo 31. Tratándose de incapacidades expedidas por el Instituto Mexicano del Seguro Social, subsistirá la obligación del pago de aportaciones. Cuando se trate de la obligación de hacer los descuentos a que se refiere la fracción III no se suspenderá por ausencias o incapacidades en términos de la Ley del Seguro Social.
 
 > <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2021)</small>
 
@@ -990,27 +1060,45 @@ Los fondos de la subcuenta de vivienda que no hubiesen sido aplicados de acuerdo
 
 A efecto de lo anterior, el trabajador o sus beneficiarios deberán solicitar al Instituto la transferencia de los recursos de la subcuenta de vivienda a las administradoras de fondos para el retiro. El Instituto podrá convenir con el Instituto Mexicano del Seguro Social los términos y requisitos para simplificar y unificar los procesos para autorizar la disponibilidad de los recursos a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 41.
 
-El trabajador derechohabiente tendrá el derecho de elegir la vivienda nueva o usada con las características de su preferencia, o el suelo que sea destinado para construcción, reparación o ampliación de vivienda a los que se aplique el importe del crédito que reciba con cargo al Fondo Nacional de la Vivienda. Previo a ejercer su crédito de vivienda el trabajador derechohabiente tendrá derecho a recibir información suficiente sobre las condiciones jurídicas y financieras del mismo, así como recibir directamente y sin intermediarios el crédito mencionado, siempre y cuando cumpla con los requisitos que al efecto establezca el Consejo de Administración mediante reglas de carácter general. Se entenderá por trabajador derechohabiente a toda persona que sea titular de depósitos constituidos a su favor en el Instituto.
+Las personas trabajadoras derechohabientes tendrán el derecho de elegir la vivienda nueva o existente, o el suelo que sea destinado para construcción, reparación o ampliación de vivienda a los que se aplique el importe del crédito que reciba con cargo al Fondo Nacional de la Vivienda.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+Al cumplir un año de cotización continua, las personas trabajadoras derechohabientes también tendrán el derecho de participar en el programa de arrendamiento social de vivienda construida o administrada por el Instituto que se encuentre cerca de su centro de trabajo, y a participar en los programas de opción de compra de dichas viviendas.
 
-Cuando un trabajador hubiere recibido crédito del Instituto, éste le otorgará a partir de la fecha en que haya dejado de percibir ingresos salariales, prórrogas en los pagos de la amortización que tenga que hacer por concepto de capital e intereses ordinarios. Para tal efecto, el trabajador acreditado deberá presentar su solicitud al Instituto dentro del mes siguiente a la fecha en que deje de percibir ingresos salariales. Durante dichas prórrogas los pagos de principal y los intereses ordinarios que se generen se capitalizarán al saldo insoluto del crédito. En caso de que el trabajador no solicite la prórroga en el plazo de 30 días, ésta no se le autorizará.
+Para los esquemas de arrendamiento social, las personas trabajadoras derechohabientes tendrán derecho a utilizar su subcuenta de vivienda como mecanismo de garantía conforme a los programas, reglas, requisitos y criterios de prelación que establezca el Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+Previo a ejercer su crédito de vivienda o cualquier beneficio de un programa de vivienda, las personas trabajadoras derechohabientes tendrán derecho a recibir información suficiente sobre las condiciones jurídicas y financieras del mismo, así como recibir directamente y sin intermediarios el crédito o beneficio mencionado, siempre y cuando cumpla con los requisitos que se establezcan. Se entenderá por persona trabajadora derechohabiente a toda aquella que sea titular de depósitos constituidos a su favor en el Instituto.
 
-Las prórrogas que se otorguen al trabajador de conformidad con el párrafo anterior no podrán ser mayores de doce meses cada una, ni exceder en su conjunto más de veinticuatro meses y terminarán anticipadamente cuando el trabajador inicie una nueva relación laboral.
+Cuando una persona trabajadora derechohabiente hubiere recibido crédito del Instituto y éste tenga conocimiento de que ha dejado de percibir ingresos salariales, le otorgará prórrogas en los pagos de la amortización que tenga que hacer por concepto de capital e intereses ordinarios, con efectos retroactivos a la fecha en que se suscitó la pérdida del ingreso referido. Durante dichas prórrogas no se generarán intereses ordinarios.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
+Las prórrogas que se otorguen a la persona trabajadora de conformidad con el párrafo anterior no podrán ser mayores de doce meses cada una, ni exceder en su conjunto más de veinticuatro meses y terminarán anticipadamente cuando la persona trabajadora inicie una nueva relación laboral.
 
-En caso de que hayan transcurrido treinta años contados a partir de la fecha de otorgamiento del crédito, el Instituto lo liberará del saldo pendiente, excepto en caso de pagos omisos del trabajador o por prórrogas concedidas.
+En caso de que hayan transcurrido treinta años contados a partir de la fecha de otorgamiento del crédito, el Instituto lo liberará del saldo pendiente, excepto en caso de pagos omisos de la persona trabajadora o por prórrogas concedidas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+###### ARTICULO 41 Bis.
+
+El Consejo de Administración deberá aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Instituto, los que no deberán exceder del 0.55 por ciento de los activos totales que administre, entendiendo por estos el promedio mensual del último año del total de los activos sin disminuir las reservas constituidas en términos de la normativa aplicable. El gasto de administración y operación de la empresa filial deberá estar previsto en este presupuesto.
+
+Los gastos de administración, operación y vigilancia serán las erogaciones netas derivadas del cumplimiento de su objeto, que se identifiquen en el estado de resultados conforme a la normativa correspondiente.
+
+El Consejo de Administración deberá someter a dictamen de una auditoría externa el ejercicio del presupuesto de gastos de administración, operación y vigilancia, previamente a que lo presente a la Asamblea General para su aprobación.
+
+Las erogaciones destinadas a la inversión en edificios, terrenos, instalaciones, construcción y mantenimiento de vivienda, equipos, tecnología, vehículos, mobiliario y equipo de oficina no computarán dentro de los gastos de administración, operación y vigilancia del Instituto. Estas inversiones deberán generar valor económico y rentabilidad para el Instituto y el Fondo Nacional de la Vivienda.
+
+El Consejo de Administración aprobará anualmente el presupuesto de inversión en construcción, garantizando en todo momento que se destinen los recursos suficientes para el otorgamiento de crédito a las personas trabajadoras derechohabientes, conforme al programa de inversión habitacional que la Asamblea General apruebe en el plan financiero de cada año.
+
+El Consejo de Administración emitirá y, al menos, revisará cada cinco años la normatividad que corresponda para efectos de la aplicación de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 42.
 
-Los recursos del Instituto se destinarán:
+Los recursos del Instituto o bajo su administración se destinarán:
 
 > <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -1058,23 +1146,51 @@ III.- Al pago de capital e intereses de las subcuentas de vivienda de los trabaj
 
 IV.- A cubrir los gastos de administración, operación y vigilancia del Instituto;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+(REPUBLICADA, D.O.F. 21 DE FEBRERO DE 2025)
 
-V.- A la inversión de inmuebles destinados a sus oficinas, y de muebles estrictamente necesarios para el cumplimiento de sus fines.
+V.- A la inversión de inmuebles destinados a sus oficinas, y de muebles estrictamente necesarios para el cumplimiento de sus fines;
 
-VI.- A las demás erogaciones relacionadas con su objeto.
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+VI.- A la adquisición de suelo e inmuebles destinados al cumplimiento de su objeto;
 
-Los contratos y las operaciones relacionados con los inmuebles a que se refiere este artículo, así como el desarrollo y ejecución de los conjuntos de habitaciones que se edifiquen con financiamiento del Instituto, estarán exentos del pago de toda clase de impuestos, derechos o contribuciones de la Federación, de los Estados o del Distrito Federal y, en su caso, el precio de venta a que se refiere el artículo 48 se tendrá como valor de avalúo de las habitaciones. El impuesto predial y los derechos por consumo de agua, así como las donaciones y equipamiento urbano se causarán y cumplirán en los términos de las disposiciones legales aplicables. Tanto las garantías como las inscripciones correspondientes se ajustarán en los términos del artículo 44 sin que se cause impuesto o derecho alguno, ni deban efectuarse trámites de registro adicionales.
+> <small>(ADICIONADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1981)</small>
+VII.- A la construcción de vivienda que realice el Instituto, por conducto de una empresa filial, para fomentar la oferta destinada al arrendamiento social o adquisición en favor de las personas trabajadoras derechohabientes, así como el desarrollo económico local y la generación de empleos, y
 
-Los contratos y las operaciones a que se refiere el párrafo anterior, así como la constitución del régimen de propiedad en condominio de los conjuntos que financie el Instituto podrán hacerse constar en documentos privados, ante dos testigos, e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y de la voluntad de las partes.
+VIII.- A las demás erogaciones relacionadas con su objeto.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-Los beneficios otorgados por el presente Artículo a los programas habitacionales que se realizan con fondos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, se harán extensivos a los trabajadores derechohabientes de ese Instituto, que realicen operaciones de compra de casa habitación por medios distintos a los del Instituto, siempre y cuando sean para su uso y el monto de la operación así realizada no sea superior al valor de las casas habitación que el mismo proporciona a sus afiliados. Por el excedente se pagarán los impuestos en los términos previstos por las leyes respectivas.
+Los contratos y las operaciones relacionadas con los inmuebles a que se refiere este artículo, así como el desarrollo y ejecución de los conjuntos habitacionales que se edifiquen mediante los programas del Instituto, por sí mismo o a través de una empresa filial, estarán exentos de las autorizaciones y del pago de toda clase de impuestos, derechos o contribuciones de la Federación, de los Estados o de la Ciudad de México y, en su caso, el precio de venta a que se refiere el artículo 48 se tendrá como valor de avalúo de las viviendas. El impuesto predial y los derechos por consumo de agua, así como las donaciones y equipamiento urbano se causarán y cumplirán en los términos de las disposiciones legales aplicables. Las operaciones del Instituto, que realice directamente o por conducto de su empresa filial, en materia inmobiliaria recibirán las facilidades administrativas que se acuerden con las autoridades competentes, debiendo ser congruentes con las necesidades de cada centro de población, y los planes y programas que regulan el uso y el aprovechamiento del suelo. Tanto las garantías como las inscripciones correspondientes se ajustarán en los términos del artículo 44 sin que se cause impuesto o derecho alguno, ni deban efectuarse trámites de registro adicionales.
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+Los contratos y las operaciones a que se refiere el párrafo anterior deben hacerse constar en los instrumentos que establezca la legislación aplicable en la materia e inscribirse en el Registro Público de la Propiedad que corresponda.
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+Para los créditos a que hace referencia la fracción II, inciso b), de este artículo, el Instituto deberá ofrecer opciones de financiamiento individual o colectivo. Las personas interesadas en proyectos que prevean la construcción de más de una vivienda los presentarán a la Dirección General del Instituto para que realice una evaluación técnica, financiera y jurídica del proyecto, su promovente o conjunto de promoventes, así como el impacto social del proyecto. Una vez que se cuente con una evaluación con resultado favorable, cada proyecto será sometido al Consejo de Administración para su aprobación.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+El Instituto realizará las adquisiciones, arrendamientos, contratación de servicios y obras que requieran, con sujeción a los principios de economía, eficacia, eficiencia, imparcialidad y honradez, a efecto de procurarse las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo con sus particularidades, de conformidad con las políticas internas que al efecto emita el Consejo de Administración en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+El patrimonio del Instituto y los rendimientos del Fondo Nacional de la Vivienda, una vez descontados los intereses que deban recibir las subcuentas de vivienda podrán destinarse, previo acuerdo del Consejo de Administración, al financiamiento de objetivos en materia de construcción, administración inmobiliaria y arrendamiento social de vivienda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+El Instituto, por sí mismo o por conducto de su empresa filial, podrá destinar los recursos bajo su administración para inversiones para la construcción, adquisición y mantenimiento de inmuebles en terrenos propiedad del Instituto y destinados a vivienda de los derechohabientes del mismo. Los proyectos de inversión se integrarán en el programa de inversión habitacional que formará parte del plan financiero que será aprobado por la Asamblea General, a propuesta de la persona titular de la Dirección General, en términos de los artículos 10, fracción I y 16, fracción IV, de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+El Instituto, por conducto de su empresa filial, podrá construir viviendas en terrenos propiedad del propio Instituto, así como en terrenos que le asigne el gobierno federal, gobiernos locales, municipales o sus entes públicos mediante la prestación de servicios, independientemente de la figura contractual que se celebre, o cuando el destino de las viviendas sea la enajenación a personas trabajadoras derechohabientes por medio de los créditos a que se refiere la fracción II anterior.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+Sin perjuicio de las obligaciones en materia de transparencia y acceso a la información previstas en la ley de la materia, la Dirección General del Instituto proveerá lo necesario para que se ponga a disposición del público en general, en forma periódica y a través de su página de Internet, información clara, sencilla, precisa, confiable y actualizada que permita conocer la situación financiera, administrativa, operacional, económica y jurídica, así como los riesgos, relacionados con el fondo que contiene los recursos a que se refiere el artículo 43, tercer párrafo de la presente Ley, así como de su empresa filial, sus proyectos de construcción, proveedores contratados por aquella, entre otros asuntos que estime conveniente.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -1118,9 +1234,9 @@ ARTICULO 43 BIS.- Al momento en que el trabajador reciba crédito del Instituto,
 
 Durante la vigencia del crédito concedido al trabajador, las aportaciones patronales a su favor se aplicarán a reducir el saldo insoluto a cargo del propio trabajador.
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-El trabajador derechohabiente que obtenga un crédito de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su habitación o de suelo destinado para habitación, podrá dar en garantía de tal crédito, el saldo de su subcuenta de vivienda. Dicha garantía únicamente cubrirá la falta de pago en que pueda incurrir el acreditado al perder su relación laboral. Esta garantía se incrementará con las aportaciones patronales subsecuentes, que se abonen a la subcuenta de vivienda del trabajador. En el evento de que dicha garantía se haga efectiva, se efectuarán los retiros anticipados del saldo de la subcuenta de vivienda que corresponda para cubrir el monto de los incumplimientos de que se trate.
+La persona trabajadora derechohabiente que obtenga un crédito del Instituto o de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su vivienda o de suelo destinado para vivienda, podrá dar en garantía de tal crédito, el saldo de su subcuenta de vivienda. Dicha garantía únicamente cubrirá la falta de pago en que pueda incurrir el acreditado al perder su relación laboral. Esta garantía se incrementará con las aportaciones patronales subsecuentes, que se abonen a la subcuenta de vivienda de la persona trabajadora. En el evento de que dicha garantía se haga efectiva, se efectuarán los retiros anticipados del saldo de la subcuenta de vivienda que corresponda para cubrir el monto de los incumplimientos de que se trate.
 
 El Instituto podrá otorgar créditos a los trabajadores derechohabientes en cofinanciamiento con entidades financieras, en cuyo caso, el trabajador también podrá otorgar la garantía a que se refiere el párrafo inmediato anterior. Dicha garantía se constituirá sobre el saldo que la subcuenta de vivienda registre al momento del otorgamiento del crédito. Las aportaciones que se efectúen a la subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto del crédito que haya otorgado el Instituto.
 
@@ -1138,19 +1254,17 @@ Los trabajadores que obtengan un crédito de vivienda bajo el régimen de otros 
 
 En el caso que los trabajadores se encuentren amortizando un crédito de vivienda otorgado por el Instituto o por algún instituto de seguridad social, y que por establecer una nueva relación laboral cambien de régimen de seguridad social, deberán seguir utilizando sus aportaciones de vivienda para el pago del crédito correspondiente.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 44.
 
-El saldo de los créditos otorgados a los trabajadores a que se refiere la fracción II del artículo 42, se actualizará bajo los términos y condiciones que hayan sido estipulados.
+Estará prohibida la actualización del saldo, el pago por concepto de amortización o los accesorios de los créditos otorgados a las personas trabajadoras a que se refiere la fracción II del artículo 42.
 
-Sin perjuicio de lo señalado en el párrafo anterior, para el caso de los créditos otorgados en veces salario mínimo, en el evento de que el salario mínimo se incremente por encima de la Unidad de Medida y Actualización, el Instituto no podrá actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de dicha Unidad de Medida y Actualización durante el mismo año.
+Los créditos citados devengarán intereses sobre el saldo ajustado de los mismos, a la tasa que determine el Consejo de Administración.
 
-Asimismo, los créditos citados devengarán intereses sobre el saldo ajustado de los mismos, a la tasa que determine el Consejo de Administración. Dicha tasa no será menor del cuatro por ciento anual sobre saldos insolutos.
+Las reglas que al efecto determine el Consejo de Administración deberán prever medidas para que se preserve la estabilidad financiera del Instituto y se cubran los riesgos de su cartera de créditos.
 
-El Instituto también otorgará, a solicitud del trabajador, créditos, en pesos o Unidades de Medida y Actualización conforme a las reglas que al efecto determine su Consejo de Administración, las cuales deberán propiciar que las condiciones financieras para los trabajadores no sean más altas que las previstas en los párrafos anteriores y previendo en todo momento las medidas para que se preserve la estabilidad financiera del Instituto y se cubran los riesgos de su cartera de créditos.
-
-Los créditos se otorgarán a un plazo no mayor de 30 años.
+Los créditos se otorgarán a un plazo no mayor de treinta años. Al concluir el pago o determinarse la extinción o cancelación de un crédito, el Instituto deberá emitir los actos jurídicos necesarios para la extinción de los gravámenes que se hubieran constituido sobre las viviendas financiadas con los créditos que hubiere otorgado, haciéndose constar en instrumentos privados e inscribirse en el Registro Público de la Propiedad que corresponda, quedando el Instituto exento del pago de cualquier contribución por tal concepto o por la obtención de constancias registrales o equivalentes para el ejercicio de sus funciones. Las personas trabajadoras recibirán gratuitamente copia certificada del instrumento que le (sic) correspondan.
 
 > <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -1176,21 +1290,25 @@ IV.- El número de trabajadores en las diferentes regiones o localidades del Ter
 
 El Consejo de Administración expedirá las reglas conforme a las cuales se otorgarán en forma inmediata y sin exigir más requisitos que los previstos en las propias reglas, los créditos a que se refiere la fracción II del artículo 42. Dichas reglas deberán publicarse en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-Las reglas antes citadas tomarán en cuenta entre otros factores, la oferta y demanda regional de vivienda, así como las características físicas del suelo destinado a las habitaciones, el número de miembros de la familia de los trabajadores, los saldos de la subcuenta de vivienda del trabajador de que se trate y el tiempo durante el cual se han efectuado aportaciones a la misma, si el trabajador es propietario o no de su vivienda, así como su salario o el ingreso conyugal si hay acuerdo de los interesados. En el caso de que el trabajador derechohabiente desee emplear su crédito para la adquisición de suelo, el Instituto deberá verificar que el mismo sea para fines habitacionales, de acuerdo con la normatividad urbana, ecológica, así como con los instrumentos de riesgos vigentes.
+Las reglas antes citadas tomarán en cuenta entre otros factores, la oferta y demanda regional de vivienda, así como las características físicas del suelo destinado a las viviendas, el número de integrantes de la familia de las personas trabajadoras, los saldos de su subcuenta de vivienda, criterios de prelación y el tiempo durante el cual se han efectuado aportaciones a la misma, si la persona trabajadora es propietaria o no de su vivienda, así como su salario o el ingreso conjunto si hay acuerdo de los interesados. En el caso de que la persona trabajadora derechohabiente desee emplear su crédito para la adquisición de suelo, el Instituto deberá verificar que el mismo sea para fines habitacionales, de acuerdo con la normatividad urbana, ecológica, así como con los instrumentos de riesgos vigentes.
 
-> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-Asimismo, el Consejo de Administración expedirá reglas que permitan tomar en cuenta, para la determinación del monto de crédito, ingresos adicionales de los trabajadores que no estén considerados como parte integrante de su salario base, siempre y cuando la cuantía, periodicidad y permanencia de tales ingresos sean acreditables plenamente y se garantice la recuperabilidad de dichos créditos.
+En las reglas se considerará el tiempo de cotización de la persona trabajadora, y se dará preferencia en el acceso o facilidades a aquella que hubiera cotizado ante al (sic) fondo por, al menos, diez años, así como considerar criterios de perspectiva de género.
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-El trabajador derechohabiente tiene derecho a recibir un crédito del Instituto, y una vez que lo haya liquidado podrá acceder a créditos subsecuentes, que serán otorgados siempre y cuando liquide efectivamente el anterior. Estos créditos podrán incluir esquemas de financiamiento en coparticipación con entidades financieras.
+Asimismo, el Consejo de Administración expedirá reglas que permitan tomar en cuenta, para la determinación del monto de crédito, ingresos adicionales de las personas trabajadoras que no estén consideradas como parte integrante de su salario base, siempre y cuando la cuantía, periodicidad y permanencia de tales ingresos sean acreditables plenamente y se garantice la recuperabilidad de dichos créditos.
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-Para los créditos subsecuentes el trabajador derechohabiente podrá disponer de los recursos acumulados en la subcuenta de vivienda y su capacidad crediticia estará determinada de acuerdo con lo que establezcan las reglas a las que se refiere este artículo.
+La persona trabajadora derechohabiente tiene derecho a recibir un crédito del Instituto, y una vez que lo haya liquidado podrá acceder a créditos subsecuentes, que serán otorgados siempre y cuando liquide efectivamente el anterior. Estos créditos podrán incluir esquemas de financiamiento en coparticipación con entidades financieras.
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+Para los créditos subsecuentes la persona trabajadora derechohabiente podrá disponer de los recursos acumulados en la subcuenta de vivienda y su capacidad crediticia estará determinada de acuerdo con lo que establezcan las reglas a las que se refiere este artículo.
 
 ((REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)
 
@@ -1218,31 +1336,29 @@ En el caso del párrafo anterior, las cantidades que hayan cubierto los trabajad
 
 El Instituto vigilará que los créditos directos y los financiamientos que otorgue, se destinen al fin para los que fueron concedidos.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 51.
 
-Los créditos que el Instituto otorgue a los trabajadores estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones, gravámenes o limitaciones de dominio a favor del Instituto derivados de esos créditos.
-
-> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
+Los créditos que el Instituto otorgue a las personas trabajadoras estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere a la persona trabajadora o a sus personas beneficiarias de las obligaciones, gravámenes o limitaciones de dominio a favor del Instituto derivados de esos créditos.
 
 Para estos efectos, se entenderá por incapacidad total permanente la pérdida de las facultades o aptitudes de una persona, que la imposibilite para desempeñar cualquier trabajo el resto de su vida, cualquiera que sea la naturaleza del riesgo que la haya producido.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+Asimismo, para el caso que la persona trabajadora obtenga o adquiera un crédito con el Instituto con posterioridad a la concesión de una pensión ya sea por incapacidad parcial permanente del 50 por ciento o más, o invalidez definitiva, en los términos de la Ley del Seguro Social, la incapacidad o el estado de invalidez por ningún motivo dará derecho a liberar la obligación de cubrir dicho crédito.
 
 El costo del seguro a que se refieren los párrafos anteriores quedará a cargo del Instituto.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
+A fin de proteger el patrimonio de las personas trabajadoras, el Instituto podrá participar con empresas públicas y privadas para promover el desarrollo así como el abaratamiento de esquemas de aseguramiento a cargo de los acreditados, que permitan ampliar la cobertura de siniestros.
 
-A fin de proteger el patrimonio de los trabajadores, el Instituto podrá participar con empresas públicas y privadas para promover el desarrollo así como el abaratamiento de esquemas de aseguramiento a cargo de los acreditados, que permitan ampliar la cobertura de siniestros.
+Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50 por ciento o más, o invalidez definitiva, en los términos de la Ley del Seguro Social, se liberará a la persona trabajadora acreditada del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga, sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro del mes siguiente a la fecha en que se determinen. El Instituto liberará la cancelación del crédito y procederá a la emisión del instrumento privado a que se refiere el artículo 44, a fin de cancelar los gravámenes o limitaciones de dominio que existan a favor del Instituto.
 
-> <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
+En el acto de otorgamiento del crédito o de forma posterior, las personas trabajadoras acreditadas podrán manifestar expresamente su voluntad ante el Instituto para designar a las personas que, en caso de su muerte, podrán adjudicarse el inmueble objeto del crédito en calidad de beneficiarias, conforme a las formalidades, prelación y condiciones establecidas en los artículos 40 y 42 de esta Ley.
 
-Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, en los términos de la Ley del Seguro Social, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga, sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro del mes siguiente a la fecha en que se determinen.
+Al suscitarse la muerte del acreditado, sus personas beneficiarias deberán acudir al Instituto a tramitar la cancelación del crédito y la emisión del instrumento privado a que se refiere el artículo 44, a fin de cancelar los gravámenes o limitaciones de dominio que existan a favor del Instituto, para lo cual deberán acreditar la capacidad e identidad de las personas beneficiarias.
 
-Los trabajadores acreditados podrán manifestar expresamente su voluntad ante el Instituto, en el acto del otorgamiento del crédito o posteriormente, para que en caso de muerte, la liberación de las obligaciones, gravámenes o limitaciones de dominio que existan a favor del Instituto, así como la adjudicación del inmueble libre de aquéllos, se haga en beneficio de las personas que designen conforme a lo que señala el artículo 40 de esta Ley, con la prelación ahí establecida cuando así lo haya manifestado expresamente el trabajador, con sólo las formalidades previstas en el penúltimo párrafo del artículo 42 de esta misma Ley y la constancia que asiente el Instituto sobre la voluntad del trabajador y los medios con que se acrediten la capacidad e identidad de los beneficiarios. En caso de controversia, el Instituto procederá exclusivamente a la liberación referida y se abstendrá de adjudicar el inmueble.
+En caso de controversia, o en el supuesto de que la persona trabajadora adjudicada no haya manifestado expresamente esa designación ante el Instituto, este último procederá exclusivamente a la cancelación del crédito y solamente emitirá el instrumento privado a que se refiere el artículo 44, cuando las personas beneficiarias le acrediten ese carácter mediante la declaratoria correspondiente dictada por laudo o sentencia firme de autoridad competente, y con los medios con que acrediten su capacidad e identidad.
 
-En los casos a que se refiere el párrafo anterior, los Registros Públicos de la Propiedad correspondientes deberán efectuar la inscripción de los inmuebles en favor de los beneficiarios, cancelando en consecuencia la que existiere a nombre del trabajador y los gravámenes o limitaciones de dominio que hubieren quedado liberados.
+El Instituto por ningún motivo podrá adjudicar inmueble alguno.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -1299,6 +1415,56 @@ Si el interesado no firmare el contrato por causas no imputables al Instituto, p
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 ARTICULO 51 BIS 6.- Los contratistas de obras financiadas por el Instituto responderán ante los adquirentes de los defectos que resultaren en las mismas, de los vicios ocultos y de cualesquiera otra responsabilidad en que hubieren incurrido, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+###### ARTICULO 51 Ter.
+
+El Instituto podrá establecer programas que otorguen a las personas trabajadoras acceso a vivienda mediante arrendamiento social, los cuales se regirán por las reglas que emita el Consejo de Administración debiendo cumplir los siguientes principios:
+
+I.- Las operaciones a que se refiere el presente artículo se podrán realizar respecto de viviendas propiedad o en administración del Instituto;
+
+II.- Establecer criterios de prelación de zonas geográficas con altos índices de marginación, baja disponibilidad de vivienda, entre otras, y priorizando la atención de las personas trabajadoras derechohabientes que no tengan vivienda propia y de menor nivel salarial;
+
+III.- El saldo de la subcuenta de vivienda de la persona trabajadora funcionará como garantía de cumplimiento de pago. En los contratos se señalarán los procedimientos para la ejecución de dichas garantías mediante retiros anticipados del saldo de la subcuenta de vivienda que corresponda para cubrir el monto de los incumplimientos de que se trate;
+
+IV.- En términos de la legislación aplicable y en estricto apego a los derechos humanos, los modelos de contratos que establezca el Instituto para celebrar en instrumento privado el arrendamiento social de las viviendas a que se refiere este artículo deberán contener, al menos, las siguientes cláusulas:
+
+a) Sin perjuicio de la vigencia que se establezca, deberán pactarse esquemas de renovación con base en el cumplimiento oportuno de las obligaciones de la persona trabajadora derechohabiente;
+
+b) El monto de las rentas a cargo de las personas trabajadoras derechohabientes podrá pactarse con o sin actualización y su cálculo deberá determinarse bajo criterios sociales, sin fines de lucro o especulación comercial y considerando el nivel salarial de las personas trabajadoras derechohabientes, debiendo ser suficiente para que el Instituto cubra el pago del impuesto predial y los derechos de agua;
+
+c) El derecho de las personas trabajadoras a ejercer la opción a compra de la vivienda en cualquier momento, siempre que cuente con el nivel de ahorro en su subcuenta de vivienda o recursos propios necesarios para ello, pudiendo reconocerse el pago de rentas a cuenta del precio final de venta, y
+
+d) Establecer mecanismos de terminación anticipada y rescisión para que el Instituto, sin necesidad de declaración judicial, en caso de que la persona trabajadora derechohabiente incumpla con sus obligaciones, recupere la posesión de las viviendas de su propiedad o bajo su administración.
+
+Estará prohibido que el Instituto establezca en los contratos derivados de los programas a que se refiere este artículo cláusulas discriminatorias o contrarias a los derechos humanos.
+
+Los modelos de contratos serán publicados en la página de Internet oficial del Instituto.
+
+Las operaciones de arrendamiento del Instituto recibirán las facilidades administrativas, incentivos y beneficios que se acuerden con las autoridades competentes, procurando la reducción de gastos para el Fondo Nacional de la Vivienda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+###### ARTICULO 51 Quáter.
+
+Las personas trabajadoras derechohabientes tendrán las siguientes obligaciones frente al Instituto en materia de arrendamiento social:
+
+I.- Pagar en tiempo, forma y de manera completa las rentas a que estén obligados. Para tales efectos el monto de las rentas será descontado del salario en los términos de los artículos 97 y 110 de la Ley Federal del Trabajo;
+
+II.- Cuidar diligentemente la vivienda que se le otorgue como si fuera propia;
+
+III.- Notificar al Instituto de cualquier defecto, daño o deterioro que observen, la reparación se realizará conforme a las políticas que establezca el Consejo de Administración, pudiendo establecer cargos a la persona trabajadora derechohabiente que resulte responsable de los daños a la vivienda;
+
+IV.- Desocupar y entregar la vivienda que se le otorgue al terminar el arrendamiento, y
+
+V.- Está prohibido que las personas trabajadoras usen la vivienda para fines distintos a su habitación y residencia, así como darla en subarrendamiento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+###### ARTICULO 51 Quinquies.
+
+El Instituto en sus programas de enajenación de vivienda a favor de las personas trabajadoras derechohabientes dará preferencia a aquellas que no cuenten con vivienda propia, procurando que el precio final de venta se calcule conforme a criterios sociales, sin fines de lucro o especulación comercial y considerando el nivel salarial de cada derechohabiente.
 
 ###### ARTICULO 52.
 
@@ -1388,43 +1554,55 @@ ARTICULO 59 BIS.- Tratándose de las personas que se hayan inscrito voluntariame
 
 Las relaciones de trabajo entre el Instituto y su personal, se regirán por las disposiciones de la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
 ###### ARTICULO 63.
 
-Los remanentes que obtenga el Instituto en sus operaciones, no estarán sujetos al Impuesto Sobre la Renta ni a la participación de los trabajadores en las utilidades de las empresas.
+Los remanentes que obtenga el Instituto, su empresa filial y fideicomisos, en sus operaciones, no estarán sujetos al Impuesto Sobre la Renta ni a la participación de los trabajadores en las utilidades de las empresas.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 64.
 
-El Instituto no podrá intervenir en la administración, operación o mantenimiento de conjuntos habitacionales, ni sufragar los gastos correspondientes a estos conceptos.
+El Instituto podrá intervenir en la administración, operación o mantenimiento de inmuebles de su propiedad o bajo su administración que estén destinados a programas de enajenación o arrendamiento social de vivienda, en cualquiera de sus modalidades.
 
 ###### ARTICULO 65.
 
 (DEROGADO, D.O.F. 24 DE FEBRERO DE 1992)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 66.
 
-Con el fin de que los recursos del Instituto se inviertan de conformidad con lo que dispone la presente Ley, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, tendrá las siguientes facultades:
+Con el fin de que el Instituto destine los recursos que integran su patrimonio o que están bajo su administración a la consecución de sus objetivos, estarán sujetos a lo siguiente:
 
-I.- La Secretaría de Hacienda y Crédito Público, vigilará que los programas financieros anuales del Instituto no excedan a los presupuestos de ingresos corrientes y de los financiamientos que reciba el Instituto. Dichos financiamientos deberán ser aprobados previamente por esta Secretaría, y
+I.- El Instituto deberá solicitar, en su caso, a la Secretaría de Hacienda y Crédito Público aprobación de los financiamientos que reciba;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+II.- La Asamblea General del Instituto deberá establecer las políticas de organización de la contabilidad y auditoría interna del Instituto, conforme a las normas de información financiera vigentes y aplicables, observando su origen constitucional, regulación como organismo de servicio social, objeto, fines y, en general, el régimen interno previsto en esta Ley;
 
-II.- La Comisión Nacional Bancaria y de Valores, aprobará los sistemas de organización de la contabilidad y de auditoría interna del Instituto en el ámbito de su competencia, dictándole las normas de registro contable de sus operaciones, fijándole las reglas para la estimación de sus activos, y en su caso, de sus obligaciones y responsabilidades, y expidiéndole las normas de carácter prudencial a que se sujetarán sus operaciones, atendiendo a esta Ley y a la naturaleza de los fines del Instituto;
+III.- La Secretaría de Hacienda y Crédito Público, auxiliada por la Comisión Nacional Bancaria y de Valores, fijará las normas de carácter prudencial y sanas prácticas a que se sujetarán las operaciones en materia crediticia que realice el Instituto, atendiendo a esta Ley y a la naturaleza social de los fines del Instituto;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+IV.- La Secretaría de Hacienda y Crédito Público, auxiliada por la Comisión Nacional Bancaria y de Valores, supervisará y vigilará que las operaciones del Instituto en materia crediticia se ajusten a las normas establecidas y a las sanas prácticas.
 
-III.- La Comisión Nacional Bancaria y de Valores supervisará y vigilará que las operaciones del Instituto se ajusten a las normas establecidas y a las sanas prácticas, informando al Instituto y a la Secretaría de Hacienda y Crédito Público de las irregularidades que pudiera encontrar, para que se corrijan, y en su caso, impondrá las sanciones que correspondan en el ejercicio de sus funciones, y
+Ante el incumplimiento por parte del Instituto se deberán establecer programas de autocorrección sujetos a un plazo de ejecución determinado y, en su caso, dará vista a la Contraloría General del Instituto del incumplimiento al programa de autocorrección, para que aplique las sanciones previstas en el Reglamento Interior de Trabajo. La Contraloría informará al Comité de Auditoría, a la Comisión de Vigilancia y a la Comisión Nacional Bancaria y de Valores del procedimiento iniciado y de sus resultados;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+V.- La Secretaría de Hacienda y Crédito Público podrá validar sobre el régimen de inversión de los recursos a que se refiere el tercer párrafo del artículo 43 de esta Ley;
 
-IV.- La Comisión Nacional Bancaria y de Valores ejercerá todas las demás facultades aplicables que le son conferidas, conforme a lo dispuesto en su propia Ley y sus Reglamentos respectivos.
+VI.- Con base en lo establecido en este artículo, el Instituto deberá presentar al Congreso de la Unión y al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a más tardar el 30 de mayo de cada año, un informe dictaminado por una auditoría externa, sobre la situación financiera de sus activos y pasivos, que contenga una evaluación respecto a la suficiencia de los flujos correspondientes para cubrir la operación del Instituto. El informe a que se refiere esta fracción deberá aprobarse por la Asamblea General del Instituto, y
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+VII.- Las operaciones que realice el Instituto en materia inmobiliaria, estarán basadas en los principios de máxima revelación de información, promoción de la competencia, protección al derechohabiente, preservación de la estabilidad financiera, y prevención de operaciones con recursos de procedencia ilícita y fraudes. Estos principios deben ser respetados por el Instituto y sus Órganos, respecto de su operación, así como por las autoridades que corresponda al ejercer sus facultades.
 
-En virtud de lo anterior, no son aplicables al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las disposiciones de la Ley Federal de las Entidades Paraestatales.
+Los informes sobre dichas operaciones que deban presentarse a la Asamblea General y al público a través de la página de Internet del Instituto, así como la forma y términos de revelación de información de dichas operaciones, estarán sujetos a las disposiciones de carácter general que expida el Consejo de Administración.
+
+No son aplicables al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las disposiciones de la Ley Federal de las Entidades Paraestatales ni aquellas aplicables a los ejecutores de gasto derivadas de la Ley Federal de Presupuesto y Responsabilidad Hacendaria ni de la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+###### ARTICULO 66 Bis.
+
+La fiscalización del Instituto estará a cargo de la Auditoría Superior de la Federación y será competente para revisar la actividad del Instituto como organismo fiscal autónomo, la debida integración y administración del patrimonio del Instituto, el ejercicio del presupuesto de gastos de administración, operación y vigilancia, así como del presupuesto de inversión en materia de construcción y administración inmobiliaria. Los recursos que se destine a los presupuestos de gastos de administración, operación y vigilancia e inversiones serán considerados recursos públicos para los efectos de la Ley de Fiscalización y Rendición de Cuentas de la Federación cuando no sean reintegrados a las subcuentas de vivienda de las personas trabajadoras derechohabientes. En el desarrollo de sus auditorías y en la formulación de sus observaciones y recomendaciones, la Auditoría Superior de la Federación deberá tener en cuenta el marco legal especial del Instituto, así como los resultados de las revisiones que en el ejercicio de sus funciones realicen los órganos de auditoría y vigilancia en términos de esta Ley.
+
+Las subcuentas de vivienda y créditos de vivienda de las personas trabajadoras son inviolables y no estarán sujetas a auditoría, revisión o fiscalización alguna.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -1444,11 +1622,11 @@ El Instituto se considerará de acreditada solvencia y no estará obligado a con
 
 El Instituto podrá celebrar convenios de coordinación y colaboración con las autoridades federales, estatales y municipales, según corresponda, para el mejor cumplimiento de sus funciones. Las dependencias y entidades públicas y privadas proporcionarán al Instituto la información estadística, censal y fiscal necesaria, para el mejor desarrollo de sus objetivos.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 70.
 
-El Instituto no será sujeto de contribuciones federales, salvo los derechos de carácter federal correspondientes a la prestación de servicios públicos. El Instituto cubrirá el pago de los impuestos y derechos de carácter municipal, en las mismas condiciones en que deben pagar los demás causantes.
+El Instituto, su empresa filial y fideicomisos, no será sujeto de contribuciones federales, salvo los derechos de carácter federal correspondientes a la prestación de servicios públicos. El Instituto cubrirá el pago de los impuestos y derechos de carácter municipal, en las mismas condiciones en que deben pagar los demás contribuyentes, salvo aquellas contribuciones a que se refiere el artículo 44 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2014)</small>
 
@@ -2037,3 +2215,53 @@ Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar 
 DÉCIMO PRIMERO. Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
 
 En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
+
+D.O.F. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE VIVIENDA CON ORIENTACIÓN SOCIAL”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones legales que se opongan al mismo.
+
+Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normativa emitida por cualquier órgano o área del Instituto continuarán en vigor en lo que no se opongan al presente Decreto o a las normas o resoluciones emitidas por las autoridades, o hasta en tanto los órganos o áreas competentes determinen su reforma o abrogación.
+
+Tercero.- Los órganos del Instituto deberán quedar integrados dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, para ello:
+
+I.- La Secretaría del Trabajo y Previsión Social emitirá, dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las bases para determinar las organizaciones nacionales de trabajadores y patrones que intervendrán en la designación de los integrantes de la Asamblea General, en términos de los artículos 7o. y 8o. de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+
+II.- Los sectores, con base en la representación que resulte de la integración de la nueva Asamblea General, deberán renovar en su totalidad a su respectiva representación designando a los nuevos integrantes de los órganos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, y
+
+III.- El Ejecutivo Federal deberá emitir el acuerdo por el que nombre a sus representantes en los órganos del Instituto, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá renovar a la persona titular de la Auditoría Interna, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, en términos del artículo 16, fracción XVIII, de su Ley y las disposiciones jurídicas aplicables.
+
+Quinto.- La persona titular de la Dirección General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá realizar los actos necesarios para la constitución de la empresa filial, a la que se refiere el artículo 3o., fracción V, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, y su objeto será, entre otros, la construcción de vivienda, su integración accionaria será mayoritariamente del Instituto y se conformará con recursos provenientes del presupuesto de gastos de administración, operación y vigilancia autorizado para el ejercicio 2024. Los estatutos sociales deberán reflejar los principios contenidos en el artículo 3o., último párrafo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, establecer las actividades que conformen el objeto de la empresa filial, los órganos de gobierno que estarán constituidos al menos por un Consejo de Administración, presidido por la persona titular de la Dirección General del Instituto, e integrado por el personal directivo de este; así como por un Comité de Auditoría, que tendrá a su cargo las funciones de control, evaluación, rendición de cuentas y transparencia de la empresa filial; asimismo, contará con un Comité de Ética y un Código de Ética. El Estatuto Orgánico y normativa interna de la empresa filial establecerán su estructura organizacional y de operación.
+
+Sexto.- La Asamblea General y el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberán expedir las políticas y reglas conforme a las cuales se otorgarán viviendas en arrendamiento social en términos del artículo 51 Ter de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Los Órganos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirán las demás disposiciones y realizará las reformas a su marco jurídico interno con el objeto de dar cumplimiento al presente Decreto, dentro de los trescientos sesenta días naturales siguientes al inicio de su vigencia.
+
+Séptimo.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá continuar aplicando los presupuestos de ingresos y egresos, así como de gastos de administración, operación y vigilancia aprobado para el ejercicio 2024, con efectos al primer día hábil del ejercicio 2025, considerando la inflación estimada para esa anualidad, hasta que se renueve la integración de sus órganos de gobierno. Una vez cumplido lo anterior se someterá a la aprobación de la Asamblea General los presupuestos de ingresos y egresos, así como de gastos de administración, operación y vigilancia para el ejercicio 2025 en la siguiente sesión ordinaria a la entrada en vigor del presente Decreto.
+
+Octavo.- La Secretaría de Hacienda y Crédito Público, auxiliada por la Comisión Nacional Bancaria y de Valores, dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá emitir las disposiciones en materia de crédito que serán aplicables al Instituto del Fondo Nacional de la Vivienda para los Trabajadores atendiendo a lo dispuesto por la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la naturaleza social de los fines de ese Instituto.
+
+El Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de un plazo de noventa días hábiles, contados a partir de la emisión de las disposiciones a que se refiere el párrafo anterior, deberá proponer a su Asamblea General las políticas de organización de la contabilidad y auditoría interna a que se refiere el artículo 66, fracción IV, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Para el ejercicio 2025, continuarán vigentes aquellas normas y sistemas previos a la entrada en vigor del presente Decreto.
+
+Noveno.- El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá establecer el programa de extinción de gravámenes y cancelación de inscripciones registrales, autorizando la asignación de recursos económicos necesarios para gestionar su celebración y entrega de los instrumentos correspondientes a cualquier acreditado del propio Instituto, en términos del artículo 44 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+La persona titular de la Dirección General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá coordinarse con las autoridades locales y municipales competentes para procurar la celebración de convenios con el objeto de que le brinde facilidades administrativas y beneficios fiscales que requiera el Instituto para la operación del programa, buscando la atención expedita de las personas trabajadoras derechohabientes y el uso eficiente de los recursos del Fondo Nacional de la Vivienda.
+
+Décimo.- Los derechos laborales de las personas trabajadoras que formen parte de los órganos que se extinguen con motivo de este Decreto serán respetados en términos de las disposiciones aplicables.
+
+Décimo Primero.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a partir de la entrada en vigor del presente Decreto, deberá mantener la mensualidad de los créditos que hubiere otorgado al monto correspondiente al cierre del ejercicio 2024 y a partir del ejercicio 2025 deberá aplicar una actualización equivalente al cero por ciento.
+
+Décimo Segundo.- A partir de la entrada en vigor del presente Decreto, quedarán canceladas todas las resoluciones por las que se aprueben proyectos colectivos de crédito en línea tres a la construcción de vivienda que el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores haya adoptado con anterioridad al 1 de julio de 2023; sus promoventes podrán presentar nuevamente sus proyectos o las etapas remanentes de estos, para su actualización o aprobación en términos del artículo 42, cuarto párrafo de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+En su caso, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá restituir en la subcuenta de vivienda de las personas trabajadoras derechohabientes las cantidades que les correspondan por la amortización del crédito otorgado y deberá permitirles tramitar un nuevo crédito, siempre que cumplan con los requisitos a que se refiere la ley.
+
+Los desarrolladores o constructores y entidades administradoras de los proyectos contarán con un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para entregar al Instituto del Fondo Nacional de la Vivienda para los Trabajadores sin necesidad de resolución judicial las cantidades, intereses y penas convencionales que tuvieren en custodia, correspondientes a los créditos de las personas trabajadoras derechohabientes que hubieren adquirido un predio destinado a construcción dentro de alguno de los proyectos cuyas autorizaciones resulten canceladas.
+
+Las personas trabajadoras derechohabientes contarán con un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para transmitir al Instituto del Fondo Nacional de la Vivienda para los Trabajadores la propiedad de los inmuebles que hubieren adquirido con un crédito en línea tres, en los términos del presente transitorio.
