@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2024-04-05"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -265,7 +265,9 @@ g) Reportar, semestralmente, a la Procuraduría Federal de Protección de Niñas
 
 h) Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
 
-II. A la Secretaría de Salud:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 21 DE FEBRERO DE 2025)</small>
+
+II. A la Secretaría de Salud y al Instituto de Salud del Estado de México, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, en el ámbito de su competencia:
 
 a) Otorgar a los Centros de Asistencia Social la autorización sanitaria, en términos de lo establecido en el Código Administrativo del Estado de México y demás normatividad aplicable.
 
@@ -323,7 +325,9 @@ Los Centros de Asistencia Social públicos, deberán cumplir con los requisitos 
 
 I. Estar inscritos en el Registro Estatal.
 
-II. Contar con la autorización sanitaria expedida por la Secretaría de Salud, en la que se precise que las instalaciones cuentan con las condiciones de salubridad e higiene, que como mínimo, se deben observar para prestar el servicio.
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+II. Contar con la autorización sanitaria el aviso de Funcionamiento y de responsable sanitario del establecimiento recibido por la autoridad sanitaria, en la que se precise y garantice que las instalaciones cuentan con las condiciones de salubridad e higiene, que como mínimo, se deben observar para prestar el servicio.
 
 > <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -1852,3 +1856,27 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO Y DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Crea el Organismo Público Descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno” el 10 de julio de 2015.
+
+CUARTO. A la entrada en vigor del presente Decreto se extinguirá el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM, para el cumplimiento de lo anterior, la Secretaría de Salud de conformidad con lo establecido en las disposiciones jurídicas aplicables, nombrará a un representante legal, quien tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial, en términos de las disposiciones jurídicas aplicables. El organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+QUINTO. Los recursos humanos, materiales, financieros y las previsiones presupuestales del organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán transferidos al Instituto de Salud del Estado de México. En todo caso, se respetarán los derechos laborales de las personas trabajadoras adscritas al organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM de conformidad con las disposiciones jurídicas aplicables.
+
+SEXTO. Las secretarías de Finanzas, de Salud y de la Contraloría, y la Oficialía Mayor, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM se entenderán hechas al Instituto de Salud del Estado de México.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos del Instituto de Salud del Estado de México.
+
+Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán atendidos hasta su conclusión por el Instituto de Salud del Estado de México, a través de su unidad administrativa Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
