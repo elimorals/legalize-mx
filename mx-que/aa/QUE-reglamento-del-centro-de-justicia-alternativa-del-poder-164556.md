@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-centro-de-justicia-alternativa-del-poder-164556"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-02-17"
-last_updated: "2023-02-17"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2025.
 
 Reglamento publicado en el Número 11 del Periódico Oficial del Estado de Querétaro, el viernes 17 de febrero de 2023.
 
@@ -51,45 +51,55 @@ REGLAMENTO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO DE Q
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 1.
 
-Objeto. El presente ordenamiento tiene como finalidad regular la estructura, funcionamiento y bases que permitan la operatividad del Centro de Justicia Alternativa, área de apoyo jurisdiccional contemplada en el artículo 163 de la Ley Orgánica del Poder Judicial del Estado de Querétaro.
+Objeto. El presente ordenamiento tiene como finalidad regular la estructura, funcionamiento y bases que permitan la operatividad del Centro de Justicia Alternativa, área de apoyo jurisdiccional contemplada en el artículo 163 de la Ley Orgánica del Poder Judicial del Estado de Querétaro, conforme a los principios y bases establecidos en la Ley General de Mecanismos Alternativos de Solución de Controversias y demás normatividad aplicable.
 
 ###### Artículo 2.
 
 Procedencia y oportunidad. Los mecanismos alternativos de solución de controversias podrán ser aplicados en procedimientos materia de competencia del Poder Judicial del Estado, que sean susceptibles de transacción que no afecte el orden público e intereses de terceros y pueden iniciarse antes, durante o después del procedimiento jurisdiccional.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+Sin perjuicio de lo anterior, también podrán coadyuvar para resolver aquellas que se susciten en el ámbito interno del Poder Judicial entre sus integrantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 3.
 
-Glosario. Para efecto del presente reglamento, se entenderá por:
+Glosario. Para efecto del presente reglamento, además de las disposiciones establecidas en el artículo 5 de la Ley General de Mecanismos Alternativos de Solución de Controversias, se entenderá por:
 
 I. Centro: El Centro de Justicia Alternativa del Poder Judicial del Estado de Querétaro.
 
 II. Complementario: Es la persona física o moral indicada por el solicitante, como la otra persona con quien tiene la controversia.
 
-III. Conciliación: Procedimiento voluntario en el cual las partes son asistidas por un tercero imparcial llamado facilitador, quien es un profesionista con la potestad para proponerles soluciones y apoyarlos para que entablen ese diálogo que les permita construir acuerdos que den solución a su controversia.
+III. (DEROGADA, P.O. 21 DE FEBRERO DE 2025)
 
 IV. Consejo: Consejo de la Judicatura del Poder Judicial del Estado de Querétaro.
 
 V. Controversia: Desacuerdo sobre un punto de derecho o de hecho, una contradicción, una oposición de intereses entre dos o más personas.
 
-VI. Convenio: Acuerdo a través del cual los intervinientes ponen fin de manera total o parcial a una controversia.
+VI. (DEROGADA, P.O. 21 DE FEBRERO DE 2025)
 
 VII. Director del Centro: Titular del Centro de Justicia Alternativa.
 
 VIII. Facilitador: Persona encargada de aplicar los mecanismos alternativos de solución de controversias.
 
-IX. Intervinientes: El solicitante y el complementario.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+IX. Partes. Personas físicas o morales que, voluntariamente y de manera individual o a través de sus órganos de representantes, deciden prevenir o resolver una controversia o conflicto, a través de algunos de los mecanismos alternativos de solución de controversias previstos en esta Ley y demás que resulten aplicables en los respectivos ámbitos de competencia.
 
 X. Ley Orgánica: La Ley Orgánica del Poder Judicial del Estado de Querétaro.
 
-XI. Mecanismos alternativos: La mediación, conciliación y procesos restaurativos, y son aplicables para la solución de controversias entre las personas, como una manera alterna a un procedimiento jurisdiccional.
+XI. (DEROGADA, P.O. 21 DE FEBRERO DE 2025)
 
-XII. Mediación: Procedimiento voluntario en el cual las partes son asistidas por un tercero imparcial llamado facilitador, quien es un profesionista que los apoyará para que entablen ese diálogo que les permita construir acuerdos que den solución a su controversia.
+XII. (DEROGADA, P.O. 21 DE FEBRERO DE 2025)
 
 XIII. Presidente: Persona que preside el Poder Judicial del Estado de Querétaro y el Consejo de la Judicatura.
 
-XIV. Procesos restaurativos: Metodologías contempladas por la Justicia Restaurativa, encaminadas a buscar, construir y proponer opciones que den solución a las controversias, con el objeto de lograr un acuerdo que atienda a las necesidades y responsabilidad individuales como colectivas, de ser el caso, reintegrar a los intervinientes a la comunidad.
+XIV. (DEROGADA, P.O. 21 DE FEBRERO DE 2025)
 
 XV. Reglamento: El Reglamento del Centro de Justicia Alternativa.
 
@@ -103,7 +113,13 @@ Supletoriedad. En lo no previsto en este Reglamento, podrá atenderse a lo que e
 
 Obligatoriedad. Las disposiciones contenidas en este Reglamento son de observancia obligatoria para los integrantes del Centro de Justicia Alternativa y usuarios de sus servicios, y para las autoridades jurisdiccionales a las que también les corresponda aplicar los mecanismos alternativos en lo no previsto por sus leyes aplicables; lo anterior, siempre y cuando no exista disposición jurídica en contrario.
 
-Los Juzgados Menores son una instancia conciliadora para toda controversia civil, mercantil y familiar de acuerdo a lo que establece la Ley Orgánica. Deberán llevar el registro correspondiente respecto de los expedientes aperturados y concluidos, y enviar a la Dirección del Centro una estadística respecto del servicio que otorgan de conciliación, dentro de los días que a su vez permitan al Director rendir el informe mensual requerido por el Presidente.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+Los Juzgados Menores son una instancia conciliadora para toda controversia civil, mercantil y familiar de acuerdo a lo que establece la Ley Orgánica. Deberán llevar el registro correspondiente respecto de los expedientes aperturados y concluidos en los términos que se indiquen por la Dirección del Centro, y enviar a esta la estadística respecto del servicio que otorgan de conciliación dentro del plazo que se establezca por el Presidente.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+Quedan exceptuados los Juzgados Menores de Querétaro, Corregidora, El Marqués y San Juan del Río, toda vez que en su territorio cuentan con el Centro de Justicia Alternativa, por lo que podrán otorgar dicho servicio antes, durante la tramitación del proceso jurisdiccional o posterior a este, en los casos que así proceda en los términos de la normatividad aplicable.
 
 ###### Artículo 6.
 
@@ -114,6 +130,10 @@ Supervisión y vigilancia. El Centro se encuentra bajo la supervisión directa d
 Oficinas y horarios. Para el debido cumplimiento de las funciones del Centro, se contará con oficinas necesarias en las áreas y Distritos Judiciales donde se requieran sus servicios, conforme lo establezca el Consejo y a la suficiencia presupuestaria; siempre habrá una oficina central ubicada en la cabecera del Distrito Judicial de Querétaro, en la que despachará el Director del Centro, y en cada una de las demás oficinas habrá personal que designe el Consejo.
 
 El Centro funcionará en los horarios de las oficinas de su ubicación, de lunes a viernes excepto aquellos que conforme al calendario que aprueba el Consejo se declaren como no laborables.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+Los Juzgados Menores en donde no exista una sede de un Centro de Justicia Alternativa, referidos en el artículo 5 del presente ordenamiento, otorgarán el servicio de conciliación a efecto de generar cobertura en todo el Estado.
 
 ###### Artículo 8.
 
@@ -127,17 +147,23 @@ Perfiles. Los perfiles de puestos determinarán los requisitos para desempeñars
 
 Difusión. El Centro deberá promover y difundir la resolución pacífica de las controversias a través de la aplicación de los mecanismos alternativos, como otra forma de acceder a la justicia, en la que las soluciones son encaminadas a satisfacer las necesidades e intereses de los involucrados en un esquema de legalidad; todo ello, con la finalidad de promover La Cultura de la Paz.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 11.
 
-Encuestas. Con el propósito de medir el grado de satisfacción y mejorar el servicio que se ofrece, al concluir el procedimiento se podrá hacer entrega a los intervinientes de encuestas para su llenado. El Director determinará el contenido de las mismas, los momentos y periodos en que habrán de ser aplicadas.
+Encuestas. Con el propósito de medir el grado de satisfacción y mejorar el servicio que se ofrece, al concluir el procedimiento se podrá hacer entrega a las Partes de encuestas para su llenado. El Director determinará el contenido de las mismas, los momentos y periodos en que habrán de ser aplicadas.
 
 ###### Artículo 12.
 
 Durante el procedimiento de los mecanismos alternativos, se podrán utilizar los medios electrónicos oficiales como el correo electrónico, las líneas telefónicas y el sistema integral de Gestión Judicial Administrativo, y los demás que sean autorizados por el Consejo, para facilitar su aplicación cuidando se observen en todo momento los principios que los rigen, y se privilegiará su uso en los registros que se deriven de dicho procedimiento.
 
-Podrá ser utilizada la videoconferencia en tiempo real si existe alguna causa que impida justificadamente que uno o ambos intervinientes acudan al Centro; para la firma del convenio, sí deberán estar presentes los intervinientes, salvo la implementación de nuevas tecnologías que garanticen su autenticidad, y en el momento de acudir presentarán el original de aquellos documentos que eventualmente les sean requeridos.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
 
-Para garantizar la conectividad en la videoconferencia del interviniente que se encuentra a distancia, el Centro se podrá auxiliar de otra área del Poder Judicial cercana al domicilio de aquél, que cuente con las condiciones necesarias.
+Podrá ser utilizada la videoconferencia en tiempo real si existe alguna causa que impida justificadamente que una o ambas Partes acudan al Centro; para la firma del convenio, si deberán estar presentes las Partes, salvo la implementación de nuevas tecnologías que garanticen su autenticidad, y en el momento de acudir presentarán el original de aquellos documentos que eventualmente les sean requeridos.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+Para garantizar la conectividad en la videoconferencia (sic) la Parte que se encuentra a distancia, el Centro se podrá auxiliar de otra área del Poder Judicial cercana al domicilio de aquél, que cuente con las condiciones necesarias.
 
 El Centro procurará automatizar sus procedimientos, con el empleo de sistemas desarrollados por la Dirección de Tecnologías de la Información, que permita el fortalecimiento del servicio y facilite el cumplimiento de las obligaciones de Transparencia.
 
@@ -151,9 +177,19 @@ I. Director;
 
 II. Coordinadores;
 
-III. Facilitadores; y,
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
 
-IV. Auxiliares.
+III. Facilitadores;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+IV. Validadores, y
+
+V. Auxiliares.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+VI. Demás personal que determine el órgano competente, de acuerdo con la necesidad del servicio, quienes realizarán sus funciones de conformidad con las disposiciones legales aplicables y la suficiencia presupuestaria.
 
 ###### Artículo 14.
 
@@ -209,43 +245,87 @@ XXIV. Actualizar permanentemente sus conocimientos teóricos y técnicos sobre l
 
 XXV. Las demás que le confieran otras disposiciones aplicables y órganos competentes del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 15.
 
-De la Coordinación. La Dirección contará con coordinaciones que concentren por áreas las distintas actividades que conlleva la aplicación de los mecanismos alternativos; sus facultades y obligaciones son las siguientes:
+De las Coordinaciones. La Dirección contará para el ejercicio de sus facultades, de las coordinaciones siguientes:
 
-I. Conducirse con rectitud, imparcialidad y profesionalismo; guardar reserva de la información que se haga de su conocimiento y de los expedientes, o le sea confiada con motivo de su cargo;
+I. Coordinación Jurídica; y,
 
-II. Llevar la organización y responsabilidad administrativa del área o actividades que le sean asignadas;
+II. Coordinación de Mecanismos Alternativos.
 
-III. Coordinar las actividades de facilitadores y administrativos, las que le sean encomendadas, y supervisar que estas se realicen conforme a este Reglamento y demás disposiciones aplicables; procurando la distribución equitativa del trabajo;
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2025)</small>
 
-IV. Centralizar la información, peticiones y requerimientos que se realicen al Centro o por sus mismos integrantes;
+###### Artículo 15 Bis.
 
-V. Ser el canal de comunicación entre el personal administrativo y el Director, para el desempeño de las funciones;
+La Coordinación Jurídica tendrá las facultades y obligaciones siguientes:
 
-VI. Convocar a reuniones mensuales, al personal que coordine para la atención de los asuntos o solicitudes que le sean realizadas con motivo de la función, y de ello deberá levantar minuta;
+I. Coordinar y distribuir las solicitudes de validación y sanción de convenios, y el seguimiento de los mismos;
 
-VII. Llevar y conservar los registros necesarios para la organización y control del Centro de acuerdo a lo que indica el presente reglamento;
+II. Revisar la legalidad de los convenios por si, o a través del personal autorizado;
 
-VIII. Supervisar los convenios realizados por los facilitadores cuando las necesidades del servicio lo requieran;
+III. Tener a su cargo el Sistema de Convenios;
 
-IX. Mantener informado al Director de la organización o estrategias que implemente, así como de las eventualidades o actividades derivadas de las funciones del Centro;
+IV. Elaborar por si, o a través del personal autorizado las resoluciones de determinación de validación o prevención dentro de los plazos legales;
 
-X. Fungir como facilitador cuando las necesidades del servicio lo requieran;
+V. Supervisar la legalidad de las determinaciones de validación y sanción que sean remitidas;
 
-XI. Firmar la invitación de la parte complementaria para el mecanismo alternativo;
+VI. Llevar el control de los registros y plazos de los asuntos de su área;
 
-XII. Procesar la información estadística originada por la aplicación de los mecanismos alternativos, y deberá elaborar reportes mensuales;
+VII. Llevar el control de las comunicaciones y requerimientos que sean canalizados a su área;
 
-XIII. Rendir los informes que le sean requeridos por el Director;
+VIII. Llevar el seguimiento de los registros estadísticos de su área;
 
-XIV. Brindar apoyo en el procedimiento alternativo cuando algún facilitador o administrativo se lo solicite;
+IX. Coordinar y dirigir las visitas de supervisión de los Centros y operadores de los mecanismos alternativos de solución de controversias, y llevar el control estadístico de esta función;
 
-XV. Realizar las labores que el Director le encomiende, relacionadas con las funciones del Centro;
+X. Coadyuvar en el desarrollo de los procesos de capacitación y certificación;
 
-XVI. Actualizar permanentemente sus conocimientos teóricos y técnicos sobre los mecanismos alternativos; y,
+XI. Apoyar a los integrantes del Centro en el aspecto jurídico en la aplicación de los mecanismos alternativos de solución de controversias y elaboración de convenios;
 
-XVII. Las demás que le confieran otras disposiciones aplicables y órganos competentes del Poder Judicial del Estado.
+XII. Realizar por si, o a través del personal autorizado el registro de convenios en el Sistema de Convenios;
+
+XIII. Suplir las ausencias temporales del Director del Centro;
+
+XIV. Atender las necesidades administrativas, normativas y del personal de su área, así como ser el canal de comunicación con el superior jerárquico;
+
+XV. Auxiliar al Director del Centro en las actividades que se le encomienden, relacionadas con las funciones del Centro; y,
+
+XVI. Las demás que le confieren las disposiciones legales y determinen los órganos competentes del Poder Judicial
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+###### Artículo 15 Ter.
+
+La Coordinación de Mecanismos Alternativos tendrá las facultades y obligaciones siguientes:
+
+I. Coordinar la atención al público de manera presencial y por los medios electrónicos autorizados;
+
+II. Coordinar la recepción y distribución de solicitudes para la aplicación de mecanismos alternativos de solución de controversias;
+
+III. Llevar el control del Registro de personas facilitadoras, personas abogadas colaborativas y Centros de Mecanismos Alternativos de Solución de Controversias;
+
+IV. Coadyuvar en la determinación de competencia y procedibilidad de los asuntos que sean sometidos al Centro;
+
+V. Coordinar la agenda de sesiones en los mecanismos alternativos de solución de controversias;
+
+VI. Supervisar y coadyuvar en la aplicación de los mecanismos alternativos de solución de controversias;
+
+VII. Coadyuvar de manera directa en la coordinación de los procesos de supervisión de Centros y operadores de los mecanismos alternativos;
+
+VIII. Coadyuvar en la coordinación de los procesos de capacitación y certificación, y tener a su cargo el Registro de personas facilitadoras, personas abogadas colaborativas y Centros de Mecanismos Alternativos de Solución de Controversias;
+
+IX. Atender las necesidades administrativas, normativas y del personal de su área, así como ser el canal de comunicación con el superior jerárquico;
+
+X. Coordinar los proyectos para la difusión de la Cultura de la Paz a través de los mecanismos alternativos de solución de controversias;
+
+XI. Coordinar la colaboración con diversas instituciones para el desarrollo de proyectos en lo relativo a la aplicación de los mecanismos alternativos de solución de controversias;
+
+XII. Auxiliar al Director del Centro en las actividades que se le encomienden, relacionadas con las funciones del Centro;
+
+XIII. Las demás que le confieren las disposiciones legales y determinen los órganos competentes del Poder Judicial; y,
+
+XIV. Las demás que le confieren las disposiciones legales y determinen los órganos competentes del Poder Judicial. (sic)
 
 ###### Artículo 16.
 
@@ -253,7 +333,9 @@ De los Facilitadores. Los facilitadores tienen las funciones y obligaciones sigu
 
 I. Conducirse con rectitud, imparcialidad, profesionalismo; asimismo, guardar reserva de la información que se haga de su conocimiento y de los expedientes, o le sea confiada con motivo de su cargo;
 
-II. Verificar el llenado de los documentos requeridos a los intervinientes;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+II. Verificar el llenado de los documentos requeridos a las Partes;
 
 III. Actualizar diariamente su agenda de actividades;
 
@@ -263,7 +345,9 @@ V. Firmar la invitación del complementario para el mecanismo alternativo;
 
 VI. Determinar con autorización del Director del Centro o a falta de este del Coordinador, la forma de entregar la invitación dirigida al complementario cuando sea distinta a lo que prevé este ordenamiento;
 
-VII. Informar a los intervinientes sobre la naturaleza y ventajas de los mecanismos alternativos, así como las consecuencias del convenio que celebren;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+VII. Informar a las Partes sobre la naturaleza y ventajas de los mecanismos alternativos, así como las consecuencias del convenio que celebren;
 
 VIII. Llevar los procedimientos de forma clara y ordenada, de acuerdo con los principios y directrices establecidas en este reglamento y demás disposiciones aplicables;
 
@@ -295,7 +379,39 @@ XXI. Auxiliar al Director y Coordinador del Centro en las labores que se le enco
 
 XXII. Actualizar permanentemente sus conocimientos teóricos y técnicos sobre los mecanismos alternativos y los que le sean solicitados; y,
 
-XXIII. Las demás que le confieran otras disposiciones aplicables y órganos competentes del Poder Judicial del Estado.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+XXIII. Auxiliar al Director del Centro en las actividades que se le encomienden, relacionadas con las funciones del Centro; y,
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+XXIV. Las demás que le confieren las disposiciones legales y determinen los órganos competentes del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+###### Artículo 16 Bis.
+
+De los Validadores. Los validadores tienen las funciones y obligaciones siguientes:
+
+I. Revisar la legalidad de los convenios que le sean asignados;
+
+II. Elaborar las resoluciones de determinación de validación o prevención dentro de los plazos legales;
+
+III. Atender los requerimientos o solicitudes que se realicen al Centro de Justicia Alternativa relacionados con su área;
+
+IV. Llevar el seguimiento de los plazos de los asuntos que le sean asignados;
+
+V. Mantener actualizados los registros de los asuntos en los que actúe;
+
+VI. Registrar los convenios en las plataformas correspondientes;
+
+VII. Dar seguimiento a los convenios;
+
+VIII. Coadyuvar en la aplicación de los mecanismos alternativos de solución de controversias, cuando las necesidades del servicio lo requieran,
+
+IX. Auxiliar al Director del Centro en las actividades que se le encomienden, relacionadas con las funciones del Centro; y,
+
+X. Las demás que le confieren las disposiciones legales y determinen los órganos competentes del Poder Judicial.
 
 ###### Artículo 17.
 
@@ -347,57 +463,53 @@ Los integrantes del Centro son sujetos al régimen disciplinario en los término
 
 ### CAPÍTULO V. De los Mecanismos Alternativos de Solución de Controversias
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 20.
 
-Los mecanismos alternativos. Los mecanismos alternativos reconocidos por este Reglamento son la mediación, conciliación y los procesos restaurativos; para su aplicación y substanciación, el facilitador deberá atender a la naturaleza, contexto del asunto de que se trate y a la posibilidad de llevarlo a cabo de acuerdo a los instrumentos con los que cuenta este Centro, así como a las siguientes disposiciones cuando no haya reglas específicas previstas en las leyes aplicables.
+Los mecanismos alternativos. Los mecanismos alternativos de solución de controversias reconocidos por este Reglamento son la mediación, conciliación y los procesos restaurativos; para su aplicación y substanciación, el facilitador deberá atender a la naturaleza, contexto del asunto de que se trate y a la posibilidad de llevarlo a cabo de acuerdo a las disposiciones contenidas en la Ley General de Mecanismos Alternativos de Solución de Controversias y demás normatividad aplicable.
 
 En el caso de los procesos restaurativos, se observará lo siguiente:
 
-I. Se llevarán sesiones iniciales previas con cada uno de los intervinientes para evaluar y prepararlos para participar en el procedimiento;
+I. Se llevarán sesiones iniciales previas con cada uno (sic) de las Partes para evaluar y prepararlos para participar en el procedimiento;
 
 II. Se determinará la conveniencia de continuar el procedimiento y llevar a cabo la reunión conjunta; y,
 
-III. Una vez que los intervinientes se sientan listos para esa reunión conjunta, y hayan aceptado llevarla, se fijará una fecha para la celebración de la misma.
+III. Una vez que las Partes se sientan listos (sic) para esa reunión conjunta, y hayan aceptado llevarla, se fijará una fecha para la celebración de la misma.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 21.
 
-Las sesiones. Las sesiones que se lleven con motivo del mecanismo alternativo son privadas y orales; se realizarán únicamente con la presencia de los intervinientes, y en su caso, podrán participar auxiliares o expertos, a petición de los interesados para la toma de decisiones en el asunto de que se trate. Cuando ambos intervinientes cuenten con abogado, estos podrán presenciar las sesiones, pero no intervenir durante las mismas.
+Las sesiones. Las sesiones que se lleven con motivo del mecanismo alternativo son privadas y orales; se realizarán únicamente con la presencia de las Partes, y en su caso, podrán participar auxiliares o expertos, a petición de los interesados para la toma de decisiones en el asunto de que se trate.
 
 En caso de que se suscite alguna duda de índole jurídica que deseen consultar con su abogado, podrán solicitar la suspensión de la sesión para dicho fin.
 
 ###### Artículo 22.
 
-Principios. Los principios de los mecanismos alternativos, son los siguientes:
+(DEROGADO, P.O. 21 DE FEBRERO DE 2025)
 
-I. Voluntariedad: Es requisito esencial del mecanismo alternativo la propia decisión de los intervinientes de participar en él, libre de toda coacción. Los intervinientes tendrán en todo momento la libertad para acudir, permanecer o retirarse del procedimiento;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE FEBRERO DE 2025)</small>
 
-II. Confidencialidad: La información derivada de las sesiones no podrá ser divulgada por ninguna de las personas que participen, salvo que se esté revelando la comisión de un delito, en cuyo caso se deberá poner en conocimiento de la autoridad competente. La información que el facilitador reciba en una sesión privada con uno de los intervinientes, no podrá ser revelada en la reunión conjunta sin obtener previa autorización de la persona de la que obtuvo la información;
+### CAPÍTULO VI. De las Partes
 
-III. Legalidad: Lo que se someta a un mecanismo alternativo no debe ser contrario a Derecho; el convenio que eventualmente derive debe ser factible de cumplir y no quebrantar el orden público;
-
-IV. Información: Deberá informarse a los intervinientes sobre los mecanismos alternativos, sus alcances y consecuencias;
-
-V. Flexibilidad y simplicidad: Consiste en la ausencia de patrones rígidos en el procedimiento de los mecanismos alternativos, se evitarán formalidades innecesarias y se empleará un lenguaje sencillo;
-
-VI. Imparcialidad: El facilitador debe conducirse con objetividad, sin actuar basado en intereses personales u otorgar favoritismo hacia alguno de los intervinientes;
-
-VII. Equidad: El facilitador propiciará condiciones de equilibrio entre los intervinientes; y,
-
-VIII. Honestidad y buena fe: Los intervinientes, el facilitador o todo aquel participante deberán conducirse con apego a la verdad y buena fe en cuanto a lo que se plantea y expresa.
-
-### CAPÍTULO VI. De los intervinientes
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 23.
 
-Disposiciones generales. En los mecanismos alternativos, los intervinientes deberán acudir personalmente o por medio de representante legal con facultades para transigir y comprometer sus intereses en los casos que resulte procedente. En los asuntos de carácter familiar deberán asistir personalmente.
+Disposiciones generales. En los mecanismos alternativos, las Partes deberán acudir personalmente o por medio de representante legal con facultades para transigir y comprometer sus intereses en los casos que resulte procedente. En los asuntos de carácter familiar deberán asistir personalmente.
 
-Los niños, niñas y adolescentes podrán participar directamente en los mecanismos alternativos acorde a lo establecido en el presente Reglamento, asimismo, las personas con restricciones o limitaciones a su capacidad jurídica deberán comparecer con la persona designada por la autoridad competente para su apoyo y salvaguarda.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+Los niños, niñas y adolescentes podrán participar directamente en los mecanismos alternativos acorde a lo establecido en el presente Reglamento y las demás disposiciones aplicables, asimismo, las personas con restricciones o limitaciones a su capacidad jurídica podrán comparecer con la persona que designen como apoyo y salvaguarda, o en los casos extraordinarios por la persona designada por la autoridad competente para los mismos efectos.
 
 Deberán presentar los documentos en original y copia para cotejo, que resulten necesarios para acreditar su identidad o en su caso, el carácter que ostenten, así como de aquellos que se determine necesario de acuerdo al asunto planteado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 24.
 
-Garantías para los intervinientes. En los mecanismos alternativos se deberá garantizar a los intervinientes, lo siguiente:
+Garantías para las Partes. En los mecanismos alternativos se deberá garantizar a las Partes, lo siguiente:
 
 I. Solicitar el servicio que otorga el Centro y recibir respuesta;
 
@@ -421,13 +533,17 @@ X. Leer el convenio previo a la firma;
 
 XI. Solicitar hasta dos veces se realice invitación a la complementaria en los términos que indica el presente Reglamento;
 
-XII. Obtener un original del convenio firmado por ambas partes y el facilitador; y,
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+XII. Obtener copia certificada del Convenio.
 
 XIII. Las demás previstas en el presente Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 25.
 
-Reglas de comportamiento para los intervinientes o todo aquel participante. En los mecanismos alternativos los intervinientes o todo aquel participante observarán las reglas de comportamiento siguientes:
+Reglas de comportamiento para las Partes o todo aquel participante. En los mecanismos alternativos las Partes o todo aquel participante observarán las reglas de comportamiento siguientes:
 
 I. No efectuar agresiones físicas ni verbales entre sí y para con el facilitador;
 
@@ -459,7 +575,9 @@ I. Quienes ejerzan la patria potestad o tutores. La niña, niño o adolescente p
 
 II. Representante de la Procuraduría de Protección de Niñas, Niños y Adolescentes; o,
 
-III. De toda aquella persona que por disposición legal, eventualmente, los represente.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+III. De toda aquella persona que por disposición legal, eventualmente, los represente o se encuentre dirigida a proteger sus intereses.
 
 En el caso de que la niña, niño o adolescente se presente al Centro a solicitar el servicio, sin la presencia de quienes lo representan legalmente, deberá ser atendido, y se tratará de localizar a dichas personas, en caso de no ser posible o no ser factible hacerlo, se dará aviso a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema DIF Estatal, a efecto de que brinden la asistencia correspondiente.
 
@@ -473,7 +591,9 @@ Inicio.
 
 El mecanismo alternativo se inicia derivado de:
 
-I. La voluntad de los intervinientes;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+I. La voluntad de las Partes;
 
 II. Una cláusula sobre la aplicación de mecanismos alternativos incluida en un convenio;
 
@@ -555,7 +675,9 @@ IX. Firma o huella dactilar; y,
 
 X. Aviso de privacidad.
 
-En el caso de que el solicitante acuda con abogado u otra persona que lo asista, también deberán firmar constancia de acuerdo de confidencialidad y de las reglas de comportamiento que debe mantener durante el procedimiento.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+En el caso de que el solicitante acuda con abogado u otra persona que lo asista, también deberán firmar constancia de acuerdo de confidencialidad y de las reglas de comportamiento que debe mantener durante el procedimiento para el caso de que intervenga en alguna de las sesiones conjuntas.
 
 ###### Artículo 32.
 
@@ -577,7 +699,9 @@ VI. Nombre y firma de quien suscribe la invitación; y,
 
 VII. Aviso de privacidad.
 
-La invitación será entregada a su destinatario por la parte solicitante y se procurará que la cita programada para el complementario sea en el menor tiempo posible.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+La invitación podrá ser entregada a su destinatario por la parte solicitante y se procurará que la cita programa (sic) para el complementario sea (sic) el menor tiempo posible.
 
 ###### Artículo 33.
 
@@ -595,7 +719,9 @@ De asistir el complementario a la invitación, el Facilitador se entrevistará c
 
 Programación de la primera sesión conjunta.
 
-Una vez aceptado el procedimiento, el Facilitador podrá llevar a cabo la sesión conjunta entre los intervinientes, señalando día y hora para su desahogo, procurando que sea en el menor tiempo posible. Si los intervinientes se encuentran presentes, podrá ser en el mismo momento, siempre y cuando la agenda así lo permita y cuenten con los requerimientos necesarios.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+Una vez aceptado el procedimiento, el Facilitador podrá llevar a cabo la sesión conjunta entre las Partes, señalando día y hora para su desahogo, procurando que sea en el menor tiempo posible. Si las Partes se encuentran presentes, podrá ser en el mismo momento, siempre y cuando la agenda así lo permita y cuenten con los requerimientos necesarios.
 
 Podrá abreviarse el procedimiento, en el supuesto de que el solicitante en su petición inicial manifieste que el complementario está de acuerdo en participar en él, y sea posible en ese mismo momento a través de medios electrónicos cerciorarse de ello, brindársele información sobre el servicio y recabarse sus datos; entonces, se programará directamente la reunión conjunta sin necesidad de agotar lo relativo a la entrega de la invitación y atención de ésta. Previo al inicio de la sesión conjunta, se solicitará la aceptación del servicio del complementario.
 
@@ -611,7 +737,9 @@ En dicha sesión, el Facilitador dará un discurso inicial de apertura puntualiz
 
 Sustitución del Mecanismo Alternativo.
 
-El facilitador podrá sustituir el mecanismo alternativo, cuando lo considere adecuado, previa autorización de los intervinientes.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+El facilitador podrá sustituir el mecanismo alternativo, cuando lo considere adecuado, previa autorización de las Partes.
 
 ###### Artículo 38.
 
@@ -625,7 +753,9 @@ Se desahogarán las sesiones que sean necesarias en forma individual o conjunta 
 
 Forma y resguardo. El convenio versará sobre la solución total o parcial de la controversia. En el segundo supuesto se dejarán a salvo los derechos de los intervinientes respecto de lo no acordado.
 
-El convenio será elaborado por el Facilitador por escrito; se hará entrega de los originales al solicitante y complementario, los cuales contendrán las firmas autógrafas o huellas digitales, así como de quien firme a ruego en caso de que la persona no sepa leer y escribir o esté impedida para hacerlo, de igual forma, la firma del Facilitador. En el expediente electrónico sólo constará en archivo electrónico, sin firmas o huellas.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+El convenio se hará constar por escrito, salvo la existencia de medios y requerimientos tecnológicos para que su versión sea digital, el cual será elaborado por el Facilitador; se hará entrega de copia certificada al solicitante y complementario, y los originales que contendrán las firmas autógrafas o huellas digitales de ambos como del Facilitador quedarán a resguardo del Centro o del facilitador según sea el caso. En el expediente electrónico también constará en archivo electrónico.
 
 ###### Artículo 40.
 
@@ -637,25 +767,39 @@ II. Declaraciones, datos generales y el documento con el que se cotejaron de man
 
 III. Antecedentes, que es una breve relación de los hechos que motivaron el procedimiento del mecanismo alternativo, así como la referencia de haberlo llevado a cabo;
 
-IV. Cláusulas, que contengan de manera clara y ordenada los derechos y obligaciones de dar, hacer o no hacer de los intervinientes; así como de la forma y tiempo en que éstas habrán de cumplirse; y,
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
 
-V. Nombre y firma o huella de quienes lo suscriban y del Facilitador.
+IV. Cláusulas, que contengan de manera clara y ordenada los derechos y obligaciones de dar, hacer o no hacer de las Partes; así como de la forma y tiempo en que éstas habrán de cumplirse;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+V. Nombre y firma o huella de quienes los suscriban y del Facilitador; y,
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+VI. Los demás requisitos que establezcan otras disposiciones jurídicas aplicables.
 
 En los convenios no se emplearán abreviaturas, las fechas y cantidades se escribirán con letra.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 41.
 
-Remisión del convenio. En el supuesto de que el caso sea como consecuencia de la remisión de un juez, el Director enviará el convenio al juez de la causa para el trámite que corresponda. En el caso de que la atención derive de un acuerdo previo de los intervinientes de someterse a los mecanismos alternativos, de común acuerdo podrán presentar el convenio ante la autoridad competente para su ratificación.
+Remisión del convenio. En el supuesto de que el caso cuente con un proceso jurisdiccional vigente, el Director del Centro informará al Juez sobre el resultado del mecanismo alternativo aplicado para los fines y efectos legales a que haya lugar.
 
 #### Sección V. Seguimiento del Convenio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 42.
 
-En fecha posterior a la celebración del convenio, atendiendo a la naturaleza del caso y sin exceder de seis meses, salvo disposición en contrario, el Facilitador o la persona que el Director designe para ello, entablará comunicación con los intervinientes vía telefónica a fin de saber si se ha cumplido o no el convenio.
+En fecha posterior a la celebración del Convenio, atendiendo a la naturaleza del caso y sin exceder de seis meses, salvo disposición en contrario, el Facilitador o la persona que el Director del Centro designe para ello, entablará comunicación con las Partes vía telefónica a fin de saber si se ha cumplido o no el Convenio.
 
 En caso de incumplimiento, se les podrá exhortar al cumplimiento o acudir al Centro para llevar a cabo un nuevo procedimiento en el que pueden proponerse modificaciones que resulten satisfactorias para ellos.
 
-La causa que impida entablar comunicación con los intervinientes deberá constar en la bitácora del expediente.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+La causa que impida entablar comunicación con las Partes deberá constar en la bitácora del expediente.
 
 #### Sección VI. Formas de conclusión del procedimiento
 
@@ -665,13 +809,19 @@ El procedimiento del mecanismo alternativo termina por:
 
 I. Convenio que solucione parcial o totalmente la controversia;
 
-II. Decisión de uno de los intervinientes de no continuar con el procedimiento;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+II. Decisión de una de las Partes de no continuar con el procedimiento;
 
 III. Decisión del Facilitador, al no respetar los intervinientes los principios y las normas del procedimiento o advierta que no se muestran colaborativos a dar solución a su controversia;
 
-IV. Inasistencia de uno de los intervinientes a dos reuniones sin causa justificada;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
 
-V. Negativa de los intervinientes a suscribir el convenio final;
+IV. Inasistencia de una de las Partes a dos reuniones sin causa justificada;
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2025)</small>
+
+V. Negativa de las Partes a suscribir el Convenio final;
 
 VI. Imposibilidad de cumplir los acuerdos tomados por los intervinientes;
 
@@ -717,7 +867,9 @@ VIII. Convenio; y,
 
 IX. Seguimiento.
 
-El expediente físico podrá integrarse de los documentos anteriores cuando se determine necesario, pero la solicitud y la aceptación sí deberán constar por escrito siempre y cuando se hayan presentado a firmarlas.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+El expediente físico podrá integrarse de los documentos anteriores cuando se determine necesario, pero la solicitud y la aceptación si deberán constar por escrito siempre y cuando se hayan presentado a firmarlas o bien no se cuenten con los medios tecnológicos que garanticen la certeza de su autenticidad.
 
 ###### Artículo 45.
 
@@ -748,3 +900,15 @@ Artículo Tercero. Se abroga el Reglamento del Centro de Mediación del Poder Ju
 EL PRESENTE REGLAMENTO FUE APROBADO POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, EL DÍA 1° DEL MES DE FEBRERO DE 2023, EN LA CIUDAD DE SANTIAGO DE QUERÉTARO, QUERÉTARO. Rúbricas.
 
 El Secretario Técnico, Víctor Manuel Romo Bonilla, con fundamento en el artículo 145, fracciones I y XI de la Ley Orgánica del Poder Judicial del Estado de Querétaro, CERTIFICA que el “Reglamento del Centro de Justicia Alternativa del Poder Judicial del Estado de Querétaro.”, fue aprobado de manera unánime por el Consejo de la Judicatura del Poder Judicial del Estado de Querétaro, integrado por la Magistrada Presidente Mariela Ponce Villa, así como por los Consejeros Edgardo Saúl Contreras Arias, Arturo Ugalde Rojas y Juan Manuel Vera Vázquez, en sesión del día 1° de febrero de 2023. Santiago de Querétaro, Querétaro, a 10 de febrero de 2023. Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “REFORMA AL REGLAMENTO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO. Publíquese la reforma al Reglamento del Centro de Justicia Alternativa del Poder Judicial de Estado de Querétaro, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y en la página oficial de internet del Poder Judicial del Estado de Querétaro.
+
+SEGUNDO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+TERCERO. Se derogan todas las disposiciones igual o menor jerarquía, que contravengan lo dispuesto a la presente reforma.
