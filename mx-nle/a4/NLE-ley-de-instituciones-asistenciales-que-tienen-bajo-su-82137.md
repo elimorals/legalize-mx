@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-instituciones-asistenciales-que-tienen-bajo-su-82137"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-05"
-last_updated: "2012-06-22"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INSTITUCIONES ASISTENCIALES QUE TIENEN BAJO SU GUARDA, CUSTODIA O AMBAS A NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2025.
 
 Ley Publicada en el Periódico Oficial del Estado de Nuevo León, el martes 5 de julio de 2011.
 
@@ -57,7 +57,9 @@ d) La Secretaría de Desarrollo Social;
 
 e) La Secretaría de Seguridad Pública;
 
-f) La Procuraduría General de Justicia; y
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+f) La Fiscalía General de Justicia del Estado; y
 
 g) Las demás dependencias y entidades de la Administración Pública Estatal, que por su competencia tengan relación con el cumplimiento del objeto de la presente Ley.
 
@@ -151,7 +153,9 @@ e) Un representante de la Secretaria de Seguridad Publica;
 
 f) Un representante del Tribunal Superior de Justicia del Estado;
 
-g) Un representante de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2025)</small>
+
+g) Un representante de la Fiscalía General de Justicia del Estado;
 
 h) El Presidente de la Comisión de Salud y Atención a Grupos Vulnerables del Congreso del Estado;
 
@@ -626,3 +630,9 @@ JUANA AURORA CAVAZOS CAVAZOS
 P.O. 22 DE JUNIO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 060. SE REFORMA EL INCISO F) DEL ARTÍCULO 2, Y EL INCISO G) DE LA FRACCIÓN IV DEL ARTÍCULO 9 DE LA LEY DE INSTITUCIONES ASISTENCIALES QUE TIENEN BAJO SU GUARDA, CUSTODIA O AMBAS A NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
