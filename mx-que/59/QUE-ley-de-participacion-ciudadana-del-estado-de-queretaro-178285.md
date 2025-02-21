@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-participacion-ciudadana-del-estado-de-queretaro-178285"
 country: "mx"
 rank: "ley"
 publication_date: "2025-02-14"
-last_updated: "2025-02-14"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=178285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE FEBRERO DE 2025 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUERÉTARO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE FEBRERO DE 2025.]</small>
 
 Ley publicada en el Número 12 del Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2025.
 
@@ -751,11 +751,11 @@ Para ello, un porcentaje del presupuesto aprobado en materia de gasto social est
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, en todas las etapas de la implementación del ejercicio de presupuesto participativo, deberán sujetarse a las disposiciones aplicables en materia de presupuestación, aprobación, ejercicio, control y evaluación de los recursos públicos del Estado y de sus municipios.
 
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 86.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos, podrán solicitar al Instituto Electoral, asesoría y apoyo para la implementación del ejercicio de presupuesto participativo.
-
-La Comisión de Transparencia, Acceso a la Información Pública y 7 (sic) del Estado y los Ayuntamientos, según corresponda, en la implementación del ejercicio de presupuesto participativo.
+El Poder Ejecutivo del Estado y los Ayuntamientos, podrán solicitar al Instituto Electoral y a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, asesoría y apoyo para la implementación del ejercicio de presupuesto participativo.
 
 ###### Artículo 87.
 
