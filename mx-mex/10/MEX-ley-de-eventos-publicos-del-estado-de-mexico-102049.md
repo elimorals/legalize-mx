@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-eventos-publicos-del-estado-de-mexico-102049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-18"
-last_updated: "2023-06-22"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 18 de agosto de 2014.
 
@@ -141,15 +141,13 @@ La Secretaría de Seguridad tiene la obligación de proporcionar la seguridad y 
 
 Tratándose de una situación de riesgo, la Secretaría de Seguridad deberá prestar el auxilio requerido, sin perjuicio de la asistencia que puedan otorgar las autoridades municipales en materia de seguridad.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 8.
 
-La Comisión para la Protección contra Riesgos Sanitarios del Estado de México, en coordinación con el Instituto de Verificación Administrativa del Estado de México, deberá verificar que los eventos públicos reúnan los requisitos y condiciones técnicas en lo referente a bebidas, alimentos, instalaciones sanitarias y demás relacionadas con el ámbito de la salud y la higiene.
+El Instituto de Salud del Estado de México, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, en coordinación con el Instituto de Verificación Administrativa del Estado de México, deberá verificar que los eventos públicos reúnan los requisitos y condiciones técnicas en lo referente a bebidas, alimentos, instalaciones sanitarias y demás relacionadas con el ámbito de la salud y la higiene.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
-
-La autoridad Municipal correspondiente expedirá la evaluación técnica de factibilidad de impacto sanitario, cuando se trate de eventos públicos con venta de bebidas alcohólicas.
+La autoridad Municipal correspondiente en coordinación con el Instituto de Salud del Estado de México, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México y derivado de las verificaciones previstas en el párrafo anterior, expedirá la evaluación técnica de factibilidad de impacto sanitario, cuando se trate de eventos públicos con venta de bebidas alcohólicas.
 
 ###### Artículo 9.
 
@@ -465,15 +463,19 @@ La inscripción en el Registro municipal de bienes inmuebles tendrá vigencia de
 
 Corresponde a las autoridades de esta Ley, en el ámbito de sus respectivas competencias, ejercer las funciones de vigilancia y supervisión para verificar el cumplimiento de la Ley y sus disposiciones reglamentarias, a través de visitas de verificación, mismas que se realizarán de conformidad con lo establecido por el Código de Procedimientos Administrativos del Estado de México.
 
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 29.
 
-La contravención a las disposiciones de la Ley dará lugar a la imposición de las medidas de seguridad previstas en el Libro Sexto del Código Administrativo del Estado de México.
+La contravención a las disposiciones de la Ley dará lugar a la imposición de las medidas de seguridad previstas en los Libros Segundo y Sexto del Código Administrativo del Estado de México.
 
 ### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 30.
 
-Se consideran medidas de seguridad las disposiciones que dicten los municipios y, en su caso, la Secretaría General de Gobierno, a través de la Coordinación General, para proteger la integridad de los asistentes y su seguridad, las cuales consistirán en:
+Se consideran medidas de seguridad las disposiciones que dicten los municipios, el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México y, en su caso, la Secretaría General de Gobierno, a través de la Coordinación General, para proteger la integridad de los asistentes y su seguridad, las cuales consistirán en:
 
 I. La evacuación.
 
@@ -756,3 +758,27 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO Y DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Crea el Organismo Público Descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno” el 10 de julio de 2015.
+
+CUARTO. A la entrada en vigor del presente Decreto se extinguirá el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM, para el cumplimiento de lo anterior, la Secretaría de Salud de conformidad con lo establecido en las disposiciones jurídicas aplicables, nombrará a un representante legal, quien tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial, en términos de las disposiciones jurídicas aplicables. El organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+QUINTO. Los recursos humanos, materiales, financieros y las previsiones presupuestales del organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán transferidos al Instituto de Salud del Estado de México. En todo caso, se respetarán los derechos laborales de las personas trabajadoras adscritas al organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM de conformidad con las disposiciones jurídicas aplicables.
+
+SEXTO. Las secretarías de Finanzas, de Salud y de la Contraloría, y la Oficialía Mayor, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM se entenderán hechas al Instituto de Salud del Estado de México.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos del Instituto de Salud del Estado de México.
+
+Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán atendidos hasta su conclusión por el Instituto de Salud del Estado de México, a través de su unidad administrativa Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
