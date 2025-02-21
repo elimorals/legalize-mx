@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2024-12-20"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1001,21 +1001,21 @@ En atención al interés superior de la niñez se garantizará el pleno acceso a
 
 Asimismo, en materia de salubridad general compete a la Secretaría de Salud, ejercer conforme a lo dispuesto en este Libro, las atribuciones correspondientes en materia de salubridad local.
 
-> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
-En el ejercicio de las atribuciones anteriores, cuando la Ley General de Salud haga referencia a las atribuciones competencia de la federación a favor de autoridades sanitarias, se ejercerá por conducto de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM, organismo público descentralizado, sectorizado a la Secretaría de Salud del Estado de México.
+En el ejercicio de las atribuciones anteriores, cuando la Ley General de Salud haga referencia a las atribuciones competencia de la federación, delegadas a favor de autoridades sanitarias, se ejercerán por conducto del Instituto de Salud del Estado de México.
 
-> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
-El ejercicio de la regulación, control y fomento sanitarios, con funciones de autoridad en materia de salubridad local, las ejercerá la Secretaria de Salud por conducto de la COPRISEM.
+El ejercicio de la regulación, control y fomento sanitarios, con funciones de autoridad en materia de salubridad local, las ejercerá la Secretaría de Salud por conducto del Instituto de Salud del Estado de México.
 
 ### CAPITULO CUARTO. Del Instituto de Salud del Estado de México
 
-> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-5. El Instituto de Salud del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la prestación de los servicios de salud en la Entidad.
+5. El Instituto de Salud del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios y funciones de autoridad; que tiene por objeto la prestación de los servicios de salud en la Entidad, y el ejercicio del control y fomento sanitarios, estos últimos serán ejercidos a través de su unidad administrativa denominada Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 ###### Artículo 2.
 
@@ -1067,9 +1067,9 @@ La persona titular de la Dirección General será nombrada por la persona titula
 
 El nombramiento de titular de la Dirección General podrá recaer en la o el Titular de la Secretaría de Salud, sin que exista doble remuneración.
 
-> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
-La organización y funcionamiento del Instituto se regirá por el Reglamento Interno que expida el Consejo Interno.
+La organización y funcionamiento del Instituto se regirá por el Reglamento Interno que apruebe el Consejo Interno y expida la persona titular del Poder Ejecutivo Estatal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
@@ -1341,21 +1341,21 @@ XXIII. Los demás que se establezcan en la Ley General de Salud y otras disposic
 
 17.- El Estado de México está obligado a prestar los servicios de salud en el marco del federalismo y concurrencia establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
 
-> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-18. La Secretaría de Salud tendrá a su cargo la regulación de los servicios de salud a que se refiere este título, el Instituto de Salud se encargará de la operación de los mismos y la COPRISEM ejercerá la regulación, control y fomento sanitarios competencia del Estado en materia de salubridad general.
+18. La Secretaría de Salud tendrá a su cargo la regulación de los servicios de salud a que se refiere este Título, el Instituto de Salud se encargará de la operación de los mismos, así como de ejercer la regulación, control y fomento sanitarios competencia del Estado en materia de salubridad general, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 ###### Artículo 2.
 
 19.- Los derechos y obligaciones de los usuarios de los servicios de salud y la participación de la comunidad en los mismos se regirá por lo previsto en la Ley General de Salud.
 
-> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-19 Bis. En cumplimiento a los ordenamientos legales reglamentarios y administrativos a la Secretaría de Salud, por conducto de la COPRISEM le corresponde vigilar y operar la regulación, control y fomento sanitarios de las actividades de salud, que realizan los establecimientos que brindan servicios de control de peso o en beneficio de la salud, estética, bajo tratamientos terapéuticos quiroprácticos, medicinales, herbolarios u otros métodos.
+19 Bis. En cumplimiento a los ordenamientos legales reglamentarios y administrativos a la Secretaría de Salud, por conducto del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México le corresponde vigilar y operar la regulación, control y fomento sanitarios de las actividades de salud, que realizan los establecimientos que brindan servicios de control de peso o en beneficio de la salud, estética, bajo tratamientos terapéuticos quiroprácticos, medicinales, herbolarios u otros métodos.
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
 
@@ -2201,11 +2201,11 @@ II. Mamoplastia reconstructiva de calidad: procedimiento que tiene como finalida
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JULIO DE 2015) (F. DE E., G.G. 12 DE AGOSTO DE 2015)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-49. Corresponde a la COPRISEM como organismo público descentralizado, sectorizado a la Secretaría de Salud del Estado de México, ejercer la regulación, control y fomento sanitarios de:
+49. Corresponde al Instituto de Salud del Estado de México como organismo público descentralizado, sectorizado a la Secretaría de Salud del Estado de México, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México ejercer la regulación, control y fomento sanitarios de:
 
 (REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2273,11 +2273,9 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 49 Bis.- Para la prestación del servicio público de rastros se deberá contar con la autorización municipal correspondiente.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
-
 ###### Artículo 2.
 
-49 Ter.- Los concesionarios de los rastros deberán contar con la licencia de funcionamiento vigente que autorice sus actividades, misma que se colocará en un lugar visible.
+49 Ter.- (DEROGADO, G.G. 21 DE FEBRERO DE 2025)
 
 ###### Artículo 2.
 
@@ -2317,11 +2315,11 @@ IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 50.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-51.- Compete a la "COPRISEM" realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
+51.- Compete al Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.33], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2329,11 +2327,11 @@ IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 52.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-53.- Los edificios o locales, incluidos los Centros Penitenciarios, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
+53.- Los edificios o locales, incluidos los Centros penitenciarios y de reinserción social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
 
 ###### Artículo 2.
 
@@ -2355,15 +2353,15 @@ IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 55.- Los animales muertos deben ser incinerados o enterrados antes de que entren en descomposición, por sus propietarios, en los sitios y en la forma que determinen los municipios.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
-En caso de animales muertos abandonados, la "COPRISEM" dictará las medidas para dar cumplimiento a lo señalado en el párrafo anterior, las cuales deberán ser atendidas por el municipio correspondiente.
+En caso de animales muertos abandonados, el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México dictará las medidas para dar cumplimiento a lo señalado en el párrafo anterior, las cuales deberán ser atendidas por el municipio correspondiente.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-56.- La "COPRISEM" realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
+56.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.38], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2379,39 +2377,39 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 
 58.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario de la "COPRISEM" que no requieran autorización sanitaria conforme al Capítulo siguiente, deben darle aviso por escrito del inicio de sus operaciones.
+59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, que no requieran autorización sanitaria conforme al Capítulo siguiente, deben darle aviso del inicio de sus operaciones por escrito o en el portal de internet establecido para tal efecto, con firma autógrafa o electrónica avanzada, por lo menos treinta días anteriores a que se pretenda iniciar operaciones.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
-
-###### Artículo 2.
-
-60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, la "COPRISEM" podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
-
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-61.- Todo cambio de propietario de un establecimiento o unidad económica, de razón social o denominación, o giro comercial así como la suspensión de actividades, trabajos o servicios, debe ser comunicado a la "COPRISEM", cuando haya requerido Aviso de Funcionamiento para su instalación inicial, a través de sus respectivas oficinas o en el portal de internet que se cree para tal efecto, de conformidad a las disposiciones jurídicas aplicables.
+60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración de la "COPRISEM" para la aprobación del sistema adoptado.
+61.- Todo cambio de propietario de un establecimiento o unidad económica, de razón social o denominación, o giro comercial así como la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, cuando haya requerido Aviso de Funcionamiento para su instalación inicial, a través de sus respectivas oficinas o en el portal de internet establecido para tal efecto, de conformidad a las disposiciones jurídicas aplicables, en un plazo no mayor a treinta días hábiles a partir de la fecha en que se hubiera realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por la "COPRISEM".
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+
+###### Artículo 2.
+
+62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México para la aprobación del sistema adoptado.
+
+Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 ### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-63.- La autorización sanitaria es el acto administrativo mediante el cual la "COPRISEM" permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine este Título y su Reglamento.
+63.- La autorización sanitaria es el acto administrativo mediante el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine este Título y su Reglamento.
 
 (REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2429,7 +2427,9 @@ Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 
 65.- Requieren de permiso sanitario previo:
 
-I. El inicio y ocupación de las obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos, excepto aquellos de salud;
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+I. El inicio y ocupación de las obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos, excepto aquellos de salud, que deberán estar basados en los dictámenes que para tal efecto emita la autoridad sanitaria.
 
 II. El comercio de alimentos y bebidas en la vía pública; y
 
@@ -2443,15 +2443,15 @@ La realización de giros adicionales exigidos para el desarrollo del giro origin
 
 La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sanitaria, tratándose de obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
-La "COPRISEM" con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
+El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-66.- La "COPRISEM" revocará las autorizaciones que haya otorgado en los casos siguientes:
+66.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
 
 (REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2485,11 +2485,11 @@ La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio 
 
 #### SECCION PRIMERA. De la recolección de muestras
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-67.- La "COPRISEM" independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
+67.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
 
 (REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2497,11 +2497,11 @@ La recolección de muestras de productos y superficies se efectuará con sujeci�
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-68.- La "COPRISEM" para proteger la salud, está facultada para dictar las medidas de seguridad sanitaria siguientes:
+68.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México para proteger la salud, está facultada para dictar las medidas de seguridad sanitaria siguientes:
 
 (REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2595,7 +2595,9 @@ b) Se ajustará al diseño de imagen institucional y contendrá además el núme
 
 c) Será de papel plastificado de difícil destrucción;
 
-d) Deberá contener el escudo del Gobierno del Estado de México y de la COPRISEM;
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+
+d) Deberá contener el escudo del Gobierno del Estado de México, el Instituto de Salud del Estado de México y de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México;
 
 e) Nombre y firma de los verificadores sanitarios, así como fecha de la verificación y el folio correspondiente;
 
@@ -2611,15 +2613,15 @@ VIII. El aseguramiento de objetos, productos o sustancias, cuanto exista sospech
 
 IX. La desocupación o desalojo de predios, casas, edificios o establecimientos, cuando se considere indispensable para evitar un daño en la salud o la vida de las personas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-70.- La "COPRISEM" podrá retener o dejar los objetos, productos o sustancias en depósito, hasta en tanto no se determine su destino, previo dictamen de laboratorio acreditado.
+70.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México podrá retener o dejar los objetos, productos o sustancias en depósito, hasta en tanto no se determine su destino, previo dictamen de laboratorio acreditado.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
-Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. En caso de que el interesado no gestione la recuperación dentro del plazo que señale, se entiende que el bien causa abandono y quedará a disposición de la "COPRISEM" para su aprovechamiento.
+Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. En caso de que el interesado no gestione la recuperación dentro del plazo que señale, se entiende que el bien causa abandono y quedará a disposición del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México para su aprovechamiento.
 
 (REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2641,11 +2643,11 @@ III. Clausura temporal o definitiva, parcial o total; y
 
 IV. Arresto hasta por treinta y seis horas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 2.
 
-72.- Las infracciones a lo previsto en este Título serán sancionadas por la "COPRISEM" en los términos siguientes:
+72.- Las infracciones a lo previsto en este Título serán sancionadas (sic) el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México en los términos siguientes:
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -2659,9 +2661,11 @@ II. Con multa equivalente de cincuenta a quinientas veces el valor diario de la 
 
 III. Con multa equivalente de doscientas cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
 
-IV. Con multa equivalente de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
+IV. Con multa equivalente de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64, y la violación al artículo 2.65 fracción III.
+
+El Instituto de Salud del Estado de México por conducto de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, mediante disposiciones generales podrá implementar programas para fomentar el cumplimiento de la normatividad sanitaria mediante la exención del pago de multas.
 
 V. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
@@ -2697,9 +2701,9 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 75.- Procederá la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
 
-> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
 
-I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 carezcan de la correspondiente autorización sanitaria;
+I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 fracción I carezcan de la correspondiente autorización sanitaria;
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de este Título y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -19320,3 +19324,27 @@ QUINTO.- El derecho previsto en el artículo 106 Bis del Código Financiero del 
 SEXTO.- La Consejería Jurídica, el Instituto de la Función Registral del Estado de México, la Secretaría de Finanzas y los Municipios, en el ámbito de su competencia y según corresponda, proveerán lo necesario para dar cumplimiento a lo previsto en el Artículo CUARTO del presente Decreto y de acuerdo con lo señalado en las Reglas de Operación que al efecto se emitan.
 
 Respecto de las operaciones de regularización previstas en los Programas establecidos en el Artículo CUARTO de este Decreto, no se causará el pago del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles previsto en la Sección Segunda del Capítulo Primero del Título Cuarto del Código Financiero del Estado de México y Municipios, ni el pago de derechos previstos en los artículos 95 y 102 de dicho Código, así como aquellos que se generen por la actualización de certificaciones previstas en el cuarto párrafo del artículo 116 del Código citado, pudiéndose presentar dichas certificaciones vigentes al momento de la operación pendiente de inscribir o, en su caso, sólo se presentarán las que se determinen en los Programas respectivos, a efecto de poder beneficiar y apoyar a la población a la que van dirigidos.
+
+G.G. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO Y DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Crea el Organismo Público Descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno” el 10 de julio de 2015.
+
+CUARTO. A la entrada en vigor del presente Decreto se extinguirá el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM, para el cumplimiento de lo anterior, la Secretaría de Salud de conformidad con lo establecido en las disposiciones jurídicas aplicables, nombrará a un representante legal, quien tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial, en términos de las disposiciones jurídicas aplicables. El organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+QUINTO. Los recursos humanos, materiales, financieros y las previsiones presupuestales del organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán transferidos al Instituto de Salud del Estado de México. En todo caso, se respetarán los derechos laborales de las personas trabajadoras adscritas al organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM de conformidad con las disposiciones jurídicas aplicables.
+
+SEXTO. Las secretarías de Finanzas, de Salud y de la Contraloría, y la Oficialía Mayor, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM se entenderán hechas al Instituto de Salud del Estado de México.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos del Instituto de Salud del Estado de México.
+
+Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán atendidos hasta su conclusión por el Instituto de Salud del Estado de México, a través de su unidad administrativa Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+
+OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
