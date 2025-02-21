@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2024-12-24"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -1184,9 +1184,9 @@ I. Pensiones alimenticias decretadas por la autoridad competente en favor de las
 
 II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá exceder del diez por ciento del salario.
 
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder el 20% del salario.
+III. Pago de abonos para cubrir préstamos o rentas provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados al arrendamiento social, adquisición, construcción, reparación, ampliación o mejoras de vivienda o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por la persona trabajadora y no podrán exceder el 20 por ciento del salario para préstamos y 30 por ciento del salario para rentas.
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1286,9 +1286,9 @@ I. Pago de deudas contraídas con el patrón por anticipo de salarios, pagos hec
 
 II. Pago de la renta a que se refiere el artículo 151 que no podrá exceder del quince por ciento del salario.
 
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
-III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados a la adquisición, construcción, reparación, ampliación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Asimismo, a aquellos trabajadores que se les haya otorgado un crédito para la adquisición de viviendas ubicadas en conjuntos habitacionales financiados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores se les descontará el 1% del salario a que se refiere el artículo 143 de esta Ley, que se destinará a cubrir los gastos que se eroguen por concepto de administración, operación y mantenimiento del conjunto habitacional de que se trate. Estos descuentos deberán haber sido aceptados libremente por el trabajador.
+III. Pago de abonos para cubrir préstamos o rentas provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados al arrendamiento social, adquisición, construcción, reparación, ampliación o mejoras de vivienda o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por la persona trabajadora.
 
 IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, siempre que los trabajadores manifiesten expresa y libremente su conformidad y que no sean mayores del treinta por ciento del excedente del salario mínimo;
 
@@ -1766,17 +1766,19 @@ El Fondo Nacional de la Vivienda tendrá por objeto crear sistemas de financiami
 
 Los recursos del Fondo Nacional de la Vivienda serán administrados por un organismo integrado en forma tripartita por representantes del Gobierno Federal, de los trabajadores y de los patrones.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 139.
 
-La ley que cree dicho organismo regulará los procedimientos y formas conforme a los cuales los trabajadores podrán adquirir en propiedad habitaciones y obtener los créditos a que se refiere el artículo 137.
+La ley que cree dicho organismo regulará los procedimientos y formas conforme a los cuales las personas trabajadoras podrán adquirir vivienda en propiedad y obtener los créditos a que se refiere el artículo 137, así como acceder a los programas de arrendamiento social.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 140.
 
-El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la coordinación y el financiamiento de los programas de construcción de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores.
+El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la coordinación, el financiamiento y ejecución de los programas de construcción de viviendas destinadas a ser adquiridas en propiedad por las personas trabajadoras, así como para obtener el arrendamiento social de vivienda para su habitación por las personas trabajadoras, bajo criterios sociales, sin fines de lucro o especulación comercial y considerando su nivel salarial.
+
+Dicho organismo también intervendrá en la administración de los inmuebles y viviendas que sean de su propiedad o se encuentren bajo su administración a efecto de mantenerlas en condiciones de habitabilidad adecuada.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1792,7 +1794,9 @@ I. En los casos de incapacidad total permanente, de incapacidad parcial permanen
 
 En caso de que el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, se procederá de la misma forma observando lo establecido en la legislación especial en la materia.
 
-II. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+II. Cuando la persona trabajadora deje de estar sujeto a una relación de trabajo y cuente con la edad establecida en la Ley del Seguro Social y la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor o sean transferidos a la Administradora de Fondos para el Retiro según lo determine la Ley de los Sistemas de Ahorro para el Retiro.
 
 III. En caso de que el trabajador hubiere recibido crédito del Instituto, las cantidades a que tuviere derecho en los términos de las fracciones anteriores, se aplicarán a la amortización del crédito, salvo en los casos de incapacidad total permanente o de muerte, en los términos del artículo 145 si después de hacer la aplicación de dichas cantidades a la amortización del crédito quedare saldo a favor del trabajador se le entregará a éste el monto correspondiente.
 
@@ -1844,6 +1848,10 @@ Para tales efectos, se entenderá por incapacidad total permanente la pérdida d
 
 Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro del mes siguiente a la fecha en que se determinen.
 
+> <small>(ADICIONADO, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+En los casos en que la persona trabajadora incapacitada que, durante el periodo señalado en el párrafo anterior, haya adquirido una nueva relación de trabajo y pierda esta, podría reiniciar el trámite de su cancelación del crédito ante el Instituto cuantas veces le resulte necesario, siempre que no se revoque la determinación de su incapacidad en los términos de la Ley del Seguro Social.
+
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 146.
@@ -1858,7 +1866,9 @@ El Ejecutivo Federal, previo estudio y dictamen del organismo que se constituya 
 
 I.- Los deportistas profesionales y
 
-II.- Los trabajadores a domicilio.
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 2025)</small>
+
+II. Cualquier otro tipo o modalidad de personas trabajadoras.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -16715,3 +16725,53 @@ Quinto.- La temporalidad indicada en la fracción IX del artículo 127 de esta L
 Al aplicar el factor a una jornada de 8 horas da como resultado 6 diarias, lo que representa 36 semanales o 144 mensuales, por lo que al tomar en consideración la temporalidad establecida en la fracción VII del artículo citado, se equipara a 288 horas de actividad efectivamente laborada.
 
 Sexto.- La Secretaría del Trabajo y Previsión Social contará con 5 días posteriores a la entrada en vigor del presente Decreto para publicar las disposiciones de carácter general que definirán el cálculo del ingreso neto a las que se refiere el artículo 291-F.
+
+D.O.F. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE VIVIENDA CON ORIENTACIÓN SOCIAL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones legales que se opongan al mismo.
+
+Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normativa emitida por cualquier órgano o área del Instituto continuarán en vigor en lo que no se opongan al presente Decreto o a las normas o resoluciones emitidas por las autoridades, o hasta en tanto los órganos o áreas competentes determinen su reforma o abrogación.
+
+Tercero.- Los órganos del Instituto deberán quedar integrados dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, para ello:
+
+I.- La Secretaría del Trabajo y Previsión Social emitirá, dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las bases para determinar las organizaciones nacionales de trabajadores y patrones que intervendrán en la designación de los integrantes de la Asamblea General, en términos de los artículos 7o. y 8o. de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+
+II.- Los sectores, con base en la representación que resulte de la integración de la nueva Asamblea General, deberán renovar en su totalidad a su respectiva representación designando a los nuevos integrantes de los órganos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, y
+
+III.- El Ejecutivo Federal deberá emitir el acuerdo por el que nombre a sus representantes en los órganos del Instituto, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá renovar a la persona titular de la Auditoría Interna, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, en términos del artículo 16, fracción XVIII, de su Ley y las disposiciones jurídicas aplicables.
+
+Quinto.- La persona titular de la Dirección General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá realizar los actos necesarios para la constitución de la empresa filial, a la que se refiere el artículo 3o., fracción V, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, y su objeto será, entre otros, la construcción de vivienda, su integración accionaria será mayoritariamente del Instituto y se conformará con recursos provenientes del presupuesto de gastos de administración, operación y vigilancia autorizado para el ejercicio 2024. Los estatutos sociales deberán reflejar los principios contenidos en el artículo 3o., último párrafo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, establecer las actividades que conformen el objeto de la empresa filial, los órganos de gobierno que estarán constituidos al menos por un Consejo de Administración, presidido por la persona titular de la Dirección General del Instituto, e integrado por el personal directivo de este; así como por un Comité de Auditoría, que tendrá a su cargo las funciones de control, evaluación, rendición de cuentas y transparencia de la empresa filial; asimismo, contará con un Comité de Ética y un Código de Ética. El Estatuto Orgánico y normativa interna de la empresa filial establecerán su estructura organizacional y de operación.
+
+Sexto.- La Asamblea General y el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberán expedir las políticas y reglas conforme a las cuales se otorgarán viviendas en arrendamiento social en términos del artículo 51 Ter de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Los Órganos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirán las demás disposiciones y realizará las reformas a su marco jurídico interno con el objeto de dar cumplimiento al presente Decreto, dentro de los trescientos sesenta días naturales siguientes al inicio de su vigencia.
+
+Séptimo.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá continuar aplicando los presupuestos de ingresos y egresos, así como de gastos de administración, operación y vigilancia aprobado para el ejercicio 2024, con efectos al primer día hábil del ejercicio 2025, considerando la inflación estimada para esa anualidad, hasta que se renueve la integración de sus órganos de gobierno. Una vez cumplido lo anterior se someterá a la aprobación de la Asamblea General los presupuestos de ingresos y egresos, así como de gastos de administración, operación y vigilancia para el ejercicio 2025 en la siguiente sesión ordinaria a la entrada en vigor del presente Decreto.
+
+Octavo.- La Secretaría de Hacienda y Crédito Público, auxiliada por la Comisión Nacional Bancaria y de Valores, dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá emitir las disposiciones en materia de crédito que serán aplicables al Instituto del Fondo Nacional de la Vivienda para los Trabajadores atendiendo a lo dispuesto por la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la naturaleza social de los fines de ese Instituto.
+
+El Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de un plazo de noventa días hábiles, contados a partir de la emisión de las disposiciones a que se refiere el párrafo anterior, deberá proponer a su Asamblea General las políticas de organización de la contabilidad y auditoría interna a que se refiere el artículo 66, fracción IV, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Para el ejercicio 2025, continuarán vigentes aquellas normas y sistemas previos a la entrada en vigor del presente Decreto.
+
+Noveno.- El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá establecer el programa de extinción de gravámenes y cancelación de inscripciones registrales, autorizando la asignación de recursos económicos necesarios para gestionar su celebración y entrega de los instrumentos correspondientes a cualquier acreditado del propio Instituto, en términos del artículo 44 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+La persona titular de la Dirección General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá coordinarse con las autoridades locales y municipales competentes para procurar la celebración de convenios con el objeto de que le brinde facilidades administrativas y beneficios fiscales que requiera el Instituto para la operación del programa, buscando la atención expedita de las personas trabajadoras derechohabientes y el uso eficiente de los recursos del Fondo Nacional de la Vivienda.
+
+Décimo.- Los derechos laborales de las personas trabajadoras que formen parte de los órganos que se extinguen con motivo de este Decreto serán respetados en términos de las disposiciones aplicables.
+
+Décimo Primero.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a partir de la entrada en vigor del presente Decreto, deberá mantener la mensualidad de los créditos que hubiere otorgado al monto correspondiente al cierre del ejercicio 2024 y a partir del ejercicio 2025 deberá aplicar una actualización equivalente al cero por ciento.
+
+Décimo Segundo.- A partir de la entrada en vigor del presente Decreto, quedarán canceladas todas las resoluciones por las que se aprueben proyectos colectivos de crédito en línea tres a la construcción de vivienda que el Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores haya adoptado con anterioridad al 1 de julio de 2023; sus promoventes podrán presentar nuevamente sus proyectos o las etapas remanentes de estos, para su actualización o aprobación en términos del artículo 42, cuarto párrafo de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+En su caso, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá restituir en la subcuenta de vivienda de las personas trabajadoras derechohabientes las cantidades que les correspondan por la amortización del crédito otorgado y deberá permitirles tramitar un nuevo crédito, siempre que cumplan con los requisitos a que se refiere la ley.
+
+Los desarrolladores o constructores y entidades administradoras de los proyectos contarán con un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para entregar al Instituto del Fondo Nacional de la Vivienda para los Trabajadores sin necesidad de resolución judicial las cantidades, intereses y penas convencionales que tuvieren en custodia, correspondientes a los créditos de las personas trabajadoras derechohabientes que hubieren adquirido un predio destinado a construcción dentro de alguno de los proyectos cuyas autorizaciones resulten canceladas.
+
+Las personas trabajadoras derechohabientes contarán con un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para transmitir al Instituto del Fondo Nacional de la Vivienda para los Trabajadores la propiedad de los inmuebles que hubieren adquirido con un crédito en línea tres, en los términos del presente transitorio.
