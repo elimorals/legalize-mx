@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2024-12-20"
+last_updated: "2025-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -404,6 +404,10 @@ XLII. Normas técnicas estatales: El conjunto de reglas, parámetros científico
 XLIII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sostenible de los elementos y recursos naturales a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
 XLIV. Planeación ambiental: La formulación, instrumentación, control y evaluación de acciones gubernamentales y no gubernamentales que se dirijan para lograr el ordenamiento ecológico correcto;
+
+> <small>(ADICIONADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+XLIV Bis. Plásticos de un solo uso: Aquellos plásticos, incluyendo envases y empaques que están diseñados para ser usados por una sola vez, que no están sujetos a un plan de manejo obligatorio y que no son reutilizables, reciclables, compostables, ni son susceptibles de valorización o aprovechamiento, los cuales serán determinados de acuerdo con sus características de conformidad con las disposiciones jurídicas aplicables;
 
 XLV. Política ambiental: El conjunto de principios y conceptos que dirijan y orienten las acciones públicas hacia los diferentes sectores de la sociedad para alcanzar los fines de protección al ambiente y aprovechamiento sostenible de los elementos y recursos naturales, conciliando los intereses públicos y sociales en una relación de autoridad y obediencia que el Estado impone en nombre de las exigencias del conjunto de conceptos y principios;
 
@@ -2447,9 +2451,9 @@ IV. Promover el establecimiento de reconocimientos a quienes hayan realizado esf
 
 V. Realizar en conjunto con las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general, estrategias y políticas públicas encaminadas para que los establecimientos de alimentos y bebidas desincentiven el consumo de popotes, vasos, bolsas utensilios y contenedores plásticos, en tiendas de autoservicio, farmacias, mercados, restaurantes y similares.
 
-> <small>(ADICIONADA, G.G. 21 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
 
-VI. Promover acciones tendientes a la sustitución gradual de popotes y bolsas o contenedores plásticos en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, por productos sustentables elaborados con materiales reutilizable (sic), reciclables, compostables o que sean de pronta biodegradación.
+VI. Promover acciones tendientes a la sustitución de popotes y bolsas o contenedores plásticos, o de poliestireno expandido que no constituyan un empaque primario, en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, por productos sustentables elaborados con materiales reutilizable (sic), reciclables, compostables o que sean de pronta biodegradación.
 
 ###### Artículo 2.
 
@@ -2967,13 +2971,27 @@ XIV. Descargue, arroje cualquier tipo de residuos que provoque la muerte, perdid
 
 XV. Carezca de plataformas o puertos de muestreo, para la medición y análisis de emisiones de contaminantes cuando así lo determinen las disposiciones aplicables;
 
-XVI. Emita contaminantes a la atmósfera, por acciones de quema de desechos sólidos o líquidos de jurisdicción estatal; y
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
 
-XVII. No cuente de la inscripción correspondiente en el registro de la Secretaría de una fuente contaminante.
+XVI. Emita contaminantes a la atmósfera, por acciones de quema de desechos sólidos o líquidos de jurisdicción estatal;
 
-Además de las sanciones que se establecen en las fracciones anteriores se harán acreedores a la clausura temporal o definitiva, parcial o total de los establecimientos, o la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso de la inscripción registral o de las actividades de que se trate las personas físicas o jurídicas colectivas que incurran en los supuestos previstos en las fracciones VIII, X, XI, XII y XIII del presente artículo.
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+XVII. No cuente de la inscripción correspondiente en el registro de la Secretaría de una fuente contaminante; y
+
+> <small>(ADICIONADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+XVIII. Otorgue de forma gratuita, productos plásticos de un solo uso en unidades económicas, quedando excluidas las bolsas o contenedores que constituyan un empaque primario, que prevengan el desperdicio de bienes o que por cuestiones de higiene o salud se requieran, así como bolsas de acarreo que cumplan con las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+
+Además de las sanciones que se establecen en las fracciones anteriores se harán acreedores a la clausura temporal o definitiva, parcial o total de los establecimientos, o la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso de la inscripción registral o de las actividades de que se trate las personas físicas o jurídicas colectivas que incurran en los supuestos previstos en las fracciones VIII, X, XI, XII, XIII y XVIII del presente artículo.
 
 Se harán acreedores a la incautación por parte de la autoridad de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas o los medios de transporte utilizados las personas físicas o jurídicas colectivas que incurran en los supuestos previstos en el artículo 2.266 de este Libro.
+
+> <small>(ADICIONADO, G.G. 21 DE FEBRERO DE 2025)</small>
+
+Tratándose de la infracción contenida en la fracción XVIII, la autoridad administrativa competente, deberá ponderar de forma exhaustiva las fracciones III y IV del artículo 2.255 para la imposición de la sanción de manera proporcionada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -4561,6 +4579,8 @@ PROBOSQUE podrá dar destino final a los productos maderables o no maderables as
 
 ### CAPITULO I. DEL OBJETO Y DE LAS NORMAS PRELIMINARES
 
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 3.
 
 104. Cuando PROBOSQUE determine a través de las visitas de inspección, que existen daños al ecosistema, impondrá como sanción mínima al responsable la ejecución de las medidas de restauración correspondientes.
@@ -4589,7 +4609,7 @@ La amonestación sólo será aplicable a los infractores por primera vez, a crit
 
 ###### Artículo 4.
 
-1. El presente Libro tiene por objeto garantizar el derecho de toda persona a un medio ambiente adecuado y propiciar el desarrollo sostenible, regular la prevención de la generación, el aprovechamiento, la valorización y la gestión segura e integral de los residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación, fomentar la reducción, reutilización y reciclado, así como la prevención de la contaminación, la remediación, rehabilitación, recuperación y restauración de suelos contaminados con residuos de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
+1. El presente Libro tiene por objeto garantizar el derecho de toda persona a un medio ambiente adecuado y propiciar el desarrollo sostenible, regular la prevención de la generación, el aprovechamiento, la valorización y la gestión segura e integral de los residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación, regular aquellos productos de plástico de un solo uso, fomentar la reducción, reutilización y reciclado, así como la prevención de la contaminación, la remediación, rehabilitación, recuperación y restauración de suelos contaminados con residuos de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
 
 ###### Artículo 4.
 
@@ -4847,9 +4867,11 @@ VII. Otros que sean pertinentes.
 
 #### SECCION CUARTA. DE LA EDUCACION Y PROMOCION DE LA CULTURA DE MANEJO DE RESIDUOS
 
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 4.
 
-17. Los programas de educación formal e informal que desarrollen o fomenten los centros o instituciones educativas de jurisdicción del Estado deberán incorporar contenidos que permitan el desarrollo de hábitos de consumo que reduzcan la generación de residuos y la adopción de conductas que faciliten la separación de los residuos tan pronto como se generen, así como su reutilización, reciclado y manejo ambientalmente adecuados para crear una cultura en torno de los residuos.
+17. Los programas de educación formal e informal que desarrollen o fomenten los centros o instituciones educativas de jurisdicción del Estado deberán incorporar contenidos que permitan el desarrollo de hábitos de consumo que reduzcan la generación de residuos y la adopción de conductas que faciliten la separación de los residuos tan pronto como se generen, así como su reutilización, reciclado y manejo ambientalmente adecuados para concientizar sobre el impacto ambiental que conlleva el consumo y manejo inadecuado de plásticos de un solo uso, así como incentivar el uso de empaques biodegradables, reciclables, reutilizables y en general para crear una cultura en torno de los residuos.
 
 ###### Artículo 4.
 
@@ -5217,9 +5239,21 @@ XII. La mezcla de residuos sólidos urbanos y de manejo especial con residuos pe
 
 XIII. El confinamiento o depósito final de residuos en estado líquido, con contenidos líquidos o de materia orgánica que excedan los máximos permitidos por las normas oficiales mexicanas, normas técnicas estatales y demás ordenamientos;
 
-XIV. Dejar por parte de los responsables de confinamientos o depósitos finales de residuos que los lixiviados contaminen los mantos freáticos o sean vertidos sin tratamiento al sistema municipal de drenaje sin el tratamiento correspondiente; y
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
 
-XV. Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes o que interfiera con la prestación del servicio de limpia.
+XIV. Dejar por parte de los responsables de confinamientos o depósitos finales de residuos que los lixiviados contaminen los mantos freáticos o sean vertidos sin tratamiento al sistema municipal de drenaje sin el tratamiento correspondiente;
+
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+XV. Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes o que interfiera con la prestación del servicio de limpia;
+
+> <small>(ADICIONADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+XVI. Otorgar de forma gratuita, productos plásticos de un solo uso en las unidades económicas del Estado de México, excepto bolsas o contenedores que constituyan un empaque primario, que prevenga el desperdicio de bienes o que por cuestiones de higiene o salud se requieran, así como bolsas de acarreo que cumplan con las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA, G.G. 21 DE FEBRERO DE 2025)</small>
+
+XVII. El uso de plásticos de un solo uso que no sean biodegradables o reutilizables en las oficinas públicas, así como en instituciones educativas públicas y privadas.
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción de conformidad con las disposiciones establecidas en el presente Libro sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
 
@@ -8455,9 +8489,9 @@ DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la ar
 
 G.G. 20 DE DICIEMBRE DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 31.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 31.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el 01 de enero de 2025.
 
@@ -8470,3 +8504,23 @@ QUINTO.- El derecho previsto en el artículo 106 Bis del Código Financiero del 
 SEXTO.- La Consejería Jurídica, el Instituto de la Función Registral del Estado de México, la Secretaría de Finanzas y los Municipios, en el ámbito de su competencia y según corresponda, proveerán lo necesario para dar cumplimiento a lo previsto en el Artículo CUARTO del presente Decreto y de acuerdo con lo señalado en las Reglas de Operación que al efecto se emitan.
 
 Respecto de las operaciones de regularización previstas en los Programas establecidos en el Artículo CUARTO de este Decreto, no se causará el pago del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles previsto en la Sección Segunda del Capítulo Primero del Título Cuarto del Código Financiero del Estado de México y Municipios, ni el pago de derechos previstos en los artículos 95 y 102 de dicho Código, así como aquellos que se generen por la actualización de certificaciones previstas en el cuarto párrafo del artículo 116 del Código citado, pudiéndose presentar dichas certificaciones vigentes al momento de la operación pendiente de inscribir o, en su caso, sólo se presentarán las que se determinen en los Programas respectivos, a efecto de poder beneficiar y apoyar a la población a la que van dirigidos.
+
+G.G. 21 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 90.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 2.202, LAS FRACCIONES XVI Y XVII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2.263, LOS ARTÍCULOS 4.1 Y 4.17 Y LAS FRACCIONES XIV Y XV DEL ARTÍCULO 4.45 Y SE ADICIONA LA FRACCIÓN XLIV BIS AL ARTÍCULO 2.5, LA FRACCIÓN XVIII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2.263 Y LAS FRACCIONES XVI Y XVII AL ARTÍCULO 4.45 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos realizarán las adecuaciones normativas en sus bandos municipales y reglamentos respectivos, a más tardar dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto, instrumentando los mecanismos de inspección y vigilancia que les competan para la observancia del mismo, así como la sustitución gradual de plásticos de un solo uso que se utilicen en las oficinas públicas y no sean biodegradables.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría del Medio Ambiente y Desarrollo Sostenible deberá establecer las acciones y medidas para la sustitución gradual de plásticos de un solo uso que se utilicen en las oficinas de la Administración Pública Estatal y no sean biodegradables, de manera enunciativa más no limitativa señalará los productos susceptibles de sustitución.
