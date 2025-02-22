@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-de-las-personas-servidoras-publicas-del-139287"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-03"
-last_updated: "2023-12-06"
+last_updated: "2025-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAB"
 
 CÓDIGO DE ÉTICA Y DE CONDUCTA DEL ORGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2025.
 
 Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 3 de abril de 2019.
 
@@ -84,15 +84,17 @@ Además de las definiciones previstas en la Ley General de Responsabilidades Adm
 
 I. Acoso laboral: Forma de violencia que se presenta en una serie de eventos que tienen como objetivo intimidar, excluir, opacar, amedrentar o consumir emocional o intelectualmente a la víctima, causando un daño físico, psicológico, económico o laboral-profesional. Se puede presentar en forma horizontal, vertical ascendente o vertical descendente, ya sea en el centro de trabajo o fuera de éste, siempre que se encuentre vinculado a la relación laboral;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-II. Acoso sexual: Forma de violencia de carácter sexual, en la que, si bien no existe una subordinación jerárquica de la víctima frente a la persona agresora, e inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, hay un ejercicio abusivo de poder por parte de quien la realiza. Puede tener lugar entre personas servidoras públicas y de éstas hacia particulares y es expresada en conductas verbales o de hecho, físicas o visuales, como son aquellas mencionadas en la fracción IV del artículo 5 del presente Código de Ética, independientemente de que se realice en uno o varios eventos;
+II. Acoso sexual: Forma de violencia de carácter sexual, en la que, si bien no existe una subordinación jerárquica de la víctima frente a la persona agresora, e inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, hay un ejercicio abusivo de poder por parte de quien la realiza. Puede tener lugar entre personas servidoras públicas y de éstas hacia particulares y es expresada en conductas verbales o, de hecho, físicas o visuales; como son aquellas mencionadas en la fracción IV del artículo 5 del presente Código de Ética, independientemente de que se realice en uno o varios eventos;
 
 III. Código de Conducta: El instrumento que permite a los servidores públicos del OSFE, regirnos por los valores éticos para delimitar la actuación que debe observarse entre nosotros, asimismo fortalecer la transparencia y el combate a la corrupción, para garantizar el adecuado cumplimiento de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, que dan por resultado una conducta digna, que genere condiciones que hagan posible la igualdad de oportunidades entre las personas, así como erradicar la discriminación y/o actos de violencia en nuestro actuar;
 
 IV. Código de Ética: Es un documento que contiene principios y valores reconocidos y respetados por los integrantes de un grupo determinado en este caso del OSFE. Es una declaración formal de las prioridades éticas de dicho grupo u organización.
 
-Contiene los deberes inherentes a la conducta y desempeño de los integrantes de cualquier institución;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+Contiene los deberes inherentes a la conducta y desempeño de los integrantes de cualquier Institución;
 
 V. Comité: El Comité de Integridad, como cuerpo colegiado que, tiene a su cargo el fomento de la ética e integridad en el servicio público y la prevención de conflicto de intereses a través de acciones de orientación, capacitación y difusión en el OSFE;
 
@@ -116,9 +118,9 @@ XI. Ética pública: Disciplina basada en normas de conducta que se fundamentan 
 
 XII. Fiscal Superior: El Titular del Órgano Superior de Fiscalización del Estado;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-XIII. Hostigamiento sexual: Es una forma de violencia de carácter sexual en la cual hay un ejercicio abusivo de poder por parte de quién la realiza y tiene lugar en una relación de subordinación jerárquica real de la víctima frente a la persona agresora. Es expresada en conductas verbales o de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos;
+XIII. Hostigamiento sexual: Es una forma de violencia de carácter sexual en la cual hay un ejercicio abusivo de poder por parte de quién la realiza y tiene lugar en una relación de subordinación jerárquica real de la víctima frente a la persona agresora. Es expresada en conductas verbales o, de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos;
 
 XIV. Impedimento legal: Restricción normativa que imposibilita a la persona servidora pública del OSFE a conocer de un asunto u ocupar un cargo;
 
@@ -128,17 +130,19 @@ XV. Juicio Ético: En un contexto de ambigüedad, será el ejercicio individual 
 
 XVI. Lenguaje incluyente y no sexista: Comunicación verbal y escrita que tiene por finalidad visibilizar a las mujeres para equilibrar las asimetrías de género, así como valorar la diversidad que compone nuestra sociedad haciendo visibles a las personas y grupos históricamente discriminados;
 
-XVII. Lineamientos: Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el 12 de octubre de 2018;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+XVII. Lineamientos: Aquellos a los que hace referencia el artículo 16 de la Ley General de Responsabilidades Administrativas, emitidos por el Sistema Nacional Anticorrupción.
 
 XVIII. OSFE: Órgano Superior de Fiscalización del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-XIX. Persona (s) Servidora (s) Pública (s): Al personal que labore o preste sus servicios para el OSFE, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos y 66 de la Constitución Política del Estado Libre y Soberano de Tabasco;
+XIX. Persona (s) Servidora (s) Pública (s): Toda persona que labore o preste sus servicios para el OSFE, conforme a lo dispuesto en los artículos 108 de la Constitución Política de los Estados Unidos Mexicanos y 66 de la Constitución Política del Estado Libre y Soberano de Tabasco;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-XX. Principios Constitucionales: Aquellos que rigen la actuación de las personas servidoras públicas previstos en la fracción III, del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y artículo 71 de la Constitución Política del Estado Libre y Soberano de Tabasco;
+XX. Principios Constitucionales: Los que rigen la actuación de las personas servidoras públicas previstos en el artículo 109, fracción III, párrafo primero de la Constitución Política de los Estados Unidos Mexicanos y artículo 71, párrafo primero de la Constitución Política del Estado Libre y Soberano de Tabasco;
 
 XXI. Riesgo ético: Situaciones en las que potencialmente pudieran transgredirse principios, valores o reglas de integridad y que deberán ser identificados a partir del diagnóstico que se realice, en términos de lo ordenado por el artículo 15 de la Ley General de Responsabilidades Administrativas;
 
@@ -146,7 +150,9 @@ XXI. Riesgo ético: Situaciones en las que potencialmente pudieran transgredirse
 
 XXII. Titular: En plural o singular, femenino o masculino, al director o titular de las unidades administrativas del OSFE, de acuerdo a su cargo.
 
-XXIII. Valores: Cualidad o conjunto de cualidades por las que una persona servidora pública es apreciada o bien considerada.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+XXIII. Valores: Conjunto de cualidades que posee el servidor público, los cuales determinan su adecuado comportamiento y actuación en el desempeño de sus actividades del servicio público.
 
 ### CAPÍTULO II. PRINCIPIOS RECTORES DEL SERVICIO PÚBLICO
 
@@ -156,7 +162,9 @@ XXIII. Valores: Cualidad o conjunto de cualidades por las que una persona servid
 
 En congruencia con los principios estipulados en los Lineamientos para la emisión del Código de Ética aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, las personas servidoras públicas del OSFE deberán actuar conforme a los principios constitucionales y legales que rigen al servicio público:
 
-a) Competencia por mérito: Las personas servidoras públicas deberán ser seleccionados (sic) para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+a) Competencia por mérito: Las personas servidoras públicas deberán ser seleccionados (sic) para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad; atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
 
 b) Disciplina: Las personas servidoras públicas desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
 
@@ -164,27 +172,89 @@ c) Equidad: Las personas servidoras públicas procurarán que toda persona acced
 
 d) Lealtad: Las personas servidoras públicas corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad, y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población.
 
-e) Legalidad: Las personas servidoras públicas hacen sólo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
-f) Honradez: Las personas servidoras públicas se conducen con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
+e) Legalidad: Las personas servidoras públicas hacen sólo aquello que las normas expresamente les confieren, y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión; por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
 
-g) Imparcialidad: Las personas servidoras públicas dan a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
-h) Integridad: Las personas servidoras públicas actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
+f) Honradez: Las personas servidoras públicas se conducen con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros; ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones, y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
 
-i) Eficiencia: Las personas servidoras públicas actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
-j) Eficacia: Las personas servidoras públicas actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
+g) Imparcialidad: Las personas servidoras públicas dan a la ciudadanía, y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas; ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+h) Integridad: Las personas servidoras públicas actúan siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función; convencidas en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+i) Eficiencia: Las personas servidoras públicas actúan en apego a los planes y programas previamente establecidos, y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+j) Eficacia: Las personas servidoras públicas actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades y mediante el uso formal y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
 
 k) Economía: Las personas servidoras públicas en el ejercicio del gasto público administrarán los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
 
-l) Objetividad: Las personas servidoras públicas deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
-m) Profesionalismo: Las personas servidoras públicas deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
+l) Objetividad: Las personas servidoras públicas deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general; actuando de manera neutral e imparcial en la toma de decisiones que, a su vez, deberán de ser informadas en estricto apego a la legalidad.
 
-n) Rendición de cuentas: Las personas servidoras públicas asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+m) Profesionalismo: Las personas servidoras públicas deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión; observando en todo momento disciplina, integridad y respeto, tanto a las demás personas servidoras públicas como a las y los particulares con los que llegare a tratar.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+n) Rendición de cuentas: Las personas servidoras públicas asumen plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión; por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
 
 o) Transparencia: Las personas servidoras públicas en el ejercicio de sus funciones privilegian el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+ARTÍCULO 5 BIS. Además de los principios señalados en el artículo que antecede, las personas servidoras públicas del OSFE, observarán los 20 principios que contemplan el nuevo ideal del Humanismo Mexicano:
+
+1. Del respeto a la diferencia. Evitemos imponer "nuestro mundo" al mundo de los demás.
+
+2. De la vida. No hay nada más valioso que la vida, libertad y seguridad de las personas.
+
+3. De la dignidad. No se debe humillar a nadie.
+
+4. De la libertad. La paz y la libertad son inseparables. Nadie puede estar en paz sin libertad.
+
+5. Del amor. El amor al prójimo es la esencia del humanismo.
+
+6. Del sufrimiento y el placer. No hay mayor alegría que la felicidad de los demás.
+
+7. Del pasado y del futuro. Quien no sabe de dónde viene difícilmente sabe a dónde va.
+
+8. De la gratitud. El agradecimiento es la mayor virtud de una buena persona.
+
+9. Del perdón. El perdón libera a quien lo otorga y a quien lo recibe.
+
+10. De la redención. No se debe enfrentar el mal con el mal.
+
+11. De la igualdad. La buena ley debe moderar la opulencia y la indigencia; no puede haber trato igual entre desiguales.
+
+12. De la verdad, la palabra y la confianza. No mentir, no robar, no traicionar.
+
+13. De la fraternidad. Ser fraterno es hacer propios los problemas de los demás.
+
+14. De las leyes y la justicia. Al margen de la ley nada; por encima de la ley, nadie. Todo por la razón y el derecho, nada por la fuerza.
+
+15. De la autoridad y el poder. El poder sólo tiene sentido y se convierte en virtud cuando se pone al servicio de los demás.
+
+16. Del trabajo. No hay mayor satisfacción que tener trabajo y disfrutarlo.
+
+17. De la riqueza y la economía. No es más rico el que tiene más, sino el más generoso.
+
+18. De los acuerdos. Los compromisos se cumplen.
+
+19. De la familia. La familia es la principal Institución de seguridad social en México.
+
+20. De los animales, las plantas y las cosas. Al cuidar el aire, el agua, la tierra, las plantas, los animales y las cosas nos cuidamos todos.
 
 ### CAPÍTULO III. DE LOS VALORES Y COMPROMISOS CON EL SERVICIO PÚBLICO
 
@@ -194,17 +264,19 @@ Con base en los Lineamientos para la emisión del Código de Ética aprobados po
 
 a) Cooperación: Las personas servidoras públicas colaboran entre sí y propician el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones.
 
-b) Entorno Cultural y Ecológico: Las personas servidoras públicas en el desarrollo de sus actividades evitan la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
+b) Entorno Cultural y Ecológico: Las personas servidoras públicas en el desarrollo de sus actividades evitan la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente y; en el ejercicio de sus funciones y conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
 
 c) Equidad de género: Las personas servidoras públicas, en el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales.
 
-d) Igualdad y no discriminación: Las personas servidoras públicas prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+d) Igualdad y no discriminación: Las personas servidoras públicas prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales; o en cualquier otro motivo que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 e) Interés Público: Las personas servidoras públicas actúan buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
 
 f) Liderazgo: Las personas servidoras públicas son guía, ejemplo y promotoras del Código de Ética y las Reglas de Integridad; fomentan y aplican en el desempeño de sus funciones los principios que la Constitución y la Ley les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
 
-g) Respeto: Las personas servidoras públicas se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+g) Respeto: Las personas servidoras públicas se conducen con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, superiores y subordinados, considerando sus derechos; de tal manera que, propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
 
 h) Respeto a los Derechos Humanos: Las personas servidoras públicas respetan los derechos humanos, y en el ámbito de sus competencias y atribuciones, los garantizan, promueven y protegen de conformidad con los Principios de: Universalidad que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia que implica que los derechos humanos se encuentran vinculados íntimamente entre sí; de Indivisibilidad que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
 
@@ -214,9 +286,9 @@ h) Respeto a los Derechos Humanos: Las personas servidoras públicas respetan lo
 
 Las personas servidoras públicas deberán presentar su declaración patrimonial y de intereses en los plazos establecidos en la Ley General de Responsabilidades Administrativas, y a través del sistema informático que se disponga para ello, considerando todos los datos personales generados en el periodo que se presente, en apego a los principios de honradez, veracidad y transparencia.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
-Los usuarios y contraseñas que se otorguen al usuario a través del sistema informático son personales por lo que no deberán ser compartidas, salvo por causa justificada.
+Los usuarios y contraseñas que se otorguen al usuario a través del sistema informático son personales, por lo que no deberán ser compartidas, salvo por causa justificada.
 
 ###### ARTÍCULO 8.
 
@@ -228,19 +300,23 @@ II. Solicitar ser excusado de participar en cualquier forma, en la atención, tr
 
 III. Acatar las instrucciones o solución formuladas por su jefe inmediato.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 9.
 
-Las personas servidoras públicas del OSFE, deben abstenerse de aceptar, exigir u obtener cualquier obsequio, regalo, gratificación o similar, sean en favor de sí mismas o personas con los que tenga relaciones personales, profesionales, laborales, de negocios, o para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen parte, máxime cuando estas circunstancias se vinculen con la información que ocupen como parte de sus funciones en la institución. En el caso de los trámites que se brindan al público en general, se deberá hacer de su conocimiento que los servicios que el OSFE brinda son completamente gratuitos.
+Las personas servidoras públicas del OSFE, deben abstenerse de aceptar, exigir u obtener cualquier obsequio, regalo, gratificación o similar, sean en favor de sí mismas o personas con los que tenga relaciones personales, profesionales, laborales, de negocios, o para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen parte; máxime cuando estas circunstancias se vinculen con la información que ocupen como parte de sus funciones en la Institución. En el caso de los trámites que se brindan al público en general, se deberá hacer de su conocimiento que los servicios que el OSFE brinda son completamente gratuitos.
 
 ### CAPÍTULO IV. DE LAS REGLAS DE INTEGRIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 10.
 
-Tomando en cuenta los principios rectores y valores antes definidos, se presentan las reglas de integridad del OSFE, las cuales definen las pautas y prioridades que deben guiar la actuación de las personas servidoras públicas de la institución en los ámbitos del servicio público, tales como: actuación pública, información pública, contrataciones, trámites y servicios, recursos humanos, administración de bienes muebles, procesos de evaluación, control interno, procedimiento administrativo, desempeño permanente con integridad, cooperación con la integridad y comportamiento digno. Lo anterior, a partir de los siguientes criterios:
+Tomando en cuenta los principios rectores y valores antes definidos, se presentan las reglas de integridad del OSFE, las cuales definen las pautas y prioridades que deben guiar la actuación de las personas servidoras públicas de la Institución en los ámbitos del servicio público, tales como: actuación pública, información pública, contrataciones, trámites y servicios, recursos humanos, administración de bienes muebles, procesos de evaluación, control interno, procedimiento administrativo, desempeño permanente con integridad, cooperación con la integridad y comportamiento digno. Lo anterior, a partir de los siguientes criterios:
 
-1. Conducirse con integridad en el desarrollo de sus funciones, considerando que el comportamiento en el ámbito personal tiene incidencia en la imagen de la institución. En particular, es necesario actuar con honestidad, con respeto, de forma confiable, de buena fe y a favor del interés público;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+1. Conducirse con integridad en el desarrollo de sus funciones, considerando que el comportamiento en el ámbito personal tiene incidencia en la imagen de la Institución. En particular, es necesario actuar con honestidad, con respeto, de forma confiable, de buena fe y a favor del interés público;
 
 2. Preservar la independencia y objetividad en su actuación. Lo anterior, implica estar libre de influencias o circunstancias que comprometan, de manera real o en apariencia, el juicio profesional o la actuación imparcial;
 
@@ -258,7 +334,9 @@ Las reglas de integridad para cumplir con los criterios, principios y directrice
 
 i. Reglas relacionadas con el entorno institucional:
 
-a) El OSFE debe promover el valor de la integridad como un elemento que debe estar presente en la operación diaria de la institución, a través de una estrategia de comunicación y capacitación.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+a) El OSFE debe promover el valor de la integridad como un elemento que debe estar presente en la operación diaria de la Institución, a través de una estrategia de comunicación y capacitación.
 
 b) El OSFE debe contar con un Comité que diseñe mecanismos para prevenir, identificar y dar seguimiento a posibles conductas contrarias al Código de Ética, mismo que deberá actuar bajo el principio de imparcialidad.
 
@@ -266,7 +344,9 @@ c) El OSFE debe establecer un ambiente propicio para que el personal consulte o 
 
 ii. Reglas relacionadas con el comportamiento de las personas servidoras públicas del OSFE:
 
-a) Los niveles jerárquicos del OSFE deben dar el ejemplo al resto de los y las integrantes de la institución.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+a) Los niveles jerárquicos del OSFE deben dar el ejemplo al resto de los y las integrantes de la Institución.
 
 b) Debe actuar de manera honesta, confiable, y a favor del interés público; deberá ajustarse a las políticas y normas establecidas por el OSFE.
 
@@ -292,7 +372,9 @@ b) El OSFE debe proporcionar orientación y dirección a las personas servidoras
 
 c) El OSFE debe asegurar que las personas servidoras públicas, sobre todo los de mando superior, no desarrollen relaciones con entidades auditadas que puedan poner en riesgo su independencia u objetividad.
 
-d) El OSFE no proporcionará asesoría u otros servicios distintos de la auditoría a una entidad auditada cuando dichos servicios importen responsabilidades de gestión.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+d) El OSFE no proporcionará asesoría u otros servicios distintos de la auditoría a una entidad auditada cuando dichos servicios conlleven responsabilidades de gestión.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -362,7 +444,9 @@ d) El OSFE debe participar en la actualización de las NPASNF.
 
 e) El OSFE debe contar con una política de integridad que permita identificar los riesgos y las vulnerabilidades que enfrentan las personas servidoras públicas en la materia.
 
-f) El OSFE debe hacer del conocimiento de las personas servidoras públicas que laboran en ella que su comportamiento personal puede afectar la imagen de la institución.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+f) El OSFE debe hacer del conocimiento de las personas servidoras públicas que laboran en ella que su comportamiento personal puede afectar la imagen de la Institución.
 
 ii. Reglas relacionadas con el comportamiento de las personas servidoras públicas del OSFE:
 
@@ -370,9 +454,13 @@ a) Debe cumplir con el marco legal aplicable al ejercicio de sus funciones y al 
 
 b) No debe abusar de su posición y, por el contrario, debe respetar a las personas servidoras públicas que laboran en las entidades auditadas.
 
-c) Debe conducirse con prudencia y precaución, con el fin de que sus acciones u opiniones no desacrediten o comprometan a la institución.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
-d) Debe informar a sus superiores sobre cualquier conflicto que surja entre los principios éticos de la institución y sus funciones.
+c) Debe conducirse con prudencia y precaución, con el fin de que sus acciones u opiniones no desacrediten o comprometan a la Institución.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+d) Debe informar a sus superiores sobre cualquier conflicto que surja entre los principios éticos de la Institución y sus funciones.
 
 e) Las estrategias de innovación y de mejora que el personal proponga para el funcionamiento del OSFE, deben tener como límite el marco legal aplicable. Asimismo, los superiores jerárquicos deben valorar las aportaciones de su equipo de trabajo y escuchar sus puntos de vista, manteniendo en todo momento, la equidad de género.
 
@@ -380,11 +468,15 @@ e) Las estrategias de innovación y de mejora que el personal proponga para el f
 
 i. Reglas relacionadas con el entorno institucional:
 
-a) El OSFE debe promover el cumplimiento de la Ley General de Transparencia y Acceso a la Información Pública; Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; Ley General de Archivos; Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+a) El OSFE debe promover el cumplimiento de la Ley General de Transparencia y Acceso a la Información Pública; Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; Ley General de Archivos; Ley de Archivos para el Estado de Tabasco; Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable.
 
 b) El OSFE debe contar con los mecanismos institucionales adecuados para asegurar el resguardo de la información conforme a la legislación aplicable.
 
-c) El OSFE debe asegurar que cualquiera de las partes contratadas para realizar trabajos dentro de la institución, estén sujetas a formalizar acuerdos de confidencialidad de la información que manejan.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+c) El OSFE debe asegurar que cualquiera de las partes contratadas para realizar trabajos dentro de la Institución, estén sujetas a formalizar acuerdos de confidencialidad de la información que manejan.
 
 d) El OSFE debe implementar políticas de transparencia proactiva en el marco de la legislación aplicable.
 
@@ -396,13 +488,17 @@ a) Debe estar al tanto de las obligaciones legales, políticas y directrices ins
 
 b) No debe revelar ninguna información obtenida como resultado de su trabajo sin la debida y específica autorización, a menos que exista un deber legal para hacerlo.
 
-c) No debe compartir con compañeros y/o compañeras de trabajo de la institución los resultados de las auditorías practicadas, a menos de que sea necesario para cumplir con los procesos legales y administrativos requeridos, previa autorización de sus superiores jerárquicos.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+c) No debe compartir con compañeros y/o compañeras de trabajo de la Institución los resultados de las auditorías practicadas, a menos de que sea necesario para cumplir con los procesos legales y administrativos requeridos, previa autorización de sus superiores jerárquicos.
 
 d) No debe utilizar información institucional, incluyendo la que se clasifica como reservada, para beneficio personal o de terceros.
 
 e) Debe mantener discreción sobre el contenido de la información institucional en el entorno social, incluyendo las redes sociales.
 
-f) Debe contribuir al mantenimiento de los controles que implemente la institución para el resguardo y salvaguarda de la información.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+f) Debe contribuir al mantenimiento de los controles que implemente la Institución para el resguardo y salvaguarda de la información.
 
 ### CAPÍTULO V. DE LOS MECANISMOS DE CAPACITACIÓN Y DIFUSIÓN DEL CÓDIGO DE ÉTICA
 
@@ -426,7 +522,9 @@ b) Mecanismo de difusión.
 
 - Periódicamente, se debe incluir dentro de las comunicaciones institucionales (pantallas, fondos de pantalla, correos electrónicos, intranet) información para el cumplimiento y sobre el contenido de los Códigos de Ética y de Conducta.
 
-- Asimismo, se debe comunicar, de manera clara y explícita la integración, funciones y objetivos del Comité, considerando que resulta imprescindible no generar expectativas que disten de sus objetivos, como son elementos punitivos o la visualización de la denuncia más allá de un insumo para identificar riesgos estructurales de la institución y coadyuvar al cumplimiento de los Códigos de Ética y de Conducta, así como de las directrices para prevenir conflictos de intereses.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+- Asimismo, se debe comunicar, de manera clara y explícita la integración, funciones y objetivos del Comité, considerando que resulta imprescindible no generar expectativas que disten de sus objetivos, como son elementos punitivos o la visualización de la denuncia más allá de un insumo para identificar riesgos estructurales de la Institución y coadyuvar al cumplimiento de los Códigos de Ética y de Conducta, así como de las directrices para prevenir conflictos de intereses.
 
 - Se debe incentivar la cooperación interinstitucional para participar en acciones de difusión de casos de éxito y buenas prácticas llevada (sic) a cabo por otras instancias.
 
@@ -475,6 +573,14 @@ Fiscal Superior del Estado
 P.O. 6 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMA DEL ARTÍCULO 1, LA FRACCIÓN I; EL ARTÍCULO 2; DEL ARTÍCULO 5, EL PÁRRAFO PRIMERO; DEL ARTÍCULO 7, EL PÁRRAFO PRIMERO; EL ARTÍCULO 9; DEL ARTÍCULO 11, DIRECTRIZ 2, FRACCIÓN II. REGLAS RELACIONADAS CON EL COMPORTAMIENTO DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL OSFE, EN SU DENOMINACIÓN Y EL INCISO C); DEL ARTÍCULO 12, INCISO B) MECANISMO DE DIFUSIÓN, EL PÁRRAFO PRIMERO; DEL ARTÍCULO 13, EL PÁRRAFO PRIMERO Y LA FRACCIÓN II; Y EL ARTÍCULO 15; SE ADICIONA DEL ARTÍCULO 4, LAS FRACCIONES I, II, VII, VIII, X, XIII Y XVI, Y SE RECORREN EN SU ORDEN LAS FRACCIONES PARA QUEDAR DEL III AL VI, IX, XI, XII, XIV, XV Y DEL XVII AL XXIII; DEL ARTÍCULO 7, UN PÁRRAFO SEGUNDO; DEL ARTÍCULO 11, DIRECTRIZ 1, FRACCIÓN II. REGLAS RELACIONADAS CON EL COMPORTAMIENTO DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA OSFE, EL INCISO G) Y DEL ARTÍCULO 13, UN PÁRRAFO SEGUNDO”.]
+
+PRIMERO. - El presente Acuerdo por el que se modifica el Código de Ética y de Conducta del Órgano Superior de Fiscalización del Estado, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. - El presente Acuerdo, deberá ser difundido dentro de los medios de comunicación institucionales del Órgano Superior de Fiscalización del Estado, en cumplimiento al artículo 12, inciso b) del Código de Ética.
+
+P.O. 22 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA Y ADICIONA EL CÓDIGO DE ÉTICA Y CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO".]
 
 PRIMERO. - El presente Acuerdo por el que se modifica el Código de Ética y de Conducta del Órgano Superior de Fiscalización del Estado, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
