@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2024-07-27"
+last_updated: "2025-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -97,9 +97,13 @@ X. Prevenir, controlar y erradicar los plaguicidas de uso restringido, prohibido
 
 XI. Promover programas y apoyos dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro estado, y demás aplicables a la presente Ley.
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+XII. Establecer programas para rescatar semillas nativas y proteger la diversidad genética del maíz y otros cultivos tradicionales; y
+
 > <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2023)</small>
 
-XII. Evaluar de manera anual las políticas, programas, proyectos, actividades productivas y las acciones sociales en el medio rural para observar las deficiencias y aciertos en su operación, así como promover su mejora continua.
+XIII. Evaluar de manera anual las políticas, programas, proyectos, actividades productivas y las acciones sociales en el medio rural para observar las deficiencias y aciertos en su operación, así como promover su mejora continua.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
 
@@ -113,7 +117,9 @@ II. Actividades económicas: Las actividades productivas, industriales, comercia
 
 III. ADR's: Agencias de Desarrollo Rural Sustentable;
 
-IV. Agentes de la Sociedad Rural: Personas físicas o morales de los sectores social y privado que integran a la sociedad rural;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+IV. Agentes de la Sociedad Rural: Personas físicas o morales de los sectores social y privado que integran a la sociedad rural, incluyendo a los participantes en la producción, transporte, distribución y comercialización de productos, insumos y fertilizantes;
 
 V. Agricultura familiar: Es el modo de vida y trabajo agrícola practicado por hombres y mujeres de un mismo núcleo familiar; a través de unidades productivas familiares. Su fruto es destinado al consumo propio, al trueque y comercialización, pudiendo provenir de las actividades de recolección, agropecuaria, silvicultura, pesca u otros servicios rurales, tales como, la hortícola, frutícola, forestal, apícola, pecuario, industrial rural, pesquero artesanal, acuícola y de agroturismo;
 
@@ -359,9 +365,9 @@ X. Equidad de género, la protección de la familia, el impulso a los programas 
 
 XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable del Estado;
+XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable del Estado.
 
 XIII. Seguridad en la tenencia y disposición de la tierra;
 
@@ -645,7 +651,9 @@ V. El fomento de la sanidad vegetal, la salud animal y la inocuidad de los produ
 
 VI. El fomento de la eficacia de los procesos de extracción o cosecha, acondicionamiento con grados de calidad del producto, empaque, acopio y comercialización;
 
-VII. El fortalecimiento de los servicios de apoyo a la producción, en particular al financiamiento, el aseguramiento, el almacenamiento, el transporte, la producción y abasto de insumos y la información económica y productiva;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+VII. El fortalecimiento de los servicios de apoyo a la producción, en particular el financiamiento, el aseguramiento, el almacenamiento, el transporte, la producción y abasto de insumos y fertilizantes, y la información económica y productiva;
 
 VIII. El fomento a los sistemas familiares de producción;
 
@@ -653,11 +661,13 @@ IX. El impulso a la industria, agroindustria y la integración de cadenas produc
 
 X. El impulso de las actividades de turismo alternativo y turismo sustentable, de las artesanías y de la gastronomía en el medio rural;
 
-XI. El impulso a las actividades económicas no agropecuarias en el que se desempeña (sic) los diversos agentes de la sociedad rural;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+XI. El impulso a las actividades económicas no agropecuarias en las que se desempeñan los diversos agentes de la sociedad rural, promoviendo la inversión de los sectores social y privado;
 
-XII. La creación de condiciones adecuadas para enfrentar el proceso de globalización favoreciendo el cultivo del maíz nativo, entre otras acciones;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+XII. La creación de condiciones adecuadas para enfrentar el proceso de globalización, disminuyendo la importación de insumos y fertilizantes del extranjero;
 
 XIII. Valoración y pago de los servicios ambientales;
 
@@ -917,9 +927,9 @@ II. La aplicación de un esquema que permita el desarrollo sostenido y eficiente
 
 III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico; y
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de productores, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
+IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
 
 ### CAPÍTULO IV. DE LA RECONVERSIÓN PRODUCTIVA SUSTENTABLE
 
@@ -1577,11 +1587,11 @@ Asimismo, en las políticas, planes, programas, proyectos que se formulen y ejec
 
 ### CAPÍTULO XV. DEL BIENESTAR SOCIAL Y LA ATENCIÓN PRIORITARIA A ZONAS MARGINADAS
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 128.
 
-Los programas que opere el Ejecutivo Estatal mediante convenios con la Federación, impulsarán una adecuada integración de los factores de bienestar social como son: salud, seguridad social, educación, alimentación, vivienda, equidad de género, atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos indígenas y afromexicanos, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
+Los programas que opere el Ejecutivo Estatal mediante convenios con la Federación, impulsarán una adecuada integración de los factores de bienestar social como son: salud, la seguridad social, la educación, la alimentación, la vivienda, la equidad de género, la atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos y comunidades indígenas y afromexicanas, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
 
 ###### ARTÍCULO 129.
 
@@ -1787,9 +1797,9 @@ VIII. La aplicación de medidas de certidumbre económica, financiera y comercia
 
 IX. La prevención del desperdicio de alimentos.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-X. El estímulo para la producción de maíz nativo.
+X. El estímulo para la producción y protección del maíz nativo y otros cultivos tradicionales.
 
 ### CAPÍTULO XVIII. DEL ARBITRAJE DE PROCESOS Y PRODUCTOS DE LA SOCIEDAD RURAL
 
@@ -2024,3 +2034,13 @@ P.O. 27 DE JULIO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 141.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 4, LA FRACCIÓN XII DEL ARTÍCULO 16; LAS FRACCIONES VII, XI Y XII DEL ARTÍCULO 39, LA FRACCIÓN IV DEL ARTÍCULO 61, EL ARTÍCULO 128, Y LA FRACCIÓN X DEL ARTÍCULO 151; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 3 RECORRIÉNDOSE LA SUBSECUENTE, TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
