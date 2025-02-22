@@ -1,0 +1,62 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE SAN LUCAS OJITLAN, DISTRITO DE TUXTEPEC, OAXACA, PARA EL EJERCICIO FISCAL 2025"
+identifier: "OAX-ley-de-ingresos-del-municipio-de-san-lucas-ojitlan-distrito-178733"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2025-02-22"
+last_updated: "2025-02-22"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=178733&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "178733"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "8 DECIMA CUARTA SECCION"
+reform_count: "0"
+scjn_last_update: "2025-02-22"
+issue_date: "2025-02-04"
+municipality: "San Lucas Ojitlán"
+municipality_inegi: "20232"
+state: "OAX"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE SAN LUCAS OJITLAN, DISTRITO DE TUXTEPEC, OAXACA, PARA EL EJERCICIO FISCAL 2025
+
+LEY DE INGRESOS DEL MUNICIPIO DE SAN LUCAS OJITLÁN, DISTRITO DE TUXTEPEC, OAXACA, PARA EL EJERCICIO FISCAL 2025
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Décima Cuarta Sección al Número 8 del Periódico Oficial del Estado de Oaxaca, el sábado 22 de febrero de 2025.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+###### Artículo 56.
+
+Esta contribución se pagará de acuerdo a las siguientes cuotas y periodos:
+
+PERIODICIDAD CUOTA EN UMA
+
+I. Habitación popular 0.002 hasta 1.91
+
+II. Habitación social 0.09 hasta 6.36
+
+III. Uso general 0.63 hasta 12.27
+
+IV. Uso comercial 0.47 hasta 7.51
+
+V. Uso industrial. 0.17 hasta 38.66
+
+###### Artículo 115.
+
+Se consideran multas las faltas administrativas que cometan los ciudadanos a su bando de policía y gobierno, por los siguientes conceptos.
+
+CONCEPTO CUOTA EN PESOS.
+
+[…]
+
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE DICIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+XXVIII.- Abuso o FALTA DE RESPETO (SIC) LA AUTORIDAD. 2,907.00
