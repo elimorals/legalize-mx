@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-las-personas-servidoras-publicas-del-1392
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-03"
-last_updated: "2023-12-06"
+last_updated: "2025-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "TAB"
 
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2025.
 
 Código publicado al Número 7990 del Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 3 de abril de 2019.
 
@@ -92,7 +92,9 @@ Reglas específicas de actuación.
 
 1. Desempeño permanente con integridad.
 
-i. Las personas servidoras públicas del OSFE se abstendrán de aceptar regalos de un ente que están auditando o de cualquier otra institución, despacho o persona externa que solicite a cambio favores o información institucional.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+i. Las personas servidoras públicas del OSFE se abstendrán de aceptar regalos de un ente que están auditando o de cualquier otra Institución, despacho o persona externa que solicite a cambio favores o información institucional.
 
 ii. Las personas servidoras públicas del OSFE no se involucrarán en el proceso de contratación de un proveedor que le brinda servicios al OSFE cuando la persona tenga intereses financieros con dicho proveedor.
 
@@ -102,33 +104,47 @@ iv. Las personas servidoras públicas se abstendrán de incluir información fal
 
 v. Las personas servidoras públicas del OSFE no solicitarán favores a un ente auditado para que contrate a un familiar o a proveedores.
 
-vi. Las personas servidoras públicas del OSFE no buscarán una ventaja de su posición para realizar trámites ante ninguna institución gubernamental.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+vi. Las personas servidoras públicas del OSFE no buscarán una ventaja de su posición para realizar trámites ante ninguna Institución gubernamental.
 
 vii. Las personas servidoras públicas del OSFE se abstendrán de discriminar, acosar o agredir por cualquier medio, verbal o físicamente, o a través de redes sociales, a sus compañeros y/o compañeras de trabajo, así como a los funcionarios de los entes auditados.
 
 viii. Las personas servidoras públicas del OSFE no denunciarán a compañeras y/o compañeros de trabajo con información falsa, con el fin de afectar su reputación.
 
-ix. Las personas servidoras públicas del OSFE deben abstenerse de la sustracción de bienes y materiales de la institución o del ente que se encuentre auditando.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-x. Las personas servidoras públicas del OSFE deben abstenerse del desperdicio de los bienes y materiales de la institución.
+ix. Las personas servidoras públicas del OSFE deben abstenerse de la sustracción de bienes y materiales de la Institución o del ente que se encuentre auditando.
 
-xi. Las personas servidoras públicas del OSFE, en el cumplimiento de sus funciones, deberán de abstenerse de poner en riesgo su seguridad y la de su equipo de trabajo.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+x. Las personas servidoras públicas del OSFE deben abstenerse del desperdicio de los bienes y materiales de la Institución.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+xi. Las personas servidoras públicas del OSFE, en el cumplimiento de sus funciones, deberán abstenerse de poner en riesgo su seguridad y la de su equipo de trabajo.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 2. Actuar con independencia y objetividad.
 
-i. Las personas servidoras públicas del OSFE se abstendrán de participar en actividades políticas o con fines de lucros durante la jornada laboral ni portando el uniforme institucional.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+i. Las personas servidoras públicas del OSFE se abstendrán de participar en actividades políticas o con fines de lucro durante la jornada laboral ni portando el uniforme institucional.
 
 ii. Las personas servidoras públicas del OSFE no utilizarán su posición para solicitar el apoyo a determinado candidato de algún partido político.
 
 iii. Las personas servidoras públicas del OSFE no auditarán a una entidad donde trabajó o prestó un servicio dentro del año inmediato anterior.
 
-iv. Las personas servidoras públicas del OSFE no influirán en la selección del candidato o de la candidata para una posición específica que es clave en la entidad auditada.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+iv. Las personas servidoras públicas del OSFE no influirán en la selección del candidato o de la candidata, para una posición específica que es clave en la entidad auditada.
 
 v. Las personas servidoras públicas del OSFE no participarán en un proceso de contratación con una entidad auditada.
 
-vi. Las personas servidoras públicas del OSFE no buscarán perjudicar a alguna persona servidora pública cuya labor está siendo auditada, debido a animadversiones de carácter personal.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+vi. Las personas servidoras públicas del OSFE no buscarán perjudicar a alguna persona servidora pública, cuya labor está siendo auditada, debido a animadversiones de carácter personal.
 
 vii. Las personas servidoras públicas del OSFE se abstendrán de aceptar viajes de vacaciones o algún otro tipo de incentivo financiado por una entidad auditada o por algún funcionario o ex funcionario que se encuentre en proceso de investigación por sus actividades de ejercicios anteriores.
 
@@ -138,19 +154,27 @@ vii. Las personas servidoras públicas del OSFE se abstendrán de aceptar viajes
 
 i. Las personas servidoras públicas del OSFE no realizarán auditorías sin conocer el marco legal y técnico sobre los temas relacionados a la auditoría, incluyendo el que rige al ente auditado.
 
-ii. Las personas servidoras públicas del OSFE no realizarán auditorías sin conocer los límites de las facultades de la institución indicados en la Ley de Fiscalización Superior del Estado de Tabasco, así como el marco legal que rige al OSFE
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+ii. Las personas servidoras públicas del OSFE no realizarán auditorías sin conocer los límites de las facultades de la Institución indicados en la Ley de Fiscalización Superior del Estado de Tabasco, así como el marco legal que rige al OSFE.
 
 iii. Las personas servidoras públicas del OSFE tendrán disposición para capacitarse y adquirir nuevos conocimientos.
 
-iv. Las personas servidoras públicas del OSFE no llevarán a cabo trabajos de fiscalización que vayan más allá del mandato legal de la institución.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+iv. Las personas servidoras públicas del OSFE no llevarán a cabo trabajos de fiscalización que vayan más allá del mandato legal de la Institución.
 
 v. Las personas servidoras públicas del OSFE se abstendrán de emitir observaciones de auditoría sin la debida motivación, fundamentación y sustento legal.
 
 vi. Las personas servidoras públicas del OSFE no condicionarán o amenazarán al personal de la entidad auditada, señalándole que va a emitir una observación con consecuencias legales.
 
-vii. Las personas servidoras públicas del OSFE no afectarán a la imagen de la institución por su comportamiento en el ámbito personal (uso inapropiado de redes sociales, de documentos institucionales como la identificación oficial, riñas y faltas a la moral pública).
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
 
-viii. Las personas servidoras públicas del OSFE no consumirán bebidas embriagantes, alucinógenos o drogas, salvo que se encuentren bajo prescripción médica, previa acreditación a su superior jerárquico, antes o durante su jornada laboral en las instalaciones del OSFE o en las del ente que se encuentre auditando, así como abstenerse de hacerlo con funcionarios de los entes públicos.
+vii. Las personas servidoras públicas del OSFE no afectarán a la imagen de la Institución por su comportamiento en el ámbito personal (uso inapropiado de redes sociales, de documentos institucionales como la identificación oficial, riñas y faltas a la moral pública).
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+viii. Las personas servidoras públicas del OSFE no consumirán bebidas embriagantes, alucinógenos o drogas, salvo que se encuentren bajo prescripción médica, previa acreditación a su superior jerárquico, antes o durante su jornada laboral en las instalaciones del OSFE o en las del Ente que se encuentre auditando; así como abstenerse de hacerlo con funcionarios de los Entes públicos.
 
 ix. Las personas servidoras públicas del OSFE informarán a su superior jerárquico sobre comportamientos inadecuados del personal a su cargo en el ejercicio de sus funciones.
 
@@ -168,7 +192,9 @@ iv. Las personas servidoras públicas del OSFE no proporcionarán información r
 
 v. Las personas servidoras públicas del OSFE deberán contestar verazmente las solicitudes de información que realiza un ciudadano o ciudadana sobre las actividades de su área, de conformidad con lo establecido en la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública.
 
-vi. Las personas servidoras públicas del OSFE no sustraerán información institucional o relacionada con su labor auditora, en formato físico o digital, con fines personales.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2025)</small>
+
+vi. Las personas servidoras públicas del OSFE no sustraerán información institucional o relacionada con su labor auditora, en formato físico o digital, con fines personales, ni laborales.
 
 vii. Las personas servidoras públicas del OSFE no comentarán los resultados de auditoría que aún no son públicos.
 
@@ -188,7 +214,9 @@ En caso de que se incumpla con las disposiciones previstas en este Código, la u
 
 Actualización del Código.
 
-Mediante la aplicación de cuestionarios, consultas, grupos de discusión o los medios que el Comité considere pertinentes, se recabarán las ideas y opiniones de las personas servidoras públicas en cuanto a la utilidad y conocimiento de este instrumento, y con base en esta retroalimentación realizará las modificaciones y actualizaciones que resulten procedentes.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2025)</small>
+
+Mediante la aplicación de cuestionarios, consultas, grupos de discusión o los medios que el Comité considere pertinentes, se recabarán las ideas y opiniones de las personas servidoras públicas en cuanto a la utilidad y conocimiento de este instrumento, y con base en esta retroalimentación, realizará las modificaciones y actualizaciones que resulten procedentes.
 
 ## TRANSITORIOS
 
@@ -207,3 +235,11 @@ P.O. 6 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente Acuerdo por el que se modifica el Código de Ética y de Conducta del Órgano Superior de Fiscalización del Estado, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente Acuerdo, deberá ser difundido dentro de los medios de comunicación institucionales del Órgano Superior de Fiscalización del Estado, en cumplimiento al artículo 12, inciso b) del Código de Ética.
+
+P.O. 22 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y ADICIONA EL CÓDIGO DE ÉTICA Y CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO”.]
+
+PRIMERO. - El presente Acuerdo por el que se modifica el Código de Ética y de Conducta del Órgano Superior de Fiscalización del Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. - El presente Acuerdo, deberá ser difundido dentro de los medios de comunicación institucionales del Órgano Superior de Fiscalización del Estado, en cumplimiento al artículo 12, inciso b) del Código de Ética.
