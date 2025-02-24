@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2024-12-16"
+last_updated: "2025-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -2967,43 +2967,45 @@ El pago de las obligaciones establecidas, deberán de ser enteradas en un térmi
 
 ### CAPÍTULO XIX. Servicio y Mantenimiento de Alumbrado Público
 
+(NOTA: EL 8 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE DICIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 115.
 
-La prestación del Servicio y Mantenimiento de Alumbrado Público a favor y en beneficio de los habitantes del Municipio es objeto del cobro de este derecho.
+La prestación del servicio y mantenimiento del alumbrado público a favor y en beneficio de los habitantes del Municipio de Isla Mujeres, es objeto del cobro del presente derecho. Se entiende por servicio y mantenimiento de alumbrado público, la iluminación que el Municipio otorga a la comunidad en calles, plazas, jardines, oficinas de la administración pública municipal y otros lugares de uso común, así como el mantenimiento y la ampliación de la red de distribución de dicho servicio.
 
-Se entiende por Servicio y Mantenimiento de Alumbrado Público, la iluminación que el Municipio otorga a la comunidad en calles, plazas, jardines y otros lugares de uso común, así como el mantenimiento y la ampliación de la red de distribución de dicho servicio.
+El costo del servicio y mantenimiento de alumbrado público se compone con los siguientes conceptos:
 
-El costo total del Servicio y Mantenimiento de Alumbrado Público se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
+I. El costo por servicios personales empleados en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, prestaciones legales y contribuciones derivadas de la administración de la nómina correspondiente a la Dirección de Alumbrado Público del Municipio.
 
-I. Costo por servicios personales empleados en el año inmediato anterior en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicios y contribuciones que se deriven de la administración de la nómina de la Dirección de Servicios Generales del Municipio;
+II. El costo de los materiales, suministros y gastos de mantenimiento empleados durante el año próximo anterior en el servicio de alumbrado público, el cual se compondrá de lo erogado en los conceptos por compras y adquisiciones, reposición de lámparas, mantenimiento de líneas eléctricas y postes, materiales, equipos de seguridad, herramientas y maquinaria, así como los gastos asociados a la operación y mantenimiento de esta.
 
-II. Costo de los materiales, suministros y gastos de mantenimiento que fueron empleados durante el año próximo anterior en el servicio de alumbrado público, el cual se compondrá de lo erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta;
+III. El costo general del suministro de energía eléctrica contratado por el Municipio.
 
-III. Costo anual, global, general y actualizado del suministro de energía eléctrica, del año próximo anterior;
+IV. El costo de la ejecución de los nuevos proyectos de ampliación e introducción del servicio de alumbrado público.
 
-IV. Costo de la ejecución de los nuevos proyectos de ampliación e introducción de servicio de alumbrado público, del año próximo anterior.
+El derecho a que se refiere este artículo podrá ser recuperado con aportaciones correspondientes al 5% equivalente al importe de consumo de energía eléctrica que conste en el recibo o factura de pago que expida la Comisión Federal de Electricidad a sus usuarios finales, sea mensual o bimestral.
 
-La tarifa mensual por el servicio y mantenimiento de alumbrado público será la obtenida como resultado de dividir el costo anual, global, general, actualizado y erogado por el Municipio para la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad en el Municipio.
+Los propietarios o poseedores de predios rústicos, suburbanos o urbanos que no estén registrados ante la Comisión Federal de Electricidad, y cuenten con el beneficio del servicio de alumbrado público prestado por el Municipio, pagarán la tarifa que establezca la Tesorería Municipal, y se comprobará mediante el recibo que para tal efecto expida esta última.
 
-El importe resultante, se cobrará en parcialidades mensuales en cada recibo que expida la Comisión Federal de Electricidad a sus usuarios. La época de pago de esta contribución corresponderá a los períodos de facturación que por servicio de suministro de energía eléctrica expida la Comisión Federal de Electricidad a los contribuyentes, y su monto no podrá ser superior al 5% de las cantidades que deban pagar éstos en forma particular, por su consumo de energía eléctrica.
+El pago de este derecho efectuado en parcialidades mensuales, que deberán ser enteradas dentro de los primeros diez días de cada mes, pudiendo realizarlos con el pago del impuesto predial correspondiente, o a través de la recuperación efectuada a través de la Comisión Federal de Electricidad, en los términos previstos en este mismo artículo.
 
-Si el período de facturación de la Comisión Federal de Electricidad es bimestral, el cobro corresponderá a dos parcialidades mensuales.
+Para lo anterior, el Ayuntamiento estará facultado para convenir con la Comisión Federal de Electricidad la recaudación y el entero de esta contribución, sea en forma mensual o bimestral, o en el plazo que resulte del convenio que se celebre para ello.
 
-Los propietarios o poseedores de predios rústicos, suburbanos o urbanos que no estén registrados en la Comisión Federal de Electricidad, y cuenten con el beneficio del servicio de alumbrado público que presta el Municipio pagarán la tarifa, mediante el recibo que para tal efecto expida la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 116.
 
-El pago será efectuado en parcialidades mensuales, que deberán ser enteradas dentro de los primeros diez días de cada mes.
+Están exentos del pago de este derecho los bienes inmuebles de dominio público de la Federación y del Estado, salvo que dichos bienes se destinen para ser usados por las propias autoridades o entidades paraestatales, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-Por "costo anual, global, general, actualizado y erogado" se entenderá la suma que resulte del total del gasto involucrado con la prestación de este servicio por el Municipio y precisadas en las fracciones I a IV del artículo 115, traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para cada ejercicio fiscal, dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior al que se calcula, entre el Índice Nacional de Precios al Consumidor correspondiente al mes de octubre del año antepasado al del ejercicio fiscal actual.
-
-Para los efectos del presente artículo, la Tesorería Municipal dará a conocer a través de un acuerdo publicado en el Periódico Oficial del Estado de Quintana Roo, a más tardar al quinto día hábil del inicio de cada año, el monto que resulte del costo anual, global, general, actualizado y erogado, así como el número de contribuyentes del presente derecho, y las operaciones aritméticas que permitan conocer con certeza, la tarifa mensual resultante.
-
-Se faculta al Ayuntamiento a acordar con la Comisión Federal de Electricidad la recaudación y en su caso, el entero de esta contribución en forma mensual o bimestral, o en el plazo que resulte de los convenios que firme el Ayuntamiento con la Comisión Federal de Electricidad.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 117.
 
-Están exentos del pago de este derecho los bienes inmuebles de dominio público de la Federación, del Estado y del Municipio; siempre que dichos inmuebles sean utilizados para sus fines públicos.
+Los inmuebles sobre los cuales el Municipio detente la propiedad, posesión, o uso bajo cualquier título, estarán exentos del pago de esta contribución, incluso cuando sean utilizados por sus organismos descentralizados o paramunicipales. La Dirección de Alumbrado Público mantendrá el padrón de servicios de suministro eléctrico a cargo del Municipio, y lo comunicará a la Comisión Federal de Electricidad para los fines correspondientes.
+
+En ningún caso el Municipio absorberá los consumos de energía eléctrica de particulares, aun cuando existieren convenios, solicitudes o acuerdos en dicho sentido.
 
 ### CAPÍTULO XX. Servicios de Inspección y Vigilancia
 
@@ -3952,3 +3954,11 @@ P.O. 16 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 100 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
