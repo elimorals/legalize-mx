@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-la-comision-de-agua-y-alcantarillado-13943
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-11-12"
-last_updated: "2019-11-12"
+last_updated: "2025-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DE LA COMISION DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Alcance Cinco al Número 45 del Periódico Oficial del Estado de Hidalgo, el martes 12 de noviembre de 2019.
 
@@ -882,3 +884,21 @@ Designada por la Secretaría de la Contraloría
 Comisario Público Suplente
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DE LA COMISIÓN DE AGUA Y ALCANTARILLADO DE SISTEMAS INTERMUNICIPALES".]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los aspectos no previstos en este Estatuto Orgánico, serán resueltos por los integrantes de la Junta de Gobierno de la Comisión, de conformidad con la normatividad vigente aplicable.
+
+TERCERO. El presente Estatuto Orgánico deberá inscribirse en el Registro Público correspondiente, de acuerdo a la Ley.
+
+CUARTO. Se abroga el Estatuto Orgánico de la Comisión de Agua y Alcantarillado de Sistemas Intermunicipales Interior publicado en el Periódico Oficial del Estado el 11 (sic) de noviembre de 2019 y se derogan todas aquellas disposiciones anteriores que se contrapongan al presente Estatuto.
+
+QUINTO. La Dirección General realizará los trámites correspondientes para la asignación o reasignación de los recursos humanos y materiales de las unidades administrativas que se creen o se supriman conforme al presente decreto.
+
+SEXTO. A partir de la entrada en vigor de la Ley Orgánica de la Administración Pública para el Estado de Hidalgo, la Comisión tendrá un plazo que (sic) no mayor de 180 días para emitir el decreto, estatuto, reglamento interior, manuales de organización y manual de procedimientos alineados al presente Estatuto.
