@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2023-01-20"
+last_updated: "2025-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -305,9 +305,13 @@ V. Establecer sistemas y mecanismos para la evaluación y control de confianza, 
 
 VI. Participar y colaborar con el Gobierno del Estado y las autoridades competentes, en la realización de campañas educativas permanentes que induzcan a reducir la posesión, la portación y el uso de armas de cualquier tipo, así como aquéllas encaminadas a concientizar a la población sobre el uso de juguetes bélicos que induzcan a conductas violentas; y,
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+VII. En el ámbito de su competencia, emitir la reglamentación necesaria para prohibir la comercialización de juguetes que tengan características similares a cualquier arma de fuego real en su forma, dimensiones, recubrimientos, textura y colores, y que no cumplan con la NORMA Oficial Mexicana NOM-161-SCFI-2003; así como para establecer las sanciones administrativas aplicables a la violación de la prohibición y medidas de incautación; y,
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2018)</small>
 
-VII. Ejercer las demás facultades que le confiere esta Ley y otros ordenamientos aplicables.
+VIII. Ejercer las demás facultades que le confiere esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 14.
 
@@ -4208,3 +4212,11 @@ Dentro de los noventa días siguientes a la entrada en vigor del presente Decret
 ###### ARTÍCULO CUARTO.
 
 Los recursos humanos y materiales asignados al Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia serán integrados a la Secretaría de Seguridad Pública en términos de las disposiciones aplicables.
+
+P.O. 24 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 74 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA LA FRACCIÓN VII, RECORRIÉNDOSE LA SUBSECUENTE PARA QUEDAR COMO VIII, DEL ARTÍCULO 13 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Los Ayuntamientos dentro de los días naturales siguientes al inicio de vigencia del presente Decreto, deberán realizar las modificaciones correspondientes a su regulación interna.
