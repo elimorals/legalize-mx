@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2023-12-13"
+last_updated: "2025-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -43,9 +43,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SIN
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, de observancia obligatoria en el Estado, para garantizar el pleno ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+La presente Ley es de orden público e interés social, de observancia obligatoria en el Estado, para garantizar el pleno ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como prevenir, atender, sancionar y erradicar las violencias contra las mujeres.
 
 ###### Artículo 2.
 
@@ -61,6 +63,10 @@ III. Establecer las medidas de protección y procedimientos legales oportunos pa
 
 El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes para garantizar el derecho de las mujeres a una vida libre de violencia.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+El Estado y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres y deberán contar con fiscalías especializadas para atender los delitos contra las mujeres y Centros de Justicia para las Mujeres.
+
 El presente ordenamiento deberá interpretarse de acuerdo a los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
 
 ###### Artículo 4.
@@ -71,19 +77,33 @@ Corresponde al Estado y a los Municipios, mediante el desarrollo de sus polític
 
 Cuando en la actuación de las autoridades estatales y municipales en la aplicación de esta Ley conforme a los instrumentos internacionales aplicables en materia de discriminación, igualdad del hombre y la mujer y violencia en contra de la mujer, de los que el Estado mexicano sea parte, así como con las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás legislación aplicable se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias inequitativas o violentas.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 6.
 
-Son principios rectores, para el ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como del acceso a una vida libre de violencia contra las mujeres:
+Son principios rectores, para el ejercicio del derecho a la igualdad de oportunidades con equidad de género, así como del acceso a una vida libre de violencias contra las mujeres:
 
-I. La igualdad jurídica entre la mujer y el hombre;
+I. La igualdad jurídica, sustantiva, de resultados y estructural;
 
 II. El respeto a la dignidad humana de las mujeres;
 
 III. La no discriminación;
 
-IV. La libertad de las mujeres; y,
+IV. La libertad de las mujeres;
 
-V. La integración plena y total de las mujeres a la vida democrática y productiva del Estado.
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+
+VI. La perspectiva de género;
+
+VII. La debida diligencia;
+
+VIII. La interseccionalidad;
+
+IX. La interculturalidad;
+
+X. El enfoque diferencial; y
+
+XI. La integración plena y total de las mujeres a la vida democrática y productiva del Estado.
 
 ###### Artículo 7.
 
@@ -147,25 +167,55 @@ XIII. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo 
 
 XIV. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
-XV. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XV. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
 
 XVI. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se proponen eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el desarrollo y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autónoma, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-XVIII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XVIII. Misoginia: Son conductas de odio contra las niñas, las adolescentes y las mujeres que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
 
 XIX. Mujeres: Las personas nacidas biológicamente con genitales femeninos independientemente de su edad, así como aquellas que han modificado su identidad de género mediante resolución judicial o administrativa y que cuenten con un acta de nacimiento por reconocimiento de identidad de género en la cual se identifican como mujeres de conformidad con lo dispuesto por el Código Familiar del Estado de Sinaloa;
 
-XX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XX. Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias;
 
 XXI. Alerta Alba: Mecanismo de comunicación que la Fiscalía Especializada en Desaparición Forzada de Personas realiza, a las autoridades, órganos e instituciones federales, estatales y municipales ante la desaparición o no localización de niñas y/o mujeres, solicitando la coordinación y colaboración, para que en el ámbito de sus respectivas atribuciones y competencias, se lleve a cabo la búsqueda, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa;
 
 XXII. Protocolo Alba: El Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en Caso de Desaparición o No Localización de Niñas y Mujeres;
 
-XXIII. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-XXIV. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraídas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo.
+XXIII. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XXIV. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraídas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XXV. Centros de Justicia para las Mujeres: Son espacios multidisciplinarios e interinstitucionales que brindan, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XXVI. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XXVII. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XXVIII. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XXIX. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades.
 
 ###### Artículo 11.
 
@@ -207,7 +257,9 @@ I. La vida;
 
 II. La libertad y seguridad personal;
 
-III. La igualdad;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+III. La igualdad sustantiva;
 
 IV. La equidad;
 
@@ -259,27 +311,57 @@ Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérp
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 14.
 
-La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, cuyo agresor tenga o haya tenido relación de parentesco, matrimonio, concubinato o mantenga o haya mantenido una relación de hecho.
+La violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 Contra la violencia familiar se aplicarán las disposiciones de la Ley para la Prevención y Atención de la Violencia Familiar del Estado, así como lo dispuesto en la legislación civil, familiar y penal del Estado de Sinaloa, en tanto no contradiga lo estipulado en el siguiente artículo.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 14 Bis.
 
-Los modelos de prevención, atención y sanción que establezcan el Estado y los municipios, deben garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
+Los modelos de prevención, atención y sanción que establezcan el Estado y los municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
 I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
+
 II. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
 
-III. Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima.
+III. Evitar que la atención que reciban las víctimas y la persona agresora sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+V. Favorecer la separación y alejamiento del agresor con respecto a la víctima;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+VII. El Ejecutivo del Estado, por conducto de Secretaría, otorgará un apoyo económico a mujeres víctimas de violencia en situación de vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -333,7 +415,9 @@ El Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, re
 
 El Estado y los Ayuntamientos, promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas en contra de las mujeres ejercidas por servidores públicos, así como aquellas que, en su caso, sean necesarias a fin de que se repare el daño infligido a las víctimas, de conformidad con lo dispuesto por las normas jurídicas aplicables.
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
 
@@ -346,6 +430,182 @@ Este tipo de violencia, será prevenida por el Gobierno del Estado y los Ayuntam
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2023)</small>
 
 El Ejecutivo del Estado, por conducto de la Secretaría, otorgará apoyo económico a niñas, niños y adolescentes hijas e hijos de mujeres víctimas de feminicidio.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+###### Artículo 22 Bis.
+
+La Alerta de Violencia de Género contra las mujeres tendrá como objetivos:
+
+I. Garantizar la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia de las mujeres, adolescentes y niñas;
+
+II. Generar las condiciones y políticas públicas que contribuyan a la disminución y cese de la violencia feminicida en su contra, y
+
+III. Eliminar la desigualdad y discriminación producidas por ordenamientos jurídicos o políticas públicas que agravian los derechos humanos de las mujeres, adolescentes y niñas.
+
+Para cumplir con estos objetivos, las autoridades correspondientes, en el ámbito de sus competencias deberán:
+
+A. Hacer del conocimiento público el motivo de la Alerta de Violencia de Género contra las mujeres, y la zona territorial que abarquen las acciones que deberán realizarse;
+
+B. Implementar las acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan;
+
+C. Elaborar un Programa de Acciones Estratégicas de cumplimiento, que deberá hacerse del conocimiento público y que contendrá:
+
+a) El motivo de la Alerta de Violencia de Género contra las mujeres;
+
+b) Las acciones que deberán desempeñar para hacer frente a la violencia feminicida o al agravio comparado, la ruta de acción, los plazos para su ejecución y la asignación de responsabilidades definidas para cada uno de los poderes y órdenes de gobierno, según corresponda;
+
+c) Los indicadores de seguimiento y cumplimiento de las acciones que deben realizar las autoridades estatales y municipales;
+
+D. Elaborar informes por lo menos cada seis meses para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
+
+E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Legislatura deberá aprobar una partida presupuestal para este fin y dará seguimiento a su ejercicio efectivo.
+
+El procedimiento de la Alerta de Violencia de Género contra las mujeres deberá observar en todo momento los principios de transparencia, máxima publicidad y acceso a la información, así como la protección de datos personales, durante la totalidad de las etapas.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis A. La Alerta de Violencia de Género contra las mujeres, se emitirá cuando:
+
+I. Exista un contexto de violencia feminicida caracterizado por el incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, la libertad, la integridad y la seguridad de las mujeres, adolescentes y niñas en un territorio determinado;
+
+II. Existan omisiones documentadas y reiteradas por parte de las autoridades gubernamentales del cumplimiento de sus obligaciones en materia de prevención, atención, sanción, y acceso a la justicia para las mujeres, adolescentes y niñas, de conformidad con lo establecido en esta ley, y
+
+III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, adolescentes y niñas.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis B. La alerta de violencia de género por agravio comparado tendrá como finalidad eliminar las desigualdades producidas por un ordenamiento jurídico o políticas públicas municipales que impidan el reconocimiento o el ejercicio pleno de los Derechos Humanos de las Mujeres protegidos en todos aquellos instrumentos internacionales reconocidos y ratificados por el Estado mexicano, a través de acciones gubernamentales previstas en el artículo 22 Bis de esta Ley.
+
+El agravio comparado se presenta cuando un ordenamiento jurídico vigente o una política pública municipal contenga alguno de los siguientes supuestos y éstos transgredan los Derechos Humanos de las Mujeres:
+
+I. Distinciones, restricciones o derechos específicos diversos para una misma problemática o delito, en detrimento de las mujeres de un municipio;
+
+II. No se proporcione el mismo trato jurídico en igualdad de circunstancias, generando una discriminación y consecuente agravio, o
+
+III. Se genere una aplicación desigual de la reglamentación municipal, lesionándose los Derechos Humanos de las Mujeres, así como los principios de igualdad y no discriminación.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis C. La Alerta de Violencia de Género contra las mujeres iniciará su trámite:
+
+I. A solicitud de organismos públicos autónomos de derechos humanos;
+
+II. A solicitud de organizaciones de la sociedad civil legalmente constituidas o por colectivos o grupos de familiares de víctimas a través de una persona representante; o
+
+III. A partir de la identificación por parte de la Secretaría del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
+
+A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis D. La solicitud de Alerta de Violencia de Género contra las mujeres deberá contener al menos lo siguiente:
+
+I. Narración de los hechos de violencia cometidos contra las mujeres, adolescentes y niñas, sustentados con información documentada, datos estadísticos oficiales, testimonios u otra información que sustente las afirmaciones señaladas en la solicitud;
+
+II. Territorio específico sobre el cual se señalan los hechos de violencia;
+
+III. Las autoridades responsables de atender la violencia señalada, y
+
+IV. Los demás requisitos de forma que se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis E. Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Secretaría, el Instituto Municipal de las Mujeres, la Comisión Estatal de los Derechos Humanos, las organizaciones de la sociedad civil, incluidas las solicitantes, así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
+
+El Grupo Interinstitucional y Multidisciplinario tendrá como objetivo fundamental analizar, valorar y emitir recomendaciones que mejoren la implementación de acciones que se generen con motivo de la Alerta de Violencia de Género contra las mujeres, a través de las siguientes acciones:
+
+a) Proponer a las instancias competentes las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para ser establecidas en la Alerta de Violencia de Género contra las mujeres;
+
+b) Brindar asesoría técnica a las autoridades encargadas de instrumentar las medidas señaladas en la Alerta de Violencia de Género contra las mujeres;
+
+c) Analizar y dictaminar los informes periódicos presentados por las autoridades responsables de cumplir con la Alerta de Violencia de Género contra las mujeres;
+
+d) Realizar reuniones de trabajo con las autoridades responsables de la implementación de las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
+
+e) Solicitar, cuando existe un incumplimiento a las medidas de la Alerta de Violencia de Género contra las mujeres por parte de las autoridades, a la Secretaría General de Gobierno emita un extrañamiento y se presenten las denuncias ante las instancias correspondientes a fin de que se determine la responsabilidad de las personas servidoras públicas, y
+
+f) Proponer la modificación, actualización y levantamiento parcial o total de medidas establecidas en la Alerta de Violencia de Género contra las mujeres.
+
+Se deberán realizar las medidas necesarias para garantizar que el Grupo Interinstitucional y Multidisciplinario se integre de conformidad con lo señalado en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis F. El Grupo Interinstitucional y Multidisciplinario tendrá 30 días naturales para realizar un análisis sobre los hechos de violencia señalados en la solicitud; cuando del análisis realizado se desprenda la procedencia de la Alerta de Violencia de Género contra las mujeres, se deberán elaborar conclusiones que incluyan propuestas de acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia y de reparación del daño, según corresponda. Y, en su caso, las propuestas de adecuaciones legislativas y normativas necesarias.
+
+El Grupo Interinstitucional y Multidisciplinario deberá escuchar a las víctimas de los casos de violencia contra las mujeres que se analizan, a fin de incorporar en las conclusiones y medidas a adoptar, sus necesidades y propuestas.
+
+En caso de considerar la improcedencia de la Alerta de Violencia de Género contra las mujeres, se presentarán por escrito los argumentos que sustenten dicha determinación.
+
+El tiempo entre la admisión de la solicitud de la Alerta de Violencia de Género contra las mujeres y la Declaratoria no podrá exceder los 45 días naturales.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis G. En los casos donde (sic) Secretaría, identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir por el Gobierno del Estado, a través de la Secretaría General de Gobierno, sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
+
+En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría, realizará el informe correspondiente y, en su caso, podrá emitir la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis H. La Declaratoria de Alerta de Violencia de Género contra las mujeres, deberá incluir lo siguiente:
+
+I. El motivo de la misma;
+
+II. La información que sustenta la determinación;
+
+III. Las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de atención, de reparación del daño y legislativas propuestas por el Grupo Interinstitucional y Multidisciplinario;
+
+IV. La solicitud a las autoridades responsables, de la asignación o reorientación de recursos presupuestales, humanos y materiales necesarios para hacer frente a la misma, y
+
+V. El territorio que abarcan las medidas a implementar y, en su caso, las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis I. Corresponderá al gobierno del Estado, a través de la Secretaría General de Gobierno, declarar la Alerta de Violencia de Género contra las mujeres.
+
+La persona titular de la Secretaría General de Gobierno notificará, a las personas titulares de los poderes Legislativo y Judicial, así como de la Fiscalía General de Justicia del Estado o de los municipios, la Alerta de Violencia de Género contra las mujeres, en un plazo no mayor de cinco días naturales contados a partir de que se emita la misma.
+
+Una vez notificada la Alerta, las autoridades estatales y de los municipios, deberán, de manera inmediata y coordinada con el Grupo Interinstitucional y Multidisciplinario, implementar el Programa de Acciones Estratégicas de cumplimiento.
+
+El Programa de Acciones Estratégicas deberá contener, al menos las siguientes características:
+
+I. Estar alineado a la política integral y programas locales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+II. Las acciones para hacer frente a la violencia feminicida o al agravio comparado;
+
+III. Los plazos para su ejecución;
+
+IV. La asignación de responsabilidades a las autoridades competentes;
+
+V. Los recursos presupuestales destinados para dichas actividades;
+
+VI. Los indicadores de evaluación, seguimiento y cumplimiento de las acciones, o
+
+VII. La estrategia de difusión de los resultados alcanzados en el territorio determinado.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis J. La Secretaría dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
+
+Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento, a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de la violencia identificada en la Declaratoria de la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 22 Bis K. Ante la violencia feminicida, el gobierno del Estado deberá garantizará (sic) la reparación de daños y considerará como tal:
+
+I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar todas las violaciones a derechos humanos vinculadas a la violencia feminicida, sancionar a las personas responsables y reparar el daño;
+
+II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+
+III. La satisfacción y no repetición: Son las medidas que buscan una reparación orientada a la prevención de violaciones y erradicación de la impunidad ante la violencia contra las mujeres. Entre las medidas a adoptar se encuentran:
+
+a) La investigación de las personas servidoras públicas cuyas acciones u omisiones conllevaron a la violación de los derechos humanos de las víctimas y la impunidad, para sancionarlos conforme a la normatividad correspondiente;
+
+b) El diseño e instrumentación de políticas públicas enfocadas a la prevención, persecución, y seguimiento de la comisión de delitos cometidos contra las mujeres; y
+
+c) La verificación de los hechos y la publicidad de la verdad.
+
+Toda medida reparatoria deberá tener un enfoque transformador del contexto y cultura discriminatoria, siempre con el objetivo de erradicarla.
 
 ###### Artículo 23.
 
@@ -501,9 +761,9 @@ El Sistema Estatal se conformará por las y los titulares de:
 
 I. El Ejecutivo del Estado, a través de la Secretaría, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-II. Secretaría de Desarrollo Social;
+II. Secretaria de Bienestar y Desarrollo Sustentable;
 
 III. La Secretaría de Seguridad Pública;
 
@@ -525,13 +785,13 @@ VIII. La Secretaría Ejecutiva;
 
 IX. DIF estatal;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE FEBRERO DE 2025)</small>
 
 X. CEPAVIF;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-XI. El H. Congreso del Estado, a través de la Comisión de Equidad, Género y Familia;
+XI. El H. Congreso del Estado, a través de la Comisión de Igualdad, Género, Diversidad Sexual e Inclusión;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -569,17 +829,41 @@ VII. Fomentar y apoyar programas de educación pública y privada, destinados (s
 
 VIII. Promover programas de sensibilización a fin de concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra la (sic) mujeres;
 
-IX. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-X. Promover que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+IX. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida, incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
 
-XI. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-XII. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres;
+X. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
-XIII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad; y,
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-XIV. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+XI. Garantizar la investigación y la elaboración de diagnósticos estadísticos, con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XII. Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Promover la cultura de denuncia de la violencia contra las mujeres en formatos accesibles en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XIV. Diseñar un modelo integral, diferencial y especializado de atención a las mujeres víctimas de violencia, que deberán instrumentar las instituciones, los Centros de Justicia para las Mujeres y los refugios que atiendan a víctimas;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XV. Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Promover el desarrollo, implementación y evaluación de los proyectos para la creación, fortalecimiento y operación de los Centros de Justicia para las Mujeres, y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XVII. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
@@ -705,13 +989,15 @@ IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
 
 La Secretaría de Seguridad Pública, tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-I. Diseñar con la Secretaría la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+I. Diseñar con la Secretaría la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado, con perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
 II. Informar periódicamente al Sistema Estatal sobre la ejecución de las acciones de su competencia contenidas en el Programa Estatal, con la finalidad de evaluar su eficacia;
 
-III. Capacitar al personal de las diferentes instancias policiales a su cargo para atender, con perspectiva de género y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+III. Capacitar al personal de las diferentes instancias policiales a su cargo para atender, con perspectiva de género, derechos humanos, diferencial, interseccionalidad e interculturalidad y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
 
 IV. Promover la cultura de denuncia de la violencia contra las mujeres;
 
@@ -719,9 +1005,25 @@ V. Canalizar a las víctimas de violencia a las instituciones públicas o privad
 
 VI. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
 
-VII. Implementar programas de capacitación que formen el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres víctimas de violencia; y,
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-VIII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+VII. Implementar programas de capacitación que formen el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres víctimas de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2025)</small>
+
+VIII. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres, adolescentes y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, adolescentes y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+IX. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+X. Proponer al Consejo Estatal para la Prevención y Atención de la Violencia Familiar que los Centros de Justicia para las Mujeres sean considerados como Ejes Estratégicos, Programas y Subprogramas con Prioridad Estatal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
+
+XI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 35.
 
@@ -811,13 +1113,13 @@ V. Proporcionar a las instancias encargadas de realizar estadísticas las refere
 
 VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-VII. Crear un sistema de registro sistemático de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia consignación, sanción y reparación del daño;
+VII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas, incluida en su caso su condición de discapacidad, así como las características sociodemográficas del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, estado procesal, sentencias y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. El registro deberá contener también los efectos que los hechos violentos produjeron en las víctimas, el fallecimiento o, en su caso, la discapacidad permanente;
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, así como en la investigación de feminicidios y violencia sexual; y
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -917,15 +1219,21 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 ### CAPÍTULO I. DE LAS ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 42.
 
-Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse de oficio o a petición de parte, por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
+Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse de oficio o a petición de parte, por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
 Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la comisión de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una medida u orden de protección.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
+
 En el caso en que el Ministerio Público o el Órgano Jurisdiccional competente consideren la existencia de extrema violencia y urgencia, podrán implementar de manera directa e inmediata las medidas de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la iniciación de una denuncia.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2023)</small>
 
 En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Sinaloa y el Instituto Electoral del Estado de Sinaloa podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
@@ -1069,11 +1377,27 @@ VII. Acceso al domicilio en común, de autoridades policíacas o de personas que
 
 VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-IX. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima; y,
+IX. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
 
-X. Las demás establecidas en otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+X. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XI. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XII. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+
+XIV. Las demás establecidas en otras disposiciones legales.
 
 ###### Artículo 46.
 
@@ -1273,7 +1597,9 @@ Artículo 50 Bis F. El Protocolo Alba se activa desde el momento que se tenga co
 
 Artículo 50 Bis G. Las autoridades y órganos que se involucren, en el ámbito de sus respectivas competencias deberán contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas, asegurando los recursos económicos, logísticos, científicos o de cualquier otra índole que garantice el éxito de la búsqueda.
 
-## TÍTULO QUINTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2025)</small>
+
+## TÍTULO QUINTO. DE LA ATENCIÓN A VÍCTIMAS, DE LOS REFUGIOS Y DE LOS CENTROS
 
 ### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
@@ -1285,7 +1611,9 @@ I. Ser tratada con respeto en su integridad y al ejercicio pleno de sus derechos
 
 II. Contar con protección inmediata y efectiva por parte de las autoridades;
 
-III. Recibir información clara, precisa y suficiente que les permite decidir sobre las opciones de atención;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+III. Recibir información clara, precisa y suficiente en formatos accesibles que les permite decidir sobre las opciones de atención;
 
 IV. Asesoría jurídica gratuita y expedita;
 
@@ -1293,9 +1621,37 @@ V. Atención médica y psicológica gratuita;
 
 VI. El resguardo temporal en un refugio;
 
-VII. Las mujeres víctimas de violencia que tengan hijas o hijos podrán acudir a los refugios con éstos; y,
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-VIII. Las demás señalados (sic) en esta Ley, su reglamento y otras disposiciones legales.
+VII. Las mujeres víctimas de violencia que tengan hijas o hijos podrán acudir a los refugios con éstos;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+VIII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor, y
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+X. Los demás señalados en esta Ley, su reglamento y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y personas defensoras de oficio que tengan conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia personal.
 
 ###### Artículo 52.
 
@@ -1331,9 +1687,11 @@ En todo caso, los servidores públicos que intervengan en la atención a víctim
 
 En todo caso, los servidores públicos que intervengan en la atención a víctimas, escucharán y valorarán la intervención de vecinos y familiares de la víctima, en todo lo que se refiera a las medidas de protección, previstas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 56.
 
-Los refugios que se constituyan, desde la perspectiva de género tendrán a su cargo:
+Los refugios que se constituyan, desde la perspectiva de género, interseccionalidad y enfoque diferenciado, tendrán a su cargo:
 
 I. Participar en la aplicación del Programa Estatal;
 
@@ -1341,25 +1699,195 @@ II. Velar por la seguridad de las mujeres que se encuentren en ellos;
 
 III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+IV. Dar información en formatos accesibles a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
 
 V. Brindar a las víctimas información necesaria que les permita decidir sobre las opciones de atención;
 
-VI. Atender a las víctimas en los tres niveles de riesgo que son moderado, medio y alto riesgo; y,
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+VI. Atender a las víctimas en los tres niveles de riesgo que son moderado, medio y alto riesgo;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+VII. Contar con el personal debidamente capacitado y especializado, en perspectiva de género, derechos humanos, con enfoque diferenciado, intercultural e interseccional; y,
+
+VIII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones de accesibilidad necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia de personal de apoyo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO III. DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+###### Artículo 56 Bis.
+
+Corresponde a los Centros de Justicia para las Mujeres, con base en los principios establecidos en la presente ley:
+
+I. Diseñar y ejecutar acciones orientadas a la prevención de la violencia contra las mujeres y la atención de las mujeres, adolescentes y niñas víctimas de violencia;
+
+II. Diseñar e implementar acciones que eviten la victimización secundaria de las mujeres víctimas de violencia;
+
+III. Proporcionar atención integral a las niñas, adolescentes y mujeres víctimas de violencia, así como a sus hijas e hijos menores de edad;
+
+IV. Facilitar a las mujeres víctimas de violencia el acceso a la justicia con la debida diligencia y desde la perspectiva de género, así como el ejercicio efectivo de sus derechos humanos y asegurar un acceso rápido y eficaz a los programas establecidos para ello, realizando las gestiones ante las autoridades competentes;
+
+V. Garantizar a las mujeres información sobre los mecanismos de acceso a la justicia. A las mujeres con discapacidad, se les podrá brindar asistencia temporal, y a las mujeres sordas, en su caso, teléfonos de emergencias adaptados;
+
+VI. Promover ante las autoridades competentes las órdenes y medidas provisionales necesarias para salvaguardar la integridad de las mujeres, así como la de sus hijas e hijos menores de edad, incluyendo su solicitud y prórroga;
+
+VII. Proporcionar orientación y asesoría jurídica, así como representación legal a las mujeres víctimas de violencia y a sus hijas e hijos menores de edad;
+
+VIII. Facilitar a las mujeres víctimas de violencia, así como a sus hijas e hijos menores de edad, el acceso a los servicios de salud, trabajo social y de empoderamiento económico y social;
+
+IX. Solicitar los mecanismos de financiamiento con recursos federales a través de los programas, estatales y municipales para mejorar el funcionamiento y equipamiento de sus instalaciones;
+
+X. Asegurar la aplicación de los ajustes de procedimiento para que las mujeres con discapacidad puedan ejercer efectivamente sus derechos;
+
+XI. Gestionar ante autoridades públicas e instituciones privadas los apoyos necesarios para que las mujeres con discapacidad puedan tener acceso a los servicios que proporcionan los Centros de Justicia para las Mujeres;
+
+XII. Realizar visitas domiciliarias en hogares, instituciones públicas o privadas, donde se encuentren mujeres con discapacidad que probablemente estén siendo víctimas de violencia, así como gestionar los apoyos y medidas de protección necesarias para salvaguardar su integridad personal. Se podrán realizar estas visitas cuando exista información suficiente sobre la ocurrencia de los hechos, incluso mediante denuncia anónima. Las mujeres con discapacidad pueden rehusarse a la entrevista durante estas visitas cuando estén en condiciones de manifestarlo, y
+
+XIII. Las demás que le confieran los ordenamientos legales aplicables, sin perjuicio de las atribuciones que correspondan a otras autoridades en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis A. Los Centros de Justicia para las Mujeres deberán proporcionar, de manera gratuita, como mínimo los siguientes servicios:
+
+I. Atención médica y psicológica, incluyendo atención terapéutica de contención emocional;
+
+II. Asesoría y orientación jurídica;
+
+III. Representación legal en materias penal, familiar, civil y/o las que se requieran;
+
+IV. Gestión de expedición de documentación oficial;
+
+V. Servicios de albergue temporal o tránsito;
+
+VI. Servicios de cuidado y atención infantil;
+
+VII. Servicios de trabajo social;
+
+VIII. Servicios de protección de seguridad a víctimas en situación de riesgo grave o falta de red de apoyo familiar o comunitario para lo cual se coordinarán con los refugios para víctimas de violencia;
+
+IX. Acceso a la justicia a través de agencias del Ministerio Público especializadas en violencia contra las mujeres;
+
+X. Asesoría, capacitación y servicios para el empoderamiento social y económico;
+
+XI. Gestionar el acceso a servicios educativos;
+
+XII. Programas de incorporación de las mujeres víctimas de violencia al mercado laboral, y
+
+XIII. Los demás servicios que contribuyan al acceso de las mujeres a una vida libre de violencia.
+
+Los Centros de Justicia para las Mujeres facilitarán el acceso a la justicia las 24 horas todos los días del año, y se deberá garantizar que en los servicios que se brinden se cuente con personas intérpretes de lenguas indígenas, así como condiciones de accesibilidad para mujeres con discapacidad, incluidas personas intérpretes de lengua de señas mexicana y asistencia personal en caso de que se requiera.
+
+Los servicios se proporcionarán con independencia de que exista o no una denuncia por los hechos de violencia.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis B. Los servicios que brinden los Centros de Justicia para las Mujeres deberán ejecutarse bajo los principios previstos en el artículo 6 de esta ley.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis C. La atención brindada por los Centros de Justicia para las Mujeres se realizará a través de la participación coordinada de las secretarías y dependencias de la administración pública estatal cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
+
+Las instituciones estatales encargadas de brindar los servicios en los Centros de Justicia para las Mujeres, son las siguientes:
+
+I. Secretaría General de Gobierno;
+
+II. Fiscalía General del Estado;
+
+III. Secretaría de Seguridad Pública;
+
+IV. Secretaría de Salud;
+
+V. Secretaría de Educación Pública y Cultura;
+
+VI. Secretaría de Bienestar y Desarrollo Sustentable;
+
+VII. Sistema Estatal para el Desarrollo Integral de la Familia;
+
+VIII. Secretaría de las Mujeres;
+
+IX. Comisión Estatal de Atención Integral a Víctimas;
+
+X. Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado; y
+
+XI. Instituto de la Defensoría Pública del Estado.
+
+Se celebrarán convenios de colaboración con Fiscalía General del Estado, el Poder Judicial del Estado, otros órganos autónomos estatales y organizaciones de la sociedad civil, a fin de brindar servicios interinstitucionales, especializados y de calidad, desde los enfoques de género, intercultural, diferencial e interseccional.
+
+Para el debido cumplimiento de este artículo las secretarías, dependencias y entidades de la Administración Pública Estatal, comisionarán personal especializado a los Centros de Justicia para las Mujeres conforme a las normas específicas y a esta ley.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis D. La persona que ocupe la Dirección del Centro, deberá reunir los siguientes requisitos:
+
+I. Tener pleno goce de sus derechos;
+
+II. Contar con un título profesional;
+
+III. Tener experiencia comprobable en el ramo de derechos humanos de las mujeres y atención a mujeres víctimas de violencia con perspectiva de género;
+
+IV. No desempeñar ningún otro puesto, empleo, cargo o comisión, con excepción de los honoríficos y los relacionados con la docencia;
+
+V. No estar condenada por delito relacionado con violencia contra las mujeres en razón de género;
+
+VI. No estar inhabilitada para el ejercicio de un cargo público; y
+
+VII. Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis E. La persona titular de la Dirección General tendrá las siguientes atribuciones:
+
+I. Representar legalmente al Centro de Justicia para las Mujeres;
+
+II. Coordinar las actividades que realice el personal de las secretarías, dependencias y entidades de la administración pública estatal, Fiscalía, Poder Judicial, órganos autónomos; así como otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil que, por colaboración interinstitucional, laboren en el Centro de Justicia para las Mujeres;
+
+III. Elaborar convenios de colaboración interinstitucional con dependencias de la administración pública estatal, otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil;
+
+IV. Dar seguimiento a los planes y programas de atención a mujeres víctimas de violencia, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la erradicación de la violencia contra las mujeres, así como establecer las medidas de protección necesarias y acceso efectivo a los procedimientos de procuración y administración de justicia;
+
+V. Difundir los servicios que se proporcionan en el Centro de Justicia para las Mujeres a las mujeres víctimas de violencia;
+
+VI. Elaborar la propuesta del ejercicio del presupuesto del Centro de Justicia para las Mujeres y aplicar los recursos financieros adoptados a los proyectos institucionales;
+
+VII. Rendir a la persona titular del Poder Ejecutivo y al Congreso del Estado, un informe anual sobre las actividades realizadas en el Centro de Justicia para las Mujeres, y
+
+VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis F. Todo el personal adscrito y designado en un Centro de Justicia para las Mujeres deberá estar sensibilizado y profesionalizado en atención a víctimas de violencia de género desde la perspectiva de género, y en derechos humanos de las mujeres, además de recibir capacitación permanente para su actualización.
+
+El personal adscrito y designado a cada Centro de Justicia para las Mujeres mantendrá su vínculo jerárquico y laboral con cada una de las dependencias de donde procedan, deberán ajustar su desempeño a los reglamentos, lineamientos y demás reglas de operación que se emitan para sus funciones dentro del Centro de Justicia para las Mujeres.
+
+El personal adscrito y designado a cada Centro de Justicia para las Mujeres regirá su relación laboral conforme a las disposiciones legales aplicables, según sea el caso. El personal adscrito y designado a cada Centro de Justicia para las Mujeres deberá contar con el perfil requerido para el puesto y deberá ser evaluado y capacitado periódicamente.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis G. Para el funcionamiento del Centro de Justicia para las Mujeres, el Estado deberá contar con los recursos derivados de los convenios que en su caso se suscriban con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que se asignen en el Presupuesto de Egresos del Estado, de los ingresos derivados de convenios que celebren con otras dependencias públicas o privadas, y los que obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 56 Bis H. Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 14 DE ABRIL DE 2023)</small>
-
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE ABRIL DE 2023)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### Artículo 57.
 
@@ -1590,3 +2118,19 @@ Se derogan todas las disposiciones que contravengan lo establecido en el present
 ###### ARTÍCULO TERCERO.
 
 En un plazo no mayor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto todas las autoridades y entes públicos vinculados con el cumplimiento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, deberán realizar las adecuaciones correspondientes a su normatividad interna, con la finalidad de armonizarla conforme al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 29 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga el Decreto que Crea el Centro de Justicia para las Mujeres del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 150 de fecha 13 de Diciembre de 2013.
+
+TERCERO. Las Reglas de Operación del Programa "Apoyo económico para mujeres víctimas de violencia en riesgo extremo, en situación de vulnerabilidad" para el ejercicio fiscal 2024, publicadas en el Periódico Oficial "El Estado de Sinaloa" el día 19 de febrero de 2024, continuarán vigentes hasta el periodo para el cual fueron aprobadas.
+
+La Secretaría de las Mujeres expedirá las normas a las que deberá sujetarse el apoyo económico a mujeres víctimas de violencia de riesgo extremo, en situación de vulnerabilidad, que deberán entrar en vigor el día 1° de enero de 2025.
+
+CUARTO. El Poder Ejecutivo deberá realizar las acciones necesarias para asignar una partida presupuestaria en la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, a fin de garantizar la entrega del apoyo económico a que se refiere el presente Decreto.
+
+QUINTO. Se derogan todas las disposiciones que contravenga (sic) a lo establecido en el presente Decreto.
