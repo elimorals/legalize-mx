@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-para-las-escuelas-de-los-centros-de-155352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-02-10"
-last_updated: "2022-02-10"
+last_updated: "2025-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155352&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2022-01-24"
 ---
 # REGLAMENTO GENERAL PARA LAS ESCUELAS DE LOS CENTROS DE REHABILITACION QUE IMPARTEN LAS LICENCIATURAS EN TERAPIA FISICA Y TERAPIA OCUPACIONAL DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
+NOTA 1: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO GENERAL PARA LAS ESCUELAS DE LOS CENTROS DE REHABILITACIÓN QUE IMPARTEN LAS LICENCIATURAS EN TERAPIA FÍSICA Y TERAPIA OCUPACIONAL DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EN EL D.O.F. DE 24 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+NOTA 2: [N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2025/DIF/ReglamentoEscuelas2025.pdf.]
+
 EXTRACTO DEL ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO GENERAL PARA LAS ESCUELAS DE LOS CENTROS DE REHABILITACIÓN QUE IMPARTEN LAS LICENCIATURAS EN TERAPIA FÍSICA Y TERAPIA OCUPACIONAL DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2025 (ABROGADO).
 
 Extracto publicado en el Diario Oficial de la Federación, el jueves 10 de febrero de 2022
 
@@ -2212,3 +2216,19 @@ Se expide en la Ciudad de México, el veinte de septiembre de dos mil veintiuno.
 LA TITULAR DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 MARÍA DEL ROCÍO GARCÍA PÉREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO GENERAL PARA LAS ESCUELAS DE LOS CENTROS DE REHABILITACIÓN QUE IMPARTEN LAS LICENCIATURAS EN TERAPIA FÍSICA Y TERAPIA OCUPACIONAL DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO. - Publíquese el Extracto del presente Reglamento en el Diario Oficial de la Federación y en la página oficial del Sistema Nacional para el Desarrollo Integral de la Familia para mayor difusión.
+
+SEGUNDO. - El presente Reglamento entrará en vigor al día siguiente de la publicación de su extracto en el Diario Oficial de la Federación.
+
+TERCERO.- Hasta en tanto se expiden las disposiciones a que se refiere el artículo TERCERO transitorio del Decreto por el que se expide la Ley General de Educación Superior y se abroga la ley para la coordinación de la educación superior, y se concretan las disposiciones, normativas u operativas que movilicen la manera en que se implementará la gratuidad de la educación particularmente de manera progresiva en función de la suficiencia presupuestal, y aquellas que establezcan los criterios necesarios para la organización, secuencia, alcances y progresividad de la prestación gratuita de servicios de educación, inscripción, reinscripción, colegiaturas, cuotas ordinarias y demás asociados, se continuaran cobrando las cuotas de recuperación vigentes previa a la entrada en vigor del presente ordenamiento, lo anterior, sin demerito de las acciones que se vayan implementando para avanzar hacia la gratuidad previamente descrita.
+
+CUARTO. - En concordancia con (sic) presente Reglamento, se expedirá el Protocolo de Prevención y Atención a la Violencia Escolar en las Licenciaturas del Sistema Nacional para el Desarrollo Integral de la Familia (SNDIF): Construyendo Comunidades Educativas libres de Violencia y Acoso Escolar y en los Protocolos para atención de casos de Violencia de Género que al efecto se emitan", el cual será publicado en la Normateca interna del Organismo.
+
+QUINTO. - Se abroga el Acuerdo por el que se expide el Reglamento General para las Escuelas de los Centros de Rehabilitación que imparten las licenciaturas en terapia física y terapia ocupacional del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en un Extracto en el Diario Oficial de la Federación el 10 de febrero de 2022.
