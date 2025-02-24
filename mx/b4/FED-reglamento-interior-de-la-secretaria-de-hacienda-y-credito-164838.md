@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-1648
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-03-06"
-last_updated: "2024-01-17"
+last_updated: "2025-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164838&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-03-02"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2025.
 
 Reglamento publicado en el Número 5 del Diario Oficial de la Federación, el lunes 6 de marzo de 2023.
 
@@ -249,7 +249,17 @@ d) Coordinación Jurídica de Seguros, Fianzas y Pensiones:
 
 1. Dirección Jurídica;
 
-VI. Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos:
+VI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
+
+VII. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
+
+VIII. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+B Bis. Subsecretaría de Ingresos:
+
+I. Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos:
 
 a) Dirección General de Política de Ingresos no Tributarios:
 
@@ -265,15 +275,15 @@ c) Coordinación de Análisis, Supervisión y Verificación de Ingresos sobre Hi
 
 3. Dirección de Análisis y Verificación de Ingresos sobre Hidrocarburos C;
 
-VII. Unidad de Política de Ingresos Tributarios:
+II. Unidad de Política de Ingresos Tributarios:
 
 a) Dirección General de Política de Ingresos Tributarios:
 
 1. Coordinación de Política Impositiva I, y
 
-2. Coordinación de Política Impositiva II, y
+2. Coordinación de Política Impositiva II;
 
-VIII. Unidad de Legislación Tributaria:
+III. Unidad de Legislación Tributaria:
 
 a) Dirección General de Tratados Internacionales:
 
@@ -307,31 +317,67 @@ c) Coordinación de Proyectos de Inversión “C”, y
 
 d) Coordinación de Inversión Mixta;
 
-II. Unidad de Política y Control Presupuestario:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-a) Dirección General de Control Presupuestario de Servicios Personales y Seguridad Social:
+II. Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto:
 
-1. Coordinación de Estrategia Presupuestaria en Servicios Personales, y
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-2. Coordinación de Seguros Institucionales;
+a) Dirección General de Control Presupuestario y Seguimiento del Gasto de Servicios Personales y Seguridad Social:
 
-b) Dirección General de Evaluación y Estrategia Presupuestaria:
+1. Coordinación de Control Presupuestario y Seguimiento del Gasto en Servicios Personales, y
 
-1. Coordinación de Estrategia y Política Presupuestaria;
+2. Coordinación de Seguros Institucionales y del Fondo de Ahorro Capitalizable de los Trabajadores al Servicio del Estado;
 
-c) Dirección General de Programación, Integración Presupuestaria y Seguimiento al Gasto:
+b) (DEROGADO, D.O.F. 24 DE FEBRERO DE 2025)
 
-1. Coordinación de Análisis e Información, y
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-d) Dirección General de Normatividad Presupuestaria:
+c) Dirección General de Diseño e Integración Presupuestaria y Seguimiento del Gasto:
 
-1. Coordinación de Normatividad Presupuestaria;
+1. Coordinación de Integración de Información Presupuestaria, y
 
-III. Unidad de Evaluación del Desempeño:
+2. Coordinación de Estrategia, Control y Seguimiento del Gasto;
 
-a) Coordinación de Evaluación de los Resultados de los Programas Presupuestarios, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-b) Coordinación de Seguimiento e Información del Desempeño Presupuestario;
+d) Dirección General de Diseño de la Política Presupuestaria;
+
+1. (DEROGADO, D.O.F. 24 DE FEBRERO DE 2025)
+
+ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)
+
+e) Dirección General de Análisis Presupuestario y Seguimiento del Gasto “A”:
+
+1. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “A”;
+
+2. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “B”;
+
+3. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “C”, y
+
+4. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “D”, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+f) Dirección General de Análisis Presupuestario y Seguimiento del Gasto “B”:
+
+1. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “E”;
+
+2. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “F”;
+
+3. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “G”, y
+
+4. Coordinación de Análisis Presupuestario y Seguimiento del Gasto “H”;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+III. Unidad de Política y Estrategia para Resultados:
+
+a) Coordinación de Planeación Estratégica y Evaluación del Desempeño;
+
+b) Coordinación de Análisis Estratégico y Monitoreo del Desempeño, y
+
+c) Coordinación de Fortalecimiento Institucional;
 
 IV. Unidad de Contabilidad Gubernamental:
 
@@ -339,37 +385,37 @@ a) Dirección General de Normatividad Contable, y
 
 b) Coordinación del Sistema de Contabilidad;
 
-V. Dirección General de Programación y Presupuesto “A”:
+V. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-a) Coordinación de Programación y Presupuesto “A”;
+VI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-b) Coordinación de Programación y Presupuesto “B”, y
+VII. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-c) Coordinación de Programación y Presupuesto “C”;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-VI. Dirección General de Programación y Presupuesto “B”:
+VIII. Unidad de Asuntos Jurídicos de Egresos:
 
-a) Coordinación de Programación y Presupuesto “D”;
+a) Dirección General de Asuntos Jurídicos de Egresos:
 
-b) Coordinación de Programación y Presupuesto “E”, y
+1. Coordinación de Asuntos Consultivos de Egresos;
 
-c) Coordinación de Programación y Presupuesto “F”;
+2. Coordinación de Apoyo Jurídico de Egresos;
 
-VII. Dirección General de Programación y Presupuesto “C”:
+3. Coordinación de Asuntos Normativos de Egresos, y
 
-a) Coordinación de Programación y Presupuesto “G”, y
+4. Coordinación de Asuntos Legislativos de Egresos;
 
-b) Coordinación de Programación y Presupuesto “H”, y
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-VIII. Unidad Jurídica de Egresos:
+IX. Unidad de Control Administrativo y Contrataciones Públicas:
 
-a) Dirección General Jurídica de Egresos:
+a) Dirección General de Compras Consolidadas y Estratégicas;
 
-1. Coordinación de Análisis Jurídico;
+1. Coordinación de Adquisiciones Consolidadas de Bienes y Servicios;
 
-2. Coordinación de Normas Presupuestarias, y
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-3. Coordinación de Normatividad;
+X. Unidad de Proyectos Especiales;
 
 D. Procuraduría Fiscal de la Federación:
 
@@ -613,9 +659,17 @@ XXXIII. Aprobar las políticas técnicas y administrativas para la mejor organiz
 
 XXXIV. Expedir las reglas de carácter general en las materias competencia de la Secretaría, que por mandato de ley tenga competencia exclusiva;
 
-XXXV. Determinar la política inmobiliaria de la Administración Pública Federal, incluida la relativa al arrendamiento de inmuebles cuando la Administración Pública Federal tenga el carácter de arrendataria, salvo la que se refiere a playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas, así como la de bienes muebles y de desincorporación de activos de la Administración Pública Federal, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XXXVI. Las demás que con carácter de indelegables le confieran otras disposiciones legales o reglamentarias y aquellas funciones que le encomiende la persona titular del Ejecutivo Federal.
+XXXV. Determinar la política inmobiliaria de la Administración Pública Federal, incluida la relativa al arrendamiento de inmuebles cuando la Administración Pública Federal tenga el carácter de arrendataria, salvo la que se refiere a playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas, así como la de bienes muebles y de desincorporación de activos de la Administración Pública Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXVI. Establecer, mediante disposiciones de carácter general, el modelo organizacional y de operación de las unidades de Administración y Finanzas de las dependencias y entidades de la Administración Pública Federal, para la conducción y coordinación en la operación de dichas unidades, en términos de las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXVII. Las demás que con carácter de indelegables le confieran otras disposiciones legales o reglamentarias y aquellas funciones que le encomiende la persona titular del Ejecutivo Federal.
 
 Las unidades administrativas de la Secretaría tendrán en todo momento las atribuciones que les confiere este Reglamento, incluso en el caso de que la persona titular de la Secretaría delegue sus facultades al respecto.
 
@@ -1369,9 +1423,13 @@ XI. Coordinar estudios en materia del impacto en el nivel de endeudamiento local
 
 La Unidad de Administración y Finanzas tiene las atribuciones siguientes:
 
-I. Emitir y coordinar el proceso de actualización, conforme a las disposiciones jurídicas aplicables, de los instrumentos normativos y técnicos para la planeación, organización y administración de los recursos humanos, materiales, financieros, de tecnologías de la información, comunicaciones y de patrimonio cultural, así como dirigir la implementación de los programas y acciones que en materia de igualdad de género deba llevar a cabo la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-II. Instruir la implementación de las normas, procedimientos y sistemas de administración interna en materia de recursos humanos, materiales, financieros, así como de servicios generales y tecnologías de la información y comunicaciones que establezca, a fin de dar cumplimiento a las disposiciones jurídicas aplicables;
+I. Emitir y coordinar el proceso de actualización, conforme a las disposiciones jurídicas aplicables, de los instrumentos normativos y técnicos para la planeación, organización y administración de los recursos humanos, materiales, financieros, de tecnologías de la información, comunicaciones, de patrimonio cultural y de igualdad de género, así como dirigir su implementación, a través de las unidades administrativas que tenga adscritas y de las coordinaciones administrativas u homólogas a que se refiere el artículo 47 del presente reglamento;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+II. Instruir, a través de las unidades administrativas que tenga adscritas y de las coordinaciones administrativas u homólogas a que se refiere el artículo 47 del presente reglamento, la implementación de las normas, procedimientos y sistemas de administración interna en materia de recursos humanos, materiales, financieros, así como de servicios generales y tecnologías de la información y comunicaciones que establezca, a fin de dar cumplimiento a las disposiciones jurídicas aplicables;
 
 III. Promover la incorporación de la perspectiva de género en las actividades que realicen las unidades administrativas de la Secretaría;
 
@@ -1387,7 +1445,9 @@ VIII. Instruir, conforme a la normativa aplicable, que se realicen las erogacion
 
 IX. Instruir la prestación de los servicios de apoyo administrativo para el ejercicio, reembolso, pago y registro presupuestario y contable del gasto de las unidades administrativas de la Secretaría, así como para solicitar a la Tesorería de la Federación la ministración de recursos que les correspondan, de conformidad con las disposiciones jurídicas aplicables;
 
-X. Coordinar, con las unidades administrativas competentes de la Secretaría, las acciones para la atención de los requerimientos de información formulados por la Auditoría Superior de la Federación y para el seguimiento estadístico de las auditorías y observaciones determinadas por el Órgano Interno de Control en la Secretaría y, en su caso, la unidad administrativa competente de la Secretaría de la Función Pública;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+X. Coordinar con las unidades administrativas competentes de la Secretaría las acciones para la atención de los requerimientos de información formulados por la Auditoría Superior de la Federación y para el seguimiento estadístico de las auditorías y observaciones determinadas por el Órgano Interno de Control en la Secretaría y, en su caso, la unidad administrativa competente de la Secretaría Anticorrupción y Buen Gobierno;
 
 XI. Coordinar la administración de los recursos presupuestales y financieros, con la finalidad de dar cumplimiento a los programas a cargo de la Secretaría;
 
@@ -1405,6 +1465,10 @@ XVII. Dirigir las relaciones con el sindicato de la Secretaría y participar en 
 
 XVIII. Proponer a la persona titular de la Secretaría la designación del personal de esta Unidad que deba participar como representante de la dependencia ante las comisiones y órganos colegiados que se refieran a asuntos de su competencia, en términos de las disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVIII Bis. Autorizar, previo acuerdo con la persona titular de la Secretaría, las propuestas que envíen las unidades administrativas de la Secretaría para designar a los titulares de las coordinaciones administrativas u homólogas a que se refiere el artículo 47 del presente reglamento, así como removerlos, previo acuerdo con la persona titular de la Secretaría de conformidad con las disposiciones jurídicas aplicables;
+
 XIX. Promover la aplicación del sistema de evaluación del desempeño al personal de la Secretaría y el otorgamiento de estímulos y recompensas que establezcan las leyes, las condiciones generales de trabajo y demás disposiciones jurídicas aplicables, y resolver los asuntos relacionados sobre el otorgamiento de estímulos y recompensas, antigüedad y demás prestaciones laborales del personal de la Secretaría;
 
 XX. Dirigir la elaboración de los programas de reclutamiento, selección, capacitación, desarrollo, evaluación del desempeño, separación, remuneraciones, beneficios, estímulos y recompensas del personal conforme a las políticas, normas y lineamientos emitidos en la materia por las autoridades competentes;
@@ -1413,7 +1477,9 @@ XXI. Participar en el Consejo Consultivo del Sistema del Servicio Profesional de
 
 XXII. Establecer y coordinar la implementación de estrategias internas de planeación y administración de los recursos humanos, para asegurar la operación de los procesos de conformidad con las disposiciones jurídicas aplicables;
 
-XXIII. Instruir a las unidades administrativas competentes que tenga adscritas, el desarrollo de las acciones para la elaboración y trámite en la Secretaría y la Secretaría de la Función Pública, de los movimientos de estructuras orgánicas y ocupacionales aprobados, y de las plantillas de personal de la Secretaría, así como la contratación de servicios profesionales bajo el régimen de honorarios o de personal eventual, con la finalidad de obtener las debidas autorizaciones;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIII. Instruir a las unidades administrativas que tenga adscritas el desarrollo de las acciones para la elaboración y trámite en la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, de los movimientos de estructuras orgánicas y ocupacionales aprobados, y de las plantillas de personal de la Secretaría, así como la contratación de servicios profesionales bajo el régimen de honorarios o de personal eventual, con la finalidad de obtener las autorizaciones correspondientes;
 
 XXIV. Coordinar la expedición de los nombramientos, cambios de adscripción y separaciones de las personas servidoras públicas de base y de confianza de la Secretaría, en los términos de las disposiciones legales aplicables;
 
@@ -1457,7 +1523,9 @@ XLIII. Supervisar y coordinar la implementación de los programas y acciones que
 
 XLIV. Promover la incorporación de la perspectiva de género y el enfoque de igualdad en la cultura organizacional de la Secretaría;
 
-XLV. Instruir a las unidades administrativas que tenga adscritas la realización de los trámites ante la Oficina de la Presidencia de la República, la Secretaría de la Función Pública y demás instancias competentes respecto de los procesos bajo su cargo, a fin de dar cumplimiento con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLV. Instruir a las unidades administrativas que tenga adscritas la realización de los trámites ante la Oficina de la Presidencia de la República, la Secretaría Anticorrupción y Buen Gobierno y demás instancias competentes respecto de los procesos bajo su cargo, a fin de dar cumplimiento con las disposiciones jurídicas aplicables;
 
 XLVI. Informar a la persona titular de la Secretaría, los asuntos relevantes de las unidades administrativas que tenga adscritas;
 
@@ -1491,7 +1559,9 @@ VIII. Coordinar las actividades inherentes para la integración, registro y actu
 
 IX. Requerir la información relativa al desarrollo de los programas de las unidades administrativas de la Secretaría e informar, en su caso, a las instancias correspondientes acerca de su cumplimiento;
 
-X. Coordinar a las unidades administrativas de la Secretaría para la atención de los requerimientos de información formulados y el seguimiento de las acciones determinadas por la Auditoría Superior de la Federación y fungir como enlace para el seguimiento estadístico de las auditorías y observaciones emitidas por el Órgano Interno de Control en la Secretaría y, en su caso, la unidad administrativa competente de la Secretaría de la Función Pública;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+X. Coordinar a las unidades administrativas de la Secretaría para la atención de los requerimientos de información formulados y el seguimiento de las acciones determinadas por la Auditoría Superior de la Federación y fungir como enlace para el seguimiento estadístico de las auditorías y observaciones emitidas por el Órgano Interno de Control en la Secretaría y, en su caso, la unidad administrativa competente de la Secretaría Anticorrupción y Buen Gobierno;
 
 XI. Solicitar a la Tesorería de la Federación la ministración de los recursos que correspondan a la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -1573,7 +1643,9 @@ IX. Determinar las acciones para la integración del documento anual del mecanis
 
 X. Coordinar el proceso de revisión y envío de la información que las unidades administrativas competentes de la Secretaría registran en el Sistema de Control y Transparencia de Fideicomisos sobre los fideicomisos, mandatos y análogos que coordinan o de aquellos cuyo presupuesto es con cargo a recursos presupuestarios;
 
-XI. Dirigir la participación de las unidades administrativas competentes de la Secretaría respecto de los programas presupuestarios a su cargo en las evaluaciones externas establecidas por la Unidad de Evaluación del Desempeño;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XI. Dirigir la participación de las unidades administrativas competentes de la Secretaría respecto de los programas presupuestarios a su cargo en las evaluaciones externas establecidas por la Unidad de Política y Estrategia para Resultados;
 
 XII. Elaborar los proyectos de las evaluaciones del impacto presupuestario de los proyectos de iniciativas de leyes o decretos, así como de los proyectos de reglamentos y de las demás disposiciones administrativas de carácter general que se pretendan someter a consideración de la persona titular del Ejecutivo Federal a cargo de las unidades administrativas de la Secretaría;
 
@@ -1615,13 +1687,17 @@ XI. Instrumentar el otorgamiento de las prestaciones y servicios que corresponda
 
 XII. Normar la integración, resguardo, custodia y certificación de los expedientes laborales y administrativos del personal de la Secretaría, e integrar, llevar el control, la guarda y custodia y certificación de los expedientes a su cargo y, en su caso, de aquellos documentos que obren en sus archivos;
 
-XIII. Coordinar la integración, actualización, registro y difusión del catálogo institucional de puestos y su incorporación al sistema electrónico de información que determine la Secretaría de la Función Pública;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Coordinar la integración, actualización, registro y difusión del catálogo institucional de puestos y su incorporación al sistema electrónico de información que determine la Secretaría Anticorrupción y Buen Gobierno;
 
 XIV. Dirigir la coordinación de la operación de los programas informáticos que coadyuven a la administración de funciones relativas al Capítulo 1000 “Servicios Personales”, con la intervención que, en su caso, corresponda a la Dirección General de Tecnologías y Seguridad de la Información;
 
 XV. Representar a la persona titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje, Juzgados de Distrito y Tribunales Colegiados en Materia de Trabajo, y demás autoridades locales y federales en materia del trabajo, en las controversias laborales que se susciten entre la Secretaría y el personal que le preste servicios en las unidades administrativas de la dependencia, así como formular demandas y contestaciones relacionadas con el personal, que no sean competencia de otra unidad administrativa, conciliar, absolver posiciones, celebrar convenios, allanarse, transigir, ejercitar acciones, desistirse de estas, interponer recursos y ejecutar laudos o resoluciones en los juicios laborales, ante las autoridades señaladas en representación de la persona titular de la Secretaría; formular demandas y desistirse en los juicios de amparo contra las resoluciones y laudos que se dicten e interponer los medios de defensa que en derecho procedan;
 
-XVI. Orientar y, en su caso, intervenir en el levantamiento de toda clase de actas administrativas donde se hagan constar hechos o actos de las personas servidoras públicas de la Secretaría para los efectos legales que correspondan; imponer las sanciones y medidas disciplinarias que procedan conforme a las condiciones generales de trabajo y demás disposiciones jurídicas aplicables, así como revocarlas, previo acuerdo superior; gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes respectivos sobre el estado de salud de los trabajadores; emitir acuerdos para formalizar la terminación de la relación laboral en los casos de invalidez o incapacidad total y permanente; ejecutar las resoluciones que notifique el Órgano Interno de Control en la Secretaría o la Secretaría de la Función Pública, en términos de las disposiciones jurídicas aplicables, y emitir el cese de los efectos del nombramiento o, en su caso, revocar el mismo cuando proceda, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Orientar y, en su caso, intervenir en el levantamiento de toda clase de actas administrativas donde se hagan constar hechos o actos de las personas servidoras públicas de la Secretaría para los efectos legales que correspondan; imponer las sanciones y medidas disciplinarias que procedan conforme a las condiciones generales de trabajo y demás disposiciones jurídicas aplicables, así como revocarlas, previo acuerdo superior; gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes respectivos sobre el estado de salud de las personas trabajadoras de la Secretaría; emitir acuerdos para formalizar la terminación de la relación laboral en los casos de invalidez o incapacidad total y permanente; ejecutar las resoluciones que notifique el Órgano Interno de Control en la Secretaría o la Secretaría Anticorrupción y Buen Gobierno, en términos de las disposiciones jurídicas aplicables, y emitir el cese de los efectos del nombramiento o, en su caso, revocar dicho nombramiento cuando proceda, conforme a las disposiciones jurídicas aplicables;
 
 XVII. Fijar criterios o directrices, de conformidad con las disposiciones jurídicas aplicables, para determinar:
 
@@ -2395,7 +2471,9 @@ XXXII. Participar en la negociación para la reestructuración de adeudos deriva
 
 XXXIII. Negociar, en el ámbito de su competencia, los montos de las cuotas, aportaciones y suscripciones que se deriven de la participación de la Secretaría en organismos y foros de cooperación internacional, así como programar, presupuestar y ejercer los recursos aprobados en el Presupuesto de Egresos de la Federación para cumplir con dichos compromisos;
 
-XXXIV. Participar en el Comité de Crédito Externo, en coordinación con la Unidad de Política y Control Presupuestario, las direcciones generales de Programación y Presupuesto “A”, “B” y “C” y, en su caso, la Unidad de Inversiones y el agente financiero, así como con la dependencia o entidad de la Administración Pública Federal que corresponda;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXIV. Participar en el Comité de Crédito Externo, en coordinación con la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, las direcciones generales de Análisis Presupuestario y Seguimiento del Gasto “A” y “B” y, en su caso, la Unidad de Inversiones y el agente financiero, así como con la dependencia o entidad de la Administración Pública Federal que corresponda;
 
 XXXV. Identificar y promover, en el ámbito de su competencia, oportunidades de negocios para empresas mexicanas en las instituciones financieras internacionales, los organismos financieros internacionales y foros bilaterales y multilaterales;
 
@@ -2569,7 +2647,9 @@ IX. Gestionar por acuerdo de su superior jerárquico y en el ámbito de su compe
 
 X. Proponer y negociar en coordinación con la Dirección General de Operaciones Financieras, comisiones con el mandatario, comisionista, agente financiero, fiduciario o intermediario financiero que lleve a cabo, según corresponda, la negociación, contratación, administración o gestión financiera para la instrumentación de los préstamos, donativos o asistencia técnica a que se refieren las fracciones VI y VIII de este artículo;
 
-XI. Representar a la persona titular de la Unidad de Crédito Público y Asuntos Internacionales de Hacienda ante el Comité de Crédito Externo, en coordinación con la Unidad de Política y Control Presupuestario, las direcciones generales de Programación y Presupuesto “A”, “B” y “C” y, en su caso, con la Unidad de Inversiones y el agente financiero, así como con la dependencia o entidad de la Administración Pública Federal que corresponda, para apoyar el análisis del ejercicio y seguimiento de los programas y proyectos financiados con crédito externo vinculados con la asignación de recursos presupuestales y el ejercicio de las nuevas propuestas de programas y proyectos que se pretendan financiar con crédito externo que requieran prever recursos presupuestales, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XI. Representar a la persona titular de la Unidad de Crédito Público y Asuntos Internacionales de Hacienda ante el Comité de Crédito Externo, en coordinación con la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, las direcciones generales de Análisis Presupuestario y Seguimiento del Gasto “A” y “B” y, en su caso, la Unidad de Inversiones y el agente financiero, así como con la dependencia o entidad de la Administración Pública Federal que corresponda, para apoyar el análisis del ejercicio y seguimiento de los programas y proyectos financiados con crédito externo vinculados con la asignación de recursos presupuestales y el ejercicio de las nuevas propuestas de programas y proyectos que se pretendan financiar con crédito externo que requieran prever recursos presupuestales, y
 
 XII. Requerir a las unidades administrativas de las dependencias y entidades de la Administración Pública Federal que ejecuten proyectos o programas financiados con recursos de crédito externo provenientes de organismos a que se refiere la fracción I del presente artículo, la documentación e información necesaria para la atención de los asuntos de su competencia.
 
@@ -3555,19 +3635,27 @@ X. Apoyar a la Coordinación Jurídica de Seguros, Fianzas y Pensiones en la ela
 
 XI. Acordar con la persona titular de la Coordinación Jurídica de Seguros, Fianzas y Pensiones los asuntos de su competencia, así como atender los demás asuntos que esta le encomiende.
 
-#### SECCIÓN III. SUBSECRETARÍA DE EGRESOS
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+#### SECCIÓN II BIS. SUBSECRETARÍA DE INGRESOS
 
 ###### Artículo 17.
 
 La Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos tiene las atribuciones siguientes:
 
-I. Proponer al superior jerárquico la política de ingresos en las materias de derechos, de productos y de aprovechamientos; de los derivados de los contratos para la exploración y extracción de hidrocarburos, del dividendo estatal de las empresas productivas del Estado de precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal, y de aquellos que deba proponer la Secretaría en términos de las disposiciones jurídicas aplicables que emita el Ejecutivo Federal; lo anterior, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-II. Colaborar con las unidades competentes de la Secretaría y, en su caso, con el Servicio de Administración Tributaria, para realizar el análisis y la evaluación del régimen fiscal aplicable a las empresas productivas del Estado, así como para las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos, de contribuciones, y de aprovechamientos sobre hidrocarburos;
+I. Proponer a su superior jerárquico la política de ingresos en las materias de derechos, de productos y de aprovechamientos; de los derivados de los contratos para la exploración y extracción de hidrocarburos; de precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal y de aquellos que deba proponer la Secretaría en términos de las disposiciones jurídicas aplicables que emita el Ejecutivo Federal; lo anterior, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+II. Colaborar con las unidades administrativas competentes de la Secretaría y, en su caso, del Servicio de Administración Tributaria, en el análisis y evaluación del régimen fiscal aplicable a las empresas públicas del Estado, así como de las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos y de contribuciones y de aprovechamientos sobre hidrocarburos;
 
 III. Participar con las unidades administrativas competentes de la Secretaría, en la formulación del Programa Nacional de Financiamiento del Desarrollo, así como de los criterios generales de política económica que se requieren para la elaboración de las iniciativas de la Ley de Ingresos y del proyecto del Presupuesto de Egresos de la Federación;
 
-IV. Participar con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos de las dependencias y de las entidades de la Administración Pública Federal, así como recibir la información de los ingresos de las empresas productivas del Estado, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+IV. Participar con las unidades administrativas competentes de la Secretaría en la formulación de los presupuestos de ingresos de las dependencias y de las entidades de la Administración Pública Federal, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
 V. Proponer a su superior jerárquico los bienes y servicios de las entidades paraestatales de la Administración Pública Federal cuyos precios y tarifas deban ser fijados por la Secretaría;
 
@@ -3577,13 +3665,19 @@ VII. Establecer las bases para fijar los precios y tarifas referidos en la fracc
 
 VIII. Participar con las unidades administrativas competentes de la Secretaría, en la elaboración de los proyectos de iniciativas de leyes o decretos, así como de proyectos de reglamentos, decretos, acuerdos, reglas de carácter general y otras disposiciones relacionadas con las materias a que se refiere la fracción I de este artículo, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias;
 
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VIII Bis. Proponer a la persona titular de la Subsecretaría de Ingresos los proyectos de resoluciones que establezcan disposiciones de carácter general en materia fiscal y aduanera, respecto de las materias de su competencia;
+
 IX. Participar, en el ámbito de su competencia, con las unidades administrativas del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación aplicable a las materias señaladas en la fracción I del presente artículo;
 
 X. Participar con las unidades administrativas competentes del Servicio de Administración Tributaria, en el diseño de las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales, así como de la información que deba incorporarse a los programas electrónicos correspondientes, relacionados con las materias a que se refiere la fracción I de este artículo;
 
 XI. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos de que tenga conocimiento en el ejercicio de sus atribuciones, que puedan constituir delitos;
 
-XII. Solicitar a las unidades administrativas del Servicio de Administración Tributaria, del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de los órganos reguladores coordinados en materia energética, de las empresas productivas del Estado, así como de las dependencias y entidades de la Administración Pública Federal, la información, documentación y registros necesarios para la evaluación y el diseño de la política de ingresos y para el cumplimiento de las atribuciones previstas en el presente artículo;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XII. Solicitar a las unidades administrativas del Servicio de Administración Tributaria, del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de las empresas públicas del Estado, así como de las dependencias y entidades de la Administración Pública Federal, la información, documentación y registros necesarios para la evaluación y el diseño de la política de ingresos y para el cumplimiento de las atribuciones previstas en el presente artículo;
 
 XIII. Resolver, en coordinación con otras unidades administrativas de la Secretaría y de las demás dependencias de la Administración Pública Federal competentes para ello, los asuntos que las disposiciones jurídicas relacionadas con la política de ingresos no tributarios de la Federación atribuyan a la Secretaría, en las materias a que se refiere este artículo, así como las relacionadas con los contratos para la exploración y extracción de hidrocarburos y las asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, siempre que no formen parte de las facultades indelegables de la persona titular de la Secretaría;
 
@@ -3591,9 +3685,13 @@ XIV. Conocer la problemática y opiniones vertidas por las dependencias y entida
 
 XV. Emitir opinión en las materias a que se refiere este artículo, sin perjuicio de las atribuciones de las demás unidades administrativas de la Secretaría;
 
-XVI. Enviar a la unidad administrativa competente de la Secretaría, las estimaciones de ingresos de la Administración Pública Federal centralizada, de las entidades paraestatales federales sujetas a control presupuestario directo y, en su caso, de las empresas productivas del Estado en las materias a que se refiere este artículo y, en su caso, su calendarización mensual;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XVII. Publicar y actualizar, la información prevista en el artículo 58 de la Ley de Ingresos sobre Hidrocarburos que corresponda a la Secretaría, y coordinar las acciones que se requieren para ello, con las unidades competentes del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Secretaría de Energía, de la Comisión Nacional de Hidrocarburos y del Servicio de Administración Tributaria; lo anterior, con el apoyo de las demás unidades administrativas de la Secretaría;
+XVI. Enviar a la unidad administrativa competente de la Secretaría, las estimaciones de ingresos de la Administración Pública Federal centralizada, de las entidades paraestatales federales sujetas a control presupuestario directo y, en su caso, de las empresas públicas del Estado en las materias a que se refiere este artículo y, en su caso, su calendarización mensual;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVII. Publicar y actualizar la información prevista en el artículo 58 de la Ley de Ingresos sobre Hidrocarburos que corresponda a la Secretaría, y coordinar las acciones que se requieren para ello, con las unidades competentes del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Secretaría de Energía y del Servicio de Administración Tributaria; lo anterior, con el apoyo de las demás unidades administrativas de la Secretaría;
 
 XVIII. Clasificar los ingresos excedentes en inherentes, no inherentes y de carácter excepcional conforme a lo previsto en la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, así como resolver los asuntos que competan a la Secretaría en dicha materia;
 
@@ -3601,13 +3699,19 @@ XIX. Coordinar el registro de los ingresos de los Poderes Legislativo y Judicial
 
 XX. Participar en la elaboración del documento denominado Renuncias Recaudatorias, y recabar de las dependencias y entidades de la Administración Pública Federal la información necesaria para elaborar dicho documento;
 
-XXI. Fijar o modificar los productos y aprovechamientos de la Administración Pública Federal centralizada, salvo aquellos que estén previstos en ley, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXI. Fijar o modificar los productos y aprovechamientos de la Administración Pública Federal y de las empresas públicas del Estado, salvo aquellos que estén previstos en ley, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
 XXII. Determinar la calendarización mensual de las distintas transferencias que deba realizar el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con los montos que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
-XXIII. Autorizar la variación del monto de los pagos establecidos en las disposiciones jurídicas por concepto de derechos por la exploración y extracción de hidrocarburos, del derecho por la utilidad compartida, así como de la calendarización mensual de las distintas transferencias que deba realizar el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XXIV. Determinar la metodología, en coordinación con las unidades administrativas competentes de la Secretaría, y realizar los estudios necesarios para establecer la política del dividendo estatal de las empresas productivas del Estado;
+XXIII. Autorizar la variación del monto de los pagos establecidos en las disposiciones jurídicas por concepto del derecho petrolero para el bienestar, así como de la calendarización mensual de las distintas transferencias que deba realizar el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIV. Determinar, en coordinación con las unidades administrativas competentes de la Secretaría, la metodología para establecer la política de contribuciones y aprovechamientos a cargo de las empresas públicas del Estado, así como realizar los estudios necesarios para dicha determinación;
 
 XXV. Participar con las autoridades competentes de la Administración Pública Federal en el análisis y evaluación de la política ambiental que derive en ingresos no tributarios para el Estado en los mercados de reducción de emisiones de contaminantes al medio ambiente o a través de mecanismos que para tal efecto se diseñen;
 
@@ -3637,31 +3741,45 @@ XXXVII. Participar, en el ámbito de su competencia, en el diseño de los contra
 
 XXXVIII. Supervisar el desarrollo e implementación de los registros y modelos económicos, financieros y estadísticos necesarios para el diseño de las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos, así como de los procesos derivados de la migración de asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
 
-XXXIX. Colaborar y apoyar, en el ámbito de las materias a que se refiere este artículo, a la Comisión Nacional de Hidrocarburos en el desarrollo y ejecución de los procesos de licitación de contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXIX. Colaborar y apoyar, respecto de las materias a que se refiere este artículo, a la autoridad competente en el desarrollo y ejecución de los procesos de licitación de contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
 
 XL. Emitir y modificar los lineamientos a que se sujetarán las bases y reglas sobre el registro de costos, gastos e inversiones y sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo de contratos para la exploración y extracción de hidrocarburos y asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
 
-XLI. Establecer los mecanismos de coordinación con la Secretaría de Energía y la Comisión Nacional de Hidrocarburos que permitan solicitar y recibir la información y apoyo técnico que requiera para el ejercicio de las atribuciones a que se refiere este artículo; así como requerir a esta última la realización de visitas de campo o de otro tipo para verificar las actividades e inversiones de los contratistas, vinculadas con los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLI. Establecer los mecanismos de coordinación con la Secretaría de Energía que permitan solicitar y recibir la información y apoyo técnico que requiera para el ejercicio de las atribuciones a que se refiere este artículo, así como requerir la realización de visitas de campo o de otro tipo para verificar las actividades e inversiones de las personas contratistas vinculadas con los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
 
 XLII. Elaborar registros de la información y documentación de los costos, gastos e inversiones de los contratistas y asignatarios y, en su caso, la información relativa a la deducción de dichas inversiones que el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo le proporcione a través del Sistema que determine para tal efecto, así como de aquella información adicional que sea necesaria para la verificación de las contraprestaciones establecidas en los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
 
 XLIII. Expedir las constancias o acreditaciones al personal de las unidades administrativas que tengan adscritas, a efecto de que dicho personal pueda llevar a cabo las verificaciones, diligencias y notificaciones a que se refiere este artículo;
 
-XLIV. Instruir al Servicio de Administración Tributaria, a los auditores o inspectores externos contratados para ello, así como, a la persona titular de la Coordinación de Análisis, Supervisión y Verificación de Ingresos sobre Hidrocarburos, según sea el caso, la realización de las auditorías y visitas a contratistas, en términos de la Ley de Ingresos sobre Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLIV. Instruir al Servicio de Administración Tributaria y a las personas auditoras o inspectoras externas contratadas para, según sea el caso, la realización de auditorías y visitas a las personas contratistas, en términos de la Ley de Ingresos sobre Hidrocarburos;
 
 XLV. Ejercer las atribuciones que correspondan a la Secretaría en materia de verificación de los aspectos financieros del pago de las contraprestaciones que correspondan al Estado y al contratista derivado de los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, así como de las operaciones y registros contables derivados de dichos contratos, conforme a lo que establece la Ley de Ingresos sobre Hidrocarburos, el contrato respectivo, los lineamientos que al efecto emita la Secretaría y demás disposiciones jurídicas aplicables;
 
 XLVI. Aplicar las sanciones previstas en la Ley de Hidrocarburos, en el ámbito de las materias a que se refiere este artículo;
 
-XLVII. Colaborar con la Comisión Nacional de Hidrocarburos, unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal, cuando estas lo soliciten, para el ejercicio de sus funciones en materia de supervisión, verificación y auditoría de los contratos para la exploración y extracción de hidrocarburos y las asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XLVIII. Determinar el cálculo de los recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos y remitirlo a la Unidad de Política y Control Presupuestario de la Secretaría para que con base en el mismo se realice su distribución.
+XLVII. Colaborar con las unidades administrativas de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, cuando estas lo soliciten, para el ejercicio de sus atribuciones en materia de supervisión, verificación y auditoría de los contratos para la exploración y extracción de hidrocarburos y las asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, y
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLVIII. Determinar el cálculo de los recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos y remitirlo a la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto de la Secretaría para que con base en el mismo se realice su distribución.
 
 Artículo 17 A.- La Dirección General de Política de Ingresos no Tributarios tiene las atribuciones siguientes:
 
-I. Proponer al superior jerárquico, la política de ingresos en las materias de derechos, de productos de aprovechamientos y de dividendo estatal de las empresas productivas del Estado; así como de los precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal y de aquellos que deba proponer la Secretaría en términos de las disposiciones jurídicas aplicables, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-II. Participar con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos de las dependencias y entidades de la Administración Pública Federal y, en su caso, revisar la información de los ingresos de las empresas productivas del Estado, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+I. Proponer a su superior jerárquico la política de ingresos en las materias de derechos, productos y aprovechamientos, así como de los precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal y de aquellos que deba proponer la Secretaría en términos de las disposiciones jurídicas aplicables, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, y con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+II. Participar con las unidades administrativas competentes de la Secretaría en la formulación de los presupuestos de ingresos de las dependencias y entidades de la Administración Pública Federal, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
 III. Proponer al superior jerárquico la opinión que, en su caso, se deba otorgar a la Secretaría de Economía, respecto de la determinación de precios y tarifas máximas de los bienes y servicios;
 
@@ -3677,19 +3795,25 @@ VIII. Resolver los asuntos que determine la persona titular de la Unidad de Pol�
 
 IX. Validar las notificaciones sobre los ingresos excedentes de las dependencias de la Administración Pública Federal;
 
-X. Colaborar con las unidades administrativas competentes de la Secretaría y, en su caso, del Servicio de Administración Tributaria, sobre el análisis y evaluación del régimen fiscal aplicable a las empresas productivas del Estado;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+X. Colaborar con las unidades administrativas competentes de la Secretaría y, en su caso, del Servicio de Administración Tributaria, en el análisis y evaluación del régimen fiscal aplicable a las empresas públicas del Estado;
 
 XI. Participar en la elaboración de propuestas de los proyectos de iniciativas de leyes o decretos, así como de proyectos de reglamentos, decretos, acuerdos, reglas de carácter general y demás ordenamientos normativos relacionados con las materias señaladas en este artículo, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias, en coordinación con las unidades administrativas competentes de la Secretaría;
 
 XII. Proponer, al superior jerárquico, los conceptos de ingresos que integran la clasificación de los ingresos excedentes inherentes, no inherentes y de carácter excepcional de acuerdo a lo previsto en la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
-XIII. Colaborar en la gestión de la integración del documento denominado Renuncias Recaudatorias, y recabar de las dependencias y entidades de la Administración Pública Federal, así como de las empresas productivas del Estado, la información necesaria para elaborar dicho documento;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Colaborar en la gestión de la integración del documento denominado "Renuncias Recaudatorias", y recabar de las dependencias y entidades de la Administración Pública Federal, así como de las empresas públicas del Estado, la información necesaria para elaborar dicho documento;
 
 XIV. Registrar los ingresos de los Poderes Legislativo y Judicial de la Federación, y de los órganos constitucionales autónomos;
 
 XV. Coadyuvar con las unidades administrativas competentes del Servicio de Administración Tributaria, en el diseño de las formas oficiales de avisos, declaraciones, manifestaciones, claves de cómputo y demás documentos requeridos por las disposiciones fiscales, así como de la información que deba incorporarse a los programas electrónicos correspondientes, relacionados con las materias a que se refiere este artículo;
 
-XVI. Supervisar la elaboración de las estimaciones de ingresos de las entidades paraestatales federales sujetas a control presupuestario directo y, en su caso, de las empresas productivas del Estado, en materia de precios y tarifas de bienes y servicios, así como su calendarización mensual;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Supervisar la elaboración de las estimaciones de ingresos de las entidades paraestatales federales sujetas a control presupuestario directo y, en su caso, de las empresas públicas del Estado, en materia de precios y tarifas de bienes y servicios, así como su calendarización mensual;
 
 XVII. Elaborar, para aprobación del superior jerárquico, las estimaciones de ingresos de la Administración Pública Federal centralizada por concepto de derechos, productos y aprovechamientos, así como su calendarización mensual;
 
@@ -3697,9 +3821,11 @@ XVIII. Colaborar en la emisión de opiniones en las materias a que se refiere es
 
 XIX. Resolver los asuntos que las disposiciones jurídicas aplicables a la política de ingresos de la Federación atribuyan a la Secretaría, en las materias a que se refiere este artículo, siempre que no formen parte de las facultades indelegables de la persona titular de la Secretaría;
 
-XX. Proponer al superior jerárquico en coordinación con las unidades administrativas competentes de la Secretaría, la metodología y estudios necesarios para establecer la política del dividendo estatal de la empresa productiva del Estado y sus empresas productivas subsidiarias;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XXI. Solicitar la opinión del Comité Técnico del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo respecto de la propuesta anual que formule del dividendo estatal a cargo de Petróleos Mexicanos y sus empresas productivas subsidiarias;
+XX. Proponer a su superior jerárquico, en coordinación con las unidades administrativas competentes de la Secretaría, la metodología y estudios necesarios para evaluar y establecer la política de contribuciones y aprovechamientos a cargo de las empresas públicas del Estado;
+
+XXI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
 XXII. Colaborar con las autoridades competentes de la Administración Pública Federal en el análisis y evaluación de la política ambiental que derive en ingresos no tributarios para el Estado, en los mercados de reducción de emisiones de contaminantes al medio ambiente o a través de mecanismos que para tal efecto se diseñen;
 
@@ -3711,7 +3837,9 @@ XXV. Colaborar con las unidades administrativas competentes de la Secretaría en
 
 XXVI. Atender las consultas, así como emitir opinión en materia de precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, así como los relacionados con la política de ingresos en las materias de derechos, de productos y de aprovechamientos;
 
-XXVII. Fijar o modificar los aprovechamientos que deban cubrir los organismos descentralizados y las empresas de participación estatal mayoritaria, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVII. Fijar o modificar los aprovechamientos que deban cubrir los organismos descentralizados y las empresas de participación estatal mayoritaria, así como las empresas públicas del Estado, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
 XXVIII. Dirigir las propuestas de contraprestaciones por la prestación de los servicios públicos en las materias a que se refiere la fracción I de este artículo para autorización de la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos;
 
@@ -3721,15 +3849,21 @@ XXX. Coordinar la respuesta a las consultas formuladas por las dependencias y en
 
 Artículo 17 B.- La Coordinación de Política de Ingresos no Tributarios tiene las atribuciones siguientes:
 
-I. Proponer al superior jerárquico la política de ingresos en materia del dividendo estatal de las empresas productivas del Estado, de los precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal y de aquellos que deba proponer la Secretaría en términos de las disposiciones jurídicas, así como elaborar dichas propuestas en coordinación con otras unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría y con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+I. Proponer a su superior jerárquico la política de ingresos en materia de los precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal y de aquellos que deba proponer la Secretaría en términos de las disposiciones jurídicas, así como elaborar dichas propuestas en coordinación con otras unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría y con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
 II. Elaborar los anteproyectos de acuerdos mediante los cuales se autoricen, fijen o modifiquen, así como registrar los precios y tarifas de los bienes y servicios de la Administración Pública Federal y de aquellos que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal, establecer las bases para fijarlos y supervisar la elaboración de los anteproyectos de acuerdos mediante los cuales estos se fijen, inclusive en las operaciones que celebren las entidades con partes relacionadas, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes para ello, así como con otras unidades administrativas de la Secretaría, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
-III. Proponer, al superior jerárquico, la fijación o modificación de los aprovechamientos que deban cubrir los organismos descentralizados y las empresas de participación estatal mayoritaria, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+III. Proponer a su superior jerárquico la fijación o modificación de los aprovechamientos que deban cubrir los organismos descentralizados y las empresas de participación estatal mayoritaria, así como las empresas públicas del Estado, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
 IV. Coordinar los estudios para proponer a su superior jerárquico los bienes y servicios de las entidades paraestatales de la Administración Pública Federal cuyos precios y tarifas deban ser fijados por la Secretaría;
 
-V. Elaborar proyectos de los presupuestos de ingresos de las dependencias y entidades de la Administración Pública Federal y, en su caso, revisar la información de los ingresos de las empresas productivas del Estado para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+V. Elaborar proyectos de los presupuestos de ingresos de las dependencias y entidades de la Administración Pública Federal para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
 VI. Proponer, al superior jerárquico, los dictámenes y recibir notificaciones, sobre los ingresos excedentes de las entidades paraestatales de la Administración Pública Federal;
 
@@ -3743,17 +3877,21 @@ X. Consolidar las propuestas de los proyectos de iniciativas de leyes o decretos
 
 XI. Consolidar los análisis y evaluaciones de la política ambiental que derive en ingresos no tributarios para el Estado, junto con otras unidades administrativas de la Secretaría que sean competentes en dicho tema;
 
-XII. Participar en la elaboración del documento denominado Renuncias Recaudatorias, y recabar de las entidades de la Administración Pública Federal y de las empresas productivas del Estado, la información necesaria para elaborar dicho documento;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XII. Participar en la elaboración del documento denominado “Renuncias Recaudatorias”, y recabar de las entidades de la Administración Pública Federal y de las empresas públicas del Estado, la información necesaria para elaborar dicho documento;
 
 XIII. Proponer al superior jerárquico las estimaciones de ingresos de las entidades paraestatales federales sujetas a control presupuestario directo, así como su calendarización mensual;
 
 XIV. Elaborar la propuesta de opinión que, en su caso, se deba otorgar a la Secretaría de Economía, respecto de la determinación de precios y tarifas máximas de los bienes y servicios;
 
-XV. Definir la metodología y estudios necesarios para establecer la política del dividendo estatal de las empresas productivas del Estado;
+XV. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
 XVI. Apoyar a la persona titular de la Unidad de Política de Ingresos No Tributarios y sobre Hidrocarburos y a las dependencias competentes de la Administración Pública Federal, en el diseño de los programas de apoyo focalizados y la estimación de los ingresos relacionados con precios que deba establecer la Secretaría en términos de los acuerdos que emita el Ejecutivo Federal;
 
-XVII. Apoyar al superior jerárquico en el análisis y evaluación del régimen fiscal aplicable a las empresas productivas del Estado;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVII. Apoyar a su superior jerárquico en el análisis y evaluación del régimen fiscal aplicable a las empresas públicas del Estado;
 
 XVIII. Proponer al superior jerárquico los proyectos de iniciativas de leyes o decretos, así como de proyectos de reglamentos, decretos, acuerdos, reglas de carácter general y demás ordenamientos normativos relacionados con las materias señaladas en este artículo, así como opinar sobre las iniciativas de leyes o decretos que se presenten al Congreso de la Unión en dichas materias, en coordinación con las unidades administrativas competentes de la Secretaría;
 
@@ -3761,7 +3899,9 @@ XIX. Presentar al superior jerárquico propuestas de políticas de ingresos deri
 
 XX. Dar opinión en materia de precios y tarifas de los bienes y servicios de las entidades de la Administración Pública Federal, a Dependencias y Entidades Paraestatales de la Administración Pública Federal, que lo soliciten;
 
-XXI. Consolidar las propuestas de política de ingresos en materia del dividendo estatal de las empresas productivas del Estado y de aquellos que deba proponer la Secretaría, en términos de las disposiciones jurídicas aplicables, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXI. Consolidar las propuestas de política de ingresos de aquellos que deba proponer la Secretaría, en términos de las disposiciones jurídicas aplicables, en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país;
 
 XXII. Consolidar las propuestas de política de ingresos en materia de precios y tarifas de los bienes y servicios de las dependencias y entidades de la Administración Pública Federal y de aquellos que deba proponer la Secretaría en términos de las disposiciones jurídicas aplicable (sic), en coordinación con otras unidades administrativas competentes de la Secretaría y del Servicio de Administración Tributaria, así como con otras dependencias y entidades de la Administración Pública Federal, en congruencia con las políticas de la hacienda pública, económica y social del país, y
 
@@ -3781,13 +3921,19 @@ V. Participar, en el ámbito de las materias a que se refiere este artículo, en
 
 VI. Dirigir el desarrollo de los modelos económicos referentes a las condiciones económicas relativas a los términos fiscales de los contratos para la exploración y extracción de hidrocarburos, así como aquellas que deriven de los procesos de migraciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, además de los estudios y análisis necesarios para proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos las condiciones económicas a que se refieren las fracciones I y II de este artículo;
 
-VII. Orientar en el ámbito de competencia a que se refiere este artículo, a la Comisión Nacional de Hidrocarburos en el desarrollo y ejecución de los procesos de licitación de contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VII. Orientar, en el ámbito de competencia a que se refiere este artículo, a la autoridad competente en el desarrollo y ejecución de los procesos de licitación de contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
 
 VIII. Colaborar con las unidades administrativas competentes de la Secretaría, en la formulación de los presupuestos de ingresos petroleros del Gobierno federal, para integrarlos al anteproyecto de iniciativa de Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda;
 
-IX. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos los mecanismos de coordinación con la Secretaría de Energía y la Comisión Nacional de Hidrocarburos que le permitan solicitar y recibir la información y el apoyo técnico que requiera para el ejercicio de las atribuciones a que se refiere este artículo;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-X. Establecer los mecanismos necesarios para requerir al Servicio de Administración Tributaria, al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, a los órganos reguladores coordinados en materia energética, empresas productivas del Estado, y demás dependencias y entidades de la Administración Pública Federal, la información, documentación y registros necesarios para la realización de sus funciones;
+IX. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos los mecanismos de coordinación con la Secretaría de Energía que le permitan solicitar y recibir la información y el apoyo técnico que requiera para el ejercicio de las atribuciones a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+X. Establecer los mecanismos necesarios para requerir al Servicio de Administración Tributaria, al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, a las empresas públicas del Estado y demás dependencias y entidades de la Administración Pública Federal, la información, documentación y registros necesarios para la realización de sus atribuciones;
 
 XI. Participar con otras unidades administrativas de la Secretaría en la elaboración de proyectos de iniciativas de leyes, decretos, reglamentos, lineamientos, acuerdos, oficios o resoluciones y demás ordenamientos normativos, cuando estos contengan disposiciones relacionadas con las materias a que se refiere este artículo;
 
@@ -3801,7 +3947,9 @@ XV. Coordinar la elaboración del análisis jurídico, económico y técnico, qu
 
 XVI. Coordinar las actividades para recabar y concentrar la información estadística, así como el análisis prospectivo del sector de hidrocarburos, y
 
-XVII. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos, la variación del monto de los pagos establecidos en las disposiciones jurídicas por concepto de derechos por la exploración y extracción de hidrocarburos, del derecho por la utilidad compartida, así como de la calendarización mensual de las distintas transferencias que deba realizar el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVII. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos, la variación del monto de los pagos establecidos en las disposiciones jurídicas por concepto del derecho petrolero para el bienestar, así como de la calendarización mensual de las distintas transferencias que deba realizar el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con lo que establezca la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda.
 
 Artículo 17 D.- La Coordinación de Análisis, Supervisión y Verificación de Ingresos sobre Hidrocarburos tiene las atribuciones siguientes:
 
@@ -3827,11 +3975,15 @@ X. Coordinar la formulación e implementación de las acciones relacionadas con 
 
 XI. Designar a las personas servidoras públicas adscritas a esta Coordinación para que realicen actos relacionados con las verificaciones a que se refiere este artículo, excepto la atribución prevista en la fracción XVII de este artículo;
 
-XII. Realizar, de acuerdo con las instrucciones de la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos, las atribuciones que correspondan a la Secretaría en materia de verificación de los aspectos financieros del pago de las contraprestaciones que correspondan al Estado y al contratista derivado de los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, así como de las operaciones y registros contables derivados de dichos contratos, mediante la revisión de los registros de información con que se cuente, o de solicitudes de información que realice a los contratistas, partes relacionadas y a terceros, o bien, de visitas o auditorías, conforme a lo que establece la Ley de Ingresos sobre Hidrocarburos, el contrato respectivo, los lineamientos que al efecto emita la Secretaría y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XII. Realizar las atribuciones que correspondan a la Secretaría en materia de verificación de los aspectos financieros del pago de las contraprestaciones que correspondan al Estado y a la persona contratista derivado de los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, así como de las operaciones y registros contables derivados de dichos contratos, mediante la revisión de los registros de información con que se cuente, o de solicitudes de información que realice a las personas contratistas, las partes relacionadas y a personas terceras, o bien, de visitas o auditorías, conforme a lo que establece la Ley de Ingresos sobre Hidrocarburos, el contrato respectivo, los lineamientos que al efecto emita la Secretaría y demás disposiciones jurídicas aplicables;
 
 XIII. Notificar a los contratistas, a las partes relacionadas y a los terceros, los actos relacionados con las atribuciones de verificación;
 
-XIV. Solicitar a la Secretaría de Energía información técnica que se requiera, y a la Comisión Nacional de Hidrocarburos el apoyo técnico o la realización de visitas de campo o de cualquier otro tipo conforme a sus atribuciones, para verificar aspectos técnicos de las actividades e inversiones de los contratistas a efecto de contar con mayores elementos en la realización de sus atribuciones de verificación;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIV. Solicitar a la Secretaría de Energía información técnica que se requiera, así como el apoyo técnico o la realización de visitas de campo o de cualquier otro tipo conforme a sus atribuciones, para verificar aspectos técnicos de las actividades e inversiones de las personas contratistas a efecto de contar con mayores elementos en la realización de sus atribuciones de verificación;
 
 XV. Solicitar a los contratistas, terceros y partes relacionadas la información a que se refiere la Ley de Hidrocarburos, la Ley de Ingresos sobre Hidrocarburos y demás disposiciones jurídicas aplicables, que se requiera para la verificación del pago de las contraprestaciones, así como de las operaciones y registros contables con base en las disposiciones establecidas en los contratos para la exploración y extracción de hidrocarburos a que se refiere la Ley de Hidrocarburos, la Ley de Ingresos sobre Hidrocarburos y demás disposiciones jurídicas aplicables;
 
@@ -3839,9 +3991,13 @@ XVI. Coordinar la supervisión de las verificaciones instruidas al Servicio de A
 
 XVII. Determinar los ajustes y correcciones que correspondan a las contraprestaciones establecidas en los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, que deriven de las verificaciones;
 
-XVIII. Notificar a las unidades competentes del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y de la Comisión Nacional de Hidrocarburos así como a las demás instancias competentes, las irregularidades en el cumplimiento de las bases y reglas que formen parte de los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, en materia de registro y recuperación de costos, gastos e inversiones, procura de bienes y servicios, en la ejecución de los citados contratos y en el pago de las contraprestaciones previstas en los mismos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XIX. Proponer, a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos, la publicación y actualización de la información prevista en el artículo 58 de la Ley de Ingresos sobre Hidrocarburos a través de medios electrónicos, así como solicitar la información que para tal efecto requiera la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y el Servicio de Administración Tributaria;
+XVIII. Notificar a las unidades administrativas competentes del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, así como a las demás instancias competentes, las irregularidades en el cumplimiento de las bases y reglas que formen parte de los contratos para la exploración y extracción de hidrocarburos a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos, en materia de registro y recuperación de costos, gastos e inversiones, procuración de bienes y servicios, en la ejecución de dichos contratos y en el pago de las contraprestaciones previstas en estos;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIX. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos la información que debe publicarse y actualizarse, a través de medios electrónicos, de conformidad con el artículo 58 de la Ley de Ingresos sobre Hidrocarburos, así como solicitar la información que para tal efecto requiera a la Secretaría de Energía y al Servicio de Administración Tributaria;
 
 XX. Informar a la Procuraduría Fiscal de la Federación o a la autoridad competente, de los hechos de que tenga conocimiento en el ejercicio de sus atribuciones, que puedan constituir delitos;
 
@@ -3851,9 +4007,13 @@ XXII. Recibir del Fondo Mexicano del Petróleo para la Estabilización y el Desa
 
 XXIII. Emitir opinión en las materias a que se refiere este artículo, sin perjuicio de las atribuciones de las demás unidades administrativas de la Secretaría;
 
-XXIV. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos los mecanismos de coordinación con la Comisión Nacional de Hidrocarburos para recibir de esta, la información y el apoyo técnico que se requiera para el ejercicio de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XXV. Colaborar con la Comisión Nacional de Hidrocarburos, otras unidades administrativas de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, cuando estas lo soliciten, para el ejercicio de sus funciones en las labores de supervisión, verificación y auditoría de los contratos para la exploración y extracción de hidrocarburos y las asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
+XXIV. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos los mecanismos de coordinación con la autoridad competente para recibir de esta, la información y el apoyo técnico que se requiera para el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXV. Colaborar con las unidades administrativas competentes de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, cuando estas lo soliciten, para el ejercicio de sus atribuciones en las labores de supervisión, verificación y auditoría de los contratos para la exploración y extracción de hidrocarburos y las asignaciones a que se refieren la Ley de Hidrocarburos y la Ley de Ingresos sobre Hidrocarburos;
 
 XXVI. Proponer a la persona titular de la Unidad de Política de Ingresos no Tributarios y sobre Hidrocarburos la aplicación de las sanciones previstas en la Ley de Hidrocarburos en el ámbito de las materias a que se refiere este artículo;
 
@@ -3890,6 +4050,10 @@ VI. Coordinar el cálculo y análisis de la recaudación federal participable qu
 VII. Participar con las unidades administrativas competentes de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, en la formulación, para aprobación superior, de los criterios y montos globales de los estímulos fiscales, por áreas y sectores de la actividad económica, asegurando su congruencia con otros apoyos financieros del Gobierno federal, así como en la elaboración de acuerdos de concertación, programas de fomento y medidas para inducir la acción de los particulares, en lo que concierne a estímulos fiscales, y estudiar y proyectar sus efectos en los ingresos de la Federación;
 
 VIII. Participar en la elaboración de los proyectos de iniciativas de leyes o decretos, así como de proyectos de reglamentos, decretos, convenios, acuerdos, reglas de carácter general y otras disposiciones relacionadas con las materias a que se refiere la fracción I de este artículo, así como opinar sobre las iniciativas de leyes, decretos o acuerdos que se presenten al Congreso de la Unión en dichas materias;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VIII Bis. Proponer a la persona titular de la Subsecretaría de Ingresos los proyectos de resoluciones que establezcan disposiciones de carácter general en materia fiscal y aduanera, respecto de las materias de su competencia;
 
 IX. Participar con el Servicio de Administración Tributaria y con la Agencia Nacional de Aduanas de México en los grupos de trabajo que se creen para lograr la adecuada interpretación y aplicación de la legislación fiscal;
 
@@ -4051,6 +4215,10 @@ La Unidad de Legislación Tributaria tiene las atribuciones siguientes:
 
 I. Elaborar y presentar a la persona superior jerárquica, los proyectos de iniciativas de leyes y proyectos de reglamentos en materias fiscal y aduanera de la Federación, así como los proyectos de reglas generales y otras disposiciones de carácter fiscal y aduanero, para lo cual considerará la opinión de las unidades administrativas competentes en la formulación de la política de ingresos federales;
 
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+I Bis. Elaborar, integrar y proponer a la persona titular de la Subsecretaría de Ingresos, para su emisión, los proyectos de resoluciones que establezcan disposiciones de carácter general en materia fiscal y aduanera, con base en la opinión de las unidades administrativas competentes en la formulación de la política de ingresos federales;
+
 II. Otorgar asesoría jurídica en la emisión de autorizaciones o resolución de consultas a las demás unidades administrativas de la Secretaría vinculadas con los asuntos de su competencia;
 
 III. Asesorar a las unidades administrativas competentes de la Secretaría, del Servicio de Administración Tributaria, de la Agencia Nacional de Aduanas de México y de otras dependencias de la Administración Pública Federal, en la adecuada interpretación y aplicación de la legislación fiscal y aduanera, y de los acuerdos, convenios y tratados internacionales en materia aduanera;
@@ -4089,7 +4257,9 @@ XIX. Participar, en el ámbito de su competencia, con otras unidades administrat
 
 XX. Analizar y emitir opinión sobre las consultas que formulen las dependencias y entidades de la Administración Pública Federal sobre derechos, productos y aprovechamientos, relacionados con los servicios que proporcionan o con los bienes de dominio público cuyo uso o aprovechamiento esté dentro de la esfera de su competencia; así como de aquellas que se presenten sobre la política de ingresos en dichas materias, de contribuciones de mejoras e ingresos sobre hidrocarburos;
 
-XXI. Fungir como ventanilla única de la Subsecretaría de Hacienda y Crédito Público ante la Procuraduría Fiscal de la Federación, para la atención de los asuntos relacionados con los proyectos y anteproyectos a que se refiere la fracción I de este artículo, así como de aquellos relacionados con los ordenamientos relativos a la estructura orgánica y atribuciones de dicha Subsecretaría en materia fiscal o aduanera;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXI. Fungir como ventanilla única de la Subsecretaría de Ingresos ante la Procuraduría Fiscal de la Federación, para la atención de los asuntos relacionados con los proyectos a que se refiere la fracción I de este artículo, así como de aquellos relacionados con los ordenamientos relativos a la estructura orgánica y atribuciones de dicha Subsecretaría;
 
 XXII. Proporcionar asesoría jurídica a las unidades administrativas de la Secretaría que sean competentes para fijar los precios y tarifas a los bienes y servicios que producen o presten, respectivamente, las entidades de la Administración Pública Federal, cuando así le sea solicitada, así como opinar respecto de los precios estimados de mercancías de comercio exterior que sean objeto de subvaluación, propuestos por las unidades administrativas competentes de la Secretaría;
 
@@ -4111,7 +4281,9 @@ XXX. Realizar el estudio, la comunicación y difusión de la materia fiscal inte
 
 XXXI. Participar en las actividades que se lleven a cabo entre los organismos internacionales y los países de América Latina y el Caribe, a efecto de desarrollar y cumplir con una agenda común en beneficio de esas regiones, que incremente la cooperación en materia fiscal internacional, y
 
-XXXII. Proporcionar asesoría jurídica a las unidades administrativas competentes en materia fiscal o aduanera de la Subsecretaría de Hacienda y Crédito Público, en la atención de las auditorías, requerimientos y observaciones que son formuladas por las instancias fiscalizadoras, así como atender aquellas que incidan en las materias de su competencia.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXII. Proporcionar asesoría jurídica a las unidades administrativas adscritas a la Subsecretaría de Ingresos, en la atención de las auditorías, requerimientos y observaciones que son formuladas por las instancias fiscalizadoras, así como atender aquellas que incidan en las materias de su competencia.
 
 Artículo 19 A.- La Dirección General de Tratados Internacionales tiene las atribuciones siguientes:
 
@@ -4189,7 +4361,9 @@ III. Coordinar los estudios para determinar las propuestas de modificación nece
 
 IV. Proponer a la persona superior jerárquica los criterios de política fiscal aplicables a las empresas multinacionales que realizan operaciones internacionales;
 
-V. Coordinar los estudios de derecho internacional comparado de las distintas contribuciones, para la Subsecretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+V. Coordinar los estudios de derecho internacional comparado de las distintas contribuciones, para la Subsecretaría de Ingresos;
 
 VI. Colaborar con las unidades administrativas del Servicio de Administración Tributaria en el combate a las planeaciones fiscales agresivas internacionales que no sean acordes a la legislación y tratados para evitar la doble imposición;
 
@@ -4197,9 +4371,13 @@ VII. Proponer a la persona superior jerárquica las medidas necesarias en materi
 
 VIII. Realizar estudios sobre la legislación fiscal extranjera aplicable a los grupos multinacionales mexicanos;
 
-IX. Asesorar al Servicio de Administración Tributaria respecto a la política fiscal internacional que dicta la Subsecretaría de Hacienda y Crédito Público, durante los procedimientos de acuerdo mutuo que se realizan con las autoridades fiscales de otros países, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-X. Analizar la problemática y opiniones emitidas por organismos empresariales y sociales, sobre la adición, modificación o eliminación de disposiciones fiscales que estén relacionadas a la política fiscal internacional y la representación de la Subsecretaría de Hacienda y Crédito Público ante dichos organismos, a fin de, en su caso, coadyuvar a la formulación de una solución.
+IX. Asesorar al Servicio de Administración Tributaria respecto a la política fiscal internacional que dicta la Subsecretaría de Ingresos, durante los procedimientos de acuerdo mutuo que se realizan con las autoridades fiscales de otros países, y
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+X. Analizar la problemática y opiniones emitidas por organismos empresariales y sociales, sobre la adición, modificación o eliminación de disposiciones fiscales que estén relacionadas a la política fiscal internacional y la representación de la Subsecretaría de Ingresos ante dichos organismos, a fin de, en su caso, coadyuvar a la formulación de una solución.
 
 Artículo 19 D.- La Dirección del Centro Multilateral tiene las atribuciones siguientes:
 
@@ -4219,7 +4397,9 @@ VII. Coordinar la agenda anual de actividades de la Dirección;
 
 VIII. Proporcionar la información necesaria que permita desarrollar el presupuesto anual para cubrir las actividades de la Dirección, a fin de que se presente ante las unidades administrativas competentes de la Secretaría, para su autorización;
 
-IX. Definir y notificar a la Organización para la Cooperación y el Desarrollo Económicos sobre la designación de las personas servidoras públicas adscritas a la Subsecretaría de Hacienda y Crédito Público y al Servicio de Administración Tributaria, para que funjan como expertos en los seminarios organizados por la referida organización internacional en otros países;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+IX. Definir y notificar a la Organización para la Cooperación y el Desarrollo Económicos sobre la designación de las personas servidoras públicas adscritas a la Subsecretaría de Ingresos y al Servicio de Administración Tributaria, para que funjan como expertas en los seminarios organizados por dicha organización internacional en otros países;
 
 X. Coparticipar en las reuniones realizadas por la Organización para la Cooperación y el Desarrollo Económicos, en representación de la Secretaría, a fin (sic) analizar los temas referentes al Programa de Cooperación para las Economías no Miembros, y
 
@@ -4377,11 +4557,13 @@ XI. Realizar investigaciones y estudios de derecho comparado en las materias de 
 
 XII. Auxiliar y asesorar jurídicamente en el ámbito de su competencia, a los órganos colegiados en los que participa la Secretaría en el ejercicio de sus atribuciones;
 
-XIII. Asesorar a las unidades administrativas de la Subsecretaría de Hacienda y Crédito Público, en la atención de las auditorías, requerimientos y observaciones que son formuladas por las instancias fiscalizadoras, así como atender aquellas que incidan en la competencia de la Unidad, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Asesorar a las unidades administrativas adscritas a la Subsecretaría de Ingresos, en la atención de las auditorías, requerimientos y observaciones que son formuladas por las instancias fiscalizadoras, así como atender aquellas que incidan en la competencia de la Unidad de Legislación Tributaria, y
 
 XIV. Coordinar los asuntos que la Unidad de Legislación Tributaria como ventanilla única ante la Procuraduría Fiscal de la Federación debe atender.
 
-#### SECCIÓN IV. PROCURADURÍA FISCAL DE LA FEDERACIÓN
+#### SECCIÓN III. SUBSECRETARÍA DE EGRESOS
 
 ###### Artículo 20.
 
@@ -4407,7 +4589,9 @@ IX. Difundir, en los términos de las disposiciones jurídicas aplicables, la in
 
 X. Elaborar, de acuerdo a las prioridades establecidas en el Plan Nacional de Desarrollo y a los programas derivados de este, la propuesta de prelación de los programas y proyectos de inversión a la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación;
 
-XI. Requerir a las dependencias y entidades de la Administración Pública Federal, directamente o por conducto de las direcciones generales de Programación y Presupuesto “A”, “B” y “C”, la información que considere necesaria para el ejercicio de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XI. Requerir, en términos de las disposiciones aplicables, a las dependencias y entidades de la Administración Pública Federal, la información que considere necesaria para el ejercicio de sus atribuciones;
 
 XII. Integrar los apartados, correspondientes al ámbito de su competencia, de la exposición de motivos del proyecto de Presupuesto de Egresos de la Federación, en la materia de su competencia;
 
@@ -4417,7 +4601,9 @@ XIV. Fungir como Secretario Ejecutivo de la Comisión Intersecretarial de Gasto 
 
 XV. Colaborar con la Unidad de Comunicación Social y Vocero de la Secretaría y sujetándose a lo dispuesto en la fracción IX de este artículo, en las acciones de comunicación social que en materia de programas y proyectos de inversión se requieran para atender la estrategia que en ese sentido determine la persona titular de la Secretaría;
 
-XVI. Analizar y atender, sujetándose a lo dispuesto en la fracción IX de este artículo, los requerimientos de información y de documentación, así como las consultas en materia de programas y proyectos de inversión; así como atender, por conducto de las direcciones generales de Programación y Presupuesto “A”, “B (sic) o “C”, aquellos requerimientos y consultas en dicha materia, que incidan en el ámbito presupuestario;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Analizar y atender, con base en lo dispuesto en la fracción IX de este artículo, los requerimientos de información y de documentación y las consultas en materia de programas y proyectos de inversión, así como atender aquellos requerimientos y consultas en dicha materia, que incidan en el ámbito presupuestario;
 
 XVII. Analizar y atender los requerimientos de información sobre la distribución sectorial, institucional y regional de programas y proyectos de inversión, de acuerdo a las disposiciones jurídicas aplicables;
 
@@ -4435,23 +4621,31 @@ Las coordinaciones de Proyectos de Inversión “A”, “B” y “C” podrán
 
 La Coordinación de Inversión Mixta podrá ejercer las atribuciones señaladas en las fracciones I, III, IV, V, VII, IX, XII, XVIII y XX del presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 21.
 
-La Unidad de Política y Control Presupuestario tiene las atribuciones siguientes:
+La Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto tiene las atribuciones siguientes:
 
 I. Elaborar propuestas de políticas de gasto público federal y ponerlas a consideración del superior jerárquico, así como determinar las estimaciones de gasto requeridas para elaborar el proyecto de Presupuesto de Egresos de la Federación para cada ejercicio fiscal, todo lo anterior con base en los escenarios macroeconómicos que proporcionen las unidades administrativas competentes de la Secretaría;
 
-II. Expedir las normas y metodologías a las que deberán sujetarse las dependencias y entidades de la Administración Pública Federal para el proceso de programación y presupuesto, así como el ejercicio del presupuesto, en los niveles sectorial, institucional y regional, considerando la política de gasto público, así como participar en la implementación de las normas, metodologías y procedimientos técnicos aprobados por el Consejo Nacional de Armonización Contable, en coordinación con las unidades administrativas competentes de la Secretaría, en el ámbito de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+II. Expedir las normas y metodologías a las que deban sujetarse las dependencias y entidades de la Administración Pública Federal para el proceso de presupuesto, así como el ejercicio del presupuesto, en los niveles sectorial, institucional y regional, considerando la política de gasto público, así como participar en la implementación de las normas, metodologías y procedimientos técnicos aprobados por el Consejo Nacional de Armonización Contable, en coordinación con las unidades administrativas competentes de la Secretaría, en el ámbito de la Administración Pública Federal;
 
 III. Proponer a su superior jerárquico, en el marco de la planeación nacional del desarrollo, en coordinación con las unidades administrativas competentes de la Secretaría, los criterios, procedimientos y prioridades para la asignación sectorial, institucional y regional del gasto público;
 
 IV. Integrar, en coordinación con las unidades administrativas competentes de la Secretaría el proyecto de Presupuesto de Egresos de la Federación, mediante la consolidación de los programas y presupuestos sectoriales, institucionales, regionales y especiales, y compatibilizar el nivel de gasto global con los requerimientos presupuestarios de los sectores;
 
-V. Emitir las disposiciones normativas para el ejercicio del gasto público federal que rijan para toda la Administración Pública Federal; e interpretar las mismas, así como, atender las solicitudes y consultas que le presenten las unidades administrativas de la Subsecretaría de Egresos, con base en las disposiciones generales aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+V. Emitir las disposiciones normativas para el ejercicio del gasto público federal que rijan para toda la Administración Pública Federal; interpretarlas, así como atender las solicitudes y consultas que le presenten las dependencias y entidades de la Administración Pública Federal, con base en las disposiciones jurídicas aplicables;
 
 VI. Normar la calendarización de los programas y presupuestos e integrar los calendarios de gasto, considerando la capacidad de ejercicio y la disponibilidad de fondos;
 
-VII. Administrar, integrar y llevar el registro del presupuesto del ramo general correspondiente a las provisiones salariales y económicas; realizar el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dicho ramo, de acuerdo con las disposiciones jurídicas aplicables, así como, en su caso, emitir las disposiciones para la aplicación, control, seguimiento, rendición de cuentas y transparencia de los recursos federales aprobados en ese ramo general;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VII. Administrar, integrar y llevar el registro del presupuesto de los ramos generales correspondientes a las provisiones salariales y económicas, a las aportaciones a seguridad social, y a las aportaciones federales para entidades federativas y municipios; realizar el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dichos ramos, de acuerdo con las disposiciones jurídicas aplicables, así como, en su caso, emitir las disposiciones para la aplicación, control, seguimiento, rendición de cuentas y transparencia de los recursos federales aprobados en estos ramos generales;
 
 VIII. Determinar las previsiones de gasto que se deban incluir en el proyecto de Presupuesto de Egresos de la Federación para llevar a cabo acciones preventivas o ejecutar programas y proyectos para atender los daños ocasionados por fenómenos naturales, así como emitir las disposiciones específicas para el ejercicio de esos recursos;
 
@@ -4459,23 +4653,35 @@ IX. Administrar, integrar y llevar el registro del presupuesto del ramo general 
 
 X. Fungir como ventanilla única de la Subsecretaría de Egresos ante las unidades de Planeación Económica de la Hacienda Pública y la de Crédito Público y Asuntos Internacionales de Hacienda, para la atención de todos los asuntos relacionados con la formulación, integración y ejecución de los presupuestos de los ramos generales correspondientes a deuda pública, a erogaciones para las operaciones y programas de saneamiento financiero y a erogaciones para los programas de apoyo a ahorradores y deudores de la banca;
 
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+X Bis. Fungir como ventanilla única de la Secretaría para atender las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal, los poderes Legislativo y Judicial, así como los entes autónomos, en materia de presupuesto, control y ejercicio del gasto público federal y, en el ámbito de su competencia, emitir las autorizaciones, dictámenes, mecanismos u opiniones correspondientes, conforme a las disposiciones jurídicas aplicables;
+
 XI. Coordinar, instrumentar y registrar, con la participación que corresponda a las unidades administrativas de la Secretaría en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis y seguimiento del mismo y como instrumento de control en el cumplimiento de la política de gasto público;
 
-XII. Participar en el establecimiento de políticas y metodologías para la suscripción y el seguimiento de los instrumentos de mejora del desempeño, así como convenios, bases de desempeño y compromisos específicos de resultados;
+XII. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-XIII. Establecer, en su caso, en coordinación con las unidades administrativas competentes de la Secretaría, las disposiciones específicas en materia de fideicomisos, mandatos y actos análogos que involucren recursos públicos federales, incluidas las relacionadas con la función de fideicomitente único de la Administración Pública Federal centralizada, así como en lo relativo al registro y reporte presupuestario sistematizado considerando los procesos y la estructura del sistema de control y transparencia de fideicomisos, y en coordinación con las direcciones generales de Programación y Presupuesto “A”, “B” y “C”, recabar información global sobre el otorgamiento de recursos públicos federales a fideicomisos, mandatos y actos análogos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Establecer, en su caso, en coordinación con las unidades administrativas competentes de la Secretaría, las disposiciones específicas en materia de fideicomisos, mandatos y actos análogos que involucren recursos públicos federales, incluidas las relacionadas con la función de fideicomitente único de la Administración Pública Federal centralizada, así como en lo relativo al registro y reporte presupuestario sistematizado considerando los procesos y la estructura del sistema de control y transparencia de fideicomisos, y por conducto de las direcciones generales de Análisis Presupuestario y Seguimiento del Gasto "A" o "B", recabar información global sobre el otorgamiento de recursos públicos federales a fideicomisos, mandatos y actos análogos;
 
 XIV. Participar en el Comité de Crédito Externo en coordinación con las unidades administrativas competentes de la Secretaría y, en su caso, con el Agente Financiero correspondiente;
 
 XV. Diseñar y proponer, al superior jerárquico, con la participación que corresponda a las demás unidades administrativas competentes de la Secretaría, la política y las directrices para la modernización presupuestaria a nivel sectorial, institucional y regional;
 
-XVI. Emitir dictámenes, autorizaciones u opiniones respecto a las solicitudes planteadas por las dependencias y entidades de la Administración Pública Federal, por conducto de las direcciones generales de Programación y Presupuesto “A”, “B” o “C”, sobre aspectos normativos o de las etapas del proceso presupuestario, siempre y cuando no se trate de atribuciones que estén asignadas expresamente a otra unidad administrativa de la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Emitir dictámenes, autorizaciones u opiniones respecto a las solicitudes planteadas por las dependencias y entidades de la Administración Pública Federal sobre aspectos normativos o de las etapas del proceso presupuestario, siempre y cuando no se trate de atribuciones que estén conferidas expresamente a otra unidad administrativa de la Secretaría;
 
 XVII. Integrar y analizar la información sobre el ejercicio del Presupuesto de Egresos de la Federación para el seguimiento, análisis y rendición de cuentas, incluyendo aquella comprendida en los informes que se remiten al Congreso de la Unión, conforme a las disposiciones jurídicas aplicables;
 
-XVIII. Participar conjuntamente con las unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal, en la determinación de las medidas que deban implementarse para lograr un mejor cumplimiento de los objetivos y metas de los programas a cargo de las citadas dependencias y entidades;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XIX. Elaborar estudios presupuestarios, incluyendo análisis comparativos de los esquemas presupuestarios de otros países, y participar en foros y organismos nacionales e internacionales, e impartir cursos o talleres, en temas relacionados con el proceso de planeación, programación, ejercicio, seguimiento y control del gasto público;
+XVIII. Participar conjuntamente con las unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal, en la determinación de las medidas que deban implementarse para lograr una eficiencia en el gasto público a cargo de dichas dependencias y entidades;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIX. Elaborar estudios presupuestarios, incluidos análisis comparativos de los esquemas presupuestarios de otros países, y participar en foros y organismos nacionales e internacionales, e impartir cursos o talleres en temas relacionados con el ejercicio, seguimiento y control del gasto público;
 
 XX. Coordinar la administración, en su caso, con las unidades administrativas competentes de la Secretaría, los sistemas de información para el registro y control presupuestario, así como establecer las disposiciones que regulen los procesos y la estructura de la información que comprenden dichos sistemas, con excepción de aquellos sistemas cuya administración corresponde a otras unidades administrativas de la Secretaría;
 
@@ -4489,25 +4695,33 @@ XXIV. Participar y, en su caso, diseñar, en coordinación con otras unidades ad
 
 XXV. Participar cuando así corresponda, en la elaboración de proyectos de convenios, acuerdos, criterios de operación y demás disposiciones jurídicas en materia de gasto federalizado;
 
-XXVI. Coadyuvar, en el ámbito de sus atribuciones y con las unidades administrativas competentes de la Secretaría, en el seguimiento y la evaluación del desempeño del gasto público federalizado;
+XXVI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-XXVII. Ejercer las atribuciones de la Secretaría en materia de control presupuestario de los servicios personales y de remuneraciones, en las etapas del proceso presupuestario y, emitir los lineamientos o normas a las que deberán sujetarse las dependencias y entidades de la Administración Pública Federal en esta materia; determinar los sistemas correspondientes para su desarrollo por parte de la Dirección General de Tecnologías y Seguridad de la Información; establecer los catálogos de puestos y tabuladores para el personal de mando, enlace y operativo con curva salarial de sector central; validar, dictaminar y registrar para efectos presupuestarios, los catálogos de puestos y tabuladores de sueldos y salarios de las dependencias y entidades de la Administración Pública Federal, y registrar aquellos de las instituciones de banca de desarrollo y de las empresas productivas del Estado, entre otros; determinar la valoración del impacto presupuestario de las modificaciones a las estructuras ocupacionales y salariales, así como llevar el registro de las plazas presupuestarias que conforman la estructura ocupacional y las plantillas de personal que operan las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVII. Ejercer las atribuciones de la Secretaría en materia de control presupuestario de los servicios personales y de remuneraciones, en las etapas del proceso presupuestario; emitir los lineamientos o normas a las que deberán sujetarse las dependencias y entidades de la Administración Pública Federal en esta materia; determinar los sistemas correspondientes para su desarrollo por parte de la unidad administrativa competente de la Secretaría; establecer los catálogos de puestos y tabuladores para el personal de mando, enlace y operativo con curva salarial de sector central; validar, dictaminar y registrar para efectos presupuestarios, los catálogos de puestos y tabuladores de sueldos y salarios de las dependencias y entidades de la Administración Pública Federal, y registrar aquellos de las instituciones de banca de desarrollo y de las empresas públicas del Estado, entre otros; determinar la valoración del impacto presupuestario de las modificaciones a las estructuras ocupacionales y salariales, así como llevar el registro de las plazas presupuestarias que conforman la estructura ocupacional y las plantillas de personal que operan las dependencias y entidades de la Administración Pública Federal;
 
 XXVIII. Expedir las normas a que deberá sujetarse la formulación del presupuesto en materia de servicios personales de las dependencias y entidades de la Administración Pública Federal, para su posterior integración al proyecto de Presupuesto de Egresos de la Federación;
 
-XXIX. Emitir dictamen, en materia de control presupuestario de los servicios personales, sobre las normas que emite la Secretaría de la Función Pública en materia de planeación y administración de recursos humanos, contratación de personal, servicio profesional de carrera en la Administración Pública Federal y estructuras orgánicas y ocupacionales;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIX. Emitir dictamen, en materia de control presupuestario de los servicios personales, sobre las normas que expida la Secretaría Anticorrupción y Buen Gobierno en materia de planeación y administración de recursos humanos, contratación de personal, servicio profesional de carrera en la Administración Pública Federal y estructuras orgánicas y ocupacionales;
 
 XXX. Autorizar las condiciones generales de trabajo de las dependencias y los organismos descentralizados señalados en el artículo 1o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, que contengan prestaciones económicas que signifiquen erogaciones con cargo al Gobierno federal y que deban cubrirse a través del Presupuesto de Egresos de la Federación, así como de aprobar las condiciones generales de trabajo de las instituciones a que se refiere la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XXXI. Emitir resoluciones, en el ámbito presupuestario, en los términos de las disposiciones jurídicas aplicables, sobre beneficios con cargo al erario federal, respecto de pensiones civiles y de gracia, haberes de retiro, pensiones y compensaciones militares;
 
-XXXII. Determinar, con la opinión de las direcciones generales de Programación y Presupuesto “A, “B” o “C”, reducciones, diferimientos o cancelaciones de programas y conceptos de gasto de las dependencias y entidades de la Administración Pública Federal, cuando ello represente la posibilidad de obtener ahorros en función de la productividad y eficiencia de las mismas, cuando dejen de cumplir sus propósitos o, por situaciones supervenientes; en su caso, llevar a cabo las adecuaciones presupuestarias de reserva de recursos de carácter preventivo en forma definitiva o temporal y, cuando corresponda, emitir las cuentas por liquidar certificadas especiales que afecten los presupuestos de los ramos presupuestarios respectivos, en los términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXII. Determinar reducciones, diferimientos o cancelaciones de programas y conceptos de gasto de las dependencias y entidades de la Administración Pública Federal, cuando ello represente la posibilidad de obtener ahorros en función de la productividad y eficiencia de estos entes públicos, cuando dejen de cumplir sus propósitos o, por situaciones supervenientes; llevar a cabo, en su caso, las adecuaciones presupuestarias de reserva de recursos de carácter preventivo en forma definitiva o temporal y, cuando corresponda, emitir las cuentas por liquidar certificadas especiales que afecten los presupuestos de los ramos presupuestarios respectivos, en términos de las disposiciones jurídicas aplicables;
 
 XXXIII. Diseñar y emitir las disposiciones, mecanismos y sistemas de control presupuestario, generales o específicos, que se requieran para mejorar la eficiencia, eficacia, economía, racionalidad, austeridad y transparencia en el proceso presupuestario en apoyo al cumplimiento de los objetivos y metas de los programas presupuestarios;
 
 XXXIV. Establecer los lineamientos o normas para la contratación consolidada de los seguros institucionales en beneficio de las personas servidoras públicas y aquellas relativas al seguro colectivo de vida para los jubilados y pensionados de las dependencias y entidades de la Administración Pública Federal, en términos de las disposiciones jurídicas aplicables, así como realizar las acciones necesarias para su contratación;
 
-XXXV. Resolver los asuntos que las disposiciones legales que regulan las materias de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría y no estén asignadas expresamente a otra unidad administrativa de la misma;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXV. Resolver los asuntos que las disposiciones que regulan las materias de presupuesto, ejercicio, control y seguimiento del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría y no estén conferidas expresamente a otra unidad administrativa de esta dependencia;
 
 XXXVI. Emitir, modificar y actualizar el clasificador por objeto del gasto aplicable a la Administración Pública Federal considerando el clasificador presupuestario armonizado expedido por el Consejo Nacional de Armonización Contable;
 
@@ -4519,17 +4733,109 @@ XXXIX. Emitir en materia de control presupuestario de los servicios personales, 
 
 XL. Emitir dictámenes, autorizaciones u opiniones en materia de austeridad presupuestaria, en los supuestos establecidos en las disposiciones de la materia, siempre y cuando esas facultades no estén asignadas expresamente a otra unidad administrativa de la Secretaría en términos de las disposiciones aplicables, así como formular propuestas de políticas en materia de austeridad presupuestaria;
 
-XLI. Emitir disposiciones específicas de control presupuestario relacionadas con el cierre del ejercicio fiscal, así como mecanismos para el control del gasto ejercido, a fin de que las dependencias y entidades de la Administración Pública Federal lleven a cabo las acciones para lograr un cierre ordenado, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XLII. Definir los flujos de autorización comprendidos en los tramos de control y las unidades administrativas de la Subsecretaría de Egresos y de los ejecutores de gasto que participan en los trámites y, en su caso, en las autorizaciones que se realizan a través de los sistemas del Proceso Integral de Programación y Presupuesto; de Control Presupuestario de los Servicios Personales, y de Adecuaciones Presupuestarias, de conformidad con los procesos que comprenden dichos sistemas, así como con las facultades y los niveles jerárquicos requeridos para las personas servidoras públicas que intervengan en los mismos, de conformidad con las disposiciones jurídicas aplicables.
+XLI. Emitir disposiciones específicas de control presupuestario relacionadas con el cierre del ejercicio fiscal, así como mecanismos para el control del gasto ejercido, a fin de que las dependencias y entidades de la Administración Pública Federal lleven a cabo las acciones para lograr un cierre ordenado;
 
-Artículo 21 A.- La Dirección General de Control Presupuestario de Servicios Personales y Seguridad Social tiene las atribuciones siguientes:
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLII. Definir los flujos de autorización comprendidos en los tramos de control y las unidades administrativas adscritas a la Subsecretaría de Egresos y de los ejecutores de gasto que participan en los trámites y, en su caso, en las autorizaciones que se realizan a través de los sistemas del Proceso Integral de Programación y Presupuesto, de Control Presupuestario de los Servicios Personales, y de Adecuaciones Presupuestarias, así como con las facultades y los niveles jerárquicos requeridos para las personas servidoras públicas que intervengan en dichos sistemas, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLIII. Emitir el pronunciamiento que corresponda desde el ámbito presupuestario respecto de las solicitudes que presenten las dependencias y entidades de la Administración Pública Federal relacionadas con la adquisición de tecnologías de información y comunicaciones, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLIV. Emitir los dictámenes presupuestarios para la transferencia de recursos autorizados en relación con la atención de los desastres naturales a los ramos administrativos que corresponda, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLV. Emitir autorizaciones especiales para convocar, adjudicar y, en su caso, formalizar contratos para adquisiciones, arrendamientos, prestación de servicios y obra pública, cuya vigencia inicie en el ejercicio fiscal siguiente a aquel en el que se solicita, a las dependencias y entidades de la Administración Pública Federal, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLVI. Analizar y, en su caso, emitir las autorizaciones presupuestarias, respecto de las solicitudes que presenten las dependencias de la Administración Pública Federal para celebrar contratos de obra pública, adquisiciones, arrendamientos y prestación de servicios, que abarquen más de un ejercicio fiscal, así como emitir las opiniones correspondientes en el caso de las entidades de control directo, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLVII. Revisar y emitir la autorización presupuestal de las reglas de operación de los programas que involucren el otorgamiento de subsidios por parte de las dependencias y entidades de la Administración Pública Federal, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLVIII. Gestionar el dictamen de proyectos de infraestructura productiva de largo plazo susceptibles de ser incorporados al proyecto de Presupuesto de Egresos de la Federación, así como llevar el seguimiento presupuestario del avance en la ejecución, cierre de obra y operación de los proyectos, y verificar que se apeguen a los términos y condiciones autorizados;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XLIX. Dictaminar la procedencia de las solicitudes de acuerdos de ministración presentadas por las dependencias y entidades de la Administración Pública Federal y establecer el monto máximo procedente para someterlas a la autorización de la persona titular de la Subsecretaría de Egresos, así como, en su caso, autorizar las respectivas prórrogas para su regularización;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+L. Proponer y, en su caso, opinar a su superior jerárquico o a las unidades administrativas competentes de la Secretaría sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LI. Analizar y, en su caso, emitir las autorizaciones correspondientes para realizar pagos a través del instrumento presupuestario denominado comisionado habilitado o de la constitución del fondo rotatorio, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LII. Determinar, cuando proceda, los compromisos presupuestarios futuros que, en su caso, llegaren a originar los proyectos de asociaciones público privadas, con base en las estimaciones realizadas por las dependencias y entidades de la Administración Pública Federal interesadas, así como el margen disponible de asignación anual de recursos presupuestarios que dichas dependencias y entidades podrán destinar a la contratación de proyectos de asociaciones público privadas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LIII. Integrar, calendarizar y transferir, con base en las solicitudes de los institutos de Seguridad Social y los ejecutores de gasto, los recursos que se aprueben para el ramo general correspondiente a Aportaciones a Seguridad Social en el Presupuesto de Egresos de la Federación, para efectos de que dichos institutos y ejecutores de gasto administren y ejerzan esos recursos, así como llevar a cabo el respectivo registro del presupuesto correspondiente a este ramo general;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LIV. Integrar y transferir los recursos que se aprueben para el ramo general correspondiente a Aportaciones Federales para Entidades Federativas y Municipios en el Presupuesto de Egresos de la Federación, para efectos de que los gobiernos de las entidades federativas y, en su caso, de los municipios y demarcaciones territoriales de Ciudad de México, administren y ejerzan las aportaciones federales correspondientes, de conformidad con lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, así como llevar a cabo el respectivo registro del presupuesto correspondiente a dicho ramo general;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LV. Gestionar los movimientos presupuestarios de los fondos de Aportaciones para la Nómina Educativa y Gasto Operativo, de Aportaciones para los Servicios de Salud, de Aportaciones Múltiples, de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, y de Aportaciones para la Educación Tecnológica y de Adultos a solicitud de las dependencias coordinadoras de cada fondo, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LVI. Coordinar las actividades de seguimiento del gasto público, para la determinación y distribución de los recursos de los fondos de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, y para el Fortalecimiento de las Entidades Federativas, con la participación que corresponda a las demás unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LVII. Participar con las unidades administrativas competentes que están adscritas a la Subsecretaría de Egresos y de la Tesorería de la Federación en la integración de la información que se emitirá y publicará en el Diario Oficial de la Federación correspondiente al monto y la calendarización, así como a la ministración de los recursos del ramo general correspondiente a Aportaciones Federales para Entidades Federativas y Municipios, conforme al monto total aprobado en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LVIII. Revisar y cargar en el sistema presupuestario correspondiente el anteproyecto del presupuesto regularizable de servicios personales del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo y del Fondo de Aportaciones para la Educación Tecnológica y de Adultos, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LIX. Fungir como ventanilla única de la Subsecretaría de Egresos ante los órganos administrativos desconcentrados de la Secretaría, de las entidades paraestatales sectorizadas a esta y, en su caso, de las entidades paraestatales no sectorizadas, para la atención de todos los asuntos relacionados con la presupuestación, integración y ejecución de sus presupuestos, así como de otra información relativa a programas institucionales;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LX. Proponer las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de los órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LXI. Emitir las autorizaciones que, en términos de las disposiciones de austeridad republicana expedidas por la persona titular de la Secretaría en el ámbito de sus atribuciones, se establezcan en materia de servicios de telefonía móvil, congresos y convenciones, viáticos y pasajes, entre otros, para las personas servidoras públicas que así lo acrediten;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LXII. Comunicar a los órganos administrativos desconcentrados de la Secretaría y a las entidades paraestatales sectorizadas a esta, así como a las entidades paraestatales no sectorizadas, las normas, lineamientos, políticas y demás disposiciones que en materia presupuestaria y del ejercicio del gasto se emitan, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+LXIII. Establecer los sectores presupuestarios de competencia de las direcciones generales de Análisis Presupuestario y Seguimiento del Gasto "A" y “B”.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 21 A.- La Dirección General de Control Presupuestario y Seguimiento del Gasto de Servicios Personales y Seguridad Social tiene las atribuciones siguientes:
 
 I. Proponer las políticas de gasto público federal para la definición de los niveles de gasto que permitan una adecuada formulación de los programas, proyectos y presupuestos en materia de servicios personales, con base en el seguimiento de indicadores de parámetros salariales, así como de su impacto en el Presupuesto de Egresos de la Federación;
 
 II. Formular y proponer, para aprobación superior, normas y escenarios de gasto en materia de servicios personales, para la estimación del presupuesto regularizable de servicios personales y para la elaboración del Analítico de Plazas y Remuneraciones, y demás instrumentos que en la materia se requieran, con el fin de que las dependencias y entidades de la Administración Pública Federal lleven a cabo las modificaciones a sus estructuras ocupacionales y salariales de manera oportuna;
 
-III. Determinar, en coordinación con las direcciones generales de Programación y Presupuesto “A”, “B” y “C”, el nivel de gasto correspondiente al presupuesto regularizable de servicios personales, así como de las previsiones salariales para cada ejercicio fiscal, a través de los sistemas electrónicos de la Secretaría, para que las dependencias y entidades de la Administración Pública Federal cubran las erogaciones necesarias;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+III. Determinar el nivel de gasto correspondiente al presupuesto regularizable de servicios personales, así como de las previsiones salariales para cada ejercicio fiscal, a través de los sistemas electrónicos de la Secretaría, para que las dependencias y entidades de la Administración Pública Federal cubran las erogaciones necesarias;
 
 IV. Dirigir la integración de la información para la formulación del proyecto de Presupuesto de Servicios Personales, en términos de lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
@@ -4553,13 +4859,19 @@ XIII. Proponer al superior jerárquico políticas públicas de modernización pr
 
 XIV. Integrar el Tomo IX Analítico de Plazas y Remuneraciones del proyecto de Presupuesto de Egresos de la Federación correspondiente, mediante la recepción de la información de los Poderes Legislativo y Judicial y de los entes autónomos, así como de la actualización de las estructuras ocupacionales y salariales autorizadas y registradas para las dependencias y entidades de la Administración Pública Federal y del costeo de sus remuneraciones;
 
-XV. Integrar la información de los tabuladores de sueldos y salarios del Presidente de la República y de las personas servidoras públicas de mando, enlace y operativo con curva salarial de sector central, con base en las disposiciones del Presupuesto de Egresos de la Federación y la política definida en materia de servicios personales, para su comunicación a las dependencias y entidades de la Administración Pública Federal, con el propósito de que estas los apliquen y, en su caso, soliciten la emisión de los tabuladores de sueldos y salarios con curva específica que se modifican con base en lo comunicado;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XVI. Coordinar el análisis comparativo del contrato vigente y contratos anteriores del seguro de vida institucional y seguro de retiro, allegándose de un análisis actuarial, administrativo, contable y económico de la información que se genere como parte de la administración de dichos seguros, que permitan conocer la situación de las colectividades y la evolución de la siniestralidad en los contratos que administran, con el propósito de proponer modificaciones o actualizaciones a la misma, así como generar información de utilidad para la toma de decisiones por parte de la Unidad de Política y Control Presupuestario respecto del período de contratación siguiente;
+XV. Integrar la información de los tabuladores de sueldos y salarios de la persona titular del Ejecutivo Federal y de las personas servidoras públicas de mando, enlace y operativo con curva salarial de sector central, con base en las disposiciones del Presupuesto de Egresos de la Federación y la política definida en materia de servicios personales, así como comunicar estos tabuladores a las dependencias y entidades de la Administración Pública Federal, con el propósito de que estas los apliquen y, en su caso, soliciten la emisión de los tabuladores de sueldos y salarios con curva específica que se modifican con base en lo comunicado;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Coordinar el análisis comparativo del contrato vigente con los contratos anteriores del seguro de vida institucional y del seguro de retiro, con base en un análisis actuarial, administrativo, contable y económico de la información que se genere como parte de la administración de dichos seguros, que permitan conocer la situación de las colectividades y la evolución de la siniestralidad en los contratos que administran, así como proponer, en su caso, modificaciones o actualizaciones para la contratación de dichos seguros, y generar información de utilidad para la toma de decisiones por parte de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto respecto del período de contratación siguiente;
 
 XVII. Establecer en cada ejercicio presupuestal, la previsión del Fondo de Ahorro Capitalizable de los Trabajadores al Servicio del Estado por lo que hace a las aportaciones que le corresponden al Gobierno federal, y registrar y calcular el Fondo respecto a su integración en el presupuesto del Ramo General 23 Provisiones Salariales y Económicas;
 
-XVIII. Analizar las disposiciones jurídicas aplicables en materia presupuestaria de los seguros en favor de las personas servidoras públicas, establecidos como prestaciones en el manual de percepciones de los servidores públicos de las dependencias y entidades de la Administración Pública Federal así como proponer, para consideración de la persona titular de la Unidad de Política y Control Presupuestario, normas, mecanismos y esquemas de control presupuestario en esa materia que deben observar las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVIII. Analizar las disposiciones jurídicas aplicables en materia presupuestaria de los seguros en favor de las personas servidoras públicas, establecidos como prestaciones en el manual de percepciones de los servidores públicos de las dependencias y entidades de la Administración Pública Federal, así como proponer, para consideración de la persona titular de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, normas, mecanismos y esquemas de control presupuestario en esta materia que deben observar las dependencias y entidades de la Administración Pública Federal;
 
 XIX. Proponer al superior jerárquico los mecanismos, en el ámbito presupuestario, para que las dependencias y entidades de la Administración Pública Federal registren y modifiquen sus estructuras ocupacionales y salariales en el Módulo para el Sistema de Control Presupuestario de los Servicios Personales;
 
@@ -4567,199 +4879,415 @@ XX. Colaborar en la integración del proyecto de Presupuesto de Servicios Person
 
 XXI. Coordinar los trámites conducentes, ante la instancia competente de la Secretaría, para la contratación consolidada en materia de seguros institucionales para las personas servidoras públicas y el seguro colectivo para los jubilados y pensionados de la Administración Pública Federal, y
 
-XXII. Dar atención a las consultas que formulen las dependencias y entidades de la Administración Pública Federal en materia de los seguros que consolida la Unidad de Política y Control Presupuestario.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-La Coordinación de Estrategia Presupuestaria en Servicios Personales podrá ejercer las atribuciones previstas en las fracciones II, III, IV, VI, VII, VIII, XI, XII, XIII, XIV, XV y XX de este artículo.
+XXII. Dar atención a las consultas que formulen las dependencias y entidades de la Administración Pública Federal en materia de los seguros que consolida la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto.
 
-La Coordinación de Seguros Institucionales podrá ejercer las atribuciones previstas en las fracciones XVI, XVII, XVIII, XX, XXI y XXII de este artículo.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-Artículo 21 B.- La Dirección General de Evaluación y Estrategia Presupuestaria tiene las atribuciones siguientes:
+La Coordinación de Control Presupuestario y Seguimiento del Gasto en Servicios Personales podrá ejercer las atribuciones previstas en las fracciones II, III, IV, VI, VII, VIII, XI, XII, XIII, XIV, XV y XX de este artículo.
 
-I. Proponer las previsiones de gasto para su incorporación al proyecto de Presupuesto de Egresos de la Federación para llevar a cabo acciones preventivas o ejecutar programas y proyectos para atender los daños ocasionados por fenómenos naturales; así como el seguimiento presupuestario de dichos recursos en los términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-II. Autorizar el traspaso o, en su caso, la transferencia de los recursos autorizados en el Ramo General 23 Provisiones Salariales y Económicas a los ramos administrativos que corresponda, para ser destinados a las zonas afectadas por desastres naturales, así como a los proyectos de reconstrucción anuales y plurianuales, y dar seguimiento a esos recursos, en los términos de los calendarios establecidos;
+La Coordinación de Seguros Institucionales y del Fondo de Ahorro Capitalizable de los Trabajadores al Servicio del Estado podrá ejercer las atribuciones previstas en las fracciones XVI, XVII, XVIII, XX, XXI y XXII de este artículo.
 
-III. Elaborar los dictámenes presupuestales correspondientes, para la transferencia de recursos autorizados en relación con la atención de los desastres naturales a los ramos administrativos que corresponda, en coordinación con las unidades administrativas competentes que están adscritas a la Unidad de Política y Control Presupuestario;
+Artículo 21 B.- (DEROGADO, D.O.F. 24 DE FEBRERO DE 2025)
 
-IV. Elaborar los informes y reportes sobre el ejercicio del gasto que realizan las dependencias y entidades de la Administración Pública Federal, respecto de los recursos autorizados para la atención de desastres naturales y del gasto público federalizado, conforme a los registros que realicen los ramos presupuestarios relativos a la evolución del ejercicio de esos recursos;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-V. Establecer los criterios y el proceso para la solicitud, transferencia, aplicación y erogación de los recursos que se entregarán a través del Fideicomiso para la Infraestructura en los Estados, así como para el seguimiento, control, rendición de cuentas y transparencia respecto de dichos recursos;
+Artículo 21 C.- La Dirección General de Diseño e Integración Presupuestaria y Seguimiento del Gasto tiene las atribuciones siguientes:
 
-VI. Realizar las acciones en el ámbito de atribuciones de la Unidad de Política y Control Presupuestario, para el proceso de compensación a las entidades federativas y municipios por la disminución en el monto de las participaciones vinculadas con la recaudación federal participable estimada en la Ley de Ingresos con cargo a los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-VII. Diseñar mejoras para la operación de sistemas de información presupuestaria, para entidades federativas y municipios, de conformidad con las disposiciones establecidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como en el Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables;
-
-VIII. Diseñar, en coordinación con otras unidades administrativas de la Unidad de Política y Control Presupuestario, los convenios y mecanismos específicos para el otorgamiento de subsidios a entidades federativas y municipios;
-
-IX. Proponer al superior jerárquico, la emisión de normas y lineamientos para la operación de los fondos autorizados con cargo al Ramo General 23, incluyendo aquellos que se asignen para entidades federativas y municipios;
-
-X. Administrar en el ámbito presupuestario, el Ramo General 23 Provisiones Salariales y Económicas en lo correspondiente a los recursos que se asignen a las entidades federativas y los municipios;
-
-XI. Realizar, en el ámbito de su competencia y en coordinación con las unidades administrativas competentes de la Secretaría, las acciones en materia de programación y control del Ramo General relativo a las participaciones a entidades federativas y municipios, de conformidad con la Ley de Coordinación Fiscal, y el Presupuesto de Egresos de la Federación;
-
-XII. Brindar asesoría a las entidades federativas y municipios que lo soliciten, en materia de gasto federalizado conforme al ámbito de atribuciones de la Unidad de Política y Control Presupuestario;
-
-XIII. Participar, en el ámbito de su competencia, en los trabajos relativos a normar la calendarización de los fondos autorizados con cargo al Ramo General 23, incluyendo aquellos que se asignen para entidades federativas y municipios, e integrar los calendarios de gasto;
-
-XIV. Realizar las acciones que conforme al ámbito de atribuciones de la Unidad de Política y Control Presupuestario correspondan, para la transferencia a las entidades federativas de los recursos por concepto de los ingresos que se obtengan por la recaudación del derecho por el acceso a museos, monumentos y zonas arqueológicas, de conformidad con las disposiciones jurídicas aplicables;
-
-XV. Definir y desarrollar políticas, normas y sistemas informáticos y de información institucional relacionados con el gasto federalizado, así como lo relativo con el sistema de control y seguimiento de los proyectos de modernización presupuestaria del gasto público de los estados y municipios, en coordinación, en su caso, con las unidades administrativas competentes de la Secretaría;
-
-XVI. Autorizar y controlar la asignación de las claves de acceso a los sistemas de información presupuestaria, para entidades federativas y municipios, de conformidad con las disposiciones establecidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como en el Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables;
-
-XVII. Evaluar la información generada del análisis de las características propias de los proyectos especiales en su instrumentación en los estados y municipios, y establecer la metodología para la elaboración y presentación de los proyectos de modernización presupuestaria del gasto público;
-
-XVIII. Establecer el diseño de las bases de datos, repositorios de información, matrices, instrumentos de medición, aplicación de lineamientos y políticas internas de mejora presupuestaria del gasto público de las dependencias y entidades de la Administración Pública Federal;
-
-XIX. Colaborar, en coordinación con las unidades administrativas competentes de la Secretaría, en proyectos de mejora y modernización del gasto en la Administración Pública Federal, así como en estudios coyunturales de la materia, y
-
-XX. Conducir la coordinación de las acciones entre las dependencias y entidades de la Administración Pública Federal y las unidades administrativas de la Subsecretaría de Egresos, para la atención y seguimiento de los temas estratégicos que deriven de los proyectos de modernización presupuestaria de gasto público, con base en las prioridades, lineamientos y políticas establecidas para tal efecto.
-
-La Coordinación de Estrategia y Política Presupuestaria podrá ejercer las atribuciones previstas en las fracciones VII, VIII, X, XI, XII, XIII, XV, XVI y XVII de este artículo.
-
-Artículo 21 C.- La Dirección General de Programación, Integración Presupuestaria y Seguimiento al Gasto tiene las atribuciones siguientes:
-
-I. Elaborar los reportes estadísticos y los globalizados del ejercicio del gasto, con base en la información de las dependencias y entidades de la Administración Pública Federal y de los flujos de efectivo, generada por los sistemas a cargo de la Unidad de Política y Control Presupuestario, para la elaboración de los diversos informes que deberán servir para la presentación de Cuenta Pública, de los Informes de Labores y de los Informes Trimestrales de las Finanzas Públicas;
+I. Elaborar los reportes estadísticos y los globalizados del ejercicio del gasto, con base en la información de las dependencias y entidades de la Administración Pública Federal y de los flujos de efectivo, generada por los sistemas a cargo de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto. Dichos reportes servirán para la elaboración de los diversos informes que deban presentarse de la Cuenta Pública, de los Informes de Labores y de los Informes Trimestrales de las Finanzas Públicas;
 
 II. Llevar a cabo el seguimiento al ejercicio del gasto público federal, mediante la información contenida en los sistemas de control presupuestario, así como la información de las dependencias y entidades de la Administración Pública Federal;
 
-III. Proponer disposiciones específicas de control presupuestario a través de medios electrónicos o físicos, que permitan a las dependencias y entidades de la Administración Pública Federal realizar acciones para lograr un cierre ordenado del ejercicio presupuestario conforme a las disposiciones jurídicas aplicables;
+III. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-IV. Emitir mecanismos y esquemas de control presupuestario, generales y específicos, a través de los sistemas de registro y control presupuestario, así como proponer las disposiciones normativas para mejorar la eficiencia, eficacia, economía, racionalidad, austeridad y transparencia en el proceso presupuestario con la finalidad de apoyar el cumplimiento de los objetivos y metas de los programas presupuestarios;
+IV. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-V. Administrar, en su caso, con las diferentes unidades administrativas de la Secretaría, de los sistemas de información para el registro y control presupuestario, con el fin de llevar a cabo el proceso integral de programación y presupuesto, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-VI. Elaborar estudios, investigaciones e informes especializados en materia de política presupuestaria, a través de la coordinación con las diferentes unidades administrativas de la Subsecretaría de Egresos, con la finalidad de proponer medidas que promuevan la orientación a resultados del presupuesto;
+V. Administrar, en su caso, con las unidades administrativas competentes de la Secretaría, los sistemas de información para el registro y control presupuestario, que permitan llevar a cabo el proceso integral de presupuesto, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VI. Elaborar estudios, investigaciones e informes especializados en materia de política presupuestaria, en coordinación con las unidades administrativas adscritas a la Subsecretaría de Egresos, así como proponer, en su caso, medidas que promuevan una eficiencia en el gasto público;
 
 VII. Coordinar el registro presupuestario del Ramo General 30 Adeudos de Ejercicios Fiscales Anteriores, a través de los sistemas de integración presupuestaria, con el objetivo de integrar la información del pasivo circulante que reportan los ejecutores de gasto y operar dicho Ramo en el ámbito presupuestario de conformidad con las disposiciones jurídicas aplicables;
 
-VIII. Proponer, al superior jerárquico, los criterios, procedimientos y prioridades para la asignación, seguimiento y evaluación sistemática del gasto público, a través de la coordinación con las diferentes unidades administrativas de la Subsecretaría de Egresos, con la finalidad de establecer medidas que promuevan una mejor asignación de recursos en el presupuesto;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-IX. Proponer al superior jerárquico las normas y metodologías, en materia presupuestaria, a través de documentos físicos o electrónicos, para la integración del Proyecto y del Aprobado del Presupuesto de Egresos de la Federación;
+VIII. Proponer a su superior jerárquico, los criterios, procedimientos y prioridades para la asignación y seguimiento del gasto público, en coordinación con las unidades administrativas adscritas a la Subsecretaría de Egresos, así como establecer, en su caso, medidas que promuevan una mejor asignación de recursos en el presupuesto;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+IX. Proponer a su superior jerárquico las metodologías en materia de presupuestación, para la integración del proyecto y del aprobado del Presupuesto de Egresos de la Federación;
 
 X. Coordinar la integración del proyecto de Presupuesto de Egresos de la Federación para cada ejercicio fiscal, con la participación que corresponda de las diferentes unidades administrativas de la Secretaría, para consolidar los programas y presupuestos sectoriales, institucionales, regionales y especiales, y compatibilizar el nivel de gasto global con los requerimientos presupuestarios de los sectores;
 
-XI. Proponer mejoras a los sistemas de registro y control presupuestario, a través de la retroalimentación con las diferentes unidades responsables, con el fin de mejorar el proceso integral de programación, presupuestación, seguimiento y cierre del ejercicio presupuestario;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XI. Proponer mejoras a los sistemas de registro y control presupuestario, a través de la retroalimentación con las diferentes unidades responsables, con el fin de mejorar el proceso integral de presupuestación, seguimiento y cierre del ejercicio presupuestario;
 
 XII. Colaborar en la coordinación, instrumentación y registro, con la participación de las unidades administrativas competentes de la Secretaría, de las adecuaciones correspondientes al gasto público durante su ejercicio a través del análisis de la información capturada en el Módulo de Adecuaciones Presupuestarias de Entidades y el Módulo de Adecuaciones Presupuestarias para permitir un mejor cumplimiento de los objetivos de los programas a cargo de las dependencias y entidades de la Administración Pública Federal;
 
-XIII. Fungir como responsable del presupuesto aprobado del Ramo General 23 Provisiones Salariales y Económicas, a través de los sistemas presupuestarios, para realizar el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dicho Ramo, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Fungir como responsable de la administración y calendarización del presupuesto aprobado del Ramo General 23 Provisiones Salariales y Económicas, a través de los sistemas presupuestarios, para realizar el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dicho Ramo, de conformidad con las disposiciones jurídicas aplicables;
 
 XIV. Coordinar, integrar y elaborar estadísticas e informes sobre el ejercicio de gasto a través del seguimiento y control de la información, con el propósito de fortalecer la toma de decisiones relacionada con la conducción de la política de gasto y de las finanzas públicas, así como para su integración en la información que se entregue al Congreso de la Unión o a la Cámara de Diputados, de acuerdo a lo establecido en las disposiciones jurídicas aplicables;
 
-XV. Participar con otras unidades administrativas de la Subsecretaría de Egresos y de la Unidad de Política y Control Presupuestario, en la elaboración de propuestas de normas presupuestarias mediante documentos de carácter regulatorio, relativos al ejercicio del gasto, en congruencia con el Plan Nacional de Desarrollo, así como con el decreto de Presupuesto de Egresos de la Federación, a efecto de fortalecer la política presupuestaria;
+XV. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-XVI. Proponer a las dependencias y entidades de la Administración Pública Federal los aspectos sobre el seguimiento y resultados que deben reportar en las estrategias, líneas de acción e indicadores asociados a los Programas emanados del Plan Nacional de Desarrollo y que queden bajo la coordinación de la Unidad de Política y Control Presupuestario;
+XVI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-XVII. Recabar los documentos relativos al análisis de información normativa y estadística, para elaborar los informes sobre el ejercicio del gasto; atención de auditorías y demás procesos de fiscalización, en el ámbito de competencia de la Unidad de Política y Control Presupuestario;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XVIII. Diseñar y desarrollar políticas, normas y sistemas que permitan integrar, analizar y evaluar el estado del ejercicio del gasto público federal, incluyendo el control presupuestario de los servicios personales, el gasto federalizado y regional, de conformidad con las disposiciones establecidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como en el Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables;
+XVII. Recabar los documentos relativos al análisis de información estadística, para elaborar los informes sobre el ejercicio del gasto, la atención de auditorías y demás procesos de fiscalización, en el ámbito de competencia de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto;
 
-XIX. Realizar el seguimiento de la información de los fideicomisos, mandatos y actos análogos contenida en el sistema de control y transparencia de fideicomisos para efectos de integración de los informes sobre el ejercicio del gasto, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-La Coordinación de Análisis e Información podrá ejercer las atribuciones previstas en las fracciones I, VI, XIV, XV, XVI, XVII y XIX de este artículo.
+XVIII. Diseñar políticas y sistemas que permitan integrar, analizar y evaluar el estado del ejercicio del gasto público federal, incluido el control presupuestario de los servicios personales, el gasto federalizado y regional, de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como en el Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables;
 
-Artículo 21 D.- La Dirección General de Normatividad Presupuestaria tiene las atribuciones siguientes:
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-I. Coadyuvar junto con la Unidad Jurídica de Egresos, en la revisión del anteproyecto de Decreto de Presupuesto de Egresos de la Federación;
+XIX. Realizar el seguimiento de la información de los fideicomisos, mandatos y actos análogos contenida en el sistema de control y transparencia de fideicomisos para efectos de integración de los informes sobre el ejercicio del gasto;
 
-II. Coordinar las acciones con las unidades administrativas competentes de la Unidad de Política y Control Presupuestario para que en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, se incorporen las disposiciones de control presupuestario de los servicios personales;
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-III. Integrar, revisar y, en su caso, modificar proyectos de disposiciones jurídicas en materia presupuestaria que deberán observar las dependencias y entidades de la Administración Pública Federal, con el propósito de que los recursos públicos federales se ejerzan conforme a los criterios de honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia y control, así como someter a la consideración del superior jerárquico, dichos proyectos;
+XX. Llevar a cabo, de conformidad con las disposiciones jurídicas aplicables y en el sistema establecido para ello, el registro, renovación, actualización, modificación y baja de las claves de los fideicomisos, mandatos y actos análogos, que involucren recursos presupuestarios solicitados por las dependencias y entidades de la Administración Pública Federal que los coordinan o les aportan dichos recursos;
 
-IV. Emitir opiniones normativas en materia de programación, presupuestación, control y ejercicio del gasto público federal respecto de las atribuciones que correspondan a la Unidad de Política y Control Presupuestario, derivado de las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal;
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXI. Dar seguimiento a los recursos que, con cargo al Ramo General 23 Provisiones Salariales y Económicas, se traspasen a los ramos administrativos que correspondan, para ser destinados a las zonas afectadas por desastres naturales, así como a los proyectos de reconstrucción anuales y plurianuales, en los términos de los calendarios establecidos, así como elaborar informes y reportes sobre el ejercicio del gasto en este rubro;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXII. Realizar las acciones que correspondan, conforme a las atribuciones de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, para la transferencia de recursos a las entidades federativas y municipios con cargo al Ramo General 23 Provisiones Salariales y Económicas, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIII. Establecer los criterios y el proceso para la solicitud, transferencia, aplicación y erogación de los recursos que se entregarán a través del Fideicomiso para la Infraestructura en los Estados, así como para el seguimiento, control, rendición de cuentas y transparencia respecto de dichos recursos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIV. Realizar las acciones, de conformidad con las atribuciones de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, para el proceso de compensación a las entidades federativas y municipios por la disminución en el monto de las participaciones vinculadas con la recaudación federal participable estimada en la Ley de Ingresos con cargo a los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXV. Dar seguimiento a los recursos que se transfieran a las entidades federativas y municipios con cargo al Ramo General 23 Provisiones Salariales y Económicas en términos de los convenios que se celebren y mecanismos específicos que correspondan, así como elaborar informes y reportes sobre el ejercicio de estos recursos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVI. Diseñar políticas y sistemas informáticos y de información institucional relacionados con el gasto federalizado, así como lo relativo con el sistema de control y seguimiento de los proyectos de modernización presupuestaria del gasto público de las entidades federativas y municipios, en coordinación, en su caso, con las unidades administrativas competentes de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVII. Autorizar y controlar la asignación de las claves de acceso a los sistemas de información presupuestaria para las entidades federativas y municipios, de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como en el Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVIII. Establecer el diseño de las bases de datos, repositorios de información, matrices, instrumentos de medición y aplicación de políticas internas de mejora presupuestaria del gasto público de las dependencias y entidades de la Administración Pública Federal, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIX. Proponer y diseñar para aprobación superior estrategias y políticas de control y seguimiento para hacer más eficiente la gestión del ejercicio del gasto de las dependencias y entidades de la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Integración de Información Presupuestaria podrá ejercer las atribuciones previstas en las fracciones I, VI, XIV, XV, XVI, XVII, XIX y XX de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Estrategia, Control y Seguimiento del Gasto podrá ejercer las atribuciones previstas en las fracciones XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII y XXIX de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 21 D.- La Dirección General de Diseño de la Política Presupuestaria tiene las atribuciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+I. Coadyuvar junto con la Unidad de Asuntos Jurídicos de Egresos, en la revisión del anteproyecto de Decreto de Presupuesto de Egresos de la Federación;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+II. Coordinar las acciones con las unidades administrativas competentes de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto para que en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, se incorporen las disposiciones de control presupuestario de los servicios personales;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+III. Elaborar, integrar, revisar, y, en su caso, modificar los proyectos de las disposiciones jurídicas en materia presupuestaria que deberán observar las dependencias y entidades de la Administración Pública Federal, con el propósito de que los recursos públicos federales se ejerzan conforme a los criterios de honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia y control, así como someter a la consideración de su superior jerárquico dichos proyectos;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+IV. Emitir opiniones normativas en materia de presupuestación, control y ejercicio del gasto público federal respecto de las atribuciones que correspondan a la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, derivado de las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal, así como de los poderes legislativo y judicial, y entes autónomos;
 
 V. Proponer al superior jerárquico las modificaciones y actualizaciones del clasificador por objeto del gasto para la Administración Pública Federal considerando el clasificador presupuestario armonizado expedido por el Consejo Nacional de Armonización Contable;
 
 VI. Emitir opiniones respecto de las consultas normativas que presenten las dependencias y entidades en materia del clasificador por objeto del gasto para la Administración Pública Federal;
 
-VII. Integrar, revisar, modificar y someter a la aprobación superior, las propuestas de políticas, mecanismos, esquemas y disposiciones generales o específicas en materia del control presupuestario y del ejercicio del gasto público federal, que se requieran en apoyo al cumplimiento de los objetivos y metas de los programas presupuestarios autorizados a las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VII. Integrar, revisar, modificar y someter a la aprobación de su superior jerárquico, las propuestas de políticas, mecanismos, esquemas y disposiciones generales o específicas en materia del control presupuestario y del ejercicio del gasto público federal, que se requieran en apoyo al gasto público a cargo de las dependencias y entidades de la Administración Pública Federal;
 
 VIII. Elaborar y proponer el proyecto de decreto que establece el otorgamiento del aguinaldo o gratificación que corresponda a las personas servidoras públicas, con el propósito de que se someta a la aprobación de la persona titular del Ejecutivo Federal, así como proponer la emisión de los lineamientos o disposiciones específicos para la aplicación del Decreto antes referido, así como los relativos a las medidas de fin de año para las personas servidoras públicas de la Administración Pública Federal;
 
-IX. Integrar, revisar, modificar y someter a la aprobación superior, la propuesta del manual de percepciones de los servidores públicos de las dependencias y entidades de la Administración Pública Federal que se emite cada ejercicio fiscal; así como proponer, para aprobación, superior los proyectos o modificaciones de las normas, lineamientos, criterios, métodos y procedimientos, para el control presupuestario de servicios personales que se realiza, a través de las acciones de coordinación interna con las diversas unidades administrativas de la Unidad de Política y Control Presupuestario, a efecto de que las dependencias y entidades de la Administración Pública Federal conozcan las disposiciones generales para regular el otorgamiento de las remuneraciones de las personas servidoras públicas;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-X. Integrar, revisar y someter a la aprobación superior, en los casos que correspondan, las propuestas o modificaciones de las disposiciones específicas para el ejercicio de los recursos con cargo al ramo general relativo a las provisiones salariales y económicas, con el propósito de que ese gasto público se ejerza de manera eficiente, transparente y eficaz;
+IX. Integrar, revisar, modificar y someter a la aprobación de su superior jerárquico, la propuesta del manual de percepciones de los servidores públicos de las dependencias y entidades de la Administración Pública Federal que se emite cada ejercicio fiscal, así como proponer, para aprobación de su superior jerárquico, los proyectos o modificaciones de las normas, lineamientos, criterios, métodos y procedimientos para el control presupuestario de servicios personales que se realiza, en coordinación con las unidades administrativas competentes de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, a efecto de que las dependencias y entidades de la Administración Pública Federal conozcan las disposiciones generales para regular el otorgamiento de las remuneraciones de las personas servidoras públicas;
 
-XI. Emitir el pronunciamiento que corresponda, desde el ámbito de atribuciones de la Unidad de Política y Control Presupuestario, respecto de las solicitudes que presenten las dependencias y entidades de la Administración Pública Federal relacionadas con la adquisición de tecnologías de información y comunicaciones, en términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XII. Emitir opiniones normativas a las consultas que presenten las entidades federativas en la materia relativa al gasto federalizado, respecto de las atribuciones que correspondan a la Unidad de Política y Control Presupuestario y siempre que no correspondan a las atribuciones de otra unidad administrativa de la Secretaría;
+X. Elaborar, integrar, revisar y someter a la aprobación de su superior jerárquico, en los casos que correspondan, las propuestas o modificaciones de las disposiciones específicas para el ejercicio de los recursos con cargo al Ramo General 23 Provisiones Salariales y Económicas, con el propósito de que ese gasto público se ejerza de manera eficiente, transparente y eficaz;
 
-XIII. Atender, en coordinación con las direcciones generales de la Unidad de Política y Control Presupuestario, los requerimientos que las autoridades jurisdiccionales realicen en materia presupuestaria;
+XI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-XIV. Establecer o modificar, en el ámbito de competencia de la Unidad de Política y Control Presupuestario y en coordinación con la Unidad Jurídica de Egresos, los modelos de contrato para la constitución de fideicomisos y mandatos públicos; convenios modificatorios, así como de los convenios de extinción o terminación de los mismos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XII. Emitir opiniones normativas a las consultas que presenten las entidades federativas en la materia relativa al gasto federalizado, respecto de las atribuciones que correspondan a la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto y siempre que no correspondan a las atribuciones de otra unidad administrativa de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Atender, en coordinación con las unidades administrativas de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, los requerimientos que las autoridades jurisdiccionales realicen en materia presupuestaria;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIV. Establecer o modificar, en el ámbito de competencia de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto y en coordinación con la Unidad de Asuntos Jurídicos de Egresos, los modelos de contrato para la constitución de fideicomisos y mandatos públicos, y de convenios modificatorios, así como de los convenios de extinción o terminación de dichos fideicomisos y mandatos públicos;
 
 XV. Integrar, revisar y someter a la aprobación superior, las propuestas o modificaciones de las normas y lineamientos específicos de control presupuestario que permitan a las dependencias y entidades de la Administración Pública Federal realizar acciones para lograr un cierre ordenado del ejercicio presupuestario;
 
 XVI. Atender las consultas normativas que presenten los ejecutores de gasto en materia de cierre del ejercicio presupuestario;
 
-XVII. Diseñar, en coordinación con otras unidades administrativas de la Unidad de Política y Control Presupuestario, los convenios y mecanismos específicos para el otorgamiento de subsidios a entidades federativas y municipios con cargo al ramo general relativo a las provisiones salariales y económicas;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XVIII. Emitir opiniones normativas respecto de las consultas que presenten las dependencias y entidades en materia de viáticos y pasajes para las comisiones en el desempeño de funciones de la Administración Pública Federal, relacionadas con el ámbito de atribuciones de la Unidad de Política y Control Presupuestario, y
+XVII. Diseñar, en coordinación con otras unidades administrativas de la Unidad de Diseño Presupuestario, Control y seguimiento del Gasto, los convenios y mecanismos específicos para el otorgamiento de subsidios a entidades federativas y municipios con cargo al Ramo General 23 Provisiones Salariales y Económicas;
 
-XIX. Proponer a la persona titular de la Unidad de Política y Control Presupuestario el proyecto de disposiciones específicas para los gastos de servicios de seguridad a que se refiere el artículo 6, apartado B, fracción V, de la Ley Federal de Remuneraciones de los Servidores Públicos, de conformidad con lo que se establezca en el Presupuesto de Egresos de la Federación y en el manual de percepciones de los servidores públicos de las dependencias y entidades de la Administración Pública Federal.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-La Coordinación de Normatividad Presupuestaria podrá ejercer las atribuciones previstas en las fracciones IV, VI, XI, XII, XIII, XVI y XVIII de este artículo.
+XVIII. Emitir opiniones normativas respecto de las consultas que presenten las dependencias y entidades en materia de viáticos y pasajes para las comisiones en el desempeño de funciones de la Administración Pública Federal, relacionadas con las atribuciones de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIX. Proponer a la persona titular de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto el proyecto de disposiciones específicas para los gastos de servicios de seguridad a que se refiere el artículo 6, apartado B, fracción V, de la Ley Federal de Remuneraciones de los Servidores Públicos, de conformidad con lo que se establezca en el Presupuesto de Egresos de la Federación y en el manual de percepciones de los servidores públicos de las dependencias y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XX. Compilar las normas que en materia de presupuestación, ejercicio, control y seguimiento al gasto público federal emita la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, para consulta por parte de las dependencias y entidades de la Administración Pública Federal, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXI. Emitir dictamen sobre las evaluaciones de impacto presupuestario presentadas por las dependencias y entidades de la Administración Pública Federal, respecto de los proyectos de iniciativas de leyes o decretos, así como de los proyectos de reglamentos y de las demás disposiciones administrativas de carácter general que se pretendan someter a consideración de la persona titular del Ejecutivo Federal, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 21 E.- Las direcciones generales de Análisis Presupuestario y Seguimiento del Gasto "A" y "B" tienen los sectores de competencia que determine la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto y les corresponden las atribuciones siguientes:
+
+I. Coordinar los movimientos y ajustes presupuestales de gasto corriente e inversión determinados por la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, para las dependencias y entidades de la Administración Pública Federal;
+
+II. Comunicar a las empresas públicas del Estado, la estimación preliminar de las variables macroeconómicas para el siguiente ejercicio fiscal que establezca la Secretaría, para la elaboración de su respectivo proyecto de presupuesto consolidado;
+
+III. Formular los anteproyectos de presupuesto de las dependencias y entidades de la Administración Pública Federal, que no hayan sido presentados en los términos y fechas previstas, por las dependencias coordinadoras de sector o directamente por las entidades paraestatales no sectorizadas, e informar de tales hechos a la Secretaría Anticorrupción y Buen Gobierno;
+
+IV. Analizar los escenarios indicativos consolidados de la meta de balance financiero de las empresas públicas del Estado, así como el techo global correspondiente de erogaciones para servicios personales y, en su caso, ajustar dicha meta de balance o el techo global de servicios personales para efectos de su integración al Proyecto de Presupuesto de Egresos de la Federación;
+
+V. Analizar y, en su caso, validar los calendarios del ejercicio de los presupuestos aprobados a las dependencias y entidades de la Administración Pública Federal, conforme a las disposiciones establecidas por la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, con base en la estimación anual del gasto;
+
+VI. Autorizar, en los términos de las disposiciones jurídicas aplicables, las adecuaciones presupuestales que presenten las dependencias y entidades de la Administración Pública Federal, así como los ramos autónomos para modificar sus respectivos presupuestos;
+
+VII. Participar en los grupos de trabajo que analizan las propuestas de convenios y bases de desempeño, para ser presentadas a la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, así como realizar el seguimiento correspondiente, en los términos de las disposiciones jurídicas aplicables;
+
+VIII. Participar en el Comité de Crédito Externo en coordinación con las unidades administrativas competentes de la Secretaría y, en su caso, con el Agente Financiero correspondiente en los asuntos relacionados con programas o proyectos que se financien o se pretendan financiar con crédito externo;
+
+IX. Llevar a cabo los registros que requiera el seguimiento del ejercicio del presupuesto de las dependencias y entidades de la Administración Pública Federal;
+
+X. Coadyuvar con la verificación de la información presupuestal que se requiera para la integración de los informes de gobierno y de los informes trimestrales que se envían a la Cámara de Diputados, así como de otros informes que realice la Secretaría y, en su caso, generar la información que se requiera;
+
+XI. Coordinar las actividades de presupuesto, ejercicio, control y seguimiento del gasto público de los órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta y, en su caso, entidades no sectorizadas, con base en las disposiciones que emita la Subsecretaría de Egresos y demás normas presupuestarias aplicables;
+
+XII. Supervisar y, en su caso, integrar el proyecto de presupuesto y el calendario de gasto de los órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta, y remitirlo a la Dirección General de Recursos Financieros a efecto de que lo incorpore y consolide en el proyecto de presupuesto y calendario de gasto del Ramo 06 "Hacienda y Crédito Público";
+
+XIII. Apoyar en las funciones que como área revisora de sector correspondan a la Secretaría, respecto de las entidades paraestatales cuyo objeto directo sea distinto al de la intermediación financiera;
+
+XIV. Proponer a la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, el proyecto de presupuesto del Ramo 06 "Hacienda y Crédito Público", incluida la distribución de gasto entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y las entidades paraestatales sectorizadas a esta;
+
+XV. Proponer a la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, para su análisis y autorización el proyecto de presupuesto y el calendario de gasto de las entidades paraestatales no sectorizadas correspondiente al Ramo 47 "Entidades no Sectorizadas";
+
+XVI. Analizar, y en su caso, revisar las Cuentas por Liquidar Certificadas en el ámbito de su competencia que registren las dependencias y entidades de la Administración Pública Federal para verificar su procedencia conforme a la disponibilidad de recursos del Gobierno federal;
+
+XVII. Analizar y supervisar los registros presupuestales de las dependencias y entidades de la Administración Pública Federal para proponer a la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto medidas que eficienticen el ejercicio del presupuesto;
+
+XVIII. Analizar el comportamiento del compromiso y ejercicio del presupuesto autorizado a las dependencias y entidades de la Administración Pública Federal, respecto de los sectores de su competencia, para generar informes que coadyuven en la toma de decisiones;
+
+XIX. Registrar el compromiso y ejercicio del presupuesto autorizado a las dependencias y entidades de la Administración Pública Federal, respecto de los sectores de su competencia, conforme a la calendarización del Presupuesto de Egresos de la Federación; lo anterior con base en los documentos elaborados y autorizados para tal fin en términos de las disposiciones jurídicas aplicables, y
+
+XX. Solicitar a las dependencias y entidades de la Administración Pública Federal de los sectores de su competencia la información respecto de los recursos presupuestarios que se encuentren en cuentas bancarias autorizadas conforme a las disposiciones aplicables, que permita generar informes que coadyuven en la aplicación eficiente de los recursos presupuestarios.
+
+La Dirección General de Análisis Presupuestario y Seguimiento del Gasto "A", para el ejercicio de sus atribuciones, se auxilia de las coordinaciones de Análisis Presupuestario y Seguimiento del Gasto "A", "B", "C" y "D".
+
+La Dirección General de Análisis Presupuestario y Seguimiento del Gasto "B", para el ejercicio de sus atribuciones, se auxilia de las coordinaciones de Análisis Presupuestario y Seguimiento del Gasto "E", "F", "G" y "H".
+
+Las coordinaciones de Análisis Presupuestario y Seguimiento del Gasto a que se refieren los párrafos anteriores deben ejercer las atribuciones señaladas en el presente artículo, en el ámbito de los sectores presupuestarios que les instruya su superior jerárquico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 22.
 
-La Unidad de Evaluación del Desempeño tiene las atribuciones siguientes:
+La Unidad de Política y Estrategia para Resultados tiene las atribuciones siguientes:
 
-I. Coordinar la evaluación del desempeño a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como su seguimiento, sin perjuicio de las atribuciones que correspondan al Consejo Nacional de Evaluación de la Política de Desarrollo Social en términos de dicha Ley, con la participación de las unidades administrativas competentes de la Secretaría y, cuando corresponda, de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-II. Coordinar la planeación para la programación presupuestaria orientada a resultados, así como las acciones que se requieran para mejorar la eficiencia y el desempeño en el ejercicio del gasto público, con la participación de las unidades administrativas competentes de la Secretaría;
+I. Coordinar el Sistema de Evaluación del Desempeño a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como su seguimiento, con la participación de las unidades administrativas competentes de la Secretaría y, cuando corresponda, de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de Ciudad de México;
 
-III. Integrar y difundir la información del desempeño de los programas, y promover la transparencia en materia presupuestaria;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-IV. Emitir las disposiciones que deberán observar las dependencias y entidades de la Administración Pública Federal para la elaboración y seguimiento de los programas derivados del Plan Nacional de Desarrollo, en el marco de la planeación nacional del desarrollo;
+II. Expedir las normas y metodologías a las que, en el ámbito de su competencia, se deban sujetar las dependencias y entidades de la Administración Pública Federal para la ejecución de los procesos de planeación y programación presupuestaria orientada a resultados, así como coordinar las acciones que se requieran para mejorar la eficiencia y el desempeño en el ejercicio del gasto público, con la participación de las unidades administrativas competentes de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+III. Consolidar y difundir la información del desempeño de los programas, proyectos y acciones del Gobierno federal, así como asegurar que los datos sean accesibles y comprensibles;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+IV. Establecer las disposiciones que deben observar las dependencias y entidades de la Administración Pública Federal para la elaboración, seguimiento y evaluación de los programas derivados del Plan Nacional de Desarrollo, en el marco de la planeación nacional del desarrollo;
 
 V. Conducir, en el ámbito de competencia de la Secretaría, la elaboración y seguimiento del programa al que se refiere el artículo 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con la participación que corresponda a otras instancias de la Administración Pública Federal;
 
 VI. Establecer mecanismos que promuevan la participación ciudadana en el ejercicio, seguimiento y evaluación del gasto público, en coordinación con las unidades administrativas competentes de la Secretaría;
 
-VII. Expedir con la participación que, en su caso, corresponda al Consejo Nacional de Evaluación de la Política de Desarrollo Social, las disposiciones necesarias para la operación del presupuesto basado en resultados y del Sistema de Evaluación del Desempeño y, en general, en materia de seguimiento y evaluación del desempeño de las políticas públicas y programas de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-VIII. Establecer mecanismos de coordinación y colaboración en materia de seguimiento y evaluación del desempeño, con el Consejo Nacional de Evaluación de la Política de Desarrollo Social y, en su caso, con las dependencias y entidades de la Administración Pública Federal que se requiera, así como, cuando corresponda, con las entidades federativas y, por conducto de estas, con los municipios y con las demarcaciones territoriales de la Ciudad de México, conforme a las disposiciones jurídicas aplicables;
+VII. Establecer las disposiciones jurídicas necesarias para la operación del Sistema de Evaluación del Desempeño de los programas, proyectos y acciones de la Administración Pública Federal;
 
-IX. Participar, en el marco de la planeación nacional del desarrollo y en el ámbito del presupuesto basado en resultados, en la definición de la política de gasto público y, en coordinación con las unidades administrativas competentes de la Secretaría, apoyar la definición de niveles de gasto y su distribución en la formulación de los programas, proyectos y presupuestos, con base en el Sistema de Evaluación del Desempeño;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-X. Emitir dictamen, previa opinión de las direcciones generales de Programación y Presupuesto “A”, “B” y “C”, sobre los programas sectoriales, regionales y especiales de la Administración Pública Federal, así como aprobar, previa opinión de dichas Direcciones Generales, los programas institucionales a cargo de las entidades paraestatales no sectorizadas, y verificar su congruencia en materia de planeación, programación y presupuesto;
+VIII. Establecer mecanismos de coordinación y colaboración para el fortalecimiento del Sistema de Evaluación del Desempeño, con las dependencias y entidades de la Administración Pública Federal que se requiera, así como, cuando corresponda, con las entidades federativas y, por conducto de estas, con los municipios y con las demarcaciones territoriales de Ciudad de México, conforme a las disposiciones jurídicas aplicables;
 
-XI. Emitir las disposiciones y metodologías para la suscripción por parte de las dependencias y entidades de la Administración Pública Federal de los instrumentos de mejora del desempeño;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XII. Concertar con las dependencias y entidades de la Administración Pública Federal, los objetivos, metas e indicadores del Sistema de Evaluación del Desempeño, con la intervención que corresponda a las unidades administrativas competentes de la Secretaría, así como validar los indicadores estratégicos, para su inclusión en los instrumentos de seguimiento del desempeño, así como en el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda;
+IX. Participar, en el marco de la planeación nacional del desarrollo y respecto del Presupuesto Basado en Resultados y del Sistema de Evaluación del Desempeño, en la definición de la política de gasto público, en coordinación con las unidades administrativas competentes de la Secretaría;
 
-XIII. Coordinar la elaboración y emitir conjuntamente con el Consejo Nacional de Evaluación de la Política de Desarrollo Social, el Programa Anual de Evaluación para el ejercicio fiscal que corresponda, así como las normas, lineamientos, mecanismos y términos de referencia, vinculados con su ejecución;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XIV. Coordinar el seguimiento y la evaluación del desempeño de los programas de la Administración Pública Federal, incluyendo aquellos en los que participen las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, con base en el Sistema de Evaluación del Desempeño;
+X. Emitir el dictamen sobre los programas sectoriales, regionales y especiales de la Administración Pública Federal, así como aprobar los programas institucionales a cargo de las entidades paraestatales no sectorizadas, y verificar su congruencia en materia de planeación y programación;
 
-XV. Participar en la integración de los informes y reportes que el Ejecutivo Federal envíe al Congreso de la Unión;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XVI. Administrar, en coordinación con las unidades administrativas competentes de la Secretaría, los sistemas de información que aseguren la operación del presupuesto basado en resultados y del Sistema de Evaluación del Desempeño; así como aquellos que permitan el seguimiento de los recursos federales transferidos a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, y los que resulten necesarios para promover la transparencia presupuestaria y dar seguimiento a los programas derivados del Plan Nacional de Desarrollo; y participar con las instancias competentes en su desarrollo, actualización y vinculación con los demás sistemas de información que opera la Secretaría;
+XI. Emitir las disposiciones y metodologías para la suscripción de los instrumentos de mejora del desempeño por parte de las dependencias y entidades de la Administración Pública Federal y las que corresponda a otras instancias competentes del ámbito federal y local;
 
-XVII. Dar seguimiento a la difusión y publicidad de los resultados de las evaluaciones del desempeño y al cumplimiento de los mecanismos para el seguimiento a los aspectos susceptibles de mejora derivados de los informes y evaluaciones a los programas de la Administración Pública Federal, de conformidad con el Programa Anual de Evaluación y demás disposiciones jurídicas aplicables, en coordinación con otras instancias competentes;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XVIII. Establecer mecanismos para la ejecución y seguimiento de los aspectos susceptibles de mejora derivados de las evaluaciones del desempeño, con la participación que corresponda a otras instancias competentes del ámbito federal y local;
+XII. Establecer las disposiciones y coordinar a las dependencias y entidades de la Administración Pública Federal, para la elaboración, actualización y formalización de los diagnósticos de los programas presupuestarios que se encuentren en la estructura programática, así como validar los objetivos, indicadores estratégicos y metas de los instrumentos de seguimiento del desempeño;
 
-XIX. Apoyar a los gobiernos locales, en los términos de las disposiciones jurídicas aplicables y con la participación que corresponda a las dependencias y entidades de la Administración Pública Federal competentes, en materia de seguimiento, evaluación del desempeño, así como de los informes sobre el ejercicio y destino de los recursos federales transferidos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XX. Realizar estudios, investigaciones, informes especializados y emitir recomendaciones en materia de seguimiento y evaluación del desempeño;
+XIII. Determinar el Programa Anual de Evaluación para el ejercicio fiscal que corresponda, así como las normas, lineamientos, mecanismos y términos de referencia, vinculados con su ejecución y seguimiento;
 
-XXI. Proponer al superior jerárquico y, en su caso, a las autoridades competentes de la Administración Pública Federal, mejoras al proceso presupuestario, con base en el seguimiento de los indicadores y de los resultados de las evaluaciones a programas;
+XIV. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
 
-XXII. Coordinar acciones de formación y capacitación en materia de presupuesto basado en resultados y del Sistema de Evaluación del Desempeño en la Administración Pública Federal, así como apoyar, en su caso, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México en dichas materias;
+XV. Participar en la integración de los informes y reportes que el Ejecutivo Federal envíe al Congreso de la Unión en el ámbito de su competencia;
 
-XXIII. Impulsar y fortalecer la cultura de la planeación orientada a resultados, el seguimiento y la evaluación del desempeño, así como la transparencia presupuestaria con la participación que corresponda a las instancias nacionales e internacionales especializadas en dichas materias;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XXIV. Dar seguimiento y establecer las disposiciones para la evaluación del desempeño del gasto público federalizado, en coordinación con las unidades administrativas competentes de la Secretaría;
+XVI. Administrar los sistemas de información que aseguren el seguimiento a los programas que deriven del Plan Nacional de Desarrollo, en el marco del Sistema de Evaluación del Desempeño, así como, en coordinación con las unidades administrativas competentes de la Secretaría, los demás sistemas de información que resulten necesarios para la operación de las fases del ciclo presupuestario;
 
-XXV. Coordinar el mecanismo al que hace referencia el artículo 49, fracción V, de la Ley de Coordinación Fiscal, y
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XXVI. Participar, en coordinación con las unidades administrativas competentes de la Secretaría, en el análisis e implementación de las normas, metodologías y procedimientos técnicos aprobados por el Consejo Nacional de Armonización Contable en el ámbito de la Administración Pública Federal.
+XVI Bis. Establecer, en términos de las disposiciones jurídicas aplicables, la normativa administrativa que las entidades federativas, municipios y demarcaciones territoriales de Ciudad de México deban observar para el reporte del ejercicio, el destino y los resultados obtenidos, respecto de los recursos federales que les sean transferidos;
 
-La Coordinación de Evaluación de los Resultados de los Programas Presupuestarios podrá ejercer las atribuciones señaladas en las fracciones I, II, III, IV, V, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI, del presente artículo.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-La Coordinación de Seguimiento e Información del Desempeño Presupuestario podrá ejercer las atribuciones señaladas en las fracciones I, II, III, VI, VII, VIII, IX, XI, XII, XIV, XV, XVI, XIX, XX, XXI, XXII, XXIII, XXIV y XXVI, del presente artículo.
+XVII. Difundir los resultados del desempeño que corresponda a las dependencias y entidades de la Administración Pública Federal, incluidos aquellos del gasto federalizado en los que participen las entidades federativas, los municipios y las demarcaciones territoriales de Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVIII. Establecer mecanismos para la suscripción, ejecución y seguimiento de los aspectos susceptibles de mejora derivados de las evaluaciones realizadas;
+
+XIX. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2025)
+
+XX. Realizar análisis, estudios, investigaciones e informes especializados, considerando estudios comparativos con otros países, en materia de evaluación del desempeño, a fin de guiar la toma de decisiones de las instancias competentes durante el proceso de planeación, programación, ejercicio y control del ciclo presupuestario, para promover la eficiencia y eficacia del gasto público;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXI. Proponer a su superior jerárquico y, en su caso, a las autoridades competentes de la Administración Pública Federal, mejoras al proceso presupuestario, con base en los resultados del seguimiento de los indicadores y de las evaluaciones a programas, proyectos y acciones del Gobierno federal;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXII. Coordinar la profesionalización y el desarrollo de capacidades en la Administración Pública Federal en materia de Presupuesto Basado en Resultados, del Sistema de Evaluación del Desempeño y de los recursos federales transferidos, así como apoyar, en su caso, a las entidades federativas, municipios y demarcaciones territoriales de Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIII. Impulsar y fortalecer la cultura de la planeación orientada a resultados, el seguimiento y la evaluación del desempeño, así como el uso de la información presupuestaria, con la participación que corresponda a las instancias nacionales e internacionales especializadas en dichas materias;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIV. Establecer las disposiciones jurídicas para la evaluación del desempeño del gasto público federalizado, en coordinación con las unidades administrativas competentes de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXV. Coordinar el mecanismo a que se refiere el artículo 49, párrafo cuarto, fracción V, de la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVI. Participar, en coordinación con las unidades administrativas competentes de la Secretaría, en el análisis e implementación de las normas, metodologías y procedimientos técnicos aprobados por el Consejo Nacional de Armonización Contable en el ámbito de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVII. Autorizar, previo análisis, las solicitudes de altas, modificaciones y bajas de estructuras programáticas que realicen las dependencias y entidades de la Administración Pública Federal, en coordinación con la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, considerando, al menos, su vinculación con los objetivos de la planeación nacional del desarrollo y el diseño de otros programas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXVIII. Coordinar la integración de los informes a los que se refieren los párrafos segundo y tercero del artículo 80 de la Ley General de Contabilidad Gubernamental;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIX. Participar conjuntamente con las unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal, en la determinación de las medidas que deban implementarse para lograr un mejor cumplimiento de los objetivos y metas de los programas a cargo de dichas dependencias y entidades;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXX. Establecer las metodologías para la integración, seguimiento y evaluación de los anexos donde concurren programas presupuestarios que identifican y cuantifican la proporción de recursos públicos destinados a la atención de grupos específicos de la población o problemáticas nacionales bajo un enfoque integral, sin perjuicio de las atribuciones que tengan otras instancias;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXI. Fungir como ventanilla única para la atención de las solicitudes, autorizaciones y consultas que presenten las dependencias y entidades de la Administración Pública Federal, así como los ramos autónomos y otros entes y órdenes de gobierno en lo que respecta a los programas derivados del Plan Nacional de Desarrollo, y al proceso de planeación, programación, seguimiento, monitoreo y evaluación del desempeño presupuestario, en coordinación con las demás unidades administrativas adscritas a la Subsecretaría de Egresos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXII. Establecer las disposiciones que deben observar las dependencias y entidades de la Administración Pública Federal sobre el seguimiento y resultados que deben reportar respecto de los objetivos, indicadores estratégicos y metas del Plan Nacional de Desarrollo, en coordinación con las demás unidades administrativas adscritas a la Subsecretaría de Egresos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXIII. Determinar la metodología para la vinculación de los programas presupuestarios a la Agenda 2030 para el Desarrollo Sostenible, así como coordinar y validar la actualización de las vinculaciones de los programas de las dependencias y entidades de la Administración Pública Federal a los objetivos de desarrollo sostenible de dicha Agenda;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXIV. Analizar los anteproyectos de presupuestos que presenten las dependencias y entidades de la Administración Pública Federal en congruencia con los objetivos, prioridades y estrategias del Plan Nacional de Desarrollo; los programas que deriven de este, y las normas, metodología y niveles de gasto autorizados, así como integrar los apartados correspondientes al ámbito de su competencia, de la exposición de motivos del proyecto de Presupuesto de Egresos de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXV. Resolver y emitir opinión sobre los asuntos que regulan las materias de planeación y programación que atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría y no estén conferidas expresamente a otra unidad administrativa de esta dependencia;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXVI. Participar en foros y organismos nacionales e internacionales en materia de Presupuesto Basado en Resultados y del Sistema de Evaluación del Desempeño, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXXVII. Dirigir el análisis de prospectiva presupuestaria, considerando la dinámica de mediano y largo plazo del gasto, con base en la información sobre el ejercicio del Presupuesto de Egresos de la Federación que integra la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Planeación Estratégica y Evaluación del Desempeño podrá ejercer las atribuciones señaladas en las fracciones I, IV, V, VIII, IX, X, XIII, XIV, XV, XVIII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXXII, XXXIII, XXXV y XXXVI del presente artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Análisis Estratégico y Monitoreo del Desempeño podrá ejercer las atribuciones señaladas en las fracciones I, VIII, XII, XIV, XV, XVI, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVII, XXVIII, XXIX, XXX, XXXII, XXXIV y XXXVI del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Fortalecimiento Institucional podrá ejercer las atribuciones señaladas en las fracciones I, II, III, IV, VI, VII, VIII, XI, XII, XIV, XVII, XIX, XX, XXII, XXIII, XXIV, XXVII, XXXI, XXXII, XXXIII y XXXVI del presente artículo.
 
 ###### Artículo 23.
 
@@ -4779,17 +5307,33 @@ VI. Generar, analizar e integrar, según se trate, la información financiera a 
 
 VII. Integrar y consolidar la Cuenta Pública Federal y demás informes que deba presentar el Ejecutivo Federal sobre la gestión pública en materia de contabilidad gubernamental de los recursos públicos federales, en términos de las disposiciones jurídicas aplicables y, en coordinación con las unidades administrativas competentes de la Secretaría y de la Oficina de la Presidencia de la República;
 
-VIII. Generar información para las cuentas nacionales y otros requerimientos de organismos internacionales de los que el Estado mexicano sea miembro, en coordinación con las unidades administrativas competentes de la Secretaría;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VIII. Generar información para las cuentas nacionales y otros requerimientos de organismos internacionales de los que el Estado mexicano sea miembro, así como analizar la normativa contable y de rendición de cuentas, a efecto de proponer modificaciones o la modernización de su contenido y alcance, en coordinación con las unidades administrativas competentes de la Secretaría;
 
 IX. Ejercer las facultades de Secretario Técnico del Consejo Nacional de Armonización Contable, así como, apoyar las actividades del presidente de dicho Consejo, conferido a la persona Titular de la Secretaría;
 
 X. Establecer las bases y coordinar la ejecución de la capacitación sobre el modelo del ciclo hacendario, de los sistemas de administración financiera y de contabilidad gubernamental, en coordinación con las unidades administrativas competentes de la Secretaría, así como apoyar en la materia de profesionalización y certificación de las competencias en materia de contabilidad gubernamental;
 
-XI. Emitir opinión sobre la propuesta que se presente de la política inmobiliaria de la Administración Pública Federal, incluida la relativa al arrendamiento de inmuebles cuando esta tenga el carácter de arrendataria, salvo la que se refiere a playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas, y las políticas de bienes muebles y de desincorporación de activos de la Administración Pública Federal, así como dar seguimiento a dichas políticas y proponer las medidas, que de acuerdo a su competencia sean necesarias para la adecuada implementación de estas;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XII. Determinar los criterios técnicos en materia de baja de archivos contables, aplicables al Poder Ejecutivo Federal y entes públicos federales, y
+XI. Dar seguimiento a la política inmobiliaria de la Administración Pública Federal, incluida la relativa al arrendamiento de inmuebles cuando esta tenga el carácter de arrendataria, salvo la que se refiere a playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas, y las políticas de bienes muebles y de desincorporación de activos de la Administración Pública Federal, y proponer las medidas necesarias para la adecuada implementación de estas, de acuerdo a su competencia;
 
-XIII. Determinar los criterios técnicos contables que permitan el cumplimiento a las obligaciones establecidas en la Ley General de Contabilidad Gubernamental relacionadas con la transparencia y difusión de la información financiera del Poder Ejecutivo Federal.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XII. Determinar los criterios técnicos en materia de baja de archivos contables, aplicables al Poder Ejecutivo Federal y entes públicos federales;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Determinar los criterios técnicos contables que permitan el cumplimiento a las obligaciones establecidas en la Ley General de Contabilidad Gubernamental relacionadas con la transparencia y difusión de la información financiera del Poder Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIV. Solicitar a los entes públicos, la información financiera a que se refieren los artículos 4, fracción XVIII, y 46 de la Ley General de Contabilidad Gubernamental, e información periódica sobre la gestión financiera de la Administración Pública Federal, incluida la relativa a las disponibilidades financieras y los fideicomisos públicos, así como de los saldos disponibles en los diferentes rubros que integran el activo y conciliaciones bancarias, a fin de analizar la capacidad financiera de los entes públicos y sus disponibilidades, para identificar y orientar los recursos públicos de manera eficaz, eficiente y alineados a las prioridades en materia de bienestar y desarrollo del país, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XV. Establecer lineamientos y criterios en materia de inventarios de los bienes muebles e inmuebles, para que los entes públicos den cumplimiento a las disposiciones jurídicas aplicables, en el ámbito de competencia de la Unidad de Contabilidad Gubernamental.
 
 La Coordinación del Sistema de Contabilidad podrá ejercer las atribuciones previstas en las fracciones IV, V, VII, X y XI de este artículo.
 
@@ -4813,7 +5357,9 @@ VIII. Coordinar la correcta operación de los centros de registro del Poder Ejec
 
 IX. Determinar los criterios de análisis de la información contable presentada por los entes públicos a que se refiere la Ley General de Contabilidad Gubernamental, para la integración y consolidación de la Cuenta Pública Federal y demás informes, así como de la información para las cuentas nacionales y otros requerimientos de organismos internacionales, en coordinación con las unidades administrativas competentes de la Secretaría;
 
-X. Colaborar con la Unidad de Contabilidad Gubernamental en la emisión de opiniones sobre las propuestas de la política inmobiliaria a la que se refiere el artículo 23, fracción XI, de este Reglamento, de bienes muebles y de desincorporación de activos de la Administración Pública Federal, así como colaborar en su seguimiento y en proponer las medidas, que de acuerdo a su competencia, sean necesarias para su adecuada implementación;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+X. Colaborar con la Unidad de Contabilidad Gubernamental en el seguimiento a las propuestas de la política inmobiliaria a la que se refiere el artículo 23, fracción XI, de este reglamento, de bienes muebles y de desincorporación de activos de la Administración Pública Federal, así como proponer las medidas, que de acuerdo a su competencia, sean necesarias para su adecuada implementación;
 
 XI. Autorizar las bajas de archivo contable gubernamental de las dependencias del Poder Ejecutivo y entes públicos federales, a través de la revisión y análisis de la documentación, con la finalidad de que se cumplan los plazos de guarda y custodia establecidos en las disposiciones jurídicas aplicables, y siguiendo los criterios correspondientes establecidos por la Unidad de Contabilidad Gubernamental para tales efectos;
 
@@ -4825,145 +5371,53 @@ XIV. Conducir y coordinar la atención de las necesidades de los usuarios del Si
 
 XV. Elaborar y proponer, al superior jerárquico, acciones de mejora y actualización de los sistemas administrados por dicha Unidad, así como proponer reportes e informes que permitan el análisis de las operaciones de los registros contables;
 
-XVI. Elaborar y proponer, al superior jerárquico, los criterios generales que regirán la contabilidad gubernamental, derivados de los diferentes planteamientos de los entes públicos federales y de las necesidades detectadas en la contabilidad gubernamental, una vez revisados y analizados los criterios técnicos normativos vigentes y demás disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XVII. Coordinar y supervisar con las diferentes unidades administrativas competentes de la Secretaría, el cumplimiento a las obligaciones establecidas en la Ley General de Contabilidad Gubernamental relacionadas con la transparencia y difusión de la información financiera del Poder Ejecutivo Federal.
+XVI. Elaborar y proponer a su superior jerárquico los criterios generales que regirán la contabilidad gubernamental, derivados de los diferentes planteamientos de los entes públicos federales y de las necesidades detectadas en la contabilidad gubernamental, una vez revisados y analizados los criterios técnicos normativos vigentes y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVII. Coordinar y supervisar con las unidades administrativas competentes de la Secretaría, el cumplimiento a las obligaciones establecidas en la Ley General de Contabilidad Gubernamental relacionadas con la transparencia y difusión de la información financiera del Poder Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVIII. Analizar, recibir e integrar la información financiera a que se refieren los artículos 4, fracción XVIII, y 46 de la Ley General de Contabilidad Gubernamental, e información periódica sobre la gestión financiera de la Administración Pública Federal, incluida la relativa a las disponibilidades financieras y los fideicomisos públicos, así como de los saldos disponibles en los diferentes rubros que integran el activo y conciliaciones bancarias, a fin de analizar la capacidad financiera de dichas dependencias y entidades y sus disponibilidades, para identificar y orientar los recursos públicos de manera eficaz, eficiente y alineados a las prioridades del Ejecutivo Federal en materia de bienestar y desarrollo del país, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XIX. Coordinar la elaboración de lineamientos y criterios en materia de inventarios de los bienes muebles e inmuebles, para que las dependencias y entidades de la Administración Pública Federal den cumplimiento a las disposiciones jurídicas aplicables.
 
 ###### Artículo 24.
 
-Las Direcciones Generales de Programación y Presupuesto “A”, “B” y “C” tienen las atribuciones establecidas en el apartado B del presente artículo, en el ámbito correspondiente a los sectores que se señalan en el apartado A de este precepto.
+(DEROGADO, D.O.F. 24 DE FEBRERO DE 2025)
 
-A. Sectores de competencia:
-
-I. Dirección General de Programación y Presupuesto “A”, los sectores de Oficina de la Presidencia de la República; gobernación; relaciones exteriores; defensa nacional; educación pública; salud; marina; función pública; seguridad y protección ciudadana; Consejería Jurídica del Ejecutivo Federal; Consejo Nacional de Ciencia y Tecnología; previsiones y aportaciones para los sistemas de educación básica, normal, tecnológica y de adultos; Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, e Instituto Mexicano del Seguro Social;
-
-II. Dirección General de Programación y Presupuesto “B”, los sectores de agricultura y desarrollo rural; infraestructura, comunicaciones y transportes; economía; trabajo y previsión social; turismo; desarrollo agrario, territorial y urbano; medio ambiente y recursos naturales; energía; bienestar; tribunales agrarios; Comisión Reguladora de Energía; Comisión Nacional de Hidrocarburos; Petróleos Mexicanos, y Comisión Federal de Electricidad, y
-
-III. Dirección General de Programación y Presupuesto “C”, los sectores de hacienda y crédito público; entidades no sectorizadas; cultura; aportaciones a seguridad social; aportaciones federales para entidades federativas y municipios, y ramos autónomos.
-
-B. Atribuciones:
-
-I. Fungir como ventanilla única para la atención de todas las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal, así como los ramos autónomos, en materia de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal y emitir las autorizaciones u opiniones correspondientes en coordinación con las demás unidades administrativas de la Subsecretaría de Egresos;
-
-II. Revisar que las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal, así como los ramos autónomos, en materia de programación, presupuesto, ejercicio, control y seguimiento del gasto público federal, que cumplan con lo dispuesto en las disposiciones jurídicas aplicables, así como emitir la opinión respecto de dichas consultas y solicitudes, previo al trámite correspondiente;
-
-III. Proponer alternativas de gasto corriente y de inversión a nivel de sector, dependencia y entidad, para apoyar la definición de los montos globales de gasto público y la determinación de los niveles de gasto y su distribución, a que deberán sujetarse las dependencias y entidades de la Administración Pública Federal, en la formulación de sus programas y presupuestos;
-
-IV. Emitir opinión sobre la relación que guarden los programas presupuestarios de las dependencias y entidades de la Administración Pública Federal, con el Plan Nacional de Desarrollo y los programas que deriven de este;
-
-V. Acordar con las dependencias de la Administración Pública Federal, coordinadoras de sector y, en su caso, con las entidades paraestatales no sectorizadas, con la participación que corresponda a las unidades administrativas de la Subsecretaría de Egresos, la apertura programática, los programas, actividades institucionales y proyectos estratégicos y prioritarios de las mismas;
-
-VI. Comunicar, en su caso, a las dependencias de la Administración Pública Federal, coordinadoras de sector, y a las entidades paraestatales no sectorizadas, la normativa, metodología, parámetros macroeconómicos y niveles de gasto, que emitan las unidades administrativas competentes de la Secretaría, para la formulación de sus respectivos anteproyectos de presupuesto;
-
-VII. Comunicar a las empresas productivas del Estado, la estimación preliminar de las variables macroeconómicas para el siguiente ejercicio fiscal que establezca la Secretaría, para la elaboración de su respectivo proyecto de presupuesto consolidado;
-
-VIII. Formular los anteproyectos de programas y presupuestos de las dependencias y entidades de la Administración Pública Federal, que no hayan sido presentados en los términos y fechas previstas, por las dependencias coordinadoras de sector o directamente por las entidades paraestatales no sectorizadas, e informar de tales hechos a la Secretaría de la Función Pública;
-
-IX. Analizar los anteproyectos de programas y presupuestos que les presenten las dependencias y entidades de la Administración Pública Federal en congruencia con los objetivos, prioridades y estrategias del Plan Nacional de Desarrollo; los programas que deriven del mismo; las normas, metodología y niveles de gasto autorizados, para su posterior integración al proyecto de Presupuesto de Egresos de la Federación. Asimismo, integrar los apartados, correspondientes al ámbito de su competencia, de la exposición de motivos del proyecto de Presupuesto de Egresos de la Federación;
-
-X. Analizar y, en su caso, emitir opinión respecto de los proyectos de presupuesto consolidados, incluyendo los respectivos escenarios indicativos consolidados de la meta de balance financiero de las empresas productivas del Estado, así como el techo global correspondiente de erogaciones para servicios personales y, en su caso, ajustar dicha meta de balance o el techo global de servicios personales para efectos de su integración al Proyecto de Presupuesto de Egresos de la Federación, con la participación que corresponda a las demás unidades administrativas competentes de la Secretaría;
-
-XI. Analizar y, en su caso, validar, los calendarios del ejercicio de los presupuestos aprobados a las dependencias y entidades de la Administración Pública Federal, conforme a las disposiciones establecidas por la Unidad de Política y Control Presupuestario y verificar su compatibilidad con la programación anual del gasto;
-
-XII. Emitir autorizaciones especiales para convocar, adjudicar y, en su caso, formalizar contratos para adquisiciones, arrendamientos, prestación de servicios y obra pública, cuya vigencia inicie en el ejercicio fiscal siguiente a aquel en el que se solicita, a las dependencias y entidades de la Administración Pública Federal, en los términos de las disposiciones jurídicas aplicables;
-
-XIII. Analizar y, en su caso, emitir las autorizaciones presupuestarias, respecto de las solicitudes que presenten las dependencias de la Administración Pública Federal para celebrar contratos de obra pública, adquisiciones, arrendamientos y prestación de servicios, que abarquen más de un ejercicio fiscal, así como emitir las opiniones correspondientes en el caso de las entidades de control directo, en términos de las disposiciones jurídicas aplicables;
-
-XIV. Autorizar, en los términos de las disposiciones jurídicas aplicables, las solicitudes que presenten las dependencias y entidades de la Administración Pública Federal, así como los ramos autónomos, para efectuar adecuaciones a sus respectivos presupuestos, en su caso, conforme al dictamen, diagnóstico u opinión de las unidades administrativas competentes de la Secretaría;
-
-XV. Revisar y emitir la autorización presupuestal de las reglas de operación de los programas que involucren el otorgamiento de subsidios por parte de las dependencias y entidades de la Administración Pública Federal, en los términos de las disposiciones jurídicas aplicables;
-
-XVI. Emitir dictamen sobre las evaluaciones de impacto presupuestario presentadas por las dependencias y entidades de la Administración Pública Federal, respecto de los proyectos de iniciativas de leyes o decretos, así como de los proyectos de reglamentos y de las demás disposiciones administrativas de carácter general, que se pretendan someter a consideración del Presidente de la República, en los términos de las disposiciones jurídicas aplicables;
-
-XVII. Participar en las instancias de coordinación que se establezcan para dar seguimiento al gasto público y sus resultados, y en la concertación de los indicadores estratégicos que se proponga incluir en el proyecto de Presupuesto de Egresos de la Federación, así como participar en los grupos de trabajo que se conformen para analizar las propuestas de instrumentos de mejora del desempeño;
-
-XVIII. Participar en los grupos de trabajo que analizan las propuestas de convenios y bases de desempeño, para ser presentadas a la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, así como realizar el seguimiento correspondiente, en los términos de las disposiciones jurídicas aplicables;
-
-XIX. Gestionar el dictamen de proyectos de infraestructura productiva de largo plazo susceptibles de ser incorporados al proyecto de Presupuesto de Egresos de la Federación, así como llevar el seguimiento presupuestario del avance en la ejecución, cierre de obra y operación de los proyectos, y verificar que se apeguen a los términos y condiciones autorizados;
-
-XX. Dictaminar la procedencia de las solicitudes de acuerdos de ministración presentadas por las dependencias y entidades de la Administración Pública Federal y establecer el monto máximo procedente para someterlas a la autorización de la persona titular de la Subsecretaría de Egresos, así como, en su caso, autorizar las respectivas prórrogas para su regularización;
-
-XXI. Participar en el Comité de Crédito Externo en coordinación con las unidades administrativas competentes de la Secretaría y, en su caso, con el Agente Financiero correspondiente en los asuntos relacionados con programas o proyectos que se financien o se pretendan financiar con crédito externo;
-
-XXII. Otorgar, de conformidad con las disposiciones jurídicas aplicables y en el sistema establecido para ello, el registro, renovación, actualización, modificación y baja de las claves de los fideicomisos, mandatos y actos análogos, que involucren recursos presupuestarios solicitados por las dependencias y entidades de la Administración Pública Federal que los coordinan o les aportan dichos recursos;
-
-XXIII. Proponer, en coordinación con la Unidad de Política y Control Presupuestario, en los términos de las disposiciones jurídicas aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis del mismo;
-
-XXIV. Llevar a cabo los registros que requiera el seguimiento del ejercicio de los programas y presupuestos, así como analizar y opinar sobre el cumplimiento de las metas físicas y financieras reportadas por las dependencias y entidades de la Administración Pública Federal;
-
-XXV. Participar, en coordinación con la Unidad de Evaluación del Desempeño, en el análisis de los resultados del ejercicio de los programas y presupuestos de las dependencias y entidades de la Administración Pública Federal, en función de los objetivos, metas e indicadores de la política de gasto público y los programas;
-
-XXVI. Coadyuvar con la verificación de la información presupuestal que se requiera para la integración de los informes de gobierno y de los informes trimestrales que se envían a la Cámara de Diputados, así como de otros informes que realice la Secretaría y, en su caso, generar la información que se requiera;
-
-XXVII. Proponer y, en su caso, opinar al superior jerárquico o a las unidades administrativas competentes de la Secretaría sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos;
-
-XXVIII. Emitir opinión para el establecimiento y revisión de las condiciones generales de trabajo de las dependencias y entidades de la Administración Pública Federal, respecto de las medidas que impliquen erogaciones con cargo al Presupuesto de Egresos de la Federación;
-
-XXIX. Analizar y, en su caso, emitir las autorizaciones correspondientes para realizar pagos a través de comisionado habilitado o constitución del fondo rotatorio, en términos de las disposiciones jurídicas aplicables;
-
-XXX. Resolver los asuntos que las disposiciones jurídicas en materia de programación, presupuesto y ejercicio del gasto público federal confieren a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría y no sean de la competencia de otra unidad administrativa de la misma;
-
-XXXI. Determinar, cuando proceda, los compromisos presupuestarios futuros que, en su caso, llegaren a originar los proyectos de asociaciones público privadas, con base en las estimaciones realizadas por las dependencias y entidades de la Administración Pública Federal interesadas, así como el margen disponible de asignación anual de recursos presupuestarios que dichas dependencias y entidades podrán destinar a la contratación de proyectos de asociaciones público privadas;
-
-XXXII. Integrar, calendarizar y transferir, con base en las solicitudes de los Institutos de Seguridad Social y los ejecutores de gasto, los recursos que se aprueben para el ramo general correspondiente a Aportaciones a Seguridad Social en el Presupuesto de Egresos de la Federación, para efectos de que dichos Institutos y ejecutores de gasto administren y ejerzan esos recursos, así como llevar a cabo el respectivo registro del presupuesto correspondiente a dicho ramo general;
-
-XXXIII. Integrar y transferir los recursos que se aprueben para el ramo general correspondiente a Aportaciones Federales para Entidades Federativas y Municipios en el Presupuesto de Egresos de la Federación, para efectos de que los gobiernos de las entidades federativas y, en su caso, de los municipios y alcaldías de la Ciudad de México, administren y ejerzan las aportaciones federales correspondientes, de conformidad con lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, así como llevar a cabo el respectivo registro del presupuesto correspondiente a dicho ramo general;
-
-XXXIV. Gestionar los movimientos presupuestarios de los fondos de Aportaciones para la Nómina Educativa y Gasto Operativo, de Aportaciones para los Servicios de Salud, de Aportaciones Múltiples, de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, y de Aportaciones para la Educación Tecnológica y de Adultos a solicitud de las dependencias coordinadoras de cada fondo, de conformidad con lo establecido en las disposiciones jurídicas aplicables;
-
-XXXV. Coordinar las actividades de seguimiento y evaluación del gasto público, para la determinación y distribución de los recursos de los fondos de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, y para el Fortalecimiento de las Entidades Federativas, con la participación que corresponda a las demás unidades administrativas de la Secretaría;
-
-XXXVI. Participar con las unidades administrativas competentes que están adscritas (sic) la Subsecretaría de Egresos y de la Tesorería de la Federación en la integración de la información que se emitirá y publicará en el Diario Oficial de la Federación correspondiente al monto y la calendarización, así como a la ministración de los recursos del ramo general correspondiente a Aportaciones Federales para Entidades Federativas y Municipios, conforme al monto total aprobado en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal;
-
-XXXVII. Revisar y cargar en el sistema presupuestario correspondiente el anteproyecto del presupuesto regularizable de servicios personales del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo y del Fondo de Aportaciones para la Educación Tecnológica y de Adultos, en términos de las disposiciones jurídicas aplicables;
-
-XXXVIII. Coordinar las actividades de programación, presupuesto, ejercicio, control, seguimiento y evaluación del gasto público de los órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta y, en su caso, entidades no sectorizadas, con base en las disposiciones que emita la Subsecretaría de Egresos y en las demás normas presupuestarias aplicables;
-
-XXXIX. Fungir como ventanilla única de la Subsecretaría de Egresos ante los órganos administrativos desconcentrados de la Secretaría, de las entidades paraestatales sectorizadas a esta y, en su caso, de las entidades paraestatales no sectorizadas; para la atención de todos los asuntos relacionados con la formulación, integración y ejecución de sus presupuestos, así como de otra información relativa a programas institucionales;
-
-XL. Supervisar y, en su caso, integrar el proyecto de presupuesto y el calendario de gasto de los órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta, y remitirlo a la Dirección General de Recursos Financieros a efecto de que lo incorpore y consolide en el proyecto de presupuesto y calendario de gasto del Ramo 06 “Hacienda y Crédito Público”;
-
-XLI. Proponer las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de los órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta;
-
-XLII. Comunicar a los órganos administrativos desconcentrados de la Secretaría y a las entidades paraestatales sectorizadas a esta, así como a las entidades paraestatales no sectorizadas, las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, contable y de organización, emitan las instancias competentes;
-
-XLIII. Apoyar en las funciones que como coordinadora de sector correspondan a la Secretaría respecto a las entidades paraestatales cuyo objeto directo sea distinto al de la intermediación financiera;
-
-XLIV. Proponer, para autorización, la distribución de gasto del proyecto de presupuesto del Ramo 06 “Hacienda y Crédito Público”, entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y las entidades paraestatales sectorizadas a esta, y
-
-XLV. Supervisar y, en su caso, integrar el proyecto de presupuesto y el calendario de gasto de las entidades paraestatales no sectorizadas correspondiente al Ramo 47 “Entidades no Sectorizadas”.
-
-La persona titular de la Subsecretaría de Egresos, para el mejor despacho de los asuntos, sin perjuicio de la competencia por sectores prevista en el apartado A de este artículo, podrá asignar a las direcciones generales de Programación y Presupuesto, “A”, “B” o “C” algún o algunos de los sectores que se ubiquen en la competencia de cualquiera de las otras direcciones generales de Programación y Presupuesto, mediante Acuerdo que se publique en el Diario Oficial de la Federación.
-
-Las direcciones generales de Programación y Presupuesto, “A”, “B” y “C”, para el despacho de los asuntos a su cargo se auxiliarán de:
-
-I. La Dirección General de Programación y Presupuesto “A” de las Coordinaciones de Programación y Presupuesto A, B y C;
-
-II. La Dirección General de Programación y Presupuesto “B” de las Coordinaciones de Programación y Presupuesto D, E y F, y
-
-III. La Dirección General de Programación y Presupuesto “C” de las Coordinaciones de Programación y Presupuesto G y H.
-
-Además, las direcciones generales de Programación y Presupuesto, “A”, “B” y “C” también podrán auxiliarse del demás personal que por las necesidades del servicio se requieran.
-
-Las coordinaciones de Programación y Presupuesto señaladas en el párrafo anterior deberán ejercer las atribuciones señaladas en el presente artículo, en el ámbito de los sectores que les instruya su superior jerárquico.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 25.
 
-La Unidad Jurídica de Egresos tiene las atribuciones siguientes:
+La Unidad de Asuntos Jurídicos de Egresos tiene las atribuciones siguientes:
 
 I. Dirigir y supervisar la elaboración del anteproyecto de Decreto de Presupuesto de Egresos de la Federación para cada ejercicio fiscal, y coordinar, en el ámbito de su competencia, los trabajos relacionados con el mismo hasta su publicación;
 
-II. Realizar estudios, y orientar la coordinación de la elaboración de los proyectos de iniciativas de leyes o decretos y proyectos de reglamentos, en las materias competencia de la Subsecretaría de Egresos, y coordinar la elaboración de los anteproyectos de acuerdos, oficios circulares y demás instrumentos jurídicos de carácter general en materia presupuestaria, que deban ser expedidos por la persona titular de la Secretaría o por la persona titular de la Subsecretaría de Egresos, conforme a las políticas o directrices que al efecto se establezcan;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+II. Realizar estudios, y orientar la coordinación de la elaboración de los proyectos de iniciativas de leyes o decretos y proyectos de reglamentos, en las materias competencia de la Subsecretaría de Egresos, y coordinar la elaboración de los anteproyectos de acuerdos, oficios circulares y demás instrumentos jurídicos de carácter general en dichas materias, que deban ser expedidos por la persona titular de la Secretaría o por la persona titular de la Subsecretaría de Egresos, así como coadyuvar, en coordinación con la Procuraduría Fiscal de la Federación, con otras unidades administrativas de la Secretaría o de la Administración Pública Federal en la elaboración de instrumentos jurídicos de carácter general, en el ámbito de la competencia de dicha Subsecretaría; lo anterior, conforme a las políticas o directrices que al efecto se establezcan;
 
 III. Solicitar de las unidades administrativas de la Subsecretaría de Egresos las propuestas de reformas a las disposiciones legales en las materias de su respectiva competencia, así como la demás información que se requiera al respecto;
 
 IV. Establecer el criterio de la Subsecretaría de Egresos cuando las unidades administrativas de la misma emitan lineamientos, normas, disposiciones generales o específicas, resoluciones actos u opiniones, que generen criterios contradictorios en aspectos legales;
 
-V. Revisar y emitir, en su caso, opinión jurídica en materia presupuestaria, respecto de los proyectos de iniciativas de leyes, decretos o de reglamentos y demás ordenamientos normativos de carácter general que se pretendan someter a consideración del Presidente de la República y que, en los términos de las disposiciones jurídicas aplicables, deban contar con un dictamen de impacto presupuestario emitido por las unidades administrativas competentes de la Subsecretaría de Egresos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-VI. Revisar y emitir opinión jurídica en materia presupuestaria, en coordinación con las unidades administrativas de la Subsecretaría de Egresos, respecto de las iniciativas de ley o decreto, proyectos de puntos de acuerdo, dictámenes y minutas del Congreso de la Unión;
+V. Revisar y emitir, en su caso, opinión jurídica en materia presupuestaria, respecto de los proyectos de iniciativas de leyes, decretos o de reglamentos y demás ordenamientos de carácter general que se pretendan someter a consideración de la persona titular del Ejecutivo Federal y que, en los términos de las disposiciones jurídicas aplicables, deban contar con un dictamen de impacto presupuestario emitido por las unidades administrativas competentes de la Subsecretaría de Egresos;
 
-VII. Coordinar el seguimiento a las iniciativas de leyes o decretos, reglamentos, acuerdos o decretos presentadas en el Congreso de la Unión, que tengan repercusiones en materia presupuestaria;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VI. Revisar y emitir opinión jurídica respecto de las materias competencia de la Subsecretaría de Egresos, en coordinación con las unidades administrativas adscritas a esta, sobre las iniciativas de ley o decreto, proyectos de puntos de acuerdo, dictámenes y minutas del Congreso de la Unión;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VII. Coordinar el seguimiento a las iniciativas de leyes o decretos, presentados en el Congreso de la Unión, que tengan repercusión en las materias competencia de la Subsecretaría de Egresos;
 
 VIII. Proponer criterios y emitir opiniones jurídicas para la aplicación de las leyes y demás disposiciones de carácter general en las materias competencia de la Subsecretaría de Egresos, para efectos de atender las solicitudes y consultas que presenten las dependencias y entidades de la Administración Pública Federal a las unidades administrativas de dicha Subsecretaría;
 
@@ -4971,31 +5425,59 @@ IX. Apoyar y asesorar jurídicamente a las unidades administrativas de la Subsec
 
 X. Fungir como ventanilla única de la Subsecretaría de Egresos en los asuntos que se traten con la Procuraduría Fiscal de la Federación;
 
-XI. Dirigir la elaboración de los estudios jurídicos, incluso análisis comparativos de los ordenamientos jurídicos de otros países, a efecto de proponer reformas que promuevan la eficiencia, eficacia, transparencia y rendición de cuentas del gasto público federal;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XI. Dirigir la elaboración de los estudios jurídicos, incluso análisis comparativos de los ordenamientos jurídicos de otros países, a efecto de proponer reformas que promuevan la eficiencia, eficacia, transparencia y rendición de cuentas del gasto público federal y en las demás materias competencia de la Subsecretaría de Egresos;
 
 XII. Colaborar con organismos internacionales en el estudio de los sistemas presupuestarios de otros países, contrastándolos con el marco normativo nacional;
 
 XIII. Revisar y, en su caso, someter al superior jerárquico, los documentos para la designación de representantes de la Subsecretaría de Egresos ante las entidades paraestatales, órganos administrativos desconcentrados, comités técnicos de los fideicomisos públicos, comisiones intersecretariales y demás órganos colegiados que corresponda;
 
-XIV. Participar, en coordinación con la Unidad de Política y Control Presupuestario, en el establecimiento o modificación de los modelos de contrato para la constitución de fideicomisos y mandatos públicos; convenios modificatorios, así como de los convenios de extinción o terminación de los mismos, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XV. Solicitar a la Procuraduría Fiscal de la Federación la publicación en el Diario Oficial de la Federación, de las disposiciones de carácter general emitidas por la Subsecretaría de Egresos o sus unidades administrativas.
+XIV. Participar, en coordinación con la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto, en el establecimiento o modificación de los modelos de contrato para la constitución de fideicomisos y mandatos públicos y de convenios modificatorios, así como de los convenios de extinción o terminación de dichos fideicomisos y mandatos;
 
-Artículo 25 A.- La Dirección General Jurídica de Egresos tiene las atribuciones siguientes:
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XV. Solicitar a la Procuraduría Fiscal de la Federación la publicación en el Diario Oficial de la Federación, de las disposiciones de carácter general emitidas por la Subsecretaría de Egresos o de las unidades administrativas adscritas a esta;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Fungir como asesor jurídico de la Subsecretaría de Egresos y de las unidades administrativas adscritas a esta, en el ejercicio de sus atribuciones, con la participación que corresponda a otras unidades administrativas competentes de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVII. Asesorar jurídicamente a las unidades administrativas adscritas a la Subsecretaría de Egresos en la celebración de contratos y convenios en los que participe esta o dichas unidades administrativas, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XVIII. Opinar en el ámbito jurídico y previo a que se sometan a consideración de la persona titular de la Subsecretaría de Egresos, los proyectos de disposiciones generales en las materias que sean competencia de esta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 25 A.- La Dirección General de Asuntos Jurídicos de Egresos tiene las atribuciones siguientes:
 
 I. Elaborar y someter a consideración del superior jerárquico, el anteproyecto de Decreto de Presupuesto de Egresos de la Federación para cada ejercicio fiscal y coordinar su seguimiento hasta su publicación;
 
-II. Elaborar y someter a consideración del superior jerárquico, los proyectos de iniciativas de leyes o decretos y proyectos de reglamentos, en las materias competencia de la Subsecretaría de Egresos, y coadyuvar en la elaboración de los anteproyectos de acuerdos, oficios circulares y demás disposiciones de carácter general en materia presupuestaria, que deban ser expedidos por la persona titular de la Secretaría o por la persona titular de la Subsecretaría de Egresos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+II. Elaborar y someter a consideración de su superior jerárquico, los proyectos de iniciativas de leyes o decretos y proyectos de reglamentos, en las materias competencia de la Subsecretaría de Egresos, y coadyuvar en la elaboración de los anteproyectos de acuerdos, oficios circulares y demás disposiciones de carácter general en dichas materias, que deban ser expedidos por la persona titular de la Secretaría o por la persona titular de la Subsecretaría de Egresos;
 
 III. Elaborar, en su caso, el proyecto de opinión, respecto de las disposiciones que en materia presupuestaria emitan las unidades administrativas de la Subsecretaría de Egresos;
 
 IV. Proponer, para aprobación superior, previa opinión de las unidades administrativas de la Subsecretaría de Egresos, acciones de mejora regulatoria en materia presupuestaria y participar, conjuntamente con dichas unidades y con otras dependencias y entidades de la Administración Pública Federal, en el diseño e implementación de medidas que contribuyan a la ejecución de presupuestos basados en resultados, así como una efectiva rendición de cuentas;
 
-V. Emitir o, en su caso, proponer la opinión jurídica en materia presupuestaria, respecto de los proyectos de iniciativas de leyes, decretos o de reglamentos y demás disposiciones de carácter general que se pretendan someter a consideración del Presidente de la República y que, en los términos de las disposiciones jurídicas aplicables, deban contar con un dictamen de impacto presupuestario emitido por las unidades administrativas competentes de la Subsecretaría de Egresos;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-VI. Emitir o, en su caso, proponer la opinión jurídica en materia presupuestaria, en coordinación con las unidades administrativas de la Subsecretaría de Egresos, respecto de las iniciativas de ley o decreto, proyectos de puntos de acuerdo, dictámenes y minutas del Congreso de la Unión;
+V. Emitir o, en su caso, proponer la opinión jurídica respecto de las materias competencia de la Subsecretaría de Egresos, sobre los proyectos de iniciativas de leyes, decretos o de reglamentos y demás disposiciones de carácter general que se pretendan someter a consideración de la persona titular del Ejecutivo Federal y que, en los términos de las disposiciones jurídicas aplicables, deban contar con un dictamen de impacto presupuestario emitido por las unidades administrativas competentes de la Subsecretaría de Egresos;
 
-VII. Dar seguimiento, en coordinación con las unidades administrativas competentes de la Secretaría, a las iniciativas de ley o decreto, proyectos de puntos de acuerdo, dictámenes y minutas que se presenten en el Congreso de la Unión, cuando tengan repercusiones en materia presupuestaria;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VI. Emitir o, en su caso, proponer la opinión jurídica en coordinación con las unidades administrativas adscritas a la Subsecretaría de Egresos, respecto de las iniciativas de ley o decreto, proyectos de puntos de acuerdo, dictámenes y minutas del Congreso de la Unión, en las materias competencia de dicha Subsecretaría;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+VII. Dar seguimiento, en coordinación con las unidades administrativas competentes de la Secretaría, a las iniciativas de ley o decreto, proyectos de puntos de acuerdo, dictámenes y minutas que se presenten en el Congreso de la Unión, en las materias competencia de la Subsecretaría de Egresos;
 
 VIII. Proponer criterios y elaborar los proyectos de opiniones jurídicas para la aplicación de las leyes y demás disposiciones de carácter general en las materias competencia de la Subsecretaría de Egresos, para efectos de atender las solicitudes y consultas que se presenten ante las unidades administrativas de dicha Subsecretaría las dependencias y entidades de la Administración Pública Federal;
 
@@ -5019,17 +5501,193 @@ XVII. Asesorar jurídicamente a la unidad administrativa competente en el análi
 
 XVIII. Asesorar jurídicamente a la unidad administrativa competente en materia de programas y proyectos de inversión;
 
-XIX. Asesorar jurídicamente a la unidad administrativa competente en la interpretación para efectos administrativos que le corresponde realizar respecto de la Ley de Asociaciones Público Privadas, y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-XX. Coadyuvar con la Unidad de Política y Control Presupuestario en el establecimiento o modificación de los modelos de contrato para la constitución de fideicomisos y mandatos públicos, convenios modificatorios, así como de los convenios de extinción o terminación de los mismos.
+XIX. Asesorar jurídicamente a la unidad administrativa competente de la Secretaría en la interpretación para efectos administrativos que le corresponde realizar respecto de la Ley de Asociaciones Público Privadas;
 
-La Coordinación de Análisis Jurídico podrá ejercer las atribuciones previstas en las fracciones III, V, VI, VII, VIII, IX, X, XI, XII, XIII y XV de este artículo.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-La Coordinación de Normas Presupuestarias podrá ejercer las atribuciones previstas en las fracciones III, IV, IX, X, XIII, XVI y XX de este artículo.
+XX. Coadyuvar con la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto en el establecimiento o modificación de los modelos de contrato para la constitución de fideicomisos y mandatos públicos y convenios modificatorios, así como de los convenios de extinción o terminación de dichos fideicomisos y mandatos;
 
-La Coordinación de Normatividad podrá ejercer las atribuciones previstas en las fracciones IX, X, XIII, XVII, XVIII y XIX de este artículo y le corresponde fungir como Secretario Ejecutivo Adjunto de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación.
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
-#### SECCIÓN V. TESORERÍA DE LA FEDERACIÓN
+XXI. Fungir como asesor jurídico de la Subsecretaría de Egresos y de las unidades administrativas adscritas a esta, en el ejercicio de sus atribuciones, con la participación que corresponda a otras unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXII. Asesorar jurídicamente a las unidades administrativas adscritas a la Subsecretaría de Egresos en la celebración de contratos y convenios en los que participe esta o dichas unidades administrativas, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+XXIII. Someter a consideración de su superior jerárquico, la opinión en el ámbito jurídico y previo a que se sometan a consideración de la persona titular de la Subsecretaría de Egresos, los proyectos de disposiciones generales en las materias que sean competencia de dicha Subsecretaría.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Asuntos Consultivos de Egresos podrá ejercer las atribuciones previstas en las fracciones I, III, V, VIII, IX, X, XI, XIII, XV, XXI, XXII y XXIII de este artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Apoyo Jurídico de Egresos podrá ejercer las atribuciones previstas en las fracciones III, IV, IX, X, XII, XIII, XVI, XX, XXI y XXII de este artículo.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Asuntos Normativos de Egresos podrá ejercer las atribuciones previstas en las fracciones IX, X, XIII, XVII, XVIII, XIX, XXI y XXII de este artículo y le corresponde fungir como Secretario Ejecutivo Adjunto de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+La Coordinación de Asuntos Legislativos de Egresos podrá ejercer las atribuciones previstas en las fracciones VI, VII, IX, X, XIII, XXI y XXII de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+###### Artículo 25 Bis.
+
+La Unidad de Control Administrativo y Contrataciones Públicas tiene las atribuciones siguientes:
+
+I. Someter a consideración de la persona titular de la Subsecretaría de Egresos, el nombramiento o remoción de las personas titulares de las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos las de sus órganos administrativos desconcentrados, de la Administración Pública Federal.
+
+La persona titular de la Subsecretaría de Egresos debe acordar, previamente, con la persona titular de la Secretaría, el nombramiento o remoción de las personas a que se refiere el párrafo anterior;
+
+II. Someter a consideración de la persona titular de la Subsecretaría de Egresos y, en su caso, remitir a los órganos de gobierno de las entidades paraestatales de la Administración Pública Federal, las propuestas de nombramiento o remoción de las personas titulares de sus unidades de Administración y Finanzas o equivalentes.
+
+La persona titular de la Subsecretaría de Egresos debe acordar, previamente, con la persona titular de la Secretaría, las propuestas de nombramiento o remoción de las personas a que se refiere el párrafo anterior;
+
+III. Nombrar y remover, previo acuerdo con la persona titular de la Subsecretaría de Egresos, a las personas servidoras públicas de los dos niveles jerárquicos inmediatos inferiores al de las personas titulares de las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos las de sus órganos administrativos desconcentrados, de la Administración Pública Federal;
+
+IV. Proponer a los órganos de gobierno de las entidades paraestatales, previo acuerdo con la persona titular de la Subsecretaría de Egresos, el nombramiento o remoción de las personas servidoras públicas de los dos niveles jerárquicos inmediatos inferiores al de las personas titulares de las unidades de Administración y Finanzas o equivalentes;
+
+V. Coordinar el diseño y proponer a la persona titular de la Subsecretaría de Egresos, previa opinión de la Unidad de Asuntos Jurídicos de Egresos, las disposiciones generales y directrices para establecer el modelo organizacional y de operación para la conducción y coordinación de las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+VI. Establecer y emitir los criterios técnicos para dar seguimiento a la operación de las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, y coordinar su implementación;
+
+VII. Validar, previo acuerdo con la persona titular de la Subsecretaría de Egresos, la creación y modificación de la estructura orgánica de las unidades de administración y finanzas o equivalentes en las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+VIII. Interpretar, previo acuerdo con la persona titular de la Subsecretaría de Egresos, las disposiciones generales y criterios técnicos en las materias a que se refiere este artículo siempre que no corresponda a otras unidades administrativas de la Secretaría;
+
+IX. Determinar los mecanismos para la valoración de aptitudes y desempeño individual, así como el fortalecimiento de capacidades del personal adscrito a las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+X. Verificar que las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal implementen los mecanismos para la prestación de los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad y archivos, conforme al modelo organizacional y de operación y demás normas que se establezcan para tal efecto;
+
+XI. Coordinar las asesorías, capacitación, y apoyo técnico en las materias a que se refiere este artículo, así como gestionar las consultas técnicas u operativas planteadas por las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal respecto de las materias competencia de la Subsecretaría de Egresos y, en su caso, gestionar aquellas que sean competencia de otras autoridades;
+
+XII. Requerir a las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, la información sobre los servicios de administración y finanzas que ejecuten;
+
+XIII. Proponer a la persona titular de la Subsecretaría de Egresos, el proyecto de lineamientos, estrategias y acciones para la ejecución de las políticas de austeridad en el ejercicio del gasto público;
+
+XIV. Coordinar los requerimientos de información a las dependencias y entidades de la Administración Pública Federal que se considere necesarios, a fin de cumplir con sus atribuciones;
+
+XV. Coordinar el análisis de procesos de los servicios de apoyo administrativo que ejecutan las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, para la homologación, sistematización y automatización de los procesos que se determinen como transversales en la Administración Pública Federal;
+
+XVI. Proponer a la persona titular de la Subsecretaría de Egresos acciones para fortalecer los servicios de apoyo administrativo en los procesos que realicen las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+XVII. Conducir y coordinar la operación de las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, de conformidad con las disposiciones jurídicas aplicables;
+
+XVIII. Establecer mecanismos de coordinación con las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, para implementar las acciones que se requieran para la prestación de los servicios de apoyo administrativo a cargo de sus unidades de Administración y Finanzas o equivalentes;
+
+XIX. Dar el seguimiento a los lineamientos, criterios y políticas administrativas que sean instruidas por la persona titular de la Subsecretaría de Egresos y que involucren a las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+XX. Establecer criterios para la elaboración de programas de trabajo de las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, en términos del modelo organizacional y de operación;
+
+XXI. Establecer lineamientos para la integración de un modelo diagnóstico de operación de las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, en la prestación de los servicios de apoyo administrativo a su cargo;
+
+XXII. Ejercer las atribuciones de la Secretaría como unidad consolidadora de los procedimientos de compra de bienes y contratación de servicios de la Administración pública Federal, en términos de las disposiciones jurídicas aplicables, mediante la realización de actos de planeación, investigación de mercado y procedimientos de contratación correspondientes;
+
+XXIII. Participar, en el ámbito de competencia de la Secretaría, en los procedimientos de contratación consolidada, incluidos aquellos excepcionales de adquisición o arrendamiento de bienes muebles y prestación de servicios que se lleven a cabo a través de dicha estrategia de contratación;
+
+XXIV. Supervisar, en el ámbito de su competencia, las estrategias que se determinen para sistematizar la información del producto, tales como sus especificaciones técnicas, su demanda, y las investigaciones de mercado, así como de los procedimientos de contratación de bienes, arrendamientos y servicios de uso generalizado o estratégico;
+
+XXV. Establecer las acciones que, en materia de planeación, se lleven a cabo para la estandarización y agregación de los bienes, arrendamientos o servicios de uso generalizado susceptibles de consolidación, o cualquier otra estrategia que garantice las mejores condiciones de contratación para el Estado;
+
+XXVI. Instruir, en materia de compra de bienes y contratación de servicios consolidados, el acompañamiento en la elaboración de las especificaciones técnicas, anexos técnicos e investigaciones de mercado que realicen las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal;
+
+XXVII. Determinar la conveniencia para convocar a las cámaras de comercio o de la industria para que aporten información técnica necesaria que permita mejorar las condiciones de contratación de los rubros consolidados de adquisición o arrendamiento de bienes o la prestación de los servicios y de los contratos marco;
+
+XXVIII. Supervisar la elaboración de las investigaciones de mercado de los procedimientos de contratación consolidada y de contratos marco, de conformidad con las disposiciones jurídicas aplicables;
+
+XXIX. Autorizar, en todas sus etapas, los procedimientos de contratación consolidada que se lleven a cabo para la adquisición de bienes, arrendamientos y servicios, en términos de las disposiciones jurídicas aplicables;
+
+XXX. Firmar los contratos marco, sus modificaciones y, en su caso, los convenios de adhesión, su rescisión, suspensión o terminación anticipada, en los términos de sus respectivas cláusulas y de conformidad con las disposiciones jurídicas aplicables;
+
+XXXI. Supervisar, cuando se considere necesario, las acciones para el cumplimiento oportuno de las fases post-contractuales de un procedimiento consolidado de contratación o los que se determinen;
+
+XXXII. Conducir la generación de información y comunicación para la sistematización de los procedimientos relacionados con las adquisiciones, arrendamientos y servicios, en materia de compra de bienes y contratación de servicios consolidados;
+
+XXXIII. Supervisar que las unidades de Administración y Finanzas o equivalentes de las dependencias y entidades de la Administración Pública Federal, integren y publiquen sus programas anuales de Adquisiciones, Arrendamientos y Servicios, así como sus respectivas modificaciones, conforme a las disposiciones jurídicas aplicables;
+
+XXXIV. Participar en los comités relacionados con los procedimientos de contratación pública consolidada, en términos de las disposiciones jurídicas aplicables;
+
+XXXV. Coordinar la supervisión de la operación de las unidades de Administración y Finanzas o equivalentes, en la ejecución de los acuerdos que en su ámbito de competencia emitan los comités de Adquisiciones, Arrendamientos y Servicios de las dependencias y entidades de la Administración Pública Federal, y
+
+XXXVI. Supervisar que los actos de autoridad derivados de los procedimientos de adquisición de bienes y prestaciones de servicios consolidados se apeguen a la normativa aplicable.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+Artículo 25 Bis A.- La Dirección General de Compras Consolidadas y Estratégicas tiene las atribuciones siguientes:
+
+I. Realizar las acciones necesarias, en términos de las disposiciones jurídicas aplicables, a fin de mejorar la eficiencia, trazabilidad, transparencia, apertura, inclusión y competencia en los procedimientos de compra de bienes y contratación de servicios consolidados en las dependencias y entidades de la Administración Pública Federal;
+
+II. Dirigir las estrategias que se determinen para sistematizar la información del producto, tales como sus especificaciones técnicas, su demanda, y las investigaciones de mercado, así como de los procedimientos de contratación de bienes, arrendamientos y servicios de uso generalizado o estratégico;
+
+III. Implementar las acciones que, en materia de planeación, se establezcan para la estandarización y agregación de los bienes, arrendamientos o servicios de uso generalizado susceptibles de consolidación, o cualquier otra estrategia que garantice las mejores condiciones de contratación para el Estado;
+
+IV. Asesorar en la elaboración de las especificaciones técnicas, anexos técnicos e investigaciones de mercado que realicen las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal en materia de compra de bienes y contratación de servicios consolidados;
+
+V. Convocar, cuando se determine conveniente, a las cámaras de comercio o de la industria para que aporten información técnica necesaria que permita mejorar las condiciones de contratación de los rubros consolidados de adquisición o arrendamiento de bienes o la prestación de los servicios;
+
+VI. Dirigir la elaboración de las investigaciones de mercado de los procedimientos de contratación consolidada y de contratos marco, de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Verificar la ejecución, en todas sus etapas, de los procedimientos de contratación consolidada que se lleven a cabo para la adquisición de bienes, arrendamientos y servicios;
+
+VIII. Verificar que las unidades de Administración y Finanzas o equivalentes de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, formalicen los contratos marco, sus respectivos convenios modificatorios y de adhesión en su caso, en los términos que para tal efecto determine la Secretaría Anticorrupción y Buen Gobierno;
+
+IX. Dirigir la asesoría a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, en materia de compra de bienes y contratación de servicios consolidados;
+
+X. Implementar, cuando se considere necesario, las acciones para el cumplimiento oportuno de las fases post-contractuales de un procedimiento consolidado de contratación o los que se determinen;
+
+XI. Generar información y comunicación para la sistematización de los procesos relacionados con las adquisiciones, arrendamientos y servicios, en materia de compra de bienes y contratación de servicios consolidados;
+
+XII. Requerir la información a las dependencias y entidades de la Administración Pública Federal que se considere necesaria en materia de compra de bienes y contratación de servicios consolidados, a fin de cumplir con las atribuciones de la Unidad de Control Administrativo y Contrataciones Públicas;
+
+XIII. Coordinar la integración, en su caso, de las compras de bienes y contratación de servicios consolidados en los programas anuales de Adquisiciones, Arrendamientos y Servicios de las dependencias y entidades de la Administración Pública Federal;
+
+XIV. Diseñar e implementar el modelo de supervisión a la operación de las unidades de Administración de Finanzas o equivalentes en la ejecución de los acuerdos que en su ámbito de competencia emitan los comités de Adquisiciones, Arrendamientos y Servicios de las dependencias y entidades de la Administración Pública Federal;
+
+XV. Proponer a la persona titular de la Unidad de Control Administrativo y Contrataciones Públicas los lineamientos, estrategias y acciones para la ejecución de las políticas de austeridad que sean competencia de la Secretaría;
+
+XVI. Emitir actos de autoridad derivados de los procedimientos de adquisición de bienes y prestaciones de servicios consolidados, en términos de las disposiciones jurídicas aplicables, y
+
+XVII. Presentar casos de excepción a la licitación pública ante los comités relacionados con los procedimientos de contratación pública consolidada, en términos de la normativa aplicable.
+
+La Coordinación de Adquisiciones Consolidadas de Bienes y Servicios podrá ejercer las atribuciones previstas en las fracciones XVI y XVII de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
+###### Artículo 25 Ter.
+
+La Unidad de Proyectos Especiales tiene las atribuciones siguientes:
+
+I. Establecer las estrategias en materia de implementación de procesos administrativos y operativos en la Subsecretaría de Egresos que promuevan la eficiencia, eficacia, transparencia y rendición de cuentas de la información relacionada con el gasto público federal;
+
+II. Evaluar los procesos administrativos y operativos que puedan ser adoptados para mejorar la eficiencia, efectividad y transparencia de la información, así como de los servicios relacionados con la programación, presupuesto, ejercicio, control, evaluación y seguimiento del gasto público federal, conforme a las disposiciones jurídicas aplicables;
+
+III. Coordinar, en el ámbito de su competencia, el diseño, construcción, operación y mantenimiento de los sistemas de información y seguridad que requieran las unidades administrativas adscritas a la Subsecretaría de Egresos para el desarrollo de sus atribuciones, en colaboración con la Dirección General de Tecnologías y Seguridad de la Información;
+
+IV. Actuar como ventanilla única de la Subsecretaría de Egresos en el ámbito de tecnologías de la información, así como dar seguimiento a los requerimientos y trámites de las unidades administrativas adscritas a dicha Subsecretaría que hayan formulado a la Dirección General de Tecnologías y Seguridad de la Información de la Secretaría, para propiciar en todo momento la seguridad e invulnerabilidad de la información generada por la Subsecretaría de Egresos;
+
+V. Planear el análisis de viabilidad y evaluación de impacto de la información en materia presupuestal para los proyectos propuestos;
+
+VI. Asegurar, en el ámbito de su competencia, que los procesos implementados por las unidades administrativas adscritas a la Subsecretaría de Egresos, relacionados con iniciativas digitales y de trasmisión de información, sean coherentes con las implementaciones digitales oficiales y cumplan con las directrices de la persona titular de la Subsecretaría de Egresos, las regulaciones aplicables y los estándares de seguridad de la información;
+
+VII. Coordinar el programa de mejora continua para asegurar que el mantenimiento y actualización de los sistemas o procesos administrativos y operativos implementados y ejecutados por las unidades administrativas adscritas a la Subsecretaría de Egresos se alineen con los objetivos estratégicos del Ejecutivo Federal, así como con los de la propia Subsecretaría;
+
+VIII. Determinar, de acuerdo con las directrices de la persona titular de la Subsecretaría de Egresos y de las disposiciones jurídicas aplicables, los requerimientos de infraestructura, comunicaciones, tecnologías de transmisión de datos, seguridad de la información y energía regulada para la óptima operación de los sistemas y equipos informáticos en los cuales se encuentren los distintos sistemas de información de la Subsecretaría de Egresos, en colaboración con la Dirección General de Tecnologías y Seguridad de la Información;
+
+IX. Establecer coordinación con las unidades administrativas competentes de la Secretaría, así como con las dependencias y entidades de la Administración Pública Federal para promover la compatibilidad, integración y mejora de soluciones digitales en materia de control y transparencia presupuestal;
+
+X. Colaborar con la persona titular de la Subsecretaría de Egresos para identificar y priorizar que los proyectos especiales se alineen a los objetivos estratégicos determinados por dicha Subsecretaría, y
+
+XI. Supervisar que la implementación de los proyectos especiales, se lleve a cabo de acuerdo con las directrices determinadas por la persona titular de la Subsecretaría de Egresos.
+
+#### SECCIÓN IV. PROCURADURÍA FISCAL DE LA FEDERACIÓN
 
 ###### Artículo 26.
 
@@ -6515,7 +7173,7 @@ V. Dirigir y supervisar la actuación del personal a su cargo, y
 
 VI. Acordar con la persona titular de la Subprocuraduría Fiscal Federal de Investigaciones o con las Direcciones Generales que correspondan, los asuntos a su cargo.
 
-#### SECCIÓN VI. OFICIALÍA MAYOR
+#### SECCIÓN V. TESORERÍA DE LA FEDERACIÓN
 
 ###### Artículo 31.
 
@@ -7241,9 +7899,7 @@ XV. Atender los asuntos que le encomiende la persona titular de la Tesorería de
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 17 DE ENERO DE 2024)</small>
 
-#### SECCIÓN VII. DE LAS COORDINACIONES ADMINISTRATIVAS
-
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2024)</small>
+#### SECCIÓN VI. OFICIALÍA MAYOR
 
 ###### Artículo 37.
 
@@ -7359,9 +8015,15 @@ Artículo 46 B.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
 Artículo 46 C.- (DEROGADO, D.O.F. 17 DE ENERO DE 2024)
 
+#### SECCIÓN VII. DE LAS COORDINACIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 47.
 
-Las personas titulares de las coordinaciones administrativas u homólogos tienen las facultades a que se refieren las fracciones XV a XVIII del artículo 7 de este reglamento y fungen como enlace entre las unidades administrativas que coordinan y la Unidad de Administración y Finanzas para efecto de planear, presupuestar, organizar y administrar los recursos humanos, financieros, materiales y de tecnologías de información y comunicaciones, así como llevar el control, la guarda, custodia y certificación de los expedientes laborales conforme a las disposiciones aplicables.
+Las personas titulares de las coordinaciones administrativas u homólogos tienen, entre otras, las facultades a que se refieren las fracciones XV a XVIII del artículo 7 de este reglamento y fungen como enlace entre las unidades administrativas que coordinan y la Unidad de Administración y Finanzas de la Secretaría.
+
+Dichas coordinaciones estarán sujetas a las instrucciones que emita la Unidad de Administración y Finanzas de la Secretaría, previo acuerdo con la persona titular de la Secretaría, a efecto de planear, presupuestar, organizar y administrar los recursos humanos, financieros, materiales y de tecnologías de información y comunicaciones, así como llevar el control, la guarda, la custodia y la certificación de los expedientes laborales conforme a las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VI. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
@@ -7375,69 +8037,57 @@ El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de V
 
 ### CAPÍTULO VII. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 50.
 
-La persona titular de la Secretaría de Hacienda y Crédito Público será suplida en sus ausencias por las personas titulares de la Subsecretaría de Hacienda y Crédito Público, de Egresos; por las personas titulares de la Procuraduría Fiscal de la Federación; de la Subprocuraduría Fiscal Federal de Amparos; de la Subprocuraduría Fiscal Federal de Legislación y Consulta; de la Subprocuraduría Fiscal Federal de Asuntos Financieros; de la Subprocuraduría Fiscal Federal de Investigaciones; de la Unidad de Coordinación con Entidades Federativas o de la Unidad de Administración y Finanzas, en el orden indicado.
+La persona titular de la Secretaría de Hacienda y Crédito Público será suplida en sus ausencias por las personas titulares de la Subsecretaría de Hacienda y Crédito Público, de Ingresos, de Egresos, de la Procuraduría Fiscal de la Federación, de la Subprocuraduría Fiscal Federal de Amparos, de la Subprocuraduría Fiscal Federal de Legislación y Consulta, de la Subprocuraduría Fiscal Federal de Asuntos Financieros, de la Subprocuraduría Fiscal Federal de Investigaciones, de la Unidad de Coordinación con Entidades Federativas o de la Unidad de Administración y Finanzas, en el orden indicado.
 
-La persona titular de la Subsecretaría de Hacienda y Crédito Público será suplida en sus ausencias por las personas titulares de las unidades de Crédito Público y Asuntos Internacionales de Hacienda, de Planeación Económica de la Hacienda Pública, y de Legislación Tributaria, en el orden indicado.
+La persona titular de la Subsecretaría de Hacienda y Crédito Público será suplida en sus ausencias por las personas titulares de las unidades de Crédito Público y Asuntos Internacionales de Hacienda y de Planeación Económica de la Hacienda Pública, en el orden indicado.
 
-La persona titular de la Subsecretaría de Egresos será suplida en sus ausencias por las personas titulares de las unidades Jurídica de Egresos, de Política y Control Presupuestario, de Contabilidad Gubernamental, de Inversiones, de Evaluación del Desempeño, y de las direcciones generales de Programación y Presupuesto “A”, de Programación y Presupuesto “B”, y de Programación y Presupuesto “C”, en el orden indicado.
+La persona titular de la Subsecretaría de Ingresos será suplida en sus ausencias por las personas titulares de las unidades de Política de Ingresos Tributarios, de Política de Ingresos no Tributarios y sobre Hidrocarburos y de Legislación Tributaria, en el orden indicado.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+La persona titular de la Subsecretaría de Egresos será suplida en sus ausencias por las personas titulares de las unidades de Asuntos Jurídicos de Egresos, de Diseño Presupuestario, Control y Seguimiento del Gasto, de Contabilidad Gubernamental, de Inversiones, de Política y Estrategia para Resultados, de Control Administrativo y Contrataciones Públicas y de Proyectos Especiales, en el orden indicado.
 
 La persona titular de la Procuraduría Fiscal de la Federación será suplida en sus ausencias por las personas titulares de la Subprocuraduría Fiscal Federal de Amparos, de la Subprocuraduría Fiscal Federal de Legislación y Consulta, de la Subprocuraduría Fiscal Federal de Asuntos Financieros o de la Subprocuraduría Fiscal Federal de Investigaciones, en el orden indicado.
 
-La ausencia de las personas titulares de las Subprocuradurías Fiscales Federales será suplida entre ellos en el orden indicado en el párrafo anterior, o por las personas titulares de las Direcciones Generales y Coordinaciones que de ellas dependan en los asuntos de su respectiva competencia, salvo en el supuesto del párrafo siguiente.
+La ausencia de las personas titulares de las subprocuradurías fiscales federales será suplida entre ellos en el orden indicado en el párrafo anterior, o por las personas titulares de las direcciones generales y coordinaciones que de ellas dependan en los asuntos de su respectiva competencia, salvo en el supuesto del párrafo siguiente.
 
-Las personas titulares de las Subprocuradurías Fiscal Federal de Amparos y Fiscal Federal de Investigaciones serán suplidas en sus ausencias por las personas titulares de las Direcciones Generales que de ellas dependan, en el orden que aparecen citados en el artículo 4º. de este Reglamento.
+Las personas titulares de las subprocuradurías Fiscal Federal de Amparos y Fiscal Federal de Investigaciones serán suplidas en sus ausencias por las personas titulares de las direcciones generales y coordinaciones que de ellas dependan, en el orden que aparecen citados en el artículo 4 de este reglamento.
 
 La persona titular de la Tesorería de la Federación será suplida en sus ausencias por las personas titulares de la Subtesorería de Operación, de la Subtesorería de Planeación Financiera y Administración de la Liquidez, de la Dirección General de Asuntos Jurídicos, de la Coordinación de Vigilancia de las Funciones de Tesorería, de la Coordinación de Planeación y Vinculación, de la Procuraduría Fiscal de la Federación, de la Subprocuraduría Fiscal Federal de Amparos, de la Subprocuraduría Fiscal Federal de Legislación y Consulta, de la Subprocuraduría Fiscal Federal de Asuntos Financieros, o de la Subprocuraduría Fiscal Federal de Investigaciones, en el orden indicado.
 
 La persona titular de la Unidad de Inteligencia Financiera será suplida en sus ausencias, por las personas titulares de la Dirección General de Asuntos Normativos e Internacionales, de la Dirección General de Procesos Legales, de la Dirección General de lo Contencioso, de la Dirección General de Integración de la Lista de Personas Bloqueadas y Procedimientos de Garantías de Audiencia, de la Dirección General de Análisis, y de la Dirección General de Información Estratégica, en ese orden.
 
-> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2024)</small>
-
 La persona titular de la Unidad de Administración y Finanzas será suplida en sus ausencias por las personas titulares de las direcciones generales de Recursos Financieros, de Recursos Humanos, de Recursos Materiales, Obra Pública y Servicios Generales, de Talleres de Impresión de Estampillas y Valores, de Tecnologías y Seguridad de la Información, y de la Conservaduría de Palacio Nacional y Patrimonio Cultural, en el orden indicado.
 
 La persona titular de la Unidad de Coordinación con Entidades Federativas, será suplida en sus ausencias, por la persona titular de la Dirección General de Transferencias Federales.
 
-La persona titular de la Unidad de Inversiones será suplida en sus ausencias por las personas titulares de las coordinaciones de Proyectos de Inversión “A”; de Proyectos de Inversión “B”; de Proyectos de Inversión “C”, y de Inversión Mixta, de conformidad con los asuntos que tengan asignados.
+La persona titular de la Unidad de Inversiones será suplida en sus ausencias por las personas titulares de las coordinaciones de Proyectos de Inversión "A"; de Proyectos de Inversión "B"; de Proyectos de Inversión "C", y de Inversión Mixta, de conformidad con los asuntos que tengan asignados.
 
-La persona titular de la Unidad de Política y Control Presupuestario será suplida en sus ausencias por las personas titulares de las direcciones generales de Normatividad Presupuestaria; de Programación, Integración Presupuestaria y Seguimiento al Gasto; de Control Presupuestario de Servicios Personales y Seguridad Social, y de Evaluación y Estrategia Presupuestaria, en el orden indicado.
+La persona titular de la Unidad de Diseño Presupuestario, Control y Seguimiento del Gasto será suplida en sus ausencias por las personas titulares de las direcciones generales de Diseño de la Política Presupuestaria; de Diseño e Integración Presupuestaria y Seguimiento del Gasto; de Control Presupuestario y Seguimiento del Gasto de Servicios Personales y Seguridad Social, de Análisis Presupuestario y Seguimiento del Gasto "A" y de Análisis Presupuestario y Seguimiento del Gasto "B", en el orden indicado.
 
-La persona titular de la Unidad de Evaluación del Desempeño será suplida en sus ausencias por las personas titulares de las coordinaciones de Evaluación de los Resultados de los Programas Presupuestarios, y de Seguimiento e Información del Desempeño Presupuestario, en el orden indicado.
+La persona titular de la Unidad de Política y Estrategia para Resultados será suplida en sus ausencias por las personas titulares de las coordinaciones de Planeación Estratégica y Evaluación del Desempeño, de Análisis Estratégico y Monitoreo del Desempeño, y de Fortalecimiento Institucional, en el orden indicado.
 
-La persona titular de la Unidad de Contabilidad Gubernamental será suplida en sus ausencias por las personas titulares de la Dirección General de Normatividad Contable, y de la Coordinación del Sistema de Contabilidad, en el orden indicado.
+La persona titular de la Unidad de Contabilidad Gubernamental será suplida en sus ausencias por las personas titulares de la Dirección General de Normatividad Contable y de la Coordinación del Sistema de Contabilidad, en el orden indicado.
 
-La persona titular de la Dirección General de Programación y Presupuesto “A” será suplida en sus ausencias por las personas titulares de las coordinaciones de Programación y Presupuesto “A”, “B” y “C”, de conformidad con los asuntos que tengan asignados.
+La persona titular de la Unidad de Asuntos Jurídicos de Egresos será suplida en sus ausencias por las personas titulares de la Dirección General de Asuntos Jurídicos de Egresos, y de las coordinaciones de Asuntos Consultivos de Egresos, de Apoyo Jurídico de Egresos, de Asuntos Normativos de Egresos y de Asuntos Legislativos de Egresos, en el orden indicado.
 
-La persona titular de la Dirección General de Programación y Presupuesto “B” será suplida en sus ausencias por las personas titulares de las coordinaciones de Programación y Presupuesto “D”, “E” y “F”, de conformidad con los asuntos que tengan asignados.
+La persona titular de la Unidad de Control Administrativo y Contrataciones Públicas será suplida en sus ausencias por la persona titular de la Dirección General de Compras Consolidadas y Estrategias y por la persona titular de la Coordinación de Adquisiciones Consolidadas de Bienes y Servicios, en el orden indicado.
 
-La persona titular de la Dirección General de Programación y Presupuesto “C” será suplida en sus ausencias por las personas titulares de las coordinaciones de Programación y Presupuesto “G” y “H”, de conformidad con los asuntos que tengan asignados.
+Las personas titulares de las unidades, de las subtesorerías y de las direcciones generales serán suplidas en sus ausencias por sus inferiores jerárquicos inmediatos, en los asuntos de su respectiva competencia.
 
-La persona titular de la Unidad Jurídica de Egresos será suplida en sus ausencias por las personas titulares de la Dirección General Jurídica de Egresos, y de las coordinaciones de Análisis Jurídico, de Normas Presupuestarias y de Normatividad, en el orden indicado.
-
-Las personas titulares de las Unidades, de las Subtesorerías y de las Direcciones Generales serán suplidas en sus ausencias por sus inferiores jerárquicos inmediatos, en los asuntos de su respectiva competencia.
-
-Las personas titulares de las Coordinaciones y las Direcciones de Área serán suplidas en sus ausencias por sus inferiores jerárquicos inmediatos, en los asuntos de su respectiva competencia. Las personas titulares de las Subdirecciones y Jefaturas de Departamento, así como las personas supervisoras, serán suplidas por su inferior jerárquico inmediato que de ellas dependa, en los asuntos de su competencia.
+Las personas titulares de las coordinaciones y las direcciones de Área serán suplidas en sus ausencias por sus inferiores jerárquicos inmediatos, en los asuntos de su respectiva competencia. Las personas titulares de las subdirecciones y jefaturas de Departamento, así como las personas supervisoras serán suplidas por su inferior jerárquico inmediato que de ellas dependa, en los asuntos de su competencia.
 
 Las demás personas servidoras públicas serán suplidas en sus ausencias por sus inmediatos inferiores que de ellas dependan, salvo que se trate de personal de base.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 24 DE FEBRERO DE 2025)</small>
 
 ### CAPÍTULO VIII. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 51.
 
-El Órgano Interno de Control en la Secretaría estará a cargo de la persona titular, designada en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal quien, para el ejercicio de sus atribuciones, se auxiliará de las personas titulares de las áreas de responsabilidades, de quejas y auditoría, así como demás personal adscrito a dicha unidad administrativa, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública.
-
-Las personas servidoras públicas señaladas, ejercerán las facultades que tengan atribuidas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Administración Pública Federal, la Ley General de Responsabilidades Administrativas y el Reglamento Interior de la Secretaría de la Función Pública, así como en los demás ordenamientos jurídicos aplicables.
-
-Los órganos administrativos desconcentrados de la Secretaría podrán contar con un Órgano Interno de Control, siempre y cuando la Secretaría de la Función Pública así lo autorice y se tenga la disponibilidad presupuestaria para ello. En el supuesto de que algún órgano administrativo desconcentrado no cuente con un Órgano Interno de Control, las atribuciones a que se refiere este artículo se ejercerán por el Órgano Interno de Control en la Secretaría.
-
-La Secretaría proporcionará al Órgano Interno de Control, los recursos humanos y materiales para el ejercicio de las atribuciones que este tiene encomendadas, incluyendo, en su caso, los que se requieran en sus órganos administrativos desconcentrados. Asimismo, las personas servidoras públicas de la Secretaría prestarán el auxilio que requiera el Órgano Interno de Control para el desempeño de sus atribuciones.
-
-Las ausencias de las personas titulares del Órgano Interno de Control, de las áreas de responsabilidades, quejas y auditoría, serán suplidas en términos de lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
+(DEROGADO, D.O.F. 24 DE FEBRERO DE 2025)
 
 ## TRANSITORIOS
 
@@ -7476,3 +8126,21 @@ SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan 
 TERCERO. Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que cambian de denominación, se modifican, desaparecen o se crean por virtud del presente ordenamiento, se entenderán hechas u otorgadas a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría de Hacienda y Crédito Público, debe cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha dependencia.
+
+D.O.F. 24 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO".]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+TERCERO. Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que cambian de denominación, se modifican, desaparecen o se crean por virtud del presente decreto, se entenderán hechas u otorgadas a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría de Hacienda y Crédito Público, debe cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha dependencia.
+
+QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución ante las unidades administrativas de la Secretaría de Hacienda y Crédito Público, cuyas atribuciones se modifican o se transfieren a otras unidades administrativas con motivo de la entrada en vigor del presente decreto, serán atendidos y resueltos por estas últimas de conformidad con las disposiciones que se encontraban vigentes al momento de su presentación.
+
+SEXTO. Las gestiones administrativas y laborales, así como los recursos humanos, financieros, tecnológicos y materiales necesarios para el ejercicio de las atribuciones conferidas a las unidades administrativas de la Secretaría de Hacienda y Crédito Público, en términos del presente decreto, deberán sujetarse a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Los derechos de los trabajadores serán respetados conforme a la ley.
