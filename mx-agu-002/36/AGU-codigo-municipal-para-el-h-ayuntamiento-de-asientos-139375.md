@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2024-12-02"
+last_updated: "2025-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -2441,25 +2441,61 @@ V. Tesorería Municipal;
 
 VI. Dirección de Servicios Públicos Municipales;
 
-VII. Dirección de Desarrollo Social y Rural;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-VIII. Dirección de Recursos Humanos y Materiales;
+VII. Dirección de Desarrollo Social;
 
-IX. Dirección de Planeación y Obras Públicas;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
-X. Dirección de Agua Potable, Alcantarillado y Ecología;
+VIII. Dirección de Desarrollo Rural;
 
-XI. Dirección de Seguridad Pública y Movilidad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2025)</small>
 
-XII. Dirección de Salud;
+IX. Dirección de Desarrollo Económico;
 
-XIII. Dirección de la Juventud y el Deporte;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
 
-XIV. Dirección de Turismo, Cultura y Desarrollo Económico.
+X. Dirección de Recursos Humanos y Materiales;
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
 
-XV. Dirección de Desarrollo Urbano y Asentamientos Humanos Irregulares
+XI. Dirección de Planeación y Obras Públicas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
+
+XII. Dirección de Agua Potable, Alcantarillado y Ecología;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
+
+XIII. Dirección de Seguridad Pública y Movilidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
+
+XIV. Dirección de Salud;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2025)</small>
+
+XV. Dirección de la Juventud y el Deporte;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XVI. Dirección de Turismo:
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XVII. Dirección de Cultura;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XVIII. Dirección de la Familia;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XIX. Dirección de Instancia Municipal de las Mujeres;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE FEBRERO DE 2025)</small>
+
+XX. Dirección de Planeación, Desarrollo Urbano y Asentamientos Humanos Irregulares.
 
 ###### ARTÍCULO 222°.
 
@@ -2761,6 +2797,142 @@ b) Departamento de Tránsito y Movilidad;
 
 c) Departamento de Prevención al Delito.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2025)</small>
+
+d) Departamento de Policía Rosa.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE FEBRERO DE 2025)</small>
+
+e) Comisario Regional de Seguridad Pública y Protección Civil, sección 1.
+
+1. Amarillas de Esparza
+
+2. Charco Azul
+
+3. San Vicente
+
+4. Jilotepec
+
+5. La Dichosa
+
+6. El Llavero
+
+7. El Tule
+
+8. Viudas de Poniente
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE FEBRERO DE 2025)</small>
+
+f) Comisario Regional de Seguridad Pública y Protección Civil, sección 2.
+
+1. San Rafael de Ocampo
+
+2. Colonia San Pedro
+
+3. San José del Rio
+
+4. El Polvo
+
+5. Molinos
+
+6. Pino Suarez
+
+7. Villa Juárez
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE FEBRERO DE 2025)</small>
+
+g) Comisario Regional de Seguridad Pública y Protección Civil I, sección 3.
+
+1. El Salitre
+
+2. Las Negritas
+
+3. Bajío de los Campos
+
+4. El Epazote
+
+5. Las Fraguas
+
+6. Tanque de Guadalupe
+
+7. Tinajuela
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE FEBRERO DE 2025)</small>
+
+h) Comisario Regional de Seguridad Pública y Protección Civil, sección 4.
+
+1. Las Adjuntas
+
+2. Tanque Viejo
+
+3. Ojo de Agua de los Sauces
+
+4. Pilotos
+
+5. La Esperanza
+
+6. Francisco Villa
+
+7. Colonia Emancipación
+
+8. San José del Tulillo
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE FEBRERO DE 2025)</small>
+
+i) Comisario Regional de Seguridad Pública y Protección Civil, sección 5.
+
+1. Ciénega Grande
+
+2. La Gloria
+
+3. Lázaro Cárdenas
+
+4. Los Encinos
+
+5. Crisóstomo
+
+6. San Gil
+
+7. Colonia Gómez Portugal
+
+8. Colonia Plutarco Elías Calles
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE FEBRERO DE 2025)</small>
+
+j) Comisario Regional de Seguridad Pública y Protección Civil, sección 6.
+
+1. Adolfo López Mateos
+
+2. Caldera
+
+3. Charco Prieto
+
+4. Clavellinas
+
+5. Gorriones
+
+6. Ojo de Agua de Rosales
+
+7. San Antonio de los Martínez
+
+8. Tepetatillo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE FEBRERO DE 2025)</small>
+
+k) Comisario Regional de Seguridad Pública y Protección Civil, sección 7.
+
+1. Guadalupe de Atlas
+
+2. Bimbaletes el Álamo
+
+3. Bimbaletes Atlas
+
+4. Colonia los Torres
+
+5. Norias del Borrego
+
+6. Jarillas
+
 XIV. Dirección de Salud:
 
 a) Departamento de Regulación Sanitaria;
@@ -2779,17 +2951,7 @@ XVI. Dirección de Turismo
 
 a) Subdirección de Turismo
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
-
-XVI (SIC). Dirección de Planeación, Desarrollo Urbano y Asentamientos Humanos Irregulares;
-
-a) Subdirección de Planeación y Asentamientos Humanos Irregulares
-
-b) Jurídico para la Regularización de Asentamientos Humanos Irregulares.
-
-c) Supervisor
-
-d) Secretaria Técnica
+XVI (SIC). (DEROGADA, P.O. 24 DE FEBRERO DE 2025)
 
 XVII. Dirección de Cultura
 
@@ -2799,7 +2961,15 @@ XVIII. Dirección de la Familia
 
 a) Subdirección de la Familia
 
-XV (SIC).- Dirección de Instancia Municipal de las Mujeres;
+XV (SIC).- (DEROGADA, P.O. 24 DE FEBRERO DE 2025)
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XIX. Dirección de Instancia Municipal de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
+
+XX. Dirección de Planeación, Desarrollo Urbano y Asentamientos Humanos Irregulares.
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -19072,3 +19242,11 @@ P.O. 2 DE DICIEMBRE DE 2024.
 PRIMERO.- Las reformas al presente Código Municipal, entrará (sic) en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias municipales que se opongan a lo dispuesto en el presente Código Municipal.
+
+P.O. 24 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL PARA ASIENTOS”.]
+
+Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Segundo.- Se tendrá un plazo de 30 días para expedir los nombramientos a que da origen el presente decreto.
