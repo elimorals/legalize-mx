@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2024-09-05"
+last_updated: "2025-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -45,9 +45,11 @@ LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN 
 
 ### CAPÍTULO I. NATURALEZA, PRINCIPIOS Y DEFINICIONES
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y de observancia general y obligatoria en todo el Estado de Michoacán de Ocampo y tiene por objeto establecer la coordinación entre los tres órdenes de Gobierno, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres por razones de género, así como establecer las políticas públicas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación.
+La presente Ley es de orden público, interés social y de observancia general y obligatoria en todo el Estado de Michoacán de Ocampo y tiene por objeto establecer la coordinación entre los tres órdenes de Gobierno, para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas por razones de género, así como establecer las políticas públicas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación.
 
 ###### ARTÍCULO 2.
 
@@ -64,6 +66,30 @@ IV. La libertad de las mujeres.
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
 
 V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+VI. La perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+VII. La debida diligencia;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+VIII. La interculturalidad;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+IX. La multiculturalidad;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+X. El enfoque diferencial; y,
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XI. La interseccionalidad.
 
 ###### ARTÍCULO 3.
 
@@ -121,7 +147,9 @@ XIX. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y E
 
 XX. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia;
 
-XXI. Servidores Públicos: Los representantes de elección popular, los miembros del Poder Judicial Federal, Estatal y Municipal, los funcionarios y empleados, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza al servicio del Estado de Michoacán de Ocampo y de sus municipios en la Administración Pública Federal, Estatal y Municipal, así como los organismos públicos y descentralizados;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XXI. Personas Servidoras Públicas: Los representantes de elección popular, los miembros del Poder Judicial Federal, Estatal y Municipal, los funcionarios y empleados, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza al servicio del Estado de Michoacán de Ocampo y de sus municipios en la Administración Pública Federal, Estatal y Municipal, así como los organismos públicos y descentralizados;
 
 XXII. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres por razones de género;
 
@@ -134,6 +162,26 @@ XXV. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo d
 XXVI. Violencia contra las Mujeres: Cualquier acción u omisión que, en razón del género, cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, o incluso, la muerte, tanto en el ámbito privado como en el público, que se expresa en amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, subordinación, discriminación, explotación y opresión de género en cualquiera de sus modalidades, afectando sus derechos humanos; y,
 
 XXVII. Violencia Feminicida: Es la forma extrema de violencia contra las mujeres por razones de género, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XXVIII. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades, creando múltiples ejes de diferencias que se interceptan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XXIX. Interculturalidad: Reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XXX. Multiculturalidad: Reconocimiento de la existencia de varias culturas que conviven en un mismo espacio físico, geográfico o social;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XXXI. Enfoque Diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto (sic) pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas; y,
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XXXII. Debida Diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 
 ###### ARTÍCULO 7.
 
@@ -433,9 +481,9 @@ IV. La Secretaría de Cultura;
 
 V. La Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2025)</small>
 
-VI. Secretaría de Desarrollo Social y Humano;
+VI. Secretaría de Bienestar;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
 
@@ -472,6 +520,10 @@ XIV. Representantes de instituciones académicas o de investigación con conocim
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
 
 XV. Organizaciones de la sociedad civil con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer en el Estado.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+XVI. Comisión Estatal para el Desarrollo de los Pueblos Indígenas.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
 
@@ -535,9 +587,11 @@ Este subsistema estará dirigido por quien presida la Comisión de Equidad de G�
 
 ### CAPÍTULO V. ATRIBUCIONES DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 28.
 
-El Gobernador del Estado, para el cumplimiento de esta Ley, deberá:
+La persona titular del Poder Ejecutivo del Estado, para el cumplimiento de esta Ley, deberá:
 
 I. Planear, ejecutar, coordinar y evaluar la política estatal en materia de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres;
 
@@ -555,9 +609,11 @@ VII. Impulsar la creación de refugios para las víctimas conforme al modelo de 
 
 VIII. Nombrar al representante del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponde al Secretario de Gobierno desempeñar las siguientes facultades:
+Corresponde a la persona titular de la Secretaría de Gobierno desempeñar las siguientes facultades:
 
 I. Presidir el Sistema Estatal;
 
@@ -573,19 +629,21 @@ VI. Brindar la asesoría que requieran los municipios a fin de suscribir conveni
 
 VII. Rendir ante el Congreso del Estado un informe anual en el mes de noviembre respecto de las políticas públicas, acciones gubernamentales que señala el presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 30.
 
-Corresponde al Titular de la Secretaría de Desarrollo Social y Humano desempeñar las siguientes facultades:
+Corresponde a la persona titular de la Secretaría de Bienestar desempeñar las siguientes facultades:
 
 I. Participar en el sistema estatal y subsistema municipal regional, para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres por razones de género, así como los mecanismos de evaluación de las mismas; y,
 
 II. Fomentar el desarrollo social de las mujeres desde la visión de protección integral, con perspectiva de género, que involucre los derechos humanos, mediante el fortalecimiento de las capacidades y la corresponsabilidad de todos los ciudadanos para garantizar a las mujeres una vida libre de violencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 31.
 
-Corresponde al Titular de la Secretaría de Educación desempeñar las siguientes facultades:
+Corresponde a la persona titular de la Secretaría de Educación desempeñar las siguientes facultades:
 
 I. Integrar, en las políticas docentes, los principios de igualdad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos de las mujeres;
 
@@ -595,29 +653,47 @@ III. Proporcionar información, formación y capacitación a todo el personal de
 
 IV. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
 
-ARTÍCULO 31 bis. Corresponde al titular de la Secretaría de Cultura desempeñar las siguientes facultades:
+ARTÍCULO 31 bis. Corresponde a la persona titular de la Secretaría de Cultura desempeñar las siguientes facultades:
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
 I. Definir y difundir en las políticas culturales, los principios de equidad y no exclusión entre hombres y mujeres con base en los derechos humanos;
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
 II. Incluir en los programas culturales de las diferentes disciplinas artísticas, aspectos que fomenten el respeto a una vida libre de violencia y el respeto a la dignidad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
 III. Garantizar acciones que incentiven la participación y la inclusión de las mujeres en todos sus programas y actividades;
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
 IV. Propiciar la investigación en los procesos creativos de disciplinas artísticas, encaminadas a crear modelos que permitan detectar la violencia contra las mujeres en el ámbito profesional;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
 V. Incorporar en los programas culturales, contenidos que coadyuven a través de las artes a abatir modelos de conductas sociales y culturales, que impliquen prejuicios, estereotipos o roles sociales, entre hombres y mujeres que pongan a hombres y mujeres en niveles de superioridad o inferioridad;
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
 VI. Propiciar la capacitación al personal de los recintos culturales en el Estado, para poder detectar problemas de violencia contra la mujer;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
 VII. Propiciar la elaboración de materiales que promuevan la prevención y atención a la violencia contra las mujeres, en los programas de difusión o actividades culturales; y,
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+
 VIII. Promover un sentido crítico en actividades y obras de autores, intérpretes o ejecutantes, que se puedan relacionar con la violencia contra las mujeres, o promocionen estereotipos que discriminen o incentiven la desigualdad entre hombres y mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 32.
 
-Corresponde al Titular de la Secretaría de Salud desempeñar las siguientes facultades:
+Corresponde a la persona titular de la Secretaría de Salud desempeñar las siguientes facultades:
 
 I. Diseñar la política de salud para la prevención, atención y erradicación de la violencia contra las mujeres en el marco del Programa Estatal con perspectiva de género;
 
@@ -651,9 +727,11 @@ X. Apoyar a las autoridades e instituciones estatales encargadas de efectuar inv
 
 XI. Ofrecer y brindar apoyo institucional y profesional en materia médica, de trabajo social y psicología a toda niña y adolescente embarazada. En caso de detectar indicios de que la niña o adolescente ha sido o es víctima de violencia sexual, la Secretaría dará vista al Ministerio Público y a la Comisión Ejecutiva Estatal de Atención a Víctimas conforme al Protocolo de Atención Inmediata referido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo, y se activarán los mecanismos de protección, atención y acompañamiento institucionales a cargo de las dependencias y entidades públicas estatales y municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 33.
 
-Corresponde al Titular de la Secretaría de Seguridad Pública desempeñar las siguientes facultades:
+Corresponde a la persona titular de la Secretaría de Seguridad Pública desempeñar las siguientes facultades:
 
 I. Participar en el diseño de la política con perspectiva de género en materia de seguridad pública para prevenir, atender y combatir la violencia contra las mujeres por razones de género en el marco del Programa Estatal;
 
@@ -1165,13 +1243,17 @@ II. La evaluación anual del desempeño de servidores públicos adscritos a cuer
 
 III. La armonización y la interpretación integral jurídica y social con perspectiva de género.
 
-### CAPÍTULO XII. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO XII. RESPONSABILIDADES DE LAS PERSONAS SERVIDORAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 75.
 
-Para la determinación de responsabilidades, los servidores públicos serán sancionados por los órganos de control competentes y mediante los procedimientos establecidos en la legislación aplicable, sin menoscabo de las acciones penales, civiles o cualquier otra que se deriven de su incumplimiento.
+Para la determinación de responsabilidades, las personas servidoras públicas serán sancionadas por los órganos de control competentes y mediante los procedimientos establecidos en la legislación aplicable, sin menoscabo de las acciones penales, civiles o cualquier otra que se deriven de su incumplimiento.
 
-En caso de que los Síndicos no emitan las órdenes de protección, serán sujetos a responsabilidad.
+En caso de que las personas titulares de la Sindicatura Municipal no emitan las órdenes de protección, serán sujetos a responsabilidad.
 
 T R A N S I T O R I O S
 
@@ -1394,3 +1476,11 @@ P.O. 5 DE SEPTIEMBRE DE 2024.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 25 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 98 POR EL QUE “SE REFORMA EL ARTÍCULO 1; SE ADICIONAN LAS FRACCIONES VI, VII, VIII, IX, X Y XI AL ARTÍCULO 2; SE REFORMA LA FRACCIÓN XXI Y SE ADICIONAN LAS FRACCIONES XXVIII, XXIX, XXX, XXXI Y XXXII DEL ARTÍCULO 6; SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 20; SE REFORMA EL PRIMER PÁRRAFO DE LOS ARTÍCULOS 28, 29, 30, 31, 31 BIS 32 Y 33; EL TÍTULO DEL CAPÍTULO XII; Y, EL ARTÍCULO 75, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto a la persona titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
