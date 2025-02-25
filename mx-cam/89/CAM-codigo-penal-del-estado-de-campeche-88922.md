@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-02-14"
+last_updated: "2025-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1579,13 +1579,17 @@ En todos los casos del presente Capítulo, si el agente y la víctima tuvieren p
 
 ### CAPÍTULO VI. ABORTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 155.
 
-Aborto es la interrupción del embarazo en cualquier momento de su desarrollo.
+Aborto es la interrupción del embarazo después de la décima segunda semana de gestación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE FEBRERO DE 2025)</small>
 
 Se entiende por embarazo, al período que transcurre entre la implantación en el endometrio del óvulo fecundado y el momento del parto.
 
-Se impondrán de veinticuatro a setenta y dos jornadas de trabajo a favor de la comunidad a la mujer que voluntariamente practique su aborto antes de las doce semanas de embarazo. La misma sanción se impondrá al que induzca a una mujer a abortar o al que participe en un aborto o lo ejecute, con consentimiento de la mujer, sea cual fuere el medio que empleare, antes de las doce semanas de embarazo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 156.
 
@@ -1595,29 +1599,57 @@ La misma sanción se impondrá al que induzca a una mujer a abortar o al que par
 
 Para efectos del presente artículo y del artículo anterior, sólo se sancionará el delito cuando el aborto se haya consumado.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 157.
 
-Al que obligue a abortar a una mujer, por cualquier medio, se le impondrán de cuatro a siete años de prisión. A quien participe en un aborto o ejecute el mismo, sin consentimiento de la mujer, se le impondrán de tres a seis años de prisión. En este último caso, si mediare violencia física o psicológica, se impondrá al agente de cinco a ocho años de prisión.
+Al que obligue a abortar a una mujer o persona con capacidad de gestar en cualquier momento del embarazo, por cualquier medio, se le impondrán de cinco a ocho años de prisión. A quien participe en un aborto o ejecute el mismo, sin consentimiento de la mujer o persona con capacidad de gestar, se le impondrán de cuatro a siete años de prisión. En este último caso, si mediare violencia física o psicológica, se impondrá al agente de ocho a diez años de prisión.
 
-Para efectos del presente artículo, si el aborto no se consumare por causas ajenas a la voluntad del agente, se impondrá una tercera parte de las sanciones previstas en cada caso.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 158.
 
-Si el aborto lo causare un médico cirujano, comadrona o partero, enfermero o practicante, además de las sanciones que le correspondan conforme a los artículos anteriores, se le suspenderá por un tiempo igual al de la sanción impuesta en el ejercicio de su profesión u oficio.
+Si el aborto lo causare personal médico, de enfermería o practicante de estas disciplinas, así como por personas comadronas o personas parteras en los supuestos del artículo 157, además de las sanciones que le correspondan conforme a ese artículo, se le suspenderá por un tiempo igual al de la sanción impuesta en el ejercicio de su profesión u oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 159.
 
 Se consideran como excluyentes de responsabilidad penal en el delito de aborto:
 
-I. Cuando sea el resultado de una conducta imprudencial de la mujer embarazada;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2025)</small>
 
-II. Cuando el embarazo sea resultado de una violación, siempre que se practique dentro de las primeras doce semanas de embarazo;
+I. Cuando sea el resultado de una conducta imprudencial de la mujer embarazada o persona gestante;
 
-III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de afectación grave a su salud a juicio del médico que la asista, quien deberá oír previamente el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2025)</small>
 
-En el caso de la fracción II de este artículo, bastará con los dictámenes médico y psicológico que determinen la existencia de una violación, avalados por el ministerio público, para que se actualice la excluyente de responsabilidad.
+II. Cuando el embarazo sea resultado de una violación o de una inseminación artificial no consentida;
 
-En los casos de las fracciones II y III del presente artículo, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2025)</small>
+
+III. Cuando de no provocarse el aborto, la mujer embarazada o persona con capacidad de gestar corra peligro, corra peligro de afectación grave a su salud o esté en peligro su vida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE FEBRERO DE 2025)</small>
+
+IV. Cuando la mujer embarazada o persona con capacidad de gestar haya sido víctima de lenocinio o trata de personas y el embarazo sea resultado de esos delitos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE FEBRERO DE 2025)</small>
+
+V. Cuando a juicio de un médico especialista exista razón suficiente para diagnosticar que el feto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada o persona gestante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE FEBRERO DE 2025)</small>
+
+VI. Cuando el aborto obedezca a causas económicas graves y justificadas a partir del reconocimiento de la condición de desigualdad estructural histórica en la que vive la mujer, particularmente mujeres y personas con capacidad de gestar en condiciones precarizadas como indígenas, rurales, migrantes o que fueron sobrevivientes de delitos de violencia sexual o tentativa de feminicidio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE FEBRERO DE 2025)</small>
+
+VII. Cuando una autoridad le hubiese negado previamente la posibilidad de interrumpir su embarazo dentro del plazo de las primeras doce semanas de gestión bajo cualquier argumento.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE FEBRERO DE 2025)</small>
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2025)</small>
+
+En los casos de las fracciones II y IV de este artículo, el personal médico tiene la obligación de proporcionar información objetiva, veraz, suficiente y oportuna sobre los procedimientos y derechos a las mujeres y personas gestantes; así como de los apoyos y alternativas existentes, para que puedan tomar la decisión de manera libre e informada. El ejercicio de este derecho no podrá condicionarse a la presentación de la denuncia ni a la presentación de estudios médicos o psicológicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
@@ -5222,3 +5254,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 25 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 62 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 155, 157, 158 Y 159 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
