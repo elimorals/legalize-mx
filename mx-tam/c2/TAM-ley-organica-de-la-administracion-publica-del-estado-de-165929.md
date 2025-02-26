@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-02-04"
+last_updated: "2025-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -607,9 +607,15 @@ XXIX. Coordinar en el ámbito de su competencia, la operación de los fondos y f
 
 XXX. Impulsar en coordinación con las Dependencias y Entidades competentes, la igualdad de oportunidades laborales y de emprendimiento para las mujeres, jóvenes y los grupos sociales vulnerables y en desventaja;
 
-XXXI. Impulsar la economía del bienestar para el desarrollo de los sectores productivos tamaulipecos; y
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2025)</small>
 
-XXXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXXI. Impulsar la economía del bienestar para el desarrollo de los sectores productivos tamaulipecos;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2025)</small>
+
+XXXII. Coordinar administrativamente las actividades de la Empresa de Participación Estatal Mayoritaria denominada "Administración Portuaria Integral de Tamaulipas", Sociedad Anónima de Capital Variable, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
+
+XXXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección VI. De la Secretaría de Turismo
 
@@ -1742,3 +1748,27 @@ P.O. 4 DE FEBRERO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-250 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXI; Y SE ADICIONA LA FRACCIÓN XXXII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL PARA SER XXXIII, DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Con fundamento en lo previsto en el artículo 4 de la Ley de Entidades Paraestatales del Estado, la Empresa de Participación Estatal Mayoritaria denominada "Administración Portuaria Integral de Tamaulipas", Sociedad Anónima de Capital Variable, será coordinada administrativamente por la dependencia denominada Secretaría de Economía del Gobierno del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría de Economía para que en un plazo de 90 días, posteriores a la entrada en vigor del presente Decreto, realice las adecuaciones normativas y administrativas, que, en su caso, se originen con la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los actos jurídicos celebrados por la Empresa de Participación Estatal Mayoritaria denominada "Administración Portuaria Integral de Tamaulipas", Sociedad Anónima de Capital Variable, previos a la entrada en vigor del presente Decreto, se entenderán válidos y vigentes, sin que se cause perjuicio alguno derivado de la nueva sectorización de la misma.
