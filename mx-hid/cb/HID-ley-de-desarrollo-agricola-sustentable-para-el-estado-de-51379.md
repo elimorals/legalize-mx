@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2025-01-28"
+last_updated: "2025-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -675,6 +675,10 @@ En materia de sanidad vegetal, se orientarán acciones a reducir los riesgos par
 
 Las actividades se dirigirán a evitar la entrada de plagas y enfermedades a la Entidad, en particular las de interés cuarentenario; a controlar y erradicar las existentes, a fin de alcanzar el estatus fitosanitario que permita mejorar la calidad de los productos agrícolas y a acreditar la condición sanitaria de la producción agrícola. Las acciones y programas que llevarán a cabo las Dependencias y Entidades competentes, se ajustarán a la Ley Federal de Sanidad Vegetal.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
+El Estado podrá colaborar con organizaciones de productores, universidades, instituciones de educación superior y asociaciones de profesionistas en al ámbito agrícola, para efecto de capacitar, dar asistencia técnica y divulgar información en materia de sanidad vegetal.
+
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 30 BIS.- La Secretaría en coordinación con la Procuraduría, tendrán la facultad de monitorear periódicamente los suelos, aguas, productos agrícolas y a los trabajadores que estén en contacto permanente con el uso de sustancias químicas y tóxicas en el campo, así como promover aplicaciones masivas y controladas previniendo y reduciendo en la medida el impacto ambiental y a la biodiversidad de estas acciones, en áreas con problemas fitosanitarios frecuentes.
@@ -893,21 +897,43 @@ A efecto de especializar los procesos de producción y comercialización, los pr
 
 Se impulsará la inserción de los productores y sus organizaciones en la comercialización, mediante la creación y modernización de los sistemas de acopio, construcción de infraestructura de comunicación, así como se establecerán los mercados de origen y de destino, a través de ejercicios de planeación participativa dentro de las propias organizaciones existentes por sistema-producto, lo cual posibilitará integrar el Padrón confiable de productores y la canalización adecuada de los subsidios y apoyos que estén dirigidos a cada rama productiva.
 
-### CAPITULO X. DE LA INVESTIGACION Y TRANSFERENCIA DE TECNOLOGIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2025)</small>
+
+### CAPÍTULO X. DE LA EDUCACIÓN, INVESTIGACIÓN Y TRANSFERENCIA DE TECNOLOGÍA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 55.
 
-La Secretaría, en coordinación con la Federación, con la opinión de las instancias de consulta y participación, promoverá como acciones prioritarias de los proyectos de investigación científica, desarrollo y transferencia de tecnología, las siguientes:
+La Secretaría, en coordinación con la Federación, con la opinión de las instancias de consulta y participación, promoverá como acciones prioritarias de los proyectos de educación, investigación científica, desarrollo y transferencia de tecnología, las siguientes:
 
-I.- Identificar áreas prioritarias en las que sea necesario apoyar actividades de investigación y formación de recursos humanos;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
+I.- Identificar áreas prioritarias en las que sea necesario apoyar actividades de educación, investigación y formación de recursos humanos;
 
 II.- Crear y coordinar organismos a través de los cuales se capten y canalicen los recursos financieros a centros de investigación de alto nivel, tanto Nacionales como extranjeros, para proyectos específicos relacionados con la reconversión de cultivos, el establecimiento de técnicas apropiadas, nuevas variedades y mejoramiento y producción de semillas y en general la solución de problemas científicos y tecnológicos, que requiera el desarrollo agrícola sustentable del Estado;
 
 III.- Promover ante instituciones públicas y privadas, Nacionales y extranjeras, la aportación de recursos que permitan fortalecer las instancias de investigación existentes en el Estado;
 
-IV.- Promover la transferencia de tecnología requerida para el desarrollo agrícola, así como respaldar esta actividad con los recursos económicos necesarios, a fin de que se realice en la magnitud y en el tiempo requerido, para que cumpla con los objetivos de esta Ley; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2025)</small>
 
-V.- Promover el intercambio científico y tecnológico con otros países, así como coordinar investigaciones con las de otras instituciones vinculadas con el desarrollo científico y tecnológico del campo.
+IV.- Promover la transferencia de tecnología requerida para el desarrollo agrícola, así como respaldar esta actividad con los recursos económicos necesarios, a fin de que se realice en la magnitud y en el tiempo requerido, para que cumpla con los objetivos de esta Ley;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2025)</small>
+
+V.- Promover el intercambio científico y tecnológico con otros países, así como coordinar investigaciones con las de otras instituciones vinculadas con el desarrollo científico y tecnológico del campo;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2025)</small>
+
+VI.- Establecer convenios con universidades e instituciones de educación superior en el Estado, así como con asociaciones de profesionistas en el ámbito agrícola, con el propósito de realizar investigaciones y facilitar la transferencia tecnológica bajo criterios de sustentabilidad;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2025)</small>
+
+VII.- Promover y difundir entre los productores y organizaciones agrícolas la realización de cursos, seminarios, talleres y otros recursos informativos, con el objetivo de impulsar la educación y la transferencia tecnológica en la actividad agrícola, y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2025)</small>
+
+VIII.- Contribuir con las autoridades competentes en el diseño y elaboración de materiales de comunicación educativa agrícola.
 
 ###### ARTICULO 56.
 
@@ -1494,5 +1520,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 28 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 193 - LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4 BIS Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 36 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE PARTICIPACIÓN EFECTIVA DE MUJERES DE COMUNIDADES RURALES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 201 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN Y TRANSFERENCIA TECNOLÓGICA EN LA ACTIVIDAD AGRÍCOLA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
