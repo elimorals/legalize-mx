@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-01-28"
+last_updated: "2025-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1039,17 +1039,21 @@ ff BIS).- Garantizar el derecho de todos los habitantes del municipio a vivir en
 
 gg).- Aprobar el Atlas Municipal de Riesgos dentro de los ciento ochenta días naturales posteriores al inicio de la administración municipal, así como la actualización de este cada dos años, para lo cual deberán contemplar en su presupuesto de egresos el monto correspondiente para su elaboración o actualización;
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2025)</small>
 
-hh).- Promover condiciones para la participación de los municipios con el Estado en la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, y
+hh) Promover condiciones para la participación de los municipios con el Estado en la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente;
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2025)</small>
 
-ii).- Evaluar la terna propuesta por la Contraloría en términos de la fracción XII Bis del artículo 106, y designar a los auditores externos mejor calificados para los efectos correspondientes.
+ii) Evaluar la terna propuesta por la Contraloría en términos de la fracción XII Bis del artículo 106, y designar a los auditores externos mejor calificados para los efectos correspondientes;
 
-(ADICIONADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 15 DE JULIO DE 2024)
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2025)</small>
 
-jj).- Previa aprobación de sus miembros, llamar a comparecer a cualquier persona servidora pública de su municipio.
+jj) Previa aprobación de sus miembros, llamar a comparecer a cualquier persona servidora pública de su municipio;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2025)</small>
+
+kk) Formular un Programa Anual del Deporte y la Cultura Física, procurando el aprovechamiento racional y adecuado de los recursos que la Administración Pública Municipal destine para este rubro.
 
 II.- Asimismo, podrán:
 
@@ -5172,5 +5176,11 @@ P.O. 28 DE ENERO DE 2025.
 P.O. 28 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 190 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROFESIONALIZACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 202–LXVI POR EL QUE SE ADICIONA UN INCISO KK) A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO AL DEPORTE Y LA CULTURA FÍSICA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
