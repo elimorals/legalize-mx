@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-salud-35576"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-19"
-last_updated: "2018-02-07"
+last_updated: "2025-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-01-15"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, PUBLICADO EN EL D.O.F. DE 27 DE FEBRERO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2025 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 19 de enero de 2004.
 
@@ -3084,3 +3086,21 @@ QUINTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en e
 SEXTO.- Las atribuciones que se otorgan en decretos, reglamentos, acuerdos, lineamientos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Salud que cambian de denominación o modifican sus atribuciones, por virtud de la entrada en vigor del presente Decreto, se entenderán conferidas a las unidades administrativas que asuman dichas atribuciones conforme a lo establecido en este ordenamiento.
 
 SÉPTIMO.- Los asuntos que se encuentran en trámite o pendientes de resolución al momento de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas que resulten competentes conforme a lo previsto en este ordenamiento.
+
+D.O.F. 27 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Salud publicado en el Diario Oficial de la Federación el 19 de enero de 2004 y sus modificaciones.
+
+TERCERO. La persona titular de la Secretaría de Salud debe expedir los manuales de organización y los de procedimientos de la Secretaría, necesarios para el funcionamiento de esa dependencia, a más tardar dentro de los 180 días hábiles siguientes a la publicación del presente Reglamento.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+QUINTO. Los trámites iniciados en fecha anterior a la entrada en vigor de este reglamento, continuarán hasta su conclusión, de conformidad con los ordenamientos vigentes al momento de su inicio y por las Unidades Administrativas competentes de conformidad con este reglamento.
+
+SEXTO. Las referencias y facultades previstas en otros ordenamientos para Unidades Administrativas de la Secretaría de Salud que hayan cambiado su denominación por disposición de este reglamento, se entenderán hechas y atribuidas, respectivamente, a las Unidades Administrativas competentes por disposición de este mismo reglamento.
+
+SÉPTIMO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a la Secretaría de Salud para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
