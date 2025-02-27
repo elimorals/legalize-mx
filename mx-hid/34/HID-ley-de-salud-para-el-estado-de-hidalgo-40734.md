@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2024-09-17"
+last_updated: "2025-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -1425,6 +1425,26 @@ La Autoridad Municipal será la responsable de la autorización de estos giros.
 
 Se entiende por establecimientos especializados en adicciones, a las instituciones de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
+###### Artículo 140 Bis.
+
+Las personas usuarias de los servicios de establecimientos especializados en adicciones tienen los siguientes derechos:
+
+I.- Consentir o denegar su permiso para acceder de forma voluntaria a los servicios de detección, prevención, tratamiento y rehabilitación, como parte de la atención integral del consumo de sustancias psicoactivas.
+
+Para tal efecto, la persona usuaria deberá previamente recibir información clara, suficiente, oportuna y veraz que le permita conocer los beneficios esperados y los eventuales riesgos en caso de aceptar la intervención terapéutica, así como las consecuencias en caso de no aceptarla. De igual forma deberá conocer los alcances, modalidades y temporalidad de los tratamientos y servicios ofrecidos;
+
+II.- Recibir el tratamiento que permita la reinserción familiar y comunitaria, procurando la participación activa de familiares u otras personas que, dentro de una dinámica terapéutica, contribuyan a los resultados esperados de la recuperación. Dicha participación no podrá ser condicionada o restringida;
+
+III.- Recibir tratamiento por consumo de sustancias psicoactivas, bajo la modalidad residencial o deambulatoria, de forma oportuna, eficiente y de calidad. Dichos servicios deberán estar sustentados en un modelo reconocido por la autoridad sanitaria y deberán ser proporcionados por personal profesional y especializado, respetando la integridad física y mental, así como la dignidad de la persona usuaria;
+
+IV.- Recurrir ante las instancias correspondientes para presentar quejas y denuncias relacionadas con los servicios de atención otorgados;
+
+V.- Suspender el programa de tratamiento y, en su caso, abandonar el establecimiento cuando así determine la persona usuaria o su representante legal, y
+
+VI.- Los demás que les sean reconocidos en las leyes y disposiciones reglamentarias en la materia.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 141.
@@ -1435,11 +1455,11 @@ Los establecimientos a que se refiere este capítulo requieren de licencia sanit
 
 La Autoridad Sanitaria, aprobará la instalación de estos establecimientos cuando hayan cumplido con las disposiciones correspondientes sobre las instalaciones físicas, de equipamiento y de recursos humanos para su atención, efectuando el control, vigilancia sanitaria y verificación de la aplicación de los lineamientos de rehabilitación y tratamiento conforme a la normatividad vigente.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 142.
 
-En estos establecimientos, se garantizará el respeto a los derechos humanos y a la dignidad de las personas, teniendo comunicación con el exterior, quedando prohibido cualquier acto de discriminación basada en origen étnico, sexo, edad, discapacidad, condición social o económica, condiciones de salud, creencia religiosa, preferencias sexuales, estado civil, también cualquier agresión física, moral o psicológica, tortura, mutilación, abuso sexual, así como toda conducta que atente contra la vida o la integridad de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana, integridad física o mental, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
@@ -2776,3 +2796,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1122 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 204 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 142 Y SE ADICIONA UN ARTÍCULO 140 BIS A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LAS PERSONAS USUARIAS DE ESTABLECIMIENTOS ESPECIALIZADOS EN ADICCIONES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
