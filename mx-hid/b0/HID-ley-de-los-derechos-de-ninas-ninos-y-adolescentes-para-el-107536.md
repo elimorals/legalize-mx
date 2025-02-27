@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2025-01-09"
+last_updated: "2025-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -1281,13 +1281,19 @@ XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inc
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2025)</small>
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal, así mismo tratándose de los casos de paternidad en niños y adolescentes;
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal;
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2022)</small>
 
 XXI Bis. Fomentar la difusión de la información y orientación sobre el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual; y
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 27 DE FEBRERO DE 2025, PÁGINA 31.]</small>
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2025)</small>
+
+XXI Bis (SIC). Crear entornos escolares seguros y libres de consumo, posesión y venta de fentanilo y de cualquier tipo de drogas sintéticas no autorizadas; y
 
 XXII. Garantizar que las niñas, niños y adolescentes indígenas tengan efectivo su derecho a recibir educación básica en sus tres niveles, con las adaptaciones requeridas para recibir una formación bilingüe e intercultural, garantizándoles las medidas necesarias para eliminar del sistema educativo, los prejuicios y los adjetivos que los denigren como indígenas.
 
@@ -2982,3 +2988,9 @@ P.O. 9 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 18 - LXVI POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 23 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE ATENCIÓN A LA NIÑEZ Y ADOLESCENCIA CON FAMILIARES EN SITUACIÓN DE RECLUSIÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 208 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XXI Y SE ADICIONA UNA FRACCIÓN XXI BIS AL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE CENTROS ESCOLARES LIBRES DE DROGAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
