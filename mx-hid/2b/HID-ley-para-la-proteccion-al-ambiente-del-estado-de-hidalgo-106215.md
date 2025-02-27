@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2024-10-15"
+last_updated: "2025-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -2379,9 +2379,15 @@ La verificación, inspección y vigilancia en materia de aguas de competencia Es
 
 Tratándose de plantas de tratamiento de aguas residuales, las inspecciones a las que se refiere este artículo, deberán enfocarse, además, al diagnóstico de las condiciones estructurales y de funcionamiento para identificar, oportunamente, posibles fallas o daños y proceder a su inmediata reparación.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
+Se prohíbe de manera expresa la descarga de aguas residuales industriales que excedan los límites máximos permisibles de las Normas Oficiales Mexicanas aplicables, y que puedan poner en riesgo a los ecosistemas naturales o la calidad del agua destinada al consumo humano.
+
 Las disposiciones contenidas en el presente artículo son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de agua y a los sistemas de drenaje y alcantarillado de los municipios, observando las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
-Los responsables de las descargas de las aguas residuales a las que se refiere este artículo, deberán tramitar la Licencia Ambiental Estatal ante la Secretaría y presentar los estudios correspondientes.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
+Los responsables de las descargas de aguas residuales a las que se refiere este artículo deberán tramitar la Licencia Ambiental Estatal ante la Secretaría y presentar los estudios correspondientes, incluyendo un programa de reducción de contaminantes y un programa de monitoreo continuo.
 
 ###### Artículo 167.
 
@@ -3880,3 +3886,9 @@ P.O. 15 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1039 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 205 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PÁRRAFOS DEL ARTÍCULO 166 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE REGULACIÓN DE DESCARGA DE AGUAS RESIDUALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
