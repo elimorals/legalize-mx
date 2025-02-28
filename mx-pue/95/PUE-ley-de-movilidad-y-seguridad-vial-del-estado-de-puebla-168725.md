@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-seguridad-vial-del-estado-de-puebla-168725"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-05"
-last_updated: "2024-01-12"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
 
 Ley publicada en la Segunda Edición Vespertina del Número 3 del Periódico Oficial del Estado de Puebla.
 
@@ -219,7 +217,9 @@ XVI. Crucero o intersección: Lugar donde se unen dos o más vías;
 
 XVII. Desplazamientos: Recorrido de una persona asociado a un origen y un destino preestablecidos con un propósito determinado en cualquier modo de movilidad;
 
-XVIII. Dirección: Dirección de Operaciones Policiales de la Secretaría de Seguridad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XVIII. Dirección: Dirección de Proximidad Vial de la Secretaría de Movilidad y Transporte;
 
 XIX. Dispositivos de control del tránsito: Conjunto de señales, marcas y demás elementos que se colocan en las vías con el objeto de regular la circulación de personas peatonas y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento;
 
@@ -289,7 +289,7 @@ LI. Reglamento de Vialidad: Reglamento de la Ley de Movilidad y Seguridad Vial d
 
 LII. Secretaría: Secretaría de Movilidad y Transporte del Gobierno del Estado;
 
-LIII. Secretaría de Seguridad: Secretaría de Seguridad Pública del Gobierno del Estado;
+LIII. (DEROGADA, P.O. 28 DE FEBRERO DE 2025)
 
 LIV. Seguridad vehicular: Medidas enfocadas en el desempeño de protección que brinda un vehículo de motor a las personas en calidad de pasajeras y usuarias de la vía pública contra el riesgo de muerte o lesiones en caso de un siniestro de tránsito;
 
@@ -481,7 +481,9 @@ I. Hacer uso de las vías en los términos de la presente Ley, sus reglamentos y
 
 II. Derecho a convenir en caso de siniestro de tránsito, en los casos permitidos por la Ley;
 
-III. Atender las indicaciones de las y los policías que atienden la seguridad vial en el Estado de Puebla, promotores voluntarios de seguridad vial y la señalización vial;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+III. Atender las indicaciones de las y los Agentes de Proximidad Vial encargadas de la seguridad vial en el Estado de Puebla, promotores voluntarios de seguridad vial y la señalización vial;
 
 IV. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con discapacidad o que imposibilite el estacionamiento o circulación de vehículos en la vía pública;
 
@@ -651,7 +653,7 @@ III. La Secretaría de Infraestructura;
 
 IV. La Secretaría de Movilidad y Transporte;
 
-V. La Secretaría de Salud;
+VI. (DEROGADA, P.O. 28 DE FEBRERO DE 2025)
 
 VI. La Secretaría de Seguridad y su Dirección de Operaciones Policiales;
 
@@ -785,9 +787,11 @@ III. Promover e impulsar en coordinación con la Secretaría y las demás autori
 
 IV. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 34.
 
-Corresponde a la Secretaría de Seguridad Pública, dentro de las vías de jurisdicción estatal el ejercicio de las siguientes atribuciones:
+Además de las atribuciones previstas en el artículo 30 del presente ordenamiento, le corresponde a la Secretaría, dentro de las vías de jurisdicción estatal, las siguientes:
 
 I. Supervisar en el ámbito de su competencia que la vialidad estatal, su infraestructura, servicios y elementos inherentes o incorporados a ellos, se utilicen en forma adecuada conforme a su naturaleza, con base en las políticas de movilidad que emita la Secretaría, coordinándose, en su caso, con las áreas correspondientes para lograr este objetivo;
 
@@ -813,17 +817,23 @@ XI. Realizar operativos de alcoholimetría;
 
 XII. Aplicar en el ámbito de sus competencias las sanciones previstas en el presente ordenamiento, así como las demás disposiciones aplicables en materia de tránsito y vialidad;
 
-XIII. Proponer a la persona Titular del Ejecutivo del Estado a la persona que habrá de fungir como Titular de la Dirección de Operaciones Policiales;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XIII. Proponer a la persona Titular del Ejecutivo del Estado a la persona que habrá de fungir como Titular de la Dirección de Proximidad Vial;
 
 XIV. Aplicar las sanciones procedentes a los conductores de vehículos en todas sus modalidades, por violaciones a las normas de tránsito, y
 
 XV. Las demás previstas para el cumplimiento de la presente Ley.
 
-Tratándose de los integrantes de seguridad pública sus atribuciones se establecerán en los Reglamentos correspondientes.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+Tratándose de las y los Agentes de Proximidad Vial, sus atribuciones se establecerán en los Reglamentos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 35.
 
-Las facultades de los elementos de la policía que atienden la seguridad vial en el Estado de Puebla adscritos a la Dirección, serán las siguientes:
+Las facultades de las y los Agentes de Proximidad Vial que atienden la seguridad vial en el Estado de Puebla, adscritos a la Dirección, serán las siguientes:
 
 I. Las que les delegue por acuerdo de la persona titular del Ejecutivo del Estado, de la Secretaría o la persona Titular de la Dirección;
 
@@ -931,7 +941,7 @@ IV. La Secretaría de Movilidad y Transporte;
 
 V. La Secretaría de Salud;
 
-VI. La Secretaría de Seguridad Pública;
+VI. (DEROGADA, P.O. 28 DE FEBRERO DE 2025)
 
 VII. La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
@@ -1179,9 +1189,11 @@ La información que se suministre al sistema será generada, analizada y remitid
 
 La información del sistema permitirá dar seguimiento y difusión a la información en la materia, podrá incluir componentes de datos abiertos y se regirá por lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados; así como por la Ley de Transparencia y Acceso a la Información Pública, ambas del Estado de Puebla.
 
+> <small>(REFORMADO PRIMER PÁRRFO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 69.
 
-El Sistema Estatal de Información y Seguimiento de Seguridad Vial, es la base de datos que la Secretaría de Seguridad deberá integrar y operar, con el objeto de registrar, procesar y actualizar la información en la materia.
+El Sistema Estatal de Información y Seguimiento de Seguridad Vial, es la base de datos que la Secretaría deberá integrar y operar, con el objeto de registrar, procesar y actualizar la información en la materia.
 
 La información que se suministre al sistema será generada, analizada y remitida, por los entes públicos organismos y entidades que correspondan del Estado de Puebla y sus Municipios, incluyendo sectores privados que manejen información clave en la materia, de manera trimestral. Estará compuesto por información homologada, georreferenciada, estadística e indicadores homologados sobre movilidad y seguridad vial, de gestión administrativa, infracciones, siniestro de tránsito, así como información sobre instrumentos de planeación y avance de proyectos y programas.
 
@@ -1191,9 +1203,11 @@ La información del sistema permitirá dar seguimiento y difusión a la informac
 
 Con la información, datos e indicadores de gestión obtenidos de los Sistemas de Información y de Seguimiento de Movilidad y de Seguridad Vial, se promoverán las acciones para revisar de manera sistemática la ejecución del Programa Estatal. Asimismo, se realizarán las acciones de evaluación de los avances en el cumplimiento de las metas establecidas en dicho programa, que retroalimenten el proceso de planeación y, en su caso, propondrá la modificación o actualización que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 71.
 
-A fin de dar cumplimiento a la presente Ley, reglamentos e instrumentos que de esta emanen, la Secretaría y la Secretaría de Seguridad podrán celebrar convenios para el intercambio de información, con organizaciones sociales, privadas y gubernamentales, nacionales e internacionales, que sean especialistas en materia de movilidad y seguridad vial y, que por su práctica en la materia resulten estratégicos para el desarrollo de planes, programas y proyectos en el Estado.
+A fin de dar cumplimiento a la presente Ley, reglamentos e instrumentos que de esta emanen, la Secretaría podrá celebrar convenios para el intercambio de información, con organizaciones sociales, privadas y gubernamentales, nacionales e internacionales, que sean especialistas en materia de movilidad y seguridad vial y, que por su práctica en la materia resulten estratégicos para el desarrollo de planes, programas y proyectos en el Estado.
 
 ###### ARTÍCULO 72.
 
@@ -1201,9 +1215,11 @@ Los datos generados en materia de movilidad y seguridad vial deberán ser públi
 
 ### CAPÍTULO V. DE LA BASE DE DATOS DE MOVILIDAD Y SEGURIDAD VIAL
 
+> <small>(REFORMADO PRIMER PÁRRAAFO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 73.
 
-Las Secretarías de Movilidad y de Seguridad Pública conformarán la Base de Datos, que tendrá por objeto integrar, registrar, administrar, controlar y actualizar la información sobre las materias reguladas a través de esta Ley y demás disposiciones relativas a la movilidad y seguridad vial.
+La Secretaría conformará la Base de Datos, que tendrá por objeto integrar, registrar, administrar, controlar y actualizar la información sobre las materias reguladas a través de esta Ley y demás disposiciones relativas a la movilidad y seguridad vial.
 
 La Base de Datos deberá contar con información sobre los siguientes rubros:
 
@@ -1561,7 +1577,9 @@ III. Control y registro de conductores.
 
 Se podrá utilizar el espacio de la vía pública, cuando no entorpezca rutas de acceso a inmuebles y observando las disposiciones señaladas en el Reglamento.
 
-La Secretaría de Seguridad determinará los lineamientos para permitir el estacionamiento de vehículos en las vías de jurisdicción estatal, tomando en consideración el uso de suelo autorizado, medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o personas peatonas, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+La Secretaría determinará los lineamientos para permitir el estacionamiento de vehículos en las vías de jurisdicción estatal, tomando en consideración el uso de suelo autorizado, medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o personas peatonas, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público.
 
 ###### ARTÍCULO 104.
 
@@ -1571,9 +1589,11 @@ Asimismo, determinarán y autorizarán los espacios exclusivos de estacionamient
 
 Los Municipios deberán establecer topes máximos de estacionamiento para obras nuevas y establecimientos, en la regulación y utilización del uso de suelo en sus jurisdicciones territoriales, evitando en todo momento requerir un mínimo determinado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 105.
 
-Los lineamientos técnicos de diseño vial y señalamientos para delimitar estos espacios se establecerán de manera congruente, en los manuales de la Secretaría de Seguridad y reglamentos municipales correspondientes, debiéndose sujetar de manera enunciativa más no limitativa, a la siguiente clasificación:
+Los lineamientos técnicos de diseño vial y señalamientos para delimitar estos espacios se establecerán de manera congruente, en los manuales de la Secretaría y reglamentos municipales correspondientes, debiéndose sujetar de manera enunciativa más no limitativa, a la siguiente clasificación:
 
 I. Estacionamientos públicos: Corresponde al servicio de estacionamiento fuera de la vía pública, prestado por una autoridad o un particular, que tiene por finalidad la recepción, guarda y devolución de vehículos motorizados y no motorizados en los lugares debidamente autorizados mediante el pago de una tarifa;
 
@@ -1781,7 +1801,9 @@ Los vehículos destinados a la prestación de servicios de emergencia, cuando se
 
 Los conductores estarán obligados a permitir el paso de los vehículos de emergencia cuando adviertan las señales de sonido y luminosas funcionando.
 
-Las personas peatonas, ciclistas y usuarias de vehículos no motorizados, que no observen de manera adecuada las normas de circulación, podrán ser apercibidas por las autoridades competentes y sus policías, y orientándolas a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+Las personas peatonas, ciclistas y usuarias de vehículos no motorizados, que no observen de manera adecuada las normas de circulación, podrán ser apercibidas por las Autoridades Competentes y orientándolas a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 ###### ARTÍCULO 125.
 
@@ -1889,7 +1911,9 @@ II. Explicación de las causas y consecuencias en materia de movilidad y segurid
 
 III. Adopción de prácticas que propicien un ambiente seguro para la movilidad activa y no motorizada;
 
-IV. Respeto entre las personas usuarias de la vía y hacia los policías que atienden la seguridad vial en el Estado y en los municipios y prestadores de servicio de transporte público de pasajeros, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+IV. Respeto entre las personas usuarias de la vía y hacia las Autoridades Competentes que atienden la seguridad vial en el Estado y en los municipios y prestadores de servicio de transporte público de pasajeros, y
 
 V. Importancia de la incorporación de la perspectiva de género, así como del trato digno y no discriminación hacia grupos en situación de vulnerabilidad.
 
@@ -1979,17 +2003,21 @@ II. Tomar las medidas necesarias para dar a conocer de manera oportuna las rutas
 
 #### SECCIÓN PRIMERA. SINIESTROS DE TRÁNSITO
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 148.
 
-Cuando se suscite un siniestro de tránsito, tomarán conocimiento del mismo las y los policías que atienden la seguridad vial en el Estado de Puebla, en caso de competencia del Estado; en caso de competencia municipal, las autoridades de tránsito correspondientes.
+Cuando se suscite un siniestro de tránsito, tomarán conocimiento del mismo las y los Agentes de Proximidad Vial que atienden la seguridad vial en el Estado de Puebla, en caso de competencia del Estado; en caso de competencia municipal, las autoridades de tránsito correspondientes.
 
 ###### ARTÍCULO 149.
 
 Las autoridades de vialidad operativas, en un siniestro de tránsito, deberán cumplir con los requisitos que establece el procedimiento de cadena de custodia para los efectos legales a que haya lugar.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 150.
 
-Ante un siniestro de tránsito y en caso de no presentarse delitos perseguibles de oficio, las y los policías exhortarán a las partes a convenir, sin influir de ningún modo y por ningún medio en la probable responsabilidad de las partes.
+Ante un siniestro de tránsito y en caso de no presentarse delitos perseguibles de oficio, las Autoridades Competentes exhortarán a las partes a convenir, sin influir de ningún modo y por ningún medio en la probable responsabilidad de las partes.
 
 ###### ARTÍCULO 151.
 
@@ -1997,9 +2025,11 @@ En caso de que las partes no convengan, las autoridades operativas de vialidad, 
 
 #### SECCIÓN SEGUNDA. PROBABILIDAD DE HECHOS DELICTIVOS
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 152.
 
-Cuando las y los policías, en ejercicio de sus funciones y acorde con la naturaleza del evento, tengan conocimiento de la comisión de probables hechos delictivos, procurará garantizar la seguridad de las probables víctimas, aplicando los protocolos que correspondan, debiendo poner a disposición del Ministerio Público, por medio del parte respectivo y en forma inmediata, a las personas que haya detenido y los objetos asegurados. Será obligación de la autoridad ministerial la recepción de las actuaciones de la autoridad administrativa de vialidad.
+Cuando las Autoridades Competentes, en ejercicio de sus funciones tengan conocimiento de un siniestro de tránsito, en el cual pueda existir probables hechos delictivos, aplicarán los protocolos que correspondan, bajo su responsabilidad deberá informar sin demora a la autoridad competente y ésta pondrá inmediatamente a disposición del Ministerio Público a los conductores, los vehículos involucrados y el parte respectivo. Será obligación de la autoridad ministerial la recepción de las actuaciones de la autoridad administrativa de vialidad.
 
 #### SECCIÓN TERCERA. SEGURO OBLIGATORIO
 
@@ -2079,9 +2109,11 @@ Las autoridades en materia de movilidad y seguridad vial dispondrán de medios d
 
 Las disposiciones que establece la presente Ley deberán ser consideradas para el análisis, estudio e implementación de sus normas en materia de movilidad municipal, con el propósito de que sea la norma base para el diseño de los reglamentos municipales en materia de movilidad, tránsito, vialidad, seguridad vial, así como de sus bandos de policías y gobierno.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 163.
 
-Para la aplicación de sanciones a las normas de circulación contenidas en esta Ley, se podrán utilizar equipos y sistemas tecnológicos para acreditar las infracciones cometidas. Las infracciones registradas por estos medios deberán ser calificadas por policías adscritos a la Dirección y/o agentes de tránsito y se deberá proceder a la notificación a la persona infractora y/o propietaria del vehículo.
+Para la aplicación de sanciones a las normas de circulación contenidas en esta Ley, se podrán utilizar equipos y sistemas tecnológicos para acreditar las infracciones cometidas. Las infracciones registradas por estos medios deberán ser calificadas por las Autoridades Competentes, quienes deberán proceder a la notificación a la persona infractora y/o propietaria del vehículo.
 
 ###### ARTÍCULO 164.
 
@@ -2091,21 +2123,33 @@ Las autoridades estatales competentes sancionarán con multa de veinte a cuarent
 
 Las personas que obstruyan, limiten, dañen, deterioren o destruyan la infraestructura peatonal, la nomenclatura o señalización vial, así como la infraestructura para las personas usuarias de bicicleta y del transporte público, se les impondrá una multa de cuarenta a sesenta veces la Unidad de Medida y Actualización vigente, independientemente de la cuantificación de los daños ocasionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 166.
 
-Las autoridades estatales y municipales en el ámbito de su competencia considerarán como sanciones por las infracciones a los preceptos de esta Ley de manera enunciativa, más no limitativa, las siguientes:
+La Secretaría y las autoridades municipales, en el ámbito de su competencia considerarán como sanciones por las infracciones a los preceptos de esta Ley de manera enunciativa, más no limitativa, las siguientes:
 
-I. Apercibimientos: Las autoridades competentes, podrán aplicar apercibimientos como medida preventiva, mediante el cual se señala a la persona infractora la omisión o falta en el cumplimiento de sus obligaciones, conminándola a corregirlas, con la advertencia de que en caso contrario se hará acreedora a una sanción;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-II. Multa: Las autoridades competentes, podrán imponer sanción económica a la persona infractora o a la persona propietaria de la unidad vehicular con la cual se comete la infracción. Tratándose de unidades destinadas al transporte público en sus distintas modalidades, la sanción podrá aplicarse a la persona concesionaria o a la persona permisionaria, la cual podrá ser de hasta mil Unidades de Medida y Actualización;
+I. Apercibimientos: Medida preventiva, mediante el cual se señala a la persona infractora la omisión o falta en el cumplimiento de sus obligaciones, conminándola a corregirlas, con la advertencia de que en caso contrario se hará acreedora a una sanción;
 
-III. Jornadas de trabajo en favor de la comunidad: Las autoridades competentes podrán imponer como sanción la prestación de servicios no remunerados, en instituciones públicas, educativas, de asistencia y/o de servicio social; o en actividades provechosas de diversa índole que beneficien a la población, Las jornadas de trabajo a favor de la comunidad se realizarán en periodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia de la persona sancionada y la de su familia, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+II. Multa: Imposición de una sanción económica a la persona infractora o a la persona propietaria de la unidad vehicular con la cual se comete la infracción. Tratándose de unidades destinadas al transporte público en sus distintas modalidades, la sanción podrá aplicarse a la persona concesionaria o a la persona permisionaria, la cual podrá ser de hasta mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+III. Jornadas de trabajo en favor de la comunidad: Imposición de una sanción que consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas, de asistencia y/o de servicio social; o en actividades provechosas de diversa índole que beneficien a la población, Las jornadas de trabajo a favor de la comunidad se realizarán en periodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia de la persona sancionada y la de su familia, y
 
 IV. Cancelación de la licencia en los supuestos previstos por las leyes. La cancelación de la licencia podrá ser definitiva o por tiempo determinado.
 
-En caso de la imposición de una multa, las autoridades viales deberán determinar la misma en términos del tabulador que se establezca en el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
 
-Las autoridades competentes podrán establecer campañas de fomento a la conciencia vial, encaminadas al cumplimiento de la normatividad mediante la aplicación de infracciones de cortesía, que se elaborarán en el mismo formato que el de una infracción, anotando en ésta los datos generales de la persona infractora, así como la descripción de la falta.
+En caso de la imposición de una multa, la Secretaría y las autoridades municipales, deberán determinar la misma en términos del tabulador que se establezca en el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+Además, podrán establecer campañas de fomento a la conciencia vial, encaminadas al cumplimiento de la normatividad mediante la aplicación de infracciones de cortesía, que se elaborarán en el mismo formato que el de una infracción, anotando en ésta los datos generales de la persona infractora, así como la descripción de la falta.
 
 ###### ARTÍCULO 167.
 
@@ -2129,13 +2173,17 @@ Para los efectos del cobro de las sanciones derivadas por conductas que violen d
 
 El procedimiento a través del cual se impondrán las sanciones por conductas que violen disposiciones de la presente Ley y sus Reglamentos, captadas por cualquier dispositivo o medio tecnológico, será el siguiente:
 
-I. Las boletas de infracción contendrán el nombre y domicilio del propietario del vehículo de conformidad con el Registro Vehicular correspondiente; placa, marca y modelo del vehículo; lugar, fecha y hora en que fue cometida la infracción; descripción de la infracción cometida y la especificación de las disposiciones violadas, así como nombre y firma de la autoridad facultada para imponer la sanción;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+I. Las boletas de infracción contendrán el nombre y domicilio del propietario del vehículo de conformidad con el Registro Vehicular correspondiente; placa, marca y modelo del vehículo; lugar, fecha y hora en que fue cometida la infracción; descripción y calificación de la misma, y la especificación de las disposiciones violadas, así como nombre y firma de las Autoridades Competentes que intervengan;
 
 II. La prueba física que arroje el dispositivo tecnológico en la cual conste la conducta infractora se contendrá en la boleta de infracción, y
 
 III. Se notificará dicha boleta de infracción en el domicilio de la persona que aparezca como propietario del vehículo.
 
-Para efectos de este artículo y tratándose de vehículos registrados en otra Entidad Federativa, las autoridades viales podrán implementar acciones para la identificación y detención del vehículo con el que se cometió la conducta infractora con el fin de notificar la boleta de infracción respectiva, conforme al procedimiento que se determine en el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+Para efectos de este artículo y tratándose de vehículos registrados en otra Entidad Federativa, la (sic) Autoridades Competentes podrán implementar acciones para la identificación y detención del vehículo con el que se cometió la conducta infractora, con el fin de notificar la boleta de infracción respectiva, conforme al procedimiento que se determine en el Reglamento respectivo.
 
 ### CAPÍTULO IV. DEL RECURSO DE INCONFORMIDAD
 
@@ -2147,7 +2195,9 @@ Los particulares afectados por el acto administrativo de infracciones de las aut
 
 El recurso de inconformidad, deberá presentarse por escrito ante el Director o ante la autoridad municipal competente, en un término no mayor a quince días hábiles siguientes al de la notificación del acto impugnado o de aquel en que se tuvo conocimiento.
 
-La presentación del recurso de inconformidad suspenderá el plazo para el pago (sic) exigibilidad del acto impugnado. La Dirección de Operaciones Policiales al admitir el recurso de inconformidad mantendrá la suspensión del pago y exigibilidad del acto impugnado. Siempre y cuando se garantice el importe del acto impugnado ante la autoridad exactora en un término no mayor a 3 días hábiles.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+La presentación del recurso de inconformidad suspenderá el plazo para el pago (sic) exigibilidad del acto impugnado. La Dirección o autoridad municipal competente al admitir el recurso de inconformidad mantendrá la suspensión del pago y exigibilidad del acto impugnado. Siempre y cuando se garantice el importe del acto impugnado ante la autoridad exactora en un término no mayor a 3 días hábiles.
 
 ###### ARTÍCULO 174.
 
@@ -2198,3 +2248,19 @@ EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada
 > <small>(F. DE E., P.O. 12 DE ENERO DE 2024)</small>
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de noviembre de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. El Secretario de Movilidad y Transporte. CIUDADANO OMAR ÁLVAREZ ARRONTE. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica. El Secretario de Cultura. CIUDADANO NGUYEN ENRIQUE GLOCKNER CORTE. Rúbrica. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MELVA GUADALUPE NAVARRO SEQUEIRA. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORCIA CÓRDOBA. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORIA CÓRDOBA. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA JOSEFINA MORALES GUERRERO. Rúbrica. El Secretario de Infraestructura. CIUDADANO LUIS ROBERTO TENORIO GARCÍA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA; Y LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material que, a la entrada en vigor del presente Decreto, se refiera a la unidad administrativa que deja de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a la unidad administrativa a que se refiere el presente Decreto y a la que se asignen las facultades específicas que en cada caso se relacionen.
+
+TERCERO. En un plazo de 90 días hábiles, se deberán realizar las adecuaciones normativas a los ordenamientos jurídicos respectivos para armonizarlos con las disposiciones previstas en el presente Decreto.
+
+CUARTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se establezcan las unidades administrativas que deban conocer aquéllos, en términos de este Decreto.
+
+QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
