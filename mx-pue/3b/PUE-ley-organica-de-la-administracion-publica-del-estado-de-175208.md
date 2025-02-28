@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-175208"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-28"
-last_updated: "2024-11-28"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
 
 Ley publicada en la Tercera Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el jueves 28 de noviembre de 2024.
 
@@ -429,7 +429,9 @@ XV. SECRETARÍA DE SEGURIDAD PÚBLICA;
 
 XVI. SECRETARÍA DE MEDIO AMBIENTE, DESARROLLO SUSTENTABLE Y ORDENAMIENTO TERRITORIAL, Y
 
-XVII. SECRETARÍA DE LA MUJER E IGUALDAD SUSTANTIVA.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XVII. SECRETARÍA DE LAS MUJERES
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE GOBERNACIÓN
 
@@ -797,7 +799,9 @@ II. Proponer al Gobernador o Gobernadora las políticas y programas relativos al
 
 III. Ejercer las atribuciones y funciones que, en materia industrial, inmobiliaria, minera, artesanal, comercial, de abasto y de servicios, contengan los convenios y acuerdos firmados, previo acuerdo del Gobernador o Gobernadora, con la Federación, Estados, municipios, instituciones de educación superior, organismos empresariales, laborales u otras instancias competentes;
 
-IV. Instrumentar acciones de igualdad sustantiva en materia laboral y de desarrollo económico, de manera coordinada con la Secretaría de la Mujer e Igualdad Sustantiva y demás instancias competentes;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+IV. Instrumentar acciones de igualdad sustantiva en materia laboral y de desarrollo económico, de manera coordinada con la Secretaría de las Mujeres y demás instancias competentes;
 
 V. Coordinar la elaboración, análisis y difusión de estadísticas y demás datos relativos al desarrollo económico y las condiciones de trabajo del Estado, así como de las posibilidades de inversión;
 
@@ -905,7 +909,9 @@ LVI. Analizar, procesar, interpretar y socializar la información en materia lab
 
 LVII. Imponer y aplicar medidas preventivas o de seguridad, y sanciones administrativas, en los ámbitos de su competencia y con sujeción a las leyes, reglamentos y demás disposiciones aplicables, así como promover la aplicación de las que correspondan a otras autoridades con relación a los asuntos de su despacho;
 
-LVIII. Instrumentar, en coordinación con la Secretaría de la Mujer e Igualdad Sustantiva, las políticas públicas para combatir la explotación del trabajo de niñas, niños y adolescentes, y la discriminación laboral, así como todas aquéllas que, en general, se dirijan a alcanzar la igualdad sustantiva y la inclusión laboral de grupos vulnerables;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+LVIII. Instrumentar, en coordinación con la Secretaría de las Mujeres, las políticas públicas para combatir la explotación del trabajo de niñas, niños y adolescentes, y la discriminación laboral, así como todas aquéllas que, en general, se dirijan a alcanzar la igualdad sustantiva y la inclusión laboral de grupos vulnerables;
 
 LIX. Diseñar e implementar acciones para promover la inclusión laboral de las personas con discapacidad, así como la accesibilidad de los centros de trabajo tanto públicos como privados;
 
@@ -951,7 +957,9 @@ VII. Autorizar los reglamentos internos de los establecimientos artísticos y cu
 
 VIII. Estimular la creación, investigación, formación y capacitación en las diferentes disciplinas artísticas y promover el acceso a becas;
 
-IX. Impulsar el desarrollo integral y sustentable de los pueblos y comunidades indígenas y afromexicanas del Estado, mediante la realización de programas y proyectos artísticos y culturales que fortalezcan su identidad y que serán elaborados y operados conjuntamente con ellos y la Secretaría de la Mujer e Igualdad Sustantiva, en su caso;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+IX. Impulsar el desarrollo integral y sustentable de los pueblos y comunidades indígenas y afromexicanas del Estado, mediante la realización de programas y proyectos artísticos y culturales que fortalezcan su identidad y que serán elaborados y operados conjuntamente con ellos y la Secretaría de las Mujeres, en su caso;
 
 X. Coordinarse con las autoridades educativas federales, estatales y municipales en la enseñanza y formación en las bellas artes y educación cultural en general, así como contribuir directamente en materia de formación de conservación del patrimonio;
 
@@ -1203,7 +1211,9 @@ III. Ejercer sus facultades concurrentes en los términos de las leyes generales
 
 IV. Planear, integrar, ajustar, ejecutar, dirigir, coordinar y controlar los programas y las acciones en materia de movilidad y transporte en el Estado, que realice directamente o en forma concertada con la Federación o los municipios, en el ámbito de su competencia, observando y ajustándose a los programas federales en la materia;
 
-V. Regular, capacitar, vigilar, inspeccionar y controlar el uso adecuado de la infraestructura vial y de movilidad en general, con un enfoque de seguridad vial y preferencia al peatón, de acuerdo con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+V. Regular, capacitar, vigilar, inspeccionar, prevenir y controlar el uso adecuado de la infraestructura vial y de movilidad en general, con un enfoque de seguridad vial y preferencia al peatón, así como sancionar la comisión de infracciones en materia de tránsito de acuerdo con la normatividad aplicable;
 
 VI. Expedir, tramitar, otorgar, negar, revocar y modificar, las concesiones o permisos que prevén los ordenamientos legales y las disposiciones administrativas en la materia;
 
@@ -1605,7 +1615,9 @@ VI. Coordinar y vincular los programas de gobierno y sociedad civil para la prom
 
 VII. Promover la vinculación de las políticas de bienestar y desarrollo social en el Estado, con la planeación regional;
 
-VIII. Llevar a cabo acciones en coordinación con la Secretaría de la Mujer e Igualdad Sustantiva, en el ámbito de sus competencias;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+VIII. Llevar a cabo acciones en coordinación con la Secretaría de las Mujeres, en el ámbito de sus competencias;
 
 IX. Coordinarse con los ayuntamientos del Estado en materia de inversión para el desarrollo integral de las comunidades rurales y urbanas en situación vulnerable o de marginación, por medio de los programas de obra, servicios e infraestructura para el desarrollo social, en especial los relacionados con la dotación de servicios básicos;
 
@@ -1679,11 +1691,11 @@ XXVI. Proporcionar, previo acuerdo con los ayuntamientos, el apoyo que requieran
 
 XXVII. Promover y fomentar la seguridad y los servicios de auxilio a las personas conductoras y usuarias que transiten por las vías de comunicación de jurisdicción estatal, proporcionándolos directamente o a través de terceros, mediante concesión o autorización, según proceda y en términos de la legislación aplicable;
 
-XXVIII. Coordinarse con la Secretaría de Movilidad y Transporte para llevar a cabo los estudios y proyectos de ingeniería de tránsito, así como la instalación y mantenimiento de la señalización en las obras viales y en las vías de jurisdicción estatal ya sea en forma directa, en concurrencia con otras autoridades o a través de terceros;
+XXVIII. (DEROGADA, P.O. 28 DE FEBRERO DE 2025)
 
-XXIX. Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y desarrollo de programas y proyectos de desarrollo urbano y protección al medio ambiente en el Estado, en lo referente a tránsito y vialidad;
+XXIX. (DEROGADA, P.O. 28 DE FEBRERO DE 2025)
 
-XXX. Promover ante las instancias competentes la planeación, construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura vial en el Estado;
+XXX. (DEROGADA, P.O. 28 DE FEBRERO DE 2025)
 
 XXXI. Organizar, dirigir, capacitar y administrar al Heroico Cuerpo de Bomberos y Bomberas del Estado y supervisar sus acciones en materia de prevención, protección, auxilio, restauración y apoyo a la población en situaciones de riesgo o peligro, derivadas de incendios, accidentes y otras emergencias similares;
 
@@ -1825,27 +1837,45 @@ LVII. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 ### CAPÍTULO XVIII. DE LA SECRETARÍA DE LA MUJER E IGUALDAD SUSTANTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### ARTÍCULO 48.
 
-A la Secretaría de la Mujer e Igualdad Sustantiva le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de las Mujeres le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Gobernador o Gobernadora políticas generales, programas, estrategias y acciones públicas para construir una sociedad más justa, solidaria e incluyente, y disminuir la desigualdad entre mujeres y hombres:
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-II. Promover acciones y políticas para combatir prácticas discriminatorias en cualquiera de sus modalidades, que garanticen inclusión y respeto para aquellas personas susceptibles de sufrirlas, de conformidad con los tratados internacionales y la legislación nacional y estatal en estas materias;
+I. Proponer al Gobernador o Gobernadora políticas generales, programas, estrategias y acciones públicas para construir una sociedad más justa, solidaria e incluyente, y disminuir las brechas de desigualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+II. Promover acciones y políticas para combatir prácticas discriminatorias en cualquiera de sus modalidades, que garanticen la inclusión y respeto en favor de las niñas, adolescentes y mujeres susceptibles de sufrirlas, de conformidad con los tratados internacionales y la legislación nacional y estatal en estas materias;
 
 III. Formular, orientar, conducir y evaluar de manera integral, las normas, políticas y lineamientos para lograr la igualdad sustantiva entre mujeres y hombres, con una proyección de corto, mediano y largo plazo, y en coordinación con las autoridades y entidades competentes, para lo cual deberá observar los objetivos y directivas establecidos en los ordenamientos y programas aplicables;
 
-IV. Instrumentar, coordinar y supervisar la ejecución y cumplimiento de los programas estatales, federales y mecanismos de cooperación internacional especializados en materia de diversidad, inclusión e igualdad sustantiva, de conformidad con los convenios suscritos y con un enfoque interseccional, de derechos humanos y perspectiva de género, con el apoyo de las Unidades de Igualdad Sustantiva que se establezcan dentro de la estructura administrativa de cada dependencia y entidad de la Administración Pública Estatal, mediante acuerdo con su persona titular;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-V. Participar en la aprobación, formulación, ejecución y evaluación de los programas y proyectos que realicen las dependencias y entidades de la Administración Pública Estatal, con relación a la igualdad sustantiva, la inclusión y respeto a la diversidad, garantizando la transversalidad de la perspectiva de género, la perspectiva de discapacidad, la identidad de género autopercibida, la interculturalidad e interseccionalidad, en coordinación con las autoridades competentes;
+IV. Instrumentar, coordinar y supervisar la ejecución y cumplimiento de los programas estatales, federal y mecanismos de cooperación internacional especializados en materia de inclusión e igualdad sustantiva, de conformidad con los convenios suscritos y con un enfoque interseccional, de derechos humanos y perspectiva de género, con el apoyo de las Unidades de Igualdad Sustantiva que se establezcan dentro de la estructura administrativa de cada dependencia y entidad de la Administración Pública Estatal, mediante acuerdo con su persona titular;
 
-VI. Coordinarse con las dependencias y entidades de la Administración Pública Estatal, y coadyuvar con los municipios del Estado, para el diseño, implementación y evaluación de una política transversal en igualdad sustantiva, con un enfoque de derechos humanos, diversidad, accesibilidad e inclusión, y una política para prevenir, atender, sancionar y erradicar las violencias contra las mujeres y la diversidad desde un enfoque interseccional; reflejarlas en sus propios programas, proyectos y actividades en el ámbito de su competencia, e integrar un informe anual sobre sus objetivos, avances y cumplimiento;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-VII. Garantizar la difusión y el acceso de la población a la información en materia de igualdad sustantiva, de prevención, atención, sanción y erradicación de las violencias contra las mujeres; de los principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencias, así como en materia de respeto, inclusión y no discriminación a la diversidad sexual y de identidad, conforme al principio de máxima publicidad, y asegurar la difusión del informe anual de objetivos, avances y cumplimiento mencionado en la fracción anterior;
+V. Participar en la formulación, aprobación, ejecución y evaluación de los programas y proyectos que realicen las dependencias y entidades de la Administración Pública Estatal, con relación a la igualdad sustantiva y la inclusión, garantizando la transversalidad de la perspectiva de género e interseccionalidad, y en coordinación con las autoridades competentes;
 
-VIII. Impulsar estrategias de comunicación, difusión y capacitación con énfasis en la transversalización e institucionalización de las perspectivas de género, de identidad de género autopercibida y no discriminación, y con un enfoque interseccional, de derechos humanos y de igualdad sustantiva, para que los sectores público, privado y social de la Entidad, incorporen estos elementos en el desempeño de sus funciones; así como supervisar su cumplimiento y avance;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-IX. Implementar capacitaciones permanentes a través del Centro de Estudios Virtuales de Igualdad Sustantiva, con temas actualizados tendentes a sensibilizar, formar y profesionalizar a las personas servidoras públicas, así como a personas pertenecientes a los sectores privado y social, en materia de igualdad sustantiva, perspectiva de género y de identidad de género autopercibida, inclusión, y prevención de las violencias y discriminación contra las mujeres y la diversidad;
+VI. Coordinarse con las dependencias y entidades de la Administración Pública Estatal, y coadyuvar con los municipios del Estado, para el diseño, implementación y evaluación de las políticas en materia de mujeres e igualdad sustantiva; de prevención, atención, sanción y erradicación de las violencias contra las mujeres, adolescentes y niñas; de inclusión, así como del derecho al cuidado, desde un enfoque interseccional y con perspectiva de género; reflejándolas en sus propios programas, proyectos y actividades, e integrar un informe anual sobre sus objetivos, avances y cumplimiento;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+VII. Garantizar la difusión y el acceso de la población a la información en materia de igualdad sustantiva entre mujeres y hombres; de prevención, atención, sanción y erradicación de las violencias contra las mujeres; de los principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencias, así como en materia de respeto, inclusión y no discriminación, conforme al principio de máxima publicidad, y asegurar la difusión del informe anual de objetivos, avances y cumplimiento mencionado en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+VIII. Impulsar estrategias de comunicación, difusión y capacitación con énfasis en la transversalización e institucionalización de la inclusión, perspectiva de género y no discriminación, y con un enfoque interseccional, de derechos humanos y de igualdad sustantiva, para que los sectores público, privado y social de la Entidad, incorporen estos elementos en el desempeño de sus funciones; así como supervisar su cumplimiento y avance;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+IX. Implementar capacitaciones permanentes a través del Centro de Estudios Virtuales de Igualdad Sustantiva y No Discriminación, sobre temas actualizados tendentes a sensibilizar, formar y profesionalizar a las personas servidoras públicas, así como a las personas pertenecientes a los sectores privado y social, en materia de igualdad sustantiva, perspectiva de género, no discriminación, inclusión y prevención de las violencias contra las niñas, adolescentes y mujeres;
 
 X. Propiciar cambios culturales para la eliminación de estereotipos, roles de género y la erradicación de prácticas discriminatorias, mediante estrategias de comunicación, educación e inclusión con todos los sectores de la sociedad;
 
@@ -1857,49 +1887,83 @@ XIII. Desarrollar y articular con los sectores público, privado y social de la 
 
 XIV. Vigilar que se cumpla con los principios, tipos, modalidades y mecanismos que garanticen el acceso de mujeres, niñas y adolescentes a una vida libre de violencias y contribuyan al mejoramiento integral de su calidad de vida y el goce pleno del ejercicio de sus derechos;
 
-XV. Coordinar, gestionar e implementar políticas públicas con especial énfasis en los mecanismos institucionales para el adelanto de las mujeres, así como en la prevención, atención, sanción y erradicación de la violencia contra mujeres, niñas y adolescentes, monitoreando y emitiendo opinión acerca de sus resultados de conformidad con la Ley;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XVI. Fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres y constituirse como el Mecanismo de Adelanto para las Mujeres en la Entidad;
+XV. Coordinar, gestionar e implementar políticas públicas con especial énfasis en los mecanismos institucionales para el adelanto de las mujeres, así como en la prevención, atención, sanción y erradicación de las violencias contra mujeres, niñas y adolescentes, monitoreando y emitiendo opinión acerca de sus resultados de conformidad con la Ley;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XVI. Fungir como Secretaría Ejecutiva del Sistema Estatal para la Igualdad entre Mujeres y Hombres, y del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias contra las mujeres, así como constituirse como el Mecanismo de Adelanto para las Mujeres en la Entidad;
 
 XVII. Diseñar, instrumentar e implementar, con enfoque interseccional y perspectiva de género, las acciones para dar cumplimiento a las medidas relativas a las declaraciones de alerta de violencia de género en la Entidad;
 
 XVIII. Coordinar y dar seguimiento a las políticas, programas, mecanismos, y acciones realizadas por dependencias y entidades estatales competentes, que tengan como objeto dar cumplimiento a las medidas relativas a las declaraciones de alerta de violencia de género de la Entidad;
 
-XIX. Operar y administrar albergues y refugios destinados para la atención de mujeres víctimas de violencias y sus menores hijas e hijos, procurando que aquellos espacios sean accesibles y que cuenten con personal capacitado para la atención de personas que tengan discapacidad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XIX. Operar y administrar albergues y refugios destinados para la atención de mujeres víctimas de violencias y sus menores hijas e hijos, procurando que aquellos espacios sean accesibles y que cuenten con personal capacitado para la atención de las personas víctimas que tengan discapacidad;
 
 XX. Proponer a los tres niveles de Gobierno, acciones destinadas a incluir la participación de las mujeres y la paridad, en los ámbitos legislativo, administrativo, político, económico, cultural y social de la Entidad, así como coordinar y dar seguimiento a su cumplimiento;
 
 XXI. Dar seguimiento y emitir opiniones sobre los resultados de políticas públicas estatales que promuevan el acceso igualitario y el adelanto de las mujeres en los ámbitos citados en la fracción anterior;
 
-XXII. Impulsar, en colaboración con los sectores público, privado y social, la realización de políticas y acciones preferenciales, que conlleven a la valoración y aprovechamiento de las distintas capacidades que posean las personas, con independencia de la condición en que se encuentren, o que sean susceptibles de ser vulneradas mediante actos de violencia, discriminación o cualquier otro que atente contra sus derechos humanos, y que coadyuven a su atención, bienestar, desarrollo y plena integración;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XXIII. Supervisar que la infraestructura y equipamiento públicos, cumplan con el principio de accesibilidad y movilidad segura, así como evaluar el cumplimiento de la normatividad correspondiente, haciendo las recomendaciones que estime necesarias;
+XXII. Impulsar, en colaboración con los sectores público, privado y social, la realización de políticas y acciones preferenciales, que conlleven a la valoración y aprovechamiento de las distintas capacidades que posean las niñas, adolescentes y mujeres, con independencia de la condición en que se encuentren, o que sean susceptibles de ser vulneradas mediante actos de violencia, discriminación o cualquier otro que atente contra sus derechos humanos, y que coadyuven a su atención, bienestar, desarrollo, inclusión y plena integración;
 
-XXIV. Coordinar con los tres niveles de gobierno y con los sectores privado y social de la Entidad, acciones destinadas a la inclusión y desarrollo de la población, vigilando que la ejecución de las políticas, programas y proyectos garanticen la transversalidad de las perspectivas de género, de identidad de género autopercibida y de discapacidad, así como la interculturalidad, inclusión, respeto a la diversidad y la no discriminación en la sociedad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XXV. Mantener contacto continuo con la población objetivo y las organizaciones de la sociedad civil, para asegurar su participación en la elaboración de las normas, implementación de las políticas públicas o cualquier otro proceso de decisión relacionado con ellas, así como coordinar y vigilar su cumplimiento y asegurar la realización de las consultas requeridas de manera previa, informada y efectiva;
+XXIII. Difundir, promover y coadyuvar, en el ámbito público y en atención a su competencia, para el cumplimiento de la normatividad en materia de igualdad laboral y la no discriminación, con el fin de garantizar espacios de trabajo accesibles, igualitarios, incluyentes, libres de violencia y discriminación en la entidad;
 
-XXVI. Impulsar el desarrollo integral, igualitario y la plena efectividad de los derechos humanos, económicos y culturales de la población indígena de la Entidad, respetando su identidad social y cultural, sus costumbres, tradiciones y sus instituciones;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXIV. Coordinar con los tres niveles de gobierno y con los sectores privado y social de la Entidad, acciones que promuevan y garanticen la igualdad sustantiva, la inclusión y desarrollo de la población, vigilando que la ejecución de las políticas, programas y proyectos garanticen la transversalidad de la perspectiva de género, así como los enfoques en materia de derechos humanos, interseccionalidad y no discriminación en la sociedad;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXV. Mantener contacto continuo con la población objetivo y las organizaciones de la sociedad civil, para asegurar su participación en la elaboración de las normas, la implementación de las políticas públicas o cualquier otro proceso de decisión relacionado con ellas, así como coordinar y vigilar su cumplimiento y asegurar la realización de las consultas requeridas de manera previa, informada y efectiva;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXVI. Impulsar el desarrollo integral, igualitario e incluyente, así como la igualdad sustantiva en favor de las niñas, adolescentes y mujeres indígenas de la Entidad, respetando su identidad social y cultural, sus costumbres, tradiciones e instituciones;
 
 XXVII. Propiciar la participación y cooperación de las mujeres y de la población objetivo en los instrumentos de planeación del Gobierno del Estado, con el objeto de transversalizar la perspectiva de género, buscar la igualdad sustantiva y mejorar sus condiciones de bienestar, desarrollo y plena integración;
 
-XXVIII. En coordinación con las dependencias y entidades de la Administración Pública Estatal competentes, diseñar, promover, coordinar, ejecutar e instrumentar políticas, programas y proyectos especiales que promuevan la inclusión y el desarrollo de las personas que sean susceptibles de ser vulneradas, desde las perspectivas de género, de identidad de género autopercibida y de discapacidad, la no discriminación y el respeto a sus derechos humanos;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XXIX. Gestionar y concertar la colaboración de los sectores social y privado, para unir esfuerzos y consolidar la participación ciudadana, así como de organizaciones de la sociedad civil, en la elaboración, seguimiento y evaluación de políticas públicas a favor de la igualdad sustantiva, mediante mecanismos de gestión, ejecución, evaluación y gobernanza;
+XXVIII. Gestionar y concertar la colaboración de los sectores social y privado para unir esfuerzos y consolidar la participación ciudadana, así como de las organizaciones de la sociedad civil, en la elaboración, seguimiento y evaluación de las políticas públicas a favor de la igualdad sustantiva, la prevención de la discriminación y la violencia de género, la inclusión, además del derecho al cuidado, mediante mecanismos de gestión, ejecución, evaluación y gobernanza;
 
-XXX. Realizar estudios técnicos, estadísticos y diagnósticos estratégicos con enfoque de género e inclusión de la población en situación de vulnerabilidad, que resulten necesarios para orientar la toma de decisiones y la definición de las políticas públicas que promuevan o aseguren la igualdad sustantiva en el Estado;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XXXI. Proponer y promover la adecuación y actualización del marco normativo estatal y municipal, para la incorporación de los principios de igualdad sustantiva, inclusión, accesibilidad, no discriminación, las perspectivas de género, de identidad de género autopercibida y de discapacidad, así como lo relativo a la prevención, atención sanción y erradicación de las violencias contra las mujeres, niñas y adolescentes, a efecto de armonizarlas conforme al derecho internacional y nacional en los ámbitos de su competencia;
+XXIX. Realizar estudios técnicos, estadísticos y diagnósticos estratégicos con enfoque de género e inclusión, que resulten necesarios para orientar la toma de decisiones y la definición de las políticas públicas que promuevan o aseguren la igualdad sustantiva en el Estado;
 
-XXXII. Impulsar, documentar y difundir información en materia de igualdad sustantiva, transversalidad de las perspectivas de género, de identidad de género autopercibida y de discapacidad, de interculturalidad, interseccionalidad y diversidad, así como de prevención, atención, sanción y erradicación de las violencias contra las mujeres, niñas, adolescentes y jóvenes en la sociedad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XXXIII. Gestionar información y estadísticas, con el fin de integrar y elaborar diagnósticos e indicadores estatales, regionales y municipales en las materias de su competencia;
+XXX. Proponer y promover la modificación del marco normativo estatal y municipal, para la incorporación de los principios de igualdad sustantiva, inclusión y no discriminación; la perspectiva de género; la prevención, atención, sanción y erradicación de las violencias contra las mujeres, niñas y adolescentes, así como lo correspondiente en materia de cuidados y en otros ámbitos de su competencia, a efecto de armonizarlas conforme al derecho internacional y nacional;
 
-XXXIV. Promover y observar que la comunicación y los trámites gubernamentales a través de cualquier medio, contengan un lenguaje incluyente, no discriminatorio, con perspectiva de género y libre de roles y estereotipos, con el que además se procure la utilización de lenguas indígenas, de señas mexicana y otros medios, sistemas y formatos aumentativos o alternativos de comunicación;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XXXV. Dirigir y promover las acciones necesarias para la creación de un sistema público de cuidados en el Estado, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes;
+XXXI. Impulsar, documentar y difundir información en materia de igualdad sustantiva; transversalidad de la perspectiva de género, inclusión y no discriminación; prevención, atención, sanción y erradicación de las violencias contra las mujeres, niñas y adolescentes en la sociedad, así como en materia de cuidados;
 
-XXXVI. Diseñar, socializar y, en su caso, coordinar con las dependencias y entidades de la administración pública estatal, con los distintos poderes del Estado y los Ayuntamientos del Estado, protocolos y esquemas de atención al público, que garanticen el respeto de la dignidad y los derechos humanos de la ciudadanía, bajo un enfoque interseccional y con especial atención a los grupos en situación de vulnerabilidad, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXXII. Gestionar información y estadísticas, con el fin de integrar y elaborar diagnósticos e indicadores estatales, regionales y municipales en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXXIII. Promover y observar que la comunicación y los trámites gubernamentales a través de cualquier medio, contengan un lenguaje incluyente, no discriminatorio, accesible, con perspectiva de género y libre de roles y estereotipos;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXXIV. Diseñar, Promover e Implementar programas, iniciativas y estrategias que reconozcan el derecho al cuidado, que coordinen estrategias gubernamentales estatales y municipales, que promuevan la responsabilidad del reconocimiento y valor de los cuidados, debiendo ser compartida entre la familia, el sector privado, la sociedad civil y el Estado, para que garantice el derecho al cuidado en condiciones de calidad e igualdad entre el hombre y la mujer.
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXXV. Diseñar, socializar y, en su caso, coordinar con las dependencias y entidades de la administración pública estatal, con los distintos poderes del Estado y los Ayuntamientos del Estado, protocolos y esquemas de atención al público, que garanticen el respeto de la dignidad y los derechos humanos de la ciudadanía, bajo un enfoque interseccional y con especial atención a las niñas, adolescentes y mujeres en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+XXXVI. Instrumentar, coordinar y dar seguimiento en la administración pública estatal, a la ejecución y cumplimiento de las políticas, programas estatales y otros instrumentos de planeación a cargo de la Dependencia, en coordinación con las Unidades de Igualdad Sustantiva de las Dependencias y Entidades de la Administración Pública Estatal y Municipal; y
 
 XXXVII. Los demás que le atribuyen las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones aplicables.
 
@@ -2103,7 +2167,9 @@ CUARTO. Una vez publicado el presente Decreto, se deberán iniciar las gestiones
 
 Las personas designadas como Titulares o Encargadas del Despacho de dichos Organismos serán las responsables de realizar todas las acciones necesarias tendientes a la referida extinción.
 
-QUINTO. Las menciones y referencias de las dependencias y organismos estatales, objeto del presente Decreto, se entenderán de la siguiente forma: de la o el Jefe de Oficina del Gobernador, o Jefatura de Gabinete, se entenderá a la Coordinación de Gabinete; de la Secretaría de Planeación y Finanzas y de la Secretaría de Administración, de manera individual o conjunta, se entenderá a la nueva Secretaría de Planeación, Finanzas y Administración; de la Secretaría de Economía y la Secretaría de Trabajo, de manera individual o conjunta, se entenderá a la Secretaría de Desarrollo Económico y Trabajo; de la Secretaría de Cultura, se entenderá a la Secretaría de Arte y Cultura; de la Secretaría de Turismo, se entenderá a la Secretaría de Desarrollo Turístico; de la Secretaría de la Función Pública, se entenderá a la Secretaría Anticorrupción y Buen Gobierno; de la Secretaría de Igualdad Sustantiva se entenderá a la Secretaría de la Mujer e Igualdad Sustantiva; de la Secretaría de Desarrollo Rural se entenderá a la Secretaría de Agricultura y Desarrollo Rural; del Instituto Poblano del Deporte y del Instituto Poblano de la Juventud, de manera conjunta o diferenciada, se entenderá a la Secretaría de Deporte y Juventud; del Consejo de Ciencia y Tecnología del Estado de Puebla, se entenderá a la Secretaría de Ciencia, Humanidades, Tecnología e Innovación.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+QUINTO. Las menciones y referencias de las dependencias y organismos estatales, objeto del presente Decreto, se entenderán de la siguiente forma: de la o el Jefe de Oficina del Gobernador, o Jefatura de Gabinete, se entenderá a la Coordinación de Gabinete; de la Secretaría de Planeación y Finanzas y de la Secretaría de Administración, de manera individual o conjunta, se entenderá a la nueva Secretaría de Planeación, Finanzas y Administración; de la Secretaría de Economía y la Secretaría de Trabajo, de manera individual o conjunta, se entenderá a la Secretaría de Desarrollo Económico y Trabajo; de la Secretaría de Cultura, se entenderá a la Secretaría de Arte y Cultura; de la Secretaría de Turismo, se entenderá a la Secretaría de Desarrollo Turístico; de la Secretaría de la Función Pública, se entenderá a la Secretaría Anticorrupción y Buen Gobierno; de la Secretaría de Igualdad Sustantiva se entenderá a la Secretaría de las Mujeres; de la Secretaría de Desarrollo Rural se entenderá a la Secretaría de Agricultura y Desarrollo Rural; del Instituto Poblano del Deporte y del Instituto Poblano de la Juventud, de manera conjunta o diferenciada, se entenderá a la Secretaría de Deporte y Juventud; del Consejo de Ciencia y Tecnología del Estado de Puebla, se entenderá a la Secretaría de Ciencia, Humanidades, Tecnología e Innovación.
 
 SEXTO. La persona titular del Poder Ejecutivo del Estado, a través de las instancias competentes y en términos del presente Decreto, podrá reorganizar la estructura de las dependencias y organismos, creando, fusionando, trasladando, escindiendo o disolviendo las unidades administrativas y oficinas necesarias, asimismo, deberá crear las nuevas dependencias trasladando o creando las nuevas unidades administrativas y oficinas que resulten pertinentes, realizando, para ello, las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla, para el ejercicio fiscal que corresponda.
 
@@ -2136,3 +2202,19 @@ DÉCIMO CUARTO. En términos del artículo tercero transitorio del Decreto por e
 EL GOBERNADOR SUBSTITUTO, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil veinticuatro. Diputado Presidente. ÓSCAR MAURICIO CÉSPEDES PEREGRINA. Rúbrica. Diputada Vicepresidenta. ELVIA GRACIELA PALOMARES RAMÍREZ. Rúbrica. Diputado Vicepresidente. ANDRÉS IVÁN VILLEGAS MENDOZA. Rúbrica. Diputada Secretaria. NORMA ESTELA PIMENTEL MÉNDEZ. Rúbrica. Diputada Secretaria. SUSANA DEL CARMEN RIESTRA PIÑA. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil veinticuatro. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. C. JAVIER AQUINO LIMÓN. Rúbrica. La Secretaria de Planeación y Finanzas. C. JOSEFINA MORALES GUERRERO. Rúbrica. El Secretario de Administración. C. JESÚS RAMÍREZ DÍAZ. Rúbrica. El Secretario de la Función Pública. C. JUAN CARLOS MORENO VALLE ABDALA. Rúbrica. El Secretario de Trabajo. C. CARLOS ALBERTO TORIZ MORALES. Rúbrica. La Secretaria de Economía. C. ALEJANDRA PAOLA MONTIEL SÁNCHEZ. Rúbrica. El Secretario de Cultura. C. NGUYEN ENRIQUE GLOCKNER CORTE. Rúbrica. La Secretaria de Turismo. C. MARTA TERESA ORNELAS GUERRERO. Rúbrica. La Secretaria de Desarrollo Rural. C. MORAYMA RUBÍ JOVEN. Rúbrica. El Secretario de Infraestructura. C. LUIS ROBERTO TENORIO GARCÍA. Rúbrica. El Secretario de Movilidad y Transporte. C. OMAR ÁLVAREZ ARRONTE. Rúbrica. La Secretaria de Salud. C.ARACELI SORIA CÓRDOBA. Rúbrica. El Secretario de Educación. C. CHARBEL JORGE ESTEFAN CHIDIAC. Rúbrica. La Secretaria de Bienestar. C. ELSA MARÍA RUIZ BETANZOS. Rúbrica. El Secretario de Seguridad Pública. C. DANIEL IVÁN CRUZ LUNA. Rúbrica. La Encargada de Despacho de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. C. NORMA ANGÉLICA SANDOVAL GÓMEZ. Rúbrica. La Secretaria de Igualdad Sustantiva. C. MELVA GUADALUPE NAVARRO SEQUEIRA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA; Y LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material que, a la entrada en vigor del presente Decreto, se refiera a la unidad administrativa que deja de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a la unidad administrativa a que se refiere el presente Decreto y a la que se asignen las facultades específicas que en cada caso se relacionen.
+
+TERCERO. En un plazo de 90 días hábiles, se deberán realizar las adecuaciones normativas a los ordenamientos jurídicos respectivos para armonizarlos con las disposiciones previstas en el presente Decreto.
+
+CUARTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se establezcan las unidades administrativas que deban conocer aquéllos, en términos de este Decreto.
+
+QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
