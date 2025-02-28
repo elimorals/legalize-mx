@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2023-02-24"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -100,6 +100,10 @@ III. Adopción Internacional: aquélla que se realice en términos de lo dispues
 IV. Ajustes Razonables: las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
 V. Institución Asistencial: las casas hogar, casas cuna, albergues, internados o cualquier otra institución pública, social, privada o de beneficencia privada en la que residan y tengan bajo su guarda, custodia o ambas a niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+V Bis. Castigo humillante: es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -181,9 +185,9 @@ XXXVII. Sistema Nacional de Protección Integral: el Sistema Nacional de Protecc
 
 XXXVIII. Tratados Internacionales: los Tratados Internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XXXIX.- Violencia contra las niñas, niños y adolescentes: Toda forma de maltrato físico o psicológico, de negligencia en su cuidado o de explotación, incluido el abuso, acoso sexual y toda forma de maltrato establecido en el Artículo 150 de esta Ley.
+XXXIX. Violencia contra las niñas, niños y adolescentes: Toda forma de maltrato físico o psicológico, de negligencia en su cuidado o de explotación, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve, incluido el abuso, acoso sexual y toda forma de maltrato establecido en el Artículo 150 de esta Ley.
 
 ###### Artículo 5.
 
@@ -2071,6 +2075,10 @@ Corresponde al Sistema para el Desarrollo Integral para la Familia del Estado de
 
 I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables. La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2025)</small>
+
+I Bis. Promover y difundir acciones y medidas de crianza positiva que garantice el pleno ejercicio de los derechos de los menores, su bienestar y su crecimiento saludable; y
+
 II. Impulsar la cooperación y coordinación de las autoridades en los tres niveles de gobierno, en materia de protección y restitución de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
 
 III. Celebrar los convenios de colaboración con los Sistemas para el Desarrollo Integral de la Familia de otra entidad federativa y los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social; que coadyuven a la realización de los objetivos a que se refiere esta Ley;
@@ -2329,21 +2337,33 @@ b) Traumas físicos provocados por palmadas, sacudidas, pellizcos o prácticas s
 
 V. Maltrato psicológico o emocional: Es el daño que de manera intencional se hace contra las actitudes y habilidades de un niño. Afecta su autoestima, su capacidad de relacionarse, la habilidad para expresarse y sentir, deteriora su personalidad, su socialización y, en general, el desarrollo armónico de sus emociones y habilidades. Existen varias categorías de maltrato psicológico y emocional:
 
-a) Ignorar al niño, lo que hace referencia al niño fantasma. Sus emociones, ansiedades, miedos y necesidades afectivas son totalmente imperceptibles para sus padres o cuidadores;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+a) Ignorar al niño, lo que hace referencia al niño fantasma. Sus emociones, ansiedades, miedos y necesidades afectivas son totalmente imperceptibles para sus padres o cuidadores, actitudes de descuido, devaluatorias o de abandono que provoquen en la niña, niño o adolescente daño en cualquiera de sus esferas cognoscitiva, conductual, afectiva y social;
 
 b) El rechazo por parte de los adultos de las necesidades, valores y solicitudes del niño;
 
 c) El aislamiento. Cuando el niño es privado de su familia y/o comunidad, negándole la necesidad de contacto humano;
 
-d) El terrorismo. El que el niño está expuesto a ataques verbales y amenazas con objetos, creando un clima de miedo, hostilidad y ansiedad;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+d) El terrorismo. El que el niño está expuesto a ataques verbales y amenazas con objetos, creando un clima de miedo, intimidaciones, insultos, hostilidad y ansiedad;
 
 e) La corrupción. Cuando el niño está expuesto a situaciones que transmiten y refuerzan conductas destructivas y antisociales, alterando de esta manera el desarrollo adecuado de conductas sociales;
 
 f) La agresión verbal, que es el uso continuo de una forma de llamar al niño de manera áspera y sarcástica. Día a día va disminuyendo su autoestima;
 
-g) La presión, que es la constante exigencia para lograr un desarrollo rápido esperando logros y aprendizajes a un nivel que no corresponde con su desarrollo neurológico ni mental. Este niño sentirá que nunca será lo suficientemente bueno; o
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
 
-h) El generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores, figuras de apego o quien detente su custodia.
+g) La presión, que es la constante exigencia para lograr un desarrollo rápido esperando logros y aprendizajes a un nivel que no corresponde con su desarrollo neurológico ni mental. Este niño sentirá que nunca será lo suficientemente bueno;
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+h) El generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores, figuras de apego o quien detente su custodia; o
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+i) Las prohibiciones, coacciones y condicionamientos.
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -3244,3 +3264,9 @@ P.O. 24 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 333. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 60 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 059. SE REFORMA LA FRACCIÓN XXXIX DEL ARTÍCULO 4, LAS FRACCIONES Y LOS INCISOS A), D), G), Y H) DE LA FRACCIÓN V DEL ARTÍCULO 150, SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 4, UNA FRACCIÓN I BIS AL ARTÍCULO 137 Y UN INCISO I) A LA FRACCIÓN V DEL ARTÍCULO 150, TODOS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
