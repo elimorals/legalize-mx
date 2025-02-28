@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transporte-del-estado-de-puebla-152811"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-03"
-last_updated: "2024-08-15"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 3 en el Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2021.
 
@@ -1183,7 +1183,9 @@ Permisos. Vigencia. Los permisos o autorizaciones a que hace referencia la prese
 
 El registro para Empresas de Redes de Transporte a que se refiere el artículo 121 de la presente Ley, tendrá una vigencia de diez años.
 
-Para el caso de los permisos del Servicio de Transporte Mercantil de Personas en su modalidad de alquiler o Taxi locales, deberán prestar el servicio con vehículos que no excedan de siete años de antigüedad.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2025)</small>
+
+Para el caso de los permisos del Servicio de Transporte Mercantil de Personas en su modalidad de alquiler o Taxi locales, deberán prestar el servicio con vehículos que no excedan de diez años de antigüedad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MARZO DE 2024)</small>
 
@@ -1826,3 +1828,17 @@ P.O. 15 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones administrativas y legales contrarias o que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA; Y LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material que, a la entrada en vigor del presente Decreto, se refiera a la unidad administrativa que deja de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a la unidad administrativa que deja de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a la unidad administrativa a que se refiere el presente Decreto y a la que se asignen las facultades específicas que en cada caso se relacionen.
+
+TERCERO. En un plazo de 90 días hábiles, se deberán realizar las adecuaciones normativas a los ordenamientos jurídicos respectivos para armonizarlos con las disposiciones previstas en el presente Decreto.
+
+CUARTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se establezcan las unidades administrativas que deban conocer aquéllos, en términos de este Decreto.
+
+QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
