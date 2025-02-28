@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-escuela-para-padres-madres-o-quienes-149220"
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-23"
-last_updated: "2021-04-23"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA ESCUELA PARA PADRES, MADRES O QUIENES EJERZAN LA TUTELA, GUARDA O CUSTODIA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de abril de 2021.
 
@@ -157,9 +157,17 @@ X. La disciplina como elemento en la formación de las niñas, niños y adolesce
 
 XI. La obligación de proveer lo indispensable a las niñas, niños y adolescentes para su desarrollo;
 
-XII. Estrategias metodológicas que favorecen el uso de herramientas virtuales; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
 
-XIII. Atención y escucha a las niñas, niños y adolescentes con algún tipo de discapacidad.
+XII. Estrategias metodológicas que favorecen el uso de herramientas virtuales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2025)</small>
+
+XIII. Con apoyo de la Secretaria de Salud la Orientación y capacitación sobre cuidados básicos de salud neonatal y en primeros auxilios en situaciones de broncoaspiración o asfixias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE FEBRERO DE 2025)</small>
+
+XIIV. Atención y escucha a las niñas, niños y adolescentes con algún tipo de discapacidad.
 
 Para la implementación del temario de la Escuela para Padres, Madres o quienes ejerzan la tutela, guarda o custodia deberán respetarse las diferentes ideologías de los participantes, evitando en todo momento la generación de contenido controversial.
 
@@ -346,3 +354,11 @@ ENRIQUE TORRES ELIZONDO
 LA C. SECRETARIA DE EDUCACIÓN
 
 MARÍA DE LOS ÁNGELES ERRISÚRIZ ALARCÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 058. SE REFORMA LA FRACCIÓN XII Y XIII; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 9 DE LA LEY QUE CREA LA ESCUELA PARA PADRES, MADRES O QUIENES EJERZAN LA TUTELA, GUARDA O CUSTODIA DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
