@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2025-01-15"
+last_updated: "2025-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2025.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -880,45 +880,33 @@ D) Dirección Ejecutiva para el Acceso a la Justicia y Espacios de Refugio.
 
 XIII. A la Secretaría de Obras y Servicios:
 
-A) Subsecretaria de Infraestructura, a la que quedan adscritas:
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2025)</small>
 
-1.- Dirección General de Construcción de Obras Públicas;
+A) Dirección Ejecutiva de Control Documental, Seguimiento a Auditorías y Transparencia;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2025)</small>
 
-2.- Dirección General de Servicios Técnicos, a la que le queda adscrita:
+A) Bis. Dirección General de Construcción de Obras Públicas;
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2025)</small>
 
-2.1. Dirección Ejecutiva de Proyectos de Obras Públicas.
+A) Ter. Dirección General de Proyectos Estratégicos y Servicios Técnicos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 28 DE FEBRERO DE 2025)</small>
 
-3.- Dirección General de Obras para el Transporte, a la que le quedan adscritas:
+A) Quáter. Dirección General de Obras para el Transporte, a la que quedan adscritas:
 
-3.1.- (DEROGADO, G.O. 30 DE JUNIO DE 2022)
+1. Dirección Ejecutiva de Sistemas Teleféricos; y
 
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+2. Dirección Ejecutiva de Proyectos Especiales.
 
-3.2.- Dirección Ejecutiva del Proyecto de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales.
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+B) Dirección General de Obras de Infraestructura Vial; y
 
-3.3.- Dirección Ejecutiva del Proyecto del Tren Interurbano México-Toluca.
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
-
-3.4.- Dirección Ejecutiva de Proyectos Especiales.
-
-B) Subsecretaria de Servicios Urbanos, a la que quedan adscritas:
-
-1.- Dirección General de Obras de Infraestructura Vial;
-
-2.- Dirección General de Servicios Urbanos y Sustentabilidad a la que queda adscrita:
-
-2.1. Dirección Ejecutiva de Transferencia y Disposición Final de Residuos Sólidos Urbanos; y
-
-3.- (DEROGADO, G.O. 15 DE FEBRERO DE 2019)
+B) Bis Dirección General de Servicios Urbanos y Sustentabilidad.
 
 C) Dirección General Jurídica y Normativa.
 
@@ -2296,47 +2284,11 @@ XVII. Las demás previstas en otros ordenamientos jurídicos y administrativos a
 
 ###### Artículo 38.
 
-La Subsecretaría de Infraestructura tendrá las siguientes atribuciones:
-
-I. Planear, programar, dirigir, controlar y evaluar todas las labores encomendadas a su cargo, y establecer procedimientos de integración que propicien optimar su desarrollo de las responsabilidades que son competencia de la Secretaría, además de plantear y formular los anteproyectos de programas y de presupuesto que, en su caso, les correspondan;
-
-> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
-
-I Bis. Planear las acciones tendientes a la ejecución de Obras para el Transporte, así como los proyectos de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales, Ferroviarias y Proyectos Especiales, en coordinación con el organismo público de prestar el servicio;
-
-II. Dar a conocer toda información que les (sic) sea solicitada por otras Dependencias del Gobierno, o en su defecto cuando sea requerida con las formalidades de Ley;
-
-III. Suscribir los documentos relativos al ejercicio de sus facultades y funciones, además de los que le corresponda por delegación o por suplencia;
-
-IV. Contribuir en la formulación de información, ejecución, planeación, control y evaluación de los programas de la Secretaría;
-
-V. Coordinar las acciones tendientes a la elaboración del anteproyecto de Presupuesto para la Dependencia de que se trate, así como supervisar su correcta y oportuna ejecución;
-
-VI. Vigilar que se cumplan las disposiciones legales y administrativas de las Unidades Administrativas y de las Unidades Administrativas de Apoyo Técnico-Operativo a ellas adscritas;
-
-VII. Proponer a la persona titular de la Secretaría, los proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos además de sus reformas y adiciones, sobre los asuntos de su competencia, previa consulta del área jurídica; y
-
-VIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídicos administrativos correspondientes o la persona Titular de la Secretaría.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2025)
 
 ###### Artículo 39.
 
-Corresponde a la Subsecretaría de Servicios Urbanos:
-
-I. Planear, programar, dirigir, controlar y evaluar todas las labores encomendadas a su cargo, y establecer procedimientos de integración que propicien optimar su desarrollo de las responsabilidades que son competencia de la Secretaría, además de plantear y formular los anteproyectos de programas y de presupuesto que, en su caso, les correspondan;
-
-II. Dar a conocer toda información que les sea solicitada por otras Dependencias, o en su defecto cuando sea requerida con las formalidades de Ley;
-
-III. Suscribir los documentos relativos al ejercicio de sus facultades y funciones, además de los que sean notificados por delegación o por suplencia;
-
-IV. Contribuir en la formulación de información, ejecución, planeación, control y evaluación de los programas de la Secretaria;
-
-V. Coordinar las acciones tendientes a la elaboración del anteproyecto de Presupuesto para la Dependencia de que se trate, así como supervisar su correcta y oportuna ejecución;
-
-VI. Vigilar que se cumplan las disposiciones legales y administrativas de las Unidades Administrativas y de las Unidades Administrativas de Apoyo Técnico-Operativo a ellas adscritas;
-
-VII. Proponer a la persona titular de la Secretaría, los proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos además de sus reformas y adiciones, sobre los asuntos de su competencia, previa consulta del área jurídica; y
-
-VIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídicos administrativos correspondientes o la persona Titular de la Secretaría.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2025)
 
 #### SECCIÓN IX. DE LA SECRETARÍA DE SALUD
 
@@ -9952,6 +9904,42 @@ XIX. Los demás asuntos que le corresponden en términos de las leyes aplicables
 
 #### SECCIÓN XIV. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
 
+> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2025)</small>
+
+###### Artículo 205 Bis.
+
+Corresponde a la Dirección Ejecutiva de Control Documental, Seguimiento a Auditorías y Transparencia:
+
+I. Dirigir el funcionamiento del Control de Gestión de la Secretaría de Obras y Servicios de la Ciudad de México; vigilar el archivo de la documentación relacionada con el Control de Gestión y requerir a las Unidades Administrativas de la Secretaría de Obras y Servicios de la Ciudad de México, para que atiendan los asuntos que les sean turnados;
+
+II. Coordinar diariamente la documentación recibida directamente en la Oficina de la persona titular de la Secretaría de Obras y Servicios de la Ciudad de México;
+
+III. Dirigir la clasificación de la documentación que ingrese en la Oficialía de Partes, según la materia y competencia de las áreas adscritas a la Secretaría de Obras y Servicios de la Ciudad de México;
+
+IV. Requerir a las Unidades Administrativas de la Secretaría de Obras y Servicios de la Ciudad de México, atender los asuntos específicos que solicite la persona titular de dicha Dependencia;
+
+V. Coordinar con la Secretaría Particular, la asistencia de la persona titular de la Secretaría de Obras y Servicios de la Ciudad de México, a las reuniones programadas de acuerdo a su agenda;
+
+VI. Recibir del personal adscrito a las Unidades Administrativas de la Secretaría de Obras y Servicios de la Ciudad de México, los documentos que requieran la firma de la persona titular de la Secretaría de Obras y Servicios de la Ciudad de México, con la finalidad de dar el trámite correspondiente, previa consulta y opinión de la Dirección General Jurídica y Normativa.
+
+VII. Dirigir el cumplimiento y la atención de los asuntos en materia de transparencia, acceso a la información pública, datos personales y gobierno abierto, dirigidos a la Secretaría de Obras y Servicios de la Ciudad de México, de conformidad con la normativa aplicable;
+
+VIII. Dirigir el desarrollo e implementación de acciones y políticas que fortalezcan la cultura de la transparencia, el acceso a la información pública, la protección de datos personales, el gobierno abierto y la rendición de cuentas, de conformidad con la normativa aplicable;
+
+IX. Promover la atención de las solicitudes de información que emitan los Órganos de fiscalización locales o federales en relación a la revisión de la Cuenta Pública a la Secretaría de Obras y Servicios de la Ciudad de México, de conformidad con la normativa aplicable;
+
+X. Promover la atención de las recomendaciones y observaciones que emitan los órganos de fiscalización locales o federales derivadas de la revisión de la Cuenta Pública a la Secretaría de Obras y Servicios de la Ciudad de México, de conformidad con la normativa aplicable;
+
+XI. Vigilar la coordinación para la recopilación de la información y documentación para la atención de los requerimientos que realicen los Órganos de fiscalización locales y/o externos para el seguimiento de auditorías, de conformidad con la normativa aplicable;
+
+XII. Dirigir el desarrollo de acciones que permitan evaluar la eficacia, impacto y eficiencia de la atención de los requerimientos, observaciones y recomendaciones realizadas por los Órganos de fiscalización locales o federales, a las Unidades Administrativas de la Secretaría de Obras y Servicios de la Ciudad de México;
+
+XIII. Dirigir la implementación de mecanismos eficientes de control y seguimiento a las observaciones y recomendaciones realizadas por los órganos de fiscalización locales o federales, a las Unidades Administrativas de la Secretaría de Obras y Servicios de la Ciudad de México, con la finalidad de garantizar su atención;
+
+XIV. Solicitar información y documentación a las Unidades Administrativas y Órganos Desconcentrados adscritos a la Secretaría de Obras y Servicios de la Ciudad de México, así como a las Entidades que se le encuentran sectorizadas y demás entes de la Administración Pública de la Ciudad de México, cuando sea necesario, para la resolución de los asuntos de su competencia; y
+
+XV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
 ###### Artículo 206.
 
 Corresponde a la Dirección General de Construcción de Obras Públicas:
@@ -10012,29 +10000,51 @@ XXVII. Verificar que la construcción y mantenimiento de obras concesionadas se 
 
 XXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2025)</small>
+
 ###### Artículo 207.
 
-Corresponde a la Dirección General de Servicios Técnicos:
+Corresponde a la Dirección General de Proyectos Estratégicos y Servicios Técnicos:
 
-I. Planear, programar y presupuestar los proyectos y servicios técnicos necesarios para la adecuada planeación, construcción, operación y conservación de la obra pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-II. Realizar los proyectos y estudios técnicos de las obras de construcción a cargo de la Secretaría;
+I. Definir las estrategias para los estudios, proyecto y obras de regeneración del espacio público, solicitando el recurso financiero y material para la ejecución y/o contratación de los mismos;
 
-III. Presentar y dar seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura vial, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a las (sic) acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en su caso, con la consulta del área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-IV. Iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes, la prestación de servicios y la realización de obra pública que sean necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos o convenios celebrados con tal motivo, en su caso, con la consulta del área jurídica correspondiente;
+II. Instruir a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo que se le encuentran adscritas, para que se encarguen de la supervisión interna de los estudios, proyectos y obras de regeneración del espacio público;
 
-V. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta en su caso del área jurídica correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-VI. Diseñar protocolos para la seguridad de los recursos humanos y materiales durante el desarrollo del proyecto y construcción de la obra pública;
+III. Realizar, a través de las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo que se le encuentran adscritas, los proyectos estratégicos, estudios técnicos, obras y/o supervisión de las obras de construcción a cargo de la Secretaría;
 
-VII. Proponer y en su caso implementar alternativas tecnológicas que permitan desarrollar proyectos y construcciones desde un punto de vista de accesibilidad y sustentabilidad;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-VIII. Orientar y Asesorar a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados, así como a las Entidades de la Administración Pública que así lo requieran, en lo relativo a la elaboración de proyectos, construcción y mantenimiento de la obra pública;
+IV. Realizar la proyección, planeación y ejecución de los proyectos estratégicos de las obra pública y servicios relacionados con la misma en materia de afección por la dinámica del medio geológico de la Ciudad de México;
 
-IX. Emitir normas, lineamientos y especificaciones para la planeación, construcción, operación y conservación de la obra pública;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-X. Evaluar el análisis costo-beneficio de las obras públicas que realicen las Unidades Administrativas de la Secretaría de Obras y Servicios y determinar, en su caso, la pertinencia de su ejecución;
+V. Solicitar a la Dirección General Jurídica y Normativa, la atención y seguimiento a las denuncias, querellas y demás actos y/o recursos jurídicos que deban promoverse ante las autoridades competentes, por daños ocasionados a la infraestructura vial, espacios públicos y/o predios inherentes a proyectos estratégicos asignados a la Dirección General de Proyectos Estratégicos y Servicios Técnicos, así como las que sean necesarias para la defensa de los intereses de la Ciudad de México en las materias de su competencia, pudiendo llegar a las (sic) acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado previo cumplimiento de la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VI. Aportar la información necesaria a través de las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo que se le encuentran adscritas, para iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes, la prestación de servicios y la realización de proyectos estratégicos, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos y/o convenios celebrados con tal motivo, en su caso, con la consulta e intervención del área jurídica correspondiente;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VII. Elaborar, revisar y suscribir los contratos y/o convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, con la consulta, en su caso, del área jurídica correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VIII. Proponer y en su caso implementar alternativas tecnológicas que permitan desarrollar proyectos estratégicos desde un punto de vista de accesibilidad y sustentabilidad;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+IX. Orientar y asesorar a los Entes de la Administración Pública de la Ciudad de México y Alcaldías que así lo requieran, en lo relativo a la elaboración de proyectos, construcción y mantenimiento de la obra pública;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+X. Emitir normas, lineamientos y especificaciones para la planeación, construcción, operación y conservación de la obra pública;
 
 XI. Emitir y difundir el Tabulador General de Precios Unitarios del Gobierno de la Ciudad de México, así como realizar las actualizaciones mensuales;
 
@@ -10042,87 +10052,57 @@ XI. Emitir y difundir el Tabulador General de Precios Unitarios del Gobierno de 
 
 XII. Verificar la aplicación de los criterios para el análisis y autorización de precios unitarios con base en las disposiciones aplicables en la materia;
 
-XIII. Elaborar y administrar el registro de Concursantes y mantenerlo actualizado;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XIV. Supervisar y verificar la entrega-recepción de las obras ejecutadas por las diferentes Unidades Administrativas de la Secretaría a las áreas usuarias para que éstas las administren de acuerdo a sus facultades;
+XIII. Elaborar y administrar el Registro de Concursantes, así como mantenerlo actualizado;
 
-XV. Establecer las políticas, estrategias y lineamientos para la elaboración de proyectos, cuya ejecución esté a cargo de la Secretaría;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XVI. Establecer los lineamientos, políticas y estrategias para implementar, verificar y supervisar el Sistema de Gestión de Calidad en las obras y servicios a cargo de la Secretaría de Obras y Servicios;
+XIV. Establecer las políticas, estrategias y lineamientos para la elaboración de proyectos estratégicos, cuya ejecución esté a cargo de la Secretaría de Obras y Servicios;
 
-XVII. Realizar el análisis y diagnóstico para determinar las obras susceptibles de ser concesionadas o administradas por terceros;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XVIII. Emitir las declaratorias de necesidad de las obras públicas a concesionarse en la Ciudad de México, en el ámbito de su competencia;
+XV. Establecer los lineamientos, políticas y estrategias para implementar, verificar y supervisar el Sistema de Gestión de Calidad en las obras y servicios a cargo de la Secretaría de Obras y Servicios;
 
-XIX. Elaborar, en su caso, las declaratorias de necesidad de las obras a concesionarse;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XX. Elaborar y suscribir los documentos necesarios para otorgar la concesión o ejecución por terceros de las obras;
+XVI. Definir las estrategias para los estudios, proyectos y obras de regeneración del espacio público, destinando el recurso financiero necesario para la ejecución y/o contratación de los mismos, e instruir a las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo que se le encuentran adscritas, la supervisión interna de los estudios, proyectos y obras de regeneración del espacio público que así lo requieran;
 
-XXI. Establecer los mecanismos para fijar y modificar precios, tarifas o contraprestaciones correspondientes a las obras concesionadas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XXII. Elaborar, suscribir, vigilar y dar seguimiento a la ejecución de los títulos de concesión de las obras públicas y sus modificaciones en el ámbito de su competencia;
+XVII. Realizar, a través de Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico-Operativo que se le encuentran adscritas, la proyección, planeación y ejecución de los proyectos de obra pública en materia de afección por la dinámica del medio geológico de la Ciudad de México, coordinando las acciones con las áreas correspondientes para asegurar su adecuado desarrollo;
 
-XXIII. Establecer mecanismos de evaluación y control que garanticen el cumplimiento de las obligaciones contractuales de las obras concesionadas;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XXIV. Aprobar los proyectos ejecutivos de las obras concesionadas;
+XVIII. Normar las especificaciones técnicas que deberán cumplir las Áreas que integran la Secretaría de Obras y Servicios para el envío de la información que se integrará al Sistema de Información Geográfica de dicha Dependencia; y
 
-XXV. Supervisar de forma sistemática que la ejecución de los trabajos de las obras concesionadas se lleve a cabo conforme a los términos de referencia establecidos y de acuerdo al proyecto ejecutivo aprobado;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XXVI. Motivar, fundamentar, sustanciar y tramitar, en su caso, los actos y procedimientos de nulidad, extinción, revocación y caducidad de las concesiones, así como elaborar la declaratoria de los bienes, cuando resulte procedente, con la consulta del área jurídica en su caso, y de conformidad con la normatividad aplicable;
+XIX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
-XXVII. Dictar las medidas necesarias tendientes a proteger el interés público de las obras concesionadas;
+XX. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
 
-XXVIII. Verificar que la construcción y mantenimiento de obras concesionadas se lleve a cabo en coordinación con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, que corresponda; y
+XXI. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
 
-XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+XXII. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2020)</small>
+XXIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
+
+XXIV. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
+
+XXV. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
+
+XXVI. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
+
+XXVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
+
+XXVIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
+
+XXIX. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
 
 ###### Artículo 207 Bis.
 
-Corresponde a la Dirección Ejecutiva de Proyectos de Obras Públicas:
-
-I. Coordinar la generación de estudios, directrices e integración de proyectos para el uso y mejoramiento del equipamiento urbano y el espacio público a través de un programa establecido que permita el diseño de un proyecto arquitectónico y ejecutivo de calidad. Gestionar las acciones necesarias para la habilitación, rehabilitación, o integración de proyectos de obras públicas de calidad, a través de la elaboración, ejecución y supervisión técnica-arquitectónica;
-
-II. Emitir opiniones en materia de espacio público, equipamiento, mobiliario urbano e imagen urbana de conformidad con la normatividad aplicable;
-
-III. Establecer el desarrollo de los alcances técnicos que deben cumplir los estudios y proyectos para la generación, rehabilitación, o en su caso integración de espacios públicos de calidad;
-
-IV. Establecer las directrices para la integración, presentación y aprobación de los proyectos de obras públicas de la Ciudad de México;
-
-V. Planear, diseñar, ejecutar y supervisar los proyectos arquitectónicos y/o ejecutivos para las obras públicas relativas al equipamiento urbano y al espacio público;
-
-VI. Proponer la habilitación y rehabilitación de espacios públicos en las 16 demarcaciones territoriales de la Ciudad de México para mejorar la calidad de vida de sus habitantes;
-
-VII. Establecer las propuestas de lineamientos y criterios en materia de espacio público, así como acciones para la instalación del equipamiento y mobiliario urbano para su adecuada integración funcional en la estructura urbana de la Ciudad de México;
-
-VIII. Coordinar el desarrollo de proyectos arquitectónicos de imagen urbana, para su correcta distribución, emplazamiento, sustitución y operación, así como de mantenimiento de mobiliario urbano en los espacios públicos de la Ciudad de México;
-
-IX. Establecer el desarrollo de lineamientos que deben cumplir los proyectos de mantenimiento en espacios públicos, una vez entregados a la dependencia correspondiente, para el adecuado funcionamiento del mismo;
-
-X. Coordinar con los titulares de las Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, la elaboración de proyectos que soliciten en materia de equipamiento urbano y espacio público, para generar el mayor número de espacios públicos de calidad en la Ciudad de México;
-
-XI. Coordinarse con las Direcciones Generales de la Subsecretaría de Servicios Urbanos de la Secretaría de Obras y Servicios, para verificar el cumplimiento de lineamientos y criterios en materia de obras públicas;
-
-XII. Evaluar y autorizar opiniones sobre el emplazamiento del equipamiento y mobiliario urbano que se encuentre sobre la banqueta, plazas y/o espacios públicos en general, para mejorar la imagen urbana de la Ciudad de México;
-
-XIII. Evaluar y autorizar opiniones en materia de accesibilidad, para generar espacios públicos de calidad que puedan ser usados de manera incluyente por cualquier habitante de la Ciudad de México;
-
-XIV. Evaluar y autorizar opiniones técnicas de las propuestas de proyectos que sean presentadas para la accesibilidad peatonal que permitan garantizar una accesibilidad universal y seguridad del espacio público;
-
-XV. Promover entre las Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, así como entre particulares, el desarrollo de nuevas tecnologías y procesos para la construcción y mantenimiento de las obras públicas;
-
-XVI. Promover estudios e investigaciones para mejorar los procesos constructivos y los materiales utilizados en la construcción de las obras públicas;
-
-XVII. Coordinar la supervisión y dirección arquitectónica de los trabajos de construcción y mantenimiento en los espacios públicos de la Ciudad de México.
-
-XVIII. Coordinar con las Dependencias encargadas de realizar obras que afecten al espacio público, a efecto de homogeneizar los trabajos a realizar y crear una imagen urbana; y
-
-XIX. Coadyuvar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
-
-XX. Colaborar en la elaboración, revisión y suscripción de contratos y convenios que sean necesarios para el ejercicio de sus facultades, en la sustanciación de la terminación anticipada, suspensión y/o rescisión de los mismos, así como en la ejecución de las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con la normatividad aplicable; y
-
-XXI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2025)
 
 ###### Artículo 208.
 
@@ -10130,9 +10110,7 @@ Corresponde a la Dirección General de Obras para el Transporte:
 
 I. Coordinar los trabajos de construcción de obras de infraestructura para el transporte y su equipamiento, con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados, así como con las Entidades de la Administración Pública;
 
-> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2022)</small>
-
-I Bis. Conducir las acciones tendientes a la ejecución de Obras para el Transporte, así como los proyectos de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales, Ferroviarias y Proyectos Especiales, en coordinación con el organismo público responsable de prestar el servicio;
+I Bis. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
 
 II. Colaborar con las Dependencias, Unidades Administrativas, Alcaldías y Órganos Desconcentrados, así como con las Entidades de la Administración Pública, en la planeación, realización de estudios e investigaciones necesarios para optimizar, actualizar, ampliar, construir, equipar y supervisar las obras de infraestructura para el transporte de la Ciudad de México;
 
@@ -10142,11 +10120,17 @@ IV. Elaborar estudios, proyectos ejecutivos y de detalle para la construcción d
 
 V. Establecer y vigilar los métodos constructivos aplicables en obras e instalaciones de la infraestructura para el transporte;
 
-VI. Presentar y dar seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura vial, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a las (sic) acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en su caso, con la consulta del área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-VII. Iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes, la prestación de servicios y la realización de obra pública que sean necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos o convenios celebrados con tal motivo, en su caso, con la consulta del área jurídica correspondiente;
+VI. Presentar y dar seguimiento a las denuncias, querellas y demás actos y/o recursos jurídicos que deban promoverse ante las autoridades competentes, por daños ocasionados a la infraestructura vial, espacios públicos y/o predios inherentes a proyectos estratégicos asignados a la Dirección General de Proyectos Estratégicos y Servicios Técnicos, así como las que sean necesarias para la defensa de los intereses de la Ciudad de México en las materias de su competencia, pudiendo llegar a los acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en su caso, con el apoyo del área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
 
-VIII. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta en su caso del área jurídica correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VII. Iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes, la prestación de servicios y la realización de obra pública que sean necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos y/o convenios celebrados con tal motivo, en su caso, con el apoyo del área jurídica correspondiente;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VIII. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con el apoyo del área jurídica correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
 
 IX. Construir y supervisar las obras e instalaciones fijas de la infraestructura para el transporte, incluyendo sus obras inducidas y complementarias; verificando que se hagan de acuerdo al proyecto ejecutivo, programa y presupuesto autorizados;
 
@@ -10156,7 +10140,9 @@ XI. Establecer mecanismos de control que garanticen la seguridad de los recursos
 
 XII. Adquirir, transportar, suministrar e instalar los equipos y material de instalación fija que requieran las obras de infraestructura para el transporte; de conformidad con la normatividad aplicable.
 
-XIII. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, con la consulta en su caso del área jurídica, así como ejecutar las garantías en su caso y las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XIII. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, con el apoyo del área jurídica, así como ejecutar las garantías en su caso y las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
 
 XIV. Entregar las obras de infraestructura para el transporte, así como sus obras inducidas y complementarias a las Dependencias, Alcaldías, Órganos Desconcentrados, y Entidades operadoras de los mismos;
 
@@ -10164,17 +10150,25 @@ XV. Solicitar o efectuar la realización de las pruebas requeridas para poner en
 
 XVI. Coordinar con las autoridades competentes, las labores de protección civil, durante la ejecución de las obras;
 
-XVII. Realizar el análisis y diagnóstico para determinar las obras susceptibles de ser concesionadas o administradas por terceros;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XVII. Coordinar con las autoridades competentes, las labores de protección civil, durante la ejecución de las obras;
 
 XVIII. Emitir las declaratorias de necesidad de las obras públicas a concesionarse en la Ciudad de México, en el ámbito de su competencia;
 
 XIX. Elaborar, en su caso, las declaratorias de necesidad de las obras a concesionarse;
 
-XX. Elaborar y suscribir los documentos necesarios para otorgar la concesión o ejecución por terceros de las obras;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XXI. Establecer los mecanismos para fijar y modificar precios, tarifas o contraprestaciones correspondientes a las obras concesionadas;
+XX. Elaborar y suscribir los documentos necesarios para otorgar la concesión o ejecución por terceros de las obras, con el apoyo del área jurídica;
 
-XXII. Elaborar, suscribir, vigilar y dar seguimiento a la ejecución de los títulos de concesión de las obras públicas y sus modificaciones en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXI. Establecer los mecanismos para fijar y modificar precios, tarifas o contraprestaciones correspondientes a las obras concesionadas, con el apoyo del área jurídica;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXII. Elaborar, suscribir, vigilar y dar seguimiento a la ejecución de los títulos de concesión de las obras públicas y sus modificaciones en el ámbito de su competencia, con el apoyo del área jurídica;
 
 XXIII. Establecer mecanismos de evaluación y control que garanticen el cumplimiento de las obligaciones contractuales de las obras concesionadas;
 
@@ -10182,9 +10176,13 @@ XXIV. Aprobar los proyectos ejecutivos de las obras concesionadas;
 
 XXV. Supervisar de forma sistemática que la ejecución de los trabajos de las obras concesionadas se lleve a cabo conforme a los términos de referencia establecidos y de acuerdo al proyecto ejecutivo aprobado;
 
-XXVI. Motivar, fundamentar, sustanciar y tramitar, en su caso, los actos y procedimientos de nulidad, extinción, revocación y caducidad de las concesiones, así como elaborar la declaratoria de los bienes, cuando resulte procedente, con la consulta del área jurídica en su caso, y de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XXVII. Dictar las medidas necesarias tendientes a proteger el interés público de las obras concesionadas;
+XXVI. Motivar, fundamentar, sustanciar y tramitar, en su caso, los actos y procedimientos de nulidad, extinción, revocación y caducidad de las concesiones, así como elaborar la declaratoria de los bienes, cuando resulte procedente, con el apoyo del área jurídica en su caso, y de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXVII. Dictar las medidas necesarias tendientes a proteger el interés público de las obras concesionadas, con el apoyo del área jurídica;
 
 XXVIII. Verificar que la construcción y mantenimiento de obras concesionadas se lleve a cabo en coordinación con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, que corresponda; y
 
@@ -10194,53 +10192,63 @@ XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos, así com
 
 (DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 208 Ter.
 
-Corresponde a la Dirección Ejecutiva del Proyecto de Ampliación, Rehabilitación y Reforzamiento de la Línea 12 del Metro y Líneas Adicionales:
+Corresponde a la Dirección Ejecutiva de Sistemas Teleféricos:
 
-I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación de la Línea 12 del Metro y Líneas Adicionales;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-II. Establecer los criterios de coordinación y participación con las diferentes Dependencias, Órganos y Entidades de la Administración Pública Local y Federal, para la implementación de la Línea 12 del Metro y Líneas Adicionales;
+I. Proponer, desarrollar y/o coadyuvar en la implementación de estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación de Sistemas Teleféricos de Transporte Público Cablebús;
 
-III. Emitir instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la implementación de la Línea 12 del Metro y Líneas Adicionales;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-IV. Programar y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente la Línea 12 del Metro y Líneas Adicionales, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
+II. Establecer los criterios de coordinación y participación con los diferentes entes de la Administración Pública Local y Federal, para la implementación de los Teleféricos para el Sistema de Transporte Público Cablebús;
 
-V. Coordinar con las diferentes Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados de la Línea 12 del Metro y Líneas Adicionales;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-VI. Participar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras de la Línea 12 del Metro y Líneas Adicionales, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normativa aplicable;
+III. Elaborar y proponer instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales, para el desarrollo de los proyectos, programas y servicios que se requieran para la implementación de Teleféricos para el Sistema de Transporte Público Cablebús;
 
-VII. Coordinar la realización de las obras públicas necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-VIII. Contribuir en la elaboración, revisión y suscripción de los contratos y convenios que sean necesarios para el ejercicio de sus facultades, sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con las disposiciones aplicables; y
+IV. Planear, proponer, desarrollar y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficientes los Teleféricos para el Sistema de Transporte Público Cablebús;
 
-IX. Las demás que le confieran las disposiciones aplicables, que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
+V. Participar y coordinar con los diferentes entes de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados con los Teleféricos para el Sistema de Transporte Público Cablebús;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VI. Coadyuvar en la presentación y seguimiento a las denuncias, querellas y demás actos y/o recursos jurídicos que deban promoverse ante las autoridades competentes, por daños ocasionados a la infraestructura vial, espacios públicos y/o predios a su cargo, y en lo inherente a obras relacionadas con los Teleféricos para el Sistema de Transporte Público Cablebús, así como las que sean necesarias para la defensa de los intereses de la Ciudad de México en las materias de su competencia, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con la Dirección General Jurídica y Normativa de la Secretaría y la Dirección de Obras Inducidas y Afectaciones, previo cumplimiento de la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VII. Coordinar la realización de las obras públicas necesarias para el ejercicio de sus facultades, financiadas bajo cualquier modalidad;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+VIII. Colaborar con la elaboración, revisión y suscripción de los contratos y/o convenios que sean necesarios para el ejercicio de sus facultades, sustanciar su terminación anticipada, suspensión y/o rescisión, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+IX. Someter a la autorización de la persona titular de la Dirección General de Obras para el Transporte, los programas presupuestales de las obras y servicios relacionados con los Teleféricos para el Sistema de Transporte Público Cablebús; así como para la integración en el presupuesto anual o multianual de dicha Dirección General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2025)</small>
+
+X. Planear, conforme al presupuesto autorizado y en coordinación con las áreas competentes, la contratación de los trabajos programados para llevar a cabo la obra y los servicios relacionados con los Teleféricos para el Sistema de Transporte Público Cablebús;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2025)</small>
+
+XI. Presentar a la persona titular de la Dirección General de Obras para el Transporte, los casos que, en el ámbito de su competencia, deban someterse a la dictaminación del Subcomité de Obras de dicha Dirección General; y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION IX], G.O. 28 DE FEBRERO DE 2025)</small>
+
+XII. Las demás que le confieran las disposiciones legales aplicables, los (sic) que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
 ###### Artículo 208 Quáter.
 
-Corresponde a la Dirección Ejecutiva del Proyecto del Tren Interurbano México–Toluca:
-
-I. Proponer y desarrollar estudios técnicos y estratégicos necesarios para la planeación, diseño e implementación del Tren Interurbano México–Toluca;
-
-II. Establecer los criterios de coordinación y participación con las diferentes Dependencias, Órganos y Entidades de la Administración Pública Local y Federal, para la implementación del Tren Interurbano México-Toluca;
-
-III. Emitir instrumentos de vinculación y colaboración con organismos de cooperación, nacionales e internacionales para la implementación, operación y administración de los proyectos y servicios, así como los relativos a programas y proyectos que se requieran para la implementación del Tren Interurbano México-Toluca;
-
-IV. Programar y supervisar proyectos, infraestructura y equipamiento para gestionar, implementar, conservar, ampliar, mejorar y hacer más eficiente el Tren Interurbano México-Toluca, y desarrollar proyectos que dicten y vigilen las políticas de operación del mismo, de acuerdo con los lineamientos jurídicos aplicables en la materia;
-
-V. Coordinar con las diferentes Dependencias, Órganos y Entidades de la Administración Pública de la Ciudad de México, así como con las autoridades de la Zona Metropolitana del Valle de México para el desarrollo e implementación de estrategias y proyectos de obra, infraestructura y de servicios relacionados del Tren Interurbano México-Toluca;
-
-VI. Participar en la presentación y seguimiento a las denuncias, querellas y demás actos y recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura, espacios públicos y/o predios a su cargo en custodia y lo inherente a obras del Tren Interurbano México-Toluca, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en coordinación con el área jurídica correspondiente y previo cumplimiento de la normativa aplicable;
-
-VII. Coordinar la realización de las obras públicas necesarias para el ejercicio de sus facultades, incluso financiadas bajo cualquier modalidad;
-
-VIII. Contribuir en la elaboración, revisión y suscripción de los contratos y convenios que sean necesarios para el ejercicio de sus facultades, sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, de conformidad con las disposiciones aplicables; y
-
-IX. Las demás que le confieran las disposiciones aplicables, que sean para el cumplimiento de su objetivo, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2025)
 
 > <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2022)</small>
 
@@ -10334,61 +10342,105 @@ XXX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como
 
 Corresponde a la Dirección General de Servicios Urbanos y Sustentabilidad:
 
-I. Diseñar, planear y ejecutar las políticas, programas y acciones relacionadas con la prestación de los servicios urbanos que se refieren a la construcción, mejoramiento y mantenimiento de la imagen urbana, infraestructura vial, áreas verdes y alumbrado público, así como los servicios de limpia de la red vial primaria de la Ciudad de México y espacios públicos que le sean encomendados y en general la gestión integral de los residuos sólidos urbanos en la Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-II. Establecer mecanismos de coordinación con las Alcaldías que conforman el gobierno de la Ciudad de México, en el ámbito de su competencia, para el diseño y ejecución de acciones relacionadas con la prestación de los servicios urbanos en las demarcaciones territoriales y en su caso, solicitar la información relacionada;
+I. Diseñar, planear y ejecutar las políticas, programas y acciones relacionadas con la prestación de los servicios urbanos que se refieren a la construcción, mejoramiento y mantenimiento, así como la restauración de la imagen urbana, áreas verdes y alumbrado público, así como los servicios de limpia de la red vial primaria y secundaria de la Ciudad de México y espacios públicos que le sean encomendados y en general la gestión integral de los residuos sólidos urbanos en la Ciudad de México;
 
-III. Requerir a los Órganos de la Administración Pública local, federal, estatal, municipal o sector privado la información relacionada con las intervenciones en la vía pública de la Ciudad de México que incidan en la funcionalidad de ésta;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-IV. Planear la prestación de los servicios urbanos y coordinar su ejecución con los Órganos de la Administración Pública local y federal, así como con el sector privado;
+II. Establecer mecanismos de coordinación con las Alcaldías, con el objetivo de diseñar y ejecutar acciones conjuntas relacionadas con la prestación de los servicios urbanos en las demarcaciones territoriales; así como solicitar a las Alcaldías la información necesaria para el cumplimiento de estos fines;
 
-V. Planear y coordinar las intervenciones en la vía pública, en coordinación con los Órganos de la Administración Pública local y federal, así como el sector privado que incidan en la funcionalidad de la vía pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-VI. Participar con los Órganos de la Administración Pública local y federal, en la ejecución de las políticas, programas y acciones públicas cuyas atribuciones y actividades institucionales se relacionen con la prestación de servicios urbanos e intervenciones en la vía pública que incidan en su funcionalidad;
+III. Requerir a los Entes Gubernamentales federales, locales y/o municipales competentes en la materia, así como a las personas físicas y/o morales del sector privado, la información que posean sobre las intervenciones realizadas en la vía pública de la Ciudad de México que incidan en su correcta funcionalidad;
 
-VII. Recibir y atender la demanda Ciudadana relacionada con la prestación de los servicios urbanos e intervenciones en la vía pública que afecten la funcionalidad de ésta en la red vial primaria y canalizar aquella que tengan a su cargo otros Órganos de la Administración Pública de la Ciudad de México o sector privado;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-VIII. Proponer normas y demás disposiciones administrativas para la ejecución de las intervenciones en la vía pública y la realización de acciones institucionales que puedan incidir o tener un impacto en la prestación de los servicios urbanos o en la funcionalidad de ésta;
+IV. Planear y garantizar la eficiente prestación de los servicios urbanos, así como la coordinación en su ejecución con los entes de la administración pública local y federal, así como con el sector privado;
 
-IX. Promover y suscribir los instrumentos necesarios para la aportación de recursos de los sectores público, social y privado, a efecto de llevar a cabo los proyectos y programas que se vinculen;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-X. Diseñar e implementar estrategias de programación y ejecución de las intervenciones en la vía pública que incidan en la prestación de los servicios urbanos y en la funcionalidad de ésta;
+V. Planear, coordinar y garantizar una movilidad eficiente y segura para los ciudadanos, así como planificar y coordinar las intervenciones en la vía pública, en colaboración con los entes de la administración pública local y federal, así como con el sector privado, asumiendo la responsabilidad de minimizar cualquier impacto negativo en la funcionalidad de la vía pública en la Ciudad de México;
 
-XI. Diagnosticar los problemas, incidencias y necesidades de atención de los servicios urbanos para el mejoramiento de la imagen y funcionalidad de la vía pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XII. Revisar que las acciones e intervenciones en la vía pública se realicen de conformidad con los permisos, licencias, concesiones, especificaciones técnicas y demás instrumentos emitidos de acuerdo con la normatividad aplicable;
+VI. Participar activamente en la ejecución de políticas, programas y acciones públicas relacionadas con los servicios urbanos y la vía pública, en estrecha colaboración con los entes de la administración pública local y federal competentes en la materia, aportando la experiencia y conocimientos necesarios para asegurar la eficiencia y eficacia en las intervenciones en la vía pública;
 
-XIII. Realizar las acciones administrativas conducentes cuando se detecte problemas, intervenciones y afectaciones en la vía pública que afecten su funcionalidad, la prestación de los servicios urbanos o que resulten duplicadas, inconexas, desfasadas o contradictorias y/o carezcan de autorización para ello, en coordinación con las Dependencias, Órganos, Entidades y Alcaldías de la Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XIV. Emitir opiniones y sugerencias, en el ámbito de su competencia, respecto a los permisos, licencias, autorizaciones o actos administrativos relacionados con las intervenciones en la vía pública que tengan un impacto en su funcionalidad o en la prestación de los servicios urbanos;
+VII. Garantizar una respuesta ágil y eficiente a las solicitudes ciudadanas relacionadas con los servicios urbanos y las intervenciones en la vía pública que afecten la funcionalidad de la red vial primaria y secundaria, en coordinación con las diferentes áreas de la Administración Pública de la Ciudad de México competentes en la materia, así como con el sector privado, para asegurar que cada solicitud sea atendida por la instancia correspondiente;
 
-XV. Administrar, coordinar y posicionar los centros interactivos a su cargo, como herramienta de planeación y coordinación intergubernamental, y como un referente educativo, lúdico, turístico y cultural en la Ciudad;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XVI. Establecer en coordinación con las autoridades locales o federales competentes, instituciones académicas, los criterios y normas técnicas para las actividades de minimización, recolección, transferencia, tratamiento, aplicación de nuevas tecnologías y disposición final de residuos sólidos urbanos, del saneamiento de sitios clausurados, así como de los sistemas de reciclamiento y tratamiento de residuos sólidos urbanos;
+VIII. Proponer las normas y disposiciones administrativas necesarias para asegurar la eficiencia de los servicios urbanos y la funcionalidad de la vía pública.
 
-XVII. Realizar los estudios, proyectos, construcción, conservación y mantenimiento de obras de infraestructura para el manejo integral de los residuos sólidos urbanos en estaciones de transferencia, plantas de selección para el reciclaje y de composta, rellenos sanitarios, sitios de disposición final clausurados, y de cualquier tecnología para el manejo y/o tratamiento de los residuos sólidos urbanos;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+IX. Promover y fomentar el financiamiento de proyectos y programas relacionados con las materias de su competencia, a través de la promoción y suscripción de acuerdos con los sectores público, social y privado, que permitan la aportación de recursos;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+X. Diseñar e implementar estrategias integrales de programación y ejecución para las intervenciones en la vía pública y áreas verdes, con el objetivo de optimizar la prestación de los servicios urbanos y mejorar la funcionalidad de la vía pública;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XI. Diagnosticar de manera integral los problemas, las incidencias y necesidades de los servicios urbanos para mejorar la imagen y funcionalidad de la vía pública y áreas verdes en la Ciudad de México, a efecto de identificar áreas de oportunidad y diseñar soluciones efectivas;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XII. Verificar que la normatividad aplicable a los permisos, licencias, concesiones, especificaciones técnicas y demás elementos en la materia, sea congruente para la correcta ejecución de acciones e intervenciones en la vía pública y áreas verdes;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XIII. Garantizar la eficiencia y legalidad de las intervenciones en la vía pública, realizando acciones administrativas necesarias para corregir cualquier problema, intervención o afectación que impida su correcta funcionalidad, afecte la prestación de los servicios urbanos, incurra en duplicidad, inconexión, desactualización o contradicción, y/o carezca de la debida autorización, en coordinación con los Entes de la Administración Pública de la Ciudad de México competentes en la materia, así como Alcaldías;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XIV. Emitir opiniones y sugerencias, dentro del ámbito de su competencia, respecto a los permisos, licencias, autorizaciones o actos administrativos relacionados con las intervenciones en la vía pública que puedan tener un impacto en su funcionalidad o en la prestación de los servicios urbanos.
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XV. Administrar y coordinar los centros interactivos a su cargo, para la implementación de herramientas tales como instrumentos de planeación y coordinación intergubernamental, así como espacios de referencia educativa, lúdica, turística y cultural en la Ciudad;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XVI. Establecer en coordinación con las autoridades locales o federales competentes y las instituciones académicas pertinentes, los criterios y normas técnicas que regirán las actividades de minimización, recolección, transferencia, tratamiento, aplicación de nuevas tecnologías y disposición final de residuos sólidos urbanos, así como el saneamiento de sitios clausurados y el desarrollo de sistemas de reciclaje y tratamiento de los residuos sólidos urbanos;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XVII. Realizar estudios, proyectos, construcción, conservación y mantenimiento de obras de infraestructura para el manejo integral de residuos sólidos urbanos, incluyendo las estaciones de transferencia, plantas de selección de reciclaje y composta, rellenos sanitarios, sitios clausurados, así como cualquier tecnología de tratamiento de los residuos sólidos urbanos;
 
 XVIII. Organizar y llevar a cabo el manejo, tratamiento y disposición final de los residuos sólidos urbanos, así como la operación de las estaciones de transferencia, plantas de selección para el reciclaje y de composta, y de cualquier tecnología para el manejo y/o tratamiento de los residuos sólidos urbanos;
 
 XIX. Administrar, usar, disponer, contratar y/o comercializar, los productos derivados o generados del tratamiento y/o manejo de los residuos sólidos urbanos;
 
-XX. Implementar las acciones de prevención y en su caso de mitigación en los daños que presente la superficie de rodadura, para el mejor funcionamiento de la red vial primaria de la Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XX. Implementar las acciones de coordinación con Entes Gubernamentales competentes en la materia, así como Alcaldías, para la prevención y en su caso la mitigación de los daños que presente la superficie de rodadura, para el mejor funcionamiento de la red vial primaria de la Ciudad de México;
 
 XXI. Realizar estudios y proyectos en materia de servicios urbanos, funcionalidad de la vía pública e imagen urbana de la Ciudad de México;
 
 XXII. Proponer la integración de conceptos relacionados con el mantenimiento de las obras públicas, servicios urbanos e infraestructura para la actualización del Tabulador General de Precios Unitarios del Gobierno de la Ciudad de México;
 
-XXIII. Presentar y dar seguimiento a las denuncias, querellas y demás recursos jurídicos ante las autoridades competentes por daños ocasionados a la infraestructura vial, espacios públicos a su cargo o predios en su guarda y custodia y lo inherente a los servicios urbanos, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México, pudiendo llegar a las (sic) acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en su caso, con la consulta del área jurídica correspondiente y previo cumplimiento de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XXIV. Iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes, la prestación de servicios y la realización de obra pública que sean necesarias para el ejercicio de sus facultades, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos celebrados con tal motivo, en su caso, con la consulta del área jurídica correspondiente;
+XXIII. Presentar y dar seguimiento a las denuncias, querellas y demás actos y/o recursos jurídicos que deban promoverse ante las autoridades competentes, por daños ocasionados a la infraestructura, espacios públicos a su cargo, predios bajo su guarda y custodia, en lo inherente a los servicios urbanos, así como las que sean necesarias para la defensa de los intereses de la Ciudad de México en las materias de su competencia, pudiendo llegar a las (sic) acuerdos reparatorios, siempre y cuando se garantice satisfactoriamente la reparación del daño ocasionado, en su caso, con la consulta del área jurídica normativa correspondiente y previo cumplimiento de la normatividad aplicable;
 
-XXV. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta en su caso del área jurídica correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXIV. Iniciar, expedir y sustanciar hasta su conclusión, los actos y procedimientos para la adquisición de bienes, la prestación de servicios y la realización de obra pública que sean necesarias para el ejercicio de sus facultades, así como determinar la terminación anticipada, suspensión y/o rescisión de los contratos celebrados con tal motivo, en su caso, con la consulta del área jurídica normativa correspondiente;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXV. Elaborar, revisar y suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como sustanciar la terminación anticipada, suspensión y/o rescisión de los mismos, en su caso, con la consulta en su caso del área jurídica normativa correspondiente, así como ejecutar las garantías y, en su caso, las penas y sanciones correspondientes, informando de tales acciones a su superior jerárquico;
 
 XXVI. Realizar el análisis y diagnóstico para determinar las obras relacionadas con los servicios urbanos, susceptibles de ser concesionadas o administradas por terceros;
 
 XXVII. Emitir las declaratorias de necesidad de las obras públicas relacionadas con los servicios urbanos a concesionarse en la Ciudad de México, en el ámbito de su competencia;
 
-XXVIII. Elaborar y suscribir los documentos necesarios para otorgar la concesión o ejecución por terceros de las obras relacionadas con los servicios urbanos, previo acuerdo con la persona Titular de la Secretaria;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXVIII. Elaborar y suscribir los instrumentos jurídico normativos necesarios para formalizar la concesión o la ejecución por terceros de las obras relacionadas con los servicios urbanos, previo acuerdo con la persona Titular de la Secretaría;
 
 XXIX. Elaborar, suscribir, vigilar y dar seguimiento a la ejecución de los títulos de concesión de las obras públicas relacionadas con los servicios urbanos y sus modificaciones en el ámbito de su competencia;
 
@@ -10396,19 +10448,25 @@ XXX. Establecer mecanismos de evaluación y control que garanticen el cumplimien
 
 XXXI. Aprobar los proyectos ejecutivos de las obras concesionadas;
 
-XXXII. Supervisar de forma sistemática que la ejecución de los trabajos de las obras concesionadas se lleve a cabo conforme a los términos de referencia establecidos y de acuerdo al proyecto ejecutivo aprobado;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
 
-XXXIII. Motivar, fundamentar, sustanciar y tramitar, en su caso, los actos y procedimientos de nulidad, extinción, revocación y caducidad de las concesiones, así como elaborar la declaratoria de los bienes, cuando resulte procedente, con la consulta del área jurídica en su caso, y de conformidad con la normatividad aplicable;
+XXXII. Realizar una supervisión sistemática de la ejecución de las obras concesionadas, verificando que se cumplan los términos de referencia establecidos y se ajusten al proyecto ejecutivo aprobado;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXXIII. Garantizar la legalidad y transparencia en los procedimientos de nulidad, extinción, revocación y caducidad de concesiones, así como en la elaboración de la declaratoria de bienes, mediante la motivación, fundamentación, sustanciación y tramitación de los actos y procedimientos correspondientes, previa consulta jurídica y de conformidad con la normatividad aplicable;
 
 XXXIV. Dictar las medidas necesarias tendientes a proteger el interés público de las obras concesionadas;
 
 XXXV. Verificar que la construcción y mantenimiento de obras concesionadas se lleve a cabo en coordinación con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, que corresponda;
 
-XXXVI. Diseñar diagnósticos y propuestas, promoviendo la creatividad, participación cívica e innovación, para la solución de problemáticas urbanas en coordinación con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública competentes, que generen una nueva narrativa con proyección nacional e internacional para la Ciudad de México;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2025)</small>
+
+XXXVI. Diseñar diagnósticos y propuestas creativas, fomentando la participación ciudadana y la innovación, para la solución de problemáticas urbanas en coordinación con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública competentes, generando una nueva narrativa con proyección nacional e internacional para la Ciudad de México;
 
 XXXVII. Contratar en el ámbito de su competencia el servicio de energía eléctrica y productos asociados para el Gobierno de la Ciudad de México, de acuerdo con la normatividad vigente y aplicable;
 
-XXXVIII. Diseñar diagnósticos y propuestas, promoviendo la creatividad, participación cívica e innovación, para la solución de problemáticas urbanas en coordinación con las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública competentes, que generen una nueva narrativa con proyección nacional e internacional para la Ciudad de México;
+XXXVIII. (DEROGADA, G.O. 28 DE FEBRERO DE 2025)
 
 XXXIX. Elaborar y ejecutar los estudios y proyectos relativos a la intervención y/o el mejoramiento de los espacios públicos asignados, así como construir, conservar y mantener la obra pública vinculada con aquéllos; y,
 
@@ -10416,21 +10474,7 @@ XL. Las demás que le atribuyan expresamente las leyes y reglamentos, así como 
 
 ###### Artículo 211.
 
-Corresponde a la Dirección Ejecutiva de Transferencia y Disposición Final de Residuos Sólidos Urbanos:
-
-I. Proponer a la Dirección General de Servicios Urbanos, los anteproyectos de criterios y normas técnicas para las actividades de la gestión integral de los residuos sólidos urbanos, como son la minimización, recolección, recepción, traslado, separación, tratamiento incluyendo la aplicación de nuevas tecnologías, y la disposición final de los residuos sólidos urbanos, del saneamiento de sitios clausurados, así como de los sistemas de reciclamiento de los residuos sólidos urbanos;
-
-II. Ejecutar las acciones vinculadas con el manejo de los residuos sólidos urbanos, desde la recolección, recepción, traslado, separación, tratamiento y disposición final, así como con la operación de las estaciones de transferencia, plantas de selección para el reciclaje y de la planta de composta;
-
-III. Previo acuerdo con la Dirección General de Servicios Urbanos, disponer y/o comercializar los productos derivados o generados de la separación, recuperación o del tratamiento y/o manejo de los residuos sólidos urbanos;
-
-IV. Intervenir como apoyo de la Dirección General de Servicios Urbanos, en los procesos de contratación vinculados con la gestión de los residuos sólidos urbanos, así como en los procedimientos para la rescisión administrativa o judicial de los contratos, cuando así corresponda;
-
-V. Presentar a la consideración de la Dirección General de Servicios Urbanos, las propuestas de opiniones y sugerencias que ésta deba emitir, con motivo de los permisos, licencias, autorizaciones o actos administrativos relacionados con la gestión integral de los residuos sólidos urbanos;
-
-VI. Participar como apoyo a la Dirección General de Servicios Urbanos, en la planeación y ejecución de las obras necesarias para el manejo integral de los residuos sólidos urbanos, así como para la creación, conservación y mantenimiento de la infraestructura actual en estaciones de transferencia, plantas de selección para el reciclaje y de composta, rellenos sanitarios y sitios de disposición final clausurados; y,
-
-VII. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+(DEROGADO, G.O. 28 DE FEBRERO DE 2025)
 
 ###### Artículo 212.
 
@@ -15683,3 +15727,21 @@ CUARTO. - Las referencias hechas en este Reglamento, así como, de manera enunci
 QUINTO. - A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
 
 SEXTO. - Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 28 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los asuntos e instrumentos jurídicos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se cancelan o se modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
+
+Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de las unidades administrativas que se eliminan o se modifican por virtud de este Decreto, se entenderán referidas a aquellas que asuman tales funciones o atribuciones.
+
+CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto se cancelan o cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+QUINTO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
+
+SEXTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
