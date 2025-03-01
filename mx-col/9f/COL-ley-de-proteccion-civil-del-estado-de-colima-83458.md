@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2020-12-30"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2025.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -889,35 +889,51 @@ Los presidentes municipales en los casos previstos en la fracción I que anteced
 
 ### Capítulo III. De la Unidad Estatal de Protección Civil
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2025)</small>
 
 ###### Artículo 45.
 
-Se crea la Unidad Estatal de Protección Civil, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivo (sic) y fines, que estará constituida por:
+Se crea la Unidad Estatal de Protección Civil, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y fines, que contará con los siguientes órganos de gobierno:
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2025)</small>
 
-I. Una Junta de Gobierno que se integrará por un Presidente que será designado por el Gobernador; el Secretario General de Gobierno; el titular de la UEPC; los Secretarios de: Finanzas y Administración, Salud, Desarrollo Urbano, Desarrollo Rural y la Contraloría del Estado, quienes podrán designar un suplente que los substituya en sus ausencias, contando con los mismos derechos y obligaciones;
+I. Junta de Gobierno; y
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2025)</small>
 
-II. Un Director General quien será el Titular y Representante legal de la UEPC;
+II. Dirección General.
 
-III. Un Director de Operaciones;
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 1 DE MARZO DE 2025)</small>
 
-IV. Un Director de Administración y Finanzas;
+En cuanto a la Junta de Gobierno, se integrará por las personas titulares de las siguientes dependencias:
 
-V. Un Sub-director Jurídico;
+a) Una Presidencia, que la ocupará la persona designada por la persona titular del Poder Ejecutivo;
 
-VI. Las coordinaciones, sub-coordinaciones, oficiales operativos y demás personal técnico, administrativo y auxiliar, que sea necesario para el cumplimiento de sus atribuciones y responsabilidades;
+b) UEPC, a través de la Dirección General, quien fungirá en la Secretaría Técnica, con voz pero sin voto;
 
-VII. El Centro Estatal de Operaciones;
+c) Secretaría de Planeación, Finanzas y Administración, quien fungirá como vocal;
 
-VIII. El Centro Estatal de Comunicaciones; y
+d) Subsecretaría de Administración, quién fungirá como vocal;
 
-IX. La base regional en el municipio de Manzanillo y las demás bases regionales necesarias.
+e) Unidad de Enlace del Órgano Interno de Control Estatal, quien fungirá como vocal, con voz pero sin voto;
 
-El Reglamento Interno de la UEPC determinará sus deberes, obligaciones, atribuciones específicas y procedimientos de operación.
+III. (DEROGADA, P.O. 1 DE MARZO DE 2025)
+
+IV. (DEROGADA, P.O. 1 DE MARZO DE 2025)
+
+V. (DEROGADA, P.O. 1 DE MARZO DE 2025)
+
+VI. (DEROGADA, P.O. 1 DE MARZO DE 2025)
+
+VII. (DEROGADA, P.O. 1 DE MARZO DE 2025)
+
+VIII. (DEROGADA, P.O. 1 DE MARZO DE 2025)
+
+IX. (DEROGADA, P.O. 1 DE MARZO DE 2025)
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2025)</small>
+
+El Reglamento Interior de la UEPC determinará los deberes, obligaciones, atribuciones específicas y procedimientos de operación tanto del órgano de gobierno como de sus unidades administrativas y de apoyo.
 
 ###### Artículo 46.
 
@@ -971,9 +987,11 @@ Las relaciones de trabajo entre la UEPC y sus trabajadores, se regirán por la L
 
 Serán trabajadores de confianza, el Director General, los directores de área, sub-directores, coordinadores, sub-coordinadores, oficiales operativos y aquellos otros cargos que con tal carácter determine el Reglamento Interno.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2025)</small>
+
 ###### Artículo 52.
 
-La Procuraduría General de Justicia del Estado, dispondrá se adscriba a la UEPC, un agente del Ministerio Público especializado en la materia de protección civil o, en tal caso, se cuente con una mesa especializada de atención a los delitos de esta naturaleza.
+La Fiscalía General del Estado, dispondrá se adscriba a la UEPC, un agente del Ministerio Público especializado en la materia de protección civil o, en tal caso, se cuente con una mesa especializada de atención a los delitos de esta naturaleza.
 
 ###### Artículo 53.
 
@@ -2316,3 +2334,13 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 395 POR EL QUE SE ADICIONA EL ARTÍCULO 133 BIS, CON CUATRO PÁRRAFOS, DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA Y UN SEGUNDO PÁRRAFO AL INCISO M) DE LA FRACCIÓN I DEL ARTÍCULO 45 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 66.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Dentro del plazo de 30 días naturales, la Unidad Estatal de Protección Civil instalará la Junta de Gobierno atendiendo a la conformación contenida en el presente Decreto, sin perjuicio de las sesiones realizadas con anterioridad a la nueva integración de la Junta de Gobierno.
+
+TERCERO. Dentro del plazo de 60 días naturales siguientes a la publicación del presente decreto, la persona titular del Poder Ejecutivo del Estado en coordinación con la Junta de Gobierno de la UEPC y con las atribuciones que les correspondan, armonizará la reglamentación interna de la UEPC de acuerdo a las modificaciones realizadas a la Ley a través del presente Decreto.
