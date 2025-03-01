@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-fiscalia-general-del-estado-de-124812"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-18"
-last_updated: "2017-10-18"
+last_updated: "2025-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA FISCALIA GENERAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE CONDUCTA DE LA FISCALIA GENERAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2025 (ABROGADO).
 
 Código publicado en el Suplemento 7838 del Periódico Oficial del Estado de Tabasco, el miércoles 18 de octubre de 2017.
 
@@ -288,3 +290,13 @@ DADO EN EL DESPACHO FISCAL GENERAL, EN LA CIUDAD VILLAHERMOSA, CAPITAL DEL ESTAD
 DR. FERNANDO VALENZUELA PERNAS
 
 FISCAL GENERAL DEL ESTADO DE TABASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 1 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Segundo. Con la entrada en vigor del presente Código de Conducta se abroga el Código de Conducta de la Fiscalía General del Estado de Tabasco, que fue aprobado mediante el Acuerdo de 18 de octubre de 2017, publicado en el Suplemento 7838 del Periódico Oficial del Gobierno del Estado de Tabasco número 8207.
