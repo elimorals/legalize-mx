@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2024-01-10"
+last_updated: "2025-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -1599,9 +1599,39 @@ Todo estímulo será acompañado de una constancia que acredite el otorgamiento 
 
 La Comisión del Servicio Profesional de Carrera, Honor y Justicia de la Institución respectiva establecerá, conforme al Reglamento de esta Ley, los criterios y lineamientos para el otorgamiento de estímulos a los Integrantes.
 
-### CAPÍTULO VIII. DE LA REMUNERACIÓN DIARIA ORDINARIA Y DEMÁS PRESTACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE MARZO DE 2025)</small>
 
-### CAPÍTULO IX. DE LOS SISTEMAS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
+### CAPÍTULO VII BIS. DE LOS ESTÍMULOS EXTERNOS
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2025)</small>
+
+###### Artículo 90 Bis.
+
+El H. Congreso del Estado de Chihuahua, otorgará anualmente a los integrantes, el Reconocimiento a las Personas Destacadas de las Instituciones de Seguridad Pública, mismo que será concedido en las categorías de:
+
+I. Mérito policial, otorgado al integrante que:
+
+a. Realice actos en beneficio del Estado, la institución o la población, dentro o fuera del servicio.
+
+b. Cuente con trayectoria ejemplar durante el desempeño del servicio institucional.
+
+II. Heroicidad policial, otorgado al integrante que dentro o fuera del servicio, haya salvado vidas humanas o bienes del dominio público, arriesgando o poniendo en peligro su vida.
+
+III. Trabajo de investigación en materia de seguridad pública, otorgado al integrante que, de manera individual o en equipo:
+
+a. Aporte conocimientos técnicos o científicos desde las áreas policial, ministerial o pericial, que hayan permitido resolver alguna investigación.
+
+b. Realice investigaciones de carácter policial, ministerial o pericial en beneficio del Estado, de la institución o de las víctimas.
+
+La Comisión de Seguridad Pública y Protección Civil, o aquella que sea su equivalente, será la encargada de emitir la Convocatoria correspondiente, así como de llevar a cabo los trabajos necesarios para entregar el reconocimiento en cuestión, garantizando en todo momento, que el mismo sea otorgado con perspectiva de género, equidad, legalidad, transparencia, publicidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2025)</small>
+
+###### Artículo 90 Ter.
+
+El H. Congreso del Estado, a través de la Comisión de Seguridad Pública y Protección Civil o aquella que sea su equivalente, se coordinará con la Secretaría y la Secretaría de Hacienda del Estado, a efecto de que se realicen las previsiones presupuestales necesarias para la entrega del reconocimiento expuesto en la convocatoria correspondiente.
+
+### CAPÍTULO VIII. DE LA REMUNERACIÓN DIARIA ORDINARIA Y DEMÁS PRESTACIONES
 
 ###### Artículo 91.
 
@@ -1715,7 +1745,7 @@ Los derechos y prestaciones a se refiere el presente capítulo se entenderán co
 
 Los Integrantes gozarán de las prestaciones y beneficios de la seguridad social a través de sus respectivos institutos de pensiones.
 
-### CAPÍTULO X. DE LA PERMANENCIA EN EL SERVICIO PROFESIONAL DE CARRERA
+### CAPÍTULO IX. DE LOS SISTEMAS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
 
 ###### Artículo 110.
 
@@ -1733,7 +1763,7 @@ V. Becas educativas para los propios Integrantes.
 
 VI. Sistema de seguros educativos para los dependientes de los Integrantes fallecidos o que les haya sobrevenido incapacidad total permanente, en el ejercicio o con motivo de sus funciones.
 
-### CAPÍTULO XI. DEL REINGRESO
+### CAPÍTULO X. DE LA PERMANENCIA EN EL SERVICIO PROFESIONAL DE CARRERA
 
 ###### Artículo 111.
 
@@ -1793,7 +1823,7 @@ La evaluación del desempeño es el proceso de verificación periódica de la pr
 
 Las Comisiones del Servicio Profesional de Carrera, Honor y Justicia, así como el superior jerárquico, aplicarán la evaluación del desempeño de los Integrantes con la periodicidad y conforme a los procedimientos, criterios, indicadores de desempeño y demás elementos que establezca el Reglamento respectivo, así como la normatividad correspondiente.
 
-### CAPÍTULO XII. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
+### CAPÍTULO XI. DEL REINGRESO
 
 ###### Artículo 117.
 
@@ -1817,7 +1847,7 @@ El plazo para el reingreso se interrumpirá si, cumplidos los requisitos a que s
 
 La Institución de Seguridad Pública analizará la solicitud a fin de determinar si el interesado reúne los requisitos previstos en este capítulo y, en caso afirmativo, someterá a la consideración de la Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, la solicitud de reingreso junto con el expediente relativo. La misma Comisión resolverá sobre las solicitudes de reingreso. La resolución de la Comisión no admitirá recurso alguno.
 
-### CAPÍTULO XIII. DE LA EVALUACIÓN Y CERTIFICACIÓN
+### CAPÍTULO XII. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
 ###### Artículo 120.
 
@@ -1869,9 +1899,7 @@ XVII. Fungir como enlace con el Centro Nacional de Certificación y Acreditació
 
 XVIII. Las demás que establezcan la Ley General, la presente Ley y la normatividad aplicable.
 
-### CAPÍTULO XIV. DE LAS INSTITUCIONES DE ESPECIALIZACIÓN Y PROFESIONALIZACIÓN DEL PERSONAL DE SEGURIDAD PÚBLICA DEL ESTADO Y LAS ACADEMIAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+### CAPÍTULO XIII. DE LA EVALUACIÓN Y CERTIFICACIÓN
 
 ###### Artículo 122.
 
@@ -1975,7 +2003,9 @@ La Fiscalía Especializada en Control, vigilará que los procesos para la selecc
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2023)</small>
 
-### CAPÍTULO XV. DE LA PROFESIONALIZACIÓN
+### CAPÍTULO XIV. DE LAS INSTITUCIONES DE ESPECIALIZACIÓN Y PROFESIONALIZACIÓN DEL PERSONAL DE SEGURIDAD PÚBLICA DEL ESTADO Y LAS ACADEMIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 137.
 
@@ -2037,7 +2067,7 @@ La capacitación deberá llevar un enfoque integral, transversal y con perspecti
 
 VI. Las demás que establezcan otras disposiciones aplicables.
 
-### CAPÍTULO XVI. DE LAS CATEGORÍAS PARA AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO XV. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 139.
 
@@ -2067,7 +2097,7 @@ La profesionalización es obligatoria para todos los Integrantes con la finalida
 
 La profesionalización será el criterio fundamental para el otorgamiento de los ascensos.
 
-### CAPÍTULO XVII. DE LAS CATEGORÍAS PARA PERITOS
+### CAPÍTULO XVI. DE LAS CATEGORÍAS PARA AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 142.
 
@@ -2125,7 +2155,7 @@ V. Evaluación del desempeño.
 
 VI. Los demás requisitos y condiciones que se establezcan en la convocatoria respectiva.
 
-### CAPÍTULO XVIII. DE LA INTEGRACIÓN Y MANDO DE LAS INSTITUCIONES POLICIALES
+### CAPÍTULO XVII. DE LAS CATEGORÍAS PARA PERITOS
 
 ###### Artículo 146.
 
@@ -2181,9 +2211,7 @@ Para ascender a la categoría de Perito Profesional, además de los requisitos e
 
 Son aplicables a los peritos, en lo conducente, las disposiciones que establece el capítulo anterior para los agentes del Ministerio Público.
 
-### CAPÍTULO XIX. DE LAS FUNCIONES DE LAS INSTITUCIONES POLICIALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+### CAPÍTULO XVIII. DE LA INTEGRACIÓN Y MANDO DE LAS INSTITUCIONES POLICIALES
 
 #### SECCIÓN PRIMERA. DE LA INTEGRACIÓN
 
@@ -2385,7 +2413,9 @@ En cualquier caso, solo los Integrantes en servicio activo podrán ejercer el ma
 
 Las ausencias temporales de los titulares y demás mandos de las Instituciones Policiales, serán suplidas conforme a lo dispuesto en los reglamentos interiores, manuales de organización y demás disposiciones administrativas de las mismas.
 
-### CAPÍTULO XX. DE LOS UNIFORMES, INSIGNIAS, DIVISAS, CONDECORACIONES Y EQUIPO
+### CAPÍTULO XIX. DE LAS FUNCIONES DE LAS INSTITUCIONES POLICIALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 165.
 
@@ -2485,7 +2515,7 @@ XX. Expedir informes y demás documentos generados con motivo de sus funciones d
 
 XXI. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
-### CAPÍTULO XXI. DE LA CONCLUSIÓN DEL SERVICIO PROFESIONAL DE CARRERA
+### CAPÍTULO XX. DE LOS UNIFORMES, INSIGNIAS, DIVISAS, CONDECORACIONES Y EQUIPO
 
 ###### Artículo 167.
 
@@ -2497,7 +2527,7 @@ En los Manuales de Uniformes e Insignias que al efecto se expidan se determinar�
 
 Para los efectos de esta Ley, son actos del servicio, los que realizan los Integrantes de las Instituciones Policiales en forma individual o colectiva, en cumplimiento de órdenes recibidas o en el desempeño de las funciones y atribuciones que les competen, según su categoría o jerarquía y adscripción.
 
-### CAPÍTULO XXII. DEL RÉGIMEN DISCIPLINARIO DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+### CAPÍTULO XXI. DE LA CONCLUSIÓN DEL SERVICIO PROFESIONAL DE CARRERA
 
 ###### Artículo 169.
 
@@ -2537,7 +2567,7 @@ Los agentes de seguridad y custodia penitenciaria así como las Instituciones Po
 
 Los Integrantes de las Instituciones Policiales que hayan alcanzado la edad límite para su permanencia, podrán ser reubicados en otras áreas de servicio de las propias Instituciones, de acuerdo con sus aptitudes, conservando los derechos adquiridos y observando respeto a su grado jerárquico.
 
-### CAPÍTULO XXIII. DEL ARRESTO
+### CAPÍTULO XXII. DEL RÉGIMEN DISCIPLINARIO DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 ###### Artículo 171.
 
@@ -2651,7 +2681,7 @@ Si las sanciones impuestas fueren la de suspensión o remoción, el infractor de
 
 Las Comisiones remitirán copia certificada de sus resoluciones al Centro Estatal y demás instancias que estime pertinentes, para que procedan a su ejecución, informando de ello a la Comisión respectiva.
 
-### CAPÍTULO XXIV. DE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA, HONOR Y JUSTICIA PARA LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+### CAPÍTULO XXIII. DEL ARRESTO
 
 ###### Artículo 187.
 
@@ -2687,7 +2717,7 @@ Sin mayor trámite la inconformidad se resolverá dentro de los tres días hábi
 
 Cuando no exista inconformidad en el término señalado o si la resolución confirma el arresto, será remitida copia de la misma al expediente del Integrante.
 
-### CAPÍTULO XXV. DEL CONSEJO ESTATAL DEL DESARROLLO POLICIAL
+### CAPÍTULO XXIV. DE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA, HONOR Y JUSTICIA PARA LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 ###### Artículo 191.
 
@@ -2891,7 +2921,7 @@ El Reglamento respectivo determinará las bases para la operación y funcionamie
 
 Las Comisiones llevarán un registro de datos de los Integrantes, los que se incorporarán a las bases de datos del Registro Nacional de Personal, así como del Registro Estatal de Personal.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO DE SEPARACIÓN Y DEL RÉGIMEN DISCIPLINARIO
+### CAPÍTULO XXV. DEL CONSEJO ESTATAL DEL DESARROLLO POLICIAL
 
 ###### Artículo 198.
 
@@ -2975,7 +3005,7 @@ El Consejo de Desarrollo Policial se auxiliará en su funcionamiento del persona
 
 ## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS ANTE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA, HONOR Y JUSTICIA
 
-### CAPÍTULO II. DE LAS CONTROVERSIAS DEL SERVICIO PROFESIONAL Y LA PROFESIONALIZACIÓN
+### CAPÍTULO I. DEL PROCEDIMIENTO DE SEPARACIÓN Y DEL RÉGIMEN DISCIPLINARIO
 
 ###### Artículo 202.
 
@@ -3161,7 +3191,7 @@ Las resoluciones definitivas dictadas por las Comisiones podrán ser impugnadas 
 
 En lo no previsto en el presente capítulo en cuanto a la admisión, desahogo y valoración de las pruebas se aplicará de manera supletoria el Código de Procedimientos Civiles del Estado.
 
-### CAPÍTULO ÚNICO. DEL SISTEMA DE INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
+### CAPÍTULO II. DE LAS CONTROVERSIAS DEL SERVICIO PROFESIONAL Y LA PROFESIONALIZACIÓN
 
 ###### Artículo 217.
 
@@ -3185,7 +3215,7 @@ La resolución que dicte la Comisión del Servicio Profesional de Carrera, Honor
 
 ## TÍTULO QUINTO. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO ÚNICO. DEL USO DE LA FUERZA PÚBLICA
+### CAPÍTULO ÚNICO. DEL SISTEMA DE INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 220.
 
@@ -3621,7 +3651,7 @@ X. Nombre de quien haya efectuado el registro y área de adscripción.
 
 ## TÍTULO SEXTO. DE LOS PROCEDIMIENTOS POLICIALES
 
-### CAPÍTULO ÚNICO. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
+### CAPÍTULO ÚNICO. DEL USO DE LA FUERZA PÚBLICA
 
 ###### Artículo 266.
 
@@ -3789,7 +3819,7 @@ También serán responsables los superiores que dieron las órdenes ilícitas.
 
 ## TÍTULO SÉPTIMO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
 ###### Artículo 291.
 
@@ -3841,8 +3871,6 @@ Los particulares autorizados para prestar servicios de seguridad privada, así c
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
-
 ###### Artículo 298.
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a preservar la integridad, estabilidad y permanencia del Estado Mexicano, en los términos de la Ley de Seguridad Nacional y la Ley General.
@@ -3864,6 +3892,8 @@ La Fiscalía General y la Secretaría se coordinarán con la Federación para el
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
 
 ###### Artículo 301.
 
@@ -3912,6 +3942,8 @@ Los usuarios de los vehículos estacionados en la vía pública no están obliga
 ## TÍTULO UNDÉCIMO. DE LA SEGURIDAD Y PROTECCIÓN PERSONAL DE FUNCIONARIOS PÚBLICOS AL CONCLUIR SU ENCARGO O NOMBRAMIENTO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 305.
 
@@ -4640,3 +4672,15 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0166/2024 I P.O., MEDIANTE EL CUAL SE ADICIONA AL TÍTULO TERCERO, DENOMINADO DEL SERVICIO PROFESIONAL DE CARRERA EN LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, EL CAPÍTULO VII BIS DENOMINADO "DE LOS ESTÍMULOS EXTERNOS", QUE CONTIENE LOS ARTÍCULOS 90 BIS Y 90 TER, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los Decretos No. LXVI/RFDEC/0619/2019 I P.O. y 1572/2016 XXI P.E.
