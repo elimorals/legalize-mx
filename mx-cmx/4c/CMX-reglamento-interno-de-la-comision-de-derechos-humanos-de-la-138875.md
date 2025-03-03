@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2024-10-04"
+last_updated: "2025-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -630,9 +630,13 @@ De las Visitadurías Generales
 
 Número de Visitadurías Generales
 
-La Comisión contará con cinco Visitadurías Generales. Dicho número podrá modificarse de conformidad con las necesidades del servicio y la disponibilidad presupuestal.
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2025)</small>
 
-Las Visitadurías Generales serán las siguientes: Primera Visitaduría General, especializada en seguridad ciudadana y procuración de justicia; Segunda Visitaduría General, especializada en administración de justicia y ejecución penal; Tercera Visitaduría General, especializada en Derechos Económicos, Sociales, Culturales y Ambientales (DESCA) y derecho a la buena administración pública; Cuarta Visitaduría General, especializada en violaciones graves a derechos humanos y grupos de atención prioritaria; y Quinta Visitaduría General, especializada en materia laboral.
+La Comisión contará con cuatro Visitadurías Generales. Dicho número podrá modificarse de conformidad con las necesidades del servicio y la disponibilidad presupuestal.
+
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2025)</small>
+
+Las Visitadurías Generales serán las siguientes: Primera Visitaduría General, especializada en seguridad ciudadana y procuración de justicia; Segunda Visitaduría General, especializada en sistema penitenciario y ejecución penal; Tercera Visitaduría General, especializada en Derechos Económicos, Sociales, Culturales y Ambientales (DESCA) y derecho a la buena administración pública; y Cuarta Visitaduría General, especializada en violaciones graves a derechos humanos y grupos de atención prioritaria.
 
 La persona titular de la Presidencia, podrá determinar que una solicitud inicial sea atendida por una Visitaduría General, no obstante que no se trate de la especialidad que esta tenga asignada conforme al párrafo anterior.
 
@@ -1468,13 +1472,15 @@ La persona titular de la Contraloría Interna o encargada de despacho podrá del
 
 ### Capítulo I. Disposiciones generales sobre el procedimiento
 
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2025)</small>
+
 ###### Artículo 67.
 
 Coordinación del personal
 
-Las personas titulares de las cinco Visitadurías Generales, de la Dirección General de Quejas y Atención Integral y de la Dirección Ejecutiva de Seguimiento, coordinarán y supervisarán a las personas servidoras públicas a su cargo y les instruirán o delegarán todas aquellas actuaciones que se requieran para el cumplimiento efectivo de las funciones y atribuciones que les asigna la Ley, así como para el buen funcionamiento de las Áreas. Las personas servidoras públicas a quienes se les instruyan o deleguen actuaciones, mantienen el deber de informar de manera oportuna y permanente a las personas titulares sobre el adecuado cumplimiento de las instrucciones y sobre la realización de las funciones delegadas.
+Las personas titulares de las cuatro Visitadurías Generales, de la Dirección General de Quejas y Atención Integral y de la Dirección Ejecutiva de Seguimiento, coordinarán y supervisarán a las personas servidoras públicas a su cargo y les instruirán o delegarán todas aquellas actuaciones que se requieran para el cumplimiento efectivo de las funciones y atribuciones que les asigna la Ley, así como para el buen funcionamiento de las Áreas. Las personas servidoras públicas a quienes se les instruyan o deleguen actuaciones, mantienen el deber de informar de manera oportuna y permanente a las personas titulares sobre el adecuado cumplimiento de las instrucciones y sobre la realización de las funciones delegadas.
 
-En caso de que las personas servidoras públicas a quienes se les instruyan o deleguen actuaciones, omitan su realización y/u informar a las personas titulares sobre las mismas, serán responsables de dichas omisiones.
+En caso de que las personas servidoras públicas a quienes se les instruyan o deleguen actuaciones, omitan su realización e/o informar a las personas titulares sobre las mismas, serán responsables de dichas omisiones.
 
 ###### Artículo 68.
 
@@ -2449,3 +2455,13 @@ G.O. 4 DE OCTUBRE DE 2024.
 Primero. Publíquese en la Gaceta Oficial de la Ciudad de México, el presente Acuerdo y su Anexo.
 
 Segundo. La presente reforma al Reglamento Interno fue aprobada por el Consejo de la Comisión de Derechos Humanos de la Ciudad de México, en la Sesión Ordinaria 10/2024 de fecha dieciocho de septiembre de dos mil veinticuatro, entrará en vigor al día siguiente de la publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 44 Y EL ARTÍCULO 67 DEL REGLAMENTO INTERNO DE ESTE ORGANISMO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México el presente Acuerdo y su anexo.
+
+SEGUNDO. La reforma al Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México aprobada por Acuerdo 04/2025 entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se instruye a la Dirección General de Administración de la Comisión de Derechos Humanos de la Ciudad de México, que una vez que cobre vigencia citada reforma, realice las gestiones necesarias para que opere el contenido del acuerdo 04/2025 en los demás instrumentos administrativos y legales de organización interna de este Organismo.
