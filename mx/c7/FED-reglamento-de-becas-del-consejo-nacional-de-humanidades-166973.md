@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-becas-del-consejo-nacional-de-humanidades-166973"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-07-10"
-last_updated: "2023-07-10"
+last_updated: "2025-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166973&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-06-07"
 
 REGLAMENTO DE BECAS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2025 (ABROGADO).
 
 Reglamento publicado en el Número 7 del Diario Oficial de la Federación, el lunes 10 de julio de 2023.
 
@@ -390,3 +390,15 @@ TERCERO. Los asuntos pendientes de resolución a la entrada en vigor del present
 Atentamente
 
 Dado en la Ciudad de México, a los siete días del mes de junio de dos mil veintitrés.- Directora General del Consejo Nacional de Humanidades, Ciencias y Tecnologías, Dra. María Elena Álvarez-Buylla Roces.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE BECAS DE LA SECRETARÍA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Becas del Consejo Nacional de Humanidades Ciencias y Tecnologías publicado en el Diario Oficial de la Federación el 10 de julio de 2023, y se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. Los asuntos pendientes de resolución a la entrada en vigor del presente Reglamento se sustanciarán de conformidad con la normativa que les dio origen.
