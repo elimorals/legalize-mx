@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadoras-e-166986"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-07-11"
-last_updated: "2024-02-27"
+last_updated: "2025-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166986&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2023-06-07"
 ---
 # REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGIAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DE LA SECRETARÍA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN, PUBLICADO EN EL D.O.F. DE 4 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2025 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 11 de julio de 2023.
 
@@ -672,3 +674,13 @@ D.O.F. 27 DE FEBRERO DE 2024.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 4 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORAS E INVESTIGADORES DE LA SECRETARÍA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN”]
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento del Sistema Nacional de Investigadores publicado en el Diario Oficial de la Federación el 11 de julio de 2023. Asimismo, quedan sin efecto todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento se resolverán conforme a la normativa vigente en la fecha en que se originaron.
