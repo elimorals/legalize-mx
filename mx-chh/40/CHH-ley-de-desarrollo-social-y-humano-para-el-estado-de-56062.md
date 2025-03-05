@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-social-y-humano-para-el-estado-de-56062"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-13"
-last_updated: "2021-09-04"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2007.
 
@@ -421,17 +421,19 @@ Para garantizar la eficiencia y eficacia de los programas, proyectos y actividad
 
 Para efectos de lo previsto en la fracción XI, del artículo 24 de este ordenamiento, el Ejecutivo del Estado instrumentará y administrará un Fondo de Contingencia Social. Su monto se establecerá en el presupuesto de egresos, quedando sujeto en cuanto a su distribución y aplicación a las reglas mínimas de operación que acuerde el titular del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 31.
 
-El Ejecutivo del Estado y los ayuntamientos deberán elaborar y publicar en el Periódico Oficial, las reglas de operación de los programas en la materia, incluidos en el presupuesto de egresos, así como la metodología, normatividad, calendarización y las asignaciones correspondientes a las diversas regiones y municipios de la Entidad, sin perjuicio de transparentar de oficio la información pública establecida en la correspondiente ley.
+El Ejecutivo del Estado y los ayuntamientos deberán publicar en el Periódico Oficial, las reglas de operación de los programas en la materia, incluidos en el presupuesto de egresos, así como la metodología, normatividad, calendarización y las asignaciones correspondientes a las diversas regiones y municipios de la entidad, sin perjuicio de transparentar de oficio la información pública establecida en la correspondiente ley.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
 
 Los programas dirigidos a Pueblos y a Comunidades Indígenas, incluirán a su vez la metodología que permita el ejercicio del Derecho al Consentimiento Libre, Previo e Informado, de conformidad con lo dispuesto por la ley en la materia.
 
-La publicación deberá realizarse dentro de los treinta días naturales posteriores a la entrada en vigor de los presupuestos de egresos respectivos.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
+
+La publicación deberá realizarse dentro de los treinta días naturales posteriores a la entrada en vigor de los presupuestos de egresos respectivos. Esta obligación aplicará para los programas de nueva creación y para aquellos que experimenten modificaciones en su mecánica operativa o en su diseño. En caso de que no se registren modificaciones, las reglas de operación previamente publicadas mantendrán su vigencia hasta que se emita un nuevo instrumento que las sustituya.
 
 ###### Artículo 32.
 
@@ -1334,3 +1336,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFLEY/0168/2024 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 31, PÁRRAFOS PRIMERO Y TERCERO, DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
