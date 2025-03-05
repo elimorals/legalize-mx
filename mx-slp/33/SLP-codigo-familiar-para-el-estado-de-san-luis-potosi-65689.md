@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2025-02-12"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -2103,6 +2103,20 @@ e) Todo tipo de práctica que lesione la integridad personal de los niños, niñ
 
 VIII. Cuando el progenitor de la o el menor teniendo el ejercicio de este derecho, sea condenado mediante sentencia ejecutoria, por la comisión del delito de feminicidio cometido en contra de la progenitora de la o el menor.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+ARTICULO 293 BIS. La persona que haya perdido la patria potestad por el abandono de las obligaciones alimenticias sin causa justificada, la podrá recuperar, siempre y cuándo:
+
+I. La recuperación de la patria potestad suponga un beneficio en favor de la niña, niño o adolescente;
+
+II. Compruebe que ha cumplido con esta obligación por más de un año;
+
+III. Otorgue garantía anual de cumplimiento;
+
+IV. No represente ningún peligro o riesgo para la niña, niño o adolescente, y
+
+V. Demuestre solvencia para el cumplimiento de sus obligaciones, mediante un estudio socioeconómico y cualquier otra prueba que la o el juez considere pertinente; dichos estudios serán realizados por personal del Poder Judicial, de instituciones públicas, o peritos particulares.
+
 ###### ARTICULO 294.
 
 Ninguno de los cónyuges, ascendientes o adoptantes, que posea la patria potestad y que contraiga nuevas nupcias, pierde por este hecho la patria potestad.
@@ -3904,6 +3918,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 12 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0159.- SE ADICIONA PÁRRAFO SEGUNDO DEL ARTÍCULO 164 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0165.- SE ADICIONA EL ARTÍCULO 293 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
