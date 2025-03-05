@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2024-06-14"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -277,13 +277,17 @@ XVI. Contraloría General del Estado;
 
 XVII. La Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-XVIII. Secretaría de Seguridad y Protección Ciudadana, y
+XVIII. Secretaría de Seguridad y Protección Ciudadana;
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-XIX. Consejería Jurídica del Estado.
+XIX. Consejería Jurídica del Estado, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+XX. Secretaría de las Mujeres e Igualdad Sustantiva.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -1385,6 +1389,100 @@ XXVI. Vigilar y coordinar, a través de la Coordinación Especializada en Justic
 
 XXVII. Las demás que les sean encomendadas por el titular del Poder Ejecutivo del Estado, le confiera esta Ley y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+ARTICULO 41 QUINQUIES.- A la Secretaría de las Mujeres e Igualdad Sustantiva le corresponde el despacho de los siguientes asuntos:
+
+I. Fungir como dependencia rectora de la Política Estatal para dirigir, coordinar, supervisar, dar seguimiento, implementar y evaluar: la igualdad sustantiva; la transversalización de la perspectiva de género; la prevención, atención y erradicación de las violencias; el acceso de las mujeres a una vida libre de violencia; el Sistema de cuidados para garantizar los derechos humanos de las mujeres, mujeres adolescentes y Niñas, conforme al derecho nacional e internacional en la materia;
+
+II. Presentar al Poder Ejecutivo del Estado, el diseño de la política estatal de igualdad sustantiva y la de acceso de las mujeres a una vida libre de violencia;
+
+III. Representar al Poder Ejecutivo del Estado, ante los diferentes niveles de gobierno, iniciativa privada, sociedad civil y organismos internacionales, en todas aquellas agendas relacionadas con los derechos humanos de las mujeres, mujeres adolescentes y niñas, las políticas de igualdad de género, prevención y atención a las violencias en razón de género y el acceso a una vida libre de violencia;
+
+IV. Diseñar, coordinar, monitorear y evaluar la implementación de las políticas públicas para la igualdad sustantiva; la no discriminación; la prevención y atención de las violencias contra las mujeres, mujeres adolescentes y niñas, las de acceso a una vida libre de violencia, a través de procesos transversales, interseccionales e interculturales en favor de las mujeres, desde un enfoque de género y derechos humanos garantizando los principios de interdependencia y progresividad, como un ejercicio de transparencia y gobernanza;
+
+V. Ejercer las funciones, atribuciones y obligaciones que, en su calidad de Mecanismo para el Adelanto de las Mujeres, establece el derecho nacional e internacional en la materia;
+
+VI. Dirigir, formular, coordinar, proponer, articular, fortalecer, vigilar, monitorear y evaluar que las dependencias y entidades de la administración pública estatal y municipal, conforme a sus respectivas competencias, incorporen, institucionalicen y ejecuten políticas, presupuestos, modelos, protocolos, programas de buenas prácticas, y acciones afirmativas con perspectiva de género, interseccionalidad y derechos humanos, que garanticen la igualdad sustantiva entre todas las personas, el derecho al cuidado, así como la prevención, atención y erradicación de las violencias contra mujeres, mujeres adolescentes y niñas;
+
+VII. Elaborar el Programa Operativo Anual en congruencia con el Plan Estatal de Desarrollo, con base en estudios e investigaciones en materia de igualdad y atención integral de las violencias contra las mujeres, mujeres adolescentes y niñas;
+
+VIII. Diseñar, proponer y evaluar, en colaboración con la Secretaría de Finanzas del Poder Ejecutivo del Estado, los mecanismos específicos para la elaboración de presupuestos con perspectiva de género y seguimiento en la asignación de los recursos a las distintas dependencias y entidades gubernamentales, destinados a la atención de las mujeres, mujeres adolescentes y niñas y la igualdad sustantiva;
+
+IX. Fungir como Presidenta del Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, y del Sistema Estatal para la Igualdad entre Mujeres y Hombres de conformidad con las leyes aplicables;
+
+X. Elaborar, coordinar, ejecutar y dar seguimiento a los siguientes programas estatales:
+
+a) El Programa Estatal para la Igualdad entre Mujeres y Hombres, y
+
+b) El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+Los programas a cargo de la Secretaría de las Mujeres e Igualdad Sustantiva deberán ser formulados garantizando los derechos humanos de las mujeres, mujeres adolescentes y niñas, asegurando la perspectiva de género, la interseccionalidad, interculturalidad, y progresividad de los derechos;
+
+XI. Generar los sistemas de información necesarios que faciliten el seguimiento y monitoreo de las políticas de igualdad, así como las de prevención, atención, sanción y erradicación de las violencias y de acceso de justicia de las mujeres, mujeres adolescentes y niñas, que permitan evaluar su impacto y resultado, a través del establecimiento y operación de los siguientes bancos estatales de información, de conformidad con las disposiciones normativas aplicables:
+
+a) Banco Estatal de Indicadores de Género.
+
+b) Banco Estatal de Datos e Información sobre casos de violencia contra las mujeres.
+
+c) Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas.
+
+Todas las dependencias y entidades de la Administración Pública Estatal; el Poder Legislativo, el Poder Judicial, los Organismos Constitucionalmente Autónomos y los Municipios del Estado, así como las organizaciones civiles, deberán suministrar información para alimentar los bancos;
+
+XII. Implementar, coordinar, monitorear y dar seguimiento al cumplimiento de la Declaratoria de Alerta de Violencia de Género contra las Mujeres del Estado;
+
+XIII. Diseñar, impulsar y ejecutar políticas, planes y programas transversales para la igualdad, fortalecimiento y empoderamiento; así como prevenir, atender y erradicar la violencia contra las mujeres, mujeres adolescentes y niñas, en coordinación con las dependencias y entidades de la Administración Pública Estatal, Municipal, Organismos Autónomos y los otros Poderes del Estado;
+
+XIV. Dirigir los servicios de atención a mujeres víctimas de violencia, y sus hijas e hijos, en los Centros de Justicia para las Mujeres, las Unidades Locales de Atención, en Casas de Emergencia y Refugios, de acuerdo con el modelo de atención diseñado para tal efecto;
+
+XV. Realizar, promover y vincular investigaciones para el diseño de las políticas públicas, acciones afirmativas y medidas dirigidas a garantizar los derechos humanos de las mujeres, mujeres adolescentes y niñas, la igualdad sustantiva y el acceso a una vida libre de violencia, por lo que las dependencias y entidades de la Administración Pública Estatal, el Poder Legislativo, el Poder Judicial, los Organismos Constitucionalmente Autónomos y los Municipios del Estado, así como las organizaciones civiles deberán brindar información para los fines aquí señalados;
+
+XVI. Coordinarse de manera permanente con las autoridades de procuración y administración de justicia para proponer y, en su caso, coadyuvar en la implementación de acciones para fortalecer el acceso a la justicia de mujeres, mujeres adolescentes y niñas en el Estado;
+
+XVII. Diseñar, promover e implementar políticas y programas de formación, capacitación, sensibilización y profesionalización para las personas servidoras públicas y público en general, que garantice la incorporación de la perspectiva de derechos humanos de las mujeres, mujeres adolescentes y niñas, derecho a una vida libre de violencia e igualdad sustantiva, el derecho al cuidado; con enfoques interseccional e intercultural; así como fomentar la participación ciudadana y fortalecer el conocimiento del ejercicio integral de sus derechos;
+
+XVIII. Diseñar, instrumentar, dar seguimiento y evaluar, en coordinación con las demás dependencias y entidades Estatales y Municipales, medidas orientadas a promover la participación de los niños, los jóvenes y los hombres para impulsar la cultura de paz y no violencia contra las mujeres, mujeres adolescentes y niñas, fomentar relaciones interpersonales que detengan las prácticas de violencia y discriminación contra las mujeres, sus hijas e hijos; así como en todos los ámbitos de la vida social, desde un enfoque que atienda la problemática estructural de las relaciones de poder entre los géneros;
+
+XIX. Diseñar, promover, operar y evaluar programas y acciones permanentes para prevenir el abuso sexual a niñas, niños y adolescentes, así como instrumentar y coordinar con las demás dependencias y entidades estatales y municipales, medidas orientadas a prevenir, atender y disminuir el embarazo adolescente;
+
+XX. Promover programas y acciones para el ejercicio pleno de derechos sexuales y reproductivos de las mujeres, mujeres adolescentes y niñas, en coordinación con la Secretaría de Salud e instituciones que integran el Sistema Estatal de Salud;
+
+XXI. Diseñar y promover en coordinación con las autoridades educativas las acciones necesarias para fomentar una cultura de la igualdad sustantiva, de derechos humanos y prevención de las violencias contra las mujeres, mujeres adolescentes y niñas en todos los niveles educativos;
+
+XXII. Proponer a la persona titular del Poder Ejecutivo del Estado, las modificaciones que sean necesarias al marco normativo estatal para armonizarlo conforme al derecho internacional y nacional en materia de derechos humanos de las mujeres, perspectiva de género, igualdad sustantiva, erradicación de todas formas de discriminación y acceso de las mujeres, mujeres adolescentes y niñas a una vida libre de violencia;
+
+XXIII. Celebrar y suscribir instrumentos de colaboración e instrumentos jurídicos en representación del Poder Ejecutivo del Estado, con instituciones públicas estatales y municipales, privadas, sociales, organismos internacionales e instituciones académicas, en materia de derechos humanos de las mujeres, mujeres adolescentes y niñas, igualdad de género, prevención y atención de las violencias, el sistema de cuidados, de conformidad con las disposiciones aplicables;
+
+XXIV. Celebrar y suscribir instrumentos de colaboración con los sectores y organizaciones de los sectores social y privado, así como de la sociedad en general, para el apoyo financiero y técnico en el desarrollo de proyectos relativos a las materias objetivo de la Secretaría, de conformidad con las disposiciones aplicable;
+
+XXV. Diseñar, proponer y ejecutar acciones estratégicas para la orientación de recursos a proyectos de inversión con cooperación internacional, de los Gobiernos Federal, Estatal y en su caso Municipal, que contribuyan al mejoramiento de las condiciones económicas, políticas, culturales y sociales de las mujeres, mujeres adolescentes y niñas; así como a la prevención, atención y erradicación de las violencias;
+
+XXVI. Garantizar la igualdad de género, los derechos humanos, la cultura de la no violencia, la no discriminación contra las mujeres, adolescentes y niñas para el fortalecimiento social, en coordinación con las dependencias y entidades de la Administración Pública Estatal y municipal;
+
+XXVII. Promover la cultura de la denuncia por actos que vulneren las disposiciones en materia de derechos humanos de las mujeres, mujeres adolescentes y niñas;
+
+XXVIII. Realizar campañas estatales orientadas a promover el cambio de patrones socioculturales para el logro de la igualdad de género, la garantía, protección, promoción y respeto a los derechos humanos de las mujeres, mujeres adolescentes y niñas, particularmente aquellas en situación de vulnerabilidad; con la colaboración de los sectores públicos, privado y social;
+
+XXIX. Vigilar que las dependencias, entidades, instituciones y organismos de la Administración Pública del Estado y Municipios generen e implementen acciones encaminadas a reducir las brechas de desigualdad;
+
+XXX. Coadyuvar con los Municipios para el diseño, ejecución, seguimiento y evaluación de las políticas públicas municipales para la igualdad sustantiva y de acceso de las mujeres, mujeres adolescentes y niñas a una vida libre de violencia;
+
+XXXI. Velar que los programas y proyectos que involucran a mujeres, mujeres adolescentes y niñas, incorporen la perspectiva de género y se protejan sus derechos humanos, particularmente aquellas en situación de vulnerabilidad;
+
+XXXII. Asesorar, asistir, garantizar, proteger y representar a las víctimas y usuarias, así como a sus hijas e hijos, conforme al marco normativo vigente, en todo lo referente a sus derechos legalmente reconocidos, en un marco de coordinación y coadyuvancia entre los servicios de atención a víctimas y el Ministerio Público como órgano investigador, así como ante los órganos jurisdiccionales competentes;
+
+XXXIII. Garantizar la seguridad mediante las acciones necesarias a las mujeres víctimas usuarias, a sus hijas e hijos;
+
+XXXIV. Proporcionar atención a través de medios digitales, telefónicos y/o cualquier otro, en los que se atienda directamente o se enlace a la víctima o usuaria para que se le brinde la contención emocional, atención psicológica y legal de emergencia, conforme al protocolo de atención que se establezca y donde se pueda solicitar ayuda policial de ser necesario;
+
+XXXV. Proporcionar a las mujeres víctimas y usuarias la debida atención en sus posibles daños o lesiones, tanto físicas como psicoemocionales, que incluya apoyo y asistencia directa, información y canalizaciones a servicios externos para su complementación;
+
+XXXVI. Prestar la asistencia social, haciendo contacto con las familias, para consolidar la red de apoyo familiar y la comprensión que en este núcleo social requieren las mujeres víctimas o usuarias;
+
+XXXVII. Apoyar a las mujeres víctimas de violencia para alcanzar su autodeterminación a través de actividades de tipo económico que les permitan contar con propios ingresos; y,
+
+XXXVIII. Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, los tratados internacionales relacionados con igualdad de género, discriminación, derechos humanos y violencia contra las mujeres, y demás normas que se le vinculen con sus atribuciones, las cuales podrá desempeñar por sí o a través de las áreas que la componen, o se encuentren sectorizadas en términos de la Ley o Reglamento que la regule.
+
 ###### ARTICULO 42.
 
 (DEROGADO, P.O. 20 DE AGOSTO DE 2018)
@@ -2178,3 +2276,31 @@ P.O. 14 DE JUNIO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0168.- SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 31; Y SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 31 Y EL ARTÍCULO 41 QUINQUIES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 1°, EL PRIMER PÁRRAFO DEL ARTÍCULO 2°, LA FRACCIÓN V DEL ARTÍCULO 3°, LAS FRACCIONES III, V Y VI DEL ARTÍCULO 4°, LAS FRACCIONES I, IV, V Y EL PÁRRAFO TERCERO DE LA FRACCIÓN VI DEL ARTÍCULO 6°, LA FRACCIÓN I DEL ARTÍCULO 9°, LAS FRACCIONES I Y IV DEL ARTÍCULO 20, 56, EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 57, ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS II Y VI DEL TÍTULO QUINTO Y 63; SE ADICIONA FRACCIÓN VII AL ARTÍCULO 4° Y LAS FRACCIONES VI Y VII AL ARTÍCULO 20; Y SE DEROGA EL INCISO I) DE LA FRACCIÓN IV DEL ARTÍCULO 9°, TODOS DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+Segundo. En tanto inicia operaciones la Secretaría de las Mujeres e Igualdad Sustantiva; el Instituto de las Mujeres del Estado de San Luis Potosí continuará prestando servicio a las mujeres, mujeres adolescentes y niñas, sin exceder del quince de marzo de dos mil veinticinco, fecha en que iniciará operaciones la Secretaría de las Mujeres e Igualdad Sustantiva. De igual forma, deberá continuar con el cumplimiento de las funciones administrativas, las que a manera enunciativa y no limitativa son: trámites bancarios, fiscales, de nómina, cumplimiento de obligaciones contractuales, participación en convocatorias para acceder a subsidios de cualquier naturaleza legal, elaboración de proyectos o programas.
+
+Tercero. El Instituto de las Mujeres del Estado de San Luis Potosí quedará extinto una vez que inicie operaciones la Secretaría de las Mujeres e Igualdad Sustantiva; asimismo, al inicio de operaciones de la Secretaría de las Mujeres e Igualdad Sustantiva, se entenderá abrogada la Ley del Instituto de las Mujeres del Estado de San Luis Potosí.
+
+Cuarto. El Ejecutivo del Estado, deberá expedir el Reglamento Interior de la Secretaría de las Mujeres e Igualdad Sustantiva a más tardar el quince de marzo de dos mil veinticinco.
+
+Quinto. A la entrada en vigor del presente Decreto, y una vez que el titular del Ejecutivo del Estado de San Luis Potosí designe a la titular de la Secretaría de las Mujeres e Igualdad Sustantiva, deberá de llevarse a cabo el proceso de entrega-recepción en los términos de la ley de la materia, el cual deberá iniciar de manera inmediata con su preparación la titular del Instituto de las Mujeres del Estado de San Luis Potosí.
+
+Sexto. Los recursos económicos, humanos, presupuesto asignado, créditos, subsidios, bienes muebles e inmuebles y, en general el patrimonio que actualmente pertenece al Instituto de las Mujeres del Estado de San Luis Potosí pasará a formar parte de la Secretaría de las Mujeres e Igualdad Sustantiva.
+
+Séptimo. Las disposiciones legales o administrativas que en su contenido enuncien o impongan obligaciones o atribuciones al Instituto de las Mujeres del Estado de San Luis Potosí, se entenderán referidas a la Secretaría de las Mujeres e Igualdad Sustantiva.
+
+Octavo. Los servicios que actualmente se brinde a mujeres, mujeres adolescentes y niñas o sus familias, continuarán sin interrupciones y serán resueltos conforme a la disposición normativa más favorable a sus derechos.
+
+Noveno. Los procedimientos y procesos promovidos o substanciados ante autoridades judiciales, administrativas, del trabajo o cualquier otra; así como contratos, convenios, proyectos, procedimientos, trámites administrativos o financieros pendientes de resolución, en las que figure como parte el Instituto de las Mujeres del Estado de San Luis Potosí, al inicio de operaciones de la Secretaría de las Mujeres e Igualdad Sustantiva, se continuarán substanciando por esta, sin necesidad de emitir pronunciamiento especial al respecto.
+
+Décimo. Las entidades que se mencionan en este Decreto darán cuenta de su contenido, a los órganos colegiados que las regulan a efecto de iniciar las acciones necesarias para permitir que la Secretaría de las Mujeres e Igualdad Sustantiva pueda iniciar sus operaciones sin contratiempos.
+
+Décimo Primero. La Secretaría de Finanzas del Poder Ejecutivo del Estado de San Luis Potosí, deberá llevar a cabo las acciones presupuestales necesarias, las que en su caso, deberá remitirlas al Congreso del Estado de San Luis Potosí para su aprobación.
+
+Décimo Segundo. El personal que se transfiera a la nueva Secretaría de las Mujeres e Igualdad Sustantiva conservará sus derechos y prestaciones adquiridas, conforme a la legislación aplicable, asegurando la estabilidad y continuidad en el desempeño de sus funciones.
