@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2024-12-04"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -303,11 +303,13 @@ IX.- La supervisión, auditoría técnica, administrativa y económica, en su ca
 
 X.- En corresponsabilidad con las dependencias y entidades de la administración pública estatal; con las municipales y con la sociedad civil, el aprovechamiento racional del agua, el control de su contaminación y la preservación de su calidad, manteniendo una cultura del agua que sea la base de un desarrollo sustentable.
 
-XI.- Promover la participación de los sectores social y privado, en materia de agua.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+XI.- Promover la participación, concientización y el conocimiento de los efectos del cambio climático, en los sectores social y privado, en materia de agua.
 
-XII.- Coordinarse con los Ayuntamientos que cuenten con organismos operadores municipales, para todos los asuntos relacionados con los usos, aprovechamiento y servicios del agua. Para estos efectos, las dependencias y municipios del Estado aportarán la información correspondiente.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+XII.- Coordinarse con los Ayuntamientos que cuenten con organismos operadores municipales, para todos los asuntos relacionados con los usos, aprovechamiento, servicios y cultura del agua. Para estos efectos, las dependencias y municipios del Estado aportarán la información correspondiente.
 
 ###### Artículo 7.
 
@@ -2958,6 +2960,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0944/2024 XVI P.E., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0094/2024 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6, FRACCIONES XI Y XII DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
