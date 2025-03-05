@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-02-12"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3861,11 +3861,25 @@ Este delito, sólo será perseguido por querella de la parte ofendida, salvo que
 
 Las penas se aumentarán hasta en una tercera parte cuando:
 
-a) El delito sea cometido por el ex cónyuge o por persona con la que esté, o haya estado unida a la víctima y ofendido por alguna relación sentimental o de afectividad;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
 
-b) EI sujeto activo tenga relación de parentesco por consanguinidad, afinidad o civil; y
+a) El delito sea cometido por el ex cónyuge o por persona con la que esté, o haya estado unida a la víctima y ofendido por alguna relación sentimental, de afectividad o de confianza;
 
-c) En el ámbito laboral sea cometido por el superior jerárquico de la víctima o compañero de trabajo.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
+
+b) EI sujeto activo tenga relación de parentesco por consanguinidad, afinidad o civil;
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
+
+c) En el ámbito laboral sea cometido por la persona superior jerárquica de la víctima o compañera o compañero de trabajo;
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+d) Cuando se obtenga algún tipo de beneficio no lucrativo; y
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+e) Cuando se haga con fines lucrativos;
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
@@ -7696,6 +7710,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-236 MEDIANTE EL CUAL SE ADICIONAN AL TÍTULO 'DÉCIMO SEXTO, EL CAPÍTULO I QUATER, DENOMINADO "APLICACIÓN DE SUSTANCIAS MODELANTES NO AUTORIZADAS CON FINES ESTÉTICOS", Y LOS ARTÍCULOS 328 NONIES Y 328 DECIES, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-249 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO, INCISOS A), B) Y C), Y SE ADICIONAN LOS INCISOS D) Y E), AL ARTÍCULO 276 SEPTIES, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
