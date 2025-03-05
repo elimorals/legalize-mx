@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2023-09-27"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -903,9 +903,9 @@ III. Puntos Constitucionales;
 
 IV. Justicia y Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-V.- Desarrollo Social, Derechos Humanos y Asuntos Indígenas;
+V. Comisión de Bienestar, Derechos Humanos, Pueblos y Comunidades Indígenas y Afromexicanos;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
@@ -977,13 +977,21 @@ XXII. Anticorrupción;
 
 XXIII. Presupuesto;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-XXIV. Desarrollo Metropolitano; y
+XXIV. Desarrollo Metropolitano;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-XXV. De la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes.
+XXV. De la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+XXVI. De Trabajo y Previsión Social; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+XXVII. Asuntos Migratorios.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
@@ -1768,3 +1776,9 @@ P.O. 27 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 420. SE REFORMAN EL INCISO C) Y D) DE LA FRACCIÓN III DEL ARTÍCULO 50, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 66, EL INCISO C) Y D) DE FRACCIÓN II DEL ARTÍCULO 79 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 81; Y SE ADICIONA EL INCISO E) A LA FRACCIÓN III DEL ARTÍCULO 50 Y EL INCISO E) FRACCIÓN II DEL ARTÍCULO 79, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 065. SE REFORMAN LAS FRACCIONES V, XXIV Y XXV DEL ARTÍCULO 70 Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII AL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO B) DE LA FRACCIÓN II; AL ENCABEZADO DE LA FRACCIÓN V; LOS INCISOS B), C), D), E), F), G), H), I) Y J) DE LA FRACCIÓN V; SE ADICIONAN LAS FRACCIONES XXVI Y XXVII, LA PRIMERA CON LOS INCISOS A), B), C), D), E), F), G) Y H), Y LA SEGUNDA CON LOS INCISOS A), B), C), D) Y E), Y SE DEROGA EL INCISO L) DE LA FRACCIÓN V, TODOS DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
