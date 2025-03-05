@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2024-12-22"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -303,11 +303,19 @@ La obligatoriedad de la educación superior corresponde al Estado. Las autoridad
 
 Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará, y retirará, el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+Se reconoce la Lengua de Señas Mexicana como parte del patrimonio lingüístico del Estado de San Luis Potosí.
+
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 11.
 
 La Universidad de San Luis Potosí es autónoma en todo lo que respecta a su régimen interior. Realizará sus fines de educar, investigar y difundir la cultura con base en la libertad de cátedra e investigación y en el libre examen y discusión de las ideas, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en su ley orgánica. El Estado, en la medida de sus posibilidades presupuestales, la dotará con un subsidio anual.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+En los procesos de elección de las personas titulares de: la rectoría; direcciones de las facultades o escuelas; consejerías de maestros, consejerías de alumnos; Órgano de Gobierno, y Junta Suprema de Gobierno, de la Universidad Autónoma de San Luis Potosí, se deberán implementar acciones para observar el principio de paridad de género. Atendiendo además a la figura jurídica de la reelección.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2023)</small>
 
@@ -4022,3 +4030,21 @@ P.O. 22 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0164.- SE ADICIONA EL PÁRRAFO VIGÉSIMO SEGUNDO AL ARTÍCULO 10, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0167.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 11, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deberá observar que la próxima elección de titular de la rectoría de la Universidad Autónoma de San Luis Potosí, sea una mujer, por lo que la convocatoria será dirigida a mujeres.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
