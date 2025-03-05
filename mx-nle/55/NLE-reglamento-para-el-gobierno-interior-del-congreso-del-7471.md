@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2023-06-02"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -483,11 +483,11 @@ Las Comisiones serán las señaladas en el artículo 66 de la Ley Orgánica del 
 
 Las Comisiones Permanentes de Dictamen Legislativo y la Comisión de Vigilancia se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 39.
 
-Para la elaboración de los Proyectos de Dictámenes, las Comisiones de Dictamen Legislativo, establecidas en los términos del Artículo 70 de la Ley Orgánica del Poder Legislativo, conocerán de los siguientes asuntos:
+Para la elaboración de los Proyectos de Dictámenes, las Comisiones de Dictamen legislativo, establecidas en los términos del Artículo 70 de la Ley Orgánica del Poder Legislativo, conocerán de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -549,11 +549,13 @@ p) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-II. Comisión de Legislación:
+II.- Comisión de Legislación:
 
 a) La interpretación de la legislación del Estado, mediante la expedición de normas de carácter general;
 
-b) La iniciación ante el Congreso de la Unión de las leyes que a éste competan, así como su reforma o derogación;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
+
+b) La iniciación ante el Congreso de la Unión de leyes que a éste competan, así como su reforma o derogación, a excepción de las que tengan relación los temas de trabajo y previsión social;
 
 c) La resolución sobre la conveniencia de secundar las iniciativas hechas por las Legislaturas de otras Entidades Federativas;
 
@@ -577,7 +579,7 @@ k) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-III. Comisión de Puntos Constitucionales.
+III.- Comisión de Puntos Constitucionales.
 
 a) Las reformas a la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -639,47 +641,29 @@ l) La expedición y reforma de las leyes en materia de responsabilidades de los 
 
 m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE MARZO DE 2025)</small>
 
-V.- Comisión de Desarrollo Social, Derechos Humanos y Asuntos Indígenas:
+V.- Comisión de Bienestar, Derechos Humanos, Pueblos y Comunidades Indígenas y Afromexicanos:
 
 a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos;
 
-b) (DEROGADO, P.O. 2 DE JUNIO DE 2023)
+b) Las iniciativas relacionadas al apoyo social temporal y el bienestar social;
 
-c) Las iniciativas relacionadas al apoyo social temporal;
+c) Las iniciativas relacionadas con el mejoramiento de la calidad de vida de los nuevoleoneses, pueblos y comunidades indígenas y afromexicanos;
 
-d) Las iniciativas relacionadas con el mejoramiento de la calidad de vida de los nuevoleoneses;
+d) Las iniciativas relativas al establecimiento de acciones o programas tendientes a combatir la pobreza extrema y la desigualdad;
 
-e) Las iniciativas relativas al establecimiento de acciones o programas tendientes a combatir la pobreza extrema;
+e) Las iniciativas encaminadas a establecer programas educativos dirigidos a los habitantes de zonas marginadas y por vías no formales;
 
-f) Las iniciativas encaminadas a establecer programas educativos dirigidos a los habitantes de zonas marginadas y por vías no formales;
+f) La designación y renuncia del Presidente de la Comisión Estatal de Derechos Humanos, así como representar al Congreso ante los organismos e instancias de Derechos Humanos estatales, nacionales e internacionales;
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+g) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones;
 
-g) La designación y renuncia del Presidente de la Comisión Estatal de Derechos Humanos, así como representar al Congreso ante los organismos e instancias de Derechos Humanos estatales, nacionales e internacionales
+h) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo, cuando así lo determine el Pleno del Congreso;
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2020)</small>
+i) Las iniciativas y asuntos relativos a los derechos y al mejoramiento de la calidad de vida de los indígenas del Estado; y
 
-h) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones;
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2020)</small>
-
-i) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo;
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
-
-j) Las iniciativas y asuntos relativos a los derechos y al mejoramiento de la calidad de vida de los indígenas del Estado;
-
-k) (DEROGADO, P.O. 20 DE ENERO DE 2020)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2016)</small>
-
-l) Los asuntos e iniciativas en materia de migrantes; y
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
-
-m) Los demás asuntos e iniciativas que el Pleno del Congreso encomiende.
+j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016) (REUBICADA, P.O. 14 DE SEPTIEMBRE DE 2016)
 
@@ -779,13 +763,17 @@ j) Los asuntos referentes a la sustentabilidad del desarrollo económico, social
 
 k) Los temas relacionados con los bienes y servicios ambientales para el mantenimiento de los ecosistemas, la diversidad biológica y las cuencas hidrológicas;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
 
-l) Los asuntos relacionados con la promoción del desarrollo sustentable, tales como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica, y todas aquellas que persigan objetivos en este sentido; y
+l) Los asuntos relacionados con la promoción del desarrollo sustentable, tales como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica, y todas aquellas que persigan objetivos en este sentido;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
 
-m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+m) Organizar y llevar a cabo anualmente el parlamento verde; y
+
+> <small>(ADICIONADO, [N. DE E. REUBICADO], P.O. 5 DE MARZO DE 2025)</small>
+
+n) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2023)</small>
 
@@ -1019,11 +1007,17 @@ i) Las iniciativas relacionadas con la Salud Pública del Estado;
 
 j) Lo relativo a fortalecer el marco jurídico en materia de salud;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
 
-k) Los asuntos relacionados con el fortalecimiento de los vínculos entre los tres niveles de gobierno para consolidar y eficientar la atención en los sistemas de salud; y
+k) Los asuntos relacionados con el fortalecimiento de los vínculos entre los tres niveles de gobierno para consolidar y eficientar la atención en los sistemas de salud;
 
-l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomienden.
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+l) Organizar y llevar a cabo anualmente el Parlamento de Adultos mayores; y
+
+> <small>(ADICIONADO, [N. DE E. REFORMADO], P.O. 5 DE MARZO DE 2025)</small>
+
+m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1208,6 +1202,40 @@ f) La legislación, políticas, planes y programas tendientes a la promoción, d
 g) La revisión del marco normativo relacionado con la familia; y
 
 h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 5 DE MARZO DE 2025)</small>
+
+XXVI.- Comisión de Trabajo y Previsión Social:
+
+a) Las iniciativas relacionadas con la legislación federal en materia de trabajo y previsión social;
+
+b) Las iniciativas relacionadas con la Ley Orgánica del Centro de Conciliación Laboral del Estado de Nuevo León;
+
+c) A propuesta del Pleno del Congreso, representar al Poder Legislativo ante las autoridades laborales, sindicales e iniciativa privada en los temas materia de esta Comisión, así como a llevar a cabo el diálogo permanente con las instancias competentes del trabajo estatales y federales;
+
+d) Analizar y, en su caso, emitir opinión sobre la política laboral del Estado;
+
+e) Los asuntos relacionados con el impulso a la instrumentación de estrategias, acciones y programas tendientes a promover el trabajo digno, la previsión y protección social al empleo, así como lo concerniente a la evaluación del impacto de las políticas laborales y las prácticas empresariales e industriales;
+
+f) Los asuntos relacionados con el fortalecimiento de las relaciones laborales y sindicales, así como el mejoramiento constante en las condiciones de trabajo, la capacitación, certificación, profesionalización y el cuidado integral de las y los trabajadores;
+
+g) Llevar a cabo la celebración de foros, mesas de trabajo, mesas de diálogo y demás actividades que fomenten el empleo en el Estado; y
+
+h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 5 DE MARZO DE 2025)</small>
+
+XXVII.- Comisión de Asuntos Migratorios:
+
+a) Lo relacionado con fomentar, vigilar y garantizar el respeto a los derechos humanos, así como las obligaciones de los migrantes;
+
+b) Lo relacionado a las acciones y políticas en materia de migración y movimiento poblacionales en Nuevo León, pudiendo tener presencia en espacios gubernamentales y civiles;
+
+c) Podrá coordinarse con las diversas autoridades involucradas en la materia, para establecer programas de desarrollo regional en las zonas de más alta densidad migratoria, en particular de índole laboral y educativa;
+
+d) A solicitud del Pleno del Congreso, coadyuvar con las distintas instancias estatales y federales para garantizar el cumplimiento efectivo de los tratados internacionales en materia de inclusión laboral de las personas migrantes; y
+
+e) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
@@ -3098,3 +3126,15 @@ P.O. 2 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, o en su caso, al día siguiente de su publicación.
 
 SEGUNDO.- Una vez instalada la Comisión de la Familia y Derechos de la Primera Infancia, Niñas, Niños y Adolescentes, la Presidencia del H. Congreso del Estado de Nuevo León, instruirá a la Oficialía Mayor para realizar los trámites correspondientes para el returno de las iniciativas de la materia de dicha Comisión conforme la fracción XXV del presente Decreto.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 062. SE REFORMA EL INCISO L) DE LA FRACCIÓN VIII Y EL INCISO K) DE LA FRACCIÓN XV Y SE ADICIONAN LOS INCISOS M) Y N) DE LA FRACCIÓN VIII Y LOS INCISOS L) Y M) DE LA FRACCIÓN XV TODOS DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 065. SE REFORMAN LAS FRACCIONES V, XXIV Y XXV DEL ARTÍCULO 70 Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII AL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO B) DE LA FRACCIÓN II; AL ENCABEZADO DE LA FRACCIÓN V; LOS INCISOS B), C), D), E), F), G), H), I) Y J) DE LA FRACCIÓN V; SE ADICIONAN LAS FRACCIONES XXVI Y XXVII, LA PRIMERA CON LOS INCISOS A), B), C), D), E), F), G) Y H), Y LA SEGUNDA CON LOS INCISOS A), B), C), D) Y E), Y SE DEROGA EL INCISO L) DE LA FRACCIÓN V, TODOS DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
