@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-02-19"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -2931,11 +2931,11 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 ### CAPITULO I. De la Educación Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2025)</small>
 
 ###### Art. 138.
 
-La educación que impartan el Estado y los Municipios se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva, será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+La educación que impartan el Estado y los Municipios se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva, será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos, la cultura de la paz y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -5646,3 +5646,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para el caso de las y los Consejeros del Consejo de la Judicatura del Estado, podrán ser sujetos de juicio político hasta un año después de haber concluido su encargo.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-247 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
