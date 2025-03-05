@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-oic-ine-02-2022-del-organo-interno-de-159631"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-08-08"
-last_updated: "2022-08-08"
+last_updated: "2025-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159631&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2022-07-14"
 ---
 # ACUERDO GENERAL OIC-INE/02/2022 DEL ORGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDEN LOS LINEAMIENTOS DEL SERVICIO PROFESIONAL DEL ORGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, SEGUNDO PÁRRAFO Y 38, INCISO R) DEL ESTATUTO ORGÁNICO DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDEN LOS LINEAMIENTOS DEL SERVICIO PROFESIONAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2025 (ABROGADO).
 
 Acuerdo publicado en el Número 7 del Diario Oficial de la Federación, el lunes 8 de agosto de 2022.
 
@@ -888,3 +888,55 @@ TERCERO. Las personas que, a la entrada en vigor de este instrumento, se encuent
 8. El Comité expedirá las constancias de nombramiento correspondientes y solicitará a la Coordinación Técnica y de Gestión realice los trámites administrativos respectivos.
 
 CUARTO. El SISPOIC deberá estar en funcionamiento dentro de los seis meses a la entrada en vigor de los presentes lineamientos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE MARZO DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, SEGUNDO PÁRRAFO Y 38, INCISO R) DEL ESTATUTO ORGÁNICO DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se reforman los artículos 17, segundo párrafo y 38, inciso r), del Estatuto Orgánico del Órgano Interno de Control del Instituto Nacional Electoral, para quedar como sigue:
+
+###### Artículo 17.
+
+...
+
+...
+
+El sistema comprenderá los procedimientos señalados en el instrumento normativo que para tal efecto emita la persona Titular del Órgano Interno de Control del Instituto.
+
+[…]
+
+###### Artículo 38.
+
+...
+
+...
+
+r) Coordinar las actividades inherentes al diseño, implementación, administración y operación del sistema al que hace referencia el artículo 17 de este Estatuto;
+
+[...]
+
+SEGUNDO. El presente acuerdo se reputa de interés general y entrará en vigor el día de aprobación.
+
+TERCERO. Con la entrada en vigor de la presente reforma, se deberán tener por abrogados los Lineamientos del Servicio Profesional del Órgano Interno de Control del Instituto Nacional Electoral.
+
+CUARTO. A partir de la entrada en vigor del presente Acuerdo, todos los cargos y puestos del Órgano Interno de Control del Instituto que estaban sujetos al Servicio Profesional del Órgano Interno de Control dejaran de estarlo.
+
+QUINTO. Todas las designaciones realizadas por el Comité del Servicio Profesional del OIC del INE, que subsistan a la entrada en vigor del presente Acuerdo General, quedarán sin efectos y deberán tenerse por concluidas al día 31 de diciembre de 2024.
+
+SEXTO. A partir de la entrada en vigor del presente Acuerdo, todos y cada uno de los acuerdos que hayan emitido el Comité del Servicio Profesional del OIC del INE, quedara sin efectos.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Acuerdo, se derogan todas las disposiciones que hagan referencia al Servicio Profesional del Órgano Interno de Control del Instituto Nacional Electoral y en general todas las que se le opongan.
+
+OCTAVO. Todos los procedimientos de terminación de la relación laboral de personas servidoras públicas que ocupen plazas del SPOIC, que hayan iniciado previamente a la aprobación de este Acuerdo General, deberán continuar con su trámite hasta concluirse.
+
+NOVENO. Se instruye a la Coordinación Técnica y de Gestión, para que, de manera conjunta con la Dirección Jurídica Procesal y Consultiva, continúen atendiendo las reuniones que convoquen la Dirección Ejecutiva de Asuntos Jurídicos, la Dirección Ejecutiva de Administración y la Dirección Ejecutiva del Servicio Profesional Electoral Nacional, para el cumplimiento a lo ordenado por el Consejo General en Acuerdo General INE/CG255/2023; debiendo las áreas referidas del OIC velar por la autonomía de esta autoridad fiscalizadora en las decisiones que se tomen en dichas reuniones, a fin de que esta autoridad cuente con el sistema para la selección de su personal previsto en el artículo 20 de la Ley General de Responsabilidades Administrativas.
+
+DÉCIMO. Se instruye a la Coordinación Técnica y de Gestión del OIC hacer del conocimiento de todas las personas servidoras públicas integrantes del OIC, el presente Acuerdo General, a través del medio que se estime más adecuado; y realizar todos los trámites administrativos que correspondan.
+
+UNDÉCIMO. Con fundamento en el artículo 3, numeral 1, inciso g), del Reglamento de Sesiones del Consejo General del Instituto Nacional Electoral, publíquese este Acuerdo General en la Gaceta Electoral del Instituto Nacional Electoral; así como en la página de internet del Instituto Nacional Electoral; en la página de intranet, en la sección relativa a este órgano; y en los estrados del mismo Órgano Interno de Control.
+
+DUODÉCIMO. Con fundamento en los artículos 2 y 3, fracción VII, de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales, por reputarse de interés general, solicítese al Diario Oficial de la Federación la publicación de este Acuerdo General.
+
+DECIMOTERCERO. Conforme a lo dispuesto por el artículo 82, párrafo 1, inciso xx), del Reglamento Interior del Instituto Nacional Electoral; infórmese la expedición del presente Acuerdo General al Consejo General del propio Instituto, por conducto de su Consejera Presidenta; y comuníquese a la Secretaria Ejecutiva la emisión del mismo, para los efectos legales y administrativos a que haya lugar.
