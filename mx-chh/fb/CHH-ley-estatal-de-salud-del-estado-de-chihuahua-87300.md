@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-12-04"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -737,9 +737,15 @@ Así mismo, las autoridades sanitarias del Estado y las propias Instituciones de
 
 En el caso de las poblaciones o comunidades indígenas, las autoridades sanitarias brindarán la asesoría y, en su caso, la orientación en español y en la lengua o lenguas en uso en la región o comunidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2025)</small>
+
 ###### Artículo 54.
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán, por los medios a su alcance, que los mismos sean trasladados a los establecimientos de salud más cercanos, en los que puedan recibir atención inmediata, sin perjuicio de su posterior remisión a otras instituciones.
+Las personas e instituciones públicas, sociales o privadas que brinden servicios de atención médica para el internamiento de personas enfermas, están obligadas a prestar atención inmediata a toda persona usuaria, en caso de urgencia que ocurra en su cercanía, sin perjuicio de su posterior remisión a otras instituciones.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+Aquellas que no brinden dicho servicio de atención, y tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán, por los medios a su alcance, que la misma sea trasladada a los establecimientos de salud más cercanos, en los que puedan recibir atención inmediata.
 
 ###### Artículo 55.
 
@@ -1025,6 +1031,10 @@ II.- Cáncer mamario.
 
 III.- Climaterio y Menopausia.
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+IV.- Salud e higiene menstrual.
+
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2017)</small>
 
 Para garantizar el derecho a la salud de las mujeres, la Secretaría dispondrá lo necesario para contar con la infraestructura suficiente, el personal especializado y el equipamiento requerido para atender las necesidades de atención y control de los padecimientos oncológicos. Además elaborará los protocolos para la prevención, detección y diagnóstico oportuno de cáncer cérvico-uterino y el cáncer de mama.
@@ -1050,6 +1060,20 @@ I. Los programas educativos, destinados a la protección de la salud de las muje
 II. Las bases de coordinación con las dependencias del Gobierno Federal y Municipal, que permitan elevar la calidad de atención a la salud de las mujeres, y a sus familiares con problemas oncológicos.
 
 III. La integración de un sistema de información, que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres con problemas oncológicos.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+###### Artículo 75 Ter.
+
+La atención a la salud e higiene menstrual, comprenderá las siguientes acciones:
+
+I. Brindar información científica y actualizada respecto de la higiene y salud menstrual, incluyendo la promoción del control ginecológico; con un enfoque relativo a la prevención, diagnóstico y tratamiento de patologías que afectan al ciclo menstrual y los efectos que, sobre este, producen los distintos fármacos.
+
+II. Realizar campañas de sensibilización y difusión respecto de los cuidados, la salud menstrual, y la promoción de los diferentes productos de gestión, así como sus opciones reutilizables, sustentables o ecológicas.
+
+III. Proporcionar medicamentos básicos e insumos esenciales para la salud, que atiendan los síntomas de la menstruación.
+
+IV. Distribuir de manera gratuita productos de gestión menstrual, mismos que serán entregados en centros hospitalarios y de salud del Estado, a la población menstruante en situación de vulnerabilidad.
 
 ### CAPÍTULO X. ATENCIÓN AL ADULTO JOVEN, ADULTO Y ADULTO MAYOR
 
@@ -2331,9 +2355,9 @@ Los Programas para la Atención de Cánceres mamario, cérvico-uterino y de pró
 
 Se procurará la gratuidad y permanencia de estos programas; así como los de tratamiento tanatológico, psicológico y psiquiátrico de las personas diagnosticadas durante el proceso de estos padecimientos.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
 
-Por lo que respecta al cáncer de mama, la Secretaría contará con un programa permanente de detección, para efectuar estudios de mastografías gratuitas a la población no derechohabiente de servicios médicos de salud. Para tal efecto, deberá incluirlo anualmente en su presupuesto conforme a lo establecido por el artículo 21 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
+La Secretaría contará con programas permanentes de detección, para efectuar los estudios de laboratorio e imagen correspondientes, gratuitos a la población no derechohabiente de servicios médicos de salud. Para tal efecto, deberá incluirlo anualmente en su presupuesto conforme a lo establecido por el artículo 21 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
 
 ###### Artículo 215.
 
@@ -2371,6 +2395,10 @@ I.- Facilitar el acceso a mastografía y el estudio molecular genético a las pe
 
 II.- Concientizar a las personas sobre la importancia de la autoexploración para la detección oportuna del cáncer de mama.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
+
+La política de prevención, para promover conductas favorables a la salud que disminuyan la posibilidad de desarrollar este tipo de cáncer, atenderá a las especificaciones de cada factor de riesgo, de acuerdo con los lineamientos establecidos en las normas oficiales mexicanas correspondientes y atendiendo al rango etario donde haya mayor incidencia.
+
 B).- Para el Programa para la Atención de Cáncer Cérvico-uterino:
 
 I.- Fomentar entre la población femenina la citología vaginal o Papanicolaou.
@@ -2381,7 +2409,13 @@ III.- Asegurar un esquema de tratamiento en el primer nivel de atención, para l
 
 C).- Para el Programa para la Atención de Cáncer de Próstata:
 
-I.- Promover la adopción de medidas de prevención, detección y tratamiento oportuno especializados en masculinos de 40 años en adelante.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+I.- Promover la adopción de medidas de prevención desde la adolescencia en la población masculina.
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+II.- Facilitar la detección y tratamiento oportunos especializados, en masculinos de 40 años en adelante.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2014)</small>
 
@@ -4270,3 +4304,31 @@ P.O. 4 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0087/2024 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0092/2024 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 54, PRIMER PÁRRAFO; Y SE LE ADICIONA UN SEGUNDO PÁRRAFO, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0093/2024 I P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 74, LA FRACCIÓN IV; Y EL ARTÍCULO 75 TER, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El suministro gratuito de productos de gestión menstrual, medicamentos básicos e insumos esenciales para la salud, que atiendan los síntomas de la menstruación, se sujetará a la disponibilidad presupuestaria de la Secretaría de Salud del Gobierno del Estado.
