@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-justicia-constitucional-para-el-estado-de-yucatan-80081"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-01"
-last_updated: "2023-06-28"
+last_updated: "2025-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 5 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de marzo de 2011.
 
@@ -1342,3 +1344,135 @@ D.O. 28 DE JUNIO DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 55/2025 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Convocatoria
+
+Artículo segundo. Por única ocasión, en un plazo no mayor a 10 días naturales, contado a partir de la entrada en vigor de este decreto, el Congreso del Estado deberá emitir la correspondiente convocatoria a elecciones extraordinarias.
+
+En dicha convocatoria, se establecerán las bases, requisitos, plazos y el procedimiento para la integración de los listados de las y los candidatos para el proceso extraordinario de elección de las y los integrantes del Poder Judicial del Estado de Yucatán. En dichos listados se observará la paridad de género, estableciéndose que, del total de cargos a elegir, la mayoría será para el género femenino.
+
+De no ser posible la emisión de la convocatoria a que se hace referencia, esta deberá expedirse dentro de un plazo prudente que posibilite la realización de la organización del proceso electivo previsto en este decreto, lo anterior atendiendo las fechas establecidas en el transitorio sexto, de suscitarse el caso, el Comité de Evaluación deberá ajustarse a los nuevos plazos y términos que se planteen en cuanto a la organización del citado proceso electivo.
+
+Propuestas de los poderes públicos
+
+Artículo tercero. Por única ocasión, para el primer proceso electivo de carácter extraordinario los poderes públicos no realizarán las propuestas a las que hace referencia el artículo 66 fracción II de este decreto. Dichas propuestas, se harán en el proceso electivo ordinario de las y los integrantes del Poder Judicial del Estado del año 2036 en adelante.
+
+Comité Estatal de Evaluación
+
+Artículo cuarto. Por única ocasión y en términos del artículo transitorio sexto de este decreto, se conformará un Comité Estatal de Evaluación compuesto por nueve personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia; así como antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. Cada poder designará a tres integrantes de este comité estatal.
+
+Por única ocasión, para el primer proceso electivo de carácter extraordinario los poderes públicos estatales, en un plazo no mayor a 5 días naturales, contado a partir de la entrada en vigor de este decreto deberán informar al Poder Legislativo de las personas propuestas para integrar ese Comité Estatal de Evaluación, quienes analizarán, estudiarán y seleccionarán a los perfiles mejor evaluados en términos de la convocatoria a la que hace referencia el artículo segundo transitorio de este decreto.
+
+La convocatoria a la que hace referencia el párrafo anterior deberá contener al menos, los cargos a elegir, los requisitos y documentación de acreditación, los parámetros de evaluación de las y los aspirantes, así como los plazos de cada una de las etapas del procedimiento.
+
+Para su funcionamiento, ese Comité Estatal de Evaluación, en su integración contará con una presidenta o presidente que será electo de los propuestos por el Poder Legislativo, y convocará, presidirá, y dirigirá dicho comité; para el ejercicio de sus funciones podrá contar con un secretario o secretaria técnica para el apoyo en términos de esta Constitución. Los acuerdos del comité se tomarán por la mayoría de los votos de sus miembros, en caso de empate en sus determinaciones, la o el presidente del Comité tendrá el voto de calidad.
+
+Proceso de insaculación
+
+Artículo quinto. Por única ocasión, ese Comité Estatal de Evaluación, una vez seleccionados a las 10 personas mejor evaluadas para ocupar cada uno de los cargos previstos en la convocatoria que para tal efecto emita, por única ocasión en un plazo no mayor a 3 días naturales, realizará el proceso de insaculación ante el Pleno del Congreso del Estado para ajustar la lista al número de postulaciones para cada cargo en términos del inciso c) de la fracción II del artículo 66 de esta Constitución. El Comité Estatal de Evaluación podrá realizar los ajustes de paridad para cumplir con lo previsto en este decreto.
+
+Proceso electoral electivo de integrantes del Tribunal Superior de Justicia del Estado de Yucatán y del Tribunal de Disciplina Judicial
+
+Artículo sexto. La elección prevista para elegir a las y los integrantes del Pleno del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, ambos del Poder Judicial del Estado se realizarán, en los términos previstos en esta Constitución y en las leyes secundarias, el 01 de junio del año 2025.
+
+Cuando por la imposibilidad material o causa de fuerza mayor la elección a la que se refiere el párrafo anterior no pudiera realizarse en la fecha prevista en este artículo, podrá efectuarse en los meses restantes del año 2025 o, durante el año 2026. De lo contrario se ajustará a los términos que se establezcan para la elección ordinaria de 2027.
+
+Por lo que respecta a la elección prevista para elegir a las Magistraturas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, de las juezas y jueces de primera instancia se realizará, en los términos previstos en esta Constitución y en las leyes secundarias, el día 06 de junio de 2027.
+
+Ante dicha imposibilidad, por única ocasión, el compromiso constitucional de las y los integrantes del Poder Judicial del Estado que deba rendirse ante el Pleno del Congreso del Estado, se realizará en el periodo ordinario próximo siguiente a la celebración de la elección del año 2025 o, en su caso, del año 2026.
+
+Por única ocasión, dicho compromiso podrá realizarse ante la Diputación Permanente en el caso de los recesos del Pleno de la legislatura.
+
+Duración en el cargo
+
+Artículo séptimo. El periodo de las Magistraturas del Tribunal Superior de Justicia que resulten electos en la elección extraordinaria del año 2025 o, en su caso, en el año 2026 a la que hace referencia este decreto, concluirá el año 2033 para dos, y 2036 para siete de ellos, respectivamente.
+
+El periodo de las Magistraturas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios que resulten electos en la elección ordinaria del año 2027 a la que hace referencia este decreto durarán siete y nueve años, por lo que concluirá una magistratura en el año 2034 y dos magistraturas en el año 2036, respectivamente.
+
+Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quienes alcancen mayor votación.
+
+Por única ocasión, el periodo de las Magistraturas del Tribunal de Disciplina Judicial que sean electos en el año 2025 o, en el año 2026 concluirá en el año 2033 para dos de ellas, y en el año 2036 para las tres restantes. Si fueran electas en el año 2027, por única ocasión durarán en el cargo hasta 2036 para dos de ellas y 2042 para tres de ellas.
+
+Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a las tres magistraturas que alcancen mayor votación.
+
+Respecto a los actuales Magistradas y Magistrados del Tribunal Superior de Justicia que resulten electos en el año 2025, o en el año 2026, ejercerán el cargo por el periodo que reste a su nombramiento original, a excepción de aquellas que finalicen sus funciones previo al año 2027, los cuales concluirán en términos de su nombramiento.
+
+Las y los actuales integrantes del Consejo de la Judicatura del Poder Judicial que resulten electos para integrar el Tribunal de Disciplina Judicial, ocuparán el cargo exclusivamente por el tiempo que reste en términos de su nombramiento actual.
+
+Garantía de la ciudadanía a contar con acceso a la jurisdicción de manera Idónea
+
+Artículo octavo. Con el objeto de garantizar que la ciudadanía cuente con servidores públicos idóneos, y en aras de la inamovilidad de las y los magistrados que cuenten con presidencias dentro del Poder Judicial Estatal, de las actuales quince magistraturas, las Magistraturas Tercera, Cuarta, Quinta, Sexta, Octava y Decimosegunda, quienes a la fecha de este decreto ejercen la Presidencia de las Salas y del Pleno del Tribunal Superior de Justicia, serán prorrogados únicamente respecto a sus cargos como magistrados o magistradas hasta la siguiente elección estatal en 2036.
+
+A fin de garantizar el cumplimiento de las resoluciones en los procesos judiciales de las actuales Magistradas, Ingrid Ivette Priego Cárdenas, Leticia del Socorro Cobá Magaña y el Magistrado, José Rubén Ruiz Ramírez obtenidas en contra del Decreto 496/2022 por el que se modifican la Constitución Política del Estado de Yucatán, la Ley Orgánica del Poder Judicial del Estado de Yucatán y la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en materia de reforma al Poder Judicial del Estado de Yucatán, finalizarán sus cargos en los términos de su nombramiento.
+
+Por consiguiente, las personas electas para suplir a las personas titulares de las magistraturas novena, décima y undécima, a las que hace referencia el párrafo anterior, empezarán sus funciones al momento en el cual aquellas finalicen sus funciones éstas en términos de su nombramiento.
+
+Interpretación, adecuación y referencia normativa
+
+Artículo noveno. El Congreso del Estado en un plazo no mayor a 180 días naturales, contado a partir de la entrada en vigor de este decreto deberá realizar las modificaciones normativas o, en su caso, expedir las leyes secundarias necesarias para dar cumplimiento a lo dispuesto en este decreto en donde se ordena la elección popular de integrantes del Poder Judicial del Estado de Yucatán.
+
+En tanto se expiden o se realizan las modificaciones normativas para dar cumplimiento a este decreto, todas las autoridades a las que hace referencia esta Constitución, aplicarán directamente su texto o, en su caso, ajustarán sus actuaciones y deberes a los términos previstos en las leyes generales que para tal efecto expida el Congreso de la Unión y, en su caso, a los acuerdos y reglamentación en la materia que para efecto dicten las autoridades electorales federales o locales para celebrar la elección popular de integrantes del Poder Judicial del Estado de Yucatán.
+
+Asimismo, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga este decreto.
+
+Para efectos de la organización del proceso electoral extraordinario del año 2025, no será aplicable lo dispuesto en el penúltimo párrafo de la fracción II del artículo 105 de esta Constitución, por lo que el Instituto Electoral y de Participación Ciudadana de Yucatán observará las leyes que se emitan en los términos de este decreto.
+
+En todos los ordenamientos en los cuales se haga referencia al Consejo de la Judicatura del Poder Judicial se entenderá el Órgano de Administración del Poder Judicial del Estado.
+
+Derecho a participar los procesos electorales
+
+Artículo décimo. Las actuales magistraturas del Tribunal Superior de Justicia, del Poder Judicial, podrán integrar las listas de candidatas y candidatos en el proceso electivo a verificarse en el año 2025 o, en su caso, en el año 2026, previsto en este decreto. Lo anterior, sin perjuicio de que expresen su negativa a participar en dicho proceso. De lo contrario se ajustará a los términos que se establezcan para la elección ordinaria de 2027.
+
+Para el caso de las actuales Consejeras y Consejeros de la Judicatura del Poder Judicial del Estado que se encuentren en funciones a la entrada en vigor de este decreto podrán postularse y participar en la elección extraordinaria del año 2025 o, en su caso, el año 2026 para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial por el periodo que corresponda cuando cumplan con los requisitos constitucionales y legales aplicables. De lo contrario se ajustará a los términos que se establezcan para la elección ordinaria de 2027.
+
+Las personas integrantes del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las y los jueces de primera instancia del Poder Judicial del Estado, podrán integrar las listas de candidatas y candidatos en el proceso electivo a verificarse en el año 2027 previsto en este decreto. Lo anterior, sin perjuicio de que expresen su negativa a participar en dicho proceso.
+
+Designación de los integrantes del Órgano de Administración del Poder Judicial del Estado
+
+Artículo décimo primero. El titular del Poder Ejecutivo, el Pleno del Tribunal Superior de Justicia y el Pleno del Congreso del Estado de Yucatán deberán realizar las designaciones de las personas que integrarán el Órgano de Administración del Poder Judicial, una vez que entren en funciones las magistraturas del Tribunal Superior de Justicia del Estado en términos de lo que dispone esta Constitución.
+
+Las personas que actualmente integran el Consejo de la Judicatura del Poder Judicial del Estado, exclusivamente ejercerán sus atribuciones respecto a asuntos administrativos y cesarán sus funciones hasta el año 2027 cuando se designe a los titulares del Órgano de Administración del Poder Judicial.
+
+Respecto a la competencia en materia de disciplina judicial, el actual Consejo de la Judicatura la ejercerá hasta en tanto entre en funciones el Tribunal de Disciplina Judicial en los términos que establece esta Constitución.
+
+Salvaguarda de los derechos de las y los trabajadores del Poder Judicial del Estado de Yucatán
+
+Artículo décimo segundo. Respecto al haber del retiro de las y los magistrados designados por el Pleno del Congreso del Estado a partir del decreto 496/2022, publicado en fecha 04 de mayo del año 2022 tendrán derecho a su haber del retiro correspondiente a dos años.
+
+Respecto al haber del retiro de las y los magistrados designados por el Pleno del Congreso del Estado previo a la entrada en vigor del decreto 496/2022, publicado en fecha 04 de mayo del año 2022, tendrán derecho a su haber del retiro en términos del marco normativo constitucional local bajo el cual fueron designados.
+
+Para el caso de las personas juzgadoras de primera instancia que participen en la elección del año 2027 que opten por participar en el proceso ordinario electoral del referido año y no obtengan el cargo, en todos los casos, tendrán derecho a las prestaciones y, en su caso, a las indemnizaciones a las que haya lugar estrictamente en términos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán. Para dar cumplimiento a lo anterior, el Poder Judicial del Estado deberá prever los recursos necesarios en el presupuesto para ese año.
+
+Los recursos humanos, materiales y presupuestales asignados al Consejo de la Judicatura del Poder Judicial pasarán a formar parte del Órgano de Administración del Poder Judicial del Estado en los términos y plazos a los que haya lugar para dar cumplimiento a este decreto.
+
+Asuntos en trámite
+
+Artículo décimo tercero. Todos los trámites, procesos y demás documentos realizados previos a la entrada en vigor de este decreto, se continuarán hasta su finalización en términos de las leyes y previsiones en las cuales se instaron.
+
+El Consejo de la Judicatura continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental al Tribunal de Disciplina Judicial o al órgano de administración del poder judicial, según corresponda.
+
+Ajustes y previsiones presupuestales para el ejercicio fiscal del año 2025 del Poder Judicial del Estado
+
+Artículo décimo cuarto. El Poder Judicial del Estado, deberá ajustar el presupuesto previsto para el presente ejercicio fiscal 2025 para dar cumplimiento a este decreto.
+
+Acuerdos Generales, ajustes y previsiones presupuestales para el ejercicio fiscal del año 2025 del Instituto Electoral y de Participación Ciudadana de Yucatán
+
+Artículo décimo quinto. El Instituto Electoral y de Participación Ciudadana de Yucatán podrá emitir los acuerdos generales, hacer los ajustes presupuestales y realizar todas las gestiones necesarias respecto al ejercicio fiscal 2025 o posteriores a este para dar cumplimiento a lo dispuesto en este decreto, con respecto a la organización del proceso electoral previsto en el mismo decreto.
+
+Para dar cumplimiento a lo previsto en este decreto, la elección de magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios y del Tribunal de Disciplina Judicial se realizará en todo el Estado y, para efectos de la elección de jueces, esta se hará de acuerdo con la integración en los distritos electorales y los criterios que para tal finalidad determine la autoridad electoral estatal.
+
+Derogación expresa
+
+Artículo décimo sexto. Se abroga la Ley de Justicia Constitucional para el Estado de Yucatán, publicada a través del decreto 389 de fecha 01 de marzo del año 2011.
+
+Derogación tácita
+
+Artículo décimo séptimo. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido de este decreto.
