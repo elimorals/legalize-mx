@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2024-03-18"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -49,13 +49,17 @@ LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
 ### Capítulo Único. De su naturaleza y objeto
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 1°.
 
-La presente Ley tiene por objeto instituir el Centro de Justicia para las Mujeres del Estado de San Luis Potosí, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría General de Gobierno, y establecer las atribuciones, estructura orgánica, aplicación de los modelos de atención existentes y mecanismos que rigen su actuación.
+La presente Ley tiene por objeto instituir el Centro de Justicia para las Mujeres del Estado de San Luis Potosí, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de las Mujeres e Igualdad Sustantiva, y establecer las atribuciones, estructura orgánica, aplicación de los modelos de atención existentes y mecanismos que rigen su actuación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 2°.
 
-El Centro de Justicia para las Mujeres, es el organismo encargado de brindar atención y servicios integrales, multidisciplinarios y transversales bajo el mismo techo a las mujeres víctimas de violencia y sus menores hijos e hijas, con un enfoque de derechos humanos, de género y de interés superior de la infancia, y tendrá los siguientes objetivos generales:
+El Centro de Justicia para las Mujeres del Estado, es un espacio multidisciplinario e interinstitucional que brinda, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento, y tendrá los siguientes objetivos generales:
 
 I. Asesorar, apoyar y acompañar a las mujeres víctimas de violencia y en su caso a sus menores hijos e hijas en los procesos necesarios para resolver su problemática en torno a la violencia, recuperar su seguridad, lograr su pleno acceso a la justicia y contribuir a que en los ámbitos de la vida familiar, social, cultural, educativa, laboral, política y económica, las mujeres puedan alcanzar los niveles de bienestar y acceso a las oportunidades, libres de violencia y en condiciones de igualdad que les permitan lograr su pleno desarrollo humano;
 
@@ -93,7 +97,9 @@ III. Consejo Estatal de Población;
 
 IV. Defensoría Pública del Estado;
 
-V. Instituto de las Mujeres del Estado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+V. El área que designe la Secretaría de las Mujeres e Igualdad Sustantiva.
 
 VI. Instituto para el Desarrollo Humano y Social de los Pueblos y Comunidades indígenas;
 
@@ -137,13 +143,23 @@ I. Centro: el Centro de Justicia para las Mujeres del Estado de San Luis Potosí
 
 II. Usuarias: las mujeres víctimas de violencia, que son atendidas por el Centro en cualquiera o en varias de sus áreas de atención, así como en su caso sus menores hijas e hijos;
 
-III. CAIV: Centro de Atención Integral a Víctimas;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+III. CEEAV: Comisión Ejecutiva Estatal de Atención a Víctimas;
 
 IV. DIF Estatal: el Sistema para la Atención Integral de la Familia del Estado;
 
-V. SEDESORE: Secretaría de Desarrollo Social y Regional, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-VI. SEGE: Secretaría de Educación del Gobierno del Estado.
+V. SEDESORE: Secretaría de Desarrollo Social y Regional;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+VI. SEGE: Secretaría de Educación del Gobierno del Estado, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+VII. SEMU: Secretaría de las Mujeres e Igualdad Sustantiva.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES, LOS SERVICIOS QUE BRINDA EL CENTRO, Y DE LOS PROCESOS DE ATENCIÓN
 
@@ -181,9 +197,9 @@ XI. Enfoque intercultural: implica atender la posibilidad de diálogo entre dist
 
 El Centro brindará de manera integral y gratuita a las personas usuarias los siguientes servicios:
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-I. Atención jurídica: que comprende asesorar, asistir, garantizar, proteger y representar a las víctimas y usuarias así como a sus menores hijos e hijas en todo lo referente a sus derechos legalmente reconocidos, en un marco de coordinación y coadyuvancia entre los servicios de atención a víctimas y el Ministerio Público como órgano investigador, así como ante los órganos jurisdiccionales competentes. Este servicio se brindará través (sic) del Departamento Jurídico y de las instituciones asociadas tales como el Centro de Atención Integral a Víctimas, la Defensoría Pública, la Fiscalía General del Estado, y el Instituto de las Mujeres del Estado, así como todas aquellas de naturaleza pública o privada que formen parte del Centro o se integren al mismo y estén en aptitud de prestar servicios en esta área ya sea en las instalaciones del mismo o de manera externa;
+I. Atención jurídica: que comprende asesorar, asistir, garantizar, proteger y representar a las víctimas y usuarias, así como a sus hijas e hijos, e hijas o hijos con dependencia funcional, en todo lo referente a sus derechos legalmente reconocidos, en un marco de coordinación y coadyuvancia entre los servicios de atención a víctimas y el Ministerio Público como órgano investigador, así como ante los órganos jurisdiccionales competentes. Este servicio se brindará través del Departamento Jurídico y de las instituciones asociadas tales como el CEEAV, la Defensoría Pública y la Fiscalía General del Estado, así como todas aquellas de naturaleza pública o privada que formen parte del Centro o se integren al mismo y estén en aptitud de prestar servicios en esta área ya sea en las instalaciones de este o de manera externa;
 
 II. Atención a la seguridad: se presta mediante las acciones pertinentes para garantizar la seguridad requerida a las mujeres víctimas y usuarias y a sus menores hijas e hijos. Este servicio se otorga de manera inmediata mediante la gestión que realiza el área de trabajo social, jurídico o en la vía telefónica del Centro ante los Cuerpos de Seguridad Pública del Estado y Municipios según sea el caso, o bien derivando a las mujeres víctimas o usuarias y a sus menores hijos e hijas al Refugio en caso necesario.
 
@@ -191,15 +207,21 @@ Dentro de este servicio se prestará el de reubicación de estudiantes hijos o h
 
 III. Atención telefónica: se presta a través del número del Centro en el cual se atiende directamente o se enlaza a la víctima o usuaria con instituciones asociadas que le presten contención emocional y atención psicológica de emergencia conforme al protocolo de atención telefónica que se establezca (sic) el Centro, y donde se pueda solicitar ayuda policial de ser necesario;
 
-IV. Atención a la salud física y psico-emocional: consiste en proporcionar a las mujeres víctimas y usuarias del Centro la debida atención en sus posibles daños o lesiones, tanto físicas como psico-emocionales, que incluya apoyo y asistencia directa, información y canalizaciones a servicios externos para su complementación; este servicio se brinda de manera directa en el Centro en lo relativo a la atención psicológica y de manera externa con el apoyo de instituciones como el Centro de Atención Integral a Víctimas, el Instituto de las Mujeres y el DIF Estatal. En lo que toca a los servicios de atención a la salud física, ésta se brinda a través de los servicios de salud, tanto en las instalaciones del Centro como en las clínicas y hospitales que se requieran según sea el caso; todo lo anterior con la finalidad de empoderar a las víctimas
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-V. Atención a la asistencia social: se brinda el apoyo social y material a las víctimas y usuarias y sus menores hijas e hijos cuando éstas lo requieran, además de intervenir, haciendo contacto con las familias, para consolidar la red de apoyo familiar y la comprensión que en este núcleo social requieren las mujeres víctimas o usuarias del CJM. Lo anterior a través de servicios, internos y externos, de atención, seguridad y protección como los del albergue de transición. Este servicio se presta en el Centro a través del área de trabajo social, y con el apoyo de (sic) CAIV, DIF Estatal, en su caso DIF Municipal y SEDESORE;
+IV. Atención a la salud física y psico-emocional: consiste en proporcionar a las mujeres víctimas y usuarias del Centro la debida atención en sus posibles daños o lesiones, tanto físicas como psicoemocionales, que incluya apoyo y asistencia directa, información y canalizaciones a servicios externos para su complementación; este servicio se brinda de manera directa en el Centro en lo relativo a la atención psicológica y de manera externa con el apoyo de instituciones como el CEEAV y el DIF Estatal. En lo que toca a los servicios de atención a la salud física, ésta se brinda a través de los servicios de salud, tanto en las instalaciones del Centro como en las clínicas y hospitales que se requieran según sea el caso; todo lo anterior con la finalidad de empoderar a las víctimas.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+V. Atención a la asistencia social: se brinda el apoyo social y material a las víctimas y usuarias y sus hijas e hijos, cuando éstas lo requieran, además de intervenir, haciendo contacto con las familias, para consolidar la red de apoyo familiar y la comprensión que en este núcleo social requieren las mujeres víctimas o usuarias del CJM. Lo anterior a través de servicios, internos y externos, de atención, seguridad y protección como los del albergue de transición. Este servicio se presta en el Centro a través del área de trabajo social, y con el apoyo de CEEAV, DIF Estatal, en su caso DIF Municipal y SEDESORE;
 
 VI. Atención educativa y de prevención: consiste en la promoción de la cultura y toma de conciencia pública en temas relacionados con la violencia de género, a través de un espacio instalado en el Centro, con objetivos de prevención, detección y atención directa a la comunidad educativa, proporcionando una formación plena que ayude a la convivencia respetuosa y tolerante en la sociedad.
 
 Este ámbito de actuación se dirigirá tanto a las mujeres que hayan estado involucradas en actos de violencia, así como a sus menores hijos e hijas, y se produzca en ellos una cultura de igualdad de género y prevención del delito.
 
-Participan en este servicio la Secretaría de Educación del Gobierno del Estado, el CAIV, el Instituto de las Mujeres, el DIF Estatal y organizaciones de la sociedad civil asociadas, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+Participan en este servicio la Secretaría de Educación del Gobierno del Estado, el CEEAV, el DIF Estatal y organizaciones de la sociedad civil asociadas, y
 
 VII. Atención para el desarrollo económico. se apoyará a las mujeres víctimas de violencia para alcanzar su autodeterminación a través de actividades de tipo económico que les permitan contar con propios ingresos. Participan en esta labor el área de Trabajo Social del Centro, la Secretaría del Trabajo y Previsión Social a través de la Red de Integración Laboral, el Instituto de las Mujeres, y la Secretaría de Desarrollo Económico, así como el Sistema de Financiamiento para el Desarrollo del Estado SIFIDE.
 
@@ -261,7 +283,9 @@ X. Las demás áreas que sean necesarias para el cumplimiento de su objeto y fun
 
 El Consejo contará con un órgano de gobierno denominado Consejo Directivo el cual estará integrado por las titularidades de las siguientes dependencias, entidades e instituciones:
 
-I. La Secretaría General de Gobierno quien lo presidirá;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+I. La Secretaría de las Mujeres e Igualdad Sustantiva quien lo presidirá;
 
 > <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
 
@@ -291,7 +315,7 @@ g) Consejo Estatal de Población.
 
 h) Instituto de Migración y Enlace Internacional.
 
-i) Instituto de las Mujeres del Estado.
+i). (DEROGADO, P.O. 5 DE MARZO DE 2025)
 
 ###### ARTÍCULO 10.
 
@@ -383,7 +407,9 @@ La Coordinadora General del Centro durará en su cargo cinco años pudiendo ser 
 
 Para ser Coordinadora del Centro se requiere:
 
-I. Ser de sexo femenino;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+I. Ser Mujer;
 
 II. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
@@ -391,9 +417,19 @@ II. (DEROGADA, P.O. 27 DE FEBRERO DE 2020)
 
 III. Contar con título y cédula profesional legalmente expedidos por institución competente, con antigüedad al menos de tres años al día de su designación;
 
-IV. Contar con cuando menos tres años de experiencia en materias relacionadas con la atención a víctimas, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+IV. Contar con cuando menos tres años de experiencia en materias relacionadas con la atención a víctimas;
 
 V. (DEROGADA, P.O. 17 DE MARZO DE 2020)
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+VI. No haber sido sentenciada de manera condenatoria que haya causado estado, por los delitos de violencia familiar, contra las mujeres por razón de género, contra la libertad sexual, la seguridad sexual, o contra el normal desarrollo psicosexual, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
+
+VII. No haber sido declarada persona deudora alimentaria morosa.
 
 ###### ARTÍCULO 21.
 
@@ -953,15 +989,21 @@ II. De participación externa: las que prestan apoyos complementarios fuera de l
 
 III. De participación mixta: Con presencia dentro y fuera del Centro.
 
-### Capítulo II. Centro de Atención Integral a Víctimas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE MARZO DE 2025)</small>
+
+### Capítulo II. Comisión Ejecutiva Estatal de Atención a Victimas
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 56.
 
-La Comisión Ejecutiva Estatal de Atención a Víctimas dispondrá una representación del Centro de Atención Integral a Víctimas, en el Centro de Justicia para las Mujeres, comisionando al efecto al personal que resulte necesario.
+La CEEAV dispondrá una representación en el Centro de Justicia para las Mujeres del Estado, comisionando al efecto al personal que resulte necesario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 57.
 
-Corresponde a la representación del CAIV:
+Corresponde a la representación del CEEAV:
 
 I. La atención a usuarias que conforme a la ley tengan condición de víctimas;
 
@@ -971,7 +1013,9 @@ III. La asesoría jurídica de mujeres víctimas;
 
 IV. La asesoría psicológica de primer nivel, y
 
-V. El desarrollo de las acciones que establece la Ley de Víctimas del Estado, para hacer válidos sus derechos.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
+
+V. El desarrollo de las acciones que establece la Ley de Atención a Víctimas para el Estado de San Luis Potosí, para hacer válidos sus derechos.
 
 ### Capítulo III. De la Comisión Estatal de Derechos Humanos
 
@@ -1017,11 +1061,15 @@ IV. Tramitar los divorcios derivados de violencia.
 
 Por acuerdo con el Centro, la representación de la Defensoría Pública, podrá hacerse cargo del área jurídica del mismo, e incorporar a ésta a las representaciones de las instancias asociadas que brinden servicios jurídicos.
 
-### Capítulo VI. Instituto de las Mujeres del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE MARZO DE 2025)</small>
+
+### Capítulo VI. Secretaría de las Mujeres e Igualdad Sustantiva
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 63.
 
-El Instituto de las Mujeres del Estado, integrará una representación en el Centro, a la que corresponderá el desarrollo de las siguientes acciones:
+La SEMU se coordinará con el Centro, para garantizar el desarrollo de las siguientes acciones:
 
 I. Apoyo psicológico, en la modalidad individual y con grupos de autoayuda;
 
@@ -1358,3 +1406,31 @@ P.O. 18 DE MARZO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0168.- SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 31; Y SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 31 Y EL ARTÍCULO 41 QUINQUIES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 1°, EL PRIMER PÁRRAFO DEL ARTÍCULO 2°, LA FRACCIÓN V DEL ARTÍCULO 3°, LAS FRACCIONES III, V Y VI DEL ARTÍCULO 4°, LAS FRACCIONES I, IV, V Y EL PÁRRAFO TERCERO DE LA FRACCIÓN VI DEL ARTÍCULO 6°, LA FRACCIÓN I DEL ARTÍCULO 9°, LAS FRACCIONES I Y IV DEL ARTÍCULO 20, 56, EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 57, ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS II Y VI DEL TÍTULO QUINTO Y 63; SE ADICIONA (SIC) FRACCIÓN VII AL ARTÍCULO 4° Y LAS FRACCIONES VI Y VII AL ARTÍCULO 20; Y SE DEROGA EL INCISO I) DE LA FRACCIÓN IV DEL ARTÍCULO 9°, TODOS DE LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+Segundo. En tanto inicia operaciones la Secretaría de las Mujeres e Igualdad Sustantiva; el Instituto de las Mujeres del Estado de San Luis Potosí continuará prestando servicio a las mujeres, mujeres adolescentes y niñas, sin exceder del quince de marzo de dos mil veinticinco, fecha en que iniciará operaciones la Secretaría de las Mujeres e Igualdad Sustantiva. De igual forma, deberá continuar con el cumplimiento de las funciones administrativas, las que a manera enunciativa y no limitativa son: trámites bancarios, fiscales, de nómina, cumplimiento de obligaciones contractuales, participación en convocatorias para acceder a subsidios de cualquier naturaleza legal, elaboración de proyectos o programas.
+
+Tercero. El Instituto de las Mujeres del Estado de San Luis Potosí quedará extinto una vez que inicie operaciones la Secretaría de las Mujeres e Igualdad Sustantiva; asimismo, al inicio de operaciones de la Secretaría de las Mujeres e Igualdad Sustantiva, se entenderá abrogada la Ley del Instituto de las Mujeres del Estado de San Luis Potosí.
+
+Cuarto. El Ejecutivo del Estado, deberá expedir el Reglamento Interior de la Secretaría de las Mujeres e Igualdad Sustantiva a más tardar el quince de marzo de dos mil veinticinco.
+
+Quinto. A la entrada en vigor del presente Decreto, y una vez que el titular del Ejecutivo del Estado de San Luis Potosí designe a la titular de la Secretaría de las Mujeres e Igualdad Sustantiva, deberá de llevarse a cabo el proceso de entrega-recepción en los términos de la ley de la materia, el cual deberá iniciar de manera inmediata con su preparación la titular del Instituto de las Mujeres del Estado de San Luis Potosí.
+
+Sexto. Los recursos económicos, humanos, presupuesto asignado, créditos, subsidios, bienes muebles e inmuebles y, en general el patrimonio que actualmente pertenece al Instituto de las Mujeres del Estado de San Luis Potosí pasará a formar parte de la Secretaría de las Mujeres e Igualdad Sustantiva.
+
+Séptimo. Las disposiciones legales o administrativas que en su contenido enuncien o impongan obligaciones o atribuciones al Instituto de las Mujeres del Estado de San Luis Potosí, se entenderán referidas a la Secretaría de las Mujeres e Igualdad Sustantiva.
+
+Octavo. Los servicios que actualmente se brinde a mujeres, mujeres adolescentes y niñas o sus familias, continuarán sin interrupciones y serán resueltos conforme a la disposición normativa más favorable a sus derechos.
+
+Noveno. Los procedimientos y procesos promovidos o substanciados ante autoridades judiciales, administrativas, del trabajo o cualquier otra; así como contratos, convenios, proyectos, procedimientos, trámites administrativos o financieros pendientes de resolución, en las que figure como parte el Instituto de las Mujeres del Estado de San Luis Potosí, al inicio de operaciones de la Secretaría de las Mujeres e Igualdad Sustantiva, se continuarán substanciando por esta, sin necesidad de emitir pronunciamiento especial al respecto.
+
+Décimo. Las entidades que se mencionan en este Decreto darán cuenta de su contenido, a los órganos colegiados que las regulan a efecto de iniciar las acciones necesarias para permitir que la Secretaría de las Mujeres e Igualdad Sustantiva pueda iniciar sus operaciones sin contratiempos.
+
+Décimo Primero. La Secretaría de Finanzas del Poder Ejecutivo del Estado de San Luis Potosí, deberá llevar a cabo las acciones presupuestales necesarias, las que en su caso, deberá remitirlas al Congreso del Estado de San Luis Potosí para su aprobación.
+
+Décimo Segundo. El personal que se transfiera a la nueva Secretaría de las Mujeres e Igualdad Sustantiva conservará sus derechos y prestaciones adquiridas, conforme a la legislación aplicable, asegurando la estabilidad y continuidad en el desempeño de sus funciones.
