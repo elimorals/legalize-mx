@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2024-10-28"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE MARZO DE 2025.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -1847,19 +1847,25 @@ La persona titular de la Procuraduría de Justicia Ambiental y Urbana no podrá 
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+(NOTA: EL 19 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2025 Y SU ACUMULADA 45/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE AGOSTO DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 64.
 
-El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia, en los Tribunales Laborales, y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial, impartirá justicia con equidad, con perspectiva de género y con apego en los principios de igualdad, autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica. El Poder Judicial deberá fomentar una capacitación continua en las juzgadoras y los juzgadores respecto a todo lo expresado en este artículo.
+El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia, en los Tribunales Laborales, el Tribunal de Disciplina Judicial Y EN LOS DEMÁS ESTABLECIDOS O QUE EN ADELANTE ESTABLEZCA LA LEY. En el ejercicio de la función judicial, impartirá justicia con equidad, con perspectiva de género y con apego en los principios de igualdad, autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de las juezas y jueces, y los requisitos para su permanencia en el cargo. En la designación de estos deberá observarse el principio de paridad de género.
+El Poder Judicial contará con un órgano administrativo encargado de conocer y resolver todos los asuntos sobre su administración, la carrera judicial y la capacitación continua, así como establecer el número de departamentos o distritos judiciales y el número de juzgados por materia en el territorio estatal en términos de su ley orgánica.
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, D.O. 5 DE MARZO DE 2025)</small>
 
-El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial, funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes. Estará integrado cuando menos por quince personas magistradas, pudiendo aumentar o disminuir en su número mediante acuerdo del Pleno del propio Tribunal por mayoría de sus integrantes, previo estudio objetivo que motive y justifique las necesidades del trabajo y el ejercicio de su presupuesto lo permita. Dicho estudio deberá ser elaborado a solicitud del Pleno del Tribunal Superior de Justicia. En su conformación se observará el principio de paridad de género. Cada magistratura tendrá su respectivo suplente para casos de ausencias temporales mayores a tres meses.
+El Poder Judicial, contará con un Tribunal de Disciplina Judicial, el cual se encargará de vigilar el ejercicio de las y los juzgadores en la entidad. Cualquier persona o autoridad podrá denunciar ante dicho tribunal hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo a las personas juzgadoras, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley. Durarán en su cargo 6 años y no podrán ser electos para otro periodo; por lo que serán sustituidos de manera escalonada.
+
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
+
+El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial, funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes. Estará integrado por quince personas magistradas. En caso de ausencias, se estará a lo previsto en esta constitución.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -1877,9 +1883,9 @@ Las resoluciones del Pleno del Tribunal Superior de Justicia serán definitivas 
 
 El Pleno del Tribunal Superior de Justicia, con la finalidad de realizar una adecuada distribución de los asuntos que le competen a las Salas del Tribunal, estará facultado para expedir acuerdos generales, que deberán ser publicados en el órgano de difusión oficial del Estado para todos los efectos legales que corresponda.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre sus miembros a la Presidenta o Presidente del Tribunal, quien no integrará Sala y no podrá ser reelecto para un período más. En caso de falta absoluta de la Presidenta o Presidente del Tribunal Superior de Justicia, el Pleno seleccionará, de entre sus integrantes, a la magistrada o magistrado que deberá concluir el periodo, sin que pueda ser reelecta o reelecto para el periodo inmediato siguiente.
+La Presidencia del Tribunal Superior de Justicia se renovará cada dos años de manera rotatoria, asignándose a las magistraturas que obtengan el mayor número de votos en la elección correspondiente en orden decreciente.
 
 > <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -1889,25 +1895,23 @@ La Presidenta o Presidente del Tribunal Superior de Justicia será el representa
 
 Las razones que justifiquen las decisiones contenidas en las sentencias dictadas por el Pleno del Tribunal Superior de Justicia por mayoría calificada y por unanimidad en el caso de alguna de sus Salas sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, serán obligatorias para los juzgadores de primera instancia. La Ley establecerá los medios para su difusión y los requisitos para su interrupción.
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Las Magistradas y Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo quince años, contados a partir de la fecha en que rindan el Compromiso Constitucional, y durante el ejercicio de su cargo sólo podrán ser removidos mediante el procedimiento que establece el título décimo de esta Constitución.
+Las Magistradas, Magistrados y las juezas y jueces del Poder Judicial del Estado durarán en el ejercicio de su cargo nueve años, contados a partir de la fecha en que rindan el Compromiso Constitucional, pudiendo ser reelectos; y durante el ejercicio de su cargo sólo podrán ser removidos mediante el procedimiento que establece el título décimo de esta Constitución.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Al término de su encargo, las Magistradas y Magistrados del Tribunal Superior de Justicia, tendrán derecho a un haber por retiro por el término de un año contado a partir del día siguiente al de la conclusión de sus funciones, con base en las percepciones de las Magistradas y Magistrados en activo y conforme a lo que establezca la Ley Orgánica del Poder Judicial. El haber por retiro a que se refiere este artículo será independiente de las prestaciones o cualquier derecho laboral que corresponda a las Magistradas o Magistrados en términos de las disposiciones aplicables.
+Los magistrados y jueces no serán sujetos al procedimiento de revocación de mandato.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Las Magistradas y Magistrados, Juezas y Jueces, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+Las Magistradas y Magistrados, Juezas y Jueces, percibirán una remuneración adecuada e irrenunciable, no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(DEROGADO DÉCIMO CUARTO PÁRRAFO , D.O. 5 DE MARZO DE 2025)</small>
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, estará a cargo del Consejo de la Judicatura del Poder Judicial, de conformidad con las bases que establezcan esta Constitución y las leyes.
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
-
-El presupuesto asignado al Poder Judicial no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto del año anterior y se fijará anualmente, en la forma y términos que establezca la ley; en su ejercicio se observará el principio de autonomía de gestión. Una vez elaborado su presupuesto anual, el Poder Judicial del Estado lo enviará al Congreso del Estado de Yucatán para su aprobación.
+El presupuesto asignado al Poder Judicial no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto del año anterior y se fijará anualmente sin considerar para estos efectos los montos autorizados para proyectos especiales o extraordinarios de obra pública o inversión, en la forma y términos que establezca la ley; en su ejercicio se observará el principio de autonomía de gestión.
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -1925,9 +1929,9 @@ Las atribuciones así como las bases para la organización y el funcionamiento d
 
 Antes de acudir a los Tribunales Laborales, las personas trabajadoras y las personas empleadoras deberán asistir a la instancia conciliatoria correspondiente, de acuerdo con el artículo 123, apartado A, fracción XX, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, es un órgano jurisdiccional del Poder Judicial, que tendrá competencia para resolver los asuntos laborales que surjan entre las autoridades y sus trabajadores, con las atribuciones y la estructura que le confiera la ley, a excepción de los conflictos entre el Poder Judicial y personas servidoras públicas, que serán resueltos por el Consejo de la Judicatura y los que se susciten entre el Tribunal Superior de Justicia y sus empleados, que serán resueltos por el propio Tribunal Superior de Justicia.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, es un órgano jurisdiccional del Poder Judicial, que tendrá competencia para resolver los asuntos laborales que surjan entre las autoridades y sus trabajadores, con las atribuciones y la estructura que le confiera la ley, a excepción de los conflictos entre el Poder Judicial y sus personas servidoras públicas, así como de aquellas que se susciten entre el Tribunal Superior de Justicia y sus empleados, los que serán resueltos por el Tribunal de Disciplina Judicial.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1937,43 +1941,47 @@ Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa
 
 ### CAPITULO II. De los Requisitos para ser Magistrado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 65.
 
-Para ser designada Magistrada o Magistrado del Poder Judicial del Estado se deberá:
+Para ser electo Magistrada o Magistrado o Jueza o Juez del Poder Judicial del Estado, además de los requisitos señalados por las fracciones I a la IV del párrafo segundo del artículo 97 de la Constitución Política de los Estados Unidos Mexicanos, se deberá:
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
+I.- Ser persona ciudadana mexicana por nacimiento y, además, la calidad de ciudadanía yucateca;
 
 > <small>(REFORMADA, D.O. 4 DE MAYO DE 2022)</small>
 
 II.- Estar en ejercicio de sus derechos políticos y civiles y gozar de buena reputación, para lo cual se tomará en cuenta no ser deudor alimentario moroso y contar con una trayectoria laboral respetable a través de un estudio minucioso de los antecedentes del postulante en el que se pueda evaluar su conducta ética;
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
 
-III.- Poseer al día de la designación título profesional de abogado o licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años;
+III.- Contar el día de la elección de personas magistradas y jueces con título y cédula profesional de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente. Cuando se trate del cargo al que se postula, deberá contar con nueve puntos o su equivalente en las materias relacionadas a dicho cargo dentro de la licenciatura, especialidad, maestría o doctorado, asimismo, deberá contar con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;
 
-> <small>(REFORMADA, D.O. 13 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
 
-IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos;
+IV.- Cumplir con lo dispuesto en la fracción IV del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, y no haber sido sentenciado con resolución firme de la autoridad judicial competente o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos;
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
 
-V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
+V.- Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
 
-> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
 
-VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación;
+VI.- Haber residido en el Estado durante el año anterior al día de la publicación de la convocatoria de elección de magistraturas y juzgadores;
 
-> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
 
-VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación, y
+VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la convocatoria de elección de magistraturas y juzgadores;
 
 > <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
 
 VIII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+> <small>(ADICIONADA, D.O. 5 DE MARZO DE 2025)</small>
+
+IX.- No ser deudor alimentario moroso.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1989,53 +1997,85 @@ Los Magistrados del Tribunal de los Trabajadores al Servicio del Estado y Munici
 
 La ley establecerá las bases para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, imparcialidad, independencia, objetividad y profesionalismo.
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 66.
 
-Los Magistrados y Magistradas del Poder Judicial del Estado de Yucatán serán designados por el Pleno del Tribunal Superior de Justicia y ratificados por el Congreso, de conformidad con el procedimiento siguiente:
+Los Magistrados, Magistradas y Juezas y Jueces del Poder Judicial del Estado de Yucatán serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-Sesenta días naturales antes de que concluya el cargo de un Magistrado o Magistrada, o inmediatamente se tenga conocimiento de una causa de retiro forzoso, falta absoluta o la existencia de una vacante por creación según lo previsto en esta Constitución, la Secretaría General de Acuerdos del Tribunal Superior de Justicia informará a las Magistradas y Magistrados en funciones.
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir.
 
-Dentro de los diez días hábiles siguientes, los Magistrados y Magistradas del Tribunal Superior de Justicia en funciones, podrán, de forma individual o conjunta, proponer a una persona para cubrir la magistratura vacante, para lo cual acompañarán la documentación que acredite que cumplen con los requisitos previstos en el artículo 65 de esta Constitución, así como cualquier otro documento que pueda demostrar que la persona propuesta cuenta con los méritos y experiencia para ocupar el cargo. Las propuestas para ocupar el cargo de Magistrada o Magistrado del Poder Judicial considerarán en un caso, personas que presten sus servicios en el Poder Judicial del Estado de Yucatán o personas que hayan destacado por su competencia, honorabilidad y antecedentes en otras ramas de la profesión jurídica, y, en otro, consideran únicamente personas que presten sus servicios en el Poder Judicial del Estado de Yucatán, de manera alternada. Esta alternancia se respetará de forma independiente tanto en el caso de vacantes en el Tribunal Superior de Justicia como en el Tribunal de los Trabajadores al Servicio del Estado y los Municipios.
+El órgano de administración judicial hará del conocimiento del Congreso Estatal los cargos sujetos a elección, la especialización por materia, el departamento, distrito o circuito judicial respectivo y demás información que requiera.
 
-En ningún caso las personas magistradas podrán proponer personas con las que cuenten (sic) parentesco consanguíneo en línea recta sin limitación de grado y afín hasta el segundo grado.
+II. Los Poderes Públicos locales postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-La Secretaría General de Acuerdos dará cuenta al Pleno del Tribunal Superior de Justicia de las personas propuestas. Hecho lo anterior, la Presidencia del Tribunal Superior de Justicia convocará a una sesión del Pleno en la que se determinará quiénes cumplen con los requisitos para ser electas y señalará fecha y hora, que no podrá exceder de los cinco días hábiles siguientes, para que comparezcan ante el Pleno del Tribunal Superior de Justicia.
+a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.
 
-En la sesión en la que se desahoguen las comparecencias, la cual deberá ser pública, cada Magistrado y Magistrada votará por la persona que consideren deba ser electa. Para que alguna de las personas propuestas sea designada Magistrada o Magistrado deberá obtener el voto de dos terceras partes de los miembros presentes. Si ninguna obtuviera la mayoría requerida, se celebrará una nueva votación en la que sólo participarán como candidatas las dos personas que hayan obtenido el mayor número de votos, resultando electa la persona que alcance la mayoría simple.
+b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirán los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia; así como antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
 
-Una vez designada la persona magistrada, el Pleno del Tribunal Superior de Justicia deberá de informar al Congreso del Estado para que inicie el proceso de ratificación, el cual no podrá exceder de diez días hábiles siguientes a partir de su notificación.
+Para definir criterios uniformes y homologados los Comités de Evaluación de los tres poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar los acuerdos sobre mecanismos, requisitos y otros criterios, que deberán observar los Comités de Evaluación de cada poder, para elegir a los perfiles mejor evaluados.
 
-En caso de que respecto de una misma vacante el Congreso del Estado no ratifique en dos ocasiones la designación realizada en términos de los párrafos que anteceden, ocupará el cargo la persona designada por el Tribunal Superior de Justicia quien tomará el compromiso constitucional ante el Pleno de dicho Tribunal.
+c) Cada Comité de Evaluación, integrará un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal Superior de Justicia, el Tribunal de los Trabajadores al Servicio del Estado y sus Municipios, los Tribunales laborales y de los integrantes del Tribunal de Disciplina Judicial. Para el caso de las Juezas y Jueces locales, los comités integrarán a las seis personas mejor evaluadas para cada cargo, según corresponda.
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, siendo tres personas tratándose de aspirantes a las Magistraturas del Tribunal Superior de Justicia; tres personas en el caso de aspirantes a las Magistraturas del Tribunal de Disciplina Judicial y de hasta cinco personas en el caso de Juezas y Jueces, observando la paridad de género para cada caso. Ajustados los listados, el Comité Estatal de Evaluación lo remitirá al Poder Legislativo para su aprobación y envío al Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana de Yucatán a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes Públicos locales, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
+
+IV. El Instituto Electoral y de Participación Ciudadana de Yucatán efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado. El Tribunal Electoral del Estado resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
+
+El Poder Ejecutivo postulará por conducto de la persona titular, hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, por mayoría de votos de los diputados presentes en la sesión que se trate, y el Poder Judicial, por conducto de su Pleno, postulará hasta tres personas por mayoría de votos. Esto para el caso de los cargos de Magistradas o Magistrados previstos en el inciso c) de la fracción II de este artículo; igual número por cada poder público para el caso de los cargos de juezas y jueces a los que haya lugar dependiendo de los tribunales existentes.
+
+El Congreso del Estado incorporará a los listados que remita al Instituto Electoral y de Participación Ciudadana de Yucatán a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o distrito judicial diverso.
+
+La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos. La etapa de preparación de la elección local correspondiente iniciará con la primera sesión que el Consejo General del organismo público local electoral celebre en los primeros días del mes de noviembre del año anterior a la elección.
+
+Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Electoral y de Participación Ciudadana de Yucatán y, en su caso, el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el propio instituto local, o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La duración de las campañas para los cargos señalados en este artículo será de hasta sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 67.
 
-Los Magistrados del Poder Judicial del Estado al entrar a ejercer el cargo, manifestarán ante el Congreso, ante la Diputación Permanente, en los recesos de aquél, o en caso del último párrafo del artículo 66 de esta Constitución ante el Pleno del Tribunal Superior de Justicia, el compromiso Constitucional siguiente: Presidente: ¿Se compromete a desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Si, me comprometo. - Presidente: Si no lo hiciere así, que la Nación y el Estado se lo demanden".
+Las Magistraturas del Pleno del Tribunal de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, los integrantes del órgano de administración y las Juezas y Jueces del Poder Judicial del Estado, al entrar a ejercer el cargo, manifestarán ante el Congreso, ante la Diputación Permanente, en los recesos de aquél, el compromiso Constitucional siguiente: Presidente: ¿Se compromete a desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, y las Leyes que de ellas emanen, y pugnar en todo momento por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Si, me comprometo. -Presidente: Si no lo hiciere así, que la Nación y el Estado se lo demanden".
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 68.
 
-El cargo de Magistrado y de Consejero de la Judicatura del Poder Judicial del Estado, sólo es renunciable por causa grave calificada por el Congreso del Estado o en los recesos de éste, por la Diputación Permanente.
+El cargo de Magistrada o Magistrado del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial del Poder Judicial del Estado, sólo es renunciable por causa grave calificada, misma que será aprobada por la mayoría de las y los diputados presentes del Pleno de la Legislatura.
 
-Las ausencias accidentales, temporales o absolutas de los Magistrados y de los Consejeros de la Judicatura del Poder Judicial del Estado, serán suplidas en la forma que establezca la ley.
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-(NOTA: EL 27 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+El Congreso del Estado resolverá respecto a las licencias que exceden más de un mes y renuncias de las y los Magistrados del Tribunal Superior de Justicia y de los integrantes del Tribunal de Disciplina Judicial del Poder Judicial del Estado.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(ADICIONADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Es causa de retiro forzoso de las Magistradas y los Magistrados y de las Consejeras y los Consejeros de la Judicatura del Poder Judicial del Estado, cumplir quince años en el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia O TREINTA AÑOS AL SERVICIO DEL ESTADO o padecer incapacidad, ya sea física o mental, que impida desempeñar el encargo, en la forma que dispongan las leyes.
+Cuando la falta de una Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrada o del Tribunal de Disciplina Judicial, Tribunal Laboral o Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
-> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+> <small>(ADICIONADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Las Magistradas y los Magistrados que se encuentren en el supuesto de retiro forzoso tendrán derecho al haber por retiro, en términos de la ley.
+Las licencias de las personas servidoras públicas señaladas en el párrafo que antecede, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia, para el caso de sus Magistradas y Magistrados; por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes y, por el órgano de administración judicial para el caso de Juezas y Jueces de primera instancia. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de un año.
 
-Los Magistrados, Consejeros de la Judicatura, Jueces y Secretarios del Poder Judicial del Estado, no podrán, en ningún caso, aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos en instituciones científicas, docentes, literarias o de beneficencia.
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Las personas que hayan ocupado el cargo de Magistrado, Consejero de la Judicatura o Juez del Poder Judicial del Estado, no deberán, dentro del año siguiente a la fecha de conclusión del cargo, cualquiera que fuere la causa del mismo, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Yucatán, con las excepciones que establezca la ley.
+Es causa de retiro forzoso de las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, del Tribunal de Disciplina, y de los integrantes del órgano de administración del Poder Judicial del Estado, padecer incapacidad, ya sea física o mental, que impida desempeñar el cargo, en la forma que dispongan las leyes.
+
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
+
+Las Magistradas y los Magistrados que se encuentren en el supuesto de retiro forzoso tendrán derecho al haber por retiro; el haber de retiro será proporcional al tiempo de su desempeño.
+
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
+
+Las magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina, del Tribunal Laboral, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las y los integrantes del órgano de administración, las Juezas y Jueces de primera instancia y Secretarios del Poder Judicial del Estado, no podrán, en ningún caso, aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos en instituciones científicas, docentes, literarias o de beneficencia.
+
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
+
+Las personas que hayan ocupado cualquiera de los cargos previstos en el párrafo anterior, no deberán, dentro del año siguiente a la fecha de conclusión del cargo, cualquiera que fuere la causa del mismo, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Yucatán, con las excepciones que establezca la ley.
 
 Los impedimentos previstos en este artículo serán aplicables a los servidores públicos con licencia.
 
@@ -2051,7 +2091,9 @@ Corresponde al Pleno del Tribunal Superior de Justicia:
 
 I.- Hacer uso del derecho de iniciar leyes que le confiere esta Constitución;
 
-II.- Revisar las decisiones del Consejo de la Judicatura respecto de la creación de Departamentos Judiciales y juzgados, modificar su competencia y jurisdicción territorial, en términos de la ley;
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
+
+II.- Revisar las decisiones del Órgano de Administración del Poder Judicial respecto de la creación de Departamentos Judiciales y juzgados, modificar su competencia y jurisdicción territorial, en términos de la ley;
 
 III.- Resolver las contradicciones entre los criterios que emitan sus Salas, las cuales tendrán carácter obligatorio en los términos que señale la ley;
 
@@ -2059,95 +2101,53 @@ IV.- Expedir el Reglamento Interior, Acuerdos Generales y demás normas administ
 
 V.- Remitir a los poderes, Legislativo y Ejecutivo, del Estado los informes sobre administración de justicia que le soliciten, en los términos de la ley;
 
-VI.- Formular el proyecto anual de Presupuesto de Egresos del Tribunal Superior de Justicia, y remitirlo al Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial;
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
+
+VI.- Formular, en conjunto con el órgano de administración del Poder Judicial, el proyecto anual de Presupuesto de Egresos del Tribunal Superior de Justicia, y remitirlo al Poder Ejecutivo para su inclusión en el Proyecto de Presupuesto de Egresos del Gobierno del Estado.
 
 > <small>(REFORMADA, D.O. 1 DE ABRIL DE 2024)</small>
 
 VII.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia;
 
-> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O. 5 DE MARZO DE 2025)</small>
 
-VIII.- Designar a las Magistradas y Magistrados del Poder Judicial del Estado;
+VIII.- Proponer a las personas para ocupar los cargos en términos del artículo 66 de esta Constitución.
 
-> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+IX.- (DEROGADA, D.O. 5 DE MARZO DE 2025)
 
-IX.- Aprobar el aumento o disminución del número de personas magistradas que integren el Tribunal Superior de Justicia y el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
+X.- (DEROGADA, D.O. 5 DE MARZO DE 2025)
 
-> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
-
-X.- Aprobar el aumento o disminución del número de Consejeras y Consejeros que integran el Consejo de la Judicatura;
-
-> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
-
-XI.- Recibir el compromiso constitucional de las personas magistradas del Poder Judicial del Estado, según lo establecido en el último párrafo del artículo 66 de esta Constitución, así como de las personas consejeras designadas por el Pleno del Tribunal Superior de Justicia, y
+XI.- (DEROGADA, D.O. 5 DE MARZO DE 2025)
 
 XII.- Las demás que le confieran esta Constitución y otras leyes.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE MARZO DE 2025)</small>
 
-### CAPITULO IV. Del Control Constitucional Local
+### CAPITULO IV. Del Tribunal de Disciplina del Poder Judicial
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 70.
 
-En materia de control constitucional local, corresponde al Pleno del Tribunal Superior de Justicia erigido en Tribunal Constitucional, conocer:
+El Tribunal de Disciplina Judicial es el órgano vigilante de la actuación de las y los órganos jurisdiccionales del Estado de Yucatán, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución.
 
-I.- De las controversias constitucionales que, con excepción de las controversias en materia electoral, se susciten entre:
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de los Magistradas y Magistrados, que sólo podrán ser removidos en los términos del Título Décimo de esta Constitución.
 
-a) El Estado y los municipios;
+(NOTA: EL 24 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS LA CUAL SURTIÓ EFECTOS EL 30 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-b) El Poder Ejecutivo y el Poder Legislativo;
+Se integrará por cinco magistradas y magistrados, electos por el voto popular en términos de esta Constitución, uno de sus integrantes tendrá el cargo de presidente. La presidencia será designada por dos años consecutivos por el voto mayoritario ENTRE LOS MIEMBROS DE DICHO TRIBUNAL, PUDIENDO SER RATIFICADA POR SUS INTEGRANTES PARA CONTINUAR POR UN PERIODO MÁS.
 
-c) Dos o más municipios del Estado, siempre que no se trate de cuestiones relativas a sus límites territoriales, y
+Ejercerán sus atribuciones en términos de ley para velar por el correcto ejercicio de la función judicial en la entidad.
 
-d) Uno o más organismos públicos autónomos y otro u otros organismos o poderes del Estado o Municipios.
+Le corresponde la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia y demás órganos jurisdiccionales del Estado, sin perjuicio de las atribuciones de la entidad de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
-Las resoluciones del Pleno del Tribunal Superior de Justicia del Estado, sobre controversias constitucionales que declaren la invalidez de normas, con excepción de las normas estatales impugnadas por uno o más municipios, tendrán efectos generales cuando hubieren sido aprobadas por al menos las dos terceras partes de sus integrantes y surtirán sus efectos a partir de su publicación en el órgano de difusión oficial del Estado.
+Los conflictos entre el Poder Judicial del Estado y sus servidores, así como los que se susciten entre el Tribunal Superior de Justicia y sus empleados, serán resueltos por el Tribunal de Disciplina Judicial.
 
-En los demás casos, las resoluciones de Pleno del Tribunal Superior de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
+Ante cualquier vulneración a la administración de justicia y que esta no sea expedita, entendiéndose que no se imparta dentro de los plazos y términos que fijen las leyes, o que las resoluciones no se emitan de manera pronta, completa e imparcial o, en el supuesto de que cumplidos los plazos previstos en la ley no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora o, en su caso, dar vista al órgano interno de control del poder judicial.
 
-Las controversias constitucionales locales tienen por objeto resolver los conflictos de carácter competencial que surjan entre diferentes órganos de gobierno que pertenecen a órdenes distintos, así como entre órganos que forman parte del mismo orden del régimen interno del Estado, con base en lo dispuesto por esta Constitución, sin perjuicio de las controversias constitucionales que le compete resolver de manera exclusiva a la Suprema Corte de Justicia de la Nación.
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo magistrados y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada.
 
-II.- De las acciones de inconstitucionalidad en contra de normas de carácter general, estatales o municipales que se consideren contrarias a la Constitución Política del Estado que sean promovidas por:
-
-a) El Ejecutivo del Estado;
-
-b) El Fiscal General del Estado;
-
-c) El treinta y tres por ciento de los integrantes del Congreso, en contra de las disposiciones de carácter general aprobadas por los ayuntamientos;
-
-d) El treinta y tres por ciento de los Regidores del municipio en contra de las disposiciones de carácter general aprobadas por el ayuntamiento, y
-
-e) Los organismos públicos autónomos, por conducto de quien le represente legalmente, con relación a la materia de su competencia.
-
-Las acciones de inconstitucionalidad podrán ser ejercitadas dentro de los treinta días naturales siguientes al de su publicación.
-
-Las resoluciones del Pleno del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por al menos las dos terceras partes de sus miembros y surtirá efectos a partir de su publicación en el órgano de difusión oficial del Estado.
-
-III.- De las acciones contra la omisión legislativa o normativa, imputables al Congreso, al Gobernador o a los Ayuntamientos, por la falta de expedición de las normas jurídicas de carácter general, a que estén obligados por esta Constitución, así como de las leyes, siempre que la omisión afecte el debido cumplimiento o impida la eficacia de la misma.
-
-El ejercicio de esta acción corresponderá a las autoridades estatales y municipales, así como a las personas residentes en el Estado, conforme a lo que disponga la ley.
-
-La resolución que emita el Pleno del Tribunal Superior de Justicia y decrete la existencia de omisión legislativa o normativa, surtirá sus efectos a partir de su publicación en el órgano de difusión oficial del Estado.
-
-La resolución del Pleno, respecto a omisiones del Congreso del Estado, otorgará un plazo que comprenda dos períodos ordinarios de sesiones para que éste emita la ley, decreto o acuerdo omitido. Si se trata de omisiones del Poder Ejecutivo o de los ayuntamientos, se otorgará un plazo de seis meses para subsanar la omisión.
-
-La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán las disposiciones constitucionales y legales aplicables de esta materia.
-
-IV.- De las cuestiones de control previo respecto de la constitucionalidad de los proyectos de ley aprobados por el Pleno del Congreso del Estado y hasta antes de su promulgación y publicación; que podrán promover, el Gobernador; el treinta y tres por ciento de los integrantes del Congreso; el Fiscal General del Estado; los Titulares de los organismos públicos autónomos y los Presidentes Municipales en el ámbito de su competencia, en términos de Ley.
-
-Las decisiones del Pleno del Tribunal Superior de Justicia, adoptadas por medio del voto de las dos terceras partes de sus integrantes, en la que estime la inconstitucionalidad de las disposiciones contenidas en los proyectos de ley aprobados por el Pleno del Congreso del Estado, serán obligatorias para éste.
-
-La ley determinará los procedimientos para la substanciación de las Cuestiones de Control Previo de Constitucionalidad.
-
-> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
-
-V.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa grave para la remoción de la o el fiscal general del estado, en términos del artículo 62 de esta Constitución.
-
-> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
-
-VI.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa grave para la remoción de la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, en términos del artículo 75 Septies de esta Constitución.
+El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -2157,79 +2157,63 @@ VI.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa
 
 (DEROGADO, D.O. 20 DE JUNIO DE 2014)
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE MARZO DE 2025)</small>
 
-### CAPITULO VI. Del Consejo de la Judicatura
+### CAPITULO VI. Del Órgano de Administración del Poder Judicial
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 72.
 
-El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado de autonomía técnica y de gestión, al que corresponde conocer y resolver todos los asuntos sobre la administración, vigilancia y disciplina del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal Superior de Justicia, de conformidad con lo que dispongan esta Constitución y la ley.
+El Órgano de Administración del Poder Judicial del Estado, estará dotado de autonomía técnica y de gestión, le corresponde conocer y resolver todos los asuntos sobre la administración del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal de Disciplina del Poder Judicial, de conformidad con lo que dispongan esta Constitución y la ley.
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2024)</small>
+El Órgano de Administración del Poder Judicial del Estado se integrará por cinco miembros de los cuales, uno tendrá el carácter de Presidenta o Presidente; tres integrantes nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un integrante designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un integrante designado por el titular del Poder Ejecutivo. Durarán en su cargo 6 años, improrrogables.
 
-El Consejo de la Judicatura se integrará cuando menos por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior de Justicia, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo.
+En su integración deberá privilegiarse el principio de paridad de género.
 
-> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
+Para ser integrante del Órgano de Administración del Poder Judicial, se requiere:
 
-En su integración deberá privilegiarse el principio de paridad de género. La integración podrá aumentar o disminuir, mediante acuerdo del Pleno del Tribunal Superior de Justicia por mayoría de sus integrantes, previo estudio objetivo presentado por la Presidencia del Consejo que motive y justifique las necesidades del servicio y el ejercicio de su presupuesto lo permita. En caso de aumentar el número de personas consejeras, los nombramientos se realizarán en el siguiente orden, los dos primeros, por el Pleno del Tribunal Superior de Justicia; el siguiente, por el titular del Poder Ejecutivo; y posteriormente, por la mayoría de los Diputados del Congreso del Estado presentes en la sesión en que se aborde el asunto, y así sucesivamente.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 12 DE AGOSTO DE 2022)</small>
-
-Para ser Consejera o Consejero del Consejo de la Judicatura del Poder Judicial del Estado se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
+I.- Ser persona ciudadana mexicana por nacimiento, y, además, la calidad de ciudadanía yucateca;
 
 II.- Estar en ejercicio de sus derechos políticos y civiles;
 
-III.- Poseer al día de la designación título profesional de licenciado en administración pública, en finanzas públicas, en economía, en derecho, contador público o alguna carrera afín a tales materias, expedido por autoridad o institución legalmente facultada para ello con antigüedad mínima de diez años;
+III.- Poseer al día de la designación título y cédula profesional de licenciado en administración pública, en finanzas públicas, en economía, en derecho, contador público o alguna carrera afín a tales materias, expedido por autoridad o institución legalmente facultada para ello con antigüedad mínima de 5 años;
 
-IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Cumplir con lo dispuesto en la fracción IV del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
 
-> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
-
 VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación;
-
-> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
 
 VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación;
 
-> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
-
 VIII.- No ser deudor alimentario moroso, y
-
-> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
 
 IX.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
 
-Todos los Consejeros deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
+Todos los integrantes del Órgano de Administración del Poder Judicial deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2022)</small>
+El Órgano de Administración del Poder Judicial tendrá a su cargo la creación de los Departamentos Judiciales, la modificación de su número y jurisdicción territorial; el establecimiento y modificación de la competencia y jurisdicción territorial de los juzgados; de resolver sobre la designación y adscripción de los servidores públicos del Poder Judicial. Para favorecer el adecuado acceso a la justicia pronta y expedita, se garantizará la existencia de un juez de primera instancia por cada 30 mil habitantes del Estado. De igual forma deberá garantizarse la adscripción de juzgados de primera instancia en los municipios que cuenten con al menos 20 mil habitantes. La competencia y jurisdicción territorial se definirá de acuerdo con las necesidades que la impartición de justicia exija, bajo criterios de racionalidad y eficiencia que establezca el Órgano de Administración del Poder Judicial.
 
-El Pleno del Consejo de la Judicatura tendrá a su cargo la creación de los Departamentos Judiciales, la modificación de su número y jurisdicción territorial; el establecimiento y modificación de la competencia y jurisdicción territorial de los juzgados; de resolver sobre la designación, adscripción, ratificación y remoción de los jueces de primera instancia y de los servidores públicos del Poder Judicial, con excepción de los adscritos al Tribunal Superior de Justicia, de conformidad con lo que establezca la ley. Para favorecer el adecuado acceso a la justicia pronta y expedita, el Consejo de la Judicatura garantizará la existencia de un juez de primera instancia por cada 30 mil habitantes del estado. De igual forma deberá garantizarse la adscripción de juzgados de primera instancia en los municipios que cuenten con al menos 20 mil habitantes. La competencia y jurisdicción territorial se definirá de acuerdo con las necesidades que la impartición de justicia exija, bajo criterios de racionalidad y eficiencia que establezca el Consejo de la Judicatura.
+Asimismo, será la responsable de todo lo relativo al ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
-> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2022)</small>
+Además, implementará un sistema tecnológico que permita el acceso en línea a los órganos de primera y segunda instancia en todas las materias en todo el Estado de Yucatán, así como a las áreas administrativas del Poder Judicial del Estado de Yucatán, con el objetivo institucional en dos directrices, la primera dar vida a un juicio en línea, además de las necesidades tecnológicas requeridas en materia de juicios orales mercantiles y penales, y la segunda, total acceso a toda petición que se formule ante el Poder Judicial del Estado, para beneficio de la sociedad yucateca.
 
-Además, implementará un sistema tecnológico que permita el acceso en línea a los Juzgados de primera y segunda instancia en todas las materias en todo el Estado de Yucatán, así como a las áreas administrativas del Poder Judicial del Estado de Yucatán, con el objetivo institucional en dos directrices, la primera dar vida a un juicio en línea, además de las necesidades tecnológicas requeridas en materia de juicios orales mercantiles y penales, y la segunda, total acceso a toda petición que se formule ante el Poder Judicial del Estado, para beneficio de la sociedad yucateca.
+La Ley Orgánica del Poder Judicial determinará las demás atribuciones que correspondan al Órgano de Administración del Poder Judicial.
 
-La Ley Orgánica del Poder Judicial determinará las demás atribuciones que correspondan al Consejo de la Judicatura.
+Los integrantes del Órgano de Administración del Poder Judicial no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad y durante el desempeño de su encargo, sólo podrán ser removidos previo juicio de responsabilidad.
 
-Salvo el Presidente, los Consejeros durarán cuatro años en su cargo, serán sustituidos de manera escalonada y podrán ser ratificados hasta por dos períodos más de cuatro años.
+La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual será conducida por el Órgano de Administración del Poder Judicial y se regirá por los principios de excelencia, imparcialidad, independencia, objetividad, y profesionalismo.
 
-Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad y durante el desempeño de su encargo, sólo podrán ser removidos previo juicio de responsabilidad.
+De conformidad con lo que establezca la ley, el Órgano de Administración del Poder Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual será conducida por el Consejo de la Judicatura y se regirá por los principios de excelencia, imparcialidad, independencia, objetividad, y profesionalismo.
+Las decisiones del Órgano de Administración del Poder Judicial serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que establece esta Constitución.
 
-De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
+En el proceso de programación y presupuestación de los recursos públicos, el Órgano de Administración del Poder Judicial deberá implementar como política administrativa indicadores de resultados, como mecanismos para evaluación. El resultado de dichas evaluaciones se deberá considerar en el proceso de programación y presupuesto de los recursos públicos, a fin de propiciar que los recursos económicos se asignen conforme a los resultados alcanzados, así como a la austeridad republicana.
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que establece esta Constitución y las que se refieran a la designación, adscripción, ratificación y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido acordadas conforme a las reglas que disponga la ley y la normatividad aplicable.
+El Órgano de Administración del Poder Judicial, en conjunto con el Tribunal Superior de Justicia, elaborará el presupuesto del Poder Judicial, el cual será remitido por el Presidente del Tribunal Superior de Justicia al titular del Poder Ejecutivo, a más tardar el 15 de octubre de cada año, a fin de que éste considere su incorporación al Proyecto de Presupuesto de Egresos del Estado.
 
-En el proceso de programación y presupuestación de los recursos públicos el Consejo deberá implementar como política administrativa indicadores de resultados, como mecanismos para evaluación. El resultado de dichas evaluaciones se deberá considerar en el proceso de programación y presupuesto de los recursos públicos, a fin de propiciar que los recursos económicos se asignen conforme a los resultados alcanzados.
-
-El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial, el cual será remitido por el Presidente del Consejo al titular del Poder Ejecutivo, a más tardar el 15 de octubre de cada año, a fin de que éste considere su incorporación al Proyecto de Presupuesto de Egresos del Estado.
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -3391,11 +3375,9 @@ Los servidores públicos del Estado y de los municipios, tienen en todo tiempo l
 
 Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo.
 
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 207/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
-
-Para proceder penalmente en contra de los magistrados y consejeros de la Judicatura del Poder Judicial del Estado, se requerirá la declaración de procedencia que emita el Congreso del estado, ÚNICAMENTE POR LA COMISIÓN DE DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO, PARTICULARMENTE EN LAS RESOLUCIONES O SENTENCIAS QUE PRONUNCIEN, ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN.
+Para proceder penalmente en contra de los magistrados del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y los Municipios del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, se requerirá la declaración de procedencia que emita el Congreso del Estado.
 
 > <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -3437,11 +3419,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos de juicio político los diputados locales en funciones; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
+Podrán ser sujetos de juicio político los diputados locales en funciones; las magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3459,17 +3441,15 @@ Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la
 
 Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 207/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-REFORMADO PRIMER PÁRRAFO, D.O. 19 DE JUNIO DE 2017)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE MARZO DE 2025)</small>
 
 ###### Artículo 100.
 
-El Congreso del estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente en contra de los magistrados y consejeros de la Judicatura del Poder Judicial del estado, ÚNICAMENTE POR LA COMISIÓN DE DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO, PARTICULARMENTE EN LAS RESOLUCIONES O SENTENCIAS QUE PRONUNCIEN, ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EFECTUADOS DURANTE SU ENCARGO.
+El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente en contra de magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios y las personas integrantes del Órgano de Administración Judicial.
 
-> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-Los diputados locales; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
+Los diputados locales; los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -3479,9 +3459,9 @@ Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento 
 
 Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes.
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
 
-En caso de que la Cámara de Diputados del Congreso de la Unión emita la declaración de procedencia por delitos federales, en contra del Gobernador, los diputados locales, los magistrados y los consejeros de la Judicatura del Poder Judicial del estado; y los miembros de los organismos constitucionales autónomos a que se refiere el primer párrafo, en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, una vez notificada esta, la Legislatura del estado resolverá la separación del inculpado de su encargo y lo pondrá a disposición del Ministerio Público Federal. El Congreso del estado, cuando lo estime pertinente, solicitará al órgano que declaró la procedencia las aclaraciones pertinentes, antes de resolver que el inculpado sea separado de su cargo.
+En caso de que la Cámara de Diputados del Congreso de la Unión emita la declaración de procedencia por delitos federales, en contra del Gobernador, los diputados locales, los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial; y los miembros de los organismos constitucionales autónomos a que se refiere el primer párrafo, en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, una vez notificada esta, la legislatura del Estado resolverá la separación del inculpado de su encargo y lo pondrá a disposición del Ministerio Público Federal. El Congreso del Estado, cuando lo estime pertinente, solicitará al órgano que declaró la procedencia las aclaraciones pertinentes, antes de resolver que el inculpado sea separado de su cargo.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -6166,3 +6146,135 @@ Artículo segundo. El Congreso del Estado de Yucatán deberá expedir las modifi
 Cláusula derogatoria
 
 Artículo tercero. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 55/2025 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Convocatoria
+
+Artículo segundo. Por única ocasión, en un plazo no mayor a 10 días naturales, contado a partir de la entrada en vigor de este decreto, el Congreso del Estado deberá emitir la correspondiente convocatoria a elecciones extraordinarias.
+
+En dicha convocatoria, se establecerán las bases, requisitos, plazos y el procedimiento para la integración de los listados de las y los candidatos para el proceso extraordinario de elección de las y los integrantes del Poder Judicial del Estado de Yucatán. En dichos listados se observará la paridad de género, estableciéndose que, del total de cargos a elegir, la mayoría será para el género femenino.
+
+De no ser posible la emisión de la convocatoria a que se hace referencia, esta deberá expedirse dentro de un plazo prudente que posibilite la realización de la organización del proceso electivo previsto en este decreto, lo anterior atendiendo las fechas establecidas en el transitorio sexto, de suscitarse el caso, el Comité de Evaluación deberá ajustarse a los nuevos plazos y términos que se planteen en cuanto a la organización del citado proceso electivo.
+
+Propuestas de los poderes públicos
+
+Artículo tercero. Por única ocasión, para el primer proceso electivo de carácter extraordinario los poderes públicos no realizarán las propuestas a las que hace referencia el artículo 66 fracción II de este decreto. Dichas propuestas, se harán en el proceso electivo ordinario de las y los integrantes del Poder Judicial del Estado del año 2036 en adelante.
+
+Comité Estatal de Evaluación
+
+Artículo cuarto. Por única ocasión y en términos del artículo transitorio sexto de este decreto, se conformará un Comité Estatal de Evaluación compuesto por nueve personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia; así como antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. Cada poder designará a tres integrantes de este comité estatal.
+
+Por única ocasión, para el primer proceso electivo de carácter extraordinario los poderes públicos estatales, en un plazo no mayor a 5 días naturales, contado a partir de la entrada en vigor de este decreto deberán informar al Poder Legislativo de las personas propuestas para integrar ese Comité Estatal de Evaluación, quienes analizarán, estudiarán y seleccionarán a los perfiles mejor evaluados en términos de la convocatoria a la que hace referencia el artículo segundo transitorio de este decreto.
+
+La convocatoria a la que hace referencia el párrafo anterior deberá contener al menos, los cargos a elegir, los requisitos y documentación de acreditación, los parámetros de evaluación de las y los aspirantes, así como los plazos de cada una de las etapas del procedimiento.
+
+Para su funcionamiento, ese Comité Estatal de Evaluación, en su integración contará con una presidenta o presidente que será electo de los propuestos por el Poder Legislativo, y convocará, presidirá, y dirigirá dicho comité; para el ejercicio de sus funciones podrá contar con un secretario o secretaria técnica para el apoyo en términos de esta Constitución. Los acuerdos del comité se tomarán por la mayoría de los votos de sus miembros, en caso de empate en sus determinaciones, la o el presidente del Comité tendrá el voto de calidad.
+
+Proceso de insaculación
+
+Artículo quinto. Por única ocasión, ese Comité Estatal de Evaluación, una vez seleccionados (sic) a las 10 personas mejor evaluadas para ocupar cada uno de los cargos previstos en la convocatoria que para tal efecto emita, por única ocasión en un plazo no mayor a 3 días naturales, realizará el proceso de insaculación ante el Pleno del Congreso del Estado para ajustar la lista al número de postulaciones para cada cargo en términos del inciso c) de la fracción II del artículo 66 de esta Constitución. El Comité Estatal de Evaluación podrá realizar los ajustes de paridad para cumplir con lo previsto en este decreto.
+
+Proceso electoral electivo de integrantes del Tribunal Superior de Justicia del Estado de Yucatán y del Tribunal de Disciplina Judicial
+
+Artículo sexto. La elección prevista para elegir a las y los integrantes del Pleno del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, ambos del Poder Judicial del Estado se realizarán, en los términos previstos en esta Constitución y en las leyes secundarias, el 01 de junio del año 2025.
+
+Cuando por la imposibilidad material o causa de fuerza mayor la elección a la que se refiere el párrafo anterior no pudiera realizarse en la fecha prevista en este artículo, podrá efectuarse en los meses restantes del año 2025 o, durante el año 2026. De lo contrario se ajustará a los términos que se establezcan para la elección ordinaria de 2027.
+
+Por lo que respecta a la elección prevista para elegir a las Magistraturas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, de las juezas y jueces de primera instancia se realizará, en los términos previstos en esta Constitución y en las leyes secundarias, el día 06 de junio de 2027.
+
+Ante dicha imposibilidad, por única ocasión, el compromiso constitucional de las y los integrantes del Poder Judicial del Estado que deba rendirse ante el Pleno del Congreso del Estado, se realizará en el periodo ordinario próximo siguiente a la celebración de la elección del año 2025 o, en su caso, del año 2026.
+
+Por única ocasión, dicho compromiso podrá realizarse ante la Diputación Permanente en el caso de los recesos del Pleno de la legislatura.
+
+Duración en el cargo
+
+Artículo séptimo. El periodo de las Magistraturas del Tribunal Superior de Justicia que resulten electos en la elección extraordinaria del año 2025 o, en su caso, en el año 2026 a la que hace referencia este decreto, concluirá el año 2033 para dos, y 2036 para siete de ellos, respectivamente.
+
+El periodo de las Magistraturas del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios que resulten electos en la elección ordinaria del año 2027 a la que hace referencia este decreto durarán siete y nueve años, por lo que concluirá una magistratura en el año 2034 y dos magistraturas en el año 2036, respectivamente.
+
+Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quienes alcancen mayor votación.
+
+Por única ocasión, el periodo de las Magistraturas del Tribunal de Disciplina Judicial que sean electos en el año 2025 o, en el año 2026 concluirá en el año 2033 para dos de ellas, y en el año 2036 para las tres restantes. Si fueran electas en el año 2027, por única ocasión durarán en el cargo hasta 2036 para dos de ellas y 2042 para tres de ellas.
+
+Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a las tres magistraturas que alcancen mayor votación.
+
+Respecto a los actuales Magistradas y Magistrados del Tribunal Superior de Justicia que resulten electos en el año 2025, o en el año 2026, ejercerán el cargo por el periodo que reste a su nombramiento original, a excepción de aquellas que finalicen sus funciones previo al año 2027, los cuales concluirán en términos de su nombramiento.
+
+Las y los actuales integrantes del Consejo de la Judicatura del Poder Judicial que resulten electos para integrar el Tribunal de Disciplina Judicial, ocuparán el cargo exclusivamente por el tiempo que reste en términos de su nombramiento actual.
+
+Garantía de la ciudadanía a contar con acceso a la jurisdicción de manera idónea
+
+Artículo octavo. Con el objeto de garantizar que la ciudadanía cuente con servidores públicos idóneos, y en aras de la inamovilidad de las y los magistrados que cuenten con presidencias dentro del Poder Judicial Estatal, de las actuales quince magistraturas, las Magistraturas Tercera, Cuarta, Quinta, Sexta, Octava y Decimosegunda, quienes a la fecha de este decreto ejercen la Presidencia de las Salas y del Pleno del Tribunal Superior de Justicia, serán prorrogados únicamente respecto a sus cargos como magistrados o magistradas hasta la siguiente elección estatal en 2036.
+
+A fin de garantizar el cumplimiento de las resoluciones en los procesos judiciales de las actuales Magistradas, Ingrid Ivette Priego Cárdenas, Leticia del Socorro Cobá Magaña y el Magistrado, José Rubén Ruiz Ramírez obtenidas en contra del Decreto 496/2022 por el que se modifican la Constitución Política del Estado de Yucatán, la Ley Orgánica del Poder Judicial del Estado de Yucatán y la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en materia de reforma al Poder Judicial del Estado de Yucatán, finalizarán sus cargos en los términos de su nombramiento.
+
+Por consiguiente, las personas electas para suplir a las personas titulares de las magistraturas novena, décima y undécima, a las que hace referencia el párrafo anterior, empezarán sus funciones al momento en el cual aquellas finalicen sus funciones éstas en términos de su nombramiento.
+
+Interpretación, adecuación y referencia normativa
+
+Artículo noveno. El Congreso del Estado en un plazo no mayor a 180 días naturales, contado a partir de la entrada en vigor de este decreto deberá realizar las modificaciones normativas o, en su caso, expedir las leyes secundarias necesarias para dar cumplimiento a lo dispuesto en este decreto en donde se ordena la elección popular de integrantes del Poder Judicial del Estado de Yucatán.
+
+En tanto se expiden o se realizan las modificaciones normativas para dar cumplimiento a este decreto, todas las autoridades a las que hace referencia esta Constitución, aplicarán directamente su texto o, en su caso, ajustarán sus actuaciones y deberes a los términos previstos en las leyes generales que para tal efecto expida el Congreso de la Unión y, en su caso, a los acuerdos y reglamentación en la materia que para efecto dicten las autoridades electorales federales o locales para celebrar la elección popular de integrantes del Poder Judicial del Estado de Yucatán.
+
+Asimismo, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga este decreto.
+
+Para efectos de la organización del proceso electoral extraordinario del año 2025, no será aplicable lo dispuesto en el penúltimo párrafo de la fracción II del artículo 105 de esta Constitución, por lo que el Instituto Electoral y de Participación Ciudadana de Yucatán observará las leyes que se emitan en los términos de este decreto.
+
+En todos los ordenamientos en los cuales se haga referencia al Consejo de la Judicatura del Poder Judicial se entenderá el Órgano de Administración del Poder Judicial del Estado.
+
+Derecho a participar los procesos electorales
+
+Artículo décimo. Las actuales magistraturas del Tribunal Superior de Justicia, del Poder Judicial, podrán integrar las listas de candidatas y candidatos en el proceso electivo a verificarse en el año 2025 o, en su caso, en el año 2026, previsto en este decreto. Lo anterior, sin perjuicio de que expresen su negativa a participar en dicho proceso. De lo contrario se ajustará a los términos que se establezcan para la elección ordinaria de 2027.
+
+Para el caso de las actuales Consejeras y Consejeros de la Judicatura del Poder Judicial del Estado que se encuentren en funciones a la entrada en vigor de este decreto podrán postularse y participar en la elección extraordinaria del año 2025 o, en su caso, el año 2026 para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial por el periodo que corresponda cuando cumplan con los requisitos constitucionales y legales aplicables. De lo contrario se ajustará a los términos que se establezcan para la elección ordinaria de 2027.
+
+Las personas integrantes del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las y los jueces de primera instancia del Poder Judicial del Estado, podrán integrar las listas de candidatas y candidatos en el proceso electivo a verificarse en el año 2027 previsto en este decreto. Lo anterior, sin perjuicio de que expresen su negativa a participar en dicho proceso.
+
+Designación de los integrantes del Órgano de Administración del Poder Judicial del Estado
+
+Artículo décimo primero. El titular del Poder Ejecutivo, el Pleno del Tribunal Superior de Justicia y el Pleno del Congreso del Estado de Yucatán deberán realizar las designaciones de las personas que integrarán el Órgano de Administración del Poder Judicial, una vez que entren en funciones las magistraturas del Tribunal Superior de Justicia del Estado en términos de lo que dispone esta Constitución.
+
+Las personas que actualmente integran el Consejo de la Judicatura del Poder Judicial del Estado, exclusivamente ejercerán sus atribuciones respecto a asuntos administrativos y cesarán sus funciones hasta el año 2027 cuando se designe a los titulares del Órgano de Administración del Poder Judicial.
+
+Respecto a la competencia en materia de disciplina judicial, el actual Consejo de la Judicatura la ejercerá hasta en tanto entre en funciones el Tribunal de Disciplina Judicial en los términos que establece esta Constitución.
+
+Salvaguarda de los derechos de las y los trabajadores del Poder Judicial del Estado de Yucatán
+
+Artículo décimo segundo. Respecto al haber del retiro de las y los magistrados designados por el Pleno del Congreso del Estado a partir del decreto 496/2022, publicado en fecha 04 de mayo del año 2022 tendrán derecho a su haber del retiro correspondiente a dos años.
+
+Respecto al haber del retiro de las y los magistrados designados por el Pleno del Congreso del Estado previo a la entrada en vigor del decreto 496/2022, publicado en fecha 04 de mayo del año 2022, tendrán derecho a su haber del retiro en términos del marco normativo constitucional local bajo el cual fueron designados.
+
+Para el caso de las personas juzgadoras de primera instancia que participen en la elección del año 2027 que opten por participar en el proceso ordinario electoral del referido año y no obtengan el cargo, en todos los casos, tendrán derecho a las prestaciones y, en su caso, a las indemnizaciones a las que haya lugar estrictamente en términos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán. Para dar cumplimiento a lo anterior, el Poder Judicial del Estado deberá prever los recursos necesarios en el presupuesto para ese año.
+
+Los recursos humanos, materiales y presupuestales asignados al Consejo de la Judicatura del Poder Judicial pasarán a formar parte del Órgano de Administración del Poder Judicial del Estado en los términos y plazos a los que haya lugar para dar cumplimiento a este decreto.
+
+Asuntos en trámite
+
+Artículo décimo tercero. Todos los trámites, procesos y demás documentos realizados previos a la entrada en vigor de este decreto, se continuarán hasta su finalización en términos de las leyes y previsiones en las cuales se instaron.
+
+El Consejo de la Judicatura continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental al Tribunal de Disciplina Judicial o al órgano de administración del poder judicial, según corresponda.
+
+Ajustes y previsiones presupuestales para el ejercicio fiscal del año 2025 del Poder Judicial del Estado
+
+Artículo décimo cuarto. El Poder Judicial del Estado, deberá ajustar el presupuesto previsto para el presente ejercicio fiscal 2025 para dar cumplimiento a este decreto.
+
+Acuerdos Generales, ajustes y previsiones presupuestales para el ejercicio fiscal del año 2025 del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Artículo décimo quinto. El Instituto Electoral y de Participación Ciudadana de Yucatán podrá emitir los acuerdos generales, hacer los ajustes presupuestales y realizar todas las gestiones necesarias respecto al ejercicio fiscal 2025 o posteriores a este para dar cumplimiento a lo dispuesto en este decreto, con respecto a la organización del proceso electoral previsto en el mismo decreto.
+
+Para dar cumplimiento a lo previsto en este decreto, la elección de magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios y del Tribunal de Disciplina Judicial se realizará en todo el Estado y, para efectos de la elección de jueces, esta se hará de acuerdo con la integración en los distritos electorales y los criterios que para tal finalidad determine la autoridad electoral estatal.
+
+Derogación expresa
+
+Artículo décimo sexto. Se abroga la Ley de Justicia Constitucional para el Estado de Yucatán, publicada a través del decreto 389 de fecha 01 de marzo del año 2011.
+
+Derogación tácita
+
+Artículo décimo séptimo. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido de este decreto.
