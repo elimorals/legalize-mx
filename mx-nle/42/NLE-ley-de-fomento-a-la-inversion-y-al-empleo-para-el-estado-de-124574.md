@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2023-05-16"
+last_updated: "2025-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -219,9 +219,17 @@ XII. Emitir opinión del proyecto de reglamento de la Ley, presentado por la Sec
 
 XIII. Aplicar el presupuesto que se asigne anualmente al Fideicomiso;
 
-XIV. Participar con propuestas y emitir opinión en la elaboración de iniciativas de leyes y reglamentos que sean relacionadas a esta Ley; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2025)</small>
 
-XV. Las demás que se deriven de esta Ley o sean expresas en el reglamento de la Ley, en cumplimiento de cualquier artículo de la misma.
+XIV. A solicitud del H. Congreso del Estado de Nuevo León, participar con propuestas y emitir opinión en la elaboración de iniciativas de leyes y reglamentos que sean relacionadas a esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2025)</small>
+
+XV. En el caso de concretarse proyectos de inversión que se consideren relevantes para el Estado, proponer las obras, adecuaciones y políticas públicas necesarias para garantizar la prestación de servicios y las condiciones de seguridad y sostenibilidad en el entorno.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MARZO DE 2025)</small>
+
+XVI. Las demás que se deriven de esta Ley o sean expresas en el reglamento de la Ley, en cumplimiento de cualquier artículo de la misma.
 
 ###### Artículo 12.
 
@@ -900,3 +908,9 @@ P.O. 16 DE MAYO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo de Desarrollo Económico contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 5 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 057. SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 11 Y SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 11 DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
