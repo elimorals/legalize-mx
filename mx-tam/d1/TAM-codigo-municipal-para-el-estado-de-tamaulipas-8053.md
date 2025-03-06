@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2024-10-21"
+last_updated: "2025-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -825,11 +825,15 @@ LXVI.- Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la eje
 
 LXVII.- Brindar y garantizar a las y los periodistas un trato digno, en condiciones de igualdad y no discriminación, a fin de que tengan acceso a la información derivada de la actividad municipal y estén en condiciones del pleno ejercicio de su labor informativa;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2025)</small>
 
-LXVIII.- Coordinar acciones con las autoridades competentes para la atención de animales abandonados en la vía pública, a efecto de canalizarlos a los centros de control animal, refugios o criaderos legalmente establecidos o a las instalaciones para el resguardo de animales de las asociaciones protectoras de animales legalmente constituidas y registradas. De igual forma, establecer en coordinación con la Secretaría de Salud del Estado, campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización; y
+LXVIII.- Coordinar acciones con las autoridades competentes para la atención de animales abandonados en la vía pública, a efecto de canalizarlos a los centros de control animal, refugios o criaderos legalmente establecidos o a las instalaciones para el resguardo de animales de las asociaciones protectoras de animales legalmente constituidas y registradas. De igual forma, establecer en coordinación con la Secretaría de Salud del Estado, campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización;
 
-LXIX.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2025)</small>
+
+LXIX.- Fomentar la prestación gratuita de servicios de colocación laboral o profesional para promover el mayor número de empleos entre las y los habitantes del municipio; y
+
+LXX.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2024)</small>
 
@@ -1237,7 +1241,11 @@ XIX.- De Anticorrupción.
 
 XX.- Comisión de Movilidad.
 
-XXI.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2025)</small>
+
+XXI.- De Asuntos Fronterizos y Migratorios, la cual será nombrada en los municipios que se encuentran en la zona fronteriza del Estado; y
+
+XXII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -7192,6 +7200,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P. O. 21 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-14 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 73, PÁRRAFO PRIMERO; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO A LA FRACCIÓN IX DEL ARTÍCULO 49; Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN VII DEL ARTÍCULO 55 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-254 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXVIII Y SE ADICIONA LA FRACCIÓN LXIX, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN NATURAL, DEL ARTÍCULO 49 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-255 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXI, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL, AL ARTÍCULO 64, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
