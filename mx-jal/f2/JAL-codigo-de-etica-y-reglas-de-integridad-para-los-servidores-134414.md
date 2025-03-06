@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-y-reglas-de-integridad-para-los-servidores-1344
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-12"
-last_updated: "2019-03-12"
+last_updated: "2025-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE ETICA Y REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA E INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2025 (ABROGADO).
 
 Código publicado en la Sección VIII al Número 16 del Periódico Oficial del Estado de Jalisco, el martes 12 de marzo de 2019.
 
@@ -1054,3 +1056,19 @@ MARÍA TERESA BRITO SERRANO
 Contralora del Estado
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIELAG ACU 018/2025 DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO Y DE LA CONTRALORA DEL ESTADO POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA E INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se abroga el Acuerdo por el que se emite el "Código de Ética y Reglas de Integridad para los Servidores Públicos de la Administración Pública del Estado de Jalisco", publicado en el Periódico Oficial "El Estado de Jalisco", el día 12 de marzo del año 2019.
+
+Tercero. En los casos en los que alguna disposición legal y administrativa haga referencia al "Código de Ética y Reglas de Integridad para los Servidores Públicos de la Administración Pública del Estado de Jalisco", se entenderá el presente Acuerdo que expide el presente Código de Ética e Integridad.
+
+Cuarto. La Contraloría del Estado contará con un término de 30 días hábiles a partir de la fecha de entrada en vigor del presente Código para expedir los Lineamientos de integración y funcionamiento de los Comités de Ética e Integridad.
+
+Quinto. Los Entes Públicos que a partir de la fecha de entrada en vigor del presente Código no tengan constituido un Comité de Ética e Integridad, contarán con un término de 90 días hábiles para su conformación, atendiendo a lo dispuesto por los Lineamientos de su integración.
