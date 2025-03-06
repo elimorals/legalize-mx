@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2024-08-21"
+last_updated: "2025-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -793,7 +793,9 @@ XVI. Solicitar a las autoridades competentes la expropiación, ocupación tempor
 
 XVII. Cobrar los derechos por los servicios públicos que preste en términos de ley;
 
-XVIII. Realizar las visitas de inspección y verificación conforme lo establecido en esta Ley;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2025)</small>
+
+XVIII. Realizar las visitas de inspección y verificación de manera permanente y eficiente, conforme lo establecido en la ley, con la finalidad de vigilar el correcto uso del agua en los servicios públicos urbanos;
 
 XIX. Resolver los recursos y demás medios de impugnación interpuestos en contra de sus actos o resoluciones;
 
@@ -2957,7 +2959,9 @@ I. El uso de los servicios públicos sea el contratado;
 
 II. El funcionamiento de las instalaciones hidráulicas sea acorde a lo que se disponga en la autorización concedida;
 
-III. El funcionamiento de los medidores y las causas de alto o bajo consumo;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2025)</small>
+
+III. El funcionamiento y buen estado de los medidores de volúmenes de agua instalados por el prestador de los servicios públicos en las tomas domiciliarias;
 
 IV. El diámetro exacto de las tomas y de las conexiones de las descargas;
 
@@ -3663,4 +3667,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 El Estado y los Ayuntamientos deberán prever en el ejercicio fiscal del próximo año, los recursos necesarios para la implementación del presente Decreto.
 
+P.O. 6 DE MARZO DE 2025.
+
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-894 MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-251 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN XVIII, Y 176, FRACCIÓN III, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
