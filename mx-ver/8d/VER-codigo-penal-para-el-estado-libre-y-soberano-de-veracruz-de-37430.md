@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2024-08-21"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -545,17 +545,25 @@ III. El pago de gastos e intereses legales; y
 
 IV. Tratándose de delitos que afecten la vida y la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo.
 
-> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 7 DE MARZO DE 2025)</small>
 
-V. En los casos de delitos contra la libertad y seguridad sexual, violencia familiar, violencia de género y lesiones que sean con violencia de género, así como el de feminicidio, la reparación incluirá:
+V. En los casos de delitos contra la libertad y seguridad sexual, violencia familiar, violencia vicaria, violencia de género y lesiones que sean con violencia de género, así como en el de feminicidio, la reparación incluirá:
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 a) Las hipótesis contenidas en las fracciones anteriores;
 
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
 b) El restablecimiento de su dignidad, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 c) La reparación por la afectación en su entorno laboral, educativo, comunitario, y psicológico, a fin de lograr su restablecimiento; ante la imposibilidad de éste, la indemnización correspondiente, en los términos de la fracción VIII del artículo 11 del Código de Procedimientos Penales para el Estado de Veracruz de Ignacio de la Llave.
 
 La indemnización a que se refiere el párrafo anterior se cuantificará con base en diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, el cambio de domicilio, la pérdida de instrumentos de trabajo y demás datos relevantes que permitan realizar la cuantificación correspondiente; y
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 d) El pago de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos e hijas menores de edad o discapacitados, cuando como consecuencia del delito sufrido se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
 
@@ -4483,7 +4491,9 @@ A quien obstaculice o condicione el acceso de una mujer a un empleo, mediante el
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
+### CAPÍTULO VII QUATER. VIOLENCIA VICARIA
+
+> <small>(ADICIONADO, G.O. 7 DE MARZO DE 2025)</small>
 
 ###### Artículo 367.
 
@@ -4497,9 +4507,7 @@ III. Utilice lenguajes, imágenes, materiales educativos de todo tipo o práctic
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. DELITOS CONTRA LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 367 Bis.
 
@@ -4533,23 +4541,35 @@ En la configuración del delito, no es necesario que se acredite la personalidad
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 22 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+### CAPÍTULO I. DELITOS CONTRA LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 367 Ter.
 
 (DEROGADO, G.O. 15 DE SEPTIEMBRE DE 2020)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 7 DE MARZO DE 2025)</small>
+
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 367 Quater.
+
+A quien realice cualquier acto u omisión que tenga el propósito de causar perjuicio o daño a una mujer, con la que se tenga o haya tenido relación de matrimonio, concubinato o mantenga o haya mantenido una relación de hecho con la persona agresora, incluso cuando no se cohabite en el mismo domicilio, dirigido contra familiares o personas adultas mayores que compartan un vínculo filial o consanguíneo, utilizando o instrumentalizando a sus hijas o hijos, o a través de un animal doméstico o de compañía, se impondrán de dos a seis años de prisión y multa de hasta quinientas unidades de medida y actualización, además de las que las leyes prevean.
+
+La violencia vicaria se manifiesta a través de las conductas establecidas en la fracción XI del artículo 7 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave.
+
+Este delito se perseguirá por querella e independientemente de otros que puedan ser sancionados en términos de este Código y demás disposiciones legales aplicables.
+
+Cuando la Fiscalía advierta la existencia de hechos que pudieran constituir violencia vicaria, deberá solicitar a la autoridad judicial o en su caso, dictar las medidas de protección que correspondan, conforme a lo previsto en el Código Nacional de Procedimientos Penales, en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave y demás disposiciones aplicables, las autoridades locales deberán coordinarse para garantizar la protección inmediata de la víctima, para salvaguardar su integridad física, psíquica y emocional, durante la integración de la investigación inicial y hasta la conclusión de ésta.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
 
 > <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
-
-### CAPÍTULO IV. DELITOS CONTRA LA SEGURIDAD DE LA COMUNIDAD
-
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 368.
 
@@ -4582,6 +4602,10 @@ Al sujeto activo de los delitos considerados en este Título, se le aplicarán m
 Estas medidas reeducativas tienen por objeto eliminar los estereotipos de supremacía de género y los patrones de conducta machistas y misóginos, que generaron la conducta delictiva.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, G.O. 27 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO IV. DELITOS CONTRA LA SEGURIDAD DE LA COMUNIDAD
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 371.
 
@@ -5566,3 +5590,13 @@ G.O. 21 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Estado de Veracruz.
+
+SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, adiciones y modificaciones necesarias a su normatividad interna, así como la capacitación a su personal, para garantizar la debida aplicación, investigación y persecución de la Violencia Vicaria.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
