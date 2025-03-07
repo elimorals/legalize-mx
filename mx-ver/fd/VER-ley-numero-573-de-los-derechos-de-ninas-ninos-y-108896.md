@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-los-derechos-de-ninas-ninos-y-108896"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-03"
-last_updated: "2024-12-26"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 3 de julio de 2015.
 
@@ -199,13 +199,17 @@ XXXVII. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de
 
 XXXVIII. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
 
-XXXIX. Trabajo Infantil. Se alude a la actividad que es peligrosa y perjudicial para el bienestar físico, mental o emocional de niñas, niños y adolescentes; interfiere con su escolarización puesto que les priva de la posibilidad de asistir a clases; les obliga a abandonar la escuela de forma prematura, o les exige combinar el estudio con un trabajo pesado y que consume mucho tiempo, privándoles de aprovechar su potencial, disfrutar su niñez y sano desarrollo, afectando su dignidad; y
+XXXIX. Trabajo Infantil. Se alude a la actividad que es peligrosa y perjudicial para el bienestar físico, mental o emocional de niñas, niños y adolescentes; interfiere con su escolarización puesto que les priva de la posibilidad de asistir a clases; les obliga a abandonar la escuela de forma prematura, o les exige combinar el estudio con un trabajo pesado y que consume mucho tiempo, privándoles de aprovechar su potencial, disfrutar su niñez y sano desarrollo, afectando su dignidad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
 
-XL. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XL. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2025)</small>
+
+XLI. Violencia Vicaria. Cualquier acto u omisión que tenga el propósito de causar perjuicio o daño a una mujer, con la que tenga o haya tenido relación de matrimonio, concubinato o mantenga o se haya mantenido una relación de hecho con la persona agresora, incluso cuando no se cohabite en el mismo domicilio, dirigido contra familiares o personas adultas mayores que compartan un vínculo filial o consanguíneo, utilizando o instrumentalizando a sus hijas o hijos, o a través de un animal doméstico o de compañía.
 
 ###### Artículo 5.
 
@@ -635,6 +639,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2025)</small>
+
+Ante cualquier caso de violencia vicaria, el gobierno estatal y los gobiernos municipales, la Fiscalía General del Estado, así como las autoridades jurisdiccionales, en el ámbito de sus respectivas atribuciones, gratuitamente y con el apoyo de especialistas, deberán proporcionar atención y tratamiento psicológico a las víctimas directas e indirectas, en aras de consolidar un vínculo familiar entre hijas e hijos con la madre o tutora, vínculos materno filiales y reparar el daño que se les haya causado.
+
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 40 Bis.
@@ -645,7 +653,9 @@ Queda prohibida la asistencia y entrada de menores de edad a las corridas de tor
 
 Las autoridades estatales y municipales, así como los organismos autónomos del Estado, en el ámbito de sus respectivas competencias, están obligadas a:
 
-I. Adoptar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 7 DE MARZO DE 2025)</small>
+
+I. Adoptar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes sean afectados por:
 
 a. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
@@ -666,6 +676,10 @@ f. La incitación o coacción para que participen en la comisión de delitos o e
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2024)</small>
 
 g. El tráfico de menores.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2025)</small>
+
+h. Violencia vicaria, atendiendo a lo dispuesto por esta Ley, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y la normatividad civil y penal correspondiente.
 
 II. Implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad; así como considerar la perspectiva de género en las situaciones de violencia;
 
@@ -1553,7 +1567,9 @@ II. Impulsar la cooperación y coordinación de las autoridades estatales y muni
 
 III. Celebrar convenios de colaboración con los Sistemas DIF Municipales, así como con organizaciones e instituciones de los sectores público, privado y social;
 
-IV. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia;
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
+
+IV. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como en el sector educativo y el de salud, para realizar y apoyar estudios e investigaciones en la materia con perspectiva de género, interseccional, de infancias y de adolescencias;
 
 V. Prestar apoyo y colaboración técnica y administrativa, en las materias reguladas en esta Ley, a los municipios; y
 
@@ -1875,7 +1891,9 @@ X. Realizar acciones de formación y capacitación de manera sistémica y contin
 
 XI. Celebrar convenios de coordinación en la materia, para el cumplimiento de los objetivos de la presente Ley;
 
-XII. Auxiliar a la Procuraduría Estatal de Protección, a través de su representación municipal, en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones; y
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
+
+XII. Coadyuvar con la Procuraduría Estatal de Protección, a través de su representación municipal, en las medidas urgentes de protección que ésta determine y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE MARZO DE 2021)</small>
 
@@ -2284,3 +2302,13 @@ G.O. 26 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Estado de Veracruz.
+
+SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, adiciones y modificaciones necesarias a su normatividad interna, así como la capacitación a su personal, para garantizar la debida aplicación, investigación y persecución de la Violencia Vicaria.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
