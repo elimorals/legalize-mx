@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2025-02-13"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -90,6 +90,10 @@ V. Empoderamiento: el proceso mediante el cual las mujeres transitan de cualquie
 VI. Equidad: el principio que busca alcanzar la justicia social con responsabilidad, mediante la valoración de la individualidad, considerando las diferencias existentes entre personas y grupos, para establecer mecanismos que les permitan alcanzar la igualdad, desde sus diversas circunstancias y características;
 
 VII. Igualdad: el principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualesquiera otra situación de las personas;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2025)</small>
+
+VII Bis. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
 
 VIII. Instituto: el Instituto de las Mujeres del Estado de San Luis Potosí;
 
@@ -166,6 +170,10 @@ c) No propiciar el apego precoz del niño con la madre, sin causa médica justif
 d) Alterar el proceso natural de parto de bajo riesgo, mediante su patologización, abuso de medicación, uso de técnicas de aceleración, sin que ellas sean necesarias.
 
 e) Practicar el parto vía cesárea sin autorización de la madre cuando existan condiciones para el parto natural;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2025)</small>
+
+XII Bis. La violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
 XIII. Violencia patrimonial: cualquier acto u omisión que afecta la situación patrimonial de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
@@ -311,7 +319,9 @@ XII. Acceder a procedimientos expeditos y accesibles de procuración e impartici
 
 XIII. No ser revictimizadas;
 
-XIV. Acceder a la atención integral, multidiciplinaria (sic), trasversal y bajo el mismo techo en los centros de justicia para las mujeres;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2025)</small>
+
+XIV. Acceder a la atención integral, intercultural, multidiciplinaria (sic), trasversal y bajo el mismo techo en los centros de justicia para las mujeres
 
 XV. Recibir información en su idioma o lengua materna sobre sus derechos y el progreso de los trámites judiciales y administrativos, y
 
@@ -851,9 +861,9 @@ El Centro de Justicia para las Mujeres llevará a cabo las funciones que le corr
 
 Corresponde a la Fiscalía General del Estado:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2025)</small>
 
-I. Capacitar a la Policía Investigadora, fiscales del Ministerio Público, peritos, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, con pleno respeto a los derechos humanos de las mujeres, y de conformidad con los protocolos especializados, los casos de violencia contra las mujeres evaluando permanentemente su desempeño;
+I. Capacitar a la Policía Investigadora, fiscales del Ministerio Publico, peritos, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, interculturalidad; con pleno respeto a los derechos humanos de las mujeres, y de conformidad con los protocolos especializados, los casos de violencia contra las mujeres evaluando permanentemente su desempeño;
 
 II. Establecer un área específica especializada en la atención de delitos que impliquen violencia contra las mujeres;
 
@@ -1760,3 +1770,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. Las dependencias y entidades competentes en el ambito estatal y municipal, deberán hacer las adecuaciones normativas correspondientes con base en el presente decreto.
+
+P.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0170.- SE REFORMAN LOS ARTÍCULOS 8° EN SU FRACCIÓN XIV Y 30 EN SU FRACCIÓN I; Y ADICIONA A LOS ARTÍCULOS 3° LA FRACCIÓN VII BIS Y 4° LA FRACCIÓN XII BIS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
