@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-259-de-victimas-para-el-estado-de-veracruz-de-120709
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-04"
-last_updated: "2018-11-29"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 259 DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el martes 4 de abril de 2017.
 
@@ -1529,7 +1529,9 @@ El reconocimiento de la calidad de víctima tendrá como efecto:
 
 I. El acceso a los derechos, garantías, acciones, mecanismos y procedimientos, en los términos de esta Ley y las disposiciones reglamentarias; y
 
-II. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño atender adecuadamente la defensa de sus derechos; que el juez de la causa o la autoridad responsable del procedimiento, de inmediato, suspendan todos los juicios y procedimientos administrativos y detengan los plazos de prescripción y caducidad, así como todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
+
+II. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, violencia vicaria, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño atender adecuadamente la defensa de sus derechos; que el juez de la causa o la autoridad responsable del procedimiento, de inmediato, suspendan todos los juicios y procedimientos administrativos y detengan los plazos de prescripción y caducidad, así como todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
 
 Al reconocerse su calidad de víctima, ésta podrá acceder a los recursos del Fondo y a la reparación integral, de conformidad con lo previsto en la presente ley y en el Reglamento. El procedimiento y los elementos a acreditar, se determinarán en el Reglamento correspondiente.
 
@@ -2246,3 +2248,13 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Estado de Veracruz.
+
+SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, adiciones y modificaciones necesarias a su normatividad interna, así como la capacitación a su personal, para garantizar la debida aplicación, investigación y persecución de la Violencia Vicaria.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
