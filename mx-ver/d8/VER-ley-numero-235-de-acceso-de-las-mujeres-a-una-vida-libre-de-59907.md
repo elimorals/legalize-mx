@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2024-08-21"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -102,6 +102,10 @@ IV. Atención: Es el conjunto de servicios especializados, integrales y gratuito
 V. Celotipia: Ejercicio de violencia, sometimiento, control, manipulación y dominio sobre las mujeres causado por la pasión de los celos;
 
 VI. Debida Diligencia: Obligación que se deriva de la responsabilidad del Estado de hacer lo máximo para reconocer, proteger y garantizar los derechos de las mujeres;
+
+> <small>(ADICIONADA, G.O. 7 DE MARZO DE 2025)</small>
+
+VI Bis. Daño: Acción, omisión o hecho ilícito que afecte la integridad física, afectación a la imagen pública, denostación mediática o digital, emocional, psicológica, económica, patrimonial, sexual, social y otras formas de discriminación por razón de género o diversidad sexual que afecten a las mujeres, su entorno social, ambiental, filial, consanguíneo y todas las formas de discriminación por razón de género o diversidad sexual;
 
 VII. Derechos Humanos de las Mujeres y las Niñas: Son los contenidos en la Declaración Universal de los Derechos Humanos, la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
 
@@ -214,6 +218,38 @@ IX. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, l
 > <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2024)</small>
 
 X. Violencia Ácida: Es aquella que pretende causar daño físico irreversible que lastime, altere o cause alguna discapacidad, mediante la acción de arrojar ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, líquidos a altas temperaturas o cualquier otra sustancia que pueda provocar o no lesiones en órganos internos o externos o en ambos.
+
+> <small>(ADICIONADA, G.O. 7 DE MARZO DE 2025)</small>
+
+XI. Violencia Vicaria: Cualquier acto u omisión que tenga el propósito de causar perjuicio o daño a una mujer, con la que se tenga o haya tenido relación de matrimonio, concubinato o mantenga o se haya mantenido una relación de hecho con la persona agresora, incluso cuando no se cohabite en el mismo domicilio, dirigido contra familiares o personas adultas mayores que compartan un vínculo filial o consanguíneo, utilizando o instrumentalizando a sus hijas o hijos, o a través de un animal doméstico o de compañía.
+
+Constituye violencia vicaria las siguientes conductas:
+
+a. Amenazar con causar daño a hijas e hijos, familiares, personas cuidadoras, personas adultas mayores, o a través de un animal doméstico o de compañía;
+
+b. Amenazar con ocultar, retener, o sustraer a hijas e hijos, familiares, personas adultas mayores, o a través de un animal doméstico o de compañía, fuera de su domicilio o de su lugar habitual de residencia;
+
+c. Utilizar a hijas o hijos, familiares o personas adultas mayores, para obtener información respecto de ellas;
+
+d. Promover, incitar o fomentar actos de violencia física de hijas o hijos en contra de la mujer;
+
+e. Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f. Ser inducida al suicidio, a través del deterioro de la salud mental y física;
+
+g. Ocultar, retener o sustraer a hijas o hijos, así como familiares, personas adultas mayores, un animal doméstico o de compañía;
+
+h. Condicionar el cumplimiento de las obligaciones de cuidado, alimentos y otras prestaciones a las mujeres y a sus hijas e hijos;
+
+i. Ser violentada por parte de la persona con quien se tenga o haya tenido un vínculo afectivo o a través de una tercera persona;
+
+j. Ejercer violencia sexual hacia las personas con vínculos filiales, consanguíneos o familiares de la víctima, con el propósito de infligir sufrimiento, control, humillación y castigo para someterla;
+
+k. Amenazar con interrumpir los tratamientos médicos o farmacológicos de niñas y niños cuando deberían estar en tratamiento; y
+
+l. Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de hijas o hijos en común.
+
+Las conductas enlistadas deberán entenderse de manera enunciativa mas no limitativa.
 
 > <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
@@ -483,15 +519,15 @@ XII. Las demás que sean propuestas por las instituciones que integran el Observ
 
 Los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una vida libre de violencia digital y mediática y tomarán en consideración los daños que éstas puedan generar en las víctimas.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], G.O. 7 DE MARZO DE 2025)</small>
 
-### CAPÍTULO XI. DE LA VIOLENCIA EN LOS ESPACIOS PÚBLICOS
+### CAPÍTULO XI. DE LA VIOLENCIA VICARIA
 
-> <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 7 DE MARZO DE 2025)</small>
 
 ###### Artículo 13 Decies.
 
-Las autoridades estatales y municipales y los organismos autónomos, en el ámbito de sus competencias, tomarán todas las medidas necesarias para garantizar a las mujeres el ejercicio pleno del derecho a una vida libre de violencia en los espacios públicos.
+Ante cualquier caso de violencia vicaria, los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus respectivas atribuciones, gratuitamente y con el apoyo de especialistas, deberán proporcionar atención y tratamiento psicológico a las víctimas directas e indirectas, en aras de consolidar un vínculo familiar entre hijas e hijos con la madre o tutora, y vínculos materno filiales y de reparar el daño que se les haya causado, atendiendo los estándares y elementos para juzgar con perspectiva de género, incorporándolos en la administración de justicia y reparación del daño, garantizando a la mujer el derecho de acceso a una vida libre de violencia.
 
 ## TÍTULO TERCERO. DEL SISTEMA Y DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -733,9 +769,9 @@ Corresponde a la Fiscalía General del Estado:
 
 I. Garantizar mecanismos expeditos en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 21 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 7 DE MARZO DE 2025)</small>
 
-II. Contar con Fiscales Especializadas para la investigación y persecución de los delitos de violencia de género, feminicidio y violencia familiar en caso de que la víctima sea niña o mujer. Realizarán sus funciones bajo los principios de perspectiva de género y debida diligencia. Quienes, además:
+II. Contar con Fiscalías Especializadas para la investigación y persecución de los delitos de violencia de género, feminicidio, violencia familiar y violencia vicaria en caso de que la víctima sea niña, adolescente o mujer. Se Aplicarán los estándares establecidos dentro del protocolo y el manual para juzgar con perspectiva de género y enfoque de interseccionalidad, bajo los principios de perspectiva de género, de infancias y de adolescencias, quienes, además:
 
 a) Deberán cumplir, como mínimo, los requisitos de ingreso y permanencia que establecen las leyes aplicables; tener el perfil que establezca la Fiscalía General en el Reglamento respectivo y acreditar los cursos de especialización, capacitación y de actualización correspondientes; y
 
@@ -743,7 +779,9 @@ b) Estarán dotadas de los recursos humanos, materiales y técnicos especializad
 
 Las Fiscales Especializadas, así como el personal ministerial, policial, pericial y psicosocial que las apoyen, deberán contar con la capacitación y actualización especializada que determine la Fiscalía General, conforme a los más altos estándares internacionales acreditables, en las materias de derechos humanos, perspectiva de género, sensibilización y atención a mujeres víctimas de violencia, así como de aplicación de protocolos de investigación de los delitos de violencia contra mujeres, entre otros.
 
-La Fiscalía General contará con una Unidad de Análisis para la investigación de los delitos de violencia de género, feminicidio y violencia familiar en caso de que la víctima sea niña o mujer. La cual deberá estar integrada con los equipos multidisciplinarios de análisis e investigación necesarios;
+> <small>(REFORMADO, G.O. 7 DE MARZO DE 2025)</small>
+
+La fiscalía general contará con una Unidad de Análisis para la investigación del delito de violencia familiar y todos aquellos previstos en el Título de Violencia de Género del Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en caso de que la víctima sea niña, adolescente o mujer, la cual deberá estar integrada con los equipos multidisciplinarios de análisis e investigación necesarios;
 
 III. Brindar a las mujeres víctimas de violencia la asistencia y orientación jurídica adecuada, de conformidad con los ordenamientos aplicables;
 
@@ -969,7 +1007,9 @@ V. Recibir información médica y psicológica; si la víctima no hablare españ
 
 VI. Contar con un refugio, mientras lo necesiten;
 
-VII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir con ellos a los refugios;
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
+
+VII. En los casos de violencia familiar o violencia vicaria, las mujeres que tengan hijas o hijos podrán acudir con ellos a los refugios;
 
 VIII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación, o que las revictimice; y
 
@@ -1193,15 +1233,21 @@ III. Prohibición inmediata al agresor de molestar por cualquier forma y medio, 
 
 IV. Facilitar el acceso de la víctima al domicilio en común con auxilio de autoridades policíacas o de personal calificado del Sistema para el Desarrollo Integral de la Familia, para que aquélla tome sus objetos de uso personal, documentos de identidad u otros importantes de su propiedad y de sus hijas e hijos.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2018, SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN VI ES SIMILAR A LA ACTUAL V.]</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 7 DE MARZO DE 2025)</small>
+
+La autoridad policíaca vigilará, fuera del domicilio, la ejecución de la diligencia, interviniendo en caso de flagrancia;
 
 > <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
 V. Advertir a la persona agresora de las consecuencias a que se hará acreedora de acercarse al domicilio, lugar de trabajo, de estudios, de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima; o intentar cualquier acto en su contra.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2018, SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN V ES SIMILAR A LA ACTUAL VI.]</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 7 DE MARZO DE 2025)</small>
 
-VI. Advertir a la persona agresora de las consecuencias a que se hará acreedora de acercarse a la víctima o intentar cualquier acto en su contra.
+VI. Ordenar a favor de la mujer víctima, la restitución, recuperación o entrega inmediata, de sus hijas o hijos, personas con quien tenga vínculo filial o de consanguineidad, o que no tengan capacidad de comprender el hecho o con quien se tenga la responsabilidad de cuidado económico, así como de un animal doméstico o de compañía, que hayan sido sustraídas, retenidas u ocultadas de forma ilícita; y
+
+> <small>(ADICIONADA, G.O. 7 DE MARZO DE 2025)</small>
+
+VII. Ordenar la suspensión temporal del régimen de visitas y convivencia, a la persona agresora.
 
 ###### Artículo 44.
 
@@ -1412,3 +1458,13 @@ G.O. 21 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, DEL CÓDIGO CIVIL PARA ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Estado de Veracruz.
+
+SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, adiciones y modificaciones necesarias a su normatividad interna, así como la capacitación a su personal, para garantizar la debida aplicación, investigación y persecución de la Violencia Vicaria.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
