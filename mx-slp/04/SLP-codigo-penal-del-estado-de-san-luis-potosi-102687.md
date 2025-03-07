@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2024-11-12"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1453,7 +1453,9 @@ Efectos de la prescripción
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad y para ello bastará el transcurso del tiempo señalado por la ley.
 
-Los delitos de, violación; feminicidio; homicidio calificado; homicidio en razón de parentesco; secuestro y desaparición forzada de personas, son imprescriptibles.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2025)</small>
+
+Los delitos de, violación; estupro; feminicidio; homicidio calificado; homicidio en razón de parentesco; secuestro y desaparición forzada de personas, son imprescriptibles. Igualmente serán imprescriptibles los delitos de abuso sexual; hostigamiento sexual; acoso sexual; y difusión ilícita de imágenes, cuando la víctima fuere una persona menor de dieciocho años edad.
 
 Los plazos para la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio nacional, si por esta circunstancia no es posible integrar una carpeta de investigación, concluir un proceso, o ejecutar una sanción.
 
@@ -5984,3 +5986,11 @@ P.O. 12 DE NOVIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 0007.- SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN III DEL ARTÍCULO 148, ASÍ COMO EL PÁRRAFO PRIMERO Y FRACCIONES I Y II DEL ARTÍCULO 150; SE ADICIONA UNA FRACCIÓN, ESTA COMO IV, AL ARTÍCULO 148; Y DEROGA LAS FRACCIONES I Y II DEL ARTÍCULO 148, EL ARTÍCULO 149 Y LA FRACCIÓN III DEL ARTÍCULO 150, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 ÚNICO. Este Decreto será vigente el día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+P.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0169.- SE REFORMA EL ARTÍCULO 110 EN SU PÁRRAFO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
