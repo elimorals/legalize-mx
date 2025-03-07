@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-05-2015-del-presidente-de-110
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-10"
-last_updated: "2019-06-25"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-11-04"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015 DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EXPIDEN LOS LINEAMENTOS TEMPORALES PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2025.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de noviembre de 2015.
 
@@ -153,17 +153,7 @@ Procederá el desglose de asuntos en los casos en que la materia de la solicitud
 
 Se acumularán los asuntos cuando en diversas solicitudes se requiera la misma información, de manera que se integre un solo expediente. La acumulación procede no obstante que la información obre en archivos de diversos órganos.
 
-Artículo 5
-
-De las obras editadas por el Poder Judicial de la Federación
-
-Tratándose de obras electrónicas editadas por el Poder Judicial de la Federación, no se podrá realizar la reproducción de la información cuando ésta se encuentre disponible para venta en las librerías ubicadas en el país o en cualquier otro punto de distribución de la Suprema Corte.
-
-De no existir la posibilidad para adquirir la obra electrónica, el solicitante podrá acudir ante cualquier Módulo de Información y Acceso a la Justica para formular su petición, la cual se tramitará mediante el procedimiento ordinario.
-
-Ningún Módulo de Información y Acceso a la Justica podrá realizar por sí mismo la reproducción de una obra electrónica editada por el Poder Judicial de la Federación, aun cuando dicha información sea pública.
-
-Tratándose de obras editadas por el Poder Judicial de la Federación, se deberá atender al precio fijado para su venta al público, siempre y cuando el mismo esté aprobado por el órgano competente para dicho fin.
+Artículo 5 (DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2025, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE MARZO DE DOS MIL VEINTICINCO, S.J.F. 7 DE MARZO DE 2025)
 
 Artículo 6
 
@@ -712,3 +702,19 @@ PRIMERO. El presente Acuerdo General entrará en vigor el día de su expedición
 SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente Acuerdo General de Administración.
 
 TERCERO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación, sin menoscabo de que la Dirección General de Asuntos Jurídicos difunda el texto íntegro actualizado de los Acuerdos Generales de Administración 4/2015 y 5/2015 en esos medios electrónicos. CÚMPLASE.
+
+S.J.F. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2025, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE MARZO DE DOS MIL VEINTICINCO, QUE DEROGA, ADICIONA Y REFORMA EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO X/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE EXPIDEN LAS BASES PARA EL FUNCIONAMIENTO DEL COMITÉ DE PUBLICACIONES Y POLÍTICA EDITORIAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Hasta en tanto entren en funciones el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial, la coordinación a la que alude el artículo Décimo Quinto del Acuerdo General de Administración X/2019, se realizará con el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Se deroga el artículo 5 del Acuerdo General de Administración 05/2015 del tres de noviembre de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se expiden los lineamientos temporales para regular el procedimiento administrativo interno de acceso a la información pública, así como el funcionamiento y atribuciones del Comité de Transparencia de la Suprema Corte de Justicia de la Nación.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+QUINTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración número X/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de tres de septiembre de dos mil diecinueve, por el que se expiden las bases para el funcionamiento del Comité de Publicaciones y Política Editorial de la Suprema Corte de Justicia de la Nación, y háganse las anotaciones conducentes en el Acuerdo General de Administración 05/2015 del tres de noviembre de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se expiden los lineamientos temporales para regular el procedimiento administrativo interno de acceso a la información pública, así como el funcionamiento y atribuciones del Comité de Transparencia de la Suprema Corte de Justicia de la Nación. Lo anterior, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha integración deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+SEXTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
