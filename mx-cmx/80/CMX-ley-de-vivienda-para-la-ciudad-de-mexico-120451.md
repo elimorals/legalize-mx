@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2024-10-03"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -58,7 +58,9 @@ LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
 La presente Ley es aplicable en el territorio de la Ciudad de México, sus disposiciones son de orden público e interés social y tiene por objeto:
 
-I. Garantizar el derecho a la vivienda como un derecho humano universal conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, al Estatuto de Gobierno del Distrito Federal y los Tratados Internacionales en los que México es parte de la materia.
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
+
+I. Garantizar el derecho a la vivienda como un derecho humano universal conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política de la Ciudad de México y los Tratados Internacionales en los que México es parte de la materia.
 
 II. Establecer los lineamientos generales de la política y los programas de vivienda en la entidad;
 
@@ -464,7 +466,9 @@ VI. Dar seguimiento y opinar sobre los programas de vivienda;
 
 VII. Analizar, dictaminar y, en su caso, aprobar los cambios de zonificacion propuestos por la o el titular de la Jefatura de Gobierno para dar cumplimiento a los Programas de Vivienda; y
 
-VIII. Las demás que otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la Ley Orgánica del Órgano Legislativo de la Ciudad de México, y demás ordenamientos aplicables en la materia.
+> <small>(REFORMADA, G.O. 7 DE MARZO DE 2025)</small>
+
+VIII. Las demás que otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México, la Ley Orgánica del Congreso de la Ciudad de México, y demás ordenamientos aplicables en la materia.
 
 #### SECCIÓN VI. DE LA COORDINACIÓN
 
@@ -1403,5 +1407,13 @@ G.O. 3 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 61 SEXIES DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO; SE ADICIONA EL ARTÍCULO 36 BIS A LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 22 DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación y promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1º EN SU FRACCIÓN I Y EL ARTÍCULO 19 EN SU FRACCIÓN VIII, AMBOS DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
