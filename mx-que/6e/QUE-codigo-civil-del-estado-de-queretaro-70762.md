@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2024-09-20"
+last_updated: "2025-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -309,9 +309,11 @@ El nombre propio podrá constar de uno o varios vocativos, con los que se design
 
 Los apellidos son los vocativos con los cuales se designa a todos y cada uno de los miembros de una familia. El uso de los apellidos se adquiere por filiación del padre y la madre o, en su caso, del que hubiere reconocido al hijo. En su defecto, se adquiere por resolución de autoridad judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2025)</small>
+
 ###### Artículo 37.
 
-Cuando la filiación se establezca por ser hijo nacido del matrimonio, la persona llevará el primer apellido del padre, seguido del primer apellido de la madre. Si se tratare de hijo nacido fuera de matrimonio y la filiación se ha establecido en el mismo acto por ambos padres, llevará igualmente el primer apellido de los progenitores. Y si la filiación se ha establecido por uno solo de los padres, el hijo llevará los apellidos de éste.
+Cuando la filiación se establezca por ser hijo nacido del matrimonio, los padres elegirán libremente el orden de los apellidos. Si se tratare de hijo nacido fuera de matrimonio y la filiación se ha establecido en el mismo acto por ambos padres, estos elegirán libremente el orden de los apellidos. Y si la filiación se ha establecido por uno solo de los padres, el hijo llevará los apellidos de éste.
 
 El hijo adoptivo, tomará los apellidos de los adoptantes con las mismas reglas del artículo anterior.
 
@@ -377,9 +379,13 @@ Salvo lo que dispongan las leyes sobre imprenta, la exhibición o reproducción 
 
 El Registro Civil, es la institución por medio de la cual, el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas, por cuya razón, sus asientos e inscripciones hacen prueba plena.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2025)</small>
 
-Para garantizar el Derecho a la Identidad, todos los registros de nacimiento llevados a cabo en las Oficialías del Registro Civil serán gratuitos. El Oficial del Registro Civil expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
+Para garantizar el Derecho a la Identidad, todos los registros de nacimiento llevados a cabo en las Oficialías del Registro Civil serán gratuitos. El Oficial del Registro Civil expedirá sin costo la primera copia certificada del acta de registro de nacimiento, misma que será entregada dentro de las primeras cuarenta y ocho horas por parte de los oficiales del registro civil, quienes estarán habilitados para realizar el presente trámite.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2025)</small>
+
+Con el objeto de cumplir con lo previsto en el párrafo anterior, los hospitales públicos y privados deberán dar aviso al Registro civil de los nacimientos, dentro de las primeras doce horas posteriores a este, a fin de que la representación del Registro Civil lleve a cabo el trámite de registro de nacimiento, previo al egreso del recién nacido.
 
 En la Entidad, estará a cargo de la Dirección Estatal del Registro Civil y los Oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y defunción, así como inscribir las ejecutorias de discernimiento de tutela, las de pérdida de la capacidad o limitación de ésta para administrar bienes, la declaración de ausencia, la presunción de muerte y el divorcio judicial.
 
@@ -16222,3 +16228,23 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 37 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 7 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 48 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO Y EL ARTÍCULO 18 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
