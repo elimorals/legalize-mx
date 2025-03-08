@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2024-10-24"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -1883,9 +1883,17 @@ X. Someterse a exámenes para comprobar la ausencia de alcoholismo crónico o el
 
 XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
-XII. Cumplir con los deberes establecidos en esta Ley; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-XIII. Los demás que establezcan otras disposiciones legales aplicables.
+XII. Cumplir con los deberes establecidos en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XIII. No estar inscrito en el Registro Nacional de Obligaciones Alimentarias y ser declarado como deudor alimentario moroso, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente, ni contar con una sentencia firme derivada de un proceso penal o familiar, o haber sido condenado por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos. En consecuencia, se deberá presentar certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XIV. Los demás que establezcan otras disposiciones legales aplicables.
 
 ### CAPÍTULO TERCERO. PERCEPCIÓN ECONÓMICA
 
@@ -2462,3 +2470,15 @@ P.O. 24 DE OCTUBRE DE 2024.
 PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE “SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS; A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN; A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN; A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO; A LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO; AL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO; AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN; A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO; Y, A LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO, EN MATERIA DE DEUDORES ALIMENTARIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
