@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2023-06-16"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE JUNIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -591,9 +589,21 @@ XV. Refrendar el pago de derechos de la concesión en los primeros sesenta días
 
 XVI. Sujetarse a las tarifas autorizadas y respetar los horarios e itinerarios, en su caso;
 
-XVII. Vigilar bajo su estricta responsabilidad, que los vehículos sean operados sólo por quienes tengan licencia de conducir de servicio de transporte público vigente y que no conduzcan bajo las influencias del alcohol o cualquier tipo de droga; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-XVIII. Observar esta Ley y su Reglamento, así como las disposiciones que en la materia señale el Instituto.
+XVII. Vigilar bajo su estricta responsabilidad, que los vehículos sean operados sólo por quienes tengan licencia de conducir de servicio de transporte público vigente y que no conduzcan bajo las influencias del alcohol o cualquier tipo de droga;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XVIII. No estar inscrito en el Registro Nacional de Obligaciones Alimentarias y ser declarado como deudor alimentario moroso, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2025)</small>
+
+XIX. No contar con una sentencia firme derivada de un proceso penal o familiar, o haber sido condenado por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XX. Observar esta Ley y su Reglamento, así como las disposiciones que en la materia señale el Instituto.
 
 ### CAPÍTULO V. DE LA PLANEACIÓN DE LA MOVILIDAD Y LA SEGURIDAD VIAL
 
@@ -2069,9 +2079,19 @@ Es competencia de las autoridades estatales, previo el pago de los derechos corr
 
 Es obligación de toda persona que opere y/o conduzca en territorio estatal algún vehículo motorizado en cualquiera de sus modalidades, contar y portar consigo la licencia o permiso de conducir vigente ya sea de forma física o digital, misma que deberá corresponder al tipo de vehículo y ser expedida por las autoridades de tránsito y seguridad vial del Estado o su equivalente en las demás Entidades Federativas o en el extranjero cumpliendo con los requisitos y documentación establecida en esta Ley y su Reglamento, así como otras disposiciones aplicables de acuerdo con las categorías y modalidades.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### Artículo 121.
 
-Queda prohibido el otorgamiento de cualquier tipo de licencia de conducir a personas que no hayan cumplido la mayoría de edad.
+En ningún caso se otorgará cualquier tipo de licencia a:
+
+I. Las personas que no hayan cumplido la mayoría de edad, lo que deberá acreditarse conforme al Reglamento de esta Ley;
+
+II. Las personas que se encuentren inscritas en el Registro Nacional de Obligaciones Alimentarias y sean declaradas como deudoras alimentarias morosas, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente; y,
+
+III. Las personas con sentencia firme derivada de un proceso penal o familiar, o haber sido condenado por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos.
+
+Toda persona que solicite licencia de conducir en el Estado deberá de presentar certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 122.
 
@@ -3255,6 +3275,10 @@ Para los efectos de esta Ley y su reglamento, la concesión es el acto jurídico
 
 El Ejecutivo del Estado, cuando el interés público lo requiera, determinará el número de concesiones o permisos que se otorguen a Organismos públicos descentralizados, cooperativas, ayuntamientos, ejidos, comunidades o a uniones de ejidos y comunidades.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+En ningún caso se otorgarán o renovaran concesiones o permisos a aquellas personas que se encuentren inscritas en el Registro Nacional de Obligaciones Alimentarias y sean declaradas como deudoras alimentarias morosas, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente. Así como a quienes cuenten con sentencia firme derivada de un proceso penal o familiar, o haber sido condenado por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos. En consecuencia, los aspirantes deberán presentar certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
 ###### Artículo 248.
 
 Las modalidades del Sistema Estatal de Transporte que requieren concesión serán las siguientes:
@@ -4218,3 +4242,17 @@ ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA DIP. JULIETA GARCÍA ZEPEDA.- PRIM
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, al 01 primer día del mes de junio del año 2023 dos mil veintitrés.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- MTRO. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE "SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 20 Y EL ARTÍCULO 121; Y, SE ADICIONAN LAS FRACCIONES XIX Y XX AL ARTÍCULO 20 Y UN TERCER PÁRRAFO AL ARTÍCULO 247, TODOS DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para (sic) cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo(sic), así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
