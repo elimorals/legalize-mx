@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-registro-civil-del-estado-de-michoacan-de-3889
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-04-23"
-last_updated: "2024-01-29"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 23 de abril del 2004.
 
@@ -271,9 +269,9 @@ VII. Expedir órdenes de inhumación o cremación en su caso, así como autoriza
 
 VIII. Conceder licencia para el traslado de cadáveres o restos de un lugar a otro, expidiendo para el efecto, el permiso respectivo previo cumplimiento de los requisitos sanitarios;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-IX. Instruir a los contrayentes, al celebrar el matrimonio, sobre la naturaleza de este contrato y sus consecuencias legales, ajustándose a lo dispuesto en el Código Familiar y al texto que expida el Secretario de Gobierno;
+IX. Instruir e Informar a los contrayentes, antes de celebrar el matrimonio, si alguno de los mismos está inscrito en el Registro Nacional de Obligaciones Alimentarias, o bien si cuenta con sentencia firme derivada de un proceso penal o familiar, o si hubiese sido condenado por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos, para que ambos manifiesten lo que a su interés convenga al momento de celebrar el matrimonio, sobre la naturaleza de este contrato y sus consecuencias legales, ajustándose a lo dispuesto en el Código Familiar y al texto que expida el Secretario de Gobierno;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
@@ -580,3 +578,15 @@ El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Mic
 Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
 Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE "SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 20 DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
