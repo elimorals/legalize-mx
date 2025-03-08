@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2024-12-07"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -276,6 +276,10 @@ Los Diputados tendrán los mismos derechos y obligaciones, sin importar su filia
 ###### ARTÍCULO 21.
 
 Los Diputados tienen obligación de asistir con puntualidad a todas las sesiones y permanecer en ellas durante el tiempo de su duración. Tomarán asiento, guardarán compostura y el decoro que corresponda a los miembros de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+El Diputado Migrante o Binacional, podrá asistir a las sesiones de forma virtual.
 
 ###### ARTÍCULO 22.
 
@@ -1748,3 +1752,13 @@ SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Peri
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
 
 CUARTO. La Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Oaxaca, determinará las adecuaciones presupuestarias para el funcionamiento operativo del Instituto Flores Magón a que hace referencia el presente Decreto.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 213.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN TERCER PÁRRAFO, RECORRIENDO EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 89 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto por el artículo 7 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca siguiente de su publicación (sic) en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto todas las disposiciones que contravengan el contenido del presente Decreto.
