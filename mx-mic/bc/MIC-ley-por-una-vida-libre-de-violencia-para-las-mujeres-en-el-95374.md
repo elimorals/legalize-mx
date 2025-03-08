@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2025-02-25"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -119,11 +119,19 @@ V. Daño: Es la afectación o menoscabo que recibe la mujer en su integridad fí
 
 VI. Derechos Humanos de las mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2025)</small>
+
+VI Bis. Deudor Alimentario: se considerará deudor alimentario al progenitor, tutor o adoptante que deliberadamente incumpla de proveer comida, vestido, habitación, atención médica, hospitalaria, educación, recreación a sus hijas e hijos, así como los gastos de salud, embarazo y parto a las mujeres gestantes, de igual manera el abandono de las infancias de sus relaciones afectivas y de formación.
+
 VII. Discriminación contra las Mujeres: Toda distinción, exclusión o restricción que sufren las mujeres por razón de género, edad, salud, características físicas, posición social, económica, condición étnica, nacional, religiosa, opinión, identidad, orientación sexual, estado civil o cualquier otra que atente contra su dignidad humana, que tiene por objeto menoscabar o anular el goce o ejercicio de sus derechos;
 
 VIII. Ejes de Acción: Las líneas operativas en torno a las cuales se articulan las políticas públicas en materia de violencia contra las mujeres por razones de género;
 
 IX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2025)</small>
+
+IX Bis. Emancipación de las mujeres: Es el reconocimiento de la liberación de las mujeres, al generar su autonomía económica, patrimonial, política, social y cultural, para la erradicación de conductas patriarcales y machistas que les impiden incorporarse a la vida pública y participar activamente en la toma de decisiones, ejerciendo sus derechos sin limitaciones;
 
 X. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
@@ -325,27 +333,35 @@ VII. Obstaculizar la campaña de modo que se impida que la competencia electoral
 
 La violencia familiar también incluye:
 
-I. La selección nutricional en contra de las mujeres;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-II. La asignación exclusiva, motivada por discriminación, de actividades domésticas a las mujeres del núcleo familiar;
+I. La selección nutricional en contra de las mujeres, niñas y las adolescentes;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+II. La asignación exclusiva de los cuidados a terceros, motivada por los estereotipos de género discriminación, de actividades domésticas a las mujeres, niñas y adolescentes del núcleo familiar, que impidan, que anulen, que menoscaban, omitan o dilaten el derecho a la igualdad de oportunidades y una vida digna;
 
 III. La prohibición para iniciar o continuar con actividades escolares, laborales o sociales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-IV. La prohibición para recibir atención médica;
+IV. La prohibición para recibir atención médica y atención médica preventiva;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-V. La imposición vocacional;
+V. La imposición vocacional, incluyendo la fundada en los estereotipos y roles de género;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-VI. El favorecimiento de un estado de riesgo contra las mujeres; y,
+VI. El favorecimiento de un estado de riesgo en la salud física, sexual y mental; su situación jurídica, social, educativa, patrimonial, económica y política en los espacios públicos y privados contra las mujeres, niñas y las adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
 
-VII. Las conductas que señala el Código Familiar para el Estado de Michoacán de Ocampo.
+VII. La limitación del desarrollo de la libre personalidad imponiéndose los estereotipos y roles de género culturales de desigualdad; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2025)</small>
+
+VIII. Las conductas que señala el Código Familiar para el Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -391,7 +407,9 @@ Es violencia institucional, el conjunto de acciones, prácticas u omisiones de s
 
 Las políticas que instrumenten el Estado y sus municipios considerarán en materia de violencia familiar, lo siguiente:
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las mujeres víctimas y a sus hijas e hijos, que favorezcan su desarrollo, empoderamiento y reparen el daño causado por dicha violencia;
 
 II. Brindar servicios reeducativos psicoterapéuticos, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia. Los cuales deberán haber probado su efectividad, a fin de que no se normalice el ejercicio de la violencia, y se propicie que el agresor asuma la responsabilidad de la violencia efectuada;
 
@@ -415,7 +433,9 @@ VI. Establecer en coordinación con la Comisión Ejecutiva Estatal de Atención 
 
 Las autoridades responsables de la aplicación de esta Ley, estarán obligadas a elaborar acciones y políticas públicas que integren:
 
-I. La capacitación y especialización de las y los servidores públicos que permita garantizar los derechos humanos de las mujeres, el respeto a su dignidad, libertad y autonomía y que combatan la discriminación contra mujeres;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+I. La capacitación y especialización de las y los servidores públicos que permita garantizar los derechos humanos de las mujeres, sus hijas e hijos, el respeto a su dignidad, libertad y autonomía y que combatan la discriminación contra mujeres, niñas y las adolescentes;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
@@ -453,9 +473,9 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 
 El Sistema Estatal es el conjunto de dependencias y entidades de la administración pública estatal, las autoridades municipales, los representantes de los poderes Legislativo y Judicial y representaciones de instituciones académicas y de investigación, así como organismos de la sociedad civil.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
 
-El Sistema Estatal deberá crear y conjuntar esfuerzos, instrumentos, políticas públicas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres por razones de género.
+El Sistema Estatal deberá crear y conjuntar esfuerzos, instrumentos, políticas públicas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, niñas y las adolescentes por razones de género.
 
 ###### ARTÍCULO 19.
 
@@ -593,7 +613,9 @@ Este subsistema estará dirigido por quien presida la Comisión de Equidad de G�
 
 La persona titular del Poder Ejecutivo del Estado, para el cumplimiento de esta Ley, deberá:
 
-I. Planear, ejecutar, coordinar y evaluar la política estatal en materia de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+I. Planear, ejecutar, coordinar y evaluar la política estatal en materia de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres, niñas y las adolescentes;
 
 II. Coordinar y aplicar el Programa Estatal a que se refiere la presente Ley, vinculando a todas las autoridades que se contemplen en el presente ordenamiento y demás autoridades que tengan competencia en la materia;
 
@@ -707,11 +729,13 @@ IV. Canalizar a las mujeres víctimas de violencia a las instituciones que prest
 
 V. Establecer programas de capacitación anual para el personal del sector salud, respecto de la violencia de género, garantizando la atención a las mujeres;
 
-VI. Aplicar las normas oficiales vigentes en materia de prestación de servicios de salud y criterios para la atención médica de la violencia familiar;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+VI. Aplicar las normas oficiales vigentes en materia de prestación de servicios de salud y criterios para garantizar los derechos sexuales y reproductivos de las mujeres y la atención médica de la violencia familiar, sexual y cualquiera otra en contra de las mujeres, niñas y las adolescentes;
 
-VII. Capacitar al personal del sector salud, para la detección de la violencia de género, identificando los obstáculos que impiden a las mujeres su derecho al acceso a la salud;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+VII. Capacitar al personal del sector salud, para la detección, atención y seguimiento de la violencia de género, identificando los obstáculos que impiden a las mujeres, niñas y adolescentes su derecho de acceso a la salud;
 
 VIII. Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención y atención de la violencia contra las mujeres por razones de género, en colaboración con las demás autoridades encargadas de aplicar la presente Ley;
 
@@ -737,7 +761,9 @@ I. Participar en el diseño de la política con perspectiva de género en materi
 
 II. Establecer agrupamientos o secciones de la policía preventiva especializados en materia de violencia contra las mujeres;
 
-III. Incluir en la formación y capacitación de los cuerpos policíacos las materias específicas sobre equidad de género, violencia, discriminación y derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+III. Incluir en la formación y capacitación de los cuerpos policíacos las materias específicas sobre equidad, perspectiva de género, violencia, discriminación, inclusión, igualdad y derechos humanos de las mujeres, niñas y las adolescentes; violencia de género;
 
 IV. Auxiliar en caso de la implementación de órdenes de protección conforme a las disposiciones aplicables;
 
@@ -749,9 +775,11 @@ VII. Garantizar que la actuación de los efectivos policiales no realicen práct
 
 VIII. Cumplir con cada una de las atribuciones que le confiere la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 34.
 
-La seguridad pública deberá prestarse con perspectiva de género, atendiendo en todo momento a la precaución razonable que requieran las mujeres.
+La seguridad pública deberá prestarse con perspectiva de género, atendiendo en todo momento a la precaución razonable que requieran las mujeres e infancias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2017)</small>
 
@@ -813,13 +841,17 @@ Corresponde al Sistema para el Desarrollo Integral de la Familia, desempeñar la
 
 I. Fomentar campañas públicas de prevención de la violencia de género contra las mujeres, en coordinación con otras instituciones estatales y municipales competentes; y,
 
-II. Establecer en todos los centros y refugios a su cargo, las bases para un sistema de registro de información estadística en materia de violencia contra las mujeres por razones de género.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+II. Establecer en todos los centros y refugios a su cargo, las bases para un sistema de registro de información estadística en materia de violencia contra las mujeres por razones de género y deudores alimentarios.
 
 ###### ARTÍCULO 38.
 
 Corresponde a los Ayuntamientos desempeñar las siguientes facultades:
 
-I. Instrumentar y articular las políticas municipales en materia de protección de las mujeres para la prevención, atención y erradicación de la violencia contra las mujeres por razones de género, en el marco del Subsistema Regional;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+I. Instrumentar y articular las políticas municipales en materia de protección de las mujeres, niñas y las adolescentes para la prevención, atención y erradicación de la violencia contra ellas por razones de género, en el marco del Subsistema Regional;
 
 II. Promover y vigilar que la atención en las diversas instituciones públicas de los municipios sea proporcionada con perspectiva de género, así como promover capacitación a su personal que atienda a las víctimas de violencia contra las mujeres por razones de género;
 
@@ -833,9 +865,11 @@ VI. Diseñar campañas de información y sensibilización sobre violencia contra
 
 VII. Proporcionar al Banco Estatal de Datos e Información sobre Casos de violencia contra las Mujeres por Razones de Género, toda la información que se genere en el ámbito de su competencia sobre la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 39.
 
-El Síndico Municipal, previa denuncia, reporte o noticia de violencia en contra de las mujeres emitirá las órdenes de protección de emergencia y preventivas.
+La persona titular de la Sindicatura Municipal, previa denuncia, reporte o noticia de violencia en contra de las mujeres emitirá las órdenes de protección de emergencia y preventivas.
 
 Esta denuncia, reporte o noticia no obedecerá a formalidades especiales pudiendo ser notificada por cualquier medio. No requerirá ratificación por parte de la mujer violentada y se tramitará de oficio.
 
@@ -1009,9 +1043,11 @@ III. Incorporar a las actividades laborales y escolares, talleres temáticos, pa
 
 En materia de atención a la violencia institucional, el Estado y sus municipios impulsarán la creación de unidades de atención contra la violencia de género contra las mujeres en las dependencias y entidades que integran la Administración Pública del Estado y sus Gobiernos Municipales, que se determine por el Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 52.
 
-En los refugios para mujeres que sufran violencia de género, deberán observar los siguientes derechos:
+En los refugios para mujeres que sufran violencia de género, sus hijas e hijos deberán observar los siguientes derechos:
 
 I. El respeto a su integridad y al ejercicio pleno de sus derechos;
 
@@ -1019,9 +1055,13 @@ II. La protección inmediata y efectiva por parte de las autoridades, con la gar
 
 III. El derecho de elección sobre las opciones de atención, previa recepción de la información veraz y suficiente que les permita decidir;
 
-IV. La atención, por personal especializado, en los servicios de asesoría jurídica, atención psicoterapéutica y médica;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-V. La obtención de los apoyos gratuitos de hospedaje, alimentación, vestido, calzado y servicios médicos; para ellas y sus hijos menores de edad;
+IV. La atención, por personal especializado, en los servicios de asesoría jurídica, atención psicoterapéutica, médica y educativa;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+V. La obtención de los apoyos gratuitos de hospedaje, alimentación, vestido, calzado y servicios médicos; para ellas y sus hijas e hijos menores de edad;
 
 VI. La valoración y educación, libres de estereotipos, de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 
@@ -1041,9 +1081,11 @@ III. Mantener la confidencialidad sobre la ubicación de las instalaciones; y,
 
 IV Establecer un plan de seguridad con la víctima en concordancia con las autoridades de seguridad pública, que incluya la solicitud de las órdenes de protección a que haya lugar.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 54.
 
-La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses, a menos de que persista el estado de riesgo o de indefensión, para tales efectos el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
+La permanencia de las mujeres, sus hijas e hijos en los refugios no podrá ser mayor a tres meses, a menos de que persista el estado de riesgo o de indefensión, para tales efectos el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
 
 ### CAPÍTULO VIII. BANCO ESTATAL DE DATOS E INFORMACIÓN
 
@@ -1484,3 +1526,15 @@ P.O. 25 DE FEBRERO DE 2025.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto a la persona titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE "SE REFORMAN LAS FRACCIONES I, II, IV, V, VI Y VII DEL ARTÍCULO 10, LA FRACCIÓN I DEL ARTÍCULO 14, LA FRACCIÓN I DEL ARTÍCULO 15, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 18, LA FRACCIÓN I DEL ARTÍCULO 28, LAS FRACCIONES VI Y VII DEL ARTÍCULO 32, LA FRACCIÓN III DEL ARTÍCULO 33, EL ARTÍCULO 34, LA FRACCIÓN II DEL ARTÍCULO 37, LA FRACCIÓN I DEL ARTÍCULO 38, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, EL PRIMER PÁRRAFO Y SUS FRACCIONES IV Y V DEL ARTÍCULO 52 Y EL ARTÍCULO 54; Y, SE ADICIONAN LAS FRACCIONES VI BIS Y IX BIS AL ARTÍCULO 6, LA FRACCIÓN VIII AL ARTÍCULO 10, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
