@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2025-01-31"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -238,6 +238,8 @@ Las acciones y omisiones culposas sólo serán punibles en los casos expresament
 ###### Artículo 22.
 
 Tentativa punible
+
+Únicamente es punible el delito cometido en grado de tentativa acabada que haya puesto en peligro al bien jurídico tutelado.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
@@ -1777,9 +1779,11 @@ Cuando con motivo de tránsito de vehículos se atropelle culposamente a una per
 
 Omisión de cuidado
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
 
-A quien abandone a una persona, incluyendo a un adulto mayor que no tenga la capacidad para valerse por sí misma, respecto del cual tenga la obligación de cuidado o se encuentre legalmente a su cargo, se le impondrá de cuatro a siete años de prisión.
+A quien abandone a un ser humano que no tenga la capacidad para valerse por sí mismo, incluyendo las personas adultas mayores y/o con discapacidad respecto del cual tenga la obligación de cuidado o se encuentre legalmente a su cargo, se le impondrá de tres a seis años de prisión. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad, tutela o custodia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE MARZO DE 2025)</small>
 
 No se procederá contra quien entregue a un menor de edad a las instancias públicas de conformidad con la legislación aplicable en materia de adopción.
 
@@ -2289,7 +2293,9 @@ A quien, durante una emergencia sanitaria, cometa cualquiera de las conductas a 
 
 Incumplimiento de la obligación alimentaria
 
-A quien incumpla con su obligación de dar alimentos a la persona que tiene derecho a recibirlos se le impondrá de seis meses a tres años de prisión o de cincuenta a doscientos días multa y pago en calidad de reparación del daño de las cantidades no suministradas oportunamente.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
+A quien incumpla con su obligación de dar alimentos a la persona que tiene derecho a recibirlos, se le impondrá de tres a cinco años de prisión o de cien a cuatrocientos días de multa, suspensión o pérdida de los derechos de familia y pago en calidad de reparación del daño de las cantidades no suministradas oportunamente.
 
 Para los efectos de este artículo, se tendrá como consumado el delito aun cuando el acreedor alimentario haya sido dejado al cuidado o reciba ayuda de un tercero.
 
@@ -2301,9 +2307,21 @@ I. El incumplimiento por parte del empleador o responsable del pago, en tiempo y
 
 II. El incumplimiento por parte del empleador o responsable del pago, en tiempo y forma, de realizar los descuentos determinados en resolución judicial, al ser notificada.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
 
-Lo previsto en el último párrafo del presente artículo se seguirá de oficio.
+Lo previsto en el párrafo cuarto del presente artículo se seguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Si el adeudo excede de noventa días, el juez ordenará la inscripción de los datos del sentenciado en el Registro Nacional de Obligaciones Alimentarias.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentista, para efectos de cubrir los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y nivel de vida que sus acreedores alimentarios hayan llevado en los dos últimos años.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte deberá efectuar la cancelación en el Registro Nacional de Obligaciones Alimentarias.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -4799,7 +4817,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 17 DE FEBRERO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE “SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE "SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -4874,3 +4892,15 @@ P.O. 31 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo, para su publicación y efectos legales que haya a lugar.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE “SE REFORMA EL ARTÍCULO 154, EL SEGUNDO Y QUINTO PÁRRAFO DEL ARTÍCULO 181; Y, SE ADICIONAN TRES ÚLTIMOS PÁRRAFOS AL ARTÍCULO 181 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
