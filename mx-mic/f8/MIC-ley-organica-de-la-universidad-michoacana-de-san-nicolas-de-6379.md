@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-universidad-michoacana-de-san-nicolas-de-637
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-02-03"
-last_updated: "1986-09-18"
+last_updated: "2025-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA BENEMÉRITA Y CENTENARIA UNIVERSIDAD MICHOACANA DE SAN NICOLÁS DE HIDALGO, PUBLICADA EN EL P.O. DE 8 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGANICA DE LA UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025 (ABROGADA).
 
 Ley orgánica publicada en la Sección Segunda del Periódico Oficial, el lunes 3 de febrero de 1986.
 
@@ -568,3 +570,19 @@ El Consejo Universitario deberá adecuar y aprobar en un plazo prudente el Estat
 ###### ARTICULO QUINTO.
 
 Se abroga el Decreto Legislativo número 398 del 23 de junio de 1986, así como todas las normas y disposiciones que se opongan a este Decreto.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DE LA BENEMÉRITA Y CENTENARIA UNIVERSIDAD MICHOACANA DE SAN NICOLÁS DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Universidad Michoacana de San Nicolás de Hidalgo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 03 de febrero de 1986, Tomo CIX, Segunda Sección, Número 41.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, las menciones contenidas en Leyes, Reglamentos y disposiciones de cualquier naturaleza respecto a las denominaciones Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo y Universidad Michoacana de San Nicolás de Hidalgo, señaladas en el Artículo 1 de esta Ley, se entenderán referidas a la misma persona jurídica y órgano autónomo.
+
+CUARTO. La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo, tendrá un plazo no mayor de ciento noventa días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas, orgánicas y administrativas conducentes a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+QUINTO. La Comisión Especial para la Elección de la Rectora o Rector de la que se hace mención en la presente Ley, se conformará hasta que su reglamento haya sido aprobado por el Consejo Universitario, de conformidad con el plazo establecido en el Artículo Cuarto Transitorio de la presente Ley.
+
+SEXTO. En términos de la aprobación del Decreto número 19, publicado en el Periódico oficial del Estado de Michoacán, de fecha 8 de enero de 2025. «Todos los derechos y obligaciones de los trabajadores de la Universidad Michoacana de San Nicolas de Hidalgo, así como jubilaciones y pensiones concedidas con anterioridad al presente decreto, adquiridas por la reforma del año 2020, así como todas las que abonen a los derechos laborales de los trabajadores mencionados, se respetarán en términos de la legislación aplicable al momento de su contratación». «Las nuevas contrataciones que se realicen a partir de la fecha de entrada en vigor de la presente Ley quedarán sujetas al sistema de pensiones y jubilaciones establecido en la presente Ley».
