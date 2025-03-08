@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2024-10-24"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -539,9 +539,17 @@ IV. Un certificado médico sobre el estado de salud de los pretendientes. Para l
 
 V. El convenio mediante el cual se establezca el régimen patrimonial del matrimonio, ajustándose a las prescripciones de los artículos 171, 172 y 195 de este Código. Cuando los pretendientes, por falta de conocimientos no puedan elaborar el convenio, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los pretensos le suministren;
 
-VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los pretendientes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de ellos hubiere sido casado anteriormente; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-VII. Copia de la dispensa de impedimentos, si los hubo.
+VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los pretendientes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de ellos hubiere sido casado anteriormente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
+
+VII. Certificado de no Inscripción en el Registro Nacional de Obligaciones Alimentarias; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2025)</small>
+
+VIII. Copia de la dispensa de impedimentos, si los hubo.
 
 ###### Artículo 79.
 
@@ -608,6 +616,10 @@ Cualquier persona puede denunciar un impedimento de los contrayentes para casars
 ###### Artículo 88.
 
 Los Oficiales del Registro Civil cuando tuvieren conocimiento de la existencia de un impedimento, levantarán un acta ante dos testigos, haciendo constar los datos que tengan para suponer la existencia de ese impedimento. Esa acta firmada por todos los que en ella intervengan, se remitirá al juez que corresponda para que haga la calificación del impedimento, siguiéndose las formalidades previstas para la jurisdicción voluntaria.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Si alguna de las partes se encuentra inscrito en el Registro Nacional de Obligaciones Alimentarias, la o el Oficial del Registro Civil procederá a informar el monto de la deuda hasta la última actualización y el número de personas acreedoras a la otra parte contrayente.
 
 ###### Artículo 89.
 
@@ -1747,7 +1759,9 @@ El juez oral, en la sentencia, habrá de resolver atendiendo a las circunstancia
 
 Al admitirse la solicitud de divorcio, o antes, si hubiere urgencia, y solo mientras dure el procedimiento, el juez dictará las medidas cautelares que le sean requeridas y procedan, así como las que de manera oficiosa considere necesarias para la protección de los hijos menores de edad o con discapacidad, atendiendo siempre el interés superior de estos, como lo sería:
 
-I. Separar a los cónyuges, considerando para tal efecto, las circunstancias personales de cada uno;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+I. Separar a los cónyuges, considerando para tal efecto, las circunstancias personales de cada uno; en caso de que alguno de los cónyuges, haya infringido violencia familiar hacia el otro y éste haya impuesto una denuncia, el juez deberá coordinarse con las autoridades competentes, para girar la orden pertinente y que el agresor abandone el domicilio conyugal, garantizando en todo momento el derecho a la vivienda de las niñas y los niños;
 
 II. Fijar y asegurar los alimentos para el o los acreedores alimentistas;
 
@@ -1755,11 +1769,15 @@ III. Determinar la guarda y custodia de los hijos menores de edad o con discapac
 
 IV. La forma en que el cónyuge que no tenga la guarda y custodia deberá convivir con sus hijos menores de edad o con discapacidad;
 
-V. Las necesarias para que no se causen daño en su persona o en sus bienes; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+V. Las necesarias para que los cónyuges no puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda de divorcio en el Instituto Registral y Catastral del Estado de Michoacán de aquellos lugares en que se conozca que tienen bienes; y,
 
 VI. Las demás que considere necesarias el juez.
 
-La protección para los hijos incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos legalmente previstos.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
+La protección para los hijos e hijas incluyendo medidas de seguridad, seguimiento y sesiones de terapias necesarias para evitar y corregir los actos de violencia familiar, así como garantizar su derecho a la alimentación y la vivienda.
 
 ###### Artículo 261.
 
@@ -2721,7 +2739,9 @@ IV. Abandone o exponga al menor de edad, aun cuando no se comprometa su salud e 
 
 La patria potestad se perderá aun cuando los abandonados o expósitos hubieren sido acogidos por alguna persona o depositados en establecimientos de beneficencia, a menos que el acogimiento o depósito sobrevenga por caso fortuito o fuerza mayor;
 
-V. Dejen de cumplir injustificadamente con su obligación alimentaria;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+V. Dejen de cumplir con su obligación alimentaria hasta por 90 días naturales sin causa justificada, sin que esto le exima de cumplir con las obligaciones posteriores;
 
 VI. Cometan conductas de violencia familiar en contra de quien se ejerce la patria potestad;
 
@@ -2731,9 +2751,17 @@ VIII. Quien o quienes teniendo el ejercicio de la patria potestad, dejen de conv
 
 IX. Se niegue injustificadamente el progenitor que ejerce la guarda y custodia material, a permitir la convivencia al otro progenitor;
 
-X. La adopción del menor de edad; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-XI. El que ejerza la patria potestad sea condenado mediante sentencia ejecutoriada por delito doloso, cometido contra la persona respecto de quien se ejerce o sus bienes.
+X. La adopción del menor de edad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XI. Cometan conductas de violencia familiar y otras violencias en contra la persona con quien se ejerce la patria potestad; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XII. El que ejerza la patria potestad sea condenado mediante sentencia ejecutoriada por delito doloso, cometido contra la persona respecto de quien se ejerce o sus bienes.
 
 ###### Artículo 423.
 
@@ -2865,15 +2893,17 @@ La determinación judicial en torno a la convivencia puede ser objeto de modific
 
 ### CAPÍTULO ÚNICO. ALIMENTOS
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### Artículo 443.
 
 Se reconoce a los alimentos como el derecho que tiene una persona, denominada acreedor alimentista, de recibir de otra, considerada deudor alimentario, lo siguiente:
 
-I. La comida, el vestido, la habitación, la atención médica, la hospitalaria y en su caso, los gastos de embarazo y parto;
+I. La comida, el vestido, la habitación, la atención médica y psicológica, la hospitalaria y en su caso, los gastos de embarazo y parto;
 
-II. Respecto de los hijos además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a sus circunstancias personales; y,
+II. Respecto de los hijos, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a su libre desarrollo de la personalidad, así como para garantizar su recreación, calidad de vida y dignidad; y,
 
-III. Con relación a las personas con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo; y, por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
+III. Con relación a las personas con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo; y, por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia, en caso de que el adulto mayor que solicite pensión alimenticia se encuentre inscrito en el Registro de Deudores Alimentarios, la solicitud de pensión no será admitida.
 
 ###### Artículo 444.
 
@@ -2927,11 +2957,17 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 El adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen los padres y los hijos.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### Artículo 450.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentista, o incorporándolo a su familia.
+El obligado a dar alimentos cumple la obligación asignando una pensión competente a la persona acreedora alimentista, o incorporándolo a su familia. En caso de que el obligado a dar alimentos ponga en riesgo a las personas acreedoras, y/o cuente con sentencias previas por violencia familiar, no podrá incorporar a su familia a las personas acreedoras, sin que esto lo exima de cumplir esta obligación.
 
 Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+Aquella persona que incumpla con lo señalado con el primer párrafo por un periodo de noventa días se constituirá en deudor alimentario moroso. El juez de lo familiar ordenará su inscripción al Registro Nacional de Obligaciones Alimentarias.
+
+El deudor alimentario que acredite ante el juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación en el Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 451.
 
@@ -2945,9 +2981,11 @@ Estas prevenciones deberán expresarse siempre en la sentencia o convenio corres
 
 Los menores de edad, las personas con discapacidad, los sujetos a estado de interdicción, los adultos mayores y las mujeres embarazadas, gozan de la presunción de necesitar alimentos.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### Artículo 453.
 
-Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el juez resolverá con base en la capacidad económica actual y la aptitud para desempeñar algún trabajo, conforme a su edad, estado de salud y profesión tanto del deudor como de sus acreedores.
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, la jueza o el juez resolverá con base en la capacidad económica actual y la aptitud para desempeñar algún trabajo, conforme a su edad, estado de salud y profesión tanto del deudor como de sus acreedores.
 
 ###### Artículo 454.
 
@@ -2988,6 +3026,10 @@ En los casos en que los que ejerzan la patria potestad gocen de la mitad del usu
 ###### Artículo 460.
 
 Cuando el deudor alimentario no estuviere presente, o estándolo rehusare entregar los alimentos a que está obligado, será responsable de las deudas que los acreedores alimentistas contraigan única y exclusivamente para cubrir sus necesidades. El juez resolverá lo inherente al monto de la deuda.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Si el obligado mediante resolución judicial al pago de la pensión alimentaria, provisional o definitiva, dejara de cubrirla sin causa justificada por un periodo mayor a sesenta días naturales, la autoridad competente de inmediato, deberá dar aviso a las autoridades migratorias y demás competentes de conformidad con el artículo 48, fracción VI, de la Ley de Migración, a fin de restringir la salida del país del deudor alimentario, siempre que esta sea una medida idónea para el cumplimiento de la obligación alimentaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -3041,9 +3083,17 @@ I. Fijará de inmediato una pensión provisional equivalente a una UMA diaria, p
 
 II. Enseguida lo comunicará a su fuente laboral, para que la deposite ante el juzgado del conocimiento o haga la entrega directa de la misma al que exige los alimentos a elección de este;
 
-III. De no ser asalariado el deudor alimentario, se le requerirá inmediatamente del pago de la pensión provisional fijada, y de no satisfacerlo, se le embargarán bienes de su propiedad; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-IV. Ordenará solicitar informes y demás trámites administrativos que considere necesarios para conocer los ingresos del obligado.
+III. De no ser asalariado el deudor alimentario, se le requerirá inmediatamente del pago de la pensión provisional fijada, y de no satisfacerlo, se le embargarán bienes de su propiedad;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+IV. Ordenará solicitar informes y demás trámites administrativos que considere necesarios para conocer los ingresos del obligado; y,
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2025)</small>
+
+V. En caso de que el cónyuge tuviere uno o más bienes inmuebles, el juez solicitará al Instituto Registral y Catastral del Estado de Michoacán que realicé en Anotaciones Varias la providencia precautoria establecida en el artículo 844, fracción II inciso b de este Código.
 
 ###### Artículo 465.
 
@@ -3054,6 +3104,14 @@ Toda persona a quien por su cargo, corresponda proporcionar informes sobre la ca
 Para hacer cumplir lo anterior, el juez de instrucción tiene la facultad de apercibir y aplicar los medios de apremio previstos por esta ley, a las entidades o dependencias, instituciones públicas o privadas y demás particulares, en caso de que no rindan los informes respectivos, dentro del plazo de tres días hábiles; de la misma forma, responderán solidariamente con los obligados directos, de los daños y perjuicios que se causen al acreedor alimentista por sus omisiones o informes falsos.
 
 Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al obligado a ocultar o disimular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+La empresa, dependencia o lugar donde labore el deudor alimentario realizará los descuentos respectivos directo de su nómina para cubrir las pensiones alimentarias adeudadas. Aquellas empresas que no cumplan con esta disposición estarán sujetas a lo dispuesto por el artículo 182 del Código Penal para el Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+El deudor alimentario deberá informar de inmediato al juez y al acreedor alimentista cualquier cambio de empleo, denominación o razón social de su nueva fuente de trabajo, el domicilio y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad. En tanto no se cumpla con el pago total de la pensión alimentaria correspondiente y el total del adeudo retroactivo, el deudor no podrá solicitar cambio de guarda y custodia ni pérdida de patria potestad.
 
 ###### Artículo 467.
 
@@ -5163,6 +5221,10 @@ Se consideran medidas cautelares los trámites, diligencias y gestiones que se p
 
 Correspondiendo conocer de las mismas al juez de instrucción si se solicitan antes de la presentación de la demanda, o bien, a este o al juez oral del domicilio del solicitante, en atención a la etapa en que se encuentre el procedimiento.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Tratándose de alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia intrafamiliar, y los demás que determinen las Leyes, todos los días y horas son hábiles para la solicitud y expedición de medidas cautelares.
+
 ###### Artículo 843.
 
 Se reconocen como medidas cautelares:
@@ -5222,6 +5284,14 @@ Cuando se solicite el secuestro provisional, se expresará el valor de lo demand
 Las providencias para asegurar alimentos o las que promueva el ministerio público, se decretarán sin mayor trámite y se ejecutarán sin necesidad de que se otorgue garantía.
 
 Cuando se trate de aseguramiento de alimentos, su monto se determinará por el juez hasta por el equivalente a seis meses, atendiendo a lo dispuesto en el artículo 464 de este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+El juez o jueza tienen la obligación de garantizar el derecho de los acreedores alimentarios; tomando en consideración el interés superior de la infancia y adolescencia, así como las necesidades inmediatas de los mismos.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Todas las personas y autoridades que tengan conocimiento del lugar donde puede localizarse al deudor alimentario, tendrán el deber de informarlo a la autoridad jurisdiccional.
 
 ###### Artículo 850.
 
@@ -5835,7 +5905,21 @@ V. Los hechos en que el actor funde su petición, exponiéndolos clara y sucinta
 
 VI. Los fundamentos de derecho, procurando citar los preceptos legales o principios jurídicos aplicables; y,
 
-VII. En su caso, el valor de lo demandado.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+VII. En su caso, el valor de lo demandado que incluirá de manera prioritaria el monto de la totalidad de los alimentos que deberá cubrir el acreedor alimentario.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Una vez iniciado el proceso de solicitud de pensión alimenticia, se dará aviso al Instituto Registral y Catastral del Estado de Michoacán para que genere los efectos correspondientes y la propiedad de los bienes no sean modificadas.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+El juez de lo familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos e hijas, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia; en caso de existir denuncia en materia de violencia familiar, el juez determinará que el agresor deberá salir del domicilio con sus bienes y enseres en un periodo no mayor a 5 días naturales después de la resolución.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Se requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise.
 
 ###### Artículo 961.
 
@@ -7698,3 +7782,15 @@ P.O. 24 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Corresponderá al Titular del Poder Ejecutivo en el Estado, la adecuación de los reglamentos de las dependencias que lo conforman, a efecto de que se incluya en los mismos la disposición normativa materia del presente Decreto.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 165 POR EL QUE "SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS; A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN; A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN; A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO; A LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO; AL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO; AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN; A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO; Y, A LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
