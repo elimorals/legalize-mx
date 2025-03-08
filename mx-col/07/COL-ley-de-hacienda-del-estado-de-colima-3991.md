@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2025-01-25"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -7782,3 +7782,37 @@ El presente Decreto entrará en vigor el día 1o. de enero del año 2025, previa
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado de Colima, dentro del período de 180 días naturales contados a partir del día de la publicación del presente Decreto, deberá realizar las adecuaciones reglamentarias y normativas necesarias para la implementación del mismo.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO TERCERO.
+
+Únicamente para el ejercicio fiscal 2025 el impuesto previsto en el presente Decreto, empezará a causarse a partir del 1° de abril de 2025.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas y morales que tengan la obligación de declarar y pagar el impuesto previsto en el presente Decreto, accederán por única ocasión al beneficio fiscal consistente en el 20% (veinte por ciento) de descuento del monto total del impuesto que causen durante el ejercicio fiscal 2025.
+
+El beneficio fiscal será aplicable en el momento de realizar el pago del impuesto del ejercicio fiscal 2025, siempre y cuando el contribuyente cumpla con lo siguiente:
+
+1. Estar inscrito en el Registro Estatal de Contribuyentes;
+
+2. Presentar su declaración y pago del impuesto dentro del plazo señalado por el artículo 41 Z BIS 24 del presente Decreto; y
+
+3. Cumplir las obligaciones fiscales contenidas en el artículo 41 Z BIS 25 del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo realizará las adecuaciones administrativas necesarias para dar cumplimiento al presente Decreto.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 68.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES TRANSITORIAS AL DECRETO NÚMERO 34, POR EL QUE SE ADICIONÓ EL CAPÍTULO IX, DENOMINADO DE LOS IMPUESTOS ECOLÓGICOS, AL TÍTULO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
