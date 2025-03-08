@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2025-01-28"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -251,9 +251,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
+I. Derecho a la vida, a la paz, a la alimentación nutritiva, suficiente y de calidad con pertenencia cultural, a la vivienda adecuada, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -297,17 +297,29 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XVIII Bis. Derecho a la estimulación temprana, así como a los cuidados emocionales, físicos y cognitivos, durante la primera infancia;
 
-XIX. Derechos de niñas, niños y adolescentes migrantes; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-XX. Derecho al acceso a las tecnologías de información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones.
+XIX. Derechos de niñas, niños y adolescentes migrantes;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+XX. Derecho al acceso a las tecnologías de información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones; y,
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2025)</small>
+
+XXI. A una vida digna.
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar el goce y disfrute de estos derechos a fin de lograr desarrollo integral de todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### CAPÍTULO II. DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MARZO DE 2025)</small>
+
+### CAPÍTULO II. DERECHO A LA VIDA, A LA PAZ, A LA ALIMENTACIÓN, A LA VIVIENDA, A LA SUPERVIVENCIA Y AL DESARROLLO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2025)</small>
 
 ###### Artículo 11.
 
-Las niñas, niños y adolescentes tienen el derecho intrínseco a la vida a la supervivencia y al desarrollo integral, de conformidad con la Constitución Federal, Constitución Estatal y los instrumentos internacionales en la materia de los que el Estado mexicano sea parte.
+Las niñas, niños y adolescentes tienen el derecho intrínseco a la vida, a la paz, a la alimentación, a la vivienda, a la supervivencia y al desarrollo integral, de conformidad con la Constitución Federal, Constitución Estatal y los instrumentos internacionales en la materia de los que el Estado mexicano sea parte.
 
 Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos o en la comisión de conductas delictivas.
 
@@ -703,9 +715,9 @@ VIII. Realizar estudios periódicos de manera aleatoria, a cargo del Sistema par
 
 Para el estudio, la autoridad competente, deberá auxiliarse de las Instituciones Educativas en el Estado que cuenten con licenciaturas de psicología, medicina, enfermería, en la salud, trabajo social, o cualquier otra que coadyuve al análisis integral del diagnóstico y evaluación de las personas, niñas, niños o adolescentes o los familiares íntimamente vinculados a la situación que requieran el apoyo, lo anterior, en coordinación con la Dirección que atienda el Servicio Social de Pasantes en el Estado, para que a través de quienes lo realicen, sean canalizados de manera obligatoria y oportuna a las instancias debidas, como se indica en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
 
-Se considera maltrato y violencia el hecho de que alguno de los progenitores o familiares impida, dificulte u obstaculice la convivencia de la niña, niño o adolescente con su padre, madre o con los demás integrantes de su familia.
+Se considera maltrato y violencia el hecho de que alguno de los progenitores o familiares impida, dificulte u obstaculice la convivencia de la niña, niño o adolescente con su padre, madre o con los demás integrantes de su familia; así como también la ausencia o negación de la pensión alimenticia nutritiva, suficiente y de calidad con pertinencia cultural y a la vivienda adecuada.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -1499,7 +1511,9 @@ Corresponde a las autoridades estatales y municipales, en el ámbito de sus atri
 
 A fin de garantizar el cumplimiento de los derechos establecidos en esta Ley, las autoridades estatales y municipales competentes, en ejercicio de las atribuciones que les otorgue la presente Ley, dispondrán lo necesario para que en el Estado se cumpla:
 
-I. Las obligaciones de ascendientes o tutores o de cualquier persona que tenga a su cargo el cuidado de niñas, niños y adolescentes, especialmente de protegerlos contra toda forma de abuso o maltrato. Así como, tratarlos con respeto a su dignidad, cuidarlos, atenderlos y orientarlos a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los (sic) de las otras personas;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+I. Las obligaciones de ascendientes o tutores o de cualquier persona que tenga a su cargo el cuidado de niñas, niños y adolescentes, especialmente de protegerlos contra toda forma de abuso o maltrato. Así como, tratarlos con respeto a su dignidad, cuidarlos, atenderlos y orientarlos a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas y garantizar su derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural y a la vivienda adecuada.
 
 II. La implementación de cursos y programas educativos destinados a servidores públicos, padres de familia y estudiantes, con la finalidad de que comprendan las necesidades, conflictos e intereses de la adolescencia, las formas de violencia familiar, escolar y social;
 
@@ -1535,7 +1549,9 @@ IV. Adoptar medidas de protección especial de los derechos de niñas, niños y 
 
 V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley; en la medida que favorezca el desarrollo integral de niñas, niños y adolescentes bajo su cuidado;
 
-VI. Garantizar el desarrollo y la supervivencia así como investigar, sancionar efectivamente los actos de privación de la vida de niñas, niños y adolescentes y la reparación del daño que corresponda de manera eficaz y oportuna;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+VI. Garantizar el desarrollo, la alimentación, vivienda y la supervivencia, así como investigar, sancionar efectivamente los actos de privación de la vida de niñas, niños y adolescentes y la reparación del daño que corresponda de manera eficaz y oportuna;
 
 VII. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes;
 
@@ -2596,3 +2612,15 @@ P.O. 28 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Las sentencias que se encuentren en proceso y que estén interviniendo niñas, niños y adolescentes se les aplicará lo contemplado en el presente Decreto.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE “SE REFORMAN LAS FRACCIONES I, XIX Y XX DEL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 11 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 32; LA DENOMINACIÓN DEL CAPÍTULO II, LA FRACCIÓN I DEL ARTÍCULO 70 Y LA FRACCIÓN VI DEL ARTÍCULO 71; Y, SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 10, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
