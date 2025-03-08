@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2024-12-13"
+last_updated: "2025-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -429,6 +429,12 @@ VIII. Los conflictos que con motivo de excusas y recusaciones sin causa se susci
 
 IX. Las excusas y recusaciones con causa de los titulares de otras salas, tanto en asuntos de derecho civil, mercantil y familiar, en orden ascendente. Si se trata del Magistrado con el número ordinal más alto, conocerá el de la Sala que inicie la numeración ordinal.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+###### Artículo 27 Bis.
+
+Las y los Magistrados de las Salas Civiles de Segunda Instancia en Materia de Derecho Familiar, en los casos relacionados con pensión alimenticia, deberán informar mensualmente al Registro Nacional de Obligaciones Alimentarias sobre las personas que incumplan con los autos de pensión alimenticia o que cuenten con sentencias relacionadas con el adeudo de alimentos, para proceder con su alta o baja en dicho registro.
+
 ###### Artículo 28.
 
 Las salas penales conocerán, por turno, de los asuntos siguientes:
@@ -694,6 +700,12 @@ VI. Los exhortos, suplicatorias, requisitorias o despachos, relacionados con el 
 VII. Los que afecten los derechos de menores, incapacitados y en general, de los que se refieran a cuestiones familiares que reclamen la intervención judicial; y,
 
 VIII. Los demás que ésta u otras leyes no se reserven a los juzgados menores o comunales.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+###### Artículo 41 Bis.
+
+Los Juzgados de Primera Instancia que conozcan de asuntos familiares o de materia oral familiar deberán reportar mensualmente al Registro Nacional de Obligaciones Alimentarias a las personas que incumplan con los autos de pensión alimenticia o que cuenten con sentencias relacionadas con el adeudo de alimentos, para proceder con su alta o baja en dicho registro.
 
 ###### Artículo 42.
 
@@ -977,9 +989,17 @@ El mismo turno existirá para la diligencia de exhortos y para conocer de los as
 
 Corresponde a los juzgados de primera instancia del sistema tradicional, además de las señaladas por el artículo 89 de la Constitución, las obligaciones siguientes:
 
-I. Conocer y resolver los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-II. Cumplir y hacer que el personal bajo su mando, cumpla con sus facultades y obligaciones.
+I. Conocer y resolver los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+
+II. Cumplir y hacer que el personal bajo su mando, cumpla con sus facultades y obligaciones; y,
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2025)</small>
+
+III. Reportar mensualmente al Registro Nacional de Obligaciones Alimentarias sobre las personas que incumplan los autos de pensión alimenticia o que cuenten con sentencias relacionadas con el adeudo de alimentos, para su alta o baja en dicho registro.
 
 ###### Artículo 56.
 
@@ -1753,6 +1773,10 @@ Existirá una oficina de la Central de Comunicaciones Procesales cuyo funcionami
 
 El ingreso, permanencia y promoción de los servidores públicos del Poder Judicial se hará mediante la Carrera Judicial, en la que se considerarán la capacidad, eficiencia, preparación, disciplina, probidad y antigüedad.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Para el ingreso y promoción de las y los servidores públicos del Poder Judicial, es requisito indispensable no estar inscrito en el Registro Nacional de Obligaciones Alimentarias y ser declarado como deudor alimentario moroso, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente. Así como no contar con una sentencia firme derivada de un proceso penal o familiar, ni quienes hayan sido condenados por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos. En consecuencia, deberán presentar el certificado de no inscripción en dicho registro.
+
 ###### Artículo 116.
 
 El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concurso de oposición.
@@ -2500,3 +2524,15 @@ P.O. 13 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El funcionamiento integral y operativo de las Salas Regionales en Materia Civil será atendiendo a los plazos, términos y condiciones establecidos en los transitorios del Decreto 03 publicado en el Periódico Oficial del Estado el 14 de noviembre de 2024, mediante el cual se reforman, derogan y adicionan distintas disposiciones de la Constitución Política del Estado de Michoacán de Ocampo en Materia del Poder Judicial.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE "SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 55; Y, SE ADICIONAN LOS ARTÍCULOS 27 BIS Y 41 BIS, UNA FRACCIÓN III AL ARTÍCULO 55 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 115, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al (sic) mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
