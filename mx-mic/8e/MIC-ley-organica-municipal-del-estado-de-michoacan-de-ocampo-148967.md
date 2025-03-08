@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2025-02-20"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -2465,6 +2465,14 @@ Las o los titulares de cada una de las dependencias, entidades y unidades admini
 
 Al frente de cada dependencia, entidad o unidad administrativa habrá una o un titular, con la denominación que determinen las disposiciones que correspondan, quien, para el despacho de los asuntos de su competencia, se auxiliará por las servidoras y servidores públicos que establezcan las disposiciones aplicables, conforme a la capacidad presupuestal, requerimientos administrativos y necesidades sociales del Municipio.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+No podrán ser titulares ni servidores públicos de las dependencias, entidades y unidades administrativas del Ayuntamiento aquellas personas que se encuentren inscritas en el Registro Nacional de Obligaciones Alimentarias y hayan sido declaradas como deudoras alimentarias morosas, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente. Así como aquellas personas que cuenten con una sentencia firme derivada de un proceso penal o familiar, ni quienes hayan sido condenados por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2025)</small>
+
+Para ser nombrado titular de las dependencias, entidades y unidades administrativas del Ayuntamiento será requisito indispensable presentar certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias, el cual deberá ser entregado a la autoridad administrativa correspondiente.
+
 ###### Artículo 128.
 
 Corresponde originalmente a las y los titulares de las dependencias, entidades y unidades administrativas el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en las y los servidores a que se refiere el artículo anterior, cualesquiera de sus atribuciones, excepto aquellas que por disposición de esta Ley, reglamentos o resoluciones del Ayuntamiento, no sean delegables.
@@ -3594,3 +3602,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Los Municipios del Estado, deberán en su presupuesto de egresos del ejercicio fiscal del año próximo a la entrada en vigor del presente Decreto incluir los recursos necesarios para el cumplimiento del mismo.
 
 TERCERO. Los Municipios del Estado, deberán adecuar su reglamentación municipal, a lo mandatado en el presente Decreto, en un máximo de 90 días naturales a partir de su entrada en vigor.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE “SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 127 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
