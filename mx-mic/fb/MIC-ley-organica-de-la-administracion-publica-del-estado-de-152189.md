@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-152189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-08"
-last_updated: "2025-01-20"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Octava Sección del Número 77 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 8 de octubre de 2021.
 
@@ -139,9 +139,13 @@ El despacho de los asuntos que competen al Gobernador del Estado, se realizará 
 
 Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo, salvo en el caso de ausencia temporal o impedimento de éste, que será reemplazado por el Secretario de Finanzas y Administración, de conformidad con la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### Artículo 11.
 
-Al frente de cada dependencia y entidad de la Administración Pública Estatal habrá un titular, quién para el despacho de los asuntos de su competencia, se auxiliará con los servidores públicos que se establezcan en las disposiciones reglamentarias internas de la Administración Pública Centralizada y en otras disposiciones aplicables.
+Al frente de cada dependencia y entidad de la Administración Pública Estatal habrá un titular, quien para el despacho de los asuntos de su competencia, se auxiliará con las y los servidores públicos que se establezcan en las disposiciones reglamentarias internas de la Administración Pública Centralizada y en otras disposiciones aplicables.
+
+No podrán ser nombrados titulares de dependencias o entidades, aquellas personas que se encuentren inscritos en el Registro Nacional de Obligaciones Alimentarias como deudores alimentarios morosos, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente. Así como aquellas personas que cuenten con una sentencia firme derivada de un proceso penal o familiar, ni quienes hayan sido condenados por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos. En consecuencia, será necesario presentar certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias ante la autoridad administrativa correspondiente.
 
 ###### Artículo 12.
 
@@ -187,15 +191,21 @@ XVIII. Coadyuvar con el Consejo Michoacano para la Inclusión de las Personas co
 
 XIX. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos jurídicos respectivos.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+
 ###### Artículo 13.
 
-El Gobernador del Estado, nombrará y removerá libremente a los servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes; garantizando el principio de paridad de género.
+El Gobernador del Estado, nombrará y removerá libremente a las y los servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes; garantizando el principio de paridad de género.
 
-Los titulares de las dependencias de la Administración Pública Estatal, designarán a los servidores públicos dentro de las dependencias a que se refiere la presente ley, previo acuerdo con el Gobernador del Estado, garantizando el principio de paridad de género.
+Las personas titulares de las dependencias de la Administración Pública Estatal designarán a las y los servidores públicos dentro de las dependencias a que se refiere la presente Ley, previo acuerdo con el Gobernador del Estado, garantizando el principio de paridad de género.
 
-Los titulares de las entidades serán designados por el Gobernador del Estado, conforme a la ley de la materia. El Gobernador, podrá delegar dicha función al Secretario del ramo en cuestión. En lo relativo a los servidores públicos de las entidades, estos serán designados por el secretario del ramo a propuesta del titular de la entidad, previo acuerdo con el Gobernador. Garantizando el principio de paridad de género.
+Las personas titulares de las entidades serán designadas por el Gobernador del Estado, conforme a la ley de la materia. El Gobernador, podrá delegar dicha función a la Secretaria o Secretario del ramo en cuestión. En lo relativo a los servidores públicos de las entidades, estos serán designados por la secretaria o secretario del ramo a propuesta del titular de la entidad, previo acuerdo con el Gobernador. Garantizando el principio de paridad de género.
 
 La contratación de personas físicas que no formen parte de la estructura establecida en la ley, los reglamentos o manuales del Poder Ejecutivo se ajustarán a la disponibilidad presupuestal de cada dependencia y entidad de la Administración Pública. No deberán de crearse nuevos puestos laborales sin que exista partida presupuestal que los respalde.
+
+No podrán ser servidores públicos del Poder Ejecutivo aquellas personas que se encuentren inscritos en el Registro Nacional de Obligaciones Alimentarias como deudores alimentarios morosos, salvo que se acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente. Así como aquellas personas que cuenten con una sentencia firme derivada de un proceso penal o familiar, ni quienes hayan sido condenados por la comisión intencional de delitos contra la vida y la integridad corporal, la libertad y seguridad sexual, el desarrollo psicosexual, así como por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual o violencia política de género en cualquiera de sus modalidades y tipos.
+
+Para ser nombrado servidor público, será requisito indispensable presentar certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias ante la autoridad administrativa correspondiente.
 
 ###### Artículo 14.
 
@@ -1716,3 +1726,15 @@ P.O. 20 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 142 POR EL QUE “SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 16, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 17; SE DEROGA EL APARTADO B DEL ARTÍCULO 16; Y, SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 17 Y EL ARTÍCULO 36 BIS, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 11 Y 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
