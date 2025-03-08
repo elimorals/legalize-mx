@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-funcion-registral-y-catastral-del-estado-de-146778"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-26"
-last_updated: "2021-01-26"
+last_updated: "2025-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 26 de enero de 2021.
 
@@ -589,9 +589,17 @@ X. Las sentencias que declaren la ausencia y la presunción de muerte;
 
 XI. Sentencias en que se declare una quiebra o se admita una cesión de bienes;
 
-XII. Autos en que se ordene un secuestro o una intervención; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
-XIII. Las demás que señale el Reglamento de esta Ley.
+XII. Autos en que se ordene un secuestro o una intervención;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XIII. Cuando en materia familiar se solicite una providencia precautoria al iniciar un procedimiento judicial de pensión alimenticia; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2025)</small>
+
+XIV. Las demás que señale el Reglamento de esta Ley.
 
 Las mencionadas anotaciones se llevarán a cabo de acuerdo con lo que determine esta Ley y su Reglamento; pudiéndose inscribir y anotar, además, con independencia de los asientos que proceda practicar en el Folio real electrónico que comprenda.
 
@@ -1272,3 +1280,17 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 14 catorce días del mes de enero del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- C. ARMANDO HURTADO ARÉVALO.- (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE “SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS; A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN; A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN; A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO; A LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO; AL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO; A LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO; AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN; A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO; Y, A LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO, EN MATERIA DE DEUDORES ALIMENTARIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo (sic), así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
