@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2025-02-12"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -441,9 +441,17 @@ XX. Representantes de los clubes y organizaciones de migrantes en el extranjero;
 
 XXI. Un o una representante de las instituciones educativas vinculadas con la investigación de la migración en el Estado;
 
-XXII. Un o una representante de las organizaciones para la atención de personas migrantes con presencia en el Estado, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-XXIII. Un o una representante municipal por cada una de las cuatro regiones del Estado.
+XXII. Un o una representante de las organizaciones para la atención de personas migrantes con presencia en el Estado;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXIII. Un o una representante municipal por cada una de las cuatro regiones del Estado, y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXIV. La Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 ###### ARTÍCULO 31.
 
@@ -634,3 +642,11 @@ P.O. 12 DE FEBRERO DE 2025.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0171.- SE REFORMAN LAS FRACCIONES XXII Y XXIII DEL ARTÍCULO 30; Y ADICIONA LA FRACCIÓN XXIV AL MISMO ARTÍCULO 30, DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
