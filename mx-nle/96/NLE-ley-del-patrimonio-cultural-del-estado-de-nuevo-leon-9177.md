@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2024-12-02"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -53,7 +53,9 @@ Para los efectos del artículo anterior se entiende por:
 
 I. Bienes históricos: Todos los bienes muebles e inmuebles, recursos naturales que se encuentren vinculados a la historia social, política económica, cultural y religiosa del Estado, o que hayan adquirido con el tiempo valor cultural, así como aquellos relacionados con la vida de un personaje de la historia del Estado.
 
-II. Bienes artísticos: Los muebles e inmuebles que posean valores estéticos permanentes, y las obras y archivos literarios musicales y fotográficos cuya importancia o valor sean de interés para el arte en el Estado.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
+
+II. Bienes artísticos: Los muebles e inmuebles que posean valores estéticos permanentes, las obras, los archivos literarios, musicales, fotográficos y cinematográficos cuya importancia o valor sean de interés para el arte en el Estado.
 
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
@@ -838,3 +840,9 @@ P.O. 2 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 004. SE REFORMA EL ARTÍCULO 77 DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 064. SE REFORMA LA FRACCIÓN II AL ARTÍCULO 4O (SIC), DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
