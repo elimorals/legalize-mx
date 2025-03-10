@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-02-21"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -1383,11 +1383,11 @@ En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe prev
 
 77. La persona que construya una obra nueva, amplíe una existente, o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta incumpla los requisitos y condiciones establecidos en la misma o en este Libro, estará obligada a reparar los daños ambientales que con tal motivo hubiere causado, sin perjuicio de la aplicación de las sanciones respectivas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 2.
 
-78. Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante (sic) Comisión de Impacto Estatal tendrán derecho a formular por escrito dentro del expediente del procedimiento administrativo correspondiente, observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a la evaluación de impacto ambiental.
+78. Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante la Comisión de Impacto Estatal tienen derecho a formular por escrito observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a la evaluación de impacto ambiental.
 
 El Reglamento establecerá la forma a través de los cuales se hará efectivo el derecho a que se refiere el párrafo anterior para lo cual determinará las formalidades, plazos y demás circunstancias que resulten necesarias para garantizar adecuadamente los derechos a que se refieren los artículos 1.2 fracción I del Libro Primero de este Código y 2.27 fracción II del presente Libro.
 
@@ -1837,6 +1837,8 @@ VII. Los apoyos a las actividades agrícolas que otorgue el Gobierno Estatal de 
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 2.
 
 132. Las personas que realicen actividades de exploración o manejo de cualquier depósito del subsuelo están obligadas (sic) internalizar costos, así como restaurar el suelo y subsuelo afectados, a reforestar y regenerar los entornos volcánicos y las estructuras geomorfológicas dañadas en los términos del presente Libro, su Reglamento, las normas oficiales mexicanas, las normas técnicas estatales, los criterios ecológicos y demás ordenamientos jurídicos que resulten aplicables.
@@ -1859,7 +1861,7 @@ VII. Los apoyos a las actividades agrícolas que otorgue el Gobierno Estatal de 
 
 ###### Artículo 2.
 
-137. La Secretaría en coordinación con los Municipios del Estado en el ámbito de competencia de la Entidad y en los términos que se establezcan en el Reglamento correspondiente deberá llevar un inventario de emisiones atmosféricas, descargas de aguas residuales en cuerpos receptores de jurisdicción estatal y municipal o que se filtren al subsuelo materiales y residuos de su competencia, coordinar los registros que establezca este Libro y crear un sistema único de información de carácter público basado en las autorizaciones, licencias o permisos que en la materia deba otorgar.
+137. La Secretaría en coordinación con los Municipios del Estado en el ámbito de competencia de la Entidad y en los términos que se establezcan en el Reglamento correspondiente deberá llevar un inventario de fuentes fijas o móviles que emitan a la atmósfera sustancias contaminantes, que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente, incluyendo sistemas antigranizo o cualquier otro mecanismo o tecnología que inhiba, modifique o altere el ciclo hidrológico, descargas de aguas residuales en cuerpos receptores de jurisdicción estatal y municipal o que se filtren al subsuelo materiales y residuos de su competencia, coordinar los registros que establezca este Libro, incluyendo el relativo a proveedores de equipos y servicios relacionados con las fuentes fijas o móviles referidas en el presente artículo y crear un sistema único de información de carácter público basado en las autorizaciones, licencias o permisos que en la materia deba otorgar, según su competencia.
 
 ###### Artículo 2.
 
@@ -1881,9 +1883,11 @@ Para la adecuada prevención de la contaminación todas las fuentes contaminante
 
 140. Se prohíbe la emisión a la atmósfera de contaminantes como humos, polvos, gases vapores y olores que rebasen los límites máximos permisibles contemplados en las normas oficiales mexicanas, normas técnicas estatales y en las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 2.
 
-141. Deberá regularse la emisión de contaminantes a la atmósfera que ocasione o pueda ocasionar desequilibrios a los ecosistemas o daños al ambiente.
+141. Deberá regularse la emisión de sustancias contaminantes a la atmósfera, en cualquiera de sus estados físicos o de energía como humos, gases, vapores, partículas sólidas, ruido, vibraciones, energía térmica o lumínica, olores, polvos y líquidos que ocasione o pueda ocasionar desequilibrios a los ecosistemas o daños al ambiente, incluyendo sistemas antigranizo o cualquier otro mecanismo o tecnología que inhiba, modifique o altere el ciclo hidrológico.
 
 En todas las emisiones a la atmósfera deberán cumplirse las disposiciones del presente Libro y su Reglamento y las normas oficiales mexicanas y normas técnicas estatales en la materia y demás disposiciones aplicables.
 
@@ -3160,6 +3164,10 @@ II. Trafique en los asuntos no reservados a la Federación con una o más especi
 ###### Artículo 2.
 
 270. Se hará acreedor a una sanción por el equivalente de mil doscientas cincuenta a cincuenta y cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien realice obras, actividades o aprovechamientos de elementos y recursos naturales o bienes ambientales, sin contar con la previa autorización de la manifestación de impacto ambiental en los casos en que ésta sea exigible. En caso de que ya se hubiere iniciado el procedimiento de evaluación de impacto ambiental la Secretaría además de imponer la sanción correspondiente, podrá negar la autorización respectiva.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2025)</small>
+
+La misma sanción será aplicable para quienes, sin contar con la autorización de las autoridades competentes inhiban, modifiquen o alteren el ciclo hidrológico mediante el uso de tecnologías de alteración artificial del tiempo para la precipitación pluvial o lluvias fuertes, tales como cañones antigranizo, avionetas antilluvia o cualquier otro dispositivo tecnológico para la inhibición, alteración o modificación del granizo o lluvia que genere posibles impactos negativos a la biodiversidad, perturbe o altere los ecosistemas y el equilibrio ecológico al modificar los hábitats y los patrones de distribución de especies, desestabilizar los ciclos de nutrientes y la dinámica de las comunidades biológicas y afecte la calidad y cantidad del agua al alterar los patrones de precipitación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -4631,6 +4639,10 @@ I. Composteo: Tratamiento mediante biodegradación aeróbica o anaeróbica que p
 
 II Contenedor: Receptáculo destinado al depósito generalmente de forma temporal de residuos sólidos urbanos. Receptáculo que se usa para sustancias líquidas;
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2025)</small>
+
+II Bis. Centro Integral de Residuos: Instalación diseñada y operada para la gestión integral de residuos sólidos urbanos y de manejo especial con la finalidad de garantizar el aprovechamiento, tratamiento y disposición final adecuada de estos residuos, conforme a los principios de sostenibilidad ambiental, salud pública y protección al medio ambiente;
+
 III. Desarrollo Sostenible: El proceso evaluable mediante criterios e indicadores de las condiciones ambientales, económicas y sociales que tiende a mejorar la calidad de vida y la productividad de las personas fundándose en medidas apropiadas para la preservación de la integridad de los ecosistemas, la protección al ambiente y aprovechamiento de los elementos y recursos naturales de manera que no se comprometa la satisfacción de las generaciones futuras;
 
 IV. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo mediante una forma de tratamiento de cualquier índole o mineralización que lo transforme en un material inerte;
@@ -5311,7 +5323,9 @@ Para dar cumplimiento a las disposiciones contenidas en el párrafo anterior se 
 
 55. Los propietarios de mascotas están obligados a recoger las heces fecales generadas por éstas cuando transiten con ellas por la vía pública o en las áreas comunes y depositarlas en los recipientes o contenedores específicos en la vía pública o dentro de sus domicilios. Los animales muertos en los domicilios o en la vía pública deberán ser llevados en bolsas de polietileno o contenedores herméticamente cerrados a los centros de inhumación o disposición final autorizados o establecidos por las autoridades competentes.
 
-## TITULO QUINTO. DE LOS SERVICIOS DE LIMPIA Y RECOLECCION DE RESIDUOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE MARZO DE 2025)</small>
+
+## TITULO QUINTO. DEL MANEJO INTEGRAL DE LOS RESIDUOS
 
 ### CAPITULO II. DE LA SEPARACION Y ORGANIZACION DE RESIDUOS
 
@@ -5331,15 +5345,23 @@ IV. La eliminación mediante tecnologías de mineralización de disposición fin
 
 57. La prestación del servicio de limpia podrá concesionarse en las etapas a las que se refieren las fracciones II a IV del artículo anterior de conformidad con el presente Libro y demás ordenamientos jurídicos aplicables. En cualquiera de los casos el manejo que se haga de los residuos sólidos urbanos o de manejo especial deberá ser ambientalmente efectivo de conformidad con este Libro y demás ordenamientos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 4.
 
-58. Para la prestación del servicio de limpia concesionado la autoridad competente deberá actuar dentro de los siguientes parámetros:
+58. Para el manejo integral de los residuos sólidos urbanos y de manejo especial a través de los rellenos sanitarios, centros integrales de residuos o sitios de disposición final autorizados la autoridad competente deberá actuar dentro de los siguientes parámetros:
 
-I. La adopción obligatoria por parte del concesionario de un seguro de responsabilidad o una garantía financiera por posibles daños ocasionados con motivo de la prestación de su servicio y para cubrir los gastos que ocasione el cierre de las instalaciones y el monitoreo posterior al cierre de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2025)</small>
 
-II. El establecimiento de indicadores de cumplimiento de conformidad con las normas del régimen de concesión vigente para evaluar el desempeño ambiental de la gestión de la empresa concesionaria; y
+I. La adopción obligatoria de un seguro de responsabilidad o una garantía financiera por posibles daños ocasionados con motivo de la prestación de su servicio y para cubrir los gastos que ocasione el cierre de las instalaciones, costos asociados a la rehabilitación de posibles afectaciones o de remediación ambiental y monitoreo posterior al cierre de conformidad con las disposiciones legales aplicables;
 
-III. La evaluación y monitoreo permanente por parte del concesionario de los impactos a la salud y al medio ambiente de los procesos y tecnologías que utilicen.
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2025)</small>
+
+II. El establecimiento de indicadores de cumplimiento de conformidad con las normas del régimen de concesión vigente para evaluar el desempeño integral de la gestión de la empresa concesionaria, en el caso de los Centros integrales de residuos deberán considerar la reducción de residuos de disposición final, tasas de reciclaje y recuperación de materiales, los cuales serán de acceso público;
+
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2025)</small>
+
+III. La evaluación y monitoreo permanente de los impactos a la salud y al medio ambiente de los procesos y tecnologías que utilicen.
 
 Todo otorgamiento de concesión deberá estipular clara y específicamente las condiciones y términos del servicio contratado garantizando un manejo integral, sanitariamente seguro y ambientalmente sostenible de los residuos sólidos y de los sitios de operación en todas las fases del ciclo de vida de los servicios y al cierre de las operaciones de los mismos.
 
@@ -5637,13 +5659,17 @@ La separación de este tipo de residuos sólo se realizará cuando previamente s
 
 En localidades en las cuales pueda darse un máximo aprovechamiento a los residuos orgánicos mediante la elaboración de composta se limitará el entierro en rellenos sanitarios a un máximo de diez por ciento de este tipo de residuos para prevenir la formación de lixiviados, salvo en los casos en los cuales se prevea la generación y aprovechamiento del biogás generado por los residuos orgánicos confinados. En este último caso los rellenos sanitarios emplearán mecanismos para instalar sistemas de extracción de gas para su recolección y posterior uso para producir electricidad o utilizarlo como combustible alterno, así como sistemas de recolección y tratamiento de lixiviados.
 
-###### Artículo 4.
-
-92. Los rellenos sanitarios para la disposición final de residuos sólidos urbanos y residuos sólidos de manejo especial que se consideren deben separarse del resto de los residuos por sus características y por la posibilidad de que posteriormente puedan ser aprovechados y se ubicarán, diseñarán y construirán de conformidad con la disposición reglamentaria derivada del presente Libro y las contenidas en las normas oficiales mexicanas y normas técnicas estatales correspondientes.
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 4.
 
-93. Al final de su vida útil las instalaciones para la disposición final de los residuos sólidos urbanos o de manejo especial se cerrarán siguiendo las especificaciones establecidas con tal propósito en los ordenamientos jurídicos correspondientes y mediante la aplicación de las garantías financieras que por obligación deben de adoptarse para hacer frente a ésta y otras eventualidades.
+92. Los rellenos sanitarios o centros integrales de residuos para la disposición final de residuos sólidos urbanos y residuos de manejo especial deben separar estos del resto de los residuos por sus características y por la posibilidad de que posteriormente puedan ser aprovechados, y se ubicarán, diseñarán y construirán de conformidad con la disposición reglamentaria derivada del presente libro y las contenidas en las normas oficiales mexicanas y normas técnicas estatales correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MARZO DE 2025)</small>
+
+###### Artículo 4.
+
+93. Al final de su vida útil las instalaciones para la disposición final de los residuos sólidos urbanos o de manejo especial se cerrarán siguiendo las especificaciones establecidas con tal propósito en los ordenamientos jurídicos correspondientes y mediante la aplicación de las garantías financieras que por obligación deben adoptarse para hacer frente a ésta y otras eventualidades, de conformidad con lo establecido en el presente libro.
 
 Las áreas ocupadas por las celdas de confinamiento de los residuos al igual que el resto de las instalaciones de los rellenos sanitarios cerradas debidamente de conformidad con la normatividad aplicable deberán contar con señalización conspicua que prevenga sobre las características del suelo y podrán ser aprovechadas para crear parques, jardines y desarrollo de otro tipo de proyectos compatibles con los usos de suelo autorizados en la zona siempre y cuando se realice el monitoreo de los pozos construidos con tal fin por un periodo no menor a quince años posteriores al cierre de los sitios de disposición final de residuos.
 
@@ -5793,6 +5819,10 @@ III. Multa de dos mil a veinte mil veces el valor diario de la Unidad de Medida 
 
 IV. Arresto administrativo hasta por treinta y seis horas o multa de mil a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2025)</small>
+
+En los casos respecto de las infracciones contenidas en las fracciones I, II, III, IV, V, IX y XV del artículo 4.45 de este Libro, adicionalmente a la sanción que corresponda, la autoridad podrá aplicar la ejecución de trabajo en favor de la comunidad relacionado con la protección, conservación y preservación del medio ambiente en el espacio afectado.
+
 ###### Artículo 4.
 
 105. Las infracciones a lo dispuesto en este Libro que en el cuerpo de la misma no tuviere señalada una sanción serán sancionadas a juicio de las autoridades competentes atendiendo a lo que se señale en el Reglamento respectivo.
@@ -5843,9 +5873,11 @@ En todo lo no previsto en el presente Título la autoridad correspondiente se su
 
 112. La exención de responsabilidad sólo se producirá acreditando que a pesar de haberse adoptado todas las medidas destinadas a evitarlos y sin mediar culpa concurrente del generador u operador de instalaciones los daños y perjuicios se produjeron por culpa exclusiva de la víctima o de un tercero por quien no se deba responder.
 
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 4.
 
-113. La Secretaría y las autoridades municipales según su ámbito de competencia podrán ser subsidiariamente responsables atendiendo a su capacidad financiera y presupuestaria por los perjuicios ocasionados a los usuarios y están en la obligación de accionar contra los administradores, funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sanciones penales a que haya lugar.
+113. Las autoridades municipales, en su ámbito de competencia, podrán ser subsidiariamente responsables atendiendo a su capacidad financiera y presupuestaria por los funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sanciones penales a que haya lugar.
 
 ###### Artículo 4.
 
@@ -8489,9 +8521,9 @@ DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la ar
 
 G.G. 20 DE DICIEMBRE DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 31.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 31.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor el 01 de enero de 2025.
 
@@ -8524,3 +8556,31 @@ Los Ayuntamientos realizarán las adecuaciones normativas en sus bandos municipa
 ###### ARTÍCULO CUARTO.
 
 La Secretaría del Medio Ambiente y Desarrollo Sostenible deberá establecer las acciones y medidas para la sustitución gradual de plásticos de un solo uso que se utilicen en las oficinas de la Administración Pública Estatal y no sean biodegradables, de manera enunciativa más no limitativa señalará los productos susceptibles de sustitución.
+
+G.G. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 95.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO QUINTO DEL LIBRO CUARTO, EL PÁRRAFO PRIMERO, LAS FRACCIONES I, II Y III DEL ARTÍCULO 4.58, EL ARTÍCULO 4.92, EL PÁRRAFO PRIMERO DEL ARTÍCULO 4.93 Y EL ARTÍCULO 4.113 Y SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 4.5 Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 4.104 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 96.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 2.78, EL ARTÍCULO 2.137 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 2.141 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2.270 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría del Campo, en coordinación con las Secretarías del Agua y del Medio Ambiente y Desarrollo Sostenible, emitirá la Norma Técnica Estatal correspondiente para regular el uso de productos químicos o tecnología en la inhibición, alteración o modificación del ciclo hidrológico con fines agrícolas, ello con el objetivo de lograr un desarrollo rural integral y sostenible.
