@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2021-05-10"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -63,9 +63,17 @@ IV. Promover, en coordinación con los sectores públicos, social y privado, el 
 
 V. Promover programas de fomento deportivo y recreativo, garantizando que se determine la participación adecuada de las personas con discapacidad, adultos mayores y de aquellas personas que se encuentran en zonas de marginación en el Estado;
 
-VI.- Apoyar de manera integral el desarrollo de los deportistas nuevoleoneses de alto rendimiento; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-VII. Promover la capacitación de los profesionales del deporte en el Estado, en coordinación con las autoridades competentes.
+VI. Apoyar de manera integral el desarrollo de los deportistas nuevoleoneses de alto rendimiento;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
+
+VII. Promover la capacitación de los profesionales del deporte en el Estado, en coordinación con las autoridades competentes; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+VIII. Promover y establecer programas de detección e identificación temprana del alumnado con talento extraordinario en una determinada área deportiva, en las escuelas de educación básica del Estado;
 
 ###### Artículo 4.
 
@@ -139,13 +147,21 @@ XXVI. Concertar y suscribir acuerdos de colaboración con organismos gubernament
 
 XXVII. Celebrar todos aquellos acuerdos, convenios y contratos que le permitan cumplir con su objeto y atribuciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-XXVIII. Ofrecer opciones de actividades deportivas a personas en zonas de marginación, acordes a los intereses y contextos de las personas; y
+XXVIII. Ofrecer opciones de actividades deportivas a personas en zonas de marginación, acordes a los intereses y contextos de las personas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2025)</small>
 
-XXIX. Las demás que le confiera esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+XXIX. Planear, desarrollar, fomentar, coordinar y establecer programas de detección e identificación temprana del alumnado con talento extraordinario en una determinad (sic) área deportiva, en las escuelas de educación básica del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXX. Realizar campañas para prevenir, combatir y erradicar el uso de estimulantes, sustancias o métodos prohibidos y restringidos; y
+
+> <small>(ADICIONADA [N. E E. REUBICADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXXI. Las demás que le confiera esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
 ###### Artículo 6.
 
@@ -207,7 +223,9 @@ II. Un Presidente del Consejo que será un ciudadano designado por el Ejecutivo 
 
 III. Un Secretario, que será elegido por los integrantes del Consejo de entre sus miembros Vocales Consejeros, quien conservará su derecho de voz y voto sólo en su carácter de vocal; y
 
-IV. Doce Vocales Consejeros, que serán los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MARZO DE 2025)</small>
+
+IV. Trece Vocales Consejeros, que serán los siguientes:
 
 a) Un representante de la Secretaría de Educación del Estado;
 
@@ -254,6 +272,10 @@ k) Un representante de las asociaciones olímpicas, de las registradas en el Sis
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 I) Un representante de las asociaciones no olímpicas, de las registradas en el Sistema Estatal de Cultura Física y Deporte.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+m) Un representante de a (sic) Secretaría de Salud.
 
 Por cada Consejero Vocal se podrá designar a su respectivo suplente.
 
@@ -577,6 +599,10 @@ XI. Establecer lineamientos de control para asegurar el buen funcionamiento de l
 
 XII. Establecer estrategias para el establecimiento del sistema estatal de capacitación.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+Artículo 18 Bis V.- Los Directores deberán establecer programas de detección e identificación temprana del alumnado con talento extraordinario en una determinada área deportiva, en las escuelas de educación básica del Estado.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 19.
@@ -734,5 +760,17 @@ P.O. 10 DE ENERO DE 2018.
 P.O. 10 DE MAYO DE 2021.
 
 ## N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 477. SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 16 DE LA LEY ESTATAL DEL DEPORTE, Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3, LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 5; Y SE ADICIONA UNA FRACCIÓN XXIX AL ARTÍCULO 5 DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 061. SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 3, LAS FRACCIONES XXVIII Y XXIX DEL ARTÍCULO 5; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 3, LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 5 Y UN ARTÍCULO 18 BIS V, TODOS DE LA LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 066. SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 8 Y SE ADICIONA UN INCISO M) A LA FRACCIÓN IV DEL ARTÍCULO 8 TODOS DE LA LEY DEL INSTITUTO ESTATAL DE CULTURAL FÍSICA Y DEPORTE DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
