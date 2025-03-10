@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2024-10-15"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -825,9 +825,9 @@ XVII. Ecología y Protección al Medio Ambiente;
 
 XVIII. Niñez, Juventud y Deporte;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-XIX. Igualdad de Género y Familia;
+XIX. Igualdad de Género y Familias;
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1235,7 +1235,9 @@ V. Acreditar ante la Comisión de Gobierno el perfil, conocimiento y experiencia
 
 El Congreso contará con una Unidad para la Igualdad de Género, la cual tendrá como objeto garantizar de manera efectiva el derecho fundamental a la igualdad entre mujeres y hombres, encargada de diseñar e implementar las estrategias para la transversalización de la perspectiva de género y una política protectora de derechos humanos e igualdad sustantiva, a través del fomento, promoción y generación de acciones y políticas públicas, dentro de su marco competencial.
 
-La Unidad para la Igualdad de Género funcionará como comité, procurando la paridad de género en su conformación, y estará integrada por la persona que ejerza la presidencia o titularidad de la Comisión de Gobierno, de la Comisión Legislativa de Igualdad de Género y Familia, de la Secretaría General, de la Oficialía Mayor y de la Contraloría Interna.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
+
+La Unidad para la Igualdad de Género funcionará como comité, procurando la paridad de género en su conformación, y estará integrada por la persona que ejerza la presidencia o titularidad de la Comisión de Gobierno, de la Comisión Legislativa de Igualdad de Género y Familias, de la Secretaría General, de la Oficialía Mayor y de la Contraloría Interna.
 
 Las o los titulares señalados en el párrafo anterior, podrán designar a quien pueda fungir como su representante, así como, sustituirlo de manera libre.
 
@@ -1878,3 +1880,9 @@ P.O. 15 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DEL PLAN DE DESARROLLO INSTITUCIONAL”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE MODIFICACIÓN DE LA DENOMINACIÓN DE LA COMISIÓN DE IGUALDAD DE GÉNERO Y FAMILIA, POR COMISIÓN DE IGUALDAD DE GÉNERO Y FAMILIAS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
