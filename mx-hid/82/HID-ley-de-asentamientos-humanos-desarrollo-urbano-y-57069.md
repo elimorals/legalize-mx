@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2024-09-17"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -2097,9 +2097,15 @@ VII.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acue
 
 VIII.- Construir el equipamiento urbano necesario que le haya sido señalado en la autorización correspondiente, de conformidad con el Reglamento de esta Ley;
 
-IX.- Construir las redes de infraestructura necesarias para el acercamiento de los servicios públicos de la acción urbana autorizada; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-X.- Las demás que establezca la reglamentación respectiva.
+IX.- Construir las redes de infraestructura necesarias para el acercamiento de los servicios públicos de la acción urbana autorizada;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+X.- Iniciar con los trámites para la municipalización del fraccionamiento dentro de los sesenta días naturales posteriores a la venta del 50 % del total de los lotes y/o viviendas autorizados por las autoridades competentes para el fraccionamiento o etapa correspondiente, conforme a los requisitos que para tal efecto señala esta Ley y su Reglamento, y
+
+XI.- Las demás que establezca la reglamentación respectiva.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -2493,6 +2499,10 @@ V.- Llevar a cabo la ejecución de obras o instalaciones de cualquier naturaleza
 
 VI.- Establecer o cambiar el uso de suelo o destino de un predio, inmueble o edificación, distinto al proyecto aprobado, sin permiso, licencia o autorización correspondiente;
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+VI Bis.- Incumplir la obligación de iniciar y concretar la municipalización de los fraccionamientos, en los términos y condiciones establecidos por esta Ley y su Reglamento;
+
 VII.- Incurrir en actos u obras referentes a un asentamiento humano que propicie la ocupación en zonas de restricción o no autorizadas;
 
 VIII.- Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo, sin haber obtenido su renovación o prórroga;
@@ -2543,9 +2553,9 @@ b) Con particulares, la rescisión administrativa de convenios o, en su caso, mu
 
 II.- La suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones, para los supuestos contemplados en las fracciones II, III, IV y V, y en su caso, multa de 500 a 1000 veces la Unidad de Medida y Actualización vigente;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-III.- La revocación de las licencias, autorizaciones y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI, y en su caso, multa de 1000 a 2000 veces la Unidad de Medida y Actualización vigente;
+III.- La revocación de las licencias, autorizaciones y permisos otorgados, cuando se incurra en los supuestos contemplados en las fracciones VI y VI Bis, y en su caso, multa de 1000 a 2000 veces la Unidad de Medida y Actualización vigente;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2842,3 +2852,15 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1115 POR EL CUAL SE REFORMAN Y (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, EN MATERIA DE MUNICIPALIZACIÓN DE FRACCIONAMIENTOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de un plazo de 180 días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo, los municipios deberán realizar las adecuaciones a la normativa administrativa para el cumplimiento de lo establecido en el presente Decreto.
+
+TERCERO. Dentro de un plazo de 180 días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo, se deberá realizar la adecuación al Reglamento de la Ley.
+
+CUARTO. Los Fraccionadores que efectúen obras, construcciones, instalaciones o servicios están sujetos a lo que establezca la norma vigente al momento de que se les haya otorgado la autorización correspondiente.
