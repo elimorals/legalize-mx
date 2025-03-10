@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-01-27"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -339,33 +339,39 @@ Son habitantes del Estado, las personas que residen en su territorio.
 
 La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 12.
 
-Son derechos de los ciudadanos del Estado:
+Son derechos de la ciudadanía del Estado:
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
 
 I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MARZO DE 2025)</small>
 
-II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá cumplir con los principios de equidad y paridad de género; y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación;
+II.- Ser votada en condiciones de paridad para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 Cuando se trate de personas candidatas para el cargo de Titular de una Magistratura del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes, así como de personas juzgadoras del Poder Judicial del Estado de Aguascalientes, corresponderá a los Poderes del Estado remitir las postulaciones para esos cargos al Instituto Estatal Electoral, conforme lo establecido en el artículo 54 de esta Constitución y las leyes correspondientes.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2018)</small>
+
 Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-III.- Asociarse para constituir partidos políticos locales o asociaciones políticas locales; y
+III.- Asociarse libremente y de forma pacífica para constituir partidos políticos locales o asociaciones políticas locales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-IV.- Hacer uso de los instrumentos de participación ciudadana, previstos en la ley de la materia.
+IV.- Hacer uso de los instrumentos de participación ciudadana, previstos en la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+V.- Poder ser nombrada para cualquier empleo o comisión de la Administración Pública Estatal y Municipal, teniendo las calidades que establezca la ley.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -4608,6 +4614,14 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 27 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 42.- SE ADICIONA UN PÁRRAFO DÉCIMO OCTAVO AL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 72.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
