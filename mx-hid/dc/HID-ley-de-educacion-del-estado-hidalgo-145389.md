@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-09-17"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -172,6 +172,10 @@ Así mismo, dichas autoridades podrán implementar programas de capacitación y 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
 
 De igual forma, podrán implementar programas de capacitación, orientación y vigilancia, en materia de nutrición, sobrepeso y obesidad.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+También podrán implementar programas y proyectos de capacitación, dirigidos a educandos, docentes y padres de familia, orientados a promover la educación financiera. Para tal efecto, las autoridades competentes podrán establecer vínculos con instituciones financieras del sector público o privado, y con organizaciones de la sociedad civil.
 
 ###### Artículo 11.
 
@@ -771,6 +775,10 @@ XI. Los valores para la responsabilidad ciudadana y social, como el respeto por 
 
 XII. La educación emocional; la cual se entiende como el proceso educativo, continuo y permanente que pretende potenciar el desarrollo como complemento indispensable del crecimiento cognitivo, constituyendo ambos elementos esenciales del desarrollo de la personalidad.
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XIII. La educación financiera, entendida como una herramienta práctica e integral destinada a preparar a los estudiantes para tomar decisiones económicas responsables, fomentar el consumo consciente, y desarrollar habilidades para una vida financieramente sostenible.
+
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 61.
@@ -796,6 +804,10 @@ Las instituciones educativas deberán informar periódicamente a los educandos y
 Los planes y programas de estudio cumplirán con los requisitos establecidos en la Ley General de Educación, además favorecerán el desarrollo integral y gradual de los educandos en los niveles preescolar, primaria, secundaria, media superior y la normal, considerando la diversidad de saberes y formas de aprendizaje, con un carácter didáctico, pedagógico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones.
 
 Sus propósitos, contenidos, procesos y estrategias educativas, recursos, pedagógicos, didácticos, curriculares y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+Los planes y programas de estudio tendrán perspectiva de género para, desde ello, contribuir a la construcción de una sociedad en donde a las mujeres y a los hombres se les reconozcan sus derechos y los ejerzan en igualdad de oportunidades.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -1249,9 +1261,9 @@ VII. Promover la investigación educativa y su financiamiento, a través de prog
 
 VIII. Garantizar la actualización permanente, a través de la capacitación, la formación, así como programas e incentivos para su desarrollo profesional; y
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-IX. Fomentar la capacitación docente en materia de ciencia, tecnología e innovación.
+IX. Fomentar la capacitación docente en materia de ciencia, tecnología e innovación, así como en educación financiera.
 
 ###### Artículo 103.
 
@@ -2518,3 +2530,15 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1119 POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 209 – LXVI POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 63 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PLANES Y PROGRAMAS DE ESTUDIO CON PERSPECTIVA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 211 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN FINANCIERA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
