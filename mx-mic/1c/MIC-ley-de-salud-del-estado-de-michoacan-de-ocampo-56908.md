@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2024-07-26"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -75,6 +75,10 @@ IV. Asociación epidemiológica: Situación en que dos o más casos comparten ca
 
 IV bis. Atención Integrada para los Adultos Mayores (ICOPE): Metodología para evaluar y optimizar la capacidad intrínseca y la capacidad funcional de los adultos mayores. Entendiendo por capacidad intrínseca, la combinación de todas las capacidades físicas y mentales con las que cuenta una persona, incluidas las psicológicas; y, por capacidad funcional, la combinación e interacción de la capacidad intrínseca con el entorno donde habita la persona. La implementación de esta metodología conlleva la aplicación del Manual ICOPE: Guía sobre la evaluación y los esquemas de atención centrados en la persona en la atención primaria de salud, de la Organización Mundial de la Salud;
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+IV ter. Atención posterior a interrupción del embarazo: Provisión de servicios después de una interrupción del embarazo, espontánea o inducida, así como ofrecer información veraz, objetiva y oportuna sobre métodos anticonceptivos y la vinculación con otros servicios necesarios para la persona usuaria, así como seguimiento en caso de complicaciones;
+
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
 V. Autoridad Sanitaria Competente: El titular de la Secretaría de Salud del Estado y/o Presidente Municipal y/o la COEPRIS, en los términos de los acuerdos o convenios que en materia de salud suscriban los ayuntamientos con el Estado;
@@ -85,6 +89,10 @@ VI. Ayuntamientos: Los Gobiernos Municipales;
 
 VII. Brote: Ocurrencia de dos o más casos asociados epidemiológicamente entre sí. La existencia de un caso único bajo vigilancia en un área donde no existía el padecimiento se considera también un brote;
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+VII bis. Calidad en la atención clínica: Es el grado en que los servicios de salud prestados a personas y poblaciones aumentan la probabilidad de lograr los resultados deseados en salud y son consistentes con los conocimientos profesionales actualizados. Permite otorgar a toda persona atención clínica con oportunidad, seguridad y competencia, ofreciendo el mayor beneficio con el menor riesgo;
+
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
 VIII. Casa Habitación: Casa o edificios construidos de una o varias plantas, destinado para ser habitado;
@@ -92,6 +100,10 @@ VIII. Casa Habitación: Casa o edificios construidos de una o varias plantas, de
 IX. Cementerio: El lugar destinado a la prestación de un servicio público y que comprende la inhumación, exhumación y reinhumación de cadáveres, restos humanos y restos humanos áridos o cremados, en fosas excavadas en el suelo o en las construidas sobre éste;
 
 X. COEPRIS: La Comisión Estatal para la Protección Contra Riesgos Sanitarios;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+X bis. Consentimiento informado: Es un proceso clínico de comunicación continua entre el personal de salud y la persona usuaria de los servicios; se documenta en el expediente clínico mediante formatos que contienen la expresión tangible del respeto a la autonomía en el ámbito de la atención médica mediante el cual el personal de salud le informa a la persona usuaria de forma veraz, objetiva y oportuna en calidad y en cantidad suficientes, sobre la naturaleza de su condición de salud y del procedimiento diagnóstico o terapéutico que se propone utilizar, los riesgos y beneficios que este conlleva y las posibles alternativas;
 
 XI. Control de Vectores: Planificación, organización, implementación y monitoreo de actividades para la modificación y manipulación de factores ambientales o su interacción con el hombre con miras a prevenir o minimizar la propagación de vectores y reducir el contacto entre patógenos, vectores y el ser humano;
 
@@ -141,6 +153,14 @@ XXV. Grupo Vulnerable: Los que por sus condiciones sociales, económicas, cultur
 
 XXVI. Guardería: Establecimiento que durante la jornada laboral de los padres o tutores proporciona atención integral a niños desde los 43 días de nacido hasta los 6 años de edad;
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXVI bis. Interrupción Legal del Embarazo: Al procedimiento médico para la interrupción del embarazo que se realiza a solicitud expresa de la niña, adolescente, mujer embarazada o persona gestante, en el ejercicio de sus derechos a la salud sexual y reproductiva, así como su derecho a decidir en el marco de la autonomía reproductiva, en condiciones de atención médica segura en el periodo comprendido entre el momento de implantación y las doce semanas completas de gestación, así como por las causales no punibles sin límite de la etapa gestacional, previstas por el Código Penal para el Estado de Michoacán y demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXVI ter. Interrupción Voluntaria del Embarazo: Al procedimiento médico que a solicitud expresa de la niña, adolescente, mujer embarazada o persona gestante realizan los integrantes del Sistema de Salud del Estado de Michoacán de Ocampo, como derecho de las víctimas de violencia sexual, sin requerir que la solicitante lo haya denunciado ante las autoridades competentes, lo anterior en términos de lo previsto en las Normas Oficiales Mexicanas aplicables;
+
 XXVII. Local: Espacio físico donde se pueden ofrecer bienes y/o servicios, o que puede servir de bodega;
 
 XXVIII. Manejo Integral: Las actividades de reducción de riesgos sanitarios consistentes en la separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera adecuada para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
@@ -152,6 +172,14 @@ XXX. Normas Sanitarias: El conjunto de reglas científicas y tecnológicas, emit
 XXXI. Muestra: El número total de unidades de producto provenientes de un lote y que representan las características y condiciones del mismo;
 
 XXXII. Municipio: Los municipios del Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXXII bis. Objeción de Conciencia en ILE e IVE: Es el derecho individual del personal médico o de enfermería que podrá ejercer para negarse a realizar o participar en el procedimiento de la interrupción legal del embarazo o la interrupción voluntaria del embarazo, fundamentada en convicciones morales, religiosas, ideológicas, éticas, personales o de conciencia;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXXII ter. Salud Sexual y Reproductiva: Es el servicio en relación con la sexualidad, la libertad y seguridad reproductiva, libres de toda coacción, discriminación y violencia; garantizando el respeto a los derechos humanos, interculturalidad, perspectiva de género y el principio de laicidad;
 
 XXXIII. Osario Común: El área donde se depositarán los restos áridos de seres humanos cuando no sean reclamados y haya transcurrido el tiempo señalado en esta Ley;
 
@@ -173,7 +201,19 @@ XXXVI. La Secretaría. La Secretaría de Salud del Estado;
 
 XXXVII. Secretaría Federal: La Secretaría de Salud de la Administración Pública Federal;
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXXVII bis. Servicios de Interrupción Segura del Embarazo: Son todos aquellos en los que se contempla la atención del abordaje de varias condiciones clínicas, entre las que se incluye la interrupción del embarazo espontánea e inducida producto de embarazos viables o no viables, la interrupción del embarazo incompleta y la muerte fetal intrauterina, así como la anticoncepción post interrupción del embarazo, mismo que de ninguna manera será obligatorio ni impuesto, de hacerlo constituirá violencia obstétrica.
+
+Estos servicios deberán contar con tecnologías apropiadas, personal de salud técnicamente competentes, el manejo con medicamentos, la aspiración manual endouterina, la atención adecuada del dolor y la prevención de efectos adversos posteriores al procedimiento; dependiendo de la edad gestacional y situación específica.
+
+Lo anterior, siempre que lo permitan las condiciones generales de salud de las mujeres y personas gestantes, en el ejercicio de su autonomía y sus derechos sexuales y reproductivos. Estos servicios tendrán carácter universal, confidencial y sin condicionamiento alguno, de acuerdo al marco legal vigente.
+
 XXXVIII. Sistema: El Sistema Estatal de Salud;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XXXVIII bis. Sistema de Referencia y Contrareferencia: Es el conjunto de reglas y procedimientos médico-administrativos entre unidades operativas de los tres niveles de atención y otros espacios que garantiza a la población usuaria el acceso a los servicios, con base en las necesidades particulares de las usuarias y la capacidad instalada de la unidad; en caso de requerirlo facilita el envío y recepción con el propósito de brindar atención médica oportuna, integral y de calidad, así como otros servicios que pudieran requerir.
 
 XXXIX. Terreno: Porción de superficie terrestre en la que se puede desplantar una construcción;
 
@@ -1113,15 +1153,85 @@ Los lugares destinados a la práctica de este tipo de medicina, deberán contar 
 
 Ninguna persona que se dedique a la práctica de la medicina tradicional y herbolaria, podrá ser obligada a pertenecer a alguna agrupación o asociación.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
+### CAPÍTULO VI. DE LOS SERVICIOS DE INTERRUPCIÓN DEL EMBARAZO
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 BIS. Las instituciones públicas del Sistema Estatal de Salud habilitadas por la Secretaría deberán proporcionar Servicios de Interrupción Segura del Embarazo de acuerdo al marco legal vigente, en forma universal, gratuita, laica, confidencial y en condiciones de calidad en la atención clínica y dignidad humana. Estos servicios estarán disponibles cuando la mujer embarazada o persona gestante lo solicite o lo requiera de manera expresa, conforme a lo dispuesto en este Capítulo y en estricto apego a los derechos humanos, el consentimiento informado y la perspectiva de género.
+
+Asimismo, las instituciones deberán garantizar el cumplimiento de los protocolos que para ello establezcan las instituciones referidas en el párrafo anterior, para la atención integral, priorizando la seguridad de las usuarias y eliminando barreras que puedan limitar el acceso a estos servicios esenciales.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 TER. La atención de la interrupción segura del embarazo debe contemplar la interrupción del embarazo espontánea, que puede ser incompleta, inevitable, diferida y sus complicaciones, así como la inducida, en embarazos viables y no viables. Este servicio debe incluir el uso de tecnologías seguras, como medicamentos y aspiración manual endouterina, la competencia técnica de equipos multidisciplinarios, el manejo adecuado del dolor durante el procedimiento y la anticoncepción post interrupción del embarazo. Asimismo, debe contemplar la atención integral en casos de muerte fetal intrauterina, asegurando que el proceso sea digno y respetuoso con las usuarias. En el caso de la interrupción del embarazo inducida, se incluye la atención a la Interrupción Legal del Embarazo e Interrupción Voluntaria del Embarazo conforme a las disposiciones legales vigentes, así como cualquier otra circunstancia que afecte la salud integral de la usuaria, garantizando su bienestar físico y emocional.
+
+La atención integral deberá incluir, información clara y detallada previa al procedimiento, así como los posibles efectos adversos y consecuencias del mismo, bajo el principio de consentimiento informado y métodos seguros avalados por las normas oficiales vigentes.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 QUATER. Las instituciones de salud que brinden servicios de interrupción segura del embarazo deberán:
+
+I. Ofrecer servicios de información médica, psicológica y social, garantizando de manera veraz y oportuna que permita a las usuarias ejercer su derecho a decidir de manera libre e informada;
+
+II. Identificar y atender problemas psicosociales, canalizando a las usuarias a las instituciones correspondientes para asegurar atención especializada; y,
+
+III. Ofrecer atención posterior a la interrupción del embarazo que incluya métodos anticonceptivos y servicios de salud sexual y reproductiva, asegurando la calidad y continuidad en la atención médica.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 QUINQUIES. Cuando la mujer embarazada o persona gestante solicite la interrupción del embarazo, las instituciones del Sistema Estatal de Salud acreditadas, autorizadas o habilitadas para tal efecto, deberán proporcionar los Servicios de Interrupción Segura del Embarazo de forma inmediata o en su caso deberá ser efectuada en un termino no mayor a cinco días naturales conforme a los requisitos establecidos en las disposiciones legales aplicables y en los lineamientos de referencia y contrareferencia médicas de interrupción legal del embarazo y de interrupción voluntaria del embarazo que para tal efecto emita la Secretaría.
+
+Las instituciones del Sistema Estatal de Salud se abstendrán de practicar la interrupción del embarazo sin el consentimiento expreso de la solicitante.
+
+Las instituciones de salud del Ejecutivo deberán garantizar el acceso a los servicios de Interrupción Legal del Embarazo e Interrupción Voluntaria del Embarazo, sin qne (sic) se condicione la prestación a su afiliación a sistemas de salud públicos o privados, o cualquier otro requisito que represente una barrera para ejercer este derecho.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 SEXIES. La Secretaría de Salud deberá crear y actualizar un registro estatal de las interrupciones del embarazo realizadas en instituciones de salud públicas, privadas y sociales, fijos o móviles, dentro del territorio estatal, incluyendo las de Interrupción Legal del Embarazo e Interrupción Voluntaria del Embarazo. Para ello, celebrará convenios con dichas instituciones a fin de que proporcionen información actualizada sobre los procedimientos realizados y garantizar en todo momento la confidencialidad y protección de los datos personales de las niñas, adolescentes, mujeres y personas gestantes usuarias.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 SEPTIES. La Secretaría de Salud, en colaboración con la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, será la encargada de crear y operar servicios de orientación telefónica y plataformas digitales para proporcionar información clara, veraz, accesible, laica y con perspectiva de género sobre los derechos relacionados con la Interrupción Legal del Embarazo y la Interrupción Voluntaria del Embarazo, para ello, ambas Secretarías efectuarán los convenios de coolaboración (sic) correspondientes.
+
+Estos servicios deberán incluir detalles sobre el proceso, las opciones disponibles y los derechos aplicables, y serán proporcionados por personal ampliamente capacitado y constantemente evaluado en temas de interrupción del embarazo, derechos humanos, perspectiva de género y no revictimización.
+
+Toda información proporcionada deberá cumplir con el principio de consentimiento informado y garantizar un trato digno y empático. Se deberá brindar orientación en un ambiente seguro, libre de discriminación, que promueva la confianza en el acceso a los servicios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2025)</small>
+
+### CAPÍTULO VII. DE LA OBJECIÓN DE CONCIENCIA
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 OCTIES. El personal médico y de enfermería podrá ejercer su derecho a la objeción de conciencia siempre y cuando cumpla con la obligación de referir de inmediato y por escrito a la mujer o persona gestante con un médico no objetor de conciencia. Este proceso deberá garantizar que el procedimiento no sea entorpecido, obstaculizado o retrasado.
+
+El personal médico y de enfermería no podrá invocar la objeción de conciencia cuando se ponga en riesgo la vida del paciente, o en casos de urgencia médica, en los que la interrupción del embarazo sea urgente para salvaguardar la salud o la vida de la mujer o persona gestante. El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral o condicionarse para su contratación o permanencia.
+
+Es responsabilidad de las instituciones públicas de salud garantizar la prestación oportuna de estos servicios, manteniendo permanentemente disponible personal no objetor de conciencia capacitado en la materia. Este derecho deberá limitarse exclusivamente al personal que participe directamente en el procedimiento, y en ningún caso podrá argumentarse a nivel institucional como una barrera para la atención.
+
+El personal médico y de enfermería que se manifieste ante la Secretaría de Salud o cualquier institución pública del Sistema Estatal de Salud del Estado de Michoacán de Ocampo, como objetores de conciencia y que se compruebe que en instituciones privadas de salud, realizan el procedimiento de Interrupción Legal del Embarazo o la Interrupción Voluntaria del Embarazo serán acreedores a una sanción administrativa por la autoridad competente, misma que corresponderá a la suspensión temporal en el desempeño de sus cargos, comisiones o empleos.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 NONIES. Las autoridades de salud deberán identificar de manera clara, precisa y actualizada al personal de salud que sean objetores y no objetores de conciencia dentro de las instituciones. Esta identificación será fundamental para garantizar la atención oportuna y adecuada de las solicitudes relacionadas con la Interrupción Legal del Embarazo y la Interrupción Voluntaria del Embarazo, evitando cualquier retraso o incumplimiento en los servicios.
+
+Asimismo, se deberá garantizar que el ejercicio de la objeción de conciencia no represente un obstáculo sistemático para el acceso a estos servicios esenciales.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+ARTÍCULO 42 DECIES. Para ejercer la objeción de conciencia ILE O IVE, el personal médico o de enfermería deberá haber informado previamente, con oportunidad, su decisión a la institución en la que preste sus servicios, utilizando el mecanismo que disponga la Secretaría.
+
+Los datos personales para dar a conocer la declaración de objeción de conciencia del personal médico y de enfermería, ya sea en sentido positivo o negativo, estarán protegidos conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables.
+
+La protección de estos datos garantizará la confidencialidad y evitará cualquier tipo de discriminación hacia el personal, asegurando la operatividad de los servicios de salud en beneficio de las personas usuarias.
 
 ## TÍTULO TERCERO. SALUBRIDAD LOCAL
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 43.
 
@@ -1159,7 +1269,7 @@ IV. Datos del giro y del responsable del establecimiento.
 
 Todo cambio de propietario, responsable, razón social, ubicación, denominación o cesión de derechos, de un establecimiento, producto, actividad o servicio, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de diez días hábiles a partir de la fecha en que se hubiere realizado, sujetándose al cumplimiento de las disposiciones de la presente Ley.
 
-### CAPÍTULO IV. CEMENTERIOS, CRIPTAS, CREMATORIOS Y FUNERARIAS
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 49.
 
@@ -1187,7 +1297,7 @@ En los mercados y centros de abasto se deberá contar con sanitarios públicos y
 
 La Secretaría asesorará a la autoridad municipal, para que ésta realice periódicamente las acciones para el control de la fauna nociva en los establecimientos señalados en este capítulo. Lo anterior, con la participación de las autoridades, locatarios, vecinos y población en general, asentándose en la bitácora correspondiente.
 
-### CAPÍTULO V. LIMPIEZA PÚBLICA
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 54.
 
@@ -1227,7 +1337,7 @@ Cuando los edificios, construcciones o terrenos representen un peligro o riesgo 
 
 En el supuesto de que se pretenda construir en terrenos pantanosos, cauces naturales de ríos, arroyos, canales, riberas de presas, lagos y lagunas o que hubieran estado destinados a la disposición final de residuos sólidos urbanos y cementerios, los interesados deberán comunicar esta circunstancia a la autoridad sanitaria para que tome las medidas que considere pertinentes con el objeto de evitar peligros o riesgos a la salud; en estos casos, ésta será otorgada con base en la opinión de las diferentes autoridades competentes.
 
-### CAPÍTULO VI. RASTROS Y MATADEROS
+### CAPÍTULO IV. CEMENTERIOS, CRIPTAS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTÍCULO 63.
 
@@ -1285,9 +1395,7 @@ Para exhumar los restos humanos áridos deberán haber transcurrido cinco años 
 
 En el caso, de que aun cuando hubieren transcurrido los plazos a que se refiere el párrafo anterior, al efectuarse el sondeo correspondiente se encontrare que el cadáver inhumado no presenta las características de los restos áridos, la exhumación se considerará prematura y se procederá de inmediato a su reinhumación.
 
-### CAPÍTULO VII. PLAGUICIDAS y SUSTANCIAS TÓXICAS O PELIGROSAS
-
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
+### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ###### ARTÍCULO 72.
 
@@ -1341,9 +1449,7 @@ La autoridad sanitaria estatal y municipal, organizará y coordinará con las de
 
 Todo particular tiene la obligación de hacer del conocimiento de la autoridad municipal más próxima, el hallazgo de animales muertos en la vía pública o predios baldíos, los cuales deberán ser incinerados o enterrados por los ayuntamientos en el área que ellos mismos establezcan.
 
-### CAPÍTULO VIII. AGUA PARA USO Y CONSUMO HUMANO
-
-(REUBICADO, P.O. 28 DE ENERO DE 2013)
+### CAPÍTULO VI. RASTROS Y MATADEROS
 
 ###### ARTÍCULO 81.
 
@@ -1413,9 +1519,9 @@ Queda prohibida la venta de carne para consumo humano, cuando no cumpla con los 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO IX. SISTEMA DE ALCANTARILLADO
+### CAPÍTULO VII. PLAGUICIDAS y SUSTANCIAS TÓXICAS O PELIGROSAS
 
-(REUBICADO, P.O. 28 DE ENERO DE 2013)
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 89 Bis.
 
@@ -1453,7 +1559,7 @@ VI. Emitir, prorrogar y revocar las autorizaciones sanitarias en la materia de s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO X. EXPLOTACIONES PECUARIAS COMO ESTABLOS, GRANJAS AVÍCOLAS Y PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VIII. AGUA PARA USO Y CONSUMO HUMANO
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -1521,7 +1627,7 @@ Los ayuntamientos u organismos operadores de agua potable, alcantarillado y sane
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XI. CENTROS DE READAPTACIÓN SOCIAL O DE RECLUSIÓN
+### CAPÍTULO IX. SISTEMA DE ALCANTARILLADO
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -1555,7 +1661,7 @@ Los drenajes deben estar a una distancia mínima de tres metros de depósitos y 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XII. ALBERCAS, BALNEARIOS, GIMNASIOS Y SANITARIOS PÚBLICOS
+### CAPÍTULO X. EXPLOTACIONES PECUARIAS COMO ESTABLOS, GRANJAS AVÍCOLAS Y PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -1617,7 +1723,7 @@ Para la instalación de cualquiera de las actividades, establecimientos y servic
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS PÚBLICOS
+### CAPÍTULO XI. CENTROS DE READAPTACIÓN SOCIAL O DE RECLUSIÓN
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -1693,9 +1799,7 @@ Las disposiciones sanitarias contenidas en este capítulo serán aplicables a lo
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XIV
-
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS COMO: PELUQUERÍAS, SALONES DE BELLEZA O ESTÉTICAS, SERVICIOS DE PEDICURO, PERFORACIÓN, TATUAJE, MICRO PIGMENTACIÓN Y OTROS PROCEDIMIENTOS SIMILARES DE EMBELLECIMIENTO
+### CAPÍTULO XII. ALBERCAS, BALNEARIOS, GIMNASIOS Y SANITARIOS PÚBLICOS
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -1811,7 +1915,7 @@ Las compañías dedicadas a la prestación de este servicio, deberán dar aviso 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XV. ESTABLECIMIENTOS PARA HOSPEDAJE
+### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS PÚBLICOS
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -1851,7 +1955,9 @@ III. Cumplir con las medidas de seguridad y protección civil que establezca la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XVI. TRANSPORTE
+### CAPÍTULO XIV
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS COMO: PELUQUERÍAS, SALONES DE BELLEZA O ESTÉTICAS, SERVICIOS DE PEDICURO, PERFORACIÓN, TATUAJE, MICRO PIGMENTACIÓN Y OTROS PROCEDIMIENTOS SIMILARES DE EMBELLECIMIENTO
 
 (REUBICADO, P.O. 28 DE ENERO DE 2013)
 
@@ -1895,7 +2001,9 @@ ARTÍCULO 143 TER. Para el ejercicio de los procedimientos médicos o de cirugí
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XVII. GASOLINERA
+### CAPÍTULO XV. ESTABLECIMIENTOS PARA HOSPEDAJE
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 144.
 
@@ -1929,7 +2037,9 @@ Cuando en algún establecimiento de los señalados en este apartado, se presten 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XVIII. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPÍTULO XVI. TRANSPORTE
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 149.
 
@@ -1965,7 +2075,7 @@ En el caso de las unidades móviles tipo ambulancia o de auxilio, deberán de pr
 
 Se prohíbe fumar en el interior de los vehículos destinados al transporte público de pasajeros, se deberán observar las normas de protección a los no fumadores en el estado y, demás ordenamientos aplicables.
 
-### CAPÍTULO XIX. DE EXPEDICIÓN Y VENTA SEMIFIJA Y AMBULANTE DE ALIMENTOS Y BEBIDAS
+### CAPÍTULO XVII. GASOLINERA
 
 ###### ARTÍCULO 154.
 
@@ -1983,9 +2093,7 @@ Las gasolineras deberán contar con las instalaciones de seguridad que establezc
 
 La Secretaría podrá realizar en cualquier tiempo la vigilancia sanitaria en los establecimientos a que se refiere el presente capítulo.
 
-### CAPÍTULO XX. INSTALACIONES Y COOPERATIVAS ESCOLARES
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO XVIII. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 158.
 
@@ -2065,7 +2173,7 @@ La Secretaría llevará a cabo programas de fomento sanitario dirigidos a la pob
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XXI. ESTACIONAMIENTOS
+### CAPÍTULO XIX. DE EXPEDICIÓN Y VENTA SEMIFIJA Y AMBULANTE DE ALIMENTOS Y BEBIDAS
 
 ###### ARTÍCULO 165.
 
@@ -2093,7 +2201,9 @@ Los ayuntamientos, en el ámbito de su competencia, autorizarán la ubicación, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XXII. COMPRA Y VENTA DE ROPA USADA
+### CAPÍTULO XX. INSTALACIONES Y COOPERATIVAS ESCOLARES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 171.
 
@@ -2133,7 +2243,7 @@ ARTÍCULO 173 bis. La Secretaría deberá brindar a la población escolar de niv
 
 Todo plantel de educación básica deberá contar con su programa institucional de prevención de accidentes de acuerdo a la normatividad aplicable.
 
-### CAPÍTULO XXIII. ALBERGUES Y CENTROS DE DESARROLLO INFANTIL
+### CAPÍTULO XXI. ESTACIONAMIENTOS
 
 ###### ARTÍCULO 174.
 
@@ -2156,6 +2266,42 @@ VII. Superficie limpia, libre de desperdicios, escombros, promontorios, hoyos y 
 VIII. Las demás medidas y requisitos que establezcan las leyes, reglamentos y normas correspondientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XXII. COMPRA Y VENTA DE ROPA USADA
+
+###### ARTÍCULO 175.
+
+La compra y venta de ropa usada deberá cumplir con los siguientes requisitos:
+
+I. Estar limpia y desinfectada, previo a su venta; y,
+
+II. Las demás medidas y requisitos que establezcan las leyes, reglamentos y normas correspondientes.
+
+###### ARTÍCULO 176.
+
+Queda prohibida la compraventa de ropa y blancos usados provenientes de hospitales, sanatorios y similares.
+
+### CAPÍTULO XXIII. ALBERGUES Y CENTROS DE DESARROLLO INFANTIL
+
+###### ARTÍCULO 177.
+
+Los albergues y centros de desarrollo infantil deberán de contar para su debido funcionamiento con los siguientes requisitos:
+
+I. Aviso de funcionamiento correspondiente conforme a lo establecido por la norma respectiva;
+
+II. Contar con el personal especializado, capacitado y necesario que contribuya al sano desarrollo físico, mental y social de los usuarios;
+
+III. Proporcionar la alimentación necesaria, suficiente, completa y balanceada, la cual deberá ser preparada higiénicamente;
+
+IV. Contar con medicamentos y material de curación necesarios para prestar los primeros auxilios;
+
+V. Contar con servicio médico y de trabajo social; y,
+
+VI. Reunir la normatividad que marque la Secretaría de Educación.
+
+Los albergues para indigentes, niños o jóvenes en situación de drogadicción crónica, alcoholismo, abandono o rechazo familiar, las personas con capacidades diferentes, los adultos mayores, en situación de desprotección, deberán contar con iguales beneficios, pero además con los tratamientos especializados que requieran.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 2023)</small>
 
 ### CAPÍTULO XXIV. TRANSFUSIÓN SANGUÍNEA
 
@@ -2183,45 +2329,9 @@ IX. Coadyuvar con las autoridades correspondientes para evitar la disposición i
 
 X. Promover la constitución de los Comités de Medicina Transfusional en las unidades médicas del Estado de Michoacán de Ocampo, conforme a las normas oficiales mexicanas.
 
-###### ARTÍCULO 175.
-
-La compra y venta de ropa usada deberá cumplir con los siguientes requisitos:
-
-I. Estar limpia y desinfectada, previo a su venta; y,
-
-II. Las demás medidas y requisitos que establezcan las leyes, reglamentos y normas correspondientes.
-
-###### ARTÍCULO 176.
-
-Queda prohibida la compraventa de ropa y blancos usados provenientes de hospitales, sanatorios y similares.
-
-### CAPÍTULO I. AUTORIZACIONES
-
-###### ARTÍCULO 177.
-
-Los albergues y centros de desarrollo infantil deberán de contar para su debido funcionamiento con los siguientes requisitos:
-
-I. Aviso de funcionamiento correspondiente conforme a lo establecido por la norma respectiva;
-
-II. Contar con el personal especializado, capacitado y necesario que contribuya al sano desarrollo físico, mental y social de los usuarios;
-
-III. Proporcionar la alimentación necesaria, suficiente, completa y balanceada, la cual deberá ser preparada higiénicamente;
-
-IV. Contar con medicamentos y material de curación necesarios para prestar los primeros auxilios;
-
-V. Contar con servicio médico y de trabajo social; y,
-
-VI. Reunir la normatividad que marque la Secretaría de Educación.
-
-Los albergues para indigentes, niños o jóvenes en situación de drogadicción crónica, alcoholismo, abandono o rechazo familiar, las personas con capacidades diferentes, los adultos mayores, en situación de desprotección, deberán contar con iguales beneficios, pero además con los tratamientos especializados que requieran.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 2023)</small>
-
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
-
 ## TÍTULO CUARTO. AUTORIZACIONES, CERTIFICADOS Y AVISOS
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 178.
 
@@ -2253,7 +2363,7 @@ Los ingresos por concepto de derechos a que se refiere esta Ley se regirán por 
 
 Requieren de autorización sanitaria los establecimientos y las actividades a que se refiere el artículo 142 de esta Ley. Cuando cambien de actividad preponderante, ubicación, propietario o razón social, requerirán de nueva autorización sanitaria.
 
-### CAPÍTULO IV. AVISOS DE FUNCIONAMIENTO
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 184.
 
@@ -2321,7 +2431,7 @@ I. Cuando, de ser el caso, no se hubiere iniciado la renovación de la autorizac
 
 II. Cuando el titular de la autorización lo solicite.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 193.
 
@@ -2353,7 +2463,7 @@ Los certificados a que se refiere este capítulo, se expedirán en los formatos 
 
 La Secretaría, podrá expedir certificados, autorizaciones o cualquier otro documento con base en la información, comprobación de hechos o recomendaciones técnicas, que proporcionen terceros autorizados, de conformidad con lo que señala la Ley General de Salud.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO IV. AVISOS DE FUNCIONAMIENTO
 
 ###### ARTÍCULO 198.
 
@@ -2373,7 +2483,7 @@ V. Número de cédula profesional, en su caso, del responsable sanitario.
 
 ## TÍTULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 199.
 
@@ -2479,7 +2589,7 @@ En el caso de los productos asegurados en el procedimiento de muestreo o verific
 
 ## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 212.
 
@@ -2605,7 +2715,7 @@ La suspensión de mensajes publicitarios en materia de esta Ley, procederá cuan
 
 Tratándose de mensajes difundidos, la suspensión procederá, cuando la Secretaría tenga conocimiento, dentro de las veinticuatro horas posteriores o en la siguiente edición según sea el caso.
 
-### CAPÍTULO IV. RECURSO DE REVISIÓN
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 225.
 
@@ -2697,7 +2807,7 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Sólo procederá esta sanción, si previamente se dictó alguna de las sanciones a que se refiere este capítulo; impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 236.
 
@@ -2739,9 +2849,7 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 
 En la tramitación del recurso administrativo, iniciado por la autoridad sanitaria competente, se aplicará de manera supletoria el Código de Justicia Administrativa para el Estado de Michoacán de Ocampo.
 
-### CAPÍTULO I. LA INSUFICIENCIA RENAL
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+### CAPÍTULO IV. RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 246.
 
@@ -2809,6 +2917,8 @@ III. Que fueren de difícil reparación los daños y perjuicios que se causen al
 
 En la tramitación del recurso de revisión, se aplicará supletoriamente el Código de Justicia Administrativa para el Estado de Michoacán de Ocampo.
 
+### CAPÍTULO V. PRESCRIPCIÓN
+
 ###### ARTÍCULO 258.
 
 El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente Ley prescribirá al término de cinco años.
@@ -2830,6 +2940,10 @@ Los interesados podrán hacer valer la prescripción, por la vía de excepción.
 ## TÍTULO SÉPTIMO. ENFERMEDADES DE ATENCIÓN PRIORITARIAS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO I. LA INSUFICIENCIA RENAL
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 262.
 
@@ -3312,3 +3426,17 @@ P.O. 26 DE JULIO DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. El Titular del Poder Ejecutivo del Estado tendrá un plazo de hasta noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los convenios correspondientes.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 162 POR EL QUE “SE ADICIONAN LAS FRACCIONES IV TER, VII BIS, X BIS, XXVI BIS, XXVI TER, XXXII BIS, XXXII TER, XXXVII BIS, XXXVIII BIS, AL ARTÍCULO 2; ASÍ COMO LOS CAPÍTULOS VI Y VII AL TÍTULO SEGUNDO Y LOS ARTÍCULOS 42 BIS, 42 TER, 42 QUATER, 42 QUINQUIES, 42 SEXIES, 42 SEPTIES, 42 OCTIES, 42 NONIES Y 42 DECIES DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, enviará al Congreso del Estado, el ajuste al Decreto que contiene el Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, para el ejercicio fiscal 2025, para dar cumplimiento con el presente Decreto.
+
+TERCERO. Dentro de los ciento ochenta días naturales siguientes a la fecha de publicación del presente Decreto, la Secretaría de Salud del Estado de Michoacán deberá emitir los Lineamientos de referencia y contrareferencia médicas de interrupción legal del embarazo y de la interrupción voluntaria del embarazo, con apego al Lineamiento Técnico para la atención del Aborto Seguro en México emitido por la Secretaría de Salud y al Manual de Práctica Clínica para una Atención de Calidad del Aborto emitido por la Organización Mundial de la Salud.
+
+CUARTO. Dentro de los ciento ochenta días naturales siguientes a la fecha de publicación del presente Decreto, la Secretaría de Salud del Estado de Michoacán deberá emitir el Flujograma para la atención de mujeres en situación de la interrupción del embarazo; con apego al Lineamiento Técnico para la atención del Aborto Seguro en México emitido por la Secretaría de Salud.
+
+QUINTO. Dentro de los ciento ochenta días naturales siguientes a la fecha de publicación del presente Decreto, la Secretaría de Salud del Estado de Michoacán deberá identificar, registrar y mantener actualizada la relación de los profesionales de la salud que se declaren objetores y no objetores de conciencia dentro del Sistema Estatal de Salud, garantizando la protección de sus datos personales en los términos de las leyes aplicables. Este registro deberá ser accesible para las instituciones públicas de salud con el propósito de garantizar la disponibilidad permanente de personal no objetor para la atención de las solicitudes relacionadas con la interrupción del embarazo.
