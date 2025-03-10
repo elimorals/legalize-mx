@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2024-08-12"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -113,15 +113,19 @@ XVI.- Impulsar la integración económica de las mujeres, las personas jóvenes 
 
 XVII.- Promover la creación de condiciones económicas favorables para el desarrollo de las actividades empresariales en la Entidad.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 5º.
 
-La Secretaría será la responsable del cumplimiento de los objetivos a que se refiere el artículo anterior, a cuyo efecto gozará de las atribuciones necesarias para su cumplimiento, de conformidad a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Aguascalientes.
+La Secretaría será la responsable del cumplimiento de los objetivos de la presente Ley, conforme a las atribuciones previstas en la Ley Orgánica de la Administración Pública Estatal.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 6º.
 
-Para el efecto de cumplir con los objetivos a que se refiere el Artículo Cuarto, la Secretaría coordinadora en el Estado (sic) las funciones relacionadas con el desarrollo económico que realicen los organismos públicos y privados establecidos en la Entidad.
+Para el efecto de cumplir con los objetivos a que se refiere el Artículo Cuarto, la Secretaría coordinará en el Estado las funciones relacionadas con el desarrollo económico que realicen los organismos públicos y privados establecidos en la Entidad.
 
-La Secretaría contará con la estructura organizacional que tiene asignada en la Ley Orgánica del Poder Ejecutivo del Estado, y además ajustará su desempeño a los lineamientos y políticas contenidas en materia económica en el Plan Estatal de Desarrollo.
+La Secretaría contará con la estructura organizacional prevista en la Ley Orgánica de la Administración Pública Estatal, y además ajustará su desempeño a los lineamientos y políticas contenidas en materia económica en el Plan de Desarrollo del Estado.
 
 ### CAPITULO III. Del Consejo Consultivo para el Desarrollo Económico de Aguascalientes
 
@@ -137,49 +141,51 @@ El Consejo es el órgano colegiado que tiene por objeto la consulta, asesoría, 
 
 El Consejo se integra por:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-I.- Un titular de la presidencia: Que será la persona Titular del Poder Ejecutivo;
+I.- Una presidencia, a cargo de la persona titular del Poder Ejecutivo;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-II.- Un Vicepresidente: Que será el Secretario;
+II.- Una vicepresidencia, a cargo del secretario;
 
-III.- Y treinta y cuatro vocales;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE MARZO DE 2025)</small>
 
-A).- Secretario de Finanzas;
+III.- Las vocalías a cargo de las siguientes personas:
 
-B).- Secretario de Desarrollo Social;
+a) Titular de la Secretaría de Finanzas;
 
-C).- Secretario de Obras Públicas;
+b) Titular de la Secretaría de Desarrollo Social;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+c) Titular de la Secretaría de Obras Públicas;
 
-D).- Secretario de Planeación y Desarrollo Regional;
+d) Titular de la Secretaría de Planeación, Participación y Desarrollo;
 
-E).- El Director General del Instituto de Educación de Aguascalientes;
+e) Titular de la Secretaría de Desarrollo Rural y Agroempresarial;
 
-F).- El Director General de la Comisión de Desarrollo Agropecuario del Estado de Aguascalientes;
+f) Titular de la Dirección del Instituto de Educación de Aguascalientes;
 
-G).- Un representante de cada uno de los Ayuntamientos de los Municipios del Estado;
+g) Un representante de cada uno de los Municipios del Estado;
 
-H).- Dos representantes del H. Congreso del Estado;
+h) Titular de la Presidencia de la Comisión de Desarrollo Económico, Fomento Cooperativo y Turismo del H. Congreso del Estado;
 
-I).- El Delegado de la Secretaría de Comercio y Fomento Industrial;
+i) Titular de la Delegación de la Secretaría de Economía en el Estado;
 
-J).- El Delegado del Banco Nacional de Comercio Exterior;
+j) Titular de la Delegación del Banco Nacional de Comercio Exterior;
 
-K).- El Delegado de la Secretaría del Trabajo y Previsión Social;
+k) Titular de la Delegación de la Secretaría del Trabajo y Previsión Social;
 
-L).- Nueve representantes del sector privado; y
+l) Nueve personas representantes del sector privado; y
 
-M).- Tres representantes de las Centrales Obreras más representativas.
+m) Tres personas representantes de las Centrales Obreras más representativas del Estado.
 
-Los miembros del Consejo tendrán voz y voto en las sesiones que celebren, y en caso de empate el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+Las personas integrantes del Consejo tendrán voz y voto en las sesiones que celebren, y en caso de empate, la persona titular de la Presidencia tendrá voto de calidad.
 
-Los representantes del sector privado pueden ser de los sectores industrial, comercial y social. Estos representantes, así como los de las Centrales Obreras, y que hacen referencia los incisos L) y M) de la fracción III de este artículo, formarán parte a invitación de la Persona Titular de la Presidencia del Consejo. No obstante, dicha invitación deberá respetar en cada caso, el principio de paridad de género.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
+
+Las personas representantes del sector privado pueden ser de los sectores industrial, comercial y social. Estos representantes, así como los de las centrales obreras, participarán mediante invitación de la Persona Titular de la Presidencia del Consejo. No obstante, la integración deberá respetar en cada caso, el principio de paridad de género.
 
 ###### ARTICULO 10.
 
@@ -421,9 +427,11 @@ La Secretaría, de manera conjunta con la Secretaría de Desarrollo Social del E
 
 La Secretaría desarrollará programas dirigidos a consolidar el modelo exportador del Estado, para generar empleos y divisas necesarias, fomentando las transacciones comerciales con el extranjero a través de la detección, evaluación y difusión de negocios internacionales para las empresas potencialmente exportadoras de la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 34.
 
-La Secretaría coadyuvará al desarrollo de las organizaciones empresariales y las entidades públicas involucradas en la actividad de exportación, tales como la Secretaría de Hacienda y Crédito Público, el Banco Nacional de Comercio Exterior y la Secretaría de Comercio y Fomento Industrial, según los siguientes lineamientos:
+La Secretaría coadyuvará al desarrollo de las organizaciones empresariales y las entidades públicas involucradas en la actividad de exportación, tales como la Secretaría de Hacienda y Crédito Público, el Banco Nacional de Comercio Exterior y la Secretaría de Economía, según los siguientes lineamientos:
 
 I.- Determinar acciones que deben realizarse para lograr mantener la cultura exportadora de la Entidad; y
 
@@ -644,3 +652,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La persona titular del Poder Ejecutivo del Estado contará con un plazo de noventa días naturales para proveer las medidas administrativas y realizar las reformas reglamentarias derivadas del presente Decreto.
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 115.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
