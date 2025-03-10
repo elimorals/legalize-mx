@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-166651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-06-12"
-last_updated: "2023-11-13"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166651&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2023-05-30"
 
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2025.
 
 Reglamento publicado en el No. 1124 de la Gaceta Oficial de la Ciudad de México, el lunes 12 de junio de 2023.
 
@@ -218,6 +218,8 @@ La presentación de una queja o denuncia, o el inicio oficioso de un procedimien
 
 ### CAPÍTULO II. GLOSARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 6.
 
 Para los efectos del presente Reglamento, se entenderá por:
@@ -268,6 +270,8 @@ k) Tribunal Electoral: Tribunal Electoral de la Ciudad de México.
 
 l) Unidad Técnica: Unidad Técnica de Asuntos Jurídicos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 10 DE MARZO DE 2025)</small>
+
 III. Términos sobre sustanciación y procedimientos:
 
 a) Actuaciones Previas: Diligencias desplegadas por la Dirección Ejecutiva, en coadyuvancia de la Secretaría Ejecutiva, para allegarse de elementos suficientes que permitan emitir una determinación sobre el inicio del procedimiento.
@@ -288,33 +292,69 @@ h) Medios de Apremio: Conjunto de instrumentos jurídicos, que en términos de l
 
 i) Oficialía Electoral: Atribución de la Secretaría Ejecutiva, para dar fe pública de actos o hechos de naturaleza electoral, en términos de lo señalado en el Código.
 
-j) Perspectiva de género: Visión analítica, metodología y mecanismos que permiten identificar, cuestionar, valorar y corregir los potenciales efectos de la discriminación, desigualdad y exclusión de grupos históricamente discriminados, principalmente las mujeres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad entre mujeres y hombres.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE MARZO DE 2025)</small>
 
-k) Procedimientos: Los procedimientos administrativos sancionadores en materia electoral.
+j) Persona aspirante a integrar el Poder Judicial: Personas que participan en los procesos de evaluación y selección de candidaturas para los cargos de elección del Poder Judicial de la Ciudad de México, a cargo de los Comités de Evaluación de los Poderes de esta Entidad Federativa.
 
-l) Procedimientos ordinarios: Los procedimientos administrativos sancionadores ordinarios en materia electoral.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE MARZO DE 2025)</small>
 
-m) Procedimientos especiales: Los procedimientos administrativos sancionadores especiales en materia electoral.
+k) Persona candidata a integrar el Poder Judicial: Personas postuladas por uno o varios Poderes de la Ciudad de México a cargos de elección del Poder Judicial, incluidas aquellas que se encuentren en funciones en los cargos a elegir y hayan manifestado su intención de participar en el proceso electoral correspondiente.
 
-n) SINE: Sistema de Notificaciones Electrónicas del Instituto Electoral de la Ciudad de México, que se encuentra alojado en la página de internet del propio Instituto en la dirección electrónica www.iecm.mx;
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
 
-o) Tutela Preventiva: Constituye un mecanismo procesal que tiene por objeto eliminar el peligro de que se lesione el orden público y que esa lesión no pueda ser reparada.
+l) Perspectiva de género: Visión analítica, metodología y mecanismos que permiten identificar, cuestionar, valorar y corregir los potenciales efectos de la discriminación, desigualdad y exclusión de grupos históricamente discriminados, principalmente las mujeres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad entre mujeres y hombres.
 
-p) Víctima: Persona a quien se le inflige violencia política de género o violencia política contra las mujeres en razón de género.
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
 
-q) Víctimas directas: Aquellas personas físicas que pudieran estar sufriendo algún daño o menoscabo económico, físico, mental, emocional, o en general cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución General y en los Tratados Internacionales de los que el Estado Mexicano sea parte.
+m) Procedimientos: Los procedimientos administrativos sancionadores en materia electoral.
 
-r) Víctimas indirectas: Son los familiares, personas cercanas o aquellas personas físicas a cargo de la víctima directa o que tengan una relación inmediata con ella.
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
 
-s) Violencia política: Son las acciones, conductas y omisiones que transgreden las normas electorales y/o los derechos político electorales de la ciudadanía en procesos democráticos o fuera de ellos, cometidas por una persona o un grupo, que tienen por objeto o resultado, sesgar, condicionar, restringir, impedir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos políticos o de las prerrogativas inherentes a un cargo público lesionar la legalidad y certeza de las elecciones; dañar la integridad institucional y/o realizar fraude a la ley.
+n) Procedimientos ordinarios: Los procedimientos administrativos sancionadores ordinarios en materia electoral.
 
-t) Violencia política de género: Son las acciones, conductas, y omisiones que violentan, transgreden normas electorales o derechos político electorales de la ciudadanía en procesos democráticos, electorales, de participación ciudadana o fuera de ellos, que conllevan un elemento discriminador por razones de género, como pueden ser patrones, roles, identidades, estereotipos, relaciones asimétricas de poder, condiciones de vulnerabilidad, exclusión, diferenciación no justificada o negación del reconocimiento de la igualdad de derechos y dignidad de todas las personas por cualquiera de las características inherentes a la condición humana. Estas acciones u omisiones son ejercidas en contra de cualquier persona, particularmente en contra de aquellas en situación de vulnerabilidad, y tienen por objeto o resultado sesgar, condicionar, impedir, restringir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos político-electorales o de las prerrogativas inherentes a un cargo público.
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
 
-u) Violencia política contra las mujeres en razón de género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+o) Procedimientos especiales: Los procedimientos administrativos sancionadores especiales en materia electoral.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
+
+p) SINE: Sistema de Notificaciones Electrónicas del Instituto Electoral de la Ciudad de México, que se encuentra alojado en la página de internet del propio Instituto en la dirección electrónica www.iecm.mx;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
+
+q) Tutela Preventiva: Constituye un mecanismo procesal que tiene por objeto eliminar el peligro de que se lesione el orden público y que esa lesión no pueda ser reparada.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
+
+r) Víctima: Persona a quien se le inflige violencia política de género o violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
+
+s) Víctimas directas: Aquellas personas físicas que pudieran estar sufriendo algún daño o menoscabo económico, físico, mental, emocional, o en general cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución General y en los Tratados Internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
+
+t) Víctimas indirectas: Son los familiares, personas cercanas o aquellas personas físicas a cargo de la víctima directa o que tengan una relación inmediata con ella.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
+
+u) Violencia política: Son las acciones, conductas y omisiones que transgreden las normas electorales y/o los derechos político electorales de la ciudadanía en procesos democráticos o fuera de ellos, cometidas por una persona o un grupo, que tienen por objeto o resultado, sesgar, condicionar, restringir, impedir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos políticos o de las prerrogativas inherentes a un cargo público lesionar la legalidad y certeza de las elecciones; dañar la integridad institucional y/o realizar fraude a la ley.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 10 DE MARZO DE 2025)</small>
+
+v) Violencia política de género: Son las acciones, conductas, y omisiones que violentan, transgreden normas electorales o derechos político electorales de la ciudadanía en procesos democráticos, electorales, de participación ciudadana o fuera de ellos, que conllevan un elemento discriminador por razones de género, como pueden ser patrones, roles, identidades, estereotipos, relaciones asimétricas de poder, condiciones de vulnerabilidad, exclusión, diferenciación no justificada o negación del reconocimiento de la igualdad de derechos y dignidad de todas las personas por cualquiera de las características inherentes a la condición humana. Estas acciones u omisiones son ejercidas en contra de cualquier persona, particularmente en contra de aquellas en situación de vulnerabilidad, y tienen por objeto o resultado sesgar, condicionar, impedir, restringir, menoscabar, anular, obstaculizar, excluir o afectar el reconocimiento, goce y/o ejercicio de derechos político-electorales o de las prerrogativas inherentes a un cargo público.
+
+(REFORMADO [N. DE E. ANTES INCISO u)], G.O. 10 DE MARZO DE 2025)
+
+w) Violencia política contra las mujeres en razón de género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 10 DE MARZO DE 2025)</small>
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos sin partido político o postulados por los mismos o sus representantes; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos sin partido político o postulados por los mismos o sus representantes, personas aspirantes o candidatas a integrar el Poder Judicial, medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 ## TÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES ELECTORALES
 
@@ -333,6 +373,8 @@ c) La Secretaría Ejecutiva;
 d) La Dirección Ejecutiva; y
 
 e) La Unidad Técnica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 8.
 
@@ -366,6 +408,8 @@ V. Imponer medidas de apremio, así como ordenar la implementación de medidas c
 
 Proponer el inicio de procedimientos oficiosos cuando se advierta la posible existencia de conductas que vulneren la normativa electoral.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 10 DE MARZO DE 2025)</small>
+
 c) La Secretaría Ejecutiva:
 
 I. Acordar la incompetencia de las quejas o denuncias cuando proceda, remitiéndolas a la autoridad competente para los efectos a que haya lugar. Tratándose de asuntos relacionados con la posible violencia contra mujeres, la remisión deberá ser inmediata y podrá dictar de forma auxiliar las medidas cautelares o de protección que se consideren necesarias de manera fundada y motivada. Todo lo anterior, haciéndolo del conocimiento de forma previa a las personas integrantes de la Comisión.
@@ -382,7 +426,9 @@ VI. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2023)
 
 VII. Dictar las medidas de apremio respectivas.
 
-VIII. Proponer a la Comisión el inicio oficioso de un procedimiento, cuando se tenga conocimiento de la existencia de posibles conductas que vulneren la normativa electoral, cuando se incumplan las medidas cautelares ordenadas por esta autoridad o por hechos relacionados con violencia política contra las mujeres en razón de género.
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2025)</small>
+
+VIII. Proponer a la Comisión el inicio oficioso de un procedimiento, cuando se tenga conocimiento de la existencia de posibles conductas que vulneren la normativa electoral, cuando se incumplan las medidas cautelares, tutela preventiva y/o medidas de protección ordenadas por esta autoridad o por hechos relacionados con violencia política contra las mujeres en razón de género.
 
 IX. Remitir al Tribunal Electoral los expedientes debidamente sustanciados junto con el dictamen respectivo.
 
@@ -452,7 +498,13 @@ a) Autoridad Electoral: Instituto Electoral de la Ciudad de México: IECM;
 
 b) Órgano receptor: Secretaría del Consejo General: SCG
 
-c) Procedimiento especial: se escribirán las letras PE;
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
+c) Procedimiento especial: se escribirán las letras PE.
+
+En el caso de los procedimientos especiales sancionadores relacionados con las personas aspirantes y/o candidatas a integrar el Poder Judicial, se escribirán las letras PE-PJ;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 10 DE MARZO DE 2025)</small>
 
 d) Número consecutivo compuesto de tres dígitos; y
 
@@ -469,6 +521,20 @@ c) Procedimiento ordinario: se escribirán las letras PO;
 d) Número consecutivo compuesto de tres dígitos; y
 
 e) Año de presentación de la queja o denuncia en cuatro dígitos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], G.O. 10 DE MARZO DE 2025)</small>
+
+IV. En el caso de los expedientes que se formen con motivo de conductas, hechos, solicitudes o actuaciones carentes de vía específica regulada legalmente, el número se asignará de la siguiente forma:
+
+a) Autoridad Electoral: Instituto Electoral de la Ciudad de México: IECM;
+
+b) Instancia tramitadora: SE
+
+c) Nomenclatura de identificación: CA (cuaderno de antecedentes)
+
+d) Número consecutivo compuesto de tres dígitos; y
+
+e) Año de presentación del escrito en cuatro dígitos.
 
 En los procedimientos especiales se integrará un expediente físico y la Oficialía de Partes digitalizará toda la documentación que reciba; además la Dirección Ejecutiva o la Unidad Técnica procurarán la digitalización de todas las constancias instrumentadas durante el trámite y sustanciación de manera continua a efecto de que, una vez concluida la etapa de instrucción, la Secretaría Ejecutiva certifique el expediente electrónico y, posteriormente, se remita el original al Tribunal Electoral.
 
@@ -516,6 +582,8 @@ En caso de que durante el trámite o sustanciación de un procedimiento se advie
 
 Los escritos de queja o denuncia podrán presentarse de manera física ante la Oficialía de Partes o los Órganos Desconcentrados del Instituto, o mediante el correo electrónico de la Oficialía de Partes, dentro de los treinta días naturales siguientes al día en que se cometió la falta o se tuvo conocimiento de ella, salvo en los casos en que se vulneren derechos fundamentales, en cuyo caso el plazo será de un año.
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 16.
 
 Para las quejas o denuncias remitidas por correo electrónico, la persona promovente deberá precisar y adjuntar en el correo lo siguiente:
@@ -528,11 +596,11 @@ III. Número de fojas que integran los archivos digitalizados que envía, así c
 
 IV. Escrito inicial de queja o denuncia y los elementos de prueba, ambos en archivos digitalizados, debiendo cumplir con los requisitos establecidos en el artículo 17 del Reglamento.
 
-De no proporcionar un correo electrónico, las notificaciones deberán realizarse por estrados. En caso de incumplir con alguno de los requisitos señalados en las fracciones I, II y IV el escrito se tendrá por no presentado, lo que se notificará a la persona promovente por el medio que corresponda en el que se precisará la omisión respectiva sin perjuicio de que, en acto posterior, la persona promovente pueda presentar de nueva cuenta su queja o denuncia.
+De no proporcionar un correo electrónico, las notificaciones deberán realizarse por estrados.
 
-En caso de incumplir con lo señalado en la fracción III la Secretaría Ejecutiva, con el apoyo de la Dirección Ejecutiva o la Unidad Técnica, podrá prevenir a la promovente para que en un plazo de setenta y dos horas subsane y proporcione la información requerida.
+En caso de incumplir con alguno de los requisitos señalados en las fracciones I y IV del presente artículo, el escrito se tendrá por no presentado, lo que se notificará a la persona promovente por el medio que corresponda en el que se precisará la omisión respectiva sin perjuicio de que, en acto posterior, la persona promovente pueda presentar de nueva cuenta su queja o denuncia.
 
-La Secretaría Ejecutiva, con el apoyo de la Dirección Ejecutiva o la Unidad Técnica, podrá solicitar mediante oficio la comparecencia de la persona promovente para la ratificación del contenido y firma o huella digital de su escrito inicial, señalando fecha y hora, la cual se realizará en las instalaciones del Instituto o por video conferencia, levantándose el acta circunstanciada respectiva. En caso de no ratificar el contenido y firma del escrito inicial de queja, se tendrá por no presentada.
+En caso de incumplir con lo señalado en la fracción II la Secretaría Ejecutiva, con el apoyo de la Dirección Ejecutiva o la Unidad Técnica, podrá prevenir a la promovente para que en un plazo de setenta y dos horas subsane y proporcione la información requerida.
 
 ###### Artículo 17.
 
@@ -648,6 +716,8 @@ La regularización no podrá ser extensiva hasta el punto de tener como efecto l
 
 ### CAPÍTULO III. DE LAS CAUSALES DE DESECHAMIENTO Y SOBRESEIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 25.
 
 La queja o denuncia será desechada de plano cuando:
@@ -672,7 +742,9 @@ a) Que permitan presumir la existencia de los hechos denunciados, o
 
 b) Que permitan presumir la intervención del o la probable responsable.
 
-V. Los hechos de la queja o denuncia hayan sido materia de otra que hubiera sido resuelta de manera previa.
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2025)</small>
+
+V. Los hechos de la queja o denuncia hayan sido materia de pronunciamiento previo de la Comisión o hubiera sido resuelta de manera previa.
 
 VI. La queja o denuncia se presente fuera de los plazos señalados (sic) los artículos 15 y 80 del Reglamento.
 
@@ -712,9 +784,13 @@ En los procedimientos cuyos hechos involucren la supuesta comisión de dos o má
 
 ### CAPÍTULO V. DE LOS SUJETOS Y LAS CONDUCTAS SANCIONABLES
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 29.
 
-Serán sancionables mediante los procedimientos materia de este reglamento las conductas contenidas en la Ley Procesal y cualquier otra que pueda constituir vulneración a normas electorales.
+Serán sancionables mediante los procedimientos materia de este reglamento las conductas contenidas en la Ley Procesal, el Código y cualquier otra que pueda constituir vulneración a normas electorales competencia del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 30.
 
@@ -726,21 +802,41 @@ II. Las Agrupaciones Políticas.
 
 III. Quien aspire a las candidaturas sin partido; las personas precandidatas; las personas candidatas sin partido a cargos de elección popular.
 
-IV. Las personas físicas y jurídicas, entre ellas medios de comunicación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE MARZO DE 2025)</small>
 
-V. Las personas observadoras electorales o las organizaciones de observadores electorales.
+IV. Las personas aspirantes o candidatas a integrar el Poder Judicial.
 
-VI. Quien ejerza la titularidad de las Notarías Públicas.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
 
-VII. Las organizaciones ciudadanas que pretendan formar un partido político.
+V. Las personas físicas y jurídicas, entre ellas medios de comunicación.
 
-VIII. Las personas funcionarias electorales.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
 
-IX. Las personas servidoras públicas de la Ciudad de México.
+VI. Las personas observadoras electorales o las organizaciones de observadores electorales.
 
-X. Las personas ministras de culto, asociaciones, iglesias o agrupaciones de cualquier religión.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
 
-XI. Los demás sujetos obligados en los términos del Código y la Ley Procesal.
+VII. Quien ejerza la titularidad de las Notarías Públicas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
+
+VIII. Las organizaciones ciudadanas que pretendan formar un partido político.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
+
+IX. Las personas funcionarias electorales.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
+
+X. Las personas servidoras públicas de la Ciudad de México.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
+
+XI. Las personas ministras de culto, asociaciones, iglesias o agrupaciones de cualquier religión.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE MARZO DE 2025)</small>
+
+XII. Los demás sujetos obligados en los términos del Código y la Ley Procesal.
 
 Las sanciones aplicables serán las dispuestas en el artículo 19 de la Ley Procesal.
 
@@ -760,11 +856,11 @@ Se entenderán por días hábiles todos los días, con excepción de los sábado
 
 Cuando así se requiera, la Dirección Ejecutiva podrá habilitar días y horas inhábiles para la realización de una actuación concreta.
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 33.
 
-Las notificaciones podrán hacerse personalmente, por estrados físicos o electrónicos, por oficio, correo postal certificado o electrónicamente a través del SINE, estos últimos en términos de los Lineamientos, según se requiera para la eficacia del acto, acuerdo o resolución a notificar.
-
-Las notificaciones se harán a más tardar dentro de los tres días siguientes a aquél en el que la Dirección Ejecutiva o la Unidad Técnica reciban los acuerdos, resoluciones o documentación que las motiven.
+Las notificaciones podrán hacerse personalmente, por estrados físicos o electrónicos, por oficio o electrónicamente a través del SINE, estos últimos en términos de los Lineamientos, según se requiera para la eficacia del acto, acuerdo o resolución a notificar.
 
 ###### Artículo 34.
 
@@ -794,9 +890,11 @@ IV. Los acuerdos de medidas de protección, cautelar, tutela preventiva o medios
 
 V. Los acuerdos o resoluciones que pongan fin al procedimiento.
 
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 37.
 
-Las notificaciones que se dirijan a una autoridad u órgano partidario se practicarán por oficio. Las que se dirijan a una persona física o jurídica que no sea parte de un procedimiento, se realizarán personalmente, por correo postal certificado o por estrados.
+Las notificaciones que se dirijan a una autoridad u órgano partidario se practicarán por oficio. Las que se dirijan a una persona física o jurídica que no sea parte de un procedimiento, se realizarán personalmente o por estrados.
 
 ###### Artículo 38.
 
@@ -894,7 +992,7 @@ Si la persona promovente o probable responsable es un partido político, candida
 
 ###### Artículo 44.
 
-La notificación por correo postal se hará en pieza certificada agregándose al expediente un ejemplar del oficio correspondiente y el acuse de recibo postal.
+(DEROGADO, G.O. 10 DE MARZO DE 2025)
 
 ###### Artículo 45.
 
@@ -980,9 +1078,11 @@ Las documentales privadas, confesional, testimonial, técnica, pericial contable
 
 ### CAPÍTULO VIII. DE LAS MEDIDAS DE APREMIO, CAUTELARES Y TUTELA PREVENTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 52.
 
-La Secretaría Ejecutiva, la Comisión y el Consejo General están facultados para imponer a las partes, sus representantes y en general a cualquier persona física o jurídica, las medidas de apremio para hacer cumplir sus determinaciones, las cuales consistirán, indistintamente, en:
+La Secretaría Ejecutiva, la Comisión y el Consejo General, para hacer cumplir sus determinaciones y, en su caso, requerimientos, están facultados para imponer a las partes, sus representantes y en general a cualquier persona física o jurídica, indistintamente, cualquiera de las medidas de apremio siguientes:
 
 I. Amonestación.
 
@@ -992,11 +1092,17 @@ III. Auxilio de la fuerza pública.
 
 La medida de apremio deberá ser aplicada, previo apercibimiento, a las partes, sus representantes y en general a cualquier persona física o jurídica, con el propósito de hacer cumplir las determinaciones de la autoridad.
 
-Para la imposición de una medida de apremio debe estar acreditado el incumplimiento de la persona vinculada a alguna determinación de la autoridad, por lo que previamente deberá haberse notificado el acuerdo donde se prevenga que, en el supuesto de no desahogar en tiempo y forma lo requerido, podrán aplicarse este tipo de medidas.
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
+Para la imposición de una medida de apremio, no será necesario sustanciar un procedimiento sancionador, sin embargo, debe estar acreditado el incumplimiento de la persona vinculada a alguna determinación de la autoridad, por lo que previamente deberá haberse notificado el acuerdo donde se prevenga que, en el supuesto de no desahogar en tiempo y forma lo requerido, podrán aplicarse este tipo de medidas.
 
 Las multas que se impongan como medida de apremio deberán ser cubiertas en la Secretaría Administrativa dentro de los quince días posteriores a que se notifique la determinación a la persona destinataria.
 
 En este supuesto, los recursos serán entregados a la Secretaría de Administración y Finanzas de la Ciudad de México en las condiciones y para los fines establecidos en el artículo 6 de la Ley Procesal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE MARZO DE 2025)</small>
+
+Cuando sea procedente la aplicación de la medida de apremio establecida en la fracción III, se notificará a las autoridades correspondientes para su ejecución.
 
 ###### Artículo 53.
 
@@ -1078,15 +1184,23 @@ Para el efectivo cumplimiento y ejecución de las citadas medidas, la Comisión 
 
 Los acuerdos que entrañen la adopción de medidas se notificarán a las partes por la vía que se estime más expedita de entre las señaladas en el presente Reglamento, así como a las autoridades involucradas para su cumplimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 59.
 
-La Secretaría Ejecutiva deberá dar seguimiento al cumplimiento de las medidas dictadas de forma cautelar o en tutela preventiva, para lo cual podrá auxiliarse de la Dirección Ejecutiva por lo que, si advirtiera algún incumplimiento, podrá aplicar una medida de apremio previo apercibimiento realizado en el acuerdo respectivo o, en su caso, atendiendo a la necesidad y gravedad del caso, someter la imposición de la medida que corresponda a la Comisión.
+La Secretaría Ejecutiva deberá dar seguimiento al cumplimiento de las medidas dictadas de forma cautelar, en tutela preventiva, y/o de protección, para lo cual podrá auxiliarse de la Dirección Ejecutiva, por lo que, si advirtiera algún incumplimiento, podrá hacer efectivo el apercibimiento correspondiente y aplicar una medida de apremio en términos de lo previsto en el artículo 52 de este Reglamento o, en su caso, atendiendo a la necesidad y gravedad del asunto, someter a consideración de la Comisión la imposición de la medida que corresponda.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE MARZO DE 2025)</small>
 
-La Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, propondrá a la Comisión el inicio oficioso de un procedimiento administrativo sancionador, cuando tenga conocimiento del incumplimiento de las medidas cautelares o tutela preventiva ordenadas previamente; lo cual se realizará en los plazos señalados en el artículo 20 del Reglamento, con independencia de las medidas de apremio a que haya lugar.
+Con independencia de las medidas de apremio que se determine imponer, la Secretaría Ejecutiva, con la coadyuvancia de la Dirección Ejecutiva, propondrá a la Comisión el inicio oficioso de un procedimiento administrativo sancionador, cuando se trate del incumplimiento de las medidas cautelares, de tutela preventiva y/o de protección; lo cual se realizará en los plazos señalados en el artículo 20 del Reglamento.
+
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
+La Secretaría Ejecutiva, en su caso, con el auxilio de la Dirección Ejecutiva, dará seguimiento al cumplimiento de las medidas de protección que se emitan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE MARZO DE 2025)</small>
+
+Para tal efecto, durante los primeros diez días posteriores al dictado de las medidas de protección, la Dirección Ejecutiva mantendrá contacto con la víctima por el medio más expedito, así como con las autoridades responsables de su implementación.
 
 El procedimiento iniciado con motivo del incumplimiento a las medidas señaladas en el párrafo anterior se acumulará al expediente principal en que se ordenaron cuando se trate de procedimientos especiales y si este no se ha remitido al Tribunal Electoral para que la autoridad resolutora tome en consideración la inobservancia en la causa principal, al momento de resolver el procedimiento respectivo.
 
@@ -1164,11 +1278,15 @@ Si durante el trámite o sustanciación del procedimiento se actualiza alguna ca
 
 El procedimiento especial se iniciará para investigar dentro del proceso electoral la denuncia de las siguientes conductas:
 
-I. Propaganda política o electoral de partidos políticos, personas aspirantes a una candidatura, precandidatas, precandidatos, candidatas o candidatos sin partido que calumnie (sic) a las personas.
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2025)</small>
+
+I. Propaganda política o electoral de partidos políticos, personas aspirantes a una candidatura, precandidatas, precandidatos, candidatas o candidatos sin partido, así como de las personas aspirantes o candidatas a integrar el Poder Judicial, que calumnie a las personas.
 
 II. La confección, colocación o el contenido de propaganda político-electoral.
 
-III. Actos anticipados de precampaña.
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2025)</small>
+
+III. Actos anticipados de precampaña, con excepción de la elección de las personas aspirantes y/o candidatas a integrar el Poder Judicial.
 
 IV. Actos anticipados de campaña.
 
@@ -1180,7 +1298,13 @@ VII. Por violencia política de género.
 
 VIII. Por violencia política contra las mujeres en razón de género.
 
-IX. Por violaciones directas o indirectas que afecten el desarrollo de un proceso electoral.
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2025)</small>
+
+IX. Por violaciones directas o indirectas que afecten el desarrollo de un proceso electoral; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE MARZO DE 2025)</small>
+
+X. Las demás establecidas en la Ley Procesal y el Código.
 
 > <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1308,9 +1432,11 @@ La Secretaría Ejecutiva integrará el expediente y lo remitirá al Instituto Na
 
 ### CAPÍTULO II. DEL DESLINDE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 78.
 
-No serán atribuibles a las personas aspirantes a una candidatura sin partido, precandidatas, candidatas o candidatas sin partido, así como a partidos políticos o coaliciones, los actos realizados por terceros, siempre y cuando la persona interesada demuestre haber realizado al menos las acciones siguientes:
+No serán atribuibles a las personas aspirantes a una candidatura sin partido, precandidatas, candidatas o candidatas sin partido, personas aspirantes o candidatas a integrar el Poder Judicial, así como a partidos políticos o coaliciones, los actos realizados por terceros, siempre y cuando la persona interesada demuestre haber realizado al menos las acciones siguientes:
 
 I. Que se haya pronunciado públicamente con el objeto de deslindarse de tal hecho;
 
@@ -1330,7 +1456,9 @@ En los procedimientos normados en este título deberán respetarse en todo momen
 
 Las mujeres y cualquier persona en situación de violencia política de género tendrán derecho a todas las garantías establecidas en la Constitución General, la Constitución Local, los instrumentos internacionales y la legislación nacional en la materia.
 
-Las actuaciones y diligencias que se realicen durante la recepción, integración, trámite e investigación de quejas o denuncias relacionadas con violencia política contra las mujeres en razón de género la autoridad electoral deberán identificar la situación de vulnerabilidad de las probables víctimas, para adoptar las medidas que garanticen su igualdad y el acceso a la justicia de forma efectiva bajo una perspectiva de género.
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2025)</small>
+
+En las actuaciones y diligencias que se realicen durante la recepción, integración, trámite e investigación de quejas o denuncias relacionadas con violencia política contra las mujeres en razón de género, la autoridad electoral deberá identificar la situación de vulnerabilidad de las probables víctimas, para adoptar las medidas que garanticen su igualdad y el acceso a la justicia de forma efectiva bajo una perspectiva de género y, en su caso, con perspectiva intercultural.
 
 ###### Artículo 80.
 
@@ -1522,9 +1650,11 @@ El Instituto en el ámbito de sus atribuciones, operará y mantendrá actualizad
 
 El Instituto y el Tribunal Electoral establecerán mecanismos de coordinación para la colaboración y coordinación para el registro de personas sancionadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 99.
 
-El personal habilitado del Instituto deberá capturar el en el Sistema de Registro, al menos, los siguientes datos:
+El personal habilitado del Instituto deberá capturar en el Sistema de Registro, al menos, los siguientes datos:
 
 I. Nombre de la persona sancionada.
 
@@ -1534,7 +1664,9 @@ III. Sexo de la persona sancionada.
 
 IV. Ámbito territorial (nacional, entidad federativa, distrito o Municipio).
 
-V. Partido político, coalición o candidatura común postulante o candidatura independiente.
+> <small>(REFORMADA, G.O. 10 DE MARZO DE 2025)</small>
+
+V. Partido político, coalición, candidatura común postulante, candidatura independiente, persona aspirante o candidata a integrar el Poder Judicial.
 
 VI. En su caso, incidencia de esta sanción en el proceso electoral, respecto de la persona sancionada.
 
@@ -1693,3 +1825,17 @@ QUINTO. Publíquese el presente Acuerdo en los estrados de oficinas centrales, e
 SEXTO. Remítase el presente Acuerdo a la Gaceta Oficial de la Ciudad de México para su publicación.
 
 SÉPTIMO. Publíquese el presente Acuerdo (sic) la página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+G.O. 10 DE MARZO DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. [IECM/ACU-CG-024/2025]" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las reformas al Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral de la Ciudad de México, en términos de la parte considerativa del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo en los estrados de las oficinas centrales, en los estrados electrónicos y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+CUARTO. Remítase el presente Acuerdo a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+QUINTO. Publíquese el presente Acuerdo en la página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
