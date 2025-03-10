@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-capacitacion-y-educacion-para-1483
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-10"
-last_updated: "2021-03-10"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148323&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de marzo de 2021.
 
@@ -83,6 +83,12 @@ VIII. Cumplir con las obligaciones que le correspondan, en el marco del Convenio
 
 IX. Realizar todos los demás actos que sean necesarios o conducentes para el logro de su misión.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+###### Artículo 4 Bis.
+
+Adicionalmente a lo estipulado en el artículo anterior, el Instituto en coordinación con la Secretaría del Trabajo, fomentará la implementación de campañas de información y cursos, encaminados a brindar a los trabajadores los conocimientos y herramientas necesarias de educación financiera, posibilitando así una mejor toma de decisiones en esta materia, obteniendo en consecuencia bienestar personal y familiar.
+
 ###### Artículo 5.
 
 Los programas de estudio que imparta el Instituto, así como las modalidades educativas, deberán garantizar la estructuración de aprendizajes significativos que sean acordes con los requerimientos de la industria, el comercio y los servicios. Los planes y programas de estudio se diseñarán y adecuarán conforme a la metodología que permita contar con un diagnóstico cierto de los requerimientos del mercado laboral al que sea destinado. Dichos programas serán elaborados bajo la coordinación del Director General del Instituto y presentados a consideración de la Junta Directiva para su aprobación y posterior impartición
@@ -115,7 +121,9 @@ I. Un Presidente Honorario, que será el Titular del Poder Ejecutivo del Estado,
 
 II. Cuatro representantes del Poder Ejecutivo del Estado que serán:
 
-a) El Secretario de Economía y Trabajo, quien desempeñará el cargo de Presidente Ejecutivo.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
+
+a) El Secretario del Trabajo, quien desempeñará el cargo de Presidente Ejecutivo.
 
 b) El Secretario General de Gobierno.
 
@@ -350,3 +358,11 @@ MARÍA DE LOS ÁNGELES ERRISÚRIZ ALARCÓN
 EL C. SECRETARIO DE ECONOMÍA Y TRABAJO
 
 ROBERTO RUSSILDI MONTELLANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 063. SE REFORMA EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 8 Y SE ADICIONA UN ARTÍCULO 4 BIS, TODOS DE LA LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
