@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-171841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-29"
-last_updated: "2024-02-29"
+last_updated: "2025-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
 
 Ley publicada en la Sección Segunda del Número 39 de la Gaceta del Gobierno del Estado de México, el jueves 29 de febrero de 2024.
 
@@ -450,6 +450,10 @@ La información del registro al que se refiere este artículo será pública, y 
 ###### Artículo 32.
 
 Las autoridades educativas, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en los jóvenes. Determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que en los términos que señale la Ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
+
+Las Universidades y Tecnológicos de Estudios Superiores de competencia estatal, así como las Escuelas Normales Públicas del Estado de México, destinarán un porcentaje de por lo menos el diez por ciento de su matrícula escolar a personas en situación de vulnerabilidad, especialmente para mujeres con discapacidad, migrantes o pertenecientes a pueblos y comunidades indígenas o afromexicanas, para que les sean garantizados sus derechos educativos y la continuidad de su preparación profesional.
 
 ###### Artículo 33.
 
@@ -1281,9 +1285,17 @@ XIII. Adoptar las medidas para que, con independencia de su nacionalidad o condi
 
 XIV. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
-XV. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
 
-XVI. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+XV. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XVI. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+XVII. Destinar un porcentaje de por lo menos el diez por ciento de la matrícula escolar en las instituciones de educación superior de control escolar, con excepción de las que la Ley otorga autonomía, a fin de garantizar el ingreso a personas en situación de vulnerabilidad, especialmente para mujeres con discapacidad, migrantes o pertenecientes a pueblos y comunidades indígenas o afromexicanas.
 
 ###### Artículo 122.
 
@@ -1732,3 +1744,15 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 23 de febrero de 2024.- La Gobernadora Constitucional del Estado de México, Mtra. Delfina Gómez Álvarez.- Rúbrica.- El Secretario General de Gobierno, Horacio Duarte Olivares.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 94.- POR EL QUE SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTICULO 121, Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 32 Y LA FRACCIÓN XVII AL ARTÍCULO 121 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado de México emitirá los lineamientos necesarios para la correcta implementación del presente Decreto en un plazo no mayor a noventa días hábiles a partir de su publicación.
