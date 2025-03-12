@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-03-05"
+last_updated: "2025-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -61,17 +63,25 @@ El Estado se divide en Distritos Electorales, Regiones y Distritos Judiciales y 
 
 Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Camargo, Casas, Ciudad Madero, Cruillas, El Mante, Gómez Farías, González, Güémez, Guerrero, Gustavo Díaz Ordaz, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Matamoros, Méndez, Mier, Miguel Alemán, Miquihuana, Nuevo Laredo, Nuevo Morelos, Ocampo, Padilla, Palmillas, Reynosa, Río Bravo, San Carlos, San Fernando, San Nicolás, Soto la Marina, Tampico, Tula, Valle Hermoso, Victoria, Villagrán y Xicoténcatl.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 4o.
 
-El titular del Ejecutivo organizará un sistema de planeación democrática del desarrollo político, económico, social y cultural del Estado.
+La persona titular del Ejecutivo organizará un sistema de planeación democrática del desarrollo político, económico, social y cultural del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 La planeación será democrática. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública estatal. Mediante la participación de los sectores social y privado, el Plan recogerá las aspiraciones y demandas de la sociedad.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 La ley facultará al Ejecutivo para establecer los procedimientos de participación de consulta popular dentro del sistema estatal de planeación democrática, así como los criterios para la formulación, implementación, control y evaluación del Plan y los programas de desarrollo. También determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los gobiernos federal o municipales, e introduzca y concierte con los particulares, las acciones a realizar para su elaboración y ejecución.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+
 Los Municipios podrán celebrar en el ámbito de su competencia convenios y acuerdos con la Federación para la planeación, coordinación y ejecución de los programas de desarrollo económico y social, con la aprobación del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 El sistema de planeación democrática del desarrollo incluirá la planeación estratégica. La ley conformará el Consejo Económico y Social, órgano consultivo del Gobierno del Estado en el que concurrirán los sectores público, social, privado y académico, y establecerá las normas para su funcionamiento. En dicho Consejo estarán representadas las diversas regiones de desarrollo del Estado, conforme lo señale la ley. El Consejo alentará la planeación de largo plazo basada en el acuerdo social más amplio para dar continuidad a los procesos de desarrollo del Estado. Dicha planeación no limitará los contenidos y alcances del Plan Estatal de Desarrollo.
 
@@ -143,7 +153,9 @@ IV. Reunirse para tratar y discutir los negocios públicos, y participar en los 
 
 Las consultas populares sobre temas de trascendencia estatal serán convocadas por el Congreso del Estado a petición de:
 
-a) El Gobernador del Estado;
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+a) La o el Gobernador del Estado;
 
 b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado; o
 
@@ -315,9 +327,9 @@ I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino en virt
 
 II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-III. El derecho de los hombres y las mujeres a la igualdad de oportunidades en los ámbitos político, económico, social, cultural y laboral.
+III. La igualdad sustantiva en el acceso a derechos y oportunidades. Además, se garantiza el derecho a vivir una vida libre de violencias, por lo que el Estado tiene deberes reforzados de protección con mujeres, adolescentes, niñas y niños;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
 
@@ -421,7 +433,9 @@ Los Comisionados se abstendrán de desempeñar cualquier otro empleo, trabajo o 
 
 Los Comisionados serán designados mediante el siguiente procedimiento:
 
-I.- Por cada vacante, el Congreso del Estado, mediante convocatoria pública, enviará al Gobernador Constitucional una lista de cinco aspirantes al cargo que hayan acreditado los requisitos señalados en este artículo. El Gobernador seleccionará a los tres candidatos que estime idóneos para el cargo y los propondrá al Congreso;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+I.- Por cada vacante, el Congreso del Estado, mediante convocatoria pública, enviará a la Gobernadora o al Gobernador Constitucional una lista de cinco aspirantes al cargo que hayan acreditado los requisitos señalados en este artículo. La Gobernadora o el Gobernador seleccionará a los tres candidatos que estime idóneos para el cargo y los propondrá al Congreso;
 
 II.- La ratificación se hará por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado; y
 
@@ -523,13 +537,13 @@ V. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será la 
 
 VI. El Sistema Estatal de Control de Confianza dependerá del Secretariado Ejecutivo, en los términos que establezca la ley. Dicho sistema deberá establecer los procesos para la evaluación y certificación de mandos de las instancias de seguridad pública a nivel estatal y municipal.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2025)</small>
 
 VII. El Sistema Estatal de Seguridad Pública contará con un Consejo de Participación Ciudadana como un órgano de consulta independiente y externa de rendición de cuentas y evaluación política de seguridad en el Estado.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-El cual se integrará por siete consejeros electos por la mayoría de los miembros presentes del Congreso a propuesta del Gobernador. El Consejo emitirá recomendaciones e informes no vinculantes. La ley establecerá los requisitos para ser consejero, así como sus obligaciones y prerrogativas.
+El cual se integrará por siete personas consejeras electas por la mayoría de los miembros presentes del Congreso a propuesta de la Gobernadora o del Gobernador. El Consejo emitirá recomendaciones e informes no vinculantes. La ley establecerá los requisitos para ser consejero, así como sus obligaciones y prerrogativas.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -619,13 +633,19 @@ DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES Y HASTA LA CONCLUSIÓ
 
 En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2025)</small>
 
-D.- En los términos que establecen la Constitución Federal, las leyes generales aplicables y esta Constitución, la ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de los candidatos independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador.
+D.- En los términos que establecen la Constitución Federal, las leyes generales aplicables y esta Constitución, la ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de los candidatos independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernadora o Gobernador.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 La legislación electoral estatal fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los candidatos independientes, así como las sanciones para quienes las infrinjan.
 
-En todo caso, la duración de las campañas será de sesenta días para la elección de Gobernador y de cuarenta y cinco días cuando se elijan diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+En todo caso, la duración de las campañas será de sesenta días para la elección de Gobernadora o Gobernador y de cuarenta y cinco días cuando se elijan diputadas y diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 En términos de lo que disponen la Constitución Federal y la legislación aplicable, conforme a las reglas que para tal efecto se establezcan en la ley, los partidos políticos no podrán proponer a más del 50% de candidatos de un solo género, a un mismo órgano de representación política. La autoridad electoral administrativa velará por la aplicación e interpretación de este precepto para garantizar la paridad de género.
 
@@ -661,9 +681,9 @@ III.- De la Autoridad Administrativa Electoral.- La organización de las eleccio
 
 12. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral, en términos de la ley.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-13. En el Instituto Electoral de Tamaulipas habrá un órgano interno de control que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. El titular del órgano interno de control del Instituto será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, en la forma y términos que determine la ley. Durará 6 años en el cargo sin posibilidad de reelección, en términos de la ley.
+13. En el Instituto Electoral de Tamaulipas habrá un órgano interno de control que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. La persona titular del órgano interno de control del Instituto será designada por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, en la forma y términos que determine la ley. Durará 6 años en el cargo sin posibilidad de reelección, en términos de la ley.
 
 14. De conformidad con lo que establecen la Constitución Federal y las leyes generales aplicables, la fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos estará a cargo del Consejo General del Instituto Nacional Electoral.
 
@@ -671,7 +691,9 @@ III.- De la Autoridad Administrativa Electoral.- La organización de las eleccio
 
 16. En el supuesto del párrafo anterior, el órgano técnico del Instituto Nacional Electoral será el conducto por el cual la Unidad de Fiscalización del Instituto Electoral de Tamaulipas podrá superar la limitación relativa a los secretos fiduciario, bancario y fiscal.
 
-17. El titular de la Unidad de Fiscalización será designado por el Consejo General del Instituto Electoral de Tamaulipas a propuesta de su Consejero Presidente, en términos de la ley.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+17. La persona titular de la Unidad de Fiscalización será designada por el Consejo General del Instituto Electoral de Tamaulipas a propuesta de su Consejera o Consejero Presidente, en términos de la ley.
 
 18. En términos de lo que disponen la Constitución Federal y la legislación aplicable, el Instituto Electoral de Tamaulipas, ejercerá funciones en las siguientes materias:
 
@@ -687,7 +709,9 @@ e) Escrutinios y cómputos en los términos que señale la ley;
 
 f) Declaración de validez y el otorgamiento de constancias en las elecciones locales;
 
-g) Cómputo de la elección del titular del poder ejecutivo;
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+g) Cómputo de la elección de la persona titular del poder ejecutivo;
 
 h) Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme lo establecen la Constitución Federal y la ley general aplicable;
 
@@ -701,9 +725,9 @@ k) Las que determine la ley.
 
 20. Fomentar los valores cívicos y la cultura democrática promoviendo la participación de las niñas, niños y adolescentes en los procesos electorales.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-21. La ley establecerá los mecanismos para hacer efectivo el derecho de voto de los Tamaulipecos en el extranjero, con el fin de que puedan elegir al Gobernador.
+21. La ley establecerá los mecanismos para hacer efectivo el derecho de voto de los Tamaulipecos en el extranjero, con el fin de que puedan elegir a la Gobernadora o al Gobernador.
 
 > <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -717,7 +741,9 @@ En materia electoral, la interposición de los medios de impugnación no produci
 
 Las autoridades electorales del Estado, administrativas y jurisdiccionales, contarán con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-En términos de lo que dispone la Constitución Federal, la ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación en los ámbitos administrativo y jurisdiccional y establecerá el sistema de nulidades de las elecciones de Gobernador, Diputados e integrantes de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+En términos de lo que dispone la Constitución Federal, la ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación en los ámbitos administrativo y jurisdiccional y establecerá el sistema de nulidades de las elecciones de Gobernadora o Gobernador, Diputadas y Diputados e integrantes de los Ayuntamientos.
 
 Además de las previstas en la legislación de la materia, se consideran causas de nulidades de elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:
 
@@ -779,7 +805,9 @@ El Secretario General de Acuerdos y el Secretario Técnico del Pleno serán desi
 
 Al Tribunal Electoral del Estado le corresponde resolver en forma definitiva e inatacable, en los términos de esta Constitución, y según lo disponga la ley, acerca de:
 
-a) Las impugnaciones en las elecciones de Gobernador, Diputados e integrantes de los Ayuntamientos;
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+a) Las impugnaciones en las elecciones de Gobernadora o de Gobernador, Diputadas, Diputados e integrantes de los Ayuntamientos;
 
 b) Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado, en los términos que señalen las leyes;
 
@@ -823,59 +851,73 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 ### CAPITULO I. De la organización del Congreso
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 25.
 
-El ejercicio de las funciones propias del Poder Legislativo se encomienda a una asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputado propietario se elegirá un suplente.
+El ejercicio de las funciones propias del Poder Legislativo se encomienda a una asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Las Diputadas y los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputada o Diputado propietario se elegirá un suplente.
 
-En los términos de la Constitución Federal, la ley general aplicable, esta Constitución y la ley estatal aplicable, los diputados podrán ser reelectos, de manera consecutiva, por una sola ocasión.
+En los términos de la Constitución Federal, la ley general aplicable, esta Constitución y la ley estatal aplicable, las diputadas y los diputados podrán ser reelectos, de manera consecutiva, por una sola ocasión.
 
-La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. En los casos de los Diputados que hayan accedido a tal cargo mediante una candidatura independiente, sólo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. En los casos de las Diputadas o los Diputados que hayan accedido a tal cargo mediante una candidatura independiente, sólo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
 
-Las legislaturas del Estado se integrarán con Diputados electos según los principios de Mayoría Relativa y de Representación Proporcional, en los términos que señale la Constitución Federal y la ley.
+Las legislaturas del Estado se integrarán con Diputadas y Diputados electos según los principios de Mayoría Relativa y de Representación Proporcional, en los términos que señale la Constitución Federal y la ley.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará por 22 Diputados electos según el principio de votación de Mayoría Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 14 Diputados que serán electos según el principio de Representación Proporcional y el sistema de lista estatal, votadas en la circunscripción plurinominal que constituye el Estado.
+El Congreso del Estado se integrará por 22 Diputadas y Diputados electos según el principio de votación de Mayoría Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 14 Diputadas y Diputados que serán electos según el principio de Representación Proporcional y el sistema de lista estatal, votadas en la circunscripción plurinominal que constituye el Estado.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 27.
 
-La asignación de los 14 Diputados electos según el principio de Representación Proporcional y el sistema de asignación por lista estatal, se sujetará a lo que disponga la ley y a las siguientes bases:
+La asignación de las 14 Diputadas y Diputados electos según el principio de Representación Proporcional y el sistema de asignación por lista estatal, se sujetará a lo que disponga la ley y a las siguientes bases:
 
-I.- Un partido político, para obtener el registro de su lista estatal, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 12 DE NOVIEMBRE DE 2015)
+I.- Un partido político, para obtener el registro de su lista estatal, deberá acreditar que participa con candidatas y candidatos a Diputadas y Diputados por el principio de Mayoría Relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-II.- A los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la votación válida emitida, se les asignará un Diputado y tendrán derecho a participar en la asignación restante de Diputados por el principio de Representación Proporcional;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+II.- A los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la votación válida emitida, se les asignará una Diputada o Diputado y tendrán derecho a participar en la asignación restante de Diputadas y Diputados por el principio de Representación Proporcional;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 III.- Para la asignación de las diputaciones de Representación Proporcional se estará a las reglas y fórmulas que la ley establezca para tales efectos;
 
-IV.- Ningún partido político podrá contar con más de 22 Diputados por ambos principios;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-V.- Tampoco podrá contar con un número de Diputados, por ambos principios, que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal efectiva. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento;
+IV.- Ningún partido político podrá contar con más de 22 Diputadas o Diputados por ambos principios;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+V.- Tampoco podrá contar con un número de Diputadas o Diputados, por ambos principios, que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal efectiva. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
 VI.- Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal efectiva que hubiere recibido menos ocho puntos porcentuales; y
 
-VII.- Los Diputados electos según el principio de Representación Proporcional se asignarán en el orden en que fueron registrados en la lista estatal de cada partido político.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+VII.- Las Diputadas y los Diputados electos según el principio de Representación Proporcional se asignarán en el orden en que fueron registrados en la lista estatal de cada partido político.
 
 ###### Art. 28.
 
 (DEROGADO, P.O. 25 DE OCTUBRE DE 1997)
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 29.
 
-Para ser Diputado Propietario o Suplente, se requiere:
+Para ser Diputada o Diputado, Propietaria, Propietario o Suplente, se requiere:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
 
 I.- Ser mexicano por nacimiento, en pleno goce de sus derechos.
+
+(REFORMADA, P.O. 20 DE FEBRERO DE 1960) (REPUBLICADA, P.O. 12 DE MARZO DE 1960)
 
 II.- Ser Ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
@@ -891,11 +933,11 @@ IV.- Poseer suficiente instrucción; y
 
 V.- Los demás señalamientos que disponga la ley.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 29], P.O. 9 DE SEPTIEMBRE DE 1978)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 30.
 
-No pueden ser electos Diputados:
+No pueden ser electos Diputadas o Diputados:
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
@@ -923,61 +965,63 @@ VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales
 
 VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de vinculación a proceso. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 30], P.O. 9 DE SEPTIEMBRE DE 1978)
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 31.
 
-Los Diputados propietarios, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar sin permiso del Congreso, empleo alguno de la Federación, del Estado o de los Municipios, por el cual se disfrute sueldo, excepto en el Ramo de Instrucción. Satisfecha esta condición y sólo en los casos en que sea necesaria, el Diputado quedará suspenso en sus funciones de representante del pueblo por todo el tiempo que desempeñe la nueva comisión o empleo. Las mismas disposiciones rigen respecto a los Diputados suplentes en ejercicio.
+Las Diputadas Propietarias y los Diputados Propietarios, desde el día de su elección, así como las y los Suplentes en ejercicio, no pueden aceptar sin permiso del Congreso, empleo alguno de la Federación, del Estado o de los Municipios, por el cual se disfrute sueldo, excepto en el ramo de instrucción. Satisfecha esta condición y sólo en los casos en que sea necesario, la Diputada o el Diputado quedará suspenso en sus funciones de representante del pueblo por todo el tiempo que desempeñe la nueva comisión o empleo. Las mismas disposiciones rigen respecto a las Diputadas y los Diputados Suplentes en ejercicio.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 31], P.O. 9 DE SEPTIEMBRE DE 1978)
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 32.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
+Las Diputadas y los Diputados son inviolables por las opiniones que manifiesten en el ejercicio de su encargo.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 33.
 
-Los Diputados Propietarios y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la comisión de delitos, previa declaración de procedencia del Congreso, en los términos del artículo 152 de esta Constitución.
+Las Diputadas Propietarias y los Diputados Propietarios, así como las y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la comisión de delitos, previa declaración de procedencia del Congreso, en los términos del artículo 152 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 34.
 
-En los casos del Artículo anterior y en el de muerte o imposibilidad calificada de los Diputados Propietarios, concurrirán los Suplentes respectivos. Tratándose de Diputados de Representación Proporcional, si el Suplente no pudiere concurrir, la vacante se cubrirá con el Diputado Propietario del mismo Partido que siga en la lista estatal respectiva.
+En los casos del artículo anterior y en el de muerte o imposibilidad calificada de las Diputadas Propietarias o los Diputados Propietarios, concurrirán las y los Suplentes respectivos. Tratándose de Diputadas o de Diputados de Representación Proporcional, si la o el Suplente no pudiere concurrir, la vacante se cubrirá con la Diputada Propietaria o el Diputado Propietario del mismo Partido que siga en la lista estatal respectiva.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 35.
 
-Por muerte o imposibilidad calificada del Diputado Propietario y del Suplente de un mismo Distrito, el Congreso dispondrá que se haga nueva elección siempre que ocurra dentro de los primeros dieciocho meses de su ejercicio.
+Por muerte o imposibilidad calificada de la Diputada Propietaria o del Diputado Propietario y de la o el Suplente de un mismo Distrito, el Congreso dispondrá que se haga nueva elección siempre que ocurra dentro de los primeros dieciocho meses de su ejercicio.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
 En caso de que una u otra ocurran después del término establecido a juicio del Congreso se llamará al Suplente de otro Distrito para que funja hasta terminar el período.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 36.
 
-Entre tanto se verifique la elección a que se refiere el artículo anterior, si no pudiere integrarse el quórum legal, los diputados que concurran llamarán al suplente que, a su juicio, pueda concurrir con mayor prontitud. Este cesará en su función tan luego se presente otro diputado que complete el quórum.
+Entre tanto se verifique la elección a que se refiere el artículo anterior, si no pudiere integrarse el quórum legal, las diputadas y los diputados que concurran llamarán al suplente que, a su juicio, pueda concurrir con mayor prontitud. Este cesará en su función tan luego se presente otra diputada o diputado que complete el quórum.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 37.
 
-La Legislatura requiere para el ejercicio de sus funciones, la asistencia de más de la mitad de sus integrantes. No habiendo la mayoría referida los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, qué fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamará nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
+La Legislatura requiere para el ejercicio de sus funciones, la asistencia de más de la mitad de sus integrantes. No habiendo la mayoría referida las Diputadas y los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, qué fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a las Diputadas y los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamarán nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 38.
 
-Los diputados sólo podrán faltar a las sesiones del Pleno Legislativo, reuniones de Comisión y Comités cuando se trate de causas justificadas con base en la ley y en los términos que la misma establezca.
+Las diputadas y los diputados sólo podrán faltar a las sesiones del Pleno Legislativo, reuniones de Comisión y Comités cuando se trate de causas justificadas con base en la ley y en los términos que la misma establezca.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 39.
 
-Los diputados que no concurran a una sesión del Pleno Legislativo, reunión de Comisión o Comité, sin causa justificada no tendrán derecho a la dieta correspondiente.
+Las diputadas y los diputados que no concurran a una sesión del Pleno Legislativo, reunión de Comisión o Comité, sin causa justificada no tendrán derecho a la dieta correspondiente.
 
 ### CAPITULO II. De la instalación y labores del Congreso
 
@@ -989,9 +1033,9 @@ El Congreso se reunirá para celebrar sus sesiones en los términos que le seña
 
 La estructura del Congreso contemplará un órgano de dirección política, un órgano de dirección parlamentaria, el establecimiento de comisiones para la instrucción de los asuntos que corresponde resolver al Pleno y la organización de los servicios parlamentarios y administrativos necesarios para el cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-La Ley determinará las formas y procedimientos para la integración de los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el mismo. Dichas formas de agrupación por afiliación partidista tendrán la participación que señale la ley en la organización y funcionamiento del Congreso; en su desempeño impulsan entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones que la Constitución asigna al Poder Legislativo.
+La Ley determinará las formas y procedimientos para la integración de las diputadas y los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el mismo. Dichas formas de agrupación por afiliación partidista tendrán la participación que señale la ley en la organización y funcionamiento del Congreso; en su desempeño impulsan entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones que la Constitución asigna al Poder Legislativo.
 
 La ley establecerá los procedimientos para el desahogo de las atribuciones que corresponden al Congreso.
 
@@ -999,31 +1043,31 @@ La ley también contemplará las normas de comportamiento parlamentario y las sa
 
 La ley que establezca las normas de organización y funcionamiento internos del Congreso no necesitará de promulgación del Ejecutivo para tener vigencia, ni podrá ser objeto de observaciones o veto por parte de éste, y será publicada inmediatamente en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 41.
 
-El 30 de septiembre del año de la elección, en sesión solemne, los Diputados electos rendirán la protesta de ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
+El 30 de septiembre del año de la elección, en sesión solemne, las Diputadas y los Diputados electos rendirán la protesta de ley ante la Diputación Permanente, o la Mesa Directiva en caso de prórroga.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 42.
 
-De no asistir la Diputación Permanente o la Mesa Directiva en caso de prórroga, los diputados electos iniciarán por sí la sesión solemne; presidirá el diputado que sea primero en el orden alfabético de sus apellidos y se auxiliará por los dos miembros que libremente determine para fungir como Secretarios. El desarrollo de la sesión solemne tendrá por objeto el otorgamiento de la protesta de ley de los integrantes de la nueva Legislatura.
+De no asistir la Diputación Permanente o la Mesa Directiva en caso de prórroga, las diputadas y los diputados electos iniciarán por sí la sesión solemne; presidirá la diputada o el diputado que sea primero en el orden alfabético de sus apellidos y se auxiliará por los dos miembros que libremente determine para fungir como Secretarios. El desarrollo de la sesión solemne tendrá por objeto el otorgamiento de la protesta de ley de los integrantes de la nueva Legislatura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 43.
 
-El 1° de octubre del primer año de su ejercicio constitucional, la Legislatura procederá a la elección de su Mesa Directiva, que será el órgano de dirección parlamentaria y se integra por un Presidente, dos Secretarios y un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa.
+El 1° de octubre del primer año de su ejercicio constitucional, la Legislatura procederá a la elección de su Mesa Directiva, que será el órgano de dirección parlamentaria y se integra por una Presidenta o Presidente, dos Secretarias y/o Secretarios y una o un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-El Presidente del Congreso declarará a la Legislatura legítimamente constituida, legalmente instalada y en aptitud de ejercer sus funciones.
+La Presidenta o el Presidente del Congreso declarará a la Legislatura legítimamente constituida, legalmente instalada y en aptitud de ejercer sus funciones.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-El presidente de la mesa directiva y su suplente durarán en su cargo sólo un periodo ordinario.
+La Presidenta o el presidente de la mesa directiva y su suplente durarán en su cargo sólo un periodo ordinario.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
@@ -1031,9 +1075,9 @@ La presidencia y suplencia de la mesa directiva de cada periodo ordinario será 
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-Las secretarias y/o los secretarios integrantes de la Mesa Directiva serán electos por el Pleno, mediante la presentación de propuestas formuladas libremente por sus miembros.
+Las secretarias y/o los secretarios integrantes de la Mesa Directiva serán electas y electos por el pleno, mediante la presentación de propuestas formuladas libremente por sus miembros. En ningún caso, los secretarios pertenecerán al mismo grupo parlamentario que integre la presidencia y suplencia de la mesa directiva.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1041,9 +1085,9 @@ Las secretarias y/o los secretarios integrantes de la Mesa Directiva serán elec
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año legislativo: el primero, improrrogable, iniciará el primero de octubre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; el segundo dará principio el quince de enero y terminará el treinta de junio.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-En fecha de la primera quincena de marzo de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe de la persona titular del Poder Ejecutivo del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
+En fecha de la segunda quincena de febrero de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe de la Gobernadora o del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
@@ -1083,11 +1127,11 @@ Los Ayuntamientos del Estado remitirán sus correspondientes iniciativas de Leye
 
 Las sesiones del Congreso del Estado serán públicas, salvo cuando la ley señale que deban tener el carácter de reservadas.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 48.
 
-El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta por un Presidente, dos Secretarios y cuatro vocales, asimismo se nombrarán tres suplentes, y funcionará mientras no vuelva a reunirse el Congreso.
+El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta por una Presidenta o un Presidente, dos Secretarias y/o Secretarios y cuatro vocales, asimismo se nombrarán tres suplentes, y funcionará mientras no vuelva a reunirse el Congreso.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1105,21 +1149,27 @@ Cuando se celebren sesiones extraordinarias continuará en funciones la Diputaci
 
 Si al tiempo que deba abrirse el período de sesiones ordinarias no se hubiere cerrado el de las extraordinarias, cesarán estas y en aquellas se continuará de preferencia el estudio de los negocios que debieron tratarse en las extraordinarias.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Art. 52.
 
-Para la celebración de sesiones extraordinarias, se reunirán los Diputados precisamente en la fecha de su apertura, para que procedan a la elección de la Mesa.
+Para la celebración de Sesiones Extraordinarias, se reunirán las Diputadas y los Diputados precisamente en la fecha de su apertura, para que procedan a la elección de la Mesa.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 53.
 
-Las sesiones extraordinarias se abrirán y cerrarán con las mismas formalidades que las ordinarias, pero el Ejecutivo o el Presidente de la Comisión Permanente en su caso, expondrá los motivos de la convocatoria.
+Las Sesiones Extraordinarias se abrirán y cerrarán con las mismas formalidades que las Ordinarias, pero el Ejecutivo, la Presidenta o el Presidente de la Comisión Permanente en su caso, expondrá los motivos de la convocatoria.
 
 ###### Art. 54.
 
 Si por causa extraordinaria el Congreso se disolviere sin haber nombrado la Diputación Permanente, se entenderá por tal el personal de la última Mesa del Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Art. 55.
 
-Es deber de cada Diputado visitar en los recesos del Congreso, a lo menos una vez cada año, los pueblos del Distrito que representa para informarse:
+Es deber de cada Diputada y Diputado visitar en los recesos del Congreso, a lo menos una vez cada año, los pueblos del Distrito que representa para informarse:
 
 I. Del estado en que se encuentra la educación y beneficencia públicas.
 
@@ -1131,15 +1181,17 @@ IV. De los obstáculos que se opongan al adelanto y progreso del Distrito y de l
 
 V. Velar constantemente por el bienestar y prosperidad de su Distrito, allegando al o a los Municipios que lo compongan, su ayuda directa para conseguir ese fin.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 56.
 
-Para que los diputados puedan cumplir con lo dispuesto en el artículo anterior, las oficinas públicas les facilitarán todos los datos que soliciten, a no ser que conforme a la ley deban permanecer en reserva.
+Para que las diputadas y los diputados puedan cumplir con lo dispuesto en el artículo anterior, las oficinas públicas les facilitarán todos los datos que soliciten, a no ser que conforme a la ley deban permanecer en reserva.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 57.
 
-Al abrirse el período de sesiones siguiente a la visita, los Diputados presentarán al Congreso una memoria que contenga las observaciones que hayan hecho y en la que propondrán las medidas que sean conducentes al objeto de la fracción IV del art. 55.
+Al abrirse el período de sesiones siguiente a la visita, las Diputadas y los Diputados presentarán al Congreso una memoria que contenga las observaciones que hayan hecho y en la que propondrán las medidas que sean conducentes al objeto de la fracción IV del artículo 55, de esta Constitución.
 
 ### CAPITULO III. De las facultades del Congreso
 
@@ -1151,9 +1203,9 @@ Son facultades del Congreso:
 
 I. Expedir, reformar y derogar las Leyes y Decretos que regulan el ejercicio del Poder Público;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-II. Fijar, a propuesta del Gobernador, los gastos del poder público del Estado, y decretar previamente las contribuciones y otros ingresos para cubrirlos, determinándose la duración de dichas fuentes de financiamiento y el modo de recaudar las contribuciones. En el Presupuesto de Egresos se podrán autorizar erogaciones multianuales para los proyectos de desarrollo y de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley, debiéndose incluir las erogaciones correspondientes en los presupuestos de egresos subsecuentes;
+II. Fijar, a propuesta de la Gobernadora o del Gobernador, los gastos del poder público del Estado, y decretar previamente las contribuciones y otros ingresos para cubrirlos, determinándose la duración de dichas fuentes de financiamiento y el modo de recaudar las contribuciones. En el Presupuesto de Egresos se podrán autorizar erogaciones multianuales para los proyectos de desarrollo y de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley, debiéndose incluir las erogaciones correspondientes en los presupuestos de egresos subsecuentes;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1175,9 +1227,9 @@ VI. Revisar la Cuenta Pública del Gobierno del Estado de Tamaulipas así como l
 
 Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado, como órgano técnico de fiscalización superior. Tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Asimismo, deberá fiscalizar las acciones del Estado y municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría que emita la Auditoría Superior del Estado tendrán carácter público. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso, sin perjuicio de su autonomía técnica y de gestión, de conformidad con lo que establezca la ley; y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-Las cuentas públicas del ejercicio fiscal correspondiente deberán ser presentadas al Congreso, a más tardar, el 30 de abril del año siguiente. Únicamente se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno de Estado de Tamaulipas, cuando medie solicitud del Gobernador suficientemente justificada a juicio del Congreso, previa comparecencia del titular de la dependencia competente, pero la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior de (sic) Estado contará con el mismo tiempo adicional para la presentación del informe de resultados de la revisión de la cuenta pública. El Congreso deberá concluir la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados que emita la Auditoría Superior del Estado, sin demérito de que el trámite de observaciones, recomendaciones o acciones promovidas por la propia Auditoría, seguirá su curso en términos de lo dispuesto por esta Constitución y la ley;
+Las cuentas públicas del ejercicio fiscal correspondiente deberán ser presentadas al Congreso, a más tardar, el 30 de abril del año siguiente. Únicamente se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno de Estado de Tamaulipas, cuando medie solicitud de la Gobernadora o del Gobernador suficientemente justificada a juicio del Congreso, previa comparecencia de la persona titular de la dependencia competente, pero la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior de (sic) Estado contará con el mismo tiempo adicional para la presentación del informe de resultados de la revisión de la cuenta pública. El Congreso deberá concluir la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe de resultados que emita la Auditoría Superior del Estado, sin demérito de que el trámite de observaciones, recomendaciones o acciones promovidas por la propia Auditoría, seguirá su curso en términos de lo dispuesto por esta Constitución y la ley;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1219,7 +1271,9 @@ XV. Iniciar ante el Congreso General las leyes y decretos que sean de la compete
 
 XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal;
 
-XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+XVII. Llamar a las Diputadas y los Diputados Suplentes para que concurran al Congreso, previa calificación del impedimento de los Propietarios;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
@@ -1239,15 +1293,17 @@ XXI. Remover a las y los Magistrados del Supremo Tribunal de Justicia del Estado
 
 Instituir la Fiscalía Especializada en combate a la corrupción, adscrita a la Fiscalía General de Justicia del Estado, como un órgano público con autonomía administrativa, técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos, y tendrá las atribuciones que señalen las leyes de la materia. En la ley orgánica respectiva se establecerán los requisitos para ocupar dicho cargo.
 
-Su Titular será nombrado por el término de ocho años, mediante convocatoria pública que emitirá la Legislatura. El Pleno del Congreso elegirá al titular de la Fiscalía Especializada en Combate a la Corrupción por las dos terceras partes de los Diputados presentes, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso. Sólo podrá ser removido de su encargo en los términos del Título XI de esta Constitución.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+La persona Titular será nombrada por el término de ocho años, mediante convocatoria pública que emitirá la Legislatura. El Pleno del Congreso elegirá a la persona titular de la Fiscalía Especializada en Combate a la Corrupción por las dos terceras partes de las Diputadas y los Diputados presentes, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso. Sólo podrá ser removido de su encargo en los términos del Título XI de esta Constitución.
 
 Establecer el Consejo Estatal de Política Criminal, como instancia de coordinación del Estado encargada del diseño e implementación, en el ámbito de las respectivas competencias, de la política y prioridades de persecución penal. Se integrará por el Ejecutivo del Estado, el Fiscal General de Justicia, el Secretario General de Gobierno, el Secretario de Seguridad Pública y los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos. La ley determinará la organización y funcionamiento del Consejo Estatal de Política Criminal.
 
 XXII. (DEROGADA, P.O. 19 DE JUNIO DE 2020)
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo;
+XXIII. Nombrar a la Gobernadora o al Gobernador Interino en los casos a que se refiere el artículo 84 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo, mientras se hace cargo del mismo la Gobernadora Constitucional Substituta o el Gobernador Constitucional Substituto que resulte electa o electo;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1267,17 +1323,17 @@ XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del
 
 XXIX. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo General del Instituto Electoral de Tamaulipas;
+XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernadora electa o de Gobernador electo que hubiere hecho el Consejo General del Instituto Electoral de Tamaulipas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 XXXI. Para legislar sobre mecanismos de participación ciudadana;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-XXXII. Resolver sobre la renuncia del cargo de Gobernador y calificar los impedimentos para encargarse de su cometido, y convocar a nueva elección si la renuncia o impedimento ocurrieren dentro de los tres primeros años del período;
+XXXII. Resolver sobre la renuncia del cargo de Gobernadora o de Gobernador y calificar los impedimentos para encargarse de su cometido, y convocar a nueva elección si la renuncia o impedimento ocurrieren dentro de los tres primeros años del período;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2012)</small>
 
@@ -1299,9 +1355,9 @@ XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosper
 
 XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-XL. Resolver sobre la solicitud de licencia temporal que formule el Gobernador para separarse de su cargo por más de 30 días y de permiso para salir del territorio del Estado por más de 15 días, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
+XL. Resolver sobre la solicitud de licencia temporal que formule la Gobernadora o el Gobernador para separarse de su cargo por más de 30 días y de permiso para salir del territorio del Estado por más de 15 días, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
 
 XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado;
 
@@ -1339,9 +1395,9 @@ XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo;
 
 XLVIII. Dictar las leyes necesarias para establecer un sistema integral de justicia para adolescentes, en el que se garanticen los derechos humanos previstos en la Constitución General de la República, los tratados internacionales y esta Constitución para toda persona;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-LIX (sic). Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
+XLIX. Convocar a elecciones en caso de muerte de la Gobernadora o del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta absoluta ocurra durante los tres primeros años del período;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
@@ -1361,9 +1417,9 @@ LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Conceder por tiempo limitado privilegio a los inventores, introductores o perfeccionadores de algún arte o mejora útil;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en los casos a que se refiere la fracción XLV del Artículo 91, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia;
+LIV. Resolver en definitiva, sobre las medidas adoptadas por la Gobernadora o el Gobernador, en los casos a que se refiere la fracción XLV del artículo 91 de esta Constitución, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia;
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
@@ -1389,9 +1445,9 @@ LVIII. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue 
 
 LIX. Llamar a las autoridades o servidores públicos de la administración pública estatal a solicitud de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando no hubieren aceptado o cumplido las recomendaciones emitidas por dicha Comisión, con objeto de explicar el motivo de su negativa;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-LX. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado;
+LX. Designar, por el voto de las dos terceras partes de sus miembros presentes, a las personas titulares de los órganos internos de control de los órganos constitucionalmente autónomos, reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado;
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
@@ -1433,11 +1489,11 @@ VII. Hacer lo demás que prohibe esta Constitución.
 
 ### CAPITULO IV. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 60.
 
-En la última sesión de cada período ordinario de sesiones, el Congreso nombrará una Comisión que se denominará Diputación Permanente, compuesta por siete Diputados: un Presidente, dos Secretarios y cuatro vocales, asimismo se nombrarán tres suplentes.
+En la última sesión de cada período ordinario de sesiones, el Congreso nombrará una Comisión que se denominará Diputación Permanente, compuesta por siete Diputadas y Diputados: una Presidenta o Presidente, dos Secretarias y/o Secretarios y cuatro vocales, asimismo se nombrarán tres suplentes.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
 
@@ -1485,17 +1541,17 @@ VIII.- Recibir la protesta de los servidores públicos en los casos en que deban
 
 IX. Resolver sobre las solicitudes de carácter urgente que se le presentaren; cuando la resolución exija la expedición de una Ley o Decreto, se concretará la Diputación Permanente a formular dictamen para dar cuenta a la Legislatura;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-X.- Resolver, en definitiva, en los recesos del Congreso, sobre las medidas que adopte el Gobernador en los casos a que se refiere la fracción XLV del artículo 91, dándole inmediata cuenta de la resolución a fin de que proceda en consecuencia.
+X.- Resolver, en definitiva, en los recesos del Congreso, sobre las medidas que adopte la Gobernadora o el Gobernador en los casos a que se refiere la fracción XLV del artículo 91 de esta Constitución, dándole inmediata cuenta de la resolución a fin de que proceda en consecuencia;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
 XI.- Ejercer, en su caso, las facultades que al Congreso concede la fracción XVI del Artículo 58 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-XII.- Conocer y resolver sobre solicitud de licencia que le sean presentadas por los legisladores;
+XII.- Conocer y resolver sobre solicitud de licencia (sic) que le sean presentadas por las y los legisladores;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1523,11 +1579,13 @@ Del Proceso Legislativo, del Proceso Presupuestario y de la Fiscalización Super
 
 El derecho de iniciativa compete:
 
-I. A los Diputados al Congreso del Estado.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+I. A las Diputadas y los Diputados del Congreso del Estado;
 
-II. Al Gobernador del Estado.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+II. A la Gobernadora o al Gobernador del Estado;
 
 III. Al Supremo Tribunal de Justicia.
 
@@ -1543,9 +1601,9 @@ V.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trec
 
 La Ley del Congreso determinará el trámite que deba darse a las iniciativas.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-Durante los primeros quince días del periodo ordinario de sesiones el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno del Congreso en un plazo máximo de treinta días naturales. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.
+Durante los primeros quince días del periodo ordinario de sesiones la Gobernadora o el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno del Congreso en un plazo máximo de treinta días naturales. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
@@ -1565,11 +1623,11 @@ En las normas sobre el funcionamiento interno del Congreso se contendrán las re
 
 Ninguna iniciativa de ley o decreto que sea desechada podrá volver a presentarse en el mismo periodo de sesiones, salvo lo dispuesto para las Leyes de Ingresos del Estado o de los Municipios, y el Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 67.
 
-Las iniciativas adquirirán el carácter de ley o decreto cuando sean aprobadas por la mayoría de los diputados presentes en los términos de lo previsto por esta sección, y entrarán en vigor en la fecha que determine el Congreso; si éste no lo determina, serán vigentes a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Las iniciativas adquirirán el carácter de ley o decreto cuando sean aprobadas por la mayoría de las diputadas y los diputados presentes en los términos de lo previsto por esta sección, y entrarán en vigor en la fecha que determine el Congreso; si éste no lo determina, serán vigentes a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
@@ -1579,9 +1637,13 @@ Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo para e
 
 Se entenderá aprobado por el Ejecutivo todo proyecto no devuelto con observaciones dentro de los treinta días naturales siguientes a su recepción. Vencido ese plazo, el Ejecutivo dispondrá de diez días naturales para promulgar, publicar y circular la ley o decreto. En caso de que el Ejecutivo no proceda en estos términos, la ley o decreto será considerado promulgado y el Presidente de la Mesa Directiva o de la Diputación Permanente ordenará, dentro de los diez días naturales siguientes, su publicación y circulación, sin que se requiera refrendo.
 
-En el supuesto de que el Ejecutivo deseche en todo la ley o decreto aprobado, el Congreso deberá examinar y discutir las observaciones formuladas, en un plazo no mayor a diez días naturales contados a partir de la devolución; en el supuesto de que el Congreso se encuentre en receso, en los primeros diez días del periodo de sesiones ordinarias siguiente. El Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se celebre. La ley o decreto devuelto por el Ejecutivo se reputará promulgado cuando fuese confirmado por el voto de las dos terceras partes de los diputados presentes, sin que se requiera refrendo.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-Si el Ejecutivo devuelve con observaciones en parte la ley o decreto, el Congreso deberá examinar y discutir las observaciones en los plazos previstos en el párrafo anterior. El Congreso, por mayoría de votos de los diputados presentes, podrá adoptar las adiciones o modificaciones realizadas por el Ejecutivo, con excepción de las reformas a la Constitución Política local en donde se observará lo dispuesto por su artículo 165; o, en su caso, confirmar las partes o porciones observadas, por mayoría calificada de dos terceras partes de los presentes. Transcurrido el plazo previsto para la nueva discusión sin que el Congreso se hubiese pronunciado, el Ejecutivo podrá ordenar la promulgación, publicación y circulación de la ley o decreto en todo aquello que no fuese desechado.
+En el supuesto de que el Ejecutivo deseche en todo la ley o decreto aprobado, el Congreso deberá examinar y discutir las observaciones formuladas, en un plazo no mayor a diez días naturales contados a partir de la devolución; en el supuesto de que el Congreso se encuentre en receso, en los primeros diez días del periodo de sesiones ordinarias siguiente. El Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se celebre. La ley o decreto devuelto por el Ejecutivo se reputará promulgado cuando fuese confirmado por el voto de las dos terceras partes de las diputadas y los diputados presentes, sin que se requiera refrendo.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+Si el Ejecutivo devuelve con observaciones en parte la ley o decreto, el Congreso deberá examinar y discutir las observaciones en los plazos previstos en el párrafo anterior. El Congreso, por mayoría de votos de las diputadas y los diputados presentes, podrá adoptar las adiciones o modificaciones realizadas por el Ejecutivo, con excepción de las reformas a la Constitución Política local en donde se observará lo dispuesto por su artículo 165; o, en su caso, confirmar las partes o porciones observadas, por mayoría calificada de dos terceras partes de los presentes. Transcurrido el plazo previsto para la nueva discusión sin que el Congreso se hubiese pronunciado, el Ejecutivo podrá ordenar la promulgación, publicación y circulación de la ley o decreto en todo aquello que no fuese desechado.
 
 Los plazos a que se refiere este artículo no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
 
@@ -1627,11 +1689,11 @@ Los órganos de poder del Estado, el Ejecutivo, el Legislativo y el Judicial, as
 
 El Congreso del Estado garantizará la suficiencia presupuestal de los órganos a los que esta Constitución reconoce autonomía, a fin de permitirles el ejercicio eficaz y oportuno de sus competencias, satisfaciendo las necesidades reales para el debido funcionamiento de cada órgano. Esta garantía podrá hacerse efectiva a través del medio de control constitucional contemplado en la fracción I del artículo 113 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 71.
 
-En tratándose de las Leyes de Ingresos del Estado o de los Municipios y del Presupuesto de Egresos del Estado, si alguna de ellas o éste fuere desechado, podrá presentarse nueva iniciativa por el Ejecutivo o los Ayuntamientos, según corresponda, con objeto de asegurar que al inicio del siguiente ejercicio fiscal se cuenten con los ordenamientos necesarios en materia de ingresos y egresos. Si los titulares de la facultad de iniciativa en esta materia no la formulan en tiempo, corresponde a las comisiones del Congreso con competencia en estas materias la presentación de una propuesta susceptible de ser conocida y votada por el Pleno del Congreso.
+En tratándose de las Leyes de Ingresos del Estado o de los Municipios y del Presupuesto de Egresos del Estado, si alguna de ellas o éste fuere desechado, podrá presentarse nueva iniciativa por el Ejecutivo o los Ayuntamientos, según corresponda, con objeto de asegurar que al inicio del siguiente ejercicio fiscal se cuenten con los ordenamientos necesarios en materia de ingresos y egresos. Si las personas titulares de la facultad de iniciativa en esta materia no la formulan en tiempo, corresponde a las comisiones del Congreso con competencia en estas materias la presentación de una propuesta susceptible de ser conocida y votada por el Pleno del Congreso.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1641,9 +1703,9 @@ La formulación de observaciones sobre la Ley de Ingresos y el Presupuesto de Eg
 
 En todo caso, la formulación y desahogo de las observaciones se hará dentro del plazo que establece esta Constitución para la vigencia del año fiscal.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-Si los términos contenidos originalmente en la Ley de Ingresos o el Presupuesto de Egresos son confirmados por las dos terceras partes de los diputados presentes, volverá al Ejecutivo para su promulgación.
+Si los términos contenidos originalmente en la Ley de Ingresos o el Presupuesto de Egresos son confirmados por las dos terceras partes de las diputadas y los diputados presentes, volverá al Ejecutivo para su promulgación.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 03 DE JUNIO DE 2003)</small>
 
@@ -1753,9 +1815,9 @@ IV.- Derivado de sus investigaciones, promover las responsabilidades que sean pr
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-El Congreso del Estado designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. El Auditor deberá contar con experiencia en materia de control presupuestal, auditoría financiera y régimen de responsabilidades de los servidores públicos, de por lo menos cinco años. La ley establecerá el procedimiento para su designación. El titular de la Auditoría durará en su encargo ocho años y podrá ser nombrado para un nuevo periodo por una sola vez. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+El Congreso del Estado designará al Auditor Superior del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes. El Auditor deberá contar con experiencia en materia de control presupuestal, auditoría financiera y régimen de responsabilidades de los servidores públicos, de por lo menos cinco años. La ley establecerá el procedimiento para su designación. La persona titular de la Auditoría durará en su encargo ocho años y podrá ser nombrado para un nuevo periodo por una sola vez. Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1773,11 +1835,11 @@ Para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la
 
 ### CAPITULO I. Del Ejecutivo
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 77.
 
-El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas", siendo su elección directa cada seis años, en los términos que señala la Ley Electoral.
+El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernadora Constitucional del Estado Libre y Soberano de Tamaulipas" o "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas", siendo su elección directa cada seis años, en los términos que señala la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
@@ -1797,11 +1859,11 @@ IV.- Ser mayor de treinta años de edad el día de la elección; y
 
 V.- Poseer suficiente instrucción.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 79.
 
-No pueden obtener el cargo de Gobernador del Estado por elección:
+No pueden obtener el cargo de Gobernadora o Gobernador del Estado por elección:
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
@@ -1831,33 +1893,37 @@ VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales
 
 VII.- Los que estén sujetos a proceso criminal por delito que merezca pena corporal a contar de la fecha del auto de vinculación a proceso.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 80.
 
-El primero de octubre inmediato a la elección entrará el Gobernador a ejercer sus funciones por 6 años y nunca podrá volver a desempeñar ese cargo ni por una nueva elección, ni con el carácter de provisional o interino.
+El primero de octubre inmediato a la elección entrará la Gobernadora o el Gobernador a ejercer sus funciones por 6 años y nunca podrá volver a desempeñar ese cargo ni por una nueva elección, ni con el carácter de provisional o interino.
 
 ###### Art. 81.
 
 (DEROGADO, P.O. 25 DE OCTUBRE DE 1997)
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Art. 82.
 
-La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
+La elección de la Gobernadora o del Gobernador prefiere a cualquiera otra. Solo es renunciable este cargo por causa grave, que calificará el Congreso.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 83.
 
-Si no se hubiera celebrado elección de Gobernador o si se hubiere hecho ésta y expedido la declaratoria por el Consejo General del Instituto Electoral de Tamaulipas para el día de la toma de posesión, pero el electo no se presentare a asumir su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que designe el Congreso por diecinueve del número total de sus miembros, en sesión que tendría el carácter de permanente hasta cumplir su objeto.
+Si no se hubiera celebrado elección de Gobernadora o Gobernador o si se hubiere hecho ésta y expedido la declaratoria por el Consejo General del Instituto Electoral de Tamaulipas para el día de la toma de posesión, pero el electo no se presentare a asumir su cargo, cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que en nombre del Congreso, por diecinueve del número total de sus miembros, en sesión que tendría el carácter de permanente hasta cumplir su objeto.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 84.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa, ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Política de los Estados Unidos Mexicanos y a las leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los 3 primeros años del período, el Congreso Local, constituído en Sesión Permanente y Secreta, nombrará por el voto de la mayoría de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la fracción XLIX del Artículo 58 de esta Constitución.
+En los casos de renuncia o muerte de la Gobernadora o del Gobernador o cuando se le declare con lugar a formación de causa, ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Política de los Estados Unidos Mexicanos y a las leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los 3 primeros años del período, el Congreso Local, constituido en Sesión Permanente y Secreta, nombrará por el voto de la mayoría de sus miembros, una Gobernadora o un Gobernador Interino que promulgará el Decreto que se expida conforme a la fracción XLIX del artículo 58 de esta Constitución.
 
-El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años de éste, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en sus funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a Sesiones Extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, quien ejercerá sus funciones hasta en tanto tome posesión el Gobernador Substituto que resulte electo.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión de la Gobernadora o del Gobernador Interino nombrado. La Gobernadora o el Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años de éste, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en sus funciones de Gobernadora o Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a Sesiones Extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el Congreso revoque dicho nombramiento, procederá a designar Gobernadora Interina o Gobernador Interino, quien ejercerá sus funciones hasta en tanto tome posesión el Gobernador Substituto que resulte electo.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2021)</small>
 
@@ -1871,27 +1937,35 @@ Si al abrirse el período de sesiones ordinarias estuviere corriendo término de
 
 Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista, el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 87.
 
-En los casos de licencia temporal concedida al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias del Gobernador en períodos que no excedan de 30 días serán cubiertas por el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
+En los casos de licencia temporal concedida a la Gobernadora o al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de las Diputadas y los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias de la Gobernadora o del Gobernador en períodos que no excedan de 30 días serán cubiertas por la Secretaria o el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 88.
 
-Los Gobernadores que con el carácter de interinos o substitutos nombrados por el Congreso, no podrán ser electos para el período inmediato siguiente, ni para el que se convoque, si estuvieren en funciones un año antes de la elección.
+Las Gobernadoras o los Gobernadores con el carácter de Interinas o Interinos, Substitutas o Substitutos nombrados por el Congreso, no podrán ser electos para el período inmediato siguiente, ni para el que se convoque, si estuvieren en funciones un año antes de la elección.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 89.
 
-Al Gobernador nunca se le concederá licencia con el carácter de indefinida, ni tampoco por más de seis meses. Si concluida la licencia no se presentare de nuevo dicho funcionario, se declarará vacante el puesto y se procederá a lo dispuesto en el artículo 85 de esta Constitución.
+A la Gobernadora o al Gobernador nunca se le concederá licencia con el carácter de indefinida, ni tampoco por más de seis meses. Si concluida la licencia no se presentare de nuevo dicho funcionario, se declarará vacante el puesto y se procederá a lo dispuesto en el artículo 84 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 90.
 
-El Gobernador al tomar posesión de su cargo, prestará ante el Congreso y en sus recesos ante la Diputación Permanente, la protesta que sigue: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demande."
+La Gobernadora o el Gobernador al tomar posesión de su cargo, prestará ante el Congreso y en sus recesos ante la Diputación Permanente, la protesta que sigue: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ella emanen y desempeñar leal y patrióticamente el cargo de Gobernador (a) que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demanden".
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 91.
 
-Las facultades y obligaciones del Gobernador son las siguientes:
+Las facultades y obligaciones de la Gobernadora o del Gobernador son las siguientes:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1929,9 +2003,9 @@ VIII.- Ejercer la facultad prevista en la fracción XV del Artículo 73 de la Co
 
 IX.- Nombrar y remover libremente a los servidores públicos de confianza a que se refiere la ley respectiva y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-X.- Participar en el proceso de designación del Fiscal General de Justicia, en términos del Artículo 125 de esta Constitución, y turnar al titular de ese organismo público todos los asuntos que deban ventilarse dentro del ámbito de sus atribuciones;
+X.- Participar en el proceso de designación del Fiscal General de Justicia, en términos del artículo 125 de esta Constitución, y turnar a la persona titular de ese organismo público todos los asuntos que deban ventilarse dentro del ámbito de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1955,7 +2029,9 @@ XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se adm
 
 XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de Justicia Administrativa;
 
-XVII.- Celebrar convenios con los Gobernadores de los Estados limítrofes, para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+XVII.- Celebrar convenios con las y los Gobernadores de los Estados limítrofes para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;
 
 > <small>(REFORMADA, P.O. 03 DE JUNIO DE 2003)</small>
 
@@ -2059,9 +2135,11 @@ XLVII.- Solicitar a la Comisión Nacional de los Derechos Humanos que investigue
 
 XLVIII.- Ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Art. 92.
 
-Se prohibe al Gobernador:
+Se prohíbe a la Gobernadora o al Gobernador:
 
 I. Negarse a sancionar y publicar las leyes y decretos que expida el Congreso, en los términos que prescribe esta Constitución.
 
@@ -2107,9 +2185,9 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-Durante la primera quincena de marzo de cada año, mediante informe escrito, las y los titulares de las dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
+Durante la segunda quincena de febrero de cada año, mediante informe escrito, las personas titulares de las dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
@@ -2151,9 +2229,11 @@ El Secretario General de Gobierno no podrá desempeñar otro cargo, empleo ni co
 
 El Secretario General de Gobierno sólo podrá litigar en negocios propios o de su familia.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Art. 98.
 
-El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gobernador por los decretos, reglamentos, circulares o acuerdos que firme.
+La Secretaria o el Secretario General de Gobierno tendrá responsabilidad solidaria con la Gobernadora o el Gobernador por los Decretos, Reglamentos, Circulares o Acuerdos que firme.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
@@ -2441,9 +2521,9 @@ El Pleno del Supremo Tribunal de Justicia, en funciones de tribunal constitucion
 
 I.- De la controversia constitucional local, que podrán promover los Poderes del Estado, los organismos a los que esta constitución otorgue autonomía y los municipios, para impugnar actos o normas generales estatales o municipales que invadan su competencia conforme a esta Constitución. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias.
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla los Diputados tratándose de normas generales expedidas por el Congreso del Estado, o por los síndicos y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Poder Ejecutivo a través del Consejero Jurídico del Gobierno del Estado; el Fiscal General de Justicia del Estado en contra de normas generales en materia penal, así como la Comisión de Derechos Humanos del Estado de Tamaulipas, a través de su presidente, tratándose de normas generales que violen derechos humanos previstos por esta Constitución.
+II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla las Diputadas y los Diputados tratándose de normas generales expedidas por el Congreso del Estado, o por las síndicas, los síndicos, regidoras y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Poder Ejecutivo a través de la Consejera o Consejero Jurídico del Gobierno del Estado; la o el Fiscal General de Justicia del Estado en contra de normas generales en materia penal, así como la Comisión de Derechos Humanos del Estado de Tamaulipas, a través de su presidencia, tratándose de normas generales que violen derechos humanos previstos por esta Constitución.
 
 Las sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene.
 
@@ -2489,7 +2569,9 @@ XII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne que se ve
 
 El informe se entregará por escrito al Congreso del Estado, en la modalidad que éste acuerde;
 
-XIII.- Acordar, en los casos que considere necesario, la propuesta al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+XIII.- Acordar, en los casos que considere necesario, la propuesta a la Gobernadora o al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
 
 XIV.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
@@ -2665,7 +2747,9 @@ La función de procuración de justicia en el Estado se regirá por los principi
 
 La ley orgánica establecerá un Consejo de Fiscales, como el órgano colegiado encargado de la administración, vigilancia y disciplina de la Fiscalía General. Asimismo, será el órgano rector del servicio profesional de carrera, en los términos que establezca la ley.
 
-La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, asuntos internos y de combate a la corrupción, cuyos titulares serán nombrados y removidos en términos de esta constitución y la ley.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, asuntos internos y de combate a la corrupción, cuyas personas titulares serán nombradas y removidas en términos de esta constitución y la ley.
 
 Para ser Fiscal General de Justicia se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos al día de la designación; contar con título profesional de licenciado en derecho con antigüedad mínima de diez años; gozar de buena reputación, y no haber sido condenado por delito doloso.
 
@@ -2673,7 +2757,9 @@ Para ser Fiscal General de Justicia se requiere: ser ciudadano mexicano por naci
 
 El Fiscal General durará en su encargo siete años y será designado y removido conforme al siguiente procedimiento:
 
-I. A partir de la ausencia definitiva del Fiscal General, el Congreso del Estado contará con diez días para integrar una lista paritaria de al menos seis candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al titular del Ejecutivo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2025)</small>
+
+I. A partir de la ausencia definitiva de la o del Fiscal General, el Congreso del Estado contará con diez días para integrar una lista paritaria de al menos seis candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará a la persona titular del Ejecutivo.
 
 Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Congreso una terna y designará provisionalmente a un Fiscal General interino, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General interino podrá formar parte de la terna.
 
@@ -2683,9 +2769,9 @@ III. El Congreso, con base en la terna y previa comparecencia de las personas pr
 
 En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I. Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-IV. El Fiscal General podrá ser removido por el titular del Ejecutivo únicamente por las causas graves que establezca la ley. La remoción deberá ser aprobada dentro del plazo de diez días por el voto de al menos dos terceras partes de los miembros del Congreso del Estado. En caso de negativa o vencido el plazo, el Fiscal General permanecerá en el cargo y no podrá ser removido por los mismos hechos que originaron el procedimiento.
+IV. La o el Fiscal General podrá ser removido por la persona titular del Ejecutivo únicamente por las causas graves que establezca la ley. La remoción deberá ser aprobada dentro del plazo de diez días por el voto de al menos dos terceras partes de los miembros del Congreso del Estado. En caso de negativa o vencido el plazo, la o el Fiscal General permanecerá en el cargo y no podrá ser removido por los mismos hechos que originaron el procedimiento.
 
 V. En los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
 
@@ -2721,13 +2807,13 @@ Este organismo no será competente tratándose de asuntos electorales y jurisdic
 
 La Comisión de Derechos Humanos del Estado de Tamaulipas tendrá un Consejo Consultivo integrado por seis Consejeros, quienes serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas respectivas.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-La elección del titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas y del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la ley. Tanto los miembros del Consejo Consultivo como su Presidente durarán en su cargo 6 años y podrán ser reelectos por una sola ocasión.
+La elección de la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas y del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la ley. Tanto los miembros del Consejo Consultivo como su Presidenta o Presidente durarán en su cargo 6 años y podrán ser reelectos por una sola ocasión.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-El titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, deberá entregar puntualmente los informes relativos al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
+La persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, deberá entregar puntualmente los informes relativos al cumplimiento de su encomienda, ante las instancias públicas que señale esta Constitución o la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2745,11 +2831,13 @@ En materia penal y en la imputación de conductas previstas como delito por las 
 
 La defensoría pública podrá representar a quien de acuerdo a los requisitos y condiciones previstos por la ley lo solicite en asuntos de carácter familiar o civil. A su vez, podrá brindar asesoría en otras materias en los términos que prevea la ley, con base en los recursos presupuestales de que disponga.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 128.
 
-La ley dispondrá la organización del servicio de defensoría pública, tanto en materia penal como de representación en asuntos familiares o civiles y para el otorgamiento de asesorías legales. Tendrá un titular designado por el Ejecutivo del Estado y los defensores y asesores que sustente el presupuesto de egresos. Los defensores no podrán tener percepciones inferiores a las que corresponden a los agentes de Ministerio Público.
+La ley dispondrá la organización del servicio de defensoría pública, tanto en materia penal como de representación en asuntos familiares o civiles y para el otorgamiento de asesorías legales. Tendrá una persona titular designada por el Ejecutivo del Estado y los defensores y asesores que sustente el presupuesto de egresos. Los defensores no podrán tener percepciones inferiores a las que corresponden a los agentes de Ministerio Público.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
 
 El cargo de defensor público o de asesor es incompatible con cualquier otro cargo, empleo o comisión en los sectores público, social o privado, excepto en la realización de actividades docentes, de investigación, literarias o de beneficencia.
 
@@ -2763,25 +2851,41 @@ Una ley reglamentará la organización de la defensoría pública y los requisit
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 130.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un presidente, síndicos y regidores electos por el principio de votación de Mayoría Relativa y con regidores electos por el principio de Representación Proporcional, en los términos de la Constitución Federal, la ley general aplicable y la ley estatal de la materia.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una presidenta o un presidente, síndicas, síndicos, regidoras y regidores electas y electos por el principio de votación de Mayoría Relativa y con regidoras y regidores electos por el principio de Representación Proporcional, en los términos de la Constitución Federal, la ley general aplicable y la ley estatal de la materia.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 Los integrantes de los Ayuntamientos serán electos en su totalidad cada tres años.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 Tendrán derecho a la asignación de regidores de Representación Proporcional, los partidos políticos que en la elección de Ayuntamientos no hayan obtenido la Mayoría Relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5% del total de la votación municipal emitida para el Ayuntamiento correspondiente, conforme a las reglas establecidas en la ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 Las facultades que la Constitución Federal otorga al gobierno municipal, se ejercerán por el Ayuntamiento de manera exclusiva, sin que pueda existir autoridad intermedia entre éste y el gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 Los integrantes de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el periodo inmediato, por una sola ocasión. Los ciudadanos que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para un periodo adicional, en los términos del presente artículo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 En los casos de los integrantes del Ayuntamiento que hayan accedido a tal cargo mediante una candidatura independiente, solo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 La legislatura local, por mayoría calificada de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes, por alguna de las causas que la ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y expresar los alegatos que a su juicio convengan.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 Si alguno de los miembros de los Ayuntamientos dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, a propuesta del Ejecutivo, la legislatura del Estado designará de entre los vecinos a los Consejos Municipales que concluirán los periodos respectivos; estos consejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
 
@@ -2905,15 +3009,15 @@ No estará permitido en el Estado expedir autorizaciones, permisos o licencias s
 
 Cuando un acuerdo del ayuntamiento sea violatorio de la Constitución Federal o del Estado, o de cualquier otra ley, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo dará cuenta inmediatamente al Congreso para que resuelva lo conducente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
 ###### Art. 136.
 
-La policía preventiva estará al mando del presidente municipal, en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+La policía preventiva estará al mando (sic) la presidenta o del presidente municipal, en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que la Gobernadora o el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-El Gobernador del Estado tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
+La Gobernadora o el Gobernador del Estado tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
@@ -3015,9 +3119,11 @@ Con el objeto de que la salud pública encomendada al Gobierno del Estado se int
 
 ### CAPITULO III. De las vías de comunicación
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Art. 147.
 
-El Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de las vías de comunicación en el territorio del Estado; asimismo expedirá las disposiciones convenientes para la realización y fomento de las obras de utilidad pública, general o local, en su mismo territorio, dando preferencia a las de irrigación. El Congreso expedirá las leyes que fueren necesarias y que fijarán la contribución especial que se dedicará a este Ramo.
+La Gobernadora o el Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de las vías de comunicación en el territorio del Estado; asimismo expedirá las disposiciones convenientes para la realización y fomento de las obras de utilidad pública, general o local, en su mismo territorio, dando preferencia a las de irrigación. El Congreso expedirá las Leyes que fueren necesarias y que fijarán la contribución especial que se dedicará a este ramo.
 
 ### CAPITULO IV. Del Trabajo y Previsión Social
 
@@ -3043,9 +3149,9 @@ De las Responsabilidades de los Servidores Públicos y Particulares Vinculados c
 
 Para los efectos de las responsabilidades a que se refiere este Título, se reputarán como Servidores Públicos a los representantes de elección popular, a los miembros del Poder Judicial y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Público del Estado y de los Municipios, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
+La Gobernadora o el Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -3229,7 +3335,9 @@ IV.- El Sistema Estatal tendrá acceso a la información pública necesaria, ade
 
 V.- Las recomendaciones, políticas públicas e informes que emita el Sistema Estatal, deberá tener respuesta de los sujetos o entes públicos a quienes se dirija y establecer los procedimientos para darles seguimiento.
 
-VI.- El Sistema Estatal rendirá un informe público a los titulares de los poderes del Estado, en el que den cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para tal efecto, deberá seguir las metodologías del Sistema Nacional Anticorrupción.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+VI.- El Sistema Estatal rendirá un informe público a las personas titulares de los poderes del Estado, en el que den cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para tal efecto, deberá seguir las metodologías del Sistema Nacional Anticorrupción.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3259,9 +3367,11 @@ II. El último Presidente del Supremo Tribunal de Justicia, y a falta de este lo
 
 III. El último presidente del Congreso, y a falta de este los anteriores, prefiriéndose a los más próximos sobre los más lejanos con el requisito anterior.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Art. 157.
 
-El Gobernador Provisional convocará a elecciones, no pudiendo ser electo para el período a que se convoca.
+La Gobernadora o el Gobernador Provisional convocará a elecciones, no pudiendo ser electo para el período a que se convoca.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -3293,9 +3403,13 @@ Dicha remuneración será determinada anual y equitativamente en los presupuesto
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividad (sic) oficiales;
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente;
+II. Ninguna persona servidora pública podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la Gobernadora o el Gobernador del Estado en el presupuesto correspondiente;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+III. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para la Gobernadora o el Gobernador del Estado en el presupuesto correspondiente;
 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
 
@@ -3347,7 +3461,9 @@ Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párr
 
 Toda erogación que se realice con cargo al Presupuesto de Egresos se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado y el propio Presupuesto de Egresos.
 
-Los tesoreros municipales solo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento, salvo que exista acuerdo delegatorio expreso aprobado por el Cabildo. El tesorero o empleado que desobedeciera esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+Las tesoreras o los tesoreros municipales solo harán pagos obedeciendo órdenes firmadas por la Presidenta o el Presidente Municipal y la Secretaria o el Secretario del Ayuntamiento, salvo que exista acuerdo delegatorio expreso aprobado por el Cabildo. La tesorera o el tesorero, o empleado que desobedeciera esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
 ###### Art. 163.
 
@@ -5650,6 +5766,14 @@ Para el caso de las y los Consejeros del Consejo de la Judicatura del Estado, po
 P.O. 5 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-247 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-258 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
