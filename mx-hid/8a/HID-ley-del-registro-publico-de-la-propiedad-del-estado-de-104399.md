@@ -4,7 +4,7 @@ identifier: "HID-ley-del-registro-publico-de-la-propiedad-del-estado-de-104399"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2022-03-28"
+last_updated: "2025-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025.
 
 Ley publicada en el Alcance Dos del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -783,21 +783,33 @@ Las escrituras de partición y adjudicación no se inscribirán, sin que estén 
 
 La anotación es el acto por el cual se asienta cualquiera circunstancia que afecte a las inscripciones ya registradas y se hará expresando en ella la fecha en que se hace, su naturaleza o motivo y los datos de referencia, así como la firma electrónica del Registrador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
+
+###### Artículo 112.
+
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario, corredor público o autoridad ante quien se haga el otorgamiento, podrá a su criterio, o deberá, a solicitud de quien pretenda adquirir un derecho, dar al Registro únicamente un primer aviso preventivo al solicitar certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho a la libertad de los mismos.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. Previo pago de derechos, el registrador hará la anotación del primer aviso preventivo que tendrá vigencia por un término de sesenta días naturales a partir de la fecha de presentación de la solicitud.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+Una vez que se haya otorgado la escritura que produzca cualquiera de las consecuencias a que se hace mención en el párrafo anterior, el fedatario o autoridad ante quien se suscribió dará al registro, dentro de un término de cuarenta y ocho horas, únicamente un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo que precede, la fecha de la escritura y la de su firma.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+El registrador con el aviso en cuestión y previo pago de derechos, hará de inmediato la anotación de tal aviso preventivo que tendrá una vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo de referencia se dé dentro del término de treinta días aludidos en el anterior párrafo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diera después de este plazo sólo surtirá efectos desde la fecha y hora de su presentación.
+
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
-
-###### ARTÍCULO 112.
-
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario, corredor público o autoridad ante quien se haga el otorgamiento, podrá a su criterio, o deberá, a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitar certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho a la libertad de los mismos.
-
-Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral, sin cobro de derechos, el registrador hará la anotación del primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
-
-Una vez que se haya otorgado la escritura que produzca cualquiera de las consecuencias a que se hace mención en el párrafo anterior, el fedatario o autoridad ante quien se suscribió dará al registro, dentro de un término de cuarenta y ocho horas, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo que precede, la fecha de la escritura y la de su firma.
-
-El registrador con el aviso en cuestión y sin cobro de derechos, hará de inmediato la anotación de tal aviso preventivo que tendrá una vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo de referencia se dé dentro del término de treinta días aludidos en el anterior párrafo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diera después de este plazo sólo surtirá efectos desde la fecha y hora de su presentación.
 
 Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+
 Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el Notario, Corredor Público o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los Notarios o Corredores Públicos en el caso de los instrumentos públicos. Si el contrato se ratifica ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los produjo, siempre y cuando los datos que contenga la solicitud sean correctos y según lo disponga el Reglamento de esta Ley.
 
@@ -1436,3 +1448,9 @@ P.O. 28 DE MARZO DE 2022.
 ÚNICO. (SIC) El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la presente Ley, a más tardar en el plazo de 30 días hábiles posteriores a la publicación del presente Decreto.
+
+P.O. 12 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 196 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 112 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, EN MATERIA DE AVISOS PREVENTIVOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
