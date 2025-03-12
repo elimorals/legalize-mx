@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-sistema-para-el-desarrollo-integral-14273
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-04-22"
-last_updated: "2020-04-22"
+last_updated: "2025-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025.
 
 Estatuto publicado en el número 5812 del Periódico Oficial del Estado de Morelos, el miércoles 22 de abril de 2020.
 
@@ -46,21 +46,23 @@ ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL EST
 
 El presente Estatuto Orgánico es de interés social y de observancia general, tiene por objeto establecer las bases de organización, estructura, atribuciones, funciones y actividades de las Unidades Administrativas y de los órganos de gobierno, de administración y de control interno que integran al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, para el despacho de los asuntos de su competencia y cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Artículo 2.
 
 Para efectos del presente Estatuto Orgánico, además de las definiciones señaladas en el artículo 3 de la Ley de Asistencia Social y Corresponsabilidad Ciudadana para el Estado de Morelos, se entiende por:
 
-I. Casa de Día, al albergue para adultos mayores, con carácter ambulatorio, que se encuentra bajo la supervisión de la Dirección de Desarrollo y Fortalecimiento Familiar del Sistema;
+I. Casa de Día, al albergue para adultos mayores, con carácter ambulatorio;
 
 II. Centro de Asistencia Social, al establecimiento para el cuidado alternativo o acogimiento residencial que brindan instituciones públicas, privadas y asociaciones, en los que se procura de manera temporal, al menos, alojamiento, alimentación, salud, educación, desarrollo humano e integración a la sociedad, para grupos vulnerables y familias en estado de indefensión, canalizadas por autoridades judiciales;
 
-III. Centro Asistencial de Desarrollo Infantil, al establecimiento que brinda protección temporal y formación integral a niñas y niños de 45 días a 5 años 11 meses, pues los niños desarrollan habilidades y competencias sociales necesarias para su desempeño futuro, al tiempo que se previenen problemáticas sociales, mientras sus madres se dedican al desempeño de actividades laborales, cuyos servicios tienen una cuota de recuperación;
+III. Centro Asistencial de Desarrollo Infantil, brinda protección temporal y formación integral a niñas y niños de 45 días a 5 años 11 meses, mientras sus madres se dedican al desempeño de actividades laborales, cuyos servicios tienen una cuota de recuperación;
 
-IV. Centro de Desarrollo Comunitario, al establecimiento donde se ofrece a la población vulnerable, la oportunidad de desarrollarse en los ámbitos personal, familiar, social y económico, a través de la impartición de carreras técnico profesionales, en coordinación con las autoridades competentes. Además, constituye una especie de franquicia social donde se impulsa el desarrollo comunitario, se fomenta la convivencia, se proveen servicios sociales y se fortalece la identidad colectiva;
+IV. Centro de Desarrollo Comunitario, lugar donde se ofrece a la población en situación de vulnerabilidad, la oportunidad de desarrollarse en los ámbitos personal, familiar, social y económico, a través de la impartición de carreras técnico profesionales, en coordinación con las autoridades competentes;
 
-V. Centro de Asistencia Infantil Comunitario, al establecimiento de protección temporal y formación integral a niñas y niños en edad preescolar y menores de 5 años con 11 meses de edad, a quienes se considera que se encuentran en situación de vulnerabilidad social, al ser hijos de madres trabajadoras y jefas de familia, que carecen de los servicios asistenciales y educativos para el cuidado y formación integral de sus hijos, quienes ante la necesidad de generar el ingreso familiar frecuentemente dejan en situación de abandono temporal a sus hijas e hijos, haciéndose patente la necesidad de generar las condiciones que permitan su cuidado;
+V. Centro de Asistencia Infantil Comunitario, al establecimiento de protección temporal y formación integral a niñas y niños en edad preescolar y menores de 5 años con 11 meses de edad, a quienes se considera que se encuentran en situación de vulnerabilidad, al ser hijos de madres trabajadoras y jefas de familia, que carecen de los servicios asistenciales y educativos para el cuidado y formación integral de sus hijos;
 
-VI. Centro de Desarrollo Educativo, al establecimiento donde ofrecen servicios educativos integrales a jóvenes y adultos que, por circunstancias desfavorables, no han podido concluir con su educación básica y media superior, en coordinación con las autoridades competentes. Así mismo, se imparten carreras técnico profesionales, lo que brinda la posibilidad de completar su preparación;
+VI. Centro de Desarrollo Educativo, al establecimiento donde ofrecen servicios educativos integrales a jóvenes y adultos que, por circunstancias desfavorables, no han podido concluir con su educación básica y media superior, en coordinación con las autoridades competentes;
 
 VII. Centro de Rehabilitación Integral, al establecimiento que brinda a las personas con discapacidad, asistencia médica, servicios de prevención, detección y rehabilitación de segundo nivel, así como el desarrollo de habilidades y capacitación para integrarlos a la sociedad;
 
@@ -70,7 +72,7 @@ IX. Comisario Público, a la persona Titular del Órgano Interno de Control, des
 
 X. Comité de Adquisiciones, al Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos;
 
-XI. Coordinaciones, a la Coordinación de Atención a la Discapacidad, a la Coordinación de Enlace Institucional y a la Coordinación de Relaciones Públicas.
+XI. Coordinaciones, a la Coordinación de Atención a la Discapacidad, a la Coordinación de Enlace Institucional y a la Coordinación de Relaciones Públicas;
 
 XII. Corresponsabilidad ciudadana, a la responsabilidad compartida entre los sectores público, social y privado, que tiende a generar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con objeto de favorecer prioritariamente a los grupos sociales vulnerables;
 
@@ -84,17 +86,17 @@ XVI. Estación de Servicio 2530, a la Estación de Servicio 2530 del Sistema, Un
 
 XVII. Estatuto Orgánico, al presente Instrumento Jurídico;
 
-XVIII. Gobernador, a la persona Titular del Poder Ejecutivo Estatal;
+XVIII. Junta de Gobierno, a la máxima autoridad del Sistema al que hace referencia el artículo 12 del presente Estatuto Orgánico;
 
-XIX. Junta de Gobierno, a la máxima autoridad del Sistema al que hace referencia el artículo 12 del presente Estatuto Orgánico;
+XIX. Ley, a la Ley de Asistencia Social y Corresponsabilidad Ciudadana para el Estado de Morelos;
 
-XX. Ley, a la Ley de Asistencia Social y Corresponsabilidad Ciudadana para el Estado de Morelos;
+XX. Ley Orgánica, a la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos;
 
-XXI. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
+XXI. Ley sobre Adquisiciones, a la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos;
 
-XXII. Ley sobre Adquisiciones, a la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos;
+XXII. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por la Junta de Gobierno y, en su caso, por las demás autoridades competentes, mediante los cuales se indican los pasos que deben seguirse para el desarrollo de cada una de las actividades que compete a las Unidades Administrativas que conforman el Sistema;
 
-XXIII. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por la Junta de Gobierno y, en su caso, por las demás autoridades competentes, mediante los cuales se indican los pasos que deben seguirse para el desarrollo de cada una de las actividades que compete a las Unidades Administrativas que conforman el Sistema;
+XXIII. Persona Titular del Poder Ejecutivo Estatal, a la persona depositaria del ejercicio del Poder Ejecutivo del Estado Libre y Soberano de Morelos, de conformidad con el artículo 57 de la Constitución Estatal;
 
 XXIV. Presidente o Presidenta, a la persona Titular de la presidencia del Sistema, conforme lo disponen los artículos 27 de la Ley y 20 del presente Estatuto Orgánico;
 
@@ -112,7 +114,7 @@ XXX. Sistemas DIF Municipales, a los Sistemas Municipales para el Desarrollo Int
 
 XXXI. Subcomité de Adquisiciones, al Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Sistema;
 
-XXXII. Unidades Administrativas, a cada una de las áreas que integran el Sistema de conformidad con lo dispuesto en el artículo 10 del presente Estatuto Orgánico; y
+XXXII. Unidades Administrativas, a cada una de las áreas que integran el Sistema de conformidad con lo dispuesto en el artículo 10 del presente Estatuto Orgánico, y
 
 XXXIII. Unidades Básicas de Rehabilitación, a los establecimientos que proporcionan atención integral para personas con discapacidad temporal o permanente.
 
@@ -126,9 +128,11 @@ El Sistema administrará sus ingresos propios y presupuestales en los términos 
 
 La interpretación de las disposiciones del presente Estatuto Orgánico se hará conforme a lo dispuesto en la Ley, Ley Orgánica y demás normativa aplicable.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Artículo 5.
 
-Los servidores públicos del Sistema serán directamente responsables de las resoluciones que, en el ejercicio de sus atribuciones, autoricen con su firma, conforme a lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de Morelos y en la Ley General de Responsabilidades Administrativas.
+Los servidores públicos del Sistema serán directamente responsables de las resoluciones que, en el ejercicio de sus atribuciones, autoricen con su firma, conforme a lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de Morelos y en la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ### CAPÍTULO II. DE LA NATURALEZA, EL OBJETO, EL PATRIMONIO Y LAS ATRIBUCIONES DEL SISTEMA
 
@@ -184,11 +188,21 @@ VI. La Dirección de Alimentación y Desarrollo Comunitario;
 
 VII. La Procuraduría de Protección de Niños, Niñas, Adolescentes y la Familia del Estado de Morelos;
 
-VIII. La Dirección de Centros de Asistencia Social; y,
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
-IX. La Dirección de Administración y Finanzas.
+VIII. La Dirección de Centros de Asistencia Social;
 
-Las Unidades Administrativas señaladas en las fracciones I, II, III, V, VI, VII y IX, se encuentran adscritas a la Dirección General del Sistema, la Unidad Administrativa señalada en la fracción IV, se adscribe a la Coordinación de Atención a la Discapacidad y la Unidad Administrativa señalada en la fracción VIII se adscribe a la Procuraduría.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+IX. La Dirección de Administración y Finanzas, y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2025)</small>
+
+X. La Dirección Jurídica.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+Las Unidades Administrativas señaladas en las fracciones I, II, III, V, VI, VII, IX y X se encuentran adscritas a la Dirección General del Sistema, la Unidad Administrativa señalada en la fracción IV, se adscribe a la Coordinación de Atención a la Discapacidad y la Unidad Administrativa señalada en la fracción VIII se adscribe a la Procuraduría.
 
 ###### Artículo 11.
 
@@ -224,15 +238,19 @@ El funcionamiento, convocatorias y desarrollo de las sesiones de la Junta de Gob
 
 I. Las convocatorias a las sesiones, ya sean ordinarias o extraordinarias, deberán formularse por escrito a los integrantes de la Junta de Gobierno;
 
-II. La citación de las sesiones ordinarias deberá realizarse conforme al calendario aprobado, a cada uno de los integrantes de la Junta de Gobierno o, en su caso, a sus suplentes respectivos, mediante la convocatoria que al efecto emita la persona Titular de la Presidencia de la Junta de Gobierno, a través del Secretario Técnico, con un mínimo de cinco días hábiles de anticipación, adjuntando el orden del día con los asuntos a tratar, el proyecto del acta de la sesión anterior y demás documentos necesarios para el desarrollo de la Sesión; y,
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+II. La citación de las sesiones ordinarias deberá realizarse conforme al calendario aprobado, a cada uno de los integrantes de la Junta de Gobierno o, en su caso, a sus suplentes respectivos, mediante la convocatoria que al efecto emita la persona Titular de la Presidencia de la Junta de Gobierno, a través del Secretario Técnico, con un mínimo de cinco días hábiles de anticipación, adjuntando el orden del día con los asuntos a tratar y demás documentos necesarios para el desarrollo de la Sesión, y
 
 III. En caso necesario, se podrán celebrar sesiones extraordinarias cuando la urgencia de los asuntos lo amerite y tendrán validez siempre y cuando se cumplan con los requisitos señalados para las ordinarias, previa convocatoria de la persona Titular de la Presidencia de la Junta de Gobierno, a través del Secretario Técnico, con un mínimo de veinticuatro horas hábiles de anticipación.
 
 #### SECCIÓN TERCERA. DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Artículo 16.
 
-La Junta de Gobierno tendrá las atribuciones establecidas en los artículos 63 de la Ley Orgánica y 22 de la Ley. Las cuestiones no previstas por el presente Estatuto Orgánico, se resolverán por acuerdo de la Junta de Gobierno, siempre en cumplimiento de la Ley, la Ley Orgánica y demás normativa aplicable que regule el asunto a deliberar.
+La Junta de Gobierno tendrá las atribuciones establecidas en los artículos 66 de la Ley Orgánica y 22 de la Ley. Las cuestiones no previstas por el presente Estatuto Orgánico, se resolverán por acuerdo de la Junta de Gobierno, siempre en cumplimiento de la Ley, la Ley Orgánica y demás normativa aplicable que regule el asunto a deliberar.
 
 Así mismo, con el objetivo de articular y regular, así como fortalecer la evaluación del desempeño e impacto de los diversos programas y acciones que ejecuta el Sistema, la Junta de Gobierno podrá emitir reglas de operación o lineamientos que resulten necesarios.
 
@@ -296,7 +314,9 @@ VII. Las demás funciones que le encomiende el presente Estatuto Orgánico, el P
 
 El Presidente o la Presidenta será la máxima autoridad representativa del Sistema y tendrá las atribuciones que le confiere el artículo 28 de la Ley y las demás que le otorgue la normativa aplicable.
 
-Dicho cargo será ejercido de manera honorífica por lo que no recibirá retribución, emolumento o compensación alguna. Así mismo, acudirá a los eventos internacionales, nacionales y estatales con la representación oficial, siendo portavoz de los derechos y necesidades de los grupos vulnerables en el Estado.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
+Dicho cargo será ejercido de manera honorífica por lo que no recibirá retribución, emolumento o compensación alguna. Así mismo, acudirá a los eventos internacionales, nacionales y estatales con la representación oficial, siendo portavoz de los derechos y necesidades de los grupos vulnerables en el Estado, en caso de ausencia será la Persona Titular de la Dirección General quien representará al Sistema.
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL
 
@@ -306,7 +326,9 @@ La persona Titular de la Dirección General será nombrado conforme a lo estable
 
 Además de las atribuciones que señalan dichos ordenamientos, así como la normativa aplicable, o bien, las que le correspondan por delegación o suplencia, el Director General tiene las atribuciones específicas siguientes:
 
-I. Representar al Sistema, a petición de la persona Titular de la Presidencia, en los actos y eventos en que participe, acudir a las sesiones a las que sea invitado, así como desempeñar las comisiones y funciones especiales que aquél le confiera;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+I. Representar al Sistema, a petición de la persona Titular de la Presidencia o en su ausencia, en los actos y eventos en que participe, acudir a las sesiones a las que sea invitado, así como desempeñar las comisiones y funciones especiales que aquél le confiera;
 
 II. Representar al Sistema en las actividades de coordinación y concertación con cualquier órgano que tenga relación con los asuntos de su competencia;
 
@@ -326,7 +348,9 @@ IX. Establecer relaciones de coordinación o colaboración con las Autoridades F
 
 X. Proponer a las diversas Secretarías, Dependencias y Entidades de la Administración Pública Estatal la incorporación de proyectos de asistencia social en sus objetivos y programas;
 
-XI. Proponer al Gobernador, con la aprobación de la Junta de Gobierno, los proyectos de iniciativas de leyes o decretos, reglamentos, acuerdos o cualquier disposición jurídica o administrativa sobre los asuntos de su competencia, previa revisión y validación que al efecto realicen las autoridades competentes;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+
+XI. Proponer a la Persona Titular del Poder Ejecutivo Estatal, con la aprobación de la Junta de Gobierno, los proyectos de iniciativas de leyes o decretos, reglamentos, acuerdos o cualquier disposición jurídica o administrativa sobre los asuntos de su competencia, previa revisión y validación que al efecto realicen las autoridades competentes;
 
 XII. Someter a la Junta de Gobierno las dudas que se susciten con motivo de la interpretación o aplicación del presente Estatuto Orgánico, así como los casos no previstos en él;
 
@@ -506,6 +530,8 @@ XLI. Las demás que le confiera la persona Titular de la Dirección General, la 
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES ESPECÍFICAS
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Artículo 29.
 
 A la persona Titular de la Coordinación de Atención a la Discapacidad le corresponden las siguientes atribuciones específicas:
@@ -514,37 +540,51 @@ I. Cumplir y observar las leyes, reglamentos y demás normativa en materia de di
 
 II. Ejecutar y vigilar, en coordinación con la Secretaría, Dependencias o Entidades relacionadas con temáticas de discapacidad, las acciones dirigidas al apoyo de las personas en dicha condición y que se encuentren en riesgo o sufran de alguna contingencia;
 
-III. Planear, programar, organizar, dirigir, coordinar, ejecutar y evaluar los proyectos, campañas y programas en materia de discapacidad que tenga a su cargo;
+III. Coordinar las acciones para proporcionar terapia individual o grupal a los pacientes que presenten discapacidad neuromusculoesquelética, alteraciones de audición, lenguaje, habla y alteraciones de la vista;
 
-IV. Planear, programar y ejecutar acciones que fomenten la prevención de la discapacidad;
+IV. Planear, programar, organizar, dirigir, coordinar, ejecutar y evaluar los proyectos, campañas y programas en materia de discapacidad que tenga a su cargo;
 
-V. Promover, coordinar y ejecutar acciones para el desarrollo de las personas con discapacidad, a través del establecimiento y operación de los programas que, para tal efecto, se pacten con las instancias municipales correspondientes;
+V. Planear, programar y ejecutar acciones que fomenten la prevención de la discapacidad;
 
-VI. Formular programas o proyectos de detección y atención de personas con discapacidad;
+VI. Planear, programar y ejecutar acciones para la investigación, control y prevención de enfermedades que generen discapacidad, así como la habilitación y rehabilitación de las personas con discapacidad;
 
-VII. Asumir y desempeñar las facultades que las normas aplicables le atribuyen al Sistema en materia de discapacidad;
+VII. Promover, coordinar y ejecutar acciones para el desarrollo de las personas con discapacidad, a través del establecimiento y operación de los programas que, para tal efecto, se pacten con las instancias municipales correspondientes;
 
-VIII. Supervisar y orientar el funcionamiento de las asociaciones civiles que presten servicios de atención a personas con discapacidad con la finalidad de coadyuvar en el logro de sus objetivos;
+VIII. Coordinar las funciones de los Centros de Rehabilitación Integral y las Unidades Básicas de Rehabilitación, verificando el logro de metas y profesionalización del personal para desempeñar responsablemente las actividades de rehabilitación;
 
-IX. Promover, en coordinación con la Secretaría, Dependencia o Entidad correspondiente, que los recursos aportados por la federación a los Municipios se destinen al desarrollo de infraestructura y atención para personas con discapacidad;
+IX. Formular programas o proyectos de detección y atención de personas con discapacidad;
 
-X. Vigilar la ejecución de los programas o proyectos en materia de discapacidad dentro del ámbito de su competencia, aprobados por las autoridades competentes;
+X. Asumir y desempeñar las facultades que las normas aplicables le atribuyen al Sistema en materia de discapacidad;
 
-XI. Planear en conjunto con el Director General los proyectos para el Estado en materia de asistencia a personas con discapacidad en cumplimiento a la normativa aplicable;
+XI. Supervisar y orientar el funcionamiento de las asociaciones civiles que presten servicios de atención a personas con discapacidad con la finalidad de coadyuvar en el logro de sus objetivos;
 
-XII. Promover los derechos de las personas con discapacidad y la lucha contra la discriminación hacia ese sector de la sociedad;
+XII. Promover, en coordinación con la Secretaría, Dependencia o Entidad correspondiente, que los recursos aportados por la federación a los Municipios se destinen al desarrollo de infraestructura y atención para personas con discapacidad;
 
-XIII. Promover las políticas públicas para la inclusión laboral, recreativa, cultural, educativa y deportiva para las personas con discapacidad;
+XIII. Vigilar la ejecución de los programas o proyectos en materia de discapacidad dentro del ámbito de su competencia, aprobados por las autoridades competentes;
 
-XIV. Promover la comunicación efectiva con los Sistemas DIF Municipales, a fin de lograr los objetivos en común en materia de discapacidad;
+XIV. Planear en conjunto con el Director General los proyectos para el Estado en materia de asistencia a personas con discapacidad en cumplimiento a la normativa aplicable;
 
-XV. Otorgar dispositivos de asistencia personal para la movilidad individual de las personas con discapacidad;
+XV. Promover los derechos de las personas con discapacidad y la lucha contra la discriminación hacia ese sector de la sociedad;
 
-XVI. Crear una base de datos que se utilice como Padrón de Personas con Discapacidad y operar los módulos de credencialización en el Estado;
+XVI. Promover las políticas públicas para la inclusión laboral, recreativa, cultural, educativa y deportiva para las personas con discapacidad;
 
-XVII. Atender los asuntos conferidos por la Dirección General en relación a la discapacidad; y
+XVII. Promover la comunicación efectiva con los Sistemas DIF Municipales, a fin de lograr los objetivos en común en materia de discapacidad;
 
-XVIII. Establecer con las Instituciones Educativas Públicas y Privadas del Estado de Morelos, los medios de enseñanza y capacitación que beneficien a personas con discapacidad.
+XVIII. Otorgar dispositivos de asistencia personal para la movilidad individual de las personas con discapacidad;
+
+XIX. Crear una base de datos que se utilice como Padrón de Personas con Discapacidad y operar los módulos de credencialización en el Estado;
+
+XX. Atender los asuntos conferidos por la Dirección General en relación a la discapacidad;
+
+XXI. Participar con el Sistema Nacional, de conformidad con la normativa aplicable, en la revisión, difusión y aplicación de normas y lineamientos establecidos en materia de rehabilitación no hospitalaria, así como vigilar su estricto cumplimiento;
+
+XXII. Controlar y supervisar el manejo y administración del equipo y material asignado, tanto por el Sistema Nacional DIF como por el Sistema;
+
+XXIII. Informar al Sistema Nacional y a las autoridades competentes del Sistema, las acciones emprendidas en cuanto los programas de atención a las personas con discapacidad con el propósito de identificar avances y logros de metas;
+
+XXIV. Proponer la realización de convenios interinstitucionales con el sector salud, a fin de complementar los servicios que presta a la población con discapacidad, y
+
+XXV. Establecer con las Instituciones Educativas Públicas y Privadas del Estado de Morelos, los medios de enseñanza y capacitación que beneficien a personas con discapacidad.
 
 ###### Artículo 30.
 
@@ -644,69 +684,55 @@ XI. Planear y determinar propuestas de mejora en la interacción del Sistema con
 
 XII. Coordinar y dar seguimiento a los asuntos encomendados por la Presidenta y por la persona Titular de la Dirección General.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 ###### Artículo 32.
 
 A la persona Titular de la Dirección del Centro de Rehabilitación y Educación Especial le corresponden las siguientes atribuciones específicas:
 
 I. Promover que la normativa en materia de rehabilitación y educación especial sea observada por los diversos sectores de la sociedad civil;
 
-II. Planear, programar, organizar, dirigir, coordinar, ejecutar y evaluar los proyectos, campañas y programas en materia de rehabilitación que tenga a su cargo;
+II. Formular proyectos preventivos de detección, atención y tratamientos de rehabilitación a favor de personas con discapacidad;
 
-III. Planear, programar y ejecutar acciones para la investigación, control y prevención de enfermedades que generen discapacidad, así como la habilitación y rehabilitación de las personas con discapacidad;
+III. Promover la apertura y ampliación de los Centros de Rehabilitación Integral, así como de las Unidades Básicas de Rehabilitación en los Municipios del Estado de Morelos, con la finalidad de acercar dichos servicios a la población;
 
-IV. Formular proyectos preventivos de detección, atención y tratamientos de rehabilitación a favor de personas con discapacidad;
+IV. Apoyar a todos los Centros de Rehabilitación Integral y las Unidades Básicas de Rehabilitación en la difusión e implementación de los programas sustantivos para la atención de personas con discapacidad;
 
-V. Promover la apertura y ampliación de los Centros de Rehabilitación Integral, así como de las Unidades Básicas de Rehabilitación en los Municipios del Estado de Morelos, con la finalidad de acercar dichos servicios a la población;
+V. Supervisar la operación eficiente de los Centros de Rehabilitación Integral y de las Unidades Básicas de Rehabilitación, vigilando que en su atención se pondere el respecto (sic) a los derechos humanos;
 
-VI. Apoyar a todos los Centros de Rehabilitación Integral y las Unidades Básicas de Rehabilitación en la difusión e implementación de los programas sustantivos para la atención de personas con discapacidad;
+VI. Promover, en coordinación con la Secretaría, Dependencia o Entidad correspondiente, que los recursos aportados por la Federación a los Municipios, se destinen al desarrollo de infraestructura en donde se brinde atención a personas con discapacidad;
 
-VII. Supervisar la operación eficiente de los Centros de Rehabilitación Integral y de las Unidades Básicas de Rehabilitación, vigilando que en su atención se pondere el respeto a los derechos humanos;
+VII. Vigilar la ejecución de los programas o proyectos en materia de rehabilitación aprobados por las autoridades competentes;
 
-VIII. Promover, en coordinación con la Secretaría, Dependencia o Entidad correspondiente, que los recursos aportados por la Federación a los Municipios, se destinen al desarrollo de infraestructura en donde se brinde atención a personas con discapacidad;
+VIII. Supervisar que las Unidades Básicas de Rehabilitación y los Centros de Rehabilitación Integral, cuenten con el personal calificado, así como con la infraestructura e instrumentos necesarios para proporcionar a los usuarios una adecuada atención;
 
-IX. Vigilar la ejecución de los programas o proyectos en materia de rehabilitación aprobados por las autoridades competentes;
+IX. Promover la comunicación efectiva con los Sistemas DIF Municipales para lograr conjuntamente los objetivos comunes en materia de rehabilitación;
 
-X. Coordinar las funciones de los Centros de Rehabilitación Integral y las Unidades Básicas de Rehabilitación, verificando el logro de metas y profesionalización del personal para desempeñar responsablemente las actividades de rehabilitación;
+X. Atender los asuntos que, en materia de rehabilitación, le hayan sido encomendados por la Coordinación de Atención a la Discapacidad;
 
-XI. Supervisar que las Unidades Básicas de Rehabilitación y los Centros de Rehabilitación Integral, cuenten con el personal calificado, así como con la infraestructura e instrumentos necesarios para proporcionar a los usuarios una adecuada atención;
+XI. Coordinar con los Sistemas DIF Municipales las brigadas médicas preventivas dirigidas a atender la población vulnerable, en materia de rehabilitación;
 
-XII. Promover la comunicación efectiva con los Sistemas DIF Municipales para lograr conjuntamente los objetivos comunes en materia de rehabilitación;
+XII. Formular y ejecutar programas de estudio y cursos de capacitación, enseñanza, especialización y actualización del personal profesional, técnico y auxiliar, con el propósito de evaluar el aprendizaje y contribuir así, al mejoramiento continuo en los servicios que, en materia de rehabilitación, realiza la Dirección, en sus áreas de especialización;
 
-XIII. Atender los asuntos que, en materia de rehabilitación, le hayan sido encomendados por la Coordinación de Atención a la Discapacidad;
+XIII. Prestar servicios de salud en aspectos preventivos, médicos y de rehabilitación en sus áreas de especialización;
 
-XIV. Coordinar con los Sistemas DIF Municipales las brigadas médicas preventivas dirigidas a atender a la población vulnerable, en materia de rehabilitación;
+XIV. Controlar y supervisar los programas de valoración y tratamiento de rehabilitación, así como las acciones de prevención e integración social, laboral y educativa;
 
-XV. Formular y ejecutar programas de estudio y cursos de capacitación, enseñanza, especialización y actualización del personal profesional, técnico y auxiliar, con el propósito de evaluar el aprendizaje y contribuir así, al mejoramiento continuo en los servicios que, en materia de rehabilitación, realiza la Dirección, en sus áreas de especialización;
+XV. Ejecutar estudios socioeconómicos para determinar la cuota de recuperación que la población atendida deberá cubrir por los servicios brindados que, en materia de rehabilitación, otorga el Sistema a través de la Dirección.
 
-XVI. Prestar servicios de salud en aspectos preventivos, médicos y de rehabilitación en sus áreas de especialización;
+XVI. Brindar el apoyo técnico, asesoría y capacitación requerida por los Sistemas DIF Municipales, para coadyuvar en el cumplimiento de sus programas de trabajo, de conformidad con las directrices emitidas por el Sistema Nacional DIF;
 
-XVII. Participar con el Sistema Nacional, de conformidad con la normativa aplicable, en la revisión, difusión y aplicación de normas y lineamientos establecidos en materia de rehabilitación no hospitalaria, así como vigilar su estricto cumplimiento;
+XVII. Participar en la planeación y estructuración de recursos de capacitación especializada y educación continua para el personal médico y paramédico, técnico y operativo de la Dirección del CREE, así como coordinar y evaluar su cumplimiento, procurando que la información del recurso humano, se incentive un perfil especializado de calidad, humanista y de servicio;
 
-XVIII. Controlar y supervisar el manejo y administración del equipo y material asignado, tanto por el Sistema Nacional DIF como por el Sistema;
+XVIII. Supervisar la integración de reportes de avance y resultados de los programas; neuromusculoesquelética, alteraciones de audición, lenguaje, habla y alteración a la vista;
 
-XIX. Controlar y supervisar los programas de valoración y tratamiento de rehabilitación, así como las acciones de prevención e integración social, laboral y educativa;
+XIX. Disponer las acciones médicas, psicológicas y sociales que permitan prevenir y otorgar (sic) con discapacidad;
 
-XX. Ejecutar estudios socioeconómicos para determinar la cuota de recuperación que la población atendida deberá cubrir por los servicios brindados que, en materia de rehabilitación, otorga el Sistema a través de la Dirección;
+XX. Evaluar aptitudes y habilidades físicas de las personas con discapacidad, con la finalidad de vincularlas con las empresas para su inclusión a la vida laboral;
 
-XXI. Brindar el apoyo técnico, asesoría y capacitación requerida por los Sistemas DIF Municipales, para coadyuvar en el cumplimiento de sus programas de trabajo, de conformidad con las directrices emitidas por el Sistema Nacional DIF;
+XXI. Fortalecer los procesos de rehabilitación de las personas con discapacidad neuromotora, visual, auditiva y de lenguaje, mediante el uso de tecnología adaptada, y
 
-XXII. Participar en la planeación y estructuración de cursos de capacitación especializada y educación continua para el personal médico y paramédico, técnico y operativo de la Dirección del CREE, así como coordinar y evaluar su cumplimiento, procurando que la formación del recurso humano, se incentive un perfil especializado de calidad, humanista y de servicio;
-
-XXIII. Supervisar la integración de reportes de avance y resultados de los programas;
-
-XXIV. Coordinar las acciones para proporcionar terapia individual o grupal a los pacientes que presenten discapacidad neuromusculoesquelética, alteraciones de audición, lenguaje, habla y alteraciones de la vista;
-
-XXV. Disponer las acciones médicas, psicológicas y sociales que permitan prevenir y otorgar una rehabilitación integral a las personas con discapacidad;
-
-XXVI. Evaluar aptitudes y habilidades físicas de las personas con discapacidad, con la finalidad de vincularlas con las empresas para su inclusión a la vida laboral;
-
-XXVII. Fortalecer los procesos de rehabilitación de las personas con discapacidad neuromotora, visual, auditiva y de lenguaje, mediante el uso de tecnología adaptada;
-
-XXVIII. Asesorar a los Municipios sobre conocimientos médicos, técnicos, psicológicos y sociales, que permitan prevenir y tratar la discapacidad;
-
-XXIX. Proponer la realización de convenios interinstitucionales con el sector salud, a fin de complementar los servicios que presta a la población con discapacidad; y
-
-XXX. Informar al Sistema Nacional y a las autoridades competentes del Sistema, las acciones emprendidas en cuanto a los programas de atención a las personas con discapacidad con el propósito de identificar avances y logro de metas.
+XXII. Asesorar a los Municipios sobre conocimientos médicos, técnicos, psicológicos y sociales, que permitan prevenir y tratar la discapacidad.
 
 ###### Artículo 33.
 
@@ -1000,6 +1026,58 @@ XXXVI. Supervisar que los bienes adquiridos cumplan con las especificaciones y c
 
 XXXVII. Proponer y coadyuvar en la elaboración de contratos y convenios de carácter financiero y administrativo que vinculen al Sistema con instituciones públicas y privadas.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2025)</small>
+
+Artículo 38 BIS. Corresponde a la persona Titular de la Dirección Jurídica las siguientes facultades:
+
+I. Emitir opinión jurídica de las normas que, en materia de asistencia social, le proponga el Sistema a la Secretaría de Salud;
+
+II. Emitir opinión técnica y formular dictámenes que procedan, respecto de las solicitudes que presenten las unidades administrativas del Sistema u homólogos de los municipios, así como las demás entidades y dependencia, actuando como órgano de consulta en la materia jurídica competencia del Sistema;
+
+III. Establecer el criterio del Sistema cuando las unidades administrativas del mismo emitan opiniones o actos contradictorios en aspectos legales;
+
+IV. Establecer, sistematizar, unificar y difundir entre las unidades administrativas del Sistema los criterios de interpretación y de aplicación de las disposiciones legales, reglamentarias y administrativas dentro del ámbito de competencia de la Entidad, así como coordinar la compilación de las mismas;
+
+V. Tramitar la publicación en el periódico oficial “Tierra y Libertad” de las disposiciones de carácter general y particular, relativas a las materias competencia del Sistema; que resulten procedentes, pudiendo, en su caso, emitir opinión jurídica al respecto, y requerir a las unidades administrativas solicitantes de las publicaciones las modificaciones, aclaraciones o confirmación respectivas;
+
+VI. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos y demás normatividad competencia del propio Organismo;
+
+VII. Solicitar a las personas titulares de cualquier unidad administrativa del Sistema, la información que se requiera para las propuestas de proyectos de leyes, reglamentos, decretos, acuerdos, iniciativas de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones normativas en las materias de su respectiva competencia, y coordinar la elaboración y presentación de las citadas propuestas ante las instancias correspondientes;
+
+VIII. Coordinar la emisión de opiniones respecto de las iniciativas y proyectos formulados por el Poder Legislativo, así como la atención de las demás gestiones legislativas que sean requeridas del Sistema;
+
+IX. Representar el interés del Sistema y de su Titular, cuando dicha representación no corresponda a otra unidad administrativa, en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, la Comisión Nacional de los Derechos Humanos y las demás de autoridades administrativas, judiciales, laborales, órganos constitucionales autónomos, instancias internacionales y otras de diversa naturaleza, en que sean parte;
+
+X. Coordinar la defensa jurídica de la persona Titular del Sistema, actuando como Apoderado Legal, ejercitando los derechos, acciones, excepciones y defensa que correspondan transigir dentro o fuera de juicio o allanarse, cuando así convenga a los intereses del Sistema, e interponer los recursos que procedan;
+
+XI. Representar el interés del Sistema, de su Titular, en todos aquellos asuntos en que, sin que sean parte, sea requerida su intervención por la autoridad que conoce de algún juicio o procedimiento, o tenga interés para intervenir conforme a sus atribuciones en su caso, poner en conocimiento del Órgano Interno de Control los hechos respectivos;
+
+XII. Atender las solicitudes que involucren el ejercicio del derecho de petición de todos aquellos asuntos en materia jurídica dirigidos a la persona Titular del Sistema en su representación;
+
+XIII. Coordinar las atenciones que procedan en la materia Derechos Humanos con las personas Titulares de las Jefaturas de Unidad, Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, Coordinaciones y Direcciones de Sistemas, fungiendo como responsable y enlace ante las diversas instancias internas y externas en la materia;
+
+XIV. Formular, presentar y realizar los actos jurídicos que procedan en las demandas de amparo e interponer los medios de impugnación que correspondan en representación del Sistema y de su Titular, cuando dicha representación no corresponda a otra unidad administrativa y sean señalados como autoridades responsables;
+
+XV. Actuar como Apoderado General para pleitos y cobranzas del Organismo, ante toda clase de autoridades e instancias del fuero común o federal, ejercitando las acciones competentes;
+
+XVI. Formular denuncias y querellas, así como formular la petición de sobreseimiento del proceso penal u otorgar el perdón, cuando sea procedente, ante tribunales competentes según el caso, sobre hechos que pudieran ser constitutivos de delito y que afecten al funcionamiento o patrimonio del Sistema;
+
+XVII. Realizar los actos que requieran la regularización, legislación, adquisición y enajenación de bienes inmuebles del Sistema, en su caso, con el apoyo de la Dirección de Administración y Finanzas del Sistema;
+
+XVIII. Actuar como Apoderado General para gestionar el registro de los derechos de propiedad intelectual, derechos de autor o patentes que correspondan al Sistema, ante las autoridades administrativas correspondientes;
+
+XIX. Expedir copias certificadas y constancias de documentos que soliciten las diversas unidades administrativas del Sistema, existentes en sus respectivos archivos, así como las solicitadas por las diversas instancias administrativas, judiciales y legislativas que existan en los archivos del Sistema, actividad que deberá ser delegada por escrito por la persona titular del Sistema, en apego a lo establecido por el artículo 85, fracción V de la Ley Orgánica;
+
+XX. Fungir como Titular de la Unidad de Transparencia de conformidad con lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos, Ley de Protección de Datos personales en posesión de sujetos obligados y la Ley Estatal de Documentación y Archivos de Morelos y demás disposiciones normativas aplicables, asumiendo la Titularidad de la Unidad de Transparencia del Sistema;
+
+XXI. Revisar y en su caso elaboración en su contenido y forma, de los convenios, contratos, acuerdos y otros instrumentos que fijen derechos y obligaciones convencionales o patrimoniales para el Sistema, cuyos proyectos sean sometidos a su consideración por las personas titulares de las unidades administrativas que tengan atribuciones para convenir señaladas en el presente Estatuto;
+
+XXII. Delegar en el personal subalterno de las jerarquías inmediatas inferiores facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
+
+XXIII. Solicitar información a las personas Titulares de cualquier unidad administrativa del Sistema que se requiera para el cumplimiento de sus facultades, y
+
+XXIV. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+
 ### CAPÍTULO IX. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 39.
@@ -1189,3 +1267,13 @@ En representación de la Secretaria de Turismo y Cultura del Estado de Morelos
 Rúbricas.
 
 LA PRESENTE HOJA DE FIRMAS FORMA PARTE INTEGRAL DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTADO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. se derogan las disposiciones de igual o menor rango que se opongan al presente instrumento.
