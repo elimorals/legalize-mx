@@ -4,7 +4,7 @@ identifier: "TAB-estatuto-del-servicio-fiscalizador-de-carrera-del-organo-168739
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-12-06"
-last_updated: "2023-12-06"
+last_updated: "2025-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO, PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Suplemento B al Número 10478 del Periódico Oficial del Estado de Tabasco, el miércoles 6 de diciembre de 2023.
 
@@ -1084,3 +1086,23 @@ Sexto. En toda aquella normatividad interna o documentación en la que se mencio
 Séptimo. En aquellos casos no previstos expresamente en este Estatuto, será el Comité la instancia encargada de interpretar y resolver lo conducente.
 
 Villahermosa, Tabasco, a 14 de noviembre de 2023
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO".]
+
+Primero.- Se abroga el Estatuto del Servicio Fiscalizador de Carrera del Órgano, publicado en el Suplemento B al Periódico Oficial del Estado número 8478, de fecha 06 de diciembre de 2023.
+
+Segundo.- El presente Estatuto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero.- Para el caso de aquellos asuntos relacionados con la designación del personal calificado para los puestos de Jefe de Grupo de Auditoría y Auditor, que se encuentren aún en trámite, se resolverán de conformidad a lo dispuesto por el Estatuto del Servicio Fiscalizador de Carrera, abrogado. Mientras que para el caso de los puestos de jefe de departamento y subdirector se resolverán en términos de lo dispuesto en (sic) artículo 23 del presente estatuto.
+
+Cuarto.- El Órgano deberá integrar el Comité establecido en el presente Estatuto para su implementación y operación dentro de los 30 días hábiles siguientes a su entrada en vigor.
+
+Quinto.- La Dirección del Servicio Fiscalizador y Capacitación actualizará los Lineamientos para la Operación del Servicio Fiscalizador de Carrera en un periodo de 180 días naturales a partir de la publicación del presente estatuto.
+
+Sexto.- En toda aquella normatividad interna o documentación en la que se mencione la Unidad Técnica del Servicio Fiscalizador de Carrera, a partir de la entrada en vigor del presente documento, se entenderá por Dirección del Servicio Fiscalizador y Capacitación.
+
+Séptimo.- En aquellos casos no previstos expresamente en este Estatuto, será el Comité la instancia encargada de interpretar y resolver lo conducente.
