@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2025-02-04"
+last_updated: "2025-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -4137,7 +4137,9 @@ c) El Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, 
 
 7. Los listados aprobados en términos del numeral anterior serán remitidos al Poder Legislativo del Estado, en los términos del artículo 102 de la Constitución del Estado, a más tardar el 14 de marzo de 2025, y
 
-8. El Poder Legislativo del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado en los términos del artículo 102 de la Constitución del Estado y los remitirá al Instituto Electoral de Quintana Roo a más tardar el 20 de marzo de 2025 a efecto de que organice el proceso electivo.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2025)</small>
+
+8. El Poder Legislativo del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado en los términos del artículo 102 de la Constitución del Estado y los remitirá al Instituto Electoral de Quintana Roo a más tardar el 20 de marzo de 2025 a efecto de que organice el proceso electivo. En el caso de que los Poderes del Estado no hayan logrado integrar el total de las personas candidatas para las vacantes sujetas a elección para el proceso electoral extraordinario 2025, quedarán facultados el Pleno del Tribunal Superior de Justicia y el Órgano de Administración Judicial, para designar al personal en funciones para ocupar las vacantes mencionadas con antelación hasta el siguiente proceso electoral en el Estado de Quintana Roo.
 
 TERCERO. Para efectos de la organización del Proceso Electoral Extraordinario 2025, los órganos desconcentrados a instalar por el Instituto Estatal serán únicamente Consejos Municipales, a más tardar dentro de los sesenta días siguientes de la fecha de inicio del proceso electoral.
 
@@ -4178,3 +4180,11 @@ SEXTO. El reglamento de la Ley deberá ser expedido en un término no mayor a 60
 Hasta en tanto se realizan las armonizaciones normativas correspondientes, seguirán aplicables supletoriamente para la Universidad Judicial, en lo que no se opongan al presente decreto, las disposiciones normativas relacionadas con el funcionamiento de la Escuela Judicial.
 
 SÉPTIMO. Quedan derogadas todas las disposiciones legales y reglamentarias que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 107 POR EL QUE SE REFORMA EL NUMERAL OCHO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 093, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO, EXPEDIDO POR LA H. XVIII LEGISLATURA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
