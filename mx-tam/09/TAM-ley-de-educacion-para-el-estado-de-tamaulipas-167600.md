@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2024-10-15"
+last_updated: "2025-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -207,7 +207,9 @@ VI.- Propiciar actitudes solidarias en el ámbito internacional, en la independe
 
 VII.- Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y de Tamaulipas;
 
-VIII.- Inculcar el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2025)</small>
+
+VIII.- Inculcar el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, la resiliencia frente al cambio climático y el desarrollo sostenible como un componente clave de la educación de calidad, mediante políticas adecuadas, fortalecimiento de los educadores y la creación de entornos de aprendizaje continuo;
 
 IX.- Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Tamaulipas; y
 
@@ -1722,3 +1724,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Educación de Tamaulipas deberá implementar e instrumentar los mecanismos idóneos para que los docentes obtengan la capacitación necesaria para dar cumplimiento al presente Decreto y así estar en posibilidades de impartirlo a los educandos, lo que habrá de quedar establecido a más tardar en el ciclo lectivo del año 2026.
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-259 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII, DEL ARTÍCULO 13, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
