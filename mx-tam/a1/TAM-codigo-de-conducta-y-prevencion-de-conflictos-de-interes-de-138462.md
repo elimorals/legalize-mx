@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-08"
-last_updated: "2019-10-08"
+last_updated: "2025-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 13 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025 (DEROGADO).
 
 Código publicado en el Número 121 del Periódico Oficial del Estado de Tamaulipas, el martes 8 de octubre de 2019.
 
@@ -818,3 +820,29 @@ El presente Código de Conducta y Prevención de Conflicto (sic) de Interés de 
 Victoria, Tam., a 19 de Septiembre de 2019
 
 ATENTAMENTE.- EL RECTOR DE LA UNIVERIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS.- JESÚS ANTONIO LARA MATA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente actualización del Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Universidad de Seguridad y Justicia de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de la Universidad de Seguridad y Justicia de Tamaulipas, publicado el 8 de octubre de 2019, en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTÍCULO CUARTO.
+
+La normatividad que rige el Comité de Ética, Conducta y Prevención de Conflictos de Interés de la Universidad de Seguridad y Justicia de Tamaulipas, así como los mecanismos de evaluación seguirán vigentes.
+
+###### ARTÍCULO QUINTO.
+
+Los casos no previstos en el presente Código de Conducta y Prevención de Conflictos de Interés de la Universidad, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés de la Universidad de Seguridad y Justicia de Tamaulipas, a propuesta de la persona presidente.
