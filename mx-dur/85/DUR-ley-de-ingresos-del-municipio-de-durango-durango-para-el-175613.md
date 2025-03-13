@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-municipio-de-durango-durango-para-el-175613
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-29"
-last_updated: "2025-02-27"
+last_updated: "2025-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ LEY DE INGRESOS DEL MUNICIPIO DE DURANGO, DGO., PARA EL EJERCICIO FISCAL 2025
 
 Ley publicada en el Número 104 del Periódico Oficial del Estado de Durango, el domingo 29 de diciembre de 2024.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y SU FE DE ERRATAS SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### ARTÍCULO 97.
 
