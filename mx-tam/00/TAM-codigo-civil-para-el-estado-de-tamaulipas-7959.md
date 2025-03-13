@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2024-02-27"
+last_updated: "2025-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1365,9 +1365,19 @@ ART. 278.- La obligación de dar alimentos es recíproca. El que los da tiene a 
 
 ART. 279.- Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2025)</small>
 
-ART 280.- Los concubinos tienen derecho a alimentos cuando hayan vivido maritalmente durante dos años consecutivos, o menos, si hay descendencia, siempre y cuando ambos hayan permanecido libres de matrimonio.
+ART. 280.- Las personas concubinas tienen derecho a alimentos, cuando hayan vivido maritalmente dos años consecutivos, o menos, si hay descendencia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2025)</small>
+
+ART. 280 Bis.- Al cesar la convivencia, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato.
+
+No podrá reclamar alimentos quien haya demostrado ingratitud, conforme a lo dispuesto en el artículo 1694 de este Código.
+
+No constituye impedimento para reclamar alimentos el hecho que la concubina y/o el concubinario no haya estado libre de matrimonio y sin impedimento para contraerlo, así como cualquier estereotipo de género relacionado con el prejuicio del hogar extramarital. En cualquier caso, la Jueza o Juez de lo Familiar privilegiará la subsistencia y la integridad física del actor.
+
+Atendiendo a las circunstancias del caso, la Jueza o Juez de lo Familiar tendrá facultades para fijar el tiempo en que deban otorgarse, el monto y la garantía de los mismos, así como los alimentos provisionales y/o cualquier otra providencia precautoria que considere pertinente a fin de salvaguardar la dignidad e integridad física de quien los solicita, en términos de lo dispuesto en el Título Séptimo del Código de Procedimientos Civiles del Estado de Tamaulipas.
 
 ART. 281.- Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
@@ -5513,9 +5523,13 @@ ART. 1392.- Además de la indemnización por causa de incapacidad para el trabaj
 
 ART. 1393.- El daño moral a que tengan derecho la víctima o sus beneficiarios será regulado por el juez en forma discrecional y prudente, tomando en cuenta los componentes lesionados del patrimonio moral, según la enunciación contenida en el segundo párrafo del artículo 1164. Si la lesión recayó sobre la integridad de la persona y el daño origina una lesión en la víctima, que no la imposibilite total o parcialmente para el trabajo, el juez fijará el importe del daño moral, tomando en cuenta si la parte lesionada es o no visible, así como el sexo, edad y condiciones de la persona.
 
-La indemnización por daño moral es independiente de la económica, se decretará aun cuando ésta no exista, siempre que se cause aquel daño y en ningún caso podrá exceder del veinte por ciento de la indemnización señalada como pago del daño.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2025)</small>
 
-Cuando el daño moral haya afectado a la víctima en su decoro, prestigio, honor o buena reputación, puede el juez ordenar que la reparación de aquel daño se haga por publicación de la sentencia que condene a la reparación, en los medios informativos que él señale.
+La indemnización por daño moral es independiente de la económica, se decretará aun cuando ésta no exista, siempre que se cause aquel daño.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2025)</small>
+
+Cuando el daño moral haya afectado a la víctima en su decoro, prestigio, honor o buena reputación, puede la Jueza o el Juez ordenar que la reparación de aquel daño se haga por publicación de la sentencia que condene a la reparación, en los medios informativos que él señale.
 
 ART. 1394.- Las personas que han causado en común un daño, son solidariamente responsables.
 
@@ -10964,6 +10978,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-821 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 732; 733; 734; y 739, FRACCIONES VI Y VII; SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 739; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 730, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 162, PÁRRAFO ÚNICO; 163; Y 165, PÁRRAFO 1, DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-260 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 1393, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-261 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 280; Y SE ADICIONA EL ARTÍCULO 280 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
