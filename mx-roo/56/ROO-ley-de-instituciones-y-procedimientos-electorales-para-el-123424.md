@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2025-02-04"
+last_updated: "2025-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -2439,7 +2439,7 @@ VII. Establecer y aplicar los lineamientos para la integración, uso y resguardo
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. Acordar con la Presidencia del Consejo General los asuntos de su competencia, y
+VIII. Acordar con la Presidencia del Consejo General los asuntos de su competetencia, y
 
 IX. Las demás que le confiera esta Ley, el Consejo General y la Junta General.
 
@@ -4857,7 +4857,7 @@ e) Copia del anverso y reverso de la credencial para votar;
 
 f) Manifestación por escrito del partido político postulante en el que exprese que la persona candidata, cuyo registro solicita, fue electa o designada de conformidad con las normas estatutarias del propio partido político;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 g) Escrito bajo protesta de decir verdad de no encontrarse sancionada o sancionado administrativamente mediante sentencia firme o, en su caso, sentenciada o sentenciado penalmente mediante sentencia firme, por violencia política contra las mujeres en razón de género.
 
@@ -7961,7 +7961,9 @@ c) El Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, 
 
 7. Los listados aprobados en términos del numeral anterior serán remitidos al Poder Legislativo del Estado, en los términos del artículo 102 de la Constitución del Estado, a más tardar el 14 de marzo de 2025, y
 
-8. El Poder Legislativo del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado en los términos del artículo 102 de la Constitución del Estado y los remitirá al Instituto Electoral de Quintana Roo a más tardar el 20 de marzo de 2025 a efecto de que organice el proceso electivo.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2025)</small>
+
+8. El Poder Legislativo del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado en los términos del artículo 102 de la Constitución del Estado y los remitirá al Instituto Electoral de Quintana Roo a más tardar el 20 de marzo de 2025 a efecto de que organice el proceso electivo. En el caso de que los Poderes del Estado no hayan logrado integrar el total de las personas candidatas para las vacantes sujetas a elección para el proceso electoral extraordinario 2025, quedarán facultados el Pleno del Tribunal Superior de Justicia y el Órgano de Administración Judicial, para designar al personal en funciones para ocupar las vacantes mencionadas con antelación hasta el siguiente proceso electoral en el Estado de Quintana Roo.
 
 TERCERO. Para efectos de la organización del Proceso Electoral Extraordinario 2025, los órganos desconcentrados a instalar por el Instituto Estatal serán únicamente Consejos Municipales, a más tardar dentro de los sesenta días siguientes de la fecha de inicio del proceso electoral.
 
@@ -7974,3 +7976,11 @@ CUARTO. Las disposiciones aplicables del presente Decreto para el órgano de adm
 QUINTO. La persona titular de la Magistratura Unitaria para Adolescentes que se encuentre en funciones a la entrada en vigor del presente decreto continuará en el ejercicio de su cargo, en los mismos términos en que hubiese sido designada, conservando el derecho a haber de retiro, en caso de su ratificación en el cargo.
 
 SEXTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 107 POR EL QUE SE REFORMA EL NUMERAL OCHO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 093, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
