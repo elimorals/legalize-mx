@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2025-01-27"
+last_updated: "2025-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MARZO DE 2025 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MARZO DE 2025.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1941,13 +1941,9 @@ La infracción a lo previsto en el párrafo anterior será sancionado (sic) con 
 
 Las personas que hayan ocupado el cargo de magistrada o magistrado o jueza o juez, así como los miembros del Tribunal de Disciplina Judicial no podrán, dentro del periodo de un año, plazo en que disfrutarán de un haber por retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, a excepción de la defensa de causas propias, de su cónyuge, concubina o concubinario, ascendientes, descendientes y colaterales hasta el cuarto grado. De no cumplir con esta disposición, se suspenderá el haber de retiro o en su caso serán acreedores a la sanción que corresponda.
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
+(ADICIONADO, P.O. 27 DE ENERO DE 2025) (F. DE E., P.O. 13 DE MARZO DE 2025)
 
-La Ley Orgánica del Poder Judicial establecerá los términos en que habrá de gozarse de un haber por retiro.
-
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
-
-Durante dicho plazo, la persona que se haya desempeñado como Magistrado o Magistrada, Jueza o Juez y miembro del Tribunal de Disciplina Judicial, no podrán ocupar los cargos señalados en la fracción VI del artículo 83 de esta Constitución.
+La Ley Orgánica del Poder Judicial establecerá los términos en que habrá de gozarse de un haber por retiro. Durante dicho plazo, la persona que se haya desempeñado como Magistrado o Magistrada, Jueza o Juez y miembro del Tribunal de Disciplina Judicial, no podrán ocupar los cargos señalados en la fracción VI del artículo 83 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
