@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2024-08-21"
+last_updated: "2025-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -71,13 +71,21 @@ V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a
 
 VI.- Regular la aplicación de recursos destinados para el financiamiento de investigación y desarrollo tecnológico;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2025)</small>
 
-VII.- Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia y la tecnología e innovación, así como una participación equitativa de las mujeres y los hombres en todos los ámbitos de la investigación en que se desarrollen; y
+VII.- Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia y la tecnología e innovación, así como una participación equitativa de las mujeres y los hombres en todos los ámbitos de la investigación en que se desarrollen;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2025)</small>
 
-VIII.- Promover la participación de mujeres y niñas en materia de investigación científica y desarrollo tecnológico, estableciendo las acciones afirmativas necesarias para este fin.
+VIII.- Promover la participación de mujeres y niñas en materia de investigación científica y desarrollo tecnológico, estableciendo las acciones afirmativas necesarias para este fin;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2025)</small>
+
+IX.- Promover el desarrollo de actividades espaciales, la aplicación de los conocimientos científicos y desarrollos tecnológicos asociados a la investigación espacial; su influencia en la vida cotidiana y sus potencialidades como factor de desarrollo económico; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2025)</small>
+
+X.- Diseñar estrategias e instrumentos para el desarrollo del conocimiento, difusión y aplicación de las ciencias y tecnologías asociadas a la investigación espacial, así como para la formación de recursos humanos de alto nivel.
 
 ###### ARTICULO 3.
 
@@ -742,6 +750,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 21 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-890 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-262 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 2 DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
