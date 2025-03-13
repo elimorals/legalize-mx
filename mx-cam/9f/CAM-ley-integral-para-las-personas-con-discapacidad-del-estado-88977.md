@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2024-07-31"
+last_updated: "2025-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -637,23 +637,57 @@ III. La implementación de programas de capacitación y sensibilización dirigid
 
 IV. Las demás que dispongan otros ordenamientos.
 
-###### Artículo 23.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2025)</small>
 
-Corresponde al Instituto Estatal del Transporte promover el derecho de las personas con discapacidad, sin discriminación de ningún tipo, al acceso al transporte, para estos efectos, realizará las siguientes acciones:
+###### ARTÍCULO 23.
+
+Corresponde a la Agencia Reguladora del Transporte del Estado de Campeche promover el derecho de las personas con discapacidad, sin discriminación de ningún tipo, al acceso al transporte, para estos efectos, realizará las siguientes acciones:
 
 I. Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin de elaborar normas y programas que garanticen a las personas con discapacidad, la accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público, así como un trato digno;
 
-II. Promover que en la concesión del servicio de transporte público, las unidades e instalaciones garanticen a las personas con discapacidad la accesibilidad para el desplazamiento y los servicios, así como la inclusión de especificaciones técnicas y antropométricas, apoyos técnicos o humanos y personal capacitado;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2025)</small>
+
+II. Promover que en la concesión del servicio de transporte público, las unidades e instalaciones garanticen a las personas con discapacidad la accesibilidad para el desplazamiento, espera, ascenso y descenso y los servicios, así como la inclusión de especificaciones técnicas y antropométricas, apoyos técnicos o humanos y personal capacitado;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
 III. Promover en coordinación con la Secretaría de Protección y Seguridad Ciudadana programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público;
 
-IV. Verificar que los concesionarios del transporte público apliquen debidamente las tarifas preferenciales autorizadas a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2025)</small>
 
-V. Supervisar que los vehículos de servicio público dispongan de asientos especiales para personas con discapacidad; y
+IV. Verificar que los concesionarios del transporte público apliquen debidamente las tarifas preferenciales autorizadas a las personas con discapacidad. La Junta de Gobierno de la Agencia Reguladora del Transporte del Estado determinará que en las tarifas preferenciales se aplique hasta un 50% de descuento en el costo del pasaje de transporte público aplicable a las personas con discapacidad;
 
-VI. Las demás que dispongan otros ordenamientos.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE MARZO DE 2025)</small>
+
+V. Supervisar que los vehículos de servicio público dispongan de asientos especiales para personas con discapacidad; así como prever que en el transporte público de pasajeros en cada una de las unidades se reservarán cuando menos un asiento por cada diez de los que tenga el vehículo.
+
+Dichos asientos deberán cumplir las siguientes condiciones:
+
+a) Estarán situados lo más cerca posibles de la puerta de acceso del vehículo de que se trate;
+
+b) Se identificarán con el símbolo universal de la discapacidad;
+
+c) Contarán con las medidas de seguridad necesarias; y
+
+d) Podrán ser utilizados por cualquier usuario, siempre y cuando no sean requerido (sic) por alguna persona con discapacidad.
+
+Asimismo se deberá facilitar el acceso a las personas invidentes con sus perros guías y/o sus implementos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2025)</small>
+
+VI. Promover entre los concesionarios del transporte público el uso de unidades adaptadas para personas con discapacidad, en cada una de las rutas de transporte urbano y suburbano;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2025)</small>
+
+VII. Vigilar que los concesionarios realicen las adecuaciones a las unidades de manera progresiva, hasta lograr que el total de las unidades garanticen la accesibilidad, seguridad y comodidad de transporte a personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2025)</small>
+
+VIII. Realizar programas de difusión y capacitación a conductoras y conductores sensibilizándolos en la atención de personas con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2025)</small>
+
+IX. Las demás que dispongan otros ordenamientos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
@@ -1038,3 +1072,11 @@ P.O. 31 DE JULIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 65 POR EL QUE SE “SE REFORMAN EL PÁRRAFO PRIMERO, LAS FRACCIONES II, IV, V Y VI Y, SE ADICIONAN LAS FRACCIONES VII, VIII Y IX DEL ARTÍCULO 23 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
