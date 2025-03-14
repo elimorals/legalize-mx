@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2024-07-26"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -91,6 +91,10 @@ II. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas
 
 III. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones.
 
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+III BIS. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos.
+
 IV. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos.
 
 V. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado.
@@ -137,11 +141,11 @@ Son niñas y niños los menores de doce años, y adolescentes las personas de en
 
 Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### Artículo 6.
 
-Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de la Ley General, incluyendo el uso de las tecnologías de la información para lograr mayor alcance en la difusión de estos derechos.
+Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción de la crianza positiva y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de la Ley General, incluyendo el uso de las tecnologías de la información para lograr mayor alcance en la difusión de estos derechos.
 
 ###### Artículo 7.
 
@@ -291,9 +295,11 @@ Ante la negativa de la prueba de paternidad o maternidad, la autoridad competent
 
 ### Capítulo Quinto. Derecho a Vivir en Familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2025)</small>
+
 ###### Artículo 20.
 
-Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+Niñas, niños y adolescentes tienen derecho a vivir en familia y a recibir una crianza positiva. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
 
 Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
@@ -331,7 +337,9 @@ El Sistema deberá otorgar medidas especiales de protección de niñas, niños y
 
 Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el Sistema se asegurará de que niñas, niños y adolescentes:
 
-I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+I. Sean ubicados con su familia extensa o ampliada para su cuidado y crianza positiva, siempre que ello sea posible y no sea contrario a su interés superior;
 
 II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -503,17 +511,27 @@ Las autoridades estatales y sus Municipios, en el ámbito de sus respectivas com
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-Asimismo, tienen derecho a recibir de quienes ejerzan la patria potestad, tutela o custodia, un trato digno y humano para desarrollarse en un ambiente de afecto, seguridad moral y material que preparen a la niña, niño o adolescente para una vida independiente en sociedad.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
+
+Asimismo, tienen derecho a recibir de quienes ejerzan la patria potestad, tutela o custodia, un trato digno y humano y de crianza positiva para desarrollarse en un ambiente de afecto, seguridad moral y material que preparen a la niña, niño o adolescente para una vida independiente en sociedad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### Artículo 42.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo.
 
 Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### Artículo 43.
 
 La edad mínima para contraer matrimonio son los 18 años.
+
+Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas competencias deberán adoptar medidas integrales para la protección de niñas, niños y adolescentes contra las prácticas nocivas a título oneroso o gratuito con fines de unión formal e informal o consuetudinaria.
+
+Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños y adolescentes que formen parte de comunidades indígenas, afromexicanas, con discapacidad, en situación de migración o desplazamiento o en exclusión social.
 
 ### Capítulo Noveno. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -1097,7 +1115,9 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir, en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad a través de la crianza positiva;
 
 VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
@@ -1197,7 +1217,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
 
 VIII. Las personas responsables y el personal de los Centros de Asistencia Social se abstendrán de realizar actividades que afecten la integridad física, emocional y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos;
 
@@ -1335,9 +1357,17 @@ XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atenci
 
 XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
 
-XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la Ley General y esta Ley, y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la Ley General y esta Ley;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2025)</small>
+
+XXVI. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
 
 ###### Artículo 106.
 
@@ -1958,3 +1988,15 @@ P.O. 26 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 444 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 48 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja california.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 50 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 52 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 6, 20, 24, 41, 42, 92, 97 Y 105 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
