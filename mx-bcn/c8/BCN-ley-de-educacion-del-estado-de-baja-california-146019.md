@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2024-05-07"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -109,7 +109,9 @@ VI. Impulsar, en coordinación con las autoridades en la materia, programas de a
 
 VII. Apoyar conforme a las disposiciones que, para tal efecto emitan las autoridades educativas competentes, a estudiantes de educación media superior y de educación superior con alto rendimiento escolar para que puedan participar en programas de intercambio académico en el país o en el extranjero;
 
-VIII. Celebrar convenios para que las instituciones que presten servicios de estancias infantiles faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+VIII. Otorgarán facilidades de acceso, reingreso o permanencia a educandos adolescentes y jóvenes que se conviertan en madres o padres, con el propósito de que concluyan su educación, además de celebrar convenios para que las instituciones que presten servicios de estancias infantiles faciliten la incorporación de las hijas o hijos de estudiantes que lo requieran, con el objeto de que no interrumpan o abandonen sus estudios;
 
 IX. Dar a conocer y, en su caso, fomentar diversas opciones educativas, como la educación abierta y a distancia, mediante el aprovechamiento de las plataformas digitales, la televisión educativa y las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
@@ -1944,3 +1946,9 @@ P.O. 7 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 424 MEDIANTE EL CUAL SE APRUEBA LA ADICIONA DEL ARTÍCULO 11 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 51 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
