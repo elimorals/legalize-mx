@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2023-04-21"
+last_updated: "2025-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
@@ -91,11 +91,13 @@ IV. Realizar publicaciones producto del quehacer universitario; y
 
 V. Prestar servicios educativos que contribuyan a la formación integral de los miembros de la comunidad universitaria y de la sociedad.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
+
 Alineación a los Sistemas Educativos
 
 ###### Artículo 4.
 
-La UVEG ejercerá sus facultades y cumplirá su objeto y fines conforme a las políticas de desarrollo y funcionamiento de los Sistemas de Educación Media Superior y Superior del Estado de Guanajuato.
+La UVEG ejercerá sus facultades y cumplirá su objeto y fines conforme a las políticas de desarrollo y funcionamiento de los Sistemas de Educación Media Superior y Superior del Estado de Guanajuato, así como aquellas que resulten aplicables en el Sistema Educativo Nacional.
 
 Áreas del conocimiento de la UVEG
 
@@ -841,7 +843,9 @@ I. Elaborar las actividades referentes a la creación de los manuales de organiz
 
 II. Elaborar la propuesta del software de apoyo administrativo que utilizará la UVEG, en conjunto con el Director de Tecnologías de la Información y Comunicación;
 
-III. Elaborar los procedimientos y criterios de ingreso, permanencia, egreso y titulación de los alumnos en los programas educativos que ofrece la UVEG, de conformidad con la normatividad aprobada por el Consejo, en coordinación con el Secretario Académico, así como verificar su aplicación;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+III. Elaborar los procedimientos y criterios de ingreso, permanencia, egreso y titulación del alumnado en los programas educativos que ofrece la UVEG, de conformidad con la normatividad aprobada por el Consejo, así como las disposiciones que resulten aplicables, en coordinación con la Secretaría Académica. así como verificar su aplicación;
 
 IV. Diseñar el proceso de ingreso del personal administrativo de la UVEG y supervisar su correcta aplicación, de conformidad con la normatividad aplicable;
 
@@ -891,9 +895,17 @@ XXVI. Avalar la suficiencia presupuestal de los contratos que se establezcan par
 
 XXVII. Mantener actualizado el inventario de bienes muebles e inmuebles, patrimonio de la UVEG;
 
-XXVIII. Integrar, con el apoyo de las demás unidades administrativas de la UVEG, el Programa de Adquisición de Bienes y Contratación de Servicios, observando los lineamientos que regulan su ejecución, así como organizar y dirigir la contratación de dichos bienes y servicios, de conformidad con la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-XXIX. Presidir el Subcomité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de la UVEG, de conformidad con la normatividad vigente.
+XXVIII. Integrar, con el apoyo de las demás unidades administrativas de la UVEG, el Programa de Adquisición de Bienes y Contratación de Servicios, observando los lineamientos que regulan su ejecución, así como organizar y dirigir la contratación de dichos bienes y servicios, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+XXIX. Presidir el Subcomité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de la UVEG, de conformidad con la normatividad vigente; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2025)</small>
+
+XXX. Coordinar el trámite de registro ante cualquier autoridad educativa de títulos, certificados, diplomas, reconocimientos, constancias, distinciones especiales y demás documentos inherentes a sus funciones.
 
 Unidades administrativas adscritas a la Secretaría Administrativa
 
@@ -951,7 +963,9 @@ XVI. Suscribir los documentos escolares oficiales que otorgue la UVEG, que le se
 
 XVII. Diseñar, coordinar y operar el sistema de expedición de certificados, diplomas, títulos y constancias de estudios de los alumnos;
 
-XVIII. Realizar los trámites ante las autoridades competentes para la autenticación de certificados, títulos y grados de estudios;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+XVIII. Realizar los trámites ante cualquier autoridad educativa para la autenticación de certificados, títulos, grados de estudios y demás documentos inherentes a sus funciones;
 
 XIX. Gestionar ante las autoridades competentes la emisión de cédulas profesionales para los alumnos del tipo superior egresados de la UVEG;
 
@@ -1625,11 +1639,13 @@ II. El Director de Planeación y Evaluación, quien será el secretario técnico
 
 III. El Director de la División Académica a la que corresponda el programa educativo de que se trate;
 
-IV. Un representante del Gobierno del Estado que será nombrado por el titular de la dependencia estatal encargada del desarrollo económico del Estado;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-V. Un representante del Gobierno del Estado que será nombrado por el titular de la dependencia estatal encargada del desarrollo social y humano del Estado;
+IV. Un representante del Gobierno del Estado que será nombrado por la persona titular de la Secretaría de Economía;
 
-VI. Un representante del Gobierno del Estado que será nombrado por el titular del Instituto de Planeación en el Estado; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+V. Un representante del Gobierno del Estado que será nombrado por la persona titular de la Secretaría del Nuevo Comienzo;
 
 VII. Al menos un empresario invitado por el Rector, por programa educativo de que se trate.
 
@@ -1824,3 +1840,15 @@ P.O. 21 DE ABRIL DE 2023.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto Gubernativo iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 19, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 40, MEDIANTE EL QUE SE CREA LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO Y AL DECRETO GUBERNATIVO NÚMERO 193, MEDIANTE EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Continuidad de trámites iniciados
+
+Artículo Segundo. La Secretaría de Educación y la Universidad Virtual del Estado de Guanajuato implementarán mecanismos de coordinación para dar continuidad a las solicitudes de trámites iniciadas antes de la entrada en vigor del presente Decreto Gubernativo, con la finalidad de que dicha institución educativa culmine las gestiones correspondientes ante la autoridad educativa federal, de conformidad con lo establecido en este instrumento.
