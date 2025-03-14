@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2024-07-11"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MARZO DE 2025.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -483,7 +483,9 @@ El organismo garante tendrá un Consejo Consultivo, integrado por cinco Consejer
 
 Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales. Las leyes preverán las cuantías y supuestos en materia tributaria en las cuales tanto los Tribunales Administrativos como las Magistradas y Magistrados y Juezas y Jueces del Tribunal Superior de Justicia, deberán resolver en un máximo de seis meses, contados a partir del conocimiento del asunto por parte de la autoridad competente. En caso de cumplirse con el plazo señalado y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora o, en su caso, dar vista al órgano interno de control tratándose de Tribunales Administrativos.
 
 Queda estrictamente prohibida la creación de leyes o tribunales especiales para casos concretos. Las leyes del Estado establecerán los medios necesarios para que se garantice la independencia de los Tribunales y la plena ejecución de sus resoluciones.
 
@@ -588,6 +590,10 @@ VI. Le serán facilitados todos los datos que solicite para su defensa y que con
 El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
 
 VII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+En caso de cumplirse el plazo señalado en el párrafo que antecede y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora, en los términos que establezca la ley;
 
 VIII. Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y
 
@@ -1035,9 +1041,9 @@ III.- Estar en pleno goce de sus derechos y tener residencia efectiva no menor d
 
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 
-> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-II.- Los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Fiscal Especializado en materia de Combate a la Corrupción, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los miembros del Consejo de la Judicatura, los Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones.
+II.- Los Secretarios de Despacho del Poder Ejecutivo, la Procuradora o Procurador General de Justicia, la Fiscal o el Fiscal Especializado en materia de Combate a la Corrupción, las Magistradas o Magistrados del Tribunal Superior de Justicia, las Magistradas o Magistrados del Tribunal de Justicia Administrativa, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las Juezas y Jueces y cualquier otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones.
 
 III.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
@@ -1281,37 +1287,9 @@ XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de 
 
 XX.- Elegir la Diputación Permanente;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-XXI.- Resolver respecto a la elección y remoción de los Magistrados del Tribunal Superior de Justicia, así como resolver respecto a la reelección o no reelección de los mismos. Así como la remoción de los Consejeros de la Judicatura.
-
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
-
-Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
-
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
-
-Asimismo, otorgar o negar su aprobación a las licencias por más de un mes y conocer de las renuncias de los Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado.
-
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
-
-Así mismo deberá elegir al Representante del Congreso como miembro del Consejo de la Judicatura de la terna propuesta por la Junta de Gobierno y Coordinación Política, en base a una propuesta que presente cada una de las Fracciones Parlamentarias.
-
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
-
-Resultará electo de la terna quien en votación secreta, por cédula, reúna el voto de las dos terceras partes de los miembros del Congreso, debiendo tomar protesta ante el mismo Pleno del Congreso.
-
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
-
-De no reunirse la votación requerida se presentará una nueva terna dentro de un plazo máximo de diez días naturales requiriéndose la misma votación del párrafo anterior.
-
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
-
-En caso de que la segunda terna propuesta no alcance la votación requerida, se presentará una tercera terna durante los diez días siguientes, donde se elegirá el integrante representante del Congreso para el Consejo de la Judicatura por la mayoría de los integrantes presentes del Congreso.
-
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
-
-Una vez concluido el procedimiento se le tomará protesta y se enviará al Ejecutivo del Estado para su publicación en el Boletín Oficial del Gobierno del Estado.
+XXI.- Otorgar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial del Estado de conformidad con lo que dispone el artículo 94 Bis de esta Constitución y en los términos que establezcan las leyes;
 
 XXII.- Legislar en todo lo relativo a la administración pública;
 
@@ -1449,9 +1427,9 @@ XLIV.- Expedir las leyes que instituyan el Tribunal de Justicia Administrativa d
 
 El Tribunal de Justicia Administrativa estará compuesto por tres integrantes, Magistradas y Magistrados, debiendo observarse para su integración el principio de paridad de género. Podrá funcionar en pleno o en salas atendiendo primordialmente al principio de especialización para conocer y resolver los asuntos enlistados en el párrafo anterior.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-Las Magistradas y Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de ley, pudiendo ser reelectos por una única vez, por un periodo igual de seis años. Dicho procedimiento se estipulará en la Ley Orgánica respectiva.
+Las Magistradas y Magistrados que integren el Tribunal de Justicia Administrativa del Estado de Baja California Sur durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de ley, pudiendo ser reelectos por una única vez, por un periodo igual de seis años. El procedimiento para ser reelecto se estipulará en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur.
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -1467,7 +1445,9 @@ La designación de los Magistrados se hará por el voto de las dos terceras part
 
 En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
 
-Las propuestas presentadas deberán reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia; y sólo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de ésta Constitución.
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
+
+Las propuestas presentadas deberán reunir los requisitos que señale la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, y solo podrán ser removidos conforme lo dispuesto por el Título Noveno de esta Constitución y la Ley antes mencionada.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1717,21 +1697,31 @@ Para los efectos de la fracción I del presente artículo, no se computará como
 
 77.- El cargo de Gobernador del Estado solamente es renunciable por causa grave calificada por el Congreso del Estado, ante el que se presentará la renuncia.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MARZO DE 2025)</small>
 
-78.- El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del despacho.
+78.- La Gobernadora o Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del despacho.
+
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
 Asimismo, no podrá ser electo para el período inmediato el Gobernador sustituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aun cuando tengan distinta denominación.
 
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+
 Tampoco podrá ocupar el cargo para el período inmediato, el Gobernador interino, el provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en forma ininterrumpida los dos últimos años del período.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE JUNIO DE 2014)</small>
 
 Por ningún motivo podrán ser Gobernador:
 
-> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-I.- Los Secretarios de Despacho del Poder Ejecutivo, el Contralor General, el Procurador General de Justicia, el Fiscal Especializado en materia de Combate a la Corrupción, y en general, a los Titulares de las Dependencias de la Administración Pública Centralizada del Estado, los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura, los Jueces, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal Estatal de Justicia Administrativa del Estado de Baja California Sur, Diputados Locales, los Presidentes Municipales, funcionarios Estatales o Federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
+I.- Los Secretarios de Despacho del Poder Ejecutivo, el Contralor General, el Procurador General de Justicia, el Fiscal Especializado en materia de Combate a la Corrupción, y en general, a los Titulares de las Dependencias de la Administración Pública Centralizada del Estado, los Magistrados del Tribunal Superior de Justicia,Magistrados (sic) del Tribunal de Disciplina Judicial, miembros del Órgano de Administración Judicial, los Jueces, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal Estatal de Justicia Administrativa del Estado de Baja California Sur, Diputados Locales, los Presidentes Municipales, funcionarios Estatales o Federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
 II.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos noventa días anteriores al de la elección; y
+
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
 III.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 
@@ -1753,11 +1743,7 @@ III.- Nombrar y remover libremente a las Secretarias y los Secretarios del Despa
 
 En caso de que los nombramientos y remociones de los Titulares de las Secretarías del Despacho se realicen en contravención a lo establecido en el párrafo anterior, se considerarán nulos de pleno derecho.
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de las Magistradas y Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias, renuncias o remociones a la aprobación del propio Congreso.
-
-Los nombramientos realizados en términos del presente numeral deberán garantizar la observancia del principio de paridad de género en la conformación del Pleno del Tribunal Superior de Justicia del Estado;
+IV.- (DEROGADA, B.O. 14 DE MARZO DE 2025)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -1831,9 +1817,9 @@ XX.- Rendir al Congreso un informe anual del Estado que guarde la administració
 
 XXI.- Presentar al Congreso, al término de su período constitucional, una memoria sobre el estado que guarden los asuntos públicos;
 
-> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones y concurrir a la integración del Consejo de la Judicatura, nombrando a uno de sus miembros, el cual deberá reunir los requisitos conforme a las bases que señala esta Constitución y rendir protesta ante el Ejecutivo Estatal.
+XXII.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus funciones.
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -2085,19 +2071,77 @@ La elección del Presidente de la Comisión Estatal de los Derechos Humanos, as�
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MARZO DE 2025)</small>
 
-87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del fuero común, en los términos de esta Constitución.
+87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Juezas y Jueces del fuero común, en los términos de esta Constitución.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia estarán a cargo del Consejo de la Judicatura, en los términos que establezca la Ley Orgánica del Poder Judicial del Estado de Baja California Sur y conforme a las bases que señala esta Constitución.
+La administración del Poder Judicial del Estado estará a cargo de un Órgano de Administración Judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno y Salas Colegiadas, la competencia de los Juzgados de Primera Instancia y de las juezas y los jueces de los Tribunales Laborales. Las juezas y los jueces Menores; las juezas y los jueces de Paz; las y los Árbitros; y las y los demás funcionarios y auxiliares de la administración de Justicia, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+87 Bis.- El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones.
+
+El Tribunal de Disciplina Judicial se integrará por tres personas electas por la ciudadanía a nivel Estatal conforme al procedimiento establecido en el artículo 92 de esta Constitución.
+
+Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 91 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán nueve años en su encargo. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, con excepción de la primera presidencia que durara en su encargo tres años.
+
+El Tribunal de Disciplina Judicial funcionará en Pleno que será la autoridad substanciadora en los términos que establezca la ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
+
+El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en primera instancia, que fungirá como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas, en los términos que señale las leyes.
+
+El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una Unidad Responsable de integrar y presentar al Pleno los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+El Tribunal de Disciplina Judicial podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
+
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de Magistradas y Magistrados del Poder Judicial del Estado, que sólo podrán ser removidos en los términos del Título Noveno de esta Constitución y conforme lo disponga la Ley Organica del Poder Judicial del Estado de Baja California Sur.
+
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados del Tribunal Superior de Justicia y las Juezas y Jueces que resulten electas en la elección local que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+Las Magistradas y los Magistrados del Tribunal de Disciplina Judicial ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Noveno de esta Constitución.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+87 Ter. El Órgano de Administración Judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división en partidos judiciales, competencia territorial y especialización por materias de los Juzgados de Primera Instancia; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
+
+El Pleno del Órgano de Administración Judicial se integrará por tres personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular; uno por el Congreso del Estado mediante votación calificada de dos tercios de sus integrantes presentes; y uno por el Pleno del Tribunal Superior de Justicia del Estado, con mayoría de seis votos. La presidencia del órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes.
+
+Quienes integren el Pleno del Órgano de Administración Judicial deberán ser mexicanos, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial sólo podrán ser removidas en los términos del Título Noveno de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Órgano de Administración Judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela Estatal de Formación Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares, fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+El servicio de Defensoría Pública será proporcionado por el Órgano de Administración Judicial a través del Instituto Estatal de Defensoría Pública, en los términos que establezcan las disposiciones aplicables. La Escuela Estatal de Formación Judicial será la encargada de capacitar a las y los defensores públicos, así como de llevar a cabo los concursos de oposición.
+
+De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia.
+
+El Órgano de Administración Judicial elaborará el presupuesto del Poder Judicial del Estado. Los presupuestos serán remitidos por dicho órgano para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2013)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. 14 DE MARZO DE 2025, PÁGINAS DE LA 17 A LA 18.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], B.O. 14 DE MARZO DE 2025)</small>
 
 89.- El desempeño de la función jurisdiccional corresponde a:
 
@@ -2153,35 +2197,33 @@ XIII.- Las y los Jueces Especializados en Violencia contra las Mujeres; y
 
 XIV.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La ley establecerá las bases mediante las cuales el Órgano de Administración Judicial procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-Las Juezas y los Jueces del Poder Judicial serán designados mediante concurso, observando el principio de paridad de género, conforme a las bases que se establezcan en la convocatoria respectiva y con arreglo al procedimiento que disponga la normatividad que resulte aplicable. Asimismo, deberán contar con capacidad y experiencia en la materia que les corresponda. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+90.- El Tribunal Superior de Justicia del Estado se compondrá de siete Magistradas y Magistrados que duraran en su encargo 9 años sin derecho a ser reelectos, y funcionará en Pleno y Salas Colegiadas en los términos que disponga la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
 
-> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+En los términos que la ley disponga las sesiones del Pleno y Salas Colegiadas serán públicas.
 
-90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
+La Presidencia del Pleno se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva correspondiendo la presidencia a quienes alcancen mayor votación, con excepción de la primera presidencia que durará en su encargo tres años.
 
-Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
+Las Juezas y los Jueces durarán en su encargo nueve años y podrán ser reelectos, y si lo fueren, solo podrán ser privados de sus puestos en los términos que establece el Título Noveno de esta Constitución y la Ley de Responsabilidades Administrativas del Estado. No podrán ser readscritos fuera del partido judicial en el que hayan sido electos, salvo que por causa excepcional lo determine el Tribunal de Disciplina Judicial, y podrán ser removidos en los casos y conforme a los procedimientos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MARZO DE 2025)</small>
 
-91.- Para ser Magistrada o Magistrado, se requiere:
+91.- Para ser Magistrada o Magistrado del Tribunal Superior de Justicia, así como Jueza o Juez se requiere:
 
 > <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 I.- Ser ciudadana o ciudadano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de la designación.
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+II.- (DEROGADA, B.O. 14 DE MARZO DE 2025)
 
-II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
-
-III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
+III.- Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
 
 > <small>(REFORMADA, B.O. 20 DE FEBRERO DE 1988)</small>
 
@@ -2193,41 +2235,119 @@ V.- No haber sido Secretario de Despacho del Poder Ejecutivo, Contralor General,
 
 VI.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ÚLTIMA PÁRRAFO DEL ARTÍCULO], B.O. 14 DE MARZO DE 2025)</small>
 
-Las Magistradas y Magistrados del Tribunal Superior de Justicia serán elegidos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, observando el principio de paridad de género en la conformación del Pleno del Tribunal.
+VII.- En el Caso de las Magistradas y Magistrados, haber residido en el Estado de Baja California Sur, durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 92 de esta Constitución y tratándose de las Juezas y Jueces haber residido en el Estado de Baja California Sur, durante el año anterior al día de la publicación de la citada convocatoria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
 
-92.- Las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado serán electos por el Congreso del Estado, de la terna que el Titular de la Gubernatura del Estado someta a su consideración, el cual, previa comparecencia de las personas propuestas, designará a la Magistrada o Magistrado que deba cubrir la vacante. La terna deberá garantizar que se observe el principio de paridad de género en la conformación del Pleno del Tribunal.
+El ingreso, formación y permanencia del personal de la carrera judicial del Poder Judicial del Estado se sujetará a la regulación establecida en las disposiciones aplicables.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
 
-La designación de las Magistradas y Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrada o Magistrado la persona que, dentro de dicha terna, designe el Titular de la Gubernatura del Estado.
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo, magistrados, juezas y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE MARZO DE 2025)</small>
 
-En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
+Para ser Magistrada o Magistrado del Tribunal de Disciplina Judicial se requiere:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
 
-93.- Las Magistradas y Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años. Únicamente tendrán derecho a un haber de retiro durante los dos años posteriores a la conclusión del cargo, tanto a quienes hayan durado en su cargo doce años con motivo de una reelección, así como a los que hayan cumplido seis años en el cargo. Este derecho es intransferible.
+I.- Ser ciudadana o ciudadano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de la designación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
 
-En caso de resultar reelectos las Magistradas y Magistrados, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+II.- Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo 96 de esta Constitución título profesional de licenciado en derecho o carrera afín expedido legalmente y práctica profesional de cuando menos cinco años en el ejercicio de la actividad profesional.
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
 
-I.- Al cumplir doce años en el cargo de Magistrada o Magistrado;
+III.- No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
+
+IV.- No haber sido Secretaria o Secretario de Despacho del Poder Ejecutivo, Contralora o Contralor General, Procuradora o Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, Diputada o Diputado Local o Presidenta o Presidente Municipal, Gobernadora o Gobernador, durante el año previo al día de la designación.
+
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
+
+V.- Haber residido en el Estado de Baja California Sur, durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 92 de esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MARZO DE 2025)</small>
+
+92.- La elección de las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, así como las Juezas y los Jueces, se regirá por las siguientes bases:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE MARZO DE 2025)</small>
+
+Las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado, Magistradas y Magistrados del Tribunal de Disciplina Judicial, y Juezas y Jueces, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda conforme al siguiente procedimiento:
+
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
+
+I. El Congreso del Estado de Baja California Sur publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del Primer Periodo Ordinario de Sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia, el Partido Judicial respectivo y demás información que requiera;
+
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
+
+II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme al párrafo segundo de la fracción IV del presente artículo. Para la evaluación y selección de sus postulaciones, observará lo siguiente:
+
+a) Los Poderes del Estado establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, las personas interesadas presentaran un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
+
+b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+
+c) Los Comités de Evaluación integrarán un listado de hasta seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal Superior de Justicia del Estado, Magistradas y Magistrados del Tribunal de Disciplina Judicial, y de hasta seis personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces.
+
+Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
+
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
+
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Estatal Electoral a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
+
+> <small>(ADICIONADA, B.O. 14 DE MARZO DE 2025)</small>
+
+IV. El Instituto Estatal Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Estatal Electoral, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
+
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
+
+Para el caso de, Magistradas y Magistrados del Tribunal Superior de Justicia e integrantes del Tribunal de Disciplina Judicial, la elección se realizará a nivel Estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. El Titular del Poder Ejecutivo postulará hasta dos personas aspirantes; el Poder Legislativo postulará hasta dos personas mediante votación por mayoría calificada y el Poder Judicial del Estado, por conducto del Pleno, postulará hasta dos personas por mayoría de seis votos.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+Para el caso de Juezas y Jueces de Primera Instancia, la elección se realizará por Partido judicial conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes, para tales efectos, cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación de dos terceras partes de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia por mayoría de seis votos.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+El Congreso del Estado incorporará a los listados que remita al Instituto Estatal Electoral a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o Partido judicial diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General del Instituto Estatal Electoral celebre en el mes de diciembre del año anterior a la elección.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral. Podrán, además, participar en foros de debate organizados por el Instituto Estatal Electoral o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
+
+La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 3140 PUBLICADO EN EL B.O. 14 DE MARZO DE 2025, PÁGINAS DE LA 15 A LA 16.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MARZO DE 2025)</small>
+
+93.- Podrán las Magistradas y Magistrados ser privados de sus cargos en los siguientes casos:
+
+I.- (DEROGADA, B.O. 14 DE MARZO DE 2025)
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
 II. Por incapacidad física o mental que impida el buen desempeño de sus funciones;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-III. Si no conserva los requisitos establecidos para su nombramiento, previstos en nuestra constitución;
+III.- Cuando no conserven los requisitos establecidos para su nombramiento, previstos en el artículo 91 de esta constitución;
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2245,9 +2365,9 @@ VI. Sean condenados por sentencia ejecutoriada en juicio de responsabilidad admi
 
 VII. Sean jubilados en los términos legales o renuncien a su puesto;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-VIII. Desempeñen otro empleo o encargo de la Federación, del Estado, de algún Municipio o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia;
+VIII. Cuando desempeñen otro empleo o encargo de la Federación, del Estado, de algún municipio o particulares, salvo los cargos honoríficos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia;
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2257,75 +2377,45 @@ IX. En los demás casos que establezca esta constitución y la Ley de Responsabi
 
 X. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará a la Magistrada o Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de Magistrada o Magistrado respetando en todo caso la garantía de audiencia.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las Juezas y Jueces de Primera Instancia del Tribunal Superior de Justicia, y los Jueces Laborales, no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-Los Magistrados, Jueces de Primera Instancia del Tribunal Superior de Justicia, Jueces Laborales, los integrantes del Consejo de la Judicatura del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Fiscal Especializado en Materia de Combate a la Corrupción, Secretario General o Tesorero del Ayuntamiento durante los dos años siguientes al término de su encargo.
+Para el trámite de las renuncias, licencias y remociones de los Magistrados, se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+93 Bis.- (DEROGADO, B.O. 14 DE MARZO DE 2025)
 
-93 BIS.- Para la reelección de las Magistradas y Magistrados, estos deberán demostrar poseer los atributos que se les reconocieron al habérseles designado, y que su trabajo cotidiano lo desempeñaron de manera pronta, completa e imparcial, como expresión de honorabilidad, diligencia, excelencia profesional y honestidad invulnerable, remitiendo al Congreso del Estado los escritos y documentos conducentes a tal efecto.
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+94.- Las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y las Juezas y Jueces protestarán ante el Congreso del Estado, los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
 
-Para la reelección o no de las Magistradas y Magistrados, se seguirá el siguiente procedimiento:
+La remuneración que perciban por sus servicios las Magistradas y los Magistrados del Tribunal Superior de Justicia, las Juezas y los Jueces, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial y demás personal del Poder Judicial del Estado, no podrá ser mayor a la establecida para la persona titular del Poder Ejecutivo del Estado de Baja California Sur en el presupuesto correspondiente y no será disminuida durante su encargo. Para el cálculo de esta remuneración se tomará como base el salario diario integrado, en el que se considerará para determinarlo todo tipo de percepciones incluyendo, estímulos, bonos y cualquier gratificación que perciban durante el ejercicio fiscal correspondiente. El Tribunal de Disciplina Judicial vigilará que el Órgano de Administración Judicial cumpla con esta disposición al elaborar el presupuesto y durante su ejecución una vez aprobado, las remuneraciones que sean superiores al límite antes establecido y en contravención a la presente disposición, será causa de responsabilidad en los términos de la Ley de Responsabilidades Administrativas. Lo anterior sin perjuicio de las atribuciones de verificación del correcto ejercicio del gasto público que lleve a cabo la Auditoria Superior del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2025)</small>
 
-I.- Con una anticipación no menor a sesenta días naturales ni mayor a noventa días naturales, de que concluya el período para el que fue nombrado, la Magistrada o Magistrado de que se trate, en uso de su garantía de audiencia presentará por escrito y por duplicado ante el Congreso del Estado, a través de la Presidenta o Presidente de la Mesa Directiva o de la Diputación Permanente, su intención de reelegirse o no. En caso de que la Magistrada o Magistrado de que se trate se abstenga de presentar el escrito mencionado dentro del plazo señalado perderá su derecho a ser reelecto para un nuevo periodo de seis años.
+94 Bis.- Cuando la falta de una Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial y Jueza o Juez excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo y si no hubiere será sustituida por la persona titular de mayor antigüedad de la secretaria de acuerdos del juzgado que corresponda.
 
-> <small>(REFORMADO, B.O. 22 DE JUNIO DE 2017)</small>
+Las renuncias de las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, Magistradas y Magistrados del Tribunal de Disciplina Judicial, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado.
 
-Con el duplicado del escrito a que se refiere el párrafo anterior, se dará vista a la Comisión dictaminadora correspondiente;
+Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia del Estado para el caso de Magistradas y Magistrados, por el Pleno del Tribunal de Disciplina Judicial y para el caso de sus integrantes por el órgano de administración judicial para el caso de Juezas y Jueces. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de un año.
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-II.- La Comisión Legislativa dictaminadora deberá solicitar al Pleno del Tribunal Superior de Justicia o al Pleno del Consejo de la Judicatura según corresponda, toda aquella información y documentación que resulte útil y necesaria para conocer el desempeño en el ejercicio del cargo de la Magistrada o el Magistrado sujeto a evaluación, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado, quedando estos obligados a proporcionarla en breve término. La Infracción a estas disposiciones por parte del Pleno del Tribunal o del Pleno del Consejo de la Judicatura, será causa de juicio político.
+95.- El Tribunal Superior de Justicia funcionara en los términos de esta Constitución y en los que determine la Ley Orgánica del Poder Judicial del Estado.
 
-De igual forma, deberá solicitar a la Magistrada o el Magistrado sujeto a evaluación la información y documentación que considere pertinente, pudiendo además, solicitar a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo de la Magistrada o Magistrado, y estas quedan obligadas a proporcionar en breve término.
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este artículo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si la Magistrada o el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 93 de esta Constitución, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
-
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2010)</small>
-
-IV.- El Congreso del Estado con base en lo anterior, resolverá en definitiva sobre su reelección o no reelección al menos quince días antes de que concluya el periodo para el que fue electo dicho funcionario judicial, con una votación de mayoría absoluta.
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-Si el Congreso resuelve la no reelección, se procederá a realizar un nuevo nombramiento en los términos que establece esta Constitución y la Magistrada o el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado; y
-
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2010)</small>
-
-V.- La resolución del Congreso se hará del conocimiento del funcionario, mediante notificación personal, y de la sociedad en general, mediante su publicación en el Boletín oficial del Gobierno del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-94.- Las Magistradas y Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
-
-> <small>(REFORMADO, B.O. 31 DE JULIO DE 2016)</small>
-
-Los Jueces protestarán ante el Consejo de la Judicatura; los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-Las Magistradas y Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
-
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
-
-95.- El Tribunal Superior de Justicia funcionará en los términos que determine la Ley Orgánica del Poder Judicial. Quien presida el Tribunal Superior lo hará por un periodo de tres años. Su elección será alternada entre géneros, y se llevará a cabo en sesión plenaria que deberá celebrarse el último día hábil del periodo que corresponda en el cargo a la o el Presidente en turno. Quien ocupe la presidencia no podrá ser objeto de reelección.
-
-96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
+96.- El Estado se dividirá en partidos judiciales, el Órgano de Administración Judicial determinará el número, división en Partidos Judiciales y competencia territorial de los Juzgados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
 
-I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 14 DE MARZO DE 2025)</small>
+
+I.- Expedir acuerdos generales, a fin de lograr una adecuada distribución de los asuntos que competa conocer al Tribunal Superior de Justicia del Estado.
 
 II.- Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes;
 
@@ -2337,9 +2427,9 @@ IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
 
 V.- Discutir, modificar y aprobar en su caso y ejercer de manera autónoma el presupuesto de egresos del Tribunal, que para el ejercicio anual proponga su Presidente, el que se integrará al presupuesto del Poder Judicial para que a través del Ejecutivo se someta a la aprobación del Congreso del Estado.
 
-> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-VI.- Solicitar al Consejo de la Judicatura, el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario.
+VI.- Solicitar al Órgano de Administración Judicial, el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario.
 
 VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consignación que corresponda al Ministerio Público en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes;
 
@@ -2347,119 +2437,45 @@ VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consigna
 
 VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, reconocimiento de inocencia, anulación de sentencia, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellos establezcan.
 
-> <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-IX.- Conocer de las resoluciones del Consejo de la Judicatura respecto de la sustanciación correspondiente, por las faltas administrativas de los integrantes del Poder Judicial del Estado, de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
+IX.- Conocer de las resoluciones del Tribunal de Disciplina Judicial respecto de la sustanciación correspondiente, por las faltas administrativas de los integrantes del Poder Judicial del Estado, de acuerdo con el procedimiento que señale esta Constitución y la Ley respectiva.
 
 > <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 X.- Conocer de la recusación conjunta de las Magistradas y Magistrados.
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-XI.- Conceder licencia a las Magistradas y Magistrados cuando no sean mayores de un mes en los términos que establezca la Ley.
+XI.- (DEROGADA, B.O. 14 DE MARZO DE 2025)
 
 > <small>(ADICIONADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
 XII.- Emitir la opinión que solicite el Congreso del Estado sobre las iniciativas de Leyes o Decretos relacionados con la administración de Justicia;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 14 DE MARZO DE 2025)</small>
 
-XIII.- Recibir anualmente en sesión solemne, conjuntamente con el Pleno del Consejo de la Judicatura el informe que rendirá el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
+XIII.- Recibir anualmente en sesión solemne, conjuntamente con el Pleno del Tribunal de Disciplina Judicial el informe que rendirá la persona titular de la Presidencia del Tribunal Superior de Justicia y del Pleno del Tribunal de Disciplina Judicial sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
 
-> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-XIV.- Designar, en votación secreta por la mayoría de sus integrantes a la Magistrada o Magistrado y Juez de Primera Instancia que, conforme al numeral 100 de ésta Constitución, será miembro del Consejo de la Judicatura; y
+XIV.- (DEROGADA, B.O. 14 DE MARZO DE 2025)
 
 > <small>(ADICIONADA, B.O. 31 DE JULIO DE 2016)</small>
 
 XV.- Las demás que le confiera esta Constitución y las Leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
-98.- La Ley Orgánica del Poder Judicial del Estado de Baja California Sur, regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia, del Consejo de la Judicatura y de los Juzgados dependientes de éste y determinará los requisitos para ser Juez.
+98.- Las Magistradas y los Magistrados del Tribunal Superior de Justicia, las y los Jueces, las y los Secretarios de Acuerdos, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial y las y los integrantes del Órgano de Administración Judicial, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
-> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+Las personas que hayan ocupado el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia del Estado, Magistrada o Magistrado del Tribunal de Disciplina Judicial, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado. Para el caso de Juezas y Jueces, este impedimento aplicará respecto del partido judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley.
 
-El Tribunal Superior de Justicia determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
-
-> <small>(ADICIONADO [N. DE E. ANTES CONTENIDO DEL ARTÍCULO 100], B.O. 31 DE JULIO DE 2016)</small>
-
-Ningún funcionario Judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+Durante dicho plazo, las personas que se hayan desempeñado como Magistradas o Magistrados del Tribunal Superior de Justicia del Estado, Magistradas o Magistrados del Tribunal de Disciplina Judicial, y Juezas o Jueces, no podrán ocupar los cargos señalados en la fracción V del artículo 91 de esta Constitución.
 
 99.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
 99 BIS.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+100.- (DEROGADO, B.O. 14 DE MARZO DE 2025)
 
-100.- El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia técnica y de gestión, así como para emitir sus resoluciones. En su integración se observará la paridad de género entre hombres y mujeres.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-El Consejo de la Judicatura se integra por los siguientes miembros:
-
-I.- El Magistrado Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo;
-
-II.- Un Magistrado, designado por el Pleno del Tribunal Superior de Justicia, para ejercer la Comisión;
-
-III.- Un Juez de Primera Instancia, designado por el Pleno del Tribunal Superior de Justicia, para ejercer la comisión;
-
-IV.- Un Representante Ciudadano electo por el Congreso del Estado, conforme lo establece la presente Constitución, y
-
-V.- Un Representante designado por el Gobernador del Estado, conforme lo establece esta Constitución.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-Los Consejeros rendirán la protesta de ley ante quien los designó, durarán cuatro años en el cargo, serán sustituidos conforme a la Ley y no podrán ser nombrados para un nuevo periodo.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-De igual forma, deberán reunir los requisitos señalados en las fracciones I, II, III, y IV del numeral 91 de esta Constitución, ser personas que se hayan distinguido por su capacidad profesional y administrativa, así como por su honestidad y honorabilidad en el ejercicio de sus actividades.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Los Magistrados y Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quienes les sustituyan, para concluir el plazo por el que fueron electos. Los Magistrados y Jueces que sean designados en sustitución, podrán ser designados consejeros en un periodo que no sea continuo a aquel en que hayan cubierto la sustitución.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-Los Consejeros en ejercicio de su función, deberán proceder con independencia e imparcialidad. Durante su encargo, los Consejeros solo podrán ser removidos en los términos del Título Noveno de esta Constitución.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-El Consejo de la Judicatura funcionará en Pleno o en comisiones y estará facultado en términos de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, para expedir acuerdos generales para el adecuado ejercicio de sus atribuciones y contará con una Secretaría ejecutiva, cuyo Titular será designado por el Pleno del Consejo a propuesta del Presidente; cargo que recaerá en la Secretaria del Pleno del Tribunal y ejercerá las atribuciones que le confiere la ley en mención.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-El Pleno del Tribunal podrá solicitar al Consejo de la Judicatura la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en la Entidad.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-La ley establecerá los términos y procedimientos para el ejercicio de las atribuciones del Consejo de la Judicatura respecto de los procedimientos por faltas administrativos (sic) de los miembros y funcionarios Judiciales del Poder Judicial del Estado.
-
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
-
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación o no ratificación y remoción de Juezas y Jueces, las cuales podrán ser revisadas por el Tribunal Superior de Justicia únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-El Consejo de la Judicatura deberá dar cuenta al Tribunal Superior en los casos que se trate de la remoción de Magistrados con el fin de que se proceda conforme lo dispuesto por el numeral 64 fracción XXI de ésta Constitución.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial. Una vez integrados en un solo documento, este será remitido conforme a la ley para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
-
-La administración del Tribunal Superior de Justicia corresponderá a su Presidente.
-
-> <small>(REFORMADO, B.O. 31 DE JULIO DE 2016)</small>
-
-101.- El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia o de los Consejeros de la Judicatura, por delitos, faltas oficiales y omisiones en los que incurran, previstos en esta Constitución y en las Leyes de la Materia.
-
-Si el Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, declara justificada la petición, el Magistrado o Consejero de la Judicatura acusado quedará privado, desde luego, de su cargo, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a la nueva designación para cubrir la vacante.
-
-El Gobernador, antes de pedir al Congreso del Estado la destitución de algún Magistrado o Consejero de la Judicatura, oirá a éste en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
+101.- (DEROGADO, B.O. 14 DE MARZO DE 2025)
 
 ## TITULO SEPTIMO. DEL PATRIMONIO Y LA HACIENDA PUBLICA DEL ESTADO
 
@@ -3175,9 +3191,9 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en la presente Constitución y las demás leyes de la materia, sin perjuicio de las atribuciones de la Auditoría Superior del Estado sobre el manejo, la custodia y aplicación de recursos públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MARZO DE 2025)</small>
 
-158.- Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de Justicia Administrativa, los integrantes del Consejo de la Judicatura, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador General de Justicia, los subprocuradores, los Fiscales Especializados y/o Regionales de la Procuraduría General de Justicia, el Contralor General, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+158.- Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, las Magistradas y Magistrados del Tribunal Superior de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de Justicia Administrativa, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador General de Justicia, los subprocuradores, los Fiscales Especializados y/o Regionales de la Procuraduría General de Justicia, el Contralor General, del Auditor Superior del Estado, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -3297,7 +3313,9 @@ d) El titular de la Contraloría General;
 
 e) El Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
 
-f) Un representante del Consejo de la Judicatura del Poder Judicial del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
+
+f) Un representante del Tribunal de Disciplina Judicial.
 
 g) El Presidente del Tribunal de Justicia Administrativa del Estado de Baja California Sur.
 
@@ -4888,3 +4906,107 @@ El Pleno del Consejo de la Judicatura, creará mediante Acuerdo General los Juzg
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3140. SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA A LA REFORMA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN CON FECHA 15 DE SEPTIEMBRE DE 2024".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- El Proceso Electoral ordinario 2026-2027, dará inicio en el mes de diciembre del 2026. En dicha elección se elegirán la totalidad de los cargos de Magistradas y Magistrados del Tribunal Superior de Justicia del Estado, los integrantes del Tribunal de Disciplina Judicial, así como los cargos de Juezas y Jueces, en los términos del presente artículo.
+
+Las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria que emita el Congreso del Estado serán incorporadas a los listados para participar en la elección ordinaria del año 2027, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo o partido judicial diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha que tomen protesta las personas servidoras públicas que emanen de la elección ordinaria conforme a las disposiciones transitorias aplicables del presente Decreto.
+
+El Congreso del Estado tendrá de plazo hasta el mes de agosto del año 2026, posteriores a la entrada en vigor del presente Decreto para emitir la convocatoria para integrar los listados de las personas candidatas que participen en la elección ordinaria para renovar la totalidad de los cargos del Poder Judicial del Estado de Baja California Sur, conforme al procedimiento previsto en el artículo 92 de este Decreto, salvo en lo que respecta a las postulaciones que realice el Pleno del Tribunal Superior de Justicia del Estado conforme a los párrafos segundo y tercero de dicho artículo, que deberá hacerse por mayoría de 6 votos de sus integrantes.
+
+El Consejo General del Instituto Estatal Electoral podrá emitir los acuerdos que estime necesarios para la organización, desarrollo, cómputo, vigilancia y fiscalización del proceso electoral ordinario del año 2027 y para garantizar el cumplimiento de las disposiciones constitucionales y legales aplicables para los procesos electorales locales, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo General no podrán participar en las acciones, actividades y sesiones relacionadas a este proceso.
+
+Las boletas electorales contendrán, entre otros datos, el cargo, el partido judicial que corresponda a cada tipo de elección. Llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda. El listado de personas candidatas distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección. La boleta garantizará que las y los votantes asienten la candidatura de su elección conforme a lo siguiente:
+
+a) Para Magistradas y Magistrados del Tribunal Superior de Justicia del Estado podrán elegir hasta cuatro mujeres y hasta tres hombres;
+
+b) Para Magistradas y Magistrados del Tribunal de Disciplina Judicial podrán elegir hasta dos mujeres y hasta un hombre;
+
+c) Para Juezas y Jueces se podrán elegir hasta la totalidad de plazas disponibles atendiendo la paridad de género.
+
+La etapa de preparación de la elección ordinaria del año 2027, iniciará con la primera sesión que celebre el Consejo General del Instituto Estatal Electoral.
+
+La jornada electoral se celebrará el primer domingo de junio del año 2027. Podrán participar como observadoras las personas o agrupaciones acreditadas por el Instituto, con excepción de representantes o militantes de un partido político.
+
+El Instituto Estatal Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer (sic). También declarará la validez de la elección que corresponda y enviará sus resultados al Tribunal Estatal Electoral, quienes resolverán las impugnaciones a más tardar hasta antes de la toma de protesta que se realice en el año 2027.
+
+Las personas que resulten electas tomarán protesta de su encargo ante el Congreso del Estado en el mes de septiembre de 2027. El Órgano de Administración Judicial adscribirá a las personas electas al órgano judicial que corresponda a más tardar el 30 de septiembre de 2027.
+
+Tercero.- El periodo de las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado que resulten electos en la elección ordinaria que se celebre conforme a lo previsto en el artículo Segundo transitorio será de nueve años, por lo que vencerá en el año 2036.
+
+El funcionamiento en Pleno y Salas Colegiadas que prevé el presente Decreto iniciará dentro de los 30 días siguientes a que tomen la protesta de ley correspondiente (sic) las personas Magistradas electas, la Ley Orgánica del Poder Judicial del Estado establecerá las disposiciones normativas conducentes para la implementación de esta disposición transitoria.
+
+En el caso de que se presente una vacante de magistratura en virtud de la conclusión del periodo constitucional de la magistrada o magistrado, antes de la emisión de la convocatoria a que hace referencia el presente decreto, se procederá de conformidad al procedimiento de elección de magistradas y magistrados vigente hasta antes de la entrada en vigor del presente decreto, en los artículos 64, fracción XXI, 79, fracción IV, 90, 91y 92 de esta constitución.
+
+La magistrada o magistrado que resulte electo tendrá derecho a participar en el proceso de elección en los términos del presente decreto.
+
+Cuarto.- El Consejo de la Judicatura continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta en tanto entren en funciones el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial conforme a los dispuesto en el presente decreto.
+
+El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura en funciones a la entrada en vigor del presente Decreto que concluyan antes de la fecha de la elección ordinaria del año 2027, se prorrogarán hasta la fecha que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección ordinaria que se celebre para tal efecto, salvo cuando sean electas por la ciudadanía para integrar el Tribunal de Disciplina Judicial por el periodo que corresponda, conforme al procedimiento señalado en el artículo Segundo transitorio del presente Decreto.
+
+El período de las Magistradas y Magistrados del Tribunal de Disciplina Judicial que sean electos conforme al presente artículo transitorio vencerá el año 2036.
+
+Las Consejeras y Consejeros de la Judicatura que se encuentren en funciones a la entrada en vigor del presente Decreto podrán postularse y participar en la elección ordinaria del año 2027, para integrar el Tribunal de Disciplina Judicial u otro cargo de elección popular del Poder Judicial del Estado por el periodo que corresponda cuando cumplan con los requisitos constitucionales y legales aplicables.
+
+Quinto.- El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección ordinaria que se celebre en el año 2027. En esta misma fecha, el Consejo de la Judicatura quedará extinto.
+
+Durante el periodo de transición referido en el párrafo anterior, el Consejo de la Judicatura implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial del Estado; y al Órgano de Administración Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+El Consejo de la Judicatura aprobará los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Consejo de la Judicatura continuará la substanciación de los procedimientos que se encuentren pendientes de resolución y entregará la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda.
+
+Las personas que integren el Pleno del Órgano de Administración Judicial a que se refiere el artículo 87 Bis del presente Decreto deberán ser designadas para iniciar sus funciones a más tardar el día último de septiembre del año 2027. Para la designación de las tres personas integrantes del Órgano de Administración Judicial que correspondan al Pleno del Tribunal Superior de Justicia del Estado, se requerirá del voto de seis de sus integrantes.
+
+Sexto.- Las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado que estén en funciones al momento de la entrada en vigor del presente Decreto no podrán ser mayores a la establecida para el Gobernador el Estado en términos del artículo 11 de la Ley de Remuneraciones de los Servidores Públicos del Estado y los Municipios de Baja California Sur y en el presupuesto correspondiente, por lo que deberán ajustarse a los parámetros establecidos en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos en los casos que corresponda, sin responsabilidad para el Poder Judicial.
+
+Las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado que concluyan su encargo por no postularse o no haber sido electos en la elección ordinaria del año 2027, no serán beneficiarias de un haber por retiro, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria señalada en la fracción I del artículo 92 de este Decreto, misma que tendrá efectos al 31 de agosto de 2027; en estos casos, el haber de retiro será en los términos que establece la Ley Orgánica del Poder Judicial vigente.
+
+Lo anterior no será aplicable a las y los Magistrados en funciones a la entrada en vigor de este Decreto cuyo nombramiento original concluya antes de la fecha de cierre de la convocatoria respectiva, en cuyo caso se ajustarán a los términos de este Decreto.
+
+Séptimo.- Una vez que entre en vigor el presente Decreto, el Congreso del Estado de Baja California Sur, a más tardar, el 01 de enero del año 2026, deberá llevar a cabo el proceso de armonización de la legislación relacionada con el mismo y en particular deberá adecuar, adicionar o derogar atendiendo a lo establecido en el presente Decreto, las disposiciones relativas a los siguientes ordenamientos:
+
+a).- Ley Orgánica del Poder Judicial del Estado de Baja California Sur;
+
+b).- Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur;
+
+c).- Ley del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Baja California Sur;
+
+d).- Ley Orgánica de la Administración Pública del Estado de Baja California Sur;
+
+e).- Ley Orgánica de la Defensoría Pública del Estado de Baja California Sur;
+
+f).- Ley Orgánica del Poder Legislativo del Estado de Baja California Sur; y
+
+g).- La Ley de Responsabilidades Administrativas para el Estado y Municipios de Baja California Sur.
+
+La renovación de la totalidad de cargos de elección del Poder Judicial del Estado deberá concluir en la elección concurrente ordinaria del año 2027, en los términos y modalidades que estos determinen.
+
+Octavo.- Los procedimientos que al momento de la entrada en vigor del presente Decreto excedan de los plazos previstos en la fracción VII del apartado B del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y del articulo 19 apartado A fracción VII segundo párrafo de esta constitución, deberán observar el procedimiento establecido en éstos.
+
+Noveno.- Los derechos laborales de las personas trabajadoras de base del Poder Judicial del Estado en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables y la de los demás servidores públicos de otras categorías de dicho Poder, cuya permanencia en su cargo no sean de elección popular, serán respetados en su totalidad.
+
+Las Juezas y Jueces del Poder Judicial del Estado, que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo conforme al segundo transitorio de este Decreto, serán acreedoras a un pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario integrado por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho conforme a la ley laboral correspondiente.
+
+Decimo.- Los presupuestos de egresos del ejercicio fiscal que corresponda considerarán los recursos necesarios para el cumplimiento del presente decreto.
+
+Los órganos del Poder Judicial del Estado, llevarán a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tendrán un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaria de Finanzas y Administración del Gobierno del Estado.
+
+Los recursos estatales a que se refiere el párrafo anterior deberán ser concentrados por concepto de aprovechamientos en la Secretaria de Finanzas y Administración del Gobierno del Estado y se destinarán a la implementación del presente Decreto y a los demás fines que esta determine.
+
+Décimo Primero.- Para la interpretación y aplicación de este Decreto, toda autoridad jurisdiccional del Estado deberá atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+Décimo Segundo.- Los derechos laborales de las personas trabajadoras de la defensoría pública y de las y los defensores públicos que se vean involucradas en esta transición, deberán ser respetados en su totalidad.
+
+Los trabajadores de base de la defensoría pública podrán optar por su readscripción laboral en el Gobierno del Estado de Baja California Sur, en común acuerdo con su representación sindical.
+
+Las autoridades llevaran a cabo todas las acciones de carácter administrativo para garantizar que en la transición se respeten la remuneración, protejan y conserven sus derechos y de seguridad social, de acuerdo con las leyes aplicables.
+
+La antigüedad de los trabajadores y defensoras y defensores públicos, no se verá afectada por su incorporación al Poder Judicial del Estado de Baja California Sur.
+
+Décimo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
