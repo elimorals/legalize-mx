@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2024-03-15"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -173,9 +173,17 @@ III. La violencia patrimonial. Es cualquier acto u omisión que afecta la superv
 
 IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder; y,
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2025)</small>
+
+VI. La violencia institucional. Son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como su acceso al disfrute de políticas públicas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 14 DE MARZO DE 2025)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
 
 ## TÍTULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
@@ -1148,3 +1156,9 @@ P.O. 15 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 394 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 53 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 BIS DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
