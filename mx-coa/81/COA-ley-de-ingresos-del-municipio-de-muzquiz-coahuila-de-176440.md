@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-municipio-de-muzquiz-coahuila-de-176440"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-17"
-last_updated: "2025-01-31"
+last_updated: "2025-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL 2025
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en Novena Sección del Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 17 de diciembre de 2024.
 
