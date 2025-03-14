@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-175208"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-28"
-last_updated: "2025-02-28"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Tercera Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el jueves 28 de noviembre de 2024.
 
@@ -675,7 +675,7 @@ LXXV. Llevar a cabo los procedimientos de adjudicación en materia de obra públ
 
 LXXVI. Elaborar, en conjunto con la Secretaría Anticorrupción y Buen Gobierno, normas, criterios y lineamientos que, en materia de adquisiciones de bienes, servicios y contratación de obras públicas y servicios relacionados con las mismas, deban seguir las dependencias y entidades de la Administración Pública Estatal con apego a la normatividad aplicable;
 
-LXXVII. Proponer las políticas en materia de transparencia, acceso a la información pública, protección de datos personales y gobierno abierto de la Administración Pública Estatal; verificar la integración de las unidades de transparencia y la constitución de los Comités de Transparencia de las dependencias y entidades de la Administración Pública Estatal; coordinar los respectivos procedimientos de atención y acciones de trámite; dar seguimiento a las acciones de los sujetos obligados e informar de todo lo anterior al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, de acuerdo con la política general establecida por la Secretaría Anticorrupción y Buen Gobierno;
+LXXVII. (DEROGADA, P.O. 14 DE MARZO DE 2025)
 
 LXXVIII. Supervisar directamente o a través de terceros los servicios de instalación, apoyo preventivo, mantenimiento y de soluciones correctivas en materia de tecnologías de la información, redes de voz, datos y video, equipos de cómputo, servidores y software, y
 
@@ -781,9 +781,17 @@ d) Las personas titulares de los órganos internos de control, en los meses de m
 
 e) Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, las y los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
-XLIII. Seleccionar a las y los integrantes de los órganos internos de control, garantizando la paridad de género y oportunidades en el acceso a la función pública, atrayendo a las y los mejores candidatos para ocupar los puestos, a través de lineamientos transparentes, objetivos y equitativos, y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-XLIV. Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones aplicables.
+XLIII. Seleccionar a las y los integrantes de los órganos internos de control, garantizando la paridad de género y oportunidades en el acceso a la función pública, atrayendo a las y los mejores candidatos para ocupar los puestos, a través de lineamientos transparentes, objetivos y equitativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2025)</small>
+
+XLIV. Proponer las políticas en materia de transparencia, acceso a la información pública, protección de datos personales y gobierno abierto de la Administración Pública Estatal; verificar la integración de las unidades de transparencia y la constitución de los Comités de Transparencia de las dependencias y entidades de la Administración Pública Estatal; coordinar los respectivos procedimientos de atención y acciones de trámite; dar seguimiento a las acciones de los sujetos obligados e informar de todo lo anterior a la instancia correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MARZO DE 2025)</small>
+
+XLV. Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones aplicables.
 
 El nombramiento de la o el Secretario Anticorrupción y Buen Gobierno que someta el Gobernador o Gobernadora a ratificación del Congreso del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en el ordenamiento en materia de responsabilidades administrativas del Estado.
 
@@ -2218,3 +2226,33 @@ TERCERO. En un plazo de 90 días hábiles, se deberán realizar las adecuaciones
 CUARTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se establezcan las unidades administrativas que deban conocer aquéllos, en términos de este Decreto.
 
 QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para el cumplimiento de este Decreto, la persona Titular del Poder Ejecutivo del Estado de Puebla, a través de las instancias competentes y en términos del presente, podrá reorganizar la estructura de las dependencias involucradas, creando, fusionando, escindiendo o disolviendo las unidades administrativas y oficinas necesarias; asimismo, podrá trasladar o crear las nuevas unidades administrativas y oficinas que resulten necesarias, realizando para ello, las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el Ejercicio Fiscal que corresponda.
+
+CUARTO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, la Secretaría de Planeación, Finanzas y Administración y la Secretaría Anticorrupción y Buen Gobierno ambas del Gobierno del Estado de Puebla, en el ámbito de sus respectivas competencias, coordinarán el proceso de transferencia de las atribuciones, asuntos y recursos humanos, materiales y financieros existentes, entre las dependencias reorganizadas, representadas por sus titulares o el personal que éstos designen, bajo la vigilancia de la misma Secretaría Anticorrupción y Buen Gobierno y el cumplimiento de las disposiciones generales y especiales emitidas por ésta, para su entrega-recepción.
+
+QUINTO. Los procedimientos, asuntos y recursos con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente Decreto, serán transferidos a su nueva dependencia de adscripción, en un plazo máximo de noventa días naturales a partir de la entrada en vigor del mismo.
+
+Las personas titulares de las dependencias y unidades administrativas de origen y de nueva creación o aquellas a las que se transfieran las facultades aludidas en el presente Decreto, con el apoyo de las dependencias coordinadoras del proceso de transferencia, proveerán y acordarán lo necesario para cumplir oportunamente el mismo.
+
+La Secretaría de Planeación, Finanzas y Administración del Gobierno del Estado de Puebla, determinará y dispondrá de instalaciones y recursos materiales, para habilitar las oficinas públicas para el adecuado desempeño de las funciones de las unidades administrativas que pasen a formar parte de la Secretaría Anticorrupción y Buen Gobierno.
+
+Las Secretarías de Planeación, Finanzas y Administración, y Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos no contemplados en el presente Decreto.
+
+SEXTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor del presente Decreto, deban pasar de la Secretaría de Planeación, Finanzas y Administración, hacia la Secretaría Anticorrupción y Buen Gobierno ambas del Gobierno del Estado de Puebla, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a su nueva dependencia, o en su caso, se establezcan las unidades administrativas que deban conocer aquéllos, en términos del presente Decreto.
+
+SÉPTIMO. Los derechos y obligaciones contractuales contraídos por la Dirección General de Transparencia y Gobierno Abierto serán atribuidos a la Secretaría Anticorrupción y Buen Gobierno que la sustituye.
+
+OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la legislación que en la materia resulte aplicable.
+
+NOVENO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente ordenamiento, se refiera a la Secretaría de Planeación, Finanzas y Administración o a la Unidad Administrativa que deje de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a la Secretaría Anticorrupción y Buen Gobierno a que se refiere el presente ordenamiento y a las que se asignen las facultades específicas que en cada caso se relacionen.
+
+DÉCIMO. La persona Titular del Poder Ejecutivo del Estado de Puebla, dentro de los noventa días naturales a partir de la entrada en vigor del presente Decreto, expedirá las reformas a los reglamentos interiores correspondientes. En tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
