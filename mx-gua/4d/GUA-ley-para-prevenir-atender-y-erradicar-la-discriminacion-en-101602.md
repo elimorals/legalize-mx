@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-1016
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2024-02-29"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -184,6 +184,14 @@ XXXIII. Impedir a las mujeres embarazadas continuar con sus estudios o no permit
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2023)</small>
 
 XXXIII BIS. Prohibir, limitar o restringir el amamantamiento en espacios públicos; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2025)</small>
+
+XXXIII TER. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2025)</small>
+
+XXXIII QUATER. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad; y
 
 XXXIV. Incurrir en cualquier otro acto u omisión que tenga por objeto anular, impedir o menoscabar los derechos y libertades o la igualdad de oportunidades y de trato de las personas, así como atentar contra su dignidad.
 
@@ -894,3 +902,11 @@ P.O. 29 DE FEBRERO DE 2024.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 59 MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XXXIII TER Y XXXIII QUATER AL ARTÍCULO 8 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
