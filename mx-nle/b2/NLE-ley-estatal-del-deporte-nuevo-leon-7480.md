@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "2025-01-15"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -701,6 +701,144 @@ Cuando sea evidente que algún participante en justas deportivas caiga en casos 
 
 Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo doping.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2025)</small>
+
+### CAPITULO IX BIS. DE LA PREVENCION DE LA VIOLENCIA EN EL DEPORTE
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis.
+
+Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos que en materia dicten la Federación, el Estado y los Municipios.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 1.
+
+Para efectos de la presente ley, se consideran actos o conductas violentas los siguientes:
+
+I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II. La exhibición de pancartas, símbolos, emblemas o leyendas que contengan un manifiesto de desprecio hacia las personas participantes en el evento deportivo o bien fomenten de forma explícita la realización de comportamientos violentos dentro de los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a estos;
+
+III. La irrupción no autorizada en los terrenos de juego;
+
+IV. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+V. La facilitación dolosa de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades;
+
+VI. Las demás que determine esta Ley y otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 2.
+
+Se crea la Comisión Especial contra la Violencia en el Deporte que será la encargada de elaborar y conducir las políticas generales contra la violencia en el ámbito deportivo.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 3.
+
+La Comisión deberá estar integrada por:
+
+I. El titular del Sistema Estatal del Deporte o a quien él designe;
+
+II. Un representante de cada uno de los equipos o clubes deportivos, de los inscritos en el Registro Estatal del Deporte;
+
+III. Tres representantes de ligas deportivas, de los inscritos en el Registro Estatal del Deporte.
+
+IV. Dos personas físicas o representantes de asociaciones morales, con amplia trayectoria en el deporte; y
+
+V. Dos representantes de las diversas instituciones educativas del Estado, una pública y una privada, que ofrezcan oferta académica en la materia.
+
+El funcionamiento, la designación de los representantes y la operación de la Comisión estará regulado conforme al Reglamento de la Ley General de Cultura, Física y Deporte.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 4.
+
+Las atribuciones de dicha Comisión Especial además de las que se establezcan en el reglamento respectivo, serán:
+
+I. Promover e impulsar acciones de prevención contra la violencia y la cultura de paz en el deporte;
+
+II. Fomentar los derechos humanos, la inclusión y la igualdad en el deporte;
+
+III. Elaborar el Programa para la Prevención de Violencia en el Deporte;
+
+IV. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, así como de propiciar la cultura de paz con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+
+V. Asesorar, dentro del ámbito de su competencia siempre que lo requiera, a los organizadores de aquellos eventos o espectáculos deportivos en los que exista la posibilidad de actos violentos;
+
+VI. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, Fiscalía, Seguridad Pública, Protección Civil, así como con los Municipios del Estado.
+
+VII. Establecer lineamientos que permitan llevar a cabo los acuerdos o convenios de colaboración entre los niveles de gobierno en la materia, las instalaciones donde se llevan a cabo eventos deportivos deben cumplir con los requisitos y normas mínimas previstas, sin perjuicio de las establecidas por Protección Civil, y las medidas que consideren necesarias para la prevención de la violencia en los eventos deportivos;
+
+VIII. Emitir recomendaciones y orientar a los miembros del Sistema Estatal del Deporte sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
+
+IX. Brindar asesoría a quien lo solicite, en materia de prevención de violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+X. Realizar estudios e informes sobre las causas y los efectos de la violencia en el deporte;
+
+XI. Conformar y publicar la estadística estatal sobre la violencia en el deporte;
+
+XII. Informar a las autoridades competentes sobre los riesgos de violencia que se pueden generar en los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes; y
+
+XIII. Las demás que determine esta Ley y otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 5.
+
+La Comisión podrá contar con Comités de Apoyo Técnico y podrán participar dependencias o entidades de la Administración Pública Estatal y los municipios, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas en la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en (sic) ámbito deportivo.
+
+La coordinación y operación de los trabajos de la Comisión Especial estarán a cargo del Instituto.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 6.
+
+La Organización y funcionamiento de la Comisión Especial y las funciones de sus Órganos y Comités de Apoyo Técnico, estarán regulados en términos de lo dispuesto por el Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 7.
+
+Dentro de los lineamientos que emita la Comisión deberán regularse, en lo concerniente al acceso a los eventos deportivos, entre otras medidas:
+
+I. La introducción de elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y de espectadores o asistentes en general;
+
+II. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
+
+III. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas, así como de personas que se encuentren bajo los efectos de las mismas; y
+
+IV. Las demás que se determinen en otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 8.
+
+Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
+
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidos en la presente Ley, su Reglamento y las que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y
+
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 9.
+
+Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Nacionales respectivas.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 74 Bis 10.
+
+Los integrantes del Sistema Estatal del Deporte, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
+
+Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
+
 ### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS EN EL DEPORTE
 
 ###### Artículo 75.
@@ -824,3 +962,11 @@ P.O. 15 DE ENERO DE 2025.
 Primero.- El presente Decreto entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los municipios contarán con un plazo de 90 días hábiles para realizar las adecuaciones a sus respectivos reglamentos correspondientes al presente Decreto.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 067. SE ADICIONA UN CAPÍTULO IX BIS DENOMINADO “DE LA PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE”, QUE CONTIENE LOS ARTÍCULOS 74 BIS, 74 BIS 1, 74 BIS 2, 74 BIS 3, 74 BIS 4, 74 BIS 5, 74 BIS 6, 74 BIS 7, 74 BIS 8, 74 BIS 9, Y 74 BIS 10, TODOS A LA LEY ESTATAL DE DEPORTE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Sistema Estatal del Deporte contará con un plazo máximo de 90 días hábiles después de la entrada en vigor del presente Decreto para emitir la Reglamentación interna correspondiente.
