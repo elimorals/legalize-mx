@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2024-11-12"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -289,6 +289,10 @@ El imputado y su defensor tendrán acceso a los registros de la investigación c
 
 VII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+En caso de cumplirse con los plazos señalados en el párrafo anterior y que no se haya dictado sentencia, el imputado o el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora, en los términos que establezca la ley;
+
 VIII. Tendrá derecho a una defensa adecuada por abogado, el cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el Juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y
 
 IX. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
@@ -353,7 +357,13 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna per
 
 Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
 
-El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
+
+El Estado garantizará el servicio de defensoría pública en asuntos del fuero estatal, que será proporcionado por la Defensoría Pública del Estado de Oaxaca, en los términos que establezcan las disposiciones aplicables. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+Las Magistradas y los Magistrados y Jueces deberán resolver las controversias judiciales, excluyendo la materia penal, que se regirá por lo dispuesto en la fracción VII del artículo 8, en un máximo de seis meses, contados a partir del conocimiento del asunto por parte de la autoridad. En caso de cumplirse con el plazo señalado y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora o, en su caso, dar vista al órgano interno de control tratándose del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)</small>
 
@@ -2001,17 +2011,17 @@ XXVI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas q
 
 Aprobar al Titular del Poder Ejecutivo y a los Ayuntamientos la afectación, como fuente o garantía de pago, de los ingresos que les correspondan y sean susceptibles de afectación conforme a la legislación aplicable, o en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de procesos de bursatilización, deuda pública o de proyectos de asociación pública privada, que contrate el estado o en su caso los municipios, no podrán destinar más de lo que establezcan las leyes respectivas. Así mismo autorizar la desafectación de esos ingresos en términos de la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-XXVII. Expedir el decreto correspondiente para que el Instituto Estatal Electoral y de Participación Ciudadana, convoque a elecciones de Gobernador o Gobernadora, Diputados y Diputadas y Ayuntamientos en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos.
+XXVII. Expedir el Decreto correspondiente para que el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, convoque a elecciones de Gobernador o Gobernadora, Diputados y Diputadas y Ayuntamientos; así como de Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial; Juezas y Jueces de primera instancia del Poder Judicial; de acuerdo a las disposiciones o períodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
 
 XXVII Bis. Formular la solicitud ante el Instituto Estatal Electoral y de Participación Ciudadana para la realización del plebiscito;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-XXVIII. Elegir a los Magistrados del Tribunal Superior de Justicia, de conformidad con lo establecido por el artículo 102 de esta Constitución;
+XXVIII. Autorizar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial del Estado conforme al Artículo 104 de esta Constitución y en los términos que establezcan las leyes;
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2105,7 +2115,7 @@ L. Cumplir con las obligaciones legislativas que le impone la Constitución Fede
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-LI.- Requerir la comparecencia de los secretario de despacho del Gobierno del Estado, Consejero Jurídico, Fiscal General del Estado de Oaxaca, titulares de los órganos constitucionales autónomos, directores o administradores de las dependencias y entidades de la Administración Pública Estatal, concejos municipales y comisionados municipales que se consideren pertinente (sic), para que informen cuando se discuta o estudie un asunto relativo a su ramo o actividades, así como, para que respondan a preguntas que se les formulen;
+LI.- Requerir la comparecencia de los secretario (sic) de despacho del Gobierno del Estado, Consejero Jurídico, Fiscal General del Estado de Oaxaca, titulares de los órganos constitucionales autónomos, directores o administradores de las dependencias y entidades de la Administración Pública Estatal, concejos municipales y comisionados municipales que se consideren pertinente (sic), para que informen cuando se discuta o estudie un asunto relativo a su ramo o actividades, así como, para que respondan a preguntas que se les formulen;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2603,9 +2613,7 @@ VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la Fracción XLIX del Artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
-
-X. Emitir la convocatoria de Magistrados del Tribunal Superior de Justicia de conformidad con lo establecido en el artículo 102 de esta Constitución. Así mismo, designar a los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, de conformidad con lo establecido en el artículo 114 QUINQUIES de esta Constitución.
+X. (DEROGADA, P.O. 14 DE MARZO DE 2025)
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -3053,57 +3061,59 @@ Como titular de la dependencia, estará una persona que se denominará Consejero
 
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 99.
 
-El Poder Judicial se ejerce por el Tribunal Superior de Justicia, por los jueces de primera instancia y por los juzgados en materia laboral.
+El Poder Judicial se ejerce por el Tribunal Superior de Justicia, por las juezas y los Jueces de primera instancia y por los juzgados en materia laboral. Para lograr el acceso a la justicia, la actuación de las juzgadoras y los juzgadores deberá atender la perspectiva de género.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
+El Tribunal Superior de Justicia se compondrá de 16 integrantes. Todas las Magistradas y Magistrados con excepción de quien presida el Tribunal Superior de Justicia, deberán integrar Sala.
 
-Para lograr el acceso a la justicia, la actuación de las y los juzgadores deberá atender la perspectiva de género.
+Su presidencia se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2024)</small>
+En los términos que la ley disponga las sesiones del Pleno serán públicas.
 
-El poder judicial administrará con autonomía su presupuesto. El Tribunal Superior de Justicia elaborará su propio proyecto de presupuesto y el Consejo de la Judicatura lo hará por el resto del Poder Judicial, con las excepciones dispuestas en esta Constitución, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+La competencia, organización y funcionamiento del Tribunal Superior de Justicia, de los Juzgados de primera instancia, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial, se sujetarán a los términos que dispongan las leyes y los acuerdos generales correspondientes, garantizando la especialización, y su finalidad será acercar la justicia a las comunidades de conformidad con las bases que esta Constitución establece.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+La administración del Poder Judicial estará a cargo de un órgano de administración judicial, mientras que la disciplina de sus integrantes estará a cargo del Tribunal de Disciplina Judicial, en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
-Los proyectos así elaborados serán remitidos por el Presidente del Tribunal Superior de Justicia al Congreso del Estado para su discusión y en su caso aprobación.
+El Poder Judicial administrará con autonomía su presupuesto a través del Órgano de Administración que será el responsable del control presupuestal y administrativo.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+El órgano de administración judicial determinará el número, división en distritos judiciales, competencia territorial y especialización por materia.
 
-Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas para el Poder Judicial no podrán ser reducidas ni transferidas, salvo en los casos de ajuste presupuestal general previstos en la Ley.
+La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género. La elección de las Magistradas y los Magistrados, así como las Juezas y los Jueces, se regirá por las bases previstas en el artículo 102 de esta Constitución.
+
+El Pleno del Tribunal Superior de Justicia estará facultado, para expedir acuerdos generales, a fin de lograr una adecuada distribución de los asuntos que competa conocer al Tribunal Superior de Justicia, así como remitir asuntos a las Salas para mayor prontitud en el despacho de los mismos. Dichos acuerdos surtirán efectos después de publicados.
+
+La remuneración que perciban por sus servicios las Magistradas y los Magistrados, las Juezas y los Jueces, y demás personal del Poder Judicial, no podrá ser mayor a la establecida para la Gobernadora o Gobernador del Estado en el presupuesto correspondiente y no será disminuida durante su encargo.
+
+El Poder Judicial del Estado no podrá crear ni mantener en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley. En caso de existencia de dichos instrumentos al momento de la entrada en vigor del presente Decreto, deberán extinguirse conforme a lo dispuesto en las disposiciones transitorias.
+
+Las Magistradas y los Magistrados, las Juezas y los Jueces durarán en su encargo nueve años y podrán ser removidos en los casos y conforme a los términos del Título Séptimo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+
+Ninguna persona que haya sido Magistrada o Magistrado podrá ser electa para un nuevo periodo.
+
+Tratándose de juezas y jueces, podrán ser reelectos en una ocasión de forma consecutiva, cuando concluya su periodo y no podrán ser readscritos fuera del distrito judicial en el que hayan sido electos, salvo que por causa excepcional lo determine el Tribunal de Disciplina Judicial.
+
+El cargo de Magistradas y Magistrados, no generará derecho a Jubilación.
 
 (REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 100.
 
-La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidoras o servidores públicos, garantizando en todo momento el principio de paridad entre mujeres y hombres; y, si esto no fuere posible, atendiendo a que el número de nombramientos a expedir sea impar, será lo más cercano al equilibro (sic) numérico en todos los casos.
+La Ley Orgánica del Poder Judicial del Estado determinará:
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+I. El funcionamiento del mismo; garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para su elección por voto libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, términos, modalidades y requisitos que señala la Constitución Federal para el Poder Judicial de la Federación en lo que resulte aplicable y esta Constitución, y las leyes correspondientes;
 
-El Consejo de la Judicatura será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las leyes.
+II. Los mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo de Magistradas o Magistrados, Juezas o Jueces y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica;
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+III. Las funciones del Tribunal de Disciplina Judicial y del órgano de administración judicial, garantizará su independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución; y
 
-El Consejo de la Judicatura se integrará por cinco miembros. La Presidencia del Consejo recaerá en la presidenta o Presidente del Tribunal Superior de Justicia. Habrá una Consejera Magistrada o Consejero Magistrado y una Consejera Jueza o Consejero Juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quienes los designa (sic), por lo que ejercerán su función con independencia e imparcialidad. De los miembros del Consejo de la Judicatura se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción, respetando el principio de paridad de género y alternancia.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
-
-La Ley Orgánica de cada uno de los poderes que participan en la integración del Consejo de la Judicatura determinará la forma y mecanismos para la designación de los Consejeros, quienes sin excepción deberán tener el título de licenciado en derecho y acreditar cinco años de experiencia en la materia.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
-
-Los consejeros, con excepción del presidente, durarán en su cargo cinco años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo período. Durante su encargo, sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
-
-El Consejo de la Judicatura establecerá la configuración territorial de las Salas y Juzgados del Poder Judicial, administrará la carrera judicial; nombrará y removerá a los Jueces y demás servidores públicos del Poder Judicial con base en principios de idoneidad, experiencia, honorabilidad, pluralidad, equidad de género, apartidismo y no discriminación, así mismo les concederá licencia, y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
+IV. El ingreso, formación, permanencia y especialización de las personas que integran al Poder Judicial; garantizará en todo momento el principio de paridad entre mujeres y hombres, si esto no fuere posible el número de nombramientos a expedir será impar, lo más cercano al equilibrio numérico en todos los casos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -3115,29 +3125,27 @@ Para ser Magistrada o Magistrado del Tribunal Superior de Justicia del Estado, s
 
 I.- Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DE LA PRESENTE FRACCIÓN FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
+II.- Reunir los requisitos señalados por las fracciones I a IV del párrafo segundo del artículo 97 de la Constitución Federal y los demás que establezca esta Constitución y la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
+III.- Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución, título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2023)</small>
 
 IV.- Gozar de buena reputación y no haber sido condenado mediante resolución firme por delitos intencionales o que ameriten pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; así mismo, será requisito el no haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancia (sic) que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-V.- Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
+V.- Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-VI.- No haber sido Secretaria o Secretario de Despacho o su equivalente, Fiscal General del Estado de Oaxaca o Diputada o Diputado Local, en el año anterior a su nombramiento;
+VI.- No haber sido Secretaria o Secretario de Despacho o su equivalente, Fiscal General o Especializado, Senador, diputado federal ni Diputada o Diputado Local, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución.
 
-> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], P.O. 9 DE NOVIEMBRE DE 2019)</small>
-
-Los nombramientos de las Magistradas y los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE MARZO DE 2025)</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -3147,51 +3155,93 @@ No podrán reunirse en el Tribunal dos o más Magistradas o Magistrados que sean
 
 Durante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público; excepto la docencia o la investigación académica. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 14 DE MARZO DE 2025)</small>
 
-Las personas que hayan ocupado el cargo de Magistrada o Magistrado o Jueza o Juez de Primera Instancia, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos del Poder Judicial del Estado.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia, las Juezas y los Jueces de primera instancia y en materia laboral, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial y las y los integrantes del Pleno del órgano de administración judicial, así como las Magistradas y los Magistrados del Tribunal Electoral, no podrán, en ningún caso:
+
+I. Durante el ejercicio de su cargo, aceptar ni desempeñar empleo o encargo de la Federación, de entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia;
+
+II. Dentro de los dos años siguientes a la fecha de la culminación de su encargo:
+
+a) Ocupar los cargos señalados en la fracción VI de este artículo;
+
+b) Actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial, y
+
+c) Tratándose de Juezas y Jueces de primera instancia, este impedimento aplicará respecto del distrito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+Las propuestas de candidaturas y la elección de los magistrados y Jueces integrantes del Poder Judicial se realizarán conforme a las bases, procedimientos, términos, modalidades y requisitos que señala la Constitución Federal para el Poder Judicial de la Federación y la Ley General de la materia en lo que resulte aplicable, estableciendo mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 102.
 
-Para nombrar a las personas que ocuparán las magistraturas del Tribunal Superior de Justicia la persona titular de la Gubernatura del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, las Juezas y los Jueces de primera instancia, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones federales o estatales ordinarias o extraordinarias del año que corresponda conforme al siguiente procedimiento:
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo y demás información que requiera;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-El Consejo de la Judicatura certificará el cumplimiento de los requisitos de ley y aplicará los exámenes de oposición. Una vez concluidos éstos, remitirá al Gobernador del Estado una lista que contenga ocho candidatos, de los cuales el Gobernador enviará una terna al Congreso del Estado para que elija a quien debe ser Magistrado.
+a) Los Poderes del Estado establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 2670 PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2021, PÁGINAS 1 Y 2, EN LO QUE SE REFIERE A LA REFORMA DEL PÁRRAFO TERCERO, QUEDANDO PUBLICADA EN SU LUGAR LA SIGUIENTE NOTA.]</small>
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
 
-(OBSERVADO POR EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, POR OFICIO GEO/028/2021, FECHADO EL 21 DE SEPTIEMBRE DE 2021, DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS 53 FRACCIÓN III Y 79 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA).
+c) Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados, y de las seis personas mejor evaluadas para Juezas y Jueces de primera instancia. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2021)</small>
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
 
-En caso de que el Congreso del Estado rechace la terna propuesta, el titular del ejecutivo enviará otra, de la lista elaborada por el Consejo de la Judicatura.
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+IV. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado de Oaxaca, quienes resolverán las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+Para el caso de Magistradas y Magistrados del Tribunal Superior de Justicia, Magistradas e integrantes del Tribunal de Disciplina Judicial, la elección se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto del Gobernador o Gobernadora del Estado hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, mediante votación calificada de dos tercios de sus integrantes presentes de la legislatura, y el Poder Judicial, por conducto del Pleno, postulará hasta tres personas mediante votación calificada de dos tercios de sus integrantes.
 
-Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado Consejero de la Judicatura, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; podrán jubilarse en los términos que señale la Ley respectiva.
+Para el caso de Juezas y Jueces de primera instancia, la elección se realizará por distrito judicial conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación de dos terceras partes de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno mediante votación calificada de dos tercios de sus integrantes.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2023)</small>
+El Congreso del Estado incorporará a los listados que remita al Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o distrito judicial diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
+
+La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca celebre en los primeros siete días del mes de diciembre del año anterior a la elección.
+
+Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca. Podrán, además, participar en foros de debate organizados por el propio Instituto o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 103.
 
-El Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca será presidido por la Presidenta o el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y durará en el ejercicio de sus funciones cuatro años. En la elección de la presidencia debe respetarse el principio de alternancia de género pudiendo acceder a la reelección por un período más. La Magistrada o el Magistrado Presidente tendrá la representación legal del Poder Judicial.
+Para ser electo Jueza o Juez de primera instancia, se necesita:
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Con práctica profesional de al menos tres años en un área jurídica afín a su candidatura.
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+
+IV. Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción 1 del artículo 102 de esta Constitución, y
+
+V. No haber sido persona titular de una Secretaría de Estado, Fiscal General o Especializado, Senadora o Senador, Diputada o Diputado federal, Diputada o Diputado local, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución.
+
+El ingreso, formación y permanencia del personal de la carrera judicial del Poder Judicial del Estado se sujetará a la regulación establecida en las disposiciones aplicables.
+
+Las Magistradas y los Magistrados, las Juezas y los Jueces del Poder Judicial rendirán protesta ante el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 104.
 
-Las faltas temporales de las Magistradas y los Magistrados serán cubiertas por las Juezas y los Jueces de Primera Instancia que designe el Pleno del Honorable Tribunal Superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad y probidad en la impartición de justicia.
+Cuando la falta de una Magistrada o un Magistrado del Poder Judicial excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
+
+Las renuncias de las Magistradas y los Magistrados, Juezas y Jueces del Poder Judicial, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente.
+
+Las licencias de las personas servidoras públicas cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia, para el caso de Magistradas y Magistrados, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes y por el órgano de administración judicial para el caso de juezas y jueces de primera instancia y en materia laboral. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los integrantes presentes del Pleno del Congreso del Estado o, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de un año.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -3263,7 +3313,9 @@ d) El Poder Ejecutivo y el Legislativo; y
 
 e) Entre Órganos Autónomos, o entre éstos y el Poder Ejecutivo, Poder Legislativo, o los Municipios.
 
-Cuando las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los municipios, y la resolución del Pleno del Tribunal Superior de Justicia las declare inconstitucionales, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por las dos terceras partes de sus miembros, y surtirá efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
+
+Cuando las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los municipios, y la resolución del Pleno del Tribunal Superior de Justicia las declare inconstitucionales, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por las dos terceras partes de sus miembros, y surtirá efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado, en ningún caso la admisión de las controversias dará lugar a la suspensión de la norma cuestionada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3292,6 +3344,12 @@ IV. Conocer de las peticiones formuladas por el Gobernador del Estado, por trein
 V. Sustanciar y resolver el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, y;
 
 VI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+C. De los criterios contradictorios:
+
+Cuando el Tribunal Superior de Justicia o las Salas sustenten criterios contradictorios al resolver las contradicciones o los asuntos de su competencia, se observará lo establecido en la Ley a fin de que decida el criterio que debe prevalecer como precedente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -3323,21 +3381,71 @@ El cargo de Jueza o Juez de Primera Instancia es renunciable, por causa justific
 
 (DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE MARZO DE 2025)</small>
+
+#### SECCIÓN CUARTA. Del Tribual de Disciplina Judicial y del Órgano de Administración Judicial
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+ARTICULO 110 BIS. El Tribunal de Disciplina Judicial será un órgano del Poder Judicial con independencia técnica, de gestión, para investigar, resolver, evaluar y emitir sus resoluciones. Le corresponderá:
+
+I. La investigación, substanciación y sanción de las responsabilidades administrativas de las personas que integran el Poder Judicial, sin perjuicio de las atribuciones de las entidades encargadas de la fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
+
+II. Resolver los conflictos entre el Poder Judicial y sus servidores públicos, así como los que se susciten entre el Tribunal Superior de Justicia y sus empleados, y
+
+III. Evaluar el desempeño de Magistradas y Magistrados, Juezas y Jueces de primera instancia.
+
+El Tribunal de Disciplina se integrará por tres personas electas por la ciudadanía a nivel estatal conforme al procedimiento establecido en el artículo 102 de esta Constitución.
+
+Para ser elegibles, las Magistradas y Magistrados del Tribunal de Disciplina Judicial deberán reunir los requisitos señalados en el artículo 101 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades.
+
+Durarán seis años en su encargo, serán sustituidos de manera escalonada y podrán ser electos para un nuevo período. Ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
+
+Cada dos años se renovará la Presidencia del Tribunal de Disciplina Judicial, de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la Presidencia a quienes alcancen mayor votación.
+
+El Tribunal de Disciplina Judicial funcionará en Pleno y en comisiones. El Pleno será la autoridad substanciadora en los términos que establezca la ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
+
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo magistrados y Jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
+
+El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de las comisiones, que fungirán como autoridad substanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno, que resolverá por mayoría de votos, en los términos que señale la ley. Las decisiones del Pleno del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
+
+El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de Magistradas y Magistrados, que sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
+
+El Tribunal de Disciplina Judicial podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
+
+El Tribunal de Disciplina Judicial evaluará el desempeño de las Magistradas y Magistrados y las Juezas y Jueces de primera instancia y laborales, que resulten electas en la elección que corresponda. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal de Disciplina Judicial podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina Judicial resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+ARTICULO 110 TER. El Órgano de Administración Judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación de las Salas, del número, división en distritos judiciales, competencia territorial y especialización por materias de los Juzgados; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
+
+El Pleno del órgano de administración judicial se integrará por tres personas que durarán en su encargo seis años improrrogables, de las cuales, una será designada por el Poder Ejecutivo, por conducto del Gobernador o Gobernadora del Estado; una por el Poder Legislativo a través del Congreso del Estado mediante votación calificada de dos tercios de sus integrantes presentes; y una por el Poder Judicial, a través del Pleno del Tribunal Superior de Justicia, por mayoría de votos de sus integrantes presentes. La presidencia del órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes.
+
+Quienes integren el Pleno del órgano de administración judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidas en los términos del Título Séptimo de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo dé la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
+
+El órgano de administración judicial contará con un órgano auxiliar con autonomía técnica y de gestión denominado Escuela de Formación Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares y, en su caso, del personal de fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+De conformidad con lo que establezca la ley, el órgano de administración judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al órgano de administración judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia.
+
+El órgano de administración judicial, a solicitud del Pleno del Tribunal Superior de Justicia, podrá concentrar en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
+
+El órgano de administración judicial elaborará el presupuesto del Poder Judicial. Los presupuestos serán remitidos por dicho órgano para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE ENERO DE 2018)</small>
 
 #### SECCION CUARTA. Del Tribunal de lo Contencioso Administrativo y de Cuentas
-
-#### SECCION QUINTA. De los Juzgados en Materia Laboral
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2021)</small>
-
-ARTICULO 111 BIS. El Poder Judicial contará con juzgados en materia laboral ubicados en los principales centros de población del territorio oaxaqueños (sic); serán los encargados de impartir justicia cuando existan controversias derivadas de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
-
-Para ser Juez de lo laboral, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial; este cargo es renunciable, por causa justificada, que calificará el Tribunal Superior de Justicia, ante quien se presentará la renuncia.
-
-Previo a las controversias judiciales de carácter laboral, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral del Estado de Oaxaca, en la etapa conciliatoria.
-
-(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 111.
 
@@ -3345,7 +3453,19 @@ Previo a las controversias judiciales de carácter laboral, los trabajadores y p
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2021)</small>
 
-#### Sección V. De las Concesiones para la Ocupación y Explotación de Recursos Orbitales
+#### SECCION QUINTA. De los Juzgados en Materia Laboral
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2021)</small>
+
+ARTICULO 111 BIS. El Poder Judicial contará con juzgados en materia laboral ubicados en los principales centros de población del territorio oaxaqueños (sic); serán los encargados de impartir justicia cuando existan controversias derivadas de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
+
+Para ser Jueza o Juez de lo laboral, se deberán reunir los requisitos señalados en el artículo 101 de esta Constitución.
+
+Previo a las controversias judiciales de carácter laboral, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral del Estado de Oaxaca, en la etapa conciliatoria.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 8 DE DICIEMBRE DE 2000)
 
 ### CAPITULO V. De la Jurisdicción Indígena
 
@@ -3765,7 +3885,9 @@ La Fiscalía General del Estado de Oaxaca, respetará, los sistemas normativos, 
 
 ARTICULO 114 BIS. El Tribunal Electoral del Estado de Oaxaca, es un órgano especializado, autónomo en su funcionamiento e independiente en sus decisiones, es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca y tendrá las siguientes atribuciones:
 
-I.- Conocer de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de sistemas normativos indígenas, de la revocación de mandato el (sic) Gobernador del Estado, así como de todas las demás controversias que determine la ley respectiva;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+I. Conocer de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador o Gobernadora del Estado, Diputados o Diputadas, Magistradas o Magistrados, Juezas o Jueces de primera instancia y laborales, y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de sistemas normativos indígenas, de la revocación de mandato del Gobernador del Estado, así como de todas las demás controversias que determine la ley respectiva;
 
 II. Resolver en única instancia las impugnaciones que se presenten en contra de la elección de Gobernador del Estado;
 
@@ -3809,19 +3931,27 @@ El Tribunal respetará los sistemas normativos indígenas en el marco del plural
 
 ### CAPÍTULO II. DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE OAXACA
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2025)</small>
 
-ARTICULO 114 TER. La organización, desarrollo, vigilancia y calificación de las elecciones, plebiscitos, referendos y revocación de mandato en el Estado estará a cargo de un órgano denominado Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y del Instituto Nacional Electoral, gozara de autonomía en su funcionamiento e independencia en sus decisiones, en términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la Legislación correspondiente.
+ARTICULO 114 TER. La organización, desarrollo, vigilancia y calificación de las elecciones, plebiscito, referéndum y revocación de mandato en el Estado estará a cargo de un órgano denominado Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y, que gozará de autonomía en su funcionamiento e independencia en sus decisiones. Además, organizará la elección de Magistradas y Magistrados del Tribunal Superior de Justicia del Estado y del Tribunal de Disciplina Judicial, Juezas y Jueces de Primera Instancia y laborales, en términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 El Instituto contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
 El Consejero Presidente y los consejeros electorales del Instituto serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales. Los consejeros electorales deberán ser ciudadanos oaxaqueños por nacimiento o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la Ley General de Instituciones y Procedimientos Electorales. En caso de que ocurra una vacante se procederá conforme a lo dispuestos (sic) por la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Los consejeros electorales locales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración que no podrá ser superior a la que percibe un Secretario de la Administración Pública Estatal y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley General de Instituciones y Procedimientos Electorales.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
 Los concejeros electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo. Así mismo estarán impedidas las personas que hayan sido condenadas o condenados mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2015)</small>
 
 El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca ejercerá funciones en las siguientes materias:
 
@@ -3846,6 +3976,8 @@ i). Organización, desarrollo, cómputo y declaración de resultados en los meca
 j). Todas las no reservadas al Instituto Nacional Electoral, y
 
 k). Las que determine la ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE JUNIO DE 2015)</small>
 
 El Instituto contará con las siguientes facultades:
 
@@ -3981,11 +4113,11 @@ La indemnización por error judicial constituye un derecho humano de los particu
 
 También será responsabilidad del Estado, los daños y perjuicios ocasionados por los servidores públicos del Poder Judicial del Estado, que dicten prisión preventiva o mantengan en prisión preventiva de manera injustificada a una persona, quien en este caso podrá exigir el pago de la indemnización correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 117.
 
-Podrán ser sujetos de juicio político el Gobernador del Estado, los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, los Consejeros de la Judicatura, la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores especiales, los Titulares de las Secretarias y de los órganos autónomos nombrados por el Congreso, el Fiscal General del Estado de Oaxaca y los fiscales especializados en Delitos Electorales y en Materia de Combate a la Corrupción, los Magistrados del Tribunal Estatal Electoral de Oaxaca y los integrantes de los órganos de autoridad de los demás Órganos Autónomos.
+Podrán ser sujetos de juicio político el Gobernador del Estado, las Diputadas y los Diputados de la Legislatura Local, los Magistrados y Magistradas del Tribunal Superior de Justicia, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, las Juezas y los Jueces de primera instancia, la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca y los Auditores especiales, las personas Titulares de las Secretarías y de los órganos autónomos nombrados por el Congreso, la o el Fiscal General del Estado de Oaxaca y los fiscales especializados en Delitos Electorales y en Materia de Combate a la Corrupción, las y los Magistrados del Tribunal Electoral del Estado de Oaxaca, las y los integrantes de los Órganos Constitucionales Autónomos, las y los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Sólo podrán ser sujetos de juicio político en los términos de este Título por violaciones graves a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos públicos.
 
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
@@ -4002,6 +4134,10 @@ Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, ap
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+ARTICULO 117 BIS. Para proceder penalmente contra las y los servidores enunciados en el artículo 117, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por decreto aprobado de las dos terceras partes de sus miembros presentes en sesión de pleno, si ha (sic) o no lugar a proceder contra la persona inculpada.
 
 ###### ARTICULO 118.
 
@@ -4021,7 +4157,9 @@ Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
 El Sistema Estatal de Combate a la Corrupción es la instancia local con equivalencia funcional al Sistema Nacional Anticorrupción, encargada de la coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases:
 
-I. El Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca, contará con un comité coordinador integrado por las personas titulares del órgano encargado de la fiscalización a que se refiere el artículo 65 Bis de esta Constitución; de la Fiscalía Especializada en Materia de Combate a la Corrupción del Estado de Oaxaca; de la Secretaría de Honestidad, Transparencia y Función Pública quien presida del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; un representante del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca; del órgano Garante a que se refiere el artículo 114 apartado C de esta Constitución y otro del Comité de Participación Ciudadana.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+I. El Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca, contará con un comité coordinador integrado por las personas titulares del órgano encargado de la fiscalización a que se refiere el artículo 65 Bis de esta Constitución; de la Fiscalía Especializada en Materia de Combate a la Corrupción del Estado de Oaxaca; de la Secretaría de Honestidad, Transparencia y Función Pública quien presida el Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca; un representante del Tribunal de Disciplina Judicial; y otro del Comité de Participación Ciudadana.
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse de forma paritaria por cinco ciudadanas o ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley y,
 
@@ -6804,3 +6942,57 @@ TERCERO.- En el presente Ejercicio Fiscal, los Ayuntamientos de los Municipios d
 CUARTO.- Se otorga un plazo de 180 días naturales para que el Congreso del Estado de Oaxaca reforme La Ley Orgánica Municipal del Estado de Oaxaca y los ordenamientos legales correspondientes, a efecto de establecer el plazo que tendrán los Ayuntamientos de los Municipios para presentar ante el Congreso del Estado sus proyectos de Ley de Ingresos y de Presupuesto de Egresos Municipal, tratándose del año que corresponda a la renovación del titular del Poder Ejecutivo Federal.
 
 QUINTO.- La reforma al artículo 43 y la adición de la fracción XXXIII del artículo 80 a que se refiere el presente Decreto, respecto al Informe de Gobierno, se aplicarán al informe que corresponde al siguiente año, por lo que, el que corresponde al presente, se rendirá en términos del texto constitucional vigente antes de la presente reforma.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 613.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 11; LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 59; EL ARTÍCULO 99; EL ARTÍCULO 100; LAS FRACCIONES II, IIII, V Y VI DEL PRIMER PÁRRAFO Y EL PÁRRAFO QUINTO DEL ARTÍCULO 101; EL ARTÍCULO 102; EL ARTÍCULO 103; EL ARTÍCULO 104; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL APARTADO B DEL ARTÍCULO 106; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 111 BIS; LA FRACCIÓN I DEL 114 BIS; EL PRIMER PÁRRAFO DEL ARTÍCULO 114 TER; EL PRIMER PÁRRAFO DEL ARTÍCULO 117 Y LA FRACCIÓN I DEL ARTÍCULO 120. SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL APARTADO B DEL ARTÍCULO 8; UN CUARTO PÁRRAFO AL ARTÍCULO 11, RECORRIÉNDOSE LOS SUBSECUENTES; UN PÁRRAFO SÉPTIMO AL ARTÍCULO 101; UN APARTADO C AL ARTÍCULO 106; LA SECCIÓN CUARTA PARA DENOMINARSE "DEL TRIBUNAL DE DISCIPLINA JUDICIAL Y DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL", QUE COMPRENDE LOS ARTÍCULOS 110 BIS Y 110 TER, EL ARTÍCULO 117 BIS. SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 79 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 101, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, EN MATERIA DE REFORMA DEL PODER JUDICIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Para poder plantear e implementar de manera adecuada la reforma al Poder Judicial en el Estado, se establece que la renovación de la totalidad de los cargos de Magistradas, Magistrados del Tribunal Superior de Justicia del Estado de Oaxaca, juezas y jueces de primera instancia y de los juzgados en materia laboral del Poder Judicial de Oaxaca, se realizará conforme a la fecha de la elección federal ordinaria del año 2027. Para lo anterior, se tomarán las previsiones presupuestales que correspondan en los ejercicios fiscales subsecuentes, para la efectiva implementación del presente Decreto.
+
+Toda vez que no habrá elección judicial extraordinaria local en el presente año, conforme a lo establecido en el Artículo Octavo Transitorio de la reforma constitucional federal vigente, a fin de dar cumplimiento a la misma y garantizar una transición efectiva en esta reingeniería al Poder Judicial, por única ocasión y de manera transitoria se integrará un Órgano Provisional de Disciplina Judicial y un Órgano Provisional de Administración Judicial.
+
+En consecuencia, atendiendo a la libre configuración legislativa que el Congreso de la Unión otorga a los Estados para llevar a cabo la implementación de la Reforma Judicial en el ámbito local, el órgano encargado de la disciplina del Poder Judicial del Estado de Oaxaca será el Órgano Provisional de Disciplina Judicial, para lo que serán designados de manera provisional, tres personas como Magistrados o Magistradas, cuya función culminará al momento de que tomen protesta las personas electas por el voto popular, como Magistrados o Magistradas del Tribual de Disciplina Judicial, en las elecciones ordinarias que se celebren en el año 2027.
+
+Para la designación de las personas Magistradas que integrarán el Órgano Provisional de Disciplina Judicial, se observará el procedimiento vigente en el artículo 102 de la Constitución Local antes de la presente reforma, que es el mismo por el que se han designado las Magistraturas que integran el Tribunal Superior de Justicia del Estado de Oaxaca, para lo que el Titular del Ejecutivo en un plazo máximo de 15 días, deberá emitir la convocatoria correspondiente.
+
+Por única ocasión, en los casos que ocurra la defunción, renuncia o ausencia definitiva de la persona titular de una magistratura del Poder Judicial del Estado antes de la fecha de la jornada electoral de la elección ordinaria a celebrarse en el año 2027, se procederá con lo dispuesto en el artículo 102 de la Constitución Local vigente antes de la presente reforma, con la salvedad que la duración del cargo de la magistratura de que se trate, quedará sin efectos a partir de la fecha en que tome protesta la persona que resulte electa en la elección ordinaria federal del año 2027.
+
+El Órgano Provisional de Administración Judicial tendrá a su cargo la administración del Poder Judicial, se integrará por una persona que será designada por el Gobernador o Gobernadora del Estado; una persona por el Congreso del Estado mediante votación calificada de dos tercios de sus integrantes presentes; y una por el Poder Judicial, a través del Pleno del Tribunal Superior de Justicia, por mayoría de votos de sus integrantes presentes y conforme a sus procedimientos internos, lo que deberán realizar en un plazo máximo de 30 días naturales.
+
+Quienes integren el Órgano de Administración deberán cumplir los siguientes requisitos:
+
+a) Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+b) Contar con experiencia profesional mínima de cinco años;
+
+c) Contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del órgano de administración judicial, con antigüedad mínima de cinco años; y
+
+d) No estar inhabilitados para desempeñar un cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+Durante el periodo de transición referido en el párrafo anterior, el Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca elaborará de manera conjunta con las Magistradas y Magistrados designados para integrar el Órgano Provisional de Disciplina Judicial, un plan de trabajo que señale de manera detallada la transferencia de los recursos materiales, humanos, financieros y presupuestales al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial; y con los integrantes del órgano de administración judicial, un plan que señale de manera detallada lo que corresponde a sus funciones administrativas y de carrera judicial a que haya lugar.
+
+El Consejo de la Judicatura y el Órgano Provisional de Disciplina Judicial aprobarán los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables. Lo mismo deberá observarse por el Consejo de la Judicatura y el órgano de administración judicial respecto a lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+Una vez designadas las personas que integrarán el Órgano Provisional de Disciplina Judicial y el Órgano de Administración Judicial, de manera inmediata iniciarán sus funciones, por lo que, se dará por concluido la función del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca, debiéndose iniciar el procedimiento de entrega-recepción correspondiente.
+
+Atendiendo a que el artículo sexto transitorio de la reforma constitucional federal, establece que el órgano de administración judicial, entrará en funciones una vez que tomen protesta las Magistradas y Magistrados que mediante comicios sean electos para integrar el Tribunal de Disciplina Judicial, el Órgano Provisional de Disciplina Judicial y el provisional órgano de administración judicial, extinguirán sus funciones una vez que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección ordinaria que se celebre en el año 2027, para ello, implementarán un plan de trabajo, conforme a los plazos que se establezcan en el mismo y en los términos que determinen las disposiciones legales y administrativas aplicables, para culminar la transición de esta reforma.
+
+TERCERO. Las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado que estén en funciones al momento de la entrada en vigor del presente Decreto, no podrán ser mayores a la establecida para el Gobernador del Estado en el presupuesto correspondiente, por lo que deberán ajustarse a los parámetros establecidos en el artículo 138 de esta Constitución en los casos que corresponda, sin responsabilidad para el Poder Judicial.
+
+CUARTO. El Congreso del Estado tendrá un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a las leyes locales que correspondan para dar cumplimiento al mismo. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes de la materia en todo lo que no se contraponga al presente Decreto.
+
+QUINTO. Los procedimientos que al momento de la entrada en vigor del presente Decreto excedan de los plazos previstos en el párrafo cuarto del artículo 11 constitucional y en la fracción VII del Apartado B del artículo 8 constitucional del presente Decreto, deberán observar el procedimiento establecido en éstos.
+
+SEXTO. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables.
+
+SÉPTIMO. Las Magistradas y Magistrados que actualmente se encuentran en funciones, y que en virtud de la presente reforma, cesen las mismas, no tendrán derecho a remuneración por concepto de jubilación, o prestación adicional, salvo que al momento de culminar su función, hayan cumplido con los requisitos de ley para obtener este beneficio.
+
+Los órganos del Poder Judicial del Estado llevarán a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tendrán un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Secretaría de Finanzas del Gobierno del Estado.
+
+Los recursos a que se refiere el párrafo anterior deberán ser concentrados por concepto de aprovechamientos y se destinarán a la implementación del presente Decreto y a los demás fines que la Secretaría de Finanzas determine.
+
+OCTAVO. Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+
+NOVENO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto
