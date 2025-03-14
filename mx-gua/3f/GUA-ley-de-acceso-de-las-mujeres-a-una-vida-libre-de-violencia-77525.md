@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2025-01-14"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -695,17 +695,23 @@ III. Las demás previstas para el cumplimiento de esta Ley.
 
 #### Sección Cuarta. Facultades del titular de la Secretaría de Seguridad Pública
 
-Facultades del Secretario de Seguridad Pública
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 14 DE MARZO DE 2025)</small>
+
+Facultades del titular de la Secretaría de Seguridad y Paz
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2025)</small>
 
 ###### Artículo 19.
 
-El titular de la Secretaría de Seguridad Pública ejercerá las siguientes facultades:
+El titular de la Secretaría de Seguridad y Paz ejercerá las siguientes facultades:
 
 I. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
 
 II. Diseñar con una visión transversal, la política integral para la prevención de delitos contra las mujeres;
 
-III. Formar y especializar en los términos de la presente Ley, al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+III. Formar y especializar en los términos de la presente Ley, al personal de la Unidad de Atención a la Violencia de Género para atender los casos de violencia contra las mujeres;
 
 IV. Implementar acciones de prevención y erradicación de los delitos sexuales y trata de personas contra las mujeres;
 
@@ -715,7 +721,11 @@ V. Auxiliar y supervisar en su caso la implementación en la ejecución de las �
 
 VI. Realizar, en coordinación con el IMUG, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres; y
 
-VII. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2025)</small>
+
+VII. Garantizar que la Unidad de Atención a la Violencia de Genero brinde la atención, seguimiento y cumplimiento de las órdenes de protección, su actuación se regirá conforme a los lineamientos y protocolos que para tal efecto se expidan; y
+
+VIII. Las demás previstas para el cumplimiento de esta Ley.
 
 #### Sección Quinta. Facultades del titular de la Secretaría de Educación
 
@@ -1856,3 +1866,15 @@ P.O. 14 DE ENERO DE 2025.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 60 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, FRACCIÓN VII; 6 FRACCIONES I, III Y IV; Y 44; Y SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 5, LA FRACCIÓN VIII AL ARTÍCULO 8; Y UN ARTÍCULO 69-1, TODOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 19, EN SU EPÍGRAFE, PRIMER PÁRRAFO Y FRACCIÓN III; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 19, REUBICANDO EL CONTENIDO DE LA FRACCIÓN VII EN LA VIII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para adecuaciones normativas
+
+Artículo Segundo. A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado adecuará las disposiciones normativas en un plazo que no exceda de sesenta días.
