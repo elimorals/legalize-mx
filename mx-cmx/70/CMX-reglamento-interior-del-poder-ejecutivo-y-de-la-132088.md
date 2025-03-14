@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2025-02-28"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE MARZO DE 2025.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -160,43 +160,29 @@ C) Subsecretaría de Gobierno, a la que quedan adscritas:
 
 1. Dirección General de Gobierno; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 14 DE MARZO DE 2025)</small>
 
-2. Coordinación General de Concertación Política, Prevención y Buen Gobierno, a la que quedan adscritas:
+2. Dirección General de Concertación Política, Prevención y Buen Gobierno, a la que quedan adscritas:
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
 
-2.1. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Oriente;
+2.1. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Oriente;
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
 
-2.2. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Poniente;
+2.2. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Poniente;
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
 
-2.3. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Norte; y
+2.3. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Norte; y
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
 
-2.4. Dirección General de Coordinación Política, Prevención y Buen Gobierno Regional Sur.
+2.4. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Sur.
 
 D) (DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE OCTUBRE DE 2021)</small>
-
-E) Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
-
-1. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
-
-2. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
-
-3. (DEROGADO, G.O. 16 DE AGOSTO DE 2021)
-
-4. (DEROGADO, G.O. 24 DE DICIEMBRE DE 2024)
-
-> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-5. Dirección Ejecutiva de Asuntos Agrarios.
+E) (DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 F) La Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Pública, a la que queda adscrita:
 
@@ -206,15 +192,25 @@ F) La Subsecretaría de Programas de Alcaldías y Reordenamiento de la Vía Púb
 
 G) Dirección General del Instituto de Reinserción Social, a la que queda adscrita:
 
-> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2021)</small>
-
-1. Dirección Ejecutiva de Programas de Reinserción; y
+1. (DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2021)</small>
 
 H) Dirección Ejecutiva de Análisis Informativo.
 
 I) (DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+J) Dirección Ejecutiva de Asuntos Agrarios;
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+K) Coordinación General de Atención a la Movilidad Humana de la Ciudad de México; y
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+L) Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
@@ -618,9 +614,11 @@ A) Subsecretaría de Planeación y Ordenamiento Territorial:
 
 3. Dirección General de Publicidad Exterior.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 14 DE MARZO DE 2025)</small>
 
-B) Subsecretaría de Coordinación Metropolitana:
+B) Dirección General de Coordinación Metropolitana, a la que queda adscrita:
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 1. Dirección Ejecutiva de Vinculación Interinstitucional.
 
@@ -726,11 +724,13 @@ E) Dirección Ejecutiva de Desarrollo Institucional.
 
 F) Dirección Ejecutiva de Asuntos Jurídicos.
 
-IX. A la Secretaría de Inclusión y Bienestar Social:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 14 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+IX. A la Secretaría de Bienestar e Igualdad Social de la Ciudad de México:
 
-A) Dirección Ejecutiva de Monitoreo, Gestión y Enlace Institucional; y
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
+
+A) Dirección Ejecutiva de Planeación y Seguimiento del Sistema de Bienestar y Cuidados;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
 
@@ -740,21 +740,7 @@ B) Dirección General de Diversidad Sexual y Derechos Humanos.
 
 2. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE AGOSTO DE 2021)</small>
-
-C) Coordinación General de Inclusión Social, a la que queda adscrita:
-
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
-
-1. Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias.
-
-2. (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
-
-3. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
-
-3.1. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
-
-3.2 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
+C) (DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 (REFORMADO [N. DE E. REUBICADO], G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
@@ -770,11 +756,37 @@ H) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
 I) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
-
-J) Dirección Ejecutiva del Instituto para el Envejecimiento Digno.
+J) (DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 K) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 14 DE MARZO DE 2025)</small>
+
+L) Coordinación General del Sistema de Cuidados, a la que quedan adscritas:
+
+1. Dirección Ejecutiva de Género y Vida Cotidiana;
+
+2. Dirección Ejecutiva de Comedores;
+
+3. Dirección Ejecutiva para las Personas con Discapacidad; y
+
+4. Dirección Ejecutiva del Instituto para el Envejecimiento Digno.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+M) Dirección Ejecutiva para las Infancias;
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+N) Dirección Ejecutiva para Adultos “A”;
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+O) Dirección Ejecutiva para Adultos “B”; y
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+P) Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO DE 2022)</small>
 
@@ -1320,39 +1332,9 @@ XXIII. Las demás que le atribuyan expresamente las leyes, reglamentos y normas 
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2021)</small>
-
 ###### Artículo 25 Bis.
 
-La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental tendrá las siguientes atribuciones:
-
-I. Acordar con la persona titular de la Secretaría de Gobierno el despacho de los asuntos que guarden relación con los Gobiernos de las Entidades Federativas y los Municipios que colindan con la Ciudad de México, en los asuntos que correspondan a su ámbito de competencia;
-
-II. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-III. Mantener informada a la persona titular de la Secretaría de Gobierno sobre el cumplimiento de los convenios suscritos por el Gobierno de la Ciudad de México con gobiernos de las Entidades Federativas que colindan con la Ciudad;
-
-IV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-V. Participar en las actividades materia de límites territoriales en términos de las disposiciones jurídicas y administrativas aplicables, así como coadyuvar en los trabajos de amojonamiento y señalización de límites de la Ciudad con las Entidades Federativas colindantes;
-
-VI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-VII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-VIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-IX. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-X. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-XI. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
-
-XII. Apoyar las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
-
-XIII. Instrumentar la aplicación de las políticas demográficas que fije la Secretaría de Gobernación en el ámbito de la competencia de la Ciudad, así como fomentar y propiciar la coordinación interinstitucional y la que corresponda en el Consejo Nacional de Población; y
-
-XIV. Las demás que se deriven de otras disposiciones legales aplicables y las que le asigne la persona titular de la Secretaría de Gobierno.
+(DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 ###### Artículo 26.
 
@@ -1824,7 +1806,13 @@ XV. Incentivar la inversión inmobiliaria, tanto del sector público como el pri
 
 XVI. Apoyar en la coordinación de las actividades de las comisiones que se conformen para el establecimiento oficial de límites territoriales y nomenclaturas de vías públicas, espacios públicos y colonias;
 
-XVII. Coordinar las acciones necesarias para el registro y supervisión de las actividades de Peritos en Desarrollo Urbano, Peritos Responsables de la Explotación de Yacimientos, Corresponsables en Instalaciones y Corresponsables en Diseño Urbano y Arquitectónico;
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2025)</small>
+
+XVI Bis. Autorizar y registrar a las personas físicas como Peritos en Desarrollo Urbano, Peritos Responsables de la Explotación de Yacimientos, Corresponsables en Instalaciones y Corresponsables en Diseño Urbano y Arquitectónico;
+
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+
+XVII. Coordinar las acciones necesarias para la supervisión de las actividades de Peritos en Desarrollo Urbano, Peritos Responsables de la Explotación de Yacimientos, Corresponsables en Instalaciones y Corresponsables en Diseño Urbano y Arquitectónico;
 
 XVIII. Conducir las acciones para autorizar y vigilar en colaboración con las autoridades competentes, los trabajos de explotación de yacimientos de arena, cantera, tepetate, piedra y arcilla; así como para revocar las autorizaciones y rehabilitar las zonas minadas para el desarrollo urbano;
 
@@ -1850,39 +1838,7 @@ XXVIII. Supervisar los procesos para la determinación de los corredores publici
 
 XXIX. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2024)</small>
-
-Artículo 31 TER.- Corresponde a la Subsecretaría de Coordinación Metropolitana:
-
-I. Acordar con la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad de México;
-
-II. Auxiliar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en la gestión y coordinación de las relaciones de carácter metropolitano con los organismos y poderes públicos locales y federales, así como con los gobiernos de las Alcaldías y los órganos de representación ciudadana;
-
-III. Participar con las autoridades competentes en el proceso de la planeación metropolitana, y regional, en representación de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
-
-IV. Auxiliar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en las acciones de representación del Gobierno de la Ciudad de México para la coordinación metropolitana y regional, con los actores del sector público, social y privado;
-
-V. Apoyar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en las acciones de representación de la Administración Pública de la Ciudad de México ante los diversos mecanismos de coordinación metropolitana y regional, en términos de lo dispuesto por los convenios y demás instrumentos jurídicos;
-
-VI. Analizar y proponer reformas al marco normativo y modificaciones a los instrumentos y programas de intercambio, para recomendar líneas de acción de coordinación metropolitana y regional;
-
-VII. Impulsar la suscripción de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación vigente sobre coordinación metropolitana y regional;
-
-VIII. Promover la realización de estudios y proyectos técnicos que propicien formas eficientes de coordinación metropolitana y regional con los distintos órdenes de gobierno que inciden en la Ciudad de México;
-
-IX. Impulsar con los distintos órdenes de gobierno, el desarrollo de proyectos estratégicos en materia de coordinación metropolitana y regional;
-
-X. Fomentar la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana y regional;
-
-XI. Elaborar la cartera de proyectos en materia de coordinación metropolitana, y regional, a cargo de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
-
-XII. Hacer el seguimiento de los proyectos que integran las políticas en materia de coordinación metropolitana y regional, e impulsar la evaluación de sus resultados;
-
-XIII. Participar en los grupos de trabajo que se generen con motivo de la coordinación metropolitana y regional, así como dar seguimiento a los compromisos que surjan de los mismos;
-
-XIV. Proponer mejoras en el diseño de políticas públicas y procesos intergubernamentales para resolver problemas públicos en el ámbito metropolitano y regional; y
-
-XV. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
+Artículo 31 TER.- (DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 #### SECCIÓN IV. DE LA SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
@@ -2924,11 +2880,11 @@ IX. Participar en la organización de los actos cívicos del Gobierno de la Ciud
 
 X. Cooperar con las acciones y programas de Gobierno de la Ciudad de México en el Centro Histórico y demás vialidades, dentro del ámbito de su competencia, en lo relativo al uso de los espacios públicos, así como en la regulación (sic) espectáculos masivos que se realicen, para garantizar la convivencia pacífica y el ejercicio de los derechos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE MARZO DE 2025)</small>
 
 ###### Artículo 57.
 
-Corresponde a la Coordinación General de Concertación Política, Prevención y Buen Gobierno:
+Corresponde a la Dirección General de Concertación Política, Prevención y Buen Gobierno:
 
 > <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
@@ -2978,25 +2934,41 @@ XIV. Coordinar a las Direcciones Generales de Coordinación Política, Prevenci�
 
 XV. Las demás que se deriven de otras disposiciones legales y las que le asigne la persona titular de la Secretaría de Gobierno.
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE MARZO DE 2025)</small>
 
-Artículo 57 BIS.- Corresponde a las Direcciones Generales de Coordinación Política, Prevención y Buen Gobierno Regional Oriente, Regional Poniente, Regional Norte y Regional Sur:
+Artículo 57 BIS.- Corresponde a las Direcciones Ejecutivas de Concertación Política, Prevención y Buen Gobierno Regional Oriente, Regional Poniente, Regional Norte y Regional Sur:
 
-I. Acordar con la persona titular de la Coordinación General de Concertación Política, Prevención y Buen Gobierno, el despacho de los asuntos de su ámbito de competencia en materias de concertación política, atención social, gestión ciudadana, coordinación política y buen gobierno;
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+
+I. Acordar con la persona titular de la Dirección General de Concertación Política, Prevención y Buen Gobierno, el despacho de los asuntos de su ámbito de competencia en materias de concertación política, atención social, gestión ciudadana, coordinación política y buen gobierno;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
 II. Propiciar los acuerdos necesarios para la ejecución de las políticas públicas y mecanismos en materia de concertación política, prevención y gestión social de las Alcaldías;
 
-III. Asistir a la Coordinación General de Concertación Política, Prevención y Buen Gobierno en la instrumentación de los mecanismos de participación ciudadana previstos en la ley respectiva, en la zona de su competencia;
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+
+III. Asistir a la Dirección General de Concertación Política, Prevención y Buen Gobierno en la instrumentación de los mecanismos de participación ciudadana previstos en la ley respectiva, en la zona de su competencia;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
 IV. Dar seguimiento a las demandas y peticiones ciudadanas correspondientes a la zona de su competencia;
 
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
+
 V. Articular estrategias de enlace y diálogo entre los grupos involucrados y las Alcaldías para la prevención, gestión y búsqueda de soluciones a conflictos de carácter político y de demandas sociales;
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
 VI. Establecer las relaciones con los órganos de representación vecinal, tanto formales como de la sociedad civil en la zona de su competencia;
 
-VII. Coadyuvar en la vigilancia del debido cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emitan la persona titular de la Jefatura de Gobierno y el Congreso de la Ciudad de México, en la zona de su competencia, e informar de su cumplimiento a la persona titular de la Coordinación General de Concertación Política, Prevención y Buen Gobierno; y
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
 
-VIII. Las demás que se deriven de otras disposiciones legales y las que le asignen las personas titulares de la Secretaría de Gobierno y de la Coordinación General de Concertación Política, Prevención y Buen Gobierno.
+VII. Coadyuvar en la vigilancia del debido cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emitan la persona titular de la Jefatura de Gobierno y el Congreso de la Ciudad de México, en la zona de su competencia, e informar de su cumplimiento a la persona titular de la Dirección General de Concertación Política, Prevención y Buen Gobierno; y
+
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+
+VIII. Las demás que se deriven de otras disposiciones legales y las que le asignen las personas titulares de la Secretaría de Gobierno y de la Dirección General de Concertación Política, Prevención y Buen Gobierno.
 
 ###### Artículo 58.
 
@@ -3150,27 +3122,7 @@ XVI. Las demás que se deriven de otras disposiciones legales aplicables y las q
 
 ###### Artículo 70.
 
-Corresponde a la Dirección Ejecutiva de Programas de Reinserción:
-
-I. Establecer los contenidos y alcances de los programas que coadyuven a la reinserción y reintegración social y familiar de las personas que se sujetaron a una medida o sanción penal;
-
-II. Asegurar se proporcione y acompañe en los programas de reinserción, a las personas que se sujetaron a una medida o sanción penal, de manera eficiente y oportuna;
-
-III. Desarrollar e implementar estrategias de intervención que favorezcan al desarrollo integral, de las personas que se sujetaron a una medida o sanción penal y aquellas personas que por su condición se encuentren en riesgo de cometer delitos, por falta de apoyo familiar, que se encuentran fuera del sistema educativo, desocupadas, inicien el consumo de sustancias psicoactivas o viven en contextos que afectan su desarrollo;
-
-IV. Administrar la coordinación con las autoridades corresponsables para la prestación de sus servicios, a las personas que se sujetaron a una medida o sanción penal;
-
-V. Instrumentar las acciones que le correspondan, de los centros de atención, que presten apoyo a las personas que se sujetaron a una medida o sanción penal y a sus familiares;
-
-VI. Participar en la prestación de asistencia social y material, a las personas que se sujetaron a una medida o sanción penal, que les permita continuar su proceso de reinserción social;
-
-VII. Participar en la difusión de campañas informativas permanentes de sensibilización a actores sociales, con el fin de motivar y movilizar acciones y vínculos concretos, tendientes a insertar a las personas que se sujetaron a una medida o sanción penal, que favorezcan su reintegración y reinserción social;
-
-VIII. Formular las estrategias de intervención, junto con la Secretaria de Salud, el Instituto para la Atención y Prevención de las Adicciones de la Ciudad de México, la Comisión Nacional para las Adicciones, u organizaciones de la sociedad civil especializadas, a efecto de proporcionar tratamiento y acciones preventivas a las personas que se sujetaron a una medida o sanción penal, respecto del consumo de sustancias psicoactivas;
-
-IX. Diseñar acciones y programas de prevención del delito para las personas que se sujetaron a una medida o sanción penal y aquellas personas que por su condición se encuentren en riesgo de cometer delitos, por de (sic) falta de apoyo familiar, que se encuentran fuera del sistema educativo, desocupadas, inicien el consumo de sustancias psicoactivas o viven en contextos que afectan su desarrollo; y
-
-X. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la persona Titular de la Dirección General.
+(DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 > <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2021)</small>
 
@@ -3243,6 +3195,58 @@ XIV. Analizar la problemática a la que se enfrenten los grupos y núcleos agrar
 > <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2021)</small>
 
 XV. Las demás que le atribuyan otras disposiciones legales y administrativas, así como las que le sean conferidas por sus superiores jerárquicos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+Artículo 70 QUÁTER.- Corresponde a la Coordinación General de Atención a la Movilidad Humana de la Ciudad de México:
+
+I. Diseñar e implementar programas en materia de hospitalidad, interculturalidad, movilidad humana y atención a migrantes y sus familias para disminuir las brechas de desigualdad de la población migrante de la Ciudad de México;
+
+II. Coordinar la implementación y gestión del Padrón de Huéspedes y Migrantes en retorno de la Ciudad de México, como instrumento de política pública de atención y seguimiento para la promoción del ejercicio de los derechos de las personas migrantes, sujetas de protección internacional y migrantes capitalinos retornados;
+
+III. Ejecutar la emisión y entrega de la Credencial de Inscripción al Padrón de Huéspedes y Migrantes en retorno de la Ciudad de México;
+
+IV. Difundir la Credencial de Inscripción al Padrón de Huéspedes y migrantes en retorno de la Ciudad de México entre las distintas instancias gubernamentales del ámbito local y federal; así como entre las Organizaciones de la Sociedad Civil, para que se conozca su alcance, y los procedimientos de obtención y medidas de seguridad;
+
+V. Emitir opiniones técnicas a las dependencias de la Administración Pública para la promoción, salvaguarda tutela y defensa de los derechos de las personas migrantes internacionales, sujetos de protección internacional, migrantes capitalinos retornados, así como migrantes internos desplazados, que viven o transitan en la Ciudad de México y capitalinos migrantes en el extranjero y sus familias;
+
+VI. Dar seguimiento a las políticas públicas y acciones establecidas en los programas que sean instrumentadas en la materia por otras dependencias y entidades de la Administración Pública;
+
+VII. Mantener la coordinación de acciones con las entidades de defensa, seguimiento y promoción de los derechos para promover la inclusión de la población migrante en la Ciudad de México;
+
+VIII. Promover (sic) vinculación y cooperación con organizaciones nacionales e internacionales especializadas en el estudio, promoción y patrocinio de acciones de hospitalidad, interculturalidad y movilidad humana para beneficio de la población migrante de la Ciudad de México;
+
+IX. Promover la suscripción de convenios y acuerdos de colaboración entre el Gobierno de la Ciudad de México y entidades de los sectores social y privado en materia de hospitalidad, interculturalidad, movilidad humana y atención a migrantes para generar actividades de cooperación mutua en beneficio de la población migrante de la Ciudad de México;
+
+X. Coadyuvar en la realización de estudios e investigaciones sobre hospitalidad, interculturalidad y movilidad humana, con la participación de organizaciones sociales, organismos internacionales, centros de investigación, instituciones educativas y organismos autónomos de derechos humanos para contar con análisis y diagnósticos que faciliten la formulación de políticas públicas en la Ciudad de México;
+
+XI. Brindar el servicio de orientación, asesoría, acompañamiento y canalización a las personas migrantes internacionales, sujetos de protección internacional, migrantes capitalinos retornados, así como migrantes internos desplazados que viven o transitan en la Ciudad de México y capitalinos migrantes en el extranjero y sus familias, de y a las instancias gubernamentales, organismos internacionales y de la sociedad civil para su inclusión, promoviendo los principios de no discriminación, equidad de género, hospitalidad e interculturalidad;
+
+XII. Verificar el cumplimiento de los mecanismos de selección, entrega y seguimiento para cumplir con la normatividad en materia de transferencias, apoyos y subsidios a personas beneficiadas en la Coordinación General de Atención a la Movilidad Humana;
+
+XIII. Dar seguimiento a la entrega de apoyos y subsidios otorgados a la población migrante beneficiaria por la Coordinación General de Atención a la Movilidad Humana;
+
+XIV. Verificar el cumplimiento de los lineamientos, normas y modelos de atención básicos que deben regir la operación y funcionamiento de las Casas de Asistencia a la Movilidad Humana;
+
+XV. Difundir los servicios que otorga la Coordinación General de Atención a la Movilidad Humana y los derechos de las personas; y
+
+XVI. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+Artículo 70 QUINQUIES.- Corresponde a la Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales:
+
+I. Coadyuvar con la persona titular de la Secretaría de Gobierno en el despacho de los asuntos que guarden relación con los Gobiernos de las Entidades Federativas y sus poderes legislativos, así como los Municipios que colindan con la Ciudad, en los asuntos que correspondan a su ámbito de competencia;
+
+II. Dar seguimiento a los convenios suscritos entre el Gobierno de la Ciudad y los gobiernos de las Entidades Federativas que colindan con la Ciudad;
+
+III. Asistir a la persona titular de la Secretaría en las tareas del Consejo de Población de la Ciudad de México, en los términos de las disposiciones aplicables a la materia;
+
+IV. Coadyuvar con la Secretaría de Gobierno, en el establecimiento de vínculos de cooperación con las personas representantes y las autoridades de los gobiernos de los Estados y Municipios limítrofes con la Ciudad;
+
+V. Coadyuvar con la persona titular de la Secretaría de Gobierno en el establecimiento de enlaces institucionales entre las diferentes autoridades de la Administración Pública de la Ciudad y los organismos empresariales, asociaciones religiosas y organizaciones sociales para fortalecer las relaciones con la Administración Pública de la Ciudad; y
+
+VI. Las demás que se deriven de otras disposiciones legales aplicables y las que le sean conferidas por sus superiores jerárquicos.
 
 #### SECCIÓN III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
@@ -7086,19 +7090,53 @@ XXIV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 XXV. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+Artículo 155 BIS.- Corresponde a la Dirección General de Coordinación Metropolitana:
+
+I. Acordar con la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad de México;
+
+II. Auxiliar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en la gestión y coordinación de las relaciones de carácter metropolitano con los organismos y poderes públicos locales y federales, así como con los gobiernos de las Alcaldías y los órganos de representación ciudadana;
+
+III. Participar con las autoridades competentes en el proceso de la planeación metropolitana, y regional, en representación de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
+
+IV. Auxiliar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en las acciones de representación del Gobierno de la Ciudad de México para la coordinación metropolitana y regional, con los actores del sector público, social y privado;
+
+V. Apoyar a la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana en las acciones de representación de la Administración Pública de la Ciudad de México ante los diversos mecanismos de coordinación metropolitana y regional, en términos de lo dispuesto por los convenios y demás instrumentos jurídicos;
+
+VI. Analizar y proponer reformas al marco normativo y modificaciones a los instrumentos y programas de intercambio, para recomendar líneas de acción de coordinación metropolitana y regional;
+
+VII. Impulsar la suscripción de convenios para la constitución, integración y funcionamiento de comisiones metropolitanas en las materias previstas por la legislación vigente sobre coordinación metropolitana y regional;
+
+VIII. Promover la realización de estudios y proyectos técnicos que propicien formas eficientes de coordinación metropolitana y regional con los distintos órdenes de gobierno que inciden en la Ciudad de México;
+
+IX. Impulsar con los distintos órdenes de gobierno, el desarrollo de proyectos estratégicos en materia de coordinación metropolitana y regional;
+
+X. Fomentar la organización de foros y eventos que contribuyan a la integración de propuestas en materia de coordinación metropolitana y regional;
+
+XI. Elaborar la cartera de proyectos en materia de coordinación metropolitana, y regional, a cargo de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana;
+
+XII. Hacer el seguimiento de los proyectos que integran las políticas en materia de coordinación metropolitana y regional, e impulsar la evaluación de sus resultados;
+
+XIII. Participar en los grupos de trabajo que se generen con motivo de la coordinación metropolitana y regional, así como dar seguimiento a los compromisos que surjan de los mismos;
+
+XIV. Proponer mejoras en el diseño de políticas públicas y procesos intergubernamentales para resolver problemas públicos en el ámbito metropolitano y regional; y
+
+XV. Las demás que le instruya la persona titular de la Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, así como las previstas en otras leyes y ordenamientos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 156.
 
 Corresponde a la Dirección Ejecutiva de Vinculación Interinstitucional:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
 
-I. Coadyuvar con la persona titular de la Subsecretaría de Coordinación Metropolitana en el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad de México;
+I. Coadyuvar con la persona titular de la Dirección General de Coordinación Metropolitana en el despacho de los asuntos en materia de coordinación y planeación metropolitana, así como la participación en el Consejo de Desarrollo Metropolitano, en las comisiones metropolitanas y en los diversos mecanismos de coordinación con los gobiernos de las Entidades Federativas y Municipios que colindan con la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
 
-II. Apoyar a la persona titular de la Subsecretaría de Coordinación Metropolitana, en la gestión y coordinación de las relaciones de carácter metropolitano con los organismos y poderes públicos locales y federales, así como con los gobiernos de las Alcaldías y los órganos de representación ciudadana;
+II. Apoyar a la persona titular de la Dirección General de Coordinación Metropolitana, en la gestión y coordinación de las relaciones de carácter metropolitano con los organismos y poderes públicos locales y federales, así como con los gobiernos de las Alcaldías y los órganos de representación ciudadana;
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2024)</small>
 
@@ -8180,81 +8218,57 @@ XIII. Expedir copias certificadas, previo cotejo de los originales de los docume
 
 XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos de la Secretaría que le encomiende su titular.
 
-#### SECCIÓN X. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
+#### SECCIÓN X. DE LA SECRETARÍA DE BIENESTAR E IGUALDAD SOCIAL DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
 
 ###### Artículo 171.
 
-Corresponde a la Dirección Ejecutiva de Monitoreo, Gestión y Enlace Institucional:
+Corresponde a la Dirección Ejecutiva de Planeación y Seguimiento del Sistema de Bienestar y Cuidados:
 
 I. Coordinar las políticas de comunicación para los medios de difusión con que cuente la Secretaría y las Unidades Administrativas para la planeación, seguimiento, sistematización y evaluación en la materia, en coadyuvancia con las Entidades sectorizadas a la Dependencia, de conformidad con las normas que al efecto se expida;
 
 II. Sistematizar la información y opiniones difundidas por los medios de comunicación, en lo concerniente a las actividades de la Secretaría para su análisis y evaluación de manera que se informe puntualmente a la persona Titular de la Dependencia;
 
-III. Coordinar la orientación Ciudadana que sea de interés para la Secretaría de Inclusión y Bienestar Social;
+III. Coordinar y establecer enlaces que en su caso, se requieran entre las diversas Dependencias y Entidades de la Administración Pública de la Ciudad, al igual que con los poderes Legislativo y Judicial en los asuntos de su competencia, y celebrar e implementar acuerdos con esas instancias, que sirvan para el mejoramiento de las funciones de la Secretaría;
 
-IV. Realizar encuestas sobre las opiniones y necesidades de la población, referidas al desempeño y funciones de la Secretaría de Inclusión y Bienestar Social;
+IV. Actuar como instancia de coordinación con los distintos órganos de gobierno en las comparecencias y presentaciones de la persona Titular de la Secretaría;
 
-V. Diseñar la estrategia de atención Ciudadana de la Secretaría de Inclusión y Bienestar Social;
+V. Fungir como Secretaría Técnica de la Comisión Coordinadora del Sistema General de Bienestar Social;
 
-VI. Coordinar la organización y el funcionamiento de las áreas de atención Ciudadana de la Secretaría y de sus Unidades Administrativas.
+VI. Dirigir la estrategia de monitoreo y evaluación de las actividades institucionales, programas y acciones sociales, así como dar seguimiento a la implementación de los sistemas de gestión que promuevan el diagnóstico y conocimiento oportuno de las actividades, programas y acciones en mención;
 
-VII. Coadyuvar con la realización de los estudios, investigaciones, encuestas, consultas y prácticas de campo que permitan conocer las necesidades, demandas Ciudadanas y áreas de oportunidad, identificando los servicios, trámites y actividades que corresponden así como los cambios y mejoras que éstos requieran para brindar una mejor calidad en el servicio;
+VII. Coordinar a las Unidades Administrativas que conforman a la Secretaría, a fin de promover una adecuada implementación de la política de bienestar, incluidas las instituciones involucradas en su desarrollo e instauración;
 
-VIII. Gestionar la información en materia de atención Ciudadana para su debida recepción, organización, registro, procesamiento, análisis, seguimiento y evaluación, conforme a los trámites y solicitudes de servicios que produzcan las Unidades Administrativas y la Secretaría con el fin de generar estadísticas e indicadores con fines de planeación para la atención Ciudadana;
+VIII. Establecer los criterios para la integración y unificación del padrón Único de Beneficiarios de los programas de bienestar e igualdad social;
 
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2020)</small>
+IX. Publicar en la Gaceta Oficial de la Ciudad de México el Padrón Único de Beneficiarios de los programas de bienestar e igualdad social, de conformidad con lo establecido con la Ley de la Materia;
 
-IX. Coordinar y establecer enlaces permanentes, así como los temporales que, en su caso, se requieran entre las diversas Dependencias y Entidades de la Administración Pública de la Ciudad, al igual que con los poderes Legislativo y Judicial en los asuntos de su competencia, y celebrar e implementar acuerdos con esas instancias, que sirvan para el mejoramiento de las funciones de la Secretaría;
+X. Establecer los lineamientos y criterios técnicos a que deberán sujetarse las Unidades Administrativas de la Secretaría, entidades especializadas y las Alcaldías, que vayan acorde a lo establecido por la normatividad aplicable, con relación a los programas sociales;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XI. Establecer entre las Unidades Administrativas de la Secretaría, los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización;
 
-X. Actuar como instancia de coordinación con los distintos órganos de gobierno en las comparecencias y presentaciones de la persona Titular de la Secretaría;
+XII. Formular de manera estratégica, en coordinación con las Unidades Administrativas de la Secretaría, las entidades especializadas competentes y Alcaldías, la planeación y evaluación interna de las políticas sociales implementadas en la Ciudad de México, para el cumplimiento de los objetivos, programas, proyectos, actividades, compromisos y el impacto de las mismas;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XIII. Determinar las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación de los programas sociales de la Ciudad de México, incluyendo las relativas al financiamiento, la certificación y acreditación de la calidad y la búsqueda de alternativas de financiamiento a través de una gestión eficiente;
 
-XI. Fungir como Secretaría Técnica del Comité de Planeación para el Desarrollo (COPLADE);
+XIV. Supervisar el desarrollo y administración de las bases de datos, así como los sistemas de información y consulta, con información geográfica y estadística en materia de políticas y programas sociales;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XV. Ejecutar acciones de vinculación y colaboración con el Gobierno Federal en materia de política social, en beneficio de los habitantes de la Ciudad, incluyendo la coordinación de la planeación, programación y ejecución de los recursos federales que le sean asignados a la Secretaría;
 
-XII. Coordinar la participación oportuna de las Unidades Administrativas de la Secretaría de Inclusión y Bienestar Social, en los proyectos y actividades estratégicas con el fin de conocer sus avances y proponer los ajustes pertinentes;
+XVI. Dirigir la elaboración, actualización y seguimiento del Programa Especial de Bienestar Social y otros instrumentos programáticos y/o normativos en apego a los lineamientos, leyes y programas de gobierno en materia de política de bienestar;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XVII. Proponer a la Secretaría en coordinación con la Dirección General de Asuntos Jurídicos mejoras regulatorias que permitan la coherencia y articulación del marco regulatorio en materia de política de bienestar;
 
-XIII. Establecer los criterios para la integración y unificación del Padrón Único de Beneficiarios de los programas de inclusión y bienestar social;
+XVIII. Coadyuvar en el diseño, actualización y validación de modelos de atención, manuales operativos, protocolos y lineamientos técnicos para la implementación, monitoreo y evaluación de programas, acciones y servicios operados por la Secretaría;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XIX. Coadyuvar en la planeación de la logística de eventos públicos en los que participe la Secretaría, vigilando la coordinación efectiva de recursos, personal y protocolos para promover el cumplimiento de los objetivos institucionales y la proyección de una imagen institucional alineada con la agenda pública;
 
-XIV. Publicar en la Gaceta Oficial de la Ciudad de México el Padrón Único de Beneficiarios de los programas de bienestar social de conformidad con lo establecido con la Ley de la Materia;
+XX. Supervisar a las áreas responsables a su cargo para promover la eficiencia, eficacia y la buena administración que conduzcan al correcto y adecuado funcionamiento de la Dirección Ejecutiva; y
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XV. Autorizar estrategias, lineamientos y criterios técnicos a que deberán sujetarse las Unidades Administrativas de la Secretaría, entidades especializadas y las Alcaldías, que vayan acorde a los establecidos por Evalúa, con relación a los programas sociales;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XVI. Establecer entre las Unidades Administrativas de la Secretaría, los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XVII. Formular de manera sistemática y permanente, en coordinación con las Unidades Administrativas de la Secretaría, las entidades especializadas competentes y Alcaldías, la evaluación de las políticas sociales implementadas en la Ciudad de México, para el cumplimiento de los objetivos, programas, proyectos, actividades, compromisos y el impacto de las mismas;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XVIII. Determinar las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación de los programas sociales de la Ciudad de México, incluyendo las relativas al financiamiento, la certificación y acreditación de la calidad y la búsqueda de alternativas de financiamiento a través de una gestión eficiente;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XIX. Desarrollar y administrar las bases de datos, así como los sistemas de información y consulta, con información geográfica y estadística en materia de políticas y programas sociales;
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XX. Ejecutar acciones de vinculación y colaboración con el Gobierno Federal en materia de política social, en beneficio de los habitantes de la Ciudad, incluyendo la coordinación de la planeación, programación y ejecución de los recursos federales que le sean asignados a la Secretaría; y
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XXI. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
+XXI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 172.
 
@@ -8290,77 +8304,285 @@ V. Coordinar y promover con las diversas instituciones académicas y organizacio
 
 VI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Ter.
+
+Corresponde a la Coordinación General del Sistema de Cuidados:
+
+I. Impulsar políticas y acciones sociales, encaminadas a la inclusión, la convivencia social y la igualdad sustantiva; dirigidas a los diversos sectores sociales, con el propósito de avanzar en la reconstrucción del tejido social, el bienestar y el ejercicio pleno de los derechos sociales;
+
+II. Definir los mecanismos de fortalecimiento para optimizar la eficiencia y eficacia de las habilidades del personal de la Coordinación General;
+
+III. Establecer vínculos institucionales de coordinación para proponer instrumentos jurídicos con entes públicos, instituciones privadas, sociales, organismos internacionales e instituciones académicas, en materia de bienestar;
+
+IV. Definir los criterios para promover la igualdad de oportunidades para las mujeres, las personas mayores, las que presentan discapacidad y las desprovistas de sustento, a fin de generar programas y acciones que atiendan a estos sectores de la población; y
+
+V. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Quáter.
+
+Corresponde a la Dirección Ejecutiva de Género y Vida Cotidiana:
+
+I. Establecer vínculos institucionales de coordinación para proponer instrumentos jurídicos con entes públicos, instituciones privadas, sociales, organismos internacionales e instituciones académicas, en materia de igualdad de género, para el logro de sus objetivos y de acuerdo a la legislación aplicable;
+
+II. Promover la capacitación y sensibilización de las personas servidoras públicas, respecto (sic) la incorporación de perspectiva de género e igualdad sustantiva, a efecto de brindar una atención integral a las personas usuarias;
+
+III. Coordinar el diseño de acciones y programas en materia de género y de apoyo a actividades asociadas a la vida cotidiana y para el cuidado de las personas que requieran de este;
+
+IV. Establecer los objetivos de los programas de difusión de los servicios, proyectos y acciones de bienestar, igualdad social y cuidados, con el fin de que las personas usuarias tengan la información de manera eficiente y oportuna;
+
+V. Establecer mecanismos de acuerdo a su competencia que permitan que los servicios que se brinden a las personas usuarias a través de los programas y espacios del Sistema Público de Cuidados, incidan en la mejora de la calidad de vida de la población;
+
+VI. Establecer el enfoque de los programas de difusión de los servicios, proyectos y acciones desarrollados en los espacios públicos a fin de alcanzar a la población objetivo;
+
+VII. Establecer los criterios regulatorios de los espacios del Sistema de Cuidados para asegurar su operación, mantenimiento y aprovechamiento;
+
+VIII. Plantear las acciones encaminadas al desarrollo humano, con la finalidad de promover los preceptos de igualdad, equidad, empoderamiento y productividad de las mujeres que habitan o transitan en la Ciudad de México;
+
+IX. Proponer estrategias de capacitación enfocadas a la protección y ejercicio pleno de los derechos humanos de las mujeres, a la promoción de una vida libre de violencia, no discriminación e igualdad de resultados;
+
+X. Promover y coordinar la incorporación ordenada y eficiente de tecnologías de la información y comunicación para el buen despacho de las atribuciones a su cargo; y
+
+XI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Quinquies.
+
+Corresponde a la Dirección Ejecutiva de Comedores:
+
+I. Promover y difundir el ejercicio del derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad con alimentos inocuos, saludables, accesibles, asequibles y culturalmente aceptables con especial énfasis en poblaciones que padecen hambre, malnutrición y desnutrición;
+
+II. Administrar los Comedores Sociales de la Ciudad de México con la finalidad de promover el derecho a la alimentación de las personas que habitan o transitan en la Ciudad de México;
+
+III. Instrumentar las Reglas de Operación de los Comedores Sociales de la Ciudad de México para operar con los criterios establecidos en la normatividad vigente;
+
+IV. Delimitar los elementos que deberán contener los convenios con instituciones locales, autónomas y organizaciones civiles para la operación de los Comedores Sociales de la Ciudad de México en los mejores términos;
+
+V. Definir los mecanismos de fortalecimiento para optimizar la eficiencia y eficacia de las habilidades del personal a su cargo;
+
+VI. Intervenir en colaboración con las autoridades competentes en la supervisión de manera periódica los valores nutricionales y la dictaminación sobre la calidad de los alimentos que se distribuyen en los comedores sociales de la Ciudad de México;
+
+VII. Planear, programar, organizar, dirigir, controlar y evaluar, el desempeño y la correcta operación de los Comedores Sociales de la Ciudad de México conforme a los criterios establecidos en la normatividad vigente;
+
+VIII. Promover programas de excelencia y calidad, tendientes a aumentar la productividad de las áreas administrativas, técnicas operativas y del personal a su cargo;
+
+IX. Formular los planes y programas de trabajo de las áreas administrativas y las áreas administrativas técnico operativas a su cargo con la finalidad de mejorar los sistemas de atención al público para el acceso a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad;
+
+X. Proponer a la persona titular de la Secretaría de Bienestar e Igualdad Social la celebración de convenios e instrumentos jurídicos en el ámbito de su competencia y con apoyo en la normatividad vigente, para el mejor ejercicio del programa social y con la finalidad de promover y difundir el ejercicio (sic) el derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad;
+
+XI. Promover y coordinar la incorporación ordenada y eficiente de tecnologías de la información y comunicación para el buen despacho de las atribuciones a su cargo;
+
+XII. Promover la vinculación con otras dependencias para coordinar estrategias o acciones de gobierno que permitan el cumplimiento del objeto del programa social conforme a los criterios establecidos en la normatividad vigente; y
+
+XIII. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Sexies.
+
+Corresponde a la Dirección Ejecutiva para las Personas con Discapacidad:
+
+I. Establecer políticas, programas y acciones de inclusión social con el fin de promover la igualdad de oportunidades y resultados económicos y sociales de las personas con discapacidad;
+
+II. Establecer los objetivos de los programas de difusión de los servicios, proyectos y acciones de bienestar e igualdad social, con el fin de que las personas con discapacidad tengan la información de manera eficiente y oportuna;
+
+III. Emitir criterios regulatorios de los espacios del Sistema de Cuidados para asegurar su operación, mantenimiento y aprovechamiento;
+
+IV. Coordinar el diseño de acciones y programas en materia de igualdad e inclusión social, servicios integrales y comunitarios, con el fin de acercar los beneficios a la población objetivo de forma organizada y eficiente;
+
+V. Establecer mecanismos de supervisión que permitan que los servicios que se brinden a las personas con discapacidad en el Sistema de Cuidados, incidan en la mejora de su calidad de vida;
+
+VI. Establecer vínculos institucionales de coordinación para proponer instrumentos jurídicos con entes públicos, instituciones privadas, sociales, organismos internacionales e instituciones académicas, para atender las necesidades de las personas con discapacidad;
+
+VII. Promover temas específicos que permitan la capacitación y sensibilización de las personas que ejercen el cuidado de las personas con discapacidad, a efecto de brindar una atención integral con perspectiva de bienestar e igualdad social;
+
+VIII. Proponer y consolidar acciones de vinculación con instituciones públicas, privadas, asociaciones civiles y no gubernamentales enfocadas a la atención de las personas con discapacidad, con la finalidad de brindarles atención integral y favorecer su calidad de vida;
+
+IX. Supervisar a las áreas responsables para promover la eficiencia, eficacia y la buena administración que conduzcan al correcto y adecuado funcionamiento de la Dirección Ejecutiva;
+
+X. Promover y coordinar la incorporación ordenada y eficiente de tecnologías de la información y comunicación para el buen despacho de las atribuciones a su cargo; y
+
+XI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Septies.
+
+Corresponde a la Dirección Ejecutiva del Instituto para el Envejecimiento Digno:
+
+I. Proponer, dirigir y supervisar programas y políticas de protección social, para generar una cultura de envejecimiento digno, activo, saludable con autonomía e independencia de las personas mayores en la Ciudad de México;
+
+II. Promover instrumentos de colaboración con las instancias de la Administración Pública de la Ciudad, sectores sociales y privados; que propicien acciones, programas y estrategias de atención integral de las personas mayores;
+
+III. Promover la difusión, reconocimiento y ejercicio pleno de los derechos de las personas mayores, con igualdad sustantiva;
+
+IV. Proponer ante las instancias competentes, acciones y programas de promoción de la salud física y mental de las personas mayores;
+
+V. Dirigir y promover programas de visitas médicas domiciliarias de forma permanente y continua a las personas mayores priorizando aquellas que más lo necesiten;
+
+VI. Promover los diagnósticos sobre la situación y contexto familiar y comunitario de las personas mayores;
+
+VII. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas mayores, involucrando de manera coordinada a la familia, la comunidad, así como instituciones públicas y privadas que puedan aportar de acuerdo a sus atribuciones y alcances al reforzamiento del tejido social;
+
+VIII. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento digno;
+
+IX. Promover acciones de formación y capacitación para la sensibilización de las personas servidoras públicas y el personal que atiende a las personas mayores;
+
+X. Organizar, supervisar y evaluar las políticas, servicios y trámites que presta el Instituto a través de personas servidoras públicas, que atiende de manera directa a personas mayores;
+
+XI. Promover, supervisar y evaluar acciones que propicien el desarrollo social, económico, cultural y deportivo, para el envejecimiento digno y mejoramiento de las condiciones de vida de las personas mayores, considerando a los que pertenecen a pueblos, barrios originarios y comunidades indígenas residentes en la ciudad respetando su cultura, tradición, usos y costumbres, en coordinación con las instancias que brindan atención y fomento a sus derechos;
+
+XII. Coordinar, promover y fortalecer la organización de personas mayores para realizar actividades de socialización, convivencia, artística, recreativas, turísticas y ayuda mutua, en las comunidades, colonias, pueblos y/o barrios de la Ciudad de México;
+
+XIII. Fomentar y promover la incorporación y acceso de las personas mayores a las nuevas tecnologías;
+
+XIV. Promover y coordinar acciones para la convivencia, el bienestar y el buen vivir de las personas mayores a través de los modelos y espacios del Sistema Público de Cuidados;
+
+XV. Promover acciones para la defensa de los derechos de personas mayores en coordinación con otras instituciones para prevenir y evitar maltrato, despojo, discriminación y/o actos de violencia en su contra;
+
+XVI. Dirigir, promover y coordinar, acciones de detección, valoración, seguimiento, orientación y canalización de casos de violencia a personas mayores, a través de la coordinación multidisciplinaria e interinstitucional; y
+
+XVII. Las demás que le instruya la persona Titular de la Secretaría, y las que expresamente le atribuyen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Octies.
+
+Corresponde a la Dirección Ejecutiva para las Infancias:
+
+I. Implementar y dar seguimiento a los programas y acciones relacionados con la protección, cuidado, atención, desarrollo y bienestar para las infancias;
+
+II. Supervisar la elaboración, registro, seguimiento y actualización del padrón de solicitantes y de personas beneficiarias;
+
+III. Aplicar mecanismos e indicadores para evaluar y dar seguimiento a la operación, ejecución y cumplimento de objetivos institucionales;
+
+IV. Establecer relaciones interinstitucionales con otras áreas, entes e institutos públicos y/o privados, así como organizaciones de la sociedad civil para procurar el bienestar de las infancias;
+
+V. Coordinar la comunicación e información con diferentes entes e instituciones de los tres órdenes de gobierno para promover la protección, cuidado, atención, desarrollo y bienestar para las infancias;
+
+VI. Promover y difundir la información relacionada con las actividades interinstitucionales que oferten los entes e institutos públicos de los tres órdenes de gobierno para procurar el bienestar de la primera infancia;
+
+VII. Organizar, coordinar y supervisar a las áreas responsables a su cargo para promover la eficiencia, eficacia y la buena administración;
+
+VIII. Definir los mecanismos de fortalecimiento para optimizar la eficiencia y eficacia de las habilidades del personal a su cargo;
+
+IX. Proponer y apoyar la celebración de instrumentos jurídicos en el ámbito de su competencia, orientados a la protección, cuidado, atención, desarrollo y bienestar de la primera infancia;
+
+X. Elaborar las evaluaciones internas de los programas a su cargo;
+
+XI. Promover y coordinar la incorporación ordenada y eficiente de tecnologías de la información y comunicación para el buen despacho de las atribuciones a su cargo; y
+
+XII. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Nonies.
+
+Corresponde a la Dirección Ejecutiva para Adultos “A”:
+
+I. Establecer, promover y coordinar las políticas, programas y acciones sociales que beneficien la inclusión y el bienestar de las personas de 57 a 59 años, a fin de reducir la desigualdad social;
+
+II. Dirigir acciones de diagnóstico, detección y valoración de las necesidades de las personas de 57 a 59 años para definir las políticas, programas, proyectos y acciones sociales;
+
+III. Promover espacios de análisis, y diálogo con la ciudadanía, instancias gubernamentales, privadas y educativas para comprender las necesidades de esta población y plantear soluciones, alternativas y propuestas para su atención; así como la implementación progresiva de derechos que promuevan las condiciones mínimas de bienestar social y económico;
+
+IV. Proponer y coordinar los instrumentos de colaboración con las instancias de los tres órdenes de gobierno, para la implementación de programas, acciones y estrategias de atención integral para reducir la desigualdad social que afecta a las personas de 57 a 59 años;
+
+V. Difundir los derechos y promover la igualdad sustantiva de las personas de 57 a 59 años;
+
+VI. Coordinar, supervisar, evaluar y promover la atención, la prestación de servicios y trámites en aquellos asuntos que resulten de su competencia en materia de derechos de las personas de 57 a 59 años;
+
+VII. Supervisar el desempeño de las labores encomendadas a las Unidades Administrativas de Apoyo Técnico-Operativo adscritas a ellas, conforme a los planes y programas que establezca la persona Titular de la Dependencia correspondiente;
+
+VIII. Elaborar las evaluaciones internas de los programas dirigidos a las personas de 57 a 59 años;
+
+IX. Promover y coordinar la incorporación ordenada y eficiente de tecnologías de la información y comunicación para el buen despacho de las atribuciones a su cargo; y
+
+X. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+###### Artículo 172 Decies.
+
+Corresponde a la Dirección Ejecutiva para Adultos "B":
+
+I. Planear, promover y coordinar políticas y programas sociales que favorezcan la inclusión y el bienestar de las personas de 60 a 64 años, particularmente de los hombres en este rango de edad, a fin de reducir las desigualdades sociales;
+
+II. Promover políticas, programas y acciones sociales dirigidos a mejorar las condiciones de vida de las personas de 60 a 64 años, particularmente hombres, en colaboración con los tres órdenes de gobierno, las organizaciones sociales, grupos ciudadanos y organizaciones de la sociedad civil;
+
+III. Supervisar la elaboración, registro, seguimiento y actualización del padrón de solicitantes y de las personas beneficiarios (sic) del programa social para personas de 60 a 64 años, a cargo del gobierno de la Ciudad de México;
+
+IV. Aplicar mecanismos e indicadores para evaluar y dar seguimiento a la operación, ejecución y cumplimiento de los objetivos institucionales referentes al programa para personas de 60 a 64 años;
+
+V. Promover y prestar servicios sociales y de atención básica para personas de 60 a 64 años, en especial a los hombres en este rango de edad;
+
+VI. Implementar y dar seguimiento a los programas y acciones relacionados con la protección, cuidado, atención, desarrollo y bienestar para hombres de 60 a 64 años;
+
+VII. Coordinar la comunicación e información con diferentes entes e instituciones de los tres órdenes de gobierno para promover la protección, cuidado, atención, desarrollo y bienestar para las personas de 60 a 64 años;
+
+VIII. Orientar a los hombres de 60 a 64 años y canalizarlos a las instancias de procuración de sus derechos en coordinación con la Dirección General de Asuntos Jurídicos;
+
+IX. Promover y coordinar la incorporación ordenada y eficiente de tecnologías de la información y comunicación para el buen despacho de las atribuciones a su cargo;
+
+X. Organizar, coordinar y supervisar a las áreas responsables a su cargo para asegurar la eficiencia, eficacia y la buena administración que conduzcan al correcto y adecuado funcionamiento de la Dirección Ejecutiva;
+
+XI. Elaborar las evaluaciones internas de los programas a su cargo; y
+
+XII. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+
+Artículo 172 Undecies.- Corresponde a la Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias:
+
+I. Formular y promover políticas y programas sociales que favorezcan la inclusión, el bienestar de las personas en sus distintas etapas de vida, que reduzcan las desigualdades y eliminen las dinámicas de exclusión social de los grupos de atención prioritaria;
+
+II. Promover políticas, programas y acciones sociales dirigidos a mejorar las condiciones de vida de los grupos de atención prioritaria, en colaboración con las instancias competentes de los tres órdenes de gobierno, entes privados y la sociedad civil organizada;
+
+III. Proponer y apoyar la celebración de convenios en el ámbito de su competencia, orientados al desarrollo de los grupos de atención prioritaria, que tengan como fin propiciar la equidad e igualdad social;
+
+IV. Coordinar y orientar la instrumentación de las políticas dirigidas a niñas, niños, jóvenes y personas mayores, en condición de vulnerabilidad, abandono, situación de calle o víctima de adicciones;
+
+V. Participar en el desarrollo, instrumentación y supervisión del Sistema General de Bienestar Social de la Ciudad de México, conforme lo establece la Ley de la materia;
+
+VI. Promover y prestar servicios de asistencia y atención social a la población prioritaria en la Ciudad de México;
+
+VII. Proponer los lineamientos, normas y modelos de atención básicos que deben regir los servicios de asistencia y atención social a poblaciones prioritarias, a cargo de las Alcaldías y entes del Gobierno;
+
+VIII. Administrar y supervisar la operación de los establecimientos de prestación de servicios sociales en el ámbito de competencia de la Secretaría;
+
+IX. Promover la creación de diversos mecanismos de financiamiento público y privado que permitan fortalecer los servicios sociales, deducibles de impuestos, conforme a las disposiciones jurídicas aplicables;
+
+X. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios sociales, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras Dependencias;
+
+XI. Prestar orientación social y, en su caso, canalizar para la asistencia jurídica, a los sujetos beneficiarios de los servicios sociales;
+
+XII. Conducir la atención a las necesidades de cobertura social inmediata de la Ciudad de México, derivado de alguna contingencia, emergencia o suceso imprevisto;
+
+XIII. Supervisar a las áreas responsables a su cargo para promover la eficiencia, eficacia y la buena administración que conduzcan al correcto y adecuado funcionamiento de la Dirección Ejecutiva;
+
+XIV. Definir los mecanismos de fortalecimiento para optimizar la eficacia y eficiencia de las habilidades de las personas servidoras públicas a su cargo; y
+
+XV. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
+
 ###### Artículo 173.
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2021)</small>
-
 ###### Artículo 174.
 
-Corresponde a la Coordinación General de Inclusión Social:
-
-I. Formular, promover y ejecutar políticas y programas sociales que favorezcan la inclusión, el bienestar de todas las personas en sus distintas etapas de vida, que reduzcan las desigualdades y eliminen las dinámicas de exclusión social de los grupos de atención prioritaria;
-
-II. Promover políticas, programas y acciones sociales dirigidos a mejorar las condiciones de vida de los grupos de atención prioritaria; en colaboración con las instancias competentes del Gobierno Federal y Local, las organizaciones sociales, grupos Ciudadanos y organizaciones de la sociedad civil;
-
-III. Proponer y apoyar la celebración de convenios en el ámbito de su competencia, orientados al desarrollo de los grupos de atención prioritaria, que tengan como fin propiciar la equidad e inclusión en la sociedad;
-
-IV. Coordinar y orientar la instrumentación de las políticas dirigidas a niñas y niños, jóvenes y personas mayores, en condición de vulnerabilidad;
-
-V. Diseñar, instrumentar, supervisar y evaluar el Sistema General de Bienestar Social de la Ciudad de México, conforme lo establece la Ley de la materia;
-
-VI. Promover y prestar servicios sociales en el (sic) Ciudad de México;
-
-VII. Proponer los lineamientos, normas y modelos de atención básicos que deben regir la operación y funcionamiento de las instalaciones y demás infraestructura destinada a los servicios sociales a cargo de las Alcaldías y otros órganos del Gobierno;
-
-VIII. Administrar y operar los establecimientos de prestación de servicios sociales del gobierno del (sic) Ciudad de México;
-
-IX. Promover la creación de diversos mecanismos de financiamiento público y privado que permitan fortalecer los servicios sociales, deducibles de impuestos;
-
-> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
-
-X. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios sociales y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras Dependencias;
-
-> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
-
-XI. Prestar asistencia jurídica y orientación social a los sujetos beneficiarios de los servicios sociales;
-
-XII. (DEROGADA, G.O. 12 DE MARZO DE 2021)
-
-XIII. (DEROGADA, G.O. 12 DE MARZO DE 2021)
-
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
-
-XIV. Proponer políticas, programas y acciones sociales en materia de hospitalidad, interculturalidad, movilidad humana y atención a migrantes y sus familiares; y
-
-XV. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+(DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 ###### Artículo 175.
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
-
 ###### Artículo 176.
 
-Corresponde a la Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias:
-
-I. Coordinar y orientar la instrumentación de las políticas dirigidas a niños, jóvenes y personas mayores, en condición de abandono, situación de calle o víctimas de adicciones;
-
-II. Planear, organizar, supervisar y evaluar el Sistema General de Bienestar Social de la Ciudad de México, conforme lo establece la Ley de la materia;
-
-III. Promover y prestar servicios sociales a la población prioritaria en la Ciudad de México;
-
-IV. Proponer los lineamientos, normas y modelos de atención básicos que deben regir la operación y funcionamiento de las instalaciones y demás infraestructura destinada a la asistencia social a cargo de las Alcaldías y otros órganos del Gobierno;
-
-V. Administrar y operar los establecimientos de prestación de servicios sociales a población prioritaria del gobierno de la Ciudad de México;
-
-VI. Promover la creación de diversos mecanismos de financiamiento público y privado que permitan fortalecer a los servicios sociales, deducibles de impuestos;
-
-VII. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios sociales, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras Dependencias; y
-
-VIII. Prestar asistencia jurídica y orientación social a los beneficiarios de los servicios sociales.
+(DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 ###### Artículo 177.
 
@@ -8372,17 +8594,33 @@ II. Participar en la actualización y simplificación del marco normativo juríd
 
 III. Recibir, contestar y dar seguimiento a las demandas, recursos contenciosos, juicios de amparo, de nulidad, lesividad, civiles, penales, laborales y administrativos en los que intervenga la Secretaría; llevar un registro de los (sic) todos los juicios y recursos contenciosos en los que la Secretaría sea parte, para darle oportuno seguimiento;
 
-IV. Coadyuvar con el registro de los bienes inmuebles al cuidado y resguardo de la Secretaría de Inclusión y Bienestar Social en forma coordinada con la Dirección General de Administración;
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+
+IV. Coadyuvar con el registro de los bienes inmuebles al cuidado y resguardo de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México, en forma coordinada con la Dirección General de Administración;
 
 V. Capacitar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría, en materia de la aplicación de la Ley de Procedimiento Administrativo de la Ciudad de México y demás disposiciones jurídico-administrativas que son competencia de la propia Secretaría; y promover de manera activa, la creación de disposiciones administrativas y/o reglas de operación ante éstas;
 
 VI. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que suscriba la Secretaría y sus Unidades Administrativas, Órganos Desconcentrados adscritos y Entidades que tenga sectorizadas;
 
-VII. Llevar a cabo los estudios jurídicos para proponer modificaciones a las diversas disposiciones y ordenamientos jurídicos en materia de las atribuciones de la Secretaría; emitir opinión respecto de las consultas que le encomienden las Unidades Administrativas adscritas a la Secretaria de Inclusión y Bienestar Social; así como apoyar la difusión del Marco Normativo al personal de las Unidades Administrativas de la Secretaría;
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
 
-VIII. Sistematizar y difundir las normas jurídicas aplicables en materia de las políticas implementadas por la Secretaría, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico administrativo que incida en la esfera de los particulares; y mantener actualizados los criterios de interpretación de las disposiciones administrativas relativas al ámbito de competencia de la Secretaría; y
+VII. Llevar a cabo los estudios jurídicos para proponer modificaciones a las diversas disposiciones y ordenamientos jurídicos en materia de las atribuciones de la Secretaría; emitir opinión respecto de las consultas que le encomienden las Unidades Administrativas adscritas a la Secretaría de Bienestar e Igualdad Social de la Ciudad de México; así como apoyar la difusión del Marco Normativo al personal de las Unidades Administrativas de la Secretaría;
 
-IX. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de las Unidades Administrativas adscritas y aquellos en que resulte afectada la Secretaría.
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+
+VIII. Sistematizar y difundir las normas jurídicas aplicables en materia de las políticas implementadas por la Secretaría, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico administrativo que incida en la esfera de los particulares; y mantener actualizados los criterios de interpretación de las disposiciones administrativas relativas al ámbito de competencia de la Secretaría;
+
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+
+IX. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de las Unidades Administrativas adscritas y aquellos en que resulte afectada la Secretaría;
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2025)</small>
+
+X. Coadyuvar en la promoción, respeto, protección y difusión de los Derechos Humanos y garantías reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados e instrumentos internacionales de los que el Estado mexicano sea parte, en la Constitución de la Ciudad de México y en las normas generales y locales, con especial atención a grupos prioritarios que por su condición de vulnerabilidad así lo requieran; y
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2025)</small>
+
+XI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 178.
 
@@ -8410,43 +8648,9 @@ Artículo 181 QUATER.- (DEROGADO, G.O. 15 DE ENERO DE 2025)
 
 (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
-
 ###### Artículo 182 Bis.
 
-Corresponde a la Dirección Ejecutiva del Instituto para el Envejecimiento Digno:
-
-I. Promover instrumentos de colaboración con las instancias de la Administración Pública de la Ciudad, que propicien la atención integral de las personas mayores;
-
-II. Diseñar y operar los programas y acciones para generar una cultura del envejecimiento digno en la Ciudad;
-
-III. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas mayores;
-
-IV. Proponer ante las instancias competentes, acciones y programas de promoción de la salud de las personas mayores;
-
-V. Operar el programa de visitas médicas domiciliarias para las personas mayores;
-
-VI. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas mayores;
-
-VII. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento digno;
-
-VIII. Promover entre los sectores social y privado los programas de gobierno a favor de las personas mayores;
-
-IX. Promover ante las instancias competentes la capacitación y sensibilización de las personas servidoras públicas y el personal que atiende a las personas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
-
-X. Diseñar e instrumentar el modelo de atención para el envejecimiento digno en coordinación con las Alcaldías y Dependencias;
-
-XI. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
-
-XII. Promover el mejoramiento de las condiciones de vida de las personas mayores;
-
-XIII. Fomentar, promover y fortalecer grupos de ayuda mutua para personas mayores;
-
-XIV. Proponer la creación y funcionamiento de espacios para garantizar el bienestar colectivo de las personas mayores;
-
-XV. Orientar y canalizar a las personas mayores en la Ciudad procurando la defensa de sus derechos a través de las instancias correspondientes en coordinación con la Dirección General de Asuntos Jurídicos; y
-
-XVI. Las demás que le instruya la persona Titular de la Secretaría, y las que expresamente le atribuyen otros ordenamientos jurídicos o administrativos.
+(DEROGADO, G.O. 14 DE MARZO DE 2025)
 
 ###### Artículo 182 Ter.
 
@@ -15739,6 +15943,22 @@ SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación
 TERCERO.- Los asuntos e instrumentos jurídicos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se cancelan o se modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
 
 Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de las unidades administrativas que se eliminan o se modifican por virtud de este Decreto, se entenderán referidas a aquellas que asuman tales funciones o atribuciones.
+
+CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto se cancelan o cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+QUINTO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
+
+SEXTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los asuntos e instrumentos jurídicos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se cancelan o se modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de las unidades administrativas que se cancelan o se modifican por virtud de este Decreto, se entenderán referidas a aquellas que asuman tales funciones o atribuciones.
 
 CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto se cancelan o cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
 
