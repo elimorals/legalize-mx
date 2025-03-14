@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2024-08-16"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -1731,6 +1731,14 @@ En la reglamentación a que se refiere el párrafo anterior, se incorporarán di
 
 Los espacios públicos destinados a áreas verdes urbanas no podrán ser destinados a otro uso, ni su superficie podrá ser disminuida.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2025)</small>
+
+Para efectos de aplicación del presente ordenamiento, se entenderá por espacio público a, los espacios abiertos o predios de los asentamientos humanos destinados al use, disfrute o aprovechamiento colectivo de acceso generalizado y libre tránsito. Son considerados como bienes inmuebles de uso común en dominio del poder público, excluyendo a los destinados a un servicio público y a los bienes propios del estado cuyo use y disfrute está restringido al aparato estatal.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+ARTICULO 114 BIS.- La creación, mantenimiento, mejora y crecimiento de los espacios públicos, deberá sujetarse a lo dispuesto en la NOM-001-SEDATU-2021, Espacios Públicos en los Asentamientos Humanos, así como en la demás normatividad aplicable.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 115.
@@ -3260,3 +3268,9 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 452 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 54 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 114; ASÍ COMO LA ADICIÓN DEL ARTÍCULO 114 BIS A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
