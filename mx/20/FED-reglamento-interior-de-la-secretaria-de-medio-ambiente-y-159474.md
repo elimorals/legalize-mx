@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-159474
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-07-27"
-last_updated: "2022-07-27"
+last_updated: "2025-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-07-26"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES, PUBLICADO EN EL D.O.F. DE 14 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2025 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 27 de julio de 2022.
 
@@ -3970,3 +3972,27 @@ OCTAVO. Las autorizaciones que se hubieren expedido por las autoridades competen
 NOVENO. Cuando en términos del último párrafo del artículo 83 de este Reglamento, el auxilio que proporcione la Secretaría de Medio Ambiente y Recursos Naturales al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a 26 de julio de 2022.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Medio Ambiente y Recursos Naturales, María Luisa Albores González.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES".]
+
+PRIMERO. El presente decreto entrará en vigor el día 16 de marzo de 2025.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales, publicado el 27 de julio de 2022 en el Diario Oficial de la Federación.
+
+TERCERO. Los ordenamientos normativos que fueron emitidos con base en el reglamento interior que se abroga, continúan vigentes en lo que no se opongan con lo previsto en este reglamento que se expide, hasta en tanto se emiten los nuevos ordenamientos que los sustituyan.
+
+CUARTO. Las transferencias de atribuciones y funciones, así como de recursos humanos, materiales y financieros que se deban efectuar a consecuencia de la expedición de este reglamento deben llevarse bajo la vigilancia de la Unidad de Administración y Finanzas de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+Estas transferencias deben incluir las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como a las de recursos humanos y de activos patrimoniales, según corresponda, las cuales, en su caso, deben realizarse conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+QUINTO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este decreto, y que conforme a este deban pasar de una unidad administrativa a otra u otras, deben continuar su trámite y ser resueltos por aquella o aquellas a las que este ordenamiento les atribuya la competencia respectiva.
+
+Los procedimientos y recursos administrativos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución se sustanciarán conforme a las disposiciones vigentes en el momento en que se iniciaron.
+
+SEXTO. Las referencias y atribuciones que se hagan y se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría de Medio Ambiente y Recursos Naturales y de sus órganos administrativo (sic) desconcentrados que desaparecen o cambien de denominación por virtud del presente reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme a este mismo ordenamiento.
+
+SÉPTIMO. Las autorizaciones que se hayan expedido por las autoridades competentes, a la fecha de entrada en vigor de este reglamento, continuarán vigentes en los términos y condiciones en que fueron expedidas.
