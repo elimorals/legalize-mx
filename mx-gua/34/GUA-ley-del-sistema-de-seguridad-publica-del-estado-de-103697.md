@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2025-01-14"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -123,7 +123,13 @@ V. Programa Rector: el conjunto de contenidos encaminados a la profesionalizaci�
 
 VI. Sistema: el Sistema Estatal de Seguridad Pública; y
 
-VII Secretaría: la Secretaría de Seguridad Pública.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+VII. Secretaría: la Secretaría de Seguridad y Paz; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2025)</small>
+
+VIII. Unidad de Atención a la Violencia de Género: Institución policial especializada en atender y prevenir la violencia y comisión de delitos que afectan a las mujeres en cualquier ámbito.
 
 ## Título Segundo. Autoridades y competencias en materia de Seguridad Pública
 
@@ -135,13 +141,19 @@ Autoridades Estatales
 
 Son autoridades en materia de seguridad pública en el ámbito estatal, las siguientes:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+I. La persona titular del Poder Ejecutivo;
 
 II. La Secretaría de Gobierno;
 
-III. La Secretaría de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
 
-IV. La Procuraduría General de Justicia del Estado.
+III. La Secretaría; y
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+
+IV. La Fiscalía General del Estado de Guanajuato.
 
 Autoridades Municipales
 
@@ -178,6 +190,10 @@ V. Los cuerpos estatales de Seguridad Penitenciaria;
 VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2018)
 
 VII. Los cuerpos estatales de Seguridad para Adolescentes.
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2025)</small>
+
+VIII. La Unidad de Atención a la Violencia de Género.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -1137,11 +1153,29 @@ Son derechos de los integrantes de las Instituciones de Seguridad Pública los p
 
 Obligaciones de los integrantes de las Instituciones de Seguridad Pública
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2025)</small>
+
 ###### Artículo 44.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública tendrán las obligaciones establecidas en la Ley del Servicio Profesional.
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos y perspectiva de género, los integrantes de las Instituciones de Seguridad Pública tendrán las obligaciones establecidas en la Ley del Servicio Profesional de Carrera Policial del Estado y Municipios de Guanajuato.
 
-La formación y el desempeño de los integrantes de las Instituciones Policiales se regirán por una doctrina policial fundada en el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente a la perspectiva de género.
+La formación y el desempeño de los integrantes de las Instituciones Policiales se regirán por una doctrina policial fundada en los siguientes principios:
+
+I. Servicio a la sociedad: Priorizar la protección y bienestar de todas las personas, con énfasis en las mujeres, adolescentes y niñas, reconociendo las condiciones de vulnerabilidad y desigualdad que enfrentan;
+
+II. Disciplina y ética profesional: Actuar con integridad, rectitud y apego a los valores democráticos y de justicia social;
+
+III. Respeto irrestricto a los derechos humanos: Garantizar la protección y promoción de los derechos fundamentales, con especial atención a la dignidad y seguridad de las mujeres;
+
+IV. Imperio de la ley: Cumplir y hacer cumplir las normas jurídicas con imparcialidad, garantizando el acceso a la justicia para todas las víctimas de la delincuencia;
+
+V. Perspectiva de género: Incorporar un enfoque que visibilice y combata las desigualdades estructurales y las formas de violencia basadas en el género, asegurando acciones concretas para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VI. Empatía y sensibilidad: Actuar con humanidad, sensibilidad y profesionalismo en la atención a víctimas, evitando cualquier forma de revictimización o violencia institucional: y
+
+VII. Progresividad y pro persona: Garantizar la expansión continua de los derechos de las personas, con especial atención a mujeres, adolescentes y niñas, asegurando su universalidad y aplicando siempre el principio que otorgue mayor protección.
+
+Las Instituciones Policiales deberán adoptar mecanismos permanentes de capacitación y evaluación que aseguren la integración de estos valores y principios en su quehacer diario, fomentando una cultura organizacional comprometida con la igualdad sustantiva, la justicia y la paz social.
 
 ###### Artículo 45.
 
@@ -1562,6 +1596,30 @@ Policía ministerial y especializada en adolescentes
 ###### Artículo 69.
 
 La policía ministerial y la especializada en adolescentes se sujetarán a lo dispuesto en la Ley Orgánica del Ministerio Público del Estado de Guanajuato, quedando a cargo de la Procuraduría General de Justicia la aplicación de las normas, supervisión y operación de los procedimientos relativos a su desarrollo policial.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+Unidad de Atención a la Violencia de Género
+
+###### Artículo 69
+
+1. La Unidad de Atención a la Violencia de Género se encontrará adscrita a la Secretaría de Seguridad y Paz, y contará con las siguientes atribuciones:
+
+I. Desarrollar y ejecutar protocolos de prevención y atención inmediata para mujeres, adolescentes y niñas víctimas de violencia de género, brindando un primer contacto sensible, efectivo y con perspectiva de género;
+
+II. Implementar medidas de seguimiento y protección para las víctimas de violencia de género, asegurando la continuidad en el acompañamiento y medidas preventivas, que garanticen su seguridad, de conformidad con la normativa en la materia;
+
+III. Coordinar la atención en situaciones de emergencia para las mujeres víctimas de violencia de género, implementando mecanismos de reacción rápida y segura para la protección de la vida e integridad de las afectadas;
+
+IV. Servir como vínculo de atención entre las mujeres, adolescentes y niñas que viven violencia de género y las instancias de procuración y administración de justicia;
+
+V. Proponer y colaborar en la creación y difusión de campañas de concientización sobre la violencia de género que fortalezcan la cultura de la denuncia, la prevención y sensibilización en la sociedad, en coordinación con otras áreas gubernamentales y de la sociedad civil;
+
+VI. Dar a conocer a las víctimas sus derechos e informarles de las instituciones que proporcionan ayuda psicológica y legal y canalizarlas para su debida atención;
+
+VII. Dar atención, seguimiento y cumplimiento a las órdenes de protección que dicten las autoridades competentes en esa materia, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Guanajuato; y
+
+VIII. Las demás que les sean conferidas por las leyes, reglamentos y demás disposiciones aplicables.
 
 ## Título Séptimo. Carrera y Desarrollo Policial
 
@@ -2995,17 +3053,25 @@ III. Intervención en grandes concentraciones de masas, espectáculos públicos 
 
 IV. Aquellas actividades y estrategias aplicadas en el cumplimiento de la función de seguridad pública en las que por sus capacidades y habilidades les sea permitido participar.
 
-### Capítulo I. Medidas Disciplinarias y Sanciones
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE MARZO DE 2025)</small>
 
-Medidas disciplinarias
+### Capítulo VI. Grupo Especial de Protección a Personas Defensoras de Derechos Humanos y Periodistas
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2025)</small>
+
+Grupo Especial de Protección a Personas Defensoras de Derechos Humanos y Periodistas
+
+###### Artículo 202
+
+8. La Secretaría contará con un cuerpo de policía especializado para atender las medidas de protección y medidas urgentes de protección determinadas por el Consejo Estatal de Protección a Personas Defensoras de Derechos Humanos y Periodistas de Guanajuato.
+
+El Grupo Especial de Protección a Personas Defensoras de Derechos Humanos y Periodistas informará al Consejo Estatal de Protección a Personas Defensoras de Derechos humanos y Periodistas de Guanajuato, a través de la Secretaría a (sic) Técnica, la atención y seguimiento a las medidas otorgadas.
 
 ## Título Décimo Cuarto. Responsabilidades por Incumplimiento de la Ley
 
-### Capítulo II. Faltas
+### Capítulo I. Medidas Disciplinarias y Sanciones
 
-Faltas administrativas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+Medidas disciplinarias
 
 ###### Artículo 203.
 
@@ -3054,6 +3120,12 @@ Recurso contra las resoluciones emitidas por el Consejo de Honor y Justicia
 ###### Artículo 208.
 
 Contra las resoluciones emitidas por los Consejo de Honor y Justicia, únicamente procederá el juicio de nulidad ante la autoridad administrativa correspondiente.
+
+### Capítulo II. Faltas
+
+Faltas administrativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 209.
 
@@ -3370,3 +3442,25 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Plazo para implementación
 
 Artículo Segundo. Las instituciones policiales contarán con un plazo de 180 días naturales contados a partir de la publicación del presente Decreto para la implementación del modelo.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 60 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, FRACCIÓN VII; 6 FRACCIONES I, III Y IV; Y 44; Y SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 5, LA FRACCIÓN VIII AL ARTÍCULO 8; Y UN ARTÍCULO 69-1, TODOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 19, EN SU EPÍGRAFE, PRIMER PÁRRAFO Y FRACCIÓN III; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 19, REUBICANDO EL CONTENIDO DE LA FRACCIÓN VII EN LA VIII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Plazo para adecuaciones normativas
+
+Artículo Segundo. A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado adecuará las disposiciones normativas en un plazo que no exceda de sesenta días.
+
+P.O. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 61 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO VI DENOMINADO “GRUPO ESPECIAL DE PROTECCIÓN A PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIÓDISTAS” INTEGRADO POR EL ARTÍCULO 202-8, AL TÍTULO DÉCIMO TERCERO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado adecuará las disposiciones reglamentarias y normativas en un plazo que no exceda de noventa días.
