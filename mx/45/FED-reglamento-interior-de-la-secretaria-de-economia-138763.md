@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-138763"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-17"
-last_updated: "2021-04-12"
+last_updated: "2025-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138763&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-10-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 17 de octubre de 2019.
 
@@ -127,9 +127,9 @@ e) Coordinación Jurídica Internacional;
 
 14. Dirección General de Vinculación con el Sector Coordinado;
 
-> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
 
-14 Bis. Dirección General de Coordinación Territorial de Trámites y Servicios de Economía;
+14 Bis. Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar;
 
 15. Dirección General de Facilitación Comercial y de Comercio Exterior;
 
@@ -219,19 +219,23 @@ a) Coordinación del Registro Nacional de Inversiones Extranjeras;
 
 47. Oficina de Enlace Legislativo, y
 
-48. Oficinas de Representación en las entidades federativas;
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
 
-B. El órgano administrativo desconcentrado, Comisión Nacional de Mejora Regulatoria, y
+48. Centros de Fomento Económico para el Bienestar en las entidades Federativas;
 
-> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+B. (DEROGADO, D.O.F. 14 DE MARZO DE 2025)
 
-C. Unidades Subalternas, las direcciones generales, coordinaciones, direcciones y subdirecciones de área, jefaturas de departamento, y demás áreas administrativas que auxiliarán a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría en el ejercicio de sus atribuciones; las cuales deberán figurar en la estructura organizacional autorizada a la Secretaría observando las disposiciones jurídicas aplicables, cuya adscripción y funciones serán establecidas en el Manual de Organización General de la Secretaría o, en su caso, en los manuales de organización, de procedimientos o de servicios al público, respectivos.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
+
+C. Unidades Subalternas, las direcciones generales, coordinaciones, direcciones y subdirecciones de área, jefaturas de departamento, y demás áreas administrativas que auxiliarán a las unidades administrativas de la Secretaría en el ejercicio de sus atribuciones; las cuales deberán figurar en la estructura organizacional autorizada a la Secretaría observando las disposiciones jurídicas aplicables, cuya adscripción y funciones serán establecidas en el Manual de Organización General de la Secretaría o, en su caso, en los manuales de organización, de procedimientos o de servicios al público, respectivos.
 
 ###### ARTÍCULO 3.
 
 La Secretaría planeará y conducirá sus actividades con sujeción a lo dispuesto en los instrumentos que se emitan en el marco del Sistema Nacional de Planeación Democrática y con base en las políticas que para el logro de los objetivos y prioridades del desarrollo nacional determine el Presidente de los Estados Unidos Mexicanos.
 
-Los servidores públicos, las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría referidos en el artículo 2 del presente Reglamento, tendrán su sede en la Ciudad de México, salvo que exista Acuerdo publicado en el Diario Oficial de la Federación que establezca otra sede, y ejercerán sus atribuciones en todo el territorio nacional; con excepción de las Oficinas de Representación en las entidades federativas, cuyas atribuciones serán ejercidas dentro de la circunscripción territorial que fije la persona Titular de la Secretaría mediante Acuerdos que publique en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
+
+Las personas servidoras públicas y las unidades administrativas de la Secretaría referidos en el artículo 2 del presente Reglamento, tendrán su sede en la Ciudad de México, salvo que exista Acuerdo publicado en el Diario Oficial de la Federación que establezca otra sede, y ejercerán sus atribuciones en todo el territorio nacional; con excepción de los Centros de Fomento Económico para el Bienestar en las entidades federativas, cuyas atribuciones serán ejercidas dentro de la circunscripción territorial que fije la persona Titular de la Secretaría mediante Acuerdos que publique en el Diario Oficial de la Federación.
 
 Las acciones de fomento, de diseño de estrategias para la celebración de instrumentos internacionales, y de enlace con organismos internacionales en materia de comercio exterior, previstas en el presente Reglamento, se realizarán con la participación que las disposiciones legales prevén para la Secretaría de Relaciones Exteriores.
 
@@ -267,7 +271,9 @@ X. Aprobar el anteproyecto de presupuesto de egresos de la Secretaría e integra
 
 XI. Coordinar, en el ámbito de su competencia, a los órganos nacionales establecidos de conformidad con las disposiciones aplicables de los tratados comerciales internacionales de los que México sea parte;
 
-XII. Crear, suprimir o modificar Oficinas de Representación en las entidades federativas o cualquier otra unidad de la Secretaría con la circunscripción territorial que determine, mediante acuerdos que serán publicados en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XII. Crear, suprimir o modificar los Centros de Fomento Económico para el Bienestar en las entidades federativas o cualquier otra unidad de la Secretaría con la circunscripción territorial que determine, mediante acuerdos que serán publicados en el Diario Oficial de la Federación;
 
 XIII. Ordenar la creación de las comisiones internas, transitorias o permanentes que se requieran para el mejor despacho de los asuntos a su cargo, así como designar a sus integrantes y presidirlas cuando lo estime conveniente;
 
@@ -291,7 +297,9 @@ XXI. Fijar la posición y las acciones a seguir de la representación de México
 
 XXII. Designar a los servidores públicos del nivel jerárquico inmediato inferior a ella, salvo los nombramientos que corresponden directamente a la persona Titular del Ejecutivo Federal o a otra autoridad por disposición expresa en la ley, y ordenar la expedición de los nombramientos correspondientes;
 
-XXIII. Resolver los recursos administrativos que se interpongan en contra de sus resoluciones, así como las dictadas por las unidades administrativas y órganos administrativos desconcentrados que dependan directamente de la persona Titular de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XXIII. Resolver los recursos administrativos que se interpongan en contra de sus resoluciones, así como las dictadas por las unidades administrativas que dependan directamente de la persona Titular de la Secretaría, y
 
 XXIV. Las demás facultades indelegables por disposición legal y aquellas que con tal carácter le confiera el Presidente de los Estados Unidos Mexicanos.
 
@@ -309,7 +317,9 @@ I. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las uni
 
 II. Conocer la operación y evaluar los resultados de las entidades paraestatales sectorizadas, en los términos de la legislación aplicable;
 
-III. Coordinar las labores encomendadas a su cargo, así como sus acciones con los titulares de las otras unidades administrativas de la Secretaría, y requerir de las Oficinas de Representación en las entidades federativas la colaboración necesaria para el óptimo desarrollo de sus funciones;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+III. Coordinar las labores encomendadas a su cargo, así como sus acciones con las personas titulares de las otras unidades administrativas de la Secretaría, y requerir de los Centros de Fomento Económico para el Bienestar en las entidades federativas la colaboración necesaria para el óptimo desarrollo de sus funciones;
 
 IV. Acordar con la persona Titular de la Secretaría el despacho de los asuntos encomendados a las unidades administrativas adscritas a su responsabilidad e informarle oportunamente sobre los mismos;
 
@@ -429,7 +439,9 @@ VII. Suscribir los contratos, convenios y demás instrumentos que permitan dar c
 
 VIII. Orientar técnicamente, en asuntos de su competencia, a los servidores públicos de la Secretaría;
 
-IX. Coordinar sus actividades con otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría, con dependencias y entidades de la Administración Pública Federal, así como con Empresas Productivas del Estado, cuando así lo requieran para el mejor funcionamiento de la Dependencia;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IX. Coordinar sus actividades con otras unidades administrativas de la Secretaría, con dependencias y entidades de la Administración Pública Federal, así como con empresas públicas del Estado, cuando así lo requieran para el mejor funcionamiento de la Dependencia;
 
 X. Supervisar que se cumpla con las disposiciones jurídicas en todos los asuntos cuya atención les corresponda;
 
@@ -437,7 +449,9 @@ XI. Resolver los recursos administrativos que se interpongan en contra de resolu
 
 XII. Imponer las sanciones laborales a que se haga acreedor el personal a su cargo, en los términos previstos en las Condiciones Generales de Trabajo y demás disposiciones jurídicas aplicables, previa opinión que emita la Unidad de Apoyo Jurídico;
 
-XIII. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las dependencias y entidades de la Administración Pública Federal, o por las unidades administrativas y órganos administrativos desconcentrados de la propia Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XIII. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las dependencias y entidades de la Administración Pública Federal, o por las unidades administrativas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
 XIV. Expedir copias certificadas de los documentos que obren en los archivos de la unidad administrativa a su cargo, incluyendo archivos y documentos electrónicos;
 
@@ -477,15 +491,21 @@ XXIX. Las demás que les atribuyan las disposiciones legales o reglamentarias, l
 
 La Unidad de Administración y Finanzas tiene las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-I. Dirigir, regular y evaluar, de conformidad con las disposiciones aplicables y de acuerdo con el modelo organizacional básico establecido por la Secretaría de Hacienda y Crédito Público, las políticas, normas, criterios, lineamientos, sistemas y procesos para la administración de los recursos humanos, materiales, de archivos, contabilidad, financieros y de tecnologías de la información de las unidades administrativas, de los órganos administrativos desconcentrados y de los entes que conforman el sector paraestatal coordinado por la Secretaría;
+I. Dirigir, regular y evaluar, de conformidad con las disposiciones aplicables y de acuerdo con el modelo organizacional básico establecido por la Secretaría de Hacienda y Crédito Público, las políticas, normas, criterios, lineamientos, sistemas y procesos para la administración de los recursos humanos, materiales, de archivos, contabilidad, financieros y de tecnologías de la información de las unidades administrativas y de los entes que conforman el sector paraestatal coordinado por la Secretaría;
 
-II. Promover y ejecutar las estrategias, lineamientos, criterios y procesos que defina la Secretaría de Hacienda y Crédito Público, u otra autoridad competente, a las que se deban sujetar las unidades administrativas y sus órganos administrativos desconcentrados, así como orientar y coordinar las acciones del sector coordinado por la Secretaría cuando corresponda, en relación con el Plan Nacional del Desarrollo y los programas que se deriven del mismo, así como con los programas de austeridad y disciplina hacendaria;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-III. Coordinar las actividades de programación, presupuesto y gasto de la Unidad, el de las unidades administrativas que le estén adscritas, y las demás vinculadas con su competencia, en relación con las unidades administrativas de la Secretaría, los órganos administrativos desconcentrados y las entidades del sector bajo la coordinación de la Secretaría;
+II. Promover y ejecutar las estrategias, lineamientos, criterios y procesos que defina la Secretaría de Hacienda y Crédito Público, u otra autoridad competente, a las que se deban sujetar las unidades administrativas, así como orientar y coordinar las acciones del sector coordinado por la Secretaría cuando corresponda, en relación con el Plan Nacional del Desarrollo y los programas que se deriven del mismo, así como con los programas de austeridad y disciplina hacendaria;
 
-IV. Coordinar la integración de la información de la dependencia y del sector coordinado por esta, requerida por la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público, u otra autoridad competente;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+III. Coordinar las actividades de programación, presupuesto y gasto de la Unidad, el de las unidades administrativas que le estén adscritas, y las demás vinculadas con su competencia, en relación con las unidades administrativas de la Secretaría, y las entidades del sector bajo la coordinación de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IV. Coordinar la integración de la información de la dependencia y del sector coordinado por esta, requerida por las unidades administrativas de las secretarías de Hacienda y Crédito Público, y Anticorrupción y Buen Gobierno, u otra autoridad competente;
 
 > <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
@@ -497,7 +517,9 @@ VII. Someter a la consideración de la persona Titular de la Secretaría, previa
 
 VIII. Conducir las relaciones laborales de la Secretaría y vigilar la aplicación de la normativa en la materia;
 
-IX. Proponer a la persona Titular de la Secretaría, previa validación de la persona Titular de la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público, las Condiciones Generales de Trabajo, así como vigilar su cumplimiento y difundirlas entre los servidores públicos de la Secretaría, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IX. Proponer a la persona Titular de la Secretaría, previa validación de la Secretaría de Hacienda y Crédito Público y, en su caso, opinión de la Secretaría Anticorrupción y Buen Gobierno, las Condiciones Generales de Trabajo, así como vigilar su cumplimiento y difundirlas entre las personas servidoras públicas de la Secretaría, de conformidad con las disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
@@ -509,9 +531,13 @@ XI. Presidir los comités de adquisiciones, arrendamientos y servicios, obra pú
 
 XII. Vigilar que las adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con esta, además de las enajenaciones de la Secretaría, cumplan con las disposiciones aplicables y, en su caso, suscribir los contratos en las materias señaladas y demás documentos que impliquen actos de administración, de conformidad con las disposiciones aplicables;
 
-XIII. Dirigir los procesos de adquisición y suministro de bienes y servicios específicos necesarios para la Unidad, así como de aquellos orientados al desarrollo de los programas que ejecuten las unidades administrativas y los órganos administrativos desconcentrados, así como, a petición de parte, orientar en estas materias al sector coordinado de la Secretaría, de conformidad con las disposiciones jurídicas aplicables, salvo aquellos procesos que coordine y ejecute de manera consolidada la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XIV. Informar a la persona Titular de la Secretaría y a la persona Titular de la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público, respecto de los procesos de adquisición y suministro de bienes y servicios específicos a realizar, así como de aquellos que se hayan ejecutado para las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
+XIII. Dirigir los procesos de adquisición y suministro de bienes y servicios específicos necesarios para la Unidad, así como de aquellos orientados al desarrollo de los programas que ejecuten las unidades administrativas, así como, a petición de parte, orientar en estas materias al sector coordinado de la Secretaría, de conformidad con las disposiciones jurídicas aplicables, salvo aquellos procesos que coordine y ejecute de manera consolidada la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XIV. Informar a la persona Titular de la Secretaría y a las secretarías de Hacienda y Crédito Público, y Anticorrupción y Buen Gobierno, respecto de los procesos de adquisición y suministro de bienes y servicios específicos a realizar, así como de aquellos que se hayan ejecutado para las unidades administrativas de la Secretaría;
 
 XV. Suscribir contratos, convenios, acuerdos y demás documentos que impliquen actos de administración o dominio, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -541,7 +567,9 @@ XXV. Promover y propiciar el cumplimiento al Código de Ética de los servidores
 
 XXVI. Dirigir las acciones orientadas a incorporar la perspectiva de género en la cultura organizacional y en el diseño, planeación y ejecución de los programas a cargo de la Secretaría y orientar lo procedente en los términos de sus atribuciones de coordinación sectorial, y
 
-XXVII. Las demás que le defina la persona Titular de la Secretaría, la persona Titular de la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público o le confieran las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XXVII. Las demás que le defina la persona Titular de la Secretaría, o bien, las secretarías de Hacienda y Crédito Público, y Anticorrupción y Buen Gobierno, o le confieran las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
@@ -551,7 +579,9 @@ Habrá una coordinación administrativa para la Oficina de la persona Titular de
 
 La Unidad de Apoyo Jurídico tiene las atribuciones siguientes:
 
-I. Apoyar jurídicamente a la persona Titular de la Secretaría y a las unidades administrativas de esta y actuar como órgano de consulta de las mismas en sus actividades jurídicas, así como de los órganos administrativos desconcentrados y las entidades coordinadas por la Secretaría a petición de parte, sin perjuicio de las atribuciones conferidas específicamente a otras unidades administrativas en este Reglamento;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+I. Apoyar jurídicamente a la persona Titular de la Secretaría y a las unidades administrativas de esta y actuar como órgano de consulta de las mismas en sus actividades jurídicas, así como de las entidades coordinadas por la Secretaría a petición de parte, sin perjuicio de las atribuciones conferidas específicamente a otras unidades administrativas en este Reglamento;
 
 II. Coordinar, al interior de la Dependencia, la formulación y revisión de los anteproyectos y proyectos de iniciativas de leyes o decretos legislativos, así como de los reglamentos, decretos, acuerdos y demás disposiciones de observancia general, en las materias competencia de la Secretaría y del sector paraestatal coordinado por esta;
 
@@ -559,9 +589,13 @@ III. Emitir opinión jurídica, escuchando, en su caso, a las áreas técnicas c
 
 IV. Coordinar las acciones ante el Diario Oficial de la Federación para la publicación de las disposiciones normativas de carácter general o de carácter interno que expida o genere la Secretaría, y llevar la compilación de los mismos;
 
-V. Determinar el criterio que debe prevalecer al interior de la Secretaría cuando existan discrepancias de interpretación normativa entre dos o más unidades administrativas, sus órganos administrativos desconcentrados, dos o más entidades paraestatales sectorizadas a esta, o bien, entre unas y otras;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-VI. Interpretar, para efectos administrativos, las disposiciones jurídicas en las materias competencia de la Secretaría y del sector paraestatal coordinado por esta, así como establecer criterios jurídicos generales de observancia obligatoria para las unidades administrativas y órganos administrativos desconcentrados de la misma Dependencia;
+V. Determinar el criterio que debe prevalecer al interior de la Secretaría cuando existan discrepancias de interpretación normativa entre dos o más unidades administrativas, dos o más entidades paraestatales sectorizadas a esta, o bien, entre unas y otras;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+VI. Interpretar, para efectos administrativos, las disposiciones jurídicas en las materias competencia de la Secretaría y del sector paraestatal coordinado por esta, así como establecer criterios jurídicos generales de observancia obligatoria para sus unidades administrativas;
 
 VII. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría representar a la persona Titular del Ejecutivo Federal, en los términos establecidos en la propia Ley en cita, así como intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en las que se le otorgue a la persona Titular de la Secretaría la representación del Presidente de la República, en términos de la normativa aplicable;
 
@@ -609,19 +643,27 @@ XXVI. Autorizar la constitución de cámaras empresariales y sus confederaciones
 
 XXVII. Aprobar el uso del término cámara o confederación en las denominaciones o razones sociales de personas morales distintas a las mencionadas instituciones de interés público;
 
-XXVIII. Representar jurídicamente a la Secretaría para el efecto de dar trámite a los asuntos relacionados con la propiedad industrial y los derechos de autor ante las autoridades competentes, ejercer el resguardo y custodia de los títulos y demás documentos en los que se consignen los derechos de la Secretaría en ambas materias, así como autorizar y registrar el uso de logotipos distintivos por parte de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XXVIII. Representar jurídicamente a la Secretaría para el efecto de dar trámite a los asuntos relacionados con la propiedad industrial y los derechos de autor ante las autoridades competentes, ejercer el resguardo y custodia de los títulos y demás documentos en los que se consignen los derechos de la Secretaría en ambas materias, así como autorizar y registrar el uso de logotipos distintivos por parte de las unidades administrativas de la Secretaría;
 
 XXIX. Realizar las funciones de Titular de la Unidad de Transparencia de la Secretaría, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y de las demás disposiciones jurídicas aplicables en la materia;
 
-XXX. Fomentar acciones en el ámbito de la competencia de la Secretaría para fortalecer la promoción y defensa de los derechos humanos, así como orientar a las diversas unidades administrativas y órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta, para que, en su caso, realicen modificaciones de las disposiciones reglamentarias, así como para la implementación de prácticas administrativas que permitan garantizar el respeto de los derechos humanos;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XXXI. Expedir los lineamientos, criterios, parámetros y procedimientos internos, que permitan el desarrollo de la función jurídica de la Secretaría, así como de las funciones a cargo de las diversas áreas relacionadas con temas jurídicos de la Secretaría, incluyendo la de sus órganos administrativos desconcentrados, e instruir, en su caso, la atención de asuntos jurídicos a estos;
+XXX. Fomentar acciones en el ámbito de la competencia de la Secretaría para fortalecer la promoción y defensa de los derechos humanos, así como orientar a las diversas unidades administrativas de la Secretaría y de las entidades paraestatales sectorizadas a esta, para que, en su caso, realicen modificaciones de las disposiciones reglamentarias, así como para la implementación de prácticas administrativas que permitan garantizar el respeto de los derechos humanos;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XXXI. Expedir los lineamientos, criterios, parámetros y procedimientos internos, que permitan el desarrollo de la función jurídica de la Secretaría, así como de las funciones a cargo de las diversas áreas relacionadas con temas jurídicos de la Secretaría, e instruir, en su caso, la atención de asuntos jurídicos a estos;
 
 XXXII. Asesorar a las unidades administrativas de la Secretaría, a petición de estas, en la elaboración y modificación de los convenios y contratos que requieren celebrar, así como fungir como apoyo técnico jurídico del Comité de Adquisiciones, Arrendamientos y Servicios de dicha Secretaría;
 
 XXXIII. Delegar, previa aceptación de la persona Titular de la Secretaría, las atribuciones indispensables para la adecuada atención de las funciones que tiene encomendadas, mediante acuerdo que se publique en el Diario Oficial de la Federación;
 
-XXXIV. Dirigir la compilación, sistematización y difusión de las normas jurídicas relacionadas con las atribuciones de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XXXIV. Dirigir la compilación, sistematización y difusión de las normas jurídicas relacionadas con las atribuciones de las unidades administrativas de la Secretaría;
 
 XXXV. Emitir opinión sobre las formalidades y requisitos jurídicos que deben contener las actas administrativas, los oficios de sanciones laborales, notificaciones, visitas de inspección y, en general, los demás documentos que se utilicen en forma reiterada por las unidades administrativas de la Secretaría en el ejercicio de sus atribuciones;
 
@@ -641,9 +683,13 @@ I. Promover y coordinar la ordenación racional y sistemática de las acciones y
 
 II. Definir los criterios metodológicos para la evaluación de resultados de las entidades paraestatales sectorizadas a la Secretaría, que realizarán las Subsecretarías conforme al marco competencial a que se refiere el artículo 7, fracción II de este Reglamento;
 
-III. Orientar y apoyar a las unidades administrativas y a los órganos administrativos desconcentrados de la Secretaría, así como a las entidades paraestatales sectorizadas a esta, en el desarrollo de procesos de planeación y seguimiento, orientados a la elaboración de programas y proyectos para asegurar el cumplimiento de sus funciones;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-IV. Apoyar técnicamente a las unidades administrativas y a los órganos administrativos desconcentrados de la Secretaría, así como a las entidades paraestatales sectorizadas a esta, en la elaboración y seguimiento de indicadores de resultados, y gestión de sus programas, con base en los lineamientos específicos que para tal efecto emitan las instancias competentes;
+III. Orientar y apoyar a las unidades administrativas de la Secretaría, así como a las entidades paraestatales sectorizadas a esta, en el desarrollo de procesos de planeación y seguimiento, orientados a la elaboración de programas y proyectos para asegurar el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IV. Apoyar técnicamente a las unidades administrativas de la Secretaría, así como a las entidades paraestatales sectorizadas a esta, en la elaboración y seguimiento de indicadores de resultados, y gestión de sus programas, con base en los lineamientos específicos que para tal efecto emitan las instancias competentes;
 
 V. Diseñar y someter a consideración de la persona Titular de la Secretaría, propuestas de políticas, programas, proyectos y acciones para el fomento al desarrollo económico, así como propuestas de adecuaciones a los ya existentes y, en su caso, de mecanismos de vinculación entre los mismos;
 
@@ -657,21 +703,33 @@ IX. Orientar y apoyar a las entidades paraestatales sectorizadas a la Secretarí
 
 X. Dirigir el proceso, así como establecer los criterios para el diseño y elaboración de las reglas de operación o lineamientos de los programas presupuestarios que entregan apoyos provenientes de subsidios, y emitir opiniones técnicas en la materia;
 
-XI. Coordinar con las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, y con las entidades paraestatales sectorizadas a esta, el análisis, integración y difusión, según corresponda, de los informes oficiales competencia de la Secretaría sobre el grado de avance y cumplimiento de los objetivos y metas de la planeación nacional;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XI. Coordinar con las unidades administrativas de la Secretaría, y con las entidades paraestatales sectorizadas a esta, el análisis, integración y difusión, según corresponda, de los informes oficiales competencia de la Secretaría sobre el grado de avance y cumplimiento de los objetivos y metas de la planeación nacional;
 
 XII. Apoyar a la Unidad de Administración y Finanzas en las actividades de planeación y evaluación relacionadas con el proceso de programación y presupuestación anual de la Secretaría, con base en lineamientos específicos que para tal efecto emitan las instancias competentes;
 
 XIII. Realizar análisis sobre tendencias socioeconómicas y demográficas, que inciden sobre el desarrollo económico a mediano y largo plazo;
 
-XIV. Coordinar el diseño de los indicadores de desempeño de las políticas y programas a cargo de las unidades administrativas de la Secretaría y sus órganos administrativos desconcentrados, así como apoyar a las entidades paraestatales coordinadas por esta en el diseño de indicadores de desempeño;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XV. Planear los mecanismos de monitoreo y evaluación externa de políticas, acciones y programas presupuestarios operados por las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría;
+XIV. Coordinar el diseño de los indicadores de desempeño de las políticas y programas a cargo de las unidades administrativas de la Secretaría, así como apoyar a las entidades paraestatales coordinadas por esta en el diseño de indicadores de desempeño;
 
-XVI. Integrar en una plataforma tecnológica la información necesaria acerca de la operación, desempeño y resultados de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, y presentarla periódicamente a consideración de la persona Titular de la Secretaría y las personas Titulares de las Subsecretarías para coadyuvar con el proceso de toma de decisiones estratégicas;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XVII. Promover las políticas, programas y acciones a cargo de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría y realizar estudios relativos a los resultados e impacto de estos;
+XV. Planear los mecanismos de monitoreo y evaluación externa de políticas, acciones y programas presupuestarios operados por las unidades administrativas de la Secretaría;
 
-XVIII. Promover la suscripción de convenios y acuerdos con dependencias y organismos públicos de los tres órdenes de gobierno, así como con representantes de los sectores privado, social y de otra índole, que tengan por objeto el desarrollo de procesos y actividades de evaluación de políticas, programas y acciones a cargo de las unidades administrativas, órganos administrativos desconcentrados y entidades paraestatales sectorizadas a la Secretaría;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XVI. Integrar en una plataforma tecnológica la información necesaria acerca de la operación, desempeño y resultados de las unidades administrativas de la Secretaría, y presentarla periódicamente a consideración de la persona Titular de la Secretaría y las personas Titulares de las Subsecretarías para coadyuvar con el proceso de toma de decisiones estratégicas;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XVII. Promover las políticas, programas y acciones a cargo de las unidades administrativas de la Secretaría y realizar estudios relativos a los resultados e impacto de estos;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XVIII. Promover la suscripción de convenios y acuerdos con dependencias y organismos públicos de los tres órdenes de gobierno, así como con representantes de los sectores privado, social y de otra índole, que tengan por objeto el desarrollo de procesos y actividades de evaluación de políticas, programas y acciones a cargo de las unidades administrativas, y entidades paraestatales sectorizadas a la Secretaría;
 
 XIX. Promover la realización de cursos, seminarios y programas en los que se difunda el conocimiento sobre la evaluación y monitoreo de programas de fomento al desarrollo económico;
 
@@ -685,13 +743,17 @@ La persona Titular de la Unidad de Prospectiva, Planeación y Evaluación será 
 
 a) La Dirección General de Planeación y Evaluación, respecto del ejercicio de las facultades establecidas en las fracciones I, II, III, V, VI, VIII, XII, XIII, XIV, XV, XVII y XXI de este artículo, en relación con los objetivos, metas, estrategias y prioridades para la evaluación institucional de los programas y proyectos de la Secretaría, en apego a las disposiciones jurídicas aplicables;
 
-b) La Dirección General de Innovación de Trámites, respecto del ejercicio de las facultades establecidas en las fracciones XVI, XIX y XX de este artículo; sin menoscabo de lo anterior, podrá realizar la detección de áreas de oportunidad para la renovación, actualización o modernización de procesos internos, enfocados a la optimización de mecanismos para facilitar el acceso a los servicios públicos que competen a la Secretaría;
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
 
-c) La Dirección General de Vinculación con el Sector Coordinado, respecto del ejercicio de las facultades establecidas en las fracciones IV, IX, XI y XVIII de este artículo, en lo que respecta a las acciones que desarrollen los órganos administrativos desconcentrados y entidades paraestatales sectorizadas a la Secretaría, con la finalidad de asesorarlos y apoyarlos en el seguimiento de los procesos para la elaboración de programas sectoriales o sus respectivos programas institucionales, así como de aquellos proyectos que aseguren el cumplimiento de sus funciones, e (sic)
+b) La Dirección General de Innovación de Trámites, respecto del ejercicio de las facultades establecidas en las fracciones XVI, XIX y XX de este artículo; sin menoscabo de lo anterior, podrá realizar la detección de áreas de oportunidad para la renovación, actualización o modernización de procesos internos, enfocados a la optimización de mecanismos para facilitar el acceso a los servicios públicos que competen a la Secretaría, previa coordinación técnica con la Agencia de Transformación Digital y Telecomunicaciones;
 
-> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
 
-d) La Dirección General de Coordinación Territorial de Trámites y Servicios de Economía conforme a sus atribuciones.
+c) La Dirección General de Vinculación con el Sector Coordinado, respecto del ejercicio de las facultades establecidas en las fracciones IV, IX, XI y XVIII de este artículo, en lo que respecta a las acciones que desarrollen las entidades paraestatales sectorizadas a la Secretaría, con la finalidad de asesorarlos y apoyarlos en el seguimiento de los procesos para la elaboración de programas sectoriales o sus respectivos programas institucionales, así como de aquellos proyectos que aseguren el cumplimiento de sus funciones, e
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
+
+d) Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar.
 
 > <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
@@ -745,7 +807,9 @@ II. Proponer a la persona Titular de la Secretaría políticas públicas para fo
 
 III. Representar a la Secretaría en foros y eventos nacionales e internacionales en asuntos relativos al funcionamiento eficiente de los mercados, desarrollo económico, fomento de la actividad empresarial, incremento de la competitividad y mejora del ambiente de negocios;
 
-IV. Coordinar la formulación de solicitudes que la Secretaría deba realizar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones, así como informar a estas de las posibles prácticas prohibidas en términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IV. Coordinar la formulación de solicitudes que la Secretaría deba realizar a la autoridad en materia de libre competencia y concurrencia o, en su caso, a la Agencia de Transformación Digital y Telecomunicaciones, así como informar a estas de las posibles prácticas prohibidas en términos de las disposiciones aplicables;
 
 V. Opinar a las unidades administrativas competentes de la Secretaría sobre la fijación de precios máximos a que se refiere el artículo 9 de la Ley Federal de Competencia Económica, cuando así se lo soliciten;
 
@@ -1213,45 +1277,83 @@ La persona Titular de la Unidad de Negociaciones Comerciales Internacionales ser
 
 (DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
-> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MARZO DE 2025)</small>
 
-ARTÍCULO 28 BIS.- La Dirección General de Coordinación Territorial de Trámites y Servicios de Economía tiene las atribuciones siguientes:
+###### ARTÍCULO 28 Bis.
+
+La Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar tiene las atribuciones siguientes:
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 I. Organizar, coordinar y supervisar la implementación de las políticas, programas y acciones a cargo de la Secretaría en las entidades federativas;
 
-II. Coordinar la participación de la Secretaría, por conducto de las Oficinas de Representación en las entidades federativas, ante las autoridades de su circunscripción, organizaciones, cámaras empresariales y confederaciones previstas en la Ley de la materia y asociaciones, consejos, comisiones y comités, en materia de promoción y fomento, así como dar seguimiento a los compromisos contraídos;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+II. Coordinar la participación de la Secretaría, por conducto de los Centros de Fomento Económico para el Bienestar en las entidades Federativas, ante las autoridades de su circunscripción, organizaciones, cámaras empresariales y confederaciones previstas en la Ley de la materia y asociaciones, consejos, comisiones y comités, en materia de promoción y fomento, así como dar seguimiento a los compromisos contraídos;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 III. Establecer, a propuesta de las unidades administrativas de la Secretaría, los criterios para la aplicación de las políticas y programas de la Secretaría en las entidades federativas, así como supervisar y evaluar su implementación;
 
-IV. Establecer, en coordinación con las unidades administrativas correspondientes de la Secretaría, las prioridades y metas para la operación de los programas en las Oficinas de Representación en las entidades federativas, de acuerdo a los objetivos institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-V. Definir los criterios y parámetros de medición de resultados para la evaluación de la gestión de las Oficinas de Representación en las entidades federativas, según lo establecido por la Unidad de Prospectiva, Planeación y Evaluación;
+IV. Establecer, en coordinación con las unidades administrativas correspondientes de la Secretaría, las prioridades y metas para la operación de los programas en los Centros de Fomento Económico para el Bienestar en las entidades Federativas, de acuerdo a los objetivos institucionales;
 
-VI. Evaluar la operación de las Oficinas de Representación en las entidades federativas conforme a los criterios, parámetros y metas establecidas, así como los mecanismos para asegurar la calidad en la prestación de los servicios;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-VII. Coordinar la implementación de las disposiciones administrativas que rijan la operación de las Oficinas de Representación en las entidades federativas;
+V. Definir los criterios y parámetros de medición de resultados para la evaluación de la gestión de los Centros de Fomento Económico para el Bienestar en las entidades federativas, según lo establecido por la Unidad de Prospectiva, Planeación y Evaluación;
 
-VIII. Instruir a las Oficinas de Representación en las entidades federativas para coadyuvar con los órganos administrativos desconcentrados de la Secretaría en el cumplimiento de sus atribuciones, así como apoyar en la promoción de los programas institucionales de la Secretaría;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-IX. Elaborar el anteproyecto anual de presupuesto asignado a las Oficinas de Representación en las entidades federativas;
+VI. Evaluar la operación de los Centros de Fomento Económico para el Bienestar en las entidades federativas conforme a los criterios, parámetros y metas establecidas, así como los mecanismos para asegurar la calidad en la prestación de los servicios;
 
-X. Realizar las funciones administrativas de las Oficinas de Representación en las entidades federativas conforme a la normativa en materia de recursos humanos, financieros, materiales, servicios generales e informáticos;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XI. Autorizar y tramitar las solicitudes de pago de los compromisos adquiridos en las Oficinas de Representación en las entidades federativas;
+VII. Coordinar la implementación de las disposiciones administrativas que rijan la operación de los Centros de Fomento Económico para el Bienestar en las entidades federativas;
 
-XII. Intervenir, en las adquisiciones, arrendamientos y servicios que se requieran en las Oficinas de Representación en las entidades federativas de acuerdo a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XIII. Tramitar los proyectos para la promoción de negocios, inversiones y exportaciones que se presenten en las Oficinas de Representación en las entidades federativas;
+VIII. Instruir a los Centros de Fomento Económico para el Bienestar en las entidades federativas para apoyar en la promoción de los programas institucionales de la Secretaría;
 
-XIV. Brindar información de la normativa, políticas y programas de la Secretaría por conducto del personal de las Oficinas de Representación en las entidades federativas;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XV. Apoyar a los usuarios en los trámites o servicios que deban realizar ante las instancias competentes de la Secretaría en las Oficinas de Representación en las entidades federativas;
+IX. Elaborar el anteproyecto anual de presupuesto asignado a los Centros de Fomento Económico para el Bienestar en las entidades federativas;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+X. Realizar las funciones administrativas de los Centros de Fomento Económico para el Bienestar en las entidades federativas conforme a la normativa en materia de recursos humanos, financieros, materiales, servicios generales e informáticos;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XI. Autorizar y tramitar las solicitudes de pago de los compromisos adquiridos en los Centros de Fomento Económico para el Bienestar en las entidades federativas;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XII. Intervenir, en las adquisiciones, arrendamientos y servicios que se requieran en los Centros de Fomento Económico para el Bienestar en las entidades federativas de acuerdo a la normativa aplicable;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XIII. Tramitar los proyectos para la promoción de negocios, inversiones y exportaciones que se presenten los Centros de Fomento Económico para el Bienestar en las entidades federativas;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XIV. Brindar información de la normativa, políticas y programas de la Secretaría por conducto del personal de los Centros de Fomento Económico para el Bienestar en las entidades federativas;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XV. Apoyar a las personas usuarias en los trámites o servicios que deban realizar ante las instancias competentes de la Secretaría en los Centros de Fomento Económico para el Bienestar en las entidades federativas;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 XVI. Recibir y dar seguimientos a los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, en coordinación con las unidades administrativas competentes, y
 
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 XVII. Dictaminar los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, y expedir las resoluciones correspondientes, en coordinación con las unidades administrativas competentes y sin perjuicio de la competencia de estas cuando los trámites y asuntos deban resolverse por estas últimas, en cuyo caso, la Dirección General remitirá los trámites o asuntos a estas, para los efectos conducentes.
 
-La persona Titular de la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía será auxiliada en el ejercicio de sus facultades por la Dirección de Trámites y Servicios, así como por el personal adscrito a las Oficinas de Representación en las entidades federativas.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
+
+La persona Titular de la Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar será auxiliada en el ejercicio de sus facultades por la Dirección de Trámites y Servicios, así como por el personal adscrito a los Centros de Fomento Económico para el Bienestar en las entidades federativas.
 
 ###### ARTÍCULO 29.
 
@@ -1259,9 +1361,13 @@ La Dirección General de Legislación y Consulta tiene las atribuciones siguient
 
 I. Formular anteproyectos de iniciativas de leyes y decretos legislativos, así como de reglamentos, decretos, acuerdos y demás ordenamientos normativos que contengan disposiciones en las materias de la competencia de la Secretaría;
 
-II. Revisar, con un enfoque a técnica jurídica, cualquier disposición u ordenamiento normativo cuyas disposiciones inciden en la competencia de la Secretaría y, en su caso, elaborar y proponer al superior jerárquico anteproyectos o proyectos de reformas a la referida normativa, con el objeto de que la actuación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría se encuentren apegados al marco jurídico aplicable;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-III. Proponer a la persona Titular de la Unidad de Apoyo Jurídico, criterios interpretativos para efectos administrativos de las disposiciones jurídicas en las materias competencia de la Secretaría y del sector paraestatal coordinado por esta, así como proponer criterios generales de observancia obligatoria para las unidades administrativas y órganos administrativos desconcentrados de la misma Dependencia;
+II. Revisar, con un enfoque a técnica jurídica, cualquier disposición u ordenamiento normativo cuyas disposiciones inciden en la competencia de la Secretaría y, en su caso, elaborar y proponer al superior jerárquico anteproyectos o proyectos de reformas a la referida normativa, con el objeto de que la actuación de las unidades administrativas de la Secretaría se encuentre apegada al marco jurídico aplicable;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+III. Proponer a la persona Titular de la Unidad de Apoyo Jurídico, criterios interpretativos para efectos administrativos de las disposiciones jurídicas en las materias competencia de la Secretaría y del sector paraestatal coordinado por esta, así como proponer criterios generales de observancia obligatoria para sus unidades administrativas;
 
 IV. Tramitar la publicación de disposiciones normativas competencia de la Secretaría en el Diario Oficial de la Federación;
 
@@ -1287,7 +1393,9 @@ ARTÍCULO 29 BIS.- La Dirección General de Procedimientos Constitucionales y Le
 
 I. Intervenir en los asuntos de carácter legal en que tenga injerencia la Secretaría, en lo relativo a procedimientos constitucionales y asuntos contenciosos;
 
-II. Opinar consultas que en materia procesal constitucional y en materia contenciosa formulen las unidades administrativas de la Secretaría, incluidos sus órganos administrativos desconcentrados, así como las que lleguen a formular las entidades coordinadas por la Secretaría;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+II. Opinar consultas que en materia procesal constitucional y en materia contenciosa formulen las unidades administrativas de la Secretaría, así como las que lleguen a formular las entidades coordinadas por la Secretaría;
 
 III. Auxiliar a la persona Titular de la Unidad de Apoyo Jurídico en las acciones que deban implementarse para el cumplimiento de los preceptos constitucionales en los asuntos que sean competencia de la Secretaría;
 
@@ -1323,7 +1431,9 @@ XVIII. Integrar los informes y demás requerimientos que deba rendir la Secretar
 
 XIX. Participar en las acciones que en materia jurídica lleva a cabo la Secretaría, a fin de prevenir y atender posibles conflictos normativos, cuando se trate de normas jurídicas en materia de procedimientos constitucionales, así como en materia de juicios y procedimientos;
 
-XX. Requerir a las personas servidoras públicas, unidades administrativas y órganos administrativos desconcentrados de la Secretaría, la documentación e información que requiera para el cumplimiento de sus atribuciones, y
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XX. Requerir a las personas servidoras públicas, unidades administrativas, la documentación e información que requiera para el cumplimiento de sus atribuciones, y
 
 XXI. Emitir los dictámenes que corresponda a la Unidad de Apoyo Jurídico, respecto de los actos a que se refiere el artículo 56 de este Reglamento.
 
@@ -1451,7 +1561,9 @@ I. Participar con otras unidades administrativas de la Secretaría y, en su caso
 
 II. Participar junto con las demás dependencias y entidades de la Administración Pública Federal involucradas en los sectores a que se refiere el segundo párrafo de este artículo, en el diseño, elaboración e instrumentación de políticas públicas, programas y estudios orientados al desarrollo, modernización tecnológica, promoción y competitividad de dichos sectores con empresas, organismos, instituciones nacionales e internacionales, grupo de empresas industriales operando cercanamente entre sí, dependencias y entidades federales, estatales y municipales;
 
-III. Dar seguimiento al comportamiento de precios y tarifas de los productos referidos en el párrafo segundo de este artículo y, en su caso y previa opinión de la Comisión Federal de Competencia Económica, fijar los precios máximos de los productos elaborados en el territorio nacional, en términos de las disposiciones jurídicas aplicables, con excepción de los precios que competa fijarlos a otras dependencias o entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+III. Dar seguimiento al comportamiento de precios y tarifas de los productos referidos en el párrafo segundo de este artículo y, en su caso y previa opinión de la autoridad en materia de libre competencia y concurrencia, fijar los precios máximos de los productos elaborados en el territorio nacional, en términos de las disposiciones jurídicas aplicables, con excepción de los precios que competa fijarlos a otras dependencias o entidades de la Administración Pública Federal;
 
 > <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
@@ -1819,7 +1931,9 @@ III. Proponer a su superior jerárquico la celebración de convenios con las dem
 
 IV. Coadyuvar con las dependencias y entidades de la Administración Pública Federal en la implementación y evaluación de políticas públicas para fomentar la competencia en los mercados, e impulsar el crecimiento económico;
 
-V. Solicitar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE MARZO DE 2025)</small>
+
+V. Solicitar a la autoridad en materia de libre competencia y concurrencia o, en su caso, a la Agencia de Transformación Digital y Telecomunicaciones:
 
 a) El inicio de una investigación de carácter preferente, de conformidad con el artículo 66 de la Ley Federal de Competencia Económica;
 
@@ -1831,13 +1945,19 @@ d) El inicio de un procedimiento de conformidad con el artículo 98 de la Ley Fe
 
 e) Opinión de conformidad con las fracciones XII, XIII, XIV, XV y XVIII del artículo 12 de la Ley Federal de Competencia Económica;
 
-VI. Informar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones sobre hechos que puedan constituir prácticas prohibidas por la Ley Federal de Competencia Económica, o sobre la existencia de barreras a la competencia o insumos esenciales que afecten el proceso de competencia y libre concurrencia, para lo cual podrá requerir información previamente a otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría y a las dependencias y entidades de la Administración Pública Federal; así como dar seguimiento al curso de las acciones derivadas de dichos informes y, en general, coadyuvar con dichos órganos constitucionales autónomos para la efectiva aplicación de la Ley citada;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-VII. Fungir como enlace por parte de la Secretaría con la Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones para los efectos jurídicos aplicables, así como para el desarrollo de proyectos conjuntos en materia de competencia y eficiencia de los mercados;
+VI. Informar a la autoridad en materia de libre competencia y concurrencia o, en su caso, a la Agencia de Transformación Digital y Telecomunicaciones, sobre hechos que puedan constituir prácticas prohibidas por la Ley Federal de Competencia Económica, o sobre la existencia de barreras a la competencia o insumos esenciales que afecten el proceso de competencia y libre concurrencia, para lo cual podrá requerir información previamente a otras unidades administrativas de la Secretaría y a las dependencias y entidades de la Administración Pública Federal; así como dar seguimiento al curso de las acciones derivadas de dichos informes y, en general, coadyuvar con dichas la autoridad en materia de libre competencia y concurrencia y la Agencia de Transformación Digital y Telecomunicaciones, para la efectiva aplicación de las leyes de la materia para la efectiva aplicación de la Ley citada;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+VII. Fungir como enlace por parte de la Secretaría con la autoridad en materia de libre competencia y concurrencia o, en su caso, a la Agencia de Transformación Digital y Telecomunicaciones, para los efectos jurídicos aplicables, así como para el desarrollo de proyectos conjuntos en materia de competencia y eficiencia de los mercados;
 
 VIII. Proponer a su superior jerárquico la opinión que deba emitirse sobre la fijación de precios máximos, competencia de la Secretaría, a que se refiere el artículo 9 de la Ley Federal de Competencia Económica, 31 de la Ley General de Salud y demás disposiciones aplicables;
 
-IX. Solicitar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como cuando corresponda a otras dependencias y entidades de la Administración Pública Federal, la información necesaria para el cumplimiento de sus atribuciones, diferentes a la fracción VI de este artículo;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IX. Solicitar a las unidades administrativas de la Secretaría, así como cuando corresponda a otras dependencias y entidades de la Administración Pública Federal, la información necesaria para el cumplimiento de sus atribuciones, diferentes a la fracción VI de este artículo;
 
 X. Proponer y promover, en materia de su competencia, mecanismos de cooperación a nivel internacional en coordinación con la Subsecretaría de Comercio Exterior y demás autoridades competentes;
 
@@ -1883,7 +2003,9 @@ a) Los asignatarios, contratistas y permisionarios a que se refiere la Ley de Hi
 
 b) Las empresas de la industria eléctrica, sobre el grado de contenido nacional en las actividades que estos realizan;
 
-IV. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las Empresas Productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones en materia de contenido nacional en el sector energético;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IV. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones en materia de contenido nacional en el sector energético;
 
 V. Medir y verificar el cumplimiento de las metas de contenido nacional establecidas en las asignaciones y contratos de exploración y extracción de hidrocarburos;
 
@@ -1913,7 +2035,9 @@ XV. Imponer las sanciones que corresponden a la Secretaría conforme a lo previs
 
 XVI. Opinar respecto de condiciones que, en su caso, se establezcan en los contratos para el financiamiento, instalación, mantenimiento, gestión, operación y ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica que, bajo las mismas circunstancias, se otorgue para dar cumplimiento con las preferencias que señala el artículo 93 de la Ley de la Industria Eléctrica;
 
-XVII. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las Empresas Productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones, a efecto de coadyuvar en el desarrollo de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XVII. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones, a efecto de coadyuvar en el desarrollo de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
 
 XVIII. Opinar respecto del establecimiento de las condiciones que deben incluirse en las asignaciones y los contratos para la exploración y extracción, así como en los permisos que contempla la Ley de Hidrocarburos que, bajo las mismas circunstancias, se otorgue para dar cumplimiento con las preferencias que señala el artículo 128 de dicha Ley;
 
@@ -1933,7 +2057,9 @@ XXV. Integrar, administrar y actualizar el registro de proveedores nacionales pa
 
 XXVI. Integrar, administrar y actualizar el catálogo de proveedores nacionales para la industria eléctrica;
 
-XXVII. Ejercer las atribuciones conferidas a la Secretaría en la Ley de Transición Energética, para lo cual podrá coordinarse con otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría, con dependencias y entidades de la Administración Pública Federal, así como con Empresas Productivas del Estado, para el cumplimiento de dicho ordenamiento;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XXVII. Ejercer las atribuciones conferidas a la Secretaría en la Ley de Transición Energética, para lo cual podrá coordinarse con otras unidades administrativas, con dependencias y entidades de la Administración Pública Federal, así como con empresas públicas del Estado, para el cumplimiento de dicho ordenamiento;
 
 XXVIII. Participar en los Consejos Consultivos a los que se refieren los artículos 125 de la Ley de Hidrocarburos y 90 de la Ley de la Industria Eléctrica, así como vigilar y dar seguimiento al cumplimiento de las resoluciones y compromisos adoptados en dichos Consejos, y designar a un servidor público que fungirá como Secretario Técnico de los mismos;
 
@@ -2439,23 +2565,33 @@ II. Coordinar la elaboración del anteproyecto de presupuesto de la Secretaría 
 
 III. Coordinar, en congruencia con las disposiciones jurídicas aplicables, la integración de la estructura programática de la Secretaría y de las entidades paraestatales sectorizadas a esta, así como dar seguimiento al cumplimiento de los indicadores y sus metas;
 
-IV. Integrar la planeación de los programas y proyectos de inversión de la Secretaría, de conformidad con la información que proporcionen las unidades administrativas, los órganos administrativos desconcentrados de la Secretaría y las entidades paraestatales sectorizadas a esta, así como promover el registro y actualización de los mismos en la cartera de inversión;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+IV. Integrar la planeación de los programas y proyectos de inversión de la Secretaría, de conformidad con la información que proporcionen las unidades administrativas, y las entidades paraestatales sectorizadas a esta, así como promover el registro y actualización de los mismos en la cartera de inversión;
 
 V. Fungir como instancia administrativa única de la Secretaría y entidades paraestatales sectorizadas a esta, para tramitar ante la Secretaría de Hacienda y Crédito Público las solicitudes y consultas en materia presupuestaria y contable;
 
 VI. Establecer los procedimientos internos y las líneas de acción en materia de programación, presupuesto y ejercicio de los recursos financieros que apliquen en su gestión las coordinaciones administrativas a que se refiere el último párrafo del artículo 13 del presente Reglamento;
 
-VII. Comunicar a las unidades administrativas y a los órganos administrativos desconcentrados de la Secretaría, así como a las entidades paraestatales sectorizadas a esta, sus presupuestos aprobados y las disposiciones normativas para el proceso interno del ejercicio programático-presupuestario, así como dar seguimiento a dicho ejercicio para coadyuvar a la eficacia y eficiencia del gasto público;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+VII. Comunicar a las unidades administrativas de la Secretaría, así como a las entidades paraestatales sectorizadas a esta, sus presupuestos aprobados y las disposiciones normativas para el proceso interno del ejercicio programático-presupuestario, así como dar seguimiento a dicho ejercicio para coadyuvar a la eficacia y eficiencia del gasto público;
 
 VIII. Planear, programar y ejercer el presupuesto de servicios personales de la Secretaría y coordinar el ejercicio del gasto de servicios personales de las entidades paraestatales sectorizadas a esta, así como gestionar las adecuaciones presupuestarias correspondientes ante las autoridades competentes;
 
 IX. Coordinar el ejercicio del presupuesto autorizado que esté centralizado en las Direcciones Generales subordinadas directamente a la Unidad de Administración y Finanzas;
 
-X. Autorizar, informar y, en su caso, gestionar ante la Secretaría de Hacienda y Crédito Público, las adecuaciones presupuestarias que planteen las unidades administrativas, los órganos administrativos desconcentrados de la Secretaría y las entidades paraestatales sectorizadas a esta, así como las demás que se requieran para la administración del presupuesto;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XI. Verificar que los pagos que autoricen las unidades administrativas y órganos administrativos desconcentrados de la Secretaría con cargo a sus presupuestos, cuenten con la documentación justificativa y comprobatoria, la disponibilidad presupuestaria y gestionarlos ante la Tesorería de la Federación;
+X. Autorizar, informar y, en su caso, gestionar ante la Secretaría de Hacienda y Crédito Público, las adecuaciones presupuestarias que planteen las unidades administrativas de la Secretaría y las entidades paraestatales sectorizadas a esta, así como las demás que se requieran para la administración del presupuesto;
 
-XII. Gestionar ante la Tesorería de la Federación la aplicación de los reintegros presupuestarios correspondientes a las devoluciones de los recursos que realicen las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XI. Verificar que los pagos que autoricen las unidades administrativas de la Secretaría con cargo a sus presupuestos, cuenten con la documentación justificativa y comprobatoria, la disponibilidad presupuestaria y gestionarlos ante la Tesorería de la Federación;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XII. Gestionar ante la Tesorería de la Federación la aplicación de los reintegros presupuestarios correspondientes a las devoluciones de los recursos que realicen las unidades administrativas de la Secretaría;
 
 XIII. Integrar la contabilidad de la Secretaría y el registro que corresponda en el sistema de contabilidad gubernamental que se establezca en la Dependencia, con apego a lo señalado en la Ley General de Contabilidad Gubernamental, así como conformar y operar un archivo para la custodia y consulta de la documentación contable;
 
@@ -2465,9 +2601,13 @@ XV. Consolidar la información que requiera la Secretaría de Hacienda y Crédit
 
 XVI. Presentar ante las instancias correspondientes los informes presupuestarios, programáticos y contables que conforme a las disposiciones legales se requieran;
 
-XVII. Gestionar ante las autoridades hacendarias competentes la autorización de las tarifas de derechos, productos y aprovechamientos, conforme a los planteamientos que se reciban de las unidades administrativas, los órganos administrativos desconcentrados de la Secretaría y de las entidades paraestatales sectorizadas a esta;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XVIII. Gestionar ante la Secretaría de Hacienda y Crédito Público las autorizaciones presupuestarias de las reglas de operación de los programas sujetos a dicha obligación, de conformidad con las propuestas que presenten las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades paraestatales sectorizadas a esta;
+XVII. Gestionar ante las autoridades hacendarias competentes la autorización de las tarifas de derechos, productos y aprovechamientos, conforme a los planteamientos que se reciban de las unidades administrativas, de la Secretaría y de las entidades paraestatales sectorizadas a esta;
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XVIII. Gestionar ante la Secretaría de Hacienda y Crédito Público las autorizaciones presupuestarias de las reglas de operación de los programas sujetos a dicha obligación, de conformidad con las propuestas que presenten las unidades administrativas de la Secretaría, así como las entidades paraestatales sectorizadas a esta;
 
 XIX. Gestionar el registro, renovación, modificación, extinción y demás trámites presupuestarios de los fideicomisos, mandatos y contratos análogos coordinados por la Secretaría y por las entidades paraestatales sectorizadas a esta;
 
@@ -2479,17 +2619,17 @@ XX. Formular y proponer a la persona Titular de la Unidad de Administración y F
 
 XXI. Dictaminar los formatos que deban inscribirse en el Catálogo Nacional de Regulaciones, Trámites y Servicios, que elaboren las unidades administrativas de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XXII. Coordinar la integración de los programas de mejora regulatoria y reportes de avance de la Secretaría, así como fungir como ventanilla para la recepción y seguimiento de las solicitudes de dictamen regulatorio y de modificación a la información inscrita en el Catálogo Nacional de Regulaciones, Trámites y Servicios, que envíen las unidades administrativas y el órgano administrativo desconcentrado de la misma Secretaría;
+XXII. Coordinar la integración de los programas de mejora regulatoria y reportes de avance de la Secretaría, así como fungir como ventanilla para la recepción y seguimiento de las solicitudes de dictamen regulatorio y de modificación a la información inscrita en el Catálogo Nacional de Regulaciones, Trámites y Servicios, que envíen sus unidades administrativas;
 
 > <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 XXIII. Fungir como enlace de la Secretaría ante la Auditoría Superior de la Federación durante los trabajos de auditoría y revisión de la Cuenta de la Hacienda Pública Federal;
 
-> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-XXIV. Tramitar los requerimientos en materia de presupuesto y ejercicio del gasto que realicen las Oficinas de Representación en las entidades federativas de la Secretaría, a través de las coordinaciones administrativas;
+XXIV. Tramitar los requerimientos en materia de presupuesto y ejercicio del gasto que realicen los Centros de Fomento Económico para el Bienestar en las entidades federativas de la Secretaría, a través de las coordinaciones administrativas;
 
 > <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
@@ -2557,7 +2697,9 @@ X. Vigilar el cumplimiento de las disposiciones que rigen las relaciones laboral
 
 XI. Establecer las normas y procedimientos, en coordinación con la Unidad de Apoyo Jurídico, para la aplicación de sanciones al personal, de acuerdo con las disposiciones aplicables, así como intervenir en el levantamiento de actas por incumplimiento de obligaciones laborales e imponer y revocar las medidas disciplinarias correspondientes;
 
-XII. Apoyar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría en la conducción de la relación con la representación sindical para el logro de los objetivos institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+XII. Apoyar a las unidades administrativas de la Secretaría en la conducción de la relación con la representación sindical para el logro de los objetivos institucionales;
 
 XIII. Resolver la aplicación de descuentos y retenciones autorizadas conforme a la ley y, en su caso, la recuperación de las cantidades correspondientes a salarios no devengados;
 
@@ -2621,7 +2763,9 @@ La Oficina de Comunicación Social tiene las atribuciones siguientes:
 
 I. Ejecutar la política de comunicación social de la Secretaría, con base en las disposiciones jurídicas aplicables que rijan para la Administración Pública Federal;
 
-II. Coordinar las acciones de difusión, comunicación y prensa de la Secretaría, así como apoyar y orientar a las unidades administrativas y órganos administrativos desconcentrados de esta en materia de comunicación;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+II. Coordinar las acciones de difusión, comunicación y prensa de la Secretaría, así como apoyar y orientar a las unidades administrativas de esta en materia de comunicación;
 
 III. Coordinar la planeación, programación, control y evaluación del gasto en materia de comunicación social de la Secretaría y de sus organismos sectorizados, así como proponer a las autoridades competentes el Programa Anual de Comunicación Social de la Secretaría, en cumplimiento de los lineamientos que emitan la Secretaría de Gobernación y la Presidencia de la República y demás normatividad aplicable en la materia;
 
@@ -2645,37 +2789,45 @@ V. Responder los puntos de acuerdo presentados y aprobados por el Congreso de la
 
 VI. Atender en primera instancia las peticiones de las organizaciones sociales que recurran a la Secretaría, y canalizarlas con las instancias correspondientes, así como comunicar dicha atención a la Secretaría de Gobernación.
 
-### CAPÍTULO V. De las Oficinas de Representación en las Entidades Federativas y Ejecución de Política Comercial y la Promoción de Inversión en el Extranjero
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+### CAPÍTULO V
+
+De los Centros de Fomento Económico para el Bienestar en las Entidades Federativas y Ejecución de Política Comercial y la Promoción de Inversión en el Extranjero
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 64.
 
-La Secretaría, para el debido cumplimiento de sus servicios y trámites en todo el territorio nacional, cuenta con Oficinas de Representación en las entidades federativas, las cuales dependerán jerárquica y funcionalmente de la persona Titular de la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía y tendrán la circunscripción territorial que fije la persona Titular de la Secretaría mediante Acuerdo que se publique en el Diario Oficial de la Federación.
+La Secretaría, para el debido cumplimiento de sus servicios y trámites en todo el territorio nacional, cuenta con Centros de Fomento Económico para el Bienestar en las entidades federativas, las cuales dependerán jerárquica y funcionalmente de la persona Titular de la Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar y tendrán la circunscripción territorial que fije la persona Titular de la Secretaría mediante Acuerdo que se publique en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 65.
 
-Las Oficinas de Representación en las entidades federativas se ubicarán en las capitales de los estados del país o en las ciudades de mayor importancia económica en cada entidad federativa de conformidad con el Acuerdo de organización y funcionamiento que para tal efecto expida la persona Titular de la Secretaría.
+Los Centros de Fomento Económico para el Bienestar en las entidades federativas se ubicarán en las capitales de los estados del país o en las ciudades de mayor importancia económica en cada entidad federativa de conformidad con el Acuerdo de organización y funcionamiento que para tal efecto expida la persona Titular de la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 66.
 
-En las Oficinas de Representación en las entidades federativas habrá los servidores públicos aprobados en su estructura organizacional, quienes informarán directamente a la persona Titular de la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía.
+En los Centros de Fomento Económico para el Bienestar en las entidades federativas habrá las personas servidoras públicas aprobadas en su estructura organizacional, quienes informarán directamente a la persona Titular de la Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar.
 
-Los servidores públicos adscritos a las Oficinas de Representación en las entidades federativas estarán investidos de la autoridad necesaria para fungir como enlaces de la Secretaría ante los gobiernos estatales, municipales y alcaldías de la Ciudad de México; también estarán facultados para promover los programas institucionales de la Secretaría en todo el territorio de la entidad federativa en que se ubiquen.
+Las personas servidoras públicas adscritas a los Centros de Fomento Económico para el Bienestar en las entidades federativas estarán investidos de la autoridad necesaria para fungir como enlaces de la Secretaría ante los gobiernos estatales, municipales y alcaldías de la Ciudad de México; también estarán facultadas para promover los programas institucionales de la Secretaría en todo el territorio de la entidad federativa en que se ubiquen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 67.
 
-Las Oficinas de Representación en las entidades federativas tienen las atribuciones siguientes:
+Los Centros de Fomento Económico para el Bienestar en las entidades federativas tienen las atribuciones siguientes:
 
 I. Fungir como enlaces de la Secretaría ante las autoridades de su circunscripción, organizaciones, cámaras empresariales y confederaciones previstas en la ley de la materia y asociaciones, consejos, comisiones y comités, en materia de promoción y fomento, así como dar seguimiento a los compromisos contraídos, coordinando sus acciones, cuando corresponda, con las Delegaciones de Programas para el Desarrollo conforme a las disposiciones vigentes;
 
 II. Recibir los asuntos y trámites en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, competencia de la Secretaría y expedir las resoluciones correspondientes. Cuando los trámites y asuntos deban resolverse por las unidades administrativas competentes de la Secretaría, se remitirán a estas para los efectos conducentes;
 
-> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
 
-II Bis. Recibir y dar seguimiento a los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, en coordinación con la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía.
+II Bis. Recibir y dar seguimiento a los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, en coordinación con la Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar.
 
 III. Fungir de enlace de la Secretaría en la promoción de los programas de fomento económico a cargo de la Dependencia con las autoridades estatales, municipales y alcaldías de la Ciudad de México, así como con organizaciones, cámaras empresariales y confederaciones previstas en la ley de la materia y con asociaciones del sector social y privado;
 
@@ -2685,7 +2837,9 @@ V. Impulsar y participar en el desarrollo de proyectos para la promoción de neg
 
 VI. Difundir en su circunscripción territorial la información de la normativa, políticas y programas de la Secretaría;
 
-VII. Ejercer la guarda y custodia de la documentación comprobatoria y justificativa del gasto de las Oficinas de Representación en las entidades federativas, para lo cual deberán operar un archivo en el que se permita la consulta conforme a las leyes y disposiciones aplicables en la materia;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2025)</small>
+
+VII. Ejercer la guarda y custodia de la documentación comprobatoria y justificativa del gasto de los Centros de Fomento Económico para el Bienestar en las entidades federativas, para lo cual deberán operar un archivo en el que se permita la consulta conforme a las leyes y disposiciones aplicables en la materia;
 
 VIII. Recibir notificaciones y comunicarlas a la Unidad de Apoyo Jurídico en los juicios, demandas y litigios en los que esté de por medio el interés de la Secretaría, en el ámbito de su circunscripción;
 
@@ -2697,11 +2851,13 @@ X. Apoyar en la ejecución de los actos de autoridad y diligencias instruidas po
 
 La Secretaría, al ejercer las facultades de formular, coordinar y conducir la política general de comercio exterior y atracción de inversión extranjera, incluyendo las actividades que la Secretaría realice fuera de territorio nacional, se coordinará con la Secretaría de Relaciones Exteriores y con las demás autoridades competentes del Gobierno Federal.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE MARZO DE 2025)</small>
+
 ### CAPÍTULO VI. Órgano Administrativo Desconcentrado
 
 ###### ARTÍCULO 69.
 
-La Comisión Nacional de Mejora Regulatoria, es un órgano administrativo desconcentrado de la Secretaría, que cuenta con autonomía técnica y operativa para el ejercicio de sus atribuciones que se establecen en la Ley General de Mejora Regulatoria.
+(DEROGADO, D.O.F. 14 DE MARZO DE 2025)
 
 ### CAPÍTULO VII. De la Suplencia de los Servidores Públicos de la Secretaría
 
@@ -2717,25 +2873,23 @@ Las ausencias de la persona Titular de la Unidad de Apoyo Jurídico, serán supl
 
 Las ausencias de las personas Titulares de las Unidades y Direcciones Generales, así como de las personas Titulares de las Coordinaciones, Direcciones y Subdirecciones de Área, Jefaturas de Departamento, y demás servidores públicos que se precisan en el Manual de Organización General de la Secretaría, manuales de organización específicos, y personal autorizado en su presupuesto, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 71.
 
-Los titulares de las Oficinas de Representación en las entidades federativas serán suplidos en sus ausencias por el servidor público que designe la persona Titular de la Secretaría o, en su defecto, por el servidor público de jerarquía inmediata inferior.
+Las personas titulares de los Centros de Fomento Económico para el Bienestar en las entidades federativas serán suplidas en sus ausencias por la persona servidora pública que designe la persona Titular de la Secretaría o, en su defecto, por la persona servidora pública de jerarquía inmediata inferior.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE MARZO DE 2025)</small>
 
 ### CAPÍTULO VIII. Del Órgano Interno de Control
 
 ###### ARTÍCULO 72.
 
-El Órgano Interno de Control en la Secretaría estará a cargo de un titular, designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en ejercicio de sus facultades se auxiliará de los titulares de las áreas de responsabilidades, de quejas y auditoría, así como demás personal adscrito a dicho Órgano, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública.
-
-Dichos servidores públicos, ejercerán las facultades que tengan atribuidas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Administración Pública Federal, la Ley General de Responsabilidades Administrativas y el Reglamento Interior de la Secretaría de la Función Pública, así como en los demás ordenamientos jurídicos aplicables.
-
-Los órganos administrativos desconcentrados podrán contar con un órgano interno de control, siempre y cuando la Secretaría de la Función Pública así lo haya autorizado y se tenga la disponibilidad presupuestaria para ello. En el supuesto de que algún órgano administrativo desconcentrado no cuente con un órgano interno de control, las atribuciones a que se refiere este artículo se ejercerán por el Órgano Interno de Control en la Secretaría.
-
-La Secretaría, incluyendo a sus órganos administrativos desconcentrados, proporcionará al Órgano Interno de Control el auxilio que requiera para el desempeño de sus atribuciones.
+(DEROGADO, D.O.F. 14 DE MARZO DE 2025)
 
 ###### ARTÍCULO 73.
 
-Las ausencias de los titulares del Órgano Interno de Control, de las áreas de responsabilidades, quejas y auditoría, serán suplidas en términos de lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
+(DEROGADO, D.O.F. 14 DE MARZO DE 2025)
 
 ## TRANSITORIOS
 
@@ -2818,3 +2972,15 @@ e) Las hechas a la Dirección General del Fondo para el Desarrollo de Zonas de P
 QUINTO.- Se derogan las disposiciones administrativas expedidas por servidores públicos de la Secretaría de Economía que se opongan al presente Decreto.
 
 SEXTO.- Las unidades administrativas que reciben las funciones de las unidades administrativas que desaparecen en virtud del presente Decreto, continuarán la tramitación de los asuntos en curso o que estén pendientes de éstas hasta su conclusión.
+
+D.O.F. 14 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Las erogaciones que, en su caso, se generen por la transferencia de recursos financieros, materiales y humanos de la Comisión Nacional de Mejora Regulatoria, corresponde, en su caso, a los ejecutores de gasto correspondientes, con cargo al presupuesto autorizado, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el presente ejercicio fiscal y subsecuentes.
+
+CUARTO.- Las referencias, atribuciones, facultades y obligaciones hechas a las Dirección General de Coordinación Territorial de Trámites y Servicios de Economía y a las Oficinas de Representación en otras disposiciones, así como en contratos, convenios o análogos que se hubieren celebrado y cualquier otro instrumento, se entenderán hechas a la Dirección General de Coordinación Territorial de los Centros de Fomento Económico para el Bienestar y a los Centros de Fomento Económico para el Bienestar en las Entidades Federativas, respectivamente, conforme el presente Decreto.
