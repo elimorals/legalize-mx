@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2025-01-17"
+last_updated: "2025-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2025.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -458,9 +458,9 @@ La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización 
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
-> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 2025)</small>
 
-Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado lo garantizará.
+Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado lo garantizará. México es centro de origen y diversidad del maíz, que es un elemento de identidad nacional, alimento básico del pueblo de México y base de la existencia de los pueblos indígenas y afromexicanos. Su cultivo en el territorio nacional debe ser libre de modificaciones genéticas producidas con técnicas que superen las barreras naturales de la reproducción o la recombinación, como las transgénicas. Todo otro uso del maíz genéticamente modificado debe ser evaluado en los términos de las disposiciones legales para quedar libre de amenazas para la bioseguridad, la salud y el patrimonio biocultural de México y su población. Debe priorizarse la protección de la biodiversidad, la soberanía alimentaria, su manejo agroecológico, promoviendo la investigación científica-humanística, la innovación y los conocimientos tradicionales.
 
 > <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2020)</small>
 
@@ -1376,9 +1376,9 @@ Son de jurisdicción federal todas las cuestiones que por límites de terrenos e
 
 La ley establecerá un órgano para la procuración de justicia agraria, y
 
-> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 17 DE MARZO DE 2025)</small>
 
-XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
+XX.- El Estado promoverá las condiciones para el desarrollo rural, cultural, económico y de salud, con el propósito de generar empleo y garantizar a la población campesina su bienestar y su participación e incorporación en el desarrollo nacional, fomentará la actividad agropecuaria y forestal, cultivos tradicionales con semillas nativas, en especial el sistema milpa, para el óptimo uso de la tierra libre de cultivos de maíz genéticamente modificado, en los términos definidos en el artículo 4o., con obras de infraestructura, insumos, créditos, servicios de capacitación, investigación, innovación, conservación de la agrobiodiversidad y asistencia técnica, fortaleciendo las instituciones públicas nacionales. Asimismo, expedirá la legislación reglamentaria para planear, organizar y monitorear la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
 
 > <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2011)</small>
 
@@ -9477,3 +9477,13 @@ Tercero.- El Congreso de la Unión, en un plazo de 180 días, contados a partir 
 Cuarto.- Las legislaturas de las entidades federativas deben realizar las adecuaciones normativas necesarias para cumplir con lo previsto en el presente Decreto, dentro de los 365 días naturales siguientes a la publicación de este ordenamiento.
 
 Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 17 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 4o. Y 27 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE CONSERVACIÓN Y PROTECCIÓN DE LOS MAÍCES NATIVOS”.]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor de este Decreto se derogan todas las disposiciones que se opongan a su contenido, establecidas en leyes secundarias, reglamentos, acuerdos y cualquier otro ordenamiento normativo de carácter administrativo.
+
+Tercero.- El Congreso de la Unión, en un plazo de 180 días, contados a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes en las materias para adecuarlo al contenido del presente Decreto.
