@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-organos-reguladores-coordinados-en-materia-101929"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2021-05-20"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101929&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-08-11"
 ---
 # LEY DE LOS ORGANOS REGULADORES COORDINADOS EN MATERIA ENERGETICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -722,3 +724,51 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE LA COMISIÓN NACIONAL DE ENERGÍA".]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficialde la Federación.
+
+Segundo.- Se abroga la Ley de los Órganos Reguladores Coordinados en Materia Energética publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, y se derogan todas las disposiciones legales y administrativas que se opongan a la presente Ley.
+
+Tercero.- Las referencias normativas a la Comisión Nacional de Hidrocarburos y a la Comisión Reguladora de Energía se entienden hechas o conferidas a la Secretaría o a la Comisión, conforme a las atribuciones, competencias y facultades que les correspondan.
+
+Cuarto.- La persona titular del Ejecutivo Federal debe expedir el reglamento interior de la Comisión dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Quinto.- La persona titular del Ejecutivo Federal, dentro de los treinta días naturales siguientes a la entrada en vigor de esta Ley, por única ocasión debe designar directamente a la persona titular de la Dirección General de la Comisión sin requerir la ratificación por la Cámara de Senadores.
+
+Sexto.- La persona titular del Ejecutivo Federal, dentro de los treinta días naturales siguientes a la entrada en vigor de esta Ley, debe designar a las personas expertas técnicas que integran el Comité Técnico de la Comisión, conforme a lo dispuesto en esta Ley.
+
+Por única ocasión y para respetar el escalonamiento previsto en esta Ley, las personas expertas técnicas del Comité Técnico designadas en términos de esta Ley asumen su cargo, respectivamente, dos, tres y cuatro años, según lo determine la persona titular del Ejecutivo Federal en la designación correspondiente.
+
+Séptimo.- Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por la Comisión Reguladora de Energía y la Comisión Nacional de Hidrocarburos continúan en vigor en lo que no se opongan a la presente Ley, sin perjuicio de que sean adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás aplicables.
+
+Octavo.- Para dar certeza jurídica a la transferencia y continuidad en los actos, solicitudes, asuntos, trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos en las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que sean competencia de la Secretaría o de la Comisión, se declara la suspensión de plazos y términos durante el período de noventa días naturales, contados a partir de que entre en vigor la presente Ley.
+
+Los recursos de revisión y cualquier procedimiento seguido en forma de juicio en contra de los actos emitidos por las Comisiones Reguladora de Energía y Nacional de Hidrocarburos antes de la entrada en vigor del presente Decreto, continúan su trámite y deben ser resueltos por la Secretaría o la Comisión en el ámbito de sus competencias.
+
+Los juicios en las diversas materias o cualquier otra controversia legal, en los que las Comisiones Reguladora de Energía y Nacional de Hidrocarburos son parte, que a la entrada en vigor a la presente Ley se encuentren en trámite, deben ser transferidos a la Secretaría o a la Comisión Nacional de Energía en el ámbito de sus competencias para que continúe con la defensa legal correspondiente hasta su total conclusión; en el acta de transferencia que se levante, se deben asentar los datos de identificación de las partes, autoridades jurisdiccionales que conocen y el estado procesal de cada asunto, así como la acción que debe realizarse y el término legal que se tiene para ello.
+
+Los permisos, autorizaciones y demás actos que hayan sido emitidos por las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, continúan surtiendo efectos hasta el término de su vigencia de conformidad con la normatividad bajo la cual hayan sido formalizados, no obstante, la Comisión puede realizar la vigilancia y supervisión de su cumplimiento y, en su caso, ser sujetos de terminación anticipada o revocación por parte de la autoridad encargada de regular la actividad que corresponda.
+
+La Comisión puede solicitar el apoyo del Instituto Mexicano del Petróleo y del Instituto Nacional de Electricidad y Energías Limpias para la gestión documental de los expedientes de las solicitudes, asuntos, trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos, para la recepción de los expedientes correspondientes a su competencia.
+
+Noveno.- En tanto no entren en vigor las disposiciones administrativas de carácter general y Normas Oficiales Mexicanas que se expidan, son vigentes y obligatorias para todos los Sujetos Regulados, los lineamientos, disposiciones técnicas y administrativas, acuerdos, criterios, así como Normas Oficiales Mexicanas, emitidas por la Secretaría y las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que regulen las actividades relacionadas con la presente Ley, y que hayan sido publicadas en el Diario Oficial de la Federación.
+
+Décimo.- A la entrada en vigor de la presente Ley, las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, en términos de las disposiciones aplicables, deben realizar las acciones que correspondan para realizar una transferencia ágil y eficiente de toda la información, expedientes, sistemas y cualquier otra documentación que detenten, para continuar con la atención de los asuntos que así lo requieran por parte de la Secretaría y la Comisión.
+
+Décimo Primero.- Los pagos de derechos, aprovechamientos o ingresos propios establecidos en favor de las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, en la Ley Federal de Derechos o cualquier otro ordenamiento se entienden en favor de la Comisión o de la Secretaría, según corresponda.
+
+Décimo Segundo.- Los fideicomisos constituidos en términos de lo dispuesto por el artículo 31 de la Ley de los Órganos Reguladores Coordinados en Materia Energética, continúan su operación hasta en tanto la Secretaría de Energía, previa opinión favorable de la Secretaría de Hacienda y Crédito Público, emita las disposiciones sobre su extinción; por lo cual, a la entrada en vigor de la presente Ley, las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, deben realizar las acciones administrativas necesarias para transferirlos a la Comisión Nacional de Energía para que continúen con su operación hasta en tanto se emitan las disposiciones referidas.
+
+Décimo Tercero.- La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para el efecto de que la Comisión cuente con el presupuesto necesario para iniciar sus funciones.
+
+Los recursos humanos, financieros y materiales con que cuenten las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que estén relacionadas con las funciones que se transfieren o asignan a la Comisión y a la Secretaría, se transfieren a la Secretaría o a la Comisión, según corresponda, a fin de apoyar el cumplimiento de sus funciones.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
