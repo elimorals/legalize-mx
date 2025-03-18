@@ -4,7 +4,7 @@ identifier: "FED-ley-de-energia-geotermica-101928"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2014-08-11"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101928&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-08-11"
 ---
 # LEY DE ENERGIA GEOTERMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE GEOTERMIA, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENERGÍA GEOTÉRMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025 (ABROGADO).
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -802,3 +804,41 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el
 México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE GEOTERMIA”.]
+
+Primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Energía Geotérmica publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, y las demás disposiciones que se opongan al presente ordenamiento.
+
+Tercero.- En tanto se emita la nueva regulación o se modifique la regulación correspondiente, la normatividad y regulación emitidas por la Secretaría con anterioridad a la entrada en vigor de la presente Ley, continúan en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.
+
+Las referencias legales o reglamentarias a la Ley de Energía Geotérmica se entienden hechas en lo aplicable, a la Ley de Geotermia.
+
+Cuarto.- En tanto se expiden el Reglamento, la Secretaría tiene facultad para ejercer las atribuciones que le otorga la presente Ley a partir de su entrada en vigor.
+
+Quinto.- La persona titular del Ejecutivo Federal debe emitir el Reglamento de esta Ley dentro de un plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor de esta.
+
+Sexto.- Los permisos y concesiones otorgados por la Secretaría de Energía para llevar a cabo las actividades de Exploración y Explotación en Áreas Geotérmicas con anterioridad a la entrada en vigor de esta Ley mantienen su vigencia en los términos otorgados.
+
+Séptimo.- En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, por única ocasión la Comisión Federal de Electricidad por conducto de la persona titular de la Dirección General y con aprobación de su Consejo de Administración, debe solicitar ante la Secretaría una prórroga en aquellas Áreas Geotérmicas en las que cuenta con un Permiso de Exploración vigente y en las que tenga interés de continuar realizando trabajos de Exploración que contribuyan a la participación de energías renovables y desarrollo sostenible.
+
+En el caso de los Permisos que terminen su vigencia dentro del año previsto en el párrafo que antecede, su vigencia se debe extender hasta la terminación de dicho término.
+
+La Secretaría debe determinar la conveniencia de la solicitud y, en su caso, debe otorgar a la Comisión Federal de Electricidad, en un plazo que no debe exceder de sesenta días hábiles, contados a partir de la presentación de la solicitud correspondiente, nuevos Permisos de las Áreas Geotérmicas en las cuales debe continuar realizando los trabajos de Exploración, dejando sin efectos los Permisos actuales con los que cuenten estas áreas.
+
+Una vez otorgada a la Comisión Federal de Electricidad la prórroga para los Permisos de Exploración a los que se refiere el presente artículo transitorio debe sujetarse a los términos y condiciones de este ordenamiento legal y demás disposiciones aplicables.
+
+Octavo.- Las solicitudes de registros, Permisos o Concesiones que se encuentren en trámite a la entrada en vigor del presente Decreto, se deben resolver conforme a la Ley vigente.
+
+Para dar certeza jurídica a la implementación de la presente Ley, los actos de cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos se suspenden por un periodo de noventa días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
