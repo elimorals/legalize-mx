@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-federal-de-electricidad-101940"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2022-05-11"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101940&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2014-08-11"
 ---
 # LEY DE LA COMISION FEDERAL DE ELECTRICIDAD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO POR EL QUE SE EMITE LA DECLARATORIA A QUE SE REFIERE EL DÉCIMO CUARTO TRANSITORIO DE LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EN EL D.O.F. DE 16 DE FEBRERO DE 2015, LA SECRETARÍA DE ENERGÍA DECLARA QUE SE ENCUENTRA EN FUNCIONES EL NUEVO CONSEJO DE ADMINISTRACIÓN DE LA COMISIÓN FEDERAL DE ELECTRICIDAD Y ESTÁN EN OPERACIÓN LOS MECANISMOS DE FISCALIZACIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS QUE PREVÉ LA CITADA LEY.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -1654,3 +1656,85 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD".]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de la Comisión Federal de Electricidad publicada en el Diario Oficial de la Federación el 11 de agosto de 2014; así mismo, se derogan todas aquellas disposiciones legales y administrativas que se opongan a la presente Ley.
+
+Tercero.- La Comisión Federal de Electricidad se transforma en empresa pública del Estado derivado de la entrada en vigor del Decreto por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas, publicado en el Diario Oficial de la Federación el 31 de octubre de 2024, en cumplimiento a su transitorio segundo, y en los términos de la presente Ley.
+
+Por ministerio de ley se extinguen las empresas productivas subsidiarias de la Comisión Federal de Electricidad, por lo que la Comisión Federal de Electricidad se subroga en todos los derechos y obligaciones de las empresas productivas subsidiarias que se extinguen, a partir de la entrada en vigor de esta Ley.
+
+Los efectos fiscales que deriven de la subrogación de derechos y obligaciones a que se refiere el párrafo anterior, se sujetan a lo dispuesto en lo conducente y de manera análoga a las disposiciones jurídicas aplicables relativas a fusión de sociedades residentes en México, y en las reglas de carácter general que en su caso emita el Servicio de Administración Tributaria.
+
+La Secretaría de Hacienda y Crédito Público debe determinar los términos y condiciones de los efectos fiscales que procedan para la Comisión Federal de Electricidad con anterioridad al Decreto por el que se reforman el párrafo quinto del artículo 25, los párrafos sexto y séptimo del artículo 27 y el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de áreas y empresas estratégicas, publicado en el Diario Oficial de la Federación el 31 de octubre de 2024.
+
+Cuarto.- La persona titular del Ejecutivo Federal, dentro de los quince días naturales siguientes a la entrada en vigor de esta Ley, debe enviar a la Cámara de Senadores la designación de las dos personas consejeras independientes, acompañada de la documentación que acredite el cumplimiento de los requisitos para ocupar el cargo en los términos señalados en la presente Ley.
+
+La Cámara de Senadores debe ratificar mediante el voto favorable de sus integrantes presentes, las designaciones respectivas, dentro del improrrogable plazo de diez días naturales siguientes a la recepción de la designación.
+
+Si no se alcanzan los votos mencionados o la Cámara de Senadores no resuelve dentro del plazo señalado, se debe entender rechazada la designación respectiva, en cuyo caso la persona titular del Ejecutivo Federal debe enviar una nueva designación para su ratificación a la Cámara de Senadores, en términos del primer párrafo del presente artículo. Si esta segunda designación también es rechazada, la persona titular del Ejecutivo Federal debe designar directamente a las personas consejeras independientes.
+
+Por única ocasión y para respetar el escalonamiento previsto en esta Ley, las personas consejeras independientes designadas en términos del presente artículo, asumen su cargo, respectivamente, por cuatro y cinco años, según lo determine la persona titular del Ejecutivo Federal en la designación correspondiente.
+
+Las personas consejeras independientes que se encuentren en funciones previo a la entrada en vigor de esta Ley, deben cesar en sus funciones al entrar en vigor esta Ley, no obstante, por única ocasión, pueden ser consideradas en la designación que realice la persona titular del Ejecutivo Federal, a que se refiere el primer párrafo del presente artículo.
+
+Una vez ratificadas las dos personas consejeras independientes, en un plazo no mayor a quince días hábiles siguientes, debe instalarse el Consejo de Administración de la Comisión Federal de Electricidad, cuya sesión de instalación será convocada por única vez por la persona titular de la presidencia de dicho Consejo de Administración.
+
+Quinto.- La persona titular de la Dirección General de la Comisión Federal de Electricidad en funciones a la entrada en vigor de la presente Ley permanece en su cargo.
+
+Sexto.- Dentro de treinta días naturales a partir de la instalación del Consejo de Administración, la persona titular de la Dirección General debe presentar al Consejo de Administración, para su aprobación, el programa y esquema de reestructura, así como el Estatuto Orgánico de la Comisión Federal de Electricidad y los nombramientos necesarios. El Estatuto Orgánico que apruebe el Consejo de Administración debe publicarse en el Diario Oficial de la Federación.
+
+Séptimo.- En tanto se materialice la transferencia de bienes, derechos y obligaciones, así como de recursos humanos, materiales y financieros con motivo de la reestructura de la Comisión Federal de Electricidad, se deben realizar las acciones necesarias para dar continuidad a su operación y funcionamiento, los actos y trámites indispensables para cumplir con su objeto, incluyendo la delegación de funciones o asignación de responsabilidades, según corresponda y, en su caso, la celebración de convenios y acuerdos de coordinación operativa que resulten necesarios para garantizar la continuidad de las actividades y prestación de los servicios a su cargo.
+
+La Comisión Federal de Electricidad debe realizar las acciones necesarias para dar continuidad a los sistemas y controles que permitan la operación ininterrumpida de las actividades y funciones, así como los actos y trámites indispensables para cumplir con los compromisos y obligaciones adquiridos en materias financiera, administrativa, laboral, fiscal y legal, y las necesarias para hacer posible la realización de su objeto, las cuales no podrán exceder de un plazo de doce meses a partir de la entrada en vigor de la presente Ley.
+
+Octavo.- Se debe designar o, en su caso, ratificar a la persona titular de la Auditoría Interna de la Comisión Federal de Electricidad una vez instalado el Consejo de Administración conforme a lo señalado en el artículo Cuarto Transitorio de la presente Ley.
+
+Noveno.- La transmisión de bienes, derechos y obligaciones que se lleve a cabo con motivo de la reestructura corporativa de la Comisión Federal de Electricidad y sus Empresas Filiales, no se debe considerar enajenación para efectos fiscales.
+
+Asimismo, la transmisión de los bienes, derechos y obligaciones que se realicen por virtud de la referida reestructura no requiere formalizarse en escritura pública.
+
+Para todos los efectos jurídicos a que haya lugar, la transmisión de bienes, derechos y obligaciones debe formalizarse mediante actas de transferencia, las cuales en los casos que corresponda deben considerarse como título de propiedad o traslativo de dominio y deben inscribirse en los registros públicos respectivos. Dicha inscripción no debe pagar derechos.
+
+Décimo.- Los contratos, convenios, fideicomisos, concesiones, autorizaciones y permisos otorgados por cualquier autoridad regulatoria para el pleno ejercicio de las actividades de las empresas productivas subsidiarias extintas, se entienden concedidos a la empresa pública del Estado, Comisión Federal de Electricidad y continúan surtiendo efectos hasta el término de su vigencia de conformidad con la normatividad bajo la cual hayan sido formalizados.
+
+En caso de ser necesario, las autoridades regulatorias deben expedir los documentos en favor de la Comisión Federal de Electricidad que permitan conservar los términos y condiciones originalmente concedidos a las empresas productivas subsidiarias en lo que no se oponga a la presente Ley, la Ley del Sector Eléctrico y las demás disposiciones jurídicas vigentes; sin mediar nueva solicitud, trámite o formalización.
+
+Décimo Primero.- Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por cualquier órgano o unidad administrativa de la Comisión Federal de Electricidad o de sus empresas productivas subsidiarias que se extinguen, continúan en vigor en lo que no se opongan a esta Ley o a las resoluciones emitidas por la Secretaría de Energía, hasta en tanto los órganos o unidades administrativas competentes emitan nuevas normas o determinen su reforma o abrogación.
+
+Décimo Segundo.- Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades concedidas por la Comisión Federal de Electricidad con anterioridad a la entrada en vigor de la presente Ley, así como por las empresas productivas subsidiarias, se entienden conferidos por la Comisión Federal de Electricidad a las personas que originalmente fueron otorgados, y subsisten en tanto no se opongan a esta Ley, o bien, sean modificados o revocados expresamente.
+
+Décimo Tercero.- Los juicios, arbitrajes, procedimientos y trámites de cualquier naturaleza que se hayan iniciado o en los que participen las empresas productivas subsidiarias de la Comisión Federal de Electricidad, deben continuarse hasta su conclusión por las unidades administrativas competentes de la Comisión Federal de Electricidad que asuman las funciones conforme a la reorganización estructural de la empresa y su Estatuto Orgánico.
+
+Décimo Cuarto.- Las referencias que se realicen en las leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como las funciones que se les otorgan en otros instrumentos a la Comisión Federal de Electricidad como empresa productiva del Estado y sus empresas productivas subsidiarias, se deben entender realizadas a la Comisión Federal de Electricidad como empresa pública del Estado, derivado de su reorganización estructural y conforme al Estatuto Orgánico de la empresa, aprobados por su Consejo de Administración.
+
+Décimo Quinto.- Los contratos, convenios y otros actos jurídicos celebrados por la Comisión Federal de Electricidad y sus empresas productivas subsidiarias, que se encuentren vigentes a la entrada en vigor de la presente Ley, se respetan en los términos pactados.
+
+Los contratos, convenios, fideicomisos y otros actos jurídicos celebrados por la Comisión Federal de Electricidad con cualesquier personas físicas o morales ya sean nacionales o extranjeras, incluyendo, sin limitar, entidades financieras, agencias de crédito a la exportación, agencias multilaterales de inversión y entidades públicas, que se encuentren vigentes a la entrada en vigor de la presente Ley, se respetan en los términos pactados.
+
+Los derechos y obligaciones de las empresas productivas subsidiarias al amparo de los acuerdos, convenios, fideicomisos y, en general, cualesquier otros actos jurídicos vigentes celebrados con cualesquier personas físicas o morales, ya sean nacionales o extranjeras, incluyendo, sin limitar, entidades financieras, agencias de crédito a la exportación, agencias multilaterales de inversión y entidades públicas, son asumidos en este acto, por ministerio de Ley, por la Comisión Federal de Electricidad, sin necesidad de trámite alguno y con plenos efectos jurídicos a partir de esta fecha, respetando los términos en que fueron pactados.
+
+No obstante, la Comisión Federal de Electricidad, a través de las áreas competentes que resulten de la reestructura de la Comisión Federal de Electricidad que determine el Consejo de Administración, puede pactar su modificación, de común acuerdo con las contrapartes respectivas, para ajustarlos a las disposiciones de esta Ley y las demás leyes que resulten aplicables, con base en la normatividad que emita el Consejo de Administración de la Comisión Federal de Electricidad y sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
+
+La Comisión Federal de Electricidad debe tomar las medidas pertinentes para el cumplimiento de las obligaciones consignadas en dichos instrumentos.
+
+Lo establecido en esta Ley no afecta las obligaciones de pago contraídas y las garantías otorgadas por la Comisión Federal de Electricidad, en México y en el extranjero, con anterioridad a la entrada en vigor de esta Ley, de las que sea causahabiente la empresa pública del Estado, Comisión Federal de Electricidad. Las garantías otorgadas y obligaciones de pago asumidas, en México y en el extranjero, por las empresas productivas subsidiarias con anterioridad a la entrada en vigor de esta Ley, se entenderán otorgadas y asumidas, en sus términos, por la Comisión Federal de Electricidad.
+
+Ninguna acción de la Comisión Federal de Electricidad, derivada de la entrada en vigor de la presente Ley, será considerada un incumplimiento a los acuerdos anteriormente mencionados.
+
+Décimo Sexto.- La reestructura de la Comisión Federal de Electricidad que autorice el Consejo de Administración no debe afectar los derechos laborales adquiridos de las personas trabajadoras de la Comisión Federal de Electricidad en activo, de las empresas productivas subsidiarias que se extinguen, ni de sus personas jubiladas y pensionadas.
+
+Décimo Séptimo.- Los recursos humanos, financieros y materiales que se requieran para cumplir con lo dispuesto en la presente Ley, serán cubiertos con el presupuesto aprobado de la Comisión Federal de Electricidad.
+
+Décimo Octavo.- Para efectos de dar celeridad al correcto cumplimiento de las disposiciones fiscales, jurídicas o de cualquier otra índole que sean aplicables, la Comisión Federal de Electricidad y sus empresas filiales, contarán con todas las facilidades administrativas que permitan su alta, baja o cambio de sus inscripciones en padrones o registros, ante entidades públicas y privadas, así como para realizar cualquier otro trámite previo o posterior a la extinción de las empresas productivas del Estado.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto
