@@ -4,7 +4,7 @@ identifier: "FED-ley-de-promocion-y-desarrollo-de-los-bioenergeticos-58748"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-01"
-last_updated: "2008-02-01"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58748&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-01-31"
 ---
 # LEY DE PROMOCION Y DESARROLLO DE LOS BIOENERGETICOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROMOCION Y DESARROLLO DE LOS BIOENERGETICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 1 de febrero de 2008.
 
@@ -414,3 +416,43 @@ CUARTO.- El Ejecutivo Federal expedirá el Reglamento de la Presente Ley en un p
 México, D.F., a 13 de diciembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MARZO DE 2025.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Promoción y Desarrollo de los Bioenergéticos, publicada en el Diario Oficial de la Federación el 1 de febrero de 2008 y se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+Tercero.- En tanto se emita la nueva regulación o se modifique la regulación correspondiente, la normatividad y regulación emitidas por la SADER, la SENER y la SEMARNAT con anterioridad a la entrada en vigor de la presente Ley, continúan en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.
+
+Las referencias legales o reglamentarias a la Ley de Promoción y Desarrollo de los Bioenergéticos se entienden hechas, en lo aplicable, a la Ley de Biocombustibles.
+
+Cuarto.- En tanto se expiden los reglamentos correspondientes, la SADER, la SENER y la SEMARNAT tienen facultad para ejercer las atribuciones que les otorga la presente Ley a partir de su entrada en vigor.
+
+Las solicitudes de autorización o permisos que se hayan recibido previo a la entrada en vigor de esta Ley se tramitan conforme a las disposiciones jurídicas que para el efecto haya emitido la autoridad competente con anterioridad a la presente Ley.
+
+Quinto.- El Ejecutivo Federal debe expedir el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
+
+Sexto.- La SADER y la SENER deben publicar en el Diario Oficial de la Federación los formatos de solicitud de permisos previstos en el artículo 30 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de entrada en vigor de la presente Ley.
+
+Séptimo.- La SENER debe expedir los formatos para la Bitácora prevista en el artículo 31 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
+
+Octavo.- La SENER debe expedir el Programa para promover el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable, previsto en la fracción III del artículo 5 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
+
+Noveno.- La SEMARNAT debe expedir el Programa para promover el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción, previsto en la fracción III del artículo 6 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
+
+Décimo.- La SADER debe expedir el Programa para promover la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción, previsto en la fracción II del artículo 7 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
+
+Décimo Primero.- La Secretaría de Economía debe expedir los formatos para la metodología prevista en el artículo 19 de la Ley de Biocombustibles, dentro de los trescientos sesenta días siguientes a la fecha de su entrada en vigor.
+
+Décimo Segundo.- Los permisos y autorizaciones otorgados por la SENER y la Comisión Reguladora de Energía para llevar a cabo las actividades de Producción, Almacenamiento, Distribución, Comercialización, Transporte y Expendio al Público de bioenergéticos o Biocombustibles con anterioridad a la entrada en vigor de esta Ley, mantienen su vigencia en los términos otorgados.
+
+Décimo Tercero.- Los pagos de derechos que en materia de bioenergéticos o Biocombustibles se establecen en favor de la Comisión Reguladora de Energía en la Ley Federal de Derechos, se entienden en favor de la SENER.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
