@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-municipio-de-frontera-coahuila-de-176406"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-17"
-last_updated: "2024-12-17"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL MUNICIPIO DE FRONTERA, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2025.
 
 Ley publicada en la Quinta Sección del número 101 del Periódico Oficial del Estado de Coahuila, el martes 17 de diciembre de 2024.
 
