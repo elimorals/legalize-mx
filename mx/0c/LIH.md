@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2024-12-30"
+last_updated: "2025-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LIH"
 ---
 # LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025", PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2024.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ANEXO 25 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2026", PUBLICADO EN EL D.O.F. DE 28 DE DICIEMBRE DE 2025.]</small>
 
 LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025.
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -52,7 +52,9 @@ LEY DE INGRESOS SOBRE HIDROCARBUROS
 
 La presente Ley es de orden público y tiene por objeto establecer:
 
-I. El régimen de los ingresos que recibirá el Estado Mexicano derivados de las actividades de Exploración y Extracción de Hidrocarburos que se realicen a través de las Asignaciones y Contratos a que se refieren el artículo 27, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Hidrocarburos, así como las Contraprestaciones que se establecerán en los Contratos;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+I. El régimen de los ingresos que debe recibir el Estado Mexicano derivados de las actividades de Exploración y Extracción de Hidrocarburos que se realicen a través de las Asignaciones y Contratos a que se refieren el artículo 27, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Sector Hidrocarburos, así como las Contraprestaciones que se establecerán en los Contratos;
 
 II. Las disposiciones sobre la administración y supervisión de los aspectos financieros de los Contratos, y
 
@@ -64,23 +66,45 @@ Sin perjuicio de las demás obligaciones fiscales de los Contratistas y Asignata
 
 I. Por Contrato, las Contraprestaciones establecidas a favor del Estado en cada Contrato de conformidad con esta Ley;
 
-II. Por Asignación, los derechos a que se refiere el Título Tercero de esta Ley, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-III. El impuesto sobre la renta que causen los Contratistas y Asignatarios por las actividades que realicen en virtud de un Contrato o una Asignación.
+II. Por Asignación, el derecho a que se refiere el Título Tercero de esta Ley;
 
-Los ingresos a que se refieren las fracciones I y II de este artículo serán recibidos por el Fondo Mexicano del Petróleo, conforme a lo señalado en esta Ley, en cada Contrato y en las demás disposiciones aplicables. Dichos ingresos se exceptúan de las reglas de concentración contenidas en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+III. El impuesto sobre la renta que causen los Contratistas por las actividades que realicen en virtud de un Contrato, de acuerdo con la naturaleza del Contratista, así como por las actividades que realicen los Participantes de Asignaciones para Desarrollo Mixto, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+IV. Por Área Unificada, los que correspondan respectivamente, de conformidad con las fracciones anteriores.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Los ingresos a que se refieren las fracciones I, II y, en su caso, IV de este artículo deben ser recibidos por el Fondo Mexicano del Petróleo, conforme a lo señalado en esta Ley, en cada Contrato y en las demás disposiciones aplicables. Dichos ingresos se exceptúan de las reglas de concentración contenidas en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley, serán aplicables, en singular o plural, las definiciones contenidas en el artículo 4 de la Ley de Hidrocarburos, así como las siguientes:
+Para los efectos de esta Ley, son aplicables, en singular o plural, las definiciones contenidas en el artículo 5 de la Ley del Sector Hidrocarburos, así como las siguientes:
 
-I. Barril: unidad de medida equivalente a un volumen igual a 158.99 litros a una temperatura de 15.56 grados Celsius;
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+I. Área Unificada: el área determinada en superficie y profundidad en la que se instruyó la unificación por tratarse de un yacimiento compartido, de conformidad con la Ley del Sector Hidrocarburos;
+
+I Bis. Barril: unidad de medida equivalente a un volumen igual a 158.99 litros a una temperatura de 15.56 grados Celsius;
 
 II. BTU: unidad térmica británica, representa la cantidad de energía necesaria para elevar la temperatura de una libra de agua (0.4535 kilogramos) un grado Fahrenheit (0.5556 grados centígrados), en condiciones atmosféricas normales;
 
-III. Comercializador: aquel que contrate la Comisión Nacional de Hidrocarburos, a solicitud del Fondo Mexicano del Petróleo, para que preste a la Nación el servicio de comercialización de Hidrocarburos que reciba el Estado como resultado de un Contrato;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+III. Comercializador: aquel que contrate la Secretaría de Energía, a solicitud del Fondo Mexicano del Petróleo, para que preste a la Nación el servicio de comercialización de Hidrocarburos que reciba el Estado como resultado de un Contrato;
 
 IV. Condensados: líquidos del Gas Natural constituidos principalmente por pentanos y componentes de Hidrocarburos más pesados;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+IV Bis. Condición Base: la presión y temperatura con las cuales se miden los volúmenes de petróleo y condensados, las cuales son presión de 101.325 kiloPascales (1 atmósfera) y temperatura de 15.5556 grados Celsius (60 grados Fahrenheit);
 
 V. Contraprestación: aquella que se establezca en cada Contrato a favor del Estado o del Contratista;
 
@@ -98,7 +122,9 @@ X. Mecanismo de Ajuste: fórmula que establece la Secretaría en cada Contrato q
 
 XI. Periodo: mes calendario.
 
-Cuando las actividades se realicen en un periodo que no comprenda un mes calendario completo, el periodo será el número de días que efectivamente se operó el Contrato;
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Cuando las actividades se realicen en un periodo que no comprenda un mes calendario completo, el periodo será el número de días que efectivamente se operó el Contrato o Área Unificada;
 
 XII. Porcentaje de Recuperación de Costos: un porcentaje que la Secretaría fijará en las bases de licitación, así como en la migración de áreas bajo Asignación a los esquemas de Contrato, para cada Contrato que contemple la recuperación de costos;
 
@@ -108,11 +134,15 @@ XIV. Precio Contractual del Gas Natural: el Precio del Gas Natural producido en 
 
 XV. Precio Contractual del Petróleo: el Precio del Petróleo producido en el Área Contractual, en dólares de los Estados Unidos de América por Barril, que se determina cada Periodo en el Punto de Medición, en términos de lo dispuesto en el artículo 25 de esta Ley, conforme a los mecanismos previstos en cada Contrato;
 
-XVI. Producción Contractual: los Hidrocarburos extraídos en el Área Contractual, medidos de conformidad con las disposiciones que emita la Comisión Nacional de Hidrocarburos en el Punto de Medición, en el Periodo que corresponda;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XVI. Producción Contractual: los Hidrocarburos extraídos en el Área Contractual, medidos de conformidad con las disposiciones que emita la Secretaría de Energía en el Punto de Medición, en el Periodo que corresponda;
 
 XVII. Punto de Medición: punto determinado de conformidad con lo establecido en cada Contrato, en donde se llevará a cabo:
 
-a) La medición de cada tipo de Hidrocarburo extraído al amparo del Contrato de conformidad con las disposiciones que al efecto emita la Comisión Nacional de Hidrocarburos, y
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+a) La medición de cada tipo de Hidrocarburo extraído al amparo del Contrato de conformidad con las disposiciones que al efecto emita la Secretaría de Energía, y
 
 b) La determinación de los precios contractuales de cada tipo de Hidrocarburo, en términos de lo dispuesto en el artículo 25 de esta Ley;
 
@@ -122,13 +152,19 @@ XIX. Secretaría: la Secretaría de Hacienda y Crédito Público;
 
 XX. Utilidad Operativa: el resultado de disminuir al Valor Contractual de los Hidrocarburos los conceptos que se especifican en esta Ley para cada uno de los tipos de Contrato contemplados en la misma, que corresponda en cada Periodo;
 
-XXI. Valor Contractual de los Condensados: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual de los Condensados por ii) el volumen de los condensados en Barriles, en el Punto de Medición del Área Contractual;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXI. Valor Contractual de los Condensados: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual de los Condensados por ii) el volumen de los condensados en Barriles determinados a Condición Base, en el Punto de Medición del Área Contractual;
 
 XXII. Valor Contractual de los Hidrocarburos: la suma del Valor Contractual del Petróleo, el Valor Contractual del Gas Natural y el Valor Contractual de los Condensados;
 
-XXIII. Valor Contractual del Gas Natural: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Gas Natural por ii) el volumen, en millones de BTU de Gas Natural, en el Punto de Medición del Área Contractual, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XXIV. Valor Contractual del Petróleo: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Petróleo por ii) el volumen de Petróleo en Barriles, en el Punto de Medición del Área Contractual.
+XXIII. Valor Contractual del Gas Natural: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Gas Natural por ii) el volumen, en millones de BTU de Gas Natural determinados a Condición Base, en el Punto de Medición del Área Contractual, y
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXIV. Valor Contractual del Petróleo: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Petróleo por ii) el volumen de Petróleo en Barriles determinados a Condición Base, en el Punto de Medición del Área Contractual.
 
 ## TÍTULO SEGUNDO. DE LOS INGRESOS POR CONTRATOS
 
@@ -140,9 +176,11 @@ Las Contraprestaciones que se establezcan en los Contratos se calcularán y entr
 
 El pago al Estado Mexicano de las Contraprestaciones que se establezcan en los Contratos no exime a los Contratistas del cumplimiento de las obligaciones en materia tributaria establecidas en la Ley del Impuesto sobre la Renta y demás disposiciones fiscales.
 
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 5.
 
-La Secretaría publicará, dentro de los primeros 15 días naturales de cada año, un reporte que establezca los rangos de valores de los términos económicos que considerará para incluir en las bases de licitación del año correspondiente. La Secretaría únicamente podrá considerar valores fuera de estos rangos cuando las condiciones de los mercados y de la industria se hayan modificado, lo cual deberá justificar en un alcance al reporte anual. El reporte y sus alcances deberán publicarse en la página de Internet de la Secretaría.
+La Secretaría debe publicar, dentro de los primeros 20 días naturales de cada año, un reporte en cuyo contenido se establezcan los rangos de valores de los términos económicos que considerará incluir en las bases de licitación de los Contratos para la Exploración y Extracción del año correspondiente, la actualización de los parámetros de cálculo que, conforme a los ajustes estructurales del mercado de hidrocarburos, se prevén en el Anexo 3 de los instrumentos contractuales vigentes, así como las actualizaciones necesarias en materia de ingresos sobre hidrocarburos aplicables al año correspondiente. La Secretaría únicamente puede considerar valores fuera de estos rangos cuando las condiciones de los mercados y de la industria se hayan modificado, lo cual deberá justificar en un alcance al reporte anual. El reporte y sus alcances deben publicarse en la página de Internet de la Secretaría.
 
 #### Sección Primera. De las Contraprestaciones en los Contratos de Licencia
 
@@ -170,9 +208,11 @@ El bono a la firma a que se refiere la fracción I del apartado A del artículo 
 
 Las Contraprestaciones señaladas en las fracciones II, III y IV del apartado A del artículo 6 de esta Ley serán pagadas en efectivo por el Contratista al Estado Mexicano, en cada Periodo conforme se establezca en el Contrato.
 
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 9.
 
-En la migración de áreas bajo Asignación al esquema de Contrato de licencia en términos de la Ley de Hidrocarburos, la Secretaría determinará los términos económicos a que se refiere el apartado A del artículo 6 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.
+En la migración de áreas bajo Asignación al esquema de Contrato de licencia en términos de la Ley del Sector Hidrocarburos, la Secretaría debe determinar los términos económicos a que se refiere el apartado A del artículo 6 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -230,9 +270,11 @@ El Estado determinará en el Contrato las Contraprestaciones que el Contratista 
 
 En los Contratos de producción compartida se podrá optar por no incluir la Contraprestación correspondiente a la recuperación de costos, sin perjuicio de las obligaciones sobre su registro en términos del Contrato.
 
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 14.
 
-En la migración de áreas bajo Asignación a los esquemas de Contrato de utilidad compartida o de producción compartida, en términos de la Ley de Hidrocarburos, la Secretaría determinará los términos económicos a que se refieren los artículos 11 y 12 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.
+En la migración de áreas bajo Asignación a los esquemas de Contrato de utilidad compartida o de producción compartida, en términos de la Ley del Sector Hidrocarburos, la Secretaría debe determinar los términos económicos a que se refieren los artículos 11 y 12 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.
 
 ###### Artículo 15.
 
@@ -254,9 +296,11 @@ I. El monto de las Regalías efectivamente pagado por el Contratista en el Perio
 
 II. La Contraprestación correspondiente a la recuperación de costos determinada de conformidad con el artículo 16 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 18.
 
-Cuando los Contratistas utilicen bienes que hubieren sido deducidos parcial o totalmente en otro Contrato o conforme al Título Tercero de esta Ley, sólo se podrán reconocer para efectos del Contrato el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la Secretaría.
+Cuando los Contratistas utilicen bienes que hubieren sido deducidos parcial o totalmente en otro Contrato o Asignación, sólo se pueden reconocer para efectos del Contrato el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la Secretaría.
 
 ###### Artículo 19.
 
@@ -268,7 +312,9 @@ II. Los costos en que se incurra por negligencia o fraude del Contratista o de l
 
 III. Los donativos;
 
-IV. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga, que se derive de lo dispuesto en el artículo 27 y en el Capítulo IV del Título IV de la Ley de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+IV. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga, que se derive de lo dispuesto en el artículo 56 y en el Capítulo IV del Título Cuarto de la Ley del Sector Hidrocarburos;
 
 V. Los costos en que se incurra por servicios de asesoría, excepto aquéllos previstos en los lineamientos que emita la Secretaría;
 
@@ -296,7 +342,9 @@ XV. Aquellos que no sean estrictamente indispensables para la actividad objeto d
 
 Los Contratos preverán que en los casos en que el Contratista enajene activos, cuyo costo, gasto o inversión hayan sido recuperados conforme al Contrato, los ingresos que reciba por dicha operación serán entregados al Estado Mexicano, a través del Fondo Mexicano del Petróleo o, previa autorización de la Secretaría, un monto equivalente será descontado de las Contraprestaciones que le correspondan al Contratista.
 
-El Contratista deberá informar a la Secretaría y a la Comisión Nacional de Hidrocarburos de las enajenaciones a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+El Contratista debe informar a la Secretaría y a la Secretaría de Energía, de las enajenaciones a que se refiere el párrafo anterior, de conformidad con sus competencias.
 
 #### Sección Tercera. De las Contraprestaciones en los Contratos de Servicios
 
@@ -400,13 +448,19 @@ Las variables de adjudicación estarán asociadas al monto o porcentaje de recur
 
 La Secretaría podrá optar por incluir en cualquier Contrato cualquiera de las Contraprestaciones señaladas en esta Ley o una combinación de las mismas.
 
-En la migración de Asignaciones a Contratos, la Secretaría fijará las condiciones económicas relativas a los términos fiscales de los mismos. En caso de que dichos Contratos se modifiquen, en términos de lo establecido en la Ley de Hidrocarburos, la Secretaría determinará las nuevas condiciones económicas relativas a los términos fiscales que deberán incluirse en el convenio modificatorio respectivo.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Lo dispuesto en el párrafo anterior será sin perjuicio de las facultades que correspondan a la Comisión Nacional de Hidrocarburos.
+En la migración de Asignaciones a Contratos, la Secretaría debe fijar las condiciones económicas relativas a los términos fiscales de los mismos. En caso de que dichos Contratos se modifiquen, en términos de lo establecido en la Ley del Sector Hidrocarburos, la Secretaría debe determinar las nuevas condiciones económicas relativas a los términos fiscales que deben incluirse en el convenio modificatorio respectivo.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Lo dispuesto en el párrafo anterior es sin perjuicio de las facultades que correspondan a la Secretaría de Energía.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### Artículo 27.
 
-El Comercializador entregará al Fondo Mexicano del Petróleo todos los ingresos derivados de la venta de la Producción Contractual que de acuerdo a cada Contrato corresponda al Estado, una vez descontado el pago por los servicios de aquél, de conformidad con lo establecido en el contrato que formalice con la Comisión Nacional de Hidrocarburos, en términos del artículo 28 de la Ley de Hidrocarburos.
+El Comercializador debe entregar al Fondo Mexicano del Petróleo todos los ingresos derivados de la venta de la Producción Contractual que de acuerdo con cada Contrato corresponda al Estado, una vez descontado el pago por los servicios de aquél, de conformidad con lo establecido en el contrato que formalice con la Secretaría de Energía, en términos del artículo 57 de la Ley del Sector Hidrocarburos.
 
 ###### Artículo 28.
 
@@ -422,13 +476,17 @@ IV. Observar las reglas y bases sobre la procura de bienes y servicios para las 
 
 V. Cumplir con los requerimientos de información que las distintas instituciones les soliciten de conformidad con lo previsto en esta Ley;
 
-VI. Pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de los Contratos o la supervisión y vigilancia de las actividades realizadas al amparo de los mismos, que realicen la Comisión Nacional de Hidrocarburos y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+VI. Pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de los Contratos o la supervisión y vigilancia de las actividades realizadas al amparo de éstos, que realicen la Secretaría de Energía y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, y
 
 VII. Cumplir con las obligaciones de abandono y desmantelamiento conforme a las disposiciones jurídicas aplicables y lo dispuesto en el Contrato, y transferir al Estado los activos generados o adquiridos al amparo del Contrato sin cargo, pago, ni indemnización alguna y en buen estado de conservación y funcionamiento, teniendo en cuenta el desgaste normal producido por el uso, sin perjuicio de los finiquitos que en su caso correspondieran.
 
 Para efectos de lo previsto en las fracciones III y IV del presente artículo, cuando la Secretaría realice modificaciones a los lineamientos, éstas sólo aplicarán para los contratos que se adjudiquen con posterioridad a las mencionadas modificaciones.
 
-Cada Contrato deberá prever expresamente el compromiso del Contratista de pactar con los terceros con los que realice operaciones vinculadas con el objeto del propio Contrato, la obligación de dichos terceros de entregar directamente al Fondo Mexicano del Petróleo, a la Comisión Nacional de Hidrocarburos y a la Secretaría, cuando lo soliciten, la información sobre sus operaciones con el Contratista por virtud del Contrato.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Cada Contrato debe prever expresamente el compromiso del Contratista de pactar con los terceros con los que realice operaciones vinculadas con el objeto del propio Contrato, la obligación de dichos terceros de entregar directamente al Fondo Mexicano del Petróleo, a la Secretaría de Energía y a la Secretaría, cuando lo soliciten, la información sobre sus operaciones con el Contratista por virtud del Contrato.
 
 ###### Artículo 29.
 
@@ -440,29 +498,45 @@ Los Contratos preverán las condiciones bajo las cuales los Contratistas podrán
 
 En los casos en que el Contratista realice operaciones con partes relacionadas, tanto para la venta o comercialización de Hidrocarburos como para la procura de insumos, materiales o servicios, serán aplicables las Guías sobre Precios de Transferencia para las Empresas Multinacionales y las Administraciones Fiscales, aprobadas por el Consejo de la Organización para la Cooperación y el Desarrollo Económico en 1995, o aquéllas que las sustituyan, en la medida en que las mismas sean congruentes con las disposiciones de esta Ley, de la Ley del Impuesto sobre la Renta y de los tratados celebrados por México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 31.
 
-Las bases de licitación de los Contratos y los Contratos deberán prever que éstos sólo podrán ser formalizados con empresas productivas del Estado o Personas Morales que cumplan con:
+Las bases de licitación de los Contratos y los Contratos deben prever que éstos sólo podrán ser formalizados con Empresas Públicas del Estado o con Personas Morales que cumplan con:
 
 I. Ser residentes para efectos fiscales en México;
 
-II. Tener por objeto exclusivamente la Exploración y Extracción de Hidrocarburos, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+II. Tener por objeto exclusivamente la Exploración y Extracción de Hidrocarburos, a excepción de Petróleos Mexicanos, otras Empresas Públicas del Estado, así como los titulares de concesiones mineras para la adjudicación de los Contratos para la Exploración y Extracción de Gas Natural asociado a la veta de carbón mineral y producido por la misma para autoconsumo a que se refiere el artículo 56 de la Ley del Sector Hidrocarburos, y
 
 III. No tributar en el régimen fiscal opcional para grupos de sociedades a que se refiere el Capítulo VI del Título Segundo de la Ley del Impuesto sobre la Renta.
 
-Las empresas productivas del Estado y Personas Morales podrán participar en los procesos de licitación de forma individual, en consorcio o mediante la figura de asociaciones en participación.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Se entenderá por consorcio cuando dos o más empresas productivas del Estado y/o Personas Morales, presenten conjuntamente una proposición dentro del proceso de licitación para la adjudicación de un Contrato.
+Las Empresas Públicas del Estado y Personas Morales pueden participar en los procesos de licitación de forma individual, en consorcio o mediante la figura de asociaciones en participación.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Se entiende por consorcio cuando dos o más Empresas Públicas del Estado, Personas Morales, o ambas, presenten conjuntamente una proposición dentro del proceso de licitación para la adjudicación de un Contrato.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Se entiende por asociación en participación aquella a que se refiere la Ley General de Sociedades Mercantiles.
 
 Las bases de licitación deberán prever que el Contrato sólo podrá adjudicarse a asociaciones en participación cuyo convenio haya sido celebrado conforme a las leyes mexicanas.
 
 Cada uno de los integrantes del consorcio o de la asociación en participación deberá firmar el Contrato y cumplir con lo dispuesto en las fracciones I a III anteriores.
 
-Las empresas productivas del Estado, Personas Morales, asociaciones en participación y consorcios podrán ser titulares de más de un Contrato.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Las empresas productivas del Estado que deseen migrar sus Asignaciones a Contratos, no podrán tributar en el régimen fiscal opcional señalado en la fracción III de este artículo.
+Las Empresas Públicas del Estado, Personas Morales, asociaciones en participación y consorcios pueden ser titulares de más de un Contrato.
 
-Los Contratos deberán contemplar las penas convencionales y garantías de seriedad y de cumplimiento respaldadas por instrumentos financieros convencionales que se requieran para su operación.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Los Contratos deben contemplar las penas convencionales y garantías de cumplimiento respaldadas por instrumentos financieros convencionales que se requieran para su operación.
 
 ###### Artículo 32.
 
@@ -480,7 +554,9 @@ Cuando el Contratista utilice bienes de las inversiones a que se refiere este ar
 
 Para efectos de la pérdida fiscal prevista en el artículo 57 de la Ley del Impuesto sobre la Renta, los contribuyentes que realicen actividades en las regiones de áreas marinas con tirante de agua superior a quinientos metros, podrán disminuir dicha pérdida ocurrida en un ejercicio de la utilidad fiscal de los quince ejercicios siguientes hasta agotarlo.
 
-B. Las Personas Morales o empresas productivas del Estado que se agrupen en consorcio en términos del artículo 31 de esta Ley, observarán lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MARZO DE 2025)</small>
+
+B. Quienes se agrupen en consorcio en términos del artículo 31 de esta Ley, deben observar lo siguiente:
 
 I. Deberán celebrar un acuerdo de operación conjunta en el cual, al menos:
 
@@ -522,19 +598,27 @@ Los actos o actividades que causen el impuesto al valor agregado por los que se 
 
 En los casos en que se pretendan celebrar Contratos diferentes a los señalados en la presente Ley, la Secretaría determinará las Contraprestaciones correspondientes, de entre las previstas en este ordenamiento o una combinación de las mismas, buscando siempre la maximización de los ingresos de la Nación.
 
-En los Contratos formalizados por la Comisión Nacional de Hidrocarburos a que hace mención el primer párrafo de este artículo, todos los recursos derivados de la comercialización de la Producción Contractual que conforme al Contrato le corresponda al Estado, serán entregados al Fondo Mexicano del Petróleo, quien pagará las Contraprestaciones al Contratista de conformidad con lo establecido en el Contrato.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Cuando una empresa productiva del Estado que sea Contratista por virtud de la migración de una Asignación pretenda asociarse con terceros para la ejecución de un Contrato, la Secretaría estará facultada para establecer las condiciones económicas relativas a los términos fiscales del Contrato, así como las variables de adjudicación para la licitación de la asociación o cesión, según corresponda, y fijará las condiciones fiscales mínimas a observar en la licitación que garanticen que los ingresos para el Estado no sean inferiores a los que se hubieran obtenido bajo el Contrato original.
+En los Contratos formalizados por la Secretaría de Energía a que hace mención el primer párrafo de este artículo, todos los recursos derivados de la comercialización de la Producción Contractual que conforme al Contrato le corresponda al Estado, deben ser entregados al Fondo Mexicano del Petróleo, quien debe pagar las Contraprestaciones al Contratista de conformidad con lo establecido en el Contrato.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Cuando una Empresa Pública del Estado sea Contratista por virtud de la migración de una Asignación y pretenda asociarse con terceros para la ejecución de un Contrato, la Secretaría está facultada para establecer las condiciones económicas relativas a los términos fiscales del Contrato, así como las variables de adjudicación para la licitación de la asociación o cesión, según corresponda, y debe fijar las condiciones fiscales mínimas a observar en la licitación que garanticen que los ingresos para el Estado no sean inferiores a los que se hubieran obtenido bajo el Contrato original.
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN Y SUPERVISIÓN DE LOS ASPECTOS FINANCIEROS DE LOS CONTRATOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 35.
 
-Los Contratos preverán que la administración de los aspectos financieros de los mismos, relacionados con las Contraprestaciones y demás elementos previstos en esta Ley, se realizará por el Fondo Mexicano del Petróleo, sin perjuicio de las atribuciones que correspondan a la Comisión Nacional de Hidrocarburos en la administración de los Contratos.
+Los Contratos deben prever que la administración de los aspectos financieros de los mismos, relacionados con las Contraprestaciones y demás elementos previstos en esta Ley, se realiza por el Fondo Mexicano del Petróleo, sin perjuicio de las atribuciones que correspondan a la Secretaría de Energía en la administración de los Contratos.
 
 Asimismo, los Contratos preverán que la verificación de los aspectos financieros de los mismos, relacionados con las Contraprestaciones y demás elementos previstos en esta Ley, se realizará por la Secretaría.
 
-El Fondo Mexicano del Petróleo, la Secretaría y la Comisión Nacional de Hidrocarburos deberán coordinarse para el correcto ejercicio de sus respectivas funciones en la administración y supervisión de los Contratos.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+El Fondo Mexicano del Petróleo, la Secretaría y la Secretaría de Energía deben coordinarse para el correcto ejercicio de sus respectivas funciones en la administración y supervisión de los Contratos.
 
 ###### Artículo 36.
 
@@ -560,9 +644,13 @@ V. Solicitar a los Contratistas y a terceros la información que requiera para e
 
 VI. Proveer a la Secretaría la información que ésta requiera para la ejecución de sus funciones;
 
-VII. Solicitar a la Comisión Nacional de Hidrocarburos el apoyo técnico que requiera para la ejecución de sus funciones, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-VIII. Dar aviso a la Comisión Nacional de Hidrocarburos y a la Secretaría respecto de las irregularidades que detecte en el ejercicio de sus funciones a efecto de que se hagan valer los derechos que correspondan al Estado conforme al Contrato, o se apliquen las penas o sanciones que se prevean en el mismo. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables.
+VII. Solicitar a la Secretaría de Energía el apoyo técnico que requiera para la ejecución de sus funciones, y
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+VIII. Dar aviso a la Secretaría de Energía y a la Secretaría respecto de las irregularidades que detecte en el ejercicio de sus funciones a efecto de que se hagan valer los derechos que correspondan al Estado conforme al Contrato, o se apliquen las penas o sanciones que se prevean en el mismo. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables.
 
 B. Corresponde a la Secretaría:
 
@@ -584,9 +672,13 @@ VIII. Solicitar a los Contratistas y a terceros la información que requiera par
 
 IX. Solicitar al Fondo Mexicano del Petróleo la información adicional que requiera para la ejecución de sus funciones;
 
-X. Coordinarse con la Comisión Nacional de Hidrocarburos para recibir apoyo técnico y solicitar realice visitas de campo o de otro tipo para verificar las actividades e inversiones de los Contratistas, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XI. Dar aviso al Fondo Mexicano del Petróleo y la Comisión Nacional de Hidrocarburos respecto de las irregularidades que detecte en la ejecución del Contrato a efecto de que se hagan valer los derechos que correspondan al Estado conforme al mismo, o se apliquen las penas o sanciones que se prevean en el Contrato. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables.
+X. Coordinarse con la Secretaría de Energía para recibir apoyo técnico y solicitar realice visitas de campo o de otro tipo para verificar las actividades e inversiones de los Contratistas, y
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XI. Dar aviso al Fondo Mexicano del Petróleo y a la Secretaría de Energía respecto de las irregularidades que detecte en la ejecución del Contrato a efecto de que se hagan valer los derechos que correspondan al Estado conforme al mismo, o se apliquen las penas o sanciones que se prevean en el Contrato. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables.
 
 ###### Artículo 38.
 
@@ -596,251 +688,105 @@ El registro y reconocimiento de costos, gastos, inversiones e ingresos que se re
 
 ## TÍTULO TERCERO. DE LOS INGRESOS DERIVADOS DE ASIGNACIONES
 
-### CAPÍTULO I. DEL DERECHO POR LA UTILIDAD COMPARTIDA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO I. DEL DERECHO PETROLERO PARA EL BIENESTAR
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### Artículo 39.
 
-Los Asignatarios pagarán anualmente el derecho por la utilidad compartida aplicando una tasa del 54% a la diferencia que resulte de disminuir del valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, las deducciones permitidas en el artículo 40 de esta Ley.
+Los Asignatarios deben pagar anualmente el derecho petrolero para el bienestar, aplicando al valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, sin deducción alguna, las tasas siguientes:
 
-El derecho a que se refiere este artículo se enterará mediante declaración que se presentará ante las oficinas autorizadas a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+I. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres, áreas marítimas con tirante de agua inferior a quinientos metros y en el Paleocanal de Chicontepec:
+
+a) Cuando el precio del Petróleo sea inferior a 57.8 dólares de los Estados Unidos de América por barril:
+
+Tasa = 30% + (0.1410 x Precio del Petróleo - 8.1433) %
+
+b) Cuando el precio del Petróleo sea mayor o igual a 57.8 dólares de los Estados Unidos de América por barril:
+
+Tasa = 30% + (0.0629 x Precio del Petróleo - 3.6320) %
+
+II. Tratándose del Gas Natural No Asociado, incluyendo, en su caso, sus condensados:
+
+a) Cuando el precio del Condensado sea inferior a 57.8 dólares de los Estados Unidos de América por barril:
+
+Tasa = 11.6264% + (0.0560 x Precio del Condensado - 3.2308) %
+
+b) Cuando el precio del Condensado sea mayor o igual a 57.8 dólares de los Estados Unidos de América por barril:
+
+Tasa = 11.6264% + (0.0392 x Precio del Condensado - 2.2625) %
+
+III. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas marítimas con tirante de agua superior a quinientos metros, debe observarse lo previsto en la fracción I.
+
+El derecho a que se refiere este artículo se entera mediante declaración que debe presentarse ante las oficinas autorizadas a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### Artículo 40.
 
-Para la determinación de la base del derecho por la utilidad compartida, serán deducibles los siguientes conceptos:
+A cuenta del derecho a que se refiere el artículo 39 de esta Ley se deben hacer pagos provisionales mensuales, a más tardar el día 25 del mes posterior a aquél al que correspondan los pagos provisionales; cuando el mencionado día sea inhábil, el pago se debe realizar al siguiente día hábil. Los pagos provisionales mensuales se calculan aplicando la tasa que corresponda del artículo 39, al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago.
 
-I. El 100% del monto original de las inversiones realizadas para la Exploración, recuperación secundaria y el mantenimiento no capitalizable, en el ejercicio en el que se efectúen;
+Al pago provisional así determinado, se le restan los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional por enterar.
 
-II. El 25% del monto original de las inversiones realizadas para el desarrollo y extracción de yacimientos de Petróleo o Gas Natural, en cada ejercicio;
+En la declaración anual por el derecho a que se refiere el artículo 39 de esta Ley, pueden acreditarse los pagos provisionales mensuales de este derecho efectivamente pagados, correspondientes al ejercicio de que se trate.
 
-III. El 10% del monto original de las inversiones realizadas en infraestructura de Almacenamiento y transporte indispensable para la ejecución de las actividades al amparo de la Asignación, como oleoductos, gasoductos, terminales o tanques de Almacenamiento, en cada ejercicio;
+Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, el Asignatario puede compensar dicho saldo a favor contra los pagos posteriores del propio derecho, actualizado conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que se realice la compensación.
 
-IV. Los costos y gastos, considerándose para tales efectos las erogaciones necesarias para la extracción de los yacimientos de Petróleo o Gas Natural determinados de conformidad con las Normas de Información Financiera Mexicanas, excepto las inversiones a que se refieren las fracciones I, II y III de este artículo. Los únicos costos y gastos que se podrán deducir serán los de Exploración, transportación o entrega de los Hidrocarburos. Los costos y gastos se deducirán cuando hayan sido efectivamente pagados en el periodo al que corresponda el pago, y
-
-V. El derecho de extracción de hidrocarburos señalado en el artículo 44 de la presente Ley, efectivamente pagado durante el periodo que corresponda.
-
-Las deducciones a que se refieren las fracciones II y III de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
-
-El monto original de las inversiones a que se refieren las fracciones I a III de este artículo comprenderá, además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
-
-La deducción del monto original de las inversiones se podrá iniciar a partir de que se realicen las erogaciones por la adquisición de las mismas o a partir de su utilización. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el segundo párrafo de este artículo, rebasarán el 100% de su monto original.
-
-El Asignatario establecerá un registro de los costos y gastos de la Exploración y Extracción por cada campo de Extracción de Hidrocarburos, así como de los tipos específicos de Hidrocarburos que se obtengan, y deberá enviar a la Cámara de Diputados y al Servicio de Administración Tributaria la información periódica que se incorpore en dicho registro, poniendo a disposición de ellos los datos, estudios, reportes, prospectivas y demás fuentes de información en que se sustente la información incorporada al registro, con objeto de que puedan llevarse a cabo los actos de fiscalización que se consideren pertinentes a través de la Auditoría Superior de la Federación y del Servicio de Administración Tributaria.
-
-Los registros a que se refiere el párrafo anterior se realizarán conforme a las disposiciones de carácter general que al efecto emita la Secretaría.
+La Secretaría puede emitir los lineamientos para el debido cumplimiento de lo establecido en el presente Capítulo.
 
 ###### Artículo 41.
 
-Para efectos del cálculo del derecho por la utilidad compartida, no serán deducibles los conceptos a que se refiere el artículo 43 de esta Ley, así como los intereses de cualquier tipo a cargo del Asignatario, la reserva de exploración, los gastos de venta, los pagos por pensiones que se hagan con cargo a la reserva laboral y cualquier gasto, costo o inversión relacionado con los Contratos. En el caso de que la reserva laboral tenga remanentes en el ejercicio, dicho remanente se reducirá de las deducciones realizadas en el mismo ejercicio.
-
-Asimismo, el monto de la deducción por concepto de los costos, gastos e inversiones deducibles de las fracciones I a IV del artículo 40 de esta Ley, en ningún caso será mayor a los siguientes montos:
-
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-I. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres, el monto que resulte mayor de entre 12.500% del valor anual de los Hidrocarburos, y 8.30 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
-
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-II. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas marítimas con tirante de agua inferior a quinientos metros, el monto que resulte mayor de entre 12.500% del valor anual de los Hidrocarburos, y 6.10 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
-
-III. 80% del valor anual del Gas Natural No Asociado incluyendo, en su caso, el valor anual de los Condensados extraídos de campos de Gas Natural No Asociado;
-
-IV. 60% del valor anual de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas marítimas con tirante de agua superior a quinientos metros, y
-
-V. 60% del valor anual de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en el Paleocanal de Chicontepec.
-
-La parte deducible de los gastos, costos e inversiones conforme a las fracciones I a IV del artículo 40 de esta Ley que rebase el monto máximo de deducción conforme al párrafo anterior, se podrá deducir en los ejercicios inmediatos posteriores a aquél al que correspondan de conformidad con las disposiciones de carácter general que al efecto emita la Secretaría, sin que dicha deducción pueda aplicarse en la determinación de los derechos relativos a otra región conforme la clasificación contenida en la fracción X del artículo 48 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-Para los efectos de las fracciones I y II de este artículo se considerará como Barril de petróleo crudo equivalente a la suma del volumen de Petróleo y Condensados extraídos en Barriles más el volumen de Gas Natural extraído en millones de BTU dividido entre el factor de 5.15.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+(DEROGADO, D.O.F. 18 DE MARZO DE 2025)
 
 ###### Artículo 42.
 
-A cuenta del derecho a que se refiere el artículo 39 de esta Ley se harán pagos provisionales mensuales, a más tardar el día 25 del mes posterior a aquél al que correspondan los pagos provisionales; cuando el mencionado día sea inhábil, el pago se deberá realizar al siguiente día hábil. Los pagos provisionales mensuales se calcularán aplicando la tasa establecida en el primer párrafo del artículo 39 al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los siguientes conceptos:
-
-I. Los costos, gastos y la parte proporcional de las inversiones correspondientes al mismo periodo conforme a lo dispuesto en el artículo 40 de esta Ley, sin que excedan de los montos máximos en los siguientes términos:
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-a) Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, el monto que resulte mayor de entre 12.500% del valor de los Hidrocarburos, y 8.30 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-b) Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados extraídos en áreas marítimas con tirante de agua inferior a quinientos metros en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, el monto que resulte mayor de entre 12.500% del valor de los Hidrocarburos, y 6.10 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
-
-c) 80% del valor del Gas Natural No Asociado incluyendo, en su caso, el valor anual de los Condensados extraídos, en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, de campos de Gas Natural No Asociado;
-
-d) 60% del valor de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, en áreas marítimas con tirante de agua superior a quinientos metros, y
-
-e) 60% del valor de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, en el Paleocanal de Chicontepec;
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-Para los efectos de los incisos a) y b) de esta fracción se considerará como Barril de petróleo crudo equivalente a la suma del volumen de Petróleo y Condensados extraídos en Barriles más el volumen de Gas Natural extraído en millones de BTU dividido entre el factor de 5.15.
-
-La parte proporcional del monto deducible de la inversión, que se efectuará en el por ciento que represente el número de meses completos en los que el bien o bienes objeto de la inversión hayan sido utilizados por el Asignatario respecto de doce meses, en la proporción que el número de meses comprendidos desde el inicio del ejercicio y hasta el último día del mes del periodo al que corresponda el pago, representen en el total de meses comprendidos en el año, y
-
-II. El derecho por exploración de hidrocarburos y el derecho por extracción de hidrocarburos efectivamente pagados.
-
-Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional por enterar.
-
-En la declaración anual por el derecho a que se refiere el artículo 39 de esta Ley, se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este derecho, correspondientes al ejercicio de que se trate.
-
-Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, el Asignatario podrá compensar dicho saldo a favor contra los pagos posteriores del propio derecho. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que se realice la compensación.
+(DEROGADO, D.O.F. 18 DE MARZO DE 2025)
 
 ###### Artículo 43.
 
-Para los efectos del presente Capítulo, los siguientes costos y gastos no son deducibles:
+(DEROGADO, D.O.F. 18 DE MARZO DE 2025)
 
-I. Los costos financieros;
-
-II. Los costos en que se incurra por negligencia o fraude del Asignatario o de las personas que actúen por cuenta de éste;
-
-III. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga que derive de lo dispuesto en el artículo 27 y en el Capítulo IV del Título IV de la Ley de Hidrocarburos;
-
-IV. Las comisiones pagadas a corredores;
-
-V. Los costos relacionados con la comercialización o transporte de Petróleo o Gas Natural más allá de los puntos de entrega;
-
-VI. Las multas o sanciones económicas en que se incurra por el incumplimiento de obligaciones legales o contractuales;
-
-VII. Los gastos relacionados con el empleo de un experto independiente con el propósito de resolver disputas;
-
-VIII. Los donativos;
-
-IX. Los costos en que se incurra por servicios jurídicos y de asesoría, excepto aquéllos previstos en las disposiciones de carácter general que al efecto emita la Secretaría;
-
-X. Los gastos derivados del incumplimiento de las normas aplicables a la administración de riesgos;
-
-XI. Los gastos relacionados con la capacitación y programas de entrenamiento que no cumplan con las disposiciones de carácter general que al efecto emita la Secretaría;
-
-XII. Los gastos derivados del incumplimiento de las condiciones de garantía, así como las que resulten de la adquisición de bienes que no cuenten con una garantía del fabricante o su representante contra los defectos de fabricación, de acuerdo con las prácticas generalmente utilizadas por la industria petrolera;
-
-XIII. Las disminuciones en el valor de los bienes no usados en la industria petrolera;
-
-XIV. Los impuestos asociados a los trabajadores del Asignatario;
-
-XV. Los montos registrados como provisiones y reservas de los fondos, excepto las que se señalen en las disposiciones de carácter general que al efecto emita la Secretaría;
-
-XVI. Los créditos a favor del Asignatario cuyos deudores se encuentren en suspensión de pagos, hasta la conclusión del juicio correspondiente en el que los deudores sean declarados insolventes;
-
-XVII. Los pagos por concepto de Contraprestaciones, así como gastos, costos o inversiones correspondientes a Contratos;
-
-XVIII. Los costos legales por cualquier arbitraje que genere una disputa entre el Asignatario, y sus contratistas o subcontratistas;
-
-XIX. Los costos, gastos e inversiones por encima de referencias o precios de mercado razonables, de conformidad con lo que se establezca en las reglas y bases sobre el registro de costos, gastos e inversiones que establezca la Secretaría, y
-
-XX. Aquéllos que no sean estrictamente indispensables para las actividades por las que el Asignatario está obligado al pago del derecho establecido en el artículo 39 de esta Ley.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ### CAPÍTULO II. DEL DERECHO DE EXTRACCIÓN DE HIDROCARBUROS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
 ###### Artículo 44.
 
-El Asignatario estará obligado a pagar mensualmente el derecho de extracción de hidrocarburos, a más tardar el día 25 del mes posterior a aquél al que corresponda el pago; cuando el mencionado día sea inhábil, el pago se deberá realizar al siguiente día hábil. El pago mensual se calculará aplicando la tasa que corresponda de conformidad con las fracciones I a III de este artículo al valor del Hidrocarburo de que se trate extraído en el mes. Las tasas se determinarán empleando los precios de los Hidrocarburos en dólares por unidad, según corresponda, conforme a lo siguiente:
+(DEROGADO, D.O.F. 18 DE MARZO DE 2025)
 
-I. Al valor del Petróleo, se le aplicará la siguiente tasa:
-
-a) Cuando el precio del Petróleo sea inferior a 48 dólares de los Estados Unidos de América por Barril, de 7.5%, y
-
-b) Cuando el precio del Petróleo sea mayor o igual a 48 dólares de los Estados Unidos de América por Barril:
-
-Tasa= [(0.125 x precio del Petróleo) + 1.5] %
-
-II. Al valor del Gas Natural, se le aplicará la siguiente tasa:
-
-a) Cuando se trate de Gas Natural Asociado:
-
-Precio del Gas Natural
-
-Tasa = -----------------
-
-100
-
-b) Cuando se trate de Gas Natural No Asociado:
-
-i. Cuando el precio del Gas Natural sea menor o igual a 5 dólares de los Estados Unidos de América por millón de BTU, de 0%;
-
-ii. Cuando el precio del Gas Natural sea mayor a 5 y menor a 5.5 dólares de los Estados Unidos de América por millón de BTU:
-
-(Precio del Gas Natural - 5) x 60.5
-
-Tasa = [----------------------------] %
-
-Precio del Gas Natural
-
-iii. Cuando el precio del Gas Natural sea mayor o igual a 5.5 dólares de los Estados Unidos de América por millón de BTU:
-
-Precio del Gas Natural
-
-Tasa = ------------------
-
-100
-
-III. Al valor de los Condensados se le aplicará la siguiente tasa:
-
-a) Cuando el precio de los Condensados sea inferior a 60 dólares de los Estados Unidos de América por Barril, de 5%, y
-
-b) Cuando el precio de los Condensados sea mayor o igual a 60 dólares de los Estados Unidos de América por Barril:
-
-Tasa= [ (0.125 x Precio de los Condensados) - 2.5 ] %
-
-Para la determinación de las tasas para el cálculo del derecho a que se refiere este artículo se deberán considerar los efectos de las variaciones en el Índice de Precios al Productor de los Estados Unidos de América o el que lo sustituya. Para ello, la Secretaría se sujetará a los lineamientos que para este propósito emita, los cuales deberán ser publicados en el Diario Oficial de la Federación.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ### CAPÍTULO III. DEL DERECHO DE EXPLORACIÓN DE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025", PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2024.]</small>
-
 ###### Artículo 45.
 
-El Asignatario estará obligado al pago mensual del derecho de exploración de hidrocarburos, por la parte del Área de Asignación que no se encuentre en la fase de producción, de conformidad con las siguientes cuotas:
-
-I. Durante los primeros 1,150 pesos por kilómetro cuadrado
-
-60 meses de vigencia de la
-
-Asignación
-
-II. A partir del mes 2,750 pesos por kilómetro cuadrado
-
-61 de vigencia de la
-
-Asignación y en adelante
-
-Las cuotas del derecho de exploración de hidrocarburos se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-La declaración de pago del derecho a que se refiere el presente artículo se presentará a más tardar el día 17 del mes calendario inmediato posterior a aquél al que corresponda dicho pago.
+(DEROGADO, D.O.F. 18 DE MARZO DE 2025)
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES DE LOS ASIGNATARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 46.
 
-Las Asignaciones sólo podrán otorgarse a empresas productivas del Estado cuyo objeto sea exclusivamente la Exploración y Extracción de Hidrocarburos, y que no tributen en el régimen fiscal opcional para grupos de sociedades a que se refiere el Capítulo VI del Título Segundo de la Ley del Impuesto sobre la Renta.
+Las Asignaciones sólo pueden otorgarse a Empresas Públicas del Estado cuyo objeto contenga la realización de actividades de Exploración y Extracción de Hidrocarburos.
 
-Los Asignatarios estarán obligados al pago del impuesto sobre la renta por los ingresos que obtengan por las actividades de Exploración y Extracción de Hidrocarburos y cumplirán con sus obligaciones fiscales conforme a lo dispuesto por la Ley del Impuesto sobre la Renta y demás disposiciones aplicables.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Para efectos de lo dispuesto en este Título, así como para el cumplimiento de las obligaciones fiscales contenidas en la Ley del Impuesto sobre la Renta, los Asignatarios deberán llevar contabilidad separada por tipo de región respecto de los ingresos obtenidos por sus actividades.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Para efectos de la determinación del impuesto sobre la renta, los Asignatarios, en lugar de aplicar los porcentajes de deducción establecidos en los artículos 33 y 34 de la Ley del Impuesto sobre la Renta, deberán aplicar los siguientes porcentajes:
+Para efectos de lo dispuesto en este Título, los Asignatarios deben llevar contabilidad separada por tipo de área respecto de los ingresos obtenidos por sus actividades.
 
-I. El 100% del monto original de las inversiones realizadas para la Exploración, recuperación secundaria y el mantenimiento no capitalizable, en el ejercicio en el que se efectúen;
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-II. El 25% del monto original de las inversiones realizadas para el desarrollo y extracción de yacimientos de Petróleo o Gas Natural, en cada ejercicio, y
-
-III. El 10% del monto original de las inversiones realizadas en infraestructura de Almacenamiento y transporte indispensable para la ejecución de las actividades al amparo de la Asignación, como oleoductos, gasoductos, terminales o tanques de Almacenamiento, en cada ejercicio.
-
-Con excepción de lo previsto en el artículo 32, apartado A, segundo párrafo de esta Ley, el Asignatario deberá cumplir con las obligaciones fiscales de forma separada de aquéllas obligaciones fiscales que se generen con motivo de un Contrato.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 Para efectos del cumplimiento de las obligaciones fiscales que se generen con motivo de las Asignaciones, los ingresos derivados de Contratos no serán acumulables, ni serán deducibles los pagos por concepto de Contraprestaciones, los gastos, costos o inversiones que correspondan a actividades realizadas al amparo de Contratos.
 
-Sin perjuicio de los derechos contenidos en el presente Título, los Asignatarios estarán obligados a pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de las Asignaciones o la supervisión y vigilancia de las actividades realizadas al amparo de las mismas, que realicen la Comisión Nacional de Hidrocarburos y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Sin perjuicio del derecho contenido en el presente Título, los Asignatarios están obligados a pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de las Asignaciones o la supervisión y vigilancia de las actividades realizadas al amparo de las mismas, que realicen la Secretaría de Energía y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
 
 ###### Artículo 47.
 
@@ -850,31 +796,49 @@ I. Deberá determinar las bases y reglas sobre el registro de costos, gastos e i
 
 II. Deberá determinar las bases y reglas sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo de una Asignación, conforme a los lineamientos que emita, mismos que deberán tener como objetivo minimizar los costos, gastos e inversiones, privilegiando para ello el uso de mecanismos que garanticen la mayor transparencia, y
 
-III. Podrá solicitar a los Asignatarios la información que requiera para el cumplimiento de sus facultades contempladas en esta Ley.
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+III. Puede solicitar al Asignatario la información que requiera para el cumplimiento de sus facultades contempladas en esta Ley.
 
 ###### Artículo 48.
 
 Para los efectos de este Título, se considerará:
 
-I. Como valor de los Hidrocarburos extraídos, la suma del valor del Petróleo, el valor del Gas Natural y el valor de los Condensados, según corresponda, extraídos en la región de que se trate, en el periodo por el que esté obligado al pago del derecho;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-II. Como valor del Petróleo, la suma del valor de cada tipo de Petróleo extraído en la región de que se trate, en el periodo de que se trate. El valor de cada tipo de Petróleo extraído en la región de que se trate se entenderá como el precio del Petróleo por barril del Petróleo extraído en dicha región, en el periodo de que se trate, multiplicado por el volumen de barriles de Petróleo extraído en la región en el mismo periodo por el que esté obligado al pago del derecho;
+I. Como valor de los Hidrocarburos extraídos, la suma del valor del Petróleo, el valor del Gas Natural y el valor de los Condensados, según corresponda, extraídos en el área de que se trate, en el periodo por el que esté obligado al pago del derecho;
 
-III. Como valor del Gas Natural, el precio del Gas Natural multiplicado por el volumen de Gas Natural extraído en la región de que se trate, en el mismo periodo por el que esté obligado al pago del derecho;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-IV. Como valor de los Condensados, el precio de los Condensados extraídos en la región de que se trate, en el periodo de que se trate, multiplicado por el volumen de barriles de Condensados extraídos en la región en el mismo periodo por el que esté obligado al pago del derecho;
+II. Como valor del Petróleo, la suma del valor de cada tipo de Petróleo extraído en el área de que se trate, en el periodo de que se trate. El valor de cada tipo de Petróleo extraído en el área de que se trate se entiende como el precio del Petróleo por barril del Petróleo extraído en dicha área, en el periodo de que se trate, multiplicado por el volumen de barriles de Petróleo extraído en el área en el mismo periodo por el que esté obligado al pago del derecho;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+III. Como valor del Gas Natural, el precio del Gas Natural multiplicado por el volumen de Gas Natural extraído en el área de que se trate, en el mismo periodo por el que esté obligado al pago del derecho;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+IV. Como valor de los Condensados, el precio de los Condensados extraídos en el área de que se trate, en el periodo de que se trate, multiplicado por el volumen de barriles de Condensados extraídos en el área en el mismo periodo por el que esté obligado al pago del derecho;
 
 V. Como precio del Petróleo, el precio promedio de exportación por barril del Petróleo extraído en el periodo de que se trate. En el caso de que algún tipo de Petróleo comercializado dentro del país no haya sido exportado, el precio promedio ponderado de estos se calculará ajustándolo por la calidad del Hidrocarburo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga. La Secretaría expedirá las reglas de carácter general que definan los métodos de ajuste correspondientes;
 
-VI. Como precio del Gas Natural, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de Gas Natural enajenado por el contribuyente;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-VII. Como precio de los Condensados, el precio promedio de los Condensados que en el periodo que corresponda haya tenido el barril de Condensados enajenado por el contribuyente;
+VI. Como precio del Gas Natural, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de Gas Natural extraído por el contribuyente, determinado de conformidad con las reglas de carácter general a las que se refiere el último párrafo de este artículo;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+VII. Como precio de los Condensados, el precio promedio de los Condensados que en el periodo que corresponda haya tenido el barril de Condensados extraído por el contribuyente, determinado de conformidad con las reglas de carácter general a las que se refiere el último párrafo de este artículo;
 
 VIII. Como efectivamente pagado, la suma de los montos que el Asignatario aplicó para la extinción de su obligación fiscal disminuidos por los saldos a favor que hayan sido compensados contra otras contribuciones;
 
-IX. Como Paleocanal de Chicontepec, aquella región de Extracción de Petróleo y/o Gas Natural ubicados en los municipios de Castillo de Teayo, Coatzintla, Coyutla, Chicontepec, Espinal, Ixhuatlán de Madero, Temapache, Papantla, Poza Rica de Hidalgo, Tepetzintla o Tihuatlán, en el Estado de Veracruz de Ignacio de la Llave, o en los municipios de Francisco Z. Mena, Pantepec o Venustiano Carranza, en el Estado de Puebla, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-X. Como región, la que corresponda de conformidad con la siguiente clasificación:
+IX. Como Paleocanal de Chicontepec, aquella área de Extracción de Petróleo y/o Gas Natural ubicados en los municipios de Castillo de Teayo, Coatzintla, Coyutla, Chicontepec, Espinal, Ixhuatlán de Madero, Temapache, Papantla, Poza Rica de Hidalgo, Tepetzintla o Tihuatlán, en el Estado de Veracruz de Ignacio de la Llave, o en los municipios de Francisco Z. Mena, Pantepec o Venustiano Carranza, en el Estado de Puebla, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MARZO DE 2025)</small>
+
+X. Como área, la que corresponda de conformidad con la siguiente clasificación:
 
 a) Áreas terrestres;
 
@@ -886,13 +850,19 @@ d) Áreas marinas con tirante de agua superior a quinientos metros, o
 
 e) Paleocanal de Chicontepec.
 
-La Secretaría podrá expedir las reglas de carácter general que definan los métodos de ajuste del Valor de los Hidrocarburos correspondientes.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+La Secretaría debe expedir las reglas de carácter general para la determinación del Valor de los Hidrocarburos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### Artículo 49.
 
-El Asignatario presentará ante la Secretaría un reporte anual de las inversiones, costos y gastos que, de conformidad con lo establecido en este Título, haya deducido en el ejercicio fiscal de que se trate.
+El Asignatario debe presentar ante la Secretaría un reporte anual de las inversiones, costos y gastos que, de conformidad con lo establecido en este Título, se hayan realizado durante el ejercicio fiscal de que se trate.
 
-En el reporte a que se refiere este artículo, el Asignatario deberá incluir las inversiones, costos y gastos que haya realizado en el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, así como proyecciones de éstas para los dos ejercicios siguientes al que se reporte y, en caso de que las inversiones, gastos y costos en los que haya incurrido en el ejercicio fiscal de que se trate hayan presentado más de un 10% de diferencias respecto de los montos proyectados, deberá incluir la justificación correspondiente.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+En dicho reporte el Asignatario debe incluir las inversiones, costos y gastos que se hayan realizado en el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, así como proyecciones de éstas para los dos ejercicios siguientes al que se reporte y, en caso de que las inversiones, gastos y costos que se hayan incurrido en el ejercicio fiscal de que se trate hayan presentado más de un 10% de diferencias respecto de los montos proyectados, deberá incluir la justificación correspondiente.
 
 Junto con el reporte a que se refiere el párrafo anterior, el Asignatario deberá presentar ante la Secretaría la siguiente información:
 
@@ -902,29 +872,49 @@ II. La metodología utilizada para elaborar las proyecciones de Extracción de H
 
 III. Las premisas y supuestos empleados en las proyecciones a que se refiere el segundo párrafo de este artículo, entre las que se encuentran factores de recuperación, interpretación sísmica, número y técnicas de pozos perforados, así como los criterios para la reclasificación de Reservas.
 
-La Secretaría podrá solicitar la información adicional que considere conveniente en relación con el reporte anual y la información a que se refiere este artículo, así como emitir las disposiciones de carácter general que sean necesarias para regular su presentación.
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-El reporte anual y la información a que se refiere este artículo deberán entregarse a más tardar el 31 de marzo del ejercicio fiscal siguiente a aquél que se reporte.
+Adicional a lo anterior, el Asignatario debe presentar ante la Secretaría un reporte trimestral de las inversiones, costos y gastos que se hayan realizado durante el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, en los meses de abril, julio, octubre y enero del año que corresponda.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+La Secretaría puede solicitar la información adicional que considere conveniente en relación con los reportes anual y trimestral, así como la información a que se refiere este artículo, y puede emitir las disposiciones de carácter general que sean necesarias para regular su presentación.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+El reporte anual y la información antes referida deben entregarse a más tardar el 31 de marzo del ejercicio fiscal siguiente a aquél que se reporte.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### Artículo 50.
 
-Para los efectos de este Título, el Asignatario deberá contar con sistemas de medición de volúmenes extraídos de Petróleo, Gas Natural y Condensados, instalados en cada pozo, campo y punto de transferencia de custodia. La Comisión Nacional de Hidrocarburos emitirá los lineamientos para la medición de los citados volúmenes.
+Para los efectos de este Título, el Asignatario debe contar con sistemas de medición de volúmenes extraídos de Petróleo, Gas Natural y sus Condensados, instalados en cada campo y punto de transferencia de custodia. La Secretaría de Energía debe emitir los lineamientos para la medición de los citados volúmenes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### Artículo 51.
 
-Para los efectos del presente Título, cuando el Asignatario enajene Petróleo o Gas Natural a partes relacionadas, estará obligado a determinar el valor del Petróleo y Gas Natural, considerando para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para ello el método de precio comparable no controlado establecido en el artículo 180, fracción I de la Ley del Impuesto sobre la Renta.
+Para los efectos del presente Título, cuando el Asignatario enajene Petróleo o Gas Natural a partes relacionadas, está obligado a determinar el valor del Petróleo, Gas Natural y sus Condensados, considerando para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, para ello debe aplicar el método de precio comparable no controlado establecido en el artículo 180, fracción I de la Ley del Impuesto sobre la Renta.
 
 Tratándose de costos, gastos e inversiones realizados o adquiridos con partes relacionadas, el Asignatario considerará para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para esos efectos lo dispuesto en los artículos 11, 179 y 180 de la Ley del Impuesto sobre la Renta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 52.
 
-El Asignatario enterará los derechos a que se refiere el presente Título al Fondo Mexicano del Petróleo.
+El Asignatario debe enterar el derecho a que se refiere el presente Título al Fondo Mexicano del Petróleo.
 
-El Asignatario deberá cumplir ante la autoridad fiscal competente con las demás disposiciones de carácter fiscal relativas al pago de derechos.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Las declaraciones de los derechos a que se refiere el presente Título, se presentarán mediante los mecanismos electrónicos que establezca el Servicio de Administración Tributaria, y el entero del derecho se realizará mediante transferencia electrónica al Fondo Mexicano del Petróleo.
+El Asignatario debe cumplir ante la autoridad fiscal competente con las demás disposiciones de carácter fiscal relativas al pago de este derecho.
 
-Al presentar las declaraciones sobre el pago de derechos a que se refiere el presente Título a la autoridad fiscal, el Asignatario deberá acompañar los comprobantes de pago emitidos por el Fondo Mexicano del Petróleo.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Las declaraciones del derecho a que se refiere el presente Título deben presentarse mediante los mecanismos electrónicos que establezca el Servicio de Administración Tributaria, y el entero realizarse mediante transferencia electrónica al Fondo Mexicano del Petróleo.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Al presentar las declaraciones sobre el pago del derecho a que se refiere el presente Título a la autoridad fiscal, el Asignatario debe acompañar los comprobantes de pago emitidos por el Fondo Mexicano del Petróleo.
 
 El Fondo Mexicano del Petróleo podrá establecer los lineamientos técnicos necesarios para realizar las funciones que le correspondan conforme al presente Título.
 
@@ -982,7 +972,9 @@ II. En los casos en que las Áreas Contractuales o las Áreas de Asignación se 
 
 III. La distribución de los recursos entre las entidades federativas y entre los municipios se determinará con base en el total recaudado y al procedimiento establecido en las reglas de operación que al efecto emita la Secretaría.
 
-Para efectos del párrafo anterior, la Comisión Nacional de Hidrocarburos, deberá proveer a la Secretaría la información necesaria, de acuerdo a las reglas de operación señaladas, y
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Para efectos del párrafo anterior, la Secretaría de Energía, debe proveer a la Secretaría la información necesaria, de acuerdo con las reglas de operación señaladas, y
 
 IV. La totalidad de los recursos se deberá destinar a inversión en infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico. Las entidades federativas y municipios podrán destinar hasta el 3% de los recursos para la realización de estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
 
@@ -1020,19 +1012,27 @@ k) Las Asignaciones que hayan sido migradas a Contratos en el mes correspondient
 
 l) El pago realizado al Comercializador de cada Contrato que incluya esa figura;
 
-II. Derivado de lo dispuesto en el Título Tercero, por cada una de las regiones definidas en la fracción X del artículo 48 de esta Ley:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MARZO DE 2025)</small>
+
+II. Derivado de lo dispuesto en el Título Tercero, por cada una de las áreas definidas en la fracción X del artículo 48 de esta Ley:
 
 a) Volumen producido, por tipo de Hidrocarburo;
 
 b) Ingresos derivados de la comercialización de los Hidrocarburos;
 
-c) Montos recibidos por concepto de cada uno de los derechos;
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-d) Montos de las inversiones reportadas por los Asignatarios, y
+c) Montos recibidos por concepto del derecho;
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+d) Montos de las inversiones reportadas por el Asignatario, y
 
 e) Montos de los costos deducibles y los efectivamente deducidos por los Asignatarios en el periodo;
 
-III. De manera agregada, el monto del impuesto sobre la renta pagado por los Contratistas y Asignatarios, y en su caso, el monto de las devoluciones efectuadas;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+III. De manera agregada, el monto del impuesto sobre la renta pagado por los Contratistas, y en su caso, el monto de las devoluciones efectuadas;
 
 IV. Los convenios o bases de coordinación que se celebren en términos de la presente Ley;
 
@@ -1044,13 +1044,17 @@ a) Los conceptos y los montos correspondientes a los costos, gastos o deduccione
 
 b) Los resultados definitivos de las auditorías que se practiquen en términos del artículo 37, apartado B, fracción VII, de esta Ley;
 
-c) Los casos en que se haya ejercido la función a que se refiere el artículo 37, apartado B, fracción X, de esta Ley, así como el reporte obtenido de la Comisión Nacional de Hidrocarburos;
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+c) Los casos en que se haya ejercido la función a que se refiere el artículo 37, apartado B, fracción X, de esta Ley, así como el reporte obtenido de la Secretaría de Energía;
 
 d) Los casos en que se haya ejercido la función a que se refiere el artículo 37, apartado A, fracción VII, y apartado B, fracción XI, de esta Ley, y
 
 e) Los montos de los créditos fiscales firmes determinados a los Asignatarios con motivo de las revisiones que se practiquen en términos de lo dispuesto por el artículo 42 y demás aplicables del Código Fiscal de la Federación respecto al cumplimiento del pago de los derechos previstos en el Título Tercero de esta Ley y, en su caso, los montos de las multas que se les impongan.
 
-Para dar cumplimiento a lo dispuesto en este artículo, el Fondo Mexicano del Petróleo y la Secretaría se coordinarán con la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y el Servicio de Administración Tributaria.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Para dar cumplimiento a lo dispuesto en este artículo, el Fondo Mexicano del Petróleo y la Secretaría deben coordinarse con la Secretaría de Energía y el Servicio de Administración Tributaria.
 
 Para los efectos de este artículo, la publicación de la información en materia fiscal constituye una excepción a lo previsto en el artículo 69 del Código Fiscal de la Federación.
 
@@ -1064,15 +1068,19 @@ Con el objeto de garantizar que los recursos del Fondo Mexicano del Petróleo se
 
 En el caso de que se identifiquen irregularidades en el manejo de los recursos del Fondo Mexicano del Petróleo, se aplicarán las sanciones señaladas en las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 61.
 
-La Secretaría incluirá en la Cuenta de la Hacienda Pública Federal y en los Informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, los ingresos obtenidos por el Estado Mexicano que deriven de los Contratos y de los derechos a que se refiere la presente Ley.
+La Secretaría debe incluir en la Cuenta de la Hacienda Pública Federal y en los Informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, los ingresos obtenidos por el Estado Mexicano que deriven de los Contratos y del derecho a que se refiere la presente Ley.
 
 ## TÍTULO SEXTO. DISPOSICIONES FINALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 62.
 
-Los servidores públicos de la Secretaría responsables de determinar y verificar las condiciones económicas relativas a los términos fiscales, así como los servidores públicos de la Secretaría de Energía responsables de adjudicar las Asignaciones o del diseño técnico de los Contratos, así como de los lineamientos técnicos que deberán observarse en el proceso de licitación de dichos contratos contarán, en términos de los lineamientos que emita la Secretaría, con seguros, fianzas o cauciones, que cubran el monto de la indemnización por los daños que cause su actuación en el ejercicio de sus atribuciones, o bien, seguros para asumir los servicios de defensa y asistencia legal de dichos servidores públicos. Dichos seguros, fianzas o cauciones no formarán parte de las prestaciones de los servidores públicos mencionados.
+Los servidores públicos de la Secretaría responsables de determinar y verificar las condiciones económicas relativas a los términos fiscales, así como los servidores públicos de la Secretaría de Energía responsables de adjudicar las Asignaciones o del diseño técnico de los Contratos, así como de los lineamientos técnicos que deben observarse en el proceso de licitación de dichos contratos, deben contar, en términos de los lineamientos que emita la Secretaría, con seguros, fianzas o cauciones, que cubran el monto de la indemnización por los daños que cause su actuación en el ejercicio de sus atribuciones, y seguros para asumir los servicios de defensa y asistencia legal de dichos servidores públicos. Dichos seguros, fianzas o cauciones no forman parte de las prestaciones de los servidores públicos mencionados.
 
 Para tal fin, la Secretaría y la Secretaría de Energía crearán anualmente las provisiones presupuestarias correspondientes en su presupuesto de gasto de operación.
 
@@ -1084,15 +1092,19 @@ En los casos en que derivado de resolución administrativa o penal firme se haya
 
 La Secretaría podrá instruir al Servicio de Administración Tributaria la realización de las auditorías y visitas a que se refiere la fracción VII del apartado B del artículo 37 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
+
 ###### Artículo 64.
 
-Para los efectos de esta Ley, así como para la Ley del Impuesto sobre la Renta se considera que se constituye establecimiento permanente cuando un residente en el extranjero realice las actividades a que se refiere la Ley de Hidrocarburos, en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un periodo que sume en conjunto más de 30 días en cualquier periodo de 12 meses.
+Para los efectos de esta Ley, así como para la Ley del Impuesto sobre la Renta se considera que se constituye establecimiento permanente cuando un residente en el extranjero realice las actividades a que se refiere la Ley del Sector Hidrocarburos, en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un periodo que sume en conjunto más de 30 días en cualquier periodo de 12 meses.
 
 Para los efectos del cómputo del periodo a que se refiere el párrafo anterior, se considerarán dentro del mismo las actividades que se realicen por una parte relacionada del residente en el extranjero, siempre que las actividades sean idénticas o similares, o formen parte de un mismo proyecto. Son partes relacionadas las señaladas en el artículo 179 de la Ley del Impuesto sobre la Renta.
 
 El residente en el extranjero que constituya establecimiento permanente en el país, en términos de lo dispuesto en este artículo, pagará el impuesto sobre la renta que se cause de conformidad con la ley de la materia.
 
-Los ingresos por sueldos, salarios y remuneraciones similares que obtengan residentes en el extranjero, que se paguen por residentes en el extranjero sin establecimiento permanente en el país o, que teniéndolo no se relacionen con dicho establecimiento, respecto de un empleo relacionado con las actividades de los Contratistas o Asignatarios a los que se refiere la Ley de Hidrocarburos, realizado en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un plazo que exceda de 30 días en cualquier período de 12 meses, estarán gravados de conformidad con el artículo 154 de la Ley del Impuesto sobre la Renta.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Los ingresos por sueldos, salarios y remuneraciones similares que obtengan residentes en el extranjero, que se paguen por residentes en el extranjero sin establecimiento permanente en el país o, que teniéndolo no se relacionen con dicho establecimiento, respecto de un empleo relacionado con las actividades de los Contratistas o Asignatarios a los que se refiere la Ley del Sector Hidrocarburos, realizado en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un plazo que exceda de 30 días en cualquier período de 12 meses, están gravados de conformidad con el artículo 154 de la Ley del Impuesto sobre la Renta.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1213,3 +1225,13 @@ RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 29 DE DICIEMBRE DE 2023.
 RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 30 DE DICIEMBRE DE 2024.
 
 > <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2024, PÁGINA 830, EN "RESOLUCIÓN MISCELÁNEA FISCAL PARA 2025, Y SUS ANEXOS 1, 5, 6, 8, 15, 19 Y 27".]</small>
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS."]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las obligaciones de los asignatarios correspondientes al ejercicio fiscal de 2024, derivadas de los derechos a que se refieren los artículos 39, 44 y 45 de la Ley de Ingresos sobre Hidrocarburos vigente hasta el 31 de diciembre de 2024, deben cumplirse conforme a las disposiciones vigentes hasta dicha fecha.
+
+El Servicio de Administración Tributaria puede emitir reglas de carácter general necesarias para el debido cumplimiento de lo dispuesto en el presente artículo transitorio.
