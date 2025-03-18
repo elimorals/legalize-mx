@@ -4,7 +4,7 @@ identifier: "FED-ley-de-hidrocarburos-101933"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2024-04-01"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101933&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-08-11"
 ---
 # LEY DE HIDROCARBUROS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SECTOR HIDROCARBUROS, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -2452,3 +2452,93 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL SECTOR HIDROCARBUROS”.]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Hidrocarburos, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014. Todas las referencias a la Ley de Hidrocarburos que se encuentren en otras leyes se entienden referenciadas a la Ley del Sector Hidrocarburos.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+Cuarto.- Se abrogan las disposiciones administrativas en materia de licitaciones de contratos para la exploración y extracción de hidrocarburos publicadas en el Diario Oficial de la Federación el 28 de noviembre de 2014 y quedan sin efecto todas las bases de licitación para la adjudicación de contratos para la Exploración y Extracción de Hidrocarburos emitidas con anterioridad a la entrada en vigor de la presente Ley.
+
+Quinto.- En tanto se emite nueva regulación o se modifica la regulación correspondiente, la normatividad y regulación emitidas con anterioridad a la entrada en vigor de la presente Ley por la Secretaría de Energía, las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, continuarán en vigor, en tanto no se opongan a la presente Ley.
+
+Sexto.- La Secretaría de Energía y la Comisión Nacional de Energía, dentro de los ciento ochenta días naturales después de la entrada en vigor de la presente Ley, deben dejar sin efectos la regulación aplicable a las ventas de primera mano y aquella regulación asimétrica aplicables a Petróleos Mexicanos y sus empresas filiales, y establecer las obligaciones para la presentación de información respectiva.
+
+Séptimo.- Los contratos de venta de primera mano que tengan suscritos Petróleos Mexicanos y sus empresas filiales, deberán migrar a contratos de Comercialización en un plazo no mayor a ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de esta Ley.
+
+Octavo.- La persona Titular del Ejecutivo Federal expedirá el Reglamento de esta Ley dentro de los ciento ochenta días naturales siguientes a la fecha de su entrada en vigor. Los reglamentos de la Ley de Hidrocarburos continuarán vigentes en lo que no se opongan a esta Ley.
+
+Noveno.- Las solicitudes de autorización, aprobación o permisos que se hayan recibido con anterioridad a la entrada en vigor de esta Ley, se tramitarán conforme a las disposiciones jurídicas vigentes al momento de su presentación.
+
+Décimo.- Las Asignaciones y Contratos para la Exploración y Extracción de Hidrocarburos que se hubieran otorgado o celebrado con anterioridad a la entrada en vigor de esta Ley, mantendrán su vigencia en los términos y condiciones con que fueron otorgados, conforme a la ley y a las disposiciones aplicables vigentes a su otorgamiento, salvo lo dispuesto en el presente artículo.
+
+En cuanto a la administración de las Asignaciones y los Contratos para la Exploración y Extracción de Hidrocarburos, los procesos de aprobación, aviso e informes iniciados antes de la entrada en vigor de la presente Ley se tramitarán conforme a las disposiciones jurídicas vigentes al momento de su tramitación.
+
+Las Asignaciones otorgadas a Petróleos Mexicanos previo a la entrada en vigor de esta Ley, se entenderán como Asignaciones para Desarrollo Propio.
+
+La Secretaría de Energía cuenta con un plazo máximo de ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley, para celebrar los convenios modificatorios respectivos a los Contratos para la Exploración y Extracción celebrados en alianza o de manera individual por Pemex Exploración y Producción derivado del cambio de naturaleza jurídica de Petróleos Mexicanos como empresa pública del Estado, y su consecuente reestructuración; para que sea ésta última la que detente el carácter de Contratista o empresa participante, según sea el caso. Lo anterior sin necesidad de que se presente una solicitud, obtener el consentimiento ni agotar el procedimiento previsto en esta Ley o disposiciones normativas secundarias de cualquier naturaleza, y sin que dé lugar al pago de aprovechamiento alguno, en tanto se lleva a cabo dicha formalización, todas las referencias a Pemex Exploración y Producción se entienden a Petróleos Mexicanos.
+
+Décimo Primero.- Los contratos de servicios de Comercialización de los Hidrocarburos correspondientes al Estado que se hayan celebrado antes de la entrada en vigor de la presente Ley mantendrán su vigencia en los términos en los que se hayan acordado.
+
+Décimo Segundo.- Los convenios de acceso a la información del Centro Nacional de Información de Hidrocarburos que se hayan celebrado antes de la entrada en vigor de la presente Ley, mantendrán su vigencia en los términos en los que se hayan acordado.
+
+Décimo Tercero.- Las autorizaciones y los permisos que se hubieran otorgado por la Secretaría de Energía, la Comisión Nacional de Hidrocarburos o la Comisión Reguladora de Energía para llevar a cabo las actividades de la industria de Hidrocarburos con anterioridad a la entrada en vigor de esta Ley, mantendrán su vigencia en los términos otorgados.
+
+Décimo Cuarto.- Las personas que realicen actividades de Transporte por medios distintos a ductos y comercialización de petroquímicos, que a la fecha de entrada en vigor de la presente Ley no cuenten con permiso, deberán solicitar y obtener el permiso correspondiente por parte de la Comisión Nacional de Energía, dentro de los ciento ochenta días naturales posteriores a la emisión de la regulación aplicable a dicho trámite.
+
+Las personas que realizan actividades de importación de Gas Natural deben solicitar y obtener el permiso correspondiente por parte de la Secretaría de Energía, en términos del acuerdo que para tales efectos emitan las secretarías de Energía y de Economía.
+
+La Comisión Nacional de Energía podrán solicitar a Petróleos Mexicanos y a la Secretaría de Economía la información y registros que tengan en sus bases de datos respecto de las personas que realicen las actividades señaladas en el presente artículo.
+
+La Comisión Nacional de Energía, establecerá los mecanismos que faciliten y agilicen la expedición de los permisos a que se refiere este artículo transitorio.
+
+Décimo Quinto.- La enajenación que realicen Petróleos Mexicanos o alguna de sus empresas filiales, es considerada como Comercialización en términos de lo establecido por la presente Ley y sus Reglamentos, por lo que se deberán observar los principios de generalidad y no indebida discriminación previstos en la misma.
+
+Décimo Sexto.- Los contratos de obras, servicios, proveeduría u operación suscritos por Petróleos Mexicanos, con fundamento en la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo y la Ley de Hidrocarburos, continuarán en vigor bajo los términos y condiciones en que hayan sido suscritos.
+
+Décimo Séptimo.- Respecto a los Permisos de Formulación a que hace referencia el artículo 84, el otorgamiento de estos iniciará hasta en tanto se emitan las Normas Oficiales Mexicanas en materia de especificaciones de calidad de las mezclas permitidas, se cuente con la infraestructura de la calidad necesaria para la evaluación de la conformidad de estas, de acuerdo con la Ley de Infraestructura de la Calidad, y la Secretaría de Energía emita la declaratoria correspondiente.
+
+Décimo Octavo.- La Secretaría de Energía se coordinará con la Secretaría de Infraestructura, Comunicaciones y Transportes y con la Agencia para que la regulación del transvase se realice en términos de esta Ley y se revise que los permisos vigentes no afecten el desarrollo eficiente del sector Hidrocarburos.
+
+Décimo Noveno.- Los contratos integrales de exploración y producción que se encuentren vigentes, suscritos por Petróleos Mexicanos o sus organismos subsidiarios previo a la entrada en vigor de esta Ley no sufrirán modificación alguna en sus términos y condiciones como resultado de la publicación de esta.
+
+Las partes de dichos contratos podrán solicitar conjuntamente a la Secretaría de Energía, la migración de la Asignación a un Contrato para la Exploración y Extracción sin necesidad de agotar el procedimiento de licitación previsto en la presente Ley. Esta migración se realizará con base en los lineamientos técnicos que establezca la Secretaría de Energía y las condiciones económicas relativas a los términos fiscales que, conforme a la Ley de Ingresos sobre Hidrocarburos, disponga la Secretaría de Hacienda y Crédito Público, siempre y cuando no se afecte el balance de los ingresos esperados para el Estado. En la elaboración de los lineamientos técnicos a que se refiere este artículo, la Secretaría de Energía solicitará opinión a Petróleos Mexicanos.
+
+Las Secretarías de Energía y de Hacienda y Crédito Público informarán a las partes los términos contractuales y fiscales que al efecto establezcan. En caso de que los términos contractuales y fiscales propuestos no resulten aceptables a las partes una vez realizada la petición de migración, éstas tendrán el derecho a mantener su relación contractual original bajo los contratos integrales de exploración y producción o contratos de obra pública financiada según corresponda.
+
+En caso de que las partes manifiesten su conformidad a los términos contractuales y fiscales propuestos, la Secretaría de Energía aprobará la migración y procederá la formalización de un Contrato para la Exploración y Extracción que se firmará por parte de la Secretaría de Energía y la asociación o alianza que para este propósito específico constituyan la empresa productiva subsidiaria y la Persona Moral respectiva, de acuerdo con las políticas que dicte el Consejo de Administración de Petróleos Mexicanos.
+
+Previo a la firma del Contrato para la Exploración y Extracción, deberá haberse dado por terminado de manera anticipada el contrato integral de exploración y producción o el contrato de obra pública financiada, según corresponda, sin que se ocasionen daños, perjuicios, sanciones o cualquier otra consecuencia punitiva a ninguna de las partes.
+
+Las inversiones realizadas con motivo de la ejecución del correspondiente contrato podrán ser reconocidas por las partes como aportación de capital por parte de quien sea titular de las mismas a la asociación o alianza constituida entre estas para la ejecución y administración del Contrato.
+
+Adicionalmente, Petróleos Mexicanos podrá solicitar a la Secretaría de Energía la sustitución de las asignaciones asociadas a los contratos integrales de exploración y producción, y los contratos de servicios integrales de exploración y extracción que se encuentren vigentes a Asignaciones para Desarrollo Mixto, en las que los contratistas o prestadores de servicios, según corresponda, fungirán como participantes en la mencionada asignación. De realizarse la sustitución, deberá darse por terminado de manera anticipada el contrato integral de exploración y producción o el contrato de servicios integrales de exploración y extracción en los mismos términos del párrafo quinto de este artículo, previo a la firma del Contrato Mixto.
+
+Vigésimo.- Durante los primeros dos años contados a partir de la entrada en vigor de la presente Ley, la Secretaría de Energía podrá contratar las adquisiciones, arrendamientos y servicios que se requieran para la integración de la plataforma de información electrónica.
+
+Vigésimo Primero.- Los pozos no otorgados en Asignaciones o Contratos, previo a la entrada en vigor de la presente Ley, que a la fecha tengan producción de Hidrocarburos bajo el resguardo de Petróleos Mexicanos, pueden ser otorgados en Asignaciones para Desarrollo Propio o en Asignaciones para Desarrollo Mixto.
+
+Vigésimo Segundo.- La Evaluación de Impacto Social continuará vigente hasta en tanto no se emitan las disposiciones administrativas generales correspondientes a la Manifestación de Impacto Social del Sector Energético.
+
+Vigésimo Tercero.- En cumplimiento de lo previsto en el artículo 116, segundo párrafo de esta Ley, a partir del primero de enero de 2026 y en tanto no se modifique la Norma Oficial Mexicana “NOM-016-CRE-2016 Especificaciones de calidad de los petrolíferos” o se emita una nueva norma oficial mexicana que la sustituya, se debe estar a lo siguiente:
+
+I. La responsabilidad para la toma de muestras y la determinación de las especificaciones de calidad a que se refieren los numerales 5.1, 5.1.2, 5.1.3 excepto las personas Permisionarias de transporte por ducto, 5.1.4 excepto las personas Permisionarias de almacenamiento, y 5.1.5 recae en la Secretaría de Energía, en su calidad de autoridad normalizadora, quien ejerce dicha atribución a través de la Comisión Nacional de Energía. Para la toma de muestras y determinación de las especificaciones de calidad correspondientes, la Comisión Nacional de Energía puede auxiliarse de laboratorios de prueba acreditados y aprobados, en términos de lo dispuesto en la Ley de la Infraestructura de la Calidad;
+
+II. Para efectos de lo dispuesto en la fracción anterior, las personas Permisionarias de importación, transporte por medios distintos a ductos, almacenamiento, distribución y expendio al público de petrolíferos deben otorgar el acceso y facilidades para que se pueda realizar la toma de muestras respectiva, y
+
+III. El resultado de las pruebas de laboratorio debe ser comunicado por la Comisión Nacional de Energía a las personas Permisionarias, por medios electrónicos, dentro de los 5 días hábiles posteriores a su recepción por parte del laboratorio de prueba correspondiente.
+
+La Secretaría de Hacienda y Crédito Público debe garantizar que para el ejercicio fiscal 2026 y en tanto no se modifique la Norma Oficial Mexicana “NOM-016-CRE-2016 Especificaciones de calidad de los petrolíferos” o se emita una nueva norma oficial mexicana que la sustituya, los aprovechamientos por la supervisión anual de los permisos a que se refiere este artículo, cubran los costos relativos a la toma de muestra y determinación de especificaciones de calidad a que se refieren la fracción I de este artículo.
+
+Para la determinación de dichos aprovechamientos, la Comisión Nacional de Energía debe establecer un costo promedio por actividad regulada con base en la información que los laboratorios de prueba aprobados deben remitir en términos de la Ley de Infraestructura de la Calidad.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
