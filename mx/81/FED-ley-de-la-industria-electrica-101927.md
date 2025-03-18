@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-industria-electrica-101927"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2024-04-01"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-08-11"
 ---
 # LEY DE LA INDUSTRIA ELECTRICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SECTOR ELÉCTRICO, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA INDUSTRIA ELÉCTRICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -2350,3 +2352,67 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DEL SECTOR ELÉCTRICO".]
+
+Primero. La presente Ley entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley de la Industria Eléctrica, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014 y demás disposiciones que se opongan al presente Decreto.
+
+Tercero. La operación del Mercado Eléctrico Mayorista debe realizarse conforme a las Reglas del Mercado, las Disposiciones Administrativas de Carácter General que contienen los criterios de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional: Código de Red, y demás disposiciones aplicables vigentes al momento de la publicación de esta Ley y hasta en tanto no se expidan nuevas disposiciones.
+
+Cuarto. Dentro de los primeros 180 días de la entrada en vigor de la presente Ley, la CNE debe revisar y actualizar las metodologías de transmisión y las metodologías de las tarifas reguladas del Servicio Público de Transmisión, para dar cumplimiento a lo establecido en la reforma constitucional en materia de áreas y empresas estratégicas publicada en el Diario Oficial de la Federación el 31 de octubre de 2024. Lo anterior, para garantizar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y Sostenibilidad del Sistema Eléctrico Nacional. En tanto no se emitan las actualizaciones, siguen aplicando las disposiciones vigentes.
+
+Quinto. A la entrada en vigor de la presente Ley, todos los permisos, contratos o cualquier instrumento o acto administrativo otorgados al amparo de la Ley del Servicio Público de Energía Eléctrica, continúan surtiendo sus efectos hasta la terminación de su vigencia, rigiéndose conforme a los términos en los que fueron otorgados bajo la Ley del Servicio Público de Energía Eléctrica y a las disposiciones vigentes al momento de su formalización.
+
+Los instrumentos a que se refiere este artículo transitorio no deben ser prorrogados una vez que concluya su vigencia.
+
+Sexto. La Secretaría debe promover que personas titulares de los permisos al amparo de la Ley del Servicio Público de Energía Eléctrica; autoabastecimiento, cogeneración, pequeña producción, producción independiente, importación, exportación y usos propios continuos y de los contratos y convenios vinculados a los mismos, puedan solicitar la migración a las figuras de la presente Ley de manera expedita a través de estrategias o programas que comprendan la simplificación administrativa y agilidad técnica.
+
+Para ello, la Secretaría debe emitir los lineamientos que regulen el procedimiento expedito de migración e instruir a las instituciones del sector a implementar una ventanilla única que facilite su tramitación bajo las condiciones referidas.
+
+Séptimo. Los integrantes de una sociedad de autoabastecimiento o de los establecimientos asociados a la cogeneración de energía eléctrica, pueden solicitar directamente la exclusión de sus centros de carga del permiso y del contrato de interconexión respectivo conforme a las disposiciones vigentes, en tanto no se emitan nuevas disposiciones, con la finalidad de regirse al amparo de la presente Ley.
+
+Octavo. Los titulares o integrantes de las sociedades de autoabastecimiento, establecimientos asociados a la cogeneración y contratos de interconexión emitidos al amparo de la Ley del Servicio Público de Energía Eléctrica que tengan interés en participar en el Mercado Eléctrico Mayorista en modalidad de Generadora, deben migrar la totalidad de su capacidad a las figuras de generación de la presente Ley y celebrar contratos sujetándose a las Reglas del Mercado.
+
+Los Centros de Carga incluidos en dichos contratos de interconexión referidos en el presente artículo transitorio pueden excluirse de los mismos para recibir el Suministro Básico o Calificado de acuerdo con sus intereses.
+
+Lo anterior conforme a los lineamientos que emita la Secretaría para el procedimiento expedito de migración a los que se refiere el artículo transitorio Sexto.
+
+Noveno. A la entrada en vigor de la presente Ley, todos los permisos, contratos o cualquier instrumento o acto administrativo otorgados al amparo de la Ley de la Industria Eléctrica continúan surtiendo sus efectos hasta la terminación de su vigencia, rigiéndose conforme a los términos en los que fueron otorgados bajo la Ley de la Industria Eléctrica y a las disposiciones vigentes al momento de su formalización. Dichos instrumentos no deben ser prorrogados una vez que concluya su vigencia.
+
+Las personas titulares de los permisos, contratos o cualquier instrumento o acto administrativo otorgados, pueden solicitar la migración a las figuras de la presente Ley.
+
+Para ello, la Secretaría debe emitir los lineamientos que regulen el procedimiento expedito de migración e instruir a las instituciones del sector a implementar una ventanilla única que facilite su tramitación a través de estrategias o programas que comprendan la simplificación administrativa y agilidad técnica.
+
+Décimo. Los contratos, así como cualquier otro acto que derive de los mismos que hayan sido celebrados con las empresas productivas del Estado y sus subsidiarias al amparo de la Ley de la Industria Eléctrica, se deben transferir a las Empresas Públicas del Estado, por lo que continúan rigiéndose en los términos establecidos en los actos jurídicos y las demás disposiciones emanadas de dicha Ley, y en lo que no se oponga a lo anterior, por lo dispuesto en la Ley del Sector Eléctrico y sus artículos transitorios.
+
+Para efectos de lo anterior, la Empresa Pública del Estado debe mantener la separación de sus actividades en materia de nominaciones y ofertas para el Mercado Eléctrico Mayorista en congruencia con el Sistema de liquidación, reliquidación, facturación, emisión de estados de cuenta, cobranza y balance financiero del mercado.
+
+Para efectos de la participación de la Empresa Pública del Estado en el Mercado Eléctrico Mayorista, ésta debe mantener y establecer la separación operativa y funcional para que:
+
+a) Las actividades de generación realicen las ofertas de compra y venta de energía de manera diferenciada a las demás actividades que realiza;
+
+b) Las actividades de Suministro Básico realice las ofertas de compra y venta de energía de manera diferenciada a las demás actividades que realiza;
+
+c) Las actividades de transmisión realicen sus actividades en materia de operación y mediación y sus liquidaciones respectivas de manera diferenciada, y
+
+d) Las actividades de distribución puedan realizar sus actividades en materia de operación y mediación y sus liquidaciones respectivas de manera diferenciada.
+
+Para dichos efectos el CENACE debe establecer cuentas de orden diferenciadas por cada segmento horizontal con el fin de mantener la integridad de los procesos de liquidación, reliquidación, facturación, emisión de estados de cuenta, cobranza y balance financiero del mercado, lo anterior sin menoscabo de los mecanismos simplificados de tesorería y garantías necesarias.
+
+Décimo Primero. Las solicitudes de autorización, aprobación o permisos que se hayan recibido con anterioridad a la entrada en vigor de esta Ley, se deben tramitar conforme a las disposiciones jurídicas vigentes al momento de su ingreso. Asimismo, los solicitantes pueden presentar voluntariamente su desistimiento al trámite que a la fecha no haya sido resuelto, a fin de que ingresen uno nuevo al amparo de la presente Ley.
+
+Décimo Segundo. La Evaluación de Impacto Social continúa vigente hasta en tanto no se emitan las disposiciones administrativas generales correspondientes a la Manifestación de Impacto Social del Sector Energético.
+
+Décimo Tercero. Se derogan los Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad (TESL), emitidos por la Secretaría de Energía y publicados en el Diario Oficial de la Federación el día 11 de enero de 2016, en todo lo que se oponga al presente Decreto conforme a sus artículos transitorios. Los numerales de los mencionados Términos, relativos a las empresas productivas subsidiarias de la CFE, quedarán derogados una vez que entre en vigor la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad. Únicamente continuarán vigentes los numerales 8.2 y subsecuentes, así como su Capítulo 9, en lo que se refiere a las empresas filiales de la Comisión Federal de Electricidad, en tanto la Secretaría de Energía emita las nuevas normas que deberán sustituirlos.
+
+Décimo Cuarto. A la entrada en vigor de la presente Ley, la CNE debe revisar la metodología tarifaria y los costos del servicio de operación, investigación, actualización y desarrollo del CENACE conforme a los artículos 116 y 158, la cual surtirá efectos una vez que se emita.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
