@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2024-11-28"
+last_updated: "2025-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -48,29 +48,21 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
 La presente Ley establece las bases de organización de la Administración Pública Federal, centralizada y paraestatal.
 
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-La Oficina de la Presidencia de la República, las Secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los Órganos Reguladores Coordinados integran la Administración Pública Centralizada.
+La Oficina de la Presidencia de la República, las Secretarías de Estado y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
 
 Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 2o.
 
 En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Poder Ejecutivo de la Unión, habrá las siguientes dependencias de la Administración Pública Centralizada:
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+I. Secretarías de Estado, y
 
-I.- Secretarías de Estado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-II.- Consejería Jurídica, y
-
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-III.- Órganos Reguladores Coordinados en Materia Energética a que hace referencia el artículo 28, párrafo octavo, de la Constitución.
+II. Consejería Jurídica.
 
 ###### ARTICULO 3o.
 
@@ -78,9 +70,17 @@ El Poder Ejecutivo de la Unión se auxiliará en los términos de las disposicio
 
 I.- Organismos descentralizados;
 
-II.- Empresas de participación estatal, instituciones nacionales de crédito, organizaciones auxiliares nacionales de crédito e instituciones nacionales de seguros y de fianzas, y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-III.- Fideicomisos.
+II.- Empresas de participación estatal, instituciones nacionales de crédito, organizaciones auxiliares nacionales de crédito e instituciones nacionales de seguros y de fianzas;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+III.- Fideicomisos, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+IV.- Las Empresas Públicas del Estado, que se regulan por sus propias leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -288,9 +288,9 @@ Para la coordinación de las Delegaciones de Programas para el Desarrollo en la 
 
 Las Delegaciones de Programas para el Desarrollo estarán adscritas, jerárquica y orgánicamente a la Secretaría de Bienestar y sus titulares serán designados por el titular de la Secretaría a propuesta de la Coordinación General de Programas para el Desarrollo.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-ARTICULO 17 QUATER.- Las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal, así como las empresas productivas del Estado, proporcionarán los espacios y servicios dentro de sus instalaciones para la ejecución de las actividades de los órganos internos de control y de las unidades de responsabilidades equivalentes, respectivamente, así como a las áreas que les están adscritas.
+ARTICULO 17 QUATER.- Las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal, proporcionarán los espacios y servicios dentro de sus instalaciones para la ejecución de las actividades de los órganos internos de control y de las unidades de responsabilidades equivalentes, respectivamente, así como a las áreas que les están adscritas.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -330,7 +330,9 @@ Los puestos correspondientes a las personas titulares de las Unidades de Adminis
 
 A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes les es aplicable lo previsto en este artículo.
 
-Las disposiciones de este artículo no serán aplicables a las Secretarías de Marina y de la Defensa Nacional, ni a las empresas productivas del Estado, las que se regirán conforme a las disposiciones legales que les sean aplicables.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Las disposiciones de este artículo no son aplicables a las Secretarías de Marina y de la Defensa Nacional, ni a las Empresas Públicas del Estado, las que se rigen conforme a las disposiciones legales que les sean aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -1438,45 +1440,45 @@ I. Establecer, conducir y coordinar la política energética del país, así com
 
 II. Ejercer los derechos de la Nación en materia de petróleo y todos los carburos de hidrógeno sólidos, líquidos y gaseosos; de minerales radioactivos; así como respecto del aprovechamiento de los bienes y recursos naturales que se requieran para generar, transmitir, distribuir, comercializar y abastecer energía eléctrica;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-III. Conducir y supervisar la generación de energía nuclear;
+III. Planear, diseñar, establecer, conducir, coordinar y supervisar la generación de energía nuclear;
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-IV. Promover que la participación de los particulares en las actividades del sector sea en los términos de la legislación y de las disposiciones aplicables;
+IV. Promover que la participación de los particulares en las actividades de los sectores eléctrico y de hidrocarburos sea en los términos de la legislación y de las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MARZO DE 2025)</small>
 
-V. Llevar a cabo la planeación energética a mediano y largo plazos, así como fijar las directrices económicas y sociales para el sector energético nacional, conforme a las disposiciones aplicables.
+V. Llevar a cabo la planeación vinculante en el sector energético a mediano y largo plazo, como parte esencial, en el desarrollo de las áreas estratégicas para preservar la soberanía, la seguridad, la autosuficiencia y la Justicia Energética de la Nación en el sector energético, así como la prestación de servicios públicos para garantizar la continuidad, accesibilidad, seguridad y confiabilidad del Sistema Eléctrico Nacional, en términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-La planeación energética deberá atender los siguientes criterios: la soberanía y la seguridad energéticas, el mejoramiento de la productividad energética, la restitución de reservas de hidrocarburos, la diversificación de las fuentes de combustibles, la reducción progresiva de impactos ambientales de la producción y consumo de energía, la mayor participación de las energías renovables en el balance energético nacional, la satisfacción de las necesidades energéticas básicas de la población, el ahorro de energía y la mayor eficiencia de su producción y uso, el fortalecimiento de las empresas productivas del Estado del sector energético, y en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, el apoyo a la investigación y el desarrollo tecnológico nacionales en materia energética;
+La planeación vinculante en el sector energético debe atender los siguientes criterios: la soberanía y la seguridad energéticas, el mejoramiento de la productividad energética, la restitución de reservas de hidrocarburos, la diversificación de las fuentes de combustibles, la reducción progresiva de impactos ambientales de la producción y consumo de energía, la mayor participación de las energías renovables en el balance energético nacional, la satisfacción de las necesidades energéticas básicas de la población, el ahorro de energía y la mayor eficiencia de su producción y uso, el fortalecimiento de las Empresas del (sic) Públicas del Estado del sector energético, y en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, el apoyo a la investigación y el desarrollo tecnológico nacionales en materia energética;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-VI. Elaborar y publicar anualmente un informe pormenorizado que permita conocer el desempeño y las tendencias del sector eléctrico nacional;
+VI. Elaborar y publicar anualmente un informe pormenorizado que permita conocer el desempeño y las tendencias de los sectores de electricidad e hidrocarburos;
 
 > <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 VII. En materia de la industria de hidrocarburos: otorgar y revocar asignaciones a que se refiere el artículo 27 Constitucional; establecer los lineamientos técnicos que deberán observarse en el proceso de licitación; el diseño técnico de los contratos; establecer las áreas que podrán ser objeto de asignaciones y contratos; así como adjudicar asignaciones y otorgar permisos para el tratamiento y refinación del petróleo, y procesamiento de gas natural;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-VIII. Establecer mecanismos de coordinación con el Centro Nacional de Control de Energía y el Centro Nacional de Control del Gas Natural, que propicie que las acciones de estos organismos sean compatibles con los programas sectoriales;
+VIII. Coordinar a todas las autoridades que integran el sector energético, para propiciar que su desempeño sea eficaz, eficiente, transparente, coordinado y que cumplan con los instrumentos de planeación que se emitan; así como a las Empresas Públicas del Estado;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-IX. Otorgar, negar, modificar y revocar asignaciones y contratos para exploración y extracción de minerales radiactivos;
+IX. Otorgar, negar, modificar y revocar asignaciones y contratos para exploración y extracción de minerales radiactivos, en términos de las disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 X. Promover el ahorro de energía, regular y, en su caso, expedir normas oficiales mexicanas sobre eficiencia energética, así como realizar y apoyar estudios e investigaciones en materia energética y demás aspectos relacionados;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los hidrocarburos, así como energías renovables y proponer, en su caso, los estímulos correspondientes;
+XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los combustibles fósiles, así como las fuentes renovables de energía y las energías limpias;
 
 > <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -1486,9 +1488,9 @@ XII. Regular y en su caso, expedir normas oficiales mexicanas sobre producción,
 
 XIII. Regular y, en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardias, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XIV. Llevar el registro geotérmico;
+XIV. Llevar los registros de geotermia y de biocombustibles en términos de las leyes aplicables;
 
 > <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
@@ -1502,27 +1504,29 @@ XVI. Proponer al Titular del Ejecutivo Federal el establecimiento de zonas de sa
 
 XVII. Proponer al titular del Ejecutivo Federal la plataforma anual de producción de petróleo y de gas, con base en las reservas probadas y los recursos disponibles, que garantice el abasto y la seguridad energética del país;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XVIII. Establecer la política de restitución de reservas de hidrocarburos y geotermia, así como para el estímulo y promoción al uso de energías renovables;
+XVIII. Establecer la política de restitución de reservas de hidrocarburos y geotermia, así como la promoción al uso de energías renovables;
 
 > <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 XIX. Regular y, en su caso, expedir normas oficiales mexicanas a través de la Comisión Nacional de Seguridad Nuclear y Salvaguardias, en lo correspondiente a sus facultades, así como supervisar su debido cumplimiento;
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XX. Registrar y dar a conocer, con base en la información proporcionada por la Comisión Nacional de Hidrocarburos, las reservas de hidrocarburos, conforme a los estudios de evaluación y de cuantificación, así como a las certificaciones correspondientes;
+XX. Registrar y dar a conocer las reservas de hidrocarburos, conforme a los estudios de evaluación y de cuantificación, así como a las certificaciones correspondientes;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MARZO DE 2025)</small>
 
-XXI. Requerir la información necesaria para el desarrollo de sus funciones a órganos desconcentrados, órganos reguladores coordinados, entidades paraestatales y empresas productivas del Estado y en general, a toda persona física o moral que realice cualquiera de las actividades a que se refieren la Ley de Hidrocarburos, la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear y la Ley de la Industria Eléctrica.
+XXI. Requerir la información necesaria para el desarrollo de sus funciones a órganos desconcentrados y entidades de la Administración Pública Federal y en general, a toda persona física o moral que realice cualquiera de las actividades a que se refieren la Ley del Sector Hidrocarburos, la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear y la Ley del Sector Eléctrico.
 
-La Secretaría de Energía coordinará con la Comisión Reguladora de Energía, la determinación de las tarifas reguladas de los servicios establecidos en la Ley de la Industria Eléctrica;
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+La Secretaría de Energía debe coordinar y validar con la Comisión Nacional de Energía las tarifas reguladas en la Ley del Sector Eléctrico y en la Ley del Sector Hidrocarburos;
 
-XXII. Realizar visitas de inspección y verificación a las instalaciones de las entidades paraestatales con actividades en el sector y, en general, a toda persona física o moral que realice cualquiera de las actividades principales, auxiliares o conexas, a que se refieren las leyes señaladas en la fracción anterior;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXII. Realizar visitas de inspección, supervisión y verificación respecto de las actividades reguladas a que se refieren las leyes señaladas en la fracción anterior y, en general, a toda persona física o moral que las realice;
 
 > <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -1532,33 +1536,61 @@ XXIII. Participar en foros internacionales respecto de las materias competencia 
 
 XXIV. Iniciar, tramitar y resolver procedimientos administrativos e imponer las sanciones que correspondan, en términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XXV. Asegurar, fomentar y vigilar el adecuado suministro de los combustibles en el territorio nacional;
+XXV. Procurar, fomentar y vigilar el adecuado suministro de electricidad y los combustibles en el territorio nacional;
 
 > <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 XXVI. Revisar y, en su caso, autorizar las reglas de operación del Mercado Eléctrico Mayorista y emitir disposiciones administrativas de carácter general que permitan su vigilancia;
 
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XXVII. Establecer los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilar su cumplimiento;
+XXVII. Establecer los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilar su cumplimiento, con excepción de las Empresas Públicas del Estado;
 
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XXVIII. Verificar el cumplimiento de la regulación que emita para la industria eléctrica y demás disposiciones administrativas aplicables, realizar visitas de verificación y requerir a las personas físicas y morales con actividades en el sector, la información que permita conocer el desempeño de la industria eléctrica y dictar las medidas que resulten aplicables, conforme a la Ley de la Industria Eléctrica;
+XXVIII. Verificar el cumplimiento de la regulación que se emita para el sector eléctrico y para el sector hidrocarburos, así como las demás disposiciones administrativas aplicables; realizar visitas de verificación y requerir a las personas físicas y morales con actividades en el sector energético, la información que permita conocer el desempeño del sector eléctrico y del sector hidrocarburos y, dictar las medidas que resulten aplicables, conforme a la Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos;
 
-> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XXIX. Fijar la política de eficiencia energética de la industria eléctrica y la política para establecer nuevas centrales eléctricas tendientes a satisfacer las necesidades del país y a dicha política de eficiencia energética de la industria eléctrica, así como establecer los requerimientos obligatorios en materia de energías limpias para la generación eléctrica;
+XXIX. Fijar la política de desarrollo del sector eléctrico que garantice el suministro continuo, confiable, eficiente y sustentable de electricidad en el país, así como establecer los requerimientos obligatorios en materia de fuentes renovables de energía para la generación de energía eléctrica;
 
 > <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 XXX. Establecer los términos y condiciones obligatorios de cobertura para el suministro eléctrico en las comunidades rurales y zonas urbanas marginadas, y proponer los mecanismos para dirigir recursos económicos a este fin, y
 
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXXI. Llevar la regulación técnica y económica; así como sancionar en materia energética y de hidrocarburos, en los términos que determine la ley;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXXII. Regular, expedir normas oficiales mexicanas y disposiciones administrativas de carácter general o de carácter interno, para el desarrollo de las actividades reguladas en el sector eléctrico y en el sector hidrocarburos; y, supervisar y vigilar su cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXXIII. Otorgar permisos, autorizaciones y llevar a cabo los demás actos necesarios, para el desarrollo de las actividades reguladas en el sector eléctrico y en el sector hidrocarburos;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXXIV. Realizar el seguimiento de las inversiones que se realicen en el sector energético;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXXV. Requerir información a las personas físicas o morales con actividades en el sector, así como a los terceros que tengan cualquier relación de negocios con los sujetos regulados, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XXXVI. Otorgar permisos, autorizaciones y llevar a cabo los demás actos necesarios para el desarrollo de las actividades reguladas en materia de biocombustibles y geotermia, y
+
 > <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XXXI. Los demás que le encomienden expresamente las leyes y reglamentos.
+XXXVII. Los demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2025)</small>
+
+Para el ejercicio de las atribuciones en materia energética y de hidrocarburos, cuenta con un Comité de Asignaciones, Contratos y Permisos, y un Órgano Administrativo Desconcentrado denominado Comisión Nacional de Energía.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
 
@@ -2046,9 +2078,13 @@ XXXVII. Emitir disposiciones generales en materia de contenido nacional y casos 
 
 XXXVIII. Compilar las reservas de compras del sector público previstas en los capítulos de compras de los tratados comerciales de los que el Estado mexicano sea parte;
 
-XXXIX. Crear, asignar, coordinar y, en su caso, extinguir los órganos internos de control en las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, así como las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, conforme a las disposiciones generales que al efecto emita;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
 
-XL. Nombrar y remover a las personas titulares de los órganos internos de control, del nivel jerárquico inmediato inferior a dichas personas y de aquellas que mediante acuerdo determine la persona titular de la Secretaría, en las dependencias, incluidos sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal, así como de las unidades de responsabilidades o equivalentes en las empresas productivas del Estado, los cuales dependen jerárquica y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno, y seleccionar al personal que integre dichos órganos y unidades. Dichos órganos tienen el carácter de autoridad y realizan la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando a la persona titular de dicha Secretaría, salvo en los casos en que ésta ejerza su facultad de atracción;
+XXXIX. Crear, asignar, coordinar y, en su caso, extinguir los órganos internos de control en las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, así como las unidades de responsabilidades o equivalentes en las Empresas Públicas del Estado, conforme a las disposiciones generales que al efecto emita;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2025)</small>
+
+XL. Nombrar y remover a las personas titulares de los órganos internos de control, del nivel jerárquico inmediato inferior a dichas personas y de aquellas que mediante acuerdo determine la persona titular de la Secretaría, en las dependencias, incluidos sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal, así como de las unidades de responsabilidades o equivalentes en las Empresas Públicas del Estado, los cuales dependen jerárquica y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno, y seleccionar al personal que integre dichos órganos y unidades. Dichos órganos tienen el carácter de autoridad y realizan la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando a la persona titular de dicha Secretaría, salvo en los casos en que ésta ejerza su facultad de atracción;
 
 XLI. Ejercer las facultades que la Constitución Política de los Estados Unidos Mexicanos otorga a los órganos internos de control;
 
@@ -2948,25 +2984,17 @@ ARTICULO 43 BIS.- Las dependencias de la Administración Pública Federal enviar
 
 Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
 
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+ARTICULO 43 TER.- (DEROGADO, D.O.F. 18 DE MARZO DE 2025)
 
-ARTICULO 43 TER.- La Administración Pública Centralizada contará con Órganos Reguladores Coordinados en Materia Energética, con personalidad jurídica propia y autonomía técnica y de gestión. Serán creados por ley, misma que establecerá su competencia así como los mecanismos de coordinación con la Secretaría de Energía.
-
-Los Órganos Reguladores Coordinados en Materia Energética se regirán por las disposiciones aplicables a la Administración Pública Centralizada y el régimen especial que, en su caso, prevea la ley que los regula.
-
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
-
-Los Órganos Reguladores Coordinados en Materia Energética contarán con Unidades de Administración y Finanzas, las cuales se organizarán y operarán conforme a lo señalado en los artículos 14 Bis, 20 y 37, fracción XII Bis, de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 44.
 
-Las personas titulares de los órganos internos de control en las dependencias, incluso en sus órganos administrativos desconcentrados y en las entidades de la Administración Pública Federal, así como de las unidades de responsabilidades o equivalentes en las empresas productivas del Estado y las áreas que les estén adscritas, conforme al Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno, son responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en la materia, en términos de las políticas, directrices y normativa que emita la Secretaría Anticorrupción y Buen Gobierno y las disposiciones jurídicas aplicables y conforme al Plan Anual de Fiscalización que emita dicha Secretaría.
+Las personas titulares de los órganos internos de control en las dependencias, incluso en sus órganos administrativos desconcentrados y en las entidades de la Administración Pública Federal, así como de las unidades de responsabilidades o equivalentes en las Empresas Públicas del Estado y las áreas que les estén adscritas, conforme al Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno, son responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en la materia, en términos de las políticas, directrices y normativa que emita la Secretaría Anticorrupción y Buen Gobierno y las disposiciones jurídicas aplicables y conforme al Plan Anual de Fiscalización que emita dicha Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2025)</small>
 
-Las atribuciones señaladas se ejercerán respecto de las dependencias, incluyendo sus órganos administrativos desconcentrados, entidades paraestatales o empresas productivas del Estado, y a las personas servidoras públicas que les estén adscritas presupuestal y estructuralmente conforme a la competencia señalada en las disposiciones jurídicas aplicables para los órganos internos de control, ya sea por sector, materia, especialidad, función específica o ente público.
+Las atribuciones señaladas se ejercerán respecto de las dependencias, incluyendo sus órganos administrativos desconcentrados, entidades paraestatales o Empresas Públicas del Estado, y a las personas servidoras públicas que les estén adscritas presupuestal y estructuralmente conforme a la competencia señalada en las disposiciones jurídicas aplicables para los órganos internos de control, ya sea por sector, materia, especialidad, función específica o ente público.
 
 > <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
 
@@ -4433,3 +4461,37 @@ Décimo Quinto.- Las atribuciones en materia de telecomunicaciones con que cuent
 3) Garantizar la continuidad de la prestación del servicio público de telégrafos, giros telegráficos nacionales e internacionales, servicios financieros y financiamiento, a cargo del organismo descentralizado denominado "Financiera para el Bienestar".
 
 A partir de la entrada en vigor del presente Decreto el organismo descentralizado denominado "Financiera para el Bienestar" queda sectorizado a la Secretaría de Hacienda y Crédito Público.
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ARTÍCULO DÉCIMO.- SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1o.; ARTÍCULO 2o.; EL ARTÍCULO 17 QUÁTER; ÚLTIMO PÁRRAFO DEL ARTÍCULO 20; LAS FRACCIONES III, IV, V, PÁRRAFOS PRIMERO Y SEGUNDO, VI, VIII, IX, XI, XIV, XVIII, XX, XXI, PÁRRAFOS PRIMERO Y SEGUNDO, XXII, XXV, XXVII, XXVIII Y XXIX DEL ARTÍCULO 33; LAS FRACCIONES XXXIX Y XL DEL ARTÍCULO 37; Y, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 44; SE ADICIONAN LA FRACCIÓN IV, DEL ARTÍCULO 3o.; Y, SE ADICIONAN LAS FRACCIONES XXXI, XXXII, XXXIII, XXXIV, XXXV Y XXXVI; Y, SE RECORRE LA ACTUAL XXXI, PARA QUEDAR COMO XXXVII Y, SE ADICIONA UN ÚLTIMO PÁRRAFO, AL ARTÍCULO 33; Y, SE DEROGA EL ARTÍCULO 43 TER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por la Comisión Reguladora de Energía y la Comisión Nacional de Hidrocarburos continúan en vigor en lo que no se opongan a la presente Ley, sin perjuicio de que sean adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás aplicables.
+
+Tercero.- El ejercicio de las facultades que por virtud de esta Ley se transfieren a la Secretaría de Energía las ejerce a través de las unidades administrativas que tiene adscritas y sectorizadas, de acuerdo a las disposiciones legales aplicables.
+
+Cuarto.- Para dar certeza jurídica a la transferencia y continuidad en los actos, solicitudes, asuntos, trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos en las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que sean competencia de la Secretaría de Energía a través de las unidades administrativas que tiene adscritas, se declara la suspensión de plazos y términos durante el período de noventa días naturales, contados a partir de que entre en vigor la presente Ley.
+
+Los recursos de revisión y cualquier procedimiento seguido en forma de juicio en contra de los actos emitidos por las Comisiones Reguladora de Energía y Nacional de Hidrocarburos antes de la entrada en vigor del presente Decreto, que sean competencia de la Secretaría de Energía a través de las unidades administrativas que tiene adscritas, continúan su trámite y deben ser resueltos por la Comisión Nacional de Energía en el ámbito de sus atribuciones.
+
+Los permisos, autorizaciones y demás actos que hayan sido emitidos por las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, continúan surtiendo efectos hasta el término de su vigencia de conformidad con la normatividad bajo la cual hayan sido formalizados, no obstante, la Secretaría de Energía a través de las unidades administrativas que tiene adscritas, puede realizar la vigilancia y supervisión de su cumplimiento y, en su caso, ser sujetos de terminación anticipada o revocación por parte de la autoridad encargada de regular la actividad que corresponda.
+
+La Secretaría de Energía puede solicitar el apoyo del Instituto Mexicano del Petróleo y del Instituto Nacional de Electricidad y Energías Limpias para la gestión documental de los expedientes de las solicitudes, asuntos, trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos, para la recepción de los expedientes correspondientes a su competencia que ejerce a través de las unidades administrativas que tiene adscritas.
+
+Quinto.- En tanto no entren en vigor las disposiciones administrativas de carácter general y Normas Oficiales Mexicanas que expida la Secretaría de Energía, son vigentes y obligatorias para todos los sujetos regulados del sector energético, los lineamientos, disposiciones técnicas y administrativas, acuerdos, criterios, así como Normas Oficiales Mexicanas, emitidas por la Secretaría de Energía y las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que regulen las actividades relacionadas con la transferencia de facultades materia de este Decreto.
+
+Sexto.- A la entrada en vigor del presente Decreto, las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, en términos de las disposiciones aplicables, deben realizar las acciones que correspondan para realizar una transferencia ágil y eficiente de toda la información, expedientes, sistemas y cualquier otra documentación que detenten, para continuar con la atención de los asuntos que así lo requieran por parte de la Secretaría de Energía.
+
+Séptimo.- Los pagos de derechos, aprovechamientos o ingresos propios establecidos en favor de las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, en la Ley Federal de Derechos o cualquier otro ordenamiento se entienden en favor de la Secretaría de Energía o la Comisión Nacional de Energía, según corresponda.
+
+Octavo.- Los pagos de derechos que en materia de biocombustibles se establecen en favor de la Comisión Reguladora de Energía en la Ley Federal de Derechos, se entienden en favor de la Secretaría de Energía.
+
+Noveno.- Los recursos humanos, financieros y materiales con que cuenten las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que estén relacionadas con las funciones que se transfieren a la Secretaría de Energía a través de las unidades administrativas que tiene adscritas, pasarán a ésta.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
