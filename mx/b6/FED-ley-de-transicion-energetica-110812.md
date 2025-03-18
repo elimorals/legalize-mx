@@ -4,7 +4,7 @@ identifier: "FED-ley-de-transicion-energetica-110812"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-24"
-last_updated: "2015-12-24"
+last_updated: "2025-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110812&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-12-23"
 ---
 # LEY DE TRANSICION ENERGETICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DE LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA, PUBLICADA EN EL D.O.F. DE 18 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSICIÓN ENERGÉTICA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025 (ABROGADA).
 
 Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 24 de diciembre de 2015.
 
@@ -1386,3 +1388,35 @@ Dos años después de la entrada en vigor de las obligaciones en materia de Cert
 México, D.F., a 10 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ramón Bañales Arambula, Secretario.- Sen. Hilda E. Flores Escalera, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA”.]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Transición Energética publicada en el Diario Oficial de la Federación el 24 de diciembre de 2015, y las demás disposiciones que se opongan al presente ordenamiento.
+
+Tercero.- En tanto se emita la nueva regulación o se modifique la regulación correspondiente, la normatividad y regulación emitidas por la Secretaría con anterioridad a la entrada en vigor de la presente Ley, continúan en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.
+
+Las referencias legales o reglamentarias a la Ley de Transición Energética se entienden hechas en lo aplicable, a la Ley de Planeación y Transición Energética.
+
+Cuarto.- El Ejecutivo Federal debe expedir el Reglamento de esta Ley dentro de los ciento ochenta días naturales siguientes a la fecha de su entrada en vigor.
+
+Quinto.- En tanto se expiden el Reglamento correspondiente la Secretaría tiene la facultad para ejercer las atribuciones que le otorga la presente Ley a partir de su entrada en vigor.
+
+Sexto.- La Secretaría de Energía dentro de un plazo no mayor a trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor de la presente Ley debe publicar en el Diario Oficial de la Federación, la Estrategia Nacional de Transición Energética, el Plan para la Transición Energética y el Aprovechamiento Sustentable de la Energía, el Plan de Desarrollo del Sector Eléctrico y el Plan de Desarrollo del Sector Hidrocarburos.
+
+La Secretaría de Energía fijará como meta una participación mínima de energías limpias en la generación de energía eléctrica, la cual debe corresponder a las metas de largo plazo establecidas en la Ley General de Cambio Climático.
+
+Séptimo.- A partir de la entrada en vigor de la presente Ley, el Fondo de Servicio Universal Eléctrico cambia de denominación a Fondo de Servicio Universal Energético, por lo cual debe continuar operando conforme a sus contratos de fideicomiso actual en tanto se actualice la normatividad aplicable y en demás disposiciones que no se opongan a la presente Ley.
+
+Octavo.- El Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía debe seguir operando conforme a sus contratos de fideicomiso actual en tanto se actualice la normatividad aplicable. De igual manera el Acuerdo por el que se dan a conocer las disposiciones generales aplicables a la administración y operación de los apoyos para las actividades de investigación científica, desarrollo tecnológico e innovación en materia de hidrocarburos y de sustentabilidad energética, publicado en el Diario Oficial de la Federación el 19 de agosto de 2021 y los lineamientos que se derivan de este acuerdo siguen vigentes, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
