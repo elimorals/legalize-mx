@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2024-09-05"
+last_updated: "2025-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -163,9 +163,13 @@ XIII. Contaminación: la presencia en el ambiente de uno o más contaminantes o 
 
 XIV. Contaminante: toda materia o energía en cualesquiera de sus estados y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural o inducido, altere o modifique su composición y condición natural;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2025)</small>
+
+XIV Bis. Contaminante Criterio: Aquellos contaminantes normados a los que se les ha establecido un límite máximo de concentración en el aire ambiente, con la finalidad de proteger la salud humana y asegurar el bienestar de la población. Estos son el ozono (O3), el monóxido de carbono (CO), el dióxido de azufre (SO2), el dióxido de nitrógeno (NO2), el plomo (Pb), las partículas suspendidas iguales o menores a 10 micrómetros (PM10) y las partículas suspendidas iguales o menores a 2.5 micrómetros (PM2.5), y demás aplicable conforme a la normatividad en la materia;
+
 > <small>(ADICIONADA, P.O. 30 DE ENERO DE 2020)</small>
 
-XIV Bis. Contenedor: objeto de un solo uso que se otorga en los establecimientos comerciales o mercantiles, para el acarreo o traslado de mercancía;
+XIV Ter. Contenedor: objeto de un solo uso que se otorga en los establecimientos comerciales o mercantiles, para el acarreo o traslado de mercancía;
 
 XV. Contingencia Ambiental: la situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
 
@@ -207,9 +211,27 @@ XXIX. Fauna Silvestre: las especies animales que subsisten sujetas a los proceso
 
 XXX. Flora Silvestre: las especies vegetales, así también los hongos, que subsisten con sujeción a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentren bajo controles de cultivo;
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+XXX Bis. Fuente de Área de Contaminación: Son aquellas fuentes pequeñas, numerosas y dispersas, que colectivamente representan un porcentaje significativo de las emisiones de contaminantes a la atmósfera, y que no estén contempladas en las diferentes fuentes de contaminación.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+XXX Ter. Fuente Fija de Contaminación: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades, incluyendo sus servicios auxiliares, que generen o puedan generar emisiones contaminantes a la atmósfera, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global, conforme a las disposiciones previstas por la normatividad en la materia;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+XXX Quáter. Fuente Móvil de Contaminación: Cualquier máquina, aparato o dispositivo con motor de combustión o similar, que no tenga un lugar fijo y que con motivo de su operación genere emisiones contaminantes a la atmósfera;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+XXX Quinquies. Fuente Natural de Contaminación o Biogénica: Se trata de cualquier fuente o proceso natural en la vegetación y los suelos que generen emisiones. Son resultado de fenómenos de la vida animal y vegetal, y las emisiones a la atmósfera provocadas por incendios forestales, tolvaneras y otros siniestros, las cuales serán objeto de programas de emergencia y contingencias ambientales que establezcan las autoridades federales y estatales en materia de protección civil, en coordinación con la SEGAM;
+
 XXXI. Gases de Efecto Invernadero: componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kyoto:
 
-a) Dióxido de Carbono (CO2)
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2025)</small>
+
+a) Bióxido de Carbono (CO2)
 
 b) Hexafluoruro de azufre (SF6)
 
@@ -220,6 +242,18 @@ d) Metano (CH4)
 e) Óxido nitroso (N2O)
 
 f) Perfluorocarbonos (PFC);
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2025)</small>
+
+g) Carbono Negro (CN);
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2025)</small>
+
+h) Clorofluorocarbonos (CCI3F);
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2025)</small>
+
+i) Hidroclorofluorocarbonos (CHCIF2).
 
 XXXII. Impacto Ambiental: la modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
 
@@ -268,6 +302,10 @@ XLIX. Recursos Naturales: los componentes naturales como los minerales, nutrient
 L. Recursos Naturales no Renovables: aquéllos que existen en una cantidad determinada, contenidos en diversas partes de la corteza terrestre, con posibilidad de renovación y acopio sólo por medio de procesos geológicos, físicos y químicos de tiempo inveterado y con riesgo de agotamiento por el exceso en su extracción y utilización;
 
 LI. Recursos Naturales Renovables: aquéllos susceptibles de duración indefinida, sin la reducción del abasto disponible, considerándose su remplazo con mayor rapidez mediante procesos naturales, respecto a los considerados como no renovables;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+LI Bis. Registro: Registro de Emisiones y Transferencia de Contaminantes;
 
 LII. Relleno Sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
 
@@ -1411,11 +1449,25 @@ La SEGAM impulsará y participará en la celebración de convenios con particula
 
 Para los efectos de esta Ley son fuentes emisoras de contaminación atmosférica las que a continuación se indican y clasifican:
 
-I. Fijas: Toda instalación establecida en un solo lugar que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
 
-II. Móviles: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera que no tenga un lugar fijo, y
+I. Fuente de Área de Contaminación;
 
-III. Diversas: Cualquiera otra no considerada en las anteriores, incluyéndose las emisiones a la atmósfera provocadas por incendios forestales, tolvaneras y otros siniestros, las cuales serán objeto de programas de emergencia y contingencias ambientales que establezcan las autoridades federales y estatales en materia de protección civil, en coordinación con la SEGAM.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
+
+II. Fuente Fija de Contaminación;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
+
+III. Fuente Móvil de Contaminación, y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+IV. Fuente Natural de Contaminación o Biogénica.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2025)</small>
+
+La fuente emisora de contaminación atmosférica señalada en la fracción II, independientemente de las disposiciones de esta Ley, estará sujeta, en su caso, al cumplimiento de lo dispuesto en la Ley de Hacienda para el Estado de San Luis Potosí y sus disposiciones reglamentarias.
 
 ###### ARTICULO 72.
 
@@ -1443,17 +1495,21 @@ Para la protección a la atmósfera la SEGAM considerará los siguientes criteri
 
 I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las zonas del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
 
-II. Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente;
+II. Las emisiones de contaminantes a la atmósfera, sean de cualquier fuente, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
 
-III. La mitigación de los efectos que coadyuvan en el cambio climático, y
+III. La mitigación de los efectos que coadyuvan en el cambio climático;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
 
-IV. La promoción del uso de combustibles alternativos.
+IV. La promoción del uso de combustibles alternativos, y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+V. Las emisiones provenientes de fuentes fijas de contaminación atmosférica de su respectiva jurisdicción, deben ser medidas y controladas conforme a las Normas Oficiales Mexicanas correspondientes, Decretos y demás publicaciones en la materia, así como controladas para efecto de prevenir la contaminación atmosférica y asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente.
 
 ###### ARTICULO 74.
 
@@ -1499,19 +1555,33 @@ XIII. Formularán y aplicarán estrategias para la atención, prevención y adap
 
 XIV. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 75.
 
-Los que realicen actividades que constituyan fuentes fijas de contaminación atmosférica de jurisdicción local, quedarán afectos a las obligaciones y limitaciones básicas siguientes:
+Los que realicen actividades que constituyan fuentes fijas de contaminación, conforme a las Leyes en la materia y disposiciones aplicables por la Ley de Hacienda para el Estado de San Luis Potosí, quedarán afectos a las obligaciones y limitaciones básicas siguientes:
 
 I. Proporcionar toda la información y documentos que le soliciten la autoridad en uso de sus facultades;
 
 II. Deberán instalar equipos o sistemas para el control de las emisiones contaminantes, conforme a lo establecido en la normatividad ambiental federal, estatal y conforme a las medidas técnicas fijadas por la SEGAM en los términos y plazos establecidos en la presente Ley y sus disposiciones reglamentarias;
 
-III. Integrar un inventario de sus emisiones contaminantes a la atmósfera en el formato que determine la SEGAM;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
+
+III. Integrar un inventario de sus emisiones contaminantes a la atmósfera conforme a los parámetros y periodicidad señalados en las Normas Oficiales Mexicanas y demás normatividad ambiental correspondiente; así como registrar los resultados en el formato SEGAM DAS PO 01 de la SEGAM;
 
 IV. Instalar plataformas y puertos de muestreo para la evaluación de sus emisiones;
 
-V. Medir sus emisiones contaminantes a la atmósfera conforme a los parámetros y periodicidad señalados en el reglamento respectivo y en la normatividad ambiental vigente, así como registrar los resultados en el formato que determine la SEGAM;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
+
+V. Medir sus emisiones de contaminantes criterio, gases de efecto invernadero y sustancias sujetas en el Registro, emitidos a la atmósfera conforme a los parámetros y periodicidad señalados en las Normas Oficiales Mexicanas aplicables y en la normatividad ambiental correspondiente; así como registrar los resultados en el formato SEGAM DAS PO 01 de la SEGAM;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+V Bis. Determinar sus emisiones de contaminantes criterio, gases de efecto invernadero y sustancias sujetas al Registro, emitidos a la atmósfera conforme a los procedimientos y parámetros establecidos en las disposiciones normativas aplicables, así como registrar los resultados en la Cédula de Operación Anual;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2025)</small>
+
+V Ter. Presentar ante la SEGAM, a través de la Cédula de Operación Anual, un reporte del volumen de combustibles convencionales utilizados en el proceso de combustión;
 
 VI. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos o subproductos, puedan causar deterioro a los ecosistemas;
 
@@ -2233,7 +2303,9 @@ En las áreas naturales protegidas se requerirá de una manifestación de impact
 
 En la realización de obras y actividades a que se refieren los artículos 118 y 119 de esta Ley, requerirán la presentación de un informe preventivo, y no una manifestación de impacto ambiental, cuando:
 
-I. Existan normas oficiales mexicanas, o normas ambientales estatales, u otras disposiciones que regulen sus emisiones, descargas, aprovechamiento de los recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2025)</small>
+
+I. Existan Normas Oficiales Mexicanas o Normas Técnicas Ecológicas Estatales u otras disposiciones que regulen las emisiones, descargas, aprovechamiento de los recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades en mención;
 
 II. Las obras o actividades de que se trate, estén consideradas a realizarse dentro de la zonificación respectiva de un plan de desarrollo urbano o programa de ordenamiento ecológico, debidamente aprobado y publicado en el Periódico Oficial del Estado, o
 
@@ -3862,5 +3934,13 @@ P.O. 5 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1099.- SE ADICIONA EL ARTÍCULO 36 BIS, A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0172.- REFORMAS Y ADICIONES A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
