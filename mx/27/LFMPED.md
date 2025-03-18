@@ -4,7 +4,7 @@ identifier: "LFMPED"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2022-05-11"
+last_updated: "2025-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101926&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMPED"
 
 LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2025.
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -70,7 +70,9 @@ El Banco de México, en su carácter de fiduciario, quedará sujeto a lo dispues
 
 El patrimonio del Fondo Mexicano del Petróleo se constituirá por:
 
-I. Los ingresos derivados de las asignaciones y los contratos a que se refiere el artículo 1 de esta Ley;
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2025)</small>
+
+I. Los ingresos derivados de las asignaciones y los contratos a que se refiere el artículo 1 de esta Ley, los cuales incluyen los acuerdos o resoluciones de unificación;
 
 II. El producto de las inversiones que se deriven de los recursos del Fondo Mexicano del Petróleo, y
 
@@ -154,11 +156,15 @@ b) Instruir al fiduciario para que realice las transferencias a la Tesorería de
 
 c) Fijar las políticas y lineamientos conforme a los cuales el fiduciario realice las operaciones previstas en el artículo 18 de esta Ley y, en caso que así lo resuelva, determinar las características de éstas;
 
-d) Aprobar, a propuesta del Coordinador Ejecutivo, los lineamientos para la apertura de las cuentas y subcuentas en el Banco de México que se determinen en términos de los mismos, para la correcta recepción, administración y distribución de los ingresos derivados de las asignaciones y contratos a que se refiere el artículo 1 de esta Ley, así como las transferencias a la Tesorería de la Federación, el ahorro de largo plazo e inversiones, además de cualquier otra necesaria para el cumplimiento del fin del Fondo Mexicano del Petróleo;
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+
+d) Aprobar, a propuesta del Coordinador Ejecutivo, los lineamientos para la apertura de las cuentas y subcuentas en el Banco de México que se determinen en términos de los mismos, para la correcta recepción, administración y distribución de los ingresos derivados de las asignaciones y contratos a que se refiere el artículo 1 de esta Ley, que incluyen los acuerdos o resoluciones de unificación, así como las transferencias a la Tesorería de la Federación, el ahorro de largo plazo e inversiones, además de cualquier otra necesaria para el cumplimiento del fin del Fondo Mexicano del Petróleo;
 
 e) Recomendar a la Cámara de Diputados, cuando la Reserva del Fondo sea mayor al 3% del Producto Interno Bruto del año previo, por conducto de su Presidente, la asignación de recursos a los siguientes rubros: al fondo para el sistema de pensión universal; a financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables; fondear un vehículo de inversión especializado en proyectos petroleros, coordinado por la Secretaría de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional; y a becas para la formación de capital humano en universidades y posgrados; en proyectos de mejora a la conectividad; así como para el desarrollo regional de la industria, en términos del artículo 94 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
-f) Conocer y requerir al Coordinador Ejecutivo la información relativa a los flujos esperados por los pagos que deriven de las asignaciones y los contratos a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, que el fiduciario pudiera requerir para llevar a cabo la planeación y administración de la tesorería;
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+
+f) Conocer y requerir al Coordinador Ejecutivo la información relativa a los flujos esperados por los pagos que deriven de las asignaciones y los contratos a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, los cuales incluyen los acuerdos o resoluciones de unificación, que el fiduciario pudiera requerir para llevar a cabo la planeación y administración de la tesorería;
 
 g) Designar al Secretario y al Prosecretario del Comité, y
 
@@ -196,7 +202,9 @@ V. No haber sido servidor público de cualquier nivel de gobierno ni haber ocupa
 
 VI. No ejercer un empleo, cargo o comisión simultáneo que le impida el adecuado ejercicio de su función de miembro independiente, y
 
-VII. No haber sido accionista, socio o dueño, funcionario, directivo, representante legal o asesor importante de cualquier asignatario o contratista, en los dos años anteriores a su nombramiento, ni tener litigio pendiente con cualquier asignatario o contratista el día de la designación.
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2025)</small>
+
+VII. No haber sido accionista, socio o dueño, funcionario, directivo, representante legal o asesor importante de cualquier asignatario, contratista, o participante en un Contrato Mixto derivado de una Asignación para Desarrollo Mixto, en los dos años anteriores a su nombramiento, ni tener litigio pendiente con cualquier asignatario o contratista el día de la designación.
 
 ###### Artículo 10.
 
@@ -258,7 +266,9 @@ El Ejecutivo Federal determinará, previa audiencia del interesado, si se config
 
 Los recursos entregados al Fondo Mexicano del Petróleo serán destinados a lo siguiente:
 
-I. En términos de la Ley de Ingresos sobre Hidrocarburos, el fiduciario realizará los pagos derivados de las asignaciones y los contratos a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, a más tardar a los cinco días hábiles bancarios posteriores a que el Coordinador Ejecutivo lo autorice;
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2025)</small>
+
+I. En términos de la Ley de Ingresos sobre Hidrocarburos, el fiduciario debe realizar los pagos derivados de las asignaciones y los contratos a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, así como los relativos a los acuerdos o resoluciones de unificación, a más tardar a los cinco días hábiles bancarios posteriores a que el Coordinador Ejecutivo lo autorice;
 
 II. En términos del Título Quinto de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y conforme al calendario que establezca el fideicomitente, el fiduciario realizará transferencias ordinarias en el siguiente orden de prelación:
 
@@ -354,7 +364,9 @@ El auditor externo del Banco de México que contrate el Secretario de Hacienda y
 
 El auditor tendrá las más amplias facultades para examinar y dictaminar los estados financieros del Fondo Mexicano del Petróleo, así como para revisar la contabilidad y demás documentación relacionada.
 
-Además de lo anterior, el auditor a que se refiere el presente artículo podrá revisar el cumplimiento de las obligaciones previstas en los contratos para la exploración y extracción de hidrocarburos a que se refiere la Ley de Hidrocarburos, así como las acciones tomadas por las autoridades competentes en su administración, analizando si las modalidades de contratación y las contraprestaciones pactadas obedecen a maximizar los ingresos de la Nación, con base en las circunstancias observadas al momento de la determinación.
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+
+Además de lo anterior, el auditor a que se refiere el presente artículo puede revisar el cumplimiento de las obligaciones previstas en los contratos para la exploración y extracción de hidrocarburos a que se refiere la Ley del Sector Hidrocarburos, así como las acciones tomadas por las autoridades competentes en su administración, analizando si las modalidades de contratación y las contraprestaciones pactadas obedecen a maximizar los ingresos de la Nación, con base en las circunstancias observadas al momento de la determinación.
 
 El auditor externo referido deberá enviar al Ejecutivo Federal y al Congreso de la Unión copia de los dictámenes y resultados de revisión que lleve a cabo en cumplimiento a lo dispuesto por el presente artículo y que presente al Comité.
 
@@ -362,9 +374,11 @@ El auditor externo referido deberá enviar al Ejecutivo Federal y al Congreso de
 
 El Fondo Mexicano del Petróleo deberá contar con un sistema informático que permita, de manera remota, el intercambio y registro de las transacciones y las auditorías de las mismas.
 
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2025)</small>
+
 ###### Artículo 24.
 
-El Fondo Mexicano del Petróleo deberá coordinarse con la Comisión Nacional de Hidrocarburos, quien le proporcionará toda la información técnica y operativa que sea necesaria para el correcto cumplimiento de su fin.
+El Fondo Mexicano del Petróleo debe coordinarse con la Secretaría de Energía quien le debe proporcionar toda la información técnica y operativa que sea necesaria para el correcto cumplimiento de su fin.
 
 ### CAPÍTULO V. De las responsabilidades y sanciones
 
@@ -501,3 +515,17 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 13 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ARTÍCULO NOVENO.- SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 4; LOS INCISOS D) Y F) DE LA FRACCIÓN II DEL ARTÍCULO 8; LA FRACCIÓN VII DEL ARTÍCULO 9; LA FRACCIÓN I DEL ARTÍCULO 16; EL TERCER PÁRRAFO DEL ARTÍCULO 22, Y EL ARTÍCULO 24 DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En los instrumentos de coordinación y colaboración administrativa para el intercambio de información y asistencia técnica, cuando se haga referencia a la Comisión Nacional de Hidrocarburos se debe entender por la Secretaría de Energía, en tanto no se dejen sin efectos o se celebren los nuevos convenios de colaboración administrativa correspondientes.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
