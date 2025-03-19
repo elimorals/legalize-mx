@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2023-10-11"
+last_updated: "2025-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -595,9 +595,11 @@ V. Las demás que señalen esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. Medidas Generales a Favor de la Igualdad de Trato y Oportunidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 29.
 
-El Estado, los Municipios, los organismos públicos descentralizados y los organismos constitucionalmente autónomos, para garantizar la igualdad de oportunidades y la no discriminación, observarán las siguientes medidas:
+Los poderes públicos Estatales, los Municipios, así como los organismos públicos descentralizados y organismos constitucionalmente autónomos, para garantizar la igualdad de oportunidades y la no discriminación, observarán las siguientes medidas:
 
 I. Promover el acceso de todas las personas a la educación, sobre la base del respeto de los derechos humanos, sin discriminación de ningún tipo.
 
@@ -639,7 +641,9 @@ XIX. Instituir programas permanentes de capacitación para el empleo y de foment
 
 XX. Procurar un entorno urbano que permita el libre acceso y desplazamiento para las personas con discapacidad;
 
-XXI. Asegurar de manera progresiva, que el entorno urbano y de todos los inmuebles públicos cuenten con los ajustes razonables para el acceso y libre desplazamiento de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+XXI. Efectuar las acciones necesarias para que tanto el entorno urbano, como las instalaciones de todos los inmuebles públicos implementen los ajustes razonables para garantizar el acceso y libre desplazamiento de las personas con discapacidad;
 
 XXII. Establecer programas educativos bilingües que promuevan el intercambio cultural;
 
@@ -1348,3 +1352,11 @@ P.O. 11 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 426. SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 20; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 94 Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 20 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 19 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 080. SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN XXI DEL ARTÍCULO 29 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los entes públicos tendrán un lapso de 5 años para cumplir con las disposiciones establecidas en el presente Decreto y garantizar en sus espacios públicos el libre acceso y desplazamiento de las personas con discapacidad.
