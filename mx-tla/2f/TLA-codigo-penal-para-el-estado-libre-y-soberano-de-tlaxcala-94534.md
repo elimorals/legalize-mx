@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2024-12-13"
+last_updated: "2025-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -1472,6 +1472,10 @@ V. Omisión de auxilio a lesionados, previsto en el artículo 305;
 VI. Contra la seguridad en los medios informáticos, previsto en los artículos 316 ó 317;
 
 VII. Robo, previsto en los artículos 323 fracción I, 325, 326 ó 327;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VII Bis. Robo de maguey y productos agrícolas previsto en el artículo 334 Bis;
 
 VIII. Abuso de confianza, previsto en el artículo 335 fracción I;
 
@@ -4069,7 +4073,9 @@ Se aumentará hasta en una mitad de la pena de prisión impuesta, si quien comet
 
 Se aplicará la mitad de las penas que correspondan, a quien de acuerdo con las circunstancias en que adquiera o reciba, debió suponer la procedencia ilegítima de los vehículos.
 
-### CAPÍTULO II. ROBO DE GANADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2025)</small>
+
+### CAPÍTULO II. ROBO DE GANADO, DE MAGUEY Y PRODUCTOS AGRÍCOLAS
 
 ###### Artículo 331.
 
@@ -4134,6 +4140,16 @@ Iguales sanciones se aplicarán:
 I. A quien sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, compre, venda, cambie o transporte ganado robado, carne o pieles u otros derivados de igual procedencia productos del robo de ganado, y
 
 II. A las autoridades que intervengan en la indebida legalización de documentos u operaciones conociendo la ilegítima procedencia del ganado.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2025)</small>
+
+###### Artículo 334 Bis.
+
+Comete el delito de robo de maguey el que, sin consentimiento del propietario, poseedor o de quien legalmente pueda otorgarlo, proceda a desprenderlo del suelo y se apodere del mismo; o extraiga, utilice o comercialice del maguey o de cualquiera de sus especies, la materia prima, sus derivados o su fauna; se le impondrán las sanciones establecidas en el artículo 323 de este Código.
+
+Cuando el robo se cometa por la noche, en lugar cerrado destinado a la casa habitación o almacenaje, las sanciones señaladas en el artículo 323 de este Código se aumentarán en dos terceras partes.
+
+También se impondrán las sanciones previstas en el artículo 323 de este Código a quien se apodere de productos agrícolas desprendidos del suelo dejados por su propietario o posesionario en campo raso o lugares abiertos.
 
 ### CAPÍTULO III. ABUSO DE CONFIANZA
 
@@ -5982,3 +5998,15 @@ Los delitos cometidos con anterioridad a la publicación del presente Decreto se
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 135.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II INTITULADO "ROBO DE GANADO", PARA QUEDAR COMO "ROBO DE GANADO, DE MAGUEY Y PRODUCTOS AGRÍCOLAS" DEL TÍTULO DÉCIMO QUINTO DEL LIBRO SEGUNDO Y SE ADICIONAN UNA FRACCIÓN VII BIS AL ARTÍCULO 111 BIS Y UN ARTÍCULO 334 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se oponga al contenido del presente Decreto
