@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2023-06-07"
+last_updated: "2025-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -341,9 +341,17 @@ b. Asociarse y conformar organizaciones de personas adultas mayores para promove
 
 c. A participar en los procesos productivos, de educación y capacitación de su comunidad;
 
-d. A participar en la vida cultural, deportiva y recreativa de su comunidad; y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-e. A formar parte de los diversos órganos de representación y consulta ciudadana.
+d. A participar en la vida cultural, deportiva y recreativa de su comunidad;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+e. A formar parte de los diversos órganos de representación y consulta ciudadana; y
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2025)</small>
+
+f. A participar anualmente en el Parlamento de Adultos Mayores, organizado por el H. Congreso de Nuevo León.
 
 ## TÍTULO TERCERO
 
@@ -1376,3 +1384,9 @@ P.O. 7 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 395. SE REFORMAN LAS FRACCIONES XIX Y XX, Y SE ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 24, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 19 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 082. SE REFORMAN LOS INCISOS D) Y E) DE LA FRACCIÓN VIII DEL ARTÍCULO 5; SE ADICIONA UN INCISO F) A LA FRACCIÓN VIII AL ARTÍCULO 5°, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
