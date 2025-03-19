@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2025-02-11"
+last_updated: "2025-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -45,19 +45,21 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
 ### CAPITULO UNICO. Principios Constitucionales
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 1o.
 
-Quintana Roo constituye un Estado Libre en tantos (sic) sus miembros determinan la organización, funcionamiento y fines de la comunidad que integran, y soberano porque todos los poderes que en ella se ejercen emanan de su voluntad colectiva, de manera exclusiva en su orden interno y con participación en el orden nacional.
+Quintana Roo constituye un Estado Libre en tanto sus personas integrantes determinan la organización, funcionamiento y fines de la comunidad que integran, y soberano porque todos los poderes que en ella se ejercen emanan de su voluntad colectiva, de manera exclusiva en su orden interno y con participación en el orden nacional.
 
 ###### ARTICULO 2o.
 
 De conformidad al pacto federal estipulado en la Constitución General de la República, Quintana Roo es parte integrante de la Federación que forman los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 3o.
 
-El Estado de Quintana Roo se reserva el ejercicio soberano de todas las facultades que no están expresamente concedidas a los funcionarios federales o a los Gobiernos Municipales.
+El Estado de Quintana Roo se reserva el ejercicio soberano de todas las facultades que no están expresamente concedidas a la federación o a los municipios.
 
 ###### ARTICULO 4o.
 
@@ -85,15 +87,15 @@ Son Ley Suprema en el Estado de Quintana Roo, las disposiciones que establezcan 
 
 Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de opotunidades (sic).
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Respecto de los habitantes de las Islas de Quintana Roo, los Poderes Ejecutivo, Legislativo y Judicial, con la finalidad de promover la mencionada igualdad de oportunidades, considerarán en el ejercicio de sus funciones, las condiciones especiales de desventaja geográfica que tienen los territorios Insulares y, de esta manera, en su caso tomar las medidas específicas a favor de dichas regiones con miras a integrarlas equitativamente al desarrollo del resto del Estado de Quintana Roo.
+Respecto de las personas habitantes de las Islas de Quintana Roo, los Poderes Ejecutivo, Legislativo y Judicial, con la finalidad de promover la mencionada igualdad de oportunidades, considerarán en el ejercicio de sus funciones, las condiciones especiales de desventaja geográfica que tienen los territorios Insulares y, de esta manera, en su caso tomar las medidas específicas a favor de dichas regiones con miras a integrarlas equitativamente al desarrollo del resto del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 9o.
 
-Es finalidad del Estado procurar y promover la participación de todos los ciudadanos en los procesos que regulan la vida de la comunidad por medio de las formas que establezcan las leyes respectivas; así como fomentar entre los habitantes de Quintana Roo la conciencia de solidaridad y pertenencia al Estado y a la Nación, la cultura democrática y el sentido de responsabilidad hacia la humanidad en su conjunto.
+Es finalidad del Estado procurar y promover la participación de toda la ciudadanía en los procesos que regulan la vida de la comunidad por medio de las formas que establezcan las leyes respectivas; así como fomentar entre las personas habitantes de Quintana Roo la conciencia de solidaridad y pertenencia al Estado y a la Nación, la cultura democrática y el sentido de responsabilidad hacia la humanidad en su conjunto.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -147,19 +149,19 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades estatales, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado de Quintana Roo, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 13.
 
-El Estado de Quintana Roo reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la concepción entra bajo la protección de la ley y se le reputa como sujeto de derechos para todos los efectos legales correspondientes, hasta su muerte. Salvo las excepciones que establezca la ley.
+El Estado de Quintana Roo reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la concepción entra bajo la protección de la ley y se le reputa como persona sujeta de derechos para todos los efectos legales correspondientes, hasta su muerte. Salvo las excepciones que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, la condición sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas que habitan en este Estado. El Estado diseñara, promoverá y llevará a cabo las acciones y medidas necesarias para garantizar el derecho a la no discriminación.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinción de origen, sexo, condición o actividad social.
+El Estado garantiza la igualdad jurídica respecto de sus personas habitantes sin distinción de origen, sexo, condición o actividad social.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
 
@@ -217,27 +219,41 @@ IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que 
 
 V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución;
 
-VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas. Para estos efectos, las comunidades podrán asociarse en términos de ley;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VII. Elegir en cada pueblo o comunidad indígena de acuerdo con sus normas, procedimientos y prácticas tradicionales, a un ciudadano indígena que los represente ante el Ayuntamiento, mismo que tendrá derecho a voz en las sesiones del Cabildo en que se traten asuntos relacionados con la población correspondiente, así como las demás facultades y obligaciones que las leyes secundarias le confieran;
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos y a las leyes de la materia, así como a los derechos adquiridos por terceras personas o integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas. Para estos efectos, las comunidades podrán asociarse en términos de ley;
 
-VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura. Los miembros de las etnias que habitan en las comunidades indígenas, podrán resolver sus controversias de carácter jurídico de acuerdo a sus usos, costumbres y tradiciones; la Ley instituirá un sistema de justicia indígena para las comunidades de la Zona Maya del Estado, a cargo de jueces tradicionales y, en su caso, de Magistrados de Asuntos Indígenas que funcionen en Sala, en Tribunales Unitarios, o en las instituciones que de acuerdo con las comunidades indígenas, determine el Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VII. Elegir en cada pueblo o comunidad indígena de acuerdo con sus normas, procedimientos y prácticas tradicionales, a una persona ciudadana indígena que los represente ante el Ayuntamiento, mismo que tendrá derecho a voz en las sesiones del Cabildo en que se traten asuntos relacionados con la población correspondiente, así como las demás facultades y obligaciones que las leyes secundarias le confieran;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución. Las personas indígenas tienen todo tiempo el derecho a ser asistidas por personas intérpretes y defensoras que tengan conocimiento de su lengua y cultura. Las personas integrantes de las etnias que habitan en las comunidades indígenas, podrán resolver sus controversias de carácter jurídico de acuerdo a sus usos, costumbres y tradiciones; la Ley instituirá un sistema de justicia indígena para las comunidades de la Zona Maya del Estado, a cargo de personas juzgadoras tradicionales y en su caso, de personas Titulares de Magistraturas de Asuntos Indígenas que funcionen en Sala, en Tribunales Unitarios, o en las Instituciones que de acuerdo con las comunidades indígenas, determine el Tribunal Superior de Justicia;
 
 IX. Establecer y operar sus propios medios de comunicación, de acuerdo a las formalidades establecidas en la Constitución Política de los Estados Unidos Mexicanos y demás leyes relativas a la materia.
 
-Las comunidades y pueblos indígenas, así como sus integrantes tendrán derecho a acceder a procedimientos equitativos y justos, conforme lo determine la ley, para el arreglo de controversias con el Estado, Municipios u otras autoridades públicas, y a una pronta resolución sobre esas controversias, así como a una reparación efectiva de toda lesión de sus derechos individuales y colectivos. En tales resoluciones se tendrán debidamente en consideración las costumbres, tradiciones, normas y sistemas jurídicos de los pueblos indígenas interesados y las normas internacionales de derechos humanos acordes con la Constitución General y Estatal.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+Las comunidades y pueblos indígenas, así como sus personas integrantes tendrán derecho a acceder a procedimientos equitativos y justos, conforme lo determine la ley, para el arreglo de controversias con el Estado, Municipios u otras autoridades públicas, y a una pronta resolución sobre esas controversias, así como a una reparación efectiva de toda lesión de sus derechos individuales y colectivos. En tales resoluciones se tendrán debidamente en consideración las costumbres, tradiciones, normas y sistemas jurídicos de los pueblos indígenas interesados y las normas internacionales de derechos humanos acordes con la Constitución General y Estatal.
 
-B. Los Gobiernos Estatal y Municipales, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
+
+B. Los Gobiernos Estatal y Municipales, para promover la igualdad de oportunidades de las personas indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de las personas indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con todas las personas indígenas.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE JULIO DE 2008)</small>
 
 Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades tienen la obligación de:
 
 I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de Gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos;
 
-II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-III. Asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así coma (sic) apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil;
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para las personas estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+III. Asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de las personas indígenas mediante programas de alimentación, en especial para la población infantil;
 
 IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos;
 
@@ -247,7 +263,9 @@ VI. Extender la red de comunicaciones que permita la integración de las comunid
 
 VII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
 
-VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas en el territorio del Estado, mediante acciones para garantizar los derechos laborales; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VIII. Establecer políticas sociales para proteger a las personas migrantes de los pueblos indígenas en el territorio del Estado, mediante acciones para garantizar los derechos laborales; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niñas, niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas;
 
 IX. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y de los municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
 
@@ -255,25 +273,33 @@ IX. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de De
 
 X. Garantizar el reconocimiento, la protección, la promoción, la difusión, la preservación, el desarrollo y el uso de las lenguas, conocimientos y todos los elementos que constituyan la cultura e identidad de los pueblos y comunidades indígenas del Estado. Estas acciones también serán garantizadas por los Poderes Legislativo y Judicial, así como los órganos públicos autónomos de Quintana Roo, en el ámbito de sus competencias.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2008)</small>
+
 Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Legislatura del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas especificas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Sin perjuicio de los derechos establecidos en este artículo a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley. Asimismo, la ley reconocerá y protegerá a los indígenas pertenecientes a otras comunidades, o pueblos, o que procedentes de otra Entidad Federativa residan temporal o permanentemente dentro del territorio del Estado.
+Sin perjuicio de los derechos establecidos en este artículo a favor de las personas indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley. Asimismo, la ley reconocerá y protegerá a las personas indígenas pertenecientes a otras comunidades, o pueblos, o que procedentes de otra Entidad Federativa residan temporal o permanentemente dentro del territorio del Estado.
 
-Para asegurar que las comunidades y pueblos indígenas, así como sus integrantes puedan comunicarse de manera efectiva en las actuaciones políticas, jurídicas y administrativas, el Estado proporcionará, cuando sea necesario, servicios de intérprete u otros medios adecuados.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+Para asegurar que las comunidades y pueblos indígenas, así como sus personas integrantes puedan comunicarse de manera efectiva en las actuaciones políticas, jurídicas y administrativas, el Estado proporcionará, cuando sea necesario, servicios de intérprete u otros medios adecuados.
 
-Es responsabilidad del Poder Ejecutivo vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado de Quintana Roo en lengua maya.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+Es responsabilidad de la persona Titular del Poder Ejecutivo vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado de Quintana Roo en lengua maya.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 14.
 
-El disfrute de la libertad jurídica es prerrogativa de todos los habitantes de Quintana Roo. Ni la ley, ni la autoridad, reconocerán efecto alguno al pacto o contrato que lo comprometa o limite. Tampoco en relación a convenios que impliquen renuncia o alteración a las garantías y derechos establecidos en esta Constitución.
+El disfrute de la libertad jurídica es prerrogativa de todas las personas habitantes de Quintana Roo. Ni la ley, ni la autoridad, reconocerán efecto alguno al pacto o contrato que lo comprometa o limite. Tampoco en relación a convenios que impliquen renuncia o alteración a las garantías y derechos establecidos en esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 15.
 
-El individuo sometido a régimen de servidumbre que extañe (sic) menoscabo de su libertad, por sólo entrar en el Estado alcanzará la protección dispuesta en sus leyes para los habitantes.
+La persona sometida a régimen de servidumbre que entrañe menoscabo de su libertad, por sólo entrar en el Estado, alcanzará la protección dispuesta en sus leyes para las personas habitantes.
 
 En Quintana Roo no se conferirán títulos ni honores privativos o especiales con base al estado social o económico de las personas. Tampoco serán reconocidas distinciones semejantes sin importar quien las otorgue.
 
@@ -283,19 +309,29 @@ Toda persona tiene derecho a realizar por propio consentimiento su trabajo en cu
 
 La Legislatura local, determinará qué profesiones necesitan título para su ejercicio, y los requerimientos de su expedición.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 17.
 
-Las personas servidoras públicas estatales o municipales, respetarán el derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa, pero en materia política solo podrán hacer uso de este derecho los ciudadanos mexicanos. A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario.
+Las personas servidoras públicas estatales o municipales, respetarán el derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa, pero en materia política solo podrán hacer uso de este derecho las personas con ciudadanía mexicana. A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término a la persona peticionaria.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 El Estado reconoce a todas las personas el derecho humano a la buena administración pública conforme a principios de eficacia, eficiencia, generalidad, uniformidad, continuidad, calidad y uso de las tecnologías de la información y comunicación. La buena administración pública implica que autoridades actúen con dignidad y respeto, además de proporcionar servicios públicos siguiendo los principios de ser regulares, transparentes, disponibles, accesibles, asequibles, aceptables, adaptables y fomentando la participación ciudadana informada, acompañado de una conducta honesta, inclusiva y profesional por parte de la (sic) autoridades y las personas servidoras públicas del Estado y los municipios, con el objetivo de asegurar que las acciones gubernamentales estén en línea con los derechos humanos de las personas y se centren en su bienestar. Todas las autoridades en el Estado y los municipios, en el ámbito de sus competencias que realicen actos materialmente de administración pública, deben garantizar este derecho, sujeto a las suficiencias de sus recursos, materiales y/o humanos.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 Las autoridades administrativas tienen la obligación de asegurar el derecho a una audiencia previa en todos los casos en los que se emita una resolución que implique una decisión que limita derechos. En tales circunstancias, deberán resolver de manera imparcial, proporcional y justa, dentro de un plazo razonable y siguiendo las formalidades esenciales del procedimiento. Además, deben garantizar el acceso al expediente administrativo, respetando la confidencialidad y protección de datos personales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 El combate contra la corrupción, la transparencia, el acceso a la información y la capacitación de las personas servidoras públicas son elementos fundamentales del derecho a la buena administración pública. Las autoridades establecerán un sistema de indicadores de calidad y excelencia en el servicio público, basado en criterios técnicos y acorde con los principios mencionados en este artículo.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+
 Toda persona tiene el derecho de impugnar cualquier acción u omisión de las autoridades que viole su derecho a una buena administración pública, siempre y cuando puedan demostrar un interés legítimo, lo cual se regirá en las leyes secundarias correspondientes.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
 Las decisiones o resoluciones finales emitidas por las autoridades estatales y municipales pueden ser objeto de recurso, de acuerdo (sic) la legislación en la materia.
 
@@ -303,7 +339,9 @@ Las decisiones o resoluciones finales emitidas por las autoridades estatales y m
 
 el derecho de asociarse o reunirse pacíficamente con objeto lícito, no está sujeto a restricciones.
 
-La disposición de esta facultad es exclusiva del ciudadano mexicano en asuntos políticos. Ninguna reunión armada puede deliberar.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La disposición de esta facultad es exclusiva de la persona ciudadana mexicana en asuntos políticos. Ninguna reunión armada puede deliberar.
 
 No se reputará ilegal ni podrá ser disuelta una asamblea o reunión cuyo objeto sea formular peticiones o presentar protesta por actos de autoridad, a condición de no proferir injurias contra ésta, ni de acudir a violencias o amenazas para intimidarla u obligarla a resolver en determinado sentido.
 
@@ -405,15 +443,19 @@ I. Será jurisdiccional y autónomo del de materia penal;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
-II.- Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, respecto de los bienes siguientes:
+II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, respecto de los bienes siguientes:
 
 a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
 b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
 
-c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
+c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueña o dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y la persona acusada por estos delitos se comporte como dueña o dueño.
 
 III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
@@ -427,29 +469,31 @@ A nadie se afectará en su persona, familia, domicilio, papeles o posesiones, si
 
 No podrá librarse orden de aprehensión o detención excepto por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten el cuerpo del delito y que hagan probable la responsabilidad del indiciado.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionado por la ley penal.
+La autoridad que ejecute una orden judicial de aprehensión deberá poner a la persona inculpada a disposición de la persona juzgadora sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionado (sic) por la Ley Penal.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
+En los casos de delito flagrante, cualquier persona puede detener a la persona indiciada poniéndola sin demora a disposición de la autoridad inmediata y esta, con la misma prontitud, a la del ministerio público.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Sólo en casos urgentes y cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+Solo en casos urgentes y cuando se trate de delito grave así calificado por la Ley y ante el riesgo fundado de que la persona indiciada pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el ministerio público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+En casos de urgencia o flagrancia, la persona juzgadora que reciba la consignación de la persona detenida deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de Ley.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto, será sancionado por la ley penal.
+Ninguna persona indiciada podrá ser retenida por el ministerio público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto, será sancionado por la Ley Penal.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y por escrito, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos buscados, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
+En toda orden de cateo, que solo la autoridad judicial podrá expedir, y por escrito, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos buscados, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por la persona ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE MARZO DE 2025)</small>
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía, y exigir la exhibición de los libros y papeles indispensables para comprobar que han sido acatadas las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
 
@@ -565,49 +609,65 @@ Las leyes preverán mecanismos alternativos de solución de controversias. En la
 
 Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 27.
 
-Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que la persona indiciada sea puesta a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute a la persona acusada; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que la persona indiciada lo cometió o participó en su comisión.
 
-Salvo los casos que señale la ley para la prisión preventiva de oficio, el Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
+Salvo los casos que señale la ley para la prisión preventiva de oficio, el Ministerio Público sólo podrá solicitar a la persona juzgadora la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia de la persona imputada en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando la persona imputada esté siendo procesada o haya sido sentenciada previamente por la comisión de un delito doloso.
 
-El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la Ley.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso o del que decrete prisión preventiva o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+La Ley determinará los casos en los cuales la persona juzgadora podrá revocar la libertad de las personas vinculadas a proceso.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición de la persona indiciada, en la forma que señale la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La prolongación de la detención en su perjuicio será sancionada por la Ley penal. La autoridad responsable del establecimiento en el que se encuentre internada la persona indiciada, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso o del que decrete prisión preventiva o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención de la persona juzgadora sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciada (sic) en libertad.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto al que se persigue, deberá ser objeto de consignación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 28.
 
-En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
+En todo proceso de orden penal, tendrá la persona inculpada las siguientes garantías:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-I.- Inmediatamente que lo solicite, el juez o tribunal deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de delitos en que por su gravedad la ley expresamente prohiba conceder este beneficio.
+I.- Inmediatamente que lo solicite, la persona juzgadora o tribunal deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse a la persona inculpada y no se trate de delitos en que por su gravedad la Ley expresamente prohíba conceder este beneficio.
 
-El monto y la forma de caución que se fije deberán ser asequiables (sic) para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá disminuir el monto de la caución inicial.
+El monto y la forma de caución que se fije deberán ser asequiables para la persona inculpada. En circunstancias que la Ley determine, la autoridad judicial podrá disminuir el monto de la caución inicial.
 
-El juez podrá revocar la libertad provisional cuando el procesado incumpla en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso.
+La persona juzgadora podrá revocar la libertad provisional cuando la persona procesada incumpla en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor, carecerá de todo valor probatorio.
+II.- No podrá ser obligada a declarar. Queda prohibida y será sancionada por la Ley Penal toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del ministerio público o de la persona juzgadora, o ante estos sin la asistencia de su persona defensora, carecerá de todo valor probatorio.
 
-III.- Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicaia (sic), el nombre de su acusador y la naturaleza y causa de la acusación, a efecto de que conozca con amplitud el hecho punible que se le atribuye y pueda contestar al cargo, rindiendo en este acto su declaración preparatoria.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+III.- Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su persona acusadora y la naturaleza y causa de la acusación, a efecto de que conozca con amplitud el hecho punible que se le atribuye y pueda contestar al cargo, rindiendo en este acto su declaración preparatoria.
 
-IV.- Siempre que lo solicite, será careado en presencia del juez con quienes depongan en su contra.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-V.- Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele para esto el tiempo que la ley determine necesario y se le auxiliará para lograr la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso.
+IV.- Siempre que lo solicite, la persona será careada en presencia de la persona juzgadora con quienes depongan en su contra.
 
-VI.- Será juzgado en audiencia pública por un juez o jurado de ciudadanos que sepan leer y escribir, vecinos del lugar y partido judicial en que se cometiere el delito, siempre que éste pueda ser castigado con una pena mayor de un año de prisión. En todo caso serán juzgados por un jurado los delitos cometidos por medio de la prensa contra el orden público o la seguridad exterior o interior de la Nación.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+V.- Se le recibirán a los testigos y demás pruebas que ofrezca, concediéndosele para esto el tiempo que la ley determine necesario y se le auxiliará para lograr la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VI.- La persona será juzgada en audiencia pública por una persona juzgadora o jurado de personas ciudadanas que sepan leer y escribir, vecinas del lugar y partido judicial en que se cometiere el delito, siempre que esta pueda ser castigada con una pena mayor de un año de prisión. En todo caso las personas serán juzgadas por un jurado (sic) los delitos cometidos por medio de la prensa contra el orden público o la seguridad exterior o interior de la Nación.
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -617,11 +677,13 @@ VII.- Le serán facilitados todos los datos que solicite para su defensa y que c
 
 VIII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese término, salvo que solicite mayor plazo para su defensa. En caso de cumplirse con el plazo señalado en el párrafo que antecede y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora, en los términos que establezca la ley;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada por abogado con cédula profesional debidamente registrada ante autoridad competente al efecto, que lo acredite como Licenciado en Derecho, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el juez o tribunal le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá la obligación de hacerlo cuantas veces se le requiera; y
+IX.- Desde el inicio de su proceso la persona será informada de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada por una persona abogada con cédula profesional debidamente registrada ante autoridad competente al efecto, que la acredite como licenciada en Derecho, al (sic) cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar una persona defensora después de haber sido requerida para hacerlo, la persona juzgadora o tribunal le designará una persona defensora de oficio. También tendrá derecho a que su persona defensora comparezca en todos los actos del proceso y ésta tendrá la obligación de hacerlo cuantas veces se le requiera; y
 
-X.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
+
+X.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de personas defensoras o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
 Tampoco podrá prolongarse la prisión preventiva por más tiempo del máximo fijado en la ley para el delito que origine el proceso.
 
@@ -631,9 +693,9 @@ En toda pena de prisión impuesta por una sentencia, se computará el tiempo de 
 
 Las garantías previstas en las fracciones V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en las fracciones I y II no estará sujeto a condición alguna.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En todo proceso penal, la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
+En todo proceso penal, la víctima o la persona ofendida por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el ministerio público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
 
@@ -675,11 +737,13 @@ Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, 
 
 La organización y desenvolvimiento de la familia revisten un objeto particular de tutela, para el orden jurídico del Estado.
 
-Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá, según el caso, los auxilios pertinentes para suplir las deficiencias en la asistencia de sus progenitores, tanto como para ofrecer orientación conveniente a los menores desprotegidos.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+El derecho correlativo a la calidad de los padres y las madres, la determinación libre, informada y responsable, acerca del número y esparcimiento de las hijas e hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá, según el caso, los auxilios pertinentes para suplir las deficiencias en la asistencia de sus progenitores, tanto como para ofrecer orientación conveniente a las personas menores desprotegidas.
 
-En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Las personas ascendientes, tutoras y custodias tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo su participación y la de los Municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
@@ -721,7 +785,9 @@ Asimismo, atenderá a la comprensión de la problemática estatal y contribuirá
 
 Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización retroalimentado por evaluaciones diagnósticas. Corresponderá al Estado la coordinación con la Federación para la implementación del Sistema para las Carreras de las maestras y los maestros en sus funciones docentes, directivos o de supervisión.
 
-Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades, en estos casos los particulares deberán cumplir con los planes y programas que la autoridad competente determine y obtendrán previamente la autorización expresa del Poder Público, sujetándose a las disposiciones de la Ley General de Educación, de la Ley de Educación del Estado, de sus respectivos reglamentos y de los acuerdos secretariales que incidan en la materia.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+Las personas particulares podrán impartir educación en todos sus tipos, niveles y modalidades, en estos casos las personas particulares deberán cumplir con los planes y programas que la autoridad competente determine y obtendrán previamente la autorización expresa del Poder Público, sujetándose a las disposiciones de la Ley General de Educación, de la Ley de Educación del Estado, de sus respectivos reglamentos y de los acuerdos secretariales que incidan en la materia.
 
 En los términos que establezca la Ley, el Estado otorgará y retirará la autorización o el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
@@ -741,7 +807,9 @@ La educación será democrática como un sistema de vida fundado en el constante
 
 La educación atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura.
 
-La educación que se imparta en el Estado contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La educación que se imparta en el Estado contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
 El Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos.
 
@@ -769,23 +837,31 @@ Los preceptos que disponen su regulación conforme a las asignaciones de su ámb
 
 Las Autoridades Estatales conducirán, en los términos de las Leyes reglamentarias del artículo 27 de la Constitución de la República, las tramitaciones relacionadas con dotaciones, restituciones de tierras y aguas y sus ampliaciones en favor de núcleos de población interesados, así como las demás que estos ordenamientos le reserven.
 
-El Estado, otorgará asesoría legal a los campesinos, a fin de impulsar el desarrollo rural integral con el propósito de generar empleos y el fomento de la agricultura, la ganadería y la explotación racional forestal, para el uso óptimo de la tierra, la organización de productores agropecuarios, su industrialización y comercialización, considerándolos de interés público.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+El Estado, otorgará asesoría legal a las personas campesinas, a fin de impulsar el desarrollo rural integral con el propósito de generar empleos y el fomento de la agricultura, la ganadería y la explotación racional forestal, para el uso óptimo de la tierra, la organización de personas productoras agropecuarias, su industrialización y comercialización, considerándolos de interés público.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 34.
 
-El Estado de Quintana Roo protegerá en beneficio de sus trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el artículo 123 de la Constitución de los Estados Unidos Mexicanos y en sus leyes reglamentarias.
+El Estado de Quintana Roo protegerá en beneficio de sus personas trabajadoras, el cumplimiento de los derechos y prerrogativas establecidos en el artículo 123 de la Constitución de los Estados Unidos Mexicanos y en sus leyes reglamentarias.
 
 ## TITULO TERCERO. De la Población
 
-### CAPITULO I. De los Habitantes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2025)</small>
+
+### CAPITULO I. De las Personas Habitantes
 
 ###### ARTICULO 35.
 
 Son habitantes del Estado todas las personas que se encuentran radicadas dentro de su circunscripción territorial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 36.
 
-Son obligaciones de los habitantes del Estado:
+Son obligaciones de las personas habitantes del Estado:
 
 I.- Cumplir con los preceptos de esta Constitución, los de las leyes, reglamentos y disposiciones que de ella emanen, y
 
@@ -819,17 +895,23 @@ II.- La realización de estudios fuera de la entidad por el tiempo que lo requie
 
 La calidad de quintanarroense se pierde por la adquisición expresa de otra.
 
-### CAPITULO III. De los Ciudadanos del Estado de Quintana Roo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2025)</small>
+
+### CAPITULO III. De las Personas Ciudadanas del Estado de Quintana Roo
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 40.
 
-Son ciudadanos del Estado de Quintana Roo los quintanarroenses que hayan cumplido 18 años y tengan modo honesto de vivir.
+Son personas ciudadanas del Estado de Quintana Roo las personas quintanarroenses que hayan cumplido 18 años y tengan modo honesto de vivir.
 
-Adquieren el derecho de voto activo y el de asociación política y deberán cumplir con los deberes contenidos en las fracciones I, II, III, IV y VI, del artículo 42, los ciudadanos mexicanos que habiendo cumplido 18 años y tengan modo honesto de vivir, hayan residido en el Estado durante 6 meses efectivos.
+Adquieren el derecho de voto activo y el de asociación política y deberán cumplir con los deberes contenidos en las fracciones I, II, III, IV y VI, del artículo 42, las personas ciudadanas mexicanas que habiendo cumplido 18 años y tengan modo honesto de vivir, hayan residido en el Estado durante 6 meses efectivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 41.
 
-Son prerrogativas de los ciudadanos del Estado de Quintana Roo:
+Son prerrogativas de las personas ciudadanas del Estado de Quintana Roo:
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -845,17 +927,19 @@ II.- PODER SER VOTADO PARA TODO CARGO DE ELECCIÓN POPULAR TENIENDO LAS CALIDADE
 
 III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la entidad;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-IV.- Iniciar leyes ante el Congreso del Estado, mediante escrito firmado por uno o más ciudadanos, en los términos que señale la Ley, y
+IV.- Iniciar leyes ante el Congreso del Estado, mediante escrito firmado por una o más personas ciudadanas, en los términos que señale la Ley, y
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 V.- Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 42.
 
-Son deberes de los ciudadanos del Estado de Quintana Roo:
+Son deberes de las personas ciudadanas del Estado de Quintana Roo:
 
 I.- Inscribirse en el catastro de la municipalidad manifestando sus propiedades, industria, profesión u ocupación.
 
@@ -867,37 +951,59 @@ III.- Alistarse en la Guardia Nacional.
 
 IV.- Votar en las elecciones populares estatales y municipales, así como en el plebiscito, referéndum, consulta popular y en los demás mecanismos de participación ciudadana, en los términos que señale la ley respectiva.
 
-V.- Ejercer los cargos de elección popular para los que fuere electo, y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+V.- Ejercer los cargos de elección popular para los que fuera electa, y
 
 VI.- Desempeñar las funciones electorales, censales, las de jurado y demás contenidas en esta Constitución y disposiciones emanadas de ella.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 43.
 
-Las prerrogativas de los ciudadanos quintanarroenses se suspenden:
+Las prerrogativas de las personas ciudadanas quintanarroenses se suspenden:
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
 
 I. Por incumplimiento de las obligaciones a que se refiere el artículo anterior. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan.
 
-II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+II. Por estar sujeta a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
 
 III. Durante la extinción de una pena corporal;
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
+
 IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
 
 V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
+
 VI. Por sentencia ejecutoria que imponga como pena esa suspensión, y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2023)</small>
 
 VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
+
 Por ser declarada como persona deudora alimentaria morosa.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2023)</small>
 
 En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público, tanto en el ámbito estatal, como en el municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 44.
 
-Las prerrogativas del ciudadano se recobran:
+Las prerrogativas de las personas ciudadanas se recobran:
 
 I.- Por haber cesado la causa que originó la suspensión.
 
@@ -905,9 +1011,11 @@ II.- Por rehabilitación y
 
 III.- Por haber transcurrido el término de la suspensión.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 45.
 
-La calidad de ciudadano quintanarroense se pierde por sentencia ejecutoria, dictada por autoridad competente, que imponga esa pena.
+La calidad de persona ciudadana quintanarroense se pierde por sentencia ejecutoriada, dictada por autoridad competente, que imponga esa pena.
 
 TITUTO (SIC) CUARTO
 
@@ -1129,13 +1237,15 @@ VIII.- (DEROGADA, P.O. 6 DE MARZO DE 2019)
 
 La colaboración de poderes, a través del ejercicio de las atribuciones otorgadas por esta Constitución a cada uno de ellos, es fundamento del equilibrio del poder público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 51.
 
-No podrán reunirse dos o más de estos poderes en una persona o corporación ni depositarse el Legislativo en un solo individuo.
+No podrán reunirse dos o más de estos poderes en una persona o corporación ni depositarse el Legislativo en una sola persona.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El Titular del Ejecutivo Estatal representará al Estado en los asuntos en que éste sea parte, por conducto de la dependencia que tenga a su cargo la función de Consejero Jurídico del Poder Ejecutivo o de las Secretarías de Estado, en los términos que establezca la ley. En el supuesto previsto en el Artículo 46 de la Constitución Política de los Estados Unidos Mexicanos, el Estado será representado por el Gobernador, en cuyo caso, los convenios que éste celebre deberán ser aprobados por la Legislatura.
+La persona Titular del Poder Ejecutivo representará al Estado en los asuntos en que esta sea parte, por conducto de la dependencia que tenga a su cargo la función de la Consejería Jurídica del Poder Ejecutivo o de las Secretarías de Estado, en los términos que establezca la ley. En el supuesto previsto en el Artículo 46 de la Constitución Política de los Estados Unidos Mexicanos, el Estado será representado por la Gobernadora o el Gobernador en cuyo caso, los convenios que éste celebre deberán ser aprobados por la Legislatura.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1997)</small>
 
@@ -1203,49 +1313,49 @@ Las personas titulares de los Órganos Internos de Control de los órganos públ
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con quince diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez diputados electos según el principio de representación proporcional, cuya determinación y asignación no podrá realizarse en exceso y/o defecto de los límites de sobre y/o sub-representación, previstos en el artículo 54, fracción III de esta Constitución. Por cada diputado propietario se elegirá un suplente.
+La Legislatura del Estado de Quintana Roo, se integra con quince Diputadas y Diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez Diputadas y Diputados electos según el principio de representación proporcional, cuya determinación y asignación no podrá realizarse en exceso y/o defecto de los límites de sobre y/o sub-representación, previstos en el artículo 54, fracción III de esta Constitución. Por cada Diputada y Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Los diputados serán electos cada tres años por sufragio universal, libre, secreto, directo, personal e intransferible de los ciudadanos quintanarroenses en ejercicio de sus derechos. La Legislatura se instalará el 3 de septiembre del año que corresponda.
+Las Diputadas y Diputados serán electos cada tres años por sufragio universal, libre, secreto, directo, personal e intransferible de las personas ciudadanas quintanarroenses en ejercicio de sus derechos. La Legislatura se instalará el 3 de septiembre del año que corresponda.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Los Diputados electos según el principio de votación mayoritaria relativa y los de representación proporcional, son representantes del pueblo quintanarroense, y tienen la misma calidad e igualdad de derechos y obligaciones.
+Las Diputadas y Diputados electos según el principio de votación mayoritaria relativa y los de representación proporcional, son representantes del pueblo quintanarroense, y tienen la misma calidad e igualdad de derechos y obligaciones.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley de la materia, declarará la validez de las elecciones de diputados en cada uno de los distritos electorales y otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos.
+El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley de la materia, declarará la validez de las elecciones de Diputadas y Diputados en cada uno de los distritos electorales y otorgará las constancias respectivas a las fórmulas de las personas candidatas que hubiesen obtenido mayoría de votos.
 
-(ADICIONADO, P.O. 28 DE FEBRERO DE 1997) (N. DE E. VÉASE P.O. DE 17 DE JULIO DE 2002, PÁGINA 13)
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El organismo público previsto en el artículo 49 de esta Constitución, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de diputados en cada uno de los distritos electorales y otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y asignación de diputados según el principio de representación proporcional de conformidad con el artículo 54 de esta Constitución.
+El organismo público previsto en el artículo 49 de esta Constitución, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de Diputadas y Diputados en cada uno de los distritos electorales y otorgará las constancias respectivas a las fórmulas de personas candidatas que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y asignación de Diputadas y Diputados según el principio de representación proporcional de conformidad con el artículo 54 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de diputados podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
+Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de las Diputadas y Diputados podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
-ARTICULO 52 BIS.- Cuando se produzcan vacantes en la Legislatura por cualquiera de las causas previstas por esta Constitución, si se tratare de Diputados propietarios electos por el principio de mayoría relativa, se convocará al suplente respectivo.
+ARTICULO 52 BIS.- Cuando se produzcan vacantes en la Legislatura por cualquiera de las causas previstas por esta Constitución, si se tratare de Diputadas o Diputados propietarios electos por el principio de mayoría relativa, se convocará al suplente respectivo.
 
 (NOTA: EL 5 DE DICIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE DICIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 CUANDO SE ACTUALICE LA VACANTE ABSOLUTA DE LA FÓRMULA DE DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA, ÉSTA SERÁ CUBIERTA POR EL INTEGRANTE DE LA LISTA REGISTRADA POR EL MISMO PARTIDO POLÍTICO BAJO EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, QUE SIGA EN EL ORDEN DE PRELACIÓN, EL CUAL DE FORMA PREFERENTE SERÁ DEL MISMO GÉNERO.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En el caso de las ausencias temporales o definitivas del Diputado propietario por el principio de representación proporcional, se cubrirán con el siguiente ciudadano del mismo género, en orden de prelación postulado por los partidos políticos de manera directa conforme a sus normas internas, de conformidad con la ley de la materia.
+En el caso de las ausencias temporales o definitivas de Diputadas y Diputados propietarios por el principio de representación proporcional, se cubrirán con la siguiente persona ciudadana del mismo género, en orden de prelación postulado por los partidos políticos de manera directa conforme a sus normas internas, de conformidad con la ley de la materia.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En ningún caso, la persona que haya asumido el cargo en los términos del párrafo anterior, podrá cubrir la ausencia de otro diputado diferente al que haya cubierto.
+En ningún caso, la persona que haya asumido el cargo en los términos del párrafo anterior, podrá cubrir la ausencia de otra Diputada o Diputado diferente al que haya cubierto.
 
 ###### ARTICULO 53.
 
@@ -1253,19 +1363,23 @@ En ningún caso, la persona que haya asumido el cargo en los términos del párr
 
 ARTICULO 53 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 54.
 
-La elección de los diez Diputados según el principio de representación proporcional, se sujetará a las bases siguientes y a lo que en particular disponga la Ley de la materia.
+La elección de las diez Diputadas y Diputados según el principio de representación proporcional, se sujetará a las bases siguientes y a lo que en particular disponga la Ley de la materia:
 
-I.- Para obtener el registro de sus listas de candidatos a Diputados por el principio de representación proporcional, el Partido Político que lo solicite deberá acreditar que participa con candidatos a Diputados por mayoría relativa en cuando menos ocho de los distritos electorales, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+I.- Para obtener el registro de su lista de las diputadas y diputados por el principio de representación proporcional, el Partido Político que lo solicite deberá acreditar que participa con candidatas y candidatos a Diputaciones por mayoría relativa en cuando menos ocho de los distritos electorales, y
 
-La lista a (sic) de candidatos a diputados por el principio de representación proporcional de cada partido político, deberá estar integrada de la siguiente manera:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-a) Cinco candidatos postulados y registrados de manera directa y cinco candidatos que hayan participado bajo el principio de mayoría relativa y que no habiendo obtenido el triunfo por este principio, hayan obtenido los mayores porcentajes de votación válida distrital.
+La lista de Diputadas y Diputados por el principio de representación proporcional de cada partido político, deberá estar integrada de la siguiente manera:
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+a) Cinco personas candidatas postuladas y registradas de manera directa y cinco personas candidatas que hayan participado bajo el principio de mayoría relativa y que no habiendo obtenido el triunfo por este principio, hayan obtenido los mayores porcentajes de votación válida distrital.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
@@ -1273,47 +1387,65 @@ b) La lista en su totalidad deberá estar integrada de manera alternada entre g�
 
 c) (DEROGADO, P.O. 19 DE OCTUBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-II.- Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido que haya alcanzado por lo menos el tres por ciento del total de la votación válida emitida en el territorio del Estado, y
+II.- Tendrá derecho a participar en la asignación de Diputadas y Diputados electos según el principio de representación proporcional, todo aquel partido que haya alcanzado por lo menos el tres por ciento del total de la votación válida emitida en el territorio del Estado, y
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-III.- Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+III.- Ningún partido político podrá contar con un número de Diputadas y Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-La Ley de la materia reglamentará las fórmulas electorales y los procedimientos que se observarán en la asignación de Diputados electos según el principio de representación proporcional. En todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes, y en respeto a la voluntad soberana de la ciudadanía, las mismas no pueden ser modificadas por ninguna autoridad durante el procedimiento de asignación, derivado de que dicho orden de prelación se construye bajo parámetros partidistas previos y objetivos, que resulta fundamental para el ejercicio de la función parlamentaria.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+La Ley de la materia reglamentará las fórmulas electorales y los procedimientos que se observarán en la asignación de Diputadas y Diputados electos según el principio de representación proporcional. En todo caso, en la asignación se seguirá el orden que tuviesen las personas candidatas en las listas correspondientes, y en respeto a la voluntad soberana de la ciudadanía, las mismas no pueden ser modificadas por ninguna autoridad durante el procedimiento de asignación, derivado de que dicho orden de prelación se construye bajo parámetros partidistas previos y objetivos, que resulta fundamental para el ejercicio de la función parlamentaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 55.
 
-Para ser Diputado a la Legislatura, se requiere:
+Para ser Diputada o Diputado a la Legislatura se requiere:
 
-I.- Ser ciudadano Quintanarroense, en ejercicio de sus derechos políticos, con 6 años de residencia en el Estado, y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+I.- Ser persona ciudadana Quintanarroense, en ejercicio de sus derechos políticos, con 6 años de residencia en el Estado, y
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 II.- Tener 18 años cumplidos el día de la elección.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 56.
 
-No podrá ser diputado:
+No podrá ser Diputada o Diputado:
 
-I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de designación;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+I.- La persona titular del Poder Ejecutivo del Estado en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de designación;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
 II.- Las personas titulares de las Secretarías de Despacho dependientes del Ejecutivo, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Auditoría Superior del Estado, de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Justicia Administrativa y Anticorrupción del Estado, las personas integrantes del Órgano de Administración Judicial, las personas titulares de los juzgados y las personas servidoras públicas que por la naturaleza de su función, empleo, cargo o comisión, manejen o tengan bajo su resguardo, custodia o disposición recursos públicos de carácter económico o financiero pertenecientes a los Poderes del Estado, organismos constitucionalmente autónomos o a la administración pública en el Estado, a menos que se separe de su cargo noventa días antes de la fecha de la elección.
 
-III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, que, por la naturaleza de su función, empleo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separe del mismo noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-IV.- Los servidores públicos federales que realicen sus funciones en el Estado, que, por la naturaleza de su función, empleo, cargo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separen de ellas noventa días antes de la fecha de elección;
+III.- Las personas Titulares de las Presidencias Municipales o quienes ocupen cualquier cargo municipal, que, por la naturaleza de su función, empleo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separe del mismo noventa días antes de la elección;
 
-V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar noventa días anteriores a la elección;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VI.- Los que sean o hayan sido ministros de cualquier culto religioso a menos que se hayan separado de su ministerio cinco años antes de la fecha de la elección, y
+IV.- Las personas servidoras públicas federales que realicen sus funciones en el Estado, que, por la naturaleza de su función, empleo, cargo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separen de ellas noventa días antes de la fecha de elección;
 
-VII.- Los Magistrados del Tribunal Electoral de Quintana Roo, el Consejero Presidente y los Consejeros Electorales, los Secretarios y Funcionarios del Instituto Electoral de Quintana Roo, así como sus similares de los Órganos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+V.- Las y los militares en servicio activo y las personas ciudadanas que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar noventa días anteriores a la elección;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VI.- Las personas que sean o hayan sido ministras de cualquier culto religioso a menos que se hayan separado de su ministerio cinco años antes de la fecha de la elección, y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VII.- Las personas Magistradas del Tribunal Electoral de Quintana Roo, las personas Consejeras Electorales, las personas Secretarias y Funcionarias del Instituto Electoral de Quintana Roo, así como sus similares de los Órganos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección.
 
 (NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1325,29 +1457,37 @@ Los Diputados a la Legislatura, podrán ser reelectos por un período adicional.
 
 La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 58.
 
-Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
+Las Diputadas y Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-###### Artículo 59.
+###### ARTICULO 59.
 
-Los diputados en ejercicio, no podrán desempeñar ninguna otra comisión o empleo público por el que se disfrute sueldo, sin licencia previa de la Legislatura o de la Comisión Permanente, pero entonces cesarán en su función representativa mientras dure su nuevo cargo. No quedan comprendidas en esta disposición las actividades docentes.
+Las Diputadas y Diputados en ejercicio, no podrán desempeñar ninguna otra comisión o empleo público por el que se disfrute sueldo, sin licencia previa de la Legislatura o de la Comisión Permanente, pero entonces cesarán en su función representativa mientras dure su nuevo cargo. No quedan comprendidas en esta disposición las actividades docentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 60.
 
-Son obligaciones de los diputados:
+Son obligaciones de las Diputadas y de los Diputados:
 
 I.- Asistir regularmente a las sesiones.
 
 II.- Desempeñar las comisiones que les sean conferidas.
 
-III.- Visitar los distritos en lo (sic) que fueren electos e informar a los habitantes de sus labores legislativas, y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+III.- Visitar los distritos en los que fueren electas o electos e informar a las personas habitantes de sus labores legislativas, y
 
 IV.- Al reanudarse el período de sesiones ordinarias, presentar a la Legislatura un informe de las actividades desarrolladas dentro y fuera de sus distritos correspondientes.
 
-Los diputados que incumplan con las obligaciones contenidas en las fracciones III y IV no tendrán derecho al pago de las dietas correspondientes al período de receso respectivo.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+Las Diputadas y Diputados que incumplan con las obligaciones contenidas en las fracciones III y IV no tendrán derecho al pago de las dietas correspondientes al período de receso respectivo.
 
 #### SECCION SEGUNDA. De las Sesiones
 
@@ -1357,29 +1497,35 @@ Los diputados que incumplan con las obligaciones contenidas en las fracciones II
 
 La Legislatura durará tres años, cada año de ejercicio constitucional tendrá dos periodos ordinarios de sesiones, el primero, será del 5 de septiembre al 15 de diciembre y el segundo, del 15 de febrero hasta el 31 de mayo del año que corresponda.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Legislatura se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de los diputados.
+La Legislatura se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de Diputadas y Diputados.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-No podrá celebrarse ninguna sesión sin la concurrencia de la mayoría simple del número total de diputados que integran la Legislatura.
+No podrá celebrarse ninguna sesión sin la concurrencia de la mayoría simple del número total de Diputadas y Diputados que integran la Legislatura.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 62.
 
-La Legislatura, a convocatoria de la Comisión Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivaren. En la convocatoria, o en la solicitud que presente el Gobernador, se señalarán el motivo y la finalidad de las sesiones extraordinarias.
+La Legislatura, a convocatoria de la Comisión Permanente, por sí o a solicitud de la persona Titular del Poder Ejecutivo del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivaren. En la convocatoria, o en la solicitud que presente la persona Titular del Poder Ejecutivo, se señalarán el motivo y la finalidad de las sesiones extraordinarias.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 63.
 
-La Legislatura funcionará en Pleno y para el desempeño de sus funciones legislativas cada diputado presidirá una de las comisiones que refiera la Ley respectiva. Sus sesiones serán públicas y la ley en la materia determinará su organización, integración y atribuciones.
+La Legislatura funcionará en Pleno y para el desempeño de sus funciones legislativas cada Diputada y Diputado presidirá una de las comisiones que refiera la Ley respectiva. Sus sesiones serán públicas y la ley en la materia determinará su organización, integración y atribuciones.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 La Mesa Directiva y la Junta de Gobierno y Coordinación Política, serán los órganos de gobierno del Poder Legislativo, los cuales reflejarán en su composición la pluralidad de la Legislatura.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
 La Junta de Gobierno y Coordinación Política será el órgano colegiado encargado de procurar la toma de decisiones políticas a fin de que (sic) alcanzar y facilitar los consensos que coadyuven a la gobernabilidad democrática del Poder Legislativo del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 La ley determinará la integración, organización y atribuciones de cada uno de los citados órganos de gobierno.
 
@@ -1387,37 +1533,39 @@ La ley determinará la integración, organización y atribuciones de cada uno de
 
 ARTICULO 63 BIS.- La Legislatura contará con las dependencias que requiera para el cumplimiento de sus funciones y determine su Ley Orgánica. Los nombramientos de las personas titulares de dichas dependencias se realizarán en apego al principio de paridad de género. En la estructura orgánica del Poder Legislativo se promoverá este principio.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 64.
 
-Los diputados que no concurran a una sesión del Pleno, sin causa justificada, no tendrán derecho a la dieta correspondiente al día en que faltaren.
+Las Diputadas y los Diputados que no concurran a una sesión del Pleno, sin causa justificada, no tendrán derecho a la dieta correspondiente al día en que faltaren.
 
-Cuando algún diputado deje de asistir a más de tres sesiones consecutivas de la Legislatura, sin causa justificada, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará a su suplente para que lo reemplace.
+Cuando alguna Diputada o Diputado deje de asistir a más de tres sesiones consecutivas de la Legislatura, sin causa justificada, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará a su suplente para que lo reemplace.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 65.
 
-Incurran en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados no se presenten sin causa justificada, a juicio de la Legislatura, a desempeñar el cargo.
+Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electas Diputadas o Diputados no se presenten sin causa justificada, a juicio de la Legislatura, a desempeñar el cargo.
 
-También incurrirán en responsabilidad, sancionada por la misma Ley, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros electos no se presenten a desempeñar sus funciones.
+También incurrirán en responsabilidad, sancionada por la misma Ley, los partidos políticos que habiendo postulado personas candidatas en una elección, acuerden que las y los integrantes electos de sus partidos no se presenten a desempeñar sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 66.
 
-Entre el 5 y el 10 de septiembre de cada año, el Gobernador del Estado de Quintana Roo, presentará ante la Legislatura del Estado, un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado.
+Entre el 5 y el 10 de septiembre de cada año, la persona Titular del Poder Ejecutivo del Estado de Quintana Roo, presentará ante la Legislatura del Estado, un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Legislatura realizará el análisis del informe y podrá solicitar al Gobernador del Estado de Quintana Roo ampliar la información mediante pregunta por escrito y citar a los titulares de las dependencias y entidades paraestatales de la Administración Pública del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
+La Legislatura realizará el análisis del informe y podrá solicitar a la persona Titular del Poder Ejecutivo del Estado de Quintana Roo ampliar la información mediante pregunta por escrito y citar a las personas titulares de las dependencias y entidades paraestatales de la Administración Pública del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Legislatura podrá convocar a los titulares de las dependencias y entidades paraestatales, así como a los titulares de los órganos públicos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+La Legislatura podrá convocar a las personas titulares de las dependencias y entidades paraestatales, así como a las personas titulares de los órganos públicos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Legislatura podrá requerir información o documentación al Gobernador del Estado de Quintana Roo, y a los titulares de las dependencias y entidades paraestatales, mediante pregunta o solicitud por escrito, la cual deberá ser respondida o entregada en un término no mayor a 15 días naturales a partir de su recepción.
+La Legislatura podrá requerir información o documentación a la persona Titular del Poder Ejecutivo del Estado de Quintana Roo, y a las personas titulares de las dependencias y entidades paraestatales, mediante pregunta o solicitud por escrito, la cual deberá ser respondida o entregada en un término no mayor a 15 días naturales a partir de su recepción.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -1441,29 +1589,33 @@ Durante el ejercicio fiscal que corresponda, con la finalidad de cumplir con el 
 
 El derecho de iniciar leyes y decretos compete:
 
-I.- Al Gobernador del Estado.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-II.- A los Diputados a la Legislatura.
+I.- A la persona Titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+II.- A las Diputadas y los Diputados de la Legislatura;
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2020)</small>
 
 III.- A los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-IV.- A los ciudadanos quintanarroenses, mediante escrito firmado por uno o más ciudadanos, en los términos que señale la Ley respectiva.
+IV.- A las personas ciudadanas quintanarroenses, mediante escrito firmado por uno o más personas ciudadanas, en los términos que señale la Ley respectiva;
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2020)</small>
 
 V.- Al Tribunal Superior de Justicia del Estado, en la materia de su competencia, y
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VI.- A los órganos públicos autónomos, en la materia de su competencia. La iniciativa se presentará por conducto de su presidente o titular, previo acuerdo de sus integrantes cuando se trate de un órgano colegiado.
+VI.- A los órganos públicos autónomos, en la materia de su competencia. La iniciativa se presentará por conducto de su persona presidenta o persona titular, previo acuerdo de sus integrantes cuando se trate de un órgano colegiado.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El Gobernador del Estado tendrá derecho a presentar hasta dos iniciativas de carácter preferente dentro de los diez días hábiles al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.
+La persona Titular del Poder Ejecutivo del Estado tendrá derecho a presentar hasta dos iniciativas de carácter preferente dentro de los diez días hábiles al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1473,31 +1625,35 @@ Las iniciativas con carácter preferente deberán ser sometidas a discusión y v
 
 La ley establecerá los mecanismos aplicables para dar cumplimiento a lo previsto por el presente artículo. No podrán incluirse como iniciativas preferentes las que modifiquen esta Constitución, reformas en materia electoral y fiscal.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 69.
 
-Las iniciativas se sujetarán al trámite señalado en la Ley Orgánica del Poder Legislativo del Estado y en el Reglamento Interior de la Legislatura. Una vez aprobadas, pasarán al Ejecutivo para que en un plazo no mayor de 10 días formule, si las hubiere, las observaciones pertinentes, o proceda a su publicación. En la interpretación, reforma o derogación de las leyes o decreto (sic) se observarán los mismos trámites establecidos para su formación.
+Las iniciativas se sujetarán al trámite señalado en la Ley Orgánica del Poder Legislativo del Estado y en el Reglamento Interior de la Legislatura. Una vez aprobadas, pasarán al Poder Ejecutivo para que en un plazo no mayor de 10 días formule, si las hubiere, las observaciones pertinentes, o proceda a su publicación. En la interpretación, reforma o derogación de las leyes o decreto (sic) se observarán los mismos trámites establecidos para su formación.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 70.
 
-Se considera aprobado todo proyecto de ley o decreto no devuelto por el Ejecutivo en ese plazo, a no ser que durante ese término la Legislatura hubiese entrado en receso, en cuyo caso la devolución deberá hacerla el primer día de sesiones del período siguiente.
+Se considera aprobado todo proyecto de ley o decreto no devuelto por la persona Titular del Poder Ejecutivo en ese plazo, a no ser que durante ese término la Legislatura hubiese entrado en receso, en cuyo caso la devolución deberá hacerla el primer día de sesiones del período siguiente.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 71.
 
-La facultad de veto del Ejecutivo se sujetará a las siguientes reglas:
+La facultad de veto del Poder Ejecutivo se sujetará a las siguientes reglas:
 
-I.- Todo proyecto de ley o decreto desechado en todo o en parte por el ejecutivo serádevuelto (sic) con sus observaciones a la Legislatura, quien lo discutiránuevamente (sic) en la parte conducente.
+I.- Todo proyecto de ley o de decreto desechada (sic) en todo o en parte por la persona titular del Poder Ejecutivo será devuelto con sus observaciones a la Legislatura, quien lo discutirá nuevamente en la parte conducente.
 
-II.- De ser confirmado el proyecto original, por las dos terceras partes de los miembros de la Legislatura, esta (sic) será ley o decreto y devuelto al Ejecutivo para su publicación, y
+II.- De ser confirmado el proyecto original, por las dos terceras partes de las personas integrantes de la Legislatura, este será ley o decreto y devuelto al Ejecutivo para su publicación, y
 
-III.- Si la Legislatura aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por el Ejecutivo, se le devolverápara (sic) los efectos de la fracción anterior.
+III.- Si la Legislatura aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por la persona Titular del Poder Ejecutivo, se le devolverá para los efectos de la fracción anterior.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 72.
 
-El Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni a la convocatoria a sesiones extraordinarias expedido por la Comisión Permanente.
+El Poder Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Colegio Electoral, las referentes a la responsabilidad de las personas servidoras públicas, ni a la convocatoria a sesiones extraordinarias expedida por la Comisión Permanente.
 
 ###### ARTICULO 73.
 
@@ -1507,9 +1663,11 @@ Las iniciativas de Ley o decreto que fueren desechadas por la Legislatura, no po
 
 Si presentada la iniciativa de ley o decreto no ha sido aprobada por la Legislatura del Estado en los plazos establecidos en la Ley Orgánica del Poder Legislativo del Estado y el Reglamento para el Gobierno Interior de la Legislatura, se considerará por ese hecho desechada, excepto cuando la o las comisiones competentes o sus promoventes soliciten a la Legislatura prórroga en los términos establecidos en los mismos ordenamientos.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 74.
 
-Toda resolución de la Legislatura que tenga carácter de Ley o decreto se comunicará al Ejecutivo por el Presidente y el Secretario de la misma, observándose la siguiente formalidad: La Legislatura del Estado de Quintana Roo decreta: (texto de la ley o decreto).
+Toda resolución de la Legislatura que tenga carácter de ley o decreto se comunicará al Poder Ejecutivo por la Presidencia y la Secretaría de la misma, observándose la siguiente formalidad: La Legislatura del Estado de Quintana Roo decreta: (texto de la ley o decreto).
 
 #### SECCION CUARTA. De las Facultades de la Legislatura
 
@@ -1517,7 +1675,9 @@ Toda resolución de la Legislatura que tenga carácter de Ley o decreto se comun
 
 Son facultades de la Legislatura del Estado:
 
-I.- Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a los funcionarios federales.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+I.- Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a las personas funcionarias federales.
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2004)</small>
 
@@ -1531,17 +1691,19 @@ IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como para expedir l
 
 La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaratoria de Gobernador Electo, una vez que ésta se dé por parte de la autoridad correspondiente.
+V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaratoria de la Gobernadora o el Gobernador Electo, una vez que ésta se dé por parte de la autoridad correspondiente.
 
 (REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 1995)
 
 VI.- Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VII.- Convocar a elecciones extraordinarias para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los primeros dos años del período constitucional, conforme al Artículo 83 de esta Constitución.
+VII.- Convocar a elecciones extraordinarias para la Gobernatura, en caso de falta absoluta de la persona Titular de esta, ocurrida dentro de los primeros dos años del período constitucional, conforme al
+
+ARTICULO 83 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1551,13 +1713,17 @@ VIII.- Convocar a elecciones extraordinarias de Ayuntamientos, los cuales deber�
 
 VIII Bis.- Convocar a elecciones de las personas titulares de las Magistraturas y de los Juzgados del Poder Judicial e integrantes del Tribunal de Disciplina Judicial en términos de lo previsto en esta Constitución. La convocatoria deberá expedirse dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda;
 
-IX.- Erigirse en Colegio electoral para elegir Gobernador sustituto para que concluya el período constitucional, en caso de falta absoluta de éste ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 83 de esta Constitución.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+IX.- Erigirse en Colegio Electoral para elegir a la persona Titular del Poder Ejecutivo sustituta para que concluya el período constitucional, en caso de falta absoluta de ésta ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 83 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
 X.- Conceder a las diputadas y los diputados y a las personas titulares de las magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Justicia Administrativa y Anticorrupción, licencia temporal para separarse de sus cargos, en los términos que establezca esta Constitución y las leyes aplicables;
 
-XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+XI.- Decidir sobre las solicitudes de renuncia que formulen las Diputadas y Diputados y la persona Titular del Poder Ejecutivo del Estado para separarse definitivamente de sus cargos.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1571,9 +1737,9 @@ XIV.- Ejercer las facultades que le otorga la Constitución Federal en relación
 
 XV.- Legislar en materia de símbolos estatales, como son: himno, escudo, y bandera, a fin de fomentar el patrimonio cultural, historia e identidad local, respetando en todo momento la supremacía de los símbolos patrios.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XVI.- Recibir en pleno o a través de la comisión respectiva, la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
+XVI.- Recibir en pleno o a través de la comisión respectiva, la comparecencia de las personas servidoras públicas para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
 
 XVII.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2017)
 
@@ -1607,29 +1773,33 @@ XX Quinquies.- Designar mediante votación de dos terceras partes de sus integra
 
 XXI.- Legislar con perspectiva de género en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios, social y estatalmente necesarios.
 
-XXII.- Autorizar la participación del Ejecutivo en comisiones inter estatales de desarrollo regional.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
+XXII.- Autorizar la participación del Poder Ejecutivo en comisiones ínter estatales de desarrollo regional.
 
-XXIII.- Ratificar o rechazar los convenios que celebren el Ejecutivo con el Gobierno Federal.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXIV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad.
+XXIII.- Ratificar o rechazar los convenios que celebren el Poder Ejecutivo con el Gobierno Federal.
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXV.- Autorizar al Ejecutivo y a los Ayuntamientos para contratar Empréstitos a nombre del Estado y de los Municipios, Órganos autónomos, Organismos Descentralizados y Empresas Públicas y Fideicomisos, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura de deuda, las que deberán realizarse bajo las mejores condiciones de mercado; así como aprobar los montos de endeudamiento, los cuales deberán incluirse en la Ley de Ingresos, conforme a las bases de la Ley correspondiente. El Ejecutivo y los Ayuntamientos en su caso, informarán anualmente sobre el ejercicio de dicha deuda, al momento de rendir la cuenta pública.
+XXIV.- Otorgar reconocimiento a las personas ciudadanas que hayan prestado eminentes servicios a la entidad o a la humanidad.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+XXV.- Autorizar al Poder Ejecutivo y a los Ayuntamientos para contratar Empréstitos a nombre del Estado y de los Municipios, Órganos autónomos, Organismos Descentralizados y Empresas Públicas y Fideicomisos, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura de deuda, las que deberán realizarse bajo las mejores condiciones de mercado; así como aprobar los montos de endeudamiento, los cuales deberán incluirse en la Ley de Ingresos, conforme a las bases de la Ley correspondiente. El Poder Ejecutivo y los Ayuntamientos en su caso, informarán anualmente sobre el ejercicio de dicha deuda, al momento de rendir la cuenta pública.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
 
 XXVI.- Legislar acerca de la administración, conservación y enajenación de los bienes del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
+XXVII.- Aprobar o rechazar las concesiones otorgadas por la persona Titular del Poder Ejecutivo.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución y en la ley de la materia, al Titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de los miembros presentes el nombramiento de los auditores especiales;
+XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución y en la ley de la materia, a la persona Titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de las diputadas y los diputados presentes el nombramiento de las personas auditoras especiales;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1645,21 +1815,25 @@ La Legislatura del Estado evaluará el desempeño de la Auditoría Superior del 
 
 XXX.- Aprobar las leyes de ingresos municipal y estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Legislatura del Estado, al aprobar el Presupuesto de Egresos del Estado, no podrá dejar de señalar los tabuladores desglosados de las remuneraciones que perciban los servidores públicos estatales; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+La Legislatura del Estado, al aprobar el Presupuesto de Egresos del Estado, no podrá dejar de señalar los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas estatales; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 165 de esta Constitución y las disposiciones de las leyes que en la materia expida la Legislatura.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Sólo se podrán ampliar los plazos previstos en los artículos 91 y 118, para la presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
+Sólo se podrán ampliar los plazos previstos en los artículos 91 y 118, para la presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Poder Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso de la persona Titular de la Secretaría del Despacho correspondiente a informar de las razones que lo motiven.
 
-XXXI.- Crear y suprimer (sic) empleos públicos y fijar sus emolumentos.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXXII.- Facultar al Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre.
+XXXI.- Crear y suprimir empleos públicos y fijar sus emolumentos.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+XXXII.- Facultar a la persona Titular del Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre.
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
 
@@ -1669,23 +1843,25 @@ XXXIII.- Decretar las leyes de hacienda de los Municipios, así como revisar y f
 
 XXXIV.- Decretar la Ley de los Municipios del Estado de Quintana Roo.
 
-XXXV.- Crear o suprimir municipios y reformar la división política del Estado, mediante el voto de las dos terceras partes de la totalidad de los diputados y la mayoría de los ayuntamiento (sic) en los términos del artículo 132 de esta Constitución.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1998)</small>
+XXXV.- Crear o suprimir municipios y reformar la división política del Estado, mediante el voto de las dos terceras partes de la totalidad de las Diputadas y los Diputados, y la mayoría de los ayuntamientos en los términos del artículo 132 de esta Constitución.
 
-XXXVI.- Resolver los conflictos que surjan entre los Ayuntamientos entre sí y entre éstos y el Ejecutivo Estatal, salvo cuando tengan carácter contencioso.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+XXXVI.- Resolver los conflictos que surjan entre los Ayuntamientos entre sí y entre éstos y el Poder Ejecutivo Estatal, salvo cuando tengan carácter contencioso.
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
 XXXVII.- Aprobar los convenios amistosos que celebren los Municipios del Estado para arreglar entre sí, sus respectivos límites territoriales.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXXVIII.- Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de los Diputados siempre y cuando los miembros del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+XXXVIII.- Decidir sobre la desaparición de poderes municipales, solo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de las Diputadas y Diputados siempre y cuando las y los integrantes del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXXIX.- Designar por el voto de las dos terceras partes de los integrantes de la Legislatura, a los miembros de los Concejos Municipales, en los casos previstos por esta Constitución y por la Ley de los Municipios.
+XXXIX.- Designar por el voto de las dos terceras partes de las Diputadas y los Diputados integrantes de la Legislatura, a las personas integrantes de los Concejos Municipales, en los casos previstos por esta Constitución y por la Ley de los Municipios.
 
 XL.- Expedir la Ley de Expropiación por causa de utilidad pública.
 
@@ -1695,21 +1871,23 @@ XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, 
 
 XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XLIV.- Integrar la lista de personas candidatas a ocupar la titularidad de la Fiscalía General del Estado; designar, tomar la protesta y remover a este titular de conformidad con esta Constitución y la ley en la materia.
+XLIV.- Integrar la lista de personas candidatas a ocupar la titularidad de la Fiscalía General del Estado; designar, tomar la protesta y removerla de conformidad con esta Constitución y la ley en la materia.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
 XLIV BIS.- Designar a la persona titular de la Fiscalía Especializada en Combate a la Corrupción, tomarle su protesta y removerla en los términos que establezca esta constitución y la ley;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XLV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
+XLV.- Designar, mediante el procedimiento que la ley determine, a la persona Titular de la Presidencia y a las personas integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-XLVI.- Solicitar, a petición de la Comisión de los Derechos Humanos del Estado de Quintana Roo, la comparecencia de las autoridades o servidores públicos responsables cuando éstos se hayan negado a aceptar o cumplir una recomendación del mencionado Órgano de protección de los derechos humanos.
+XLVI.- Solicitar, a petición de la Comisión de los Derechos Humanos del Estado de Quintana Roo, la comparecencia de las autoridades o personas servidoras públicas responsables cuando éstas se hayan negado a aceptar o cumplir una recomendación del mencionado Órgano de protección de los derechos humanos.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 La solicitud de comparecencia a que se refiere el párrafo anterior deberá ingresar a la Legislatura por conducto de su Comisión Ordinaria de Derechos Humanos;
 
@@ -1731,9 +1909,9 @@ L.- Expedir la Ley Orgánica del Tribunal de Justicia Administrativa y Anticorru
 
 L BIS.- Expedir la legislación que regule los actos y procedimientos administrativos, los recursos administrativos y el juicio contencioso administrativo, de competencia estatal y municipal;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-LI.- Ratificar al Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;
+LI.- Ratificar a la persona Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;
 
 > <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -1761,13 +1939,17 @@ LV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas
 
 El día de clausura del periodo de sesiones ordinarias, el Pleno de la Legislatura a propuesta de la Junta de Gobierno y Coordinación Política, nombrará a la Comisión Permanente, la cual deberá instalarse inmediatamente y funcionar hasta en tanto dé inicio el siguiente periodo ordinario de sesiones.
 
-La Comisión Permanente estará integrada por siete diputados de la Legislatura. El primero de los nombrados ocupará el cargo de presidente, el segundo y el tercero serán secretarios de la mesa directiva que funcionará en los periodos de receso de la Legislatura.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La Comisión Permanente estará integrada por siete Diputadas y Diputados de la Legislatura. La primera persona nombrada ocupará la presidencia, la segunda y la tercera serán secretarias de la mesa directiva que funcionará en los periodos de receso de la Legislatura.
 
 La Comisión Permanente sesionará al menos una vez por semana, a fin de desahogar la correspondencia dirigida al Poder Legislativo, y turnar las iniciativas y acuerdos a las instancias correspondientes.
 
 Son facultades y obligaciones de la Comisión Permanente:
 
-I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extraordinarias;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+I.- Acordar por sí o a propuesta del Poder Ejecutivo, la convocatoria a sesiones extraordinarias;
 
 II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
 
@@ -1777,7 +1959,9 @@ III.- Conceder o negar solicitudes de licencia a las diputadas y los diputados; 
 
 IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
 
-V.- Nombrar Gobernador provisional en los casos previstos en esta Constitución y recibirle la protesta de Ley;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+V.- Nombrar a la persona Titular del Poder Ejecutivo provisional en los casos previstos en esta Constitución y recibirle la protesta de Ley;
 
 VI.- Convocar a periodo extraordinario para llevar a cabo las designaciones o nombramientos que confiera esta Constitución al Pleno de la Legislatura, y
 
@@ -1797,13 +1981,13 @@ La Auditoría Superior del Estado, tendrá autonomía técnica y de gestión en 
 
 La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El Titular de la Auditoría Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Los auditores especiales serán nombrados por el Titular de la Auditoría Superior del Estado, y ratificados por la Legislatura. Los auditores especiales auxiliarán al titular en sus funciones. El Titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Los auditores especiales, durarán en su encargo siete años, con la posibilidad de ser nombrados por un periodo adicional de tres años. El Titular de la Auditoría Superior del Estado podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por causas y conforme a los procedimientos previstos en el título octavo de esta Constitución. El Titular y los auditores especiales no podrán, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+La persona Titular de la Auditoria Superior del Estado será electa por el voto de las dos terceras partes de las personas integrantes presentes de la Legislatura del Estado. Las personas auditoras especiales serán nombradas por la persona Titular de la Auditoría Superior del Estado, y ratificados por la Legislatura. Las personas auditoras especiales auxiliarán al Titular en sus funciones. La persona Titular durará en su encargo siete años y podrá ser nombrada nuevamente por una sola vez. Las personas auditoras especiales, durarán en su encargo siete años, con la posibilidad de ser nombradas por un periodo adicional de tres años. La persona Titular de la Auditoría Superior del Estado podrá ser removida, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por causas y conforme a los procedimientos previstos en el título octavo de esta Constitución. La persona Titular y las personas auditoras especiales no podrán, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Para ser Titular de la Auditoría Superior del Estado, se requiere cumplir los requisitos establecidos en las fracciones I, IV y V del artículo 101 de esta Constitución y los que señale la Ley de la materia. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Para ser auditor especial, se deberán cubrir los mismos requisitos que para ser titular. La ley determinará el procedimiento para la designación y remoción del titular y los auditores especiales. La designación de la persona titular de la Auditoría Superior del Estado y los auditores especiales se realizarán en apego al principio de paridad de género. En la estructura orgánica de Auditoría Superior del Estado se promoverá este principio.
+Para ser Titular de la Auditoría Superior del Estado, se requiere cumplir los requisitos establecidos en las fracciones I, IV y V del artículo 101 de esta Constitución y los que señale la Ley de la materia. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Para ser persona auditora especial, se deberán cubrir los mismos requisitos que para ser titular. La ley determinará el procedimiento para la designación y remoción de la persona titular y las personas auditoras especiales. La designación de la persona titular de la Auditoría Superior del Estado y las personas auditoras especiales se realizarán en apego al principio de paridad de género. En la estructura orgánica de Auditoría Superior del Estado se promoverá este principio.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1823,11 +2007,15 @@ I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos
 
 También fiscalizará los recursos estatales y municipales que administre o ejerza el Estado y los municipios, en términos que establezcan las leyes. Y en términos que establezca la ley fiscalizará en coordinación con la Auditoría Superior de la Federación las participaciones federales.
 
-Asimismo, fiscalizará los recursos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+Asimismo, fiscalizará los recursos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de las personas usuarias del sistema financiero.
 
 Las entidades fiscalizadas a que se refieren los párrafos anteriores deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos estatales y municipales que les sean transferidos y asignados, de acuerdo con los criterios que establezcan las leyes.
 
-La Cuenta Pública del año anterior deberá ser enviada a la Legislatura, a través de la Auditoría Superior del Estado, a más tardar el 30 de abril. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud por escrito suficientemente justificada, a juicio de la Legislatura, para lo cual deberá comparecer el titular del ente fiscalizable respectivo, según se trate de cuenta pública estatal o municipal, a informar de las razones que motiven la solicitud. Tratándose de la Cuenta Pública de los Poderes Ejecutivo y Judicial, podrán comparecer los titulares de las Dependencias o quien se designe para tal efecto.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La Cuenta Pública del año anterior deberá ser enviada a la Legislatura, a través de la Auditoría Superior del Estado, a más tardar el 30 de abril. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud por escrito suficientemente justificada, a juicio de la Legislatura, para lo cual deberá comparecer la persona titular del ente fiscalizable respectivo, según se trate de cuenta pública estatal o municipal, a informar de las razones que motiven la solicitud. Tratándose de la Cuenta Pública de los Poderes Ejecutivo y Judicial, podrán comparecer las personas titulares de las Dependencias o quien se designe para tal efecto.
 
 En caso de ampliación del plazo de presentación de la cuenta pública del ejercicio fiscal correspondiente; la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación del Informe General Ejecutivo del resultado de la revisión y fiscalización superior de la cuenta pública.
 
@@ -1845,9 +2033,9 @@ II.- Entregar a la Legislatura del Estado, el último día hábil de los meses d
 
 Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoria Superior del Estado para la elaboración de los informes individuales de auditoría.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El Titular de la Auditoria Superior del Estado, enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo a la Legislatura del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa y Anticorrupción del Estado, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+La persona Titular de la Auditoria Superior del Estado, enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo a la Legislatura del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedoras a las sanciones establecidas en Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa y Anticorrupción del Estado, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
 La Auditoria Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
@@ -1867,9 +2055,9 @@ III.- Investigar los actos u omisiones que impliquen alguna irregularidad o cond
 
 IV.- Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y Anticorrupción del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado, para la imposición de las sanciones que correspondan a las personas servidoras públicas estatales y, en el caso de los párrafos segundo y tercero de la fracción I de este artículo, a las personas servidoras públicas estatales, municipales y a los particulares.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Los Poderes del Estado, los municipios y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoria Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales y municipales, deberán proporcionar la información y documentación que solicite la Auditoria Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
+Los Poderes del Estado, los municipios y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, las personas servidoras públicas estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales y municipales, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de las personas usuarias del sistema financiero. En caso de no proporcionar la información, las personas responsables serán sancionadas en los términos que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1883,49 +2071,61 @@ V.- Las demás facultades y atribuciones que le otorguen las leyes respectivas.
 
 #### SECCION SEPTIMA. DE LAS FACULTADES DE LA LEGISLATURA EN MATERIA DE DEUDA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
+ARTICULO 77 BIS.- El Estado y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que establezcan la legislatura en la ley correspondiente, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que las mismas aprueben. El Poder Ejecutivo y los ayuntamientos informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La Legislatura por el voto de las dos terceras partes de sus integrantes presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTICULO 77
-
-BIS. El Estado y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que establezcan la legislatura en la ley correspondiente, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que las mismas aprueben. El ejecutivo y los ayuntamientos informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
-
-La Legislatura por el voto de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
 
 Sin perjuicio de lo anterior, el Estado y los Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley de Disciplina Financiera de las Entidades Federativas y de los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 ### CAPITULO III. Del Poder Ejecutivo
 
-#### SECCION PRIMERA. Del Gobernador
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2025)</small>
+
+#### SECCION PRIMERA. De la Gobernadora o el Gobernador
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 78.
 
-El Poder Ejecutivo se ejerce por una sola persona denominado "Gobernador del Estado de Quintana Roo".
+El Poder Ejecutivo se ejerce por una sola persona denominada "Gobernadora o Gobernador del Estado de Quintana Roo".
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 79.
 
-La elección del Gobernador será universal, libre, secreta, directa, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos que señale la ley.
+La elección de la Gobernadora o el Gobernador será universal, libre, secreta, directa, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos que señale la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 80.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernadora o Gobernador del Estado requiere:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y nativo de la entidad o hijo de padre o madre nacido en la entidad o con residencia efectiva no menor de diez años inmediatamente anteriores al día de la elección;
+I.- Ser persona ciudadana mexicana por nacimiento y nativa de la entidad, hija o hijo de persona nacida en la entidad o con residencia efectiva no menor de diez años inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 II.- Tener treinta años cumplidos al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
 
-III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección.
+III.- No pertenecer al estado eclesiástico ni ser ministra o ministro de algún culto religioso.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-V.- No ser Secretario de Estado, Diputado o Senador, Ministro de la Suprema Corte de Justicia de la Nación, Fiscal General de la República, Fiscal Federal Especializado en Combate a la Corrupción, en funciones, a menos que se separe del cargo noventa días anteriores a la fecha de la elección;
+IV.- No ser militar en servicio activo o persona ciudadana con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+V.- No ser persona Titular de una Secretaría de Estado, Diputada, Diputado o Senadora, Senador, Ministra o Ministro de la Suprema Corte de Justicia de la Nación, Titular de la Fiscalía General de la República, Titular de la Fiscalía Federal Especializada en Combate a la Corrupción, en funciones, a menos que se separe del cargo noventa días anteriores a la fecha de la elección;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
@@ -1933,99 +2133,105 @@ VI.- No ser titular de una Secretaría o Subsecretaría del despacho, titular de
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VIII.- No ser Consejero Presidente, Consejero Electoral, Secretario Ejecutivo o Funcionario del Instituto Electoral de Quintana Roo, Secretario o Magistrado del Tribunal Electoral, a menos que se separe de su cargo tres años antes de la fecha de la elección.
+VIII.- No ser persona Consejera Presidenta, Consejera Electoral, Secretaria Ejecutiva o Funcionaria del Instituto Electoral de Quintana Roo, Secretaria o Magistrada del Tribunal Electoral, a menos que se separe de su cargo tres años antes de la fecha de elección.
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 IX.- No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate, y
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-X.- No ser Presidente Municipal o titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección.
+X.- No ser Presidenta o Presidente Municipal o persona titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 81.
 
-El Gobernador del Estado durará en su cargo 6 años, e iniciará el ejercicio de sus funciones el día 25 de septiembre del año que corresponda.
+La Gobernadora o el Gobernador del Estado durará en su cargo 6 años, e iniciará el ejercicio de sus funciones el día 25 de septiembre del año que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 82.
 
-Al tomar posesión de su cargo el Gobernador del Estado deberá rendir protesta ante la Legislatura o la Comisión Permanente, en su caso, en los términos siguientes:
+Al tomar posesión de su cargo la Gobernadora o el Gobernador del Estado deberá rendir protesta ante la Legislatura o la Comisión Permanente, en su caso, en los términos siguientes:
 
-"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Quintana Roo y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Quintana Roo. Si así no lo hiciere que el pueblo me lo demande".
+"Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Quintana Roo y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernadora o Gobernador (según corresponda) del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Quintana Roo. Si así no lo hiciere que el pueblo me lo demande".
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 83.
 
-En caso de falta absoluta de Gobernador del Estado ocurrido en los dos primeros años del período respectivo, si la Legislatura estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y designará, por votación secreta y calificada de las dos terceras partes del número total de sus miembros, unGobernador (sic) interino, expidiendo la propia Legislatura, dentro de los 10 días siguientes a la designación, la convocatoria para la elección del Gobernador que habráde (sic) concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de 6 meses ni mayor de 12.
+En caso de falta absoluta de la Gobernadora o el Gobernador del Estado ocurrida en los dos primeros años del período respectivo, si la Legislatura estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y designará, por votación secreta y calificada de las dos terceras partes del número total de sus integrantes, una Gobernadora interina o Gobernador interino, expidiendo la propia Legislatura, dentro de los 10 días siguientes a la designación, la convocatoria para la elección de la Gobernadora o el Gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de 6 meses ni mayor de 12.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+Si la Legislatura no estuviere en sesiones, la Comisión Permanente nombrará desde luego una persona Gobernadora provisional y, simultáneamente, convocará a sesiones extraordinarias a la Legislatura para que ésta a su vez designe a la Gobernadora interina o el Gobernador interino y expida la convocatoria a elecciones para la Gobernatura en los términos del párrafo anterior.
 
-Si la Legislatura no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador provisional y, simultáneamente, convocará a sesiones extraordinarias a la Legislatura para que ésta a su vez designe al Gobernador interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
+Cuando la falta absoluta de Gobernadora o Gobernador ocurriese en los cuatro últimos años del período respectivo, si la Legislatura se encontrase en sesiones, designará a la Gobernadora sustituta o al Gobernador sustituto que habrá de concluir el período.
 
-Cuando la falta absoluta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si la Legislatura se encontrase en sesiones, designará al Gobernador sustituto que habráde (sic) concluir el período.
+Si la Legislatura no estuviese reunida, la Comisión Permanente nombrará a una Gobernadora o Gobernador provisional y, simultáneamente, convocará a la Legislatura a sesiones extraordinarias para que erigida en Colegio Electoral haga la elección de la Gobernadora sustituta o el Gobernador sustituto.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
-
-Si la Legislatura no estuviese reunida, la Comisión Permanente nombrará un Gobernador provisional y, simultáneamente, convocará a la Legislatura a sesiones extraordinarias para que erigida en Colegio Electoral haga la elección del Gobernador sustituto.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 84.
 
-Si al inicio de un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe la Legislatura, o en su falta, con el carácter de provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
+Si al inicio de un período constitucional no se presentase la Gobernadora electa o el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo la Gobernadora o el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de interina, la persona que designe la Legislatura, o en su falta, con el carácter de provisional, la que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 85.
 
-En las ausencias o faltas temporales del Gobernador del Estado se observarán las siguientes disposiciones:
+En las ausencias o faltas temporales de la Gobernadora o el Gobernador del Estado se observarán las siguientes disposiciones:
 
-I.- Las ausencias hasta por 30 días, serán suplidas por el Secretario de Gobierno.
+I.- Las ausencias hasta por 30 días, serán suplidas por la persona Titular de la Secretaría de Gobierno.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+II.- Si la ausencia excede de 30 días y no pasa de 90, la Gobernadora o el Gobernador dará aviso a la Legislatura o a la Comisión Permanente, en su caso, quedando encargada del Despacho la persona Titular de la Secretaría de Gobierno, y
 
-II.- Si la ausencia excede de 30 días y no pasa de 90, el Gobernador dará aviso a la Legislatura o a la Comisión Permanente, en su caso, quedando encargado del Despacho el Secretario de Gobierno, y
+III.- Si la falta temporal excede de 90 días la Legislatura o la Comisión Permanente, en su caso, designará a una Gobernadora o Gobernador interino o provisional, para que le supla durante el tiempo de su ausencia.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
-
-III.- Si la falta temporal excede de 90 días la Legislatura o la Comisión Permanente, en su caso, designará a un Gobernador interino o provisional, para que le supla durante el tiempo de su ausencia.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 86.
 
-Para ser Gobernador sustituto, interino o provisional se requieren los mismos requisitos señalados en el artículo 80.
+Para ser persona Gobernadora sustituta, interina o provisional se requieren los mismos requisitos señalados en el artículo 80.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 87.
 
-El ciudadano designado para suplir las faltas absolutas o temporales del Gobernador, rendirá la protesta constitucional ante la Legislatura o la Comisión Permanente, en su caso.
+La persona ciudadana designada para suplir las faltas absolutas o temporales de la Gobernadora o el Gobernador, rendirá la protesta constitucional ante la Legislatura o la Comisión Permanente, en su caso.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 88.
 
-El cargo de Gobernador del Estado solamente es renunciable por causa grave calificada por la Legislatura, ante la que se presentará la renuncia.
+El cargo de Gobernadora o Gobernador del Estado solamente es renunciable por causa grave calificada por la Legislatura, ante la que se presentará la renuncia.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 89.
 
-El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
+La Gobernadora o el Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
 
-Nunca podrá ser electo para el período inmediato:
+Nunca podrá ser electa para el período inmediato:
 
-I.- El Gobernador sustituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tengan distinta denominación, y
+I.- La persona Gobernadora que como sustituta constitucional, o la designada para concluir el período en caso de falta absoluta de la constitucional, aun cuando tengan distinta denominación, y
 
-II.- El Gobernador interino, el provisional o el ciudadano que bajo, cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+II.- La persona Gobernadora interina, provisional o la ciudadana, que bajo, cualquiera denominación, supla las faltas temporales de la Gobernadora o el Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-#### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+#### SECCION SEGUNDA. De las Facultades y Obligaciones de la Gobernadora o el Gobernador
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 90.
 
-Son facultades del Gobernador:
+Son facultades de la Gobernadora o el Gobernador:
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-I.- Nombrar y remover libremente a los Secretarios de Despacho de la Administración Pública Estatal y a los demás empleados y servidores públicos del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las leyes del Estado.
+I.- Nombrar y remover libremente a las personas Titulares de las Secretarías de Despacho de la Administración Pública y a las demás personas empleadas y servidoras públicas del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las Leyes del Estado.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
 
@@ -2041,7 +2247,9 @@ IV.- (DEROGADA, P.O. 9 DE JULIO DE 1998)
 
 V.- (DEROGADA, P.O. 9 DE JULIO DE 1998)
 
-VI.- Conceder indulto a reos sentenciados por delitos del orden común.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+VI.- Conceder indulto a reas y reos sentenciados por delitos del orden común.
 
 VII.- Conceder amnistías, siempre que se trate de delitos de la competencia de los Tribunales del Estado.
 
@@ -2067,9 +2275,9 @@ XV.- Ejercer el Presupuesto de Egresos.
 
 XVI.- Contratar empréstito (sic) y garantizar obligaciones con aprobación de la Legislatura, y
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XVII.- Formular y remitir a la Legislatura del Estado, la terna de candidatos a Fiscal General del Estado con base en la lista que para tal efecto reciba de aquélla. Así como instar el procedimiento de remoción del Fiscal General del Estado, por las causas graves que establezca la Ley para tal efecto;
+XVII.- Formular y remitir a la Legislatura del Estado, la terna de personas candidatas a la Titularidad de la Fiscalía General del Estado con base en la lista que para tal efecto reciba de aquélla. Así como instar el procedimiento de remoción de la persona Titular de la Fiscalía General del Estado, por las causas graves que establezca la Ley para tal efecto;
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
 
@@ -2079,7 +2287,9 @@ XVIII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigaci
 
 XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
 
-El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de las Diputadas y Diputados presentes integrantes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición.
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2025)</small>
 
@@ -2093,9 +2303,11 @@ XXI.- Designar a una persona integrante del Órgano de Administración Judicial,
 
 XXII.- Las demás que le confiera esta Constitución y sus Leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 91.
 
-Son obligaciones del Gobernador:
+Son obligaciones de la Gobernadora o del Gobernador:
 
 I.- Publicar, cumplir y hacer cumplir las leyes federales.
 
@@ -2121,9 +2333,9 @@ X.- Fomentar la creación de industrias y empresas rurales, y promover la armón
 
 XI.- Planificar el crecimiento de los centros urbanos dotándolos de los servicios necesarios a fin de propiciar el espíritu de solidaridad en la convivencia social y el desarrollo pleno y armónico de la población.
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XII.- Mejorar las condiciones Económicas y sociales de vida de los campesinos fomentando en ellos el arraigo en sus lugares de origen, y
+XII.- Mejorar las condiciones Económicas y sociales de vida de las personas campesinas fomentando en ellas el arraigo en sus lugares de origen, y
 
 XIII.- Las demás que señalen esta Constitución y sus leyes.
 
@@ -2131,69 +2343,79 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION TERCERA. De la Administración del Ejecutivo
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 92.
 
-Para el despacho de los negocios del orden administrativo, habrá el número de Secretarios que se determina en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y los demás servidores públicos que determine la propia Ley, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que establezcan las leyes.
+Para el despacho de los negocios del orden administrativo, habrá el número de titulares de las secretarías que se determina en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y las demás personas servidoras públicas que se determinen en la propia Ley, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que establezcan las leyes.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La función conciliatoria en materia laboral a que se refiere el tercer párrafo del artículo 97 de esta Constitución, estará a cargo del Centro de Conciliación Laboral del Estado, el cual tendrá personalidad jurídica y patrimonio propios, será especializado e imparcial, contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. El Centro de Conciliación Laboral del Estado se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley correspondiente. La designación y remoción del Titular del Centro de Conciliación Laboral del Estado, serán realizadas libremente por el Titular del Poder Ejecutivo.
+La función conciliatoria en materia laboral a que se refiere el tercer párrafo del artículo 97 de esta Constitución, estará a cargo del Centro de Conciliación Laboral del Estado, el cual tendrá personalidad jurídica y patrimonio propios, será especializado e imparcial, contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. El Centro de Conciliación Laboral del Estado se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley correspondiente. La designación y remoción de la persona Titular del Centro de Conciliación Laboral del Estado, serán realizadas libremente por la persona Titular del Poder Ejecutivo
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
 
 El Centro de Conciliación Laboral del Estado tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y protección de datos personales a cargo de los Sindicatos Estatales y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones que estos emitan, en los términos que establezca la Ley.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La función de Consejero Jurídico del Poder Ejecutivo estará a cargo de la Dependencia del Ejecutivo Estatal que, para tal efecto, establezca la ley.
+La función de la Consejería Jurídica del Poder Ejecutivo estará a cargo de la Dependencia del Ejecutivo Estatal que, para tal efecto, establezca la ley.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 93.
 
-Todos los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán estar firmados por el Secretario al que el asunto corresponda, y sin este requisito no serán obedecidos.
+Todos los reglamentos, decretos y acuerdos expedidos por la Gobernadora o el Gobernador del Estado deberán estar firmados por la persona Titular de la Secretaría al que el asunto corresponda, y sin este requisito no serán obedecidos.
 
-Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del titular de la Secretaría de Gobierno.
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo de la persona Titular de la Secretaría de Gobierno.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 94.
 
-La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los Ayuntamientos que violen estos derechos.
+La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o persona servidora pública, del Estado o de los Ayuntamientos que violen estos derechos.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El Organismo que establezca la Legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. El proyecto de presupuesto de egresos de la Comisión deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El Organismo que establezca la Legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. El proyecto de presupuesto de egresos de la Comisión deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por un Presidente y seis Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
+La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por una persona Presidenta y seis personas Consejeras, que serán elegidos (sic) por el voto de las dos terceras partes de las personas integrantes presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
 
-El Presidente de la Comisión de los Derechos Humanos del Estado de Quintana Roo, quien lo será también del Consejo Consultivo, será designado en los mismos términos del párrafo anterior. Durará en su encargo cuatro años y sólo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La elección del Presidente de la Comisión de los Derechos Humanos del Estado, así como de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley de la Comisión de los Derechos Humanos del Estado de Quintana Roo.
+La persona Presidenta de la Comisión de los Derechos Humanos del Estado de Quintana Roo, quien lo será también del Consejo Consultivo, será designada en los mismos términos del párrafo anterior. Durará en su encargo cuatro años y sólo podrá ser removida de sus funciones en los términos del Título Octavo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La elección de la persona Presidenta de la Comisión de los Derechos Humanos del Estado, así como de las personas integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley de la Comisión de los Derechos Humanos del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
 
 La persona Titular del citado órgano presentará anualmente ante el Pleno de la Legislatura, un informe de labores y resultados, en términos del artículo 51 BIS de esta Constitución y la ley aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+
 La Comisión de los Derechos Humanos del Estado de Quintana Roo, formulará recomendaciones públicas autónomas no vinculatorias y denuncias y quejas ante las autoridades respectivas, y no será competente tratándose de asuntos electorales o jurisdiccionales.
 
-Todo servidor público estará obligado a responder las recomendaciones presentadas por este Organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Comisión de los Derechos Humanos del Estado de Quintana Roo, dará vista a la Legislatura del Estado por conducto de su Comisión Ordinaria de Derechos Humanos, cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos involucrados. La Legislatura, a su juicio, podrá citarles a comparecer con el objeto de que expliquen las razones de su conducta o justifiquen su omisión.
+Toda persona servidora pública estará obligada a responder las recomendaciones presentadas por este Organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o personas servidoras públicas, éstos deberán fundar, motivar y hacer pública su negativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La Comisión de los Derechos Humanos del Estado de Quintana Roo, dará vista a la Legislatura del Estado por conducto de su Comisión Ordinaria de Derechos Humanos, cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o las personas servidoras públicas involucradas. La Legislatura, a su juicio, podrá citarles a comparecer con el objeto de que expliquen las razones de su conducta o justifiquen su omisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 95.
 
-Para ser Secretario del Despacho y Director de organismos Descentralizados y Empresas de Participación Estatal se requiere:
+Para ser titular de una Secretaría del Despacho y titular de una Dirección de Organismos Descentralizados y Empresas de Participación Estatal se requiere:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-I.- Ser Ciudadano quintanarroense y nativo de la Entidad o con residencia no menor de cinco años.
+I.- Ser persona ciudadana quintanarroense, y nativa de la Entidad o con residencia efectiva no menor de cinco años.
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
@@ -2203,9 +2425,9 @@ II.- Estar en pleno ejercicio de sus derechos políticos, y
 
 III.- Tener modo honesto de vivir.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Tratándose de lo dispuesto en la fracción I del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
+Tratándose de lo dispuesto en la fracción I del presente artículo, podrá ser dispensable únicamente para el cargo de Titular de la Secretaría de Seguridad Ciudadana.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2221,15 +2443,17 @@ El Ministerio Público estará a cargo de una Fiscalía General del Estado y de 
 
 La Fiscalía General del Estado es un órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Fiscalía Especializada en Combate a la Corrupción del Estado es un órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna que tendrá por objeto la investigación y persecución de los delitos que sean considerados actos de corrupción cometidos por servidores públicos en el desempeño de un empleo, cargo o comisión o cometidos por particulares.
+La Fiscalía Especializada en Combate a la Corrupción del Estado es un órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna que tendrá por objeto la investigación y persecución de los delitos que sean considerados actos de corrupción cometidos por personas servidoras públicas en el desempeño de un empleo, cargo o comisión o cometidos por particulares.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
 Para ser titular de la Fiscalía General del Estado y de la Fiscalía Especializada en Combate a la Corrupción del Estado, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+I.- Tener ciudadanía mexicana por nacimiento;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
@@ -2239,9 +2463,9 @@ II.- Contar con una residencia en el país no menor de cinco años anteriores a 
 
 III.- Tener cuando menos treinta años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-IV.- Ser licenciado en derecho con título y cédula debidamente registrados;
+IV.- Tener la licenciatura en derecho con título y cédula debidamente registrados;
 
 V.- Estar en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -2249,9 +2473,9 @@ V.- Estar en pleno ejercicio de sus derechos políticos y civiles;
 
 VI.- Tener modo honesto de vivir;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VII.- No haber sido condenado por delito doloso;
+VII.- No haber sido condenada por delito doloso;
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2269,37 +2493,35 @@ Las personas titulares de la Fiscalía General del Estado y de la Fiscalía Espe
 
 A. La persona titular de la Fiscalía General del Estado será designada y removida conforme a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-a) A partir de la ausencia definitiva del Fiscal General del Estado, la Legislatura del Estado contará con veinte días naturales para integrar una lista de candidatos al cargo, aprobada por las dos terceras partes de los miembros integrantes de la Legislatura, la cual se enviará al Ejecutivo Estatal.
+a) A partir de la ausencia definitiva de la persona Titular de la Fiscalía General del Estado, la Legislatura del Estado contará con veinte días naturales para integrar una lista de personas candidatas al cargo, aprobada por las dos terceras partes de las personas integrantes de la Legislatura, la cual se enviará al Poder Ejecutivo Estatal.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Si el Ejecutivo no recibe la lista en el plazo señalado en el primer párrafo del presente inciso, enviará libremente a la Legislatura del Estado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+Si la persona titular del Poder Ejecutivo no recibe la lista en el plazo señalado en el primer párrafo del presente inciso, enviará libremente a la Legislatura del Estado una terna y designará provisionalmente a la persona Titular de la Fiscalía General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, la persona Fiscal General designada podrá formar parte de la terna.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En el caso de ausencia definitiva del Fiscal General, el Gobernador del Estado designará a un Fiscal Interino, en tanto se realiza la designación definitiva del Fiscal General en los términos establecidos en este artículo.
+En el caso de ausencia definitiva de la persona Titular de la Fiscalía General, la Gobernadora o el Gobernador del Estado designará a una persona Fiscal Interina, en tanto se realiza la designación definitiva de la persona Titular de la Fiscalía General en los términos establecidos en este artículo.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-b) Recibida la lista a que se refiere el inciso anterior, dentro de los diez días naturales siguientes el Ejecutivo formulará la terna y la enviará a la consideración de la Legislatura del Estado.
+b) Recibida la lista a que se refiere el inciso anterior, dentro de los diez días naturales siguientes la persona titular del Ejecutivo formulará la terna y la enviará a la consideración de la Legislatura del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-c) La Legislatura del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de los miembros integrantes de la Legislatura, dentro del plazo de diez días naturales.
+c) La Legislatura del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de las personas integrantes de la Legislatura, dentro del plazo de diez días naturales.
 
-En caso de que el Ejecutivo no envíe la terna a que se refiere el párrafo anterior, la Legislatura del Estado tendrá diez días naturales para designar al Fiscal General de entre los candidatos de la lista que señala el inciso a) del presente apartado.
+En el caso de que la persona titular del Poder Ejecutivo no envíe la terna a que se refiere el párrafo anterior, la Legislatura del Estado tendrá diez días naturales para designar al Fiscal General de entre las personas candidatas de la lista que señala el inciso a) del presente apartado.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+Si la Legislatura del Estado no hace la designación en los plazos que establecen los párrafos anteriores, la persona Titular del Poder Ejecutivo designará Fiscal General de entre las personas candidatas que integren la lista o, en su caso, la terna respectiva.
 
-Si la Legislatura del Estado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
-
-d) El Fiscal General podrá ser removido por el Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
+d) La persona titular de la Fiscalía General podrá ser removida por la persona titular del Poder Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de las personas integrantes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso la persona Titular de la Fiscalía General será restituida en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -2321,17 +2543,21 @@ Si de la verificación realizada, se advierte que alguna persona integrante de l
 
 c) Cumplido lo dispuesto en la fracción anterior, la Comisión instruirá la comparecencia pública de las personas que integran la terna, y se emitirá el Dictamen correspondiente que será sometido a la consideración de la Legislatura del Estado;
 
-d) Dentro de los diez días hábiles siguientes a la emisión del dictamen, la Legislatura del Estado, designará a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado con el voto de las dos terceras partes de los miembros integrantes de la Legislatura.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+d) Dentro de los diez días hábiles siguientes a la emisión del dictamen, la Legislatura del Estado, designará a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado con el voto de las dos terceras partes de las personas integrantes de la Legislatura.
 
 e) Si la Legislatura del Estado no realiza la designación en el plazo establecido en el presente artículo, la persona titular del Poder Ejecutivo del Estado designará a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de entre las personas candidatas que integren la terna respectiva.
 
-f) La persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado podrá ser removida por el Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso la persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado será restituida en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
+
+f) La persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado podrá ser removida por la persona Titular del Poder Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de las personas integrantes presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso la persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado será restituida en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
 Asimismo, en el procedimiento de designación se observará el principio de paridad de género. En la estructura orgánica se promoverá este principio.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-B.- Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden común; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+B. Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden común; y, por lo mismo, solicitará las medidas cautelares contra las personas imputadas; buscará y presentará las pruebas que acrediten la participación de éstas en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2349,7 +2575,9 @@ Las personas titulares de la Fiscalía General del Estado y de la Fiscalía Espe
 
 C. La Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado administrarán con autonomía su presupuesto; sus titulares elaborarán sus anteproyectos de presupuesto de egresos.
 
-En todo caso, los proyectos de presupuesto de egresos de la Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado deberán incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. La persona titular de la Fiscalía General del Estado y la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado remitirán sus proyectos a la Legislatura del Estado para su discusión y en su caso, aprobación y posterior inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+En todo caso, los proyectos de presupuesto de egresos de la Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado deberán incluir los tabuladores desglosados de las remuneraciones que perciban sus personas servidoras públicas, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. La persona titular de la Fiscalía General del Estado y la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado remitirán sus proyectos a la Legislatura del Estado para su discusión y en su caso, aprobación y posterior inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
 Dichos presupuestos deberán prever la suficiencia presupuestal para permitir el ejercicio eficaz y oportuno de la Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado.
 
@@ -2679,13 +2907,13 @@ II. De las acciones de inconstitucionalidad que tengan por objeto plantear la po
 
 a) Cuando menos la tercera parte de los miembros del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-b) El Gobernador del Estado, por conducto del Consejero Jurídico del Poder Ejecutivo, en contra de normas de carácter estatal;
+b) La Gobernadora o el Gobernador del Estado, por conducto de la persona consejera jurídica del Poder Ejecutivo, en contra de normas de carácter estatal;
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-c) El Fiscal General del Estado, respecto de leyes en materia penal, así como, las relacionadas en el ámbito de sus funciones, y
+c) La persona titular de la Fiscalía General del Estado, respecto de leyes en materia penal, así como, las relacionadas en el ámbito de sus funciones, y
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
@@ -2703,7 +2931,9 @@ Las resoluciones de la Sala Constitucional solo podrán declarar la invalidez de
 
 III. De las acciones por omisión legislativa, cuando se considere que la Legislatura del Estado no ha resuelto sobre la expedición de alguna Ley o Decreto, y que dicha omisión afecte el debido cumplimiento de esta Constitución, siempre y cuando sean interpuestas por:
 
-a) El Gobernador del Estado, o
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+a) La Gobernadora o el Gobernador del Estado, o
 
 b) Un Ayuntamiento del Estado.
 
@@ -2845,15 +3075,21 @@ El Tribunal funcionará en Pleno o en Salas y contará por lo menos, con tres Sa
 
 Para ser titular de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción del Estado, se requiere:
 
-I.- Ser ciudadano mexicano, en ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+I.- Tener la ciudadanía mexicana, en ejercicio de sus derechos políticos y civiles;
 
 II.- Tener treinta años de edad cumplidos al día de su designación;
 
-III.- Poseer título y cédula profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+III.- Poseer título y cédula profesional de persona licenciada en Derecho, expedido por la autoridad o institución legalmente facultada para ello;
 
 IV.- Contar con experiencia en cualquiera de las siguientes materias: fiscal, administrativa, fiscalización, ambiental, responsabilidades administrativas, combate a la corrupción o rendición de cuentas;
 
-V.- Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión. Si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+V.- Gozar de buena reputación, y no haber sido condenada o condenado por delito que amerite pena corporal de más de un año de prisión. Si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, se le inhabilitará para el cargo, cualquier (sic) que haya sido la pena;
 
 VI.- No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijurídicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
@@ -2861,7 +3097,9 @@ VII.- No ser persona declarada deudora alimentaria morosa;
 
 VIII.- Haber residido en el Estado durante los cinco años anteriores al día de la designación;
 
-IX.- No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+IX.- No pertenecer al estado eclesiástico ni ser ministra o ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
 
 X.- No haber sido Gobernador o Gobernadora, titular de alguna Secretaría de Despacho, titular de la Fiscalía General del Estado o de la Fiscalía Especializada en Combate a la Corrupción, Senador o Senadora, Diputado o Diputada Federal o Local, ni Presidente o Presidenta Municipal, durante el año previo al día de su designación.
 
@@ -2869,11 +3107,15 @@ Los nombramientos de las personas titulares de las Magistraturas se realizarán 
 
 El Tribunal de Justicia Administrativa y Anticorrupción, contará con un órgano de administración y disciplina jurisdiccional conforme se prevea en su ley orgánica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
+ARTICULO 110 BIS.- Las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción serán designadas por la Legislatura del Estado, con el voto de las dos terceras partes de sus integrantes presentes y durarán en su encargo doce años sin posibilidad de reelección.
+
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
-Artículo 110 BIS.- Las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción serán designadas por la Legislatura del Estado, con el voto de las dos terceras partes de sus miembros presentes y durarán en su encargo doce años sin posibilidad de reelección.
-
 Las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción del Estado rendirán protesta ante la Legislatura del Estado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
 El procedimiento para la designación de las personas titulares de las magistraturas se deberá sujetar al principio de máxima publicidad y se llevará a cabo de conformidad con las siguientes disposiciones generales, así como las demás previsiones que se establezcan en la Ley Orgánica del Tribunal:
 
@@ -2883,13 +3125,21 @@ II. Una vez recibida la terna de las personas que integran la propuesta, la Legi
 
 III. Una vez llevado a cabo lo dispuesto en la fracción anterior, se enviará al pleno de la Legislatura del Estado, el dictamen de idoneidad y se designará a quien desempeñará el cargo de titular de la Magistratura del Tribunal de Justicia Administrativa y Anticorrupción.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
 Las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción del Estado sólo podrán ser removidas de sus cargos por la Legislatura del Estado, por las causas graves que señale la Constitución Federal, esta Constitución y la ley.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
 Las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción no podrán tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
 La retribución que perciban las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción del Estado, será la equivalente a la de una magistratura del Tribunal Superior de Justicia del Estado.
 
-El proyecto de presupuesto de egresos del Tribunal deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda y deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+El proyecto de presupuesto de egresos del Tribunal deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda y deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus personas servidoras públicas, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2897,39 +3147,55 @@ El proyecto de presupuesto de egresos del Tribunal deberá prever la suficiencia
 
 El Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, tendrá a su cargo:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-I. Dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares, derivados de:
+I. Dirimir las controversias que se susciten entre la administración pública estatal y municipal y particulares, derivados de:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
 a) Los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los Ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
+
 b) Los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los Municipios, cuando actúen con el carácter de autoridades;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
 c) Los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los Ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
 
-d) Los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-e) Los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por el o los demandantes, a menos que las leyes fiscales fijen otros plazos;
+d) Los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+e) Los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por las personas demandantes, a menos que las leyes fiscales fijen otros plazos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
 f) Los juicios en que se demande la resolución de afirmativa ficta, cuando lo establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
+
 g) Los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
 
 h) Los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-II. Imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves;
+II. Imponer, en los términos que disponga la Ley, las sanciones a las personas servidoras públicas estatales y municipales por responsabilidad administrativa grave, y a particulares que incurran en actos vinculados con faltas administrativas graves;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-III. Fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales;
+III. Fincar a las personas responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes que se deriven de las sentencias del Tribunal de Justicia Administrativa y Anticorrupción del Estado, y
+IV. Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes que se deriven de las sentencias del Tribunal de Justicia Administrativa y Anticorrupción del Estado, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2017)</small>
 
 V. Las demás atribuciones que expresamente se señalen en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, su ley orgánica y demás disposiciones aplicables.
 
@@ -2973,21 +3239,21 @@ I.- Los ingresos determinados en su Ley de Ingresos, y demás noormas (sic) apli
 
 II.- Los ingresos adquiridos por concepto de subsidios, participaciones, legados, donaciones o cualesquiera otras causas.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 116.
 
-La administración de la hacienda pública estará a cargo del Ejecutivo por conducto del Secretario del ramo respectivo, quien será responsable de su manejo.
+La administración de la hacienda pública estará a cargo del Poder Ejecutivo por conducto de la persona secretaria del ramo respectivo quien será responsable de su manejo.
 
 ###### ARTICULO 117.
 
 La ley determinará la organización y funcionamiento de las oficinas de hacienda en el Estado.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 118.
 
-Anualmente, a más tardar el 20 de noviembre, el Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos estatales, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+Anualmente, a más tardar el 20 de noviembre, el Poder Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas estatales, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 ###### ARTICULO 119.
 
@@ -3007,21 +3273,23 @@ No podrá hacerse pago alguno que no esté comprendido en el Presupuesto de Egre
 
 Las cuentas de los caudales públicos deberán glosarse sin excepción por la Auditoría Superior del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
 ###### ARTICULO 123.
 
-Todo empleado de hacienda que deba tener a su cargo manejo de fondos del Estado, otorgará previamente ante el Ejecutivo fianza suficiente para garantizar su manejo en los términos señalados por la ley.
+Todas las personas empleadas de hacienda que deban tener a su cargo manejo de fondos del Estado, otorgarán previamente ante el Poder Ejecutivo fianza suficiente para garantizar su manejo en los términos señalados por la ley.
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 124.
 
-El Ejecutivo cuidará que la Legislatura conozca de la fianza con la cual los empleados de hacienda caucionen su manejo.
+El Poder Ejecutivo cuidará que la Legislatura conozca de la fianza con la cual las personas empleadas de hacienda caucionen su manejo.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 125.
 
-El Secretario encargado de la hacienda pública del Estado remitirá anualmente al Ejecutivo, en la segunda quincena del mes de enero, un informe pormenorizado sobre el estado de la hacienda pública del ejercicio fiscal anterior.
+La persona Secretaria encargada de la hacienda pública del Estado remitirá anualmente al Poder Ejecutivo, en la segunda quincena del mes de enero, un informe pormenorizado sobre el estado de la hacienda pública del ejercicio fiscal anterior.
 
 ## TITULO SEPTIMO. De los Municipios
 
@@ -3037,11 +3305,11 @@ El Municipio Libre es la base de la división territorial y de la organización 
 
 La Autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí mismo los asuntos propios de su comunidad, en el ámbito de competencia que le señala la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que conforme a ellas se expidan.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 127.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum, Bacalar y Puerto Morelos.
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Playa del Carmen, Tulum, Bacalar y Puerto Morelos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2011)</small>
 
@@ -3265,9 +3533,9 @@ III.- MUNICIPIO DE JOSÉ MARÍA MORELOS, con cabecera en la población del mismo
 
 IV.- MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Comprende la Isla de Cozumel, islotes y cayos adyacentes. Quedan dentro de su jurisdicción las superficies de la zona continental siguientes: Polígono con un área de 1,119.42 hectáreas, con las siguientes medidas, rumbos y colindancias: partiendo del vértice número 7 ubicado al sureste del polígono con rumbo suroeste 22 grados 42 minutos y una distancia de 140 metros, se llega al vértice número 8, de este vértice con rumbo suroeste 38 grados 47 minutos y una distancia de 137 metros, se llega al vértice número 9, de este vértice con rumbo suroeste 37 grados 31 minutos y una distancia de 141 metros, se llega al vértice número 10, de este vértice con rumbo suroeste 42 grados 01 minutos y una distancia de 191 metros, se llega al vértice número 11, de este vértice con rumbo suroeste 24 grados 31 minutos y una distancia de 188 metros, se llega al vértice número 12, de este vértice con rumbo suroeste 56 grados 16 minutos y una distancia de 132 metros, se llega al vértice número 13, de este vértice con rumbo suroeste 41 grados 59 minutos y una distancia de 121 metros, se llega al vértice número 14, de este vértice con un rumbo suroeste 19 grados 41 minutos y una distancia de 101 metros, se llega al vértice número 15, colindando del vértice número 7 al vértice número 15 con el Mar Caribe; del vértice número 15 con rumbo noroeste 41 grados 16 minutos y una distancia de 1,916 metros, se llega al vértice número 16, colindando el vértice número 15 al vértice número 16 con el Rancho Punta Venado e Instituto Nacional de Antropología e Historia; del vértice número 16 con rumbo noroeste 41 grados 16 minutos y una distancia de 40 metros, se llega al vértice número 17, colindando el vértice número 16 y el 17 con la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 17 con rumbo suroeste 51 grados 11 minutos y una distancia de 2,119 metros, se llega al vértice número 18, colindando el vértice número 17 y el 18 con el derecho de vía de la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 18 con rumbo noroeste 64 grados 38 minutos y una distancia de 4,020 metros, se llega al vértice número 19, colindando el vértice número 18 y el 19 con el Rancho La Adelita; del vértice número 19 con rumbo noreste 44 grados 14 minutos y una distancia de 1, 971 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 74 grados 33 minutos y una distancia de 3,720 metros se llega al vértice número 21, colindando el vértice número 19 al vértice número 21 con terrenos nacionales; del vértice número 21 con rumbo noreste 88 grados 15 minutos y una distancia de 230 metros, se llega al vértice número 22, del vértice número 22 con rumbo sureste 46 grados 26 minutos y una distancia de 84 metros, se llega al vértice número 23, del vértice número 23, con rumbo noreste 77 grados 32 minutos y una distancia de 88 metros, se llega al vértice número 24, del vértice número 24 con rumbo sureste 80 grados 16 minutos y una distancia de 249 metros, se llega al vértice número 25, del vértice número 25 con rumbo sureste 53 grados 20 minutos y una distancia de 390 metros, se llega al vértice número 1, colindando del vértice número 21 al vértice número 1 con el Rancho Los Corchales. Del vértice número 1 con rumbo sureste 39 grados 48 minutos y una distancia de 40 metros, se llega al vértice número 2, colindando del vértice número 1 al vértice número 2 con carretera federal número 307 Reforma Agraria-Puerto Juárez. Del vértice número 2 con rumbo sureste 39 grados 48 minutos y una distancia de 117 metros, se llega al vértice número 3, colindando del vértice número 2 al vértice número 3 con el Rancho Los Corchales; del vértice número 3 con rumbo sureste 50 grados 10 minutos y una distancia de 1,328 metros, se llega al vértice número 4, del vértice número 4 con rumbo noreste 48 grados 48 minutos y una distancia de 276 metros, se llega al vértice número 5, del vértice número 5 con rumbo sureste 53 grados 56 minutos y una distancia de 228 metros, se llega al vértice número 6, del vértice número 6 con rumbo sureste 37 grados 52 minutos y una distancia de 91 metros, se llega al vértice número 7, que es el punto de partida para cerrar el polígono, colindando del vértice número 3 al vértice número 7 con el Rancho X-Caret III. Polígono con un área de 90 hectáreas que comprende el Parque Ecológico de Xel-Há, con las medidas, rumbos y colindancias siguientes: Partiendo del vértice número 1, ubicado al sureste del polígono, con rumbo sureste 36 grados 35 minutos y una distancia de 206 metros, se llega al vértice número 2, del vértice número 2 con rumbo suroeste 60 grados 56 minutos y una distancia de 206 metros, se llega al vértice número 3, del vértice número 3 con rumbo suroeste 33 grados y una distancia de 187 metros, se llega al vértice número 4, del vértice número 4 con rumbo sureste 23 grados 39 minutos y una distancia de 97 metros, se llega al vértice número 5, del vértice número 5 con rumbo suroeste 27 grados 35 minutos y una distancia de 125 metros, se llega al vértice número 6, del vértice número 6 con rumbo suroeste 10 grados 03 minutos y una distancia de 172 metros, se llega al vértice número 7, del vértice número 7 con rumbo suroeste 27 grados 15 minutos y una distancia de 111 metros, se llega al vértice número 8, colindando del vértice número 1 al vértice número 8 con el Mar Caribe; del vértice número 8 con rumbo noroeste 61 grados 36 minutos y una distancia de 126 metros, se llega al vértice número 9, del vértice número 9 con rumbo noroeste 24 grados 12 minutos y una distancia de 120 metros, se llega al vértice número 10, del vértice número 10 con rumbo noroeste 19 grados 52 minutos y una distancia de 138 metros, se llega al vértice número 11, del vértice número 11 con rumbo noroeste 11 grados 49 minutos y una distancia de 132 metros, se llega al vértice número 12, del vértice número 12 con rumbo noroeste 22 grados 51 minutos y una distancia de 111 metros, se llega al vértice número 13, del vértice número 13 con rumbo noroeste 19 grados 49 minutos y una distancia de 65 metros, se llega al vértice número 14, del vértice número 14 con rumbo suroeste 75 grados 27 minutos y una distancia de 112 metros, se llega al vértice número 15, del vértice número 15 con rumbo suroeste 26 grados 33 minutos y una distancia de 85 metros, se llega al vértice número 16, del vértice número 16 con rumbo suroeste 01 grados y una distancia de 113 metros, se llega al vértice número 17, del vértice número 17 con rumbo suroeste 23 grados 42 minutos y una distancia de 117 metros, se llega al vértice número 18, del vértice número 18, con rumbo sureste 48 grados y una distancia de 135 metros, se llega al vértice número 19, del vértice número 19 con rumbo sureste 45 grados 14 minutos y una distancia de 173 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 71 grados 17 minutos y una distancia de 134 metros, se llega al vértice número 21, del vértice número 21 con rumbo sureste 46 grados 52 minutos y una distancia de 108 metros, se llega al vértice número 22, colindando del vértice número 8 al vértice número 22 con el Mar Caribe. Del vértice número 22 con rumbo sureste 09 grados 46 minutos y una distancia de 88 metros, se llega al vértice número 23, del vértice número 23 con rumbo suroeste 10 grados 05 minutos y una distancia de 74 metros, se llega al vértice número 24, del vértice número 24 con rumbo suroeste 32 grados 28 minutos y una distancia de 156 metros, se llega al vértice número 25, colindando del vértice número 22 al vértice número 25 con el Mar Caribe; del vértice número 25 con rumbo noroeste 66 grados 03 minutos y una distancia de 791 metros, se llega al vértice número 26, colindando el vértice 25 y el 26 con terrenos de propiedad particular; del vértice número 26 con rumbo noreste 26 grados 10 minutos y una distancia de 1,256 metros, se llega al vértice número 27, del vértice número 27 con rumbo sureste 66 grados 30 minutos y una distancia de 683 metros, se llega al vértice número 1, que es el punto de partida para cerrar el polígono.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-V.- MUNICIPIO DE LÁZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este, partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
+V.- MUNICIPIO DE LÁZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Playa del Carmen. Al este, partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -3285,9 +3553,11 @@ Al Sur, el Municipio de Puerto Morelos y el Mar Caribe. Al Este, el Mar Caribe y
 
 VII.- MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al Norte, el Canal de Yucatán. Al Sur, el Municipio Benito Juárez, de conformidad con la tabla que contiene la fracción VI de este artículo; Al Este, el Mar Caribe. Al Oeste, el Municipio de Lázaro Cárdenas. Comprende las islas de Mujeres, Contoy y Blanca, Islotes y Cayos adyacentes a su litoral.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-VIII.- MUNICIPIO DE SOLIDARIDAD, con cabecera en la Ciudad de Playa del Carmen, con la siguiente extensión territorial:
+VIII.- MUNICIPIO DE PLAYA DEL CARMEN, con cabecera en la Ciudad de Playa del Carmen, con la siguiente extensión territorial:
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2008)</small>
 
 CUADRO DE CONSTRUCCION
 
@@ -3380,6 +3650,8 @@ EST P.V. X Y
 42 43 S 65°14'53"E 957.671 467475.764 2257503.682 42
 
 43 1 Sobre la línea de costa del Mar Caribe hacia el norte hasta llegar al vértice 1. Se respeta el polígono de CALICA perteneciente al municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo tercero de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2008)</small>
 
 Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo tercero de este artículo.
 
@@ -3815,39 +4087,61 @@ LAS COORDENADAS GEOGRÁFICAS ESTÁN EXPRESADAS EN NOTACIÓN SEXAGESIMAL; LAS COO
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 15 A LA 18.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 19 DE MARZO DE 2025, PÁGINA 3.]</small>
+
 Las colindancias del municipio de Puerto Morelos, son:
 
-Al norte, los municipios de Lázaro Cárdenas y Benito Juárez; al este, el municipio de Benito Juárez y el Mar Caribe; al sur, los municipios de Solidaridad y Lázaro Cárdenas y al oeste, el municipio de Lázaro Cárdenas.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+Al norte, los municipios de Lázaro Cárdenas y Benito Juárez; al este, el municipio de Benito Juárez y el Mar Caribe; al sur, los municipios de Playa del Carmen y Lázaro Cárdenas y al oeste, el municipio de Lázaro Cárdenas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 129.
 
-Para la creación de municipios en el Estado se requerirá la aprobación de las dos terceras partes de la totalidad de los miembros de la Legislatura y la de la mayoría de los Ayuntamientos, así como la concurrencia de los siguientes elementos:
+Para la creación de municipios en el Estado se requerirá la aprobación de las dos terceras partes de la totalidad de las personas integrantes de la Legislatura y la de la mayoría de los Ayuntamientos, así como la concurrencia de los siguientes elementos:
 
-I. Que sea conveniente para satisfacer las necesidades de sus habitantes.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+I. Que sea conveniente para satisfacer las necesidades de sus personas habitantes.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 II. Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades de desarrollo futuro.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 III. Que sus recursos de desarrollo potencial le garanticen posibilidades de autosuficiencia económica.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 IV. Que su población no sea inferior a treinta mil habitantes.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 V. Que la comunidad en que se establezca su cabecera cuente con más de diez mil habitantes.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 VI. Que la ciudad señalada en la fracción anterior, tenga los servicios públicos adecuados para su población, y
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 VII. Que previamente se escuche la opinión de los Ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 130.
 
-La Legislatura del Estado, por acuerdo de las dos terceras partes de sus miembros y con la aprobación de la mayoría de los Ayuntamientos, podrá declarar la supresión de un Municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su creación.
+La Legislatura del Estado, por acuerdo de las dos terceras partes de sus personas integrantes y con la aprobación de la mayoría de los Ayuntamientos, podrá declarar la supresión de un Municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su creación.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 En todo caso se deberá escuchar al Ayuntamiento del Municipio que se pretenda suprimir y al del que se pretenda fusionar, quienes deberán expresar lo que a su interés convenga, en un término no mayor a noventa días, contados a partir del momento en que al efecto hayan sido emplazados por la Legislatura.
 
-La Legislatura por acuerdo de sus integrantes, estará facultada para modificar la denominación de algún Municipio, cuando en su concepto, existan razones fundadas para ello, de acuerdo a la Ley de la Materia.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La Legislatura por acuerdo de sus personas integrantes, estará facultada para modificar la denominación de algún Municipio, cuando en su concepto, existan razones fundadas para ello, de acuerdo a la Ley de la Materia.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
@@ -3871,7 +4165,9 @@ III. Delegaciones y,
 
 IV. Subdelegaciones.
 
-La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegaciones, así como las atribuciones y las formas de elección o designación y remoción de los titulares de los órganos auxiliares del Gobierno Municipal en cada una de ellas, serán determinados por cada Ayuntamiento, en términos de la Ley de la Materia.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegaciones, así como las atribuciones y las formas de elección o designación y remoción de las personas titulares de los órganos auxiliares del Gobierno Municipal en cada una de ellas, serán determinados por cada Ayuntamiento, en términos de la Ley de la Materia.
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
@@ -3895,73 +4191,79 @@ Al término de la sesión de instalación, el Ayuntamiento procederá en sesión
 
 Los Ayuntamientos deberán regirse bajo los lineamientos de Estado Abierto, en donde se garantizará la transparencia, el acceso a la información pública, la rendición de cuentas, la participación ciudadana, la colaboración, innovación y gobernabilidad de las tecnologías de la información y comunicación para la gestión pública.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 134.
 
 Los Ayuntamientos se integran en la siguiente forma:
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional;
+I. En los Municipios de Othón P. Blanco, Benito Juárez y Playa del Carmen, con una persona Titular de la Presidencia, una persona Titular de la Sindicatura, nueve personas titulares de las Regidurías electas según el principio de mayoría relativa y seis personas titulares de las regidurías electas según el principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos con una persona Titular de la Presidencia, una persona Titular de la Sindicatura, seis personas titulares de las Regidurías electas según el principio de mayoría relativa y tres personas titulares de las Regidurías electas según el principio de representación proporcional.
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+Se elegirá una persona suplente para cada integrante del Ayuntamiento.
 
-Se elegirá un suplente para cada integrante del Ayuntamiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 135.
 
-Los miembros del Ayuntamiento se elegirán por sufragio universal, libre, secreto y directo de los ciudadanos quintanarroenses en ejercicio de sus derechos, en jornada electoral que tendrá lugar el primer domingo de junio del año que corresponda, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
+Las personas integrantes del Ayuntamiento se elegirán por sufragio universal, libre, secreto y directo de las personas ciudadanas quintanarroenses en ejercicio de sus derechos, en jornada electoral que tendrá lugar el primer domingo de junio del año que corresponda, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+I. En los Municipios de Othón P. Blanco, Benito Juárez y Playa del Carmen, cada partido político postulará una lista de once personas para ocupar los cargos de Presidencias Municipales, Sindicaturas y Regidurías.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidencias Municipales, Sindicaturas y Regidurías.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
+II. El Partido Político que obtenga mayoría de votos acreditará a sus personas integrantes en los cargos para los que fueron postuladas.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-III. Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos y Candidatos Independientes que hayan obtenido por los (sic) menos el tres por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político o la planilla de candidatos independientes que haya obtenido la mayoría de votos.
+III. Los cargos de las Regidurías electas según el principio de representación proporcional, se asignarán a los Partidos Políticos y candidaturas independientes que hayan obtenido por los menos el tres por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político o la planilla de candidaturas independientes que haya obtenido la mayoría de votos.
 
 IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 136.
 
-Para ser miembro de un Ayuntamiento se requiere:
+Para ser integrante de un Ayuntamiento se requiere:
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
 I. Contar con la ciudadanía mexicana y quintanarroense, en pleno ejercicio de sus derechos políticos y civiles, con residencia y vecindad en el Municipio no menor a cinco años anteriores al inicio del proceso electoral.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 II. Ser de reconocida probidad y solvencia moral.
 
-III. No desempeñar, con excepción de los docentes, cargo o comisión del Gobierno Federal, Estatal o Municipal a menos que se separe con noventa días de anticipación al día de la elección. Esta disposición no será aplicable a quienes participen con el carácter de suplentes.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+III. No desempeñar, con excepción de los cargos de docencia, cargo o comisión del Gobierno Federal, Estatal o Municipal a menos que se separe con noventa días de anticipación al día de la elección. Esta disposición no será aplicable a quienes participen con el carácter de suplentes.
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2025)</small>
 
 IV. No ser titular de Magistratura o de Juzgado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa y Anticorrupción del Estado o del Tribunal Electoral del Estado, ni Consejera o Consejero, titular de la Secretaria Ejecutiva o de dirección del Instituto Electoral del Estado o integrante del Órgano de Administración Judicial, a menos que se separe dos años antes de la fecha de inicio del proceso electoral.
 
-V. No ser ministro de cualquier culto, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-Para los efectos de este artículo, son residentes de un Municipio, los habitantes del mismo que por razones del desempeño de un cargo de elección popular, puesto público, comisión de carácter oficial, estudio o empleo, permanezcan dentro de su territorio, sin la intención de establecerse de manera definitiva en el mismo. Son vecinos de un municipio, los residentes establecidos de manera fija en su territorio y que mantengan casa en el mismo en la que habiten de manera ininterrumpida y permanente, y se encuentren inscritos en el padrón electoral correspondiente a ese propio municipio.
+V. No ser ministra o ministro de cualquier culto, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+Para los efectos de este artículo, son residentes de un Municipio, las personas habitantes del mismo que por razones del desempeño de un cargo de elección popular, puesto público, comisión de carácter oficial, estudio o empleo, permanezcan dentro de su territorio, sin la intención de establecerse de manera definitiva en el mismo. Son vecinas de un municipio, las personas residentes establecidas de manera fija en su territorio y que mantengan casa en el mismo en la que habiten de manera ininterrumpida y permanente, y se encuentren inscritas en el padrón electoral correspondiente a ese propio municipio.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 137.
 
-La Ley Reglamentaria, establecerá las fórmulas electorales y los procedimientos que se observarán en la asignación de Regidores electos según el principio de representación proporcional.
+La Ley Reglamentaria, establecerá las fórmulas electorales y los procedimientos que se observarán en la asignación de las regidurías electas según el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3969,57 +4271,69 @@ La Ley Reglamentaria, establecerá las fórmulas electorales y los procedimiento
 
 La Ley respectiva reglamentará el proceso de preparación, desarrollo y verificación del proceso electoral para la renovación de los Ayuntamientos.
 
-El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley, declarará la validez de las elecciones de Ayuntamientos en cada uno de los Municipios del Estado y otorgará las constancias respectivas a las planillas de candidatos que hubiesen obtenido mayoría de votos. Así mismo, hará la declaración de validez y asignación de Regidores Electos según el principio de Representación Proporcional de conformidad con el Artículo 135 de esta Constitución.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de regidores podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
+El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley, declarará la validez de las elecciones de Ayuntamientos en cada uno de los Municipios del Estado y otorgará las constancias respectivas a las planillas de las personas candidatas que hubiesen obtenido mayoría de votos. Así mismo, hará la declaración de validez y asignación de las Regidurías Electas según el principio de Representación Proporcional de conformidad con el Artículo 135 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de regidurías podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 139.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, podrán ser reelectos por un período adicional como propietarios o suplentes.
+Las personas titulares de las Presidencias Municipales, de las Sindicaturas y de las Regidurías de los Ayuntamientos que hayan estado en ejercicio, podrán ser reelectas por un período adicional como propietarias o suplentes.
 
-La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que la hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 140.
 
-En las ausencias temporales del Presidente Municipal pasará a desempeñar sus funciones el Primer Regidor.
+En las ausencias temporales de la persona titular de la Presidencia Municipal pasará a desempeñar sus funciones la Primera persona Regidora.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 141.
 
-En caso de falta absoluta de algún miembro del Ayuntamiento, éste llamará a los suplentes respectivos, quienes rendirán la protesta y asumirán el desempeño del cargo.
+En caso de falta absoluta de alguna persona integrante del Ayuntamiento, esta llamará a las personas suplentes respectivas, quienes rendirán la protesta y asumirán el desempeño del cargo.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 142.
 
-Cuando el suplente respectivo no pueda entrar al desempeño del cargo, el Ayuntamiento por el voto de las dos terceras partes de sus miembros procederá a nombrar de entre los vecinos del Municipio a quien ocupará el cargo, quien en todo caso deberá satisfacer los requisitos exigidos para ser miembro del Ayuntamiento, con excepción de lo previsto en la fracción III del Artículo 136 de esta Constitución.
+Cuando la persona suplente respectiva no pueda entrar al desempeño del cargo, el Ayuntamiento por el voto de las dos terceras partes de sus integrantes procederá a nombrar de entre las personas vecinas del Municipio a quien ocupará el cargo, quien en todo caso deberá satisfacer los requisitos exigidos para ser persona integrante del Ayuntamiento, con excepción de lo previsto en la fracción III del Artículo 136 de esta Constitución.
 
-Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
+Si la vacante se genera respecto de algún integrante del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietaria del mismo partido, conforme a la planilla que el partido registró.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 143.
 
-Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus integrantes a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones las personas suplentes, la Legislatura del Estado por el voto de las dos terceras partes de sus Diputadas y Diputados, nombrará un Concejo Municipal que asumirá las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a las personas integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 El mismo procedimiento se seguirá cuando por cualquier causa desaparezca el Ayuntamiento dentro del primer año de su ejercicio o cuando la elección se declare nula. En este último caso, deberá de emitirse la convocatoria respectiva dentro de los tres días siguientes a los que se haya recibido la notificación que declare firme para todos los efectos legales la nulidad de la elección.
 
-Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado por el voto de las dos terceras partes de sus miembros y a propuesta de los grupos parlamentarios, nombrará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-En los demás supuestos no previstos en los párrafos anteriores de este artículo, la Legislatura del Estado, nombrará de entre los vecinos a un Concejo Municipal que asumirá las funciones del Ayuntamiento hasta en tanto entran en el desempeño de su encargo los integrantes del Ayuntamiento electos mediante el sufragio universal, libre, secreto y directo de los ciudadanos, conforme a las leyes correspondientes.
+Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado por el voto de las dos terceras partes de sus integrantes y a propuesta de los grupos parlamentarios, nombrará de entre las personas vecinas a un Concejo Municipal que concluirá el período respectivo.
 
-El Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate; los integrantes del mismo se designarán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento, y rendirán la protesta de ley.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+En los demás supuestos no previstos en los párrafos anteriores de este artículo, la Legislatura del Estado, nombrará de entre las personas vecinas a un Concejo Municipal que asumirá las funciones del Ayuntamiento hasta en tanto entran en el desempeño de su encargo las personas integrantes del Ayuntamiento electas mediante el sufragio universal, libre, secreto y directo de las personas ciudadanas, conforme a las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+El Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate; las personas integrantes del mismo se designarán de entre las propuestas de las personas vecinas del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser integrantes del Ayuntamiento, y rendirán la protesta de ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 144.
 
-La Legislatura del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan y se respete la garantía de legalidad.
+La Legislatura del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus integrantes, por alguna de las causas graves establecidas en la Ley, siempre y cuando sus integrantes hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan y se respete la garantía de legalidad.
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
@@ -4151,9 +4465,9 @@ d) Los que adquieran por subsidios, legados, donaciones o cualquier causa lícit
 
 IV. Las leyes no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, debiendo incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales y sujetándose a lo dispuesto en el artículo 165 de esta Constitución. Asimismo, podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
+V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, debiendo incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas municipales y sujetándose a lo dispuesto en el artículo 165 de esta Constitución. Asimismo, podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -4177,9 +4491,13 @@ VIII. Autorizar los convenios para adherirse al mecanismo de contratación de De
 
 El Ayuntamiento administrará responsablemente el patrimonio municipal conforme a la Ley.
 
-La Ley establecerá los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Los bienes del dominio público municipal son inalienables, imprescriptibles e inembargables, y no están sujetos a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por acuerdo de las dos terceras partes de los miembros del Ayuntamiento en los términos y procedimientos que señale la Ley; la misma Ley determinará cuales tienen ese carácter.
+La Ley establecerá los casos en que se requiera el acuerdo de las dos terceras partes de las personas integrantes de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+Los bienes del dominio público municipal son inalienables, imprescriptibles e inembargables, y no están sujetos a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por acuerdo de las dos terceras partes de las personas integrantes del Ayuntamiento en los términos y procedimientos que señale la Ley; la misma Ley determinará cuales tienen ese carácter.
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
@@ -4217,7 +4535,9 @@ j) Celebrar convenios para la administración y custodia de las zonas federales;
 
 k) Participar conjuntamente con los organismos y dependencias oficiales competentes, en la planeación y aplicación, en su caso, de inversiones públicas federales y estatales; y
 
-l) Solicitar al Ejecutivo del Estado, la expropiación de bienes inmuebles por causa de utilidad pública.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+l) Solicitar al Poder Ejecutivo del Estado, la expropiación de bienes inmuebles por causa de utilidad pública.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -4233,13 +4553,13 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 ### CAPITULO VII. Seguridad Pública
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 157.
 
-La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+La Policía Preventiva Municipal estará al mando de la persona titular de la Presidencia, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que la persona Titular del Poder Ejecutivo le transmita en aquellos casos que esta juzgue como de fuerza mayor o alteración grave del orden público.
 
-El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
+La persona Titular del Poder Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4251,35 +4571,39 @@ Los cuerpos de Seguridad Pública y Tránsito de los Municipios coordinarán sus
 
 ### CAPITULO VIII. Relaciones Laborales
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 159.
 
-Las relaciones laborales entre los Municipios y sus trabajadores se regirán por las leyes que expida la Legislatura, con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+Las relaciones laborales entre los Municipios y sus personas trabajadoras se regirán por las leyes que expida la Legislatura, con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
 (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ## TITULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2025)</small>
 
-### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos y Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción
+### CAPITULO UNICO. De las Responsabilidades de las Personas Servidoras Públicas y Particulares vinculadas con las Faltas Administrativas Graves o Hechos de Corrupción
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 160.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Legislativo del Estado, el Poder Judicial o en la Administración Pública Estatal o Municipal, entidades paraestatales y paramunicipales y órganos públicos autónomos a los que esta Constitución les otorga dicha calidad, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, y por el manejo indebido de recursos públicos y la deuda pública.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como personas servidoras públicas a las representantes de elección popular, las personas integrantes del Poder Judicial del Estado, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Legislativo del Estado, el Poder Judicial o en la Administración Pública Estatal o Municipal, entidades paraestatales y paramunicipales y órganos públicos autónomos a los que esta Constitución les otorga dicha calidad, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, y por el manejo indebido de recursos públicos y la deuda pública.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
+Las personas servidoras públicas y particulares que incurran en responsabilidad frente al Estado, Serán sancionadas conforme a lo siguiente:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE JULIO DE 2017)</small>
 
 I. Se impondrá mediante juicio político:
 
 a) A la o el Gobernador del Estado;
 
-b) A las y los Diputados de la Legislatura del Estado;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+b) A las Diputadas y Diputados de la Legislatura del Estado;
 
 c) A las y los Magistrados del Tribunal Superior de Justicia;
 
@@ -4307,25 +4631,29 @@ l) A la o el Fiscal General del Estado;
 
 m) A las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios;
 
-n) A las y los miembros de los Ayuntamientos, y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-o) A los titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución.
+n) A las personas integrantes de los Ayuntamientos, y
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Las sanciones a los sujetos antes mencionados serán las consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, en los términos que establezca la ley.
+o) A las personas titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+Las sanciones a las personas mencionadas con anterioridad serán las consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que la persona servidora pública desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La Ley correspondiente establecerá el procedimiento del Juicio Político seguido ante la Legislatura, previniendo la forma de oír al acusado en su defensa.
+Cualquier persona ciudadana bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La Ley correspondiente establecerá el procedimiento del Juicio Político seguido ante la Legislatura, previniendo la forma de oír a la persona acusada en su defensa.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4339,13 +4667,13 @@ La Legislatura del Estado conocerá con este procedimiento de los casos que le r
 
 II. La persona titular del Poder Ejecutivo del Estado, las Diputadas y los Diputados de la Legislatura, las personas titulares de Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y las personas integrantes de los Órganos de Administración Judicial, las Presidentas y los Presidentes Municipales, así como las personas integrantes de los organismos a los que esta Constitución les otorgue autonomía, sólo podrán ser sujetos a Juicio Político por violaciones graves a esta Constitución, y a las Leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-III. La legislación penal del Estado prevendrá como delito común el enriquecimiento ilícito de los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Asimismo perseguirá y sancionará la comisión de delitos por parte de cualquier servidor público.
+III. La legislación penal del Estado prevendrá como delito común el enriquecimiento ilícito de las personas servidoras públicas que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Asimismo perseguirá y sancionará la comisión de delitos por parte de cualquier persona servidora pública.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-IV. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La investigación y sanción de dichos actos u omisiones se realizará en apego a las leyes aplicables en materia de Responsabilidades Administrativas.
+IV. Se aplicarán sanciones administrativas a las personas servidoras públicas por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido la persona responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La investigación y sanción de dichos actos u omisiones se realizará en apego a las leyes aplicables en materia de Responsabilidades Administrativas.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
@@ -4355,7 +4683,11 @@ Las faltas administrativas graves serán investigadas y substanciadas por la Aud
 
 La investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, corresponderá al Tribunal de Disciplina Judicial, y se observará lo previsto en la ley respectiva, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 La clasificación de las faltas administrativas que realicen los órganos internos de control podrá ser impugnada en términos que establezca la Ley.
 
@@ -4363,21 +4695,23 @@ La clasificación de las faltas administrativas que realicen los órganos intern
 
 Los entes públicos estatales y municipales, así como los órganos públicos autónomos, contarán con órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa y Anticorrupción del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2025)</small>
 
-V. El Tribunal de Justicia Administrativa y Anticorrupción impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales y municipales.
+V. El Tribunal de Justicia Administrativa y Anticorrupción impondrá a particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales y municipales.
 
 Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
 
-También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales y municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales y municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socias y socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios; en términos que establezcan las leyes.
 
 La Auditoría Superior del Estado y la Secretaría del Ejecutivo Estatal responsable del control interno, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción de conformidad con lo previsto en el artículo 26, Apartado C, fracción VII en su primer párrafo de esta Constitución;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VI. La Ley Orgánica Municipal determinará, en los términos del primer párrafo de este artículo y para efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Ayuntamientos.
+VI. La Ley Orgánica Municipal determinará, en los términos del primer párrafo de este artículo y para efectos de sus responsabilidades, el carácter de las personas servidoras públicas de quienes desempeñen empleo, cargo o comisión en los Ayuntamientos.
 
 VII. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2017)
 
@@ -4385,17 +4719,17 @@ VII. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2017)
 
 VIII. Las declaraciones y resoluciones que se dicten a quienes se sujeten a Juicio Político son inatacables.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
+Las personas servidoras públicas a que se refiere el presente artículo estarán obligadas a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La responsabilidad por los delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el primer párrafo de este artículo.
+La responsabilidad por los delitos cometidos durante el tiempo del encargo por cualquier persona servidora pública, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto la persona servidora pública desempeña alguno de los encargos a que hace referencia el primer párrafo de este artículo.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Para el caso de faltas administrativas no graves, las facultades de la Secretaría de la Gestión Pública o de los órganos internos de control para imponer las sanciones, prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
+Para el caso de faltas administrativas no graves, las facultades de la Secretaría encargada del control interno del Poder Ejecutivo Estatal prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -4409,9 +4743,9 @@ La prescripción se interrumpirá en los términos que establezca la legislació
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de las personas particulares, será objetiva y directa. Las personas particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -4453,7 +4787,9 @@ En caso de que se generen vacantes imprevistas, el proceso de selección de la n
 
 b) La Comisión de selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo. Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana Estatal y deberá hacerlos públicos; en donde deberá considerar al menos las siguientes características:
 
-1. El método de registro y evaluación de los aspirantes;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+1. El método de registro y evaluación de las personas aspirantes;
 
 2. Hacer pública la lista de las y los aspirantes;
 
@@ -4461,11 +4797,15 @@ b) La Comisión de selección deberá emitir una convocatoria, con el objeto de 
 
 4. Hacer público el cronograma de audiencias;
 
-5. Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia, y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-6. El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
+5. Podrán efectuarse audiencias públicas en las que se invitará a participar a personas investigadoras, académicas y a organizaciones de la sociedad civil, especialistas en la materia, y
 
-En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+6. El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus integrantes.
+
+En caso de que se generen vacantes imprevistas, el proceso de selección de la nueva persona integrante no podrá exceder el límite de noventa días y la persona ciudadana que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
 III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
 
@@ -4499,15 +4839,21 @@ El presupuesto de egresos de la Secretaría Ejecutiva del Sistema Estatal Antico
 
 ### CAPITULO UNICO. De las Reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 164.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de la totalidad de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por el voto favorable de las dos terceras partes de la totalidad de los Ayuntamientos del Estado, en un lapso de treinta días naturales contados a partir de la recepción de la minuta proyecto de decreto. En todo caso, el sentido de la votación de los Ayuntamientos deberá estar fundado y motivado.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de la totalidad de sus integrantes, acuerde las reformas o adiciones y que éstas sean aprobadas por el voto favorable de las dos terceras partes de la totalidad de los Ayuntamientos del Estado, en un lapso de treinta días naturales contados a partir de la recepción de la minuta proyecto de decreto. En todo caso, el sentido de la votación de los Ayuntamientos deberá estar fundado y motivado.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 Transcurrido el plazo fijado con anterioridad, y sin que el o los Ayuntamientos se hayan pronunciado, se entenderá como aprobada la minuta proyecto de decreto.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+
 La Legislatura o la Comisión Permanente, en su caso, hará el cómputo de los votos de los Ayuntamientos, y la declaración de haber sido aprobadas las adiciones o reformas.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 Ninguna iniciativa que pretenda reformar o adicionar esta Constitución será atendida por la Legislatura con sujeción al trámite de urgente y obvia resolución.
 
@@ -4515,13 +4861,17 @@ Ninguna iniciativa que pretenda reformar o adicionar esta Constitución será at
 
 ## TITULO DECIMO. Prevenciones Generales
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 165.
 
-Los servidores públicos del Estado y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Las personas servidoras públicas del Estado y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE AGOSTO DE 2013)</small>
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
@@ -4529,23 +4879,35 @@ I.- Se considera remuneración o retribución toda percepción en efectivo o en 
 
 II.- Ninguna persona servidora pública podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente.
 
-III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+III.- Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para la persona titular del Poder Ejecutivo del Estado en el presupuesto correspondiente.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran las personas servidoras públicas por razón del cargo desempeñado.
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+
 VI.- Las Legislatura del Estado expedirá (sic) las leyes para hacer efectivo el contenido del presente artículo y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VII.- Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, en este artículo y en la ley.
 
-Los poderes Legislativo, Ejecutivo y Judicial del Estado de Quintana Roo, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos, prevé el artículo 75 fracción XXX de esta Constitución y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+Los poderes Legislativo, Ejecutivo y Judicial del Estado de Quintana Roo, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus personas servidoras públicas. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos, prevé el artículo 75 fracción XXX de esta Constitución y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 166.
 
-Ninguna autoridad impondrá préstamos forzosos, ni se hará gasto alguno que no esté determinado en los presupuestos de egresos o que no sea aprobado por la Legislatura. Incurrirán en responsabilidad los servidores públicos que así lo ordenen.
+Ninguna autoridad impondrá préstamos forzosos, ni se hará gasto alguno que no esté determinado en los presupuestos de egresos o que no sea aprobado por la Legislatura. Incurrirán en responsabilidad las personas servidoras públicas que así lo ordenen.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -4559,11 +4921,15 @@ Los resultados de dichos recursos serán evaluados por las instancias técnicas 
 
 Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+
+ARTICULO 166 BIS.- Las personas servidoras públicas del Estado y los Municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier persona servidora pública.
+
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
-
-ARTICULO 166 BIS.- Los servidores públicos del Estado y los Municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
-
-La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
@@ -6362,3 +6728,41 @@ P.O. 11 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo dispuesto en el presente Decreto.
+
+P.O. 19 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 110 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 111 POR EL QUE SE REFORMAN LOS ARTÍCULOS 127, 128 FRACCIONES V, VIII Y XI, 134 FRACCIÓN I Y 135 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo, las reformas a la normatividad secundaría entrarán en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa entrada en vigor del presente decreto. A partir de dicha fecha, todas las autoridades municipales, estatales y federales deberán reconocer la nueva denominación de "Municipio de Playa del Carmen" en sustitución del "Municipio de Solidaridad", sin que ello afecte los derechos, obligaciones o procedimientos en curso.
+
+SEGUNDO. El decreto número 19, de la VII Legislatura del Estado, publicado en el Periódico Oficial del Estado de Quintana Roo el 28 de julio del año 1993, por el cual fue creado el Municipio de Solidaridad se entenderá como aplicable al Municipio de "Playa del Carmen", reconociéndose únicamente la modificación de su denominación oficial, dado que no se altera la naturaleza del municipio ni sus límites.
+
+Asimismo, la Alcaldía de Puerto Aventuras permanecerá como parte integrante del Municipio de Playa del Carmen, con las mismas atribuciones y funciones que actualmente le corresponden.
+
+TERCERO. Hasta en tanto se realicen las reformas correspondientes en las Leyes y Reglamentos Estatales y Municipales, cuando en esas disposiciones se haga referencia al municipio de "Solidaridad", a su Ayuntamiento, a sus autoridades municipales o a su Alcaldía de Puerto Aventuras, en el municipio de "Solidaridad" se tendrá por referido al municipio de "Playa del Carmen", y seguirán siendo aplicables esas disposiciones legales, así como competentes las autoridades referidas. Todas las disposiciones legales, derechos y obligaciones del Municipio y de su Alcaldía permanecerán vigentes sin necesidad de ratificación o tramite adicional.
+
+CUARTO. En los asuntos jurisdiccionales, administrativos o de cualquier otra índole en los que el antes denominado Municipio de Solidaridad, su Ayuntamiento, sus dependencias, su Alcaldía de Puerto Aventuras u organismos descentralizados sean parte al momento de la entrada en vigor de esta reforma, dichos entes continuarán siendo considerados como parte, sin que el cambio de denominación oficial afecte los derechos, obligaciones o procesos en curso. Para todos los efectos legales y administrativos, el municipio conservará su personalidad jurídica, y continuidad institucional, únicamente modificándose su denominación oficial a municipio de "Playa del Carmen".
+
+QUINTO. Los contratos, convenios, fideicomisos, acuerdos, compromisos o cualquier otro instrumento jurídico en los que el antes Municipio de Solidaridad, su Ayuntamiento, sus dependencias, su Alcaldía de Puerto Aventuras u organismos descentralizados sean parte al momento de la entrada en vigor del presente Decreto, continuarán vigentes en los mismos términos y condiciones. El cambio de denominación oficial a municipio de "Playa del Carmen" no afectará su validez, exigibilidad, ni interpretación, debiéndose reconocer al municipio de "Playa del Carmen" como la misma entidad jurídica obligada o beneficiaria en dichos actos.
+
+SEXTO. Las relaciones laborales existentes entre el antes Municipio de Solidaridad, su Ayuntamiento, sus dependencias, su Alcaldía de Puerto Aventuras, y organismos descentralizados con sus personas trabajadoras, no se verán afectadas por el cambio de denominación oficial a Municipio de "Playa del Carmen". Dichas relaciones continuarán vigentes en los mismos términos y condiciones, reconociéndose al Municipio bajo su nueva denominación como la misma persona empleadora para todos los efectos legales y administrativos correspondientes.
+
+SÉPTIMO. Para garantizar la continuidad operativa del Ayuntamiento, la Alcaldía de Puerto Aventuras y los servicios públicos municipales, todas las disposiciones, actos administrativos, resoluciones, acuerdos, trámites, permisos, licencias, activos o pasivos, procedimientos y demás actividades y/o documentos realizados o expedidos bajo el nombre del anterior Municipio de Solidaridad, mantendrán su validez y efectividad bajo la nueva denominación de Municipio de "Playa del Carmen". En ningún caso el cambio de denominación oficial interrumpirá el ejercicio de las funciones, derechos y obligaciones del Ayuntamiento, de su Alcaldía, de sus dependencias o de sus Organismos Descentralizados.
+
+OCTAVO. El cambio de denominación del Municipio de Solidaridad a Municipio de Playa del Carmen no afecta la validez ni vigencia de los documentos oficiales, registros, trámites, permisos, licencias o actos administrativos, pagos y recibos correspondientes a contribuciones expedidos con anterioridad por las autoridades del Ayuntamiento de Solidaridad.
+
+Los documentos como actas de nacimiento, escrituras, licencias de funcionamiento, registros catastrales, permisos municipales y cualquier otro documento oficial expedido dentro del ámbito de competencia municipal, seguirán siendo plenamente válidos y reconocidos por todas las autoridades sin necesidad de trámite adicional, y toda referencia en ellos señalada al Municipio de Solidaridad se entenderán realizadas al Municipio de Playa del Carmen.
+
+Asimismo, ningún trámite podrá ser condicionado a la expedición de documentos con la nueva denominación del Municipio, ni se impondrán requisitos extraordinarios en trámites administrativos derivados de este cambio de denominación.
+
+NOVENO. El Ayuntamiento del Municipio de Playa del Carmen deberá realizar las acciones jurídicas y administrativas necesarias a fin de actualizar gradualmente la papelería oficial, señalética, registros administrativos y cualquier otro documento o medio en el que se haga referencia al nombre anterior del Municipio. Esta actualización deberá llevarse bajo la disponibilidad presupuestaria, en el marco de los procesos de renovación habituales y asegurando la continuidad de los servicios municipales.
+
+DÉCIMO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
