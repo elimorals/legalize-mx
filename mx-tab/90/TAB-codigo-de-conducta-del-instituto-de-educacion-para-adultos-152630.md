@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-del-instituto-de-educacion-para-adultos-1526
 country: "mx"
 rank: "codigo"
 publication_date: "2021-11-24"
-last_updated: "2021-11-24"
+last_updated: "2025-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE EDUCACION PARA ADULTOS DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DE TABASCO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025 (ABROGADO).
 
 Código publicado en el Suplemento del Número 8266 del Periódico Oficial del Estado de Tabasco, el miércoles 24 de noviembre de 2021.
 
@@ -616,3 +618,13 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, EL 28 DE OCTUB
 M.A.P.P. RAÚL OCHOA BOLÓN
 
 Director General del Instituto de Educación para Adultos de Tabasco
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DE TABASCO".]
+
+Primero. El presente Código de Conducta entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Segundo. Se abroga el Código de Conducta publicado en el Suplemento al Periódico Oficial del Estado de Tabasco, Edición 8266 de fecha 24 de noviembre de 2021.
