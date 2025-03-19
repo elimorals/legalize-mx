@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2024-12-16"
+last_updated: "2025-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -435,9 +435,19 @@ III. El derecho a la intimidad que incluye la privacidad de la vida familiar en 
 
 IV. Atendiendo al principio de máxima publicidad en el ejercicio del derecho de acceso a la información pública y al cumplimiento de las obligaciones en materia de transparencia, toda persona, sin distinción de ningún tipo y sin necesidad de acreditar interés alguno o justificar su utilización, podrá acceder gratuitamente a la información pública y a sus datos personales, o solicitar la rectificación de éstos;
 
-V. Toda autoridad, entidad, órgano y organismo estatal o municipal y toda persona física o jurídica colectiva generadora o en posesión de información pública deberá preservar sus documentos en archivos administrativos actualizados y los primeros publicarán a través de los medios electrónicos disponibles la información completa y actualizada sobre sus indicadores de gestión, el ejercicio de los recursos públicos, incluyendo aquella relativa a los recursos públicos que entregan a las personas físicas o jurídicas colectivas; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VI. El Estado establecerá mecanismos y procedimientos de revisión expeditos para hacer efectivo el derecho a la información. Los procedimientos se sustanciarán ante un órgano autónomo que se denominará Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, dotado de plena autonomía jurídica, de gestión y presupuestaria, con personalidad jurídica y patrimonio propio, y que tendrá facultades para hacer cumplir a los sujetos obligados y sancionar la inobservancia de las disposiciones jurídicas en materia de acceso a la información pública.
+V. Toda autoridad, entidad, órgano y organismo estatal o municipal y toda persona física o jurídica colectiva generadora o en posesión de información pública deberá preservar sus documentos en archivos administrativos actualizados y los primeros publicarán a través de los medios electrónicos disponibles la información completa y actualizada sobre sus indicadores de gestión, el ejercicio de los recursos públicos, incluyendo aquella relativa a los recursos públicos que entregan a las personas físicas o jurídicas colectivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2025)</small>
+
+VI. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Se regirán por la ley general en la materia, en los términos que emita el Congreso de la Unión, para determinar las bases, principios generales y procedimientos del ejercicio de estos derechos.
+
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE MARZO DE 2025)</small>
+
+VII. El Estado establecerá mecanismos y procedimientos de revisión contra los actos que emitan los sujetos obligados, los cuales deberán ser expeditos para hacer efectivo el derecho a la información. Los procedimientos se sustanciarán ante las autoridades de control interno y vigilancia u homólogos, en los términos que fije la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
 
 ARTICULO 4° TER.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2013)
 
@@ -1267,9 +1277,9 @@ XVIII. Conceder a la persona titular del Poder Ejecutivo, por tiempo limitado y 
 
 En caso de ser necesario y de encontrarse reunido el Congreso, se solicitará la intervención de los Poderes de la Unión, en términos del artículo 119 de la Constitución general;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XIX.- Designar a la persona titular de la Fiscalía General del Estado y del Órgano Superior de Fiscalización del Estado, así como a las comisionadas y los comisionados del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, y a la persona titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana de Tabasco, y de los órganos de control interno de los órganos constitucionales autónomos. Ratificar, en su caso, la designación de magistradas y magistrados del Tribunal de Justicia Administrativa que haga el Gobernador o Gobernadora del Estado; y nombrar a la persona titular de la presidencia del Tribunal de Conciliación y Arbitraje, de una terna propuesta por la persona titular del Poder Ejecutivo. En cada caso, de conformidad con esta Constitución y las leyes aplicables, y debiendo observarse el principio de paridad de género;
+XIX.- Designar a la persona titular de la Fiscalía General del Estado y del Órgano Superior de Fiscalización del Estado y a la persona titular de la Contraloría General del Instituto Electoral y de Participación Ciudadana de Tabasco, y de los órganos de control interno de los órganos constitucionales autónomos. Ratificar, en su caso, la designación de magistradas y magistrados del Tribunal de Justicia Administrativa que haga el Gobernador o Gobernadora del Estado; y nombrar a la persona titular de la presidencia del Tribunal de Conciliación y Arbitraje, de una terna propuesta por la persona titular del Poder Ejecutivo. En cada caso, de conformidad con esta Constitución y las leyes aplicables, y debiendo observarse el principio de paridad de género;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1313,9 +1323,9 @@ XXVIII.- Expedir la Ley Orgánica de los Municipios y demás leyes sobre la orga
 
 XXIX.- Autorizar la enajenación o gravámen de bienes inmuebles del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XXX. Recibir la protesta constitucional a diputados y diputadas, al Gobernador o Gobernadora, a magistrados y magistradas del Tribunal Superior de Justicia, a magistrados y magistradas del Tribunal de Justicia Administrativa, a la magistrada o magistrado titular de la presidencia del Tribunal de Conciliación y Arbitraje; así como a las personas titulares de la Presidencia de la Comisión Estatal de los Derechos Humanos, de la Fiscalía General del Estado, del Órgano Superior de Fiscalización y de la Contraloría General del Instituto Electoral y de Participación Ciudadana de Tabasco; y a quienes deban ocupar el cargo de consejeras y consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública;
+XXX.- Recibir la protesta constitucional a diputados y diputadas, al Gobernador o Gobernadora, a magistrados y magistradas del Tribunal Superior de Justicia, a magistrados y magistradas del Tribunal de Justicia Administrativa, a la magistrada o magistrado titular de la presidencia del Tribunal de Conciliación y Arbitraje; así como a las personas titulares de la Presidencia de la Comisión Estatal de los Derechos Humanos, de la Fiscalía General del Estado, del Órgano Superior de Fiscalización y de la Contraloría General del Instituto Electoral y de Participación Ciudadana de Tabasco;
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
@@ -1999,17 +2009,15 @@ II.- Los tribunales y juzgados que las leyes establezcan. La Ley Orgánica regul
 
 El Tribunal Superior de Justicia del Estado funciona y se organiza de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-I. Funciona en Pleno o en salas colegiadas y unitarias para conocer de asuntos de legalidad, y como Sala Especial Constitucional para la aplicación e interpretación de esta Constitución;
+I.- Funciona en Pleno o en salas colegiadas y unitarias para conocer de asuntos de legalidad, y para la aplicación e interpretación de esta Constitución;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
 II. El Pleno se integra por el Presidente o Presidenta del Tribunal Superior y los magistrados y magistradas de las salas y tiene las atribuciones que determina la Ley Orgánica. Esta fija, además, el número de salas, su composición, su especialización por materia, la forma de adscripción de las magistraturas a cada una de ellas, así como el procedimiento de designación de quienes las presiden;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-III. La Sala Especial Constitucional se integra por el Presidente o Presidenta del Tribunal Superior de Justicia, quien la preside, y con las personas titulares de las presidencias de las salas colegiadas en materias penal y civil. La Sala Especial Constitucional es el órgano jurisdiccional supremo de aplicación e interpretación de esta Constitución;
+III. (DEROGADA, P.O. 19 DE MARZO DE 2025)
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
@@ -2321,9 +2329,9 @@ El Tribunal de Justicia Administrativa del Estado de Tabasco es el órgano juris
 
 Como parte integrante del Sistema Estatal Anticorrupción, será también competencia del Tribunal de Justicia Administrativa imponer, en los términos que disponga la ley, las sanciones a las personas dedicadas al servicio público del Estado y de los municipios por faltas administrativas graves y, en su caso, a los particulares que incurran en actos vinculados con este tipo de faltas; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Las sentencias definitivas que emita el Tribunal de Justicia Administrativa podrán ser impugnadas por las partes en las controversias a que se refiere el párrafo primero de este artículo; o, en los procedimientos señalados en el párrafo segundo, por el Órgano Superior de Fiscalización, por la Secretaría de Contraloría o los órganos internos de control correspondientes, así como por las y los servidores públicos o particulares involucrados, en los términos que prevea la ley aplicable.
+Las sentencias definitivas que emita el Tribunal de Justicia Administrativa podrán ser impugnadas por las partes en las controversias a que se refiere el párrafo primero de este artículo; o, en los procedimientos señalados en el párrafo segundo, por el Órgano Superior de Fiscalización, por la secretaría del Ejecutivo Estatal responsable del control interno o los órganos internos de control correspondientes, así como por las y los servidores públicos o particulares involucrados, en los términos que prevea la ley aplicable.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2433,9 +2441,9 @@ g) Estar en pleno ejercicio de sus derechos; y
 
 h) Los demás requisitos que exijan las Leyes correspondientes.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-XII. Las relaciones de trabajo entre el Estado, los Municipios y sus trabajadores y trabajadoras, se regirán por las leyes vigentes basadas en lo dispuesto en el artículo 123 de la Constitución Federal y sus disposiciones reglamentarias.
+XII.- Las relaciones de trabajo entre el Estado, los Municipios y sus trabajadores y trabajadoras, se regirán por las leyes vigentes basadas en lo dispuesto en el artículo 123 de la Constitución Federal y sus disposiciones reglamentarias. Los asuntos relacionados con el acceso a la información pública de los sindicatos de los trabajadores al servicio del Estado y de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos, serán resueltos conforme a la Constitución Política de los Estados Unidos Mexicanos y a las leyes aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
@@ -2637,9 +2645,9 @@ II. La comisión de delitos por parte de cualquier persona dedicada al servicio 
 
 De conformidad con la Ley General de Responsabilidades Administrativas y los ordenamientos estatales aplicables, se aplicarán sanciones administrativas a las personas dedicadas al servicio público cuyos actos u omisiones afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. De igual modo, conforme a lo señalado en el Artículo 109, fracción IV, de la Constitución General de la República, se sancionará a los y las particulares que incurran en actos vinculados con faltas administrativas graves.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Tratándose de las responsabilidades administrativas de las personas dedicadas al servicio público del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial, según corresponda. Lo anterior, sin perjuicio de las atribuciones del Órgano Superior de Fiscalización, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+Tratándose de las responsabilidades administrativas de las personas dedicadas al servicio público del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Tribunal de Disciplina Judicial, según corresponda. Lo anterior, sin perjuicio de las atribuciones del Órgano Superior de Fiscalización, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 Los entes públicos estatales y municipales tendrán órganos internos de control, dotados de las facultades que determine la ley, para prevenir, investigar y corregir actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas de las que son facultad del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos de que disponen; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito, ante las autoridades que corresponda.
 
@@ -2653,7 +2661,9 @@ Cualquier persona, bajo su más estricta responsabilidad y mediante la presentac
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios.
 
-El Órgano Superior de Fiscalización, la Secretaría de Contraloría del Gobierno del Estado y los órganos internos de control de los entes públicos, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en la normatividad correspondiente.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+
+El Órgano Superior de Fiscalización, la secretaría del Ejecutivo Estatal responsable del control interno y los órganos internos de control de los entes públicos, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en la normatividad correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -2739,57 +2749,13 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los órdenes de gobierno local y municipal en el Estado de Tabasco, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como para la fiscalización y control de recursos públicos.
 
-Como parte integrante del Sistema Nacional Anticorrupción, el Sistema Estatal deberá coadyuvar al cumplimiento de los principios, bases generales, políticas públicas y procedimientos de coordinación que se establezcan en el marco del Sistema Nacional y la Ley General de la materia.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2017)</small>
+Como parte integrante del Sistema Nacional Anticorrupción, el Sistema Estatal deberá coadyuvar al cumplimiento de los principios, bases generales, políticas públicas y procedimientos de coordinación que se establezcan en el marco del Sistema Nacional y las leyes aplicables en la materia.
 
 ###### ARTICULO 73 Ter.
 
-El Sistema Estatal Anticorrupción se integra por:
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-I. Las y los integrantes del Comité Coordinador; y
-
-II. El Comité de Participación Ciudadana.
-
-El Comité Coordinador se formará con:
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-I. Una persona que represente al Comité de Participación Ciudadana, misma que lo presidirá;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-II. La persona titular del Órgano Superior de Fiscalización del Estado;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-III. La persona titular de la Fiscalía Especializada en Combate a la Corrupción de la Fiscalía General del Estado;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-IV. La persona titular de la Secretarla de Contraloría del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-V. La persona que presida el Tribunal de Justicia Administrativa del Estado;
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-VI. La persona que presida el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública; y
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
-
-VII. Una persona magistrada representante del Tribunal de Disciplina Judicial.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
-
-El Comité de Participación Ciudadana del Sistema tiene como objetivo coadyuvar, en términos de la ley, al cumplimiento de los objetivos del Comité Coordinador y del Sistema Estatal. Estará formado por cinco personas en total, siendo estas ciudadanas y ciudadanos tabasqueños que se hayan distinguido por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, quienes serán designados conforme a lo que establezca la ley. En todo momento se deberá observar el principio de paridad de género en la integración de ambos Comités.
-
-El Sistema Estatal Anticorrupción contará con una Secretaría Ejecutiva que se organizará y funcionará como un organismo descentralizado, con personalidad jurídica y patrimonio propio, no sectorizado, con autonomía técnica y de gestión.
-
-La Ley del Sistema Estatal Anticorrupción determinará la integración y atribuciones, así como la estructura orgánica y operativa necesaria para el adecuado cumplimiento de sus objetivos y fines, de conformidad con las bases que ordena la Ley General de la materia.
+(DEROGADO, P.O. 19 DE MARZO DE 2025)
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -2807,11 +2773,11 @@ Ninguna persona podrá desempeñar a la vez dos o más cargos de elección popul
 
 Toda persona dedicada al servicio público en el Estado o los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las leyes que de ellas emanen, usándose la forma prevista en el Artículo 58 adaptándola a cada caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 75.
 
-Las personas titulares del Poder Ejecutivo del Estado, de las diputaciones, de las magistraturas de los Tribunales: Superior de Justicia, de Disciplina Judicial, Electoral de Tabasco, de Conciliación y Arbitraje, y de Justicia Administrativa, los miembros del Órgano de Administración Judicial; quienes integran el Instituto Electoral y de Participación Ciudadana de Tabasco y el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, quienes ocupen las regidurías de los Ayuntamientos, y demás personal de servicio público del Estado y de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones, órganos y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será proporcional a sus responsabilidades.
+Las personas titulares del Poder Ejecutivo del Estado, de las diputaciones, de las magistraturas de los Tribunales: Superior de Justicia, de Disciplina Judicial, Electoral de Tabasco, de Conciliación y Arbitraje, y de Justicia Administrativa, los miembros del Órgano de Administración Judicial; quienes integran el Instituto Electoral y de Participación Ciudadana de Tabasco, quienes ocupan las regidurías de los Ayuntamientos, y demás personal de servicio público del Estado y de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones, órganos y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será proporcional a sus responsabilidades.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2911,9 +2877,9 @@ Cuando las licitaciones a que hace referencia al párrafo anterior, no sean idó
 
 El manejo de Recursos Económicos del Estado, de los Municipios y de sus respectivas Administraciones Públicas paraestatales, se sujetarán a las bases de este artículo.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
-Las personas dedicadas al servicio público serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.
+Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -4280,3 +4246,31 @@ No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, tal 
 DÉCIMO.- Para la interpretación y aplicación de este Decreto, los órganos del Estado y toda autoridad jurisdiccional deberán atenerse a su literalidad y no habrá lugar a interpretaciones análogas o extensivas que pretendan inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
 
 DÉCIMO PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 090 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 4 BIS, FRACCIONES V Y VI; 36, FRACCIONES XIX Y XXX; 55, PÁRRAFO OCTAVO, FRACCIÓN I; 63 TER, PÁRRAFO TERCERO; 64, FRACCIÓN XII; 67, PÁRRAFOS CUARTO Y DÉCIMO; 73 BIS, SEGUNDO PÁRRAFO; 75, PRIMER PÁRRAFO; SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 4 BIS; Y UN PÁRRAFO DÉCIMO OCTAVO AL ARTÍCULO 76; Y SE DEROGAN LA FRACCIÓN III DEL PÁRRAFO OCTAVO DEL ARTÍCULO 55; Y EL ARTÍCULO 73 TER; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado, en un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento a este.
+
+Respecto a lo dispuesto en el párrafo décimo octavo del artículo 76 Constitucional del presente Decreto, las adecuaciones legislativas que se realicen deberán considerar la eliminación de los organismos, órganos, unidades administrativas o estructuras que representen duplicidad de funciones, así como su integración en las dependencias de la administración pública centralizada que puedan asumir su competencia.
+
+El Ejecutivo Estatal deberá realizar las gestiones pertinentes a fin de garantizar el cumplimiento cabal del presente Decreto.
+
+TERCERO.- Las economías y ahorros que se generen con la extinción de los entes públicos materia del presente Decreto, se destinarán a programas prioritarios para el Estado en términos de la legislación aplicable.
+
+CUARTO.- Una vez que entre en vigor la legislación secundaria a la que hace referencia el artículo segundo transitorio de este Decreto, se entenderán extintos los entes públicos materia del mismo.
+
+Los actos jurídicos emitidos por los entes públicos con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales. Los instrumentos jurídicos, convenios, acuerdos interinstitucionales o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones de los entes públicos que se extinguen, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos materiales, así como los expedientes, registros, padrones, plataformas y sistemas electrónicos de los entes públicos que se extinguen conforme al presente artículo transitorio, pasarán a formar parte de las dependencias del Ejecutivo Estatal o al ente público que al efecto se designe, en los términos del presente Decreto y de la legislación secundaria que en su oportunidad se emita.
+
+QUINTO.- Los servidores públicos de los entes públicos que se extingan, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor de la legislación a que aluden los artículos segundo y cuarto transitorios, respectivamente, salvo aquellos cuya vigencia de su nombramiento concluya previamente.
+
+Cuando requiera realizarse un nuevo nombramiento para efectos de integrar el quórum de los organismos públicos, la temporalidad de este no podrá exceder en ningún caso a la entrada en vigor de las leyes secundarias.
+
+SEXTO.- Los derechos laborales de las personas servidoras públicas serán respetados en su totalidad, en términos de la legislación aplicable.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
