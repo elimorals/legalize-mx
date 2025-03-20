@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2025-01-06"
+last_updated: "2025-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2025.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -103,6 +103,22 @@ El derecho a la ciudad se garantizará a través de instrumentos que observen la
 
 Toda persona tiene derecho a un buen gobierno, abierto, honesto, transparente, profesional, eficaz, eficiente, incluyente y racional. El Estado promoverá y vigilará este derecho y la ley definirá las bases y mecanismos para su cumplimiento.
 
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2025)</small>
+
+El Estado de México reconoce el derecho al Cuidado Digno como un derecho humano fundamental, entendido como el conjunto de actividades, apoyos y servicios que otorguen los elementos materiales para vivir en sociedad destinados a satisfacer las necesidades básicas de las personas que por razones vinculadas al ciclo de vida, condiciones transitorias o crónicas, o situaciones permanentes, requieren apoyo para garantizar su desarrollo e integración social y orgánica cotidiana.
+
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2025)</small>
+
+Se reconoce el derecho de las personas para decidir el cuidar a quien lo requiera, y el derecho para decidir la distribución del tiempo propio acorde a sus necesidades e intereses procurando condiciones de igualdad sustantiva entre hombres y mujeres. Las personas cuidadoras, cuya labor es esencial para el bienestar colectivo, así como para el mantenimiento de la dinámica de trabajo y las fuerzas productivas, incluyendo aquellas que realizan actividades de mantenimiento y apoyo doméstico tendrán derecho a una remuneración y seguridad social en los términos y bases que fije la ley, por sus tareas de cuidado, con énfasis en la revalorización de esta labor cuando la realicen mujeres.
+
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2025)</small>
+
+El Estado establecerá el Sistema de Cuidados del Estado de México que coordine la prestación de servicios públicos universales, accesibles, pertinentes, suficientes, de calidad y desarrolle políticas públicas de cuidados, en el ámbito Estatal y Municipal en los términos que establezca la ley, basado en los principios de progresividad, universalidad, calidad, igualdad, accesibilidad y corresponsabilidad entre hombres y mujeres, que atenderá las particularidades de cada grupo poblacional, respetando su dignidad y autonomía, en coordinación con la sociedad civil organizada y el sector privado, de conformidad con las obligaciones internacionales en materia de derechos humanos. El sistema atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, vulnerabilidad, ciclo vital, especialmente en la infancia y la vejez, y a quienes, de manera no remunerada, están a cargo de su cuidado.
+
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2025)</small>
+
+Toda persona tiene derecho a elegir de forma libre la distribución del tiempo propio y para el autocuidado, que le permita decidir y ejercer la forma de vida que convenga a sus intereses, necesidades y voluntades. La ley establecerá las bases y modalidades que definan la competencia del estado y los municipios en la promoción, protección y ejercicio de este derecho.
+
 > <small>(ADICIONADO, G.G. 9 DE FEBRERO DE 2024)</small>
 
 Los entes públicos del Estado garantizarán el derecho humano a una vida libre de violencia a las infancias, adolescencias y mujeres, tanto en el ámbito público como en el privado; debiendo observar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica, respeto a la dignidad humana de las mujeres, la no discriminación, la libertad y el desarrollo integral, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
@@ -111,9 +127,9 @@ Los entes públicos del Estado garantizarán el derecho humano a una vida libre 
 
 El Estado promoverá políticas públicas inclusivas, que mejoren el bienestar, eleven la calidad de vida, y consoliden la justicia social; para erradicar cualquier práctica discriminatoria que someta o limite el acceso a los derechos sociales y la dignidad humana en la Entidad.
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 20 DE MARZO DE 2025)</small>
 
-El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad. Bajo el principio de igualdad consagrado en este precepto, debe considerarse la equidad entre hombre y mujer, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona, por consiguiente las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen.
+El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad. Bajo el principio de igualdad consagrado en este precepto, debe considerarse la equidad entre hombre y mujer, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona, por consiguiente, las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen. El Estado promoverá la corresponsabilidad entre mujeres y hombres, las familias, la comunidad, el sector laboral y el propio Estado en las actividades de cuidado.
 
 > <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
@@ -5476,3 +5492,13 @@ Se dejan sin efecto las convocatorias para ocupar las plazas vacantes de jueces 
 Se dejan sin efecto los lineamientos para el registro de aspirantes y elección de la Presidencia del Tribunal Superior de Justicia del Estado de México aprobados por el Pleno del Tribunal Superior de Justicia en fecha 15 de noviembre de 2024.
 
 DÉCIMO SEXTO. El Instituto Electoral del Estado de México podrá solicitar una ampliación al presupuesto que le haya sido autorizado para el ejercicio 2025, a efecto de que cuente con los recursos necesarios para la organización, desarrollo, seguimiento, cómputo y vigilancia del proceso electoral extraordinario del año 2025.
+
+G.G. 20 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 99.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMA EL ACTUAL PÁRRAFO DÉCIMO Y SE ADICIONAN LOS PÁRRAFOS OCTAVO, NOVENO, DÉCIMO Y DÉCIMO PRIMERO, RECORRIENDO LOS SUBSECUENTES, DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Congreso del Estado Libre y Soberano de México deberá realizar la armonización legislativa correspondiente en un periodo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
