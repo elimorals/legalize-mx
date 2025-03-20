@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2024-10-09"
+last_updated: "2025-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -143,9 +143,9 @@ Los Ayuntamientos deberán tomar posesión el día 30 del mes de septiembre del 
 
 Los Ayuntamientos se integran de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
 
-I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con una persona titular de la Presidencia, una persona titular de la Sindicatura, nueve personas Regidoras electas según el principio de mayoría relativa y seis personas Regidoras electas según el principio de representación proporcional.
+I. En los Municipios de Othón P. Blanco, Benito Juárez y Playa del Carmen, con una persona titular de la Presidencia, una persona titular de la Sindicatura, nueve personas Regidoras electas según el principio de mayoría relativa y seis personas Regidoras electas según el principio de representación proporcional.
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -211,11 +211,11 @@ De la División Territorial, Administrativa y Política.
 
 ### Capítulo I. De la división territorial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 12.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum, Bacalar y Puerto Morelos.
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Playa del Carmen, Tulum, Bacalar y Puerto Morelos.
 
 La extensión, límites y cabecera de cada Municipio, serán los señalados en la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
@@ -4130,3 +4130,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido por el presente Decreto.
 
 TERCERO. En el ámbito de sus respectivas competencias, atribuciones y facultades, los Ayuntamientos del Estado, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, deberán adecuar las disposiciones normativas reglamentarias que corresponda, a efecto de posibilitar el cumplimiento de lo establecido por el presente Decreto.
+
+P.O. 20 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 108 POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 8 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa entrada en vigor del Decreto por el que se reforman los artículos 127; 128 fracciones V, VIII primer párrafo, XI fuentes 28, 29 y 30 de la tabla y último párrafo; 134 fracción I; y 135 fracción I de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. El decreto número 19, de la VII Legislatura del Estado, publicado en el Periódico Oficial del Estado de Quintana Roo el 28 de julio del año 1993, por el cual fue creado el Municipio de Solidaridad se entenderá como aplicable al Municipio de "Playa del Carmen", reconociéndose únicamente la modificación de su denominación oficial, dado que no se altera la naturaleza del municipio ni sus límites.
+
+Asimismo, la Alcaldía de Puerto Aventuras permanecerá como parte integrante del Municipio de Playa del Carmen, con las mismas atribuciones y funciones que actualmente le corresponden.
+
+Los documentos como actas de nacimiento, escrituras, licencias de funcionamiento, registros catastrales, permisos municipales y cualquier otro documento oficial expedido dentro del ámbito de competencia municipal, seguirán siendo plenamente válidos y reconocidos por todas las autoridades sin necesidad de trámite adicional, y toda referencia en ellos señalada al Municipio de Solidaridad se entenderán realizadas al Municipio de Playa del Carmen.
+
+Asimismo, ningún trámite podrá ser condicionado a la expedición de documentos con la nueva denominación del Municipio, ni se impondrán requisitos extraordinarios en trámites administrativos derivados de este cambio de denominación.
+
+NOVENO. El Ayuntamiento del Municipio de Playa del. Carmen deberá realizar las acciones jurídicas y administrativas necesarias a fin de actualizar gradualmente la papelería oficial, señalética, registros administrativos y cualquier otro documento o medio en el que se haga referencia al nombre anterior del Municipio. Esta actualización deberá llevarse bajo la disponibilidad presupuestaria, en el marco de los procesos de renovación habituales y asegurando la continuidad de los servicios municipales.
+
+DÉCIMO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
