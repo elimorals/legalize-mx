@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-transparencia-y-acceso-a-la-informacion-107606"
 country: "mx"
 rank: "ley_general"
 publication_date: "2015-05-04"
-last_updated: "2021-05-20"
+last_updated: "2025-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107606&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGTAIP"
 ---
 # LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADA EN EL D.O.F. DE 20 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 4 de mayo de 2015.
 
@@ -2535,3 +2537,85 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 20 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el transitorio Tercero de este instrumento.
+
+Segundo.- A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
+
+I. La Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el Diario Oficial de la Federación el 5 de julio de 2010;
+
+II. La Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 4 de mayo de 2015 y sus modificaciones posteriores;
+
+III. La Ley Federal de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 9 de mayo de 2016 y sus modificaciones posteriores;
+
+IV. La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, publicada en el Diario Oficial de la Federación el 26 de enero de 2017, y
+
+V. El Acuerdo mediante el cual se aprueba el Programa Anual de Verificación y Acompañamiento Institucional para el cumplimiento de las obligaciones en materia de acceso a la información y transparencia por parte de los sujetos obligados del ámbito federal, correspondiente al ejercicio 2025, publicado en el Diario Oficial de la Federación el 21 de enero de 2025.
+
+Tercero.- Los artículos 71 y 72 de la Ley General de Transparencia y Acceso a la Información Pública entrarán en vigor cuando se extingan la Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones conforme a lo previsto en los transitorios Décimo y Décimo Primero del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica”, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024.
+
+Para efectos del párrafo anterior, la Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones deberán poner a disposición del público y actualizar la información a que se refiere el artículo 72, fracciones II y V, respectivamente, de la Ley Federal de Transparencia y Acceso a la Información Pública que se abroga por virtud del presente Decreto.
+
+Cuarto.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+Quinto.- Los derechos laborales de las personas servidoras públicas del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, serán respetados, en términos de la legislación aplicable. Los recursos humanos con que cuente el referido Instituto pasarán a formar parte de la Secretaría Anticorrupción y Buen Gobierno y Transparencia para el Pueblo.
+
+El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales transferirá los recursos correspondientes al valor del inventario o plantilla de plazas a la Secretaría de Hacienda y Crédito Público, dentro de los veinte días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+Las personas servidoras públicas del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría Anticorrupción y Buen Gobierno habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública Federal. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la Secretaría Anticorrupción y Buen Gobierno designe y conforme a la normativa aplicable a la Administración Pública Federal, en los sistemas de la referida dependencia habilitados para tales efectos o en los medios que ésta determine, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+Sexto.- Los recursos materiales con que cuente el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Séptimo.- El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales transferirá los recursos financieros a la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá entregar a la citada dependencia la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al primer trimestre, de conformidad con las disposiciones jurídicas aplicables, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Octavo.- Los registros, padrones y sistemas, internos y externos, que integran la Plataforma Nacional de Transparencia con los que cuenta el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los quince días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Noveno.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información pública, se sustanciarán ante Transparencia para el Pueblo conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información pública, se llevará a cabo por Transparencia para el Pueblo.
+
+Transparencia para el Pueblo podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+Décimo.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Secretaría Anticorrupción y Buen Gobierno a que se refiere este Decreto.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevará a cabo por la Secretaría Anticorrupción y Buen Gobierno.
+
+La Secretaría Anticorrupción y Buen Gobierno podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+Décimo Primero.- Los municipios podrán cumplir con las obligaciones a su cargo en materia de transparencia y acceso a la información, en términos de lo previsto en el transitorio Décimo de la Ley General de Transparencia y Acceso a la Información Pública que se abroga por virtud de este Decreto.
+
+Décimo Segundo.- La persona titular del Ejecutivo Federal deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interior de Transparencia para el Pueblo, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+Décimo Tercero.- Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Secretaría Anticorrupción y Buen Gobierno, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+Décimo Cuarto.- El Órgano Interno de Control del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Décimo Quinto.- Para efectos de lo dispuesto en los transitorios Quinto, Sexto, Séptimo, Octavo y Décimo Tercero del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios.
+
+El Comité de Transferencia estará vigente por un periodo de 30 días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+Décimo Sexto.- El Consejo del Sistema Nacional de Acceso a la Información Pública deberá instalarse a más tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno.
+
+Hasta en tanto las legislaturas de las entidades federativas que correspondan armonizan su marco jurídico en materia de acceso a la información pública en términos de lo previsto en el transitorio Cuarto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024, la persona titular del poder ejecutivo local de que se trate será integrante del Consejo del Sistema Nacional de Acceso a la Información Pública.
+
+Décimo Séptimo.- La persona titular de la Secretaría Ejecutiva del Consejo del Sistema Nacional de Acceso a la Información Pública propondrá las reglas de operación y funcionamiento que se señalan en el artículo 25, fracción XV, de la Ley General de Transparencia y Acceso a la Información Pública, para que sean aprobadas en la instalación de dicho Consejo.
+
+Décimo Octavo.- El órgano de control y disciplina del Poder Judicial; los órganos internos de control de los órganos constitucionales autónomos; las contralorías internas del Congreso de la Unión; el Instituto Nacional Electoral; el Centro Federal de Conciliación y Registro Laboral y el Tribunal Federal de Conciliación y Arbitraje en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
+
+Décimo Noveno.- Hasta en tanto las legislaturas de las entidades federativas, emitan legislación para armonizar su marco jurídico conforme al presente Decreto, los organismos garantes de las mismas continuarán operando y realizarán las atribuciones que le son conferidas a las Autoridades garantes locales, así como a los órganos encargados de la contraloría interna u homólogos de los poderes legislativo y judicial, así como los órganos constitucionales autónomos de las propias entidades federativas en la presente Ley.
+
+Vigésimo.- El Poder Judicial de la Federación deberá habilitar juzgados de Distrito y tribunales Colegiados de Circuito especializados en materia de acceso a la información pública y protección de datos personales, en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, a los cuales se remitirán los juicios de amparo en dichas materias que se encuentran en trámite para su resolución.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este Decreto los plazos y términos procesales de los juicios de amparo en materia de acceso a la información pública y protección de datos personales que se encuentran en trámite ante juzgados de Distrito y tribunales Colegiados de Circuito.
