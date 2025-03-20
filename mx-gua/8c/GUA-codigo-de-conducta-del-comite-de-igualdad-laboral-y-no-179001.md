@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-del-comite-de-igualdad-laboral-y-no-179001"
 country: "mx"
 rank: "codigo"
 publication_date: "2025-03-14"
-last_updated: "2025-03-14"
+last_updated: "2025-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # CODIGO DE CONDUCTA DEL COMITE DE IGUALDAD LABORAL Y NO DISCRIMINACION DEL GOBIERNO DE LA GENTE, GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2025 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE CONDUCTA DEL COMITÉ DE IGUALDAD LABORAL Y NO DISCRIMINACIÓN DEL GOBIERNO DE LA GENTE
 
 TEXTO ORIGINAL.
 
-Código publicado en la Tercera Parte del Número 53 del Periódico Oficial del Estado de Guanajuato, el viernes 14 de marzo de 2025.
+Código publicado en la Tercera Parte del Número 53 del Periódico Oficial del Estado de Guanajuato, el viernes 14 de marzo de 2025. (REPUBLICADO EN EL P.O. 20 DE MARZO DE 2025).
 
 LIBIA DENNISE GARCÍA MUÑOZ LEDO, Gobernadora Constitucional del Estado de Guanajuato y Presidenta del Comité de Igualdad Laboral y No Discriminación del Gobierno de la Gente, con fundamento en lo dispuesto en la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación; y de conformidad con el Acta de instalación del Comité de Igualdad Laboral y No Discriminación del Estado de Guanajuato de fecha 13 de septiembre de 2016.
 
@@ -158,3 +160,23 @@ LIBIA DENNISE GARCÍA MUÑOZ LEDO
 EL SECRETARIO DE GOBIERNO
 
 JORGE DANIEL JIMÉNEZ LONA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GUBERNATIVO NÚMERO 23 MEDIANTE EL CUAL SE EXPIDEN LOS LINEAMIENTOS DE OPERACIÓN DEL COMITÉ DE IGUALDAD Y NO DISCRIMINACIÓN DEL GOBIERNO DE LA GENTE Y EL CÓDIGO DE CONDUCTA DEL COMITÉ DE IGUALDAD LABORAL Y NO DISCRIMINACIÓN DEL GOBIERNO DE LA GENTE”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abrogan los Lineamientos de Operación del Comité de Igualdad Laboral y No Discriminación del Gobierno del Estado de Guanajuato publicados el 25 de marzo de 2021 en la página electrónica del Instituto para las Mujeres Guanajuatenses.
+
+Asimismo, se abroga el Código de Conducta del Comité de Igualdad Laboral y No Discriminación del Gobierno del Estado de Guanajuato que entró en vigor el 11 de agosto de 2021.
+
+Difusión
+
+Artículo Tercero. El Instituto para las Mujeres Guanajuatenses difundirá el presente Acuerdo en su página electrónica.
