@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-consejo-de-la-judicatura-del-poder-8135
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-18"
-last_updated: "2021-03-02"
+last_updated: "2025-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE MARZO DE 2025.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 18 de mayo de 2011.
 
@@ -61,19 +61,25 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. Acuerdo General: Pronunciamiento formal que contiene disposiciones de observancia general, que emite el Pleno del Consejo de la Judicatura;
 
-II. Consejero (s): Consejero(s) de la Judicatura del Poder Judicial del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Persona consejera: Consejeros y Consejeras de la Judicatura del Poder Judicial del Estado de Yucatán;
 
 III. Consejo: Consejo de la Judicatura del Poder Judicial del Estado de Yucatán.
 
 IV. Constitución Estatal: Constitución Política del Estado de Yucatán;
 
-V. Comisión: Encomienda que otorga el Pleno del Consejo de la Judicatura a uno o más consejeros para que realicen una o varias funciones especificas.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Comisión: Encomienda que otorga el Pleno del Consejo de la Judicatura a una o más personas consejeras para que realicen una o varias funciones específicas.
 
 VI. Fondo Auxiliar: Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán;
 
 VII. Juzgados: Juzgados de primera instancia del Poder Judicial del Estado de Yucatán;
 
-VIII. Juez: Juez de primera instancia del Poder Judicial del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VIII. Persona juzgadora: Juez o Jueza de primera instancia del Poder Judicial del Estado de Yucatán;
 
 > <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
 
@@ -83,9 +89,13 @@ X. Ley Orgánica: Ley Orgánica del Poder Judicial del Estado de Yucatán;
 
 XI. Pleno del Consejo: Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Yucatán;
 
-XII. Presidente: Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-XIII. Presidente de la Comisión: Consejero designado por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Yucatán, para encabezar una Comisión;
+XII. Persona Presidenta: Presidente o Presidenta del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XIII. Persona Presidenta de la Comisión: Consejero o Consejera designada por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Yucatán, para encabezar una Comisión;
 
 XIV. Poder Judicial: Poder Judicial del Estado de Yucatán;
 
@@ -117,7 +127,9 @@ Funcionamiento
 
 El Consejo funcionará en Pleno y en Comisiones.
 
-El Pleno del Consejo es el órgano máximo de decisión del Consejo, y estará integrado por el Presidente y cuatro consejeros, en los términos establecidos en la Ley Orgánica.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+El Pleno del Consejo es el órgano máximo de decisión del Consejo, y estará integrado por la persona Presidenta y cuatro personas consejeras, en los términos establecidos en la Ley Orgánica.
 
 Integración General
 
@@ -129,11 +141,17 @@ l. El Pleno,
 
 II. Las Comisiones,
 
-III. El Presidente,
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-IV. Los Consejeros,
+III. La persona Presidenta,
 
-V. La Secretaria Ejecutiva y
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IV. Las personas Consejeras,
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. La Secretaría Ejecutiva y
 
 > <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
@@ -147,7 +165,9 @@ Archivos de trámite
 
 Cada órgano jurisdiccional, área administrativa, organismo descentralizado y órgano desconcentrado del Consejo contará con un archivo de trámite que estará integrado por documentos de archivo de uso cotidiano y necesario para el ejercicio de las atribuciones y funciones del órgano o área.
 
-Los responsables de los archivos de trámite serán designados de entre el personal adscrito al órgano jurisdiccional, área administrativa organismo descentralizado u órgano desconcentrado y deberán contar con licenciatura en áreas afines o tener conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad; de no ser así, los titulares de los órganos jurisdiccionales y áreas administrativas tendrán la obligación de establecer las condiciones que permitan la capacitación de los responsables para el buen funcionamiento de sus archivos.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Las personas responsables de los archivos de trámite serán designadas de entre el personal adscrito al órgano jurisdiccional, área administrativa, organismo descentralizado u órgano desconcentrado y deberán contar con licenciatura en áreas afines o tener conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad; de no ser así, las personas titulares de los órganos jurisdiccionales y áreas administrativas tendrán la obligación de establecer las condiciones que permitan la capacitación de las personas responsables, para el buen funcionamiento de sus archivos.
 
 Atribuciones
 
@@ -155,7 +175,9 @@ Atribuciones
 
 El Pleno del Consejo, además de las atribuciones establecidas en el artículo 115 de la Ley Orgánica, tendrá las siguientes:
 
-I. Fijar el catálogo de puestos de los servidores públicos del ámbito de competencia del Consejo, así como la remuneración de los mismos;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+I. Fijar el catálogo de puestos de las personas servidoras públicas del ámbito de competencia del Consejo, así como la remuneración de los mismos;
 
 II. Fijar las directrices para la elaboración del Anteproyecto de Presupuesto del Consejo;
 
@@ -163,19 +185,27 @@ III. Fijar las directrices para la ejecución del Presupuesto del Consejo;
 
 IV. Determinar el establecimiento de Oficinas Regionales del Centro Estatal de Solución de Controversias, en el interior del Estado;
 
-V. Resolver sobre las ausencias o licencias de los consejeros;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Resolver sobre las ausencias o licencias de las personas consejeras;
 
 VI. Asignar a las comisiones la atención de los asuntos de su competencia;
 
-VII. Calificar las excusas o recusaciones de los consejeros;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-VIII. Resolver sobre las renuncias de los Jueces y demás servidores públicos del Poder Judicial del ámbito de competencia del Consejo;
+VII. Calificar las excusas o recusaciones de las personas consejeras;
 
-> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-IX. Acordar la imposición de sanciones de los servidores públicos sometidos a un procedimiento de responsabilidad administrativa, cuando así proceda y de conformidad con la Ley de Responsabilidades;
+VIII. Resolver sobre las renuncias de las personas juzgadoras y demás personas servidoras públicas del Poder Judicial del ámbito de competencia del Consejo;
 
-X. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IX. Acordar la imposición de sanciones de las personas servidoras públicas sometidas a un procedimiento de responsabilidad administrativa, cuando así proceda y de conformidad con la Ley de Responsabilidades;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+X. Otorgar estímulos y recompensas a las personas servidoras públicas del Poder Judicial que se hayan destacado en el desempeño de su cargo;
 
 > <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
 
@@ -189,21 +219,27 @@ XIV. Las demás que le confiera la Ley Orgánica, este Reglamento y los acuerdos
 
 Toma de Decisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 9.
 
-Para que sesione válidamente el Consejo de la Judicatura en Pleno, se requiere la asistencia de cuando menos cuatro consejeros, entre los cuales se considera al Presidente del Consejo.
+Para que sesione válidamente el Consejo de la Judicatura en Pleno, se requiere la asistencia de cuando menos cuatro personas consejeras, entre las cuales se considera a la persona Presidenta del Consejo.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Validez de las Sesiones
 
 ###### Artículo 10.
 
-Las sesiones del Pleno serán presididas por el Presidente o quien legalmente lo sustituya, por lo que no podrá celebrarse sesión alguna sin que esté presente.
+Las sesiones del Pleno serán presididas por la persona Presidenta o por quien legalmente la sustituya, por lo que no podrá celebrarse sesión alguna sin que esté presente.
 
-Forma de participación de otros Servidores Públicos en las Sesiones
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Forma de participación de otras personas servidoras públicas en las Sesiones
 
 ###### Artículo 11.
 
-Cuando el Pleno del Consejo lo estime necesario, podrán participar en las sesiones, con derecho a voz pero sin voto, los titulares de las direcciones, unidades, órganos técnicos y desconcentrados, y organismos descentralizados que conforman el Consejo, así como terceras personas, para que aporten la información que se requiera, previo citatorio.
+Cuando el Pleno del Consejo lo estime necesario, podrán participar en las sesiones, con derecho a voz pero sin voto, las personas titulares de las direcciones, unidades, órganos técnicos y desconcentrados, y organismos descentralizados que conforman el Consejo, así como terceras personas, para que aporten la información que se requiera, previo citatorio.
 
 Tipo de Sesiones
 
@@ -211,45 +247,57 @@ Tipo de Sesiones
 
 Las sesiones del Pleno serán ordinarias, extraordinarias y solemnes, estas a su vez serán públicas, salvo los casos en que por la naturaleza del asunto, se requiera que sean privadas, cuando así lo exija la moral o el interés público, por acuerdo del propio Pleno del Consejo.
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Celebración de las Sesiones Ordinarias y Extraordinarias
 
 ###### Artículo 13.
 
-El Pleno del Consejo sesionará de forma ordinaria en la primera quincena del mes y en forma extraordinaria, cuantas veces sea convocado por su Presidente o a solicitud de dos consejeros para resolver asuntos urgentes en los que no pueda esperarse a la celebración de la sesión ordinaria.
+El Pleno del Consejo sesionará de forma ordinaria en la primera quincena del mes y en forma extraordinaria, cuantas veces sea convocado por la persona Presidenta o a solicitud de dos personas consejeras para resolver asuntos urgentes, en los que no pueda esperarse a la celebración de la sesión ordinaria.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Celebración de las Sesiones Solemnes
 
 ###### Artículo 14.
 
-Las sesiones solemnes son aquellas que determine el Pleno del Consejo o aquellas en las que por el tipo de asunto deban estar presentes los representantes de los poderes del Estado.
+Las sesiones solemnes son aquellas que determine el Pleno del Consejo o aquellas en las que por el tipo de asunto deban estar presentes las personas representantes de los poderes del Estado.
 
-Ausencia del Presidente en las Sesiones del Pleno
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Ausencia de la persona Presidenta en las Sesiones del Pleno
 
 ###### Artículo 15.
 
-En caso de que el Presidente deba ausentarse momentáneamente, se declarará un receso y se reanudará la sesión, hasta que éste se reincorpore.
+En caso de que la persona Presidenta deba ausentarse momentáneamente, se declarará un receso y se reanudará la sesión, hasta que ésta se reincorpore.
 
-En caso de que la ausencia del Presidente sea definitiva, la sesión se suspenderá y se citará para reanudarla dentro de las veinticuatro horas siguientes o para el siguiente día hábil.
+En caso de que la ausencia de la persona Presidenta sea definitiva, la sesión se suspenderá y se citará para reanudarla dentro de las veinticuatro horas siguientes o para el siguiente día hábil.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Orden del Día
 
 ###### Artículo 16.
 
-El proyecto de orden del día será elaborado por el Presidente, con el apoyo del Secretario Ejecutivo, y deberá ser aprobado por los consejeros presentes al inicio de la sesión.
+El proyecto de orden del día será elaborado por la persona Presidenta, con el apoyo de la Secretaría Ejecutiva, y deberá ser aprobado por las personas consejeras presentes al inicio de la sesión.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Convocatoria
 
 ###### Artículo 17.
 
-Las sesiones serán convocadas por el Presidente. En la convocatoria se deberá indicar el lugar, fecha y hora en que la sesión se desarrollará, contener el orden del día con los asuntos a desahogar e indicar el carácter de la sesión.
+Las sesiones serán convocadas por la persona Presidenta. En la convocatoria se deberá indicar el lugar, fecha y hora en que la sesión se desarrollará, contener el orden del día con los asuntos a desahogar e indicar el carácter de la sesión.
 
-Dicha convocatoria deberá ser distribuida por el Secretario Ejecutivo entre los consejeros y se acompañará los documentos y anexos necesarios para su análisis, a fin de que los integrantes del Pleno cuenten con información suficiente y oportuna del mismo.
+Dicha convocatoria deberá ser distribuida por la Secretaría Ejecutiva entre las personas consejeras y se acompañará los documentos y anexos necesarios para su análisis, a fin de que las personas integrantes del Pleno cuenten con información suficiente y oportuna.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Solicitud de inclusión de asuntos
 
 ###### Artículo 18.
 
-Cualquier Consejero, comisión, titulares de dirección, unidad, órgano técnico o desconcentrado u organismo descentralizado del Consejo, podrá solicitar por escrito debidamente signado a la Secretaría Ejecutiva, con la oportunidad debida, la inclusión de los asuntos que deban desahogarse en el orden del día, acompañando a su solicitud, los documentos necesarios para su análisis.
+Cualquier persona Consejera, comisión, titulares de dirección, unidad, órgano técnico o desconcentrado u organismo descentralizado del Consejo, podrá solicitar por escrito debidamente signado a la Secretaría Ejecutiva, con la oportunidad debida, la inclusión de los asuntos que deban desahogarse en el orden del día, acompañando a su solicitud, los documentos necesarios para su análisis.
 
 Acta de la Sesión del Pleno
 
@@ -269,13 +317,19 @@ V. Una relación sucinta y clara de los asuntos tratados, en el orden en que se 
 
 VI. La relación de asuntos que fueron retirados o aplazados;
 
-VII. Las intervenciones de los consejeros y el sentido de su voto;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-VIII. Aquellas cuestiones que los consejeros hayan solicitado expresamente, y
+VII. Las intervenciones de las personas consejeras y el sentido de su voto;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VIII. Aquellas cuestiones que las personas consejeras hayan solicitado expresamente, y
 
 IX. Las constancias integradas como anexos al acta, para formar parte de la misma, y todos aquellos documentos vinculados con los puntos tratados.
 
-Las actas deberán ser firmadas por todos los consejeros que estuvieron presentes en la sesión de que se trate y por el Secretario Ejecutivo que dará fe previa aprobación de las mismas.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Las actas deberán ser firmadas por todas las personas consejeras que estuvieron presentes en la sesión de que se trate y por la persona titular de la Secretaría Ejecutiva, que dará fe, previa aprobación de las mismas.
 
 Desarrollo de la Sesión del Pleno
 
@@ -283,11 +337,17 @@ Desarrollo de la Sesión del Pleno
 
 Las sesiones del Pleno del Consejo se desarrollarán conforme a lo siguiente:
 
-l. Pase de lista de asistencia por el Secretario Ejecutivo;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. Declaración de la existencia del quórum, por el Presidente;
+I. Pase de lista de asistencia por la persona titular de la Secretaría Ejecutiva;
 
-III. Lectura del orden del día, por el Secretario Ejecutivo;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Declaración de la existencia del quórum, por la persona Presidenta;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Lectura del orden del día, por la persona titular de la Secretaría Ejecutiva;
 
 IV. Aprobación o en su caso modificación del acta de la sesión anterior;
 
@@ -305,15 +365,17 @@ Desahogo de los Asuntos del Orden del Día
 
 El desahogo de los asuntos del orden del día se desarrollará conforme a lo siguiente:
 
-I. El Presidente presentará el asunto a los consejeros haciendo mención de las constancias o documentos que lo sustentan;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+I. La persona Presidenta presentará el asunto a las personas consejeras haciendo mención de las constancias o documentos que lo sustentan;
 
-II. El Presidente abrirá el asunto a discusión, concediendo el uso de la palabra a los Consejeros que lo soliciten;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-III. Concluida la intervención de los consejeros que hayan solicitado el uso de la palabra, el Presidente preguntará si el punto está suficientemente discutido; en caso afirmativo se procederá a la votación. En caso negativo se abrirá una segunda ronda de intervenciones;
+II. La persona Presidenta abrirá el asunto a discusión, concediendo el uso de la palabra a las personas Consejeras que lo soliciten;
 
-Concluida la segunda ronda, el Presidente declarará el asunto como suficientemente discutido y procederá a la votación;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Concluida la intervención de las personas consejeras que hayan solicitado el uso de la palabra, la persona Presidenta preguntará si el punto está suficientemente discutido; en caso afirmativo, se procederá a la votación. En caso negativo, se abrirá una segunda ronda de intervenciones; concluida la segunda ronda, la persona Presidenta declarará el asunto como suficientemente discutido y procederá a la votación;
 
 IV. Realizada la votación se declarará si el asunto ha sido aprobado o no aprobado;
 
@@ -321,25 +383,31 @@ V. En caso de haber voto particular, se dejará constancia de ello en el acta, y
 
 VI. Tomado el acuerdo de aprobación o no aprobación, se desahogará el siguiente asunto del orden del día, de la misma manera.
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Voto Particular
 
 ###### Artículo 22.
 
-En el caso que algún Consejero disintiera de la mayoría, si así lo considera, podrá presentar su voto particular por escrito, en un plazo de tres días hábiles siguientes a la fecha de haberse aprobado el acuerdo; el cual deberá versar sobre los puntos de disidencia que hayan sido discutidos en la sesión correspondiente, debiéndose acumular al acta respectiva, para que forme parte de la misma.
+En el caso que alguna persona Consejera disintiera de la mayoría, si así lo considera, podrá presentar su voto particular por escrito, en un plazo de tres días hábiles siguientes a la fecha de haberse aprobado el acuerdo; el cual deberá versar sobre los puntos de disidencia que hayan sido discutidos en la sesión correspondiente, debiéndose acumular al acta respectiva, para que forme parte de la misma.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Reglas en los Debates
 
 ###### Artículo 23.
 
-En la discusión de los asuntos, los integrantes del Pleno del Consejo se abstendrán de entablar polémicas o debates irrelevantes con otro miembro del mismo, así como realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día, que en su caso se discutan.
+En la discusión de los asuntos, las personas integrantes del Pleno del Consejo se abstendrán de entablar polémicas o debates irrelevantes con otro miembro del mismo, así como realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día, que en su caso se discutan.
 
-En dicho supuesto, el Presidente podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en este artículo.
+En dicho supuesto, la persona Presidenta podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en este artículo.
 
 Medidas para garantizar el orden de las Sesiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 24.
 
-Para garantizar el orden en las sesiones públicas, el Presidente podrá tomar las siguientes medidas:
+Para garantizar el orden en las sesiones públicas, la persona Presidenta podrá tomar las siguientes medidas:
 
 l. Exhortar a guardar el orden y
 
@@ -349,17 +417,21 @@ La persona que no sea integrante del Pleno del Consejo y se resista a cumplir la
 
 Los Acuerdos y Resoluciones del Pleno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 25.
 
-Las resoluciones o acuerdos del Pleno del Consejo se tomarán por unanimidad o por mayoría de votos de los consejeros presentes.
+Las resoluciones o acuerdos del Pleno del Consejo se tomarán por unanimidad o por mayoría de votos de las personas consejeras presentes.
 
 El resultado y sentido de la votación se hará constar en el acta respectiva que al efecto expida la Secretaría Ejecutiva, y no podrá ser modificado posteriormente a la sesión.
 
 Impedimentos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 26.
 
-Los consejeros estarán impedidos legalmente para votar los acuerdos y resoluciones del Pleno del Consejo, y consecuentemente deberán excusarse para conocer del mismo, en los siguientes casos:
+Las personas consejeras estarán impedidas legalmente para votar los acuerdos y resoluciones del Pleno del Consejo, y consecuentemente deberán excusarse para conocer del mismo, en los siguientes casos:
 
 l. Tengan interés personal directo o indirecto en el asunto;
 
@@ -369,53 +441,83 @@ III. Tener vínculo matrimonial o situación de hecho con alguna de las partes q
 
 IV. Haber ocupado cargo público, desempeñado empleo o ejercido profesión con ocasión de los cuales haya participado directa o indirectamente en el asunto objeto de la votación, o en otro asunto relacionado con el mismo;
 
-V. Estar o haber sido denunciado o acusado por alguna de las partes que intervengan en el asunto que se esté resolviendo, como responsable de algún delito o falta;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-VI. Haber sido sancionado disciplinariamente en virtud de expediente incoado por denuncia o a iniciativa de alguna de las partes que intervengan en el asunto que se esté resolviendo, y
+V. Ser o haber sido objeto de denuncia o acusación por alguna de las partes que intervengan en el asunto que se esté resolviendo, como responsable de algún delito o falta;
 
-VII. Haber sido defensor o representante de alguna de las partes que intervengan en el asunto que se esté resolviendo.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Haber sido sancionado o sancionada disciplinariamente en virtud de expediente incoado por denuncia o a iniciativa de alguna de las partes que intervengan en el asunto que se esté resolviendo, y
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VII. Haber sido defensor o defensora, o bien, representante de alguna de las partes que intervengan en el asunto que se esté resolviendo.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Difusión de los Acuerdos Generales y Reglamentos
 
 ###### Artículo 27.
 
-El Pleno del Consejo ordenará al Secretario Ejecutivo el envío de los acuerdos generales, reglamentos y resoluciones que por virtud de lo dispuesto en las leyes y normas correspondientes, deban hacerse públicos en el Diario Oficial del Gobierno del Estado de Yucatán, en la página electrónica del Poder Judicial y, de ser el caso, en los periódicos de mayor publicación en la entidad.
+El Pleno del Consejo ordenará a la Secretaría Ejecutiva el envío de los acuerdos generales, reglamentos y resoluciones que por virtud de lo dispuesto en las leyes y normas correspondientes, deban hacerse públicos en el Diario Oficial del Gobierno del Estado de Yucatán, en la página electrónica del Poder Judicial y, de ser el caso, en los periódicos de mayor publicación en la entidad.
 
-### CAPÍTULO II. Del Consejero Presidente
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
+
+### CAPÍTULO II. De la persona Consejera Presidenta
 
 Facultades y Obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 28.
 
-El Presidente, además de las establecidas en el artículo 116 de la Ley Orgánica, tendrá las facultades y obligaciones siguientes:
+La persona Presidenta, además de las establecidas en el artículo 116 de la Ley Orgánica, tendrá las facultades y obligaciones siguientes:
 
-I. Designar a un Consejero, como ponente, para que analice un asunto dudoso o trascendental a la consideración del Pleno, a fin de que éste determine lo que corresponda;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. Informar a la autoridad que corresponda, con dos meses de antelación a la terminación del cargo del Consejero que se trate, a efecto de resolver sobre la ratificación o no del mismo;
+I. Designar a una persona consejera, como ponente, para que analice un asunto dudoso o trascendental a la consideración del Pleno, a fin de que éste determine lo que corresponda;
 
-III. Informar a la autoridad que corresponda, sobre la ausencia definitiva del Consejero que se trate, a efecto de realizar un nuevo nombramiento;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-IV. Tomar el compromiso constitucional a los consejeros designados por el Poder Judicial, a los jueces y al Secretario Ejecutivo;
+II. Informar a la autoridad que corresponda, con dos meses de antelación a la terminación del cargo de la persona Consejera de que se trate, a efecto de resolver sobre la ratificación o no de la misma;
 
-V. Expedir los nombramientos de los servidores públicos del Consejo;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Informar a la autoridad que corresponda, sobre la ausencia definitiva de la persona Consejera de que se trate, a efecto de realizar un nuevo nombramiento;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IV. Tomar el compromiso constitucional a las personas consejeras designadas por el Poder Judicial, a las personas juzgadoras y a la persona titular de la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Expedir los nombramientos de las personas servidoras públicas del Consejo;
 
 VI. Llevar la firma y representación legal del Fondo Auxiliar, de manera conjunta con el Director del mismo, y
 
 VII. Las demás que expresamente establezca la Ley Orgánica, este Reglamento y otras disposiciones normativas.
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Voto de Calidad
 
 ###### Artículo 29.
 
-El Presidente, en las sesiones del Pleno del Consejo podrá ejercer el voto de calidad en caso de empate en los asuntos que se sometan a éste.
+La persona Presidenta, en las sesiones del Pleno del Consejo podrá ejercer el voto de calidad en caso de empate en los asuntos que se sometan a éste.
 
-### CAPÍTULO III. De los Consejeros
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
-Facultades y Obligaciones de los Consejeros
+### CAPÍTULO III. De las personas Consejeras
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y Obligaciones de las personas Consejeras
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 30.
 
-Cada consejero, además de las establecidas en el artículo 117 de la Ley Orgánica, tendrá las facultades y obligaciones siguientes:
+Cada persona consejera, además de las establecidas en el artículo 117 de la Ley Orgánica, tendrá las facultades y obligaciones siguientes:
 
 I. Integrar al menos una de las Comisiones Permanentes,
 
@@ -425,69 +527,97 @@ III. Solicitar le sea entregada cualquier información, elaborada, recopilada, a
 
 IV. Las demás que expresamente establezca la Ley Orgánica, este reglamento y otras disposiciones normativas aplicables.
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Participación en las Sesiones
 
 ###### Artículo 31.
 
-En las sesiones del Pleno y de las comisiones, los consejeros tendrán derecho a voz y voto, y no podrán abstenerse de votar, sino cuando tengan alguno de los impedimentos legales establecidos en el artículo 26 de este Reglamento.
+En las sesiones del Pleno y de las comisiones, las personas consejeras tendrán derecho a voz y voto, y no podrán abstenerse de votar, sino cuando tengan alguno de los impedimentos legales establecidos en el artículo 26 de este Reglamento.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Suplencia
 
 ###### Artículo 32.
 
-En caso de ausencia y de manera urgente, cuando sea necesario para alcanzar el quórum, los consejeros, con excepción de su Presidente, serán suplidos por el Secretario Ejecutivo del Consejo.
+En caso de ausencias, cuando sea necesario para alcanzar el quórum, las personas consejeras, con excepción de la persona Presidenta, serán suplidos por la persona titular de la Secretaría Ejecutiva del Consejo.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Licencia
 
 ###### Artículo 33.
 
-En ningún caso se concederá a los consejeros licencia con el carácter de indefinida, ni tampoco por un tiempo mayor de treinta días naturales durante el periodo de un año.
+En ningún caso se concederá a las personas consejeras licencia con el carácter de indefinida. Las licencias temporales deberán ser autorizadas por el Pleno y ajustarse a lo establecido en el artículo 164 de la Ley Orgánica del Poder Judicial del Estado de Yucatán.
 
 ### CAPÍTULO IV. De la Secretaría Ejecutiva
 
-Del Titular
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+De la persona Titular
 
 ###### Artículo 34.
 
-El Consejo contará con un Secretario Ejecutivo quien será el titular de la Secretaría Ejecutiva, será elegido por el Pleno del Consejo a propuesta de sus integrantes, a través del voto de la mayoría de sus miembros.
+El Consejo contará con una persona Secretaria Ejecutiva, quien será la titular de la Secretaría Ejecutiva, y la cual será elegida por el Pleno del Consejo a propuesta de sus integrantes, a través del voto de la mayoría de sus miembros.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Duración del cargo
 
 ###### Artículo 35.
 
-El Secretario Ejecutivo durará en su encargo cuatro años, con la posibilidad de ser ratificado, y podrá ser removido por acuerdo del Consejo.
+La persona titular de la Secretaría Ejecutiva durará en su encargo cuatro años, con la posibilidad de ratificación, y podrá ser removido por acuerdo del Consejo.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Ausencias
 
 ###### Artículo 36.
 
-Las ausencias accidentales y temporales del Secretario Ejecutivo serán cubiertas en la forma que establezca el Pleno del Consejo.
+Las ausencias accidentales y temporales de la persona titular de la Secretaría Ejecutiva serán cubiertas por la persona que determine el Pleno del Consejo.
 
-El Pleno del Consejo nombrará a quien sustituya al Secretario Ejecutivo en su ausencia absoluta.
+El Pleno del Consejo nombrará a quien sustituya a la persona titular de la Secretaría Ejecutiva en su ausencia absoluta.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Requisitos para ser Titular
 
 ###### Artículo 37.
 
-Para ser Secretario Ejecutivo del Consejo, se deben satisfacer los mismos requisitos previstos en el artículo 121 de la Ley Orgánica.
+Para ser titular de la Secretaría Ejecutiva del Consejo, se deben satisfacer los mismos requisitos previstos en el artículo 121 de la Ley Orgánica.
 
-Facultades y obligaciones del Secretario Ejecutivo
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la persona titular de la Secretaría Ejecutiva
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 38.
 
-El Secretario Ejecutivo, además de las establecidas en el artículo 122 de la Ley Orgánica, tendrá las facultades y obligaciones siguientes:
+La persona titular de la Secretaría Ejecutiva, además de las establecidas en el artículo 122 de la Ley Orgánica, tendrá las facultades y obligaciones siguientes:
 
-I. Despachar los asuntos administrativos ordenados por el Pleno del Consejo, por conducto del Presidente;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. Dar seguimiento a los asuntos que envíen los consejeros, las comisiones, las direcciones, unidades, órganos técnicos y desconcentrados, y organismos descentralizados del ámbito de competencia del Consejo y que hayan sido aprobados por el Pleno del Consejo;
+I. Despachar los asuntos administrativos ordenados por el Pleno del Consejo, por conducto de la persona Presidenta;
 
-III. Elaborar los proyectos de actas de las sesiones del Pleno del Consejo, autorizar las aprobadas y recabar la firma del Presidente y de los consejeros;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Dar seguimiento a los asuntos que envíen las personas consejeras, las comisiones, las direcciones, unidades, órganos técnicos y desconcentrados, y organismos descentralizados del ámbito de competencia del Consejo y que hayan sido aprobados por el Pleno del Consejo;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Elaborar los proyectos de actas de las sesiones del Pleno del Consejo, autorizar las aprobadas y recabar la firma de la persona Presidenta y de las personas consejeras;
 
 IV. Elaborar y entregar las convocatorias para las sesiones del Pleno del Consejo y los citatorios a los titulares de las áreas correspondientes que deban intervenir en la sesión respectiva;
 
-V. Cuando así se lo requiera algún Consejero, solicitar a los titulares de las áreas correspondientes información adicional acerca de los asuntos que se requiera;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-VI. Realizar los trámites necesarios ante los servidores públicos del Diario Oficial del Gobierno del Estado de Yucatán, para la publicación de los acuerdos generales, reglamentos y resoluciones que, por disposición legal o del Pleno del Consejo deban publicarse en este medio de difusión;
+V. Cuando así se lo requiera alguna persona Consejera, solicitar a los titulares de las áreas correspondientes información adicional acerca de los asuntos que se requiera;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Realizar los trámites necesarios ante las personas servidoras públicas del Diario Oficial del Gobierno del Estado de Yucatán, para la publicación de los acuerdos generales, reglamentos y resoluciones que, por disposición legal o del Pleno del Consejo deban publicarse en este medio de difusión;
 
 VII. Proporcionar la información solicitada por la Unidad de Transparencia y Acceso a la Información, siempre que los documentos solicitados se encuentren en sus archivos;
 
@@ -515,7 +645,9 @@ Oficialía de Partes Administrativa
 
 La Secretaría Ejecutiva contará con la Oficialía de Partes Administrativa, que será el área encargada de llevar a cabo los servicios centralizados de recepción, registro, distribución, seguimiento y despacho de la documentación del Pleno, de la Presidencia del Consejo, de las Comisiones Permanentes, de la propia Secretaría Ejecutiva y de las diversas áreas administrativas.
 
-La persona responsable de la Oficialía de Partes Administrativa deberá contar con licenciatura en áreas afines y tener los conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad, por lo cual el Pleno y el Secretario Ejecutivo establecerán las condiciones que permitan la capacitación del responsable para el buen funcionamiento de los archivos.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+La persona responsable de la Oficialía de Partes Administrativa deberá contar con licenciatura en áreas afines y tener los conocimientos, habilidades, competencias y experiencia acreditada en archivístico acorde a su responsabilidad, por lo cual el Pleno y la persona titular de la Secretaría Ejecutiva establecerán las condiciones que permitan la capacitación de la persona responsable para el buen funcionamiento de los archivos.
 
 Las funciones específicas de la Oficialía de Partes Administrativa serán las establecidas en los Acuerdos Generales que expida el Pleno, con base en lo dispuesto en las leyes en materia de archivos.
 
@@ -539,7 +671,9 @@ II. Comisiones Especiales y
 
 III. Comisiones Transitorias.
 
-Cada Comisión se integrará, por al menos tres consejeros, de los cuales uno fungirá como Presidente de la misma, y un Secretario Técnico quien apoyará para las funciones encomendadas a las mismas.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Cada Comisión se integrará por al menos tres personas consejeras, de las cuales una presidirá la misma, y una persona Secretaria Técnica, quien apoyará para las funciones encomendadas a las mismas.
 
 Comisiones del Consejo
 
@@ -573,11 +707,15 @@ Organización y Funcionamiento Interno
 
 La estructura orgánica, las políticas y lineamientos generales, los programas, normas, manuales y procedimientos administrativos internos de cada una de las comisiones, serán aprobados por el Pleno del Consejo, mediante el acuerdo general correspondiente.
 
-Facultades y obligaciones del Presidente de las Comisiones
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la Presidencia de las Comisiones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 44.
 
-Son facultades y obligaciones del Presidente de cada Comisión Permanente:
+Son facultades y obligaciones de la persona Presidenta de cada Comisión Permanente:
 
 I. Representar a la Comisión;
 
@@ -601,25 +739,35 @@ X. A petición de cualquiera de los miembros de la Comisión, someter a la consi
 
 XI. Declarar el receso o suspender la sesión y, en su caso, su cancelación cuando existan causas que así lo ameriten;
 
-XII. Firmar con los consejeros y el Secretario Técnico, las actas o resoluciones que se acuerden;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-XIII. Instruir al Secretario Técnico, para dar seguimiento y, en su caso, cumplimiento a los acuerdos tomados por la Comisión;
+XII. Firmar con las personas consejeras y la persona Secretaria Técnica, las actas o resoluciones que se acuerden;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XIII. Instruir a la persona Secretaria Técnica, para dar seguimiento y, en su caso, cumplimiento a los acuerdos tomados por la Comisión;
 
 XIV. Solicitar la información elaborada, recopilada, almacenada o investigada por los órganos jurisdiccionales y administrativos del Consejo, para el ejercicio de sus funciones;
 
 XV. Nombrar y remover al personal perteneciente a su Comisión, previa aprobación del Pleno del Consejo;
 
-XVI. Designar al Secretario Técnico de acuerdo a lo señalado en el artículo 124 de la Ley Orgánica;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XVI. Designar a la persona titular de la Secretaría Técnica de acuerdo a lo señalado en el artículo 124 de la Ley Orgánica;
 
 XVII. Rendir anualmente un informe al Pleno del Consejo sobre las actividades realizadas por la Comisión, y
 
 XVIII. Las demás facultades y obligaciones que le confieren la Ley Orgánica y este Reglamento, así como el Pleno del Consejo.
 
-Facultades y obligaciones de los demás Consejeros integrantes de las Comisiones
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de las demás personas Consejeras integrantes de las Comisiones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 45.
 
-Son facultades y obligaciones de los consejeros integrantes de cada Comisión Permanente las siguientes:
+Son facultades y obligaciones de las personas consejeras integrantes de cada Comisión Permanente las siguientes:
 
 I. Asistir a las sesiones de las comisiones del Consejo y emitir su voto en los asuntos de su competencia;
 
@@ -647,13 +795,17 @@ Convocatoria de las Sesiones de las Comisiones
 
 La convocatoria para las sesiones de las comisiones, deberá especificar el lugar, fecha y hora en que se celebrará y contener el orden de (sic) día con los documentos de los asuntos a tratar.
 
-En las sesiones de las comisiones deberá convocarse al Secretario Ejecutivo del Consejo, para que esté enterado de los asuntos trascendentes que se acuerden, quien en caso de no poder asistir a la sesión, se le entregará una relación sucinta de los asuntos tratados para su conocimiento y que deban de incluirse en el orden del día de la sesión de Pleno del Consejo.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+En las sesiones de las comisiones deberá invitarse a la persona titular de la Secretaría Ejecutiva del Consejo, para que esté enterada de los asuntos trascendentes que se acuerden, quien en caso de no poder asistir a la sesión, se le entregará una relación sucinta de los asuntos tratados para su conocimiento y que deban de incluirse en el orden del día de la sesión de Pleno del Consejo.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Orden del Día de las Sesiones de las Comisiones
 
 ###### Artículo 48.
 
-Los asuntos a tratar en las sesiones de las Comisiones Permanentes serán expuestos en orden secuencial, aquellos asuntos que no se encuentren listados y deseen ser tratados por los consejeros serán expuestos en el apartado de asuntos generales.
+Los asuntos a tratar en las sesiones de las Comisiones Permanentes serán expuestos en orden secuencial, aquellos asuntos que no se encuentren listados y deseen ser tratados por las personas consejeras serán expuestos en el apartado de asuntos generales.
 
 Discusión de los Asuntos
 
@@ -667,9 +819,13 @@ Forma de Adopción de los Acuerdos y Resoluciones de las Comisiones Permanentes
 
 Los acuerdos y resoluciones de las Comisiones Permanentes se tomarán por unanimidad o mayoría de votos de sus miembros.
 
-Cuando a criterio de los consejeros que conforman las Comisiones Permanentes algún asunto sea de trascendencia y no pudiere ser resuelto en la Comisión respectiva, se someterá a consideración del Pleno del Consejo para su resolución.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
-Participación de otros Servidores Públicos
+Cuando a criterio de las personas consejeras que conforman las Comisiones Permanentes algún asunto sea de trascendencia y no pudiere ser resuelto en la Comisión respectiva, se someterá a consideración del Pleno del Consejo para su resolución.
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Participación de otras personas servidoras públicas
 
 ###### Artículo 51.
 
@@ -685,15 +841,21 @@ En las sesiones de las Comisiones Especiales se sujetará a lo que señale el re
 
 Sesiones de las Comisiones Transitorias
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 53.
 
-Las sesiones de las Comisiones Transitorias serán privadas y se sujetarán a la programación y lineamientos que los propios consejeros integrantes acuerden.
+Las sesiones de las Comisiones Transitorias serán privadas y se sujetarán a la programación y lineamientos que las propias personas consejeras integrantes acuerden.
 
-Facultades y obligaciones de los Secretarios Técnicos
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la Secretaría Técnica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 54.
 
-Son facultades y obligaciones de los Secretarios Técnicos las siguientes:
+Son facultades y obligaciones de la persona Secretaria Técnica las siguientes:
 
 I. Recibir la documentación de los asuntos que deban someterse a consideración de la Comisión;
 
@@ -701,15 +863,23 @@ II. Elaborar y remitir la Convocatoria para las sesiones de la Comisión e integ
 
 III. Pasar lista de asistencia a los integrantes de la Comisión, llevar el registro de ella y verificar la existencia del quórum legal previsto en el presente Reglamento;
 
-IV. Auxiliar al Presidente de la Comisión durante el desarrollo de la sesión, en caso de que se ausente momentáneamente de la mesa de la Comisión;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-V. Elaborar y entregar el proyecto de acta de la sesión, someterla a aprobación de la Comisión para su firma y, en su caso, incorporar las observaciones planteadas a la misma por los consejeros;
+IV. Auxiliar a quien preside la Comisión durante el desarrollo de la sesión, en caso de que se ausente momentáneamente de la mesa de la Comisión;
 
-VI. Recabar el sentido de la votación que se emita en las sesiones, así como asentar el impedimento legal de los consejeros en la intervención, discusión y aprobación de algún asunto;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Elaborar y entregar el proyecto de acta de la sesión, someterla a aprobación de la Comisión para su firma y, en su caso, incorporar las observaciones planteadas a la misma por las personas consejeras;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Recabar el sentido de la votación que se emita en las sesiones, así como asentar el impedimento legal de las personas consejeras en la intervención, discusión y aprobación de algún asunto;
 
 VII. Informar mensualmente a la Comisión sobre el avance y cumplimiento de los asuntos que le hayan sido encomendados;
 
-VIII. Firmar con el Presidente y los consejeros integrantes de la Comisión las actas de las sesiones que se aprueben;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VIII. Firmar con la personas (sic) Presidenta y las personas conseejeras (sic) integrantes de la Comisión las actas de las sesiones que se aprueben;
 
 IX. Llevar el registro y archivo de las actas y acuerdos emitidos por la Comisión, así como, dar seguimiento a los asuntos que consten en las actas de las sesiones hasta su cumplimiento;
 
@@ -799,15 +969,21 @@ Atribuciones de la Comisión de Desarrollo Humano
 
 Son atribuciones de la Comisión de Desarrollo Humano:
 
-I. Conocer y someter a consideración del Pleno del Consejo los proyectos de ratificación de Jueces de Primera Instancia;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. Supervisar la promoción de las distintas categorías de servidores públicos que integran la Carrera Judicial;
+I. Conocer y someter a consideración del Pleno del Consejo los proyectos de ratificación de Juzgadores de Primera Instancia;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Supervisar la promoción de las distintas categorías de personas servidoras públicas que integran la Carrera Judicial;
 
 III. Proponer al Pleno del Consejo las políticas y los criterios sobre los que se establezca la capacitación para Carrera Judicial;
 
 IV. Proponer al Pleno del Consejo, las políticas y criterios para el otorgamiento de premios y estímulos por el desempeño y labores especiales que desarrolle el personal perteneciente a la Carrera Judicial;
 
-V. Proponer al Pleno del Consejo las políticas y criterios para la designación de los jueces que representen al Poder Judicial en eventos e intercambios académicos afines a la Carrera Judicial, a nivel estatal, regional nacional o internacional;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Proponer al Pleno del Consejo las políticas y criterios para la designación de las personas juzgadoras que representen al Poder Judicial en eventos e intercambios académicos afines a la Carrera Judicial, a nivel estatal, regional nacional o internacional;
 
 VI. Proponer al Pleno del Consejo las políticas y criterios editoriales de las publicaciones que fortalezcan la Carrera Judicial;
 
@@ -867,7 +1043,9 @@ VI. Conocer de las actas que se levanten con motivo de visitas ordinarias a los 
 
 VII. Recibir sugerencias, comentarios o reconocimientos dirigidos a los integrantes del Poder Judicial del Estado, con excepción del Tribunal;
 
-VIII. Proponer al Pleno del Consejo la destitución o ratificación de Jueces de Paz;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VIII. Proponer al Pleno del Consejo la destitución o ratificación de Juzgadores de Paz;
 
 IX. Analizar la información obtenida a través de visitas, inspecciones, informes y reportes de monitoreo, así como toda aquella que sea remitida para tal fin;
 
@@ -883,9 +1061,9 @@ XIII. Presentar al Pleno del Consejo una relación trimestral de los dictámenes
 
 XIV. Proponer al Pleno del Consejo las recomendaciones que se deban hacer a los titulares y personal de los órganos judiciales, para corregir las irregularidades o deficiencias en su funcionamiento, o bien, se les reconozca su buen desempeño, y
 
-> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-XV. Sustanciar y resolver los procedimientos disciplinarios por faltas graves instruidos a los servidores públicos adscritos al Consejo de la Judicatura;
+XV. Sustanciar y resolver los procedimientos disciplinarios por faltas graves instruidos a las personas servidoras públicas adscritos al Consejo de la Judicatura;
 
 XVI. Las demás que le sean encomendadas por el Pleno del Consejo dentro de su ámbito de competencia, las Leyes, los Reglamentos y los Acuerdos Generales que para tal efecto se aprueben.
 
@@ -949,7 +1127,9 @@ Competencia e Integración de la Comisión Especial del Tribunal de los Trabajad
 
 De acuerdo a lo dispuesto en el artículo 81 de la Ley Orgánica la Comisión Especial del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios conocerá de la administración, vigilancia y disciplina de dicho Tribunal.
 
-Esta Comisión se integrará por el Presidente de dicho Tribunal, quien la presidirá, y dos miembros del Consejo de la Judicatura.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Esta Comisión se integrará por la persona Presidenta de dicho Tribunal, quien la presidirá, y dos miembros del Consejo de la Judicatura.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 27 DE MARZO DE 2018)</small>
 
@@ -1013,11 +1193,15 @@ VIII. Llevar la contabilidad del Consejo, los libros oficiales que determina la 
 
 IX. Llevar el control del ejercicio del gasto público del Consejo y proponer cambios a los programas y presupuestos que sean convenientes;
 
-X. Proponer al Pleno del Consejo, por conducto de su Presidente, las normas, lineamientos y políticas en materia de administración de recursos humanos, remuneración y estímulos al trabajo de los servidores públicos judiciales, en coordinación con la Escuela Judicial;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+X. Proponer al Pleno del Consejo, por conducto de la persona Presidenta, las normas, lineamientos y políticas en materia de administración de recursos humanos, remuneración y estímulos al trabajo de los servidores públicos judiciales, en coordinación con la Escuela Judicial;
 
 XI. Dirigir la actualización tecnológica, así como garantizar el debido funcionamiento de los equipos y programas informáticos;
 
-XII. Llevar el control de asistencia del personal y mantener actualizados los expedientes de los servidores públicos del ámbito de competencia del Consejo, así como revisar el registro de entradas y salidas de su personal;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XII. Llevar el control de asistencia del personal y mantener actualizados los expedientes de las personas servidoras públicas del ámbito de competencia del Consejo, así como revisar el registro de entradas y salidas de su personal;
 
 XIII. Evaluar las necesidades de los recursos materiales del Consejo y elaborar el proyecto de Programa Anual de Adquisiciones, para someterlo a través de su Presidente, al Pleno del Consejo, en el ámbito de su competencia;
 
@@ -1029,7 +1213,9 @@ XVI. Coordinar con la Unidad Administrativa del Tribunal, la actualización del 
 
 XVII. Administrar y vigilar el mantenimiento, conservación y acondicionamiento de los bienes inmuebles de los órganos del Consejo;
 
-XVIII. Autorizar el pago de las remuneraciones que devenguen los servidores públicos del ámbito de competencia del Consejo;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XVIII. Autorizar el pago de las remuneraciones que devenguen las personas servidoras públicas del ámbito de competencia del Consejo;
 
 > <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
@@ -1037,7 +1223,9 @@ XIX. Administrar el Archivo de Concentración, para el resguardo de los expedien
 
 XX. Proponer al Pleno los proyectos normativos y los criterios para la modernización de las estructuras orgánicas, los sistemas y procedimientos administrativos, así como los de servicio al público;
 
-XXI. Hacer efectivas las sanciones pecuniarias impuestas a los servidores públicos, por el órgano competente, por las violaciones o infracciones en que puedan incurrir, y
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XXI. Hacer efectivas las sanciones pecuniarias impuestas a las personas servidoras públicas, por el órgano competente, por las violaciones o infracciones en que puedan incurrir, y
 
 XXII. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
@@ -1055,15 +1243,23 @@ Atribuciones
 
 La Escuela Judicial tendrá además de las atribuciones establecidas en el artículo 132 de la Ley Orgánica del Poder Judicial, las que a continuación se establecen:
 
-I. Instrumentar cursos y talleres de estudio para actualizar permanentemente a los servidores públicos del Poder Judicial del Estado;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. Preparar a los aspirantes a ingresar a las diversas categorías que integran la carrera judicial;
+I. Instrumentar cursos y talleres de estudio para actualizar permanentemente a las personas servidoras públicas del Poder Judicial del Estado;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Preparar a las personas aspirantes a ingresar a las diversas categorías que integran la carrera judicial;
 
 III. Mantener actualizado el sistema de información judicial, el cual será publicado en la página electrónica del Poder Judicial;
 
-IV. Expedir reconocimientos curriculares con la finalidad de hacer factible la profesionalización, especialización y actualización de los servidores públicos del Poder Judicial;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-V. Dictaminar sobre la evaluación del aprovechamiento académico de los participantes en cursos, talleres y demás eventos académicos;
+IV. Expedir reconocimientos curriculares con la finalidad de hacer factible la profesionalización, especialización y actualización de las personas servidoras públicas del Poder Judicial;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Dictaminar sobre la evaluación del aprovechamiento académico de las personas participantes en cursos, talleres y demás eventos académicos;
 
 VI. Coadyuvar en el diseño e instrumentación de los exámenes correspondientes a las distintas categorías que integran la carrera judicial;
 
@@ -1071,7 +1267,9 @@ VII. Promover la celebración de convenios de coordinación e intercambio docume
 
 VIII. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
-Facultades y obligaciones del Titular de la Escuela Judicial
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la persona Titular de la Escuela Judicial
 
 ###### Artículo 77.
 
@@ -1209,7 +1407,9 @@ X. Las demás acciones necesarias para garantizar y agilizar el flujo de acceso 
 
 XI. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
-Facultades y obligaciones del Titular de la Unidad
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la persona Titular de la Unidad
 
 ###### Artículo 83.
 
@@ -1217,7 +1417,9 @@ Las atribuciones de la Unidad de Transparencia y Acceso a la Información serán
 
 I. Ejecutar acciones necesarias para la difusión de la información pública;
 
-II. Favorecer la rendición de cuentas a los ciudadanos, que lo soliciten;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Favorecer la rendición de cuentas a la ciudadanía cuando lo soliciten;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
 
@@ -1229,7 +1431,9 @@ V. Mantener en buen funcionamiento la Unidad;
 
 VI. Documentar todo acto formal proveniente de las solicitudes de información y que derive del ejercicio de sus facultades, competencias o funciones;
 
-VII. Coordinar con la Escuela Judicial cursos de capacitación dirigida a los servidores públicos en materia de transparencia, acceso a la información y protección de datos personales;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VII. Coordinar con la Escuela Judicial cursos de capacitación dirigida a las personas servidoras públicas en materia de transparencia, acceso a la información y protección de datos personales;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
 
@@ -1465,11 +1669,13 @@ El Titular del Archivo de Concentración deberá contar con licenciatura en áre
 
 #### Sección Primera. De la Visitaduría
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Competencia
 
 ###### Artículo 90.
 
-La Visitaduría del Consejo es la encargada de inspeccionar la actividad de los Juzgados, de los Juzgados de Ejecución de Sentencia y de los Juzgados de Paz, así como supervisar el desempeño de los servidores públicos pertenecientes a dichos órganos.
+La Visitaduría del Consejo es la encargada de inspeccionar la actividad de los Juzgados, de los Juzgados de Ejecución de Sentencia y de los Juzgados de Paz, así como supervisar el desempeño de las personas servidoras públicas pertenecientes a dichos órganos.
 
 Atribuciones
 
@@ -1481,21 +1687,29 @@ I. Fijar, dirigir y controlar los objetivos y prioridades que determinen el Plen
 
 II. Coordinar, organizar y ordenar la inspección del funcionamiento de órganos jurisdiccionales de primera instancia;
 
-III. Coordinar, organizar y ordenar la verificación del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos del Poder Judicial pertenecientes al Consejo y la actuación de los servidores públicos del mismo, en ambos casos del ámbito de competencia del Consejo;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Coordinar, organizar y ordenar la verificación del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos del Poder Judicial pertenecientes al Consejo y la actuación de las personas servidoras públicas del mismo, en ambos casos del ámbito de competencia del Consejo;
 
 IV. Desempeñar las comisiones y funciones que el Pleno del Consejo le encomienden, manteniéndolo informado sobre su desarrollo y resultado;
 
 V. Establecer los lineamientos, normas y políticas conforme a los cuales la Visitaduría proporcionará los informes, datos y cooperación técnica que le sean requeridos;
 
-VI. Proponer al Pleno del Consejo las propuestas de sanción administrativa de los servidores públicos sometidos al procedimiento respectivo, y
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Proponer al Pleno del Consejo las propuestas de sanción administrativa de las personas servidoras públicas sometidas al procedimiento respectivo, y
 
 VII. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
-Facultades y obligaciones del Titular
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la persona Titular
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 92.
 
-Las atribuciones de la Visitaduría serán ejercidas por un titular, quien tendrá las siguientes facultades y obligaciones:
+Las atribuciones de la Visitaduría serán ejercidas por una persona titular, quien tendrá las siguientes facultades y obligaciones:
 
 I. Someter a la consideración de la Comisión de Disciplina el anteproyecto del calendario para la realización de las visitas;
 
@@ -1511,7 +1725,9 @@ VI. Informar a la Comisión de Disciplina la existencia de cualquier acto que pu
 
 VII. Rendir un informe trimestral de labores así como los que le sean requeridos;
 
-VIII. Elaborar las propuestas de sanción administrativa de los servidores públicos sometidos al procedimiento respectivo, para su aprobación por el Pleno del Consejo, y
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VIII. Elaborar las propuestas de sanción administrativa de las personas servidoras públicas sometidas al procedimiento respectivo, para su aprobación por el Pleno del Consejo, y
 
 IX. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
@@ -1543,9 +1759,9 @@ VI. Investigar los actos, omisiones o conductas de los servidores públicos deri
 
 VII. Opinar, previo a su expedición, sobre proyectos de disposiciones, normas, sistemas, programas, presupuestos, organización, métodos, contabilidad, administración de recursos humanos, financieros y materiales, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-VIII. Coordinar la recepción y trámites de las denuncias que se formulen en contra de los servidores públicos adscritos al Consejo, así como instruir el inicio de los procedimientos de responsabilidad administrativa y resolverlos en términos de la Ley de Responsabilidades;
+VIII. Coordinar la recepción y trámites de las denuncias que se formulen en contra de las personas servidoras públicas adscritas al Consejo, así como instruir el inicio de los procedimientos de responsabilidad administrativa y resolverlos en términos de la Ley de Responsabilidades;
 
 > <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
 
@@ -1559,15 +1775,17 @@ X. Acordar los escritos, promociones, oficios y demás documentos que se reciban
 
 XI. Instrumentar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas y hechos de corrupción atribuibles a los servidores públicos del Consejo y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Yucatán y a lo que establezcan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción;
 
-> <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-XII. Recibir las declaraciones de situación patrimonial, conflicto de interés y fiscal, así como almacenar en el sistema respectivo de la plataforma digital nacional, la información que para efectos de las funciones del Sistema Nacional Anticorrupción generen los servidores públicos obligados a presentar las referidas declaraciones;
+XII. Recibir las declaraciones de situación patrimonial, conflicto de interés y fiscal, así como almacenar en el sistema respectivo de la plataforma digital nacional, la información que para efectos de las funciones del Sistema Nacional Anticorrupción generen las personas servidoras públicas obligadas a presentar las referidas declaraciones;
 
 > <small>(ADICIONADA, D.O. 27 DE MARZO DE 2018)</small>
 
 XIII. Las demás que el Consejo, la Ley Orgánica, este Reglamento, la Ley de Responsabilidades y otras disposiciones normativas le confieran al Órgano de Control del Poder Judicial.
 
-Facultades y obligaciones del Titular
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la persona Titular
 
 ###### Artículo 95.
 
@@ -1605,13 +1823,17 @@ Atribuciones
 
 Son atribuciones del Fondo Auxiliar, las establecidas en la Ley del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán.
 
-Facultades y obligaciones del Titular
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la Persona Titular
 
 ###### Artículo 98.
 
 Las atribuciones del Fondo Auxiliar serán ejercidas por su Titular, quien además tendrá las siguientes facultades y obligaciones:
 
-l. Llevar la firma y representación del Fondo Auxiliar, de manera conjunta con el Presidente;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+I. Llevar la firma y representación del Fondo Auxiliar, de manera conjunta con la persona Presidenta;
 
 II. Administrar el Fondo Auxiliar, en los términos establecidos la fracción I del artículo 5 de la Ley del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán y a los lineamientos establecidos por el Pleno del Consejo;
 
@@ -1631,7 +1853,9 @@ IX. Elaborar los cheques para realizar los pagos que correspondan a los recursos
 
 X. Formular quincenalmente las relaciones de cheques expedidos y pagos en efectivo en su caso;
 
-XI. Elaborar el informe de ingresos y egresos anual con la debida oportunidad para el informe que rinda el Presidente, con independencia de aquellos que le sean solicitados por el Consejo o el Presidente;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XI. Elaborar el informe de ingresos y egresos anual con la debida oportunidad para el informe que rinda la persona Presidenta, con independencia de aquellos que le sean solicitados por el Consejo o el Presidente;
 
 XII. Informar una vez al año del monto de las multas y sanciones pecuniarias que aplican los órganos del Poder Judicial y que son recuperadas por el Poder Ejecutivo a favor del Fondo Auxiliar;
 
@@ -1675,11 +1899,15 @@ El Centro Estatal de Solución de Controversias es un órgano desconcentrado del
 
 Se regirá por lo que establezca la Ley de Mecanismos Alternativos de Solución de Controversias, este reglamento y por la demás legislación aplicable.
 
-Facultades y obligaciones del Director
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de la persona titular de la Dirección
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 101.
 
-En el ejercicio de sus funciones el Director del Centro Estatal de Solución de Controversias, además de las señaladas en el Reglamento de la Ley de Mecanismos Alternativos de Solución de Controversias, tendrá las siguientes facultades y obligaciones:
+En el ejercicio de sus funciones la persona titular de la Dirección del Centro Estatal de Solución de Controversias, además de las señaladas en el Reglamento de la Ley de Mecanismos Alternativos de Solución de Controversias, tendrá las siguientes facultades y obligaciones:
 
 I. Dirigir, coordinar y supervisar la correcta y adecuada prestación de los servicios que presta el Centro Estatal de Solución de Controversia a través de sus Subdirecciones y Oficinas Regionales, a fin de que éstos sean de óptima calidad para la sociedad;
 
@@ -1687,7 +1915,9 @@ II. Representar al Centro Estatal de Solución de Controversias;
 
 III. Supervisar y dirigir el trabajo del personal a su cargo y dar cuenta a la Comisión de Desarrollo Institucional de la indebida conducta del mismo;
 
-IV. Acordar asuntos de la competencia de la Dirección, que en su caso requieran la intervención del Consejo, a través del Presidente de la Comisión de Desarrollo Institucional;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IV. Acordar asuntos de la competencia de la Dirección, que en su caso requieran la intervención del Consejo, a través de la persona Consejera que preside la Comisión de Desarrollo Institucional;
 
 V. Asistir a reuniones de trabajo o comparecer ante el Pleno del Consejo o las comisiones del mismo, cuando para ello fuere citado;
 
@@ -1707,7 +1937,9 @@ XII. Elaborar anualmente y entregar a la Comisión de Desarrollo Institucional, 
 
 XIII. Elaborar el programa anual de trabajo del Centro Estatal de Solución de Controversias, de conformidad con el programa operativo anual correspondiente y enviarlo para su aprobación, a más tardar en el mes de diciembre, a la Comisión de Desarrollo Institucional;
 
-XIV. Calificar la procedencia de la causa de excusa planteada por el facilitador, cuando a su juicio exista causa suficiente para ello, o cuando el designado sea recusado;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XIV. Calificar la procedencia de la causa de excusa planteada por las personas facilitadoras, cuando a su juicio exista causa suficiente para ello, o cuando la persona designada sea recusada;
 
 XV. Resguardar y mantener actualizado el Registro de los Facilitadores Privados, Centros Privados y el Libro de Registro correspondiente;
 
@@ -1735,23 +1967,33 @@ XXIII. Las demás que el Consejo, este Reglamento y otras disposiciones normativ
 
 Requisitos para nombramiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 102.
 
-El Director del Centro Estatal de Solución de Controversias, así como el personal a su cargo será nombrado y removido por el Pleno del Consejo.
+La persona titular de la Dirección del Centro Estatal de Solución de Controversias, así como el personal a su cargo será nombrado y removido por el Pleno del Consejo.
 
-Para ser Director del Centro Estatal de Solución de Controversias se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 20 DE MARZO DE 2025)</small>
 
-I. Ser ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos;
+Para ser titular de la Dirección del Centro Estatal de Solución de Controversias se requiere:
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+I. Ser ciudadano o ciudadana mexicana, en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Contar con treinta y cinco años de edad cumplidos al día de la designación;
 
-III. Contar con título de Licenciado en Derecho, o en Administración;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Contar con título de Licenciado o Licenciada en Derecho, o en Administración;
 
 IV. Acreditar una experiencia mínima de 5 años en el ejercicio de la carrera;
 
 V. Acreditar conocimientos relacionados con los mecanismos alternativos de solución de controversias; y
 
-VI. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Gozar de buena reputación y no haber sido condenado o condenada por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitara para el cargo, cualquiera que haya sido la pena.
 
 ## TÍTULO CUARTO. DE LA CARRERA JUDICIAL
 
@@ -1759,9 +2001,11 @@ VI. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 Objetivo de la Carrera Judicial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 103.
 
-Por carrera judicial se entiende el sistema por medio del cual los servidores públicos de función jurisdiccional ingresan y son promovidos a las diferentes categorías del Poder Judicial. La Carrera Judicial se regirá por los principios de excelencia, imparcialidad, independencia, objetividad y profesionalismo.
+Por carrera judicial se entiende el sistema por medio del cual las personas servidoras públicas de función jurisdiccional ingresan y son promovidos a las diferentes categorías del Poder Judicial. La Carrera Judicial se regirá por los principios de excelencia, imparcialidad, independencia, objetividad y profesionalismo.
 
 La garantía de estabilidad inherente a las categorías de la carrera judicial prevista en el artículo 176 de la Ley Orgánica, estará supeditada al interés general en la recta impartición de justicia.
 
@@ -1795,15 +2039,21 @@ Integración de los Juzgados
 
 Los Juzgados, salvo los de Paz, serán integrados por:
 
-l. Jueces;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. Secretarios;
+I. Personas Juzgadoras;
 
-III. Actuarios;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
+II. Personas Secretarias;
 
-IV. Técnicos Judiciales;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Personas Actuarias;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IV. Personas técnicas judiciales;
 
 > <small>(REFORMADA, D.O. 27 DE MARZO DE 2018)</small>
 
@@ -1857,13 +2107,19 @@ XI. Juzgados de Paz.
 
 Competencia de los Juzgados Civiles
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 110.
 
-Los Juzgados Civiles tendrán a un titular denominado Juez Civil quién conocerá en primera instancia de los siguientes asuntos:
+Los Juzgados Civiles tendrán a una persona titular denominada Juez o Jueza Civil quién conocerá en primera instancia de los siguientes asuntos:
 
-I. De los de Jurisdicción Voluntaria cuyo conocimiento no corresponda específicamente a los Jueces de lo Familiar y a los Jueces Mercantiles;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. De los Contenciosos Civiles cualquiera que sea la cuantía de éstos, excepto de aquéllos que atañen al Patrimonio de Familia, al Derecho Familiar ó Mercantil, en que la competencia corresponde a los Jueces de esas materias;
+I. De los de Jurisdicción Voluntaria cuyo conocimiento no corresponda específicamente a los Juzgados de lo Familiar y a los Juzgados Mercantiles;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. De los Contenciosos Civiles cualquiera que sea la cuantía de éstos, excepto de aquéllos que atañen al Patrimonio de Familia, al Derecho Familiar o Mercantil, en que la competencia corresponde a los Juzgados de esas materias;
 
 III. De los interdictos;
 
@@ -1875,9 +2131,11 @@ VI. De los demás que les encomendaren las Leyes.
 
 Competencia de los Juzgados de lo Familiar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 111.
 
-Los Juzgados de lo Familiar tendrán a un titular denominado Juez de lo Familiar quién conocerá en primera instancia de los siguientes asuntos:
+Los Juzgados de lo Familiar tendrán a un titular denominado Juez o Jueza de lo Familiar quien conocerá en primera instancia de los siguientes asuntos:
 
 l. De los de Jurisdicción Voluntaria relacionados con el Derecho Familiar;
 
@@ -1899,9 +2157,11 @@ IX. De toda cuestión emanada de asuntos que reclamen alguna intervención Judic
 
 Competencia de los Juzgados Mercantiles
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 112.
 
-Los Juzgados Mercantiles tendrán a un titular denominado Juez Mercantil quién conocerá en primera instancia de los siguientes asuntos:
+Los Juzgados Mercantiles tendrán a un titular denominado Juez o Jueza Mercantil quien conocerá en primera instancia de los siguientes asuntos:
 
 l. De los contenciosos mercantiles cualquiera que sea la cuantía de éstos;
 
@@ -1915,9 +2175,11 @@ V. De los demás que les encomendaren las Leyes.
 
 Competencia de los Juzgados Penales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 113.
 
-Los Juzgados Penales tendrán a un titular denominado Juez Penal quién conocerá en primera instancia de los siguientes asuntos:
+Los Juzgados Penales tendrán a un titular denominado Juez o Jueza Penal quién conocerá en primera instancia de los siguientes asuntos:
 
 l. De todos los procesos en materia penal, de los incidentes relativos a la responsabilidad civil que provenga de delito con arreglo a los Códigos respectivos y de todos los demás asuntos del ramo penal que las leyes le confieran competencia;
 
@@ -1929,9 +2191,11 @@ IV. De los demás asuntos que les atribuyan las Leyes.
 
 Competencia de los Juzgados Especializados en Justicia para Adolescentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 114.
 
-Los Juzgados Especializados en Justicia para Adolescentes tendrán a un titular denominado Juez Especializado en Justicia para Adolescentes quién conocerá en primera instancia de los siguientes asuntos:
+Los Juzgados Especializados en Justicia para Adolescentes tendrán a un titular denominado Juez o Jueza Especializado en Justicia para Adolescentes quién conocerá en primera instancia de los siguientes asuntos:
 
 l. De las causas instauradas en contra de las personas a quienes se les atribuya la realización de una conducta tipificada como delito en las leyes penales y tengan doce años cumplidos y menos de dieciocho años de edad;
 
@@ -1939,7 +2203,9 @@ II. Propiciar y canalizar en su caso, los asuntos que se sometan a los procedimi
 
 III. Resolver los asuntos sometidos a su conocimiento conforme a los plazos y términos previstos en la ley especial de la materia;
 
-IV. Resolver sobre las medidas a aplicar atendiendo los principios de responsabilidad, proporcionalidad y racionalidad; así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IV. Resolver sobre las medidas a aplicar atendiendo los principios de responsabilidad, proporcionalidad y racionalidad; así como a las circunstancias, gravedad de la conducta, características y necesidades de las personas adolescentes;
 
 V. Ejercer la custodia del adolescente detenido asegurándose de la salvaguarda de todos sus derechos y garantías durante el tiempo que se encuentre a su disposición, y
 
@@ -1997,29 +2263,41 @@ Juzgados de Paz
 
 En los municipios en los que no haya juzgados de primera instancia, funcionará un Juzgado de Paz.
 
-Competencia de los Jueces de Paz
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Competencia de las personas Jueces de Paz
 
 ###### Artículo 119.
 
-Los Jueces de Paz sólo podrán realizar las funciones y conocer de los asuntos que expresamente les confiera la Ley Orgánica, el Código de Procedimientos Civiles de Yucatán, el Reglamento de los Juzgados de Paz que se elabore para tal efecto, los Acuerdos Generales que emita el Pleno del Consejo y los demás ordenamientos legales correspondientes.
+Las personas Jueces de Paz sólo podrán realizar las funciones y conocer de los asuntos que expresamente les confiera la Ley Orgánica, el Código de Procedimientos Civiles de Yucatán, el Reglamento de los Juzgados de Paz que se elabore para tal efecto, los Acuerdos Generales que emita el Pleno del Consejo y los demás ordenamientos legales correspondientes.
 
-### CAPÍTULO III. De los Jueces de Primera Instancia
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
-Ordenamientos Legales cuyo cumplimiento vigilará el Juez
+### CAPÍTULO III. De las personas Juzgadoras de Primera Instancia
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Ordenamientos Legales cuyo cumplimiento vigilará las personas juzgadoras
 
 ###### Artículo 120.
 
-Para efectos administrativos el Juez es el jefe de la oficina del Juzgado y a él corresponde la aplicación de lo dispuesto en este Título; vigilará que en el Juzgado a su cargo se cumplan debidamente las normas aplicables contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Estatal, la Ley Orgánica, las demás leyes secundarias, el presente Reglamento, los oficios y circulares del Tribunal, del Consejo y demás normatividad aplicable.
+Para efectos administrativos la persona juzgadora dirige la oficina del Juzgado y a le corresponde la aplicación de lo dispuesto en este Título; vigilará que en el Juzgado a su cargo se cumplan debidamente las normas aplicables contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Estatal, la Ley Orgánica, las demás leyes secundarias, el presente Reglamento, los oficios y circulares del Tribunal, del Consejo y demás normatividad aplicable.
 
-Obligaciones y facultades de los Jueces
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Obligaciones y facultades de las personas Juzgadoras
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 121.
 
-Los Jueces además de las obligaciones y facultades que les confiere la Ley Orgánica, tendrán las siguientes:
+Las personas Juzgadoras además de las obligaciones y facultades que les confiere la Ley Orgánica, tendrán las siguientes:
 
 I. Resolver las controversias sometidas a su conocimiento expresando los fundamentos legales aplicables y los argumentos suficientes que sustenten debidamente la decisión;
 
-II. Orientar y supervisar a los Secretarios de Estudio y Cuenta en la elaboración del proyecto de sentencia;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Orientar y supervisar a las personas Secretarias de Estudio y Cuenta en la elaboración del proyecto de sentencia;
 
 III. Desahogar las diligencias de los asuntos sometidos a su conocimiento;
 
@@ -2039,79 +2317,119 @@ X. Remitir todos los informes y datos estadísticos que el Consejo y el Presiden
 
 XI. Levantar las actas administrativas al personal adscrito al Juzgado, debiendo remitirlas al Consejo para los efectos procedentes;
 
-XII. Designar al Secretario de Estudio y Cuenta que deba suplir al Secretario de Acuerdos en sus faltas accidentales, y
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XII. Designar a la persona Secretaria de Estudio y Cuenta que deba suplir a la persona Secretaria de Acuerdos en sus faltas accidentales, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 20 DE MARZO DE 2025)</small>
 
 XIII. Las demás que les señalen otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Circulares o Disposiciones
 
 ###### Artículo 122.
 
-El Juez podrá expedir circulares o disposiciones de contenido general para el mejor desempeño de las labores internas del Juzgado de conformidad con la normatividad aplicable.
+Las personas juzgadoras podrán expedir circulares o disposiciones de contenido general para el mejor desempeño de las labores internas del Juzgado de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Tiempo destinado a la atención del público
 
 ###### Artículo 123.
 
-El Juez destinará el tiempo entre las audiencias, diligencias y acuerdos para la atención del público que así lo requiera.
+Las personas juzgadoras destinarán el tiempo entre las audiencias, diligencias y acuerdos para la atención del público que así lo requiera.
 
-Requisitos para ocupar el cargo de Juez
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Requisitos para ocupar el cargo de Juez o Jueza
 
 ###### Artículo 124.
 
-Para ser Juez se deben cumplir los requisitos que establece el artículo 88 de la Ley Orgánica.
+Para ser Juez o Jueza se deben cumplir los requisitos que establece el artículo 88 de la Ley Orgánica.
 
-### CAPÍTULO IV. De los Secretarios de Acuerdos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
-Secretario de Acuerdos
+### CAPÍTULO IV. De las Secretarías de Acuerdos
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Secretaría de Acuerdos
 
 ###### Artículo 125.
 
-El Secretario de Acuerdos es el jefe inmediato de la oficina del Juzgado de conformidad al orden administrativo y dirigirá las labores de la misma de acuerdo a lo previsto en este Reglamento, a las instrucciones y determinaciones del Juez, en lo que no se opongan a la normatividad aplicable.
+Las personas Secretarias de Acuerdos son jueces y jefas inmediatas de la oficina del Juzgado de conformidad al orden administrativo y dirigirá las labores de la misma de acuerdo a lo previsto en este Reglamento, a las instrucciones y determinaciones de las personas juzgadoras, en lo que no se opongan a la normatividad aplicable.
 
-Obligaciones y facultades de los Secretarios de Acuerdos
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Obligaciones y facultades de las personas Secretarias de Acuerdos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 126.
 
-Los Secretarios de Acuerdos de los Juzgados tendrán las obligaciones y facultades siguientes:
+Las personas Secretarias de Acuerdos de los Juzgados tendrán las obligaciones y facultades siguientes:
 
 I. Tener a su cargo y llevar al corriente bajo su responsabilidad los libros de gobierno y control que determinen las disposiciones reglamentarias, así como los demás libros pertenecientes a la oficina a su cargo necesarios para el funcionamiento de la misma;
 
 II. Conservar en su poder el sello del Juzgado facilitándolo a los demás empleados cuando lo necesiten para el desempeño de sus funciones;
 
-III. En ausencia del Secretario Auxiliar recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la presentación, expresando las fojas que contengan, los documentos que se acompañen, la firma del que recibe el escrito y el sello del Juzgado. Asimismo, deben poner razón idéntica en la copia cuando se exhiba, para que dicha copia quede en poder del propio interesado para su resguardo;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADA, D.O. 2 DE MARZO DE 2021)</small>
+III. En ausencia de la persona Secretaria Auxiliar, recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la presentación, expresando las fojas que contengan, los documentos que se acompañen, la firma del que recibe el escrito y el sello del Juzgado. Asimismo, deben poner razón idéntica en la copia cuando se exhiba, para que dicha copia quede en poder del propio interesado para su resguardo;
 
-III Bis. En ausencia del Secretario Auxiliar, encomendar las funciones a que se refieren las fracciones IV y VII del artículo 135 al personal jurisdiccional o administrativo a su cargo y supervisar su cumplimiento.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-IV. Dar cuenta diariamente al Juez bajo su responsabilidad y dentro de las veinticuatro horas siguientes a la recepción de todos los escritos y promociones que se presenten en los negocios de la competencia del Juzgado;
+III Bis. En ausencia de la persona Secretaria Auxiliar, encomendar las funciones a que se refieren las fracciones IV y VII del artículo 135 al personal jurisdiccional o administrativo a su cargo y supervisar su cumplimiento.
 
-V. Autorizar con su firma los despachos, exhortos, actas, diligencias, edictos de remate, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez debiendo entregar diariamente la audiencia respectiva a la Secretaría Auxiliar cuando exista éste cargo en el Órgano en el que se encuentre adscrito;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-VI. Asentar en los expedientes las certificaciones relativas o términos de prueba y las demás razones que exprese la Ley o el Juez ordene;
+IV. Dar cuenta diariamente a la persona Juzgadora bajo su responsabilidad y dentro de las veinticuatro horas siguientes a la recepción de todos los escritos y promociones que se presenten en los negocios de la competencia del Juzgado;
 
-VII. Asistir o intervenir personalmente en todas las diligencias que practique el Juez de acuerdo con las Leyes relativas;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Autorizar con su firma los despachos, exhortos, actas, diligencias, edictos de remate, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por la persona juzgadora, debiendo entregar diariamente la audiencia respectiva a la persona Secretaria Auxiliar, cuando exista este cargo en el Órgano en el que se encuentre adscrita;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Asentar en los expedientes las certificaciones relativas o términos de prueba y las demás razones que exprese la Ley o la persona juzgadora ordene;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VII. Asistir o intervenir personalmente en todas las diligencias que practique la persona juzgadora de acuerdo con las Leyes relativas;
 
 VIII. Expedir las copias autorizadas que la Ley determine o deban darse a las partes en virtud de decreto judicial;
 
 IX. Guardar en la seguridad del Juzgado bajo su más estricta responsabilidad los pliegos, escritos, documentos, títulos, valores y certificados de depósito dejando constancia certificada en el expediente;
 
-X. Rendir al Juez los informes que solicite;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+X. Rendir a la persona juzgadora los informes que solicite;
 
 XI. Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Juzgado ya sea que se refieran a negocios judiciales del mismo o al desahogo de los oficios que se manden librar en las determinaciones respectivas dictadas en los expedientes;
 
-XII. Ordenar e instruir a quien corresponda la elaboración del proyecto de acuerdo respectivo y la formación del expediente o cuaderno según corresponda y en todos los casos revisar que las actuaciones sean firmadas por el Juez;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XII. Ordenar e instruir a quien corresponda la elaboración del proyecto de acuerdo respectivo y la formación del expediente o cuaderno según corresponda y en todos los casos revisar que las actuaciones sean firmadas por la persona juzgadora;
 
 XIII. Procurar que las personas que prestan servicio social amplíen su ámbito de conocimientos en las diversas funciones del Juzgado;
 
-XIV. Llevar el control de los expedientes turnados a los Secretarios de Estudio y Cuenta y demás personal del Juzgado;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-XV. Dar cuenta al Juez de las ausencias del personal y de cualquier irregularidad administrativa de la que tenga conocimiento;
+XIV. Llevar el control de los expedientes turnados a las personas Secretarias de Estudio y Cuenta y demás personal del Juzgado;
 
-XVI. Redactar las resoluciones que determine el Juez;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-XVII. Vigilar la existencia de materiales y útiles de oficina, los que quedarán bajo su responsabilidad haciendo oportunamente las requisiciones de faltantes por conducto del Juez;
+XV. Dar cuenta a la persona juzgadora de las ausencias del personal y de cualquier irregularidad administrativa de la que tenga conocimiento;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XVI. Redactar las resoluciones que determine la persona juzgadora;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XVII. Vigilar la existencia de materiales y útiles de oficina, los que quedarán bajo su responsabilidad haciendo oportunamente las requisiciones de faltantes por conducto de la persona juzgadora;
 
 XVIII. Remitir al Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán o depositar en la cuenta bancaria que corresponda, los valores consignados en el Juzgado dentro de las 48 horas siguientes a su recepción;
 
@@ -2121,49 +2439,71 @@ XX. Mantener actualizados sus conocimientos jurídicos, y
 
 XXI. Desempeñar las demás funciones que les confieran las leyes, los reglamentos y otras disposiciones normativas aplicables.
 
-Obligaciones adicionales de los Secretarios de Acuerdos en Materia Penal
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Obligaciones adicionales de las personas Secretarias de Acuerdos en Materia Penal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 127.
 
-Los Secretarios de Acuerdos de los Juzgados que atiendan asuntos en materia penal además de observar lo establecido en el artículo anterior deberán:
+Las personas Secretarias de Acuerdos de los Juzgados que atiendan asuntos en materia penal además de observar lo establecido en el artículo anterior deberán:
 
 l. Dar a conocer por escrito a las dependencias que correspondan, las resoluciones que se dicten en los procesos siempre que se refieran a la libertad o condena definitiva de los procesados, y
 
 II. Cumplir con las obligaciones legales que integren el ámbito de su competencia.
 
-Obligaciones adicionales de los Secretarios de Acuerdos en materia de Justicia para Adolescentes
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Obligaciones adicionales de las personas Secretarias de Acuerdos en materia de Justicia para Adolescentes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 128.
 
-Los Secretarios de Acuerdos de los Juzgados Especializados en Justicia para Adolescentes además de observar lo establecido en el artículo 182 de este Reglamento, deberán:
+Las personas Secretarias de Acuerdos de los Juzgados Especializados en Justicia para Adolescentes además de observar lo establecido en el artículo 182 de este Reglamento, deberán:
 
 I. Mantener actualizada la agenda de la sala de audiencias en lo que respecta al Juzgado de su adscripción a efecto de llevar la debida coordinación, y
 
 II. Preparar adecuadamente la sala de audiencias con los requerimientos propios y necesarios para el debido desahogo de las diligencias relativas.
 
-Requisitos para ocupar el cargo de Secretario de Acuerdos
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Requisitos para ocupar el cargo de Secretario o Secretaria de Acuerdos
 
 ###### Artículo 129.
 
-Para ser Secretario de Acuerdos de Primera Instancia se deben cumplir con los requisitos que establece el artículo 93 de la Ley Orgánica.
+Para ser Secretario o Secretaria de Acuerdos de Primera Instancia se deben cumplir con los requisitos que establece el artículo 93 de la Ley Orgánica.
 
-### CAPÍTULO V. De los Secretarios de Estudio y Cuenta
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
-Secretario de Estudio y Cuenta
+### CAPÍTULO V. De las personas Secretarias de Estudio y Cuenta
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Secretarios y Secretarias de Estudio y Cuenta
 
 ###### Artículo 130.
 
-En cada Juzgado se designará el número de Secretarios de Estudio y Cuenta que sea necesario para su debido funcionamiento.
+En cada Juzgado se designará el número de Secretarios y Secretarias de Estudio y Cuenta que sea necesario para su debido funcionamiento.
 
-Facultades y obligaciones de los Secretarios de Estudio y Cuenta
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de las personas Secretarias de Estudio y Cuenta
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 131.
 
-Son facultades y obligaciones de los Secretarios de Estudio y Cuenta:
+Son facultades y obligaciones de las personas Secretarias de Estudio y Cuenta:
 
-I. Suplir las faltas del Secretario de Acuerdos cuando proceda;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-II. Elaborar y presentar los proyectos de sentencia y demás resoluciones que el Juez le encomiende de acuerdo a las leyes sustantivas, procedimentales y principios jurídicos aplicables;
+I. Suplir las faltas de las personas Secretarias de Acuerdos cuando proceda;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+II. Elaborar y presentar los proyectos de sentencia y demás resoluciones que las personas juzgadoras le encomiende de acuerdo a las leyes sustantivas, procedimentales y principios jurídicos aplicables;
 
 III. Examinar detalladamente las constancias procesales;
 
@@ -2171,39 +2511,55 @@ IV. Consultar la legislación de la materia, la jurisprudencia aplicable, la doc
 
 V. Mantener actualizados sus conocimientos jurídicos, y
 
-VI. Las demás que le encomendare el Juez.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Las demás que le encomiende la persona juzgadora.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Casos en que ostenta Fe Pública
 
 ###### Artículo 132.
 
-Los Secretarios de Estudio y Cuenta tendrán fe pública única y exclusivamente en el caso de suplencia a que se refiere la fracción I del artículo 131 y les está estrictamente prohibido revelar el sentido y términos de las resoluciones en proyecto sometidas a su elaboración.
+Los Secretarios y Secretarias de Estudio y Cuenta tendrán fe pública única y exclusivamente en el caso de suplencia a que se refiere la fracción I del artículo 131 y les está estrictamente prohibido revelar el sentido y términos de las resoluciones en proyecto sometidas a su elaboración.
 
-Requisitos para ocupar el cargo de Secretario de Estudio y Cuenta
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Requisitos para ocupar el cargo de Secretario o Secretaria de Estudio y Cuenta
 
 ###### Artículo 133.
 
-Para ser Secretario de Estudio y Cuenta se exigen los requisitos que establece el artículo 93 de la Ley Orgánica.
+Para ser Secretario o Secretaria de Estudio y Cuenta se exigen los requisitos que establece el artículo 93 de la Ley Orgánica.
 
-### CAPÍTULO VI. De los Secretarios Auxiliares
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
-Secretario Auxiliar
+### CAPÍTULO VI. De las personas Secretarias Auxiliares
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Personas Secretarias Auxiliares
 
 ###### Artículo 134.
 
-Acorde a las necesidades del servicio y a la disposición presupuestal los Juzgados tendrán para el despacho de los negocios de su competencia un Secretario Auxiliar.
+Acorde a las necesidades del servicio y a la disposición presupuestal, los Juzgados tendrán para el despacho de los negocios de su competencia una persona Secretaria Auxiliar.
 
-Funciones de los Secretarios Auxiliares
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Funciones de las personas Secretarias Auxiliares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 135.
 
-Los Secretarios Auxiliares tendrán las funciones siguientes:
+Las personas Secretarias Auxiliares tendrán las funciones siguientes:
 
 I. Atender a litigantes y personas interesadas en los procedimientos que cursen en los Juzgados respecto a la información del estado procesal que guardan los mismos;
 
 II. Recibir los escritos que se les presenten asentando al calce la razón del día y hora de la presentación, expresando las fojas que contengan, los documentos que se acompañen, la firma de quien recibe el escrito y el sello del Juzgado. Asimismo, deben poner razón idéntica en la copia cuando se exhiba, para que dicha copia quede en poder del propio interesado para su resguardo. De igual manera dará cuenta el mismo día a la Secretaría de Acuerdos de las promociones que haya recibido junto con los expedientes respectivos;
 
-III. Entregar los expedientes al Secretario de Acuerdos a más tardar el día hábil anterior a la fecha fijada para la celebración de una audiencia o diligencia judicial;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Entregar los expedientes a la persona Secretaria de Acuerdos a más tardar el día hábil anterior a la fecha fijada para la celebración de una audiencia o diligencia judicial;
 
 > <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
@@ -2211,45 +2567,65 @@ IV. Fungir como responsable del archivo de trámite del juzgado, y cuidar y vigi
 
 V. Clasificar y ordenar los expedientes a fin de que (sic) hacer expedita su localización para proveer en ellos o facilitarlos para información a las partes que intervienen, cuidar que cada una de las hojas sean debidamente numeradas al agregarse a los expedientes sellando entre foja y foja las actuaciones, oficios y demás documentos que lo requieran rubricando aquéllos en el centro del escrito;
 
-VI. Entregar puntualmente mediante recibo a la Central de Actuaría o al Actuario que corresponda, los expedientes en que haya resoluciones para notificar y recogerlos una vez diligenciados;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VI. Entregar puntualmente mediante recibo a la Central de Actuaría o a la persona Actuaria que corresponda, los expedientes en que haya resoluciones para notificar y recogerlos una vez diligenciados;
 
 > <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
 VII. Inventariar y conservar en su poder los expedientes, incluso los que se mantengan en el archivo de trámite del Juzgado mientras no se remitan al Archivo de Concentración o al Superior en su caso y entregarlos con las formalidades legales cuando deba tener lugar la remisión;
 
-VIII. Proporcionar a los interesados los expedientes en los que fueren parte y que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal siempre que no estén en poder de los Actuarios y que sea en su presencia sin extraer las actuaciones de la oficina;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+VIII. Proporcionar a las personas interesadas los expedientes en los que fueren parte y que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal siempre que no estén en poder de las personas Actuarias y que sea en su presencia sin extraer las actuaciones de la oficina;
 
 > <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
 IX. Remitir al Archivo de Concentración, a la superioridad o al sustituto legal los expedientes en sus respectivos casos;
 
-X. Colaborar con el Secretario de Acuerdos en todas y cada una de sus obligaciones y atribuciones;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+X. Colaborar con la persona Secretaria de Acuerdos en todas y cada una de sus obligaciones y atribuciones;
 
 XI. Mantener actualizados sus conocimientos jurídicos, y
 
-XII. Las demás que le encargue el Juez de su adscripción en el ejercicio de sus funciones de conformidad con las disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-Requisitos para ocupar el cargo de Secretario Auxiliar
+XII. Las demás que le encargue la persona Juzgadora de su adscripción en el ejercicio de sus funciones de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Requisitos para ocupar el cargo de persona Secretaria Auxiliar
 
 ###### Artículo 136.
 
-Para ser Secretario Auxiliar se deben cumplir con los requisitos que establece el artículo 93 de la Ley Orgánica.
+Para ser Secretario o Secretaria Auxiliar se deben cumplir con los requisitos que establece el artículo 93 de la Ley Orgánica.
 
-### CAPÍTULO VII. De los Actuarios
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
-Facultades y obligaciones de los Actuarios
+### CAPÍTULO VII. De las personas Actuarias
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de las personas Actuarias
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 137.
 
-Son facultades y obligaciones de los Actuarios:
+Son facultades y obligaciones de las personas Actuarias:
 
-l. Asistir con puntualidad al lugar donde presten sus servicios durante el tiempo que fije el titular de la dependencia de acuerdo con las disposiciones normativas vigentes;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+I. Asistir con puntualidad al lugar donde presten sus servicios durante el tiempo que fije la persona titular de la dependencia de acuerdo con las disposiciones normativas vigentes;
 
 II. Recibir los expedientes para realizar notificaciones, diligencias o actuaciones y firmar su recepción;
 
 III. Notificar las resoluciones judiciales en la forma y términos que las leyes aplicables determinen para cuyos efectos tendrán fe pública en todo lo relativo al ejercicio de su cargo;
 
-IV. Actuar como ministros ejecutores en las diligencias de embargo, requerimiento, lanzamiento o cualquier otra providencia que se les ordene cumplir;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IV. Actuar como personas ejecutoras en las diligencias de embargo, requerimiento, lanzamiento o cualquier otra providencia que se les ordene cumplir;
 
 V. Hacer las notificaciones personales y practicar las diligencias que le soliciten y que conforme a la Ley deban practicarse y devolver los expedientes dentro de las veinticuatro horas siguientes a la conclusión de la diligencia previa constancia en el registro correspondiente. Estas notificaciones las harán bajo su responsabilidad dentro del término legal sea cual fuere el número de los asuntos que tengan que diligenciar. Si no estuviere señalado el lugar en que deba hacerse la notificación pondrá razón de ello en autos y devolverán el expediente a la Secretaría o a la Central de Actuaría en su caso;
 
@@ -2259,13 +2635,19 @@ VII. Hacer constar en los expedientes el cumplimiento de las providencias judici
 
 VIII. Practicar dentro del término legal cuantas diligencias sean propias de su cargo en los asuntos de que conozcan los Juzgados;
 
-IX. Realizar las diligencias que ordene el Juez respectivo en las horas inhábiles que habilite para tal efecto;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IX. Realizar las diligencias que ordene las personas juzgadoras respectivo en las horas inhábiles que habilite para tal efecto;
 
 X. Realizar las funciones a que se refieren las fracciones VII, VIII y IX del artículo 151 de este Reglamento cuando en el lugar de su adscripción no funcione una Central de Actuaría;
 
-XI. Ejercer las funciones de Secretario de Acuerdos en los Juzgados en los que no hubiere Secretario de Estudio y Cuenta;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-XII. Rendir los informes que el Juez o cualquier otra autoridad les pida;
+XI. Ejercer las funciones de persona Secretaria de Acuerdos en los Juzgados en los que no hubiere Secretario de Estudio y Cuenta;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+XII. Rendir los informes que la persona juzgadora o cualquier otra autoridad les pida;
 
 XIII. Mantener actualizados sus conocimientos jurídicos, y
 
@@ -2273,9 +2655,11 @@ XIV. Las demás que establezcan las disposiciones legales aplicables.
 
 Libro de Registro
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 138.
 
-Los Actuarios deberán llevar un libro en el que asienten diariamente las diligencias y notificaciones que lleven a cabo con expresión:
+Las personas Actuarias deberán llevar un libro en el que asienten diariamente las diligencias y notificaciones que lleven a cabo con expresión:
 
 I. De la fecha en que reciban el expediente respectivo;
 
@@ -2287,27 +2671,39 @@ IV. De la fecha en que hayan practicado la diligencia, notificación o acto que 
 
 V. De la fecha de la devolución del expediente.
 
-Excusa de los Actuarios
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Excusa de las personas Actuarias
 
 ###### Artículo 139.
 
-Los Actuarios al desempeñarse como autoridad ejecutora deberán inhibirse cuando haya causa justa proponiendo su excusa ante la autoridad respectiva en el momento en que les informen del mandamiento correspondiente. La excusa será calificada por el Juez de los autos sin audiencia de las partes y en vista solo de la razón en que se funde el actuario y sin más recurso que el de responsabilidad.
+Las personas Actuarias al desempeñarse como autoridad ejecutora deberán inhibirse cuando haya causa justa proponiendo su excusa ante la autoridad respectiva en el momento en que les informen del mandamiento correspondiente. La excusa será calificada por la persona juzgadora de los autos sin audiencia de las partes y en vista solo de la razón en que se funde el actuario y sin más recurso que el de responsabilidad.
 
-Requisitos para ocupar el cargo de Actuario
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Requisitos para ocupar el cargo de Actuario o Actuaria
 
 ###### Artículo 140.
 
-Para ser Actuario se deben cumplir con los requisitos que establece el artículo 93 de la Ley Orgánica.
+Para ser Actuario o Actuaria se deben cumplir con los requisitos que establece el artículo 93 de la Ley Orgánica.
 
-### CAPÍTULO VIII. De los Técnicos Judiciales y de los Archivistas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
-Obligaciones y facultades de los Técnicos Judiciales
+### CAPÍTULO VIII. De las personas Técnicas Judiciales y de las personas Archivistas
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Obligaciones y facultades de las personas Técnicas Judiciales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 141.
 
-Son facultades y obligaciones de los Técnicos Judiciales:
+Son facultades y obligaciones de las personas Técnicas Judiciales:
 
-l. Elaborar los acuerdos, actas, oficios, exhortos y demás documentos propios de las funciones del Juzgado ordenados por el Secretario de Acuerdos y bajo los lineamientos proporcionados por este o por el titular del Juzgado;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+I. Elaborar los acuerdos, actas, oficios, exhortos y demás documentos propios de las funciones del Juzgado ordenados por la persona Secretaria de Acuerdos y bajo los lineamientos proporcionados por este o por la persona titular del Juzgado;
 
 II. Guardar con absoluta reserva la información que se les confía con motivo de su cargo;
 
@@ -2315,29 +2711,39 @@ III. Auxiliar cuando sea necesario al demás personal del Juzgado en las activid
 
 IV. Mantener actualizados sus conocimientos jurídicos, y
 
-V. Las demás que le asigne el Juez o el Secretario de Acuerdos.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-Facultades y obligaciones de los Archivistas
+V. Las demás que le asigne la persona juzgadora o la persona Secretaria de Acuerdos.
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+Facultades y obligaciones de las personas Archivistas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 142.
 
-En los Juzgados en que por razón de las necesidades del servicio que se otorga y siempre que las condiciones presupuestales lo permitan se requiera la asignación de un archivista, éste tendrá las siguientes facultades y obligaciones:
+En los Juzgados en que por razón de las necesidades del servicio que se otorga y siempre que las condiciones presupuestales lo permitan se requiera la asignación de una persona archivista, éste tendrá las siguientes facultades y obligaciones
 
 > <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
 I. Ordenar y clasificar los expedientes para el control respectivo en el más escrito (sic) orden por año y número consecutivo y conforme lo establecen las leyes y la normatividad aplicable en materia de archivos;
 
-II. Colaborar con el Secretario Auxiliar en la localización de los expedientes con promociones para acordar y para consulta a los interesados;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+II. Colaborar con la persona Secretaria Auxiliar en la localización de los expedientes con promociones para acordar y para consulta a los interesados;
 
-III. Realizar revisiones periódicas a efecto de informar al Secretario Auxiliar de los expedientes susceptibles de envío al Archivo de Concentración por estar concluidos procesalmente;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+III. Realizar revisiones periódicas a efecto de informar a la persona Secretaria Auxiliar de los expedientes susceptibles de envío al Archivo de Concentración por estar concluidos procesalmente;
 
 > <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
 IV. Prohibir la entrada al archivo de trámite a personas ajenas al mismo impidiendo el manejo de expedientes, oficios o documentos a su cargo, y
 
-V. Las demás que le asigne el Juez o Secretario de Acuerdos.
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+V. Las demás que le asigne la persona juzgadora o la persona Secretaria de Acuerdos.
 
 ### CAPÍTULO IX. Del Despacho de los Negocios
 
@@ -2377,35 +2783,47 @@ Presentación de los Escritos y Promociones
 
 Los escritos y promociones se recibirán a través de la Oficialía de Partes.
 
-En los Departamentos Judiciales y regiones donde no exista Oficialía de Partes todos los escritos y promociones deberán presentarse precisamente en las oficinas del Juzgado, en horas y días hábiles y ante el funcionario competente. En horas inhábiles las promociones y escritos que deban presentarse antes del vencimiento de los términos fatales serán recibidos en el domicilio del Secretario de Acuerdos o del personal que el Juez designe en guardia, domicilio que deberá publicarse en los estrados y en el exterior del Juzgado.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
-Mecanismo de Turno de los Negocios designados a los Actuarios
+En los Departamentos Judiciales y regiones donde no exista Oficialía de Partes todos los escritos y promociones deberán presentarse precisamente en las oficinas del Juzgado, en horas y días hábiles y ante el funcionario competente. En horas inhábiles las promociones y escritos que deban presentarse antes del vencimiento de los términos fatales serán recibidos en el domicilio de la persona Secretaria de Acuerdos o del personal que la persona Juzgadora designe en guardia, domicilio que deberá publicarse en los estrados y en el exterior del Juzgado.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Mecanismo de Turno de los Negocios designados a las personas Actuarias
 
 ###### Artículo 149.
 
-En los Juzgados donde no haya Central de Actuaría y haya más de un actuario, el Juez establecerá el mecanismo de turno de los negocios en la forma que resulte más equitativa y eficaz.
+En los Juzgados donde no haya Central de Actuaría y haya más de un actuario, la persona juzgadora establecerá el mecanismo de turno de los negocios en la forma que resulte más equitativa y eficaz.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Entrega de Valores
 
 ###### Artículo 150.
 
-Para la entrega de valores que se realice a los interesados en el Juzgado se estará a lo previsto en el Reglamento de la Ley del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán, y en todos los casos se hará previa autorización del Juez con la identificación y firma de recibido del interesado.
+Para la entrega de valores que se realice a los interesados en el Juzgado se estará a lo previsto en el Reglamento de la Ley del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán, y en todos los casos se hará previa autorización de la persona juzgadora con la identificación y firma de recibido del interesado.
 
 ### CAPÍTULO X. De la Central de Actuaría
 
 Atribuciones y obligaciones de la Central de Actuaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
+
 ###### Artículo 151.
 
-La Central de Actuaría es el órgano auxiliar administrativo del ámbito de competencia del Consejo el cual estará a cargo de un titular denominado Coordinador de Actuarios, quien tendrá las funciones y obligaciones siguientes:
+La Central de Actuaría es el órgano auxiliar administrativo del ámbito de competencia del Consejo el cual estará a cargo de una persona titular denominada Coordinador o Coordinadora de Actuarios y Actuarias, quien tendrá las funciones y obligaciones siguientes:
 
 l. Auxiliar administrativamente a los Juzgados en todo lo relativo a funciones actuariales manteniendo constante comunicación con los Jueces y Secretarios de Acuerdos a fin de fortalecer y hacer expedita la impartición de justicia, para ello deberá organizar, dirigir y controlar el desahogo de ejecuciones y notificaciones ordenadas por los órganos jurisdiccionales;
 
 II. Llevar un control de la entrega y devolución de los expedientes que se proporcionen a los actuarios a efecto de que realicen las notificaciones y diligencias judiciales que les son entregadas para ser practicadas debiendo constar la fecha y hora en que ocurran estos eventos;
 
-III. Coordinar y organizar las agendas de notificaciones y diligencias judiciales que han de practicar los actuarios mediante riguroso turno, excepto las de carácter urgente, las medidas cautelares, las dictadas en materia de amparo u otras que así lo ameriten a criterio de la autoridad judicial emisora;
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
 
-IV. Supervisar que el desempeño de los actuarios en las diligencias se realice con estricto apego a la Ley;
+III. Coordinar y organizar las agendas de notificaciones y diligencias judiciales que han de practicar las personas actuarias mediante riguroso turno, excepto las de carácter urgente, las medidas cautelares, las dictadas en materia de amparo u otras que así lo ameriten a criterio de la autoridad judicial emisora;
+
+> <small>(REFORMADA, D.O. 20 DE MARZO DE 2025)</small>
+
+IV. Supervisar que el desempeño de las personas actuarias en las diligencias se realice con estricto apego a la Ley;
 
 V. Llevar el control de personal tanto de los actuarios como de los empleados administrativos de la Central de Actuaría, así como resguardar bajo su responsabilidad los expedientes que ingresen diariamente a esta oficina para ser diligenciados;
 
@@ -2417,11 +2835,13 @@ VIII. Hacer publicar en el Diario Oficial del Gobierno del Estado de Yucatán la
 
 IX. Las demás que sean encargadas por el Pleno del Consejo y las establecidas por las demás disposiciones legales aplicables para el debido ejercicio de sus funciones.
 
-Requisitos para ocupar el cargo de Coordinador de la Central de Actuaría
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Requisitos para ocupar el cargo de persona Coordinadora de la Central de Actuaría
 
 ###### Artículo 152.
 
-Para ser Coordinador de la Central de Actuaría deberán cubrirse los mismos requisitos previstos en la Ley Orgánica para el Secretario General de Acuerdos.
+Para ser persona Coordinadora de la Central de Actuaría deberán cubrirse los mismos requisitos previstos en la Ley Orgánica para las personas Secretarias General de Acuerdos.
 
 ### CAPÍTULO XI. Oficialía de Partes
 
@@ -2461,19 +2881,21 @@ En los departamentos y distritos judiciales donde no exista Oficialía de Partes
 
 Las funciones específicas de las áreas de correspondencia serán las establecidas en los Acuerdos Generales que expida el Pleno, con base en lo dispuesto en las leyes en materia de archivos.
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Recepción de Documentos
 
 ###### Artículo 156.
 
-En las Oficialías de Partes un servidor público judicial será el receptor de los documentos, les pondrá la fecha y la hora de recepción y su firma turnándolo al Juzgado que corresponda, de acuerdo con el sorteo en el sistema de cómputo y a falta de éste con la tabla de números índice. Para el efecto anterior la Oficialía de Partes estará dotada de un reloj marcador, equipo de cómputo, tablas de números índices que sean necesarios y el libro de registro correspondiente.
+En las Oficialías de Partes una persona servidora pública judicial recibirá los documentos, les pondrá la fecha y la hora de recepción y su firma turnándolo al Juzgado que corresponda, de acuerdo con el sorteo en el sistema de cómputo y a falta de éste con la tabla de números índice. Para el efecto anterior la Oficialía de Partes estará dotada de un reloj marcador, equipo de cómputo, tablas de números índices que sean necesarios y el libro de registro correspondiente.
 
-> <small>(REFORMADO, D.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Titulares de las Oficialías de Partes y responsables de las áreas de correspondencia
 
 ###### Artículo 157.
 
-Los titulares de las oficialías de partes y los responsables de las áreas de correspondencia serán funcionarios de confianza y de reconocida honorabilidad, deberán contar con título de abogado o licenciado en derecho y tener los conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad, por lo cual el Pleno y los titulares de los órganos jurisdiccionales establecerán las condiciones que permitan la capacitación de estos servidores públicos, para el buen funcionamiento de los archivos.
+Los titulares de las oficialías de partes y las personas responsables de las áreas de correspondencia serán funcionarios y funcionarias de confianza y de reconocida honorabilidad, deberán contar con título de abogado o licenciado en derecho y tener los conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad, por lo cual el Pleno y los titulares de los órganos jurisdiccionales establecerán las condiciones que permitan la capacitación de estas personas servidoras públicas, para el buen funcionamiento de los archivos.
 
 ### CAPÍTULO XII. De los Expedientes
 
@@ -2491,17 +2913,21 @@ Permanencia de los Expedientes en el Juzgado
 
 Los expedientes deberán permanecer en el local del Juzgado, excepto cuando sea indispensable sacarlos del local para la práctica de diligencias que sean estrictamente necesarias y ordenadas por el Titular del órgano, es decir, para remitirlos a la autoridad competente cuando se interponga recurso de apelación o juicio de amparo o cuando la ley expresamente lo permita.
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Consulta de Expedientes
 
 ###### Artículo 160.
 
-Para la consulta de expedientes los interesados serán atendidos por el Secretario Auxiliar o por el personal designado para colaborar con éste en sus funciones siempre y cuando los expedientes solicitados estén en poder de la Secretaría. Las partes, sus representantes o autorizados, no podrán tener conocimiento del contenido de las promociones pendientes de proveerse ni de los acuerdos recaídos sino hasta que sean notificados de ellos.
+Para la consulta de expedientes las personas interesadas serán atendidas por la persona Secretaria Auxiliar o por el personal designado para colaborar con éste en sus funciones siempre y cuando los expedientes solicitados estén en poder de la Secretaría. Las partes, sus representantes o personas autorizadas, no podrán tener conocimiento del contenido de las promociones pendientes de proveerse ni de los acuerdos recaídos sino hasta que sean notificados de ellos.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Personas que pueden consultar los Expedientes
 
 ###### Artículo 161.
 
-Bajo la responsabilidad del Secretario Auxiliar los expedientes sólo podrán facilitarse a las partes, defensores, autorizados para oír notificaciones y a todos aquellos que tengan interés legal para el efecto, para que sean consultados en el local del Juzgado y previa su identificación. En caso de duda decidirá el Juez.
+Bajo la responsabilidad de las personas Secretarias Auxiliares los expedientes sólo podrán facilitarse a las partes, personas defensoras, personas autorizadas para oír notificaciones y a todas aquellas personas que tengan interés legal para el efecto, para que sean consultados en el local del Juzgado y previa su identificación. En caso de duda decidirá la persona juzgadora.
 
 Tomos de los Expedientes
 
@@ -2523,11 +2949,13 @@ Expediente Electrónico
 
 Para los efectos de esta sección se entiende por expediente electrónico todo procedimiento integrado con información almacenada en un sistema de informática.
 
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
 Digitalización de las Promociones y Documentos
 
 ###### Artículo 165.
 
-Los Jueces, en conjunto con sus respectivos Secretarios de Acuerdos, serán los responsables de vigilar que se realice la digitalización de las promociones y documentos que presenten las partes ante los juzgados respectivos y se agreguen oportunamente los acuerdos, resoluciones o sentencias y toda la información relacionada con los expedientes.
+Las personas juzgadoras, en conjunto con sus respectivos (sic) personas Secretarias de Acuerdos, serán los responsables de vigilar que se realice la digitalización de las promociones y documentos que presenten las partes ante los juzgados respectivos y se agreguen oportunamente los acuerdos, resoluciones o sentencias.
 
 Consulta de Expediente Electrónico
 
@@ -2543,69 +2971,85 @@ De las Faltas Absolutas
 
 Son faltas absolutas las provenientes de muerte, renuncia o destitución. Son temporales las que, sin ser absolutas, excedan de quince días; se reputarán como faltas accidentales las que no excedan de quince días.
 
-De las Suplencias de los Jueces de Primera Instancia
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+De las Suplencias de las personas Juzgadoras de Primera Instancia
 
 ###### Artículo 168.
 
-Las faltas temporales de los jueces de primera instancia, se suplirán por un Juez con carácter de interino. Sus faltas accidentales, serán suplidas por el Secretario de Acuerdos correspondiente y, en su defecto, por el Juez o Secretario que determine el Pleno del Consejo siguiendo en su caso, y de manera sucesiva el orden de la numeración de los juzgados.
+Las faltas temporales de las personas juzgadoras de primera instancia, se suplirán por una persona juzgadora con carácter de interino. Sus faltas accidentales, serán suplidas por la persona Secretaria de Acuerdos correspondiente y, en su defecto, por la persona juzgadora o persona Secretaria que determine el Pleno del Consejo siguiendo en su caso, y de manera sucesiva el orden de la numeración de los juzgados.
 
-En el caso de los jueces especializados en justicia para adolescentes, solo podrán ser suplidos por otro servidor público judicial especializado.
+En el caso de las personas juzgadoras especializadas en justicia para adolescentes, solo podrán ser suplidos por otro servidor público judicial especializado.
 
-Para los efectos de este artículo, los Secretarios de Acuerdos asumirán el despacho del Juzgado para el sólo efecto de practicar las diligencias urgentes, dictar las providencias de trámite y las resoluciones urgentes con arreglo a la Ley, pero sin resolver en definitiva.
+Para los efectos de este artículo las personas Secretarias de Acuerdos asumirán el despacho del Juzgado para el sólo efecto de practicar las diligencias urgentes, dictar las providencias de trámite y las resoluciones urgentes con arreglo a la Ley, pero sin resolver en definitiva.
 
-De las Suplencias de los Secretarios de Acuerdos
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+De las Suplencias de las personas Secretarias de Acuerdos
 
 ###### Artículo 169.
 
-La falta de los Secretarios de los Juzgados, se suplirán de la forma siguiente:
+La falta de las personas Secretarias de los Juzgados, se suplirán de la forma siguiente:
 
-I.- Las faltas temporales por un Secretario interino;
+I.- Las faltas temporales por un Secretario o Secretaria interina;
 
-II.- Las faltas accidentales de los Secretarios de Acuerdos por los Secretarios de Estudio y Cuenta del propio juzgado que designe el titular del órgano, comunicándolo a la Comisión de Desarrollo Humano del Consejo.
+II.- Las faltas accidentales de las personas Secretarias de Acuerdos por las personas Secretarias de Estudio y Cuenta del propio juzgado que designe el titular del órgano, comunicándolo a la Comisión de Desarrollo Humano del Consejo.
 
-III.- Las faltas accidentales de los Secretarios Auxiliares, se suplirán por el Secretario de Acuerdos o Secretario de Estudio y Cuenta, según sea el caso, y las temporales por un interino que designe el Consejo y
+III.- Las faltas accidentales de las personas Secretarias Auxiliares, se suplirán por la persona Secretaria de Acuerdos o Secretaria de Estudio y Cuenta, según sea el caso, y las temporales por una persona interina que designe el Consejo y
 
-IV.- Las faltas accidentales de los Secretarios de Acuerdos en los Juzgados donde no hubiere Secretarios de Estudio y Cuenta por un Actuario del mismo juzgado y a falta de éste, por el Secretario o el Actuario del otro juzgado de la misma cabecera, en ese orden.
+IV.- Las faltas accidentales de las personas Secretarias de Acuerdos en los Juzgados donde no hubiere personas Secretarias de Estudio y Cuenta por una persona Actuaria o del mismo juzgado y a falta de éste, por la persona Secretaria o la persona Actuaria del otro juzgado de la misma cabecera, en ese orden.
 
-De las Suplencias de los Actuarios
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+De las Suplencias de las personas Actuarias
 
 ###### Artículo 170.
 
-Las faltas temporales de los Actuarios adscritos a los Juzgados o a la Central de Actuaría se suplirán por un interino que nombre el Consejo.
+Las faltas temporales de las personas Actuarias adscritas a los Juzgados o a la Central de Actuaría se suplirán por una persona interina que nombre el Consejo.
 
-En el caso de las faltas accidentales y las que ocurran por excusa de los actuarios en los juzgados mixtos donde solo hubiere uno, éste será suplido por quien designe la Central de Actuaría.
+En el caso de las faltas accidentales y las que ocurran por excusa de las personas actuarias en los juzgados mixtos donde solo hubiere uno, éste será suplido por quien designe la Central de Actuaría.
 
-De las Suplencias de los demás funcionarios
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+De las Suplencias de los (sic) demás personas servidoras públicas
 
 ###### Artículo 171.
 
-Las vacantes por licencias concedidas a los demás funcionarios o empleados de la Administración de Justicia del ámbito de competencia del Consejo serán cubiertas por interinos.
+Las vacantes por licencias concedidas a las demás personas servidoras públicas de la Administración de Justicia del ámbito de competencia del Consejo serán cubiertas por personas interinas.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 De las Excusas
 
 ###### Artículo 172.
 
-Las faltas accidentales de los Titulares de los Juzgados, que ocurran en determinado asunto por excusa o recusación, se suplirán en los términos que previene el artículo 169 de la Ley Orgánica.
+Las faltas accidentales de las personas Titulares de los Juzgados, que ocurran en determinado asunto por excusa o recusación, se suplirán en los términos que previene el artículo 169 de la Ley Orgánica.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE MARZO DE 2025)</small>
 
 ## TÍTULO SEXTO
 
-DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO Y DEL PERSONAL DE LOS ÓRGANOS QUE INTEGRAN SU ÁMBITO DE COMPETENCIA
+DE LA RESPONSABILIDAD DE LAS PERSONAS FUNCIONARIAS Y EMPLEADAS DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO Y DEL PERSONAL DE LOS ÓRGANOS QUE INTEGRAN SU ÁMBITO DE COMPETENCIA
 
 ### CAPÍTULO I. Disposiciones Generales
 
-De la Responsabilidad de los funcionarios y empleados
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+De la Responsabilidad de las personas funcionarias y personas empleadas
 
 ###### Artículo 173.
 
-Los funcionarios y empleados del Consejo y el personal de los órganos que integran su ámbito de competencia, serán responsables de las faltas que pudieran resultar en el ejercicio de sus funciones, independientemente de la responsabilidad penal o patrimonial que pudiera resultar de dichas faltas.
+Las personas funcionarias y personas empleadas del Consejo y el personal de los órganos que integran su ámbito de competencia, serán responsables de las faltas que pudieran resultar en el ejercicio de sus funciones, independientemente de la responsabilidad penal o patrimonial que pudiera resultar de dichas faltas.
+
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 Permanencia en la Oficina
 
 ###### Artículo 174.
 
-El personal del Juzgado, así como el de las otras áreas a que se refiere este Reglamento estará obligado a permanecer en el local donde labore durante toda la jornada de trabajo, salvo que por la naturaleza del mismo o por alguna eventualidad tenga que realizarse fuera de éste, en éste último caso necesitará el permiso correspondiente por parte del jefe de la oficina.
+El personal del Juzgado, así como el de las otras áreas a que se refiere este Reglamento estará obligado a permanecer en el local donde labore durante toda la jornada de trabajo, salvo que por la naturaleza del mismo o por alguna eventualidad tenga que realizarse fuera de éste, en éste último caso necesitará el permiso correspondiente por parte de su superior jerárquico.
 
-De igual forma y por necesidades del servicio el Pleno del Consejo podrá acordar la reubicación o cambio de adscripción de los funcionarios judiciales a las distintas sedes judiciales de primera instancia.
+De igual forma y por necesidades del servicio el Pleno del Consejo podrá acordar el cambio de adscripción de las personas funcionarias judiciales a las distintas sedes judiciales de primera instancia.
 
 De los Juicios de Responsabilidad
 
@@ -2613,13 +3057,19 @@ De los Juicios de Responsabilidad
 
 Las responsabilidades administrativas en que incurra el personal adscrito a los órganos jurisdiccionales y a las diversas áreas referidas en este Reglamento, se resolverán en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Estatal, la Ley Orgánica, la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, la Ley de Responsabilidades, a los Acuerdos que al efecto emita el Consejo en materia disciplinaria y demás disposiciones aplicables.
 
-Los juicios con motivo de la responsabilidad en que incurran los funcionarios y empleados del Consejo y el personal de los órganos que integran su ámbito de competencia, se sustanciarán de acuerdo con lo que dispone este Reglamento y la Ley de Responsabilidades.
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
-De las Obligaciones de los Servidores Públicos
+Los juicios con motivo de la responsabilidad en que incurran las personas funcionarias y personas empleadas del Consejo y el personal de los órganos que integran su ámbito de competencia, se sustanciarán de acuerdo con lo que dispone este Reglamento y la Ley de Responsabilidades.
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 20 DE MARZO DE 2025)</small>
+
+De las Obligaciones de las personas servidoras públicas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 176.
 
-Con independencia de lo establecido en la Ley de Responsabilidades, los funcionarios y empleados del Consejo y el personal de los órganos que integran su ámbito de competencia, evitarán:
+Con independencia de lo establecido en la Ley de Responsabilidades, las personas funcionarias y personas empleadas del Consejo y el personal de los órganos que integran su ámbito de competencia, evitarán:
 
 l. Faltar sin causa justificada al lugar de su adscripción; llegar tarde o no permanecer en el despacho todo el tiempo establecido por la Ley;
 
@@ -2635,43 +3085,45 @@ V. Las demás expresamente determinadas en la Ley Orgánica y en los acuerdos ge
 
 ### CAPÍTULO II. De la Investigación y del Procedimiento de Responsabilidad Administrativa
 
-> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 177.
 
-La Contraloría del Consejo, a través de la unidad que corresponda, coordinará la recepción y registro de todas las denuncias que se formulen en contra de los servidores públicos del Poder Judicial, con excepción del personal del Tribunal y del personal del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, todos del Estado de Yucatán.
+La Contraloría del Consejo, a través de la unidad que corresponda, coordinará la recepción y registro de todas las denuncias que se formulen en contra de las personas funcionarias y personas empleadas del Poder Judicial, con excepción del personal del Tribunal y del personal del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, todos del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 178.
 
-La denuncia deberá ser presentada por escrito, señalando domicilio, preferentemente en el Estado, y dirección de correo electrónico para que se realicen las notificaciones respectivas, así como contener los datos o indicios que permitan advertir la probable responsabilidad por la comisión de faltas administrativas, tales como el señalamiento o algún dato que permita identificar al servidor público probablemente responsable, las circunstancias de modo, tiempo y lugar que sean del conocimiento de su promovente, y en su caso, deberá de acompañarse de las pruebas documentales o elementos probatorios suficientes para poder establecer la existencia de la infracción y presumir la responsabilidad del servidor judicial denunciado.
+La denuncia deberá ser presentada por escrito, señalando domicilio, preferentemente en el Estado, y dirección de correo electrónico para que se realicen las notificaciones respectivas, así como contener los datos o indicios que permitan advertir la probable responsabilidad por la comisión de faltas administrativas, tales como el señalamiento o algún dato que permita identificar a la persona servidora pública probablemente responsable, las circunstancias de modo, tiempo y lugar que sean del conocimiento de la persona promovente, y en su caso, deberá de acompañarse de las pruebas documentales o elementos probatorios suficientes para poder establecer la existencia de la infracción y presumir la responsabilidad de la persona servidora pública denunciada.
 
-> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 179.
 
-Si del contenido de la denuncia, se advierte notoriamente que los hechos narrados por el promovente se tratan de cuestiones estrictamente jurisdiccionales o que no son de su competencia, la autoridad investigadora la desechará de plano sin mayor trámite.
+Si del contenido de la denuncia, se advierte notoriamente que los hechos narrados por la persona promovente se tratan de cuestiones estrictamente jurisdiccionales o que no son de su competencia, la autoridad investigadora la desechará de plano sin mayor trámite.
 
-> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 180.
 
-Cuando la denuncia no reúna los elementos probatorios suficientes para establecer la existencia de la infracción o la identificación del servidor público a quien se impute la responsabilidad o la existencia de hechos o conductas constitutivas de faltas administrativas, la autoridad investigadora prevendrá al denunciante, para que dentro del plazo de diez días hábiles contados a partir del día siguiente en que se notifique el procedimiento, aporte más elementos.
+Cuando la denuncia no reúna los elementos probatorios suficientes para establecer la existencia de la infracción o la identificación de la persona servidora pública a quien se impute la responsabilidad o la existencia de hechos o conductas constitutivas de faltas administrativas, la autoridad investigadora prevendrá a la parte denunciante, para que dentro del plazo de diez días hábiles contados a partir del día siguiente en que se notifique el procedimiento, aporte más elementos.
+
+> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
 Transcurrido dicho término, sin que se aporten mayores elementos, se dictará el acuerdo de conclusión por falta de interés. Lo anterior, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
 
-> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 181.
 
-Una vez que la denuncia contenga los elementos necesarios para dar curso a una investigación, la autoridad investigadora requerirá al denunciante para que comparezca dentro de los diez días hábiles siguientes a la recepción de la notificación, a efecto de ratificarse de su denuncia, con apercibimiento que de no hacerlo, se tendrá por no presentada la denuncia, procediéndose a su conclusión y archivo.
+Una vez que la denuncia contenga los elementos necesarios para dar curso a una investigación, la autoridad investigadora requerirá a la parte denunciante para que comparezca dentro de los diez días hábiles siguientes a la recepción de la notificación, a efecto de ratificarse de su denuncia, con apercibimiento que de no hacerlo, se tendrá por no presentada la denuncia, procediéndose a su conclusión y archivo.
 
-> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 182.
 
-La Autoridad investigadora realizará de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia. Lo anterior sin menoscabo de las investigaciones que se deriven de las denuncias a que se hace referencia en los artículos anteriores.
+La Autoridad investigadora realizará de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de las personas servidoras públicas y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia. Lo anterior sin menoscabo de las investigaciones que se deriven de las denuncias a que se hace referencia en los artículos anteriores.
 
 > <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
@@ -2707,11 +3159,11 @@ La Contraloría, a través de la unidad correspondiente, será la encargada de v
 
 En caso de que la sanción impuesta sea de carácter pecuniario, la Contraloría vigilará que se haga efectiva dicha sanción, previa determinación que efectúe la Comisión de Disciplina o el Pleno del Consejo, según corresponda, considerando el criterio propuesto por la Comisión de Administración para ejecutar la referida sanción.
 
-> <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
 
 ###### Artículo 188.
 
-Todas las certificaciones necesarias en el procedimiento administrativo serán efectuadas por el Secretario Ejecutivo del Consejo.
+Todas las certificaciones necesarias en el procedimiento administrativo serán efectuadas por la persona titular de la Secretaría Ejecutiva del Consejo, o por quien legalmente la supla.
 
 > <small>(REFORMADO, D.O. 27 DE MARZO DE 2018)</small>
 
@@ -2731,11 +3183,13 @@ Las resoluciones definitivas emitidas dentro de los procedimientos administrativ
 
 Para efectos de la investigación y del procedimiento de responsabilidad administrativa se aplicará lo dispuesto en este apartado, así como en la Ley de Responsabilidades Administrativas del Estado de Yucatán y la Ley General de Responsabilidades Administrativas, en lo que no se oponga a las funciones judiciales.
 
-Condiciones Generales de Trabajo de los Servidores Públicos del Consejo
+> <small>(REFORMADO, D.O. 20 DE MARZO DE 2025)</small>
+
+Condiciones Generales de Trabajo de las personas Servidoras Públicas
 
 ###### Artículo 192.
 
-Las disposiciones relativas a las Condiciones Generales de Trabajo de los servidores públicos del ámbito de competencia del Consejo se sujetarán a la normatividad que al efecto emita el Pleno del Consejo.
+Las disposiciones relativas a las Condiciones Generales de Trabajo de las personas servidoras públicas del ámbito de competencia del Consejo se sujetarán a la normatividad que al efecto emita el Pleno del Consejo.
 
 ## TRANSITORIOS
 
@@ -2840,3 +3294,15 @@ Sexto. En tanto el Consejo de la Judicatura cuente con los recursos presupuestal
 Funcionamiento temporal de la Secretaría Ejecutiva como área de correspondencia
 
 Séptimo. En tanto el Consejo de la Judicatura cuente con los recursos presupuestales asignados, para dotar de los recursos humanos, financieros y materiales a la Oficialía de Partes Administrativa, para prestar el servicio a que se refiere el artículo 39 Bis, adicionado mediante este Acuerdo General, la Secretaría Ejecutiva fungirá como área de correspondencia del Pleno y de las Comisiones Permanentes, únicamente.
+
+D.O. 20 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO OR03-250311-01 DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE YUCATÁN POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO.”]
+
+Entrada en vigor
+
+Primero. El presente acuerdo general entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Publicación y difusión
+
+Segundo. Publíquese el presente acuerdo general en el Diario Oficial del Gobierno del Estado de Yucatán y en la página electrónica del Poder Judicial.
