@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-89412
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2024-12-27"
+last_updated: "2025-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de septiembre de 2012.
 
@@ -121,9 +121,13 @@ I. A la igualdad ante la Ley sin discriminación;
 
 II. A la protección contra la explotación, la violencia y el abuso;
 
-III. Al respeto de la integridad física y mental;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
 
-IV. A vivir en la comunidad;
+III. Al respeto de la integridad física, mental y de su dignidad inherente;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
+
+IV. A ser incluidos y participar plenamente en su familia y en la comunidad;
 
 V. A un nivel de vida adecuado;
 
@@ -146,6 +150,14 @@ XIII. Al desarrollo y asistencia social en caso de que la persona con discapacid
 XIV. Al deporte y a contar con las instalaciones adecuadas para su práctica; y
 
 XV. A la cultura y a la recreación, además del acceso a los servicios culturales y artísticos que promueva la administración pública estatal y municipal.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2025)</small>
+
+XV Bis. A que se les garantice la máxima independencia posible;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2025)</small>
+
+XV Ter. A ser consultadas en los asuntos que les afecten;
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -191,7 +203,9 @@ Atribuciones de la persona titular del Ejecutivo del Estado y los municipios.
 
 La persona titular del Ejecutivo del Estado y los municipios para garantizar la inclusión de las personas con discapacidad, contarán con las siguientes atribuciones:
 
-I. Impulsar en los sectores público y social una cultura de inclusión;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
+
+I. Impulsar en los sectores público y social una cultura de inclusión que garantice la equiparación de oportunidades de las personas con discapacidad;
 
 II. Establecer en los instrumentos de planeación, las metas, objetivos, estrategias y acciones para la atención de las personas con discapacidad;
 
@@ -201,7 +215,9 @@ IV. Promover campañas permanentes para la sensibilización de la sociedad respe
 
 V. Establecer programas de capacitación a los servidores públicos para brindar a las personas con discapacidad un trato digno, equitativo y preferente y garantizar el respeto a sus derechos humanos;
 
-VI. Garantizar la asistencia de intérpretes para las personas con discapacidad cuando deban comparecer ante las autoridades judiciales o de procuración de justicia del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
+
+VI. Garantizar la asistencia de intérpretes para las personas con discapacidad cuando deban acudir ante las autoridades administrativas, judiciales o de procuración de justicia del Estado;
 
 VII. Impulsar medidas para asegurar la accesibilidad de las personas con discapacidad, en igualdad de condiciones que las demás; mejorar los entornos que faciliten su inclusión e integración, así como fomentar una cultura social accesible para todos;
 
@@ -219,6 +235,10 @@ XIII. Promover medidas para erradicar la discriminación hacia las personas con 
 
 XIV. Integrar en sus programas y presupuesto de egresos, las acciones y recursos para el cumplimiento de sus atribuciones;
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2025)</small>
+
+XIV Bis. Promover la capacitación y el aprendizaje que contribuyan al desarrollo integral de las personas con discapacidad;
+
 XV. Garantizar la transversalidad de las acciones públicas para el cumplimiento de las obligaciones que esta Ley les impone; y
 
 XVI. Las demás que les otorgue la presente Ley u otras disposiciones legales aplicables.
@@ -228,6 +248,16 @@ Atribuciones de las autoridades estatales y municipales
 ###### Artículo 7.
 
 Las dependencias y entidades de la administración pública estatal y municipal en el ejercicio de cada una de sus atribuciones, aplicarán la perspectiva de inclusión y atenderán el contenido de la presente Ley para impulsar el desarrollo integral de las personas con discapacidad y una cultura de inclusión.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2025)</small>
+
+Generación de condiciones que favorezcan la contratación de personas con discapacidad
+
+###### Artículo 7 Bis.
+
+El Poder Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, generarán de manera progresiva condiciones adecuadas para el desarrollo de actividades laborales para las personas con discapacidad.
+
+Para tal efecto, promoverán el derecho al trabajo digno, atendiendo a sus respectivas competencias laborales, garantizando por lo menos un tres por ciento de contratación en su plantilla laboral de forma progresiva.
 
 Prioridad de la administración pública estatal y municipal
 
@@ -272,6 +302,10 @@ III. Elaborar un diagnóstico anual que determine la situación de las personas 
 > <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 IV. Realizar un registro de personas con discapacidad en el Estado, el cual deberá actualizarse de manera continua con la información que será solicitada a las dependencias y entidades de la administración pública y a organizaciones de la sociedad civil;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2025)</small>
+
+IV Bis. Integrar un padrón de las organizaciones e instituciones estatales dedicadas a la habilitación o rehabilitación de personas con discapacidad;
 
 V. Elaborar un sistema de base de datos para el registro de personas con discapacidad y difundirlo a las autoridades de la administración pública estatal y municipal, así como a organizaciones de la sociedad civil;
 
@@ -481,7 +515,9 @@ Las estrategias en materia de salud que se deberán considerar en el Programa de
 
 I. La prevención y detección temprana de las discapacidades, contemplando aspectos fundamentales para disminuir los factores que las ocasionan;
 
-II. La inclusión de mecanismos para la atención oportuna, habilitación y rehabilitación de las diferentes discapacidades, incluyendo la asesoría, orientación física y psicológica a quienes presenten una discapacidad, así como a sus familiares;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
+
+II. La inclusión de mecanismos para la atención oportuna, habilitación y rehabilitación de las diferentes discapacidades, incluyendo la asesoría, orientación física y psicológica a quienes presenten una discapacidad, así como a sus familiares o terceras personas que se encarguen de su cuidado;
 
 III. La realización de estudios e investigaciones y campañas permanentes para la detección de personas con discapacidad; y
 
@@ -499,17 +535,25 @@ II. La promoción de la inclusión de las personas con discapacidad al sistema e
 
 III. La identificación de las necesidades reales de los educandos; la accesibilidad y la universalidad, de manera que ningún educando quede fuera de la educación por su edad o tipo de discapacidad;
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2025)</small>
+
+III Bis. La promoción de la utilización de la lengua de señas mexicana, el sistema de escritura braille, y otros modos, medios y formatos de comunicación;
+
 IV. La promoción de una cultura de inclusión y respeto, particularmente en las aulas donde haya personas con discapacidad;
 
 V. La promoción en las instituciones formadoras de docentes, que en los cursos de actualización, capacitación y formación se consideren las necesidades educativas especiales de las personas con discapacidad en los diferentes niveles y tipos de educación;
 
 VI. La atención de las personas adultas con discapacidad que no hayan cursado o concluido su educación básica, para su alfabetización o conclusión de la educación básica en las instituciones educativas para adultos;
 
-VII. La dotación oportuna y suficiente de libros de texto, material didáctico y ayudas técnicas para garantizar el acceso a la educación básica de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
+
+VII. La dotación oportuna y suficiente de libros de texto, audio libros, material didáctico y ayudas técnicas para garantizar el acceso a la educación básica de las personas con discapacidad;
 
 VIII. El diseño de un programa estatal de becas para las personas con discapacidad en instituciones públicas y privadas incorporadas, en todos sus niveles; y
 
-IX. La implementación de sistemas de aprendizaje para las personas con discapacidad.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2025)</small>
+
+IX. La implementación de sistemas de aprendizaje para las personas con discapacidad, así como la evaluación psicopedagógica de su desarrollo educativo.
 
 Desarrollo social y humano
 
@@ -590,6 +634,14 @@ Deporte, recreación y cultura
 Las estrategias que seguirá el Programa de Gobierno en materia de deporte, recreación y cultura serán las siguientes:
 
 I. Considerar el otorgamiento de becas para la participación de las personas con discapacidad en las competencias deportivas estatales, nacionales e internacionales, y de premios e incentivos a los deportistas que destaquen en las diversas disciplinas deportivas;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2025)</small>
+
+I Bis. Propiciar condiciones de inclusión para lograr la equidad en la promoción, disfrute y realización de servicios deportivos, artísticos y culturales;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2025)</small>
+
+I Ter. Fomentar la elaboración de materiales de lectura o didácticos, incluyendo el sistema de escritura braille u otros formatos accesibles;
 
 II. El establecimiento de medidas tendientes al desarrollo de las capacidades creadoras, artísticas e intelectuales de las personas con discapacidad, así como fomentar su participación en actividades culturales y artísticas; y
 
@@ -826,3 +878,19 @@ La Secretaría de Gobierno transferirá a la Secretaría de Derechos Humanos, lo
 El personal de la Secretaría de Gobierno, que atienda los temas de derechos humanos, pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente decreto.
 
 Artículo Tercero. A partir de la entrada en vigor del presente Decreto la persona titular del Poder Ejecutivo expedirá y adecuará los reglamentos y demás disposiciones para el cumplimiento, en un término que no exceda de 90 días naturales. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 62, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO”.]
+
+Inicio de la vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Informe anual
+
+Artículo Segundo. El Poder Ejecutivo del Estado y los ayuntamientos presentarán un informe anual al Congreso del Estado en el mes de diciembre de cada año, acerca de la incorporación progresiva de personas con discapacidad en las nuevas designaciones, nombramientos o contrataciones que lleven a cabo.
+
+Adecuaciones
+
+Artículo Tercero. La persona titular del Poder Ejecutivo y los ayuntamientos dispondrán de un plazo que no excederá de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que permitan dar cumplimiento a las nuevas atribuciones que se asignan.
