@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2024-12-02"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE MARZO DE 2025.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -63,11 +63,13 @@ El Ayuntamiento de Hermosillo es la autoridad con atribuciones para ordenar la a
 
 El Ayuntamiento de Hermosillo, deberá adoptar las medidas de prevención y mitigación de riesgos para garantizar la seguridad e integridad de las y los conductores, las y los pasajeros y la ciudadanía en general.
 
-Además, tras recibir la opinión del Instituto Municipal de Planeación Urbana, Movilidad y Espacio Público, la Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, será la autoridad competente para gestionar las autorizaciones, la señalización y la instalación de semáforos en las vías públicas. En cuanto a las autorizaciones relacionadas con las áreas de taxis, son responsabilidad de la Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia; en todos los casos, se requerirá un dictamen previo del Instituto Municipal de Planeación Urbana, Movilidad y Espacio Público.
+> <small>(REFORMADO, B.O. 21 DE MARZO DE 2025)</small>
+
+Además, tras recibir la opinión del Instituto Municipal de Planeación Urbana, Movilidad y Espacio Público, la Dirección General de Desarrollo de Infraestructura será la autoridad competente para gestionar las autorizaciones, la señalización y la instalación de semáforos en las vías públicas. En cuanto a las autorizaciones relacionadas con las áreas de taxis, será responsabilidad de la Dirección General de Ordenamiento y Desarrollo Urbano; en todos los casos, se requerirá una opinión técnica previa del Instituto Municipal de Planeación Urbana, Movilidad y Espacio Público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-ARTÍCULO 2 BIS. Sin perjuicio de las atribuciones establecidas en la Ley General de Movilidad y Seguridad Vial, Ley de Movilidad y Seguridad Vial para el Estado de Sonora, Ley de Tránsito del Estado de Sonora, la Ley de Transporte del Estado de Sonora, Bando de Policía y Gobierno, el Ayuntamiento de Hermosillo, por conducto de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, ejercerá las siguientes atribuciones:
+ARTÍCULO 2 BIS.- Sin perjuicio de las atribuciones establecidas en la Ley General de Movilidad y Seguridad Vial, Ley de Movilidad y Seguridad Vial para el Estado de Sonora, Ley de Tránsito del Estado de Sonora, la Ley de Transporte del Estado de Sonora, Bando de Policía y Gobierno, el Ayuntamiento de Hermosillo, por conducto de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, ejercerá las siguientes atribuciones:
 
 I.- Vigilar el cumplimiento de las disposiciones contenidas en el presente Reglamento;
 
@@ -1561,25 +1563,41 @@ Las sanciones impuestas por infracciones a este Reglamento y la Ley de Tránsito
 
 #### SECCIÓN I. AUTORIZACIONES DE ESTACIONAMIENTOS EXCLUSIVOS, PARA PERSONAS CON DISCAPACIDAD Y PARA ÁREAS DE TAXIS
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 70.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo estudio correspondiente, podrá autorizar cajones de estacionamiento exclusivo en la vía pública para uso residencial o comercial, tomando en cuenta la factibilidad técnica y vial, previa solicitud y para lo cual deberá cumplir además con los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano podrá autorizar cajones de estacionamiento exclusivo en la vía pública para uso residencial o comercial, tomando en cuenta la factibilidad técnica y vial, previa solicitud y para lo cual deberá cumplir además con los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Acreditación de la propiedad o, en su caso, posesión legítima incontrovertida. Este requisito se satisfacerá por medio de documento público, copia certificada o documentos originales;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Croquis de ubicación;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Presentar Cédula de Identificación Fiscal, para acreditar el Registro Federal de Contribuyente;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Presentar carta de no adeudo al Municipio;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VII. Pago de los derechos correspondientes; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VIII. Licencia de funcionamiento en caso de tratarse de uso comercial.
 
@@ -1633,11 +1651,11 @@ IV. Por determinación, fundada y motivada, que dicte el Instituto de Planeació
 
 Las autorizaciones para cajones de estacionamiento exclusivo estarán sujetas en todo momento a las determinaciones que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, tendrán una vigencia mensual y el pago de los derechos correspondientes se hará por adelantado en una sola exhibición.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 75.
 
-La Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1687,11 +1705,11 @@ XI Presentar opinión positiva del Instituto Municipal de Planeación Urbana, Mo
 
 XII. Realizar el pago de los derechos correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 76.
 
-Para obtener el requisito a que hace referencia la fracción XI, del artículo anterior, la Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia, procederá a realizar la verificación de factibilidad, la cual consistirá en la revisión de los siguientes aspectos:
+Para obtener el requisito a que hace referencia la fracción XI, del artículo anterior, el Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público, previo pago de los derechos a que hubiere lugar, procederá a realizar la verificación de factibilidad, la cual consistirá en la revisión de los siguientes aspectos:
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1729,15 +1747,15 @@ Una vez efectuada la verificación de factibilidad y sin perjuicio del pago de l
 
 #### SECCIÓN II. AUTORIZACIÓN DE ALTOS DE CORTESÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 77.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen del Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar Altos de Cortesía, tomando en cuenta la factibilidad técnica y vial, satisfaciendo lo (sic) siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar Altos de Cortesía, tomando en cuenta la factibilidad técnica y vial, satisfaciendo lo siguientes requisitos:
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1759,15 +1777,15 @@ V. Presentar plano o croquis de ubicación.
 
 #### SECCIÓN III. AUTORIZACIÓN DE SEÑALAMIENTOS PARA ZONAS ESCOLARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 78.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen del Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar señalamientos para zonas escolares, conforme a los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar señalamientos para zonas escolares, conforme a los siguientes requisitos:
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1803,23 +1821,37 @@ Los señalamientos a que se refiere la presente sección serán para ubicar una 
 
 #### SECCIÓN IV. AUTORIZACIÓN DE INSTALACIÓN DE REDUCTORES DE VELOCIDAD
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 80.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo estudio correspondiente, podrá autorizar la instalación de reductores de velocidad, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano podrá autorizar la instalación de reductores de velocidad, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos, para el caso de escuelas particulares;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 III. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 IV. Presentar plano o croquis de ubicación;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 V. Presentar Cédula de Identificación Fiscal, para acreditar el Registro Federal de Contribuyente, para el caso de escuelas particulares;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Presentar carta de no adeudo al Municipio;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VII. Presentar comprobante de domicilio;
 
@@ -1827,21 +1859,23 @@ VII. Presentar comprobante de domicilio;
 
 VIII. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público; y
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IX. Documento que contenga las firmas de conformidad de la mayoría de los vecinos habitacionales o comerciales dentro de una franja perimetral de cien metros circundantes, contados a partir del eje del reductor de velocidad y la copia de la identificación oficial con fotografía, ya sea emitida por el Instituto Nacional Electoral o la Secretaría de Relaciones Exteriores, de cada uno de los firmantes.
 
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 #### SECCIÓN V. AUTORIZACIÓN DE SEÑALAMIENTOS PARA NUEVOS DESARROLLOS INMOBILIARIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
-###### ARTÍCULO 81.
+###### Artículo 81.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar señalamientos para nuevos desarrollos inmobiliarios, conforme a los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar señalamientos para nuevos desarrollos inmobiliarios, conforme a los siguientes requisitos:
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1867,15 +1901,15 @@ VI. Plano de señalamientos viales.
 
 #### SECCIÓN VI. AUTORIZACIÓN DE CAMBIO DE SENTIDO DE VIALIDAD LOCAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 82.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar el cambio de sentido de una vialidad local, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar el cambio de sentido de una vialidad local, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1907,15 +1941,15 @@ VIII. Presentar opinión positiva del Instituto Municipal de Planeación Urbana 
 
 #### SECCIÓN VII. AUTORIZACIÓN DE PERMISO PARA ASCENSO Y DESCENSO EN LA VÍA PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 83.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar permisos para ascenso y descenso en la vía pública, previo cumplimiento de los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar permisos para ascenso y descenso en la vía pública, previo cumplimiento de los siguientes requisitos:
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1949,15 +1983,15 @@ VIII. Presentar la licencia de funcionamiento.
 
 #### SECCIÓN VIII. AUTORIZACIÓN DE PERMISO PARA FRANJA ROJA PARA RESTRICCIÓN DE ESTACIONAMIENTO EN LA VÍA PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 84.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar el permiso para franja roja con el objetivo de restringir el estacionamiento de vehículos en la vía pública, tomando en cuenta la factibilidad técnica y vial, que no sean de los lugares que expresamente lo dispone el Reglamento de Tránsito Municipal de Hermosillo, previo cumplimiento de los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano podrá autorizar el permiso para la colocación de franja roja, con el objetivo de restringir el estacionamiento de vehículos en la vía pública. Esta autorización estará sujeta a la factibilidad técnica y vial, y no podrá otorgarse en los lugares que expresamente se regulan en el Reglamento de Tránsito Municipal de Hermosillo. Para ello, se deberá cumplir previamente con los siguientes requisitos:
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1991,15 +2025,15 @@ VIII. Documento que contenga las firmas de conformidad del 100 por ciento de los
 
 #### SECCIÓN IX. AUTORIZACIÓN DE MODIFICACIÓN GEOMÉTRICA DE LA VIALIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
 
-###### ARTÍCULO 85.
+###### Artículo 85.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar la modificación geométrica de la vialidad, tomando en cuenta la factibilidad técnica y vial, previo cumplimiento de los siguientes requisitos:
+La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar la modificación geométrica de la vialidad, tomando en cuenta la factibilidad técnica y vial, previo cumplimiento de los siguientes requisitos:
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -2123,13 +2157,13 @@ A partir de esta evaluación, el servidor público facultado llevará a cabo las
 
 IV.- Fase de Autorización: Los acuerdos de salida emitidos en la fase anterior con sentido de aceptación o rechazo, serán turnados al servidor público competente para su autorización, quien emitirá el acuerdo de autorización o rechazo o, en su caso, realizará las observaciones que sustente la negativa y se regresará el trámite al servidor público que corresponda para su atención.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 94.
 
-El Coordinador, Director o Subdirector, podrá suspender el proceso de la solicitud del trámite, si la Forma Precodificada de solicitud de trámite, contienen defectos u omisiones subsanables, debiendo fundar y motivar su determinación, la que deberá ser notificada por escrito al solicitante o mediante notificación electrónica, en términos de lo dispuesto en el Reglamento para el Uso de Medios Electrónico (sic) del Municipio de Hermosillo. El fundamento y la motivación consistirán en la determinación del defecto subsanable y las disposiciones reglamentarias en base a las cuales se determinó la existencia de tal defecto.
+La o el Director General o quien este designe para tales efectos podrá suspender el proceso de la solicitud del trámite, si la Forma Precodificada de solicitud de trámite, contienen defectos u omisiones subsanables, debiendo fundar y motivar su determinación, la que deberá ser notificada por escrito al solicitante o mediante notificación electrónica, en términos de lo dispuesto en el Reglamento para el Uso de Medios Electrónico (sic) del Municipio de Hermosillo. El fundamento y la motivación consistirán en la determinación del defecto subsanable y las disposiciones reglamentarias en base a las cuales se determinó la existencia de tal defecto.
 
-Asimismo, la Dirección de Vialidad y Semaforización o la Secretaría del Ayuntamiento, según el trámite que corresponda, podrá solicitar información adicional, atendiendo otras disposiciones legales, reglamentarias o normativas aplicables.
+Asimismo, la Dirección General de Ordenamiento y Desarrollo Urbano o ante quien se lleve el trámite, según el trámite que corresponda, podrá solicitar información adicional, atendiendo otras disposiciones legales, reglamentarias o normativas aplicables.
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
@@ -2139,19 +2173,257 @@ Son causales de suspensión del trámite:
 
 I.- La falta de información anexa a la solicitud del trámite, que permita al servidor público determinar que ha cumplido con los requisitos que le imponen este Reglamento y demás disposiciones legales, reglamentarias o normativas aplicables; o
 
-II.- El requerimiento de información adicional solicitada por la Dirección de Vialidad y Semaforización o la Secretaría del Ayuntamiento.
+> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+II. El requerimiento de información adicional solicitado por la Dirección General de Ordenamiento y Desarrollo Urbano, o por la instancia competente que gestione el procedimiento, según corresponda al trámite en cuestión.
+
+> <small>(REFORMADO, B.O. 21 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 96.
 
-El plazo que tienen (sic) el solicitante para subsanar las omisiones que hayan producido la suspensión de un trámite, será de diez días hábiles. El interesado, justificando las razones, podrá solicitar a la Dirección de Vialidad y Semaforización o la Secretaría del Ayuntamiento, dependiendo del trámite que se trate, la ampliación de diez días hábiles adicionales, la que podrá autorizar dicha ampliación por una única ocasión.
+El plazo que tiene la o el solicitante para subsanar las omisiones que hayan producido la suspensión de un trámite, será de diez días hábiles. La o el interesado, justificando las razones, podrá solicitar a la Dirección General de Ordenamiento y Desarrollo Urbano o ante quien se lleve el trámite, según el trámite que corresponda, la ampliación de diez días hábiles adicionales, la que podrá autorizar dicha ampliación por una única ocasión.
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
 ###### ARTICULO 97.
 
 En caso de que, dentro del plazo establecido en el artículo anterior, no se subsanase la razón de suspensión del trámite, se emitirá el acuerdo de rechazo de la solicitud de trámite, dejando los derechos a salvo del solicitante, para intentar de nuevo la solicitud del trámite en el entendido que deberá realizar el pago de derechos del nuevo trámite.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 21 DE MARZO DE 2025)</small>
+
+#### SECCIÓN XII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE INSPECCIÓN Y VIGILANCIA
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 98.
+
+La Dirección General de Inspección y Vigilancia tendrá las siguientes atribuciones para garantizar el cumplimiento de las disposiciones contenidas en el Capítulo Décimo Tercero del presente ordenamiento presente Reglamento (sic):
+
+I. Vigilar el cumplimiento de las disposiciones establecidas en este Reglamento, tomando las medidas necesarias para asegurar su observancia;
+
+II. Acordar las medidas pertinentes en casos de situaciones no previstas en el presente Reglamento, siempre que dichas medidas sean fundamentadas y motivadas en términos de las disposiciones legales aplicables;
+
+III. Emitir órdenes de visita a las personas físicas o morales que ejerzan actividades reguladas por este Reglamento, con el objetivo de verificar el cumplimiento de sus disposiciones;
+
+IV. Llevar a cabo acciones de vigilancia y supervisión, levantando actas circunstanciadas de las visitas realizadas y, en su caso, imponer las multas correspondientes conforme a la normatividad vigente;
+
+V. Otorgar al infractor un plazo de cinco días hábiles, contados a partir de la notificación de la multa, para que presente sus medios de defensa o argumentos, y requerir al infractor que deje de cometer las irregularidades que dieron origen a la sanción;
+
+VI. Notificar las multas impuestas a la Tesorería Municipal en un plazo no mayor a cinco días hábiles, contados a partir del vencimiento del término otorgado a la o el infractor para presentar sus medios de defensa;
+
+VII. Imponer medidas de seguridad, correctivas y sanciones administrativas por violaciones a las disposiciones legales, reglamentos, normas o programas de desarrollo urbano, y dar vista a las autoridades penales competentes en caso de delitos;
+
+VIII. Promover y coordinar programas de capacitación constante para las y los inspectores que se encuentren al servicio de la Dirección General de Inspección y Vigilancia, asegurando que cuenten con los conocimientos y habilidades necesarios para el desempeño de sus funciones;
+
+IX. Tomar las medidas preventivas y correctivas necesarias para evitar la reincidencia de infracciones y garantizar la efectiva supervisión de las actividades reguladas por este Reglamento.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 99.
+
+En todo lo relativo al procedimiento para la realización de visitas de verificación para efectos del Capítulo Décimo Tercero del presente ordenamiento, se estará a lo dispuesto en el Título Tercero, Capítulo IX, de la Ley de Procedimiento Administrativo del Estado de Sonora.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 21 DE MARZO DE 2025)</small>
+
+#### SECCIÓN XIII. DE LAS MEDIDAS DE SEGURIDAD
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 100.
+
+Se consideran medidas de seguridad las disposiciones que dicte la Dirección General de Inspección y Vigilancia, de manera fundada y motivada, para prevenir situaciones de riesgo inminente que puedan causar daño a la seguridad de las personas usuarias de la vía pública, al espacio público vial y, en general, a los bienes de dominio público del municipio relacionados con el tránsito.
+
+Las medidas de seguridad serán de inmediata ejecución, tendrán carácter temporal y preventivo, y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 101.
+
+Las medidas de seguridad que podrán adoptar las autoridades encargadas de aplicar este Reglamento son:
+
+I. Clausura temporal, parcial o total, de obras, instalaciones o señalizaciones viales que representen un riesgo a la seguridad vial o peatonal;
+
+II. Retiro inmediato de vehículos u objetos que obstruyan la vía pública o representen un peligro para el tránsito;
+
+III. Aseguramiento precautorio de materiales, bienes, vehículos e instrumentos directamente relacionados con la conducta que motive la medida de seguridad;
+
+IV. Demolición o retiro de estructuras que obstaculicen la vialidad o representen un riesgo vial; y
+
+V. Modificación o reubicación de señalizaciones, dispositivos de control de tránsito o cualquier instalación relacionada con el tránsito vehicular y peatonal, cuando exista un riesgo comprobado.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 102.
+
+Las medidas de seguridad que se adopten tendrán, en su caso, la duración estrictamente necesaria para corregir las irregularidades o riesgos detectados.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 103.
+
+Para la ejecución de las medidas de seguridad, deberá levantarse un acta circunstanciada de la diligencia correspondiente, observando las formalidades establecidas para las verificaciones, en lo que resulte aplicable a este Reglamento.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 104.
+
+Las medidas de seguridad adoptadas deberán mantenerse únicamente durante el tiempo estrictamente necesario para garantizar la seguridad vial y corregir las irregularidades detectadas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 21 DE MARZO DE 2025)</small>
+
+#### SECCIÓN XIV. DE LAS INFRACCIONES
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 105.
+
+Sin perjuicio de las las (sic) infracciones que disponen la Ley General de Movilidad y Seguridad Vial, la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, la Ley de Tránsito para el Estado de Sonora, la Ley de Control Vehicular para el Estado de Sonora, la Ley de Transporte del Estado de Sonora, para efectos del Capítulo Décimo Tercero del presente ordenamiento, son infracciones al presente Reglamento:
+
+I. No respetar la normatividad establecida en materia de señalización vial y dispositivos de control de tránsito;
+
+II. Instalar dispositivos o señalizaciones viales no autorizadas por la autoridad competente;
+
+III. Obstruir la vía pública sin contar con el permiso correspondiente;
+
+IV. Realizar modificaciones en la infraestructura vial sin autorización municipal;
+
+V. Operar un estacionamiento exclusivo para taxis sin la autorización correspondiente de la autoridad municipal;
+
+Operar un estacionamiento exclusivo para vehículos particulares en general sin apego a las disposiciones legales aplicables o sin autorización del Ayuntamiento;
+
+VI. Instalar reductores de velocidad, casetas de vigilancia, dispositivos de acceso o barreras físicas sin el permiso correspondiente o en contravención a las disposiciones de este Reglamento o del Reglamento de Ordenamiento, Desarrollo Urbano y del Espacio Público de Hermosillo;
+
+VII. No cumplir con las condiciones o especificaciones técnicas requeridas en los permisos y autorizaciones emitidos por la autoridad competente;
+
+VIII. Mantener elementos de señalización vial en mal estado que representen un riesgo para las y los usuarios de la vía pública;
+
+IX. No cumplir con las medidas de mitigación de riesgos requeridas por la autoridad municipal en zonas escolares o de tránsito elevado;
+
+X. Realizar actos que pongan en riesgo la seguridad vial, como la ocupación indebida del espacio público, alteraciones a la infraestructura vial o el abandono de materiales peligrosos en la vía pública;
+
+XI. Impedir la realización de visitas de verificación por parte de las autoridades competentes;
+
+XII. Negar el acceso a las y los servidores públicos municipales para el cumplimiento de sus funciones relacionadas con la supervisión del tránsito y la seguridad vial;
+
+XIII. No dar cumplimiento a las resoluciones administrativas emitidas por la autoridad competente en los plazos establecidos;
+
+XIV. No retirar estructuras, vehículos u objetos tras haber sido requerido por la autoridad competente;
+
+XV. No acatar las medidas de seguridad ordenadas por la autoridad municipal;
+
+XVI. Instalar estructuras o realizar obras sobre el espacio público vial sin autorización previa de la autoridad; e
+
+XVII. Incumplir con las disposiciones de este Reglamento y las normativas relacionadas con la seguridad vial y la movilidad urbana.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 106.
+
+Las violaciones a los preceptos del Capítulo Décimo Tercero de este Reglamento, en términos del artículo anterior, serán sancionadas administrativamente por la Dirección General de Inspección y Vigilancia, con una o más de las siguientes sanciones:
+
+I. Amonestación con apercibimiento;
+
+II. Multa por el equivalente de cuarenta a cien mil unidades de medida y actualización;
+
+III. Clausura provisional o definitiva, parcial o total, de instalaciones o construcciones que afecten la infraestructura vial o la seguridad de las personas usuarias de la vía pública;
+
+IV. Clausura temporal o permanente, parcial o total, cuando:
+
+a) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad con las medidas de seguridad ordenadas;
+
+b) En casos de reincidencia, cuando las infracciones pongan en riesgo la seguridad vial o la integridad de las personas; o
+
+c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas de seguridad impuestas;
+
+V. Retiro, demolición o reubicación parcial o total de estructuras, dispositivos o instalaciones que contravengan este Reglamento;
+
+VI. Decomiso de materiales, equipos, vehículos e instrumentos directamente relacionados con la infracción; y
+
+VII. Revocación de las autorizaciones, permisos o licencias otorgadas en términos del Capitulo Décimo Tercero de este ordenamiento.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 107.
+
+La Dirección General de Inspección y Vigilancia fundará y motivará su resolución para la imposición de sanciones administrativas, considerando para su individualización:
+
+I. Los daños que se hubieren producido o puedan producirse a la infraestructura vial, al espacio público o a la seguridad de las personas;
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción;
+
+IV. El beneficio que hubiese obtenido la o el infractor;
+
+V. La reincidencia de la o el infractor; y
+
+VI. La capacidad económica de la o el infractor.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 108.
+
+Se considerará reincidencia la comisión de una misma infracción dentro del plazo de un año, contado a partir de la fecha en que quede firme la resolución administrativa que la impuso. La reincidencia será sancionada con el doble de la multa prevista para el caso concreto.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 109.
+
+La imposición de las multas se determinará conforme a lo dispuesto en la Ley de Ingresos vigente del Municipio.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 110.
+
+Cuando proceda la imposición de una clausura provisional o definitiva, total o parcial, el personal comisionado para ejecutarla deberá levantar un acta circunstanciada, detallando la diligencia efectuada y observando las formalidades establecidas en este Reglamento.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 111.
+
+La demolición parcial o total que ordene la autoridad competente ya sea como medida de seguridad o como sanción, deberá ser ejecutada por la o el infractor a su costa y dentro del plazo que establezca la resolución correspondiente.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 112.
+
+Procederá la revocación de las autorizaciones, permisos o licencias otorgadas en términos del Capítulo Décimo Tercero de este ordenamiento, cuando:
+
+I. Se realicen modificaciones que alteren las condiciones que sirvieron de base para concederlas;
+
+II. Se utilicen los permisos, autorizaciones o licencias para fines distintos a los originalmente autorizados; y
+
+III. Se efectúen actos no autorizados que representen un riesgo para la seguridad vial o la movilidad urbana.
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 113.
+
+Las sanciones consistentes en multa, impuestas por la Dirección General de Inspección y Vigilancia, respecto del Capitulo Décimo Tercero de este Reglamento, se harán efectivas a través de la Tesorería Municipal mediante el procedimiento administrativo de ejecución, conforme a las disposiciones de las leyes fiscales aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 21 DE MARZO DE 2025)</small>
+
+#### SECCIÓN XV. DE LAS OBLIGACIONES DE LAS AUTORIDADES ENCARGADAS DE APLICAR EL REGLAMENTO DE TRÁNSITO MUNICIPAL
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 114.
+
+La o el titular de la Dirección de Inspección y Vigilancia y de la Dirección General de Ordenamiento y Desarrollo Urbano respecto de lo dispuesto en el Capítulo Décimo Tercero de este Reglamento deberá:
+
+I. Llevar un Libro de Gobierno en el cual se registre, de forma sistemática y ordenada, la identificación de los expedientes administrativos, incluyendo el número progresivo, el año, la clave de la materia correspondiente y cualquier otro dato necesario para el adecuado control de los asuntos de su competencia, resguardándolo conforme a las disposiciones aplicables y en cumplimiento de lo establecido en el artículo 63 de la Ley del Procedimiento Administrativo para el Estado de Sonora; y
+
+II. Observar un orden riguroso en la tramitación de los asuntos de la misma naturaleza, salvo cuando exista una causa de orden público debidamente fundada y motivada, de la cual deberá quedar constancia en el expediente correspondiente, en cumplimiento de lo dispuesto por el artículo 64 de la Ley del Procedimiento Administrativo para el Estado de Sonora.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 21 DE MARZO DE 2025)</small>
+
+#### SECCIÓN XVI. DE LAS CERTIFICACIONES
+
+> <small>(ADICIONADO, B.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 115.
+
+La o el titular de la Dirección de Inspección y Vigilancia y de la Dirección General de Ordenamiento y Desarrollo Urbano deberán designar a las y los servidores públicos a su cargo que contarán con facultades de certificación de documentos, en términos del artículo 46 del Reglamento de Mejora Regulatoria de Hermosillo, e informar mensualmente a la Comisión Municipal de Mejora Regulatoria la relación actualizada de las y los servidores públicos designados, para su debido registro, seguimiento y aseguramiento de la correcta ejecución de sus funciones.
 
 ## TRANSITORIOS
 
@@ -2248,3 +2520,27 @@ B.O. 2 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DE LA "REFORMA AL REGLAMENTO DE TRÁNSITO MUNICIPAL".]
 
 Único. Las reformas al presente reglamento entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones materia del presente dictamen entrarán en vigor el 1º de enero de 2025, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos, trámites y recursos que a la entrada en vigor de la presente modificación reglamentaria se encuentren sustanciándose ante la Coordinación de Infraestructura, Desarrollo Urbano y Ecología, el Instituto Municipal de Ecología o la Dirección de Inspección y Vigilancia, según sea el caso, se continuarán desahogando según las facultades establecidas por este dictamen por la Dirección General de Desarrollo de Infraestructura, la Dirección General de Ordenamiento y Desarrollo Urbano, la Dirección General de Inspección y Vigilancia, respectivamente, hasta su culminación.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos de la presupuestación del ingreso y egreso de la Dirección General de Desarrollo de Infraestructura, la Dirección General de Ordenamiento y Desarrollo Urbano y la Dirección General de Inspección y Vigilancia, la Tesorería Municipal deberá incluir en los proyectos para el ejercicio 2025 de la Ley de Ingresos y Presupuesto de Ingresos como en el proyecto de Egresos del Ayuntamiento de Hermosillo, los montos correspondientes para el efectivo cumplimiento de las atribuciones y facultades que mediante la presente modificación se le otorgan.
+
+###### ARTÍCULO CUARTO.
+
+La Tesorería Municipal y Oficialía Mayor, para el cumplimiento de las atribuciones que se les otorgan a la Dirección General de Desarrollo de Infraestructura, la Dirección General de Ordenamiento y Desarrollo Urbano y la Dirección General de Inspección y Vigilancia y que se desarrollaban por otras dependencias hasta antes de la entrada en vigor de la presente modificación, procurarán usar los mismos recursos humanos y materiales, y se seguirá manteniendo la austeridad que exige la coyuntura económica y la situación financiera de este Ayuntamiento.
+
+###### ARTÍCULO QUINTO.
+
+En un término de 90 días hábiles el Órgano de Control y Evaluación Gubernamental, deberá coordinar los trabajos para la emisión de los anteproyectos de los manuales de organización y procedimientos que habrá de autorizar en definitiva el Ayuntamiento.
