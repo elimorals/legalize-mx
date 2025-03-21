@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-03-12"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE MARZO DE 2025.]</small>
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1085,9 +1085,9 @@ Las secretarias y/o los secretarios integrantes de la Mesa Directiva serán elec
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año legislativo: el primero, improrrogable, iniciará el primero de octubre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; el segundo dará principio el quince de enero y terminará el treinta de junio.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+(REFORMADO, P.O. 12 DE MARZO DE 2025) (F. DE E., P.O. 21 DE MARZO DE 2025)
 
-En fecha de la segunda quincena de febrero de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe de la Gobernadora o del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
+En fecha de la primera quincena de marzo de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe de la Gobernadora o del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
@@ -2185,9 +2185,9 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+(REFORMADO, P.O. 12 DE MARZO DE 2025) (F. DE E., P.O. 21 DE MARZO DE 2025)
 
-Durante la segunda quincena de febrero de cada año, mediante informe escrito, las personas titulares de las dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
+Durante la primera quincena de marzo de cada año, mediante informe escrito, las personas titulares de las dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2025)</small>
 
