@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2023-06-01"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -55,7 +55,9 @@ La presente ley es de interés público, observancia general y tiene por objeto,
 
 I. Proteger su vida y crecimiento;
 
-II. Favorecer su respeto y buen trato;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
+
+II. Favorecer su respeto, dignidad y trato adecuado como seres sintientes;
 
 III. Erradicar y sancionar los actos de crueldad que se les ocasiona;
 
@@ -875,9 +877,37 @@ VIII. Llevar un registro de los animales rescatados con los datos suficientes pa
 
 IX. Cumplir con los requisitos establecidos en el presente ordenamiento para los programas de entrega responsable, llevando un expediente de seguimiento por cada caso.
 
-### Capítulo IV. De La Entrega Responsable
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MARZO DE 2025)</small>
 
-### Capítulo Único
+### Capitulo III Bis. De las guarderías, hoteles, spas y pensiones
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 99 Bis.
+
+Se consideran como guarderías, hoteles, spas y pensiones, los espacios físicos en los que se ofrecen diversos servicios para el cuidado y atención de animales de compañía por un tiempo determinado.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 99 Ter.
+
+Los lugares denominados guarderías, hoteles, spas y pensiones de animales deberán contar con la asesoría de un médico veterinario, para que los animales tengan los cuidados necesarios.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2025)</small>
+
+###### ARTÍCULO 99 Quáter.
+
+Las guarderías, hoteles, spas y pensiones de animales evitarán poner especies distintas, en la misma área de atención.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2025)</small>
+
+ARTÍCULO 99 Quinque. En las guarderías, hoteles, spas y pensiones para animales, está prohibido alojar animales con enfermedades infecto contagiosas.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2025)</small>
+
+ARTÍCULO 99 Sexties. Las guarderías, hoteles, spas y pensiones para animales, deberán contar con: zona de alimentación, centro de atención médica, espacio de aseo, área de descanso, y zona recreativa.
+
+### Capítulo IV. De La Entrega Responsable
 
 ###### ARTÍCULO 100.
 
@@ -891,9 +921,7 @@ En el caso de que no concurra ninguna de las precisiones anteriores, los animale
 
 ## Título Noveno
 
-### Capítulo I.. De las Prohibiciones
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+### Capítulo Único
 
 ###### ARTÍCULO 102.
 
@@ -923,7 +951,9 @@ Es responsabilidad de los centros de control animal o cualquier institución que
 
 ## Título Décimo. De las Prohibiciones y Medidas de Seguridad
 
-### Capítulo II. De las Medidas de Seguridad
+### Capítulo I.. De las Prohibiciones
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 107.
 
@@ -1001,7 +1031,7 @@ Se prohíbe el establecimiento y operación de espectáculos circenses en los qu
 
 Se prohíbe el uso de animales como regalos en sorteos, fiestas infantiles o en cualquier tipo de eventos. Salvo que se cuente con el documento de adquisición.
 
-### Capítulo I. De las Sanciones
+### Capítulo II. De las Medidas de Seguridad
 
 ###### ARTÍCULO 122.
 
@@ -1013,7 +1043,7 @@ Cuando la autoridad municipal o de salud ordene algunas de las medidas de seguri
 
 ## Título Décimo Primero. De las Sanciones, Del Procedimiento Administrativo y Del Recurso de Reconsideración
 
-### Capítulo II. Del Procedimiento Administrativo
+### Capítulo I. De las Sanciones
 
 ###### ARTÍCULO 124.
 
@@ -1061,7 +1091,7 @@ Las sanciones que se lleguen a aplicar con motivo de esta Ley, serán exclusivam
 
 De los ingresos obtenidos por los conceptos de multas establecidos en la presente ley, los ayuntamientos, con base en su suficiencia presupuestal podrán destinar recursos a instituciones públicas y privadas que establezcan albergues para refugio y adopción de animales, de conformidad con las disposiciones aplicables.
 
-### Capítulo III. Del Recurso de Reconsideración
+### Capítulo II. Del Procedimiento Administrativo
 
 ###### ARTÍCULO 131.
 
@@ -1084,6 +1114,8 @@ Para el caso de que el Síndico Municipal determine que existe evidencia suficie
 ###### ARTÍCULO 134.
 
 Para todo lo no previsto en este procedimiento, se aplicarán en forma supletoria las disposiciones contenidas en el Código Procesal Administrativo para el Estado de San Luis Potosí.
+
+### Capítulo III. Del Recurso de Reconsideración
 
 ###### ARTÍCULO 135.
 
@@ -1176,3 +1208,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. La prohibición prevista en el ahora párrafo segundo del artículo 36 de este Decreto, entrará en vigencia en un año a partir de que entre en vigor el citado Decreto. Tiempo que tendrán las personas para sustituir a los animales que utilizan para tirar vehículos de tracción que recogen fierro, basura o residuos domésticos por otro medio.
+
+P.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0175.- SE ADICIONA EL CAPÍTULO III BIS DENOMINADO “DE LAS GUARDERÍAS, HOTELES, SPAS Y PENSIONES”, CONFORMADO POR LOS ARTÍCULOS 99 BIS, 99 TER, 99 QUÁTER, 99 QUINQUE Y 99 SEXTIES, AL TÍTULO OCTAVO DE Y A LA, LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0177.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 1º, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
