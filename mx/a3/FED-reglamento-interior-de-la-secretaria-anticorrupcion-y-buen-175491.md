@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-anticorrupcion-y-buen-1754
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175491&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2024-12-31"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2025.
 
 Reglamento publicado en la Edición Vespertina del Diario Oficial de la Federación, el martes 31 de diciembre de 2024.
 
@@ -45,9 +45,11 @@ El presente Reglamento tiene por objeto establecer la organización y funcionami
 
 La Secretaría es una dependencia del Poder Ejecutivo Federal que tiene a su cargo el ejercicio de las atribuciones y facultades que le confieren la Ley Orgánica de la Administración Pública Federal, otras leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MARZO DE 2025)</small>
+
 ###### Artículo 2.
 
-La persona titular de la Secretaría, para el despacho de los asuntos de su competencia, cuenta con las unidades administrativas siguientes:
+La persona titular de la Secretaría, para el despacho de los asuntos de su competencia, cuenta con las unidades administrativas y el órgano administrativo desconcentrado siguiente:
 
 A. Unidades administrativas centrales:
 
@@ -61,7 +63,9 @@ ii. Dirección General de Organización y Remuneraciones de la Administración P
 
 iii. Dirección General de Gestión para los Servidores Públicos al Servicio de la Sociedad, y
 
-iv. Dirección General de Evaluación de la Confianza;
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+iv. Dirección General de Evaluación de Confianza;
 
 b) Coordinación General de Buen Gobierno;
 
@@ -89,13 +93,29 @@ ii. Dirección General de Vinculación con el Sector Privado;
 
 iii. Dirección General de Monitoreo de Calidad y Atención al Público, y
 
-iv. Dirección General de Cooperación Técnica, y
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+iv. Dirección General de Cooperación Técnica;
+
+> <small>(REFORMADO [N. DE E. CON SUS SUBINCISOS], D.O.F. 21 DE MARZO DE 2025)</small>
 
 e) Unidad de Innovación de la Gestión Pública;
 
-i. Dirección General de Innovación en Contrataciones Públicas, y
+i. Dirección General de Innovación en Contrataciones Públicas;
 
-ii. Dirección General de Plataformas para la Integridad y Transparencia;
+ii. Dirección General de Plataformas para la Integridad y Transparencia, y
+
+iii. Dirección General de Datos y Transparencia Proactiva, y
+
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], D.O.F. 21 DE MARZO DE 2025)</small>
+
+f) Unidad de Protección de Datos Personales;
+
+i. Dirección General de Normatividad y Prevención;
+
+ii. Dirección General de Datos Personales en el Sector Público, y
+
+iii. Dirección General de Datos Personales en el Sector Privado;
 
 II. Subsecretaría Anticorrupción;
 
@@ -185,13 +205,21 @@ b) Área de Responsabilidades, y
 
 c) Delegaciones, y
 
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 21 DE MARZO DE 2025)</small>
+
 C. Órgano Interno de Control de la Secretaría;
 
 I. Área de Auditoría;
 
-II. Área de Denuncias e Investigaciones, y
+II. Área de Denuncias e Investigaciones;
 
-III. Área de Responsabilidades.
+III. Área de Responsabilidades, y
+
+IV. Oficina de Representación, y
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+D. El órgano administrativo desconcentrado, Transparencia para el Pueblo.
 
 ###### Artículo 3.
 
@@ -267,7 +295,9 @@ I. Acordar con la persona titular de la Secretaría el despacho de los asuntos a
 
 II. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las unidades administrativas que se les adscriban;
 
-III. Nombrar y remover libremente al personal del gabinete de apoyo que tenga directamente a su cargo, así como proponer a la persona titular de la Secretaría o de la Unidad de Administración y Finanzas, según corresponda, el nombramiento y remoción de las personas servidoras públicas de las unidades administrativas que tengan adscritas en términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+III. Nombrar y remover libremente al personal del gabinete de apoyo que tenga directamente a su cargo, e informar a la Unidad de Administración y Finanzas para la expedición del nombramiento o baja correspondiente y remoción de las personas servidoras públicas, en términos de las disposiciones jurídicas aplicables;
 
 IV. Coordinar con las personas titulares de las unidades administrativas de la Secretaría el desahogo de los asuntos a su cargo, según corresponda;
 
@@ -293,7 +323,9 @@ XIV. Requerir la información, los datos o la cooperación técnica necesaria pa
 
 XV. Proporcionar la información, los datos o la cooperación técnica de su competencia, que le sea requerida por otras dependencias y entidades de la Administración Pública Federal o local, las unidades administrativas de la propia dependencia o cualquier otra autoridad pública, nacional o internacional, de conformidad con las disposiciones jurídicas aplicables;
 
-XVI. Proporcionar el acceso a la información pública, atender solicitudes de derechos de acceso, rectificación, cancelación y oposición relacionados con el tratamiento de datos personales, y cumplir con las obligaciones en materia de transparencia y acceso a la información pública gubernamental, en términos de las disposiciones jurídicas aplicables, en asuntos de su competencia, así como apoyar las labores del Comité de Transparencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XVI. Proporcionar el acceso a la información pública y cumplir con las obligaciones en materia de transparencia, acceso a la información pública gubernamental y protección de datos personales, en términos de las disposiciones jurídicas aplicables, en asuntos de su competencia, así como apoyar las labores del Comité de Transparencia de la Secretaría;
 
 XVII. Expedir copias certificadas de los documentos o información que obren en sus archivos, en formato físico o electrónico;
 
@@ -309,9 +341,13 @@ XXI. Las demás que en el ámbito de sus competencias le atribuyan a la Secretar
 
 La Subsecretaría de Buen Gobierno tiene las atribuciones siguientes:
 
-I. Coordinar la conducción, aplicación y verificación del cumplimiento de la política general de contrataciones públicas, de recursos humanos, participación social, evaluación de confianza, así como de prevención a la corrupción y mejora continua de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-II. Proponer a la persona titular de la Secretaría disposiciones, reglas y bases de carácter general, normas, lineamientos, políticas y demás disposiciones de carácter general cuya aplicación y vigilancia corresponda por disposición de ley a la Secretaría, en materias de contrataciones públicas, recursos humanos, participación social, evaluación de confianza, prevención a la corrupción y a la actuación bajo conflicto de interés, mejora continua, así como de modernización y gestión de la Administración Pública Federal;
+I. Coordinar la conducción, aplicación y verificación del cumplimiento de la política general de protección de datos personales, contrataciones públicas, de recursos humanos, participación social, evaluación de confianza, así como de prevención a la corrupción y mejora continua de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. Proponer a la persona titular de la Secretaría disposiciones, reglas y bases de carácter general, normas, lineamientos, políticas y demás disposiciones de carácter general cuya aplicación y vigilancia corresponda por disposición de ley a la Secretaría, en materias de protección de datos personales, contrataciones públicas, recursos humanos, participación social, evaluación de confianza, prevención a la corrupción y a la actuación bajo conflicto de interés, mejora continua, así como de modernización y gestión de la Administración Pública Federal;
 
 III. Proponer estrategias de contratación que promuevan los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez en la aplicación de los recursos públicos federales, así como la participación de la proveeduría nacional en las compras del sector público;
 
@@ -321,7 +357,11 @@ V. Dirigir y supervisar los mecanismos que se promuevan para orientar a las unid
 
 VI. Supervisar la ejecución de la estrategia general para la implementación y administración de las plataformas digitales de compras públicas y para la integridad, así como su alineación con los objetivos institucionales de prevención, buen gobierno y transparencia proactiva y los criterios emitidos por la Agencia de Transformación Digital y Telecomunicaciones;
 
-VII. Conducir la participación de la Secretaría en las negociaciones de los tratados y convenios internacionales que incluyan disposiciones en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, así como coordinar compras estratégicas del sector público que generen beneficios al país;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VII. Conducir la participación de la Secretaría en las negociaciones
+
+de los tratados y convenios internacionales que incluyan disposiciones en materias de protección de datos personales, de adquisiciones de bienes, arrendamientos, servicios y de obras públicas y servicios relacionados con las mismas, así como coordinar compras estratégicas del sector público que generen beneficios al país;
 
 VIII. Supervisar la adopción de directrices, mecanismos y estrategias en materia de compras del sector público vinculadas a la Secretaría con la participación ciudadana y empresarial para la prevención y combate a la corrupción e impunidad;
 
@@ -351,7 +391,9 @@ XX. Someter a consideración de la persona titular de la Secretaría, el Código
 
 XXI. Dirigir el establecimiento del catálogo de cargos estratégicos, de riesgo o de alto nivel para llevar a cabo el proceso de evaluación de confianza de las personas servidoras públicas de la Administración Pública Federal.
 
-La Subsecretaría de Buen Gobierno en el ejercicio de sus atribuciones se auxilia de la Unidad de la Unidad de (sic) Políticas para el Servicio Público, la Coordinación General de Buen Gobierno, la Unidad de Contrataciones Públicas, la Unidad de Participación Social y Responsabilidad Compartida y la Unidad de Innovación de la Gestión Pública.
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+La Subsecretaría de Buen Gobierno en el ejercicio de sus atribuciones se auxilia de la Unidad de Políticas para el Servicio Público, la Coordinación General de Buen Gobierno, la Unidad de Contrataciones Públicas, la Unidad de Participación Social y Responsabilidad Compartida, la Unidad de Innovación de la Gestión Pública y la Unidad de Protección de Datos Personales.
 
 ###### Artículo 9.
 
@@ -379,7 +421,9 @@ X. Conocer y resolver el recurso de revisión que se interponga en contra de las
 
 XI. Proponer a la persona titular de la Secretaría la creación, asignación y, en su caso, extinción de órganos internos de control y unidades de responsabilidades;
 
-XII. Nombrar y remover a las personas servidoras públicas del nivel jerárquico inmediato inferior al de las personas titulares de los órganos internos de control y de las unidades de responsabilidades o equivalentes en las empresas públicas del Estado, incluidas las personas titulares de las oficinas de representación y de las delegaciones, así como aquellas que mediante acuerdo determine la persona titular de la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XII. Nombrar y remover a las personas servidoras públicas del nivel jerárquico inmediato inferior al de las personas titulares de los órganos internos de control y de las unidades de responsabilidades o equivalentes en las empresas públicas del Estado, incluidas las personas titulares de las oficinas de representación, de las oficinas regionales y de las delegaciones, así como aquellas que mediante acuerdo determine la persona titular de la Secretaría;
 
 XIII. Aprobar las acciones y programas específicos que propongan las unidades administrativas a su cargo y supervisar su implementación;
 
@@ -425,27 +469,47 @@ XII. Formular opiniones e informes que les sean solicitados por sus superiores j
 
 XIII. Orientar técnicamente, en asuntos de su competencia, a las personas servidoras públicas de la Secretaría;
 
-XIV. Coordinar sus actividades con otras unidades administrativas de la Secretaría y con las dependencias y entidades de la Administración Pública Federal, cuando así lo requieran para el mejor funcionamiento de la dependencia;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIV. Coordinar sus actividades con otras unidades administrativas de la Secretaría y su órgano administrativo desconcentrado, así como con las dependencias y entidades de la Administración Pública Federal, cuando así lo requieran para el mejor funcionamiento de la dependencia;
 
 XV. Colaborar en las actividades relacionadas con el Sistema Nacional Anticorrupción;
 
-XVI. Requerir la información, la documentación, los datos o la cooperación técnica necesaria para el ejercicio de sus atribuciones, a las dependencias y entidades de la Administración Pública Federal o local, a las unidades administrativas de la propia dependencia, o cualquier otra autoridad pública, nacional o internacional;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XVII. Proporcionar la información, la documentación, los datos o la cooperación técnica de su competencia, que le sea requerida por otras dependencias y entidades de la Administración Pública Federal o local, las unidades administrativas de la propia dependencia, o cualquier otra autoridad pública, nacional o internacional, de conformidad con las disposiciones jurídicas aplicables;
+XVI. Requerir la información, la documentación, los datos o la cooperación técnica necesaria para el ejercicio de sus atribuciones, a las dependencias y entidades de la Administración Pública Federal o local, a las unidades administrativas de la propia dependencia, a su órgano administrativo desconcentrado, o a cualquier otra autoridad pública, nacional o internacional;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XVII. Proporcionar la información, la documentación, los datos o la cooperación técnica de su competencia, que le sea requerida por otras dependencias y entidades de la Administración Pública Federal o local, las unidades administrativas de la propia dependencia, su órgano administrativo desconcentrado o cualquier otra autoridad pública, nacional o internacional, de conformidad con las disposiciones jurídicas aplicables;
 
 XVIII. Proporcionar el acceso a la información pública, atender solicitudes de derechos de acceso, rectificación, cancelación y oposición, y cumplir con las obligaciones en materia de transparencia y acceso a la información pública gubernamental, en términos de las disposiciones jurídicas aplicables, en asuntos de su competencia, así como apoyar las labores del Comité de Transparencia de la Secretaría;
 
-XIX. Expedir copias certificadas de los documentos o información que obren en sus archivos, en formato físico o electrónico;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIX. Expedir copias certificadas de los documentos o información que obren en sus archivos, en formato físico o electrónico, así como de aquellos a los que tenga acceso o a la vista con motivo del ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIX Bis. Emitir documentos electrónicos con validez legal mediante el uso de la firma electrónica avanzada;
 
 XX. Habilitar a las personas servidoras públicas de las unidades administrativas bajo su adscripción, para fungir como notificadoras o verificadoras en los trámites o procedimientos administrativos que lleven a cabo en el ámbito de sus atribuciones, conforme a lo dispuesto en el presente Reglamento y en las disposiciones jurídicas aplicables, así como revocar dicha habilitación;
 
-XXI. Designar, comisionar y remover, de conformidad con lo establecido en las disposiciones jurídicas aplicables, a las personas servidoras públicas a su cargo;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXI. Designar y comisionar, de conformidad con lo establecido en las disposiciones jurídicas aplicables, a las personas servidoras públicas a su cargo, y hacerlo del conocimiento de la Unidad de Administración y Finanzas, según corresponda;
 
 XXII. Supervisar el ejercicio de las atribuciones que se otorgan a las unidades administrativas que están bajo su adscripción y, en su caso, ejercerlas directamente;
 
-XXIII. Colaborar, con las unidades administrativas de la Secretaría, en el desarrollo y, en su caso, impartición de cursos de capacitación en las materias de su competencia, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXIII. Colaborar, con las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, en el desarrollo y, en su caso, impartición de cursos de capacitación en las materias de su competencia, y
 
 XXIV. Las demás que les atribuyan las leyes, reglamentos y demás disposiciones jurídicas aplicables, las que les sean delegadas mediante acuerdo publicado en el Diario Oficial de la Federación, así como aquellas que les encomienden sus superiores jerárquicos.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+La facultad prevista por la fracción XIX de este artículo, puede ser ejercida por las direcciones de área adscritas a las unidades administrativas a que se refiere el artículo 2, apartado A, fracción II del presente Reglamento.
 
 ###### Artículo 12.
 
@@ -481,7 +545,9 @@ XIV. Aprobar las políticas y programas específicos de ingreso, desarrollo, cap
 
 XV. Fungir como secretaría técnica del Consejo Consultivo del Sistema de Servicio Profesional de Carrera en la Administración Pública Federal.
 
-La Unidad de Políticas para el Servicio Público se auxilia en el ejercicio de sus atribuciones por las direcciones generales de Organización y Remuneraciones de la Administración Pública Federal A y B, de Gestión para las Personas Servidoras Públicas al Servicio de la Sociedad, y de Evaluación de Confianza.
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+La Unidad de Políticas para el Servicio Público se auxilia en el ejercicio de sus atribuciones por las direcciones generales de Organización y Remuneraciones de la Administración Pública Federal A y B, de Gestión para los Servidores Públicos al Servicio de la Sociedad, y de Evaluación de Confianza.
 
 ###### Artículo 13.
 
@@ -589,9 +655,11 @@ XX. Proponer a la persona titular de la Unidad de Políticas para el Servicio P�
 
 XXI. Elaborar y someter a la aprobación de la persona titular de la Unidad de Políticas para el Servicio Público, el Código de Ética de la Administración Pública Federal y sus modificaciones, los lineamientos para la operación de los Comités de Ética de las dependencias y entidades de la Administración Pública Federal, así como la metodología para su seguimiento estadístico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MARZO DE 2025)</small>
+
 ###### Artículo 15.
 
-La Dirección General de Evaluación de la Confianza tiene las atribuciones siguientes:
+La Dirección General de Evaluación de Confianza tiene las atribuciones siguientes:
 
 I. Instrumentar el proceso de evaluación de confianza de las personas servidoras públicas que ocupen cargos estratégicos, de riesgo o de alto nivel en la Administración Pública Federal, para efectos de su ingreso, reingreso, permanencia o cualquier otro movimiento en el servicio público;
 
@@ -623,15 +691,21 @@ XIII. Coordinar, con la persona titular de la Dirección General de Gestión par
 
 La Coordinación General de Buen Gobierno tiene las atribuciones siguientes:
 
-I. Proponer a la persona titular de la Subsecretaría de Buen Gobierno la política en materia de prevención de la corrupción, mejora continua, y modernización de la gestión pública de la Administración Pública Federal respecto de los programas prioritarios y proyectos estratégicos;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+I. Proponer a la persona titular de la Subsecretaría de Buen Gobierno la política en materia de prevención de la corrupción, mejora continua, modernización y evaluación de la gestión gubernamental de la Administración Pública Federal respecto de los programas prioritarios y proyectos estratégicos;
 
 II. Dirigir el acompañamiento que se brinde a las dependencias y entidades de la Administración Pública Federal, en el ejercicio de sus funciones respecto de programas prioritarios y proyectos estratégicos a su cargo;
 
 III. Coordinar la asesoría normativa que se proporcione a las dependencias y entidades de la Administración Pública Federal, en el desarrollo de los programas prioritarios y proyectos estratégicos a su cargo, con excepción de aquella que sea competencia de otra unidad administrativa de la Secretaría;
 
-IV. Acordar con la persona titular de la Coordinación General de Órganos Internos de Control y Vigilancia el Programa Anual de Trabajo y de Evaluación, respecto de programas prioritarios y proyectos estratégicos, que incluya estrategias de los órganos internos de control para dar seguimiento a las acciones de prevención de la corrupción, mejora continua, modernización y gestión en las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-V. Determinar mapas de riesgos en los procesos de los programas prioritarios y proyectos estratégicos que permitan atender oportunamente cualquier desviación y, en su caso, proponer su mitigación;
+IV. Remitir a la persona titular de la Coordinación General de Órganos Internos de Control, los resultados de la evaluación a programas prioritarios y proyectos estratégicos, en los casos en que se considere que los órganos internos de control deban dar seguimiento a las acciones de prevención de la corrupción, mejora continua, modernización y gestión en las dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+V. Coordinar la elaboración de mapas de riesgos en los procesos de los programas prioritarios y proyectos estratégicos que permitan atender oportunamente cualquier desviación y, en su caso, proponer su mitigación;
 
 VI. Vigilar el cumplimiento de las obligaciones de la Secretaría derivadas de los planes y programas transversales de gobierno en materia de control interno, mejora de la gestión pública, y evaluación de la gestión;
 
@@ -649,7 +723,9 @@ XII. Validar los indicadores para la evaluación de la gestión gubernamental, c
 
 XIII. Fomentar acciones en materia de prevención de la corrupción y mejora continua en las dependencias y entidades de la Administración Pública Federal respecto de sus programas prioritarios y proyectos estratégicos;
 
-XIV. Coordinar la elaboración de los informes y reportes que deban rendirse sobre el desempeño de las dependencias y entidades de la Administración Pública Federal respecto de sus programas prioritarios y proyectos estratégicos;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIV. Coordinar la elaboración de los informes y reportes que deban rendirse sobre el desempeño de las dependencias y entidades de la Administración Pública Federal respecto de sus programas prioritarios y proyectos estratégicos; así como el Informe de la Evaluación de la Gestión Gubernamental;
 
 XV. Requerir todo tipo de información y documentación necesaria para el ejercicio de las atribuciones conferidas, tratándose de los programas prioritarios y proyectos estratégicos, incluida aquella contenida en sistema (sic) electrónicos, así como celebrar convenios, acuerdos y demás instrumentos jurídicos para el acceso, en modo de consulta, a dichos sistemas electrónicos y para el intercambio de información;
 
@@ -685,7 +761,9 @@ V. Participar en las acciones de evaluación del sistema de control interno inst
 
 VI. Proponer a la persona titular de la Coordinación General de Buen Gobierno la información de interés público que las dependencias y entidades de la Administración Pública Federal deban difundir como datos abiertos de sus programas prioritarios y proyectos estratégicos;
 
-VII. Integrar y proponer a la persona titular de la Coordinación General de Buen Gobierno la parte correspondiente a programas prioritarios y proyectos estratégicos del Programa Anual de Trabajo y de Evaluación, que incluya estrategias de los órganos internos de control para dar seguimiento a las acciones de prevención de la corrupción, mejora continua, modernización y gestión en las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VII. Proponer a la persona titular de la Coordinación General de Buen Gobierno la información a remitir a la persona titular de la Coordinación General de Órganos Internos de Control sobre los resultados de la evaluación a los programas prioritarios y proyectos estratégicos, en los casos en que se considere que los órganos internos de control deban dar seguimiento a las acciones de prevención de la corrupción, mejora continua, modernización y gestión en las dependencias y entidades de la Administración Pública Federal;
 
 VIII. Difundir, trimestralmente, los datos sobre el avance de los programas prioritarios y proyectos estratégicos de la Administración Pública Federal;
 
@@ -711,9 +789,25 @@ XVIII. Participar, en representación de la Secretaría, en el órgano de gobier
 
 XIX. Proponer a la persona titular de la Coordinación General de Buen Gobierno, los mecanismos para que las dependencias y entidades de la Administración Pública Federal emitan los reportes de seguimiento a los mapas de riesgos e indicadores de los programas prioritarios y proyectos estratégicos que tengan a su cargo;
 
-XX. Llevar a cabo la sistematización de los riesgos identificados en las dependencias y entidades de la Administración Pública Federal respecto de programas prioritarios y proyectos estratégicos, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XXI. Emitir opiniones y recomendaciones sobre el desarrollo de los programas prioritarios y proyectos estratégicos de la dependencia y entidades de la Administración Pública Federal, que les sea asignada y darles seguimiento.
+XX. Llevar a cabo la sistematización de los riesgos identificados en las dependencias y entidades de la Administración Pública Federal respecto de programas prioritarios y proyectos estratégicos;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXI. Emitir opiniones y recomendaciones sobre el desarrollo de los programas prioritarios y proyectos estratégicos de la dependencia y entidades de la Administración Pública Federal, que les sea asignada y darles seguimiento;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXII. Proponer a la persona titular de la Coordinación General de Buen Gobierno los indicadores de la evaluación de la gestión gubernamental y el informe de resultados;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXIII. Implementar las acciones y estrategias para verificar el cumplimiento de los objetivos de los planes y programas transversales de gobierno en materia de control interno, mejora de la gestión pública y evaluación de la gestión gubernamental, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXIV. Supervisar el sistema de control interno de la Administración Pública Federal y su evaluación.
 
 Las direcciones generales de Prevención de la Corrupción y Mejora Continua 1, 2, 3 y 4 ejercerán las atribuciones señaladas en el presente artículo sobre las áreas que determine la persona titular de la Secretaría mediante acuerdo publicado en el Diario Oficial de la Federación.
 
@@ -873,7 +967,9 @@ d) Por la rescisión o la no formalización de contratos en los plazos previstos
 
 V. Coordinar los procedimientos de conciliación previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, y asociaciones público privadas, sin perjuicio de que la persona titular de la Unidad de Contrataciones Públicas autorice su atracción;
 
-VI. Solicitar información a las unidades de Auditoría Gubernamental y de Auditoría a Contrataciones Públicas, o bien, a las personas titulares de los órganos internos de control, en los casos en que advierta posibles irregularidades en los procedimientos de contratación y la verificación del cumplimiento de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VI. Solicitar información a las unidades administrativas de la Secretaría con atribuciones de investigación o fiscalización, en los casos en que advierta posibles irregularidades en los procedimientos de contratación y la verificación del cumplimiento de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
 
 VII. Dar vista a las personas titulares de los órganos internos de control, de las unidades de responsabilidades, de la Dirección General de Investigación, a los delegados de la Unidad de Responsabilidades, y a las autoridades competentes para ejercer el control interno en la Administración Pública de las entidades federativas, de las constancias o expedientes derivados de los procedimientos de inconformidad, intervenciones de oficio, conciliaciones o sanciones a licitantes, contratistas y proveedores, si de los mismos se advierten probables faltas administrativas o faltas de particulares;
 
@@ -1157,39 +1253,237 @@ XIII. Resolver las consultas y solicitudes que formulen los particulares, en las
 
 La Dirección General de Plataformas para la Integridad y Transparencia tiene las atribuciones siguientes:
 
-I. Diseñar y coordinar el desarrollo, implementación y administración de las plataformas y los sistemas para la integridad y transparencia, de los sistemas para la obtención y generación de información para la transparencia proactiva y la toma de decisiones, de las medidas de seguridad relacionadas y de las propuestas para su innovación tecnológica, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+I. Diseñar y coordinar el desarrollo, implementación y administración de las plataformas y los sistemas para la integridad y transparencia, de las medidas de seguridad relacionadas y de las propuestas para su innovación tecnológica, de conformidad con las disposiciones jurídicas aplicables;
 
 II. Coordinar el diseño y la gestión de los requerimientos que soporten las funciones y procesos de las unidades administrativas de la Secretaría, así como participar en el desarrollo de los proyectos en materia de tecnologías en el ámbito de su competencia;
 
-III. Analizar las propuestas de las unidades administrativas de la Secretaría respecto del diseño, contenido y funcionalidad de las plataformas y sistemas para la integridad y transparencia;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-IV. Establecer procesos que permitan proveer las soluciones tecnológicas requeridas para las plataformas y sistemas para la integridad y transparencia, así como verificar, validar y ejecutar pruebas de aceptación e integración de los componentes o productos necesarios para su operación;
+III. Analizar las propuestas de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado respecto del diseño, contenido y funcionalidad de la Plataforma Nacional de Transparencia, así como de las plataformas y sistemas para la integridad y transparencia;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IV. Establecer procesos que permitan proveer las soluciones tecnológicas requeridas para la Plataforma Nacional de Transparencia, las plataformas y sistemas para la integridad y transparencia, así como verificar, validar y ejecutar pruebas de aceptación e integración de los componentes o productos necesarios para su operación;
 
 V. Mantener y operar las plataformas y los sistemas para la integridad y transparencia a su cargo, así como proponer e implementar los medios para la continuidad de las operaciones en dichas materias;
 
-VI. Proponer proyectos que coadyuven al cumplimiento del desarrollo y mejora continua de las plataformas y los sistemas para la integridad y transparencia a su cargo, así como soluciones y estrategias tecnológicas de publicación de información y datos abiertos, que fomenten la transparencia proactiva;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-VII. Sistematizar y generar, en conjunto con las unidades administrativas de la Secretaría, los informes sobre el uso de plataformas, incluyendo datos estadísticos y análisis;
+VI. Proponer proyectos que coadyuven al cumplimiento del desarrollo y mejora continua de las plataformas y los sistemas para la integridad y transparencia a su cargo;
+
+VII. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
 VIII. Proponer a la persona titular de la Unidad de Innovación de la Gestión Pública las soluciones tecnológicas encaminadas a mejorar el diseño, desarrollo y seguridad de las plataformas, sistemas y herramientas para la integridad y transparencia;
 
-IX. Proponer las herramientas tecnológicas para el monitoreo y seguimiento estadístico del uso de las plataformas y sistemas para la integridad y transparencia, así como coadyuvar en su implementación;
+IX. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
 X. Coordinar la investigación de mejores prácticas tecnológicas a nivel internacional en materia de sistemas de integridad y transparencia y, en su caso, proponer a la persona titular de la Unidad de Innovación de la Gestión Pública su implementación;
 
-XI. Participar con las dependencias y entidades de la Administración Pública Federal para identificar procesos susceptibles de innovación y simplificación administrativa respecto a compras, integridad y transparencia y, en su caso, emitir recomendaciones al respecto, en concordancia con los criterios emitidos por la Agencia de Transformación Digital y Telecomunicaciones;
+XI. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
 XII. Administrar, a nivel técnico, los registros, usuarios, privilegios y bases de datos relacionados con las plataformas, sistemas y herramientas a su cargo;
 
 XIII. Generar los programas y materiales para la capacitación de las personas servidoras públicas de la Administración Pública Federal y las personas usuarias en el uso de las plataformas y sistemas a su cargo; establecer los criterios de aprobación de la capacitación y, en su caso, emitir los documentos que acrediten los conocimientos adquiridos durante la misma;
 
-XIV. Elaborar y proponer a la persona titular de la Unidad de Innovación de la Gestión Pública las normas de carácter general, lineamientos, políticas y criterios que rijan el funcionamiento de las plataformas y sistemas para la integridad y transparencia;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XV. Ejecutar prácticas internas para el monitoreo y control de los recursos tecnológicos de las plataformas y sistemas para la integridad y transparencia a su cargo;
+XIV. Elaborar y proponer las normas de carácter general, lineamientos, políticas y criterios que rijan el funcionamiento de las plataformas y sistemas para la integridad y transparencia, a la persona titular de la Unidad de Innovación de la Gestión Pública, así como a las personas titulares de las unidades administrativas competentes de la Secretaría y de su órgano administrativo desconcentrado, según corresponda;
 
-XVI. Ejecutar los mecanismos para la transparencia proactiva asociada a las plataformas y sistemas a su cargo, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XV. Ejecutar prácticas internas para el monitoreo y control de los recursos tecnológicos de la Plataforma Nacional de Transparencia, así como de las plataformas y sistemas para la integridad y transparencia a su cargo, y
+
+XVI. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
 XVII. Resolver las consultas y solicitudes que formulen los particulares, en las materias de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 30-A.
+
+La Dirección General de Datos y Transparencia Proactiva tiene las atribuciones siguientes:
+
+I. Proponer a las unidades administrativas de la Secretaría estrategias y mecanismos de publicación de información y datos abiertos que fomenten la transparencia proactiva;
+
+II. Diseñar y coordinar el desarrollo, implementación y administración de las herramientas de interoperabilidad y sistemas para la obtención y generación de información para la transparencia proactiva y para la toma de decisiones, de las medidas de seguridad relacionadas y de las propuestas para su innovación tecnológica de conformidad con las disposiciones jurídicas aplicables;
+
+III. Coordinar el diseño y la gestión de los requerimientos que soporten las funciones y procesos de las unidades administrativas de la Secretaría, así como participar en el desarrollo de los proyectos en materia de tecnologías en el ámbito de su competencia;
+
+IV. Analizar las propuestas de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado respecto de los requerimientos de interoperabilidad de sistemas, así como la sistematización de la generación de datos y elaboración de estadísticas para su publicación;
+
+V. Establecer procesos que permitan proveer soluciones tecnológicas para la implementación de herramientas de interoperabilidad y sistemas para la obtención y generación de datos para la transparencia proactiva y la toma de decisiones, así como verificar, validar y ejecutar pruebas de aceptación e integración de los componentes o productos necesarios para su operación;
+
+VI. Mantener y operar las herramientas de interoperabilidad y sistemas para la obtención, producción y análisis de información para la transparencia proactiva y la toma de decisiones, así como proponer e implementar los medios para la continuidad de las operaciones en dichas materias;
+
+VII. Proponer proyectos que coadyuven al cumplimiento del desarrollo y mejora continua de soluciones y estrategias tecnológicas para la publicación de información y datos, que fomenten la transparencia proactiva e innovación;
+
+VIII. Sistematizar y generar, en conjunto con las unidades administrativas de la Secretaría, los informes sobre el uso de plataformas, incluyendo datos estadísticos y análisis;
+
+IX. Proponer a la persona titular de la Unidad de Innovación de la Gestión Pública las soluciones tecnológicas encaminadas a mejorar el diseño, desarrollo y seguridad de los sistemas, calidad de la información, y herramientas para la interoperabilidad y transparencia proactiva;
+
+X. Proponer las herramientas tecnológicas para el monitoreo y seguimiento estadístico del uso de las plataformas y sistemas a su cargo, así como coadyuvar en su implementación;
+
+XI. Coordinar la investigación de mejores prácticas tecnológicas a nivel internacional en materia de transparencia proactiva y, en su caso, proponer a la persona titular de la Unidad de Innovación de la Gestión Pública su implementación;
+
+XII. Participar con las dependencias y entidades de la Administración Pública Federal para identificar procesos susceptibles de innovación y simplificación administrativa respecto a compras, integridad y transparencia y, en su caso, emitir recomendaciones al respecto, en concordancia con los criterios emitidos por la Agencia de Transformación Digital y Telecomunicaciones;
+
+XIII. Administrar, a nivel técnico, los registros, usuarios, privilegios y bases de datos relacionados con los sistemas y herramientas a su cargo;
+
+XIV. Generar los programas y materiales para la capacitación de las personas servidoras públicas de la Administración Pública Federal y las personas usuarias en el uso de los sistemas y herramientas a su cargo; establecer los criterios de aprobación de la capacitación y, en su caso, emitir los documentos que acrediten los conocimientos adquiridos durante la misma;
+
+XV. Elaborar y proponer a la persona titular de la Unidad de Innovación de la Gestión Pública las normas de carácter general, lineamientos, políticas y criterios que rijan el funcionamiento de los servicios de interoperabilidad, transparencia proactiva, prácticas de análisis de datos y aplicación de criterios para la prevención de la corrupción;
+
+XVI. Ejecutar prácticas internas para el monitoreo y control de los recursos tecnológicos de las herramientas de interoperabilidad y sistemas para la obtención y generación de información para la transparencia proactiva y la toma de decisiones;
+
+XVII. Ejecutar los mecanismos para la transparencia proactiva asociada a las plataformas y sistemas a su cargo, así como promover la transparencia proactiva en los sistemas de la Secretaría, y
+
+XVIII. Resolver las consultas y solicitudes que formulen los particulares en las materias de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 30-B.
+
+La Unidad de Protección de Datos Personales tiene las atribuciones siguientes:
+
+I. Proponer a la persona titular de la Subsecretaría de Buen Gobierno proyectos de disposiciones, reglas y bases de carácter general, normas, lineamientos y demás ordenamientos cuya aplicación y vigilancia corresponda a la Secretaría por disposición de ley en materia de protección de datos personales;
+
+II. Dirigir la atención de consultas relacionadas con la aplicación de las disposiciones jurídicas en materia de protección de datos personales;
+
+III. Interpretar para efectos administrativos las disposiciones jurídicas en materia de protección de datos personales;
+
+IV. Emitir políticas, parámetros, estrategias, criterios de interpretación, recomendaciones y mejores prácticas en materia de protección y de seguridad de datos personales;
+
+V. Diseñar y administrar los sistemas y registros de los esquemas a que se refieren las leyes en materia de protección de datos personales;
+
+VI. Autorizar la instrumentación de medidas compensatorias en términos de las disposiciones jurídicas en materia de protección de datos personales;
+
+VII. Ordenar, por sí o por medio de las unidades administrativas a su cargo, el inicio de los procedimientos de verificación en cumplimiento de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y demás disposiciones que se deriven de las mismas, y
+
+VIII. Las demás que le atribuyan a la Secretaría la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+
+La Unidad de Protección de Datos Personales se auxilia en el ejercicio de sus atribuciones por las direcciones generales de Normatividad y Prevención; de Datos Personales en el Sector Público, y de Datos Personales en el Sector Privado.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 30-C.
+
+La Dirección General de Normatividad y Prevención tiene las atribuciones siguientes:
+
+I. Elaborar proyectos de disposiciones, reglas y bases de carácter general, normas, lineamientos y demás ordenamientos cuya aplicación y vigilancia corresponda a la Secretaría por disposición de ley, en materia de protección de datos personales;
+
+II. Atender consultas relacionadas con la aplicación de las disposiciones jurídicas en materia de protección de datos personales;
+
+III. Proponer a la persona titular de la Unidad de Protección de Datos Personales la interpretación para efectos administrativos de las disposiciones jurídicas en materia de protección de datos personales;
+
+IV. Elaborar, proponer e instrumentar las políticas, parámetros, estrategias, criterios de interpretación, recomendaciones y mejores prácticas en materia de protección y de seguridad de datos personales;
+
+V. Dictaminar las solicitudes de evaluación de impacto a la protección de datos personales que se presenten y, en su caso, emitir recomendaciones;
+
+VI. Proponer el diseño y coadyuvar con la administración de los sistemas y registros de los esquemas a que se refieren las leyes en materia de protección de datos personales;
+
+VII. Evaluar e informar a la persona titular de la Unidad de Protección de Datos Personales sobre la procedencia de la instrumentación de medidas compensatorias para la autorización correspondiente, y
+
+VIII. Realizar auditorías conforme a las disposiciones jurídicas aplicables.
+
+La Dirección General de Normatividad y Prevención se auxilia en el ejercicio de sus atribuciones por las direcciones de Normatividad de Datos Personales; de Esquemas de Prevención de los Sectores Público y Privado; de Esquemas de Certificación de los Sectores Público y Privado, y de Seguridad de Datos Personales de los Sectores Público y Privado.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 30-D.
+
+La Dirección General de Datos Personales en el Sector Público tiene las atribuciones siguientes:
+
+I. Sustanciar y resolver el recurso de revisión y la promoción de conciliaciones en términos de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+II. Llevar a cabo investigaciones previas al inicio del procedimiento de verificación;
+
+III. Iniciar, sustanciar y resolver el procedimiento de verificación, en términos de las disposiciones jurídicas aplicables en materia de protección de datos personales;
+
+IV. Administrar el registro y seguimiento de las vistas ordenadas en las resoluciones de verificación, a los órganos internos de control de los sujetos obligados y demás autoridades competentes;
+
+V. Aplicar medidas de apremio previstas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+VI. Realizar las diligencias que sean necesarias para la sustanciación de los asuntos que conozca, incluyendo la celebración de audiencias, requerimientos y desahogo de pruebas;
+
+VII. Requerir a las dependencias y entidades de la Administración Pública Federal los elementos que se consideren necesarios para aclarar, evaluar o lograr el total cumplimiento de las resoluciones emitidas;
+
+VIII. Celebrar las audiencias de conciliación, para lo cual podrá solicitar a las partes cualquier documento e información relacionada con los asuntos que se estén sustanciando;
+
+IX. Dar vista y denunciar ante las autoridades competentes cualquier acto u omisión violatoria de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y aportar las pruebas que considere pertinentes, en los términos de las disposiciones jurídicas aplicables, y
+
+X. Diseñar y aplicar indicadores y criterios para evaluar el desempeño de los responsables respecto al cumplimiento de la Ley General de Protección de datos Personales en Posesión de Sujetos Obligados.
+
+La Dirección General de Datos Personales en el Sector Público se auxilia en el ejercicio de sus atribuciones por las direcciones de Atención a Denuncias, Investigación, Verificación y Evaluación del Sector Público, y de Recursos de Revisión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 30-E.
+
+Corresponde a las unidades administrativas de la Dirección General de Datos Personales en el Sector Público, en el ámbito de sus respectivas competencias, las atribuciones que a continuación se señalan:
+
+I. A la Dirección de Atención a Denuncias, Investigación, Verificación y Evaluación del Sector Público:
+
+a) Las señaladas en las fracciones I, por cuanto hace a la promoción de las conciliaciones, II, III, IV, V, VI, VII, VIII, IX y X del artículo 30-D de este Reglamento;
+
+b) Emitir acuerdos, presidir y conducir audiencias de manera presencial o virtual, así como practicar diligencias, certificaciones, cotejos, requerimientos, citaciones, notificaciones y prevenciones, y
+
+c) Llevar el registro y seguimiento de las vistas realizadas a los órganos internos de control en las dependencias y entidades de la Administración Pública Federal y demás autoridades competentes.
+
+II. A la Dirección de Recursos de Revisión:
+
+a) Las señaladas en las fracciones I, por cuanto hace a los recursos de revisión, VI, VII y VIII del artículo 30-D de este Reglamento;
+
+b) Emitir acuerdos, presidir y conducir audiencias de manera presencial o virtual, así como practicar diligencias, certificaciones, cotejos, requerimientos, citaciones, notificaciones y prevenciones, y
+
+c) Llevar el registro y seguimiento de las vistas realizadas a los órganos internos de control en las dependencias y entidades de la Administración Pública Federal y demás autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 30-F.
+
+La Dirección General de Datos Personales en el Sector Privado tiene las atribuciones siguientes:
+
+I. Sustanciar y resolver el procedimiento de protección de derechos y la promoción de conciliaciones en términos de la Ley Federal de Protección de Datos Personales en Posesión de Particulares;
+
+II. Iniciar, sustanciar y resolver el procedimiento de verificación, en términos de las disposiciones jurídicas aplicables en materia de protección de datos personales;
+
+III. Iniciar, sustanciar y resolver el procedimiento de imposición de sanciones, en términos de las disposiciones jurídicas aplicables en materia de protección de datos personales;
+
+IV. Realizar las diligencias que sean necesarias para la sustanciación de los asuntos que conozca, incluyendo la celebración de audiencias, requerimientos y desahogo de pruebas;
+
+V. Requerir a las dependencias y entidades de la Administración Pública Federal los elementos que se consideren necesarios para aclarar, evaluar o lograr el total cumplimiento de las resoluciones emitidas;
+
+VI. Celebrar las audiencias de conciliación, para lo cual podrá solicitar a las partes cualquier documento e información relacionada con los asuntos que se estén sustanciando, y
+
+VII. Dar vista y denunciar ante las autoridades competentes cualquier acto u omisión violatoria de la Ley Federal de Protección de Datos Personales en Posesión de Particulares, y aportar las pruebas que considere pertinentes, en los términos de las disposiciones jurídicas aplicables.
+
+La Dirección General de Datos Personales en el Sector Privado se auxilia en el ejercicio de sus atribuciones por las direcciones de Protección de Derechos del Sector Privado; de Atención a Denuncias y Verificación del Sector Privado, y de Procedimientos Administrativos y Sanciones del Sector Privado.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 30-G.
+
+Compete a las unidades administrativas de la Dirección General de Datos Personales en el Sector Privado, en el ámbito de sus respectivas competencias, las atribuciones que a continuación se señalan:
+
+I. A la Dirección de Protección de Derechos del Sector Privado:
+
+a) Las señaladas en las fracciones I, IV, V y VII del artículo 30-F de este Reglamento, y
+
+b) Emitir acuerdos, presidir y conducir audiencias de manera presencial o virtual, así como practicar diligencias, certificaciones, cotejos, requerimientos, citaciones, notificaciones y prevenciones.
+
+II. A la Dirección de Atención a Denuncias y Verificación del Sector Privado:
+
+a) Las señaladas en las fracciones I, por cuanto hace a la promoción de conciliación II, IV, V y VII del artículo 30-F de este Reglamento, y
+
+b) Emitir acuerdos, presidir y conducir audiencias de manera presencial o virtual, así como practicar diligencias, certificaciones, cotejos, requerimientos, citaciones, notificaciones y prevenciones.
+
+III. A la Dirección de Procedimientos Administrativos y Sanciones del Sector Privado:
+
+a) Las señaladas en las fracciones I, por cuanto hace a la promoción de conciliación, III, IV, V, VI y VII del artículo 30-F de este Reglamento, y
+
+b) Emitir acuerdos, presidir y conducir audiencias de manera presencial o virtual, así como practicar diligencias, certificaciones, cotejos, requerimientos, citaciones, notificaciones y prevenciones.
 
 ###### Artículo 31.
 
@@ -1199,7 +1493,9 @@ I. Proponer la regulación de los procedimientos de fiscalización de la Secreta
 
 II. Determinar estrategias para la planeación de los actos de fiscalización de la Secretaría que se lleven a cabo por un solo ente fiscalizador o de manera conjunta, simultánea o no, por dos o más entes fiscalizadores a uno o más entes fiscalizados;
 
-III. Definir los criterios de análisis, de selección y capacidad operativa para la planeación genérica y criterios estratégicos y operativos, guías y cualquier otro documento de la planeación detallada, de los actos de fiscalización de la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+III. Definir los criterios para la planeación de los actos de fiscalización de la Secretaría;
 
 IV. Requerir a las dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios o alcaldías, a las personas físicas o morales que ejerzan o hayan ejercido recursos públicos federales, sean o hayan sido proveedores de la administración pública centralizada o paraestatal, o a cualquier persona que pueda contar con información sobre el ejercicio del gasto, la información y documentación necesaria para la planeación de los actos de fiscalización de la Secretaría;
 
@@ -1241,7 +1537,9 @@ I. Elaborar los proyectos de regulación de los procedimientos de fiscalización
 
 II. Proponer y ejecutar estrategias para la planeación de los actos de fiscalización de la Secretaría que se lleven a cabo por un solo ente fiscalizador o de manera conjunta, simultánea o no, por dos o más entes fiscalizadores a uno o más entes fiscalizados;
 
-III. Proponer los criterios de análisis, de selección y capacidad operativa para la planeación genérica y criterios estratégicos y operativos, guías y cualquier otro documento de la planeación detallada, de los actos de fiscalización de la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+III. Proponer los criterios para la planeación de los actos de fiscalización de la Secretaría;
 
 IV. Identificar la información y documentación que debe requerirse para formular proyectos de fiscalización;
 
@@ -1265,9 +1563,13 @@ XIII. Dar seguimiento al cumplimiento de las políticas, planes, programas y acc
 
 B. Ámbito de competencia:
 
-I. La Dirección General de Planeación, en materia de gestión gubernamental, ejercicio del gasto público federal, adquisiciones, arrendamiento financiero, servicios de cualquier naturaleza, obra pública y su ejecución, patrimonio público federal, fideicomisos públicos no paraestatales, mandatos y contratos análogos, para la elaboración de proyectos de fiscalización transversal o estratégica, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-II. La Dirección General de Planeación Estratégica y Regional, en materia de la gestión gubernamental, ejercicio del gasto público federal, adquisiciones, arrendamiento financiero, servicios de cualquier naturaleza, obra pública y su ejecución, y de recursos federales transferidos a las entidades federativas, municipios y alcaldías, para la elaboración de proyectos de fiscalización integrales o prioritarios.
+I. La Dirección General de Planeación, en materia de gestión gubernamental, ejercicio del gasto público federal, adquisiciones, arrendamiento financiero, servicios de cualquier naturaleza, obra pública y su ejecución, patrimonio público federal, fideicomisos públicos no paraestatales, mandatos y contratos análogos, así como los demás que le asigne la persona titular de la Unidad de Planeación, y
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. La Dirección General de Planeación Estratégica y Regional, en materia de la gestión gubernamental, ejercicio del gasto público federal, adquisiciones, arrendamiento financiero, servicios de cualquier naturaleza, obra pública y su ejecución, y de recursos federales transferidos a las entidades federativas, municipios y demarcaciones territoriales de Ciudad de México, así como los demás que le asigne la persona titular de la Unidad de Planeación.
 
 La Dirección General de Planeación en el ejercicio de sus atribuciones se auxilia de las direcciones de Planeación, y de Planeación de Fiscalización Electrónica y de Gabinete.
 
@@ -1277,7 +1579,9 @@ La Dirección General de Planeación Estratégica y Regional en el ejercicio de 
 
 La Coordinación General de Órganos Internos de Control tiene las atribuciones siguientes:
 
-I. Dirigir el desempeño de las unidades de vigilancia de órganos internos de control 1, 2, 3 y 4, de los órganos internos de control y sus respectivas áreas, incluidas sus oficinas de representación, y de las unidades de responsabilidades y sus respectivas áreas, incluidas sus delegaciones;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+I. Coordinar y dirigir el desempeño de las unidades de Vigilancia 1, 2, 3 y 4, de los órganos internos de control, sus respectivas áreas, oficinas de representación, oficinas regionales y de las unidades de responsabilidades, incluidas sus delegaciones y áreas correspondientes;
 
 II. Requerir a las dependencias y entidades de la Administración Pública Federal, incluyendo sus órganos administrativos desconcentrados y a cualquier persona física o moral, pública o privada, la información y documentación necesaria para ejercer sus atribuciones;
 
@@ -1303,7 +1607,9 @@ XII. Solicitar a las autoridades competentes, incluida la Comisión Nacional Ban
 
 XIII. Informar a la persona titular de la Subsecretaría Anticorrupción la participación y resultado de las unidades a su cargo en mecanismos alternativos de solución de controversias, en términos de las disposiciones aplicables.
 
-La Coordinación General de Órganos Internos de Control se auxilia en el ejercicio de sus atribuciones por las unidades de Vigilancia de Órganos Internos de Control 1, 2, 3 y 4; de los órganos internos de control y sus respectivas áreas; de las oficinas de representación, y de las unidades de responsabilidades, sus delegaciones y sus correspondientes áreas.
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+La Coordinación General de Órganos Internos de Control se auxilia en el ejercicio de sus atribuciones por las unidades de Vigilancia 1, 2, 3 y 4; de los órganos internos de control, sus respectivas áreas, oficinas de representación, oficinas regionales y de las unidades de responsabilidades, incluidas sus delegaciones y áreas correspondientes, así como del personal de mando, técnico y administrativo que tengan adscrito.
 
 ###### Artículo 34.
 
@@ -1343,7 +1649,9 @@ II. Determinar estrategias para la ejecución de los actos de fiscalización de 
 
 III. Requerir la información y documentación necesaria para formular proyectos de fiscalización;
 
-IV. Integrar las propuestas de actos de fiscalización de las unidades administrativas a su cargo y remitirla a la Unidad de Planeación;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IV. Integrar las propuestas de actos de fiscalización de las unidades administrativas a su cargo y remitirlas a la Unidad de Planeación;
 
 V. Coordinar la participación de las unidades administrativas a su cargo, en la elaboración, integración, modificación, seguimiento y evaluación del Programa Anual de Fiscalización;
 
@@ -1687,11 +1995,15 @@ IX. Interpretar, para efectos administrativos, las disposiciones jurídicas en m
 
 X. Formular ante el Ministerio Público en representación de la Secretaría, en el ámbito de su competencia, denuncias y querellas por hechos, actos u omisiones que conozca con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos, así como intervenir, coadyuvar y realizar toda clase de actos en ejercicio de la representación conferida en el procedimiento penal respectivo, hasta su resolución definitiva;
 
-XI. Atraer los asuntos en materia penal que sean conocidos por los órganos internos de control o por las unidades de responsabilidades, atendiendo a la naturaleza de los hechos, la gravedad del asunto o el daño patrimonial;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XI. Autorizar a la Dirección General de Asuntos Penales Estratégicos la atracción, para su atención y seguimiento, de aquellas denuncias y querellas presentadas por los órganos internos de control o por las unidades de responsabilidades o, en su caso, por la Unidad de Asuntos Jurídicos, por hechos, actos u omisiones constitutivos de delitos, atendiendo a la naturaleza de los hechos, la gravedad del asunto o el daño patrimonial;
 
 XII. Participar, dentro del ámbito de su competencia, en representación de la Secretaría, en mecanismos alternativos de solución de controversias y, en su caso, autorizar la terminación anticipada de procedimientos y procesos penales;
 
-XIII. Solicitar las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, cuando se requiera para verificar la evolución de la situación patrimonial de los declarantes, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos, de conformidad con lo dispuesto en el artículo 38 de la Ley General de Responsabilidades Administrativas;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIII. Solicitar a las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones jurídicas aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, cuando se requiera para verificar la evolución de la situación patrimonial de los declarantes, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos, de conformidad con lo dispuesto en el artículo 38 de la Ley General de Responsabilidades Administrativas;
 
 XIV. Solicitar a las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones aplicables, la información en materia fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios y, en general, aquella que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que sea necesaria para el desarrollo de investigaciones por faltas administrativas graves, de conformidad con lo previsto en el artículo 95 de la Ley General de Responsabilidades Administrativas;
 
@@ -1715,11 +2027,15 @@ III. Requerir a particulares información y documentación, incluida aquella que
 
 IV. Instruir, de oficio o en coordinación con las autoridades investigadoras, la realización de investigaciones por presunta responsabilidad de faltas administrativas, de faltas de particulares y de evolución patrimonial de las personas servidoras públicas de la Administración Pública Federal;
 
-V. Supervisar los procedimientos de verificación de la evolución patrimonial de las personas servidoras públicas, así como el seguimiento a los requerimientos de información realizados en materia de investigación y verificación de la evolución patrimonial, a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, órganos constitucionales autónomos y, en general, a cualquier ente público;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+V. Supervisar los procedimientos de investigación de evolución patrimonial de las personas servidoras públicas; determinar el periodo de investigación de la evolución y, en su caso, modificar el mismo, así como coordinar el seguimiento a los requerimientos de información realizados en materia de investigación y verificación de la evolución patrimonial, a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, órganos constitucionales autónomos y, en general, a cualquier ente público;
 
 VI. Solicitar a las autoridades substanciadoras o resolutoras, la aplicación, y en su caso, suspensión de las medidas cautelares que se estimen pertinentes, en el caso de que se actualicen los supuestos previstos por la Ley General de Responsabilidades Administrativas;
 
-VII. Emitir los acuerdos de inicio y de conclusión del procedimiento de investigación de evolución patrimonial de las personas servidoras públicas de la Administración Pública Federal, el acuerdo de calificación, así como el informe de presunta responsabilidad administrativa cuando se detecten incongruencias en la evolución de su patrimonio, y coordinar el desahogo de requerimientos en materia de la verificación de la evolución patrimonial de las personas servidoras públicas;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VII. Emitir los acuerdos que correspondan, incluido el de radicación y el de conclusión del procedimiento de investigación de evolución patrimonial, así como el de verificación de las personas servidoras públicas de la Administración Pública Federal; calificar la falta administrativa y emitir el informe de presunta responsabilidad administrativa cuando se detecten incongruencias en la evolución de su patrimonio, y coordinar la atención de requerimientos en materia de investigación de la evolución patrimonial de las personas servidoras públicas;
 
 VIII. Emitir el acuerdo de archivo del expediente del procedimiento de evolución patrimonial de las personas servidoras públicas de la Administración Pública Federal, por falta de elementos o cuando no se detecten inconsistencias;
 
@@ -1745,7 +2061,7 @@ XVIII. Solicitar a las autoridades competentes, incluida la Comisión Nacional B
 
 XIX. Atraer y conocer, previa autorización de la persona titular de la Unidad de Combate a la Impunidad, sobre actos u omisiones de los que tengan conocimiento, o en su caso, estén siendo investigados por presunta responsabilidad de faltas administrativas cometidas por personas servidoras públicas de la Administración Pública Federal en materia de evolución patrimonial y de verificación de la evolución patrimonial, por órganos internos de control o unidades de responsabilidades;
 
-XX. Emitir documentos electrónicos con validez legal mediante el uso de la firma electrónica avanzada, y
+XX. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
 XXI. Impugnar la abstención de iniciar el procedimiento de responsabilidad administrativa y, en su caso, la de imponer sanciones a las personas servidoras públicas de la Administración Pública Federal, cuando se cumplan los requisitos previstos en los ordenamientos en materia de responsabilidad administrativa, así como promover todos aquellos medios de defensa que como autoridad investigadora correspondan en términos de las disposiciones jurídicas aplicables.
 
@@ -1769,7 +2085,9 @@ e) Solicitar a las dependencias y entidades de la Administración Pública Feder
 
 f) Gestionar el Sistema Integral de Evolución Patrimonial, y analizar las actividades relativas a la situación patrimonial de las personas declarantes, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos;
 
-g) Calificar la conducta en los procedimientos de responsabilidad administrativa y presentar a la autoridad substanciadora el informe de presunta responsabilidad administrativa;
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+g) Presentar a la autoridad substanciadora el informe de presunta responsabilidad administrativa;
 
 h) Dar capacitación y asesoría a las autoridades investigadoras en materia de evolución patrimonial de las personas servidoras públicas y su verificación, y
 
@@ -1777,7 +2095,9 @@ i) Expedir copias certificadas de los documentos o información que obren en sus
 
 II. La Dirección de Investigación e Informática Forense:
 
-a) Las señaladas en las fracciones II, III, IV, VII, VIII, XI, XIII, XVI y XXI del artículo 42, así como las previstas en los incisos c), d) y g) de la fracción I de este artículo;
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+a) Las señaladas en las fracciones II, III, IV, VII, VIII, XI, XIII, XVI y XXI del artículo 42, así como las previstas en los incisos b), c), d) y g) de la fracción I de este artículo;
 
 b) Solicitar a las dependencias y entidades de la Administración Pública Federal, estatal o municipal, empresas públicas del Estado, o cualquier otra autoridad pública, información relativa a la situación patrimonial de las personas servidoras públicas de la Administración Pública Federal, de sus cónyuges, concubinas o concubinarios y de sus dependientes económicos, analizar dicha información y, en su caso, emitir el análisis de la evolución patrimonial;
 
@@ -1829,11 +2149,15 @@ IX. Requerir a particulares, información y documentación relacionadas con los 
 
 X. Remitir a los órganos internos de control, unidades de responsabilidades, o a cualquier otra autoridad competente, las denuncias que deban tramitar por razón de su competencia;
 
-XI. Recibir el recurso de inconformidad previsto en la Ley General de Responsabilidades Administrativas que, en su caso, se interponga en contra de la calificación de faltas administrativas no graves, y correr traslado a la Sala Especializada en materia de Responsabilidades Administrativas en los términos previstos en la Ley, al que se adjunte el expediente integrado y un informe en el que justifique la calificación impugnada;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XI. Recibir el recurso de inconformidad previsto en la Ley General de Responsabilidades Administrativas que, en su caso, se interponga en contra de la calificación de faltas administrativas no graves, y remitirlo a la Sala competente del Tribunal Federal de Justicia Administrativa, en los términos previstos en dicha Ley;
 
 XII. Impugnar la abstención de iniciar el procedimiento de responsabilidad administrativa y, en su caso, la de imponer sanciones a las personas servidoras públicas de la Administración Pública Federal, cuando se cumplan los requisitos previstos en los ordenamientos en materia de responsabilidad administrativa, así como promover todos aquellos medios de defensa que como autoridad investigadora correspondan en términos de las disposiciones jurídicas aplicables;
 
-XIII. Presentar el informe de presunta responsabilidad administrativa acompañado del expediente respectivo, ante los órganos internos de control, unidades de responsabilidades, y la Dirección General de Procedimientos y Resoluciones, cuando de las investigaciones realizadas se determine la probable comisión de faltas administrativas, faltas de particulares, o ambas;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIII. Presentar el informe de presunta responsabilidad administrativa acompañado del expediente respectivo, ante los órganos internos de control, unidades de responsabilidades, y la Dirección General de Procedimientos y Resoluciones, cuando de las investigaciones realizadas se determine la probable comisión de faltas administrativas, faltas de particulares, o ambas y, en su caso, subsanar la prevención realizada por la autoridad substanciadora respecto del informe de presunta responsabilidad administrativa;
 
 XIV. Solicitar a las autoridades substanciadoras o resolutoras la aplicación y, en su caso, la suspensión de las medidas cautelares que se estimen pertinentes, en caso de que se actualicen los supuestos previstos por la Ley General de Responsabilidades Administrativas;
 
@@ -1841,7 +2165,7 @@ XV. Dar vista a la Dirección General de Asuntos Penales Estratégicos, sobre he
 
 XVI. Coordinar y dirigir la atención de denuncias que reciba por la comisión de presuntas faltas administrativas y faltas de particulares;
 
-XVII. Emitir documentos electrónicos con validez legal mediante el uso de la firma electrónica avanzada en los procedimientos de investigación derivados de la presentación extemporánea de la declaración patrimonial y de intereses realizada por las personas servidoras públicas de la Administración Pública Federal, incluyendo el Informe de Presunta Responsabilidad Administrativa;
+XVII. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
 XVIII. Hacer uso de las medidas previstas en la Ley General de Responsabilidades Administrativas para hacer cumplir sus determinaciones, y
 
@@ -1853,7 +2177,9 @@ La Dirección General de Investigación se auxilia en el ejercicio de sus atribu
 
 Las direcciones de Investigación A, B, C, D y E tienen las atribuciones siguientes:
 
-I. Las señaladas en las fracciones II, III, V, VI, VII, VIII, IX, X, XII, XIII y XV del artículo 44 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+I. Las señaladas en las fracciones II, III, V, VI, VII, VIII, IX, X, XII, XIII, XV y XVIII del artículo 44 de este Reglamento;
 
 II. Requerir a las dependencias y entidades de la Administración Pública Federal, estatal o municipal, empresas públicas del Estado y en general, a cualquier ente público, información y documentación relacionadas con los hechos que sean materia de sus investigaciones, y
 
@@ -1885,9 +2211,17 @@ II. Proporcionar asesoría jurídica y técnica, para la atención de denuncias,
 
 III. Implementar y proponer mejoras al Sistema Integral de Denuncias Ciudadanas para que los órganos internos de control, unidades de responsabilidades, y personal adscrito a la Dirección General de Investigación, registren, atiendan y administren las denuncias;
 
-IV. Determinar y gestionar ante las autoridades competentes la solicitud de medidas de protección a denunciantes que le instruya la persona titular de la Coordinación de Denuncias y Atención Ciudadana tratándose de faltas administrativas graves, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-V. Asesorar a los particulares en la presentación de denuncias por presuntas faltas administrativas.
+IV. Determinar y gestionar ante las autoridades competentes la solicitud de medidas de protección a denunciantes que le instruya la persona titular de la Coordinación de Denuncias y Atención Ciudadana tratándose de faltas administrativas graves;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+V. Asesorar a los particulares en la presentación de denuncias por presuntas faltas administrativas, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VI. Expedir copias certificadas de los documentos o información que obren en sus archivos, en formato físico o electrónico.
 
 ###### Artículo 48.
 
@@ -1895,9 +2229,13 @@ La Dirección General de Procedimientos y Resoluciones tiene las atribuciones si
 
 I. Proponer a la persona titular de la Unidad de Combate a la Impunidad la interpretación, para efectos administrativos, de las disposiciones jurídicas en materia de responsabilidades administrativas de las personas servidoras públicas;
 
-II. Admitir los informes de presunta responsabilidad administrativa y el expediente de investigación que le sean turnados por las unidades administrativas competentes de la Secretaría, así como acordar, en su caso, las prevenciones que correspondan;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-III. Determinar la procedencia, improcedencia, sobreseimiento o abstención de iniciar los procedimientos de responsabilidad administrativa y, en su caso, la imposición de sanciones, emplazar al probable responsable, citar a las partes, dictar los acuerdos e imponer sanciones por faltas administrativas no graves;
+II. Recibir y, en su caso, admitir los informes de presunta responsabilidad administrativa y los expedientes que le sean turnados por las autoridades investigadoras competentes;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+III. Determinar la prevención, procedencia, improcedencia, sobreseimiento o abstención de iniciar los procedimientos de responsabilidad administrativa y abstención de imponer sanciones; emplazar a la persona presunta responsable, citar a las partes, dictar los acuerdos, realizar las diligencias que sean necesarias para la substanciación del procedimiento de responsabilidad administrativa, y supervisar las medidas cautelares y de apremio que emitan las direcciones a su cargo;
 
 IV. Remitir al Tribunal Federal de Justicia Administrativa, para su resolución, los procedimientos de responsabilidad administrativa que versen sobre presuntas faltas administrativas graves y de particulares;
 
@@ -1909,7 +2247,7 @@ VII. Turnar, previo acuerdo de la persona titular de la Unidad de Combate a la I
 
 VIII. Coordinar las acciones que procedan conforme a disposiciones jurídicas en materia de responsabilidad administrativa, para apoyar en el cobro de las sanciones económicas que se impongan;
 
-IX. Emitir documentos electrónicos con validez legal mediante el uso de la firma electrónica avanzada;
+IX. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
 X. Solicitar a la Dirección General de Asuntos Penales Estratégicos, la presentación de la denuncia que corresponda, derivado del procedimiento de responsabilidad administrativa y darle seguimiento hasta su definitiva resolución;
 
@@ -1945,9 +2283,17 @@ VI. Decretar las medidas cautelares de conformidad con las disposiciones jurídi
 
 VII. Acordar la admisión y desechamiento de las pruebas ofrecidas por las partes; preparar su desahogo; acordar la práctica y, en su caso, ampliación de cualquier diligencia probatoria; presidir los actos de desahogo de pruebas, y autorizar las demás actuaciones que resulten pertinentes;
 
-VIII. Coadyuvar con la persona titular de la Dirección General de Procedimientos y Resoluciones en la asesoría y seguimiento de los actos de fiscalización de los órganos internos de control o unidades de responsabilidades, en materia de responsabilidad administrativa, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-IX. Expedir copias certificadas de los documentos o información que obren en sus archivos en formato físico o electrónico.
+VIII. Coadyuvar con la persona titular de la Dirección General de Procedimientos y Resoluciones en la asesoría y seguimiento de los procedimientos de los órganos internos de control o unidades de responsabilidades, en materia de responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IX. Expedir copias certificadas de los documentos o información que obren en sus archivos en formato físico o electrónico, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+X. Requerir a las dependencias y entidades de la Administración Pública Federal, estatal o municipal, empresas públicas del Estado y en general, a cualquier ente público, información y documentación relacionada con los hechos que sean materia de los procedimientos de responsabilidades administrativas.
 
 ###### Artículo 50.
 
@@ -1955,7 +2301,9 @@ La Coordinación de Registro Patrimonial tiene las atribuciones siguientes:
 
 I. Coordinar la interpretación del formato, normas e instructivo de llenado para la presentación de la declaración patrimonial y de intereses de las personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado;
 
-II. Supervisar el resguardo y custodia de la información que ingrese al sistema electrónico de declaraciones de situación patrimonial y de intereses de las personas servidoras públicas, al sistema de registro de personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado, así como la relativa a las personas servidoras públicas sancionadas; y adoptar medidas para actualizar y depurar el sistema referido;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. Supervisar el resguardo y custodia de la información que ingrese al sistema electrónico de declaraciones de situación patrimonial y de intereses de las personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado, así como la relativa a las personas servidoras públicas sancionadas, y adoptar medidas para actualizar y depurar el sistema referido;
 
 III. Coordinar las acciones para verificar la presentación de las declaraciones patrimoniales y de intereses, y dar vista, en su caso, a los órganos internos de control o unidades de responsabilidades, o a la Dirección General de Investigación, respecto de la falta de su presentación en tiempo y forma;
 
@@ -1965,11 +2313,15 @@ V. Implementar y difundir los programas preventivos y las acciones que se determ
 
 VI. Certificar las declaraciones patrimoniales y de intereses de las personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado, que se obtengan del sistema respectivo, así como de la información que obre en los archivos documentales y digitales, tanto de registro patrimonial y de intereses, como en el registro de personas servidoras públicas y particulares sancionados, y la que se encuentre en el archivo documental;
 
-VII. Coordinar la publicidad de las sanciones impuestas a los particulares y a las personas servidoras públicas de la Administración Pública Federal, de las empresas públicas del Estado, y de cualquier otro ente público con el que la Secretaría suscriba convenios de forma específica, o con el fin de para (sic) suministrar la información a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VII. Coordinar el registro de las sanciones impuestas por las unidades administrativas competentes de la Secretaría conforme a la Ley General de Responsabilidades Administrativas o por cualquier otro ente público con el que la Secretaría suscriba convenios de forma específica, y por las autoridades jurisdiccionales en ejercicio de sus funciones, así como supervisar que la publicidad y el suministro de información de dichas sanciones se realice en términos de las disposiciones jurídicas aplicables;
 
 VIII. Supervisar el registro de las sanciones impuestas a las personas servidoras públicas por las autoridades resolutoras de procedimientos de responsabilidad administrativa y por los órganos jurisdiccionales en el sistema correspondiente, siempre que hayan quedado firmes;
 
-IX. Recibir de las personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado sus respectivas declaraciones de situación patrimonial y de intereses; registrarlas y suministrar la información correspondiente a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IX. Recibir de las personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado sus respectivas declaraciones de situación patrimonial y de intereses; registrarlas y suministrar la información correspondiente en términos de las disposiciones jurídicas aplicables;
 
 X. Proponer acciones de capacitación para las personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado en todo lo relativo a la declaración patrimonial y de intereses, y al registro de las personas servidoras públicas y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa;
 
@@ -1977,7 +2329,9 @@ XI. Expedir constancias del registro de las personas servidoras públicas sancio
 
 XII. Coadyuvar en la celebración de convenios de coordinación entre la Secretaría y demás entes públicos, en materia de declaraciones patrimoniales y de intereses, así como de personas servidoras públicas y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa, y
 
-XIII. Dar vista a los órganos internos de control o unidades de responsabilidades, de las personas que, estando inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, se encuentren en activo en alguna dependencia o entidad de la Administración Pública Federal, o empresa pública del Estado.
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIII. Dar vista a los órganos internos de control o unidades de responsabilidades, de las personas que, estando inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, se encuentren en activo en alguna dependencia o entidad de la Administración Pública Federal, o empresa pública del Estado, así como dar vista a la Dirección General de Asuntos Penales Estratégicos sobre hechos, actos u omisiones que advierta en el ejercicio de sus atribuciones y que puedan ser constitutivos de delito, coadyuvando en el procedimiento penal respectivo.
 
 La Coordinación de Registro Patrimonial se auxilia en el ejercicio de sus atribuciones por las direcciones de Registro Patrimonial y de Intereses, y del Registro de Sancionados.
 
@@ -2003,7 +2357,9 @@ La Dirección del Registro de Sancionados tiene las atribuciones siguientes:
 
 I. Operar el sistema por el cual los órganos internos de control y unidades de responsabilidades, registren las sanciones impuestas a las personas servidoras públicas y particulares en materia de responsabilidad administrativa, y mantenerlo actualizado;
 
-II. Administrar, por medio de los sistemas respectivos, la publicidad de la información de las personas servidoras públicas de las dependencias, órganos administrativos desconcentrados, entidades y empresas públicas del Estado y particulares sancionados de conformidad con los ordenamientos en materia de responsabilidad administrativa, así como la de las personas servidoras públicas sancionadas de cualquier otro ente público con el que la Secretaría suscriba convenios para suministrar la información a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. Administrar el registro de las sanciones impuestas por las unidades administrativas competentes de la Secretaría conforme a la Ley General de Responsabilidades Administrativas o por cualquier otro ente público con el que la Secretaría suscriba convenios de forma específica, o por las autoridades jurisdiccionales en ejercicio de sus funciones, así como administrar, por medio de los sistemas respectivos, la publicidad y suministro de información de dichas sanciones en términos de las disposiciones jurídicas aplicables;
 
 III. Registrar en el sistema respectivo, siempre que hayan quedado firmes, las sanciones impuestas por las autoridades resolutoras de procedimientos de responsabilidad administrativa y por los órganos jurisdiccionales, a las personas servidoras públicas de la Administración Pública Federal y de las empresas públicas del Estado, y a particulares, así como verificar la información registrada en ese sistema;
 
@@ -2015,17 +2371,25 @@ VI. Realizar acciones para el control y seguimiento de los convenios celebrados 
 
 VII. Proponer acciones de capacitación para los órganos internos de control y unidades de responsabilidades, en materia de registro de las personas servidoras públicas sancionados (sic) y, en su caso, asesorarlos (sic), y
 
-VIII. Expedir las constancias que se obtengan de los sistemas de registro de sanciones de las personas servidoras públicas y particulares.
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VIII. Expedir y, en su caso, certificar las constancias que se obtengan de los sistemas de registro de sanciones impuestas conforme a la Ley General de Responsabilidades Administrativas, así como las que obren en el archivo documental.
 
 ###### Artículo 53.
 
 La Dirección General de Asuntos Penales Estratégicos tiene las atribuciones siguientes:
 
-I. Presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos, actos u omisiones de los que tenga conocimiento, derivados de investigaciones de responsabilidad administrativa de personas servidoras públicas y de falta de particulares, y que puedan ser constitutivos de delitos;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-II. Atraer, previa autorización de la persona titular de la Unidad de Combate a la Impunidad, los asuntos en materia penal conocidos por los órganos internos de control o unidades de responsabilidades, cuando por la naturaleza de los hechos, la gravedad del asunto o el daño patrimonial, estime pertinente que deba conocer la Unidad de Combate a la Impunidad y, en su caso, requerir el envío del expediente respectivo al denunciante, o bien requerirle designe a personal de dicha Unidad, como asesor jurídico, dentro de los procedimientos y procesos penales;
+I. Elaborar y presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos, actos u omisiones de los que tenga conocimiento, derivados de investigaciones de responsabilidad administrativa de personas servidoras públicas y de falta de particulares, y que puedan ser constitutivos de delitos;
 
-III. Intervenir y coadyuvar, en el ámbito de su competencia, como parte en el procedimiento penal respectivo cuando a la Secretaría se le reconozca su calidad de víctima u ofendida, y darle seguimiento hasta su resolución definitiva;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. Atraer y conocer, previa autorización de la persona titular de la Unidad de Combate a la Impunidad, los asuntos en materia penal iniciados ante las autoridades competentes por los órganos internos de control o unidades de responsabilidades o, en su caso, por la Unidad de Asuntos Jurídicos, cuando por la naturaleza de los hechos, la gravedad del asunto o el daño patrimonial, estime pertinente que deba conocer la Unidad de Combate a la Impunidad y, en su caso, requerir el envío del expediente respectivo;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+III. Intervenir y coadyuvar, en el ámbito de su competencia, como parte en el procedimiento penal respectivo en representación de la Secretaría en su calidad de víctima u ofendida, y darle seguimiento hasta su resolución definitiva;
 
 IV. Participar, en el ámbito de su competencia, en representación de la Secretaría y previa autorización de la persona titular de la Unidad de Combate a la Impunidad, en mecanismos alternativos de solución de controversias, autorizar la terminación anticipada de procedimientos y procesos penales y, en su caso, otorgar el perdón legal, y
 
@@ -2041,7 +2405,9 @@ Las direcciones de Asuntos Penales Estratégicos A y B tienen las atribuciones p
 
 La Unidad de Asuntos Jurídicos tiene las atribuciones siguientes:
 
-I. Apoyar jurídicamente a la persona titular de la Secretaría y a las unidades administrativas de esta, y actuar como órgano de consulta de las mismas en sus actividades jurídicas, sin perjuicio de las atribuciones conferidas a otras unidades administrativas en este Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+I. Apoyar jurídicamente a la persona titular de la Secretaría, de las unidades administrativas de esta y de su órgano administrativo desconcentrado, y actuar como órgano de consulta de las mismas en sus actividades jurídicas, sin perjuicio de las atribuciones conferidas a otras unidades administrativas en este Reglamento;
 
 II. Coordinar, al interior de la Secretaría, la formulación y revisión de los anteproyectos y proyectos de iniciativas de reformas constitucionales, de leyes o decretos legislativos, así como de reglamentos, decretos, acuerdos y demás disposiciones jurídicas de carácter general, y sus modificaciones, en las materias competencia de la Secretaría, así como presentarlos a la Consejería Jurídica del Ejecutivo Federal;
 
@@ -2061,33 +2427,51 @@ IX. Determinar el criterio que debe prevalecer al interior de la Secretaría cua
 
 X. Dirigir la compilación, sistematización y difusión de las normas jurídicas relacionadas con las atribuciones de las unidades administrativas de la Secretaría;
 
-XI. Coordinar e integrar, de conformidad con la información que le proporcionen las diversas unidades administrativas de la Secretaría, los informes y demás requerimientos que deba rendir la dependencia a la Comisión Nacional de los Derechos Humanos y a otros organismos defensores de derechos humanos análogos;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XI. Coordinar la integración, de conformidad con la información que le proporcionen las diversas unidades administrativas de la Secretaría, los informes y demás requerimientos que deba rendir la dependencia a la Comisión Nacional de los Derechos Humanos y a otros organismos defensores de derechos humanos análogos;
 
 XII. Representar a la persona titular del Ejecutivo Federal en los juicios de amparo, demás trámites y procedimientos establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y en aquellos asuntos que le corresponda en los términos establecidos en dicha Ley, así como intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en los que se le otorgue a la Secretaría la representación de la persona titular del Ejecutivo Federal, en términos de la normativa aplicable, en coordinación con la Consejería Jurídica del Ejecutivo Federal;
 
 XIII. Representar a las personas titulares de la Secretaría, de las Subsecretarías y de las unidades administrativas adscritas a las mismas, así como a las personas servidoras públicas y órganos colegiados de la Secretaría, en todos los trámites, procesos y procedimientos dentro de los juicios de amparo, así como realizar toda clase de actos previstos en las disposiciones jurídicas aplicables en ejercicio de dicha representación, entre otros, suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial en la que sean parte dichas personas servidoras públicas, siempre que la representación no corresponda a otra unidad administrativa;
 
-XIV. Representar legalmente a la Secretaría, a sus unidades administrativas y a sus respectivos titulares, así como a las personas servidoras públicas y órganos colegiados de la Secretaría, en toda clase de procedimientos y procesos ante cualquier autoridad judicial, jurisdiccional y administrativa federal o del fuero común en materias tales como administrativa, civil, penal, mercantil, agraria y del trabajo; formular demandas, contestaciones, reconvenir a la contraparte; ofrecer pruebas y formular alegatos y, en general, todas las promociones que se requieran; ejercer todas las acciones, defensas y excepciones que correspondan a la Secretaría; atender las diligencias respectivas; absolver posiciones; comparecer en todo tipo de audiencias; interponer toda clase de recursos que se consideren necesarios, allanarse y desistirse, cuando se estime procedente, así como atender los asuntos de orden jurídico que le competa a la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIV. Representar legalmente a la Secretaría, a sus unidades administrativas y a sus respectivos titulares, así como a las personas servidoras públicas y órganos colegiados de la Secretaría y de su órgano administrativo desconcentrado, en toda clase de procedimientos y procesos ante cualquier autoridad judicial, jurisdiccional y administrativa federal o del fuero común en materias tales como administrativa, civil, penal, mercantil, agraria y del trabajo; formular demandas, contestaciones, reconvenir a la contraparte; ofrecer pruebas y formular alegatos y, en general, todas las promociones que se requieran; ejercer todas las acciones, defensas y excepciones que correspondan a la Secretaría; atender las diligencias respectivas; absolver posiciones; comparecer en todo tipo de audiencias; interponer toda clase de recursos que se consideren necesarios, allanarse y desistirse, cuando se estime procedente, así como atender los asuntos de orden jurídico que le competa a la Secretaría;
 
 XV. Substanciar el recurso administrativo que se interponga en contra de las resoluciones que emita la persona titular de la Dirección General de Controversias y Sanciones en Contrataciones Públicas o, en su caso, las dictadas por las personas titulares de las unidades administrativas a su cargo;
 
 XVI. Substanciar y resolver el recurso administrativo previsto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
 
-XVII. Formular querella y denuncias por hechos u omisiones ante el Ministerio Público, así como ejercer acción penal ante los tribunales en los casos que proceda y cuando se cuente con los elementos necesarios; representar legalmente a la Secretaría ante las autoridades en materia penal tanto judiciales como administrativas y jurisdiccionales, y con tal carácter intervenir en los mecanismos alternativos de solución de controversias previstos en la ley de la materia; otorgar perdón, celebrar salidas alternas y terminación anticipada del proceso penal, y gestionar la liberación y devolución de bienes de activo fijo de la Secretaría relacionados con carpetas de investigación, procedimientos judiciales o administrativos de cualquier naturaleza, así como designar asesores jurídicos en el procedimiento penal;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XVII. Formular querellas y denuncias por hechos u omisiones ante el Ministerio Público, así como ejercer acción penal ante los tribunales en los casos que proceda y cuando se cuente con los elementos necesarios; representar legalmente a la Secretaría y a su órgano administrativo desconcentrado ante las autoridades en materia penal tanto judiciales como administrativas y jurisdiccionales, y con tal carácter intervenir en los mecanismos alternativos de solución de controversias previstos en la ley de la materia; otorgar perdón, celebrar salidas alternas y terminación anticipada del proceso penal, y gestionar la liberación y devolución de bienes de activo fijo de la Secretaría relacionados con carpetas de investigación, procedimientos judiciales o administrativos de cualquier naturaleza, así como designar asesores jurídicos en el procedimiento penal;
 
 XVIII. Presentar ante el Congreso de la Unión, en representación de la Secretaría, denuncias por violaciones graves a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ella emanen, y por manejo indebido de recursos y valores de la propiedad o al cuidado del Gobierno Federal;
 
-XIX. Representar a la persona titular de la Secretaría ante cualquier tribunal federal y del fuero común en materia laboral y cualquier otra autoridad laboral en los juicios y procedimientos en que sea parte la Secretaría, al ejercer las acciones, excepciones y defensas, desistimientos, conciliar, allanamientos, interposición de los recursos que procedan, y todas aquellas promociones que se requieran en el curso de los procedimientos, así como designar a las personas servidoras públicas que representarán a la Secretaría como apoderadas legales en los juicios laborales en ausencia de la persona titular de la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XX. Autorizar por escrito a las personas servidoras públicas de la Unidad de Asuntos Jurídicos que deben representar legalmente a la Secretaría y a las personas servidoras públicas de esta, en los asuntos y en el ejercicio de las atribuciones establecidas en las fracciones XII, XIII, XVII y XIX, sin perjuicio del ejercicio directo de la atribución por parte de las personas servidoras públicas por suplencia en los casos de ausencia;
+XIX. Representar a la persona titular de la Secretaría y de su órgano administrativo desconcentrado ante cualquier tribunal federal y del fuero común en materia laboral y cualquier otra autoridad laboral en los juicios y procedimientos en que sea parte la Secretaría, al ejercer las acciones, excepciones y defensas, desistimientos, conciliaciones, allanamientos, interposición de los recursos que procedan, y todas aquellas promociones que se requieran en el curso de los procedimientos, así como designar a las personas servidoras públicas que representarán a la Secretaría o a su órgano administrativo desconcentrado como apoderadas legales en los juicios laborales en ausencia de la persona titular de la Secretaría o de su órgano administrativo desconcentrado;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XX. Autorizar por escrito a las personas servidoras públicas de la Unidad de Asuntos Jurídicos que deben representar legalmente a la Secretaría, a su órgano administrativo desconcentrado y a las personas servidoras públicas de los mismos, en los asuntos y en el ejercicio de las atribuciones establecidas en las fracciones XII, XIII, XVII y XIX, sin perjuicio del ejercicio directo de la atribución por parte de las personas servidoras públicas por suplencia en los casos de ausencia;
 
 XXI. Interponer en representación de las personas servidoras públicas de la Secretaría el recurso de revisión previsto en la Ley Federal de Procedimiento Contencioso Administrativo;
 
 XXII. Representar jurídicamente a la Secretaría para efecto de dar trámite a los asuntos relacionados con la propiedad industrial y los derechos de autor ante las autoridades competentes; ejercer el resguardo y custodia de los títulos y demás documentos en los que se consignen los derechos de la Secretaría en ambas materias, así como registrar el uso de logotipos distintivos por parte de las unidades administrativas de la Secretaría;
 
-XXIII. Coordinar la solicitud de registro de los autógrafos de las personas servidoras públicas de la Secretaría ante la Secretaría de Gobernación, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XXIV. Expedir los lineamientos, criterios, parámetros y procedimientos internos, que permitan el desarrollo de la función jurídica de la Secretaría, así como de las funciones relacionadas con temas jurídicos a cargo de las diversas unidades administrativas de la dependencia.
+XXIII. Coordinar la solicitud de registro de los autógrafos de las personas servidoras públicas de la Secretaría ante la Secretaría de Gobernación;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXIV. Expedir los lineamientos, criterios, parámetros y procedimientos internos, que permitan el desarrollo de la función jurídica de la Secretaría, así como de las funciones relacionadas con temas jurídicos a cargo de las diversas unidades administrativas de la dependencia y de su órgano administrativo desconcentrado, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXV. Remitir, en su caso, a la Unidad de Combate a la Impunidad, a los órganos internos de control o a las unidades de responsabilidades, los asuntos penales que se encuentren en trámite, para su atención y conclusión, atendiendo a la naturaleza de los hechos, la gravedad del asunto o el daño patrimonial.
 
 La Unidad de Asuntos Jurídicos se auxilia en el ejercicio de sus atribuciones por las direcciones generales de Normatividad y Consulta, y Jurídica.
 
@@ -2109,7 +2493,9 @@ VI. Administrar el registro electrónico de los ordenamientos internos de las de
 
 VII. Fungir como enlace ante la Secretaría de Gobernación a efecto de mantener actualizado el Sistema de Compilación y Consulta del Orden Jurídico Nacional del Poder Ejecutivo Federal;
 
-VIII. Dirigir la atención de consultas jurídicas que le formulen a la persona titular de la Secretaría y a las unidades administrativas de la dependencia;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VIII. Dirigir la atención de consultas jurídicas que le formulen a la persona titular de la Secretaría y, en su caso, de su órgano administrativo desconcentrado, así como a las unidades administrativas de estos;
 
 IX. Auxiliar a la persona titular de la Unidad de Asuntos Jurídicos en la revisión, dictamen y registro de los instrumentos jurídicos que celebre la Secretaría con los sectores público, privado y social, de carácter nacional e internacional;
 
@@ -2121,9 +2507,17 @@ XII. Substanciar y resolver el recurso administrativo previsto en la Ley del Ser
 
 XIII. Tramitar los asuntos de la Secretaría relacionados con la propiedad industrial y los derechos de autor ante las autoridades competentes;
 
-XIV. Fungir como enlace de la Unidad de Asuntos Jurídicos ante la Unidad de Transparencia, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XV. Solicitar el registro de los autógrafos de las personas servidoras públicas de la Secretaría ante la Secretaría de Gobernación.
+XIV. Fungir como enlace de la Unidad de Asuntos Jurídicos ante la Unidad de Transparencia;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XV. Solicitar el registro de los autógrafos de las personas servidoras públicas de la Secretaría ante la Secretaría de Gobernación, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XVI. Integrar, de conformidad con la información que le proporcionen las diversas unidades administrativas de la Secretaría, los informes y demás requerimientos que deba rendir la dependencia a la Comisión Nacional de los Derechos Humanos y a otros organismos defensores de derechos humanos análogos.
 
 La Dirección General de Normatividad y Consulta se auxilia en el ejercicio de sus atribuciones por las direcciones de Normatividad A, B y C, Consultiva, y de Recursos.
 
@@ -2135,27 +2529,29 @@ I. Substanciar el recurso administrativo que se interponga en contra de las reso
 
 II. Substanciar y resolver el recurso administrativo previsto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
 
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
 ###### Artículo 58.
 
 La Dirección General Jurídica tiene las atribuciones siguientes:
 
-I. Presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos u omisiones que conozca con motivo de su competencia y que puedan ser constitutivos de delito; intervenir, coadyuvar y realizar toda clase de actos en ejercicio de la representación conferida en el procedimiento penal respectivo, hasta su resolución definitiva;
+I. Presentar al Ministerio Público, en representación de la Secretaría o de su órgano administrativo desconcentrado, denuncias y querellas por hechos u omisiones que conozca con motivo de su competencia y que puedan ser constitutivos de delito; intervenir, coadyuvar y realizar toda clase de actos en ejercicio de la representación conferida en el procedimiento penal respectivo, hasta su resolución definitiva;
 
 II. Asesorar a los órganos internos de control y a las unidades de responsabilidades, en la elaboración de las denuncias que presenten al Ministerio Público por hechos que puedan ser constitutivos de delito;
 
-III. Representar legalmente a la persona titular del Ejecutivo Federal, a la Secretaría, a sus unidades administrativas, a las personas servidoras públicas y órganos colegiados de la dependencia, en toda clase de trámites, procesos y procedimientos, incluidos los juicios de amparo, contenciosos administrativos, penales, civiles, mercantiles y agrarios, así como los mecanismos alternativos de solución de controversias, del orden federal, estatal o municipal, en los que tengan interés simple, jurídico o legítimo o se requiera su intervención, siempre que la representación no corresponda a otra unidad administrativa;
+III. Representar legalmente a la persona titular del Ejecutivo Federal, a la Secretaría y su órgano administrativo desconcentrado, a sus unidades administrativas, a las personas servidoras públicas y órganos colegiados de la dependencia y de dicho órgano, en toda clase de trámites, procesos y procedimientos, incluidos los juicios de amparo, contenciosos administrativos, penales, civiles, mercantiles y agrarios, así como los mecanismos alternativos de solución de controversias, del orden federal, estatal o municipal, en los que tengan interés simple, jurídico o legítimo o se requiera su intervención, siempre que la representación no corresponda a otra unidad administrativa;
 
-IV. Realizar toda clase de actos en ejercicio de la representación legal prevista en la fracción anterior conforme a las disposiciones jurídicas aplicables, tales como presentar demandas, contestaciones de demandas, denuncias e informes y reconvenir a la contraparte; allanarse y desistirse, previa autorización de la persona titular de la Unidad de Asuntos Jurídicos; comparecer a audiencias; ofrecer pruebas; formular alegatos; presentar denuncias, querellas e informes; proponer conciliaciones y, en su caso, suscribir los convenios; interponer medios de impugnación; celebrar acuerdos reparatorios, salidas alternas y de terminación anticipada, y otorgar perdón, y en general, presentar toda promoción necesaria para la defensa jurídica de la Secretaría, las personas servidoras públicas y órganos colegiados de la misma, ante cualquier autoridad de carácter jurisdiccional, administrativo, legislativo o constitucional autónomo;
+IV. Realizar toda clase de actos en ejercicio de la representación legal prevista en la fracción anterior conforme a las disposiciones jurídicas aplicables, tales como presentar demandas, contestaciones de demandas, denuncias e informes y reconvenir a la contraparte; allanarse y desistirse, previa autorización de la persona titular de la Unidad de Asuntos Jurídicos; comparecer a audiencias; ofrecer pruebas; formular alegatos; presentar denuncias, querellas e informes; proponer conciliaciones y, en su caso, suscribir los convenios; interponer medios de impugnación; celebrar acuerdos reparatorios, salidas alternas y de terminación anticipada, y otorgar perdón, y en general, presentar toda promoción necesaria para la defensa jurídica de la Secretaría y de su órgano administrativo desconcentrado, así como a las personas servidoras públicas y órganos colegiados de los mismos, ante cualquier autoridad de carácter jurisdiccional, administrativo, legislativo o constitucional autónomo;
 
-V. Requerir a las unidades administrativas de la Secretaría y a cualquier persona servidora pública del orden federal, estatal, municipal, de la Ciudad de México o de sus alcaldías, o de un órgano constitucional autónomo, asesoría, información, documentos y cualquier otro tipo de colaboración para el ejercicio de sus atribuciones, así como para coadyuvar a la atención de los requerimientos administrativos, ministeriales, jurisdiccionales y judiciales que reciba la Unidad de Asuntos Jurídicos;
+V. Requerir a las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, así como a cualquier persona servidora pública del orden federal, estatal, municipal, de la Ciudad de México o de sus demarcaciones territoriales, o de un órgano constitucional autónomo, asesoría, información, documentos y cualquier otro tipo de colaboración para el ejercicio de sus atribuciones, así como para coadyuvar a la atención de los requerimientos administrativos, ministeriales, jurisdiccionales y judiciales que reciba la Unidad de Asuntos Jurídicos;
 
-VI. Participar, en representación de la Secretaría o de sus unidades administrativas, en mecanismos alternativos de solución de controversias, salidas alternas y, en su caso, en la terminación anticipada de procedimientos y procesos penales que autorice la persona titular de la Unidad de Asuntos Jurídicos;
+VI. Participar, en representación de la Secretaría, de su órgano administrativo desconcentrado o de las unidades administrativas de estos, en mecanismos alternativos de solución de controversias, salidas alternas y, en su caso, en la terminación anticipada de procedimientos y procesos penales que autorice la persona titular de la Unidad de Asuntos Jurídicos;
 
-VII. Interponer en representación de las personas servidoras públicas de la Secretaría el recurso de revisión previsto en la Ley Federal de Procedimiento Contencioso Administrativo, y
+VII. Interponer en representación de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado el recurso de revisión previsto en la Ley Federal de Procedimiento Contencioso Administrativo, y
 
-VIII. Designar a las personas servidoras públicas que representarán a la Secretaría como asesores jurídicos en los procesos y procedimientos penales.
+VIII. Designar a las personas servidoras públicas que representarán a la Secretaría o a su órgano administrativo desconcentrado como asesores jurídicos en los procesos y procedimientos penales.
 
-La Dirección General Jurídica se auxilia en el ejercicio de sus atribuciones por las direcciones de lo Contencioso A y B, de Amparo A y B, Penal y Laboral.
+La Dirección General Jurídica se auxilia en el ejercicio de sus atribuciones por las direcciones de lo Contencioso A y B, de Amparo A, B y C, Penal y Laboral.
 
 ###### Artículo 59.
 
@@ -2167,7 +2563,9 @@ a) Las señaladas en los artículos 11, fracción II, y 58, fracciones III, IV, 
 
 b) Atender los juicios de amparo directo que se promuevan con motivo de los procedimientos de responsabilidades administrativas graves tramitados por el Tribunal Federal de Justicia Administrativa, siempre y cuando se impugne la constitucionalidad de una norma, y la representación no corresponda a otra unidad administrativa;
 
-II. A las direcciones de Amparo A y B, las señaladas en los artículos 11, fracción II, y 58, fracciones III, IV y V, de este Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. A las direcciones de Amparo A, B y C, las señaladas en los artículos 11, fracción II, y 58, fracciones III, IV y V, de este Reglamento;
 
 III. A la Dirección Penal, las señaladas en los artículos 11, fracción II, y 58, fracciones I, II, III, IV, V, VI y VIII, de este Reglamento, y
 
@@ -2175,7 +2573,13 @@ IV. A la Dirección Laboral:
 
 a) Las señaladas en los artículos 11, fracción II, y 58, fracciones III, IV y V, de este Reglamento, y
 
-b) Asesorar a las unidades administrativas de la Secretaría en el levantamiento de actas administrativas y, en general, en la identificación y celebración de los actos necesarios para remover del cargo a las personas servidoras públicas de la dependencia, de conformidad con las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+b) Asesorar a las unidades administrativas de la Secretaría o de su órgano administrativo desconcentrado en el levantamiento de actas administrativas y, en general, en la identificación y celebración de los actos necesarios para remover del cargo a las personas servidoras públicas de la dependencia, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+Las direcciones a que se refiere este artículo para el ejercicio de sus atribuciones se auxilian, según corresponda, de las subdirecciones de área, jefaturas de departamento y demás personas servidoras públicas que se precisan en este Reglamento, en el Manual de Organización General de la Secretaría y sus manuales de organización específicos, así como de las demás personas servidoras públicas que se requieran para satisfacer las necesidades del servicio, de conformidad con el presupuesto autorizado.
 
 ###### Artículo 60.
 
@@ -2215,193 +2619,207 @@ V. Responder los puntos de acuerdo presentados y aprobados por el Congreso de la
 
 VI. Solicitar a las unidades administrativas de la Secretaría opinión sobre los asuntos relacionados con el Poder Legislativo Federal.
 
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
 ###### Artículo 63.
 
 La Unidad de Administración y Finanzas de la Secretaría tiene las atribuciones siguientes:
 
-I. Dirigir, regular, promover, supervisar y coordinar la ejecución de los servicios de apoyo administrativo en materia de presupuesto, recursos financieros, recursos humanos, organización, recursos materiales, servicios generales, tecnologías de la información y comunicaciones de la Secretaría, de conformidad con las disposiciones jurídicas aplicables y el modelo organizacional y de operación establecido por la autoridad responsable;
+I. Dirigir, regular, promover, supervisar y coordinar la ejecución de los servicios de apoyo administrativo en materia de presupuesto, recursos financieros, recursos humanos, organización, recursos materiales, servicios generales, tecnologías de la información y comunicaciones de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables y el modelo organizacional y de operación establecido por la autoridad responsable;
 
-II. Coordinar con las demás unidades administrativas de la Secretaría, la integración y posteriormente acordar con la persona titular de la Secretaría el Manual de Organización General de dicha dependencia y los demás manuales de procedimientos, así como los proyectos de decretos, acuerdos, órdenes y demás disposiciones de su competencia;
+II. Coordinar, con las demás unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, la integración y posteriormente acordar con la persona titular de la Secretaría el Manual de Organización General y los demás manuales de procedimientos, así como los proyectos de decretos, acuerdos, órdenes y demás disposiciones de su competencia;
 
-III. Someter a consideración y, en su caso, aprobación de la persona titular de la Secretaría, la propuesta de anteproyecto de presupuesto de la Secretaría, que se integra con la participación de las unidades administrativas responsables del gasto, y remitirlo a la Secretaría de Hacienda y Crédito Público;
+III. Someter a consideración y, en su caso, aprobación de la persona titular de la Secretaría, la propuesta de anteproyecto de presupuesto de la Secretaría, incluyendo el de su órgano administrativo desconcentrado, que se integra con la participación de las unidades administrativas responsables del gasto, y remitirlo a la Secretaría de Hacienda y Crédito Público;
 
-IV. Establecer, y vigilar el cumplimiento de las medidas para la administración interna, control y evaluación de las actividades de la Secretaría respecto del gasto e ingreso público;
+IV. Establecer y vigilar el cumplimiento de las medidas para la administración interna, control y evaluación de las actividades de la Secretaría y de su órgano administrativo desconcentrado respecto del gasto e ingreso público;
 
 V. Suscribir los convenios, contratos, acuerdos y demás documentos que impliquen actos de administración o dominio, de conformidad con las disposiciones jurídicas aplicables;
 
-VI. Suscribir los nombramientos de las personas servidoras públicas de la Secretaría, conforme a las disposiciones jurídicas aplicables;
+VI. Suscribir los nombramientos de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, conforme a las disposiciones jurídicas aplicables;
 
-VII. Coordinar los procesos de revisión, adecuación y autorización de la estructura orgánica y ocupacional que realicen las demás unidades administrativas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+VII. Coordinar los procesos de revisión, adecuación y autorización de la estructura orgánica y ocupacional que realicen las demás unidades administrativas de la Secretaría y las de su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables;
 
-VIII. Conducir las relaciones laborales de la Secretaría y supervisar la actualización de la normatividad interna en la materia;
+VIII. Conducir las relaciones laborales de la Secretaría y de su órgano administrativo desconcentrado, así como supervisar la actualización de la normativa interna en la materia;
 
-IX. Presidir, los comités de adquisiciones, arrendamientos y servicios, de obras públicas, y de Ética, así como los demás órganos colegiados que de acuerdo con sus atribuciones deba coordinar o presidir;
+IX. Presidir los comités de adquisiciones, arrendamientos y servicios, de obras públicas, y de Ética, así como los demás órganos colegiados que de acuerdo con sus atribuciones deba coordinar o presidir;
 
-X. Coordinar la elaboración y ejecución de los Programas Anuales de Adquisiciones, Arrendamientos y Servicios, y de Obras Públicas y de Servicios Relacionados con las Mismas, ambos de la Secretaría, de acuerdo con las disposiciones jurídicas aplicables;
+X. Coordinar la elaboración y ejecución de los programas anuales de Adquisiciones, Arrendamientos y Servicios, y de Obras Públicas y de Servicios Relacionados con las Mismas, ambos de la Secretaría y de su órgano administrativo desconcentrado, de acuerdo con las disposiciones jurídicas aplicables;
 
-XI. Coordinar la elaboración del Programa Interno de Protección Civil de cada uno de los inmuebles de la Secretaría;
+XI. Coordinar la elaboración del Programa Interno de Protección Civil de la Secretaría y el de su órgano administrativo desconcentrado;
 
-XII. Promover y propiciar el cumplimiento tanto del Código de Ética de la Administración Pública Federal como del de Conducta de la Secretaría;
+XII. Promover y propiciar el cumplimiento tanto del Código de Ética de la Administración Pública Federal como del de Conducta de la Secretaría y de su órgano administrativo desconcentrado;
 
-XIII. Promover la adopción de la política de igualdad y perspectiva de género, no discriminación e inclusión, en la cultura organizacional y en el diseño, planeación y ejecución de los programas a cargo de la Secretaría, de acuerdo con las disposiciones jurídicas aplicables, y representar a la Secretaría en la materia, y
+XIII. Promover la adopción de la política de igualdad y perspectiva de género, no discriminación e inclusión, en la cultura organizacional y en el diseño, planeación y ejecución de los programas a cargo de la Secretaría y de su órgano administrativo desconcentrado, de acuerdo con las disposiciones jurídicas aplicables, y representar a la Secretaría y a su órgano administrativo desconcentrado en la materia, y
 
-XIV. Fungir al interior de la Secretaría como órgano de consulta y asesoría en materia de igualdad y perspectiva de género, no discriminación e inclusión, hostigamiento sexual y acoso sexual.
+XIV. Fungir al interior de la Secretaría y de su órgano administrativo desconcentrado como área de consulta y asesoría en materia de igualdad y perspectiva de género, no discriminación e inclusión, hostigamiento sexual y acoso sexual.
 
 La Unidad de Administración y Finanzas para el ejercicio de sus atribuciones se auxilia de las direcciones generales de Presupuesto y Recursos Financieros, de Recursos Humanos y Organización, de Recursos Materiales y Servicios Generales, y de Tecnologías de la Información y Comunicaciones.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 64.
 
 La Dirección General de Presupuesto y Recursos Financieros tiene las atribuciones siguientes:
 
-I. Atender y difundir entre las demás unidades administrativas de la Secretaría los ordenamientos en materia de programación, presupuestación y ejercicio del gasto público, de acuerdo con las disposiciones jurídicas aplicables;
+I. Atender y difundir, entre las demás unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, los ordenamientos en materia de programación, presupuestación y ejercicio del gasto público, de acuerdo con las disposiciones jurídicas aplicables;
 
-II. Elaborar y proponer a su superior jerárquico, conforme a las disposiciones jurídicas aplicables, criterios específicos y procedimientos para la administración de los recursos presupuestarios de la Secretaría, así como difundirlos a las unidades administrativas de esta dependencia;
+II. Elaborar y proponer a su superior jerárquico, conforme a las disposiciones jurídicas aplicables, criterios específicos y procedimientos para la administración de los recursos presupuestarios de la Secretaría, así como difundirlos a las unidades administrativas de esta dependencia y de su órgano administrativo desconcentrado;
 
-III. Coordinar la elaboración del anteproyecto de presupuesto de las unidades administrativas de la Secretaría y presentarlo a su superior jerárquico;
+III. Coordinar la elaboración del anteproyecto de presupuesto de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado y presentarlo a su superior jerárquico;
 
-IV. Comunicar a las unidades administrativas de la Secretaría sus presupuestos aprobados para la ejecución de sus respectivos programas, y las disposiciones normativas para el proceso interno del ejercicio programático-presupuestario, así como dar seguimiento a dicho ejercicio;
+IV. Comunicar a las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, sus presupuestos aprobados para la ejecución de sus respectivos programas y las disposiciones normativas para el proceso interno del ejercicio programático-presupuestario, así como dar seguimiento a dicho ejercicio;
 
-V. Integrar y registrar el mecanismo de planeación de los programas y proyectos de inversión de la Secretaría, de conformidad con la información que proporcionen las unidades administrativas de esta dependencia, así como coordinar el registro y actualización de proyectos en la cartera de inversión y tramitar la autorización de la persona titular de la Unidad de Administración y Finanzas de los oficios de liberación de inversión de las unidades administrativas de la Secretaría;
+V. Integrar y registrar el mecanismo de planeación de los programas y proyectos de inversión de la Secretaría, conforme a la información que proporcionen las unidades administrativas de esta dependencia y de su órgano administrativo desconcentrado, así como coordinar el registro y actualización de proyectos en la cartera de inversión y tramitar la autorización de la persona titular de la Unidad de Administración y Finanzas de los oficios de liberación de inversión de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado;
 
-VI. Coordinar y registrar el ejercicio del presupuesto autorizado, así como las operaciones financieras y contables de la Secretaría en los sistemas de la Secretaría de Hacienda y Crédito Público;
+VI. Coordinar y registrar el ejercicio del presupuesto autorizado, así como las operaciones financieras y contables de la Secretaría y de su órgano administrativo desconcentrado en los sistemas de la Secretaría de Hacienda y Crédito Público;
 
-VII. Autorizar, informar y, en su caso, gestionar ante la Secretaría de Hacienda y Crédito Público las adecuaciones presupuestarias que solicitan las unidades administrativas de la Secretaría, así como las demás que se requieran para la administración del presupuesto;
+VII. Autorizar, informar y, en su caso, gestionar ante la Secretaría de Hacienda y Crédito Público las adecuaciones presupuestarias que solicitan las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, así como las demás que se requieran para la administración y control del presupuesto;
 
-VIII. Fungir como instancia administrativa única de las unidades administrativas de la Secretaría, para tramitar ante la Secretaría de Hacienda y Crédito Público las solicitudes y consultas en materia presupuestaria y contable;
+VIII. Fungir como instancia administrativa única de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, para tramitar ante la Secretaría de Hacienda y Crédito Público las solicitudes y consultas en materia presupuestaria y contable;
 
-IX. Consolidar la información que requiera la Secretaría de Hacienda y Crédito Público para la integración de la Cuenta Pública federal de las unidades administrativas de la Secretaría;
+IX. Consolidar la información que requiera la Secretaría de Hacienda y Crédito Público para la integración de la Cuenta Pública federal de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado;
 
-X. Coordinar, de acuerdo con las disposiciones jurídicas aplicables, la integración de la estructura programática de las unidades administrativas de la Secretaría, así como el diseño y seguimiento del cumplimiento de los indicadores del desempeño y sus metas;
+X. Coordinar, de conformidad con las disposiciones jurídicas aplicables, la integración de la estructura programática de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, así como el diseño y seguimiento del cumplimiento de los indicadores del desempeño y sus metas;
 
-XI. Fungir como representante legal de la Secretaría respecto del cumplimiento de sus obligaciones fiscales, de seguridad social y demás contribuciones, ante las autoridades competentes y con las instituciones bancarias, para el ejercicio del presupuesto;
+XI. Fungir como representante legal de la Secretaría y de su órgano administrativo desconcentrado respecto del cumplimiento de sus obligaciones fiscales, de seguridad social y demás contribuciones, ante las autoridades competentes y con las instituciones bancarias, para el ejercicio del presupuesto;
 
-XII. Elaborar las evaluaciones de impacto presupuestario de los proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos relacionados con las materias competencia de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+XII. Elaborar las evaluaciones de impacto presupuestario de los proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos relacionados con las materias competencia de la Secretaría y de su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables;
 
-XIII. Establecer los procedimientos internos y las líneas de acción en materia de programación, presupuesto y ejercicio de los recursos que apliquen los ejecutores del gasto de la Secretaría;
+XIII. Establecer los procedimientos internos y las líneas de acción en materia de programación, presupuesto y ejercicio de los recursos que apliquen los ejecutores del gasto de la Secretaría y de su órgano administrativo desconcentrado;
 
-XIV. Presentar ante las instancias correspondientes los informes presupuestarios, programáticos y contables que conforme a las disposiciones jurídicas aplicables se requieran, y
+XIV. Presentar ante las instancias correspondientes los informes presupuestarios, programáticos y contables de la Secretaría y de su órgano administrativo desconcentrado, que conforme a las disposiciones jurídicas aplicables se requieran, y
 
-XV. Fungir como enlace de la Secretaría ante las autoridades competentes durante los trabajos de auditoría y de revisión de la Cuenta Pública federal.
+XV. Fungir como enlace de la Secretaría y de su órgano administrativo desconcentrado ante las autoridades competentes durante los trabajos de auditoría y de revisión de la Cuenta Pública federal.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 65.
 
 La Dirección General de Recursos Humanos y Organización tiene las atribuciones siguientes:
 
-I. Aplicar la política y estrategias en materia de planeación y administración de los recursos humanos de la Secretaría;
+I. Aplicar la política y estrategias en materia de planeación y administración de los recursos humanos de la Secretaría y de su órgano administrativo desconcentrado;
 
-II. Dirigir la profesionalización de las personas servidoras públicas de la Secretaría, así como administrar la operación del Sistema del Servicio Profesional de Carrera en la Secretaría, conforme a la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y demás disposiciones jurídicas que derivan de esta;
+II. Dirigir la profesionalización de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, así como administrar la operación del Sistema del Servicio Profesional de Carrera en la Secretaría, conforme a la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y demás disposiciones jurídicas que derivan de esta;
 
-III. Dirigir, previo acuerdo con la persona titular de la Unidad de Administración y Finanzas, las acciones orientadas al diseño, trasformación, creación o modificación a las estructuras orgánicas y ocupacionales de las unidades administrativas de la Secretaría, así como realizar su gestión ante las autoridades competentes;
+III. Dirigir, previo acuerdo con la persona titular de la Unidad de Administración y Finanzas, las acciones orientadas al diseño, transformación, creación o modificación a las estructuras orgánicas y ocupacionales de las unidades administrativas de la Secretaría, y realizar la gestión ante las autoridades competentes de los movimientos organizacionales de esta y de su órgano administrativo desconcentrado;
 
-IV. Emitir las disposiciones relativas al control de asistencia y puntualidad del personal de la Secretaría, así como vigilar su cumplimiento, conforme a las disposiciones jurídicas aplicables;
+IV. Establecer mecanismos y disposiciones relativas al control de asistencia y puntualidad del personal de la Secretaría y de su órgano administrativo desconcentrado, así como vigilar su cumplimiento, conforme a las disposiciones jurídicas aplicables;
 
-V. Colaborar en la conducción de las relaciones laborales de la Secretaría, así como intervenir en las cuestiones que sobre la materia se presenten, con la participación de las unidades administrativas competentes, y de conformidad con las disposiciones jurídicas aplicables;
+V. Colaborar en la conducción de las relaciones laborales, incluyendo los asuntos en materia de seguridad e higiene en el trabajo, de la Secretaría y de su órgano administrativo desconcentrado, así como intervenir en las cuestiones que sobre la materia se presenten, con la participación de las unidades administrativas competentes, y de conformidad con las disposiciones jurídicas aplicables;
 
-VI. Intervenir en el levantamiento de actas por incumplimiento de obligaciones laborales, imponer y las medidas disciplinarias que correspondan, de conformidad con las disposiciones jurídicas aplicables;
+VI. Intervenir en el levantamiento de actas administrativas por incumplimiento de obligaciones laborales, remover a las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado e imponer las medidas disciplinarias que correspondan, de conformidad con las disposiciones jurídicas aplicables;
 
 VII. Dar cumplimiento a las resoluciones, laudos o sentencias de las autoridades administrativas, jurisdiccionales o judiciales en materia laboral, tales como reinstalaciones, reincorporaciones, pago de salarios caídos y otras prestaciones, dadas a conocer por las unidades administrativas competentes de la Secretaría;
 
-VIII. Administrar los mecanismos que permitan el adecuado control de los expedientes del personal de la Secretaría, y resguardar el acervo de datos personales de acuerdo con las disposiciones jurídicas aplicables;
+VIII. Integrar, controlar y mantener actualizados los expedientes que contengan documentos personales y administrativos de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, así como resguardar el acervo de datos personales, de acuerdo con las disposiciones jurídicas aplicables;
 
 IX. Planear, diseñar, coordinar y ejecutar la comunicación interna para difundir la información en materia administrativa de interés de las personas servidoras públicas, que contribuya a un clima y cultura organizacional saludable, transparente e incluyente;
 
-X. Coordinar el uso de los espacios destinados para el desarrollo, capacitación y profesionalización y otros eventos para el personal de la Secretaría;
+X. Coordinar el uso de los espacios destinados para el desarrollo, capacitación, profesionalización, y otros servicios o eventos para el personal de la Secretaría y de su órgano administrativo desconcentrado;
 
-XI. Fomentar la coordinación con instituciones de educación media superior y superior, centros de investigación y organismos públicos o privados, y suscribir convenios, cartas de colaboración o de intención y demás documentos necesarios para crear vínculos con dichas instituciones, así como coordinar, supervisar y promover los programas de servicio social y prácticas profesionales de estudiantes de los niveles medio superior y superior en la Secretaría;
+XI. Fomentar la coordinación con instituciones de educación media superior y superior, centros de investigación y organismos públicos o privados, y suscribir convenios, cartas de colaboración o de intención y demás documentos necesarios para crear vínculos con dichas instituciones, así como coordinar, supervisar y promover los programas de servicio social y prácticas profesionales de estudiantes de los niveles medio superior y superior en la Secretaría y en su órgano administrativo desconcentrado;
 
-XII. Suscribir, en su caso, los contratos de prestación de servicios profesionales bajo el régimen de honorarios que permitan contribuir al cumplimiento de programas y/o proyectos de las unidades administrativas de la Secretaría, así como coordinar las acciones inherentes para su formalización, de conformidad con las disposiciones jurídicas aplicables;
+XII. Suscribir, en su caso, los contratos de prestación de servicios profesionales bajo el régimen de honorarios que permitan contribuir al cumplimiento de programas y/o proyectos de las unidades administrativas de la Secretaría y, en su caso, de su órgano administrativo desconcentrado, así como coordinar las acciones inherentes para su formalización, de conformidad con las disposiciones jurídicas aplicables;
 
-XIII. Expedir los nombramientos y constancias de movimientos del personal de la Secretaría con excepción de los que se encuentren conferidos a otra unidad administrativa de acuerdo con lo previsto en el presente Reglamento y demás disposiciones jurídicas aplicables;
+XIII. Expedir los nombramientos, constancias laborales y de movimientos, así como los medios de identificación, de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, con excepción de los que se encuentren conferidos a otra unidad administrativa de acuerdo con lo previsto en el presente Reglamento y demás disposiciones jurídicas aplicables;
 
-XIV. Administrar el proceso de control de plazas e información del personal que se encuentre adscrito tanto estructural como funcionalmente a la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+XIV. Administrar el proceso de control de plazas e información del personal que se encuentre adscrito tanto estructural como funcionalmente en la Secretaría y en su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables;
 
-XV. Dirigir las remuneraciones de los servicios personales de la Secretaría, y determinar la suspensión de pago y la aplicación de descuentos y retenciones autorizadas, de conformidad con las disposiciones jurídicas aplicables, así como, en su caso, la recuperación de las cantidades correspondientes a salarios no devengados;
+XV. Dirigir el proceso para el otorgamiento de las remuneraciones de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, así como determinar las deducciones autorizadas, incluyendo las del pago de contribuciones que se desprendan de servicios personales y de la administración de las primas por concepto de seguros institucionales, así como recuperar las cantidades de días no devengados, de conformidad con las disposiciones jurídicas aplicables;
 
-XVI. Dirigir los procesos y procedimientos para el ingreso de personal a la Secretaría, distintos al del Servicio Profesional de Carrera;
+XVI. Dirigir los procesos y procedimientos para el ingreso de personal a la Secretaría y de su órgano administrativo desconcentrado, distintos al del Servicio Profesional de Carrera;
 
-XVII. Coordinar la implantación de mejores prácticas de clima y cultura organizacional que fomenten la productividad, el desarrollo y la mejora de la operación en la Secretaría;
+XVII. Coordinar la implantación de mejores prácticas de clima y cultura organizacional que fomenten la productividad, el desarrollo y la mejora de la operación en la Secretaría y de su órgano administrativo desconcentrado;
 
-XVIII. Promover y vigilar el cumplimiento de las disposiciones que rigen las relaciones laborales de la Secretaría, así como orientar al personal en materia de derechos y obligaciones derivados de dichas disposiciones;
+XVIII. Promover y vigilar el cumplimiento de las disposiciones que rigen las relaciones laborales de la Secretaría y de su órgano administrativo desconcentrado, así como orientar al personal en materia de derechos y obligaciones derivados de dichas disposiciones;
 
-XIX. Otorgar las prestaciones, premios, estímulos, reconocimientos y recompensas al personal de la Secretaría, de conformidad con las disposiciones jurídicas aplicables y de acuerdo a la disponibilidad presupuestaria, y
+XIX. Dirigir el proceso de otorgamiento de premios, estímulos, reconocimientos y recompensas al personal de la Secretaría y de su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables y de acuerdo a la disponibilidad presupuestaria;
 
-XX. Integrar, con la participación de las unidades administrativas de la Secretaría, los proyectos de manuales de organización general, de procedimientos y de servicios al público de la Secretaría;
+XX. Integrar, con la participación de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, los proyectos de manuales de organización general, de procedimientos y de servicios al público, y
+
+XXI. Proporcionar asesoría técnica y apoyo en materia organizacional y de recursos humanos a las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 66.
 
 La Dirección General de Recursos Materiales y Servicios Generales tiene las atribuciones siguientes:
 
-I. Administrar los bienes muebles e inmuebles asignados a la Secretaría, así como los servicios generales y las obras públicas y servicios relacionados con las mismas;
+I. Administrar los bienes muebles e inmuebles asignados a la Secretaría y a su órgano administrativo desconcentrado, así como los servicios generales y las obras públicas y servicios relacionados con las mismas;
 
-II. Proporcionar los servicios de apoyo administrativo que requieran las demás unidades administrativas de la Secretaría, incluidos los servicios generales, conservación y mantenimiento de bienes muebles e inmuebles, adquisiciones y suministros, seguridad y vigilancia, protección civil, y aseguramiento de bienes patrimoniales;
+II. Proporcionar los servicios de apoyo administrativo que requieran las demás unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, incluidos los servicios generales, conservación y mantenimiento de bienes muebles e inmuebles, adquisiciones y suministros, seguridad y vigilancia, protección civil, y aseguramiento de bienes patrimoniales;
 
-III. Proponer a la persona titular de la Unidad de Administración y Finanzas de la Secretaría, para su aprobación, las políticas de recursos materiales y servicios generales de la Secretaría;
+III. Proponer a la persona titular de la Unidad de Administración y Finanzas de la Secretaría, para su aprobación, las políticas de recursos materiales y servicios generales de la Secretaría y de su órgano administrativo desconcentrado;
 
-IV. Realizar los procedimientos relativos a las adquisiciones, arrendamientos y contrataciones de servicios, así como de obras públicas y servicios relacionados con las mismas, de conformidad con el Programa Anual de Adquisiciones Arrendamientos y Servicios y el de Obras Públicas y Servicios relacionados con las Mismas, así como con las fuentes de financiamiento, e informarle a la persona titular de la Unidad de Administración y Finanzas;
+IV. Realizar los procedimientos relativos a las adquisiciones, arrendamientos y contrataciones de servicios, así como de obras públicas y servicios relacionados con las mismas, de conformidad con el Programa Anual de Adquisiciones Arrendamientos y Servicios y el de Obras Públicas y Servicios Relacionados con las Mismas, y a las fuentes de financiamiento, e informarle a la persona titular de la Unidad de Administración y Finanzas;
 
-V. Organizar el funcionamiento de los comités administrativos materia de su competencia, de acuerdo con las disposiciones jurídicas aplicables, y proponer a la persona titular de la Unidad de Administración y Finanzas los proyectos de políticas, bases y lineamientos en dicha materia;
+V. Organizar el funcionamiento de los comités administrativos en las materias de su competencia, de acuerdo con las disposiciones jurídicas aplicables, y proponer a la persona titular de la Unidad de Administración y Finanzas los proyectos de políticas, bases y lineamientos en dichas materias;
 
-VI. Elaborar, con la información de las distintas áreas que integran a la Secretaría el diagnóstico de necesidades en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+VI. Elaborar, con la información de las distintas áreas que integran a la Secretaría y a su órgano administrativo desconcentrado, las necesidades en materia de adquisiciones de bienes, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
 
-VII. Elaborar, ejecutar y actualizar, en coordinación con las unidades administrativas de la Secretaría, los programas anuales de Adquisiciones, Arrendamientos y Servicios, y de Obras Públicas y de Servicios Relacionados con las Mismas de la Secretaría, así como someterlos a consideración de la persona titular de la Unidad de Administración y Finanzas;
+VII. Elaborar, ejecutar y actualizar, en coordinación con las unidades administrativas, los programas anuales de Adquisiciones, Arrendamientos y Servicios, y de Obras Públicas y de Servicios Relacionados con las Mismas de la Secretaría y de su órgano administrativo desconcentrado, así como someterlos a consideración de la persona titular de la Unidad de Administración y Finanzas;
 
-VIII. Llevar a cabo los procedimientos relacionados con los bienes muebles e inmuebles a cargo de la Secretaría, tales como baja, enajenación, destrucción, transferencia y desincorporación, de conformidad con las disposiciones jurídicas aplicables;
+VIII. Llevar a cabo los procedimientos relacionados con los bienes muebles e inmuebles a cargo de la Secretaría y de su órgano administrativo desconcentrado, tales como baja, enajenación, destrucción, transferencia y desincorporación, de conformidad con las disposiciones jurídicas aplicables;
 
-IX. Elaborar y suscribir, en representación de la Secretaría, los convenios, contratos y pedidos de adquisición de bienes, arrendamiento, servicios, obras públicas y servicios relacionados con la (sic) mismas; autorizar las prórrogas en el plazo relativo a la entrega de bienes o en la prestación de servicios, o en la ejecución de obras públicas y, en su caso, las excepciones de garantía de cumplimiento de contratos, según corresponda, así como tramitar y resolver los procedimientos de rescisión administrativa o terminación anticipada de dichas contrataciones;
+IX. Elaborar y suscribir, en representación de la Secretaría y de su órgano administrativo desconcentrado, los convenios, contratos y pedidos de adquisición de bienes, arrendamiento, servicios, obras públicas y servicios relacionados con las mismas; autorizar las prórrogas en el plazo relativo a la entrega de bienes o en la prestación de servicios, o en la ejecución de obras públicas y, en su caso, las excepciones de garantía de cumplimiento de contratos, según corresponda, así como tramitar y resolver los procedimientos de rescisión administrativa o terminación anticipada de dichas contrataciones;
 
 X. Suscribir los contratos, convenios y demás instrumentos que impliquen obligaciones patrimoniales o actos de administración, respecto de los asuntos a que se refiere este artículo, de conformidad con las disposiciones jurídicas aplicables;
 
-XI. Coordinar la integración de la información de los programas de aseguramiento de bienes muebles e inmuebles de las unidades administrativas, así como elaborar y ejecutar el Programa Interno de Protección Civil de la Secretaría y vigilar su cumplimiento;
+XI. Coordinar la integración de la información de los programas de aseguramiento de bienes muebles e inmuebles de las unidades administrativas, así como elaborar y ejecutar el Programa Interno de Protección Civil de la Secretaría y de su órgano administrativo desconcentrado y vigilar su cumplimiento;
 
-XII. Administrar el almacén general de la Secretaría, así como llevar a cabo el registro de los bienes muebles con los sistemas establecidos para ello, coordinar el levantamiento de inventario físico de bienes muebles e inmuebles y fungir como responsable inmobiliario de la Secretaría;
+XII. Administrar el almacén general de la Secretaría y de su órgano administrativo desconcentrado, así como llevar el registro de los bienes muebles con los sistemas establecidos, coordinar el levantamiento de inventario físico de bienes muebles e inmuebles y fungir como responsable inmobiliario;
 
-XIII. Establecer, administrar y coordinar el sistema institucional de archivos de la Secretaría, de conformidad con las disposiciones que emita la instancia competente, así como proponer a la persona titular de la Unidad de Administración y Finanzas los esquemas de organización, conservación y concentración que permitan su control y supervisión;
+XIII. Establecer, administrar y coordinar el sistema institucional de archivos de la Secretaría y de su órgano administrativo desconcentrado, de conformidad con las disposiciones que emita la instancia competente, así como proponer a la persona titular de la Unidad de Administración y Finanzas los esquemas de organización, conservación y concentración que permitan su control y supervisión;
 
-XIV. Administrar los espacios para los módulos de recepción de documentos, así como determinar, en coordinación con las unidades administrativas de la Secretaría, los de resguardo y custodia de los archivos de la Secretaría;
+XIV. Administrar los espacios para los módulos de recepción de documentos, así como determinar, en coordinación con las unidades administrativas, los de resguardo y custodia de los archivos de la Secretaría y de su órgano administrativo desconcentrado;
 
-XV. Realizar, con auxilio de la Unidad de Asuntos Jurídicos, las acciones necesarias en caso de sustracción o daño de bienes muebles e inmuebles de la Secretaría;
+XV. Realizar, con auxilio de la Unidad de Asuntos Jurídicos, las acciones necesarias en caso de sustracción o daño de bienes muebles e inmuebles de la Secretaría y de su órgano administrativo desconcentrado;
 
-XVI. Implementar acciones de racionalidad y austeridad en el uso de los servicios de energía eléctrica, de telefonía, de agua, así como de gasolina, y en general, de insumos financiados con cargo al presupuesto de la Secretaría, y
+XVI. Implementar acciones de racionalidad y austeridad en el uso de los servicios de energía eléctrica, de telefonía, de agua, así como de gasolina, y en general, de insumos financiados con cargo al presupuesto de la Secretaría y de su órgano administrativo desconcentrado, y
 
-XVII. Elaborar, ejecutar y actualizar el Programa de Disposición Final de los Bienes Muebles de la Secretaría, de conformidad con las disposiciones jurídicas aplicables.
+XVII. Elaborar, ejecutar y actualizar el Programa de Disposición Final de los Bienes Muebles de la Secretaría y de su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 67.
 
 La Dirección General de Tecnologías de la Información y Comunicaciones tiene las atribuciones siguientes:
 
-I. Proponer a la persona titular de la Unidad de Administración y Finanzas de la Secretaría los planes, programas, proyectos, estrategias políticas y lineamientos institucionales en materia de tecnologías de la información y comunicaciones para la sistematización y optimización de funciones, recursos y procesos dentro de las unidades administrativas de la Secretaría, y vigilar su cumplimiento;
+I. Proponer a la persona titular de la Unidad de Administración y Finanzas de la Secretaría los planes, programas, proyectos, estrategias políticas y lineamientos institucionales en materia de tecnologías de la información y comunicaciones para la sistematización y optimización de funciones, recursos y procesos dentro de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, así como vigilar su cumplimiento;
 
-II. Administrar y ejecutar la planeación estratégica y en materia de tecnologías de la información, ingeniería de sistemas, de comunicaciones, y de seguridad de la información, en coordinación con las unidades administrativas de la Secretaría;
+II. Administrar y ejecutar la planeación estratégica y en materia de tecnologías de la información, ingeniería de sistemas, de comunicaciones, y de seguridad de la información, en coordinación con las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado;
 
-III. Coordinar, aplicar y supervisar los procedimientos y mecanismos de seguridad de la información de la Secretaría, conforme a la normativa vigente;
+III. Coordinar, aplicar y supervisar los procedimientos y mecanismos de seguridad de la información de la Secretaría y de su órgano administrativo desconcentrado, conforme a la normativa vigente;
 
-IV. Elaborar los programas de capacitación para las personas servidoras públicas de la Secretaría sobre el uso responsable de las tecnologías de la información y comunicaciones institucionales y proponerlos a la Dirección General de Recursos Humanos y Organización;
+IV. Elaborar los programas de capacitación para las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado sobre el uso responsable de las tecnologías de la información y comunicaciones institucionales y proponerlos a la Dirección General de Recursos Humanos y Organización;
 
-V. Promover, sistematizar y automatizar los procedimientos sustantivos y de apoyo de las demás unidades administrativas de la Secretaría, siempre que sean susceptibles de ser soportados por tecnologías de la información y de comunicaciones;
+V. Promover, sistematizar y automatizar los procedimientos sustantivos y de apoyo en coordinación con las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, siempre que sean susceptibles de ser soportados por tecnologías de la información y de comunicaciones;
 
-VI. Determinar la viabilidad técnica y operativa de los requerimientos de las unidades administrativas de la Secretaría, respecto de la aplicación y desarrollo de programas y sistemas informáticos, adquisición de bienes y contratación de servicios en materia de tecnologías de la información, ingeniería de sistemas, comunicaciones y seguridad de la información;
+VI. Determinar la viabilidad técnica y operativa de los requerimientos de las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, respecto de la aplicación y desarrollo de programas y sistemas informáticos, adquisición de bienes y contratación de servicios en materia de tecnologías de la información, ingeniería de sistemas, comunicaciones y seguridad de la información;
 
-VII. Analizar las tecnologías de la información y de comunicaciones existentes en el mercado, sus tendencias y sus mejores prácticas, con el propósito de generar alternativas para su posible adopción en la Secretaría;
+VII. Analizar las tecnologías de la información y de comunicaciones existentes en el mercado, sus tendencias y sus mejores prácticas, con el propósito de generar alternativas para su posible adopción en la Secretaría y de su órgano administrativo desconcentrado;
 
-VIII. Proporcionar y administrar la infraestructura de tecnologías de la información y comunicaciones a las unidades administrativas de la Secretaría, que haya sido autorizada en términos de las disposiciones jurídicas aplicables, así como orientar a las mismas en su uso y aprovechamiento;
+VIII. Proporcionar y administrar la infraestructura de tecnologías de la información y comunicaciones a las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, que haya sido autorizada en términos de las disposiciones jurídicas aplicables, así como orientar a las mismas en su uso y aprovechamiento;
 
-IX. Desarrollar, hospedar y monitorear el funcionamiento de los sistemas de información, además de los sitios de internet e intranet de la Secretaría, así como proporcionar a las unidades administrativas responsables de la administración de la información contenida en dichos sitios y aplicaciones, las herramientas tecnológicas para tal efecto;
+IX. Desarrollar, hospedar y monitorear el funcionamiento de los sistemas de información, además de los sitios de internet e intranet de la Secretaría y de su órgano administrativo desconcentrado, así como proporcionar a las unidades administrativas responsables de la administración de la información contenida en dichos sitios y aplicaciones, las herramientas tecnológicas para tal efecto;
 
-X. Administrar la asignación de los bienes informáticos y de comunicaciones a las unidades administrativas de la Secretaría, así como emitir dictámenes sobre el estado físico u obsolescencia del equipo o bienes informáticos propiedad de la Secretaría, para su desincorporación del inventario institucional;
+X. Administrar la asignación de los bienes informáticos y de comunicaciones a las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, así como emitir dictámenes sobre el estado físico u obsolescencia del equipo o bienes informáticos propiedad de la Secretaría y de su órgano administrativo desconcentrado, para su desincorporación del inventario institucional;
 
-XI. Asesorar y promover la optimización, el uso racional de los recursos y los servicios de tecnologías de la información y de comunicaciones, métodos y mecanismos de innovación y nuevas tecnologías que mejoren la operación de la Secretaría;
+XI. Asesorar y promover la optimización, el uso racional de los recursos y los servicios de tecnologías de la información y de comunicaciones, métodos y mecanismos de innovación y nuevas tecnologías que mejoren la operación de la Secretaría y de su órgano administrativo desconcentrado;
 
-XII. Administrar y operar, al interior de la Secretaría, los centros de datos, servicios de comunicaciones y demás servicios relacionados con éstos;
+XII. Administrar y operar, al interior de la Secretaría y de su órgano administrativo desconcentrado, los centros de datos, servicios de comunicaciones y demás servicios relacionados con éstos;
 
-XIII. Coordinar el desarrollo, la implementación, la difusión y el mantenimiento de los programas y sistemas informáticos y administrar sus licencias de uso en la Secretaría que hayan sido autorizadas de conformidad con las disposiciones jurídicas aplicables, así como orientar a las unidades administrativas en su uso y aprovechamiento;
+XIII. Coordinar el desarrollo, la implementación, la difusión y el mantenimiento de los programas y sistemas informáticos y administrar sus licencias de uso en la Secretaría y de su órgano administrativo desconcentrado, que hayan sido autorizadas de conformidad con las disposiciones jurídicas aplicables, así como orientar a las unidades administrativas en su uso y aprovechamiento;
 
-XIV. Establecer el Marco de Gestión de Seguridad de la Información de la Secretaría, a efecto de prevenir, reducir y mitigar los riesgos de seguridad de la información en los aplicativos de cómputo y en la infraestructura de las tecnologías de la información y comunicaciones de la Secretaría;
+XIV. Establecer el Marco de Gestión de Seguridad de la Información de la Secretaría y de su órgano administrativo desconcentrado, a efecto de prevenir, reducir y mitigar los riesgos de seguridad de la información en los aplicativos de cómputo y en la infraestructura de las tecnologías de la información y comunicaciones;
 
-XV. Diseñar y proponer a su superior jerárquico la implementación de planes de continuidad y de recuperación de la información y operación de tecnologías de la información y comunicaciones, así como supervisar dicha implementación y operación;
+XV. Diseñar y proponer a su superior jerárquico la implementación de planes de continuidad y de recuperación de la información y operación de tecnologías de la información y comunicaciones de la Secretaría y de su órgano administrativo desconcentrado, así como supervisar dicha implementación y operación;
 
-XVI. Establecer los programas de mantenimiento preventivo y correctivo de la infraestructura de cómputo y de comunicaciones de la Secretaría, y
+XVI. Establecer los programas de mantenimiento preventivo y correctivo de la infraestructura de cómputo y de comunicaciones de la Secretaría y de su órgano administrativo desconcentrado, y
 
 XVII. Ejercer, previo acuerdo con la persona titular de la Unidad de Administración y Finanzas, las atribuciones que la Ley de Firma Electrónica Avanzada otorga a la Secretaría, con excepción de la interpretación para efectos administrativos de dicho ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 68.
 
@@ -2411,9 +2829,17 @@ I. Ejercer las atribuciones de la Unidad de Transparencia conforme a las disposi
 
 II. Dirigir las acciones de atención a los recursos de revisión interpuestos ante la autoridad competente para conocer de los mismos, respecto de las solicitudes de información y protección de datos personales;
 
-III. Fungir como enlace de transparencia de la oficina de la persona titular de la Secretaría, y
+III. Fungir como enlace de transparencia de la oficina de la persona titular de la Secretaría;
 
-IV. Proponer al Comité de Transparencia los programas de capacitación continua y especializada de la Secretaría, en las materias de transparencia, acceso a la información pública y protección de datos personales.
+IV. Proponer al Comité de Transparencia los programas de capacitación continua y especializada de la Secretaría, en las materias de transparencia, de acceso a la información pública y de protección de datos personales;
+
+V. Establecer mecanismos de mejora y promover buenas prácticas internas que fortalezcan el cumplimiento de las obligaciones en materia de transparencia, de acceso a la información pública y de protección de datos personales, así como promover una cultura en dichas materias;
+
+VI. Proponer estrategias que permitan garantizar la accesibilidad en los procedimientos de transparencia, de acceso a la información pública y de protección de datos personales, particularmente para personas pertenecientes a grupos históricamente excluidos;
+
+VII. Contribuir a la identificación, fortalecimiento y difusión de las prácticas de transparencia proactiva implementadas por las unidades administrativas competentes de la Secretaría, y
+
+VIII. Contribuir en la identificación de información de interés público de la Secretaría, que deba difundirse en datos abiertos.
 
 ### CAPÍTULO V. De los órganos internos de control y las unidades de responsabilidades
 
@@ -2435,13 +2861,17 @@ I. Evaluar el funcionamiento del sistema de control interno y vigilar el cumplim
 
 II. Implementar acciones y programas específicos para la promoción, orientación y seguimiento del cumplimiento de las obligaciones de las personas servidoras públicas del ente público de la Administración Pública Federal al que esté asignado;
 
-III. Vigilar que las actuaciones de las personas servidoras públicas del ente público de la Administración Pública Federal al que esté asignado, se apeguen a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+III. Vigilar que las actuaciones de las personas servidoras públicas del ente público de la Administración Pública Federal al que esté asignado, se apeguen a las disposiciones administrativas y jurídicas aplicables;
 
 IV. Participar en los comités, subcomités y demás órganos colegiados de su competencia, en los términos establecidos en las disposiciones de la materia;
 
 V. Coordinar la elaboración de los proyectos de actos de fiscalización para el Programa Anual de Fiscalización, en la parte correspondiente al ámbito de su competencia, así como del Programa Anual de Trabajo y Evaluación y presupuesto del órgano interno de control a su cargo y remitirlos a la persona titular de la unidad de vigilancia que corresponda;
 
-VI. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales del ente público de la Administración Pública Federal al que esté asignado;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VI. Revisar la programación, presupuestación, aprobación, ejercicio, control y evaluación de los recursos públicos federales, así como su manejo y custodia, por el ente público de la Administración Pública Federal al que esté asignado;
 
 VII. Ordenar y realizar actos de fiscalización conforme a las políticas, planes, programas y acciones relativos a la ejecución de la fiscalización, en la materia de su competencia al ente público de la Administración Pública Federal al que éste asignado, suscribir el informe correspondiente y comunicar el resultado de dichos actos a las personas titulares de la unidad de vigilancia que le corresponda, de las unidades fiscalizadas y a los responsables de las unidades fiscalizadas;
 
@@ -2457,9 +2887,15 @@ XII. Requerir a las unidades administrativas del ente público de la Administrac
 
 XIII. Instruir la emisión del documento que establezca la evolución patrimonial de la persona servidora pública del ente público de la Administración Pública Federal al que éste asignado, que identifique la existencia o, en su caso, la aclaración, de un incremento de su patrimonio;
 
-XIV. Solicitar a las personas servidoras públicas del ente público de la Administración Pública Federal al que éste asignado que aclare el origen del incremento de su patrimonio que no sea explicable o justificable conforme a su remuneración;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XV. Informar a la unidad de vigilancia que corresponda de los hechos u omisiones que conozcan con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos y, en su caso, formular ante el Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos u omisiones que conozca con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos, así como intervenir, coadyuvar y realizar toda clase de actos en ejercicio de la representación conferida en el procedimiento penal respectivo, hasta su resolución definitiva;
+XIV. Solicitar a las personas servidoras públicas del ente público de la Administración Pública Federal al que esté asignado que aclare el origen del incremento de su patrimonio que no sea explicable o justificable conforme a su remuneración;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XV. Informar a la unidad de vigilancia que corresponda de aquellos asuntos que le hayan sido remitidos por la Unidad de Asuntos Jurídicos para su atención y conclusión, así como de los hechos u omisiones que conozcan con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos y, en su caso, formular ante el Ministerio Público, en representación de la Secretaría, denuncias y querellas por hechos u omisiones que conozca con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos, así como intervenir, coadyuvar y realizar toda clase de actos en ejercicio de la representación conferida en el procedimiento penal respectivo, hasta su resolución definitiva.
+
+Para efectos del párrafo anterior, podrá representar legalmente a la Secretaría en materia penal ante las autoridades tanto judiciales como administrativas y, con tal carácter, y en términos de los lineamientos que al efecto se expidan, participar en mecanismos alternativos de solución de controversia y formas anticipadas de terminación del proceso penal y, en su caso, celebrar los acuerdos reparatorios respectivos, así como designar asesores jurídicos en el procedimiento penal;
 
 XVI. Abstenerse de iniciar el procedimiento de responsabilidad administrativa y, en su caso, la de imponer sanciones a las personas servidoras públicas, del ente público de la Administración Pública Federal a la que éste asignado, cuando se ubique en los supuestos previstos en los ordenamientos en materia de responsabilidad administrativa;
 
@@ -2485,11 +2921,19 @@ XXVI. Expedir copias certificadas de los documentos o información que obren en 
 
 XXVII. Contribuir con el Sistema Nacional Anticorrupción y el Sistema Nacional de Fiscalización, en el ámbito de su competencia;
 
-XXVIII. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las unidades administrativas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XXIX. Las demás que le (sic) confieran otras disposiciones jurídicas y aquellas que le encomienden sus superiores jerárquicos.
+XXVIII. Proporcionar la información, los datos o la cooperación técnica que les sea requerida por las unidades administrativas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
-Las personas titulares de los órganos internos de control se auxilian en el ejercicio de sus atribuciones por las personas titulares de las áreas de Auditoría, de Denuncias e Investigaciones, y de Responsabilidades, así como de las oficinas de representación que, en su caso, se determinen.
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXIX. Supervisar el ejercicio de las atribuciones que se otorgan a las unidades administrativas que están bajo su adscripción y, en su caso, ejercerlas directamente, y
+
+XXX. Las demás que le (sic) confieran otras disposiciones jurídicas y aquellas que le encomienden sus superiores jerárquicos.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+Las personas titulares de los órganos internos de control se auxilian en el ejercicio de sus atribuciones por las personas titulares de las áreas de Auditoría, de Denuncias e Investigaciones, y de Responsabilidades, así como de las oficinas de representación y oficinas regionales que, en su caso, se determinen.
 
 ###### Artículo 71.
 
@@ -2503,9 +2947,17 @@ I. Requerir a las unidades administrativas del ente público de la Administraci�
 
 II. Llevar los registros de los asuntos de su competencia;
 
-III. Expedir copias certificadas de los documentos o información que obren en sus archivos, en formato físico o electrónico, así como de aquellos que tengan acceso o a la vista con motivo del ejercicio de sus atribuciones, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-IV. Las demás que le confiera (sic) este Reglamento y demás disposiciones jurídicas aplicables.
+III. Expedir copias certificadas de los documentos o información que obren en sus archivos, en formato físico o electrónico, así como de aquellos que tengan acceso o a la vista con motivo del ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IV. Conocer, atender y resolver los asuntos que se encuentren en el ámbito de su competencia, e informar periódicamente a su superior jerárquico sobre los mismos, y
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+V. Las demás que le confiera este Reglamento y demás disposiciones jurídicas aplicables, así como aquellas que les encomienden sus superiores jerárquicos.
 
 ###### Artículo 73.
 
@@ -2525,9 +2977,17 @@ VI. Comunicar el resultado de los actos de fiscalización al ente público de la
 
 VII. Vigilar, por sí o con apoyo de prestadores de servicios profesionales independientes, la aplicación oportuna de las acciones preventivas y correctivas derivadas de los actos de fiscalización practicados al ente público de la Administración Pública Federal al que esté asignado;
 
-VIII. Informar a las autoridades investigadoras, por medio del informe de irregularidades detectadas, las probables faltas administrativas de personas servidoras públicas o faltas de particulares derivadas de los actos de fiscalización referidos en la fracción IV de este artículo, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-IX. Realizar la valoración de las recomendaciones que haga el Sistema Nacional Anticorrupción al ente público de la Administración Pública Federal al que esté asignado, a fin de adoptar las medidas conducentes.
+VIII. Informar a las autoridades investigadoras, por medio del informe de irregularidades detectadas, las probables faltas administrativas de personas servidoras públicas o faltas de particulares derivadas de los actos de fiscalización referidos en la fracción IV de este artículo;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IX. Realizar la valoración de las recomendaciones que haga el Sistema Nacional Anticorrupción al ente público de la Administración Pública Federal al que esté asignado, a fin de adoptar las medidas conducentes, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+X. Realizar, con auxilio del personal adscrito al área a su cargo, las actuaciones que se requieran en el ejercicio de sus atribuciones.
 
 ###### Artículo 74.
 
@@ -2539,7 +2999,9 @@ II. Analizar y determinar si las denuncias que se formulen por infracciones que 
 
 III. Practicar de oficio, por denuncia o con motivo de actos de fiscalización incluidos los realizados por otras autoridades fiscalizadoras, las investigaciones de faltas administrativas, así como de faltas de particulares;
 
-IV. Practicar de oficio, por denuncia o con motivo de actos de fiscalización incluidos los realizados por otras autoridades fiscalizadoras las infracciones cometidas por personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios; de obras públicas, servicios relacionados con las mismas y demás relativos a las contrataciones públicas, con excepción de aquellas que deba conocer la Dirección General de Controversias y Sanciones en Contrataciones Públicas;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IV. Practicar de oficio, por denuncia o con motivo de actos de fiscalización incluidos los realizados por otras autoridades fiscalizadoras las investigaciones por infracciones cometidas por personas físicas o morales a los ordenamientos en materia de adquisiciones de bienes, arrendamientos, servicios; de obras públicas, servicios relacionados con las mismas y demás relativos a las contrataciones públicas, con excepción de aquellas que deba conocer la Dirección General de Controversias y Sanciones en Contrataciones Públicas;
 
 V. Practicar de oficio, por denuncia o con motivo de actos de fiscalización incluidos los realizados por otras autoridades fiscalizadoras la evolución patrimonial y de verificación de la evolución patrimonial de las personas servidoras públicas;
 
@@ -2565,13 +3027,25 @@ XV. Recibir las impugnaciones que se promuevan en contra de las calificaciones a
 
 XVI. Ejercer las atribuciones que le correspondan como autoridad investigadora conforme a los ordenamientos en materia de responsabilidad administrativa, incluso promover los recursos que procedan;
 
-XVII. Informar al titular del órgano interno de control los hechos u omisiones que conozcan con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos y, en su caso, presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas; intervenir y coadyuvar, como partes, en el procedimiento penal respectivo cuando a la Secretaría se le reconozca su calidad de víctima u ofendida y darles seguimiento hasta su resolución definitiva;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XVII. Informar al titular del órgano interno de control los hechos u omisiones que conozcan con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos y, en su caso, presentar al Ministerio Público, en representación de la Secretaría, denuncias y querellas; intervenir y coadyuvar, como partes, en el procedimiento penal respectivo en representación de la Secretaría y darles seguimiento hasta su resolución definitiva.
+
+Para efectos del párrafo anterior, podrá representar legalmente a la Secretaría en materia penal ante las autoridades tanto judiciales como administrativas y, con tal carácter, y en términos de los lineamientos que al efecto se expidan, participar en mecanismos alternativos de solución de controversia y formas anticipadas de terminación del proceso penal y, en su caso, celebrar los acuerdos reparatorios respectivos, así como designar asesores jurídicos en el procedimiento penal;
 
 XVIII. Ordenar la práctica de visitas de verificación, de conformidad con la Ley Federal de Procedimiento Administrativo;
 
-XIX. Auxiliar al titular del órgano interno de control en la formulación de requerimientos de información y documentación, así como de colaboración de su competencia, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XX. Proporcionar a la Unidad de Combate a la Impunidad y a la persona titular de la Dirección General de Controversias y Sanciones en Contrataciones Públicas, cuando así lo solicite, información y documentación de los procedimientos de investigación que conozca en materia de responsabilidad administrativa.
+XIX. Auxiliar al titular del órgano interno de control en la formulación de requerimientos de información y documentación, así como de colaboración de su competencia;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XX. Proporcionar a la Unidad de Combate a la Impunidad y a la persona titular de la Dirección General de Controversias y Sanciones en Contrataciones Públicas, cuando así lo solicite, información y documentación de los procedimientos de investigación que conozca en materia de responsabilidad administrativa, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XXI. Realizar, con auxilio del personal adscrito al área a su cargo, las actuaciones y diligencias que se requieran en el ejercicio de sus atribuciones.
 
 ###### Artículo 75.
 
@@ -2603,7 +3077,11 @@ XII. Substanciar y resolver los procedimientos administrativos de sanción (sic)
 
 XIII. Realizar la defensa jurídica de sus resoluciones ante las autoridades jurisdiccionales y actuar incluso en representación de la persona titular de la Secretaría;
 
-XIV. Informar al titular del órgano interno de control, los hechos u omisiones que conozcan con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos y, en su caso, presentar al Ministerio Público, en representación de la Secretaría denuncias y querellas; intervenir y coadyuvar, como partes, en el procedimiento penal respectivo cuando a la Secretaría se le reconozca su calidad de víctima u ofendida y darles seguimiento hasta su resolución definitiva;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIV. Informar al titular del órgano interno de control, los hechos u omisiones que conozcan con motivo del ejercicio de sus atribuciones y que puedan ser constitutivos de delitos y, en su caso, presentar al Ministerio Público, en representación de la Secretaría denuncias y querellas; intervenir y coadyuvar, como partes, en el procedimiento penal respectivo en representación de la Secretaría y darles seguimiento hasta su resolución definitiva.
+
+Para efectos del párrafo anterior, podrá representar legalmente a la Secretaría en materia penal ante las autoridades tanto judiciales como administrativas y, con tal carácter, y en términos de los lineamientos que al efecto se expidan, participar en mecanismos alternativos de solución de controversia y formas anticipadas de terminación del proceso penal y, en su caso, celebrar los acuerdos reparatorios respectivos, así como designar asesores jurídicos en el procedimiento penal;
 
 XV. Registrar los asuntos a su cargo en el Directorio de Proveedores y Contratistas Sancionados de la Administración Pública Federal y mantenerlo actualizado respecto de los mismos;
 
@@ -2629,19 +3107,33 @@ III. Dar seguimiento a las acciones preventivas y correctivas derivadas de los a
 
 IV. Recibir denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas del ente público al que éste asignado o faltas de particulares y remitirlas al área de denuncias e investigaciones correspondiente, para su registro;
 
-V. Realizar la investigación de las denuncias, en los términos que determine la persona titular del órgano interno de control o del área de denuncias e investigaciones;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-VI. Llevar a cabo, en los términos que determine la persona titular del órgano interno de control o del área de responsabilidades, las actuaciones y diligencias necesarias para la substanciación de los procedimientos a cargo de las mismas, y
+V. Realizar la investigación de las denuncias, hasta su conclusión, en los términos que le instruya la persona titular del órgano interno de control o del área de denuncias e investigaciones;
 
-VII. Proporcionar la información y documentación que les requiera la persona titular del órgano interno de control respecto del cumplimiento de sus funciones y de las políticas, planes, programas del Sistema Nacional de Fiscalización y del Sistema Nacional Anticorrupción.
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VI. Llevar a cabo, en los términos que le instruya la persona titular del órgano interno de control o del área de responsabilidades, las actuaciones y diligencias necesarias hasta su conclusión para la substanciación de los procedimientos a cargo de las mismas;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VII. Proporcionar la información y documentación que les requiera la persona titular del órgano interno de control respecto del cumplimiento de sus funciones y de las políticas, planes, programas del Sistema Nacional de Fiscalización y del Sistema Nacional Anticorrupción, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VIII. Conocer, atender y resolver los asuntos que se encuentren en el ámbito de su competencia, e informar periódicamente a su superior jerárquico sobre los mismos.
 
 ###### Artículo 77.
 
 Las unidades de responsabilidades, establecidas para las empresas públicas del estado en las disposiciones jurídicas aplicables, estarán a cargo de un titular nombrado por la persona titular de la Secretaría.
 
-Las unidades a que se refiere este artículo se auxiliarán de las áreas de denuncias e investigaciones y de responsabilidades, así como de delegaciones, quienes ejercerán las atribuciones que se encuentran conferidas en este Reglamento para los órganos internos de control, exclusivamente en las materias de su competencia, y las correspondientes a las áreas de denuncias e investigaciones y responsabilidades de los órganos internos de control, según corresponda.
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
-Las delegaciones a que se refiere el párrafo que antecede serán las que, mediante acuerdo, determine la persona titular de la Secretaría.
+Las unidades a que se refiere este artículo se auxiliarán de las áreas de denuncias e investigaciones y de responsabilidades, quienes ejercerán las atribuciones que se encuentran conferidas en este Reglamento para los órganos internos de control, exclusivamente en las materias de su competencia, y las correspondientes a las áreas de denuncias e investigaciones y responsabilidades de los órganos internos de control, según corresponda, entre otras la relativa a verificar el cumplimiento de las obligaciones a cargo de las personas servidoras públicas e implementar mecanismos internos que prevengan e inhiban faltas administrativas y actos de corrupción.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+Las unidades de responsabilidades se auxiliarán además de las delegaciones que, mediante acuerdo, determine la persona titular de la Secretaría, que contarán con sus respectivas áreas de denuncias e investigaciones y de responsabilidades, quienes dependerán jerárquicamente del titular de la unidad de responsabilidades y ejercerán las atribuciones que se encuentran conferidas en este Reglamento para los órganos internos de control, exclusivamente en las materias de su competencia, y las correspondientes a las áreas de denuncias e investigaciones y responsabilidades de los órganos internos de control, según corresponda, entre otras las relativas a ordenar la práctica de visitas de verificación, de conformidad con las disposiciones jurídicas aplicables, verificar el cumplimiento de las obligaciones a cargo de las personas servidoras públicas, implementar mecanismos internos que prevengan e inhiban faltas administrativas y actos de corrupción, e intervenir y coadyuvar, como partes, en el procedimiento penal respectivo en representación de la Secretaría y darles seguimiento hasta su resolución definitiva.
 
 Las personas titulares de las áreas de denuncias e investigaciones y de responsabilidades de las unidades de responsabilidades, así como de las delegaciones, serán nombrados por la persona titular de la Subsecretaría Anticorrupción.
 
@@ -2649,75 +3141,85 @@ El seguimiento a las actividades de las unidades de responsabilidades previstas 
 
 ### CAPÍTULO VI. Del órgano interno de control de la Secretaría
 
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
 ###### Artículo 78.
 
-La persona titular del Órgano Interno de Control de la Secretaría será nombrada por la persona titular del Ejecutivo Federal a propuesta de la persona titular de la Secretaría.
+La persona titular del Órgano Interno de Control de la Secretaría será nombrada por la persona titular del Ejecutivo Federal.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 79.
 
 El Órgano Interno de Control de la Secretaría tiene las atribuciones siguientes:
 
-I. Presentar anualmente, a la persona titular de la Secretaría, el informe de gestión y el Programa Anual de Trabajo y de Evaluación del Órgano Interno de Control de la Secretaría;
+I. Presentar anualmente, a la persona titular de la Secretaría, el informe de gestión y el Programa Anual de Trabajo y de Evaluación del Órgano Interno de Control de la Secretaría, que incluya el de la Oficina de Representación;
 
 II. Aplicar las disposiciones en materia de auditoría, control interno, evaluación de la gestión gubernamental, atención de denuncias e inconformidades, y responsabilidades;
 
-III. Verificar que las actuaciones de las personas servidoras públicas de la Secretaría se apeguen a las disposiciones jurídicas aplicables;
+III. Verificar que las actuaciones de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado se apeguen a las disposiciones jurídicas aplicables;
 
-IV. Aprobar a las áreas que tiene adscritas las recomendaciones de mecanismos internos para la prevención de faltas administrativas, promover acciones que coadyuven a mejorar la gestión y el combate a la corrupción e impunidad en las unidades administrativas de la Secretaría y coordinar la evaluación anual de los resultados de la Secretaría en dichas materias;
+IV. Aprobar a las áreas que tiene adscritas las recomendaciones de mecanismos internos para la prevención de faltas administrativas, promover acciones que coadyuven a mejorar la gestión y el combate a la corrupción e impunidad en las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, y coordinar la evaluación anual de los resultados de la Secretaría en dichas materias;
 
-V. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales;
+V. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales de la Secretaría y de su órgano administrativo desconcentrado;
 
-VI. Dar seguimiento a las resoluciones que emita a las unidades administrativas de la Secretaría y, en su caso, a las emitidas por otras unidades fiscalizadoras, así como las medidas y acciones de mejora que las unidades administrativas de la Secretaría realicen para el fortalecimiento de su desempeño, del control interno, fiscalización y evaluación de la gestión pública;
+VI. Dar seguimiento a las resoluciones que emita a las unidades administrativas de la Secretaría, de su órgano administrativo desconcentrado y, en su caso, a las emitidas por otras unidades fiscalizadoras, así como las medidas y acciones de mejora que las unidades administrativas de la Secretaría realicen para el fortalecimiento de su desempeño, del control interno, fiscalización y evaluación de la gestión pública;
 
-VII. Programar, ordenar e instruir cualquier acto de fiscalización a las unidades administrativas de la Secretaría;
+VII. Programar, ordenar e instruir cualquier acto de fiscalización a las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado;
 
-VIII. Recibir denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o faltas de particulares;
+VIII. Recibir denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o de su órgano administrativo desconcentrado, o faltas de particulares;
 
-IX. Investigar las denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas del ente público de la Administración Pública Federal al que éste asignado o faltas de particulares, así como calificar las faltas administrativas o faltas de particulares y emitir el informe de presunta responsabilidad administrativa;
+IX. Investigar las denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o de su órgano administrativo desconcentrado, o faltas de particulares, así como calificar las faltas administrativas o faltas de particulares y emitir el informe de presunta responsabilidad administrativa;
 
-X. Abstenerse de iniciar el procedimiento de responsabilidad administrativa y, en su caso, de imponer sanciones a las personas servidoras públicas de la Secretaría, cuando se ubique en los supuestos previstos en los ordenamientos en materia de responsabilidad administrativa;
+X. Abstenerse de iniciar el procedimiento de responsabilidad administrativa y, en su caso, de imponer sanciones a las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, cuando se ubique en los supuestos previstos en los ordenamientos en materia de responsabilidad administrativa;
 
 XI. Substanciar los procedimientos de responsabilidad administrativa por faltas administrativas graves y por faltas de particulares y su remisión al Tribunal Federal de Justicia Administrativa para su resolución, así como dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales en dicha materia;
 
 XII. Substanciar y resolver los procedimientos de responsabilidad administrativa por faltas administrativas no graves;
 
-XIII. Resolver el recurso de revocación que las personas servidoras públicas de la Secretaría hagan valer, respecto de las resoluciones administrativas por las que se les impongan sanciones administrativas;
+XIII. Resolver el recurso de revocación que las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado hagan valer, respecto de las resoluciones por las que se les impongan sanciones administrativas;
 
-XIV. Resolver el recurso de revisión que se interponga en contra de las resoluciones dictadas por las personas titulares de las unidades administrativas a su cargo en las inconformidades y reclamaciones que se promueven en términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios del sector público, de obras públicas y servicios relacionados con las mismas, de responsabilidad administrativa, responsabilidad patrimonial y de servicio profesional de carrera;
+XIV. Resolver el recurso de revisión que se interponga en contra de las resoluciones dictadas por las personas titulares de las unidades administrativas a su cargo en las inconformidades y reclamaciones que se promueven en términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios del sector público, de obras públicas y servicios relacionados con las mismas, de responsabilidad patrimonial del Estado, y de servicio profesional de carrera, según corresponda;
 
-XV. Coadyuvar, en su caso, con el área competente de la Secretaría en la formulación de las denuncias respectivas en el supuesto de detectar conductas que puedan ser constitutivas de delito;
+XV. Coadyuvar, en su caso, con el área competente de la Secretaría y de su órgano administrativo desconcentrado en la formulación de las denuncias respectivas en el supuesto de detectar conductas que puedan ser constitutivas de delito;
 
-XVI. Verificar el cumplimiento y evaluar los resultados de los programas y proyectos especiales en los que participen las unidades administrativas de la Secretaría;
+XVI. Verificar el cumplimiento y evaluar los resultados de los programas y proyectos especiales en los que participen las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado;
 
-XVII. Resolver las inconformidades por las irregularidades que, a juicio de las personas interesadas, se hayan cometido en los procedimientos de adjudicación de contratos de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con la misma, que lleve a cabo la Secretaría;
+XVII. Resolver las inconformidades por las irregularidades que, a juicio de las personas interesadas, se hayan cometido en los procedimientos de adjudicación de contratos de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con la misma, que lleve a cabo la Secretaría o su órgano administrativo desconcentrado;
 
-XVIII. Recibir las inconformidades que se formulen por actos u omisiones de los Comités Técnicos de Profesionalización y de Selección, así como de cualquier otro órgano o autoridad de la Secretaría facultado para operar el Sistema del Servicio Profesional de Carrera en la Administración Pública Federal; supervisar la substanciación de las mismas, y emitir las recomendaciones que correspondan;
+XVIII. Recibir las inconformidades que se formulen por actos u omisiones de los Comités Técnicos de Profesionalización y de Selección, así como de cualquier otro órgano o autoridad facultada de la Secretaría y de su órgano administrativo desconcentrado para operar el Sistema del Servicio Profesional de Carrera en la Administración Pública Federal, así como supervisar la substanciación de las mismas, y emitir las recomendaciones que correspondan;
 
-XIX. Supervisar, mediante los comités respectivos, que la ejecución de los procedimientos de contratación pública que se realicen en la Secretaría se apeguen a las disposiciones jurídicas aplicables y, en su caso, ordenar las verificaciones procedentes;
+XIX. Supervisar, mediante los comités respectivos, que la ejecución de los procedimientos de contratación pública que se realicen en la Secretaría y en su órgano administrativo desconcentrado se apeguen a las disposiciones jurídicas aplicables y, en su caso, ordenar las verificaciones procedentes;
 
-XX. Requerir a las personas servidoras públicas de la Secretaría, a las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, y a personas físicas y morales, información y documentación para el ejercicio de sus atribuciones;
+XX. Requerir a las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, de las dependencias, incluidos sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal, y a personas físicas y morales, información y documentación para el ejercicio de sus atribuciones;
 
-XXI. Solicitar las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, cuando se requiera para verificar la evolución de la situación patrimonial de los declarantes, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos, de conformidad con lo dispuesto en el artículo 38 de la Ley General de Responsabilidades Administrativas;
+XXI. Solicitar a las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios, cuando se requiera para verificar la evolución de la situación patrimonial de los declarantes, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos, de conformidad con lo dispuesto en el artículo 38 de la Ley General de Responsabilidades Administrativas;
 
 XXII. Solicitar a las autoridades competentes, incluida la Comisión Nacional Bancaria y de Valores, en los términos de las disposiciones aplicables, la información en materia fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios y, en general, aquella que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que sea necesaria para el desarrollo de investigaciones por faltas administrativas graves, de conformidad con lo previsto en el artículo 95 de la Ley General de Responsabilidades Administrativas;
 
-XXIII. Brindar la asesoría que le requieran las personas servidoras públicas de la Secretaría y dependencias, incluidos sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal, en el ámbito de su competencia;
+XXIII. Brindar la asesoría que le requieran las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, en el ámbito de su competencia;
 
-XXIV. Instruir y participar en los actos de entrega-recepción de las personas servidoras públicas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+XXIV. Instruir y participar en los actos de entrega-recepción de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables;
 
-XXV. Comisionar al personal a su cargo para que auxilie a las áreas del Órgano Interno de Control de la Secretaría en sus respectivas actividades, y
+XXV. Comisionar al personal a su cargo para que auxilie a las áreas del Órgano Interno de Control de la Secretaría, así como de la Oficina de Representación, en sus respectivas actividades;
 
-XXVI. Las que le encomiende la persona titular del Ejecutivo Federal, así como las que competen a las unidades administrativas a su cargo, y las previstas en el artículo 11 de este Reglamento.
+XXVI. Nombrar y remover a las personas titulares de las áreas y de la Oficina de Representación del Órgano Interno de Control de la Secretaría, y
 
-El Órgano Interno de Control de la Secretaría se auxilia en el ejercicio de sus atribuciones por las áreas de Auditoría, de Denuncias e Investigaciones, y de Responsabilidades.
+XXVII. Las que le encomiende la persona titular del Ejecutivo Federal, así como las que competen a las unidades administrativas a su cargo, y las previstas en el artículo 11 de este Reglamento.
+
+El Órgano Interno de Control de la Secretaría se auxilia en el ejercicio de sus atribuciones por las áreas de Auditoría, de Denuncias e Investigaciones, y de Responsabilidades, así como de la Oficina de Representación.
 
 ###### Artículo 80.
 
 Las áreas del Órgano Interno de Control de la Secretaría tienen, en el ámbito de sus respectivas competencias, las atribuciones siguientes:
 
-I. Requerir la información y documentación necesaria para el ejercicio de sus atribuciones, a las personas servidoras públicas de la Secretaría, a las dependencias y entidades de la Administración Pública Federal, y a cualquier otra autoridad pública federal, así como a las personas físicas o morales;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-II. Llevar los registros y libros de gobierno de los asuntos de su competencia;
+I. Requerir la información y documentación necesaria para el ejercicio de sus atribuciones, a las personas servidoras públicas de la Secretaría, de su órgano administrativo desconcentrado, de las dependencias y entidades de la Administración Pública Federal, y de cualquier otra autoridad pública federal, así como a las personas físicas o morales, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. Llevar los registros y libros de gobierno de los asuntos de su competencia, y mantenerlos actualizados;
 
 III. Expedir copias certificadas de los documentos o información que obren en sus archivos, en formato físico o electrónico, así como de aquellos que tengan acceso o a la vista con motivo del ejercicio de sus atribuciones, y
 
@@ -2727,9 +3229,13 @@ IV. Las demás que le confiera (sic) este Reglamento y demás disposiciones jur�
 
 El Área de Auditoría del Órgano Interno de Control de la Secretaría tiene las atribuciones siguientes:
 
-I. Proponer a la persona titular del Órgano Interno de Control el Programa Anual de Trabajo y Evaluación;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-II. Ordenar y realizar actos de fiscalización, conforme al Programa Anual de Fiscalización y los que le instruya o autorice la persona titular del Órgano Interno de Control de la Secretaría, a las unidades administrativas de la Secretaría, suscribir el informe correspondiente y comunicar el resultado de dichos actos a la persona titular del Órgano Interno de Control de la Secretaría y a los responsables de las unidades fiscalizadas;
+I. Proponer a la persona titular del Órgano Interno de Control el Programa Anual de Fiscalización, para su integración en el Programa Anual de Trabajo y Evaluación;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. Ordenar y realizar actos de fiscalización, conforme al Programa Anual de Fiscalización y los que le instruya o autorice la persona titular del Órgano Interno de Control de la Secretaría, a las unidades administrativas de la Secretaría y de su órgano administrativo desconcentrado, suscribir el informe correspondiente y comunicar el resultado de dichos actos a la persona titular del Órgano Interno de Control de la Secretaría y a los responsables de las unidades fiscalizadas;
 
 III. Cancelar y reprogramar actos de fiscalización, previa justificación y autorización de la persona titular del Órgano Interno de Control de la Secretaría;
 
@@ -2737,41 +3243,55 @@ IV. Hacer constar en cédulas de resultados las probables irregularidades o incu
 
 V. Llevar a cabo los actos de verificación de las actuaciones de las personas servidoras públicas de la Secretaría para constatar que se realicen con apego a las disposiciones jurídicas aplicables;
 
-VI. Dar seguimiento al cumplimiento de las acciones derivadas de los actos de fiscalización practicados a las unidades administrativas de la Secretaría y, en su caso, a las determinadas por otras autoridades fiscalizadoras, así como comunicar el resultado del mismo a la persona titular del Órgano Interno de Control de la Secretaría y a los responsables de las unidades fiscalizadas;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VI. Dar seguimiento al cumplimiento de las acciones derivadas de los actos de fiscalización practicados a las unidades administrativas de la Secretaría, de su órgano administrativo desconcentrado y, en su caso, a las determinadas por otras autoridades fiscalizadoras, así como comunicar el resultado del mismo a la persona titular del Órgano Interno de Control de la Secretaría y a los responsables de las unidades fiscalizadas;
 
 VII. Designar al personal que llevará a cabo los actos de fiscalización y, en su caso, comunicar la sustitución de los mismos;
 
 VIII. Informar a la autoridad investigadora las probables faltas administrativas de las personas servidoras públicas que detecte en los actos de fiscalización;
 
-IX. Proponer, previo acuerdo con la persona titular del Órgano Interno de Control de la Secretaría, el establecimiento de acciones que coadyuven a mejorar la gestión de las unidades administrativas de la propia Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-X. Evaluar los resultados del control interno establecido en la Secretaría, e informar periódicamente a las instancias competentes de esta dependencia sobre el estado que guardan;
+IX. Proponer, previo acuerdo con la persona titular del Órgano Interno de Control de la Secretaría, el establecimiento de acciones que coadyuven a mejorar la gestión de las unidades administrativas de la propia Secretaría y de su órgano administrativo desconcentrado;
 
-XI. Impulsar y dar seguimiento a programas y estrategias de desarrollo administrativo integral y modernización de la gestión pública que implementen las unidades administrativas de la Secretaría, así como elaborar y presentar a la persona titular del Órgano Interno de Control de la Secretaría el resultado de las acciones de dichos programas y estrategias;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-XII. Participar en los actos de entrega-recepción de las personas servidoras públicas de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+X. Evaluar el sistema de control interno institucional establecido en la Secretaría y en su órgano administrativo desconcentrado, e informar periódicamente a las instancias competentes de esta dependencia sobre el estado que guardan, así como promover su fortalecimiento;
 
-XIII. Fungir como enlace del Órgano Interno de Control de la Secretaría ante la Unidad de Transparencia, y
+XI. (DEROGADA, D.O.F. 21 DE MARZO DE 2025)
 
-XIV. Representar al Órgano Interno de Control de la Secretaría en los comités, subcomités y demás órganos colegiados en los que se prevea su participación.
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XII. Participar en los actos de entrega-recepción de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIII. Fungir como enlace del Órgano Interno de Control de la Secretaría y de la Oficina de Representación ante la Unidad de Transparencia, y
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XIV. Representar al Órgano Interno de Control de la Secretaría y a la Oficina de Representación en los comités, subcomités y demás órganos colegiados en los que se prevea su participación.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 82.
 
 El Área de Denuncias e Investigaciones del Órgano Interno de Control de la Secretaría tiene las atribuciones siguientes:
 
-I. Analizar y determinar si las denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o faltas de particulares, contienen datos o indicios que permitan advertir la presunta responsabilidad administrativa para su procedencia;
+I. Analizar y determinar si las denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o de su órgano administrativo desconcentrado, o faltas de particulares, contienen datos o indicios que permitan advertir la presunta responsabilidad administrativa para su procedencia;
 
-II. Practicar de oficio, por denuncia o derivadas de auditorías de las autoridades fiscalizadoras o auditores externos, investigaciones de faltas administrativas de personas servidoras públicas de la Secretaría, así como de faltas de particulares;
+II. Practicar de oficio, por denuncia o derivadas de auditorías de las autoridades fiscalizadoras o auditores externos, investigaciones de faltas administrativas de personas servidoras públicas de la Secretaría o de su órgano administrativo desconcentrado, así como de faltas de particulares;
 
-III. Emitir, cuando proceda, el acuerdo de inicio de la investigación de las denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o faltas de particulares, así como los acuerdos de acumulación de investigaciones, de incompetencia, de improcedencia, de aquellos que den por concluida la investigación de que se trate, y cualquier otro necesario para la debida investigación;
+III. Emitir, cuando proceda, el acuerdo de inicio de la investigación de las denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o de su órgano administrativo desconcentrado, o faltas de particulares, así como los acuerdos de acumulación de investigaciones, de incompetencia, de improcedencia, de aquellos que den por concluida la investigación de que se trate, y cualquier otro necesario para la debida investigación;
 
-IV. Requerir a las personas servidoras públicas de la Secretaría y a cualquier persona física o moral, pública o privada, la información y documentación necesaria relacionada con la investigación, de faltas administrativas, de conformidad con las disposiciones jurídicas aplicables;
+IV. Requerir a las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado y a cualquier persona física o moral, pública o privada, la información y documentación necesaria relacionada con la investigación de faltas administrativas, de conformidad con las disposiciones jurídicas aplicables;
 
-V. Llevar a cabo las actuaciones y diligencias que (sic) necesarias para la investigación de denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o faltas de particulares, así como ordenar citas y comparecencias de las personas relacionados (sic) con la investigación de que se trate y levantar las actas administrativas correspondientes;
+V. Llevar a cabo las actuaciones y diligencias necesarias para la investigación de denuncias que se formulen por actos u omisiones que puedan constituir faltas administrativas de las personas servidoras públicas de la Secretaría o de su órgano administrativo desconcentrado, o faltas de particulares, así como ordenar citas y comparecencias de las personas relacionados con la investigación de que se trate y levantar las actas administrativas correspondientes;
 
 VI. Ordenar la práctica de visitas de verificación cuando las considere necesarias para la investigación de faltas administrativas;
 
-VII. Acordar con su superior jerárquico la calificación de las faltas administrativas como graves o no graves, así como emitir y remitir el Informe de Presunta Responsabilidad Administrativa al Área de Responsabilidades del Órgano Interno de Control;
+VII. Calificar las faltas administrativas como graves o no graves, así como emitir y remitir el Informe de Presunta Responsabilidad Administrativa al Área de Responsabilidades del Órgano Interno de Control;
 
 VIII. Recibir las impugnaciones que se promuevan en contra de las calificaciones de las faltas administrativas no graves; suscribir el informe que justifique la calificación impugnada, y correr traslado de ellas al Tribunal Federal de Justicia Administrativa;
 
@@ -2779,41 +3299,61 @@ IX. Recalificar las faltas administrativas en los informes de presunta responsab
 
 X. Determinar la reapertura de la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la atribución para sancionar;
 
-XI. Promover, en coordinación con el área de Auditoría Interna, previo acuerdo con la persona titular del Órgano Interno de Control de la Secretaría, el establecimiento de acciones que coadyuven a mejorar la gestión de las unidades administrativas, así como la verificación del cumplimiento de las obligaciones de las personas servidoras públicas de la Secretaría;
+XI. Promover, en coordinación con el área de Auditoría, previo acuerdo con la persona titular del Órgano Interno de Control de la Secretaría, el establecimiento de acciones que coadyuven a mejorar la gestión de las unidades administrativas, así como la verificación del cumplimiento de las obligaciones de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado;
 
-XII. Coadyuvar con la Unidad de Asuntos Jurídicos en la presentación de denuncias y querellas ante el Ministerio Público por hechos u omisiones que conozca con motivo de su competencia y que puedan ser constitutivos de delitos, así como en el procedimiento penal respectivo;
+XII. Ejercer las atribuciones que le correspondan como autoridad investigadora conforme a los ordenamientos en materia de responsabilidad administrativa;
 
-XIII. Substanciar y resolver las inconformidades que se formulen por actos u omisiones de los comités técnicos de Profesionalización y de Selección, así como de cualquier otro órgano o autoridad en la Secretaría facultada para operar el Sistema del Servicio Profesional de Carrera en la Administración Pública Federal, y emitir las recomendaciones y medidas que correspondan;
+XIII. Promover los recursos que como autoridad investigadora le otorga la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables;
 
-XIV. Realizar la valoración de la determinación preliminar que formule la Dirección General de Recursos Humanos sobre el incumplimiento reiterado e injustificado de obligaciones de las personas servidoras públicas de carrera, en términos de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
+XIV. Solicitar cuando proceda, previo requerimiento de las personas denunciantes, a las áreas competentes de la Secretaría, de su órgano administrativo desconcentrado, de las dependencias o entidades de la Administración Pública Federal, la adopción de medidas de protección, conforme a los protocolos o disposiciones jurídicas aplicables;
 
-XV. Aplicar medidas de apremio para hacer cumplir sus determinaciones como autoridad investigadora;
+XV. Coadyuvar, en su caso, con la unidad administrativa competente de la Secretaría en la formulación de denuncias y querellas ante el Ministerio Público por hechos u omisiones que conozca con motivo de su competencia y que puedan ser constitutivos de delitos, así como en el procedimiento penal respectivo;
 
-XVI. Solicitar al Área de Responsabilidades del Órgano Interno de Control de la Secretaría y, en su caso, al Tribunal Federal de Justicia Administrativa las medidas cautelares previstas en la Ley General de Responsabilidades Administrativas, y
+XVI. Substanciar y resolver las inconformidades que se formulen por actos u omisiones de los comités técnicos de Profesionalización y de Selección, así como de cualquier otro órgano o autoridad en la Secretaría o en su órgano administrativo desconcentrado facultada para operar el Sistema del Servicio Profesional de Carrera en la Administración Pública Federal, y emitir las recomendaciones y medidas que correspondan;
 
-XVII. Recomendar, previo acuerdo con la persona titular del Órgano Interno de Control, la implementación de mecanismos internos para la prevención de faltas administrativas, y evaluar anualmente los resultados de la Secretaría en materia de combate a la corrupción e impunidad.
+XVII. Realizar la valoración de la determinación preliminar que formule la Dirección General de Recursos Humanos sobre el incumplimiento reiterado e injustificado de obligaciones de las personas servidoras públicas de carrera, en términos de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
+
+XVIII. Aplicar medidas de apremio para hacer cumplir sus determinaciones como autoridad investigadora;
+
+XIX. Solicitar al Área de Responsabilidades del Órgano Interno de Control de la Secretaría y, en su caso, al Tribunal Federal de Justicia Administrativa las medidas cautelares previstas en la Ley General de Responsabilidades Administrativas;
+
+XX. Recomendar, previo acuerdo con la persona titular del Órgano Interno de Control, la implementación de mecanismos internos para la prevención de faltas administrativas, y evaluar anualmente los resultados de la Secretaría y de su órgano administrativo desconcentrado, en materia de combate a la corrupción e impunidad, y
+
+XXI. Realizar, con auxilio del personal adscrito al área a su cargo, así como de la Oficina de Representación, las actuaciones y diligencias que se requieran en los asuntos de su competencia.
 
 ###### Artículo 83.
 
 El Área de Responsabilidades del Órgano Interno de Control de la Secretaría tiene las atribuciones siguientes:
 
-I. Admitir el Informe de Presunta Responsabilidad Administrativa y, en su caso, prevenir a la autoridad investigadora para que rectifique o aclare las omisiones que advierta o los hechos narrados en su Informe;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-II. Abstenerse de iniciar el procedimiento de responsabilidad administrativa y, en su caso, de imponer sanciones a las personas servidoras públicas de la Secretaría, cuando se ubiquen en los supuestos previstos en los ordenamientos en materia de responsabilidad administrativa;
+I. Admitir el Informe de Presunta Responsabilidad Administrativa; prevenir a la autoridad investigadora para que rectifique o aclare las omisiones que advierta o los hechos narrados en su Informe o, en su caso, tenerlo por no presentado;
 
-III. Substanciar los procedimientos de responsabilidad administrativa iniciados por faltas administrativas graves y por faltas de particulares, y remitirlos para su resolución al Tribunal Federal de Justicia Administrativa;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+II. Abstenerse de iniciar el procedimiento de responsabilidad administrativa y, en su caso, de imponer sanciones a las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, cuando se ubiquen en los supuestos previstos en los ordenamientos en materia de responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+III. Substanciar los procedimientos de responsabilidad administrativa iniciados por faltas administrativas graves y por faltas de particulares hasta la audiencia inicial, y remitirlos para su resolución al Tribunal Federal de Justicia Administrativa;
 
 IV. Substanciar el recurso de reclamación, y dar cuenta al Tribunal Federal de Justicia Administrativa para su resolución;
 
-V. Substanciar el recurso de revocación que hagan valer las personas servidoras públicas de la Secretaría, respecto de las resoluciones administrativas por las que se les impongan sanciones administrativas, y proponer los proyectos de resolución a la persona titular del Órgano Interno de Control de la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
 
-VI. Substanciar el recurso de revisión que se interponga en contra de las resoluciones dictadas en las inconformidades y reclamaciones que se promueven en términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios del sector público, obras públicas y servicios relacionados con las mismas, y responsabilidad patrimonial del Estado, y proponer los proyectos de resolución a la persona titular del Órgano Interno de Control de la Secretaría;
+V. Substanciar el recurso de revocación que hagan valer las personas servidoras públicas de la Secretaría o de su órgano administrativo desconcentrado, respecto de las resoluciones administrativas por las que se les impongan sanciones administrativas;
+
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+VI. Substanciar el recurso de revisión que se interponga en contra de las resoluciones dictadas en las inconformidades y reclamaciones que se promueven en términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios del sector público, obras públicas y servicios relacionados con las mismas y de responsabilidad patrimonial del Estado, según corresponda;
 
 VII. Substanciar el recurso de inconformidad que se promueva en contra de la determinación de abstenerse de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones;
 
 VIII. Substanciar y resolver los procedimientos de responsabilidad administrativa por faltas administrativas no graves, y emplazar a las partes a la audiencia inicial;
 
-IX. Substanciar y resolver las inconformidades y las reclamaciones que se promuevan en contra de actos de las personas servidoras públicas de la Secretaría, en términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios del sector público, obras públicas y servicios relacionados con las mismas, responsabilidad administrativa y responsabilidad patrimonial del Estado;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+IX. Substanciar y resolver las inconformidades y las reclamaciones que se promuevan en contra de actos de las personas servidoras públicas de la Secretaría y de su órgano administrativo desconcentrado, en términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios del sector público, obras públicas y servicios relacionados con las mismas y de responsabilidad patrimonial del Estado, según corresponda;
 
 X. Substanciar y resolver los procedimientos de intervención de oficio previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
@@ -2825,11 +3365,33 @@ XIII. Emitir, cuando proceda, el acuerdo de acumulación, de improcedencia o de 
 
 XIV. Emitir resoluciones interlocutorias en los incidentes de los procedimientos de responsabilidad administrativa y, en su caso, presidir las audiencias incidentales;
 
-XV. Realizar, con auxilio del personal adscrito al área a su cargo, las actuaciones y diligencias que se requieran en los procedimientos de responsabilidad administrativa;
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XV. Realizar, con auxilio del personal adscrito al área a su cargo y de la Oficina de Representación, las actuaciones y diligencias que se requieran en los procedimientos de responsabilidad administrativa;
 
 XVI. Efectuar las acciones que procedan para la ejecución de las sanciones por faltas administrativas no graves impuestas a las personas servidoras públicas de la Secretaría, y
 
-XVII. Proponer a la persona titular del Órgano Interno de Control de la Secretaría el establecimiento de acciones que coadyuven a mejorar la gestión de las unidades administrativas de la Secretaría.
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+XVII. Ejercer las atribuciones de autoridad substanciadora y resolutora, según corresponda, conforme a las disposiciones jurídicas aplicables en materia de responsabilidad administrativa.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 83-A.
+
+La Oficina de Representación del Órgano Interno de Control de la Secretaría estará a cargo de un jefe de oficina nombrado por la persona titular de dicho Órgano Interno de Control.
+
+La Oficina de Representación tiene las atribuciones que se señalan en el artículo 76 de este Reglamento, aquellas que le encomiende la persona titular del Órgano Interno de Control de la Secretaría y las que le confieran otras disposiciones jurídicas aplicables, con respecto al órgano administrativo desconcentrado de la Secretaría.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 21 DE MARZO DE 2025)</small>
+
+### CAPÍTULO VI-B. Del Órgano Administrativo Desconcentrado
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+###### Artículo 83-B.
+
+Transparencia para el Pueblo es un órgano administrativo desconcentrado de la Secretaría que cuenta con autonomía técnica y operativa para el ejercicio de sus atribuciones que se establecen en la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VII. De la Suplencia
 
@@ -2839,13 +3401,25 @@ La persona titular de la Secretaría es suplida en sus ausencias por las persona
 
 Las ausencias de las personas titulares de las subsecretarías Anticorrupción, y de Buen Gobierno, y de la Unidad de Administración y Finanzas, son suplidas por las personas titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por la persona servidora pública que éstas designen.
 
-Las ausencias de la persona titular de la Unidad de Asuntos Jurídicos son suplidas por las personas titulares de las direcciones generales de Normatividad y Consulta, y Jurídica, y de las direcciones de lo Contencioso A y B, y de Amparo A y B, en el ámbito de su competencia. Para el caso de la ausencia de la persona titular de la Dirección General Jurídica, ésta se suple por las personas titulares de las direcciones de lo Contencioso A y B, de Amparo A y B, Penal y Laboral, en el ámbito de su competencia.
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
-Las ausencias de las personas titulares de los órganos internos de control son suplidas por las personas titulares de las áreas de Auditoría, de Denuncias e Investigaciones, y de Responsabilidades y de las oficinas de representación, en ese orden.
+Las ausencias de la persona titular de la Unidad de Asuntos Jurídicos son suplidas por las personas titulares de las direcciones generales de Normatividad y Consulta, y Jurídica, y de las direcciones de lo Contencioso A y B, y de Amparo A, B y C, en el ámbito de su competencia. Para el caso de la ausencia de la persona titular de la Dirección General Jurídica, esta se suple por las personas titulares de las direcciones de lo Contencioso A y B, de Amparo A, B y C, Penal y Laboral, en el ámbito de su competencia.
 
-Las ausencias de las personas titulares de las unidades de responsabilidades son suplidas por las personas titulares de las áreas de Denuncias e Investigaciones, y de Responsabilidades y de las delegaciones, en ese orden.
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2025)</small>
 
-Las ausencias de las personas titulares de las coordinaciones generales, unidades, direcciones generales, áreas de los órganos internos de control y de las unidades de responsabilidades y delegaciones, así como de las personas titulares de las coordinaciones, direcciones de área, subdirecciones de área, jefaturas de departamento, y demás personas servidoras públicas que se precisan en el Manual de Organización General de la Secretaría, manuales de organización específicos, y personal autorizado en su presupuesto, según corresponda, son suplidas por las personas servidoras públicas del nivel jerárquico inmediato inferior que de ellos dependan.
+Las ausencias de la persona titular del Órgano Interno de Control de la Secretaría son suplidas por las personas titulares de las áreas de Auditoría, de Denuncias e Investigaciones, y de Responsabilidades, y por la Oficina de Representación, en ese orden.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+Las ausencias de las personas titulares de los órganos internos de control son suplidas por las personas titulares de las áreas de Responsabilidades, de Auditoría y de Denuncias e Investigaciones, y de las oficinas de representación, en ese orden.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+Las ausencias de las personas titulares de las unidades de responsabilidades son suplidas por las personas titulares de las áreas de Responsabilidades, de Denuncias e Investigaciones y de las delegaciones, en ese orden.
+
+> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 2025)</small>
+
+Las ausencias de las personas titulares de las coordinaciones generales, unidades, direcciones generales, áreas de los órganos internos de control, oficinas de representación, oficinas regionales, unidades de responsabilidades y delegaciones, así como de las personas titulares de las coordinaciones, direcciones de área, subdirecciones de área, jefaturas de departamento, y demás personas servidoras públicas que se precisan en el Manual de Organización General de la Secretaría, manuales de organización específicos, y personal autorizado en su presupuesto, según corresponda, son suplidas por las personas servidoras públicas del nivel jerárquico inmediato inferior que de ellas dependan.
 
 ## TRANSITORIOS
 
@@ -2882,3 +3456,19 @@ Séptimo. A la entrada en vigor del presente Reglamento, las atribuciones previs
 Octavo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a la estructura orgánica y al ejercicio de las atribuciones conferidas a las unidades administrativas de la Secretaría Anticorrupción y Buen Gobierno, deben cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizan ampliaciones al presupuesto regularizable de dicha dependencia.
 
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 31 de diciembre de 2024.- Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- Secretaria Anticorrupción y Buen Gobierno, Raquel Buenrostro Sánchez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO, Y SE EXPIDE EL REGLAMENTO INTERIOR DE TRANSPARENCIA PARA EL PUEBLO”.]
+
+Primero. El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los asuntos o procedimientos que se encuentren en trámite con anterioridad a la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas que se mencionan en el presente Reglamento, conforme a las disposiciones aplicables vigentes a su inicio y aquellas que resulten aplicables.
+
+Tercero. Se suspenden por un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación establecidos en la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de acceso a la información y solicitudes de acceso, rectificación, cancelación y oposición de datos personales, que se tramitan a través de la Plataforma Nacional de Transparencia.
+
+Cuarto. Dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, Transparencia para el Pueblo deberá actualizar el Padrón a que se refiere el artículo 4, fracción X, del Reglamento Interior de Transparencia para el Pueblo.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a la estructura orgánica y al ejercicio de las atribuciones conferidas a las unidades administrativas de la Secretaría Anticorrupción y Buen Gobierno, deben cubrirse con cargo a su presupuesto autorizado para el presente ejercicio fiscal y subsecuentes, mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizan ampliaciones al presupuesto regularizable de dicha dependencia.
