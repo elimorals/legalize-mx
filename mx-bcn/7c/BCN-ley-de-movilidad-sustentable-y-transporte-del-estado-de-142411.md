@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-movilidad-sustentable-y-transporte-del-estado-de-142411"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-27"
-last_updated: "2024-02-16"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de marzo de 2020.
 
@@ -2131,9 +2131,13 @@ La autorización otorgada por el Instituto y las facultades que de las mismas se
 
 Para efecto de que se analice la posibilidad por parte del Instituto de otorgar renovación de la autorización, se deberá tomar en consideración las infracciones que en su caso hubiere cometido el solicitante en contra de la presente Ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 224.
 
 El vehículo registrado para la prestación del servicio no podrá tener una antigüedad mayor a seis años a partir de su fecha de fabricación, debiendo presentar además la verificación física mecánica y ambiental que el Instituto le solicite.
+
+Así mismo, deberá contar con un distintivo el cual será emitido por el Instituto. Este distintivo debe ser visible desde el exterior del vehículo siempre que se encuentre activo prestando servicios, identificando que se trata de un servicio de transporte intermediado por plataforma digital. Queda prohibido la utilización del distintivo sin el uso de la aplicación móvil.
 
 ###### ARTÍCULO 225.
 
@@ -2532,3 +2536,13 @@ SEGUNDO.- El Instituto de Movilidad Sustentable en coordinación con las depende
 El programa a que se refiere este artículo establecerá entre otros aspectos, los términos para la incorporación y acompañamiento a concesionarios y permisionarios de transporte publico turístico en la modernización de sus vehículos, así como las condiciones para quienes se incorporen al programa.
 
 TERCERO.- Dentro del plazo de treinta días siguientes a la emisión del programa a que se refiere el Artículo Transitorio Segundo, los concesionarios y permisionarios del servicio de transporte en todas las modalidades que presten el servicio por vehículos de tracción o propulsión animal deberán gestionar la actualización de las concesiones y permisos, y en su caso, promover las acciones necesarias para el cumplimiento de las presentes reformas.
+
+P.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 55, MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 224 DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto de Movilidad Sustentable, emitirá la norma técnica que defina las especificaciones, lineamientos y obligaciones de la utilización de los distintivos conforme a la presente reforma.
+
+TERCERO.- Las personas conductoras afiliadas o registradas en empresas de redes de transporte, contarán con un plazo de ciento ochenta días a partir del inicio de vigencia del presente Decreto, a fin de que utilicen el distintivo a que se refiere el artículo 224 de la Ley.
