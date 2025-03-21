@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2024-07-05"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -171,13 +171,17 @@ XXXIX. Turista: la persona que viaja temporalmente fuera de su lugar de residenc
 
 XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
 
-XLI. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales, y
+XLI. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
 
-XLII. Policía turística: se entiende por aquellos elementos que desempeñan tareas de proximidad social y vigilancia, en aras de prevención del delito, asistencia y apoyo al turista en caso de hechos delictivos, mismos que deberán portar un distintivo que los identifique para esos efectos.
+XLII. Policía turística: se entiende por aquellos elementos que desempeñan tareas de proximidad social y vigilancia, en aras de prevención del delito, asistencia y apoyo al turista en caso de hechos delictivos, mismos que deberán portar un distintivo que los identifique para esos efectos, y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2025)</small>
+
+XLIII. Enoturismo: tipo de turismo que tiene por propósito visitar y conocer zonas de cultivos y producción vinícola, así como participar en la realización de catas, eventos y festivales en torno a la cultura de la vid.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES; Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES
 
@@ -729,11 +733,17 @@ La gastronomía local se incluirá en las campañas de promoción del turismo.
 
 ARTICULO 62 TER. La Secretaría podrá actuar en coordinación con los prestadores de los servicios gastronómicos y turísticos, e instituciones educativas, para el rescate, preservación y promoción de las tradiciones gastronómicas de la Entidad.
 
-### Capítulo I. De la Prestación de Servicios Turísticos
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE MARZO DE 2025)</small>
+
+### Capítulo IX. Del Enoturismo
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2025)</small>
+
+ARTICULO 62 QUÁTER. La Secretaría y las entidades de la Administración Pública Estatal promoverán en coordinación con los municipios y el sector privado, el fomento del enoturismo.
 
 ## TITULO SEPTIMO. DE LA PRESTACION DE SERVICIOS TURISTICOS; Y LOS TURISTAS
 
-### Capítulo II. De los Turistas
+### Capítulo I. De la Prestación de Servicios Turísticos
 
 ###### ARTICULO 63.
 
@@ -825,7 +835,7 @@ XVIII. Cumplir con las medidas que en materia de protección civil se determinen
 
 XIX. Las demás que les señalen esta Ley, su Reglamento, y demás leyes aplicables en el Estado.
 
-### Capítulo I. De la Promoción y Difusión
+### Capítulo II. De los Turistas
 
 ###### ARTICULO 68.
 
@@ -865,9 +875,7 @@ VI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ## TITULO OCTAVO. DE LA PROMOCION Y DIFUSION DE LA ACTIVIDAD TURISTICA; Y DEL FIDEICOMISO PARA EL DESARROLLO DEL TURISMO
 
-### Capítulo II. Del Fideicomiso para el Desarrollo del Turismo
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+### Capítulo I. De la Promoción y Difusión
 
 ###### ARTICULO 70.
 
@@ -943,7 +951,9 @@ VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva par
 
 La Secretaría determinará el sitio de internet oficial del Estado, para la información y promoción turística estatal. La dirección electrónica del sitio de internet deberá aparecer en todos los materiales de promoción y oficiales de la Secretaría, para garantizar la uniformidad y confiabilidad de la información.
 
-### Capítulo I. De la Integración del Consejo Consultivo Estatal
+### Capítulo II. Del Fideicomiso para el Desarrollo del Turismo
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
 ###### ARTICULO 82.
 
@@ -971,7 +981,7 @@ VIII. En general, todas aquellas que permitan la realización de sus finalidades
 
 ## TITULO NOVENO. DEL CONSEJO CONSULTIVO ESTATAL; Y LOS CONSEJOS CONSULTIVOS REGIONALES MUNICIPALES
 
-### Capítulo II. De las Atribuciones del Consejo Consultivo Estatal
+### Capítulo I. De la Integración del Consejo Consultivo Estatal
 
 ###### ARTICULO 84.
 
@@ -1049,7 +1059,7 @@ Los cargos de este Consejo serán honoríficos, por lo que las personas que los 
 
 Por cada integrante del Consejo Consultivo Estatal, se nombrará un suplente.
 
-### Capítulo III. De la Integración de los Consejos Consultivos Regionales Municipales
+### Capítulo II. De las Atribuciones del Consejo Consultivo Estatal
 
 ###### ARTICULO 86.
 
@@ -1089,7 +1099,7 @@ III. Proponer el orden del día de las sesiones, y
 
 IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo.
 
-### Capítulo IV. De las Funciones de los Consejos Consultivos
+### Capítulo III. De la Integración de los Consejos Consultivos Regionales Municipales
 
 ###### ARTICULO 88.
 
@@ -1117,7 +1127,7 @@ En caso de ausencia del Presidente del Consejo, será el secretario técnico qui
 
 Los consejos consultivos regionales, a través de su representante, se coordinarán con la Secretaría para formular opiniones y propuestas respecto a cualquier problema en esta materia, en la región o municipio que corresponda.
 
-### Capítulo I. De la Verificación
+### Capítulo IV. De las Funciones de los Consejos Consultivos
 
 ###### ARTICULO 90.
 
@@ -1149,7 +1159,7 @@ X. Las demás que procedan conforme a la normatividad vigente.
 
 ## TITULO DECIMO. DE LA VERIFICACION; LAS INFRACCIONES Y SANCIONES
 
-### Capítulo II. De las Infracciones y Sanciones
+### Capítulo I. De la Verificación
 
 ###### ARTICULO 91.
 
@@ -1165,7 +1175,7 @@ Para la imposición de sanciones, las actuaciones que practique la Secretaría y
 
 Si del resultado de la visitas (sic) de verificación se detecta el incumplimiento de las disposiciones contenidas en la presente Ley, a cargo de los prestadores de bienes y servicios turísticos, la Secretaría efectuará lo conducente a fin de determinar la sanción que, en su caso, corresponda.
 
-### Capítulo Tercero. Adscripción y Ratificación de Jueces
+### Capítulo II. De las Infracciones y Sanciones
 
 ###### ARTICULO 93.
 
@@ -1444,3 +1454,11 @@ P.O. 5 DE JULIO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0178.- SE REFORMAN LAS FRACCIONES XLI, XLII DEL ARTÍCULO 4º; Y SE ADICIONA LA FRACCIÓN XLIII AL ARTÍCULO 4º Y EL CAPÍTULO IX CON EL ARTÍCULO 62 QUÁTER AL TÍTULO SEXTO, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
