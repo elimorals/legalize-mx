@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-de-la-ciudad-de-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-18"
-last_updated: "2023-12-27"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122599&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-07-10"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE MARZO DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 18 de julio de 2017.
 
@@ -1528,45 +1528,49 @@ XXIV. Aquellas que se determinen en la legislación y la normativa interna aplic
 
 ### CAPÍTULO X. DE LA DEFENSORÍA CIUDADANA
 
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2025)</small>
+
 ###### Artículo 55.
 
-El Tribunal tendrá una Defensoría Ciudadana; para efectos administrativos y orgánicos estará adscrita al Pleno. Para el desarrollo de sus funciones contará con una Oficialía de Partes.
+El Tribunal tendrá una Defensoría Ciudadana; para efectos administrativos y orgánicos estará adscrita al Pleno.
 
 La persona titular será designada en los términos establecidos en el Código.
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
-
 Las ausencias temporales de la Defensora o el Defensor Ciudadano serán cubiertas por la persona titular de la Coordinación de Asesoría, Gestión y Seguimiento; en caso de ausencia definitiva, la Magistrada o el Magistrado Presidente lo notificará al Congreso para que se lleve a cabo el nombramiento de una nueva Defensora o Defensor Ciudadano en los términos del Código.
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
-
 Los requisitos e impedimentos para ser titular de la Defensoría Ciudadana son los que se establecen en el artículo 198 del Código.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 56.
 
 Al emitir los dictámenes fundados y motivados en los que se justifique la prestación o no de los servicios, se observará lo siguiente:
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-I. En los casos de aceptación de la prestación del servicio, bastará que se establezca en el dictamen respectivo, además de las generalidades formales, la cita de los preceptos jurídicos aplicables, los datos de identificación de la persona solicitante, una breve referencia del asunto que se plantea, las causas por las cuales se acepta, el nombre de la abogada/o defensora o defensor al que se le asigna el asunto y los datos o rubros que la persona titular de la Defensoría Ciudadana determine;
+I. En los casos de aceptación de la prestación del servicio, bastará que se establezca en el dictamen respectivo, además de las generalidades formales, la cita de los preceptos jurídicos aplicables, los datos de identificación de la persona solicitante, una breve referencia del asunto que se plantea, las causas por las cuales se acepta, el nombre de la abogada defensora o abogado defensor al que se le asigna el asunto y los datos o rubros que la persona titular de la Defensoría Ciudadana determine;
 
 II. En el caso de negativa de los servicios, el dictamen deberá contener, además de lo precisado en la fracción que antecede, la justificación que sustente la negativa;
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2025)</small>
 
-Los dictámenes formarán parte del expediente del servicio y deberán ser rubricados y firmados por la o el abogado dictaminador y por la persona Titular de la Defensoría Ciudadana.
+Los dictámenes formarán parte del expediente del servicio y deberán ser rubricados y firmados por la persona que los elabore y por la persona titular de la Defensoría Ciudadana.
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 57.
 
-Las y los abogados defensores estarán adscritos a la Oficina de Defensoría de Derechos Político-Electorales y de Enlace Ciudadano.
+Las abogadas defensoras y los abogados defensores estarán a cargo de la persona titular de la Dirección de la Oficina de Defensoría de Derechos Político-Electorales y de Enlace Ciudadano.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 58.
 
 La persona titular de la Defensoría Ciudadana, además de las atribuciones establecidas en el Código, cuenta con las siguientes:
 
-I. Coordinar, con la persona titular de la Coordinación de Difusión y Publicación, la elaboración y ejecución del programa anual de difusión de los servicios de la Defensoría Pública, así como de la información que estime necesaria dar a conocer a las y los ciudadanos residentes en la Ciudad de México sobre la protección, tutela o garantía de sus derechos político-electorales;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
+
+I. Coordinar con el órgano o área competente la elaboración y ejecución del programa anual de difusión de los servicios de la Defensoría Pública, así como de la información que estime necesaria dar a conocer a la ciudadanía residente en la Ciudad de México sobre la protección, tutela o garantía de sus derechos político-electorales;
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -1574,7 +1578,9 @@ II. Emitir, por conducto de la Coordinación de Asesoría, Gestión y Seguimient
 
 III. Implementar, con el apoyo del Instituto de Capacitación, programas de formación, capacitación y sensibilización dirigidos al personal de la Defensoría Pública;
 
-IV. Promover, con el apoyo de la Coordinación de Vinculación y Relaciones Internacionales, convenios de colaboración con instituciones públicas, sociales y del sector privado, que puedan contribuir al correcto cumplimiento de las funciones de la Defensoría Pública;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
+
+IV. Promover, con el apoyo del órgano o área competente, convenios de colaboración con instituciones públicas, sociales y del sector privado, que puedan contribuir al correcto cumplimiento de las funciones de la Defensoría Pública;
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -1582,29 +1588,33 @@ V. Proponer al Pleno, por conducto de la Magistrada o el Magistrado Presidente, 
 
 VI. Las demás que le confieren las disposiciones aplicables, le encomiende el Pleno o la Magistrada o el Magistrado Presidente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 59.
 
-La persona titular de la Coordinación de Asesoría, Gestión y Seguimiento adscrita a la Defensoría Ciudadana, deberá reunir los mismos requisitos que las y los asesores ciudadanos y contará con las atribuciones siguientes:
+La persona titular de la Coordinación de Asesoría, Gestión y Seguimiento adscrita a la Defensoría Ciudadana contará con las atribuciones siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 21 DE MARZO DE 2025)</small>
 
 I. Auxiliar a la persona titular de la Defensoría Pública en el ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-II. Coordinar los trabajos del personal adscrito a la Coordinación; en específico de las y los asesores ciudadanos, abogadas/os dictaminadoras/es, y en lo que resulte aplicable a la Oficialía de Partes;
+II. Coordinar los trabajos del personal a su cargo.
 
-III. Coadyuvar con la Oficialía de Partes en la implementación y operación de los sistemas de gestión y seguimiento que se apliquen al efecto;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+III. Verificar la implementación y operación de los sistemas de gestión y seguimiento que se apliquen al efecto;
 
-IV. Revisar y suscribir las propuestas de dictámenes sobre la prestación de los servicios elaborados por las y los abogados dictaminadores, para ser sometidas a la consideración de la persona titular de la Defensoría Ciudadana;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
+
+IV. Revisar y suscribir las propuestas de dictámenes sobre la prestación de los servicios para ser sometidas a la consideración de la persona titular de la Defensoría Ciudadana;
 
 V. Coordinar y ejecutar con el personal a su cargo, la prestación de los servicios consultivos sometidos a consideración de la Defensoría Ciudadana, previo dictamen favorable;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-VI. Elaborar el Programa Anual de Difusión de los Servicios de la Defensoría Ciudadana en colaboración con las Coordinaciones de Difusión y Publicación, así como de Comunicación Social y Relaciones Públicas, y gestionar el desarrollo de los trabajos relacionados con su ejecución;
+VI. Elaborar el Programa Anual de Difusión de los Servicios de la Defensoría Ciudadana en colaboración con los órganos y áreas competentes, y gestionar el desarrollo de los trabajos relacionados con su ejecución;
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -1614,9 +1624,9 @@ VII. Elaborar los informes que deba rendir la Defensora o Defensor Ciudadano, pr
 
 VIII. Elaborar y desahogar las opiniones sobre los temas que se formulen en el ámbito de competencia de la Defensoría Ciudadana y someterlos a la consideración de la Defensora o Defensor Ciudadano;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-IX. La persona titular de la Defensoría Ciudadana en todos los temas vinculados con cursos de capacitación especializada, talleres, conferencias, campañas informativas y formativas y, en general en todo tipo de eventos académicos, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales de habitantes y ciudadanos;
+IX. La persona titular de la Defensoría Ciudadana procurará participar en los temas vinculados con cursos de capacitación especializada, talleres, conferencias, campañas informativas y formativas y, en general en todo tipo de eventos académicos, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales de habitantes y ciudadanía;
 
 X. Coordinar el Programa de Visitas a las demarcaciones territoriales, pueblos y comunidades con el objeto de difundir entre la ciudadanía la justicia abierta y los derechos político-electorales;
 
@@ -1630,11 +1640,13 @@ XII. Encargarse del control, registro y trámite de todos los temas, casos, opin
 
 XIII. Auxiliar a la Defensora o Defensor Ciudadano en la elaboración, integración y turno de los expedientes de los servicios de la Defensoría Ciudadana;
 
-XIV. Llevar la lista y el control de asistencia del personal adscrito a la Defensoría Ciudadana;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+XIV. Llevar el control de asistencia del personal adscrito a la Defensoría Ciudadana;
 
-XV. Auxiliar a la Defensora o Defensor Ciudadano en todos los temas relacionados con el Programa Operativo Anual de la Defensoría Ciudadana y con el ejercicio y comprobación de los recursos asignados;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
+
+XV. Auxiliar a la Defensora o Defensor Ciudadano en todos los temas relacionados con el Programa Operativo Anual de la Defensoría Ciudadana;
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -1646,29 +1658,33 @@ XVII. Ejercer el control de gestión administrativa de la Defensoría Ciudadana;
 
 XVIII. Las demás que le encomiende la persona titular de la Defensoría Ciudadana.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE MARZO DE 2025)</small>
 
 ###### Artículo 60.
 
-La persona titular de la Oficina de Defensoría de Derechos político-electorales y de Enlace Ciudadano, adscrita a la Defensoría Ciudadana deberá reunir los mismos requisitos que las y los asesores ciudadanos y contará con las atribuciones siguientes:
+La persona titular de la Dirección de la Oficina de Defensoría de Derechos Político-Electorales y de Enlace Ciudadano, adscrita a la Defensoría Ciudadana contará con las atribuciones siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 21 DE MARZO DE 2025)</small>
 
 I. Auxiliar a la persona titular de la Defensoría Ciudadana en el ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-II. Coordinar los trabajos del personal adscrito a la Oficina de Defensoría de derechos político-electorales y de Enlace Ciudadano y, en específico, de las y los abogados defensores;
+II. Coordinar los trabajos del personal a su cargo;
 
 III. Coordinar y ejecutar con el personal a su cargo, la prestación de los servicios jurisdiccionales de la Defensoría Ciudadana, previo dictamen favorable por parte de la Coordinación de Asesoría, Gestión y Seguimiento;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-IV. Recibir los expedientes turnados de los servicios de la Defensoría Ciudadana y distribuirlos entre las y los defensores ciudadanos para su atención;
+IV. Recibir los expedientes turnados de los servicios de la Defensoría Ciudadana y asignarlos a las y los defensores ciudadanos para su atención;
 
-V. Implementar y operar los sistemas de gestión y seguimiento de la Oficina de Defensoría de derechos político-electorales y de Enlace Ciudadano;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
+V. Implementar y operar los sistemas de gestión y seguimiento de la Oficina de Defensoría de Derechos Político-Electorales y de Enlace Ciudadano;
 
-VI. Apoyar a la persona titular de la Coordinación de Asesoría, Gestión y Seguimiento en todos los temas relacionados con el Programa Operativo Anual de la Defensoría Ciudadana y con el ejercicio y comprobación de los recursos asignados;
+> <small>(REFORMADA, G.O. 21 DE MARZO DE 2025)</small>
+
+VI. Apoyar a la persona titular de la Coordinación de Asesoría, Gestión y Seguimiento en todos los temas relacionados con el Programa Operativo Anual de la Defensoría Ciudadana;
 
 VII. Llevar el control y seguimiento de los asuntos que le sean turnados hasta que se ordene el archivo de los mismos;
 
@@ -1694,27 +1710,13 @@ III. Contar con experiencia académica o práctica en materia electoral, partici
 
 IV. Preferentemente contar con experiencia en materia litigiosa o jurisdiccional.
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
-
 ###### Artículo 62.
 
-Las y los abogados dictaminadores deberán reunir para su nombramiento, los mismos requisitos que las y los abogados defensores.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+(DEROGADO, G.O. 21 DE MARZO DE 2025)
 
 ###### Artículo 63.
 
-Las y los asesores ciudadanos adscritos a la Defensoría Ciudadana deberán reunir para su nombramiento los requisitos siguientes:
-
-I. Contar con estudios de licenciatura en Derecho;
-
-II. Tener por lo menos 25 años de edad;
-
-III. Residir en la Ciudad de México, y
-
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2018)</small>
-
-IV. Preferentemente contar con experiencia académica o práctica en materia electoral, participación ciudadana, derechos humanos, perspectiva de género o disciplinas sociales.
+(DEROGADO, G.O. 21 DE MARZO DE 2025)
 
 ### CAPÍTULO XI. DE LAS COORDINACIONES
 
@@ -2609,3 +2611,11 @@ G.O. 27 DE DICIEMBRE DE 2023.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los Estrados del Tribunal Electoral de la Ciudad de México.
 
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en los Estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
+
+G.O. 21 DE MARZO DE 2025.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE "REFORMA A LOS ARTÍCULOS 55, 56, 57, 58, 59 60 Y DEROGACIÓN DE LOS ARTÍCULOS 62 Y 63 DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO".]</small>
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los Estrados del Tribunal Electoral de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, en los Estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
