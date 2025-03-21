@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-136427"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-31"
-last_updated: "2019-05-31"
+last_updated: "2025-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-05-30"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN, PUBLICADO EN EL D.O.F. DE 21 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2025 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección al Número 33 del Diario Oficial de la Federación, el viernes 31 de mayo de 2019.
 
@@ -4208,3 +4210,21 @@ Las atribuciones del Centro de Producción de Programas Informativos Especiales,
 DÉCIMO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a las atribuciones conferidas, o a la estructura orgánica de la Secretaría de Gobernación, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Gobernación, publicado en el Diario Oficial de la Federación el 31 de mayo de 2019, y se derogan todas aquellas disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas y los órganos administrativos desconcentrados que se vean afectados con motivo de la publicación del presente Decreto, serán transferidos a la unidad administrativa que corresponda, en términos del presente, en un plazo máximo de 180 días hábiles contados a partir de su entrada en vigor.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, así como las modificaciones a las atribuciones conferidas, o a la estructura orgánica de la Secretaría de Gobernación, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados, conforme a las disposiciones jurídicas aplicables; toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
+
+QUINTO. Las menciones y atribuciones contenidas en otras leyes, reglamentos, decretos, acuerdos, reglas, manuales y, en general, en cualquier disposición normativa, respecto de los órganos administrativos desconcentrados y unidades administrativas de la Secretaría de Gobernación que se modifican por virtud del presente Decreto, se entenderán referidas a aquellos que asuman tales funciones o atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite ante las unidades administrativas u órganos administrativos desconcentrados de la Secretaría de Gobernación, cuyas atribuciones se transfieran a otras unidades administrativas u órganos administrativos desconcentrados de la Secretaría o ente público o, en su caso, se deroguen, con motivo de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas competentes que adquieren las nuevas estructuras o atribuciones, y de conformidad con los procesos en materia de rendición de cuentas y demás normativa aplicable, una vez que entre en vigor el presente Decreto.
