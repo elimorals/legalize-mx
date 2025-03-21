@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-las-personas-servidoras-publicas-164441"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-02-08"
-last_updated: "2023-02-08"
+last_updated: "2025-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS ADSCRITAS AL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE NUEVO LEON, CECYTENL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS AL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NUEVO LEÓN, CECyTENL, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS AL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NUEVO LEÓN, CECYTENL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025 (ABROGADO).
 
 Código publicado en el Número 20 del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de febrero de 2023.
 
@@ -272,3 +274,15 @@ CUARTO. El presente Código fue aprobado por la Junta Directiva en fecha seis de
 MTRO. ARAM M. GONZÁLEZ RAMÍREZ
 
 DIRECTOR GENERAL DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NUEVO LEÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS AL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente Código de Conducta de las Personas Servidoras Públicas adscritas al Colegio de Estudios Científicos y Tecnológicos del Estado de Nuevo León, CECyTENL, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Código deberá de hacerse del conocimiento de la comunidad educativa del Colegio de Estudios Científicos y Tecnológicos del Estado de Nuevo León, CECyTENL mediante la difusión del documento.
+
+TERCERO. Se abroga el Código de Conducta de Conducta (sic) de las Personas Servidoras Públicas Adscritas al Colegio de Estudios Científicos y Tecnológicos del Estado de Nuevo León, CECyTENL, publicado en el Periódico Oficial del Estado en fecha 08 de febrero de 2023.
