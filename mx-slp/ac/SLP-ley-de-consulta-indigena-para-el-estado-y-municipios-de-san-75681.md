@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-consulta-indigena-para-el-estado-y-municipios-de-san-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-08"
-last_updated: "2023-06-29"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CONSULTA INDÍGENA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de julio de 2010.
 
@@ -73,19 +73,29 @@ I. Asamblea: máxima autoridad de las comunidades indígenas;
 
 II. Autoridades indígenas: las autoridades tradicionales, sean agrarias, administrativas, civiles y ceremoniales, electas mediante los procedimientos establecidos en los sistemas normativos de las comunidades;
 
-III. CDI: Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+> <small>(REFORMADA Y REUBICADA, P.O. 21 DE MARZO DE 2025)</small>
 
-IV. CEAPI: Coordinación Estatal para la Atención de los Pueblos Indígenas;
+III. Comunidad Indígena: unidad política, social, económica y cultural; asentadas en un territorio y que reconocen autoridades propias de acuerdo a sus usos y costumbres. Dichas comunidades pueden corresponder a cualquiera de las formas de tenencia de la tierra, es decir, ejidal, comunal, o privada;
 
-V. Comunidad indígena: unidad política, social, económica y cultural; asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2025)</small>
 
-Dichas comunidades pueden corresponder a cualquiera de las formas de tenencia de la tierra, es decir, ejidal, comunal, o privada;
+IV. Consulta: procedimiento por el cual le presentan a los pueblos y comunidades indígenas, iniciativas, propuestas de planes y programas, modelos de políticas públicas y reformas institucionales, que les afectan directamente, con el propósito de conocer sus opiniones y recoger e identificar sus propuestas. Así como establecer adecuadamente, las partidas específicas destinadas al cumplimiento de las obligaciones previstas en la fracción XVI del artículo 9° de la Constitución Política del Estado, en los presupuestos de egresos que respectivamente aprueben;
 
-VI. Consulta: procedimiento por el cual le presentan a los pueblos y comunidades indígenas, iniciativas, propuestas de planes y programas, modelos de políticas públicas y reformas institucionales, que les afectan directamente, con el propósito de conocer sus opiniones y recoger e identificar sus propuestas. Así como establecer adecuadamente, las partidas específicas destinadas al cumplimiento de las obligaciones previstas en la fracción XVI del artículo 9° de la Constitución Política del Estado, en los presupuestos de egresos que respectivamente aprueben;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2025)</small>
 
-VII. Consultante: los poderes del Estado, los municipios, y las instituciones, dependencias, entidades u organismos de éstos, que se encuentren obligados a llevar a cabo las consultas con las comunidades indígenas;
+V. Consultante: los poderes del Estado, los municipios, y las instituciones, dependencias, entidades u organismos de éstos, que se encuentren obligados a llevar a cabo las consultas con las comunidades indígenas;
 
-VIII. Coordinación interinstitucional: estrategia de política pública que consiste en articular y coordinar los esfuerzos de los poderes del Estado y de los municipios, orientados a racionalizar y eficientar los recursos públicos, con el propósito de atender los rezagos sociales y construir amplios consensos entre pueblos y comunidades;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2025)</small>
+
+VI. Coordinación interinstitucional: estrategia de política pública que consiste en articular y coordinar los esfuerzos de los poderes del Estado y de los municipios, orientados a racionalizar y eficientar los recursos públicos, con el propósito de atender los rezagos sociales y construir amplios consensos entre pueblos y comunidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2025)</small>
+
+VII. INPI: Instituto Nacional de los Pueblos Indígenas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2025)</small>
+
+VIII. INDEPI: Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí;
 
 IX. Padrón de comunidades indígenas: es la nómina o listado que se hace de las comunidades indígenas, para saber sus nombres, número de población, autoridades y organización, así como sus usos y costumbres;
 
@@ -169,15 +179,23 @@ Toda consulta podrá realizarse cuando se considere necesario u obligado conform
 
 Las entidades normativas de la consulta en el Estado serán:
 
-I. En el Poder Judicial: la Comisión de Justicia Indígena del Supremo Tribunal de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
 
-II. En el Poder Ejecutivo: la Coordinación Estatal para la Atención de los Pueblos Indígenas;
+I. En el Poder Judicial: la Comisión de Justicia de Pueblos Originarios del Supremo Tribunal de Justicia en el Estado;
 
-III. En el Poder Legislativo: la Comisión de Asuntos Indígenas, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
+
+II. En el Poder Ejecutivo: Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
+
+III. En el Poder Legislativo: la Comisión de Asuntos de Pueblos y Comunidades Indígenas y Afromexicanas, y
 
 IV. En los municipios: los representantes de las comunidades indígenas ante los ayuntamientos.
 
-La asesoría técnica adjunta estará a cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2025)</small>
+
+La asesoría técnica adjunta estará a cargo del Instituto Nacional de los Pueblos Indígenas.
 
 ###### ARTICULO 12.
 
@@ -259,7 +277,9 @@ VI. Revisar los resultados de la consulta, enviarlos a las autoridades indígena
 
 La instrumentación operativa de las consultas estará a cargo de un Grupo Técnico Operativo, designado por la autoridad, institución u organismo consultante, el cual se integrará preferentemente con profesionales de diferentes disciplinas que estarán bajo su mando.
 
-El Grupo Técnico Operativo será constituido únicamente durante el periodo que duren los procesos de consulta, y podrá contar con el auxilio de consultorías técnicas y de especialistas en la materia, para asesorarse sobre la metodología e instrumental de consulta que considere pertinentes, preferentemente la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y/o de la entidad normativa.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2025)</small>
+
+El Grupo Técnico Operativo será constituido únicamente durante el periodo que duren los procesos de consulta, y podrá contar con el auxilio de consultorías técnicas y de especialistas en la materia, para asesorarse sobre la metodología e instrumental de consulta que considere pertinentes, preferentemente con el Instituto Nacional de los Pueblos Indígenas y/o de la entidad normativa.
 
 ###### ARTICULO 18.
 
@@ -289,7 +309,9 @@ II. Formular el calendario de actividades de la consulta;
 
 III. Presentar los instrumentos técnicos y metodológicos, así como la mecánica de los trabajos relacionados con la consulta;
 
-IV. Acordar con las autoridades indígenas lo relativo a las convocatorias, y coordinar junto con éstas y las instituciones estatales encargadas de atención a comunidades indígenas y, en su caso, con la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, las cuestiones logísticas conducentes;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
+
+IV. Acordar con las autoridades indígenas lo relativo a las convocatorias, y coordinar junto con éstas y las instituciones estatales encargadas de atención a comunidades indígenas y, en su caso, con el Instituto Nacional de los Pueblos Indígenas, las cuestiones logísticas conducentes;
 
 V. Hacer llegar los documentos de consulta a las autoridades indígenas, al menos con treinta días naturales de anticipación a la fecha de la consulta, y corroborar su entrega;
 
@@ -315,9 +337,11 @@ III. Encuentros de legisladores y/o funcionarios de las instituciones públicas 
 
 Las sedes de los eventos de la consulta directa serán en las localidades que las comunidades consideren, a través de sus autoridades, y los eventos complementarios de la consulta se definirán atendiendo a los criterios de volumen y densidad de población consultada, en sus regiones tradicionales de asentamiento.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 23.
 
-Para asegurar la eficiente realización del proceso de consulta, el Grupo Técnico Operativo recibirá asesoría de las entidades normativas estatales y, deberá solicitar, en su caso, la asesoría técnica de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas. En su oportunidad este grupo brindará y multiplicará la asesoría técnica y cursos de capacitación al personal de apoyo que trabajará en las sedes, previamente a la celebración de los eventos.
+Para asegurar la eficiente realización del proceso de consulta, el Grupo Técnico Operativo recibirá asesoría de las entidades normativas estatales y, deberá solicitar, en su caso, la asesoría técnica del Instituto Nacional de los Pueblos Indígenas. En su oportunidad este grupo brindará y multiplicará la asesoría técnica y cursos de capacitación al personal de apoyo que trabajará en las sedes, previamente a la celebración de los eventos.
 
 ###### ARTICULO 24.
 
@@ -404,3 +428,9 @@ P.O. 29 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0174.- SE REFORMAN LAS FRACCIONES III, IV, V, VI, VII Y VIII DEL ARTÍCULO 3, FRACCIONES I, II, III Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 11, PÁRRAFO SEGUNDO DEL ARTÍCULO 17, FRACCIÓN IV DEL ARTÍCULO 20 Y ARTICULO 23, DE LA LEY DE CONSULTA INDÍGENA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
