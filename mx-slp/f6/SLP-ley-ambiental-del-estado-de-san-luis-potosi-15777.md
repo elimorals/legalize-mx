@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2025-03-18"
+last_updated: "2025-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1533,7 +1533,9 @@ VII. Llevarán a cabo campañas para racionalizar el uso del automóvil particul
 
 VIII. Promoverán el mejoramiento del transporte urbano y suburbano, la modernización del sistema mecánico de las unidades, así como de los vehículos de servicio público de propiedad particular;
 
-IX. Establecerán y operarán con el apoyo técnico en su caso de la federación, sistemas de monitoreo de la calidad del aire.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
+
+IX. Establecerán y operarán con el apoyo técnico en su caso de la federación, sistemas de monitoreo de la calidad del aire; así mismo, realizarán revisiones periódicas del estado del equipo de monitoreo, y acciones de mantenimiento del mismo.
 
 La SEGAM concentrará los informes locales de monitoreo para su incorporación a los sistemas de información estatal y federal, de conformidad con el acuerdo de coordinación que al efecto se celebre;
 
@@ -3940,6 +3942,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0172.- REFORMAS Y ADICIONES A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0176.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 74, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
