@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2025-03-21"
+last_updated: "2025-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE MARZO DE 2025.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -1563,11 +1563,11 @@ Las sanciones impuestas por infracciones a este Reglamento y la Ley de Tránsito
 
 #### SECCIÓN I. AUTORIZACIONES DE ESTACIONAMIENTOS EXCLUSIVOS, PARA PERSONAS CON DISCAPACIDAD Y PARA ÁREAS DE TAXIS
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 70.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano podrá autorizar cajones de estacionamiento exclusivo en la vía pública para uso residencial o comercial, tomando en cuenta la factibilidad técnica y vial, previa solicitud y para lo cual deberá cumplir además con los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar cajones de estacionamiento exclusivo en la vía pública para uso residencial o comercial, tomando en cuenta la factibilidad técnica y vial, previa solicitud y para lo cual deberá cumplir además con los siguientes requisitos:
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1651,11 +1651,11 @@ IV. Por determinación, fundada y motivada, que dicte el Instituto de Planeació
 
 Las autorizaciones para cajones de estacionamiento exclusivo estarán sujetas en todo momento a las determinaciones que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, tendrán una vigencia mensual y el pago de los derechos correspondientes se hará por adelantado en una sola exhibición.
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 75.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1747,15 +1747,15 @@ Una vez efectuada la verificación de factibilidad y sin perjuicio del pago de l
 
 #### SECCIÓN II. AUTORIZACIÓN DE ALTOS DE CORTESÍA
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 77.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar Altos de Cortesía, tomando en cuenta la factibilidad técnica y vial, satisfaciendo lo siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar Altos de Cortesía, tomando en cuenta la factibilidad técnica y vial, satisfaciendo lo (sic) siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1777,15 +1777,15 @@ V. Presentar plano o croquis de ubicación.
 
 #### SECCIÓN III. AUTORIZACIÓN DE SEÑALAMIENTOS PARA ZONAS ESCOLARES
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 78.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar señalamientos para zonas escolares, conforme a los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar señalamientos para zonas escolares públicas y privadas, conforme a los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1821,15 +1821,15 @@ Los señalamientos a que se refiere la presente sección serán para ubicar una 
 
 #### SECCIÓN IV. AUTORIZACIÓN DE INSTALACIÓN DE REDUCTORES DE VELOCIDAD
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 80.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano podrá autorizar la instalación de reductores de velocidad, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar la instalación de reductores de velocidad, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1867,15 +1867,15 @@ IX. Documento que contenga las firmas de conformidad de la mayoría de los vecin
 
 #### SECCIÓN V. AUTORIZACIÓN DE SEÑALAMIENTOS PARA NUEVOS DESARROLLOS INMOBILIARIOS
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
-###### Artículo 81.
+###### ARTÍCULO 81.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar señalamientos para nuevos desarrollos inmobiliarios, conforme a los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar señalamientos para nuevos desarrollos inmobiliarios, conforme a los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1901,15 +1901,15 @@ VI. Plano de señalamientos viales.
 
 #### SECCIÓN VI. AUTORIZACIÓN DE CAMBIO DE SENTIDO DE VIALIDAD LOCAL
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 82.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar el cambio de sentido de una vialidad local, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar el cambio de sentido de una vialidad local, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1941,15 +1941,15 @@ VIII. Presentar opinión positiva del Instituto Municipal de Planeación Urbana 
 
 #### SECCIÓN VII. AUTORIZACIÓN DE PERMISO PARA ASCENSO Y DESCENSO EN LA VÍA PÚBLICA
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 83.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar permisos para ascenso y descenso en la vía pública, previo cumplimiento de los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar permisos para ascenso y descenso en la vía pública, previo cumplimiento de los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1983,15 +1983,15 @@ VIII. Presentar la licencia de funcionamiento.
 
 #### SECCIÓN VIII. AUTORIZACIÓN DE PERMISO PARA FRANJA ROJA PARA RESTRICCIÓN DE ESTACIONAMIENTO EN LA VÍA PÚBLICA
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 84.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano podrá autorizar el permiso para la colocación de franja roja, con el objetivo de restringir el estacionamiento de vehículos en la vía pública. Esta autorización estará sujeta a la factibilidad técnica y vial, y no podrá otorgarse en los lugares que expresamente se regulan en el Reglamento de Tránsito Municipal de Hermosillo. Para ello, se deberá cumplir previamente con los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar el permiso para la colocación de franja roja, con el objetivo de restringir el estacionamiento de vehículos en la vía pública. Esta autorización estará sujeta a la factibilidad técnica y vial, y no podrá otorgarse en los lugares que expresamente se regulan en el Reglamento de Tránsito Municipal de Hermosillo. Para ello, se deberá cumplir previamente con los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -2025,15 +2025,15 @@ VIII. Documento que contenga las firmas de conformidad del 100 por ciento de los
 
 #### SECCIÓN IX. AUTORIZACIÓN DE MODIFICACIÓN GEOMÉTRICA DE LA VIALIDAD
 
-> <small>(REFORMADO PRIMER PRIMERO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE MARZO DE 2025)</small>
 
-###### Artículo 85.
+###### ARTÍCULO 85.
 
-La Dirección General de Ordenamiento y Desarrollo Urbano, podrá autorizar la modificación geométrica de la vialidad, tomando en cuenta la factibilidad técnica y vial, previo cumplimiento de los siguientes requisitos:
+La Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, podrá autorizar la modificación geométrica de la vialidad, tomando en cuenta la factibilidad técnica y vial, previo cumplimiento de los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Ordenamiento y Desarrollo Urbano y medios electrónicos;
+I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización y medios electrónicos;
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -2173,15 +2173,15 @@ Son causales de suspensión del trámite:
 
 I.- La falta de información anexa a la solicitud del trámite, que permita al servidor público determinar que ha cumplido con los requisitos que le imponen este Reglamento y demás disposiciones legales, reglamentarias o normativas aplicables; o
 
-> <small>(REFORMADA, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, B.O. 24 DE MARZO DE 2025)</small>
 
-II. El requerimiento de información adicional solicitado por la Dirección General de Ordenamiento y Desarrollo Urbano, o por la instancia competente que gestione el procedimiento, según corresponda al trámite en cuestión.
+II. El requerimiento de información adicional solicitado por la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización, o por la instancia competente que gestione el procedimiento, según corresponda al trámite en cuestión.
 
-> <small>(REFORMADO, B.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 96.
 
-El plazo que tiene la o el solicitante para subsanar las omisiones que hayan producido la suspensión de un trámite, será de diez días hábiles. La o el interesado, justificando las razones, podrá solicitar a la Dirección General de Ordenamiento y Desarrollo Urbano o ante quien se lleve el trámite, según el trámite que corresponda, la ampliación de diez días hábiles adicionales, la que podrá autorizar dicha ampliación por una única ocasión.
+El plazo que tiene la o el solicitante para subsanar las omisiones que hayan producido la suspensión de un trámite, será de diez días hábiles. La o el interesado, justificando las razones, podrá solicitar a la Dirección General de Desarrollo de Infraestructura, por conducto de la Dirección de Vialidad y Semaforización o ante quien se lleve el trámite, según el trámite que corresponda, la ampliación de diez días hábiles adicionales, la que podrá autorizar dicha ampliación por una única ocasión.
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
@@ -2544,3 +2544,11 @@ La Tesorería Municipal y Oficialía Mayor, para el cumplimiento de las atribuci
 ###### ARTÍCULO QUINTO.
 
 En un término de 90 días hábiles el Órgano de Control y Evaluación Gubernamental, deberá coordinar los trabajos para la emisión de los anteproyectos de los manuales de organización y procedimientos que habrá de autorizar en definitiva el Ayuntamiento.
+
+B.O. 24 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO MUNICIPAL".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente modificación reglamentaria entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
