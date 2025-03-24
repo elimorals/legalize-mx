@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2023-12-08"
+last_updated: "2025-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -127,17 +127,25 @@ XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la
 
 XVII. Empoderamiento de las Mujeres: es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
 
-XVIII. Servicio Reeducativo: el servicio reeducativo para personas agresoras, es el proceso mediante el cual se trabaja individua (sic) y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades, como son los estereotipos de supremacía masculina, los patrones machistas y cualquier otra forma que implique opresión y subordinación; a través de servicios integrales, especializados, gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres y que, en su caso, busque la reinserción social de la persona agresora;
+XVIII. Servicio Reeducativo: el servicio reeducativo para personas agresoras, es el proceso mediante el cual se trabaja individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades, como son los estereotipos de supremacía masculina, los patrones machistas y cualquier otra forma que implique opresión y subordinación; a través de servicios integrales, especializados, gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres y que, en su caso, busque la reinserción social de la persona agresora;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
 
-XIX. Alerta de Violencia de Género contra las Mujeres: conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado; y
+XIX. Alerta de Violencia de Género contra las Mujeres: conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
 
-XX. Relación de noviazgo: Vinculación afectiva entre dos personas que se sienten atraídas mutuamente; que pueden tener o no la intención de contraer matrimonio pero que por mutuo acuerdo conviven de manera consuetudinaria, teniendo la oportunidad de conocerse y compartir experiencias de vida.
+XX. Relación de noviazgo: Vinculación afectiva entre dos personas que se sienten atraídas mutuamente; que pueden tener o no la intención de contraer matrimonio pero que por mutuo acuerdo conviven de manera consuetudinaria, teniendo la oportunidad de conocerse y compartir experiencias de vida;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+
+XXI. Tecnologías de la información y la comunicación: son aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+
+XXII. Contexto de violencia: La exposición a una constante y sistemática violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular, roles o estereotipos socialmente atribuidos o por asumir públicamente su orientación sexual, o por cualquier otro motivo de discriminación.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -223,13 +231,19 @@ VII. Violencia Feminicida: Es la forma extrema de violencia de género contra la
 
 En los casos de feminicidio se aplicarán las sanciones previstas en la legislación penal sustantiva.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2025)</small>
 
-VIII. Violencia digital: Es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+VIII. Violencia digital: Es toda acción dolosa realizada mediante el uso de tecnologías de la información, la comunicación y de Inteligencia Artificial Generativa, por la que se elabore, edite, altere, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie, comparta o genere imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+
 Se entenderá por tecnologías de la información y la comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
 La violencia digital será sancionada en la forma y términos que establezca el Código Penal para el Estado de Nuevo León;
 
@@ -311,15 +325,13 @@ IV. En el de las instituciones públicas y privadas; y
 
 V. En el digital y mediático.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2025)</small>
 
 ###### Artículo 8.
 
-Para los efectos de esta Ley y en correlación con las leyes aplicables, la violencia familiar, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar, cuando el individuo que la ejerce, tiene o ha tenido relación de parentesco por consanguinidad, afinidad o civil, o en cualquier otra relación afectiva de hecho.
+Para los efectos de esta Ley y en correlación con las leyes aplicables, la violencia familiar, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar, cuando el individuo que la ejerce, tiene o ha tenido relación de parentesco por consanguinidad, afinidad, de matrimonio, concubinato o mantengan o hayan mantenido cualquier otra relación afectiva de hecho.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
-
-También se considerará violencia familiar, la que se genere en el noviazgo.
+También se considerará violencia familiar, la que se genere en el noviazgo y cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
 ###### Artículo 9.
 
@@ -339,9 +351,11 @@ Constituyen violencia docente, las conductas que dañen la autoestima de las alu
 
 La violencia en la comunidad son los actos individuales o colectivos que transgreden los derechos humanos de las mujeres, y propician su denigración, discriminación, marginación o exclusión en el ámbito público o privado.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2025)</small>
+
 ###### Artículo 13.
 
-La violencia institucional son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+La violencia institucional son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 ###### Artículo 14.
 
@@ -391,9 +405,11 @@ VII. Dar seguimiento a las políticas públicas dirigidas a prevenir, atender y 
 
 ### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2025)</small>
+
 ###### Artículo 15.
 
-Los modelos de prevención, atención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia, como una obligación del Estado y de los Municipios de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos; para ello, al formularse, deberán tener como objetivo:
+Los modelos de prevención, atención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones para proteger a las víctimas de todo tipo de violencia, como una obligación del Estado y de los Municipios de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos, considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado para ello, al formularse, deberán tener como objetivo:
 
 I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida y lograr que la sociedad perciba ya sea como conductas antisociales, violación a los derechos humanos, de salud o de seguridad pública, todo tipo de violencia contra ellas por motivos de género;
 
@@ -430,6 +446,10 @@ VIII. Establecer en sus portales de internet o en micrositios información relat
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
 
 IX. Generar y proponer a las instituciones educativas de todos los niveles escolares estrategias de prevención contra cualquier tipo de violencia, incluida la de género, a fin de fomentar desde la infancia la concientización de las conductas que la provocan.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2025)</small>
+
+Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
 
 ###### Artículo 16.
 
@@ -549,9 +569,9 @@ Las órdenes de protección serán de oficio tratándose de niñas, niños y ado
 
 Deberán otorgarse de oficio, a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o infancias, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2025)</small>
 
-En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Nuevo León, la Comisión Estatal Electoral Nuevo León y el Instituto Estatal de las Mujeres, podrán solicitar a las autoridades competentes el otorgamiento de las órdenes de protección que se refieren en el presente Capítulo.
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Nuevo León, el Instituto Estatal Electoral y de Participación Ciudadana de Nuevo León, el Instituto Estatal Electoral y de Participación Ciudadana de Nuevo León y la Secretaría de las Mujeres, podrán solicitar a las autoridades competentes el otorgamiento de las órdenes de protección que se refieren en el presente Capitulo. Así mismo, la Fiscalía Especializada en Delitos Electorales del Estado de Nuevo León, deberá ordenar de oficio de manera fundada y motivada, la aplicación de las medidas de protección idóneas y proporcionales al caso concreto, en términos de las disposiciones jurídicas conducentes, en el momento que tenga conocimiento de manera formal por parte de la víctima de algún hecho constitutivo de violencia política contra las mujeres en razón de género, de conformidad con las conductas tipificadas en la Ley General en Materia de Delitos Electorales.
 
 > <small>[N. DE E. VÉASE LA LITERALIDAD DEL P.O. 10 DE JUNIO DE 2022, PÁGINA. 44.]</small>
 
@@ -915,6 +935,20 @@ Tratándose de niñas y niños en situación de riesgo o violencia, las medidas 
 
 La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Nuevo León, deberá solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2025)</small>
+
+###### Artículo 24 Bis 14.
+
+Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, el Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales, o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso, se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de internet en donde se encuentre alojado el contenido y la localización precisa del contenido en internet, señalando el localizador uniforme de recursos.
+
+La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo con las características del mismo y deberá proteger los datos personales de las víctimas conforme a lo establecido en las leyes en la materia.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en este artículo deberá celebrarse la audiencia. En que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas considerando la información disponible, así como la irreparabilidad del daño.
+
 ### CAPÍTULO V. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 25.
@@ -1037,13 +1071,17 @@ XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las m
 
 XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones, para garantizar su seguridad y su integridad;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos y de ciudadanía de las mujeres, mismos que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas, y
+XIII. Diseñar un modelo integral de atención a los derechos humanos y de ciudadanía de las mujeres, mismos que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
 
-XIV. Diseñar y actualizar las bases que deberán instrumentar las instituciones u organizaciones que ofrezcan el servicio reeducativo.
+XIV. Diseñar y actualizar las bases que deberán instrumentar las instituciones u organizaciones que ofrezcan el servicio reeducativo; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+
+XV. Promover campañas de capacitación laboral, con el fin de facilitar la inserción en el trabajo a mujeres víctimas de violencia. Además deberán priorizar que estos centros laborales se encuentren ubicados de forma accesible o cerca de sus domicilios.
 
 ###### Artículo 29.
 
@@ -1122,6 +1160,10 @@ XXVI. Celebrar convenios de cooperación, coordinación y concertación en la ma
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2022)</small>
 
 XXVII. Impulsar programas que promuevan la igualdad salarial entre mujeres y hombres, y eviten todo tipo de discriminación laboral;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+
+XXVII Bis. Las actuaciones y diligencias relacionadas con delitos en materia de violencia de género, realizadas por las autoridades, deberán atender al análisis de contexto de violencia del entorno de las víctimas y de perspectiva de género;
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
@@ -1641,9 +1683,17 @@ III. Promover la atención a víctimas por parte de las diversas instituciones d
 
 IV. Proporcionar a las víctimas la atención médica, psicológica y jurídica que requieran, de manera integral, gratuita y expedita;
 
-V. Proporcionar un refugio a las víctimas, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
 
-VI. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.
+V. Proporcionar un refugio a las víctimas;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
+
+VI. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+
+VII. Recibir información veraz y suficiente en formatos accesibles que les permite decidir sobre las opciones de atención.
 
 ###### Artículo 45.
 
@@ -1711,7 +1761,9 @@ II. Velar por la seguridad de las víctimas, sus hijas e hijos, o bien, de las n
 
 III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría y asistencia jurídica gratuita;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
+
+IV. Dar información en formatos accesibles a las víctimas sobre las instituciones encargadas de prestar asesoría y asistencia jurídica gratuita;
 
 V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
@@ -1719,9 +1771,9 @@ V. Brindar a las víctimas la información necesaria que les permita decidir sob
 
 VI. Permitir la permanencia de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, debiendo también proporcionarles a ellas y ellos la atención necesaria para su recuperación física y psicológica.
 
-> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
 
-VII. Contar con el personal debidamente capacitado y especializado en la materia; y
+VII. Contar con el personal debidamente capacitado y especializado en perspectiva de género, derechos humanos, con enfoque diferenciado, interculturalidad e interseccionalidad; y
 
 VIII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
@@ -2262,3 +2314,9 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 459. SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 5, SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 5 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 8, Y SE ADICIONA UN CAPÍTULO II BIS DENOMINADO "DE LA VIOLENCIA EN EL NOVIAZGO" CONFORMADO POR LOS ARTÍCULOS 14 BIS 1 Y 14 BIS 2 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 24 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 084. SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 5, ARTÍCULO 6, ARTÍCULO 8, ARTÍCULO 13, PRIMER PÁRRAFO DEL ARTÍCULO 15, TERCER PÁRRAFO DEL ARTÍCULO 18, LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 28, LAS FRACCIONES V Y VI DEL ARTÍCULO 44, LAS FRACCIONES IV Y VII DEL ARTÍCULO 50; Y SE ADICIONAN LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 5, UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 15, UN ARTÍCULO 24 BIS 14, UNA FRACCIÓN XV DEL ARTÍCULO 28, LAS FRACCIONES XIX BIS Y XXVII BIS DEL ARTÍCULO 31 Y LA FRACCIÓN VII DEL ARTÍCULO 44 TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
