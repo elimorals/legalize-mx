@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2024-09-27"
+last_updated: "2025-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MARZO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -180,11 +180,11 @@ Queda expresamente prohibida la caza y captura de cualquier especie de fauna sil
 
 Las autoridades de la Ciudad de México deben auxiliar a las federales para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, conforme a la ley en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2025)</small>
 
 ###### Artículo 4.
 
-Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental de Protección a la Tierra en la Ciudad de México, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección a los animales en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
+Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental de Protección a la Tierra en la Ciudad de México, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección y bienestar animal en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
 
 > <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
@@ -393,6 +393,10 @@ XXV BIS 5. Etólogo. Persona capacitada para dar tratamiento ante posibles probl
 > <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
 
 XXV BIS 6. Eutanasia: procedimiento aplicado para terminar con la vida de algún animal, por medio de la administración de agentes químicos que induzcan primero pérdida de la conciencia, seguida de paro cardiorrespiratorio, sin producirles dolor ni ansiedad, con el fin de que dicho animal deje de sufrir por lesiones que no puedan ser atendidas y que le provoque dolor o sufrimiento que no puedan ser aliviados o por enfermedades graves e incurables que no puedan ser atendidas, o por problemas conductuales que pongan su vida o la de otros en peligro, conforme a un diagnóstico que emita un médico veterinario zootecnista que cuente con una especialización o certificación comprobable en la materia de etología;
+
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2025)</small>
+
+XXV Bis 7. Espectáculo taurino sin violencia. La realización de corridas de toros, novilladas, rejoneo, becerradas, festivales taurinos y tientas en las que no se cause ningún tipo de lesión a los animales ni se les provoque la muerte durante o después del evento.
 
 > <small>(REFORMADA, G.O. 7 DE JUNIO DE 2024)</small>
 
@@ -1414,11 +1418,23 @@ XXI. Vender animales vivos en mercados públicos o en todos aquellos lugares que
 
 XXII. Realizar eutanasia en los Centros de Atención Canina y Felina o en las Clínicas Veterinarias en las Alcaldías con las excepciones estipuladas en los artículos 10 fracción II y 51 de la presente Ley.
 
-Quedan exceptuadas de las disposiciones establecidas en las fracciones I, III y VII del artículo 24 y del artículo 54 de la presente Ley, las corridas de toros, novillos y becerros, así como las peleas de gallos, las que habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2025)</small>
 
-Las excepciones que establece el párrafo inmediato anterior, respecto a Corridas de Toros, Novillos, Jaripeos, Charreadas, Carrera de Caballos o Perros; espectáculos de adiestramiento, entretenimiento familiar, ferias y exposiciones en que sean víctimas de abuso o maltrato los animales, se atenderá a petición de parte o denuncia ciudadana ante el Juzgado Cívico correspondiente o autoridad competente. Los actos de zoofilia podrán ser denunciados ante las instancias judiciales ministeriales competentes.
+Quedan exceptuadas de las disposiciones establecidas en las fracciones I, III y VII del artículo 24 y del artículo 54 de la presente Ley, las peleas de gallos, jaripeos, charreadas, carrera de caballos o perros y espectáculos de adiestramiento, entretenimiento familiar, ferias y exposiciones, las que habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2025)</small>
+
+Las excepciones que establece el párrafo inmediato anterior, respecto a peleas de gallos, jaripeos, charreadas, carrera de caballos o perros; espectáculos de adiestramiento, entretenimiento familiar, ferias y exposiciones en que sean víctimas de abuso o maltrato los animales, se atenderá a petición de parte o denuncia ciudadana ante el Juzgado Cívico correspondiente y autoridad competente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE MARZO DE 2025)</small>
+
+Los actos de zoofilia deberán ser denunciados ante las instancias ministeriales competentes.
 
 En los espectáculos de adiestramiento, entretenimiento familiar, ferias y exposiciones a que se hace referencia en el párrafo anterior, en todo momento se deberá garantizar el bienestar animal.
+
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2025)</small>
+
+XXII Bis. La realización de espectáculos taurinos con toros, novilladas, rejoneo, becerradas, festivales taurinos y tientas en las que se le causen lesiones de cualquier tipo a los animales o se les provoque la muerte durante o después del evento.
 
 > <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
 
@@ -2220,9 +2236,9 @@ Las sanciones por las infracciones cometidas por la violación a las disposicion
 
 I. Corresponde a la Secretaría de Salud, en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos veces la Unidad de Medida y Actualización vigente, por violaciones a lo dispuesto en los artículos 24, fracciones II, III, IX y X, 25 fracción XIV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE MARZO DE 2025)</small>
 
-II. Corresponde a las Alcaldías, a través de su respectiva Dirección General Jurídica y de Gobierno, en el ámbito de sus competencias, observando el procedimiento regulado por el artículo 56 párrafo primero de la presente Ley, imponer, sin perjuicio de las sanciones reguladas en otras Legislaciones, aplicables las sanciones siguientes:
+II. Corresponde a las Alcaldías, a través de su respectiva Dirección General Jurídica y de Gobierno, en el ámbito de sus competencias, observando el procedimiento regulado por el artículo 56 párrafo primero de la presente Ley, imponer, sin perjuicio de las sanciones reguladas en otras Legislaciones aplicables, las sanciones siguientes:
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -2235,6 +2251,10 @@ b) Multa de 1 a 150 veces la Unidad de Medida y Actualización vigente, por viol
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
 c) Multa de 1500 a 3000 veces la Unidad de Medida y Actualización vigente, por establecer o administrar un refugio sin contar con la debida autorización o incumpliendo los requisitos establecidos en la normatividad aplicable, así como por violaciones a lo dispuesto por el artículo 25, fracciones II, VII, XV, XXIII y XXIV de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2025)</small>
+
+d) Multa de 2000 a 3000 veces la unidad de medida y actualización vigente por cada animal lesionado o muerto, en caso de violación a lo dispuesto en la fracción XXII Bis del artículo 25, sin perjuicio de las sanciones contenidas en las demás disposiciones legales aplicables;
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2917,3 +2937,17 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su pro
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Dentro de los 90 días hábiles siguientes a la publicación del presente decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+G.O. 25 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXV BIS 7, DEL ARTÍCULO 4; SE REFORMAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCIÓN XXII, Y SE ADICIONA LA FRACCIÓN XXII BIS, DEL ARTÍCULO 25; SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA EL INCISO D) A LA FRACCIÓN II DEL ARTÍCULO 65, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DE LA CIUDAD DE MÉXICO Y SE ADICIONA LAS FRACCIONES III BIS, X BIS Y X TER AL ARTÍCULO 4; SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 13; SE REFORMA EL ARTÍCULO 42; SE REFORMAN LAS FRACCIONES I, II, IV PRIMER PÁRRAFO, V, VI Y VIII DEL ARTÍCULO 43; SE REFORMA EL ARTÍCULO 44; SE REFORMA EL PRIMER PÁRRAFO, LAS FRACCIONES III Y IV DEL ARTÍCULO 45; SE REFORMAN LOS ARTÍCULOS 47 Y 48; SE ADICIONAN LOS ARTÍCULOS 48 BIS, 48 TER Y 48 QUÁTER; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 82; TODOS, DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Túrnese a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 210 días naturales posteriores a la entrada en vigor del presente decreto, el Gobierno de la Ciudad de México expedirá un nuevo reglamento que establezca los lineamientos para la realización de espectáculos de taurinos, con base en la normatividad aplicable y vigente en la Ciudad de México.
+
+CUARTO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Congreso de la Ciudad de México realizará la actualización y armonización de la legislación aplicable.
+
+QUINTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
