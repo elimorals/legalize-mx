@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2025-01-29"
+last_updated: "2025-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -4809,9 +4809,9 @@ Para los efectos del presente título, por fraccionar, debe entenderse cualquier
 
 Las conductas anteriormente señaladas se sancionarán en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2025)</small>
 
-I.- De cuatro a doce años de prisión y de mil ochocientos hasta tres mil días multa, por lo que hace a las conductas previstas en las fracciones I, III, IV, V, del artículo inmediato anterior.
+I.- De cuatro a doce años de prisión y de mil ochocientos hasta tres mil días multa, por lo que hace a las conductas previstas en las fracciones I, III, IV, V y VII del artículo inmediato anterior;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -5760,3 +5760,11 @@ P.O. 29 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 25 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 114 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 269 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
