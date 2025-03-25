@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2025-03-08"
+last_updated: "2025-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1308,6 +1308,10 @@ X. Los relativos a la protección de los animales;
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 XI. Los relacionados con el desarrollo sustentable; entendiéndose este concepto como la interrelación de los factores económico, social y ambiental;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2025)</small>
+
+XI Bis. Emitir convocatoria pública para la realización del "Parlamento Abierto de Liderazgo Ambiental";
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -4784,3 +4788,13 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo (sic), así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 25 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 166 POR EL QUE "SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 74 RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES SUBSECUENTES DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los artículos primero, segundo y tercero del presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El artículo cuarto del presente Decreto entrará en vigor al momento de su aprobación, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
