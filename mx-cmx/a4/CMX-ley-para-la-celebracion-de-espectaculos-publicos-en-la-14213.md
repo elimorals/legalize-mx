@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2021-03-02"
+last_updated: "2025-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MARZO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -80,6 +80,10 @@ II. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 III. Aviso: El acto por medio del cual las personas físicas o morales calificadas como titulares por la Ley de Establecimientos Mercantiles en el Distrito Federal, notifican a la Alcaldía la celebración de algún evento en los establecimientos mercantiles que cuentan con licencia de funcionamiento para la presentación permanente de eventos artísticos, teatrales, culturales, musicales, deportivos, taurinos o cinematográficos, en locales con aforo para más de 100 personas;
 
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2025)</small>
+
+III Bis. Espectáculo taurino sin violencia. La realización de corridas de toros, novilladas, rejoneo, becerradas, festivales taurinos y tientas en las que no se cause ningún tipo de lesión a los animales ni se les provoque la muerte durante o después del evento.
+
 IV. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 > <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
@@ -111,6 +115,14 @@ IX. Ley: La presente Ley para la Celebración de Espectáculos Públicos aplicab
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
 X. Permiso: El acto administrativo que emite la Alcaldía, para que una persona física o moral pueda celebrar un Espectáculo público en un lugar que no cuente con licencia de funcionamiento para esos efectos;
+
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2025)</small>
+
+X Bis. Persona torera. Quien de forma diestra o hábil realiza acciones para llamar la atención del toro o novillo y efectúa diversas suertes de forma gallarda o desenvuelta, sin causarle lesiones o la muerte al animal;
+
+> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2025)</small>
+
+X Ter. Persona rejoneadora. Quien de forma diestra o hábil realiza acciones a caballo para llamar la atención del toro o novillo y efectúa diversas suertes de forma gallarda o desenvuelta, sin causarle lesiones o la muerte al animal;
 
 XI. Secretaría: La Secretaría de Gobierno de la Administración;
 
@@ -360,7 +372,9 @@ Para los efectos de lo dispuesto en la Ley, los Espectáculos públicos que se c
 
 I. Espectáculos deportivos;
 
-II. Espectáculos taurinos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 25 DE MARZO DE 2025)</small>
+
+II. Espectáculos taurinos sin violencia;
 
 III. Espectáculos musicales, teatrales, artísticos, culturales o recreativos;
 
@@ -682,11 +696,15 @@ En los Espectáculos deportivos en que participen equipos profesionales de tres 
 
 La Comisión del Espectáculo deportivo de que se trate nombrará a un comisionado que vigilará el cumplimiento del reglamento correspondiente.
 
-### CAPÍTULO II. De los Espectáculos Taurinos
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MARZO DE 2025)</small>
+
+### CAPÍTULO II. De los espectáculos taurinos sin violencia
+
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2025)</small>
 
 ###### Artículo 42.
 
-Para la presentación de Espectáculos taurinos se deberá observar, además de lo previsto en la Ley, las disposiciones del reglamento correspondiente.
+Para la presentación de Espectáculos taurinos sin violencia se deberá observar, además de lo previsto en la Ley, las disposiciones del reglamento correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -694,11 +712,11 @@ Para la presentación de Espectáculos taurinos se deberá observar, además de 
 
 Además de cumplir con lo dispuesto por el Capítulo IV del Título Segundo, en este tipo de Espectáculos públicos la venta de derechos de apartado sólo la podrá hacer el Titular registrado y autorizado por la Alcaldía, sujetándose a los siguientes criterios:
 
-> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2025)</small>
 
-I. Únicamente se permitirá la venta, si el titular demuestra haber cumplido con los requisitos que lo obligan a iniciar la temporada en el mes de octubre o a más tardar el segundo domingo de noviembre con un mínimo de doce corridas ininterrumpidas. Previamente al inicio de la temporada se deberán dar por lo menos doce novilladas, pudiendo iniciarlas a partir de la primer semana de marzo;
+I. Únicamente se permitirá la venta, si el titular demuestra haber cumplido con los requisitos que lo obligan a iniciar la temporada en el mes de octubre o a más tardar el segundo domingo de noviembre con un mínimo de doce espectáculos taurinos sin violencia ininterrumpidos. Previamente al inicio de la temporada se deberán dar por lo menos doce novilladas, pudiendo iniciarlas a partir de la primera semana de marzo;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 25 DE MARZO DE 2025)</small>
 
 II. Se concederá preferencia para la adquisición del derecho de apartado a quienes lo hayan utilizado en la temporada anterior. Cualquier problema que surja en las taquillas, será resuelto en definitiva por la Alcaldía;
 
@@ -706,43 +724,53 @@ II. Se concederá preferencia para la adquisición del derecho de apartado a qui
 
 III. La Alcaldía podrá revisar en todo momento los documentos en que conste el nombre del tenedor del derecho de apartado y ordenar la cancelación de los derechos de apartado, cuando compruebe que son o han sido origen de una transferencia ilegal, y
 
-IV. Para poder vender el derecho de apartado el Titular deberá anunciar completo el elenco de matadores de toros, con especificación del número de corridas en que actuarán y las ganaderías contratadas, con detalle del número de encierros que a cada una corresponda; pero no podrá hacer el anuncio de elementos pendientes de contrato.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE MARZO DE 2025)</small>
+
+IV. Para poder vender el derecho de apartado el Titular deberá anunciar completo el elenco de las personas toreras, con especificación del número de espectáculos taurinos sin violencia en que actuarán y las ganaderías contratadas, con detalle del número de encierros que a cada una corresponda; pero no podrá hacer el anuncio de elementos pendientes de contrato.
 
 Los contratos correspondientes al número de encierros anunciados en el derecho de apartado deberán celebrarse con los ganaderos cuando menos con noventa días hábiles de anticipación a la venta del derecho de apartado; en tanto que los contratos de los Participantes que intervengan, deberán celebrarse cuando menos con quince días hábiles de anticipación a la venta señalada. Lo anterior no será aplicable cuando se trate de novilladas;
 
-V. En el mínimo de doce corridas de toros que debe comprender una temporada formal no se incluirán las que tengan carácter extraordinario; sin embargo, en éstas también se deberán respetar los derechos de los tenedores de apartados;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2025)</small>
 
-VI. El derecho de apartado es personal, pero podrá transferirse mediante el pago de los derechos correspondientes. Dará preferencia a su tenedor para la adquisición del boleto de entrada al Espectáculo público hasta dos días antes de la celebración del mismo;
+V. En el mínimo de doce espectáculos taurinos sin violencia de toros que debe comprender una temporada formal no se incluirán las que tengan carácter extraordinario; sin embargo, en éstas también se deberán respetar los derechos de los tenedores de apartados;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2025)</small>
+
+VI. El derecho de apartado es personal, pero podrá transferirse mediante el pago de los derechos correspondientes. Dará preferencia a su tenedor para la adquisición del boleto de entrada al espectáculo taurino sin violencia hasta dos días antes de la celebración del mismo;
 
 VII. Los tenedores de derechos de apartado podrán hacer uso de éste también en las novilladas y adquirir sus boletos con dos días de anticipación. El Titular dispondrá lo necesario para que se cumpla esta disposición, y
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2025)</small>
 
-VIII. El Titular deberá otorgar una fianza a favor de la Tesorería de la Ciudad de México por cada temporada, serie de corridas, novilladas o festejos, a efecto de garantizar el cumplimiento de las obligaciones que contraiga; así como el pago de multas por violaciones a la Ley y sus disposiciones reglamentarias, cuyos términos y condiciones serán fijados por la Secretaría de Administración y Finanzas.
+VIII. El Titular deberá otorgar una fianza a favor de la Tesorería de la Ciudad de México por cada temporada, serie de espectáculos taurinos sin violencia, a efecto de garantizar el cumplimiento de las obligaciones que contraiga; así como el pago de multas por violaciones a la Ley y sus disposiciones reglamentarias, cuyos términos y condiciones serán fijados por la Secretaría de Administración y Finanzas.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2025)</small>
 
-En caso de fuerza mayor debidamente comprobada, la Alcaldía podrá autorizar alteraciones en el elenco anunciado al abrirse el derecho de apartado.
+En caso de fuerza mayor debidamente comprobada, la Alcaldía podrá autorizar cambios en el elenco anunciado al abrirse el derecho de apartado.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2025)</small>
 
 ###### Artículo 44.
 
-El Titular no podrá disponer de la recaudación de cada corrida, novillada o festival, sino hasta que la Alcaldía correspondiente considere que éstos han concluido y declare que el compromiso contraído por el Titular con el público se ha cumplido del todo, a menos que otorgue una fianza previa para este propósito. El Titular, para los efectos de este artículo, se considera depositario de la recaudación de cada corrida, novillada o festival.
+El Titular no podrá disponer de la recaudación de cada espectáculo taurino sin violencia, sino hasta que la Alcaldía correspondiente considere que éstos han concluido y declare que el compromiso contraído por el Titular con el público se ha cumplido del todo, a menos que otorgue una fianza previa para este propósito. El Titular, para los efectos de este artículo, se considera depositario de la recaudación de cada espectáculo taurino sin violencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2025)</small>
 
 ###### Artículo 45.
 
-Cuando se trate de festejos comprendidos en una temporada para la cual se haya abierto derecho de apartado, o bien de festejos aislados, el Titular tendrá la obligación de presentar a la Alcaldía, con cuatro días hábiles de anticipación a la celebración del festejo de que se trate, lo siguiente:
+Cuando se trate de espectáculos taurinos sin violencia comprendidos en una temporada para la cual se haya abierto derecho de apartado, o bien de espectáculos taurinos sin violencia aislados, el Titular tendrá la obligación de presentar a la Alcaldía, con cuatro días hábiles de anticipación a la celebración del espectáculo taurino sin violencia de que se trate, lo siguiente:
 
 I. Declaración escrita bajo protesta de decir verdad del o los ganaderos, en la que se expresará pinta y edad de las reses, que éstas no han sido toreadas y que no han sido objeto de manipulaciones o alteraciones que pudieran modificar sus astas o disminuir su poder o vigor;
 
 II. Reseña de las reses que habrán de lidiarse, autorizadas por el Juez de Plaza y con la opinión de los Veterinarios;
 
-III. Programa con las fechas en que se deseen realizar los festejos y con el elenco completo de espadas y subalternos;
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2025)</small>
 
-IV. Contratos respectivos celebrados con toreros, subalternos y ganaderos, y
+III. Programa con las fechas en que se deseen realizar espectáculos taurinos sin violencia y con el elenco completo de personas toreras y subalternos;
+
+> <small>(REFORMADA, G.O. 25 DE MARZO DE 2025)</small>
+
+IV. Contratos respectivos celebrados con personas toreras, subalternos y ganaderos, y
 
 V. Precio de las localidades.
 
@@ -752,33 +780,51 @@ V. Precio de las localidades.
 
 En ningún caso se permitirá la venta de boletos al público, si no ha sido aprobado el programa por la Alcaldía.
 
-> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2025)</small>
 
 ###### Artículo 47.
 
-Tratándose de actuantes extranjeros en cualquiera de las categorías de festejos que se ofrezcan al público, consideradas aisladamente cada una de ellas, aquellos no podrán exceder del cincuenta por ciento de los Participantes programados. Es decir, sin excepción, todos los carteles deberán estar integrados por el cincuenta por ciento de Participantes mexicanos como mínimo.
+Tratándose de personas toreras extranjeras en cualquiera de las categorías de espectáculos taurinos sin violencia que se ofrezcan al público, consideradas aisladamente cada una de ellas, aquellos no podrán exceder del cincuenta por ciento de los participantes programados. Es decir, sin excepción, todos los carteles deberán estar integrados por el cincuenta por ciento de personas toreras mexicanas como mínimo.
 
-Para los efectos de este artículo, los actuantes deberán someterse a cualquiera de las siguientes categorías:
+Para los efectos de este artículo, las personas toreras deberán someterse a cualquiera de las categorías señaladas en el Reglamento.
 
-a) Matadores de toros de a pie;
+En los carteles de las personas toreras en los que alternen personas rejoneadoras, éstos últimos no harán número para efectos del porcentaje de nacionalidad. En un espectáculo taurino sin violencia de personas rejoneadoras en el que actúen varios de ellos, podrán actuar personas toreras, pero éstos no harán número para efectos del porcentaje de nacionalidad. El porcentaje de participantes extranjeros se establecerá sin mezclar las categorías y en igualdad de circunstancias, respecto a la calidad de los toros o novillos que se asignan en el cartel, dado a conocer previamente para cada persona torera o rejoneadora.
 
-b) Matadores de toros de a caballo o rejoneadores;
-
-c) Matadores de novillos de a pie, y
-
-d) Matadores de novillos de a caballo o rejoneadores.
-
-En los carteles de matadores en los que alternen rejoneadores, éstos últimos no harán número para efectos del porcentaje de nacionalidad. En un festejo de rejoneadores en el que actúen varios de ellos, podrán actuar matadores, pero éstos no harán número para efectos del porcentaje de nacionalidad. El porcentaje de participantes extranjeros se establecerá sin mezclar las categorías y en igualdad de circunstancias, respecto a la calidad de los toros o novillos que se asignan en el cartel, dado a conocer previamente para cada actuante.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 25 DE MARZO DE 2025)</small>
 
 ###### Artículo 48.
 
-Las reses destinadas a la lidia en corridas de toros habrán de tener como mínimo cuatro años cumplidos y las destinadas a la lidia en novilladas con picadores, tres años cumplidos. La autoridad, a petición del Juez de Plaza o de la Comisión Taurina en la Ciudad de México, podrá valerse de cualquier método disponible para corroborar la edad de los toros previamente declarada.
+Las reses destinadas a los espectáculos taurinos sin violencia habrán de tener como mínimo cuatro años cumplidos y las destinadas a las novilladas tres años cumplidos.
 
-La autoridad, a petición del Juez de Plaza o de la Comisión Taurina del Distrito Federal, podrá valerse de cualquier método disponible para corroborar la edad de los toros previamente declarada.
+La autoridad, a petición del Juez de Plaza o de la Comisión Taurina en la Ciudad de México, podrá valerse de cualquier método disponible para corroborar la edad de los toros previamente declarada.
 
-No podrán lidiarse en corridas de toros o novilladas con picadores, reses que no estén inscritas en el Registro Obligatorio de Edades.
+No podrán torearse en los espectáculos taurinos sin violencia toros, novillos y reses que no estén inscritas en el Registro Obligatorio de Edades.
+
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2025)</small>
+
+###### Artículo 48 Bis.
+
+En los espectáculos taurinos sin violencia se prohíben las lesiones dentro y fuera del evento, así como la muerte del toro dentro y fuera de la plaza. Además, se debe garantizar la protección de su integridad física.
+
+Se deben proteger los cuernos del toro y/o novillo para prevenir lesiones a otros animales o personas.
+
+Al finalizar el espectáculo taurino sin violencia, el toro o novillo deberá ser devuelto a la ganadería o a su propietario.
+
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2025)</small>
+
+###### Artículo 48 Ter.
+
+Se prohíbe la utilización de objetos punzantes que provoquen heridas, lesiones o la muerte del toro o novillo, como la puya, banderillas, estoque, rejón, descabellos y puntillas.
+
+Solo se puede utilizar el capote y la muleta.
+
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2025)</small>
+
+###### Artículo 48 Quáter.
+
+El tiempo máximo de actuación para cada toro o novillo en el espectáculo taurino sin violencia será de 15 minutos, con un límite de 6 ejemplares por evento.
+
+La duración total del espectáculo taurino sin violencia se ajustará a lo establecido en el Reglamento.
 
 ### CAPÍTULO III. De los Espectáculos Musicales, Teatrales, Artísticos, Culturales y Recreativos
 
@@ -1320,6 +1366,10 @@ Se sancionará con el equivalente de 100 a 200 veces la Unidad de Cuenta de la C
 
 Se sancionará con el equivalente de 2000 a 4000 veces la unidad de medida y actualización, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XVII Bis, XIX y XXII; 13 bis; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
 
+> <small>(ADICIONADO, G.O. 25 DE MARZO DE 2025)</small>
+
+Se sancionará con el equivalente de 2000 a 3000 veces la unidad de medida y actualización vigente por cada animal lesionado o muerto, en caso de violación a lo dispuesto en los artículos 48 Bis, 48 Ter y 48 Quáter. Esto, sin perjuicio de las sanciones contenidas en las demás disposiciones legales aplicables;
+
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2014)</small>
 
 Se sancionará con el equivalente de 9,000 a 12,000 días multa por violaciones a lo dispuesto en la fracción XI Bis del artículo 12.
@@ -1683,3 +1733,17 @@ TERCERO.- El Reglamento de la Ley de Gestión Integral de Riesgos y Protección 
 CUARTO.- Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
 
 QUINTO.- La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
+
+G.O. 25 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXV BIS 7, DEL ARTÍCULO 4; SE REFORMAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCIÓN XXII, Y SE ADICIONA LA FRACCIÓN XXII BIS, DEL ARTÍCULO 25; SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA EL INCISO D) A LA FRACCIÓN II DEL ARTÍCULO 65, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DE LA CIUDAD DE MÉXICO Y SE ADICIONA LAS FRACCIONES III BIS, X BIS Y X TER AL ARTÍCULO 4; SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 13; SE REFORMA EL ARTÍCULO 42; SE REFORMAN LAS FRACCIONES I, II, IV PRIMER PÁRRAFO, V, VI Y VIII DEL ARTÍCULO 43; SE REFORMA EL ARTÍCULO 44; SE REFORMA EL PRIMER PÁRRAFO, LAS FRACCIONES III Y IV DEL ARTÍCULO 45; SE REFORMAN LOS ARTÍCULOS 47 Y 48; SE ADICIONAN LOS ARTÍCULOS 48 BIS, 48 TER Y 48 QUÁTER; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 82; TODOS, DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Túrnese a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 210 días naturales posteriores a la entrada en vigor del presente decreto, el Gobierno de la Ciudad de México expedirá un nuevo reglamento que establezca los lineamientos para la realización de espectáculos de taurinos, con base en la normatividad aplicable y vigente en la Ciudad de México.
+
+CUARTO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Congreso de la Ciudad de México realizará la actualización y armonización de la legislación aplicable.
+
+QUINTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
