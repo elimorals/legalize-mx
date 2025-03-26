@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2025-03-13"
+last_updated: "2025-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -161,9 +161,9 @@ XXXI. Transversalidad. Es el proceso mediante el cual se instrumentan las polít
 
 La aplicación y seguimiento de esta Ley corresponde a:
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
-I. El Poder Ejecutivo del Estado, a través de las Secretarías, Dependencias y Entidades de la Administración Pública, Centralizada y Paraestatal, especialmente los responsables de las áreas de Salud, Educación, Trabajo, Cultura, Transporte, Economía, Deporte, Turismo, Finanzas, Seguridad Pública, Asistencia Social, Procuración de Justicia, Obras Públicas, y Desarrollo Social;
+I. El Poder Ejecutivo del Estado, a través de las Secretarías, Dependencias y Entidades de la Administración Pública, Centralizada y Paraestatal, especialmente los responsables de las áreas de Salud, Educación, Trabajo, Cultura, Inclusión, Transporte, Economía, Deporte, Turismo, Finanzas, Seguridad Pública, Asistencia Social, Procuración de Justicia, Obras Públicas, y Desarrollo Social;
 
 II. El Poder Judicial del Estado, a través de los integrantes del H. Tribunal Superior de Justicia;
 
@@ -332,6 +332,30 @@ Corresponde a la Secretaría de Gobierno:
 I. Coordinar las acciones que sean necesarias para el diseño, implementación y evaluación de las políticas públicas que garanticen el pleno goce de los derechos humanos y libertades fundamentales de las personas con discapacidad;
 
 II. Promover las reformas al marco legal del Estado a fin de adecuarlo a la Convención sobre los Derechos de las Personas con Discapacidad y la Convención Interamericana para la Eliminación de Todas las Formas de Discriminación Contra las Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2025)</small>
+
+###### Artículo 9 Bis.
+
+Corresponde a la Secretaría de Inclusión promover en todos los ámbitos de la administración pública y del sector privado la atención incluyente y el reconocimiento de los derechos de las personas con discapacidad. Para tales efectos realizará las siguientes acciones:
+
+I. Formular y proponer acciones, planes, programas y políticas públicas que permitan la mejora en las condiciones de calidad de vida de las personas con discapacidad en el Estado;
+
+II. Fomentar la difusión y protección de los derechos humanos de las personas con discapacidad, con base en lo establecido en acuerdos internacionales, leyes y ordenamientos existentes;
+
+III. Elaborar propuestas y opiniones sobre instrumentos jurídicos estatales para el respeto y promoción de los derechos humanos de las personas con discapacidad;
+
+IV. Llevar a cabo talleres de sensibilización tanto al interior de la Administración Pública del Estado, como con la sociedad en general, con el objetivo de mejorar las condiciones de vida y el acceso a los derechos de las personas con discapacidad;
+
+V. Brindar capacitación al personal de Organismos Centralizados y de Entidades Paraestatales de la Administración Pública del Estado, con la finalidad de mejorar las condiciones de acceso y comunicación de éstas hacia personas usuarias con discapacidad;
+
+VI. Vigilar la implementación de acciones, así como de las normas oficiales mexicanas y demás ordenamientos jurídicos aplicables en la materia, que mejoren el acceso de las personas con discapacidad dentro de los Organismos Centralizados y Entidades Paraestatales de la Administración Pública del Estado;
+
+VII. Realizar análisis que permitan conocer el estado de carencias detectadas en personas con discapacidad, en coordinación con la Secretaría de Bienestar del Poder Ejecutivo del Estado de Campeche, conforme a lo que establece la fracción XVI del artículo 11 de la Ley de Desarrollo Social del Estado de Campeche;
+
+VIII. Proponer programas, proyectos y acciones que promuevan el desarrollo económico, político, social y cultural de las personas con discapacidad; y
+
+IX. Las demás que señalen las diversas disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
@@ -1080,3 +1104,11 @@ P.O. 13 DE MARZO DE 2025.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 68 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 Y SE ADICIONA EL ARTÍCULO 9 BIS DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
