@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2024-01-31"
+last_updated: "2025-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-13"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
+ACUERDO OBTENIDO DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/CONAPRED/Reforma_Estatuto_Organico.pdf
+
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2025.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -83,9 +85,11 @@ La interpretación del presente Estatuto recaerá en la Junta de Gobierno confor
 
 Las y los servidores públicos adscritos al Consejo prestarán sus servicios basados en la obligación de promover, respetar y garantizar los derechos humanos, en especial, en el de igualdad y no discriminación, debiéndose conducir en todo momento bajo los principios de legalidad, eficacia, eficiencia, objetividad, imparcialidad, profesionalismo, honradez, lealtad, honestidad, actitud de servicio, transparencia, rendición de cuentas y fomentando la calidad en el servicio.
 
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2025)</small>
+
 ###### Artículo 5.
 
-La información del Consejo, se clasificará en los términos de la legislación aplicable en materia de transparencia y de archivos.
+La información del Consejo se clasificará en los términos de la legislación aplicable en materia de transparencia y de archivos.
 
 ###### Artículo 6.
 
@@ -151,17 +155,17 @@ d) Dirección de Asuntos Jurídicos;
 
 e) Dirección de Planeación, Administración y Finanzas;
 
-> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
-
-f) Dirección de Apoyo a Órganos Colegiados;
+f) (DEROGADO, D.O.F. 26 DE MARZO DE 2025)
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
 
 g) Subdirección de Comunicación Social;
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2025)</small>
 
-h) Subdirección de Gestión, y
+h) Subdirección de Gestión y Apoyo a Órganos Colegiados, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 26 DE MARZO DE 2025)</small>
 
 i) Órgano Interno de Control.
 
@@ -209,11 +213,11 @@ Las sesiones de la Junta de Gobierno requerirán para su validez de la asistenci
 
 Si no se lograse el quórum requerido, la Presidencia de la Junta de Gobierno dará un plazo de espera de hasta veinte minutos, previo acuerdo con las personas integrantes que estuvieren presentes. Si aun así no se reuniera el quórum requerido, se procederá a diferir la sesión, circunstancia que se hará constar en el acta de la siguiente sesión, misma que deberá celebrarse entre los cinco y quince días hábiles siguientes.
 
-> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2025)</small>
 
 ###### Artículo 17.
 
-De cada sesión de trabajo, la persona titular de la Dirección de Apoyo a Órganos Colegiados, en su carácter de Secretaria Técnica de la Junta de Gobierno, elaborará el acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones, los resultados de las votaciones y los acuerdos aprobados.
+De cada sesión de trabajo, la persona titular de la Subdirección de Gestión y Apoyo a Órganos Colegiados, en su carácter de Secretaria Técnica de la Junta de Gobierno, elaborará el acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones, los resultados de las votaciones y los acuerdos aprobados.
 
 ### Capítulo II. De la Presidencia
 
@@ -283,7 +287,9 @@ En sesión ordinaria o extraordinaria de la Asamblea, y previa presentación de 
 
 En caso de que la Asamblea lo requiriera, la elección podrá realizarse mediante votación electrónica. El resultado de la votación se hará constar en el acta de la siguiente sesión ordinaria o extraordinaria.
 
-Las propuestas elegidas por la Asamblea, se someterán a aprobación de la Junta de Gobierno, para que se emita el nombramiento respectivo como asambleísta, mismo que será notificado de manera oficial a la persona designada.
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2025)</small>
+
+Las propuestas elegidas por la Asamblea se someterán a aprobación de la Junta de Gobierno, para que se emita el nombramiento respectivo como asambleísta, mismo que será notificado de manera oficial a la persona designada.
 
 El cargo de asambleísta será estrictamente personal, honorífico y no podrá desempeñarse por medio de una persona representante.
 
@@ -377,11 +383,11 @@ La Secretaria Técnica de la Asamblea será la encargada de la elaboración y en
 
 Las sesiones de la Asamblea podrán llevarse a cabo en el domicilio del Consejo, o en lugar distinto a éste, siempre que así lo proponga la Presidencia de la Asamblea a la Presidencia del Consejo. Lo anterior será comunicado a las y los integrantes, de manera electrónica o escrita.
 
-> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2025)</small>
 
 ###### Artículo 35.
 
-La persona titular de la Dirección de Apoyo a Órganos Colegiados, fungirá como Secretaria Técnica de la Asamblea, con la finalidad de brindar el apoyo técnico y logístico para el cumplimiento de sus atribuciones y para una mejor coordinación entre ese órgano colegiado y el Consejo, cuyas funciones están descritas en el artículo 57 del presente Estatuto.
+La persona titular de la Subdirección de Gestión y Apoyo a Órganos Colegiados, fungirá como Secretaria Técnica de la Asamblea, con la finalidad de brindar el apoyo técnico y logístico para el cumplimiento de sus atribuciones y para una mejor coordinación entre ese órgano colegiado y el Consejo.
 
 > <small>(REFORMADO, D.O.F 20 DE JUNIO DE 2017)</small>
 
@@ -799,9 +805,7 @@ XVI. Emitir opinión respecto a las consultas que en materia jurídica formulen 
 
 XVII. Revisar y emitir opinión sobre los anteproyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos, circulares y demás ordenamientos jurídicos, cuyas disposiciones sean competencia del Consejo;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
-
-XVIII. Sistematizar y difundir la normativa y criterios de interpretación y aplicación de las disposiciones normativas que regulen la operación del Consejo;
+XVIII. (DEROGADA, D.O.F. 26 DE MARZO DE 2025)
 
 > <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
@@ -847,9 +851,9 @@ XXVIII. Realizar y tramitar, a solicitud de las unidades administrativas, las pu
 
 XXIX. Llevar a cabo las acciones necesarias para cumplir con los registros necesarios en materia de derechos de autor y propiedad intelectual e industrial;
 
-> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2025)</small>
 
-XXX. Fungir como enlace ante la Comisión Federal de Mejora Regulatoria a fin de que el Consejo cumpla con las obligaciones derivadas de los Programas de Mejora Regulatoria y la simplificación de trámites y servicios;
+XXX. Fungir como enlace ante la Comisión Nacional de Mejora Regulatoria para tramitar la evaluación regulatoria o su exención, conforme al procedimiento establecido en la Ley General de Mejora Regulatoria;
 
 > <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
@@ -895,7 +899,9 @@ XIV. Dirigir y Administrar el proceso para el otorgamiento oportuno de las prest
 
 XV. Dirigir los procesos de pago de las remuneraciones y demás prestaciones al personal del Consejo, conforme a los tabuladores autorizados; así como el pago de los impuestos correspondientes, conforme a la normatividad vigente;
 
-XVI. Propiciar la actualización de los manuales de organización y procedimientos del Consejo;
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2025)</small>
+
+XVI. Coordinar el registro, la revisión, actualización y difusión de las disposiciones normativas que regulen la operación del Consejo en los términos de la normatividad aplicable;
 
 XVII. Coordinar la implementación de las acciones tendientes para incorporar en la normativa laboral de este Consejo, la obligación de igualdad y no discriminación a que se refiere el artículo 15 bis de la Ley;
 
@@ -925,29 +931,9 @@ XXIX. Coordinar los mecanismos necesarios para el funcionamiento de la infraestr
 
 XXX. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
-
 ###### Artículo 57.
 
-La Dirección de Apoyo a Órganos Colegiados tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
-
-I. Coordinar la comunicación entre las personas que forman parte de la Junta de Gobierno y Asamblea Consultiva a fin de fortalecer la interrelación con el Consejo;
-
-II. Proporcionar a la Asamblea el apoyo logístico para que defina en su interior a las personas e instituciones que se hagan acreedoras a los Reconocimientos en sus diversas categorías;
-
-III. Proponer a la Presidencia del Consejo, en su carácter de Secretaría Técnica de la Junta de Gobierno y de la Asamblea, la agenda de esos órganos colegiados, para incluir los asuntos que deban ser tratados de acuerdo con el calendario de compromisos;
-
-IV. Elaborar la convocatoria, en su carácter de Secretaría Técnica de la Junta de Gobierno y de la Asamblea, para las sesiones ordinarias de la Junta de Gobierno y de la Asamblea conforme al calendario aprobado, y en su caso, a las extraordinarias;
-
-V. Apoyar a la Presidencia del Consejo en el desarrollo de las sesiones ordinarias y extraordinarias de la Junta de Gobierno y de ser necesario a la Presidencia de la Asamblea, así como realizar las acciones referentes a la elaboración del orden del día, el registro de asistencia, y el conteo y registro de votos, para cumplir con las disposiciones legales y administrativas vigentes;
-
-VI. Dar seguimiento al cumplimiento de los acuerdos adoptados durante las sesiones ordinarias y extraordinarias de la Junta de Gobierno y de la Asamblea, y brindar la información a las personas titulares de las presidencias de ambos órganos colegiados para informar su avance en la siguiente sesión;
-
-VII. Gestionar la logística de las sesiones ordinarias y extraordinarias tanto de la Junta de Gobierno como de la Asamblea para que éstas se realicen en tiempo y forma, y
-
-VIII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
+(DEROGADO, D.O.F. 26 DE MARZO DE 2025)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
 
@@ -979,11 +965,11 @@ XI. Establecer los criterios para elaborar la Estrategia y el Programa Anual de 
 
 XII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MARZO DE 2025)</small>
 
 ###### Artículo 59.
 
-La Subdirección de Gestión tendrá las siguientes atribuciones:
+La Subdirección de Gestión y Apoyo a Órganos Colegiados, tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
@@ -997,7 +983,31 @@ IV. Garantizar la atención y respuesta a las solicitudes vinculadas con la acti
 
 V. Coordinar y garantizar el eficaz funcionamiento administrativo y técnico de la oficina de la Presidencia del Consejo, y
 
-VI. Las demás que le confiera la persona titular de la Presidencia del Consejo.
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2025)</small>
+
+VI. Coordinar la comunicación entre las personas integrantes de la Junta de Gobierno y la Asamblea Consultiva para fortalecer la interrelación con el Consejo;
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2025)</small>
+
+VII. Elaborar la convocatoria e integrar la carpeta de trabajo para las sesiones ordinarias y extraordinarias de la Junta de Gobierno y la Asamblea Consultiva, conforme al calendario aprobado;
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2025)</small>
+
+VIII. Apoyar a la Presidencia del Consejo en el desarrollo de las sesiones ordinarias y extraordinarias de la Junta de Gobierno y la Asamblea Consultiva, incluyendo la elaboración del orden del día, el registro de asistencia, y el conteo y registro de votos;
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2025)</small>
+
+IX. Dar seguimiento al cumplimiento de los acuerdos adoptados durante las sesiones de la Junta de Gobierno y la Asamblea Consultiva, informando a las presidencias sobre su avance;
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2025)</small>
+
+X. Proporcionar apoyo logístico a la Asamblea Consultiva para definir a las personas e instituciones acreedoras a los Reconocimientos en sus diversas categorías;
+
+> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2025)</small>
+
+XI. Gestionar el archivo de los documentos y actas de las sesiones de la Junta de Gobierno y la Asamblea Consultiva, asegurando su correcta conservación y acceso, y
+
+XII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
 ###### Artículo 60.
 
@@ -1340,3 +1350,27 @@ Se comunica a las personas servidoras públicas y público en general, para todo
 ###### ARTÍCULO SEGUNDO.
 
 El presente Acuerdo, entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE MARZO DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "ACUERDO POR EL QUE SE DA A CONOCER LA REFORMA DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN (CONAPRED)", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO.- La Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación toma conocimiento y aprueba la derogación del inciso f), así como la actualización de los incisos h) e i) en el artículo 11, fracción II; la actualización al artículo 17; la actualización al artículo 35; la derogación de la fracción XVIII, así como la actualización de la fracción XXX del artículo 55; la actualización de la fracción XVI del artículo 56; la derogación del artículo 57; la reforma al artículo 59 primer párrafo, así mismo, se recorre la fracción VI siendo ahora la fracción XII, además de la adición de las fracciones VI, VII, VIII, IX, X, y XI, con lo que se reforma el Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación.
+
+SEGUNDO.- La reforma al Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, estará disponible para su consulta al público, en el portal de Internet www.conapred.org.mx, así como en:
+
+www.dof.gob.mx/2025/CONAPRED/Reforma_Estatuto_Organico.pdf.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+Se comunica a las personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar la dirección electrónica institucional donde se encuentra disponible para su consulta la actualización del Estatuto Orgánico del CONAPRED, ordenándose su publicación en el Diario Oficial de la Federación, con fundamento en lo dispuesto en el artículo 4 de la Ley Federal de Procedimiento Administrativo.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se procede a la modificación de las normas administrativas internas para homologar su contenido al del presente acuerdo, se entenderá realizada toda referencia a las unidades administrativas del CONAPRED, en los términos señalados en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El presente Acuerdo, entrará en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
