@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12272
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2022-04-20"
+last_updated: "2025-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio del 2017.
 
@@ -1127,9 +1127,11 @@ XV. Las demás que establezca esta Ley, su Reglamento y otros ordenamientos.
 
 ### CAPÍTULO ÚNICO. INTEGRACIÓN Y ORGANIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
+
 ###### Artículo 96.
 
-Al frente de la Auditoría Superior del Estado habrá un Auditor Superior del Estado, designado por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado y durará en su encargo siete años.
+Al frente de la Auditoría Superior del Estado habrá un Auditor Superior del Estado, designado por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado, durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez.
 
 Podrá ser removido, exclusivamente, por las causas graves que previenen el Título VII de la Constitución Política del Estado Libre y Soberano de Zacatecas y esta Ley, con la misma votación requerida para su nombramiento.
 
@@ -1173,7 +1175,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-VI. No haber sido Titular del Ejecutivo Estatal, Secretario de Despacho, Legislador Federal o Local, Magistrado de cualquier Tribunal, Presidente Municipal, Procurador o Fiscal General de Justicia, dirigente de algún partido político, o haya sido postulado para cargo de elección popular, durante los tres años previos al de su nombramiento;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+VI. No haber sido Titular del Ejecutivo Estatal, Secretario o Secretaria de Despacho, Legislador o Legisladora Federal o Local, Magistrado o Magistrada de cualquier Tribunal, Presidente o Presidenta Municipal, Fiscal General de Justicia, dirigente de algún partido político, o haya sido postulado para cargo de elección popular, durante el año previo al de su nombramiento;
 
 VII. No tener parentesco de consanguinidad o afinidad hasta el tercer grado, con los Titulares de los Poderes o los Secretarios de Despacho;
 
@@ -1432,3 +1436,13 @@ Tercero. La Auditoría Superior del Estado implementará un proceso de capacitac
 Cuarto. En el Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2022, el Poder Legislativo establecerá los recursos necesarios para el desarrollo del proceso de fiscalización superior por medios electrónicos.
 
 Quinto. Se derogan las disposiciones que contravengan este decreto.
+
+P.O. 26 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 108.- SE REFORMA LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. El Auditor Superior del Estado de Zacatecas en funciones, concluirá el periodo para el que fue designado, esto es, el 22 de junio de 2026, fecha establecida en el Decreto número 140, emitido por la Sexagésima Tercera Legislatura del Estado y publicado el Suplemento 3 al 41 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al 22 de mayo de 2019.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
