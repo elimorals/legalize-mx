@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2025-01-09"
+last_updated: "2025-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2025.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2755,6 +2755,10 @@ Si el juez lo creyera conveniente, además de las penas previstas para cada uno 
 
 Al que incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá prisión de tres a cinco años y multa de 100 a 400 días, además suspensión o pérdida de los derechos de familia en relación con el ofendido, hasta por el máximo de la pena privativa de libertad impuesta.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2025)</small>
+
+Además de las sanciones previstas en el párrafo anterior, el Juez ordenara la inscripción del sentenciado, en el Registro Nacional de Obligaciones Alimentarias.
+
 Para los efectos de éste artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se hayan dejado al cuidado o reciban ayuda de un tercero, no se hubiese reclamado el pago de los alimentos en la vía familiar, o se haya incumplido la resolución que condene al mismo.
 
 Cuando no sean comprobables el salario o los ingresos del deudor alimentario, para efectos de cubrir el monto de los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
@@ -5066,3 +5070,9 @@ P.O. 9 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 15 – LXVI QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, LA FRACCIÓN I Y II DEL ARTÍCULO 16 Y LA FRACCIÓN III DEL ARTÍCULO 21 Y ADICIONA LA FRACCIÓN II BIS Y II TER DEL ARTÍCULO 16 Y LA FRACCIÓN V, VI Y VII DEL ARTÍCULO 21, DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO; Y REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 243 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 217 – LXVI QUE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 230 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
