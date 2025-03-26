@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2025-01-28"
+last_updated: "2025-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -111,41 +111,53 @@ VI.- Recibir el Acta a que se refiere el Artículo 93 de la presente Ley.
 
 Una vez que los integrantes de la Directiva de la Junta Preparatoria hayan tomado posesión, el Presidente de la misma, designará una Comisión de Cortesía que se conformará por tres Diputados, quienes se encargarán de acompañar y despedir a la Comisión Instaladora. Para tal efecto, se declarará un receso.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 9.
 
-Una vez reanudada la Sesión, el Presidente de la Directiva de la Junta Preparatoria convocará a los Diputados Electos, miembros de la nueva Legislatura; dentro de los cinco días naturales anteriores al inicio de sus funciones, a efecto de celebrar la Sesión Constitutiva.
+Una vez reanudada la Sesión, la Presidencia de la Directiva de la Junta Preparatoria convocará a los Diputados Electos, integrantes de la nueva Legislatura, dentro de los cinco días naturales anteriores al inicio de sus funciones, a efecto de celebrar la Sesión Constitutiva.
 
-Dentro de ese mismo plazo, se convocará a los Coordinadores de los Grupos Legislativos a efecto de conformar e instalar la Junta de Gobierno.
+Dentro de ese mismo plazo, se convocará a las Coordinadoras o Coordinadores de los Grupos Legislativos a efecto de conformar e instalar la Junta de Gobierno.
 
 ###### ARTÍCULO 10.
 
 El día señalado para la celebración de la Sesión Constitutiva de la Legislatura, se observará lo siguiente:
 
-I.- El Presidente de la Directiva comprobará la existencia del Quórum y posteriormente dará a conocer el Orden del Día, el cual deberá ceñirse al cumplimiento de los siguientes puntos: Declaración del Quórum; protesta constitucional de los Diputados Electos presentes; elección de los integrantes de la primera Directiva de la nueva Legislatura; declaración legal de la Constitución de la Legislatura; declaratoria de la Constitución de los Grupos Legislativos; La declaración en favor del diputado que en términos del Artículo 98 de ésta ley corresponda el cargo de Presidente de Junta de Gobierno; cita para la primera Sesión Ordinaria de la Legislatura.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2025)</small>
+
+I.– La Presidencia de la Directiva comprobará la existencia del Quórum y posteriormente dará a conocer el Orden del Día, el cual deberá ceñirse al cumplimiento de los siguientes puntos: Declaración del Quórum; protesta constitucional de los Diputados Electos presentes; elección de las y los integrantes de la primera Directiva de la nueva Legislatura; declaración legal de la Constitución de la Legislatura; declaratoria de la Constitución de los Grupos Legislativos; declaración en favor de la diputada o el diputado que en términos del artículo 98 de ésta ley corresponda el cargo de Presidenta o Presidente de la Junta de Gobierno; cita para la primera Sesión Ordinaria de la Legislatura.
 
 En caso de no asistir cuando menos las dos terceras partes de los integrantes de la nueva Legislatura, la Directiva, citará a los Diputados Electos para que se presenten en la fecha y hora que se les señale, apercibiéndolos que de no existir causa justificada de su inasistencia, se procederá a llamar en definitiva a sus respectivos suplentes.
 
-Cuando verificado el Quórum, algún Diputado Electo no hubiere asistido a la Sesión constitutiva, el Presidente de la Directiva, lo citará para que se presente a rendir la protesta de Ley correspondiente en la fecha y hora que se le señale, apercibiéndolo que de no asistir sin causa justificada, se llamará en definitiva a su Suplente.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2025)</small>
+
+Cuando verificado el Quórum, algún Diputado Electo no hubiere asistido a la Sesión constitutiva, la Presidencia de la Directiva lo citará para que se presente a rendir la protesta de Ley correspondiente en la fecha y hora que se le señale, apercibiéndolo que, de no asistir sin causa justificada, se llamará en definitiva a su Suplente.
 
 De no presentarse ni uno ni otro y tratándose de Diputados Electos por el principio de mayoría relativa, se declarará vacante la diputación y se notificará a la Autoridad Electoral a efecto de que convoque a Elección Extraordinaria.
 
 Cuando los Diputados sean de representación proporcional, se llamará a quien tenga derecho conforme a la Ley de la materia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MARZO DE 2025)</small>
 
-II.- Acto seguido, los Diputados otorgarán la protesta de Ley a que se refiere el Artículo 155 de la Constitución Política del Estado. Al efecto, el Presidente de la Directiva, puesta de pie la Asamblea, rendirá la protesta en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que la sociedad me ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo. Y si así no lo hiciere, que el pueblo me lo demande". A continuación, el propio Presidente de la Directiva preguntará a los demás Diputados: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que se les ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo?." Los interrogados contestarán: "Si protesto". El Presidente de la Directiva, dirá: "Si así no lo hicieren, que el pueblo se los demande".
+II.- Acto seguido, los Diputados otorgarán la protesta de Ley a que se refiere el Artículo 155 de la Constitución Política del Estado. Al efecto, la Presidencia de la Directiva, puesta de pie la Asamblea, rendirá la protesta en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que la sociedad me ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo. Y si así no lo hiciere, que el pueblo me lo demande". A continuación, la Presidencia de la Directiva preguntará a los demás Diputados: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que se les ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo?" Los interrogados contestarán: "Sí, protesto". La Presidencia de la Directiva dirá: "Si así no lo hicieren, que el pueblo se los demande".
 
-Los Diputados que se presenten o sean llamados al ejercicio del cargo con posterioridad a la Sesión Constitutiva de la Legislatura, rendirán la protesta en la primera Sesión ordinaria no solemne, en la que estén presentes, ante el Presidente de la Directiva en los términos de la fórmula anterior.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2025)</small>
+
+Los Diputados que se presenten o sean llamados al ejercicio del cargo con posterioridad a la Sesión Constitutiva de la Legislatura, rendirán la protesta en la primera Sesión ordinaria no solemne, en la que estén presentes, ante la Presidencia de la Directiva en los términos de la fórmula anterior.
 
 Ningún Diputado, podrá asumir su cargo, sin rendir la protesta legal;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
-III.- Efectuada la protesta, se elegirá a los integrantes de la primera Directiva, que fungirá a partir del cinco de septiembre y solo durará este mes, del Primer Año de Ejercicio Constitucional, la cual, se conformará por un Presidente, un Vicepresidente, dos Secretarios propietarios y dos Suplentes Generales. Una vez electos, el Presidente de la Directiva de la Junta Preparatoria, les tomará la Protesta de Ley, en términos de lo establecido por el Artículo 7, fracción IV de la presente Ley, hecho lo anterior, los Diputados electos, ocuparán los lugares destinados a la Directiva del Congreso;
+III.- Efectuada la protesta, se elegirá a los integrantes de la primera Directiva, que fungirá a partir del cinco de septiembre y solo durará este mes, del Primer Año de Ejercicio Constitucional, la cual, se conformará por una Presidencia, una Vicepresidencia, dos Secretarías y dos Suplencias Generales. Una vez electos, la Presidenta o Presidente de la Directiva de la Junta Preparatoria, les tomará la Protesta de Ley, en términos de lo establecido por el Artículo 7, fracción IV de la presente Ley, hecho lo anterior, los Diputados electos, ocuparán los lugares destinados a la Directiva del Congreso;
 
-IV.- Instalada la primera Directiva, el Presidente de ésta hará la siguiente declaratoria: "La ...(número ordinal que corresponda) Legislatura del Congreso del Estado Libre y Soberano de Hidalgo, se declara legítimamente constituida hoy (día, mes y año) para el desempeño de sus funciones constitucionales":
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
-V.- Acto seguido, se procederá a realizar la declaración a favor del Diputado al que corresponda ser Presidente de la Junta de Gobierno; y
+IV.- Instalada la primera Directiva, la Presidenta o Presidente de ésta hará la siguiente declaratoria: “La ...(número ordinal que corresponda) Legislatura del Congreso del Estado Libre y Soberano de Hidalgo, se declara legítimamente constituida hoy (día, mes y año) para el desempeño de sus funciones constitucionales”;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+V.- Acto seguido, se procederá a realizar la declaración a favor del Diputado al que corresponda ser Presidenta o Presidente de la Junta de Gobierno; y
 
 VI.- Una vez instalada la Legislatura y elegida la primera Directiva, deberá comunicarse lo anterior por escrito al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia y al Gobernador Electo, cuando proceda.
 
@@ -787,37 +799,49 @@ El Vicepresidente, es aquél que asiste al Presidente de la Directiva en el ejer
 
 #### SECCIÓN TERCERA. DE LOS SECRETARIOS DEL CONGRESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 67.
 
-Son atribuciones de los Secretarios:
+Son atribuciones de las Secretarias y los Secretarios:
 
-I.- Auxiliar al Presidente de la Directiva, para el buen desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+I.- Auxiliar a la Presidencia de la Directiva, para el buen desempeño de sus funciones;
 
 II.- Vigilar la preparación y el orden de los asuntos en cartera, a tratar en la Sesión correspondiente;
 
 III.- Pasar lista de asistencia, verificar la existencia del Quórum, dar lectura al Orden del Día, al Acta de la Sesión anterior, así como a las diversas comunicaciones recibidas por el Congreso del Estado, que turne la Directiva;
 
-IV.- Integrar las actas de las Sesiones y firmarlas junto con el Presidente de la Directiva, una vez que hayan sido aprobadas, turnándolas al Secretario de Servicios Legislativos, para su archivo;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+IV.- Integrar las actas de las Sesiones y firmarlas junto con la Presidencia de la Directiva, una vez que hayan sido aprobadas, turnándolas a la Secretaría de Servicios Legislativos, para su archivo;
 
 V.- Formar expedientes, de cada uno de los asuntos que se traten en el Congreso del Estado, anotando los trámites que se den a las resoluciones tomadas sobre los mismos, expresándose la fecha de cada uno;
 
 VI.- Vigilar que los expedientes sean entregados a las respectivas Comisiones para su Dictamen y cuidar que éste, junto con las Iniciativas que lo motiven, circulen oportunamente entre los Diputados;
 
-VII.- Firmar, junto con el Presidente de la Directiva, las Leyes, Decretos y Acuerdos Económicos, que apruebe el Congreso del Estado;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
-VIII.- Recibir, registrar y realizar el cómputo de la votación de los Diputados, comunicando el resultado al Presidente de la Directiva;
+VII.- Firmar, junto con la Presidencia de la Directiva, las Leyes, Decretos y Acuerdos Económicos, que apruebe el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+VIII.- Recibir, registrar y realizar el cómputo de la votación de los Diputados, comunicando el resultado a la Presidencia de la Directiva;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
 IX.- Rendir en la última sesión del periodo para el que fue electo, un informe sobre el estado que guardan los expedientes, iniciativas y requerimientos turnados a las comisiones;
 
-X.- Firmar la correspondencia oficial; esta facultad podrá delegarse por Acuerdo del Pleno, al Secretario de Servicios Legislativos del Congreso; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+X.- Firmar la correspondencia oficial; esta facultad podrá delegarse por Acuerdo del Pleno, al Secretario o Secretaria de Servicios Legislativos del Congreso; y
 
 XI.- Las demás que se deriven de esta Ley, su Reglamento o de los Acuerdos que emita el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2025)</small>
 
-Estas funciones podrán ser desahogadas por los Secretarios por conducto del Secretario de Servicios Legislativos, en uso de las facultades que le concede el Artículo 193 de esta Ley.
+Estas funciones podrán ser desahogadas por los Secretarios por conducto del Secretario o Secretaria de Servicios Legislativos, en uso de las facultades que le concede el Artículo 193 de esta Ley.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -1083,11 +1107,13 @@ Las Comisiones Especiales, serán aprobadas por el Pleno, a propuesta de la Junt
 
 Las Comisiones Especiales, tendrán la competencia que se les atribuya en el acto de su aprobación; contarán con el número de integrantes que el Pleno determine y fungirán por el tiempo que se requiera para el despacho de los asuntos que les dieron origen.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 81.
 
-La Comisión Inspectora de la Auditoría Superior, será presidida por el Presidente de la Junta de Gobierno, y deberá estar integrada por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
+La Comisión Inspectora de la Auditoria Superior, será presidida por la Presidenta o Presidente de la Junta de Gobierno, y deberá estar integrada por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
 Tendrán las funciones y atribuciones que le confiere la Constitución Política del Estado de Hidalgo, la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Hidalgo, la legislación en materia de responsabilidades administrativas de los servidores públicos, esta Ley, su Reglamento y demás disposiciones legales y normativas aplicables.
 
@@ -1275,9 +1301,9 @@ V. En caso de ausencia temporal o definitiva de los integrantes de la Junta podr
 
 Para el funcionamiento de la Junta de Gobierno, se observará lo siguiente:
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
-I.- La Junta de Gobierno deberá reunirse de manera presencial o si fuera el caso virtual, conforme a lo establecido en el artículo 12 BIS de la presente Ley, cuando menos dos veces por mes durante los Períodos Ordinarios y fuera de estos, por lo menos una. Las reuniones serán convocadas a solicitud del Presidente de la Junta de Gobierno;
+I.- La Junta de Gobierno deberá reunirse de manera presencial o si fuera el caso virtual, conforme a lo establecido en el artículo 12 BIS de la presente Ley, cuando menos dos veces por mes durante los Períodos Ordinarios y fuera de estos, por lo menos una. Las reuniones serán convocadas a solicitud de la Presidencia de la Junta de Gobierno;
 
 II.- La Junta de Gobierno, tomará sus decisiones por consenso, pero en el caso de que éste no se obtenga, las adoptará por mayoría de votos de los Coordinadores de los Grupos Legislativos quienes dispondrán de voto ponderado conforme al número de Diputados que integren sus respectivos Grupos respecto del total de la Legislatura;
 
@@ -1323,9 +1349,11 @@ VIII BIS.- Proponer el Acuerdo por el cual se pueden realizar Sesiones Virtuales
 
 IX.- Las demás que le encomiende el Pleno del Congreso, la presente Ley, su Reglamento y demás ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 101.
 
-El Presidente de la Junta de Gobierno, tendrá las siguientes atribuciones:
+La Presidenta o Presidente de la Junta de Gobierno, tendrá las siguientes atribuciones:
 
 I.- Mantener la comunicación entre el Poder Legislativo y los Poderes Ejecutivo y Judicial del Estado;
 
@@ -1345,7 +1373,9 @@ VII.- Presidir la Comisión Inspectora de la Auditoria Superior;
 
 VIII.- Presentar a la Junta de Gobierno el Proyecto de Presupuesto Anual de Egresos del Poder Legislativo, para su Acuerdo;
 
-IX.- Proponer al Pleno del Congreso, previo Acuerdo de la Junta de Gobierno, a las personas que habrán de ocupar los cargos de Auditor Superior del Estado y del Secretario de Servicios Legislativos;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+IX.- Proponer al Pleno del Congreso, previo Acuerdo de la Junta de Gobierno, a las personas que habrán de ocupar los cargos de Auditor Superior del Estado y del Secretario o Secretaria de Servicios Legislativos;
 
 X.- Dirigir y supervisar la organización y funcionamiento administrativo del Congreso;
 
@@ -1363,11 +1393,11 @@ XVI.- Proponer al Pleno del Congreso, los Reglamentos que habrán de regular su 
 
 XVII.- Las demás que le confieran el Pleno o la Diputación Permanente, la Junta de Gobierno, la presente Ley, su Reglamento y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 102.
 
-La Secretaría de la Junta de Gobierno, tendrá las siguientes funciones:
+El Secretario o Secretaria de la Junta de Gobierno tendrá las siguientes funciones:
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
 
@@ -1393,21 +1423,35 @@ V.- Presentar ante la Junta de Gobierno, en la última Sesión de cada año de E
 
 VI.- Las demás que le confiera la Junta de Gobierno; la presente Ley, su Reglamento y demás disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
 
-ARTÍCULO 102 BIS.- El Secretario de Servicios Legislativos actuará como Secretario Técnico de la Junta de Gobierno, quien tendrá las siguientes funciones:
+ARTÍCULO 102 BIS.- El Secretario o Secretaria de Servicios Legislativos actuará como Secretario Técnico de la Junta de Gobierno, quien tendrá las siguientes funciones:
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
 I.- Auxiliar a los Integrantes de la Junta de Gobierno, para el buen desempeño de sus funciones;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
 II.- Preparar el orden de los asuntos a tratar en las Sesiones de la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
 III.- Dar seguimiento oportuno a los acuerdos que se tomen;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
 IV.- Elaborar las Actas de las Sesiones de la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
 V.- Verificar la integración de los expedientes de cada uno de los asuntos que se traten en las Sesiones de la Junta de Gobierno;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+
 VI.- Llevar el registro cronológico de los Acuerdos tomados en la Junta de Gobierno; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
 VII.- Las demás que le confiera la Junta de Gobierno; la Presidencia de la Junta de Gobierno; la presente Ley, su Reglamento y demás disposiciones legales.
 
@@ -2303,9 +2347,11 @@ El Auditor Superior del Estado, contará con las facultades que señala la Const
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 193.
 
-La Secretaría de Servicios Legislativos estará a cargo de un Secretario, será designado por el Pleno a propuesta del Presidente Junta de Gobierno, previo Acuerdo de la misma, quien tendrá las siguientes funciones:
+La Secretaría de Servicios Legislativos estará a cargo de un Secretario o Secretaria, será designado por el Pleno a propuesta de la Presidencia de la Junta de Gobierno, previo Acuerdo de la misma, quien tendrá las siguientes funciones:
 
 I.- Auxiliar a los Diputados en todo lo relativo al Proceso Legislativo y coordinar a los Órganos Auxiliares en esta materia;
 
@@ -2329,7 +2375,9 @@ IX.- Llevar los registros y demás documentos establecidos, para el control y se
 
 IX Bis.- Notificar a las y los Diputados suplentes, cuando se aprueben licencias de las y los Diputados propietarios, así como la reincorporación de los mismos.
 
-X.- Auxiliar al Presidente y a los Secretarios de la Directiva, en la elaboración de las Actas de las Sesiones Ordinarias y Extraordinarias, para su revisión, antes de dar cuenta de ellas al Pleno;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+X.- Auxiliar a la Presidencia y a las Secretarías de la Directiva, en la elaboración de las Actas de las Sesiones Ordinarias y Extraordinarias, para su revisión, antes de dar cuenta de ellas al Pleno;
 
 XI.- Expedir y certificar, la documentación correspondiente;
 
@@ -2361,17 +2409,21 @@ XIX.- Supervisar, autorizar y actualizar el contenido de la información que deb
 
 XX.- Las demás que le señale esta Ley, su Reglamento y los Acuerdos emanados del Pleno o de la Diputación Permanente, en su caso.
 
-> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2025)</small>
 
-La Secretaria de Servicios Legislativos, para el cumplimiento de sus fines, contará con el número de colaboradores que autorice el Presupuesto de Egresos del Poder Legislativo y contará para el buen desempeño de sus funciones con el apoyo de la Coordinación de Asesoría.
+La Secretaría de Servicios Legislativos, para el cumplimiento de sus fines, contará con el número de colaboradores que autorice el Presupuesto de Egresos del Poder Legislativo y contará para el buen desempeño de sus funciones con el apoyo de la Dirección General de Asesoría.
 
 ### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 194.
 
-La Coordinación de Asesoría contará con el número de asesores que autorice el Presupuesto de Egresos del Poder Legislativo, además de los propuestos por los Grupos Legislativos, los que estarán bajo la coordinación de un Director General, quien será designado por el Presidente de la Junta de Gobierno y tendrá las siguientes atribuciones:
+La Coordinación de Asesoría contará con el número de asesores que autorice el Presupuesto de Egresos del Poder Legislativo, además de los propuestos por los Grupos Legislativos, los que estarán bajo la coordinación de un Director o Directora General, quien será designado por la Presidencia de la Junta de Gobierno y tendrá las siguientes atribuciones:
 
-I.- Representar legalmente al Congreso y dar seguimiento a los asuntos en los que éste sea parte, por delegación del Presidente de la Directiva;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+I.- Representar legalmente al Congreso y dar seguimiento a los asuntos en los que éste sea parte, por delegación de la Presidencia de la Directiva;
 
 II.- Auxiliar a la Junta de Gobierno, en las funciones que tiene encomendadas e integrar los expedientes que sean de su competencia;
 
@@ -2405,9 +2457,11 @@ XIV.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos leg
 
 La Dirección General de Servicios Administrativos, es el Órgano del Congreso del Estado, encargado de la administración de los recursos humanos, materiales y financieros del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 196.
 
-La Dirección General de Servicios Administrativos, estará a cargo de un Director General, nombrado por el Presidente de la Junta de Gobierno y le corresponderán las siguientes atribuciones:
+La Dirección General de Servicios Administrativos estará a cargo de un Director o Directora General, nombrado por la Presidencia de la Junta de Gobierno y le corresponderán las siguientes atribuciones:
 
 I.- Planear, organizar, coordinar y promover el desarrollo del personal, así como los recursos financieros y materiales con los que cuente el Poder Legislativo;
 
@@ -2419,15 +2473,23 @@ IV.- Elaborar el Anteproyecto de Presupuesto Anual de Egresos del Poder Legislat
 
 V.- Vigilar que se ejerza el Presupuesto de acuerdo a la programación y calendarización aprobadas;
 
-VI.- Tramitar y realizar las transferencias y ampliaciones presupuéstales que se requieran para el mejor funcionamiento del Congreso, en los términos de la Legislación aplicable; previa autorización del Presidente de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
-VII.- Informar periódicamente al Presidente de la Junta de Gobierno, del ejercicio y desarrollo del Presupuesto y Programas;
+VI.- Tramitar y realizar las transferencias y ampliaciones presupuéstales que se requieran para el mejor funcionamiento del Congreso, en los términos de la Legislación aplicable; previa autorización de la Presidencia de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+VII.- Informar periódicamente a la Presidencia de la Junta de Gobierno, del ejercicio y desarrollo del Presupuesto y Programas;
 
 VIII.- Administrar y comprobar la aplicación de los recursos, para efectos de integrar la Cuenta Pública correspondiente;
 
-IX.- Concertar, previa autorización del Presidente de la Junta de Gobierno, las operaciones y Convenios Financieros con Instancias Externas;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
 
-X.- Firmar, previa autorización del Presidente de la Junta de Gobierno, la documentación referente a las erogaciones y pagos que con cargo al Presupuesto de Egresos ejerza el Poder Legislativo;
+IX.- Concertar, previa autorización de la Presidencia de la Junta de Gobierno, las operaciones y Convenios Financieros con Instancias Externas;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+X.- Firmar, previa autorización de la Presidencia de la Junta de Gobierno, la documentación referente a las erogaciones y pagos que con cargo al Presupuesto de Egresos ejerza el Poder Legislativo;
 
 XI.- Integrar la nómina del Poder Legislativo, vigilando que los pagos se efectúen en los términos de Ley;
 
@@ -2443,7 +2505,9 @@ XVI.- Administrar, conservar y mantener, el Patrimonio del Poder Legislativo;
 
 XVII.- Efectuar la recepción, guarda, custodia, registro y control de los bienes destinados al uso de las Dependencias del Poder Legislativo;
 
-XVIII.- Planear, organizar, coordinar y controlar las actividades referentes a adquisiciones, almacenes, suministros, servicios generales, acervo administrativo, control patrimonial y servicios médico preventivos, previa autorización del Presidente de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+XVIII.- Planear, organizar, coordinar y controlar las actividades referentes a adquisiciones, almacenes, suministros, servicios generales, acervo administrativo, control patrimonial y servicios médico preventivos, previa autorización de la Presidencia de la Junta de Gobierno;
 
 XIX.- Elaborar un informe anual de actividades y aplicación de recursos a su cargo; y
 
@@ -2601,7 +2665,9 @@ II.- Aplicar en coordinación con todas las áreas administrativas y órganos au
 
 III.- Expedir y difundir entre el personal del Congreso del Estado, el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo;
 
-IV.- Dar seguimiento e informar al Presidente de la Junta de Gobierno sobre el cumplimiento institucional de las disposiciones contenidas en las leyes estatales, federales o generales de observancia obligatoria para el Estado de Hidalgo, así como a las recomendaciones o acciones relacionadas con los Sistemas, Comisiones o cualquier otro órgano público de participación colegiada de los que forme parte el Congreso del Estado en materia de perspectiva de género, erradicación de la violencia contra la mujer, erradicación de la discriminación e igualdad real entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2025)</small>
+
+IV.- Dar seguimiento e informar a la Presidencia de la Junta de Gobierno sobre el cumplimiento institucional de las disposiciones contenidas en las leyes estatales, federales o generales de observancia obligatoria para el Estado de Hidalgo, así como a las recomendaciones o acciones relacionadas con los Sistemas, Comisiones o cualquier otro órgano público de participación colegiada de los que forme parte el Congreso del Estado en materia de perspectiva de género, erradicación de la violencia contra la mujer, erradicación de la discriminación e igualdad real entre mujeres y hombres;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
 
@@ -3056,5 +3122,11 @@ P.O. 9 DE ENERO DE 2025.
 P.O. 28 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185 – LXVI POR EL QUE SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, Y EL ARTÍCULO 49 DE SU REGLAMENTO, EN MATERIA DE DENOMINACIÓN DE COMISIONES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 207 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, EN MATERIA DE LENGUAJE INCLUYENTE Y PARIDAD DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
