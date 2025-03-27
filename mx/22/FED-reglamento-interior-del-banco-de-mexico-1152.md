@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2024-06-26"
+last_updated: "2025-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2025.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -2445,6 +2445,10 @@ Al publicarse el balance general se deberá insertar el dictamen del auditor ext
 
 Dentro de los treinta días hábiles que sigan a la terminación del ejercicio, se presentarán los correspondientes estados financieros al auditor externo del Banco, para que, dentro de los treinta días hábiles siguientes, los revise y dictamine, hecho lo cual, serán sometidos, por el Gobernador, al examen y, en su caso, a la aprobación de la Junta, previa opinión del Comité de Auditoría.
 
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2025)</small>
+
+El Gobernador, en casos extraordinarios, podrá autorizar una ampliación en los plazos antes señalados.
+
 El balance general deberá publicarse dentro de los cinco días hábiles siguientes a la fecha de su aprobación.
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 1995)</small>
@@ -3324,3 +3328,9 @@ D.O.F. 26 DE JUNIO DE 2024.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 27 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DE LA “ADICIÓN AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+ÚNICO. La presente adición al Reglamento Interior del Banco de México entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
