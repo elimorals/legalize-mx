@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-universidad-tecnologica-de-nuevo-102806
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-09"
-last_updated: "2014-10-09"
+last_updated: "2025-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DE LA UNIVERSIDAD TECNOLOGICA DE NUEVO LAREDO, TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DE NUEVO LAREDO, TAMAULIPAS, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DE NUEVO LAREDO, TAMAULIPAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2025 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 9 de octubre de 2014.
 
@@ -726,3 +728,29 @@ Son alumnos de la Universidad, los egresados del bachillerato, quienes cumplan c
 Las organizaciones de los alumnos serán independientes del órgano de gobierno de la Universidad y de las actividades académicas y administrativas de ésta, en los términos de las disposiciones que al efecto expida la Universidad.
 
 ATENTAMENTE.- “Espíritu Limpio, Mente Productiva y Convicción de Triunfo”.- RECTOR.- LIC. FERNANDO CASTILLO VILLARREAL.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DE NUEVO LAREDO, TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico de la Universidad Tecnológica de Nuevo Laredo, publicado en el Periódico Oficial del Estado de Tamaulipas número 122, de fecha 9 de octubre de 2014.
+
+###### ARTÍCULO TERCERO.
+
+El Rector de la Universidad Tecnológica de Nuevo Laredo, realizará todos los trámites y gestiones necesarias para la difusión del presente Estatuto Orgánico.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto continuarán su trámite y serán resueltos hasta su conclusión por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia para resolver los asuntos correspondientes, sin que se afecte su validez jurídica y administrativa.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Estatuto.
