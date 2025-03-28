@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-03-05"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4931,9 +4931,41 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 ### CAPITULO X. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
-ARTICULO 368 BIS.- Comete el delito de violencia familiar quien por acción u omisión ejerza cualquier tipo de maltrato físico, psicológico, patrimonial, económico o sexual contra cualquier otro miembro de la familia con el que se encuentre o haya estado unido por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o que mantenga o haya mantenido una relación de hecho dentro o fuera del domicilio familiar.
+### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
+
+###### ARTICULO 366.
+
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 367.
+
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 368.
+
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
+
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+
+###### ARTICULO 368 Bis.
+
+Comete el delito de violencia familiar quien por acción u omisión ejerza cualquier tipo de violencia y/o maltrato físico, psicológico, patrimonial, económico o sexual contra cualquier otro miembro de la familia con el que se encuentre o haya estado unido por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o que mantenga o haya mantenido una relación de hecho dentro o fuera del domicilio familiar.
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 26 DE MAYO DE 2015)</small>
 
@@ -4955,9 +4987,9 @@ d) Adoptantes o adoptados; y
 
 e) El incapaz sobre el que se es tutor o curador.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
-Para los efectos de este artículo, se entenderán por tipos de maltrato los previstos por el artículo 3, de la Ley de Prevención de la Violencia Familiar del Estado de Tamaulipas.
+Para los efectos de este artículo, se entenderán por tipos de violencia y/o maltrato los previstos por los artículos 3, de la Ley de Prevención de la Violencia Familiar del Estado de Tamaulipas y 3, de la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2024)</small>
 
@@ -5003,13 +5035,19 @@ VII.- Se tengan documentados antecedentes o denuncia de violencia familiar comet
 
 VIII.- Exista imposibilidad material de la víctima de denunciar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
-ARTÍCULO 368 QUÁTER.- Se equipara a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto o amistad, incluyendo el ex-cónyuge, ex-concubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
+###### ARTÍCULO 368 Quater.
+
+Se equipara a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto, noviazgo o amistad, incluyendo el ex-cónyuge, exconcubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 Asimismo se le sujetará a tratamiento psicológico especializado.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+Se entenderá por noviazgo la relación personal, sentimental, emocional y afectiva, permanente o transitoria entre dos personas, de la cuales existe la voluntad de compartir y/o destinar tiempo juntos por cualquier medio, pudiendo existir o no promesa y/o planes de formalizar su relación mediante la celebración del matrimonio o llevar a cabo un concubinato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2021)</small>
 
@@ -5078,54 +5116,6 @@ ARTÍCULO 368 QUINQUIES 2.- A quien cometa el delito de violencia vicaria se le 
 ARTÍCULO 368 QUINQUIES 3.- Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de violencia vicaria, sustracción de niñas, niños o adolescentes, o violencia familiar, se le impondrán de tres a ocho años de prisión y multa de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, además será destituido e inhabilitado de seis a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2016)</small>
-
-### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
-
-###### ARTICULO 366.
-
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
-
-###### ARTICULO 367.
-
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
-
-###### ARTICULO 368.
-
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
-
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
-
-###### ARTICULO 368 Bis.
-
-Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que produzcan o no lesiones.
-
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, asimismo, aquella persona que tenga una relación formal o informal, de afecto o amistad o la hubiera tenido con cualquier miembro de la familia.
-
-A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
-
-###### ARTICULO 368 Quáter.
-
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 ### CAPITULO II. INJURIAS
 
@@ -5617,7 +5607,7 @@ III.- Cuando una persona haga aparecer como suyo un depósito que garantice la l
 
 ### CAPITULO VI. EXTORSION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 417.
 
@@ -5737,31 +5727,51 @@ Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho
 
 ### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
-###### ARTICULO 426.
+###### ARTÍCULO 426.
 
-Comete el delito de extorsión al que sin derecho, por cualquier medio, obligue a otro a dar, hacer, tolerar o dejar de hacer algo, con ánimo de lucro, o con la intención de obtener un beneficio, cualquiera que este sea, u obteniéndolo para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, a la identidad profesional o la imagen profesional, en contra de una persona o personas, se le impondrá una sanción de diez a quince años de prisión y de doscientos cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Comete el delito de extorsión al que, sin derecho, por sí o por interpósita persona, por cualquier medio, obligue a otro a dar, hacer, dejar de hacer, o tolerar algo con ánimo de lucro, o con la intención de obtener un beneficio, cualquiera que este sea, u obteniéndolo para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, a la identidad profesional o la imagen profesional, en contra de una persona o personas, se le impondrá una sanción de diez a quince años de prisión y de quinientos a tres mil veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 55/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 29 DE MARZO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 66-266, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Las penas previstas en el artículo anterior, se aumentarán en dos terceras partes y además, se impondrá la destitución del empleo, cargo o comisión públicos, inhabilitación de tres a siete años para ejercer cargos o comisiones públicas y en su caso, la suspensión del derecho para ejercer actividades en corporaciones de seguridad pública o de las fuerzas armadas, cuando el delito se realice por servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada o de las fuerzas armadas.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+Las penas previstas en el párrafo anterior, se aumentarán en dos terceras partes y además, se impondrá la destitución del empleo, cargo o comisión públicos, inhabilitación por el mismo tiempo que la pena de prisión impuesta, para desempeñar cargos o comisiones públicas Y EN SU CASO, LA SUSPENSIÓN DEL DERECHO PARA EJERCER ACTIVIDADES EN CORPORACIONES DE SEGURIDAD PÚBLICA O DE LAS FUERZAS ARMADAS, cuando el delito se realice por servidora o servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada o de las fuerzas armadas.
 
-Además de las penas señaladas en este artículo, se impondrá una sanción de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientas veinte veces el valor diario de la Unidad de Medida y Actualización, cuando en la comisión del delito:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2025)</small>
+
+Además de las penas señaladas en este artículo, se impondrá una sanción de ocho a veinte años de prisión y multa de doscientos ochenta y ocho a setecientas veinte veces el valor diario de la Unidad de Medida y Actualización, cuando en la comisión del delito:
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
 
 I.- Intervenga una o más personas armadas o portando instrumentos peligrosos;
 
-II.- Se emplee violencia;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2025)</small>
+
+II.- Se emplee violencia física o moral;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
 
 III.- Se realice por pandilla, asociación delictuosa o el autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada;
 
-IV.- Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2025)</small>
+
+IV.- Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, mensajes, imágenes, videos, voz, sonidos o información de contenido íntimo-sexual o cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
 
 V.- Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
 
-VI.- Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2025)</small>
 
-VII.- El autor del delito de manera continuada obtenga dinero o bienes por concepto de cobro de cuotas de cualquier índole.
+VI.- Si es cometido a través de una persona menor de dieciocho años de edad, que no tenga capacidad de comprender el significado del hecho, o que sea mayor de sesenta años, o bien, en contra de alguna de ellas;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2025)</small>
+
+VII.- Se realice en contra de personas dedicadas al comercio o al transporte de personas o mercancías; y
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2025)</small>
+
+VIII.- La o el autor del delito de manera continuada obtenga dinero o bienes por concepto de cobro de cuotas de cualquier índole.
 
 ### CAPITULO I. ENCUBRIMIENTO
 
@@ -7718,6 +7728,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 5 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-249 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO, INCISOS A), B) Y C), Y SE ADICIONAN LOS INCISOS D) Y E), AL ARTÍCULO 276 SEPTIES, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-264 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 368 BIS, PÁRRAFOS PRIMERO Y TERCERO; Y SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 368 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS Y SE ADICIONA EL ARTÍCULO 8 SEPTIES A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado”.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-266 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, Y LAS FRACCIONES II, IV Y VI, Y SE ADICIONA LA FRACCIÓN VII, RECORRIENDO EN SU ORDEN NATURAL LA SUBSECUENTE, AL PÁRRAFO TERCERO DEL ARTÍCULO 426, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
