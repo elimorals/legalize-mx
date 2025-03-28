@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2024-07-31"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -180,6 +180,10 @@ VIII. Promover un sistema de prevención de riesgos que coadyuve al desarrollo d
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2022)</small>
 
 IX. Promover campañas que procuren el acceso y el fomento a la cultura del consumo de agua y la difusión de información sobre salud bucodental y la práctica de hábitos de higiene dental en instituciones educativas;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2025)</small>
+
+IX Bis. Diseñar e impulsar campañas, acciones y programas de prevención y atención a la salud visual que incluya un programa específico permanente para planteles de educación básica, en coordinación con la Secretaría de Educación;
 
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -667,11 +671,11 @@ IV. La vigilancia de actividades ocupacionales que puedan poner en peligro la sa
 
 V. Las demás acciones que coadyuven a la protección de la salud materno-infantil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 63.
 
-En materia de higiene escolar, corresponde a la Secretaría Estatal vigilar el cumplimiento de las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado, así como establecer acciones que promuevan una alimentación nutritiva y la realización de actividad física. Las autoridades educativas y sanitarias estatales se coordinarán con sus homólogas federales y, en su caso, municipales para la aplicación de aquéllas.
+En materia de higiene escolar, corresponde a la Secretaría Estatal vigilar el cumplimiento de las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado, así como establecer acciones que promuevan la salud visual, una alimentación nutritiva y la realización de actividad física. Las autoridades educativas y sanitarias estatales se coordinarán con sus homólogas federales y, en su caso, municipales para la aplicación de aquéllas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
@@ -1253,11 +1257,13 @@ II. Proporcionar a la población los conocimientos sobre las causas de las enfer
 
 III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, actividad física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades, así como en la prevención, diagnóstico y control de las enfermedades cardiovasculares.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 117.
 
-La Secretaría Estatal, en coordinación con las autoridades estatales y federales competentes, propondrá y desarrollará programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva, suficiente y de calidad y a la activación física procurando optimizar los recursos y alcanzar una cobertura total de la población y promoverá programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social existentes en el Estado, así como llevar a cabo la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica.
+La Secretaría Estatal, en coordinación con las autoridades estatales y federales competentes, propondrá y desarrollará programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva, suficiente y de calidad, a la activación física y la salud visual, procurando optimizar los recursos y alcanzar una cobertura total de la población y promoverá programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social existentes en el Estado, así como llevar a cabo la medición periódica de la agudeza visual, revisión ocular, detección y seguimiento de peso, talla e índice de masa corporal, de las niñas, niños y adolescentes de planteles de educación básica.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
@@ -2950,3 +2956,13 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La Secretaría de Salud estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 71 POR EL QUE “SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 5; SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 63 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 117, DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor e l (sic) día siguiente al d e (sic) su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+TERCERO.- Las Secretarías de Educación y de Salud, adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que se realicen con sus previsiones presupuestales asignadas.
