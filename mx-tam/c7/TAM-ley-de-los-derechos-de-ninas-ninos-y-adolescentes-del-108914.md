@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-10-03"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -1201,7 +1201,9 @@ IV. La información y participación de niñas, niños y adolescentes para la pr
 
 1. La Procuraduría de Protección y cualquier persona interesada, por conducto de éstas, podrán promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece la Ley General y demás disposiciones aplicables.
 
-2. Asimismo, la Procuraduría de Protección estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente, con el objeto de que éste ordene a los medios de comunicación que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
+
+2. Asimismo, la Procuraduría de Protección estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente, con el objeto de que éste ordene a los medios de comunicación que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad, fomenten la hipersexualización infantil u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes.
 
 3. Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
 
@@ -2328,6 +2330,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-5 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37, PÁRRAFO 3, FRACCIÓN XIX; Y SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-265 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO 2 DEL ARTÍCULO 46, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
