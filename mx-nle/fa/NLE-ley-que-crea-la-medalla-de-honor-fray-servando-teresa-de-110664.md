@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-medalla-de-honor-fray-servando-teresa-de-110664
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-02"
-last_updated: "2023-02-24"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA MEDALLA DE HONOR "FRAY SERVANDO TERESA DE MIER" DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de diciembre de 2015.
 
@@ -137,11 +137,11 @@ La Comisión para la Igualdad de Género emitirá Convocatoria pública durante 
 
 Una vez recibidas las propuestas por la Comisión para la Igualdad de Género ésta procederá al análisis, estudio e investigación de las candidatas valorando su trayectoria, servicio y aportación a la comunidad o al Estado, y una vez realizada la ponderación anterior, la someterá al Pleno para la aprobación de los candidatos que cumplan con los requisitos de la Convocatoria aprobada con anterioridad, para que de manera posterior el Pleno designe al candidato que será homenajeado.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 12.
 
-La medalla "Fray Servando Teresa de Mier, Categoría Mujeres" será entregada por el Presidente del Congreso del Estado en Sesión Solemne durante el mes de marzo de cada año.
+La medalla "Fray Servando Teresa de Mier, Categoría Mujeres" será entregada por el Presidente del Congreso del Estado en Sesión Solemne durante el mes de octubre de cada año.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
@@ -167,11 +167,11 @@ La Comisión de Salud y Atención a Grupos Vulnerables emitirá Convocatoria pú
 
 Una vez recibidas las propuestas por la Comisión de Salud y Atención a Grupos Vulnerables, ésta procederá al análisis, estudio e investigación de los candidatos valorando su trayectoria, servicio y aportación a la comunidad o al Estado y una vez realizada la ponderación anterior, se someterá al Pleno para la aprobación de los candidatos que cumplan con los requisitos de la Convocatoria aprobada con anterioridad, para que de manera posterior el Pleno designe al candidato que será homenajeado.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 17.
 
-La medalla "Fray Servando Teresa de Mier, Categoría Adulto Mayor" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de septiembre de cada año.
+La medalla "Fray Servando Teresa de Mier, Categoría Adulto Mayor" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de octubre de cada año.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
@@ -197,11 +197,11 @@ La Comisión de Juventud emitirá Convocatoria pública durante el mes de septie
 
 Una vez recibidas las propuestas por la Comisión de Juventud, ésta procederá al análisis, estudio e investigación de las candidatas valorando su trayectoria, servicio y aportación a la comunidad o al Estado y una vez realizada la ponderación anterior, se someterá al Pleno para la aprobación de los candidatos que cumplan con los requisitos de la Convocatoria aprobada con anterioridad, para que de manera posterior el Pleno designe al candidato que será homenajeado.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 22.
 
-La medalla "Fray Servando Teresa de Mier, Categoría Juvenil" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de septiembre de cada año.
+La medalla "Fray Servando Teresa de Mier, Categoría Juvenil" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de octubre de cada año.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
@@ -227,11 +227,11 @@ La Comisión de Desarrollo Social, Derechos Humanos y Asuntos Indígenas emitir�
 
 Una vez recibidas las propuestas por la Comisión de Desarrollo Social, Derechos Humanos y Asuntos Indígenas, ésta procederá al análisis, estudio e investigación de las candidatas valorando su trayectoria, servicio y aportación a la comunidad o al Estado y una vez realizada la ponderación anterior, se someterá al Pleno para la aprobación de los candidatos que cumplan con los requisitos de la Convocatoria aprobada con anterioridad, para que de manera posterior el Pleno designe al candidato que será homenajeado.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 27.
 
-La medalla "Fray Servando Teresa de Mier, Categoría Periodismo será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de febrero de cada año.
+La medalla "Fray Servando Teresa de Mier, Categoría Periodismo" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de octubre de cada año.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
@@ -257,11 +257,11 @@ La Comisión de Medio Ambiente y Desarrollo Sustentable emitirá Convocatoria p�
 
 Una vez recibidas las propuestas por la Comisión de Medio Ambiente y Desarrollo Sustentable, ésta procederá al análisis, estudio e investigación de las (sic) candidatos valorando su trayectoria, servicio y aportación a la comunidad o al Estado y una vez realizada la ponderación anterior, se someterá al Pleno para la aprobación de los candidatos que cumplan con los requisitos de la Convocatoria aprobada con anterioridad, para que de manera posterior el Pleno designe al candidato que será homenajeado.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 32.
 
-La medalla "Fray Servando Teresa de Mier, Categoría Medio Ambiente" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de mayo de cada año.
+La medalla "Fray Servando Teresa de Mier, Categoría Medio Ambiente" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de octubre de cada año.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
@@ -287,11 +287,11 @@ La Comisión de Economía, Emprendimiento y Turismo emitirá Convocatoria públi
 
 Una vez recibidas las propuestas por la Economía, Emprendimiento y Turismo, ésta procederá al análisis, estudio e investigación de las candidatas valorando su trayectoria, servicio y aportación a la comunidad o al Estado y una vez realizada la ponderación anterior, se someterá al Pleno para la aprobación de los candidatos que cumplan con los requisitos de la Convocatoria aprobada con anterioridad, para que de manera posterior el Pleno designe al candidato que será homenajeado.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 37.
 
-La medalla "Fray Servando Teresa de Mier, Categoría Emprendedor" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de abril de cada año.
+La medalla "Fray Servando Teresa de Mier, Categoría Emprendedor" será entregada por el Presidente del Congreso del Estado, en Sesión Solemne durante el mes de octubre de cada año.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
@@ -328,3 +328,9 @@ P.O. 24 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 334. SE REFORMAN LOS ARTÍCULOS 1 Y 2; SE ADICIONAN LOS ARTÍCULOS 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37 Y 38 DE LA LEY QUE CREA LA MEDALLA DE HONOR "FRAY SERVANDO TERESA DE MIER" DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 089. SE REFORMAN LOS ARTÍCULOS 12, 17, 22, 27, 32 Y 37, DE LA LEY QUE CREA LA MEDALLA DE HONOR A “FRAY SERVANDO TERESA DE MIER” DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
