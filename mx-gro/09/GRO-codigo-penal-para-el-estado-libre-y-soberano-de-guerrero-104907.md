@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-02-07"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GRO"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ABRIL DE 2025 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2185,21 +2187,29 @@ Se sancionará con la pena antes señalada, a quien introduzca por vía vaginal 
 
 Se impondrá la pena prevista en este artículo, si entre los sujetos activo y pasivo de la violación existe un vínculo matrimonial, de concubinato o de pareja. En estos casos el delito se perseguirá por querella.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 179.
 
 Violación equiparada
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
-Se equipara a la violación y se sancionará de diez a cuarenta años de prisión:
+Se equipará a la violación y se sancionará de doce a cuarenta años de prisión:
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 I. Al que sin violencia realice cópula con persona menor de quince años de edad;
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 II. Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 III. Al que introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de quince años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
 
@@ -2225,13 +2235,15 @@ Este delito se perseguirá por querella, salvo que concurra violencia.
 
 Cuando la víctima sea menor de 15 años, se perseguirá de oficio.
 
+> <small>(REFORMADO SU ACÁPITE, P.O. 28 DE MARZO DE 2025)</small>
+
 ###### Artículo 181.
 
-Abuso sexual de personas menores de edad
+Abuso sexual contra niñas, niños y adolescentes
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
-Si el acto sexual se ejecuta en persona menor de doce años, en quien no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, se le aplicará una pena de diez a quince años de prisión y una multa de cuatrocientos cincuenta a novecientos del valor diario de la Unidad de Medida y Actualización y pago de la reparación del daño.
+Si el acto sexual se ejecuta en niñas, niños o adolescentes, en quien no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, se le impondrá una pena de doce a diecisiete años de prisión y una multa de quinientos a novecientos cincuenta del valor diario de la Unidad de Medida y Actualización y pago de la reparación del daño.
 
 Se aplicarán las mismas penas cuando el agente del delito obligue al pasivo a ejecutarle actos sexuales o la obligue a sí misma a realizarlo en su caso a un tercero.
 
@@ -2291,13 +2303,15 @@ Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, ad
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE AGOSTO DE 2024)</small>
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
+
 ###### Artículo 184.
 
-Hostigamiento sexual a personas menores de edad
+Hostigamiento sexual contra niñas, niños y adolescentes
 
-A quien realice los actos previstos en el artículo anterior con una persona menor de edad o que no tenga capacidad para comprender el significado del hecho, se le impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa.
+A quien realice los actos previstos en el artículo anterior en contra (sic) niñas, niños y adolescentes, o que no tengan capacidad para comprender el significado del hecho, se le impondrá de cuatro a diez años de prisión y de ciento cincuenta a quinientos días de multa del valor diario de la Unidad de Medida y Actualización.
 
-Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, además de la pena prevista en el párrafo anterior, será destituido e inhabilitado del cargo o empleo por el mismo tiempo de la pena de prisión impuesta.
+Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, además de la pena prevista en el párrafo anterior, será destituido del cargo que desempeña e inhabilitado para ocupar cualquier cargo, empleo o comisión en el servicio público por un periodo igual al de la pena de prisión impuesta.
 
 ### Capítulo VI. Incesto
 
@@ -2307,15 +2321,13 @@ Acoso sexual
 
 A quien con fines o móviles lascivos asedie a otra persona con la que no exista relación de subordinación, se le impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
+
 ###### Artículo 186.
 
-Acoso sexual a personas menores de edad
+Acoso sexual contra niñas, niños y adolescentes
 
-A quien realice los actos previstos en el artículo anterior con una persona menor de edad o que no tenga capacidad para comprender el significado del hecho, se le impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa.
-
-Si se ejerciere violencia física o psicológica las penas previstas se aumentarán en una mitad.
-
-Este delito se perseguirá por querella.
+A quien realice los actos previstos en el artículo anterior en contra de una niña, niño o adolescente, o que no tenga capacidad para comprender el significado del hecho, se le impondrán de cuatro a diez años de prisión y de cien a cuatrocientos días multa del valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
@@ -2395,15 +2407,21 @@ Privación de la libertad personal
 
 Al particular que ilegítimamente prive de la libertad personal a otra persona, sin el propósito de obtener un lucro, causar un daño o perjuicio a alguien, se le impondrán de dos a cinco años de prisión y hasta cien días multa.
 
+(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 173/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 29 DE MARZO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 226, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
+
 ###### Artículo 191.
 
 Agravantes
 
-La privación ilegal de la libertad se agrava en los siguientes casos:
+La privación ilegal de la libertad se agrava en los casos siguientes:
 
-I. Si la privación de la libertad excede de veinticuatro horas, la pena de prisión se incrementará un mes por cada día, y
+I. Si la privación de la libertad excede de veinticuatro horas, la pena de prisión se incrementará un mes por cada día adicional o fracción de tiempo que supere dicho plazo;
 
-II. Cuando se haga uso de la violencia física o moral, la víctima sea persona menor de dieciocho o mayor de sesenta años de edad o por cualquier circunstancia la víctima esté en situación de inferioridad física o no tenga capacidad para comprender el significado del hecho, la pena se aumentará hasta en una mitad.
+II. Cuando se haga uso de la violencia física o moral, la víctima sea persona mayor de sesenta años o por cualquier circunstancia la víctima esté en situación de inferioridad física o no tenga capacidad para comprender el significado del hecho, la pena de prisión será de tres a siete años y seis meses, y la multa de hasta trescientos setenta y cinco días del valor diario de la Unidad de Medida y Actualización, y
+
+III. Cuando la víctima sea una persona de menos de dieciocho años de edad, la pena de prisión será de cuatro a diez años y la multa de hasta quinientos días del valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 192.
 
@@ -5484,3 +5502,11 @@ P.O. 7 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 204 POR EL QUE SE ADICIONA EL ARTÍCULO 304 BIS, REVELACIÓN O DIFUSIÓN INDEBIDA, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 226 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
