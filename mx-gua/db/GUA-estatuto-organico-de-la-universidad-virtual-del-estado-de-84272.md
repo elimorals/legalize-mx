@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2025-03-24"
+last_updated: "2025-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GUA"
 ---
 # ESTATUTO ORGANICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2025 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
 
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2025)
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MARZO DE 2025.]</small>
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
@@ -95,7 +93,7 @@ IV. Realizar publicaciones producto del quehacer universitario; y
 
 V. Prestar servicios educativos que contribuyan a la formación integral de los miembros de la comunidad universitaria y de la sociedad.
 
-(REFORMADO, P.O. 14 DE MARZO DE 2025) (REPUBLICADO, P.O. 24 DE MARZO DE 2025)
+(REFORMADO, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 Alineación a los Sistemas Educativos
 
@@ -847,7 +845,7 @@ I. Elaborar las actividades referentes a la creación de los manuales de organiz
 
 II. Elaborar la propuesta del software de apoyo administrativo que utilizará la UVEG, en conjunto con el Director de Tecnologías de la Información y Comunicación;
 
-(REFORMADA, P.O. 14 DE MARZO DE 2025) (REPUBLICADA, P.O. 24 DE MARZO DE 2025)
+(REFORMADA, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 III. Elaborar los procedimientos y criterios de ingreso, permanencia, egreso y titulación del alumnado en los programas educativos que ofrece la UVEG, de conformidad con la normatividad aprobada por el Consejo, así como las disposiciones que resulten aplicables, en coordinación con la Secretaría Académica, así como verificar su aplicación;
 
@@ -899,15 +897,15 @@ XXVI. Avalar la suficiencia presupuestal de los contratos que se establezcan par
 
 XXVII. Mantener actualizado el inventario de bienes muebles e inmuebles, patrimonio de la UVEG;
 
-(REFORMADA, P.O. 14 DE MARZO DE 2025) (REPUBLICADA, P.O. 24 DE MARZO DE 2025)
+(REFORMADA, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 XXVIII. Integrar, con el apoyo de las demás unidades administrativas de la UVEG, el Programa de Adquisición de Bienes y Contratación de Servicios, observando los lineamientos que regulan su ejecución, así como organizar y dirigir la contratación de dichos bienes y servicios, de conformidad con la normatividad aplicable;
 
-(REFORMADA, P.O. 14 DE MARZO DE 2025) (REPUBLICADA, P.O. 24 DE MARZO DE 2025)
+(REFORMADA, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 XXIX. Presidir el Subcomité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de la UVEG, de conformidad con la normatividad vigente; y
 
-(ADICIONADA, P.O. 14 DE MARZO DE 2025) (REPUBLICADA, P.O. 24 DE MARZO DE 2025)
+(ADICIONADA, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 XXX. Coordinar el trámite de registro ante cualquier autoridad educativa de títulos, certificados, diplomas, reconocimientos, constancias, distinciones especiales y demás documentos inherentes a sus funciones.
 
@@ -967,7 +965,7 @@ XVI. Suscribir los documentos escolares oficiales que otorgue la UVEG, que le se
 
 XVII. Diseñar, coordinar y operar el sistema de expedición de certificados, diplomas, títulos y constancias de estudios de los alumnos;
 
-(REFORMADA, P.O. 14 DE MARZO DE 2025) (REPUBLICADA, P.O. 24 DE MARZO DE 2025)
+(REFORMADA, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 XVIII. Realizar los trámites ante cualquier autoridad educativa para la autenticación de certificados, títulos, grados de estudios y demás documentos inherentes a sus funciones;
 
@@ -1643,11 +1641,11 @@ II. El Director de Planeación y Evaluación, quien será el secretario técnico
 
 III. El Director de la División Académica a la que corresponda el programa educativo de que se trate;
 
-(REFORMADA, P.O. 14 DE MARZO DE 2025) (REPUBLICADA, P.O. 24 DE MARZO DE 2025)
+(REFORMADA, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 IV. Un representante del Gobierno del Estado que será nombrado por la persona titular de la Secretaría de Economía;
 
-(REFORMADA, P.O. 14 DE MARZO DE 2025) (REPUBLICADA, P.O. 24 DE MARZO DE 2025)
+(REFORMADA, P.O. 14 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 V. Un representante del Gobierno del Estado que será nombrado por la persona titular de la Secretaría del Nuevo Comienzo;
 
@@ -1845,9 +1843,7 @@ Inicio de vigencia
 
 Artículo Único. El presente Decreto Gubernativo iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 14 DE MARZO DE 2025.
-
-REPUBLICADO, P.O. 24 DE MARZO DE 2025
+P.O. 14 DE MARZO DE 2025. (F. DE E., P.O. 28 DE MARZO DE 2025)
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 19 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 40, MEDIANTE EL QUE SE CREA LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO NÚMERO 146, SEGUNDA PARTE, DEL 11 DE SEPTIEMBRE DEL 2007 Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO, EXPEDIDO MEDIANTE EL DECRETO GUBERNATIVO NÚMERO 193, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO NÚMERO 206, PRIMERA PARTE, DEL 27 DE DICIEMBRE DEL 2011".]
 
