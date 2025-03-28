@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-produccion-artesanal-del-estado-de-baja-859
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-20"
-last_updated: "2022-12-02"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 20 de enero de 2012.
 
@@ -55,7 +55,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- Artesanía.- Todos aquellos bienes procedentes de la actividad artesanal individual o colectiva, que tienen valor histórico cultural, utilitario, estético o comestible, pueden ser tradicionales o de reciente invención, que cumplen una función socialmente reconocida y cuando son producidas con maestría y habilidad se reconocen como obras de arte popular, que identifican o que destacan a una zona o comunidad.
 
-II.- Artesano.- El individuo que con sensibilidad y creatividad, desarrolla sus habilidades naturales o técnicas para elaborar artesanías en forma predominantemente manual o auxiliado por el uso de medios mecánicos de producción o de cualquier otro tipo que implique innovación en los medios y fines empleados para crear una determinada artesanía.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2025)</small>
+
+II.- Artesano.- Las personas artesanas y artesanos que con sensibilidad y creatividad, desarrollan sus habilidades naturales o técnicas para elaborar artesanías en forma predominantemente manual o auxiliado por el uso de medios mecánicos de producción o de cualquier otro tipo que implique innovación en los medios y fines empleados para crear una determinada artesanía.
 
 III.- Producción Artesanal.- La actividad económica de transformación cuyo proceso se realiza con materias primas de origen natural o industrial y que sus productos se identifican con la historia del lugar o región donde se elaboran.
 
@@ -247,6 +249,18 @@ Para apoyar la comercialización de los productos artesanales, la Secretaría de
 
 Corresponde a la Secretaría de Bienestar, a través de la Secretaría de Hacienda, así como a las Instituciones de Asistencia Privada promover y concertar acciones para que los artesanos cuenten con apoyos sociales y estímulos fiscales, además de aquellos que se considere favorezcan la dignificación de la familia artesanal.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MARZO DE 2025)</small>
+
+### CAPÍTULO VIII. DE LAS ARTESANÍAS PRODUCIDAS EN LOS CENTROS DE REINSERCIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+###### Artículo 26.
+
+Las autoridades, en el ámbito de sus atribuciones, coadyuvarán al fomento, promoción y comercialización del producto artesanal realizado por las personas privadas de la libertad en los Centros de Reinserción Social del Estado.
+
+Para cumplimiento de lo anterior, las acciones que se realicen deberán estar alineadas con las determinaciones que al efecto establezca la Comisión Estatal del Sistema Penitenciario de Baja California.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
@@ -286,3 +300,9 @@ P.O. 2 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 171 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 4, 5, 6, 7, 13, 15, 17, 18, 19, 22, 23, 24 Y 25 DE LA LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 3 Y LA ADICIÓN DE UN CAPÍTULO VIII DENOMINADO DE LAS ARTESANÍAS PRODUCIDAS EN LOS CENTROS DE REINSERCIÓN SOCIAL, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 26 A LA LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
