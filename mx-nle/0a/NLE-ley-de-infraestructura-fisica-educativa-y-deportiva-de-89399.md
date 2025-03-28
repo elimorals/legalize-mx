@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-infraestructura-fisica-educativa-y-deportiva-de-89399"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2018-11-16"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE INFRAESTRUCTURA FISICA EDUCATIVA Y DEPORTIVA DE NUEVO LEON
 
-LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN.
+LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de septiembre de 2012.
 
@@ -197,7 +197,9 @@ d) Clasificar, analizar, interpretar y resguardar la información recopilada del
 
 e) Realizar acciones de diagnóstico y pronóstico relacionadas con la infraestructura física, así como definir acciones de prevención en materia de seguridad estructural y de mantenimiento.
 
-IV. Formular y proponer programas de inversión para la construcción, mantenimiento, equipamiento, rehabilitación, reforzamiento, reconstrucción, reubicación y reconversión de los espacios destinados a la educación que imparta el Estado, de acuerdo con las disposiciones presupuestarias, así como realizar la supervisión de la obra, de conformidad con las normas y especificaciones técnicas que se emitan para tal efecto;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2025)</small>
+
+IV. Formular y proponer programas de inversión para la construcción, mantenimiento, equipamiento, rehabilitación, reforzamiento, reconstrucción, reubicación, reconversión y supervisión de los espacios destinados a la educación que imparta el Estado, de acuerdo con las disposiciones presupuestarias, así como realizar la supervisión de la obra, de conformidad con las normas y especificaciones técnicas que se emitan para tal efecto;
 
 V. El Instituto tendrá las siguientes atribuciones en materia de certificación de la INFEYD:
 
@@ -296,6 +298,14 @@ XXVI. Garantizar que las instalaciones educativas y deportivas cuenten con la in
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE MAYO DE 2017)</small>
 
 XXVII. Las demás que para el cumplimiento de su objeto le señale la ley y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+Para el cumplimiento de los antes previstos, el instituto constructor de infraestructura física educativa y deportiva de nuevo León podrá contar con delegados regionales que se encargarán de realizar revisión periódica de la infraestructura de las escuelas del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+El Instituto constructor podrá coordinarse con las autoridades municipales para brindar apoyo y orientación a los programas, con el fin de asegurar su implementación y seguimiento.
 
 ###### ARTÍCULO 19.
 
@@ -600,3 +610,9 @@ P.O. 16 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 015. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 3 FRACCIONES III Y V, 4 FRACCIÓN II, 15, 16 ÚLTIMO PÁRRAFO, 18 FRACCIONES IX, XXIII INCISO J), XXIV, XXV, XXVI, 23 FRACCIONES II Y V Y 24 PRIMER PÁRRAFO TODOS DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 087. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 18 Y SE ADICIONAN UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 18 DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
