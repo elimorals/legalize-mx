@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2024-07-15"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 823 PUBLICADO EN EL P.O. DEL 4 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -921,21 +919,27 @@ La Autoridad en materia de salud en el Estado, expedirán (sic) a través de los
 
 Las Instituciones, Colegios o Consultorios de Médicos Veterinarios Zootecnistas, y las Instituciones acreditados ante la Autoridad en materia de Salud en el Estado, podrán realizar la vacunación antirrábica y expedir el certificado de vacunación y su respectiva placa, turnando copia a estos Centros, para proceder al registro respectivo.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
+
 ###### Artículo 49.
 
-Los animales que deambulen libremente en la vía pública o sin placa u otro medio de identificación y vacunación, serán capturados y trasladados a los Centros de Control Animal y Zoonosis y serán depositados en jaulas adaptadas para este fin, evitando todo acto de crueldad hacia ellos.
+Los animales que deambulen libremente en la vía pública o sin placa u otro medio de identificación y vacunación, serán capturados y trasladados a los Centros de Control Animal y Zoonosis y serán depositados en jaulas adaptadas para este fin. Dichos actos se realizarán por personas debidamente capacitadas y equipadas para tal efecto, quienes evitarán cualquier acto de crueldad.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 50.
 
-Los animales capturados en la vía pública permanecerán bajo resguardo de los Centros de Control Animal y Zoonosis por espacio de 72 horas y podrán ser reclamados únicamente en este periodo de tiempo por sus propietarios, previa identificación, comprobante de vacunación antirrábica y el pago correspondiente, en la Tesorería Municipal.
+Los animales capturados en la vía pública permanecerán bajo resguardo de los Centros de Control Animal y Zoonosis por un lapso de siete días naturales contados a partir del día y hora de su ingreso; y podrán ser reclamados durante este periodo por sus propietarios o poseedores, previa identificación, mediante documentos, fotografías o testigos.
 
-Los animales que sean reclamados, serán esterilizados, debiendo pagar los propietarios, los costos por este concepto.
+Los animales que sean reclamados serán esterilizados y vacunados contra la rabia, en caso de no contar con esta vacuna. La persona que los reclame deberá pagar los gastos de esterilización, resguardo y vacunación, ante las oficinas de la Tesorería Municipal.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 51.
 
-Los animales que no sean reclamados por sus dueños serán sacrificados utilizando métodos humanitarios o en su caso podrán ser donados a asociaciones protectoras de animales o a terceros, quienes podrán en coordinación con las autoridades municipales desarrollar campañas de adopción de perros y gatos, señalando en ellas, lugar, día y hora límite para la adopción; procurando dar la máxima difusión posible mediante el uso de las Tecnologías de Información y Comunicación que tuvieran a su alcance.
+Los animales que no sean reclamados serán donados a asociaciones protectoras de animales, a refugios de animales, o a las personas físicas que así lo soliciten, previo cumplimiento de los requisitos y condiciones que para tal efecto señale la autoridad municipal competente, entre los cuales deberá contemplarse por lo menos la firma de un contrato de donación, de adopción o su equivalente, así como su registro obligatorio en el Padrón Municipal de Animales.
+
+Las asociaciones protectoras de animales y personas físicas podrán, en coordinación con las autoridades municipales, desarrollar campañas de adopción responsable de perros y gatos, debiendo observar las disposiciones municipales en la materia y los lineamientos que para tal efecto establezcan dichas asociaciones. Se procurará otorgar la máxima difusión posible a dichas campañas, mediante el uso de tecnologías de la información y la comunicación.
 
 ###### Artículo 52.
 
@@ -1185,11 +1189,11 @@ Cualquier animal que asista a personas con discapacidad o que por prescripción 
 
 La práctica de la zooterapia deberá ser asistida por personas capacitadas para dicho fin.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### Artículo 79.
 
-Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las Asociaciones Protectoras de Animales en coordinación con las autoridades correspondientes.
+Los animales abandonados o no reclamados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las Asociaciones Protectoras de Animales en coordinación con las autoridades correspondientes.
 
 ### CAPITULO DECIMO OCTAVO. DEL FONDO PARA LA PROTECCION DE LOS ANIMALES
 
@@ -1626,5 +1630,11 @@ P.O. 7 DE JUNIO DE 2024.
 P.O. 14 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 979 POR EL QUE SE ADICIONA EL ARTÍCULO 45 BIS A LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 203 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LOS ANIMALES CAPTURADOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
