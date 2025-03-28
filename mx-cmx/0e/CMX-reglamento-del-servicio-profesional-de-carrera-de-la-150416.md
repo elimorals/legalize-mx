@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-profesional-de-carrera-de-la-150416"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-07-22"
-last_updated: "2021-08-12"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150416&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-30"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2025.
 
 Reglamento publicado en el Número 645 de la Gaceta Oficial de la Ciudad de México, el jueves 22 de julio de 2021.
 
@@ -1094,7 +1094,7 @@ El personal sustantivo que se incorpore al Servicio Profesional de Carrera de la
 
 QUINTO. El presente Reglamento se aplicará al personal sustantivo una vez concluido el proceso a que se refiere el artículo transitorio que antecede.
 
-SEXTO. Una vez concluido el proceso a que se refiere el artículo Cuarto Transitorio, todas las referencias que se hagan en la normatividad en vigor de la Fiscalía General de Justicia de la Ciudad de México al Oficial Secretario, se entenderán hechas al Agente del Ministerio Público Auxiliar A.
+> <small>(DEROGADO POR EL ARTÍCULO SEXTO TRANSITORIO DEL ACUERDO FGJCDMX/05/2025 POR EL QUE SE INSTRUYE AL PERSONAL SUSTANTIVO Y DEMÁS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO, G.O. 28 DE MARZO DE 2025)</small>
 
 SÉPTIMO. Los procedimientos de separación del personal sustantivo iniciados antes de la entrada en vigor al presente Reglamento, serán concluidos de conformidad con las disposiciones aplicables al momento de su inicio.
 
@@ -1115,3 +1115,19 @@ G.O. 12 DE AGOSTO DE 2021.
 PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO FGJCDMX/05/2025 POR EL QUE SE INSTRUYE AL PERSONAL SUSTANTIVO Y DEMÁS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las personas Agentes del Ministerio Público Auxiliares de cualquier nivel, sin perjuicio de ejercer las facultades a que se refiere el artículo 1 del presente Acuerdo, tratándose de Averiguaciones Previas, en su caso, ejercerán las funciones que correspondían a los Oficiales Secretarios, de conformidad con las disposiciones aplicables.
+
+CUARTO. Se contará con un periodo de 20 días, contados a partir de la fecha de publicación del presente Acuerdo para que las Personas Agentes del Ministerio Público Auxiliares, Titulares y Supervisores cuenten con un usuario activo y las claves de acceso a que se refiere el artículo 4 del presente instrumento.
+
+QUINTO Quedan sin efectos todos los Acuerdos y disposiciones emitidas con anterioridad, que contravengan lo previsto en el presente Acuerdo.
+
+SEXTO. Se derogan los Artículos Transitorios Sexto del Reglamento del Servicio Profesional de Carrera de la Fiscalía General de Justicia de la Ciudad de México, y Octavo del Acuerdo FGJCDMX/25/2021 por el que se establecen los Lineamientos para el Ingreso del Personal Sustantivo al Servicio Profesional de Carrera de la Fiscalía General de Justicia de la Ciudad de México, publicados en la Gaceta Oficial de la Ciudad de México el 22 de julio de 2021.
