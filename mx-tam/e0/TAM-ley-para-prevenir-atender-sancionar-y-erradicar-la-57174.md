@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2025-02-20"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -366,6 +366,14 @@ La violencia política contra las mujeres en razón de género se sancionará en
 ###### Artículo 8 Sexies.
 
 Violencia Vicaria es la utilización que hace por sí mismo o por interpósita persona, el padre, ex esposo, ex pareja, o quien haya tenido una relación sentimental o sexual con la madre, utilizando a los hijos y las hijas para causar daño, dolor, angustia o cualquier tipo de afectación a la madre.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+###### Artículo 8 Septies.
+
+1. Violencia en el noviazgo es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir, degradar o dañar física, intelectual y psicológicamente a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia y/o maltrato, durante o después de una relación de noviazgo, afectiva, de hecho o sexual.
+
+2. La violencia en el noviazgo se sancionará de acuerdo con lo establecido en los artículos 79 y 368 Quater del Código Penal para el Estado de Tamaulipas.
 
 ### Capítulo III. De las Órdenes de Protección
 
@@ -1676,6 +1684,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-242 MEDIANTE EL CUAL SE ADICIONA EL INCISO B), RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN NATURAL, AL ARTÍCULO 3 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-264 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 368 BIS, PÁRRAFOS PRIMERO Y TERCERO; Y SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 368 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS Y SE ADICIONA EL ARTÍCULO 8 SEPTIES A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
 
 ###### ARTÍCULO ÚNICO.
 
