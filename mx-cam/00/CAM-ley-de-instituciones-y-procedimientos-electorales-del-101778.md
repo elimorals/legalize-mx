@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2024-10-09"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -560,6 +560,10 @@ c) Que se comprobó la identidad y residencia de los delegados a la asamblea loc
 d) Que los delegados aprobaron la declaración de principios, programa de acción y estatutos, y
 
 e) Que se presentaron las listas de afiliados con los demás ciudadanos con que cuenta la organización en el Estado, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por esta Ley de Instituciones. Estas listas contendrán los datos requeridos en el inciso b) de la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+El Reglamento de la materia deberá garantizar el cumplimiento al principio de paridad de género en la conformación de las fórmulas de las personas delegadas en las Asambleas. Asimismo, deberá preverse un procedimiento específico para subsanar el incumplimiento al principio de paridad de género en la conformación de dichas fórmulas y, en caso de renuncia, el procedimiento de sustitución de esta figura.
 
 ###### Artículo 53.
 
@@ -1704,6 +1708,14 @@ Una vez que haya causado estado la resolución que decrete la pérdida del regis
 El Instituto Electoral, por conducto del órgano que el Consejo General autorice en el reglamento de la materia y conforme a lo que en el propio Reglamento se determine, conservará dichos bienes y, en su caso, ordenará su venta mediante subasta pública y aplicará el producto de la misma hasta donde alcance para cubrir las deudas que hubiese adquirido el extinto Partido Político.
 
 Satisfechas tales deudas, de resultar un saldo remanente del producto de la venta, ésta pasará a formar parte del patrimonio del Instituto Electoral.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+Tratándose del partido político local que pierda su registro después de su primera elección deberá reembolsar el monto del financiamiento público de campañas no erogado, por lo que, una vez que haya causado estado la resolución que decrete tal, la Dirección Ejecutiva de Administración y Prerrogativas procederá a solicitarle, dentro de los cinco días hábiles siguientes, a la instancia competente del partido político local, el reembolso del monto del financiamiento público de campañas.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
+
+En caso de no hacerlo así, se turnará oficio a la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, para que sea la instancia encargada de realizar el cobro correspondiente al partido político local por medio del procedimiento coactivo que determine; pago que será remitido en su importe total al Instituto Electoral a efecto de que el Consejo General determine lo conducente.
 
 ## TÍTULO SEXTO. DE LOS CANDIDATOS INDEPENDIENTES
 
@@ -8171,10 +8183,20 @@ Quinto.- El Instituto Electoral del Estado de Campeche, deberá tener presente a
 
 P.O. 9 DE OCTUBRE DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 415 POR EL QUE SE “SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 11 Y EL ARTÍCULO 395; SE REPONE CON NUEVO TEXTO LA FRACCIÓN V DEL ARTÍCULO 210; Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 11, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 415 POR EL QUE “SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 11 Y EL ARTÍCULO 395; SE REPONE CON NUEVO TEXTO LA FRACCIÓN V DEL ARTÍCULO 210; Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 11, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Lo previsto en el presente decreto, entendido como una regla electoral, será aplicable para el proceso electoral del 2027.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 70 POR EL QUE “SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 52 Y, LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 162 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto Electoral del Estado de Campeche, deberá realizar las adecuaciones normativas necesarias para cumplir con los fines establecidos en el presente Decreto en un plazo que no exceda de los 60 días naturales siguientes a la entrada en vigor de este.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
