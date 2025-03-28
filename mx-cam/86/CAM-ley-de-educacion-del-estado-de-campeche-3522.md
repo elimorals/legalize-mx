@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2025-02-11"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -383,6 +383,12 @@ XII.- Colaborar con la Secretaría de Educación Pública del Gobierno Federal, 
 
 XIII.- Impulsar en conjunto con la Secretaría de Salud, programas de educación sobre salud bucodental, así como la práctica de hábitos de higiene dental entre las niñas y niños de educación preescolar y primaria de la Entidad.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2025)</small>
+
+XIII Bis.- Diseñar e impulsar, en conjunto con la Secretaría de Salud, campañas, acciones y programas de prevención y atención a la salud visual permanentes para niñas y niños de planteles de educación básica.
+
+Las campañas y programas, en función de la disponibilidad presupuestal, podrán tener como objetivo la dotación de lentes a niñas y niños de educación básica, con el propósito de mejorar la calidad del aprendizaje. En su caso, las autoridades podrán suscribir los instrumentos jurídicos necesarios con instituciones públicas y privadas para lograr este objetivo.
+
 XIV.- Distribuir oportuna, completa y eficazmente los libros de texto gratuito y materiales educativos complementarios que el Ejecutivo Federal le proporcione para hacerlos llegar a maestros y escuelas de la entidad;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
@@ -720,6 +726,10 @@ X.- Promover campañas permanentes de orientación para el cuidado y protección
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2023)</small>
 
 X Bis.- Promover programas que fortalezcan la educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental, en coordinación con los padres y madres o tutores y las asociaciones de padres y madres de familia;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2025)</small>
+
+X Ter.- Diseñar y aplicar campañas de salud visual, en conjunto con la Secretaría de Salud y organizaciones de la sociedad civil, para planteles escolares de educación básica, de acuerdo a la disponibilidad presupuestaria correspondiente.
 
 XI.- Promover la educación para padres de los alumnos del nivel básico.
 
@@ -1652,3 +1662,13 @@ P.O. 11 DE FEBRERO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 71 POR EL QUE “SE ADICIONAN LA FRACCIÓN XIII BIS AL ARTÍCULO 13 Y LA FRACCIÓN X TER AL ARTÍCULO 22-4 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+TERCERO.- Las Secretarías de Educación y de Salud, adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que se realicen con sus previsiones presupuestales asignadas.
