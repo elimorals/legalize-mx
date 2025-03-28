@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-del-comite-de-igualdad-laboral-y-no-179001"
 country: "mx"
 rank: "codigo"
 publication_date: "2025-03-14"
-last_updated: "2025-03-20"
+last_updated: "2025-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,9 @@ CÓDIGO DE CONDUCTA DEL COMITÉ DE IGUALDAD LABORAL Y NO DISCRIMINACIÓN DEL GOB
 
 TEXTO ORIGINAL.
 
-Código publicado en la Tercera Parte del Número 53 del Periódico Oficial del Estado de Guanajuato, el viernes 14 de marzo de 2025. (REPUBLICADO EN EL P.O. 20 DE MARZO DE 2025).
+(REPUBLICADO EN EL P.O. 20 DE MARZO DE 2025) (F. DE E., P.O. 28 DE MARZO DE 2025)
+
+Código publicado en la Tercera Parte del Número 53 del Periódico Oficial del Estado de Guanajuato, el viernes 14 de marzo de 2025.
 
 LIBIA DENNISE GARCÍA MUÑOZ LEDO, Gobernadora Constitucional del Estado de Guanajuato y Presidenta del Comité de Igualdad Laboral y No Discriminación del Gobierno de la Gente, con fundamento en lo dispuesto en la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación; y de conformidad con el Acta de instalación del Comité de Igualdad Laboral y No Discriminación del Estado de Guanajuato de fecha 13 de septiembre de 2016.
 
