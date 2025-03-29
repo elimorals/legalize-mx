@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2024-01-27"
+last_updated: "2025-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -99,35 +99,59 @@ V.- Condecoración "LIC. BALBINO DAVALOS", que se otorgará a quienes se disting
 
 VI.- Condecoración "Dr. MIGUEL GALINDO", que se otorgará a quienes se hayan destacado en la labor científica (investigadores, médicos, químicos, biólogos, astrónomos, astrólogos, matemáticos, autores y tratadistas de la materia, etc.);
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MARZO DE 2025)</small>
 
-VII.- Premio Estatal de Periodismo, como reconocimiento público a la labor que realizan los trabajadores y colaboradores periodísticos de los medios de comunicación, en las categorías siguientes:
+VII.- Premio Estatal de Periodismo, como reconocimiento público a la labor que realizan las personas trabajadoras y colaboradoras periodísticas de los medios de comunicación, así como las y los estudiantes de periodismo, en las categorías siguientes:
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
 a) Reportaje;
 
-b) Conducción de noticias por radio o televisión;
+b) (DEROGADO, P.O. 29 DE MARZO DE 2025)
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
 c) Artículo de fondo / opinión;
 
-d) Análisis Político, siempre que sea periodista;
+d) (DEROGADO, P.O. 29 DE MARZO DE 2025)
 
-e) Caricatura / Humor;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
+
+e) Caricatura / Humor / diseño infográfico;
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
 f) Entrevista;
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+
 g) Crónica;
 
-h) Fotografía;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
+
+h) Fotografía periodística;
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
 i) Noticia;
 
-j) Periodismo cultural / difusión científica; y
+j) (REFORMADO, P.O. 29 DE MARZO DE 2025)
 
-k) Periodismo deportivo.
+k) (REFORMADO, P.O. 29 DE MARZO DE 2025)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2025)</small>
 
-La entrega de estos premios se hará en el marco del festejo del "Día Estatal del Periodista"; y
+l) Estudiantil;
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2025)</small>
+
+m) Video reportaje (equipo);
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE MARZO DE 2025)</small>
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2025)</small>
+
+Adicionalmente, se entregará un reconocimiento a aquellas personas que cuenten con una trayectoria periodística de 50 años o más, lo cual deberán acreditar con la documentación que consideren pertinente. Las personas participantes para este reconocimiento deberán ser propuestas por alguna de las organizaciones periodísticas en el Estado y sólo podrán ser reconocidas por una única ocasión.
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -211,41 +235,49 @@ El otorgamiento de las insignias será decretado en cada caso particular por el 
 
 La entrega de las insignias la hará personalmente el propio Jefe del Poder Ejecutivo, o quien haga sus veces, en solemne ceremonia que anualmente habrá de efectuarse aprovechando uno de los actos celebrados con motivo de la Feria Regional, en la inteligencia de que el Decreto que en cada caso particular expida el H. Congreso Local para el otorgamiento de las condecoraciones, se dará a conocer en cada vez, personalmente por el mismo Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2025)</small>
 
-###### Artículo 6o.
+###### Artículo 6º.
 
-La entrega del Premio Estatal de Periodismo a la labor que realizan los trabajadores y colaboradores periodísticos de los medios de comunicación a que se refiere la fracción VII, del artículo 1° de esta Ley, se hará de manera personal en sesión solemne el día de la Libertad de expresión o cuando así lo determine el Pleno, en el Congreso del Estado.
+La entrega del Premio Estatal de Periodismo a la labor que realizan las personas trabajadoras y colaboradoras periodísticas de los medios de comunicación, así como a las y los estudiantes de periodismo, a que se refiere la fracción VII, del artículo 1º de esta Ley, se hará de manera personal en sesión solemne en el marco del Día de la Libertad de Expresión.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
 
-La Comisión de Educación y Cultura del H. Congreso del Estado, expedirá la convocatoria durante el mes de abril, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a los periodistas, reporteros, colaboradores periodísticos y en general a toda la población del Estado, admitiéndose todas las propuestas de candidatos al Premio en sus diferentes categorías.
+La Comisión de Educación, Cultura y Ciencia del H. Congreso del Estado, expedirá la convocatoria durante el mes de abril, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a las personas periodistas, reporteras, colaboradoras periodísticas, estudiantes de periodismo, y en general a toda la población del Estado, admitiéndose propuestas de la misma persona hasta en 3 categorías diferentes.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
 
-La Comisión de Educación y Cultura del H. Congreso del Estado, convocará a la integración de un Consejo Ciudadano que examinará las candidaturas presentadas y propondrá al o los acreedores al premio o bien sugerirá que se declare desierto, si las candidaturas no reúnen las condiciones para ser consideradas.
+En caso de que la persona candidata haya sido reconocida en la convocatoria inmediata anterior, no podrá concursar nuevamente en la categoría que le fue premiada.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2025)</small>
 
-El Consejo Ciudadano se integrará con un representante de las instituciones de Educación Superior Públicas y Privadas del Estado, así como aquellas escuelas que tengan especialidad en comunicación o periodismo; las asociaciones o clubes debidamente registrados que agrupen a reporteros, periodistas, escritores, caricaturistas y fotógrafos de Colima.
+La Comisión de Educación, Cultura y Ciencia del H. Congreso del Estado, convocará a la integración de un Consejo Ciudadano que examinará los trabajos presentados y propondrá a las personas acreedoras al premio o bien, sugerirá que se declare desierto, si los trabajos no reúnen los criterios para ser considerados.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
 
-Las propuestas de ganadores en cada categoría que formule el Consejo Ciudadano serán remitidas a la Comisión de Educación y Cultura del H. Congreso del Estado, quien verificará que cumplan con los requisitos señalados.
+El Consejo Ciudadano se integrará por cinco personas: dos representantes de las instituciones de Educación Superior Públicas y Privadas del Estado que tengan especialidad en periodismo; dos personas representantes de las asociaciones o clubes debidamente registrados que agrupen a reporteros, periodistas y/o fotógrafos de Colima, así como una persona de la sociedad civil.
 
-Los criterios para seleccionar a los candidatos que se harán acreedores al Premio Estatal de Periodismo serán los siguientes:
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
+
+Las propuestas de personas merecedoras en cada categoría que formule el Consejo Ciudadano, serán remitidas por escrito a la Comisión de Educación, Cultura y Ciencia del H. Congreso del Estado, quien emitirá el dictamen correspondiente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MARZO DE 2025)</small>
+
+Los criterios generales para seleccionar a los trabajos que serán reconocidos con el Premio Estatal de Periodismo, además de los establecidos en la convocatoria, serán los siguientes:
 
 I.- La calidad periodística;
 
 II.- La veracidad y objetividad de la información;
 
-III.- El interés que despierte en la sociedad;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2025)</small>
 
-IV.- El beneficio social de su actividad;
+III.- Responsabilidad social;
 
-V.- La trayectoria personal;
+IV.- (DEROGADA, P.O. 29 DE MARZO DE 2025)
 
-VI.- La actividad del propuesto durante el año anterior;
+V.- (DEROGADA, P.O. 29 DE MARZO DE 2025)
+
+VI.- (DEROGADA, P.O. 29 DE MARZO DE 2025)
 
 VII.- El apego a la libertad de expresión;
 
@@ -253,9 +285,13 @@ VIII.- La ética profesional; y
 
 IX.- La responsabilidad profesional.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
 
-La entrega del Premio Estatal de Periodismo consistirá en un pergamino y una asignación en Moneda Nacional, cuyo monto será determinado conforme a la disponibilidad presupuestaria de los entes convocantes.
+La entrega del Premio Estatal de Periodismo consistirá en un reconocimiento y una asignación en Moneda Nacional, cuyo monto será determinado conforme a la disponibilidad presupuestaria del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2025)</small>
+
+La entrega del reconocimiento por trayectoria periodística señalará el nombre de la persona y los años de trayectoria que se le reconocen.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -550,3 +586,9 @@ P.O. 27 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 400.- POR EL QUE SE REFORMAN, LOS INCISOS A) Y C), ASÍ COMO, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCIÓN I Y SE DEROGA EL INCISO B) DE LA FRACCIÓN I, TODOS DEL ARTÍCULO 1o. DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 78.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
