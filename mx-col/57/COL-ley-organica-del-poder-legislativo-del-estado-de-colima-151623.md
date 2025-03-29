@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2024-12-28"
+last_updated: "2025-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2025.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -873,13 +873,21 @@ XIV. Derechos Humanos;
 
 XV. Peticiones y Participación Ciudadana;
 
-XVI. Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2025)</small>
 
-XVII. Anticorrupción y Transparencia Gubernamental.
+XVI. Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2025)</small>
 
-XVIII. Turismo
+XVII. Anticorrupción y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2025)</small>
+
+XVIII. Turismo; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2025)</small>
+
+XIX. Protección y Derecho al Agua.
 
 ###### Artículo 72.
 
@@ -887,13 +895,15 @@ La integración de las Comisiones permanentes será realizada por la Junta de Go
 
 Para la integración de las Comisiones permanentes, el Grupo Parlamentario que tenga mayor número de miembros será el primero en seleccionar. En el caso de que varios Grupos Parlamentarios tengan igual número de miembros, la preeminencia la tendrá el del partido político que tenga mayor número de Diputados de mayoría relativa y, si varios coinciden en este, la tendrá el que hubiere obtenido el mayor número de votos en la elección de Diputados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2025)</small>
+
 ###### Artículo 73.
 
-Las Comisiones permanentes estarán integradas por tres Diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios. El encargo de sus integrantes será por el término de la Legislatura.
+Las Comisiones permanentes estarán integradas por tres diputadas y diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios. El encargo de sus integrantes será por el término de la Legislatura.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2025)</small>
 
-Las Comisiones de Responsabilidades; de Desarrollo Económico, Innovación Tecnología e Inteligencia Artificial; de Educación, Cultura y Ciencia: de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; y de Peticiones y Participación Ciudadana, se integrarán por cinco Diputados de conformidad con los términos que señalen esta Ley y el Reglamento.
+Las Comisiones de Responsabilidades; de Desarrollo Económico, Innovación Tecnología e Inteligencia Artificial; de Educación, Cultura y Ciencia: de Salud y Deporte; de Estudios Legislativos y Puntos Constitucionales; de Hacienda, Fiscalización y Cuenta Pública; de Presupuesto y Disciplina Financiera; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; de Anticorrupción y Transparencia Gubernamental; de Peticiones y Participación Ciudadana; y de Protección y Derecho al Agua, se integrarán por cinco diputadas y diputados de conformidad con los términos que señalen esta Ley y el Reglamento.
 
 Las Comisiones de Hacienda, Fiscalización y Cuenta Pública; de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y de Anticorrupción y Transparencia Gubernamental, serán presididas por Diputados pertenecientes a Grupos Parlamentarios de partidos políticos distintos al de la persona titular del Poder Ejecutivo. Un Grupo Parlamentario no podrá ostentar al mismo tiempo la Presidencia de más de una de las comisiones señaladas; en caso de que no fuera posible cumplir con esta condición, la Presidencia de las comisiones citadas podrá recaer en un Diputado único, sin partido o independiente, siempre que sea de un partido político distinto al que pertenezca la persona titular del Poder Ejecutivo.
 
@@ -1612,3 +1622,11 @@ P.O. 28 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 62.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación y deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 69.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Honorable Congreso del Estado, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Comuníquese la presente reforma a la Comisión Estatal del Agua, al Organismo Público Descentralizado Intermunicipal y los Organismos Municipales de Agua Potable para su conocimiento y para los efectos legales que haya a lugar.
