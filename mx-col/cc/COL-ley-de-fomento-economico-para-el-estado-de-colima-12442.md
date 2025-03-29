@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2017-10-07"
+last_updated: "2025-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO ECONÓMICO PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 29 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2025 (ABROGADO).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -872,3 +874,33 @@ P.O. 7 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 356 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 29 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE DESARROLLO ECONÓMICO PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley de Fomento Económico para el Estado de Colima, publicada en el Periódico Oficial “El Estado de Colima” el 29 de agosto de 1998.
+
+TERCERO. Dentro del plazo no mayor de 180 días hábiles, el Poder Ejecutivo emitirá el Reglamento de la presente Ley, contados a partir de la entrada en vigor del presente Decreto. En tanto, continuará aplicándose en lo que no se oponga, el Reglamento de la Ley de Fomento Económico para el Estado de Colima.
+
+CUARTO. Los procedimientos administrativos en curso anteriores a la entrada en vigor del presente Decreto, se sustanciarán y resolverán de conformidad con la legislación vigente aplicable al momento de su inicio.
+
+QUINTO. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+SEXTO. El Consejo Consultivo para el Desarrollo Económico del Estado de Colima que se crea en la presente ley deberá quedar debidamente constituido en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, por lo que el Consejo Estatal para el Fomento Económico de la Ley que se abroga, queda sin efectos para todos los efectos legales y administrativos que procedan.
+
+SÉPTIMO. Constituido legalmente el Consejo Consultivo para el Desarrollo Económico del Estado de Colima, en un plazo no mayor a 180 días hábiles deberá emitir el manual de procedimientos para la elaboración del Plan Estratégico en Materia Económica.
+
+OCTAVO. El Fondo del Sistema Colimense de Incentivos y Apoyos para la Inversión y el Empleo entrará en operación durante el ejercicio fiscal 2025, por lo que, por única ocasión, como medida de transición, será sufragada por los recursos que al efecto establezca la Secretaría de Planeación, Finanzas y Administración. Por lo que a partir del ejercicio fiscal 2026 el importe de dicho fondo deberá establecerse en el Presupuesto de Egresos que corresponda en los términos de la presente Ley.
+
+NOVENO. En un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto deberá ser reformado el Reglamento Interior de la Secretaría de Desarrollo Económico, con el objeto de homologar sus disposiciones con lo establecido en esta Ley.
+
+DÉCIMO. Los municipios del Estado y demás dependencias de la administración pública centralizada y paraestatal deberán armonizar, en lo que corresponda, y en un plazo que no excederá de 180 días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto, sus reglamentaciones respectivas para la debida observancia de la presente Ley.
+
+DÉCIMO PRIMERO. En un plazo no mayor a 180 días hábiles posteriores a la entrada en vigor del Reglamento de la presente Ley, deberán ser aprobados y publicados la normatividad, lineamientos, manuales y demás instrumentos normativos que al efecto contempla la presente Ley, con el objetivo de garantizar la debida observancia de lo aquí aprobado.
+
+DÉCIMO SEGUNDO. A más tardar un año posterior a la entrada en vigor del presente Decreto, deberá entrar en operación la Ventanilla Única de Asistencia y Trámites Empresariales en su modalidad digital en los términos aprobados en la presente Ley.
+
+DÉCIMO TERCERO. El importe de recursos a transferirse al Fideicomiso para el Desarrollo Económico del Estado de Colima, establecido en el artículo 65, numeral 1, fracción III, inciso c) de la presente Ley, entrará en vigor a partir del ejercicio fiscal 2026.
