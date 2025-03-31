@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2024-12-10"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -59,9 +59,9 @@ Tiene el Estado de Tlaxcala una composición pluricultural sustentada originalme
 
 Sólo se reconocerá como limitante a lo anteriormente establecido, el menoscabo a los derechos humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos y los reconocidos en la presente Constitución.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
 
-Los Tribunales y Jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad entre el varón y la mujer.
+Los Tribunales y Jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad entre el hombre y la mujer, con perspectiva de género.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -399,9 +399,13 @@ I. Toda persona tiene derecho a que se respete su vida; nadie podrá ser condena
 
 II. A la identificación plena de su personalidad. A contar con un nombre y dos apellidos. La ley regulará la forma de asegurar este derecho;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2025)</small>
 
-III. A trato igualitario sin distinción de personas por razón de raza, sexo, edad, religión, ideología, filiación, preferencia sexual, pertenencia a minorías o lugar de nacimiento;
+III. A trato igualitario sin distinción de personas por razón de raza, sexo, edad, religión, ideología, filiación, preferencia sexual, pertenencia a minorías o lugar de nacimiento.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2025)</small>
+
+El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -461,9 +465,9 @@ i) El organismo autónomo a que se refiere el artículo 97 de esta Constitución
 
 VI. En todo procedimiento se excluirá la prueba obtenida ilegalmente. A ser indemnizado por la privación ilegal de su libertad, por alguna autoridad y aún por error judicial;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-VII. El varón y la mujer son iguales ante la ley, a la igualdad de oportunidades en materia de trabajo, incluida la igualdad de retribución por labores similares;
+VII. El hombre y la mujer son iguales ante la ley, a la igualdad de oportunidades en materia de trabajo, incluida la igualdad de retribución por labores similares, sin tener en cuenta el sexo ni el género. Las leyes establecerán los mecanismos tendentes a reducir y erradicar la brecha salarial de género;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -503,13 +507,17 @@ En los casos en que exista vulneración o restricción de derechos de niñas, ni
 
 XIII. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia; sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en trasplante, sin fines de lucro y con el propósito de reducir la morbimortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-XIV. Nadie podrá ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo; y
+XIV. Nadie podrá ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo;
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-XV. Toda persona tendrá derecho a que las resoluciones de los órganos jurisdiccionales y las provenientes de cualquier otra autoridad del Estado, sean emitidas en un lenguaje sencillo que cualquier persona pueda comprender, en medíos impresos o electrónicos, mediante audio, en Sistema de escritura Braille, Lengua de Señas Mexicana o traducción a lenguas indígenas, procurando en todo momento su accesibilidad.
+XV. Toda persona tendrá derecho a que las resoluciones de los órganos jurisdiccionales y las provenientes de cualquier otra autoridad del Estado, sean emitidas en un lenguaje sencillo que cualquier persona pueda comprender, en medios impresos o electrónicos, mediante audio, en Sistema de escritura Braille, Lengua de Señas Mexicana o traducción a lenguas indígenas, procurando en todo momento su accesibilidad, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2025)</small>
+
+XVI. Toda persona tiene derecho a vivir una vida libre de violencias, tanto en el ámbito público como en el privado, el Estado tiene deberes reforzados de protección y garantía de una vida libre de violencias a favor de las mujeres, adolescentes, niñas y niños. La Ley definirá las bases y modalidades para garantizar su realización.
 
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2019)</small>
 
@@ -1729,7 +1737,9 @@ La Fiscalía General de Justicia del Estado, en representación jurídica de la 
 
 Corresponde a la Fiscalía General de Justicia del Estado y a las policías la investigación de los delitos.
 
-La Fiscalía General de Justicia del Estado realizará una procuración de justicia eficaz, efectiva y apegada a derecho; solicitará las medidas cautelares y ejercitará las acciones que correspondan contra los imputados; obtendrá y presentará las pruebas que acrediten la participación de éstos en los hechos que las leyes señalen como delitos; hará efectivos los derechos concedidos al Estado e intervendrá en los juicios que afecten a las personas a quienes se debe otorgar especial atención conforme a la ley; tendrá en su estructura órganos de dirección, profesionales y técnicos, fiscalías especializadas, así como una corporación policíaca, y se regirá por los principios de justicia, legalidad, imparcialidad, autonomía, independencia, objetividad, eficiencia, disciplina, honradez, unidad, buena fe, presunción de inocencia, profesionalismo, diligencia, lealtad, respeto a los derechos humanos y perspectiva de género.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
+La Fiscalía General de Justicia del Estado realizará una procuración de justicia eficaz, efectiva y apegada a derecho; solicitará las medidas cautelares y ejercitará las acciones que correspondan contra los imputados; otorgará de oficio o a petición de parte, medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos relacionados con las violencias de género contra las mujeres; obtendrá y presentará las pruebas que acrediten la participación de éstos en los hechos que las leyes señalen como delitos; hará efectivos los derechos concedidos al Estado e intervendrá en los juicios que afecten a las personas a quienes se debe otorgar especial atención conforme a la ley; tendrá en su estructura órganos de dirección, profesionales y técnicos, fiscalías especializadas, así como una corporación policíaca, y se regirá por los principios de justicia, legalidad, imparcialidad, autonomía, independencia, objetividad, eficiencia, disciplina, honradez, unidad, buena fe, presunción de inocencia, profesionalismo, diligencia, lealtad, respeto a los derechos humanos y perspectiva de género.
 
 La policía preventiva del Estado y las de los municipios colaborarán con la policía de investigación de la Fiscalía General de Justicia del Estado, en el combate a la delincuencia, conforme a los convenios que al respecto se celebren.
 
@@ -1821,11 +1831,13 @@ La operación del sistema integral de justicia para adolescentes estará a cargo
 
 Se establece en el Estado una Institución de Asistencia Jurídico-Social, que tendrá por objeto proporcionar la defensa de las personas. La Ley Orgánica que se expida sobre esta materia, establecerá las bases para su funcionamiento.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 78.
 
-La seguridad pública es una función a cargo del Estado y los municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en términos de la ley de la materia. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La seguridad pública es una función a cargo del Estado y los municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva; deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, así como la sanción de las infracciones administrativas, en términos de la Ley de la materia. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional y estarán al mando del Poder Ejecutivo y de los presidentes municipales, en el ámbito de sus respectivas competencias.
 
@@ -4452,3 +4464,23 @@ Las autoridades competentes tendrán que realizar las previsiones presupuestaria
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 133.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1°, LAS FRACCIONES, III, VII, XIV Y XV DEL ARTÍCULO 19, PÁRRAFO TERCERO DEL ARTÍCULO 72 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 78 Y SE ADICIONAN UN PÁRRAFO SEGUNDO A LA FRACCIÓN III Y UNA FRACCIÓN XVI AL ARTÍCULO XVI AL ARTÍCULO (SIC) 19 TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para efectos de lo previsto en el artículo 120, párrafo primero, de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado tendrá un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a las leyes locales que correspondan, con el objeto de dar cumplimiento al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
