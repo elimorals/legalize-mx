@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-175471"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2024-12-27"
+last_updated: "2025-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en la Décima Segunda Sección del Número 68 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
 
@@ -13677,6 +13677,10 @@ XXVII. Instituto de Servicios de Salud del Estado de Aguascalientes:
 
 El desglose de los conceptos de cobro y las tarifas, de los Ingresos por Venta de Bienes, Prestación de Servicios y Otros Ingresos del Instituto de Servicios de Salud del Estado de Aguascalientes, se prevé en el Anexo I de esta Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2025.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2025)</small>
+
+La expedición de Certificados de Discapacidad será gratuita para las personas solicitantes, no tendrá costo en ninguno de los Códigos de Cuota o Tarifa.
+
 ## TÍTULO SÉPTIMO. INGRESOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO
@@ -14099,7 +14103,9 @@ El Presente Decreto iniciará su vigencia a partir del día 1º de enero de 2025
 
 > <small>[N. DE E. VÉASE ANEXO DE INGRESOS POR FUENTE DE FINANCIAMIENTO, CONFORME EL ARTÍCULO 41 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL EN EL P.O. DE 27 DE DICIEMBRE DE 2024, PÁGINA 96.]</small>
 
-> <small>[N. DE E. VÉASE ANEXO I EN EL P.O. DE 27 DE DICIEMBRE DE 2024, PÁGINAS DE LA 97 A LA 154 .]</small>
+> <small>[N. DE E. VÉASE ANEXO I EN EL P.O. DE 27 DE DICIEMBRE DE 2024, PÁGINAS DE LA 97 A LA 154.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO I, EN EL P.O. DE 31 DE MARZO DE 2025, PÁGINA 6.]</small>
 
 Al Ejecutivo para su promulgación y publicación.
 
@@ -14124,3 +14130,13 @@ ANA LAURA GÓMEZ CALZADA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 19 de diciembre de 2024”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 125.- SE REFORMA LA LEY DE INGRESOS PARA EL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL 2025”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
