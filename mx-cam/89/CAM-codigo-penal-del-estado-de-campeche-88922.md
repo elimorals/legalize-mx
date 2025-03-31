@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-02-25"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MAYO DE 2025 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1893,6 +1895,8 @@ En los casos señalados en los dos párrafos anteriores se procederá de oficio.
 
 ### CAPÍTULO I. AMENAZAS
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 170.
 
 En todos los casos del presente Título, además de la sanción señalada para cada uno de los tipos penales, se aplicará un tratamiento psicológico o psiquiátrico al sujeto activo del delito y tendrá la duración que la autoridad jurisdiccional competente disponga, sin exceder el tiempo de la sanción de prisión y sin perjuicio de la aplicación de otros tratamientos.
@@ -1903,17 +1907,33 @@ En todos los casos del presente Título, además de la sanción señalada para c
 
 ###### Artículo 171.
 
-A quien intimide a otro con causarle daño en su persona o en sus bienes, se le impondrán de un mes a un año de prisión y multa de veinte a cien días de salario, sin perjuicio de la sanción aplicable si el agente realiza el mal con el que amenaza.
+Se impondrá de un mes a un año de prisión y multa de veinte a cien Unidades de Medida y Actualización, sin perjuicio de la sanción aplicable si el agente realiza el mal con el que amenaza, en los siguientes supuestos:
 
-En este caso, el delito será perseguible por querella de parte.
+I. Al que intimide a otro con causarle daño en su persona, en sus bienes, honor o derechos o en la persona, bienes, honor o derechos de alguien con quien esté ligado por algún vínculo.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+La colocación de anuncios, carteles, o cualquier otro medio que exponga públicamente a cualquier persona con el objetivo de humillarlo o coaccionarlo para realizar el pago de una deuda, también será considerado intimidación.
+
+Se entenderá como personas ligadas por algún vínculo, en los siguientes casos:
+
+a) El parentesco de consanguinidad sin limitación de grado en línea recta, ascendente o descendente. En la línea colateral hasta el cuarto grado; y
+
+b) El parentesco por afinidad y el parentesco civil.
+
+II. Al que por medio de intimidación de cualquier tipo trate de impedir que otro ejecute lo que tiene derecho a realizar.
+
+Si el ofendido por la amenaza fuere víctima u ofendido o testigo en un procedimiento penal, la pena será de cuatro a ocho años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+
+Los delitos previstos en este artículo se perseguirán por querella, con excepción del establecido en el párrafo anterior, que se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 171 Bis.
 
-A quien por cualquier medio de comunicación, fuera de los procedimientos judiciales establecidos en la ley, y empleando amenazas, intimidación u hostigamiento, realice reiteradamente requerimientos de pago, se impondrán de seis meses a cuatro años de prisión y multa de cien a mil unidades de medida y actualización.
+A quien por cualquier medio, fuera de los procedimientos judiciales establecidos en la ley, y empleando amenazas, intimidación u hostigamiento que impliquen el uso de violencia física, verbal o psicológica, realice uno o más requerimientos de pago, a la o el deudor, a sus familiares o a las personas que habiten el mismo domicilio que él, se le impondrán de cuatro a ocho años de prisión y multa de cien a mil Unidades de Medida y Actualización.
 
-No se considerará ilegal informar sobre aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos.
+No se considerará ilegal informar sobre aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos, siempre y cuando se haga de conformidad con la normatividad aplicable en la materia.
+
+El delito establecido en este artículo se perseguirá de oficio.
 
 ###### Artículo 172.
 
@@ -2189,15 +2209,19 @@ Se entenderá por equipamiento urbano el conjunto de inmuebles, instalaciones, c
 
 Se entenderá por infraestructura vial y urbana la pavimentación de calles y avenidas; el mantenimiento de vías; la construcción y rehabilitación de la red de agua potable; urbanización; ciclovías; puentes; alumbrado público; drenaje y alcantarillado.
 
-> <small>(ADICIONADO [N. DE E. CON SU FRACCIÓN], P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2025)</small>
 
-C) Se aumentarán de uno a cuatro años de prisión, en el siguiente caso:
+C) Se aumentarán de dos a nueve años de prisión, en el siguiente caso:
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
 I. Cuando recaiga sobre bienes de instituciones educativas, sean públicas o privadas de nivel básico, medio o superior, centros de investigación, espacios culturales o científicos y museos.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN I, P.O. 16 DE AGOSTO DE 2024.]</small>
-
 En caso de reincidencia se aumentará en una tercera parte la sanción que corresponda.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN I], P.O. 31 DE MARZO DE 2025)</small>
+
+El delito previsto en la presente fracción, se perseguirá de oficio.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2022)</small>
 
@@ -2423,7 +2447,7 @@ V. Al gerente, directivo, administrador, mandatario o intermediario de personas 
 
 ### CAPÍTULO V. USURA
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 206.
 
@@ -2485,13 +2509,17 @@ XIV. Alcance un lucro indebido para sí o para otro valiéndose de alguna manipu
 
 ###### Artículo 208.
 
-Se impondrán de cuatro a ocho años de prisión y multa de cuatrocientas a un mil Unidades de Medida y Actualización a quien obtenga para sí o para otro, en virtud de recibir títulos de crédito, documentos a la orden, o celebrar convenios o contratos de manera formal o informal, ganancias notoriamente superiores a las usuales en el mercado o a las tasas de interés bancario autorizadas, por concepto de intereses u otras ventajas pecuniarias.
+Se impondrán de cuatro a ocho años de prisión y multa de cuatrocientas a un mil Unidades de Medida y Actualización y el pago total de la reparación de los daños y perjuicios ocasionados, a quien:
 
-Se considerarán ganancias notoriamente superiores a las usuales en el mercado, las que excedan al interés bancario más alto vigente el día en que se celebre la operación.
+I. Obtenga para sí o para otro, al celebrar un acto jurídico independientemente de su naturaleza o formalidad, un pacto de interés evidente o encubierto, notoriamente superiores a las usuales en el mercado o a las tasas de interés bancario autorizadas, por concepto de intereses u otras ventajas pecuniarias.
 
-Cuando se emplee amenaza, intimidación u hostigamiento para lograr el cobro del préstamo o de los intereses, se estará a lo dispuesto en el artículo 171 bis de este Código.
+II. Obtenga del deudor o sus garantes, al celebrar un acto jurídico accesorio derivado del negocio principal, un pacto de interés evidente o encubierto, notoriamente superiores a las usuales en el mercado o a las tasas de interés bancario autorizadas, por concepto de intereses u otras ventajas pecuniarias.
 
-El delito establecido en este artículo se perseguirá de oficio.
+Se considerarán intereses o ganancias notoriamente superiores a las usuales en el mercado, las que excedan al interés bancario más alto vigente el día en que se celebre la operación.
+
+Será considerada como agravante, incrementándose la pena de prisión en una mitad más del máximo previsto, cuando la persona que realice el préstamo no cuente con los permisos necesarios para operar dentro del sistema financiero formal.
+
+El delito establecido en este artículo se perseguirá de oficio.36 (sic)
 
 ### CAPÍTULO VII. DESPOJO
 
@@ -3679,6 +3707,8 @@ II. Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinient
 
 ### CAPÍTULO VII. COHECHO
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 293.
 
 Se le impondrán de dos a nueve años de prisión, multa de treinta a cien Unidades Diarias de Medida y Actualización, al servidor público que:
@@ -3719,25 +3749,19 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos a sei
 
 ###### Artículo 294.
 
-Comete el delito de cohecho el servidor público que, por sí o por interpósita persona, solicite o reciba indebidamente para sí o para otro, dinero o cualquiera otra dádiva, o acepte una promesa, para indebidamente hacer o dejar de hacer algo relacionado con sus funciones.
+Cometen el delito de cohecho:
 
-Se equipara al delito de cohecho cuando el particular ofrece, promete o entrega dinero o cualquier dádiva, a algún servidor público, para que realice u omita un acto o actos ilícitos o lícitos relacionados con sus funciones.
+a) La persona servidora pública que, por sí o por interpósita persona, solicite o reciba, indebidamente para sí o para otro, dinero, cualquier otra dádiva o beneficio o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones o realizar un acto contrario a las funciones inherentes a su empleo, cargo o comisión; y
 
-Al servidor público que cometa el delito de cohecho, se le impondrán las siguientes sanciones:
+b) La persona que ofrezca, prometa o entregue cualquier beneficio a alguna persona servidora pública, para que haga u omita un acto relacionado con sus funciones, derivado de su empleo, cargo o comisión.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+A quién cometa el delito de cohecho, se le impondrán las siguientes sanciones:
 
-I. Cuando la cantidad o valor de la dádiva o promesa no exceda del equivalente a quinientas Unidades de Medida y Actualización, o no sea valuable, de uno a cuatro años de prisión, multa de cien a cuatrocientas Unidades de Medida y Actualización;
+I. Cuando la cantidad o valor de la dádiva o promesa no exceda del equivalente a quinientas Unidades de Medida y Actualización, o no sea valuable, de uno a cuatro años de prisión, multa de cien a cuatrocientas Unidades de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2017)</small>
+II. Cuando la cantidad o el valor de la dádiva o promesa exceda de quinientas Unidades de Medida y Actualización, de cuatro a ocho años de prisión, multa de cuatrocientas a novecientas Unidades de Medida y Actualización.
 
-II. Cuando la cantidad o el valor de la dádiva o promesa exceda de quinientas Unidades de Medida y Actualización, de cuatro a ocho años de prisión, multa de cuatrocientos a novecientas Unidades de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
-
-Al particular que cometa delito de cohecho se le impondrán de tres meses a dos años de prisión y multa de doscientos a quinientas Unidades de Medida y Actualización.
-
-En ningún caso se devolverá el dinero o dádivas entregadas, las que se destinarán al Instituto de Acceso a la Justicia del Estado de Campeche.
+En ningún caso se devolverá el dinero o dádivas entregadas, mismas que se destinarán a la Unidad para Devolver a Campeche lo Robado.
 
 ### CAPÍTULO X. REGLAS COMUNES
 
@@ -5262,3 +5286,13 @@ P.O. 25 DE FEBRERO DE 2025.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 74 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 171, 171 BIS, EL INCISO C) DEL ARTÍCULO 193, LOS ARTÍCULOS 208 Y 294 Y, SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN I DEL INCISO C) DEL ARTÍCULO 193, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor de (sic) presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
