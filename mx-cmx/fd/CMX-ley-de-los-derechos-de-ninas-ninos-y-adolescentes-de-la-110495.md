@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2024-11-29"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1375,6 +1375,12 @@ Se dará prioridad de acceso a las políticas públicas de seguridad social a la
 ###### Artículo 49.
 
 Las autoridades y las alcaldías, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil, prácticas de lactancia materna y aumentar la esperanza de vida.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2025)</small>
+
+###### Artículo 49 Bis.
+
+Las autoridades, los organismos públicos y los órganos político administrativos, en el ámbito de sus respectivas competencias, podrán impulsar jornadas permanentes de atención emocional dirigidas a niñas, niños y adolescentes de las escuelas, con el objetivo de prevenir el consumo de sustancias psicoactivas y, en su caso, canalizarlos a las instituciones correspondientes, conforme a lo establecido en la legislación en la materia; sin menoscabo ni condicionando el servicio educativo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MARZO DE 2024)</small>
 
@@ -3169,3 +3175,11 @@ G.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
+
+G.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 49 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
