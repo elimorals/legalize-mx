@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2024-12-26"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE DICIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -21833,27 +21831,69 @@ XXI. Municipio: Las dependencias de la administración pública municipal de Agu
 
 XXII. Novillero: El lidiador de novillos que lidia las reses a pie.
 
-XXIII. Redondel o Ruedo: El área destinada para el desarrollo de la lidia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2025)</small>
 
-XXIV. Regalo: Res que después de la lidia ordinaria ofrece lidiar uno o varios de los alternantes.
+XXIII. Reconocimiento: Inspección, a cargo de las autoridades de la plaza, que se realiza al momento del desembarque y pesaje, para verificar que las reses son aquellas que fueron reseñadas y que se encuentran aptas para la lidia conforme a las reglas establecidas en el artículo 1445 Bis de este Código;
 
-XXV. Rejoneador: El lidiador a caballo de toros o novillos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
 
-XXVI. Reservas: Reses destinadas a lidiarse en caso de que por alguna razón de fuerza mayor no pueda lidiarse alguna de las anunciadas o sea lidiada por regalo de los actuantes.
+XXIV. Redondel o Ruedo: El área destinada para el desarrollo de la lidia.
 
-XXVII. Salario Mínimo: El Salario Mínimo General Vigente en el Estado de Aguascalientes el día que fuera cometida la infracción.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
 
-XXVIII. Secretaría: Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+XXV. Regalo: Res que después de la lidia ordinaria ofrece lidiar uno o varios de los alternantes.
 
-XXIX. Subalternos: Los que auxilian durante el desempeño de la lidia, denominados peones de brega, picadores, banderilleros y puntilleros.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
 
-XXX. Torero cómico: El lidiador de becerros y/o erales que a través de la lidia de las reses a pie divierte y hace reír al público.
+XXVI. Rejoneador: El lidiador a caballo de toros o novillos.
 
-XXXI. Torilero: Persona del servicio de plaza encargada del manejo, seguridad y buenas condiciones generales de las reses en los toriles.
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXVII ES IDÉNTICA A LA FRACCIÓN XXX.]</small>
 
-XXXII. Toriles o Chiqueros: Las áreas destinadas para la estancia de las reses por separado y en el orden que saldrán a lidiarse.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
 
-XXXIII. Trapío: La estampa, integridad, salud y condiciones generales de la res de lidia de acuerdo a su encaste.
+XXVII. Reservas: Reses destinadas a lidiarse en caso de que por alguna razón de fuerza mayor no pueda lidiarse alguna de las anunciadas o sea lidiada por regalo de los actuantes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XVIII. Reseña o señalamiento: Inspección a cargo de las autoridades de la plaza, por la que se determina qué reses, de entre las que se les presenten, podrán ser objeto de embarque para su posterior reconocimiento. Los resultados de la reseña tendrán carácter vinculante respecto de las reses que no se consideren aptas para su embarque.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXIX. Revisión: Inspección, a cargo de las autoridades de la plaza, que se realiza el mismo día programado para el festejo, respecto de las reses ya reconocidas y aprobadas, con el fin de comprobar que las mismas no han sufrido merma alguna en su aptitud para la lidia o accidente;
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXX ES IDÉNTICA A LA FRACCIÓN XXVII.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXX. Reservas: Reses destinadas a lidiarse en caso de que por alguna razón de fuerza mayor no pueda lidiarse alguna de las anunciadas o sea lidiada por regalo de los actuantes.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXXI. Salario Mínimo: El Salario Mínimo General Vigente en el Estado de Aguascalientes el día que fuera cometida la infracción
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXXII. Secretaría: Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXXIII. Subalternos: Los que auxilian durante el desempeño de la lidia, denominados peones de brega, picadores, banderilleros y puntilleros.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXXIV. Torero cómico: El lidiador de becerros y/o erales que a través de la lidia de las reses a pie divierte y hace reír al público.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXXV. Torilero: Persona del servicio de plaza encargada del manejo, seguridad y buenas condiciones generales de las reses en los toriles.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXXVI. Toriles o Chiqueros: Las áreas destinadas para estancia de las reses por separado y en el orden que saldrán a lidiarse.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)</small>
+
+XXXVII. Trapío: La estampa, integridad, salud y condiciones generales de la res de lidia de acuerdo a su encaste.
 
 ### CAPITULO II. De la Autoridad
 
@@ -22159,15 +22199,27 @@ Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones d
 
 El espectáculo taurino será de tres categorías:
 
-I. Corridas de toros.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+I. Corrida de toros.
 
 II. Novilladas.
 
-III. Festivales taurinos.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+III. Festivales taurinos; y
 
-Las corridas podrán ser formales o mixtas. Las novilladas con picadores o sin ellos. Las empresas tendrán obligación de anunciar con toda claridad diez días antes de los festejos, nombre de la empresa, divisa, peso y edad de los animales, así como la categoría a que cada espectáculo pertenezca.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2025)</small>
+
+IV. Festejos populares.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
+Las corridas podrán ser formales o mixtas. Las novilladas con picadores o sin ellos. Las empresas tendrán obligación de anunciar con toda claridad diez días antes de los festejos el nombre de la empresa, divisa, peso y edad de los animales, así como la categoría a que cada espectáculo pertenezca.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2025)</small>
+
+Se entiende por festejos populares a aquellas celebraciones en las que participen toros de lidia a los que no se les da muerte y que se realizan en las calles o plazas de los barrios o las comunidades conforme a las características de sus propias tradiciones.
 
 ###### ARTÍCULO 1426.
 
@@ -22243,13 +22295,17 @@ VII. En toda corrida, novillada o festival taurino, la empresa a su costa pondr�
 
 Al diestro que no respete la prohibición señalada en el párrafo que antecede, se le aplicará, a juicio del Juez de Plaza las sanciones previstas en el presente Código.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 1428.
 
-Será preciso dar aviso oportuno al Municipio de la organización de cualquier festejo taurino, para obtener la licencia respectiva. Bajo la jurisdicción y competencia de estas autoridades quedan estos festejos para los efectos de este Código, y en ellos estarán presentes siempre las autoridades que se designen de acuerdo con las categorías de las plazas, salvo en el caso de excepción que expresamente acuerde el Municipio.
+Será preciso dar aviso oportuno al Municipio de la organización de cualquier festejo taurino para el ejercicio de las atribuciones previstas en este Código a cargo de las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 1429.
 
-Además, la empresa deberán (sic) formular con quince días de anticipación a la fecha en que vaya a iniciarse cualquier actividad, la solicitud respectiva ante el Municipio, acompañado de la siguiente documentación:
+El aviso a que se refiere el artículo anterior se deberá realizar con quince días de anticipación, por lo menos, a la fecha del festejo, acompañando la siguiente documentación:
 
 I. Dictamen de las condiciones físicas de la plaza, expedido por perito debidamente registrado.
 
@@ -22259,7 +22315,9 @@ III. Fecha o fechas en las que se deba realizar el espectáculo.
 
 IV. Precios de entrada que se pretendan cobrar.
 
-V. Copias autorizadas por las respectivas agrupaciones o sindicatos taurinos de cada uno de los contratos que se hayan celebrado con actuantes y ganaderos. Los que posteriormente se celebren también deberán ser presentados oportunamente con la autorización señalada.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+V. Copias autorizadas por las respectivas agrupaciones o sindicatos taurinos de cada uno de los contratos que se hayan celebrado con actuantes y ganaderos. Los que posteriormente se celebren también deberán ser presentados.
 
 VI. Autorizaciones oficiales de la Secretaría de Gobernación, tratándose de actuantes extranjeros, de cualquier calidad que vayan a participar. Todo cartel deberá estar integrado como mínimo por el cincuenta por ciento de toreros mexicanos.
 
@@ -22271,9 +22329,11 @@ La empresa llevará a recontar y resellar el boletaje de cada festejo, a la Secr
 
 La recaudación de taquilla se estimará en depósito a favor de la Secretaría de Finanzas Públicas Municipales, con un interventor que designará ésta última, hasta en tanto se cubran los impuestos municipales, que se hubieran causado, y multas en que hubieren incurrido, la empresa, lidiadores, personal de cuadrilla y de plaza. A menos que otorguen fianza previa para garantizar las obligaciones a que se refiere este código. Realizados estos pagos, la Secretaría de Finanzas Públicas Municipales, hará entrega del resto de lo recaudado a las empresas.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 1431.
 
-No podrán las empresas emitir mayor número de boletaje que el que señala el cupo oficial de la plaza. La infracción a este artículo, será sancionado con cancelación de la licencia concedida a las empresas, sin perjuicio de la multa correspondiente.
+No podrán las empresas emitir mayor número de boletaje que el que señala el cupo oficial de la plaza, la infracción de este artículo será sancionada con la multa correspondiente.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
@@ -22299,7 +22359,9 @@ IV. Contratos respectivos de toreros y ganaderos.
 
 V. Precio de las localidades.
 
-En caso de fuerza mayor debidamente comprobada por el Municipio, éste podrá autorizar alteraciones al elenco anunciado, al abrirse el derecho de apartado o abono.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
+En caso de fuerza mayor debidamente acreditada, la empresa notificará al Municipio cualquier modificación, a los carteles anunciados.
 
 ###### ARTÍCULO 1434.
 
@@ -22323,13 +22385,19 @@ I. Recibir el espectáculo en su integridad y en los términos que resulten del 
 
 II. Ocupar la localidad que les corresponda. A tal fin, por los empleados de la plaza se facilitará el acomodo correcto.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-III. En caso de suspensión total o parcial de una temporada o festejo, el espectador tiene derecho a la devolución, por parte de la empresa, de la cantidad que señale el municipio, presentando su derecho de apartado, abonos y boletos respectivos. La que en ningún caso será inferior al costo de la erogación más un veinte por ciento de indemnización. En caso de incumplimiento de los compromisos contraídos al anunciar el elenco del derecho de apartado o abono, la empresa con aprobación del Municipio, devolverá la parte proporcional incumplida.
+III. En caso de suspensión total o parcial de una temporada, o de suspensión de un festejo, el espectador tiene derecho a la devolución, por parte de la empresa, del valor íntegro de su derecho de apartado, abono o boleto. Igualmente tiene derecho a la devolución, por parte de la empresa que preste el servicio de boletaje, del monto íntegro pagado por ese concepto.
 
-IV. Igualmente tendrán derecho a la devolución del importe íntegro del boleto y la indemnización a que se refiere la fracción anterior, cuando alguna persona no está conforme con la alteración que sufre un cartel determinado. La devolución se hará a más tardar a partir del día siguiente a la celebración del festejo, entregando el boleto entero sin ninguna mutilación.
+En caso de incumplimiento de los compromisos adquiridos al anunciar el elenco del derecho de apartado o abono, la empresa devolverá la parte proporcional incumplida.
 
-V. La devolución del importe del boleto en los casos de suspensión o aplazamiento del espectáculo o de modificación del cartel anunciado. A estos efectos, se entenderá modificado el cartel cuando se produzca la sustitución de alguno o algunos de los espadas anunciados o se sustituya la ganadería o la mitad de las reses anunciadas por las de otra y otras distintas.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+IV. Igualmente tendrán derecho a la devolución del importe íntegro del boleto y del costo del servicio del boletaje, cuando se altere o modifique el cartel anunciado. Se entenderá modificado el cartel cuando se produzca la sustitución de alguno o algunos de los espadas anunciados o se sustituya la ganadería o la mitad de las reses anunciadas. La devolución se hará a partir del día siguiente a la celebración del festejo a los espectadores que entreguen el boleto entero sin ninguna mutilación.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+V. A la devolución del importe del boleto y del monto correspondiente al servicio de boletaje en los casos de aplazamiento del espectáculo.
 
 VI. La devolución del importe del boleto se iniciará desde el momento de anunciarse la suspensión, aplazamiento o modificación y finalizará cuatro días después del fijado para la celebración del espectáculo o quince minutos antes del inicio del mismo en el caso de modificación. Los plazos indicados se prorrogarán automáticamente si finalizados los mismos hubiese, sin interrupción, espectadores en espera de devolución.
 
@@ -22359,7 +22427,9 @@ Las empresas que abran "abono" o derecho de apartado deberán acatar las reglas 
 
 I. Se concederá preferencia para la adquisición de derechos de apartado, a los tenedores de esa franquicia en la temporada anterior, aún en aquellas corridas que no se den con la empresa oficial.
 
-II. Para poder vender el derecho de apartado o abono deberá anunciarse completo el elenco de matadores de toros, con especificación del número de corridas con que cada uno quede contratado, y las ganaderías contratadas, con especificación del número de encierro que a cada una corresponda, no pudiendo hacerse el anuncio de elementos no contratados, ni a título de pendientes de contrato. Los contratos correspondientes al número de encierros anunciados en el derecho de apartado, deberán haber sido celebrados con los ganaderos cuando menos con cuatro meses de anticipación a la venta del derecho de apartado, o en su caso agregar el respectivo apartado, que es aceptado dicho apartado sin saberse el cartel correspondiente. En tanto que los contratos de los actuantes deberán haber sido celebrados cuando menos con treinta días de anticipación a la venta señalada. Lo anterior queda sin efecto cuando se trate de novilladas.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+II. Para vender derechos de apartado o abonos, la empresa deberá anunciar el elenco de matadores, especificando las corridas en las que participarán, las ganaderías contratadas y el número de encierros que a cada una corresponda, a manos (sic) que se señale expresamente en el derecho de apartado o abono respectivo que quien lo adquiere acepta, al momento de la compra, que no se conoce el cartel final específico de cada festejo incluido en el derecho de apartado o en el abono. En todo caso, los adquirentes tendrán derecho a la devolución del importe del derecho de apartado o abono, o a la parte proporcional del mismo, si existieran suspensiones o modificaciones de los carteles finales anunciados, conforme a las reglas del artículo 1436.
 
 III. Para garantizar las obligaciones que se contraigan con motivo de la celebración de las corridas de una temporada formal con el Municipio, así como el pago de las multas por violaciones a este Código, la empresa por cada temporada serial de corridas, novilladas o festejos, deberá constituir una fianza, misma que será fijada por el Municipio y a favor de la Secretaría de Finanzas Públicas Municipales.
 
@@ -22377,11 +22447,15 @@ Las reses que se lidien en las corridas de toros, deberán reunir los siguientes
 
 I. Haber cumplido cuatro años de edad y no pasar de seis.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-II. Pesar como mínimo cuatrocientos cuarenta y cinco kilos en pie, a su llegada a la plaza.
+II. Pesar, como mínimo, cuatrocientos sesenta kilogramos en pie a su llegada a la plaza;
 
 III. Proceder de ganaderías que pertenezcan a la Asociación Nacional de Criadores de Toros de Lidia.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2025)</small>
+
+IV. El peso, la ganadería y el mes y año de nacimiento de las reses de corridas de toros, será expuesto al público en la forma tradicional y en el orden en que hayan de ser lidiadas.
 
 ###### ARTÍCULO 1441.
 
@@ -22389,7 +22463,13 @@ Las reses para novilladas con picadores, deberán reunir los siguientes requisit
 
 I. Haber cumplido tres años de edad y no pasar de cinco.
 
-II. Pesar como mínimo trescientos treinta y cinco kilos en pie, a su llegada a la plaza, en las de primera categoría.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+II. Pesar, como mínimo, trescientos cincuenta kilogramos y cuatrocientos cincuenta kilogramos como máximo en pie, a su llegada a la plaza.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2025)</small>
+
+III. El peso, la ganadería y el mes y año de nacimiento de las reses para novilladas, será expuesto al público en la forma tradicional y en el orden en que hayan de ser lidiadas.
 
 ###### ARTÍCULO 1442.
 
@@ -22427,13 +22507,29 @@ III. El nombre con el que será anunciado el animal en el pizarrón antes de sal
 
 IV. Además de los requisitos señalados en el presente artículo, el ganadero deberá, al mismo tiempo en que envíe su ganado, presentar una fianza a favor del Municipio, hasta por el monto total del valor del encierro, misma que le será devuelta siempre y cuando el resultado de los exámenes post mortem arroje que los animales sí cumplieron en edad e integridad de astas. En caso contrario se procederá a hacer efectiva dicha fianza en contra del ganadero, independientemente de las sanciones a que sea acreedor.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 1445.
 
-Las reses que vayan a lidiarse deberán estar en los corrales de la plaza, cuando menos con cinco días de anticipación a la celebración del espectáculo, y el ganadero y el empresario o empleado de éstos, serán corresponsables de su integridad y sanidad.
+Todas las reses deben ser reseñadas por las autoridades de la plaza.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+Las autoridades de la plaza realizarán la reseña y señalamiento en la ganadería correspondiente, a solicitud de la empresa o de la ganadería dentro de un plazo previo, no mayor a quince días, a la fecha de la celebración del festejo o, en su caso, en las instalaciones de la plaza en un término de 72 horas previas al festejo.
 
-La anterior disposición estará sujeta a las condicionantes que pueda autorizar el Municipio en el supuesto caso que por el número de festejos no existan corrales suficientes.
+Se levantará acta del resultado de la reseña, misma que será firmada por las autoridades de la plaza y los participantes por parte de la ganadería y de la empresa o sus representantes.
+
+El desembarque de las reses se efectuará en presencia de las autoridades competentes y del representante de la empresa quien comunicará, al menos con veinticuatro horas de antelación, la hora en que se prevea la llegada de las reses a la plaza.
+
+Cuando las reses hubieren sido reseñadas y señaladas en la ganadería, el desembarque atenderá a las siguientes reglas:
+
+a) Cuando la ganadería se encuentre en un rango de distancia de la plaza menor a 250 kilómetros, podrán desembarcar, inclusive, 48 horas antes del festejo;
+
+b) Cuando la ganadería se encuentre en un rango de distancia menor a 150 kilómetros de la plaza, podrán desembarcar, inclusive, 24 horas antes del festejo;
+
+Tras el desembarque de las reses se procederá al pesaje de las mismas. Cuando éstas no hayan sido reseñadas en la ganadería correspondiente se procederá a la realización de la reseña.
+
+La reseña o el reconocimiento de las reses versará sobre la identificación, condiciones sanitarias y edad a efecto de comprobar su aptitud para la lidia.
+
+Cuando una res fuese rechazada en el reconocimiento o en la revisión por estimar que no es apta para la lidia, por no reunir los requisitos reglamentarios, el ganadero o, en su caso, al representante de este, tendrán derecho a presentar otra en su lugar, o inclusive, a exigir su lidia bajo su responsabilidad en caso de que los resultados de los análisis posteriores confirme la manipulación artificial de las defensas de la res. Si el ganadero se negase a firmar el compromiso de asunción de responsabilidad, la res será necesariamente rechazada por el juez de plaza.
 
 ### CAPÍTULO VII. De la Cuadra de Caballos
 
@@ -22509,9 +22605,11 @@ IX. Habrá dos reses de reserva que deberán reunir los requisitos de este Códi
 
 Estas disposiciones se aplicarán a todas las plazas en corridas de toros y en las novilladas que se celebren en plazas de primera categoría; debiendo reunir los novillos de reserva los requisitos señalados en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 1451.
 
-Antes de procederse al sorteo, los veterinarios examinarán minuciosamente las reses, pudiendo desechar cualquiera de ellas que en ese momento no reúnan los requisitos que exige este Código.
+Antes de procederse al sorteo, los veterinarios, con una antelación mínima de cinco horas al inicio del festejo, procederán a revisar las reses ya reconocidas y aprobadas, a fin de comprobar que las mismas no hayan sufrido accidente o merma alguna en su aptitud para la lidia, que amerite su desechamiento por no reunir los requisitos que exige este Código.
 
 ###### ARTÍCULO 1452.
 
@@ -22615,11 +22713,17 @@ Queda prohibido picar después de ordenado el cambio de suerte, debiendo los pic
 
 Queda prohibido a los picadores desmontar en el ruedo por su propia voluntad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2025)</small>
+
+###### ARTICULO 1467.
+
+La res deberá tomar la cantidad de puyazos que considere necesario el lidiador en turno, teniendo cinco como máximo en caso necesario a petición del matador y a criterio del Juez de Plaza. Si el astado vuelve la cara a los caballos en terrenos distintos, el Juez de Plaza ordenará, a través de mostrar un pañuelo rojo, que se le coloquen banderillas negras.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2025)</small>
+
+Si salida la última reserva, ésta y las reses siguientes no cumplen en varas, se les colocarán en número de pares de banderillas negras que ordene el Juez de Plaza.
+
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
-
-###### ARTÍCULO 1467.
-
-La res deberá tomar la cantidad de puyazos que considere necesario el lidiador en turno, teniendo cinco como máximo en caso necesario a petición del matador y a criterio del Juez de Plaza. Si el astado vuelve la cara a los caballos en terrenos distintos, se ordenará a consideración del Juez de Plaza que sea sustituido por uno de los de reserva. Si salida la última reserva, ésta y las reses siguientes no cumplen en varas, se les colocarán en número de pares de banderillas negras que ordene el Juez de Plaza.
 
 El Juez de Plaza por sí o a través del Cambiador de Suertes podrá cambiar el tercio cuando considere que el astado ha sido suficientemente castigado. Los lidiadores en turno pueden pedir al Juez de Plaza que se adelante el cambio de suerte y/o que se le dé un puyazo adicional si así lo estima conveniente.
 
@@ -22653,7 +22757,13 @@ En este tercio, la colocación de los lidiadores deberá ser la siguiente: El li
 
 Queda prohibido quitar las banderillas a la res desde el burladero o callejón, así como a los lidiadores quitar coleando, salvo caso de fuerza mayor.
 
-###### ARTÍCULO 1472.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO PRIMER PÁRRAFO], P.O. 31 DE MARZO DE 2025)</small>
+
+###### ARTICULO 1472.
+
+Cuando un animal se inutilice durante los primeros dos tercios de la lidia o presente una condición reiterada de debilidad o invalidez a juicio del Juez de Plaza, éste ordenará con un toque de clarín y mostrará un pañuelo azul el inmediato regreso de la res a los corrales para sustituirla por otra.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES PRIMER PÁRRAFO], P.O. 31 DE MARZO DE 2025)</small>
 
 Todo animal que se inutilice después de cambiado el tercio de banderillas ya no podrá ser substituido.
 
@@ -22681,9 +22791,11 @@ No se permitirá de ninguna manera la intervención de más de dos peones para a
 
 ARTÍCULO. 1475.- Se computará el tiempo de duración de la faena de muleta a partir de la orden de cambio al tercer tercio.
 
-La faena no deberá exceder de los doce minutos tiempo en que el lidiador deberá lidiar y dar muerte a la res antes de que suene el primer aviso, el segundo aviso se tocará dos minutos después y transcurridos los dos minutos de éste, se tocará el tercer aviso para que salgan los cabestros y sea retirado el astado a los corrales.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
 
-En caso de que el diestro hiera a la res, antes de los nueve minutos siguientes a la orden de cambio al último tercio se ordenará que se toque el primer aviso, tres minutos después que el matador haya herido por primera vez al astado; el segundo aviso se tocará dos minutos después y transcurridos los dos minutos de éste, se tocará el tercer aviso para que salgan los cabestros y sea retirado al astado a los corrales. En el entendido que las mulas y los cabestros deberán estar adiestrados, requiriéndose la verificación y aprobación de la autoridad previa a la corrida.
+La faena no deberá exceder de los doce minutos tiempo en que el lidiador deberá lidiar y dar muerte a la res antes de que suene el primer aviso, el segundo aviso se tocará dos minutos después y transcurridos los dos minutos de éste, se tocará el tercer aviso y se mostrará un pañuelo azul para que salgan los cabestros y se regrese el astado a los corrales.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE MARZO DE 2025)</small>
 
 En caso de que la faena mantenga el interés del espectador, el tiempo podrá alargarse a criterio del Juez de Plaza.
 
@@ -22693,9 +22805,9 @@ En caso de que la faena mantenga el interés del espectador, el tiempo podrá al
 
 Cuando la labor del lidiador provoque la petición de apéndices por parte del público, el Juez de Plaza, para concederlos, se sujetará a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-I. Se otorgará una oreja cuando tras de una labor meritoria del lidiador, una notoria mayoría de los espectadores así lo solicite, ondeando sus pañuelos.
+I. Se otorgará una oreja cuando tras de una labor meritoria del lidiador, una notoria mayoría de los espectadores así lo solicite, mostrando sus pañuelos.
 
 II. Para otorgar la segunda oreja, el Juez tomará en cuenta la calidad de la res lidiada, la buena dirección de la lidia y la brillantez de la faena realizada, tanto con el capote, como con la muleta y estocada.
 
@@ -22703,19 +22815,31 @@ III. Es facultad del Juez de Plaza, conceder el rabo, cuando lo excepcional de l
 
 IV. Queda prohibido el otorgar apéndices simbólicos en el caso de toros indultados.
 
-V. Para conceder la oreja, el Juez agitará un pañuelo blanco; para conceder las dos orejas, dos pañuelos blancos; y uno verde para conceder el rabo, entendiéndose que por la concesión de éste, se otorgan también las orejas, serán éstos los únicos apéndices que podrá otorgar la autoridad quedando prohibida cualquier otra mutilación.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+V. Para conceder la oreja, el Juez mostrará un pañuelo blanco; para conceder dos orejas, dos pañuelos blancos; y uno verde para conceder el rabo, entendiéndose que por la concesión de éste se otorgan también las orejas. Serán estos los únicos apéndices que podrá otorgar la autoridad, quedando prohibida cualquier otra mutilación.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2025)</small>
+
+VI. En el caso de toros indultados, se otorgarán dos orejas simbólicas, e inclusive, el rabo cuando la faena así lo amerite a criterio del juez.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DE LA REFORMA PUBLICADA EN EL P.O. DE 31 DE MARZO DE 2025, PÁGINAS 6 Y 7.]</small>
 
 ###### ARTÍCULO 1477.
 
 Cuando una res se haya distinguido por su bravura y nobleza en la lidia, podrá recibir cualquiera de estos homenajes a juicio del Juez de Plaza:
 
-I. Que sus restos sean retirados del ruedo por tiro de mulas, a paso lento.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-II. Que se le dé vuelta al ruedo.
+I. Que sus restos sean retirados del ruedo por tiro de mulas, a paso lento. Para tal efecto, el Juez de Plaza ordenará un toque de clarín;
 
-III. Que se le indulte.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
 
-Queda a cargo del Juez de Plaza el acordar, en cada caso cuál de estos tres homenajes debe llevarse a cabo, manifestando su decisión por medio de un toque de clarín, dos toques de clarín o un pañuelo blanco respectivamente.
+II. Que sus restos sean retirados, previa vuelta al ruedo de los mismos, para tal efecto, el Juez de Plaza ordenará dos toques de clarín;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+III. Indulto, para tal efecto, el Juez de Plaza mostrará un pañuelo naranja y/o un cartel.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
@@ -22804,6 +22928,10 @@ Previo permiso del Juez de Plaza, podrá obsequiarse una o más reses, las que s
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 El anuncio de una res de regalo por parte de un lidiador, previa autorización del Juez de Plaza, deberá hacerse al finalizar el segundo tercio de la última res de la lidia ordinaria.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2025)</small>
+
+En el caso de que una res de regalo se inutilice durante la lidia, el Juez de Plaza ordenará que la misma se regrese a los corrales de manera inmediata y ésta ya no podrá ser sustituida, por tratarse de un hecho extraordinario. Consecuentemente se dará por concluido el festejo.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
@@ -26266,3 +26394,15 @@ P.O. 9 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DE “REFORMA AL CÓDIGO MUNICIPAL Y AL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES EN MATERIA DE ESPECTÁCULOS, APROBADAS EN LA SESIÓN ORDINARIA, CELEBRADA EL DÍA TRECE DE MARZO DE DOS MIL VEINTICINCO”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIO DE “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES EN MATERIA DE ESPECTÁCULOS, APROBADAS EN LA SESIÓN EXTRAORDINARIA, CELEBRADA EL DÍA VEINTIOCHO DE MARZO DE DOS MIL VEINTICINCO”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
