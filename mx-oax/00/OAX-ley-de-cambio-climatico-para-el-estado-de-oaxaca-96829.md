@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2024-04-06"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -91,6 +91,10 @@ XIII.- Promover mecanismos para la protección, conservación y uso racional de 
 
 XIV.- Impulsar la investigación, el intercambio de información, capacitación y educación ambiental en materia de humedales, así como, incorporar a la cultura la protección, conservación y el uso racional de humedales de acuerdo a los lineamientos, leyes y normas nacionales, y de acuerdo a las convenciones internacionales.
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2025)</small>
+
+XV. Fomentar, promover y posibilitar la transición hacia una economía neutra en emisiones y resiliente, coadyuvando con las instancias correspondientes en la creación de empleos verdes.
+
 ###### Artículo 3.
 
 Para efectos de esta Ley se entenderá por:
@@ -117,65 +121,69 @@ IX.- Efectos adversos del cambio climático: Variaciones bruscas en el medio amb
 
 X.- Eficiencia energética: Acciones que conlleven a una reducción económicamente viable de la cantidad de energía necesaria para satisfacer las necesidades energéticas de los servicios y bienes que requiere la sociedad, asegurando un nivel de calidad igual o superior y una disminución de los impactos ambientales negativos derivados de la generación, distribución y consumo de energía;
 
-XI.- Emisiones: Liberación de gases de efecto invernadero y/o sus precursores y aerosoles en la atmósfera, en una zona y un periodo de tiempo específicos;
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 31 DE MARZO DE 2025)</small>
 
-XII.- Enfoque de género: Instrumento teórico y metodológico que analiza las relaciones de género para identificar las desigualdades y sus orígenes, a fin de dimensionar la vulnerabilidad de mujeres y de hombres ante el cambio climático y los riesgos de desastres, así como las necesidades y los aportes que hace cada uno de ellos, para diseñar acciones diferenciadas entre ambos géneros en un marco de justicia e igualdad entre mujeres y hombres;
+XI.- Empleos verdes: Son puestos de trabajo que contribuyen a proteger, conservar, preservar, restaurar y mejorar el medio ambiente en cualquier sector económico, así como a transitar hacia una economía sustentable y reducir el impacto ambiental de los sectores económicos, aumentando la eficiencia del consumo de energía, materias primas y agua, descarbonizando la economía y reduciendo la emisión de compuestos y gases de efecto invernadero, minimizando o evitando cualquier forma de residuo y contaminación, protegiendo y restaurando los ecosistemas y la biodiversidad, y que permiten adaptarse a los efectos adversos del cambio climático y fortalecer la resiliencia.
 
-XIII.- Enfoque intercultural: Instrumento teórico y metodológico que analiza la diversidad de rasgos y manifestaciones culturales y su relación entre ellas, a fin de dar propuestas apegadas a la cosmovisión y necesidades de cada una de ellas;
+XII.- Emisiones: Liberación de gases de efecto invernadero y/o sus precursores y aerosoles en la atmósfera, en una zona y un periodo de tiempo específicos;
 
-XIV.- Fomento de capacidad: Proceso de desarrollo de técnicas y capacidades institucionales y sociales, para que puedan participar en todos los aspectos de la gestión de riesgos, adaptación, mitigación e investigación sobre el cambio climático;
+XIII.- Enfoque de género: Instrumento teórico y metodológico que analiza las relaciones de género para identificar las desigualdades y sus orígenes, a fin de dimensionar la vulnerabilidad de mujeres y de hombres ante el cambio climático y los riesgos de desastres, así como las necesidades y los aportes que hace cada uno de ellos, para diseñar acciones diferenciadas entre ambos géneros en un marco de justicia e igualdad entre mujeres y hombres;
 
-XV.- Fondo: Fondo Estatal para el Cambio Climático;
+XIV.- Enfoque intercultural: Instrumento teórico y metodológico que analiza la diversidad de rasgos y manifestaciones culturales y su relación entre ellas, a fin de dar propuestas apegadas a la cosmovisión y necesidades de cada una de ellas;
 
-XVI.- Fuentes emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera;
+XV.- Fomento de capacidad: Proceso de desarrollo de técnicas y capacidades institucionales y sociales, para que puedan participar en todos los aspectos de la gestión de riesgos, adaptación, mitigación e investigación sobre el cambio climático;
 
-XVII.- GEI: Gases de Efecto Invernadero que son aquellos componentes gaseosos de la atmósfera que absorben y emiten radiación infrarroja, y dan lugar al efecto invernadero reforzado. Se contemplarán los previstos en el Protocolo de Kioto, a saber: dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarbonos (HFC), perfluorocarbonos (PFC) y hexafluoruro de azufre (SF6);
+XVI.- Fondo: Fondo Estatal para el Cambio Climático;
 
-XVIII.- Ley: Ley de Cambio Climático para el Estado de Oaxaca;
+XVII.- Fuentes emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera;
 
-XIX.- MDL: El Mecanismo para un Desarrollo Limpio descrito en el Protocolo de Kioto, que establece procedimiento a través del cual se financian proyectos de reducción o de captura de gases de efecto invernadero;
+XVIII.- GEI: Gases de Efecto Invernadero que son aquellos componentes gaseosos de la atmósfera que absorben y emiten radiación infrarroja, y dan lugar al efecto invernadero reforzado. Se contemplarán los previstos en el Protocolo de Kioto, a saber: dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarbonos (HFC), perfluorocarbonos (PFC) y hexafluoruro de azufre (SF6);
 
-XX.- Mitigación de GEI: Aplicación de políticas y acciones destinadas a reducir las emisiones de GEI, y mejorar los sumideros de gases de efecto invernadero;
+XIX.- Ley: Ley de Cambio Climático para el Estado de Oaxaca;
 
-XXI.- Mitigación de riegos: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+XX.- MDL: El Mecanismo para un Desarrollo Limpio descrito en el Protocolo de Kioto, que establece procedimiento a través del cual se financian proyectos de reducción o de captura de gases de efecto invernadero;
 
-XXII.- Normas Técnicas Ambientales: Disposiciones de carácter obligatorio en el Estado, que tienen por objeto establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades que causen o puedan causar desequilibrio ecológico o daño al ambiente, para prevenir, reducir, mitigar y, en su caso, compensar los efectos adversos o alteraciones que se ocasionen o puedan ocasionar al ambiente y sus recursos, así como considerar las condiciones necesarias para reorientar los procesos y tecnologías de protección al ambiente y al desarrollo sustentable;
+XXI.- Mitigación de GEI: Aplicación de políticas y acciones destinadas a reducir las emisiones de GEI, y mejorar los sumideros de gases de efecto invernadero;
 
-XXIII.- Ordenamiento Ecológico Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio regional y local, de conformidad con lo previsto en la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+XXII.- Mitigación de riegos: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
 
-XXIV.- PACMUN: El Plan de Acción Climática Municipal, que es el documento que establece estrategias, lineamientos a seguir en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito municipal;
+XXIII.- Normas Técnicas Ambientales: Disposiciones de carácter obligatorio en el Estado, que tienen por objeto establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades que causen o puedan causar desequilibrio ecológico o daño al ambiente, para prevenir, reducir, mitigar y, en su caso, compensar los efectos adversos o alteraciones que se ocasionen o puedan ocasionar al ambiente y sus recursos, así como considerar las condiciones necesarias para reorientar los procesos y tecnologías de protección al ambiente y al desarrollo sustentable;
 
-XXV.- PEACC: El Programa Estatal de Acción ante el Cambio Climático, que es el documento que establece estrategias, lineamientos a seguir en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito estatal;
+XXIV.- Ordenamiento Ecológico Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio regional y local, de conformidad con lo previsto en la Ley del Equilibrio Ecológico del Estado de Oaxaca.
 
-XXVI.- Protocolo de Kioto: Tratado Internacional derivado de la CMNUCC, que establece compromisos, mecanismos y acciones que tiendan a limitar o reducir las emisiones de gases de efecto invernadero;
+XXV.- PACMUN: El Plan de Acción Climática Municipal, que es el documento que establece estrategias, lineamientos a seguir en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito municipal;
 
-XXVII.- REDD+: La Reducción de Emisiones por Deforestación y Degradación;
+XXVI.- PEACC: El Programa Estatal de Acción ante el Cambio Climático, que es el documento que establece estrategias, lineamientos a seguir en tiempo y espacio, así como los instrumentos, mecanismos y acciones relacionadas al cambio climático en el ámbito estatal;
 
-XXVIII.- Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos;
+XXVII.- Protocolo de Kioto: Tratado Internacional derivado de la CMNUCC, que establece compromisos, mecanismos y acciones que tiendan a limitar o reducir las emisiones de gases de efecto invernadero;
 
-XXIX.- Registro Estatal de Emisiones: Instrumento de registro a cargo de la Secretaría, de las fuentes de emisiones estatales, los proyectos de reducción de emisiones, así como las transacciones de reducciones certificadas y de permisos de emisión;
+XXVIII.- REDD+: La Reducción de Emisiones por Deforestación y Degradación;
 
-XXX.- Reglamento: El Reglamento de la Ley de Cambio Climático para el Estado de Oaxaca;
+XXIX.- Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos;
 
-XXXI.- Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse de los efectos derivados de la variabilidad y el cambio climático;
+XXX.- Registro Estatal de Emisiones: Instrumento de registro a cargo de la Secretaría, de las fuentes de emisiones estatales, los proyectos de reducción de emisiones, así como las transacciones de reducciones certificadas y de permisos de emisión;
 
-XXXII.- Resistencia: Capacidad de los sistemas naturales o sociales para persistir ante los efectos derivados de la variabilidad y el cambio climático;
+XXXI.- Reglamento: El Reglamento de la Ley de Cambio Climático para el Estado de Oaxaca;
 
-XXXIII.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción en su vulnerabilidad y la presencia de un agente perturbador;
+XXXII.- Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse de los efectos derivados de la variabilidad y el cambio climático;
+
+XXXIII.- Resistencia: Capacidad de los sistemas naturales o sociales para persistir ante los efectos derivados de la variabilidad y el cambio climático;
+
+XXXIV.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción en su vulnerabilidad y la presencia de un agente perturbador;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXXIV.- Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca.
+XXXV.- Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca.
 
-XXXV.- Sistema Estatal de Bonos de Emisiones de Carbono: Sistema, que hace posible las transacciones de compra venta de reducciones o captura de emisiones de compuestos de efecto invernadero o de permisos de emisión;
+XXXVI.- Sistema Estatal de Bonos de Emisiones de Carbono: Sistema, que hace posible las transacciones de compra venta de reducciones o captura de emisiones de compuestos de efecto invernadero o de permisos de emisión;
 
-XXXVI.- SIC: El Sistema de Información Climática;
+XXXVII.- SIC: El Sistema de Información Climática;
 
-XXXVII.- Sumidero: Cualquier proceso o mecanismo que absorbe y/o retiene gases de efecto invernadero;
+XXXVIII.- Sumidero: Cualquier proceso o mecanismo que absorbe y/o retiene gases de efecto invernadero;
 
-XXXVIII.- Toneladas de bióxido de carbono equivalentes: Unidad de medida de concentración de bióxido de carbono que causaría el mismo forzamiento radiativo medio mundial que mezcla de bióxido de carbono, diversos gases de efecto invernadero y aerosoles; y
+XXXIX.- Toneladas de bióxido de carbono equivalentes: Unidad de medida de concentración de bióxido de carbono que causaría el mismo forzamiento radiativo medio mundial que mezcla de bióxido de carbono, diversos gases de efecto invernadero y aerosoles; y
 
-XXXIX.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por actores físicos, sociales, económicos y ambientales.
+XL.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por actores físicos, sociales, económicos y ambientales.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN Y ESTRUCTURA INSTITUCIONAL EN LAS POLÍTICAS ESTATALES DE CAMBIO CLIMÁTICO
 
@@ -438,6 +446,10 @@ VII.- Coordinar con las entidades responsables, la elaboración de un proyecto d
 VIII.- Elaborar, en coordinación con los ayuntamientos, un reporte sobre medidas tomadas para el ahorro y la eficiencia energética en sus instalaciones y áreas de incumbencia administrativa, así como elaborar metas a mediano y corto plazos en este sentido; y
 
 VIII (sic).- Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2025)</small>
+
+IX. Corresponde a la secretaria Coadyuvar con las instancias correspondientes, el fomento de empleos verdes, para transitar a una economía solidaria.
 
 ###### Artículo 20.
 
@@ -1152,6 +1164,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 6 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2077.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LVIII DEL ARTÍCULO 4, EL ARTÍCULO 26 Y EL ARTÍCULO 170 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2076.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XV AL ARTÍCULO 2, SE REFORMA LA FRACCIÓN XI RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 3, Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 19 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
