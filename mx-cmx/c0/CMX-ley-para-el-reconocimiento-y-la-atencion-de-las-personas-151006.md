@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-reconocimiento-y-la-atencion-de-las-personas-151006
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-07"
-last_updated: "2024-05-03"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-06"
 
 LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI+ DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en el Número 678 Bis de la Gaceta Oficial de la Ciudad de México, el martes 7 de septiembre de 2021.
 
@@ -205,6 +205,10 @@ XXV. Orientación sexual: Se refiere a la atracción emocional, afectiva y sexua
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2024)</small>
 
 XXVI. Persona cisgénero: Cuando la identidad de género de la persona corresponde con los estándares sexogénericos asignados al nacer;
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2025)</small>
+
+XXVI BIS. Persona con identidad de género no binario: Aquella persona cuya identidad de género no se limita a las categorías de masculino o femenino, ejerciendo su derecho a la autodeterminación de género fuera del binarismo de género.
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2024)</small>
 
@@ -1045,3 +1049,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrara? en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La Secretaría de Inclusión y Bienestar de la Ciudad de México, habrá de concluir las acciones y programas en curso en la materia de la reforma del presente decreto, a más tardar en el ejercicio 2024.
+
+G.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXVI BIS DEL ARTÍCULO 4 DE LA LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI+ DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.– El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
