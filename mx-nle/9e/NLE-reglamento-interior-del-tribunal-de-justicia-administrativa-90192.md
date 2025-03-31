@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2025-01-22"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -1005,9 +1003,13 @@ I. Cada Comisión podrá integrarse por el número de Magistrados y Secretarios 
 
 II. Entre los integrantes de cada Comisión no podrá existir subordinación directa, es decir, los integrantes no pueden estar adscritos o depender laboralmente entre sí;
 
-III. Tendrán un Presidente, que será designado por votación, entre sus integrantes y durará en el encargo el tiempo que la comisión lo considere pertinente;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2025)</small>
 
-IV. Tendrán un vicepresidente que será igualmente elegido por votación y un Secretario Técnico que será designado por el Presidente de la Comisión, y que se encargará de compilar y comunicar las determinaciones adoptadas por dicha comisión;
+III. Tendrán un Presidente, que será designado por la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León, y durará en el encargo el tiempo que la Sala Superior estime necesario.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2025)</small>
+
+IV. Tendrán un vicepresidente que será igualmente elegido por la Sala Superior y un Secretario Técnico que será designado por la misma Sala Superior, y que se encargará de compilar y comunicar las determinaciones adoptadas por dicha comisión;
 
 V. Funcionarán colegiadamente y tomarás (sic) sus determinaciones por mayoría de votos;
 
@@ -1019,13 +1021,13 @@ VI. Sesionarán de manera ordinaria y extraordinaria, pudiendo tratar cualquier 
 
 El Presidente del Tribunal al conocer de las denuncias o quejas que se presenten contra los Magistrados y demás personal del Tribunal, a que se refiere la fracción IX del inciso A) del artículo 20 de la Ley, turnará las mismas con acuerdo de la Sala Superior a la Comisión Investigadora, para que realice la investigación correspondiente.
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 46 Bis.
 
-En caso de que alguno de los integrantes de cualquiera de las Comisiones se encuentre involucrado en el asunto objeto de la investigación o procedimiento, según sea el caso, será la propia Comisión quien, siguiendo los lineamientos de designación, procederá a sustituir para ese procedimiento al integrante involucrado.
+En caso de que alguno de los integrantes de cualquiera de las Comisiones se encuentre involucrado en el asunto objeto de la investigación o procedimiento, según sea el caso, deberá comunicarse por escrito a la Sala Superior dentro del plazo de tres días hábiles, quien, siguiendo los lineamientos de designación, procederá a sustituir para ese procedimiento al integrante involucrado.
 
-En el supuesto de que la investigación o procedimiento involucre a dos o más miembros de la comisión, el Presidente de la Comisión lo comunicará por escrito a la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León, quien resolverá conforme a los lineamientos de integración señalados en el artículo 45 Bis, a quienes sustituirán a los integrantes involucrados en dicho procedimiento.
+En el supuesto de que la investigación o procedimiento involucre a dos o más miembros de la comisión, el Presidente de la Comisión lo comunicará por escrito a la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León dentro del plazo de tres días hábiles, quien resolverá conforme a los lineamientos de integración señalados en el artículo 45 Bis, a quienes sustituirán a los integrantes involucrados en dicho procedimiento.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2023)</small>
 
@@ -1210,6 +1212,14 @@ Tercero. Todas las quejas y denuncias que se encuentren pendientes de trámite y
 P.O. 15 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN POR ADICIÓN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
