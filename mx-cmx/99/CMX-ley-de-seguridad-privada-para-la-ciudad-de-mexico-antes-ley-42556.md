@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-privada-para-la-ciudad-de-mexico-antes-ley-425
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-24"
-last_updated: "2014-12-18"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42556&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2004-12-14"
 ---
 # LEY DE SEGURIDAD PRIVADA PARA LA CIUDAD DE MEXICO -- ANTES LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL --
 
-LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
+LEY DE SEGURIDAD PRIVADA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE MARZO DE 2025.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 24 de enero de 2005.
+Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 24 de enero de 2005.
 
 ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
@@ -44,19 +44,25 @@ DECRETO
 
 D E C R E T A
 
-LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE MARZO DE 2025)</small>
+
+LEY DE SEGURIDAD PRIVADA PARA LA CIUDAD DE MÉXICO.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular las actividades y prestación de servicios de seguridad privada en todas sus modalidades en el Distrito Federal, así como la infraestructura, equipo e instalaciones inherentes con la misma en el ámbito de competencia del Gobierno del Distrito Federal, a fin de garantizar que se realicen en las mejores condiciones de eficiencia, imagen y certeza en beneficio de la población.
+La presente Ley es de orden público e interés general y tiene por objeto regular las actividades y prestación de servicios de seguridad privada en todas sus modalidades en la Ciudad de México, así como la infraestructura, equipo e instalaciones inherentes con la misma en el ámbito de competencia del Gobierno de la Ciudad de México, a fin de garantizar que se realicen en las mejores condiciones de eficiencia, imagen y certeza en beneficio de la población.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 2.
 
-Es responsabilidad del Gobierno del Distrito Federal a través de la Secretaría de Seguridad Pública controlar, supervisar y vigilar que las actividades y servicios de seguridad privada, se lleven a cabo con apego a la normatividad aplicable en la materia, así como a las políticas y estrategias diseñadas por la Administración Pública del Distrito Federal.
+Es responsabilidad del Gobierno de la Ciudad de México a través de la Secretaría de Seguridad Ciudadana controlar, supervisar y vigilar que las actividades y servicios de seguridad privada, se lleven a cabo con apego a la normatividad aplicable en la materia, así como a las políticas y estrategias diseñadas por la Administración Pública de la Ciudad de México.
 
 ###### Artículo 3.
 
@@ -86,9 +92,13 @@ XI. Infraestructura: El conjunto de elementos inherentes o incorporados a los se
 
 XII. Instituciones Oficiales: Las dependencias, organismos, órganos o empresas de la administración pública que cuentan con áreas que realizan actividades de seguridad privada para satisfacer sus necesidades o coadyuvar en el cumplimiento de sus funciones, sin operar a favor de terceros;
 
-XIII. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-XIV. Ley: La Ley de Seguridad Privada para el Distrito Federal;
+XIII. Persona titular de la Jefatura de Gobierno: La Jefa o Jefe de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+XIV. Ley: La Ley de Seguridad Privada para la Ciudad de México;
 
 XV. Licencia: El acto administrativo a través del cual la Secretaría autoriza a las personas físicas la prestación de servicios de seguridad privada a terceros, pudiendo ser de dos tipos:
 
@@ -118,13 +128,17 @@ XXI. Prestatario: La persona física o moral que recibe los servicios de segurid
 
 XXII. Registro: El registro de servicios de seguridad privada;
 
-XXIII. Reglamento: El Reglamento de la Ley de Seguridad Privada para el Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+XXIII. Reglamento: El Reglamento de la Ley de Seguridad Privada para la Ciudad de México;
 
 XXIV. Reincidencia: La comisión de dos o más infracciones a las normas jurídicas y administrativas relacionadas con la seguridad privada en un periodo de seis meses;
 
 XXV. (DEROGADA, G.O. 28 DE NOVIEMBRE DE 2014)
 
-XXVI. Secretaría: La Secretaría de Seguridad Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+XXVI. Secretaría: La Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
 XXVII. Seguridad privada: La actividad o servicio que conforme a las disposiciones jurídicas y administrativas vigentes, realizan o prestan para sí o para terceros, los prestadores, los autorizados, los permisionarios y las Instituciones Oficiales debidamente registrados por la Secretaría, que tiene por objeto proteger la integridad física de personas específicamente determinados y/o de su patrimonio; prevenir la comisión de delitos e infracciones en perjuicio de éstos; auxiliarlos en caso de siniestros y desastres, y colaborar en la aportación de datos o elementos para la investigación y persecución de delitos, en forma auxiliar y complementaria a la seguridad pública y previa autorización, licencia, permiso o aviso de registro expedido por las autoridades competentes;
 
@@ -134,17 +148,21 @@ XXIX. Unidad de Verificación: Unidad administrativa responsable del ejercicio d
 
 XXX. Unidad de Evaluación y Certificación: Unidad administrativa responsable de dirigir, coordinar y llevar a cabo las evaluaciones establecidas por la Secretaría a las personas físicas que prestan servicios o realizan actividades de seguridad privada, así como expedir la certificación de aptitud, idoneidad y confiabilidad a elementos operativos y elementos de apoyo para prestar servicios de seguridad privada, en los casos establecidos por las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-XXXI. Unidad de Cuenta de la Ciudad de México.- El valor expresado en pesos que se utilizará, de manera individual o por múltiplos de ésta, para determinar sanciones y multas administrativas, conceptos de pago y montos de referencia, previstos en las normas locales vigentes del Distrito Federal.
+XXXI. UMA: La Unidad de Medida y Actualización para la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 4.
 
-Por la naturaleza de los bienes jurídicos que tutela esta ley, se considera de interés público y beneficio general la prestación de servicios o realización de actividades de seguridad privada en el Distrito Federal, por personas físicas o morales mediante autorización, licencia, permiso o aviso de registro expedidos por la Secretaría. Este ordenamiento y las demás disposiciones jurídicas y administrativas aplicables, confieren a tales servicios o actividades el carácter de auxiliares y complementarias de la función de la seguridad pública, en beneficio de la integridad de las personas y sus bienes.
+Por la naturaleza de los bienes jurídicos que tutela esta ley, se considera de interés público y beneficio general la prestación de servicios o realización de actividades de seguridad privada en la Ciudad de México, por personas físicas o morales mediante autorización, licencia, permiso o aviso de registro expedidos por la Secretaría. Este ordenamiento y las demás disposiciones jurídicas y administrativas aplicables, confieren a tales servicios o actividades el carácter de auxiliares y complementarias de la función de la seguridad pública, en beneficio de la integridad de las personas y sus bienes.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 5.
 
-En todo lo no previsto por esta ley, serán aplicables de forma supletoria la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Distrito Federal, la Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal, la Ley de Procedimiento Administrativo del Distrito Federal, y el Reglamento de Verificación Administrativa para el Distrito Federal.
+En todo lo no previsto por esta ley, serán aplicables de forma supletoria la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México, la Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México, la Ley de Procedimiento Administrativo de la Ciudad de México y el Reglamento de Verificación Administrativa del Distrito Federal.
 
 ###### Artículo 6.
 
@@ -186,7 +204,9 @@ Las actividades inherentes a la Seguridad Privada son las relativas al diseño, 
 
 Para el cumplimiento de la presente ley y los ordenamientos que de ella emanen, en materia de seguridad privada, la Secretaría tendrá, además de las contenidas en otras leyes, las siguientes facultades:
 
-I. Controlar, supervisar y vigilar el desarrollo de la seguridad privada en el Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+I. Controlar, supervisar y vigilar el desarrollo de la seguridad privada en la Ciudad de México;
 
 II. Realizar todas aquellas acciones tendientes a que los servicios de seguridad privada, además de llevarse a cabo con eficiencia y calidad, proporcionen certeza y confianza a los prestatarios;
 
@@ -198,13 +218,13 @@ V. Celebrar convenios con las autoridades federales, estatales y municipales com
 
 VI. Determinar e imponer las sanciones correspondientes por violaciones a la presente ley y su reglamento, en lo que se refiere a la prestación de los servicios o realización de actividades de seguridad privada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2009)</small>
+VII. Actualizar permanentemente el registro de la seguridad privada, que incluya en forma enunciativa los rubros de prestadores de servicios, autorizados, e Instituciones Oficiales, personal, vehículos, infraestructura y modalidades de seguridad privada; autorizaciones, licencias, permisos y constancias de registro; sanciones y delitos; accionistas, socios, gestores, representantes, apoderados y mandatarios legales; equipos y sistemas tecnológicos que se utilicen así como las autorizaciones que se obtengan para su instalación y utilización, de conformidad con la Ley que regula el uso de tecnología para la Seguridad Pública para el Distrito Federal, la ley de Protección de Datos Personales para el Distrito Federal, la Ley de Protección de Datos Personales en posesión de Sujetos Obligados de la Ciudad de México y demás registros que sean necesarios a juicio de la Secretaría;
 
-VII. Actualizar permanentemente el registro de la seguridad privada, que incluya en forma enunciativa los rubros de prestadores de servicios, autorizados, e Instituciones Oficiales, personal, vehículos, infraestructura y modalidades de seguridad privada; autorizaciones, licencias, permisos y constancias de registro; sanciones y delitos; accionistas, socios, gestores, representantes, apoderados y mandatarios legales; equipos y sistemas tecnológicos que se utilicen así como las autorizaciones que se obtengan para su instalación y utilización, de conformidad con la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal y demás registros que sean necesarios a juicio de la Secretaría;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-VIII. Realizar la evaluación, certificación, verificación y supervisión de los servicios y actividades de seguridad privada en el Distrito Federal; así como substanciar y resolver los procedimientos administrativos para la caducidad, cancelación, clausura, revocación y suspensión de los permisos, autorizaciones, licencias y constancias de registro, cuando proceda conforme a la Ley y las disposiciones reglamentarias;
+VIII. Realizar la evaluación, certificación, verificación y supervisión de los servicios y actividades de seguridad privada en la Ciudad de México; así como substanciar y resolver los procedimientos administrativos para la caducidad, cancelación, clausura, revocación y suspensión de los permisos, autorizaciones, licencias y constancias de registro, cuando proceda conforme a la Ley y las disposiciones reglamentarias;
 
 IX. Denunciar ante el Ministerio Público, cuando se tenga conocimiento de la probable comisión de un delito;
 
@@ -228,9 +248,11 @@ XVII. Las demás que le confiere esta Ley y otros ordenamientos jurídicos y adm
 
 ### CAPÍTULO I. De las modalidades para prestar servicios o realizar actividades de seguridad privada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 11.
 
-Las modalidades para prestar servicios o realizar actividades de seguridad privada en el Distrito Federal son las siguientes:
+Las modalidades para prestar servicios o realizar actividades de seguridad privada en la Ciudad de México son las siguientes:
 
 I. Seguridad y protección personal. Relativa a la custodia, salvaguarda y defensa de la vida y la integridad corporal de personas;
 
@@ -248,9 +270,11 @@ V. Actividades inherentes a la seguridad privada. Relativas al diseño, fabricac
 
 ### CAPÍTULO II. De los Permisos para el servicio de seguridad privada
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 12.
 
-Para prestar servicios de seguridad privada en el Distrito Federal, se requiere permiso otorgado por la Secretaría, previo cumplimiento de los requisitos correspondientes.
+Para prestar servicios de seguridad privada en la Ciudad de México, se requiere permiso otorgado por la Secretaría, previo cumplimiento de los requisitos correspondientes.
 
 ###### Artículo 13.
 
@@ -260,7 +284,9 @@ I. Solicitar por escrito el permiso para una o más de las modalidades a que se 
 
 II. Ser persona física con actividades empresariales, o moral legalmente constituida;
 
-III. Acreditar tener el domicilio principal de sus operaciones, en el Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+III. Acreditar tener el domicilio principal de sus operaciones, en la Ciudad de México;
 
 IV. Manifestar bajo protesta de decir verdad que el inmueble a que se refiere la fracción anterior no está ubicado en lugares de acceso restringido al público, tales como unidades habitacionales, fraccionamientos, condominios o cualquier otro semejante, así como tampoco sea el domicilio en que habita el representante legal del prestador del servicio;
 
@@ -360,7 +386,9 @@ I. Solicitud por escrito para una o más de las modalidades a que se refiere est
 
 II. Ser persona física o moral legalmente constituida;
 
-III. Acreditar estar domiciliado en el Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+III. Acreditar estar domiciliado en la Ciudad de México;
 
 IV. Relación de los elementos de apoyo, debiendo acompañar respecto de cada una de las personas, lo siguiente:
 
@@ -402,7 +430,9 @@ I. Solicitar por escrito la constancia para una o más de las modalidades a que 
 
 II. Ser Institución Oficial;
 
-III. Acreditar estar domiciliado en el Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+III. Acreditar estar domiciliado en la Ciudad de México;
 
 IV. Relación de los elementos de apoyo, debiendo acompañar respecto de cada una de las personas, lo siguiente:
 
@@ -558,9 +588,11 @@ En caso de que no exista respuesta de la Secretaría, se entenderá que procede 
 
 Estará a cargo de la Secretaría el Registro de la Seguridad Privada, el cual tiene encomendado el desempeño de la función registral en todos sus órdenes, de acuerdo con ésta Ley y las disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 24.
 
-El Registro de la Seguridad Privada, a través del titular de la Unidad Administrativa que le competa, será el depositario de la fe pública y registral de los actos jurídicos, documentos y datos relacionados con la seguridad privada en el Distrito Federal.
+El Registro de la Seguridad Privada, a través del titular de la Unidad Administrativa que le competa, será el depositario de la fe pública y registral de los actos jurídicos, documentos y datos relacionados con la seguridad privada en la Ciudad de México.
 
 En forma enunciativa, el Registro mencionado en el párrafo anterior deberá contemplar cuando menos los siguientes apartados:
 
@@ -584,8 +616,6 @@ IX. Sanciones administrativas y penales;
 
 X. Armamento, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
 
 XI. Los equipos y sistemas tecnológicos que se utilicen así como las autorizaciones que se obtengan para su instalación y utilización, de conformidad con la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal; y
@@ -600,17 +630,17 @@ El registro a que se refieren las fracciones II, III, VII y VIII, comprenderá l
 
 El titular del Registro será el responsable de la confidencialidad, guarda, custodia y reserva de los documentos e información contenidos en éste.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 26.
 
-El Registro proporcionará información de acuerdo con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, o a petición de autoridad competente.
+El Registro proporcionará información de acuerdo con lo establecido en la Ley de Transparencia y Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, o a petición de autoridad competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 27.
 
-De toda información, registro, folio o certificación que proporcione el Registro, deberá expedirse constancia por escrito debidamente firmada por el servidor público competente, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado, conforme a lo que disponga el Código Fiscal del Distrito Federal.
+De toda información, registro, folio o certificación que proporcione el Registro, deberá expedirse constancia por escrito debidamente firmada por el servidor público competente, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado, conforme a lo que disponga el Código Fiscal de la Ciudad de México.
 
 ### CAPÍTULO VIII
 
@@ -746,15 +776,15 @@ Dentro del marco de actuación que rige la prestación de servicios o de realiza
 
 El prestatario deberá:
 
-I. Cubrir los daños que provoque cualquier elemento de su seguridad privada; si la autoridad a si (sic) lo considera.
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+I. Cubrir los daños que provoque cualquier elemento de su seguridad privada; si la autoridad así lo considera;
 
-II. En el caso de que su seguridad privada no cuente con los requisitos que exige la ley de Seguridad Privada y la ley de Seguridad Pública ambas del Distrito Federal, por el solo hecho de contratarlo se hará acreedor de una multa de 3500 a 5000 veces la Unidad de Cuenta de la Ciudad de México vigente.
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II. En el caso de que su seguridad privada no cuente con los requisitos que exige la ley de Seguridad Privada y la ley del Sistema de Seguridad Ciudadana, ambas de la Ciudad de México, por el solo hecho de contratarlo se hará acreedor de una multa de 3500 a 5000 veces el valor diario de la UMA vigente, y
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA ], G.O. 31 DE MARZO DE 2025)</small>
 
 III. Para los casos de lesiones y homicidio por parte del prestador del servicio de seguridad privada, el prestatario deberá denunciar los hechos, inmediatamente al Ministerio Público, proporcionando toda la información requerida del probable responsable o imputado, de lo contrario se hará acreedor a las sanciones que el Código Penal para el Distrito Federal señala.
 
@@ -770,9 +800,11 @@ Los prestadores de los servicios de seguridad privada, titulares de los permisos
 
 ### CAPÍTULO ÚNICO. De la verificación administrativa
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 39.
 
-A fin de comprobar que los titulares de permisos, autorizaciones y licencias que prestan servicios o realizan actividades de seguridad privada en el Distrito Federal, en cualquiera de sus modalidades, cumplan con las disposiciones jurídicas y administrativas aplicables y en su caso, proporcionen el servicio o realicen actividades de seguridad privada en los términos y condiciones señaladas en los permisos, autorizaciones o licencias, la Secretaría realizará visitas de verificación, las que podrán ser ordinarias o extraordinarias de acuerdo con lo que establece el Reglamento.
+A fin de comprobar que los titulares de permisos, autorizaciones y licencias que prestan servicios o realizan actividades de seguridad privada en la Ciudad de México, en cualquiera de sus modalidades, cumplan con las disposiciones jurídicas y administrativas aplicables y en su caso, proporcionen el servicio o realicen actividades de seguridad privada en los términos y condiciones señaladas en los permisos, autorizaciones o licencias, la Secretaría realizará visitas de verificación, las que podrán ser ordinarias o extraordinarias de acuerdo con lo que establece el Reglamento.
 
 ###### Artículo 40.
 
@@ -872,9 +904,9 @@ I. Apercibimiento;
 
 II. Amonestación con difusión pública de la misma, y
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-III. Multa de hasta cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente.
+III. Multa de hasta cinco mil veces el valor diario de la UMA vigente.
 
 ###### Artículo 50.
 
@@ -930,7 +962,9 @@ V. Negarse el titular del permiso, autorización o licencia, a reparar daños ca
 
 VI. Oponerse a la práctica de visitas de verificación;
 
-VII. Poner en riesgo la seguridad pública, protección civil o salud de los habitantes del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+VII. Poner en riesgo la seguridad pública, protección civil o salud de los habitantes de la Ciudad de México;
 
 VIII. Suspender sin causa justificada, la actividad por un término de noventa días hábiles;
 
@@ -1014,9 +1048,9 @@ Cuando la orden de clausura no pueda ejecutarse debido a la oposición del titul
 
 Con base en dicho informe, el superior jerárquico emitirá resolución fundada y motivada en la que impondrá a la persona que se haya opuesto a la diligencia la sanción prevista en esta Ley, dictará una nueva orden de clausura y solicitará el concurso de la fuerza pública para su ejecución.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
 
-En caso de que una persona física o moral preste servicios o realice actividades de seguridad privada sin contar con el permiso, autorización o licencia de la Secretaría, o cuando no hubiere obtenido la revalidación correspondiente, se procederá a emitir acuerdo de suspensión o clausura según el caso y se impondrá al infractor una multa de hasta por el equivalente de hasta cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente, sin perjuicio de la aplicación de sanciones o penas de otra naturaleza.
+En caso de que una persona física o moral preste servicios o realice actividades de seguridad privada sin contar con el permiso, autorización o licencia de la Secretaría, o cuando no hubiere obtenido la revalidación correspondiente, se procederá a emitir acuerdo de suspensión o clausura según el caso y se impondrá al infractor una multa de hasta por el equivalente de hasta cinco mil veces el valor diario de la UMA vigente, sin perjuicio de la aplicación de sanciones o penas de otra naturaleza.
 
 ###### Artículo 58.
 
@@ -1026,9 +1060,11 @@ Los prestatarios de servicios de seguridad privada, serán solidariamente respon
 
 ### CAPÍTULO VII. De los recursos
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 59.
 
-Los afectados por los actos o resoluciones de la Secretaría podrán interponer a su elección, el recurso de inconformidad en los términos de la Ley de Procedimiento Administrativo del Distrito Federal o iniciar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
+Los afectados por los actos o resoluciones de la Secretaría podrán interponer a su elección, el recurso de inconformidad en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México o iniciar el juicio de nulidad ante el Tribunal de Justicia Administrativa de la Ciudad de México.
 
 ## TITULO QUINTO. DE LAS UNIDADES ESPECIALES
 
@@ -1048,17 +1084,23 @@ El desempeño de las funciones de la Unidad de Verificación se sujetará a lo s
 
 I. A los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia;
 
-II. Garantizar que se atiendan de manera expedita las quejas y denuncias, respecto de los servicios y actividades de seguridad privada en el Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+II. Garantizar que se atiendan de manera expedita las quejas y denuncias, respecto de los servicios y actividades de seguridad privada en la Ciudad de México;
 
 III. Asegurar al interior de la Secretaría que las acciones encaminadas a la detección de probables actos ilícitos en los que se encuentren involucrados los elementos operativos o de apoyo, se lleven a cabo con estricto apego a derecho, y
 
-IV. Efectuar la integración de datos que permitan detectar irregularidades en el desempeño de los prestadores de servicios y realizadores de actividades de seguridad privada en el Distrito Federal.
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+IV. Efectuar la integración de datos que permitan detectar irregularidades en el desempeño de los prestadores de servicios y realizadores de actividades de seguridad privada en la Ciudad de México.
 
 ###### Artículo 63.
 
 Los resultados de las acciones preventivas que lleve a cabo la Unidad de Verificación, serán responsabilidad de su Titular, quien suscribirá en todos los casos dictamen fundado y motivado sobre cada asunto que se le encomiende, debiendo informar a las autoridades administrativas correspondientes los datos y conclusiones obtenidos.
 
-Dicha unidad actuará de manera coordinada con la unidad responsable del registro y control de los servicios de seguridad privada en el Distrito Federal, dependiente de la Secretaría.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
+Dicha unidad actuará de manera coordinada con la unidad responsable del registro y control de los servicios de seguridad privada en la Ciudad de México, dependiente de la Secretaría.
 
 ###### Artículo 64.
 
@@ -1070,9 +1112,11 @@ La Unidad de Verificación informará permanentemente al Titular de la Secretar�
 
 ### CAPÍTULO II. De la Unidad de Evaluación y Certificación
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 66.
 
-La Secretaría contará con una unidad administrativa de apoyo técnico operativo, encargada de dirigir, programar, coordinar y llevar a cabo la evaluación física, médica, psicológica, toxicóloga, poligráfica, de aptitud e idoneidad y confiabilidad de los elementos operativos y de apoyo que presten servicios o realicen actividades de seguridad privada en el Distrito Federal, previo pago de los derechos correspondientes. Esta Unidad será responsable de aplicar los exámenes contemplados por esta Ley y su Reglamento, expedir las constancias de certificación de aptitud, idoneidad y confiabilidad.
+La Secretaría contará con una unidad administrativa de apoyo técnico operativo, encargada de dirigir, programar, coordinar y llevar a cabo la evaluación física, médica, psicológica, toxicóloga, poligráfica, de aptitud e idoneidad y confiabilidad de los elementos operativos y de apoyo que presten servicios o realicen actividades de seguridad privada en la Ciudad de México, previo pago de los derechos correspondientes. Esta Unidad será responsable de aplicar los exámenes contemplados por esta Ley y su Reglamento, expedir las constancias de certificación de aptitud, idoneidad y confiabilidad.
 
 ###### Artículo 67.
 
@@ -1094,9 +1138,13 @@ II. Establecer y consolidar un sistema administrativo en materia de intercambio 
 
 III. Celebrar acuerdos de colaboración en materia de prevención, control y solución de problemas derivados de los servicios o actividades de seguridad privada en la zona metropolitana del valle de México, e igualmente promover la unificación de las legislaciones en esta materia;
 
-IV. Convocar y coordinar reuniones periódicas con las autoridades competentes en las entidades de la zona metropolitana del valle de México, a fin de establecer mecanismos y medidas necesarias para el mejor control gubernamental de los servicios de seguridad privada, y
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
 
-V. El apoyo permanente a fin de aplicar sanciones administrativas a infractores de la Ley, Reglamento y otras disposiciones de la materia y cuyos responsables se localicen en territorio distinto al Distrito Federal;
+IV. Convocar y coordinar reuniones periódicas con las autoridades competentes en las entidades de la zona metropolitana del Valle de México, a fin de establecer mecanismos y medidas necesarias para el mejor control gubernamental de los servicios de seguridad privada;
+
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2025)</small>
+
+V. El apoyo permanente a fin de aplicar sanciones administrativas a infractores de la Ley, Reglamento y otras disposiciones de la materia y cuyos responsables se localicen en territorio distinto a la Ciudad de México, y
 
 > <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2009)</small>
 
@@ -1165,3 +1213,11 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 31 DE MARZO DE 2025.
+
+> <small>[N. DE E. TRANSITOROS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN Y SE REFORMAN LOS ARTÍCULOS 1, 2, 3 FRACCIONES XIII, XIV, XXIII, XXVI, XXXI, 4, 5, 10 FRACCIONES I, VII Y VIII, 11 PÁRRAFO PRIMERO, 12, 13 FRACCIÓN III, 15 FRACCIÓN III, 16 FRACCIÓN III, 24 PÁRRAFO PRIMERO, 26, 27, 37 BIS, 39, 49 FRACCIÓN III, 52 FRACCIÓN VII, 57 PÁRRAFO TERCERO, 59, 62 FRACCIONES II Y IV, 63, 66 Y 68 FRACCIÓN V, TODOS DE LA LEY DE SEGURIDAD PRIVADA PARA EL DISTRITO FEDERAL”.]</small>
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
