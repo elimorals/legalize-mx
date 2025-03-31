@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2023-10-06"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1214,9 +1214,17 @@ Las sesiones serán convocadas por la Alcaldesa o el Alcalde, o bien a solicitud
 
 El reglamento interior que expida el Concejo deberá emitirse de acuerdo con los lineamientos establecidos en esta Ley.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 86.
 
-Las sesiones del Consejo serán presididas por la Alcaldesa o el Alcalde, contará con una secretaría técnica designada de conformidad con lo señalado en la presente ley.
+Las sesiones del Concejo serán presididas por la Alcaldesa o el Alcalde, contará con una secretaría técnica designada de conformidad con lo señalado en la presente ley.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2025)</small>
+
+###### Artículo 86 Bis.
+
+En caso de licencia temporal, definitiva o ausencia de la persona Titular de la Alcaldía, y con el fin de no paralizar las actividades del Concejo, la persona servidora pública que se encuentre encargada del despacho, será quien presida las sesiones del Concejo de cada Demarcación.
 
 ###### Artículo 87.
 
@@ -1228,11 +1236,15 @@ II. Extraordinarias, cuando la importancia o urgencia del asunto que se trate, l
 
 III. Solemnes, las sesiones en que se instale la Alcaldía, se rinda el informe de la administración de la Alcaldía y aquellas que acuerde el Concejo. En estas sesiones no habrá lugar a interpelaciones.
 
-Las sesiones serán públicas, salvo aquellas que sean consideradas cerradas por la trascendencia de los temas a tratar.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
+Las sesiones serán públicas y deberán atender los principios de transparencia, rendición de cuentas y máxima publicidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 88.
 
-Se podrá citar a sesiones de Consejo por solicitud que haga la Alcaldesa o el Alcalde o por solicitud de la mayoría absoluta de los Concejales.
+Se podrá citar a sesiones de Concejo por solicitud que haga la Alcaldesa o el Alcalde o por solicitud de la mayoría absoluta de los Concejales.
 
 La primera convocatoria a la sesión deberá notificarse en forma personal, por lo menos con setenta y dos horas de anticipación; contendrá el orden del día y, en su caso, la información necesaria para el desarrollo de la sesión, así como el lugar, día y hora en que se llevará a cabo. Se exceptuarán los requisitos anteriores y la citación se hará por medios idóneos, cuando el o los asuntos a tratar sean de carácter urgente y de obvia resolución, para que se instale y celebre la sesión deberán estar presente por lo menos la mitad más uno de los miembros del Concejo.
 
@@ -1244,9 +1256,11 @@ Los Concejos celebrarán sus sesiones en el recinto oficial destinado para tal e
 
 Los acuerdos del Concejo se tomarán por mayoría simple de votos presentes. En caso de empate, la Alcaldesa o el Alcalde tendrá voto de calidad;
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 89.
 
-Cuando se requiera convocar a la Alcaldesa o al Alcalde, así como a los titulares de las Unidades Administrativas para que concurran a rendir informes ante el pleno o comisiones, deberá existir acuerdo previo del Consejo para tal convocatoria y se deberá notificar en forma expresa y por escrito o por medios electrónicos al servidor público respectivo por lo menos con setenta y dos horas de anticipación;
+Cuando se requiera convocar a la Alcaldesa o al Alcalde, así como a los titulares de las Unidades Administrativas para que concurran a rendir informes ante el pleno o comisiones, deberá existir acuerdo previo del Concejo para tal convocatoria y se deberá notificar en forma expresa y por escrito o por medios electrónicos al servidor público respectivo por lo menos con setenta y dos horas de anticipación.
 
 ###### Artículo 90.
 
@@ -1282,11 +1296,15 @@ El desarrollo de las sesiones del Concejo, se hará constar por la secretaría t
 
 Las actas deberán ser firmadas por los integrantes de la Alcaldía que participaron en la sesión para su validez plena;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2025)</small>
+
 ###### Artículo 93.
 
-Todas sesiones, con excepción de las cerradas, deberán transmitirse a través de la página de internet de la Alcaldía;
+Las sesiones del Concejo serán públicas y deberán atender los principios de transparencia, rendición de cuentas y máxima publicidad, y transmitirse en tiempo real a través de la página de internet de la Alcaldía.
 
-Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta de la Alcaldía y en los estrados de la misma, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información; y
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2025)</small>
+
+Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta de la Alcaldía y en los estrados de la misma, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
 
 Para cada sesión se deberá contar con una versión estenográfica o videograbada que permita hacer las aclaraciones pertinentes, la cual formará parte del acta correspondiente. La versión estenográfica o videograbada deberá estar disponible en la página de internet de la Alcaldía y en las oficinas de la secretaría técnica del Concejo.
 
@@ -2573,3 +2591,13 @@ G.O. 6 DE OCTUBRE DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrara´ en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 86, SE ADICIONA EL ARTÍCULO 86 BIS, SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 87, SE REFORMA EL ARTÍCULO 88 Y 89, Y EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 93 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los Concejos de las Alcaldías deberán realizar las modificaciones a sus Reglamentos Internos para adecuarlos al contenido del presente Decreto, en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
