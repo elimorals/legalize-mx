@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2025-03-25"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -931,7 +931,9 @@ I. Asuntos Electorales y Participación Ciudadana;
 
 II. Ciencia, Tecnología e Innovación;
 
-III. Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+III. Movilidad y Comunicaciones;
 
 IV. Cultura y Artes;
 
@@ -1107,11 +1109,15 @@ VII. Formar parte, a través de uno de sus integrantes, del Consejo Estatal de C
 
 VIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2025)</small>
+
 ###### ARTÍCULO 69.
 
-Corresponde a la Comisión de Comunicaciones y Transportes, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+Corresponde a la Comisión de Movilidad y Comunicaciones, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
-I. Los relacionados a la expedición, reforma, adición y derogación de la Legislación en materia de comunicaciones y transporte;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2025)</small>
+
+I. Los relacionados a la expedición reforma, adición y derogación de la legislación en materia de movilidad y comunicaciones;
 
 II. Los relativos a autorizaciones que solicite el Ejecutivo del Estado, cuya materia sea relativa a vías de comunicación estatales;
 
@@ -4798,3 +4804,11 @@ PRIMERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para s
 SEGUNDO. Los artículos primero, segundo y tercero del presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. El artículo cuarto del presente Decreto entrará en vigor al momento de su aprobación, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 169 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 62, LA FRACCIÓN I ASÍ COMO EL PRIMER PÁRRAFO DEL ARTÍCULO 69, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto en el segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
