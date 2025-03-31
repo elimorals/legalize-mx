@@ -4,7 +4,7 @@ identifier: "TLA-codigo-de-conducta-para-los-servidores-publicos-del-139519"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-20"
-last_updated: "2019-11-20"
+last_updated: "2025-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TLA"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DEL FIDEICOMISO DE LA CIUDAD INDUSTRIAL DE XICOTENCATL , TLAXCALA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL FIDEICOMISO DE LA CIUDAD INDUSTRIAL DE XICOTÉNCATL (FIDECIX) DEL ESTADO DE TLAXCALA, PUBLICADO EN EL P.O. DE 31 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL FIDEICOMISO DE LA CIUDAD INDUSTRIAL DE XICOTÉNCATL, DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 20 de noviembre de 2019.
 
@@ -297,3 +299,13 @@ ING. BERNARDO SEGURA SÁNCHEZ.
 GERENTE GENERAL DEL FIDECIX.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL FIDEICOMISO DE LA CIUDAD INDUSTRIAL DE XICOTÉNCATL (FIDECIX)”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+SEGUNDO.- Se abroga el Código de Conducta del Fideicomiso de la Ciudad Industrial de Xicoténcatl, publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala, Periódico Oficial No. 47 Primera Sección, Noviembre 20 del 2019.
