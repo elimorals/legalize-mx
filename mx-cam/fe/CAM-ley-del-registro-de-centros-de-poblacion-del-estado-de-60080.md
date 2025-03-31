@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-registro-de-centros-de-poblacion-del-estado-de-60080"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2024-06-05"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 5 de marzo de 2008.
 
@@ -271,11 +271,9 @@ A la Ciudad de Candelaria, Cabecera del Municipio corresponden:
 
 a) El pueblo de Benito Juárez;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
-
-b) Las Congregaciones de: Coahullita, El Cokay, Corpus Cristi, El Cuyo y La Plata, Champas Quemadas, Chuncopo, El Encanto, La Envidia, La Florida 3, La Franelita, Las Gaviotas, La Lucha, Pajaral, Las Palmitas, El Paso del Cuervo (El Cuervo), Pimental (El Pocito), El Ramonal II (Los Manguitos), Ranchería Pimental II, El Sacrificio I, San José, San Juan, San Miguel, San Pedro, Santa Cruz 2, Santo Domingo (El Cuyo), El Tigre, El Triunfo (Los Tochos), La Unión y Paraguas;
+b) Las Congregaciones de: Coahuilita, El Cokay, Corpus Cristi, El Cuyo y La Plata, Champas Quemadas, Chuncopo, El Encanto, La Envidia, La Florida 3, La Franelita, Las Gaviotas, La Lucha, Pajaral, Las Palmitas, El Paso del Cuervo (El Cuervo), Pimental (El Pocito), El Ramonal II (Los Manguitos), El Sacrificio I, San José, San Juan, San Miguel, San Pedro, Santa Cruz 2, Santo Domingo (El Cuyo), El Tigre, El Triunfo (Los Tochos), La Unión y Paraguas;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -481,9 +479,9 @@ b) Los ejidos: Escárcega y sus colonias la Chiquita y La Esperanza; Justicia So
 
 c) Los ranchos: Las Ruinas, Providencia, Monte Bravo, San Joaquín, Oscar Flores, Chaucil 1, Chaucil 2, Chaucil 3, Chaucil 4, Chaucil 5, Caña Fístula 1, Caña Fístula 2, Búfalo, La Estancia, Coliman, Zeta, San Jorge, Martín, Piedras, Elisa, Félix Romero, Carlos Schnabel, Monteclaro, San Carlos, Gran Poder, San Ignacio, Carlos Heredia, Puente de Juárez, Puerto Escondido, Rosa Encerrada, Félix Faller, Hidalgo, Mercedes, El Círculo, Trapiche, Tamarindo, Las Palmas, Selva Negra, Jorge Cural, Jorge Medina, Elidé Hernández, Las Ardillas, Potro, Isis, La Unión, San Jorge 1, La Bomba, El Gallo, Guadalajara, Buenavista, Santa Ana, Otoño, Santa Lucía, Los Altos de Cuyoc, Bonanza, Miraflores, Santa Rita, Hermanos Gómez, Laramie, Jabín, Esperanza 1, Esperanza 2, Hermanos Navarro, San Isidro Cuyoc, Triple R, Leonor, María de la Luz, El Charro, San Jorge, Pucté 1, Pucté 2, Pucté 3, Pucté 4, Pucté 5, Santa Juliana, Palma Larga, Vista Alegre, Piedral, Jimba, Taurino, Partenón, San Manuel, Campeador, Borrego, El Caobo, Neftalín Inurreta, Aventurero, Las Cruces, Everardo Espinosa, Daniel Santiago, Libertad, Asunción, José Fuentes Ramos, Aída, Saúl Pérez Sosa, Anastacio Damián, Los Reyes, Santo Tomás, Juan Mora Guillermo, Norberto Moreno Cano, Eduardo Guillermo Méndez, Adelita, Porfía, El Rey II, Ceferino Moreno Escalante, Jorge Moreno Escalante, Nanzal, Vista Alegre, La Libertad, Pedro Moreno Gómez, Vértice, Jacinto, Magueyitos, Santa Gertrudis, La Flor, San Pablo, Progreso, Asunción, Fátima, San Isidro, Mameyal, La Gimba, Los Reyes, Los Lirios, El Rincón, Lote 1, Lote 2, Lote 3, Lote 4, Lote 5, Lote 6, Lote 7, Lote 12, Lote 13, Lote 14, Lote 15, Lote 16, Lote 17, Pucteal, Pokar 2, La Libertad, Benítez, La Unión, Laureles 2, Bárbara, San Carlos 2, Corozal 2, Las Camelias, Otoño, El Pensamiento, Marcos Verdejo, Lino Melenes, Gustavo Garduño, Catalina, La Guadalupe, San Miguel, Buenavista, Bodegas Rurales Conasupo, La Carmelita, Innominado, Innominado, El Jaripeo (El Enamorado), Las Margaritas, Los Mexicanos, Nuevo Zináparo, Los Pocitos, Las Ruinas, San Alfredo, San Francisco, Sausalito, Unidad Ganadera N° 3, y los demás que se encuentren dentro de los deslindes de este Municipio aunque no estén mencionados en esta relación; y
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
 
-d). La Congregación de Nuevo Campeche
+d) Las Congregaciones de: Nuevo Campeche y Ranchería Pimental II.
 
 A la Sección Municipal de Centenario, corresponden:
 
@@ -778,3 +776,13 @@ TERCERO.- En su oportunidad, el H. Ayuntamiento del Municipio de Campeche deber�
 CUARTO.- El organismo público electoral local deberá proceder a adoptar las medidas que sean necesarias a efecto de que en las elecciones que tendrán lugar el primer domingo de junio del año 2027 se elija a los integrantes de la H. Junta Municipal que, en auxilio del H. Ayuntamiento del Municipio de Campeche, administrará la Sección Municipal de Los Laureles.
 
 QUINTO.- Entretanto queda formalmente constituida e integrada la Junta Municipal de Los Laureles, las autoridades auxiliares que correspondan a la Sección Municipal de Pich serán las encargadas de la prestación de los servicios públicos y la atención de las funciones municipales respecto de los centros de población que dejen de formar parte de esta sección municipal y que habrán de conformar la nueva Sección Municipal de Los Laureles, así como de los recursos previstos para satisfacer dichos servicios y su atención.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 73 POR EL QUE “SE REFORMA EL INCISO B) DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DEL ARTÍCULO 11, Y EL INCISO D) DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DEL ARTÍCULO 14 DE LA LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La armonización del marco normativo correspondiente deberá realizarse en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
