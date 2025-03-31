@@ -4,7 +4,7 @@ identifier: "AGU-ley-por-la-que-se-crea-la-procuraduria-estatal-del-168446"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-13"
-last_updated: "2023-11-13"
+last_updated: "2025-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY POR LA QUE SE CREA LA PROCURADURIA ESTATAL DEL DESARROLLO URBANO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 124, PUBLICADO EN EL P.O. DE 31 DE MARZO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY POR LA QUE SE CREA LA PROCURADURÍA ESTATAL DEL DESARROLLO URBANO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025 (ABROGADA).
 
 Ley publicada en la Primera Sección del Número 46 del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de noviembre de 2023.
 
@@ -572,3 +574,21 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDO (SIC) SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículo 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 9 de noviembre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 124.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley por la que se crea la Procuraduría Estatal del Desarrollo Urbano del Estado de Aguascalientes, publicada mediante decreto número 453 en el Periódico Oficial del Estado de Aguascalientes, en fecha 13 de noviembre de 2023.
