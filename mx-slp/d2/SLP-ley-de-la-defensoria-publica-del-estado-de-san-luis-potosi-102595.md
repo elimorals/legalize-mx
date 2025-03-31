@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-defensoria-publica-del-estado-de-san-luis-potosi-1025
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2020-03-17"
+last_updated: "2025-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -557,13 +557,19 @@ La Dirección de Capacitación tiene por objeto identificar, proponer y coordina
 
 La Defensoría tendrá un programa de formación continua que contendrá cursos, seminarios, conferencias y demás foros sobre aspectos técnicos y profesionales, que deberán ser impartidos por especialistas en las diversas áreas del derecho y sus ramas y ciencias auxiliares. Para tal efecto, se solicitará la colaboración de las diversas dependencias o instituciones educativas públicas y privadas en caso de ser necesario.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2025)</small>
+
+Se hará uso de la educación digital como estrategia institucional para aprovechar las tecnologías como un habilitador de los procesos para la formación continua.
+
 Las defensoras, los defensores y el personal técnico especializado deberán participar en las actividades tendentes a su capacitación y actualización profesional que la Defensoría organice, así como participar en eventos relacionados con el área desempeñada.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2025)</small>
 
 ###### Artículo 35.
 
 Biblioteca
 
-La Defensoría contará con una biblioteca, cuyo acervo bibliográfico, se especializará en las materias que favorezcan el cumplimiento de los objetivos de la misma.
+La Defensoría contará con una biblioteca, cuyo acervo bibliográfico, tanto físico como digital, se especializará en las materias que favorezcan el cumplimiento de los objetivos de la misma. La biblioteca deberá contar con equipo de cómputo que facilite el acceso a los acervos digitales.
 
 ###### Artículo 36.
 
@@ -1096,3 +1102,11 @@ P.O. 17 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0179.- SE REFORMA EL ARTÍCULO 35; Y SE ADICIONA (SIC) PÁRRAFO AL ARTÍCULO 34, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
