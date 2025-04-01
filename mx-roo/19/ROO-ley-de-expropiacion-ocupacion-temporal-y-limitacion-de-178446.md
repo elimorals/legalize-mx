@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-expropiacion-ocupacion-temporal-y-limitacion-de-178446"
 country: "mx"
 rank: "ley"
 publication_date: "2025-01-16"
-last_updated: "2025-01-16"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=178446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DE DOMINIO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2025.
 
 Ley publicada en el Número 09 extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 16 de enero de 2025.
 
@@ -57,11 +57,21 @@ Para los efectos de la presente Ley, se entiende por:
 
 I. Persona afectada: A la persona física o moral titular de derechos reales sobre el bien que es objeto de expropiación, ocupación temporal o limitación de dominio;
 
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+I Bis. Autoridades solicitantes: A las autoridades a que hace referencia el artículo 7 de la presente Ley;
+
 II. Causa de utilidad pública: A las causas de utilidad pública previstas en el artículo 11 de la presente Ley;
 
 III. Consejería Jurídica: A la Consejería Jurídica del Poder Ejecutivo del Estado de Quintana Roo;
 
-IV. Declaratoria de utilidad pública: Al acto administrativo dictado por la Consejería Jurídica para justificar la existencia de alguna de las causas de utilidad pública a que se refiere el artículo 12 de esta Ley;
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+III Bis. Declaratoria de necesidad: Dictamen emitido por la autoridad solicitante en el que acredita la idoneidad técnica y material del inmueble que será objeto del procedimiento administrativo de expropiación;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+IV. Declaratoria de utilidad pública: Al acto administrativo dictado por la Consejería Jurídica para justificar la existencia de alguna de las causas de utilidad pública a que se refiere el artículo 11 de esta Ley;
 
 V. Decreto: Al Acto administrativo emitido por la persona Titular del Poder Ejecutivo, mediante el cual se decreta la expropiación, ocupación temporal total o parcial o la limitación de dominio de bienes de propiedad privada;
 
@@ -75,39 +85,59 @@ IX. Ley: A la Ley de Expropiación, Ocupación Temporal y Limitación de Dominio
 
 X. Limitación de Dominio: A la limitación de los derechos de dominio sobre un bien de propiedad privada, impuesta por el Estado para el cumplimiento de una causa de utilidad pública y mediante el pago de una justa indemnización;
 
-XI. Ocupación Temporal: Es la privación temporal total o parcial de los derechos de uso y disfrute de un bien inmueble de propiedad particular, impuesta por el Estado para el cumplimiento de una causa de utilidad pública y mediante el pago de una justa indemnización, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+XI. Ocupación Temporal: Es la privación temporal total o parcial de los derechos de uso y disfrute de un bien inmueble de propiedad particular, impuesta por el Estado para el cumplimiento de una causa de utilidad pública y mediante el pago de una justa indemnización, cuyo plazo no excederá del periodo constitucional que dure cada administración de gobierno Municipal o Estatal, según sea el caso, y
 
 XII. Registro Público: Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 5.
 
-El pago de la indemnización por expropiación será equivalente al valor catastral que figure en los archivos de la autoridad competente o el que se convenga con quien haya solicitado la expropiación, cuando se trate de inmuebles.
+El pago de la indemnización por expropiación será equivalente al valor comercial que se fije sin que pueda ser inferior al valor catastral que figure en los archivos de la autoridad competente, y deberá realizarse de manera pronta y efectiva, atendiendo al justo equilibrio entre el interés general y el interés particular.
 
-Cuando sea un caso diverso a inmuebles, podrá optarse por el valor comercial, que será determinado en el procedimiento conducente por la persona Titular del Poder Ejecutivo en el decreto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
 
 ###### Artículo 6.
 
-La indemnización que, en su caso, proceda por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor catastral, fiscal o comercial, que, conforme al caso en concreto, determine la persona titular del Poder Ejecutivo del Estado.
+La indemnización que, en su caso, proceda por la ocupación temporal o por la limitación de dominio consistirá en una compensación sobre el valor comercial.
 
 ###### Artículo 7.
 
 Podrán solicitar el inicio del procedimiento de expropiación, ocupación temporal o limitación de dominio:
 
-I. Las Secretarías, Organismos Públicos Descentralizados y Fideicomisos Públicos del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
 
-II. Los Ayuntamientos y sus Organismos Públicos Descentralizados, y
+I. Las Secretarías del Poder Ejecutivo del Estado, y
 
-III. Las organizaciones civiles constituidas en términos de las disposiciones jurídicas aplicables y los particulares cuando se cumplan con los objetivos previstos en la presente Ley.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+II. Los Ayuntamientos.
+
+III. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
 
 ###### Artículo 8.
 
-Las partes solicitantes integrarán y remitirán a la persona Titular del Poder Ejecutivo por conducto de la Consejería Jurídica la solicitud por escrito de la expropiación, ocupación temporal o limitación de dominio, la cual deberá contener los siguientes requisitos:
+Las autoridades solicitantes deberán emitir y publicar en el Periódico Oficial del Estado de Quintana Roo la declaratoria de necesidad correspondiente, que deberán integrar y remitir, a la persona Titular del Poder Ejecutivo por conducto de la Consejería Jurídica, acompañada del escrito de solicitud de trámite del procedimiento de expropiación, ocupación temporal o limitación de dominio, según corresponda, la cual deberá contener los siguientes requisitos:
 
-I. Nombre y domicilio de la parte solicitante;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
+
+I. Nombre y domicilio de la autoridad solicitante;
 
 Cuando la solicitud se formule por un Ayuntamiento, deberá anexarse copia certificada del acta de sesión de cabildo correspondiente en la que se haya aprobado efectuar dicho trámite.
 
-Cuando la Autoridad solicitante sea un Organismo Público Descentralizado del Poder Ejecutivo del Estado, deberá adjuntar la autorización de la dependencia coordinadora de sector a efectos de presentar la solicitud ante la Consejería Jurídica;
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
+Tratándose de un Organismo Público Descentralizado la solicitud deberá hacerse a través de la Secretaría del Poder Ejecutivo del Estado a la cual se encuentre sectorizada, presentándose la documentación completa ante dicha Secretaría.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2025)</small>
+
+Si el Organismo Público Descentralizado no estuviere sectorizado a Dependencia alguna, la solicitud y procedimiento se realizarán a través de la Secretaría de Finanzas y Planeación del Estado.
 
 II. Los motivos que sustentan la solicitud;
 
@@ -115,7 +145,9 @@ III. La exposición fundada y motivada de la causa de utilidad pública aplicabl
 
 IV. Los beneficios sociales derivados de la expropiación, ocupación temporal o limitación de dominio a la propiedad privada;
 
-V. La necesidad social;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+V. Los datos de la declaratoria de necesidad, que emita la Secretaría correspondiente previo a la solicitud de expropiación, que justifique su solicitud de utilidad pública;
 
 VI. Los documentos, datos, características del bien afectado, así como las relativas a los planos que muestren ubicación, superficie, medidas y colindancias.
 
@@ -125,19 +157,33 @@ VII. Nombre y domicilio de la persona afectada, o en su caso, la manifestación 
 
 VIII. Tratándose de la ejecución de obras, deberá adjuntar los proyectos y presupuestos respectivos, y
 
-IX. El plazo máximo en el que se deberá destinar el bien afectado a la causa de utilidad pública, una vez que se tenga la posesión de éste.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+IX. El plazo máximo en el que se deberá destinar el bien afectado a la causa de utilidad pública, una vez que se tenga la posesión de éste, que no deberá exceder del periodo constitucional que dure cada administración de gobierno Municipal o Estatal, según sea el caso.
 
 ###### Artículo 9.
 
 Cuando la expropiación, ocupación temporal o limitación de dominio recaiga en bienes de ausentes, o personas menores de edad el procedimiento se entenderá con los representantes que se designen en términos de las disposiciones legales respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 10.
 
-El Ejecutivo del Estado a través de la Consejería Jurídica, para la sustanciación de los procedimientos de expropiación, ocupación temporal o limitación de dominio, tendrá las siguientes atribuciones generales:
+El Ejecutivo del Estado a través de la Consejería Jurídica, tendrá las siguientes atribuciones:
 
 I. Recibir y recabar de las partes solicitantes los informes, dictámenes, peritajes y demás documentación que considere necesarios para acreditar la idoneidad material y técnica del bien afectado, así como la existencia de la utilidad pública en que se sustente y el monto de indemnización correspondiente;
 
-II. Dictar y notificar los acuerdos dictados en el procedimiento de expropiación, ocupación temporal o limitación de dominio y en el recurso de reversión, según corresponda;
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+I Bis. Substanciar el procedimiento de expropiación, ocupación temporal o limitación de dominio;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+I Ter. Requerir a las autoridades solicitantes o demás autoridades competentes los informes, dictámenes técnicos, peritajes y demás elementos para acreditar la idoneidad material y técnica del bien de que se trate o la existencia del valor histórico, artístico o cultural, así como la causa de utilidad pública en que se sustente;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE ABRIL DE 2025)</small>
+
+II. Dictar y notificar los acuerdos dictados en el procedimiento de expropiación, ocupación temporal o limitación de dominio, según corresponda, en el recurso de reversión, así como la resolución a que se refiere la fracción IV del artículo 12 de la presente Ley;
 
 Las notificaciones dentro del procedimiento de expropiación, ocupación temporal o limitación de dominio deberán practicarse de manera personal y por escrito en términos de lo previsto en esta Ley y por el Código de Procedimientos y Justicia Administrativa del Estado de Quintana Roo.
 
@@ -155,53 +201,67 @@ Son causas de utilidad pública:
 
 I. La apertura, ampliación, prolongación, alineamiento o mejoramiento de calles, calzadas, puentes, túneles, carreteras y vías que faciliten la movilidad;
 
-II. La ampliación y saneamiento de las poblaciones, la construcción, ampliación, prolongación o mejoramiento de plazas, parques, jardines, mercados, instalaciones deportivas, hospitales, oficinas públicas, escuelas, rastros, cementerios, áreas para estaciones de seguridad pública y para reserva ecológica y cualquier obra destinada a prestar servicios públicos; así como el establecimiento, funcionamiento o mantenimiento de éstos evitando su abandono o suspensión;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
 
-III. La planeación, estudio, proyección, ejecución, rehabilitación, mantenimiento y aplicación de las obras y servicios necesarios para la operación y administración de los sistemas de agua potable, drenaje y alcantarillado dentro del Estado;
+II. La construcción, ampliación, prolongación o mejoramiento público de plazas, parques, jardines, mercados, instalaciones deportivas, hospitales, oficinas, escuelas, rastros, cementerios, áreas para estaciones de seguridad pública y cualquier obra destinada a prestar servicios públicos, que formen parte del patrimonio del estado;
 
-IV. La adquisición y la utilización o aprovechamiento de obras hidráulicas de propiedad privada, cuando se requieran para la eficiente prestación del servicio público de distribución de agua potable, drenaje y alcantarillado establecido o por establecer;
+III. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-V. La prevención y el control de la contaminación de las aguas que se localicen dentro del Estado de Quintana Roo, y que no sean de jurisdicción federal;
+IV. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-VI. La adquisición de los bienes inmuebles o muebles que sean necesarios para la construcción, rehabilitación, ampliación, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable, drenaje y alcantarillado, incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección;
+V. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-VII. La construcción a cargo del Estado o de sus organismos descentralizados, de desarrollos habitacionales de interés social;
+VI. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-VIII. La preservación y protección del medio ambiente, de la flora o de la fauna, así como el combate a la fauna nociva y a la insalubridad;
+VII. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-IX. La protección, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación, en beneficio de la población en general;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+VIII. La preservación, protección y conservación del medio ambiente, áreas naturales protegidas de competencia estatal o municipal, de la flora o de la fauna, así como para el combate a la fauna nociva y a la insalubridad;
+
+IX. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
 X. La conservación de los edificios, casas u objetos que tengan valor histórico, artístico o cultural para el Estado o sus municipios, que no sea de competencia federal;
 
-XI. La preservación, embellecimiento o saneamiento de los lugares de belleza panorámica;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
 
-XII. La construcción, conservación y mantenimiento de las vías férreas estatales;
+XI. La preservación, restauración de los lugares declarados Patrimonio Cultural del Estado;
 
-XIII. La construcción de infraestructura para transporte masivo o de infraestructura aeroportuaria y sus obras complementarias;
+XII. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-XIV. La construcción de parques industriales, tecnológicos y generadores de energías limpias;
+XIII. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-XV. La construcción de espacios y adiciones para fortalecer las expropiaciones que realice el Poder Ejecutivo Federal;
+XIV. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+XV. La construcción de espacios públicos y adiciones para fortalecer las expropiaciones que realice el Poder Ejecutivo Federal, respecto de los proyectos estratégicos incluidos en el Plan Nacional de Desarrollo;
 
 XVI. La disponibilidad de reservas territoriales para ordenamiento urbano;
 
-XVII. Los espacios requeridos para la reubicación temporal o permanente de la población afectada por desastres naturales;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
 
-XVIII. El cumplimiento y la ejecución de los programas de ordenamiento territorial, ecológico y desarrollo urbano, y las áreas definidas como de suelo estratégico;
+XVII. Los espacios requeridos para la reubicación temporal o permanente de la población afectada por un desastre o siniestro, así como la atención de situaciones de emergencia debidas a los efectos adversos del cambio climático y fenómenos destructivos, por el tiempo que prevalezca la afectación, que no supere los periodos de las administraciones estatales o municipales, según sea el caso;
 
-XIX. La fundación, conservación, mejoramiento y crecimiento de los centros de población;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
 
-XX. La regularización territorial de los asentamientos humanos y en los centros de población;
+XVIII. El cumplimiento y la ejecución de los programas de ordenamiento territorial, ecológico, desarrollo urbano, establecimiento de las áreas definidas como de suelo estratégico para la fundación, crecimiento, mejoramiento, saneamiento, consolidación y conservación de los centros de población;
+
+XIX. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+XX. La regularización territorial de los asentamientos humanos y en los centros de población, respetando los programas de ordenamiento territorial, ecológico y desarrollo urbano;
 
 XXI. La ejecución de acciones, obras o servicios tendentes a la seguridad de los asentamientos humanos, la delimitación de zonas de riesgo, la reubicación de población en riesgo y el establecimiento de polígonos de salvaguarda;
 
-XXII. Las medidas necesarias para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad;
+XXII. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
-XXIII. La atención de situaciones de emergencia debidas al cambio climático y fenómenos naturales;
+XXIII. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
 XXIV. La rehabilitación o demolición de edificaciones que representen un riesgo para la ciudadanía;
 
-XXV. Proyectos de inversión pública o privada que incidan de manera directa en el bienestar de los intereses colectivos y la prosperidad compartida, y
+XXV. (DEROGADA, P.O. 1 DE ABRIL DE 2025)
 
 XXVI. las demás previstas por otras leyes.
 
@@ -209,11 +269,15 @@ XXVI. las demás previstas por otras leyes.
 
 ### CAPÍTULO I. DE LA DECLARATORIA DE UTILIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 12.
 
-Para los casos de expropiación, ocupación temporal o limitación de dominio comprendidos en el artículo anterior, la persona titular de la Consejería Jurídica emitirá la declaratoria de utilidad pública, conforme a lo siguiente:
+Para los casos de expropiación, ocupación temporal o limitación de dominio comprendidos en el artículo anterior, la persona titular de la Consejería Jurídica dictará y emitirá la declaratoria de utilidad pública, conforme a lo siguiente:
 
-I. La causa de utilidad pública y la idoneidad del bien afectado que se acreditarán con base en los dictámenes técnicos correspondientes, que deberán incluir un análisis costo-beneficio del proyecto que motiva la causa de utilidad pública;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+I. La causa de utilidad pública y la idoneidad del bien afectado se acreditarán con base en la declaratoria de necesidad y los dictámenes técnicos correspondientes, que deberán incluir el análisis costo-beneficio del proyecto que motiva la causa de utilidad pública;
 
 II. La declaratoria de utilidad pública se publicará en el Periódico Oficial del Estado de Quintana Roo;
 
@@ -221,11 +285,15 @@ III. Deberá notificarse personalmente a la persona afectada, en un plazo no may
 
 En caso de ignorarse quien es la persona afectada y su domicilio, previo a la búsqueda y localización exhaustiva que lleve a cabo la Consejería Jurídica, surtirá efectos de notificación personal una segunda publicación de la declaratoria de utilidad pública en el Periódico Oficial del Estado de Quintana Roo y en un periódico de mayor circulación en el Estado, lo que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación, y
 
-IV. Los interesados tendrán un plazo de cinco días hábiles a partir de la fecha de notificación o de la segunda publicación en el Periódico Oficial del Estado de Quintana Roo para manifestar ante la Consejería Jurídica lo que a su derecho convenga y presentar las pruebas que estimen pertinentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
 
-En su caso, la Consejería Jurídica citará a una audiencia de conciliación, en la que podrán desahogarse pruebas por cualquiera de las partes involucradas, además de las que obren en el expediente, que deberá verificarse dentro de los tres días hábiles siguientes al vencimiento del término a que se refiere el párrafo anterior. Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos de manera escrita y de forma posterior emitir la resolución correspondiente.
+IV. La persona afectada tendrá un plazo de diez días hábiles a partir de la fecha de notificación o de la segunda publicación en el Periódico Oficial del Estado de Quintana Roo para manifestar ante la Consejería Jurídica lo que a su derecho convenga y presentar las pruebas que estimen pertinentes para desvirtuar la causa de utilidad pública.
 
-La resolución podrá impugnarse a través del recurso administrativo procedente.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
+La Consejería Jurídica citará a una audiencia dentro de los cinco días hábiles siguientes al vencimiento del término a que se refiere el párrafo anterior, para el desahogo de pruebas aportadas por cualquiera de las partes involucradas, que deberá examinarse y compararse con las que obren en el expediente. Concluida dicha audiencia, se otorgará un plazo de cinco días hábiles para presentar alegatos de manera escrita y de forma posterior emitir la resolución correspondiente.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO [N. DE E. DE LA FRACCIÓN IV], P.O. 1 DE ABRIL DE 2025)</small>
 
 ###### Artículo 13.
 
@@ -251,7 +319,9 @@ III. Las características del bien afectado, que tratándose de inmuebles compre
 
 IV. La declaratoria de expropiación, ocupación temporal o limitación de dominio en su caso y la referencia a favor de quien se decreta;
 
-V. El monto, la forma y el plazo de pago de la indemnización.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
+
+V. El monto, la forma y el plazo de pago de la indemnización deberá ser pronta y efectiva y cuyo plazo de pago no deberá excederse del periodo constitucional de la administración pública del orden de gobierno que lo haya solicitado;
 
 El precio que se fije como indemnización al bien afectado, se fijará de acuerdo con las siguientes bases:
 
@@ -261,17 +331,25 @@ b. Tratándose de la ocupación temporal o limitación de dominio la Consejería
 
 c. La Consejería Jurídica podrá solicitar a la autoridad competente, el avalúo que servirá de base a la indemnización, tratándose de bienes muebles.
 
-VI. La autoridad o persona que deberá realizar el pago de la indemnización;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
 
-VII. El plazo máximo en el que se deberá destinar el bien afectado a la causa de utilidad pública declarada, una vez que se tenga la posesión de este;
+VI. La autoridad que deberá realizar el pago de la indemnización;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+VII. El plazo máximo en el que se deberá destinar el bien afectado a la causa de utilidad pública declarada, una vez que se tenga la posesión de este, el cual no podrá exceder la gestión del Ayuntamiento ni del periodo de la administración pública estatal;
 
 VIII. La orden de publicación del Decreto correspondiente en el Periódico Oficial del Estado de Quintana Roo;
 
-IX. Tratándose de ocupación temporal o limitación de dominio, deberá señalarse el plazo por el cual, el bien afectado estará sujeto al Decreto correspondiente, así como las modalidades a la limitación de dominio en su caso;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
 
-X. En el caso de expropiación, la orden de cancelación ante el Registro Público de la inscripción a nombre de la persona afectada y la orden de inscripción a favor de quien se decrete.
+IX. Tratándose de ocupación temporal o limitación de dominio, deberá señalarse el plazo por el cual, el bien afectado estará sujeto al Decreto correspondiente, así como las modalidades a la limitación de dominio en su caso, el plazo no podrá exceder la gestión del Ayuntamiento solicitante ni del periodo de la administración pública estatal;
 
-Asimismo, deberá ordenarse la anotación respectiva ante el Registro Público y tratándose de ocupación temporal o limitación de dominio al registro, padrón u archivo que corresponda, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+X. En el caso de expropiación, la orden de cancelación ante el Registro Público de la inscripción a nombre de la persona afectada y la orden de inscripción a favor de la autoridad que se decrete.
+
+Tratándose de ocupación temporal o limitación de dominio, deberá ordenarse la anotación preventiva ante el Registro Público, y
 
 XI. La orden de notificación personal a la persona afectada y por oficio a la autoridad solicitante.
 
@@ -311,9 +389,11 @@ II. Se levantará acta de posesión y de deslinde cuando se trate de bienes inmu
 
 III. La Consejería Jurídica podrá solicitar el auxilio de la fuerza pública para ejecutar el Decreto respectivo, en caso de oposición a la diligencia referida en la fracción I del presente artículo.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 21.
 
-Cuando se actualice cualquiera de las causas de utilidad pública de carácter urgente o inaplazable a que se refieren las fracciones V, VIII, X, XVII, XXII, XXIII y XXIV del Artículo 11 de esta Ley, como excepción al procedimiento de expropiación se podrá tomar posesión provisional del bien de que se trate, para lo cual la persona Titular del Poder Ejecutivo dictará la Declaratoria de utilidad pública, emitirá el Decreto de Expropiación y ordenará la ejecución inmediata de la posesión provisional, sin necesidad de oír previamente a la persona afectada sin que ello límite su derecho de audiencia en forma posterior a esta medida, previo a la posesión definitiva del bien afectado, de conformidad con el Título Cuarto de la presente Ley.
+Cuando se actualice cualquiera de las causas de utilidad pública de carácter urgente o inaplazable a que se refieren las fracciones VIII, X, XVII y XXIV del Artículo 11 de esta Ley, como excepción al procedimiento de expropiación se podrá tomar posesión provisional del bien de que se trate, para lo cual la persona Titular del Poder Ejecutivo dictará la Declaratoria de utilidad pública, emitirá el Decreto de Expropiación y ordenará la ejecución inmediata de la posesión provisional, sin necesidad de oír previamente a la persona afectada sin que ello limite su derecho de audiencia en forma posterior a esta medida, previo a la posesión definitiva del bien afectado, de conformidad con el Título Cuarto de la presente Ley.
 
 ###### Artículo 22.
 
@@ -325,39 +405,59 @@ Ninguna autoridad o particular podrá aprobar o ejecutar obras contrarias a lo d
 
 Tratándose de expropiaciones la indemnización podrá ser en:
 
-I. Dinero en efectivo;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+I. Moneda Nacional, mediante transferencia interbancaria o cheque certificado;
 
 II. Compensación en el pago de contribuciones que adeude la persona afectada, y
 
 III. Compensación en el pago de créditos fiscales que deba efectuar la persona afectada.
 
-Cuando el monto de indemnización resulte mayor a las contribuciones o créditos fiscales a pagar por la persona afectada, dicha circunstancia se incluirá en el Decreto respectivo y el pago de la diferencia deberá realizarse en efectivo y en moneda nacional en un plazo no mayor de cuarenta y cinco días hábiles, contados a partir de la publicación del Decreto.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
+Cuando el monto de indemnización resulte mayor a las contribuciones o créditos fiscales a pagar por la persona afectada, dicha circunstancia se incluirá en el Decreto respectivo y el pago de la diferencia deberá realizarse en moneda nacional en un plazo no mayor de cuarenta y cinco días hábiles, contados a partir de la publicación del Decreto.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2025)</small>
+
+Para el caso de la indemnización a que se refieren las fracciones II y III será necesario el consentimiento de la persona afectada.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
 
 ###### Artículo 24.
 
-El pago de la indemnización por ocupación temporal o limitación de dominio deberá realizarse en efectivo y en moneda nacional conforme el plazo establecido en el decreto que correrá a partir de la publicación de este.
+El pago de la indemnización por ocupación temporal o limitación de dominio deberá realizarse en moneda nacional conforme el plazo establecido en el decreto que correrá a partir de la publicación de este.
 
 ###### Artículo 25.
 
 El importe de la indemnización será cubierto por el Estado, cuando el bien expropiado pase al patrimonio de éste o bien entre en ocupación temporal o limitación de dominio. Cuando pase al Patrimonio de un Ayuntamiento, o bien, entre en posesión temporal o limitación de dominio será éste quien cubra su importe.
 
-Cuando el bien de la persona afectada pase al patrimonio de persona distinta del Estado y Ayuntamientos, ésta cubrirá el importe de la indemnización.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
 
 ###### Artículo 26.
 
 Si la persona afectada está de acuerdo con el monto de la indemnización fijada en el Decreto correspondiente, este quedará firme y se procederá a su pago en los términos en que se haya determinado.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 27.
 
-Cuando el titular del bien expropiado se rehúse a recibir el importe del pago de la indemnización, se le notificará que ésta queda a su disposición en la Secretaría de Finanzas y Planeación donde podrá ser reclamada en un plazo de 5 años a partir de ser notificado. Si en este plazo no es reclamada ésta pasará a beneficio del Estado y éste podrá disponer de esta libremente y sin responsabilidad.
+Cuando el titular del bien afectado se rehúse a recibir el importe del pago de la indemnización, se le notificará fehacientemente a la persona afectada que ésta será consignada ante la Secretaría de Finanzas y Planeación para su reclamo.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2025)</small>
+
+###### Artículo 27 Bis.
+
+En caso de no poderse pagar la consignación a que se refiere el artículo anterior, la Consejería Jurídica llevará a cabo una investigación minuciosa para comprobar la supervivencia de la persona afectada. Para el caso de encontrarse que la persona ha fallecido, se deberá solicitar al Registro Público y Dirección General de Notarias, informen si existe testamento de la persona afectada. Asimismo, deberá solicitar a través de oficio a los diversos Tribunales Superiores de Justicia de las diversas entidades federativas para que informe si existe un Juicio Sucesorio Ab intestato a bienes de la persona afectada, a fin de que, por su conducto, se notifique a sus herederos y estos acrediten sus derechos para poder recuperar el monto de la indemnización.
 
 ###### Artículo 28.
 
 Cuando haya controversia respecto al valor del bien previsto en el decreto, el expediente se turnará a la Consejería Jurídica, la que representará al Ejecutivo ante el Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 29.
 
-En el supuesto previsto por el artículo anterior, el Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, fijará a las partes el plazo de cinco días hábiles para que designen a sus peritos, apercibiéndolos que, de no hacerlo, se desechará de plano la inconformidad. En caso de que el Estado no presentara perito, el valor señalado en el decreto de expropiación se tomará como peritaje por parte de este.
+En el supuesto previsto por el artículo anterior, el Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, fijará a las partes el plazo de diez días hábiles para que designen a sus peritos, apercibiéndolos de que, en caso de no hacerlo, dicho Tribunal podrá designarlos en rebeldía. Si la persona afectada presentara perito y el Estado no, el valor señalado en el Decreto se tomará como peritaje por parte del Estado.
 
 ###### Artículo 30.
 
@@ -373,9 +473,11 @@ Si los peritajes de ambas partes estuvieren de acuerdo en el valor del bien prev
 
 Los honorarios de cada perito serán pagados por la parte que deba nombrarlo y de nombrarse un perito tercero en discordia, se pagará por el inconforme.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 33.
 
-Cuando el bien afectado este sujeto a decisión judicial, no procederá el pago de la indemnización, en tanto no se ejecutorie la resolución que emita el Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo y que resuelva la situación jurídica de este.
+Cuando el bien afectado este sujeto a decisión judicial, no procederá el pago de la indemnización, en tanto no se ejecutorie la resolución que emita el Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo o la autoridad competente y que resuelva la situación jurídica de este.
 
 ## TÍTULO CUARTO. DE LOS RECURSOS
 
@@ -401,7 +503,9 @@ I. Nombre y domicilio del promovente;
 
 II. Los hechos y el interés jurídico en que se sustente, y
 
-III. Las pruebas que se ofrezcan para acreditar el incumplimiento del Decreto, con excepción de la confesional de las personas titulares de las Secretarías, Organismos Públicos Descentralizados, así como Fideicomisos Públicos del Poder Ejecutivo del Estado y de las personas Titulares de las Presidencias Municipales y sus Organismos Públicos Descentralizados.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2025)</small>
+
+III. Las pruebas que se ofrezcan para acreditar el incumplimiento del Decreto, con excepción de la confesional de las personas titulares de las Secretarías del Poder Ejecutivo del Estado y de las personas Titulares de las Presidencias Municipales.
 
 ###### Artículo 37.
 
@@ -417,9 +521,11 @@ Cuando el recurso resulte procedente, únicamente se cancelará la inscripción 
 
 Cancelada la inscripción del Decreto y verificada la devolución de la indemnización pagada, se ordenará la restitución a la persona afectada de la posesión del bien afectado, levantándose al efecto acta circunstanciada.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
 ###### Artículo 40.
 
-Contra los proveídos y las resoluciones dictadas en la substanciación de la reversión, no procede recurso alguno.
+Contra los proveídos y las resoluciones definitivas dictadas con motivo de la substanciación de la reversión, procede el juicio contencioso administrativo o los medios de defensa que mejor convenga a las partes.
 
 ### CAPÍTULO II. DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -452,3 +558,13 @@ DIPUTADO SECRETARIO:
 LIC. JORGE ARMANDO CABRERA TINAJERO.
 
 En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, promulgo el presente Decreto número 090 en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Chetumal, Quintana Roo, a 14 de enero de 2025.- La Gobernadora del Estado, Lic. María Elena H. Lezama Espinosa. Rúbrica.- Conforme a los artículos 93 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y 11 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, refrendado por la Secretaria de Gobierno, Lic. María Cristina Torres Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 117 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DE DOMINIO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
