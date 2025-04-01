@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2025-03-17"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2025.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -900,9 +900,9 @@ Para la reclusión preventiva y la ejecución de sentencias en materia de delinc
 
 Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
 
-El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos y de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, de la salud, del libre desarrollo de la personalidad, contrabando y cualquier actividad relacionada con falsos comprobantes fiscales, en los términos fijados por la ley. Para la interpretación y aplicación de las normas previstas en este párrafo, los órganos del Estado deberán atenerse a su literalidad, quedando prohibida cualquier interpretación análoga o extensiva que pretenda inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos y de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva oficiosamente, en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, delito de terrorismo y de los delitos graves que determine la ley en contra de la seguridad de la nación, de la salud, del libre desarrollo de la personalidad, contrabando y cualquier actividad relacionada con falsos comprobantes fiscales, en los términos fijados por la ley. A cualquier nacional o extranjero involucrado en la fabricación, distribución, enajenación, traslado o internación al territorio nacional de manera ilícita de armas, y a cualquier extranjero que realice actividades al margen de la ley vinculadas con los párrafos segundo y tercero del artículo 40 de esta Constitución, se le impondrá la pena más severa posible, así como la medida cautelar de prisión preventiva oficiosa. Para la interpretación y aplicación de las normas previstas en este párrafo, los órganos del Estado deberán atenerse a su literalidad, quedando prohibida cualquier interpretación análoga o extensiva que pretenda inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial.
 
 La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
@@ -1864,6 +1864,14 @@ La soberanía nacional reside esencial y originariamente en el pueblo. Todo pode
 
 Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica y federal, compuesta por Estados libres y soberanos en todo lo concerniente a su régimen interior, y por la Ciudad de México, unidos en una federación establecida según los principios de esta ley fundamental.
 
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+El pueblo de México, bajo ninguna circunstancia, aceptará intervenciones, intromisiones o cualquier otro acto desde el extranjero, que sea lesivo de la integridad, independencia y soberanía de la Nación, tales como golpes de Estado, injerencias en elecciones o la violación del territorio mexicano, sea ésta por tierra, agua, mar o espacio aéreo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+Tampoco consentirá intervención en investigación y persecución alguna sin la autorización y colaboración expresa del Estado Mexicano, en el marco de las leyes aplicables.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 41.
@@ -2356,13 +2364,17 @@ Los Gobernadores de los Estados y el Jefe de Gobierno de la Ciudad de México no
 
 Los Secretarios del Gobierno de las entidades federativas, los Magistrados y Jueces Federales y locales, así como los Presidentes Municipales y Alcaldes en el caso de la Ciudad de México, no podrán ser electos en las entidades de sus respectivas jurisdicciones, si no se separan definitivamente de sus cargos noventa días antes del día de la elección;
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2025)</small>
 
-VI. No ser Ministro de algún culto religioso, y
+VI.- No ser persona ministra de algún culto religioso;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2025)</small>
 
-VII. No estar comprendido en alguna de las incapacidades que señala el artículo 59.
+VII.- No estar comprendido en alguno de los impedimentos que señala el artículo 59 de esta Constitución, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+VIII.- No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
@@ -2388,11 +2400,15 @@ Por cada senador propietario se elegirá un suplente.
 
 Para ser senador se requieren los mismos requisitos que para ser diputado, excepto el de la edad, que será la de 25 años cumplidos el día de la elección.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ABRIL DE 2025)</small>
 
 ###### Art. 59.
 
-Los Senadores podrán ser electos hasta por dos periodos consecutivos y los Diputados al Congreso de la Unión hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas senadoras y diputadas al Congreso de la Unión no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+Las personas senadoras y diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas senadoras y diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -3266,11 +3282,17 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
 V.- No estar en servicio activo, en caso de pertenecer al Ejército, Fuerza Aérea, Armada y Guardia Nacional, seis meses antes del día de la elección.
 
-> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2025)</small>
 
-VI.- No ser Secretario o subsecretario de Estado, Fiscal General de la República, ni titular del poder ejecutivo de alguna entidad federativa, a menos de que se separe de su puesto seis meses antes del día de la elección; y
+VI.- No ser titular de una Secretaría de Estado o Subsecretaría, o de la Fiscalía General de la República, o del poder ejecutivo de alguna entidad federativa, a menos de que se separe de su puesto seis meses antes del día de la elección;
 
-VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+VII.- No estar comprendido en alguno de los impedimentos previstos en el artículo 83 de esta Constitución, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+VIII.- No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Ejecutivo Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DÉCIMO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -4544,13 +4566,13 @@ La ley señalará los casos de prescripción de la responsabilidad administrativ
 
 Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2025)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre este y el gobierno del Estado.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
 
-Las Constituciones de los estados deberán establecer la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las Constituciones de los Estados deberán establecer la prohibición de la reelección consecutiva para el mismo cargo de presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -4744,15 +4766,19 @@ a) El gobernador sustituto constitucional, o el designado para concluir el perí
 
 b) El gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
 
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+c) La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
+
 > <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2008)</small>
 
 Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.
 
 II.- El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
 
-Las Constituciones estatales deberán establecer la elección consecutiva de los diputados a las legislaturas de los Estados, hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las Constituciones estatales deberán establecer la prohibición de la reelección de las personas diputadas a las legislaturas de los Estados para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -5034,11 +5060,15 @@ I. La Ciudad de México adoptará para su régimen interior la forma de gobierno
 
 La Constitución Política de la Ciudad de México establecerá las normas y las garantías para el goce y la protección de los derechos humanos en los ámbitos de su competencia, conforme a lo dispuesto por el artículo 1o. de esta Constitución.
 
-II. El ejercicio del Poder Legislativo se deposita en la Legislatura de la Ciudad de México, la cual se integrará en los términos que establezca la Constitución Política de la entidad. Sus integrantes deberán cumplir los requisitos que la misma establezca y serán electos mediante sufragio universal, libre, secreto y directo, según los principios de mayoría relativa y de representación proporcional, por un periodo de tres años.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2025)</small>
+
+II. El ejercicio del Poder Legislativo se deposita en la Legislatura de la Ciudad de México, la cual se integrará en los términos que establezca la Constitución Política de la entidad. Sus integrantes deberán cumplir los requisitos que la misma establezca y serán electos mediante sufragio universal, libre, secreto y directo, según los principios de mayoría relativa y de representación proporcional, por un periodo de tres años. En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la diputación.
 
 En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-En la Constitución Política de la Ciudad de México se establecerá que los diputados a la Legislatura podrán ser electos hasta por cuatro periodos consecutivos. La postulación deberá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+En la Constitución Política de la Ciudad de México se establecerá que las personas diputadas a la Legislatura no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
 La Constitución Política de la entidad establecerá las normas para garantizar el acceso de todos los grupos parlamentarios a los órganos de gobierno del Congreso local y, a los de mayor representación, a la Presidencia de los mismos.
 
@@ -5052,9 +5082,9 @@ Los informes de auditoría de la entidad de fiscalización de la Ciudad de Méxi
 
 El titular de la entidad de fiscalización de la Ciudad de México será electo por las dos terceras partes de los miembros presentes de la Legislatura por un periodo no menor de siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2025)</small>
 
-III. El titular del Poder Ejecutivo se denominará Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electo por votación universal, libre, secreta y directa, no podrá durar en su encargo más de seis años y su mandato podrá ser revocado. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho.
+III. La persona titular del Poder Ejecutivo se denominará Jefa o Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electa por votación universal, libre, secreta y directa, no podrá durar en su encargo más de seis años y su mandato podrá ser revocado. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho. Tampoco podrá participar en la elección de este cargo, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Poder Ejecutivo.
 
 La Constitución Política de la Ciudad de México establecerá las facultades del Jefe de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo.
 
@@ -5092,7 +5122,9 @@ La integración, organización administrativa y facultades de las Alcaldías se 
 
 a) Las Alcaldías son órganos político administrativos que se integran por un Alcalde y por un Concejo electos por votación universal, libre, secreta y directa, para un periodo de tres años. Los integrantes de la Alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con el candidato a Alcalde y después los Concejales con sus respectivos suplentes, en el número que para cada demarcación territorial determine la Constitución Política de la Ciudad de México. En ningún caso el número de Concejales podrá ser menor de diez ni mayor de quince. Los integrantes de los Concejos serán electos según los principios de mayoría relativa y de representación proporcional, en la proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo. Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de los concejales.
 
-b) La Constitución Política de la Ciudad de México deberá establecer la elección consecutiva para el mismo cargo de Alcalde y Concejales por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+b) La Constitución Política de la Ciudad de México deberá establecer la prohibición de la reelección consecutiva para el mismo cargo de personas Alcaldes y Concejales. Las personas funcionarias antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 c) La administración pública de las demarcaciones territoriales corresponde a los Alcaldes.
 
@@ -5106,7 +5138,9 @@ d) La Constitución Política de la Ciudad de México establecerá las bases par
 
 e) Las demarcaciones territoriales no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos.
 
-f) Los Alcaldes y Concejales deberán reunir los requisitos que establezca la Constitución Política de la Ciudad de México.
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+f) Las personas Alcaldes y Concejales deberán reunir los requisitos que establezca la Constitución Política de la Ciudad de México. En ningún caso, podrán participar en la elección de estos cargos la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula.
 
 VII. La Ciudad de México contará con los organismos constitucionales autónomos que esta Constitución prevé para las entidades federativas.
 
@@ -5167,6 +5201,10 @@ DEL TRABAJO Y DE LA PREVISION SOCIAL.
 ###### Art. 123.
 
 Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social de trabajo, conforme a la ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+
+El Estado otorgará un apoyo económico mensual equivalente al menos a un salario mínimo general vigente, a jóvenes entre dieciocho y veintinueve años que se encuentren en desocupación laboral y no estén cursando algún nivel de educación formal, a fin de que se capaciten para el trabajo por un periodo de hasta doce meses en negocios, empresas, talleres, tiendas y demás unidades económicas, en los términos que fije la ley.
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -9487,3 +9525,29 @@ Primero.- El presente Decreto entrará en vigor a partir del día siguiente a su
 Segundo.- A partir de la entrada en vigor de este Decreto se derogan todas las disposiciones que se opongan a su contenido, establecidas en leyes secundarias, reglamentos, acuerdos y cualquier otro ordenamiento normativo de carácter administrativo.
 
 Tercero.- El Congreso de la Unión, en un plazo de 180 días, contados a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes en las materias para adecuarlo al contenido del presente Decreto.
+
+D.O.F. 1 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 19 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE FORTALECIMIENTO DE LA SOBERANÍA NACIONAL".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión y las legislaturas de las entidades federativas deberán hacer las adecuaciones normativas que deriven de la presente reforma en un plazo no mayor a ciento ochenta días naturales, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+D.O.F. 1 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 55, 59, 82, 115, 116 Y 122 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE NO REELECCIÓN Y NEPOTISMO ELECTORAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las reformas a los artículos 55, fracción VIII; 82, fracción VIII; 115, fracción I, párrafo primero; 116, párrafo segundo, fracciones I, párrafo cuarto, inciso c), y II, párrafo segundo, y 122, Apartado A, fracciones II, párrafo primero, III, párrafo primero, y VI, párrafo tercero, inciso f), de esta Constitución, respecto de la prohibición de nepotismo electoral, serán aplicables a partir de los procesos electorales, tanto federales como locales, a celebrarse en 2030.
+
+Tercero. Las reformas a los artículos 59; 115, fracción I, párrafo segundo; 116, párrafo segundo, fracción II, párrafo segundo, y 122, Apartado A, fracción II, párrafo tercero, y fracción VI, párrafo tercero, inciso b), de esta Constitución, respecto de la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales, tanto federales como locales, a celebrarse en 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Cuarto. La Federación, las entidades federativas y la Ciudad de México deberán adecuar sus Constituciones y demás ordenamientos correspondientes en un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 1 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE APOYO A JÓVENES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
