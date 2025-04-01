@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-del-deporte-de-la-ciudad-de-137
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-08-02"
-last_updated: "2023-06-21"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137392&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-07-03"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ABRIL DE 2025 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE ABRIL DE 2025.
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el viernes 2 de agosto de 2019.
 
@@ -596,9 +598,7 @@ XI. Emitir los certificados y constancias médico deportivas que acrediten la co
 
 XII. Proponer los lineamientos para la integración del registro de las personas deportistas destacados de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 2 DE AGOSTO DE 2022)</small>
-
-XIII. Expedir las constancias del Registro de cultura física y deporte de la Ciudad de México y
+XIII. (DEROGADA, G.O. 1 DE ABRIL DE 2025)
 
 > <small>(ADICIONADA, G.O. 2 DE AGOSTO DE 2022)</small>
 
@@ -788,6 +788,38 @@ XIII. Las demás que le confieren otras disposiciones legales y aquellas que le 
 
 ### CAPÍTULO XIII. DE LA SUBDIRECCIÓN DE ASUNTOS JURÍDICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE ABRIL DE 2025)</small>
+
+Artículo 20 (SIC). La Subdirección de Asuntos Jurídicos (sic) las siguientes atribuciones:
+
+I. Representar al Instituto, previa delegación de atribuciones que le otorgue la persona titular de la Dirección General, para acreditar la personalidad jurídica del Instituto en todo tipo de litigio o conflicto legal, formulando las denuncias o querellas ante el Ministerio Público por los hechos que afecten el interés jurídico y patrimonio del Instituto, además de interponer los recursos que procedan y contestar los requerimientos hechos por los órganos jurisdiccionales de la materia, ya sean federales o locales;
+
+II. Elaboración de los proyectos de normas, lineamientos y criterios que sean necesarios para el buen funcionamiento del Instituto;
+
+III. Compilar y difundir las leyes, decretos, estatutos, reglamentos, acuerdos, órdenes y en general, toda la documentación legal requerida y aplicable a los objetivos que regulen las actividades del Instituto;
+
+IV. Coadyuvar con las Direcciones del Instituto en el cumplimiento de las normas y procedimientos jurídicos que las rijan;
+
+V. Emitir opinión sobre los proyectos de reglamentos, decretos, acuerdos, convenios y de cualquier otra disposición que tengan relación o produzcan efectos legales en los asuntos de la competencia del Instituto;
+
+VI. Certificar las copias fotostáticas de los documentos que obren en los archivos del Instituto, cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y en general, para cualquier proceso o carpeta de investigación, así como mediante petición debidamente fundada y motivada del interesado en los casos que proceda;
+
+VII. Emitir opinión legal y visto bueno sobre los donativos y apoyos que el Instituto otorgue o reciba;
+
+VIII. Participar como representante del Instituto en el Comité de Arbitraje Deportivo;
+
+IX. Otorgar, formalizar y dar visto bueno en los contratos y convenios que deriven de las actividades que realice el Instituto, asistiendo a las Direcciones como asesor en los mismos;
+
+X. Supervisar, coordinar y vigilar las funciones de la persona Responsable de la Oficina de la Unidad de Transparencia y de la Oficina de Atención Ciudadana del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE ABRIL DE 2025)</small>
+
+XI. Expedir las constancias de Registro del Deporte de la Ciudad de México, de conformidad con lo dispuesto en el artículo 23 fracción XI de la Ley de Educación Física y Deporte de la Ciudad de México, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE ABRIL DE 2025)</small>
+
+XII. Las demás que le confieran otras disposiciones y aquellas que establezca el Director General.
+
 ###### Artículo 26.
 
 La Subdirección de Asuntos Jurídicos, tendrá las siguientes atribuciones:
@@ -885,3 +917,11 @@ G.O. 21 DE JUNIO DE 2023.
 PRIMERO.– Publíquese la presente reforma en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.– El presente acuerdo de reforma entrará en vigor al día siguiente de su publicación.
+
+G.O. 1 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 20; Y SE REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCION XII DEL ARTÍCULO 26, TODOS ELLOS DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Publíquese la presente reforma en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente acuerdo de reforma entrará en vigor al día siguiente de su publicación.
