@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2025-03-25"
+last_updated: "2025-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -453,13 +453,13 @@ Se presumirá que concurren los requisitos de la legítima defensa, respecto de 
 
 También se presumirá la legítima defensa con perspectiva de género, salvo prueba en contrario, en los supuestos siguientes:
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
 
-Cuando quien ejerza la legitima defensa, sea una mujer, y al momento de desplegar la conducta, sea víctima, o esté en peligro inminente de ser víctima, de violencia física, sexual o feminicida, y
+Cuando quien ejerza la legitima defensa, sea una mujer, y al momento de desplegar la conducta, sea víctima, o esté en peligro inminente de ser víctima de violencia física, sexual, homicidio o feminicidio, y
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
 
-Cuando una persona despliegue la conducta en auxilio de una mujer en el momento, sea víctima de violencia física, sexual o feminicida, a fin de repeler el acto violento de que se trate.
+Cuando una persona despliegue la conducta en auxilio de una mujer en el momento, sea víctima de violencia física, sexual, homicidio o feminicidio, a fin de repeler el acto violento de que se trate.
 
 III. El estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -1635,7 +1635,9 @@ Las lesiones a que se refiere este artículo solo se perseguirá (sic) a petici�
 
 ARTICULO 107 BIS.- Al que dolosamente cause homicidio o lesiones, estando en el ejercicio de sus labores relacionadas con la prestación del servicio público o privado de transporte en cualquiera de las modalidades previstas en la Ley de Movilidad del Estado de Quintana Roo, se le impondrá hasta una mitad más de la pena que corresponda por el homicidio o la lesión cometida.
 
-Si el homicidio o las lesiones referidas en el párrafo anterior, son inferidas a una persona menor de dieciocho años o el sujeto pasivo del delito tenga la calidad de turista, la pena privativa de la libertad se aumentará en dos terceras partes de las que le correspondan.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
+
+Si el homicidio o las lesiones referidas en el párrafo anterior son inferidas a una persona menor de dieciocho años o mayor de 60 años de edad, la pena privativa de libertad se aumentará en dos terceras partes de las que le correspondan.
 
 El homicidio o las lesiones contempladas en este artículo se perseguirán de oficio.
 
@@ -3357,15 +3359,15 @@ Cuando la asociación o alguna persona que forme parte de ella utilice a persona
 
 ### CAPITULO I (SIC). ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 182.
 
-Al que de cualquier modo dañe, altere, destruya, obstaculice o modifique alguna vía, señalización, aparato, tecnología, instalación, mobiliario de infraestructura vial, medio de comunicación o de transporte destinado a la prestación de los servicios público o privado de transporte en cualquiera de las modalidades contempladas en la Ley de Movilidad del Estado de Quintana Roo, que no sean de competencia federal, interrumpiendo o dificultando los servicios, se le aplicará prisión de seis meses a cuatro años y de cincuenta a doscientos días multa.
+Al que de cualquier modo dañe o destruya, alguna vía o medio de comunicación o de transporte destinado a la prestación de los servicios público o privado de transporte en cualquiera de las modalidades contempladas en la Ley de Movilidad del Estado de Quintana Roo que no sean de jurisdicción federal; o dañe o destruya las señales correspondientes, interrumpiendo o dificultando los servicios de emergencia, se aplicará prisión de seis meses a cuatro años y de cincuenta a doscientos días multa.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2025)</small>
 
-Las mismas penas se impondrán al que retenga cualquier vehículo destinado al servicio público o privado de transporte en cualquiera de las modalidades contempladas en la Ley de Movilidad del Estado de Quintana Roo y dolosamente obstaculice una vía de comunicación o la prestación de un servicio público de comunicación o servicio público o privado de transporte de competencia estatal.
+Las mismas penas se impondrán al que retenga cualquier vehículo destinado al servicio público o privado de transporte en cualquiera de las modalidades contempladas en la Ley de Movilidad del Estado de Quintana Roo.
 
 Para los efectos de este Código, son vías de comunicación las de tránsito destinadas al uso público.
 
@@ -5764,6 +5766,22 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que cont
 P.O. 25 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 114 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 269 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 1 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 115 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 1 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 116 POR EL QUE SE REFORMAN LOS PÁRRAFOS CUARTO Y QUINTO DE LA FRACCIÓN II, DEL APARTADO B, DEL ARTÍCULO 20 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
