@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2023-12-08"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -45,9 +45,11 @@ LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
 Esta Ley es de orden público, de interés social y de observancia general en el Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 2o.
 
-La presente Ley tiene por objeto regular, proteger, fomentar y hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en los ámbitos público y privado, mediante lineamientos y mecanismos institucionales que orienten al Estado y al sector privado, en los ámbitos social, económico, político, civil, cultural y familiar hacia el cumplimiento de la igualdad sustantiva.
+La presente Ley tiene por objeto regular, proteger, fomentar, promover y hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, el empoderamiento de las mujeres, la paridad de género y la lucha contra toda discriminación basada en el sexo, en los ámbitos público y privado, mediante lineamientos y mecanismos institucionales que orienten al Estado y al sector privado, en los ámbitos social, económico, político, civil, cultural y familiar hacia el cumplimiento de la igualdad sustantiva.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
 
@@ -343,9 +345,21 @@ XII. Adoptar medidas para procurar que las mujeres y los hombres gocen de iguald
 
 XIII. Fomentar la participación de las organizaciones de la sociedad civil en la promoción y vigilancia de la presente Ley;
 
-XIV. Promover la igualdad entre mujeres y hombres en el ámbito civil; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
 
-XV. Promover la eliminación de estereotipos establecidos en función del sexo.
+XIV. Promover la igualdad entre mujeres y hombres en el ámbito civil;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+XV. Promover la eliminación de estereotipos establecidos en función del sexo; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+XVI. Asegurar la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, y acciones para la igualdad y la paridad entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+XVII. Fomentar la participación y representación política paritaria, libre y equilibrada entre mujeres y hombres.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -403,13 +417,19 @@ VII. Secretaría de Educación;
 
 VIII. Secretaría de Salud;
 
-IX. Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+IX. Secretaría de Economía;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
 
 X. Secretaría de Igualdad e Inclusión;
 
 XI. Secretaría del Trabajo;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+XI. Bis. Secretaría de las Mujeres;
 
 XII. Un representante del Congreso del Estado quien será el Presidente de la Comisión de Equidad y Género;
 
@@ -481,9 +501,17 @@ XXII. Determinar la periodicidad y características de la información que deber
 
 XXIII. Apoyar la coordinación entre las instituciones de la Administración Pública Estatal para formar y capacitar a su personal en materia de igualdad entre mujeres y hombres;
 
-XXIV. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
 
-XXV. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+XXIV. Impulsar la participación de la Sociedad Civil en la promoción de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2025)</small>
+
+XXV. Dar seguimiento a la implementación del principio constitucional de paridad de género; y en tal virtud deberá presentar un informe anual de los avances en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2025)</small>
+
+XXVI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ###### Artículo 28.
 
@@ -639,9 +667,11 @@ I. Proponer mecanismos de operación adecuados para la participación equitativa
 
 II. Establecer mecanismos de política interna que fomente la igualdad de oportunidades en las contrataciones en la administración pública estatal y municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 39.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes estatales y municipales, desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el Artículo anterior, las autoridades correspondientes estatales y municipales, desarrollarán las siguientes acciones:
 
 I. Promover la participación equitativa de mujeres y hombres en altos cargos públicos;
 
@@ -649,9 +679,17 @@ II. Desarrollar y actualizar la información relacionada con la política de igu
 
 III. Promover la participación y representación equitativa de mujeres y hombres dentro de las estructuras de los sindicatos;
 
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
+
 IV. Observar la participación equitativa y sin discriminación de sexos en los procesos de selección, contratación y ascensos en el trabajo de los poderes Ejecutivo, Legislativo y Judicial, así como en los municipios; y
 
-V. Establecer los lineamientos para la evaluación de estas acciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2025)</small>
+
+V. Fomentar la participación equitativa y paritaria de mujeres y hombres en altos cargos públicos, aplicando el principio de paridad de género en la integración de los órganos directivos, consultivos y de representación social en las dependencias y entidades de la Administración Pública Estatal y Municipios en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2025)</small>
+
+VI. Establecer los lineamientos para la evaluación de estas acciones.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -773,9 +811,29 @@ II. Otorgar asistencia jurídica cuando exista por desigualdad, por motivos de g
 
 III. Impulsar la aplicabilidad de la legislación en materia de igualdad y violencia de género;
 
-IV. Eliminar cualquier trato diferenciado en los sistemas de procuración y administración de justicia; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
 
-V. Otorgar seguridad pública en condiciones de igualdad a las mujeres y los hombres.
+IV. Eliminar cualquier trato diferenciado en los sistemas de procuración y administración de justicia basados en estereotipos;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+V. Otorgar seguridad pública en condiciones de igualdad a las mujeres y los hombres;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+VI. Garantizar la reparación del daño a las mujeres y hombres víctimas de delitos, violencia o violación a sus derechos humanos conforme a la normatividad en la materia;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+VII. Fomentar la prevención social del delito contra mujeres, hombres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+VIII. Procurar el respeto de los Derechos Humanos de mujeres, hombres, niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+IX. Impulsar la capacitación de las personas operadoras de los sistemas de procuración y administración de justicia en materia de perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2019)</small>
 
@@ -787,9 +845,25 @@ I. Impulsar la capacitación a las autoridades encargadas de la procuración de 
 
 II. Formar y capacitar a los servidores públicos de los sistemas de procuración de justicia en el Estado en materia de igualdad;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE ABRIL DE 2025)</small>
+
 III. Brindar la seguridad pública considerando las necesidades de las mujeres y de los hombres; y
 
-IV. Establecer sistemas de información con datos desagregados por sexo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+IV. Establecer sistemas de información con datos desagregados por sexo;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+V. Garantizar la existencia de personas abogadas que otorguen asistencia jurídica a las mujeres para eliminar las desigualdades en el acceso a la justicia;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+VI. Orientar sobre los mecanismos para la atención en la reparación del daño y tratamiento psicológico a las víctimas en todos los tipos y modalidades de violencia de conformidad con la normatividad en la materia; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+VII. De acuerdo a sus facultades difundir en la sociedad el conocimiento de sus derechos y los mecanismos para su exigibilidad.
 
 ### CAPÍTULO NOVENO. DE LA IGUALDAD EN EL ÁMBITO COMUNITARIO Y FAMILIAR ENTRE MUJERES Y HOMBRES
 
@@ -1162,3 +1236,11 @@ P.O. 8 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO.- La Secretaría de Economía a más tardar 181 días a partir de la publicación del presente Decreto, establecerá los mecanismos necesarios para la acreditación y expedición del certificado a que se refiere el presente Decreto que incluirán las acciones y procedimientos que, para el cumplimiento del mismo, de (sic) desarrollaran de manera coordinada, la Secretaria de Economía y la Secretaria de las Mujeres.
+
+P.O. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 086. SE REFORMA EL ARTÍCULO 2, LAS FRACCIONES XIV Y XV DEL ARTÍCULO 19, LA FRACCIÓN IX DEL ARTÍCULO 26, LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 27, LAS FRACCIONES IV Y V DEL ARTÍCULO 39, LAS FRACCIONES IV Y V DEL ARTÍCULO 48, LAS FRACCIONES III Y IV DEL ARTÍCULO 49; SE ADICIONAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 19, LA FRACCIÓN IX BIS DEL ARTÍCULO 26, LA FRACCIÓN XXVI DEL ARTÍCULO 27, LA FRACCIÓN VI DEL ARTÍCULO 39, LAS FRACCIONES VI, VII, VIII Y IX DEL ARTÍCULO 48, LAS FRACCIONES V, VI Y VII DEL ARTÍCULO 49, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- El Poder Ejecutivo, las dependencias estatales y los Municipios del Estado, sujetos al presente Decreto, expedirán o, en su caso, adecuará sus reglamentos correspondientes en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
