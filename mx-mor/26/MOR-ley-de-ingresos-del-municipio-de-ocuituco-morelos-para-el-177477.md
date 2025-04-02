@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-ocuituco-morelos-para-el-17747
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE OCUITUCO, MORELOS, PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2025.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
 
 Ley publicada en la Octava Sección al Número 6382 del Periódico Oficial del Estado de Morelos, el martes 31 de diciembre de 2024.
 
