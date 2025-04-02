@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-procuraduria-agraria-144153"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-21"
-last_updated: "2020-09-21"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144153&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-09-14"
 
 REGLAMENTO INTERIOR DE LA PROCURADURÍA AGRARIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2025.
 
 Reglamento publicado en el No. 17 del Diario Oficial de la Federación, el 21 de Septiembre de 2020.
 
@@ -47,11 +47,15 @@ III. Procuraduría: la Procuraduría Agraria;
 
 IV. Secretaría: la Secretaría de Desarrollo Agrario, Territorial y Urbano, y
 
-V. Sujetos Agrarios: los ejidos y comunidades; ejidatarios, comuneros y posesionarios y sus sucesores; pequeños propietarios; avecindados; jornaleros agrícolas; colonos; poseedores de terrenos baldíos o nacionales y campesinos en general.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+V. Sujetos agrarios: los ejidos y comunidades; las personas ejidatarias, comuneras y posesionarias y sus sucesoras; pequeñas propietarias, avecindadas, jornaleras agrícolas, colonas, poseedoras de terrenos baldíos o nacionales y campesinas en general.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 2.
 
-La Procuraduría es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio, tiene funciones de servicio social y está encargada de la defensa de los derechos de los Sujetos Agrarios, mediante acciones de orientación, asesoría, gestión administrativa, representación legal, conciliación y capacitación.
+La Procuraduría es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio, tiene funciones de servicio social y está encargada de la defensa de los derechos de las y los sujetos agrarios, mediante acciones de orientación, asesoría, gestión administrativa, representación legal, conciliación y capacitación.
 
 ###### Artículo 3.
 
@@ -61,53 +65,91 @@ La Procuraduría, en cuanto a su organización, funcionamiento y control, no est
 
 La Procuraduría promoverá la pronta, expedita y eficaz administración de la justicia agraria, tendente a garantizar la seguridad jurídica en la tenencia de la tierra ejidal y comunal, en los terrenos nacionales, las colonias agrícolas y ganaderas y en la propiedad privada rural.
 
-Asimismo, llevará a cabo acciones orientadas a generar el desarrollo social y sustentable de los Núcleos de Población Agrarios, a consolidar y proteger los derechos que la Ley otorga a los Sujetos Agrarios, asegurando su pleno ejercicio.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Asimismo, llevará a cabo acciones orientadas a generar el desarrollo social y sustentable de los Núcleos de Población Ejidales y Comunales, a consolidar y proteger los derechos que la Ley otorga a las y los sujetos agrarios, asegurando su pleno ejercicio.
 
 ###### Artículo 5.
 
 La Procuraduría, para el logro de sus objetivos, tiene las atribuciones siguientes:
 
-I. Proponer al titular de la Secretaría la política nacional agraria para garantizar y defender los derechos agrarios, así como la política relativa a los derechos humanos que pudieran incidir en los Sujetos Agrarios;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-II. Orientar a los Sujetos Agrarios para la realización de gestiones o trámites administrativos en las materias que, sin ser de competencia de la Procuraduría, deban realizar ante otras autoridades administrativas de los tres órdenes de gobierno;
+I. Proponer a la persona titular de la Secretaría la política nacional agraria para garantizar y defender los derechos agrarios, así como la política relativa a los derechos humanos que pudieran incidir en las y los sujetos agrarios;
 
-III. Coadyuvar y, en su caso, representar a los Sujetos Agrarios en asuntos y ante autoridades agrarias;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IV. Asesorar a los Sujetos Agrarios sobre las consultas jurídicas relativas a la realización de actos jurídicos que se celebren entre Sujetos Agrarios, individuales o colectivos, o entre estos con terceros, cuando dichos actos se encuentren regulados por la Ley o previstos en otras leyes que incidan en el ejercicio de sus derechos agrarios;
+II. Orientar a las y los sujetos agrarios para la realización de gestiones o trámites administrativos en las materias que, sin ser de competencia de la Procuraduría, deban realizar ante otras autoridades administrativas de los tres órdenes de gobierno;
 
-V. Asesorar a los Sujetos Agrarios respecto a la defensa legal de sus derechos agrarios, ante las autoridades jurisdiccionales;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VI. Asesorar a los Sujetos Agrarios mediante, la emisión de opiniones sobre los proyectos para la aportación de tierras ejidales o comunales a sociedades civiles o mercantiles, en términos jurídicos y de equidad;
+III. Coadyuvar y, en su caso, representar a las y los sujetos agrarios en asuntos y ante autoridades agrarias;
 
-VII. Asistir, participar y asesorar a los Sujetos Agrarios en las asambleas a que se refieren las fracciones VII a XIV del artículo 23 de la Ley, con el objeto de verificar el cumplimiento de las formalidades exigidas para los actos jurídicos de que se trate, así como de las disposiciones jurídicas en materia de ordenamiento territorial, desarrollo urbano y medio ambiente;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VIII. Asesorar a los Sujetos Agrarios y participar en la formalización de los convenios de ocupación previa de tierras a expropiarse, a que se refiere el artículo 95 de la Ley, así como solicitar su inscripción en el Registro Agrario Nacional;
+IV. Asesorar a las y los sujetos agrarios sobre las consultas jurídicas relativas a la realización de actos jurídicos que se celebren entre sujetos agrarios, individuales o colectivos, o entre estos con terceras partes, cuando dichos actos se encuentren regulados por la Ley o previstos en otras leyes que incidan en el ejercicio de sus derechos agrarios;
 
-IX. Representar jurídicamente a los Sujetos Agrarios en los juicios en los que sean parte y coadyuvar con las partes, cuando así se solicite;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-X. Representar jurídicamente a los Sujetos Agrarios, individuales o colectivos, y fungir como su gestor ante las autoridades agrarias o cualesquiera otras autoridades administrativas que incidan en la aplicación de leyes o disposiciones jurídicas que puedan afectar sus derechos agrarios, así como para la obtención de permisos, concesiones, licencias o autorizaciones administrativas necesarias para la explotación o aprovechamiento de las tierras, bosques, aguas o cualquier otro recurso;
+V. Asesorar a las y los sujetos agrarios respecto a la defensa legal de sus derechos agrarios, ante las autoridades jurisdiccionales;
 
-XI. Representar jurídicamente a los Sujetos Agrarios, individuales o colectivos, en las negociaciones y acuerdos relacionados con la contraprestación, términos y condiciones, para el uso, goce o afectación de sus bienes o derechos, previstos en las leyes en materia minera de hidrocarburos, de la industria eléctrica, o en cualquiera otra que pueda implicar la afectación de sus derechos sobre las tierras ejidales o comunales;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XII. Promover y procurar la conciliación de intereses de los Sujetos Agrarios, en las materias reguladas por la Ley, como vía preferente para la solución de los conflictos;
+VI. Asesorar a las y los sujetos agrarios mediante, la emisión de opiniones sobre los proyectos para la aportación de tierras ejidales o comunales a sociedades civiles o mercantiles, en términos jurídicos y de equidad;
 
-XIII. Dictaminar, a solicitud de los Sujetos Agrarios interesados, la terminación del régimen ejidal por no existir las condiciones para su permanencia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XIV. Vigilar, en los casos de liquidación de sociedades a que se refieren los artículos 75 y 100 de la Ley, que se respete el derecho de preferencia del Núcleo de Población Agrario y de los ejidatarios o comuneros, para recibir tierra en pago de lo que les corresponda en el haber social;
+VII. Asistir, participar y asesorar a las y los sujetos agrarios en las asambleas a que se refieren las fracciones VII a XIV del artículo 23 de la Ley, con el objeto de verificar el cumplimiento de las formalidades exigidas para los actos jurídicos de que se trate, así como de las disposiciones jurídicas en materia de ordenamiento territorial, desarrollo urbano y medio ambiente;
 
-XV. Convocar a asambleas de los ejidos y comunidades, en los supuestos establecidos en la Ley y a petición de los Sujetos Agrarios o de las autoridades facultadas para ello;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Asesorar a las y los sujetos agrarios y participar en la formalización de los convenios de ocupación previa de tierras a expropiarse, a que se refiere el artículo 95 de la Ley, así como solicitar su inscripción en el Registro Agrario Nacional;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Representar jurídicamente a las y los sujetos agrarios en los juicios en los que sean parte y coadyuvar con las partes, cuando así se solicite;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Representar jurídicamente a las y los sujetos agrarios, individuales o colectivos, y fungir como su gestor ante las autoridades agrarias o cualesquiera otras autoridades administrativas que incidan en la aplicación de leyes o disposiciones jurídicas que puedan afectar sus derechos agrarios, así como para la obtención de permisos, concesiones, licencias o autorizaciones administrativas necesarias para la explotación o aprovechamiento de las tierras, bosques, aguas o cualquier otro recurso;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XI. Representar jurídicamente a las y los sujetos agrarios, individuales o colectivos, en las negociaciones y acuerdos relacionados con la contraprestación, términos y condiciones, para el uso, goce o afectación de sus bienes o derechos, previstos en las leyes en materia minera, de hidrocarburos, de la industria eléctrica, o en cualquiera otra que pueda implicar la afectación de sus derechos sobre las tierras ejidales o comunales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XII. Promover y procurar la conciliación de intereses de las y los sujetos agrarios, en las materias reguladas por la Ley, como vía preferente para la solución de los conflictos;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII. Dictaminar, a solicitud de las y los sujetos agrarios interesados, la terminación del régimen ejidal por no existir las condiciones para su permanencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Vigilar, en los casos de liquidación de sociedades a que se refieren los artículos 75 y 100 de la Ley, que se respete el derecho de preferencia del Núcleo de Población Ejidal y Comunal, así como de las personas ejidatarias o comuneras, para recibir tierra en pago de lo que les corresponda en el haber social;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XV. Convocar a asambleas de los ejidos y comunidades, en los supuestos establecidos en la Ley y a petición de las y los sujetos agrarios o de las autoridades facultadas para ello;
 
 XVI. Certificar las actas de asamblea de los ejidos y comunidades, en los casos señalados en la Ley;
 
-XVII. Formular acuerdos para instar a las autoridades agrarias a realizar, de manera eficiente y expedita, la prestación de servicios a su cargo en favor de los Sujetos Agrarios;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XVIII. Emitir recomendaciones a las autoridades para prevenir o corregir violaciones a los derechos agrarios de los Sujetos Agrarios;
+XVII. Formular acuerdos para instar a las autoridades agrarias a realizar, de manera eficiente y expedita, la prestación de servicios a su cargo en favor de las y los sujetos agrarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XVIII. Emitir recomendaciones a las autoridades para prevenir o corregir violaciones a los derechos agrarios de las y los sujetos agrarios;
 
 XIX. Denunciar ante la autoridad competente los hechos o actos que, con motivo de la aplicación de la Ley, puedan:
 
 a) Ser constitutivos de delitos, o
 
-b) Dar lugar a responsabilidades administrativas de los servidores públicos;
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+b) Dar lugar a responsabilidades administrativas de las personas servidoras públicas;
 
 XX. Denunciar ante la autoridad competente los casos en los que se presuma la existencia de prácticas de acaparamiento o concentración de tierras, la venta ilegal de tierras ejidales o comunales, la constitución de asentamientos humanos irregulares o cualquier otro acto que contravenga las disposiciones establecidas en las leyes en materia de asentamientos humanos y protección al ambiente;
 
@@ -117,23 +159,35 @@ XXII. Estudiar y proponer medidas encaminadas a fortalecer la seguridad jurídic
 
 XXIII. Promover, de oficio o a petición de parte, la nulidad de las asambleas a que se refieren las fracciones VII a XIV del artículo 23 de la Ley, cuando se detecten irregularidades por el incumplimiento a las formalidades exigidas para los actos jurídicos de que se trate;
 
-XXIV. Ejercer, con el auxilio y la participación de las autoridades locales, las funciones de inspección y vigilancia, con el objeto de defender los derechos de los Sujetos Agrarios;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXIV. Ejercer, con el auxilio y la participación de las autoridades locales, las funciones de inspección y vigilancia, con el objeto de defender los derechos de las y los sujetos agrarios;
 
 XXV. Realizar trabajos topográficos que contribuyan a la construcción de acuerdos y los servicios periciales en materia contable, en este último caso, cuando así lo solicite el veinte por ciento del total de ejidatarios que integran el Núcleo de Población Agrario.
 
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXV BIS. Realizar y convenir acciones de coordinación, colaboración y concertación para generar el desarrollo económico, social y sustentable de los Núcleos de Población Ejidales y Comunales, y
+
 XXVI. Las demás que la Ley y otros ordenamientos le confieran.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 6.
 
-La Procuraduría, para el cumplimiento de sus funciones de servicio social y de defensa de los derechos de los Sujetos Agrarios, establecerá la coordinación necesaria con las autoridades de las entidades federativas, estatales, municipales y alcaldías; asimismo, promoverá la participación de los sectores social y privado a través de la concertación de acciones. Las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, proporcionarán a la Procuraduría la documentación e informes que le solicite para el desempeño de sus funciones.
+La Procuraduría, para el cumplimiento de sus funciones de servicio social y de defensa de los derechos de las y los sujetos agrarios, establecerá la colaboración con otras dependencias y entidades de la Administración Pública Federal; la coordinación necesaria con las autoridades de las entidades federativas, municipios y alcaldías; asimismo, promoverá la participación de los sectores social y privado a través de la concertación de acciones. Las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, proporcionarán a la Procuraduría la documentación e informes que le solicite para el desempeño de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 7.
 
-La Procuraduría planeará y conducirá sus actividades con base en las políticas que establezca el Presidente de la República, para el logro de los objetivos y prioridades del Plan Nacional de Desarrollo y de los programas a su cargo.
+La Procuraduría planeará y conducirá sus actividades con base en las políticas que establezca la persona titular de la Presidencia de la República, para el logro de los objetivos y prioridades del Plan Nacional de Desarrollo y de los programas a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 8.
 
-La Procuraduría está a cargo de un Procurador Agrario, nombrado y removido libremente por el Presidente de la República. El Procurador Agrario, para el desahogo de los asuntos de su competencia, cuenta con las siguientes unidades administrativas:
+La persona a cargo de la Procuraduría, será nombrada y removida libremente por la persona titular de la Presidencia de la República y, para el desahogo de los asuntos de su competencia, cuenta con las siguientes unidades administrativas:
 
 I. Procurador Agrario;
 
@@ -143,6 +197,10 @@ III. Secretaría General;
 
 IV. Coordinación General de Oficinas de Representación;
 
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV BIS. La Coordinación General de Organización y Desarrollo Agrario;
+
 V. Dirección General Jurídica y de Representación Agraria;
 
 VI. Dirección General de Conciliación y Servicios Periciales;
@@ -151,13 +209,15 @@ VII. Dirección General de Organización Agraria;
 
 VIII. Dirección General de Apoyo al Ordenamiento de la Propiedad Rural;
 
-IX. Dirección General de Programación, Organización y Presupuesto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Dirección General de Programación, Presupuesto y Finanzas;
 
 X. Dirección General de Administración;
 
 XI. Dirección General de Tecnologías de la Información y Comunicación;
 
-XII. Dirección de Quejas y Denuncias;
+XII. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
 XIII. Visitadurías Especiales;
 
@@ -165,7 +225,9 @@ XIV. Oficinas de Representación en las Entidades Federativas, y
 
 XV. Residencias.
 
-Asimismo, la Procuraduría podrá contar con subprocuradurías para el conocimiento y atención de asuntos que por su trascendencia, interés y características así lo ameriten y con direcciones de área, subdirecciones, jefaturas de departamento y de oficina, abogados y visitadores agrarios, y demás personal técnico y administrativo que determine el Procurador Agrario, con base en el presupuesto autorizado y observando las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Asimismo, la Procuraduría podrá contar con subprocuradurías para el conocimiento y atención de asuntos que por su trascendencia, interés y características así lo ameriten y con direcciones de área, subdirecciones, jefaturas de departamento y de oficina, personas organizadoras agrarias y demás personal técnico, jurídico y/o administrativo que determine la persona titular de la Procuraduría, con base en el presupuesto autorizado y observando las disposiciones jurídicas aplicables.
 
 ###### Artículo 9.
 
@@ -181,15 +243,21 @@ II. Los bienes y recursos que le aporten las dependencias y entidades de la Admi
 
 III. Los ingresos y bienes que adquiera por cualquier otro título legal.
 
-### Capítulo II. Del Procurador Agrario
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+### Capítulo II. De la persona titular de la Procuraduría
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 11.
 
-Al Procurador Agrario le corresponde originalmente la representación, trámite y resolución de los asuntos que competen a la Procuraduría quien, para la mejor organización y desarrollo del trabajo, podrá delegar cualquiera de sus facultades en servidores públicos subalternos, con excepción de aquellas que por disposición de ley o reglamentaria sean indelegables, sin perjuicio de su ejercicio directo. Para efectos de lo anterior, el Procurador Agrario expedirá los acuerdos delegatorios respectivos, mismos que deberán publicarse en el Diario Oficial de la Federación.
+A la persona titular de la Procuraduría le corresponde originalmente la representación, trámite y resolución de los asuntos de su competencia, quien, para la mejor organización y desarrollo del trabajo, podrá delegar cualquiera de sus facultades en las personas servidoras pública subalternas, con excepción de aquellas que por disposición legal o reglamentaria sean indelegables, sin perjuicio de su ejercicio directo. Para efectos de lo anterior, expedirá los acuerdos delegatorios respectivos, mismos que deberán publicarse en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 12.
 
-Son atribuciones del Procurador Agrario:
+Son atribuciones de la persona titular de la Procuraduría:
 
 I. Representar a la Procuraduría y conducir la implementación de las políticas públicas establecidas por el Ejecutivo Federal en materia agraria que sean de su competencia;
 
@@ -203,9 +271,13 @@ V. Celebrar los convenios, contratos y cualquier otro acto jurídico que se requ
 
 VI. Proponer al Ejecutivo Federal, a través de la Secretaría, los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás ordenamientos necesarios para la adecuada procuración de justicia agraria;
 
-VII. Expedir los lineamientos, normas internas, manuales, criterios, y demás disposiciones que se requieran para el debido ejercicio de las atribuciones que la Ley, este reglamento y otras disposiciones jurídicas le confieren a la Procuraduría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VIII. Emitir opinión sobre los proyectos que tengan por objeto transmitir el dominio de tierras de uso común a sociedades civiles o mercantiles en las que participen el ejido o los ejidatarios, en términos de los artículos 75, fracción II y 100 de la Ley;
+VII. Expedir los acuerdos, lineamientos, normas internas, manuales, criterios y demás disposiciones que se requieran para el debido ejercicio de las atribuciones que la Ley, este Reglamento y otras disposiciones jurídicas le confieren a la Procuraduría, así como para establecer los procedimientos y obligaciones específicas a que se refiere el artículo 4 de la Ley Federal de Procedimiento Administrativo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Emitir opinión sobre los proyectos que tengan por objeto transmitir el dominio de tierras de uso común a sociedades civiles o mercantiles en las que participen el ejido o las personas ejidatarias, en términos de los artículos 75, fracción II y 100 de la Ley;
 
 IX. Emitir los acuerdos y las recomendaciones a que se refiere el artículo 136, fracción IV de la Ley;
 
@@ -217,57 +289,67 @@ XII. Emitir dictamen respecto de la terminación del régimen ejidal;
 
 XIII. Adscribir orgánicamente las unidades administrativas a que se refiere el artículo 8 de este Reglamento, y establecer la circunscripción territorial de las Oficinas de Representación en las Entidades Federativas y de las Residencias, mediante la expedición del acuerdo respectivo, así como ordenar su publicación en el Diario Oficial de la Federación;
 
-XIV. Presentar al Titular del Ejecutivo Federal un informe anual sobre el desempeño de las actividades de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XV. Nombrar y remover a los servidores públicos de la Procuraduría y ordenar al Secretario General la expedición de los nombramientos y remociones, observando las disposiciones del Estatuto del Servicio Profesional Agrario de Carrera;
+XIV. Presentar a la persona titular del Ejecutivo Federal un informe anual sobre el desempeño de las actividades de la Procuraduría;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XV. Nombrar y remover a las personas servidoras públicas de la Procuraduría y ordenar a la persona titular de la Secretaría General la expedición de los nombramientos y remociones, observando las disposiciones del Estatuto del Servicio Profesional Agrario de Carrera, así como en términos de las disposiciones jurídicas aplicables;
 
 XVI. Constituir las comisiones internas, transitorias o permanentes que, en su caso, se requieran para el mejor despacho de los asuntos a su cargo, así como designar a los miembros que deban integrarlas;
 
 XVII. Establecer el Comité Permanente de Control y Seguimiento, definir sus lineamientos, bases de operación y ordenar su difusión en los medios internos de comunicación;
 
-XVIII. Autorizar y expedir el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria y ordenar su publicación en el Diario Oficial de la Federación, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XIX. Calificar las excusas e impedimentos que presente el Subprocurador General para inhibirse del conocimiento y trámite de los asuntos de su competencia y designar al servidor público que deba conocerlos y tramitarlos.
+XVIII. Autorizar y expedir el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria y ordenar su publicación en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIX. Calificar las excusas e impedimentos que presente la persona titular de la Subprocuraduría General para inhibirse del conocimiento y trámite de los asuntos de su competencia y designar a la persona servidora pública que deba conocerlos y tramitarlos;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XX. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo o en las áreas bajo su adscripción, incluyendo archivos y documentos físicos, electrónicos y digitales, a los que tengan acceso o tengan a la vista con motivo del ejercicio de sus atribuciones, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXI. Las demás facultades indelegables que por disposición legal se le confieran.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 13.
 
-El Procurador Agrario podrá delegar sus facultades en los servidores públicos subalternos, con excepción de las señaladas en las fracciones II, III, IV, VII, IX, X, XIII a XVI y XIX del artículo anterior, y expedirá para tal efecto, los acuerdos relativos que deberán publicarse en el Diario Oficial de la Federación.
+La persona titular de la Procuraduría podrá delegar sus facultades en las personas servidoras públicas subalternas, con excepción de las señaladas en las fracciones II, III, IV, VII, IX, X, XIII a XVI y XIX del artículo anterior, y expedirá para tal efecto, los acuerdos relativos que deberán publicarse en el Diario Oficial de la Federación.
 
 ###### Artículo 14.
 
-La Dirección de Quejas y Denuncias dependerá directamente del Procurador Agrario, y tiene las atribuciones siguientes:
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
-I. Atender en audiencia a los Sujetos Agrarios, brindándoles orientación a sus planteamientos;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-II. Recibir las quejas y denuncias que se presenten en contra de cualquier autoridad, servidor público o comisariado ejidal o de bienes comunales, con motivo de la violación de las leyes que regulan la materia agraria;
+### Capítulo III. De la persona titular de la Subprocuraduría General
 
-III. Incoar, dirigir y controlar las investigaciones y diligencias relacionadas con las quejas y denuncias a que alude la fracción anterior;
-
-IV. Realizar, con el auxilio y participación de las autoridades locales, las funciones de inspección y vigilancia encaminadas a defender los derechos de los Sujetos Agrarios;
-
-V. Formular las resoluciones de las quejas y denuncias relacionadas con la violación de leyes y derechos en materia agraria, que se desprendan de la investigación de las mismas y, en su caso, turnarlas a la unidad administrativa de la Procuraduría que corresponda;
-
-VI. Someter a consideración del Procurador Agrario, los proyectos de resolución para instar a las autoridades agrarias al cumplimiento y eficaz realización de las funciones a su cargo; así como los proyectos de recomendación a que se refiere el artículo 136, fracción IV de la Ley;
-
-VII. Elaborar y someter a consideración del Procurador Agrario, los proyectos de resolución para instruir a los servidores públicos de la Procuraduría, para que realicen sus funciones con apego a la normatividad agraria y, en su caso, subsanar las irregularidades denunciadas;
-
-VIII. Coordinar y dar seguimiento al informe que deban rendir los servidores públicos de la Procuraduría, en respuesta a las solicitudes de informes que requiera la Comisión Nacional de los Derechos Humanos, y
-
-IX. Investigar las denuncias por excedentes en la propiedad privada, así como emitir la opinión correspondiente, conforme a lo señalado en la Ley y demás disposiciones jurídicas aplicables.
-
-### Capítulo III. Del Subprocurador General
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 15.
 
-El Subprocurador General tiene las siguientes facultades:
+La persona titular de la Subprocuraduría General tiene las siguientes facultades:
 
 I. Planear, establecer, coordinar y evaluar las acciones de las unidades administrativas de su adscripción;
 
-II. Proponer al Procurador Agrario los proyectos de recomendaciones a las autoridades para prevenir o corregir violaciones a los derechos agrarios de los Sujetos Agrarios;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-III. Revisar y validar los proyectos de convenios y contratos en los que la Procuraduría sea parte y que, en su caso, deban ser firmados por el Procurador Agrario;
+II. Proponer a la persona titular de la Procuraduría los proyectos de recomendaciones a las autoridades para prevenir o corregir violaciones a los derechos agrarios de las y los sujetos agrarios;
 
-IV. Dirigir y evaluar los servicios que brinda la Procuraduría a los Sujetos Agrarios en lo referente a asesoría y representación jurídica, gestoría administrativa, y audiencia campesina;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+III. Revisar y validar los proyectos de convenios y contratos en los que la Procuraduría sea parte y que, en su caso, deban ser firmados por la persona titular de la Procuraduría;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV. Dirigir y evaluar los servicios que brinda la Procuraduría a las y los sujetos agrarios en lo referente a asesoría y representación jurídica, gestoría administrativa, y audiencia campesina;
 
 V. Procurar que los procedimientos de conciliación se lleven a cabo conforme a las disposiciones legales aplicables;
 
@@ -275,31 +357,57 @@ VI. Hacer del conocimiento de la autoridad competente la inobservancia de las di
 
 VII. Denunciar ante la autoridad competente los casos en los que se presuma la existencia de prácticas de acaparamiento o concentración de tierras, la venta ilegal de tierras ejidales o comunales, la constitución de asentamientos humanos irregulares o cualquier otro acto que contravenga las disposiciones establecidas en las leyes en materia de asentamientos humanos y protección al ambiente;
 
-VIII. Proponer al Procurador Agrario el dictamen respecto de la procedencia y factibilidad de la terminación del régimen ejidal;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IX. Someter a la consideración y, en su caso, aprobación del Procurador Agrario, la propuesta de opinión que elabore la Dirección General de Organización Agraria sobre los proyectos de aportación y escritura social de tierras de uso común de ejidos y comunidades, a sociedades civiles o mercantiles, en términos de lo dispuesto por los artículos 75, fracción II y 100 de la Ley, adjuntando a dicha propuesta las consideraciones que al respecto emita la Dirección General Jurídica y de Representación Agraria, de conformidad con la fracción VI del artículo 22 de este Reglamento;
+VIII. Proponer a la persona titular de la Procuraduría el dictamen respecto de la procedencia y factibilidad de la terminación del régimen ejidal;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Someter a la consideración y, en su caso, aprobación de la persona titular de la Procuraduría, la propuesta de opinión que elabore la Dirección General de Organización Agraria sobre los proyectos de aportación y escritura social de tierras de uso común de ejidos y comunidades, a sociedades civiles o mercantiles, en términos de lo dispuesto por los artículos 75, fracción II y 100 de la Ley, adjuntando a dicha propuesta las consideraciones que al respecto emita la Dirección General Jurídica y de Representación Agraria, de conformidad con la fracción VI del artículo 22 de este Reglamento;
 
 X. Designar, a propuesta de la Dirección General de Organización Agraria, al comisario de las sociedades que se constituyan con base en el supuesto previsto en el artículo 75, fracción V de la Ley;
 
-XI. Calificar las excusas e impedimentos que presenten los servidores públicos de la Procuraduría para inhibirse del conocimiento y trámite de los asuntos de su competencia y, en su caso, designar al servidor público sustituto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XII. Participar en la elaboración de anteproyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos que le encomiende el Procurador Agrario, y
+XI. Calificar las excusas e impedimentos que presenten las personas servidoras públicas de la Procuraduría para inhibirse del conocimiento y trámite de los asuntos de su competencia y, en su caso, designar a la persona servidora pública sustituta;
 
-XIII. Ejercer las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera el Procurador Agrario.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-### Capítulo IV. Del Secretario General
+XII. Participar en la elaboración de anteproyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos que le encomiende la persona titular de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XII BIS. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo o en las áreas bajo su adscripción, incluyendo archivos y documentos físicos, electrónicos y digitales, a los que tengan acceso o tengan a la vista con motivo del ejercicio de sus atribuciones, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII. Ejercer las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o le correspondan por suplencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+### Capítulo IV. De la persona titular de la Secretaría General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 16.
 
-El Secretario General tiene las siguientes facultades:
+La persona titular de la Secretaría General tiene las siguientes facultades:
 
 I. Planear, coordinar y evaluar las acciones de las unidades administrativas de su adscripción;
 
-II. Realizar las tareas administrativas de la Procuraduría, coordinando las oficinas de la dependencia de conformidad con las instrucciones y disposiciones del Procurador Agrario, en los términos previstos en el artículo 145 de la Ley;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Dirigir las tareas administrativas de la Procuraduría, en coordinación con las personas titulares de las unidades administrativas de la Procuraduría, en los términos previstos en el marco jurídico aplicable y de conformidad con las instrucciones y disposiciones de la persona titular de la Procuraduría;
 
 III. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios; de Obra Pública y Servicios Relacionados con las mismas, de conformidad con las disposiciones jurídicas aplicables;
 
-IV. Aplicar las políticas, normas, sistemas y procedimientos para la administración, planeación y programación de los recursos humanos, materiales y financieros de la Procuraduría, con base en la legislación aplicable y en los lineamientos que señale el Procurador Agrario;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV. Establecer las políticas, normas, sistemas y procedimientos para la administración, planeación, programación y control de los recursos humanos, materiales, financieros y de tecnologías de la información y comunicación de la Procuraduría, con base en la legislación aplicable y en los lineamientos que señale la persona titular de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV BIS. Promover el desarrollo y aplicación de las tecnologías de la información y comunicaciones en la operación y administración, de acuerdo con las necesidades y sujeto a la disponibilidad presupuestaria de la Procuraduría, de conformidad con las disposiciones jurídicas aplicables;
 
 V. Planear, normar y establecer en coordinación con las unidades administrativas y Direcciones Generales, los modelos y sistemas de información automatizados, requeridos para satisfacer las necesidades de la Procuraduría;
 
@@ -307,35 +415,77 @@ VI. Difundir a las unidades administrativas de la Procuraduría las políticas, 
 
 VII. Coordinar la elaboración de los manuales de organización, procedimientos y de servicios, así como de las normas que se requieran para la descentralización territorial, administrativa y funcional de la Procuraduría;
 
-VIII. Dirigir y resolver, con base en los lineamientos que establezca el Procurador Agrario, los asuntos del personal al servicio de la Procuraduría, así como autorizar los movimientos de personal y expedir los nombramientos y las remociones de estos conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IX. Vigilar el cumplimiento de los acuerdos tomados por la Comisión del Servicio Profesional Agrario y proveer los medios necesarios para su ejecución, así como proponer al Procurador Agrario las medidas que estime procedentes para el logro de los objetivos señalados en el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria;
+VIII. Dirigir y resolver, con base en los lineamientos que establezca la persona titular de la Procuraduría, los asuntos del personal al servicio de la referida Institución, así como autorizar los movimientos de personal y expedir dentro de su ámbito de competencia, los nombramientos y las remociones de éstos, conforme a las disposiciones jurídicas aplicables; en lo referente a las remociones, se actuará en coordinación con la Dirección General Jurídica y de Representación Agraria;
 
-X. Autorizar con su firma la celebración de los convenios y contratos en los que la Procuraduría sea parte y afecten su presupuesto, así como los demás documentos que impliquen actos de administración, conforme a las disposiciones aplicables y a los lineamientos que fije el Procurador Agrario;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Verificar que se cumplan los acuerdos tomados por la Comisión del Servicio Profesional Agrario y proveer los medios necesarios para su ejecución, así como proponer a la persona titular de la Procuraduría, las medidas que estime procedentes para el logro de los objetivos señalados en el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Suscribir los convenios, contratos, acuerdos, autorizaciones y demás instrumentos jurídicos relativos al ejercicio de sus facultades y los que le indique la persona titular de la Procuraduría, previa opinión, en su caso, de la Dirección General Jurídica y de Representación Agraria.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+En aquellos casos en los que los instrumentos jurídicos a suscribir tengan impacto presupuestario; se requerirá, además, de la validación de la suficiencia presupuestaria por parte de la Dirección General de Programación, Presupuesto y Finanzas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Tratándose de instrumentos jurídicos a celebrarse por las Oficinas de Representación en las entidades federativas, en el ámbito de su competencia, la Coordinación General de Oficinas de Representación supervisará el cumplimiento normativo interno y externo; asimismo, notificará la suscripción de los instrumentos jurídicos a la Secretaría General, para efectos de control.
 
 XI. Establecer, controlar y evaluar el Programa Interno de Protección Civil, así como emitir las normas necesarias para su operación, desarrollo y vigilancia;
 
 XII. Atender y coordinar la capacitación del personal, con base en las necesidades de las diversas unidades administrativas de la Procuraduría;
 
-XIII. Someter a la consideración del Procurador Agrario el anteproyecto de presupuesto anual de la Procuraduría, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XIV. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera el Procurador Agrario.
+XIII. Someter a la consideración de la persona titular de la Procuraduría el anteproyecto de presupuesto anual de ésta;
 
-### Capítulo V. De la Coordinación General y Direcciones Generales
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII BIS. Promover la incorporación de la perspectiva de género en la cultura organizacional y coordinar el proceso de implementación e institucionalización de la misma, en el diseño y ejecución de los programas y acciones de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII TER. Administrar el Sistema del Servicio Profesional Agrario de Carrera en la Procuraduría, valorando la opinión de la persona titular de la Coordinación General de Oficinas de Representación y de las diversas unidades administrativas involucradas, para su fortalecimiento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII QUÁTER. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo o en las áreas bajo su adscripción, incluyendo archivos y documentos físicos, electrónicos y digitales, a los que tengan acceso o tengan a la vista con motivo del ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII QUINQUIES. Conducir las relaciones laborales con las representaciones sindicales correspondientes, en términos de las Condiciones Generales de Trabajo y/o el Contrato Colectivo de Trabajo, conforme a las directrices que determine la persona titular de la Procuraduría, y demás disposiciones jurídicas aplicables, con el apoyo de la Dirección General Jurídica y de Representación Agraria, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o le correspondan por suplencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+### Capítulo V. De las Coordinaciones Generales y Direcciones Generales
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 17.
 
-Al frente de la Coordinación General y de las Direcciones Generales está una persona Titular, responsable del correcto funcionamiento de las unidades administrativas. Las personas titulares señaladas, para desahogar el trámite y la resolución de los asuntos de su competencia, se auxiliarán por los directores y subdirectores de área, jefes de departamento y demás servidores públicos bajo su adscripción, según las necesidades del servicio y el presupuesto autorizado.
+Al frente de cada una de las Coordinaciones Generales y de las Direcciones Generales está una persona titular, responsable del correcto funcionamiento de las unidades administrativas. Las personas titulares señaladas, para desahogar el trámite y la resolución de los asuntos de su competencia, se auxiliarán por direcciones, subdirecciones de área, jefaturas de departamento y demás personal bajo su adscripción, según las necesidades del servicio y el presupuesto autorizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 18.
 
-El Coordinador General y los directores generales tienen las siguientes facultades genéricas:
+Las personas titulares de las Coordinaciones Generales y de las Direcciones Generales tienen las siguientes facultades genéricas:
 
 I. Planear, coordinar y evaluar las acciones de las unidades administrativas de su adscripción;
 
 II. Organizar, dirigir, evaluar y supervisar el desarrollo de las funciones a su cargo;
 
-III. Acordar con su superior inmediato la atención de los asuntos relevantes de su competencia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+III. Acordar con la persona superior jerárquica, la atención de los asuntos relevantes de su competencia;
 
 IV. Suscribir los documentos que emitan en relación con el ejercicio de sus facultades;
 
@@ -343,13 +493,17 @@ V. Formular la propuesta del anteproyecto del presupuesto anual, así como los p
 
 VI. Formular las opiniones e informes que les soliciten sus superiores;
 
-VII. Aplicar los ordenamientos que integran el marco jurídico de la Procuraduría y vigilar que sus inferiores jerárquicos cumplan con estos, así como fundar y motivar las resoluciones, acuerdos y demás actos administrativos que emitan;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VII. Aplicar los ordenamientos que integran el marco jurídico de la Procuraduría y vigilar que el personal subalterno cumpla con estos, así como fundar y motivar las resoluciones, acuerdos y demás actos administrativos que emitan;
 
 VIII. Establecer los mecanismos de coordinación con las diversas unidades administrativas de la Procuraduría, necesarios para el adecuado cumplimiento de sus funciones y apoyarlas con la información y documentación que, en su caso, le requieran;
 
 IX. Intervenir en los procesos de administración del personal a su cargo, de conformidad con la normatividad aplicable;
 
-X. Recibir en acuerdo a los servidores públicos de su adscripción, así como conceder audiencia al público sobre los asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Recibir en acuerdo a las personas servidoras públicas de su adscripción, así como conceder audiencia al público sobre los asuntos de su competencia;
 
 XI. Desempeñar los encargos o comisiones que se les encomienden e informar a sus superiores sobre las actividades desarrolladas;
 
@@ -357,9 +511,17 @@ XII. Identificar las necesidades de capacitación, adiestramiento y desarrollo d
 
 XIII. Participar en los Comités o Consejos que se constituyan, cuando estos contengan temas relacionados con la unidad administrativa de su competencia;
 
-XIV. Proponer al Procurador Agrario los criterios y lineamientos jurídicos para el debido cumplimiento de las facultades que le confiere este Reglamento, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XV. Ejercer las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera el Procurador Agrario.
+XIV. Proponer a la persona titular de la Procuraduría los criterios y lineamientos jurídicos para el debido cumplimiento de las facultades que le confiere este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV BIS. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo o en las áreas bajo su adscripción, incluyendo archivos y documentos físicos, electrónicos y digitales, a los que tengan acceso o tengan a la vista con motivo del ejercicio de sus atribuciones, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XV. Ejercer las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que les confiera la persona titular de la Procuraduría o les correspondan por suplencia.
 
 ###### Artículo 19.
 
@@ -381,51 +543,191 @@ VII. Prever lo conducente con las unidades administrativas correspondientes, en 
 
 VIII. Auxiliar a las Oficinas de Representación en las Entidades Federativas en la integración de los expedientes de los servidores públicos con motivo de actos u omisiones que puedan dar lugar a responsabilidades administrativas;
 
-IX. Supervisar el cumplimiento de los acuerdos tomados por la Comisión del Servicio Profesional Agrario de Carrera, así como proponer al Procurador Agrario las medidas que estime procedentes para su adecuado funcionamiento;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-X. Identificar las necesidades de formación, capacitación, desarrollo de capacidades del personal perteneciente al Servicio Profesional Agrario, someter a consideración del Procurador Agrario las propuestas correspondientes y coordinar su implementación, y
+IX. Supervisar el cumplimiento de los acuerdos que le asigne la Comisión del Servicio Profesional Agrario de Carrera; así como, proponer a la persona titular de la Secretaría General, las medidas que estime procedentes para mejorar el funcionamiento del Sistema del Servicio Profesional Agrario de Carrera;
 
-XI. Coordinar y ejecutar los procesos de reclutamiento, selección e ingreso, actualización, formación y desarrollo profesional, cambios de adscripción, rotación, permanencia, incentivos y disciplina, del personal de confianza que se detallen en el catálogo de puestos y perfiles del Servicio Profesional Agrario de Carrera de la Procuraduría Agraria.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Participar con la persona titular de la Secretaría General, en la identificación de las necesidades de formación, capacitación, desarrollo de capacidades del personal perteneciente al Servicio Profesional Agrario de Carrera y someter a su consideración las propuestas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XI. Someter a consideración de la persona titular de la Secretaría General, la baja, los cambios de adscripción (permutas), la rotación, la permanencia y las medidas de disciplina del personal bajo su adscripción, incluyendo al personal del Servicio Profesional Agrario de Carrera asignado a las Oficinas de Representación y Residencias de la Procuraduría, previa autorización de la persona titular de la Dirección General Jurídica y de Representación agraria y en su caso, de la persona titular de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XII. Instrumentar las acciones necesarias para llevar a cabo la planeación, programación, presupuestación, ejercicio, comprobación, control y rendición de cuentas de presupuesto a su cargo; así como, la administración de los recursos humanos, materiales y tecnológicos que le sean asignados para el cumplimiento de sus funciones, y supervisar lo correspondiente a las Oficinas de Representación y Residencias, de acuerdo a lo que le instruya la persona titular de la Secretaría General, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+###### Artículo 19 Bis.
+
+La Coordinación General de Organización y Desarrollo Agrario, tiene las atribuciones siguientes:
+
+I. Proponer a la persona titular de la Procuraduría, los programas, proyectos y acciones para el desarrollo económico, social y sustentable de los Núcleos de Población Ejidales y Comunales, promoviendo su ordenamiento territorial participativo y la organización autogestiva, en coordinación con dependencias y entidades de la Administración Pública Federal;
+
+II. Diseñar, proponer y en su caso, coordinar acciones de fomento al desarrollo económico, social y sustentable de los Núcleos de Población Ejidales y Comunales, a través de la productividad de las actividades y conservación de riqueza social, ambiental y cultural;
+
+III. Coordinar las acciones de apoyo a la organización interna de los núcleos agrarios y la renovación de sus órganos de representación y vigilancia;
+
+IV. Coordinar el programa y acciones para el asesoramiento a las y los sujetos agrarios, para la constitución de figuras asociativas; liquidación de las unidades de producción y servicio en parcelas con destino específico; la constitución, reglamentación y operación de las juntas de pobladores; la elaboración de las listas de sucesión y en la incorporación de sus tierras al desarrollo urbano, en función de las disposiciones que emita la persona titular de la Procuraduría;
+
+V. Promover programas para fortalecer la organización interna de los pueblos y comunidades indígenas y afromexicanas en los Núcleos de Población Ejidales y Comunales, en coordinación con dependencias y entidades de la Administración Pública Federal;
+
+VI. Coordinar y promover los programas, estrategias y acciones que, en materia de concertación y atención a las organizaciones y a las y los sujetos agrarios para el ordenamiento territorial participativo;
+
+VII. Coordinar, planear, diseñar y ejecutar programas de capacitación y formación para el fomento a la organización agraria para la transformación autogestiva de los ejidos y comunidades conforme al objetivo institucional de la Procuraduría;
+
+VIII. Diseñar y proponer a la persona titular de la Procuraduría los programas de capacitación y formación para el fomento a la organización agraria para el desempeño de sus funciones;
+
+IX. Elaborar los diagnósticos de necesidades de capacitación para los ejidos y comunidades;
+
+X. Proponer y fomentar la realización de proyectos integrales para el desarrollo económico, socioambiental y productivo de los núcleos agrarios, así como el acompañamiento en la gestión interinstitucional cuando así se requiera;
+
+XI. Coordinar una plataforma digital de seguimiento y evaluación de los programas de capacitación y formación para el fomento a la organización agraria;
+
+XII. Implantar y concertar las acciones y eventos de formación continua y de capacitación para el fomento a la organización agraria en los Núcleos de Población Ejidales y Comunales, y
+
+XIII. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
 
 ###### Artículo 20.
 
 La Dirección General Jurídica y de Representación Agraria tiene las siguientes atribuciones:
 
-I. Asesorar a los Sujetos Agrarios en los actos jurídicos que celebren entre sí o con terceros en materia agraria;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-II. Proporcionar servicios de asesoramiento y representación a los Sujetos Agrarios, así como llevar a cabo su control y seguimiento;
+I. Asesorar a las y los sujetos agrarios en los actos jurídicos que celebren entre sí o con terceros en materia agraria;
 
-III. Evaluar y supervisar los servicios de asesoramiento jurídico y de representación legal ante los Tribunales Unitarios Agrarios que brindan las Oficinas de Representación en las Entidades Federativas y Residencias a los Sujetos Agrarios; vigilando la actuación y cumplimiento de metas de los servidores públicos en esta materia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IV. Interponer demandas y formular las denuncias que procedan en defensa de los intereses de los Sujetos Agrarios en la materia;
+II. Proporcionar servicios de asesoramiento a las y los sujetos agrarios, relacionados con sus trámites y gestiones en materia agraria ante los distintos entes de gobierno, así como llevar a cabo su control y seguimiento;
 
-V. Identificar y analizar las tesis contradictorias emitidas por los Tribunales Agrarios, y elaborar los proyectos para informar al Subprocurador General sobre tales contradicciones;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VI. Promover a petición de los Sujetos Agrarios ante los Tribunales Agrarios la expedita ejecución de las sentencias correspondientes;
+III. Evaluar y supervisar los servicios de asesoramiento jurídico y de representación legal ante los Tribunales Unitarios Agrarios que brindan las Oficinas de Representación en las entidades federativas y Residencias, a las y los sujetos agrarios; vigilando la actuación y cumplimiento de metas de las personas servidoras públicas en esta materia;
 
-VII. Promover las demandas y representar a la Procuraduría en los asuntos contenciosos del orden civil, laboral y administrativo, así como en los procedimientos especiales de jurisdicción voluntaria; formular denuncias y querellas ante las autoridades e Instituciones correspondientes y, previa autorización del Subprocurador General, otorgar el perdón, solicitar los desistimientos que correspondan y en general acudir ante toda clase de autoridades en defensa de sus intereses;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VIII. Atender los asuntos y las recomendaciones que la Comisión Nacional de los Derechos Humanos dirija a la Procuraduría;
+IV. Interponer demandas y formular las denuncias que procedan en defensa de los intereses de las y los sujetos agrarios en la materia;
 
-IX. Representar a la Procuraduría, al Procurador Agrario y al Subprocurador General en los juicios que se promuevan en su contra, con motivo del ejercicio de sus funciones, suscribiendo los informes que deban rendirse ante la autoridad judicial. Asimismo, podrá representar al Secretario General, al Coordinador General y a los directores generales y demás mandos superiores y medios, para los mismos efectos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-X. Impugnar de manera directa o a través del servidor público que, al efecto designe el Procurador Agrario o el Subprocurador General, los actos a que se refiere el artículo 61 de la Ley;
+V. Identificar y analizar las tesis contradictorias emitidas por los Tribunales Agrarios y elaborar los proyectos para informar a la persona titular de la Subprocuraduría General sobre tales contradicciones;
 
-XI. Emitir, previa autorización del Procurador Agrario y Subprocurador General, las circulares que contengan lineamientos y criterios jurídicos, propuestos por las Direcciones Generales, así como llevar su clasificación, sistematización y actualización;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XII. Emitir opiniones jurídicas, en relación con las consultas o asuntos que le requieran las unidades administrativas de la Procuraduría, así como definir criterios jurídicos con el objeto de resolver contradicciones entre distintas unidades administrativas de la Procuraduría;
+VI. Promover a petición de las y los sujetos agrarios ante los Tribunales Agrarios la expedita ejecución de las sentencias correspondientes;
 
-XIII. Emitir opiniones jurídicas sobre las consultas que le formulen los Sujetos Agrarios;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XIV. Formular y revisar los anteproyectos de leyes, reglamentos, decretos, acuerdos, y demás ordenamientos que le encomiende el Subprocurador General;
+VII. Promover las demandas y representar a la Procuraduría en los asuntos contenciosos del orden civil, laboral y administrativo, así como en los procedimientos especiales de jurisdicción voluntaria; formular denuncias y querellas ante las autoridades e Instituciones correspondientes y, previa autorización la persona titular de la Subprocuraduría General, otorgar el perdón, solicitar los desistimientos que correspondan y en general acudir ante toda clase de autoridades en defensa de sus intereses;
 
-XV. Formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Procuraduría, de acuerdo con los requerimientos de las unidades administrativas, así como los instrumentos jurídicos de cualquier índole relativos a los derechos y obligaciones patrimoniales de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XVI. Certificar las copias de los documentos que obren en los expedientes de la Procuraduría a nivel central, a requerimiento de cualquier autoridad o a petición fundada conforme a la ley en materia de transparencia y acceso a la información pública;
+VIII. Atender, coordinar e integrar, de conformidad con la información que le proporcionen las diversas unidades administrativas de la Procuraduría, los asuntos, recomendaciones, informes y demás requerimientos que la Comisión Nacional de los Derechos Humanos o cualquier otro organismo nacional o internacional en materia de derechos humanos y el Consejo Nacional para Prevenir la Discriminación dirija a las personas servidoras públicas de la Procuraduría;
 
-XVII. Difundir en forma sistematizada al interior de la Procuraduría las jurisprudencias y tesis relacionadas con las materias agraria, común, laboral y penal, publicadas en el Semanario Judicial de la Federación, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XVIII. Emitir opinión respecto de las excusas e impedimentos que se presenten para su calificación por parte del Procurador Agrario y Subprocurador General, de conformidad con lo establecido por los artículos 15, fracción XI y 74 de este Reglamento.
+IX. Representar a la Procuraduría, a la persona titular de la misma y al de la Subprocuraduría General en los juicios que se promuevan en su contra, con motivo del ejercicio de sus funciones, suscribiendo los informes que deban rendirse ante la autoridad judicial. Asimismo, podrá representar a las personas titulares de la Secretaría General, de la Coordinación General de Oficinas de Representación, Direcciones Generales, así como a los mandos superiores y medios, para los mismos efectos;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX BIS. Autorizar por oficio, en el ámbito de sus atribuciones, la representación legal de la Procuraduría a otras personas servidoras públicas de la misma, ante las distintas autoridades judiciales, administrativas y del trabajo, a efecto de que intervengan en las diligencias procesales correspondientes ante los diversos órganos jurisdiccionales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Impugnar de manera directa o a través de la persona servidora pública que, al efecto designe la persona titular de la Procuraduría o de la Subprocuraduría General, los actos a que se refiere el artículo 61 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XI. Revisar y opinar los oficios circulares que contengan lineamientos y criterios jurídicos, propuestos por las Direcciones Generales, previo a la autorización de las personas titulares de la Procuraduría, Subprocuraduría General, Secretaría General o Coordinación General de Oficinas de Representación, según corresponda; así como su posterior emisión, clasificación, sistematización y actualización en la Normateca Interna en coordinación con las unidades administrativas respectivas;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XII. Emitir opiniones jurídicas, en relación con las consultas o asuntos que le requieran las unidades administrativas de la Procuraduría, así como definir criterios jurídicos, interpretar y orientar sobre la aplicación del presente Reglamento o respecto de los casos no previstos en el mismo, con el objeto de resolver contradicciones entre las unidades administrativas que la conforman;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII. Emitir opiniones jurídicas sobre las consultas que le formulen las y los sujetos agrarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Formular y revisar los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos que le encomiende la persona titular de la Subprocuraduría General;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XV. De acuerdo con los requerimientos de las unidades administrativas, formular las bases y revisar los requisitos legales a que deban someterse los convenios y contratos a celebrar por la Procuraduría a nivel central, así como los instrumentos jurídicos de cualquier índole relativos a los derechos y obligaciones patrimoniales de la Procuraduría, con excepción de los relacionados con adquisiciones, arrendamientos de bienes muebles y servicios;
+
+XVI. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XVII. Difundir en forma sistematizada al interior de la Procuraduría las jurisprudencias y tesis relacionadas con las materias agraria, común, laboral y penal, publicadas en el Semanario Judicial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XVIII. Emitir opinión respecto de las excusas e impedimentos que se presenten para su calificación por parte de las personas titulares de la Procuraduría y de la Subprocuraduría General, de conformidad con lo establecido por los artículos 15, fracción XI y 74 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIX. A petición de las unidades administrativas de la Procuraduría, emitir opinión a los instrumentos jurídicos que se pretendan suscribir, considerando los lineamientos que emita esta Dirección General para tal efecto; y una vez firmados se recibirán para su registro, guarda y custodia;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XX. Requerir a las unidades administrativas de la Procuraduría y a cualquier autoridad en general, en el ámbito de su respectiva competencia, información, documentación y cualquier otro tipo de colaboración necesaria para la formulación de denuncias y querellas, substanciación de procedimientos, y en general para la defensa jurídica de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXI. Atender los requerimientos que formulen los órganos jurisdiccionales y las autoridades administrativas, siempre y cuando tengan relación con sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXII. Participar en representación de la Procuraduría, de sus unidades administrativas y de sus titulares, con el carácter de representante o asesor jurídico, en mecanismos alternativos de solución de controversias y, en su caso, en la terminación anticipada de procedimientos penales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXIII. Gestionar ante el Diario Oficial de la Federación las disposiciones jurídicas que genere la Procuraduría y que, en términos de las disposiciones legales, deban ser publicadas en dicho órgano de difusión gubernamental;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXIV. Realizar las funciones de titular de la Unidad de Transparencia, en términos del artículo 61 de la Ley Federal de Transparencia y Acceso a la Información Pública, y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXV. Recibir los escritos que, a petición de parte y dentro de sus atribuciones pudiera requerir el asunto de que se trate, para defender los derechos de las y los sujetos agrarios ante las instancias correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXVI. Recibir, incoar y dirigir las quejas o inconformidades y denuncias que se presenten en contra de las y los sujetos agrarios, o del comisariado ejidal o de bienes comunales o del consejo de vigilancia, con motivo de la violación de las leyes que regulan la materia agraria;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXVII. Someter a consideración de la persona titular de la Procuraduría, los proyectos de resolución para instar a las autoridades agrarias al cumplimiento y eficaz realización de las funciones a su cargo; así como los proyectos de recomendación a que se refiere el artículo 136, fracción IV de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXVIII. Atraer, cuando así lo estime conveniente, cualquier asunto que promueva el personal jurídico adscrito a las Oficinas de Representación en las entidades federativas, en representación de los núcleos de población ejidal o comunal y demás sujetos agrarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXIX. Emitir opinión, escuchando en su caso, a las áreas técnicas correspondientes, respecto de los ordenamientos que le competa firmar a la persona titular de la Procuraduría, para su posterior acuerdo con la misma;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXX. Colaborar en la coordinación de acciones y asesoría jurídica para la elaboración de proyectos de mejora regulatoria respecto de los servicios que presta la Procuraduría, por lo cual será el conducto para solicitar ante la Comisión Nacional de Mejora Regulatoria el Dictamen del Análisis de Impacto Regulatorio o su exención en términos del artículo 75 de la Ley General de Mejora Regulatoria, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXXI. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+La persona titular de la Dirección General Jurídica y de Representación Agraria, se auxiliará para el ejercicio de sus facultades y atribuciones por las personas titulares de las Direcciones de Asuntos Agrarios y Procedimientos Penales; de Representación y Amparo; y de Servicios Jurídicos; además, por las direcciones, subdirecciones de área y jefaturas de departamento que se le adscriban.
 
 ###### Artículo 21.
 
@@ -433,55 +735,89 @@ La Dirección General de Conciliación y Servicios Periciales, tiene las siguien
 
 I. Recabar y evaluar la información de las controversias planteadas entre Sujetos Agrarios, o entre ellos y terceros con interés, y exhortar a estos al diálogo para llegar al avenimiento, como medio preferente para la solución de sus conflictos;
 
-II. Actuar en la vía conciliatoria y poner a consideración de las partes los convenios respectivos, para solucionar los conflictos entre los Sujetos Agrarios conforme al procedimiento establecido en este Reglamento;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-III. Promover, a través de los abogados agrarios adscritos a las Oficinas de Representación en las Entidades Federativas, ante los Tribunales Unitarios Agrarios la ratificación de los convenios conciliatorios, así como, en su caso, su inscripción en el Registro Agrario Nacional;
+II. Actuar en la vía conciliatoria y poner a consideración de las partes los convenios respectivos, para solucionar los conflictos entre las y los sujetos agrarios conforme al procedimiento establecido en este Reglamento;
 
-IV. Colaborar con la capacitación de los servidores públicos de la Procuraduría en materia de conciliación, a fin de lograr que los convenios conciliatorios cumplan con los requisitos de forma y fondo exigidos por la normativa jurídica aplicable;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-V. Capacitar a los peritos de la Procuraduría, por sí o a través de instituciones especializadas en la materia, para el mejor desarrollo de sus funciones;
+III. Promover, a través del personal jurídico adscrito a las Oficinas de Representación en las entidades federativas, ante los Tribunales Unitarios Agrarios la ratificación de los convenios conciliatorios, así como, en su caso, su inscripción en el Registro Agrario Nacional;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV. Colaborar con la capacitación de las personas servidoras públicas de la Procuraduría en materia de conciliación, a fin de lograr que los convenios conciliatorios cumplan con los requisitos de forma y fondo exigidos por la normativa jurídica aplicable;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+V. Capacitar a las y los peritos de la Procuraduría, por sí o a través de instituciones especializadas en la materia, para el mejor desarrollo de sus funciones;
 
 VI. Elaborar informes técnicos en materia topográfica que sean solicitados por las autoridades competentes para la solución de conflictos;
 
-VII. Proporcionar servicios periciales topográficos a los Núcleos de Población Agrarios y a las autoridades que lo requieran relacionadas con la aplicación de la Ley, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VIII. Proporcionar los servicios periciales en materia contable previa acreditación del acuerdo de Asamblea, cuando así lo solicite al menos el veinte por ciento del total de integrantes del Núcleo de Población Agrario y a petición expresa de cualquiera de sus órganos.
+VII. Proporcionar servicios periciales topográficos a los Núcleos de Población Ejidales y Comunales y a las autoridades que lo requieran relacionadas con la aplicación de la Ley;
 
-Para efectos de este artículo, los servicios periciales topográficos referidos en la fracción VII podrán consistir en trabajos topográficos informativos, opiniones técnicas y dictámenes periciales correspondientes, cuando contribuyan a la construcción de acuerdos, con la finalidad de prevenir o resolver conflictos sobre la propiedad o posesión de tierras que involucren a los Sujetos Agrarios.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Proporcionar los servicios periciales en materia contable previa acreditación del acuerdo de Asamblea, cuando así lo solicite al menos el veinte por ciento del total de integrantes del Núcleo de Población Ejidal o Comunal, a petición expresa de cualquiera de sus órganos, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Para efectos de este artículo, los servicios periciales topográficos referidos en la fracción VII podrán consistir en trabajos topográficos informativos, opiniones técnicas y dictámenes periciales correspondientes, cuando contribuyan a la construcción de acuerdos, con la finalidad de prevenir o resolver conflictos sobre la propiedad o posesión de tierras que involucren a las y los sujetos agrarios.
 
 ###### Artículo 22.
 
 La Dirección General de Organización Agraria tiene las siguientes atribuciones:
 
-I. Formular las acciones tendientes a favorecer a los Núcleos de Población Agrarios en sus procesos organizativos, que les permitan elaborar y actualizar sus reglamentos internos y estatutos comunales, así como renovar oportunamente o remover, sus órganos de representación y vigilancia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-II. Coordinar las acciones que se implementen en las Oficinas de Representación en las Entidades Federativas a efecto de que se brinde asesoramiento a los Sujetos Agrarios en:
+I. Implantar estrategias y acciones de apoyo para la organización interna y fortalecimiento de los Núcleos de Población Ejidales y Comunales, así como para la operación, el funcionamiento y renovación de sus órganos de representación y vigilancia;
 
-a) La constitución de figuras asociativas previstas en los artículos 108 al 114 y 125 al 133 de la Ley, así como en la celebración de los contratos y convenios previstos en los artículos 45, 46, 79, 80, 84 y 89 de la Ley, así como en el artículo 102, fracción I de la Ley de Hidrocarburos y 75, fracción I de la Ley de la Industria Eléctrica;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE ABRIL DE 2025)</small>
 
-b) La constitución, reglamentación, adecuada operación y el proyecto de liquidación de las unidades de producción y servicio en parcelas con destino específico, que contemplan los artículos 70, 71 y 72 de la Ley, e (sic)
+II. Coordinar el asesoramiento a las y los sujetos agrarios, por parte de las Oficinas de Representación en las entidades federativas, en la constitución de figuras asociativas; liquidación de las unidades de producción y servicio en parcelas con destino específico; la constitución, reglamentación y operación de las juntas de pobladores, así como en la elaboración de las listas de sucesión y en la incorporación de sus tierras al desarrollo urbano, lo que se realizará en términos de la Ley, su Reglamento y las disposiciones que en su caso emita la persona titular de la Procuraduría;
 
-c) La constitución, reglamentación y adecuada operación de las juntas de pobladores, a que se refieren los artículos 41 y 42 de la Ley;
+a) (DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
+
+b) (DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
+
+c) (DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 III. Coadyuvar con las dependencias y entidades de la Administración Pública Federal que así lo soliciten, en el diseño de programas destinados a fortalecer la organización interna de los grupos y comunidades indígenas que pertenezcan al Núcleo de Población Agrario, buscando con ello salvaguardar su identidad, preservar sus costumbres y promover el mejor aprovechamiento de sus recursos;
 
-IV. Promover acciones interinstitucionales con el fin de implementar la realización y actualización de los libros de registro, contabilidad y administración, así como las relativas al asesoramiento para la elaboración de listas de sucesión de ejidatarios, comuneros y posesionarios y su depósito en el Registro Agrario Nacional;
+IV. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
-V. Coordinar y dirigir las acciones de las Oficinas de Representación en las Entidades Federativas, para asesorar a los ejidos y comunidades a fin de que la incorporación de sus tierras al desarrollo urbano, se sujete a las leyes, reglamentos y planes vigentes en materia de asentamientos humanos y cuidando los intereses de dichos Núcleos de Población Agrarios;
+V. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
 VI. Formular y someter a la consideración de la Dirección General Jurídica y de Representación Agraria, la propuesta de opinión sobre los proyectos de aportación y escritura social de tierras de uso común de ejidos y comunidades, a sociedades civiles o mercantiles, en términos de lo dispuesto por los artículos 75, fracción II y 100 de la Ley, así como respecto a la designación del comisario de las sociedades que se constituyan conforme a lo ordenado en el artículo 75, fracción V de la Ley;
 
-VII. Vigilar que se cumpla con los derechos de preferencia que tiene el Núcleo de Población Ejidal y los ejidatarios, en los casos de liquidación de sociedades a que se refiere el párrafo tercero del artículo 75 de la Ley, en los términos previstos en dicha disposición legal;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VIII. Elaborar el anteproyecto de dictamen de terminación del régimen ejidal, a que se refiere el artículo 23, fracción XII de la Ley, a solicitud del Núcleo de Población Agrario correspondiente, y someter dicho anteproyecto a la consideración del Subprocurador General;
+VII. Conducir la vigilancia para que se cumpla con los derechos de preferencia que tiene el Núcleo de Población Ejidal, así como de las personas ejidatarias, en los casos de liquidación de sociedades;
 
-IX. Emitir opinión a los Sujetos Agrarios interesados, respecto a la legalidad de los actos constitutivos de las diversas formas asociativas que deban ser inscritas en el Registro Agrario Nacional, así como respecto a las cuestiones que, sobre la organización y funcionamiento de dichas asociaciones, le sean cuestionadas;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Elaborar el anteproyecto de dictamen de terminación del régimen ejidal, a que se refiere el artículo 23, fracción XII de la Ley, a solicitud del Núcleo de Población Ejidal correspondiente y someterlo a consideración de la persona titular de la Subprocuraduría General;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Emitir opinión a las y los sujetos agrarios interesados, respecto a la legalidad de los actos constitutivos de las diversas formas asociativas que deban ser inscritas en el Registro Agrario Nacional, así como respecto a las cuestiones que, sobre la organización y funcionamiento de dichas asociaciones, le sean cuestionadas;
 
 X. Emitir los lineamientos para convocar a asamblea de socios de las formas asociativas a que se refiere la fracción anterior, por requerimiento judicial o cuando así lo soliciten sus integrantes en los casos previstos por las leyes aplicables y sus reglamentos;
 
-XI. Participar en programas institucionales que fortalezcan el desarrollo integral de los Núcleos de Población Agrario y los Sujetos Agrarios, y
+XI. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
-XII. Coordinar el servicio de gestión administrativa que brinda la Procuraduría, en apoyo a los Sujetos Agrarios para los trámites o servicios que deban realizar ante las instancias competentes, en aquellos asuntos que, debido a su función, tuviere conocimiento.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XII. Coordinar el servicio de gestión administrativa que brinda la Procuraduría, en apoyo a las y los sujetos agrarios para los trámites o servicios que deban realizar ante las instancias competentes, en aquellos asuntos que, debido a su función, tuviere conocimiento, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
 
 ###### Artículo 23.
 
@@ -489,7 +825,9 @@ La Dirección General de Apoyo al Ordenamiento de la Propiedad Rural tiene las s
 
 I. Planear, programar y coordinar con las unidades administrativas correspondientes, incluyendo a las Oficinas de Representación en las Entidades Federativas de la Procuraduría, las actividades para el desarrollo de los programas de regularización y ordenamiento de la propiedad ejidal y comunal, y supervisar su cumplimiento;
 
-II. Establecer y, en su caso, participar con las unidades administrativas correspondientes en la elaboración de la normatividad aplicable para los programas de regularización y ordenamiento de la propiedad ejidal y comunal, en apego a las disposiciones jurídicas en materia de ordenamiento territorial, desarrollo urbano y medio ambiente; y a su vez someterla a consideración del Subprocurador General;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Establecer y, en su caso, participar con las unidades administrativas correspondientes en la elaboración de la normatividad aplicable para los programas de regularización y ordenamiento de la propiedad ejidal y comunal, en apego a las disposiciones jurídicas en materia de ordenamiento territorial, desarrollo urbano y medio ambiente; y a su vez someterla a consideración de la persona titular de la Subprocuraduría General;
 
 III. Supervisar que las Oficinas de Representación en las Entidades Federativas de la Procuraduría cumplan y apliquen las disposiciones vigentes relativas a los Programas de Regularización y Ordenamiento de la Propiedad Ejidal y Comunal, en particular las contenidas en el Reglamento de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural;
 
@@ -499,55 +837,143 @@ V. Hacer del conocimiento de la Dirección General Jurídica y de Representació
 
 VI. Vigilar que la asignación de derechos parcelarios que realice una asamblea, de superficies con extensión mayores que las equivalentes al cinco por ciento de las tierras ejidales o que excedan los límites establecidos para la pequeña propiedad, sea notificada a la Secretaría;
 
-VII. Verificar que las Oficinas de Representación en las Entidades Federativas asesoren a los sujetos de derecho en los procedimientos de expropiación, delimitación, destino y asignación de derechos, adopción del dominio pleno, conversión del régimen ejidal a comunal, incorporación de tierras al régimen ejidal, cambio de destino de tierras, división, fusión y constitución de nuevos ejidos, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VIII. Verificar que las Oficinas de Representación en las Entidades Federativas, otorguen a los Sujetos Agrarios de las colonias agrícolas y ganaderas y terrenos nacionales el asesoramiento en materia de ordenamiento territorial en términos del Ley, y
+VII. Verificar que las Oficinas de Representación en las entidades federativas asesoren a las y los sujetos de derecho en los procedimientos de expropiación, delimitación, destino y asignación de derechos, adopción del dominio pleno, conversión del régimen ejidal a comunal, incorporación de tierras al régimen ejidal, cambio de destino de tierras, división, fusión y constitución de nuevos ejidos, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Verificar que las Oficinas de Representación en las entidades federativas, otorguen a las y los sujetos agrarios de las colonias agrícolas y ganaderas y terrenos nacionales el asesoramiento en materia de ordenamiento territorial en términos del Ley;
 
 IX. Actualizar y administrar el registro de las altas y bajas de los Núcleos de Población Agrarios, en el sistema informático de la Procuraduría.
 
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 24.
 
-La Dirección General de Programación, Organización y Presupuesto tiene las siguientes atribuciones:
+La Dirección General de Programación, Presupuesto y Finanzas tiene las siguientes atribuciones:
 
-I. Coordinar la integración del proyecto anual de los programas presupuestal, operativo y sectorial de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-II. Revisar y adecuar la estructura programática de la Procuraduría, en coordinación con las unidades administrativas responsables de la ejecución de presupuestos y programas, con apego a las disposiciones jurídicas aplicables;
+I. Coordinar las actividades relativas a los procesos en materia de programación, presupuesto, ejercicio, control y evaluación, respecto del gasto público de la Procuraduría, de conformidad con la normatividad aplicable en la materia, así, como proponer a la persona titular de la Secretaría General las políticas internas;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Fungir como instancia administrativa única de la Procuraduría para la presentación de información, trámites y consultas en materia presupuestaria, contable y fiscal ante la coordinadora sectorial;
 
 III. Establecer los lineamientos para la elaboración de los manuales de organización, procedimientos y servicios al público;
 
-IV. Coadyuvar al establecimiento de los objetivos, estrategias y metas de los diversos programas, así como a definir las prioridades del Programa Operativo Anual y su correspondiente presupuesto de gasto;
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-V. Integrar la información programática, presupuestal y su estadística que se requiera para la toma de decisiones;
+III BIS. Validar la suficiencia presupuestaria a solicitud de las unidades administrativas de la Procuraduría que requieran suscribir instrumentos jurídicos que impliquen la erogación de recursos mediante el mecanismo establecido para tal fin;
 
-VI. Evaluar, mediante el sistema de seguimiento físico y financiero, los avances de los programas y presupuestos, señalar sus desviaciones y proponer los ajustes correspondientes;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VII. Normar los sistemas de registro y control presupuestal y consolidar la información respectiva;
+IV. Emitir las cuentas por liquidar certificadas para el pago de compromisos con cargo al presupuesto autorizado de la Procuraduría, con base en los requerimientos de las unidades administrativas responsables del gasto;
 
-VIII. Definir los criterios para la formulación de las propuestas de actualización de la estructura orgánica y funcional de la Procuraduría y emitir los dictámenes correspondientes;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IX. Elaborar los informes anuales relativos a las actividades de la Procuraduría, en los términos de las disposiciones jurídicas aplicables, y
+V. Llevar el control y seguimiento del ejercicio del presupuesto de las unidades administrativas de la Procuraduría;
 
-X. Presentar, en el ámbito de su competencia, los informes que correspondan a la Procuraduría Agraria y establecer los mecanismos de coordinación con la Secretaría, para la integración uniforme de la información agraria.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VI. Integrar la contabilidad y elaborar los estados financieros de la Procuraduría, conforme a las disposiciones administrativas y jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VII. Integrar los informes del estado del ejercicio del presupuesto de la Procuraduría, que permitan la adecuada toma de decisiones;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Proponer a la persona con el nivel jerárquico superior, las políticas para la óptima administración de los recursos financieros de las unidades administrativas de la Procuraduría conforme a las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Presentar, en el ámbito de su competencia, los informes requeridos por las diferentes instancias y firmar los contratos y convenios en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Coordinar la integración del anteproyecto de presupuesto de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XI. Establecer los mecanismos y acciones necesarias para el adecuado control presupuestario en función de los planes, programas y proyectos de la Procuraduría con el propósito de optimizar el ejercicio del presupuesto, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XII. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
 
 ###### Artículo 25.
 
 La Dirección General de Administración tiene las siguientes atribuciones:
 
-I. Aplicar criterios internos que rijan la implementación de normas, sistemas y procedimientos que deben emplearse en la Procuraduría en las materias de administración de los recursos humanos, materiales y financieros, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+I. Implementar los criterios, normas, sistemas y procedimientos que deben emplearse en la Procuraduría en la administración de los recursos humanos y materiales. Lo anterior, acorde a los criterios establecidos por la persona titular de la Secretaría General y de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+I BIS. Coordinar con la Dirección General de Programación, Presupuesto y Finanzas, el anteproyecto de presupuesto de servicios personales de la Procuraduría y sus modificaciones;
 
 II. Actualizar y vigilar el cumplimiento de las normas internas de trabajo;
 
-III. Establecer los procedimientos de reclutamiento, selección, formación, capacitación y promoción del personal, para los puestos de la Procuraduría que no estén contemplados en el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IV. Proponer al Secretario General los convenios y contratos que afecten el presupuesto, así como formalizar los documentos que impliquen actos de administración;
+III. Implementar los procedimientos de reclutamiento, selección, formación, capacitación, evaluación del desempeño y promoción del personal, para los puestos de la Procuraduría, incluyendo los del Servicio Profesional Agrario de Carrera, conforme a las directrices que establezca la persona titular de la Procuraduría y/o la persona titular de la Secretaría General;
 
-V. Efectuar el pago de las erogaciones autorizadas por el presupuesto de egresos; coadyuvar en el registro y control presupuestal; llevar los registros contables y elaborar los estados financieros, conforme a la normatividad vigente;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VI. Controlar los ingresos y egresos de la Procuraduría, así como vigilar que las adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma y las enajenaciones de la Procuraduría se efectúen con estricto apego a la normativa jurídica aplicable;
+IV. Proponer a la persona titular de la Secretaría General, la celebración de los convenios y contratos que afecten el presupuesto o que impliquen actos de administración a nivel central y, en su caso suscribirlos; previa opinión, en su caso, de la Dirección General Jurídica y de Representación Agraria, así como de la validación de suficiencia presupuestaria por parte de la Dirección General de Programación, Presupuesto y Finanzas;
 
-VII. Administrar los almacenes y operar los servicios generales, y
+V. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
-VIII. Coordinar el Comité Interno de Protección Civil.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VI. Vigilar que las adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma, se efectúen con estricto apego a la normativa jurídica aplicable;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VII. Administrar los almacenes y operar los servicios generales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VII BIS. Coordinar, controlar y supervisar la prestación de los servicios de la administración y distribución de los documentos oficiales; así como, el sistema de archivo de la Procuraduría;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Implementar el programa de protección civil institucional, así como coordinar el Comité Interno de Protección Civil. Lo anterior, acorde a los criterios establecidos por la persona titular de la Secretaría General y de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IX. Promover el cumplimiento de las disposiciones jurídicas que regulan las materias de ética, integridad, prevención de conflictos de interés, hostigamiento y acoso sexual, así como actos de discriminación y violencia laboral;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Proponer a la persona titular de la Secretaría General los criterios y lineamientos operativos y normativos para el debido cumplimiento de las facultades que le confiere este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XI. Apoyar a la persona titular de la Secretaría General, conforme a las directrices que determine y demás disposiciones jurídicas aplicables, en la conducción de las relaciones laborales con la Secretaría, con las representaciones sindicales correspondientes, en términos de las Condiciones Generales de Trabajo y/o el Contrato Colectivo de Trabajo;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XII. Conducir la actualización del catálogo de puestos, así como, las descripciones y perfiles de puestos de la Procuraduría, conforme al marco normativo aplicable;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII. Consolidar e implementar los programas anuales de adquisiciones, arrendamientos y servicios; de disposición final y baja de bienes muebles; y de Aseguramiento de Bienes Patrimoniales de la Procuraduría, conforme a las disposiciones jurídicas aplicables y a las directrices dictadas por la persona titular de la Secretaría General;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Participar en los Comités que se constituyan, cuando estos involucren temas relacionados con la unidad administrativa de su competencia, en los términos que señalen las disposiciones jurídicas aplicables y de acuerdo con los criterios establecidos por la persona titular de la Secretaría General, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XV. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
 
 ###### Artículo 26.
 
@@ -567,67 +993,123 @@ VI. Dirigir la implementación de los mecanismos que tiendan a la automatizació
 
 VII. Diseñar la implementación de los mecanismos y tecnologías de la información y comunicación que permitan el análisis, difusión, integración, actualización y vinculación de información alfanumérica de la Procuraduría con las dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas, municipales y alcaldías;
 
-VIII. Dirigir, elaborar y proponer al Secretario General, el Programa de Tecnologías de la Información y Comunicación de la Procuraduría, así como disponer las medidas necesarias para salvaguardar el uso de los recursos informáticos y de telecomunicaciones asignados a las unidades administrativas, Oficinas de Representación en las Entidades Federativas y Residencias de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IX. Proponer al Secretario General los criterios, directrices y programas que tengan por objeto mantener actualizada la infraestructura de cómputo, telecomunicaciones y equipos auxiliares de la Procuraduría y evaluar el funcionamiento de la misma, en congruencia con los requerimientos de las unidades administrativas, incluyendo a las Oficinas de Representación en las Entidades Federativas y Residencias de la Procuraduría;
+VIII. Dirigir, elaborar y proponer a la persona titular de la Secretaría General, el Programa de Tecnologías de la Información y Comunicación de la Procuraduría, así como disponer las medidas necesarias para salvaguardar el uso de los recursos informáticos y de telecomunicaciones asignados a las unidades administrativas de la Procuraduría;
 
-X. Dictaminar las propuestas de adquisición, instalación, operación y mantenimiento de los equipos informáticos y de telecomunicaciones, y sobre la contratación de servicios que en la materia sean destinados a las unidades administrativas, incluyendo a las Oficinas de Representación en las Entidades Federativas y Residencias de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XI. Proponer a la Secretaría General los programas y presupuestos anuales, destinados a proporcionar los servicios informáticos y de comunicaciones, con base en los requerimientos de las unidades administrativas, incluyendo a las Oficinas de Representación en las Entidades Federativas y Residencias, en apego a la normativa aplicable;
+IX. Proponer a la persona titular de la Secretaría General, los criterios, directrices y programas que tengan por objeto mantener actualizada la infraestructura de cómputo, telecomunicaciones y equipos auxiliares de la Procuraduría y evaluar su funcionamiento, en congruencia con los requerimientos de sus unidades administrativas; así como, para controlar la asignación y baja de los bienes informáticos, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Evaluar las propuestas de adquisición, instalación, operación y mantenimiento de los equipos informáticos, de telecomunicaciones, auxiliares y de transmisión; y sobre la contratación de servicios, incluyendo programas y licenciamiento, que en la materia sean destinados a las unidades administrativas de la Procuraduría, de acuerdo con las disposiciones jurídicas aplicables y en su caso firmar los instrumentos jurídicos en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XI. Proponer a la persona titular de la Secretaría General los programas y presupuestos anuales, destinados a proporcionar los servicios informáticos y de comunicaciones, con base en los requerimientos de las unidades administrativas, en apego a la normativa aplicable;
 
 XII. Coordinar al personal de la Procuraduría que realice actividades o funciones en materia de informática y de telecomunicaciones;
 
-XIII. Cumplir con los lineamientos para el uso y aprovechamiento de los bienes, servicios, programas informáticos y respaldo de información, que emita la Coordinadora de Sector, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XIV. Las demás funciones que determine el Procurador Agrario.
+XIII. Cumplir con los lineamientos para el uso y aprovechamiento de los bienes, servicios, programas informáticos y respaldo de información, que emita la Coordinadora de Sector;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII BIS. Realizar el análisis, diseño, elaboración y mantenimiento de la página de internet de la Procuraduría, en coordinación con las personas que fungen como enlaces responsables de informática en las diversas unidades administrativas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII TER. Coordinar la implementación de las medidas de control interno que permitan asegurar la integridad y continuidad de los servicios en materia de informática y telecomunicaciones; así como, las interfaces y aplicaciones necesarias para integrar los sistemas de la Procuraduría a los sistemas intergubernamentales e interestatales, según sea requerido;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII QUÁTER. Diseñar, organizar y administrar los medios y aplicaciones informáticos para establecer los servicios de trámites electrónicos a la ciudadanía y servicios internos a las personas servidoras públicas de la Procuraduría vía internet, intranet y extranet, en coordinación con las unidades administrativas responsables de esos trámites, aplicando protocolos de seguridad para el resguardo de información confidencial y de las bases de datos de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII QUINQUIES. Establecer lineamientos generales en materia de informática y telecomunicaciones, así como integrar e implementar el portafolio de proyectos de tecnologías de la información y comunicación de la Procuraduría; previa opinión de la Agencia de Transformación Digital y Telecomunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIII SEXIES. Coordinar y supervisar la capacitación del personal en materia de informática, para el mejor uso y aprovechamiento de los equipos, servicios, sistemas y herramientas informáticas de la Procuraduría, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría o la persona superior jerárquica.
 
 ### Capítulo VI. De las Oficinas de Representación en las Entidades Federativas y Residencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 27.
 
-Las Oficinas de Representación en las Entidades Federativas y Residencias se establecerán en número, lugar y con la circunscripción territorial que determine el Procurador Agrario.
+Las Oficinas de Representación en las entidades federativas y Residencias se establecerán en número, lugar y con la circunscripción territorial que determine la persona titular de la Procuraduría.
 
-Al frente de cada Oficina de Representación en las Entidades Federativas habrá un representante quien, para el ejercicio de sus atribuciones, será auxiliado por los subrepresentantes, residentes, jefes de departamento, abogados agrarios, visitadores y demás servidores públicos que permita el presupuesto autorizado a la Procuraduría y conforme a las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Al frente de cada Oficina de Representación en las entidades federativas habrá un Representante, quien, para el ejercicio de sus atribuciones, se auxiliará por las subrepresentaciones, residencias, jefaturas de departamento, personal jurídico, personas organizadoras agrarias y demás personas servidoras públicas que permita el presupuesto autorizado a la Procuraduría y conforme a las disposiciones jurídicas aplicables.
 
 Las Oficinas de Representación en las Entidades Federativas, brindarán a las Delegaciones de la Secretaría del Bienestar el apoyo que estas requieran para el cumplimiento de sus atribuciones.
 
 Las Oficinas de Representación en las Entidades Federativas, recibirán de las Delegaciones de la Secretaría de Bienestar las demandas ciudadanas que le correspondan a la Procuraduría para su conocimiento y atención, asimismo, rendirán a dichas Delegaciones un informe de la atención proporcionada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 28.
 
-Los representantes titulares de las Oficinas de Representación en las Entidades Federativas tienen, dentro de la circunscripción territorial que se les asigne, las siguientes atribuciones:
+Las personas titulares de las Oficinas de Representación en las entidades federativas tienen, dentro de la circunscripción territorial que se les asigne, las siguientes atribuciones:
 
-I. Ejercer las atribuciones que competen a la Procuraduría, siguiendo los lineamientos que señale el Procurador Agrario y con apego a las normas, programas, circulares y demás disposiciones que para tal efecto se expidan;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-II. Llevar a cabo la representación de los Sujetos Agrarios a que se refiere el artículo 135 de la Ley, así como proporcionar asesoramiento en las consultas jurídicas que les planteen aquellos;
+I. Ejercer las atribuciones que competen a la Procuraduría, siguiendo los lineamientos que señale su titular y con apego a las normas, programas, circulares y demás disposiciones que para tal efecto se expidan;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Llevar a cabo la representación de las y los sujetos agrarios a que se refiere el artículo 135 de la Ley, así como proporcionar asesoramiento en las consultas jurídicas que les planteen;
 
 III. Promover, como vía de acción preferente, la conciliación de intereses entre las partes en las controversias en materia agraria;
 
-IV. Hacer del conocimiento del Procurador Agrario y, en su caso, de la autoridad competente, la violación de los derechos agrarios por parte de cualquier autoridad;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV. Hacer del conocimiento de la persona titular de la Procuraduría y, en su caso, de la autoridad competente, la violación de los derechos agrarios por parte de cualquier autoridad;
 
 V. Prever lo conducente para que, con el auxilio y la participación de las autoridades locales, se ejerzan las funciones de inspección y vigilancia en términos de la fracción VII del artículo 136 de la Ley;
 
-VI. Orientar y asesorar a los Sujetos Agrarios en sus trámites y gestiones ante las autoridades administrativas o judiciales, para el reconocimiento y el ejercicio de sus derechos agrarios;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VII. Asesorar y, en su caso, representar a los Sujetos Agrarios en los procedimientos y gestiones para obtener la regularización y titulación de la tenencia de su tierra ejidal o comunal;
+VI. Orientar y asesorar a las y los sujetos agrarios en sus trámites y gestiones ante las autoridades administrativas o judiciales, para el reconocimiento y el ejercicio de sus derechos agrarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VII. Asesorar y, en su caso, representar a las y los sujetos agrarios en los procedimientos y gestiones para obtener la regularización y titulación de la tenencia de su tierra ejidal o comunal;
 
 VIII. Convocar a asamblea de ejidos y comunidades en los términos de los artículos 24 y 40 de la Ley, cuando se nieguen a hacerlo el comisariado o el consejo de vigilancia;
 
 IX. Vigilar las reuniones de la asamblea ejidal en las que se traten los asuntos a que se refiere el artículo 23, fracciones VII a XIV de la Ley, así como verificar que la convocatoria respectiva se realice de acuerdo con lo dispuesto en el artículo 25 de la misma;
 
-X. Orientar y brindar asesoramiento a los Núcleos de Población Agrarios en su organización interna, así como en los procesos de asociación con otros núcleos o con particulares y, en su caso, a petición de parte representar legalmente a los Sujetos Agrarios en las negociaciones para la elaboración de los contratos de uso y ocupación superficial de sus tierras;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XI. Brindar, a petición de parte, la asesoría y representación legal a los Sujetos Agrarios que prevén la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+X. Orientar y brindar asesoramiento a los Núcleos de Población Ejidales y Comunales en su organización interna, así como en los procesos de asociación con otros núcleos o con particulares y, en su caso, a petición de parte representar legalmente a las y los sujetos agrarios en las negociaciones para la elaboración de los contratos de uso y ocupación superficial de sus tierras;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XI. Brindar, a petición de parte, la asesoría y representación legal a las y los sujetos agrarios que prevén la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
 
 XII. Formular las opiniones y rendir los informes que les sean solicitados por la Coordinación General de Oficinas de Representación o por cualquier otra unidad administrativa de la Procuraduría;
 
 XIII. Elaborar los anteproyectos de programas anuales de trabajo y el anteproyecto de presupuesto de las Oficinas de Representación en las Entidades Federativas;
 
-XIV. Expedir copias certificadas de documentos que obran en los archivos que se encuentran en la Oficinas de Representación en las Entidades Federativas y, en su caso, en las Residencias que de ellas dependen observando las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo o en las Residencias bajo su adscripción, incluyendo archivos y documentos físicos, electrónicos y digitales, a los que tengan acceso o tengan a la vista con motivo del ejercicio de sus atribuciones;
 
 XV. Desahogar las diligencias que le sean instruidas con motivo de las investigaciones que la Procuraduría efectué sobre violaciones a la legislación agraria, y
 
-XVI. Las demás facultades que le atribuyan otras disposiciones legales y administrativas aplicables, así como las que les confiera el Procurador Agrario.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XVI. Las demás facultades que les atribuyan otras disposiciones legales y administrativas aplicables, así como las que le confiera la persona titular de la Procuraduría, la persona superior jerárquica, o que les corresponda por suplencia.
 
 ###### Artículo 29.
 
@@ -635,333 +1117,289 @@ Las Residencias dependen de la Oficina de Representación en las Entidades Feder
 
 ### Capítulo VII. De las Visitadurías Especiales
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 30.
 
-Los Visitadores Especiales tienen a su cargo la atención de los asuntos que específicamente les encomiende el Procurador Agrario, de quien dependerán directamente.
+Las personas titulares de las Visitadurías Especiales tienen a su cargo la atención de los asuntos que específicamente les encomiende la persona titular de la Procuraduría, de quien dependerán directamente.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 31.
 
-A los Visitadores Especiales se les podrán asignar asuntos por materia o por territorio, y para su cumplimiento deberán coordinar sus actividades con los servidores públicos titulares de las Oficinas de Representación en las Entidades Federativas correspondientes.
+A las personas titulares de las Visitadurías Especiales se les podrán asignar asuntos por materia o por territorio, y para su cumplimiento deberán coordinar sus actividades con las personas titulares de las Oficinas de Representación en las entidades federativas correspondientes.
 
-### Capítulo VIII. Del Comité Permanente de Control y Seguimiento
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+### Capítulo VIII. Del Comité Consultivo y de Participación de la Procuraduría Agraria
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 32.
 
-El Comité Permanente de Control y Seguimiento, es un foro constituido en el seno de la Procuraduría, como una instancia de interlocución y participación de las organizaciones sociales campesinas más representativas y de los servidores públicos de la Procuraduría. Tiene por objeto el análisis de temas trascendentes en cuestiones agrarias y proporcionar asesoría jurídica de los asuntos agrarios que en él se planteen, así como dar seguimiento a las acciones implementadas para su solución.
+El Comité Consultivo Ejidal y Comunal Agrario, es un foro constituido en el seno de la Procuraduría, como una instancia de interlocución y participación de las organizaciones de los Núcleos de Población Ejidales y Comunales más representativas y de las personas servidoras públicas de la Procuraduría. El Comité tiene por objeto el análisis de temas trascendentes en cuestiones agrarias y proporcionar asesoría jurídica de los asuntos que en él se planteen, así como dar seguimiento a las acciones implementadas para su solución.
 
-En las Oficinas de Representación en las Entidades Federativas y Residencias de la Procuraduría, podrá constituirse un Comité Estatal o Regional de Control y Seguimiento, respectivamente, en el que participarán las organizaciones campesinas más representativas de la entidad federativa o región de que se trate, y los servidores públicos que el Representante designe.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+En las Oficinas de Representación en las entidades federativas y Residencias de la Procuraduría, podrá constituirse un Comité Consultivo Ejidal y Comunal Agrario Estatal o Municipal, según corresponda, en el que participarán las organizaciones de los Núcleos de Población Ejidales y Comunales más representativas de la entidad federativa o municipio de que se trate, y las personas servidoras públicas que la o el Representante designe.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 33.
 
-El Comité Permanente de Control y Seguimiento formulará su programa y agenda de trabajo por conducto del Secretario Técnico que al efecto se designe, quien convocará a las sesiones y tiene a su cargo la elaboración de las actas correspondientes y el seguimiento de los acuerdos que se tomen.
+El Comité Consultivo Ejidal y Comunal Agrario formulará su programa y agenda de trabajo por conducto de su Secretariado Técnico, quien convocará a las sesiones y tendrá a su cargo la elaboración de las actas correspondientes y el seguimiento de los acuerdos que se tomen.
 
-### Capítulo IX. De los Procedimientos
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+### Capítulo IX.. De los Procedimientos
 
 #### Sección Primera. Disposiciones Generales
 
 ###### Artículo 34.
 
-Los servicios que presta la Procuraduría son gratuitos.
-
-En los trámites de los procedimientos se estará a los principios de oralidad, economía procesal, inmediatez, suplencia en la deficiencia de la queja e igualdad formal de las partes.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 35.
 
-Las solicitudes relativas a la prestación de los servicios que proporciona la Procuraduría, no requieren de formalidad determinada; podrán hacerse por los interesados o sus representantes ante cualquier oficina de la propia Procuraduría. Cuando las solicitudes provengan de personas que pertenezcan a una comunidad indígena y no hablaren español, se les proporcionará un intérprete para la realización de sus gestiones.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 36.
 
-Para efecto del presente Reglamento se entenderán por días, los días hábiles.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 37.
 
-Con base en la solicitud o acta de comparecencia, la Procuraduría dispondrá la adopción inmediata de las medidas que sean pertinentes.
-
-La Procuraduría, al recibir una solicitud podrá desecharla cuando el asunto planteado no sea de su competencia, o bien, cuando el promovente no acredite su interés o personalidad jurídica. En el primer supuesto asesorará al solicitante respecto a la autoridad que sea competente para conocer del asunto y el trámite a seguir; en el segundo supuesto, prevendrá al promovente para que acredite su interés o su personalidad jurídica, o ambos, dentro de un plazo de quince días, contados a partir del día siguiente en el que se le notificó la prevención.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 38.
 
-La Procuraduría, al admitir la solicitud procederá al análisis de la petición y la clasificará, con base en el catálogo del sistema único de información, a fin de darle el trámite que corresponda.
-
-Si el promovente no realiza acción alguna en el expediente en el que se actúa, en el plazo de seis meses, se decretará la caducidad del servicio, salvo que dicha inactividad derive de algún acto de autoridad.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 39.
 
-La Procuraduría, a petición de los Sujetos Agrarios, los representará ante los órganos jurisdiccionales, en los términos de la Ley y el presente Reglamento observando, en su caso, las acciones siguientes:
-
-I. Cuando en el conflicto de que se trate, ambas partes sean Sujetos Agrarios y ambas soliciten a la Procuraduría que los represente; la propia Procuraduría promoverá que, la controversia de que se trate se resuelva por la vía de la conciliación;
-
-II. En la representación de los Sujetos Agrarios, la Procuraduría no podrá patrocinar simultáneamente a las partes en conflicto, salvo lo previsto por la Ley, y
-
-III. La Procuraduría podrá celebrar convenios de colaboración con las entidades federativas, a efecto de que estas proporcionen asistencia jurídica a los Sujetos Agrarios.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 #### Sección Segunda. De la conciliación
 
 ###### Artículo 40.
 
-La conciliación constituye la vía preferente para resolver los conflictos sobre derechos agrarios que le sean planteados a la Procuraduría, y que no se trate de asuntos que por su naturaleza deba acordarlos la asamblea de los Núcleos de Población Agrarios.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 41.
 
-La Dirección de Quejas y Denuncias, exhortará a las partes sobre la conveniencia de llevar a cabo el procedimiento conciliatorio antes de que estas determinen dirimir su controversia ante los Tribunales Agrarios y las convocará, bajo el principio de buena fe, a no interrumpir la conciliación mediante el ejercicio de acciones de carácter judicial.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 42.
 
-La conciliación se desarrollará conforme al siguiente procedimiento:
-
-I. Se exhortará a las partes a dirimir su controversia si, conforme al análisis a que se refiere el artículo 38 de este Reglamento, el asunto de que se trate es materia de conciliación; de ser así, se celebre el convenio respectivo;
-
-II. El servidor público, encargado del asunto, deberá allegarse de la información que sea necesaria para contar con un panorama general de la controversia y de sus posibles soluciones;
-
-III. El servidor público que al efecto se designe, deberá analizar la legalidad de las propuestas de conciliación;
-
-En cualquier caso, los acuerdos del convenio deberán apegarse a la Ley o las disposiciones normativas que rijan el acto de que se trate;
-
-IV. El convenio que, en su caso, se celebre lo firmarán las partes en conflicto y dos testigos designados por ambas partes, de no saber escribir, estamparán su huella digital y se hará constar dicha circunstancia. También será firmado por el conciliador, con lo cual se dará por terminado el conflicto;
-
-V. La Procuraduría promoverá la ratificación de los convenios conciliatorios, cuando modifiquen derechos agrarios, ante el Tribunal Unitario Agrario de la jurisdicción de que se trate, y
-
-VI. Cuando los convenios referidos en la fracción anterior contengan actos susceptibles de inscripción, conforme a la Ley y los reglamentos aplicables, la Procuraduría, a través de la Dirección de Conciliación y Servicios Periciales, solicitará al Registro Agrario Nacional dicho servicio.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 #### Sección Tercera. De las Quejas
 
 ###### Artículo 43.
 
-El procedimiento de queja tiene por objeto instar a las autoridades agrarias a la realización de funciones a su cargo y emitir las recomendaciones que considere pertinentes, para hacer respetar el derecho de los Sujetos Agrarios, por violaciones a las leyes que regulan la materia agraria.
-
-La Procuraduría, a través de la Dirección de Quejas y Denuncias, es competente para investigar la comisión de posibles violaciones de derechos agrarios por actos u omisiones cometidos por servidores públicos o integrantes de los órganos de representación ejidales o de bienes comunales.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 44.
 
-Las quejas que se presenten a la Procuraduría podrán efectuarse en forma escrita u oral.
-
-La queja por escrito podrá presentarse en la oficialía de partes de las oficinas de la Procuraduría o vía internet mediante correo electrónico o a través del sitio web de la Procuraduría.
-
-La queja oral podrá presentarse mediante comparecencia que haga el solicitante en las oficinas de la Procuraduría. En caso de la comparecencia, la Procuraduría, a través de la Dirección de Quejas y Denuncias, levantará un acta en la que asentará la queja y auxiliará al solicitante para que en esta se hagan constar los elementos señalados en el párrafo siguiente.
-
-La queja que se presente, escrita u oral, no requiere de más formalidades que las siguientes:
-
-I. El nombre y domicilio del Sujeto Agrario o de su representante legal;
-
-II. Nombre del servidor público responsable o del integrante del órgano de representación o vigilancia del comisariado ejidal o de bienes comunales, a quienes se les impute la violación de los derechos agrarios;
-
-III. La descripción de los hechos que violen las normas agrarias, con expresión de las circunstancias de tiempo, modo y lugar, y los elementos de prueba que los sustenten, y
-
-IV. La firma o huella digital del interesado.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 45.
 
-Cuando la Procuraduría reciba una queja que no cumpla con lo establecido en el artículo anterior, le señalará al solicitante las deficiencias de esta y lo prevendrá para que subsane dichas deficiencias en un plazo de ocho días, contados a partir del día siguiente a aquel en el que se notifique la prevención.
-
-Cuando el solicitante no subsane las deficiencias de la queja en el plazo conferido, la Dirección de Quejas y Denuncias la tendrá por no admitida, sin perjuicio de que posteriormente el solicitante presente de nueva cuenta su queja.
-
-Lo anterior sin perjuicio de que en aquellos casos en que, por la gravedad de los hechos, la Dirección de Quejas y Denuncias radique el expediente de manera oficiosa.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 46.
 
-Admitida la queja, la Dirección de Quejas y Denuncias radicará el expediente y procederá a la calificación de cada uno de los hechos y, en su caso, a dictar las medidas necesarias para la defensa de los derechos de sus asistidos.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 47.
 
-La Dirección de Quejas y Denuncias remitirá, sin mayor trámite, copia del expediente al Órgano Interno de Control o instancia homóloga correspondiente, cuando de los elementos aportados se desprendan hechos que pudieran constituir responsabilidades administrativas de servidores públicos.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 48.
 
-Cuando la queja verse sobre posibles violaciones a normas agrarias, se procederá de la siguiente manera:
-
-I. Si son presuntamente cometidas por particulares, la Dirección de Quejas y Denuncias desechará la queja y ofrecerá al quejoso sus servicios de conciliación o representación jurídica; o
-
-II. Si los hechos son cometidos por servidores públicos o por los órganos de representación y de vigilancia de los Núcleos de Población Agrario, y se cuenta con los elementos mínimos para acreditar los hechos, se admitirá la queja a trámite y se procederá a la investigación.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 49.
 
-Si la queja no contiene los elementos suficientes para iniciar la investigación se emitirá al quejoso acuerdo para mejor proveer, a efecto de que, dentro del plazo de quince días siguientes a su recepción, efectué las aclaraciones y aporte más elementos. Si el quejoso no diera cumplimiento al acuerdo, la queja se desechará.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 50.
 
-Admitida la queja, la Dirección de Quejas y Denuncias requerirá a las personas señaladas como responsables para que, en un plazo de quince días, contados a partir del día siguientes a la notificación del acuerdo, rindan un informe pormenorizado en relación con los hechos que se le imputan y acompañe los documentos que lo sustente.
-
-Si concluido este plazo no se rinde el informe solicitado, se hará del conocimiento del Órgano Interno de Control o instancia homóloga para que, de acuerdo con sus atribuciones, determine lo procedente, sin perjuicio de continuar con la investigación correspondiente.
-
-Cuando la queja se interponga en contra de los miembros de los órganos de representación o vigilancia de los Núcleos de Población Agrarios, la Dirección de Quejas y Denuncias solicitará su comparecencia para que, dentro de un plazo de quince días siguientes a su notificación, manifiesten lo que a su derecho convenga y aporten los elementos de prueba que consideren necesarios para fundamentar su dicho.
-
-Las omisiones en los informes rendidos, o en la comparecencia de los órganos de representación y de vigilancia la Dirección de Quejas y Denuncias, le requerirá nuevamente para que de manera precisa se pronuncien sobre las omisiones del caso.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 51.
 
-La Dirección de Quejas y Denuncias podrá practicar las inspecciones oculares que considere pertinentes, para constatar documentos, circunstancias, vestigios, evidencias o pruebas de hechos denunciados o de informes rendidos.
-
-La Dirección de Quejas y Denuncias solicitará la colaboración de autoridades, dependencias, servidores públicos, órganos de representación y de vigilancia para que, en el ámbito de sus competencias, proporcionen opiniones técnicas o jurídicas, documentos que posean, o bien, información que conozcan derivada de sus funciones y que contribuyan al esclarecimiento de los hechos.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 52.
 
-La Dirección de Quejas y Denuncias podrá instar a los servidores públicos correspondientes a que adopten las medidas cautelares que procedan a fin de evitar la realización, continuación o consumación de las violaciones denunciadas o la producción de daños de difícil reparación.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 53.
 
-Concluida la etapa de investigación, la práctica de diligencias y el desahogo de pruebas, Dirección de Quejas y Denuncias, emitirá la resolución correspondiente, basándose exclusivamente en los hechos acreditados, las pruebas existentes y la motivación que con base en la ley se efectúe.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 54.
 
-La resolución que pone fin al procedimiento de queja determinará:
-
-I. Si ha quedado acreditada o no la violación a los derechos agrarios cometidos por servidores públicos o integrantes de los órganos de representación ejidales o de bienes comunales;
-
-II. La presentación de una denuncia ante el Órgano Interno de Control correspondiente o instancia homóloga, cuando de la investigación se adviertan elementos suficientes para presumir responsabilidades administrativas por parte de servidores públicos, federales, de las entidades federativas, municipales y alcaldías señalados en la queja;
-
-III. En caso de que, durante el curso de la investigación de la queja presentada, se advierta la posible comisión de conductas tipificadas como delitos; la Dirección de Quejas y Denuncias remitirá copia certificada del expediente a la Dirección General Jurídica y de Representación Agraria, a efecto de que esta última presente la denuncia correspondiente ante las autoridades competentes, de considerarlo pertinente;
-
-IV. Instar a servidores públicos o integrantes de los órganos de representación o vigilancia de los ejidos y comunidades al cumplimiento de sus obligaciones, y
-
-V. Recomendar a las autoridades, dependencias, servidores públicos, para evitar o corregir violaciones graves o reiteradas de los derechos agrarios.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 55.
 
-Se instará a los servidores públicos para que, en un plazo de treinta días, cumplan con sus obligaciones o realice (sic) las funciones a su cargo para evitar ineficiencias administrativas menores que repercutan en la prestación oportuna de los servicios requeridos por los Sujetos Agrarios.
-
-La Dirección de Quejas y Denuncias otorgará un plazo de treinta días a efecto de que se subsanen las irregularidades detectadas, transcurrido el cual, y de no haberse satisfecho, se procederá a la emisión de una Recomendación.
-
-También se instará a los órganos de representación y vigilancia ejidales o de bienes comunales para que, en igual plazo, cumplan con sus obligaciones establecidas en las normas agrarias y de ser posible, subsanar la irregularidad denunciada. En estos casos las Oficinas de Representación en las Entidades Federativas, en la medida de los posible deberán capacitar a los integrantes de los órganos de representación y vigilancia en el ejercicio de sus funciones, para que sus relaciones con los Sujetos Agrarios se realicen conforme a la Ley y se eviten violaciones a los derechos.
-
-Si los sujetos de la queja son servidores públicos de la Procuraduría, el Procurador Agrario les instruirá al cumplimiento de sus obligaciones, además, a subsanar la irregularidad denunciada si es posible.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 56.
 
-La recomendación se notificará personalmente al responsable y se le requerirá para que, en un plazo de treinta días, contados a partir del día siguientes (sic) de efectuada la notificación, manifieste la forma y términos de su cumplimiento. Ante la negativa u omisión, concluido dicho plazo, la Dirección de Quejas y Denuncias, determinará la forma y términos definitivos del cumplimiento.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 57.
 
-La Dirección de Quejas y Denuncias llevará a cabo el seguimiento de las resoluciones y evaluará su cumplimiento.
-
-La Dirección de Quejas y Denuncias, publicará en su portal de internet, el estado del cumplimiento de las recomendaciones que emita, sin perjuicio de hacer del conocimiento de las autoridades competentes las posibles responsabilidades que se deriven de las conductas de los servidores públicos sujetos de las quejas.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 58.
 
-Las resoluciones, deberán contener en su estructura los siguientes elementos:
-
-I. Resultandos, en los que se describan la narración del quejoso respecto de los hechos violatorios a las leyes que regulan la materia agraria y la enumeración de las evidencias que obren en el expediente que acrediten o desvirtúen esa violación;
-
-II. Considerandos, en los que se relacionen los fundamentos jurídicos y los hechos violatorios, así como los razonamientos lógico-jurídicos en los que se soporte la convicción de la existencia de violación o de su no acreditación, según sea el caso, y
-
-III. Resolutivos, en los que se determine la acreditación, o no de los hechos controvertidos, la responsabilidad o no de las personas denunciadas y los derechos y obligaciones que deberán de cumplir las partes.
-
-En el caso de resoluciones para instar o efectuar recomendaciones expresarán, además, las sugerencias o recomendaciones específicas y los plazos dentro de los cuales se solicita su cumplimiento.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 59.
 
-Con independencia del procedimiento de queja, la Procuraduría, a través de sus unidades administrativas competentes, tiene la obligación de proporcionar el servicio que, a petición de parte y dentro de sus atribuciones, pudiera requerir el asunto de que se trate, para defender los derechos de los Sujetos Agrarios ante las instancias correspondientes.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 #### Sección Cuarta. Del Dictamen de Terminación del Régimen Ejidal
 
 ###### Artículo 60.
 
-La Dirección General de Organización Agraria, emitirá el dictamen de terminación del régimen ejidal a que se refiere el artículo 23, fracción XII de la Ley, a solicitud de la asamblea en la que se observen las formalidades especiales señaladas en dicha Ley, con el objeto de que, en su caso, se determine la inexistencia de las condiciones para su permanencia.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 61.
 
-La solicitud deberá efectuarla el órgano de representación del Núcleo de Población Agrario y presentarse en la Oficina de Representación en la Entidad Federativa correspondiente. A la misma se anexarán los documentos que acrediten la existencia de las condiciones para la terminación del régimen ejidal.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 62.
 
-Dentro de los treinta días siguientes a su presentación, la Dirección General de Organización Agraria determinará si la solicitud reúne los requisitos necesarios para la integración del expediente. De no ser así, se prevendrá a los interesados sobre las deficiencias, para que en el plazo de treinta días siguientes sean subsanadas.
-
-Una vez subsanadas las deficiencias, el expediente relativo será remitido a la Dirección General de Organización Agraria para su opinión. Dicha Dirección podrá allegarse de la información que estime conveniente para la emisión de la misma.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 63.
 
-El Subprocurador General, en el plazo de treinta días, contados a partir de la fecha de recepción del expediente, formulará el anteproyecto de dictamen, para determinar sobre su procedencia y factibilidad. Este proyecto será sometido a consideración del Procurador Agrario para la emisión de la opinión correspondiente.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 64.
 
-El Procurador Agrario, previa presentación del proyecto, emitirá el dictamen respecto de la terminación del régimen ejidal y, ordenará su publicación en el Diario Oficial de la Federación y en el periódico de mayor circulación de la localidad en que se ubique el ejido de que se trate.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 65.
 
-La Dirección General de Organización Agraria promoverá el procedimiento correspondiente para efectuar las cancelaciones de las inscripciones de los Núcleos de Población Agrarios, cuando de las inscripciones del Registro Agrario Nacional se determine que el núcleo de que se trate carezca de tierras.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 #### Sección Quinta. De la Aportación de Tierras Ejidales o Comunales a una Sociedad Civil o Mercantil
 
 ###### Artículo 66.
 
-El Núcleo de Población Agrario someterá a opinión de la Dirección General de Organización Agraria, los proyectos de desarrollo y escritura social, para la aportación de tierras de uso común a sociedades mercantiles o civiles, que tengan por objeto actividades agrícolas, ganaderas o forestales, conforme a lo establecido en el artículo 75 de la Ley.
-
-No procederá la aportación de tierras a sociedades civiles o mercantiles que tengan por objeto actividades distintas a las señaladas en el párrafo anterior, conforme a lo establecido en el Título Sexto de la Ley.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 67.
 
-La solicitud de opinión deberá acompañarse de los siguientes documentos:
-
-I. Acta de la asamblea que contenga el acuerdo de solicitud de la opinión correspondiente a la Procuraduría;
-
-II. Proyecto de desarrollo y de escritura social, propuestos por quien invita al Núcleo de Población Agrario a Asociarse, y
-
-III. Acta de la asamblea sobre la delimitación y destino de las tierras de uso común y plano interno del ejido, inscritos en el Registro Agrario Nacional.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 68.
 
-La solicitud se presenta ante la Oficina de Representación en la Entidad Federativa correspondiente quien, la tendrá por presentada cuando los documentos a que se refiere el artículo anterior cumplan con los requerimientos necesarios para proceder a su estudio. El expediente será turnado a la Dirección General de Organización Agraria para su correspondiente análisis.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 69.
 
-La Dirección General de Organización Agraria, dentro de los treinta días siguientes a la presentación de la solicitud deberá evaluar y pronunciarse sobre la certeza de la realización de la inversión proyectada, el aprovechamiento racional y sostenido de los recursos naturales y la equidad en los términos y condiciones que se propongan.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ### Capítulo X. De las suplencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 70.
 
-El Procurador Agrario será suplido en sus ausencias, con el siguiente orden de prelación, por el Subprocurador General, el Secretario General, el Coordinador General de Oficinas de Representación, el Director General Jurídico y de Representación Agraria.
+Se entiende que hay ausencia de una persona servidora pública de la Procuraduría, salvo prueba en contrario, cuando la persona suplente suscriba un documento público con tal carácter.
 
-Las ausencias del Subprocurador General, Secretario General, Coordinador General, directores generales, directores de área, representantes, residentes y otros servidores públicos, serán suplidas por quien designe el superior inmediato del ausente, entre servidores públicos de igual o inmediato inferior nivel.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-### Capítulo XI. Del Órgano Interno de Control
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+###### Artículo 70 Bis.
+
+La ausencia de las personas servidoras públicas de la Procuraduría debe suplirse de conformidad con las reglas siguientes:
+
+I. La persona titular de la Procuraduría será suplida por las personas titulares de la Subprocuraduría General, la Secretaría General, la Coordinación General de Oficinas de Representación y la Dirección General Jurídica y de Representación Agraria, en el orden mencionado, y
+
+II. En los demás casos serán suplidos por la persona en el nivel inferior jerárquico inmediato, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+###### Artículo 70 Ter.
+
+Ante la ausencia definitiva de las personas servidoras públicas, la persona titular de la Procuraduría podrá emitir la designación de una persona Encargada del Despacho, para las unidades administrativas a que se refiere la fracción I del artículo anterior.
+
+En los demás casos, cuando así se justifique deberá emitirlo la persona titular de la Secretaría General.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+### Capítulo XI.. Del Órgano Interno de Control
 
 ###### Artículo 71.
 
-El Órgano Interno de Control en la Procuraduría estará a cargo de un titular, designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en ejercicio de sus facultades se auxiliará de los titulares de las áreas de responsabilidades, de quejas y auditoría, así como demás personal adscrito a dicho Órgano, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública.
-
-Dichos servidores públicos, ejercerán las facultades que tengan atribuidas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Administración Pública Federal, la Ley General de Responsabilidades Administrativas y el Reglamento Interior de la Secretaría de la Función Pública, así como en los demás ordenamientos jurídicos aplicables.
-
-La Procuraduría proporcionará al Órgano Interno de Control el auxilio que requiera para el desempeño de sus atribuciones.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 72.
 
-Las ausencias de los titulares del Órgano Interno de Control, de las áreas de responsabilidades, quejas y auditoría, serán suplidas en términos de lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ### Capítulo XII. De las excusas e impedimentos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 73.
 
-Los servidores públicos de la Procuraduría que se consideren impedidos para conocer de algún asunto deberán presentar por escrito su excusa ante el Subprocurador General.
+Las personas servidoras públicas de la Procuraduría que se consideren impedidas para conocer de algún asunto deberán presentar por escrito su excusa ante la persona titular de la Subprocuraduría General.
 
-Si el que se excusara fuera el Subprocurador General, el escrito se presentará ante el Procurador Agrario, quien calificará la excusa.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Si el que se excusara fuera la persona titular de la Subprocuraduría General, el escrito se presentará ante la persona titular de la Procuraduría, quien calificará la excusa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 74.
 
-Los servidores públicos de la Procuraduría están impedidos para conocer de asuntos por alguna de las causas siguientes:
+Las personas servidoras públicas de la Procuraduría están impedidas para conocer de asuntos por alguna de las causas siguientes:
 
-I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o por afinidad con alguno de los Sujetos Agrarios, o con el servidor público involucrado como presunto responsable en el asunto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o por afinidad con alguno de las y los sujetos agrarios, o con la persona servidora pública involucrada como presunta responsable en el asunto;
 
 II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
 
 III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus familiares, en los grados que expresa la fracción I de este artículo;
 
-IV. Tener familiaridad o vivir en familia con alguno de los Sujetos Agrarios en el asunto que se encuentre en trámite o se pretenda tramitar ante la Procuraduría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-V. Haber hecho promesas que impliquen parcialidad a favor o en contra de alguno de los Sujetos Agrarios o haber amenazado de cualquier modo a alguno de ellos, y
+IV. Tener familiaridad o vivir en familia con las y los sujetos agrarios en el asunto que se encuentre en trámite o se pretenda tramitar ante la Procuraduría;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+V. Haber hecho promesas que impliquen parcialidad a favor o en contra de cualquiera de las y los sujetos agrarios o haber amenazado de cualquier modo a alguno, y
 
 VI. Cualquier otro análogo a las anteriores.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 75.
 
-Si se resuelve que es procedente y fundada la excusa, con base en la opinión que al efecto formule la Dirección General Jurídica y de Representación Agraria, el Procurador Agrario deberá designar al servidor público que atenderá el asunto.
+Si se resuelve que es procedente y fundada la excusa, con base en la opinión que al efecto formule la Dirección General Jurídica y de Representación Agraria, la persona titular de la Procuraduría deberá designar a la persona servidora pública que atenderá el asunto.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 76.
 
-Si la excusa es presentada por el Subprocurador General o por el titular de la Dirección General Jurídica y de Representación Agraria, el Procurador Agrario deberá designar un Visitador Especial que atenderá el asunto.
+Si la excusa es presentada por la persona titular de la Subprocuraduría General o por la persona titular de la Dirección General Jurídica y de Representación Agraria, la persona titular de la Procuraduría deberá designar a una persona titular de alguna de las Visitadurías Especiales que atenderá el asunto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 77.
 
-Es obligación de todo servidor público conocer de los asuntos de su competencia; sin embargo, se considerará que incurren en responsabilidad quienes:
+Es obligación de las personas servidoras públicas conocer de los asuntos de su competencia; sin embargo, se considerará que incurren en responsabilidad quienes:
 
 I. Teniendo impedimento para conocer de algún asunto, no se excusen;
 
@@ -969,9 +1407,11 @@ II. Se excusen sin tener impedimento, y
 
 III. Se excusen fundándose en causas diversas de las que les impiden conocer el asunto.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 78.
 
-Los Sujetos Agrarios y servidores públicos podrán interponer queja por escrito, ante el Órgano Interno de Control en contra de quienes no observen lo establecido en el presente Capítulo.
+Las y los sujetos agrarios y personas servidoras públicas podrán interponer queja por escrito, ante el Órgano Interno de Control en contra de quienes no observen lo establecido en el presente Capítulo.
 
 ## TRANSITORIOS
 
@@ -988,3 +1428,31 @@ QUINTO.- Cuando, en términos del último párrafo del artículo 71 de este Regl
 SEXTO.- Los asuntos que se encuentran en trámite a la entrada en vigor de este Reglamento, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se haya presentado el asunto.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de septiembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Desarrollo Agrario, Territorial y Urbano, Román Guillermo Meyer Falcón.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA PROCURADURÍA AGRARIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se efectúen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto que respectivamente le haya sido asignado a la Secretaría de Desarrollo Agrario, Territorial y Urbano, a la Procuraduría Agraria, así como en el Presupuesto de Egresos de la Federación, por lo que no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y subsecuentes, y cualquier modificación al mismo deberá realizarse mediante movimientos compensados conforme a las disposiciones aplicables.
+
+TERCERO.- Los asuntos que se encuentran en trámite a la entrada en vigor de este decreto, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente y bajo el procedimiento vigente al momento en que se haya presentado el asunto.
+
+CUARTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas a las unidades administrativas que cambian de denominación por virtud de este decreto, se deben entender hechas o conferidas a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+Las dudas que se pudieran suscitar, respecto de las unidades administrativas que asumen la competencia, serán resueltas por la persona titular de la Procuraduría.
+
+QUINTO.- La Procuraduría deberá realizar las modificaciones correspondientes a los manuales y demás disposiciones administrativas en un plazo no mayor a 180 días naturales contados a partir de la fecha de entrada en vigor del presente decreto, así como expedir los de aquellas unidades administrativas que se crean.
+
+SEXTO.- La persona titular de la Procuraduría emitirá en un plazo no mayor a 180 días naturales contados a partir de la fecha de entrada en vigor del presente decreto, las disposiciones jurídicas o administrativas correspondientes que regulen los procedimientos de cada una de las unidades administrativas, previstos en los artículos 34 a 69 que conforman las cinco Secciones del Capítulo IX; hasta en tanto se emitan, continuarán vigentes las disposiciones previstas en el Reglamento Interior publicado en el Diario Oficial de la Federación el 21 de septiembre de 2020.
+
+Los procedimientos que se encuentren en trámite conforme el referido Capítulo, se concluirán conforme a las disposiciones vigentes al momento de su inicio.
+
+SÉPTIMO.- Los nombramientos expedidos a las personas visitadoras agrarias continuarán vigentes, ya que el cambio de denominación a personas organizadoras agrarias, así como la asunción de nuevas responsabilidades, no implican afectación alguna en la validez de su nombramiento ni respecto de los actos jurídicos que efectúen.
+
+OCTAVO.- Los recursos humanos, financieros y materiales de la unidad administrativa que desaparece a partir de la entrada en vigor del presente ordenamiento, serán transferidos a la unidad administrativa que asume sus atribuciones, lo cual se llevará a cabo de manera ordenada, observando todas las disposiciones legales aplicables.
+
+NOVENO.- Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
