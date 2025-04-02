@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-121285"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-10"
-last_updated: "2022-03-22"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121285&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-27"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2025.
 
 Reglamento publicado en la Segunda Sección al Número 6 del Diario Oficial de la Federación, el miércoles 10 de mayo de 2017.
 
@@ -93,9 +93,11 @@ REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto establecer los Órganos de transparencia, sus facultades, criterios y procedimientos institucionales para salvaguardar y garantizar los derechos fundamentales de acceso a la información y protección de datos personales que posea la Comisión Federal de Competencia Económica, de conformidad con los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y las demás disposiciones de carácter general que resulten aplicables.
+El presente Reglamento tiene por objeto establecer los Órganos de transparencia, sus facultades, criterios y procedimientos institucionales para salvaguardar y garantizar los derechos fundamentales de acceso a la información y protección de datos personales que posea la Comisión Federal de Competencia Económica, de conformidad con los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y las demás disposiciones de carácter general que resulten aplicables.
 
 ###### Artículo 2.
 
@@ -103,7 +105,13 @@ Además de las definiciones contenidas en las leyes referidas en el artículo an
 
 I. Autoridad Investigadora. Unidad Administrativa de la Comisión a que se refiere el artículo 26 de la Ley de Competencia;
 
-II. Clasificación. El acto por el cual se determina que la información tiene el carácter de reservada o confidencial en términos de la Ley;
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+I bis. Autoridad garante. Órgano Interno de Control de conformidad con lo establecido en la fracción V del artículo 3 de la Ley General.
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Clasificación. El acto por el cual se determina que la información tiene el carácter de reservada o confidencial en términos de la Ley General;
 
 III. Comisión o COFECE. La Comisión Federal de Competencia Económica;
 
@@ -111,7 +119,9 @@ IV. Comité. El Comité de Transparencia de la Comisión;
 
 V. Constitución. La Constitución Política de los Estados Unidos Mexicanos;
 
-VI. Consultor de Transparencia. Servidor Público habilitado por escrito por el Titular de la Unidad de Transparencia para apoyar en la revisión y análisis de las propuestas de respuesta emitidas por las Unidades Administrativas.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VI. Consultor de Transparencia. Servidor Público habilitado por escrito por el Titular de la Unidad de Transparencia para apoyar en la revisión y análisis de las propuestas de respuesta emitidas por las Unidades Administrativas. Dicho servidor público no tendrá acceso a la información de los expedientes en etapa de investigación, con fundamento en los artículos 26 y 124 de la Ley de Competencia.
 
 VII. Coordinador de Archivos. Servidor Público habilitado por escrito por el Presidente de la Comisión, encargado de mantener actualizados los sistemas de archivo y gestión documental de la Comisión y ejercer las funciones que establece la Ley en materia de Archivos.
 
@@ -125,13 +135,23 @@ XI. Enlace de Transparencia. Servidor Público designado por el Titular de cada 
 
 XII. Estatuto Orgánico. El Estatuto Orgánico de la Comisión;
 
-XIII. Información confidencial. Aquella a la que se refieren los artículos 116 de la Ley General, 113 de la Ley y lo que dispone al respecto la Ley de Competencia;
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XIV. Información reservada. Aquella a la que se refieren los artículos 113 de la Ley General, 110 de la Ley y lo que dispone al respecto la Ley de Competencia;
+XII bis. Índice de Expedientes Reservados. Índice a que hace referencia el artículo 105 de la Ley General.
 
-XV. Instituto o INAI. El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XVI. Ley o LFTAIP. Ley Federal de Transparencia y Acceso a la Información Pública;
+XIII. Información confidencial. Aquella a la que se refiere el artículo 115 de la Ley General y lo que dispone al respecto la Ley de Competencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Información reservada. Aquella a la que se refiere el artículo 112 de la Ley General y lo que dispone al respecto la Ley de Competencia;
+
+XV. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XVI. LFTAIP. Ley Federal de Transparencia y Acceso a la Información Pública;
 
 XVII. Ley de Competencia. Ley Federal de Competencia Económica;
 
@@ -140,6 +160,10 @@ XVIII. Ley General o LGTAIP. Ley General de Transparencia y Acceso a la Informac
 XIX. Ley General de Datos Personales. Ley General de Datos Personales en Posesión de Sujetos Obligados;
 
 XX. Medios electrónicos. Mecanismo, instalación, equipamiento o sistema que permite producir, almacenar, transmitir o intercambiar documentos, datos e información de forma automatizada;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XX bis. Obligaciones de transparencia de la COFECE. Las obligaciones de transparencia comunes previstas en el artículo 65 de la Ley General y las obligaciones de transparencia específicas previstas en el artículo 72, fracción II, de la LFTAIP, de conformidad con el artículo Tercero Transitorio del Decreto por el que se expiden la Ley General de Transparencia y Acceso a la Información Pública; la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; y se reforma el artículo 37, fracción XV, de la Ley Orgánica de la Administración Pública Federal.
 
 XXI. Pleno. Órgano de Gobierno de la Comisión previsto en la fracción XIII del artículo 3 de la Ley de Competencia;
 
@@ -157,19 +181,25 @@ XXVII. Unidad de Transparencia. Unidad Administrativa de la Comisión encargada 
 
 XXVIII. Unidades Administrativas. Órganos y unidades administrativas de la Comisión que se establecen en el artículo 4 del Estatuto Orgánico y las demás unidades que se autoricen por el Pleno de la Comisión; y
 
-XXIX. Versión Pública. Presentación de un documento al que se le ha cubierto, eliminado o suprimido la información, partes o secciones que contengan datos personales o sensibles e información clasificada o considerada como confidencial o reservada, en términos de la Ley General, la Ley y la Ley de Competencia, con la finalidad de divulgar el resto de la información que no tenga dicho carácter.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XXIX. Versión Pública. Presentación de un documento al que se le ha cubierto, eliminado o suprimido la información, partes o secciones que contengan datos personales o sensibles e información clasificada o considerada como confidencial o reservada, en términos de la Ley General y la Ley de Competencia, con la finalidad de divulgar el resto de la información que no tenga dicho carácter.
 
 ###### Artículo 3.
 
 El presente Reglamento es de observancia general y obligatoria para la Comisión.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 4.
 
-La interpretación, en el orden administrativo y en materia de transparencia, del presente Reglamento y cualesquiera otras disposiciones internas relacionadas con el mismo, corresponderá al Pleno, siguiendo los criterios del Instituto o los lineamientos que emita el Consejo Nacional.
+La interpretación, en el orden administrativo y en materia de transparencia, del presente Reglamento y cualesquiera otras disposiciones internas relacionadas con el mismo, corresponderá al Pleno, siguiendo los criterios de la Autoridad garante o los lineamientos que emita el Consejo Nacional.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 5.
 
-En la interpretación de este Reglamento se deberán favorecer los principios de máxima publicidad de la información en posesión de la Comisión; de ámbito limitado de las excepciones; de gratuidad y mínima formalidad; de facilidad de acceso y de exhaustividad en la búsqueda y entrega de la información, y conforme a lo dispuesto en el artículo 7 de la Ley General y 6 de la Ley.
+En la interpretación de este Reglamento se deberán favorecer los principios establecidos en el artículo 8 de la Ley General.
 
 ## Título Segundo. De las Unidades Administrativas en materia de Transparencia y Acceso a la Información Pública de la Comisión y Protección de Datos Personales
 
@@ -179,13 +209,17 @@ En la interpretación de este Reglamento se deberán favorecer los principios de
 
 La Unidad de Transparencia será el vínculo entre la Comisión y el solicitante. El Titular de la Unidad de Transparencia será el servidor público que se establece en el Estatuto Orgánico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 7.
 
-Además de las previstas en el artículo 45 de la Ley General, 61 de la Ley y 85 de la Ley General de Datos Personales, serán atribuciones del Titular de la Unidad de Transparencia las siguientes:
+Además de las previstas en el artículo 41 de la Ley General y 79 de la Ley General de Datos Personales, serán atribuciones del Titular de la Unidad de Transparencia las siguientes:
 
 I. Coordinar a los servidores públicos designados para el auxilio de las tareas encomendadas al Titular de la Unidad;
 
-II. Integrar el informe anual al que hacen referencia los artículos 44, fracción VII de la Ley General y 65, fracción VII de la Ley y los informes trimestrales a que se refiere el artículo 12, fracción XXV, de la Ley de Competencia, relacionados con la materia de transparencia, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Enviar a la Autoridad garante y al Presidente de la Comisión, según corresponda, los datos necesarios para integrar el informe anual al que hacen referencia los artículos 40, fracción VI de la Ley General y los informes trimestrales a que se refiere el artículo 12, fracción XXV, de la Ley de Competencia, relacionados con la materia de transparencia, y
 
 III. Las demás necesarias para garantizar y agilizar el flujo de información entre la Comisión y los particulares que establezca el presente Reglamento.
 
@@ -203,7 +237,9 @@ Los suplentes de ambos servidores públicos serán designados igualmente por el 
 
 Corresponde al Coordinador Operativo realizar las siguientes atribuciones:
 
-I. Solicitar y verificar que las Unidades Administrativas actualicen las obligaciones de transparencia comunes previstas en el artículo 70 de la Ley General y las obligaciones de transparencia específicas previstas en los artículos 77 de la Ley General y 72, fracción II, de la Ley, en la Plataforma Nacional y en el Portal de Internet de la Comisión, dentro de los plazos establecidos, de conformidad con los lineamientos emitidos por el Consejo Nacional, debiendo informar de su cumplimiento al Titular de la Unidad de Transparencia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+I. Solicitar y verificar que las Unidades Administrativas actualicen las obligaciones de transparencia de la Cofece, en la Plataforma Nacional y en el Portal de Internet de la Comisión, dentro de los plazos establecidos, debiendo informar de su cumplimiento al Titular de la Unidad de Transparencia;
 
 II. Operar y gestionar las solicitudes de Acceso a la Información, conforme a las instrucciones del Titular de la Unidad de Transparencia, en la Plataforma Nacional;
 
@@ -211,13 +247,21 @@ III. Apoyar al Titular de la Unidad de Transparencia en dar atención a los Soli
 
 IV. Proponer el turno de las solicitudes de acceso a la información a la o las unidades administrativas que correspondan;
 
-V. Verificar que las Unidades Administrativas den respuesta a las solicitudes de acceso a la información dentro de los plazos que establecen la Ley General y la Ley;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VI. Proponer las respuestas a los requerimientos que formule el Instituto relacionados con las obligaciones de transparencia;
+V. Verificar que las Unidades Administrativas den respuesta a las solicitudes de acceso a la información dentro de los plazos que establece la Ley General;
 
-VII. Elaborar tanto los informes trimestrales previstos en la Ley de Competencia como el informe anual relacionados con la materia de transparencia para ponerlos a consideración del Titular de la Unidad de Transparencia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VIII. Integrar el Índice de Expedientes Reservados de la Comisión, con la información que para tal efecto le proporcionen las Unidades Administrativas en las correspondientes actualizaciones de ese instrumento de control archivístico, y realizar las gestiones necesarias para su envío al Instituto;
+VI. Proponer las respuestas a los requerimientos que formule la Autoridad garante relacionados con las obligaciones de transparencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VII. Recabar los datos necesarios para elaborar tanto los informes trimestrales previstos en la Ley de Competencia como el informe anual relacionados con la materia de transparencia para ponerlos a consideración del Titular de la Unidad de Transparencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VIII. Integrar el Índice de Expedientes Reservados de la Comisión, con la información que para tal efecto le proporcionen las Unidades Administrativas en las correspondientes actualizaciones de ese instrumento de control archivístico, y realizar las gestiones necesarias para su divulgación;
 
 IX. Elaborar el orden del día de las sesiones del Comité para someterlo a aprobación de éste;
 
@@ -237,23 +281,37 @@ Corresponde al Consultor de Transparencia desempeñar las siguientes funciones:
 
 I. Fungir como enlace en la comunicación y colaboración entre las Unidades Administrativas; y entre éstas con la Unidad de Transparencia y el Comité;
 
-II. Asesorar a las Unidades Administrativas respecto al trámite o la respuesta que deba darse a las solicitudes de acceso a la información, con excepción de las que correspondan a la Autoridad Investigadora;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Asesorar a las Unidades Administrativas respecto al trámite o la respuesta que deba darse a las solicitudes de acceso a la información; en el caso de solicitudes de acceso a la información relacionadas con expedientes en etapa de investigación, no tendrá acceso a dichos expedientes con fundamento en los artículos 26 y 124 de la Ley de Competencia;
 
 III. Proponer al Comité políticas internas que faciliten la homogeneidad de criterios para la clasificación y tratamiento de la información confidencial o reservada a cargo de la Comisión;
 
-IV. Verificar que las resoluciones del Comité cumplan con los principios que se establecen en los artículos 8 a 22 de la Ley General;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-V. Elaborar los proyectos de alegatos que deba rendir el Comité o la Unidad de Transparencia en los recursos de revisión que se interpongan ante el Instituto;
+IV. Verificar que las resoluciones del Comité cumplan con los principios que se establecen en los artículos 8 a 18 de la Ley General;
 
-VI. Apoyar a las Unidades Administrativas sujetas al Comité en la elaboración de los informes justificados y complementarios que deban rendirse ante el Instituto respecto a las denuncias interpuestas por presuntos incumplimientos a las obligaciones de transparencia, a que se refieren los artículos 95 de la Ley General y 91 de la Ley, con excepción de las que correspondan a la Autoridad Investigadora;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VII. Verificar que las versiones públicas elaboradas por las Unidades Administrativas sujetas al Comité sean uniformes y que cumplan con los lineamientos que emita el Consejo Nacional;
+V. Elaborar los proyectos de alegatos que deba rendir el Comité o la Unidad de Transparencia en los recursos de revisión que se interpongan ante la Autoridad garante; en el caso de recursos de revisión de información relacionada con expedientes en etapa de investigación, no tendrá acceso a dichos expedientes con fundamento en los artículos 26 y 124 de la Ley de Competencia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VI. Apoyar a las Unidades Administrativas en la elaboración de los informes justificados y complementarios que deban rendirse ante la Autoridad garante respecto a las denuncias interpuestas por presuntos incumplimientos a las obligaciones de transparencia, a que se refiere el artículo 88 de la Ley General;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VII. Verificar que las versiones públicas elaboradas por las Unidades Administrativas sean uniformes y que cumplan con los lineamientos que emita el Consejo Nacional; en el caso de versiones públicas derivadas de las obligaciones de transparencia relacionadas con expedientes en etapa de investigación, no tendrá acceso a dichos expedientes con fundamento en los artículos 26 y 124 de la Ley de Competencia;
 
 VIII. Proponer al Titular de la Unidad de Transparencia los proyectos de respuesta en los que se declare la notoria incompetencia de la Comisión;
 
-IX. Elaborar consultas o pedir orientaciones al Instituto para la mejor atención de las solicitudes de acceso a la información;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-X. Elaborar y mantener actualizados los formatos que sirvan de apoyo a las Unidades Administrativas sujetas al Comité para dar respuesta a las solicitudes de acceso a la información;
+IX. Elaborar consultas o pedir orientaciones a la Autoridad garante para la mejor atención de las solicitudes de acceso a la información;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Elaborar y mantener actualizados los formatos que sirvan de apoyo a las Unidades Administrativas para dar respuesta a las solicitudes de acceso a la información;
 
 XI. Asesorar en el diseño de políticas internas para el manejo de datos personales;
 
@@ -271,45 +329,69 @@ a) El Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionale
 
 b) El Titular de la Unidad de Transparencia, quien fungirá como Secretario, y
 
-c) El Titular del Órgano Interno de Control de la Comisión.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-Los miembros del Comité podrán designar como su suplente, a algún servidor público con el nivel inmediatamente inferior al de él, quien tendrá las mismas atribuciones que establecen la Ley General, la Ley y este Reglamento para sus titulares. La designación será por tiempo indefinido y deberá ser notificada mediante oficio tanto al servidor público nombrado como suplente, como al Coordinador Operativo, quien resguardará en sus archivos la constancia de designación.
+c) El Titular de la Autoridad Investigadora.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Los miembros del Comité podrán designar como su suplente, a algún servidor público con el nivel inmediatamente inferior al de él, quien tendrá las mismas atribuciones que establecen la Ley General, Ley General de Datos Personales y este Reglamento para sus titulares. La designación será por tiempo indefinido y deberá ser notificada mediante oficio tanto al servidor público nombrado como suplente, como al Coordinador Operativo, quien resguardará en sus archivos la constancia de designación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 12.
 
-Corresponde al Comité, además de las previstas en los artículos 44 de la Ley General, 65 de la Ley y 84 de la Ley General de Datos Personales, desempeñar las siguientes funciones:
+Corresponde al Comité, además de las previstas en los artículos 40 de la Ley General y 78 de la Ley General de Datos Personales, desempeñar las siguientes funciones:
 
-I. Coordinar y supervisar las acciones de las Unidades Administrativas, tendientes a proporcionar la información pública en los términos previstos en la Ley General, la Ley y demás disposiciones normativas aplicables;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+I. Coordinar y supervisar las acciones de las Unidades Administrativas, tendientes a proporcionar la información pública en los términos previstos en la Ley General y demás disposiciones normativas aplicables;
 
 II. Establecer, en su caso, los plazos y procedimientos internos para dar trámite a las solicitudes de acceso a la información recibidas por la Comisión;
 
-III. Vigilar la correcta aplicación de la Ley General y la Ley en lo que corresponde a la Comisión, de este Reglamento y de los lineamientos y criterios específicos que el propio Comité emita y, en caso de inobservancia, adoptar las medidas para que éstos se cumplan;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IV. Acceder a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso, aplicando una prueba daño, cuando corresponda;
+III. Vigilar la correcta aplicación de la Ley General en lo que corresponde a la Comisión, de este Reglamento y de los lineamientos y criterios específicos que el propio Comité emita y, en caso de inobservancia, adoptar las medidas para que estos se cumplan;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV. Acceder a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso, aplicando una prueba daño, cuando corresponda. Los miembros del Comité, distintos al Titular de la Autoridad Investigadora, no accederán a información relacionada con expedientes que se encuentren en etapa de investigación, con fundamento en los artículos 26 y 124 de la Ley de Competencia;
 
 V. Realizar, a través de la Unidad de Transparencia, las gestiones necesarias para localizar los documentos administrativos en los que conste la información solicitada;
 
-VI. Designar al Enlace de Transparencia responsable de integrar la respuesta a la solicitud de transparencia o los requerimientos que realice el Instituto, cuando intervengan diversas Unidades Administrativas.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VI. Designar al Enlace de Transparencia responsable de integrar la respuesta a la solicitud de transparencia o los requerimientos que realice la Autoridad garante, cuando intervengan diversas Unidades Administrativas.
 
 VII. Establecer y supervisar, en su caso, la aplicación de los criterios y lineamientos específicos para la Comisión, en materia de organización, clasificación y conservación de documentos e información correspondiente a la gestión administrativa de la Comisión. Lo anterior, sin perjuicio de las atribuciones que correspondan a otras Unidades Administrativas de conformidad con las disposiciones aplicables en materia de archivo;
 
 VIII. Elaborar un programa para facilitar la obtención de información de las Unidades Administrativas de la Comisión, el cual deberá contener las medidas necesarias para la organización de los archivos a que hace referencia la fracción anterior;
 
-IX. Aprobar los datos necesarios para la integración del informe anual a que hacen referencia los artículos 44, fracción VII de la Ley General y 65, fracción VII de la Ley, con base en los lineamientos establecidos por la Comisión, y remitir dicho informe al Instituto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-X. Aprobar, dentro de los diez días siguientes a su presentación, el índice de información clasificada como reservada de las Unidades Administrativas de la Comisión, de conformidad con los acuerdos que expida el propio Comité, así como las actualizaciones semestrales del mismo;
+IX. Aprobar los datos necesarios para la integración del informe anual a que hace referencia el artículo 40, fracción VI de la Ley General, con base en los lineamientos establecidos por la Comisión, y remitir dicho informe a la Autoridad garante;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Aprobar, dentro de los diez días siguientes a su presentación, el Índice de Expedientes Reservados de la Comisión, de conformidad con los acuerdos que expida el propio Comité, así como las actualizaciones semestrales del mismo;
 
 XI. Determinar la desclasificación de información reservada, cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva. Lo anterior, sin perjuicio de las atribuciones que, en términos de lo dispuesto por la legislación y normatividad aplicables, corresponda a los titulares de las Unidades Administrativas de la Comisión y a la Unidad de Transparencia;
 
 XII. Tomar las medidas necesarias, a efecto de que los criterios que expida el Comité, se den a conocer vía Internet para su consulta por cualquier interesado;
 
-XIII. Manifestar lo que a su derecho corresponda ante el Instituto, en atención a los recursos de revisión interpuestos por particulares contra las resoluciones emitidas por el propio Comité;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-XIV. Dar seguimiento a las resoluciones dictadas por el Instituto, coadyuvando en lo necesario para que se dé cumplimiento a las mismas;
+XIII. Manifestar lo que a su derecho corresponda ante la Autoridad garante, en atención a los recursos de revisión interpuestos por particulares contra las resoluciones emitidas por el propio Comité;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XIV. Dar seguimiento a las resoluciones dictadas por la Autoridad garante, coadyuvando en lo necesario para que se dé cumplimiento a las mismas;
 
 XV. Rendir los informes que, en su caso, le sean solicitados por autoridades judiciales o administrativas, en ejercicio de las atribuciones de éstas, y
 
-XVI. Las que le confiera la Ley General, la Ley y las demás disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+XVI. Las que le confiera la Ley General y las demás disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -319,9 +401,9 @@ El Comité celebrará sesiones en forma ordinaria y en forma extraordinaria, a p
 
 Las sesiones del Comité deberán celebrarse dentro de las instalaciones de la Comisión o, a petición de alguno de los miembros, realizarse vía remota mediante vídeo conferencia. El Comité se tendrá por instalado al estar reunidos todos los miembros, propietarios o suplentes, de manera presencial o vía remota, en cuyo caso, el Secretario deberá cerciorarse de su identidad.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-En las sesiones del Comité, los miembros tendrán derecho a voz y voto y los acuerdos se tomarán por mayoría de votos.
+En las sesiones del Comité, los miembros tendrán derecho a voz y voto y los acuerdos se tomarán por mayoría de votos. En caso de solicitudes de información, versiones públicas derivadas de las obligaciones de transparencia, y recursos de revisión, relacionados con información de expedientes en etapa de investigación, los miembros del Comité, distintos al Titular de la Autoridad Investigadora, no accederán a dichos expedientes, con fundamento en los artículos 26 y 124 de la Ley de Competencia.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
 
@@ -363,11 +445,11 @@ En el caso de las sesiones que se realicen vía remota, se asentará en las reso
 
 En los casos en los que, a pesar de haber mayoría, uno de los miembros vote en contra, tendrá el derecho, si así lo desea, de emitir un voto particular, el cual deberá integrarse al acta de la sesión correspondiente.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 18.
 
-El Comité en todo momento podrá modificar la respuesta otorgada a una solicitud, siempre y cuando dicho acto se realice a efecto de cumplir el procedimiento establecido en la Ley o se proporcione información adicional.
+El Comité en todo momento podrá modificar la respuesta otorgada a una solicitud, siempre y cuando dicho acto se realice a efecto de cumplir el procedimiento establecido en la Ley General, en la Ley General de Datos Personales o se proporcione información adicional. En caso de solicitudes de información relacionadas con expedientes en etapa de investigación, los miembros del Comité, distintos al Titular de la Autoridad Investigadora, no accederán a dichos expedientes, con fundamento en los artículos 26 y 124 de la Ley de Competencia.
 
 ###### Artículo 19.
 
@@ -379,7 +461,9 @@ II. Presidir las sesiones del Comité y coordinar a sus miembros, a fin de que e
 
 III. Emitir voto de calidad, en caso de empate;
 
-IV. Someter a la consideración del Comité los asuntos de su competencia en cumplimiento a la Ley General, la Ley y demás disposiciones normativas aplicables, así como los acuerdos a adoptar en atención a los mismos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV. Someter a la consideración del Comité los asuntos de su competencia en cumplimiento a la Ley General y demás disposiciones normativas aplicables, así como los acuerdos a adoptar en atención a los mismos;
 
 V. Vigilar el cumplimiento de las disposiciones legales y normativas aplicables a la operación y funcionamiento del Comité, así como de las acciones acordadas por las Unidades Administrativas responsables, en los plazos establecidos por el Comité mediante acuerdo;
 
@@ -391,7 +475,9 @@ VIII. Proponer al Comité la participación de invitados en las sesiones en tér
 
 IX. Suscribir las actas y acuerdos del Comité, y
 
-X. Las que le encomiende el propio Comité, le atribuya la Ley General, la Ley, el presente Reglamento, y las demás disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+X. Las que le encomiende el propio Comité, le atribuya la Ley General, el presente Reglamento, y las demás disposiciones normativas aplicables.
 
 ###### Artículo 20.
 
@@ -413,13 +499,15 @@ V. Dar seguimiento a los acuerdos del Comité;
 
 VI. Cerciorarse de la identidad de los servidores públicos que asistan o participen en las sesiones del Comité vía remota; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-VII. Las que le encomiende el propio Comité, le atribuya la Ley General, la Ley, el presente Reglamento, y demás disposiciones normativas aplicables.
+VII. Las que le encomiende el propio Comité, le atribuya la Ley General, el presente Reglamento, y demás disposiciones normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 21.
 
-El Titular del Órgano Interno de Control de la Comisión, como miembro del Comité, contará con las siguientes funciones:
+El Titular de la Autoridad Investigadora, como miembro del Comité, contará con las siguientes funciones:
 
 I. Emitir su opinión y votar sobre los asuntos que se traten en las sesiones del Comité, y brindar la asesoría requerida para coadyuvar al mejor cumplimiento de sus objetivos, políticas y atribuciones;
 
@@ -431,13 +519,17 @@ IV. Suscribir las actas, formatos de voto particular, acuerdos y resoluciones de
 
 V. Solicitar en cualquier tiempo al Presidente del Comité, que se convoque a sesiones extraordinarias para tratar asuntos que por su importancia así lo requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 22.
 
-Los titulares de las Unidades Administrativas de la Comisión deberán designar a su Enlace de Transparencia, quien será el responsable de atender los requerimientos que realice la Unidad de Transparencia y el Comité, en apego a la Ley General, la Ley y al presente Reglamento. La designación deberá realizarse por escrito y notificarse al Presidente del Comité con copia para el Coordinador Operativo.
+Los titulares de las Unidades Administrativas de la Comisión deberán designar a su Enlace de Transparencia, quien será el responsable de atender los requerimientos que realice la Unidad de Transparencia y el Comité, en apego a la Ley General, Ley General de Datos Personales y al presente Reglamento. La designación deberá realizarse por escrito y notificarse al Presidente del Comité con copia para el Coordinador Operativo.
 
 El Enlace de Transparencia a que hace referencia el párrafo anterior, deberá contar, como mínimo, con el nivel de Director de Área.
 
-De conformidad con lo establecido por los artículos 100 y 113, fracción XIII de la Ley General y 97 y 110, fracción XIII de la Ley, corresponde a los titulares de las Áreas Administrativas, de manera indelegable, clasificar la información de las áreas a su cargo.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+De conformidad con lo establecido por los artículos 102 y 139 de la Ley General, corresponde a los titulares de las Áreas Administrativas, de manera indelegable, clasificar la información de las áreas a su cargo.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
 
@@ -455,75 +547,37 @@ La falta de asistencia, de manera presencial o vía remota, de un representante 
 
 ###### Artículo 24.
 
-De conformidad con los artículos 43, quinto párrafo, de la Ley General y 64, sexto párrafo, de la Ley, la Autoridad Investigadora no estará sujeta a la autoridad del Comité, por lo que las funciones del mismo serán responsabilidad exclusiva del Titular de la Autoridad Investigadora.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 25.
 
-En los términos del artículo anterior, corresponde al Titular de la Autoridad Investigadora, en funciones de Comité, desempeñar las siguientes atribuciones:
-
-I. Coordinar y supervisar las acciones de las Unidades Administrativas adscritas a la Autoridad Investigadora, tendientes a proporcionar la información pública en los términos previstos en la Ley General, la Ley y demás disposiciones normativas aplicables;
-
-II. Instruir la gestión de las solicitudes de acceso a la información a las Unidades Administrativas adscritas a la Autoridad Investigadora competentes para su atención y respuesta;
-
-III. Establecer, en su caso, los plazos y procedimientos que deberán seguir la Unidades Administrativas que tiene adscritas, para dar trámite a las solicitudes de acceso a la información recibidas por la Unidad de Transparencia y turnadas a la Autoridad Investigadora;
-
-IV. Vigilar la correcta aplicación, en lo que corresponde a la Autoridad Investigadora, de la Ley General, la Ley, este Reglamento y los lineamientos en materia de transparencia y los criterios específicos que el propio Titular de la Autoridad Investigadora emita y, en caso de inobservancia, adoptar las medidas para que éstos se cumplan;
-
-V. Acceder a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso;
-
-VI. Confirmar, modificar o revocar las determinaciones que en materia de ampliación de plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los titulares de las Unidades Administrativas de la Autoridad Investigadora;
-
-VII. Realizar u ordenar las gestiones necesarias para localizar los documentos administrativos en los que conste la información solicitada;
-
-VIII. Supervisar la aplicación de los criterios y lineamientos específicos de la Comisión, en materia de organización, clasificación y conservación de documentos e información correspondiente a la gestión administrativa de la Autoridad Investigadora. Lo anterior, sin perjuicio de las atribuciones que correspondan a otras Unidades Administrativas de conformidad con las disposiciones aplicables;
-
-IX. Aprobar, dentro de los diez días siguientes a su presentación, el índice de información clasificada como reservada de las Unidades Administrativas de la Autoridad Investigadora, así como las actualizaciones semestrales del mismo, y remitirlo a la Unidad de Transparencia para su envío al Instituto;
-
-X. Determinar la desclasificación de información reservada, cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva. Lo anterior, sin perjuicio de las atribuciones que, en términos de lo dispuesto por la legislación y normatividad aplicables, corresponda a los titulares de las Unidades Administrativas de la Autoridad Investigadora y a la Unidad de Transparencia;
-
-XI. Aprobar la ampliación del término de reserva de los expedientes o documentos, solicitada por el Titular de la Unidad Administrativa adscrita a la Autoridad Investigadora, en el plazo correspondiente, fundando y motivando las razones por las que prevalecen las causas que dieron origen a la clasificación, aplicando una prueba daño;
-
-XII. Solicitar a la Unidad de Transparencia de la Comisión que realice la notificación de las resoluciones emitidas por el Titular de la Autoridad Investigadora, las cuales deberán hacerse dentro de los plazos máximos establecidos para tal efecto por la legislación vigente;
-
-XIII. Tomar las medidas necesarias, a efecto de que las resoluciones y criterios que expida el Titular de la Autoridad Investigadora, se den a conocer vía Internet para su consulta por cualquier interesado;
-
-XIV. Manifestar lo que a su derecho corresponda ante el Instituto, en atención a los recursos de revisión interpuestos por particulares contra las resoluciones emitidas por el propio Titular de la Autoridad Investigadora;
-
-XV. Dar seguimiento a las resoluciones dictadas por el Instituto, coadyuvando en lo necesario para que se dé cumplimiento a las mismas;
-
-XVI. Enviar al Coordinador Operativo la información que resulte necesaria para la elaboración de los informes trimestrales previstos en la Ley de Competencia y el informe anual en materia de transparencia de la Comisión;
-
-XVII. Rendir los informes que, en su caso, le sean solicitados por autoridades judiciales o administrativas, en ejercicio de las atribuciones de éstas, y
-
-XVIII. Las que le confiera la Ley General, la Ley y las demás disposiciones aplicables.
-
-Las atribuciones del Titular de la Autoridad Investigadora se ejercerán con independencia de aquellas que correspondan al Comité de la Comisión.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 26.
 
-Las resoluciones que emita el Titular de la Autoridad Investigadora, en funciones del Comité, se remitirán a la Unidad de Transparencia y la Unidad Administrativa involucrada, por conducto de los servidores públicos que funjan como Enlaces de Transparencia.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 27.
 
-Los titulares de las Unidades Administrativas de la Autoridad Investigadora deberán designar a su Enlace de Transparencia, quien será responsable de atender los requerimientos que realice la Unidad de Transparencia y el propio Titular de la Autoridad Investigadora, en apego a la Ley General, la Ley y al presente Reglamento.
-
-El Enlace de Transparencia a que hace referencia el párrafo anterior, deberá contar, como mínimo, con el nivel de Director de Área.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 28.
 
-El Titular de la Autoridad Investigadora, en funciones del Comité, así como los Titulares de las Unidades Administrativas a su cargo procurarán que sus resoluciones, respuestas y criterios sean consistentes con los del Comité de la Comisión.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ###### Artículo 29.
 
-En caso de ausencia, el Titular de la Autoridad Investigadora será suplido por el Titular de la Oficina de Coordinación.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ## Título Tercero. De la información en posesión de la Comisión
 
 ### Capítulo I. De la información Pública
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 30.
 
-Conforme a los principios de máxima publicidad y disponibilidad, la información de la Comisión se presume pública y debe ser asequible, salvo la que deba estar clasificada como reservada o confidencial.
+Conforme a los principios de máxima publicidad y documentación, la información de la Comisión se presume pública y debe ser asequible, salvo la que deba estar clasificada como reservada o confidencial.
 
 ###### Artículo 31.
 
@@ -531,9 +585,11 @@ La información pública debe estar a disposición de los solicitantes de manera
 
 Cuando se solicita información pública a la Comisión, se tiene por atendido el pedimento mediante la ubicación de las fuentes de consulta al solicitante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 32.
 
-La Comisión pondrá a disposición del público y mantendrá actualizada, tanto en la Plataforma Nacional como en el portal de la propia Comisión, la información prevista en los artículos 70 de la Ley General y 72, fracción II de la Ley, de conformidad con los plazos establecidos en los lineamientos emitidos para tal efecto por el Consejo Nacional.
+La Comisión pondrá a disposición del público y mantendrá actualizada, tanto en la Plataforma Nacional como en el portal de la propia Comisión, las obligaciones de transparencia de la COFECE, de conformidad con los plazos establecidos en los lineamientos emitidos para tal efecto por el Consejo Nacional.
 
 La Unidad Administrativa de la Comisión encargada de las Tecnologías de la Información y Comunicación, deberá facilitar los medios necesarios para que las demás Unidades Administrativas puedan cumplir en tiempo y forma con la publicación de las obligaciones antes señaladas.
 
@@ -543,13 +599,17 @@ La Unidad Administrativa de la Comisión encargada de las Tecnologías de la Inf
 
 El Comité deberá dar acceso a las versiones públicas de las resoluciones, a través de los vínculos de la página de la Comisión en donde se encuentra la información solicitada.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 34.
 
-Los particulares que entreguen información confidencial, de conformidad con lo establecido en los artículos 116, último párrafo, de la Ley General, 113, fracción III, de la Ley, y lo que dispone al respecto la Ley de Competencia, deberán cumplir con los requisitos expuestos en dichos numerales, la Ley de Competencia y los lineamientos que al efecto emita el Consejo Nacional.
+Los particulares que entreguen información confidencial, de conformidad con lo establecido en el artículo 115, de la Ley General y lo que dispone al respecto la Ley de Competencia, deberán cumplir con los requisitos expuestos en dicho precepto, la Ley de Competencia y los lineamientos que al efecto emita el Consejo Nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 35.
 
-Los expedientes relacionados con asuntos que tramite la Comisión en el ejercicio de sus funciones, en tanto no se actualice lo dispuesto por los artículos 106 de la Ley General y 98 de la Ley, se regirán única y exclusivamente por lo dispuesto en la Ley de Competencia.
+Los expedientes relacionados con asuntos que tramite la Comisión en el ejercicio de sus funciones, en tanto no se actualice lo dispuesto por el artículo 103 de la Ley General, se regirán única y exclusivamente por lo dispuesto en la Ley de Competencia.
 
 En este caso, las Unidades Administrativas identificarán y separarán la información a que se refiere la fracción IX del artículo 3 de la Ley de Competencia, para evitar que los demás Agentes Económicos con acceso al expediente puedan consultarla, reproducirla u obtener copias de la misma, en perjuicio del titular de esa información.
 
@@ -561,23 +621,19 @@ Las resoluciones, opiniones, lineamientos, guías y criterios técnicos de la Co
 
 Es obligación de las Unidades Administrativas correspondientes elaborar las versiones públicas de las resoluciones y opiniones dentro del plazo que establecen las Disposiciones Regulatorias, debiendo suprimir de ésta, la información que pueda causar un daño en la posición competitiva de los Agentes Económicos, los datos sensibles y los datos personales.
 
-Estas versiones públicas deberán ser enviadas por las Unidades Administrativas al Comité, para su revisión y aprobación, siempre que exista una solicitud de acceso a información o cuando su publicación derive de una obligación de transparencia prevista en la Ley General, la Ley o por resolución de autoridad competente.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-Cuando se requiera generar una versión pública de un expediente o de constancias que formen parte de un expediente concluido que se inició por investigación, se procederá conforme a lo siguiente:
+Estas versiones públicas deberán ser enviadas por las Unidades Administrativas al Comité, para su revisión y aprobación, siempre que exista una solicitud de acceso a información o cuando su publicación derive de las obligaciones de transparencia de la COFECE o por resolución de autoridad competente.
 
-I. La Unidad Administrativa competente conforme al Estatuto Orgánico, adscrita a la Secretaría Técnica, será la encargada de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE ABRIL DE 2025)</small>
 
-a. Reproducir las constancias del expediente y remitir a la Autoridad Investigadora aquellas que correspondan a la investigación, cuando el expediente haya concluido mediante resolución del Pleno de la Comisión.
+Cuando se requiera generar una versión pública de un expediente o de constancias que formen parte de un expediente en el que hayan intervenido dos o más Unidades Administrativas, cada Unidad Administrativa deberá clasificar la información y/o elaborar las versiones públicas correspondientes a las constancias generadas en el ejercicio de sus respectivas facultades, competencias y funciones.
 
-b. Clasificar la información y elaborar las versiones públicas de las actuaciones y documentos que obren en el expediente que, conforme al Estatuto Orgánico, sean de su competencia, debiendo cumplir la normatividad aplicable.
+I. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
-II. Las Unidades Administrativas adscritas a la Autoridad Investigadora, por su parte, se encargarán de:
+II. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
-a. Reproducir las constancias del expediente cuando se haya desechado por notoriamente improcedente una denuncia.
-
-b. Clasificar la información y elaborar las versiones públicas de las constancias que se remitan conforme a la fracción I, inciso a) de este artículo o que se reproduzcan en términos del inciso anterior, debiendo cumplir la normatividad aplicable.
-
-III. Tanto el Comité como la Autoridad Investigadora, en el ámbito de sus respectivas competencias, aprobarán la clasificación y las versiones públicas elaboradas por las Unidades Administrativas que intervinieron en su trámite dependiendo de su área de adscripción.
+III. (DEROGADA, D.O.F. 2 DE ABRIL DE 2025)
 
 ### Capítulo III. De los Datos Personales
 
@@ -587,21 +643,27 @@ Los procedimientos para acceder a los datos personales que estén en posesión d
 
 ### Capítulo IV. De la Clasificación y Desclasificación de la Información
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 38.
 
-Quienes produzcan, administren, manejen, archiven o conserven información son responsables de ella en los términos de la Ley General, la Ley, la Ley de Competencia, las Disposiciones Regulatorias, el Reglamento, el Estatuto Orgánico y demás disposiciones legales o normativas correspondientes.
+Quienes produzcan, administren, manejen, archiven o conserven información son responsables de ella en los términos de la Ley General, la Ley de Competencia, las Disposiciones Regulatorias, el Reglamento, el Estatuto Orgánico y demás disposiciones legales o normativas correspondientes.
 
 Todo servidor público que reciba, procese, genere o administre información debe identificarla como pública o confidencial, según sea el caso, con una leyenda en la que indique la motivación por la cual su divulgación podría causar un daño o perjuicio a los titulares de la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 39.
 
-Los titulares de las Unidades Administrativas llevarán a cabo la clasificación de la información en los momentos establecidos en los artículos 106 de la Ley General y 98 de la Ley; no obstante, en términos de la Ley de Competencia, podrán identificar la información que contenga datos sensibles o personales que obren en sus expedientes en trámite para garantizar su resguardo y evitar que otros Agentes Económicos puedan tener acceso a ella en perjuicio de los titulares de dicha información.
+Los titulares de las Unidades Administrativas llevarán a cabo la clasificación de la información en los momentos establecidos en el artículo 103 de la Ley General; no obstante, en términos de la Ley de Competencia, únicamente podrán identificarla para garantizar su resguardo y evitar que otros Agentes Económicos puedan tener acceso a ella en perjuicio de los titulares de dicha información.
 
 La clasificación podrá referirse a un expediente o a un documento.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 40.
 
-Al clasificar expedientes y documentos como reservados o confidenciales, los titulares de las Unidades Administrativas deberán tomar en consideración lo dispuesto en la Ley General, la Ley, la Ley de Competencia, la Ley General de Datos Personales y los lineamientos que emita el Consejo Nacional.
+Al clasificar expedientes y documentos como reservados o confidenciales, los titulares de las Unidades Administrativas deberán tomar en consideración lo dispuesto en la Ley General, la Ley de Competencia, la Ley General de Datos Personales y los lineamientos que emita el Consejo Nacional.
 
 ###### Artículo 41.
 
@@ -611,51 +673,69 @@ Los expedientes y documentos clasificados como reservados deberán llevar una le
 
 En virtud de una solicitud de acceso a la información, cuando un expediente contenga documentos públicos y reservados o confidenciales, se deberán entregar aquellos que no estén clasificados. Tratándose de un documento que contenga partes o secciones reservadas o confidenciales, se deberá entregar una versión en el que se omitan estas últimas. Las reproducciones de los expedientes o documentos que se entreguen constituirán las versiones públicas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 43.
 
-Los titulares de las Unidades Administrativas elaborarán, de conformidad con los requisitos establecidos en los artículos 102 de la Ley General y 101 de la Ley, un índice de los expedientes que se hayan clasificado como reservados, en términos de los artículos 106 de la Ley General y 98 de la Ley.
+Los titulares de las Unidades Administrativas elaborarán el Índice de Expedientes Reservados con la información de los expedientes que se hayan clasificado como reservados, en términos del artículo 105 de la Ley General.
 
 A efecto de mantener dicho índice actualizado, la Unidad Administrativa lo enviará al Comité, dentro de los primeros diez días de los meses de enero y julio de cada año, según corresponda. El Comité tendrá un plazo de diez días para su aprobación; transcurrido dicho plazo sin que exista determinación alguna por parte del Comité, se entenderá aprobado.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 44.
 
-Los índices de expedientes clasificados como reservados serán información pública, sujeta a las obligaciones de disponibilidad y acceso establecidas por la Ley General y la Ley y deberán cumplir con los lineamientos que al efecto emita el Consejo Nacional.
+Los índices de expedientes clasificados como reservados serán información pública y deberán cumplir con los lineamientos que al efecto emita el Consejo Nacional.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 45.
 
-Los expedientes y documentos clasificados como reservados, serán debidamente custodiados y conservados conforme a la normatividad interna de la Comisión, los lineamientos que emita el Consejo Nacional y, en su caso, los criterios específicos que emita el Comité o la Autoridad Investigadora, según corresponda en el ámbito de sus respectivas competencias.
+Los expedientes y documentos clasificados como reservados, serán debidamente custodiados y conservados conforme a la normatividad interna de la Comisión, los lineamientos que emita el Consejo Nacional y, en su caso, los criterios específicos que emita el Comité.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 46.
 
-La información clasificada como reservada podrá ser desclasificada cuando se cumplan los supuestos previstos por los artículos 101 de la Ley General y 99 de la Ley.
+La información clasificada como reservada podrá ser desclasificada cuando se cumplan los supuestos previstos por el artículo 104 de la Ley General.
 
-El Coordinador Operativo deberá presentar al Comité o a la Autoridad Investigadora, según corresponda, y a la Unidad Administrativa que la clasificó, con cuatro meses de anticipación, un listado de los documentos que estén registrados en los índices de información reservada, cuyo plazo de reserva esté por vencer, a efecto de que puedan solicitar la ampliación del plazo de reserva con la debida oportunidad o para que ordenen su desclasificación al término del plazo de reserva.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+El Coordinador Operativo deberá presentar al Comité y a la Unidad Administrativa que la clasificó, con cuatro meses de anticipación, un listado de los documentos que estén registrados en los índices de información reservada, cuyo plazo de reserva esté por vencer, a efecto de que puedan solicitar la ampliación del plazo de reserva con la debida oportunidad o para que ordenen su desclasificación al término del plazo de reserva.
 
 Las Unidades Administrativas deberán informar al Coordinador Operativo, dentro de los diez días siguientes a que hayan ordenado la desclasificación, la información que fue desclasificada por haber desaparecido las causas que le dieron origen.
 
-El Comité, la Unidad de Transparencia o las Unidades Administrativas que no formen parte de la Autoridad Investigadora, no podrán desclasificar o modificar la información identificada o clasificada como reservada por parte de la Autoridad Investigadora.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 47.
 
-Cuando a juicio de una Unidad Administrativa sea necesario ampliar el plazo de reserva de un expediente o documento, lo hará del conocimiento del Comité o de la Autoridad Investigadora, según corresponda, fundando y motivando la ampliación correspondiente. Dicha ampliación deberá hacerse del conocimiento del Comité o de la Autoridad Investigadora, por lo menos con tres meses de anticipación al vencimiento del periodo de reserva.
+Cuando a juicio de una Unidad Administrativa sea necesario ampliar el plazo de reserva de un expediente o documento, lo hará del conocimiento del Comité, fundando y motivando la ampliación correspondiente. Dicha ampliación deberá hacerse del conocimiento del Comité, por lo menos con tres meses de anticipación al vencimiento del periodo de reserva.
 
-Cuando la Unidad Administrativa considere que sea necesaria una segunda ampliación en los términos que establecen los artículos 101, último párrafo, de la Ley General y 99, último párrafo, de la Ley, deberá informarlo al Comité, fundando y motivando la solicitud, con al menos cuatro meses de anticipación a su vencimiento, a efecto de que evalúe la pertinencia de solicitar dicha ampliación ante el Instituto.
+Cuando la Unidad Administrativa considere que sea necesaria una segunda ampliación en los términos que establecen los artículos 104, último párrafo, de la Ley General, deberá informarlo al Comité, fundando y motivando la solicitud, con al menos cuatro meses de anticipación a su vencimiento, a efecto de que evalúe la pertinencia de solicitar dicha ampliación ante la Autoridad garante.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 48.
 
-Para los efectos de los artículos 148 de la Ley General y 154 de la Ley, se considerarán como violaciones graves de derechos fundamentales y delitos de lesa humanidad los que se establezcan como tales en los tratados ratificados por el Senado de la República o en las resoluciones emitidas por organismos internacionales cuya competencia sea reconocida por el Estado Mexicano, así como en las disposiciones legales aplicables.
+Para los efectos del artículo 151 de la Ley General, se considerarán como violaciones graves de derechos fundamentales y delitos de lesa humanidad los que se establezcan como tales en los tratados ratificados por el Senado de la República o en las resoluciones emitidas por organismos internacionales cuya competencia sea reconocida por el Estado Mexicano, así como en las disposiciones legales aplicables.
 
 ###### Artículo 49.
 
 La información confidencial no estará sujeta a temporalidad alguna y tendrá ese carácter de manera indefinida, salvo que medie el consentimiento por escrito del titular de la información o mandamiento escrito emitido por autoridad competente.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 50.
 
-Para que la información pueda ser clasificada o desclasificada como reservada, se estará a lo establecido en los criterios que emita el Comité, los cuales deberán atender lo dispuesto en los artículos 113, 114 y 115 de la Ley General y 110, 111 y 112 de la Ley, y en consideración de lo que disponga la Ley de Competencia en lo relativo a clasificación de información dentro de los procedimientos tramitados por la Comisión.
+Para que la información pueda ser clasificada o desclasificada como reservada, se estará a lo establecido en los criterios que emita el Comité, los cuales deberán atender lo dispuesto en los artículos 112, 113 y 114 de la Ley General y en consideración de lo que disponga la Ley de Competencia en lo relativo a clasificación de información dentro de los procedimientos tramitados por la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 51.
 
-Para la clasificación y protección de la información confidencial, se estará a lo establecido en los criterios que sobre el particular emita el Comité, los cuales deberán atender lo establecido en los artículos 116 a 120 de la Ley General y 113 a 117 de la Ley y considerar lo que disponga la Ley de Competencia vigente en lo relativo a clasificación de información dentro de los procedimientos tramitados por la Comisión.
+Para la clasificación y protección de la información confidencial, se estará a lo establecido en los criterios que sobre el particular emita el Comité, los cuales deberán atender lo establecido en los artículos 115 a 119 de la Ley General y considerar lo que disponga la Ley de Competencia vigente en lo relativo a clasificación de información dentro de los procedimientos tramitados por la Comisión.
 
 La información confidencial solicitada por autoridad competente podrá entregarse, debiendo en todo momento especificarse aquélla que tiene ese carácter. La Comisión se coordinará con la autoridad que lo reciba para que se adopten las medidas que sean conducentes para salvaguardar la información clasificada como confidencial.
 
@@ -667,9 +747,11 @@ La información confidencial solicitada por autoridad competente podrá entregar
 
 Las solicitudes de información deberán presentarse ante la Unidad de Transparencia, la cual sugerirá a los solicitantes que entreguen dicha solicitud a través de la Plataforma Nacional. La Unidad de Transparencia, por conducto del Coordinador Operativo, auxiliará a los interesados en la elaboración de las solicitudes de acceso a la información, en particular en los casos en que el solicitante no sepa leer ni escribir o desee presentarla en lengua indígena, braille o cualquier otro formato, facilitando cualquier medio a su alcance que sea necesario para garantizar su derecho de acceso a la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 53.
 
-Los Solicitantes deberán señalar el mecanismo por el cual desean les sea notificada la resolución que corresponda conforme a los artículos 133 de la Ley General y 136 de la Ley. Dicha notificación podrá ser:
+Los Solicitantes deberán señalar el mecanismo por el cual desean les sea notificada la respuesta que corresponda a su solicitud conforme al artículo 127 de la Ley General. Dicha notificación podrá ser:
 
 I. Personalmente o a través de un representante autorizado para tales efectos, en el domicilio de la Unidad de Transparencia
 
@@ -681,15 +763,17 @@ IV. Por estrados en la oficina de la Unidad de Transparencia y en la lista diari
 
 En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 54.
 
-La representación a que se refieren los artículos 122 de la Ley General y 123 de la Ley, podrá recaer en un tercero autorizado en la solicitud de acceso a la información.
+La representación a que se refiere el artículo 124 de la Ley General, podrá recaer en un tercero autorizado en la solicitud de acceso a la información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 55.
 
-Si los datos proporcionados por el Solicitante son erróneos o no bastan para localizar los documentos, las Unidades Administrativas deberán dar aviso por correo electrónico a la Unidad de Transparencia, dentro de los tres días siguientes a la presentación de la solicitud, para que se requiera al solicitante que corrija los datos, precise o proporcione otros elementos, dentro del plazo de diez días previsto en los artículos 128 de la Ley General y 129 de la Ley.
+Si los datos proporcionados por el Solicitante son erróneos o no bastan para localizar los documentos, las Unidades Administrativas deberán dar aviso por correo electrónico a la Unidad de Transparencia, dentro de los tres días siguientes a la presentación de la solicitud, para que se requiera al solicitante que corrija los datos, precise o proporcione otros elementos, dentro del plazo de diez días previsto en el artículo 130 de la Ley General.
 
 En el correo que se remita a la Unidad de Transparencia se deberá señalar lo que, a criterio de la Unidad Administrativa responsable, debe precisarse, aclararse o complementarse a efecto de que se pueda dar respuesta a la solicitud de acceso a la información formulada.
 
@@ -697,17 +781,21 @@ En el correo que se remita a la Unidad de Transparencia se deberá señalar lo q
 
 Cuando la información solicitada no se encuentre en posesión de la Comisión por no encontrarse obligada a documentarla de acuerdo con sus facultades, competencias o funciones, la Unidad de Transparencia así lo informará y orientará al solicitante, en caso de conocerlo, sobre la dependencia, entidad u órgano del Estado que pueda poseer dicha información.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 57.
 
-La Unidad Administrativa verificará si los documentos solicitados se encuentran registrados en los índices de expedientes reservados que ésta haya elaborado. En caso que los documentos que se encuentren en los índices mencionados ya no se encuentren reservados por configurarse cualquiera de los supuestos previstos en los artículos 101 de la Ley General y 99 de la Ley, la Unidad de Transparencia, en coordinación con la Unidad Administrativa, dará respuesta a la solicitud, en los términos señalados en los artículos 132 de la Ley General y 135 de la Ley. Cuando los documentos sean reservados o confidenciales se seguirá el procedimiento previsto en el artículo 63 del Reglamento.
+La Unidad Administrativa verificará si los documentos solicitados se encuentran registrados en el Índice de Expedientes Reservados. En caso que los documentos que se encuentren en el Índice de Expedientes Reservados ya no se encuentren reservados por configurarse cualquiera de los supuestos previstos en el artículo 104 de la Ley General, la Unidad de Transparencia, en coordinación con la Unidad Administrativa, dará respuesta a la solicitud, en los términos señalados en los artículos 131 y 134 de la Ley General. Cuando los documentos sean reservados o confidenciales se seguirá el procedimiento previsto en el artículo 63 del Reglamento.
 
 ###### Artículo 58.
 
 Cuando existan solicitudes de acceso a documentos que se encuentren registrados en los índices de expedientes reservados elaborados por las Unidades Administrativas, éstas los localizarán, verificarán su clasificación y comunicarán a la Unidad de Transparencia la procedencia del acceso y la manera en que, en su caso, se encuentran disponibles, a efecto de que se determine, de ser procedente, el costo y la forma de entrega, reproducción o envío. Respecto de la información que posea el Pleno de la Comisión, la solicitud se turnará a dicho órgano colegiado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 59.
 
-Las Unidades Administrativas, distintas a las que formen parte de la Autoridad Investigadora, a las que se les hayan turnado las solicitudes de acceso a la información para su atención, deberán remitir al Comité, según corresponda, a través de correo electrónico y dentro de los plazos internos que establezca el Comité por medio de acuerdo, los oficios internos en los que se determine: si los documentos solicitados no fueron localizados, si la información debe clasificarse como reservada o confidencial, si puede entregarse una versión pública o, si no puede entregarse en la modalidad solicitada y debe ser distinta, especificando los costos de reproducción o envío. En todos los casos, deberá fundar y motivar el sentido de su respuesta. El oficio será analizado y sometido a votación en la sesión del Comité que corresponda.
+Las Unidades Administrativas a las que se les hayan turnado las solicitudes de acceso a la información para su atención, deberán remitir al Comité, según corresponda, a través de correo electrónico y dentro de los plazos internos que establezca el Comité, los oficios internos en los que se determine: si los documentos solicitados no fueron localizados, si la información debe clasificarse como reservada o confidencial, si puede entregarse una versión pública o, si no puede entregarse en la modalidad solicitada y debe ser distinta, especificando los costos de reproducción o envío. En todos los casos, deberá fundar y motivar el sentido de su respuesta. El oficio será analizado y sometido a votación en la sesión del Comité que corresponda.
 
 Cuando la información solicitada pueda ser proporcionada al solicitante, las Unidades Administrativas remitirán a la Unidad de Transparencia, con copia para el Consultor de Transparencia, el proyecto de respuesta que se deba notificar, a través de correo electrónico y en formato digital editable, dentro del plazo interno que establezca el Comité por medio de acuerdo.
 
@@ -719,17 +807,23 @@ Salvo en el caso de las copias certificadas, los costos referidos en el párrafo
 
 La entrega de versiones públicas que puedan realizarse en formato electrónico no tendrán costo de reproducción alguno para el Solicitante.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 61.
 
-Los documentos deberán entregarse en la oficina postal o de mensajería que realizará el envío al domicilio señalado por el solicitante, dentro de los diez días hábiles siguientes al que la Unidad de Transparencia haya recibido la notificación del pago de los costos de reproducción, en su caso, y envío; sin embargo, no estará obligada a enviar la información cuando el solicitante no compruebe haber cubierto el pago de los costos correspondientes, y dará por cumplida su obligación al ponerla a disposición del solicitante en las oficinas de la Unidad de Transparencia para que la recoja conforme a las reglas establecidas en los artículos 135 de la Ley General y 139 de la Ley.
+Los documentos deberán entregarse en la oficina postal o de mensajería que realizará el envío al domicilio señalado por el solicitante, dentro de los diez días hábiles siguientes al que la Unidad de Transparencia haya recibido la notificación del pago de los costos de reproducción, en su caso, y envío; sin embargo, no estará obligada a enviar la información cuando el solicitante no compruebe haber cubierto el pago de los costos correspondientes, y dará por cumplida su obligación al ponerla a disposición del solicitante en las oficinas de la Unidad de Transparencia para que la recoja conforme a las reglas establecidas en el artículo 137 de la Ley General.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 62.
 
-Transcurridos los plazos establecidos en los artículos 135 de la Ley General y 139 de la Ley para cubrir las cuotas de reproducción, quedarán a salvo los derechos de los particulares para realizar una nueva solicitud de acceso a la información, sin responsabilidad alguna para la Comisión.
+Transcurridos los plazos establecidos en el artículo 137 de la Ley General para cubrir las cuotas de reproducción, quedarán a salvo los derechos de los particulares para realizar una nueva solicitud de acceso a la información, sin responsabilidad alguna para la Comisión.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 63.
 
-En términos de los artículos 137 de la Ley General y 140 de la Ley, si en virtud de una revisión, el Comité niega el acceso a la información, deberá fundar y motivar las razones de la clasificación de dicha información. Si el Comité revoca la clasificación, deberá enviar a la Unidad de Transparencia su resolución, para que se informe a la Unidad Administrativa, a fin de que ésta esté en posibilidad de notificar al solicitante la respuesta de su solicitud en el plazo que establece el presente Reglamento.
+En términos del artículo 139 de la Ley General, si en virtud de una revisión, el Comité niega el acceso a la información, deberá fundar y motivar las razones de la clasificación de dicha información. Si el Comité revoca la clasificación, deberá enviar a la Unidad de Transparencia su resolución, para que se informe a la Unidad Administrativa, a fin de que ésta esté en posibilidad de notificar al solicitante la respuesta de su solicitud en el plazo que establece el presente Reglamento.
 
 ###### Artículo 64.
 
@@ -737,15 +831,21 @@ La obligación de proporcionar el acceso a la información se dará por cumplida
 
 El acceso se dará solamente en la modalidad en que lo permita el documento de que se trate. Sin perjuicio de lo anterior, el documento se entregará en su totalidad o parcialmente, a petición del Solicitante.
 
-En el evento de que la información solicitada por la persona ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, la Unidad de Transparencia le hará saber por escrito al solicitante la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información, en términos de los artículos 130 de la Ley General y 132 de la Ley.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+En el evento de que la información solicitada por la persona ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, la Unidad de Transparencia le hará saber por escrito al solicitante la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información, en términos del artículo 132 de la Ley General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 65.
 
-Cuando la Unidad Administrativa comunique al Comité que la información no fue localizada en sus archivos conforme a lo establecido en el artículo 58 de este Reglamento, el Comité analizará las razones expuestas por la Unidad Administrativa y en caso de que estime que no se realizó una búsqueda exhaustiva, solicitará a la Unidad Administrativa requerida e inclusive a otras Unidades Administrativas de la Comisión que pudieran tener la información, que se realice una nueva búsqueda de la información solicitada con otros parámetros que permitan su localización.
+Cuando la Unidad Administrativa comunique al Comité que la información no fue localizada en sus archivos conforme a lo establecido en el artículo 59 de este Reglamento, el Comité analizará las razones expuestas por la Unidad Administrativa y en caso de que estime que no se realizó una búsqueda exhaustiva, solicitará a la Unidad Administrativa requerida e inclusive a otras Unidades Administrativas de la Comisión que pudieran tener la información, que se realice una nueva búsqueda de la información solicitada con otros parámetros que permitan su localización.
 
 En este caso las Unidades Administrativas requeridas deberán enviar la respuesta de acceso o un oficio de inexistencia dentro del plazo de cinco días al Comité, con la finalidad de que se dé respuesta al solicitante.
 
-En caso de que los motivos y razones expuestos por la Unidad Administrativa sean suficientes, el Comité expedirá una resolución que indique la inexistencia del documento solicitado y lo enviará a la Unidad de Transparencia para que notifique al solicitante la respuesta de su solicitud, dentro del plazo establecido en los artículos 132 de la Ley General y 135 de la Ley. A la respuesta del solicitante deberán adjuntarse los oficios de las Unidades Administrativas en el que se señala la inexistencia de la información.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+En caso de que los motivos y razones expuestos por la Unidad Administrativa sean suficientes, el Comité expedirá una resolución que indique la inexistencia del documento solicitado y lo enviará a la Unidad de Transparencia para que notifique al solicitante la respuesta de su solicitud, dentro del plazo establecido en el artículo 134 de la Ley General. A la respuesta del solicitante deberán adjuntarse los oficios de las Unidades Administrativas en el que se señala la inexistencia de la información.
 
 ###### Artículo 66.
 
@@ -773,7 +873,9 @@ II. A más tardar a las dieciséis horas del día del vencimiento del plazo lega
 
 En las solicitudes para ejercer derechos ARCO serán aplicables los artículos correspondientes a las solicitudes de acceso a la información previstas en el Reglamento con las variantes a que se refiere el presente artículo.
 
-Al promover sus solicitudes y en términos de lo establecido en el artículo 49 de la Ley General de Datos Personales, los particulares titulares de los datos personales o sus representantes deberán acreditar previamente su identidad o personalidad, según corresponda, en la forma prevista en los artículos 95 y 96 de la Ley General de Datos Personales. La representación deberá tener carácter legal en los términos de las disposiciones que correspondan. Lo anterior será aplicable en los casos de las notificaciones de resoluciones conforme a las fracciones I a III del artículo 53 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+Al promover sus solicitudes y en términos de lo establecido en el artículo 43 de la Ley General de Datos Personales, los particulares titulares de los datos personales o sus representantes deberán acreditar previamente su identidad o personalidad, según corresponda, en la forma prevista en los artículos 87 y 88 de la Ley General de Datos Personales. La representación deberá tener carácter legal en los términos de las disposiciones que correspondan. Lo anterior será aplicable en los casos de las notificaciones de resoluciones conforme a las fracciones I a III del artículo 53 de este Reglamento.
 
 ###### Artículo 70.
 
@@ -783,13 +885,19 @@ Las Unidades Administrativas podrán solicitar la ampliación del plazo de respu
 
 El procedimiento interno para dar trámite a las solicitudes para ejercer derechos ARCO se ajustará a lo siguiente:
 
-I. Recibida la solicitud, la Unidad de Transparencia deberá analizar si la Comisión es competente para atender la solicitud dentro del plazo establecido en el artículo 53 de la Ley General de Datos Personales y, en su caso, deberá orientar al particular sobre qué autoridad podría ser la competente;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+I. Recibida la solicitud, la Unidad de Transparencia deberá analizar si la Comisión es competente para atender la solicitud dentro del plazo establecido en el artículo 47 de la Ley General de Datos Personales y, en su caso, deberá orientar al particular sobre qué autoridad podría ser la competente;
 
 II. Si la Unidad de Transparencia determina la competencia de la Comisión, turnará la solicitud a la o las Unidades Administrativas que puedan tener la información o base de datos correspondiente, dentro de los tres días siguientes a que se recibió;
 
-III. En caso de que la información proporcionada por el solicitante no permita la localización de los datos personales a que se refiere la solicitud, la Unidad Administrativa informará por correo electrónico a la Unidad de Transparencia para que se prevenga al solicitante en términos del artículo 52 de la Ley General de Datos Personales, señalando la información que requiere completarse, aclararse o especificarse;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-IV. En caso de contar con la información sobre los datos personales del particular, la Unidad Administrativa deberá remitirla en formato comprensible o datos abiertos a la Unidad de Transparencia para que notifique la respuesta al solicitante dentro del plazo establecido en el artículo 51 de la Ley General de Datos Personales, precisando en su caso la gratuidad de la reproducción respectiva y el costo del envío de la información, a menos que se trate de copias certificadas, y
+III. En caso de que la información proporcionada por el solicitante no permita la localización de los datos personales a que se refiere la solicitud, la Unidad Administrativa informará por correo electrónico a la Unidad de Transparencia para que se prevenga al solicitante en términos del artículo 46 de la Ley General de Datos Personales, señalando la información que requiere completarse, aclararse o especificarse;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+IV. En caso de contar con la información sobre los datos personales del particular, la Unidad Administrativa deberá remitirla en formato comprensible o datos abiertos a la Unidad de Transparencia para que notifique la respuesta al solicitante dentro del plazo establecido en el artículo 45 de la Ley General de Datos Personales, precisando en su caso la gratuidad de la reproducción respectiva y el costo del envío de la información, a menos que se trate de copias certificadas, y
 
 V. En caso de que la Unidad Administrativa determine la inexistencia de los datos solicitados por no encontrarse en sus bases de datos, la negativa o la improcedencia de la solicitud, deberá enviar un informe dentro de los diez días siguientes al turno, en el que exponga este hecho al Comité, el cual analizará el caso y, de ser pertinente, tomará las medidas que resulten necesarias para localizar la información solicitada.
 
@@ -797,27 +905,35 @@ El Comité expedirá una resolución que confirme la improcedencia o la negativa
 
 En este caso, a la resolución que emita el Comité se adjuntará el oficio que remitió la Unidad Administrativa sobre la inexistencia de la información, la negativa o la improcedencia de la solicitud y las evidencias que resulten pertinentes.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 72.
 
-El procedimiento previsto en el artículo anterior será utilizado, en lo que resulte aplicable, para el trámite de las solicitudes de transferencia de datos personales a que se refiere el artículo 57 de la Ley General de Datos Personales.
+El procedimiento previsto en el artículo anterior será utilizado, en lo que resulte aplicable, para el trámite de las solicitudes de transferencia de datos personales a que se refiere el artículo 51 de la Ley General de Datos Personales.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 73.
 
-Las resoluciones del Comité que determinen la inexistencia de datos personales, o la improcedencia total o parcial del ejercicio de los derechos ARCO por actualizarse cualquiera de los supuestos establecidos en el artículo 55 de la Ley General de Derechos Personales, deberán estar fundadas y motivadas e indicar al solicitante que puede interponer el recurso de revisión ante el Instituto, así como proporcionarle el formato respectivo, el sitio de Internet donde puede obtenerlo e interponerlo a través de la Plataforma Nacional, o bien presentarlo directamente ante la Unidad de Transparencia.
+Las resoluciones del Comité que determinen la inexistencia de datos personales, o la improcedencia total o parcial del ejercicio de los derechos ARCO por actualizarse cualquiera de los supuestos establecidos en el artículo 49 de la Ley General de Datos Personales, deberán estar fundadas y motivadas e indicar al solicitante que puede interponer el recurso de revisión ante la Autoridad garante, así como proporcionarle el formato respectivo, el sitio de Internet donde puede obtenerlo e interponerlo a través de la Plataforma Nacional, o bien presentarlo directamente ante la Unidad de Transparencia.
 
 ###### Artículo 74.
 
 Cuando el particular haya solicitado la reproducción de la información de sus datos personales o del resultado del trámite de alguno de sus derechos ARCO en copias certificadas, los plazos de resolución comenzarán a correr a partir del día siguiente a aquél en que compruebe haber cubierto los costos correspondientes, salvo que el Comité haya confirmado la propuesta de la Unidad de Transparencia para que se exceptúe el pago derivado de la situación socioeconómica del solicitante.
 
-### Capítulo III. De la Atención de Denuncias interpuestas ante el Instituto
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+### Capítulo III. De la Atención de Denuncias interpuestas ante la Autoridad garante
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 75.
 
-En términos de la Ley General de Datos Personales, la Ley General y la Ley, existen dos tipos de denuncia ante el Instituto por:
+En términos de la Ley General y la Ley General de Datos Personales, existen dos tipos de denuncia ante la Autoridad garante por:
 
-I. Incumplimiento a las obligaciones de transparencia establecidas en la Ley General y la Ley, prevista en los artículos 89 de la Ley General y 81 de la Ley, y
+I. Incumplimiento a las obligaciones de transparencia de la COFECE, y
 
-II. Incumplimiento de las disposiciones contenidas en la Ley General de Datos Personales y demás ordenamientos que se deriven de ésta, prevista en su artículo 147, fracción II.
+II. Incumplimiento de las disposiciones contenidas en la Ley General de Datos Personales y demás ordenamientos que se deriven de ésta, prevista en su artículo 116, fracción II.
 
 ###### Artículo 76.
 
@@ -825,37 +941,53 @@ Cuando la Unidad de Transparencia tenga conocimiento de la interposición de una
 
 I. Elabore el informe justificado respecto de los hechos o motivos de la denuncia;
 
-II. Presente los informes complementarios que solicite el Instituto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+II. Presente los informes complementarios que solicite la Autoridad garante;
 
 III. Entregue la documentación e información necesaria vinculada con la presunta violación;
 
-IV. Atienda y facilite la realización de las visitas que, en su caso, ordene el Instituto en uso de sus facultades de verificación;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
 
-V. Ejecute las medidas cautelares ordenadas por el Instituto, y
+IV. Atienda y facilite la realización de las visitas que, en su caso, ordene la Autoridad garante en uso de sus facultades de verificación;
 
-VI. Realice cualquier otro acto ordenado por el Instituto para el trámite de la denuncia.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+V. Ejecute las medidas cautelares ordenadas por la Autoridad garante, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2025)</small>
+
+VI. Realice cualquier otro acto ordenado por la Autoridad garante para el trámite de la denuncia.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 77.
 
-La Unidad Administrativa, deberá realizar las acciones señaladas en el artículo anterior dentro de los plazos que para tal efecto establezcan la Ley General de Datos Personales, la Ley General, la Ley o el Instituto.
+La Unidad Administrativa, deberá realizar las acciones señaladas en el artículo anterior dentro de los plazos que para tal efecto establezcan la Ley General, la Ley General de Datos Personales y/o la Autoridad garante.
 
 ###### Artículo 78.
 
 El Coordinador Operativo deberá informar al Comité, en la sesión que corresponda, el número y tipo de denuncias interpuestas en contra de la Comisión y el estado procesal en el que se encuentran, a efecto de que puedan dictarse las medidas que resulten pertinentes para subsanarlas.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 79.
 
-La Unidad Administrativa responsable deberá cumplir las resoluciones que emita el Instituto relacionadas con las obligaciones de transparencia o para corregir las anomalías advertidas en las obligaciones de protección de los datos personales en posesión de la Comisión e informar al Comité por conducto del Coordinador Operativo.
+La Unidad Administrativa responsable deberá cumplir las resoluciones que emita la Autoridad garante relacionadas con las obligaciones de transparencia de la COFECE o para corregir las anomalías advertidas en las obligaciones de protección de los datos personales en posesión de la Comisión e informar al Comité por conducto del Coordinador Operativo.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 80.
 
-Los superiores jerárquicos de las Unidades Administrativas que resulten responsables, verificarán en todo momento el cumplimiento a las resoluciones que emita el Instituto a que se refiere el artículo anterior.
+Los superiores jerárquicos de las Unidades Administrativas que resulten responsables, verificarán en todo momento el cumplimiento a las resoluciones que emita la Autoridad garante a que se refiere el artículo anterior.
 
 ### Capítulo IV. De los Criterios del Comité
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 81.
 
-Los criterios que emita el Comité serán obligatorios para las Unidades Administrativas, con excepción de aquellas que se encuentren adscritas a la Autoridad Investigadora.
+Los criterios que emita el Comité serán obligatorios para las Unidades Administrativas.
 
 ###### Artículo 82.
 
@@ -875,19 +1007,23 @@ Las modificaciones a los criterios serán notificadas y serán aplicables en los
 
 ###### Artículo 85.
 
-Para la emisión de criterios, tanto el Comité como la Autoridad Investigadora podrán formularse mutuamente consultas, sin que resulten vinculantes para la otra parte.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2025)
 
 ## Título V. Responsabilidades y Sanciones
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
+
 ###### Artículo 86.
 
-Cuando durante la sustanciación de los procedimientos de acceso previsto en el presente Reglamento, se determine que algún servidor público de la Comisión, pudo haber incurrido en las conductas establecidas en los artículos 206 de la Ley General y 186 de la Ley o cualquier otra derivada del incumplimiento de las obligaciones establecidas en el presente Reglamento, la responsabilidad que resulte será sancionada en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Cuando durante la sustanciación de los procedimientos de acceso previsto en el presente Reglamento, se determine que algún servidor público de la Comisión, pudo haber incurrido en las conductas establecidas en los artículos 204 de la Ley General y 132 de la Ley General de Datos Personales o cualquier otra derivada del incumplimiento de las obligaciones establecidas en el presente Reglamento, la responsabilidad que resulte será sancionada en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 87.
 
-El procedimiento de responsabilidad y la imposición de sanciones a que se refiere el artículo anterior, se tramitarán de conformidad con lo establecido en el Título Noveno de la Ley General y el Título Sexto de la Ley.
+El procedimiento de responsabilidad y la imposición de sanciones a que se refiere el artículo anterior, se tramitarán de conformidad con lo establecido en el Título Noveno de la Ley General y el Título Décimo Primero de la Ley General de Datos Personales.
 
 ## Título VI. De las Excusas
 
@@ -962,3 +1098,11 @@ D.O.F. 22 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO NO. CFCE-070-2022 MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. CFCE-085-2025 POR EL QUE SE MODIFICA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Queda derogada cualquier disposición que contravenga al presente acuerdo.
