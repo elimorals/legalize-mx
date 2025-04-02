@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-para-la-igualdad-de-genero-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-02"
-last_updated: "2024-03-07"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE MARZO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO 260 PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
 
 Ley publicada en la Segunda Sección al Número 309 del Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 2017.
 
@@ -737,9 +735,9 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
 
-II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas.
+II. La violencia física.- Es cualquier acción u omisión que busque causar daño en la integridad física de la mujer, provocando lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
 III. Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de los bienes de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
@@ -779,9 +777,13 @@ g) Interponer acciones legales basadas en hechos falsos o inexistentes en contra
 
 h) Condicionar el cumplimiento de las obligaciones alimentarias a las que tenga derecho la mujer, hijas y/o hijos.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE MARZO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2025)</small>
 
-XI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+XI. Violencia por ataques con ácido, sustancias químicas o corrosivas: Es cualquier acción u omisión que cause o busque causar daño no accidental arrojando, derramando o poniendo en contacto con algún tipo de gas, compuesto químicos (sic), ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2025)</small>
+
+XII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. DE LAS MODALIDADES DE LA VIOLENCIA, DERECHOS DE LAS MUJERES Y ÓRDENES DE PROTECCIÓN
 
@@ -1491,7 +1493,17 @@ VI. Hacer del conocimiento del Ministerio Público, aquellos casos que se presum
 
 VII. Diseñar, promover y ejecutar acciones que fomenten las investigaciones y mecanismos para definir, medir, detectar y erradicar la violencia obstétrica.
 
-VIII. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+VIII. Diseñar y ejecutar programas especializados para atender a mujeres víctimas de violencia con necesidades de salud mental, en los centros de refugio o albergues.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+IX. Implementar criterios, protocolos y/o lineamientos con los que cuente para coordinarse interinstitucionalmente con las autoridades correspondientes ante casos de violencia contra mujeres.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+X. Las demás disposiciones para el cumplimiento de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1854,3 +1866,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Cualquier erogación que se genere con motivo a la entrada en vigor del presente Decreto, será cubierta de conformidad con el presupuesto autorizado a las Dependencias y Entidades de la Administración Pública Estatal, el Poder Judicial y Órganos Autónomos responsables de la ejecución del gasto público, para el ejercicio fiscal correspondiente.
+
+P.O. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 229 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES, EN MATERIA DE VIOLENCIA POR ATAQUES CON ÁCIDO, SUSTANCIAS QUÍMICAS O CORROSIVAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Los Entes Públicos en el ámbito de sus respectivas competencias, deberán realizar de inmediato las adecuaciones normativas, reglamentarias y administrativas pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Cuarto.- Para el caso que se pudieran generar erogaciones con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los recursos de los Entes Públicos en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
