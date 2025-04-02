@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2024-08-05"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -505,9 +505,11 @@ IV.- El diseño de políticas públicas dirigidas al desarrollo de espacios y tr
 
 #### SECCIÓN TERCERA BIS. DE LA VIOLENCIA OBSTÉTRICA
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2025)</small>
 
-ARTÍCULO 18 BIS.- La violencia obstétrica, es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre, o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer.
+ARTÍCULO 18 BIS.- La violencia obstétrica, es toda acción u omisión por parte del personal médico, de salud o administrativo que dañe, lastime, denigre, o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 También se considera violencia obstétrica, negar la petición de acompañamiento de persona de confianza durante la prestación de los servicios médicos en los que la normatividad en materia de salubridad, epidemiología o control sanitario lo permita; fotografiar o grabar por cualquier medio el procedimiento de atención médica sin que medie el consentimiento voluntario; así como permitir el ingreso, atención o intervención de personal externo no acreditado ni justificado medicamente, sin que medie el consentimiento voluntario.
 
@@ -2298,3 +2300,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, deberán crear dentro de su estructura orgánica, las instancias señaladas en el presente Decreto.
+
+P.O. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 18 BIS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
