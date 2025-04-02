@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2025-02-01"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1993,15 +1993,17 @@ Al que, en un lugar solitario o desprotegido, haga uso de la violencia sobre alg
 
 ### CAPITULO II. AMENAZAS
 
-(NOTA: EL 24 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE FEBRERO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 084, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 160 Bis.
 
-Cuando se realicen amenazas O CUALQUIER MANIFESTACIÓN PÚBLICA QUE ALTERE LA PAZ Y EL ORDEN, a través de imágenes o escritos en mantas, cartulinas, lonas, cartón o por cualquier medio físico, se impondrán de dos a seis años de prisión, y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Cuando se realicen amenazas públicas en contra de personas o bienes que alteren la paz o el orden, a través de videos, imágenes, escritos en mantas, cartulinas, lonas, cartón o por cualquier medio físico o electrónico, se impondrán de dos a seis años de prisión, y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2025)</small>
 
 Las mismas penas se impondrán al que elabore, fabrique, imprima, proporcione, desplace, traslade, aplique, coloque o tenga en su posesión, cualquier escrito señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2025)</small>
 
 En este caso, el delito se perseguirá de oficio.
 
@@ -2595,7 +2597,7 @@ Al que mediante cualquier acto, simule un estado de insolvencia con el objeto de
 
 ### CAPITULO XI. EXTORSION
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2025)</small>
 
 ###### Artículo 195.
 
@@ -2641,9 +2643,41 @@ La pena se incrementará en una mitad más, cuando en la comisión del delito el
 
 ###### Artículo 196.
 
-Se impondrá prisión de diez a veinte años y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización, al que para procurarse a sí mismo o a un tercero un lucro indebido o un beneficio, obligue por cualquier medio a una persona a dar, hacer, tolerar o dejar de hacer algo en perjuicio de su propio patrimonio o el de otra persona.
+Al que, sin derecho, por sí o por interpósita persona, ejerciendo o amenazando con causar algún tipo de daño en las personas o bienes o ejerciendo algún tipo de violencia física o moral, obligue a otro a dar, hacer, dejar de hacer o tolerar cualquier acción u omisión con el propósito de obtener un beneficio o lucro de cualquier tipo, para sí o para otro, se le aplicarán de diez a veinte años y multa de mil a dos mil veces el valor diario de Unidad de Medida y Actualización.
 
-Las penas se aumentarán en una mitad más si el constreñimiento se realiza por una asociación delictuosa, o por servidor público o ex servidor público o por miembros o ex miembros de alguna corporación policial. En este caso se impondrá, además, al responsable destitución del empleo, cargo o comisión y la inhabilitación de cinco a diez años para desempeñar empleo, cargo o comisión público.
+Las penas previstas para este delito se aumentarán al doble, cuando:
+
+a) Se realice por persona servidora o exservidora pública. En este caso se impondrá además la destitución del empleo, cargo o comisión público y, se le inhabilitará por el tiempo que dure la condena para desempeñar cargos o comisión públicos;
+
+b) Se realice por una persona miembro o exmiembro de una empresa de seguridad privada;
+
+c) Se cometa utilizando como medio la vía telefónica, el correo electrónico, las redes sociales, aplicaciones de mensajería o cualquier otro medio de comunicación electrónica;
+
+d) Se cometa empleando imágenes, mensajes escritos, audios o videos, sean reales o editadas;
+
+e) Se realice por persona que se ostente como integrante o miembro de un grupo u organización delictiva, aun cuando no lo sea;
+
+f) Se realice desde el interior de cualquier centro penitenciario o de reinserción social;
+
+g) Se realice en contra de personas dedicadas al comercio o a cualquier actividad productiva;
+
+h) Se realice en contra de personas dedicadas al transporte de personas o mercancías;
+
+i) Se realice en contra de personas menores de dieciocho o mayores de sesenta años;
+
+j) Si quien lo realiza obtiene el beneficio pretendido por la extorsión;
+
+k) Se realice ocasionando daños en las instalaciones de comercios, negocios o bienes en propiedad o posesión de la víctima o de un tercero con quien la persona amenazada tenga vínculos afectivos o de cualquier índole;
+
+l) Se realice utilizando armas o portando instrumentos que pongan en peligro la integridad física o la vida de la víctima, o que tengan la apariencia, forma o configuración de arma de fuego o instrumentos peligrosos;
+
+m) Se realice para obtener el cobro de un daño, derivado de un hecho de tránsito; y
+
+n) El sujeto activo del delito manifieste su pretensión de continuar obteniendo alguna cantidad de dinero o en especie por concepto de cobro de cuotas o prestaciones de cualquier índole, adicionales a los exigidos originalmente por el ilícito.
+
+Las penas señaladas en este artículo se impondrán sin perjuicio de las que correspondan por otros delitos.
+
+Este delito se perseguirá de oficio.
 
 ###### Artículo 197.
 
@@ -5702,3 +5736,13 @@ P.O. 1 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 096 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 160 BIS PRIMER PÁRRAFO Y 196 DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente decreto deberán concluirse aplicando el código penal vigente al momento de la supuesta comisión del delito y en ningún momento deberá considerarse que las nuevas disposiciones contenidas en el presente Decreto despenalizan los delitos cometidos con anterioridad.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
