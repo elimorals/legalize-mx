@@ -4,7 +4,7 @@ identifier: "CHP-codigo-civil-para-el-estado-de-chiapas-33800"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2025-01-01"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
 
 Código publicado en el Alcance al Periódico Oficial Estado de Chiapas, el 2 de febrero de 1938.
 
@@ -2059,15 +2059,15 @@ ART. 407.- LOS HIJOS MENORES DE EDAD NO EMANCIPADOS ESTAN BAJO LA PATRIA POTESTA
 
 ART. 408.- LA PATRIA POTESTAD SE EJERCE SOBRE LA PERSONA Y LOS BIENES DE LOS HIJOS. SU EJERCICIO QUEDA SUJETO EN CUANTO A LA GUARDA, EDUCACION Y BIENESTAR DE LOS HIJOS, Y A LAS MODALIDADES QUE LE IMPRIMEN LAS LEYES APLICABLES.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2025)</small>
 
-ART. 409.- LA PATRIA POTESTAD SOBRE LOS HIJOS DE MATRIMONIO SE EJERCE:
+ART. 409.- LA PATRIA POTESTAD SOBRE LAS HIJAS O LOS HIJOS DE MATRIMONIO SE EJERCE:
 
-I.- POR LOS PADRES;
+I.- POR LA MADRE Y EL PADRE.
 
 II.- POR LOS ABUELOS.
 
-LOS ABUELOS LA EJERCERAN EN AUSENCIA O POR IMPOSIBILIDAD DE LOS PADRES; LA MISMA REGLA DE PREFERENCIA SE APLICARA TRATANDOSE DE HIJOS RECONOCIDOS. EN CASO DE CONTROVERSIA ENTRE LOS OBLIGADOS, EL JUEZ DEL CONOCIMIENTO, TENIENDO EN CONSIDERACION LO QUE BENEFICIE INTEGRALMENTE A LOS HIJOS, RESOLVERA FUNDADA Y RAZONADAMENTE, QUIEN O QUIENES LA EJERCERAN.
+LOS ABUELOS LA EJERCERAN EN AUSENCIA O POR IMPOSIBILIDAD DE LA MADRE Y EL PADRE; LA MISMA REGLA DE PREFERENCIA SE APLICARA TRATANDOSE DE HIJAS O HIJOS RECONOCIDOS. EN CASO DE CONTROVERSIA ENTRE LOS OBLIGADOS, EL JUEZ DEL CONOCIMIENTO, TENIENDO EN CONSIDERACION LO QUE BENEFICIE INTEGRALMENTE AL INTERES SUPERIOR DE LAS HIJAS O HIJOS, RESOLVERA FUNDADA Y RAZONADAMENTE, QUIEN O QUIENES LA EJERCERAN.
 
 ART. 410.- CUANDO LOS DOS PROGENITORES HAN RECONOCIDO AL HIJO NACIDO FUERA DEL MATRIMONIO Y VIVEN JUNTOS, EJERCERAN AMBOS LA PATRIA POTESTAD. SI VIVEN SEPARADOS SE OBSERVARA, EN SU CASO, LO DISPUESTO POR LOS ARTICULOS 375 Y 376.
 
@@ -2294,6 +2294,10 @@ VIII.- CUANDO EL QUE LA EJERZA INCURRA EN VIOLENCIA FAMILIAR EN CONTRA DE LA NI�
 IX.- POR INCUMPLIMIENTO DE LOS DEBERES ALIMENTARIOS.
 
 X.- CUANDO SE EJERZA VIOLENCIA A TRAVES DE INTERPOSITA PERSONA, EN TERMINOS DE LO DISPUESTO EN EL PRESENTE CODIGO.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2025)</small>
+
+XI.- CUANDO QUIEN LA EJERZA SEA CONDENADO POR SENTENCIA FIRME POR EL DELITO DE FEMINICIDIO O SU TENTATIVA COMETIDO EN CONTRA DE LA MADRE DE LAS NIÑAS, NIÑOS Y ADOLESCENTES SUJETOS A LA PATRIA POTESTAD.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2003)</small>
 
@@ -11276,3 +11280,15 @@ P.O. 1 DE ENERO DE 2025.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE CHIAPAS, EN MATERIA DE PÉRDIDA DE PATRIA POTESTAD EN CASO DE FEMINICIDIO O SU TENTATIVA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Los Entes Públicos en el ámbito de sus respectivas competencias, deberán realizar de inmediato las adecuaciones normativas, reglamentarias y administrativas pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Cuarto.- Para el caso que se pudieran generar erogaciones con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los recursos de los Entes Públicos en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
