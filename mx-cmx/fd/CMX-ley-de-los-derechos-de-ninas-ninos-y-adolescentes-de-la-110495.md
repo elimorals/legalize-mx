@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2025-03-31"
+last_updated: "2025-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ABRIL DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -394,9 +394,9 @@ IV. La no discriminación;
 
 V. La inclusión;
 
-> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2025)</small>
 
-VI. El derecho a la vida, a la paz, a la supervivencia y al desarrollo integral;
+VI. El derecho a la vida, a la paz, a la supervivencia y al desarrollo integral, la salud emocional y el sano desarrollo;
 
 VII. La participación;
 
@@ -462,9 +462,9 @@ Asimismo, lo anterior se garantizará conforme a la Ley de Protección de Datos 
 
 Todas las niñas, niños y adolescentes son iguales ante la ley y merecen un trato igual y equitativo. De manera enunciativa más no limitativa, en la Ciudad de México gozarán de los siguientes derechos:
 
-> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2025)</small>
 
-I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
+I. Derecho a la vida, a la paz, a la supervivencia, al desarrollo, a la salud emocional y al sano desarrollo;
 
 II. Derecho de prioridad;
 
@@ -3179,6 +3179,14 @@ SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de
 G.O. 31 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 49 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6 FRACCIÓN VI Y 13 FRACCIÓN I DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
