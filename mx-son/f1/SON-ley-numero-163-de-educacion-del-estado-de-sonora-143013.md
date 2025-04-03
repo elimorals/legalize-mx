@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2024-04-18"
+last_updated: "2025-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -126,6 +126,10 @@ Con el ejercicio de este derecho, inicia un proceso permanente centrado en el ap
 La autoridad educativa estatal y municipal ofrecerán a las personas las mismas oportunidades de aprendizaje, así como de acceso, tránsito, permanencia, avance académico y, en su caso, egreso oportuno en el Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
 
 En el Estado de Sonora, toda persona gozará del derecho fundamental a la educación bajo el principio de la intangibilidad de la dignidad humana.
+
+> <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2025)</small>
+
+Toda niña, niño y adolescente migrante de nacionalidad mexicana o extranjera, menor de dieciocho años, sea que se encuentre en tránsito, retorno, destino, o en espera de refugio o asilo, tendrá derecho a la educación básica y media superior. Las autoridades educativas deberán priorizar el interés superior de la niñez sobre cualquier requisito o trámite administrativo a fin de garantizar su acceso al Sistema Educativo Estatal.
 
 Obligatoriedad de la educación
 
@@ -319,9 +323,9 @@ XL.- Promover la cultura de prevención de las enfermedades crónico degenerativ
 
 XLI.- Inculcar el valor del respeto y protección de la vida animal;
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, B.O. 3 DE ABRIL DE 2025)</small>
 
-XLII.- Inculcar y fortalecer la cultura del cuidado del agua y su uso responsable;
+XLII.- Inculcar y fortalecer la cultura del cuidado del agua y el aprendizaje de su uso responsable;
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 2023)</small>
 
@@ -351,7 +355,9 @@ III.- Será humanista, al fomentar el aprecio y respeto por la dignidad de las p
 
 IV.- Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
 
-V.- Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
+> <small>(REFORMADA, B.O. 3 DE ABRIL DE 2025)</small>
+
+V.- Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, el cuidado del agua y su uso responsable, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
 > <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
@@ -686,6 +692,10 @@ Inclusión, continuidad, egreso oportuno y cobertura en educación superior
 ###### Artículo 44.
 
 La autoridad educativa estatal y las autoridades municipales, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior. Determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
+
+> <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2025)</small>
+
+Para brindar una mayor cobertura, las instituciones de educación superior deberán incrementar la cantidad de cupos en su plantilla estudiantil, impartiendo la educación a distancia y semi presencial, a través de las plataformas digitales y las herramientas con las que cuenta cada institución.
 
 Respeto a la autonomía universitaria
 
@@ -1167,13 +1177,17 @@ XXIV.- Aprendizaje en las tecnologías de la información y comunicación;
 
 XXV.- El fomento de los principios básicos de seguridad y educación vial;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, B.O. 3 DE ABRIL DE 2025)</small>
 
-XXVI.- El Fomento a la cultura de la prevención del delito, con la finalidad de permitir que la sociedad se desarrolle en un ambiente armónico y seguro, que permita el bienestar y desarrollo pleno; y
+XXVI.- El fomento a la cultura de la prevención del delito, con la finalidad de permitir que la sociedad se desarrolle en un ambiente armónico y seguro, que permita el bienestar y desarrollo pleno;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE ABRIL DE 2025)</small>
 
-XXVII.- Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
+XXVII.- El fomento a la cultura del cuidado del agua y el aprendizaje de su uso responsable; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 3 DE ABRIL DE 2025)</small>
+
+XXVIII.- Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como en el artículo 13 de la presente Ley.
 
 ### Capítulo III. De las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital en el proceso educativo
 
@@ -2978,3 +2992,25 @@ B.O. 18 DE ABRIL DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 123, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación y Cultura deberá emitir su opinión a la autoridad educativa federal solicitándole que se actualicen y modifiquen los planes y programas de estudio de educación básica que se imparten en nuestro Estado, a efecto de que se incluyan contenidos regionales en los que se inculque la cultura del cuidado del agua y se imparta educación sobre su uso responsable.
+
+Con la opinión a que se refiere el párrafo anterior, la Secretaría de Educación y Cultura deberá presentar una propuesta que contenga el plan y programa de estudios con contenidos regionales en los que se inculque la cultura del cuidado del agua y se imparta educación sobre su uso responsable, para cuya elaboración deberá convocar a académicos y expertos en la materia.
+
+###### ARTÍCULO TERCERO.
+
+Se establece un periodo de 90 días hábiles para que el Poder Ejecutivo realice las adecuaciones reglamentarias de manera acorde al presente decreto, considerando las medidas para hacer efectivo el acceso, reintegración y permanencia de niñas, niños y adolescentes migrantes en el Sistema Educativo Estatal.
+
+###### ARTÍCULO CUARTO.
+
+La autoridad educativa estatal deberá incluir en sus campañas permanentes de información, la difusión focalizada de información sobre los derechos de niñas, niños y adolescentes migrantes, así como el procedimiento de ingreso al sistema educativo estatal.
