@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2024-04-05"
+last_updated: "2025-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE ABRIL DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -17421,7 +17421,9 @@ El Registrador con el aviso definitivo, sin cobro de derecho y sin calificación
 
 Sin perjuicio de la prelación que confiere la fecha de presentación del aviso definitivo, cualquier aclaración con relación a este aviso deberá ser solicitada por el registrador al Notario Público, en un plazo que no excederá de cinco días hábiles y éste deberá desahogarla en igual plazo.
 
-La presentación del aviso definitivo podrá ser sustituida por la presentación del testimonio del instrumento, formato precodificado o copia certificada electrónica que el Notario Público presente directamente o por comunicación remota, según corresponda.
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
+
+La presentación del aviso definitivo podrá ser sustituida por la presentación del testimonio del instrumento, formato precodificado o copia certificada electrónica que el Notario Público presente directamente o por comunicación remota, según corresponda, esta anotación tendrá el carácter de definitivo y en ningún momento caducará.
 
 Momento en que surte efectos el aviso definitivo
 
@@ -17451,13 +17453,17 @@ Rectificación de asientos por error
 
 Títulos incompatibles
 
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
 
 ###### Artículo 8.
 
-30.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga por ser incompatible. La incompatibilidad sólo tendrá lugar cuando los derechos de que se trate no puedan coexistir.
+30.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro que, refiriéndose al mismo inmueble o derecho real, se le oponga por ser incompatible. La incompatibilidad sólo tendrá lugar cuando los derechos de que se trate no puedan coexistir.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse otro título de la clase antes expresada, mientras el asiento esté vigente.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 No existirá incompatibilidad cuando se trate de una inexactitud por error material.
 
@@ -17499,13 +17505,13 @@ Verificado lo anterior, el Registrador deberá realizar la anotación o inscripc
 
 Los Registradores no podrán exigir otros datos, requisitos e información que la necesaria para el llenado del Formato Precodificado.
 
-Devolución de documento con datos de inscripción
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+Devolución de documento con datos de inscripción
 
 ###### Artículo 8.
 
-33.- Hecho el registro, serán devueltos los documentos al que los presentó, con los datos de la inscripción, fecha, firma y sello.
+33.- Hecho el registro, serán devueltos los documentos al que los presentó, con los datos de la inscripción, fecha, firma electrónica y sello electrónico.
 
 Impugnación contra la calificación registral. Recurso de Inconformidad o juicio
 
@@ -17543,21 +17549,23 @@ Error material
 
 36.- Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia, se equivoquen los nombres o las cantidades al copiarlas del documento, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos.
 
-Error de concepto
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+Error de concepto
 
 ###### Artículo 8.
 
-37.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos del documento, se altere o varíe su sentido.
+37.- Se entenderá que se comete error de concepto cuando el error provenga del documento y en consecuencia al momento de registrarlo el error se publicitó en la inscripción.
+
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
 
 Legitimación para la rectificación y reposición de asientos
 
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
-
 ###### Artículo 8.
 
-38.- Cuando se trate de errores de concepto o materiales, o de reposición de asientos deteriorados, destruidos o extraviados, podrán rectificarse o reponerse, con documento idóneo, debiendo acreditar el solicitante su interés jurídico.
+38.- Cuando se trate de errores materiales, o de reposición de asientos deteriorados, destruidos o extraviados, podrán rectificarse o reponerse, con documento idóneo, debiendo acreditar el solicitante su interés jurídico.
+
+Por cuanto hace a los errores de concepto solo podrán ser rectificados con la presentación de un nuevo documento que reúna las mismas formalidades del documento rectificado, en donde se aclare el error cometido.
 
 Oposición del registrador a la rectificación o reposición
 
@@ -17635,7 +17643,7 @@ IV. Se declare judicialmente la nulidad o falsedad del asiento;
 
 V. Sea vendido judicialmente el inmueble que reporte gravamen, cuando así proceda conforme al artículo 7.603; y
 
-VI. Tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que se ordene su prórroga.
+VI. (DEROGADA, G.G. 3 DE ABRIL DE 2025)
 
 > <small>(ADICIONADA, G.G. 3 DE AGOSTO DE 2016)</small>
 
@@ -17711,7 +17719,9 @@ I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita,
 
 II. Los contratos de arrendamiento de parte o de la totalidad de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
 
-III. Los demás títulos que la ley ordene expresamente que sean registrados.
+> <small>(REFORMADA, G.G. 3 DE ABRIL DE 2025)</small>
+
+III. Los demás títulos que la Ley Registral y su Reglamento, u otros ordenamientos ordenen expresamente que sean registrados.
 
 Documentos anotables
 
@@ -17761,13 +17771,13 @@ Anotaciones judiciales o administrativas
 
 56.- En los casos de las anotaciones judiciales o administrativas, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
 
-Anotación de fianzas
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+Anotación de fianzas
 
 ###### Artículo 8.
 
-57.- En el caso de anotación de fianzas producirá el efecto fijado por el capítulo respectivo, así como las fianzas a que se refieren los artículos 31 y 100 de la Ley Federal de Instituciones de Fianzas.
+57.- En el caso de anotación de fianzas producirá el efecto fijado por el capítulo respectivo, así como las fianzas a que se refieren los artículos 189 y 286 de la Ley de Instituciones de Seguros y Fianzas.
 
 Efectos de la anotación respecto a los bienes
 
@@ -17835,17 +17845,23 @@ Inmatriculación de título fehaciente
 
 Inmatriculación de Inmuebles que carezcan de antecedentes registrales
 
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
 
 ###### Artículo 8.
 
-65.- Para la inmatriculación de inmuebles que carezcan de antecedentes registrales los que tengan interés legítimo podrán ocurrir ante el Registro Público a solicitarla, debiendo acompañar a su promoción:
+65.- Para la inmatriculación de inmuebles que carezcan de antecedentes registrales los que tengan interés legítimo podrán acudir ante el Registro Público a solicitarla, debiendo acompañar a su promoción:
+
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2011)</small>
 
 I. Certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito; y
 
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2011)</small>
+
 II. Comprobante del pago del impuesto predial al corriente a nombre de quién se promueve.
 
-Las personas que soliciten la inmatriculación de inmuebles, deberán cumplir los requisitos y sujetarse al procedimiento que establezca el reglamento respectivo.
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
+
+Las personas que soliciten la inmatriculación de inmuebles deberán cumplir los requisitos y sujetarse al procedimiento que establezca la Ley respectiva.
 
 La inmatriculación en relación a terceros
 
@@ -17855,15 +17871,15 @@ La inmatriculación en relación a terceros
 
 66.- La inmatriculación de un inmueble por resolución del titular del Registro Público, dejará siempre a salvo los derechos de terceros.
 
-Rectificación de las inmatriculaciones
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+Rectificación de las inmatriculaciones
 
 ###### Artículo 8.
 
-67.- Una vez realizada la inmatriculación, sólo podrá rectificarse por el Director General del Instituto de la Función Registral del Estado de México cuando se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos. Tratándose de un error de concepto, sólo podrá rectificarse o cancelarse por determinación judicial.
+67.- Una vez realizada la inmatriculación, sólo podrá rectificarse por la persona Titular de la Dirección General del Instituto de la Función Registral del Estado de México cuando se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos.
 
-Se entenderá que se comete error de concepto cuando al expresar en la inmatriculación alguno de los contenidos del título, se altere o varíe su sentido.
+Por cuanto hace a los errores de concepto solo podrán ser rectificados con la presentación de un nuevo título que reúna las mismas formalidades del título rectificado, en donde se aclare el error cometido.
 
 Inscripción de la inmatriculación administrativa
 
@@ -17891,7 +17907,7 @@ Sistema de registro
 
 Las inscripciones, registros, anotaciones y asientos a que se refiere este Libro Octavo se practicarán en folios que podrán evidenciarse en forma impresa, documental, magnética, informática, electrónica o cibernética conforme a lo previsto en este Código y el Reglamento.
 
-Las anotaciones que se realicen al margen de los asientos o inscripciones correspondientes se harán constar conforme a lo previsto en el mencionado Reglamento.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
 
 La operación del Registro Público de la Propiedad podrá llevarse a cabo mediante un sistema informático, el cual utilice formas precodificadas para la realización de trámites registrales, de acuerdo con las disposiciones que al efecto se establezcan.
 
@@ -18812,3 +18828,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 100.- POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 8.26, EL PÁRRAFO PRIMERO DEL ARTÍCULO 8.30, LOS ARTÍCULOS 8.33, 8.37 Y 8.38, LA FRACCIÓN III DEL ARTÍCULO 8.53, EL ARTÍCULO 8.57, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 8.65, Y EL ARTÍCULO 8.67, Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 8.46 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 8.70 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 57 DE LA LEY REGISTRAL PARA EL ESTADO DE MÉXICO, Y SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 51, LA FRACCIÓN III DEL ARTÍCULO 93, EL PÁRRAFO PRIMERO DEL ARTÍCULO 131, EL PÁRRAFO PRIMERO Y LA FRACCIÓN XV DEL ARTÍCULO 134 Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 51, UN PÁRRAFO SEGUNDO A LA FRACCIÓN VII Y LA FRACCIÓN XVI DEL ARTÍCULO 134 DE LA LEY DEL NOTARIADO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la adición del párrafo cuarto al artículo 51 de la Ley del Notariado del Estado de México que entrará en vigor en un periodo de 60 días naturales contados a partir de la publicación del presente Decreto.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
