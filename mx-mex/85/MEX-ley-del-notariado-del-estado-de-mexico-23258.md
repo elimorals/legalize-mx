@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2024-04-05"
+last_updated: "2025-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE ABRIL DE 2025.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -599,17 +599,21 @@ Para la entrega de folios electrónicos, por parte del Colegio, la Consejería J
 
 La Consejería Jurídica comunicará al Colegio y al Archivo la fecha de autorización de los folios físicos y/o electrónicos para su control correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
 
 ###### Artículo 51.
 
-El protocolo pertenece al Estado. Los notarios lo tendrán en custodia bajo su más estricta responsabilidad por cinco años contados a partir de la fecha de autorización del siguiente libro o juego de libros ya sean físicos o electrónicos para seguir actuando.
+El protocolo pertenece al Estado. Las y los notarios lo tendrán en custodia bajo su más estricta responsabilidad por cinco años contados a partir de la fecha de autorización del siguiente libro o juego de libros ya sean físicos o electrónicos para seguir actuando.
 
 Transcurrido este término, remitirán los libros respectivos al Archivo, para su resguardo definitivo.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
 Para el caso de los libros en formato electrónico, el Archivo deberá emitir los lineamientos bajo los cuales se realizará remisión de los mismos.
+
+> <small>(ADICIONADO, G.G. 3 DE ABRIL DE 2025)</small>
+
+Los protocolos para su entrega física también deberán ser digitalizados y proporcionados en formato o medio electrónico que asegure su integridad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1003,7 +1007,9 @@ II. Previo al otorgamiento de cualquier acto que implique la transmisión de dom
 
 Si dicho poder es de los que deben darse aviso al Registro Nacional de Avisos de Poderes Notariales, deberá consultar la base de datos de dicho registro mediante los sistemas establecidos al efecto.
 
-III. El notario ante quien se revoque o renuncie un poder que haya sido otorgado ante otro notario, aun cuando sea de otra entidad federativa, tendrá la obligación de comunicárselo por correo certificado o por cualquier otro medio indubitable de comunicación, en el que conste de manera fehaciente el acuse de recibo respectivo, dentro de los quince días hábiles siguientes, a fin de que haga la anotación complementaria correspondiente en el protocolo en que se contenga y, en su caso, hará la misma comunicación al Archivo en que se encuentre depositado el protocolo. Cuando el poder revocado o renunciado haya sido otorgado ante su fe, lo hará constar en nota complementaria en el instrumento original.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 3 DE ABRIL DE 2025)</small>
+
+III. El notario ante quien se revoque o renuncie un poder que haya sido otorgado ante otro notario, aun cuando sea de otra entidad federativa, tendrá la obligación de comunicárselo por correo certificado o por cualquier otro medio indubitable de comunicación, en el que conste de manera fehaciente el acuse de recibo respectivo, dentro de los quince días hábiles siguientes. a fin de que haga, de manera inmediata, la anotación complementaria correspondiente en el protocolo en que se contenga y, en su caso, hará la misma comunicación al Archivo en que se encuentre depositado el protocolo. Cuando el poder revocado o renunciado haya sido otorgado ante su fe, lo hará constar en nota complementaria en el instrumento original. La obligación de notificar la revocación de poderes la adquiere el otorgante o quien revoca el poder en su momento de notificar fehacientemente al apoderado que es revocado.
 
 Adicionalmente, si el poder hubiese sido inscrito ante el Registro Nacional de Avisos de Poderes Notariales, el Notario deberá dar aviso a dicho registro de la revocación o renuncia, en igual plazo, mediante los sistemas establecidos al efecto.
 
@@ -1317,11 +1323,11 @@ El Colegio coordinará a los notarios que desempeñen la función de árbitro, m
 
 ### CAPITULO PRIMERO. DEL ARCHIVO GENERAL DE NOTARIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
 
 ###### Artículo 131.
 
-El Archivo tiene a su cargo la custodia, conservación y reproducción de los documentos físicos o electrónicos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos y demás documentos que en él se depositen; dependerá de la Consejería Jurídica y tendrá su sede en la capital del Estado, pudiendo establecer oficinas regionales de acuerdo a las necesidades del servicio.
+El Archivo tiene a su cargo la custodia, conservación y reproducción de los documentos físicos o electrónicos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos y demás documentos que en él se depositen; dependerá de la Consejería Jurídica y tendrá su sede en la capital del Estado, pudiendo establecer oficinas regionales de acuerdo con las necesidades del servicio, comisionando personal altamente capacitado en materia notarial para informar, asesorar e inclusive iniciar el trámite solicitado, para que sea el vínculo entre la ciudadanía y el Archivo, ubicándolos estratégicamente en lugares donde se requiera y se preste el servicio en materia notarial.
 
 El Archivo conservará el patrimonio histórico contenido en los protocolos notariales.
 
@@ -1343,9 +1349,11 @@ III. Con los demás documentos propios del Archivo.
 
 El Archivo es público respecto de los documentos que lo integran con más de cincuenta años de antigüedad, y de ellos se expedirán testimonios o copias certificadas en formato físico o electrónico, a las personas que lo soliciten, previo pago de los derechos correspondientes, exceptuando aquéllos documentos sobra los que la ley imponga limitación o prohibición. De los documentos que no tengan esa antigüedad, sólo podrán mostrarse o expedirse reproducciones a las personas que acrediten tener interés jurídico, a los notarios o las autoridades judiciales, administrativas o fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
+
 ###### Artículo 134.
 
-El titular del Archivo tendrá las atribuciones siguientes:
+La persona Titular del Archivo tendrá las atribuciones siguientes:
 
 I. Conservar y administrar el Archivo;
 
@@ -1365,6 +1373,10 @@ VI. Expedir testimonios, copias simples o certificadas de las actas o escrituras
 
 VII. Autorizar definitivamente las escrituras con su firma autógrafa o firma electrónica avanzada y el sello correspondiente cubriendo los requisitos previos o posteriores a aquella.
 
+> <small>(ADICIONADO, G.G. 3 DE ABRIL DE 2025)</small>
+
+La persona Titular del Archivo General de Notarías, podrá realizar las gestiones necesarias para corregir los errores u omisiones materiales en los instrumentos notariales que impidan su inscripción y así poder autorizar definitivamente dichas escrituras.
+
 VIII. Llevar un registro de los testamentos que se otorguen ante notario, de los cuales hayan dado aviso en cumplimiento del artículo 95 de esta Ley, e informar de su existencia a las autoridades judiciales o notarios que lo soliciten;
 
 IX. Recibir los sellos deteriorados, alterados o recuperados después de su extravío o aquellos que no cumplan los requisitos revistos (sic) por la Ley o su Reglamento, para su destrucción;
@@ -1383,9 +1395,13 @@ XIII. Informar a la Consejería Jurídica las irregularidades en los protocolos 
 
 XIV. Implementar las políticas y lineamientos técnicos que establezca el Consejo Estatal de Gobierno Digital.
 
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 3 DE ABRIL DE 2025)</small>
 
-XV. Las demás que señale esta Ley, su Reglamento, otros ordenamientos legales y las que le confiera la Consejería Jurídica.
+XV. Realizar la anotación complementaria correspondiente a la revocación, renuncia y/o sustitución de poderes, en los mismos términos que los Notarios.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 3 DE ABRIL DE 2025)</small>
+
+XVI. Las demás que señale esta Ley, su Reglamento, otros ordenamientos legales y las que le confiera la Consejería Jurídica.
 
 ### CAPITULO SEGUNDO. DEL COLEGIO DE NOTARIOS
 
@@ -2076,3 +2092,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 100.- POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 8.26, EL PÁRRAFO PRIMERO DEL ARTÍCULO 8.30, LOS ARTICULOS 8.33, 8.37 Y 8.38, LA FRACCIÓN III DEL ARTÍCULO 8.53, EL ARTÍCULO 8.57, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 8.65, Y EL ARTÍCULO 8.67, Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 8.46 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 8.70 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 57 DE LA LEY REGISTRAL PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 51, LA FRACCIÓN III DEL ARTÍCULO 93, EL PÁRRAFO PRIMERO DEL ARTÍCULO 131, EL PÁRRAFO PRIMERO Y LA FRACCIÓN XV DEL ARTÍCULO 134 Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 51, UN PÁRRAFO SEGUNDO A LA FRACCIÓN VII Y LA FRACCIÓN XVI DEL ARTÍCULO 134 DE LA LEY DEL NOTARIADO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la adición del párrafo cuarto al artículo 51 de la Ley del Notariado del Estado de México que entrará en vigor en un periodo de 60 días naturales contados a partir de la publicación del presente Decreto.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
