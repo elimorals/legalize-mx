@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-179254
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-05-22"
-last_updated: "2024-11-29"
+last_updated: "2025-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179254&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-05-05"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 3 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2025 (ABROGADO).
 
 Estatuto publicado en el Número 15 del Diario Oficial de la Federación, el viernes 22 de mayo de 2020.
 
@@ -1690,3 +1692,31 @@ Las demás disposiciones del Estatuto Orgánico del Instituto del Fondo Nacional
 Segundo. Dentro de los 180 días naturales posteriores a la publicación del presente Estatuto en el Diario Oficial de la Federación, la Subdirección General de Administración y Recursos Humanos, emitirá el Manual General de Organización derivado de los cambios de atribuciones y funciones.
 
 Tercero. Se ordena su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “RESOLUCIÓN POR LA QUE SE APRUEBA EL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+Primero. El presente Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrará en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico del Infonavit, publicado en el Diario Oficial de la Federación el 22 de mayo de 2020 y sus modificaciones.
+
+Tercero. Dentro de los 180 días naturales posteriores a la publicación de la presente Resolución en el Diario Oficial de la Federación, la Secretaría General, emitirá el Manual General de Organización, derivado de los cambios de atribuciones y funciones.
+
+Cuarto. Las referencias que se hagan y las atribuciones que se otorgan en otras normas, procesos, procedimientos, manuales y demás disposiciones, así como en contratos y convenios a las áreas del Infonavit, se entenderán hechas o conferidas a las áreas cuya competencia corresponda en términos de lo dispuesto por la presente Resolución.
+
+Los titulares de las áreas del Instituto deberán realizar las acciones, trámites, actos y demás aspectos necesarios, con el propósito de dar continuidad a la operación y funcionamiento del Instituto.
+
+Quinto. Los contratos, convenios, poderes, mandatos y actos jurídicos vigentes con anterioridad a la entrada en vigor del presente Estatuto, subsistirán y se respetarán en los términos pactados, sin prejuicio del cambio de denominaciones y ubicación organizacional de las áreas que se modifican por el presente Estatuto, salvo que se convenga su modificación, revocación o terminación.
+
+Sexto. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área del Infonavit, continuarán siendo aplicables en lo que no se opongan a la Ley del Infonavit, sus Reglamentos, al Estatuto Orgánico del Infonavit y demás disposiciones aplicables, hasta en tanto se determine su modificación o se dejen sin efecto.
+
+Séptimo. Para efectos de la integración de los grupos de trabajo, comités, subcomités del Infonavit por las áreas que se reubican o desaparecen por la entrada en vigor del presente Estatuto, las asumirán aquéllas a las que se les atribuyen las funciones por virtud de este Estatuto, sin perjuicio de que, con posterioridad, se realicen los nombramientos o designaciones respectivas y se modifique la normativa aplicable en cada caso.
+
+Octavo. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que se reubican o desaparecen, deberán continuarse hasta su conclusión por las áreas que asumen las funciones conforme a este Estatuto.
+
+Tratándose de los procedimientos de contratación que se encuentren en trámite, se concluirán por las áreas que conforme al presente Estatuto asumen las funciones que correspondan.
+
+Noveno. La Contraloría General deberá definir los casos, establecer los criterios, formatos y plazos en los que deba realizarse la transferencia o entrega de recursos, información y documentación, derivado de la reubicación o desaparición de las áreas de la estructura orgánica básica del Instituto, así como participar en los actos de entrega y recepción, con motivo de la entrada en vigor del presente Estatuto.
+
+Décimo. Se ordena su publicación en el Diario Oficial de la Federación.
