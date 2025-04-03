@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2025-01-08"
+last_updated: "2025-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -59,9 +59,9 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2025)</small>
 
-La mujer y el hombre son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+La mujer y el hombre son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, la identidad y la expresión de género, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
@@ -323,21 +323,43 @@ Toda persona tendrá derecho al libre acceso a información plural y oportuna, a
 
 I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
 
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+
+Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la legislación secundaria aplicable en la materia determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
 
-IV. La ley establecerá los mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
+
+IV. La ley establecerá los mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes;
 
 V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
 
-VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y,
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
 
-VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
 
-Este derecho a la información deberá ser garantizado por el Estado. La ley establecerá aquella información que se considere reservada o confidencial
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes; y,
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2025)</small>
+
+VIII. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito estatal y municipal para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2025)</small>
+
+Este derecho a la información deberá ser garantizado por el Estado. La ley establecerá aquella información que se considere reservada o confidencial.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2025)</small>
+
+Los sujetos obligados se regirán por la legislación en materia de transparencia y acceso a la información pública y protección de datos personales, en términos que ésta sea emitida por la autoridad competente para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2025)</small>
+
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -845,7 +867,7 @@ d) Que el poblado que se elija como cabecera municipal tenga una población no i
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
 
-e) El Congreso debe solicitar la opinión del ayuntamiento de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como la del Gobernador, quienes deberán emitirla dentro de los treinta días hábiles siguientes a la fecha en que les fuere requerida;
+e) El Congreso debe solicitar la opinión del ayuntamiento de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como la del Gobernador, quienes deberán emitirla dentro de los treinta días hábiles siguientes a la fecha en que les fuere requerida.
 
 V.- Agrupar dos o más Municipios en uno solo, cuando a su juicio no reunan las condiciones expresadas en la fracción anterior. El acuerdo debe ser aprobado por las dos terceras partes de los Diputados presentes;
 
@@ -893,7 +915,7 @@ XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualment
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
-El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
+El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables;
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -905,31 +927,31 @@ Para expedir leyes en materia de contabilidad gubernamental que regirán la cont
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
-XII.- Dar las bases para que el Ejecutivo y los Ayuntamientos contraten deuda pública y afecten como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes y con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
+XII.- Dar las bases para que el Ejecutivo y los Ayuntamientos contraten deuda pública y afecten como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes y con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando lo estime conveniente. Esta revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y el cumplimiento de los objetivos contenidos en los programas;
+XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando lo estime conveniente. Esta revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y el cumplimiento de los objetivos contenidos en los programas.
 
 XIV.- Legislar sobre toda clase de aranceles;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funcionamiento y rendimiento de la Auditoría Superior de Michoacán;
+XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funcionamiento y rendimiento de la Auditoría Superior de Michoacán.
 
 XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XVI bis.- Legislar en materia de políticas de sueldos, salarios y prestaciones, bajo los principios de racionalidad, austeridad, proporcionalidad, equidad, certeza y motivación, que eviten excesos y discrecionalidad de las autoridades, garantizando la participación de órganos colegiados en la definición de criterios, políticas y lineamientos en la materia. A lo que se sujetarán los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos y entidades de la Administración Pública Paraestatal;
+XVI bis.- Legislar en materia de políticas de sueldos, salarios y prestaciones, bajo los principios de racionalidad, austeridad, proporcionalidad, equidad, certeza y motivación, que eviten excesos y discrecionalidad de las autoridades, garantizando la participación de órganos colegiados en la definición de criterios, políticas y lineamientos en la materia. A lo que se sujetarán los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos y entidades de la Administración Pública Paraestatal.
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2009)</small>
 
-XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, con la aprobación de las dos terceras partes de los diputados presentes;
+XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, con la aprobación de las dos terceras partes de los diputados presentes.
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2009)</small>
 
-XVII bis.- Conceder pensiones, en casos de excepción, conforme a los procedimientos y formalidades que establezca la ley de la materia, con la aprobación de las dos terceras partes de los diputados presentes;
+XVII bis.- Conceder pensiones, en casos de excepción, conforme a los procedimientos y formalidades que establezca la ley de la materia, con la aprobación de las dos terceras partes de los diputados presentes.
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2018)</small>
 
@@ -971,9 +993,7 @@ XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
 XXIII-A.- Elegir, reelegir y destituir del encargo, a las magistradas y magistrados del Tribunal en materia Anticorrupción y Administrativa, y aprobar o negar las solicitudes de licencia y renuncia de los mismos;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-XXIII-B.- Elegir, reelegir y destituir del cargo, a los comisionados del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
+XXIII-B.- (DEROGADA, P.O. 3 DE ABRIL DE 2025)
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -1557,7 +1577,7 @@ VII. Los síndicos e interventores de concursos, quiebras y suspensión de pagos
 
 VIIII. (sic) Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
 
-IX. Los cuerpos policíacos del Estado y de los municipios; y
+IX. Los cuerpos policíacos del Estado y de los municipios; y,
 
 (NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1925,29 +1945,13 @@ La elección del Presidente de la Comisión Estatal de los Derechos Humanos, se 
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE ABRIL DE 2025)</small>
 
 #### SECCION III. Del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
 ###### Artículo 97.
 
-El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales es un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley; se regirá por la ley en materia de transparencia y acceso a la información pública y por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
-
-El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales se integra por tres comisionados de los cuales uno será su presidenta o presidente, mismos que serán electos por el Congreso del Estado, con el voto de las dos terceras partes de los miembros presentes, garantizando el principio de paridad de género. Para la elección de los comisionados, el Congreso del Estado emitirá convocatoria pública dirigida a las instituciones académicas, culturales, civiles, colegios de profesionistas, organizaciones gremiales y a la sociedad en general, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
-
-Las comisiones de dictamen designadas propondrán al Pleno una terna por cada vacante de Comisionados a elegir. Una vez electos, en su caso, el Pleno procederá a la designación del Comisionado Presidente. Los comisionados durarán en su encargo tres años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V y VI del artículo 76 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, y podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución. En la conformación del organismo garante se procurará la equidad de género.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)</small>
-
-Las resoluciones del Instituto son vinculatorias para los sujetos obligados. La Ley establecerá los medios de apremio para asegurar el cumplimiento de sus decisiones y, en su caso, denunciará ante el Tribunal en materia Anticorrupción y Administrativa a los sujetos obligados que las incumplieren. Toda autoridad y servidor público estará obligado a coadyuvar con el Instituto y sus integrantes para el buen desempeño de sus funciones.
-
-El organismo garante tendrá un Consejo Consultivo integrado por cinco Consejeros, quienes desempeñaran el cargo de manera honorífica, los cuales serán electos por el voto de dos terceras partes de los miembros presentes del Congreso del Estado.
-
-La ley establecerá la integración y funcionamiento del Sistema Estatal de Transparencia y del Consejo Consultivo del organismo.
+(DEROGADO, P.O. 3 DE ABRIL DE 2025)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -2121,7 +2125,7 @@ Las leyes establecerán los mecanismos para la instauración de la defensoría i
 
 ###### Artículo 104.
 
-Se consideran servidores públicos a los representantes de elección popular, a los funcionarios, empleados y; en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier índole en los Poderes Legislativo, Ejecutivo y Judicial, sean de naturaleza centralizada o paraestatal, así como a los servidores públicos de los ayuntamientos y entidades paramunicipales y de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y por el manejo indebido de recursos públicos y la deuda pública
+Se consideran servidores públicos a los representantes de elección popular, a los funcionarios, empleados y; en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier índole en los Poderes Legislativo, Ejecutivo y Judicial, sean de naturaleza centralizada o paraestatal, así como a los servidores públicos de los ayuntamientos y entidades paramunicipales y de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y por el manejo indebido de recursos públicos y la deuda pública.
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de conflicto de intereses ante las autoridades competentes y en los términos que determine la ley.
 
@@ -2225,9 +2229,9 @@ Artículo 109 bis.- Los entes públicos estatales y municipales tendrán órgano
 
 Artículo 109 ter.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de: Auditoría Superior de Michoacán, Fiscalía Especializada en Combate a la Corrupción y el Órgano de Control Interno del Ejecutivo Estatal; el Presidente del Tribunal en materia Anticorrupción y Administrativa y del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales; por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana; así como tres titulares de las contralorías municipales, electos por sus pares;
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de: Auditoría Superior de Michoacán, Fiscalía Especializada en Combate a la Corrupción y el Órgano Estatal de Control del Ejecutivo; el Presidente del Tribunal en materia Anticorrupción y Administrativa; un representante del Poder Judicial del Estado y otro del Comité de Participación Ciudadana; así como tres titulares de las contralorías municipales, electos por sus pares.
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que acrediten conocimiento y/o contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley; y,
 
@@ -2637,7 +2641,7 @@ Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, presta
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
 
-Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y Municipios
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y Municipios.
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
 
@@ -4484,3 +4488,39 @@ QUINTO. La Universidad Michoacana de San Nicolás de Hidalgo, tendrá un plazo d
 SEXTO. Todos los derechos y obligaciones de los trabajadores de la Universidad Michoacana de San Nicolás de Hidalgo, así como jubilaciones y pensiones concedidas con anterioridad al presente Decreto, adquiridas por la reforma del año 2020, así como todas las que abonen a los derechos laborales de los trabajadores mencionados, se respetarán en términos de la legislación aplicable al momento de su contratación.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 97 POR EL QUE "SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Notifíquese el Presente Decreto a los Ayuntamientos del Estado de Michoacán y al Concejo Mayor de Cherán, para su conocimiento y aprobación de conformidad con el Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para los efectos constitucionales correspondientes.
+
+Artículo Tercero. El Congreso del Estado tendrá un plazo de ciento ochenta días, contado a partir de su entrada en vigor, para armonizar la normatividad conforme a lo establecido en el presente Decreto.
+
+P.O. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 108 POR EL QUE "SE REFORMAN LAS FRACCIONES II, IV, VI Y VII DEL ARTÍCULO 8 Y LA FRACCIÓN I DEL ARTÍCULO 109 TER; SE ADICIONA UNA FRACCIÓN VIII Y DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 8°; Y, SE DEROGA LA FRACCIÓN XXIII-B DEL ARTÍCULO 44; LA SECCIÓN III DEL CAPÍTULO I DEL TÍTULO TERCERO A Y SU ARTÍCULO 97, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Congreso del Estado tendrá un plazo no mayor a 120 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes que correspondan de conformidad con la Ley General que expida el Congreso de la Unión, en tanto se continuará aplicando supletoriamente la legislación vigente en la materia, en lo que no se oponga al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado dentro del término de 120 días posteriores a la entrada en vigor del presente Decreto deberá extinguir al Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, por lo que, corresponderá a la Contraloría Interna del Congreso del Estado; al Órgano Estatal de Control del Ejecutivo; al Órgano responsable de Control Interno del Poder Judicial; a los Órganos de Control de los Organismos Autónomos; al Órgano de Control Interno del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo; y, a los Órganos Internos de Control de los Entes Públicos Estatales y Municipales, asumir las funciones de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en los términos del presente Decreto y la legislación referida en el artículo Segundo Transitorio anterior.
+
+El Ejecutivo del Estado designará al Órgano Estatal de Control para que funja como liquidador del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Los actos jurídicos emitidos por el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales, por lo que seguirán atendiendo los asuntos hasta en tanto no se extinga al Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, en los términos establecidos en el artículo Tercero Transitorio del presente Decreto.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones del extinto Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos materiales, así como los registros, padrones, plataformas y sistemas electrónicos del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales pasarán a formar parte del Órgano Estatal de Control del Ejecutivo, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+CUARTO. Los Comisionados del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, concluirán sus funciones al momento de la extinción del mismo, por lo que en un plazo no mayor a 45 días hábiles serán liquidados conforme a la legislación aplicable, respetándose en su totalidad los derechos adquiridos.
+
+QUINTO. Las personas servidoras públicas del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales concluirán sus funciones al momento de la extinción del mismo, por lo que en un plazo no mayor a 45 días hábiles serán liquidados conforme a la legislación aplicable, respetándose en su totalidad los derechos adquiridos, al momento de su contratación.
+
+SEXTO. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+SÉPTIMO. El Titular del Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración remitirá al Congreso del Estado en un plazo no mayor de 30 días hábiles, a la entrada en vigor del presente Decreto, las reformas y las reasignaciones presupuestales necesarias para su aprobación e implementación.
