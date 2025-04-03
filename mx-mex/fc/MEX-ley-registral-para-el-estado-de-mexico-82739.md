@@ -4,7 +4,7 @@ identifier: "MEX-ley-registral-para-el-estado-de-mexico-82739"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2023-06-22"
+last_updated: "2025-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY REGISTRAL PARA EL ESTADO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el jueves 18 de agosto de 2011.
 
@@ -713,7 +715,9 @@ VIII. El nacimiento de la obligación futura y el cumplimiento de las condicione
 
 IX. Las afectaciones o limitaciones a que dé lugar la aplicación del Código Administrativo del Estado de México; y
 
-X. Los que de manera expresa señalen otros ordenamientos.
+> <small>(REFORMADA, G.G. 3 DE ABRIL DE 2025)</small>
+
+X. Los actos previos a la transmisión de propiedad, incluyendo los relativos a Testamento, Declaración de Herederos y Nombramiento de Albacea y/o Autorizaciones de Venta.
 
 ###### Artículo 58.
 
@@ -1482,3 +1486,13 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 100.- POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 8.26, EL PÁRRAFO PRIMERO DEL ARTÍCULO 8.30, LOS ARTÍCULOS 8.33, 8.37 Y 8.38, LA FRACCIÓN III DEL ARTÍCULO 8.53, EL ARTÍCULO 8.57, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 8.65, Y EL ARTÍCULO 8.67, Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 8.46 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 8.70 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 57 DE LA LEY REGISTRAL PARA EL ESTADO DE MÉXICO, Y SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 51, LA FRACCIÓN III DEL ARTÍCULO 93, EL PÁRRAFO PRIMERO DEL ARTÍCULO 131, EL PÁRRAFO PRIMERO Y LA FRACCIÓN XV DEL ARTÍCULO 134 Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 51, UN PÁRRAFO SEGUNDO A LA FRACCIÓN VII Y LA FRACCIÓN XVI DEL ARTÍCULO 134 DE LA LEY DEL NOTARIADO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la adición del párrafo cuarto al artículo 51 de la Ley del Notariado del Estado de México que entrará en vigor en un periodo de 60 días naturales contados a partir de la publicación del presente Decreto.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
