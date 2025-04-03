@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2025-02-14"
+last_updated: "2025-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE ABRIL DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3403,27 +3403,27 @@ A los responsables de este delito se les impondrá prisión de dos a ocho años 
 
 Al que ilícitamente posea, adquiera, venda, reciba, transporte o almacene material peligroso al que alude el Código para la Biodiversidad del Estado de México, se le impondrá de dos a seis años de prisión y de doscientos a cuatrocientos días multa.
 
-> <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
 
 ###### Artículo 229.
 
-Al que sin autorización legal realice, auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de cinco a quince años de prisión y de quinientos a mil días multa.
+Al que sin autorización legal realice, auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de diez a veinte años de prisión y de mil a mil quinientos días multa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE SEPTIEMBRE DE 2019)</small>
 
 Comete también este delito y se le aplicará igual pena al servidor público que autorice cambio de uso de suelo sobre un área natural protegida o reserva ecológica, sin que exista causa de excepción justificada, establecida en la Ley General de Desarrollo Forestal Sustentable.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
 
-Cuando la destrucción de los productos de los montes o bosques sea a consecuencia de la tala de árboles, sin autorización de la autoridad correspondiente, se impondrá una pena de doce a veinte años de prisión y de mil quinientos a tres mil días multa.
+Cuando la destrucción de los productos de los montes o bosques sea a consecuencia de la tala de árboles, sin autorización de la autoridad correspondiente, se le impondrán quince a veinticinco años de prisión y de dos mil a tres mil quinientos días multa.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
 
-A los autores intelectuales, instigadores, a quienes obtengan un lucro indebido o a quienes controlen o inciten a menores de edad para cometer este delito, se les impondrá una pena de doce a veinte años de prisión y de mil quinientos a tres mil días multa.
+A los autores intelectuales, instigadores, a quienes obtengan un lucro indebido o a quienes controlen o inciten a personas menores de edad o adultas mayores para cometer este delito, se les impondrá una pena de quince a veinticinco años de prisión y de dos mil a tres mil quinientos días multa.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.G. 2 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 3 DE ABRIL DE 2025)</small>
 
-Se impondrán de doce a veinte años de prisión y de mil quinientos a tres mil días multa:
+Se impondrán de quince a veinticinco años de prisión y de dos mil a tres mil quinientos días multa:
 
 I. Cuando en la comisión de este delito se empleen instrumentos como motosierras, sierras manuales o sus análogas y demás objetos utilizados para el daño y destrucción de los montes o bosques;
 
@@ -3432,6 +3432,12 @@ II. Cuando en la comisión de este ilícito se utilicen vehículos, camionetas o
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2019)</small>
 
 III. Cuando en la comisión de este delito participen servidores públicos, en cuyo caso, además de la pena señalada será destituido e inhabilitado por un plazo igual a la pena privativa de libertad impuesta.
+
+> <small>(ADICIONADA, G.G. 3 DE ABRIL DE 2025)</small>
+
+IV. Cuando los delitos contemplados en el presente artículo sean cometidos en áreas naturales protegidas, con violencia o mediante el uso de armas prohibidas.
+
+> <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
 
 Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio Público, quien los pondrá a disposición de la autoridad judicial para el decomiso correspondiente, independientemente de que puedan estar a disposición de otra autoridad.
 
@@ -3443,9 +3449,11 @@ No será punible el uso de leña para consumo doméstico, de material leñoso pr
 
 No será punible la comercialización y transporte de árboles de navidad obtenidos de plantaciones forestales autorizadas legalmente o registradas ante la autoridad forestal con fines de comercialización o uso doméstico. Lo anterior sin perjuicio que, en los operativos que las autoridades realicen en el ámbito de su competencia, se acredite su legal procedencia.
 
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
+
 ###### Artículo 230.
 
-A quien dolosamente deteriore, por el uso, la ocupación o el aprovechamiento, un inmueble que por decreto del ejecutivo del Estado haya sido declarado área natural protegida, en sus diferentes modalidades de reservas estatales, parques estatales, parques municipales, reservas naturales privadas o comunitarias, parajes protegidos, zonas de preservación ecológica de los centros de población y las demás que determinen las leyes y reglamentos de la materia, se le impondrán de tres a diez años de prisión y de cincuenta a doscientos días multa.
+A quien dolosamente deteriore, por el uso, la ocupación o el aprovechamiento, un inmueble que por decreto del ejecutivo del Estado haya sido declarado área natural protegida, en sus diferentes modalidades de reservas estatales, parques estatales, parques municipales, reservas naturales privadas o comunitarias, parajes protegidos, zonas de preservación ecológica de los centros de población y las demás que determinen las leyes y reglamentos de la materia, se le impondrán de cinco a quince años de prisión y de cien a quinientos días multa.
 
 ###### Artículo 231.
 
@@ -7800,3 +7808,11 @@ G.G. 14 DE FEBRERO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 101.- POR EL QUE SE REFORMAN LOS PÁRRAFOS, PRIMERO, TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 229 Y EL ARTÍCULO 230, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 229 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
