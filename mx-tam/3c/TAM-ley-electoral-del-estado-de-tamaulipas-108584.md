@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2025-02-19"
+last_updated: "2025-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -6351,7 +6351,7 @@ VI. Personas Juezas menores.
 
 Los Consejos Distritales y Municipales realizarán el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras, a partir de la llegada del primer paquete y concluirá hasta que se reciba y compute el último paquete.
 
-Los Consejos Distritales y Municipales realizarán de manera continua e ininterrumpida el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras hasta concluir el último paquete.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ABRIL DE 2025)</small>
 
 El Consejo General emitirá los lineamientos que regulen el cómputo.
 
@@ -6566,6 +6566,14 @@ Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el pres
 P.O. 19 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-245 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 66-67, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGARAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y LOS ARTÍCULOS 364, PÁRRAFO CUARTO; 389, PÁRRAFO PRIMERO, Y 416 DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-275 MEDIANTE EL CUAL SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 413 DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
