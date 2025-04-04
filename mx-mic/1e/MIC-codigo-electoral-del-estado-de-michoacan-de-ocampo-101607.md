@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2024-12-23"
+last_updated: "2025-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -2125,11 +2125,17 @@ Son derechos político-electorales de los ciudadanos michoacanos, con relación 
 
 I. Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del Estado;
 
-II. Afiliarse o separarse libre e individualmente a los partidos políticos, y,
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2020)</small>
+II. Afiliarse o separarse libre e individualmente a los partidos políticos;
 
-III. Votar y ser votado en condiciones de paridad para todos los cargos de elección popular dentro de los procesos internos de selección y elección de dirigentes, teniendo las calidades que establezca la Ley y los estatutos de cada partido político.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+III. Votar y ser votado en condiciones de paridad para todos los cargos de elección popular dentro de los procesos internos de selección y elección de dirigentes, teniendo las calidades que establezca la Ley y los estatutos de cada partido político; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2025)</small>
+
+IV. Votar aún y cuando se encuentren sujetos a un proceso criminal por delito que merezca prisión preventiva, siempre que no hayan sido condenadas (sic) mediante sentencia firme.
 
 ###### ARTÍCULO 71.
 
@@ -7476,3 +7482,13 @@ Sexto. Las personas servidoras públicas en funciones en alguno de los cargos qu
 El Congreso cancelará las candidaturas de las personas servidoras públicas que omitan informar al Consejo del Poder Judicial del Estado lo anterior y sean postuladas por alguno de los Poderes del Estado para un cargo o distrito judicial diverso al que ocupen.
 
 Séptimo. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 152 POR EL QUE "SE REFORMA EL ARTÍCULO 70 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Instituto Electoral de Michoacán deberá de generar los lineamientos, base de datos y demás supuestos técnicos administrativos para la debida aplicación de los mecanismos para que las personas privadas de su libertad puedan ejercer su derecho político electoral de votar.
+
+TERCERO. El Congreso del Estado de Michoacán de Ocampo, para el proceso electoral próximo inmediato deberá destinar los recursos necesarios para la implementación del derecho al voto de las personas en prisión preventiva.
