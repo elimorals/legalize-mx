@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2025-01-31"
+last_updated: "2025-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -1273,9 +1273,11 @@ V. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de l
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL DE ÁREAS PARA LA CONSERVACIÓN DEL PATRIMONIO NATURAL Y PATRIMONIO AMBIENTAL
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2025)</small>
+
 ###### Artículo 74.
 
-Las áreas naturales protegidas, las zonas de restauración y/o protección ambiental, las áreas voluntarias para la conservación, las áreas de jurisdicción federal que por virtud de convenios sean objeto de atención de la Secretaría, las estrategias para su manejo, administración y vigilancia, así como para su registro, constituyen en su conjunto el Sistema Estatal.
+Las áreas naturales protegidas y/o campamentos tortugueros, las zonas de restauración y/o protección ambiental, las áreas voluntarias para la conservación, las áreas de jurisdicción federal que por virtud de convenios sean objeto de atención de la Secretaría, las estrategias para su manejo, administración y vigilancia, así como para su registro, constituyen en su conjunto el Sistema Estatal.
 
 ###### Artículo 75.
 
@@ -3042,3 +3044,9 @@ P.O. 31 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo, para su publicación y efectos legales que haya a lugar.
+
+P.O. 4 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO154 POR EL QUE "SE REFORMA EL ARTÍCULO 74 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
