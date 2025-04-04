@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2025-03-08"
+last_updated: "2025-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -386,6 +386,10 @@ En forma obligatoria se asignará en el acta de nacimiento, la clave del registr
 Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil deberá asentar únicamente la población en que ocurre.
 
 En los casos de los artículos 58 y 68 de este Código, el Oficial del Registro Civil pondrá el apellido paterno de los progenitores o los dos apellidos del que lo reconozca.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2025)</small>
+
+En los casos de que el o la progenitora o los progenitores propongan un nombre en lengua indígena, el Oficial del Registro Civil está obligado a registrar en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas, respetando su cultura y su libre determinación, sin proponer cambios o correcciones.
 
 ###### Artículo 57.
 
@@ -7794,3 +7798,11 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 4 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE “SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 56 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. A partir de su entrada en vigor, la Secretaría de Gobierno a través de su Dirección del Registro Civil, expedirá en un máximo de 30 días naturales la reforma a su reglamentación necesaria a efectos de dar cumplimiento a lo mandatado en el presente Decreto.
