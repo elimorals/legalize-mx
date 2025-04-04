@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2024-09-27"
+last_updated: "2025-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2025 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -57,11 +55,11 @@ La Fiscalía General del Estado de Querétaro, es un organismo constitucional au
 
 Podrá implementar mecanismos tecnológicos digitales para sistematizar los procesos de su competencia, los cuales producirán efectos legales conforme a la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2025)</small>
 
 ###### Artículo 3.
 
-En el ejercicio de sus atribuciones, todos los servidores públicos de la Fiscalía General del Estado de Querétaro deberán conforme al artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, promover, respetar, proteger y garantizar los Derechos Humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, eficacia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad, disciplina, integridad, rendición de cuentas y demás que se dispongan en la normatividad aplicable.
+En el ejercicio de sus atribuciones, todos los servidores públicos de la Fiscalía General del Estado de Querétaro deberán conforme al artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, promover, respetar, proteger y garantizar los Derechos Humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, eficacia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad, disciplina, integridad, rendición de cuentas, así como por la perspectiva de género y el respeto a los derechos humanos y demás que se dispongan en la normatividad aplicable.
 
 ###### Artículo 4.
 
@@ -159,6 +157,10 @@ XXI. Personal Sustantivo: a los Fiscales, Peritos y Policías de Investigación,
 
 XXII. Policía de Investigación: a los integrantes del cuerpo de Policía de Investigación del Delito de la Fiscalía General del Estado de Querétaro;
 
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+XXII Bis. Programa de Derechos Humanos: al Programa de Derechos Humanos de la Fiscalía General;
+
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
 XXIII. Reglamento: al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
@@ -182,6 +184,14 @@ XXVII. UMA: a la Unidad de Medida y Actualización;
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
 XXVIII. Unidad de Análisis: a la Unidad de Análisis Criminal de la Fiscalía General del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+XXVIII Bis. UIA: a la Unidad de Inteligencia y Análisis;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+XXVIII Ter. Unidad de Delitos de Alto Impacto: a la Unidad de Investigación y Análisis de Delitos de Alto Impacto;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
@@ -217,7 +227,9 @@ V. Investigar y perseguir los delitos establecidos en la Ley General en Materia 
 
 VI. Coordinarse con las instituciones de seguridad, en los objetivos necesarios para el cumplimiento de sus fines;
 
-VII. Formular y ejecutar políticas integrales, programas y estrategias sistemáticas en materia de procuración de justicia y seguridad, conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+VII. Formular y ejecutar políticas integrales, programas y estrategias sistemáticas en materia de procuración de justicia, seguridad y derechos humanos, conforme a la normatividad aplicable;
 
 VIII. Ejercer las actividades de administración necesarias para el cumplimiento de sus fines;
 
@@ -289,6 +301,10 @@ VI. La Vice Fiscalía de Derechos Humanos y Desarrollo Institucional;
 
 VII. La Vice Fiscalía Regional;
 
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+VII Bis. La Vice Fiscalía de Formación y Capacitación;
+
 VIII. La Dirección de Investigación de la Fiscalía General;
 
 IX. La Dirección de Acusación de la Fiscalía General;
@@ -353,7 +369,9 @@ IV. El Fiscal Especializado en el Combate a la Corrupción;
 
 V. Hasta tres consejeros ciudadanos que formen parte de diferentes sectores de la sociedad, nombrados por el Fiscal General;
 
-VI. Un servidor público designado por el Fiscal General, que fungirá como Secretario Técnico, el cual tendrá voz pero no voto.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+VI. La persona titular de la Vice Fiscalía de Derechos Humanos y Desarrollo Institucional, que fungirá como Secretario Técnico, el cual tendrá voz, pero no voto.
 
 ###### Artículo 10.
 
@@ -371,9 +389,15 @@ II. Revisar los resultados de las actividades de la Fiscalía General;
 
 III. Aprobar el proyecto de ingresos y egresos que se remitirá anualmente a la Secretaría de Finanzas del Poder Ejecutivo del Estado;
 
-IV. Aprobar el informe anual de actividades de la Fiscalía General que se rinda ante la Legislatura del Estado; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
 
-V. Las demás que su Reglamento le confieran.
+IV. Aprobar el informe anual de actividades de la Fiscalía General que se rinda ante la Legislatura del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+V. Aprobar el Programa de Derechos Humanos de la Fiscalía General; así como los informes de resultados anuales; y
+
+VI. Las demás que su Reglamento le confieran.
 
 El Consejo de la Fiscalía General estará regulado en el reglamento que para tal efecto se expida.
 
@@ -458,6 +482,10 @@ XXV. Autorizar y expedir el manual de organización de la Fiscalía General y or
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
 XXVI. Autorizar los manuales de procedimientos de las direcciones de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+XXVI Bis. Instrumentar políticas públicas en materia de derechos humanos;
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
 
@@ -727,9 +755,9 @@ II. Ejercer las funciones que le sean delegadas por el Fiscal General;
 
 III. Establecer entre sí la coordinación necesaria para el debido ejercicio de sus funciones y de las demás direcciones y áreas a su cargo;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
 
-IV. Establecer entre sí la coordinación necesaria para el debido ejercicio de sus funciones y de las demás direcciones y áreas a su cargo;
+IV. Girar las indicaciones al personal a su cargo, para el debido cumplimiento de sus funciones y las que resulten procedentes para el logro de los objetivos institucionales;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -839,21 +867,43 @@ El personal sustantivo de la Unidad de Análisis, por la naturaleza de las funci
 
 La Vice Fiscalía de Derechos Humanos y Desarrollo Institucional tiene las siguientes atribuciones:
 
-I. Definir, instrumentar y evaluar las políticas y los mecanismos que orientan el adecuado desarrollo de las funciones en materia de Derechos Humanos, tecnologías y el desarrollo de los servidores públicos de la Fiscalía General;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+I. Definir, instrumentar y evaluar las políticas y los mecanismos que orientan el adecuado desarrollo de las funciones en materia de Derechos Humanos y tecnologías;
 
 II. Coordinar las acciones para (sic) cumplimiento de las obligaciones institucionales en materia de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2025)</small>
 
-III. Realizar en conjunto con las Vice Fiscalías, Direcciones y demás áreas de la Fiscalía, las acciones que propicien el desarrollo institucional de la Fiscalía General;
+III. Elaborar el Programa de Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2025)</small>
 
-IV. Garantizar el cumplimiento de las obligaciones a que se refiere la legislación en materia de transparencia, acceso a la información y protección de datos personales; y
+IV. Recabar información con las áreas de la Fiscalía General sobre el cumplimiento de los indicadores previstos en el Programa de Derechos Humanos que sean de su competencia;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+V. Presentar un informe anual al Consejo de la Fiscalía de (sic) General sobre los resultados y avances de la implementación del Programa de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+VI. Realizar actividades y estrategias de difusión de los resultados del Programa de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+VII. Coadyuvar en la representación jurídica de la Fiscalía General, en los asuntos jurídicos en materia constitucional y derechos humanos en los que tenga intervención;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE ABRIL DE 2025)</small>
+
+VIII. Realizar en conjunto con las Vice Fiscalías, Direcciones y demás áreas de la Fiscalía, las acciones que propicien el desarrollo institucional de la Fiscalía General;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE ABRIL DE 2025)</small>
+
+IX. Garantizar el cumplimiento de las obligaciones a que se refiere la legislación en materia de transparencia, acceso a la información y protección de datos personales; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2021)</small>
 
-V. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+X. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -899,11 +949,33 @@ La Vice Fiscalía Regional para la ejecución de sus atribuciones, contará con 
 
 La Vice Fiscalía Regional ejercerá sus atribuciones respecto de hechos acaecidos en la circunscripción territorial que comprende los Municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, San Juan del Río, Tequisquiapan y Tolimán.
 
-### Capítulo Primero. Disposiciones generales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE ABRIL DE 2025)</small>
+
+### Capítulo Noveno. De la Vice Fiscalía de Formación y Capacitación
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2025)</small>
+
+Artículo 17 ter. La Vice Fiscalía de Formación y Capacitación tiene las siguientes atribuciones:
+
+I. Instrumentar y participar en la evaluación de las políticas y los mecanismos que garanticen el adecuado desarrollo de los servidores públicos de la Fiscalía General;
+
+II. Realizar gestiones para cumplir con las obligaciones institucionales en materia de formación, capacitación y desarrollo del personal de la Fiscalía General;
+
+III. Coordinar los procesos de formación, capacitación, especialización o certificación del personal de la Fiscalía General, así como de su cuerpo docente;
+
+IV. Fortalecer los conocimientos y habilidades con el objetivo de mejorar el desempeño laboral del personal de la Fiscalía General;
+
+V. Aplicar un enfoque multidisciplinario en los procesos de enseñanza aprendizaje del personal de la Fiscalía General con el objetivo de potencializar los principios que rigen su actuar;
+
+VI. Diseñar y proponer estrategias para potencializar la formación, capacitación y desarrollo de los servidores públicos de la Fiscalía General; y
+
+VII. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+
+La Vice Fiscalía de Formación y Capacitación para la ejecución de sus atribuciones, contará con las áreas y el personal que el servicio requiera, conforme a la disponibilidad presupuestal y demás disposiciones jurídicas aplicables.
 
 ## Título Tercero. De las atribuciones de las Direcciones
 
-### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
+### Capítulo Primero. Disposiciones generales
 
 ###### Artículo 18.
 
@@ -949,7 +1021,7 @@ XI. Las demás que se establezcan en las disposiciones legales aplicables.
 
 En el reglamento se establecerán las funciones específicas que desempeñarán los titulares de las Direcciones.
 
-### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
+### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
 
 ###### Artículo 19.
 
@@ -1027,7 +1099,7 @@ XIX. Realizar las tareas de certificación del personal en materia de los Mecani
 
 XX. Las demás contenidas en las disposiciones aplicables.
 
-### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
+### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
 
 ###### Artículo 20.
 
@@ -1087,7 +1159,15 @@ XVI. Realizar el cobro de derechos por los servicios de expedición de documento
 
 XVII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Quinto. De la Dirección de Servicios Periciales
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2025)</small>
+
+La Dirección de Acusación, dentro de su estructura contará con una Fiscalía Especializada en Delitos de Violencia de Género contra las Mujeres, quien tendrá a su cargo la investigación y persecución de todos los delitos relacionados con cualquier tipo de violencias de género contra las mujeres, adolescentes y niñas con perspectiva de género; la cual tendrá los recursos humanos, materiales y tecnológicos necesarios para el cumplimiento de sus atribuciones, conforme la normatividad aplicable y la disponibilidad presupuestaria.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2025)</small>
+
+Además, dentro de su estructura, la Dirección de Acusación contará con la Unidad de Delitos de Alto Impacto, la cual tendrá a su cargo la investigación de los delitos de alto impacto que, por su complejidad, naturaleza o mayor impacto social, requieren un seguimiento estratégico y especial.
+
+### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
 
 ###### Artículo 21.
 
@@ -1127,7 +1207,11 @@ XIII. Coadyuvar en el ámbito de su competencia bajo el enfoque de proximidad; y
 
 XIV. Las demás que le confieran las disposiciones legales aplicables y su reglamento.
 
-### Capítulo Sexto. De la Dirección de Tecnologías
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2025)</small>
+
+La UIA estará adscrita a la Dirección de Policía de Investigación del Delito, la cual tendrá a su cargo sistematizar los datos recabados durante la investigación de los delitos a través del uso de inteligencia para la conducción estratégica y táctica de la información obtenida, así como lo (sic) demás funciones establecidas en el reglamento.
+
+### Capítulo Quinto. De la Dirección de Servicios Periciales
 
 ###### Artículo 22.
 
@@ -1153,7 +1237,7 @@ V. Dirigir y controlar el Servicio Médico Forense;
 
 VI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Séptimo. De la Dirección de Derechos Humanos
+### Capítulo Sexto. De la Dirección de Tecnologías
 
 ###### Artículo 23.
 
@@ -1185,7 +1269,7 @@ VI. Ejecutar las acciones de apoyo técnico que garanticen la seguridad de la in
 
 VII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
+### Capítulo Séptimo. De la Dirección de Derechos Humanos
 
 ###### Artículo 24.
 
@@ -1197,15 +1281,19 @@ II. Representar a la Fiscalía General ante las instancias correspondientes en t
 
 III. (DEROGADA, P.O. 2 DE JUNIO DE 2021)
 
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+IV. Atender, conforme a la normatividad aplicable, las quejas, propuestas de conciliación, recomendaciones o cualquier otra resolución o pronunciamiento que emitan los Organismos Protectores de Derechos Humanos a la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2025)</small>
+
+V. Coadyuvar en la implementación, seguimiento y evaluación del Programa de Derechos Humanos; y,
+
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-IV. Atender, conforme a la normatividad aplicable, las quejas, propuestas de conciliación, recomendaciones o cualquier otra resolución o pronunciamiento que emitan los Organismos Protectores de Derechos Humanos a la Fiscalía General; y
+VI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
-
-### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
+### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
 
 ###### Artículo 25.
 
@@ -1231,7 +1319,7 @@ IV. Desarrollar acciones de vinculación con instituciones públicas o entes pri
 
 V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Décimo. De la Dirección de Administración
+### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
 
 ###### Artículo 26.
 
@@ -1261,9 +1349,7 @@ VII. Realizar el cobro de derechos por los servicios de profesionalización que 
 
 VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Noveno (sic). De la Contraloría
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Décimo. De la Dirección de Administración
 
 ###### Artículo 27.
 
@@ -1309,83 +1395,9 @@ Artículo 27 bis. El titular de la Contraloría será designado por la Legislatu
 
 El titular de la Contraloría o en su caso el encargado, tendrán las atribuciones establecidas en esta Ley y su Reglamento.
 
-### Capítulo Noveno Bis. Del Centro de Evaluación y Control de Confianza
+### Capítulo Noveno (sic). De la Contraloría
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 bis. La Fiscalía General, contará con un Centro de Evaluación y Control de Confianza que tendrá autonomía técnica y tiene la atribución de aplicar los procedimientos de evaluación en materia de control de confianza, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 ter. El personal de la Fiscalía General, que está obligado a presentar y aprobar periódicamente el proceso de evaluación y control de confianza, son los que realicen las funciones de:
-
-I. Fiscal;
-
-II. Perito; o
-
-III. Policía de Investigación del Delito.
-
-Así como aquellos servidores públicos que dentro de sus funciones:
-
-a) Posean, resguarden, manejen o tengan acceso a información en materia de procuración de justicia y de seguridad; y
-
-b) Administren recursos financieros en materia de procuración de justicia o seguridad.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 quáter. El reglamento del Centro, determinará su organización interior para el desempeño de sus funciones.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 quinquies. El Centro contará con un Consejo que será el órgano rector del Centro, sus facultades y actuación estarán previstas en el Reglamento del Centro.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 sexies. Al frente del Centro estará un Director, y contará con el personal técnico y administrativo que resulte necesario para el cumplimiento de sus funciones, de conformidad con la suficiencia presupuestaria.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2018)</small>
-
-La designación del Director del Centro tendrá una duración de seis años y podrá ser removido por falta grave, de conformidad con las disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 septies. El Centro conducirá sus actividades en forma programada y coordinada, con base en los objetivos, estrategias y líneas de acción señalados en los programas de trabajo de la Fiscalía General.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 octies. El personal del Centro deberá presentar y aprobar, previo a su nombramiento, las evaluaciones de control de confianza, de acuerdo a su perfil y de conformidad con las disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 nonies. Los procesos de evaluación de control de confianza serán obligatorios, de conformidad con esta ley y demás legislación aplicable.
-
-En los procesos de evaluación de control de confianza, se deberá observar la normatividad que emita tanto el Centro Nacional de Certificación y Acreditación como el propio Centro.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 decies. Son motivos de evaluación:
-
-I. Nuevo ingreso;
-
-II. Permanencia;
-
-III. Promoción; y
-
-IV. En apoyo a investigaciones especiales.
-
-El Centro podrá realizar evaluaciones a los integrantes de las instituciones de seguridad, para la obtención y revalidación de la Licencia Oficial Colectiva para la portación de armas de fuego.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 undecies. El Centro, a petición de las instituciones públicas o entes privados podrá realizar evaluaciones toxicológicas y psicológicas a sus integrantes, de conformidad con las disposiciones normativas aplicables y de acuerdo a la capacidad operativa del Centro.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 28 duodecies. El Centro será el encargado de emitir el Certificado en Control de Confianza, Certificado Único Policial de los integrantes de la Dirección de Policía de Investigación del Delito y en su caso, de las Instituciones de Seguridad Pública que soliciten el servicio, siempre y cuando se hayan aprobado las evaluaciones y requisitos correspondientes de conformidad con las disposiciones legales vigentes, así como el certificado que corresponda, de acuerdo a sus atribuciones.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-Artículo 28 terdecies. El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 28.
 
@@ -1521,11 +1533,87 @@ XXXII. Las demás que le confieran las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
-### Capítulo Primero. Del personal
+### Capítulo Noveno Bis. Del Centro de Evaluación y Control de Confianza
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 bis. La Fiscalía General, contará con un Centro de Evaluación y Control de Confianza que tendrá autonomía técnica y tiene la atribución de aplicar los procedimientos de evaluación en materia de control de confianza, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 ter. El personal de la Fiscalía General, que está obligado a presentar y aprobar periódicamente el proceso de evaluación y control de confianza, son los que realicen las funciones de:
+
+I. Fiscal;
+
+II. Perito; o
+
+III. Policía de Investigación del Delito.
+
+Así como aquellos servidores públicos que dentro de sus funciones:
+
+a) Posean, resguarden, manejen o tengan acceso a información en materia de procuración de justicia y de seguridad; y
+
+b) Administren recursos financieros en materia de procuración de justicia o seguridad.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 quáter. El reglamento del Centro, determinará su organización interior para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 quinquies. El Centro contará con un Consejo que será el órgano rector del Centro, sus facultades y actuación estarán previstas en el Reglamento del Centro.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 sexies. Al frente del Centro estará un Director, y contará con el personal técnico y administrativo que resulte necesario para el cumplimiento de sus funciones, de conformidad con la suficiencia presupuestaria.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+La designación del Director del Centro tendrá una duración de seis años y podrá ser removido por falta grave, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 septies. El Centro conducirá sus actividades en forma programada y coordinada, con base en los objetivos, estrategias y líneas de acción señalados en los programas de trabajo de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 octies. El personal del Centro deberá presentar y aprobar, previo a su nombramiento, las evaluaciones de control de confianza, de acuerdo a su perfil y de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 nonies. Los procesos de evaluación de control de confianza serán obligatorios, de conformidad con esta ley y demás legislación aplicable.
+
+En los procesos de evaluación de control de confianza, se deberá observar la normatividad que emita tanto el Centro Nacional de Certificación y Acreditación como el propio Centro.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 decies. Son motivos de evaluación:
+
+I. Nuevo ingreso;
+
+II. Permanencia;
+
+III. Promoción; y
+
+IV. En apoyo a investigaciones especiales.
+
+El Centro podrá realizar evaluaciones a los integrantes de las instituciones de seguridad, para la obtención y revalidación de la Licencia Oficial Colectiva para la portación de armas de fuego.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 undecies. El Centro, a petición de las instituciones públicas o entes privados podrá realizar evaluaciones toxicológicas y psicológicas a sus integrantes, de conformidad con las disposiciones normativas aplicables y de acuerdo a la capacidad operativa del Centro.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+
+Artículo 28 duodecies. El Centro será el encargado de emitir el Certificado en Control de Confianza, Certificado Único Policial de los integrantes de la Dirección de Policía de Investigación del Delito y en su caso, de las Instituciones de Seguridad Pública que soliciten el servicio, siempre y cuando se hayan aprobado las evaluaciones y requisitos correspondientes de conformidad con las disposiciones legales vigentes, así como el certificado que corresponda, de acuerdo a sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Artículo 28 terdecies. El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.
 
 ## Título Cuarto. Del régimen del personal
 
-### Capítulo Segundo. De la designación del personal
+### Capítulo Primero. Del personal
 
 ###### Artículo 29.
 
@@ -1555,7 +1643,7 @@ V. No haber sido condenado por delito doloso; y
 
 VI. Ser de notoria buena conducta, honradez y probidad.
 
-### Capítulo Tercero. Del Servicio Profesional de Carrera
+### Capítulo Segundo. De la designación del personal
 
 ###### Artículo 32.
 
@@ -1573,7 +1661,7 @@ El ingreso, promoción, estímulo, evaluación y separación del personal de con
 
 El personal sustantivo está sujeto al Servicio Profesional, en términos de los artículos 21 y 123, apartado B, fracción XIII, de la Constitución Federal, la Constitución Local, el Reglamento Interior y el Reglamento del Servicio Profesional de Carrera de la Fiscalía General.
 
-### Capítulo Cuarto. De las excusas e incompatibilidades
+### Capítulo Tercero. Del Servicio Profesional de Carrera
 
 ###### Artículo 36.
 
@@ -1613,9 +1701,7 @@ El personal sustantivo y de confianza de la Fiscalía General, que por cualquier
 
 Su incumplimiento será constitutivo de delito en los términos de las disposiciones penales.
 
-### Capítulo Quinto. De las responsabilidades de los servidores públicos
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Cuarto. De las excusas e incompatibilidades
 
 ###### Artículo 42.
 
@@ -1630,6 +1716,10 @@ Cuando el servidor público que no se excuse, a pesar de tener algún impediment
 Los servidores públicos de la Fiscalía General no podrán ser corredores públicos, comisionistas, apoderados judiciales, tutores, curadores, interventores en quiebras, concursos o juicios sucesorios, árbitros o albaceas judiciales a no ser que sean herederos o legatarios, ni ejercer la abogacía. En este caso sólo será en causa propia, de su cónyuge, concubinario o concubina, ascendientes o descendientes hasta el cuarto grado.
 
 El Fiscal General podrá autorizar el desempeño de otro cargo, cuando el mismo no sea incompatible con sus funciones. No será necesaria la autorización respecto de actividades docentes.
+
+### Capítulo Quinto. De las responsabilidades de los servidores públicos
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 45.
 
@@ -2160,3 +2250,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 4 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
