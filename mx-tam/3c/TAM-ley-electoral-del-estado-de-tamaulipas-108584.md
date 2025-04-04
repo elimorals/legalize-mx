@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2025-02-19"
+last_updated: "2025-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,19 @@ state: "TAM"
 ---
 # LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES
 
-LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2025.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de febrero de 2013.
 
-Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
+CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 
-EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+La LXI Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
 
-Al margen un sello que dice:- “Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo
-
-LA SEXAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
-
-D E C R E T O No. LXII-597
-
-MEDIANTE EL CUAL SE EXPIDE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS.
-
-LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
+Decreto Número 309
 
 # LIBRO PRIMERO. Disposiciones generales
 
@@ -213,17 +205,15 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley
 
 ## TÍTULO PRIMERO. Derechos y Obligaciones de los ciudadanos y las ciudadanas
 
-### CAPÍTULO I. Derechos
-
-> <small>[N. DE E. DEL ANALISÍS AL DECRETO NÚMERO 66-228, PÁGINA 19 PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2025, SE ADVIERTE QUE DEROGA LOS PÁRRAFOS SÉPTIMO, OCTAVO Y NOVENO, SIN EMBARGO, EL PRESENTE ARTÍCULO SÓLO CONTIENE SEIS PÁRRAFOS.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2025)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1o.
 
 La presente Ley es de orden público e interés social y tiene por objeto la promoción de la lectura, el libro y las bibliotecas en el Estado de Aguascalientes, a través de las siguientes acciones:
 
-I. Contribuir a erradicar los distintos grados de analfabetismo y fomentar la lectura como medio de igualación social;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+I. Contribuir a erradicar los distintos grados de analfabetismo, a través de políticas públicas relacionadas con programas y acciones que fomenten la lectura como medio de igualación social;
 
 II. Impulsar la producción, edición, publicación y difusión de libros y facilitar su acceso a la población;
 
@@ -241,9 +231,25 @@ VIII. Determinar la integración, facultades y ámbito de competencias de las in
 
 IX. Fomentar campañas de difusión y divulgación de los autores aguascalentenses al promover su trabajo intelectual y la vocación de escribir;
 
-X. Registrar, enriquecer y preservar el acervo bibliográfico del Estado mediante el depósito legal, así como promover su difusión; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-XI. Proponer normatividades y reglamentos para la promoción de la lectura, el libro y a las bibliotecas públicas.
+X. Registrar, enriquecer y preservar el acervo bibliográfico del Estado mediante el depósito legal, así como promover su difusión;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XI. Proponer normatividades y reglamentos para la promoción de la lectura, el libro y a las bibliotecas públicas;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XII. Fomentar la escritura creativa como medio de expresión personal, en especial entre niñas, niños, adolescentes y jóvenes;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XIII. Promover la lectura infantil y juvenil, fuera del ámbito escolar, con énfasis en contenidos que promuevan la inclusión; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV. Fomentar y apoyar el establecimiento y desarrollo de Ferias del Libro, incluyendo sus vertientes infantiles y juveniles, así como, exposiciones y eventos literarios, librerías, bibliotecas, círculos de lecturas, el acceso a las plataformas digitales de lectura y otros espacios públicos y privados para la lectura y difusión del libro.
 
 ###### ARTÍCULO 2o.
 
@@ -343,9 +349,7 @@ VI. Integrar organismos electorales, siempre que cumplan con los requisitos que 
 
 Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-### CAPÍTULO II. Obligaciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+### CAPÍTULO II. De la Coordinación Social e Interinstitucional para la Promoción de la Lectura y el Libro en Aguascalentense (sic)
 
 ###### ARTÍCULO 5o.
 
@@ -381,7 +385,7 @@ VI. Cumplir las demás obligaciones que señalen los demás ordenamientos juríd
 
 ## TÍTULO SEGUNDO. Candidaturas Independientes
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De la Organización
 
 ###### ARTÍCULO 9o.
 
@@ -403,379 +407,197 @@ El Consejo General creará una Comisión Especial encargada de dar seguimiento a
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-###### Artículo 10.
+###### ARTÍCULO 10.
 
-El derecho de los ciudadanos y las ciudadanas de solicitar su registro de manera independiente a los partidos políticos se sujetará a los requisitos, condiciones y términos establecidos en la Constitución Federal, la Constitución del Estado, la Ley General y en la presente Ley, salvo en el requisito de la obtención del apoyo ciudadano, que será en todos los casos del 3% de la lista nominal de electores de la demarcación territorial que corresponda, aplicando los mecanismos que sobre dicho tema contempla la Ley General.
+Se crea el Consejo Estatal como órgano de carácter consultivo del ICA, con el objeto de opinar respecto de las políticas, programas y acciones realizadas en el Estado, dirigidas a lograr una cultura de promoción a la lectura y al libro, así como facilitar el acceso al libro a todas las personas.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+El Consejo Estatal estará conformado por:
 
-###### Artículo 11.
+I. Un presidente, que será el Director General del Instituto Cultural de Aguascalientes;
 
-Los ciudadanos y ciudadanas que cumplan con los requisitos, condiciones y términos, tendrán derecho a participar y, en su caso, a registrarse como candidatos o candidatas independientes para ocupar los siguientes cargos de elección popular:
+II. Un Secretario Técnico que designe el presidente del Consejo;
 
-I. Gubernatura del Estado de Tamaulipas;
+III. Un representante del Instituto de Educación de Aguascalientes;
 
-II. Diputaciones al Congreso del Estado de Tamaulipas por el principio de mayoría relativa. Para ello deberán registrar la fórmula correspondiente de propietario y suplente, en los términos de la presente Ley; y
+IV. Un representante de la Comisión de Educación y Cultura del Congreso del Estado;
 
-III. Presidencia municipal, sindicatura y regiduría. Para ello deberán registrarse como una planilla completa y no de manera individual, en los términos de la presente Ley.
+V. Un representante de la Comunidad de Autores de Aguascalientes:
 
-No procederá el registro de candidaturas independientes por el principio de representación proporcional.
+VI. Un representante de la Asociación Libreros de Aguascalientes; y
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+VII. Un representante de la Red Estatal de Bibliotecas Públicas.
 
-###### Artículo 12.
+El Consejo Estatal podrá invitar a los representantes del sector público, literario, sociedad civil e iniciativa privada.
 
-En caso de nulidad de la elección, se convocará a una extraordinaria, en la que no podrá participar el candidato o candidata independiente si es la persona sancionada.
+Los cargos de Consejero Estatal serán honoríficos.
 
-### CAPÍTULO II. Proceso de conformación de las Candidaturas Independientes
+###### ARTÍCULO 11.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+A las reuniones del Consejo Estatal podrán asistir con voz pero sin voto, hasta cuatro representantes itinerantes de escritores, editores, productores, impresores, libreros y bibliotecarios del Estado para que contribuyan al cumplimiento de sus objetivos.
 
-###### Artículo 13.
+###### ARTÍCULO 12.
 
-Para los efectos de esta Ley, el proceso de selección de candidaturas independientes comprende las siguientes etapas:
+El Consejo Estatal contará con un Secretario Técnico que será designado por su Presidente. Dicho Secretario Técnico asistirá con voz pero sin voto a las sesiones y su cargo también será honorífico.
 
-I. La convocatoria;
+### CAPÍTULO IV. Del Consejo Estatal de Promoción de la Lectura y el Libro
 
-II. Los actos previos al registro de candidatos independientes;
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
 
-III. La obtención del apoyo ciudadano;
+###### ARTÍCULO 13.
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+El Consejo Estatal sesionará ordinariamente en forma trimestral y cuantas veces se requiera, en sesiones de carácter extraordinario a convocatoria de su Presidente.
 
-IV. La declaratoria de quiénes tendrán derecho a registrarse como candidatos o candidatas independientes; y
+### CAPÍTULO V. Del programa Estatal para la Promoción de la Lectura y el Libro
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+###### ARTÍCULO 14.
 
-V. El registro de candidaturas independientes.
+En la primera sesión ordinaria del año se presentará una agenda de las actividades del año, donde se presentará el plan de trabajo relacionado con el fomento a la lectura y las relativas a la producción, distribución y circulación de libros en el Estado.
 
-### CAPÍTULO III. De la Convocatoria
+### CAPÍTULO VI. De las Bibliotecas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+###### ARTÍCULO 15.
 
-###### Artículo 14.
+El Secretario Técnico, por instrucciones del Presidente del Consejo Estatal emitirá la convocatoria de la sesión con tres días de anticipación.
 
-El Consejo General emitirá la convocatoria dirigida a los ciudadanos y ciudadanas interesadas en postularse como candidatos o candidatas independientes, a más tardar el 15 de diciembre previo al año de la elección, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los actos previos al registro, los plazos para conseguir y demostrar el apoyo ciudadano, los topes a los gastos que pueden erogar y los formatos documentales conducentes.
+La convocatoria se acompañará con el orden del día de la sesión correspondiente y la información documental necesaria respecto de los asuntos a tratar.
 
-El IETAM dará amplia difusión a la convocatoria en el Estado.
+### CAPÍTULO VII. El Depósito Legal
 
-### CAPÍTULO IV. Actos Previos al Registro
+###### ARTÍCULO 16.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+Las sesiones serán válidas con la presencia de la mitad más uno de los integrantes con derecho a voto del Consejo Estatal y en caso de no cumplirse, se emitirá nueva convocatoria.
 
-###### Artículo 15.
+###### ARTÍCULO 17.
 
-Los ciudadanos y ciudadanas que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del IETAM por escrito, en el formato que el Consejo General determine.
+Los acuerdos del Consejo Estatal deberán ser aprobados por la mayoría de los asistentes a la sesión, y en caso de empate, su Presidente contará con voto de calidad.
 
-Durante los procesos electorales ordinarios, la manifestación de la intención se deberá efectuar a partir del día siguiente al en que se emita la convocatoria y hasta tres días antes del inicio del periodo para recabar el apoyo ciudadano correspondiente, ante el Consejo General del IETAM.
+###### ARTÍCULO 18.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+Son facultades del Consejo Estatal, entre otras:
 
-Con la manifestación de intención, quien aspire a una candidatura independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en asociación civil, la cual deberá tener el mismo tratamiento que un partido político en un régimen fiscal. El IETAM establecerá el modelo único de estatutos de la asociación civil. De la misma manera, deberá acreditar el registro ante el Servicio de Administración Tributaria y anexar los datos de la cuenta bancaria que se haya abierto a nombre de la persona moral para recibir el financiamiento público y privado correspondiente. Dicha asociación civil deberá expedir comprobantes con los requisitos fiscales, en términos de las leyes aplicables.
+I. Opinar sobre el proyecto de Programa Estatal para la Promoción de la Lectura y el Libro;
 
-La cuenta bancaria referida en el párrafo anterior, servirá para el manejo de los recursos para obtener el apoyo ciudadano y para, en su caso, la campaña electoral, y se utilizará a partir del inicio de los actos tendentes a obtener el apoyo ciudadano y hasta la conclusión de las campañas electorales y con posterioridad, exclusivamente para cubrir los pasivos contraídos y demás erogaciones. Su cancelación deberá realizarse una vez que se concluyan los procedimientos que correspondan a la unidad de fiscalización respectiva, con base en la Ley General.
+II. Asesorar sobre la celebración de festivales de lectura y del libro en el Estado y sus Municipios;
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+III. Proponer al Gobierno Estatal la publicación de libros inéditos o agotados, en especial, los escritos por autores aguascalentenses o dedicados a temas relacionados con la Entidad;
 
-La persona moral a que se refiere el párrafo tercero de este artículo, deberá estar constituida con por lo menos, quienes aspiren a la candidatura independiente, quien tenga su representación legal y la persona encargada de la administración de los recursos de la candidatura independiente.
+IV. Asesorar en el diseño de colecciones de libros editados por el Gobierno (sic) Estado;
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+V. Conocer los programas y fondos establecidos en la materia por las autoridades federales a fin de proponer acciones derivadas de ellos;
 
-La persona encargada de la administración de los recursos financieros será responsable solidaria con la persona aspirante o quien encabece la candidatura independiente dentro de los procedimientos de fiscalización.
+VI. Sugerir estrategias que motiven la atención de la población hacia la lectura, apoyando las actividades y eventos que las promuevan;
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+VII. Promover la participación del sector público y privado en el fomento al libro y la lectura;
 
-Una vez presentada la carta de intención, acompañada de los requisitos respectivos y que el Consejo General expida la constancia respectiva, los ciudadanos y ciudadanas adquirirán la calidad de aspirante a candidato o candidata independiente.
+VIII. Recomendar la creación de nuevas bibliotecas y promover las gestiones necesarias para ello en coordinación con las autoridades competentes;
 
-### CAPÍTULO V. Obtención del Apoyo Ciudadano
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+IX. Impulsar modelos modernos, innovadores y tecnológicos en el funcionamiento de las bibliotecas existentes en el Estado y el acceso a libros digitales en materias especializadas; así como proponer el acceso a la lectura a grupos vulnerables por medio de la instalación de salas de lectura en reclusorios, albergues para personas con discapacidad, orfanatos y hospitales o centros de salud en general, entre otros;
 
-###### Artículo 16.
+X. Coadyuvar en la creación de bases públicas de datos de los libros editados en el Estado, por escritores aguascalentenses;
 
-A partir del día siguiente a la fecha en que los ciudadanos o ciudadanas adquieran la calidad de aspirantes a candidaturas independientes, podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios distintos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
+XI. Proponer la incorporación de facilidades de apertura de librerías en los Municipios y en el Estado;
 
-Los actos tendentes a recabar el apoyo ciudadano se sujetarán a los plazos establecidos para precampañas, en la elección que corresponda.
+XII. Proponer acciones para estimular la existencia de promotores de lectura y coordinadores de salas de lectura;
 
-El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo, a fin de garantizar los plazos de registro. Cualquier ajuste que el Consejo General realice, deberá ser difundido ampliamente.
+XIII. Promover la participación del Estado en ferias o festivales nacionales e internacionales del libro;
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+XIV. Promover la creación de becas y premios anuales para los ámbitos literarios, científicos y técnicos;
 
-###### Artículo 17.
+XV. Promover la participación de los niveles medios y superiores de la Entidad en la edición de libros;
 
-Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan quienes aspiran a una candidatura independiente con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta Ley, para obtener la declaratoria que le dará derecho a registrarse como candidato o candidata independiente y contender en el proceso electoral que se trate.
+XVI. Promover la investigación y docencia al crear estímulos para sectores académicos al sustentar mecanismos de publicación de sus respectivos trabajos; y
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+XVII. Las demás que determine el Reglamento respectivo.
 
-###### Artículo 18.
+###### ARTÍCULO 19.
 
-Tratándose de la candidatura independiente a la Gubernatura del Estado, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos y ciudadanas equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección; ésta deberá estar integrada por electores de por lo menos, veintidós municipios, que sumen, cuando menos, el 1% de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
+Las autoridades públicas, de acuerdo a la normatividad aplicable y, en su caso, a la disponibilidad presupuestaria, difundirá en los medios masivos de comunicación, las acciones encaminadas a la promoción de la lectura y a la difusión de libros en el Estado.
 
-Para fórmulas de diputaciones de mayoría relativa, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos y ciudadanas equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección, del distrito que se pretende contender; ésta deberá estar integrada de electores de más de la mitad de las secciones de los municipios que conforman el distrito, que sumen, cuando menos, el 1% de ciudadanos y ciudadanas que figuren en la lista nominal de electores en cada una de ellas.
+###### ARTÍCULO 20.
 
-Para la planilla de ayuntamiento, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos y ciudadanas equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección; ésta deberá estar integrada de electores de más de la mitad de las secciones que lo integren, que sumen, cuando menos, el 1% de ciudadanos y ciudadanas que figuren en la lista nominal de electores en cada una de ellas.
+Todo libro editado en el Estado gozará de los beneficios de las disposiciones jurídicas en la materia en el orden federal.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+La disponibilidad del libro dependerá de lo establecido en la Ley de Fomento para la Lectura y el Libro, así como su respectivo Reglamento.
 
-###### Artículo 19.
+###### ARTÍCULO 21.
 
-Quienes aspiren a una candidatura independiente no podrán realizar actos anticipados de campaña por ningún medio. La violación a esta disposición se sancionará con la negativa de registro como candidato o candidata independiente.
+El Programa Estatal se emitirá por el Poder Ejecutivo tomando en consideración las propuestas que para el efecto realice el ICA.
 
-Queda prohibido a quienes aspiren a una candidatura independiente, en todo tiempo, la contratación o adquisición de propaganda o cualquier otra forma de promoción personal en radio y televisión.
+###### ARTÍCULO 22.
 
-La violación a esta norma se sancionará con la negativa de registro como candidato o candidata independiente o, en su caso, con la cancelación de dicho registro.
+El Programa Estatal contendrá al menos un diagnóstico estatal y municipal respecto a los objetivos, estrategias para el desarrollo, metas y acciones para la promoción de la lectura y el libro.
 
-###### Artículo 20.
+###### ARTÍCULO 23.
 
-La cuenta a que se refiere el artículo 15 de esta Ley, servirá para el manejo de los recursos para obtener el apoyo ciudadano y para, en su caso, la campaña electoral.
+Las acciones que se realicen con base en el Programa Estatal, privilegiarán la producción, distribución y la promoción del libro aguascalentense.
 
-###### Artículo 21.
+###### ARTÍCULO 24.
 
-Los actos tendentes a recabar el apoyo ciudadano se financiarán con recursos privados de origen lícito, en los términos de la legislación aplicable y estarán sujetos al tope de gastos que determine el Consejo General por el tipo de elección que se trate.
-
-El Consejo General determinará el tope de gastos equivalente al 10% de lo establecido para las campañas inmediatas anteriores según la elección de que se trate.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-###### Artículo 22.
-
-Cuando quienes aspiren a una candidatura independiente rebasen el tope de gastos señalado en el artículo anterior perderán el derecho a su registro como candidato o candidata independiente o, en su caso, si ya está hecho el registro, se cancelará el mismo.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-###### Artículo 23.
-
-Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica y los comprobantes que los amparen, deberán ser expedidos a nombre de la persona aspirante y la persona encargada del manejo de recursos financieros en cuentas mancomunadas, debiendo constar en original como soporte a los informes financieros de los actos tendentes a obtener el apoyo ciudadano.
-
-Le serán aplicables a las personas aspirantes a candidaturas independientes, las disposiciones relacionadas con el financiamiento privado de las candidaturas independientes de la presente Ley.
-
-Las personas aspirantes a candidaturas independientes deberán nombrar a una persona encargada del manejo de los recursos financieros y administración de los recursos relacionados con el apoyo ciudadano, así como de la presentación de los informes, en los términos de la Ley General y la presente Ley.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-###### Artículo 24.
-
-Las personas aspirantes a candidaturas independientes deberán entregar, en términos de la Ley General, un informe de ingresos y egresos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+Se establecerá la participación de los distintos órdenes de gobierno, en el ámbito de sus distintas competencias, en el sistema de bibliotecas nacionales y locales.
 
 ### CAPÍTULO VI. Derechos y las obligaciones de las personas aspirantes a candidaturas Independientes
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
-###### Artículo 25.
+###### ARTÍCULO 25.
 
-Son derechos de las personas aspirantes a candidaturas independientes:
+Se garantizará el acceso de los ciudadanos a las bibliotecas públicas, siendo éstas las encargadas de reforzar la promoción del fomento a la lectura, del libro y del consumo de éstos como medio de socialización.
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+Se promoverá el uso y acceso a la redes de información y a los catálogos digitales, para fomentar la lectura en la sociedad.
 
-I. Solicitar al Consejo General, su registro como aspirante a candidatura independiente;
+###### ARTÍCULO 26.
 
-II. Realizar actos para promover sus ideas y propuesta, con el fin de obtener el apoyo ciudadano para el cargo al que aspira;
+Se establecen como servicios básicos, entre otros, los siguientes:
 
-III. Utilizar financiamiento privado para el desarrollo de sus actividades, en términos de esta Ley;
+I. Consulta en salas de las publicaciones de manera gratuita y con servicio adecuado a las necesidades sociales;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+II. Préstamo individual y colectivo;
 
-IV. Nombrar a una persona representante para asistir a las sesiones del Consejo que corresponda, en términos de lo que dispone el artículo 379, inciso d) de la Ley General;
+III. Información y orientación para el uso de la biblioteca y la satisfacción de las necesidades informativas de los ciudadanos;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+IV. Acceso a la información digital a través de internet o las redes análogas que se pueden desarrollar, así como la formación para su mejor manejo.
 
-V. Insertar en su propaganda la leyenda "aspirante a candidatura independiente"; y
-
-VI. Los demás establecidos por esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
-
-###### Artículo 26.
-
-Son obligaciones de las personas aspirantes a candidaturas independientes:
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-I. Conducirse con respeto irrestricto a lo que disponen la Constitución General de la República, la Constitución del Estado, la Ley General, la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y esta Ley;
-
-II. No aceptar ni utilizar recursos de procedencia ilícita para realizar actos tendentes a obtener el apoyo ciudadano;
-
-III. Abstenerse de recibir aportaciones y donaciones en efectivo, así como metales y piedras preciosas de cualquier persona física o moral;
-
-IV. Abstenerse de recibir toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de culto de cualquier religión, así como de asociaciones y organizaciones religiosas e iglesias. Tampoco podrán aceptar aportaciones o donativos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia de:
-
-a) Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de los Estados, así como de los Ayuntamientos, salvo el financiamiento público proporcionado a través de los órganos autorizados para ello en la Constitución General de la República, en la Constitución del Estado y en las leyes;
-
-b) Las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, centralizada, paraestatal y paramunicipal y los órganos de gobierno del Distrito Federal;
-
-c) Los organismos autónomos federales, estatales y del Distrito Federal;
-
-d) Los partidos políticos, personas físicas o morales extranjeras;
-
-e) Los organismos internacionales de cualquier naturaleza;
-
-f) Las personas morales; y
-
-g) Las personas que vivan o trabajen en el extranjero.
-
-V. Abstenerse de realizar, por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
-
-(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-VI. Abstenerse de ejercer violencia política contra las mujeres en razón de género y de recurrir a expresiones que degraden, DENIGREN o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
-
-VII. Rendir el informe de ingresos y egresos;
-
-VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece la presente Ley; y
-
-IX. Las demás establecidas por esta Ley.
+Además, se regirán las funciones de las bibliotecas estatales y municipales en el marco normativo establecido en la Ley General de Bibliotecas y disposiciones legales vigentes.
 
 ### CAPÍTULO VII. Declaratoria
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
-###### Artículo 27.
+###### ARTÍCULO 27.
 
-Al concluir el plazo para que los ciudadanos y ciudadanas manifiesten su respaldo a favor de alguna de las personas aspirantes a candidaturas independientes, iniciará la etapa de declaratoria de quienes tendrán derecho a registrarse como candidatos y candidatas independientes, según el tipo de elección que se trate, la cual será emitida por el Consejo General del IETAM.
+Bajo la figura del depósito legal, los editores integrarán el patrimonio bibliográfico del Estado mediante la entrega de un ejemplar en versión digital de las obras que editen bajo su responsabilidad. Todas deberán contener la ficha catalográfica o en su defecto el ISBN.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+###### ARTÍCULO 28.
 
-La declaratoria de personas aspirantes a candidaturas independientes que tendrán derecho a registrarse como tales se llevará a cabo conforme a las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-I. El IETAM, a través de la Comisión Especial, verificará la cantidad de manifestaciones de apoyo válidas obtenidas por cada una de las personas aspirantes a registrarse a candidaturas independientes a los distintos cargos de elección popular; y
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-II. Si ninguna de las personas aspirantes registradas al cargo de Gubernatura, fórmula de Diputación o planilla de Ayuntamiento obtiene, en su respectiva demarcación, el respaldo en términos de lo dispuesto por el artículo 18 de la presente Ley, el Consejo General declarará desierto el proceso de selección de candidatura independiente en la elección de que se trate.
-
-El Consejo General deberá emitir la declaratoria a que se refiere el primer párrafo del presente artículo, dentro de los 5 días posteriores a que concluya el plazo para la obtención del respaldo ciudadano.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-Dicha declaratoria se notificará en las siguientes 24 horas a todas las personas interesadas, mediante su publicación en los estrados y en la página de internet del IETAM. Además, la declaratoria se hará del conocimiento público mediante su publicación en el Periódico Oficial del Estado de Tamaulipas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
-
-###### Artículo 28.
-
-La Comisión Especial procederá a verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos y ciudadanas aparecen en la lista nominal de electores.
-
-Las firmas no se computarán para los efectos del porcentaje requerido cuando se presente alguna de las siguientes circunstancias:
-
-I. Nombres con datos falsos o erróneos;
-
-II. No se acompañen las copias de la credencial para votar vigente;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-III. En el caso de candidaturas a la Gubernatura, los ciudadanos o ciudadanas no tengan su domicilio en la Entidad;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-IV. En el caso de candidaturas a Diputaciones por el principio de mayoría relativa, los ciudadanos o las ciudadanas no tengan su domicilio en el Distrito para el que se están postulando;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-V. En el caso de candidaturas para integrar una planilla, los ciudadanos o ciudadanas no tengan su domicilio en el Municipio para el que se están postulando;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-VI. Los ciudadanos o ciudadanas hayan sido dados de baja de la lista nominal;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-VII. En el caso que se haya presentado por una misma persona más de una manifestación a favor de una misma persona aspirante a candidatura independiente, sólo se computará una; y
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-VIII. En el caso que una misma persona haya presentado manifestación en favor de más de una persona aspirante a candidatura independiente por el mismo puesto de elección, sólo se computará la primera manifestación presentada.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+Las obras serán entregadas a la institución depositaria dentro de los treinta días hábiles siguientes a la fecha de su publicación.
 
 ### CAPÍTULO VIII. Registro de candidaturas independientes
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-###### Artículo 29.
+###### ARTÍCULO 29.
 
-Los ciudadanos y ciudadanas que hayan obtenido el derecho a registrarse a candidaturas independientes, en términos del artículo 27 de esta ley, deberán satisfacer los requisitos constitucionales y legales para el registro.
+El ICA determinará la institución que será considerada biblioteca depositaria y tendrá bajo su guarda, custodia y preservación el material que reciban en depósito legal, poniéndolo a disposición de la ciudadanía para su consulta.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+La entrega de material en depósito legal deberá hacerse en las instalaciones de la biblioteca depositaria.
 
-###### Artículo 30.
+###### ARTÍCULO 30.
 
-Los plazos para el registro de las candidaturas independientes en el año de la elección serán los mismos que se señalan en la Ley para las elecciones de Gubernatura, Diputaciones y planillas de Ayuntamiento. El registro se solicitará ante el Consejo General.
+En la recepción de los materiales objeto del depósito legal, el Director de la biblioteca o la persona que para esos efectos designe el ICA deberá:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+I. Expedir constancia que acredite la entrega y conservar registro del depósito.
 
-###### Artículo 31.
+II. Compilar, custodiar, preservar y mantener en buen estado los materiales constituyentes del acervo depositado.
 
-Para registrarse como candidato o candidata independiente a un cargo de elección popular deberá:
+III. Elaborar una actualización mensual de la lista de materiales recibidos en depósito legal, y enviar esta relación al ICA y al Consejo Estatal.
 
-I. Presentar su solicitud por escrito, que deberá contener:
+IV. Establecer los procedimientos adecuados para el debido acopio de los materiales depositados y para la prestación de los servicios bibliotecarios y de consulta pública.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+###### ARTÍCULO 31.
 
-a) Apellido paterno, apellido materno, nombre completo y, en su caso, sobrenombre, además de la firma o, en su caso, huella dactilar de la persona solicitante;
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-b) Lugar y fecha de nacimiento de la persona solicitante;
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-c) Domicilio de la persona solicitante y tiempo de residencia en el mismo;
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-d) Ocupación de la persona solicitante;
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-e) Clave de credencial de elector de la persona solicitante;
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-f) Cargo para el que se pretenda postular la persona solicitante;
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-g) Designación de la persona encargada de su representación legal y domicilio para oír y recibir notificaciones; y
-
-h) Designación de la persona encargada del manejo de los recursos financieros y de la rendición de informes correspondientes.
-
-II. La solicitud deberá acompañarse de la siguiente documentación:
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-a) Formato en el que manifieste su voluntad de ser candidato o candidata independiente, a que se refiere esta Ley;
-
-b) Copia certificada del acta de nacimiento y del anverso y reverso de la credencial para votar vigente;
-
-c) Constancia de residencia efectiva o los documentos que la acrediten fehacientemente;
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
-d) La plataforma electoral que contenga las principales propuestas que el candidato o candidata independiente sostendrá en la campaña electoral;
-
-e) Los datos de identificación y vigencia de la cuenta bancaria abierta para el manejo de los recursos de la candidatura independiente, en los términos de esta Ley;
-
-f) Los informes de gastos y egresos de los actos tendentes a obtener el apoyo ciudadano;
-
-g) La cédula de respaldo que contenga el nombre, firma y clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres de la credencial para votar con fotografía vigente de cada uno de los ciudadanos que manifiestan el apoyo en el porcentaje requerido en los términos de esta Ley;
-
-h) Manifestación por escrito, bajo protesta de decir verdad, de:
-
-1) No aceptar recursos de procedencia ilícita para campañas y actos para obtener el apoyo ciudadano;
-
-2) No ser presidente del Comité Ejecutivo Nacional, Estatal, Municipal, dirigente, militante, afiliado o su equivalente, de un partido político o agrupación política, conforme a lo establecido en esta Ley; y
-
-3) No tener ningún otro impedimento de tipo legal para contender como candidato independiente.
-
-i) Escrito en el que manifieste su conformidad para que todos los ingresos y egresos de la cuenta bancaria mencionada en el inciso e) de la fracción II, sean fiscalizados, en cualquier momento, por el IETAM.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+Respecto de libros entregados en depósito legal, quienes cumplan con la obligación consignada en el Artículo 28 de la presente Ley, tendrán derecho a que su obra sea promovida y difundida en forma gratuita en las Ferias y Festivales del Libro organizados en el Estado en términos del Reglamento respectivo.
 
 ###### Artículo 32.
 
@@ -6485,19 +6307,49 @@ Las personas juzgadoras electas deberán tomar protesta ante el Congreso del Est
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga el Código Electoral para el Estado de Tamaulipas, expedido mediante Decreto número LX-652, y sus reformas subsecuentes, publicado en el Periódico Oficial del Estado, el 29 de diciembre de 2008.
+El Poder Ejecutivo expedirá el reglamento del Consejo Estatal dentro de los ciento veinte días naturales siguientes a que inicie su vigencia el presente Decreto.
 
 ###### ARTÍCULO TERCERO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto. Las referencias que en otras leyes se hagan al Código Electoral para el Estado de Tamaulipas, se entenderá que se refieren a la Ley Electoral del Estado de Tamaulipas.
+El Consejo Estatal se instalará dentro de los ciento veinte días naturales siguientes a la fecha en que se expida el reglamento del Consejo Estatal.
 
 ###### ARTÍCULO CUARTO.
 
-Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+El Programa Estatal se emitirá en un plazo de 180 días naturales a partir de la integración del Consejo Estatal de Promoción de la Lectura.
+
+Al Ejecutivo para su promulgación y publicación.
+
+Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", a los veinticuatro días del mes de enero del año dos mil trece.
+
+Lo que tenemos el honor de comunicar a usted, para los efectos constitucionales conducentes.
+
+Aguascalientes, Ags., a 24 de enero del año 2013.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+LA MESA DIRECTIVA:
+
+Dip. Juan Manuel Gómez Morales
+
+PRESIDENTE
+
+Dip. Jesús Alfredo Nieto Estebanez
+
+PRIMER SECRETARIO
+
+Dip. Mario Antonio Guevara Palomino
+
+SEGUNDO SECRETARIO
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 12 de febrero de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2015.
 
 ###### ARTÍCULO QUINTO.
 
@@ -6535,31 +6387,33 @@ P.O. 9 DE NOVIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+Se aprueba la Ley de Promoción a la Lectura, el Libro y las Bibliotecas para el Estado de Aguascalientes, para quedar en los siguientes términos:
 
-P.O. 21 DE DICIEMBRE DE 2016.
+LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO].
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
-
-P.O. 2 DE JUNIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-186 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS, LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 20.- SE REFORMA EL ARTÍCULO 10 Y LA FRACCIÓN IX DEL ARTÍCULO 18 DE LA LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3 párrafo 3 de la citada ley.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-La Convocatoria para designar a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos, así como la del Titular de la Fiscalía Especializada en Combate a la Corrupción, por esta única ocasión deberán ser emitidas a la brevedad posible, a fin de dar puntual cumplimiento al término establecido para concluir la armonización legislativa en materia de combate a la corrupción y estar en condiciones para la entrada del nuevo Sistema Estatal Anticorrupción.
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 15 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 427.- REFORMAS Y ADICIONES A LA LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal materia del presente Decreto deberá instalarse a más tardar a los 180 días naturales, contados a partir de la publicación a que hace referencia el Artículo Primer (sic) Transitorio.
+
+P.O. 7 DE DICIEMBRE DE 2020.
 
 ###### ARTÍCULO TERCERO.
 
@@ -6587,9 +6441,7 @@ P.O. 6 DE MARZO DE 2019.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 20 DE AGOSTO DE 2019.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
 
