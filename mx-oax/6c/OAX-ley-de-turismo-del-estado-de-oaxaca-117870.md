@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2022-10-15"
+last_updated: "2025-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2025.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -59,11 +59,13 @@ La presente Ley tiene por objeto:
 
 I. Atender las bases generales de coordinación de las facultades concurrentes establecidas en la Ley General de Turismo, dictadas para el Ejecutivo Federal, el Ejecutivo del Estado y los Ayuntamientos del Estado, así como la participación de los sectores social y privado;
 
-II. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos del Estado, preservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las Leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos y productos turísticos, en apego al marco jurídico vigente;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2019)</small>
+II. Determinar los mecanismos para la conservación, mejoramiento, distinción, protección, defensa, promoción y aprovechamiento de los recursos y atractivos turísticos del estado, atendiendo el fenómeno de la gentrificación, preservando el patrimonio natural, cultural, artístico, tradicional, comunal, biocultural, usos y costumbres, saberes y sabores ancestrales y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la atractivos y productos turísticos, en apego al marco jurídico vigente;
 
-III. Dictar bajo criterios de beneficio social, perspectiva de género, sustentabilidad, competitividad y desarrollo equilibrado del Estado y de los Municipios, a corto, mediano y largo plazo, las bases para la política, planeación y programación de actividad turística en Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+III. Dictar bajo criterios de beneficio social, perspectiva de género, sustentabilidad, inclusión, originalidad, competitividad y desarrollo equilibrado del estado y de los municipios, a corto, mediano y largo plazo, las bases para la política, planeación y programación de actividad turística en Oaxaca;
 
 IV. Establecer los lineamientos legales por los cuales se regirá la actividad turística en el Estado de Oaxaca;
 
@@ -71,7 +73,9 @@ V. Establecer las bases para el fomento y desarrollo de las rutas turísticas;
 
 VI. Determinar, las dependencias, entidades y órganos colegiados que serán autoridad en materia turística;
 
-VII. Establecer la participación del Ejecutivo del Estado y de los Ayuntamientos en la operación de las Zonas de Desarrollo Turístico Sustentable;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+VII. Establecer la participación del Ejecutivo del Estado, de los Ayuntamientos y de los Consejos Municipales en el establecimiento y la operación de las Zonas de Desarrollo Turístico Sustentable;
 
 VIII. Optimizar la calidad y competitividad de los servicios turísticos en el Estado;
 
@@ -87,7 +91,9 @@ XIII. Promover y vigilar el desarrollo del turismo social, propiciando el acceso
 
 XIV. Garantizar a las personas con discapacidad las oportunidades del uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
 
-XV. Instrumentar políticas de apoyo y fomento al turismo con igualdad de género en el Estado y sus Municipios;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XV. Instrumentar políticas de apoyo y fomento al turismo con igualdad de género, así como libre de prejuicios y discriminación por identidad de género, expresión de género u orientación sexual en el Estado y sus Municipios;
 
 XVI. Instrumentar políticas para fomentar y desarrollar el turismo incluyente, con pleno respeto a los derechos humanos de las personas;
 
@@ -100,6 +106,14 @@ XVIII. Fomentar y desarrollar acciones para diversificar la actividad turística
 Para los efectos de esta Ley, se entenderá por:
 
 I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+I Bis. Atlas Turístico del Estado de Oaxaca: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo turístico del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+I Ter. Anfitrión: Persona física o moral que de manera directa o mediante intermediario, incluyendo plataformas tecnológicas, pone a disposición de los turistas para uso a partir de tres noches, sus casas, casas dúplex, departamentos, vecindades o cuarterías destinados a uso habitacional a cambio de una contraprestación;
 
 II. Catálogo Turístico del Estado de Oaxaca: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos del estado, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
@@ -115,7 +129,15 @@ VII. Ley General: La Ley General de Turismo;
 
 VIII. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+VIII Bis. Estancia Turística Eventual: Servicio de estancia, alojamiento, hospedaje, temporal o permanente en inmuebles a cambio de una contraprestación
+
 IX. Programa Sectorial: Programa Sectorial de Turismo del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+IX Bis. Inmueble: Las casas, casas dúplex, departamentos, fincas, ranchos, cabañas, campamentos, paraderos de casas rodantes, vecindades o cuarterías en el estado de Oaxaca usadas para casa-habitación, ofrecidas por los anfitriones a los turistas para uso a partir de cuatro noches;
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -124,6 +146,30 @@ X. Pueblo Mágico: Es toda aquella localidad que cuente con el nombramiento que 
 XI. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
 
 XII. Región Turística: Es un espacio homogéneo que puede abarcar el territorio de dos o más municipios y en el que, por la cercana distancia de los atractivos y servicios se complementan;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XII Bis. Padrón de anfitriones: Registro de persona (sic) físicas o morales que ofrecen a los turistas los inmuebles destinados a uso habitacional, a cambio de una contraprestación, a partir de cuatro noches;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XII Ter. Padrón de plataformas tecnológicas: Registro de personas físicas o morales que operan, intermedian y/o administran una aplicación tecnológica o página de internet mediante la cual se ofertan, entre otros servicios, inmuebles de uso habitacional a partir de cuatro noches, autorizados para operar en el Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XII Quater. Plataforma Tecnológica: Personas físicas o morales que operan, intermedian y/o administran una aplicación tecnológica o página de internet, mediante la cual los anfitriones, en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, ofertan los inmuebles a que se refiere la fracción III de este artículo, y que permite a las y los usuarios contratar diferentes tipos de servicios, incluyendo los ofertados por los prestadores de servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XII Quinquies. Sistema Integral de Información Turística: Sistema de información intensivo y extensivo de las Tecnologías de la información y las Comunicaciones para integrar la información de prestadores de servicios turísticos vinculados de manera directa e indirecta con el sector, atractivos turísticos susceptibles de ser explotados y promocionados, así como la integración de información estadística generada a través de los diferentes monitoreos estadísticos implementados para medir la evolución del sector y la toma de decisiones.
+
+Opera tecnológicamente todas las plataformas, registro y módulos que regule esta ley.
+
+Registra, genera, explota y disemina información estratégica online de manera integral para ser utilizada de manera diversa en el sector gubernamental, nacional, estatal, municipal, académico atracción de inversiones y público en general;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XII Sexies. Registro Estatal se Servicios Turísticos: Es el catálogo público de prestadores de servicios turísticos en el Estado de Oaxaca;
 
 XIII. Reglamento: El de la presente Ley;
 
@@ -135,9 +181,17 @@ XVI. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
 
 XVII. Trabajadores Turísticos: Aquella persona física que presta sus servicios en materia turística de manera subordinada y por el cual devenga un salario o percibe una remuneración económica;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley de Migración.
+XVII Bis. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, contraten con el turista la prestación de los servicios a que se refiere esta Ley y su reglamento, incluidos los que se contraten a través de plataformas digitales;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XVII Ter. Turismo Gastronómico: Es un tipo de actividad turística que se caracteriza por el hecho de que la experiencia del visitante cuando viaja está vinculada con la comida y con productos y actividades afines. Además de experiencias gastronómicas auténticas, tradicionales y/o innovadoras, el turismo gastronómico puede implicar también otras actividades afines tales como la visita a productores locales, la participación en festivales gastronómicos y la asistencia a clases de cocina;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XVIII. Turista: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice (sic) alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, incluidos los que se contraten a través de plataformas digitales, sin perjuicio de lo dispuesto para efectos migratorios por la Ley de Migración;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -145,7 +199,9 @@ XX (SIC). Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones de ter
 
 XX. Servicios Turísticos: Se consideran servicios turísticos los prestados a través de:
 
-a) Hoteles, moteles, albergues, y demás establecimientos y casas destinadas para el hospedaje, así como campamentos y paraderos de casas rodantes, centros culturales y de recreación, que presten servicios a turistas;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+a) Hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes, casas, casa dúplex, departamentos total o parcialmente, y otros establecimientos que presten servicios de esta naturaleza, incluyendo los prestados bajo la modalidad de tiempo compartido;
 
 b) Agencias, operadores y mayoristas de viajes;
 
@@ -169,6 +225,26 @@ XXII. Patrimonio Turístico: Conjunto de bienes, servicios, recursos naturales, 
 
 XXIII. Sistema Turístico: Conjunto de elementos básicos, (demanda turística, oferta turística, espacio geográfico y operadores del mercado), relacionados entre sí que permiten la existencia y el correcto desarrollo del turismo.
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XXIV. Experiencia: Conjunto de emociones, sensaciones que son interpretadas por los visitantes, viajeros o turistas al momento del encuentro con el destino turístico, especialmente con la vivencia o actividad que se tipifica en el producto turístico, la cual comporta estados psicológicos y físicos que se producen antes, durante y después de un viaje, y puede estar basada en una serie de estímulos que se articulan entre sí a partir de conceptos de marca y relato.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XXV. Ordenamiento Turístico Territorial: Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XXVI. Gentrificación: Proceso de renovación y conservación de una zona urbana para fomentar el turismo, mediante un proceso que implica el desplazamiento de su población original por parte de otra de mayor poder adquisitivo
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XXVII. Turismo accesible: Se entenderá por turismo accesible a la política pública que incorpora el principio de accesibilidad a través del diseño universal, en las instalaciones turísticas de manera que las personas con discapacidad y personas adultas mayores puedan acceder a las instalaciones en igualdad de condiciones, con la mayor autonomía posible.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XXVIII. Capacitación turística: Es la actividad prioritaria para la eficaz prestación de los servicios turísticos, deberá comprender entre otros aspectos, la enseñanza de Lengua de Señas Mexicanas, para efecto de brindar una plena atención a las personas con discapacidad auditiva.
+
 ###### Artículo 5.
 
 Los principales tipos del turismo que pueden ser aprovechados en el Estado son, entre otros, los siguientes:
@@ -179,7 +255,9 @@ II. Turismo Alternativo: Es el viaje turístico motivado por realizar actividade
 
 III. Turismo Arqueológico: Modalidad vinculada a yacimientos y sitios arqueológicos;
 
-IV. Turismo Cultural: Es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+IV. Turismo Cultural: Es el viaje turístico motivado por conocer, comprender y disfrutar el conjunto de saberes ancestrales, rasgos, elementos distintivos, espirituales, materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico;
 
 V. Turismo Deportivo: Es aquél cuya principal motivación es practicar algún deporte o presenciar algún evento deportivo;
 
@@ -193,7 +271,9 @@ IX. Turismo Ecológico o Ecoturismo: Los viajes que tienen como fin realizar act
 
 X. Turismo Gastronómico: Es aquél que se encuentra vinculado a la comida tradicional de la zona, o derivado de eventos realizados en el Estado;
 
-XI. Turismo Médico o Turismo de la Salud: Es la modalidad de turismo cuyo objetivo principal es el desplazar a los interesados de manera temporal para disfrutar de lugares fuera de su residencia, donde se encuentren condiciones climatológicas, económicas, recreativas, entre otras, que son favorables para recibir tratamientos o atención a su salud para su bienestar;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XI. Turismo Médico o Turismo de la Salud: Es la modalidad de turismo cuyo objetivo principal es el desplazar a los interesados de manera temporal para disfrutar de lugares fuera de su residencia, donde se encuentren condiciones climatológicas, económicas, recreativas, entre otras, que son favorables para recibir tratamientos o atención a su salud para su bienestar, incluida la medicina tradicional;
 
 XII. Turismo Religioso: Es aquél que se encuentra ligado a la oferta de lugares o acontecimientos de carácter religioso de relevancia, o bien de recogimiento y meditación;
 
@@ -227,77 +307,101 @@ Son atribuciones del Ejecutivo del Estado, que se ejercerán a través de la Sec
 
 I. Formular, conducir y evaluar la política turística en el Estado;
 
-II. Desarrollar, dirigir, coordinar y organizar la ejecución de los programas de fomento y promoción turística para el desarrollo de la Entidad.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-III. Impulsar con diferentes actores relevantes del sector empresarial foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo turístico.
+II. Desarrollar, dirigir, coordinar y organizar la ejecución de los programas de fomento y promoción turística para el desarrollo sustentable de la entidad, el Programa Local de Ordenamiento Turístico del Territorio, con la participación que corresponda a los Municipios respectivos y, políticas estructuradas para atender el fenómeno de la gentrificación;
 
-IV. Celebrar convenios en materia turística conforme a lo previsto en la Ley General;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-V. Aplicar los instrumentos de política turística previstos en la presente Ley, así como la planeación, programación, fomento y desarrollo de la actividad turística que se realice en bienes y áreas del Estado;
+III. Diseñar, evaluar y ejecutar los programas de ordenamiento turístico territorial, con la participación de los Municipios.
 
-VI. Formular, ejecutar y evaluar las directrices previstas en el Plan Nacional de Desarrollo, en el Plan Estatal de Desarrollo y en el Programa Sectorial de Turismo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-VII. Establecer los mecanismos que permitan hacer del Estado de Oaxaca el mejor destino turístico a nivel nacional e internacional, fortaleciendo la vocación turística como pilar del desarrollo económico local.
+IV. Impulsar con diferentes actores relevantes del sector empresarial foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo turístico con sustentabilidad;
 
-VIII. Establecer el Consejo Consultivo de Turismo de Oaxaca;
+V. Celebrar convenios en materia turística conforme a lo previsto en la Ley General;
 
-IX. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado, conforme a los convenios que al efecto se suscriban;
+VI. Aplicar los instrumentos de política turística previstos en la presente Ley, así como la planeación, programación, fomento y desarrollo de la actividad turística que se realice en bienes y áreas del Estado;
 
-X. Fomentar la comercialización, promoción y difusión de las rutas y destinos turísticos que se ofrecen en el Estado.
+VII. Formular, ejecutar y evaluar las directrices previstas en el Plan Nacional de Desarrollo, en el Plan Estatal de Desarrollo y en el Programa Sectorial de Turismo;
 
-XI. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística en todo el territorio oaxaqueño;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+VIII. Establecer los mecanismos que permitan hacer del Estado de Oaxaca el mejor destino turístico a nivel nacional e internacional, fortaleciendo la vocación turística como pilar del desarrollo económico y sustentable local.
 
-XII. Impulsar la capacitación permanente de los prestadores de servicios en turismo sustentable, con perspectiva de género, buscando con ello generar una cultura de servicio y asistencia al turista;
+IX. Establecer el Consejo Consultivo de Turismo de Oaxaca;
 
-XIII. Elaborar y emprender proyectos estratégicos, innovadores y sustentables que sean eficaces para lograr el desarrollo turístico conservando en un ámbito de respeto el patrimonio cultural.
+X. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado, conforme a los convenios que al efecto se suscriban;
 
-XIV. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XV. Brindar orientación y asistencia al turista y canalizar las quejas de éstos ante la autoridad competente;
+XI. Fomentar la comercialización, promoción y difusión de las rutas y destinos turísticos que se ofrecen en el estado sustentado en los estudios, investigaciones e indicadores del Sistema Integral de Información Turística.
 
-XVI. Desarrollar de manera permanente fuentes alternas del turismo que estén en armonía con el entorno de vida de las diferentes comunidades;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XVII. Promover la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
+XII. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística en todo el territorio oaxaqueño, previendo políticas públicas para evitar el fenómeno de la gentrificación;
 
-XVIII. Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposiciones reglamentarias que de ellas deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XIX. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad que coadyuven en el desarrollo sustentable de la Entidad Oaxaqueña;
+XIII. Impulsar la capacitación permanente de los prestadores de servicios en turismo sustentable, con perspectiva de género, así como libre de prejuicios y discriminación por identidad de género, expresión de género u orientación sexual, buscando con ello generar una cultura de servicio y asistencia al turista;
 
-XX. Celebrar acuerdos de coordinación con el Ejecutivo Federal, en términos de la Ley General;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XXI. Ejecutar las órdenes de verificación a que haya lugar, en términos de los acuerdos de Coordinación que se suscriban con la Secretaría Federal;
+XIV. Elaborar y emprender proyectos estratégicos, innovadores y sustentables que sean eficaces para lograr el desarrollo turístico sustentable, conservando en un ámbito de respeto la autenticidad del patrimonio cultural material e inmaterial y los derechos culturales de la población del Estado;
 
-XXII. Expedir o revocar las concesiones para la explotación de los recursos o infraestructura turística del Estado;
+XV. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
-XXIII. Implementar y mantener actualizado el Catálogo Turístico Estatal;
+XVI. Brindar orientación y asistencia al turista y canalizar las quejas de éstos ante la autoridad competente;
 
-XXIV. Dar aviso y en su caso, denunciar ante la Comisión Federal de Competencia, cuando en el Estado se presuma que se estén ejerciendo prácticas monopólicas por parte de los prestadores de servicios turísticos; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XVII. Desarrollar de manera permanente fuentes alternas del turismo que respeten las especificidades culturales y el entorno de vida de las diferentes comunidades;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XVIII. Promover en coordinación con la Secretaría de las Culturas y Artes la realización de eventos que promuevan las expresiones y manifestaciones culturales, respetando su autenticidad los derechos culturales de la población, para incrementar la afluencia turística;
+
+XIX. Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposiciones reglamentarias que de ellas deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
+
+XX. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad que coadyuven en el desarrollo sustentable de la Entidad Oaxaqueña;
+
+XXI. Celebrar acuerdos de coordinación con el Ejecutivo Federal, en términos de la Ley General;
+
+XXII. Ejecutar las órdenes de verificación a que haya lugar, en términos de los acuerdos de Coordinación que se suscriban con la Secretaría Federal;
+
+XXIII. Expedir o revocar las concesiones para la explotación de los recursos o infraestructura turística del Estado;
+
+XXIV. Implementar y mantener actualizado el Catálogo Turístico Estatal;
+
+XXV. Dar aviso y en su caso, denunciar ante la Comisión Federal de Competencia, cuando en el Estado se presuma que se estén ejerciendo prácticas monopólicas por parte de los prestadores de servicios turísticos; y
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-XXV. Implementar campañas de difusión, así como promover acciones coordinadas con las autoridades competentes, tendientes a evitar el desperdicio de alimentos en los establecimientos hoteleros, restauranteros;
+XXVI. Implementar campañas de difusión, así como promover acciones coordinadas con las autoridades competentes, tendientes a evitar el desperdicio de alimentos en los establecimientos hoteleros, restauranteros;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XXVI. Coordinar, promover y consolidar en coordinación con la Federación y los Municipios a través de programas y acciones concurrentes, y proyectos de desarrollo turístico realizados por los pueblos y comunidades indígenas del Estado, considerando el ordenamiento territorial, regional y urbano;
+XXVII. Coordinar, promover y consolidar en coordinación con la federación y los municipios a través de programas y acciones concurrentes, y proyectos de desarrollo turístico realizados por los pueblos y comunidades indígenas del estado, respetando su derecho a la libre determinación y considerando el Programa Local de Ordenamiento Turístico del Territorio;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XXVII. Capacitar a los prestadores de servicios turísticos, de los pueblos y comunidades indígenas del Estado en coordinación con los Ayuntamientos, para mejorar los servicios que ofrecen;
+XXVIII. Capacitar a los prestadores de servicios turísticos de los pueblos y comunidades indígenas del Estado en coordinación con los Ayuntamientos, con respeto a su cultura y tradiciones, para mejorar los servicios que ofrecen e impulsar de forma eficaz el turismo en sus comunidades;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XXVIII. Establecer programas y políticas públicas para promover, incentivar y difundir, en coordinación con los municipios, los atractivos turísticos de los pueblos y comunidades indígenas, destacando su cultura, gastronomía, atractivos naturales, artesanales y tradiciones;
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
-
-XXIX. Coadyuvar a la aplicación de los instrumentos de política ambiental y de cambio climático, en materia turística, Y;
+XXIX. Capacitar a los prestadores de servicios turísticos del Estado, para brindar asistencia en primeros auxilios;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XXX. Las demás previstas en éste y otros ordenamientos.
+XXX. Coadyuvar a la aplicación de los instrumentos de política ambiental y de cambio climático, en materia turística, Y;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XXXI. Coadyuvar en la formulación de instrumentos de política y en la vigilancia de la normatividad de preservación ecológica y protección del ambiente, cambio climático, prevención y gestión integral de residuos sólidos urbanos, movilidad y cuidado del agua, en el sector turístico; y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+
+XXXII. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -309,13 +413,21 @@ I. Formular, conducir y evaluar la política turística del municipio;
 
 II. Celebrar convenios en materia turística conforme a lo previsto en la Ley General y a la presente Ley;
 
-III. Aplicar los instrumentos de política turística establecidos en la presente Ley, así como la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas al Ejecutivo Federal y al Ejecutivo (sic) Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-IV. Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará las directrices previstas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, el Programa Sectorial de Turismo y a lo establecido en sus respectivos Planes de Desarrollo Municipal;
+III. Aplicar los instrumentos de política turística establecidos en la presente Ley, así como la planeación, programación, fomento y desarrollo sustentable de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas al Ejecutivo Federal y al Ejecutivo (sic) Estado;
 
-V. Establecer órganos municipales de planeación y concertación en materia turística; que tendrá por objeto coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio, el cuál será en todo caso presidido por el Presidente Municipal e integrado por los actores involucrados en la materia en la circunscripción territorial municipal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-VI. Concertar con los sectores privado y social, las acciones tendientes a detonar el desarrollo turístico del Estado;
+IV. Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará además de las directrices previstas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, el Programa Sectorial de Turismo y a lo establecido en sus respectivos Planes de Desarrollo Municipal; la realización de estrategias que contribuyan al desarrollo turístico, económico y social, así como a la implementación de políticas tendentes a la conservación de los recursos naturales y culturales;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+V. Establecer órganos municipales de planeación y concertación en materia turística; que tendrá por objeto coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral sustentable de la actividad turística en el Municipio, el cuál será en todo caso presidido por el presidente municipal e integrado por los actores involucrados en la materia en la circunscripción territorial municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+VI. Concertar con los sectores privado y social, las acciones tendientes a detonar el desarrollo turístico sustentable del Estado;
 
 VII. Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
 
@@ -327,7 +439,9 @@ IX. Operar módulos de información y orientación al turista, garantizando que 
 
 X. Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda la Ley General, esta Ley u otros ordenamientos legales en concordancia con aquellas y que no estén otorgados expresamente al Ejecutivo Federal ni al Ejecutivo del Estado;
 
-XI. Emitir opinión ante la Secretaría Federal y la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos, dentro de su territorio;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XI. Emitir opinión ante la Secretaría Federal y la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos dentro de su territorio, incluyendo los impactos ambientales, sociales, económicos y culturales;
 
 XII. Celebrar acuerdos de coordinación con el Ejecutivo Federal, en términos de la Ley General;
 
@@ -361,17 +475,31 @@ DE LAS ATRIBUCIONES DE LA SECRETARIA DE TURISMO.
 
 Para el cumplimiento de la presente Ley, corresponde a la Secretaría:
 
-I. Planear, regular y fomentar el desarrollo turístico del Estado, promoviendo las actividades y rutas turísticas que propicien la generación del bienestar social;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades y rutas turísticas;
+I. Planear, regular y fomentar el desarrollo turístico sustentable del estado, promoviendo las actividades y rutas turísticas que propicien la generación del bienestar social;
 
-III. Desarrollar, dirigir, coordinar y organizar la ejecución de los programas de fomento y promoción turística para el desarrollo de la Entidad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-IV. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo turístico;
+II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades y rutas turísticas, incluyendo los impactos de movilidad;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+III. Desarrollar, dirigir, coordinar y organizar la ejecución de los programas de fomento y promoción turística para el desarrollo de la entidad, atendiendo los impactos sociales, económicos, culturales y ambientales y el fenómeno de la gentrificación;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+III Bis. Operar y administrar el Padrón de Anfitriones y el Padrón de Plataformas Digitales a que se refiere esta Ley
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+IV. Proponer políticas económicas redistributivas para impulsar el rescate de espacios públicos y las expresiones culturales, que garanticen el derecho a la ciudad y los derechos culturales de la población local de los destinos turísticos;
 
 V. Fomentar la comercialización, promoción y difusión de las rutas y destinos turísticos que se ofrecen en el Estado;
 
-VI. Establecer los mecanismos que permitan hacer del Estado de Oaxaca el mejor destino turístico a nivel nacional e internacional, fortaleciendo la vocación turística como pilar del desarrollo económico local;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+VI. Fomentar a las micro, pequeñas y medianas empresas turísticas;
 
 VII. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística en todo el territorio oaxaqueño;
 
@@ -383,7 +511,13 @@ X. Promover de manera permanente y estratégica la imagen turística y las oport
 
 XI. Desarrollar de manera permanente fuentes alternas de turismo que están en armonía con el entorno de vida de las diferentes comunidades;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE ABRIL DE 2025)</small>
+
 XII. Promover en coordinación con la Secretaría de las Culturas y las Artes y demás instancias competentes la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XII Bis. Implementar, acciones, programas, mecanismos, para promover y fomentar la promoción gastronómica en el Estado con fines turísticos;
 
 XIII. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad, que coadyuven en el desarrollo sustentable de la entidad oaxaqueña;
 
@@ -399,13 +533,25 @@ XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de
 
 XVII. Elaborar los catálogos, directorios y guías turísticas de los prestadores de servicios turísticos, para efectos de supervisión, inspección, estadística y difusión;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XVIII. Implementar mecanismos de coordinación con los Municipios, para lograr la transversalidad de la perspectiva de género, en el sector turístico a través de la coordinación de acciones a nivel municipal en el ámbito de sus respectivas competencias; y
+XVIII. Implementar mecanismos de coordinación con los Municipios, para lograr la transversalidad de la perspectiva de género, así como libre de prejuicios y discriminación por identidad de género, expresión de género u orientación sexual en el sector turístico a través de la coordinación de acciones a nivel municipal en el ámbito de sus respectivas competencias;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XIX. Recibir quejas o denuncias en contra de autoridades y prestadores de servicios turísticos, así como implementar las medidas necesarias para mejorar la calidad en la prestación de los servicios turísticos.
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
-XIX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de esta ley, el Reglamento interno y demás disposiciones aplicables.
+XX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de esta ley, el Reglamento interno y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 9 Bis.
+
+Corresponde a La Secretaría recabar, investigar, sistematizar y difundir la información turística del Estado de Oaxaca.
+
+Con la información que genere y obtenga la Secretaría elaborará y actualizará el Atlas Turístico de Oaxaca y se aplicará al Atlas Turístico de México a que se refiere la Ley General;
 
 ###### Artículo 10.
 
@@ -423,9 +569,9 @@ COMISIÓN EJECUTIVA DE TURISMO.
 
 La Comisión Ejecutiva de Turismo, es un órgano intersecretarial, que tiene por objeto conocer, atender y resolver los asuntos de naturaleza turística relacionados con la competencia de dos o más dependencias o entidades de la Administración Pública del Estado, así como fungir como órgano de consulta para los asuntos que la Secretaría considere oportuno poner a su consideración.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
-La Comisión será presidida por el titular de la Secretaría, quien tendrá voto de calidad, y estará integrada por los titulares de las Secretarías de Gobierno, Finanzas, de Administración, de Economía, de las Infraestructuras y el Ordenamiento Territorial Sustentable, de Desarrollo Social y Humano, de las Mujeres de Oaxaca, y de Contraloría y Transparencia Gubernamental.
+La Comisión será presidida por el titular de la Secretaría, quien tendrá voto de calidad, y estará integrada por los titulares de las secretarías de Gobierno, Finanzas, de Administración, de Desarrollo Económico, de Infraestructuras y Comunicaciones, de Bienestar, Tequio e Inclusión, de las Mujeres, del Medio Ambiente, Biodiversidad, Energías y Sostenibilidad y de Honestidad, Transparencia y Función Pública.
 
 A la Comisión podrán ser invitados a participar las principales organizaciones sectoriales de turismo, legisladores, autoridades municipales, instituciones de educación superior, representantes de los sectores social y privado, exclusivamente con derecho a voz.
 
@@ -449,9 +595,17 @@ El Consejo Consultivo de Turismo será presidido por el Titular del Ejecutivo de
 
 ### CAPÍTULO I. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+
 ###### Artículo 15.
 
-La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía del Estado y de los Municipios y con ello, buscar el desarrollo regional. Lo anterior, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo, en el Atlas Turístico de México y en el Catálogo Turístico Estatal.
+La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía del Estado y de los Municipios y con ello, buscar el desarrollo regional. Lo anterior, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Sistema Integral de Información Turística, el Registro Nacional de Turismo, en el Atlas Turístico de México y en el Catálogo Turístico Estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+15 BIS (SIC).- En los planes y políticas que para el desarrollo de las actividades turísticas se implementen en el Estado, se deberá garantizar el respeto al medio ambiente y turismo sustentable.
+
+La Secretaría será la responsable de diseñar políticas públicas centradas a fomentar la Economía Circular en los hoteles, restaurantes, recintos culturales y actividades turísticas en el estado, a través de la implementación de estrategias que promuevan la adopción de prácticas sostenibles que contribuyan a la reducción de residuos sólidos y una cultura de reciclaje con la finalidad de preservar el medio ambiente.
 
 ### CAPITULO II
 
@@ -473,7 +627,9 @@ La Secretaría impulsará y promoverá el turismo social, el cual comprende todo
 
 La Secretaría pondrá especial atención para que se facilite la participación en el turismo Social de los grupos de trabajadores, niños, jóvenes, estudiantes, adultos mayores, indígenas, afromexicanos y otros que por razones físicas, económicas, sociales o culturales tienen acceso limitado a disfrutar del patrimonio y los servicios turísticos. Las dependencias y las entidades de la Administración Pública del Estado, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado para el fomento del turismo social.
 
-Las dependencias y entidades de la Administración Pública del Estado y de los Municipios promoverán entre sus trabajadores el turismo social. La Secretaría en coordinación con la Secretaría de Desarrollo Social y Humano elaboraran y ejecutarán de manera coordinada un programa tendiente a fomentar el turismo social en el Estado.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+Las dependencias y entidades de la Administración Pública del estado y de los municipios promoverán entre sus trabajadores el turismo social. La Secretaría en coordinación con la Secretaría de Bienestar, Tequio e Inclusión elaborarán y ejecutarán de manera coordinada un programa tendiente a fomentar el turismo social en el estado.
 
 ###### Artículo 18.
 
@@ -527,17 +683,17 @@ La Secretaria y los Ayuntamientos, vigilarán que las disposiciones establecidas
 
 ### CAPÍTULO V. DEL PATRIMONIO Y LA CULTURA TURÍSTICA
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 25.
 
-La Secretaría, en coordinación con los Ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que desarrollen conocimiento de los beneficios del sector turístico y difundan la protección al patrimonio y la cultura turística.
+La Secretaría, en coordinación con los Ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que desarrollen conocimiento de los beneficios del sector turístico y difundan la protección al patrimonio natural y cultural material e inmaterial, las expresiones y los derechos culturales y ambientales.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 26.
 
-La Secretaría en coordinación con la Secretaría de Culturas y Artes de Oaxaca, promoverá programas que difundan la importancia de respetar y conservar el patrimonio turístico, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional o extranjero.
+La Secretaría, en conjunto con la Secretaría de las Culturas y Artes, promoverá programas que difundan la importancia de respetar y conservar el patrimonio turístico, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional o extranjero.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
 
@@ -549,11 +705,13 @@ La Secretaría, con la participación de las distintas dependencias y entidades 
 
 La Secretaría elaborará el Programa Sectorial de Turismo del Estado, que se sujetará a los objetivos y metas establecidas para el sector en el Plan Estatal de Desarrollo.
 
-La Secretaría al especificar en el programa las políticas, objetivos y prioridades que regirán a la actividad turística, procurará investigar las características de la demanda y los atractivos turísticos naturales y culturales con que cuenta cada ruta turística o región en el Estado.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2021)</small>
+La Secretaría al especificar en el programa las políticas, objetivos y prioridades que regirán a la actividad turística, procurará investigar las características de la demanda y los atractivos turísticos naturales y culturales con que cuenta cada ruta turística o región en el estado, así como los impactos sociales, económicos, culturales y ambientales, y la gentrificación ocasionada por el turismo, con base en los datos del Sistema Integral de Información Turística.
 
-El Programa Sectorial podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el Estado y las políticas, objetivos y metas a corto, mediano y largo plazo de la actividad turística, en estricta observancia a los ordenamientos jurídicos, administrativos y de política económica y de protección al patrimonio turístico que sean aplicables.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+El Programa Sectorial podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el Estado y las políticas, objetivos y metas a corto, mediano y largo plazo de la actividad turística, con base en los informes generados por el Sistema Integral de Información Turística, en estricta observancia a los ordenamientos jurídicos, administrativos y de política económica y de protección al patrimonio turístico cultural y natural que sean aplicables.
 
 ### CAPÍTULO VI. DE LOS PUEBLOS MÁGICOS
 
@@ -611,15 +769,35 @@ En el Reglamento de la presente Ley, se establecerán los lineamientos de coordi
 
 DE LA PROMOCIÓN Y DIFUSIÓN DE LA ACTIVIDAD TURÍSTICA.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+
 ###### Artículo 37.
 
-Con la participación de la Comisión Ejecutiva de Turismo, del Consejo Consultivo y de los Consejos Municipales, la Secretaría realizará por sí o con otras Instituciones Públicas o Privadas, la promoción y difusión de la oferta turística, así como de los lugares que tengan atractivo para los turistas, a través de los Fideicomisos de Promoción Turística del Estado.
+Con la participación de la Comisión Ejecutiva de Turismo, del Consejo Consultivo y los consejos municipales, atendiendo los datos del Sistema Integral de Información Turística, la Secretaría realizará por sí o con otras Instituciones Públicas o Privadas, la promoción y difusión de la oferta turística, así como de los lugares que tengan atractivo para los turistas, a través de los Fideicomisos de Promoción Turística del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 38.
 
-La promoción y difusión turística se realizarán con bases técnicas que permitan incrementar la captación del Turismo, observando en todo momento los principios de eficiencia, eficacia, economía, honradez, garantizando la inclusión y accesibilidad para personas con discapacidad a dicha promoción.
+La promoción y difusión turística se realizarán con bases técnicas sustentadas en los datos del Sistema Integral de Información Turística que permitan incrementar la captación del Turismo, observando en todo momento los principios de eficiencia, eficacia, economía, honradez, garantizando la inclusión y accesibilidad para personas con discapacidad a dicha promoción.
+
+A fin de cumplir con el objeto de promover, proteger, mejorar, incrementar y difundir los atractivos y actividades turísticas del estado, la Secretaría deberá:
+
+I. En coordinación con las dependencias federales, estatales y municipales involucradas fomentar el cuidado y conservación de parques, bosques, lagos, lagunas, ríos, zonas y monumentos arqueológicos, artísticos e históricos y lugares de interés para el turismo;
+
+II. Promover, en coordinación con la dependencia del ramo, el rescate y preservación de las tradiciones y costumbres del Estado que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación;
+
+III. La Secretaría administrará de acuerdo con las normas y políticas que establezcan los órganos administrativos del Estado, su portal de turismo en Internet y los mecanismos de redes sociales que resulten adecuados para la promoción de los atractivos turísticos, históricos, culturales y naturales de la Entidad, así como aquella información que se considere de interés para los turistas y para el público en general.
+
+IV. La Secretaría tendrá a su cargo asesorar y capacitar a los ayuntamientos y organizaciones de los sectores social y privado en las acciones de promoción y difusión turística que les corresponda.
+
+V. La secretaria tendrá a su cargo la difusión y promoción de los atractivos turísticos de los municipios con vocación turística en el estado.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 38 Bis.
+
+La Secretaría difundirá la información turística a través de su sitio de internet oficial, centros y Módulos de Información Turística, entre otros medios
 
 ###### Artículo 39.
 
@@ -639,31 +817,39 @@ La Comisión Ejecutiva de Turismo, el Consejo Consultivo y la Secretaría, podr�
 
 ### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+
 ###### Artículo 43.
 
-La Secretaría promoverá acciones de coordinación y formulará recomendaciones en la elaboración de planes y programas de estudios con las instancias educativas competentes, para que se promueva a través de libros de texto o cualquier otro medio didáctico, el significado de la actividad turística, su importancia para el Estado, y para la formación de profesionales y asesores en esta actividad.
+La Secretaría tendrá a su cargo promover acciones de coordinación con los ayuntamientos y la federación para la elaboración de programas de formación, capacitación y certificación de prestadores de servicios turísticos.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 44.
 
-La Secretaría llevará un registro de centros de enseñanza dedicados a la especialidad de turismo, reconocidos oficialmente por la Secretaría de Educación Pública o en su caso por la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, con el objeto de dar a conocer a los prestadores de servicios turísticos que así lo soliciten, sobre la validez oficial y el nivel académico de dichos planteles educativos.
+La Secretaría en coordinación con los ayuntamientos promoverán entre los prestadores de servicios turísticos la capacitación del personal a su cargo, con base a las características de las líneas de producto y demanda, la certificación de competencias laborales y fortalecimiento de la especialización del capital humano, con el fin de lograr la competitividad de la actividad turística y profesionalización del sector en nuestro estado.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 45.
 
-La Secretaría promoverá en coordinación con los Centros de Enseñanza a que se hacen referencia en el artículo anterior, el establecimiento de un Padrón de Egresados de Especialidad Turística, el cual deberá mantener actualizado y darlo a conocer en forma anual a los prestadores de servicios turísticos, con la finalidad de que sean éstos, opción para ser contratados de acuerdo a su perfil y aptitudes profesionales.
+La Secretaría en coordinación con las dependencias competentes implementará programas y acciones orientados a difundir una cultura turística que contribuya al conocimiento de los beneficios de la actividad turística, así como el respeto y conservación del patrimonio natural, cultural, turístico y la generación de una vocación de servicio y hospitalidad hacia el turista.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 46.
 
-La Secretaría propondrá al Titular del Ejecutivo del Estado la celebración de acuerdos con la Secretaría del Trabajo y Previsión Social, para el desarrollo de programas relacionados con la capacitación y adiestramiento que tengan como finalidad instruir a aquellos trabajadores y empleados de establecimientos turísticos, con el conocimiento necesario, para el desarrollo de sus actividades, de acuerdo a los términos que marque la legislación federal en materia de trabajo.
+La Secretaría promoverá en coordinación con los centros de enseñanza a que se alude en el artículo anterior, el establecimiento de un Padrón de Capital Humano Certificado en Competencias Turísticas, el cual deberá mantener actualizado y darlo a conocer en forma anual a los prestadores de servicios turísticos, con la finalidad de que sean éstos opción para ser contratados de acuerdo con su perfil y aptitudes profesionales.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 47.
 
-La Secretaría propondrá al Titular del Ejecutivo del Estado programas de capacitación, y se coordinará con la Secretaría Federal, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos, como a servidores públicos.
+La Secretaría propondrá al Titular del Ejecutivo del Estado la celebración de acuerdos con entes públicos y/o privados, nacionales o internacionales, para el desarrollo de programas relacionados con la capacitación y certificación que tengan como finalidad instruir a aquellos trabajadores y empleados de establecimientos turísticos, con el conocimiento necesario, para el desarrollo de sus actividades, de acuerdo con los términos que marque la legislación federal en materia de trabajo.
 
-Asimismo, la Secretaría en coordinación con instancias estatales competentes establecerá programas permanentes de capacitación dirigido a los trabajadores del sector turístico.
+La Secretaría propondrá al Titular del Ejecutivo del Estado programas de capacitación y certificación, y se coordinará con la Secretaría Federal, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística y certificación de competencias, tanto a prestadores de servicios turísticos, como a servidores públicos.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
-
-La capacitación turística se considerará como una actividad prioritaria para la eficaz prestación de los servicios turísticos, deberá comprender entre otros aspectos, la enseñanza de Lengua de Señas Mexicanas, para efecto de brindar una plena atención a las personas con discapacidad auditiva.
+Asimismo, la Secretaría en coordinación con instancias estatales competentes establecerá programas permanentes de capacitación dirigidos a los trabajadores del sector turístico, con inclusión de las personas con discapacidad.
 
 ## TÍTULO NOVENO. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
@@ -684,6 +870,24 @@ La inscripción al Registro Nacional de Turismo será obligatoria para los prest
 ###### Artículo 51.
 
 La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la Secretaría Federal, siendo responsabilidad de la Secretaría y de los Ayuntamientos, constatar la veracidad de la información que proporcionen los prestadores de servicios turísticos en el Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 51 Bis.
+
+El Sistema Integral de Información Turística registrará y procesará las bases de datos e información de prestadores de servicios turísticos, atractivos turísticos, estadísticas y normatividad turística del Estado de Oaxaca, bajo los procesos y metodologías que implemente y opere la Secretaría de Turismo.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 51 Ter.
+
+El Sistema Integral de Información Turística contará con las normas de calidad vigentes para el desarrollo de software y ofrecerá los estándares de funcionalidad, fiabilidad, usabilidad, rendimiento y seguridad informática; para establecer y garantizar la estructura sólida que permitirá tener una mejor (sic) continua del proceso de desarrollo y la gestión de servicios informáticos que cumplan los requisitos técnicos y las metas estratégicas de la Secretaría de Turismo.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 51 Quater.
+
+El Sistema Integral de Información Turística operará con la información que proporcione la Subsecretaría de Desarrollo Turístico y la Subsecretaría de Operación Turística, con instituciones del sector privado, instituciones del sector educativo, instituciones, entidades federales, estatales, municipales y con instituciones relacionadas con el turismo en el Estado.
 
 ## TÍTULO DÉCIMO
 
@@ -783,7 +987,9 @@ XX. Proporcionar al turista los bienes o servicios ofrecidos en los términos ac
 
 XXI. Implementar las medidas de seguridad en los establecimientos y lugares donde prestan sus servicios;
 
-XXII. Garantizar al usuario la tranquila y segura disposición y uso de los bienes y servicios prestados;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+XXII. Garantizar al usuario el derecho a la privacidad, intimidad y tranquilidad, así como el uso pleno de los bienes y servicios contratados.
 
 XXIII. Difundir información de manera ética, profesional y responsable por cualquier medio de comunicación que utilice para promocionarse, sobre la actividad turística en el Estado;
 
@@ -795,19 +1001,145 @@ XXV. Capacitar a sus empleados para prestar primeros auxilios, y;
 
 XXVI. Las demás que establezca la legislación aplicable en la materia.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 54 Bis.
 
-Los prestadores de servicios turísticos que brinden el servicio de hospedaje, además de los deberes establecidos en el artículo anterior, deberán implementar medidas de seguridad, para la protección de las niñas, niños y adolescentes, previa prestación del servicio.
+Todos los prestadores de servicios que brinden el servicio turístico de hospedaje y estancia temporal, además de las obligaciones establecidas en la presente ley, deberán implementar medidas de seguridad para la protección de niñas, niños y adolescentes, previa prestación del servicio dentro de su ámbito de aplicación y de las diversas acciones en beneficio de lo citado; como las siguiente (sic):
 
-Para tal efecto, deberán al menos, realizar lo siguiente:
+I. Incorporarse al Código Nacional para la Protección de las Niñas, Niños y Adolescentes en el sector de viajes y turismo, como requisito indispensable para acceder a apoyos y estímulos gubernamentales.
 
-I. Solicitar la exhibición de algún documento oficial que acredite la mayoría de edad;
+II. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad;
 
-II. Permitir el ingreso de niñas, niños y adolescentes, a las habitaciones o departamentos de establecimientos de hospedaje, solamente cuando vayan acompañados de algún adulto autorizado para realizar dicho viaje, que deberá acreditar con documento idóneo, y;
+III. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia turística eventual, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia; y
 
-III. Notificar a las Instituciones correspondientes, cuando se advierta la posible comisión de un hecho delictivo en contra de niñas, niños y adolescentes, para que determinen lo conducente.
+IV. Notificar a las autoridades correspondientes inmediatamente, en caso de advertir la posible comisión de un delito.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+Artículo 54 TER.- La Secretaría será la encargada de administrar y operar el Padrón de Anfitriones y el Padrón de Plataformas Digitales, los cuales tendrán como propósito:
+
+I. Identificar a las y los anfitriones y plataformas digitales que ofrezcan, proporcionen o contraten servicio turístico de hospedaje en el Estado de Oaxaca;
+
+II. Identificar los inmuebles de uso habitacional donde se brinde el servicio de Estancia Turística Eventual; y
+
+III. Integrar una base de datos confiable que permita a las autoridades vigilar el correcto funcionamiento en la prestación de este servicio turístico de hospedaje;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 54 Quater.
+
+Son obligaciones de los Anfitriones:
+
+I. Registrarse en el Padrón de Anfitriones de la Secretaría de Turismo;
+
+II. Inscribir los inmuebles de uso habitacional que ponen a disposición de los turistas hasta con un máximo de 5 inmuebles;
+
+III. Proporcionar a los turistas información real, clara y lo más detallado de las características, precios y reglas de uso del inmueble ofertado;
+
+IV. Exhibir en un sitio visible del inmueble los números de emergencia de Oaxaca, los números de contacto para solicitar la asistencia del Anfitrión o un representante;
+
+V. Proporcionar bimestralmente a la Secretaría, un reporte del número de ocasiones en las que se han ocupado los inmuebles, la cantidad de noches ocupadas durante el periodo a reportar, proporcionar información falsa o ser omiso en la entrega de los informes de referencia será motivo de baja del padrón; esto con fines estadísticos de la propia Secretaría;
+
+VI. Tener sus instalaciones lo más seguras posibles e higiénicas para el uso de los turistas;
+
+VII. Garantizar los requisitos de seguridad, atendiendo la normatividad en materia de Coordinación Estatal de Protección Civil y Gestión de Riesgos;
+
+VIII. Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicable;
+
+IX. Registrar ante la Secretaría, en el Padrón de Anfitriones, número telefónico y correo electrónico para la recepción y solución de quejas por parte de turistas relacionadas con el inmueble ofertado;
+
+X. Proteger los datos personales proporcionados por los turistas en términos de los dispuesto por la Ley de la materia;
+
+XI. Vigilar que no se ocupen las viviendas para actividades que alteren el orden público o afecten el interés social en las comunidades anfitrionas; y
+
+XII. Las demás que se señalen en esta Ley, su Reglamento y en las demás leyes aplicables en el Estado de Oaxaca;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 54 Quinquies.
+
+Son obligaciones de las Plataformas digitales a través de su representante legal:
+
+I. Incorporarse al Padrón de Plataformas Digitales y mantener vigente su registro; este registro tendrá una vigencia de 1 año y deberá de ser renovado 15 días antes de su vencimiento;
+
+II. Solicitar a los Anfitriones la constancia y el folio de registro otorgado por la Secretaría al momento de realizar la inscripción en el Padrón de Anfitriones como requisito indispensable para ofertar los inmuebles;
+
+III. Mostrar dentro de su plataforma, en cada anuncio, la constancia y folio del registro en el Padrón de Anfitriones para consulta de los usuarios;
+
+IV. Proporcionar a la Secretaría bimestralmente, un reporte del número de ocasiones en las que han ocupado los inmuebles, la cantidad de noches ocupadas durante el periodo a reportar, así como del número de quejas recibidas, proporcionar información falsa o ser omiso en la entrega de los informes de referencia, será motivo de baja del padrón;
+
+V. Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicables; y
+
+VI. Las demás que se señale (sic) la normatividad aplicable del Estado de Oaxaca;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 54 Sexies.
+
+Para ser incorporados en este padrón, los anfitriones deberán presentar:
+
+I. Nombre, denominación o razón social y nacionalidad del anfitrión;
+
+II. Identificación oficial vigente con domicilio o carta bajo protesta de decir verdad que habita el domicilio donde se encuentran los cuartos o habitaciones que se ofertan;
+
+III. Documento con el que acredita la propiedad, administración o posesión de cada uno de los inmuebles registrados;
+
+IV. Cédula de Registro Federal de Contribuyentes;
+
+V. Constancia de situación fiscal;
+
+VI. Registro Estatal de Contribuyentes;
+
+VII. Constancias de no adeudos de predial y agua, por cada inmueble registrado;
+
+VIII. Comprobante de domicilio del inmueble que se inscribe;
+
+IX. Tipo de inmueble que se inscribe de acuerdo al artículo 4 fracción XIII de esta Ley;
+
+X. Plataforma o Plataformas Digitales en las que se ofrece cada inmueble;
+
+XI. Carta bajo protesta de decir verdad en la que se indique que el inmueble cumple con las medidas de seguridad, atendiendo la normatividad en materia de Protección Civil y Gestión de Riesgos, por cada inmueble registrado;
+
+XII. Caratula de la póliza o documento que acredite que el inmueble cuenta con seguro de responsabilidad civil suficiente que cubra posibles riesgos en la prestación de los servicios, por cada inmueble registrado, cuando cuente con éste;
+
+XIII. Número telefónico y correo electrónico para recibir y resolver quejas respecto al uso de los inmuebles por parte de turistas, por cada inmueble registrado;
+
+XIV. Los demás establecidas (sic) en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 54 Septies.
+
+Por cada inmueble que se incorpore al padrón se expedirá una constancia y folio. Dicho folio deberá registrarse en la o las plataformas en las que se oferte el inmueble. La vigencia de este registro es por un año y deberá renovarse dentro de los quince días naturales previos a su expiración.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 54 Octies.
+
+En el Padrón de Plataformas Digitales deberán incorporarse las personas físicas o morales, mexicanas o extranjeras, autorizadas para operar, intermediar, administrar una aplicación digital, página de internet, redes sociales o similares mediante la cual se oferte el servicio de Estancia Turística Eventual, entre otros servicios.
+
+Para ser incorporadas en este padrón, las Plataformas Digitales deberán presentar:
+
+I. El formato debidamente requisitado que proporcione la Secretaría de Turismo;
+
+II. Documento con el que acredite su constitución;
+
+III. Documento que acredite la personalidad del representante legal que realiza el trámite;
+
+IV. Cédula de Registro Federal de Contribuyentes de la Plataforma Digital;
+
+V. Constancia de situación fiscal;
+
+VI. Constancia de registro, del Registro Estatal de Contribuyente;
+
+VII. Comprobante de domicilio;
+
+VIII. Número telefónico y correo electrónico para recibir y resolver quejas por parte de turistas;
+
+IX. Carátula de la póliza de seguro de responsabilidad civil contratado con una aseguradora acreditada ante la Comisión Nacional de Seguros y Fianzas;
+
+X. Los demás establecidas (sic) en el Reglamento de esta Ley.
 
 ### CAPÍTULO II. DE LOS TURISTAS
 
@@ -829,13 +1161,17 @@ V. Recibir los servicios sin ser discriminados y con pleno respeto a sus derecho
 
 VI. Disfrutar el libre acceso y goce de todo el patrimonio turístico, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de los reglamentos específicos de cada actividad;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente, y;
+VII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-VIII.- Contar con el apoyo necesario para tener acceso a la realización de las actividades turísticas, cuando se trate de personas con discapacidad auditiva, así como la posibilidad de recibir información mediante interpretación en Lengua de Señas Mexicanas.
+VIII. Contar con el apoyo necesario para tener acceso a la realización de las actividades turísticas, cuando se trate de personas con discapacidad auditiva, así como la posibilidad de recibir información mediante interpretación en Lengua de Señas Mexicanas; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+IX. Presentar quejas o denuncias, así como solicitar la información necesaria de las autoridades competentes para que sus solicitudes sean atendidas de forma oportuna y eficiente.
 
 ###### Artículo 56.
 
@@ -843,7 +1179,9 @@ Son deberes del turista:
 
 I. Observar las normas usuales de convivencia en los establecimientos turísticos;
 
-II. Respetar y preservar el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+II. Respetar y preservar el patrimonio natural y cultural de los sitios en los (sic) realice una actividad turística, así como las disposiciones en materia de residuos sólidos urbanos, movilidad y cuidado del agua;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
@@ -895,21 +1233,29 @@ VIII. La realización de acciones para favorecer las inversiones y proyectos tur
 
 IX. Fomentar la contratación de trabajadores turísticos provenientes de las instituciones educativas públicas y privadas del Estado, ante los prestadores de servicios turísticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2025)</small>
+
 ###### Artículo 58.
 
-La Secretaría en coordinación con las Instituciones Educativas de nivel superior y con las Autoridades Educativas competentes, realizarán estudios e investigaciones en materia turística, y llevaran a cabo acciones para mejorar y complementar la enseñanza turística a nivel superior y de posgrado en el Estado, dirigida al personal de instituciones públicas, privadas y sociales vinculadas y con objeto social relativo al turismo.
+La Secretaría en coordinación con las instituciones educativas de nivel superior, de postgrado y con las demás autoridades educativas competentes realizará estudios, planeaciones e investigaciones en materia turística, de protección y conservación del patrimonio turístico; además promoverá la celebración de acuerdos y convenios con instituciones educativas con reconocimiento oficial que ofrezcan estudios relacionados con el turismo, a fin de desarrollar programas de capacitación, adiestramiento y profesionalización, con el objetivo de mejorar y complementar la enseñanza sobre la actividad turística en el Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+La Secretaría se coordinará con la Secretaría de Educación Pública para la promoción y fomento de la educación y cultura turística.
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 59.
 
-La Secretaría participará en la elaboración de programas de profesionalización turística y establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
+La Secretaría participará en la elaboración de programas de profesionalización turística y establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales, así como el fortalecimiento de la especialización del capital humano.
 
 ### CAPÍTULO SEGUNDO. DE LOS TRABAJADORES TURÍSTICOS
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 60.
 
-La Secretaría, en coordinación con el Instituto de Capacitación para el Trabajo del Estado de Oaxaca, y con las demás áreas competentes, establecerá programas permanentes de capacitación para los trabajadores y empleados que presten un servicio considerado como turístico y que tenga por objeto el mejoramiento de la calidad de los servicios. A su vez, serán incluidas en los programas de capacitación, acciones coordinadas con perspectiva de género que tengan por objeto privilegiar la igualdad laboral en el sector turístico; para fomentar una cultura de respeto a los derechos de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en el Turismo.
+La Secretaría, en coordinación con el Instituto de Capacitación para el Trabajo del Estado de Oaxaca, y con las demás áreas competentes, establecerá programas permanentes de capacitación para los trabajadores y empleados que presten un servicio considerado como turístico y que tenga por objeto el mejoramiento de la calidad de los servicios. A su vez, serán incluidas en los programas de capacitación, acciones coordinadas con perspectiva de género, así como libre de prejuicios y discriminación por identidad de género u orientación sexual que tengan por objeto privilegiar la igualdad laboral en el sector turístico, para fomentar una cultura de respeto a los derechos de niños, niñas y adolescentes frente a la explotación sexual y/o laboral en el turismo
 
 ###### Artículo 61.
 
@@ -1274,3 +1620,11 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2514.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II, III, VII Y XV DEL ARTÍCULO 3; LA FRACCIÓN XVIII, EL INCISO a) DE LA FRACCIÓN XX DEL ARTÍCULO 4; LAS FRACCIONES IV Y XI DEL ARTÍCULO 5; LAS FRACCIONES II, IV, VIII, XI, XII, XIII, XIV, XVII, XVIII, XXVII, XXVIII Y XXXI, DEL ARTÍCULO 7; LAS FRACCIONES III, IV, V, VI Y XI DEL ARTÍCULO 8; LAS FRACCIONES I, II, III, IV, VI, XII Y XVIII DEL ARTÍCULO 9; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; EL TERCER PÁRRAFO DEL ARTÍCULO 17; LOS ARTÍCULOS 25, 26; SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 28; LOS ARTÍCULOS 37, 38, 43, 44, 45, 46 Y 47; LA FRACCIÓN XXII DEL ARTÍCULO 54; EL 54 BIS; LAS FRACCIONES VII, VIII DEL ARTÍCULO 55; LA FRACCIÓN II DEL ARTÍCULO 56; LOS ARTÍCULOS 58, 59 Y 60; Y SE ADICIONAN LAS FRACCIONES I BIS, I TER, VIII BIS, IX BIS, XII BIS, XII TER, XII QUATER, XII QUINQUIES, XII SEXIES, XVII BIS, XVII TER, XXIV, XXV, XXVI, XXVII, XXVIII, DEL ARTÍCULO 4; III Y XXIX, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DEL ARTÍCULO 7; UNA FRACCIÓN XIX AL ARTÍCULO 9; UN ARTÍCULO 15 BIS; UN ARTÍCULO 51 BIS; UN ARTÍCULO 51 TER; UN ARTÍCULO 51 QUATER; UN ARTÍCULO 54 BIS; UN ARTÍCULO 54 TER, UN ARTÍCULO 54 QUATER, UN ARTÍCULO 54 QUINQUIES, UN ARTÍCULO 54 SEXIES, UN ARTÍCULO 54 SEPTIES, UN ARTÍCULO 54 OCTIES; UNA FRACCIÓN IX DEL ARTÍCULO 55; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 58 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
