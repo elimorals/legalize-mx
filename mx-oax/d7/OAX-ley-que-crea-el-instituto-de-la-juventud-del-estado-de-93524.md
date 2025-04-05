@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-de-la-juventud-del-estado-de-93524"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-04"
-last_updated: "2023-05-13"
+last_updated: "2025-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el lunes 4 de marzo de 2013.
 
@@ -125,25 +125,29 @@ IX. Requerir información de las instituciones estatales y municipales que le pe
 
 X. Celebrar acuerdos y convenios de colaboración con los sectores público, social y privado, nacional e internacional, para fomentar la inversión en el desarrollo de proyectos en favor de las juventudes en el Estado, a efecto de mejorar la calidad y cobertura de las políticas públicas juveniles; así como impulsar programas de capacitación, investigación y avance en áreas de tecnologías, información, comunicación y otras estratégicas para las y los jóvenes, con el objetivo de propiciar una mayor vinculación entre las juventudes y los sectores productivos de la entidad;
 
-XI. Recibir, canalizar y dar seguimiento a las propuestas, sugerencias e inquietudes de la juventud oaxaqueña;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XII. Promover ante las empresas del sector público y privado la inclusión de la primera experiencia laboral de las y los jóvenes;
+XI. Elaborar, en coordinación con la Secretaría de Fomento Agroalimentario y Desarrollo Rural, propuestas, programas con componentes específicos para jóvenes que radiquen en comunidades indígenas y afromexicanas, a fin de impulsar su empleabilidad para desarrollar su capacidad emprendedora, mejorando su acceso a asistencia técnica, capitalización productiva, financiamiento, procesos de asociatividad, tecnologías y mercados del sector agropecuario;
 
-XIII. Orientar recursos a favor de programas que fomenten el desarrollo de la juventud y apoyar aquellos que los propios jóvenes realicen, de acuerdo con los objetivos de la presente Ley;
+XII. Recibir, canalizar y dar seguimiento a las propuestas, sugerencias e inquietudes de la juventud oaxaqueña;
 
-XIV. Propiciar la instalación de los Comités Municipales de la Juventud en los municipios del Estado;
+XIII. Promover ante las empresas del sector público y privado la inclusión de la primera experiencia laboral de las y los jóvenes;
 
-XV. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
+XIV. Orientar recursos a favor de programas que fomenten el desarrollo de la juventud y apoyar aquellos que los propios jóvenes realicen, de acuerdo con los objetivos de la presente Ley;
 
-XVI. Impulsar la operación de programas de educación, orientación y asesoría a madres y padres jóvenes;
+XV. Propiciar la instalación de los Comités Municipales de la Juventud en los municipios del Estado;
 
-XVII. Promover el turismo juvenil;
+XVI. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
 
-XVIII. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos, documentales y a las nuevas tecnologías de información y comunicación;
+XVII. Impulsar la operación de programas de educación, orientación y asesoría a madres y padres jóvenes;
 
-XIX. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos, y
+XVIII. Promover el turismo juvenil;
 
-XX. Las demás que le otorgue la presente Ley y otros ordenamientos legales que le permitan cumplir con su objetivo fundamental.
+XIX. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos, documentales y a las nuevas tecnologías de información y comunicación;
+
+XX. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos, y
+
+XXI. Las demás que le otorgue la presente Ley y otros ordenamientos legales que le permitan cumplir con su objetivo fundamental.
 
 ### CAPÍTULO IV. DE LA ESTRUCTURA ORGÁNICA DEL INSTITUTO
 
@@ -444,5 +448,13 @@ P.O. 13 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1335.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN X DEL ARTÍCULO 6 DE LA LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 532.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XI, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES ACTUALES, DEL ARTÍCULO 6 DE LA LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
